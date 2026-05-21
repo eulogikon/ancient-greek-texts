@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "hus",
+  "auth_slug": "timonax",
+  "name": {
+    "english": "Timonax",
+    "ancient_greek": "Τιμώναξ"
+  },
+  "seo_h1": "Scythian Geography in the Fragments of Timonax",
+  "seo": {
+    "browser_title": "Timonax the Hellenistic Historian on Eulogikon Greek Archive",
+    "meta_title": "Classical Timonax Ancient Greek Historical Works and Texts",
+    "meta_description": "Timonax was a Hellenistic historian writing in Attic prose. His surviving historical work is here. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Timonax was a Greek historian of the 4th century BCE. No biographical details survive. His existence is attested solely by a citation in Diodorus Siculus, who references him for events in 373/2 BCE concerning Spartan military actions in Acarnania.</p>\n<p class=\"research-text\">His only known work is a lost History, cited by Diodorus Siculus. Its title and full scope are unknown, and it survives only as this single fragment.</p>\n<p class=\"research-text\">Timonax’s significance derives entirely from his use as a source by a later historian. He exemplifies the vast, now-lost historiography of the 4th century BCE that informed surviving authors. His citation confirms the existence of detailed contemporary accounts of Spartan campaigns, though his own historical method and reliability are unassessable from the solitary fragment.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "hus-aa",
+      "title": {
+        "english": "Fragments on Scythian Geography",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Σκυθικῆς Γεωγραφίας"
+      },
+      "url_slug": "timonax-scythian-geography-hus-aa",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/timonax/scythian-geography",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timonax-scythian-geography-hus-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timonax-scythian-geography-hus-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timonax-scythian-geography-hus-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timonax-scythian-geography-hus-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timonax/scythian-geography.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/timonax",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timonax-hus.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timonax-hus.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timonax-hus.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timonax-hus.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

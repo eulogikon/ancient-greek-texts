@@ -1,0 +1,222 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "gzy-ab",
+  "eul_aid": "gzy",
+  "author_slug": "demonicus-the-comic-poet",
+  "work_slug": "boeotian-banquet-ab",
+  "url_slug": "demonicus-the-comic-poet-boeotian-banquet-ab-gzy-ab",
+  "author": {
+    "english": "Demonicus the Comic Poet",
+    "ancient_greek": "Δημόνικος ὁ κωμικός"
+  },
+  "title": {
+    "english": "Boeotian Banquet",
+    "ancient_greek": "Ἀπόσπασμα"
+  },
+  "seo": {
+    "browser_title": "The Boeotian Banquet Fragment by Demonicus on Eulogikon",
+    "meta_title": "The Boeotian Banquet by Demonicus in Ancient Greek",
+    "meta_description": "The Boeotian Banquet is a comic fragment by Demonicus. It offers a glimpse of ancient Greek comedy. Read free and download in original Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">_The Boeotian Banquet_ is a lost Greek comedy attributed to Demonicus. Known only through excerpts in antiquity, as suggested by its title meaning &quot;a piece torn off&quot; or &quot;fragment,&quot; the work survives solely in two brief passages cited by the grammarian Athenaeus in his _Deipnosophistae_. These fragments reference specific foods: a bread called _kribanitai_ and a dish of chickpeas and beans. The extant citations, focusing on comestibles, indicate that food and gluttony served as primary comic motifs. The title further implies the comedy exploited common Athenian stereotypes of Boeotians as rustic and gluttonous, with the setting likely being a _symposion_, or banquet, a frequent scene for social satire in Greek comedy. The play has no independent manuscript tradition; its preservation depends entirely on its utility to Athenaeus in the 2nd or 3rd century CE as a source for ancient dining customs and lexicon. While no direct literary influence is traceable, the fragments are valuable for understanding the lost corpus of Greek comedy beyond the major playwrights. They provide evidence for comic tropes involving regional ridicule and banquet humor, and serve as a minor source for the study of ancient Greek foodways.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ἐσπουδάκει δ’ ἕκαστος, ὡς ἂν ἑστιῶν ἅμα τ’ ὀξύπεινον ἄνδρα καὶ Βοιώτιον· τὸ γοῦν κατὰ χειρὸς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "περιγράφει πᾶς, ὅτι μετά τὸ δεῖπνον αὐτῷ τοῦτο γίγνεται λαβεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "gzy-aa",
+      "title": {
+        "english": "Boeotian Banquet",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "demonicus-the-comic-poet-boeotian-banquet-aa-gzy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/demonicus-the-comic-poet/boeotian-banquet-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet-boeotian-banquet-aa-gzy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet-boeotian-banquet-aa-gzy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet-boeotian-banquet-aa-gzy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet-boeotian-banquet-aa-gzy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet/boeotian-banquet-aa.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "efg-aa",
+      "title": {
+        "english": "Comic Fragments on Food and Feasting",
+        "ancient_greek": "Ἀποσπάσματα περὶ Τροφῆς καὶ Εὐωχίας"
+      },
+      "url_slug": "theopompus-the-comic-poet-food-feasting-efg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theopompus-the-comic-poet/food-feasting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet-food-feasting-efg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet-food-feasting-efg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet-food-feasting-efg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet-food-feasting-efg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet/food-feasting.epub"
+      }
+    },
+    {
+      "eul_wid": "kpk-ab",
+      "title": {
+        "english": "Culinary and Comic Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "machon-of-sinope-culinary-comic-ab-kpk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/machon-of-sinope/culinary-comic-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope-culinary-comic-ab-kpk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope-culinary-comic-ab-kpk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope-culinary-comic-ab-kpk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope-culinary-comic-ab-kpk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "bhm-aa",
+      "title": {
+        "english": "Fragments of Pseudepicharmea",
+        "ancient_greek": "Ψευδεπιχάρμου Ἀποσπάσματα"
+      },
+      "url_slug": "epicharmus-syracuse-pseudepicharmea-aa-bhm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicharmus-syracuse/pseudepicharmea-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-pseudepicharmea-aa-bhm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-pseudepicharmea-aa-bhm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-pseudepicharmea-aa-bhm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-pseudepicharmea-aa-bhm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/pseudepicharmea-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "djs-aa",
+      "title": {
+        "english": "Fragments on Gods and Time",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θεῶν καὶ Χρόνου"
+      },
+      "url_slug": "hermippus-the-comic-poet-gods-time-djs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermippus-the-comic-poet/gods-time",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet-gods-time-djs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet-gods-time-djs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet-gods-time-djs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet-gods-time-djs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet/gods-time.epub"
+      }
+    },
+    {
+      "eul_wid": "gcm-ab",
+      "title": {
+        "english": "Fragments on Health and Pleasure",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ὑγιείας καὶ Ἡδονῆς"
+      },
+      "url_slug": "philetaerus-the-comic-poet-health-pleasure-gcm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/philetaerus-the-comic-poet/health-pleasure",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetaerus-the-comic-poet-health-pleasure-gcm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetaerus-the-comic-poet-health-pleasure-gcm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetaerus-the-comic-poet-health-pleasure-gcm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetaerus-the-comic-poet-health-pleasure-gcm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetaerus-the-comic-poet/health-pleasure.epub"
+      }
+    },
+    {
+      "eul_wid": "hdu-aa",
+      "title": {
+        "english": "Fragments on Rural Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Ἀγροικοῦ"
+      },
+      "url_slug": "anaxilas-the-comic-poet-rural-life-hdu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anaxilas-the-comic-poet/rural-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-the-comic-poet-rural-life-hdu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-the-comic-poet-rural-life-hdu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-the-comic-poet-rural-life-hdu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-the-comic-poet-rural-life-hdu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-the-comic-poet/rural-life.epub"
+      }
+    },
+    {
+      "eul_wid": "fim-ac",
+      "title": {
+        "english": "On Homeric Parody",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "alcaeus-the-comic-poet-homeric-parody-fim-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/alcaeus-the-comic-poet/homeric-parody",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-homeric-parody-fim-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-homeric-parody-fim-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-homeric-parody-fim-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-homeric-parody-fim-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet/homeric-parody.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-bj",
+      "title": {
+        "english": "Single-Line Sentences (Long Recension)",
+        "ancient_greek": "Γνῶμαι"
+      },
+      "url_slug": "menander-of-athens-sentences-bj-hps-bj",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/sentences-bj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-sentences-bj-hps-bj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-sentences-bj-hps-bj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-sentences-bj-hps-bj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-sentences-bj-hps-bj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/sentences-bj.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/demonicus-the-comic-poet/boeotian-banquet-ab",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet-boeotian-banquet-ab-gzy-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet-boeotian-banquet-ab-gzy-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet-boeotian-banquet-ab-gzy-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet-boeotian-banquet-ab-gzy-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet/boeotian-banquet-ab.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

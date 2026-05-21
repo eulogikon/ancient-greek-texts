@@ -1,0 +1,219 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "aoq-aa",
+  "eul_aid": "aoq",
+  "author_slug": "periander-of-corinth",
+  "work_slug": "letters",
+  "url_slug": "periander-of-corinth-letters-aoq-aa",
+  "author": {
+    "english": "Periander of Corinth",
+    "ancient_greek": "Περίανδρος ὁ Κορίνθιος"
+  },
+  "title": {
+    "english": "Letters of Periander",
+    "ancient_greek": "Ἐπιστολαὶ Περίανδρου"
+  },
+  "seo": {
+    "browser_title": "Letters of Periander by Periander of Corinth on Eulogikon",
+    "meta_title": "Letters of Periander by Periander in Ancient Greek",
+    "meta_description": "Letters of Periander, a tyrant and one of the Seven Sages. Archaic Greek wisdom literature. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Letters of Periander are four brief advisory statements attributed to the seventh- and sixth-century BCE tyrant Periander of Corinth. Preserved solely as quotations within later texts, they are cited by Diogenes Laërtius in his third-century CE work Lives and Opinions of Eminent Philosophers. Presented as counsel to the tyrant Thrasybulus of Miletus, they exemplify the gnomic, political wisdom tradition associated with the Seven Sages. The passages offer shrewd, often ruthless advice on maintaining autocratic power, with key themes including the preemptive elimination of potential rivals, encapsulated in the proverbial metaphor to cut down the tallest ears of corn, the importance of surveillance and informants, and the inherent fear and misery of the tyrant’s condition.</p>\n<p class=\"research-text\">The letters have no independent manuscript tradition, and their survival depends entirely on their inclusion in the biographical works of Diogenes Laërtius. Scholars generally consider them pseudepigrapha, likely composed in the fourth century BCE or later to project a stereotypical wise tyrant persona onto the archaic figure. Though not historically authentic, the letters were influential in shaping the classical image of Periander. The tallest ears of corn anecdote became a proverbial example of tyrannical logic, discussed by Herodotus and Aristotle, and the letters contributed significantly to ancient political discourse on the methods and nature of autocratic rule.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1.(t)",
+      "text": "Τοῖς σοφοῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.(t)",
+      "text": "Πολλὰ χάρις τῷ Πυθοῖ Ἀπόλλωνι τοῦ εἰς ἓν ἐλθόντας εὑρεῖν, ἀξοῦντί τε καὶ ἐς Κόρινθον ταὶ ἐμαὶ ἐπιστολαί. ἐγὼν δὲ ὁμᾶς ἀποδέχομαι, ὡς ἴστε αὐτοί, ὅτι δαμοτικώτατα. πεύθομαι ὡς πέρυτι ἐγένετο ὑμῶν ἁλία παρὰ τὸν Λυδὸν ἐς Σάρδεις. ἤδη ὦν μὴ ὀκνεῖτε καὶ παρ’ ἐμὲ φοιτᾶν τὸν Κορίνθου τύραννον. ὑμᾶς γὰρ καὶ ἄσμενοι ὄψονται Κορίνθιοι, φοιτεῦντας ἐς οἶκον τὸν Περιάνδρου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.(t)",
+      "text": "Προκλεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.(t)",
+      "text": "Ἐμὶν μὲν ἀκούσιον τᾶς δάμαρτος τὸ ἄγος, τὺ δὲ ἑκὼν τῷ παιδί με ἄπο θυμοῦ ποιήσαις ἀδικεῖς. ἢ ὦν παῦσον τὰν ἀπήνειαν τῶ παιδός, ἢ ἐγὼν τὸ ἀμυνοῦμαι. καὶ γὰρ δὴν καὶ αὐτὸς ποινὰς ἔτισα τὶν τᾷ θυ γατρί, συγκατακαύσας αὐτᾷ τὰ πασᾶν Κορινθιᾶν εἵματα.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "uyg-aa",
+      "title": {
+        "english": "Bibl. codd. 181, 242), Life of Isidore",
+        "ancient_greek": "Βίος Ἰσιδώρου"
+      },
+      "url_slug": "damascius-of-damascus-life-of-isidore-uyg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/damascius-of-damascus/life-of-isidore",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-life-of-isidore-uyg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-life-of-isidore-uyg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-life-of-isidore-uyg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-life-of-isidore-uyg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus/life-of-isidore.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-ag",
+      "title": {
+        "english": "Book I of Homeric Questions Version T",
+        "ancient_greek": "Βιβλίον Αʹ Ὁμηρικῶν ζητημάτων ἔκδοσις Τ"
+      },
+      "url_slug": "porphyry-of-tyre-homeric-questions-1-ag-udm-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/homeric-questions-1-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-1-ag-udm-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-1-ag-udm-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-1-ag-udm-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-1-ag-udm-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-1-ag.epub"
+      }
+    },
+    {
+      "eul_wid": "vgs-aa",
+      "title": {
+        "english": "Commentary-Aristotle's Prior Analytics",
+        "ancient_greek": "Σχόλια εἰς τὰ ἀναλυτικὰ πρότερα Ἀριστοτέλους"
+      },
+      "url_slug": "elias-the-neoplatonist-prior-analytics-commentary-vgs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/elias-the-neoplatonist/prior-analytics-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-prior-analytics-commentary-vgs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-prior-analytics-commentary-vgs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-prior-analytics-commentary-vgs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-prior-analytics-commentary-vgs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist/prior-analytics-commentary.epub"
+      }
+    },
+    {
+      "eul_wid": "uxc-ab",
+      "title": {
+        "english": "On Aristotle's Posterior Analytics, Commentary",
+        "ancient_greek": "Σχόλια εἰς τὰ ἀναλυτικὰ ὕστερα Ἀριστοτέλους"
+      },
+      "url_slug": "john-philoponus-of-alexandria-posterior-analytics-commentary-uxc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-philoponus-of-alexandria/posterior-analytics-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-posterior-analytics-commentary-uxc-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-posterior-analytics-commentary-uxc-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-posterior-analytics-commentary-uxc-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-posterior-analytics-commentary-uxc-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/posterior-analytics-commentary.epub"
+      }
+    },
+    {
+      "eul_wid": "jxi-aa",
+      "title": {
+        "english": "On Beauty and Human Excellence",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dius-of-phoenicia-beauty-excellence-jxi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dius-of-phoenicia/beauty-excellence",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dius-of-phoenicia-beauty-excellence-jxi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dius-of-phoenicia-beauty-excellence-jxi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dius-of-phoenicia-beauty-excellence-jxi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dius-of-phoenicia-beauty-excellence-jxi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dius-of-phoenicia/beauty-excellence.epub"
+      }
+    },
+    {
+      "eul_wid": "dmk-ac",
+      "title": {
+        "english": "On Nature and Knowledge",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "metrodorus-of-chios-nature-knowledge-dmk-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/metrodorus-of-chios/nature-knowledge",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-nature-knowledge-dmk-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-nature-knowledge-dmk-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-nature-knowledge-dmk-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-nature-knowledge-dmk-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios/nature-knowledge.epub"
+      }
+    },
+    {
+      "eul_wid": "diy-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "melissus-of-samos-testimonies-diy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/melissus-of-samos/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissus-of-samos-testimonies-diy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissus-of-samos-testimonies-diy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissus-of-samos-testimonies-diy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissus-of-samos-testimonies-diy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissus-of-samos/testimonies.epub"
+      }
+    },
+    {
+      "eul_wid": "iso-ak",
+      "title": {
+        "english": "To Apollo",
+        "ancient_greek": "εἰς Απόλλωνα"
+      },
+      "url_slug": "callimachus-of-cyrene-to-apollo-iso-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/to-apollo",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-apollo-iso-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-apollo-iso-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-apollo-iso-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-apollo-iso-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/to-apollo.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/periander-of-corinth/letters",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/periander-of-corinth-letters-aoq-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/periander-of-corinth-letters-aoq-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/periander-of-corinth-letters-aoq-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/periander-of-corinth-letters-aoq-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/periander-of-corinth/letters.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

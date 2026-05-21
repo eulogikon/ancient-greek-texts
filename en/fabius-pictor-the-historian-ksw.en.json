@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ksw",
+  "auth_slug": "fabius-pictor-the-historian",
+  "name": {
+    "english": "Fabius Pictor the Historian",
+    "ancient_greek": "Φαβίος Πίκτωρ ὁ ἱστορικός"
+  },
+  "seo_h1": "Fabius Pictor's Roman History in Greek",
+  "seo": {
+    "browser_title": "Fabius Pictor the Historian on Eulogikon Greek Archive",
+    "meta_title": "Fabius Pictor Ancient Greek Historical Works and Fragments",
+    "meta_description": "Fabius Pictor, Roman historian writing in Greek in the 3rd century BCE. Fragments on early Rome. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Quintus Fabius Pictor was a Roman senator and the earliest known Roman historian. A member of the patrician Fabian family, he served during the Second Punic War. Following the Roman defeat at the Battle of Cannae in 216 BCE, he was part of a delegation sent to consult the Oracle at Delphi.</p>\n<p class=\"research-text\">He composed a history of Rome in Greek prose, titled <strong>Historiai</strong> or <strong>Praxeis</strong>. The work, now lost and surviving only in fragments, covered events from Rome&#x27;s origins through the Second Punic War. It is considered the first prose history of Rome written by a Roman.</p>\n<p class=\"research-text\">Fabius Pictor holds a foundational position in Roman historiography. His decision to write in Greek aimed to justify Roman actions to a Hellenistic audience, adapting Greek historiographical models for Roman self-presentation. He established an annalistic structure followed by later historians and served as a key, though often biased, source for authors such as Polybius.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ksw-aa",
+      "title": {
+        "english": "Fabius Pictor's Roman History",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "fabius-pictor-the-historian-roman-history-ksw-aa",
+      "passages": 36,
+      "links": {
+        "html": "https://eulogikon.org/grc/fabius-pictor-the-historian/roman-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fabius-pictor-the-historian-roman-history-ksw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fabius-pictor-the-historian-roman-history-ksw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fabius-pictor-the-historian-roman-history-ksw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fabius-pictor-the-historian-roman-history-ksw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fabius-pictor-the-historian/roman-history.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/fabius-pictor-the-historian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/fabius-pictor-the-historian-ksw.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/fabius-pictor-the-historian-ksw.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/fabius-pictor-the-historian-ksw.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/fabius-pictor-the-historian-ksw.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,391 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "tqa-al",
+  "eul_aid": "tqa",
+  "author_slug": "anonymous-greek-grammarian",
+  "work_slug": "fragment-al",
+  "url_slug": "anonymous-greek-grammarian-fragment-al-tqa-al",
+  "author": {
+    "english": "Greek Grammarian Anonymous",
+    "ancient_greek": "Ἀνώνυμος γραμματικός"
+  },
+  "title": {
+    "english": "Grammatical Fragment",
+    "ancient_greek": "Γραμματικὸν Ἀπόσπασμα"
+  },
+  "seo": {
+    "browser_title": "Grammatical Fragment by Anonymous Greek Grammarian Eulogikon",
+    "meta_title": "Grammatical Fragment by Anonymous in Ancient Greek",
+    "meta_description": "A fragment of ancient Greek grammatical analysis on verb reduplication and conjugation patterns. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Grammatical Fragment is an anonymous Greek treatise surviving as a single, incomplete passage. It represents a brief discussion on a specific point of grammatical theory, focusing on the formation of perfect tense verbs. The extant text analyzes the doubling of consonants in verb stems, distinguishing between those beginning with a single consonant, which undergo reduplication, and those beginning with a double consonant, which do not. It cites examples such as <strong>tetheika</strong> from <strong>tithemi</strong> and <strong>dedoka</strong> from <strong>didomi</strong>, while also posing counterexamples like <strong>hesteka</strong> from <strong>histemi</strong> to test the proposed rule. The fragmentary nature of the text indicates it is a portion of a larger, now-lost grammatical treatise, though its precise manuscript tradition and preservation history are not detailed in available sources. As an anonymous grammatical work, it is representative of the widespread pedagogical and scholarly texts produced for the systematic study of the Greek language during the Hellenistic or Roman periods.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "[28]",
+      "text": "[Break in Text (point at which text breaks off for an unknown length)] [ ] ...... [ ] .... εφη [ ἀναδιπλασιαζόμενα μὲν ἐὰν ἄρ][χωνται ἀπὸ ἑνὸς ἁπλοῦ συμφ]ώ̣νου, αὐξόμενα δ’ [ἐὰν ἀπὸ διπλοῦ, ὡς ἐζε]ύγ̣νυν, ὑπεσταλμένου [τοῦ τέθεικα καὶ δέ]δ̣ω̣κα. διὰ τί οὖν τοῦτο; τί > [θημι τέθεικα π]ο̣ι̣ε̣ῖ̣, οὐκέτι· τετίθεικα· οὐ > [δὲ δίδωμι ποιεῖ δε]δ̣ίδωκα· ἀλλά τινές φασιν [διὰ τὸν ἀναδιπλ]α̣σ̣ιασμὸν γενέσθαι τὰ τοι[αῦτα, ὥσπερ ὁ Δως?]ίθ(εο)ς· εἰ τοῦτο ἦν ἀληθές, [ἵστηκα γ’ ἐποίει ἂν] τὸ ἴστημι· ἢ τὸ ἴπταμαι [Partial Letter] [ἵπταμαι. οὐδαμῇ δέ.] ἔ̣πταμαι γὰρ καὶ ἕστηκα· [Partial Letter] [ ±13 ] ..... δας̣ . ν τὸ ϊ κατὰ τοῦ[τον τὸν κανόνα ±22 ] [Break in Text (point at which text breaks off for an unknown length)] [Break in Text (point at which text breaks off for an unknown length)] ...... [ ] θενατι . [ ] .. ϋ[ ... ] ...... [ ἐκ]θήσω· τὰ ἀπ̣ὸ̣ ἑ̣ν̣ὸ̣ς̣ [τῶν ἁπλῶν συμφώνων ἀρχό]μενα ἀναδιπλασ[ιάζεται, ἤτοι τοῦτο τὸ σύμ]φωνον λαμβάνοντα [αὐτὸ εἰς τὸν διπλασιασ]μὸν ἢ ἀντίστοιχον τ̣[οῦ δασέος τὸ ψιλὸν σύμ]φωνον. παρακολουθεῖ [δ’ ἀεὶ τὸ ε, ὡς πεποίη]κα · νενόηκα · δεδαπάνηκ̣[α · κεκάληκα · ἀλλὰ τε]θήλακα · πεφίληκα · κεχει[ροτόνηκα . μεταλ]λα̣χθῆ̣ν̣α̣[ι γὰρ δεῖ τὰ θφχ δι’ εὐφωνίαν ὡς ἐν ἰω]νικῇ λέξει δυ[ ±21 ] νεται καὶ ενε[ ±8 ]υ[ ±13 ] .... [ ] .. [ ] [Break in Text (point at which text breaks off for an unknown length)]",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "tqa-aa",
+      "title": {
+        "english": "Commentary-the Anonymous Work-the Declension of Nouns",
+        "ancient_greek": "Περὶ κλίσεως ὀνομάτων"
+      },
+      "url_slug": "anonymous-greek-grammarian-declension-nouns-tqa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-greek-grammarian/declension-nouns",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-declension-nouns-tqa-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-declension-nouns-tqa-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-declension-nouns-tqa-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-declension-nouns-tqa-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/declension-nouns.epub"
+      }
+    },
+    {
+      "eul_wid": "tqa-ad",
+      "title": {
+        "english": "Compendium of Catholic Herodian",
+        "ancient_greek": "Σύνοψις Καθολικοῦ Ἡρωδιανοῦ"
+      },
+      "url_slug": "anonymous-greek-grammarian-compendium-herodian-tqa-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-greek-grammarian/compendium-herodian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-compendium-herodian-tqa-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-compendium-herodian-tqa-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-compendium-herodian-tqa-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-compendium-herodian-tqa-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/compendium-herodian.epub"
+      }
+    },
+    {
+      "eul_wid": "tqa-ab",
+      "title": {
+        "english": "Compendium of Herodian's Work-Declension of Nouns",
+        "ancient_greek": "Περὶ κλίσεως"
+      },
+      "url_slug": "anonymous-greek-grammarian-herodian-declension-tqa-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-greek-grammarian/herodian-declension",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-herodian-declension-tqa-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-herodian-declension-tqa-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-herodian-declension-tqa-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-herodian-declension-tqa-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/herodian-declension.epub"
+      }
+    },
+    {
+      "eul_wid": "tqa-ak",
+      "title": {
+        "english": "Grammatical Fragment",
+        "ancient_greek": "Γραμματικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "anonymous-greek-grammarian-fragment-ak-tqa-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-greek-grammarian/fragment-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-ak-tqa-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-ak-tqa-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-ak-tqa-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-ak-tqa-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-ak.epub"
+      }
+    },
+    {
+      "eul_wid": "tqa-aq",
+      "title": {
+        "english": "Grammatical Fragment",
+        "ancient_greek": "Γραμματικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "anonymous-greek-grammarian-fragment-aq-tqa-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-greek-grammarian/fragment-aq",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-aq-tqa-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-aq-tqa-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-aq-tqa-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-aq-tqa-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-aq.epub"
+      }
+    },
+    {
+      "eul_wid": "tqa-ae",
+      "title": {
+        "english": "Grammatical Fragment",
+        "ancient_greek": "Γραμματικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "anonymous-greek-grammarian-fragment-ae-tqa-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-greek-grammarian/fragment-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-ae-tqa-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-ae-tqa-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-ae-tqa-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-ae-tqa-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-ae.epub"
+      }
+    },
+    {
+      "eul_wid": "tqa-af",
+      "title": {
+        "english": "Grammatical Fragment",
+        "ancient_greek": "Γραμματικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "anonymous-greek-grammarian-fragment-af-tqa-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-greek-grammarian/fragment-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-af-tqa-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-af-tqa-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-af-tqa-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-af-tqa-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-af.epub"
+      }
+    },
+    {
+      "eul_wid": "tqa-ag",
+      "title": {
+        "english": "Grammatical Fragment",
+        "ancient_greek": "Γραμματικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "anonymous-greek-grammarian-fragment-ag-tqa-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-greek-grammarian/fragment-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-ag-tqa-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-ag-tqa-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-ag-tqa-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-ag-tqa-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-ag.epub"
+      }
+    },
+    {
+      "eul_wid": "tqa-ah",
+      "title": {
+        "english": "Grammatical Fragment",
+        "ancient_greek": "Γραμματικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "anonymous-greek-grammarian-fragment-ah-tqa-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-greek-grammarian/fragment-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-ah-tqa-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-ah-tqa-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-ah-tqa-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-ah-tqa-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-ah.epub"
+      }
+    },
+    {
+      "eul_wid": "tqa-ai",
+      "title": {
+        "english": "Grammatical Fragment",
+        "ancient_greek": "Γραμματικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "anonymous-greek-grammarian-fragment-ai-tqa-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-greek-grammarian/fragment-ai",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-ai-tqa-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-ai-tqa-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-ai-tqa-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-ai-tqa-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-ai.epub"
+      }
+    },
+    {
+      "eul_wid": "tqa-aj",
+      "title": {
+        "english": "Grammatical Fragment",
+        "ancient_greek": "Γραμματικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "anonymous-greek-grammarian-fragment-aj-tqa-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-greek-grammarian/fragment-aj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-aj-tqa-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-aj-tqa-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-aj-tqa-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-aj-tqa-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-aj.epub"
+      }
+    },
+    {
+      "eul_wid": "tqa-am",
+      "title": {
+        "english": "Grammatical Fragment",
+        "ancient_greek": "Γραμματικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "anonymous-greek-grammarian-fragment-am-tqa-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-greek-grammarian/fragment-am",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-am-tqa-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-am-tqa-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-am-tqa-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-am-tqa-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-am.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "jlk-aa",
+      "title": {
+        "english": "Delian Antiquities and Customs",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "semus-of-delos-antiquities-customs-jlk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/semus-of-delos/antiquities-customs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semus-of-delos-antiquities-customs-jlk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semus-of-delos-antiquities-customs-jlk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semus-of-delos-antiquities-customs-jlk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semus-of-delos-antiquities-customs-jlk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semus-of-delos/antiquities-customs.epub"
+      }
+    },
+    {
+      "eul_wid": "tom-aa",
+      "title": {
+        "english": "Exegesis-Oppian's Halieutica",
+        "ancient_greek": "Ἐξήγησις εἰς τὰ Ἁλιευτικά τοῦ Ὀππιανοῦ"
+      },
+      "url_slug": "oppian-commentary-anonymous-exegesis-halieutica-tom-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/oppian-commentary-anonymous/exegesis-halieutica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-commentary-anonymous-exegesis-halieutica-tom-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-commentary-anonymous-exegesis-halieutica-tom-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-commentary-anonymous-exegesis-halieutica-tom-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-commentary-anonymous-exegesis-halieutica-tom-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-commentary-anonymous/exegesis-halieutica.epub"
+      }
+    },
+    {
+      "eul_wid": "cto-ad",
+      "title": {
+        "english": "Glosses-Euripides' Troades",
+        "ancient_greek": "Γλῶσσαι εἰς Εὐριπίδου Τρωάδας"
+      },
+      "url_slug": "xenophon-scholia-troades-cto-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-scholia/troades",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-troades-cto-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-troades-cto-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-troades-cto-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-troades-cto-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/troades.epub"
+      }
+    },
+    {
+      "eul_wid": "vtu-aa",
+      "title": {
+        "english": "Lexicon of Rhetorical and Philosophical Terms",
+        "ancient_greek": "Συλλογὴ χρησίμων λέξεων ἐκ διαφόρων ῥητόρων καὶ"
+      },
+      "url_slug": "lexicographical-anonymous-i-rhetoric-philosophy-vtu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lexicographical-anonymous-i/rhetoric-philosophy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i-rhetoric-philosophy-vtu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i-rhetoric-philosophy-vtu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i-rhetoric-philosophy-vtu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i-rhetoric-philosophy-vtu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i/rhetoric-philosophy.epub"
+      }
+    },
+    {
+      "eul_wid": "mee-aa",
+      "title": {
+        "english": "On Custom",
+        "ancient_greek": "Περὶ συνηθείας"
+      },
+      "url_slug": "zenodorus-the-grammarian-custom-mee-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/zenodorus-the-grammarian/custom",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zenodorus-the-grammarian-custom-mee-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zenodorus-the-grammarian-custom-mee-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zenodorus-the-grammarian-custom-mee-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zenodorus-the-grammarian-custom-mee-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zenodorus-the-grammarian/custom.epub"
+      }
+    },
+    {
+      "eul_wid": "vky-aa",
+      "title": {
+        "english": "Scholia-Demosthenes",
+        "ancient_greek": "Σχόλια εἰς Δημοσθένη"
+      },
+      "url_slug": "demosthenes-scholia-text-vky-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-scholia/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-scholia-text-vky-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-scholia-text-vky-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-scholia-text-vky-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-scholia-text-vky-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-scholia/text.epub"
+      }
+    },
+    {
+      "eul_wid": "cto-ah",
+      "title": {
+        "english": "Scholia-Euripides' Hecuba",
+        "ancient_greek": "Σχόλια εἰς Εὐριπίδου Ἑκάβην"
+      },
+      "url_slug": "xenophon-scholia-hecuba-cto-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-scholia/hecuba",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-hecuba-cto-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-hecuba-cto-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-hecuba-cto-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-hecuba-cto-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/hecuba.epub"
+      }
+    },
+    {
+      "eul_wid": "tro-ah",
+      "title": {
+        "english": "Triclinian Scholia on Aeschylus (Agamemnon)",
+        "ancient_greek": "Σχόλια εἰς Αἰσχύλον"
+      },
+      "url_slug": "aeschylus-scholia-text-ah-tro-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/text-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-text-ah-tro-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-text-ah-tro-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-text-ah-tro-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-text-ah-tro-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/text-ah.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/anonymous-greek-grammarian/fragment-al",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-al-tqa-al.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-al-tqa-al.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-al-tqa-al.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-al-tqa-al.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-al.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

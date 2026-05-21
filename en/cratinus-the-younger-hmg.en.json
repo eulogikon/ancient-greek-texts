@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "hmg",
+  "auth_slug": "cratinus-the-younger",
+  "name": {
+    "english": "Cratinus the Younger",
+    "ancient_greek": "Κρατῖνος ὁ Νεώτερος"
+  },
+  "seo_h1": "Cratinus the Younger and the Fragments of Middle Comedy",
+  "seo": {
+    "browser_title": "Cratinus the Younger on Eulogikon Greek Archive Library",
+    "meta_title": "Cratinus the Younger Ancient Greek Comedy Fragments",
+    "meta_description": "Cratinus the Younger was a 4th century BCE Attic comic poet. His surviving fragments are preserved. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Cratinus the Younger was an Athenian comic poet of the 4th century BCE, active during the period of Middle Comedy. He is distinguished from the famous 5th-century poet Cratinus by the epithet &quot;the Younger.&quot; Beyond his existence and profession, no secure biographical details survive.</p>\n<p class=\"research-text\">Only two plays are attributed to him, both lost and known only through fragments: <strong>The False Heracles</strong> and <strong>The Busybody</strong> or <strong>The Meddler</strong>.</p>\n<p class=\"research-text\">He is a minor but clarifying figure in the history of Greek comedy. His work represents the transitional Middle Comedy of the 4th century, situated between the political Old Comedy of the 5th century and the later social New Comedy. The scant fragments provide limited evidence for the themes of this less-documented period.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "hmg-aa",
+      "title": {
+        "english": "Fragments of Comic Banter",
+        "ancient_greek": "Ἀποσπάσματα κωμικῆς σκώψεως"
+      },
+      "url_slug": "cratinus-the-younger-comic-banter-hmg-aa",
+      "passages": 29,
+      "links": {
+        "html": "https://eulogikon.org/grc/cratinus-the-younger/comic-banter",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-younger-comic-banter-hmg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-younger-comic-banter-hmg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-younger-comic-banter-hmg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-younger-comic-banter-hmg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-younger/comic-banter.epub"
+      }
+    },
+    {
+      "eul_wid": "hmg-ab",
+      "title": {
+        "english": "Fragments of Comic Dialogue",
+        "ancient_greek": "Ἀποσπάσματα Κωμικοῦ Διαλόγου"
+      },
+      "url_slug": "cratinus-the-younger-comic-dialogue-hmg-ab",
+      "passages": 28,
+      "links": {
+        "html": "https://eulogikon.org/grc/cratinus-the-younger/comic-dialogue",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-younger-comic-dialogue-hmg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-younger-comic-dialogue-hmg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-younger-comic-dialogue-hmg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-younger-comic-dialogue-hmg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-younger/comic-dialogue.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/cratinus-the-younger",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cratinus-the-younger-hmg.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cratinus-the-younger-hmg.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cratinus-the-younger-hmg.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cratinus-the-younger-hmg.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

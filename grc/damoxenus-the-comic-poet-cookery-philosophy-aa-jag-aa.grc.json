@@ -1,0 +1,649 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "jag-aa",
+  "eul_aid": "jag",
+  "author_slug": "damoxenus-the-comic-poet",
+  "work_slug": "cookery-philosophy-aa",
+  "url_slug": "damoxenus-the-comic-poet-cookery-philosophy-aa-jag-aa",
+  "author": {
+    "english": "Damoxenus the Comic Poet",
+    "ancient_greek": "Δαμόξενoς ὁ κωμικός"
+  },
+  "title": {
+    "english": "Fragments on Cookery and Philosophy",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ὀψοποιίας καὶ Φιλοσοφίας"
+  },
+  "seo": {
+    "browser_title": "Comic Fragments of Damoxenus the Poet on Eulogikon",
+    "meta_title": "Classical Comic Fragments by Damoxenus in Ancient Greek",
+    "meta_description": "Surviving fragments from the comic poet Damoxenus blending culinary and philosophical themes. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Fragments on Cookery and Philosophy is a modern descriptive title for a collection of passages attributed to the comic poet Damoxenus. His works survive only through fragments preserved by later authors, primarily within Athenaeus&#x27;s <strong>Deipnosophistae</strong>. Damoxenus wrote during the period of Middle Comedy, and these excerpts, likely drawn from one or more of his lost plays, feature characteristic figures like cooks, parasites, and philosophers. The fragments reflect central themes of the genre, including the parody of philosophical jargon and intellectual pretension, and the elevation of cookery into a detailed, boastful art form that often mimics rhetorical or philosophical discourse. They also contain social satire targeting gluttony, luxury, and domestic life, creating a comic contrast between abstract idealism and physical appetite. The fragments are transmitted indirectly via quotation in later scholarly works, most notably Athenaeus&#x27;s compendium on dining and society, which preserved them for their thematic relevance to food and social customs. Though fragmentary, Damoxenus&#x27;s work provides valuable evidence for the evolution of Athenian comedy, illustrating the shift from political satire to generalized social and intellectual parody. The fragments aid philological and historical study of fourth-century BCE comic stock characters and themes, which subsequently influenced Roman comedy.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[spk_β]εἰ δ’ οὐχ ἱκανόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "σοι, τὸν ἐλέφανθ’ ἥκει φέρων ὁ παῖς. Β. τί δ’ ἐστὶ τοῦτο, πρὸς θεῶν; Α. ῥυτὸν δίκρουνον, ἡλίκον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τι τρεῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "χωρεῖν χόας, Ἄλκωνος ἔργον. προὔπιεν δέ μοί ποτε[ln_5]ἐν Κυψέλοις Ἀδαῖος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Ἐπικούρου δέ με ὁρᾷς μαθητὴν ὄντα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "τοῦ σοφοῦ, παρ’ ᾧ ἐν δύ’ ἔτεσιν καὶ μησὶν οὐχ ὅλοις δέκα τάλαντ’ ἐγώ σοι κατεπύκνωσα τέτταρα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "[ln_5][spk_β]Β. τοῦτο δὲ τί ἐστιν; εἰπέ μοι. Α. καθήγισα. μάγειρος ἦν κἀκεῖνος, ὦ γῆ καὶ θεοί. Β. ποῖος μάγειρος; Α. ἡ φύσις πάσης τέχνης ἀρχέγονόν ἐστ’. Β. ἀρχέγονον, ὦλιτήριε; Α. οὐκ ἔστιν οὐδὲν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "τοῦ πονεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "σοφώτερον,[ln_10]πᾶν εὐχερές",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.4",
+      "text": "τε πρᾶγμα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.5",
+      "text": "τοῦ λόγου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.6",
+      "text": "τριβὴν ἔχοντι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.7",
+      "text": "τούτου· πολλὰ γὰρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.8",
+      "text": "συμβάλλεται. διόπερ μάγειρον ὅταν ἴδῃς ἀγράμματον μὴ Δημόκριτόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.9",
+      "text": "τε πάντα διανεγνωκότα, μᾶλλον δὲ κατέχοντα [καταγέλα ὡς κενοῦ][ln_15]καὶ τὸν Ἐπικούρου κανόνα, μινθώσας ἄφες ὡς ἐκ διατριβῆς. τοῦτο δεῖ γὰρ εἰδέναι, τίν’ ἔχει διαφορὰν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.10",
+      "text": "πρῶτον, ὦ βέλτιστε σύ, γλαυκίσκος ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.11",
+      "text": "χειμῶνι καὶ θέρει, πάλιν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.12",
+      "text": "ποῖος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.13",
+      "text": "περὶ δύσιν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.14",
+      "text": "Πλειάδος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.15",
+      "text": "συνειδέναι[ln_20]ἰχθὺς ὑπὸ τροπάς τ’ ἐστὶ χρησιμώτατος. αἱ μεταβολαὶ γὰρ αἵ τε κινήσεις κακὸν ἠλίβατόν ἐστ’ ἀνθρώποις ἀλλοιώματα ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.16",
+      "text": "ταῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.17",
+      "text": "τροφαῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.18",
+      "text": "ποιοῦσι, μανθάνεις; τὸ δὲ ληφθὲν καθ’ ὥραν ἀποδίδωσι τὴν χάριν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "[ln_25]τίς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "παρακολουθεῖ δ’ αὐτά; τοιγαροῦν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "στρόφοι καὶ πνευμάτια γινόμενα τὸν κεκλημένον ἀσχημονεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.4",
+      "text": "ποιοῦσι. παρὰ δ’ ἐμοὶ τρέφει τὸ προσφερόμενον βρῶμα, καὶ λεπτύνεται ὀρθῶς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.5",
+      "text": "τε διαπνεῖ. τοιγαροῦν εἰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.6",
+      "text": "τοὺς πόρους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "[ln_30][spk_β]ὁ χυμὸς ὁμαλῶς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "πανταχοῦ συνίσταται. χυμός, λέγει Δημόκριτος, οὐδὲν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "πρᾶγμα τὰ γινόμενα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.4",
+      "text": "ποιεῖ τὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.5",
+      "text": "φαγόντ’ ἀρθριτικόν. Β. καὶ τῆς ἰατρικῆς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.6",
+      "text": "τι μετέχειν μοι δοκεῖς. Α. καὶ πᾶς ὁ φύσεως ἐντός. ἡ δ’ ἀπειρία[ln_35]τῶν νῦν μαγείρων κατανόει, πρὸς τῶν θεῶν, οἵα ’στίν. ἅλμην ὅταν ἴδῃς ἐξ ἰχθύων ὑπεναντίων αὑτοῖσι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.7",
+      "text": "ποιοῦντας μίαν καὶ σήσαμ’ ὑποτρίβοντας εἰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.8",
+      "text": "ταύτην, λαβὼν ἕκαστον αὐτῶν κατὰ μέρος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.9",
+      "text": "προσπαρδέτω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "[ln_40][spk_β]Β. ὥς μοι κέχρησαι. Α. τί γὰρ ἂν εὖ γένοιτ’ ἔτι, τῆς ἰδιότητος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "πρὸς ἑτέραν μεμιγμένης καὶ συμπλεκομένης οὐχὶ συμφώνους ἁφάς; τὸ ταῦτα διορᾶν ἐστιν ἐμψύχου τέχνης, οὐ τὸ διανίζειν λοπάδας οὐδ’ ὄζειν καπνοῦ.[ln_45]ἐγὼ γὰρ εἰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "τοὐπτάνιον οὐκ εἰσέρχομαι. Β. ἀλλὰ τί; Α. θεωρῶ πλησίον καθήμενος, πονοῦσιν ἕτεροι δ’, οἷς λέγω τὰς αἰτίας καὶ τἀποβαῖνον· ὀξὺ τὸ περίκομμ’, ἄνες. Β. ἁρμονικὸς εἶ μάγειρος. Α. ἐπίτεινον τὸ πῦρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "ὁμαλιζέτω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "τοῖς τάχεσιν· ἡ πρώτη λοπὰς ζεῖ ταῖς ἐφεξῆς οὐχὶ συμφώνως. νοεῖς τὸν τύπον; Β. Ἄπολλον, μέγα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "τι φαίνεθ’ ἡ τέχνη. Α. εἶτ’ οὐδὲν εἰκῆ παρατίθημι, μανθάνεις; βρῶμ’, ἀλλὰ μείξας πάντα κατὰ συμφωνίαν.[ln_55]Β. πῶς; Α. ἔστιν αὑτοῖς ἃ διὰ τεττάρων ἔχει κοινωνίαν, διὰ πέντε, διὰ πασῶν πάλιν. ταῦτα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.4",
+      "text": "προσάγω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.5",
+      "text": "πρὸς αὐτὰ τὰ διαστήματα καὶ ταῖς ἐπιφοραῖς εὐθὺς οἰκείως",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.6",
+      "text": "πλέκω· ἐνίοτ’ ἐφεστὼς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.7",
+      "text": "παρακελεύομαι· πόθεν[ln_60]ἅπτει; τί τούτῳ μιγνύειν μέλλεις; ὅρα, διάφωνον ἕλκεις· οὐχ ὑπερβήσει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.8",
+      "text": "σοφόν; Ἐπίκουρος οὕτω κατεπύκνου τὴν ἡδονήν,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "ἐμασᾶτ’ ἐπιμελῶς, εἶδε τἀγαθὸν μόνος ἐκεῖνος οἷόν ἐστιν· οἱ δ’ ἐν τῇ στοᾷ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "[ln_65][spk_β]ζητοῦσι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "συνεχῶς οἷόν ἐστ’ οὐκ εἰδότες. οὐκοῦν ὅ γ’ οὐκ ἔχουσιν, ἀγνοοῦσι δέ, οὐδ’ ἂν ἑτέρῳ δοίησαν. Β. οὕτω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "συνδοκεῖ. ἀφῶμεν οὖν τὰ λοιπά. δῆλα δὴ πάλαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "νεανίας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "τις ἐσφαίριζεν εἷς ἐτῶν ἴσως . . . ἑπτακαίδεκα, Κῷος· θεοὺς γὰρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.3",
+      "text": "φαίνεθ’ ἡ νῆσος φέρειν. ὃς ἐπεί ποτ’ ἐμβλέψειε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.4",
+      "text": "τοῖς καθημένοις,[ln_5]ἢ λαμβάνων τὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.5",
+      "text": "σφαῖραν ἢ διδούς, ἅμα πάντες ἐβοῶμεν . . . . . . . ἡ δ’ εὐρυθμία τό τ’ ἦθος ἡ τάξις θ’ ὅση ἐν τῷ τι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.6",
+      "text": "πράττειν ἢ λέγειν ἐφαίνετο. πέρας ἐστὶ κάλλους, ἄνδρες. οὔτ’ ἀκήκοα[ln_10]ἔμπροσθεν οὔθ’ ἑόρακα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.7",
+      "text": "τοιαύτην χάριν. κακὸν ἄν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.8",
+      "text": "τι μεῖζον ἔλαβον, εἰ πλείω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.9",
+      "text": "χρόνον ἔμεινα· καὶ νῦν δ’ οὐχ ὑγιαίνειν μοι δοκῶ.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "jag-ab",
+      "title": {
+        "english": "Fragments on Cookery and Philosophy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μαγειρικῆς καὶ Φιλοσοφίας"
+      },
+      "url_slug": "damoxenus-the-comic-poet-cookery-philosophy-ab-jag-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/damoxenus-the-comic-poet/cookery-philosophy-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet-cookery-philosophy-ab-jag-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet-cookery-philosophy-ab-jag-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet-cookery-philosophy-ab-jag-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet-cookery-philosophy-ab-jag-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet/cookery-philosophy-ab.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "efq-aa",
+      "title": {
+        "english": "Fragments on Adonis and Cinyras",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀδώνιδος καὶ Κινύρου"
+      },
+      "url_slug": "plato-the-comic-poet-adonis-cinyras-efq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato-the-comic-poet/adonis-cinyras",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet-adonis-cinyras-efq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet-adonis-cinyras-efq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet-adonis-cinyras-efq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet-adonis-cinyras-efq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/adonis-cinyras.epub"
+      }
+    },
+    {
+      "eul_wid": "cks-aa",
+      "title": {
+        "english": "Fragments on Healing",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἰάσεως"
+      },
+      "url_slug": "antidotus-the-comic-poet-healing-cks-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/antidotus-the-comic-poet/healing",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-the-comic-poet-healing-cks-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-the-comic-poet-healing-cks-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-the-comic-poet-healing-cks-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-the-comic-poet-healing-cks-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-the-comic-poet/healing.epub"
+      }
+    },
+    {
+      "eul_wid": "duw-ab",
+      "title": {
+        "english": "Fragments on Misanthropy and Satire",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μισανθρωπίας καὶ Σάτυρας"
+      },
+      "url_slug": "phrynichus-the-comic-poet-misanthropy-satire-duw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/phrynichus-the-comic-poet/misanthropy-satire",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet-misanthropy-satire-duw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet-misanthropy-satire-duw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet-misanthropy-satire-duw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet-misanthropy-satire-duw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet/misanthropy-satire.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-al",
+      "title": {
+        "english": "Girl with Her Hair Cut Short",
+        "ancient_greek": "Ἡ Κομψικεκαρμένη"
+      },
+      "url_slug": "menander-of-athens-girl-with-her-hair-cut-short-hps-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/girl-with-her-hair-cut-short",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-girl-with-her-hair-cut-short-hps-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-girl-with-her-hair-cut-short-hps-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-girl-with-her-hair-cut-short-hps-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-girl-with-her-hair-cut-short-hps-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/girl-with-her-hair-cut-short.epub"
+      }
+    },
+    {
+      "eul_wid": "kfu-ae",
+      "title": {
+        "english": "Metrical Arguments",
+        "ancient_greek": "Μετρικοὶ Ἀγῶνες"
+      },
+      "url_slug": "comic-fragments-anonymous-ii-metrical-arguments-kfu-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-ii/metrical-arguments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii-metrical-arguments-kfu-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii-metrical-arguments-kfu-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii-metrical-arguments-kfu-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii-metrical-arguments-kfu-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/metrical-arguments.epub"
+      }
+    },
+    {
+      "eul_wid": "gmm-aa",
+      "title": {
+        "english": "On Boeotia and Character",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "laon-the-comic-poet-boeotia-character-aa-gmm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/laon-the-comic-poet/boeotia-character-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet-boeotia-character-aa-gmm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet-boeotia-character-aa-gmm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet-boeotia-character-aa-gmm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet-boeotia-character-aa-gmm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet/boeotia-character-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "ilg-ab",
+      "title": {
+        "english": "On the Art of Cooking",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "sosipater-the-comic-poet-cooking-ilg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/sosipater-the-comic-poet/cooking",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosipater-the-comic-poet-cooking-ilg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosipater-the-comic-poet-cooking-ilg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosipater-the-comic-poet-cooking-ilg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosipater-the-comic-poet-cooking-ilg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosipater-the-comic-poet/cooking.epub"
+      }
+    },
+    {
+      "eul_wid": "dum-ab",
+      "title": {
+        "english": "Pastoral and Satirical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "eupolis-of-athens-pastoral-satirical-dum-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/eupolis-of-athens/pastoral-satirical",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens-pastoral-satirical-dum-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens-pastoral-satirical-dum-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens-pastoral-satirical-dum-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens-pastoral-satirical-dum-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/pastoral-satirical.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/damoxenus-the-comic-poet/cookery-philosophy-aa",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet-cookery-philosophy-aa-jag-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet-cookery-philosophy-aa-jag-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet-cookery-philosophy-aa-jag-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet-cookery-philosophy-aa-jag-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet/cookery-philosophy-aa.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

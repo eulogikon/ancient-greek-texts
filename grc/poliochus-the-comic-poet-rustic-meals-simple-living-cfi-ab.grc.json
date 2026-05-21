@@ -1,0 +1,250 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "cfi-ab",
+  "eul_aid": "cfi",
+  "author_slug": "poliochus-the-comic-poet",
+  "work_slug": "rustic-meals-simple-living",
+  "url_slug": "poliochus-the-comic-poet-rustic-meals-simple-living-cfi-ab",
+  "author": {
+    "english": "Poliochus the Comic Poet",
+    "ancient_greek": "Πολιόχος ὁ κωμικός"
+  },
+  "title": {
+    "english": "On Rustic Meals and Simple Living",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "On Rustic Meals and Simple Living by Poliochus on Eulogikon",
+    "meta_title": "On Rustic Meals and Simple Living by Poliochus in Greek",
+    "meta_description": "Comic fragments on simple living and rustic meals by Poliochus. Ancient Greek comedy. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The comic work conventionally titled in English <strong>On Rustic Meals and Simple Living</strong> is attributed to the minor poet Poliochus. Surviving only in six verse fragments, it belongs to the tradition of Middle or New Comedy. The fragments focus on themes of daily life and social manners, deriving humor from the contrast between rustic simplicity and urban sophistication. They praise a frugal, rustic lifestyle and diet, describing meals of simple barley cakes, figs, occasional mushrooms, gathered snails, and wild greens. The work likely satirized contemporary culinary excesses and philosophical attitudes toward austerity, probably featuring stock comic characters such as the boastful cook or the advocate of simplicity. The work is preserved entirely through quotations in later ancient authors, primarily within Athenaeus of Naucratis’s <strong>Deipnosophistae</strong>. While Poliochus exerted no direct literary influence, the fragments are valuable for understanding the scope of Greek comedy. They provide insight into the genre’s engagement with social values, consumption, and the popular reception of philosophical ideas about simplicity.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ὅπως",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "σε πείσῃ μηδὲ εἷς, πρὸς τῶν θεῶν, τοὺς βόακας, ἄν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "ποτ’ ἔλθῃ, λευκομαινίδας καλεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Μεμαγμένην μικρὰν μελαγχρῆ μᾶζαν ἠχυρωμένην ἑκάτερος ἡμῶν εἶχε δὶς τῆς ἡμέρας καὶ σῦκα βαιά, καὶ μύκης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τις ἐνίοτ’ ἄν[ln_5]ὠπτᾶτο, καὶ κοχλίας γενομένου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "ψακαδίου ἠγρεύετ’ ἄν, καὶ λάχανα τῶν αὐτοχθόνων θλαστή τ’ ἐλάα, καὶ πιεῖν οἰνάριον ἦν ἀμφίβολον.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "cfi-aa",
+      "title": {
+        "english": "Simple Life",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "poliochus-the-comic-poet-simple-life-cfi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/poliochus-the-comic-poet/simple-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/poliochus-the-comic-poet-simple-life-cfi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/poliochus-the-comic-poet-simple-life-cfi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/poliochus-the-comic-poet-simple-life-cfi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/poliochus-the-comic-poet-simple-life-cfi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/poliochus-the-comic-poet/simple-life.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "iti-aa",
+      "title": {
+        "english": "Fragments on Cooking",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ὀψοποιίας"
+      },
+      "url_slug": "sotades-of-maroneia-elder-cooking-iti-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sotades-of-maroneia-elder/cooking",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-elder-cooking-iti-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-elder-cooking-iti-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-elder-cooking-iti-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-elder-cooking-iti-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-elder/cooking.epub"
+      }
+    },
+    {
+      "eul_wid": "ino-aa",
+      "title": {
+        "english": "Fragments on Drinking Vessels",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ποτηρίων"
+      },
+      "url_slug": "epigenes-of-byzantium-drinking-vessels-ino-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epigenes-of-byzantium/drinking-vessels",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigenes-of-byzantium-drinking-vessels-ino-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigenes-of-byzantium-drinking-vessels-ino-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigenes-of-byzantium-drinking-vessels-ino-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigenes-of-byzantium-drinking-vessels-ino-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigenes-of-byzantium/drinking-vessels.epub"
+      }
+    },
+    {
+      "eul_wid": "hee-ab",
+      "title": {
+        "english": "Fragments on Household Management",
+        "ancient_greek": "Ἀποσπάσματα περὶ Οἰκονομίας"
+      },
+      "url_slug": "apollodorus-of-gela-household-management-hee-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollodorus-of-gela/household-management",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-gela-household-management-hee-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-gela-household-management-hee-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-gela-household-management-hee-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-gela-household-management-hee-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-gela/household-management.epub"
+      }
+    },
+    {
+      "eul_wid": "cxa-aa",
+      "title": {
+        "english": "Fragments on Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου"
+      },
+      "url_slug": "magnes-the-comic-poet-life-fragments-cxa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/magnes-the-comic-poet/life-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnes-the-comic-poet-life-fragments-cxa-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnes-the-comic-poet-life-fragments-cxa-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnes-the-comic-poet-life-fragments-cxa-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnes-the-comic-poet-life-fragments-cxa-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnes-the-comic-poet/life-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "cgm-aa",
+      "title": {
+        "english": "Fragments on a Banquet",
+        "ancient_greek": "Ἀποσπάσματα περὶ Συμποσίου"
+      },
+      "url_slug": "timotheus-the-comic-poet-of-athens-banquet-fragments-cgm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/timotheus-the-comic-poet-of-athens/banquet-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens-banquet-fragments-cgm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens-banquet-fragments-cgm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens-banquet-fragments-cgm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens-banquet-fragments-cgm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens/banquet-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "lxg-aa",
+      "title": {
+        "english": "Generational Conflict Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "timostratus-the-comic-poet-generational-conflict-lxg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/timostratus-the-comic-poet/generational-conflict",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timostratus-the-comic-poet-generational-conflict-lxg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timostratus-the-comic-poet-generational-conflict-lxg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timostratus-the-comic-poet-generational-conflict-lxg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timostratus-the-comic-poet-generational-conflict-lxg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timostratus-the-comic-poet/generational-conflict.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-bf",
+      "title": {
+        "english": "Menander's Comedic Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "menander-of-athens-comedic-fragments-hps-bf",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/comedic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-comedic-fragments-hps-bf.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-comedic-fragments-hps-bf.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-comedic-fragments-hps-bf.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-comedic-fragments-hps-bf.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/comedic-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "djs-ac",
+      "title": {
+        "english": "Satirical Cityscape Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hermippus-the-comic-poet-satirical-cityscape-djs-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermippus-the-comic-poet/satirical-cityscape",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet-satirical-cityscape-djs-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet-satirical-cityscape-djs-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet-satirical-cityscape-djs-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet-satirical-cityscape-djs-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet/satirical-cityscape.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/poliochus-the-comic-poet/rustic-meals-simple-living",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/poliochus-the-comic-poet-rustic-meals-simple-living-cfi-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/poliochus-the-comic-poet-rustic-meals-simple-living-cfi-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/poliochus-the-comic-poet-rustic-meals-simple-living-cfi-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/poliochus-the-comic-poet-rustic-meals-simple-living-cfi-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/poliochus-the-comic-poet/rustic-meals-simple-living.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

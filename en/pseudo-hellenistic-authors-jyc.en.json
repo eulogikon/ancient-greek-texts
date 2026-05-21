@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "jyc",
+  "auth_slug": "pseudo-hellenistic-authors",
+  "name": {
+    "english": "Pseudo-Hellenistic Authors",
+    "ancient_greek": "Ψευδο-Ἑλληνισταί"
+  },
+  "seo_h1": "Pseudo-Hellenistic Authors on the Divine Nature",
+  "seo": {
+    "browser_title": "Pseudo Hellenistic Authors on Eulogikon Greek Archive",
+    "meta_title": "The Pseudo Hellenistic Authors Ancient Greek Works",
+    "meta_description": "Pseudo Hellenistic Authors wrote philosophical treatises in Koine Greek during the Hellenistic period. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Pseudo-Hellenistic Authors is a modern scholarly designation for anonymous or pseudepigraphical philosophical texts composed between the 3rd century BCE and the 2nd century CE. No specific biographical details exist for the anonymous individuals behind these works. They wrote in Koine Greek, the common language of the Hellenistic world following Alexander the Great&#x27;s conquests.</p>\n<p class=\"research-text\">This designation refers to a category of texts rather than a single, specific treatise. It encompasses philosophical works from the era that survive under false attributions, such as pseudo-Pythagorean texts or letters misattributed to Socratic schools, as well as anonymous fragments.</p>\n<p class=\"research-text\">These pseudepigraphical texts are significant for understanding the dissemination and popularization of philosophy in the Hellenistic period. They often present eclectic blends of doctrines from major schools like Stoicism, Platonism, and Pythagoreanism, reflecting broader intellectual trends. Crucial for the transmission of Greek philosophy, they influenced later Roman thinkers and early Christian writers.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "jyc-aa",
+      "title": {
+        "english": "Fragments on the Divine Nature",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θείας Φύσεως"
+      },
+      "url_slug": "pseudo-hellenistic-authors-divine-nature-jyc-aa",
+      "passages": 24,
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-hellenistic-authors/divine-nature",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hellenistic-authors-divine-nature-jyc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hellenistic-authors-divine-nature-jyc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hellenistic-authors-divine-nature-jyc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hellenistic-authors-divine-nature-jyc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hellenistic-authors/divine-nature.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/pseudo-hellenistic-authors",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pseudo-hellenistic-authors-jyc.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pseudo-hellenistic-authors-jyc.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pseudo-hellenistic-authors-jyc.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pseudo-hellenistic-authors-jyc.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

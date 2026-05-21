@@ -1,0 +1,328 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ayq",
+  "auth_slug": "seven-sages-of-greece",
+  "name": {
+    "english": "Seven Sages of Greece",
+    "ancient_greek": "Ἑπτὰ Σοφοί or Σεπτέμ Σαπιεντές"
+  },
+  "seo_h1": "Precepts and Sayings of the Seven Sages of Greece",
+  "seo": {
+    "browser_title": "The Seven Sages of Greece on Eulogikon Greek Archive",
+    "meta_title": "The Classical Seven Sages of Greece Ancient Greek Works",
+    "meta_description": "The Seven Sages were early Greek intellectuals and lawgivers. Works include treatises and maxims. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Presocratic",
+      "href": "/affiliations/presocratic"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Seven Sages of Greece were a famous group of intellectuals, statesmen, and lawgivers from the early 6th century BCE. They were not a formal school but a later collection of individuals celebrated for their practical wisdom.</p>\n<p class=\"research-text\">The most common list, recorded by Plato, includes Thales of Miletus, Pittacus of Mytilene, Bias of Priene, Solon of Athens, Cleobulus of Lindus, Chilon of Sparta, and Myson of Chenae. Other ancient sources sometimes substitute different figures, such as Periander of Corinth. Their backgrounds were typically aristocratic, and they held significant political roles like lawgiver, tyrant, or military leader in various city-states across the Greek world.</p>\n<p class=\"research-text\">They were renowned for short, memorable sayings rather than long books. Their famous maxims, such as &quot;Know thyself&quot; and &quot;Nothing in excess,&quot; were later inscribed at the Delphic Oracle. Among the group, only fragments of poetry by Solon survive directly from antiquity. The other Sages are known only through their sayings preserved by later writers. According to modern scholars, any attributions of longer prose works to them are likely later inventions.</p>\n<p class=\"research-text\">The Seven Sages hold a foundational place in Greek cultural history. They represent a transition from mythical wisdom to a more rational and civic-minded form of thought. Their primary significance lies in their role as practical reformers and lawgivers, providing early models for Greek political theory. Their collected sayings continued to be used for centuries as core examples of ethical instruction.</p>\n</div>",
+  "affiliation_label": "Presocratic",
+  "works_count": 5,
+  "works": [
+    {
+      "eul_wid": "ayq-ae",
+      "title": {
+        "english": "Precepts",
+        "ancient_greek": "Παραγγέλματα"
+      },
+      "url_slug": "seven-sages-of-greece-precepts-ayq-ae",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/seven-sages-of-greece/precepts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-precepts-ayq-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-precepts-ayq-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-precepts-ayq-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-precepts-ayq-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/precepts.epub"
+      }
+    },
+    {
+      "eul_wid": "ayq-ab",
+      "title": {
+        "english": "Sayings of the Seven Sages",
+        "ancient_greek": "Γνῶμαι Πλειόνων Συγγραφέων"
+      },
+      "url_slug": "seven-sages-of-greece-sayings-ayq-ab",
+      "passages": 120,
+      "links": {
+        "html": "https://eulogikon.org/grc/seven-sages-of-greece/sayings",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-sayings-ayq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-sayings-ayq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-sayings-ayq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-sayings-ayq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/sayings.epub"
+      }
+    },
+    {
+      "eul_wid": "ayq-aa",
+      "title": {
+        "english": "Sayings, from the Collection of Demetrius Phalereus",
+        "ancient_greek": "Γνῶμαι ἐκ τῆς Συλλογῆς Δημητρίου Φαληρέως"
+      },
+      "url_slug": "seven-sages-of-greece-demetrius-phalereus-ayq-aa",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/seven-sages-of-greece/demetrius-phalereus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-demetrius-phalereus-ayq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-demetrius-phalereus-ayq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-demetrius-phalereus-ayq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-demetrius-phalereus-ayq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/demetrius-phalereus.epub"
+      }
+    },
+    {
+      "eul_wid": "ayq-ad",
+      "title": {
+        "english": "Sentences",
+        "ancient_greek": "Γνῶμαι"
+      },
+      "url_slug": "seven-sages-of-greece-sentences-ayq-ad",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/seven-sages-of-greece/sentences",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-sentences-ayq-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-sentences-ayq-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-sentences-ayq-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-sentences-ayq-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/sentences.epub"
+      }
+    },
+    {
+      "eul_wid": "ayq-ac",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Τῶν ἑπτὰ σοφῶν"
+      },
+      "url_slug": "seven-sages-of-greece-testimonies-ayq-ac",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/seven-sages-of-greece/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-testimonies-ayq-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-testimonies-ayq-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-testimonies-ayq-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-testimonies-ayq-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/testimonies.epub"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "bmw",
+      "name": {
+        "english": "Alcmaeon of Croton",
+        "ancient_greek": "Ἀλκμαίων ὁ Κροτωνιάτης"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/alcmaeon-of-croton",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcmaeon-of-croton-bmw.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcmaeon-of-croton-bmw.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcmaeon-of-croton-bmw.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcmaeon-of-croton-bmw.en.json"
+      }
+    },
+    {
+      "eul_aid": "btk",
+      "name": {
+        "english": "Anaxagoras of Clazomenae",
+        "ancient_greek": "Ἀναξαγόρας ὁ Κλαζομένιος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/anaxagoras-of-clazomenae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxagoras-of-clazomenae-btk.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxagoras-of-clazomenae-btk.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxagoras-of-clazomenae-btk.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxagoras-of-clazomenae-btk.en.json"
+      }
+    },
+    {
+      "eul_aid": "aua",
+      "name": {
+        "english": "Anaximander of Miletus",
+        "ancient_greek": "Ἀναξίμανδρος ὁ Μιλήσιος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/anaximander-of-miletus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximander-of-miletus-aua.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximander-of-miletus-aua.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximander-of-miletus-aua.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximander-of-miletus-aua.en.json"
+      }
+    },
+    {
+      "eul_aid": "bcm",
+      "name": {
+        "english": "Anaximenes of Miletus",
+        "ancient_greek": "Ἀναξιμένης ὁ Μιλήσιος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/anaximenes-of-miletus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-of-miletus-bcm.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-of-miletus-bcm.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-of-miletus-bcm.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-of-miletus-bcm.en.json"
+      }
+    },
+    {
+      "eul_aid": "etm",
+      "name": {
+        "english": "Anaximenes-pseudo Miletus Letters",
+        "ancient_greek": "Ἀναξιμένους τοῦ Μιλησίου Ἐπιστολαί (Ψευδο-Ἀναξιμένης)"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/anaximenes-pseudo-miletus-letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-pseudo-miletus-letters-etm.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-pseudo-miletus-letters-etm.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-pseudo-miletus-letters-etm.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-pseudo-miletus-letters-etm.en.json"
+      }
+    },
+    {
+      "eul_aid": "byk",
+      "name": {
+        "english": "Archelaus of Miletus",
+        "ancient_greek": "Ἀρχέλαος ὁ Μιλήσιος ὁ Ἀθηναῖος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/archelaus-of-miletus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archelaus-of-miletus-byk.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archelaus-of-miletus-byk.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archelaus-of-miletus-byk.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archelaus-of-miletus-byk.en.json"
+      }
+    },
+    {
+      "eul_aid": "anw",
+      "name": {
+        "english": "Cleobulus of Lindos I",
+        "ancient_greek": "Κλεόβουλος ὁ Λίνδιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/cleobulus-of-lindos-i",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleobulus-of-lindos-i-anw.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleobulus-of-lindos-i-anw.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleobulus-of-lindos-i-anw.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleobulus-of-lindos-i-anw.en.json"
+      }
+    },
+    {
+      "eul_aid": "byu",
+      "name": {
+        "english": "Democritus of Abdera",
+        "ancient_greek": "Δημόκριτος ὁ Ἀβδηρίτης"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/democritus-of-abdera",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/democritus-of-abdera-byu.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/democritus-of-abdera-byu.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/democritus-of-abdera-byu.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/democritus-of-abdera-byu.en.json"
+      }
+    },
+    {
+      "eul_aid": "bze",
+      "name": {
+        "english": "Diogenes of Apollonia",
+        "ancient_greek": "Διογένης ὁ Ἀπολλωνιάτης"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/diogenes-of-apollonia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-apollonia-bze.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-apollonia-bze.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-apollonia-bze.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-apollonia-bze.en.json"
+      }
+    },
+    {
+      "eul_aid": "die",
+      "name": {
+        "english": "Empedocles of Acragas",
+        "ancient_greek": "Ἐμπεδοκλῆς ὁ Ἀκραγαντίνος"
+      },
+      "work_count": 3,
+      "links": {
+        "html": "https://eulogikon.org/en/empedocles-of-acragas",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/empedocles-of-acragas-die.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/empedocles-of-acragas-die.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/empedocles-of-acragas-die.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/empedocles-of-acragas-die.en.json"
+      }
+    },
+    {
+      "eul_aid": "bky",
+      "name": {
+        "english": "Heraclitus of Ephesus",
+        "ancient_greek": "Ἡράκλειτος ὁ Ἐφέσιος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/heraclitus-of-ephesus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-bky.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-bky.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-bky.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-bky.en.json"
+      }
+    },
+    {
+      "eul_aid": "bko",
+      "name": {
+        "english": "Heraclitus of Ephesus II",
+        "ancient_greek": "Ἡράκλειτος ὁ Ἐφέσιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/heraclitus-of-ephesus-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-ii-bko.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-ii-bko.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-ii-bko.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-ii-bko.en.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/seven-sages-of-greece",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/seven-sages-of-greece-ayq.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/seven-sages-of-greece-ayq.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/seven-sages-of-greece-ayq.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/seven-sages-of-greece-ayq.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

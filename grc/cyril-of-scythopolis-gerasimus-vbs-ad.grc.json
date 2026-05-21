@@ -1,0 +1,374 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "vbs-ad",
+  "eul_aid": "vbs",
+  "author_slug": "cyril-of-scythopolis",
+  "work_slug": "gerasimus",
+  "url_slug": "cyril-of-scythopolis-gerasimus-vbs-ad",
+  "author": {
+    "english": "Cyril of Scythopolis",
+    "ancient_greek": "Κύριλλος ὁ Σκυθοπολίτης"
+  },
+  "title": {
+    "english": "Life of Gerasimus",
+    "ancient_greek": "Βίος Γερασίμου"
+  },
+  "seo": {
+    "browser_title": "Life of Gerasimus by Cyril of Scythopolis on Eulogikon",
+    "meta_title": "Life of Gerasimus by Cyril of Scythopolis in Greek",
+    "meta_description": "Saint Gerasimus exemplified monastic virtue through ascetic practices and miracles in the Jordan desert. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ Χριστιανική",
+      "english": "Christian Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Βίος",
+      "english": "Biography",
+      "href": "/domains/biography"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Life of Gerasimus</strong> is a sixth-century hagiographical work composed in Koine Greek by Cyril of Scythopolis, a monk and historian of Palestinian monasticism. It details the life of the fifth-century ascetic Gerasimus of the Jordan, chronicling his pilgrimage to the Holy Land, his establishment of a monastic community known as a lavra near the Jordan River, his rigorous ascetic practices, and the miracles ascribed to him. The most celebrated of these miracles recounts the saint taming a lion by extracting a thorn from its paw. Preserved in its entirety within Cyril’s collected works, the text is structured as a prose narrative divided into ten distinct sections.</p>\n<p class=\"research-text\">Scholars regard the biography as a historically significant source for understanding the daily routines and spiritual ideals of desert monasticism in late antiquity. Cyril likely composed it to edify his fellow monks, preserve the memory of a revered spiritual elder, and bolster orthodox Chalcedonian Christian identity in a region fraught with theological disputes. The narrative emphasizes core themes of ascetic discipline, harmonious coexistence with the natural world, and the essential role of the abbot as a spiritual guide and healer. The enduring tale of Gerasimus and the lion proved especially influential, becoming a frequent subject in later Christian iconography and literature.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "175 (t1)",
+      "text": "(ΚΥΡΙΛΛΟΥ ΣΚΥΘΟΠΟΛΙΤΟΥ) ΒΙΟΣ ΚΑΙ ΑΣΚΗΣΙΣ ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΚΑΙ ΘΕΟΦΟΡΟΥ ΓΕΡΑΣΙΜΟΥ τοῦ κατὰ τὴν ἔρημον τοῦ Ἰορδάνου δίκην ἡλίου λάμψαντος. (Cod. Patm. 188, f. ρνεʹ—ρξʹ). 1 Ὁ πεφωτισμένος τε καὶ ἡγιασμένος πατὴρ ἡμῶν Γεράσιμος ὡρμᾶτο μὲν ἐκ τῆς τῶν Λυκίων χώρας, ἀφιερώθη δὲ ἐκ βρέφους τῷ Θεῷ ὑπὸ τῶν αὑτοῦ γονέων, χριστιανῶν ὄντων, καὶ ἐν κοινοβίῳ ἐκ παιδὸς τὴν μοναχικὴν ἐξεπαιδεύθη ἀκρίβειαν. Τῆς τοίνυν ἡλικίας προκοψάσης καὶ τῆς ἐν αὐτῷ ἀρετῆς χρόνῳ καὶ πείρᾳ βεβαιωθείσης καὶ εἰς ὕψος ἀναδραμούσης, πρῶτον μὲν ἀνεχώρησεν εἰς τοὺς κατὰ τὴν αὐτὴν χώραν ἐρημικωτέρους τόπους, καὶ ταῖς αὐτομάτοις πρὸς τροφὴν χρώμενος βοτάναις καὶ πολλοὺς ἀγῶνας κατὰ τῶν πνευμάτων τῆς πονηρίας ἐπιδεικνύμενος, καὶ οὕτως ἐπὶ χρόνον ἀσκήσας μυρίοις ἱδρῶσι καὶ πόνοις, νικηφόρος ἀνεδείχθη· μετέπειτα δὲ ὑπὸ τῆς θείας ἀγάπης ἀγόμενος καὶ “ἀπὸ δόξης εἰς δόξαν” προκόπτειν ἐπειγόμενος ἦλθεν εἰς τὰ Ἱεροσόλυμα, καὶ προσκυνήσας τοὺς ἁγίους καὶ σεβασμίους τόπους κατῆλθεν εἰς τὸν Ἰορδάνην καὶ διῆγεν ἐν τῇ περὶ τὴν Νεκρὰν Θάλασσαν ἐρήμῳ, τὸν ἀναχωρητικὸν μετερχόμενος βίον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "176",
+      "text": "Ὅστις ἐν τῷ καιρῷ τῆς οἰκουμενικῆς ἐν Χαλκηδόνι συνόδου μετὰ τῶν ἄλλων τῆς, ἐρήμου ἀναχωρητῶν συνυπήχθη τῇ τῶν Ἀποσχιστῶν κακοδιδασκαλίᾳ καὶ ἀλόγῳ φιλονεικίᾳ· ἀλλὰ διὰ τῆς τοῦ μεγάλου πατρὸς Εὐθυμίου διδασκαλίας ἐπείσθη συνθέσθαι τῷ ὅρῳ τῷ ἐκτεθέντι ὑπὸ τῆς οἰκουμενικῆς συνόδου. 2 Οὗτος ὁ πανεύφημος Γεράσιμος μεγάλως ἐν τῇ κατὰ τὸν Ἰορδάνην ἐξέλαμψεν ἐρήμῳ καὶ τὰς τῶν ἀρετῶν ἀκτῖνας πανταχοῦ ἐξέπεμψε· καὶ πρῶτον μὲν ἐν τῇ περὶ τὴν Νεκρὰν Θάλασσαν ἐρήμῳ μετὰ ἄλλων ἁγίων ἀναχωρητῶν ἐπὶ χρόνον ἱκανὸν διετέλεσε, καὶ τὰς τούτων ἀρετὰς μιμησάμενος καὶ ἄλλο ἐπ’ ἄλλου κάλλος λαβών, ὥσπερ οἱ τὰς μορφὰς μεθ’ ὑπερβολῆς γράφοντες, καὶ εἰς μίαν τὴν ἑαυτοῦ ψυχὴν συναγαγών, ἓν ἀρετῆς εἶδος ἐκ πάντων ἀπηκριβώσατο, καὶ οὕτως τῇ μακρᾷ φιλοσοφίᾳ ἑαυτὸν παιδαγωγήσας καὶ ἀνακαθάρας ἱκανῶς τὴν αὑτοῦ καρδίαν τῇ πρὸς Θεὸν ἐγγύτητι, οὕτω πολιστὴς καὶ πολιοῦχος τῆς κατὰ τὸν Ἰορδάνην ἐρήμου ὑπὸ τοῦ Θεοῦ ἀναδείκνυται· ἔνθα λαύραν περιφανεστάτην συστησάμενος, κοινόβιον μέσον αὐτῆς πεποίηκε, καὶ τοὺς μὲν ἀρχαρίους ἐν τῷ κοινοβίῳ μένειν καὶ παιδαγωγεῖσθαι τὴν μοναχικὴν πολιτείαν ἐνομοθέτησε, τοὺς δὲ τελείους κατὰ Θεὸν καὶ πόνοις ἑκουσίοις διαπρέποντας καὶ ταῖς κατὰ Θεὸν ἀναβάσεσι τοὺς πολλοὺς ὑπεραναβεβηκότας ἐν ταῖς κέλλαις κατῴκησεν, οὕτως αὐτοὺς κανονίσας, ὥστε ἕκαστον αὐτῶν τὰς μὲν πέντε τῆς ἑβδομάδος ἡμέρας ἡσυχάζειν εἰς τὸ ἴδιον κελλίον, μηδενὸς ἑτέρου μεταλαμβάνοντα, πλὴν ἄρτου καὶ ὕδατος καὶ φοινίκων, τῷ δὲ Σαββάτῳ καὶ τῇ Κυριακῇ εἰς τὴν ἐκκλησίαν ἐρχόμενον καὶ τῶν θείων μετασχόντα μυστηρίων εἰς τὸ κοινόβιον μεταλαμβάνειν ἑψητοῦ, ὀλίγῳ οἴνῳ χρώμενον—ὁμοῦ δὲ ἅπαντες τὸν κανόνα ἐπετέλουν τῆς ψαλμῳδίας τῷ τε Σαββάτῳ καὶ τῇ Κυριακῇ—, τὰς δὲ ἄλλας πέντε ἡμέρας ἡσυχάζειν, ὡς εἴρηται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "177",
+      "text": "3 Ἀδύνατον δὲ ἦν τινα αὐτῶν ἅψαι λύχνον εἰς τὸ κελλίον τὸ σύνολον, ἢ ποιῆσαι θερμόν, ἢ ἑψητοῦ γεύσασθαι· ἀλλ’ ἦσαν ἀκτήμονες καὶ ταπεινόφρονες καὶ τῶν παθῶν τῆς σαρκὸς αὐτοκράτορες. Γαστρὸς δὲ καὶ ἡδονῆς ἐκράτουν, οὐ μήν γε ἀλλὰ καὶ τῶν τῆς ψυχῆς παθῶν, λύπης καὶ ὀργῆς καὶ δειλίας καὶ λήθης, ἔξω γεγόνασι, “λογισμοὺς ἀεὶ καθαίροντες καὶ πᾶν ὕψωμα ἐπαιρόμενον κατὰ τῆς γνώσεως τοῦ Θεοῦ”, οὕτως αὐτοὺς τοῦ μεγάλου Γερασίμου παιδεύοντος καὶ ὁδηγοῦντος καὶ ποιμαίνοντος οὐ σκεύεσι ποιμένος ἀπείρου, ἀλλὰ καὶ λίαν περιεσκεμμένου· αὕτη γὰρ ἦν αὐτῷ σπουδὴ μόνη, ἡ περὶ “τὸν κρυπτὸν τῆς καρδίας ἄνθρωπον” θεραπεία καὶ ἐπιμέλεια, πτερῶσαι τὰς ψυχὰς καὶ ἁρπάσαι κόσμου καὶ καρποφορῆσαι αὐτὰς τῷ Θεῷ. Καὶ ὁ μὲν μέγας Γεράσιμος μετάρσιος ὑπάρχων καὶ τοῖς Ἀγγέλοις τῷ πνεύματι συναυλιζόμενος ἔσπευδεν ἕκαστον δι’ ἀρετῆς ἕλκειν πρὸς οὐρανὸν ἐκ τοῦδε τοῦ βίου, οἱ δὲ ὑπ’ αὐτὸν πατέρες ἑκουσίως ὑπ’ αὐτοῦ κυβερνώμενοι καὶ ὁδηγούμενοι ἐκαρποφόρουν ἀξίως τῆς ὁδηγίας. Εἰργάζοντο μὲν οὖν ἐν ταῖς κέλλαις σειρὰν καὶ μαλάκια· ἕκαστος δὲ αὐτῶν τὸ ἐργόχειρον τῆς ἑβδομάδος ἀποφέρων τῷ Σαββάτῳ εἰς τὸ κοινόβιον, τῇ Κυριακῇ δείλης τὸ ἀνάλωμα τῆς ἑβδομάδος λαμβάνων, ἄρτους καὶ φοίνικας καὶ ἓν κιλικήσιον ὕδατος, οὕτως εἰς τὸ κελλίον ἀπήρχετο. Καὶ τοσοῦτον ἦσαν ἀμέριμνοι ἀπὸ πάντων τῶν ἀνθρωπίνων πραγμάτων, καὶ ἁπλῶς εἰπεῖν νενεκρωμένοι τῷ βίῳ καὶ Θεῷ μόνῳ ζῶντες, ὥστε μηδὲν τῆς ὕλης τοῦ κόσμου τούτου ἔχειν τινὰ εἰς τὸ κελλίον αὑτοῦ, πλὴν τούτων τῶν ἀναγκαίων, ἑνὸς κολοβίου καὶ παλλίου καὶ κουκουλλίου· στρωμνὴν δὲ εἶχεν ἕκαστος ψιάθιον ἓν καὶ κεντώνιον καὶ ἐμβρίμιον καὶ σκεῦος ὀστράκινον ἕν, εἰς ὃ ἐγεύετο καὶ τὰ βαΐα ἔβρεχεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "178",
+      "text": "4 Τοιαύτην δὲ συνήθειαν παρεδίδου αὐτοῖς ὁ θεοφόρος Γεράσιμος, ὥστε ἀνεῳγμένας τὰς κέλλας ἀφιέναι, ἵνα ἕκαστος τῶν συναγωνιστῶν τὴν ἰδίαν χρείαν λαμβάνῃ, μηδενὸς κωλύοντος· εἰ δὲ καὶ ὁ ἔχων τὸ κελλίον μὴ πάρεστιν, οὐκ ἐφρόντιζεν ὁ χρείαν ἔχων, καὶ ἦν ἰδεῖν αὐτοὺς ἀποστολικῶς βιοῦντας—ἦν γὰρ καὶ τούτων ἐν τῇ ἐρήμῳ οἰκούντων ἡ καρδία καὶ ἡ ψυχὴ μία—, καὶ οὐδὲ εἷς τι τῶν ὑπαρχόντων αὑτῷ ἔλεγεν ἴδιον εἶναι, ἀλλ’ ἦν αὐτοῖς ἅπαντα κοινά. Καὶ τοῦτο δὲ ἐν τοῖς περὶ τοῦ μεγάλου Γερασίμου φέρεται διηγήμασιν· ὅτι προσῆλθον αὐτῷ τινες τῶν ἀναχωρητῶν λέγοντες· “Ἐπίτρεψον ἡμῖν θερμὸν ἑαυτοῖς ποιῆσαι καὶ ἑψητοῦ μεταλαμβάνειν καὶ λύχνον ἅπτειν ἐν τῷ νυκτερινῷ κανόνι πρὸς τὸ ἀναγινώσκειν”. Ὃ δὲ ἀπεκρίνατο λέγων “Εἰ ὅλως βούλεσθε εὐκρατίου καὶ ἑψητοῦ μεταλαμβάνειν καὶ ὑπὸ λύχνον ἀναγινώσκειν, συμφέρει εἶναι ὑμᾶς εἰς τὸ κοινόβιον· ἐγὼ γὰρ τοῦτο γενέσθαι οὐ συγχωρῶ εἰς τὸν τῆς ζωῆς μου χρόνον”. Ἀκούοντες δὲ οἱ Ἱεριχούντιοι, ὅτι οἱ τοῦ ἀββᾶ Γερασίμου μεγάλην ἔχουσι πολιτείαν. ἤρχοντο πρὸς αὐτοὺς ἐν ἑκάστῳ Σαββάτῳ καὶ Κυριακῇ, παράκλησιν αὐτοῖς φέροντες οὐ μετρίαν. Τινὲς τῶν ἀγωνιστῶν πατέρων θεωροῦντες τοὺς κοσμικοὺς ἐρχομένους φυγῇ ἐχρῶντο, μηδὲν τῆς ἐγκρατείας προκρίνοντες, γινώσκοντες αὐτὴν οὖσαν γεννήτριαν τῆς σωφροσύνης, τούς τε ῥυπαροὺς ἀναστέλλουσαν λογισμοὺς καὶ τὴν τοῦ ὕπνου βαρύτητα ἀνακόπτουσαν· ἔργῳ γὰρ καὶ λόγῳ τῶν τῆς ἐγκρατείας ἀγαθῶν ἐδιδάσκοντο ὑπὸ τοῦ ἡγιασμένου πατρός· οὕτω γὰρ καὶ αὐτὸν ἔλεγον τελείως τῆς γαστριμαργίας περιγεγονέναι, ὥστε αὐτὸν πάντα μὲν τὸν ἐν Παλαιστίνῃ τῆς ζωῆς αὐτοῦ χρόνον τὰς ἑβδομάδας νηστεύειν, πάσας δὲ τὰς τῆς ἁγίας τεσσαρακοστῆς ἡμέρας ἄσιτον αὐτὸν διαμεμενηκέναι, τῇ κατὰ Κυριακὴν κοινωνίᾳ ἀρκούμενον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "179",
+      "text": "5Διηγήσατό μοι ὁ ἀββᾶς Κυριακὸς ὁ ἀναχωρητὴς λέγων. ὅτι «Ἐν νεότητί μου, φησίν, ἐπιποθήσας τὴν ἔρημον οἰκῆσαι, ἦλθον εἰς τὴν λαύραν τοῦ μεγάλου Εὐθυμίου, καὶ τὸ μοναχικὸν σχῆμα διὰ τῶν ἁγίων αὐτοῦ χειρῶν λαβὼν ἀπεστάλην ὑπ’ αὐτοῦ πρὸς τὸν ἐν ἁγίοις Γεράσιμον· ὅστις Γεράσιμος, μὴ βουλόμενος ἔχειν ἐν τῇ ἑαυτοῦ λαύρᾳ νεώτερον, δεξάμενός με ἐν τῷ τῆς λαύρας κοινοβίῳ ὑπηρέτην τῶν πατέρων κατέστησε. Τοῦ δὲ πέμπτου χρόνου ἤδη πληρωθέντος τῆς ἐμῆς αὐτόθι διαγωγῆς. τῇ ἐννέα καὶ δεκάτῃ τοῦ ἰαννουαρίου μηνὸς ἐν ἡμέρᾳ Παρασκευῇ περὶ ἐσπέραν ἡτοίμαζον τὸ μαγειρεῖον, καὶ ὡς περὶ ὥραν πέμπτην τῆς νυκτὸς τοῦ Σαββάτου, ἐμοῦ ἀγρυπνοῦντος καὶ τὸ λάχανον τῶν πατέρων καθαρίζοντος, ἦλθε πρός με ἄφνω ὁ ἐν ἁγίοις Γεράσιμος καὶ λέγει μοι· “Ἀνάστα τάχιον, Κυριακέ· ὑπόδησαι τὰ σανδάλια σου καὶ περιβαλοῦ τὸ ἱμάτιον καὶ ἀκολούθει μοι”. Καὶ ἀναστὰς ἠκολούθησα αὐτόν· Καὶ ἀπιόντων ἡμῶν ἐπὶ τὴν Ἱεριχὼ λέγω τῷ γέροντι· “Τίμιε πάτερ, τίς ἡ αἰτία τοῦ τοσούτου δρόμου”; Καὶ λέγει μοι ὁ μέγας Γεράσιμος· “Εὐθύμιος ὁ ἡγιασμένος τετελεύτηκε”. Καὶ θαυμάσας ἐγὼ εἶπον· “Καὶ πόθεν σοι, σεβάσμιε πάτερ, τὸ εἰδέναι τοῦτο σαφῶς”; Καὶ ἀπεκρίθη ὁ γέρων καὶ εἶπεν, ὡς «Περὶ ὥραν τρίτην τῆς νυκτὸς εἶδον εἰς προσευχὴν ἱστάμενος σχιζομένους τοὺς οὐρανοὺς καὶ ἀστραπὴν φωτὸς ἐξερχομένην καὶ φθάνουσαν ἕως τῆς γῆς· καὶ ἔμεινεν ἐπὶ πολὺν ὥραν ἡ ἀστραπὴ ὡς στύλος φωτὸς φαινόμενος ἀπὸ τῆς γῆς ἕως τοῦ οὐρανοῦ. Καὶ ἐμοῦ τὴν ὀπτασίαν καὶ τὴν ἑαυτῆς δύναμιν ἀποροῦντος καὶ μαθεῖν τὴν αἰτίαν καὶ τὸν Θεὸν παρακαλοῦντος, ἤκουσα ἐκ τοῦ οὐρανοῦ φωνῆς λεγούσης Ἡ ψυχὴ τοῦ μεγάλου ἐστὶν Εὐθυμίου, εἰς τὸν οὐρανὸν ἀναλαμβανομένη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "180",
+      "text": "Καὶ ἰδοὺ ὁ ὀφθεὶς στύλος φωτὸς κατὰ μικρὸν ὑψοῦτο ἀπὸ τῆς γῆς μετὰ φωνῆς ὑμνῳδίας πολλὼν, καὶ οὕτως εἰσῆλθεν εἰς τὸν οὐρανόν, καὶ ἐντεῦθεν ἔγνων σαφὼς, ὅτι ὁ μέγας Εὐθύμιος ἐτελειώθη. Καὶ ὁδεύσαντες εὕρομεν οὕτως, καὶ προσκυνήσαντες καὶ καταθέμενοι τὸ τίμιον λείψανον τοῦ ἁγίου πατρὸς ὑπεστρέψαμεν δοξάζοντες τὸν Θεόν». 6 Οὕτω μὲν οὖν ὁ θεοφόρος Γεράσιμος τὴν Ἀντωνίου τοῦ μεγάλου χάριν λαβὼν, τοῦ τὴν ψυχὴν Ἀμμοῦν τοῦ Νιτριώτου ἀναλαμβανομένην εἰς τὸν οὐρανὸν τοῖς τῆς ψυχῆς ὄμμασι θεασαμένου, 〈καὶ οὗτοσ〉 τὴν τοῦ μεγάλου Εὐθυμίου ψυχὴν διορατικοῖς εἶδεν ὀφθαλμοῖς εἰς τὸν οὐρανὸν ἀναλαμβανομένην· γεγονὼς γὰρ οἰκητήριον τοῦ παναγίου πνεύματος καὶ ναὸς τοῦ μονογενοῦς Θεοῦ Λόγου καὶ μονὴ τοῦ παντοκράτορος Θεοῦ, εἶχεν ἔνδον τὴν μίαν καὶ ἀδιαίρετον θεότητα ἀποκαλύπτουσαν αὐτῷ τὰ πόρρω καὶ μακρὰν ἐπιτελούμενα. Οὕτως τοίνυν γενναίως ἀσκήσας καὶ τοὺς ὑπ’ αὐτὸν ὁδηγήσας καὶ φωτίσας, καὶ τὰ τῆς εὐσεβείας σπέρματα ὅλῃ ἐγκατασπείρας τῇ κατὰ τὸν Ἰορδάνην ἐρήμῳ, καὶ “σκεῦος ἐκλογῆς” τῆς ἐρήμου ἀναδειχθείς, εἰς χεῖρας Θεοῦ τὸ πνεῦμα παρέθετο. 7 Διηγήσαντο [ἡμῖν] οἱ τοῦ αὐτοῦ ἁγίου πατρὸς ἡμῶν Γερασίμου φοιτηταὶ παραβαλοῦσιν αὐτοῖς, καθὼς εὕραμεν τῶν ἀκουσάντων τὸ σύγγραμμα, ὅτι «Περιπατῶν ἐν μιᾷ παρὰ τὴν ὄχθαν τοῦ ἁγίου Ἰορδάνου ὑπήντησεν αὐτῷ λέων πάνυ ὀδυρόμενος ἀπὸ τοῦ ποδὸς αὐτοῦ· εἶχε γὰρ ἀπὸ καλάμου σκόλοπα παγέντα ἐν αὐτῷ, ὡς ἐκ τούτου ὀγκωθῆναι αὐτοῦ τὸν πόδα καὶ πλήρη ἐμπύων γενέσθαι. Ὡς οὖν ἐθεώρησεν ὁ λέων τὸν γέροντα, ἐπεδείκνυεν αὐτῷ τὸν πόδα τὸν πεπληγότα ἐκ τοῦ ἐμπαγέντος αὐτῷ σκόλοπος, κλαίων τρόπον τινὰ καὶ δεόμενος τῆς παρ’ αὐτοῦ θεραπείας τυχεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "181",
+      "text": "Ὡς δὲ εἶδεν αὐτὸν ὁ γέρων ἐν τοιαύτῃ ἀνάγκῃ, καθίσας καὶ λαβόμενος αὐτοῦ τοῦ ποδός, καὶ ἀνατεμὼν τὸν τόπον ἐξήνεγκε τὸν κάλαμον μετὰ πολλῶν ὑγρῶν ἰχώρων, καὶ καλῶς περικαθάρας τὸ τραῦμα καὶ δήσας τὸν τόπον παννίῳ ἀπέλυσεν αὐτόν. Ὁ δὲ λέων θεραπευθεὶς οὐκέτι εἴασε τὸν γέροντα, ἀλλ’ ὡς γνήσιος μαθητής, ὅπου δ’ ἂν ὑπῆγεν, ἠκολούθει αὐτῷ, ὥστε θαυμάζειν τὸν γέροντα τὴν τοσαύτην εὐγνωμοσύνην τοῦ θηρίου. Καὶ λοιπὸν ἀπὸ τότε ὁ γέρων ἔτρεφεν αὐτόν, βάλλων αὐτῷ ἄρτον καὶ βρεκτὰ ὄσπρια. Εἶχε δὲ ἡ λαύρα, ἤτοι τὰ σπήλαια, ἕνα ὄνον, δι’ οὗ παρέφερον τὸ ὕδωρ εἰς τὴν χρείαν τῶν γερόντων· ἐκ γὰρ τοῦ ἁγίου Ἰορδάνου πίνουσι τὸ ὕδωρ· ἀπέχει δὲ ἐκ τῆς λαύρας μίλιον ἕν. Συνήθειαν οὖν εἶχον οἱ πατέρες διδόναι τὸν ὄνον τῷ λέοντι, ἵνα ἀπέρχηται καὶ βόσκῃ αὐτὸν παρὰ τὸ χεῖλος τοῦ Ἰορδάνου. 8 «Ἐν μιᾷ οὖν βοσκόμενος ὁ ὄνος διέστη ἀπ’ αὐτοῦ ὁ λέων οὐκ ὀλίγον διάστημα, καὶ ἰδοὺ καμηλάριος ἐρχόμενος ἀπὸ Ἀραβίας καὶ εὑρὼν τὸν ὄνον ἔλαβεν αὐτὸν εἰς τὰ ἴδια· ὁ δὲ ἀπολέσας τὸν ὄνον ἦλθεν εἰς τὴν λαύραν πάνυ στυγνὸς πρὸς τὸν ἀββᾶν Γεράσιμον. Ἰδὼν οὖν αὐτὸν ὁ γέρων ἐνόμισεν, ὅτι αὐτὸς ἔφαγεν τὸν ὄνον, καὶ λέγει αὐτῷ “Σὺ ἔφαγες τὸν ὄνον”; Ὃ δὲ ὥσπερ ἄνθρωπος κάτω νεύων ἵστατο, καὶ λέγει αὐτῷ ὁ γέρων· “Εὐλογητὸς Κύριος· τὸ ἔργον τοῦ ὄνου σὺ ποίει ἀπὸ τοῦ νῦν”. Ἀπὸ τότε οὖν ὁ λέων, κελεύσαντος τοῦ γέροντος, μετέφερε τοῖς πατράσι τὸ ὕδωρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "182",
+      "text": "Καί ποτέ τις στρατιώτης ἐλθὼν πρὸς τὸν γέροντα, καὶ ἰδὼν τὸν λέοντα παραφέροντα τὸ ὕδωρ, παρέσχε τῷ γέροντι χρυσίνους τρεῖς ὑπὲρ τιμῆς ὄνου, καὶ ἠλευθερώθη ὁ λέων τῆς δουλείας. Μετὰ οὖν χρόνον τινὰ ὁ καμηλάριος ὁ τὸν ὄνον λαβὼν ἔρχεται πάλιν σῖτον πωλῆσαι ἐν τῇ Ἁγίᾳ Πόλει, ἔχων τὸν ὄνον μεθ’ ἑαυτοῦ· καὶ περάσας τὸν ἅγιον Ἰορδάνην ὑπηντήθη κατὰ συγκυρίαν τῷ λέοντι, καὶ ἰδὼν αὐτὸν ὁ καμηλάριος, ἐάσας τὰς καμήλους, ἔφυγεν· ὁ δὲ λέων γνωρίσας τὸν ὄνον ἔδραμεν ἐπ’ αὐτόν, καὶ τῷ στόματι δακὼν τὸ δουκάλιον, ὡς εἰώθει, ἔσυρεν αὐτὸν μετὰ τῶν τριῶν καμήλων, καὶ χαίρων ὡς τὸν ὄνον ὃν ἀπώλεσεν εὑρηκώς, ἅμα τε καὶ κράζων ἦλθε πρὸς τὸν γέροντα· ὁ γὰρ γέρων ἤλπιζεν ὅτι ὁ λέων ἔφαγεν αὐτόν. Τότε οὖν ὁ μέγας πατὴρ ἡμῶν Γεράσιμος ἐπληροφορήθη, ὅτι ἐσυκοφαντήθη ὁ λέων· ἐπέθηκε δὲ καὶ ὄνομα τῷ λέοντι Ἰορδάνην. Ἐποίησε δὲ μετὰ τοῦ γέροντος ὁ λέων χρόνους πέντε, ἀχώριστος αὐτοῦ ἀεὶ ὤν. 9 «Ὅτε δὲ πρὸς Κύριον ὁ μέγας πατὴρ ἡμῶν Γεράσιμος, ὁ πολυάρετος καὶ παμπόθητος καὶ τῆς δόξης τῆς θείας ἠμφιεσμένος, ἀπεδήμησε καὶ ἐτάφη ὑπὸ τῶν πατέρων, κατ’ οἰκονομίαν Θεοῦ ὁ λέων οὐχ εὑρέθη εἰς τὴν λαύραν· μετ’ ὀλίγον δὲ ἦλθε καὶ ἐζήτει τὸν ἅγιον γέροντα αὑτοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "183",
+      "text": "Ὁ δὲ ἀββᾶς Σαββάτιος ὁ Κίλιξ καὶ φίλος τοῦ ἁγίου πατρὸς ἡμῶν Γερασίμου ἰδὼν τὸν λέοντα ἔλεγεν αὐτῷ· “Ἰορδάνη, ὁ γέρων ἀφῆκεν ἡμᾶς ὀρφανοὺς καὶ πρὸς Κύριον ἀπεδήμησεν· ἀλλὰ λάβε καὶ φάγε”. Ὁ δὲ λέων φαγεῖν οὐκ ἤθελεν, ἀλλὰ συνεχῶς τοὺς ὀφθαλμοὺς ὧδε καὶ ὧδε κινῶν ἐζήτει ἰδεῖν τὸν γέροντα αὑτοῦ, ὠρυόμενος μεγάλα, μὴ φέρων αὐτοῦ τὴν στέρρησιν· ὁ δὲ ἀββᾶς Σαββάτιος καὶ οἱ λοιποὶ γέροντες τρίβοντες τὸν νῶτον αὐτοῦ ἔλεγον αὐτῷ· “Ἀπῆλθεν ὁ πατὴρ ἡμῶν πρὸς Κύριον, ἐάσας ἡμᾶς”. Καὶ ταῦτα αὐτῶν λεγόντων οὐκ ἠδύναντο αὐτὸν ἐκ τῶν φωνῶν καὶ τῶν ὀδυρμῶν παῦσαι· ἀλλ’ ὅσον ἐδόκουν αὐτὸν διὰ τοῦ λόγου θεραπεύειν καὶ μεταβάλλειν, τοσοῦτον αὐτὸς μᾶλλον ὠδύρετο καὶ βοαῖς μείζοσιν ἐχρᾶτο καὶ τὸν θρῆνον ηὔξανε. δεικνύων διά τε τῶν φωνῶν καὶ τοῦ προσώπου καὶ τῶν ὀφθαλμῶν τὴν λύπην, ἣν εἶχε, μὴ βλέπων τὸν ἅγιον Γεράσιμον. Τότε λέγει αὐτῷ ὁ ἀββᾶς Σαββάτιος. “Δεῦρο μετ’ ἐμοῦ ἐφ’ ὅσον οὐ πιστεύεις ἠμῖν, καὶ δεικνύω σοι ποῦ κεῖται ὁ γέρων ἡμῶν”. Καὶ λαβὼν αὐτὸν ἀπήνεγκεν ὅπου ἦσαν θάψαντες αὐτόν· ἀπέχει δὲ ἐκ τῆς ἐκκλησίας ὡς ἥμισυ μιλίου. Καὶ σταθεὶς ὁ ἀββᾶς Σαββάτιος ἐπάνω τοῦ τάφου τοῦ ἁγίου πατρὸς ἠμῶν Γερασίμου ἔβαλε μετάνοιαν. Ὡς οὖν εἶδεν ὁ λέων πῶς ἔβαλε μετάνοιαν ἐπάνω τοῦ τάφου τοῦ ἁγίου γέροντος καὶ ἔκλαιεν, ἔβαλε καὶ αὐτὸς μετάνοιαν εἰς τὴν γῆν, κρούων τὴν κεφαλὴν σφοδρῶς καὶ ὠρυόμενος, καὶ οὕτως παραχρῆμα ἀπέθανεν ἐπάνω τοῦ τάφου. Τοῦτο δὲ ὅλον γέγονεν, οὐχ ὡς ψυχὴν λογικὴν ἔχοντος τοῦ λέοντος, ἀλλ’ ὡς τοῦ Θεοῦ θέλοντος τοὺς δοξάζοντας αὐτὸν δοξάσαι, οὐ μόνον ἐν τῇ ζωῇ ταύτῃ, ἀλλὰ καὶ μετὰ θάνατον, καὶ δεῖξαι ἡμῖν ποίαν ὑποταγὴν εἶχον τὰ θηρία πρὸς τὸν Ἀδάμ, πρὶν αὐτὸν παρακοῦσαι τῆς ἐντολῆς καὶ τῆς ἐν Παραδείσῳ τρυφῆς ἐκπεσεῖν».",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "184",
+      "text": "10 Ἡ μέντοι τελείωσις τοῦ πατρὸς ἡμῶν Γερασίμου γέγονε κατὰ τὴν πέμπτην τοῦ μαρτίου μηνὸς τῆς τρισκαιδεκάτης ἰνδικτιῶνος, ἐν ἀρχῇ τῆς βασιλείας Ζήνωνος. Βασίλειον δὲ καὶ Στέφανον ἀδελφοὺς αὐτοῦ κατὰ σάρκα διαδόχους τῆς ἡγεμονίας κατέλιπεν, οἵτινες ἐπὶ ἓξ ἔτη τὴν αὐτὴν ποιμάναντες συνοδίαν ἐτελεύτησαν, καὶ οὕτως ψήφῳ πάντων τῶν ἁγίων πατέρων ὁ τρισμακάριος Εὐγένιος τῆς τοῦ μεγάλου Γερασίμου ἀγέλης ἐκράτησε, καὶ ταύτην καλῶς καὶ θεαρέστως ἐπὶ τεσσαράκοντα καὶ πέντε ἔτη καὶ μῆνας τέσσαρας ποιμάνας ἐκοιμήθη μηνὶ αὐγούστῳ ιθʹ τῆς τετάρτης ἰνδικτιῶνος. ἀνὴρ προφητικὸς γεγονὼς καὶ θείοις χαρίσμασι περιλαμπόμενος ἐν Χριστῷ Ἰησοῦ τῷ Κυρίῳ ἡμῶν, ᾧ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "vbs-ae",
+      "title": {
+        "english": "Life of Abramius",
+        "ancient_greek": "Βίος Ἀβραμίου"
+      },
+      "url_slug": "cyril-of-scythopolis-abramius-vbs-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/cyril-of-scythopolis/abramius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-abramius-vbs-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-abramius-vbs-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-abramius-vbs-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-abramius-vbs-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/abramius.epub"
+      }
+    },
+    {
+      "eul_wid": "vbs-af",
+      "title": {
+        "english": "Life of Cyriacus",
+        "ancient_greek": "Βίος Κυριακοῦ"
+      },
+      "url_slug": "cyril-of-scythopolis-life-cyriacus-vbs-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/cyril-of-scythopolis/life-cyriacus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-life-cyriacus-vbs-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-life-cyriacus-vbs-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-life-cyriacus-vbs-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-life-cyriacus-vbs-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/life-cyriacus.epub"
+      }
+    },
+    {
+      "eul_wid": "vbs-ac",
+      "title": {
+        "english": "Life of Euthymius",
+        "ancient_greek": "Βίος Εὐθυμίου"
+      },
+      "url_slug": "cyril-of-scythopolis-life-euthymius-vbs-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/cyril-of-scythopolis/life-euthymius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-life-euthymius-vbs-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-life-euthymius-vbs-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-life-euthymius-vbs-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-life-euthymius-vbs-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/life-euthymius.epub"
+      }
+    },
+    {
+      "eul_wid": "vbs-aa",
+      "title": {
+        "english": "Life of John the Hesychast",
+        "ancient_greek": "Βίος Ἰωάννου τοῦ Ἡσυχαστοῦ"
+      },
+      "url_slug": "cyril-of-scythopolis-john-hesychast-vbs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cyril-of-scythopolis/john-hesychast",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-john-hesychast-vbs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-john-hesychast-vbs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-john-hesychast-vbs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-john-hesychast-vbs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/john-hesychast.epub"
+      }
+    },
+    {
+      "eul_wid": "vbs-ah",
+      "title": {
+        "english": "Life of Saba",
+        "ancient_greek": "Βίος Σάβα"
+      },
+      "url_slug": "cyril-of-scythopolis-saba-vbs-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/cyril-of-scythopolis/saba",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-saba-vbs-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-saba-vbs-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-saba-vbs-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-saba-vbs-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/saba.epub"
+      }
+    },
+    {
+      "eul_wid": "vbs-ab",
+      "title": {
+        "english": "Life of Theodosius",
+        "ancient_greek": "Βίος Θεοδοσίου"
+      },
+      "url_slug": "cyril-of-scythopolis-theodosius-vbs-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/cyril-of-scythopolis/theodosius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-theodosius-vbs-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-theodosius-vbs-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-theodosius-vbs-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-theodosius-vbs-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/theodosius.epub"
+      }
+    },
+    {
+      "eul_wid": "vbs-ag",
+      "title": {
+        "english": "Life of Theognis",
+        "ancient_greek": "Βίος Θεόγνιδος"
+      },
+      "url_slug": "cyril-of-scythopolis-life-theognis-vbs-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/cyril-of-scythopolis/life-theognis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-life-theognis-vbs-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-life-theognis-vbs-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-life-theognis-vbs-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-life-theognis-vbs-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/life-theognis.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "tuq-ab",
+      "title": {
+        "english": "Common Life",
+        "ancient_greek": "Κοινὸς Βίος"
+      },
+      "url_slug": "aristotle-lives-common-life-tuq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle-lives/common-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives-common-life-tuq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives-common-life-tuq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives-common-life-tuq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives-common-life-tuq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives/common-life.epub"
+      }
+    },
+    {
+      "eul_wid": "iru-ak",
+      "title": {
+        "english": "Life of Aratus",
+        "ancient_greek": "Βίος Ἀράτου"
+      },
+      "url_slug": "aratus-lives-life-ak-iru-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/life-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-ak-iru-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-ak-iru-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-ak-iru-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-ak-iru-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/life-ak.epub"
+      }
+    },
+    {
+      "eul_wid": "iru-al",
+      "title": {
+        "english": "Life of Aratus",
+        "ancient_greek": "Βίος Ἄρατου"
+      },
+      "url_slug": "aratus-lives-life-al-iru-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/life-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-al-iru-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-al-iru-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-al-iru-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-al-iru-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/life-al.epub"
+      }
+    },
+    {
+      "eul_wid": "jii-aa",
+      "title": {
+        "english": "Life of Euripides",
+        "ancient_greek": "Βίος Εὐριπίδου"
+      },
+      "url_slug": "satyrus-of-oxyrhynchus-life-of-euripides-jii-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/satyrus-of-oxyrhynchus/life-of-euripides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/satyrus-of-oxyrhynchus-life-of-euripides-jii-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/satyrus-of-oxyrhynchus-life-of-euripides-jii-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/satyrus-of-oxyrhynchus-life-of-euripides-jii-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/satyrus-of-oxyrhynchus-life-of-euripides-jii-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/satyrus-of-oxyrhynchus/life-of-euripides.epub"
+      }
+    },
+    {
+      "eul_wid": "uwi-aa",
+      "title": {
+        "english": "Life of Saint Hypatius",
+        "ancient_greek": "Βίος τοῦ Ἁγίου Ὑπατίου"
+      },
+      "url_slug": "callinicus-rufinianus-life-hypatius-uwi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/callinicus-rufinianus/life-hypatius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callinicus-rufinianus-life-hypatius-uwi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callinicus-rufinianus-life-hypatius-uwi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callinicus-rufinianus-life-hypatius-uwi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callinicus-rufinianus-life-hypatius-uwi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callinicus-rufinianus/life-hypatius.epub"
+      }
+    },
+    {
+      "eul_wid": "rjo-aae",
+      "title": {
+        "english": "Lives and Opinions: Book V (Peripatetics)",
+        "ancient_greek": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Εʹ"
+      },
+      "url_slug": "diogenes-of-laertia-lives-peripatetics-rjo-aae",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-laertia/lives-peripatetics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-peripatetics-rjo-aae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-peripatetics-rjo-aae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-peripatetics-rjo-aae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-peripatetics-rjo-aae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-peripatetics.epub"
+      }
+    },
+    {
+      "eul_wid": "rjo-aag",
+      "title": {
+        "english": "Lives and Opinions: Book VII (The Stoics)",
+        "ancient_greek": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Ζ′"
+      },
+      "url_slug": "diogenes-of-laertia-lives-stoics-rjo-aag",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-laertia/lives-stoics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-stoics-rjo-aag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-stoics-rjo-aag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-stoics-rjo-aag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-stoics-rjo-aag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-stoics.epub"
+      }
+    },
+    {
+      "eul_wid": "ule-aa",
+      "title": {
+        "english": "Lives of Aeschines",
+        "ancient_greek": "Βίοι Αἰσχίνου"
+      },
+      "url_slug": "aeschines-lives-lives-ule-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschines-lives/lives",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-lives-lives-ule-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-lives-lives-ule-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-lives-lives-ule-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-lives-lives-ule-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-lives/lives.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/cyril-of-scythopolis/gerasimus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-gerasimus-vbs-ad.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-gerasimus-vbs-ad.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-gerasimus-vbs-ad.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-gerasimus-vbs-ad.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/gerasimus.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

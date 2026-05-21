@@ -1,0 +1,594 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ixo-ag",
+  "eul_aid": "ixo",
+  "author_slug": "archimedes-of-syracuse",
+  "work_slug": "assumptions",
+  "url_slug": "archimedes-of-syracuse-assumptions-ixo-ag",
+  "author": {
+    "english": "Archimedes of Syracuse",
+    "ancient_greek": "Ἀρχιμήδης ὁ Συρακούσιος"
+  },
+  "title": {
+    "english": "Book of Assumptions",
+    "ancient_greek": "Βιβλίον Ὑποθέσεων"
+  },
+  "seo": {
+    "browser_title": "The Book of Assumptions by Archimedes on Eulogikon",
+    "meta_title": "The Book of Assumptions by Archimedes in Ancient Greek",
+    "meta_description": "The Book of Assumptions is a collection of 30 geometric propositions by Archimedes. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Μαθηματικά",
+      "english": "Mathematics",
+      "href": "/domains/mathematics"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Book of Assumptions</strong> is a collection of thirty geometric propositions traditionally attributed to the Hellenistic mathematician Archimedes of Syracuse. Composed in the third century BCE, the work is not a continuous treatise but a compilation of advanced results concerning plane figures. Its propositions focus on determining the areas and properties of circles, segments of circles, triangles, and polygons. The collection includes famous investigations of specific shapes such as the <strong>arbelos</strong>, or shoemaker&#x27;s knife, and the <strong>salinon</strong>, or salt-cellar, often presenting them as elegant construction problems to be solved.</p>\n<p class=\"research-text\">The original Greek text is lost, and the work survives only through a ninth-century Arabic translation. This indirect transmission has led to scholarly uncertainty regarding its structure and full authenticity. It is often interpreted as a collection of useful lemmas or theorems, possibly assembled by later editors from Archimedes&#x27; notes for the use of other geometers. While many propositions align with his established methods, others may represent later additions, rendering the work a complex and fascinating component of the Archimedean corpus.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "3 134",
+      "text": "αʹ. Εἴ κα ᾖ δύο κύκλοι ἐπιψαύοντες ἀλλάλων ἐντός, διάμετροι δὲ αὐτῶν παράλληλοι, ἐπιζευχθεῖσαι αἱ ἀπὸ τοῦ σαμείου ἁφῆς καὶ τῶν περάτων τῶν διαμέτρων δύο εὐθεῖαι ἐσσοῦνται ἀλλάλαις ἐπ’ εὐθείας. [Omitted graphic marker] Ἔστωσαν δύο κύκλοι, ὧν κέντρα τὰ Ζ, Η, ἐπιψαύοντες ἀλλάλων κατὰ τὸ Ε σαμεῖον, διάμετρος δὲ ἁ ΑΒ παρὰ διάμετρον τὰν ΓΔ· φαμὶ δή, ἐπιζευχθεῖσαι αἱ ΕΔ, ΔΒ εὐθεῖαι ἐσσοῦνται ἀλλάλαις ἐπ’ εὐθείας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 135",
+      "text": "Ἐπεζεύχθω γὰρ ἁ ΖΗ καὶ ἐκβεβλήσθω ποτὶ τὸ Ε, ἄχθω δὲ ἁ ΔΘ παρὰ τὰν ΖΗ. Ἐπεὶ οὖν εὐθεῖαι αἱ ΖΒ, ΖΕ ἴσαι ἐντὶ καὶ ἁ ΗΔ τᾷ ΖΘ, κοινὰ ἀφαιρήσθω ἁ ΖΘ, τουτέστιν ἁ ΗΕ· λοιπαὶ ἄρα εὐθεῖαι αἱ ΘΔ, ΘΒ ἴσαι ἀλλάλαις ἐντί· γωνία ἄρα ἁ ὑπὸ ΘΔΒ γωνίᾳ τᾷ ὑπὸ ΘΒΔ, τουτέστιν τᾷ ὑπὸ ΗΔΕ, ἐστὶν ἴσα· κοινὰ ποτικείσθω γωνία ἁ ὑπὸ ΗΔΒ· συναμφότερος ἄρα γωνία ἁ ὑπὸ ΗΔΒ, ΔΒΖ συναμφοτέρῳ τᾷ ὑπὸ ΗΔΒ, ΕΔΗ ἐστὶν ἴσα· ἔστι δὲ συναμφότερος ἁ ὑπὸ ΗΔΒ, ΔΒΖ δυσὶν ὀρθαῖς ἴσα· συναμφότερος ἄρα γωνία ἁ ὑπὸ ΗΔΒ, ΕΔΗ δυσὶν ὀρθαῖς ἐστιν ἴσα· ἐπ’ εὐθείας ἄρα ἐντὶ εὐθεῖαι αἱ ΕΔ, ΔΒ· δέδεικται οὖν τὸ προτεθέν. βʹ. Ἔστω ἁμικύκλιον τὸ ΑΒΓ καὶ δύο εὐθεῖαι ἐπιψαύουσαι αὐτοῦ αἱ ΔΒ, ΔΓ, ἁ δὲ ΒΕ ἄχθω ποτ’ ὀρθὰς τᾷ ΑΓ, ἐπεζεύχθω δὲ ἁ ΑΔ· φαμὶ δὴ τὰν ΒΖ ἴσαν εἶμεν τᾷ ΖΕ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 136",
+      "text": "[Omitted graphic marker] Ἐπεζεύχθω γὰρ ἁ ΑΒ καὶ ἐκβληθεῖσαι αἱ ΑΒ, ΓΔ συμπιπτέτωσαν κατὰ τὸ Η σαμεῖον καὶ ἄχθω ἁ ΒΓ. Ἐπεὶ οὖν γωνία ἁ ὑπὸ ΓΒΑ ὀρθά ἐστιν, ἐσσεῖται καὶ γωνία ἁ ὑπὸ ΓΒΗ ὀρθά· ἔστι δὲ καὶ εὐθεῖα ἁ ΒΔ τᾷ ΔΓ ἴσα· ἐσσεῖται ἄρα καὶ εὐθεῖα ἁ ΔΗ τᾷ ΔΒ, τουτέστι τᾷ ΔΓ ἴσα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 137",
+      "text": "Καὶ ἐπεὶ ἁ ΒΕ παρὰ τὰν ΗΓ ἐστίν, ἐσσεῖται ἄρα καὶ ἁ ΒΖ τᾷ ΖΕ ἴσα· δέδεικται οὖν τὸ προτεθέν. γʹ. Ἔστω τμᾶμα κύκλου τὸ ΑΓ καὶ ἀπὸ σαμείου τινος Β τᾶς περιφερείας ἄχθω τᾷ ΑΓ ποτ’ ὀρθὰς ἁ ΒΔ, λελάφθω δὲ εὐθεῖα ἁ ΔΕ εὐθείᾳ τᾷ ΔΑ ἴσα καὶ περιφέρεια ἁ ΒΖ τᾷ ΑΒ· φαμὶ δή, ἐπιζευχθεῖσα ἁ ΓΖ εὐθεῖα τᾷ ΓΕ ἐστὶν ἴσα. [Omitted graphic marker] Ἐπεζεύχθωσαν γὰρ αἱ ΑΒ, ΒΖ, ΖΕ, ΕΒ εὐθεῖαι· καὶ ἐπεὶ ἁ ΑΔ τᾷ ΔΕ ἐστὶν ἴσα, κοινὰ δὲ ἁ ΒΔ, δύο δὴ αἱ ΑΔ, ΔΒ δυσὶ ταῖς ΕΔ, ΔΒ ἑκατέρα ἑκατέρᾳ ἴσαι ἐντί· ἔστι δὲ γωνία ἁ ὑπὸ ΑΔΒ γωνίᾳ τᾷ ὑπὸ ΕΔΒ ἴσα· βάσις ἄρα ἁ ΕΒ βάσει τᾷ ΑΒ, τουτέστι τᾷ ΒΖ, ἐστὶν ἴσα· γωνία ἄρα ἁ ὑπὸ ΒΕΖ γωνίᾳ τᾷ ὑπὸ ΒΖΕ ἐστὶν ἴσα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 138",
+      "text": "Καὶ ἐπεὶ τετράπλευρον τὸ ΑΒΖΓ ἐν κύκλῳ ἐστίν, γωνίαι αἱ ἀπεναντίον αἱ ὑπὸ ΓΖΒ, ΓΑΒ, τουτέστιν αἱ ὑπὸ ΓΖΒ, ΒΕΑ, δυσὶν ὀρθαῖς ἴσαι ἐντί. Ἔστι δὲ καὶ συναμφότερος ἁ ὑπὸ ΓΕΒ, ΒΕΑ δυσὶν ὀρθαῖς ἴσα· κοινὰ ἀφαιρήσθω ἁ ὑπὸ ΒΕΑ· γωνία ἄρα ἁ ὑπὸ ΓΖΒ γωνίᾳ τᾷ ὑπὸ ΓΕΒ ἐστὶν ἴσα· κοινὰ ἀφαιρήσθω ἁ ὑπὸ ΒΖΕ, τουτέστιν ἁ ὑπὸ ΒΕΖ· λοιπαὶ ἄρα αἱ ποτὶ τᾷ βάσει τᾷ ΕΖ τριγώνου τοῦ ΕΓΖ γωνίαι αἱ ὑπὸ ΓΖΕ, ΖΕΓ ἴσαι ἀλλάλαις ἐντί· πλευρὰ ἄρα ἁ ΖΓ πλευρᾷ τᾷ ΕΓ ἐστὶν ἴσα· δέδεικται οὖν τὸ προτεθέν. δʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 139",
+      "text": "Εἴ κα ἐν ἁμικυκλίῳ σαμεῖόν τι ἐπὶ τᾶς διαμέτρου ᾖ, γραφέωντι δὲ ἀπὸ τῶν τμαμάτων τᾶς διαμέτρου δύο ἁμικύκλια ἐντός, ἀναστακῇ δὲ ἀπὸ τοῦ λαφθέντος σαμείου εὐθεῖα ποτὶ τᾷ περιφερείᾳ τᾷ διαμέτρῳ ποτ’ ὀρθάς, σχῆμα τὸ ὑπὸ τῶν τριῶν περιφερειῶν περιεχόμενον ἴσον ἐστὶ κύκλῳ, οὗ διάμετρος ἁ ἀναστακεῖσα κάθετος. Ἔστω ἁμικύκλιον τὸ ΑΒΓ καὶ σαμεῖόν τι ἐπὶ διαμέτρου τᾶς ΑΓ τὸ Δ, καὶ ἀπὸ διαμέτρων τῶν ΓΔ, ΔΑ ἁμικύκλια ἀναγεγράφθων ἐντός, ἀπὸ δὲ τοῦ Δ σαμείου ἀνεστακέτω ποτ’ ὀρθὰς τᾷ ΑΓ ἁ ΔΒ· φαμὶ δή, σχῆμα [Omitted graphic marker] τὸ ὑπὸ τῶν τριῶν περιφερειῶν περιεχόμενον, τουτέστι τοῦ μείζονος ἁμικυκλίου καὶ τῶν δύο ἀναγραφέντων ἐντός, ὅπερ ἄρβηλος καλείσθω, κύκλῳ, οὗ διάμετρος ἁ ΔΒ, ἴσον ἐστίν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 140",
+      "text": "Ἐπεὶ γὰρ εὐθεῖαι αἱ ΔΑ, ΔΒ, ΔΓ ἑξῆς ἀνάλογόν ἐντι, ἐσσεῖται τὸ ὑπὸ τῶν ΑΔ, ΔΓ τῷ ἀπὸ τᾶς ΒΔ ἴσον· κοινὸν ποτικείσθω τὸ ὑπὸ τῶν ΑΔ, ΔΓ καὶ τὰ ἀπὸ τῶν ΑΔ, ΔΓ· τὸ ἄρα ἀπὸ τᾶς ὅλας τετράγωνον, τουτέστι τὸ ἀπὸ τᾶς ΑΓ, τοῖς ἀπὸ τῶν τμαμάτων τῶν ἀπὸ τῶν ΑΔ, ΔΓ τετραγώνοις καὶ τῷ δὶς τοῦ ἀπὸ τᾶς ΒΔ ἐστὶν ἴσον. Καὶ ἐπεὶ οἱ κύκλοι πρὸς ἀλλάλους ὡς τὰ ἀπὸ τᾶν διαμέτρων τετράγωνά ἐντι, ἐσσεῖται δὴ κύκλος, οὗ διάμετρος ἁ ΑΓ, δυσὶ κύκλοις, ὧν διάμετρος ἁ ΔΒ, καὶ δυσὶ κύκλοις, ὧν διάμετροι αἱ ΑΔ, ΔΓ, ἴσος, τουτέστιν ἁμικύκλιον τὸ ΑΓ ἴσον κύκλῳ, οὗ διάμετρος ἁ ΔΒ, καὶ δυσὶν ἁμικυκλίοις, ὧν διάμετροι αἱ ΑΔ, ΔΓ· κοινὸν ἀφαιρήσθω ἁμικύκλια τὰ ΑΔ, ΔΓ· λοιπὸν ἄρα χωρίον τὸ περιεχόμενον ὑπὸ περιφερειῶν τᾶν ΑΓ, ΑΔ, ΔΓ, ὅπερ ἄρβηλος καλεῖται, κύκλῳ, οὗ διάμετρος ἁ ΔΒ, ἐστὶν ἴσον· δέδεικται οὖν τὸ προτεθέν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 141",
+      "text": "εʹ. Εἴ κα ἐν ἁμικυκλίῳ σαμεῖόν τι ἐπὶ τᾶς διαμέτρου ᾖ, καὶ γραφέωντι ἀπὸ τῶν τμαμάτων τᾶς διαμέτρου δύο ἁμικύκλια ἐντός, ἀναστακῇ δὲ ἀπὸ τοῦ σαμείου εὐθεῖα τᾷ διαμέτρῳ ποτ’ ὀρθάς, καὶ δύο κύκλοι γραφέωντι ἐπ’ ἀμφότερα τᾶς ἀνεστακούσας ἐπιψαύοντες αὐτᾶς καὶ τῶν ἁμικυκλίων, οἱ γραφέντες κύκλοι ἐσσοῦνται ἀλλάλοις ἴσοι. [Omitted graphic marker] Ἔστω ἁμικύκλιον, οὗ διάμετρος ἁ ΑΒ, σαμεῖον δέ τι ἐπ’ αὐτᾶς τὸ Γ· ἀναγεγράφθω δὲ ἀπὸ τμαμάτων τῶν ΑΓ, ΓΒ ἁμικύκλια ἐντός, καὶ ἀπὸ τοῦ Γ σαμείου ἀνεστακέτω ποτ’ ὀρθὰς διαμέτρῳ τᾷ ΑΒ ἁ ΓΔ, γεγράφθων δὲ δύο κύκλοι ἐπ’ ἀμφότερα τᾶς ἀνεστακούσας εὐθείας ἐπιψαύοντες τᾶς τε ἀνεστακούσας καὶ τῶν ἁμικυκλίων· φαμὶ δή, οἱ γραφέντες κύκλοι ἴσοι ἀλλάλοις ἐντί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 142",
+      "text": "Ἔστω γὰρ πρότερον κύκλος ὁ ἐπιψαύων τᾶς ΓΔ κατὰ τὸ Ε σαμεῖον καὶ ἁμικυκλίου μὲν τοῦ ΑΓ κατὰ τὸ Η, ἁμικυκλίου δὲ τοῦ ΑΒ κατὰ τὸ Ζ, ἄχθω δὲ διάμετρος τοῦ κύκλου ἁ ΘΕ· ἐπιζευχθεῖσαι δὴ αἱ ΑΘ, ΘΖ εὐθεῖαι ἐσσοῦνται ἀλλάλαις ἐπ’ εὐθείας, ἐκβληθεῖσαι δὲ αἱ ΑΖ, ΓΕ εὐθεῖαι συμβαλέτωσαν κατὰ τὸ Δ σαμεῖον· ὁμοίως δὴ ἐπιζευχθεῖσαι αἱ ΖΕ, ΕΒ ἐσσοῦνται ἀλλάλαις ἐπ’ εὐθείας, καὶ αἱ ΘΗ, ΗΓ, καὶ αἱ ΕΗ, ΗΑ, ἐκβεβλήσθω δὲ ἁ ΑΕ ἐπὶ τὸ Ι σαμεῖον, ἄχθω δὲ ἁ ΒΙ εὐθεῖα καὶ ἁ ΖΔ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 143",
+      "text": "Ἐπεὶ οὖν αἱ ΑΔ, ΑΒ εὐθεῖαί ἐντι καὶ ἀπὸ τοῦ Δ σαμείου τᾷ ΑΒ ἆκται ποτ’ ὀρθὰς ἁ ΔΓ, καὶ ἀπὸ τοῦ Β ποτ’ ὀρθὰς τᾷ ΔΑ ἁ ΒΖ τέμνουσα τὰν ΔΓ κατὰ τὸ Ε, εὐθεῖα δὲ ἁ ΑΕΙ ποτ’ ὀρθὰς τᾷ ΒΙ ἐστίν, ἐσσοῦνται ἄρα εὐθεῖαι αἱ ΒΙ, ΙΔ ἀλλάλαις ἐπ’ εὐθείας, ὡς παρ’ ἡμῶν ἐν τοῖς Περὶ ὀρθογωνίων τριγώνων δέδεικται. Καὶ ἐπεὶ εὐθεῖα ἁ ΒΔ παρὰ τὰν ΓΗ ἐστίν, τὸν αὐτὸν λόγον ἔχει ἁ ΑΔ ποτὶ τὰν ΔΘ, ὃν ἔχει ἁ ΑΓ ποτὶ τὰν ΘΕ, τουτέστιν ἁ ΑΒ ποτὶ τὰν ΒΓ· τὸ ἄρα ὑπὸ τᾶν ΑΓ, ΓΒ τῷ ὑπὸ τᾶν ΑΒ, ΘΕ ἐστὶν ἴσον· ὁμοίως δὴ δείξομες ὅτι ἐν κύκλῳ τῷ ΛΜΝ τὸ ὑπὸ τᾶν ΑΓ, ΓΒ τῷ ὑπὸ ΑΒ καὶ τᾶς διαμέτρου τοῦ ΛΜΝ κύκλου ἴσον ἐστίν· αἱ διάμετροι ἄρα κύκλων τῶν ΕΖΗ, ΛΜΝ ἴσαι ἐντί, τουτέστιν οἱ δύο κύκλοι ἴσοι ἐντί· δέδεικται οὖν τὸ προτεθέν. ϛʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 144",
+      "text": "Εἴ κα ἐν ἁμικυκλίῳ σαμεῖόν τι ἐπὶ τᾶς διαμέτρου ᾖ, καὶ γραφέωντι ἀπὸ τῶν τμαμάτων τᾶς διαμέτρου δύο ἁμικύκλια ἐντός, γραφῇ δὲ ἐν τῷ ἀρβήλῳ κύκλος ἐπιψαύων τῶν τριῶν ἁμικυκλίων, τὸν λόγον τᾶς διαμέτρου τοῦ δοθέντος ἁμικυκλίου ποτὶ τὰν διάμετρον τοῦ ἐγγραφέντος κύκλου εὑρεῖν. [Omitted graphic marker] Ἔστω ἁμικύκλιον τὸ ΑΒΓ, σαμεῖον δέ τι ἐπὶ τᾶς διαμέτρου τὸ Δ καὶ πεποιήσθω οὕτως, ὥστε τὸ μεῖζον τμᾶμα τὸ ΑΔ ἐλάσσονος τοῦ ΔΓ ἁμιόλιον εἶμεν, καὶ ἀπὸ τμαμάτων τῶν ΑΔ, ΔΒ ἀναγεγράφθων ἁμικύκλια, γεγράφθω δὲ ἐν τῷ ἀρβήλῳ κύκλος ὁ ΕΖ ἐπιψαύων τῶν τριῶν ἁμικυκλίων, καὶ ἄχθω διάμετρος αὐτοῦ παρὰ τὰν ΑΓ ἁ ΕΖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 145",
+      "text": "Εὑρεῖν τὸν λόγον διαμέτρου τᾶς ΑΓ ποτὶ διάμετρον τὰν ΕΖ. Ἐπεζεύχθωσαν αἱ ΑΕ, ΕΒ εὐθεῖαι καὶ αἱ ΓΖ, ΖΒ· εὐθεῖαι δή ἐντι αἱ ΑΒ, ΓΒ, ὡς ἐν τοῖς πρότερον ἐδείχθη. Ἐπεζεύχθωσαν ἔτι αἱ ΖΗΑ, ΕΘΓ· δείκνυνται δὴ αὗται εὐθεῖαι οὖσαι· ἔτι δὲ ἐπεζεύχθωσαν αἱ ΔΕ, ΔΖ, καὶ αἱ ΔΙ, ΔΛ, καὶ ἐπιζευχθεῖσαι αἱ ΕΜ, ΖΝ ἐκβεβλήσθωσαν ἐπὶ τὰ Ο, Ρ σαμεῖα. Ἐπεὶ οὖν ἐν τριγώνῳ τῷ ΑΕΔ ἁ ΑΗ τᾷ ΕΔ ποτ’ ὀρθάς ἐστιν, καὶ ἁ ΔΙ τᾷ ΑΕ, τέμνοντι δὲ ἀλλάλας κατὰ τὸ Μ σαμεῖον, ἁ ΕΜΟ τᾷ ΑΓ ἐσσεῖται ποτ’ ὀρθάς, ὡς παρ’ ἡμῶν ἐν τοῖς Περὶ τριγώνων ἐδείχθη καὶ τῷ πρότερον ὑπέκειτο· διὰ τὰ αὐτὰ δὴ καὶ ἁ ΖΝΡ τᾷ ΓΑ ἐσσεῖται ποτ’ ὀρθάς· ἔστι δὲ εὐθεῖα ἁ ΔΛ παρὰ τὰν ΑΒ καὶ ἁ ΔΙ παρὰ τὰν ΓΒ· ὥστε τὸν αὐτὸν λόγον ἔχει ἁ ΑΔ ποτὶ τὰν ΔΓ, ὃν ἔχει ἁ ΑΜ ποτὶ τὰν ΜΖ, τουτέστιν ἁ ΑΟ ποτὶ τὰν ΟΡ, καὶ ἁ ΓΔ ποτὶ τὰν ΔΑ τὸν αὐτὸν λόγον ἔχει, ὃν ἔχει ἁ ΓΝ ποτὶ τὰν ΝΕ, τουτέστιν ἁ ΓΡ ποτὶ τὰν ΡΟ· ἦν δὲ ἁ ΑΔ ἁμιόλιος τᾶς ΔΓ· καὶ ἁ ΑΟ ἄρα τᾶς ΟΡ ἐστὶν ἁμιόλιος, καὶ ἁ ΟΡ τᾶς ΓΡ· εὐθεῖαι ἄρα αἱ ΑΟ, ΟΡ, ΡΓ ἑξῆς ἀνάλογόν ἐντι, ἇν ἁ μὲν ΡΓ ἴσα γίνεται τέσσαρα, ἁ δὲ ΟΡ ἕξ, ἁ δὲ ΑΟ ἐννέα, ἁ δὲ ΓΑ ἐννεακαίδεκα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 146",
+      "text": "Ἔστι δὲ ἁ ΡΟ τᾷ ΕΖ ἴσα· ὥστε τὸν αὐτὸν λόγον ἔχει ἁ ΑΓ ποτὶ τὰν ΕΖ, ὃν ἔχει τὰ ἐννεακαίδεκα ποτὶ τὰ ἕξ· καί ἐστιν ἁ ΑΓ διάμετρος ἁμικυκλίου τοῦ ΑΒΓ, ἁ δὲ ΕΖ κύκλου τοῦ ΕΒΖ· εὑρέθη ἄρα ὁ αἰτούμενος λόγος. Ὁμοίως δὴ δειχθήσεται εἴ κα ὁ λόγος τᾶς διαμέτρου τοῦ δοθέντος ἁμικυκλίου ποτὶ τὰν διάμετρον τοῦ ἐγγραφέντος κύκλου ἐπιμόριος ᾖ. ζʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 147",
+      "text": "Ὁ τετραγώνῳ περιγεγραμμένος κύκλος διπλασίων τοῦ ἐγγεγραμμένου ἐστίν. [Omitted graphic marker] Ἔστω γὰρ κύκλος ὁ ΑΒ περὶ τετράγωνον τὸ ΑΒ καὶ ἐν αὐτῷ ἐγγεγραμμένος κύκλος ὁ ΓΔ, διάμετρος δὲ τοῦ περιγεγραμμένου κύκλου καὶ τοῦ τετραγώνου ἁ ΑΒ, ἄχθω δὲ διάμετρος τοῦ ἐγγεγραμμένου κύκλου ἁ ΓΔ παρὰ τὰν ΑΕ· φαμὶ δή, ὁ περιγεγραμμένος κύκλος τοῦ ἐγγεγραμμένου ἐστὶ διπλασίων. Ἐπεὶ οὖν τὸ ἀπὸ τᾶς ΑΒ διπλάσιον τοῦ ἀπὸ τᾶς ΑΕ, τουτέστι τοῦ ἀπὸ τᾶς ΓΔ, οἱ κύκλοι δέ ἐντι ὡς τὰ ἀπὸ τᾶν διαμέτρων αὐτῶν τετράγωνα, ἐσσεῖται ἄρα καὶ ὁ περιγεγραμμένος κύκλος τοῦ ἐγγεγραμμένου διπλασίων· δέδεικται οὖν τὸ προτεθέν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 148",
+      "text": "ηʹ. Εἴ κα ἐν κύκλῳ εὐθεῖά τις ΑΒ προσαρμοσμένα ᾖ, ἐκβληθῇ δὲ κατὰ τὸ Γ σαμεῖον, ὥστε τὰν ΒΓ εὐθεῖαν τᾷ ἐκ τοῦ κέντρου ἴσαν εἶμεν, διαχθῇ δὲ εὐθεῖά τις ἀπὸ τοῦ Γ διὰ τοῦ κέντρου τοῦ κύκλου ἐπὶ τὸ Ε σαμεῖον, ἐσσεῖται περιφέρεια ἁ ΑΕ περιφερείας τᾶς ΒΖ τριπλασίων. [Omitted graphic marker] Ἄχθω γὰρ ἁ ΕΗ παρὰ τὰν ΑΒ καὶ ἐπεζεύχθων αἱ ΔΒ, ΔΗ. Ἐπεὶ οὖν γωνίαι αἱ ὑπὸ ΒΓΔ, ΒΔΓ, ΔΕΗ, ΔΗΕ ἴσαι ἀλλάλαις ἐντί, γωνία δὲ ἁ ὑπὸ ΓΔΗ γωνίας τᾶς ὑπὸ ΔΕΗ ἐστὶ διπλασίων, ἐσσεῖται ἄρα γωνία ἁ ὑπὸ ΒΔΗ γωνίας τᾶς ὑπὸ ΒΔΓ τριπλασίων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 149",
+      "text": "Ἐσσεῖται ἄρα περιφέρεια ἁ ΒΗ, τουτέστιν ἁ ΑΕ, περιφερείας τᾶς ΒΖ τριπλασίων· δέδεικται οὖν τὸ προτεθέν. θʹ. Εἴ κα ἐν κύκλῳ δύο εὐθεῖαι τέμνωντι ἀλλάλας ποτ’ ὀρθὰς μὴ διὰ τοῦ κέντρου οὖσαι, δύο αἱ ἀπεναντίον περιφέρειαι δυσὶ ταῖς ἀπεναντίον ἴσαι ἀλλάλαις ἐντί. [Omitted graphic marker] Ἔστω κύκλος ὁ ΑΒΓ καὶ δύο εὐθεῖαι αἱ ΑΒ, ΓΔ τέμνουσαι ἀλλάλας ποτ’ ὀρθάς, μὴ διὰ τοῦ κέντρου οὖσαι· φαμὶ δή, δύο αἱ ἀπεναντίον περιφέρειαι αἱ ΑΔ, ΓΒ δυσὶ ταῖς ἀπεναντίον ταῖς ΑΓ, ΒΔ ἴσαι ἀλλάλαις ἐντί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 150",
+      "text": "Τετμάσθω γὰρ δίχα ἁ ΓΔ κατὰ τὸ Η σαμεῖον καὶ διὰ τοῦ Η διάχθω διάμετρος τοῦ κύκλου ἁ ΕΖ παρὰ τὰν ΑΒ. Ἐπεὶ οὖν περιφέρεια ἁ ΕΓ περιφερείαις ταῖς ΕΑ, ΑΔ ἴσα ἐστίν, ἐσσοῦνται ἄρα περιφέρειαι αἱ ΓΖ, ΕΑ, ΑΔ ἁμικυκλίῳ ἴσαι· ἔστι δὲ περιφέρεια ἁ ΕΑ περιφερείᾳ τᾷ ΒΖ ἴσα· συναμφότερος ἄρα περιφέρεια ἁ ΓΒ, ΑΔ ἁμικυκλίῳ ἐστὶν ἴσα· λοιπὴ ἄρα περιφέρεια ἁ ΑΓ, ΔΒ ἁμικυκλίῳ ἐστὶν ἴσα· δέδεικται οὖν τὸ προτεθέν. ιʹ. Εἴ κα ᾖ κύκλος καὶ δύο εὐθεῖαι αἱ ΔΑ, ΔΓ ἐπιψαύουσαι αὐτοῦ κατὰ τὰ Α, Γ σαμεῖα, τέμνουσα δὲ εὐθεῖα ἁ ΔΒ, ἀχθῇ δὲ ἁ ΕΓ παρὰ τὰν ΒΔ, ἐπιζευχθῇ δὲ ἁ ΕΑ τέμνουσα τὰν ΔΒ κατὰ τὸ Ζ, καὶ ἀπὸ τοῦ Ζ ποτ’ ὀρθὰς τᾷ ΕΓ ἀχθῇ ἁ ΖΗ, ἁ ἀγμένα τὰν ΕΓ δίχα τέμνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 151",
+      "text": "[Omitted graphic marker] Ἐπεζεύχθω γὰρ ἁ ΑΓ. Ἐπεὶ οὖν εὐθεῖα ἁ ΔΑ ἐπιψαύουσα τοῦ κύκλου ἐστίν, ἁ δὲ ΑΓ τέμνουσα αὐτόν, γωνία ἁ ὑπὸ ΔΑΓ τᾷ ἐν τῷ ἐναλλὰξ τμάματι τοῦ κύκλου γωνίᾳ τᾷ ὑπὸ ΑΕΓ, τουτέστι τᾷ ὑπὸ ΑΖΔ, ἐστὶν ἴσα. Ἔστι γὰρ ἁ ΓΕ παρὰ τὰν ΒΔ. Καὶ ἐπεὶ ἐν δυσὶ τριγώνοις τοῖς ΔΑΖ, ΑΘΔ δύο γωνίαι αἱ ὑπὸ ΑΖΔ, ΘΑΔ ἴσαι ἀλλάλαις ἐντί, γωνία δὲ ἁ πρὸς τῷ Δ κοινά, τὸ ἄρα ὑπὸ τῶν ΖΔ, ΔΘ περιεχόμενον ὀρθογώνιον τῷ ἀπὸ τᾶς ΔΑ, τουτέστι τῷ ἀπὸ τᾶς ΔΓ τετραγώνῳ, ἐστὶν ἴσον· ἐπεὶ οὖν ὃν λόγον ἔχει ἁ ΖΔ ποτὶ τὰν ΔΓ, τοῦτον ἔχει καὶ ἁ ΔΓ ποτὶ τὰν ΔΘ, γωνία δὲ ἁ ποτὶ τὸ Δ σαμεῖον κοινά ἐστιν, τρίγωνα ἄρα τὰ ΔΖΓ, ΔΓΘ ἐστὶν ὅμοια καὶ γωνίαι αἱ ὑπὸ ΔΖΓ, ΔΓΘ, ΔΑΘ, ΑΖΔ ἴσαι ἀλλάλαις ἐντί· ἔστι δὲ καὶ γωνία ἁ ὑπὸ ΔΖΓ τᾷ ὑπὸ ΖΓΕ ἴσα· ἦν δὲ καὶ ἁ ὑπὸ ΔΖΑ τᾷ ὑπὸ ΑΕΓ ἴσα· ἐν δυσὶ τριγώνοις ἄρα τοῖς ΕΗΖ, ΓΗΖ δύο γωνίαι αἱ ὑπὸ ΗΕΖ, ΗΓΖ ἴσαι ἀλλάλαις ἐντὶ καὶ αἱ ποτὶ τῷ Η σαμείῳ γωνίαι ὀρθαί· ἔστι δὲ πλευρὰ ἁ ΗΖ κοινά· ἔστιν ἄρα ἁ ΕΗ τᾷ ΗΓ ἴσα· δέδεικται οὖν τὸ προτεθέν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 152",
+      "text": "ιαʹ. Εἴ κα ἐν κύκλῳ δύο εὐθεῖαι τέμνωντι ἀλλάλας ποτ’ ὀρθὰς μὴ διὰ τοῦ κέντρου οὖσαι, τὰ ἀπὸ τῶν τμαμάτων τῶν εὐθειῶν τετράγωνα τῷ ἀπὸ τᾶς διαμέτρου τοῦ κύκλου ἴσα ἐντί. Ἔστω γὰρ κύκλος ὁ ΑΒΓ, καὶ δύο εὐθεῖαι αἱ ΑΒ, ΓΔ τετμάσθων ποτ’ ὀρθὰς κατὰ [Omitted graphic marker] τὸ Ε σαμεῖον· φαμὶ δή, τὰ ἀπὸ τῶν τμαμάτων τῶν ΑΕ, ΕΒ, ΓΕ, ΕΔ τετράγωνα τῷ ἀπὸ τᾶς διαμέτρου τοῦ κύκλου ἴσα ἐστίν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 153",
+      "text": "Ἄχθω γὰρ διάμετρος τοῦ κύκλου ἁ ΑΖ καὶ ἐπεζεύχθων αἱ ΑΓ, ΑΔ, ΓΖ, ΔΒ εὐθεῖαι. Ἐπεὶ οὖν ἐν δυσὶ τριγώνοις τοῖς ΑΔΕ, ΑΖΓ γωνίαι αἱ ὑπὸ ΑΕΔ, ΑΔΕ, καὶ ΑΓΖ, ΑΖΓ ἴσαι ἀλλάλαις ἐντὶ ἑκατέρα ἑκατέρᾳ, λοιπαὶ ἄρα γωνίαι αἱ ὑπὸ ΓΑΖ, ΔΑΕ ἐσσοῦνται ἀλλάλαις ἴσαι· περιφέρειαι ἄρα αἱ ΓΖ, ΔΒ ἴσαι ἀλλάλαις ἐντί, καὶ αἱ ταύτας ὑποτείνουσαι εὐθεῖαι αἱ ΓΖ, ΔΒ· ἔστι δὲ καὶ τὰ ἀπὸ τῶν ΔΕ, ΕΒ τῷ ἀπὸ τᾶς ΔΒ, τουτέστι τῷ ἀπὸ τᾶς ΓΖ, ἴσον, καὶ τὰ ἀπὸ τῶν ΑΕ, ΕΓ τῷ ἀπὸ τᾶς ΓΑ, καὶ τὰ ἀπὸ τῶν ΓΖ, ΓΑ τῷ ἀπὸ τᾶς ΖΑ, τουτέστι τῷ ἀπὸ τᾶς διαμέτρου, ἴσα· ἐσσοῦνται ἄρα τὰ ἀπὸ τῶν τμαμάτων τῶν ΑΕ, ΕΒ, ΓΕ, ΕΔ τετράγωνα τῷ ἀπὸ τᾶς διαμέτρου ἴσα· δέδεικται οὖν τὸ προτεθέν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 154",
+      "text": "ιβʹ. Εἴ κα ἐκ σαμείου ἐκτὸς ἁμικυκλίου δύο εὐθεῖαι ἀχθέωντι ἐπιψαύουσαι αὐτοῦ, ἀχθέωντι δὲ ἐκ τῶν σαμείων ἁφᾶς δύο εὐθεῖαι [Omitted graphic marker] ποτὶ τὰ ἀπεναντίον πέρατα τᾶς διαμέτρου τέμνουσαι ἀλλάλας, ἁ ἐκ τοῦ ἐκτὸς σαμείου ποτὶ τὸ σαμεῖον τομᾶς τῶν δύο εὐθειῶν ἀχθεῖσα καὶ ἐκβληθεῖσα ποτὶ τὰν διάμετρον ἐσσεῖται ταύτᾳ ποτ’ ὀρθάς. Ἔστω ἁμικύκλιον τὸ ΑΒ, σαμεῖον δέ τι ἐκτὸς αὐτοῦ τὸ Γ, καὶ ἐκ τοῦ Γ ἄχθων δύο εὐθεῖαι αἱ ΓΔ, ΓΕ ἐπιψαύουσαι αὐτοῦ κατὰ τὰ Δ, Ε σαμεῖα, ἐπεζεύχθων δὲ ἐκ τῶν σαμείων ἁφᾶς ποτὶ τὰ ἀπεναντίον πέρατα τᾶς διαμέτρου τὰ Α, Β εὐθεῖαι αἱ ΕΑ, ΔΒ τέμνουσαι ἀλλάλας κατὰ τὸ Ζ, καὶ ἀχθεῖσα ἁ ΓΖ ἐκβεβλήσθω ἐπὶ τὸ Η σαμεῖον· φαμὶ δή, εὐθεῖα ἁ ΓΗ διαμέτρῳ τᾷ ΑΒ ἐσσεῖται ποτ’ ὀρθάς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 155",
+      "text": "Ἐπεζεύχθων γὰρ αἱ ΑΔ, ΕΒ. Ἐπεὶ οὖν τριγώνου τοῦ ΔΑΒ γωνία ἁ ὑπὸ ΑΔΒ ὀρθά ἐστιν, λοιπαὶ ἄρα γωνίαι αἱ ὑπὸ ΔΑΒ, ΔΒΑ μιᾷ ὀρθᾷ ἴσαι ἐντί· ἔστι δὲ καὶ γωνία ἁ ὑπὸ ΑΕΒ μιᾷ ὀρθᾷ ἴσα· κοινὰ ποτικείσθω ἁ ὑπὸ ΖΒΕ· συναμφότερος ἄρα ἁ ὑπὸ ΔΑΒ, ΑΒΕ συναμφοτέρῳ τᾷ ὑπὸ ΖΒΕ, ΖΕΒ, τουτέστιν ἐξωτερικᾷ γωνίᾳ τᾷ ὑπὸ ΔΖΕ τριγώνου τοῦ ΖΒΕ ἐστὶν ἴσα. Καὶ ἐπεὶ εὐθεῖα ἁ ΓΔ ἐπιψαύουσα τοῦ κύκλου ἐστίν, διᾶκται δὲ ἀπὸ τοῦ σαμείου ἁφᾶς τοῦ Δ ἁ ΔΒ τέμνουσα τὸν κύκλον, ἐσσεῖται γωνία ἁ ὑπὸ ΓΔΒ γωνίᾳ τᾷ ὑπὸ ΔΑΒ ἴσα· διὰ τὰ αὐτὰ δὴ καὶ γωνία ἁ ὑπὸ ΓΕΖ τᾷ ὑπὸ ΕΒΑ ἐστὶν ἴσα· καὶ συναμφότερος ἄρα γωνία ἁ ὑπὸ ΓΕΖ, ΓΔΖ τᾷ ὑπὸ ΔΖΕ ἐστὶν ἴσα· καὶ δέδεικται παρ’ ἡμῶν ἐν τοῖς Περὶ τετραπλεύρων ὅτι εἴ κα μεταξὺ δύο ἰσᾶν εὐθειᾶν τεμνομενᾶν, οἷον τᾶν ΓΔ, ΓΕ, δύο εὐθεῖαι ἀχθέωντι τεμνόμεναι, οἷον αἱ ΔΖ, ΕΖ, γωνία δὲ ἁ ὑπὸ τούτων περιεχομένα, ὡς ἁ ποτὶ τῷ Ζ, συναμφοτέρῳ τᾷ ὑπὸ τῶν δύο τεμνομενᾶν εὐθειᾶν περιεχομένᾳ, ὡς αἱ ποτὶ τοῖς Ε, Δ σαμείοις, ἴσα ἐστίν, ἁ ἐπιζευγνυμένα ἐκ τοῦ σαμείου καθ’ ὃ αἱ δύο εὐθεῖαι συμβάλλοντι ἐπὶ τὸ σαμεῖον καθ’ ὃ αὗται τέμνοντι ἀλλάλας, ὡς ἁ ΓΖ εὐθεῖα, ἑκατέρᾳ τᾶν τεμνομενᾶν εὐθειᾶν, ὡς αἱ ΓΔ, ΓΕ, ἐστὶν ἴσα· ἁ ΓΖ εὐθεῖα ἄρα τᾷ ΓΔ ἐστὶν ἴσα καὶ γωνία ἁ ὑπὸ ΓΖΔ γωνίᾳ τᾷ ὑπὸ ΓΔΖ, τουτέστι τᾷ ὑπὸ ΔΑΗ· γωνίαι δὲ αἱ ὑπὸ ΓΖΔ, ΔΖΗ δυσὶν ὀρθαῖς ἴσαι ἐντί· συναμφότερος ἄρα γωνία ἁ ὑπὸ ΔΑΗ, ΔΖΗ δυσὶν ὀρθαῖς ἴσα ἐστίν· λοιπαὶ ἄρα γωνίαι τετραπλεύρου τοῦ ΑΔΖΗ αἱ ὑπὸ ΑΔΖ, ΑΗΖ δυσὶν ὀρθαῖς ἴσαι ἐντί· ἔστι δὲ γωνία ἁ ὑπὸ ΑΔΒ μιᾷ ὀρθᾷ ἴσα· γωνία ἄρα ἁ ὑπὸ ΑΗΓ μιᾷ ὀρθᾷ ἴσα ἐστίν· ἔστιν ἄρα εὐθεῖα ἁ ΔΗ διαμέτρῳ τᾷ ΑΒ ποτ’ ὀρθάς· δέδεικται οὖν τὸ προτεθέν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 157",
+      "text": "ιγʹ. Εἴ κα ἐν κύκλῳ δύο εὐθεῖαι τέμνουσαι ἀλλάλας μὴ ποτ’ ὀρθὰς ὦσιν, ἁ μὲν διάμετρος ἁ δὲ οὔ, ἀχθέωντι δὲ ἀπὸ τῶν περάτων τᾶς διαμέτρου εὐθεῖαι ποτ’ ὀρθὰς τᾷ ἄλλᾳ εὐθείᾳ, αἱ ἀπολαφθεῖσαι ἀπὸ τῶν περάτων τᾶς διαμέτρου εὐθεῖαι ἴσαι ἀλλάλαις ἐντί. Ἔστω κύκλος ὁ ΑΒΓ καὶ ἐν αὐτῷ δύο εὐθεῖαι τέμνουσαι ἀλλάλας μὴ ποτ’ ὀρθὰς αἱ ΑΒ, ΓΔ, ἇν ἁ ΑΒ διάμετρος τοῦ κύκλου, καὶ ἀπὸ τῶν περάτων τᾶς διαμέτρου [Omitted graphic marker] τῶν Α, Β ἄχθωσαν τᾷ ΓΔ ποτ’ ὀρθὰς εὐθεῖαι αἱ ΑΕ, ΒΖ· φαμὶ δή, αἱ ἀπὸ τῶν περάτων τᾶς διαμέτρου ἀπολαφθεῖσαι εὐθεῖαι αἱ ΓΖ, ΔΕ ἴσαι ἀλλάλαις ἐντί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 158",
+      "text": "Ἐπεζεύχθω γὰρ ἁ ΕΒ καὶ ἀπὸ κέντρου τοῦ κύκλου τοῦ Ι τᾷ ΓΔ ἄχθω ποτ’ ὀρθὰς εὐθεῖα ἁ ΙΗ καὶ ἐκβληθεῖσα συμβαλλέτω τᾷ ΕΒ κατὰ τὸ Θ σαμεῖον. Ἐπεὶ οὖν εὐθεῖα ἁ ΙΗ παρὰ τὰν ΑΕ ἐστίν, ἁ δὲ ΒΙ τᾷ ΙΑ ἴσα, εὐθεῖα ἄρα ἁ ΒΘ τᾷ ΘΕ ἐστὶν ἴσα. Πάλιν, ἐπεὶ ἁ ΒΖ παρὰ τὰν ΘΗ ᾖ, ἐστίν εὐθεῖα ἄρα ἁ ΖΗ εὐθείᾳ τᾷ ΗΕ ἐστὶν ἴσα· ἔστι δὲ καὶ ἁ ΗΓ τᾷ ΗΔ ἴσα· κοινὰ ἀφαιρήσθω ἁ ΖΗ, τουτέστιν ἁ ΗΕ· λοιπὰ ἄρα ἁ ΖΓ λοιπᾷ τᾷ ΕΔ ἐστὶν ἴσα· φανερὸν οὖν ὃ ἔδει δεῖξαι. ιδʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 159",
+      "text": "Εἴ κα ἐν ἁμικυκλίῳ ἀπὸ τῶν περάτων τᾶς διαμέτρου δύο ἴσα τμάματα λαφθέωντι καὶ ἀπὸ τούτων ἁμικύκλια ἐντὸς γραφέωντι, γραφῇ δὲ ἀπὸ τοῦ λοιποῦ τμάματος τᾶς διαμέτρου ἁμικύκλιον ἐκτός, ὁ κύκλος, οὗ διάμετρος συναμφότερος ἁ ἐκ τοῦ κέντρου τοῦ ἁμικυκλίου καὶ ἁ ἐκ τοῦ κέντρου τοῦ ἐκτός, χωρίῳ τῷ περιεχομένῳ ὑπὸ τῶν περιφερειῶν τῶν ἁμικυκλίων, ὅπερ σελήνιον καλείσθω, ἴσος ἐστίν. Ἔστω ἁμικύκλιον, οὗ διάμετρος ἁ ΑΒ, καὶ ἀπὸ τῶν περάτων τᾶς διαμέτρου τῶν Α, Β δύο τμάματα ἴσα ἀλλάλοις λελάφθω τὰ ΑΓ, ΒΔ, γεγράφθω δὲ ἀπὸ τῶν τμαμάτων δύο ἁμικύκλια ἐντός, καὶ ἀπὸ τοῦ λοιποῦ τμάματος τοῦ ΓΔ γεγράφθω ἁμικύκλιον ἐκτός, διὰ κέντρου δὲ τοῦ ἁμικυκλίου τοῦ Ε διαμέτρῳ τᾷ ΑΒ ἄχθω ποτ’ ὀρθὰς εὐθεῖα ἁ ΕΖ καὶ ἐκβεβλήσθω ἐπὶ τὸ Η σαμεῖον· φαμὶ δή, ὁ κύκλος, οὗ διάμετρος ἁ ΖΗ, χωρίῳ τῷ περιεχομένῳ ὑπὸ τῶν περιφερειῶν τῶν ἁμικυκλίων, ὅπερ σελήνιον καλείσθω, ἴσος ἐστίν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 160",
+      "text": "[Omitted graphic marker] Ἐπεὶ γὰρ εὐθεῖα γραμμὰ ἁ ΔΓ δίχα τέτμαται κατὰ τὸ Ε σαμεῖον, ποτίκειται δὲ αὐτᾷ εὐθεῖα ἐπ’ εὐθείας ἁ ΓΑ, τὸ ἀπὸ τᾶς ΔΑ καὶ τὸ ἀπὸ τᾶς ποτικειμένας τᾶς ΓΑ τὰ συναμφότερα τετράγωνα διπλασίονά ἐντι τοῦ τε ἀπὸ τᾶς ἁμισείας τᾶς ΔΕ καὶ τοῦ ἀπὸ τᾶς ΕΑ τετραγώνου. Ἔστι δὲ ἁ ΖΗ τᾷ ΔΑ ἴσα· ἔστιν ἄρα καὶ τὰ ἀπὸ τῶν ΖΗ, ΓΑ διπλασίονα τοῦ τε ἀπὸ τᾶς ΔΕ καὶ τοῦ ἀπὸ τᾶς ΕΑ. Καὶ ἐπεὶ ἁ ΑΒ τᾶς ΑΕ διπλασίων ἐστὶ καὶ ἁ ΓΔ τᾶς ΔΕ, ἐσσεῖται καὶ τὰ ἀπὸ τῶν ΑΒ, ΓΔ τοῖς ἀπὸ τῶν ΔΕ, ΕΑ τετραπλασίονα, τουτέστι τοῖς ἀπὸ τῶν ΖΗ, ΓΑ διπλασίονα· κύκλοι ἄρα, ὧν διάμετροι αἱ ΑΒ, ΔΓ εὐθεῖαι, κύκλων, ὧν διάμετροι αἱ ΖΗ, ΓΑ, διπλασίονές ἐντι· ἁμικύκλια ἄρα, ὧν διάμετροι αἱ ΑΒ, ΔΓ εὐθεῖαι, κύκλοις, ὧν διάμετροι αἱ ΖΗ, ΓΑ, ἴσα ἐστίν· κοινὸν ἀφαιρήσθω κύκλος, οὗ διάμετρος ἁ ΑΓ, τουτέστι δύο ἁμικύκλια, ὧν διάμετροι αἱ ΑΓ, ΔΒ· λοιπὸν ἄρα χωρίον τὸ ὑπὸ τῶν περιφερειῶν τῶν ἁμικυκλίων περιεχόμενον, ὅπερ σελήνιον καλεῖται, κύκλῳ, οὗ διάμετρος ἁ ΖΗ, ἴσον ἐστίν· δῆλον οὖν τὸ προτεθέν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 161",
+      "text": "ιεʹ. Ἔστω ἁμικύκλιον τὸ ΑΒ καὶ ἁ ΑΓ πλευρὰ τοῦ ἐγγεγραμμένου ἰσοπλεύρου τε καὶ ἰσογωνίου πενταγώνου, τετμάσθω δὲ περιφέρεια ἁ ΑΓ δίχα κατὰ τὸ Δ, ἐπιζευχθεῖσα δὲ ἁ ΓΔ ἐκβεβλήσθω ἐπὶ τὸ Ε, καὶ ἀπὸ τοῦ Δ σαμείου διάχθω ἁ ΔΒ τέμνουσα πλευρὰν τὰν ΑΓ κατὰ τὸ Ζ, καὶ ἀπὸ τοῦ Ζ ἄχθω τᾷ ΑΒ ποτ’ ὀρθὰς ἁ ΖΗ· φαμὶ δή, εὐθεῖα ἁ ΕΗ τᾷ ἐκ τοῦ κέντρου τοῦ κύκλου ἴσα ἐστίν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 162",
+      "text": "[Omitted graphic marker] Ἐπεζεύχθω γὰρ ἁ ΓΒ, καὶ ἔστω κέντρον τοῦ κύκλου τὸ Θ σαμεῖον, καὶ ἄχθωσαν αἱ ΘΔ, ΔΗ, ΑΔ εὐθεῖαι. Ἐπεὶ οὖν γωνία ἁ ὑπὸ ΑΒΓ δύο πέμπτα ὀρθᾶς ἐστιν, γωνία ἁ ὑπὸ ΓΒΔ, τουτέστι ἁ ὑπὸ ΔΒΑ, ἓν πεμπταμόριον ὀρθᾶς ἐστιν· γωνία ἄρα ἁ ὑπὸ ΔΘΑ δύο πέμπτα ὀρθᾶς ἐστιν. Καὶ ἐπεὶ ἐν δυσὶ τριγώνοις τοῖς ΓΒΖ, ΗΒΖ δύο γωνίαι αἱ ποτὶ τῷ Β ἴσαι ἀλλάλαις ἐντί, ὀρθαὶ δὲ αἱ ποτὶ τὰ Η, Γ σαμεῖα, κοινὰ δὲ πλευρὰ ἁ ΒΖ, ἐσσεῖται ἄρα καὶ βάσις ἁ ΒΓ βάσει τᾷ ΒΗ ἴσα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 163",
+      "text": "Πάλιν ἐπεὶ ἐν δυσὶ τριγώνοις τοῖς ΓΒΔ, ΗΒΔ δύο πλευραὶ αἱ ΓΒ, ΒΗ ἴσαι ἀλλάλαις ἐντί, γωνίαι δὲ αἱ ποτὶ τῷ Β ἴσαι, κοινὰ δὲ πλευρὰ ἁ ΒΔ, ἐσσεῖται ἄρα γωνία ἁ ὑπὸ ΒΓΔ γωνίᾳ τᾷ ὑπὸ ΒΗΔ, τουτέστιν ἐπιπέμπτῳ ὀρθᾶς, ἴσα· ἔστι δὲ ἑκατέρα τῶν ὑπὸ ΒΓΔ, ΒΗΔ γωνιῶν γωνίᾳ τᾷ ἐκτὸς τοῦ ἐν τῷ κύκλῳ τετραπλεύρου τοῦ ΒΑΔΓ, τουτέστι τᾷ ΔΑΕ, ἴσα· γωνία ἄρα ἁ ὑπὸ ΔΑΒ γωνίᾳ τᾷ ὑπὸ ΔΗΑ ἔστιν ἴσα, καὶ πλευρὰ ἁ ΔΑ τᾷ ΔΗ. Καὶ ἐπεὶ γωνία ἁ ὑπὸ ΔΘΗ β εʹ ὀρθᾶς ἐστι καὶ ἁ ὑπὸ ΔΗΘ ἐπίπεμπτος ὀρθᾶς, γωνία ἄρα ἁ ὑπὸ ΘΔΗ β εʹ ὀρθᾶς ἐστιν· πλευρὰ ἄρα ἁ ΔΗ πλευρᾷ τᾷ ΗΘ ἐστὶν ἴσα. Πάλιν, ἐπεὶ γωνία ἁ ὑπὸ ΑΔΕ τοῦ ἐν τῷ κύκλῳ τετραπλεύρου τοῦ ΑΔΓΒ ἐκτός ἐστιν, ἐσσεῖται ἄρα γωνία ἁ ὑπὸ ΑΔΕ γωνίᾳ τᾷ ὑπὸ ΑΒΓ ἴσα· ἔστι δὲ γωνία ἁ ὑπὸ ΑΒΓ β γʹ ὀρθᾶς· γωνία ἄρα ἁ ὑπὸ ΑΔΕ γωνίᾳ τᾷ ὑπὸ ΗΔΘ ἐστὶν ἴσα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 164",
+      "text": "Καὶ ἐπεὶ ἐν δυσὶ τριγώνοις τοῖς ΕΔΑ, ΘΔΗ δύο γωνίαι αἱ ὑπὸ ΕΔΑ, ΔΑΕ δυσὶ ταῖς ὑπὸ ΘΔΗ, ΔΗΘ ἑκατέρα ἑκατέρᾳ ἴσαι ἐντί, βάσις δὲ ἁ ΔΑ βάσει τᾷ ΔΗ ἴσα, πλευρὰ ἄρα ἁ ΕΑ πλευρᾷ τᾷ ΘΗ ἴσα ἐστίν. Κοινὰ ποτικείσθω ἁ ΑΗ· εὐθεῖα ἄρα ἁ ΕΗ εὐθείᾳ τᾷ ΑΘ, τουτέστι τᾷ ἐκ τοῦ κέντρου τοῦ κύκλου, ἴσα ἐστίν· δέδεικται οὖν τὸ προτεθέν. ΠΟΡΙΣΜΑ Ἐκ τούτου δὴ φανερὸν ὅτι εὐθεῖα ἁ ΔΕ τᾷ ἐκ τοῦ κέντρου τοῦ κύκλου ἐστὶν ἴσα. Ἐπεὶ γὰρ γωνία ἁ ὑπὸ ΔΑΕ γωνίᾳ τᾷ ὑπὸ ΔΗΘ ἴσα ἐστίν, ἐσσεῖται καὶ πλευρὰ ἁ ΔΘ πλευρᾷ τᾷ ΔΕ, τουτέστι τᾷ ΑΘ, ἴσα. ΠΟΡΙΣΜΑ Καὶ ἔτι δῆλον ὅτι εὐθεῖα ἁ ΑΓ ἄκρον καὶ μέσον τέτμαται κατὰ τὸ Δ σαμεῖον· τμᾶμα δὲ τὸ ΔΕ τὸ μεῖζόν ἐστιν, ἐπεὶ ἁ ΕΔ πλευρὰ τοῦ ἑξαγώνου, ἁ δὲ ΔΓ πλευρὰ τοῦ δεκαγώνου τῶν ἐν τῷ κύκλῳ ἐγγραφομένων.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ixo-aj",
+      "title": {
+        "english": "Cattle Problem (Long Version)",
+        "ancient_greek": "Βοῦς Πρόβλημα"
+      },
+      "url_slug": "archimedes-of-syracuse-cattle-problem-aj-ixo-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/cattle-problem-aj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-cattle-problem-aj-ixo-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-cattle-problem-aj-ixo-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-cattle-problem-aj-ixo-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-cattle-problem-aj-ixo-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/cattle-problem-aj.epub"
+      }
+    },
+    {
+      "eul_wid": "ixo-ak",
+      "title": {
+        "english": "Cattle Problem (Short Version)",
+        "ancient_greek": "Βοῦς Πρόβλημα"
+      },
+      "url_slug": "archimedes-of-syracuse-cattle-problem-ak-ixo-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/cattle-problem-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-cattle-problem-ak-ixo-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-cattle-problem-ak-ixo-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-cattle-problem-ak-ixo-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-cattle-problem-ak-ixo-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/cattle-problem-ak.epub"
+      }
+    },
+    {
+      "eul_wid": "ixo-ad",
+      "title": {
+        "english": "Measurement of the Circle",
+        "ancient_greek": "Κύκλου Μέτρησις"
+      },
+      "url_slug": "archimedes-of-syracuse-measurement-circle-ixo-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/measurement-circle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-measurement-circle-ixo-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-measurement-circle-ixo-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-measurement-circle-ixo-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-measurement-circle-ixo-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/measurement-circle.epub"
+      }
+    },
+    {
+      "eul_wid": "ixo-af",
+      "title": {
+        "english": "Method to Eratosthenes",
+        "ancient_greek": "Μέθοδος πρὸς Ἐρατοσθένην"
+      },
+      "url_slug": "archimedes-of-syracuse-method-eratosthenes-ixo-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/method-eratosthenes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-method-eratosthenes-ixo-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-method-eratosthenes-ixo-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-method-eratosthenes-ixo-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-method-eratosthenes-ixo-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/method-eratosthenes.epub"
+      }
+    },
+    {
+      "eul_wid": "ixo-an",
+      "title": {
+        "english": "On Archimedean Polyhedra",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "archimedes-of-syracuse-polyhedra-ixo-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/polyhedra",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-polyhedra-ixo-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-polyhedra-ixo-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-polyhedra-ixo-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-polyhedra-ixo-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/polyhedra.epub"
+      }
+    },
+    {
+      "eul_wid": "ixo-ae",
+      "title": {
+        "english": "On Conoids and Spheroids",
+        "ancient_greek": "Περὶ Κωνοειδῶν καὶ Σφαιροειδῶν"
+      },
+      "url_slug": "archimedes-of-syracuse-conoids-spheroids-ixo-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/conoids-spheroids",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-conoids-spheroids-ixo-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-conoids-spheroids-ixo-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-conoids-spheroids-ixo-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-conoids-spheroids-ixo-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/conoids-spheroids.epub"
+      }
+    },
+    {
+      "eul_wid": "ixo-ah",
+      "title": {
+        "english": "On Floating Bodies",
+        "ancient_greek": "Περὶ Τῶν Ἐπιπλεόντων Σωμάτων"
+      },
+      "url_slug": "archimedes-of-syracuse-floating-bodies-ixo-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/floating-bodies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-floating-bodies-ixo-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-floating-bodies-ixo-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-floating-bodies-ixo-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-floating-bodies-ixo-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/floating-bodies.epub"
+      }
+    },
+    {
+      "eul_wid": "ixo-ai",
+      "title": {
+        "english": "On Spiral Lines",
+        "ancient_greek": "Περὶ Ἑλίκων Γραμμῶν"
+      },
+      "url_slug": "archimedes-of-syracuse-spirals-ixo-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/spirals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-spirals-ixo-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-spirals-ixo-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-spirals-ixo-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-spirals-ixo-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/spirals.epub"
+      }
+    },
+    {
+      "eul_wid": "ixo-aa",
+      "title": {
+        "english": "On the Equilibrium of Planes",
+        "ancient_greek": "Περὶ Ἰσορροπίας Ἐπιπέδων"
+      },
+      "url_slug": "archimedes-of-syracuse-equilibrium-planes-ixo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/equilibrium-planes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-equilibrium-planes-ixo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-equilibrium-planes-ixo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-equilibrium-planes-ixo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-equilibrium-planes-ixo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/equilibrium-planes.epub"
+      }
+    },
+    {
+      "eul_wid": "ixo-ab",
+      "title": {
+        "english": "On the Sphere and Cylinder",
+        "ancient_greek": "Περὶ Σφαίρας καὶ Κυλίνδρου"
+      },
+      "url_slug": "archimedes-of-syracuse-sphere-cylinder-ixo-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/sphere-cylinder",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-sphere-cylinder-ixo-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-sphere-cylinder-ixo-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-sphere-cylinder-ixo-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-sphere-cylinder-ixo-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/sphere-cylinder.epub"
+      }
+    },
+    {
+      "eul_wid": "ixo-ac",
+      "title": {
+        "english": "Quadrature of the Parabola",
+        "ancient_greek": "Παραβολῆς Τετραγωνισμός"
+      },
+      "url_slug": "archimedes-of-syracuse-quadrature-parabola-ixo-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/quadrature-parabola",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-quadrature-parabola-ixo-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-quadrature-parabola-ixo-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-quadrature-parabola-ixo-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-quadrature-parabola-ixo-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/quadrature-parabola.epub"
+      }
+    },
+    {
+      "eul_wid": "ixo-al",
+      "title": {
+        "english": "Sand Reckoner",
+        "ancient_greek": "Ψαμμίτης"
+      },
+      "url_slug": "archimedes-of-syracuse-sand-reckoner-ixo-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/sand-reckoner",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-sand-reckoner-ixo-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-sand-reckoner-ixo-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-sand-reckoner-ixo-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-sand-reckoner-ixo-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/sand-reckoner.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "spw-ab",
+      "title": {
+        "english": "Commentary-Ptolemy's Mathematical Syntax I–IV",
+        "ancient_greek": "Ὑπόμνημα εἰς Πτολεμαίου Μαθηματικὴν Σύνταξιν Α'-Δ'"
+      },
+      "url_slug": "theon-of-alexandria-commentary-ptolemy-syntax-spw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/theon-of-alexandria/commentary-ptolemy-syntax",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria-commentary-ptolemy-syntax-spw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria-commentary-ptolemy-syntax-spw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria-commentary-ptolemy-syntax-spw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria-commentary-ptolemy-syntax-spw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria/commentary-ptolemy-syntax.epub"
+      }
+    },
+    {
+      "eul_wid": "uvy-ac",
+      "title": {
+        "english": "Commentary-the Measurement of the Circle",
+        "ancient_greek": "Ὑπόμνημα εἰς τὴν μέτρησιν τοῦ κύκλου"
+      },
+      "url_slug": "eutocius-of-ascalon-measurement-circle-uvy-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/eutocius-of-ascalon/measurement-circle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutocius-of-ascalon-measurement-circle-uvy-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutocius-of-ascalon-measurement-circle-uvy-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutocius-of-ascalon-measurement-circle-uvy-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutocius-of-ascalon-measurement-circle-uvy-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutocius-of-ascalon/measurement-circle.epub"
+      }
+    },
+    {
+      "eul_wid": "iaw-aq",
+      "title": {
+        "english": "Data",
+        "ancient_greek": "Δεδομένα"
+      },
+      "url_slug": "euclid-of-alexandria-data-iaw-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/euclid-of-alexandria/data",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-data-iaw-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-data-iaw-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-data-iaw-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-data-iaw-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/data.epub"
+      }
+    },
+    {
+      "eul_wid": "iaw-al",
+      "title": {
+        "english": "Elements",
+        "ancient_greek": "Στοιχεῖα"
+      },
+      "url_slug": "euclid-of-alexandria-elements-al-iaw-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/euclid-of-alexandria/elements-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-elements-al-iaw-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-elements-al-iaw-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-elements-al-iaw-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-elements-al-iaw-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-al.epub"
+      }
+    },
+    {
+      "eul_wid": "phs-ad",
+      "title": {
+        "english": "Inscription of Canopus",
+        "ancient_greek": "Ἐπιγραφή τοῦ Κανώπου"
+      },
+      "url_slug": "ptolemy-of-alexandria-canopus-inscription-phs-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/canopus-inscription",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria-canopus-inscription-phs-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria-canopus-inscription-phs-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria-canopus-inscription-phs-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria-canopus-inscription-phs-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/canopus-inscription.epub"
+      }
+    },
+    {
+      "eul_wid": "uak-aa",
+      "title": {
+        "english": "On the Decade and the Numbers Within It",
+        "ancient_greek": "Περὶ δεκάδος καὶ τῶν ἐντὸς αὐτῆς ἀριθμῶν"
+      },
+      "url_slug": "anatolius-of-alexandria-decade-numbers-uak-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anatolius-of-alexandria/decade-numbers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anatolius-of-alexandria-decade-numbers-uak-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anatolius-of-alexandria-decade-numbers-uak-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anatolius-of-alexandria-decade-numbers-uak-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anatolius-of-alexandria-decade-numbers-uak-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anatolius-of-alexandria/decade-numbers.epub"
+      }
+    },
+    {
+      "eul_wid": "spw-ad",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "theon-of-alexandria-testimonies-spw-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/theon-of-alexandria/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria-testimonies-spw-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria-testimonies-spw-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria-testimonies-spw-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria-testimonies-spw-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria/testimonies.epub"
+      }
+    },
+    {
+      "eul_wid": "pim-ac",
+      "title": {
+        "english": "Theon's Homeric Commentary Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "theon-of-smyrna-ii-homeric-commentary-pim-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/theon-of-smyrna-ii/homeric-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-smyrna-ii-homeric-commentary-pim-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-smyrna-ii-homeric-commentary-pim-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-smyrna-ii-homeric-commentary-pim-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-smyrna-ii-homeric-commentary-pim-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-smyrna-ii/homeric-commentary.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/archimedes-of-syracuse/assumptions",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-assumptions-ixo-ag.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-assumptions-ixo-ag.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-assumptions-ixo-ag.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-assumptions-ixo-ag.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/assumptions.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

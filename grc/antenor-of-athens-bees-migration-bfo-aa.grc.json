@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "bfo-aa",
+  "eul_aid": "bfo",
+  "author_slug": "antenor-of-athens",
+  "work_slug": "bees-migration",
+  "url_slug": "antenor-of-athens-bees-migration-bfo-aa",
+  "author": {
+    "english": "Antenor of Athens",
+    "ancient_greek": "Ἀντήνωρ ὁ Ἀθηναῖος"
+  },
+  "title": {
+    "english": "On Cretan Bees and Migration",
+    "ancient_greek": "Ἀπόσπασμα"
+  },
+  "seo": {
+    "browser_title": "On Cretan Bees and Migration by Antenor on Eulogikon",
+    "meta_title": "Ancient On Cretan Bees and Migration by Antenor in Greek",
+    "meta_description": "Historical fragment by Antenor on Cretan bees migration. Insight into ancient natural history. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">On Cretan Bees and Migration is a fragmentary prose work by Antenor of Athens, known only through later excerpts. The title indicates a specialized focus on apiculture and the migratory behavior of bees within the Cretan context. The surviving passages describe a swarm of bees, referred to as bronze-colored, which afflicted the city of the so-called Raukians with a supernatural attack. Unable to endure this onslaught, the inhabitants abandoned their homeland and settled elsewhere on Crete, founding a new city named Rakos out of affection for their mother city. The text further notes that remnants of this fierce breed of bee could still be found on Mount Ida. The work represents a minor but illustrative example of ancient technical writing, offering a glimpse into the study of regional natural history, animal behavior, and agricultural practices. It survives not as a complete treatise but as an extracted fragment, likely preserved by later grammarians or natural historians.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t1",
+      "text": "ΚΡΗΤΙΚΑ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Aelianus H. An. XVII, 35: Ἐν λόγοις Κρητικοῖς Ἀντήνωρ λέγει τῇ τῶν καλουμένων Ῥαυκίων πόλει ἔκ τινος δαιμονίου προσβολῆς ἐπιφοιτῆσαι μελιττῶν σφῆνος, αἵπερ οὖν καλοῦνται χαλκοειδεῖς, ἐγχριπτούσας δὲ ἄρα αὐτὰς τὰ κέντρα εἶτα μέντοι πικρότατα λυπεῖν οὕσπερ οὖν. Ἐκείνους δὲ τὴν προσβολὴν οὐ φέροντας ἀναστῆναι τῆς πατρίδος, καὶ μέντοι καὶ εἰς χῶρον ἐλθεῖν ἄλλον, καὶ οἰκίσαι φιλίᾳ τῆς μητρίδος, ἵνα Κρητικῶς εἴπω, Ῥᾶκον ἐν αὐτῇ τῇ Κρήτῃ, εἰ καὶ τοῦ χω ρίου ὁ δαίμων ἤλαυνεν αὐτοὺς, ἀλλὰ γοῦν τελείως ἀποσπασθῆναι τοῦ ὀνόματος οὐχ ὑπομείναντας. Λέγει δὲ ὁ Ἀντήνωρ καὶ ἔτι κατὰ τὴν Ἴδην τὴν Κρῆσσαν ἐκείνου τοῦ γένους τῶν μελιττῶν εἶναι ἰνδάλματα, οὐ πολλὰ μὲν, εἶναι δ’ οὖν καὶ πι κρὰς ἐντυχεῖν, ὡς ἐκεῖναι ἦσαν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "cvm-ac",
+      "title": {
+        "english": "Fragments on Heraclean Wars",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ἡρακλειωτικῶν Πολέμων"
+      },
+      "url_slug": "hellanicus-of-lesbos-heraclean-wars-cvm-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hellanicus-of-lesbos/heraclean-wars",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellanicus-of-lesbos-heraclean-wars-cvm-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellanicus-of-lesbos-heraclean-wars-cvm-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellanicus-of-lesbos-heraclean-wars-cvm-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellanicus-of-lesbos-heraclean-wars-cvm-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellanicus-of-lesbos/heraclean-wars.epub"
+      }
+    },
+    {
+      "eul_wid": "epq-ab",
+      "title": {
+        "english": "Fragments on Samothrace",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σαμοθρᾴκης"
+      },
+      "url_slug": "deiochus-the-historian-samothrace-fragments-epq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/deiochus-the-historian/samothrace-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deiochus-the-historian-samothrace-fragments-epq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deiochus-the-historian-samothrace-fragments-epq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deiochus-the-historian-samothrace-fragments-epq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deiochus-the-historian-samothrace-fragments-epq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deiochus-the-historian/samothrace-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "saw-aa",
+      "title": {
+        "english": "Fragments on Sicilian Cities",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σικελικῶν Πόλεων"
+      },
+      "url_slug": "andreas-the-historian-sicilian-cities-saw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/andreas-the-historian/sicilian-cities",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andreas-the-historian-sicilian-cities-saw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andreas-the-historian-sicilian-cities-saw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andreas-the-historian-sicilian-cities-saw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andreas-the-historian-sicilian-cities-saw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andreas-the-historian/sicilian-cities.epub"
+      }
+    },
+    {
+      "eul_wid": "pdc-ad",
+      "title": {
+        "english": "From the Macedonian",
+        "ancient_greek": "ἐκ τῆς Μακεδονικῆς"
+      },
+      "url_slug": "appian-of-alexandria-macedonian-pdc-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/macedonian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-macedonian-pdc-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-macedonian-pdc-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-macedonian-pdc-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-macedonian-pdc-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/macedonian.epub"
+      }
+    },
+    {
+      "eul_wid": "ekq-aa",
+      "title": {
+        "english": "On Scythians and Cosmology",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "mnesimachus-of-phaselis-scythians-cosmology-ekq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/mnesimachus-of-phaselis/scythians-cosmology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnesimachus-of-phaselis-scythians-cosmology-ekq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnesimachus-of-phaselis-scythians-cosmology-ekq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnesimachus-of-phaselis-scythians-cosmology-ekq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnesimachus-of-phaselis-scythians-cosmology-ekq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnesimachus-of-phaselis/scythians-cosmology.epub"
+      }
+    },
+    {
+      "eul_wid": "kim-aa",
+      "title": {
+        "english": "On the Heliconian Contest",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "nicocrates-the-historian-heliconian-contest-kim-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicocrates-the-historian/heliconian-contest",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicocrates-the-historian-heliconian-contest-kim-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicocrates-the-historian-heliconian-contest-kim-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicocrates-the-historian-heliconian-contest-kim-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicocrates-the-historian-heliconian-contest-kim-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicocrates-the-historian/heliconian-contest.epub"
+      }
+    },
+    {
+      "eul_wid": "hyy-aa",
+      "title": {
+        "english": "On the Overthrow of King Knopos",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "hippias-of-erythrae-overthrow-knopos-hyy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippias-of-erythrae/overthrow-knopos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-erythrae-overthrow-knopos-hyy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-erythrae-overthrow-knopos-hyy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-erythrae-overthrow-knopos-hyy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-erythrae-overthrow-knopos-hyy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-erythrae/overthrow-knopos.epub"
+      }
+    },
+    {
+      "eul_wid": "fmi-aa",
+      "title": {
+        "english": "On the Seven Sages and Pythagoras",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "andron-of-ephesus-seven-sages-pythagoras-fmi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/andron-of-ephesus/seven-sages-pythagoras",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-ephesus-seven-sages-pythagoras-fmi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-ephesus-seven-sages-pythagoras-fmi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-ephesus-seven-sages-pythagoras-fmi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-ephesus-seven-sages-pythagoras-fmi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-ephesus/seven-sages-pythagoras.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/antenor-of-athens/bees-migration",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antenor-of-athens-bees-migration-bfo-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antenor-of-athens-bees-migration-bfo-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antenor-of-athens-bees-migration-bfo-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antenor-of-athens-bees-migration-bfo-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antenor-of-athens/bees-migration.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

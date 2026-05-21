@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ave",
+  "auth_slug": "asclepius-the-physician",
+  "name": {
+    "english": "Asclepius the Physician",
+    "ancient_greek": "Ἀσκληπιός ὁ Ἰατρός"
+  },
+  "seo_h1": "Asclepius the Physician on Aristotle's Metaphysics",
+  "seo": {
+    "browser_title": "Asclepius the Physician on Eulogikon Greek Archive",
+    "meta_title": "Asclepius the Physician Ancient Greek Medical Works",
+    "meta_description": "Asclepius the Physician, a 5th century BCE Greek medical writer. Two surviving works in Epic dialect. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Asclepius the Physician is not a historical figure from the 5th century BCE. The name Asclepius belongs to the Greek god of medicine, a mythical hero and demigod said to be the son of Apollo and Coronis. He was worshipped at major healing sanctuaries such as those at Epidaurus and Cos. The notion of a 5th-century philosophical figure by this name is incompatible with the established divine persona.</p>\n<p class=\"research-text\">No treatises or writings are attributed to the god Asclepius. Medical knowledge was instead associated with his cult and his mythical descendants, the Asclepiadae, a lineage that included historical physicians like Hippocrates. Any later pseudepigraphical texts bearing his name do not relate to a 5th-century author.</p>\n<p class=\"research-text\">As the god of medicine, Asclepius held profound cultural and religious significance. His sanctuaries functioned as healing centers that employed therapeutic rituals such as incubation. The Hippocratic Oath invokes him, cementing his role in the professional identity of ancient physicians. His symbol, the Rod of Asclepius, remains a universal emblem of medicine.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "ave-aa",
+      "title": {
+        "english": "Commentary-Nicomachus of Gerasa's Introduction to Arithmetic",
+        "ancient_greek": "Σχόλια εἰς τὴν Νικομάχου Γερασηνοῦ Ἀριθμητικὴν"
+      },
+      "url_slug": "asclepius-the-physician-nicomachus-arithmetic-ave-aa",
+      "passages": 226,
+      "links": {
+        "html": "https://eulogikon.org/grc/asclepius-the-physician/nicomachus-arithmetic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepius-the-physician-nicomachus-arithmetic-ave-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepius-the-physician-nicomachus-arithmetic-ave-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepius-the-physician-nicomachus-arithmetic-ave-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepius-the-physician-nicomachus-arithmetic-ave-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepius-the-physician/nicomachus-arithmetic.epub"
+      }
+    },
+    {
+      "eul_wid": "ave-ab",
+      "title": {
+        "english": "On Aristotle's Metaphysics Books A-Z. Commentary",
+        "ancient_greek": "Σχόλια εἰς τὰ μεταφυσικὰ Ἀριστοτέλους, Βιβλία Α-Ω"
+      },
+      "url_slug": "asclepius-the-physician-aristotle-metaphysics-commentary-ave-ab",
+      "passages": 452,
+      "links": {
+        "html": "https://eulogikon.org/grc/asclepius-the-physician/aristotle-metaphysics-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepius-the-physician-aristotle-metaphysics-commentary-ave-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepius-the-physician-aristotle-metaphysics-commentary-ave-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepius-the-physician-aristotle-metaphysics-commentary-ave-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepius-the-physician-aristotle-metaphysics-commentary-ave-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepius-the-physician/aristotle-metaphysics-commentary.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/asclepius-the-physician",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/asclepius-the-physician-ave.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/asclepius-the-physician-ave.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/asclepius-the-physician-ave.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/asclepius-the-physician-ave.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

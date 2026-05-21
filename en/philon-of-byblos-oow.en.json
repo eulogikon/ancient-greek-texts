@@ -1,0 +1,192 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "oow",
+  "auth_slug": "philon-of-byblos",
+  "name": {
+    "english": "Philon of Byblos",
+    "ancient_greek": "Φίλων ὁ Βύβλιος"
+  },
+  "seo_h1": "Philon of Byblos and the Phoenician History",
+  "seo": {
+    "browser_title": "Philon of Byblos the Grammarian on Eulogikon Greek Archive",
+    "meta_title": "Classical Philon of Byblos Ancient Greek Grammarian Works",
+    "meta_description": "Philon of Byblos, Greek grammarian and historian. Works include fragments on Phoenician history. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Philon of Byblos was a Greek-speaking grammarian and historian from the Phoenician city of Byblos. He lived and worked under the Roman Empire in the late 1st and early 2nd centuries CE and was part of the intellectual circle of the emperor Hadrian. Educated in Greek literature, he also possessed knowledge of Phoenician language and traditions.</p>\n<p class=\"research-text\">His most important work was the Phoenician History, which survives only in fragments quoted by later authors like the Christian writer Eusebius. Philon presented this work as a translation of writings by an ancient Phoenician sage named Sanchuniathon. It describes Phoenician myths and gods, offering a rationalized view where deities were originally human kings or inventors. Other works by Philon, on topics like grammar, cities, and books, are now lost.</p>\n<p class=\"research-text\">Philon of Byblos is significant for claiming to preserve authentic Phoenician mythology and history for a Greek audience. The accuracy of his translation and the very existence of Sanchuniathon are subjects of ongoing scholarly debate. Nevertheless, his fragments provide a unique, if contested, window into Phoenician thought and its connections to Greek culture. His work exemplifies how local scholars in the Roman Empire mediated between their native heritage and the dominant Greco-Roman world.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 8,
+  "works": [
+    {
+      "eul_wid": "oow-aa",
+      "title": {
+        "english": "On Proper Expression, Epitome under the Name of Herennius Philo",
+        "ancient_greek": "Περὶ κυριολεξίας"
+      },
+      "url_slug": "philon-of-byblos-proper-expression-oow-aa",
+      "passages": 25,
+      "links": {
+        "html": "https://eulogikon.org/grc/philon-of-byblos/proper-expression",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-proper-expression-oow-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-proper-expression-oow-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-proper-expression-oow-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-proper-expression-oow-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/proper-expression.epub"
+      }
+    },
+    {
+      "eul_wid": "oow-ab",
+      "title": {
+        "english": "On the Alphabetical Meanings of Words",
+        "ancient_greek": "Περὶ"
+      },
+      "url_slug": "philon-of-byblos-alphabetical-meanings-oow-ab",
+      "passages": 102,
+      "links": {
+        "html": "https://eulogikon.org/grc/philon-of-byblos/alphabetical-meanings",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-alphabetical-meanings-oow-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-alphabetical-meanings-oow-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-alphabetical-meanings-oow-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-alphabetical-meanings-oow-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/alphabetical-meanings.epub"
+      }
+    },
+    {
+      "eul_wid": "oow-ac",
+      "title": {
+        "english": "On the Difference of Related Words",
+        "ancient_greek": "Περὶ Διαφορᾶς Συγγενῶν Λέξεων"
+      },
+      "url_slug": "philon-of-byblos-difference-words-oow-ac",
+      "passages": 25,
+      "links": {
+        "html": "https://eulogikon.org/grc/philon-of-byblos/difference-words",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-difference-words-oow-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-difference-words-oow-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-difference-words-oow-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-difference-words-oow-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/difference-words.epub"
+      }
+    },
+    {
+      "eul_wid": "oow-ae",
+      "title": {
+        "english": "On the Knowledge of Ages",
+        "ancient_greek": "Γνῶσις περὶ ἡλικιῶν"
+      },
+      "url_slug": "philon-of-byblos-knowledge-ages-oow-ae",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/philon-of-byblos/knowledge-ages",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-knowledge-ages-oow-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-knowledge-ages-oow-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-knowledge-ages-oow-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-knowledge-ages-oow-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/knowledge-ages.epub"
+      }
+    },
+    {
+      "eul_wid": "oow-ad",
+      "title": {
+        "english": "On the Meanings of Words",
+        "ancient_greek": "Περὶ"
+      },
+      "url_slug": "philon-of-byblos-meanings-words-oow-ad",
+      "passages": 174,
+      "links": {
+        "html": "https://eulogikon.org/grc/philon-of-byblos/meanings-words",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-meanings-words-oow-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-meanings-words-oow-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-meanings-words-oow-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-meanings-words-oow-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/meanings-words.epub"
+      }
+    },
+    {
+      "eul_wid": "oow-ag",
+      "title": {
+        "english": "Phoenician History (Recension A)",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philon-of-byblos-history-ag-oow-ag",
+      "passages": 62,
+      "links": {
+        "html": "https://eulogikon.org/grc/philon-of-byblos/history-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-history-ag-oow-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-history-ag-oow-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-history-ag-oow-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-history-ag-oow-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/history-ag.epub"
+      }
+    },
+    {
+      "eul_wid": "oow-ah",
+      "title": {
+        "english": "Phoenician History (Recension B)",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philon-of-byblos-history-ah-oow-ah",
+      "passages": 33,
+      "links": {
+        "html": "https://eulogikon.org/grc/philon-of-byblos/history-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-history-ah-oow-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-history-ah-oow-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-history-ah-oow-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-history-ah-oow-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/history-ah.epub"
+      }
+    },
+    {
+      "eul_wid": "oow-af",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "philon-of-byblos-testimonies-oow-af",
+      "passages": 6,
+      "links": {
+        "html": "https://eulogikon.org/grc/philon-of-byblos/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-testimonies-oow-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-testimonies-oow-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-testimonies-oow-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-testimonies-oow-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/testimonies.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/philon-of-byblos",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philon-of-byblos-oow.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philon-of-byblos-oow.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philon-of-byblos-oow.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philon-of-byblos-oow.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

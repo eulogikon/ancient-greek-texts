@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "qpy",
+  "auth_slug": "marcus-aurelius",
+  "name": {
+    "english": "Marcus Aurelius the Stoic Philosopher",
+    "ancient_greek": "Μᾶρκος Αὐρήλιος ὁ Στωϊκός"
+  },
+  "seo_h1": "Marcus Aurelius the Stoic Philosopher Writing to Himself",
+  "seo": {
+    "browser_title": "Marcus Aurelius the Stoic on Eulogikon Greek Archive",
+    "meta_title": "Classical Marcus Aurelius Ancient Greek Philosophical Works",
+    "meta_description": "Marcus Aurelius, Roman emperor and Stoic philosopher. His Meditations is a philosophical treatise. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ φιλοσοφική",
+      "english": "Philosophical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Stoic",
+      "href": "/affiliations/stoic"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Marcus Aurelius was a Roman emperor who ruled from 161 to 180 CE and a dedicated Stoic philosopher. He was born in 121 CE into a prominent family and was adopted by the emperor Antoninus Pius, who prepared him for leadership. His education included instruction from the Stoic teacher Junius Rusticus, who introduced him to the works of the philosopher Epictetus.</p>\n<p class=\"research-text\">His reign was marked by near-constant military campaigns, internal challenges, and a major plague. He died in 180 CE, likely at a military camp along the Danube frontier. His lasting importance rests on a single surviving work, his personal writings known as the Meditations. This text is a collection of private reflections and philosophical exercises, written primarily during his military campaigns. It was not intended for publication, making it a unique and intimate record of his thoughts.</p>\n<p class=\"research-text\">In the Meditations, he grapples with applying Stoic principles—like accepting fate, focusing on virtue, and serving the common good—to the immense pressures of ruling an empire. According to modern scholars, Marcus Aurelius is significant not as an original theorist but as the archetypal &quot;philosopher-king.&quot; His work provides a powerful example of an individual striving to live a philosophical life amid extreme responsibility. As one of the last major figures of ancient Stoicism, the Meditations has served as a crucial text for transmitting Stoic ideas and continues to be widely read for personal ethical guidance.</p>\n</div>",
+  "affiliation_label": "Stoic",
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "qpy-aa",
+      "title": {
+        "english": "To Himself",
+        "ancient_greek": "Τὰ εἰς ἑαυτόν"
+      },
+      "url_slug": "marcus-aurelius-to-himself-qpy-aa",
+      "passages": 486,
+      "links": {
+        "html": "https://eulogikon.org/grc/marcus-aurelius/to-himself",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcus-aurelius-to-himself-qpy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcus-aurelius-to-himself-qpy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcus-aurelius-to-himself-qpy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcus-aurelius-to-himself-qpy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcus-aurelius/to-himself.epub"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "mlc",
+      "name": {
+        "english": "Apollodorus of Seleucia",
+        "ancient_greek": "Ἀπολλόδωρος ὁ Σελευκεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/apollodorus-of-seleucia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-seleucia-mlc.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-seleucia-mlc.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-seleucia-mlc.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-seleucia-mlc.en.json"
+      }
+    },
+    {
+      "eul_aid": "jzg",
+      "name": {
+        "english": "Apollophanes the Stoic",
+        "ancient_greek": "Ἀπολλοφάνης ὁ Στωικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/apollophanes-the-stoic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollophanes-the-stoic-jzg.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollophanes-the-stoic-jzg.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollophanes-the-stoic-jzg.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollophanes-the-stoic-jzg.en.json"
+      }
+    },
+    {
+      "eul_aid": "mnk",
+      "name": {
+        "english": "Archedemus of Tarsus",
+        "ancient_greek": "Ἀρχέδημος ὁ Ταρσεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/archedemus-of-tarsus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archedemus-of-tarsus-mnk.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archedemus-of-tarsus-mnk.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archedemus-of-tarsus-mnk.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archedemus-of-tarsus-mnk.en.json"
+      }
+    },
+    {
+      "eul_aid": "jyw",
+      "name": {
+        "english": "Ariston of Chios",
+        "ancient_greek": "Ἀρίστων ὁ Χῖος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/ariston-of-chios",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-chios-jyw.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-chios-jyw.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-chios-jyw.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-chios-jyw.en.json"
+      }
+    },
+    {
+      "eul_aid": "nac",
+      "name": {
+        "english": "Arius Didymus of Alexandria",
+        "ancient_greek": "Ἄρειος Δίδυμος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/arius-didymus-of-alexandria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arius-didymus-of-alexandria-nac.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arius-didymus-of-alexandria-nac.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arius-didymus-of-alexandria-nac.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arius-didymus-of-alexandria-nac.en.json"
+      }
+    },
+    {
+      "eul_aid": "pcs",
+      "name": {
+        "english": "Arrian of Nicomedia",
+        "ancient_greek": "Ἀρριανός ὁ Νικομηδεύς"
+      },
+      "work_count": 18,
+      "links": {
+        "html": "https://eulogikon.org/en/arrian-of-nicomedia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arrian-of-nicomedia-pcs.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arrian-of-nicomedia-pcs.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arrian-of-nicomedia-pcs.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arrian-of-nicomedia-pcs.en.json"
+      }
+    },
+    {
+      "eul_aid": "mty",
+      "name": {
+        "english": "Athenodorus of Tarsus Cordylion",
+        "ancient_greek": "Ἀθηνόδωρος Κορδυλίων"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/athenodorus-of-tarsus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenodorus-of-tarsus-mty.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenodorus-of-tarsus-mty.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenodorus-of-tarsus-mty.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenodorus-of-tarsus-mty.en.json"
+      }
+    },
+    {
+      "eul_aid": "omo",
+      "name": {
+        "english": "Chaeremon of Alexandria",
+        "ancient_greek": "Χαιρήμων ὁ Ἀλεξανδρεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/chaeremon-of-alexandria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chaeremon-of-alexandria-omo.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chaeremon-of-alexandria-omo.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chaeremon-of-alexandria-omo.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chaeremon-of-alexandria-omo.en.json"
+      }
+    },
+    {
+      "eul_aid": "kms",
+      "name": {
+        "english": "Chrysippus of Soli",
+        "ancient_greek": "Χρύσιππος ὁ Σολεύς"
+      },
+      "work_count": 6,
+      "links": {
+        "html": "https://eulogikon.org/en/chrysippus-of-soli",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-kms.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-kms.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-kms.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-kms.en.json"
+      }
+    },
+    {
+      "eul_aid": "ixe",
+      "name": {
+        "english": "Chrysippus of Soli II",
+        "ancient_greek": "Χρύσιππος ὁ Σολεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/chrysippus-of-soli-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-ii-ixe.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-ii-ixe.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-ii-ixe.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-ii-ixe.en.json"
+      }
+    },
+    {
+      "eul_aid": "jew",
+      "name": {
+        "english": "Cleanthes of Assos",
+        "ancient_greek": "Κλεάνθης ὁ Ἀσσεύς"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/cleanthes-of-assos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleanthes-of-assos-jew.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleanthes-of-assos-jew.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleanthes-of-assos-jew.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleanthes-of-assos-jew.en.json"
+      }
+    },
+    {
+      "eul_aid": "obu",
+      "name": {
+        "english": "Cornutus the Stoic Philosopher",
+        "ancient_greek": "Κορνοῦτος ὁ Στωϊκός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/cornutus-the-stoic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cornutus-the-stoic-obu.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cornutus-the-stoic-obu.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cornutus-the-stoic-obu.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cornutus-the-stoic-obu.en.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/marcus-aurelius",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/marcus-aurelius-qpy.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/marcus-aurelius-qpy.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/marcus-aurelius-qpy.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/marcus-aurelius-qpy.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

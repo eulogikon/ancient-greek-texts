@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "bwc",
+  "auth_slug": "zeno-of-elea",
+  "name": {
+    "english": "Zeno of Elea",
+    "ancient_greek": "Ζήνων ὁ Ἐλεᾱ́της"
+  },
+  "seo_h1": "Zeno of Elea on the Paradoxes of Plurality",
+  "seo": {
+    "browser_title": "Zeno of Elea Ancient Philosopher on Eulogikon Greek Archive",
+    "meta_title": "The Zeno of Elea Ancient Greek Philosophical Works",
+    "meta_description": "Zeno of Elea, pre-Socratic philosopher of the Eleatic school. Surviving fragments of his paradoxes. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Eleatic",
+      "href": "/affiliations/eleatic"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Zeno of Elea was a Greek philosopher who lived in the 5th century BCE. He was from the colony of Elea in southern Italy and was a pupil and associate of the philosopher Parmenides, the founder of the Eleatic school. According to later tradition, he visited Athens with Parmenides, but the historical accuracy of this story is uncertain. Ancient sources report that he was killed after being involved in a plot against a local tyrant, gaining a reputation for his steadfastness and skill in argument.</p>\n<p class=\"research-text\">Zeno is known for writing a single book, now lost, which contained a series of logical arguments. This work survives only in fragments and reports by later philosophers like Aristotle. It is often referred to as Arguments or Disputations. His lasting importance comes from his famous paradoxes, which were designed to defend Parmenides’ view that reality is one and unchanging. Zeno’s arguments attempted to show that common beliefs in plurality and motion lead to logical absurdities.</p>\n<p class=\"research-text\">His most enduring paradoxes challenge the concept of motion, such as the races of Achilles and the Tortoise and the flying Arrow. According to modern scholars, these puzzles forced later Greek philosophers to grapple deeply with problems of infinity, continuity, and space. He is often credited as a foundational figure in dialectical reasoning and the use of reductio ad absurdum in philosophy.</p>\n</div>",
+  "affiliation_label": "Eleatic",
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "bwc-aa",
+      "title": {
+        "english": "On the Nature of Plurality",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "zeno-of-elea-nature-plurality-bwc-aa",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/zeno-of-elea/nature-plurality",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea-nature-plurality-bwc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea-nature-plurality-bwc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea-nature-plurality-bwc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea-nature-plurality-bwc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea/nature-plurality.epub"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "diy",
+      "name": {
+        "english": "Melissus of Samos",
+        "ancient_greek": "Μέλισσος ὁ Σάμιος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/melissus-of-samos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/melissus-of-samos-diy.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/melissus-of-samos-diy.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/melissus-of-samos-diy.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/melissus-of-samos-diy.en.json"
+      }
+    },
+    {
+      "eul_aid": "bke",
+      "name": {
+        "english": "Parmenides of Elea",
+        "ancient_greek": "Παρμενίδης ὁ Ἐλεάτης"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/parmenides-of-elea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/parmenides-of-elea-bke.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/parmenides-of-elea-bke.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/parmenides-of-elea-bke.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/parmenides-of-elea-bke.en.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/zeno-of-elea",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/zeno-of-elea-bwc.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/zeno-of-elea-bwc.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/zeno-of-elea-bwc.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/zeno-of-elea-bwc.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

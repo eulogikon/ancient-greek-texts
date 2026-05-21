@@ -1,0 +1,277 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "bcm",
+  "auth_slug": "anaximenes-of-miletus",
+  "name": {
+    "english": "Anaximenes of Miletus",
+    "ancient_greek": "Ἀναξιμένης ὁ Μιλήσιος"
+  },
+  "seo_h1": "Anaximenes of Miletus on Air and Cosmic Order",
+  "seo": {
+    "browser_title": "The Anaximenes of Miletus on Eulogikon Greek Archive",
+    "meta_title": "The Anaximenes of Miletus Ancient Greek Philosophy",
+    "meta_description": "Anaximenes of Miletus, 6th century BCE Ionian philosopher. Surviving fragments of his works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Presocratic",
+      "href": "/affiliations/presocratic"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Anaximenes of Miletus was a philosopher from ancient Ionia, in what is now Turkey, active in the 6th century BCE. He is traditionally considered the third and last of the foundational Milesian thinkers, following Thales and Anaximander. According to later ancient sources, he was a pupil of Anaximander and was active around the time of the Persian capture of the city of Sardis in 546/5 BCE. Very few other details of his life are known.</p>\n<p class=\"research-text\">He is credited with writing at least one philosophical work, composed in the Ionic dialect. Later ancient commentators described his prose as simple and direct. The work is often referred to by the conventional title On Nature, though no complete text survives. His ideas are known only through reports by later authors and a small number of fragments, the authenticity of which is sometimes debated by scholars.</p>\n<p class=\"research-text\">Anaximenes is historically important for continuing the Milesian project of seeking a single, underlying substance for all reality. He proposed that this fundamental substance was aer, a term meaning air, mist, or vapor. According to modern scholars, his major contribution was introducing a clear physical mechanism for change: he argued that aer transforms into other elements through the processes of rarefaction and condensation. For example, rarefied air becomes fire, while condensed air becomes wind, cloud, water, earth, and stone.</p>\n<p class=\"research-text\">This model provided an early attempt at a material and causal explanation for the diversity of the natural world, moving away from mythological accounts. His ideas on cosmology, such as the earth being a flat disk resting on air, influenced later Greek thought.</p>\n</div>",
+  "affiliation_label": "Presocratic",
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "bcm-ab",
+      "title": {
+        "english": "Fragments on Cold and Heat",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ψύχους καὶ Θέρμης"
+      },
+      "url_slug": "anaximenes-of-miletus-cold-heat-bcm-ab",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/anaximenes-of-miletus/cold-heat",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-miletus-cold-heat-bcm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-miletus-cold-heat-bcm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-miletus-cold-heat-bcm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-miletus-cold-heat-bcm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-miletus/cold-heat.epub"
+      }
+    },
+    {
+      "eul_wid": "bcm-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "anaximenes-of-miletus-testimonies-bcm-aa",
+      "passages": 24,
+      "links": {
+        "html": "https://eulogikon.org/grc/anaximenes-of-miletus/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-miletus-testimonies-bcm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-miletus-testimonies-bcm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-miletus-testimonies-bcm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-miletus-testimonies-bcm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-miletus/testimonies.epub"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "bmw",
+      "name": {
+        "english": "Alcmaeon of Croton",
+        "ancient_greek": "Ἀλκμαίων ὁ Κροτωνιάτης"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/alcmaeon-of-croton",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcmaeon-of-croton-bmw.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcmaeon-of-croton-bmw.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcmaeon-of-croton-bmw.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcmaeon-of-croton-bmw.en.json"
+      }
+    },
+    {
+      "eul_aid": "btk",
+      "name": {
+        "english": "Anaxagoras of Clazomenae",
+        "ancient_greek": "Ἀναξαγόρας ὁ Κλαζομένιος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/anaxagoras-of-clazomenae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxagoras-of-clazomenae-btk.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxagoras-of-clazomenae-btk.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxagoras-of-clazomenae-btk.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxagoras-of-clazomenae-btk.en.json"
+      }
+    },
+    {
+      "eul_aid": "aua",
+      "name": {
+        "english": "Anaximander of Miletus",
+        "ancient_greek": "Ἀναξίμανδρος ὁ Μιλήσιος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/anaximander-of-miletus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximander-of-miletus-aua.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximander-of-miletus-aua.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximander-of-miletus-aua.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximander-of-miletus-aua.en.json"
+      }
+    },
+    {
+      "eul_aid": "etm",
+      "name": {
+        "english": "Anaximenes-pseudo Miletus Letters",
+        "ancient_greek": "Ἀναξιμένους τοῦ Μιλησίου Ἐπιστολαί (Ψευδο-Ἀναξιμένης)"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/anaximenes-pseudo-miletus-letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-pseudo-miletus-letters-etm.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-pseudo-miletus-letters-etm.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-pseudo-miletus-letters-etm.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-pseudo-miletus-letters-etm.en.json"
+      }
+    },
+    {
+      "eul_aid": "byk",
+      "name": {
+        "english": "Archelaus of Miletus",
+        "ancient_greek": "Ἀρχέλαος ὁ Μιλήσιος ὁ Ἀθηναῖος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/archelaus-of-miletus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archelaus-of-miletus-byk.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archelaus-of-miletus-byk.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archelaus-of-miletus-byk.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archelaus-of-miletus-byk.en.json"
+      }
+    },
+    {
+      "eul_aid": "anw",
+      "name": {
+        "english": "Cleobulus of Lindos I",
+        "ancient_greek": "Κλεόβουλος ὁ Λίνδιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/cleobulus-of-lindos-i",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleobulus-of-lindos-i-anw.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleobulus-of-lindos-i-anw.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleobulus-of-lindos-i-anw.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleobulus-of-lindos-i-anw.en.json"
+      }
+    },
+    {
+      "eul_aid": "byu",
+      "name": {
+        "english": "Democritus of Abdera",
+        "ancient_greek": "Δημόκριτος ὁ Ἀβδηρίτης"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/democritus-of-abdera",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/democritus-of-abdera-byu.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/democritus-of-abdera-byu.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/democritus-of-abdera-byu.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/democritus-of-abdera-byu.en.json"
+      }
+    },
+    {
+      "eul_aid": "bze",
+      "name": {
+        "english": "Diogenes of Apollonia",
+        "ancient_greek": "Διογένης ὁ Ἀπολλωνιάτης"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/diogenes-of-apollonia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-apollonia-bze.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-apollonia-bze.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-apollonia-bze.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-apollonia-bze.en.json"
+      }
+    },
+    {
+      "eul_aid": "die",
+      "name": {
+        "english": "Empedocles of Acragas",
+        "ancient_greek": "Ἐμπεδοκλῆς ὁ Ἀκραγαντίνος"
+      },
+      "work_count": 3,
+      "links": {
+        "html": "https://eulogikon.org/en/empedocles-of-acragas",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/empedocles-of-acragas-die.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/empedocles-of-acragas-die.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/empedocles-of-acragas-die.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/empedocles-of-acragas-die.en.json"
+      }
+    },
+    {
+      "eul_aid": "bky",
+      "name": {
+        "english": "Heraclitus of Ephesus",
+        "ancient_greek": "Ἡράκλειτος ὁ Ἐφέσιος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/heraclitus-of-ephesus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-bky.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-bky.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-bky.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-bky.en.json"
+      }
+    },
+    {
+      "eul_aid": "bko",
+      "name": {
+        "english": "Heraclitus of Ephesus II",
+        "ancient_greek": "Ἡράκλειτος ὁ Ἐφέσιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/heraclitus-of-ephesus-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-ii-bko.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-ii-bko.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-ii-bko.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-ii-bko.en.json"
+      }
+    },
+    {
+      "eul_aid": "exs",
+      "name": {
+        "english": "Hermodorus of Ephesus",
+        "ancient_greek": "Ἑρμόδωρος ὁ Ἐφέσιος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/hermodorus-of-ephesus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermodorus-of-ephesus-exs.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermodorus-of-ephesus-exs.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermodorus-of-ephesus-exs.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermodorus-of-ephesus-exs.en.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/anaximenes-of-miletus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-of-miletus-bcm.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-of-miletus-bcm.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-of-miletus-bcm.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-of-miletus-bcm.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

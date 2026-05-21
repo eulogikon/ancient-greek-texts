@@ -1,0 +1,582 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "jyw-aa",
+  "eul_aid": "jyw",
+  "author_slug": "ariston-of-chios",
+  "work_slug": "testimonies",
+  "url_slug": "ariston-of-chios-testimonies-jyw-aa",
+  "author": {
+    "english": "Ariston of Chios",
+    "ancient_greek": "Ἀρίστων ὁ Χῖος"
+  },
+  "title": {
+    "english": "Testimonies and Fragments",
+    "ancient_greek": "Μαρτυρίαι καὶ Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Fragments Ariston of Chios by Ariston of Chios on Eulogikon",
+    "meta_title": "The Fragments of Ariston of Chios in Ancient Greek",
+    "meta_description": "Testimonies and fragments of Stoic philosopher Ariston of Chios. Early 3rd century BCE evidence. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (phi, frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Stoic",
+      "href": "/affiliations/stoic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The work known as <strong>Testimonies and Fragments</strong> is a modern scholarly compilation that assembles the surviving evidence for the philosopher Ariston of Chios, an early Stoic active in the 3rd century BCE. As none of his original writings survive, our understanding of his thought depends entirely on 73 individual passages preserved by later authors such as Diogenes Laertius, Cicero, Seneca, and Plutarch. These passages are categorized as either testimonia, which are ancient reports about his life and doctrines, or fragmenta, which purport to be direct quotations from his lost works. Ariston was a heterodox and influential figure within the early Stoa, known for his sharp divergence from the school&#x27;s founder, Zeno of Citium. He championed the radical view that ethics constituted the sole legitimate branch of philosophy, dismissing the study of physics and logic as irrelevant to the pursuit of wisdom. His most famous doctrine asserted a strict dichotomy between virtue and vice, classifying everything else—including health, wealth, reputation, and even life and death—as utterly indifferent and of equal value. This extreme ethical rigorism, which sought to purify Stoicism by focusing exclusively on moral character, provoked considerable debate and criticism both within and outside the Stoic community. The standard structure and numbering of the collection follow established philological practices for reconstructing the ideas of lost authors from scattered and often polemical sources, providing the essential foundation for all modern study of Ariston&#x27;s philosophy.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "witness",
+      "reference": "333",
+      "text": "Ἀρίστων ὁ Χῖος ὁ Φάλανθος, ἐπικαλούμενος Σειρήν (secuntur placita). οὕτως δὲ φιλοσοφῶν καὶ ἐν Κυνοσάργει διαλεγόμενος ἴσχυσεν αἱρετιστὴς ἀκοῦσαι. Μιλτιάδης οὖν καὶ Δίφιλος Ἀριστώνειοι προσηγορεύοντο. ἦν δέ τις πειστικὸς καὶ ὄχλῳ πεποιημένος· ὅθεν ὁ Τίμων φησὶ περὶ αὐτοῦ· (fr. 61 W.) καί τις Ἀρίστωνος γενεὴν ἄπο αἱμύλου ἕλκων. παραβαλὼν δὲ Πολέμωνι, φησὶ Διοκλῆς ὁ Μάγνης, μετέθετο, Ζήνωνος ἀῤῥωστίᾳ μακρᾷ περιπεσόντος· Βιβλία δὲ αὐτοῦ φέρεται τάδε· Προτρεπτικῶν βʹ. περὶ τῶν Ζήνωνος δογμάτων· διάλογοι· σχολῶν ϛʹ· περὶ σοφίας διατριβῶν ζʹ· ἐρωτικαὶ διατριβαί· ὑπομνήματα ὑπὲρ κενοδοξίας· ὑπομνημάτων κεʹ· ἀπομνημονευμάτων γʹ· χρειῶν ιαʹ· πρὸς τοὺς ῥήτορας· πρὸς τὰς Ἀλεξίνου ἀντιγραφάς· πρὸς τοὺς διαλεκτικούς γʹ· πρὸς Κλεάνθην· ἐπιστολῶν δʹ. Παναίτιος δὲ καὶ Σωσικράτης μόνας αὐτοῦ τὰς ἐπιστολάς φασι, τὰ δὲ ἄλλα τοῦ Περιπατητικοῦ Ἀρίστωνος. τοῦτον λόγος φαλακρὸν ὄντα ἐγκαυθῆναι ὑπὸ ἡλίου καὶ ὧδε τελευτῆσαι.",
+      "witness_prefix": "Diogenes Laërt. VII 160.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "334",
+      "text": "ἐκφανέντος δὲ ἐν φιλοσοφίᾳ καὶ ἐκλάμψαντος τοῦ ἀληθοῦς, ἀναιμωτὶ πάντες ἀπολαύουσιν οἱ συλλαβόμενοι τοῦ ἔργου. διὰ τοῦτο ἠσπάζετο Ἀρίστων Κλεάνθην καὶ τῶν ὁμιλητῶν ἐκοινώνει.",
+      "witness_prefix": "Themistius or. 21 p. 255 Hard.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "335",
+      "text": "(πε)ρί γε μὴν Ἀρίστων ( ος τ ο )ῦ Χίου παραμ ... etc. col. XXXIV. τῆς τραγῳδ(ίας ἡ) μ(ὲν ἀν) δρωνῖτις τῆς γρα(φῆς)· τῷ νῷ δὲ ἁρμοσ(τὸ)ν ἓν μόν(ο)ν κα(ὶ) το(ι)οῦ τό τι λε(χθ)ὲν οὐ μ(όνο)ν ἴσω(ς) ὑφ’ (ἡ)μῶν δ ...",
+      "witness_prefix": "Ind. Stoic. Herc. col. XXXIII 4.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "336",
+      "text": "συνενέπνει μετ(ὰ) τῶν λόγων μένος τι κα(ὶ θυ)μόν, ὥσπερ φησὶν ὁ (π)οιητὴς τὴ(ν) Ἀθηνᾶν, ὥσθ’ ἕκας τον καθ(ά)περ ... (ἐν) μέθαις .......... μετεπι ...",
+      "witness_prefix": "Ind. Stoic. Herc. col. XXXV.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "337",
+      "text": "Σάτυρος ὁ αὐλητὴς Ἀρίστωνος τοῦ φιλοσόφου πολλάκις ἠκροᾶτο καὶ κηλούμενος ἐκ τῶν λεγομένων ἐπέλεγεν· (E 215) εἰ μὴ ἐγὼ τάδε τόξα φαεινῷ ἐν πυρὶ θείην, τοὺς αὐλοὺς αἰνιττόμενος καὶ τρόπον τινὰ τὴν τέχνην ἐκφαυλίζων παραβολῇ τῇ πρὸς φιλοσοφίαν.",
+      "witness_prefix": "Aelianus Var. Hist. III 33.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "338",
+      "text": "„ἐγένοντο γάρ, φησιν, ὡς οὐδέποτε, κατὰ τοῦτον τὸν καιρὸν ὑφ’ ἕνα περίβολον καὶ μίαν πόλιν οἱ κατ’ Ἀρίστωνα καὶ Ἀρκεσίλαον ἀνθήσαντες φιλόσοφοι.“—— ὁ δὲ Ἀρκεσίλαον καὶ Ἀρίστωνα τῶν καθ’ αὑτὸν ἀνθησάντων κορυφαίους τίθησιν.——ἐν αὐταῖς γὰρ ταῖς ἀποφάσεσι ταύταις ἱκανὴν ἀσθένειαν ἐμφαίνει τῆς ἑαυτοῦ γνώμης, ᾗ τοῦ Ζήνωνος τοῦ Κιτιέως γνώριμος γενόμενος Ἀθήνησι τῶν μὲν ἐκεῖνον διαδεξαμένων οὐδενὸς μέμνηται, τοὺς δ’ ἐκείνῳ διενεχθέντας καὶ ὧν διαδοχὴ οὐδεμία σώζεται, τούτους ἀνθῆσαί φησι κατὰ τὸν καιρὸν ἐκεῖνον.",
+      "witness_prefix": "Strabo I p. 15 (de Eratosthene).",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "339",
+      "text": "οὗτος (scil. Chrysippus) ὀνειδισθεὶς ὑπό τινος ὅτι οὐχὶ παρὰ Ἀρίστωνι μετὰ πολλῶν σχολάζοι· „εἰ τοῖς πολλοῖς, εἶπε, προσεῖχον, οὐκ ἂν ἐφιλοσόφησα.",
+      "witness_prefix": "Diogenes Laërt. VII 182.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "340",
+      "text": "Ἀρίστωνος δὲ τοῦ μαθητοῦ πολλὰ διαλεγομένου οὐκ εὐφυῶς, ἔνια δὲ καὶ προπετῶς καὶ θρασέως „ἀδύνατον, εἰπεῖν (τὸν Ζήνωνα), εἰ μή σε ὁ πατὴρ μεθύων ἐγέννησεν.“ ὅθεν αὐτὸν καὶ λάλον ἀπεκάλει, βραχυλόγος ὤν.",
+      "witness_prefix": "Diogenes Laërt. VII 18.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "341",
+      "text": "καὶ τῶν Στωϊκῶν δέ τινες συνεφήψαντο ταύτης τῆς ἡδονῆς· Ἐρατοσθένης γοῦν ὁ Κυρηναῖος μαθητὴς γενόμενος Ἀρίστωνος τοῦ Χίο υ, ὃς ἦν εἷς τῶν ἀπὸ τῆς Στοᾶς, ἐν τῷ ἐπιγραφομένῳ Ἀρίστωνι παρεμφαίνει τὸν διδάσκαλον ὡς ὕστερον ὁρμήσαντα ἐπὶ τρυφήν, λέγων ὧδε· „ἤδη δέ ποτε καὶ τοῦτον πεφώρακα τὸν τῆς ἡδονῆς καὶ ἀρετῆς μεσότοιχον διορύττοντα καὶ ἀναφαινόμενον παρὰ τῇ ἡδονῇ.",
+      "witness_prefix": "Athenaeus VII 281c.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "342",
+      "text": "Τίμων ὁ Φλιάσιος ἐν τῷ τρίτῳ τῶν σίλλων (fr. 64 W.) Ἀρίστωνά φησι τὸν Χῖο ν , Ζήνωνος δὲ τοῦ Κιτιέως γνώριμον, κόλακα γενέσθαι Περσαίου τοῦ φιλοσόφου, ὅτι ἦν ἑταῖρος· Ἀντιγόνου τοῦ βασιλέως.",
+      "witness_prefix": "Athenaeus VI 251b.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "343",
+      "text": "καὶ τῆς διαλεκτικῆς εἴχετο (ὁ Ἀρκεσίλαος) καὶ τῶν Ἐρετρικῶν ἥπτετο λόγων· ὅθεν καὶ ἐλέγετο ἐπ’ αὐτοῦ ὑπ’ Ἀρίστωνο ς · πρόσθε Πλάτων, ὄπιθεν Πύρρων, μέσσος Διόδωρος.",
+      "witness_prefix": "Diogenes Laërt. IV 33.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "344",
+      "text": "ἔνθεν καὶ τὸν Ἀρίστωνα εἰπεῖν περὶ αὐτοῦ· πρόσθε Πλάτων, ὄπιθεν Πύρρων, μέσσος Διόδωρος, διὰ τὸ προσχρῆσθαι τῇ διαλεκτικῇ τῇ κατὰ τὸν Διόδωρον, εἶναι δὲ ἄντικρυς Πλατωνικόν.",
+      "witness_prefix": "Sextus hypotyp. I 234.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "345",
+      "text": "(ὁ Ἀρκεσίλαος) φιλομειράκιός τε ἦν καὶ καταφερής· ὅθεν οἱ περὶ Ἀρίστωνα τὸν Χῖον Στωϊκοὶ ἐπεκάλουν αὐτῷ, φθορέα τῶν νέων καὶ κιναιδολόγον καὶ θρασὺν ἀποκαλοῦντες. καὶ γὰρ καὶ Δημητρίου τοῦ πλεύσαντος εἰς Κυρήνην ἐπὶ πλέον ἐρασθῆναι λέγεται καὶ Κλεοχάρους τοῦ Μυρλεανοῦ· ἐφ’ ᾧ καὶ πρὸς τοὺς κωμάσαντας εἶπεν, αὐτὸς μὲν θέλειν ἀνοῖξαι, ἐκεῖνον δὲ διακωλύειν. τούτου δὲ ἤρων καὶ Δημοχάρης ὁ Λάχητος καὶ Πυθοκλῆς ὁ τοῦ Βουγέλου· οὓς καταλαβὼν ὑπ’ ἀνεξικακίας παραχωρεῖν ἔφη. διὰ ταῦτα δὴ οὖν ἔδακνόν τε αὐτὸν οἱ προειρημένοι καὶ ἐπέσκωπτον ὡς φίλοχλον καὶ φιλόδοξον. μάλιστα δὲ ἐπετίθεντο αὐτῷ παρὰ Ἱερωνύμῳ τῷ Περιπατητικῷ, ὁπότε συνάγοι τοὺς φίλους ἐς τὴν Ἁλκυονέως τοῦ Ἀντιγόνου υἱοῦ ἡμέραν, εἰς ἣν ἱκανὰ χρήματα ἀπέστειλεν ὁ Ἀντίγονος πρὸς ἀπόλαυσιν. ἔνθα καὶ παραιτούμενος ἑκάστοτε τὰς ἐπικυλικείους ἐξηγήσεις πρὸς Ἀρίδηλον προτείνοντά τι θεώρημα καὶ ἀξιοῦντα εἰς αὐτὸ λέγειν εἶπεν· „ἀλλ’ αὐτὸ τοῦτο μάλιστα φιλοσοφίας ἴδιον, τὸ καιρὸν ἑκάστων ἐπίστασθαι.",
+      "witness_prefix": "Diogenes Laërt. IV 40.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "346",
+      "text": "ἀπετείνετο δὲ (ὁ Ἀρίστω ν) πρὸς Ἀρκεσίλαον, ὅτε θεασάμενος ταῦρον τερατώδη μήτραν ἔχοντα „οἴμοι, ἔφη, δέδοται Ἀρκεσιλάῳ ἐπιχείρημα κατὰ τῆς ἐναργείας.“ πρὸς δὲ τὸν φάμενον Ἀκαδημαϊκὸν οὐδὲν καταλαμβάνειν „ἆρ’ οὐδὲ τὸν πλησίον σου καθήμενον ὁρᾷς;“ εἶπεν· ἀρνησαμένου δὲ· „τίς ς’ ἐκτύφλωσεν, ἔφη, τίς ἀφείλετο λαμπάδος αὐγάς;",
+      "witness_prefix": "Diogenes Laërt. VII 162.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "347",
+      "text": "μάλιστα δὲ προσεῖχε (scil. Aristo) Στωικῷ δόγματι τῷ τὸν σοφὸν ἀδόξαστον εἶναι. πρὸς ὃ Περσαῖος ἐναντιούμενος διδύμων ἀδελφῶν τὸν ἕτερον ἐποίησεν αὐτῷ παρακαταθήκην δοῦναι, ἔπειτα τὸν ἕτερον ἀπολαβεῖν· καὶ οὕτως ἀπορούμενον διήλεγξεν.",
+      "witness_prefix": "Diogenes Laërt. VII 162.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "349",
+      "text": "(ὁ Ἀρίστιππος) τοὺς τῶν ἐγκυκλίων παιδευμάτων μετασχόντας, φιλοσοφίας δὲ ἀπολειφθέντας ὁμοίους ἔλεγεν εἶναι——τὸ δ’ ὅμοιον καὶ Ἀρίστω ν · τὸν γὰρ Ὀδυσσέα καταβάντα εἰς ᾅδου τοὺς μὲν νεκροὺς πάντας σχεδὸν ἑωρακέναι καὶ συντετυχηκέναι, τὴν δὲ βασίλισσαν αὐτὴν μὴ τεθεᾶσθαι.",
+      "witness_prefix": "Diogenes Laërt. II 79.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "350",
+      "text": "Ἐκ τῶν Ἀρίστωνος Ὁμοιωμάτων. Ἀρίστων ὁ Χῖος τοὺς περὶ τὰ ἐγκύκλια μαθήματα πονουμένους, ἀμελοῦντας δὲ φιλοσοφίας, ἔλεγεν ὁμοίους εἶναι τοῖς μνηστῆρσι τῆς Πηνελόπης, οἳ ἀποτυγχάνοντες ἐκείνης περὶ τὰς θεραπαίνας ἐγίνοντο. idem 4,110. ὁ αὐτὸς τοὺς πολλοὺς εἴκαζε τῷ Λαέρτῃ, ὅστις τῶν κατὰ τὸν ἀγρὸν ἐπιμελούμενος πάντων, ὀλιγώρως εἶχεν ἑαυτοῦ· καὶ γὰρ τούτους τῶν κτημάτων πλείστην ἐπιμέλειαν ποιουμένους περιορᾶν τὴν ψυχὴν ἑαυτῶν πλήρη παθῶν ἀγρίων οὖσαν. (Od. ω",
+      "witness_prefix": "Stobaeus Florilegium 4, 109 Vol. I p. 246 Hense (4, 110 Mein.).",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "351",
+      "text": "Ἀρίστων ὁ Χῖος—τέλος ἔφησεν εἶναι τὸ ἀδιαφόρως ἔχοντα ζῆν πρὸς τὰ μεταξὺ ἀρετῆς καὶ κακίας, μηδὲ ἡντινοῦν ἐν αὐτοῖς παραλλαγὴν ἀπολείποντα, ἀλλ’ ἐπίσης ἐπὶ πάντων ἔχοντα· εἶναι γὰρ ὅμοιον τὸν σοφὸν τῷ ἀγαθῷ ὑποκριτῇ, ὃς ἄν τε Θερσίτου ἄν τε Ἀγαμέμνονος πρόσωπον ἀναλάβῃ, ἑκάτερον ὑποκρίνεται προσηκόντως. τόν τε φυσικὸν τόπον καὶ τὸν λογικὸν ἀνῄρει, λέγων τὸν μὲν εἶναι ὑπὲρ ἡμᾶς, τὸν δ’ οὐδὲν πρὸς ἡμᾶς, μόνον δὲ τὸν ἠθικὸν εἶναι πρὸς ἡμᾶς. ἐοικέναι δὲ τοὺς διαλεκτικοὺς λόγους τοῖς ἀραχνίοις, ἃ καίτοι δοκοῦντα τεχνικόν τι ἐμφαίνειν, ἄχρηστά ἐστιν. ἀρετάς τε οὔτε πολλὰς εἰσῆγεν, ὡς ὁ Ζήνων, οὔτε μίαν πολλοῖς ὀνόμασι καλουμένην, ὡς οἱ Μεγαρικοί, ἀλλὰ κατὰ τὸ πρός τί πως ἔχειν.",
+      "witness_prefix": "Diogenes Laërt. VII 160.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "352",
+      "text": "Ἀρίστωνο ς · Ἀρίστων ἔφη τῶν ζητουμένων παρὰ τοῖς φιλοσόφοις τὰ μὲν εἶναι πρὸς ἡμᾶς, τὰ δὲ μηδὲν πρὸς ἡμᾶς, τὰ δ’ ὑπὲρ ἡμᾶς. πρὸς ἡμᾶς μὲν τὰ ἠθικά, μὴ πρὸς ἡμᾶς δὲ τὰ διαλεκτικά (μὴ γὰρ συμβάλλεσθαι πρὸς ἐπανόρθωσιν βίου)· ὑπὲρ ἡμᾶς δὲ τὰ φυσικά· ἀδύνατα γὰρ ἐγνῶσθαι καὶ οὐδὲ παρέχειν χρείαν.",
+      "witness_prefix": "Stobaeus ecl. II 8, 13 W.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "353",
+      "text": "ταῦτα μὲν οὖν ὁ Σωκράτης· μετὰ δὲ αὐτὸν οἱ περὶ Ἀρίστιππον τὸν Κυρηναῖον, ἔπειθ’ ὕστερον οἱ περὶ Ἀρίστωνα τὸν Χῖον ἐπεχείρησαν λέγειν ὡς δέοι μόνα τὰ ἠθικὰ φιλοσοφεῖν· εἶναι γὰρ δὴ ταῦτα μὲν δυνατὰ καὶ ὠφέλιμα· τοὺς μέντοι περὶ τῆς φύσεως λόγους πᾶν τοὐναντίον μήτε καταληπτοὺς εἶναι μήτ’, εἰ καὶ ὀφθεῖεν, ὄφελος ἔχειν τι. μηδὲν γὰρ ἡμῖν ἔσεσθαι πλέον, ἀλλ’ οὐδ’ εἰ μετεωρότεροι τοῦ Περσέως ἀρθέντες (frg. trag. adesp. 131 N) ὑπέρ τε πόντου χεῦμ’ ὑπέρ τε πλειάδα αὐτοῖς τοῖς ὄμμασι κατίδοιμεν τὸν πάντα κόσμον καὶ τὴν τῶν ὄντων φύσιν ἥτις δήποτέ ἐστιν. οὐ γὰρ δὴ διά γε τοῦτο φρονιμωτέρους ἢ δικαιοτέρους ἢ ἀνδρειοτέρους ἢ σωφρονεστέρους ἡμᾶς ἔσεσθαι, καὶ μὴν οὐδὲ ἰσχυροὺς ἢ καλοὺς ἢ πλουσίους, ὧν χωρὶς οὐχ οἷόν τε εὐδαιμονεῖν. ὅθεν ὀρθῶς εἶπε Σωκράτης ὅτι τῶν ὄντων τὰ μὲν ὑπὲρ ἡμᾶς εἴη, τὰ δὲ οὐδὲν πρὸς ἡμᾶς. εἶναι γὰρ τὰ φυσικὰ μὲν ὑπὲρ ἡμᾶς, τὰ δὲ μετὰ τὸν θάνατον οὐδὲν πρὸς ἡμᾶς, μόνα δὲ πρὸς ἡμᾶς τὰ ἀνθρώπινα. ταύτῃ δὲ καὶ χαίρειν αὐτὸν εἰπόντα τῇ Ἀναξαγόρου καὶ Ἀρχελάου φυσιολογίᾳ ζητεῖν ὅττι οἱ ἐν μεγάροισι κακόν τ’ ἀγαθόν τε τέτυκται. Καὶ ἄλλως δὲ εἶναι τοὺς φυσικοὺς λόγους οὐ χαλεποὺς οὐδὲ ἀδυνάτους μόνον, ἀλλὰ καὶ ἀσεβεῖς καὶ τοῖς νόμοις ὑπεναντίους. τοὺς μὲν γὰρ ἀξιοῦν μηδ’ εἶναι θεοὺς τὸ παράπαν, τοὺς δὲ τὸ ἄπειρον ἢ τὸ ὂν ἢ τὸ ἕν, καὶ πάντα μᾶλλον ἢ τοὺς νομιζομένους· τήν τ’ αὖ διαφωνίαν παμπόλλην οὖσαν· τοὺς μὲν γὰρ ἄπειρον ἀποφαίνειν τὸ πᾶν, τοὺς δὲ πεπερασμένον, καὶ τοὺς μὲν ἀξιοῦν ἅπαντα κινεῖσθαι, τοὺς δὲ καθάπαξ μηδέν.",
+      "witness_prefix": "Eusebius praep. evang. XV 62, 7 (p. 854c).",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "354",
+      "text": "ἀρέσκει οὖν αὐτοῖς (scil. τοῖς Κυνικοῖς) τὸν λογικὸν καὶ τὸν φυσικὸν τόπον περιαιρεῖν, ἐμφερῶς Ἀρίστωνι τῷ Χί ῳ, μόνῳ δὲ προσέχειν τῷ ἠθικῷ.",
+      "witness_prefix": "Diogenes Laërt. VI 103.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "356",
+      "text": "καὶ Ἀρίστων δὲ ὁ Χῖος οὐ μόνον, ὥς φασι, παρῃτεῖτο τήν τε φυσικὴν καὶ λογικὴν θεωρίαν διὰ τὸ ἀνωφελὲς καὶ πρὸς κακοῦ τοῖς φιλοσοφοῦσιν ὑπάρχειν, ἀλλὰ καὶ τοῦ ἠθικοῦ τόπους τινὰς συμπεριέγραφεν, καθάπερ τόν τε παραινετικὸν καὶ τὸν ὑποθετικὸν τόπον· τούτους γὰρ εἰς τίτθας ἂν καὶ παιδαγωγοὺς πίπτειν, ἀρκεῖν δὲ πρὸς τὸ μακαρίως βιῶναι τὸν οἰκειοῦντα μὲν πρὸς ἀρετὴν λόγον, ἀπαλλοτριοῦντα δὲ κακίας, κατατρέχοντα δὲ τῶν μεταξὺ τούτων, περὶ ἃ οἱ πολλοὶ πτοηθέντες κακοδαιμονοῦσιν.",
+      "witness_prefix": "Sextus adv. math. VII 12.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "360",
+      "text": "τί δή σοι Ἀρίστωνα καταλέγοιμι; τέλος οὗτος εἶναι τὴν ἀδιαφορίαν ἔφη· τὸ δὲ ἀδιάφορον ἁπλῶς ἀδιάφορον ἀπολείπει.",
+      "witness_prefix": "Clemens Alex. Stromat. II p. 179 Sylb., Vol. I p. 497 Pott.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "361",
+      "text": "μὴ εἶναι δὲ προηγμένον ἀδιάφορον τὴν ὑγείαν καὶ πᾶν τὸ κατ’ αὐτὴν παραπλήσιον ἔφησεν Ἀρίστων ὁ Χῖο ς . ἴσον γάρ ἐστι τὸ προηγμένον αὐτὴν λέγειν ἀδιάφορον τῷ ἀγαθὸν ἀξιοῦν, καὶ σχεδὸν ὀνόματι μόνον διαφέρον. καθόλου γὰρ τὰ μεταξὺ ἀρετῆς καὶ κακίας ἀδιάφορα μὴ ἔχειν μηδεμίαν παραλλαγήν, μηδὲ τινὰ μὲν εἶναι φύσει προηγμένα, τινὰ δὲ ἀποπροηγμένα, ἀλλὰ παρὰ τὰς διαφόρους τῶν καιρῶν περιστάσεις μήτε τὰ λεγόμενα προῆχθαι πάντως γίνεσθαι προηγμένα, μήτε τὰ λεγόμενα ἀποπροῆχθαι κατ’ ἀνάγκην ὑπάρχειν ἀποπροηγμένα. ἐὰν γοῦν δέῃ τοὺς μὲν ὑγιαίνοντας ὑπηρετεῖν τῷ τυράννῳ καὶ διὰ τοῦτο ἀναιρεῖσθαι, τοὺς δὲ νοσοῦντας ἀπολυομένους τῆς ὑπηρεσίας συναπολύεσθαι καὶ τῆς ἀναιρέσεως, ἕλοιτ’ ἂν μᾶλλον ὁ σοφὸς τὸ νοσεῖν κατὰ τοῦτον τὸν καιρὸν ἢ [ὅτι] τὸ ὑγιαίνειν. καὶ ταύτῃ οὔτε ἡ ὑγεία προηγμένον ἐστὶ πάντως οὔτε ἡ νόσος ἀποπροηγμένον. ὥσπερ οὖν ἐν ταῖς ὀνοματογραφίαις ἄλλοτ’ ἄλλα προτάττομεν στοιχεῖα, πρὸς τὰς διαφόρους περιστάσεις ἀρτιζόμενοι, καὶ τὸ μὲν δέλτα ὅτε τὸ τοῦ Δίωνος ὄνομα γράφομεν, τὸ δὲ ἰῶτα ὅτε τὸ τοῦ Ἴωνος, τὸ δὲ ὦ ὅτε τὸ τοῦ Ὠρίωνος, οὐ τῇ φύσει ἑτέρων παρὰ τὰ ἕτερα γράμματα προκρινομένων, τῶν δὲ καιρῶν τοῦτο ποιεῖν ἀναγκαζόντων, οὕτω κἀν τοῖς μεταξὺ ἀρετῆς καὶ κακίας πράγμασιν οὐ φυσική τις γίνεται ἑτέρων παρ’ ἕτερα πρόκρισις, κατὰ περίστασιν δὲ μᾶλλον.",
+      "witness_prefix": "Sextus adv. math. XI 63.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "370",
+      "text": "ὅθεν, ὡς ἔλεγεν Ἀρίστω ν, πρὸς ὅλον τὸ τετράχορδον, ἡδονὴν λύπην φόβον ἐπιθυμίαν, πολλῆς δεῖ τῆς ἀσκήσεως καὶ μάχης.",
+      "witness_prefix": "Clemens Alex. Stromat. II 20 p. 195 Sylb., Vol. I p. 486 Pott.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "371",
+      "text": "οἷόν ἐστιν ἡ νῦν σοι παροῦσα μετάστασις ἐκ τῆς νομιζομένης πατρίδος. φύσει γὰρ οὐκ ἔστι πατρίς, ὥσπερ οὐδ’ οἶκος οὐδ’ ἀγρὸς οὐδὲ χαλκεῖον, ὡς Ἀρίστων ἔλεγεν, οὐδ’ ἰατρεῖον· ἀλλὰ γίγνεται, μᾶλλον δ’ ὀνομάζεται καὶ καλεῖται τούτων ἕκαστον ἀεὶ πρὸς τὸν οἰκοῦντα καὶ χρώμενον.",
+      "witness_prefix": "Plutarchus de exilio 5 p. 600e.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "373",
+      "text": "Χρύσιππος Ἀρίστωνι μὲν ἐγκαλῶν ὅτι μιᾶς ἀρετῆς σχέσεις ἔλεγε τὰς ἄλλας εἶναι.",
+      "witness_prefix": "Plutarchus de Stoic. repugn. 8 p. 1034d.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "374",
+      "text": "νομίσας γοῦν ὁ Ἀρίστων μίαν εἶναι τῆς ψυχῆς δύναμιν, ᾗ λογιζόμεθα, καὶ τὴν ἀρετὴν τῆς ψυχῆς ἔθετο μίαν, ἐπιστήμην ἀγαθῶν καὶ κακῶν. ὅταν μὲν οὖν αἱρεῖσθαί τε δέῃ τἀγαθὰ καὶ φεύγειν τὰ κακά, τὴν ἐπιστήμην τήνδε καλεῖ σωφροσύνην· ὅταν δὲ πράττειν μὲν τἀγαθά, μὴ πράττειν δὲ τὰ κακά, φρόνησιν· ἀνδρείαν δὲ ὅταν τὰ μὲν θαῤῥῇ, τὰ δὲ φεύγῃ. ὅταν δὲ τὸ κατὰ ἀξίαν ἑκάστῳ νέμῃ, δικαιοσύνην. ἑνὶ δὲ λόγῳ γινώσκουσα μὲν ἡ ψυχὴ χωρὶς τοῦ πράττειν τἀγαθά τε καὶ κακὰ σοφία τέ ἐστι καὶ ἐπιστήμη, πρὸς δὲ τὰς πράξεις ἀφικνουμένη τὰς κατὰ τὸν βίον ὀνόματα πλείω λαμβάνει τὰ προειρημένα, φρόνησίς τε καὶ σωφροσύνη καὶ δικαιοσύνη καὶ ἀνδρεία καλουμένη. τοιαύτη μέν τις ἡ Ἀρίστωνος δόξα περὶ τῶν τῆς ψυχῆς ἀρετῶν.",
+      "witness_prefix": "Galenus de Hipp. et Plat. decr. VII 2 (208. 591 M.).",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "375",
+      "text": "Ἀρίστων δ ’ ὁ Χῖος τῇ μὲν οὐσίᾳ μίαν καὶ αὐτὸς ἀρετὴν ἐποίει καὶ ὑγίειαν ὠνόμαζε· τῷ δὲ πρὸς τί πως διαφόρους καὶ πλείονας, ὡς εἴ τις ἐθέλοι τὴν ὅρασιν ἡμῶν λευκῶν μὲν ἀντιλαμβανομένην λευκοθέαν καλεῖν, μελάνων δὲ μελανθέαν ἤ τι τοιοῦτον ἕτερον. καὶ γὰρ ἡ ἀρετὴ ποιητέα μὲν ἐπισκοποῦσα καὶ μὴ ποιητέα κέκληται φρόνησις, ἐπιθυμίαν δὲ κοσμοῦσα καὶ τὸ μέτριον καὶ τὸ εὔκαιρον ἐν ἡδοναῖς ὁρίζουσα σωφροσύνη, κοινωνήμασι δὲ καὶ συμβολαίοις ὁμιλοῦσα τοῖς πρὸς ἑτέρους δικαιοσύνη· καθάπερ τὸ μαχαίριον ἓν μέν ἐστιν, ἄλλοτε δ’ ἄλλο διαιρεῖ, καὶ τὸ πῦρ ἐνεργεῖ περὶ ὕλας διαφόρους μιᾷ φύσει χρώμενον.",
+      "witness_prefix": "Plutarchus de virtute morali 2 p. 44of.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "376",
+      "text": "Εἰ γοῦν σκοποῖμεν, μία κατὰ δύναμίν ἐστιν ἡ ἀρετή· ταύτην δὲ συμβέβηκεν τούτοις μὲν τοῖς πράγμασιν ἐγγενομένην λέγεσθαι φρόνησιν· ἐν τούτοις δὲ σωφροσύνην· ἐν τούτοις δὲ ἀνδρείαν ἢ δικαιοσύνην.——τοῦτον φαμὲν τὸν τρόπον μιᾶς καὶ τῆς αὐτῆς δραχμῆς τῷ μὲν ναυκλήρῳ δοθείσης λέγεσθαι ναῦλον· τῷ δὲ τελώνῃ τέλος· καὶ ἐνοίκιον μὲν τῷ σταθμούχῳ· μισθὸν δὲ τῷ διδασκάλῳ· καὶ τῷ πιπράσκοντι ἀῤῥαβῶνα. Ἑκάστη δὲ —ἀρετὴ—συνωνύμως καλουμένη μόνον τοῦ καθ’ ἑαυτὴν ἀποτελέσματός ἐστιν αἰτία· κατὰ σύγχρησιν δὲ τούτων γίγνεται τὸ εὐδαιμόνως ζῆν· μὴ γὰρ δὴ εὐδαιμονῶμεν πρὸς τὰ ὀνόματα, ὅταν τὸν ὀρθὸν βίον εὐδαιμονίαν λέγωμεν καὶ εὐδαίμονα τὸν κεκοσμημένον τὴν ψυχὴν ἐναρέτως.",
+      "witness_prefix": "Clemens Al. Strom. I p. 376 Pott.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "377",
+      "text": "τὰς τῆς ψυχῆς δυνάμεις ὑπογράψαι πρόκειται· καὶ πρότερόν γε ἐπεξελθὼν τῇ ἱστορίᾳ τῇ τε παρὰ τοῖς παλαιοῖς καὶ τῇ ὕστερον ἐπικριθείσῃ παρὰ τοῖς διδασκάλοις, Ἀρίστων ἀντιληπτικὴν δύναμιν τῆς ψυχῆς θέμενος ταύτην διαιρεῖ εἰς δύο, τὸ μέν τι μέρος φάσκων μετά τινος τῶν αἰσθητηρίων ὡς τὰ πολλὰ κινεῖσθαι, ὃ αἰσθητικὸν καλεῖ, ἀρχὴν καὶ πηγὴν ὑπάρχον τῶν κατὰ μέρος αἰσθήσεων, τὸ δὲ ἀεὶ καθ’ ἑαυτὸ καὶ χωρὶς ὀργάνων, ὃ ἐπὶ μὲν τῶν ἀλόγων οὐκ ὠνομάσθαι (ἢ γὰρ ὅλως οὐκ εἶναι ἐν αὐτοῖς ἢ τελέως ἀσθενὲς καὶ ἀμυδρὸν ἄγαν), ἐν δὲ τοῖς λογικοῖς, ἐν οἷς δὴ μάλιστα 〈ἢ〉 μόνοις φαίνεται, νοῦν προσαγορεύεσθαι.",
+      "witness_prefix": "Porphyrius de animae facultatibus apud Stobaeum ecl. I p. 347, 21 W.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "379",
+      "text": "περὶ τῆς κοινωνίας τῆς πρὸς τοὺς θεοὺς τῶν ψυχῶν γέγονέ τις διαμφισβήτησις, τῶν μὲν λεγόντων ἀδύνατον μίγνυσθαι θεοὺς ταῖς κατεχομέναις ψυχαῖς ἐν τῷ σώματι, τῶν δὲ διατεινομένων μίαν εἶναι κοινὴν πολιτείαν τῶν καθαρῶν ψυχῶν πρὸς τοὺς θεοὺς καὶ εἰ ὅτι μάλιστα ἐν τοῖς σώμασι διατρίβουσι ν· οἳ δὲ μόνοις δαίμοσιν ἢ καὶ ἥρωσιν ὑποτιθέασιν αὐτὴν εἰς κοινὴν συνουσίαν· 〈ὧν〉 ἄλλοι μὲν οἱ βελτίονες, κρινόμενοι κατὰ Πλάτωνα καθάρσει καὶ ἀναγωγῇ καὶ τελειώσει τῆς ψυχῆς, ἄλλοι δὲ οἱ χείρονες, τοῖς ἐναντίοις τούτων διαστελλόμενοι· κατὰ δὲ τοὺς Στωϊκοὺς τῇ κοινωνίᾳ καὶ τῷ καλῷ τῷ τῆς φύσεως ἐξηρτημένῳ· κατὰ δὲ τοὺς Περιπατητικοὺς τῇ κατὰ φύσιν τε συμμετρίᾳ καὶ τῇ ὑπὲρ τὴν ἀνθρωπίνην φύσιν νοερᾷ ζωῇ προτιμώμενοι· κατὰ δὲ Ἥριλλον ἐπιστήμῃ· κατὰ δὲ Ἀρίστωνα ἀδιαφορίᾳ· κατὰ δὲ Δημόκριτον εὐσχημοσύνῃ· κατὰ δὲ τοὺς ἄλλους μέρει τινὶ τοῦ καλοῦ· ἢ τῇ ἀοχλησίᾳ καθ’ Ἱερώνυμον· ἢ ἄλλοις τισὶ τρόποις διαγωγῆς τὸ αἱρετὸν ἔχοντες, ἀφ’ ὧν οἱ κατὰ μέρος φύονται βίοι ἄπειροι περὶ τὴν γένεσιν διαιρούμενοι",
+      "witness_prefix": "Jamblichus de anima apud Stobaeum ecl. II 382, 18 W.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "380",
+      "text": "τὸ δὲ φάρμακον Ἀρίστων μὲν ἐκ τοῦ καλάμου λαβεῖν φησιν αὐτόν, ὡς εἴρηται.",
+      "witness_prefix": "Plutarchus vita Demosthenis 30.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "381",
+      "text": "Ἀρίστων δ’ ὁ Χῖος καὶ Θεοφράστου τινὰ δόξαν ἱστόρηκε περὶ τῶν ῥητόρων. ἐρωτηθέντα γάρ, ὁποῖός τις αὐτῷ φαίνεται ῥήτωρ ὁ Δημοσθένης, εἰπεῖν· „ἄξιος τῆς πόλεως, “ ὁποῖος δὲ Δημάδης· „ὑπὲρ τὴν πόλιν.“ Ὁ δ’ αὐτὸς φιλόσοφος Πολύευκτον ἱστορεῖ τὸν Σφήττιον, ἕνα τῶν τότε πολιτευομένων Ἀθήνησιν, ἀποφαίνεσθαι, μέγιστον μὲν εἶναι ῥήτορα Δημοσθένην, δυνατώτατον δὲ εἰπεῖν Φωκίωνα· πλεῖστον γὰρ ἐν βραχυτάτῃ λέξει νοῦν ἐκφέρειν.",
+      "witness_prefix": "Plutarchus vita Demosthenis 10.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "382",
+      "text": "καὶ Ἀρίστων μὲν ὁ Χῖος ἐπὶ τῷ πᾶσι διαλέγεσθαι τοῖς βουλομένοις ὑπὸ τῶν σοφιστῶν κακῶς ἀκούων· „ὤφελεν, εἶπε, καὶ τὰ θηρία λόγων συνιέναι κινητικῶν πρὸς ἀρετήν.",
+      "witness_prefix": "Plutarchus ὅτι μάλιστα τοῖς ἡγεμόσι δεῖ τὸν φιλόσοφον διαλέγεσθαι 1 p. 776c.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "383",
+      "text": "Ἐκ τῶν Ἀρίστωνος Ὁμοιωμάτων. Ὅμοιον ἀψινθίου τὸ δριμὺ καὶ λόγου παῤῥησίαν ἐκκόψαι.",
+      "witness_prefix": "Stobaeus Florileg. 13, 40 Vol. I p. 462 Hense (13, 22 Mein.).",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "384",
+      "text": "Ἐκ τῶν Ἀρίστωνος Ὁμοιωμάτων. Φήσαντός τινος „λίαν μοι ἐπισκώπτεισ“ ἔφη „καὶ γὰρ τοῖς σπληνικοῖς τὰ μὲν δριμέα καὶ πικρὰ ὠφέλιμα, τὰ δὲ γλυκέα βλαβερά.",
+      "witness_prefix": "Stobaeus Florileg. 13, 57 Vol. I p. 465 Hense (13, 39 Mein.).",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "385",
+      "text": "οὔτε γὰρ βαλανείου, φησὶν ὁ Ἀρίστω ν, οὔτε λόγου μὴ καθαίροντος ὄφελός ἐστιν.",
+      "witness_prefix": "Plutarchus de recta ratione audiendi 8 p. 42b.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "386",
+      "text": "Οἱ ἄρτι ἐκ φιλοσοφίας, πάντας ἐλέγχοντες καὶ ἀπὸ τῶν γονέων ἀρχόμενοι, πάσχουσιν ὅπερ καὶ οἱ νεώνητοι κύνες, οἳ οὐ μόνον τοὺς ἄλλους ὑλακτοῦσιν, ἀλλὰ καὶ τοὺς ἔνδον.",
+      "witness_prefix": "Stobaeus Florileg. 79, 44 Mein. Ἐκ τῶν Ἀρίστωνος Ὁμοιωμάτων.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "387",
+      "text": "Τὸ κύμινον, φασί, δεῖ σπείρειν βλασφημοῦντας, οὕτω γὰρ καλὸν φύεσθαι· καὶ τοὺς νέους χρὴ παιδεύειν ἐπισκώπτοντας, οὕτω γὰρ χρήσιμοι ἔσονται.",
+      "witness_prefix": "Stobaeus ecl. II p. 215, 20 W. Ἐκ τῶν Ἀρίστωνος Ὁμοιωμάτων.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "389",
+      "text": "ἀλειπτῶν δὲ φωνὰς καὶ παιδοτριβῶν λόγους, ἑκάστοτε λεγόντων ὡς τὸ παρὰ δεῖπνον φιλολογεῖν τὴν τροφὴν διαφθείρει καὶ βαρύνει τὴν κεφαλήν, τότε φοβητέον, ὅταν τὸν Ἰνδὸν ἀναλύειν ἢ διαλέγεσθαι περὶ τοῦ Κυριεύοντος ἐν δείπνῳ μέλλωμεν.——ἂν δ’ ἡμᾶς μὴ ἄλλο τι ζητεῖν ἢ φιλοσοφεῖν ἢ ἀναγιγνώσκειν παρὰ δεῖπνον ἐῶσι τῶν ἐν τῷ καλῷ καὶ ὠφελίμῳ τὸ ἐπαγωγὸν ὑφ’ ἡδονῆς καὶ γλυκὺ μόριον ἐχόντων, κελεύσομεν αὐτοὺς μὴ ἐνοχλεῖν, ἀλλ’ ἀπιόντας ἐν τῷ ξυστῷ ταῦτα καὶ ταῖς παλαίστραις διαλέγεσθαι τοῖς ἀθληταῖς, οὓς τῶν βιβλίων ἐξελόντες ἀεὶ διημερεύειν ἐν σκώμμασι καὶ βωμολοχίαις ἐθίζοντες, ὡς ὁ κομψὸς Ἀρίστων ἔλεγε, τοῖς ἐν γυμνασίῳ κίοσιν ὁμοίως λιπαροὺς πεποιήκασι καὶ λιθίνους.",
+      "witness_prefix": "Plutarchus de tuenda sanitate praecepta 20 p. 133c.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "390",
+      "text": "ὅταν ἦθος ἁγνὸν καὶ κόσμιον ἐν ὥρᾳ καὶ χάριτι μορφῆς διαφανὲς γένηται, καθάπερ ὄρθιον ὑπόδημα δείκνυσι ποδὸς εὐφυΐαν, ὡς Ἀρίστων ἔλεγεν.",
+      "witness_prefix": "Plutarchus Amatorius 21 p. 766f.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "391",
+      "text": "Ἀρίστων τοὺς λόγους τῶν διαλεκτικῶν εἴκαζεν τοῖς τῶν ἀραχνίων ὑφάσμασιν οὐδὲν μὲν χρησίμοις, λίαν δὲ τεχνικοῖς 〈οὖσι",
+      "witness_prefix": "Stobaeus ecl. II p. 24, 8 W. Ἀρίστωνος.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "392",
+      "text": "Ἐκ τῶν Ἀρίστωνος Ὁμοιωμάτων· οἱ ἐν διαλεκτικῇ βαθύνοντες ἐοίκασι καρκίνους μασωμένοις, οἳ δι’ ὀλίγον τρόφιμον περὶ πολλὰ ὀστᾶ ἀσχολοῦνται.",
+      "witness_prefix": "Stobaeus ecl. II p. 22, 22 W.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "393",
+      "text": "Ἀρίστων ἔλεγεν ἐοικέναι τὴν διαλεκτικὴν τῷ ἐν ταῖς ὁδοῖς πηλῷ· πρὸς οὐδὲν γὰρ οὐδ’ ἐκεῖνον χρήσιμον ὄντα καταβάλλειν τοὺς βαδίζοντας.",
+      "witness_prefix": "Stobaeus ecl. II p. 23, 15 W. Ἀρίστωνος.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "394",
+      "text": "ὁ ἑλλέβορος ὁλοσχερέστερος μὲν ληφθεὶς καθαίρει, εἰς δὲ πάνυ σμικρὰ τριφθεὶς πνίγει· οὕτω καὶ ἡ κατὰ φιλοσοφίαν λεπτολογία.",
+      "witness_prefix": "Stobaeus ecl. II 24, 12 W. Ἐκ τῶν Ἀρίστωνος Ὁμοιωμάτων.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "395",
+      "text": "Ἀρίστωνο ς· τὴν κακολογίαν ἡ ὀργὴ φαίνεται ἀπογεννῶσα· ὥστε ἡ μήτηρ οὐκ ἀστεία.",
+      "witness_prefix": "Stobaeus Florileg. 20, 69 (Vol. I p, 554 Hense).",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "396",
+      "text": "Κυβερνήτης μὲν οὔτε ἐν μεγάλῳ πλοίῳ οὔτε ἐν μικρῷ ναυτιάσει, οἱ δὲ ἄπειροι ἐν ἀμφοῖν· οὕτως ὁ μὲν πεπαιδευμένος καὶ ἐν πλούτῳ καὶ ἐν πενίᾳ οὐ ταράττεται, ὁ δ’ ἀπαίδευτος ἐν ἀμφοῖν.",
+      "witness_prefix": "Stobaeus ecl. II p. 218, 7 W. Ἐκ τῶν Ἀρίστωνος Ὁμοιωμάτων.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "397",
+      "text": "ὡς τὸν αὐτὸν οἶνον πίνοντες οἱ μὲν παροινοῦσιν, οἱ δὲ πραΰνονται, οὕτω καὶ πλοῦτον .....",
+      "witness_prefix": "Stobaeus Florileg. 94, 15 Mein. Ἐκ τῶν Ἀρίστωνος Ὁμοιωμάτων.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "398",
+      "text": "πλούτου γὰρ ἀφαίρεσιν οἱ πολλοὶ νομίζουσι τὴν κώλυσιν αὐτοῦ τῆς ἐπιδείξεως, ἐπιδείκνυσθαι δὲ τοῖς περιττοῖς, οὐ τοῖς ἀναγκαίοις. ὃ δὴ καὶ μάλιστά φασι τὸν φιλόσοφον Ἀρίστωνα θαυμάζειν, ὅτι τοὺς τὰ περιττὰ κεκτημένους μᾶλλον ἡγοῦνται μακαρίους ἢ τοὺς τῶν ἀναγκαίων καὶ χρησίμων εὐποροῦντας.",
+      "witness_prefix": "Plutarchus vita Catonis 18.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "399",
+      "text": "πολλοὶ σοφοὶ γηραιοὶ φιλοζωοῦσι. καὶ γὰρ οἱ ὀψὲ γήμαντες φιλοζωοῦσιν, ἵν’ ἐκθρέψωσι τὰ τέκνα, καὶ οὗτοι ὀψὲ ἀρετῆς ἐπήβολοι γενόμενοι ἐφίενται αὐτὴν ἐκθρέψαι.",
+      "witness_prefix": "Stobaeus Florileg. 119, 18 Mein. Ἐκ τῶν Ἀρίστωνος Ὁμοιωμάτων.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "400",
+      "text": "Ἐκ τῶν Ἀρίστωνο ς· Σπαρτιατῶν νόμος τάττει ζημίας τὴν μὲν πρώτην ἀγαμίου, τὴν δευτέραν ὀψιγαμίου, τὴν τρίτην καὶ μεγίστην κακογαμίου.",
+      "witness_prefix": "Stobaeus Florileg. 67, 16 (Mein.).",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "401",
+      "text": "καίτοι καὶ τῶν ἀνέμων μάλιστα δυσχεραίνομεν, ὡς Ἀρίστων φησίν, ὅσοι τὰς περιβολὰς ἀναστέλλουσιν ἡμῶν. ὁ δὲ πολυπράγμων οὐ τὰ ἱμάτια τῶν πέλας οὐδὲ τοὺς χιτῶνας, ἀλλὰ τοὺς τοίχους ἀπαμφιέννυσι, τὰς θύρας ἀναπετάννυσι",
+      "witness_prefix": "Plutarchus de curiositate 4 p. 516f.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "402",
+      "text": "οὔτε γὰρ πῦρ φησιν ὁ Ἀρίστων καπνὸν ποιεῖν οὔτε δόξαν φθόνον, ἢν εὐθὺς ἐκλάμψῃ καὶ ταχέως, ἀλλὰ τῶν κατὰ μικρὸν αὐξανομένων καὶ σχολαίως ἄλλον ἀλλαχόθεν ἐπιλαμβάνεσθαι.",
+      "witness_prefix": "Plutarchus πολιτικὰ παραγγέλματα 10 p. 804e.",
+      "speaker": null
+    },
+    {
+      "kind": "witness",
+      "reference": "403",
+      "text": "καὶ μὴν ὀλίγου χρόνου καὶ βίου τοῖς ἀνθρώποις δεδομένου ὁ μὲν Ἀρίστων φησὶν ὅτι ὁ ὕπνος οἷον τελώνης τὸ ἥμισυ ἀφαιρεῖ τούτου· ἐγὼ δ",
+      "witness_prefix": "Plutarchus aqua an ignis utilior 12 p. 958d.",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "hgw-aa",
+      "title": {
+        "english": "Aristotle's Natural Problems by Type",
+        "ancient_greek": "᾿Αριστοτέλους φυσικά προβλήματα κατ᾿ εἶδος"
+      },
+      "url_slug": "aristotle-natural-problems-hgw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/natural-problems",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-natural-problems-hgw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-natural-problems-hgw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-natural-problems-hgw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-natural-problems-hgw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/natural-problems.epub"
+      }
+    },
+    {
+      "eul_wid": "sys-aj",
+      "title": {
+        "english": "Dion",
+        "ancient_greek": "Δίων"
+      },
+      "url_slug": "synesius-of-cyrene-dion-sys-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/synesius-of-cyrene/dion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-dion-sys-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-dion-sys-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-dion-sys-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-dion-sys-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene/dion.epub"
+      }
+    },
+    {
+      "eul_wid": "eyw-ab",
+      "title": {
+        "english": "On Chance and Spontaneous Events",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "eurytus-the-pythagorean-chance-spontaneous-events-eyw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/eurytus-the-pythagorean/chance-spontaneous-events",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eurytus-the-pythagorean-chance-spontaneous-events-eyw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eurytus-the-pythagorean-chance-spontaneous-events-eyw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eurytus-the-pythagorean-chance-spontaneous-events-eyw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eurytus-the-pythagorean-chance-spontaneous-events-eyw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eurytus-the-pythagorean/chance-spontaneous-events.epub"
+      }
+    },
+    {
+      "eul_wid": "hki-aa",
+      "title": {
+        "english": "On Hunting with Mirrors",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "clearchus-of-soli-hunting-mirrors-hki-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/clearchus-of-soli/hunting-mirrors",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-of-soli-hunting-mirrors-hki-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-of-soli-hunting-mirrors-hki-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-of-soli-hunting-mirrors-hki-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-of-soli-hunting-mirrors-hki-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-of-soli/hunting-mirrors.epub"
+      }
+    },
+    {
+      "eul_wid": "udw-ae",
+      "title": {
+        "english": "On the Mysteries",
+        "ancient_greek": "Περὶ τῶν Μυστηρίων"
+      },
+      "url_slug": "iamblichus-of-chalcis-mysteries-udw-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/iamblichus-of-chalcis/mysteries",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-mysteries-udw-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-mysteries-udw-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-mysteries-udw-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-mysteries-udw-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis/mysteries.epub"
+      }
+    },
+    {
+      "eul_wid": "tfq-ac",
+      "title": {
+        "english": "Preface to Hermogenes' Book-Ideas",
+        "ancient_greek": "Περὶ ἰδεῶν"
+      },
+      "url_slug": "syrianus-of-athens-preface-hermogenes-tfq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/syrianus-of-athens/preface-hermogenes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-preface-hermogenes-tfq-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-preface-hermogenes-tfq-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-preface-hermogenes-tfq-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-preface-hermogenes-tfq-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens/preface-hermogenes.epub"
+      }
+    },
+    {
+      "eul_wid": "hcg-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "clinias-of-tarentum-testimonies-hcg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/clinias-of-tarentum/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum-testimonies-hcg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum-testimonies-hcg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum-testimonies-hcg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum-testimonies-hcg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum/testimonies.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-ev",
+      "title": {
+        "english": "Timoleon",
+        "ancient_greek": "Τιμολέων"
+      },
+      "url_slug": "plutarch-of-chaeronea-timoleon-okg-ev",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/timoleon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-timoleon-okg-ev.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-timoleon-okg-ev.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-timoleon-okg-ev.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-timoleon-okg-ev.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/timoleon.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/ariston-of-chios/testimonies",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ariston-of-chios-testimonies-jyw-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ariston-of-chios-testimonies-jyw-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ariston-of-chios-testimonies-jyw-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ariston-of-chios-testimonies-jyw-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ariston-of-chios/testimonies.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "nzw",
+  "auth_slug": "pseudo-longinus",
+  "name": {
+    "english": "Pseudo-Longinus",
+    "ancient_greek": "Ψευδο-Λογγῖνος"
+  },
+  "seo_h1": "Pseudo-Longinus and the Treatise On the Sublime",
+  "seo": {
+    "browser_title": "The Pseudo-Longinus Author on Eulogikon Greek Archive",
+    "meta_title": "Classical Pseudo-Longinus Ancient Greek Oratory and Works",
+    "meta_description": "Pseudo-Longinus, a Roman era author of Attic oratory. Surviving works include On the Sublime. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Pseudo-Longinus is the conventional name for the unknown author of the Greek treatise <strong>On the Sublime</strong>. Once erroneously attributed to the third-century critic Cassius Longinus, the work is now firmly dated to the first century CE. This dating is based on its engagement with the Augustan-era critic Caecilius of Calacte and its address to a Roman contemporary. The author was a highly educated Greek rhetorician writing under Roman rule, but no personal details of his life survive.</p>\n<p class=\"research-text\">His sole extant work is <strong>On the Sublime</strong>, an influential but incomplete treatise of literary criticism. It analyzes the sources of grandeur and powerful emotion in literature. The treatise’s significance lies in its shift from rhetorical technique to the psychology of literary effect, defining the &quot;sublime&quot; as that which elevates and transports the reader. Largely unknown until its rediscovery in the sixteenth century, it became a foundational text for neoclassical and Romantic aesthetics, influencing critics and philosophers from Boileau to Kant.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "nzw-aa",
+      "title": {
+        "english": "On the Sublime",
+        "ancient_greek": "Περὶ ὕψους"
+      },
+      "url_slug": "pseudo-longinus-sublime-nzw-aa",
+      "passages": 158,
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-longinus/sublime",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-longinus-sublime-nzw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-longinus-sublime-nzw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-longinus-sublime-nzw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-longinus-sublime-nzw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-longinus/sublime.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/pseudo-longinus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pseudo-longinus-nzw.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pseudo-longinus-nzw.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pseudo-longinus-nzw.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pseudo-longinus-nzw.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

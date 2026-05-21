@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "tme",
+  "auth_slug": "orion-of-thebes",
+  "name": {
+    "english": "Orion of Thebes",
+    "ancient_greek": "Ὤριον ὁ Θηβαῖος"
+  },
+  "seo_h1": "Orion of Thebes and the Etymologies",
+  "seo": {
+    "browser_title": "Orion of Thebes Grammarian on Eulogikon Greek Archive",
+    "meta_title": "The Orion of Thebes Ancient Greek Grammarian Works",
+    "meta_description": "Orion of Thebes was a 5th century CE grammarian from Egypt. His works include technical language texts. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Orion of Thebes was a grammarian and teacher active in the 5th century CE during the late Roman Empire. He was born in Thebes, Egypt, and taught in major intellectual centers, including Alexandria, Caesarea in Cappadocia, and Constantinople. His career is notably linked to the philosopher Proclus, who was one of his students in Alexandria.</p>\n<p class=\"research-text\">Orion worked primarily as a lexicographer, compiling and organizing Greek linguistic knowledge. His most important surviving work is the Etymologicum, a lexicon of word origins that has been preserved in an abridged form. He is also credited with a collection of poetic excerpts arranged alphabetically and a work on orthography, though the details of the latter are less clear. According to historical records, he wrote other grammatical treatises, including one on syntax and a commentary on the poet Epicharmus, but these are now lost.</p>\n<p class=\"research-text\">Modern scholars see Orion as a key figure in the tradition of late antique grammar, based in Alexandria. His primary significance lies in his role as a compiler. His Etymologicum served as an important source for later Byzantine scholars, most notably for the massive 10th-century encyclopedia known as the Suda. Through this transmission, his work helped preserve fragments of earlier Greek literature and scholarship. His career and his connection to Proclus illustrate the interconnected networks of teachers and students that sustained intellectual life in the Eastern Roman Empire.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 6,
+  "works": [
+    {
+      "eul_wid": "tme-af",
+      "title": {
+        "english": "Anthologion",
+        "ancient_greek": "Ἀνθολόγιον"
+      },
+      "url_slug": "orion-of-thebes-anthologion-tme-af",
+      "passages": 76,
+      "links": {
+        "html": "https://eulogikon.org/grc/orion-of-thebes/anthologion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-anthologion-tme-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-anthologion-tme-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-anthologion-tme-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-anthologion-tme-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/anthologion.epub"
+      }
+    },
+    {
+      "eul_wid": "tme-aa",
+      "title": {
+        "english": "Etymologies (Complete)",
+        "ancient_greek": "Ἐτυμολογικὸν Ἔργον"
+      },
+      "url_slug": "orion-of-thebes-etymology-aa-tme-aa",
+      "passages": 205,
+      "links": {
+        "html": "https://eulogikon.org/grc/orion-of-thebes/etymology-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymology-aa-tme-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymology-aa-tme-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymology-aa-tme-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymology-aa-tme-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/etymology-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "tme-ab",
+      "title": {
+        "english": "Etymologies (Selection A)",
+        "ancient_greek": "Ἐτυμολογικὸν Ἔργον"
+      },
+      "url_slug": "orion-of-thebes-etymology-ab-tme-ab",
+      "passages": 12,
+      "links": {
+        "html": "https://eulogikon.org/grc/orion-of-thebes/etymology-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymology-ab-tme-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymology-ab-tme-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymology-ab-tme-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymology-ab-tme-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/etymology-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "tme-ac",
+      "title": {
+        "english": "Etymologies (Selection B)",
+        "ancient_greek": "Ἐτυμολογικὸν Ἔργον"
+      },
+      "url_slug": "orion-of-thebes-etymology-ac-tme-ac",
+      "passages": 8,
+      "links": {
+        "html": "https://eulogikon.org/grc/orion-of-thebes/etymology-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymology-ac-tme-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymology-ac-tme-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymology-ac-tme-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymology-ac-tme-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/etymology-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "tme-ad",
+      "title": {
+        "english": "Etymologies (Selection C)",
+        "ancient_greek": "Ἐτυμολογικὸν Ἔργον"
+      },
+      "url_slug": "orion-of-thebes-etymological-ad-tme-ad",
+      "passages": 28,
+      "links": {
+        "html": "https://eulogikon.org/grc/orion-of-thebes/etymological-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymological-ad-tme-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymological-ad-tme-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymological-ad-tme-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymological-ad-tme-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/etymological-ad.epub"
+      }
+    },
+    {
+      "eul_wid": "tme-ae",
+      "title": {
+        "english": "Etymologies (Selection D)",
+        "ancient_greek": "Ἐτυμολογικὸν Ἔργον"
+      },
+      "url_slug": "orion-of-thebes-etymological-ae-tme-ae",
+      "passages": 126,
+      "links": {
+        "html": "https://eulogikon.org/grc/orion-of-thebes/etymological-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymological-ae-tme-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymological-ae-tme-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymological-ae-tme-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymological-ae-tme-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/etymological-ae.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/orion-of-thebes",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/orion-of-thebes-tme.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/orion-of-thebes-tme.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/orion-of-thebes-tme.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/orion-of-thebes-tme.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

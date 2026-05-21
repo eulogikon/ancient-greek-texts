@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "aws",
+  "auth_slug": "socrates-of-argos",
+  "name": {
+    "english": "Socrates of Argos",
+    "ancient_greek": "Σωκράτης ὁ Ἀργεῖος"
+  },
+  "seo_h1": "Socrates of Argos and the Argolic Histories",
+  "seo": {
+    "browser_title": "Socrates of Argos Ancient Works on Eulogikon Greek Archive",
+    "meta_title": "Classical Socrates of Argos Ancient Greek Historical Works",
+    "meta_description": "Socrates of Argos, a 5th century BCE Doric historian from the Argolid. Surviving historical prose. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Socrates of Argos was a 5th-century BCE Greek historian from Argos. No details of his personal life survive, and he is known only through later citations, where he is distinguished from Socrates of Athens by his ethnic designation.</p>\n<p class=\"research-text\">His sole known work is the lost local history Argolica or On Argos, a prose account in the Doric dialect concerning the myths, cults, and antiquities of the Argolid region. He is significant as an early example of a horographer, or writer of local chronicles.</p>\n<p class=\"research-text\">His Argolica is cited by authors like Plutarch for Argive traditions, representing the Doric strand of early historiography and contributing source material for later historians and mythographers.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "aws-aa",
+      "title": {
+        "english": "Argolic Histories and Genealogies",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "socrates-of-argos-histories-genealogies-aws-aa",
+      "passages": 15,
+      "links": {
+        "html": "https://eulogikon.org/grc/socrates-of-argos/histories-genealogies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-argos-histories-genealogies-aws-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-argos-histories-genealogies-aws-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-argos-histories-genealogies-aws-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-argos-histories-genealogies-aws-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-argos/histories-genealogies.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/socrates-of-argos",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/socrates-of-argos-aws.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/socrates-of-argos-aws.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/socrates-of-argos-aws.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/socrates-of-argos-aws.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

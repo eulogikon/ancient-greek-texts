@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "kzu-aa",
+  "eul_aid": "kzu",
+  "author_slug": "nicander-of-thyatira",
+  "work_slug": "demes-attica",
+  "url_slug": "nicander-of-thyatira-demes-attica-kzu-aa",
+  "author": {
+    "english": "Nicander of Thyatira",
+    "ancient_greek": "Νίκανδρος ὁ Θυατιρεύς"
+  },
+  "title": {
+    "english": "On the Demes of Attica",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "On the Demes of Attica by Nicander of Thyatira on Eulogikon",
+    "meta_title": "On the Demes of Attica by Nicander of Thyatira in Greek",
+    "meta_description": "A treatise on Attic demes by Nicander of Thyatira. Provides geographical administrative details. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The work <strong>On the Demes of Attica</strong> is a lost antiquarian treatise attributed to the Imperial-era grammarian Nicander of Thyatira. It survives only in fragments, preserved under the Greek title <strong>Apospasmata</strong>, or &quot;Extracts,&quot; which describes its current state. These fragments represent a scholarly effort within the Hellenistic and Roman grammatical tradition to catalog and explain the administrative districts of ancient Attica. The treatise addressed the topography and civic organization of Athenian demes, along with associated local histories, mythological foundations, and etymologies. It also included lexicographical notes on terms specific to the Attic dialect. The work is known exclusively through quotations in later lexicographical compilations, most notably the 6th-century CE <strong>Ethnica</strong> of Stephanus of Byzantium, with no independent manuscript tradition. Nicander’s fragments were utilized by later ancient scholars and compilers, contributing to the enduring study of Athenian topography and the deme system. The work remains a source for modern reconstructions of Attic local history and institutions.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-2",
+      "text": "ΠΕΡΙ ΤΩΝ ΔΗΜΩΝ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Harpocratio: Τιτακίδαι· δῆμός ἐστι τῆς Αἰαντίδος φυλῆς οἱ Τιτακίδαι, ὡς Νίκανδρος ὁ Θυατειρηνὸς ἐν τῷ Περὶ τῶν δήμων δηλοῖ. Μήποτε δὲ ἀπὸ Τιτάκου ὠνομάσθησαν, οὗ μνημονεύει Ἡρόδοτος Harpocratio: Θυργωνίδαι. Νίκανδρος ὁ Θυατει ρηνὸς ἐν τῷ περὶ τῶν δήμων, «Μετετέθησαν, φησὶν, ἐξ Αἰαντίδος Ἀφιδναῖοι, Περρίδαι, Τιτακίδαι, Θυργω νίδαι.»",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "vtu-ac",
+      "title": {
+        "english": "Anonymous Anti-Atticist",
+        "ancient_greek": "Ἀνώνυμος Ἀντιαττικιστής"
+      },
+      "url_slug": "lexicographical-anonymous-i-anti-atticist-vtu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/lexicographical-anonymous-i/anti-atticist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i-anti-atticist-vtu-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i-anti-atticist-vtu-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i-anti-atticist-vtu-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i-anti-atticist-vtu-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i/anti-atticist.epub"
+      }
+    },
+    {
+      "eul_wid": "vmw-aa",
+      "title": {
+        "english": "Narratives-Hymns I and II Ancient Scholia",
+        "ancient_greek": "Διηγήσεις εἰς Ὕμνους Α' καὶ Β' Ἀρχαῖα Σχόλια"
+      },
+      "url_slug": "callimachus-scholia-narratives-hymns-vmw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/narratives-hymns",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-narratives-hymns-vmw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-narratives-hymns-vmw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-narratives-hymns-vmw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-narratives-hymns-vmw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives-hymns.epub"
+      }
+    },
+    {
+      "eul_wid": "tqa-av",
+      "title": {
+        "english": "On Aeolis",
+        "ancient_greek": "Περὶ Αἰολίδος"
+      },
+      "url_slug": "anonymous-greek-grammarian-aeolis-tqa-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-greek-grammarian/aeolis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-aeolis-tqa-av.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-aeolis-tqa-av.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-aeolis-tqa-av.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-aeolis-tqa-av.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/aeolis.epub"
+      }
+    },
+    {
+      "eul_wid": "mia-ab",
+      "title": {
+        "english": "On Signs in the Iliad",
+        "ancient_greek": "Περὶ τῶν σημείων τῆς Ἰλιάδος"
+      },
+      "url_slug": "aristonicus-of-alexandria-signs-iliad-mia-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristonicus-of-alexandria/signs-iliad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria-signs-iliad-mia-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria-signs-iliad-mia-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria-signs-iliad-mia-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria-signs-iliad-mia-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria/signs-iliad.epub"
+      }
+    },
+    {
+      "eul_wid": "pdm-aa",
+      "title": {
+        "english": "Proverbs Epitome",
+        "ancient_greek": "Παροιμίαι"
+      },
+      "url_slug": "diogenianus-of-heraclea-proverbs-aa-pdm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenianus-of-heraclea/proverbs-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-of-heraclea-proverbs-aa-pdm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-of-heraclea-proverbs-aa-pdm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-of-heraclea-proverbs-aa-pdm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-of-heraclea-proverbs-aa-pdm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-of-heraclea/proverbs-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "tro-ad",
+      "title": {
+        "english": "Scholia-Aeschylus's Meters",
+        "ancient_greek": "Σχόλια εἰς τοὺς Μέτρους τοῦ Αἰσχύλου"
+      },
+      "url_slug": "aeschylus-scholia-meters-tro-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/meters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-meters-tro-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-meters-tro-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-meters-tro-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-meters-tro-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/meters.epub"
+      }
+    },
+    {
+      "eul_wid": "mlw-aw",
+      "title": {
+        "english": "Scholia-Wasps",
+        "ancient_greek": "Σχόλια εἰς Σφῆκας"
+      },
+      "url_slug": "aristophanes-scholia-wasps-mlw-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/wasps",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-wasps-mlw-aw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-wasps-mlw-aw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-wasps-mlw-aw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-wasps-mlw-aw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/wasps.epub"
+      }
+    },
+    {
+      "eul_wid": "uua-aa",
+      "title": {
+        "english": "Summary of Ethnica",
+        "ancient_greek": "Σύνοψις τῶν Ἐθνικῶν"
+      },
+      "url_slug": "stephen-of-byzantium-ethnica-summary-uua-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/stephen-of-byzantium/ethnica-summary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephen-of-byzantium-ethnica-summary-uua-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephen-of-byzantium-ethnica-summary-uua-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephen-of-byzantium-ethnica-summary-uua-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephen-of-byzantium-ethnica-summary-uua-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephen-of-byzantium/ethnica-summary.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/nicander-of-thyatira/demes-attica",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-thyatira-demes-attica-kzu-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-thyatira-demes-attica-kzu-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-thyatira-demes-attica-kzu-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-thyatira-demes-attica-kzu-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-thyatira/demes-attica.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

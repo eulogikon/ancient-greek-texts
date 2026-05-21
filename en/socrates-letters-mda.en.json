@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "mda",
+  "auth_slug": "socrates-letters",
+  "name": {
+    "english": "Socrates Letters",
+    "ancient_greek": "Σωκράτους Ἐπιστολαί"
+  },
+  "seo_h1": "Socratic Letters on Philosophy and the Question of Authorship",
+  "seo": {
+    "browser_title": "Socrates Letters Ancient Greek Epistles on Eulogikon Archive",
+    "meta_title": "Socrates Letters Ancient Greek Philosophical Epistles",
+    "meta_description": "The Socrates Letters are a Hellenistic collection of philosophical epistles attributed to the philosopher. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ φιλοσοφική",
+      "english": "Philosophical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Socrates Letters are a collection of 35 short philosophical letters attributed to the Athenian philosopher Socrates. The historical Socrates, who lived from approximately 470 to 399 BCE, wrote nothing himself. Modern scholarship dates this collection to a later period, composed by unknown authors between the 1st century BCE and the 3rd century CE. The letters are therefore pseudepigraphical, falsely ascribed to a famous figure, a common literary practice in antiquity.</p>\n<p class=\"research-text\">Written in the common Greek of the Hellenistic and Roman periods, the letters present Socrates offering moral advice on topics such as friendship, poverty, and proper conduct to various contemporaries. Their creation occurred during a revival of interest in classical Greek culture, where authors used the persona of Socrates to explore popular philosophical ideas.</p>\n<p class=\"research-text\">While the letters contain no authentic teachings of the historical Socrates, they are significant as an artifact of his enduring legacy. They illustrate how later generations reinvented Socrates as a symbolic moral sage. The collection is valuable for understanding the literary and philosophical culture of the Roman Imperial era and the practice of using fictional letters to disseminate wisdom.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "mda-aa",
+      "title": {
+        "english": "Socratic Letters on Philosophy",
+        "ancient_greek": "Ἐπιστολαὶ περὶ Φιλοσοφίας Σωκρατικαί"
+      },
+      "url_slug": "socrates-letters-philosophy-mda-aa",
+      "passages": 36,
+      "links": {
+        "html": "https://eulogikon.org/grc/socrates-letters/philosophy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-letters-philosophy-mda-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-letters-philosophy-mda-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-letters-philosophy-mda-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-letters-philosophy-mda-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-letters/philosophy.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/socrates-letters",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/socrates-letters-mda.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/socrates-letters-mda.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/socrates-letters-mda.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/socrates-letters-mda.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

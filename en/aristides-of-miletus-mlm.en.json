@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "mlm",
+  "auth_slug": "aristides-of-miletus",
+  "name": {
+    "english": "Aristides of Miletus the Novelist",
+    "ancient_greek": "Ἀριστείδης ὁ Μιλήσιος"
+  },
+  "seo_h1": "Aristides of Miletus and the Milesian Erotic Tales",
+  "seo": {
+    "browser_title": "Aristides of Miletus Author on Eulogikon Greek Archive",
+    "meta_title": "Classical Aristides of Miletus Ancient Greek Novelist Works",
+    "meta_description": "Aristides of Miletus, Hellenistic novelist of the 2nd-1st century BCE. Milesian Tales in fragmentary prose. Free to read and download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Aristides of Miletus was a Hellenistic author of the 2nd or 1st century BCE. He is known solely as the writer of the <strong>Milesiaka</strong>. His epithet indicates his origin from Miletus in Ionia, and no further biographical details survive.</p>\n<p class=\"research-text\">His only known work is the <strong>Milesiaka</strong>, a collection of short, erotic prose narratives. The original Greek text is lost, preserved only through fragments, summaries, and later references.</p>\n<p class=\"research-text\">Aristides is significant as the originator of the &quot;Milesian tale,&quot; a genre of salacious and often comic erotic fiction in prose. His work was translated into Latin in the early 1st century BCE and profoundly influenced later Roman narrative literature, including the works of Petronius and Apuleius. Apuleius explicitly framed his <strong>Metamorphoses</strong> as a tale in this tradition. The <strong>Milesiaka</strong> thus represents a foundational, if fragmentary, stage in the development of the ancient novel.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "mlm-aa",
+      "title": {
+        "english": "Italica: Historical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aristides-of-miletus-historical-fragments-mlm-aa",
+      "passages": 40,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-of-miletus/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-of-miletus-historical-fragments-mlm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-of-miletus-historical-fragments-mlm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-of-miletus-historical-fragments-mlm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-of-miletus-historical-fragments-mlm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-of-miletus/historical-fragments.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/aristides-of-miletus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristides-of-miletus-mlm.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristides-of-miletus-mlm.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristides-of-miletus-mlm.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristides-of-miletus-mlm.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

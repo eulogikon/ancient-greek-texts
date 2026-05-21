@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "bjk",
+  "auth_slug": "phrynichus-the-tragic-poet",
+  "name": {
+    "english": "Phrynichus the Tragic Poet",
+    "ancient_greek": "Φρύνιχος ὁ τραγικός"
+  },
+  "seo_h1": "Phrynichus the Tragic Poet and the Origins of Athenian Drama",
+  "seo": {
+    "browser_title": "Phrynichus the Tragic Poet on Eulogikon Greek Archive",
+    "meta_title": "Classical Phrynichus Ancient Greek Tragedies and Fragments",
+    "meta_description": "Phrynichus, Athenian tragic poet and predecessor to Aeschylus. Surviving fragments of his works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δράμα Ἀττικόν",
+      "english": "Attic Drama",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Δρᾶμα",
+      "english": "Drama",
+      "href": "/domains/drama"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Phrynichus was an Athenian tragic poet active in the late 6th and early 5th centuries BCE. He was a major predecessor to Aeschylus and is considered a pivotal figure in the early development of Greek tragedy.</p>\n<p class=\"research-text\">According to ancient sources, he introduced important innovations, including being the first to use female characters in plays and to employ the poetic meter known as trochaic tetrameter. His lyrical choral odes were also noted for their musical grace.</p>\n<p class=\"research-text\">His career coincided with the Persian Wars, and he made the groundbreaking choice to dramatize recent historical events. His play <strong>The Capture of Miletus</strong>, about the Persian sack of that city, caused such public distress that the Athenian government fined him and banned future performances. Another play, <strong>Phoenician Women</strong>, depicted the Battle of Salamis from the Persian perspective and is said to have influenced Aeschylus&#x27;s later play <strong>Persians</strong>.</p>\n<p class=\"research-text\">While none of his works survive intact—they are known only through fragments and titles cited by later authors—his historical significance is clear. Modern scholars view him as a crucial bridge between the earliest tragedians and the classical masters, demonstrating tragedy&#x27;s power to engage with contemporary politics and emotion from its very beginnings.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "bjk-aa",
+      "title": {
+        "english": "Fragments on Heracles",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἡρακλέους"
+      },
+      "url_slug": "phrynichus-the-tragic-poet-heracles-fragments-bjk-aa",
+      "passages": 43,
+      "links": {
+        "html": "https://eulogikon.org/grc/phrynichus-the-tragic-poet/heracles-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-tragic-poet-heracles-fragments-bjk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-tragic-poet-heracles-fragments-bjk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-tragic-poet-heracles-fragments-bjk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-tragic-poet-heracles-fragments-bjk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-tragic-poet/heracles-fragments.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/phrynichus-the-tragic-poet",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/phrynichus-the-tragic-poet-bjk.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/phrynichus-the-tragic-poet-bjk.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/phrynichus-the-tragic-poet-bjk.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/phrynichus-the-tragic-poet-bjk.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

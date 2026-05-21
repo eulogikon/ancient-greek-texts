@@ -1,0 +1,277 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "cui",
+  "auth_slug": "hippon-of-samos",
+  "name": {
+    "english": "Hippon of Samos",
+    "ancient_greek": "Ἵππων ὁ Σάμιος"
+  },
+  "seo_h1": "Hippon of Samos on Water and the Origins of Things",
+  "seo": {
+    "browser_title": "Hippon of Samos on Eulogikon Greek Archive and Library",
+    "meta_title": "Classical Hippon of Samos Ancient Greek Works and Fragments",
+    "meta_description": "Hippon of Samos, a Presocratic philosopher of the 5th century BCE. Surviving fragments of his works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Presocratic",
+      "href": "/affiliations/presocratic"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Hippon of Samos was a natural philosopher active in Greece during the 5th century BCE. He is considered part of the Presocratic tradition, a group of early thinkers who sought rational explanations for the natural world. His birthplace is traditionally given as the island of Samos, though some ancient sources suggest he may have been from cities in southern Italy, indicating possible confusion about his life.</p>\n<p class=\"research-text\">He is known for a strictly materialist philosophy centered on water. Hippon proposed that water, or moisture, was the fundamental substance from which all things originated, including living beings. According to modern scholars, he extended this idea to argue that the human soul itself was composed of water. This naturalistic approach led some ancient commentators to label him an atheist, a common charge against philosophers who replaced divine explanations with physical ones.</p>\n<p class=\"research-text\">No complete writings by Hippon survive. His ideas are preserved only in fragments and reports by later ancient authors like Aristotle and Diogenes Laertius. These sources attribute lost works to him, such as On Nature and On the Soul. Aristotle mentioned him but considered his philosophy unoriginal or simplistic.</p>\n<p class=\"research-text\">Hippon’s historical importance lies in being a clear example of the later Ionian scientific tradition. His hydrocentric theories, particularly on the soul and biological functions like sleep, illustrate the Presocratic effort to find unified physical principles for life and the cosmos.</p>\n</div>",
+  "affiliation_label": "Presocratic",
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "cui-ab",
+      "title": {
+        "english": "Fragments on Oceanic Hydrology",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ὠκεανίου Ὑδρολογίας"
+      },
+      "url_slug": "hippon-of-samos-oceanic-hydrology-cui-ab",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/hippon-of-samos/oceanic-hydrology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos-oceanic-hydrology-cui-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos-oceanic-hydrology-cui-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos-oceanic-hydrology-cui-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos-oceanic-hydrology-cui-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos/oceanic-hydrology.epub"
+      }
+    },
+    {
+      "eul_wid": "cui-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "hippon-of-samos-testimonies-cui-aa",
+      "passages": 19,
+      "links": {
+        "html": "https://eulogikon.org/grc/hippon-of-samos/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos-testimonies-cui-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos-testimonies-cui-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos-testimonies-cui-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos-testimonies-cui-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos/testimonies.epub"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "bmw",
+      "name": {
+        "english": "Alcmaeon of Croton",
+        "ancient_greek": "Ἀλκμαίων ὁ Κροτωνιάτης"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/alcmaeon-of-croton",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcmaeon-of-croton-bmw.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcmaeon-of-croton-bmw.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcmaeon-of-croton-bmw.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcmaeon-of-croton-bmw.en.json"
+      }
+    },
+    {
+      "eul_aid": "btk",
+      "name": {
+        "english": "Anaxagoras of Clazomenae",
+        "ancient_greek": "Ἀναξαγόρας ὁ Κλαζομένιος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/anaxagoras-of-clazomenae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxagoras-of-clazomenae-btk.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxagoras-of-clazomenae-btk.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxagoras-of-clazomenae-btk.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxagoras-of-clazomenae-btk.en.json"
+      }
+    },
+    {
+      "eul_aid": "aua",
+      "name": {
+        "english": "Anaximander of Miletus",
+        "ancient_greek": "Ἀναξίμανδρος ὁ Μιλήσιος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/anaximander-of-miletus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximander-of-miletus-aua.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximander-of-miletus-aua.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximander-of-miletus-aua.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximander-of-miletus-aua.en.json"
+      }
+    },
+    {
+      "eul_aid": "bcm",
+      "name": {
+        "english": "Anaximenes of Miletus",
+        "ancient_greek": "Ἀναξιμένης ὁ Μιλήσιος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/anaximenes-of-miletus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-of-miletus-bcm.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-of-miletus-bcm.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-of-miletus-bcm.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-of-miletus-bcm.en.json"
+      }
+    },
+    {
+      "eul_aid": "etm",
+      "name": {
+        "english": "Anaximenes-pseudo Miletus Letters",
+        "ancient_greek": "Ἀναξιμένους τοῦ Μιλησίου Ἐπιστολαί (Ψευδο-Ἀναξιμένης)"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/anaximenes-pseudo-miletus-letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-pseudo-miletus-letters-etm.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-pseudo-miletus-letters-etm.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-pseudo-miletus-letters-etm.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-pseudo-miletus-letters-etm.en.json"
+      }
+    },
+    {
+      "eul_aid": "byk",
+      "name": {
+        "english": "Archelaus of Miletus",
+        "ancient_greek": "Ἀρχέλαος ὁ Μιλήσιος ὁ Ἀθηναῖος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/archelaus-of-miletus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archelaus-of-miletus-byk.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archelaus-of-miletus-byk.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archelaus-of-miletus-byk.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archelaus-of-miletus-byk.en.json"
+      }
+    },
+    {
+      "eul_aid": "anw",
+      "name": {
+        "english": "Cleobulus of Lindos I",
+        "ancient_greek": "Κλεόβουλος ὁ Λίνδιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/cleobulus-of-lindos-i",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleobulus-of-lindos-i-anw.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleobulus-of-lindos-i-anw.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleobulus-of-lindos-i-anw.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleobulus-of-lindos-i-anw.en.json"
+      }
+    },
+    {
+      "eul_aid": "byu",
+      "name": {
+        "english": "Democritus of Abdera",
+        "ancient_greek": "Δημόκριτος ὁ Ἀβδηρίτης"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/democritus-of-abdera",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/democritus-of-abdera-byu.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/democritus-of-abdera-byu.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/democritus-of-abdera-byu.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/democritus-of-abdera-byu.en.json"
+      }
+    },
+    {
+      "eul_aid": "bze",
+      "name": {
+        "english": "Diogenes of Apollonia",
+        "ancient_greek": "Διογένης ὁ Ἀπολλωνιάτης"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/diogenes-of-apollonia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-apollonia-bze.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-apollonia-bze.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-apollonia-bze.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-apollonia-bze.en.json"
+      }
+    },
+    {
+      "eul_aid": "die",
+      "name": {
+        "english": "Empedocles of Acragas",
+        "ancient_greek": "Ἐμπεδοκλῆς ὁ Ἀκραγαντίνος"
+      },
+      "work_count": 3,
+      "links": {
+        "html": "https://eulogikon.org/en/empedocles-of-acragas",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/empedocles-of-acragas-die.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/empedocles-of-acragas-die.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/empedocles-of-acragas-die.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/empedocles-of-acragas-die.en.json"
+      }
+    },
+    {
+      "eul_aid": "bky",
+      "name": {
+        "english": "Heraclitus of Ephesus",
+        "ancient_greek": "Ἡράκλειτος ὁ Ἐφέσιος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/heraclitus-of-ephesus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-bky.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-bky.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-bky.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-bky.en.json"
+      }
+    },
+    {
+      "eul_aid": "bko",
+      "name": {
+        "english": "Heraclitus of Ephesus II",
+        "ancient_greek": "Ἡράκλειτος ὁ Ἐφέσιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/heraclitus-of-ephesus-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-ii-bko.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-ii-bko.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-ii-bko.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-ii-bko.en.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/hippon-of-samos",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hippon-of-samos-cui.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hippon-of-samos-cui.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hippon-of-samos-cui.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hippon-of-samos-cui.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

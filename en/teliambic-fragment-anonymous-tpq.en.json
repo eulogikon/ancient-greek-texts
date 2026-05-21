@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "tpq",
+  "auth_slug": "teliambic-fragment-anonymous",
+  "name": {
+    "english": "Teliambic Fragment Anonymous",
+    "ancient_greek": "Ἀνώνυμον [Φραγμέντιον Τηλιαμβικόν]"
+  },
+  "seo_h1": "Teliambic Fragment Anonymous",
+  "seo": {
+    "browser_title": "Anonymous Teliambic Fragment on Eulogikon Greek Archive",
+    "meta_title": "Classical Anonymous Teliambic Fragment Ancient Greek Works",
+    "meta_description": "Anonymous author of a Late Antique Greek teliambic fragment. This surviving work is Koine poetry. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">No biographical information exists for the author of the Teliambic Fragment. The work is dated broadly to between the 1st and 5th centuries CE, placing its composition within the Roman Imperial and Late Antique periods. The fragment is composed in the Koine dialect, consistent with Greek literary production of that era.</p>\n<p class=\"research-text\">The sole known work is the Teliambic Fragment, a poetic text whose title derives from its metrical form. The work survives only in a fragmentary state.</p>\n<p class=\"research-text\">As an anonymous poetic fragment in a specific meter from Late Antiquity, it is of value for studies on the evolution of Greek metrical forms and the fragmentary literary record of the later Roman Empire. Its anonymous and fragmentary nature is typical of many texts from this period.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "tpq-aa",
+      "title": {
+        "english": "Teliambic Fragment",
+        "ancient_greek": "Τηλιαμβικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "teliambic-fragment-anonymous-fragment-tpq-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/teliambic-fragment-anonymous/fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teliambic-fragment-anonymous-fragment-tpq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teliambic-fragment-anonymous-fragment-tpq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teliambic-fragment-anonymous-fragment-tpq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teliambic-fragment-anonymous-fragment-tpq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teliambic-fragment-anonymous/fragment.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/teliambic-fragment-anonymous",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/teliambic-fragment-anonymous-tpq.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/teliambic-fragment-anonymous-tpq.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/teliambic-fragment-anonymous-tpq.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/teliambic-fragment-anonymous-tpq.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

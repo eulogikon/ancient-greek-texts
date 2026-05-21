@@ -1,0 +1,453 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "oqk-ae",
+  "eul_aid": "oqk",
+  "author_slug": "hermetica",
+  "work_slug": "thought-perception",
+  "url_slug": "hermetica-thought-perception-oqk-ae",
+  "author": {
+    "english": "Hermetica ",
+    "ancient_greek": "Ἑρμητικά"
+  },
+  "title": {
+    "english": "Hermes Trismegistus-Thought and Perception",
+    "ancient_greek": "Περὶ νοήσεως καὶ αἰσθήσεως."
+  },
+  "seo": {
+    "browser_title": "Thought and Perception by Hermes Trismegistus on Eulogikon",
+    "meta_title": "Thought and Perception by Hermes Trismegistus in Greek",
+    "meta_description": "This Hermetic treatise examines how divine thought and sensory perception interact in understanding reality and the Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ φιλοσοφική",
+      "english": "Philosophical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Hermetic",
+      "href": "/affiliations/hermetic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">&quot;On Thought and Perception&quot; is a philosophical treatise attributed to the legendary Hellenistic figure Hermes Trismegistus. Composed in Greek, most likely in Roman Egypt between the 1st and 3rd centuries CE, it forms a constituent part of the larger body of esoteric teachings known as the Corpus Hermeticum. The work is presented as a didactic discourse, continuing a prior lesson and examining the relationship between sensory perception and intellectual thought. It posits that while these two faculties appear distinct—one being material and the other essential—they are in fact united and inseparable within human beings. The text further delineates a hierarchy of cognition, distinguishing between divine intellect, thought, and rational speech, arguing that true perception and understanding flow into a person as an intertwined whole. The treatise is a prime example of the syncretic Hermetic philosophy, blending Platonic and Stoic concepts with Egyptian religious motifs to outline a path of spiritual knowledge and personal transformation aimed at a literate, seeking audience. Preserved within the manuscript tradition of the Corpus Hermeticum, notably in a 14th-century Byzantine codex, the work was rediscovered and translated into Latin during the Renaissance. Its initial reception as a repository of pristine, pre-Christian wisdom granted it significant influence on the development of Western esoteric and philosophical thought.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t",
+      "text": "Περὶ νοήσεως καὶ αἰθήσεως. [ὅτι ἐν μόνῳ τῷ θεῷ τὸ καλὸν καὶ ἀγαθόν ἐστιν, ἀλλαχόθι δὲ οὐδαμοῦ] Χθές, ὦ Ἀσκληπιέ, τὸν τέλειον ἀποδέδωκα λόγον· νῦν δὲ ἀναγκαῖον ἡγοῦμαι ἀκόλουθον ἐκείνῳ καὶ τὸν περὶ αἰσθήσεως λόγον διεξελθεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "αἴσθησις γὰρ καὶ νόησις διαφορὰν μὲν δοκοῦσιν ἔχειν, ὅτι ἡ μὲν ὑλική ἐστιν, ἡ δὲ οὐσιώδης. ἐμοὶ δὲ δοκοῦσιν ἀμφότεραι ἡνῶσθαι καὶ μὴ διαιρεῖσθαι, ἐν ἀνθρώποις λέγω· ἐν γὰρ τοῖς ἄλλοις ζῴοις ἡ αἴσθησις τῇ φύσει ἥνωται, ἐν δὲ ἀνθρώποις 〈καὶ〉 ἡ νοήσις. νοήσεως ὁ νοῦς διαφέρει τοσοῦτον, ὅσον ὁ θεὸς θειότητος· ἡ μὲν γὰρ θειότης ὑπὸ τοῦ θεοῦ γίνεται, ἡ δὲ νόησις ὑπὸ τοῦ νοῦ, ἀδελφὴ οὖσα τοῦ λόγου· ἢ ὄργανα ἀλλήλων· οὔτε γὰρ ὁ λόγος ἐκφωνεῖται χωρὶς νοήσεως οὔτε ἡ νόησις φαίνεται χωρὶς λόγου. ἡ οὖν αἴσθησις καὶ ἡ νόησις ἀμφότεραι εἰς τὸν ἄνθρωπον συνεπεισρέουσιν ἀλλήλαις ὥσπερ συμπεπλεγμέναι· οὔτε γὰρ χωρὶς αἰσθήσεως δυνατὸν νοῆσαι οὔτε † αἰσθῆναι † χωρὶς νοήσεως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "— Δυνατὸν δὲ νόησιν χωρὶς αἰσθήσεως νοεῖσθαι, καθάπερ οἱ διὰ τῶν ὀνείρων φανταζόμενοι ὁράματα; —† Ἐμοὶ δὲ δοκεῖ τὸ γεγονέναι ἀμφοτέρας τὰς ἐνεργείας ἐν τῇ τῶν ὀνείρων ὄψει ἐγρηγοροῦσι γὰρ αἰσθήσει † διῄρηταί γε εἴς τε τὸ σῶμα καὶ εἰς τὴν ψυχήν, καὶ ὅταν ἀμφότερα τὰ μέρη τῆς αἰσθήσεως πρὸς ἄλληλα συμφωνήσῃ, τότε τὴν νόησιν ἐκφωνεῖσθαι ἀποκυηθεῖσαν ὑπὸ τοῦ νοῦ. ὁ γὰρ νοῦς κύει πάντα τὰ νοήματα, ἀγαθὰ μέν, ὅταν ὑπὸ τοῦ θεοῦ τὰ σπέρματα λάβῃ, ἐναντία δέ, ὅταν ὑπό τινος τῶν δαιμονίων, μηδενὸς μέρους τοῦ κόσμου κενοῦ ὄντος δαίμονος † τῷ ὑπὸ τοῦ θεοῦ πεφωτισμένῳ δαίμονι † ὅστις ὑπεισελθὼν ἔσπειρε τῆς ἰδίας ἐνεργείας τὸ σπέρμα, καὶ ἐκύησεν ὁ νοῦς τὸ σπαρέν, μοιχείας, φόνους, πατροτυπίας, ἱεροσυλίας, ἀσεβείας, ἀγχόνας, κατὰ κρημνῶν καταφοράς, καὶ ἄλλα πάντα ὅσα δαιμόνων ἔργα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "τοῦ γὰρ θεοῦ τὰ σπέρματα ὀλίγα, μεγάλα δὲ καὶ καλὰ καὶ ἀγαθά, ἀρετὴ καὶ σωφροσύνη καὶ εὐσέβεια· εὐσέβεια δέ ἐστι θεοῦ γνῶσις, ὃν ὁ ἐπιγνοὺς πλήρης γενόμενος πάντων τῶν ἀγαθῶν τὰς νοήσεις θείας ἴσχει, καὶ οὐ τοῖς πολλοῖς ὁμοίας. διὰ τοῦτο οἱ ἐν γνώσει ὄντες οὔτε τοῖς πολλοῖς ἀρέσκουσιν, οὔτε οἱ πολλοὶ αὐτοῖς· μεμηνέναι δὲ δοκοῦσι, καὶ γέλωτα ὁφλισκάνουσι, μισούμενοί τε καὶ καταφρονούμενοι καὶ τάχα που καὶ φονευόμενοι. τὴν γὰρ κακίαν ἐνθάδε δεῖν οἰκεῖν εἶπον ἐν τῷ ἑαυτῆς χωρίῳ οὖσαν· χωρίον γὰρ αὐτῆς ἡ γῆ, οὐχ ὁ κόσμος, ὡς ἔνιοί ποτε ἐροῦσι βλασφημοῦντες. ὁ μέντοι θεοσεβὴς πάντα ὑποστήσει αἰσθόμενος τῆς γνώσεως· πάντα γὰρ τῷ τοιούτῳ, κἂν τοῖς ἄλλοις τὰ κακά, ἀγαθά ἐστι· καὶ ἐπιβουλευόμενος πάντα ἀναφέρει εἰς τὴν γνῶσιν, καὶ τὰ κακὰ μόνος ἀγαθοποιεῖ. ἐπάνειμι πάλιν ἐπὶ τὸν τῆς αἰσθήσεως λόγον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "ἀνθρώπινον οὖν τὸ κοινωνῆσαι αἴσθησιν νοήσει· οὐ πᾶς δὲ ἄνθρωπος, ὡς προεῖπον, ἀπολαύει τῆς νοήσεως, ἀλλ’ ὁ μὲν ὑλικός, ὁ δὲ οὐσιώδης· ὁ μὲν γὰρ μετὰ κακίας ὑλικός, ὡς ἔφην, ἀπὸ τῶν δαιμόνων τὸ σπέρμα τῆς νοήσεως ἴσχει, οἱ δὲ μετὰ τοῦ ἀγαθοῦ οὐσιωδῶς ὑπὸ τοῦ θεοῦ σῳζόμενοι· ὁ μὲν γὰρ θεός, πάντων δημιουργός, δημιουργῶν πάντα ποιεῖ μὲν αὐτῷ ὅμοια, ταῦτα δ’ ἀγαθὰ γενόμενα ἐν τῇ χρήσει τῆς ἐνεργείας διάφορα. ἡ γὰρ κοσμικὴ φορὰ τρίβουσα τὰς γενέσεις ποιὰς ποιεῖ, τὰς μὲν ῥυπαίνουσα τῇ κακίᾳ, τὰς δὲ καθαίρουσα τῷ ἀγαθῷ. καὶ γὰρ ὁ κόσμος, ὦ Ἀσκληπιέ, αἴσθησιν ἰδίαν καὶ νόησιν ἔχει, οὐκ ὁμοίαν τῇ ἀνθρωπείᾳ, οὐδὲ ὡς ποικίλην, ἄλλως δὲ καὶ κρείττω καὶ ἁπλουστέραν. ἡ γὰρ αἴσθησις καὶ νόησις τοῦ κόσμου μία ἐστὶ τὸ πάντα ποιεῖν καὶ εἰς ἑαυτὴν ἀποποιεῖν, ὄργανον τῆς τοῦ θεοῦ βουλήσεως, καὶ ὄντως ὀργανοποιηθέν, ἵνα πάντα παρ’ ἑαυτῷ, ἀπὸ τοῦ θεοῦ λαβών, τὰ σπέρματα φυλάττων ἐν ἑαυτῷ πάντα ποιῇ ἐνεργῶς, καὶ διαλύων πάντα ἀνανεοῖ, καὶ διὰ τοῦτο λυθέντα ὥσπερ ἀγαθὸς ζωῆς γεωργὸς τῇ μεταβολῇ ἀνανέωσιν αὐτοῖς φερόμενος παρέχῃ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "〈οὐκ〉 ἔστιν ὃ μὴ ζωογονεῖ, φερόμενος δὲ πάντα ζωοποιεῖ καὶ ὁμοῦ τόπος ἐστὶ καὶ δημιουργὸς ζωῆς. τὰ δὲ σώματα ἀπὸ ὕλης, ἐν διαφορᾷ· τὰ μὲν γάρ ἐστιν ἐκ γῆς, τὰ δὲ ἐξ ὕδατος, τὰ δὲ ἐξ ἀέρος, τὰ δὲ ἐκ πυρός· πάντα δέ ἐστι σύνθετα, καὶ τὰ μὲν μᾶλλον, τὰ δὲ ἁπλούστερα· μᾶλλον μέν, τὰ βαρύτερα, ἧττον δέ, τὰ κουφότερα· τὸ δὲ τάχος αὐτοῦ τῆς φορᾶς τὴν ποικιλίαν τῶν ποιῶν γενέσεων ἐργάζεται· πνοὴ γὰρ οὖσα πυκνοτάτη προτείνει τὰ ποιὰ τοῖς σώμασι μετὰ ἑνὸς πληρώματος τοῦ τῆς ζωῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "πατὴρ μὲν οὖν ὁ θεὸς τοῦ κόσμου, ὁ δὲ κόσμος τῶν ἐν τῷ κόσμῳ, καὶ ὁ μὲν κόσμος υἱὸς τοῦ θεοῦ, τὰ δὲ ἐν τῷ κόσμῳ, ὑπὸ τοῦ κόσμου· καὶ εἰκότως κόσμος κέκληται· κοσμεῖ γὰρ τὰ πάντα τῇ ποικιλίᾳ τῆς γενέσεως καὶ τῷ ἀδιαλείπτῳ τῆς ζωῆς καὶ ἀκοπιάστῳ τῆς ἐνεργείας καὶ τῷ τάχει τῆς ἀνάγκης καὶ τῇ συστάσει τῶν στοιχείων καὶ τῇ τάξει τῶν γινομένων. ὁ αὐτὸς οὖν κόσμος καὶ ἀναγκαίως καὶ οἰκείως καλοῖτο. πάντων οὖν τῶν ζῴων ἡ αἴσθησις καὶ νόησις ἔξωθεν ἐπεισέρχεται, εἰσπνέουσα ὑπὸ τοῦ περιέχοντος, ὁ δὲ κόσμος, ἅπαξ λαβὼν ἅμα τῷ γενέσθαι, ὑπὸ τοῦ θεοῦ λαβὼν ἔχει. ὁ δὲ θεὸς οὐχ, ὥσπερ ἐνίοις δόξει, ἀναίσθητός ἐστι καὶ ἀνόητος· ὑπὸ γὰρ δεισιδαιμονίας βλασφημοῦσι· πάντα γὰρ ὅσα ἔστιν, ὦ Ἀσκληπιέ, ταῦτα ἐν τῷ θεῷ ἐστι καὶ ὑπὸ τοῦ θεοῦ γινόμενα καὶ ἐκεῖθεν ἠρτημένα, τὰ μὲν διὰ σωμάτων ἐνεργοῦντα, τὰ δὲ διὰ οὐσίας ψυχικῆς κινοῦντα, τὰ δὲ διὰ πνεύματος ζωοποιοῦντα, τὰ δὲ τὰ κεκμηκότα ὑποδεχόμενα, καὶ εἰκότως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "μᾶλλον δὲ λέγω, ὅτι οὐκ αὐτὸς αὐτὰ ἔχει, ἀλλὰ τὸ ἀληθὲς ἀποφαίνομαι· αὐτὸς ἅπαντά ἐστιν, οὐκ ἔξωθεν αὐτὰ προσλαμβάνων, ἔξω δὲ ἐπιδιδούς, καὶ τοῦτό ἐστιν ἡ αἴσθησις καὶ νόησις τοῦ θεοῦ, τὸ τὰ πάντα ἀεὶ κινεῖν, καὶ οὐκ ἔσται ποτὲ χρόνος ὅτε ἀπολειφθήσεταί τι τῶν ὄντων· ὅταν δὲ λέγω τῶν ὄντων, λέγω τοῦ θεοῦ· τὰ γὰρ ὄντα ὁ θεὸς ἔχει, καὶ οὔτε αὐτοῦ οὐδὲν ἐκτὸς οὔτε αὐτὸς οὐδενός. ταῦτά σοι, Ἀσκληπιέ, ἐννοοῦντι, ἀληθῆ δόξειεν, ἀγνοοῦντι δὲ ἄπιστα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "τὸ γὰρ νοῆσαί ἐστι τὸ πιστεῦσαι, ἀπιστῆσαι δὲ τὸ μὴ νοῆσαι. ὁ γὰρ λόγος οὐ φθάνει μέχρι τῆς ἀληθείας, ὁ δὲ νοῦς μέγας ἐστὶ καὶ ὑπὸ τοῦ λόγου μέχρι τινὸς ὁδηγηθεὶς φθάνειν ἔχει 〈ἕωσ〉 τῆς ἀληθείας, καὶ περινοήσας τὰ πάντα καὶ εὑρὼν σύμφωνα τοῖς ὑπὸ τοῦ λόγου ἑρμηνευθεῖσιν ἐπίστευσε, καὶ τῇ καλῇ πίστει ἐπανεπαύσατο. τοῖς οὖν τὰ προειρημένα ὑπὸ τοῦ θεοῦ νοήσασι μὲν πιστά, μὴ νοήσασι δὲ ἄπιστα. ταῦτα καὶ τοσαῦτα περὶ νοήσεως καὶ αἰσθήσεως λεγέσθω.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "oqk-an",
+      "title": {
+        "english": "Asclepius Greek Words Only",
+        "ancient_greek": "Ἑρμοῦ τρισμεγίστου βίβλος ἱερὰ πρὸς Ἀσκληπιὸν"
+      },
+      "url_slug": "hermetica-asclepius-words-oqk-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/asclepius-words",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-asclepius-words-oqk-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-asclepius-words-oqk-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-asclepius-words-oqk-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-asclepius-words-oqk-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/asclepius-words.epub"
+      }
+    },
+    {
+      "eul_wid": "oqk-as",
+      "title": {
+        "english": "Dialogue Untitled",
+        "ancient_greek": "Διάλογος"
+      },
+      "url_slug": "hermetica-dialogue-oqk-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/dialogue",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-dialogue-oqk-as.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-dialogue-oqk-as.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-dialogue-oqk-as.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-dialogue-oqk-as.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/dialogue.epub"
+      }
+    },
+    {
+      "eul_wid": "oqk-am",
+      "title": {
+        "english": "From the Hymn to the Almighty",
+        "ancient_greek": "Ἐκ τοῦ ὕμνου πρὸς τὸν παντοκράτορα"
+      },
+      "url_slug": "hermetica-hymn-almighty-oqk-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/hymn-almighty",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-hymn-almighty-oqk-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-hymn-almighty-oqk-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-hymn-almighty-oqk-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-hymn-almighty-oqk-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/hymn-almighty.epub"
+      }
+    },
+    {
+      "eul_wid": "oqk-ao",
+      "title": {
+        "english": "Hermes Trismegistus Key",
+        "ancient_greek": "Κλείς"
+      },
+      "url_slug": "hermetica-key-oqk-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/key",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-key-oqk-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-key-oqk-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-key-oqk-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-key-oqk-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/key.epub"
+      }
+    },
+    {
+      "eul_wid": "oqk-ak",
+      "title": {
+        "english": "Hermes Trismegistus to Asclepius",
+        "ancient_greek": "Ἑρμοῦ τρισμεγιστου πρὸς Ἀσκληπιόν"
+      },
+      "url_slug": "hermetica-to-asclepius-ak-oqk-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/to-asclepius-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-to-asclepius-ak-oqk-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-to-asclepius-ak-oqk-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-to-asclepius-ak-oqk-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-to-asclepius-ak-oqk-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-asclepius-ak.epub"
+      }
+    },
+    {
+      "eul_wid": "oqk-aa",
+      "title": {
+        "english": "Hermes Trismegistus to His Son Tat, Secret Discourse-Rebirth",
+        "ancient_greek": "Πρὸς τὸν υἱὸν Τὰτ ἐν ὄρει λόγος ἀπόκρυφος περὶ"
+      },
+      "url_slug": "hermetica-to-tat-rebirth-oqk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/to-tat-rebirth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-to-tat-rebirth-oqk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-to-tat-rebirth-oqk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-to-tat-rebirth-oqk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-to-tat-rebirth-oqk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-tat-rebirth.epub"
+      }
+    },
+    {
+      "eul_wid": "oqk-ac",
+      "title": {
+        "english": "Hermes Trismegistus, Greatest Evil is Ignorance of God",
+        "ancient_greek": "Ὅτι μέγιστον κακὸν ἐν ἀνθρώποις ἡ περὶ τοῦ θεοῦ"
+      },
+      "url_slug": "hermetica-greatest-evil-ignorance-oqk-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/greatest-evil-ignorance",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-greatest-evil-ignorance-oqk-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-greatest-evil-ignorance-oqk-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-greatest-evil-ignorance-oqk-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-greatest-evil-ignorance-oqk-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/greatest-evil-ignorance.epub"
+      }
+    },
+    {
+      "eul_wid": "oqk-af",
+      "title": {
+        "english": "Hermes Trismegistus, To Asclepius, Be Well",
+        "ancient_greek": "Ἀσκληπιῷ εὖ φρονεῖν"
+      },
+      "url_slug": "hermetica-to-asclepius-af-oqk-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/to-asclepius-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-to-asclepius-af-oqk-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-to-asclepius-af-oqk-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-to-asclepius-af-oqk-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-to-asclepius-af-oqk-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-asclepius-af.epub"
+      }
+    },
+    {
+      "eul_wid": "oqk-ah",
+      "title": {
+        "english": "Hermes Trismegistus-Common Mind to Tat",
+        "ancient_greek": "Περὶ νοῦ κοινοῦ πρὸς Τάτ"
+      },
+      "url_slug": "hermetica-common-mind-oqk-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/common-mind",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-common-mind-oqk-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-common-mind-oqk-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-common-mind-oqk-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-common-mind-oqk-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/common-mind.epub"
+      }
+    },
+    {
+      "eul_wid": "oqk-ab",
+      "title": {
+        "english": "Hermes to His Son Tat, That the Invisible God is Most Manifest",
+        "ancient_greek": "Πρὸς Τὰτ υἱόν ὅτι ἀφανὴς θεὸς φανερώτατός ἐστιν"
+      },
+      "url_slug": "hermetica-invisible-god-manifest-oqk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/invisible-god-manifest",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-invisible-god-manifest-oqk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-invisible-god-manifest-oqk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-invisible-god-manifest-oqk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-invisible-god-manifest-oqk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/invisible-god-manifest.epub"
+      }
+    },
+    {
+      "eul_wid": "oqk-aq",
+      "title": {
+        "english": "Hermes to Tat, The Cup",
+        "ancient_greek": "Πρὸς Τάτ ὁ κρατήρ ἡ μονάς"
+      },
+      "url_slug": "hermetica-cup-oqk-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/cup",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-cup-oqk-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-cup-oqk-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-cup-oqk-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-cup-oqk-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/cup.epub"
+      }
+    },
+    {
+      "eul_wid": "oqk-at",
+      "title": {
+        "english": "Hermetic Fragments",
+        "ancient_greek": "Διάφορα Ἀποσπάσματα"
+      },
+      "url_slug": "hermetica-fragments-oqk-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-fragments-oqk-at.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-fragments-oqk-at.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-fragments-oqk-at.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-fragments-oqk-at.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/fragments.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "tfq-aa",
+      "title": {
+        "english": "Commentary-Hermogenes' Book-Issues",
+        "ancient_greek": "Ὑπόμνημα εἰς τὸ Ἑρμογένους περὶ στάσεων"
+      },
+      "url_slug": "syrianus-of-athens-hermogenes-issues-tfq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/syrianus-of-athens/hermogenes-issues",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-hermogenes-issues-tfq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-hermogenes-issues-tfq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-hermogenes-issues-tfq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-hermogenes-issues-tfq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens/hermogenes-issues.epub"
+      }
+    },
+    {
+      "eul_wid": "utq-ac",
+      "title": {
+        "english": "Commentary-Plato's Alcibiades",
+        "ancient_greek": "Σχόλια εἰς τὸν Ἀλκιβιάδην Πλάτωνος"
+      },
+      "url_slug": "olympiodorus-the-younger-of-alexandria-commentary-alcibiades-utq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/olympiodorus-the-younger-of-alexandria/commentary-alcibiades",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-commentary-alcibiades-utq-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-commentary-alcibiades-utq-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-commentary-alcibiades-utq-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-commentary-alcibiades-utq-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/commentary-alcibiades.epub"
+      }
+    },
+    {
+      "eul_wid": "jyc-aa",
+      "title": {
+        "english": "Fragments on the Divine Nature",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θείας Φύσεως"
+      },
+      "url_slug": "pseudo-hellenistic-authors-divine-nature-jyc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-hellenistic-authors/divine-nature",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hellenistic-authors-divine-nature-jyc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hellenistic-authors-divine-nature-jyc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hellenistic-authors-divine-nature-jyc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hellenistic-authors-divine-nature-jyc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hellenistic-authors/divine-nature.epub"
+      }
+    },
+    {
+      "eul_wid": "sno-at",
+      "title": {
+        "english": "Letters on a Bithynian Estate",
+        "ancient_greek": "Ἐπιστολαὶ περὶ Βιθυνικῆς Κτήσεως"
+      },
+      "url_slug": "julian-the-apostate-bithynian-letters-sno-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/julian-the-apostate/bithynian-letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-bithynian-letters-sno-at.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-bithynian-letters-sno-at.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-bithynian-letters-sno-at.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-bithynian-letters-sno-at.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/bithynian-letters.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-ap",
+      "title": {
+        "english": "On Sense and Sensibles",
+        "ancient_greek": "Περὶ Αἰσθήσεως καὶ Αἰσθητῶν"
+      },
+      "url_slug": "aristotle-sense-sensibles-hgw-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/sense-sensibles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-sense-sensibles-hgw-ap.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-sense-sensibles-hgw-ap.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-sense-sensibles-hgw-ap.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-sense-sensibles-hgw-ap.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/sense-sensibles.epub"
+      }
+    },
+    {
+      "eul_wid": "jss-aa",
+      "title": {
+        "english": "On the Contempt of the Irrational",
+        "ancient_greek": "Περὶ ἀλόγου καταφρονήσεως"
+      },
+      "url_slug": "polystratus-the-epicurean-contempt-irrational-jss-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/polystratus-the-epicurean/contempt-irrational",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polystratus-the-epicurean-contempt-irrational-jss-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polystratus-the-epicurean-contempt-irrational-jss-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polystratus-the-epicurean-contempt-irrational-jss-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polystratus-the-epicurean-contempt-irrational-jss-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polystratus-the-epicurean/contempt-irrational.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-aq",
+      "title": {
+        "english": "On the Gait of Animals",
+        "ancient_greek": "Περὶ Ζῴων Πορείας"
+      },
+      "url_slug": "aristotle-gait-animals-hgw-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/gait-animals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-gait-animals-hgw-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-gait-animals-hgw-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-gait-animals-hgw-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-gait-animals-hgw-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/gait-animals.epub"
+      }
+    },
+    {
+      "eul_wid": "bdg-aa",
+      "title": {
+        "english": "Sentences",
+        "ancient_greek": "Γνῶμαι"
+      },
+      "url_slug": "phocylides-of-miletus-sentences-bdg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/phocylides-of-miletus/sentences",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus-sentences-bdg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus-sentences-bdg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus-sentences-bdg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus-sentences-bdg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus/sentences.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hermetica/thought-perception",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-thought-perception-oqk-ae.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-thought-perception-oqk-ae.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-thought-perception-oqk-ae.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-thought-perception-oqk-ae.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/thought-perception.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

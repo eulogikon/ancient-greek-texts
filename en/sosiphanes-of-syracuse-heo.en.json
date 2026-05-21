@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "heo",
+  "auth_slug": "sosiphanes-of-syracuse",
+  "name": {
+    "english": "Sosiphanes of Syracuse",
+    "ancient_greek": "Σωσιφάνης ὁ Συρακούσιος"
+  },
+  "seo_h1": "Sosiphanes of Syracuse on Theban and Trojan Myths",
+  "seo": {
+    "browser_title": "The Sosiphanes of Syracuse on Eulogikon Greek Archive",
+    "meta_title": "Sosiphanes of Syracuse Ancient Greek Dramatic Works",
+    "meta_description": "Sosiphanes of Syracuse was a 4th century BCE Doric dramatist. Surviving works include one known play. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Δρᾶμα",
+      "english": "Drama",
+      "href": "/domains/drama"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Sosiphanes of Syracuse was a tragic poet of the 4th century BCE, a contemporary of the Athenian dramatists Astydamas and Aphareus. According to the Byzantine Suda encyclopedia, he lived 90 years, composed 73 tragedies, and won seven victories. He exemplifies the vibrant tradition of tragic poetry in the Greek West, particularly Sicily, a region also associated with Aeschylus and Epicharmus.</p>\n<p class=\"research-text\">His substantial body of work is almost entirely lost. The Suda notes one title, <strong>Meleager</strong>, and a single moralizing line—“For every fool is a fool to his own destruction”—is preserved by Stobaeus. Sosiphanes signifies the geographical diffusion and continued vitality of tragic drama beyond Athens in the Classical and early Hellenistic periods. His documented productivity confirms he was a notable figure in his era, though the near-total loss of his texts relegates him to a minor status in the modern canon.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "heo-aa",
+      "title": {
+        "english": "Fragments on Theban and Trojan Myths",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θηβαϊκῶν καὶ Τρωϊκῶν Μύθων"
+      },
+      "url_slug": "sosiphanes-of-syracuse-theban-trojan-myths-heo-aa",
+      "passages": 14,
+      "links": {
+        "html": "https://eulogikon.org/grc/sosiphanes-of-syracuse/theban-trojan-myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosiphanes-of-syracuse-theban-trojan-myths-heo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosiphanes-of-syracuse-theban-trojan-myths-heo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosiphanes-of-syracuse-theban-trojan-myths-heo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosiphanes-of-syracuse-theban-trojan-myths-heo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosiphanes-of-syracuse/theban-trojan-myths.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/sosiphanes-of-syracuse",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sosiphanes-of-syracuse-heo.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sosiphanes-of-syracuse-heo.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sosiphanes-of-syracuse-heo.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sosiphanes-of-syracuse-heo.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

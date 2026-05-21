@@ -1,0 +1,359 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "uvy-ac",
+  "eul_aid": "uvy",
+  "author_slug": "eutocius-of-ascalon",
+  "work_slug": "measurement-circle",
+  "url_slug": "eutocius-of-ascalon-measurement-circle-uvy-ac",
+  "author": {
+    "english": "Eutocius of Ascalon",
+    "ancient_greek": "Εὐτόκιος ὁ Ἀσκαλωνίτης"
+  },
+  "title": {
+    "english": "Commentary-the Measurement of the Circle",
+    "ancient_greek": "Ὑπόμνημα εἰς τὴν μέτρησιν τοῦ κύκλου"
+  },
+  "seo": {
+    "browser_title": "Commentary Measurement the Circle by Eutocius on Eulogikon",
+    "meta_title": "Eutocius Commentary on Measurement of the Circle in Greek",
+    "meta_description": "Eutocius of Ascalon clarifies Archimedes' geometric methods for measuring circles and calculating their areas. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Μαθηματικά",
+      "english": "Mathematics",
+      "href": "/domains/mathematics"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Eutocius of Ascalon’s Commentary on the Measurement of the Circle is a detailed mathematical exegesis composed in Greek during the sixth century CE. It provides a systematic, step-by-step explication of Archimedes’ foundational treatise, On the Measurement of the Circle, which establishes the formula for a circle’s area and offers a famous approximation of pi. Eutocius structures his commentary around seventeen key passages, meticulously unpacking Archimedes’ famously concise and challenging proofs by clarifying definitions, expanding upon logical transitions, and supplying intermediate steps that the original text omits.</p>\n<p class=\"research-text\">Composed within the late antique scholarly milieu of Alexandria, the work exemplifies the efforts of philosophers and mathematicians to preserve and elucidate classical Greek scientific texts. Modern scholarship interprets Eutocius’s commentary as primarily pedagogical, designed to render Archimedes’ advanced geometric methods accessible to students. The complete text has been reliably transmitted through medieval Greek manuscripts, most notably a tenth- or eleventh-century codex that preserves it alongside Archimedes’ own writings. As a crucial link in the history of mathematics, Eutocius’s commentary played a vital role in transmitting Archimedean ideas to Byzantine, Arabic, and later Latin scholarly traditions.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "228",
+      "text": "Ἐχόμενον ἂν εἴη τὸν ἐμὸν πληροῦντι σκοπὸν τοῖς σαφεστέροις καὶ βραχυτέρας ἐπιστάσεως δεομένοις τῶν ὑπ’ Ἀρχιμήδους γεγραμμένων ἐντυγχάνοντι καὶ τὰ ὁπωσοῦν ἐν αὐτοῖς ἐπεξεργασίας δεόμενα τὸν δυνατὸν τρόπον συνεχῆ ποιεῖν τοῖς πρότερον ὑφ’ ἡμῶν ἐν τῷ Περὶ σφαίρας καὶ κυλίνδρου γεγραμμένοις εὐχῆς ὡς ἀληθῶς ἀξίου τυγχάνοντος τοῦ καὶ τοῖς μείζοσι καὶ πλείονος φροντίδος δεομένοις ἐπιστῆναι. εἴη δ’ ἂν ὡς πρὸς τὸ προκείμενον ἐφεξῆς τὸ γεγραμμένον Ἀρχιμήδει βιβλίδιον Κύκλου μέτρησιν τὴν ἐπιγραφὴν ἔχον, ἐν ᾧ τὴν πρόθεσιν τἀνδρὸς ἐξ αὐτῆς τῆς ἐπιγραφῆς γνωρίζομεν· βούλεται γὰρ ἐπιδεῖξαι, τίνι χωρίῳ εὐθυγράμμῳ ἴσος ἂν εἴη κύκλος, πρᾶγμα πάλαι πρὸς τῶν πρὸ αὐτοῦ κλεινῶν φιλοσόφων ἐζητημένον. δῆλον γάρ, ὅτι τουτὶ ἂν εἴη τὸ ζητούμενον, ὅπερ Ἱπποκράτης τε ὁ Χῖος καὶ Ἀντιφῶν ζητήσαντες ἐπιμελῶς ἐκείνους ἡμῖν τοὺς παραλογισμοὺς εὑρήκασιν, οὓς ἀκριβῶς εἰδέναι νομίζω τούς τε τὴν Εὐδήμου Γεωμετρικὴν ἱστορίαν ἐπεσκεμμένους καὶ τῶν Ἀριστοτελικῶν μετασχόντας κηρίων. ἀλλ’ ἔστι μὲν τοῦτο τὸ βιβλίον, ὥς φησιν Ἡρακλείδης ἐν τῷ Ἀρχιμήδους βίῳ, πρὸς τὰς τοῦ βίου χρείας ἀναγκαῖον· δείκνυσιν γάρ, ὅτι ἡ περιφέρεια τῆς διαμέτρου ἐστὶ τριπλασία καὶ ἔτι ὑπερέχει ἐλάττονι μὲν ἢ ἑβδόμῳ μέρει, μείζονι δὲ ἢ δέκα ἑβδομηκοστομόνοις. τοῦτο οὖν φησιν σύνεγγυς δεδεῖχθαι, εὑρῆσθαι μέντοι αὐτῷ διά τινων ἑλίκων εὐθεῖαν ἴσην τῇ δοθείσῃ κύκλου περιφερείᾳ. Εἰς τὸ αʹ θεώρημα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "230 (1t)",
+      "text": "Τὸ πρῶτον θεώρημα καὶ τοῖς ἐπὶ ποσὸν μαθημάτων γυμνασαμένοις οὐδεμίαν ἔχον ζήτησιν φαίνεται αὐτῶν τῶν Ἀρχιμήδους ῥημάτων σαφῶς ἐκτεθειμένων καὶ τὸ συμπέρασμα πρὸς τὴν πρότασιν ἀνελλειπῶς ἀποσωζόντων. δοκεῖ δέ τινι κατακεχρῆσθαι πρὸς τὴν ἀπόδειξιν πράγματι μηδέπω δεδειγμένῳ. ἐκθέμενος γὰρ τρίγωνον ὀρθογώνιόν φησιν· ἐχέτω τὴν μίαν τῶν περὶ τὴν ὀρθὴν ἴσην τῇ ἐκ τοῦ κέντρου, τὴν δὲ λοιπὴν τῇ περιφερείᾳ· ἀλλὰ περιφερείᾳ κύκλου ἴσην εὐθεῖαν λαβεῖν οὐδὲ πρὸς αὐτοῦ ἤδη δεδειγμένον εἶναι, ἀλλ’ οὐδὲ ὑπ’ ἄλλου παραδεδομένον. συνορᾶν δὲ ὅμως χρή, ὡς οὐδὲν ἔξω τῶν προσηκόντων ὑπ’ Ἀρχιμήδους γράφεται. εἶναι γάρ τι μέγεθος τὴν περιφέρειαν τοῦ κύκλου παντί που δῆλον, οἶμαι, καὶ τοῦτο τῶν ἐφ’ ἓν διαστατῶν, ἔστιν δὲ καὶ εὐθεῖα τοῦ αὐτοῦ εἴδους· κἂν εἰ μηδέπω οὖν ἐφάνη δυνατὸν περιφερείᾳ κύκλου ἴσην εὐθεῖαν πορίσασθαι, ἀλλ’ ὅμως εἶναί τινα τῇ φύσει εὐθεῖαν ἴσην αὐτὸ πρὸς οὐδενός ἐστι ζητούμενον. τὸ τοίνυν καὶ πρὸς Ἀρχιμήδους προτεθὲν τοιοῦτόν ἐστιν, ὅτι τὸ τρίγωνον τὸ ὀρθογώνιον τὸ ἔχον, ὡς προείρηται, τὰς πλευρὰς ἴσον ἐστὶ τῷ κύκλῳ· ὥστε τὸ προτεθὲν ἐκθέμενος οὐδεμιᾶς ἂν καταχρήσεως κρίνοιτο, θαυμαστὸς δ’ ἂν μᾶλλον κἀν τούτοις δόξειεν τοῖς οὕτως ὑπερμεγέθεσιν τῶν ζητημάτων σαφῆ καὶ ῥαδίαν τὴν εὕρησιν ἐπιτιθείς. ὡς δὲ εἴρηται, οὐδεμιᾶς δεῖ ζητήσεως τῷ πρώτῳ θεωρήματι. τὸ γὰρ ΠΟΡ τρίγωνον ὅτι μεῖζόν ἐστιν ἢ τὸ ἥμισυ τοῦ ΑΖΟΜ σχήματος, καὶ ὅτι ἁπλῶς περὶ τὸν δοθέντα κύκλον δυνατὸν εὐθύγραμμον περιγράψαι, ὥστε τὰ τμήματα τὰ μεταξὺ τῶν τοῦ κύκλου περιφερειῶν καὶ τῶν πλευρῶν τοῦ περιγραφομένου εὐθυγράμμου ἐλάττονα εἶναι τοῦ δοθέντος χωρίου, σαφῶς εἴρηται ἐν τοῖς εἰς τὸ πρῶτον τῶν Περὶ σφαίρας καὶ κυλίνδρου γεγραμμένοις ἡμῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "232",
+      "text": "Εἰς τὸ γʹ θεώρημα. Ἐν τούτῳ τῷ θεωρήματι συνεχῶς ἐπιταττόμεθα τοῦ δοθέντος ἀριθμοῦ τὴν τετραγωνικὴν πλευρὰν εὑρεῖν. τοῦτο δὲ ἀκριβῶς μὲν εὑρεῖν ἐπὶ ἀριθμοῦ μὴ ὄντος τετραγώνου ἀδύνατον· ἀριθμὸς μὲν γὰρ ἐφ’ ἑαυτὸν πολλαπλασιαζόμενος ποιεῖ τινα τετράγωνον ἀριθμόν, ὁ ἀριθμὸς δὲ καὶ μόριον ἐφ’ ἑαυτὰ γενόμενα οὐκέτι ἀριθμὸν ποιεῖ πλήρη, ἀλλὰ καὶ μόριον. ὅπως δὲ δεῖ σύνεγγυς τὴν δυναμένην πλευρὰν τὸν δοθέντα ἀριθμὸν εὑρεῖν, εἴρηται μὲν Ἥρωνι ἐν τοῖς Μετρικοῖς, εἴρηται δὲ Πάππῳ καὶ Θέωνι καὶ ἑτέροις πλείοσιν ἐξηγουμένοις τὴν Μεγάλην σύνταξιν τοῦ Κλαυδίου Πτολεμαίου· ὥστε οὐδὲν ἡμᾶς χρὴ περὶ τούτου ζητεῖν ἐξὸν τοῖς φιλομαθέσιν ἐξ ἐκείνων ἀναλέγεσθαι. Καὶ ἡ ὑπὸ ΓΕΖ τρίτου ὀρθῆς ἐὰν γὰρ τὴν τοῦ ἑξαγώνου περιφέρειαν διχοτομήσαντες καὶ τὸ ἥμισυ αὐτῆς πρὸς τῷ Γ ἀπολαβόντες ἐπιζεύξωμεν τὴν ΕΖ, ἔσται ἡ ὑπὸ ΓΕΖ τρίτου ὀρθῆς. ἡ γὰρ πρὸς τῷ Γ ἀποληφθεῖσα περιφέρεια ἡμίσεια οὖσα τῆς τοῦ ἑξαγώνου δωδέκατόν ἐστι τοῦ κύκλου· ὥστε καὶ ἡ ὑπὸ ΓΕΖ γωνία πρὸς τῷ κέντρῳ οὖσα δωδέκατόν ἐστι τῶν τεσσάρων ὀρθῶν· τρίτου ἄρα ὀρθῆς. Ἡ ΕΖ ἄρα πρὸς ΖΓ λόγον ἔχει, ὃν τϛ πρὸς ρνγ ὅτι διπλῆ ἐστιν ἡ ΕΖ τῆς ΖΓ, δῆλον ἐντεῦθεν· ἐὰν γὰρ προσεκβαλόντες τὴν ΖΓ ἐπὶ τὸ Γ καὶ ἴσην αὐτῇ ἀποθέμενοι ἐπιζεύξωμεν ἀπὸ τοῦ Ε, συσταθήσεται [ἡ πρὸς τῷ Γ γωνία διμοίρου ὀρθῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "234",
+      "text": "ἔστιν δὲ καὶ] ἡ πρὸς τῷ Ε γωνία διμοίρου ὀρθῆς. ἔστι δὲ καὶ ἡ πρὸς τῷ Ζ διμοίρου· ἰσοπλεύρου ἄρα τριγώνου ἥμισύ ἐστι τὸ ΓΕΖ, καὶ διὰ τὸ τὴν βάσιν τοῦ ἰσοπλεύρου ἴσην οὖσαν τῇ ΕΖ δίχα τέμνεσθαι κατὰ τὸ Γ διπλῆ ἐστιν ἡ ΕΖ τῆς ΖΓ. Ἡ δὲ ΕΓ πρὸς ΓΖ λόγον ἔχει, ὃν σξε πρὸς ρνγ ἐπεὶ γὰρ ἡ ΕΖ ὑπόκειται τϛ , ἐὰν αὐτὰ ἐφ’ ἑαυτὰ πολυπλασιάσωμεν, γενήσεται Μ θ ͵ γχλϛ . ἡ δὲ ΓΖ ἐστι ρνγ · ὥστε τὸ ἀπ’ αὐτῆς ἔσται Μ β ͵ γυθ . ἐπεὶ οὖν τὸ ἀπὸ ΕΖ ἴσον ἐστὶ τοῖς ἀπὸ ΕΓ, ΓΖ, ἐὰν ἀπὸ τοῦ ἀπὸ ΕΖ ὄντος Μ θ ͵ γχλϛ ἀφέλωμεν τὸ ἀπὸ ΓΖ ὑπάρχον Μ β ͵ γυθ , καταλειφθήσεται τὸ ἀπὸ ΕΓ Μ ζ σκζ , ὧν πλευρὰ τετραγωνικὴ σξε καὶ ἔτι μόριον ἐλάχιστον καὶ ἀνεπαίσθητον· λείπεται γὰρ ἡ τῶν σξε δύναμις τῆς ἀκριβοῦς μονάσιν β . οἱ δὲ πολλαπλασιασμοὶ ὑπόκεινται· [Omitted graphic marker] Τετμήσθω οὖν ἡ ὑπὸ ΖΕΓ δίχα τῇ Ε Η · ἔστιν ἄρ α , ὡς ἡ ΖΕ πρὸς Ε Γ , ἡ ΖΗ πρὸς Η Γ, διὰ τὸ τρίτον θεώρημα τοῦ ἕκτου βιβλίου τῆς Εὐκλείδου Στοιχειώσεως. καὶ συνθέντι, ὡς συναμφότερος ἡ ΖΕ, ΕΓ πρὸς ΕΓ, ἡ ΖΓ πρὸς ΓΗ, καὶ ἐναλλάξ, ὡς συναμφότερος ἡ Ζ Ε , ΕΓ πρὸς Ζ Γ , ἡ ΕΓ πρὸς Γ Η.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "236",
+      "text": "συναμφότερος δὲ ἡ ΕΖ, ΕΓ μείζων ἐστὶν ἤπερ φοα · ἡ μὲν γὰρ ΖΕ ὑπόκειται τϛ , ἡ δὲ ΕΓ σξε καὶ ἔτι μορίου τινός· ὥστε μείζονές εἰσι τῶν φοα . ἡ δὲ ΖΓ ἐστιν ρνγ · συναμφότερος ἄρα ἡ ΖΕ, ΕΓ πρὸς ΖΓ μείζονα λόγον ἔχει ἤπερ φοα πρὸς ρνγ · ὥστε καὶ ἡ ΕΓ πρὸς ΗΓ μείζονα λόγον ἔχει ἤπερ φοα πρὸς ρν γ . Ἡ ΗΕ ἄρα πρὸς ΗΓ δυνάμει λόγον ἔχει, ὃν Μ λδ ͵ θυν πρὸς Μ β ͵ γυθ συναχθήσεται δὲ τοῦτο οὕτως· ἐπεὶ γὰρ δέδεικται ἡ ΕΓ πρὸς ΓΗ μείζονα λόγον ἔχουσα ἤπερ φοα πρὸς ρνγ , εἴ τις ὑποθοῖτο τὴν μὲν ΕΓ φοα , τὴν δὲ ΓΗ ρνγ , ἔσται τὸ μὲν ἀπὸ ΕΓ Μ λβ ͵ ϛμα , τὸ δὲ ἀπὸ ΓΗ Μ β ͵ γυθ , συναμφότερα δὲ ἴσα ὄντα τῷ ἀπὸ ΕΗ ἔσται Μ λδ ͵ θυν . τούτων πλευρὰ τετραγωνικὴ φϙα ηʹ ἔγγιστα· ἐλλείπει γὰρ ὁ ἀπὸ τοῦ φϙα ηʹ τετράγωνος εἰς τὸ ἀκριβὲς μ ο κα ϛʹ ιεʹ ἔγγιστα· ἡ ἄρα ΕΗ πρὸς ΗΓ δυνάμει μὲν λόγον ἔχει, ὃν Μ λδ ͵ θυν πρὸς Μ β ͵ γυθ , μήκει δέ, ὃν φϙα ηʹ ἔγγιστα πρὸς ρνγ . οἱ δὲ πολλαπλασιασμοὶ ὑπόκεινται· [Omitted graphic marker] Πάλιν δίχα ἡ ὑπὸ ΗΕΓ τῇ ΘΕ· διὰ τὰ αὐτὰ ἄρα ἡ ΕΓ πρὸς ΓΘ μείζονα λόγον ἔχει, ἢ ὃν ͵ αρξβ ηʹ πρὸς ρνγ γίνεται γὰρ διὰ τὴν διχοτομίαν τῆς γωνίας, ὡς ἡ ΗΕ πρὸς ΕΓ, ἡ ΗΘ πρὸς ΘΓ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "238",
+      "text": "καὶ συνθέντι, ὡς συναμφότερος ἡ ΗΕ, ΕΓ πρὸς ΕΓ, ἡ ΗΓ πρὸς ΓΘ, καὶ ἐναλλάξ, ὡς συναμφότερος ἡ ΗΕ, ΕΓ πρὸς ΗΓ, ἡ ΕΓ πρὸς ΓΘ. καὶ ἔστιν ἡ μὲν ΕΓ φοα καὶ ἔτι μορίου τινός, ἡ δὲ ΕΗ φϙα ηʹ καὶ ἔτι μορίου τινός· μείζονες ἄρα εἰσὶν ἢ ͵ αρξβ ηʹ. καὶ ἔστιν ἡ ΗΓ ρνγ · συναμφότερος ἄρα ἡ ΗΕ, ΕΓ πρὸς ΗΓ μείζονα λόγον ἔχει ἤπερ ͵ αρξβ ηʹ πρὸς ρνγ . Ἡ ΘΕ ἄρα πρὸς ΘΓ μείζονα λόγον ἔχει, ἢ ὃν ͵ αροβ ηʹ πρὸς ρνγ ἐπεὶ γὰρ δέδεικται ἡ ΕΓ πρὸς ΘΓ μείζονα λόγον ἔχουσα ἤπερ ͵ αρξβ ηʹ πρὸς ρνγ , εἴ τις ὑποθοῖτο αὐτὰς οὕτως ἔχειν, ἔσται τὸ μὲν ἀπὸ ΕΓ Μ ρλε φλδ 𐅵 ʹ ξδʹ, τὸ δὲ ἀπὸ ΓΘ Μ β ͵ γυθ . τὸ ἄρα ἀπὸ ΕΘ ἴσον ὂν τοῖς ἀπὸ ΕΓ, ΓΘ ἔσται Μ ρλζ ͵ γϡμγ 𐅵 ʹ ξδʹ, ὧν πλευρὰ τετραγωνικὴ ͵ αροβ ηʹ ἔγγιστα· λείπεται γὰρ τῆς ἀκριβοῦς δυνάμεως τὸ ἀπ’ αὐτῆς μ ο ξϛ 𐅵 ʹ. οἱ δὲ πολλαπλασιασμοὶ ὑπόκεινται. [Omitted graphic marker] Ἔτι δίχα ἡ ὑπὸ ΘΕΓ τῇ ΕΚ· ἡ ΕΓ ἄρα πρὸς ΓΚ μείζονα λόγον ἔχει ἢ ͵ βτλδ δʹ πρὸς ρνγ πάλιν γὰρ διὰ τὴν διχοτομίαν τῆς ὑπὸ ΘΕΓ γωνίας ἐστίν, ὡς ἡ ΘΕ πρὸς ΕΓ, ἡ ΘΚ πρὸς ΓΚ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "240",
+      "text": "καὶ συνθέντι, ὡς συναμφότερος ἡ ΘΕ, ΕΓ πρὸς ΕΓ, ἡ ΘΓ πρὸς ΓΚ· ἐναλλάξ, ὡς συναμφότερος ἡ ΘΕ, ΕΓ πρὸς ΘΓ, ἡ ΕΓ πρὸς ΓΚ. καὶ ἐπεὶ δέδεικται ἡ ΘΕ ͵ αροβ ηʹ καὶ ἔτι μορίου τινός, ἡ δὲ ΕΓ ͵ αρξβ ηʹ καὶ ἔτι μορίου τινός, συναμφότερος ἄρα ἡ ΘΕ, ΕΓ μείζων ἐστὶν ἢ ͵ βτλδ δʹ. καὶ ὑπόκειται ἡ ΘΓ ρνγ · συναμφότερος ἄρα ἡ ΘΕ, ΕΓ πρὸς ΘΓ μείζονα λόγον ἔχει ἤπερ ͵ βτλδ δʹ πρὸς ρνγ . Ἡ ΕΚ ἄρα πρὸς τὴν ΓΚ μείζονα λόγον ἔχει, ἢ ὃν ͵ βτλθ δʹ πρὸς ρνγ πάλιν γάρ, ἐπεὶ ὑπόκειται ἡ μὲν ΕΓ ͵ βτλδ δʹ, ἡ δὲ ΓΚ ρνγ , ἔσται τὸ μὲν ἀπὸ ΕΓ Μ φμδ ͵ ηψκγ ιϛʹ, τὸ δὲ ἀπὸ ΓΚ Μ β ͵ γυθ . τούτοις δὲ ἴσον ἐστὶ τὸ ἀπὸ ΚΕ· ἔσται ἄρα Μ φμζ ͵ βρλβ ιϛʹ, ὧν πλευρὰ τετραγωνικὴ ἔγγιστα ͵ βτλθ δʹ· λείπει γὰρ τὸ ἀπ’ αὐτῆς τοῦ ἀκριβοῦς μ ο μα 𐅵 ʹ. οἱ δὲ πολλαπλασιασμοὶ ὑπόκεινται· [Omitted graphic marker] Ἔτι δίχα ἡ ὑπὸ ΚΕΓ τῇ ΕΛ· ἡ ΕΓ ἄρα πρὸς ΓΛ μείζονα λόγον ἔχει ἤπερ τὰ ͵ δχογ 𐅵 ʹ πρὸς ρνγ πάλιν γὰρ διὰ τὴν διχοτομίαν τῆς γωνίας ἐστίν, ὡς ἡ ΚΕ πρὸς ΕΓ, ἡ ΚΛ πρὸς ΛΓ· καὶ συνθέντι, ὡς συναμφότερος ἡ ΚΕ, ΕΓ πρὸς ΕΓ, ἡ ΚΓ πρὸς ΓΛ· ἐναλλάξ, ὡς συναμφότερος ἡ ΚΕ, ΕΓ πρὸς ΓΚ, ἡ ΕΓ πρὸς ΛΓ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "242",
+      "text": "καί ἐστιν ἡ μὲν ΚΕ ͵ βτλθ δʹ καὶ ἔτι μορίου τινός, ἡ δὲ ΕΓ ͵ βτλδ δʹ καὶ ἔτι μορίου τινός· συναμφότερος ἄρα ἡ ΚΕ, ΕΓ μείζων ἐστὶν ἢ ͵ δχογ 𐅵 ʹ. καί ἐστιν ἡ ΚΓ ρνγ · συναμφότερος ἄρα ἡ ΕΚ, ΕΓ πρὸς ΚΓ μείζονα λόγον ἔχει ἤπερ ͵ δχογ 𐅵 ʹ πρὸς ρνγ . ὡς δὲ συναμφότερος ἡ ΚΕ, ΕΓ πρὸς ΚΓ, οὕτως ἡ ΕΓ πρὸς ΓΛ· καὶ ἡ ΕΓ ἄρα πρὸς ΓΛ μείζονα λόγον ἔχει ἤπερ ͵ δχογ 𐅵 ʹ πρὸς ρνγ . ἐπεὶ οὖν ἡ ὑπὸ ΖΕΓ τρίτον οὖσα ὀρθῆς δωδέκατον μέρος ἐστὶ τῶν τεσσάρων ὀρθῶν, ταύτης δὲ ἡμίσεια ἡ ὑπὸ ΗΕΓ, ἡ ὑπὸ ΗΕΓ εἰκοστοτέταρτον ἂν εἴη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "244",
+      "text": "ταύτης δὲ ἡμίσεια ἡ ὑπὸ ΘΕΓ· ὥστε μηʹ ἐστιν. ταύτης δὲ ἡμίσειά ἐστιν ἡ ὑπὸ ΚΕΓ· ϙϛʹ ἄρα ἐστίν· ἧς ἡμίσεια οὖσα ἡ ὑπὸ ΛΕΓ ρϙβʹ ἐστιν. κείσθω οὖν, φησίν, ἴση αὐτῇ ἡ ὑπὸ ΓΕΜ, καὶ ἐκβεβλήσθω ἡ ΖΓ ἐπὶ τὸ Μ· ἡ ἄρα ὑπὸ ΛΕΜ διπλασία οὖσα τῆς ὑπὸ ΛΕΓ ϙϛʹ ἐστι τῶν τεσσάρων ὀρθῶν· ὥστε καὶ ἡ ΛΜ πλευρά ἐστι τοῦ περὶ τὸν κύκλον περιγραφομένου πολυγώνου πλευρὰς ἔχοντος ϙϛ . ἐπεὶ οὖν ἡ ΕΓ πρὸς ΛΓ δέδεικται μείζονα λόγον ἔχουσα ἤπερ ͵ δχογ 𐅵 ʹ πρὸς ρνγ , καί ἐστι τῆς μὲν ΕΓ διπλῆ ἡ ΑΓ, τῆς δὲ ΛΓ ἡ ΛΜ, καὶ ἡ ΑΓ ἄρα πρὸς ΛΜ μείζονα λόγον ἔχει ἤπερ ͵ δχογ 𐅵 ʹ πρὸς ρνγ · ἀναπάλιν ἄρα ἡ ΛΜ πρὸς ΑΓ ἐλάττονα λόγον ἔχει ἤπερ ρνγ πρὸς ͵ δχογ 𐅵 ʹ. καὶ ἐπεὶ ἡ ΛΜ πολυγώνου ἐστὶ πλευρὰ τοῦ πλευρὰς ἔχοντος ϙϛ , ἡ περίμετρος ἄρα τοῦ πολυγώνου ἐστὶ Μ α ͵ δχπη · ὁ γὰρ ϙϛ ἐπὶ τὸν ρνγ πολλαπλασιαζόμενος τοῦτον ποιεῖ· ἡ περίμετρος ἄρα τοῦ πολυγώνου πρὸς τὴν ΑΓ διάμετρον ἐλάττονα λόγον ἔχει ἤπερ Μ α ͵ δχπη πρὸς ͵ δχογ 𐅵 ʹ. ἡ περίμετρος ἄρα τοῦ πολυγώνου τῆς διαμέτρου τοῦ κύκλου ἐστὶ τριπλασία καὶ ἔτι ὑπερέχει μ ο χξζ 𐅵 ʹ. ταῦτα δὲ ἐλάττονά ἐστι τοῦ ἑβδόμου τῆς διαμέτρου μιᾶς μονάδος ἑβδόμῳ μέρει· τὰ γὰρ ἑπταπλάσια τῶν χξζ 𐅵 ʹ, ἅπερ ἐστὶ ͵ δχοβ 𐅵 ʹ, ἐλάττονά ἐστι τῆς διαμέτρου μ ο α . ἐπεὶ οὖν τὸ πολύγωνον ἔλαττόν ἐστιν ἢ τριπλάσιον καὶ ἔτι ἑβδόμῳ ὑπερέχον, ἡ δὲ περίμετρος τοῦ κύκλου ἐλάσσων ἐστὶ τῆς τοῦ πολυγώνου, πολλῷ ἄρα ἡ τοῦ κύκλου περιφέρεια τῆς διαμέτρου ἐστὶ τριπλασία καὶ ἔτι ὑπερέχει ἐλάσσονι ἢ ἑβδόμῳ μέρει. Ἑξῆς δὲ κατασκευάζων τὸ λοιπὸν μέρος τοῦ θεωρήματός φησιν· ἔστω κύκλος περὶ διάμετρον τὴν Α Γ , καὶ τρίτου ὀρθῆς ἡ ὑπὸ ΒΑ Γ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "246",
+      "text": "τοῦτο δὲ ἔσται, ἐὰν ἀπὸ τοῦ Γ τῇ τοῦ ἑξαγώνου ἴσην ἀπολαβόντες τὴν ΓΒ ἐπιζεύξωμεν τὴν ΑΒ· ἡ γὰρ ἐπὶ τῆς τοῦ ἑξαγώνου περιφερείας βεβηκυῖα γωνία πρὸς μὲν τῷ κέντρῳ διμοίρου ἐστὶν ὀρθῆς, πρὸς δὲ τῇ περιφερείᾳ τρίτου. ἐπεὶ οὖν ὀρθή ἐστιν ἡ ὑπὸ ΑΒΓ, τρίτου δὲ ἡ ὑπὸ ΒΑΓ, διμοίρου ἄρα ἐστὶν ἡ ὑπὸ ΑΓΒ. ἐὰν ἄρα προσεκβάλλοντες τὴν ΓΒ ἐπὶ τὸ Β καὶ ἴσην αὐτῇ ἀπολαβόντες ἀπὸ τοῦ Α ἐπιζεύξωμεν, ἰσόπλευρον ἔσται τὸ τρίγωνον, καὶ διὰ τὸ τὴν ΑΒ κάθετον διχοτομεῖν τὴν βάσιν διπλῆ ἐστιν ἡ ΑΓ τῆς ΓΒ. ἐὰν οὖν πάλιν λάβωμεν τὴν ΑΓ ͵ αφξ , ἔσται ἡ ΓΒ ψπ , καὶ τὸ μὲν ἀπὸ ΑΓ ἔσται Μ σμγ ͵ δχ , τὸ δὲ ἀπὸ ΓΒ Μ ξ ͵ ηυ . καὶ ἐὰν ἀφέλωμεν τὸ ἀπὸ ΓΒ ἀπὸ τοῦ ἀπὸ ΑΓ, λοιπὸν καταλειφθήσεται τὸ ἀπὸ ΑΒ Μ ρπβ ͵ ες , ὧν πλευρὰ τετραγωνικὴ ͵ ατνα ἔγγιστα· περιττεύει γὰρ τὸ ἀπ’ αὐτῆς τοῦ ἀκριβοῦς μ ο α . διό φησιν· ἐλάσσονα λόγον ἔχει ἡ ΑΒ πρὸς ΒΓ ἤπερ ͵ ατνα πρὸς ψ π . οἱ δὲ πολλαπλασιασμοὶ ὑπόκεινται· [Omitted graphic marker] Τετμήσθω δίχα ἡ ὑπὸ ΒΑΓ τῇ ΑΖ Η .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "248",
+      "text": "ἐπεὶ οὖν ἴση ἐστὶν ἡ ὑπὸ ΒΑΗ τῇ ὑπὸ ΗΓ Β· ἐπὶ γὰρ τῆς αὐτῆς περιφερείας βεβήκασιν· ἀλλὰ καὶ τῇ ὑπὸ ΗΑ Γ , καὶ ἡ ὑπὸ ΗΓΒ ἄρα τῇ ὑπὸ ΗΑΓ ἐστιν ἴσ η . καὶ κοινὴ ἡ ὑπὸ ΑΗΓ ὀρθ ή · καὶ λοιπὴ ἄρα ἡ ὑπὸ ΗΖΓ λοιπῇ τῇ ὑπὸ ΑΓΗ ἐστιν ἴσ η . ἰσογώνιον ἄρα ἐστὶ τὸ ΑΗΓ τρίγωνον τῷ ΓΗΖ τριγών ῳ · ἔστιν ἄρ α , ὡς ἡ ΑΗ πρὸς Η Γ , ἡ ΓΗ πρὸς ΗΖ καὶ ἡ ΑΓ πρὸς Γ Ζ. τῶν γὰρ ἰσογωνίων τριγώνων ἀνάλογόν εἰσιν αἱ πλευραί, καὶ ὁμόλογοι αἱ τὰς ἴσας γωνίας ὑποτείνουσαι. Ἀλλ’ ὡς ἡ ΑΓ πρὸς ΓΖ, συναμφότερος ἡ ΓΑΒ πρὸς ΓΒ· καὶ ὡς συναμφότερος ἄρα ἡ ΒΑΓ πρὸς ΓΒ, ἡ ΑΗ πρὸς ΗΓ ἐπεὶ γὰρ ἡ ὑπὸ ΒΑΓ γωνία δίχα τέτμηται ὑπὸ τῆς ΑΖ, ἔστιν, ὡς ἡ ΒΑ πρὸς ΑΓ, ἡ ΒΖ πρὸς ΖΓ. καὶ συνθέντι, ὡς συναμφότερος ἡ ΒΑ, ΑΓ πρὸς ΑΓ, ἡ ΒΓ πρὸς ΓΖ· καὶ ἐναλλάξ, ὡς συναμφότερος ἡ ΒΑ, ΑΓ πρὸς ΒΓ, ἡ ΑΓ πρὸς ΓΖ. καί ἐστιν ἡ μὲν ΑΒ ἐλάσσων ἢ ͵ ατνα , ἡ δὲ ΑΓ ͵ αφξ , ἡ δὲ ΒΓ ψπ · συναμφότερος ἄρα ἡ ΑΒ, ΑΓ πρὸς ΒΓ ἐλάσσονα λόγον ἔχει ἤπερ ͵ βϡια πρὸς ψπ · καὶ ἡ ΑΓ ἄρα πρὸς ΓΖ ἐλάσσονα λόγον ἔχει ἤπερ ͵ βϡια πρὸς ψπ . ὡς δὲ ἡ ΑΓ πρὸς ΓΖ, ἡ ΑΗ πρὸς ΗΓ· καὶ ἡ ΑΗ ἄρα πρὸς ΗΓ ἐλάσσονα λόγον ἔχει ἤπερ ͵ βϡια πρὸς ψπ . διὰ οὖν ταῦτα ἔσται τὸ μὲν ἀπὸ ΑΗ Μ ωμζ ͵ γϡκα , τὸ δὲ ἀπὸ ΗΓ Μ ξ ͵ ηυ . καί ἐστιν αὐτοῖς ἴσον τὸ ἀπὸ ΑΓ· καὶ αὐτὸ ἄρα ἔσται Μ ϡη ͵ βτκα · ὧν πλευρὰ τετραγωνικὴ ͵ γιγ 𐅵 ʹ δʹ ἔγγιστα· ὑπερέχει γὰρ τὸ ἀπ’ αὐτῶν τῆς ἀκριβοῦς δυνάμεως μ ο τξη ιϛʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "250",
+      "text": "διὰ ταῦτα οὖν φησιν, ὅτι ἡ ΑΓ πρὸς ΓΗ ἐλάσσονα λόγον ἔχει ἤπερ ͵ γιγ 𐅵 ʹ δʹ πρὸς ψ π . οἱ δὲ πολλαπλασιασμοὶ ὑπόκεινται· [Omitted graphic marker] Δίχα ἡ ὑπὸ ΓΑΗ τῇ Α Θ. διὰ οὖν τὴν διχοτομίαν τῆς γωνίας καὶ τὴν ὁμοιότητα τῶν τριγώνων καὶ ἀναλογίαν τῶν πλευρῶν καὶ τὸ συνθέντι καὶ ἐναλλάξ ἐστιν, ὡς συναμφότερος ἡ ΗΑ, ΑΓ πρὸς ΗΓ, ἡ ΑΘ πρὸς ΘΓ. καὶ ὑπέκειτο ἡ μὲν ΑΗ ἐλάσσων ἢ ͵ βϡια , ἡ δὲ ΑΓ ἐλάσσων ἤπερ ͵ γιγ 𐅵 ʹ δʹ· συναμφότερος ἄρα ἡ ΗΑ, ΑΓ ἐστιν ἐλάσσων ἢ ͵ εϡκδ 𐅵 ʹ δʹ. ἡ δὲ ΗΓ ἐστι ψπ · συναμφότερος ἄρα ἡ ΗΑ, ΑΓ πρὸς ΗΓ ἐλάσσονα λόγον ἔχει ἤπερ ͵ εϡκδ 𐅵 ʹ δʹ πρὸς ψπ · ὤστε καὶ ἡ ΑΘ πρὸς ΘΓ ἐλάσσονα λόγον ἔχει ἤπερ ͵ εϡκδ 𐅵 ʹ δʹ πρὸς ψπ . ὥστε ἡ ΑΘ πρὸς ΘΓ ἐλάσσονα λόγον ἔχει ἤπερ υνε 𐅵 ʹ δʹ πρὸς ξ · ἑκατέρα γὰρ ἑκατέρας ἐστὶ μέρος ιγʹ· καὶ τὰ τούτων τετραπλάσια, ἡ ΑΘ πρὸς ΘΓ ἐλάσσονα λόγον ἔχει ἤπερ ͵ αωκγ πρὸς σμ · διὰ τοῦτο γάρ φησιν, ὅτι ἑκατέρα ἑκατέρας ἐστὶ δ ιγʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "252",
+      "text": "καὶ ἐπεὶ ἡ ΑΘ ἐστιν ͵ αωκγ , τὸ ἄρα ἀπ’ αὐτῆς ἐστι Μ τλβ ͵ γτκθ . ἔστιν δὲ καὶ ἡ ΘΓ σμ καὶ τὸ ἀπ’ αὐτῆς Μ ε ͵ ζχ · καί ἐστι τοῖς ἀπὸ ΑΘ, ΘΓ ἴσον τὸ ἀπὸ ΑΓ· ἔσται ἄρα Μ τλη ϡκθ · ὧν πλευρὰ τετραγωνικὴ ͵ αωλη θ ιαʹ· τὸ γὰρ ἀπ’ αὐτῆς ὑπερέχει τοῦ ἀκριβοῦς μ ο τκα ἐγγύς. ὥστε ἡ ΑΓ πρὸς ΘΓ ἐλάσσονα λόγον ἔχει ἤπερ ͵ αωλη θ ιαʹ πρὸς σμ . οἱ δὲ πολλαπλασιασμοὶ ὑπόκεινται· [Omitted graphic marker] Ἔτι δίχα ἡ ὑπὸ ΘΑΓ γωνία τῇ Κ Α.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "254",
+      "text": "πάλιν οὖν διὰ τὴν διχοτομίαν τῆς γωνίας καὶ τὴν ὁμοιότητα τῶν τριγώνων καὶ τὴν ἀναλογίαν τῶν πλευρῶν καὶ τὸ συνθέντι καὶ ἐναλλάξ ἐστιν, ὡς συναμφότερος ἡ ΘΑ, ΑΓ πρὸς ΓΘ, ἡ ΑΚ πρὸς ΚΓ. ἀλλὰ συναμφότερος ἡ ΘΑ, ΑΓ ἐλάσσων ἐστὶν ἢ ͵ γχξα θ ιαʹ, ἐπειδὴ ἡ μὲν ΘΑ ὑπόκειται ͵ αωκγ , ἡ δὲ ΑΓ ͵ αωλη θ ιαʹ. ἔστιν δὲ καὶ ἡ ΘΓ σμ · συναμφότερος ἄρα ἡ ΘΑ, ΑΓ πρὸς ΘΓ ἐλάσσονα λόγον ἔχει ἤπερ ͵ γχξα θ ιαʹ πρὸς σμ · ὥστε καὶ ἡ ΑΚ πρὸς ΚΓ ἐλάσσονα λόγον ἔχει ἤπερ ͵ γχξα θ ιαʹ πρὸς σμ . καὶ ἐπεὶ τῶν μὲν ͵ γχξα θ ιαʹ τὸ ια [καὶ] μʹ ἐστι ͵ αζ , τῶν δὲ σμ ξϛ , ἡ ΑΚ ἄρα πρὸς ΚΓ ἐλάσσονα λόγον ἔχει ἤπερ ͵ αζ πρὸς ξ ϛ . καί ἐστι τὸ μὲν ἀπὸ ΑΚ Μ ρα ͵ δμθ , τὸ δὲ ἀπὸ ΚΓ ͵ δτνϛ , οἷς ἴσον ὂν τὸ ἀπὸ ΑΓ ἐστι Μ ρα ͵ ηυε · ὧν πλευρὰ τετραγωνικὴ ͵ αθ ϛʹ ἔγγιστα· ὑπερέχει γὰρ τὸ ἀπ’ αὐτῆς τοῦ ἀκριβοῦς μ ο ιβ γʹ λϛʹ. ἡ ΑΓ ἄρα πρὸς ΓΚ ἐλάσσονα λόγον ἔχει ἤπερ ͵ αθ ϛʹ πρὸς ξ ϛ . οἱ δὲ πολλαπλασιασμοὶ ὑπόκεινται· [Omitted graphic marker] Ἔτι δίχα ἡ ὑπὸ ΚΑΓ γωνία τῇ Α Λ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "256",
+      "text": "διὰ τὰ αὐτὰ δή ἐστιν, ὡς συναμφότερος ἡ ΚΑ, ΑΓ πρὸς ΚΓ, ἡ ΑΛ πρὸς ΛΓ. καί ἐστιν ἡ μὲν ΑΚ ἐλάσσων ἢ ͵ αζ , ἡ δὲ ΑΓ ἐλάσσων ἢ ͵ αθ ϛʹ, ἡ δὲ ΚΓ ξϛ · συναμφότερος ἄρα ἡ ΚΑ, ΑΓ πρὸς ΚΓ ἐλάσσονα λόγον ἔχει ἤπερ ͵ βιϛ ϛʹ πρὸς ξϛ . καὶ ἡ ΑΛ ἄρα πρὸς ΛΓ ἐλάσσονα λόγον ἔχει ἤπερ ͵ βιϛ ϛʹ πρὸς ξ ϛ . καὶ ἐπεὶ ἡ ΑΛ ὑπόκειται ͵ βιϛ ϛʹ καὶ τὸ ἀπ’ αὐτῆς Μ υϛ ͵ δϡκη λϛʹ, ἡ δὲ ΛΓ ξϛ καὶ τὸ ἀπ’ αὐτῆς ͵ δτνϛ , ἴσον δὲ αὐτοῖς ἐστι τὸ ἀπὸ ΑΓ, ἔσται ἄρα Μ υϛ ͵ θσπδ λϛʹ· ὧν πλευρὰ τετραγωνική ἐστι ͵ βιζ δʹ ἔγγιστα· ὑπερέχει γὰρ τὸ ἀπ’ αὐτῆς τοῦ ἀκριβοῦς μ ο ιγ 𐅵 ʹ κʹ. ὥστε ἡ ΑΓ πρὸς ΓΛ ἐλάσσονα λόγον ἔχει ἤπερ ͵ βιζ δʹ πρὸς ξ ϛ . οἱ δὲ πολλαπλασιασμοὶ ὑπόκεινται· [Omitted graphic marker] ἐπεὶ οὖν ἡ ΑΓ πρὸς ΓΛ ἐλάσσονα λόγον ἔχει ἤπερ ͵ βιζ δʹ πρὸς ξϛ , ἀνάπαλιν ἄρα ἡ ΛΓ πρὸς ΓΑ μείζονα λόγον ἔχει ἤπερ ξϛ πρὸς ͵ βιζ δʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "258",
+      "text": "καὶ ἐπεὶ ἡ ΓΒ περιφέρεια ἕκτον ἐστὶ τοῦ κύκλου, ἡ ΗΓ ἄρα ιβʹ μέρος ἐστίν, ἡ δὲ ΘΓ κδʹ, ἡ δὲ ΚΓ μηʹ, ἡ δὲ ΛΓ ϙϛʹ· ὥστε ἡ ΛΓ εὐθεῖα πολυγώνου ἐστὶ πλευρὰ ϙϛ πλευρὰς ἔχοντος. καί ἐστιν ἡ ΛΓ ξϛ · ἡ ἄρα τοῦ πολυγώνου περίμετρος πρὸς τὴν τοῦ κύκλου διάμετρον μείζονα λόγον ἔχει ἤπερ ͵ ϛτλϛ πρὸς ͵ βιζ δ ʹ. ταῦτα δέ ἐστι τριπλάσια καὶ ἔτι ὑπερέχει σπδ δʹ, ἅπερ μείζονά ἐστι δέκα ἑβδομηκοστομόνων· ὅ ἐστι μ ο κζ 𐅵 ʹ ϛʹ ἔγγιστα τὰ δὲ δεκαπλάσια τούτων σοζ · πολλῷ ἄρα ἡ τοῦ κύκλου περιφέρεια μείζων ἐστὶν ἢ τριπλασία καὶ δέκα ἑβδομηκοστόμον α. Ὡς μὲν οὖν ἐνεχώρει, οἱ παρ’ αὐτοῦ εἰρημένοι ἀριθμοὶ μετρίως ἐσαφηνίσθησαν· ἰστέον δέ, ὅτι καὶ Ἀπολλώνιος ὁ Περγαῖος ἐν τῷ Ὠκυτοκίῳ ἀπέδειξεν αὐτὸ δι’ ἀριθμῶν ἑτέρων ἐπὶ τὸ σύνεγγυς μᾶλλον ἀγαγών. τοῦτο δὲ ἀκριβέστερον μὲν εἶναι δοκεῖ, οὐ χρήσιμον δὲ πρὸς τὸν Ἀρχιμήδους σκοπόν· ἔφαμεν γὰρ αὐτὸν σκοπὸν ἔχειν ἐν τῷδε τῷ βιβλίῳ τὸ σύνεγγυς εὑρεῖν διὰ τὰς ἐν τῷ βίῳ χρείας. ὥστε οὐδὲ Σπόρος ὁ Νικαεὺς εὔκαιρον εὑρεθήσεται μέμψιν ἐπάγων Ἀρχιμήδει ὡς μὴ ἀκριβῶς εὑρόντι, ποίᾳ εὐθείᾳ ἴση ἐστὶν ἡ τοῦ κύκλου περιφέρεια, ἐξ ὧν αὐτὸς ἐν τοῖς Κηρίοις φησὶν τὸν ἑαυτοῦ διδάσκαλον, Φίλωνα λέγων τὸν ἀπὸ Γαδάρων, εἰς ἀκριβεστέρους ἀριθμοὺς ἀγαγεῖν τῶν ὑπ’ Ἀρχιμήδους εἰρημένων, τοῦ τε ζʹ φημὶ καὶ τῶν ι οαʹ· ἅπαντες γὰρ ἐφεξῆς φαίνονται τὸν σκοπὸν αὐτοῦ ἠγνοηκότες. κέχρηνται δὲ καὶ τοῖς τῶν μυριάδων πολλαπλασιασμοῖς καὶ μερισμοῖς, οἷς οὐκ εὔκολον παρακολουθεῖν τὸν μὴ διὰ τῶν Μάγνου Λογιστικῶν ἠγμένον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "260",
+      "text": "εἰ δέ τις ὅλως ἐβούλετο εἰς ἔλαττον αὐτὸ καταγαγεῖν, ἐχρῆν τοῖς ἐν τῇ Μαθηματικῇ συντάξει Κλαυδίου Πτολεμαίου εἰρημένοις ἀκολουθοῦντα διὰ τῶν μοιρῶν καὶ λεπτῶν καὶ τῶν ἐν τῷ κύκλῳ εὐθειῶν τοῦτο ποιεῖν, καὶ πεποιήκειν ἂν ἐγὼ τοῦτο, εἰ μή, ὅπερ πολλάκις εἶπον, ἐνενόουν, ὡς οὔτε ἀκριβῶς δυνατὸν διὰ τῶν ἐνταῦθα εἰρημένων εὑρεῖν τῇ τοῦ κύκλου περιφερείᾳ ἴσην εὐθεῖαν, καὶ εἴ τις τὸ σύνεγγυς καὶ παρὰ μικρὸν προσέχοι, ἀρκεῖ τὰ ὑπ’ Ἀρχιμήδους ἐνταῦθα εἰρημένα. [Εὐτοκίου Ἀσκαλωνίτου ὑπόμνημα εἰς τὴν Ἀρχιμήδους τοῦ κύκλου μέτρησιν ἐκδόσεως παραναγνωσθείσης τῷ Μιλησίῳ μηχανικῷ Ἰσιδώρῳ ἡμετέρῳ διδασκάλῳ].",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "uvy-aa",
+      "title": {
+        "english": "Commentaries-the Books-the Sphere and Cylinder",
+        "ancient_greek": "Ὑπομνήματα εἰς τὰ περὶ σφαίρας καὶ κυλίνδρου"
+      },
+      "url_slug": "eutocius-of-ascalon-sphere-cylinder-uvy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/eutocius-of-ascalon/sphere-cylinder",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutocius-of-ascalon-sphere-cylinder-uvy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutocius-of-ascalon-sphere-cylinder-uvy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutocius-of-ascalon-sphere-cylinder-uvy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutocius-of-ascalon-sphere-cylinder-uvy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutocius-of-ascalon/sphere-cylinder.epub"
+      }
+    },
+    {
+      "eul_wid": "uvy-ad",
+      "title": {
+        "english": "Commentary-Conics",
+        "ancient_greek": "Ὑπόμνημα εἰς τὰ Κωνικά"
+      },
+      "url_slug": "eutocius-of-ascalon-commentary-conics-uvy-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/eutocius-of-ascalon/commentary-conics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutocius-of-ascalon-commentary-conics-uvy-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutocius-of-ascalon-commentary-conics-uvy-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutocius-of-ascalon-commentary-conics-uvy-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutocius-of-ascalon-commentary-conics-uvy-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutocius-of-ascalon/commentary-conics.epub"
+      }
+    },
+    {
+      "eul_wid": "uvy-ab",
+      "title": {
+        "english": "Commentary-the Books-the Equilibrium of Planes",
+        "ancient_greek": "Ὑπόμνημα εἰς τὰ περὶ ἰσορροπίας ἐπιπέδων"
+      },
+      "url_slug": "eutocius-of-ascalon-equilibrium-planes-uvy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/eutocius-of-ascalon/equilibrium-planes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutocius-of-ascalon-equilibrium-planes-uvy-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutocius-of-ascalon-equilibrium-planes-uvy-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutocius-of-ascalon-equilibrium-planes-uvy-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutocius-of-ascalon-equilibrium-planes-uvy-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutocius-of-ascalon/equilibrium-planes.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "iaw-aq",
+      "title": {
+        "english": "Data",
+        "ancient_greek": "Δεδομένα"
+      },
+      "url_slug": "euclid-of-alexandria-data-iaw-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/euclid-of-alexandria/data",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-data-iaw-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-data-iaw-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-data-iaw-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-data-iaw-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/data.epub"
+      }
+    },
+    {
+      "eul_wid": "phs-af",
+      "title": {
+        "english": "Geography Books 4–8",
+        "ancient_greek": "Γεωγραφία Βιβλία Δ΄-Η΄"
+      },
+      "url_slug": "ptolemy-of-alexandria-geography-4-8-phs-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/geography-4-8",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria-geography-4-8-phs-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria-geography-4-8-phs-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria-geography-4-8-phs-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria-geography-4-8-phs-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/geography-4-8.epub"
+      }
+    },
+    {
+      "eul_wid": "phs-ak",
+      "title": {
+        "english": "On Inclinations",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "ptolemy-of-alexandria-inclinations-phs-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/inclinations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria-inclinations-phs-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria-inclinations-phs-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria-inclinations-phs-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria-inclinations-phs-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/inclinations.epub"
+      }
+    },
+    {
+      "eul_wid": "iaw-ap",
+      "title": {
+        "english": "Optics",
+        "ancient_greek": "Ὀπτικά"
+      },
+      "url_slug": "euclid-of-alexandria-optics-iaw-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/euclid-of-alexandria/optics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-optics-iaw-ap.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-optics-iaw-ap.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-optics-iaw-ap.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-optics-iaw-ap.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/optics.epub"
+      }
+    },
+    {
+      "eul_wid": "ixo-al",
+      "title": {
+        "english": "Sand Reckoner",
+        "ancient_greek": "Ψαμμίτης"
+      },
+      "url_slug": "archimedes-of-syracuse-sand-reckoner-ixo-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/sand-reckoner",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-sand-reckoner-ixo-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-sand-reckoner-ixo-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-sand-reckoner-ixo-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-sand-reckoner-ixo-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/sand-reckoner.epub"
+      }
+    },
+    {
+      "eul_wid": "cus-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "hippocrates-of-chios-testimonies-cus-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates-of-chios/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-of-chios-testimonies-cus-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-of-chios-testimonies-cus-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-of-chios-testimonies-cus-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-of-chios-testimonies-cus-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-of-chios/testimonies.epub"
+      }
+    },
+    {
+      "eul_wid": "cpi-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "theodorus-of-cyrene-testimonies-cpi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theodorus-of-cyrene/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodorus-of-cyrene-testimonies-cpi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodorus-of-cyrene-testimonies-cpi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodorus-of-cyrene-testimonies-cpi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodorus-of-cyrene-testimonies-cpi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodorus-of-cyrene/testimonies.epub"
+      }
+    },
+    {
+      "eul_wid": "dma-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "bion-of-abdera-testimonies-dma-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/bion-of-abdera/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-abdera-testimonies-dma-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-abdera-testimonies-dma-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-abdera-testimonies-dma-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-abdera-testimonies-dma-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-abdera/testimonies.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/eutocius-of-ascalon/measurement-circle",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutocius-of-ascalon-measurement-circle-uvy-ac.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutocius-of-ascalon-measurement-circle-uvy-ac.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutocius-of-ascalon-measurement-circle-uvy-ac.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutocius-of-ascalon-measurement-circle-uvy-ac.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutocius-of-ascalon/measurement-circle.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

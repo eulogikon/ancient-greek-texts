@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "thy",
+  "auth_slug": "zosimus-of-constantinople",
+  "name": {
+    "english": "Zosimus of Constantinople",
+    "ancient_greek": "Ζώσιμος ὁ Κωνσταντινουπολίτης"
+  },
+  "seo_h1": "Zosimus of Constantinople and the New History",
+  "seo": {
+    "browser_title": "Zosimus of Constantinople on Eulogikon Greek Archive",
+    "meta_title": "Classical Zosimus of Constantinople Ancient Greek History",
+    "meta_description": "Zosimus was a late antique historian of the 5th century CE. His surviving work is the New History. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Zosimus of Constantinople was a Greek historian and civil servant of the late 5th and early 6th centuries CE. He served as an imperial treasury lawyer in Constantinople and was a pagan writing in a Christianizing empire. His historical work is defined by this pagan perspective and his position within the late Roman bureaucracy.</p>\n<p class=\"research-text\">His sole surviving work is the Historia Nova, a complete narrative in six books covering Roman history from the early 3rd century to 410 CE. Zosimus is the last major pagan historian of the Roman Empire. His Historia Nova provides a crucial polemical counter-narrative to contemporary Christian histories, attributing Rome&#x27;s decline to the abandonment of traditional religion and the policies of Constantine and his successors.</p>\n<p class=\"research-text\">The work is a vital primary source for the political and military history of the period and for understanding late antique pagan thought.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "thy-aa",
+      "title": {
+        "english": "New History",
+        "ancient_greek": "Νέα Ἱστορία"
+      },
+      "url_slug": "zosimus-of-constantinople-new-history-thy-aa",
+      "passages": 287,
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-constantinople/new-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-constantinople-new-history-thy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-constantinople-new-history-thy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-constantinople-new-history-thy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-constantinople-new-history-thy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-constantinople/new-history.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/zosimus-of-constantinople",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/zosimus-of-constantinople-thy.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/zosimus-of-constantinople-thy.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/zosimus-of-constantinople-thy.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/zosimus-of-constantinople-thy.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

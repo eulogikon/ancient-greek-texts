@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "nxy",
+  "auth_slug": "claudius-iolaus",
+  "name": {
+    "english": "Claudius Iolaus the Historian",
+    "ancient_greek": "Κλαύδιος Ἰολᾶος ὁ ἱστορικός"
+  },
+  "seo_h1": "Claudius Iolaus on Phoenician History",
+  "seo": {
+    "browser_title": "Claudius Iolaus the Historian on Eulogikon Greek Archive",
+    "meta_title": "The Claudius Iolaus Ancient Greek Historical Works",
+    "meta_description": "Claudius Iolaus, a Roman historian of the 1st century CE. Surviving historical works in Greek. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Claudius Iolaus was a historian of the 1st century CE. His name suggests he was likely an imperial freedman of the gens Claudia. No details of his life, birthplace, or career survive.</p>\n<p class=\"research-text\">His sole known work is the Phoenician History, which is now lost and preserved only in fragments. Iolaus is significant as a source for later scholars. His fragments were used by authors such as Stephanus of Byzantium for geographical and mythological material.</p>\n<p class=\"research-text\">As a probable freedman writing history, he represents a distinct social stratum within Roman literary culture. His work contributes to the corpus of fragmentary historiography treating non-Greek antiquities.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "nxy-aa",
+      "title": {
+        "english": "Phoenician History Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "claudius-iolaus-phoenician-history-nxy-aa",
+      "passages": 6,
+      "links": {
+        "html": "https://eulogikon.org/grc/claudius-iolaus/phoenician-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/claudius-iolaus-phoenician-history-nxy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/claudius-iolaus-phoenician-history-nxy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/claudius-iolaus-phoenician-history-nxy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/claudius-iolaus-phoenician-history-nxy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/claudius-iolaus/phoenician-history.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/claudius-iolaus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/claudius-iolaus-nxy.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/claudius-iolaus-nxy.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/claudius-iolaus-nxy.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/claudius-iolaus-nxy.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

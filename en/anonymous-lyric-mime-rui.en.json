@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "rui",
+  "auth_slug": "anonymous-lyric-mime",
+  "name": {
+    "english": "Lyric Mime Work Anonymous",
+    "ancient_greek": "Ἀνώνυμος Μίμος Λυρικός"
+  },
+  "seo_h1": "Lyric Mime Work Anonymous: Fragments on Imperial Praise",
+  "seo": {
+    "browser_title": "Anonymous Lyric Mime Author on Eulogikon Greek Archive",
+    "meta_title": "The Anonymous Lyric Mime Ancient Greek Drama Works",
+    "meta_description": "Anonymous Lyric Mime, a Roman era poet from the 2nd–3rd century CE. One surviving work in Koine dialect. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Δρᾶμα",
+      "english": "Drama",
+      "href": "/domains/drama"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The author of the Lyric Mime is anonymous, known solely from the fragmentary papyrus P.Oxy. 413, which dates to the 2nd or 3rd century CE in Roman Egypt. No details of the author’s biography, social background, or education survive.</p>\n<p class=\"research-text\">The only extant work is the Lyric Mime, preserved on Papyrus Oxyrhynchus 413. This fragment is a significant artifact for the history of later Greek drama. It exemplifies a hybrid &quot;lyric mime,&quot; blending popular dramatic mime with lyrical, poetic composition. Its preservation from Roman Egypt illustrates the adaptation of Greek literary culture in the imperial provinces and provides valuable evidence for non-canonical theatrical entertainment in late antiquity.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "rui-aa",
+      "title": {
+        "english": "Fragments on Imperial Praise",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἐπαίνου Βασιλικοῦ"
+      },
+      "url_slug": "anonymous-lyric-mime-imperial-praise-rui-aa",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-lyric-mime/imperial-praise",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-lyric-mime-imperial-praise-rui-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-lyric-mime-imperial-praise-rui-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-lyric-mime-imperial-praise-rui-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-lyric-mime-imperial-praise-rui-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-lyric-mime/imperial-praise.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/anonymous-lyric-mime",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-lyric-mime-rui.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-lyric-mime-rui.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-lyric-mime-rui.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-lyric-mime-rui.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

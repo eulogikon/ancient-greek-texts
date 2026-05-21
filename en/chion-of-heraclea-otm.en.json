@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "otm",
+  "auth_slug": "chion-of-heraclea",
+  "name": {
+    "english": "Chion Heraclea Letters",
+    "ancient_greek": "Χίωνος Ἐπιστολαί"
+  },
+  "seo_h1": "Chion of Heraclea Letters and the Fiction of Tyrannicide",
+  "seo": {
+    "browser_title": "Chion of Heraclea Letters on Eulogikon Greek Archive",
+    "meta_title": "Chion of Heraclea Ancient Greek Epistolary Fiction",
+    "meta_description": "Chion of Heraclea, author of 1st-2nd century CE epistolary fiction. The surviving letters collection. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Μυθιστορία",
+      "english": "Fiction",
+      "href": "/domains/fiction"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Chion of Heraclea is a pseudonym attached to a collection of fictional letters composed in the 1st or 2nd century CE. The letters are presented as the work of Chion of Heraclea, a student of Plato who assassinated the tyrant Clearchus in 353/2 BCE, but they are a later Roman-era literary creation. No historical author named Chion is attested.</p>\n<p class=\"research-text\">The sole work is the <strong>Letters</strong>, a collection of seventeen fictional epistles surviving in full. They are pseudepigraphically attributed to the historical tyrannicide Chion.</p>\n<p class=\"research-text\">The <strong>Letters of Chion</strong> constitute the only complete Greek epistolary novel preserved from antiquity. As a key example of the &quot;tyrannicide&quot; genre, the work reflects the Roman-era reception of Platonic philosophy and the idealized philosopher, while exemplifying contemporary literary tastes for rhetorical and pseudepigraphical fiction.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "otm-aa",
+      "title": {
+        "english": "Letters to Matris",
+        "ancient_greek": "Ἐπιστολαὶ πρὸς Μάτριν"
+      },
+      "url_slug": "chion-of-heraclea-matris-otm-aa",
+      "passages": 46,
+      "links": {
+        "html": "https://eulogikon.org/grc/chion-of-heraclea/matris",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chion-of-heraclea-matris-otm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chion-of-heraclea-matris-otm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chion-of-heraclea-matris-otm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chion-of-heraclea-matris-otm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chion-of-heraclea/matris.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/chion-of-heraclea",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chion-of-heraclea-otm.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chion-of-heraclea-otm.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chion-of-heraclea-otm.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chion-of-heraclea-otm.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

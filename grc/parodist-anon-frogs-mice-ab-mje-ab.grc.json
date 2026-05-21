@@ -1,0 +1,355 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "mje-ab",
+  "eul_aid": "mje",
+  "author_slug": "parodist-anon",
+  "work_slug": "frogs-mice-ab",
+  "url_slug": "parodist-anon-frogs-mice-ab-mje-ab",
+  "author": {
+    "english": "Parodist  Anonymous",
+    "ancient_greek": "Ἀνώνυμος παρωδός (Βατραχομυομαχία)"
+  },
+  "title": {
+    "english": "Battle of Frogs and Mice",
+    "ancient_greek": "Βατραχομυομαχία"
+  },
+  "seo": {
+    "browser_title": "Battle of Frogs and Mice by Anonymous on Eulogikon",
+    "meta_title": "Classical Battle of Frogs and Mice in Ancient Greek",
+    "meta_description": "This Hellenistic parody transforms a trivial conflict between frogs and mice into mock-heroic verse, satirizing Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Batrachomyomachia</strong>, or <strong>Battle of Frogs and Mice</strong>, is an anonymous comic epic from ancient Greece. Composed in the dactylic hexameter of Homeric poetry, it parodies the conventions of the heroic epic by narrating a full-scale war between two animal tribes. The conflict begins when the frog king Physignathos, offering a ride across a pond to the mouse prince Psicharpax, accidentally drowns his passenger. The ensuing war is treated with mock solemnity, complete with heroic epithets, formal speeches, arming scenes, and divine councils. The mice gain the upper hand until Zeus, pitying the frogs, commands the gods to intervene; they send an army of crabs to the battlefield, which routs the mouse forces and ends the war.</p>\n<p class=\"research-text\">Scholarly consensus dates the poem to between the late sixth and fifth centuries BCE, though its precise origins remain uncertain. In antiquity, its skillful imitation of Homeric style led to its occasional, though erroneous, attribution to Homer himself. The work presupposes an audience intimately familiar with the epic tradition, using its absurd premise to gently satirize the grandiose rhetoric and often trivial catalysts of heroic warfare. The poem survived through the medieval manuscript tradition, where it was frequently included as part of the Homeric corpus and served as a popular educational text due to its accessible language and engaging subject matter.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "unit_1",
+      "text": "Ἀρχόμενος πρώτης σελίδος χορὸν ἐξ Ἑλικῶνος ἐλθεῖν εἰς ἐμὸν ἦτορ ἐπεύχομαι εἵνεκ’ ἀοιδῆς, ἣν νέον ἐν δέλτοισιν ἐμοῖς ἐπὶ γούνασι θῆκα, δῆριν ἀπειρεσίην, πολεμόκλονον ἔργον Ἄρηος, εὐχόμενος μερόπεσσιν ἐς οὔατα πᾶσι βαλέσθαι πῶς μύες ἐν βατράχοισιν ἀριστεύσαντες ἔβησαν, γηγενέων ἀνδρῶν μιμούμενοι ἔργα Γιγάντων, ὡς λόγος ἐν θνητοῖσιν ἔην· τοίην δ’ ἔχεν ἀρχήν. [para]Μῦς ποτε διψαλέος γαλέης κίνδυνον ἀλύξας, πλησίον ἐν λίμνῃ λίχνον προσέθηκε γένειον, ὕδατι τερπόμενος μελιηδέϊ· τὸν δὲ κατεῖδε λιμνόχαρις πολύφημος, ἔπος δ’ ἐφθέγξατο τοῖον· [para]Ξεῖνε τίς εἶ; πόθεν ἦλθες ἐπ’ ἠϊόνας; τίς ὁ φύσας; πάντα δ’ ἀλήθευσον, μὴ ψευδόμενόν σε νοήσω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_2",
+      "text": "εἰ γάρ σε γνοίην φίλον ἄξιον ἐς δόμον ἄξω· δῶρα δέ τοι δώσω ξεινήϊα πολλὰ καὶ ἐσθλά. εἰμὶ δ’ ἐγὼ βασιλεὺς Φυσίγναθος, ὃς κατὰ λίμνην τιμῶμαι βατράχων ἡγούμενος ἤματα πάντα· καί με πατὴρ Πηλεὺς ἀνεθρέψατο, Ὑδρομεδούσῃ μιχθεὶς ἐν φιλότητι παρ’ ὄχθας Ἠριδανοῖο. καὶ σὲ δ’ ὁρῶ καλόν τε καὶ ἄλκιμον ἔξοχον ἄλλων, σκηπτοῦχον βασιλῆα καὶ ἐν πολέμοισι μαχητὴν ἔμμεναι· ἀλλ’ ἄγε θᾶσσον ἑὴν γενεὴν ἀγόρευε. [para]Τὸν δ’ αὖ Ψιχάρπαξ ἀπαμείβετο φώνησέν τε·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_3",
+      "text": "τίπτε γένος τοὐμὸν ζητεῖς; δῆλον δ’ ἐν ἅπασιν ἀνθρώποις τε θεοῖς τε καὶ οὐρανίοις πετεηνοῖς. Ψιχάρπαξ μὲν ἐγὼ κικλήσκομαι· εἰμὶ δὲ κοῦρος Τρωξάρταο πατρὸς μεγαλήτορος· ἡ δέ νυ μήτηρ Λειχομύλη, θυγάτηρ Πτερνοτρώκτου βασιλῆος. γείνατο δ’ ἐν καλύβῃ με καὶ ἐξεθρέψατο βρωτοῖς, σύκοις καὶ καρύοις καὶ ἐδέσμασι παντοδαποῖσιν. πῶς δὲ φίλον ποιῇ με, τὸν ἐς φύσιν οὐδὲν ὁμοῖον; σοὶ μὲν γὰρ βίος ἐστὶν ἐν ὕδασιν· αὐτὰρ ἔμοιγε ὅσσα παρ’ ἀνθρώποις τρώγειν ἔθος· οὐδέ με λήθει ἄρτος τρισκοπάνιστος ἀπ’ εὐκύκλου κανέοιο, οὐδὲ πλακοῦς τανύπεπλος ἔχων πολὺ σησαμότυρον, οὐ τόμος ἐκ πτέρνης, οὐχ ἥπατα λευκοχίτωνα, οὐ τυρὸς νεόπηκτος ἀπὸ γλυκεροῖο γάλακτος, οὐ χρηστὸν μελίτωμα, τὸ καὶ μάκαρες ποθέουσιν,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_4",
+      "text": "οὐδ’ ὅσα πρὸς θοίνας μερόπων τεύχουσι μάγειροι, κοσμοῦντες χύτρας ἀρτύμασι παντοδαποῖσιν. οὐ τρώγω ῥαφάνους, οὐ κράμβας, οὐ κολοκύντας, οὐ σεύτλοις χλωροῖς ἐπιβόσκομαι, οὐδὲ σελίνοις· ταῦτα γὰρ ὑμέτερ’ ἐστὶν ἐδέσματα τῶν κατὰ λίμνην. [para]Πρὸς τάδε μειδήσας Φυσίγναθος ἀντίον ηὔδα· ξεῖνε λίην αὐχεῖς ἐπὶ γαστέρι· ἔστι καὶ ἡμῖν πολλὰ μάλ’ ἐν λίμνῃ καὶ ἐπὶ χθονὶ θαύματ’ ἰδέσθαι. ἀμφίβιον γὰρ ἔδωκε νομὴν βατράχοισι Κρονίων, σκιρτῆσαι κατὰ γαῖαν, ἐν ὕδασι σῶμα καλύψαι, στοιχείοις διττοῖς μεμερισμένα δώματα ναίειν. εἰ δ’ ἐθέλεις καὶ ταῦτα δαήμεναι εὐχερές ἐστι·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_5",
+      "text": "βαῖνέ μοι ἐν νώτοισι, κράτει δέ με μήποτ’ ὀλίσθῃς, ὅππως γηθόσυνος τὸν ἐμὸν δόμον εἰσαφίκηαι. Ὣς ἄρ’ ἔφη καὶ νῶτ’ ἐδίδου· ὁ δ’ ἔβαινε τάχιστα χεῖρας ἔχων τρυφεροῖο κατ’ αὐχένος ἅμματι κούφῳ. καὶ τὸ πρῶτον ἔχαιρεν ὅτ’ ἔβλεπε γείτονας ὅρμους, νήξει τερπόμενος Φυσιγνάθου· ἀλλ’ ὅτε δή ῥα κύμασι πορφυρέοισιν ἐκλύζετο πολλὰ δακρύων ἄχρηστον μετάνοιαν ἐμέμφετο, τίλλε δὲ χαίτας, καὶ πόδας ἔσφιγγεν κατὰ γαστέρος, ἐν δέ οἱ ἦτορ πάλλετ’ ἀηθείῃ καὶ ἐπὶ χθόνα βούλεθ’ ἱκέσθαι· δεινὰ δ’ ὑπεστενάχιζε φόβου κρυόεντος ἀνάγκῃ. οὐρὴν μὲν πρῶτ’ ἔπλας’ ἐφ’ ὕδασιν ἠΰτε κώπην σύρων, εὐχόμενος δὲ θεοῖς ἐπὶ γαῖαν ἱκέσθαι ὕδασι πορφυρέοισιν ἐκλύζετο, πολλὰ δ’ ἐβώστρει· καὶ τοῖον φάτο μῦθον ἀπὸ στόματός τ’ ἀγόρευσεν· [para]Οὐχ οὕτω νώτοισιν ἐβάστασε φόρτον ἔρωτος ταῦρος ὅτ’ Εὐρώπην διὰ κύματος ἦγ’ ἐπὶ Κρήτην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_6",
+      "text": "ὡς μῦν ἁπλώσας ἐπινώτιον ἦγεν ἐς οἶκον βάτραχος ὑψώσας ὠχρὸν δέμας ὕδατι λευκῷ. Ὕδρος δ’ ἐξαίφνης ἀνεφαίνετο, πικρὸν ὅραμα ἀμφοτέροις· ὀρθὸν δ’ ὑπὲρ ὕδατος εἶχε τράχηλον. τοῦτον ἰδὼν κατέδυ Φυσίγναθος, οὔ τι νοήσας οἷον ἑταῖρον ἔμελλεν ἀπολλύμενον καταλείπειν. δῦ δὲ βάθος λίμνης καὶ ἀλεύατο κῆρα μέλαιναν. κεῖνος δ’ ὡς ἀφέθη, πέσεν ὕπτιος εὐθὺς ἐφ’ ὕδωρ, καὶ χεῖρας ἔσφιγγε καὶ ὀλλύμενος κατέτριζε. πολλάκι μὲν κατέδυνεν ὑφ’ ὕδατι, πολλάκι δ’ αὖτε λακτίζων ἀνέδυνε· μόρον δ’ οὐκ ἦν ὑπαλύξαι. δευόμεναι δὲ τρίχες πλεῖον βάρος εἷλκον ἐπ’ αὐτῷ· ὕδασι δ’ ὀλλύμενος τοίους ἐφθέγξατο μύθους· [para]Οὐ λήσεις δολίως Φυσίγναθε ταῦτα ποιήσας, ναυηγὸν ῥίψας ἀπὸ σώματος ὡς ἀπὸ πέτρης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_7",
+      "text": "οὐκ ἄν μου κατὰ γαῖαν ἀμείνων ἦσθα κάκιστε παγκρατίῳ τε πάλῃ τε καὶ εἰς δρόμον· ἀλλὰ πλανήσας εἰς ὕδωρ μ’ ἔρριψας. ἔχει θεὸς ἔκδικον ὄμμα. Ὣς εἰπὼν ἀπέπνευσεν ἐν ὕδασι· τὸν δὲ κατεῖδεν Λειχοπίναξ ὄχθῃσιν ἐφεζόμενος μαλακῇσιν· δεινὸν δ’ ἐξολόλυξε, δραμὼν δ’ ἤγγειλε μύεσσιν. ὡς δ’ ἔμαθον τὴν μοῖραν ἔδυ χόλος αἰνὸς ἅπαντας. καὶ τότε κηρύκεσσιν ἑοῖς ἐκέλευσαν ὑπ’ ὄρθρον κηρύσσειν ἀγορήνδ’ ἐς δώματα Τρωξάρταο, πατρὸς δυστήνου Ψιχάρπαγος, ὃς κατὰ λίμνην ὕπτιος ἐξήπλωτο νεκρὸν δέμας, οὐδὲ παρ’ ὄχθαις ἦν ἤδη τλήμων, μέσσῳ δ’ ἐπενήχετο πόντῳ. ὡς δ’ ἦλθον σπεύδοντες ἅμ’ ἠοῖ, πρῶτος ἀνέστη Τρωξάρτης ἐπὶ παιδὶ χολούμενος, εἶπέ τε μῦθον·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_8",
+      "text": "Ὦ φίλοι εἰ καὶ μοῦνος ἐγὼ κακὰ πολλὰ πέπονθα ἐκ βατράχων, ἡ πεῖρα κακὴ πάντεσσι τέτυκται. εἰμὶ δ’ ἐγὼ δύστηνος ἐπεὶ τρεῖς παῖδας ὄλεσσα. καὶ τὸν μὲν πρῶτόν γε κατέκτανεν ἁρπάξασα ἔχθιστος γαλέη, τρώγλης ἔκτοσθεν ἑλοῦσα. τὸν δ’ ἄλλον πάλιν ἄνδρες ἀπηνέες ἐς μόρον εἷλξαν καινοτέραις τέχναις ξύλινον δόλον ἐξευρόντες, ὃ τρίτος ἦν ἀγαπητὸς ἐμοὶ καὶ μητέρι κεδνῇ, τοῦτον ἀπέπνιξεν Φυσίγναθος ἐς βυθὸν ἄξας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_9",
+      "text": "ἀλλ’ ἄγεθ’ ὁπλίζεσθε καὶ ἐξέλθωμεν ἐπ’ αὐτοὺς σώματα κοσμήσαντες ἐν ἔντεσι δαιδαλέοισιν. [para]Ταῦτ’ εἰπὼν ἀνέπεισε καθοπλίζεσθαι ἅπαντας. καὶ τοὺς μέν ῥ’ ἐκόρυσσεν Ἄρης πολέμοιο μεμηλώς· κνημῖδας μὲν πρῶτον ἐφήρμοσαν εἰς δύο μηρούς, ῥήξαντες κυάμους χλωρούς, εὖ δ’ ἀσκήσαντες, οὓς αὐτοὶ διὰ νυκτὸς ἐπιστάντες κατέτρωξαν. θώρηκας δ’ εἶχον καλαμοστεφέων ἀπὸ βυρσῶν, οὓς γαλέην δείραντες ἐπισταμένως ἐποίησαν. ἀσπὶς δ’ ἦν λύχνου τὸ μεσόμφαλον· ἡ δέ νυ λόγχη εὐμήκης βελόνη, παγχάλκεον ἔργον Ἄρηος· ἡ δὲ κόρυς τὸ λέπυρον ἐπὶ κροτάφοις ἐρεβίνθου. [para]Οὕτω μὲν μύες ἦσαν ἔνοπλοι· ὡς δ’ ἐνόησαν βάτραχοι ἐξανέδυσαν ἀφ’ ὕδατος, ἐς δ’ ἕνα χῶρον ἐλθόντες βουλὴν ξύναγον πολέμοιο κακοῖο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_10",
+      "text": "σκεπτομένων δ’ αὐτῶν πόθεν ἡ στάσις ἢ τίς ὁ θρύλλος, κῆρυξ ἐγγύθεν ἦλθε φέρων ῥάβδον μετὰ χερσίν, Τυρογλύφου υἱὸς μεγαλήτορος Ἐμβασίχυτρος, ἀγγέλλων πολέμοιο κακὴν φάτιν, εἶπέ τε τοῖα· [para]Ὦ βάτραχοι, μύες ὔμμιν ἀπειλήσαντες ἔπεμψαν εἰπεῖν ὁπλίζεσθαι ἐπὶ πτόλεμόν τε μάχην τε. εἶδον γὰρ καθ’ ὕδωρ Ψιχάρπαγα ὅν περ ἔπεφνεν ὑμέτερος βασιλεὺς Φυσίγναθος. ἀλλὰ μάχεσθε οἵ τινες ἐν βατράχοισιν ἀριστῆες γεγάατε. [para]Ὣς εἰπὼν ἀπέφηνε· λόγος δ’ εἰς οὔατα πάντων εἰσελθὼν ἐτάραξε φρένας βατράχων ἀγερώχων· μεμφομένων δ’ αὐτῶν Φυσίγναθος εἶπεν ἀναστάς· [para]Ὦ φίλοι οὐκ ἔκτεινον ἐγὼ μῦν, οὐδὲ κατεῖδον ὀλλύμενον· πάντως δ’ ἐπνίγη παίζων παρὰ λίμνην, νήξεις τὰς βατράχων μιμούμενος· οἱ δὲ κάκιστοι νῦν ἐμὲ μέμφονται τὸν ἀναίτιον· ἀλλ’ ἄγε βουλὴν ζητήσωμεν ὅπως δολίους μύας ἐξολέσωμεν. τοιγὰρ ἐγὼν ἐρέω ὥς μοι δοκεῖ εἶναι ἄριστα. σώματα κοσμήσαντες ἐν ὅπλοις στῶμεν ἅπαντες ἄκροις πὰρ χείλεσσιν, ὅπου κατάκρημνος ὁ χῶρος·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_11",
+      "text": "ἡνίκα δ’ ὁρμηθέντες ἐφ’ ἡμέας ἐξέλθωσι, δραξάμενοι κορύθων, ὅς τις σχεδὸν ἀντίος ἔλθῃ, ἐς λίμνην αὐτοὺς σὺν ἐκείναις εὐθὺ βάλωμεν. οὕτω γὰρ πνίξαντες ἐν ὕδασι τοὺς ἀκολύμβους στήσομεν εὐθύμως τὸ μυοκτόνον ὧδε τρόπαιον. Ὣς εἰπὼν ἀνέπεισε καθοπλίζεσθαι ἅπαντας. φύλλοις μὲν μαλαχῶν κνήμας ἑὰς ἀμφεκάλυψαν, θώρηκας δ’ εἶχον καλῶν χλοερῶν ἀπὸ σεύτλων, φύλλα δὲ τῶν κραμβῶν εἰς ἀσπίδας εὖ ἤσκησαν, ἔγχος δ’ ὀξύσχοινος ἑκάστῳ μακρὸς ἀρήρει, καί ῥα κέρα κοχλιῶν λεπτῶν ἐκάλυπτε κάρηνα. φραξάμενοι δ’ ἔστησαν ἐπ’ ὄχθαις ὑψηλαῖσι σείοντες λόγχας, θυμοῦ δ’ ἔμπλητο ἕκαστος. [para]Ζεὺς δὲ θεοὺς καλέσας εἰς οὐρανὸν ἀστερόεντα, καὶ πολέμου πληθὺν δείξας κρατερούς τε μαχητάς,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_12",
+      "text": "πολλοὺς καὶ μεγάλους ἠδ’ ἔγχεα μακρὰ φέροντας, οἷος Κενταύρων στρατὸς ἔρχεται ἠὲ Γιγάντων, ἡδὺ γελῶν ἐρέεινε· τίνες βατράχοισιν ἀρωγοὶ ἢ μυσὶν ἀθανάτων; καὶ Ἀθηναίην προσέειπεν· [para]Ὦ θύγατερ μυσὶν ἦ ῥα βοηθήσουσα πορεύσῃ; καὶ γὰρ σοῦ κατὰ νηὸν ἀεὶ σκιρτῶσιν ἅπαντες κνίσῃ τερπόμενοι καὶ ἐδέσμασι παντοδαποῖσιν. [para]Ὣς ἄρ’ ἔφη Κρονίδης· τὸν δὲ προσέειπεν Ἀθήνη· ὦ πάτερ οὐκ ἄν πώ ποτ’ ἐγὼ μυσὶ τειρομένοισιν ἐλθοίμην ἐπαρωγός, ἐπεὶ κακὰ πολλά μ’ ἔοργαν στέμματα βλάπτοντες καὶ λύχνους εἵνεκ’ ἐλαίου. τοῦτο δέ μοι λίην ἔδακε φρένας οἷον ἔρεξαν. πέπλον μου κατέτρωξαν ὃν ἐξύφηνα καμοῦσα ἐκ ῥοδάνης λεπτῆς καὶ στήμονα μακρὸν ἔνησα, τρώγλας τ’ ἐμποίησαν· ὁ δ’ ἠπητής μοι ἐπέστη καὶ πράσσει με τόκον· τὸ δὲ ῥίγιον ἀθανάτοισιν. χρησαμένη γὰρ ἔνησα καὶ οὐκ ἔχω ἀνταποδοῦναι. ἀλλ’ οὐδ’ ὣς βατράχοισιν ἀρηγέμεναι βουλήσω. εἰσὶ γὰρ οὐδ’ αὐτοὶ φρένας ἔμπεδοι, ἀλλά με πρῴην ἐκ πολέμου ἀνιοῦσαν ἐπεὶ λίην ἐκοπώθην,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_13",
+      "text": "ὕπνου δευομένην οὐκ εἴασαν θορυβοῦντες οὐδ’ ὀλίγον καταμῦσαι· ἐγὼ δ’ ἄϋπνος κατεκείμην· τὴν κεφαλὴν ἀλγοῦσαν, ἕως ἐβόησεν ἀλέκτωρ. ἀλλ’ ἄγε παυσώμεσθα θεοὶ τούτοισιν ἀρήγειν, μή κέ τις ὑμείων τρωθῇ βέλει ὀξυόεντι· εἰσὶ γὰρ ἀγχέμαχοι, εἰ καὶ θεὸς ἀντίον ἔλθοι· πάντες δ’ οὐρανόθεν τερπώμεθα δῆριν ὁρῶντες. [para]Ὣς ἄρ’ ἔφη· καὶ τῇ γε θεοὶ ἐπεπείθοντ’ ἄλλοι, πάντες δ’ αὖτ’ εἰσῆλθον ἀολλέες εἰς ἕνα χῶρον. καὶ τότε κώνωπες μεγάλας σάλπιγγας ἔχοντες δεινὸν ἐσάλπιγξαν πολέμου κτύπον· οὐρανόθεν δὲ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_14",
+      "text": "Ζεὺς Κρονίδης βρόντησε, τέρας πολέμοιο κακοῖο. [para]Πρῶτος δ’ Ὑψιβόας Λειχήνορα οὔτασε δουρὶ ἑσταότ’ ἐν προμάχοις κατὰ γαστέρα ἐς μέσον ἧπαρ· κὰδ δ’ ἔπεσεν πρηνής, ἁπαλὰς δ’ ἐκόνισεν ἐθείρας. δούπησεν δὲ πεσών, ἀράβησε δὲ τεύχε’ ἐπ’ αὐτῷ. Τρωγλοδύτης δὲ μετ’ αὐτὸν ἀκόντισε Πηλείωνος, πῆξεν δ’ ἐν στέρνῳ στιβαρὸν δόρυ· τὸν δὲ πεσόντα εἷλε μέλας θάνατος, ψυχὴ δ’ ἐκ σώματος ἔπτη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_15",
+      "text": "Σευτλαῖον δ’ ἂρ ἔπεφνε βαλὼν κέαρ Ἐμβασίχυτρος, Τυροφάγον δ’ αὐτῇσιν ἐπ’ ὄχθαις ἐξενάριξεν. Πτερνογλύφον δὲ ἰδὼν Καλαμίνθιος ἐς φόβον ἦλθεν, ἥλατο δ’ ἐς λίμνην φεύγων τὴν ἀσπίδα ῥίψας. Λιτραῖον δ’ ἀρ’ ἔπεφνεν ἀμύμων Βορβοροκοίτης, χερμαδίῳ πλήξας κατὰ βρέγματος· ἐγκέφαλος δὲ ἐκ ῥινῶν ἔσταξε, παλάσσετο δ’ αἵματι γαῖα. Λειχοπίναξ δ’ ἔκτεινεν ἀμύμονα Βορβοροκοίτην, ἔγχει ἐπαΐξας· τὸν δὲ σκότος ὄσσε κάλυψεν. Πρασσαῖος δὲ ἰδὼν ποδὸς εἵλκυσε νεκρὸν ἐόντα, ἐν λίμνῃ δ’ ἀπέπνιξε κρατήσας χειρὶ τένοντα. Ψιχάρπαξ δ’ ἤμυν’ ἑτάρου περὶ τεθνειῶτος καὶ βάλε Πρασσαῖον κατὰ νηδύος ἐς μέσον ἧπαρ, πῖπτε δέ οἱ πρόσθεν, ψυχὴ δ’ Ἀϊδόσδε βεβήκει. Κραμβοβάτης δὲ ἰδὼν πηλοῦ δράκα ῥίψεν ἐπ’ αὐτόν, καὶ τὸ μέτωπον ἔχρισε καὶ ἐξετύφλου παρὰ μικρόν. ὠργίσθη δ’ ἄρ’ ἐκεῖνος, ἑλὼν δ’ ἄρα χειρὶ παχείῃ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_16",
+      "text": "κείμενον ἐν δαπέδῳ λίθον ὄβριμον, ἄχθος ἀρούρης, τῷ βάλε Κραμβοβάτην ὑπὸ γούνατα· πᾶσα δ’ ἐκλάσθη κνήμη δεξιτερή, πέσε δ’ ὕπτιος ἐν κονίῃσι. Κραυγασίδης δ’ ἤμυνε καὶ αὖθις βαῖνεν ἐπ’ αὐτόν, τύψε δέ οἱ μέσσην κατὰ γαστέρα· πᾶς δέ οἱ εἴσω ὀξύσχοινος ἔδυνε, χαμαὶ δ’ ἔκχυντο ἅπαντα ἔγκατ’ ἐφελκομένῳ ὑπὸ δούρατι χειρὶ παχείῃ· Τρωγλοδύτης δ’ ὡς εἶδεν ἐπ’ ὄχθῃσιν ποταμοῖο, σκάζων ἐκ πολέμου ἀνεχάζετο, τείρετο δ’ αἰνῶς· ἥλατο δ’ ἐς τάφρους, ὅππως φύγῃ αἰπὺν ὄλεθρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_17",
+      "text": "Τρωξάρτης δ’ ἔβαλεν Φυσίγναθον ἐς ποδὸς ἄκρον. Πρασσαῖος δ’ ὡς εἶδεν ἔθ’ ἡμίπνουν προπεσόντα, ἦλθε διὰ προμάχων καὶ ἀκόντισεν ὀξύσχοινον· οὐδ’ ἔρρηξε σάκος, σχέτο δ’ αὐτοῦ δουρὸς ἀκωκή· οὐδ’ ἔβαλε τρυφάλειαν ἀμύμονα καὶ τετράχυτρον δῖος Ὀριγανίων, μιμούμενος αὐτὸν Ἄρηα, ὃς μόνος ἐν βατράχοισιν ἀρίστευεν καθ’ ὅμιλον· ὥρμησεν δ’ ἄρ’ ἐπ’ αὐτόν· ὁ δ’ ὡς ἴδεν οὐχ ὑπέμεινεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_18",
+      "text": "Ἦν δέ τις ἐν μυσὶ παῖς Μεριδάρπαξ ἔξοχος ἄλλων, Κναίσωνος φίλος υἱὸς ἀμύμονος ἀρτεπιβούλου· οἴκαδ’ ἴεν, πολέμου δὲ μετασχεῖν παῖδ’ ἐκέλευεν· οὗτος ἀναρπάξαι βατράχων γενεὴν ἐπαπείλει· ἀγχοῦ δ’ ἕστηκεν μενεαίνων ἶφι μάχεσθαι καὶ ῥήξας καρύοιο μέσην ῥάχιν εἰς δύο μοίρας φράγδην ἀμφοτέροισι κενώμασι χεῖρας ἔθηκεν· οἱ δὲ τάχος δείσαντες ἔβαν πάντες κατὰ λίμνην· καί νύ κεν ἐξετέλεσσεν ἐπεὶ μέγα οἱ σθένος ἦεν, εἰ μὴ ἄρ’ ὀξὺ νόησε πατὴρ ἀνδρῶν τε θεῶν τε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_19",
+      "text": "καὶ τότ’ ἀπολλυμένους βατράχους ᾤκτειρε Κρονίων, κινήσας δὲ κάρη τοίην ἐφθέγξατο φωνήν· Ὢ πόποι ἦ μέγα θαῦμα τόδ’ ὀφθαλμοῖσιν ὁρῶμαι· Ἅρπαξ ἐν βατράχοισιν ἀμείβεται· ἀλλὰ τάχιστα Παλλάδα πέμψωμεν πολεμόκλονον ἢ καὶ Ἄρηα, οἵ μιν ἐπισχήσουσι μάχης κρατερόν περ ἐόντα. [para]Ὣς ἄρ’ ἔφη Κρονίδης· Ἄρης δ’ ἀπαμείβετο μύθῳ· οὔτ’ ἄρ’ Ἀθηναίης Κρονίδη σθένος οὔτε Ἄρηος ἰσχύει βατράχοισιν ἀμυνέμεν αἰπὺν ὄλεθρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_20",
+      "text": "ἀλλ’ ἄγε πάντες ἴωμεν ἀρηγόνες· ἢ τὸ σὸν ὅπλον κινείσθω· οὕτω γὰρ ἁλώσεται ὅς τις ἄριστος, ὥς ποτε καὶ Καπανῆα κατέκτανες ὄβριμον ἄνδρα καὶ μέγαν Ἐγκελάδοντα καὶ ἄγρια φῦλα Γιγάντων. Ὣς ἄρ’ ἔφη· Κρονίδης δὲ βαλὼν ἀργῆτα κεραυνὸν πρῶτα μὲν ἐβρόντησε, μέγαν δ’ ἐλέλιξεν Ὄλυμπον. πάντας μέν ῥ’ ἐφόβησε βαλὼν βατράχους τε μύας τε· ἀλλ’ οὐδ’ ὣς ἀπέληγε μυῶν στρατός, ἀλλ’ ἔτι μᾶλλον ἔλπετο πορθήσειν βατράχων γένος αἰχμητάων, εἰ μὴ ἀπ’ Οὐλύμπου βατράχους ἐλέησε Κρονίων, ὅς ῥα τότ’ ἐν βατράχοισιν ἀρωγοὺς εὐθὺς ἔπεμψεν. [para]Ἦλθον δ’ ἐξαίφνης νωτάκμονες, ἀγκυλοχεῖλαι,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_21",
+      "text": "λοξοβάται, στρεβλοί, ψαλιδόστομοι, ὀστρακόδερμοι, ὀστοφυεῖς, πλατύνωτοι, ἀποστίλβοντες ἐν ὤμοις, βλαισοί, χειλοτένοντες, ἀπὸ στέρνων ἐσορῶντες, ὀκτάποδες, δικάρηνοι, ἀχειρέες, οἱ δὲ καλεῦνται καρκίνοι, οἵ ῥα μυῶν οὐρὰς στομάτεσσιν ἔκοπτον ἠδὲ πόδας καὶ χεῖρας· ἀνεγνάμπτοντο δὲ λόγχαι. τοὺς δὴ ὑπέδεισαν δειλοὶ μύες οὐδ’ ἔτ’ ἔμειναν, ἐς δὲ φυγὴν ἐτράποντο· ἐδύετο δ’ ἥλιος ἤδη, καὶ πολέμου τελετὴ μονοήμερος ἐξετελέσθη.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "mje-aa",
+      "title": {
+        "english": "Battle of Frogs and Mice, Byzantine Prosody",
+        "ancient_greek": "Βατραχομυομαχία"
+      },
+      "url_slug": "parodist-anon-frogs-mice-aa-mje-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/parodist-anon/frogs-mice-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-aa-mje-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-aa-mje-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-aa-mje-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-aa-mje-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon/frogs-mice-aa.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "jug-ab",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "hedylus-of-samos-epigrams-jug-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hedylus-of-samos/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedylus-of-samos-epigrams-jug-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedylus-of-samos-epigrams-jug-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedylus-of-samos-epigrams-jug-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedylus-of-samos-epigrams-jug-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedylus-of-samos/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "aqe-aa",
+      "title": {
+        "english": "Fragments of Sappho and Alcaeus",
+        "ancient_greek": "Ἀποσπάσματα Σαπφοῦς καὶ Ἀλκαίου"
+      },
+      "url_slug": "sappho-and-alcaeus-of-lesbos-fragments-aqe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sappho-and-alcaeus-of-lesbos/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-of-lesbos-fragments-aqe-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-of-lesbos-fragments-aqe-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-of-lesbos-fragments-aqe-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-of-lesbos-fragments-aqe-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-of-lesbos/fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "ams-aa",
+      "title": {
+        "english": "Fragments of the Geryoneis",
+        "ancient_greek": "Ἀποσπάσματα τῆς Γηρυονηΐδος"
+      },
+      "url_slug": "stesichorus-of-metauros-geryoneis-ams-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/stesichorus-of-metauros/geryoneis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesichorus-of-metauros-geryoneis-ams-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesichorus-of-metauros-geryoneis-ams-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesichorus-of-metauros-geryoneis-ams-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesichorus-of-metauros-geryoneis-ams-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesichorus-of-metauros/geryoneis.epub"
+      }
+    },
+    {
+      "eul_wid": "hvm-ad",
+      "title": {
+        "english": "Fragments on Demeter and Places",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δήμητρος καὶ Τόπων"
+      },
+      "url_slug": "philetas-of-cos-demeter-places-hvm-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/philetas-of-cos/demeter-places",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetas-of-cos-demeter-places-hvm-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetas-of-cos-demeter-places-hvm-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetas-of-cos-demeter-places-hvm-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetas-of-cos-demeter-places-hvm-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetas-of-cos/demeter-places.epub"
+      }
+    },
+    {
+      "eul_wid": "bfy-ab",
+      "title": {
+        "english": "Fragments on Desire and Festivity",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἐπιθυμίας καὶ Ἑορτῆς"
+      },
+      "url_slug": "anacreon-of-teos-desire-festivity-bfy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/anacreon-of-teos/desire-festivity",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-desire-festivity-bfy-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-desire-festivity-bfy-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-desire-festivity-bfy-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-desire-festivity-bfy-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos/desire-festivity.epub"
+      }
+    },
+    {
+      "eul_wid": "vke-aa",
+      "title": {
+        "english": "Hierotheus the Philosopher-the Divine and Sacred Art in Iambic Verses",
+        "ancient_greek": "Ἱεροθέου φιλοσόφου περὶ τῆς θείας καὶ ἱερᾶς τέχνης"
+      },
+      "url_slug": "hierotheus-the-alchemical-poet-divine-sacred-art-vke-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hierotheus-the-alchemical-poet/divine-sacred-art",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierotheus-the-alchemical-poet-divine-sacred-art-vke-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierotheus-the-alchemical-poet-divine-sacred-art-vke-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierotheus-the-alchemical-poet-divine-sacred-art-vke-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierotheus-the-alchemical-poet-divine-sacred-art-vke-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierotheus-the-alchemical-poet/divine-sacred-art.epub"
+      }
+    },
+    {
+      "eul_wid": "upu-bd",
+      "title": {
+        "english": "Hymn 23 To Zeus",
+        "ancient_greek": "Ὕμνος εἰς Δία"
+      },
+      "url_slug": "homeric-hymns-anonymous-zeus-upu-bd",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/zeus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-zeus-upu-bd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-zeus-upu-bd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-zeus-upu-bd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-zeus-upu-bd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/zeus.epub"
+      }
+    },
+    {
+      "eul_wid": "bgi-aa",
+      "title": {
+        "english": "Lover of Mirmillo",
+        "ancient_greek": "Ὁ Ἐραστὴς τοῦ Μιρμίλλου"
+      },
+      "url_slug": "anacreon-of-teos-ii-lover-of-mirmillo-bgi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anacreon-of-teos-ii/lover-of-mirmillo",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-ii-lover-of-mirmillo-bgi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-ii-lover-of-mirmillo-bgi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-ii-lover-of-mirmillo-bgi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-ii-lover-of-mirmillo-bgi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-ii/lover-of-mirmillo.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/parodist-anon/frogs-mice-ab",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-ab-mje-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-ab-mje-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-ab-mje-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-ab-mje-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon/frogs-mice-ab.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

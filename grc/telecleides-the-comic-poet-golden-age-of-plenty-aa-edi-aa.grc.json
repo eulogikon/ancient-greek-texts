@@ -1,0 +1,803 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "edi-aa",
+  "eul_aid": "edi",
+  "author_slug": "telecleides-the-comic-poet",
+  "work_slug": "golden-age-of-plenty-aa",
+  "url_slug": "telecleides-the-comic-poet-golden-age-of-plenty-aa-edi-aa",
+  "author": {
+    "english": "Telecleides Comicus",
+    "ancient_greek": "Τηλεκλείδης ὁ Κωμικός"
+  },
+  "title": {
+    "english": "Golden Age of Plenty",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "The Golden Age of Plenty by Telecleides on Eulogikon",
+    "meta_title": "The Ancient Golden Age of Plenty by Telecleides in Greek",
+    "meta_description": "Fragments of Telecleides's comedy The Golden Age of Plenty. Old Comedy from 5th century BCE Athens. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">&quot;The Golden Age of Plenty&quot; is the conventional modern title for the lost Old Comedy <strong>Apospasmata</strong> by the 5th-century BCE Athenian playwright Telecleides. The work survives only in 85 fragments, primarily brief quotations preserved by later authors such as Athenaeus. The title derives from the most substantial surviving passage, a 15-line fragment describing a mythical era of automatic abundance. The original plot and structure of the play are unrecoverable from these remnants. The extant fragments indicate several thematic concerns, including a satirical depiction of a primordial Golden Age of effortless plenty, social and political critique consistent with the conventions of Old Comedy, references to gastronomy and sensual pleasure, and a utopian framework used to highlight flaws in contemporary Athenian society.</p>\n<p class=\"research-text\">The play is preserved exclusively through fragments quoted by later grammarians and anthologists. The principal source is Athenaeus of Naucratis in his <strong>Deipnosophistae</strong>; other sources include Pollux and various scholiasts. The standard modern collection is in <strong>Poetae Comici Graeci</strong>. The golden age fragment is a key text for understanding comic fantasy and the literary use of myth in Old Comedy. It exemplifies the genre’s technique of subverting traditional motifs for satire. While Telecleides was a recognized figure in antiquity, the loss of his complete works limits his influence to scholarly study of these fragments.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "λέξω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τοίνυν βίον ἐξ ἀρχῆς ὃν ἐγὼ θνητοῖσι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "παρεῖχον. εἰρήνη μὲν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "πρῶτον ἁπάντων ἦν ὥσπερ ὕδωρ κατὰ χειρός. ἡ γῆ δ’ ἔφερ’ οὐ δέος οὐδὲ νόσους, ἀλλ’ αὐτόματ’ ἦν τὰ[ln_3]δέοντα· οἴνῳ γὰρ ἅπας’ ἔρρει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "χαράδρα, μᾶζαι δ’ ἄρτοις ἐμάχοντο[ln_5]περὶ τοῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "στόμασιν τῶν ἀνθρώπων ἱκετεύουσαι καταπίνειν, εἴ τι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "φιλοῖεν τὰς λευκοτάτας. οἱ δ’ ἰχθύες οἴκαδ’ ἰόντες ἐξοπτῶντες",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.8",
+      "text": "σφᾶς αὐτοὺς ἂν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.9",
+      "text": "παρέκειντ’ ἐπὶ ταῖσι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.10",
+      "text": "τραπέζαις. ζωμοῦ δ’ ἔρρει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.11",
+      "text": "παρὰ τὰς κλίνας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.12",
+      "text": "ποταμὸς κρέα θερμὰ κυ‐[ln_8]λίνδων, ὑποτριμματίων δ’ ὀχετοὶ τούτων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.13",
+      "text": "τοῖς βουλομένοισι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.14",
+      "text": "παρῆσαν,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_10]ὥστ’ ἀφθονία τὴν ἔνθεσιν ἦν ἄρδονθ’ ἁπαλὴν καταπίνειν. λεκανίσκαισιν δ’ ἀνάπαιστα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "παρῆν ἡδυσματίοις κατάπαστα. ὀπταὶ δὲ κίχλαι μετ’ ἀμητίσκων εἰς τὸν φάρυγ’ εἰσεπέτοντο· τῶν δὲ πλακούντων ὠστιζομένων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "περὶ τὴν γνάθον ἦν ἀλα‐[ln_13]λητός. μήτρας δὲ τόμοις καὶ χναυματίοις οἱ παῖδες ἂν ἠστραγά‐[ln_14]λιζον.[ln_15]οἱ δ’ ἄνθρωποι πίονες ἦσαν τότε καὶ μέγα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "χρῆμα γιγάντων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "ἀλλ’ ὦ πάντων ἀστῶν λῷστοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "σεῖσαι καὶ προσκαλέσασθαι, παύσασθε δικῶν ἀλληλοφάγων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "δουλοπόνηρον ῥυπαρὸν κόλυθρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.1",
+      "text": "ὦ τὰ μὲν κομψοί, τὰ δὲ φαυλότεροι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.2",
+      "text": "φαυλίων μήλων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5",
+      "text": "ὡς καλοὶ καὶ φιβάλεῳ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10",
+      "text": "τὰ δὲ τήγανα σίζοντά σοι μολύνεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 13",
+      "text": "δρεπτόν (μανδαλωτόν, γιγγλιμωτόν)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14.1",
+      "text": "ἀλλ’ ἡ τάλαινα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14.2",
+      "text": "Φιλοκλέα β δεν οὖν, εἰ δ’ ἐστὶν Αἰσχύλου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14.3",
+      "text": "φρόνημ’ ἔχων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 19",
+      "text": "κόγχη διελεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 20",
+      "text": "διενεγκεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 21",
+      "text": "οὐδαμῇ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 23",
+      "text": "Δάκης τίς ἐστιν ὅντιν’ ἀνθρώπων ὁρᾷς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 24-25.1",
+      "text": "καὶ μελιχρὸν οἶνον ἕλκειν ἐξ ἡδύπνου λεπαστῆς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 24-25.2",
+      "text": "τυρίον ἐπεσθίοντα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 26",
+      "text": "εὐχροεῖν, ὀρνιθοθηρᾶν, σωφρονεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 27",
+      "text": "ναὶ μὰ τὰς κράμβας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 28",
+      "text": "δι’ ἡμέρας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 30",
+      "text": "ῥαγδαίους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 31.1",
+      "text": "ὡς οὖσα θῆλυς εἰκότως οὖθαρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 31.2",
+      "text": "φορῶ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 32",
+      "text": "φιλῶ πλακοῦντα θερμόν, ἀχράδας οὐ φιλῶ, χαίρω λαγῴοις ἐπ’ ἀμύλῳ καθημένοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 33",
+      "text": "ὦ δέσποθ’ Ἑρμῆ, κάπτε τῶν θυλημάτων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 35.1",
+      "text": "τίς ἥδε κραυγὴ καὶ δόμων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 35.2",
+      "text": "περίστασις;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 36",
+      "text": "πάντες δὲ τευτάζουσιν οἱ διάκονοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 37",
+      "text": "σὺ δὲ φρόνιμος αὐτὸς ὢν ἀπαρτὶ ταύτης τῆς τέχνης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 38",
+      "text": "ξυγγενέσθαι διὰ χρόνου λιπαρείτω μου δρυπεπέσι μάζαις καὶ διασκανδικίσαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 39-40.1",
+      "text": "Φρύγες ἐστὶ καινὸν δρᾶμα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 39-40.2",
+      "text": "τοῦτ’ Εὐριπίδου, * * * * * ᾧ καὶ Σωκράτης τὰ φρύγαν’ ὑποτίθησι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 41.1",
+      "text": "Χαρικλέης μὲν οὖν ἔδωκε μνᾶν, ἵν’ αὐτὸν μὴ λέγῃ ὡς ἔφυ τῇ μητρὶ παίδων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 41.2",
+      "text": "πρῶτος ἐκ βαλλαντίου. τέτταρας δὲ μνᾶς ἔδωκε Νικίας Νικηράτου· ὧν δ’ ἕκατι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 41.3",
+      "text": "τοῦτ’ ἔδωκε, καίπερ εὖ εἰδὼς ἐγὼ[ln_5]οὐκ ἐρῶ· φίλος γὰρ ἁνήρ, σωφρονεῖν δέ μοι δοκεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 42.1",
+      "text": "πόλεών",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 42.2",
+      "text": "τε φόρους αὐτάς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 42.3",
+      "text": "τε πόλεις τὰς μὲν δεῖν τάς τ’ ἀναλύειν, λάινα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 42.4",
+      "text": "τείχη τὰ μὲν οἰκοδομεῖν τὰ δὲ αὐτὰ πάλιν καταβάλλειν, σπονδάς, δύναμιν, κράτος, εἰρήνην, πλοῦτόν τ’ εὐδαιμονίαν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 42.5",
+      "text": "τε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 43.1",
+      "text": "ὅδ’ ἀπ’ Αἰγίνης νήσου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 43.2",
+      "text": "χωρεῖ δοθιῆνος ἔχων τὸ πρόσωπον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 44.1",
+      "text": "μόνος ἐκ κεφαλῆς ἑνδεκακλίνου θόρυβον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 44.2",
+      "text": "πολὺν ἐξανατέλλει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 45.1",
+      "text": "τῶν δυνατῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 45.2",
+      "text": "τι κέλευ’· οὐ γὰρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 45.3",
+      "text": "παρὰ Κενταύροισιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 47",
+      "text": "καρηβαρικὸν τὸ πάθος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 48",
+      "text": "ἀκροκώλια δίεφθα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 49",
+      "text": "παιδοφίλης, παιδέρως Ζεύς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 50",
+      "text": "τραχήλου τύλαν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 51",
+      "text": "τῆς ἀγορασίας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 52",
+      "text": "ἀνηρώτιζεν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 53",
+      "text": "ἀπατήσει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 54",
+      "text": "βρέχειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 55",
+      "text": "Βρόμιος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 56",
+      "text": "ἐργολήπτας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 57",
+      "text": "Εὐτρηἵους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 58",
+      "text": "ἰβύ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 59",
+      "text": "καθεδοῦμαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 60",
+      "text": "λυχνοκῶσα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 61",
+      "text": "μανόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 62",
+      "text": "μέμφειραν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 63",
+      "text": "μόμφιν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 64",
+      "text": "σαβαρίχιν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 65",
+      "text": "σάθων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 66",
+      "text": "τερπότραμις",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "edi-ab",
+      "title": {
+        "english": "Golden Age of Plenty",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "telecleides-the-comic-poet-golden-age-of-plenty-ab-edi-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/telecleides-the-comic-poet/golden-age-of-plenty-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet-golden-age-of-plenty-ab-edi-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet-golden-age-of-plenty-ab-edi-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet-golden-age-of-plenty-ab-edi-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet-golden-age-of-plenty-ab-edi-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet/golden-age-of-plenty-ab.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "hpi-aa",
+      "title": {
+        "english": "Comic Fragments on Dionysus",
+        "ancient_greek": "Ἀποσπάσματα περὶ Διονύσου Κωμικά"
+      },
+      "url_slug": "rhinthon-of-tarentum-dionysus-fragments-hpi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/rhinthon-of-tarentum/dionysus-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhinthon-of-tarentum-dionysus-fragments-hpi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhinthon-of-tarentum-dionysus-fragments-hpi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhinthon-of-tarentum-dionysus-fragments-hpi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhinthon-of-tarentum-dionysus-fragments-hpi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhinthon-of-tarentum/dionysus-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "bou-ab",
+      "title": {
+        "english": "Comic Fragments on Guard Duty",
+        "ancient_greek": "Ἀποσπάσματα περὶ Φυλακῆς Κωμικά"
+      },
+      "url_slug": "chionides-the-comic-poet-guard-duty-bou-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/chionides-the-comic-poet/guard-duty",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet-guard-duty-bou-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet-guard-duty-bou-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet-guard-duty-bou-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet-guard-duty-bou-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet/guard-duty.epub"
+      }
+    },
+    {
+      "eul_wid": "gtk-ab",
+      "title": {
+        "english": "Fragments on Cooking and Piety",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μαγειρικῆς καὶ Εὐσεβείας"
+      },
+      "url_slug": "athenion-the-comic-poet-cooking-piety-gtk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/athenion-the-comic-poet/cooking-piety",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenion-the-comic-poet-cooking-piety-gtk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenion-the-comic-poet-cooking-piety-gtk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenion-the-comic-poet-cooking-piety-gtk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenion-the-comic-poet-cooking-piety-gtk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenion-the-comic-poet/cooking-piety.epub"
+      }
+    },
+    {
+      "eul_wid": "lli-ab",
+      "title": {
+        "english": "Fragments on Fate",
+        "ancient_greek": "Ἀποσπάσματα περὶ Εἱμαρμένης"
+      },
+      "url_slug": "xenarchus-the-comic-poet-fate-fragments-ab-lli-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenarchus-the-comic-poet/fate-fragments-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet-fate-fragments-ab-lli-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet-fate-fragments-ab-lli-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet-fate-fragments-ab-lli-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet-fate-fragments-ab-lli-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet/fate-fragments-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "cxa-aa",
+      "title": {
+        "english": "Fragments on Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου"
+      },
+      "url_slug": "magnes-the-comic-poet-life-fragments-cxa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/magnes-the-comic-poet/life-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnes-the-comic-poet-life-fragments-cxa-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnes-the-comic-poet-life-fragments-cxa-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnes-the-comic-poet-life-fragments-cxa-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnes-the-comic-poet-life-fragments-cxa-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnes-the-comic-poet/life-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "ivg-ab",
+      "title": {
+        "english": "Fragments on Philosophy and Excess",
+        "ancient_greek": "Ἀποσπάσματα περὶ Φιλοσοφίας καὶ Ὑπερβολῆς"
+      },
+      "url_slug": "bato-the-comic-poet-philosophy-excess-ivg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/bato-the-comic-poet/philosophy-excess",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet-philosophy-excess-ivg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet-philosophy-excess-ivg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet-philosophy-excess-ivg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet-philosophy-excess-ivg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet/philosophy-excess.epub"
+      }
+    },
+    {
+      "eul_wid": "hdu-aa",
+      "title": {
+        "english": "Fragments on Rural Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Ἀγροικοῦ"
+      },
+      "url_slug": "anaxilas-the-comic-poet-rural-life-hdu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anaxilas-the-comic-poet/rural-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-the-comic-poet-rural-life-hdu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-the-comic-poet-rural-life-hdu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-the-comic-poet-rural-life-hdu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-the-comic-poet-rural-life-hdu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-the-comic-poet/rural-life.epub"
+      }
+    },
+    {
+      "eul_wid": "fqy-aa",
+      "title": {
+        "english": "On the Rooster of Philip",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "heraclides-ponticus-rooster-philip-aa-fqy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/heraclides-ponticus/rooster-philip-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-ponticus-rooster-philip-aa-fqy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-ponticus-rooster-philip-aa-fqy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-ponticus-rooster-philip-aa-fqy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-ponticus-rooster-philip-aa-fqy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-ponticus/rooster-philip-aa.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/telecleides-the-comic-poet/golden-age-of-plenty-aa",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet-golden-age-of-plenty-aa-edi-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet-golden-age-of-plenty-aa-edi-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet-golden-age-of-plenty-aa-edi-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet-golden-age-of-plenty-aa-edi-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet/golden-age-of-plenty-aa.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

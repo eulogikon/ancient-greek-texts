@@ -1,0 +1,529 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ece-ab",
+  "eul_aid": "ece",
+  "author_slug": "thessalus-of-cos",
+  "work_slug": "virtues-herbs-ab",
+  "url_slug": "thessalus-of-cos-virtues-herbs-ab-ece-ab",
+  "author": {
+    "english": "Thessalus of Cos",
+    "ancient_greek": "Θεσσαλός ὁ Κῷος"
+  },
+  "title": {
+    "english": "On the Virtues of Herbs",
+    "ancient_greek": "Περὶ τῶν ἀρετῶν τῶν βοτάνων"
+  },
+  "seo": {
+    "browser_title": "On the Virtues of Herbs by Thessalus of Cos on Eulogikon",
+    "meta_title": "On the Virtues of Herbs by Thessalus of Cos in Greek",
+    "meta_description": "A 1st-century CE medical treatise on herbal medicine. Practical guide to medicinal plants. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On the Virtues of Herbs</strong> is a first-century CE medical treatise by the physician Thessalus of Cos, who practiced in Rome. Presented as a letter to the emperor, the work is a practical guide to herbal medicine consisting of 39 concise entries, each detailing the therapeutic properties and applications of a specific plant. It provides straightforward, recipe-based instructions for preparing remedies, representing a significant manual within the Greek pharmacological tradition. Thessalus was the founder of the Methodist school of medicine, which flourished under Emperor Nero. His writings, including this treatise, are often interpreted as part of a professional effort to assert authority within a highly competitive medical landscape. While some works attributed to him profess a basis in secret, divinely revealed knowledge, the precise relationship of this particular text to that larger pseudepigraphical corpus remains a subject of scholarly inquiry. The surviving manual was likely intended as a reference for practicing physicians or advanced students seeking reliable plant-based treatments.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1 prol 1 (t)",
+      "text": "† Ἁρποκρατίων Καίσαρι Αὐγούστῳ χαίρειν. Πολλῶν ἐπιχειρησάντων ἐν τῷ βίῳ, Σεβαστὲ Καῖσαρ, παραδοῦναι πολλὰ παράδοξα, μηδενὸς πρὸς τέλος ἀγαγεῖν τὰς ἐπαγγελίας δυνηθέντος διὰ τὸν 〈ἀπὸ〉 τῆς εἱμαρμένης ταῖς διανοίαις αὐτῶν ἐπικείμενον ζόφον, μόνος δοκῶ τῶν ἀπ’ αἰῶνος ἀνθρώπων πεποιηκέναι τι παράδοξον 〈καὶ ὀλίγοις γνωστόν〉. ἐπιχειρήσας γὰρ πράγμασιν, ἅπερ θνητῆς μέτρα φύσεως ὑπερβαίνει, τούτοις γε μετὰ πολλῶν βασάνων καὶ κινδύνων τὸ καθῆκον τέλος ἐπέθηκα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 prol 3",
+      "text": "ἀσκήσας 〈γὰρ〉 γραμματικὴν ἐπιστήμην ἐν τοῖς τῆς Ἀσίας κλίμασι καὶ πάντων τῶν ἐκεῖ βελτίων γενόμενος διέγνων ἕως τινὸς τῆς ἐπιστήμης ἀπολαύειν. καὶ πλεύσας ἐπὶ τὴν περισπούδαστον Ἀλεξάνδρειαν μετὰ συχνοῦ ἀργυρίου τοῖς ἐντελεστάτοις τῶν φιλολόγων † παρώδευον καὶ φιλοπονίας ἕνεκα καὶ συνέσεως ὑπὸ πάντων ἐπαινούμενος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 prol 5",
+      "text": "ἐφοίτων δὲ συνεχῶς καὶ εἰς τὰς τῶν διαλεκτικῶν ἰατρῶν διατριβάς· ἤρων γὰρ περισσῶς ταύτης τῆς ἐπιστήμης. ἐπεὶ δὲ καιρὸς ἦν εἰς οἶκον ἀπιέναι, κατὰ τρόπον ἤδη μοι καὶ τῆς ἰατρικῆς προιούσης, περιῄειν τὰς βιβλιοθήκας ἐκζητῶν 〈τὴν ἀναγκαίαν ὕλην〉· εὑρὼν δὲ βίβλον τινὰ 〈τοῦ〉 Νεχεψὼ κδʹ θεραπείας ὅλου τοῦ σώματος καὶ παντὸς πάθους κατὰ ζῳδι〈ακ〉ὸν περιέχουσαν διὰ λίθων τε καὶ βοτανῶν τὰ τῆς ἐπαγγελίας παράδοξα ἐξεπληττόμην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 prol 6",
+      "text": "ἦν δέ, ὡς ἔοικε, βασιλικῆς μωρίας κενὸς τῦφος· σκευάσας γὰρ τὸν ὑπ’ αὐτοῦ θαυμαζόμενον τροχίσκον ἡλιακὸν καὶ τὰς λοιπὰς δυνάμεις ἐν πάσαις τῶν παθῶν θεραπείαις ἠστόχησα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 prol 8",
+      "text": "θανάτου δὲ τραχυτέραν ὑπολαβὼν εἶναι τὴν πλάνην ὑπὸ τῆς λύπης ἐδαπανώμην· καὶ γὰρ προπετέστερον τῇ γραφῇ πεπιστευκὼς ἔγραψα περὶ τῆς ἐνεργείας αὐτῶν καὶ τοῖς γονεῦσιν ὡς ἤδη πειράσας καὶ ὑποστρέφειν ἐπηγγελλόμην. ἐν μὲν οὖν τῇ Ἀλεξανδρείᾳ μένειν οὐχ οἷόν τε ἦν διὰ τὸν τῶν ὁμοτέχνων γέλωτα καὶ γὰρ ἰδίως τὰ καλὰ φθονεῖται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 prol 10",
+      "text": "εἰς οἶκον δὲ ἀπιέναι πάλιν προθυμίαν οὐκ εἶχον μικρότερος τῶν ἐπαγγελιῶν εὑρημένος, περιῄειν δὲ τὴν Αἴγυπτον οἴστρῳ τῆς ψυχῆς ἐλαστρούμενος καὶ ζητῶν τι 〈τῆσ〉 προπετοῦς ἐπαγγελίας ἐργάσασθαι ἢ τούτου μὴ τυχὼν θανάτῳ λοιπὸν ἀφιέναι τὸν βίον. ἀεὶ δέ μου τῆς ψυχῆς † προμαντευομένης θεοῖς ὁμιλῆσαι, συνεχῶς εἰς οὐρανὸν τὰς χεῖρας ἐκτείνων τοὺς θεοὺς ἐλιτάνευον δι’ ὀνείρου φαντασίας ἢ διὰ πνεύματος θείου χαρίσασθαί μοί τι τοιοῦτο, δι’ οὗ γαυριάσας ἱλαρὸς εἰς τὴν Ἀλεξάνδρειαν καὶ τὴν πατρίδα κατελθεῖν δυνηθῶ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 prol 12",
+      "text": "Γενόμενος οὖν ἐν Διὸς πόλει—ἀρχαιοτάτην 〈λέγω〉 τῆς Αἰγύπτου πόλιν καὶ πολλὰ ἱερὰ ἔχουσαν—διέτριβον αὐτόθι· ἦσαν γὰρ 〈ἐκεῖ〉 καὶ ἀρχιιερεῖς φιλόλογοι καὶ 〈γέροντεσ〉 ποικίλοις κεκοσμημένοι μαθήμασιν. προβαίνοντος δὲ τοῦ χρόνου καὶ τῆς πρὸς αὐτούς μοι φιλίας μᾶλλον αὐξανομένης, ἐπυνθανόμην, εἴ τι τῆς μαγικῆς ἐνεργείας σῴζεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 prol 13",
+      "text": "καὶ τῶν μὲν πλειόνων ἐπαγγελίας ὁμοίας τῇ προπετείᾳ μου 〈ἐπι〉φερόντων κατέγνων· ἑνὸς δέ τινος διὰ τὸ 〈οὐ〉 σοβαρὸν τῶν ἠθῶν καὶ τὸ τῆς ἡλικίας μέτρον πιστευθῆναι δυναμένου οὐκ ἀνεχαιτίσθην τῆς φιλίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 prol 14",
+      "text": "ἐπηγγείλατο δὲ οὗτος αὐτοπτικὴν ἔχειν λεκάνης ἐνέργειαν. παρεκάλεσα οὖν αὐτὸν ἐν τοῖς ἐρημοτάτοις τόποις τῆς πόλεως σὺν ἐμοὶ περιπατῆσαι μηδὲν ὧν ἔχρῃζον ἐκφήνας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 prol 16",
+      "text": "ἀπελθόντων οὖν ἡμῶν εἴς τι ἄλσος ἡσυχίᾳ βαθυτάτῃ περιεχόμενον, αἰφνίδιος περιπεσὼν ἐπὶ στόμα καὶ κλαίων τῶν ποδῶν εἰχόμην τοῦ ἀρχιερέως. ἐκπλαγέντος δὲ αὐτοῦ διὰ τὸ ἀπροσδόκητον τῆς θέας καὶ πυνθανομένου, τίνος ἕνεκε τοῦτο ποιήσαιμι, ἔφασκον ἐν αὐτῷ τὴν ἐξουσίαν εἶναι τῆς ἐμῆς ψυχῆς· ἔχειν γάρ με ἀνάγκην θεῷ ὁμιλῆσαι· ἧς ἐπιθυμίας ἂν ἁμάρτω, μέλλω ἀποτάσσεσθαι τῷ βίῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 prol 18",
+      "text": "ἀναστήσας δέ με ἀπὸ τῆς γῆς καὶ παρηγορήσας προσηνεστάτοις λόγοις, ἀσμένως ταῦτα ποιεῖν ἐπηγγέλλετο καὶ ἐκέλευσέν 〈με〉 ἁγνεύειν ἡμέραις τρισίν. διαχυθείσης δέ μου τῆς ψυχῆς ἐπὶ ταῖς ἐπαγγελίαις τοῦ ἀρχιερέως, ἠσπασάμην αὐτοῦ τὴν δεξιὰν καὶ ηὐχαρίστουν κρουνηδόν μοι τῶν δακρύων φερομένων· φυσικῶς γὰρ ἀπροσδόκητος χαρὰ πλείονα λύπης ἐκκαλεῖται δάκρυα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 prol 20",
+      "text": "ἐπανελθόντες δὲ ἐκ τοῦ ἄλσους ἐπὶ τὴν ἁγνείαν ἐγιγνόμεθα ἐμοὶ τῶν ἡμερῶν διὰ τὴν προσδοκίαν 〈ὡσ〉 ἐνιαυτῶν ἀπαριθμουμένων. ἐπιστάσης δὲ τῆς τρίτης ἡμέρας ὑπὸ τὸν ὄρθρον πορευθεὶς ἠσπασάμην τὸν ἀρχιερέα 〈ταπεινῶσ〉.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 prol 21",
+      "text": "Εὐτρέπιστο δὲ αὐτῷ οἶκος καθαρὸς καὶ τὰ λοιπὰ τὰ πρὸς τὴν ἐπίσκεψιν· ἐγὼ δὲ κατὰ προμήθειαν τῆς ψυχῆς εἶχον, ἀγνοοῦντος τοῦ ἀρχιερέως, χάρτην καὶ μέλαν ἐπὶ 〈τῷ〉 σημειώσασθαι τῶν λεγομένων, 〈ἃ〉 ἐὰν δεήσῃ. ἀνακρίνοντος δέ με τοῦ ἀρχιερέως, πότερον ψυχῇ νεκροῦ τινος ἢ θεῷ ὁμιλῆσαι βουλοίμην, ἔφην Ἀσκληπιῷ· εἶναι δὲ τὸ τέλειον τῆς χάριτος, εἰ μόνῳ μοι πρὸς μόνον ὁμιλεῖν ἐπιτρέψειεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 prol 23",
+      "text": "ὅμως οὐχ ἡδέως μέν (τοῦτο γὰρ ἐνέφαινον οἱ τῆς ὄψεως χαρακτῆρες), πλὴν ἐπηγγείλατο. καὶ ἐγκλείσας με εἰς τὸν οἶκον καὶ καθῖσαι κελεύσας ἄντικρυς τοῦ θρόνου, εἰς ὃν ἔμελλεν ὁ θεὸς καθέζεσθαι, προαγαγὼν διὰ τῶν ἀπορρήτων ὀνομάτων τὸν θεὸν καὶ ἐξελθὼν ἔκλεισε τὴν θύραν. καθεζομένου δέ μου καὶ ἐκλυομένου τοῦ σώματος καὶ τῆς ψυχῆς διὰ τὸ παράδοξον τῆς θέας (οὔτε γὰρ τοὺς τῆς ὄψεως χαρακτῆρας οὔτε τὴν τοῦ περικειμένου κόσμου καλλονὴν ἀνθρώπου λόγος διασαφῆσαι δύναιτ’ 〈ἄν〉)· ἀνατείνας οὖν τὴν δεξιὰν ἤρξατο λέγειν· ὦ μακάριε παρὰ θεῷ τυχὼν τιμῆς Θεσσαλέ, προϊόντος δὲ τοῦ χρόνου καὶ γνωσθέντων τῶν σῶν ἐπιτευγμάτων ὡς θεὸν ἄνθρωποί σε θρησκεύ〈σ〉ουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 prol 25",
+      "text": "ἐπερώτα οὖν 〈ἀδεῶσ〉 περὶ ὧν θέλεις ἀσμένως ἐμοῦ πάντα παρέξοντος. ἐγὼ δὲ μόλις μὲν ⸤ ἤκουσα ⸥ · —κατεπεπλήγμην ⸤ γὰρ ⸥ καὶ ἐπεπληρώμην τὸν νοῦν εἰς τὴν τοῦ θεοῦ βλέπων μορφήν· —ὅμως 〈δ’〉 οὖν ἐπυνθανόμην, δι’ ἣν αἰτίαν ἐπὶ ταῖς τοῦ Νεχεψὼ δυνάμεσιν ἠστόχησα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 prol 26",
+      "text": "πρὸς ὃ ὁ θεὸς εἶπεν· ὁ βασιλεὺς Νεχεψώ, ἀνὴρ φρενηρέστατος καὶ πάσαις κεκοσμημένος ἀρεταῖς παρὰ μὲν θείας φωνῆς οὐδὲν ὧν σὺ μαθεῖν ἐπιζητεῖς εὐτύχησε· φύσει δὲ χρησάμενος ἀγαθῇ συμπαθείας λίθων καὶ βοτανῶν ἐπενόησε, τοὺς δὲ καιροὺς καὶ τοὺς τόπους ἐν οἷς δεῖ τὰς βοτάνας λαμβάνειν οὐκ ἔγνω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 prol 28",
+      "text": "ὥρια γὰρ πάντα τῇ τῶν ἄστρων ἀπορροίᾳ αὔξεται καὶ μειοῦται· τό τε θεῖον ἐκεῖνο πνεῦμα λεπτομερέστατον ὑπάρχον διὰ πάσης οὐσίας διήκει καὶ μάλιστα κατ’ ἐκείνους τοὺς τόπους, καθ’ οὓς αἱ τῶν ἄστρων ἀπόρροιαι γίνονται {τῆς} ἐπὶ τῆς κοσμικῆς καταβολῆς. ἐξ ἑνὸς δὲ 〈τοῦ〉το πρὸς πίστιν τῶν λοιπῶν παραστήσω. Βοτάνη γὰρ ἔστιν ἡ λεγομένη κώνειον· αὕτη ἐκ τῆς τοῦ Ἄρεος ἀπορροίας δοκεῖ γεγενῆσθαι· ἔτυχε δὲ ἐπὶ τῆς κοσμικῆς καταβολῆς ἐν Σκορπίῳ βάλλων τὰς ἀκτῖνας· 〈ἔβαλε γοῦν τὸ κώνειον ἐν τοῖς τῆς Ἰταλίας μέρεσιν·〉 σκορπιανὸν γὰρ {καὶ} ἐκεῖνο τὸ τῆς Ἰταλίας κλίμα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 prol 30",
+      "text": "αὕτη οὖν ἡ βοτάνη πλέον τῆς θείας ἀπορροίας ἑλκύσασα, εἴτε ἀπὸ τετραπόδου ἢ ἀνθρώπου βρωθῇ, παραχρῆμα θανατοῖ. τινὲς δὲ καὶ κατὰ ἄγνοιαν τῆς βοτάνης ἐν ταῖς ἐρημίαις κατακλιθέντες παρ’ αὐτὴν καὶ κοιμηθέντες ἐν τῷ ῥινουλκεῖν ἐν ταῖς ἀναπνοαῖς αὐτῆς τὴν ἐνέργειαν ἐτελεύτησαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 prol 32",
+      "text": "ὁμοίως καὶ ἡ Κρήτη 〈......〉 τὴν ἀκτινοβολίαν. τὴν αὐτὴν οὖν βοτάνην εἰς Κρήτην τὸ κώνειον ἐσθίουσιν ἄνθρωποι{ς} οὖσαν τῶν πάντων λαχάνων ἡδίονα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 prol 34",
+      "text": "τοσοῦτον αἱ τῶν θεῶν ἀπόρροιαι παρὰ τοὺς τόπους καὶ καιροὺς δύνανται. Πρόδηλον ⸤ οὖν ⸥ ὅτι πάντων τῶν ἀστέρων βασιλεύς ἐστιν ὁ Ἥλιος· οὗτος δὲ ἐν Κριῷ γενόμενος ὑψοῦται καί τινα μεγίστην δύναμιν ἐν τούτῳ λαμβάνει τῷ ζῳδίῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 prol 36",
+      "text": "αἱ οὖν βοτάναι τότε δυναμικώταται, οὐ μόνον διὰ τὸν Ἥλιον, ἀλλὰ καὶ διότι τὸ ζῴδιον πᾶσι τοῖς τὰ πάθη ἐμποιοῦσι θεοῖ ἐπίκοινον· Ἡλίου μὲν γάρ ἐστιν, καθὼς προεῖπον, ὕψωμα, Κρόνου δὲ ταπείνωμα, Ἄρεος δὲ οἶκος, Διὸς ⸤ δὲ ⸥ τρίγωνον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 prol 37",
+      "text": "τοσαύτας ἔχει τὸ προειρημένον ζῴδιον δυνάμεις. ἐν τούτῳ οὖν ὄντος τοῦ Ἡλίου τὰς ῥηθησομένας βοτάνας λαμβάνων χύλιζε μὴ ἑψῶν· ὑπὸ γὰρ τοῦ πυρὸς ἡ ποιότης ἀλλοιοῦται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 prol 38",
+      "text": "καὶ ταχέως τὸν χυλὸν ἔκθλιβε καὶ εἰς λεκάνην ἢ ξέστην τὸν χυλὸν βαλὼν καὶ μετὰ μέλιτος μίγε. τοῦτο δὲ ποιήσας βάλλε εἰς ἀγγεῖα ὑέλινα καὶ τίθει ἐπὶ ἡμέρας [.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 prol 39",
+      "text": "..]..{εἰ δὲ ὠμοὺς θέλεις χυλούς, ἔκζεσον}. μετὰ δὲ ταῦτα σκεύαζε καθ’ ἑκάστην δύναμιν. 〈Κριοῦ βοτάνη ἐλελίσφακοσ〉 Κριός, ζῴδιον πρῶτον· περὶ ἐλελισφάκου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 1 1",
+      "text": "Ἀπὸ Φαμενὼθ δευτέρας καὶ εἰκάδος ἤγουν Δύστρου ιηʹ, κατὰ δὲ Ῥωμαίους ἀπὸ ⸤ τῆς πρὸ ⸥ ιεʹ καλανδῶν Ἀπριλλίου πρώτη βοτάνη ἐλελίσφακος. αὕτη ἔχει δυνάμεις πλείστας πρός τε αἵματος ἀναγωγὰς καὶ πρὸς φθισικοὺς καὶ συντηκτικοὺς καὶ σπληνικοὺς καὶ πρὸς τὰς ὑστερικὰς διαθέσεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 1 3",
+      "text": "πρὸς μὲν οὖν αἵματος ἀναγωγὴν εἰς τρεῖς κυάθους χυλοῦ βάλλεται μέλιτος Ἀττικοῦ οὐγγία αʹ καὶ νήστῃ δίδοται πιεῖν καὶ εὐθέως ἰᾶται ἡ ἀναφορὰ τοῦ αἵματος. τοῖς δὲ φθισικοῖς σκευάζεται καταπότια οὕτως· κρόκου κωρυκίου δρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 1 4",
+      "text": "εʹ, ζιγγιβέρεως δρ. δʹ, στάχυος δρ. θʹ, τοῦ σπέρματος τοῦ ἐλελισφάκου πεφρυγμένου καὶ σεσησμένου δρ. ιδʹ, πεπέρεως δρ. βʹ. ἀναλάμβανε τῷ χυλῷ καὶ ποίει καταπότια ἡμιδραγμιαῖα καὶ δίδου νήστῃ πρωὶ καὶ εἰς κοίτην· καταπιὼν δὲ ἐπιρροφείτω ὕδατος καθαροῦ κυάθους βʹ. τοῖς δὲ σπληνικοῖς γίνεται καὶ αὐτοῖς καταπότια οὕτως· καππάρεως τῆς ῥίζης κεκομμένης καὶ σεσησμένης δρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 1 5",
+      "text": "ιβʹ, κισσοῦ μέλανος τοῦ καρποῦ δρ. θʹ, μύρτων λευκῶν δρ. δʹ, ζιγγιβέρεως δρ. ϛʹ. λεῖα ποιήσας ἀναλάμβανε τῷ χυλῷ καὶ ποίει καταπότια ἀνὰ δρ. αʹ καὶ δίδου πρωὶ ἓν καὶ εἰς κοίτην αʹ. πρὸς δὲ τὰς ὑστερικὰς ⸤ διαθέσεισ ⸥ , οἷον σκληρίας καὶ ῥευματισμοὺς καὶ ἐπιμόνους ἀλγηδόνας ἄκοπον σκευάζεται ⸤ οὕτωσ ⸥ · κηροῦ τυρρηνικοῦ δρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 1 6",
+      "text": "ιδʹ, μυελοῦ ἐλαφείου δρ. ηʹ, ῥόδων ξηρῶν κεκομμένων δρ. δʹ, τοῦ χυλοῦ τῆς βοτάνης κυάθους δʹ. τὰ τηκτὰ βάλλε εἰς τὰ ξηρὰ καὶ τὸν χυλὸν {καὶ} ἕψε, ἕως ἂν τὸ τέταρτον μέρος καθεψηθῇ, καὶ τότε ἀπόθου εἰς ἄγγος κασσιτέρινον· χρῶ δὲ συγχρίων τὴν ὑστέραν. ἐὰν δὲ χαλεπὴ λίαν ἡ διάθεσις ᾖ, ἕψε τὴν βοτάνην σὺν ταῖς ῥίζαις καὶ ἐγκαθισμῷ χρῶ. γίνεται δὲ καὶ ἐκ τῆς ῥίζης ἐνεργέστατον μάλαγμα νεφριτικοῖς καὶ ἰσχιαδικοῖς οὕτως· κηροῦ δρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 1 7",
+      "text": "ηʹ, Ἀμμωνιακοῦ δρ. ιϛʹ, χαλβάνης δρ. θʹ, κεδρίας δρ. ιηʹ, στέατος ταυρείου δρ. ιδʹ, τῆς ῥίζης κεκομμένης καὶ σεσησμένης δρ. λβʹ. τὰ ξηρὰ τοῖς ὑγροῖς ἀναλαμβάνων χρῶ. ὠφελεῖ δὲ καὶ τὸ προγεγραμμένον ἄκοπον πρὸς τὰς τοιαύτας διαθέσεις. 〈Ταύρου βοτάνη περιστερεὼν ὀρθόσ〉 Ταῦρος, ζῴδιον β· περὶ περιστερεῶνος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 2 1",
+      "text": "ἀπὸ Φαρμοῦθι εἰκάδος τρίτης ἤγουν Ξανθικοῦ ιηʹ, κατὰ δὲ Ῥωμαίους ἀπὸ τῆς πρὸ ιδʹ Καλανδῶν Μαίων δευτέρα βοτάνη, περιστερεών. καὶ ταύτης αἱ ἐνέργειαί εἰσιν μηδὲ πιστεύεσθαι δυνάμεναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 2 2",
+      "text": "τὰς γὰρ ἀπηλπισμένας ὀφθαλμικὰς διαθέσεις ἐν τρισὶν ἡμέραις ἀπαλλάσσει παρὰ τῆς ποιότητος τῆς σκευασίας. πρὸς μὲν οὖν ὀφθαλμίας καὶ οἰδήματα καὶ ἐμφυσήματα καὶ πᾶσαν ἐπιφορὰν τοιούτῳ χρῶ κολλουρίῳ· κρόκου δρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 2 3",
+      "text": "ιδʹ, ἀμύλου δρ. ιβʹ, γλαυκίου δρ. ϛʹ, ᾠῶν τριῶν τὰ λευκά, τραγακάνθης δρ. βʹ. λεῖα ποιῶν ἀναλάμβανε τῷ χυλῷ καὶ ποιῶν κολλούρια χρῶ. πρὸς δὲ ῥεῦμα πᾶν ἄφεψε τὴν βοτάνην σὺν ταῖς ῥίζαις ⸤ καὶ χρῶ ⸥ προσκλύσματι· παραχρῆμα γὰρ ἵστησι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 2 5",
+      "text": "πρὸς δὲ τὰς γλαυκώσεις καὶ ὑποχύσεις καὶ τὰς ἀπεγνωσμένας διαθέσεις ὑγρὰ σκευάζεται τοιαύτη τις· ὀποπάνακος δρ. βʹ, λίθου αἱματίτου δρ. δʹ, κρόκου δρ. δʹ, λυκίου ἀμύλου ἀνὰ δρ. βʹ, γλαυκίου δρ. ϛʹ, τραγακάνθης δρ. βʹ, μέλιτος Ἀττικοῦ δρ. δʹ, πεπέρεως λευκοῦ δρ. βʹ, ὀποβαλσάμου δρ. βʹ, τῆς ῥίζης τοῦ περιστερεῶνος κεκομμένης καὶ σεσησμένης δρ. ϛʹ, χολῆς αἰγείας δρ. γʹ, τοῦ χυλοῦ κυάθους βʹ. τὰ ξηρὰ τοῖς ὑγροῖς ἀναλαμβάνων ⸤ χρῶ ⸥ . αὕτη ἡ δύναμις τὰς προγεγραμμένας διαθέσεις ἐν τρισὶν ἡμέραις ἀπαλλάσσει, τὰ δὲ πτερύγια καὶ συκώσεις καὶ χαλάζια καὶ τὰ τούτοις ὅμοια ἐν μιᾷ ἡμέρᾳ. οὐκ ἔστι δὲ θείας δυνάμεως ἔπαινον λέγειν, ἀλλ’ ἑκάστης δυνάμεως· δείξει γὰρ ἡ πεῖρα τὴν ἐνέργειαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 3 t",
+      "text": "〈Διδύμων βοτάνη περιστερεὼν ὕπτιοσ〉 Δίδυμοι, ζῴδιον γʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 3 1",
+      "text": "ἀπὸ Παχῶνος εἰκοστῆς πέμπτης, ἥτις ἐστὶν Ἀρτεμισίου κʹ, κατὰ δὲ Ῥωμαίους ἀπὸ τῆς πρὸ ιγʹ καλανδῶν Ἰουνίων· τρίτη βοτάνη περιστερεὼν ὕπτιος. Ταύτης ὁ χυλὸς ὁμοίως ἀναλαμβάνεται· εἶτα σκευάζεται φάρμακον ἐνεργέστατον πρὸς καρκινώματα καὶ κονδυλώματα καὶ τὰς λεγομένας συκᾶς· σκευάζεται δὲ οὕτως· κρόκου δρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 3 2",
+      "text": "ιβʹ, ῥόδων ξηρῶν δρ. ηʹ, μελιλώτου ποντικοῦ δρ. ιδʹ, στυπτηρίας σχιστῆς δρ. ηʹ. λειάνας μίγε ἴσα, παραχέων τῆς βοτάνης τοῦ χυλοῦ ξέστας δʹ, καὶ ἕψε ἐν χύτρᾳ καινῇ, ἕως ἂν γένοιτο μέλιτος πάχος, καὶ χρῶ. θεραπεύει δὲ καὶ τὰ ἐν τῷ σώματι πάντα. 〈Καρκίνου βοτάνη σύμφυτον〉 〈Ἀ〉πὸ Παυνὶ εἰκοστῆς πέμπτης, ἥτις ἐστὶν Δαισίου ιθʹ, κατὰ δὲ Ῥωμαίους ἀπὸ τῆς πρὸ ιγʹ καλανδῶν Ἰουλίων τετάρτη βοτάνη σύμφυτον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 4 3",
+      "text": "Ταύτης ὁ χυλὸς καὶ ἡ ῥίζα πολλὰς ἐνεργείας ἔχουσιν. ἐκ μὲν οὖν τῆς ῥίζης ἔμπλαστρον σκευάζεται, ὅπερ τραύματα καὶ διακοπὰς νεύρων κολλᾷ· κηροῦ δρ. ξʹ, μυελοῦ ἐλαφείου δρ. ιβʹ, μάννης Λιβάνου δρ. κβʹ, ⸤ τῆς ῥίζης κεκομμένης καὶ σεσημένης δρ. λβʹ, ⸥ μέλιτος Ἀττικοῦ δρ. κϛʹ, ἐλαίου ῥοδίνου δρ. κδʹ· τὰ ξηρὰ τοῖς ὑγροῖς ἀναλαμβάνων χρῶ. πρὸς δὲ τὰ ἐν θώρακι ῥήγματα, οἷον ἀρτηριῶν καὶ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 4 4",
+      "text": "..",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ece-aa",
+      "title": {
+        "english": "On the Virtues of Herbs",
+        "ancient_greek": "Περὶ τῶν ἀρετῶν τῶν βοτάνων"
+      },
+      "url_slug": "thessalus-of-cos-virtues-herbs-aa-ece-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/thessalus-of-cos/virtues-herbs-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-aa-ece-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-aa-ece-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-aa-ece-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-aa-ece-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "ece-ac",
+      "title": {
+        "english": "On the Virtues of Herbs",
+        "ancient_greek": "Περὶ τῶν ἀρετῶν τῶν βοτάνων"
+      },
+      "url_slug": "thessalus-of-cos-virtues-herbs-ac-ece-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/thessalus-of-cos/virtues-herbs-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ac-ece-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ac-ece-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ac-ece-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ac-ece-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "ece-ad",
+      "title": {
+        "english": "On the Virtues of Herbs",
+        "ancient_greek": "Περὶ τῶν ἀρετῶν τῶν βοτάνων"
+      },
+      "url_slug": "thessalus-of-cos-virtues-herbs-ad-ece-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/thessalus-of-cos/virtues-herbs-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ad-ece-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ad-ece-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ad-ece-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ad-ece-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-ad.epub"
+      }
+    },
+    {
+      "eul_wid": "ece-ae",
+      "title": {
+        "english": "On the Virtues of Herbs",
+        "ancient_greek": "Περὶ τῶν ἀρετῶν τῶν βοτάνων"
+      },
+      "url_slug": "thessalus-of-cos-virtues-herbs-ae-ece-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/thessalus-of-cos/virtues-herbs-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ae-ece-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ae-ece-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ae-ece-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ae-ece-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-ae.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "hhg-aa",
+      "title": {
+        "english": "Elements of Rhythm (Short)",
+        "ancient_greek": "Στοιχεῖα Ῥυθμικὰ"
+      },
+      "url_slug": "aristoxenus-of-tarentum-rhythm-aa-hhg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristoxenus-of-tarentum/rhythm-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum-rhythm-aa-hhg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum-rhythm-aa-hhg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum-rhythm-aa-hhg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum-rhythm-aa-hhg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/rhythm-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "upk-aa",
+      "title": {
+        "english": "Euclid's Elements Book XV",
+        "ancient_greek": "Στοιχεῖα Εὐκλείδου"
+      },
+      "url_slug": "anonymous-disciple-of-isidore-of-miletus-elements-book-15-upk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-disciple-of-isidore-of-miletus/elements-book-15",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-disciple-of-isidore-of-miletus-elements-book-15-upk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-disciple-of-isidore-of-miletus-elements-book-15-upk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-disciple-of-isidore-of-miletus-elements-book-15-upk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-disciple-of-isidore-of-miletus-elements-book-15-upk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-disciple-of-isidore-of-miletus/elements-book-15.epub"
+      }
+    },
+    {
+      "eul_wid": "tyc-ag",
+      "title": {
+        "english": "On What is According to the Art, Substance and NSubstance",
+        "ancient_greek": "Περὶ τοῦ τί ἐστιν κατὰ τὴν τέχνην, οὐσία καὶ"
+      },
+      "url_slug": "zosimus-of-panopolis-art-substance-tyc-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/art-substance",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-art-substance-tyc-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-art-substance-tyc-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-art-substance-tyc-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-art-substance-tyc-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/art-substance.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-bb",
+      "title": {
+        "english": "On the Incombustible Sulfur",
+        "ancient_greek": "Περὶ τοῦ θείου ἀκαύστου"
+      },
+      "url_slug": "alchemist-i-incombustible-sulfur-rrg-bb",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/incombustible-sulfur",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-incombustible-sulfur-rrg-bb.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-incombustible-sulfur-rrg-bb.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-incombustible-sulfur-rrg-bb.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-incombustible-sulfur-rrg-bb.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/incombustible-sulfur.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-ar",
+      "title": {
+        "english": "On the Whitening of Copper",
+        "ancient_greek": "Περὶ λευκώσεως (χαλκοῦ)"
+      },
+      "url_slug": "alchemist-i-whitening-copper-rrg-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/whitening-copper",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-whitening-copper-rrg-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-whitening-copper-rrg-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-whitening-copper-rrg-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-whitening-copper-rrg-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/whitening-copper.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-af",
+      "title": {
+        "english": "Onomatopoeia of the Egg, It Is the Mystery of the Art",
+        "ancient_greek": "Ὀνοματοποιία τοῦ ὠοῦ· αὐτὸ γάρ ἐστιν τὸ"
+      },
+      "url_slug": "alchemist-i-egg-mystery-art-rrg-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/egg-mystery-art",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-egg-mystery-art-rrg-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-egg-mystery-art-rrg-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-egg-mystery-art-rrg-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-egg-mystery-art-rrg-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/egg-mystery-art.epub"
+      }
+    },
+    {
+      "eul_wid": "hhg-ad",
+      "title": {
+        "english": "Paris Fragments",
+        "ancient_greek": "Ἀποσπάσματα Παρισινά"
+      },
+      "url_slug": "aristoxenus-of-tarentum-paris-fragments-hhg-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristoxenus-of-tarentum/paris-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum-paris-fragments-hhg-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum-paris-fragments-hhg-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum-paris-fragments-hhg-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum-paris-fragments-hhg-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/paris-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-bf",
+      "title": {
+        "english": "Use of Emperor Justinian",
+        "ancient_greek": "Χρῆσις Ἰουστινιανοῦ βασιλέως"
+      },
+      "url_slug": "alchemist-i-justinian-rrg-bf",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/justinian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-justinian-rrg-bf.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-justinian-rrg-bf.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-justinian-rrg-bf.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-justinian-rrg-bf.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/justinian.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/thessalus-of-cos/virtues-herbs-ab",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ab-ece-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ab-ece-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ab-ece-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ab-ece-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-ab.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

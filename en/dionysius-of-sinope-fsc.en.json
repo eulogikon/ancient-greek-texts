@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "fsc",
+  "auth_slug": "dionysius-of-sinope",
+  "name": {
+    "english": "Dionysius of Sinope the Comic Poet",
+    "ancient_greek": "Διονύσιος ὁ Σινωπεύς"
+  },
+  "seo_h1": "Dionysius of Sinope the Comic Poet on Cooking and Strategy",
+  "seo": {
+    "browser_title": "Dionysius of Sinope Comic Poet on Eulogikon Greek Archive",
+    "meta_title": "Classical Dionysius of Sinope Ancient Greek Comic Fragments",
+    "meta_description": "Dionysius of Sinope, 5th century BCE comic poet of Old Comedy. His surviving fragments are preserved. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Dionysius of Sinope was a comic poet active in the 5th century BCE during the era of Old Comedy in Athens. He was a citizen of Sinope, a Greek colony on the Black Sea coast. Beyond this origin and his profession, no details of his life are known.</p>\n<p class=\"research-text\">He is credited with writing at least one comedy, titled Lemnomeda. A single, brief fragment from this play survives. A later Byzantine encyclopedia also attributes a second comedy, titled Sappho, to him, but both works are otherwise lost.</p>\n<p class=\"research-text\">Dionysius is considered a minor figure, but his inclusion in ancient records is significant for modern scholars. It helps illustrate the geographical reach and the broad number of participants in Athenian Old Comedy. The title Lemnomeda suggests his work involved mythological parody, a common theme of the genre. The attribution of a play about the poet Sappho also places him among other comic poets who used this subject. Because his work survives only in fragments, a full assessment of his style or contribution is not possible.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "fsc-aa",
+      "title": {
+        "english": "Fragments on Cooking and Strategy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μαγειρικῆς καὶ Στρατηγικῆς"
+      },
+      "url_slug": "dionysius-of-sinope-cooking-strategy-aa-fsc-aa",
+      "passages": 71,
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-sinope/cooking-strategy-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-sinope-cooking-strategy-aa-fsc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-sinope-cooking-strategy-aa-fsc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-sinope-cooking-strategy-aa-fsc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-sinope-cooking-strategy-aa-fsc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-sinope/cooking-strategy-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "fsc-ab",
+      "title": {
+        "english": "Fragments on Cooking and Strategy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μαγειρικῆς καὶ Στρατηγικῆς"
+      },
+      "url_slug": "dionysius-of-sinope-cooking-strategy-ab-fsc-ab",
+      "passages": 70,
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-sinope/cooking-strategy-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-sinope-cooking-strategy-ab-fsc-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-sinope-cooking-strategy-ab-fsc-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-sinope-cooking-strategy-ab-fsc-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-sinope-cooking-strategy-ab-fsc-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-sinope/cooking-strategy-ab.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/dionysius-of-sinope",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-of-sinope-fsc.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-of-sinope-fsc.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-of-sinope-fsc.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-of-sinope-fsc.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ale",
+  "auth_slug": "phoenix-of-colophon",
+  "name": {
+    "english": "Phoenix of Colophon",
+    "ancient_greek": "Φοῖνιξ ὁ Κολοφώνιος"
+  },
+  "seo_h1": "Phoenix of Colophon on Ninus the Assyrian",
+  "seo": {
+    "browser_title": "Phoenix of Colophon on Eulogikon Greek Archive Library",
+    "meta_title": "Classical Phoenix of Colophon Ancient Greek Iambic Poetry",
+    "meta_description": "Phoenix of Colophon, an archaic Greek iambic poet of the 7th-6th century BCE. Surviving poetic fragments. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (ia, frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Phoenix of Colophon was an archaic Greek iambic poet from the Ionian city of Colophon in Asia Minor, active in the 7th–6th century BCE. No biographical details survive beyond his identification as an iambographer. He was a contemporary of early figures like Archilochus, and his city was a significant cultural center in Ionia.</p>\n<p class=\"research-text\">Only a single two-line fragment of his iambic poetry survives, preserved by the later author Athenaeus in his Deipnosophistae. The work from which it came is otherwise lost.</p>\n<p class=\"research-text\">Phoenix is a minor but attested practitioner of early Greek iambic poetry, a genre characterized by satire and invective. His sole fragment places him within the Ionic literary tradition of western Asia Minor. His near-total obscurity exemplifies the fragmentary transmission of much archaic Greek poetry.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ale-aa",
+      "title": {
+        "english": "Fragments on Ninus the Assyrian",
+        "ancient_greek": "Ἀποσπάσματα περὶ Νίνου τοῦ Ἀσσυρίου"
+      },
+      "url_slug": "phoenix-of-colophon-ninus-fragments-ale-aa",
+      "passages": 54,
+      "links": {
+        "html": "https://eulogikon.org/grc/phoenix-of-colophon/ninus-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenix-of-colophon-ninus-fragments-ale-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenix-of-colophon-ninus-fragments-ale-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenix-of-colophon-ninus-fragments-ale-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenix-of-colophon-ninus-fragments-ale-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenix-of-colophon/ninus-fragments.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/phoenix-of-colophon",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/phoenix-of-colophon-ale.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/phoenix-of-colophon-ale.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/phoenix-of-colophon-ale.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/phoenix-of-colophon-ale.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

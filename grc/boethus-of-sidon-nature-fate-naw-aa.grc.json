@@ -1,0 +1,274 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "naw-aa",
+  "eul_aid": "naw",
+  "author_slug": "boethus-of-sidon",
+  "work_slug": "nature-fate",
+  "url_slug": "boethus-of-sidon-nature-fate-naw-aa",
+  "author": {
+    "english": "Boethus of Sidon",
+    "ancient_greek": "Βοηθὸς ὁ Σιδώνιος"
+  },
+  "title": {
+    "english": "Fragments on Nature and Fate",
+    "ancient_greek": "Ἀποσπάσματα περὶ Φύσεως καὶ Εἱμαρμένης"
+  },
+  "seo": {
+    "browser_title": "Fragments of Boethus of Sidon on Eulogikon Archive",
+    "meta_title": "Fragments on Nature and Fate by Boethus of Sidon in Greek",
+    "meta_description": "Boethus of Sidon explores Stoic physics and determinism through philosophical inquiry into cosmic order and natural Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ φιλοσοφική",
+      "english": "Philosophical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Peripatetic",
+      "href": "/affiliations/peripatetic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Nature and Fate</strong> constitutes a modern scholarly compilation of eleven passages attributed to the Stoic philosopher Boethus of Sidon, who was active in the first century BCE. As the original treatise is lost, the collection consists entirely of quotations preserved by later authors, most notably the Aristotelian commentator Alexander of Aphrodisias from around 200 CE. Alexander cited these passages in his critiques of Stoic determinism, meaning the fragments are transmitted through a polemical and critical lens, obscuring the original structure and full scope of Boethus&#x27;s work. The collected excerpts address fundamental Stoic doctrines, particularly concerning fate, defined as an unbroken chain of causes, and the role of divine providence in the cosmos. A significant and distinctive position held by Boethus, which set him apart from mainstream Stoic thought, was his argument for the imperishability of the cosmos, rejecting the standard Stoic doctrine of its periodic destruction and renewal through cosmic conflagration. The fragments thus provide crucial evidence for intellectual debate and doctrinal refinement within the Stoic school during the Hellenistic period. They are studied primarily to understand the diversity of philosophical positions on fate, cosmology, and divine agency in antiquity.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Diocles Magnes apud Diog. Laërt. VII 54. ὁ μὲν γὰρ Βόηθος κριτήρια πλείονα ἀπολείπει, νοῦν καὶ αἴσθησιν καὶ ὄρεξιν καὶ ἐπιστήμην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Aëtius I 7,25 (DG p. 303,15). Βόηθος τὸν αἰθέρα θεὸν ἀπεφήνατο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Diog. Laërt. VII 148. Βόηθος δὲ ἐν τῆ περὶ φύσεως οὐσίαν θεοῦ τὴν τῶν ἀπλανῶν σφαῖραν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Cicero de divin. I 13. Quis igitur elicere causas praesensionum potest? etsi video Boëthum Stoicum esse conatum, qui hactenus aliquid egit ut earum rationem rerum explicaret, quae in mari caelove fierent. II 47. prognosticorum causas persecuti sunt et Boëthus Stoicu s, qui est a te nominatus, et noster etiam Posidonius.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "Diog. Laërt. VII 149. καθ’ εἱμαρμένην δέ φασι τὰ πάντα γίνεσθαι Χρύσιππος—καὶ Ποσειδώνιος—καὶ Ζήνων, Βόηθος δὲ ἐν αʹ περὶ εἱμαρμένης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "Diog. Laërt. VII 143. Βόηθος δέ φησιν οὐκ εἶναι ζῷον τὸν κόσμον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "Philo de incorrupt. mundi 15 p. 248 Bern. p. 24,20 Cum. Βόηθος γοῦν ὁ Σιδώνιος καὶ Παναίτιος, ἄνδρες ἐν τοῖς Στωϊκοῖς δόγμασιν ἰσχυκότες, ἅτε θεόληπτοι, τὰς ἐκπυρώσεις καὶ παλιγγενεσίας καταλιπόντες πρὸς ὁσιώτερον δόγμα τὸ τῆς ἀφθαρσίας τοῦ κόσμου πάντως ηὐτομόλησαν. 16. ἀποδείξεσι δ’ οἱ περὶ τὸν Βόηθον κέχρηνται πιθανωτάταις, ἃς αὐτίκα λέξομεν· εἰ, φασί, γενητὸς καὶ φθαρτὸς ὁ κόσμος, ἐκ τοῦ μὴ ὄντος τὶ γενήσεται, ὅπερ καὶ τοῖς Στωϊκοῖς ἀτοπώτατον εἶναι δοκεῖ. διὰ τί; ὅτι οὐδεμίαν φθοροποιὸν αἰτίαν εὑρεῖν ἔστιν, οὔτ’ ἐντὸς οὔτ’ ἐκτός, ἣ τὸν κόσμον ἀνελεῖ· ἐκτὸς μὲν γὰρ οὐδέν ἐστιν ὅτι μὴ τάχα που κενόν, τῶν στοιχείων ἀποκριθέντων εἰς αὐτὸν ὁλοκλήρων, εἴσω δὲ οὐδὲν νόσημα τοιοῦτον ὃ γένοιτ’ ἂν αἴτιον θεῷ τοσούτῳ διαλύσεως· εἰ δ’ ἀναιτίως φθείρεται, δῆλον ὅτι ἐκ τοῦ μὴ ὄντος ἔσται ἡ γένεσις τῆς φθορᾶς ὅπερ οὐδ’ ἡ διάνοια παραδέξεται. Καὶ μήν φασιν, ὅτι γενικοὶ τρόποι φθορᾶς εἰσι τρεῖς· ὅ τε κατὰ διαίρεσιν καὶ ὁ κατὰ ἀναίρεσιν τῆς ἐπεχούσης ποιότητος καὶ ὁ κατὰ σύγχυσιν. τὰ μὲν οὖν ἐκ διεστηκότων, αἰπόλια, βουκόλια, χοροί, στρατεύματα, ἢ πάλιν ἐκ συναπτομένων σώματα παγέντα διαστάσει καὶ διαιρέσει λύονται. κατὰ δὲ ἀναίρεσιν τῆς ἐπεχούσης ποιότητος ὁ μετασχηματιζόμενος κηρὸς ἢ καταλεαινόμενος ἵνα μηδὲ ἑτεροειδῆ τινα παράσχῃ τύπον μορφῆς· κατὰ δὲ σύγχυσιν, ὡς ἡ παρὰ ἰατροῖς τετραφάρμακος· αἱ γὰρ δυνάμεις τῶν συνενεχθέντων ἠφανίσθησαν εἰς ἐξαιρέτου μιᾶς γένεσιν ἀποτελεσθείσης. ποίῳ δὴ τούτων ἄξιον τὸν κόσμον φθείρεσθαι φάναι; τῷ κατὰ διαίρεσιν; ἀλλ’ οὔτε ἐκ διεστηκότων ἐστίν, ὡς τὰ μέρη σκεδασθῆναι, οὔτ’ ἐκ συναπτομένων, ὡς διαλυθῆναι, οὔτε τὸν αὐτὸν τρόπον τοῖς ἡμετέροις ἥνωται σώμασι· τὰ μὲν γὰρ ἐπικήρως τε ἐξ ἑαυτῶν ἔχει καὶ δυναστεύεται πρὸς μυρίων ὑφ’ ὧν βλάπτεται, τοῦ δ’ ἀήττητος ἡ ῥώμη πολλῇ τινι περιουσίᾳ πάντων κατακρατοῦσα. ἀλλ’ ἀναιρέσει παντελεῖ τῆς ποιότητος; ἀλλ’ ἀμήχανον τοῦτό γε· μένει γὰρ κατὰ τοὺς τἀναντία αἱρουμένους ἡ τῆς διακοσμήσεως ποιότης ἐπ’ ἐλάττονος οὐσίας τῆς τοῦ Διὸς σταλεῖσα κατὰ τὴν ἐκπύρωσιν. ἀλλὰ τῷ κατὰ σύγχυσιν; ἄπαγε, δεήσει γὰρ πάλιν εἰς τὸ μὴ ὂν γίνεσθαι τὴν φθορὰν παραδέχεσθαι. τοῦ χάριν; ὅτι εἰ μὲν ἕκαστον ἐν μέρει τῶν στοιχείων ἐφθείρετο, μεταβολὴν ἐδύνατο τὴν εἰς ἕτερον δέχεσθαι, πάντων δὲ συλλήβδην ἀθρόων κατὰ σύγχυσιν ἀναιρουμένων, ἀνάγκη ὑπονοεῖν τὸ ἀδύνατον. Ἔτι πρὸς τούτοις, ἐὰν ἐκπυρωθῇ, φασί, τὰ πάντα, τί κατ’ ἐκεῖνο ὁ θεὸς πράξει τὸν χρόνον; ἢ τὸ παράπαν οὐδέν; καὶ μήποτ’ εἰκότως· νυνὶ μὲν γὰρ ἕκαστα ἐφορᾷ καὶ πάντων οἷα γνήσιος πατὴρ ἐπιτροπεύει καί, εἰ δεῖ τἀληθὲς εἰπεῖν, ἡνιόχου καὶ κυβερνήτου τρόπον ἡνιοχεῖ καὶ πηδαλιουχεῖ τὰ σύμπαντα, ἡλίῳ τε καὶ σελήνῃ καὶ τοῖς ἄλλοις πλάνησι καὶ ἀπλανέσιν, ἔτι δ’ ἀέρι καὶ τοῖς 〈ἄλλοισ〉 μέρεσι τοῦ κόσμου παριστάμενος καὶ συνδρῶν ὅσα πρὸς τὴν τοῦ ὅλου διαμονὴν καὶ τὴν κατ’ ὀρθὸν λόγον ἀνυπαίτιον διοίκησιν. πάντων δ’ ἀναιρεθέντων, ὑπ’ ἀργίας καὶ ἀπραξίας δεινῆς ἀβιώτῳ βίῳ χρήσεται· οὗ τί γένοιτ’ ἂν ἀτοπώτερον; ὀκνῶ λέγειν, ὃ μηδὲ θέμις εἰπεῖν, ὅτι ἀκολουθήσει θεῷ θάνατος, εἴ γε καὶ ἠρεμία· τὸ γὰρ ἀεικίνητον ἐὰν ἀνέλῃς ψυχῆς, καὶ αὐτὴν πάντως συνανελεῖς. ψυχὴ δὲ τοῦ κόσμου κατὰ τοὺς ἀντιδοξοῦντας ὁ θεός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "Aëtius II 31,5 (DG p. 363,12). Βόηθος δὲ πρὸς τὴν φαντασίαν δέχεται τὸ ἀναπεπταμένον (scil. τοῦ οὐρανοῦ), οὐ κατὰ τὴν ὑπόστασιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "Aëtius III 2,7 (DG p. 367,5). Βόηθος ἀέρος ἀνημμένου φαντασίαν (scil. τοὺς κομήτας).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "Macrobius in Somn. Scip. I 14,19. Plato dixit animam essentiam se moventem— —Critolaus Peripateticus constare eam de quinta essentia— — Boëthos ex aëre et igne etc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "Simplicius in Aristot. de anima p. 247,24 Hayd. ἵνα μὴ ὡς ὁ Βοηθὸς οἰηθῶμεν τὴν ψυχὴν ὥσπερ τὴν ἐμψυχίαν ἀθάνατον μὲν εἶναι ὡς αὐτὴν μὴ ὑπομένουσαν τὸν θάνατον ἐπιόντα, ἐξισταμένην δὲ ἐπιόντος ἐκείνου τῷ ζῶντι ἀπόλλυσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "qou-aa",
+      "title": {
+        "english": "Against the Mathematicians",
+        "ancient_greek": "Κατὰ Μαθηματικῶν"
+      },
+      "url_slug": "sextus-empiricus-against-mathematicians-qou-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sextus-empiricus/against-mathematicians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-empiricus-against-mathematicians-qou-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-empiricus-against-mathematicians-qou-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-empiricus-against-mathematicians-qou-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-empiricus-against-mathematicians-qou-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-empiricus/against-mathematicians.epub"
+      }
+    },
+    {
+      "eul_wid": "pak-aa",
+      "title": {
+        "english": "Fragments Against Oracles",
+        "ancient_greek": "Ἀποσπάσματα περὶ Χρηστηρίων"
+      },
+      "url_slug": "oenomaus-of-gadara-against-oracles-pak-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/oenomaus-of-gadara/against-oracles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenomaus-of-gadara-against-oracles-pak-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenomaus-of-gadara-against-oracles-pak-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenomaus-of-gadara-against-oracles-pak-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenomaus-of-gadara-against-oracles-pak-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenomaus-of-gadara/against-oracles.epub"
+      }
+    },
+    {
+      "eul_wid": "ddo-aa",
+      "title": {
+        "english": "Fragments on Pythagorean Wisdom",
+        "ancient_greek": "Ἀποσπάσματα περὶ Πυθαγορικῆς Σοφίας"
+      },
+      "url_slug": "arimnestus-the-philosopher-pythagorean-wisdom-ddo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/arimnestus-the-philosopher/pythagorean-wisdom",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arimnestus-the-philosopher-pythagorean-wisdom-ddo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arimnestus-the-philosopher-pythagorean-wisdom-ddo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arimnestus-the-philosopher-pythagorean-wisdom-ddo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arimnestus-the-philosopher-pythagorean-wisdom-ddo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arimnestus-the-philosopher/pythagorean-wisdom.epub"
+      }
+    },
+    {
+      "eul_wid": "uzu-ab",
+      "title": {
+        "english": "On Aristotle's Categories, Commentary",
+        "ancient_greek": "Σχόλια εἰς τὰς κατηγορίας Ἀριστοτέλους"
+      },
+      "url_slug": "simplicius-of-cilicia-categories-commentary-uzu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/simplicius-of-cilicia/categories-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-categories-commentary-uzu-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-categories-commentary-uzu-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-categories-commentary-uzu-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-categories-commentary-uzu-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/categories-commentary.epub"
+      }
+    },
+    {
+      "eul_wid": "reo-ah",
+      "title": {
+        "english": "Problems, Books 1–2",
+        "ancient_greek": "Προβλήματα"
+      },
+      "url_slug": "alexander-of-aphrodisias-problems-1-2-reo-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-aphrodisias/problems-1-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-problems-1-2-reo-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-problems-1-2-reo-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-problems-1-2-reo-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-problems-1-2-reo-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/problems-1-2.epub"
+      }
+    },
+    {
+      "eul_wid": "uqy-ae",
+      "title": {
+        "english": "Selections-Chaldaean Philosophy",
+        "ancient_greek": "Ἐκλογαὶ περὶ Χαλδαϊκῆς φιλοσοφίας"
+      },
+      "url_slug": "proclus-the-successor-chaldaean-philosophy-uqy-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/proclus-the-successor/chaldaean-philosophy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-chaldaean-philosophy-uqy-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-chaldaean-philosophy-uqy-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-chaldaean-philosophy-uqy-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-chaldaean-philosophy-uqy-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/chaldaean-philosophy.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-am",
+      "title": {
+        "english": "Summary of the Soul's Creation in the Timaeus",
+        "ancient_greek": "Ἐπιτομὴ τοῦ περὶ τῆς ἐν τῷ Τιμαίῳ ψυχογονίας"
+      },
+      "url_slug": "plutarch-of-chaeronea-soul-creation-timaeus-okg-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/soul-creation-timaeus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-creation-timaeus-okg-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-creation-timaeus-okg-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-creation-timaeus-okg-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-creation-timaeus-okg-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/soul-creation-timaeus.epub"
+      }
+    },
+    {
+      "eul_wid": "ceo-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "lyco-of-tarentum-testimonies-ceo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lyco-of-tarentum/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyco-of-tarentum-testimonies-ceo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyco-of-tarentum-testimonies-ceo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyco-of-tarentum-testimonies-ceo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyco-of-tarentum-testimonies-ceo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyco-of-tarentum/testimonies.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/boethus-of-sidon/nature-fate",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-sidon-nature-fate-naw-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-sidon-nature-fate-naw-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-sidon-nature-fate-naw-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-sidon-nature-fate-naw-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-sidon/nature-fate.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

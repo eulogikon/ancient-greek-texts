@@ -1,0 +1,289 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "prs-aa",
+  "eul_aid": "prs",
+  "author_slug": "phoebammon-the-sophist",
+  "work_slug": "figures",
+  "url_slug": "phoebammon-the-sophist-figures-prs-aa",
+  "author": {
+    "english": "Phoebammon the Sophist",
+    "ancient_greek": "Φοίβαμμον ὁ Σοφιστής"
+  },
+  "title": {
+    "english": "On Figures",
+    "ancient_greek": "Περὶ Σχημάτων"
+  },
+  "seo": {
+    "browser_title": "Ancient On Figures by Phoebammon the Sophist on Eulogikon",
+    "meta_title": "Ancient On Figures by Phoebammon the Sophist in Greek",
+    "meta_description": "Phoebammon the Sophist explores rhetorical figures and their essential role in effective oratory. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On Figures</strong> is a rhetorical handbook composed in Attic Greek by Phoebammon the Sophist, a teacher of eloquence active in the fifth or sixth century CE. This concise technical treatise provides a systematic classification and explanation of various rhetorical figures, the stylistic devices employed for ornamentation and persuasion in oratory. The work is structured around fourteen distinct passages. It opens by establishing four fundamental questions to be addressed concerning figures: their utility, their origin, whether they exist by nature or by artistic convention, and whether they constitute a simple or a complex subject. Phoebammon argues that figures are useful for preserving the style of ancient authors and for avoiding the monotony and satiety produced by an unvaried discourse. He asserts that change is pleasurable to people, while satiety breeds distaste, and that novelty and strangeness are more pleasing than uniformity. Furthermore, he contends that speeches appear more persuasive through the use of figures.</p>\n<p class=\"research-text\">The term &quot;figure&quot; itself, Phoebammon explains, derives from the concept of transformation, akin to the changing postures of dancers or clay being molded and reshaped into the image of a man, woman, or similar form. He posits that figures are not a product of nature but are acquired through artistic skill, noting that different authors exhibit distinct characteristics in their use of figures—some rougher, some more polished, some moderate—all achieved through variety. The treatise is a product of late antique education, where mastery of classical rhetoric remained essential for public life. Scholars interpret it as a practical pedagogical manual for advanced students in rhetorical schools, designed to refine their prose style within the established norms of Attic diction. The complete text survives, transmitted through medieval manuscripts containing collections of rhetorical works. It stands as a concise example of the specialized handbooks that systematized and perpetuated classical rhetorical theory into the Byzantine era.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t 1",
+      "text": "ΦΟΙΒΑΜΜΩΝΟΣ ΣΟΦΙΣΤΟΥ ΠΕΡΙ ΣΧΗΜΑΤΩΝ ΡΗΤΟΡΙΚΩΝ. Τέσσαρα ζητητέον περὶ αὐτῶν, πρῶτον μὲν εἰς τί χρήσιμά εἰσιν, δεύτερον δὲ πόθεν εἴρηνται, τρίτον εἰ φύσει εἰσὶν ἢ τέχνῃ καὶ θέσει, τέταρτον εἰ ἁπλοῦν εἰσιν πρᾶγμα καὶ περὶ ἓν ἢ διάφορον, καὶ περὶ διαφοράς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 1",
+      "text": "χρήσιμά ἐστι πρὸς τὸ μὴ διαφθεῖραι τὰ τῶν ἀρχαίων, καὶ ἵνα μὴ ἁμαρτάνωμεν μονόσχημον καὶ προσκορῆ τὸν λόγον προφέροντες, τὸ γὰρ ἀεὶ ὁμοίως ἔχον ἐμποιεῖ κόρον, ἐπειδὴ καὶ χρῆμα ἡδὺ καθέστηκε τοῖς ἀνθρώποις ἡ μεταβολή, ὁ δὲ κόρος ἀηδίαν ἐργάζεται· τὸ δὲ ἐξαλλάττον καὶ ξενίζον ἡδύτερόν ἐστι τοῦ μονοσχήμου καὶ ὡσαύτως ἔχοντος. καὶ ὅτι πιθανώτεροι διὰ τῶν σχημάτων φαίνονται οἱ λόγοι. εἴρηται δὲ σχῆμα διὰ τὸ μετασχηματίζεσθαι, ὡς ἐπὶ τῶν ὀρχουμένων ἀνθρώπων ἢ ὡς ἐπὶ τοῦ πηλοῦ τοῦ πλαττομένου καὶ μετασχηματιζομένου εἰς εἰκόνα ἀνδρὸς ἢ γυναικὸς ἤ τινος τοιούτου. καὶ ὅτι οὐ φύσει ἐστὶν οὕτως, ἀλλὰ τέχνῃ προσγίνεται. ὁρῶμεν γὰρ ἐν ἄλλοις τῶν σχημάτων τοὺς χαρακτῆρας, τὸν μὲν τραχύτερον, τὸν δὲ γλαφυρώτερον, τὸν δὲ μέσον, πάντα δὲ ταῦτα τῇ ποικιλίᾳ τῶν σχημάτων γίνεται. ἔστι δὲ τὸ σχῆμα οὐ μονοειδές· πῆ μὲν γὰρ γίνεται περὶ τὴν διάνοιαν, πῆ δὲ περὶ τὴν λέξιν. δεῖ οὖν λοιπὸν παραθέσθαι δόξας ἀρχαίων. ἡ γὰρ πορφύρα παρὰ τὴν πορφύραν, ὡς ἡ παροιμία λέγει, διακριτέα. ὁρίζεται δὲ Ζώϊλος οὕτως, σχῆμά ἐστιν ἕτερον μὲν προσποιεῖσθαι, ἕτερον δὲ λέγειν. τρία ἁμαρτάνει ὅτι οὐ περιλαμβάνει περὶ πάντων τῶν σχημάτων. τὰ γὰρ πλεῖστα ἐκ τοῦ εὐθέος καὶ ἁπλοῦ σχηματίζεται, ὡς ὅτε ἀποφαινόμεθά τι ἢ διαποροῦμέν τι καθ’ ἑαυτοὺς ἢ ἀποστροφῇ χρώμεθα ἄνευ προσποιήσεως. Καικίλιος δὲ ὁ Καλακτίτης ὡρίσατο οὕτω, σχῆμά ἐστι τροπὴ εἰς τὸ μὴ κατὰ φύσιν τὸ τῆς διανοίας καὶ λέξεως. τὸ οὖν μὴ κατὰ φύσιν οὐ καλόν, τὸ δὲ [μὴ καλὸν] τροπή ἐστιν ἐπὶ τὸ χεῖρον. Ἀθηναῖος δὲ ὁ Ναυκρατίτης καὶ Ἀπολλώνιος ὁ ἐπικληθεὶς Μόλων ὡρίσαντο οὕτω, σχῆμά ἐστι μεταβολὴ εἰς ἡδονὴν ἐξάγουσα τὴν ἀκοήν. οὐ πάντοτε δὲ μεταβάλλεται· καὶ γὰρ καὶ ἠθικεύεται καὶ ἐμφαντικώτερον ποιεῖ τὸν λόγον. ὁ δὲ τέλειος αὐτοῦ ὅρος οὕτω, σχῆμά ἐστιν ἐξάλλαξις κατὰ διάνοιαν ἢ λέξιν ἐπὶ τὸ κρεῖττον ἄνευ τρόπου γινομένη. ἐπὶ τὸ κρεῖττον εἴρηται διὰ τὸν σολοικισμόν· καὶ γὰρ ὁ σολοικισμὸς τροπή ἐστι καὶ ἐξάλλαξις, ἀλλ’ ἐπὶ τὸ χεῖρον. ἄνευ δὲ τρόπου εἴρηται, ἐπειδὴ καὶ ὁ τρόπος καὶ ἡ τροπικὴ λέξις ἐξάλλαξίς ἐστιν ἐκ τῆς κυρίως λεγομένης, ἄνευ μέντοι σχήματος, ὡς παρὰ τῷ Δημοσθένει τὸ ὑποσκελίζειν ἀντὶ τοῦ ἀνατρέπειν, καὶ τὸ σπερμολόγος ἀντὶ τοῦ εὐτελής, καὶ εὐπροσώπους λόγους ἀντὶ τοῦ πιθανούς, καὶ παρὰ τῷ Ἰσοκράτει τοῦ βίου τὴν ὁδό ν, καὶ ἕτερα τοιαῦτα. Ὅτι τὸ σύστημα τῶν κατὰ διάνοιαν σχημάτων ἀκίνητόν ἐστιν ὑπὸ φράσεως· ὡς [δ’] ἂν γάρ τις σχηματίσῃ τὴν φράσιν, ἡ αὐτὴ φυλάσσεται διάνοια, οἷον περὶ ἀποδημοῦντος ἐρωτῶ, μὴ ἐλθεῖν αὐτὸν ὑποπτεύων διαφόρως ἐρωτῶ, ὁ δεῖνα ἄρα ἔρχεται; πεισθήσεται; θαρσήσει ἐλθεῖν; σκυλῆναι ἀνέξεται; διὰ πάντων δὲ τούτων ἡ διάνοια ἤγουν ὁ σκοπὸς τῆς ἐρωτήσεως σώζεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 1 (50)",
+      "text": "ταῦτα δὲ τὰ περὶ τὴν διάνοιαν σχήματα εἰς δύο διαιρεῖται· τὰ μὲν γὰρ τοῦ προσώπου εἰσί, τὰ δὲ τοῦ λόγου. ὀκτωκαίδεκα δὲ ὄντων τρία εἰσὶν τοῦ προσώπου μόνου, ἀποστροφή, ἐρώτησις, πεῦσις. ἀποστροφὴ μέν ἐστιν, ἡνίκα πρὸς τοὺς κριτὰς ἢ τὸν ἀντιλέγοντα τὸν λόγον τρέψομεν. ἐρώτησις δὲ καὶ πεῦσις ταύτῃ διαφέρουσιν, τῷ τὴν μὲν ἐρώτησιν δι’ ὀλίγων ἐπιδέχεσθαι τὴν ἀπόκρισιν, οἷον οὐχ ὁ τρόφιμός σου πρὸς θεῶν Ὀνήσιμε; πρὸς ἃ σύντομος ἡ ἀπόκρισις τὸ πάνυ μὲν οὖν· τὴν δὲ πεῦσιν διὰ πλειόνων ἐπιδέχεσθαι τὴν ἀπόκρισιν, οἷον τίς πόθεν εἶς ἀνδρῶν; πρὸς ἣν ὁ Γλαῦκος ἄνωθεν ἠναγκάσθη γενεαλογῆσαι. ἰστέον ὅτι ὀκτωκαίδεκα ὄντων τῶν τῆς διανοίας σχημάτων κϛʹ ἐστὶ τὰ τῆς λέξεως. δέον εἰδέναι ὅτι πάντα τὰ σχήματα κατὰ δʹ γίνονται τρόπους ἤτοι αἰτίας, κατὰ ἔνδειαν, κατὰ πλεονασμόν, κατὰ μετάθεσιν, κατὰ ἐναλλαγήν. ἀρχώμεθα τοίνυν τῶν ἀπὸ τῆς λέξεως σχημάτων. τῆς τοίνυν ἐνδείας εἴδη εἰσὶν τρία, ἀσύνδετον, ἀπὸ κοινοῦ, ἔλλειψις· τοῦ δὲ πλεονασμοῦ εἴδη ιαʹ, ταυτολογία, δίπλωσις, ἐπαναφορά, ἐπανάδοσις, ἐπανάληψις, περίφρασις, ἐπίφρασις, παρονομασία, ἐπεξήγησις, ἐπιμονή, ἐπίτασις· τῆς δὲ μεταθέσεως εἴδη εἰσὶ δʹ, ὑπερβατόν, ἀναστροφή, πρόληψις αἰτίας, προεπίζευξις· τῆς δὲ ἐναλλαγῆς εἴδη εἰσὶν ὀκτώ, ἑτερογενές, ἑτεράριθμον, ἑτερόπτωτον, ἑτεροσχημάτιστον, ἑτερόχρονον, ἑτεροπρόσωπον, ἀποστροφὴ προσώπου, ἀντιστροφή. τί δὲ τούτων ἕκαστον, ἐφεξῆς μετὰ παραδειγμάτων λεκτέον. ΠΕΡΙ ΕΝΔΕΙΑΣ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 2 (t)",
+      "text": "Ἀσύνδετόν ἐστι φράσις, ἐν ᾗ παραλείπονται οἱ συνδέοντες σύνδεσμοι, ὡς εἴ τις εἴποι περί τινος, εὗρον αὐτόν, ἐλάλησα, ἔπεισα. Ἀπὸ κοινοῦ δέ ἐστι λέξις ἅπαξ μὲν λεγομένη, πολλάκις δὲ νοουμένη καὶ συντασσομένη, ὡς ἵνα τις εἴπῃ, ἀπελθὼν ᾔτησα τοὺς ἄνδρας, μάλιστα δὲ τόνδε καὶ τόνδε. ἀπὸ κοινοῦ γὰρ συντάσσεται ἐνταῦθα τὸ ᾔτησα. Ἔλλειψις δέ ἐστι παράλειψις λέξεως νοουμένης ἐκ τῆς συμφράσεως, ὡς ἵνα εἴπωμεν, αὐτὸς κύριος τοῦ πράγματος, αὐτὸς ὁ πείθων τοὺς ἄλλους, αὐτὸς ὁ κελεύων· παραλέλειπται γὰρ ἐν τούτοις τὸ ἐστ ί . ΠΕΡΙ ΤΟΥ ΠΛΕΟΝΑΣΜΟΥ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 3 (t)",
+      "text": "Ταυτολογία λέξεων ἐστὶ ταὐτὸ σημαινουσῶν παράλληλος θέσις, ὡς εἰ λέγοιμεν, ὀξεῖς εἰσι καὶ ταχεῖς, ἢ μελληταὶ καὶ βραδεῖς. Ἀναδίπλωσις δέ ἐστι λέξεως ἢ λέξεων δὶς ἢ πολλάκις περὶ τοῦ αὐτοῦ πράγματος προφορά· γίνεται δὲ καὶ διχῆ ἢ παράλληλος, ὡς ἵνα εἴπωμεν, ὁ δεῖνα ὁ δεῖνα οὐχ ὑπήκουσεν, ὃ ποιεῖ τὴν ἐπίζευξιν ἢ μεθ’ ἑτέρων ἢ μεταξὺ τεθέντων τινῶν, ὡς ἵνα εἴπωμεν, ὁ δεῖνα ὁ ἐκεῖ τρέχων, καὶ πάλιν ἐπενέγκωμεν, ὁ δεῖνα. Ἐπαναφορὰ δέ ἐστιν, ἣ καὶ ἀναφορά, πλειόνων στίχων ἢ κώλων ἀπὸ τῶν αὐτῶν τοῦ λόγου μερῶν ἀρχή, ὡς ἵνα εἴπωμεν, ἐγὼ διῴκησα τὸν οἶκον αὐτοῦ, ἐγὼ ἔστησα τὴν περιουσίαν αὐτοῦ. Ἐπανάδοσις δέ ἐστι δύο προτεθέντων ἀδιαστόλως ὀνομάτων ἢ καὶ προσώπων διάκρισις εἰς ἄλλο καὶ ἄλλο, ὡς ἵνα τις εἴπῃ, ὁ δεῖνα καὶ ὁ δεῖνα εὑρέθησαν, ὁ δεῖνα μὲν τόδε ποιῶν, ὁ δεῖνα δὲ τόδε. Ἐπανάληψις δέ ἐστιν ἀνάμνησις προειρημένου τινὸς μεταξυλογίας ἐμβεβλημένης, ὡς ἵνα εἴπω, ὁ δεῖνα στρατηγὸς ηὔξησε τὰ πράγματα, εἶτα ἐν τῷ μεταξὺ εἰπών, πῶς ηὔξησεν, ἐπαναμνήσω πάλιν· αὐξήσαντος οὖν τούτου τὰ πράγματα τόδε γέγονε. Περίφρασίς ἐστιν ἑρμηνεία διὰ πλειόνων τοῦ διὰ μιᾶς λέξεως σημαινομένου, ὡς ἵνα εἴπω ἡ μεγαλοπρέπεια τῶν ὑπάρχων ἀντὶ τοῦ οἱ ὕπαρχοι. Ἐπίφρασις δέ ἐστι λόγος τινὶ ἢ τισὶν ἐξαιρέτως ἐπιφωνούμενος, ὃ διχῆ γίνεται. προτασσομένου γὰρ τοῦ ὀνόματος κατ’ ἐξοχὴν λέγεται, ὡς ἵνα εἴπω, ὁ δεῖνα ὁ σχολαστικὸς ἦλθε καὶ ὅλος ὁ φόρος· ὑποτασσομένου δὲ ἰδίως ἐπίφρασις, οἷον ὅλος ὁ φόρος ἦλθε καὶ ὁ δεῖνα ὁ σχολαστικός. Παρονομασία δέ ἐστι παραποίησις ὀνόματος πρὸς παραπλήσιον ἐγγὺς κείμενον, ὡς εἰ λέγοιμεν, Στρατήγιος στρατηγὸς ᾑρέθη· ἤγουν θέσις τῆς αὐτῆς λέξεως ἐπ’ ἄλλου καὶ ἄλλου σημαινομένου κατ’ ἐναλλαγὴν τοῦ νοῦ, ὃ πλοκῆς ἴδιον, ὡς ἵνα εἴπωμεν, ὁ ἄνθρωπος ἄνθρωπός ἐστι, τὸ μὲν τῇ φύσει διδόντες, τὸ δὲ τῷ τρόπῳ. Ἐπεξήγησις δέ ἐστιν ἀσαφοῦς λέξεως ἢ λόγου σαφηνισμός. λέξεως μὲν ὡς εἰ λέγων τις ἀκινάκης σαφηνίσει λέγων Περσικὸν εἶναι ξίφος τοιόνδε καὶ τοιόνδε· λόγου δὲ ὡς εἰ λέγοιμεν, ὁ οἶκος ὅδε βεβαίως οὐκ οἰκεῖται, καὶ σαφηνίζοντες αὐτὸ εἴποιμεν, οἱ μένοντες ἐκεῖ ταχὺ μετέρχονται. Ἐπιμονὴ δέ ἐστι προφορὰ πλειόνων λέξεων ἐπίσης τὸ αὐτὸ σημαινουσῶν, ἢ καὶ λόγων. λέξεων μὲν ὡς εἰ λέγοιμεν, ὁ θεὸς ἡμᾶς ἐρρύσατο ἀπὸ συμπλοκῆς, ἀπὸ μάχης, ἀπὸ τραυμάτων, ἀπὸ αἱμάτων· λόγου δὲ ὡς ἵνα εἴπω, ὁ τὰ ἐμὰ λαμβάνων, ὁ διαβάλλων με πρὸς τοὺς φίλους, ὁ ἐπιβουλεύων μοι πανταχοῦ τι ποιεῖ, ὡς δῆλον ὅτι μισεῖ με.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 3 (50)",
+      "text": "Ἐπίτασις δέ ἐστιν ἐπιμονῆς μὲν εἶδος, οὐκ ἐπίσης δὲ δηλοῦν τὸ πρᾶγμα, ἀλλ’ ἐξαλλαγὴν ἔχον ἐπὶ τὸ μεῖζον, ὡς ἵνα εἴπω περὶ εὐσωματοῦντος διαλεγόμενος καὶ μεγάλου, ὅτι κίων ἐστὶ τῷ μεγέθει, ὅτι ὄρος ἐστίν. ΠΕΡΙ ΤΩΝ ΤΗΣ ΜΕΤΑΘΕΣΕΩΣ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 4 (t)",
+      "text": "Ὑπερβατὸν δέ ἐστι λέξις ἢ φράσις ἀνὰ μέσον ἔχουσά τι τῶν ἑξῆς νοουμένων. ἐν τρισὶ δὲ τοῦτο θεωρεῖται, ἢ ἐν λέξει, ὃ διχῶς γίγνεται, ἢ ἐν λόγῳ, ἢ ἐν πράγματι· ἐν λέξει μέν, ἡνίκα διαιρεῖται μία λέξις εἰς τὰ μέρη αὐτῆς, καὶ τὸ μὲν τῶν μερῶν τίθεται πρῶτον, εἶτα ἄλλο τι ἐν τῷ μεταξὺ διαλαμβάνεται, καὶ οὕτω τὸ ἕτερον μέρος τῆς λέξεως, ὡς ἵνα θέλων εἰπεῖν, ὅτι κατέφαγε ταῦρον, εἴπω ὅτι κατὰ ταῦρον ἔφαγεν. ἢ ὁλοκλήρου λέξεως ὑπερβιβαζομένης, ὡς ἐπὶ τούτου τοῦ παραδείγματος, ὡς ἵνα λέγῃ τις, ὁ δεῖνα τὸν δεῖνα ἐτύπτησεν ἑταῖρόν μου. ἐν λόγῳ δέ, ὡς ἵνα εἴπωμεν, ἐξεβόησεν καὶ τὸ θέατρον ἤχησεν ἐπαινοῦντες τὸν ἄρχοντα. ἐν πράγματι δέ, οἷον ἡ θρέψασά με καὶ γεννησαμένη. Ἀναστροφή δέ ἐστι λέξεως θέσις ἐν δευτέρᾳ τάξει μηδενὸς ἀντιπίπτοντος, δέον αὐτὴν προηγεῖσθαι, οἷον ὁ δεῖνα ἦλθεν ἐμοῦ μέτα. Πρόληψις δὲ αἰτίας ἐστὶ παρεμβολὴ τῆς προφάσεως ὧν ἐροῦμεν, ἐν μέσῳ τῆς ἀρχῆς τοῦ λόγου, καὶ αὐτῶν, οἷον ἑταῖρε πάντα ἔχεις, σῖτον, οἶνον, ἔλαιον. μὴ κλέψῃς, μὴ καταγνωσθῇς. Προεπίζευξις δὲ διαστολὴ δύο προσώπων ἐν παραβολῇ μέσου τοῦ περὶ αὐτῶν λόγου δυϊκῶς ἢ πληθυντικῶς ὑπὲρ ἀμφοτέρων εἰρημένου, πρὸ τῆς θέσεως τοῦ ἑνὸς αὐτῶν, ὡς ἵνα λέγωμεν, ὁ δεῖνα τόδε ἐποίησαν καὶ ὁ δεῖνα ἢ ὁ δεῖνα [ἢ ὁ δεῖνα] γενναῖοί εἰσι καὶ ὁ δεῖνα ΠΕΡΙ ΤΩΝ ΤΗΣ ΕΝΑΛΛΑΓΗΣ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 5 (t)",
+      "text": "Ἑτερογενὲς δέ ἐστι μετάβασις εἰς γένος ἀπὸ γένους, ἧς ἡ ἀναφορὰ ἢ ἐπὶ τὸ συνώνυμόν ἐστιν, ἢ ἐπὶ τὸ νοούμενον, ὡς ἵνα εἴπω, τὰ παρὰ θάλασσαν φοβερά ἐστιν ἐρημίαι οὖσαι. Ἑτεράριθμον δὲ εἰς ἀριθμὸν ἀπὸ ἀριθμοῦ μετάβασις πρὸς ὁμώνυμον, ἢ πρὸς σημαινόμενον ἀναγομένη, ὡς ἵνα εἴπω, τὰ παιδία παίζει καὶ πίπτουσιν. Ἑτερόπτωτον δέ ἐστιν μετάβασις εἰς πτῶσιν ἀπὸ πτώσεως, ἢ προτιθεμένης μέν, ὀφειλούσης δὲ τῷ λόγῳ συνταχθῆναι, ἢ λέξεως μιᾶς θέσις πρὸς διαφόρους πτώσεις συντασσομένης, οἷον τόνδε τὸν ἐλλόγιμον γινώσκεις, οἷον ἐποίησε τόδε. ἢ θέλων εἰπεῖν ὁ δεῖνα υἱός μού ἐστι, λέγω υἱός μοί ἐστιν, ἢ ὁ δεῖνα ἄρχει τῆς πόλεως. ἄρχει τῇ πόλει. Ἑτεροσχημάτιστον δέ ἐστιν ἐναλλαγὴ ῥήματος εἰς μετοχήν, ἢ καθ’ ἑαυτὸ ἢ μετὰ συνδέσμου, ἢ καὶ ῥήματος ἀπὸ ἐγκλίσεως εἰς ἔγκλισιν, ὡς ἵνα ἀντὶ τοῦ εἰπεῖν, ἐπειδὴ ἔτρεχεν ὅδε, τόδε ἐγένετο, εἴπω, τρέχοντος ὅδε τόδε ἐγένετο. Ἑτερόχρονον δὲ μετάβασις ἀπὸ χρονικοῦ ῥήματος εἰς χρόνον ἄλλον, ὡς ἵνα εἴπω ἀντὶ τοῦ [τῶν] εὑρήσω σκοπὸν [εὑρὼν ἢ] εὗρον. Ἑτεροπρόσωπον δέ ἐστιν ὑποβολὴ προσώπου τοῦ λέγοντος, ὡς ὅταν ὀκνῶν εἰπεῖν ἀφ’ ἑαυτοῦ, ὡς ἀπὸ ἑτέρου προσώπου λέγω, οἱονεὶ εἰ Ἀλεξανδρεῦσιν ἐπιπλήττων ὑπὲρ ἀταξίας εἴπω, Θηβαίους εὑρὼν ἀτακτοῦντας τόδε καὶ τόδε εἶπον. Ἀποστροφὴ δὲ προσώπου ἐστὶ μετάβασις λόγου πρὸς πρόσωπον, ᾧ πρότερον οὐ διαλεγόμεθα, ὡς ἵνα δικαζόμενος καὶ πρὸς τὸν ἄρχοντα λέγων τὸ πρᾶγμα στραφῶ πρὸς τὸν ἀντίδικον καὶ ἐρωτήσω, οὐκ ἀληθῆ ταῦτα ἃ λέγω; Ἀντιστροφὴ δέ ἐστι χαρακτήρων ἀντίδοσις τῶν συντεταγμένων ἀλλήλαις ἐν τῷ λόγῳ λέξεων, ὡς ἵνα εἴπω, ἠχῶν ἔπεσα ἀντὶ τοῦ πεσὼν ἤχησα. ΠΕΡΙ ΤΩΝ ΤΗΣ ΔΙΑΝΟΙΑΣ ΣΧΗΜΑΤΩΝ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 1 (t)",
+      "text": "ΠΕΡΙ ΕΝΔΕΙΑΣ. Ἰστέον οὖν ὅτι τῶν τῆς διανοίας σχημάτων ἀποσιώπησις καὶ ἐπιτροχασμὸς τῆς ἐνδείας εἰσίν, καὶ ἔστιν ἀποσιώπησις ἔκλειψις παντελὴς τοῦ ἐκ τῆς ἀκολουθίας ὀφείλοντος ἐπενεχθῆναι, ὡς ἵνα τις εἰπών, εἰ ἐμπορεύσομαι, δέον εἰπεῖν κινδυνεύσω πλέων θάλασσαν, τοῦτο μὴ εἴπῃ διὰ τὸ βλάσφημον, εἴπῃ δὲ οὕτως, εἰ ἐμπορεύσομαι, σιωπῶ τὸ λοιπόν. Ἐπιτροχασμὸς δὲ ὀνομασία πραγμάτων κατὰ μόνην ἀπαρίθμησιν γινομένη, ἄνευ τῆς περὶ αὐτῶν διηγήσεως, ὡς ἵνα τις αἰτιώμενός τινα ὡς πολλὰ κακὰ πεποιηκότα ἀπαριθμήσηται αὐτὰ λέγων, τόδε καὶ τόδε πέπρακταί σοι μὴ τὸ πῶς δὲ πέπρακται λέγων. ΠΕΡΙ ΠΛΕΟΝΑΣΜΟΥ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 2 (t)",
+      "text": "Πλεονασμῶν δὲ ἕξ ἐστι σχήματα, προδιόρθωσις, ἐπιδιόρθωσις, προκατάληψις, παράλειψις ἤτοι ὑποσιώπησις, διατύπωσις, ἐπιμονή. [προθεραπεῖαι δέ εἰσι λόγου τοῖς ἀκούουσι, καὶ ἡ μὲν προδιόρθωσις προτιθεμένη πρὸς τοὺς κριτὰς μόνους ἢ καὶ πρὸς τοὺς ἐναντίους, ἐπιφερομένη δὲ ἡ ἐπιδιόρθωσις· πρὸς δὲ τοὺς ἐναντίους προκατάληψις.] προδιόρθωσις δέ ἐστιν, ὡς ἵνα διηγούμενός τινι ξένον πρᾶγμα προθεραπεύσω λέγων, ὅτι θαυμάσεις μὲν ἀκούων καὶ ἴσως ἀπιστήσεις, εἰ γέγονε τὸ πρᾶγμα, ὁ δεῖνα δὲ τόδε ἐποίησεν. ἐπιδιόρθωσις δέ, ὡς ἵνα διαβαλών τινα παρά τινι ἴσως μὴ ἡδέως ἀκούοντι μετὰ τὴν διαβολὴν εἴπω, ὡς οὐκ ἂν ἐμνήσθην αὐτοῦ, εἰ μὴ πρῶτον ἔβλαψέ με. Προκατάληψις δέ, ὡς ἵνα περί τινος ἐγκαλούμενος ἐν δίκῃ εἴπω προκαταλαβὼν πρὸς ἑκάτερον, πρός τε τὸν ἀντίδικον καὶ τὸν κριτήν, ὡς ἀδύνατον ἦν ἢ ἀπρεπὲς ἄλλο πραχθῆναι πλὴν τοῦ πεπραγμένου. Παράλειψις δὲ ἤτοι ὑποσιώπησίς ἐστι νόημα ἐν προσποιήσει σιωπῆς οὐδὲν ἧττον λεγόμενον, ὡς ἵνα ἐγκαλῶν τινι εἴπω, ὅτι σιγῶ τόδε καταλέγων τὰ ἀδικήματα. Διατύπωσις δέ ἐστιν ἔκθεσις ἑνὸς πράγματος διὰ πλειόνων, ὡς ἵνα μαρτυρῶν ἑτέρῳ εἴπω περὶ αὐτοῦ, ὅτι ἐπιεικής, αἰδήμων, τοῖς πρεσβυτέροις πειθόμενος· διὰ γὰρ πασῶν τῶν λέξεων τούτων τὸ ἐπιεικὲς αὐτῷ προσεμαρτύρησα. Ἐπιμονὴ δέ ἐστι πολλῶν ἐκφορὰ πραγμάτων, εἰς παράστασιν καὶ δήλωσιν ἑνός, ὡς ἵνα θέλων δεῖξαί τινα σπουδαῖον ἀπὸ διαφόρων πραγμάτων τοῦτο δηλώσω λέγων, ὅτι καὶ νυκτὸς οὔσης μὴ καρτερῶν ἐκτὸς εἶναι τῶν βιβλίων ἐγερθεὶς ἀνεγίνωσκε· σβεσθέντος δὲ τοῦ λύχνου οὐκ ὤκνει καὶ μακρὰν ὁδὸν βαδίζειν, ἵνα τοῦτον ἅψῃ· ἄδειπνος ἐκάθευδεν, ἵνα μὴ πολὺ ὑπνώσῃ· διὰ γὰρ τούτων πάντων οὐκέτι λόγων, ἀλλὰ πραγμάτων μόνον τὴν σπουδὴν αὐτοῦ ἐδήλωσα. δεῖ δὲ σημειώσασθαι ὅτι τούτων τῶν σχημάτων τῆς διανοίας τῶν κατὰ πλεονασμὸν οὐδὲ ἓν συνεμπίπτει τοῖς ἀπὸ τῆς λέξεως, πλὴν τοῦ καλουμένου πλεονασμοῦ, ἤτοι ταυτολογίας, ὥσπερ καὶ κατὰ ἔνδειαν ἑνὶ μόνῳ εἴδει αὐτῆς συνέπεσεν, λέγω δὴ τῇ ἐλλείψει. ΠΕΡΙ ΜΕΤΑΘΕΣΕΩΣ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 3 (t)",
+      "text": "Κατὰ μετάθεσιν πάλιν ἕξ ἐστι τὰ τῆς διανοίας σχήματα, ἐν οἷς μεθίστησιν ἀφ’ ἑαυτοῦ ὃ βούλεται ποιεῖν ἐφ’ ἕτερον πρόσωπον· καὶ ἔστι ταῦτα προσωποποιΐα, ἠθοποιΐα, μικτόν, ἐρώτησις, πεῦσις, ἀποποίησις· τούτων δὲ ἕκαστον, τυχὸν προσωποποιΐα καὶ ἠθοποιΐα καὶ μικτὸν εἰσὶ λόγων, οὓς θέλοντες εἰπεῖν δι’ ἑαυτῶν ὀκνοῦμεν καὶ μετατίθεμεν ἐπ’ ἄλλο πρόσωπον ἢ ὑφεστηκὸς ἢ μὴ ὑφεστηκὸς ἢ γεγονὸς μέν, οὐκέτι δὲ ὄν· καὶ εἰ μὲν μὴ ὑφεστηκός, προσωποποιΐα ἐστίν, ὡς ἐπὶ τούτου ἵνα ἐγκαλῶν τινι μοιχείαν τυχὸν εἴπω· αὐτὸς ὁ καιρός, καθ’ ὃν εὑρέθης ἐν τῷ τόπῳ, μαρτυρεῖ κατά σου. [προσωποποιήσας γὰρ τὸν καιρὸν τούτῳ τοὺς λόγους περιτίθημι οὓς ἤθελον εἰπεῖν κατ’ ἐκείνου.] ἡνίκα δὲ ὑφεστηκὸς ὑποτίθεται πρόσωπον, ἠθοποιΐα, ὡς ἵνα εἴπω πρὸς αὐτόν, εἰ ἐθάρρεις σεαυτῷ, ὅτι οὐ τοῦτο ἔπραξας, ἐχρῆν σε τόδε καὶ τόδε λέγειν. Μικτὸν δέ, ὡς ἵνα εἴπω πάλιν πρὸς τὸν αὐτόν, εἰ ἔζη νῦν ὁ πατήρ σου βλέπων σε μοιχὸν κρινόμενον ἄνθρωπος ἐπιεικής, ἤμελλε τόδε καὶ τόδε θρηνῶν εἰπεῖν. Ἡ δὲ ἠθοποιΐα διχῆ γίνεται πρὸς παρόντας καὶ ἀπόντας, ὥσπερ εἰ βουλόμενος ἐλέγξαι τινὰς ῥᾳθυμοῦντας, ὡς πρὸς αὐτοὺς μὲν φανερῶς μηδὲν εἴπω, τὰ δὲ πρὸς ἄλλους εἰρημένα, ὡς ἐν διηγήσει εἰς μέσον θήσω, οἷον ὅτι οἱ ἀσεβήσαντες πανωλεθρίαν ὑπέμειναν ἅπαντες, [ὡς διηγούμενος αὐτοῖς πρὸς ἄλλους εἰρημένα ποιήσομαι τὸν λόγον, ὡς ὁ θεῖος ἀπόστολός φησι, μηδὲ γογγύζετε, καθώς τινες καὶ ἀπώλοντο.] ἡ ἐρώτησις δὲ καὶ ἡ πεῦσις κατὰ τοῦτο διαφέρουσιν, ὡς ἵνα ἐγκαλούμενος ὅτι κατέλιπον ἐν ἀνάγκῃ φίλον, εἴπω, ὅτι αἱρέσεώς μοι οὔσης, συγκινδυνεῦσαι αὐτῷ, ἢ πεῖσαι αὐτὸν μὴ ποιῆσαι τόδε, ἢ ἀναχωρῆσαι, μὴ πειθομένου αὐτοῦ συμβουλεύοντί μοι τί ἐχρῆν με ποιῆσαι; καὶ ταῦτα γὰρ μεταθέσεις λόγων εἰσίν. Ἀποποίησις δέ ἐστιν ἄρνησις ὧν ὑπονοούμεθα, μὴ προσδεομένη πίστεως ὡς ἐγνωσμένης τῆς ἀληθείας, ὡς ἵνα λέγω, κρατήσαντος ἔθους τοὺς σχολαστικοὺς ἐξελθεῖν εἰς προάστεια, οὐκ ἀπ’ ἐμοῦ τοῦ ἔθους κρατήσαντος ἐρωτηθεὶς οὐ μὴ προσδεηθῶ ἐπαγαγεῖν ἀπόδειξιν, ὡς ἐγνωσμένου τοῖς ἀκούουσιν, ὅτι παρεγενόμην. τούτων δὲ τῶν κατὰ μετάθεσιν ἓξ σχημάτων τὰ μὲν πρῶτα πέντε συνεμπίπτει τῷ ὑπερβατῷ, ἡ δὲ ἀποποίησις τῇ προλήψει τῆς αἰτίας· ὡς προειλημμένης γὰρ καὶ προεγνωσμένης τῆς αἰτίας τοῦ γενομένου, ὅτι οὐ δι’ ἐμέ, χρῶμαι τῇ ἀποποιήσει. ΠΕΡΙ ΤΩΝ ΤΗΣ ΕΝΑΛΛΑΓΗΣ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 4 (t)",
+      "text": "Κατὰ ἐναλλαγὴν τέσσαρά εἰσι σχήματα τῆς διανοίας, εἰρωνεία, διαπόρησις, διασυρμός, ἀποστροφή. τούτων εἰρωνεία μέν ἐστι λόγος ἐναντίος οἷς ἐνθυμούμεθα, κατ’ ἔμφασιν αὐτὰ σημαίνων, ὡς ἵνα ἐγκαλῶν τινι πολυπραγμοσύνην καὶ ἐργολάβειαν εἴπω, ὁ δεῖνα ὁ ἀεὶ ἡσυχάσας καὶ μηδέποτε περιεργασάμενος ἀλλότριον πρᾶγμα, τῷ ἤθει δεικνύς, ὅτι τὰ ἐναντία δοξάζω περὶ αὐτοῦ. Διαπόρησις δὲ ζητήσεως προσποίησις, ὧν εἰπεῖν ἢ μαθεῖν ὀφείλομεν, εἰπεῖν μὲν ὡς ἵνα περί τινος εἴπω, ὅτι μωρός ἐστι, παραφρονεῖ, μαίνεται, ἢ οὐκ οἶδα, τί εἴπω περὶ αὐτοῦ· μαθεῖν δέ, ὡς ἵνα βλέπων τινὰ φίλων ἐπειγόμενον πρός με, εἴπω, ὁ δεῖνα ὁ ἀναγκαῖος φίλος ἐπείγεται πρός με, ἆρά τι μέλλων ἀπαγγεῖλαι; Ἀποστροφὴ δέ ἐστι μετάθεσις λόγου πρὸς ἄλλο πρόσωπον [ἀπὸ τῶν πρῶτον ἀκουόντων ἢ ὀφειλόντων ἀκούειν, ὡς ἐπὶ τούτου τοῦ παραδείγματος, ἵνα δικαζόμενός τίς τινι, τῆς ἐν τῷ διαλέγεσθαι πρὸς τοὺς κριτὰς χρείας αὐτῷ γενομένης, τὸν μὲν πρὸς ἐκείνους ἐάσῃ λόγον, ἀποστραφῇ δὲ πρὸς τὸν ἀντίδικον καὶ διαλεχθῇ αὐτῷ· ἀπὸ δὲ τῶν ὀφειλόντων ἀκούειν,] ὡς ἵνα θέλων ἐπιτιμῆσαι μαθηταῖς τισιν ἀκοσμοῦσιν ἐκείνοις μὲν μηδὲν εἴπω, τῷ δὲ διδασκάλῳ διαλεχθῶ, λέγων ἀκουόντων αὐτῶν ὅτι σπουδάζουσιν οἱ σοὶ ἑταῖροι τῇ ἀταξίᾳ ταύτῃ καταλῦσαι τὴν δόξαν σου. Διασυρμὸς δέ ἐστιν εὐτελισμὸς πραγμάτων ὑπὸ τῶν ἐναντίων εἰς ὄγκον ἐπαρθέντων, ὡς ἵνα τινὸς ἐν κατηγορίᾳ μου εἰπόντος, ὅτι κακὸν τὸ ἀσεβεῖν, διὰ γὰρ τὴν ἀσέβειαν οἱ ἄνθρωποι τὸ καὶ τὸ πάσχουσιν, ἐξ ὧν ἀπόλλυνται αἱ πόλεις, μὴ ἀποδείξαντος δέ, ὅτι ἠσέβησα τὸ εἰρημένον ὑπ’ αὐτοῦ ὑψοῦντος, τὸ πρᾶγμα σμικρυνῶ καὶ εὐτελήσω, λέγων μηδὲν εἶναι πρὸς τὸν ἐμὸν ἔλεγχον τὸν τὰς πόλεις ἀπόλλυσθαι δι’ ἀσέβειαν. τούτων δὲ τῶν τεσσάρων σχημάτων ἡ μὲν ἀποστροφὴ ἅπαξ ἓν εἶδός ἐστι, τὰ δὲ ἄλλα τρία συνεμπίπτει τῷ ἑτεροσχηματίστῳ. καὶ ταῦτα περὶ τῶν τῆς διανοίας σχημάτων. Τῶν δὲ τῆς λέξεως κστʹ σχημάτων τῶν ἡμῖν ἀπηριθμημένων ἡ μετάληψις καὶ ἡ μεταφορὰ μᾶλλον τοῦ τρόπου εἰσὶν ἢ τοῦ σχήματος, τῶν ἄλλων ἰστέον ὅτι τρία εἰσὶ κατὰ ἔνδειαν, ἓν μὲν τοῦ ἀσυνδέτου, καὶ δύο τῆς ἐλλείψεως· τοῦ μὲν ἀσυνδέτου ἡ καλουμένη διάλυσις· διαλέλυται γὰρ τὸ ἀσύνδετον, τῆς δ’ ἐλλείψεως καταρίθμησις· ἐλλείπει γὰρ ἐν αὐτῇ ἡ διήγησις ἡ περὶ τῶν ἀπαριθμουμένων πραγμάτων, καὶ ὑπερβολή· ὑπερβαίνομεν γὰρ ἐν αὐτῇ, ἃ δεῖ λεχθῆναι. κατὰ δὲ πλεονασμὸν συνεμπίπτει τῇ ταυτολογίᾳ τὸ πολύπτωτον καὶ ἡ κλῖμαξ καὶ ἡ ἐπιτίμησις τῇ ἀναδιπλώσει, ὁμώνυμον καὶ ἡ ἀντιστροφὴ καὶ ἡ ἐπίζευξις τῇ παρονομασίᾳ, ὁμώνυμον καὶ ἡ πλοκὴ τῇ ἀναφορᾷ ἢ ἐπαναφορᾷ καὶ ἡ ἐπιβολή, τῇ ἐπαναδόσει ἢ ἀντιμεταβολῇ καὶ ἡ ἐναντίωσις, τῇ ἐπιμονῇ ἡ προσεπανάδοσις, τῇ ἀντιλήψει ἡ ἔφοδος κατ’ ἐναλλαγὴν καὶ ἡ ἐπιτομὴ καὶ ἡ πάροδος καὶ τὰ καλούμενα ἐνηλλαγμένα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 4 (50)",
+      "text": "Ἐφεξῆς δὲ ἐξηγησόμεθα πῶς ἕκαστον γίνεται ταὐτό· λέγει γὰρ ἐν μὲν τῷ πολυπτώτῳ κατὰ τὰς προτεταγμένας ἀντωνυμίας, ὡς τὸ οὗτος ἦν φίλος αὐτο ῦ , οὗτος προστάτη ς , οὗτος κηδεμώ ν , ἢ κατὰ διάφορα ὀνόματα σημαίνοντα τὴν αὐτὴν διάνοιαν, ὑπὸ δὲ τὴν αὐτὴν πτῶσιν, ὡς τὸ φίλον εὐεργέτην σωτῆρα ἡγοῦντ ο . ἐν δὲ τῇ κλίμακι κατὰ τὴν ἐπανάληψιν τὸ τέλος τοῦ πρώτου κώλου εὑρίσκομεν ἐν τῇ ἀρχῇ τοῦ δευτέρου, ὡς τὸ οὐκ εἶπον μὲν ταῦτ α , οὐκ ἔγραψα δ έ · καὶ οὐκ ἔγραψα μέ ν , οὐκ ἐπρέσβευσα δ έ , οὐδὲ ἐπρέσβευσα μέ ν , οὐκ ἔπεισα δὲ Θηβαίου ς. ἀναδιπλοῖ τις καὶ ἐν τῇ ἐπιτιμήσει ᾗ ἐπιτιμᾷ ἑαυτῷ, ὡς κακῶς εἰπών, δέον εἰπεῖν ἄλλο τι· ὀψὲ γάρ ποτε ὀψὲ λέγ ω · χθὲς μὲν οὖν καὶ πρώη ν . παρονομάζει ἡ μὲν ἀντιστροφὴ τὰ πράγματα ἀντιστρέφουσα εἰς τὸ [αὐτὸ] ῥῆμα, ὡς τὸ ὅρκον αἰτεῖ ς , νόμον αἰτεῖ ς , καὶ τὸ ἐπὶ σὲ αὐτὸν καλεῖ ς , ἐπὶ τοὺς νόμους καλεῖ ς. ἡ δὲ ἐπίζευξις τὸ αὐτὸ παρονομάζει συνημμένως, ὡς τὸ Ἆρες Ἄρες βροτολοιγὲ μιαιφόνε. καὶ τὸ βαρὺς βαρὺς σύνοικο ς. καὶ αὗται δὲ εἴδη ἀναδιπλώσεως· καὶ ἡ πλοκή, περιποιοῦσα μὲν τὴν διάνοιαν, ἀναφέρουσα δὲ εἰς τὸ αὐτὸ ὄνομα, οἷον ἡμεῖς τοι πατέρων μέγ’ ἀμείνονες εὐχόμεθ’ εἶναι, ἡμεῖς καὶ Θήβης ἕδος εἵλομεν. καὶ τὸ ταῦτα εἶπον ὑπὲρ ὑμῶ ν , ταῦτα ἐπρέσβευσ α , ταῦτα ἔγραψ α . τῆς δὲ πλοκῆς τὸ χάριέν ἐστιν ἄνθρωπος, ὅταν ἄνθρωπος ᾖ. τῷ μὲν ὀνόματι τῷ αὐτῷ ἐχρήσατο, ἐνήλλαξε δὲ τὸ σημαινόμενον· τὸ μὲν γὰρ κοινῶς εἴρηται ἐπὶ παντὸς ἀνθρώπου, τὸ δὲ ἰδίως ἐπὶ τοῦ χρηστοῦ ἀνθρώπου. τὸ δὲ ὁμοιοτέλευτον οὐ συνεμπίπτει τούτοις, εἰ μὴ κατὰ μόνην τὴν ὁμοίαν κατάληξιν, [οὗ παράδειγμα] οἷον Ὕλλῳ ἐπ’ ἰχθυόεντι καὶ Ἕρμῳ δινήεντι. καὶ τὸ τότε μὲν βαρεῖ ς , νῦν δ ’ ἀτυχεῖς Θηβαῖο ι . καὶ ἡ ἐπιβολὴ συνεμπίπτει ἀναφορᾷ· καὶ αὕτη γὰρ ἐπὶ τὸ αὐτὸ ἀναφέρει, ὡς τὸ Σοφοκλέους ὁ δ’ αὐτὸς ὑμνῶν, [ὁ δ’] αὐτὸς ἐν γάμοις παρών, αὐτὸς τάδ’ εἰπών, αὐτός ἐστιν ὁ κτανών· ἐναλλάττει δὲ τῷ πλεονάκις εἰρῆσθαι τὴν αὐτὴν ἀντωνυμίαν, καὶ τῇ διαφορᾷ τῶν σημαινομένων· ἡ γὰρ ἀναφορὰ τὴν αὐτὴν ἔννοιαν τηρεῖ [τὸ βελτίους εἶναι τῶν πατέρων]. καὶ ἡ προσαπόδοσις τοιαύτη, ἧς παράδειγμα. τίς ὁ λύσας τὸν χρησμόν; Θεμιστοκλῆς· τίς ὁ βασιλέα καταναυμαχήσας; Θεμιστοκλῆς· ἐναλλάττει δὲ τῷ κατ’ ἐρώτησιν καὶ ἀπόκρισιν σχήματι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 4 (100)",
+      "text": "Τέλος τῶν περὶ σχημάτων σχολίων.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "pfk-bd",
+      "title": {
+        "english": "Companion Dialogues",
+        "ancient_greek": "Ἑταιρικοὶ Διάλογοι"
+      },
+      "url_slug": "lucian-of-samosata-companion-dialogues-pfk-bd",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/companion-dialogues",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-companion-dialogues-pfk-bd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-companion-dialogues-pfk-bd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-companion-dialogues-pfk-bd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-companion-dialogues-pfk-bd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/companion-dialogues.epub"
+      }
+    },
+    {
+      "eul_wid": "qwm-aa",
+      "title": {
+        "english": "Leuctrian C. In Favor of Lacedaemonians Second",
+        "ancient_greek": "Λευκτρικὸς Γ."
+      },
+      "url_slug": "aristides-the-orator-leuctrian-favor-lacedaemonians-qwm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/leuctrian-favor-lacedaemonians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-leuctrian-favor-lacedaemonians-qwm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-leuctrian-favor-lacedaemonians-qwm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-leuctrian-favor-lacedaemonians-qwm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-leuctrian-favor-lacedaemonians-qwm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/leuctrian-favor-lacedaemonians.epub"
+      }
+    },
+    {
+      "eul_wid": "brc-ac",
+      "title": {
+        "english": "On Truth",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "antiphon-the-sophist-truth-brc-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/antiphon-the-sophist/truth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-the-sophist-truth-brc-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-the-sophist-truth-brc-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-the-sophist-truth-brc-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-the-sophist-truth-brc-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-the-sophist/truth.epub"
+      }
+    },
+    {
+      "eul_wid": "rhg-ab",
+      "title": {
+        "english": "On the Eight Parts of Rhetorical Speech",
+        "ancient_greek": "Περὶ τῶν ὀκτὼ μερῶν τοῦ ῥητορικοῦ λόγου"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-eight-parts-speech-rhg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/eight-parts-speech",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises-eight-parts-speech-rhg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises-eight-parts-speech-rhg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises-eight-parts-speech-rhg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises-eight-parts-speech-rhg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/eight-parts-speech.epub"
+      }
+    },
+    {
+      "eul_wid": "rhg-af",
+      "title": {
+        "english": "On the Four Parts of Perfect Speech",
+        "ancient_greek": "Περὶ τῶν τεσσάρων μερῶν τοῦ τελείου λόγου"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-four-parts-speech-rhg-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/four-parts-speech",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises-four-parts-speech-rhg-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises-four-parts-speech-rhg-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises-four-parts-speech-rhg-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises-four-parts-speech-rhg-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/four-parts-speech.epub"
+      }
+    },
+    {
+      "eul_wid": "fge-ab",
+      "title": {
+        "english": "On the Lot of Nicostratus, Epilogue",
+        "ancient_greek": "Περὶ τοῦ Νικοστράτου κλήρου"
+      },
+      "url_slug": "isaeus-the-orator-nicostratus-lot-fge-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/isaeus-the-orator/nicostratus-lot",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator-nicostratus-lot-fge-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator-nicostratus-lot-fge-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator-nicostratus-lot-fge-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator-nicostratus-lot-fge-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/nicostratus-lot.epub"
+      }
+    },
+    {
+      "eul_wid": "vng-aa",
+      "title": {
+        "english": "Prolegomena to Progymnasmata by an Uncertain Author",
+        "ancient_greek": "Προλεγόμενα εἰς Προγυμνάσματα ὑπὸ Ἀδήλου"
+      },
+      "url_slug": "aphthonius-commentary-anonymous-prolegomena-aa-vng-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aphthonius-commentary-anonymous/prolegomena-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aphthonius-commentary-anonymous-prolegomena-aa-vng-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aphthonius-commentary-anonymous-prolegomena-aa-vng-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aphthonius-commentary-anonymous-prolegomena-aa-vng-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aphthonius-commentary-anonymous-prolegomena-aa-vng-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aphthonius-commentary-anonymous/prolegomena-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "qwm-bm",
+      "title": {
+        "english": "To the Aegean Sea",
+        "ancient_greek": "Εἰς τὸ Αἰγαῖον πέλαγος"
+      },
+      "url_slug": "aristides-the-orator-aegean-sea-qwm-bm",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/aegean-sea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-aegean-sea-qwm-bm.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-aegean-sea-qwm-bm.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-aegean-sea-qwm-bm.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-aegean-sea-qwm-bm.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/aegean-sea.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/phoebammon-the-sophist/figures",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoebammon-the-sophist-figures-prs-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoebammon-the-sophist-figures-prs-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoebammon-the-sophist-figures-prs-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoebammon-the-sophist-figures-prs-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoebammon-the-sophist/figures.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

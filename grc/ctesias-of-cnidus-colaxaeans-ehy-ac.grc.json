@@ -1,0 +1,238 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ehy-ac",
+  "eul_aid": "ehy",
+  "author_slug": "ctesias-of-cnidus",
+  "work_slug": "colaxaeans",
+  "url_slug": "ctesias-of-cnidus-colaxaeans-ehy-ac",
+  "author": {
+    "english": "Ctesias of Cnidus",
+    "ancient_greek": "Κτησίας ὁ Κνίδιος"
+  },
+  "title": {
+    "english": "On the Colaxaeans",
+    "ancient_greek": "Ἀπόσπασμα"
+  },
+  "seo": {
+    "browser_title": "On the Colaxaeans by Ctesias of Cnidus on Eulogikon",
+    "meta_title": "Ancient On the Colaxaeans by Ctesias of Cnidus in Greek",
+    "meta_description": "On the Colaxaeans is a lost treatise by Ctesias blending medical and ethnographic themes. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">On the Colaxaeans is a lost treatise by the Greek physician and historian Ctesias of Cnidus, composed in Ionic Greek around 400 BCE. The work blended medical and ethnographic themes, focusing on peoples and lands at the eastern fringes of the Persian Empire. Only two fragmentary passages survive through quotation by later authors. One fragment describes a medicinal &quot;Indian stone&quot; used as an antidote and a treatment for eye ailments, while the other records a fantastical account of a people in India possessing backwards-turned feet. Scholars interpret this combination of practical pharmacology and marvels as characteristic of Ctesias&#x27;s writings, which catered to contemporary Greek curiosity about the exotic East. The treatise was likely based on stories he collected during his service as a physician at the Persian court. No manuscript of the original survives, and its content is known solely through these later quotations.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "66bis.(l1)",
+      "text": "PAP. OX. 2389 fr. 6 col. 1, 16—19 (s. 1 II p.; vol. 24, 1957, 37f.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "66bis.(l1)",
+      "text": "[Taf. 5]; Schol. B Alkm. F 1, 59 Page [Lyrica Graeca selecta, 1958, 7]) ... περὶ δὲ τῶ[ν Κολαξαί]ων ˈ [ Κτησί α ]ς ὁ Κν [ ίδ ι ]ος δια[ ]νεαμ[ ]ˈ[ ] .. ι̣ω̣ς γρ[ ]δε . [ ]ˈ[ ] τὸν πόντον τοῦτο[ν]",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ehy-ab",
+      "title": {
+        "english": "Fragments on Assyrian History",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἀσσυρικῆς Ἱστορίας"
+      },
+      "url_slug": "ctesias-of-cnidus-assyrian-history-ehy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/ctesias-of-cnidus/assyrian-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus-assyrian-history-ehy-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus-assyrian-history-ehy-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus-assyrian-history-ehy-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus-assyrian-history-ehy-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/assyrian-history.epub"
+      }
+    },
+    {
+      "eul_wid": "ehy-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "ctesias-of-cnidus-testimonies-ehy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ctesias-of-cnidus/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus-testimonies-ehy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus-testimonies-ehy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus-testimonies-ehy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus-testimonies-ehy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/testimonies.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "bww-bq",
+      "title": {
+        "english": "Aphorisms",
+        "ancient_greek": "Ἀφορισμοί"
+      },
+      "url_slug": "hippocrates-aphorisms-bww-bq",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/aphorisms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-aphorisms-bww-bq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-aphorisms-bww-bq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-aphorisms-bww-bq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-aphorisms-bww-bq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/aphorisms.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-an",
+      "title": {
+        "english": "How Those Feigning Illnesses Should Be Detected",
+        "ancient_greek": "Πῶς δεῖ τοὺς νοσοῦντας προσποιουμένους ἐλέγχειν"
+      },
+      "url_slug": "galen-of-pergamon-detecting-feigned-illness-qmm-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/detecting-feigned-illness",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-detecting-feigned-illness-qmm-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-detecting-feigned-illness-qmm-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-detecting-feigned-illness-qmm-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-detecting-feigned-illness-qmm-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/detecting-feigned-illness.epub"
+      }
+    },
+    {
+      "eul_wid": "nys-aa",
+      "title": {
+        "english": "On Animals That Emit Venom, Including the Rabid Dog",
+        "ancient_greek": "Περὶ τῶν ζῴων τῶν δηλητηριωδῶν"
+      },
+      "url_slug": "pseudo-dioscorides-venomous-animals-rabid-dog-nys-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-dioscorides/venomous-animals-rabid-dog",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides-venomous-animals-rabid-dog-nys-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides-venomous-animals-rabid-dog-nys-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides-venomous-animals-rabid-dog-nys-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides-venomous-animals-rabid-dog-nys-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides/venomous-animals-rabid-dog.epub"
+      }
+    },
+    {
+      "eul_wid": "umi-au",
+      "title": {
+        "english": "On Pulses",
+        "ancient_greek": "Περὶ Σφυγμῶν"
+      },
+      "url_slug": "medical-writers-anonymous-pulses-umi-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/pulses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-pulses-umi-au.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-pulses-umi-au.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-pulses-umi-au.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-pulses-umi-au.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/pulses.epub"
+      }
+    },
+    {
+      "eul_wid": "rzs-aa",
+      "title": {
+        "english": "On Pulses",
+        "ancient_greek": "Περὶ Σφυγμῶν"
+      },
+      "url_slug": "marcellinus-the-physician-pulses-rzs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/marcellinus-the-physician/pulses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellinus-the-physician-pulses-rzs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellinus-the-physician-pulses-rzs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellinus-the-physician-pulses-rzs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellinus-the-physician-pulses-rzs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellinus-the-physician/pulses.epub"
+      }
+    },
+    {
+      "eul_wid": "bww-ad",
+      "title": {
+        "english": "On the Nature of the Child",
+        "ancient_greek": "Περὶ τῆς φύσεως τοῦ παιδίου"
+      },
+      "url_slug": "hippocrates-nature-child-bww-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/nature-child",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-nature-child-bww-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-nature-child-bww-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-nature-child-bww-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-nature-child-bww-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/nature-child.epub"
+      }
+    },
+    {
+      "eul_wid": "ojc-af",
+      "title": {
+        "english": "Summary-Pulses",
+        "ancient_greek": "Σύνοψις περὶ Σφυγμῶν"
+      },
+      "url_slug": "rufus-of-ephesus-pulses-ojc-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/rufus-of-ephesus/pulses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-pulses-ojc-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-pulses-ojc-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-pulses-ojc-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-pulses-ojc-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/pulses.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-av",
+      "title": {
+        "english": "That the Best Doctor is Also a Philosopher",
+        "ancient_greek": "Ὅτι ὁ ἄριστος ἰατρὸς καὶ φιλόσοφος ἐστίν"
+      },
+      "url_slug": "galen-of-pergamon-best-doctor-philosopher-qmm-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/best-doctor-philosopher",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-best-doctor-philosopher-qmm-av.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-best-doctor-philosopher-qmm-av.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-best-doctor-philosopher-qmm-av.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-best-doctor-philosopher-qmm-av.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/best-doctor-philosopher.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/ctesias-of-cnidus/colaxaeans",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus-colaxaeans-ehy-ac.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus-colaxaeans-ehy-ac.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus-colaxaeans-ehy-ac.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus-colaxaeans-ehy-ac.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/colaxaeans.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,362 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "uyg",
+  "auth_slug": "damascius-of-damascus",
+  "name": {
+    "english": "Damascius of Damascus",
+    "ancient_greek": "Δαμάσκιος ὁ Δαμασκηνός"
+  },
+  "seo_h1": "Damascius of Damascus: On Principles and the Platonic School",
+  "seo": {
+    "browser_title": "Damascius of Damascus on Eulogikon Greek Archive Library",
+    "meta_title": "Classical Damascius Ancient Greek Neoplatonic Treatises",
+    "meta_description": "Damascius was a late antique Neoplatonic philosopher and head of the Platonic school. Seven treatises. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Neoplatonist",
+      "href": "/affiliations/neoplatonist"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Damascius was a Neoplatonic philosopher active in the late 5th and early 6th centuries CE. Born in Damascus, he studied in Alexandria before becoming the head of the Platonic school in Athens around 515 CE. His leadership coincided with a period of increasing pressure from the Christian Byzantine state. In 529 CE, Emperor Justinian issued an edict prohibiting pagan teaching, which led to the school&#x27;s closure.</p>\n<p class=\"research-text\">Damascius, along with several other philosophers, sought refuge at the court of the Persian King Khosrow I in 531/532 CE. A subsequent peace treaty allowed their safe return, and Damascius is believed to have spent his final years in Syria.</p>\n<p class=\"research-text\">His major surviving work is <strong>Problems and Solutions Concerning First Principles</strong>, a dense philosophical treatise that critically examines the core ideas of earlier Neoplatonists like Proclus. Other partially surviving works include commentaries on Plato&#x27;s <strong>Parmenides</strong> and <strong>Phaedo</strong>. He also wrote the <strong>Life of Isidore</strong>, a biographical account of his teacher that survives in fragments; modern scholars value it as a historical source for the lives of pagan philosophers in a Christianizing empire.</p>\n<p class=\"research-text\">Damascius is historically significant as the last head of the Platonic Academy in Athens. His writings represent the final, sophisticated development of pagan Neoplatonic thought in the ancient world. His critical and questioning approach provides crucial insight into the internal debates of the Athenian school. His exile to Persia and return symbolize the end of institutionalized pagan philosophy in the Greco-Roman world.</p>\n</div>",
+  "affiliation_label": "Neoplatonist",
+  "works_count": 7,
+  "works": [
+    {
+      "eul_wid": "uyg-aa",
+      "title": {
+        "english": "Bibl. codd. 181, 242), Life of Isidore",
+        "ancient_greek": "Βίος Ἰσιδώρου"
+      },
+      "url_slug": "damascius-of-damascus-life-of-isidore-uyg-aa",
+      "passages": 187,
+      "links": {
+        "html": "https://eulogikon.org/grc/damascius-of-damascus/life-of-isidore",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-life-of-isidore-uyg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-life-of-isidore-uyg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-life-of-isidore-uyg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-life-of-isidore-uyg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus/life-of-isidore.epub"
+      }
+    },
+    {
+      "eul_wid": "uyg-af",
+      "title": {
+        "english": "Commentary on Phaedo (Long)",
+        "ancient_greek": "Περὶ Φαίδωνος"
+      },
+      "url_slug": "damascius-of-damascus-phaedo-af-uyg-af",
+      "passages": 563,
+      "links": {
+        "html": "https://eulogikon.org/grc/damascius-of-damascus/phaedo-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-phaedo-af-uyg-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-phaedo-af-uyg-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-phaedo-af-uyg-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-phaedo-af-uyg-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus/phaedo-af.epub"
+      }
+    },
+    {
+      "eul_wid": "uyg-ag",
+      "title": {
+        "english": "Commentary on Phaedo (Short)",
+        "ancient_greek": "Περὶ Φαίδωνος"
+      },
+      "url_slug": "damascius-of-damascus-phaedo-ag-uyg-ag",
+      "passages": 158,
+      "links": {
+        "html": "https://eulogikon.org/grc/damascius-of-damascus/phaedo-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-phaedo-ag-uyg-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-phaedo-ag-uyg-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-phaedo-ag-uyg-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-phaedo-ag-uyg-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus/phaedo-ag.epub"
+      }
+    },
+    {
+      "eul_wid": "uyg-ab",
+      "title": {
+        "english": "Life of Isidore",
+        "ancient_greek": "Βίος Ἰσιδώρου"
+      },
+      "url_slug": "damascius-of-damascus-isidore-uyg-ab",
+      "passages": 365,
+      "links": {
+        "html": "https://eulogikon.org/grc/damascius-of-damascus/isidore",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-isidore-uyg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-isidore-uyg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-isidore-uyg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-isidore-uyg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus/isidore.epub"
+      }
+    },
+    {
+      "eul_wid": "uyg-ac",
+      "title": {
+        "english": "On Parmenides",
+        "ancient_greek": "Περὶ Παρμενίδου"
+      },
+      "url_slug": "damascius-of-damascus-parmenides-uyg-ac",
+      "passages": 318,
+      "links": {
+        "html": "https://eulogikon.org/grc/damascius-of-damascus/parmenides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-parmenides-uyg-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-parmenides-uyg-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-parmenides-uyg-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-parmenides-uyg-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus/parmenides.epub"
+      }
+    },
+    {
+      "eul_wid": "uyg-ae",
+      "title": {
+        "english": "On Philebus",
+        "ancient_greek": "Περὶ Φιλήβου"
+      },
+      "url_slug": "damascius-of-damascus-philebus-uyg-ae",
+      "passages": 261,
+      "links": {
+        "html": "https://eulogikon.org/grc/damascius-of-damascus/philebus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-philebus-uyg-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-philebus-uyg-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-philebus-uyg-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-philebus-uyg-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus/philebus.epub"
+      }
+    },
+    {
+      "eul_wid": "uyg-ad",
+      "title": {
+        "english": "On Principles",
+        "ancient_greek": "Περὶ Ἀρχῶν"
+      },
+      "url_slug": "damascius-of-damascus-principles-uyg-ad",
+      "passages": 328,
+      "links": {
+        "html": "https://eulogikon.org/grc/damascius-of-damascus/principles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-principles-uyg-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-principles-uyg-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-principles-uyg-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-principles-uyg-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus/principles.epub"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "rrq",
+      "name": {
+        "english": "Amelius Letters",
+        "ancient_greek": "Ἀμελίου Ἐπιστολή"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/amelius-letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amelius-letters-rrq.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amelius-letters-rrq.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amelius-letters-rrq.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amelius-letters-rrq.en.json"
+      }
+    },
+    {
+      "eul_aid": "uqo",
+      "name": {
+        "english": "Ammonius of Alexandria Phil",
+        "ancient_greek": "Ἀμμώνιος ὁ Ἀλεξανδρεύς"
+      },
+      "work_count": 5,
+      "links": {
+        "html": "https://eulogikon.org/en/ammonius-of-alexandria-phil",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ammonius-of-alexandria-phil-uqo.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ammonius-of-alexandria-phil-uqo.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ammonius-of-alexandria-phil-uqo.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ammonius-of-alexandria-phil-uqo.en.json"
+      }
+    },
+    {
+      "eul_aid": "vcm",
+      "name": {
+        "english": "David the Invincible",
+        "ancient_greek": "Δαβίδ ὁ Ἀνίκητος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/david-the-invincible",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/david-the-invincible-vcm.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/david-the-invincible-vcm.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/david-the-invincible-vcm.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/david-the-invincible-vcm.en.json"
+      }
+    },
+    {
+      "eul_aid": "sfw",
+      "name": {
+        "english": "Dexippus the Neoplatonist",
+        "ancient_greek": "Δέξιππος ὁ Νεοπλατωνικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/dexippus-the-neoplatonist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dexippus-the-neoplatonist-sfw.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dexippus-the-neoplatonist-sfw.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dexippus-the-neoplatonist-sfw.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dexippus-the-neoplatonist-sfw.en.json"
+      }
+    },
+    {
+      "eul_aid": "vgs",
+      "name": {
+        "english": "Elias the Neoplatonist",
+        "ancient_greek": "Ἠλίας ὁ Νεοπλατωνικός"
+      },
+      "work_count": 3,
+      "links": {
+        "html": "https://eulogikon.org/en/elias-the-neoplatonist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/elias-the-neoplatonist-vgs.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/elias-the-neoplatonist-vgs.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/elias-the-neoplatonist-vgs.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/elias-the-neoplatonist-vgs.en.json"
+      }
+    },
+    {
+      "eul_aid": "sio",
+      "name": {
+        "english": "Eusebius of Myndus",
+        "ancient_greek": "Εὐσέβιος ὁ Μύνδιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/eusebius-of-myndus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-myndus-sio.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-myndus-sio.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-myndus-sio.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-myndus-sio.en.json"
+      }
+    },
+    {
+      "eul_aid": "tbu",
+      "name": {
+        "english": "Hierocles of Alexandria",
+        "ancient_greek": "Ἱεροκλῆς ὁ Ἀλεξανδρεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/hierocles-of-alexandria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hierocles-of-alexandria-tbu.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hierocles-of-alexandria-tbu.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hierocles-of-alexandria-tbu.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hierocles-of-alexandria-tbu.en.json"
+      }
+    },
+    {
+      "eul_aid": "chq",
+      "name": {
+        "english": "Iamblichus Anonymous",
+        "ancient_greek": "Ἰάμβλιχος ὁ Ἀνώνυμος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/iamblichus-anon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-anon-chq.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-anon-chq.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-anon-chq.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-anon-chq.en.json"
+      }
+    },
+    {
+      "eul_aid": "udw",
+      "name": {
+        "english": "Iamblichus of Chalcis",
+        "ancient_greek": "Ἰάμβλιχος ὁ Χαλκιδεύς"
+      },
+      "work_count": 6,
+      "links": {
+        "html": "https://eulogikon.org/en/iamblichus-of-chalcis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-udw.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-udw.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-udw.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-udw.en.json"
+      }
+    },
+    {
+      "eul_aid": "rvw",
+      "name": {
+        "english": "Iamblichus of Chalcis II",
+        "ancient_greek": "Ἰάμβλιχος ὁ Χαλκιδεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/iamblichus-of-chalcis-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-ii-rvw.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-ii-rvw.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-ii-rvw.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-ii-rvw.en.json"
+      }
+    },
+    {
+      "eul_aid": "sno",
+      "name": {
+        "english": "Julian the Apostate",
+        "ancient_greek": "Ἰουλιανὸς ὁ Ἀποστάτης"
+      },
+      "work_count": 20,
+      "links": {
+        "html": "https://eulogikon.org/en/julian-the-apostate",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julian-the-apostate-sno.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julian-the-apostate-sno.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julian-the-apostate-sno.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julian-the-apostate-sno.en.json"
+      }
+    },
+    {
+      "eul_aid": "tsi",
+      "name": {
+        "english": "Marinus of Neapolis",
+        "ancient_greek": "Μαρῖνος ὁ Νεαπολίτης"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/marinus-of-neapolis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/marinus-of-neapolis-tsi.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/marinus-of-neapolis-tsi.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/marinus-of-neapolis-tsi.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/marinus-of-neapolis-tsi.en.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/damascius-of-damascus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damascius-of-damascus-uyg.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damascius-of-damascus-uyg.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damascius-of-damascus-uyg.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damascius-of-damascus-uyg.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

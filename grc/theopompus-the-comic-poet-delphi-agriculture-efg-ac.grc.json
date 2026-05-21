@@ -1,0 +1,259 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "efg-ac",
+  "eul_aid": "efg",
+  "author_slug": "theopompus-the-comic-poet",
+  "work_slug": "delphi-agriculture",
+  "url_slug": "theopompus-the-comic-poet-delphi-agriculture-efg-ac",
+  "author": {
+    "english": "Theopompus the Comic Poet",
+    "ancient_greek": "Θεόπομπος ὁ Κωμικός"
+  },
+  "title": {
+    "english": "Fragments on Delphi and Agriculture",
+    "ancient_greek": "Ἀποσπάσματα περὶ Δελφῶν καὶ Γεωργίας"
+  },
+  "seo": {
+    "browser_title": "Fragments of Theopompus the Comic Poet on Eulogikon",
+    "meta_title": "Fragments of Theopompus the Comic Poet in Ancient Greek",
+    "meta_description": "Fragments from Theopompus Comic Poet on Delphi and farming. Greek comedy with religious humor. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Fragments on Delphi and Agriculture constitute a modern thematic grouping of five verse passages attributed to the Athenian comic poet Theopompus, a contemporary of Aristophanes. These excerpts originate from lost comedies and are preserved not directly but as quotations in later authors such as Athenaeus of Naucratis and various lexicographers. Typical of Old Comedy, their content features satire and social commentary. The fragments are categorized under two principal themes: the first satirizes the Oracle of Apollo at Delphi, its political influence, or the behavior of pilgrims; the second employs rural life and farming produce for humor, often contrasting it with urban politics and society. The fragments survive solely through indirect citation in later scholarly works, most notably Athenaeus’s <strong>Deipnosophistae</strong>, with the standard critical edition found in <strong>Poetae Comici Graeci</strong>. While their direct influence is untraceable, they exemplify the thematic range of Old Comedy. They provide valuable evidence for the popular reception of major institutions like the Delphic Oracle and for social history, including agricultural references and the Attic dialect.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "ἔπειτα κἀν Δελφοῖcιν ἀνετέθη γραφείc· ἀεὶ γεωργὸc εἰc νέωτα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "χρηcτὸc ἦν, πρῶτον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "πολὺ τὸν λιμὸν ἀποφεύγων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "ὁ δὲ ταῦρόc ἐcτιν ἀγόμενοc πρὸc τῷ νεῴ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "κἄχειν ἄμυναν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "efg-ab",
+      "title": {
+        "english": "Comic Fragments of Domestic Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Οἰκιακοῦ Κωμικά"
+      },
+      "url_slug": "theopompus-the-comic-poet-domestic-life-efg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/theopompus-the-comic-poet/domestic-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet-domestic-life-efg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet-domestic-life-efg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet-domestic-life-efg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet-domestic-life-efg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet/domestic-life.epub"
+      }
+    },
+    {
+      "eul_wid": "efg-aa",
+      "title": {
+        "english": "Comic Fragments on Food and Feasting",
+        "ancient_greek": "Ἀποσπάσματα περὶ Τροφῆς καὶ Εὐωχίας"
+      },
+      "url_slug": "theopompus-the-comic-poet-food-feasting-efg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theopompus-the-comic-poet/food-feasting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet-food-feasting-efg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet-food-feasting-efg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet-food-feasting-efg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet-food-feasting-efg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet/food-feasting.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "ios-ac",
+      "title": {
+        "english": "Fragments of Apocleiomene",
+        "ancient_greek": "Ἀποσπάσματα τοῦ Ἀποκλειωμένου"
+      },
+      "url_slug": "posidippus-of-cassandreia-apocleiomene-ios-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/posidippus-of-cassandreia/apocleiomene",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia-apocleiomene-ios-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia-apocleiomene-ios-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia-apocleiomene-ios-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia-apocleiomene-ios-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/apocleiomene.epub"
+      }
+    },
+    {
+      "eul_wid": "hmg-aa",
+      "title": {
+        "english": "Fragments of Comic Banter",
+        "ancient_greek": "Ἀποσπάσματα κωμικῆς σκώψεως"
+      },
+      "url_slug": "cratinus-the-younger-comic-banter-hmg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cratinus-the-younger/comic-banter",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-younger-comic-banter-hmg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-younger-comic-banter-hmg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-younger-comic-banter-hmg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-younger-comic-banter-hmg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-younger/comic-banter.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-aj",
+      "title": {
+        "english": "Fragments of Hero Known Elsewhere",
+        "ancient_greek": "Ἀποσπάσματα τοῦ Ἥρωος"
+      },
+      "url_slug": "menander-of-athens-hero-fragments-hps-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/hero-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-hero-fragments-hps-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-hero-fragments-hps-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-hero-fragments-hps-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-hero-fragments-hps-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/hero-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "eem-ab",
+      "title": {
+        "english": "Fragments on Banquets and Merriment",
+        "ancient_greek": "Ἀποσπάσματα περὶ Συμποσίων καὶ Εὐωχίας"
+      },
+      "url_slug": "apollophanes-of-athens-banquets-merriment-eem-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollophanes-of-athens/banquets-merriment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-of-athens-banquets-merriment-eem-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-of-athens-banquets-merriment-eem-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-of-athens-banquets-merriment-eem-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-of-athens-banquets-merriment-eem-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-of-athens/banquets-merriment.epub"
+      }
+    },
+    {
+      "eul_wid": "ino-ab",
+      "title": {
+        "english": "Fragments on Banquets and Vessels",
+        "ancient_greek": "Ἀποσπάσματα περὶ Συμποσίων καὶ Σκευῶν"
+      },
+      "url_slug": "epigenes-of-byzantium-banquets-vessels-ino-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/epigenes-of-byzantium/banquets-vessels",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigenes-of-byzantium-banquets-vessels-ino-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigenes-of-byzantium-banquets-vessels-ino-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigenes-of-byzantium-banquets-vessels-ino-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigenes-of-byzantium-banquets-vessels-ino-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigenes-of-byzantium/banquets-vessels.epub"
+      }
+    },
+    {
+      "eul_wid": "jag-ab",
+      "title": {
+        "english": "Fragments on Cookery and Philosophy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μαγειρικῆς καὶ Φιλοσοφίας"
+      },
+      "url_slug": "damoxenus-the-comic-poet-cookery-philosophy-ab-jag-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/damoxenus-the-comic-poet/cookery-philosophy-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet-cookery-philosophy-ab-jag-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet-cookery-philosophy-ab-jag-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet-cookery-philosophy-ab-jag-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet-cookery-philosophy-ab-jag-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet/cookery-philosophy-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "dxy-aa",
+      "title": {
+        "english": "Fragments on Daily Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ"
+      },
+      "url_slug": "pherecrates-the-comic-poet-daily-life-dxy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pherecrates-the-comic-poet/daily-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-daily-life-dxy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-daily-life-dxy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-daily-life-dxy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-daily-life-dxy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet/daily-life.epub"
+      }
+    },
+    {
+      "eul_wid": "iie-aa",
+      "title": {
+        "english": "Fragments on Life and Fortune",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου καὶ Τύχης"
+      },
+      "url_slug": "apollodorus-of-carystus-i-life-fortune-iie-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollodorus-of-carystus-i/life-fortune",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i-life-fortune-iie-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i-life-fortune-iie-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i-life-fortune-iie-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i-life-fortune-iie-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/life-fortune.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/theopompus-the-comic-poet/delphi-agriculture",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet-delphi-agriculture-efg-ac.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet-delphi-agriculture-efg-ac.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet-delphi-agriculture-efg-ac.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet-delphi-agriculture-efg-ac.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet/delphi-agriculture.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

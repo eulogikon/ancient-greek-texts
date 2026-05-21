@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "uza",
+  "auth_slug": "ephraem-of-aenus",
+  "name": {
+    "english": "Ephraem of Aenus",
+    "ancient_greek": "Ἐφραίμ ὁ Αἴνιος (Θρᾴκης)"
+  },
+  "seo_h1": "Ephraem of Aenus and the Verse Chronicle",
+  "seo": {
+    "browser_title": "Ephraem of Aenus on Eulogikon Greek Archive and Library",
+    "meta_title": "Classical Ephraem of Aenus Ancient Greek Historical Verse",
+    "meta_description": "Ephraem of Aenus was a 4th century CE historian from Thrace writing in Koine Greek verse. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Ephraem of Aenus was a 4th-century CE poet from the city of Aenus in Thrace. The 9th-century Byzantine scholar Photius provides the only significant record of him, noting his activity as a historian who wrote in verse. No further biographical details survive.</p>\n<p class=\"research-text\">His sole known work is a lost historical poem composed in iambic trimeter. Photius records that this verse history narrated events from the death of Emperor Carus in 283 CE to the death of Emperor Theodosius I in 395 CE.</p>\n<p class=\"research-text\">Ephraem represents the late antique tradition of historical epic, choosing verse to narrate contemporary Roman imperial history. His work’s citation by Photius indicates it retained some currency in later centuries. While its loss precludes direct assessment, its chronological scope would have covered a pivotal period from the Tetrarchy to the establishment of Nicene Christianity under Theodosius.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "uza-aa",
+      "title": {
+        "english": "Chronicle",
+        "ancient_greek": "Χρονικόν"
+      },
+      "url_slug": "ephraem-of-aenus-chronicle-uza-aa",
+      "passages": 661,
+      "links": {
+        "html": "https://eulogikon.org/grc/ephraem-of-aenus/chronicle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephraem-of-aenus-chronicle-uza-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephraem-of-aenus-chronicle-uza-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephraem-of-aenus-chronicle-uza-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephraem-of-aenus-chronicle-uza-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephraem-of-aenus/chronicle.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/ephraem-of-aenus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ephraem-of-aenus-uza.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ephraem-of-aenus-uza.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ephraem-of-aenus-uza.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ephraem-of-aenus-uza.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

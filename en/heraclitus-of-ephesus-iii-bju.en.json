@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "bju",
+  "auth_slug": "heraclitus-of-ephesus-iii",
+  "name": {
+    "english": "Heraclitus of Ephesus III",
+    "ancient_greek": "Ἡράκλειτος ὁ Ἐφέσιος"
+  },
+  "seo_h1": "Letters to Heraclitus of Ephesus",
+  "seo": {
+    "browser_title": "Heraclitus of Ephesus III on Eulogikon Greek Archive",
+    "meta_title": "Classical Heraclitus of Ephesus Ancient Greek Comedy Works",
+    "meta_description": "Heraclitus of Ephesus, Archaic Ionic comedy author from the 6th-5th centuries BCE. Surviving works include an epistle. Free to download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Heraclitus of Ephesus was an Archaic-period pre-Socratic philosopher active around 500 BCE. A native of Ephesus in Ionia from an aristocratic family, he was known for a misanthropic temperament and an oracular, obscure prose style, earning him the epithets &quot;the Obscure&quot; and &quot;the Weeping Philosopher&quot;. He deposited his sole known work in the temple of Artemis at Ephesus.</p>\n<p class=\"research-text\">Heraclitus authored a single prose treatise, commonly titled On Nature. The work survives in approximately 130 fragments and is characterized by its aphoristic, paradoxical style. It is not an epistle, and no comedic or epistolary works are attributed to him in authoritative sources.</p>\n<p class=\"research-text\">Heraclitus is a major figure for his doctrines of universal flux, the unity of opposites, and fire as the fundamental cosmic principle. His influential ideas on constant change and logos profoundly impacted later philosophy, including Plato, the Stoics, and Hegel.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "bju-aa",
+      "title": {
+        "english": "Letters to Heraclitus",
+        "ancient_greek": "Ἐπιστολαὶ πρὸς Ἡράκλειτον"
+      },
+      "url_slug": "heraclitus-of-ephesus-iii-letters-bju-aa",
+      "passages": 22,
+      "links": {
+        "html": "https://eulogikon.org/grc/heraclitus-of-ephesus-iii/letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-iii-letters-bju-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-iii-letters-bju-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-iii-letters-bju-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-iii-letters-bju-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-iii/letters.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/heraclitus-of-ephesus-iii",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-iii-bju.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-iii-bju.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-iii-bju.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-iii-bju.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

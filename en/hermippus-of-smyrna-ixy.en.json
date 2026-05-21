@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ixy",
+  "auth_slug": "hermippus-of-smyrna",
+  "name": {
+    "english": "Hermippus of Smyrna",
+    "ancient_greek": "Ἕρμιππος ὁ Σμυρναῖος"
+  },
+  "seo_h1": "Hermippus of Smyrna on Magi, Lawgivers, and Sages",
+  "seo": {
+    "browser_title": "Hermippus of Smyrna on Eulogikon Greek Archive and Library",
+    "meta_title": "Classical Hermippus of Smyrna Ancient Greek Biographies",
+    "meta_description": "Hermippus of Smyrna, a 3rd century BCE Hellenistic scholar. Surviving fragments of his works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Hermippus of Smyrna was a Greek scholar and biographer who lived during the 3rd century BCE in the Hellenistic period. He was a student of the poet Callimachus in Alexandria and is considered part of the Peripatetic tradition, the school of philosophy founded by Aristotle. A prolific writer, none of his works survive intact. They are known only through fragments quoted by later ancient authors.</p>\n<p class=\"research-text\">His writings were primarily biographies of famous figures, including lawgivers, philosophers such as Pythagoras and Aristotle, and orators like Isocrates. He also wrote on subjects such as the Seven Sages and magicians. Hermippus holds an important place in the history of biography. His works were a major source for later writers, most notably Diogenes Laërtius, who compiled lives of the philosophers.</p>\n<p class=\"research-text\">According to modern scholars, his biographical style blended factual cataloguing with colorful, anecdotal, and sometimes sensational stories about his subjects&#x27; lives and deaths. This approach means his fragments provide valuable information, though ancient critics also noted his reputation for including less reliable tales.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ixy-aa",
+      "title": {
+        "english": "On the Magi, Lawgivers, and Sages",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hermippus-of-smyrna-magi-lawgivers-sages-ixy-aa",
+      "passages": 90,
+      "links": {
+        "html": "https://eulogikon.org/grc/hermippus-of-smyrna/magi-lawgivers-sages",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-of-smyrna-magi-lawgivers-sages-ixy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-of-smyrna-magi-lawgivers-sages-ixy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-of-smyrna-magi-lawgivers-sages-ixy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-of-smyrna-magi-lawgivers-sages-ixy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-of-smyrna/magi-lawgivers-sages.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/hermippus-of-smyrna",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermippus-of-smyrna-ixy.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermippus-of-smyrna-ixy.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermippus-of-smyrna-ixy.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermippus-of-smyrna-ixy.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

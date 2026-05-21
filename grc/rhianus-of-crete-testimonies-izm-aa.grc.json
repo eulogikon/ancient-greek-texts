@@ -1,0 +1,291 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "izm-aa",
+  "eul_aid": "izm",
+  "author_slug": "rhianus-of-crete",
+  "work_slug": "testimonies",
+  "url_slug": "rhianus-of-crete-testimonies-izm-aa",
+  "author": {
+    "english": "Rhianus of Crete",
+    "ancient_greek": "Ῥιανὸς ὁ Κρής"
+  },
+  "title": {
+    "english": "Testimonies",
+    "ancient_greek": "Μαρτυρίαι"
+  },
+  "seo": {
+    "browser_title": "The Testimonies Epic by Rhianus of Crete on Eulogikon",
+    "meta_title": "Classical Testimonies by Rhianus of Crete in Ancient Greek",
+    "meta_description": "The Testimonies is a fragmentary epic by Rhianus of Crete. A Hellenistic work in Homeric Greek. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Testimonies</strong> is a fragmentary epic poem by the Hellenistic poet Rhianus of Crete, composed in the 3rd century BCE. Written in the traditional Homeric dialect, the work is preserved only through a handful of passages quoted by later ancient authors, primarily for their rare vocabulary or historical content. The original length and complete narrative scope of the poem are lost, but the surviving fragments suggest it was a learned, antiquarian work dealing with regional Greek history, local foundation myths, and heroic exploits. Its title implies a function as a poetic &quot;witness&quot; to these local traditions. Rhianus himself was a scholar-poet, originally a slave who later became a schoolmaster and an editor of Homeric texts, and his work exemplifies the erudite literary culture of the period. The <strong>Testimonies</strong> has no independent manuscript tradition and its direct influence is difficult to assess, but it remains a significant representative of the Hellenistic genre of historical epic.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "3a,265,T 1a",
+      "text": "SUDA s. Ῥιανός· ὁ καὶ Κρής (F 45), ὢν Βηναῖος (F 42)· Βήνη δὲ πόλις Κρήτης. τινὲς δὲ Κεραίτην, ἄλλοι δὲ Ἰθώμης τῆς Μεσσήνης αὐτὸν ἱστόρησαν. οὗτος δὲ ἦν τῆς παλαίστρας πρότερον φύλαξ καὶ δοῦλος, ὕστερον δὲ παιδευθεὶς ἐγένετο γραμματικός. σύγχρονος Ἐρατοσθένους. ἔγραψεν ἐμμέτρως †ποιήματα, Ἡρακλειάδα ἐν βιβλίοις 〈ι〉δ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3a,265,T 1b",
+      "text": "STEPH. BYZ. s. Βήνη· πόλις Κρήτης ὑπὸ Γόρτυν τεταγμένη. τὸ ἐθνικὸν Βηναῖος· Ῥιανὸς γὰρ ὁ ποιητὴς Βηναῖος ἦν ἢ Κερεάτης [ἢ] Κρής.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3a,265,T 2a",
+      "text": "ATHEN. 13, 100 p. 499D: Ῥιανὸς ὁ ἐποποιὸς ἐν Ἐπιγράμμασιν ....",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3a,265,T 2b",
+      "text": "MELEAGROS Anth. Pal. 4,1,11: τῆι δ’ ἅμα καὶ σάμψυχον ἀφ’ ἡδυπνόοιο Ῥιανοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3a,265,T 3",
+      "text": "SUETON. Tib. 70: fecit et Graeca poemata imitatus Euphorionem et Rhianum et Parthenium, quibus poetis admodum delectatus scripta omnium et imagines publicis bibliothecis inter veteres et praecipuos auctores dedicavit; et ob hoc plerique eruditorum certatim ad eum multa de his ediderunt.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "izm-ae",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "rhianus-of-crete-epigrams-izm-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/rhianus-of-crete/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-epigrams-izm-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-epigrams-izm-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-epigrams-izm-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-epigrams-izm-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "izm-ac",
+      "title": {
+        "english": "Fragments of the Achaean History",
+        "ancient_greek": "Ἀποσπάσματα τῆς Ἀχαϊκῆς Ἱστορίας"
+      },
+      "url_slug": "rhianus-of-crete-achaean-history-izm-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/rhianus-of-crete/achaean-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-achaean-history-izm-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-achaean-history-izm-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-achaean-history-izm-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-achaean-history-izm-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete/achaean-history.epub"
+      }
+    },
+    {
+      "eul_wid": "izm-ad",
+      "title": {
+        "english": "Fragments of the Messeniaca",
+        "ancient_greek": "Ἀποσπάσματα τῶν Μεσσηνιακῶν"
+      },
+      "url_slug": "rhianus-of-crete-messeniaca-izm-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/rhianus-of-crete/messeniaca",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-messeniaca-izm-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-messeniaca-izm-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-messeniaca-izm-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-messeniaca-izm-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete/messeniaca.epub"
+      }
+    },
+    {
+      "eul_wid": "izm-ab",
+      "title": {
+        "english": "On Human Folly and Divine Gifts",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "rhianus-of-crete-human-folly-divine-gifts-izm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/rhianus-of-crete/human-folly-divine-gifts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-human-folly-divine-gifts-izm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-human-folly-divine-gifts-izm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-human-folly-divine-gifts-izm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-human-folly-divine-gifts-izm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete/human-folly-divine-gifts.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "adc-aa",
+      "title": {
+        "english": "Epic Fragments",
+        "ancient_greek": "Ἐπικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "aristeas-of-proconnesus-fragments-adc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristeas-of-proconnesus/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristeas-of-proconnesus-fragments-adc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristeas-of-proconnesus-fragments-adc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristeas-of-proconnesus-fragments-adc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristeas-of-proconnesus-fragments-adc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristeas-of-proconnesus/fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "kog-ac",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "euphorion-of-chalcis-epigrams-kog-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/euphorion-of-chalcis/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis-epigrams-kog-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis-epigrams-kog-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis-epigrams-kog-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis-epigrams-kog-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "aau-af",
+      "title": {
+        "english": "Fragments on Genealogy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γενεαλογίας"
+      },
+      "url_slug": "hesiod-genealogy-fragments-aau-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/hesiod/genealogy-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod-genealogy-fragments-aau-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod-genealogy-fragments-aau-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod-genealogy-fragments-aau-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod-genealogy-fragments-aau-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/genealogy-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "kjq-ah",
+      "title": {
+        "english": "Historical Epic Fragment B",
+        "ancient_greek": "Ἱστορικὸν Ἐπικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "epic-fragments-anonymous-historical-fragment-ah-kjq-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/historical-fragment-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-historical-fragment-ah-kjq-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-historical-fragment-ah-kjq-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-historical-fragment-ah-kjq-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-historical-fragment-ah-kjq-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/historical-fragment-ah.epub"
+      }
+    },
+    {
+      "eul_wid": "euq-aa",
+      "title": {
+        "english": "Meropis Fragments",
+        "ancient_greek": "Μηροπίδος Ἀποσπάσματα"
+      },
+      "url_slug": "epic-meropis-anonymous-fragments-euq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-meropis-anonymous/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-meropis-anonymous-fragments-euq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-meropis-anonymous-fragments-euq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-meropis-anonymous-fragments-euq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-meropis-anonymous-fragments-euq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-meropis-anonymous/fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "bbi-aa",
+      "title": {
+        "english": "Minyas Fragments",
+        "ancient_greek": "Μινύου Ἀποσπάσματα"
+      },
+      "url_slug": "minyas-the-epic-poet-fragments-bbi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/minyas-the-epic-poet/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/minyas-the-epic-poet-fragments-bbi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/minyas-the-epic-poet-fragments-bbi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/minyas-the-epic-poet-fragments-bbi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/minyas-the-epic-poet-fragments-bbi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/minyas-the-epic-poet/fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "abe-ab",
+      "title": {
+        "english": "Odyssey",
+        "ancient_greek": "Ὀδύσσεια"
+      },
+      "url_slug": "homer-odyssey-abe-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer/odyssey",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-odyssey-abe-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-odyssey-abe-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-odyssey-abe-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-odyssey-abe-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer/odyssey.epub"
+      }
+    },
+    {
+      "eul_wid": "afk-aa",
+      "title": {
+        "english": "Sack of Ilium Fragments",
+        "ancient_greek": "Ἰλίου Πέρσις Ἀποσπάσματα"
+      },
+      "url_slug": "sack-of-ilium-fragments-afk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sack-of-ilium/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sack-of-ilium-fragments-afk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sack-of-ilium-fragments-afk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sack-of-ilium-fragments-afk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sack-of-ilium-fragments-afk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sack-of-ilium/fragments.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/rhianus-of-crete/testimonies",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-testimonies-izm-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-testimonies-izm-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-testimonies-izm-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-testimonies-izm-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete/testimonies.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

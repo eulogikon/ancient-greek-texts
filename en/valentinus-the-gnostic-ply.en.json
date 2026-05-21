@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ply",
+  "auth_slug": "valentinus-the-gnostic",
+  "name": {
+    "english": "Valentinus the Gnostic",
+    "ancient_greek": "Οὐαλεντῖνος ὁ Γνωστικός"
+  },
+  "seo_h1": "Valentinus the Gnostic and the Hymn of Creation",
+  "seo": {
+    "browser_title": "The Valentinus the Gnostic on Eulogikon Greek Archive",
+    "meta_title": "Valentinus the Gnostic Ancient Greek Works and Texts",
+    "meta_description": "Valentinus, 2nd century Christian theologian and founder of Valentinianism. Read his theological texts. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ Χριστιανική",
+      "english": "Christian Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Θεολογία",
+      "english": "Theology",
+      "href": "/domains/theology"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Gnostic",
+      "href": "/affiliations/gnostic"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Valentinus was a Christian theologian active in the 2nd century CE. He founded Valentinianism, which grew to become the most widespread school of Gnostic thought. According to early Christian writers, he was born in Egypt, received his education in Alexandria, and later taught in Rome from approximately 136 to 165 CE. A later tradition suggests he was a candidate for Bishop of Rome before breaking from the mainstream church. He possibly moved to Cyprus later in his life.</p>\n<p class=\"research-text\">None of Valentinus&#x27;s own writings survive intact. His ideas are known almost entirely from quotations and critiques by his theological opponents, such as Irenaeus of Lyons and Clement of Alexandria. A text from the Nag Hammadi library called the Gospel of Truth is Valentinian in content, but scholars debate whether Valentinus himself was its direct author. Other works, like &quot;On the Three Natures,&quot; are known only through fragments and reports.</p>\n<p class=\"research-text\">Valentinus&#x27;s historical importance lies in his sophisticated theological system, which presented a major alternative to early orthodox Christianity. His teachings combined Platonic and Christian ideas into a complex myth about the origin of the material world and salvation through divine knowledge, or gnosis. According to modern scholars, his school posed a significant intellectual challenge, prompting extensive refutations that ironically preserved his ideas. Valentinian communities and his influence persisted for several centuries.</p>\n</div>",
+  "affiliation_label": "Gnostic",
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ply-aa",
+      "title": {
+        "english": "Hymn of Valentinus",
+        "ancient_greek": "Ὕμνος Βαλεντίνου"
+      },
+      "url_slug": "valentinus-the-gnostic-hymn-ply-aa",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/valentinus-the-gnostic/hymn",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/valentinus-the-gnostic-hymn-ply-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/valentinus-the-gnostic-hymn-ply-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/valentinus-the-gnostic-hymn-ply-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/valentinus-the-gnostic-hymn-ply-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/valentinus-the-gnostic/hymn.epub"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "pdw",
+      "name": {
+        "english": "Basilides of Alexandria",
+        "ancient_greek": "Βασιλείδης ὁ Ἀλεξανδρεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/basilides-of-alexandria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/basilides-of-alexandria-pdw.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/basilides-of-alexandria-pdw.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/basilides-of-alexandria-pdw.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/basilides-of-alexandria-pdw.en.json"
+      }
+    },
+    {
+      "eul_aid": "ppa",
+      "name": {
+        "english": "Ptolemy the Gnostic",
+        "ancient_greek": "Πτολεμαῖος ὁ Γνωστικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/ptolemy-the-gnostic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ptolemy-the-gnostic-ppa.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ptolemy-the-gnostic-ppa.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ptolemy-the-gnostic-ppa.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ptolemy-the-gnostic-ppa.en.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/valentinus-the-gnostic",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/valentinus-the-gnostic-ply.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/valentinus-the-gnostic-ply.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/valentinus-the-gnostic-ply.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/valentinus-the-gnostic-ply.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

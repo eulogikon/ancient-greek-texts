@@ -1,0 +1,398 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "rrg-ce",
+  "eul_aid": "rrg",
+  "author_slug": "alchemist-i",
+  "work_slug": "lime-management",
+  "url_slug": "alchemist-i-lime-management-rrg-ce",
+  "author": {
+    "english": "Alchemist I",
+    "ancient_greek": "Χρυσοποιὸς Αʹ"
+  },
+  "title": {
+    "english": "Management of Lime",
+    "ancient_greek": "Οἰκονομία τῆς ἀσβέστου"
+  },
+  "seo": {
+    "browser_title": "Management of Lime by Alchemist I on the Eulogikon",
+    "meta_title": "Management of Lime by Alchemist I in Ancient Greek",
+    "meta_description": "Management of Lime is an alchemical treatise on properties processing of lime. This technical work discusses chemical transformations material preparation."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Management of Lime is a brief pseudepigraphical Greek alchemical treatise attributed to an author identified only as Alchemist I. Preserved within the broader corpus of Greek alchemical texts, it survives primarily in Byzantine manuscripts, most notably the tenth- or eleventh-century codex Marcianus graecus 299. The work is transmitted not as an independent text but as a short entry within larger alchemical anthologies, with its critical editions appearing in modern collections such as those of Berthelot and Ruelle and the Catalogue des Alchimistes Grecs. Its content consists of two passages of technical instruction focused on the preparation and use of lime as a reagent, detailing procedures involving the treatment of materials with waters of different colors and the management of sublimates. The treatise provides a window into the practical, workshop-based material practices of late antique alchemy. While its direct influence is obscure, as a minor technical recipe it contributes to the corpus of Greco-Egyptian and Byzantine alchemy, informing the tradition that would later influence Arabic and European proto-chemistry.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "ΑΛΛΗ ΟΙΚΟΝΟΜΙΑ ΤΗΣ ΑΣΒΕΣΤΟΥ Ἔνιοι δὲ ξανθὸν βαλόντες ὕδωρ ἐν ταῖς ἰώσεσιν ἢ λευκὸν κατὰ φύσιν ἅπαξ ἀνασπάσαντες ἠρκέσθησαν αἰθάλαις αἰθαλῶν, τὴν πρώτην καὶ τὴν δευτέραν μετὰ τὴν ἴωσιν κρίναντες. Ἔλεγεν γὰρ ὅτι οὐ τὸ πολλάκις ἀνάγεσθαι χαρίζεται τοῖς ὑγροῖς τὸν κάτοχον καὶ τὴν εἴσκρισιν, ἀλλ’ ἡ τῶν σωμάτων συμπλοκὴ, καὶ ἡ τῶν ὀργάνων ἰδιότης, καὶ ἡ διὰ τῆς κηροτακίδος διαφορὰ, καὶ ἡ ποσότης τῶν ἡμερῶν ἐν τῇ σήψει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.281",
+      "text": "Συμβαίνει δὲ τὸν ἰόχαλκον ταῖς πολλαῖς αἰθάλαις μὴ μόνον μελαίνεσθαι τῇ τῶν στερεῶν σωμάτων χροιᾷ βαπτόμενον, ἀλλ’ ἔσθ’ ὅτε καὶ δαπανᾶσθαι τελείως. Τοῦτο δὲ οἱ τελέσαντες παραχρῆμα ἑτέραις αἰθάλαις ὁμοχρώοις τῆς κινναβάρεως συνέμιξαν καὶ ἀπέθηκαν· ἡ αἰθάλη τῆς ὑδραργύρου αἰθάλῃ μιγεῖσα παραμονιμώτερον τηρεῖ τὸ ποίημα τῆς ὑδραργύρου· καὶ πάλιν τάχα οὖν ὑπὸ ἑτέρας τῆς φύσεωσνεφέλης κατέχεται.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "rrg-bq",
+      "title": {
+        "english": "Alchemical Fragment",
+        "ancient_greek": "Ἀλχημικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "alchemist-i-fragment-bq-rrg-bq",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/fragment-bq",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bq-rrg-bq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bq-rrg-bq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bq-rrg-bq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bq-rrg-bq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bq.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-br",
+      "title": {
+        "english": "Alchemical Fragment",
+        "ancient_greek": "Χημικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "alchemist-i-fragment-br-rrg-br",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/fragment-br",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-br-rrg-br.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-br-rrg-br.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-br-rrg-br.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-br-rrg-br.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-br.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-bs",
+      "title": {
+        "english": "Alchemical Fragment",
+        "ancient_greek": "Χημικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "alchemist-i-fragment-bs-rrg-bs",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/fragment-bs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bs-rrg-bs.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bs-rrg-bs.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bs-rrg-bs.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bs-rrg-bs.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bs.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-bt",
+      "title": {
+        "english": "Alchemical Fragment",
+        "ancient_greek": "Χημικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "alchemist-i-fragment-bt-rrg-bt",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/fragment-bt",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bt-rrg-bt.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bt-rrg-bt.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bt-rrg-bt.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bt-rrg-bt.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bt.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-bu",
+      "title": {
+        "english": "Alchemical Fragment",
+        "ancient_greek": "Ἀλχημικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "alchemist-i-fragment-bu-rrg-bu",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/fragment-bu",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bu-rrg-bu.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bu-rrg-bu.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bu-rrg-bu.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bu-rrg-bu.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bu.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-bv",
+      "title": {
+        "english": "Alchemical Fragment",
+        "ancient_greek": "Ἀλχημικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "alchemist-i-fragment-bv-rrg-bv",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/fragment-bv",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bv-rrg-bv.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bv-rrg-bv.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bv-rrg-bv.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bv-rrg-bv.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bv.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-bw",
+      "title": {
+        "english": "Alchemical Fragment",
+        "ancient_greek": "Ἀλχημικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "alchemist-i-fragment-bw-rrg-bw",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/fragment-bw",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bw-rrg-bw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bw-rrg-bw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bw-rrg-bw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bw-rrg-bw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bw.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-bx",
+      "title": {
+        "english": "Alchemical Fragment",
+        "ancient_greek": "Χημικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "alchemist-i-fragment-bx-rrg-bx",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/fragment-bx",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bx-rrg-bx.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bx-rrg-bx.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bx-rrg-bx.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bx-rrg-bx.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bx.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-cb",
+      "title": {
+        "english": "Alchemical Lexicon",
+        "ancient_greek": "Λεξικὸν κατὰ στοιχεῖον τῆς"
+      },
+      "url_slug": "alchemist-i-lexicon-rrg-cb",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/lexicon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-lexicon-rrg-cb.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-lexicon-rrg-cb.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-lexicon-rrg-cb.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-lexicon-rrg-cb.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/lexicon.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-by",
+      "title": {
+        "english": "Alchemical Treatise (Recension A)",
+        "ancient_greek": "Χημικὸν Σύγγραμμα"
+      },
+      "url_slug": "alchemist-i-treatise-by-rrg-by",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/treatise-by",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-treatise-by-rrg-by.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-treatise-by-rrg-by.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-treatise-by-rrg-by.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-treatise-by-rrg-by.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/treatise-by.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-bz",
+      "title": {
+        "english": "Alchemical Treatise (Recension B)",
+        "ancient_greek": "Χημικὸν Σύγγραμμα"
+      },
+      "url_slug": "alchemist-i-treatise-bz-rrg-bz",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/treatise-bz",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-treatise-bz-rrg-bz.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-treatise-bz-rrg-bz.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-treatise-bz-rrg-bz.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-treatise-bz-rrg-bz.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/treatise-bz.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-bl",
+      "title": {
+        "english": "Conclusion of the Poem",
+        "ancient_greek": "Συμπέρασμα τῆς ποιήσεως"
+      },
+      "url_slug": "alchemist-i-poem-conclusion-rrg-bl",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/poem-conclusion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-poem-conclusion-rrg-bl.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-poem-conclusion-rrg-bl.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-poem-conclusion-rrg-bl.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-poem-conclusion-rrg-bl.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/poem-conclusion.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "tyc-cd",
+      "title": {
+        "english": "Aerial Water",
+        "ancient_greek": "Τὸ ἀέριον ὕδωρ"
+      },
+      "url_slug": "zosimus-of-panopolis-aerial-water-tyc-cd",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/aerial-water",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-aerial-water-tyc-cd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-aerial-water-tyc-cd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-aerial-water-tyc-cd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-aerial-water-tyc-cd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/aerial-water.epub"
+      }
+    },
+    {
+      "eul_wid": "jhe-ab",
+      "title": {
+        "english": "Art of War Machines",
+        "ancient_greek": "Τέχνη πολεμικῶν μηχανημάτων"
+      },
+      "url_slug": "philo-of-byzantium-war-machines-jhe-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-byzantium/war-machines",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-byzantium-war-machines-jhe-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-byzantium-war-machines-jhe-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-byzantium-war-machines-jhe-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-byzantium-war-machines-jhe-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-byzantium/war-machines.epub"
+      }
+    },
+    {
+      "eul_wid": "tco-aa",
+      "title": {
+        "english": "Effects, Four Epitomes",
+        "ancient_greek": "Ἐπιπτώσεις"
+      },
+      "url_slug": "hephaestion-of-thebes-four-epitomes-tco-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hephaestion-of-thebes/four-epitomes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-four-epitomes-tco-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-four-epitomes-tco-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-four-epitomes-tco-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-four-epitomes-tco-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes/four-epitomes.epub"
+      }
+    },
+    {
+      "eul_wid": "odi-ap",
+      "title": {
+        "english": "Geodesy",
+        "ancient_greek": "Γεωδαισία"
+      },
+      "url_slug": "hero-of-alexandria-geodesy-odi-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/geodesy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-geodesy-odi-ap.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-geodesy-odi-ap.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-geodesy-odi-ap.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-geodesy-odi-ap.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/geodesy.epub"
+      }
+    },
+    {
+      "eul_wid": "suc-aa",
+      "title": {
+        "english": "On Music",
+        "ancient_greek": "Περὶ Μουσικῆς"
+      },
+      "url_slug": "aristides-the-music-theorist-text-suc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-music-theorist/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-music-theorist-text-suc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-music-theorist-text-suc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-music-theorist-text-suc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-music-theorist-text-suc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-music-theorist/text.epub"
+      }
+    },
+    {
+      "eul_wid": "nuw-ac",
+      "title": {
+        "english": "On Pulses",
+        "ancient_greek": "Περὶ παλμῶν ἀρχομένου ἀπὸ κεφαλῆς ἕως ποδῶν"
+      },
+      "url_slug": "melampus-the-diviner-pulses-nuw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/melampus-the-diviner/pulses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-pulses-nuw-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-pulses-nuw-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-pulses-nuw-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-pulses-nuw-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner/pulses.epub"
+      }
+    },
+    {
+      "eul_wid": "liq-ab",
+      "title": {
+        "english": "On the Moving Sphere",
+        "ancient_greek": "Περὶ τῆς κινούμενης σφαίρας"
+      },
+      "url_slug": "autolycus-of-pitane-moving-sphere-liq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/autolycus-of-pitane/moving-sphere",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autolycus-of-pitane-moving-sphere-liq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autolycus-of-pitane-moving-sphere-liq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autolycus-of-pitane-moving-sphere-liq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autolycus-of-pitane-moving-sphere-liq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autolycus-of-pitane/moving-sphere.epub"
+      }
+    },
+    {
+      "eul_wid": "tyc-ax",
+      "title": {
+        "english": "Zosimus-Instruments and Furnaces",
+        "ancient_greek": "Ζωσίμου περὶ ὀργάνων καὶ καμίνων"
+      },
+      "url_slug": "zosimus-of-panopolis-instruments-furnaces-ax-tyc-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/instruments-furnaces-ax",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-instruments-furnaces-ax-tyc-ax.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-instruments-furnaces-ax-tyc-ax.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-instruments-furnaces-ax-tyc-ax.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-instruments-furnaces-ax-tyc-ax.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/instruments-furnaces-ax.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/alchemist-i/lime-management",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-lime-management-rrg-ce.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-lime-management-rrg-ce.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-lime-management-rrg-ce.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-lime-management-rrg-ce.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/lime-management.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "vsq",
+  "auth_slug": "barbarism-and-solecism-anonymous",
+  "name": {
+    "english": "Barbarism and Solecism Treatise",
+    "ancient_greek": "Περὶ βαρβαρισμοῦ καὶ σολοικισμοῦ πραγματεία"
+  },
+  "seo_h1": "The Treatise on Barbarism and Solecism in Late Antique Grammar",
+  "seo": {
+    "browser_title": "Barbarism and Solecism Treatise on Eulogikon Greek Archive",
+    "meta_title": "Barbarism and Solecism Ancient Greek Grammar Treatise",
+    "meta_description": "Late antique grammatical treatise on barbarism solecism from 2nd to 6th century CE. Two works on linguistic correctness. Free to download from Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The author of the treatise <strong>On Barbarism and Solecism</strong> is anonymous. This grammatical work dates from the Late Antique period, spanning approximately the second to sixth centuries CE, when such technical handbooks were central to the Greek educational system known as <strong>paideia</strong>. The author would have been a grammarian working within the established educational framework to teach the norms of classical Attic Greek.</p>\n<p class=\"research-text\">The primary work is the treatise <strong>On Barbarism and Solecism</strong>, which systematically addresses linguistic errors. While the available metadata notes a works count of two, no other specific titles by this author are identified in the sources.</p>\n<p class=\"research-text\">Treatises on barbarism, which denoted a word-level error, and solecism, a syntactic error, were foundational to the grammatical curriculum. They served a prescriptive function, policing what was considered correct Greek against the evolving common Koine dialect. This analytical framework, originating with the Stoic philosophers and later systematized by Alexandrian grammarians, became standard doctrine. The work is significant for understanding the linguistic ideologies and educational practices of the Greek-speaking world under Roman rule.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "vsq-aa",
+      "title": {
+        "english": "On Barbarism and Solecism (Long)",
+        "ancient_greek": "Περὶ βαρβαρισμοῦ καὶ σολοικισμοῦ"
+      },
+      "url_slug": "barbarism-and-solecism-anonymous-text-aa-vsq-aa",
+      "passages": 12,
+      "links": {
+        "html": "https://eulogikon.org/grc/barbarism-and-solecism-anonymous/text-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/barbarism-and-solecism-anonymous-text-aa-vsq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/barbarism-and-solecism-anonymous-text-aa-vsq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/barbarism-and-solecism-anonymous-text-aa-vsq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/barbarism-and-solecism-anonymous-text-aa-vsq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/barbarism-and-solecism-anonymous/text-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "vsq-ab",
+      "title": {
+        "english": "On Barbarism and Solecism (Short)",
+        "ancient_greek": "Περὶ βαρβαρισμοῦ καὶ σολοικισμοῦ"
+      },
+      "url_slug": "barbarism-and-solecism-anonymous-text-ab-vsq-ab",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/barbarism-and-solecism-anonymous/text-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/barbarism-and-solecism-anonymous-text-ab-vsq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/barbarism-and-solecism-anonymous-text-ab-vsq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/barbarism-and-solecism-anonymous-text-ab-vsq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/barbarism-and-solecism-anonymous-text-ab-vsq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/barbarism-and-solecism-anonymous/text-ab.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/barbarism-and-solecism-anonymous",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/barbarism-and-solecism-anonymous-vsq.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/barbarism-and-solecism-anonymous-vsq.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/barbarism-and-solecism-anonymous-vsq.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/barbarism-and-solecism-anonymous-vsq.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

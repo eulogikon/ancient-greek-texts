@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "hjo-aa",
+  "eul_aid": "hjo",
+  "author_slug": "calanus-letters-anonymous",
+  "work_slug": "alexander",
+  "url_slug": "calanus-letters-anonymous-alexander-hjo-aa",
+  "author": {
+    "english": "Letters of Calanus Anonymous",
+    "ancient_greek": "Ἐπιστολαὶ τοῦ Καλάνου"
+  },
+  "title": {
+    "english": "Kalanos to Alexander",
+    "ancient_greek": "Ἐπιστολή"
+  },
+  "seo": {
+    "browser_title": "Letter of Kalanos to Alexander by Calanus on Eulogikon",
+    "meta_title": "Letter of Kalanos to Alexander by Calanus in Ancient Greek",
+    "meta_description": "A pseudepigraphic letter from the Indian ascetic Calanus to Alexander the Great.fictional work addresses the king. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The letter known as &quot;Kalanos to Alexander&quot; is a pseudepigraphic epistle attributed to the Indian gymnosophist Calanus and addressed to Alexander the Great. Composed in Attic Greek during the Hellenistic or Roman Imperial period, the work belongs to a popular genre of philosophical letters that use famous historical figures as mouthpieces for ethical instruction. The text survives only in two fragmentary passages. In these, Calanus rebuffs Alexander&#x27;s attempts to compel the Indian philosophers, arguing that while a ruler may move bodies from place to place, he cannot force a soul to act against its will. The letter contrasts the philosopher&#x27;s pursuit of spiritual freedom and inner fortitude—symbolized by the sage&#x27;s mastery over the pain of fire—with the external, coercive power of kingship. It further distinguishes the practical, deed-oriented philosophy of the Indian sages from the rhetorical exercises of Greek philosophers. Transmitted within medieval manuscript collections of Alexander-related pseudepigrapha, the epistle employs the common Greco-Roman literary trope of the wise Eastern ascetic offering corrective counsel to the archetypal conqueror, thereby critiquing imperial ambition and celebrating philosophical autonomy.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Κάλανος Ἀλεξάνδρῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Φίλοι πείθουσι χεῖρας καὶ ἀνάγκην προσφέρειν Ἰνδῶν φιλοσόφοις, οὐδ’ ἐν ὕπνῳ ἑορακότες ἡμέτερα ἔργα. σώματα γὰρ μετοίσεις ἐκ τόπου εἰς τόπον, ψυχὰς δὲ οὐκ ἀναγκάσεις ποιεῖν ἃ μὴ βούλονται μᾶλλον ἢ πλίνθους καὶ ξύλα φωνὴν ἀφεῖναι. πῦρ μεγίστους τοῖς ζῶσι σώμασι πόνους καὶ φθορὰν ἐργάζεται· τούτου ὑπεράνω ἡμεῖς γινόμεθα, ζῶντες καόμεθα. οὐκ ἔστι βασιλεὺς οὔτε ἄρχων, ὃς ἀναγκάσει ἡμᾶς ποιεῖν ἃ μὴ προαιρούμεθα. Ἑλλήνων δὲ φιλοσόφοις οὐκ ἐξο μοιούμεθα, ὅσοι αὐτῶν εἰς πανήγυριν λόγους ἐμελέτησαν, ἀλλὰ λόγοις ἔργα παρ’ ἡμῖν ἀκόλουθα, καὶ ἔργοις λόγοι βραχεῖς ἄλλην ἔχουσι δύναμιν, καὶ μακαριότητα καὶ ἐλευθερίαν περιποιοῦντες.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "okg-ee",
+      "title": {
+        "english": "Agesilaus",
+        "ancient_greek": "Ἀγησίλαος"
+      },
+      "url_slug": "plutarch-of-chaeronea-agesilaus-okg-ee",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/agesilaus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agesilaus-okg-ee.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agesilaus-okg-ee.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agesilaus-okg-ee.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agesilaus-okg-ee.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agesilaus.epub"
+      }
+    },
+    {
+      "eul_wid": "uzu-ae",
+      "title": {
+        "english": "Commentary on On the Soul",
+        "ancient_greek": "Σχόλια εἰς τὰ περὶ ψυχῆς Ἀριστοτέλους"
+      },
+      "url_slug": "simplicius-of-cilicia-commentary-aristotle-ae-uzu-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/simplicius-of-cilicia/commentary-aristotle-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-commentary-aristotle-ae-uzu-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-commentary-aristotle-ae-uzu-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-commentary-aristotle-ae-uzu-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-commentary-aristotle-ae-uzu-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/commentary-aristotle-ae.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-az",
+      "title": {
+        "english": "Moderate or Fond of Children",
+        "ancient_greek": "Μετριοπαθὴς ἢ φιλότεκνος"
+      },
+      "url_slug": "themistius-moderate-children-rye-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/moderate-children",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-moderate-children-rye-az.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-moderate-children-rye-az.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-moderate-children-rye-az.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-moderate-children-rye-az.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/moderate-children.epub"
+      }
+    },
+    {
+      "eul_wid": "ovu-aa",
+      "title": {
+        "english": "Opinions (Stobaean Tradition)",
+        "ancient_greek": "Περὶ Δογμάτων Ἀπολείμματα"
+      },
+      "url_slug": "aetius-the-doxographer-doctrines-remnants-aa-ovu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aetius-the-doxographer/doctrines-remnants-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-aa-ovu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-aa-ovu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-aa-ovu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-aa-ovu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer/doctrines-remnants-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "pza-ab",
+      "title": {
+        "english": "Pythagorean Sentences (Recension B)",
+        "ancient_greek": "Γνῶμαι Πυθαγορείων"
+      },
+      "url_slug": "pythagoreans-sayings-sentences-ab-pza-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/pythagoreans-sayings/sentences-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings-sentences-ab-pza-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings-sentences-ab-pza-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings-sentences-ab-pza-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings-sentences-ab-pza-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings/sentences-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-ab",
+      "title": {
+        "english": "Remains of Homeric Questions Pertaining to the Odyssey",
+        "ancient_greek": "Λείψανα Ὁμηρικῶν ζητημάτων περὶ τὴν Ὀδύσσειαν"
+      },
+      "url_slug": "porphyry-of-tyre-homeric-questions-odyssey-udm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/homeric-questions-odyssey",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-odyssey-udm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-odyssey-udm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-odyssey-udm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-odyssey-udm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-odyssey.epub"
+      }
+    },
+    {
+      "eul_wid": "eoc-ab",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "ocellus-of-lucania-testimonies-eoc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/ocellus-of-lucania/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-testimonies-eoc-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-testimonies-eoc-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-testimonies-eoc-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-testimonies-eoc-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania/testimonies.epub"
+      }
+    },
+    {
+      "eul_wid": "sno-ad",
+      "title": {
+        "english": "To the Council and People of Athens",
+        "ancient_greek": "Ἀθηναίων τῇ βουλῇ καὶ τῷ δήμῳ"
+      },
+      "url_slug": "julian-the-apostate-council-people-sno-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/julian-the-apostate/council-people",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-council-people-sno-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-council-people-sno-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-council-people-sno-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-council-people-sno-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/council-people.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/calanus-letters-anonymous/alexander",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/calanus-letters-anonymous-alexander-hjo-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/calanus-letters-anonymous-alexander-hjo-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/calanus-letters-anonymous-alexander-hjo-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/calanus-letters-anonymous-alexander-hjo-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/calanus-letters-anonymous/alexander.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

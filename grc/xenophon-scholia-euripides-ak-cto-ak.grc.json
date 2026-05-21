@@ -1,0 +1,4750 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "cto-ak",
+  "eul_aid": "cto",
+  "author_slug": "xenophon-scholia",
+  "work_slug": "euripides-ak",
+  "url_slug": "xenophon-scholia-euripides-ak-cto-ak",
+  "author": {
+    "english": "Xenophon Scholia",
+    "ancient_greek": "Ξενοφῶντος Σχόλια"
+  },
+  "title": {
+    "english": "Scholia-Euripides",
+    "ancient_greek": "Σχόλια εἰς Εὐριπίδην"
+  },
+  "seo": {
+    "browser_title": "Scholia on Euripides by Xenophon the Grammarian on Eulogikon",
+    "meta_title": "Classical Scholia on Euripides by Xenophon in Ancient Greek",
+    "meta_description": "Ancient scholia by Xenophon providing grammatical commentary on Euripides' tragedies. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Scholia on Euripides</strong> is a corpus of ancient grammatical and explanatory annotations preserved in the margins of medieval manuscripts containing the plays of Euripides. These notes represent a layered compilation of scholarship from various periods, primarily the Byzantine era, and serve as a critical resource for textual criticism, lexicography, and literary interpretation. The scholia address a wide range of subjects, including variant readings, explanations of rare vocabulary, clarifications of mythological and historical allusions, and observations on meter and dramatic technique. Their transmission is uneven across the Euripidean corpus, with some plays possessing extensive commentary and others very little. While a grammarian named Xenophon is recorded in the <strong>Suda</strong> lexicon as an author of commentaries, a specific, discrete collection of Euripidean scholia attributed to him is not substantiated by the major manuscript traditions or standard scholarly references. Regardless of precise authorship, the Euripidean scholia as a whole are an indispensable tool for modern editors and critics, preserving valuable fragments of lost ancient scholarship and illuminating the history of the text&#x27;s reception and interpretation from antiquity through the Middle Ages.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 870md",
+      "text": "συγ〈γίνωσκε〉 (M int.) 2Huv συγ〈γίνωσκε μὲν ..?.〉 (BM) 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 875md",
+      "text": "δια〈θήσω καλῶς:〉 (M int.) 2Huv.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 879md",
+      "text": "ποί〈α δύναμίς σοι συμ‐〉 βάλλ〈εται ..?.〉 (M int.) 2Huv ἀνδρ〈ῶν ..?.〉 καὶ ἁμι〈λληθῆναι ..?.〉 νικῆ〈σαι ..?.〉 * 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 880(?)md",
+      "text": "ο̣υ̣ς̣ ἀν̣〈..?.〉 δ̣ε̣πιν̣〈..?.〉 α̣(vel λ̣)ιπα̣ς̣ 〈..?.〉 8Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 884md",
+      "text": "ἀκα〈ταμάχητον:〉 (M int.) 2H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 884-6(?)md",
+      "text": "διὰ τη〈..?.〉 2H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 886md et mi",
+      "text": "αἴγυπτος 〈καὶ δαναὸς ἀδελφοὶ〉 ἦσαν ἀπὸ ἰ〈οῦς τῆς ἰνάχου θυ‐〉 γατρός· τ〈ούτων ὁ μὲν αἴγυπτοσ〉 ἔσχε ν π〈αῖδας ἄρρενας ὁ δὲ δα〉 ναὸς εἶ〈χε καὶ αὐτὸς ν θυγα‐〉 τέρας· οὗτ〈ος φθονῶν τῷ ἀδελφῷ〉 αἰγύπτῳ 〈διὰ τὴν τῶν ἀρρένων〉 παίδων κτ〈ῆσιν καὶ φοβη‐〉 θεὶς ὅπ〈ως μὴ ὑπ’ αὐτῶν〉 ἐκβλη〈θῇ ἐκ τῆς βασιλείασ〉 ἀνδρωθ〈έντων τῶν υἱῶν αὐτοῦ〉 ἐδίωξεν 〈αὐτὸν εἰς τὴν αἴγυπτον〉 ἅμα τ〈οῖς παισὶν ὅθεν καὶ〉 ἀπ’ αὐτοῦ ἡ χώρα αἴγυπτος ἐκλήθη· χώρας δέ τινος γενομένου καὶ τῶν παίδ〈ων〉 [para]ἀνδρωθέντων θαρρῶν 〈τῇ τῶν παίδων(?) vide appar.〉 δυνάμει παρεγένετο εἰς τὸν ἄργος· ὁ δὲ δαναὸς [para]φοβηθεὶς αὐτὸν καὶ πρόνοιαν ἑαυτοῦ [para]ποι〈ούμενος καὶ ἐπιβου‐〉 λὴν κατὰ τῶν τοῦ αἰγύπτου υἱῶν τοιαύτην [para]ἐσκέψατο· συνέθετο γὰρ τῷ αἰγύπτῳ συνάψαι [para]ἐ̣π̣ὶ̣ γ̣〈άμον τὰς θυγατέρασ〉 τοῖς υἱοῖς αὐτοῦ· ἑτοίμως δὲ τοῦτο κατεπη̣γγειλάμενος [para]τῷ αἰγύπτῳ συνεβούλ〈ευσε ταῖς θυγάτρασιν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 886md et mi",
+      "text": "ὁ δαναὸσ〉 ὥστε ἀνελεῖν νύκτωρ τοὺς ἑαυτῶν ἄνδρας πρὸ [para]τῆς μίξεως 〈θάνατον ἐπαπειλήσας ταῖς μὴ τοῦτο ποιούσαις:〉 (BM) 2H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 887int",
+      "text": "supra καὶ λῆμνον gloss. ...τ̣ἐ̣κ̣... εκτ.σ̣ε̣ν̣ 1Huv supra ἄρδην gloss. παντελῶς M int. 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 892int",
+      "text": "〈δ〉ιὰ μ〈ᾶ〉λλον 〈σὸ〉ν χ〈ρ〉έος [para]ἤπ〈ερ ἐκ〉είνης· (BM) οὐ το〈σ〉οῦτον [para]γὰρ αὐτὴν ὠφελήσεις ὅσον σαυτὸν: * 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 893mi",
+      "text": "〈σ〉ὺ δὲ κάλε〈σον〉 καὶ τοὺς ἐξ ἐκείνου [para]παῖδας ὡς ὅτι δ〈ε〉ῖ καὶ τούτους [para]εἰδέναι τοὺς ἡμετέρους λόγο〈υς:〉 BM 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 886msi",
+      "text": "(de pagina superiore sequitur) 〈..?. ὧν ὁ μὲν ἀλκαῖοσ〉 〈ἀμφιτρύωνα ἔσχε〉 παῖδα 〈ὁ δὲ ἠλεκτρύων τὴν ἀλ〉κμή‐ 〈νην· ἐξ ἀλκμήνης ἡρακ〉λῆς 〈καὶ ἰφικλῆς (vel –ος) ἐξ οὗ ἰόλα〉ος: (BM) 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 887msi et mi",
+      "text": "(de pagina superiore sequitur) 〈πελασγοὶ ταῖς ἀθή〉ναις ἐπιθέ 〈μενοι ἥρπασαν ἄλλα τε〉 καὶ γύναια 〈ἃ εἰς λῆμνον ἤγαγον〉 καὶ χρησά‐ 〈μενοι ἐπαιδοπο〉ίησαν· αἱ δὲ τοὺς παῖδας [para]τὴν πάτριον φώνην καὶ τὰ ἤθη ἐδίδαξεν· [para]οἱ ἡ〈β〉ή〈σαντεσ〉 φί〈λ〉οι τε ἀλ‐ 〈λήλοις ἦσαν καὶ ἠμύναν〉το τοὺς ἀδικοῦντας τέλος [para]δὲ καὶ 〈ἄρ〉χοντα ἑαυτοῖς ἐπέστησαν ἐφ’ ο〈ἷ〉ς ἀγανακτήσαντες οἱ πατέρες· (scholium ad 920 hic intercedit) 〈αὐτούς τε καὶ τὰς μητέρασ〉 ἀνεῖλον· μετὰ [para]δὲ ταῦτα αἱ λημνιάδες τοὺς σὺν θόαντι ἀνεῖλον· 〈δι’ ἄμφω οὖν ἡ παρο〉ιμία ἐδόθη· τὰ λήμνια κακά: (M) 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 896msi",
+      "text": "〈..?. ἵνα οὗτοι οἱ〉 〈δύο ἀδελφοὶ πλησίο〉ν μιᾷ 〈φλογὶ κρυφθῶσι χ〉θονί: (BM) 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 897int",
+      "text": "μέριμναι καὶ ἀλγηδόνες τῇ μητρί (BM) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 898msi",
+      "text": "〈οὐ καλῶς φησι ταῦτα ὁ ἀγαμέ〉μνων 〈ἐχρῆν γὰρ αὐτὸν ἅπα〉ξ δόν‐ 〈τα τὴν χάριν σιωπῆσαι καὶ〉 μὴ 〈ἐλέγξαι τὴν ἑαυ〉τοῦ γνώ 〈μην· οὐ γὰρ (vel ἀλλ’ οὐκ) ἀνάγκ〉ῃ ὑπεί 〈κειτο βασιλεὺς ὤν (vel ἀφίησιν):〉 (BM) 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 900int",
+      "text": "supra ἵης’ gloss. ἀφίησιν M int. 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 901int",
+      "text": "supra ἤσυχον gloss. γαληνόν (M int.) 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 902msi",
+      "text": "〈εἴη δὲ πραχθῆναι〉 τὸ 〈κατὰ σὲ καλῶς ὅτι〉 καὶ πᾶσι 〈καταθύμιον τοῦτο· ὁ〉 γὰρ φό‐ 〈νον δράσας κοινὸν τ〉οῖς ἀν‐ 〈θρώπους ἀδ〉ίκημα 〈ἐποίησε λυμ〉ηνάμενος 〈τῷ κοινῷ νόμ〉ῳ καὶ ἀδι‐ 〈κήσας τὸ τῆς φύ〉σεως ὁμο‐ 〈ιογενές:〉 (BM) 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 906int",
+      "text": "καταριθμήσῃ * 1H vel 2H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 907int",
+      "text": "περικαλύπτει (M int.) 1H vel 2H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 908int",
+      "text": "ὑπὸ τοῦ δόρατος πορθηθεῖσα * 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 909int",
+      "text": "τὸ κάλλος τὴν ἐξοχὴν τοῦ τείχους (M int.) 2Huv ἀπεκόπης: (M int.) 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 910msi",
+      "text": "〈τοῦ ἀπὸ αἰθάλησ〉 καὶ πυρὸς 〈γενομένου καπνοῦ· ῥ〉υπαρίαν 〈τοῦ μελαίνοντος κα〉πνοῦ: (B int. M int.) 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 911int",
+      "text": "supra κηλῖδ’ gloss. ῥύπον * 1Huv supra κέχρωσαι gloss. κεκάπνισαι κέκαυσαι: M int. 2Huv post κέχρωσαι gloss. βάρος μίασμα m int. 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 912/13int",
+      "text": "post ἐμβατεύω gloss. ἐπιβήσομαι εἰσελθῶ εἰς σέ: M int. 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 914int",
+      "text": "post ὠλλύμαν gloss. ἀ̣παν̣έσθην 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 915msi",
+      "text": "ἡνίκα: (B int. M) 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 915int",
+      "text": "supra δείπνων gloss. πείνων ὕπνος * 2Huv post ὄσσοις gloss. τοῖς ὀφθαλμοῖς (B int. M) 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 916(?)sqq msi",
+      "text": "〈..?.〉θῆσαν σε̣ 〈..?.〉 τὸ πλῆ‐ 〈..?.〉ο̣ς 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 920mi",
+      "text": "〈..?. τὸ〉 δὲ ἀκόντιον ἐπὶ τῶν [para]πασσάλων ἐκρέματο ἐπεὶ τὸν [para]τῶν ἑλλήνων 〈οὐκ ἐθεω〉ροῦμεν ἐν τῇ τροίᾳ· τὸ δὲ ἀκόντιον εἶπεν ἀπὸ μέρους ὅλα τὰ ὅπλα: (BM) 2H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1127(?)md",
+      "text": "...ι̣ν̣τι.π..ε̣ι̣ (= τί ποιεῖς?) 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1127md",
+      "text": "ἀττικ〈ῶσ〉 τ̣〈ὸ〉 οὗτος· σ̣ὺ̣ 〈δηλονότι〉 M int. 3Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1128int",
+      "text": "supra ἐφεῖναι gloss. ἐκ̣β̣αλεῖν * 1H supra μαργῶσαν gloss. τ̣ὴ̣ν̣ μ〈ε〉μηνυῖαν M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1128md",
+      "text": "μ〈αι〉ν〈ο〉μ〈έν〉αν 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1129md",
+      "text": "τὸ θυμ〈ι〉κὸν: M int. V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1130md",
+      "text": "ἀνὰ μ〈έροσ〉 ἐκείνης: * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1131int",
+      "text": "supra ἀνθ’ ὅτου gloss. τίνος ἕ〈ν〉εκ〈α〉 * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1134int",
+      "text": "gloss. illegibile in rasura u.v.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1135md",
+      "text": "πρ〈ο〉κατάσκοπος· π〈ροορα‐〉 τὴς· καραδ〈ο〉κητής: BMV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1137int",
+      "text": "supra προμηθίᾳ gloss. πρ〈ον〉οίᾳ * 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1137md",
+      "text": "πρ〈ο〉γνώσει M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1141int",
+      "text": "post δόρυ γρ. στόλον (vide appar.) 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1141md",
+      "text": "ἐπαρεί〈αν〉 κινήσεια〈ν〉 M int. V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1142md",
+      "text": "κ〈α〉τατρί〈β〉οιεν διαφ〈θεί‐〉 ροι〈εν ἡ〉μᾶς τοὺς θρ〈ῇκας:〉 B int. M int. V int. H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1143int",
+      "text": "post κακὸν gloss. 〈λείαν [para]ἀ〉πελ〈αύ〉νο〈ντες:〉 (M int V int) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1147md",
+      "text": "θησαυρούς M int. V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1150msi",
+      "text": "〈ἱ〉ζόμην· ἐκαθ〈εζ〉όμ〈ην〉 (M) 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1151msi",
+      "text": "〈χε〉ῖρες: ἀντὶ τοῦ γυναῖκες 〈ἀ〉πὸ μέρους τὸ πᾶν ὡς 〈τὸ〉 τοίην γὰρ κεφαλὴν 〈ἀ〉ντὶ τοῦ ἄνδρα: BMV 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1153msi",
+      "text": "〈κ〉έρκιδα τὸ ἱμάτιον τὸ 〈γε〉νόμενον ἐκ τῆς θρᾳκικῆς 〈χει〉ρός· ἀπὸ δὲ τοῦ ποιοῦν 〈τοσ〉 τὸ ποιούμενον ὠνόμασεν· BMV 〈ἄλλ〉ως: κερκίδας θρᾳ‐ 〈κικ〉ὰς κατέχουσαι· ἠδωνοὶ 〈γὰρ ο〉ἱ θρᾷκες: BM 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1153int",
+      "text": "supra ’θάκουν gloss. ..γ.ν̣τ̣.. 1Huv supra κερκίδ’ gloss. τὸ ἱμ〈άτι〉ον ... * 4H supra χερὸς gloss. δ̣.ο̣ 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1154int",
+      "text": "supra ᾔνουν gloss. ἐπῄνουν κ〈α〉τέχ〈ου〉σαι M int. 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1155int",
+      "text": "supra κάμακα gloss. ἀκόντιον * 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1155msi",
+      "text": "〈ἄλ〉λαι δὲ τὸ θρᾳκικὸν ἀ‐ 〈κόν〉τιον θεωροῦσαι: B M int. V int. 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1156msi",
+      "text": "〈διπ〉τύχου στολίσματος τι̣‐ 〈νὲσ〉 διπαλτίας ἀλλ’ οὐκ ἐᾷ 〈τὸ κ〉άμακα ἑνικόν· B M V int. στολίσματα καὶ ἀλ‐ 〈λαχοῦ οὐκ〉 ἀγκυλωτοῖς θεσ‐ 〈σαλῶν〉 στοιχίσμασιν: (M) 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1157int",
+      "text": "supra ὅσαι gloss. .λ.. (?)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1157msi",
+      "text": "ὅσαι δὲ τοκάδες 〈φησ〉ὶ 〈ἦ〉σαν τετοκυῖαι τὰ 〈ἐμ〉ὰ παιδία λαβοῦσαι ὡς εὐει‐ 〈δῆ ὄ〉ντα ἐθαύμαζον (ἐξεθαυ– p.c.) ἄλ‐ 〈λη τ〉ῇ ἄλλῃ ἀνὰ μέρος 〈ἀποδι〉δοῦσα ὅπως 〈ἐμοῦ〉 τοῦ πατρὸς πορρωτά‐ 〈τω γέ〉νοιντο καὶ εὐχερώτατα 〈αὐταῖ〉ς εἴη π〈ρὸσ〉 ἀν〈αί〉ρεσιν: BMV 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1158int",
+      "text": "supra πρόσσω gloss. μακράν * 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1160int",
+      "text": "supra κᾳτ’ gloss. ἔπειτα * 8H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1160msi et mi",
+      "text": "〈εἶ〉τα ἐκ κολακι〈κῶν〉 καὶ ἡ〈συ‐〉 〈χίων vel χων〉 προσφωνημάτων ὅπ〈ωσ〉 〈δοκεῖσ〉 κεντοῦσι παῖδας· BMV 2Huv καλῶς δὲ πρῶτον ἀπέκτειναν τοὺς παῖδας ἵνα θεωρῶν ὁ πατὴρ 〈ἀ〉νιῷτο: BV 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1170mi",
+      "text": "〈τὸ ἑξ〉ῆς· ἐμῶν γὰρ ὀμμάτων τὰς ταλαιπώρους κόρας: B int. M int. 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 811msu",
+      "text": "μετὰ δὲ ταῦτα δυσδαίμων ἄλλη [para]ἔρις αὔξεται κατὰ τοὺς οἴκους [para]τοῦ οἰ〈δίποδος τῶν παίδων· κακοὶ γὰρ〉 ὄντες κακὰ πάσχουσιν ὡς παρὰ φύσιν τεχθέντες: (B M int. V) 2Hun",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 812int",
+      "text": "αὐξάνει ἔρχεται * 8H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 813int",
+      "text": "supra οἰδίποδα gloss. .ουτ.. (?)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 814md",
+      "text": "οὐ γάρ ποτε 〈τοῦτο καλόν ἐστιν εἴπερ αὐτὸ τὴν〉 ἀρχὴν ἀπὸ ῥ〈ίζης μὴ ἔφυ καλόν· τοῦτο〉 δὲ λέγει διὰ τὸν οἰ〈δίποδα παρανόμως γήμαντα〉 τὴν μητέρα καὶ παρα〈νόμως παῖδας τεκόντα· τοῦτο〉 οὖν φησ〈ὶ〉 τὸ μὴ 〈καλῶς γενόμενον οὔποτε [para]ἐπαινέσομεν〉 (B M int. V) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 815int",
+      "text": "οὐδὲ ἄνοιμοι παῖδες καλὸν μητρὶ λόχευμα· M int. V int. 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 816int",
+      "text": "supra λόχευμα gloss. τὸ γ〈έν〉ν〈η〉μα * 4H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 817int",
+      "text": "supra δὲ gloss. 〈ἀντὶ〉 γάρ M int. V int. 1Huv supra συναίμονος gloss. ἑ̣α̣υ̣τ̣ῆ̣ς̣ [para]παίδων ο̣ὑ̣ * 3Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 818md",
+      "text": "ἔτεκες ποτὲ ὦ γῆ 〈γένναν ὀδοντοφυῆ〉 σπαρτὴν τὰν ἀπ〈ὸ φοινικολόφοιο δρά〉 κοντος ὡς ποτὲ 〈ἠκούσαμεν κατὰ τὴν〉 βάρβαρον ἀκοὴν 〈ἡμῶν ἐν τῇ πατρίδι οὖσαι·〉 θηρότροφον δὲ γέ〈νναν περιφραστικῶς τοὺσ〉 σπαρτοὺς διότ〈ι ἀπὸ θηρίου τοῦ δρά〉 κοντος ἐτέχθησαν· τά〈σσεται δὲ τὸ τραφῆναι〉 καὶ ἐπὶ τοῦ γε〈ννηθῆναι ἢ ἐπὶ τοῦ αὐξη‐〉 θῆναι καὶ ἀνα〈δοθῆναι ἀπὸ τῆς γῆς:〉 (BMV) 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 820int",
+      "text": "τοῦ 〈ἐ〉ν θηρσὶ τ〈ρ〉αφέ〈ντ〉ος [para]δρ〈ά〉κον〈το〉ς M int. V int. 1Huv supra φοινικολόφοιο gloss. ξάνθ〈ου〉 κε̣φαλ〈ῆσ〉 * 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 821int",
+      "text": "supra κάλλιστον gloss. μ̣〈άλ〉α * 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 821md",
+      "text": "κάλλιστον κλέο〈ς ταῖς θήβαις αὐτοὺσ〉 τοὺς σπάρτους 〈φησίν· ἔστι δὲ ὄνειδοσ〉 τῶν μέσων λέξεων ὡς 〈καὶ τύχη καὶ ζῆλος [para]καὶ δόλοσ〉 BMV 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 822int",
+      "text": "supra ἁρμονίας gloss. ξυμμίξεως * 1H supra ὑμεναίους gloss. ἡ 〈σ〉ύ̣ζ〈ευξισ〉 * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 823md",
+      "text": "καὶ τοῦτο εἰς 〈εὐδαιμονίας λόγον〉 ταῖς θήβαις συνέβ〈η τὸ ὑπὸ τῆς ἀμφίο‐〉 νος λύρας τειχισ〈θῆναι:〉 BMV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 824int",
+      "text": "supra πύργος gloss. πόλις * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 825int",
+      "text": "supra ποταμῶν πόρον gloss. τὸν περάσιμον τόπον B int. M int. V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 825mi",
+      "text": "περὶ τὸν μέσον πόρον τῶν διδύμων ποταμῶν [para]τῆς δίρκης· ἥτις σχιζομέν〈η δύο ἀποτελεῖ πο‐〉 ταμοὺς οὓς καὶ διδύμους ἐκάλεσεν ἐπεὶ ἐξ [para]ἑνὸς οἱ δύο ἀ〈ποτελοῦνται:〉 BV 2Huv (in religatione celatum, in codice ipso legere potui) 〈..?. ἔμπροσθ〉εν τοῦ ἰσμηνοῦ κατ〈αδύεται· [para]οὗ〉τοι γάρ εἰσιν οἱ δύο πο〈ταμοὶ, ἡ δίρκη [para]καὶ ὁ ἰσμηνός:〉 (BV) 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 826int",
+      "text": "supra ἀμπέδιον gloss. ἣ̣ * 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 828md",
+      "text": "πρὸς ἅπασι δὲ το〈ύτοις καὶ ἰὼ ἔχουσιν οἱ〉 θηβαῖοι προ〈μήτορα:〉 MV 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 830msu",
+      "text": "〈τὴν οὕτως μακαρίαν οὐκ ἀπεικὸσ〉 [para]τὸν ἐπελθόντα πόλεμον ἀπώσασθαι: (BMV) [para]ἄλλως· ἤδη τοσαῦτα πλεο‐ 〈νεκτήματα εὐτυχήσασα〉 καὶ ἄλλως ἄλλους ἀμειψαμένη νῦν ἐπὶ ξυροῦ πολέμου ἕστηκεν: BV 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 831int",
+      "text": "post ἄκροις gloss. ἐπ’ ἀγωνίσμασι [para]πολεμι〈κ〉οῖς (B int. M int. V) 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 834int",
+      "text": "supra θύγατερ gloss. μ̣α̣ν̣τώ̣ * (?) supra ὥς gloss. 〈ὅ〉τι * 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 835int",
+      "text": "τοῖς μὴ βαίνειν δυναμένοις * 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 840int",
+      "text": "ο (= οὕτω?) τόπου ὅπου ἐμαντεύετο ὁ τειρεσίας BV 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 841int",
+      "text": "ἀντὶ τοῦ τέκνον ἐμὸν καθ’ ἡλικίαν B int M int. V int. 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 841-3(?)msi",
+      "text": "〈..?.〉ά 〈..?.〉π̣ι̣ 〈..?.〉ε̣ρ̣ 〈..?.〉π̣ω̣ (?)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 844int",
+      "text": "supra πυκνὴν gloss. πολλήν * 2Huv supra ἤλυσιν gloss. ἔκ〈β〉ασιν * 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 846int",
+      "text": "supra ἐξορμίσαι gloss. στῆσαι· ἐξαρμόσ〈αι〉 * 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 847md",
+      "text": "ἕλ〈κε〉σθαι δι〈ὰ τῶν〉 ἵπ‐ πων * 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 848int",
+      "text": "supra ἀναμένειν gloss. [para]〈ὁ〉δ〈η〉γ〈ήμ〉ατ〈α〉 M int. V int. 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 852int",
+      "text": "supra ἐρεχθειδῶν gloss. ἀθ̣η̣〈ναίων〉 * 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 854mi",
+      "text": "〈ἐπίτηδες πρὸς ἔπαινον τῶν ἀ〉θηναίων [para]ἀνακεχρόνισται· τέτρασι γενεαῖς [para]προύχοντα τοῦ θηβαικοῦ 〈πολέμου: ἦν δὲ ὁ εὔμολποσ〉 θραικῶν βασιλεὺς ὃς λέγεται ἐλθεῖν εἰς [para]ἐλευσῖνα ἐπὶ τῷ 〈μυηθῆναι τὰ ἐλευσίνια· καὶ πρῶτος ἱστορεῖται ξ〉ένος μυηθῆναι· διὸ καὶ ἀπ’ αὐτοῦ ἄρχοντες (in religatione celatum in codice ipso legere potui) 〈ἐγένοντο〉 ἱεροῖσιν εὐμολπίδαι ἀθήνησιν· [para]οὗτος συνεμάχησεν ἐλευσινίοις [para]στασιάζουσι κατὰ τοῦ βασιλέως [para]ἐρεχθέως καὶ ἡττη‐ 〈θεὶς ἐφονεύθη· ὕστερον〉 δὲ κατὰ [para]πυθόχρηστον ἐτιμήθη καὶ ὁ τάφος [para]αὐτοῦ ἱερ〈ώθη διὰ τὸ πρῶτον〉 〈τὰ ἐλευσίνια μεμυῆσθαι· τινὲς δὲ υἱὸν [para]ποσε〉ιδῶνος ὃν ἐκίνησε κατ’ ἀθηναίων τῷ ἡττηθῆναι παρὰ τὴν ἔριν τῆς ἐλαίας: (BMV) 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 856md",
+      "text": "στεφάνους ἔχουσιν ἐν τῷ πολέμῳ ἵνα νικῶντες ἀν〈α‐〉 δοῖντο: BMV 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 857int",
+      "text": "supra πολεμίων gloss. ε̣ή̣να̣ 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 858md",
+      "text": "σημεῖον ἐθέμην τοῦτο καὶ ἡ μᾶς νικῆσαι B int. MV 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 860int",
+      "text": "supra δαναϊδῶν gloss. 〈ἀρ〉γείων * 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 867int",
+      "text": "supra λέξω gloss. τ〈ὸ ἑ〉ξης· 〈λ〉έξω σ〈οι〉 B int. M int. 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 868int",
+      "text": "post θεῶν gloss. παρὰ προαίρεσιν M int. V int. 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 868md",
+      "text": "τέκνου πατὴρ ἐγένετο· ἀντὶ τοῦ ἐτέκνωσε· κατὰ ἀπαρίθμησιν δὲ προάγει τὸν λόγον: ἀπὸ τοῦ λαΐου ἀρξάμενος καὶ κατέβη εἰς τοὺς περὶ ἐτεοκλέα καὶ πολυνείκην: BMV 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 869int",
+      "text": "supra πόσιν gloss. λ̣ά̣ι̣ο̣ς̣ * 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 870int",
+      "text": "supra αἵ θ’ gloss. λ̣〈είπει〉 κ̣α̣ὶ̣ * 1H supra δεργμάτων gloss. βλεμμάτων * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 871md",
+      "text": "ἐπίνοια θεῶν· ἵνα πᾶ‐ σι δειχθῇ μὴ παρακούειν θεῶν· BM int. V [para]παραίνεσις εἰς τὸ μὴ παραβῆναι τὸ θεῖον: M int. 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 873md et mi",
+      "text": "ὡς δὴ μέλλοντες ἐκ τού‐ του τὴν τῶν θεῶν κρίσιν ὑπερβῆναι καὶ μέχρι τούτου οἰόμενοι στήσειν αὐτοῖς τὸ κακὸν τοὺς θεοὺς· διὰ τοῦ συγκλείειν τὸν [para]πατέρα· περιτρέχοντες· κεκρι‐ μένον δὲ ἦν τοῖς θεοῖς ὥστε καὶ αὐτοὺς ἀλλήλους ἀποκτεῖναι: BMV 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 876int",
+      "text": "supra ἔπνευς’ gloss. ἐφθέγξατο (M int. V int.) 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 877int",
+      "text": "supra πρὸς gloss. πλ̣έ〈ον〉 * 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 878msi",
+      "text": "τί οὐ δρῶν· ποῖα δ’ οὐ λέγων: (BMV) 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 879msi",
+      "text": "γρ. ἀντὶ τοῦ εἰς ὄχλον ἦλθον· ἀντὶ τοῦ εἰς ὄχλη〈σιν·〉 (B int. MV) 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 884int",
+      "text": "supra συγκατασκάπτῃ gloss. 〈δια〉φθαρ〈ή〉σῃ M int. V int. 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 886msi",
+      "text": "πρωτεῦον αἱρετώτερον: ἔθος ποιητικὸν ἀπὸ τοῦ γάρ ἄρχεσθαι〈· ὅμη〉ρος ὦ φί‐ λοι οὐ γάρ τε ἴδμεν ὅπῃ ζόφου: (BMV 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 888msi",
+      "text": "ὡς κακοδαιμονοῦντας ὡς σκλήρῳ δαίμονι καὶ ἀπανθρώπῳ 〈κατ〉εχομένους: B M int. 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 889md",
+      "text": "ἐπικρατέστερον ὅ〈μηροσ〉 ἐπεὶ τὰ χε‐ ρείονα νικᾷ: (BMV) 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 891int",
+      "text": "ἄλυπον λυπή〈σω〉 γάρ σε: B int. M 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 891md",
+      "text": "λείπει τὸ βούλομαι * 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 894msi",
+      "text": "κἀγὼ αὐτὸς εἷς ὢν μ〈ε〉τὰ πολλῶν τῶν θηβαίων ἀπο〈λ〉οῦ‐ μαι· τοῦτο γὰρ εἵμαρτ〈αι:〉 BMV 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 895int",
+      "text": "supra εἰ χρή gloss. δ̣ε̣. τόν * 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 897md",
+      "text": "ἡ εὐτυχία φεύ〈γει〉 σ〈ε〉 ἀλλ’ 〈οὐ〉κ [para]ἐγὼ δ̣έ̣. μέλλει γὰρ μετ’ ὀλίγον ὁ παῖς [para]αὐτοῦ ἀναιρεῖν ἑαυτόν: BMV 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 899mi",
+      "text": "ἀντὶ τοῦ οὐκ ἀρέσει σοι ἡ ἀκοὴ: ἀλλ’ [para]εὐθέως μεταβληθήσῃ ἐπὶ τῇ [para]ἀκοῇ: BMV 2Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1602int",
+      "text": "supra χρῆν gloss. ἀπέκειτο * 8Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1603int",
+      "text": "supra μαστὸν ποθοῦντα gloss. μαστοῦ [para]χρῄζοντα B int. M int. V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1606md",
+      "text": "ἀλλὰ δου̣λ̣ε̣ῦ̣σ̣α̣ι̣ μ̣ο̣ι̣ καὶ τοῦτο εὐήθως· οὐ γὰρ δ〈οῦλον〉 αὐτὸν ἐποίησεν ὁ πόλυ〈βοσ〉 ἀλλὰ φαμὲν· ὅτι ἕνεκ〈α τοῦ〉 εἰς οἶκτον κινῆσαι το〈ῖσ〉 θ̣〈εωμέν〉οις 〈τ〉αῦτα ὁ ποιητ〈ὴς ἐτεχνά〉 σατο ἢ ὅτι οἱ περιπεσ〈όντες συμ‐〉 φοραῖς καὶ τὰς προτέ〈ρας εὐδαι‐〉 μονίας δυστυχίας καλο〈ῦσιν:〉 BMV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1607int",
+      "text": "οὐ〈χ〉 υἱὸς ἦ〈ν〉 ἀλλ’ ε̣.εός̣ * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1611md",
+      "text": "θέλει εἰπεῖν ὅτι εἵ〈μαρτο〉 αὐτὸν ταῦτα παθεῖν κ̣α̣ὶ̣ 〈γένει·〉 ὁ γὰρ λάιος φησὶ γνοὺς 〈μὴ〉 κατὰ βούλησιν θεῶν γεγο〈νότα〉 με κατηγορήσατ〈ο ἵνα〉 δηλώση ὅτι ἀποθ〈άνω·〉 ἐγὼ δὲ ἀπὸ 〈σ〉καιοῦ δα〈ίμονοσ〉 τὰς παρ’ ἐκείνου ἀρὰς δ〈εξάμενοσ〉 παρέδωκα καὶ το〈ῖς ἐξ〉 ἐμοῦ παισίν: BMV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1617md",
+      "text": "οἶδα τοῦτο ὅτι 〈εἰ ἔζη〉 συνήθως ἄν με ἐχ〈ειρα‐〉 γώγησεν: BM 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1621-22md",
+      "text": "γνώ〈μη〉 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1625md",
+      "text": "μολύνειν (gloss. χρῴζειν) * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1625mi",
+      "text": "καλῶς εἶπας ὅτι οὐχ ἱκετεύσω σε· εἰ γὰρ [para]καὶ σὺ δ̣〈ῆ〉τ̣α ἠθέλησας ἐγὼ οὐ συνεχώρου〈ν:〉 BM 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1627msi",
+      "text": "τῶν μὲν τῶν νεκρῶν B int. M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1627int",
+      "text": "supra τὸν μὲν gloss. ἐτεοκλέα * 3Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1629msi",
+      "text": "τὸν δὲ πολυνείκους νεκρόν: B int. M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1633msi",
+      "text": "ἀντὶ τοῦ θάπτ〈ων〉 B int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1633int",
+      "text": "ἀντὶ τῆς ταφῆς θάνατον λή〈ψετ〉αι B int. M int. V 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1637int",
+      "text": "παρ〈θένοσ〉 δίαγε ἐκδεχομέν〈η〉 τὴν [para]ἑ〈ξ〉ῆς ἡμέραν B M int. V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1645int",
+      "text": "supra θεσμοποιεῖς gloss. νομοθετεῖς B M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1647msi",
+      "text": "ἄφρο〈να τ〉ὰ β〈ου〉λεύμ〈ατα〉 B M V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1648msi",
+      "text": "εἰς πέρας ἄγειν· B M int. V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1651msi",
+      "text": "ἀπὸ κοι‐ νοῦ τὸ οὐ δικαίως· ἀνόσιον τοῦτο φησὶ τοιαύτην τιμω‐ ρίαν α〈ὐτ〉ὸν ἀπ〈αι〉τεῖν· τὸ ἄταφον εἶναι: (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1653msu",
+      "text": "(in religatione celatum in codice ipso legere potui) 〈ὁ δὲ λόγος· οὐκ〉 ἔδωκεν οὖν τῇ ἀποβάσει τὴν κόλασιν· δαίμονα δέ φησι τὸ ἐξ εἱμαρμένης· τύχῃ δὲ τῇ 〈κατὰ πόλεμον συν‐〉 τυχία· οὐκοῦν φησὶν ἀρκέσθητι [para]τῷ θανάτῳ ὃν ἔτυχεν αὐτὸν [para]ἐν τῷ πολέμ〈ῳ ἀνατλῆναι:〉 (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1653int",
+      "text": "supra δαίμονα gloss. τῶν ψυχῶ̣ν̣ σ̣τ̣ο̣υ̣ * 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1655int",
+      "text": "supra τὸ gloss. ὅτι * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1655md",
+      "text": "τί 〈πλημμελήσας ἀπῄ‐〉 τη〈σε τὸ μέρος:〉 BMV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1657int",
+      "text": "supra ἀπεννέπῃ gloss. κωλύῃ * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1662md",
+      "text": "ταῦ〈τα ἔκρινεν ὁ δαίμων〉 οὐ〈χ ἃ σὺ βούλει:〉 B M V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1664int",
+      "text": "supra ὡς gloss. 〈ο〉ὕτως * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1664md",
+      "text": "λε〈πτὴν πρὸς ἀντιδιαστολὴν〉 τῆς 〈ἐριβώλακος· ὅμηρος χυτὴν〉 ἐ〈πὶ γαῖαν ἔχευαν·〉 (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1667int",
+      "text": "supra νεκρῷ λουτρὰ gloss. ἀντὶ ἀπολοῦσαι * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1669int",
+      "text": "τὰ ῥάκη 〈ἃ〉 φαμὲν καταδέσμους B 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1669md",
+      "text": "εἰ〈ώθασι γὰρ ἐπιμελεῖσθαι τῶν〉 τρ〈αυμάτων τῶν νεκρῶν ὑπὲρ τοῦ αὐτοὺσ〉 εὐσχ〈ήμονας φαίνεσθαι:〉 BM 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1671int",
+      "text": "ὁ ἀλλὰ ἀντὶ τοῦ καί· ἢ ἀντὶ τοῦ δή παραπληρωματικοῦ: B int. M 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1671md",
+      "text": "ὦ 〈φίλτατε πολύνεικεσ〉 π〈ροσπτύξομαι κἂν τὸ σὸν〉 σ̣τ̣〈όμα ἐπεὶ οὐ συγχωροῦμαι〉 θ〈άψαι σε:〉 BM 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1672md et mi",
+      "text": "〈οὐχὶ κτήσῃ τοῖσ〉 γ〈όοις συμφορὰς εἰσ〉 γάμους· ἢ τ〈ὸ ου〉 ἀντὶ μη B M V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1674mi",
+      "text": "ποῖ γὰρ ἄπε〈ι〉 τὸ λέχος [para]ἐκφυγοῦσα B int. M int. V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1675int",
+      "text": "supra ἕξει μία gloss. ἔσται μία * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1675mi",
+      "text": "ἐμὲ ὡς μία ἕξει τῶν δαναίδ〈ων:〉 B int. M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1677msu",
+      "text": "(in religatione celatum in codice ipso legere potui) γινωσκέτω τὸ ξίφος· ὅρκος γάρ μοι [para]αὐτὸ τὸ ξίφος: B int. M int. V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1680msi",
+      "text": "〈ἀντὶ τοῦ γενναίως μὲν πρ〉άτ‐ 〈τεις μωρῶς δέ:〉 B M V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1680int",
+      "text": "εὐγένεια καὶ μωρία ἔ̣ν̣〈εστ〉α̣ι̣ σοι (B M V int.) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1681msi",
+      "text": "〈καὶ συναποθνῄ〉σκω 〈φησὶν αὐτῷ ἵνα〉 πλέον τι 〈μαθῄς ..?.〉 (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1681int",
+      "text": "supra περαιτέρω gloss. πτ̣.ς..ε̣ρ̣ς̣.πο̣ν̣ 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1684msi",
+      "text": "〈ἠθικῶς τοῦτο προσενεκτέο〉ν 〈καὶ δεῖ συνυπακ〉ούειν 〈τὸ καλῶς ἂν ἔχοι〉 〈ἐγὼ γαμοίμην〉 καὶ σὺ 〈μόνος φεύγεις πά〉τερ· 〈συναπτέον δὲ τὸ ἀλ〉λ’ εἰ 〈γαμοίμην τῷ ἑξῆς ..?.〉 (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1687msi",
+      "text": "〈πεσὼν κείσομαι ἐν〉 ἐκεί 〈νῳ τῷ τόπῳ ὅπου〉 μοι 〈μοῖρά ἐστιν:〉 BMV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1687int",
+      "text": "supra πεσὼν γρ. θανών * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1688int",
+      "text": "supra αἰνίγματα gloss. οἱ ἀ〈σ〉αφεῖς λόγοι * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1689(?)msi",
+      "text": "infra ὄλωλ’ gloss. ἀπώ̣λ̣〈εσεν〉 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1689msi",
+      "text": "ὅτε 〈τὸ αἴνι〉γμα 〈..?. ἀπ〉ώ‐ 〈λεσε ..?.〉 〈..?. αρχ〉ῆ〈σ〉 〈..?.〉 〈..?. θεσ〉μὸν: (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1691int",
+      "text": "supra αἰσχρὰ gloss. αἰσχύνης ἀξία̣ * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 106md",
+      "text": "post τάδε gloss. ἑλγ̣. 3Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 108msu",
+      "text": "τοῦτο κακονόως εἶπεν· βούλεται [para]μὴ παρθ〈ένον〉 δεῖξαι τὴν ἠλέκτραν· [para]τῷ μὴ πεισθῆναι αὐτῇ: (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 108int",
+      "text": "supra ἕρπειν gloss. κυρίως ἐπὶ ὄφ〈εω〉ς M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 109md",
+      "text": "ἀντὶ τοῦ τροφεῖα· ἀνθ’ ὧν ἀ‐ νετράφη ὑ̣π’ 〈αὐ〉τῆς: (M int. V) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 115int",
+      "text": "supra γάλακτος gloss. μετὰ γάλακτος (M int.) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 115md",
+      "text": "δαψιλ〈ῆ〉 τοῦ οἴνου καὶ ῥύσιν διὰ γὰρ τῆς ἄχνης τοῦτο ἐσήμη‐ νεν· οἱ δὲ οἰνόχροα τρί‐ χα φασί: (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 121md",
+      "text": "μέμνηται καὶ αὐτῶν ἵνα μὴ δόξῃ παντελῶς λιθοκάρ‐ διος 〈εἶναι〉: (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 122md",
+      "text": "ἅπερ δὲ π〈ρ〉έπει τοὺς τεθνηκό‐ τας παρὰ τῶν 〈ζ〉ώντω̣ν̣ λαμβάνειν ταῦ τα 〈ὑ〉πισχνοῦ τῇ ἐμῇ ἀδελφῇ: (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 126md et mi",
+      "text": "οἱ μὲν τὴν εὐπρ〈έ〉πει〈αν〉 φασὶ τοῦ σώ‐ ματος καὶ τὸ κάλλος· οἱ δὲ τὸν τρόπον καὶ τὴν φύσιν ἑκάστου· ὡς μέγα κακὸν ὁ φαῦλος τρόπος καὶ ἐπιβλαβὴς τοῖς κεκτημένοις· καὶ πάλιν ἐπωφελὴς, [para]τοῖς καλῶς κεκτημένοις: (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 127mi",
+      "text": "σωτήρι〈όν〉 τε: πολλοὶ γὰρ τὸ κάλλος ἐπὶ σωτηρίᾳ ἑαυτῶν [para]καὶ πατρίδος ἐκτήσαντο: (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 128int",
+      "text": "supra εἴδετε gloss. 〈ἴ〉δο〈ι〉 τ〈ι〉ς * 1H supra reliquum versum ἔνιοι δὲ 〈φασὶ〉 [para]ταῖς δμωαῖσι ταῦτα λέγειν ὃ ἄμεινον· (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 129mi",
+      "text": "ἤτοι πονηρὰ· ἢ τὰ αὐτὰ φ〈ρονοῦσα〉 ἃ καὶ πρότερον· τοῦ γὰρ ..θ̣ωφ̣... [para]εἶναι εὔμορφος ἐπιμελεῖται· ἐλέγχει δὲ αὐτὴν ὡς μὴ δέπω· 〈..?.〉 (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 130-154msu",
+      "text": "τ̣.. η̣",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 131msi",
+      "text": "τὸ κατὰ μέρος εἰποῦσα ἐπῄνεγκε τὸ καθολοῦ: (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 131int",
+      "text": "supra πᾶσαν add. θ’ (textum emend.) 3Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 135msi",
+      "text": "ἐ̣ξ̣ὀρῶν 3Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 138msi",
+      "text": "ἀντὶ τοῦ πραεῖα προσφιλής (M int. V int.) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 140md",
+      "text": "εἶδος ὑποδ〈ήματοσ〉 γυναικείου κοίλου: B M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 141msi",
+      "text": "ποιητικῶς· ἀντὶ τοῦ τιθῶμεν· εἰσελήλ〈υ〉θε δὲ 〈ὁ〉 χορὸς ἔσω: BV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 142int",
+      "text": "τὸ ὁλόκληρον τινὲς τοῦτο φασὶ ἀπόπροθι (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 144msi",
+      "text": "τοῦτο ε〈ἰ〉κὸς ὀξύτερον ε̣ἰ̣π̣εῖν τὸν χορόν· διὸ̣ καὶ ἡ ἠλέκ̣τ̣ρα περιδεὴς γενο〈μέν〉η εἶπεν ἆ ἆ· φυσικῶς αὕτ〈η〉 εἶπεν ἐπειδὴ̣ πρώτη φωνὴ ὑπὸ τ〈ῆς φ〉ύσεως 〈εὕ〉ρ〈ητ〉αι: (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 145md",
+      "text": "ἀθορύβως φώνει ὥσπερ πνο〈ὴ〉 δό‐ νακος· μὴ . αὐλ〈οῦ〉· οὗτ〈οσ〉 γὰρ 〈καὶ〉 ἐνδ〈υ〉μίων〈α〉 ἐ̣γεί〈ρ〉ε̣ι̣· (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 147msi",
+      "text": "μικρ〈όν〉 μοι φησὶ κελεύειν ἁδ’ ὡς ψ〈ιθ〉υρί〈ζ〉ει κάλα‐ μος ἀνέμου πνοῇ· ἐγὼ δὲ καὶ 〈ἐλ〉άττονα α〈ὐτοῦ〉 φέρω βοήν: (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 147md",
+      "text": "ὄροφος κάλαμος ἐ〈στ〉ιν τ̣έ̣ καὶ παπυρώδ〈ησ〉: (B int. M int.) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 149int",
+      "text": "πρόσελθε πρόσελθε ἀφ’ οὗ καὶ καταγωγαὶ οἱ λιμένες: (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 151msi",
+      "text": "ἀντὶ τοῦ ἀπὸ π〈ο〉λλοῦ χρόνου· τοῦτο δὲ ἀναφορὰν ἔχει πρὸς τὸ πρόσιθ’ ἀ‐ τρέμας: (B M int. V) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 154mi",
+      "text": "τὴν περὶ αὐτοῦ τύχην· πότερον [para]ἐπὶ τὸ χεῖρον· ἢ ἐπὶ τὸ ἄμεινον νενευ‐ κέναι: B int. M 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 156md",
+      "text": "οἰκειούμενος ὁ χορὸς τὰς συμφορὰς [para]καὶ συναχθόμενος γεγωνότερον ἐξεβό‐ ησε τὸ ὦ τάλας· διὸ φησὶν ὀλεῖς [para]εἰ βλέφαρα κινήσεις: BMV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 159md",
+      "text": "τὸν βαθύτατον ὕπνον (B int. MV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 160int",
+      "text": "supra ἐργμάτων gloss. πράξε〈ων〉 * 8Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 160md",
+      "text": "μέλεος αὐτὸς διὰ τὰς ἐκ θεῶν πράξεις· ἀρνεῖται δέ πως τὴν τοῦ ὀρέστου πράξιν· εἰς θεὸν ἀναφέρων ταῦτα: (B int. MV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 162int",
+      "text": "supra ἄδικα gloss. ἀδίκως M int. V int. 1H supra ἔλακεν gloss. εἶπεν * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 162md",
+      "text": "τοῦτ’ ἐστὶ τὸ ἀλλαχοῦ εἰρημένον· [para]πρὸς τὰς τύχας γὰρ τὰς φρένας κεκ〈τήμεθα·〉 ἐπεὶ γὰρ ἔδοξεν ἀτύχως τῷ ὀρέστῃ [para]πεπτωκέναι τῆς μητρὸς ὁ φό〈νοσ〉 ἄδικος ὁ λοξίας νενόμισται· ἢ τὸ [para]〈ἄ〉δικα ἐδίκασεν ἐμφα〈ίνει〉 ὅτι δικαίως μὲν ἐψηφίσατο τὸν φόνον [para]τῆς μητρός· ἄδικος δὲ ὅτι τῷ δράσαν〈τι〉 οὐκ ἐπικουρεῖ· τὸ δὲ ἑξῆς οὕτως· ὁ ἄδικος λοξίας ἀδικώτατα ἐδίκ〈ασεν〉 ὅτε ἐπὶ τρίποδι θέμιδος τὸν ἀπόφονον [para]ἔλακεν ἐμᾶς 〈ματρός:〉 BMV 3H καὶ ἀριστοφάνης· ἔλακεν ἐκ τῶν στεμμάτων [para]τραγικῇ λέξει χρησάμενος ὅτ〈ε τὸν〉 ἀπόφονον τῆς ἐμῆς μητρὸς ἐπὶ τρίποδι [para]θέμιδος ἐδίκασεν ὁ λο〈ξίας:〉 BM 3H τὸν ἀπόφονον ἀπόλλωνι οὐκ ὀρέστῃ ἐγκ〈αλοῦσα〉 φησίν: ἔνιοι δὲ ἀπόφονον ἐδέξα〈ν〉το τὸν ἄτοπον φ〈όνον〉 τὴν δὲ ἀπὸ πρὸς τὸ ἔλακεν ἀντὶ ἀπεφθέγξ〈ατο:〉 BMV 3H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 163int",
+      "text": "supra ἀπόφονον gloss. ἄτοπον φόνον * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 168int",
+      "text": "supra θωύξας’ gloss. ταράξασα * 4H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 168md",
+      "text": "ἀγρίως βοήσασα· ἀπὸ τοῦ ζώου * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 169int",
+      "text": "post ἔδοξα gloss. ἀντὶ τοῦ δοκῶ (BV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 171int",
+      "text": "post εἱλίξεις gloss. ὑποστρέψεις M int. V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 173md",
+      "text": "μὴ ταράσσαι φησὶν ὁ χορός· κοιμᾶται [para]γὰρ τὰ γὰρ 〈δύο σσ〉 ἐνεσ̣τ̣ώ̣τ̣α̣ (per compendium) ποιοῦσι [para]τὸ ῥῆμα: B int. M 3H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 174int",
+      "text": "ἐπικαλεῖται τὴν νύκτα πρὸς τὸ κοι‐ μίσαι (1Hac, –μῖσαι 3Hpc u.v.) τὸν ὀρέστην M int. V 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 174md",
+      "text": "ὁ κατὰ φύσιν ὕπνος ἐξ ὑγρότ〈η‐〉 τος γίνεται· ὑγρὸν δὲ ἡ νύξ· ἀφιστα‐ μένου ἡλίου τοῦ ξηραίνον〈τοσ〉 καὶ θερμαίνοντος τὸν ἀέρα: (scr. 1H) ὁ τοί〈νυν〉 ὀρέστης ἐξηραμμένος τὲ ὑπὸ νόσου καὶ [para]ἀσιτίας ὑγρα〈νθεὶσ〉 τῷ νυκτερινῷ καταστήματι μᾶλλον κοιμιθή〈σεται〉 ἄλλως δὲ καὶ τῶν αἰσθήσεων ἠρεμουσῶν [para]ἐν σκότῳ· 〈ἕπεται〉 ὕπνος ἡσυχίαν αἰσθήσεων καὶ κινήσεων: BMV 3H πότνια πότνια νύξ: ὀξύτατον· ἀπίθανον [para]οὖν τὴν ἠλέκτραν ὀξείᾳ 〈φωνῇ〉 κεχρῆσθαι· καίτοι ἐπεπλήσουσαν τῷ χορῷ· [para]ἀλλὰ κέχρηται μὲν τῷ ὀξεῖ 〈ἀναγκαίως·〉 οἰκεῖον γὰρ τῶν θρηνούντων λεπτότερον δὲ ὡς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 174md",
+      "text": "ἔνι μάλισ〈τα:〉 B 3H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 178int",
+      "text": "supra κατάπτερος gloss. ταχεῖα M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 183mi",
+      "text": "οὐ σιωπήσεις φησὶν ἀπὸ τοῦ στόματος [para]φυλ〈ασσ〉ομένη τὸ ἀνακελαδεῖν· καὶ [para]τὴν ἀπὸ τῆς κοίτης τοῦ ὕπνου χάριν ἥσυχον αὐτῷ παρέξεις: ο〈ἷ〉ο〈ν〉: 〈οὐ σιγήσ〉εις 〈καὶ μετ〉ὰ [para]ἡσυχίας αὐτὸν ἐάσεις κοι‐ μηθῆναι: (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 187msi",
+      "text": "λέγε (3Huv) ποῖον τέλος αὐτὸν [para]ἐκδέχεται πότερον δύναται ῥαΐσ〈αι〉 ἢ οὔ: B M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 187int",
+      "text": "supra θρόει gloss. λέγ〈ε〉 * 3H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 191msi",
+      "text": "ἀπώλεσεν ἡμᾶς ὁ ἀπόλλων πα τροφόνου μητρὸς αἷμα δούς: (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 194msi",
+      "text": "ἀντὶ τοῦ δίκαιον μὲν αὐτὴν ἀναιρε‐ θῆναι ἀνελοῦσαν τὸν ἄνδρ〈α ο〉ὐ μέντ〈οι〉 εὐκλεὲς ἦν ὑπὸ τοῦ παιδ〈όσ〉: (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 199msi",
+      "text": "δεικτικῶς φησὶν ἑαυτὴν καὶ ὀρέστην: B int. 1H ἀντὶ τοῦ διὰ τὸν σὸν φόνον καὶ ἡμεῖς ἀπο‐ λώλαμεν: τοῦτο πρὸς ὀρέστην λέγει: B int. V 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 206msi",
+      "text": "περισσὸν τὸ ἄτεκνος· ἡ γὰρ ἄ‐ τεκνος καὶ ἄγαμος· ἀνα〈στ〉ρε‐ πτέον οὖν τὴν σύ(νταξιν)· ἄτεκνος ἐπειδὴ ἄγαμος· δύνατον γὰρ τὴν 〈γή‐〉 μασαν εἶναι ἄτεκνον: BMV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 210msi",
+      "text": "ἐν (3H) τῷ πάνυ ἐκλελυμένῳ τοῦ σώματος: B int. M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 211msi",
+      "text": "τὸ βαθύτατον τοῦ ὕπνου· τὸ δυνάμενον θέλγειν τοὺς ἀρρώστους· ὁ γὰρ ἐλα‐ φρὸς φαντασίαις ἀναμέμικται: BMV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 211mi",
+      "text": "φυσικῶς τὸν ὕπν〈ον ο〉ἶδεν ἐπίκου‐ ρον τῶν κακῶν: νῦν οὐ τραγωδεῖ ἀλλ’ ἐν τῇ μανίᾳ: B M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 213mi",
+      "text": "πότνιαν εἶπεν αὐτήν· ἐπεὶ πά̣〈ν〉τας [para]τιμῶμεν παραμυθουμένους· τὸ δὲ ὡς εἶ σο‐ φή ἀντὶ τοῦ λίαν ἐπενοήθης σοφῶς ὑπὸ [para]τῆς φύσεως· τὸ δὲ τῶν κακῶν οἰκείως προσέθηκεν· ἐπει‐ 〈δὴ καλὴ τῶν κακῶν ἐστιν ἡ λήθη:〉 BMV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 312-3msu",
+      "text": "καὶ μὴ τὴν ὑποψίαν ἔχε μὴ δὲ φαντάζου [para]τὸ ἐκφοβοῦν σε· προσδέχου: (B int. MV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 318int et md",
+      "text": "μανιοπ〈οι〉οὶ πότνι〈αι〉 χω〈ρά vel –ρίον〉 [para]ἐστὶ βοιω〈τίας ..?.〉 (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 319(?)md",
+      "text": "π〈αρόσον ἄοινα καὶ νηφάλια ταῖσ〉 θ〈εαῖς ταύταις τὰ ἱερὰ συντελεῖται:〉 (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 321(?)md",
+      "text": "πρ̣〈ὸς τὸν μενέλαον ὀρέσ‐〉 τη̣〈ς φησὶν ..?.〉 (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 322int",
+      "text": "supra ταναὸν gloss. τὸν 〈λε〉πτομερ〈ῆ〉 (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 327int",
+      "text": "supra φοιταλέου gloss. [para]ὁρ〈μη〉τικ〈ῆσ〉 Moschopuli apud Dindorf 2.108 4H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 327md",
+      "text": "ἢ τ〈ὸ φεῦ συντέτακται ἵν’ ᾖ· φεῦ ἰὼ ζεῦ〉 οἵ〈ων μόχθων ὁ τάλας ὀρεχθεὶς ἔρρεις:〉 M 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 328(?)md",
+      "text": "〈ἐκτείνεται γὰρ τὴν διάνοιαν〉 ὁ〉 ἐπιθυμῶν ..?.〉 vel οἱ 〈ἐπιθυμοῦντες ..?.〉 BMV 1H π〈ρὸς αὐτὸν ἀπέτεινε τὸν λόγον·〉 ο〈ἵων πραγμάτων ὁ τάλας ἐπιθυμήσας·〉 〈οἴχῃ καὶ διέφθαρσαι ἀπὸ〉 τ〈οῦ τρίποδος δεξάμενος τὴν〉 μ〈αντείαν ἣν ὁ φοῖβος ἔλακεν:〉 (BM) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 331md et mi",
+      "text": "ὀ〈μφαλὸς κέκληται ἡ πυθὼ〉 παρὰ τ〈ὰς ὀμφὰς τὰς ὑπὸ τοῦ θεοῦ〉 χρη̣〈στηριαζομένας· ἢ παρὰ τὸ εἶναι〉 ἐν μ〈έσῳ τῆς οἰκουμένης τὴν πυθώ·〉 λέγεται 〈γὰρ τὸν δία μαθεῖν βουλόμενον〉 τὸ 〈μέσον τῆς γῆς δύο ἀετοὺσ〉 〈ἰσοταχεῖς ἀφεῖναι τὸν μὲν ἀπὸ〉 δύσεως τὸν δὲ ἀπὸ ἀντολῆς· καὶ ἐκεῖσε [para]αὐτοὺς ἀπαντῆσαι· ὅθεν καὶ ὀμφ〈αλὸς ἐκλήθη· ἀνα‐〉 κεῖσθ̣αι τε δύο ἀετοὺς χρυσοῦς τῶν [para]μυθευομένων ἀετῶν μνημεῖα· BMV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 332int",
+      "text": "τ〈οῦ〉το κατὰ δ〈ία〉 ἀναπεφώνηται: M 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 333int",
+      "text": "〈ἐ〉λ̣〈εο〉ς τὸ γε̣νήσεται· ἢ οὐδείς· (BMV) 1H ἠ̣〈λέκτρ〉α στίγμη * 4H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 335int",
+      "text": "supra θοάζων gloss. διώ〈κων〉 δι〈εγ〉είρων (B int. M) 1H ᾥτινι ὀρέστῃ δάκρυα δαίμων τις ἀλλεπά〈λλ〉ηλα συν〈άπτ〉ε〈ι δίκην·〉 (M int.) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 335mi",
+      "text": "συνάγει ἀλλεπάλληλα καὶ συμμίσγει· [para]ἡ μεταφορὰ ἀπὸ τῶν συμ〈βαλλόντων τοῖσ〉 〈σχοινίοις ἕτερα καὶ ἐπιμηκέστερα ποιούντων ..?.〉 (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 338(?)msi",
+      "text": "ιδί̣α̣ν̣ ´βε̣ 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 338int",
+      "text": "supra ἀναβακχεύει gloss. κινεῖ * 4H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 340msu",
+      "text": "〈οὐ μόνιμος ὁ μέγας ὄλβος· κατ〉έκλυσε [para]γὰρ αὐτὸν δαίμων τις 〈ὡσεὶ λαῖφος [para]ἀκάτου〉 θοᾶς τινάξας κατέκλυσε τ〈οῖσ〉 〈ὀλεθρίοις καὶ λάβροις κύμασι〉 τοῦ π〈όν〉του: τὸ δὲ δεινῶν πόνων ἐν μέσῳ ἀνεπεφώνηται: (B M int. V) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 340int",
+      "text": "supra μόνιμος gloss. αἰώνιος * 4H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 341int",
+      "text": "supra ὥς gloss. οὕτως * 4H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 343int",
+      "text": "supra ὡς gloss. καθώς * 4H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 345int",
+      "text": "πρὸς τὰ ἄνω κακὰ τούτεστι· πρὸς [para]τὸ ὀλοφύρομα τὸ τίνα γὰρ [para]ἔτι πάρος: B int. M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 347int",
+      "text": "supra τὸν gloss. τ̣αν” 4H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 349msi",
+      "text": "〈τῇ τρυφῇ τοῦ βαδίσ〉μα 〈τος ..?.〉 (M int. V int.) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 350int",
+      "text": "supra δῆλος gloss. ʽσ̣η̣ 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 352int",
+      "text": "supra ὁρμήσας gloss. ποιήσας πλεῦσαι * 8Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 352md",
+      "text": "δι’ ὧν δοκεῖ αὐτὸν τιμᾶν διὰ τούτων λυπεῖ ἀναμι‐ μνήσκουσα τῶν ἀπολλυμένων ἐν τῇ τροίᾳ: BMV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 353msi",
+      "text": "〈ἀπὸ τούτων αὐτὸν ἐγκωμι〉άζ〈ει〉 〈ἀφ’ ὧν ἐμεγαλύν〉ε̣τ̣ο̣· 〈τῷ δὲ ἀπηρτισμένῳ ἀρι〉θμῷ 〈ἐχρήσατο· τοσαῦτ〉αι γὰρ 〈ἦσαν αἱ νῆες ἑλλήνων ..?.〉 (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 354int",
+      "text": "supra ὁμιλεῖς gloss. διάγεις * 4H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 355msi",
+      "text": "〈τὸν γὰρ πόλεμον κατορ〉θώσας 〈ἔλαβε τὴν ἑλένην· σὺ μὲν〉 〈οὖν φησὶν εὐτυχῶς ἀπηλλάχ〉θης 〈ὁ δὲ ὀρέστης δυστυχε〉ῖ: BMV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 356msi",
+      "text": "〈ἀπὸ πρώτης παρόδο〉υ ση‐ 〈μειοῦται τὸ κακόηθε〉ς τῆς 〈γνώμης μενελάου· καὶ γὰρ οὐ〉δὲ εἰς 〈σπάρτην ἀνήχθη ἀ〉λλὰ πρότερ〈ον〉 〈εἰς ἄργος ὡς ἐξελάσων〉 ὀρέστην 〈ὡς ἐν τοῖς ἑξῆσ〉 δῆλος ἐστί: (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 356int",
+      "text": "ante ὦ δῶμα signum (ad scholium referens?)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 362mi",
+      "text": "ὄρος λακωνικῆς· ὅμηρος μαλειάων [para]ὄρος αἰπ〈ύ〉: B int. V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 362int",
+      "text": "supra προίσχων gloss. προσσκαλώσας νῆ̣α̣ * 4H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 363int",
+      "text": "supra ναυτίλοισι gloss. τῶν ναυτίλων * 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 364msu",
+      "text": "οὗτος ἀνθηδόνιος ἁλιεὺς· ἑωρακὼς δὲ [para]ἰχθὺν παρὰ τὴν ψάμμον βοτ〈ανη〉φάγοντα̣ [para]καὶ 〈γευσάμενον καὶ ἀναζήσαντα〉 〈φα〉γὼν καὶ αὐτὸς γέγο〈νεν〉 ἀθάνατος· ἀλλ’ οὐκ ἀγήραος· ἐφ’ ᾧ κατεπόντισεν [para]ἑαυτὸν· μ〈αντεύεται δὲ ὣς παρ’ ὁμήρῳ:〉 (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 373int",
+      "text": "supra εὐτυχοῦντας gloss. σώους καὶ ὑγιεῖς (BMV) 1H supra ἁλιτύπων gloss. 〈τῶν〉 ναυτῶν (B int. M int.) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 382int",
+      "text": "supra θιγγάνω gloss. προσώπ̣.. 8Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 383int",
+      "text": "supra ἐξάπτων gloss. φέ̣ρ̣ω̣ν̣ 4H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 383mi",
+      "text": "ἀντὶ τοῦ ἄνευ στεμμάτων· εἰώθα(σι) [para]γὰρ οἱ λιτανεύοντες κλάδους φ〈έρειν ..?. ὡσ〉 παρ’ ὁμήρῳ· διὰ τοῦτο φησὶ φυλλῶν μὴ ὄντων [para]τὴν ἐκ στόματος μό〈νου ἱκεσίαν ποιεῖσθαι·〉 * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 386mi",
+      "text": "φησὶ καλῶς με νεκρὸν ἐκάλεσας· οὐ γὰρ [para]ζῶ ὑπὸ τῶν κακῶν· ὅσον δ’ ἐπὶ τ〈ὰ [para]κακὰ ζῶ:〉 B int. M 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 387int",
+      "text": "supra αὐχμηρόν gloss. ῥυπαρόν * 4Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 388int",
+      "text": "supra αἰκίζεται gloss. ἀ̣φ̣α̣νίζει * 4Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 389int",
+      "text": "supra ξηραῖς κόραις gloss. ταῖς κατεσκληκυίαις * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 389md",
+      "text": "η̣γ̣.ζ̣η̣ς̣ 4Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 390msu",
+      "text": "〈ἀντὶ τοῦ εἰς ὄνομα μόνον λείπεται τὰ〉 ἐμά· [para]καὶ εἰς ὄνομα μόνον σαλεύει τὸ κατ’ ἐμέ: [para]ἐπειδ〈ὴ〉 τὸ σῶ 〈μα ἅπαν μοι φροῦδον γέγο〉νεν: MV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 393int",
+      "text": "supra ἤκουσα gloss. λείπει τὸ ὥστε· (BMV) 1H supra ὀλιγάκις gloss. οὐδ’ ὅλως· (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 396int",
+      "text": "supra σύνεσις gloss. ἡ συνείδησις * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 400int",
+      "text": "supra τιμωρίαι gloss. .βο...θ̣ 4H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 402int",
+      "text": "supra τάλαινα gloss. 〈ἐ〉τίμων ὑψηλοποίουν * 1H supra ἐξώγκουν gloss. 〈ἐ〉τ〈ί〉μων M int. 3Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 403int",
+      "text": "supra πότερα gloss. κακοήθως καὶ τοῦτο (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 404int",
+      "text": "φυλάττων πότε σ̣βεσ〈θε〉ῖ̣. κο̣..ν̣ος [para].ινα̣η̣ο̣.. οὓς τ〈ὰ〉 ὀστᾶ· (BV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 405int",
+      "text": "supra ὤρθευεν gloss. ἐνοσοκ〈ό〉μει * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 411int",
+      "text": "supra βακχεύουσι gloss. κακοήθες (BMV) 4H supra συγγενῆ gloss. ἡ δία· ἵν’ ᾖ διὰ [para]τ〈ὸν σ〉υγγενεῖ φ〈ό〉νον: (M) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 411mi",
+      "text": "κακοήθως τῷ ὀνόματι τῆς μανίας ἐχρήσατο (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 582int",
+      "text": "supra ἀνεχόρευ’ gloss. ἡ̣μ̣.ερε̣ν̣ 8Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 588int",
+      "text": "supra ἄλοχον gloss. τὴν π〈εν〉ελ〈ό〉πην * 8Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 601int",
+      "text": "supra εὐδαιμόνως gloss. ἁρμοζ〈όν〉τως * 8Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 605int",
+      "text": "supra συμφοραῖς gloss. δυστυχίαις * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 612int",
+      "text": "supra ἔκκλητον gloss. τὸν [para]ἐκκλησιά〈ζον〉τα B int. M int. V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 726md",
+      "text": "φωκεὺς γὰρ ὁ πυλάδης· B int. M int. V. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 727md",
+      "text": "βέβαιος φίλος κρείσσων ἐστὶ τῆς 〈ὁ〉ρωμένης ἐκ ζά〈λησ〉 τοῖς ναυτίλοις γαλήν〈ησ〉: BMV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 729md",
+      "text": "σύλλο〈γ〉ον πό〈λεωσ〉 ὡς τῆς φήμης διαδρα‐ μούσης ἄχρι φωκίδος· οὐ 〈μό〉νον 〈οὖν〉 φησὶν ἤκουσα σύλλογον κατὰ σοῦ γεγενῆσθαι ἀλλὰ καὶ παριὼν εἶδον· BMV 1H τὸ δὲ ἑξῆς τὸν σ〈ύλλ〉ογον τῆς πόλεως ἀκούσας [para]καὶ ἰδ〈ών·〉 (MV) 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 738md",
+      "text": "οὕτως ἐμ〈οί〉 φησι προσῆλθεν ὡς μὴ παραγενόμενος: BMV 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 742msu",
+      "text": "(in religatione celatum in codice ipso legere potui) κωμῳδεῖται ὁ στίχος διὰ τὴν τ̣α̣υ̣τ̣ό̣τ̣η̣τ̣α̣: (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 748msi",
+      "text": "τὸ λέγειν 〈εὐ〉λαβούμεθα γνησί〈ου〉 φίλου καὶ τ〈ὸ〉 ὑπὲρ δ〈ύ〉ναμιν κάμαειν (κάμνειν voluit): (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 752int",
+      "text": "supra εἴλετ’ gloss. συγγένειαν M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 753msi",
+      "text": "ἐκ τοῦ λ〈α〉ζύ〈ω〉 λ〈ά〉ζυμ〈ι〉 λάζυμαι B int. M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 757msi",
+      "text": "ἀναστρε〈πτ〉έον τὸν λό〈γον〉· τί δὴ κρίνει λέξον· MV 1H τί δὴ κρίνει 〈ἡ〉 ψῆφος εἰπὲ ὅτι φοβοῦμαι: B int. M 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 765msi et mi",
+      "text": "ἀνα̣ξιβίαν τοῦ ἀγαμ〈έ‐〉 μνονος ἀδε〈λ〉φ〈ὴν〉 στρόφιος ἔγημεν· ἐξ ἦς ἔφυσε τὸν πυλάδην ὅθεν ἐξά〈δ〉ελ〈φ〉οι ὀρέστης καὶ πυλάδ〈ησ〉: BMV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 766mi",
+      "text": "πότ〈ε〉ρον ἰδίᾳ κατὰ τὴν 〈οἰκ〉ίαν [para]ἡμαρτηκότ〈ι〉 σοι ἐγκαλῶν ἢ ἐν δημοσίῳ τινί: (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 901md",
+      "text": "ἐπεβόησαν (gloss. ἐπερρόθησαν) * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 916int",
+      "text": "supra σφώ gloss. ..α̣γ.σ̣τ..ὸυ.ο̣θ̣....α̣ι 4Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 919int",
+      "text": "supra ἀγορᾶς gloss. ἐκκλησίαις * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 921mi",
+      "text": "ἀντὶ τοῦ οὐ διχόμυθα λέγων ὡς ὁ [para]προρρηθείς· ἢ οὕτω 〈..?.〉 〈..?.〉 βουλόμενος· σημαίνει δὲ τὸ σώ [para]〈ζειν ἐσπουδακώς:〉 (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 922msu",
+      "text": "〈..?. οὐκ ἄξιον〉 τοῦ ἐπιπλήττεσθαι [para]ἀνεπιτίμητον ὃν οὐδεὶς διὰ τὸ [para]σωφρονεῖν ὕβρισεν: (B M int. V) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 926msu",
+      "text": "〈ἣ φησὶν ἡ κλυταιμν〉ήστρα ὅσον ἐφ’ [para]ἑαυτῇ καλὰ καὶ ζηλωτὰ ἔργα ἔπαυσε· [para]φημὶ δὲ τὸ ὁπλί〈ζεσθαι ..?.〉 (MV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 931-2(?)msi",
+      "text": "gloss. π` ὁυ 3H vel 4H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 932md",
+      "text": "ἴναχος αὐτόχθων (b int. M int. V) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 932msi",
+      "text": "〈μετὰ τὸν κατακλυσμὸν οἰκούντων τῶν ἀργ〉είων 〈πρῶτος αὐτοὺς συνῴκισεν ἴνα〉χος 〈καὶ λιμναζόμενον τὸ παρὰ τὸν〉 〈ἴναχον πεδίον αὐτὸς ἐκαθάρισε καὶ〉 ἐκ 〈πηγῆς τινος ποιησάμενος τὸν π〉οτα̣μ̣ό̣ν̣ 〈ἀφ’ ἑαυτοῦ ἴναχον ἐκάλεσε καὶ τὸ ἄργ〉ος 〈ἰνάχιον· ἰνάχου δὲ καὶ μελί〉ας 〈φορωνεὺς καὶ φηγεὺς ἐγένον〉τ̣ο· 〈..?. ἀγή〉νω̣ρ̣ 〈βήλου δὲ αἴγυπτος ἐγένετο καὶ δανα〉ός· (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 933md",
+      "text": "τινὲς στί〈ζουσιν〉 εἰς τὸ πάλαι: B int. M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 941msi",
+      "text": "〈ἐξαπλοῦται πλατύνεται κα〉τὰ 〈τῶν ἀνδρῶν:〉 B int. M int. V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1153md",
+      "text": "στυγεῖσθαι (gloss. στυγεῖν) * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1154md",
+      "text": "ἢ τὸ τῶν γυναικῶν κοινῶς γ〈ένοσ〉 ἢ τὸ ἑαυτ〈ῆσ〉 ἰδίως: B int. M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1156md",
+      "text": "ἕνα ἄνδρα φησὶν συνετὸν προκρίνειε τις πολλῶν ἀλογίστων φ〈ί〉λων: ἄλλως· ἀσύ〈ν〉ετόν ἐστι τὸ ἀνταλ‐ λάσσειν πλῆθος ἀντὶ τοῦ εὐγ〈εν〉οῦς φίλου καὶ προ‐ κρίνειν: BMV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1162md",
+      "text": "ἐν τῷ ἐπαίνε〈σθαι〉: B int. M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1165md",
+      "text": "ἀντανέλωμεν M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1168int",
+      "text": "supra τύραννος gloss. οὐ 〈β〉ίᾳ B int. M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1168md",
+      "text": "ἄξιος νομισθείς: M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1169md",
+      "text": "ἐπικουρίαν ἴσχυν: δι’ 〈ὧν〉 ἀνάνδρως ἀποθα‐ 〈ν〉οῦμαι: (B int. MV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1175mi",
+      "text": "〈ὃ〉 γὰρ ἂν νομίζω τέρπνον· τοῦτο [para]καὶ μόνον ὀνομάζων ἀδαπάνως [para]εὐφραίνομαι: BMV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1176msi",
+      "text": "ἐξ ὧν οὐδὲν βλαπτώμεθα οὐδὲν κωλύσει ε〈ὐ〉φρᾶ〈ν〉αι ἑαυτούς· (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1178int",
+      "text": "supra τ’ ἐμοί gloss. τὴν σωτηρίαν φησί· * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1182msi",
+      "text": "γνώ(μη) τὰ ἀγαθὰ καὶ ἐν 〈τ〉ῷ προσδο〈κ〉ᾶσθαι μόν〈ον〉 ἔχει τινὰ 〈τ〉έρψιν: B M int. V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1189msi",
+      "text": "ἐνέχυρον τ〈ῆσ〉 σωτ〈η〉ρί〈ασ〉 B M int. V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1190msi",
+      "text": "τίνος χάριν B M int. V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1192msi",
+      "text": "ἓν γὰρ φησὶ καὶ ταὐ〈τὸ〉ν πᾶν ἐστὶ 〈τὸ〉 καθ’ ἡμᾶς καὶ ὡς εἰπεῖν ἓν σῶ μα καὶ μία ψυχ〈ή:〉 BM 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1197msi",
+      "text": "κεκτῆσθαι M int V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1200msi",
+      "text": "ἐὰν τῇ ὀργῇ πο‐ λὺς ἔλθῃ: B M int. V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1176-1200mi",
+      "text": "(crucula, ut vid.) καὶ νῦν 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1358int",
+      "text": "supra καθαιμακτὸν gloss. καθημαγμένον M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1371int",
+      "text": "supra τέραμνα gloss. στεγάσματα * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1373md",
+      "text": "ἐπεὶ οὐ διὰ γῆς ποιεῖται τὴν πορείαν ἀ〈λλ’〉 ὑπερ〈επ〉ιβὰς ἥλλάτο (sic)· ἀφα‐ νῆ φησὶν ἑαυτῷ εἶναι τὴν γῆν· τὸ δὲ βαρβάροισι δρα‐ σμοῖς συναπτέον τὸ πᾷ φ〈ύ〉γω ξένε· ἱν’ ἦν βάρβαρος ὢν καὶ 〈φ〉εύγειν θέλων· ποῦ φύγω ξένε· ἢ τὸ φροῦδα ἐπ〈ὶ〉 τ〈ῆσ〉 ἰλίου φησίν· ἐρωτώμενος γὰρ φησὶν τάδε· ἴλιον ἴλιον ὤ μοί μοί (B) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1378msu",
+      "text": "(in religatione celatum in codice ipso legere potui) 〈..?.〉 τῶν τε ταύρων καὶ τῶν ποταμῶν [para]τῶν σφοδρῶς ῥεόντων· ἢ διὰ τὸ βίαιον [para]τῶν ὑδάτων 〈ἅπερ τὴν γῆν διὰ τὰ παρεμπίπτοντα τῶν ὑδάτων ῥήγνυ‐〉 σιν ὡς τοῖς κέρα̣υ̣σιν οἱ ταῦροι· εἰ μὲν [para]γάρ φησιν ἐν ἄλλοις ταῦροι δ’ ὑβρισταὶ [para]〈καὶ εἰς κέρας θυμούμενοι·〉 (BM) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1378mi",
+      "text": "κατὰ γὰρ τὸν ποι〈η〉τ〈ὴν〉 ποτ〈α〉μὸν [para]τὸν ὠκ〈ε〉α〈ν〉ὸν νομίζει· ὅτι δὲ κύκλῳ [para]περιρρ〈εῖ τὴν οἰκουμένην ἐσήμα‐〉 νε τοῦ ἀψορρόου ὠκε〈ανοῖο〉: (BM) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1381mi",
+      "text": "τό τε ἴλιον καὶ τὴν [para]καλλίβωλου ἴδ〈ην τῇ ἐμαυτοῦ βαρβάρῳ〉 φωνῇ· ὁ δὲ λόγος· στένω τὰ εἰρημένα [para]ἀπολλόμενα (sic) διὰ τὸ τῆς ἑλένης κάλλ〈ος ..?.〉 (BM) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1384msu",
+      "text": "(in religatione celatum in codice ipso legere potui) οἱ δὲ ἁρμάτειον τὸ σύντονον ἐπεὶ συντόνῳ [para]φωνῇ κέχρηται: M 1H 〈..?.〉ν̣υ̣ν̣ο̣μ̣ε̣ν̣ θρῆνον ἀναβοῶ: ἔνιοι δὲ ὀξύφωνον ὑπὸ τῷ τῶν ὑπαξονί‐ 〈ων ἤχων..?.〉 φωναὶ ὄντας: οἱ δὲ ἁρμάτειον [para]τὸν ἀπὸ τῆς ῥέας 〈..?.〉 φασι τὸν 〈..?.〉 (Taurinensis B IV 13) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1384md",
+      "text": "〈..?. ἐπὶ τῷ〉 ἅρμ〈α〉τ〈ι γενόμενον〉 ἐφ’ οὗ εἵλκ〈ε〉τ〈ο ὁ ἕκτωρ〉 ὑπὸ τοῦ ἀχιλλέως: Taurinensis B IV 13 1H οἱ δὲ τὸ σύντονον· συν‐ τόνῳ 〈γὰρ〉 φωνῇ χρῆται: (M) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1388int",
+      "text": "supra περγάμων gloss. τῶν τειχῶν * 4H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1388md",
+      "text": "τ〈ὸν vel –ὴν〉 πέργαμον καὶ τὴν ἀκρόπολιν τοῦ ἰλίου: (BM) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1395int",
+      "text": "supra αἴλινον gloss. εἶδος μέλους * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1398md",
+      "text": "ξίφη αἵδου τὰ μόρον ἐρ‐ γαζ〈ό〉με〈ν〉α B int. M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1407mi",
+      "text": "〈..?. οὗτος ἐπὶ κακουργίᾳ ἥσυχος ὢν [para]π〉ρονοούμενος τῆς ἡσυχίας ἐπὶ κακ〈οῖς:〉 [para]ἄλλοι δὲ διαφθαρείη ὑπὸ 〈τῆς ἡσύχου προνοίας:〉 ἥσυχον δὲ αὐτὴν φησὶ τὴν ἀπρ〈οσ〉δ〈ο〉κή〈τ〉ως πάντας ἀμυνομένην· 〈τινὲς οὕτως· οἰμωζέτ〉ω κακοῦργος ὢν μετὰ ἡσύχου προνοίας: (BM) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1408md",
+      "text": "τοῖς σχ〈ήμασι ταπεινοὶ ἕζοντο〉 παρ’ ἑ〈κάτερον μέρος τῆς ἑλένης, ὁ μὲν〉 ἐκ δε〈ξιῶν. ὁ δὲ ἐξ εὐωνύμων〉 ξίφεσ〈ιν πεφραγμένοι:〉 B M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1416int",
+      "text": "supra ἔθορον gloss. ἀν〈έθορ〉ον * 8Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1416md",
+      "text": "ἀνεπ〈ήδησαν οἱ θερά‐〉 ποντ〈ες παραχρῆμα καὶ περιέ‐〉 θεον κ〈αθάπερ δρομάδεσ〉 ἵπποι 〈θορυβηθέντες:〉 BM 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1420md",
+      "text": "τοῖ〈ς μὲν τῶν οἰκετῶν〉 οὐκ 〈ἐδόκει δόλον εἶναι〉 τοῖς δὲ 〈ἐδόκει ὀρέστησ〉 ἐ̣ν ἀ〈σφαλεστάτῃ〉 δικ〈τύων μηχανῇ καὶ περι‐〉 βλ〈ήματι λίνου ἐμπλέκειν〉 τὴν 〈ἑλένην:〉 (BM) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1425md",
+      "text": "σὺ 〈δὲ παρῆς τοῖς γινομένοισ〉 ἢ τὸ̣ 〈ἀκούσας παρ’ ἑτέρου πέφευγασ〉 ἐκ〈ποδών:〉 BM 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1427md",
+      "text": "πλ〈ησίον τῆς παρηΐδος αὐτῆσ〉 αὔρ〈αν πέμπων:〉 (BM) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1429md",
+      "text": "παρ〈όσον πάντα τὰ ἐπὶ τῆσ〉 κε〈φαλῆς καλύμματα πτερὰ〉 ἔλε〈γον οἷς δὴ καὶ ῥιπίσιν〉 χρῶν〈ται· κατὰ τοῦ προσώπου〉 αὐτῆς 〈πνοὴν ἐκπέμπων:〉 (BM) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1429int",
+      "text": "κυκλ〈ο〉τερὴς γὰρ ἡ ἐκ πτερῶν ῥιπίς: BM 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1434md et mi",
+      "text": "〈ἀπὸ τῶν φρυγίων σκύλων βου‐〉 λομ〈ένη συρράψαι ἐνδύματα〉 πορ〈φυρᾶ ὅπως ἐπὶ τὸν〉 τάφον ἀναθῇ τῆς κλυταιμνήστρας: (BM) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1436int",
+      "text": "supra φάρεα gloss. ἱμά〈τι〉α * 4H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1439mi",
+      "text": "ἀντὶ τοῦ ἀνάστηθι· (BM) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1445int",
+      "text": "post ἔμελλον gloss. παθεῖν * 8H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1451int",
+      "text": "post versum gloss. συγκλείσας (BM) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1453-4msi",
+      "text": "〈ἴδη ὄρος ἐστὶ τροίας ἔνθα τε〉τί‐ 〈μηται ἡ ῥέα· ἴσως οὖν ὡς ἐγχωρίαν θεὸν〉 ἐπι‐ 〈καλεῖται αὐτὴν ὁ εὐνο〉ῦ‐ 〈χος: ὀβρίμαν αὐτήν φησιν ἐπεὶ〉 λέ‐ 〈ουσιν ὀχεῖται· ἢ ὅτι〉 ἐνί‐ 〈σταται τοῖς αὐτῇ συντυχ〉άνου‐ 〈σιν· ὁ φρὺξ τὴν ῥέαν ἐπικ〉αλεῖται 〈ὡς ἀλεξίκακον: ἀντὶ ὀρεινήν· ἐν〉 γὰρ τοῖς 〈ὄρεσι διατρίβειν φασὶ τ〉ὴν θεόν· 〈..?. τρ〉οίω̣ς (voluit –ας?) δὲ ἔ‐ 〈νθα ἡ ῥέα〉 τιμᾶ 〈ται· ἴσως οὐν ὡς ἐγ〉χωριαν 〈θεὸν ἐπικαλεῖται〉 αὐτὴν 〈..?.〉 (BM) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1465int",
+      "text": "supra ἀνίαχεν gloss. ἐβόησας * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1467md",
+      "text": "μετὰ τῶν στηθῶν καὶ τὴν κεφα〈λὴν〉 ἐκτύπησεν: B int. M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1468md",
+      "text": "ἡ ἑλένη φησὶ διαναστᾶσα 〈φυ‐〉 γῇ τ〈ὴν σω〉τηρίαν ἐπορίζετο 〈τὸ〉 χρ〈υσ〉εοσάμβαλον: ὁ̣ 〈..?.〉 πατ.τὶ: (B M int.) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1470int",
+      "text": "supra μυκηνίδ’ gloss. λείπει τ̣ὸ̣ ποδί B M int.) 1H supra ἀρβύλαν gloss. φησὶ ὑπό〈δη〉μα * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1470md",
+      "text": "ἀπὸ 〈το〉ῦ ὑποδήματος τὸν 〈πόδα〉 δ〈η〉λοῖ· ὁ δὲ ὀρέστης φησὶ παραχρῆ〈μα〉 προσ〈β〉ὰς τὸν πόδα ἐξέτειν〈ε〉 τὴν χεῖρα· θέλων σφάξαι 〈αὐ‐〉 τὴν τῷ ξίφει: (BM) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1474md",
+      "text": "τὰς θύρας τῶν σταθμῶν ἔνθα ἦ〈μεν〉 κεκλειμένοι ἐκσπάσαντ〈ες τοῖσ〉 μοχλοῖς ἐξήλθομεν βοηθή〈σοντες:〉 (BM) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1476md",
+      "text": "τὰ ἀκόντια ἀπὸ τοῦ ἐπ〈ηγκυ‐〉 λίσθαι: (B int. M int.) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1477md",
+      "text": "μεγάλην καί ἐκτεταμένην χ〈ερσὶν〉 ἔχον: B int. M 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1479md",
+      "text": "ἄτρεπτος καὶ ἄφευκ〈τοσ〉 ἐν ταῖς μάχαις· ἢ ἀκατ〈ά‐〉 παυστ〈οσ〉· ἢ ὃν οὐκ ἔστι λιά〈σαι〉 καὶ 〈εἰ〉ς φυγὴν τρέψαι: B int. M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1480md",
+      "text": "ὅμοιον ἐστὶ τῷ ὁμηρικῷ τρίπ〈τυχοσ〉 〈αὐλῶ〉πις· ἢ ἐπεὶ τριλόφ〈οισ〉 〈ἐ〉χ〈ρ〉ῶντο: (BM) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1483md et mi",
+      "text": "τ〈ό〉τ〈ε·〉 ἐν τῷ πρὸς ὀρέστην πολέ〈μῳ〉 ἐφάνημεν διαπρεπόντως δει〈λοὶ〉 οἱ φρύγες· ἢ τότε ἐν τῷ τρ〈ωικῷ〉 πολέμῳ ἔκδηλοι ἐξ〈ελη‐〉 λεγμένοι ἐν τῇ συμβολῇ τῇ πρὸς ὀρέστην 〈καὶ πρὸς πυλάδην〉 ἐξ〈ε‐〉 〈φάνησαν οἱ〉 φρύγες πολὺ τῶν ἑλλή〈νων〉 ἀ̣σ̣θ〈έστεροι: (BM) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1489msu",
+      "text": "ἐὰν μὲν ἐν ἰλίῳ ἔσται τὸ ὑπὸ σκότον [para]καλυφθέντες τῷ πλήθει τῶν βελῶν [para]ἐφεύγομεν· ἐὰν δὲ ἔν‐ δον τῇ οἰκίᾳ εἰς τοὺς σκοτεινοὺς τόπους τῆς οἰκίας ἐφεύγομεν: BM 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1489msi",
+      "text": "ἐπὶ τῶν ἐν ἰλίῳ οὖν λέγε̣ι̣ τεθορυβημένως καὶ οὐ δεόν‐ τως ἀπαγγέλλων· 〈οἱ〉 δὲ μ〈ὴ〉 νοήσαντες πολλοὺς ὑπενόησαν ἐν τ〈οῖσ〉 βασι‐ λείοις ὑπὸ τῶν περὶ ὀρέστην ἀπο‐ λωλέναι: BM 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1491msi",
+      "text": "οὕτως πεσόντ〈ι〉 ἐπὶ γῆς· οὔτε γὰρ αὐτὴν ἐφό‐ νευσαν· διὰ τοῦτο μετ〈ὰ〉 μικρὸν φησὶ ὅτι̣ 〈δι〉ωκο‐ μένη ὑπ’ αὐτῶν ἀφανὴς ἐγένετο· BM 1H χαμαιπετεῖ οὖν ἢ τῷ μέλλοντι π〈εσ〉εῖν ἢ τε‐ θορυβημένος ὢν οὐ‐ κ ἀκριβολο〈γ〉εῖτ〈αι〉: M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1492msi",
+      "text": "ἀθύρσους αὐτοὺς εἶ‐ πεν· ἐπειδὴ αἱ βάκ〈χαι〉 μετὰ θυρσῶν βακχ〈εύ〉ου‐ σιν· ἢ κακόθ〈υρ〉σ〈οι〉 ἢ θυρσῶν μόνων δεόμεν〈οι〉 πρὸς τὸ εἶναι βάκ〈χαι:〉 (BM) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1492int",
+      "text": "supra δραμόντε gloss. κλάδους ἔχ〈ου〉σι: * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1497msi",
+      "text": "τοῦτο δοκεῖ ἀπὸ 〈ἱστορίασ〉 εἶναι παρόσον π〈αρὰ〉 τ〈ῆσ〉 θῶνος γυναικὸς δοκεῖ πλε‐ ῖστα φάρμακα 〈εἰ〉‐ ληφέναι ὡς καὶ 〈ὅμηροσ〉 φησί τά οἱ πολύδαμ〈να〉 πόρε θῶνος 〈παρά〉κοι〈τ〉ις: (BM) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1503msi",
+      "text": "καὶ μὴν διαδέχεται ἕτερον νε〈ώ‐〉 τερον τῶν κακῶν: B int. M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1510md",
+      "text": "οὐ διὰ τοῦτο φησὶ ἐβόησας ὥστε τὸν μενέλαον βο‐ ηδρομεῖν: ἄλλως· οὐ‐ κ ἄ〈ρα〉 που φησὶ φωνῇ μεγάλ〈ῃ vel –ᾳ〉 τὸν μεν〈έ〉λ〈α〉ον ἐκάλεσας ὥς 〈τ〉ε β〈ο〉ηδρομεῖν: BMV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1514md",
+      "text": "φο〈β〉ούμενος 〈θ〉ανεῖν χαρίζῃ 〈μ〉όνῃ γλώσ〈σῃ〉· οὐ μὴν δὲ καὶ διανοί〈ᾳ·〉 * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1516md",
+      "text": "〈ὄ〉μοσον οὐ ὅτι πρ〈ὸσ〉 χάριν ἐμὴν λέγ〈εισ〉 〈ο〉ὐδ〈ὲ〉 ὑποκ〈ρ〉ινόμενος ἀλλὰ 〈τῇ〉 ἀλ〈η〉θείᾳ: (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1516int",
+      "text": "supra λέγειν gloss. λείπει 〈εἰσ〉 BMV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1517int",
+      "text": "supra τὴν gloss. μ〈οι〉 ζ̣ω〈ήν〉 * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1517md",
+      "text": "〈..?.〉 ἥντινα ἂν ἐγὼ καλῶς ὄμνυμι: * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1518md",
+      "text": "καὶ 〈ἐν〉 τροί〈ᾳ〉 φησὶν ὁ σίδηρος 〈οὕτωσ〉 φο〈β〉ερ〈ὸσ〉 τοῖς 〈τρ〉ωσὶν ὡς σ〈ὺ〉 ν〈ῦν〉 ὁρῶν 〈τὸ〉 ξίφος φῂς 〈θανά‐〉 του (voluit –τον?) 〈ἐν〉οπτ〈ρίζ〉ομαι: BMV 3H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1525md",
+      "text": "συγκεχώρη〈σ〉αι: (gloss. ἀφεῖσαι) * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1526md",
+      "text": "ἐπὶ τ〈οῦ〉 παρόντος φησὶν ἀφίημί σε· ὕστερον δὲ βο〈υ〉λεύ〈σ〉ομαι περὶ σοῦ: B int. M 1H τ〈ί〉 χρὴ π〈ο〉ιῆσαι: * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1527md",
+      "text": "μῶ〈ρ〉ος εἶ φησὶν εἰ ὅλως δοκεῖς μ〈ε〉 θελῆσαι φο‐ νεῦσαι σε· ἐ〈π〉εὶ εὐνοῦχος ἦν: (M) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1528mi",
+      "text": "τοῦτο διὰ τὸ δειλὸν εἶναι φησί· εἰώθαμεν [para]γὰρ τοὺς δειλανδροῦντας σκώπτοντες γυναῖκας καλεῖν· καὶ ὁ ποιητὴς ἀχαιΐδες [para]οὐκέτ’ ἀχαιοί· φύσιν μὲν οὖν φησὶ ἀνὴρ εἶ· τόλμῃ δὲ γυνὴ: * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1529int",
+      "text": "supra στῆσαι gloss. ποιῆσαι * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1530md",
+      "text": "〈ὀ〉ξέως γὰρ ἐγείρονται οἱ ἀρ〈γεῖ〉οι 〈ἐ〉πὰν βοῆς ἀκούσωσιν: V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1531-2mi",
+      "text": "τὸν δὲ μενέλαον τὸν γαυρούμενον ἐπὶ τῇ [para]κόμῃ· οὐ δέος ἡμῖν ὑποδέξασθαι [para]πρὸς μάχην: (B int. MV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1534msi",
+      "text": "διώκειν κυρίως ἐστὶν τὸ εἰς δι‐ καστήριον ἕλκειν: (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1537msi",
+      "text": "(post scholium ad 1539 scriptum) μερίζεται τὴν 〈γνώ〉μην ὁ χορὸς· δέδοικε γὰρ μὴ ὕστερον ἐγκληθῇ ὡς κ〈ρ〉ύψας· B int. MV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1539msi",
+      "text": "(ante scholium ad 1537 scriptum) ὁ ἀμφὶ τοὺς 〈ἀ〉τρε〈ί〉δας δόμος· εἰς ἕτερον 〈ἀ〉γῶνα μεταπίπτει: B int. MV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1540msi",
+      "text": "σ〈ῖ〉γ’ ἐσό〈μεθα〉 * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1541msi",
+      "text": "ἰδοὺ φησὶν ὁ κα〈π〉νὸς ἀνα πηδῶν καὶ ἀ〈ν〉ερχόμενος ἀπαγγέλλει τῇ πόλει τὰ ἐνθάδε 〈π〉ραττό‐ μενα: B M V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1545msi",
+      "text": "〈ἀ〉εὶ φησὶν 〈ὃ β〉ούλεται θεὸς τοῖς ἀνθρώποις τέλος ἐπιτίθησι: ἀντὶ τοῦ τῶν ἀνθρ〈ωπ〉ί‐ νων πραγμάτων τὸ τέλος ἐν θεῷ ἐστιν: (B int. MV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1545int",
+      "text": "ὁ θεὸς οὕτως ἐξά〈γ〉ει το̣ῖ̣ς̣ ἀνθρώπ〈οισ〉.. φο̣νι.ω̣ν̣ * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1547msi",
+      "text": "ἐπλησίασέ τ〈ισ〉 τ〈ο〉ῖς δόμοι〈σ〉 φ〈ο〉νικὸς 〈δ〉αίμων φονῆς (postea add.?) δι’ αἱμάτων τὴν τιμω‐ ρίαν ποιούμενος τοῦ πτώμα τος τοῦ μυρτ〈ί〉λου· 〈ἐὰ〉ν δὲ διὰ τῆς αι ἀντὶ τοῦ ἔκρου〈σ〉εν: (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1551msi",
+      "text": "συγκλείοντες πέρας ἐπι〈τιθ〉έντ〈εσ〉 τ〈αῖσ〉 θύρ〈αισ〉 τοὺς μοχ〈λ〉ού〈σ〉: (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1552msi",
+      "text": "ἀνὴρ 〈γὰρ〉 εὐτυχῶν πρ〈ὸσ〉 δυσ〈δ〉αίμονας 〈μα〉χόμενος [para]ἐπ〈ι〉κρατέστ〈ε〉ρ〈ο〉ς: (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1552int",
+      "text": "ε̣ξ̣ον..μθ̣..σ̣χ̣υ̣ρότερος 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1554mi",
+      "text": "ὅ ἐστι χαλεπὰ δράματα· κατὰ τὸ [para]σιωπώμενον δὲ εἰκ〈ὸσ〉 ἦν ἐξηγγέλθαι [para]κατὰ τὸ σιω‐ [para]πώμενον μενελάῳ τὰ κατὰ τὸν οἶκον: (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 81md",
+      "text": "ἀλλὰ πρὸ πολλ〈οῦ〉 φησὶν ἀπέ‐ στειλα καὶ ἑτέρους ἵνα χειραγωγούμενος ἔλθῃ: BMV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 82int",
+      "text": "supra μῶν gloss. ἄρα * 1H supra ἀγγέλων gloss. λείπ(ει) σοῦ * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 84md",
+      "text": "〈ἔ〉ξω τῶν οἴκων: * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 87int",
+      "text": "supra σοῖς gloss. τὸ οὖσι (BMV) 4Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 87md",
+      "text": "ἐν κακοῖς οὖσι τοῖς φίλοις 〈ἀ〉παγορεύῃ ἀπάρνῃ βο〈η‐〉 σήθειν (voluit –θήσειν): (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 89md",
+      "text": "οὐκ ἐπίσημος οὐκ ἔνδοξος: B(MV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 91md",
+      "text": "ἄπελθε νῦν: BM 1H ε̣ἶ̣τ̣α̣ 3Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 93md",
+      "text": "〈ἐ〉κπέμπομεν διαλεγόμεθα δ〈η‐〉 λονότι· B M V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 94md",
+      "text": "ἀντὶ αἰ〈τιατικ〉ῆς: ἀντὶ τοῦ παρεστῶ〈τα〉 κακ〈ά〉· δύναται δὲ τὸ τέρ〈ψισ〉 πληθ〈υντικ〉ὴ̣ εἶναι ἵν’ ᾖ οὕτως: ἔ〈μ‐〉 φυτον γὰρ ταῖς γυναιξὶν ἐπ〈ὶ〉 στ〈ό〉ματος ἔχειν τὰς τέρψει〈σ〉 τῶν παρεστώτων κακῶν: BMV 1H ἐγ〈ώ〉· ἔμφυτον ταῖς γυνα〈ιξὶν〉 τὸ διὰ θ〈ρ〉ήνοις παρηγορεῖν τ〈ὰ〉 λυ〈π〉ηρὰ· οὐ τοσοῦτον γὰρ 〈..?.〉 ὁ̣σ̣ο̣ν̣ π..ητ̣αι· ὅσον τῶ̣ν̣ σ̣〈..?.〉 .ἀ̣ν̣α̣κ̣ω̣κύειν: * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 97int",
+      "text": "supra θ’ ἕκτορα gloss. α̣π̣ὸ̣..νην.σ̣τ̣ε̣κα̣ι̣ε̣ι̣ν̣ 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 98int",
+      "text": "supra στερρόν gloss. χα〈λεπ〉ὸν τὴν ἰ̣σ̣χυρα̣ν̣ (BM) 1H supra συνεζύγην gloss. 〈ἐ〉ζεύχ〈θην〉 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 99mi",
+      "text": "〈..?.〉 εἰς δού〈λ〉ειον ἦμαρ πεσοῦσα [para]ἀναξί〈ωσ〉: B M int. V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 101int",
+      "text": "supra τελευταίαν gloss. ἡ̣μ̣ε̣〈ρά〉ν̣ * 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 103a int",
+      "text": "post πάρις gloss. ὑψηλῇ (V) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 105int",
+      "text": "sub πυρὶ δὴ ἁλωτὸν gloss. πεπορθημένον M 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 106msi",
+      "text": "τῷ ἀπηρτισμένῳ ἀριθμῷ ἐχρήσα το· εἰσὶ γὰρ αἱ νῆες αρο: B M V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 106int",
+      "text": "post χιλιόναυς gloss. πολλὰς [para]νῆας ἔχων B int. M int. 1H post ἄρης gloss. ὁ ἑλληνικὸς [para]στρατός B int. M int. V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 107msu",
+      "text": "(in religatione celatum in codice ipso legere potui) ἀπὸ κοινοῦ τὸ εἷλε καὶ ἔστι τὸ μὲν ἀντὶ [para]ἐπόρθησεν τὸ δὲ ἀντὶ τοῦ ἀνεῖλεν· (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 108msi",
+      "text": "εἵλκυσε διφρεύων· πρὸς τῷ δίφρῳ δήσας: B V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 108int",
+      "text": "supra διφρεύων gloss. τὸν π〈αρὰ〉 ἅρματος υ̣..ω̣ν̣ * 1H supra ἁλίας gloss. θαλασσί〈ασ〉 * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 109int",
+      "text": "supra ἀγόμαν gloss. 〈ἐπ〉αγ〈ο〉μένη * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 110msi",
+      "text": "περιβαλοῦσα ἑαυτῇ τὴν δουλείαν· στολισα̣μένη B M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 111ms",
+      "text": "κατὰ τοῦ σώματο〈σ〉 ἔβησαν: * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 112int",
+      "text": "supra κονίαις gloss. κονι〈ορ〉τ〈όν〉 * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 113msi",
+      "text": "φεῦ ἐμοὶ τῇ ἀθλίᾳ: * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 114msi",
+      "text": "οὖσαν γενομ〈έ〉νην B M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 114int",
+      "text": "supra ἇς ὑπὸ gloss. ὑφ’ ἇς * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 116msi",
+      "text": "τήκομαι ἀντὶ τοῦ λείβομαι: ὡς ἐκ πέτρας ἐκ πηδῶσα σταγ〈ών〉: BMV 1H ὡς λιβὰς πηγὴν ἀπεργαζομένη: BV 1H ἀπὸ γῆς ἀναπιδύουσα· ὅ ἐστι πηδῶσα· 〈τὸ〉 δὲ ἑξ〈ῆς·〉 τήκομαι ὡς λι〈βὰσ〉 πιδακόεσσα ἣν π〈ε‐〉 τρίνην εἶπεν διὰ 〈τὸ〉 ἀπὸ πετρῶν ἀνα〈β〉λύ〈ζ〉ειν· B(MV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 116int",
+      "text": "supra τάκομαι gloss. 〈τήκο〉μαι 〈κα〉τ’ [para]ὀ̣〈λί〉γ̣ον B M int. V 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 117int",
+      "text": "supra θάσσεις gloss. 〈ἐγ〉καθ〈ε〉ζ〈ο〉μένη [para]〈ἱ〉κετεύεις: B int. M int. V int. 1H supra δαρὸν gloss. ἐπὶ̣.σ̣κλη̣.. 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 119mi",
+      "text": "〈καί〉περ ἐκ φθί〈ασ〉 οὖσα 〈καὶ〉 ἑλληνὶς [para]ἔμολον πρὸς σὲ τ〈ὴν〉 ἀπὸ τῆς τροίας καὶ βάρβαρον: B M V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 121int",
+      "text": "supra ἄκος gloss. θεραπείαν (M) 1H supra τεμεῖν gloss. εὑρεῖν (M) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 121mi",
+      "text": "ἀπ〈ὸ〉 τῶν ῥιζοτομο(υ)μένων ἡ μεταφορά· [para]τ〈ε〉μεῖν οὖν ἀντὶ τοῦ εὑρεῖν θεραπείαν τῶν δυσκόλων: (BM) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 122int",
+      "text": "post ἑρμίοναν gloss. ἀ〈ν〉τὶ 〈ἐ〉π〈ίκοι〉νον̣ * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 122b msu",
+      "text": "... οὖσ̣〈αν〉 ...〈λέκ〉τρ〈ων〉 τοῦ υἱοῦ τοῦ [para]ἀχ〈ιλλέως ..?.〉 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 122b md",
+      "text": "(crucula? signum ad scholia referens? [para]compendium ὑπέρ vel ὑπό?) ο̣〈..?.〉 οὖσ〈αν σε τῶν περὶ τὸν ἀχιλ‐〉 λ〈έως παῖδα ..?.〉 καὶ δ〈..?.〉 (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 122b int",
+      "text": "post συνέκλῃσαν gloss. συνέκλεισαν οἱ πόνοι * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 123int",
+      "text": "post λέκτρων gloss. δύο λέκτρων: * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 124int",
+      "text": "supra οὖσαν gloss. κοινωνόν V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 130md",
+      "text": "τί ὠ̣〈φελῇ ἐκτήκουσα〉 σα〈υτὴν δακρύοις καὶ λύ‐〉 παις 〈..?.〉 (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 134md",
+      "text": "δούλ〈η οὖσα· τί κάμνεισ〉 οὐ〈δὲν οὖσα ..?.〉 B M int. V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 135int",
+      "text": "post ἕδραν gloss. ἀγλαή〈ν〉 * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 141md",
+      "text": "οἰ〈κτροτάτη οὖσα ἦλ‐〉 θες 〈εἰς τοὺς ἐμοὺς δόμους·〉 B(MV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 143int",
+      "text": "supra οἴκτῳ gloss. σ̣έ 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 147msi",
+      "text": "〈κόσμον μὲν〉 τ̣ῆ̣ς̣ 〈χρυσέας χλιδῆς ἀμφί τῷ〉 ἐμῷ 〈κρατί: ..?.〉 B V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 147int",
+      "text": "supra χλιδῆς gloss. τρυφῆς M int. V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 148int",
+      "text": "supra στολμόν gloss. ἐσθῆτα (M int. V int.) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 150msi",
+      "text": "〈οὐκ ἀπαρχὰς οὐ δωρε〉ὰ̣ς̣ (?)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 153msi",
+      "text": "〈μετὰ παρρησίας λα〉λεῖν Ottobon. 339 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 155msi",
+      "text": "〈οὐδὲ οἰκογενὴς δού〉λη (B M int. V int.) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 158msi",
+      "text": "〈ἡ ὑποδεχο〉μένη σπ〈ό‐〉 〈ραν μὴ γινομένη〉 γ̣ὰ̣ρ̣ δ’ ἔ̣γ̣〈κυος:〉 BMV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 159(?)msi",
+      "text": "〈..?.〉´̣ε̣ι̣ 〈..?.〉σ̣ι̣ 〈..?.〉τ̣ι̣ (?)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 160msi",
+      "text": "〈φαρμάκων δηλον〉ότι: B int. M int. V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 163msi",
+      "text": "〈εἰ δέ τις θεῶν ἢ ἀνθρώπων σῶσαι〉 θε‐ 〈λήσει σε ποιήσει σε κ〉ατα‐ 〈πτῆξαι καὶ ὑποστάξ〉αι 〈σαυτὴν ἐμοί:〉 BMV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 163int",
+      "text": "supra θέλῃ gloss. δυνηθῇ * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 165msi",
+      "text": "〈φοβ〉ηθῆ‐ 〈ναι: ..?.〉 (post 〈φοβ〉ηθῆ signum u.v.) BM 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 167msi",
+      "text": "〈τευχέων: σημαίνει〉 καὶ 〈τὸ πολεμικὸν ὅπλον σημ〉αί‐ 〈νει δὲ καὶ τὸ ἀγγεῖον:〉 V 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 167int",
+      "text": "supra τευχέων gloss. ἀγγείων B 1H supra χειρὶ gloss. ῥαίνουσαν B(MV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 167(?)msi",
+      "text": "〈..?.〉πι 〈..?.〉αλεῖν: 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 167mi",
+      "text": "〈..?. ποτ〉άμιον ὕδωρ: B(MV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 168mi",
+      "text": "ἐπίγνωθι ὅπου ᾖς γῆς: * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 169mi",
+      "text": "ἑλληνικὴ πόλις: B int. M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 780msu",
+      "text": "βέλτιον ἡττᾶσθαι δικαίως ἤπερ θαρροῦντας [para]βασκανίᾳ καὶ δυνάμει παραλύειν τὸ δίκαιον: BM μὴ κακήν, φησί, ἔχειν ἀλλ’ ἔνδοξον ἢ συνφθόνῳ [para]καὶ δυνάμει παραβαίνειν τὸ δίκαιον: (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 781md",
+      "text": "τὸ νικᾶν ο〈ἵῳ〉 δήποτε τ〈ρό〉πῳ· τῷ χρ〈ό〉νῳ μαραί‐ ν〈ε〉τ〈αι〉· τουτέστιν ἡ ἐπ’ αὐτῷ ἡ δονή: (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 784int",
+      "text": "supra ξηρὸν gloss. ἀ̣φα〈ν〉ές * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 790md",
+      "text": "(signum ad textum referens) 〈σὺν〉 λαπίθαις [para]〈σ〉υ̣ν̣..χ̣η̣σεν ὁ πηλεύς ι̣σ̣γ̣α̣..ι̣εν μ̣υρων· ..έπ.ει̣..´τε τῷ ἰάσονι ἐπὶ τῆ̣ς̣ 〈ἀ〉ργο̣ῦ̣ς̣ ʼ̣.῀συ̣.θία̣ν̣ πειθ̣ου ἀ̣γ̣όμενο̣ς̣ ἐμοῖς συ〈ν〉η̣γ̣α̣γοντ. πανεισ` ε̣μ̣.χ̣ί̣α̣ς̣ ω̣νησα̣ν̣ [para]οἰκ〈ή〉ται̣. τα̣ῖ̣ς̣ ´̣.θ̣’ ἀγόμενο̣ς̣ ἐπὶ τὴν νυ̣...γ̣ω̣κ̣ο̣ι̣ μ̣ω̣.α̣ένι̣ς̣ . ἐ̣ντα̣ῦ̣θ̣α̣ . ʽ ἔ̣χει [para].. αἵπ̣ερ τὸν παῖδα ἐπέλθε̣τ’ οὖν οἱ συ̣〈ν〉ευη̣χο̣..μενοι καὶ ..ο̣λε̣..στή..νις̣.ῶ̣: ἀ̣ν̣ε̣ι̣ας’ ἂν .. τρεῖς δὲ μένοι ἐπώθην̣ 〈..?.〉 δ̣ίρη̣ν̣. οὖ̣ν̣ ..τ̣ὸ .. ἠλε̣ν̣´ν̣ος φλόος· ὃ οὖ̣ν̣ κ̣ειτην̣αρκ̣α̣.υ̣ν..ρος.. ὃ̣ς̣ ἐ̣π̣ὶ̣ τῷ πορθμῷ [para]θι̣ζόμενος τῆ̣ς̣ δ̣ηνουπη̣τω̣ πα̣ρ’ α̣ὐτο. διὰ .λ̣ό̣ν̣τας 〈..?.〉 τί ἆρ.. οὔτε .λο̣υ̣μένη̣ς̣ δ̣.´̣ρ.ς̣ κτ̣.ο̣ντ. ἐν ἣν̣ .μ̣ὰσι̣σ̣῀̣. μετ〈ὰ〉 τῷ φησὶ [para]ἀρισ̣έν ἤ〈γ〉αγε τὸ χρ〈η〉σό̣μ̣ε̣ν̣α̣ (vel –ε̣ν̣ο̣ν̣) δ’ ἐρ.ε̣συ̣..ας: .π̣ερωτ̣ώνπ..ιας ....έτ [para].. ἐν ..α̣ι̣ ὁ τ̣ῆ̣ς̣ ἰωλκῆ̣ς̣ κασι.〈..?.〉 * 3H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 792md",
+      "text": "ἐνδοξ〈οτάτ〉ῳ πολεμῆσαι καὶ συγκοινω‐ νῆσαι: BM 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 793int",
+      "text": "post ἐκπερᾶσαι gloss. κακ〈ό〉ξει〈νον〉 * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 794md",
+      "text": "ἀπὸ κο〈ι〉ν〈οῦ〉 πείθ〈ο〉μαι σοι: B M int. 1H τ〈ὰσ〉 πέτ〈ρασ〉 τὰς σ〈υμ〉πληγάδας φησίν: B M int. V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 796md",
+      "text": "ἰλιάδ〈α〉 πόλιν· 〈οἱ〉 μὲν π〈λ〉είο〈υσ〉 τελ〈α〉μῶνά φασι συσ〈τρ〉ατ̣〈ε〉ῦ〈σαι〉 τῷ 〈ἡ〉ρακλεῖ [para]ἐπὶ 〈τὴν〉 ἴ〈λ〉ι〈ον〉· ὁ δὲ 〈πί〉νδ〈α〉ρος 〈καὶ〉 πηλ〈έ〉α 〈π〉αρ’ οὗ ἔοι‐ κ〈ε〉 τὴν ἱστ〈ο〉ρίαν ὁ 〈εὐ〉ριπί〈η〉ς 〈..?.〉 〈λα〉βεῖν· 〈λ〉έγει π〈ί〉νδαρος “π〈ηλ〉έω̣ς [para]ἀν〈τι〉θέου μό〈χ〉θοι νεωτάτοις ἐπέ‐ λαμψε / μυρίοις πρῶτον μὲν ἀλκμήνης σ〈ὺν〉 〈υ〉ἱῷ τρώων ἀμπεδί〈ον〉 / καὶ 〈με‐〉 τὰ 〈ζ〉ωστ〈ῆρασ〉 ἀ〈μ〉αζόνας τ’ ἦλθεν / καὶ 〈τὸν〉 ἰά〈σο〉νος εὔδοξον πλόον ἐκτελευτήσας / εἷλε μήδειαν 〈ἐν〉 κόλχων δόμῳ (δώμῳ a.c.)”: MV 3H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 797md",
+      "text": "θ〈ν〉ητο〈ὺ〉ς γὰρ ἀντὶ ἀθα‐ νάτων 〈ἵ〉ππων λαβὼν ἐπορ‐ θ〈η〉σε 〈τ〉ὴν τρ〈ο〉ῖαν: BV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 799int",
+      "text": "supra εὐδόκιμος gloss. ἔνδ〈ο〉ξ〈οσ〉 * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 802int",
+      "text": "supra κακὸν gloss. ὄντ〈α〉 * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 803int",
+      "text": "post πορσύνεται gloss. παρεσκεύ〈ασται〉 (BM) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 805md et mi",
+      "text": "〈ἐρη〉μωθεῖσα μετανοίᾳ συνδή‐ σει φροντίδι· λογιζομένη οἷον ἐβουλεύσατο ἔργον τὴν ἀνδρομάχην κτανεῖν: (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 806-830msu",
+      "text": "+ ὦ παντὸς ἔργου καὶ θεηγόρου λόγου καὶ γλῶσσα καὶ νοῦς καὶ στροφὴ .. καὶ ο̣λ̣δ̣. 5H (inscriptionem videlicet non ad Euripidem pertinentem manus recentior addidit)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 809msi",
+      "text": "ἐκβληθῇ (gloss. ἀποσταλῇ) * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 811msi",
+      "text": "ἀναρτῆ〈σ〉αι κρεμ〈ά〉σαι M 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 813msi",
+      "text": "ἀφαιρούμενοι M V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 814msi",
+      "text": "μετανοεῖ ἐννοήσασα [para]λυπεῖται B V Laur. 31.6 (apud Dindorf) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 816msi",
+      "text": "ἀγχόνη τὸ 〈σ〉χο〈ινί〉ον ἀγχο‐ νὴ δὲ αὐτὸ 〈τὸ〉 πρ〈ᾶ〉γμα: BMV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 818msi",
+      "text": "ἀρχαίων συ〈ν〉ήθων· B int. (MV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 819msi",
+      "text": "μᾶλλ〈ον〉 πεῖσαι δυνάμε〈ν〉οι: BM 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 824msi",
+      "text": "τῇ ἐπ〈ιθ〉υμ〈ί〉ᾳ τῷ ἔρω τι: BM 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 826msi",
+      "text": "σπαράγματα ξύσματα: σπάραγμα κόμης διὰ τῶν χειρῶν θήσ〈ο〉μαι καὶ ξύσμα 〈διὰ〉 τῶν ὀνύχων: BMV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 826int",
+      "text": "supra δάι’ gloss. τὰ διακοπτικά (BM) 3Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 827mi",
+      "text": "ἀμύγματα: σπαράγματα ξύσματα παρὰ [para]τὸ ἀμύσσω· ὅμηρος κατεμύξατο χεῖρ’ ἀραίην: MV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 828int",
+      "text": "supra καταικιῇ gloss. ὑβρίζεις ἀφανίζεις: B int. M V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 829(?)int",
+      "text": "post καταικιῇ gloss. .δι̣α̣τι̣..",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 889md",
+      "text": "τηλοῦ ὄντα τὰ πεδία ὅ ἐστι μακ〈ρ〉άν, κεχω‐ ρισμένα: BMV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 891int",
+      "text": "post φανεὶς gloss. λείπ(ει) ὡς M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 892int",
+      "text": "post γονάτων gloss. λεί〈πει〉 τὸ ἱκ〈ε〉τεύω B int. M int. 3H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 893md",
+      "text": "ἐφ〈ο〉ρᾷς: (M) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 894md",
+      "text": "χ〈ω〉ρ〈ὶσ〉 ἱκετηριῶν σε παρα‐ κ〈α〉λῶ· ἐπεὶ ἔθος ἦν τοὺς δεομένους (κλάδ〈ουσ〉 add. 3H) καὶ ταῖς χερσὶ καὶ τῷ στόματι κατέχον τας δέεσθαι: BMV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 896int",
+      "text": "supra τί χρῆμα gloss. μή τι ἄρα B int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 900md",
+      "text": "θεραπείαν B int. M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 901md",
+      "text": "τί κα〈κ〉ὸν ἢ παρὰ θεῶν ἢ παρ’ ἀνθρώπων: BM 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 904md",
+      "text": "μὴ γεγενημένων, μὴ ὄν〈τ〉ω〈ν〉: B 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 907md",
+      "text": "ἀντὶ τῆς σῆς Vat. pal. 287 (apud Dindorf) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 910md",
+      "text": "ἠ〈θέ〉λησα ἀμύ〈ν〉εσθαι· ἢ ἐβοήθ〈ησα〉 ἐμαυτ〈ῇ〉 εἰς τα〈ῦτα:〉 V 3H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 911md",
+      "text": "ἐβ〈ου〉λεύσω κατ〈ε‐〉 σκεύασας: BM 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 912-936msi",
+      "text": "+ καὶ σὺ παιδ〈..?.〉 [para]προφήτης [para]ὑφ’ ἰ̣σ̣ο̣υ̣ 5H (inscriptionem non ad Euripidem pertinentem addidit eadem manus, ut videtur, quae in margine superiore ta‐ bulae 45 duos versus scripsit)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 918msi",
+      "text": "αἰδεσθείς: B int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 921msi",
+      "text": "ἔφορον τοῦ γένους: Neap. II F 41 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 922msi",
+      "text": "πορρωτάτω τ〈ῆσ〉δε τῆς χώρας: M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 924msi",
+      "text": "μονονουχὶ φωνὴν ἀφιέντες· ἀντὶ διὰ τοῦτο: (BM) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 927msi",
+      "text": "ἢ αἰ〈σ〉χροῖς ἢ ἐπὶ αἰ‐ σχροῖ〈σ〉 ἁλοῦσαν: B M V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 929msi",
+      "text": "ἀλλ’ εἰ ἐρωτήσει‐ έ τις πῶς τ̣ά ἐξη‐ μάρτανες: BMV 1H ἠπάτησαν ἀνεπτέρω‐ σαν· ἡπάλυναν: (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 934msi",
+      "text": "λείπ〈ει〉 ἥρα〈ν〉 * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 935msi",
+      "text": "βλεπούσης ζώσ〈ησ〉· ἢ οὕτως· οὐκ ἂν με ζῶσαν ἐκληρονόμει: (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 938md",
+      "text": "τί γὰρ 〈ἐφύλλαττον τὸν ἀν‐〉 δρα 〈μου ἑτέρᾳ μὴ συ‐〉 νελ〈θεῖν γυναικὶ〉 ἔχουσ〈α παρ’ αὐτοῦ τὰ〉 ἐπι〈τήδεια:〉 BMV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 947md",
+      "text": "λαβ〈οῦσά τι παρά τινοσ〉 ἐρα〈στοῦ:〉 B 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 948md",
+      "text": "συμ〈πάσχειν ἑαυτῇ καὶ τὰσ〉 ἄλλας 〈βούλεται ἵνα μὴ μόνη〉 ἀσχ〈ημονῇ:〉 ὅ ἐστι δια‐ ζευχ〈θεῖσα〉 συνν〈οσεῖν ἀνανδρίαν αὑτῇ〉 βού〈λεται καὶ τὰς ἄλλας:〉 BMV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 949md",
+      "text": "π〈ορνείᾳ ..?.〉 ὅ ἐστιν· π〈ορνεύσασα βού‐〉 λεται 〈πρὸς ἀπο‐〉 λογ〈ίαν αὑτῆς πάσασ〉 ἀσχημ〈ονευεῖν ..?.〉 τα· φ〈..?.〉 BMV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 953int",
+      "text": "post κακά gloss. εἰς τὸ γυναικεῖον [para]γένος B int. M int. V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 957mi",
+      "text": "σοφόν τι τὸ εὕρημα τοῦ διδάξ〈αν〉τος τοὺς [para]βροτοὺς ἀκούειν τὰ ἐν〈άντια τῶν ἀντι‐〉 λεγόντων ἀντὶ τ̣ο̣ῦ̣ δύνασθαι κρίνειν τὰ παρὰ τῶν [para]διχοσταντούντων (sic) λεγόμενα· 〈κἀγὼ γὰρ εἰδὼσ〉 τὴν σύγχυσιν τούτων τῶν οἴκων ἐκ τῆς διχοστασίας [para]γενομένης ἀνέμενον ἀκοῦ〈σαι τὰ παρὰ σοῦ λεχθη‐〉 σόμενα εἴτε μενεῖς εἴτε καὶ οὔ: MV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 964msi",
+      "text": "〈ἀπ’ ἐμαυτοῦ ἦλθον〉 ἐνταῦ‐ 〈θα προεγνωκ〉ὼς 〈ταῦτα οὐ γρ〉άμματα 〈σου ἐδεξάμ〉ην: M V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 965msi",
+      "text": "(ante εἰ δ’ in textu signum scriptum; cf. scholium ad Andr. 165) 〈εἰ δὲ θαρσήσει〉α̣ς̣ μοι 〈σαυτὴν ὥσπερ καὶ εἰς τὸν〉 λόγον: M 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 967int",
+      "text": "supra κάκῃ gloss. κακίᾳ M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 972msi",
+      "text": "〈ταῦτα φησὶν ἔλεγον〉 αὐτῷ 〈ὅτι παραχώρησόν μοι〉 τῆς παι‐ 〈δὸς ἐπεὶ οὐκ ἄλ〉λοθεν 〈γυναῖκα προσδ〉οκῶ 〈λαβεῖν ἢ παρὰ συ〉γγενῶν 〈φυγὰς ὤν:〉 MV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 974int",
+      "text": "post ἂν gloss. τὸν τῆς μ〈α〉νίας 〈δα〉ίμ〈ονα〉 M int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 975mi",
+      "text": "ἔκτοθεν οὐ ῥᾳδίως· καὶ γὰρ ἀνδρὸς 〈κα〉κῶς πράσσοντος ἐκποδὼν φίλοι 〈τὸ δὲ συγγενὲς κατὰ〉 φυσικὴν ἀνάγκην δοῦλον [para]ὡς καὶ ἐν δυσκόλῳ φησὶν ὁ μένανδρος “οὐκ ἔνεστ’ οὐκ ἔστ’ 〈ἴσως φυγεῖν οἰκειό〉τ〈η〉τα δᾶερ: ἄλλως: ὡς [para]φίλων μὲν ἂν γήμαιμ’ ἀπ’ ἀνδρῶν φεύγων [para]ἀπ’ οἴ〈κων:〉 (MV) 3H(?)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 976mi",
+      "text": "〈μυκηναῖος γὰρ ὢν ὁ〉 ὀρέστης καὶ γαμῶν συγγενῆ σπαρτιάτιδα ἐδύνατο τὴν πατρίδα φεύγων διὰ τὸν νόμον 〈εἰς τὸν οἶκον τῆς γα〉μετῆς ὅ ἐστι εἰς τὴν σπάρτην φεύγειν καὶ μὴ ἐν ξένοις [para]ἀ̣λᾶσθαι: ἀλλ’ ἀραιότερον φησὶ φυγὴν 〈εὑρεῖν εἰς οἶκον γα〉μετὴς ὤν: (MV) 3H(?)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 978msi",
+      "text": "〈..?. ο〉νειδί‐ 〈ζων..?.〉 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 982msi",
+      "text": "〈οὐκ ὀρθῶσ〉 πεπτω‐ 〈κυίασ〉 Vat. pal. 287 (apud Dindorf) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 985msi",
+      "text": "〈χρήσι〉μον: γνώ(μη) * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 985mi",
+      "text": "〈οὐκ ἄν τις εὕ〉ροι συγγενοῦς [para]χρησιμώτερ〈ο〉ν ἐν καιρῷ ἀτυχί〈ασ〉: MV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1042int",
+      "text": "supra φίλοις gloss. οὐδὲ μόνοις τοῖς [para]φίλοις σου V 3Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1045md",
+      "text": "διέβ〈α..?.〉 3H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1047md",
+      "text": "π〈υνθανομένῳ ..?.〉 3Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1068msu",
+      "text": "〈..?. νεοπτολέμῳ ὥστε〉 φυλάξασθαι: V int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 321md",
+      "text": "εἴθ〈ε φησὶν ἐγὼ μὴ ὀφθείην〉 ἀδ〈ικοῦσα αὐτὸν ὡς ἐκεῖ‐〉 νος ἐ〈μὲ οὐδὲν ἀδικεῖ:〉 B int. V 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 324md",
+      "text": "λε〈λείψομαι· ἀντὶ τοῦ〉 ἐν〈ιζανοῦμαι〉 σοί· (B int. V) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 327md",
+      "text": "εἰ 〈πεύσῃ τὰ σιωπώμενα〉 κα〈κά:〉 (BV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 329md",
+      "text": "ἀπ〈ολῇ φησὶν εἰ ἀναγκά‐〉 σεις μ〈ε λέγειν· ἐμοὶ δὲ τοῦτο〉 τὸ 〈σιωπᾶν· καθὸ οὐκ〉 ἔκ〈φορος εἰς πολλοὺς ἡ νόσος ἐ‐〉 μοῦ τ〈ὸ τῆς σωφροσύνης ὄνομα〉 μέλλ〈ουσα ἐν σωφροσύνῃ τελευτᾶν:〉 BMV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 330int",
+      "text": "κρύπτεις τὰ χρηστ〈ὰ〉 ἐμ〈ο〉ῦ παρακαλούσης [para]σε λέ〈γ〉ειν αὐτά: (BV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 332md",
+      "text": "ὡς φίλοις οὐ 〈..?.〉 τὴν συμφορὰν 〈..?.〉 (BV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 337md",
+      "text": "αἰν〈ιγματικῶσ〉 θέλ〈ει φράσαι〉 τ〈ὸν ἔρωτα:〉 (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 339md",
+      "text": "θ〈ησέως γὰρ ἠράσθη〉 ἡ ἀρ〈ιάδνη ἡ ἀδελφὴ〉 φα〈ίδρας:〉 (M V int.) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 340int",
+      "text": "supra συγγόνους gloss. κακολ〈ο〉γεῖς λο〈ι〉δορεῖ〈σ〉: (M) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 343md",
+      "text": "γρ. καὶ ἐ〈κεῖθεν καὶ νεωστὶ δυσ‐ τυχ〈οῦμεν〉 (B int. MV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 352(?)int",
+      "text": "post κλύεις gloss. τῷ̣ ὄντ̣ι̣ λ..κασ̣οια̣ 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 359msi",
+      "text": "〈θεὸν γὰρ κυρίως φασὶ τὸν μετὰ τοῦ δυνα〉τοῦ 〈καὶ τὸ προνοητικὸν ἔχοντα〉: (BV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 363int",
+      "text": "supra θρεομένας gloss. τὰ δεινὰ λεγούσης * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 365msi",
+      "text": "〈ἀντὶ τοῦ πληρῶσαι παρὰ τὴν ν〉ύσσαν· 〈οἱ δὲ πρὶν λῆξιν λα〉βεῖν 〈σου τὰς προσφιλεῖσ〉 φρένας: (B int. MV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 367msi",
+      "text": "〈ἐν οἷς τρ〉έφονται 〈οἱ βροτοί· ἐπειδ〉ὴ 〈ἐν πόνοις διατελο〉ῦμεν καὶ διαντλοῦμεν: B int. MV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 469-493msu",
+      "text": "ἀνεναἐμννεναν̣ω̣ν̣αεε̣σ̣ε̣ε̣ε, ν̣ωνενανεναα ο̣υ̣αγε̣ι̣ε̣λ̣ε̣ (exercitatio calami? syllabae magicae?) 1Huv [para]καὶ κάψα̣τα̣ κ.ο̣υ̣δίαμ̣που 5Huv (scripsit manus recentior, fortasse eadem manus quae in margine superiore tabularum 45 et 47 inscriptiones addidit)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 469md",
+      "text": "δυστυχίαν (ter scriptum) * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 478int",
+      "text": "supra ἐπῳδαὶ gloss. ἐ̣π̣οιδά 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 480md",
+      "text": "ἀντὶ τοῦ οὐδ’ ὅλως (M) 4H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 482md",
+      "text": "τὴν μὲν ἐπαινεῖ τὴν δὲ θαυμάζει: (M) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 487md",
+      "text": "οἱ ἡδεῖς * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 491md",
+      "text": "πειρατέον (BV) 4H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 492md",
+      "text": "τὸν ἁπλοῦν τὸν κατ’ εὐθὺ λόγον καὶ ἀληθι‐ νόν: M 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 496msi",
+      "text": "προετρεπόμην * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 500msi",
+      "text": "αἰσχρὰ μὲν τὰ λε‐ χθέντα M 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 503msi",
+      "text": "καλῶς μὲν γὰρ λέγεις καὶ πιθανῶς αἰσχρὰ δέ ἐστι φύσει τὰ λεγόμενα: (BMV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 506int",
+      "text": "supra ἀναλωθήσομαι gloss. ἐμ〈π〉έσω δια〈φ〉θαρῶ * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 507msi",
+      "text": "εἰ δοκεῖς σωφρον〈εῖν〉 ὤ‐ φειλες με μηδὲ τὴν ἀρχὴν ἁμαρτάνειν ἐρασθεῖσα· ὅμως κἂν ταύτην τὴν ἥσσο‐ νά μοι χάριν δός· τινὲς δὲ οὕτως· εἰ δο‐ κεῖ σοι μὴ πείθε‐ σθαι εἰς τοῦτο· ἐχρῆν μὲν οὖν μὴ σφάλλεσθαι ἀπει‐ θοῦσαν· εἰ δέδοκταί σοι τὸ μὴ πεισθ〈ῆ‐〉 ναι κἂν δευτέρ〈αν〉 καὶ ἥσσονά μοι χάριν δός: M 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 511mi",
+      "text": "πάντως γὰρ κἀκείνου ἐρῶντος οὐκ ἄν ἀποτυχοῦσα τῆς κοινωνίας αἰσχυνθείης· BMV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 518int",
+      "text": "supra σοφή gloss. πανοῦργος * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1136-1160",
+      "text": "Nullum scholium videri potest.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1161-1186",
+      "text": "Nullum scholium videri potest. In margine inferiore manus recentior scripsit κύριε βοήθει τῷ σῷ ἀχρείῳ δούλῳ λέοντ〈ι〉 τῷ δοκειανῷ + 6H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1290-1313a",
+      "text": "Nullum scholium videri potest.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1325msi",
+      "text": "〈..?.〉π̣..τη̣τοῦ..ρ̣ιπτ̣ [para].......... 3H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 51msu",
+      "text": "θ̣.ρ̣ο̣υ̣σ̣α̣ (?) 〈σ〉υννοουμένη εἴρηται δὲ ἀπὸ τοῦ θροῦ· καὶ [para]ὅμ̣η̣ρ̣ο̣ς̣ οὐ γὰρ πάντων ἦεν ὁμὼς θρόος οὐδ’ ἴα γ〈ῆρυς·〉 (B) apud Dindorf 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 52msu",
+      "text": "διὰ τί μόνη σου καταλοίπεσθαι ἡ [para]μήδεια θέλει: B int. V 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 54msu",
+      "text": "τ̣ο̣ῖ̣ς̣ χρηστοῖς δούλοις τὰ τῶν δεσποτῶν κακῶς π〈ίπ〉τοντα· ἀ̣ν̣τ̣ὶ̣ 〈εἰ〉ς 〈κακὸν〉 ἀποβαί〈νοντα:〉 (B) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 56md",
+      "text": "τοῦτ〈ο〉 δὲ φησὶ 〈πέπλ〉ηγα τὴν ψυ〈χὴν〉 (post schol. 〈ὑ〉πὸ 〈τῶν〉 κα〈κῶν τῶν κατὰ μήδειαν〉 ad 58 scr.) ὡς ἀφίεναι 〈λόγ〉ους εἴς τε τὴν γ〈ῆν καὶ〉 τὸν ἀ〈έρ〉α ἀποδυρο‐ μένη τ〈ὰς ἐκ〉είν〈ησ〉 τύχας· οὐ‐ ρανὸν γὰρ λέγει νῦν τὸν ἀέρα· οἱ δὲ στενοχωρούμενοι ὑπὸ π̣ο̣τ̣〈ὲ〉 κακῶν τῷ οὐρανῷ ἢ τῷ ἡλί〈ῳ〉 ἤ τινι ἄλλῳ θεῷ ὑφηγοῦνται 〈τ〉ὰ καθ’ 〈ἑ〉αυτ〈οὺσ〉 πράγματα: BV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 58md",
+      "text": "〈τ〉ὸ σχῆμα 〈σολοικοφανὲσ〉 (ante schol. 〈διὰ〉 τ〈ὴν ἐ〉να〈λλα〉γὴν τῆς πτ〈ώσεως·〉 ad 56 scr.) 〈μ〉ο〈λούσῃ〉 ἀ〈ντὶ μολοῦ〉σ〈α:〉 (BV) 3Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 60md",
+      "text": "θαυμάζω 〈σε〉 φησὶ πῶς οὐκ ἔ〈γ〉ν〈ω‐〉 κας· α〈ὖθ〉ις 〈γὰρ〉 ἀρ〈χὴν〉 εἴληφε τὸ κακὸν καὶ οὐδὲ εἰς μεσότ〈ητα〉 προῆ〈λ〉θε· τ〈ο〉σοῦ〈τ〉ον ἀπέχε〈ι〉 τοῦ 〈π〉επαῦσθαι τὸ κακὸν: ἐν ἤθει δὲ εἴ〈ρ〉η〈ται·〉 μακά〈ριοσ〉 εἶ τοιαύτην διάν〈οιαν〉 ἔχων· τὸ γὰρ κακὸν οὐ μ〈ό〉νον λήγει ἀλλ’ οὐ δὲ μεσάζει· τὸ δὲ μεσοῖ τρίτης συζυγ〈ίας:〉 B 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 61mi",
+      "text": "ὁ πρέσβυς ε̣ἶδε ὅτι μεμελέτησ̣τ̣ο̣ τῷ [para]κρέοντι ἐκβαλεῖν τὴν μήδειαν· φησὶ [para]ὦ μῶρα κλαίουσα καὶ μὴ φροντίζουσα ἤτε μεριμνῶσα τί πότε ἄρα ποιήσειε· μῶρος δὲ εἶπεν ἀρσενικὸν ἀντὶ θηλυκοῦ ἀττικῶς: * 7H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 67md",
+      "text": "〈ἤ〉κουσα φησὶ τινὸς λέγοντος ὠτακου〈στ〉ῶν μ〈ὴ〉 προσποιού‐ μενος 〈ἀκούει〉ν: BV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 68md",
+      "text": "ἀπὸ τῶν ἐν τόποις 〈ὠν〉όμα‐ 〈ζ〉ον τοὺς τ〈όπ〉ους· πεσσού〈σ〉 γὰρ τ〈οὺσ〉 τ〈όπους τῶ〉ν κυβευτ〈ῶν〉 ὡ̣ς̣ ὄ〈ψον〉 〈καὶ μύρα ἔ〉ν〈θα ταῦτα συνήθως ἐστίν:〉 (B) 1H 〈ὅπου φησὶν εἰθισμένοι〉 ε̣ἰ̣σ̣ὶ πεσσ〈εύειν〉 〈προσέλ〉θ〈ων〉 ἤκου〈σα·〉 (B) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 76int",
+      "text": "supra λείπεται gloss. ἡττᾶται (B int.) 7Huv (fortasse scripsit eadem manus quae scholium ad v. 61 in margine inferiore tabulae 60 addidit)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 78msu",
+      "text": "ἀπὸ τῶν ἐν τοῖς πλοίοις ἀντλούντων ἡ [para]μεταφορὰ ἀντὶ πεπαῦσθαι: παλαιὸν διὰ τὸ ἐκβεβλῆσθαι τῆς θετταλίας [para]διὰ τὸν τοῦ πελίου θάνατον ὑπὸ ἀκάστου τοῦ παιδὸς πελίου· ἢ τὸ καταλειφθῆναι αὐτὴν [para]ὑπὸ ἰάσονος· νέον δὲ τὸ ἐκβληθῆναι τῆς κορινθίας: (B) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 84msi",
+      "text": "εὑρίσκεται κακὸς ὢν 〈πρ〉ὸ〈σ〉 τοὺς φίλους· ἕω〈σ〉 τού‐ του ἡ πρεσβ〈ῦ〉τις· 〈τ〉ὰ δὲ ἑξῆς ὁ πρεσβύτης: οὕτως ἀναγνωστέ〈ον〉 τίς δ’ οὐχὶ θνητῶν καὶ στικτέον εἶτα ἀπὸ ἑτέρας ἀρχ〈ῆσ〉 ἄρτι γιγνώσκεις τόδε· διὸ καὶ μετὰ 〈τ〉οῦ ς γρ〈απτέον〉· οἷον· τίς οὐκ ἔστι κα‐ κὸς εἰς φί〈λ〉ους εἶτα τὸ ἄρτι γιγνώσκεις· οἷον· ἄρ〈τ〉ι ἔγνωκας ὅτ〈ι〉 ἑαυτοὺς μ〈ᾶλλ〉ον φιλοῦσιν ἢ τοὺς π〈έ〉λας·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 84msi",
+      "text": "οἱ δὲ ὑποκριταὶ τοῦτο 〈ἀγ〉νο‐ ήσ〈αν〉τ〈εσ〉 τὸ τίς ἀ〈ν〉τιδια‐ στέλλουσιν· τίς δ’ οὐχὶ 〈θ〉ν〈η‐〉 τῶν τοῦτο γιγνώσκει σαφ〈ῶς·〉 τῇ δὲ διανοίᾳ τα〈ύ〉τῃ 〈καὶ〉 ἐν κρε〈σ〉φόντῃ κέχρηται οὕτως· ἐκ〈εῖ〉νο γὰρ πέπ〈ον〉θα ὃ πάντες βροτοί· φ〈ι‐〉 λῶνον (sic) μάλιστ’ ἐμαυτὸν οὐ καταισχύνομαι: B 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 89msi",
+      "text": "ἴτε ἔσω τέκνα· τὸ δὲ εὖ γὰρ ἔσται εὐχομένη λέγει τουτέστιν· ἐπὶ καλῷ 〈δὲ〉 ἀποβα〈ίη〉 εἰσελθεῖν ὑμᾶ〈ς·〉 B 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 93msi",
+      "text": "ἀντὶ τοῦ δράσου〈σ〉αν· ἔστι δὲ ἀττικόν· καὶ σοφοκ〈λ〉ῆς ἐν αἴαντι μαστιγοφό‐ ρῳ· ὦ δέσποτ’ αἴας τί ποτε δρασείειν δοκεῖς: (B) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 94int",
+      "text": "supra κατασκῆψαι gloss. βλάψαι * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 97mi",
+      "text": "ποίῳ τρόπῳ ἐμαυτὴν ἀνέλω: B int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 98int",
+      "text": "post μήτηρ gloss. τοῦτο ἐκεῖνο ὃ ἔλεγον B int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 105int",
+      "text": "supra τάχος gloss. ..μ〈....ca. 20〉ω̣ 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 106md",
+      "text": "〈τ〉ὸ σύστημα τῆς οἰμωγ〈ῆσ〉 ἀνάγεσθαι καὶ αὔξεσθαι μέλλει: B int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 115md",
+      "text": "κατὰ τὴν ὑπόθεσιν εἰ σῆλ〈θον〉 οἱ π〈αῖ〉δες· ἡ δὲ μή‐ δεια οὖσα ἔσωθεν, ἐπι‐ 〈στ〉ενάζει: B int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 120-124md",
+      "text": "ἐξ ὀ〈λ〉ίγου καὶ 〈β〉ραχέος ἀρχό‐ μεν〈οι〉 τοῦ θυμοῦ καὶ ἐπὶ πολὺ τοῦτ〈ον〉 κρατοῦντες· 〈τ〉ὸ γὰρ πολλά ἀντὶ τοῦ ἐπὶ πο‐ λύ· δύναται δὲ καὶ ὀλίγον ἀρχόμενοι· ἀντὶ τοῦ οὐδ’ ὃ‐ 〈λωσ〉 ἀρ〈χό〉μενε (sic) ἀλλ’ ἐκ τοῦ 〈ἐν〉α〈ν〉τίου αὐτοὶ πολ‐ λ〈ῶν〉 κρ〈α〉τοῦντ〈εσ〉· πέφυκε 〈δ’〉 ἡ ἐ〈ξ〉ουσί〈α〉 ἐπαίρειν ἀεὶ τῶν ἀνθρώπων τὸν λ〈ο〉γισμόν: ἢ ἀντὶ μ〈ετ〉ρίως καὶ ἀσφ〈αλῶσ〉 ὡς τῆς συμμετρίας τὸ 〈ἀσφα‐〉 λὲς 〈τῆσ〉 παραμ〈ό〉νω̣ς̣ (voluit –νῆς?) ἐχ〈ούσησ〉 τῆς δὲ ὑπερβολὴν (voluit –λῆς?) μ〈εγάλασ〉 〈καὶ τὰς ἐκπτ〈ώ〉σεις ἐχούσ〈ησ〉 ὡ〈σ〉 ἐπάγ〈ει〉· ἀ〈μ〉φότερα δὲ λέ〈γεται〉 καὶ ὀχυρ〈ῶσ〉 καὶ ἰσχυρῶς· 〈τὸ〉 δὲ ζ〈ῆν〉 ἐπ’ ἴσ〈οισ〉 τουτέστι μετὰ ἰ‐ 〈σ〉ότη〈τ〉ος καὶ 〈μ〉ὴ ἐν τυραν‐ νίδ〈ι〉 κρεῖσσον· ἔδει φησὶ πάντας ἀν〈θρώπ〉ους μηδένα μηδενὸς 〈ὑπ〉ερέχειν τῆς συμ‐ μετρ〈ί〉ας εἰς μὴ πλειό‐",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 120-124md",
+      "text": "νων ἐπ〈ι〉θυμ〈εῖν〉· τοῦτο μέγιστον ἀν〈θρώπ〉ο〈ισ〉 καὶ λ〈υσ〉ιτελέστατον: (B) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 122mi",
+      "text": "τὸ χρῆσ〈θαι ο〉ὖν τῇ 〈συμμετρίᾳ εἰς [para]〈ὅ〉λον τ〈ὸν〉 χρ〈όνον〉 βέλ〈τιον〉: ἐγὼ φησὶ 〈τῆσ〉 μ〈ε〉γ〈ά〉λ〈ησ〉 εὐτυχ〈ίασ〉 [para]καὶ ὑπερβαλλούσης τ〈ὴν〉 σ〈υ〉μμετρί〈αν〉 προκρ〈ί〉νω: ἐν ταύτῃ γὰρ τ〈ὸ〉 δὲ εἰ μὴ 〈μ〉εγάλως ἀντὶ ἡ μ〈ὴ〉 μ〈ε〉γάλη [para]καὶ ὑπερβαλλούση εὐτυχ〈ί〉α τὸ [para]ἀσφαλέστερον: B 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 127msi",
+      "text": "〈..?. ὁ γὰρ τὴν συμ‐〉 μετρίαν ἔχων εἰ καὶ πέσοι ταύ〈τησ〉 τρόπον τινὰ οὐδεμίαν δοκεῖ πεπο〈ν〉θέναι πρα‐ γμάτων μετα〈β〉ολὴν 〈ἢ〉 παρα〈λ‐〉 λαγήν· ἔπειτα τῷ μ〈ὲν〉 ὑπε〈ρ‐〉 βολὴν ἔχον〈τ〉ι φθ〈ό〉νος παρακολουθεῖ· τοῖς 〈δ’ οὐ〉χί· διὸ ἐπὶ πολὺ διαμένει ἡ συμμετ〈ρ〉ία: (B) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 134msi",
+      "text": "ἀμφίπυλον 〈λέγει〉 τὸ ἔχον δύο πύ‐ λας καὶ εἰσόδ〈ου〉ς 〈μ〉ίαν μὲν τὴν αὐθεντι〈κὴν〉 ἑ〈τέραν〉 ἣν ὅ‐ μηρος φησὶ ὀ〈ρ〉σοθύρ〈ην〉· ἐγὼ οὖν φησὶν ἐπὶ τ〈οῦ〉 ἀμφ〈ι‐〉 πύλου οὖσα τουτέστιν ἐπ〈ὶ τ〉οῦ π〈υ‐〉 λῶνος, ἤκο〈υσα〉 φων〈ῆσ〉 ἔσω τοῦ μελάθ〈ρ〉ου: (BV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 138msi",
+      "text": "τ̣ὸ̣ οἴκημα 〈λέγει〉 τετέ〈λ〉εσται 〈ἐ〉μοὶ φίλον ὑπάρχει· B 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 139msi",
+      "text": "ἀντὶ ἀνατέτρ〈α〉π〈ται〉 ὁ οἶκος ἢ φά‐ 〈ν〉ιστ〈αι〉· ἀπὸ δὲ 〈ἀρ〉σεν〈ι〉κοῦ εἰς οὐδέτερον μετ〈έσ〉τη· φ〈ρ〉οῦδα γὰρ τάδε τὰ οἰκήματα λέγει: BV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 144msi",
+      "text": "οἷον κ〈ε〉ραυνοβο〈λ〉ω̣‐ θείην· φλ〈ό〉γα 〈γὰρ〉 οὐρανίαν τὸν κερα〈υ〉νὸν 〈λέγει〉: B 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 151mi",
+      "text": "τὸ μέγεθος 〈θα〉υμάζε〈ι〉 το〈ῦ〉 ἔρωτος· [para]τίς ἆ〈ρα〉 φησιν οὗτος ὁ 〈ἔρ〉ως ὁ τῆς [para]ἀκορέστου 〈τ〉αύτ〈ησ〉 τῆς κοίτης ὃς 〈σπ〉εύσει θάνατον ἐπιπέμψαι· ἄπληστον δὲ λέγει τὴν κ〈οί〉την [para]ἐπειδὴ 〈δ〉έον 〈κα〉τ〈α〉φρονητι‐ κῶς φέρειν καὶ μισεῖν τὸν ἰάσονα ἑτέρᾳ [para]συνελθόντα ἡ δὲ κνίζεται ὅτι μὴ [para]σύνεστιν αὐτῷ: (B) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 154md",
+      "text": "ἀ〈..?.〉 θ〈..?.〉 1Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 157md",
+      "text": "τουτέστιν ἐ〈κείνῳ τόδε τὸ ἁμάρ〉 τη̣μ̣〈α μὴ λογίζου καὶ δι’〉 ἐλπ〈ίδος ἔχε τοὺς θεοὺς ἀπ〈αιτήσειν αὐτὸν τιμωρίαν:〉 BV 1H σὺ 〈φησὶ μὴ χαλέπαινε μη‐〉 δὲ θ〈υμοῦ· συνδικήσει〉 δὲ ἀ〈ντὶ τοῦ σὺν τῷ δικαίῳ ἐπεξέρ‐〉 χετ〈αι:〉 B 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 162int",
+      "text": "supra ἐνδησαμένα gloss. εν〈..?.〉 1H post κατά̣ρατον gloss. [para]κατα̣φαλισμ̣ένη ἀ̣ρόσον οἱ ἐνδυό〈..?.〉 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 164int",
+      "text": "supra διακναιομένους gloss. 〈ἀ〉φα〈νι〉ζομένους * 8Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 164md",
+      "text": "κ〈εκαμμένουσ〉 Laur. 31.10 (apud Dindorf) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 164-166(?)md",
+      "text": "ζ〈..?.〉 οἵτ̣〈..?.〉 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 166int",
+      "text": "supra ἀπενάσθην gloss. ἀπε̣χ̣ορή̣θ̣η̣ν̣ [para](voluit ἀποχωρ–?) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 167int",
+      "text": "supra et post κάσιν gloss. ἀδελφόν * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 167md",
+      "text": "τι〈μαχίδας ἐπὶ τὰ πρό〉 χει〈ρα πᾶσιν ἐνεχθεὶς τὸν ἄ‐〉 ψυ〈ρτον φησὶ λέγειν αὐτὴν τοῦ εὐ‐〉 ρι〈πίδου μήτε ἐνταῦθα μή〉 τε ἐ〈ν τῷ αἰγεῖ δηλώσαντοσ〉 ὀν〈ομαστὶ τὸν ἄψυρτον· ὁ δὲ〉 φ〈ερεκύδης διὰ τοῦ ξ ὀνο‐〉 μ〈άζει αὐτόν· δικαιογένησ〉 δὲ 〈ἐν τῇ μηδείᾳ μεταπόντιον〉 α〈ὐτὸν ὀνομάζει· ἀνῃρῆ‐〉 σ〈θαι δὲ αὐτὸν οἱ μὲν ὑπὸ〉 μ̣〈ηδείας οἱ δὲ ὑπὸ τῶν ἀργο‐〉 ν〈αυτῶν ..?.〉 (B) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 167mi",
+      "text": "〈..?. φαρμά〉κο〈ι〉ς διαφθ〈α〉ρῆναι αὐτὸν φησὶ: (B) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 173mi",
+      "text": "πῶς φησὶ συν〈τ〉υχοῦσα αὐτ〈ῇ διαλεχθείην [para]καὶ πῶσ〉 ἂν φησὶ τῶν παρ’ ἐμ〈οῦ〉 ῥηθησομένων λόγων [para]τὴν φων〈ὴν〉 δέξαιτο· ὀμφήν 〈γὰρ νῦν τὴν φωνὴν λέγει〉 ἢ τὴν ὁμιλίαν οὐ τὴν κληδόνα: B 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 175int",
+      "text": "supra ὄμφαν gloss. φ〈ω〉νήν * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 178int",
+      "text": "post φρενῶν gloss. 〈τὸ〉 ἔπαρμ〈α〉 καὶ [para]τὴν ὁρμὴν τῆς διανοίας: (B int.) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 184msi",
+      "text": "〈..?. κα〉λέσ〈ω〉 〈αὐτὴν ὑπὲρ τοῦ μὴ μ〉οχθεῖν 〈καὶ ἀδημονεῖν σε ἑστῶσ〉αν 〈καὶ προσδεχομένη〉ν: (B) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 186int",
+      "text": "post ἐπιδώσω gloss. ὑπὲρ τοῦ μοχθοῦ (B int) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 187msi",
+      "text": "〈καίτοι φησὶν ἡ δέ〉σποινα 〈δεινὸν ὁρᾷ τοῖσ〉 τολ‐ 〈μῶσιν αὐτῇ πλησι〉άζειν 〈ἔχουσα λεαίνης τετοκ〉υίας 〈τὸ βλέμμα ........〉λε καὶ 〈..?.〉 εἰς 〈σὴν χάριν εἰσελεύσομαι〉· τοῦ 〈το γὰρ ἀπὸ κοινοῦ:〉 (BV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 188msi",
+      "text": "〈ταυρηδὸν σχηματί〉ζεται 〈τῷ προσώπῳ ὡς βλ〉έμ‐ 〈μα μὲν ἔχειν λεαίνης σ〉χημα‐ 〈τίζεσθαι δὲ τὸ πρόσωπον ὁμ〉οίως 〈ταύρῳ θυμουμένῳ:〉 BV 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 189int",
+      "text": "post ὁρμηθῇ gloss. ʽ̣.ίση 4Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 192int",
+      "text": "post θαλίαις gloss. θυσ〈ίαις·〉 διὸ καὶ 〈σ〉εσημεί〈ωται·〉 B int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 193int",
+      "text": "supra εἰλαπίναις gloss. ε̣ὐ̣〈θα〉λίαις * 4Huv",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 199msi et mi",
+      "text": "〈..?. κέρδοσ〉 ἀ‐ 〈κεῖσθαι· τὴν λύπην θεραπ〉εύ‐ 〈ειν δι’ ᾠδικῶν κέρδος ἐστί·〉 〈..?. καίτοι τ〉ὸ 〈ἀκεῖσθαι καὶ θεραπεύειν τὰσ〉 λύ‐ 〈πας τῶν ἀνθρώπων κέρδος ἐστὶ ..?.〉 〈..?. ἔχε〉ι τέρψιν τοῖς ἀνθρώποις: (BV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 202int",
+      "text": "post αὑτοῦ gloss. τ〈ῶν〉 ἀπ〈ὸ〉 θοί〈νησ〉 τερπόντ〈ων〉: (B int.) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 202mi",
+      "text": "ὣς α〈ὐ〉τὴ 〈ἰκα〉νὴ καθ’ 〈ἑ〉αυτ〈ὴν〉 [para]ἡ εὐωχία 〈..?. ἐστὶν εἰς τὸ εὐφ〉ραίνειν τοὺς [para]ἀνθρώπους: (B int.) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 207int",
+      "text": "supra θεοκλυτεῖ gloss. τοὺς 〈θε〉οὺς ἀ̣...α̣λ̣εῖ..μ̣ θ̣.. (ἀνακαλεῖται?) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 208msu et md",
+      "text": "δύναται τῷ λέγειν ὁρκίαν ζηνὸς θέμιν [para]βοῆσαι τοῖς προκειμένοις ὅτι διὰ [para]τῆς θέμ〈ιδος τὸν δία ἐπεκαλεῖ〉 το διὰ τὸ εἶναι διὸς τὴν θέμιν· λέγει οὖν ὅτι τὴν πάρεδρον τῷ δικαιοσύνην· ἤγουν [para]τοῖς τα〈ύτης ὅρκοις πιστεύουσα〉 ἔπραξεν ἃ ἔπραξεν· BV 1H ὁρκίαν δὲ αὐτὴν εἶπεν [para]ὡς τῶν ὅρκων ἔφορον καὶ συνθηκῶν π〈ρύτανιν· BV 1H ἥτις θέμις αὐτὴν〉 τὴν μήδειαν διαβῆναι πεπ〈οίηκεν εἰς τὴν ἑλλάδα〉 διὰ τὸν ἀντίπορον τῆς σκ〈υθίας· ἀντίπορον δὲ τὴν ἐναν‐〉 τίαν, κατὰ τὸν πόρον ἢ κα〈τὰ τὸν τόπον·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 208msu et md",
+      "text": "ἡ μὲν γὰρ ἐν〉 τοῖς δυτικοῖς κεῖται δηλ〈ονότι ἡ ἑλλὰς ἐν τοῖς (vel ταῖσ)〉 ἀντολικοῖς (vel –ολαῖς) ἡ σκυθία· π〈ῶς δὲ ἡ θέμις ἐποίη‐〉 σε διαβῆναι τὴν μήδειαν· 〈ὅτι τοῖς ὅρκοις πεισθεῖσα〉 ἠκολούθησεν ἰάσ〈ονι· BV 1H ἀντὶ τοῦ δι’ ἁλὸς ἁλ‐〉 μυρᾶς περιττευούσης τῆς 〈ἐπί προθέσεως· ἢ τὸ ἁλμυρὰν〉 πρὸς τὸ ἑξῆς συναπτέ〈ον τουτέστι· διεβίβασεν αὐτὴν〉 εἰς τὴν ἑλλάδα δι’ 〈ἁλὸς ἐπὶ τὴν ἁλμυρὰν τοῦ〉 πό〈ντου κληῖδα· λέγει δὲ τὸ〉 στ〈ενὸν ὅθεν καὶ κλεῖδα τὸ στε‐〉 ν〈ὸν ἐκεῖνο ὠνόμασε· ἀπὸ γὰρ τοῦ〉 σ̣τ̣〈ενοῦ ἐπὶ τὸν πόν‐〉 τον 〈ἐξίασι· νύχιον δὲ αὐτὴν φησὶ〉 διὰ 〈νυκτὸς πεφευγέναι:〉 (B) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 214md",
+      "text": "χ〈ρὴ νοεῖν ὅτι κατὰ τὸ σιωπώμενον〉 εἰ〈σελθοῦσα ἡ γραῦς πα‐〉 ρ〈εκάλεσε τὴν μήδειαν ἐξελθεῖν·〉 〈αὕτη οὖν ἐξελθοῦσα φησὶν· ἐξῆλθον〉 π〈ρὸς ὑμᾶς ὦ γυναῖκες ἵνα〉 μ〈ή μοι τι μέμψησθε ὡσ〉 δι’ 〈ὑπερηφανίαν μὴ προελ‐〉 θ〈ούσῃ: (BV) 1H ἄλλως· ὦ κορίνθιαι〉 γ〈υναῖκες ἐξῆλθον ἐκ τῶν δόμων〉 ἵ〈να μὴ μεμψησθέ μοι〉 καί〈τοι ἐπίσταμαι πολλοὺς τῶν ἀνθρώπων〉 σε〈μνοὺς γεγῶτας τοὺς μὲν ὀμμάτων〉 ἄ〈πο τοὺς δ’ ἐν θυραίοις ..?.〉 (B) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 214md et mi",
+      "text": "〈..?.〉 〈ἐξ οὗ τὸ ἁπανταχόθεν〉 〈ἐπίφθονον καὶ εὐδιάβολον〉 τῶν ἀνθρώπων συνάγει ὅτι μηδὲν ἀρέσκονται· εἶτα πάλιν κατὰ τούτων ἐπιφέρει ὅτι [para]〈καὶ οἱ ἀφ’ ἡσύχου ποδὸς καὶ ἐν〉 ἐρημίᾳ τὰ ἑαυτῶν πράττοντες δύσκλειαν [para]κτῶνται καὶ ἀργίαν οἷον· καὶ οὗτοι [para]διαβάλλοντ〈αι ὑπὲρ τούτου ..?.〉 (B) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 216int",
+      "text": "supra σεμνοὺς gloss. ὑ...η (ὑπερηφάνους?) 1Huv supra ὀμμάτων gloss. μὴ ὁρωμένους B int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 218int",
+      "text": "supra ῥᾳθυμίαν gloss. νωθρότητα * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 222int",
+      "text": "supra προσχωρεῖν gloss. πο〈λί〉την ἑαυτὸν ῥυθμίζειν: * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 232-234msu",
+      "text": "〈κακὸν μὲν τὸ χρημάτων ὑπερβολῇ〉 πρίασ〈θαι〉 [para]ἀλγει〈νέ〉στερ〈ον〉 δὲ κακόν· τὸ καὶ [para]〈δεσπ〉ότην ἄντι 〈κρυς λαμβάνειν· ..?.〉 ὅτι κἂν κακὸς ᾖ στέργειν δεῖ· οὐ γὰρ εὐκλεὲς γυναικὶ καταλιπεῖν 〈τὸν οἰκεῖον ἄνδρα ἀλλ’〉 ἀκλεές: (BV) 1H τῶν προικι̣ῶ̣ν̣. [para]τοῦτο δὲ ἀπὸ τῆς καθ’ ἡμ〈έρ〉ας συνηθ〈είασ〉 [para]λέγει· οἱ γὰρ ἥρωες 〈οὐχ οὕτως ἐποίουν τοὺς γάμουσ〉 καὶ ὅμηρος [para]πε̣ρ̣ὶ̣ τοῦ ἀχιλ̣λέως φησί· τά̣ω̣ν ἥν‐ [para]κε̣..λησι φίλον ἀνα̣ίδ.γ̣ε̣υ̣θ̣.ν̣· * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 238msi",
+      "text": "〈τοῦτο πρῶτόν ἐστι τῇ τά‐〉 〈ξει τοῦ πράγματος τοῦ κατὰ τὸ〉ν 〈νόμον τοῦ γάμου· π〉ρό‐ 〈τερον γάρ ἐστι τὸ τὴν παρ〉θ̣‐ 〈ένον ἀπιέναι πρὸς τὸν νυμ〉φί‐ 〈ον εἶθ’ οὕτως πειρᾶσθαι τού〉του 〈εἴτε δεξιοῦ ἢ κακ〉οῦ: 〈καινὰ δ’ ἤθη λέγει καὶ νό〉μους 〈τοὺς παρὰ τῷ ἀνδρί: ..?.〉 (BV) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 240int",
+      "text": "supra μάλιστα gloss. τ̣〈ί〉ν̣ι̣ τρό̣πῳ * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 242msi",
+      "text": "〈μὴ βίαν ἡγούμενος μηδὲ ἀν〉άγ‐ 〈κην τὴν συμβίωσιν: ..?.〉 (B) 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 245int",
+      "text": "post ἄσης gloss. ῥύπο〈ν〉 * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 247int",
+      "text": "supra βλέπειν gloss. πρὸς 〈τ〉ὴν τοῦ ἀν〈δρός:〉 B int. 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 254int",
+      "text": "post συνουσία gloss. κ〈οινων〉ία * 1H",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1278-1303",
+      "text": "Nullum scholium videri potest. In margine superiore (ad dexteram) et inferiore inscriptiones illegibiles sunt.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1278-1303mi",
+      "text": "+ ε̣ν̣σ̣ι̣",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1304-1326",
+      "text": "Nullum scholium videri potest. In margine superiore inscriptio illegibilis est. 〈..?.〉φ...ψ̣〈..?.〉 〈..?.〉 ν 〈..?.〉",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1327-1350",
+      "text": "Nullum scholium videri potest. In margine superiore inscriptio illegibilis est. 〈..?.〉σ̣τ̣..π̣α̣..ε̣ι̣.π̣..ξ〈..?.〉 In margine dextera inscriptio 〈..?.〉ω̣π̣π̣ω̣ς̣ ἡδη̣〈..?.〉",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1351-1376",
+      "text": "Nullum scholium videri potest. In margine superiore et inferiore inscriptiones illegibiles sunt. Fortasse pagina bis rescripta. In margine inferiore ex manu recentiore inscriptio 〈..?. ε〉ξ̣ ἐ̣π̣ε̣ι̣ν̣χλ̣αιρε̣σενε̣ς̣ .υχφα̣",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "cto-af",
+      "title": {
+        "english": "Glosses on Euripides' Rhesus (Long)",
+        "ancient_greek": "Γλῶσσαι εἰς Εὐριπίδου Ῥῆσον"
+      },
+      "url_slug": "xenophon-scholia-rhesus-glosses-af-cto-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-scholia/rhesus-glosses-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-rhesus-glosses-af-cto-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-rhesus-glosses-af-cto-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-rhesus-glosses-af-cto-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-rhesus-glosses-af-cto-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/rhesus-glosses-af.epub"
+      }
+    },
+    {
+      "eul_wid": "cto-ag",
+      "title": {
+        "english": "Glosses on Euripides' Rhesus (Short)",
+        "ancient_greek": "Γλῶσσαι εἰς Εὐριπίδου Ῥῆσον"
+      },
+      "url_slug": "xenophon-scholia-rhesus-glosses-ag-cto-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-scholia/rhesus-glosses-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-rhesus-glosses-ag-cto-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-rhesus-glosses-ag-cto-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-rhesus-glosses-ag-cto-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-rhesus-glosses-ag-cto-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/rhesus-glosses-ag.epub"
+      }
+    },
+    {
+      "eul_wid": "cto-ad",
+      "title": {
+        "english": "Glosses-Euripides' Troades",
+        "ancient_greek": "Γλῶσσαι εἰς Εὐριπίδου Τρωάδας"
+      },
+      "url_slug": "xenophon-scholia-troades-cto-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-scholia/troades",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-troades-cto-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-troades-cto-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-troades-cto-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-troades-cto-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/troades.epub"
+      }
+    },
+    {
+      "eul_wid": "cto-al",
+      "title": {
+        "english": "Lives of Euripides",
+        "ancient_greek": "Βίοι Εὐριπίδου"
+      },
+      "url_slug": "xenophon-scholia-euripides-al-cto-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-scholia/euripides-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-euripides-al-cto-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-euripides-al-cto-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-euripides-al-cto-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-euripides-al-cto-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/euripides-al.epub"
+      }
+    },
+    {
+      "eul_wid": "cto-aj",
+      "title": {
+        "english": "Scholia on Euripides",
+        "ancient_greek": "Σχόλια εἰς Εὐριπίδην"
+      },
+      "url_slug": "xenophon-scholia-euripides-aj-cto-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-scholia/euripides-aj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-euripides-aj-cto-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-euripides-aj-cto-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-euripides-aj-cto-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-euripides-aj-cto-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/euripides-aj.epub"
+      }
+    },
+    {
+      "eul_wid": "cto-ah",
+      "title": {
+        "english": "Scholia-Euripides' Hecuba",
+        "ancient_greek": "Σχόλια εἰς Εὐριπίδου Ἑκάβην"
+      },
+      "url_slug": "xenophon-scholia-hecuba-cto-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-scholia/hecuba",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-hecuba-cto-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-hecuba-cto-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-hecuba-cto-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-hecuba-cto-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/hecuba.epub"
+      }
+    },
+    {
+      "eul_wid": "cto-ab",
+      "title": {
+        "english": "Scholia-Euripides' Hippolytus",
+        "ancient_greek": "Σχόλια εἰς Εὐριπίδου Ἱππόλυτον"
+      },
+      "url_slug": "xenophon-scholia-hippolytus-cto-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-scholia/hippolytus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-hippolytus-cto-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-hippolytus-cto-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-hippolytus-cto-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-hippolytus-cto-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/hippolytus.epub"
+      }
+    },
+    {
+      "eul_wid": "cto-ae",
+      "title": {
+        "english": "Scholia-Euripides' Orestes",
+        "ancient_greek": "Σχόλια εἰς Εὐριπίδου Ὀρέστην"
+      },
+      "url_slug": "xenophon-scholia-orestes-cto-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-scholia/orestes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-orestes-cto-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-orestes-cto-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-orestes-cto-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-orestes-cto-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/orestes.epub"
+      }
+    },
+    {
+      "eul_wid": "cto-ac",
+      "title": {
+        "english": "Scholia-Euripides' Phoenissae",
+        "ancient_greek": "Σχόλια εἰς Εὐριπίδου Φοίνισσας"
+      },
+      "url_slug": "xenophon-scholia-phoenissae-cto-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-scholia/phoenissae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-phoenissae-cto-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-phoenissae-cto-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-phoenissae-cto-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-phoenissae-cto-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/phoenissae.epub"
+      }
+    },
+    {
+      "eul_wid": "cto-ai",
+      "title": {
+        "english": "Scholia-Euripides' Rhesus",
+        "ancient_greek": "Σχόλια εἰς Εὐριπίδου Ῥῆσον"
+      },
+      "url_slug": "xenophon-scholia-rhesus-cto-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-scholia/rhesus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-rhesus-cto-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-rhesus-cto-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-rhesus-cto-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-rhesus-cto-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/rhesus.epub"
+      }
+    },
+    {
+      "eul_wid": "cto-aa",
+      "title": {
+        "english": "Scholia-Euripides' Trojan Women",
+        "ancient_greek": "Σχόλια εἰς Εὐριπίδου Τρωάδας"
+      },
+      "url_slug": "xenophon-scholia-trojan-women-cto-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-scholia/trojan-women",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-trojan-women-cto-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-trojan-women-cto-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-trojan-women-cto-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-trojan-women-cto-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/trojan-women.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "mlw-au",
+      "title": {
+        "english": "Old Scholia on Frogs",
+        "ancient_greek": "Σχόλια εἰς Βάτραχους"
+      },
+      "url_slug": "aristophanes-scholia-frogs-au-mlw-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/frogs-au",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-frogs-au-mlw-au.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-frogs-au-mlw-au.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-frogs-au-mlw-au.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-frogs-au-mlw-au.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/frogs-au.epub"
+      }
+    },
+    {
+      "eul_wid": "gky-aa",
+      "title": {
+        "english": "On Geographical Nomenclature",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "nicanor-4th-century-bce-geographical-nomenclature-gky-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicanor-4th-century-bce/geographical-nomenclature",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicanor-4th-century-bce-geographical-nomenclature-gky-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicanor-4th-century-bce-geographical-nomenclature-gky-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicanor-4th-century-bce-geographical-nomenclature-gky-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicanor-4th-century-bce-geographical-nomenclature-gky-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicanor-4th-century-bce/geographical-nomenclature.epub"
+      }
+    },
+    {
+      "eul_wid": "qnq-bh",
+      "title": {
+        "english": "On Those to Mi",
+        "ancient_greek": "Περὶ τῶν εἰς μι"
+      },
+      "url_slug": "herodian-of-alexandria-mi-qnq-bh",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/mi",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-mi-qnq-bh.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-mi-qnq-bh.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-mi-qnq-bh.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-mi-qnq-bh.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/mi.epub"
+      }
+    },
+    {
+      "eul_wid": "nfw-aa",
+      "title": {
+        "english": "Scholia on Homeric Prosody",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "tyrannion-the-younger-homeric-prosody-nfw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/tyrannion-the-younger/homeric-prosody",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrannion-the-younger-homeric-prosody-nfw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrannion-the-younger-homeric-prosody-nfw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrannion-the-younger-homeric-prosody-nfw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrannion-the-younger-homeric-prosody-nfw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrannion-the-younger/homeric-prosody.epub"
+      }
+    },
+    {
+      "eul_wid": "vmw-ar",
+      "title": {
+        "english": "Scholia on Iambi (Narrative Summaries)",
+        "ancient_greek": "Σχόλια εἰς Ἴαμβον"
+      },
+      "url_slug": "callimachus-scholia-iambos-ar-vmw-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/iambos-ar",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-iambos-ar-vmw-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-iambos-ar-vmw-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-iambos-ar-vmw-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-iambos-ar-vmw-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/iambos-ar.epub"
+      }
+    },
+    {
+      "eul_wid": "ppu-ac",
+      "title": {
+        "english": "Scholia-Nemean and Isthmian Odes",
+        "ancient_greek": "Σχόλια εἰς Νεμεακὰ καὶ Ἰσθμιακά"
+      },
+      "url_slug": "pindar-scholia-nemean-isthmian-ppu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/pindar-scholia/nemean-isthmian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-nemean-isthmian-ppu-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-nemean-isthmian-ppu-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-nemean-isthmian-ppu-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-nemean-isthmian-ppu-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia/nemean-isthmian.epub"
+      }
+    },
+    {
+      "eul_wid": "uxw-ac",
+      "title": {
+        "english": "Seventeen Chapters-Monophysites",
+        "ancient_greek": "Ἑπτὰ καὶ Δέκα Κεφάλαια Κατὰ Μονοφυσιτῶν"
+      },
+      "url_slug": "john-of-caesarea-in-palestine-seventeen-chapters-uxw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-of-caesarea-in-palestine/seventeen-chapters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine-seventeen-chapters-uxw-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine-seventeen-chapters-uxw-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine-seventeen-chapters-uxw-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine-seventeen-chapters-uxw-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/seventeen-chapters.epub"
+      }
+    },
+    {
+      "eul_wid": "vdq-ae",
+      "title": {
+        "english": "Summary of Herodian's Catholic Work",
+        "ancient_greek": "Σύνοψις τοῦ Καθολικοῦ Ἔργου Ἡρωδιανῶν"
+      },
+      "url_slug": "theodosius-of-alexandria-herodian-summary-vdq-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/theodosius-of-alexandria/herodian-summary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-herodian-summary-vdq-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-herodian-summary-vdq-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-herodian-summary-vdq-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-herodian-summary-vdq-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/herodian-summary.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/xenophon-scholia/euripides-ak",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-euripides-ak-cto-ak.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-euripides-ak-cto-ak.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-euripides-ak-cto-ak.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-euripides-ak-cto-ak.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/euripides-ak.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

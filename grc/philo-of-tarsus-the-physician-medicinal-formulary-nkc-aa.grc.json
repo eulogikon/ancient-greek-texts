@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "nkc-aa",
+  "eul_aid": "nkc",
+  "author_slug": "philo-of-tarsus-the-physician",
+  "work_slug": "medicinal-formulary",
+  "url_slug": "philo-of-tarsus-the-physician-medicinal-formulary-nkc-aa",
+  "author": {
+    "english": "Philo of Tarsus the Physician",
+    "ancient_greek": "Φίλων ὁ Ταρσεύς"
+  },
+  "title": {
+    "english": "Philo's Medicinal Formulary",
+    "ancient_greek": "Ἀπόσπασμα"
+  },
+  "seo": {
+    "browser_title": "Philo's Medicinal Formulary by Philo of Tarsus on Eulogikon",
+    "meta_title": "Classical Philo's Medicinal Formulary in Ancient Greek",
+    "meta_description": "Philo of Tarsus compiles practical medical recipes and treatments for various ailments in this Hellenistic Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Medicinal Formulary</strong> is a short medical text attributed to Philo of Tarsus the Physician. Its title, meaning &quot;Extract,&quot; indicates it was a compilation of pharmacological recipes. The work survives only in fragments, preserved within the eighth book of the sixth-century medical compilation by Aëtius of Amida. As an independent work it is lost, and its entire transmission depends on its inclusion as two excerpts in Aëtius&#x27;s encyclopedic <strong>Tetrabiblos</strong>. The text consists of practical recipes for preparing compound medicines, reflecting the standard empirical and pharmacological knowledge of Greek medicine. Philo&#x27;s formulary represents the practical, recipe-based tradition of Greek pharmacology. Its preservation within Aëtius&#x27;s major compilation provided a conduit for its content into later Byzantine and Arabic medical traditions, though Philo&#x27;s individual contribution is subsumed within that broader tradition.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "690",
+      "text": "Ταρσέος ἰητροῖο μέγα θνητοῖσι, Φίλωνος εὕρεμα πρὸς πολλάς εἰμι παθῶν ὀδύνας, εἴτε κόλον πάσχει τις, ἅπαξ δοθέν, εἴτε τις ἧπαρ εἴτε δυσουρ〈ε〉ίῃ ἴσχεται εἴτε λίθῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "690",
+      "text": "ἰῶμαι καὶ σπλῆνα καὶ ὀρθόπνοιαν ἀνιγρήν, καὶ φθίσιν ἰῶμαι, σπασμὸν ἐνιστάμενον, καὶ σφαλερὴν πλευρῖτιν· ἀποπτύων δέ τις αἷμα ἢ ἐμέων ἕξει μ’ ἀντίπαλον θανάτου. πάντα δ’ ὅσα σπλάγχνοισιν ἐνίσταται ἄλγεα παύω, βῆχά τε καὶ πνιγμόν, λύγγα τε καὶ κατάρουν. γέγραμμαι δὲ σοφοῖσι, μαθὼν δέ τις οὐ βραχύ μ’ ἕξει δῶρον, ἐς ἀξυνέτους δ’ οὐκ ἐπόθησα περᾶν. ξανθὴν μὲν τρίχα βάλλε μυρίπνοον ἰσοθέοιο, οὗ λύθρος Ἑρμεία〈ι〉ς λάμπεται ἐν βοτάναις, †κρόκου δὲ σταθμὸν φρένας ἀνέρος· οὐ γὰρ ἄδηλον· βάλλε δὲ καὶ δραχμὴν Ναυπλίου Εὐβοέως, καὶ τρίτου ἐν Τρώεσσι Μενοιτιάδαο φονῆος δραχμὴν τὴν μήλων γαστέρι σῳζομένην. ὁλκὰς δ’ ἀργεννοῖο πυρώδεος εἴκοσι βάλλε, εἴκοσι καὶ κυάμου θηρὸς ἀπ’ Ἀρκαδίης, δραχμὴν καὶ ῥίζης ψευδωνύμου, ἣν ἀνέθρεψε χῶρος ὁ τὸν Πίσῃ Ζῆνα λοχευσάμενος. πῖον δὲ γράψας, ἄρθρον βάλε πρῶτον ἐπ’ αὐτῷ ἄρρεν, ἐνὶ δραχμαῖς πέντε δὶς ἑλκόμενον, νᾶμα δὲ θυγατέρων ταύρων χέε Κεκροπίδαισι συγγενές, οὐκ Τρίκκης ὡς ἐνέπουσιν ἐμοί.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "vjk-ab",
+      "title": {
+        "english": "Appendices to the Berlin Veterinary Texts",
+        "ancient_greek": "Παραρτήματα πρὸς τὰ Κτηνιατρικὰ Βερολίνου"
+      },
+      "url_slug": "hippiatric-compilation-anonymous-berlin-veterinary-ab-vjk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippiatric-compilation-anonymous/berlin-veterinary-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous-berlin-veterinary-ab-vjk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous-berlin-veterinary-ab-vjk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous-berlin-veterinary-ab-vjk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous-berlin-veterinary-ab-vjk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/berlin-veterinary-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "vjk-af",
+      "title": {
+        "english": "Cambridge Veterinary Works",
+        "ancient_greek": "Κτηνιατρικὰ Καίμπριτζ"
+      },
+      "url_slug": "hippiatric-compilation-anonymous-cambridge-vjk-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippiatric-compilation-anonymous/cambridge",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous-cambridge-vjk-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous-cambridge-vjk-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous-cambridge-vjk-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous-cambridge-vjk-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/cambridge.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-aa",
+      "title": {
+        "english": "Commentary-Hippocrates or Polybius' Work-the Healthy Diet of Individuals",
+        "ancient_greek": "Σχόλια εἰς Ἱπποκράτους ἢ Πολυβίου Περὶ ὑγιεινῆς"
+      },
+      "url_slug": "galen-of-pergamon-healthy-diet-qmm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/healthy-diet",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-healthy-diet-qmm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-healthy-diet-qmm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-healthy-diet-qmm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-healthy-diet-qmm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/healthy-diet.epub"
+      }
+    },
+    {
+      "eul_wid": "bww-bj",
+      "title": {
+        "english": "Instructions",
+        "ancient_greek": "Ὑποθῆκαι"
+      },
+      "url_slug": "hippocrates-instructions-bww-bj",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/instructions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-instructions-bww-bj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-instructions-bww-bj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-instructions-bww-bj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-instructions-bww-bj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/instructions.epub"
+      }
+    },
+    {
+      "eul_wid": "bww-cg",
+      "title": {
+        "english": "Law",
+        "ancient_greek": "Νόμος"
+      },
+      "url_slug": "hippocrates-law-bww-cg",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/law",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-law-bww-cg.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-law-bww-cg.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-law-bww-cg.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-law-bww-cg.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/law.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ap",
+      "title": {
+        "english": "On Tremor, Palpitation, Convulsion and Rigidity",
+        "ancient_greek": "Περὶ τρόμου"
+      },
+      "url_slug": "galen-of-pergamon-tremor-palpitation-convulsion-rigidity-qmm-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/tremor-palpitation-convulsion-rigidity",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-tremor-palpitation-convulsion-rigidity-qmm-ap.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-tremor-palpitation-convulsion-rigidity-qmm-ap.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-tremor-palpitation-convulsion-rigidity-qmm-ap.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-tremor-palpitation-convulsion-rigidity-qmm-ap.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/tremor-palpitation-convulsion-rigidity.epub"
+      }
+    },
+    {
+      "eul_wid": "vjk-ai",
+      "title": {
+        "english": "Paris Veterinary Works",
+        "ancient_greek": "Κτηνιατρικὰ Παρισίων"
+      },
+      "url_slug": "hippiatric-compilation-anonymous-paris-vjk-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippiatric-compilation-anonymous/paris",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous-paris-vjk-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous-paris-vjk-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous-paris-vjk-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous-paris-vjk-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/paris.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ab",
+      "title": {
+        "english": "Thrasybulus or Whether Hygiene Belongs to Medicine or Gymnastics",
+        "ancient_greek": "Θρασύβουλος ἢ πότερον ἰατρικῇ ἢ γυμναστικῇ ὑγιεινή"
+      },
+      "url_slug": "galen-of-pergamon-thrasybulus-hygiene-qmm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/thrasybulus-hygiene",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-thrasybulus-hygiene-qmm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-thrasybulus-hygiene-qmm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-thrasybulus-hygiene-qmm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-thrasybulus-hygiene-qmm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/thrasybulus-hygiene.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/philo-of-tarsus-the-physician/medicinal-formulary",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-tarsus-the-physician-medicinal-formulary-nkc-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-tarsus-the-physician-medicinal-formulary-nkc-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-tarsus-the-physician-medicinal-formulary-nkc-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-tarsus-the-physician-medicinal-formulary-nkc-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-tarsus-the-physician/medicinal-formulary.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

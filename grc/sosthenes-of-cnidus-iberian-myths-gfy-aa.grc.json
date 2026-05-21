@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "gfy-aa",
+  "eul_aid": "gfy",
+  "author_slug": "sosthenes-of-cnidus",
+  "work_slug": "iberian-myths",
+  "url_slug": "sosthenes-of-cnidus-iberian-myths-gfy-aa",
+  "author": {
+    "english": "Sosthenes of Cnidus",
+    "ancient_greek": "Σωσθένης ὁ Κνίδιος"
+  },
+  "title": {
+    "english": "Fragments on Iberian Myths",
+    "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ἰβηρικῶν Μύθων"
+  },
+  "seo": {
+    "browser_title": "Fragments Sosthenes of Cnidus on Iberian Myths on Eulogikon",
+    "meta_title": "Fragments of Sosthenes of Cnidus on Iberian Myths in Greek",
+    "meta_description": "Surviving fragments of Sosthenes of Cnidus on Iberian myths. Historical prose text from antiquity. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Iberian Myths</strong> by Sosthenes of Cnidus is a lost mythographical work from the Hellenistic or Roman period, surviving only through citations by later Byzantine scholars. It compiled mythological traditions associated with the western Mediterranean, with a particular focus on the Iberian Peninsula. The extant fragments preserve variant accounts of western myths. One, recorded by the ninth-century scholar Photius, mentions Sosthenes’ reference to a female-ruled people called the Hesperians, located near the Atlas Mountains. Another, quoted by the twelfth-century writer John Tzetzes, presents an alternative version of the myth of Geryon, in which the sun god Helios, rather than the hero Heracles, steals the famous cattle and subsequently gives them to his son Aeëtes. The work survives exclusively through these later excerpts, with no independent manuscript tradition. These fragments are significant as evidence for alternative mythological traditions that circulated in antiquity, and they exemplify the Hellenistic scholarly practice of collecting, comparing, and sometimes rationalizing foreign lore. They serve as a minor but valuable source for understanding Greek perceptions of and intellectual engagement with the legendary history of the Iberian world.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1 (1t)",
+      "text": "ΙΒΗΡΙΚΑ. E LIBRO TREDECIMO. Plutarchus De fluv. 16, 3: Παράκειται δ’ αὐτῷ (τῷ Νείλῳ) ὄρος, Ἄργιλλον καλούμενον ἀπ’ αἰτίας τοιαύτης. Ζεὺς δι’ ἐρωτικὴν ἐπιθυμίαν ἐκ Λύκτου, πόλεως Κρητικῆς, Ἄργην νύμφην ἁρπάσας, ἀπήνεγκεν εἰς ὄρος τῆς Αἰγύπτου, Ἄργιλλον καλούμενον· καὶ ἐγέννησεν ἐξ αὐτῆς υἱὸν, καλούμενον Διόνυσον· ὃς ἀκμάσας εἰς τιμὴν τῆς μητρὸς τὸν λόφον Ἄργιλλον μετωνόμασε· στρατολογήσας δὲ Πᾶνας καὶ Σατύρους, ἰδίοις σκήπτροις Ἰνδοὺς ὑπέταξε· νικήσας δὲ καὶ Ἰβηρίαν, Πᾶνα κατέλιπεν ἐπιμελητὴν τῶν τόπων· ὃς τὴν χώραν ἀπ’ αὐτοῦ Πανίαν μετωνόμασεν· ἣν οἱ μεταγενέστεροι παραγώγως Σπανίαν προσηγόρευσαν· καθὼς ἱστορεῖ Σωσθένης ἐν ιγʹ Ἰβηρικῶν. Id.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "ib. c. 17, 4: Γεννᾶται δ’ ἐν αὐτῷ (ἐν Εὐρώτᾳ) βοτάνη, καλουμένη Χαρίσιον, ἣν γυναῖκες, ἔαρος ἀρχομένου, τοῖς τραχήλοις περιάπτουσι, καὶ ὑπὸ τῶν ἀνδρῶν συμπαθέστερον ἀγαπῶνται· καθὼς ἱστορεῖ Κλεάνθης ἐν αʹ Περὶ ὀρῶν. Μέμνηται δὲ τούτων ἀκριβέστερον Σωσθένης ὁ Κνίδιος, παρ’ οὗ τὴν ὑπόθεσιν εἴληφεν Ἑρμογένης.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "lqi-aa",
+      "title": {
+        "english": "Euboean History and Customs",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "archemachus-of-euboea-history-customs-lqi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/archemachus-of-euboea/history-customs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archemachus-of-euboea-history-customs-lqi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archemachus-of-euboea-history-customs-lqi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archemachus-of-euboea-history-customs-lqi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archemachus-of-euboea-history-customs-lqi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archemachus-of-euboea/history-customs.epub"
+      }
+    },
+    {
+      "eul_wid": "ouq-aa",
+      "title": {
+        "english": "Fragments on Geography",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γεωγραφίας"
+      },
+      "url_slug": "clitophon-rhodius-geography-ouq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/clitophon-rhodius/geography",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clitophon-rhodius-geography-ouq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clitophon-rhodius-geography-ouq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clitophon-rhodius-geography-ouq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clitophon-rhodius-geography-ouq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clitophon-rhodius/geography.epub"
+      }
+    },
+    {
+      "eul_wid": "pdc-ae",
+      "title": {
+        "english": "From the Saunitic",
+        "ancient_greek": "ἐκ τῆς Σαυνιτικῆς"
+      },
+      "url_slug": "appian-of-alexandria-saunitic-pdc-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/saunitic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-saunitic-pdc-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-saunitic-pdc-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-saunitic-pdc-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-saunitic-pdc-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/saunitic.epub"
+      }
+    },
+    {
+      "eul_wid": "lzy-aa",
+      "title": {
+        "english": "Historical Account of Perseus",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "posidonius-of-olbia-historical-account-lzy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/posidonius-of-olbia/historical-account",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-olbia-historical-account-lzy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-olbia-historical-account-lzy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-olbia-historical-account-lzy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-olbia-historical-account-lzy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-olbia/historical-account.epub"
+      }
+    },
+    {
+      "eul_wid": "rpi-aa",
+      "title": {
+        "english": "History of the Successors",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dexippus-of-athens-successors-rpi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dexippus-of-athens/successors",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dexippus-of-athens-successors-rpi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dexippus-of-athens-successors-rpi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dexippus-of-athens-successors-rpi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dexippus-of-athens-successors-rpi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dexippus-of-athens/successors.epub"
+      }
+    },
+    {
+      "eul_wid": "sxy-aa",
+      "title": {
+        "english": "On Cyrene and the Hesperides",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "theotimus-of-tomi-cyrene-heesperides-sxy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theotimus-of-tomi/cyrene-heesperides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theotimus-of-tomi-cyrene-heesperides-sxy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theotimus-of-tomi-cyrene-heesperides-sxy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theotimus-of-tomi-cyrene-heesperides-sxy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theotimus-of-tomi-cyrene-heesperides-sxy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theotimus-of-tomi/cyrene-heesperides.epub"
+      }
+    },
+    {
+      "eul_wid": "ezq-ad",
+      "title": {
+        "english": "On the Cavalry Commander",
+        "ancient_greek": "Περὶ Ἱππαρχίας"
+      },
+      "url_slug": "xenophon-of-athens-cavalry-commander-ezq-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/cavalry-commander",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-cavalry-commander-ezq-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-cavalry-commander-ezq-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-cavalry-commander-ezq-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-cavalry-commander-ezq-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/cavalry-commander.epub"
+      }
+    },
+    {
+      "eul_wid": "gea-aa",
+      "title": {
+        "english": "On the Daphne Festivals",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "protagorides-the-historian-daphne-festivals-gea-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/protagorides-the-historian/daphne-festivals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagorides-the-historian-daphne-festivals-gea-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagorides-the-historian-daphne-festivals-gea-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagorides-the-historian-daphne-festivals-gea-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagorides-the-historian-daphne-festivals-gea-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagorides-the-historian/daphne-festivals.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/sosthenes-of-cnidus/iberian-myths",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosthenes-of-cnidus-iberian-myths-gfy-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosthenes-of-cnidus-iberian-myths-gfy-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosthenes-of-cnidus-iberian-myths-gfy-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosthenes-of-cnidus-iberian-myths-gfy-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosthenes-of-cnidus/iberian-myths.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

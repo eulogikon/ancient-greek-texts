@@ -1,0 +1,552 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ejc-aw",
+  "eul_aid": "ejc",
+  "author_slug": "lysias",
+  "work_slug": "examination-evander",
+  "url_slug": "lysias-examination-evander-ejc-aw",
+  "author": {
+    "english": "Lysias the Orator",
+    "ancient_greek": "Λυσίας ὁ λογογράφος"
+  },
+  "title": {
+    "english": "On the Examination of Evander",
+    "ancient_greek": "περὶ τῆς Εὐάνδρου δοκιμασίας"
+  },
+  "seo": {
+    "browser_title": "Against Evander: A Forensic Speech by Lysias on Eulogikon",
+    "meta_title": "Classical Speech Against Evander by Lysias in Ancient Greek",
+    "meta_description": "Forensic speech by Lysias against confirming Evander. Athenian political scrutiny from 382 BCE. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">&quot;On the Examination of Evander&quot; is a forensic oration composed by the Athenian logographer Lysias around 382 BCE. Written in Attic Greek for delivery by a client in a lawcourt, the speech argues against the confirmation of a candidate named Evander for the prestigious office of eponymous archon. The case constitutes a dokimasia, the mandatory public scrutiny that all Athenian officials were required to pass before assuming their duties. In its extant twenty-four sections, the speaker levels two principal charges against Evander: first, that his mother was a slave, a condition which would legally invalidate his claim to citizenship and thus his eligibility for office; and second, that he demonstrated cowardice by abandoning his shield in battle, an act considered profoundly dishonorable.</p>\n<p class=\"research-text\">The work survives in a fragmentary condition, preserved through medieval manuscripts within the larger corpus of Lysias’s speeches. Only a portion of the original argument is complete, with significant lacunae interrupting the flow of the case and the final peroration lost entirely. Composed in the politically charged aftermath of the Corinthian War, the oration provides a valuable historical source for the mechanisms of Athenian democracy, particularly the dokimasia procedure, and for contemporary attitudes toward citizenship, social status, and personal honor. It exemplifies how allegations concerning ancestry and individual conduct were deployed as tactical weapons in the competitive arena of Athenian public life, revealing the intersection of legal formality, social reputation, and political rivalry in classical Athens.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "Or26 t",
+      "text": "〈ΠΕΡΙ ΤΗΣ ΕΥΑΝΔΡΟΥ ΔΟΚΙΜΑΣΙΑΣ〉 .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or26 1",
+      "text": ".. ἀλλ’ ἡγούμενος ἀκριβῆ νῦν τὴν δοκιμασίαν αὐτοὺς διὰ τὸν χρόνον 〈οὐ〉 ποιήσεσθαι, ἐπεὶ σύνοισθα πολλὰ καὶ δεινὰ εἰς αὐτοὺς ἐξημαρτηκώς, ὧν ἐπιλελῆσθαι καὶ οὐδ’ ἀναμνησθήσεσθαι ἐνίους αὐτῶν νομίζεις. ὃ δὴ ἔγωγε καὶ 〈μάλιστα〉 ἀγανακτῶ, εἰ ταύτῃ τῇ ἐλπίδι εἰς ὑμᾶς ἥκει πιστεύων, ὥσπερ ἄλλων μέν τινων ὄντων τῶν ἠδικημένων, ἑτέρων δὲ τῶν ταῦτα διαψηφιουμένων, ἀλλ’ οὐκ ἀμφότερα τῶν αὐτῶν καὶ πεπονθότων καὶ ἀκουσομένων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or26 2",
+      "text": "αἴτιοι δὲ τούτων ὑμεῖς ἐστε· οὐ γὰρ ἐνθυμεῖσθε ὅτι οὗτοι μέν, ὅτε ἡ πόλις ὑπὸ [τῶν] Λακεδαιμονίων ἤρχετο, οὐδὲ τῆς αὐτῆς δουλείας ὑμῖν μεταδοῦναι ἠξίωσαν, ἀλλὰ κἀκ τῆς πόλεως ἐξήλασαν· ὑμεῖς δ’ ἐλευθέραν αὐτὴν ποιήσαντες οὐ μόνον τῆς ἐλευθερίας αὐτοῖς ἀλλὰ καὶ τοῦ δικάζειν καὶ τοῦ ἐκκλησιάζειν περὶ τῶν κοινῶν μετέδοτε, ὥστε εἰκότως ὑμῶν ταύτην τὴν εὐήθειαν καταγιγνώσκουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or26 3",
+      "text": "ὧν εἷς οὗτος ὢν οὐκ ἀγαπᾷ εἴ τις αὐτὸν ἐᾷ τούτων μετέχειν, ἀλλὰ καὶ πρὶν ἐκείνων δοῦναι δίκην πάλιν ἄρχειν ἀξιοῖ. καὶ νυνὶ αὐτὸν ἀκούω μὲν ὑπὲρ τῶν αὐτοῦ κατηγορουμένων διὰ βραχέων ἀπολογήσεσθαι, ἐπισύροντα τὰ πράγματα καὶ διακλέπτοντα τῇ ἀπολογίᾳ τὴν κατηγορίαν, λέξειν δὲ ὡς πολλὰ εἰς τὴν πόλιν ἀνηλώκασι καὶ φιλοτίμως λελῃτουργήκασι καὶ νίκας πολλὰς καὶ καλὰς ἐν δημοκρατίᾳ νενικήκασι, καὶ ὅτι αὐτὸς κόσμιός ἐστι καὶ οὐχ ὁρᾶται ποιῶν ἃ ἕτεροι ἐνταῦθα τολμῶσιν, ἀλλὰ τὰ ἑαυτοῦ πράττειν ἀξιοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or26 4",
+      "text": "ἐγὼ δὲ πρὸς τούτους τοὺς λόγους οὐ χαλεπὸν οἶμαι ἀντειπεῖν· πρὸς μὲν τὰς λῃτουργίας, ὅτι κρείττων ἦν ὁ πατὴρ αὐτοῦ μὴ λῃτουργήσας ἢ τοσαῦτα τῶν ἑαυτοῦ ἀναλώσας· διὰ γὰρ ταῦτα πιστευθεὶς ὑπὸ τοῦ δήμου κατέλυσε τὴν δημοκρατίαν, ὥστ’ εἶναι ταῦτα τὰ ἔργα ἀειμνηστότερα ἢ τὰ ἐκ τῶν λῃτουργιῶν αὐτῷ ἀναθήματα· πρὸς δὲ τὴν ἡσυχιότητα τὴν τούτου, ὅτι οὐ νῦν δεῖ αὐτὸν ἐξετάζειν εἰ σώφρων ἐστίν, ὅτ’ αὐτὸν οὐκ ἔξεστιν ἀσελγαίνειν, ἀλλ’ ἐκεῖνον τὸν χρόνον σκοπεῖν, ἐν ᾧ ἐξὸν ὁποτέρως ἐβούλετο ζῆν εἵλετο παρανόμως πολιτευθῆναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or26 5",
+      "text": "τοῦ μὲν γὰρ νῦν μηδὲν ἐξαμαρτάνειν οἱ κωλύσαντες αἴτιοι, τῶν δὲ τότε γενομένων ὁ τούτου τρόπος καὶ οἱ τούτῳ ἐπιτρέπειν ἀξιοῦντες. ὥστ’ ἐὰν ἐκ τούτων δοκιμάζεσθαι ἀξιοῖ, ταῦτα χρὴ ὑπολαμβάνειν, μὴ εὐήθεις αὐτῷ εἶναι δοκῆτε. Ἐὰν δὲ καὶ ἐπὶ τοιόνδε λόγον τράπωνται, ὡς ὁ χρόνος οὐκ ἐγχωρεῖ ἄλλον ἀποκληρῶσαι, ἀλλὰ ἀνάγκη, ἐὰν αὐτὸν ἀποδοκιμάσητε, ἄθυτα τὰ πάτρια ἱερὰ γίγνεσθαι, τάδ’ ἐνθυμήθητε, ὅτι πάλαι ὁ χρόνος ἤδη παρελήλυθεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or26 6",
+      "text": "ἡ γὰρ αὔριον ἡμέρα μόνη λοιπὴ τοῦ ἐνιαυτοῦ ἐστιν, ἐν δὲ ταύτῃ τῷ Διὶ τῷ σωτῆρι θυσία γίγνεται, δικαστήριον δὲ παρὰ τοὺς νόμους ἀδύνατον πληρωθῆναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or26 7",
+      "text": "εἰ δὲ ταῦτα πάνθ’ οὗτος ὥστε γενέσθαι διαπέπρακται, τί 〈χρὴ〉 προσδοκῆσαι δοκιμασθέντ’ αὐτὸν ποιήσειν, εἰ τὴν ἐξιοῦσαν ἀρχὴν πέπεικεν αὑτοῦ ἕνεκα παρανομῆσαι; ἆρ’ ἂν ὀλίγα τοιαῦτα ἐν τῷ ἐνιαυτῷ διαπράξασθαι; ἐγὼ μὲν γὰρ οὐκ ἂν οἶμαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or26 8",
+      "text": "ἔστι δ’ ὑμῖν οὐ τοῦτο μόνον σκεπτέον, ἀλλὰ καὶ πότερον εὐσεβέστερον τὸν βασιλέα καὶ τοὺς συνάρχοντας τὰ ὑπὲρ τοῦ μέλλοντος ἄρξειν ἱερὰ θῦσαι, ὡς καὶ πρότερον ἤδη γεγένηται, ἢ καὶ τοῦτον, ὃν οὐδὲ καθαρὸν εἶναι τὰς χεῖρας οἱ εἰδότες μεμαρτυρήκασι, καὶ πότερον ὑμεῖς ὠμόσατε εἰς τὴν ἀρχὴν ἀδοκίμαστον καταστήσειν, ἢ δοκιμάσαντες τὸν ἄξιον τῆς ἀρχῆς στεφανώσειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or26 9",
+      "text": "ταῦτα γὰρ σκοπεῖσθε· κἀκεῖνο 〈δ’〉 ἐνθυμεῖσθε, ὅτι ὁ θεὶς τὸν περὶ τῶν δοκιμασιῶν νόμον οὐχ ἥκιστα [περὶ] τῶν ἐν ὀλιγαρχίᾳ ἀρξάντων ἕνεκα ἔθηκεν, ἡγούμενος δεινὸν εἶναι, εἰ δι’ οὓς ἡ δημοκρατία κατελύετο, οὗτοι ἐν τῇ αὐτῇ πολιτείᾳ πάλιν ἄρξουσι, καὶ κύριοι γενήσονται τῶν νόμων καὶ τῆς πόλεως, ἣν πρότερον παραλαβόντες οὕτως αἰσχρῶς καὶ δεινῶς ἐλωβήσαντο. ὥστ’ οὐκ ἄξιον τῆς δοκιμασίας ὀλιγώρως ἔχειν, οὐδὲ μικρὸν ἡγουμένους τὸ πρᾶγμα μὴ φροντίζειν αὐτῆς, ἀλλὰ φυλάττειν· ὡς ἐν τῷ ἕκαστον δικαίως ἄρχειν ἥ τε πολιτεία καὶ τὸ ἄλλο πλῆθος τὸ ὑμέτερον σῴζεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or26 10",
+      "text": "〈καὶ〉 εἰ μὲν βουλεύσων νυνὶ ἐδοκιμάζετο καὶ ὡς ἱππευκότος αὐτοῦ ἐπὶ τῶν τριάκοντα τοὔνομα ἐν ταῖς σανίσιν ἐνεγέγραπτο, καὶ ἄνευ κατηγόρου ἂν αὐτὸν ἀπεδοκιμάζετε· νῦν δέ, ὅτε [μὴ μόνον ἱππευκὼς μηδὲ βεβουλευκώς, ἀλλὰ] καὶ εἰς τὸ πλῆθος ἐξημαρτηκὼς φαίνεται, οὐκ ἂν ἄτοπον ποιήσαιτε, εἰ μὴ τὴν αὐτὴν γνώμην ἔχοντες περὶ αὐτοῦ φανεῖσθε; καὶ μὲν δὴ βουλεύειν γε δοκιμασθεὶς πεντακοσιοστὸς ὢν μετὰ τῶν ἄλλων ἐνιαυτὸν ἂν μόνον ἐβούλευσεν, ὥστε καὶ εἴ τι ἐν τούτῳ τῷ χρόνῳ ἐξαμαρτάνειν ἐβούλετο, ῥᾳδίως ἂν ὑπὸ τῶν ἄλλων ἐκωλύετο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or26 11",
+      "text": "ταύτης δὲ τῆς ἀρχῆς ἀξιούμενος αὐτὸς καθ’ αὑτὸν ἄρξει, καὶ μετὰ τῆς ἐν Ἀρείῳ πάγῳ βουλῆς τὸν ἅπαντα χρόνον τῶν μεγίστων κύριος γενήσεται· ὥστε ὑμῖν καθήκειν περὶ ταύτης τῆς ἀρχῆς ἀκριβεστέραν τὴν δοκιμασίαν ἢ περὶ τῶν ἄλλων ἀρχῶν ποιεῖσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or26 12",
+      "text": "εἰ δὲ μή, πῶς οἴεσθε τὸ ἄλλο πλῆθος τῶν πολιτῶν διακείσεσθαι, ὅταν αἴσθωνται, ὃν προσῆκε δίκας τῶν ἡμαρτημένων διδόναι, τοῦτον ὑφ’ ὑμῶν τοιαύτης ἀρχῆς ἠξιωμένον; καὶ φόνου δίκας δικάζοντα, ὃν ἔδει αὐτὸν ὑπὸ τῆς ἐν Ἀρείῳ πάγῳ βουλῆς κρίνεσθαι; καὶ πρὸς τούτοις ἴδωσιν ἐστεφανωμένον, καὶ ἐπικλήρων καὶ ὀρφανῶν κύριον γεγενημένον, ὧν ἐνίοις αὐτὸς ὢν οὗτος τῆς ὀρφανίας αἴτιος γεγένηται; ἆρ’ οὐκ ἂν οἴεσθε αὐτοὺς χαλεπῶς διακεῖσθαι καὶ ὑμᾶς αὐτῶν αἰτίους ἡγήσασθαι, ὅταν γένωνται ἐν ἐκείνοις τοῖς χρόνοις, ἐν οἷς αὐτῶν πολλοὶ εἰς τὸ δεσμωτήριον ἀπήγοντο καὶ ἄκριτοι ὑπὸ τούτων ἀπώλλυντο καὶ φεύγειν τὴν σφετέραν αὐτῶν ἠναγκάζοντο; κἀκεῖνο προσενθυμηθῶσιν, ὅτι ὁ αὐτὸς οὗτος ἀνὴρ [Θρασύβουλος] αἴτιος γεγένηται Λεωδάμαντά τε ἀποδοκιμασθῆναι καὶ τοῦτον δοκιμασθῆναι, τοῦ μὲν κατήγορος γενόμενος, ὑπὲρ τούτου δὲ ἀπολογήσασθαι παρασκευασάμενος, 〈εὖ εἰδὼσ〉 ὅπως πρὸς τὴν πόλιν διάκειται καὶ πόσων αἴτιος αὐτῇ κακῶν γεγένηται; ἢ πειθόμενοι πῶς ἂν οἴεσθε διαβληθῆναι; τότε μὲν γὰρ ὑμᾶς ᾤοντο ὀργισθέντας Λεωδάμαντα ἀποδοκιμάσαι· ἐὰν δὲ τοῦτον δοκιμάσητε, εὖ εἴσονται ὅτι οὐ δικαίᾳ γνώμη περὶ αὐτοῦ κέχρησθε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or26 14",
+      "text": "ἔστι δὲ τούτοις μὲν πρὸς ὑμᾶς ἁγών, ὑμῖν δὲ πρὸς ἅπασαν τὴν πόλιν, ἣ σκοπεῖ νυνὶ τίνα ὑμεῖς γνώμην περὶ αὐτῆς ἕξετε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or26 15",
+      "text": "καὶ μηδεὶς ὑμῶν ἡγείσθω με Λεωδάμαντι χαριζόμενον κατηγορεῖν Εὐάνδρου, ὅτι φίλος ὢν τυγχάνει, ἀλλ’ ὑπὲρ ὑμῶν καὶ τῆς πόλεως προνοούμενον. ῥᾴδιον δ’ ἐξ αὐτοῦ τοῦ πράγματος μαθεῖν. Λεωδάμαντι γὰρ συμφέρει τοῦτον δοκιμασθῆναι, οὕτω γὰρ ὑμεῖς μάλιστα διαβληθήσεσθε, καὶ δόξετε ἀντὶ δημοτικῶν ἀνθρώπων ὀλιγαρχικοὺς εἰς τὰς ἀρχὰς καθιστάναι· ὑμῖν δὲ τόνδε ἀποδοκιμάσαι, δόξετε γὰρ κἀκεῖνον δικαίως [ἂν] ἀποδοκιμάσαι· ἐὰν δὲ μηδὲ τόνδε, οὐδ’ ἐκεῖνον δικαίως. Καίτοιγε αὐτὸν ἀκούω λέξειν ὡς οὐ περὶ αὐτοῦ μόνον ἡ δοκιμασία ἐστίν, ἀλλὰ περὶ πάντων τῶν ἐν ἄστει μεινάντων, καὶ τοὺς ὅρκους καὶ τὰς συνθήκας ὑμᾶς ὑπομνήσειν, ὡς ἐκ τούτων προσληψόμενον αὐτὸν δοκιμαστὰς τοὺς ἐν ἄστει μείναντας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or26 16",
+      "text": "ἐγὼ δ’ ὑπὲρ τοῦ πλήθους βραχέα πρὸς αὐτὸν εἰπεῖν βούλομαι, ὅτι ὁ δῆμος οὐ τὴν αὐτὴν γνώμην ἔχει περὶ πάντων τῶν ἐν ἄστει μεινάντων, ἀλλὰ περὶ μὲν τῶν τοιαῦτα ἐξαμαρτανόντων οἵαν ἐγώ φημι δεῖν, περὶ δὲ τῶν ἄλλων τὴν ἐναντίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or26 17",
+      "text": "τεκμήριον δέ· οὐ γὰρ ἔλαττον τούτους ἡ πόλις τετίμηκε τῶν ἐπὶ Φυλὴν ἐλθόντων καὶ τὸν Πειραιᾶ καταλαβόντων. εἰκότως· τοὺς μὲν γὰρ ἴσασιν ὁποῖοί τινες ἐν δημοκρατίᾳ μόνῃ γεγένηνται, ὁποῖοι δ’ ἄν τινες ἐν ὀλιγαρχίᾳ γένοιντο, οὔπω πεῖραν εἰλήφασι· παρὰ δὲ τούτων ἑκατέρας τῆς πολιτείας ἱκανὴν βάσανον ἔχουσιν, ὥστ’ εἰκότως πιστεύειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or26 18",
+      "text": "καὶ ἡγοῦνταί γε διὰ μὲν τοὺς τοιούτους συλληφθέντας τότε ἀποθανεῖν, διὰ δὲ τοὺς ἄλλους [τοὺς συλληφθέντας] ἐκφυγεῖν, ἐπεὶ εἴ γε τὴν αὐτὴν γνώμην ἅπαντες ἔσχον, οὔτ’ ἂν φυγὴ οὔτ’ ἂν κάθοδος οὔτ’ ἄλλο οὐδὲν ἂν τῶν γεγενημένων τῇ πόλει συνέβη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or26 19",
+      "text": "ἀλλὰ καὶ ὃ ἄλογον δοκεῖ εἶναι παρά τισιν, ὅπως ποτὲ πολλοὶ ὄντες ὑπ’ ὀλίγων τῶν ἐν Πειραιεῖ ἡττήθησαν, οὐδαμόθεν ἄλλοθεν ἢ ἐκ τῆς τούτων προνοίας γεγένηται· οὗτοι γὰρ εἵλοντο μετὰ τῶν κατελθόντων πολιτεύεσθαι μᾶλλον ἢ μετὰ τῶν τριάκοντα Λακεδαιμονίοις δουλεύειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or26 20",
+      "text": "τοιγάρτοι ἀντὶ τούτων αὐτοὺς ὁ δῆμος ταῖς μεγίσταις τιμαῖς τετίμηκεν, ἱππαρχεῖν καὶ στρατηγεῖν καὶ πρεσβεύειν ὑπὲρ αὑτῶν αἱρούμενοι· καὶ οὐδέποτε αὐτοῖς μετεμέλησεν. καὶ διὰ μέν γε τοὺς πολλὰ ἐξαμαρτόντας τὰς δοκιμασίας εἶναι ἐψηφίσαντο, διὰ δὲ τοὺς μηδὲν τοιοῦτον πράξαντας τὰς συνθήκας ἐποιήσαντο. τοσαῦτά σοι ἐγὼ ὑπὲρ τοῦ δήμου ἀποκρίνομαι. Ὑμέτερον δὴ ἔργον ἐστίν, ὦ ἄνδρες βουλευταί, σκέψασθαι ποτέρῳ ἂν πειθόμενοι περὶ τῆς δοκιμασίας ταύτης ἄμεινον βουλεύσαισθε, πότερον ἐμοὶ ἢ Θρασυβούλῳ, ὃς αὐτῷ ἀπολογήσεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or26 21",
+      "text": "περὶ μὲν οὖν ἐμοῦ ἢ τοῦ πατρὸς ἢ τῶν προγόνων οὐδὲν οὗτος εἰπεῖν ἕξει εἰς μισοδημίαν. οὔτε γὰρ ὡς ὀλιγαρχίας μετέσχον (ὕστερον γὰρ τῶν χρόνων τούτων ἀνὴρ εἶναι ἐδοκιμάσθην), οὔθ’ ὡς ὁ πατήρ (πρὸ γὰρ τῶν στάσεων πολὺ ἐν Σικελίᾳ ἄρχων ἐτελεύτησεν)· οὐδ’ ὡς οἱ πρόγονοι ὑπὸ τοῖς τυράννοις ἐγένοντο· στασιάζοντες γὰρ πρὸς αὐτοὺς τὸν ἅπαντα χρόνον διετέλεσαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or26 22",
+      "text": "ἀλλὰ μὲν δὴ οὐδὲ τὴν οὐσίαν ἡμᾶς ἐν τῷ πολέμῳ φήσει κτήσασθαι, εἰς δὲ τὴν πόλιν οὐδὲν ἀνηλωκέναι· πᾶν γὰρ τοὐναντίον, ἐν εἰρήνῃ μὲν ὀγδοηκοντατάλαντος ἡμῶν ὁ οἶκος ἐγένετο, εἰς δὲ τὴν τῆς πόλεως σωτηρίαν ἐν τῷ πολέμῳ ἅπας ἀνηλώθη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or26 23",
+      "text": "ἐγὼ δὲ περὶ τούτου τρία ἕξω εἰπεῖν τηλικαῦτα τὸ μέγεθος, ὥστ’ ἄξιον εἶναι ἕκαστον ἔργον θανάτου· πρῶτον μὲν ὅτι τὴν ἐν Βοιωτοῖς πολιτείαν χρήματα λαβὼν μετέστησε καὶ τῆς συμμαχίας ἡμᾶς ταύτης ἀπεστέρησεν, ἔπειτα ὅτι τὰς ναῦς προὔδωκε καὶ τὴν πόλιν περὶ σωτηρίας βουλεύεσθαι πεποίηκεν, ἔπειτα ὅτι παρὰ τῶν αἰχμαλώτων, οὓς αὐτὸς ἀπώλεσε, τριάκοντα μνᾶς ἐσυκοφάντησεν, οὐ φάσκων αὐτοὺς λύσεσθαι, εἰ μὴ τοῦτο αὐτῷ παρὰ σφῶν αὐτῶν παράσχοιεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or26 24",
+      "text": "συνειδότες οὖν ἡμῶν ἑκατέρῳ τὸν βίον, πρὸς ταῦτα βουλεύεσθε ὁποτέρῳ χρὴ πιστεύειν περὶ τῆς Εὐάνδρου δοκιμασίας, καὶ οὕτως οὐκ ἐξαμαρτήσεσθε.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ejc-ah",
+      "title": {
+        "english": "Accusatithe Companions of Slander",
+        "ancient_greek": "κατηγορία πρὸς τοὺς συνουσιαστὰς κακολογιῶν"
+      },
+      "url_slug": "lysias-accusation-companions-ejc-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/accusation-companions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-accusation-companions-ejc-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-accusation-companions-ejc-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-accusation-companions-ejc-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-accusation-companions-ejc-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/accusation-companions.epub"
+      }
+    },
+    {
+      "eul_wid": "ejc-ar",
+      "title": {
+        "english": "Against Agoratus for Informing",
+        "ancient_greek": "κατὰ Ἀγοράτου ἐνδείξεως"
+      },
+      "url_slug": "lysias-agoratus-ejc-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/agoratus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-agoratus-ejc-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-agoratus-ejc-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-agoratus-ejc-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-agoratus-ejc-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/agoratus.epub"
+      }
+    },
+    {
+      "eul_wid": "ejc-aq",
+      "title": {
+        "english": "Against Alcibiades for Desertion",
+        "ancient_greek": "κατὰ Ἀλκιβιάδου λιποταξίου"
+      },
+      "url_slug": "lysias-against-alcibiades-aq-ejc-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-alcibiades-aq",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-alcibiades-aq-ejc-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-alcibiades-aq-ejc-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-alcibiades-aq-ejc-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-alcibiades-aq-ejc-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-alcibiades-aq.epub"
+      }
+    },
+    {
+      "eul_wid": "ejc-aj",
+      "title": {
+        "english": "Against Alcibiades for Military Evasion",
+        "ancient_greek": "κατὰ Ἀλκιβιάδου ἀστρατείας"
+      },
+      "url_slug": "lysias-against-alcibiades-aj-ejc-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-alcibiades-aj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-alcibiades-aj-ejc-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-alcibiades-aj-ejc-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-alcibiades-aj-ejc-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-alcibiades-aj-ejc-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-alcibiades-aj.epub"
+      }
+    },
+    {
+      "eul_wid": "ejc-au",
+      "title": {
+        "english": "Against Andocides for Impiety",
+        "ancient_greek": "κατ᾽ Ἀνδοκίδου ἀσεβείας"
+      },
+      "url_slug": "lysias-against-andocides-ejc-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-andocides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-andocides-ejc-au.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-andocides-ejc-au.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-andocides-ejc-au.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-andocides-ejc-au.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-andocides.epub"
+      }
+    },
+    {
+      "eul_wid": "ejc-bd",
+      "title": {
+        "english": "Against Diogeiton",
+        "ancient_greek": "κατὰ Διογείτονος"
+      },
+      "url_slug": "lysias-against-diogeiton-ejc-bd",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-diogeiton",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-diogeiton-ejc-bd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-diogeiton-ejc-bd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-diogeiton-ejc-bd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-diogeiton-ejc-bd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-diogeiton.epub"
+      }
+    },
+    {
+      "eul_wid": "ejc-ac",
+      "title": {
+        "english": "Against Epicrates and Co-Envoys, Epilogue As Theodorus",
+        "ancient_greek": "κατὰ Ἐπικράτους καὶ τῶν συμπρεσβευτῶν ἐπίλογος"
+      },
+      "url_slug": "lysias-against-epicrates-envoys-ejc-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-epicrates-envoys",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-epicrates-envoys-ejc-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-epicrates-envoys-ejc-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-epicrates-envoys-ejc-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-epicrates-envoys-ejc-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-epicrates-envoys.epub"
+      }
+    },
+    {
+      "eul_wid": "ejc-ap",
+      "title": {
+        "english": "Against Eratosthenes of the Thirty",
+        "ancient_greek": "κατὰ Ερατοσθένους τοῦ γενομένου τῶν τριάκοντα,"
+      },
+      "url_slug": "lysias-against-eratosthenes-ejc-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-eratosthenes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-eratosthenes-ejc-ap.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-eratosthenes-ejc-ap.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-eratosthenes-ejc-ap.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-eratosthenes-ejc-ap.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-eratosthenes.epub"
+      }
+    },
+    {
+      "eul_wid": "ejc-az",
+      "title": {
+        "english": "Against Ergocles, Epilogue",
+        "ancient_greek": "κατὰ Ἐργοκλέους ἐπίλογος"
+      },
+      "url_slug": "lysias-against-ergocles-ejc-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-ergocles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-ergocles-ejc-az.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-ergocles-ejc-az.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-ergocles-ejc-az.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-ergocles-ejc-az.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-ergocles.epub"
+      }
+    },
+    {
+      "eul_wid": "ejc-ai",
+      "title": {
+        "english": "Against Nicomachus Secretary-Accounts",
+        "ancient_greek": "κατὰ Νικομάχου γραμματέως εὐθυνῶν κατηγορία"
+      },
+      "url_slug": "lysias-against-nicomachus-ejc-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-nicomachus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-nicomachus-ejc-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-nicomachus-ejc-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-nicomachus-ejc-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-nicomachus-ejc-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-nicomachus.epub"
+      }
+    },
+    {
+      "eul_wid": "ejc-an",
+      "title": {
+        "english": "Against Pancleon Not Being Plataean",
+        "ancient_greek": "κατὰ Παγκλέωνος ὅτι οὐκ ἦν Πλαταιεύς"
+      },
+      "url_slug": "lysias-against-pancleon-ejc-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-pancleon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-pancleon-ejc-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-pancleon-ejc-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-pancleon-ejc-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-pancleon-ejc-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-pancleon.epub"
+      }
+    },
+    {
+      "eul_wid": "ejc-ax",
+      "title": {
+        "english": "Against Philo-Examination",
+        "ancient_greek": "κατὰ Φίλωνος δοκιμασίας"
+      },
+      "url_slug": "lysias-against-philo-ejc-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-philo",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-philo-ejc-ax.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-philo-ejc-ax.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-philo-ejc-ax.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-philo-ejc-ax.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-philo.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "fsm-ck",
+      "title": {
+        "english": "Epitaph",
+        "ancient_greek": "ἐπιτάφιος"
+      },
+      "url_slug": "demosthenes-of-athens-epitaph-fsm-ck",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/epitaph",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-epitaph-fsm-ck.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-epitaph-fsm-ck.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-epitaph-fsm-ck.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-epitaph-fsm-ck.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/epitaph.epub"
+      }
+    },
+    {
+      "eul_wid": "fge-ab",
+      "title": {
+        "english": "On the Lot of Nicostratus, Epilogue",
+        "ancient_greek": "Περὶ τοῦ Νικοστράτου κλήρου"
+      },
+      "url_slug": "isaeus-the-orator-nicostratus-lot-fge-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/isaeus-the-orator/nicostratus-lot",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator-nicostratus-lot-fge-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator-nicostratus-lot-fge-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator-nicostratus-lot-fge-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator-nicostratus-lot-fge-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/nicostratus-lot.epub"
+      }
+    },
+    {
+      "eul_wid": "ria-ab",
+      "title": {
+        "english": "On the Nature of Animals",
+        "ancient_greek": "Περὶ ζῴων ἰδιότητος"
+      },
+      "url_slug": "aelian-of-praeneste-nature-animals-ria-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aelian-of-praeneste/nature-animals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste-nature-animals-ria-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste-nature-animals-ria-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste-nature-animals-ria-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste-nature-animals-ria-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste/nature-animals.epub"
+      }
+    },
+    {
+      "eul_wid": "fge-ak",
+      "title": {
+        "english": "On the Pyrrhus' Lot",
+        "ancient_greek": "Περὶ τοῦ Πύρρου κλήρου"
+      },
+      "url_slug": "isaeus-the-orator-pyrrhus-lot-fge-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/isaeus-the-orator/pyrrhus-lot",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator-pyrrhus-lot-fge-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator-pyrrhus-lot-fge-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator-pyrrhus-lot-fge-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator-pyrrhus-lot-fge-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/pyrrhus-lot.epub"
+      }
+    },
+    {
+      "eul_wid": "fsm-al",
+      "title": {
+        "english": "To Macartatus-Hagnius' Estate",
+        "ancient_greek": "πρὸς Μακάρτατον περὶ Ἁγνίου κλήρου"
+      },
+      "url_slug": "demosthenes-of-athens-macartatus-hagnius-estate-fsm-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/macartatus-hagnius-estate",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-macartatus-hagnius-estate-fsm-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-macartatus-hagnius-estate-fsm-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-macartatus-hagnius-estate-fsm-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-macartatus-hagnius-estate-fsm-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/macartatus-hagnius-estate.epub"
+      }
+    },
+    {
+      "eul_wid": "pfk-ac",
+      "title": {
+        "english": "To the Uneducated Man Buying Many Books",
+        "ancient_greek": "Πρὸς τὸν ἀπαίδευτον καὶ πολλὰ βιβλία ὠνούμενον"
+      },
+      "url_slug": "lucian-of-samosata-uneducated-man-books-pfk-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/uneducated-man-books",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-uneducated-man-books-pfk-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-uneducated-man-books-pfk-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-uneducated-man-books-pfk-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-uneducated-man-books-pfk-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/uneducated-man-books.epub"
+      }
+    },
+    {
+      "eul_wid": "qwm-aw",
+      "title": {
+        "english": "To the Well of Asclepius",
+        "ancient_greek": "Εἰς τὸ φρέαρ τοῦ Ἀσκληπιοῦ"
+      },
+      "url_slug": "aristides-the-orator-well-asclepius-qwm-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/well-asclepius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-well-asclepius-qwm-aw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-well-asclepius-qwm-aw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-well-asclepius-qwm-aw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-well-asclepius-qwm-aw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/well-asclepius.epub"
+      }
+    },
+    {
+      "eul_wid": "pfk-be",
+      "title": {
+        "english": "encom of the Fly",
+        "ancient_greek": "Ἐγκώμιον Μύσκης"
+      },
+      "url_slug": "lucian-of-samosata-encomium-fly-pfk-be",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/encomium-fly",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-encomium-fly-pfk-be.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-encomium-fly-pfk-be.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-encomium-fly-pfk-be.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-encomium-fly-pfk-be.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/encomium-fly.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/lysias/examination-evander",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-examination-evander-ejc-aw.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-examination-evander-ejc-aw.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-examination-evander-ejc-aw.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-examination-evander-ejc-aw.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/examination-evander.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

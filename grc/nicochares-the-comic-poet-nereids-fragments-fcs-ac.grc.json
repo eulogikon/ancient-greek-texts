@@ -1,0 +1,266 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "fcs-ac",
+  "eul_aid": "fcs",
+  "author_slug": "nicochares-the-comic-poet",
+  "work_slug": "nereids-fragments",
+  "url_slug": "nicochares-the-comic-poet-nereids-fragments-fcs-ac",
+  "author": {
+    "english": "Nicochares the Comic Poet",
+    "ancient_greek": "Νικοχάρης ὁ κωμικός"
+  },
+  "title": {
+    "english": "Fragments of the Nereids",
+    "ancient_greek": "Ἀποσπάσματα τῶν Νηρηίδων"
+  },
+  "seo": {
+    "browser_title": "Fragments of the Nereids by Nicochares on Eulogikon",
+    "meta_title": "Ancient Fragments of the Nereids by Nicochares in Greek",
+    "meta_description": "Surviving fragments of the comedy Nereids by Nicochares. Old Comedy with mythological parody. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Nereids is a lost comedy by the Athenian poet Nicochares, a contemporary of Aristophanes active in the late fifth and early fourth centuries BCE. As the title indicates, the chorus was composed of the sea-nymphs, suggesting a plot involving mythological parody or a maritime setting. The work survives only in six brief fragments preserved by later authors such as Athenaeus and the lexicographers Pollux and Herodian. These fragments, though scant, reveal characteristic comic themes. The mythological framework of the chorus points to the parody of stories involving sea deities. One fragment mentions a kollyrion, a type of cake or loaf, reflecting the genre&#x27;s enduring interest in food and consumption. Other fragments contain rare or compound words, such as tragelaphos, meaning goat-stag, which were noted by ancient grammarians for their humorous linguistic play. A reference to an everyday object like a lekythion, or oil flask, suggests comic business with domestic items. The play has no independent manuscript tradition and exists solely as quotations within the prose works of later compilers, primarily Athenaeus’s <strong>Deipnosophistae</strong> and various lexicographical collections. As a fragmentary work of Old Comedy, <strong>The Nereids</strong> contributes to the understanding of the genre&#x27;s scope beyond the fully preserved plays of Aristophanes. The fragments are valuable for philological study of Attic comic diction and for reconstructing the broader repertoire of the Athenian dramatic festivals.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Νηρῇδεc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "τὸν ἀναλφάβητον, τὸν ἄπονον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "ἀλλ’ εἰλήμμεθα λαβὴν ἄφυκτον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4",
+      "text": "εἰ πεύcομαί 〈cε κἂν〉 τὸν ἀηδόνιον ὕπνον τῆc νυκτὸc ἀποδαρθόντα, cαυτὸν αἰτιῶ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5",
+      "text": "ἀμιθρεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6",
+      "text": "ῥηγνὺc δὲ πολλὰc κυμάτων ἀναρρόαc.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "fcs-ab",
+      "title": {
+        "english": "Sympotic Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "nicochares-the-comic-poet-sympotic-fragments-ab-fcs-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicochares-the-comic-poet/sympotic-fragments-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet-sympotic-fragments-ab-fcs-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet-sympotic-fragments-ab-fcs-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet-sympotic-fragments-ab-fcs-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet-sympotic-fragments-ab-fcs-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet/sympotic-fragments-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "fcs-aa",
+      "title": {
+        "english": "Sympotic Fragments of Nicochares",
+        "ancient_greek": "Ἀποσπάσματα Νικοχάρους Συμποτικά"
+      },
+      "url_slug": "nicochares-the-comic-poet-sympotic-fragments-aa-fcs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicochares-the-comic-poet/sympotic-fragments-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet-sympotic-fragments-aa-fcs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet-sympotic-fragments-aa-fcs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet-sympotic-fragments-aa-fcs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet-sympotic-fragments-aa-fcs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet/sympotic-fragments-aa.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "kfu-af",
+      "title": {
+        "english": "Comic Arguments",
+        "ancient_greek": "Κωμικοὶ Ἀγῶνες"
+      },
+      "url_slug": "comic-fragments-anonymous-ii-arguments-kfu-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-ii/arguments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii-arguments-kfu-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii-arguments-kfu-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii-arguments-kfu-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii-arguments-kfu-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/arguments.epub"
+      }
+    },
+    {
+      "eul_wid": "efg-aa",
+      "title": {
+        "english": "Comic Fragments on Food and Feasting",
+        "ancient_greek": "Ἀποσπάσματα περὶ Τροφῆς καὶ Εὐωχίας"
+      },
+      "url_slug": "theopompus-the-comic-poet-food-feasting-efg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theopompus-the-comic-poet/food-feasting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet-food-feasting-efg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet-food-feasting-efg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet-food-feasting-efg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet-food-feasting-efg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet/food-feasting.epub"
+      }
+    },
+    {
+      "eul_wid": "kfu-ag",
+      "title": {
+        "english": "Comic Words",
+        "ancient_greek": "Λέξεις κωμικαί"
+      },
+      "url_slug": "comic-fragments-anonymous-ii-words-kfu-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-ii/words",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii-words-kfu-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii-words-kfu-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii-words-kfu-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii-words-kfu-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/words.epub"
+      }
+    },
+    {
+      "eul_wid": "ivg-aa",
+      "title": {
+        "english": "Fragments on Hedonism and Philosophy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἡδονῆς καὶ Φιλοσοφίας"
+      },
+      "url_slug": "bato-the-comic-poet-hedonism-philosophy-ivg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/bato-the-comic-poet/hedonism-philosophy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet-hedonism-philosophy-ivg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet-hedonism-philosophy-ivg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet-hedonism-philosophy-ivg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet-hedonism-philosophy-ivg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet/hedonism-philosophy.epub"
+      }
+    },
+    {
+      "eul_wid": "gzo-aa",
+      "title": {
+        "english": "Fragments on Lydian Maidens",
+        "ancient_greek": "Ἀποσπάσματα περὶ Λυδῶν Κορῶν"
+      },
+      "url_slug": "autocrates-the-comic-poet-lydian-maidens-aa-gzo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/autocrates-the-comic-poet/lydian-maidens-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet-lydian-maidens-aa-gzo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet-lydian-maidens-aa-gzo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet-lydian-maidens-aa-gzo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet-lydian-maidens-aa-gzo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet/lydian-maidens-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "gli-aa",
+      "title": {
+        "english": "On Parasites and Flatterers",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "nicolaus-the-comic-poet-parasites-flatterers-gli-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicolaus-the-comic-poet/parasites-flatterers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-the-comic-poet-parasites-flatterers-gli-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-the-comic-poet-parasites-flatterers-gli-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-the-comic-poet-parasites-flatterers-gli-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-the-comic-poet-parasites-flatterers-gli-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-the-comic-poet/parasites-flatterers.epub"
+      }
+    },
+    {
+      "eul_wid": "gli-ab",
+      "title": {
+        "english": "On Parasites and Tantalus",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "nicolaus-the-comic-poet-parasites-tantalus-gli-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicolaus-the-comic-poet/parasites-tantalus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-the-comic-poet-parasites-tantalus-gli-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-the-comic-poet-parasites-tantalus-gli-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-the-comic-poet-parasites-tantalus-gli-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-the-comic-poet-parasites-tantalus-gli-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-the-comic-poet/parasites-tantalus.epub"
+      }
+    },
+    {
+      "eul_wid": "gfo-ab",
+      "title": {
+        "english": "Symposium and Revelry Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "sophilus-the-comic-poet-symposium-revelry-gfo-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/sophilus-the-comic-poet/symposium-revelry",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophilus-the-comic-poet-symposium-revelry-gfo-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophilus-the-comic-poet-symposium-revelry-gfo-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophilus-the-comic-poet-symposium-revelry-gfo-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophilus-the-comic-poet-symposium-revelry-gfo-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophilus-the-comic-poet/symposium-revelry.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/nicochares-the-comic-poet/nereids-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet-nereids-fragments-fcs-ac.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet-nereids-fragments-fcs-ac.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet-nereids-fragments-fcs-ac.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet-nereids-fragments-fcs-ac.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet/nereids-fragments.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

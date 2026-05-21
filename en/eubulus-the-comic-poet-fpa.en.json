@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "fpa",
+  "auth_slug": "eubulus-the-comic-poet",
+  "name": {
+    "english": "Eubulus the Comic Poet",
+    "ancient_greek": "Εὔβουλος ὁ κωμικός"
+  },
+  "seo_h1": "Feasting and Festival in the Comedies of Eubulus",
+  "seo": {
+    "browser_title": "Eubulus the Comic Poet on Eulogikon Greek Archive Collection",
+    "meta_title": "Classical Eubulus Ancient Greek Comedy Works and Fragments",
+    "meta_description": "Eubulus was an Athenian comic poet of Middle Comedy in the 4th century BCE. Surviving fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Eubulus was an Athenian comic poet active in the 4th century BCE, during the period known as Middle Comedy. Ancient records state he was victorious six times at the City Dionysia festival. His career is generally placed between roughly 380 and 335 BCE, making him a contemporary of other notable comic playwrights of his era.</p>\n<p class=\"research-text\">He was an exceptionally prolific author. According to the ancient Byzantine encyclopedia, the Suda, he produced 104 comedies, though modern scholars note this total may be exaggerated or include plays of disputed authorship. Over 50 play titles are known from surviving fragments. His works covered typical subjects of Middle Comedy, such as mythological burlesque, domestic situations, and parodies of tragedy. Notable titles include Auge, Danae, and Nannion. No complete play survives today; his work is known only through fragments quoted by later ancient authors.</p>\n<p class=\"research-text\">Eubulus is a significant figure for understanding the evolution of Greek comedy. According to modern scholars, his work exemplifies the transition from the politically focused Old Comedy of Aristophanes toward the more generalized social and romantic plots of New Comedy. His fragments are particularly noted for their elaborate descriptions of food and dining. While his full plays are lost, the surviving pieces provide valuable insight into the themes and style of 4th-century Athenian theater, bridging the gap between the better-known eras of comedy that came before and after him.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "fpa-ab",
+      "title": {
+        "english": "Fragments on Feasting",
+        "ancient_greek": "Ἀποσπάσματα περὶ Εὐωχίας"
+      },
+      "url_slug": "eubulus-the-comic-poet-feasting-fpa-ab",
+      "passages": 342,
+      "links": {
+        "html": "https://eulogikon.org/grc/eubulus-the-comic-poet/feasting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eubulus-the-comic-poet-feasting-fpa-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eubulus-the-comic-poet-feasting-fpa-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eubulus-the-comic-poet-feasting-fpa-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eubulus-the-comic-poet-feasting-fpa-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eubulus-the-comic-poet/feasting.epub"
+      }
+    },
+    {
+      "eul_wid": "fpa-aa",
+      "title": {
+        "english": "Fragments on Feasts and Festivals",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἑορτῶν καὶ Ἑορτασμῶν"
+      },
+      "url_slug": "eubulus-the-comic-poet-feasts-festivals-fpa-aa",
+      "passages": 375,
+      "links": {
+        "html": "https://eulogikon.org/grc/eubulus-the-comic-poet/feasts-festivals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eubulus-the-comic-poet-feasts-festivals-fpa-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eubulus-the-comic-poet-feasts-festivals-fpa-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eubulus-the-comic-poet-feasts-festivals-fpa-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eubulus-the-comic-poet-feasts-festivals-fpa-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eubulus-the-comic-poet/feasts-festivals.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/eubulus-the-comic-poet",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eubulus-the-comic-poet-fpa.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eubulus-the-comic-poet-fpa.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eubulus-the-comic-poet-fpa.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eubulus-the-comic-poet-fpa.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

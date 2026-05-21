@@ -1,0 +1,280 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "gcw-aa",
+  "eul_aid": "gcw",
+  "author_slug": "philiscus-of-athens",
+  "work_slug": "aphorisms",
+  "url_slug": "philiscus-of-athens-aphorisms-gcw-aa",
+  "author": {
+    "english": "Philiscus of Athens",
+    "ancient_greek": "Φίλισκος ὁ Ἀθηναῖος"
+  },
+  "title": {
+    "english": "Political and Moral Aphorisms",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Political and Moral Aphorisms by Philiscus on Eulogikon",
+    "meta_title": "Political and Moral Aphorisms by Philiscus in Greek",
+    "meta_description": "Political and Moral Aphorisms by Philiscus, gnomic verse from ancient Greek comedy. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Political and Moral Aphorisms is a lost work attributed to the Middle Comic poet Philiscus of Athens. Surviving only in fragments, the work is recorded as consisting of eight passages in verse form. As a collection of gnomic sayings composed by a comic poet, it represents a synthesis of poetic wisdom literature and comedic social critique. Its themes likely encompassed political wisdom and statecraft, moral virtue and ethical behavior, and broader social criticism and observations on human nature. The work is not mentioned in the Suda&#x27;s entry for Philiscus, suggesting it was a minor composition or was known through other, now-lost, sources. Its fragmentary status is typical for most works of Middle Comedy, which flourished from approximately 400 to 320 BCE. As a product of this theatrical period, the aphorisms were part of the culture that influenced the later development of New Comedy. Their existence also places them within the enduring Greek tradition of gnomic poetry, a form used for both moral instruction and rhetorical education.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "εἰς τὸ μεταπεῖσαι ῥᾳδίως ἃ βούλεται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "πιθανοὺς ἔχειν εἴωθεν ἡ κλίνη λόγους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "ὁ Πειραιεὺς κάρυον μέγ’ ἐστὶ καὶ κενόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "χρηστῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "σφόδρ’ ἔσθ’ ἡ Χαλκὶς Ἑλλήνων πόλις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.1",
+      "text": "οὐκ ἔστιν, ὦ μάταιε, σὺν ῥᾳθυμίᾳ τὰ τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.2",
+      "text": "πονούντων μὴ πονήσαντας λαβεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5",
+      "text": "πολιτογραφεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "gcw-ab",
+      "title": {
+        "english": "Fragments on Rhetoric and Cities",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ῥητορικῆς καὶ Πόλεων"
+      },
+      "url_slug": "philiscus-of-athens-rhetoric-cities-gcw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/philiscus-of-athens/rhetoric-cities",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-rhetoric-cities-gcw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-rhetoric-cities-gcw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-rhetoric-cities-gcw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-rhetoric-cities-gcw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens/rhetoric-cities.epub"
+      }
+    },
+    {
+      "eul_wid": "gcw-ac",
+      "title": {
+        "english": "Rhea's Lament to Cronus",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philiscus-of-athens-rhea-lament-gcw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/philiscus-of-athens/rhea-lament",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-rhea-lament-gcw-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-rhea-lament-gcw-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-rhea-lament-gcw-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-rhea-lament-gcw-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens/rhea-lament.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "cxk-ab",
+      "title": {
+        "english": "Comic Feast of Crathis",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "metagenes-the-comic-poet-comic-feast-of-crathis-cxk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/metagenes-the-comic-poet/comic-feast-of-crathis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metagenes-the-comic-poet-comic-feast-of-crathis-cxk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metagenes-the-comic-poet-comic-feast-of-crathis-cxk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metagenes-the-comic-poet-comic-feast-of-crathis-cxk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metagenes-the-comic-poet-comic-feast-of-crathis-cxk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metagenes-the-comic-poet/comic-feast-of-crathis.epub"
+      }
+    },
+    {
+      "eul_wid": "fim-ab",
+      "title": {
+        "english": "Comic Fragments on Daily Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ Κωμικά"
+      },
+      "url_slug": "alcaeus-the-comic-poet-daily-life-ab-fim-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/alcaeus-the-comic-poet/daily-life-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-daily-life-ab-fim-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-daily-life-ab-fim-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-daily-life-ab-fim-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-daily-life-ab-fim-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet/daily-life-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "bhm-ac",
+      "title": {
+        "english": "Fragments of Epicharmus",
+        "ancient_greek": "Ἐπιχάρμου Ἀποσπάσματα"
+      },
+      "url_slug": "epicharmus-syracuse-fragments-ac-bhm-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicharmus-syracuse/fragments-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-fragments-ac-bhm-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-fragments-ac-bhm-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-fragments-ac-bhm-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-fragments-ac-bhm-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-ag",
+      "title": {
+        "english": "Fragments of Georgus Known Elsewhere",
+        "ancient_greek": "Ἀποσπάσματα τοῦ Γεωργοῦ"
+      },
+      "url_slug": "menander-of-athens-georgus-fragments-hps-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/georgus-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-georgus-fragments-hps-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-georgus-fragments-hps-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-georgus-fragments-hps-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-georgus-fragments-hps-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/georgus-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "hbw-aa",
+      "title": {
+        "english": "Fragments on Drinking and Fate",
+        "ancient_greek": "Ἀποσπάσματα περὶ Πόσεως καὶ Εἱμαρμένης"
+      },
+      "url_slug": "anaxandrides-comicus-drinking-fate-hbw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anaxandrides-comicus/drinking-fate",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandrides-comicus-drinking-fate-hbw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandrides-comicus-drinking-fate-hbw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandrides-comicus-drinking-fate-hbw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandrides-comicus-drinking-fate-hbw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandrides-comicus/drinking-fate.epub"
+      }
+    },
+    {
+      "eul_wid": "dts-aa",
+      "title": {
+        "english": "Fragments on Fish and Seafood",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἰχθύων καὶ Θαλασσίων"
+      },
+      "url_slug": "aristonymus-the-comic-poet-fish-seafood-dts-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristonymus-the-comic-poet/fish-seafood",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonymus-the-comic-poet-fish-seafood-dts-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonymus-the-comic-poet-fish-seafood-dts-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonymus-the-comic-poet-fish-seafood-dts-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonymus-the-comic-poet-fish-seafood-dts-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonymus-the-comic-poet/fish-seafood.epub"
+      }
+    },
+    {
+      "eul_wid": "ery-aa",
+      "title": {
+        "english": "Seven Gastronomic Sages",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "euphro-of-sicyon-seven-gastronomic-sages-ery-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/euphro-of-sicyon/seven-gastronomic-sages",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphro-of-sicyon-seven-gastronomic-sages-ery-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphro-of-sicyon-seven-gastronomic-sages-ery-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphro-of-sicyon-seven-gastronomic-sages-ery-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphro-of-sicyon-seven-gastronomic-sages-ery-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphro-of-sicyon/seven-gastronomic-sages.epub"
+      }
+    },
+    {
+      "eul_wid": "bhm-ae",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "epicharmus-syracuse-testimonies-bhm-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicharmus-syracuse/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-testimonies-bhm-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-testimonies-bhm-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-testimonies-bhm-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-testimonies-bhm-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/testimonies.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/philiscus-of-athens/aphorisms",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-aphorisms-gcw-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-aphorisms-gcw-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-aphorisms-gcw-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-aphorisms-gcw-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens/aphorisms.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

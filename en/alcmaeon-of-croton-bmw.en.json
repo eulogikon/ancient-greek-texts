@@ -1,0 +1,277 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "bmw",
+  "auth_slug": "alcmaeon-of-croton",
+  "name": {
+    "english": "Alcmaeon of Croton",
+    "ancient_greek": "Ἀλκμαίων ὁ Κροτωνιάτης"
+  },
+  "seo_h1": "Nature and the Fragments of Alcmaeon of Croton",
+  "seo": {
+    "browser_title": "Alcmaeon of Croton Works on Eulogikon Greek Archive",
+    "meta_title": "Alcmaeon of Croton Ancient Greek Works and Fragments",
+    "meta_description": "Alcmaeon of Croton, presocratic philosopher and physician. Medical and philosophical fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Presocratic",
+      "href": "/affiliations/presocratic"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Alcmaeon of Croton was a Greek philosopher and physician active in the 5th century BCE. He lived in Croton, a Greek colony in southern Italy that was a center for Pythagorean thought. The exact dates of his life are uncertain, but he is generally placed in the early to mid-5th century. He is often associated with the Pythagorean school due to his intellectual environment, but the extent of his direct affiliation is debated by scholars.</p>\n<p class=\"research-text\">He is credited with writing a major work titled On Nature, which is now lost and survives only in fragments quoted by later ancient authors. Alcmaeon was known as a practicing physician and is considered one of the first to engage in anatomical dissection, which informed his theories.</p>\n<p class=\"research-text\">His significance lies in several pioneering ideas. He is frequently cited as one of the earliest thinkers to propose that the brain, not the heart, is the central organ of sensation and thought. His definition of health as a balance between opposing qualities in the body, and disease as the dominance of one, influenced later medical theory. In cosmology, he suggested that heavenly bodies move in eternal, circular orbits.</p>\n<p class=\"research-text\">Although his work survives only fragmentarily, his theories mark him as an important forerunner in Greek medicine and natural philosophy.</p>\n</div>",
+  "affiliation_label": "Presocratic",
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "bmw-ab",
+      "title": {
+        "english": "Fragments on Nature",
+        "ancient_greek": "Ἀποσπάσματα περὶ Φύσεως"
+      },
+      "url_slug": "alcmaeon-of-croton-nature-bmw-ab",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/alcmaeon-of-croton/nature",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton-nature-bmw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton-nature-bmw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton-nature-bmw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton-nature-bmw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton/nature.epub"
+      }
+    },
+    {
+      "eul_wid": "bmw-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "alcmaeon-of-croton-testimonies-bmw-aa",
+      "passages": 18,
+      "links": {
+        "html": "https://eulogikon.org/grc/alcmaeon-of-croton/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton-testimonies-bmw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton-testimonies-bmw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton-testimonies-bmw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton-testimonies-bmw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton/testimonies.epub"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "btk",
+      "name": {
+        "english": "Anaxagoras of Clazomenae",
+        "ancient_greek": "Ἀναξαγόρας ὁ Κλαζομένιος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/anaxagoras-of-clazomenae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxagoras-of-clazomenae-btk.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxagoras-of-clazomenae-btk.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxagoras-of-clazomenae-btk.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxagoras-of-clazomenae-btk.en.json"
+      }
+    },
+    {
+      "eul_aid": "aua",
+      "name": {
+        "english": "Anaximander of Miletus",
+        "ancient_greek": "Ἀναξίμανδρος ὁ Μιλήσιος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/anaximander-of-miletus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximander-of-miletus-aua.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximander-of-miletus-aua.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximander-of-miletus-aua.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximander-of-miletus-aua.en.json"
+      }
+    },
+    {
+      "eul_aid": "bcm",
+      "name": {
+        "english": "Anaximenes of Miletus",
+        "ancient_greek": "Ἀναξιμένης ὁ Μιλήσιος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/anaximenes-of-miletus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-of-miletus-bcm.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-of-miletus-bcm.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-of-miletus-bcm.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-of-miletus-bcm.en.json"
+      }
+    },
+    {
+      "eul_aid": "etm",
+      "name": {
+        "english": "Anaximenes-pseudo Miletus Letters",
+        "ancient_greek": "Ἀναξιμένους τοῦ Μιλησίου Ἐπιστολαί (Ψευδο-Ἀναξιμένης)"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/anaximenes-pseudo-miletus-letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-pseudo-miletus-letters-etm.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-pseudo-miletus-letters-etm.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-pseudo-miletus-letters-etm.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-pseudo-miletus-letters-etm.en.json"
+      }
+    },
+    {
+      "eul_aid": "byk",
+      "name": {
+        "english": "Archelaus of Miletus",
+        "ancient_greek": "Ἀρχέλαος ὁ Μιλήσιος ὁ Ἀθηναῖος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/archelaus-of-miletus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archelaus-of-miletus-byk.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archelaus-of-miletus-byk.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archelaus-of-miletus-byk.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archelaus-of-miletus-byk.en.json"
+      }
+    },
+    {
+      "eul_aid": "anw",
+      "name": {
+        "english": "Cleobulus of Lindos I",
+        "ancient_greek": "Κλεόβουλος ὁ Λίνδιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/cleobulus-of-lindos-i",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleobulus-of-lindos-i-anw.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleobulus-of-lindos-i-anw.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleobulus-of-lindos-i-anw.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleobulus-of-lindos-i-anw.en.json"
+      }
+    },
+    {
+      "eul_aid": "byu",
+      "name": {
+        "english": "Democritus of Abdera",
+        "ancient_greek": "Δημόκριτος ὁ Ἀβδηρίτης"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/democritus-of-abdera",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/democritus-of-abdera-byu.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/democritus-of-abdera-byu.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/democritus-of-abdera-byu.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/democritus-of-abdera-byu.en.json"
+      }
+    },
+    {
+      "eul_aid": "bze",
+      "name": {
+        "english": "Diogenes of Apollonia",
+        "ancient_greek": "Διογένης ὁ Ἀπολλωνιάτης"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/diogenes-of-apollonia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-apollonia-bze.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-apollonia-bze.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-apollonia-bze.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-apollonia-bze.en.json"
+      }
+    },
+    {
+      "eul_aid": "die",
+      "name": {
+        "english": "Empedocles of Acragas",
+        "ancient_greek": "Ἐμπεδοκλῆς ὁ Ἀκραγαντίνος"
+      },
+      "work_count": 3,
+      "links": {
+        "html": "https://eulogikon.org/en/empedocles-of-acragas",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/empedocles-of-acragas-die.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/empedocles-of-acragas-die.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/empedocles-of-acragas-die.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/empedocles-of-acragas-die.en.json"
+      }
+    },
+    {
+      "eul_aid": "bky",
+      "name": {
+        "english": "Heraclitus of Ephesus",
+        "ancient_greek": "Ἡράκλειτος ὁ Ἐφέσιος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/heraclitus-of-ephesus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-bky.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-bky.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-bky.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-bky.en.json"
+      }
+    },
+    {
+      "eul_aid": "bko",
+      "name": {
+        "english": "Heraclitus of Ephesus II",
+        "ancient_greek": "Ἡράκλειτος ὁ Ἐφέσιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/heraclitus-of-ephesus-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-ii-bko.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-ii-bko.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-ii-bko.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-ii-bko.en.json"
+      }
+    },
+    {
+      "eul_aid": "exs",
+      "name": {
+        "english": "Hermodorus of Ephesus",
+        "ancient_greek": "Ἑρμόδωρος ὁ Ἐφέσιος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/hermodorus-of-ephesus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermodorus-of-ephesus-exs.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermodorus-of-ephesus-exs.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermodorus-of-ephesus-exs.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermodorus-of-ephesus-exs.en.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/alcmaeon-of-croton",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcmaeon-of-croton-bmw.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcmaeon-of-croton-bmw.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcmaeon-of-croton-bmw.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcmaeon-of-croton-bmw.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

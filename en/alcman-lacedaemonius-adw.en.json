@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "adw",
+  "auth_slug": "alcman-lacedaemonius",
+  "name": {
+    "english": "Alcman Lacedaemonius",
+    "ancient_greek": "Ἀλκμάν ὁ Λακεδαιμόνιος"
+  },
+  "seo_h1": "Alcman's Doric Lyrics from Lacedaemon",
+  "seo": {
+    "browser_title": "Alcman Lacedaemonius Ancient Greek Poet on Eulogikon Archive",
+    "meta_title": "Alcman Ancient Greek Lyric Poetry and Choral Works",
+    "meta_description": "Alcman, a Doric lyric poet of Sparta from the 7th century BCE. Read his surviving choral poetry. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Alcman was a lyric poet of the Archaic period, traditionally considered a native of Sardis in Lydia who lived and worked in Sparta. Ancient sources refer to him as a Lydian, though he composed in the Doric dialect. He was active in Sparta during the latter part of the 7th century BCE and is regarded as the earliest known choral lyric poet from Greece, establishing the tradition of choral lyric for Spartan public festivals.</p>\n<p class=\"research-text\">Alcman&#x27;s poetry survives only in fragments, originally collected in six books but now represented by approximately 100 fragments. His most significant surviving work is the Partheneion, a substantial fragment preserved on papyrus. His corpus included other choral lyrics such as hymns, paeans, and dance songs.</p>\n<p class=\"research-text\">Alcman holds a foundational position in Greek literature as the earliest known composer of choral lyric poetry, a form later mastered by poets like Pindar. His work is crucial for understanding the cultural and religious life of Archaic Sparta, particularly the role of choral performance in civic rituals. The Partheneion provides rare insight into the voices and social dynamics of female choruses in ancient Greece.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "adw-ab",
+      "title": {
+        "english": "Fragments on Poetry",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ποίησεως"
+      },
+      "url_slug": "alcman-lacedaemonius-poetry-fragments-adw-ab",
+      "passages": 8,
+      "links": {
+        "html": "https://eulogikon.org/grc/alcman-lacedaemonius/poetry-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcman-lacedaemonius-poetry-fragments-adw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcman-lacedaemonius-poetry-fragments-adw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcman-lacedaemonius-poetry-fragments-adw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcman-lacedaemonius-poetry-fragments-adw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcman-lacedaemonius/poetry-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "adw-aa",
+      "title": {
+        "english": "Hymn to the Dioscuri and Heroes",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "alcman-lacedaemonius-hymn-dioscuri-heroes-adw-aa",
+      "passages": 329,
+      "links": {
+        "html": "https://eulogikon.org/grc/alcman-lacedaemonius/hymn-dioscuri-heroes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcman-lacedaemonius-hymn-dioscuri-heroes-adw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcman-lacedaemonius-hymn-dioscuri-heroes-adw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcman-lacedaemonius-hymn-dioscuri-heroes-adw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcman-lacedaemonius-hymn-dioscuri-heroes-adw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcman-lacedaemonius/hymn-dioscuri-heroes.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/alcman-lacedaemonius",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcman-lacedaemonius-adw.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcman-lacedaemonius-adw.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcman-lacedaemonius-adw.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcman-lacedaemonius-adw.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

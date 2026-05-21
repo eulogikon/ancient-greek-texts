@@ -1,0 +1,215 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "jbu-ab",
+  "eul_aid": "jbu",
+  "author_slug": "istros-the-callimachean",
+  "work_slug": "olympic-region",
+  "url_slug": "istros-the-callimachean-olympic-region-jbu-ab",
+  "author": {
+    "english": "Istros the Callimachean",
+    "ancient_greek": "Ἴστρος ὁ Καλλιμάχειος"
+  },
+  "title": {
+    "english": "Fragments on the Olympic Region",
+    "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ὀλυμπικῆς Χώρας"
+  },
+  "seo": {
+    "browser_title": "The Fragments of Istros the Callimachean on Eulogikon",
+    "meta_title": "Fragments by Istros the Callimachean in Ancient Greek",
+    "meta_description": "Fragments on the Olympic region by Istros the Callimachean. Hellenistic historical geography. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on the Olympic Region</strong> is a lost Hellenistic prose work by the scholar Istros the Callimachean. Known only through later citations, it was a periegetic text compiling antiquarian notes on the topography, myths, cults, and history of Olympia in Elis. The title suggests it was a collection of excerpts, possibly drawn from earlier sources, focusing on the sanctuary of Zeus and the Olympic Games. The surviving fragments indicate the work covered the topography and sacred geography of the Olympic sanctuary and the surrounding region of Elis, including foundation myths and aetiologies for the Games and local cults. It also contained antiquarian details on customs, place names, and notable dedications. No continuous text of the work survives; it is preserved fragmentarily through quotations in later scholiasts, such as commentaries on Pindar, and in Byzantine lexicons like the <strong>Suda</strong>. The standard modern collection of these fragments is found in Felix Jacoby’s <strong>Die Fragmente der griechischen Historiker</strong>. As a source for later antiquarians, Istros’s compilation helped preserve specific local traditions about a major Panhellenic site. Its citations transmitted Olympic lore into the Byzantine scholarly tradition, exemplifying the Hellenistic practice of creating specialized reference works for scholars and poets.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "41bis",
+      "text": "PAP. OX. 2442 fr. 39, 7 Schol. (s. 3 p.; vol. 26, 1961, 57 f. [Taf. 4]; Schol. Pind. Pai. 22, 7 p. 65 Snell—Mähler [1975]): ‘Κρονίου Πέλοπος ...‘] ‘Κρόνιο(σ)‘ ὅτι ἀπὸ Διός· ἢ ὅτ̣ι ὤ〈ι〉κη(σεν) [τ̣ὸ Κρό]ˈνιο(ν) ὄρος ἐν τῶι Ὀλυμπ〈ικ〉ῶι, [καθὼς] Ἴ̣ [ σ̣τ̣ρος ἐν . ]ˈ Ἠλια̣κῶ (ν)",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "jbu-aa",
+      "title": {
+        "english": "Attic Antiquities and Festivals",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "istros-the-callimachean-attica-festivals-jbu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/istros-the-callimachean/attica-festivals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/istros-the-callimachean-attica-festivals-jbu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/istros-the-callimachean-attica-festivals-jbu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/istros-the-callimachean-attica-festivals-jbu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/istros-the-callimachean-attica-festivals-jbu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/istros-the-callimachean/attica-festivals.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "giq-aa",
+      "title": {
+        "english": "Egyptian Affairs",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "lyceas-of-naucratis-egyptian-affairs-giq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lyceas-of-naucratis/egyptian-affairs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyceas-of-naucratis-egyptian-affairs-giq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyceas-of-naucratis-egyptian-affairs-giq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyceas-of-naucratis-egyptian-affairs-giq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyceas-of-naucratis-egyptian-affairs-giq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyceas-of-naucratis/egyptian-affairs.epub"
+      }
+    },
+    {
+      "eul_wid": "gae-aa",
+      "title": {
+        "english": "Fragments on Dedications",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀναθημάτων"
+      },
+      "url_slug": "menetor-the-historian-dedications-gae-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/menetor-the-historian/dedications",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menetor-the-historian-dedications-gae-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menetor-the-historian-dedications-gae-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menetor-the-historian-dedications-gae-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menetor-the-historian-dedications-gae-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menetor-the-historian/dedications.epub"
+      }
+    },
+    {
+      "eul_wid": "pdc-an",
+      "title": {
+        "english": "Illyrian",
+        "ancient_greek": "Ἰλλυρική"
+      },
+      "url_slug": "appian-of-alexandria-illyrian-pdc-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/illyrian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-illyrian-pdc-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-illyrian-pdc-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-illyrian-pdc-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-illyrian-pdc-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/illyrian.epub"
+      }
+    },
+    {
+      "eul_wid": "ndy-ad",
+      "title": {
+        "english": "On the Composition of Names",
+        "ancient_greek": "Περὶ συνθέσεως ὀνομάτων"
+      },
+      "url_slug": "dionysius-of-halicarnassus-composition-names-ndy-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/composition-names",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-composition-names-ndy-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-composition-names-ndy-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-composition-names-ndy-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-composition-names-ndy-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/composition-names.epub"
+      }
+    },
+    {
+      "eul_wid": "vhw-aa",
+      "title": {
+        "english": "On the Magistrates of the Roman People",
+        "ancient_greek": "Περὶ τῶν Ἄρχοντων τοῦ Ῥωμαϊκοῦ Λαοῦ"
+      },
+      "url_slug": "john-the-lydian-magistrates-roman-vhw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-the-lydian/magistrates-roman",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-the-lydian-magistrates-roman-vhw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-the-lydian-magistrates-roman-vhw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-the-lydian-magistrates-roman-vhw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-the-lydian-magistrates-roman-vhw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-the-lydian/magistrates-roman.epub"
+      }
+    },
+    {
+      "eul_wid": "qjk-aa",
+      "title": {
+        "english": "On the Olympic Dedications",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "agaclytus-the-historian-olympic-dedications-qjk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/agaclytus-the-historian/olympic-dedications",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agaclytus-the-historian-olympic-dedications-qjk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agaclytus-the-historian-olympic-dedications-qjk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agaclytus-the-historian-olympic-dedications-qjk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agaclytus-the-historian-olympic-dedications-qjk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agaclytus-the-historian/olympic-dedications.epub"
+      }
+    },
+    {
+      "eul_wid": "ple-ac",
+      "title": {
+        "english": "On the Olympic Games",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "phlegon-of-tralles-olympic-games-ple-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/phlegon-of-tralles/olympic-games",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles-olympic-games-ple-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles-olympic-games-ple-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles-olympic-games-ple-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles-olympic-games-ple-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles/olympic-games.epub"
+      }
+    },
+    {
+      "eul_wid": "rhq-am",
+      "title": {
+        "english": "Roman Histories, Planudean Excerpts",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-planudean-excerpts-rhq-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/planudean-excerpts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-planudean-excerpts-rhq-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-planudean-excerpts-rhq-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-planudean-excerpts-rhq-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-planudean-excerpts-rhq-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/planudean-excerpts.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/istros-the-callimachean/olympic-region",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/istros-the-callimachean-olympic-region-jbu-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/istros-the-callimachean-olympic-region-jbu-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/istros-the-callimachean-olympic-region-jbu-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/istros-the-callimachean-olympic-region-jbu-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/istros-the-callimachean/olympic-region.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

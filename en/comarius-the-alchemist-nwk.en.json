@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "nwk",
+  "auth_slug": "comarius-the-alchemist",
+  "name": {
+    "english": "Comarius the Alchemist",
+    "ancient_greek": "Κομάριος ὁ ἀλχημιστής"
+  },
+  "seo_h1": "Comarius the Alchemist Instructing Cleopatra in the Sacred Art",
+  "seo": {
+    "browser_title": "Comarius the Alchemist on Eulogikon Greek Text Archive",
+    "meta_title": "Comarius the Alchemist Ancient Greek Alchemy Works",
+    "meta_description": "Comarius the Alchemist, a legendary sage from Roman Egypt. His treatise on alchemy is preserved. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Comarius the Alchemist is a pseudonymous or legendary sage from the early history of alchemy, traditionally placed in the 1st century CE within Roman Egypt. He is not a historically verifiable figure but a name used within the alchemical tradition to lend authority to its texts. He is associated with the Hermetic tradition, which blended practical craft with philosophical and mystical ideas.</p>\n<p class=\"research-text\">His sole surviving work is a prose treatise often titled The Dialogue of Cleopatra and the Philosophers or Komarios to Cleopatra on the Divine and Sacred Art of the Philosophical Stone. In this text, presented as a dialogue or letter, the sage Comarius instructs Cleopatra the Alchemist on the principles of transforming matter. According to modern scholars, the pairing of these names represents the tradition&#x27;s effort to combine Eastern wisdom with Hellenistic philosophy.</p>\n<p class=\"research-text\">Comarius is significant as a key name in the transmission of early alchemical knowledge. His attributed dialogue is part of the Greco-Egyptian corpus that sought to explain metal transformation through laboratory techniques, allegory, and philosophical speculation. This corpus influenced later Byzantine and Arabic alchemical traditions, shaping the development of alchemy in the medieval and early modern periods. The figure of Comarius exemplifies how the alchemical tradition often constructed venerable ancient authorities to enhance the prestige of its teachings.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "nwk-aa",
+      "title": {
+        "english": "Komarios the Philosopher High Priest Instructing Cleopatra in the Sacred Art",
+        "ancient_greek": "Κομαρίου φιλοσόφου ἀρχιερέως διδάσκοντος τὴν"
+      },
+      "url_slug": "comarius-the-alchemist-cleopatra-sacred-art-nwk-aa",
+      "passages": 11,
+      "links": {
+        "html": "https://eulogikon.org/grc/comarius-the-alchemist/cleopatra-sacred-art",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comarius-the-alchemist-cleopatra-sacred-art-nwk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comarius-the-alchemist-cleopatra-sacred-art-nwk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comarius-the-alchemist-cleopatra-sacred-art-nwk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comarius-the-alchemist-cleopatra-sacred-art-nwk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comarius-the-alchemist/cleopatra-sacred-art.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/comarius-the-alchemist",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/comarius-the-alchemist-nwk.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/comarius-the-alchemist-nwk.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/comarius-the-alchemist-nwk.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/comarius-the-alchemist-nwk.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

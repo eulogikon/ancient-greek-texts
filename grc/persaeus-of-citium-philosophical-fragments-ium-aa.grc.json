@@ -1,0 +1,393 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ium-aa",
+  "eul_aid": "ium",
+  "author_slug": "persaeus-of-citium",
+  "work_slug": "philosophical-fragments",
+  "url_slug": "persaeus-of-citium-philosophical-fragments-ium-aa",
+  "author": {
+    "english": "Persaeus of Citium",
+    "ancient_greek": "Περσαῖος ὁ Κιτιεύς"
+  },
+  "title": {
+    "english": "Persaeus's Philosophical Fragments",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Fragments of Persaeus by Persaeus of Citium on Eulogikon",
+    "meta_title": "Fragments of Persaeus by Persaeus of Citium in Greek",
+    "meta_description": "A collection of surviving quotations from the early Stoic philosopher Persaeus of Citium. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ φιλοσοφική",
+      "english": "Philosophical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Stoic",
+      "href": "/affiliations/stoic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Philosophical Fragments of Persaeus of Citium constitute a modern assemblage of quotations and testimonia attributed to the early Stoic philosopher. A direct student and even a member of the household of Zeno of Citium, the school&#x27;s founder, Persaeus flourished in the early third century BCE. No independent manuscript of his writings survives; the corpus is instead reconstructed from approximately twenty-eight discrete passages preserved by later Greek doxographers and authors, most notably Diogenes Laertius, Athenaeus, and Plutarch. These references indicate that his original output was substantial and varied, including titles such as <strong>On Kingship</strong>, <strong>The Spartan Constitution</strong>, <strong>On Marriage</strong>, and dialogues like <strong>Thyestes</strong>.</p>\n<p class=\"research-text\">The extant fragments primarily address Stoic ethical and political doctrine, with a pronounced emphasis on practical application. They argue for the philosophical life as one of active civic engagement, critique luxury and wealth as moral distractions, and explore the ideal characteristics of rulers and constitutions. This practical orientation is often interpreted as a reflection of Persaeus&#x27;s own unusual career, which saw him serve as a tutor and advisor in the court of Antigonus II Gonatas of Macedon and later as governor of Corinth. The fragments thus provide a valuable, if limited, window into the early development of Stoic political thought and its attempted synthesis with real-world governance. The complete loss of his original texts means his philosophy is known solely through these secondhand citations, which filter his ideas through the agendas and contexts of later writers.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "435",
+      "text": "Diogenes Laërt. VII 36. Μαθηταὶ δὲ Ζήνωνος πολλοὶ μέν, ἔνδοξοι δὲ Περσαῖος Δημητρίου Κιτιεύς, ὃν οἱ μὲν γνώριμον αὐτοῦ, οἱ δὲ οἰκέτην ἕνα τῶν εἰς βιβλιογραφίαν πεμπομένων αὐτῷ παρὰ Ἀντιγόνου, οὗ καὶ τροφεὺς ἦν τοῦ παιδὸς Ἁλκυονέως. διάπειραν δή ποτε βουληθεὶς λαβεῖν αὐτοῦ ὁ Ἀντίγονος ἐποίησεν αὐτῷ πλαστῶς ἀγγελθῆναι, ὡς εἴη τὰ χωρία αὐτοῦ πρὸς τῶν πολεμίων ἀφῃρημένα. καὶ σκυθρωπάσαντος „Ὁρᾷς, ἔφη, ὅτι οὐκ ἔστιν ὁ πλοῦτος ἀδιάφορον.“ βιβλία δ’ αὐτοῦ φέρεται τάδε· περὶ βασιλείας· πολιτεία Λακωνική n. 454. 455. περὶ γάμου· περὶ ἀσεβείας· Θυέστης· περὶ ἐρώτων· προτρεπτικοί· διατριβῶν· χρειῶν δʹ· ἀπομνημονεύματα· πρὸς τοὺς Πλάτωνος νόμους ζʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "436",
+      "text": "Suidas s. v. Περσαῖο ς, Κιτιεύς, φιλόσοφος Στωϊκός· ἐπεκλήθη δὲ καὶ Δωρόθεος. ἦν δὲ ἐπὶ τῶν χρόνων Ἀντιγόνου τοῦ Γονατᾶ υἱοῦ Δημητρίου, μαθητὴς καὶ θρεπτὸς Ζήνωνος τοῦ φιλοσόφου. Ἱστορίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "437",
+      "text": "Ind. Stoic. Herc. col. XII 3.μάλ(ι)στα μὲν οὖν τῶν μαθητῶ(ν) ὑπὸ τοῦ Ζή(ν)ωνος ἠ γαπᾶ(τ)ο ὁ Περσ ( α ῖ )ο ς, ἀλλὰ (δ)ὴ κ(αὶ) συνεβίου· καὶ (τέθ)ραπται δ’ ὑπ’ αὐτοῦ, (ὡς λέγετ)αι πρὸς ἐνίων (δοῦλος ὢν) οἰκογενής ........ Διογένης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "438",
+      "text": "Gellius Noct. Att. II 18, 8. sed et Theophrasti Peripatetici servus Pompylus et Zenonis Stoici servus, qui Persaeus vocatus est ————philosophi non incelebres vixerunt.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "439",
+      "text": "Diogenes Laërt. VII 6. ἀπεδέχετο δ’ αὐτὸν (scil. Ζήνωνα) καὶ Ἀντίγονος καὶ εἴ ποτε Ἀθήναζε ἥκοι, ἤκουεν αὐτοῦ πολλά τε παρεκάλει ἀφικέσθαι ὡς αὐτόν. ὁ δὲ τοῦτο μὲν παρῃτήσατο, Περσαῖον δὲ ἕνα τῶν γνωρίμων ἀπέστειλεν, ὃς ἦν Δημητρίου μὲν υἱός, Κιτιεὺς δὲ τὸ γένος, καὶ ἤκμαζε κατὰ τὴν τριακοστὴν καὶ ἑκατοστὴν Ὀλυμπιάδα, ἤδη γέροντος ὄντος Ζήνωνος. —9. ἀπέστειλε δὲ Περσαῖον καὶ Φιλωνίδην τὸν Θηβαῖον, ὧν ἀμφοτέρων Ἐπίκουρος μνημονεύει ὡς συνόντων Ἀντιγόνῳ ἐν τῇ πρὸς Ἀριστόβουλον τὸν ἀδελφὸν ἐπιστολῇ. —13. σύν τε Περσαίῳ τὴν αὐτὴν οἰκίαν ᾤκει· καὶ αὐτοῦ αὐλητρίδιον εἰσαγαγόντος πρὸς αὐτόν, σπάσας πρὸς τὸν Περσαῖον αὐτὸ ἀπήγαγεν. Aelian. Var. Hist. III 17. ἐγὼ δὲ πολιτείαν φαίην ἂν καὶ τὸ Περσαίου, εἴ γε Ἀντίγονον ἐπαίδευσε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "440",
+      "text": "Vita Arati: σχολάσας δὲ ὁ Ἄρατος Περσαίῳ τῷ φιλοσόφῳ Ἀθήνησι καὶ συνελθὼν αὐτῷ εἰς Μακεδονίαν μεταπεμφθέντι ὑπ’ Ἀντιγόνου καὶ παρελθὼν εἰς τὸν Ἀντιγόνου καὶ Φίλας γάμον etc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "441",
+      "text": "Ind. Stoic. Herc. col. XIII. αἴ)τιο(ν ἐγ)ένετο τούτου καὶ τὸ χωρισθῆναι Ζή νωνος ὄντος ἔτι πολ λο(ῦ σ)ὺν (Ἀ)ντιγόνῳ καὶ (ἅ)μα περ(ι)πλανᾶσθαι, τὸ(ν) αὐλικόν, οὐ τὸν φιλό(σ)ο φον ᾑρημένον βίον· (ἐ)ξ οὗ καὶ (τῶν ἀν)θρώ πων αὐ(τῶν καὶ τῶν) πόλεων .. col. XIV. Ἀν)τίγονον ἀποδ(η)μή (σ)αντος αὐτοῦ ..... καί(πε)ρ Ἀριστ(ο)φῶν τα παραιτουμένου συγγνώμην etc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "442",
+      "text": "Pausanias II 8, 4 (de Arato Sicyonio). Κόρινθον δὲ ἔχοντος Ἀντιγόνου καὶ φρουρᾶς Μακεδόνων ἐνούσης, τοὺς Μακεδόνας τῷ αἰφνιδίῳ τῆς ἐπιθέσεως κατέπληξε, καὶ ἄλλους τε κρατήσας μάχῃ διέφθειρε καὶ Περσαῖον ἐπὶ τῇ φρουρᾷ τεταγμένον, ὃς παρὰ Ζήνωνα τὸν Μνασέου κατὰ μάθησιν σοφίας ἐφοίτησεν. Idem VII 8, 3. Ἄρατος καὶ Σικυώνιοι φρουρὰν ἐκ τοῦ Ἀκροκορίνθου ἐξήλασαν καὶ ἀπέκτειναν Περσαῖον ὑπὸ Ἀντιγόνου ταχθέντα ἐπὶ τῇ φρουρᾷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "443",
+      "text": "Plutarchus vita Arati 18. Ἀλλὰ γὰρ Ἀντίγονος μέν—κτησάμενος τὸν Ἀκροκόρινθον ἐφύλαττε μετὰ τῶν ἄλλων, οἷς ἐπίστευε μάλιστα, καὶ Περσαῖον ἐπιστήσας ἄρχοντα τὸν φιλόσοφον. 23. τῶν δὲ Ἀντιγόνου στρατηγῶν Ἀρχέλαον μὲν ἀφῆκεν—— Περσαῖος δὲ τῆς ἄκρας ἁλισκομένης εἰς Κεγχρεὰς διεξέπεσεν. ὕστερον δὲ λέγεται σχολάζων πρὸς τὸν εἰπόντα μόνον αὐτῷ δοκεῖν στρατηγὸν εἶναι τὸν σοφόν· „ἀλλὰ νὴ θεούς, φάναι, τοῦτο μάλιστα κἀμοί ποτε τῶν Ζήνωνος ἤρεσκε δογμάτων· νῦν δὲ μεταβάλλομαι νουθετηθεὶς ὑπὸ τοῦ Σικνωνίου νεανίσκου.“ ταῦτα μὲν περὶ Περσαίου πλείονες ἱστοροῦσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "444",
+      "text": "Polyaenus VI 5. Ἄρατος ἐκράτησεν Ἀκροκορίνθου φρουρὰν ἔχοντος, ἣν ἐγκατέστησεν Ἀντίγονος φύλακα τάξας ἐπ’ αὐτοῦ Περσαῖον τὸν φιλόσοφον καὶ Ἀρχέλαον τὸν στρατηγόν. —— Περσαῖος δὲ ὁ φιλόσοφος τῆς ἄκρας ἁλισκομένης εἰς Κεγχρεὰς διαφυγὼν ἐκεῖθεν πρὸς Ἀντίγονον ᾤχετο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "445",
+      "text": "Ind. Stoic. Herc. col. XV. ταύ(τ)α(ι)ς ἀμυ (νόμ)ενος τοὺς Θρᾷκας (ἐξέβ)αλεν. Πλειόνων δ’ ἐπεισελθόντων καὶ πανταχόθεν αὐτῷ περισ(τ)άντων π(ο)λλὰ τραύματα λαβὼν .... ῥη . ε . ἐαυτὸν καὶ (τὸν) βίον ἐξέ(λ)ειπεν. (ἔλε) ξαν δέ τ(ι)ν(ες ὅτ)ι τ(ῆς χώ) ρας ἐπὶ πλ(οίου ....... π(ρ)ὸς ἐν ...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "446",
+      "text": "Ind. Stoic. Herc. col. XXXI. ὑπο)μένων ἀκούειν καὶ μετατίθεσθαι. Διὸ καί ποτε Περσαίου πρός τι νας εἰπόντος, ὡς ἐπύ θετ’ ἐπὶ τὴν ἡδονὴν αὐτὸν (scil. Dionysiu m) μεταβε(βληκέ) ναι διότι ἠβού(λετο) ἀκοῦσα(ι) πρότε(ρον ὑ) πὸ τῆς ἀκρότ(ητος) αὐτόν, κατ(ὰ τὸ λεγό) μενο(ν, τῶν ὀδυνῶν ἀποθανεῖν etc.)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "447",
+      "text": "Epiphanius adv. haeres. III 38 (DG p. 592, 34). Περσαῖος τὰ αὐτὰ Ζήνωνι ἐδογμάτισε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "448",
+      "text": "Philodemus de pietate 9 (DG p. 544b 28). Περσα ( ῖος δὲ) δῆλός ἐστιν——(ἀφανί)ζω(ν) τὸ (δ)αιμόνιο(ν) ἢ μηθὲ(ν ὑπ)ὲρ αὐτοῦ γινώσκων, ὅταν ἐν τῷ Περὶ θεῶν μὴ (ἀπί)θανα λέγῃ φαίνεσθαι τὰ περὶ (τοῦ) τὰ τρέφοντα καὶ ὠφελοῦν(τ)α θεοὺς νενομίσ(θα)ι καὶ τετειμῆσθ(αι) πρῶτ(ο)ν ὑπὸ (Προ)δίκου γεγραμμένα, μ(ε)τὰ δὲ ταῦτα τοὺ(ς εὑρ)όντας ἢ τροφὰς ἢ (σ)κέπας ἢ τὰς ἄλλας τέχνας (ὡς Δ)ήμητρα (κ)αὶ Δι(όνυσον) καὶ τοὺ(ς etc. Cicero de nat. deor. I 38. At Persaeu s, eiusdem Zenonis auditor, eos 〈dicit〉 esse habitos deos, a quibus magna utilitas ad vitae cultum esset inventa, ipsasque res utiles et salutares deorum esse vocabulis nuncupatas, ut ne hoc quidem diceret, illa inventa esse deorum, sed ipsa divina. quo quid absurdius quam aut res sordidas atque deformis deorum honore adficere aut homines iam morte deletos reponere in deos, quorum omnis cultus esset futurus in luctu.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "449",
+      "text": "Themistius or. 32 p. 358 Hard. γέλωτα—ὦφλέ ποτε Ἀντιγόνῳ Περσαῖος ὁ Κιτιεύς. Ἀντιγόνῳ γὰρ τῷ βασιλεῖ συνδιῃτᾶτο Περσαῖος ὁ τοῦ Ζήνωνος ἑταῖρος. ἀκούων δὲ αὐτοῦ συνεχῶς ἐξογκουμένου τε καὶ θρυλλοῦντος θαμὰ τὰ κομψὰ δὴ ταῦτα τῆς Ποικίλης νεανιεύματα, ὅτι ὁ σοφὸς ὑπὸ τῆς τύχης ἀήττητός ἐστι καὶ ἀδούλωτος καὶ ἀκέραιος καὶ ἀπαθή ς, πᾶσαν ἐπεχείρησεν ἔργῳ ἐλέγξαι τὴν τούτου ἀλαζονείαν. ποιεῖται δή τινας ἥκειν ἐμπόρους ἀπὸ Κύπρου τε καὶ Φοινίκης, ἃ χρὴ λέγειν ἐπὶ τοῦ Περσαίου προεκδιδάξας. κἄπειτα ἀνηρώτα πυνθανόμενος πρῶτον μὲν περὶ τῶν νεῶν καὶ τοῦ ναυτικοῦ καὶ τῶν ἐν Κύπρῳ στρατιωτῶν καὶ ὅσα δὴ βασιλικὰ ἐρωτήματα, ἔπειτα ἀτρέμα δὴ κατιὼν τῷ λόγῳ καὶ ὅπως ἔχει καὶ τῷ Περσαίῳ τὰ οἴκοι τὰ ἐν Κιτίῳ. ὡς δὲ τοῦ Περσαίου ἀκούσαντες οἱ ἔμποροι οὗτοι σκυθρωπάσαντες εὐθὺς κατέβαλον τὰς κεφαλὰς καὶ δῆλοι ἦσαν οὐ χρηστὰ ἀποκρινούμενοι, ἀπέῤῥει τε ἡ θρασύτης ἅπασα τοῦ ἀνδρός, καὶ ἐπειδὴ ἐγκειμένου τε καὶ ἐκλιπαροῦντος ἀπεκρίναντο μόλις οἱ ἔμποροι δῆθεν ἐξηνδραποδίσθαι μέν οἱ τὴν γυναῖκα εἰς Ἄργος βαδίζουσαν σὺν ταῖς αὔραις ὑπὸ δή τινων λῃστῶν Αἰγυπτίων, ἀπεσφάχθαι δὲ τὸν ἀγαπητὸν νεανίσκον, καὶ τὰ χρήματα δὲ ἔῤῥειν καὶ τὰ ἀνδράποδα· τοὐντεῦθεν δὲ φροῦδος μὲν τῷ Περσαίῳ ὁ Ζήνων, φροῦδος δὲ ὁ Κλεάνθης· ἤλεγξε δὲ ἡ φύσις τὰ λογάρια, ὅτι τῷ ὄντι λογάρια ἦν κενὰ καὶ ἀσθενῆ καὶ οὐ μαρτυρούμενα ὑπὸ τῶν ἔργων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "450",
+      "text": "Diogenes Laërt. VII 120. ἀρέσκει τε αὐτοῖς ἴσα ἡγεῖσθαι τὰ ἁμαρτήματα, καθά φησι Χρύσιππος——καὶ Περσαῖος καὶ Ζήνων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "451",
+      "text": "Athenaeus XIII 607a. καίτοι Περσαίου τοῦ Κιτιέως ἐν τοῖς Συμποτικοῖς Ὑπομνήμασιν βοῶντος καὶ λέγοντος περὶ ἀφροδισίων ἁρμοστὸν εἶναι ἐν τῷ οἴνῳ μνείαν ποιεῖσθαι· καὶ γὰρ πρὸς ταῦτα ἡμᾶς ὅταν ὑποπίωμεν ἐπιῤῥεπεῖς εἶναι. καὶ „ἐνταῦθα τοὺς μὲν ἡμέρως τε καὶ μετρίως αὐτοῖς χρωμένους ἐπαινεῖν δεῖ, τοὺς δὲ θηριωδῶς καὶ ἀπλήστως ψέγειν.“ καὶ „εἰ διαλεκτικοὶ συνελθόντες εἰς πότον περὶ συλλογισμῶν διαλέγοιντο, ἀλλοτρίως ἂν αὐτοὺς ὑπολάβοι τις ποιεῖν τοῦ παρόντος καιροῦ“ καὶ „ὁ καλὸς κἀγαθὸς ἀνὴρ μεθυσθείη ἄν· οἱ δὲ βουλόμενοι σωφρονικοὶ εἶναι σφόδρα μέχρι τινὸς διατηροῦσιν ἐν τοῖς πότοις τὸ τοιοῦτον· εἶθ’ ὅταν παραρυῇ τὸ οἰνάριον, τὴν πᾶσαν ἀσχημοσύνην ἐπιδείκνυνται. ὃ καὶ πρώην ἐγένετο ἐπὶ τῶν ἐξ Ἀρκαδίας θεωρῶν πρὸς Ἀντίγονον παραγενομένων. ἐκεῖνοι [τε] γὰρ ἠρίστων σφόδρα σκυθρωπῶς καὶ εὐσχημόνως, ὡς ᾤοντο, οὐχ ὅτι ἡμῶν τινα προσβλέποντες, ἀλλ’ οὐδὲ ἀλλήλους. ὡς δὲ ὁ πότος προέβαινεν καὶ εἰσῆλθεν ἄλλα τε ἀκροάματα καὶ αἱ Θετταλαὶ αὗται ὀρχηστρίδες, καθάπερ αὐταῖς ἔθος ἐστίν, ἐν ταῖς διαζώστραις γυμναὶ ὠρχοῦντο, οὐκ ἔτι κατεῖχον αὑτοὺς οἱ ἄνδρες, ἀλλὰ ἐκ τῶν κλινῶν ἀνώρμων καὶ ἐβόων ὡς θαυμαστόν τι θέαμα θεώμενοι· καὶ μακάριον τὸν βασιλέα ἀπεκάλουν, ὅτι ἔξεστιν αὐτῷ τούτων ἀπολαύειν, καὶ ἕτερα τούτοις παραπλήσια πάνυ πολλὰ τῶν φορτικῶν ἐποίουν. τῶν φιλοσόφων δέ τις συμπίνων ἡμῖν, εἰσελθούσης αὐλητρίδος καὶ οὔσης εὐρυχωρίας παρ’ αὐτῷ, βουλομένης τῆς παιδίσκης παρακαθίσαι οὐκ ἐπέτρεψεν, ἀλλὰ σκληρὸν αὑτὸν εἰσῆγεν. εἶθ’ ὕστερον πωλουμένης τῆς αὐλητρίδος, καθάπερ ἔθος ἐστὶν ἐν τοῖς πότοις γίγνεσθαι, ἔν τε τῷ ἀγοράζειν πάνυ νεανικὸς ἦν καὶ τῷ πωλοῦντι, ἄλλῳ τινὶ θᾶττον προσθέντι, ἠμφισβήτει καὶ οὐκ ἔφη αὐτὸν πεπρακέναι· καὶ τέλος εἰς πυγμὰς ἦλθεν ὁ σκληρὸς ἐκεῖνος φιλόσοφος καὶ ἐν ἀρχῇ οὐδ’ ἂν παρακαθίσαι ἐπιτρέπων τῇ αὐλητρίδι.“ μήποτε αὐτός ἐστιν ὁ Περσαῖος ὁ περὶ τῆς αὐλητρίδος διαπυκτεύσας· φησὶν γὰρ Ἀντίγονος ὁ Καρύστιος ἐν τῷ περὶ Ζήνωνος γράφων ὧδε· „Ζήνων ὁ Κιτιεὺς Περσαίου παρὰ πότον αὐλητρίδιον πριαμένου καὶ διοκνοῦντος εἰσαγαγεῖν πρὸς αὐτὸν διὰ τὸ τὴν αὐτὴν οἰκεῖν οἰκίαν, συναισθόμενος εἰσείλκυσε τὴν παιδίσκην καὶ συγκατέκλεισε τῷ Περσαίῳ.“",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "452",
+      "text": "Athenaeus IV 162b Περσαίου τε τοῦ καλοῦ φιλοσόφου συμποτικοὺς διαλόγου ς, συντεθέντας ἐκ τῶν Στίλπωνος καὶ Ζήνωνος ἀπομνημονευμάτων, ἐν οἷς ζητεῖ, ὅπως ἂν μὴ κατακοιμηθῶσιν οἱ συμπόται, [καὶ] πῶς ταῖς ἐπιχύσεσι χρηστέον πηνίκα τε εἰσακτέον τοὺς ὡραίους καὶ τὰς ὡραίας εἰς τὸ συμπόσιον καὶ πότε αὐτοὺς προσδεκτέον ὡραϊζομένους καὶ πότε παραπεμπτέον ὡς ὑπερορῶντας, καὶ περὶ προσοψημάτων καὶ περὶ ἄρτων καὶ περὶ τῶν ἄλλων, ὅσα τε περιεργότερον περὶ φιλημάτων εἴρηκεν ὁ σωφρονικὸς φιλόσοφος, ὃς περὶ ταῦτα τὴν διάνοιαν ἀεὶ στρέφων, πιστευθείς, ὥς φησιν Ἕρμιππος, ὑπ’ Ἀντιγόνου τὸν Ἀκροκόρινθον, κωθωνιζόμενος ἐξέπεσεν καὶ αὐτῆς τῆς Κορίνθου, καταστρατηγηθεὶς ὑπὸ τοῦ Σικυωνίου Ἀράτου, ὁ πρότερον ἐν τοῖς διαλόγοις πρὸς Ζήνωνα διαμιλλώμενος ὡς ὁ σοφὸς πάντως ἂν εἴη καὶ στρατηγὸς ἀγαθό ς, μόνον τοῦτο διὰ τῶν ἔργων διαβεβαιωσάμενος, ὁ καλὸς τοῦ Ζήνωνος οἰκετιεύς. χαριέντως γὰρ ἔφη Βίων ὁ Βορυσθενίτης, θεασάμενος αὐτοῦ χαλκῆν εἰκόνα, ἐφ’ ἧς ἐπεγέγραπτο „Περσαῖον Ζήνωνος Κιτιᾶ“ πεπλανῆσθαι τὸν ἐπιγράψαντα· δεῖν γὰρ οὕτως ἔχειν „Περσαῖον Ζήνωνος οἰκετιᾶ.“ ἦν γὰρ ὄντως οἰκέτης γεγονὼς τοῦ Ζήνωνος, ὡς Νικίας ὁ Νικαεὺς ἱστορεῖ ἐν τῇ περὶ τῶν φιλοσόφων ἱστορίᾳ καὶ Σωτίων ὁ Ἀλεξανδρεὺς ἐν ταῖς Διαδοχαῖς. δύο δὲ συγγράμμασι τοῦ Περσαίου ἀπηντήκαμεν τῆς σοφῆς ταύτης πραγματείας, τοιοῦτον ἔχουσι τὸ ἐπίγραμμα „Συμποτικῶν Διαλόγων.“",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "453",
+      "text": "Diogenes Laërt VII 1. καὶ ἀσθενής (scil. ἦν ὁ Ζήνων). διὸ καί φησι Περσαῖος ἐν ὑπομνήμασι συμποτικοῖς τὰ πλεῖστα αὐτὸν δεῖπνα παραιτεῖσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "454",
+      "text": "Athenaeus IV 140e. περὶ δὲ τῶν ἐπαΐκλων Περσαῖος ἐν τῇ Λακωνικῇ πολιτείᾳ οὑτωσὶ γράφει· „καὶ εὐθὺς τοὺς μὲν εὐπόρους ζημιοῖ εἰς ἐπάικλα· ταῦτα δέ ἐστιν μετὰ δεῖπνον τραγήματα· τοῖς δ’ ἀπόροις ἐπιτάττει κάλαμον ἢ στιβάδα ἢ φύλλα δάφνης φέρειν, ὅπως ἔχωσι τὰ ἐπάικλα κάπτειν μετὰ δεῖπνον· γίνεται γὰρ ἄλφιτα ἐλαίῳ ἐῤῥαμένα. τὸ δ’ ὅλον ὥσπερ πολίτευμά τι τοῦτο δὴ συνίσταται μικρόν. καὶ γὰρ ὅντινα δεῖ πρῶτον κατακεῖσθαι ἢ δεύτερον ἢ ἐπὶ τοῦ σκιμποδίου καθῆσθαι, πάντα τοιαῦτα ποιοῦσιν εἰς ἐπάικλα.“ τὰ ὅμοια ἱστορεῖ καὶ Διοσκουρίδης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "455",
+      "text": "Athenaeus IV 140b. ἀλλὰ μὴν οὐδ’ ὀρθαγορίσκοι λέγονται, ὥς φησιν ὁ Πολέμων, οἱ γαλαθηνοὶ χοῖροι, ἀλλ’ ὀρθραγορίσκοι, ἐπεὶ πρὸς τὸν ὄρθρον πιπράσκονται, ὡς Περσαῖος ἱστορεῖ ἐν τῇ Λακωνικῇ πολιτείᾳ καὶ Διοσκουρίδης ἐν βʹ πολιτείας καὶ Ἀριστοκλῆς ἐν τῷ προτέρῳ καὶ οὗτος τῆς Λακώνων πολιτείας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "456",
+      "text": "Dio Chrysostomus or. LIII § 4 (Vol. II p. 101 Arn.). γέγραφε δὲ καὶ Ζήνων ὁ φιλόσοφος εἴς τε τὴν Ἰλιάδα καὶ τὴν Ὀδύσσειαν——διδάσκων ὅτι τὰ μὲν κατὰ δόξαν, τὰ δὲ κατὰ ἀλήθειαν γέγραφεν (scil. Ὅμηρος), ὅπως μὴ φαίνηται αὐτὸς αὑτῷ μαχόμενος ——. ἔτι δὲ καὶ Περσαῖος ὁ τοῦ Ζήνωνος κατὰ τὴν αὐτὴν ὑπόθεσιν γέγραφε καὶ ἄλλοι πλείους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "457",
+      "text": "Diogenes Laërt. II 61. καὶ τῶν ἑπτὰ δὲ (scil. Aeschinis Socratici dialogorum) τοὺς πλείστους Περσαῖός φησι Πασιφῶντος εἶναι τοῦ Ἐρετρικοῦ, εἰς τοὺς Αἰσχίνου δὲ κατατάξαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "458",
+      "text": "Diogenes Laërt. VII 28. Περσαῖος δέ φησιν ἐν ταῖς ἠθικαῖς σχολαῖς δύο καὶ ἑβδομήκοντα ἐτῶν τελευτῆσαι αὐτόν (scil. τὸν Ζήνωνα), ἐλθεῖν δὲ Ἀθήναζε δύο καὶ εἴκοσι ἐτῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "459",
+      "text": "Bio apud Diog. Laërt. IV 46. 47 ταῦτά ἐστι τὰ κατ’ ἐμέ. ὥστε παυσάσθωσαν Περσαῖός τε καὶ Φιλωνίδης ἱστοροῦντες αὐτά· σκόπει δέ με ἐξ ἐμαυτοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "460",
+      "text": "Diogenes Laërt. II 143. (de Menedemo) μόνῳ δὲ Περσαίῳ διαπρύσιον εἶχε πόλεμον· ἐδόκει γὰρ Ἀντιγόνου βουλομένου τὴν δημοκρατίαν ἀποκαταστῆσαι τοῖς Ἐρετριεῦσι χάριν Μενεδήμου, κωλῦσαι. διὸ καί ποτε παρὰ πότον ὁ Μενέδημος ἐλέγξας αὐτὸν τοῖς λόγοις τά τε ἄλλα ἔφη καὶ δή· „Φιλόσοφος μὲν [τοι] τοιοῦτος, ἀνὴρ δὲ καὶ τῶν ὄντων καὶ τῶν γενησομένων κάκιστος.“",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "461",
+      "text": "Diogenes Laërt. VII 162. μάλιστα δὲ προσεῖχε (scil. ὁ Ἀρίστων) στωϊκῷ δόγματι τῷ τὸν σοφὸν ἀδόξαστον εἶναι. πρὸς ὃ Περσαῖος ἐναντιούμενος διδύμων ἀδελφῶν τὸν ἕτερον ἐποίησεν αὐτῷ παρακαταθήκην δοῦναι, ἔπειτα τὸν ἕτερον ἀπολαβεῖν· καὶ οὕτως ἀπορούμενον διήλεγξεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "462",
+      "text": "Suidas s. v. Ἑρμαγόρας Ἀμφιπολίτης, φιλόσοφος, μαθητὴς Περσαίο υ. διάλογοι αὐτοῦ· Μισοκύων ἢ περὶ ἀτυχημάτων. Ἔκχυτον· ἔστι δὲ ᾠοσκοπία. Περὶ σοφιστείας πρὸς τοὺς Ἀκαδημαϊκούς.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "okg-bt",
+      "title": {
+        "english": "Books of Symposiastic Problems",
+        "ancient_greek": "Συμποσιακῶν προβλημάτων βιβλία"
+      },
+      "url_slug": "plutarch-of-chaeronea-symposiastic-problems-okg-bt",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/symposiastic-problems",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposiastic-problems-okg-bt.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposiastic-problems-okg-bt.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposiastic-problems-okg-bt.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposiastic-problems-okg-bt.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/symposiastic-problems.epub"
+      }
+    },
+    {
+      "eul_wid": "hhq-ab",
+      "title": {
+        "english": "Commentary on Plato's Atlantis",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "crantor-of-soli-atlantis-commentary-hhq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/crantor-of-soli/atlantis-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli-atlantis-commentary-hhq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli-atlantis-commentary-hhq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli-atlantis-commentary-hhq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli-atlantis-commentary-hhq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli/atlantis-commentary.epub"
+      }
+    },
+    {
+      "eul_wid": "lgi-ai",
+      "title": {
+        "english": "Hypothetica or Apology for the Jews",
+        "ancient_greek": "Ὑποθετικά ἢ Ἀπολογία ὑπὲρ Ἰουδαίων"
+      },
+      "url_slug": "philo-of-alexandria-hypothetica-apology-lgi-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria/hypothetica-apology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-hypothetica-apology-lgi-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-hypothetica-apology-lgi-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-hypothetica-apology-lgi-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-hypothetica-apology-lgi-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/hypothetica-apology.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-ba",
+      "title": {
+        "english": "On the King's Love of Praise",
+        "ancient_greek": "Περὶ τῆς τοῦ βασιλέως φιληκοΐας"
+      },
+      "url_slug": "themistius-kings-praise-rye-ba",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/kings-praise",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-kings-praise-rye-ba.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-kings-praise-rye-ba.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-kings-praise-rye-ba.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-kings-praise-rye-ba.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/kings-praise.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-aw",
+      "title": {
+        "english": "On the Presidency in the Senate",
+        "ancient_greek": "Περὶ προεδρίας εἰς τὴν σύγκλητον"
+      },
+      "url_slug": "themistius-presidency-senate-rye-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/presidency-senate",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-presidency-senate-rye-aw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-presidency-senate-rye-aw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-presidency-senate-rye-aw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-presidency-senate-rye-aw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/presidency-senate.epub"
+      }
+    },
+    {
+      "eul_wid": "ffk-al",
+      "title": {
+        "english": "Protagoras",
+        "ancient_greek": "Πρωταγόρας"
+      },
+      "url_slug": "plato-protagoras-ffk-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/protagoras",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-protagoras-ffk-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-protagoras-ffk-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-protagoras-ffk-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-protagoras-ffk-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/protagoras.epub"
+      }
+    },
+    {
+      "eul_wid": "lgi-au",
+      "title": {
+        "english": "Questions-Genesis Fragments",
+        "ancient_greek": "Ζητήματα ἐν Γενέσει Ἀποσπάσματα"
+      },
+      "url_slug": "philo-of-alexandria-questions-genesis-lgi-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria/questions-genesis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-questions-genesis-lgi-au.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-questions-genesis-lgi-au.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-questions-genesis-lgi-au.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-questions-genesis-lgi-au.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/questions-genesis.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-ca",
+      "title": {
+        "english": "SelectiImpossibilities",
+        "ancient_greek": "Ἐκλογὴ περὶ τῶν ἀδυνάτων"
+      },
+      "url_slug": "plutarch-of-chaeronea-impossibilities-okg-ca",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/impossibilities",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-impossibilities-okg-ca.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-impossibilities-okg-ca.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-impossibilities-okg-ca.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-impossibilities-okg-ca.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/impossibilities.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/persaeus-of-citium/philosophical-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/persaeus-of-citium-philosophical-fragments-ium-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/persaeus-of-citium-philosophical-fragments-ium-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/persaeus-of-citium-philosophical-fragments-ium-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/persaeus-of-citium-philosophical-fragments-ium-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/persaeus-of-citium/philosophical-fragments.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

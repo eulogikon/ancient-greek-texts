@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "dqq",
+  "auth_slug": "xenophon-letters",
+  "name": {
+    "english": "Xenophon Letters",
+    "ancient_greek": "Ξενοφῶντος Ἐπιστολαί"
+  },
+  "seo_h1": "Socrates in the Xenophon Letters",
+  "seo": {
+    "browser_title": "Xenophon Author Works Page on Eulogikon Greek Archive",
+    "meta_title": "Xenophon Ancient Greek Works and Historical Epistles",
+    "meta_description": "Xenophon, classical Greek historian and philosopher of the 5th-4th century BCE. Surviving works and epistles. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Xenophon was an Athenian historian, philosopher, and soldier who lived from approximately 430 to 354 BCE. A student of Socrates, his life was defined by his leadership of the retreat of the Ten Thousand Greek mercenaries after the Battle of Cunaxa in 401 BCE, an event he chronicled in his famous work <strong>Anabasis</strong>. His subsequent service with Spartans led to his exile from Athens. He spent many years on an estate in Scillus before eventually moving to Corinth.</p>\n<p class=\"research-text\">Xenophon’s diverse corpus includes historical, philosophical, and technical works. His major titles are the historical narratives <strong>Anabasis</strong> and <strong>Hellenica</strong>; the Socratic works <strong>Memorabilia</strong>, <strong>Oeconomicus</strong>, and <strong>Symposium</strong>; the political biography <strong>Cyropaedia</strong>; and practical treatises like <strong>On Horsemanship</strong>. The so-called &quot;Xenophon Letters&quot; are not considered among his authentic works by major scholarly sources.</p>\n<p class=\"research-text\">Xenophon is a crucial historian for late-5th and early-4th century Greece. His <strong>Anabasis</strong> is both a vital historical source and a classic adventure narrative, while his Socratic writings provide an important practical counterpoint to the more theoretical portraits by Plato. His works on leadership, economics, and society offer valuable insights into Greek life and thought.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "dqq-aa",
+      "title": {
+        "english": "Fragments on Socrates",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σωκράτους"
+      },
+      "url_slug": "xenophon-letters-socrates-fragments-dqq-aa",
+      "passages": 6,
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-letters/socrates-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-letters-socrates-fragments-dqq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-letters-socrates-fragments-dqq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-letters-socrates-fragments-dqq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-letters-socrates-fragments-dqq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-letters/socrates-fragments.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/xenophon-letters",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/xenophon-letters-dqq.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/xenophon-letters-dqq.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/xenophon-letters-dqq.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/xenophon-letters-dqq.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

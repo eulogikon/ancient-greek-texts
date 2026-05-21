@@ -1,0 +1,382 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "jho-al",
+  "eul_aid": "jho",
+  "author_slug": "homer-life-anonymous",
+  "work_slug": "sixth-life",
+  "url_slug": "homer-life-anonymous-sixth-life-jho-al",
+  "author": {
+    "english": "Homer Life-anonymous",
+    "ancient_greek": "Ὁμήρου Βίος-ἀνώνυμος"
+  },
+  "title": {
+    "english": "Sixth Life",
+    "ancient_greek": "Ἕκτος Βίος"
+  },
+  "seo": {
+    "browser_title": "The Sixth Life by Homer Life-anonymous on Eulogikon",
+    "meta_title": "Sixth Life by Homer Life-anonymous in Ancient Greek",
+    "meta_description": "The Sixth Life is an ancient biographical text attributed to Homer. Explores the subject's life. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Βίος",
+      "english": "Biography",
+      "href": "/domains/biography"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Sixth Life is an anonymous prose biography traditionally attributed to Homer, forming part of the ancient corpus of legendary Lives of Homer. These texts compile competing anecdotes and traditions concerning the poet’s origins and death, often constructed to claim him for specific city-states. This particular Life is structured in two passages and belongs to the same genre as the Contest of Homer and Hesiod and other pseudo-biographies. Its narrative, though not detailed in extant sources, conforms to the core themes of the Lives tradition, including competing claims about Homer’s parentage and birthplace, anecdotes concerning the source of his poetic genius, legendary accounts of his death frequently involving oracles, and the cultural appropriation of Homer’s figure for local prestige. The Sixth Life is preserved within the medieval manuscript tradition of Homeric works, typically included as introductory material to copies of the Iliad and the Odyssey. As part of the Homeric biographical corpus, it helped shape the legendary image of the poet throughout the medieval and Renaissance periods. Modern scholarship values these texts primarily for the insights they provide into ancient biographical practices and the reception of Homer, rather than for any historical fact they might contain.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "[45]",
+      "text": "Βίος Ὁμήρου Τὸ μὲν ἄντικρυς εἰπεῖν διισχυρισάμενον τήνδε τινὰ σαφῶς εἶναι τὴν Ὁμήρου γένεσιν ἢ πόλιν χαλεπόν, μᾶλλον δὲ ἀδύνατον εἶναι νομίζω· ἀναγκαῖον δὲ καταριθμῆσαι τὰς ἀντιποιουμένας τῆς γενέσεως αὐτοῦ πόλεις, τό τε γένος ἐξειπεῖν τὸ ἀμφισβητήσιμον τοῦ ποιητοῦ. Ἀναξιμένης 〈Scrr. rer. Alex. magn. p. 39 fr. 20〉 μὲν οὖν καὶ Δαμάστης 〈F.H.G. ii. 66 fr. 10〉 καὶ Πίνδαρος ὁ μελοποιὸς 〈fr. 264〉 Χῖον αὐτὸν ἀποφαίνονται καὶ Θεόκριτος ἐν τοῖς ἐπιγράμμασιν. ὁ δὲ Δαμάστης καὶ δέκατον αὐτὸν ἀπὸ Μουσαίου φησὶ γεγονέναι· Ἱππίας δ’ αὖ 〈F.H.G. ii. 62 fr. 8〉 καὶ Ἔφορος 〈fr. 164〉 Κυμαῖον· ὁ δ’ Ἔφορος καὶ εἰς Χαρίφημον ἀνάγει τὸ γένος αὐτοῦ, ὁ δὲ Χαρίφημος οὗτος Κύμην ᾤκησε· Τιμόμαχος 〈F.H.G. iv. 522〉 δὲ καὶ Ἀριστοτέλης 〈fr. 66 R.〉 ἐξ Ἴου τῆς νήσου. κατὰ δ’ Ἀντίμαχον 〈F.H.G. ii. 58 fr. 18〉 Κολοφώνιος, κατὰ δὲ Στησίμβροτον τὸν Θάσιον 〈F.H.G. ii. 58 fr. 18〉 Σμυρναῖος, κατὰ Φιλόχορον 〈fr. 54 C〉 δ’ Ἀργεῖος, κατὰ Καλλικλέα δὲ τῆς ἐν Κύπρῳ Σαλαμῖνος. Ἀριστόδημος δ’ ὁ Νυσαεὺς 〈F.H.G. iii. 307〉 Ῥωμαῖον αὐτὸν ἀποδείκνυσιν ἔκ τινων ἐθῶν παρὰ Ῥωμαίοις μόνον γινομένων, τοῦτο μὲν ἐκ τῆς τῶν πεσσῶν παιδιᾶς, τοῦτο δὲ ἐκ τοῦ ἐπανίστασθαι τῶν θάκων τοὺς ἥσσονας τῶν βελτίστων ἑκόντας, ἃ καὶ νῦν ἔτι φυλάσσεται παρὰ Ῥωμαίοις ἔθη. ἄλλοι δ’ Αἰγύπτιον αὐτὸν εἶπον διὰ τὸ † ἠ † παράγειν τοὺς ἥρωας ἐκ στόματος ἀλλήλους φιλοῦντας, ὅπερ ἐστὶν ἔθος τοῖς Αἰγυπτίοις ποιεῖν. πατρὸς δὲ κατὰ μὲν Στησίμβροτόν 〈deest F.H.G. ii. 58〉 ἐστι Μαίονος τοῦ Ἀπέλλιδος καὶ μητρὸς Ὑρνηθοῦς ἢ Κρηθηίδος, κατὰ δὲ Δείναρχον Κρήθωνος, κατὰ δὲ Δημοκρίνην Ἀλήμονος, κατὰ δὲ τοὺς πλείστους Μέλητος τοῦ κατὰ Σμύρναν ποταμοῦ, ὃς ἐπ’ ὀλίγον ῥέων εὐθέως εἰς τὴν παρακειμένην θάλασσαν ἐκδίδωσιν. Ἀριστοτέλης 〈fr. 66 R.〉 δὲ ἱστορεῖν φησιν † λητὰς ἔκ τινος δαίμονος γεγενῆσθαι τὸν Ὅμηρον ταῖς Μούσαις συγχορεύσαντος. περὶ δὲ τῶν χρόνων καθ’ οὓς 〈 〉 ἤκουεν ὧδε λέγεται. Ἡρακλείδης 〈F.H.G. ii. 197〉 μὲν οὖν αὐτὸν ἀποδείκνυσι πρεσβύτερον Ἡσιόδου, Πύρανδρος 〈F.H.G. iv. 486 fr. 3〉 δὲ καὶ Ὑψικράτης 〈F.H.G. iii. 493, 4〉 ὁ Ἀμισηνὸς ἡλικιώτην. Κράτης δ’ ὁ Μαλλώτης 〈fr. ed. Wachs. p. 40〉 μεθ’ ἑξήκοντα ἔτη τοῦ Ἰλιακοῦ πολέμου φησὶν ἀκμάσαι, Ἐρατοσθένης δὲ μεθ’ ἑκατὸν τῆς Ἰώνων ἀποικίας, Ἀπολλόδωρος 〈fr. 74〉 δὲ μετ’ ὀγδοήκοντα. ἐκαλεῖτο δ’ ἐκ γενετῆς Μελησιγένης ἢ Μελησαγόρας, αὖθις δ’ Ὅμηρος ἐλέχθη κατὰ τὴν Λεσβίων διάλεκτον, ἕνεκεν τῆς περὶ τοὺς ὀφθαλμοὺς συμφορᾶς, οὗτοι γὰρ τοὺς τυφλοὺς ὁμήρους λέγουσιν, ἢ διότι παῖς ὢν ὅμηρον ἐδόθη βασιλεῖ, ὅ ἐστιν ἐνέχυρον. τυφλωθῆναι δ’ αὐτὸν οὕτω πως λέγουσιν· ἐλθόντα γὰρ ἐπὶ τὸν Ἀχιλλέως τάφον εὔξασθαι θεάσασθαι τὸν ἥρωα τοιοῦτον ὁποῖος προῆλθεν ἐπὶ τὴν μάχην τοῖς δευτέροις ὅπλοις κεκοσμημένος· ὀφθέντος δ’ αὐτῷ τοῦ Ἀχιλλέως τυφλωθῆναι τὸν Ὅμηρον ὑπὸ τῆς τῶν ὅπλων αὐγῆς, ἐλεηθέντα δ’ ὑπὸ Θέτιδος καὶ Μουσῶν τιμηθῆναι πρὸς αὐτῶν τῇ ποιητικῇ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(50)",
+      "text": "ἄλλοι δέ φασι τοῦτο αὐτὸν πεπονθέναι διὰ μῆνιν τῆς Ἑλένης ὀργισθείσης αὐτῷ διότι εἶπεν αὐτὴν καταλελοιπέναι μὲν τὸν πρότερον ἄνδρα, ἠκολουθηκέναι δ’ Ἀλεξάνδρῳ· οὕτως γοῦν ὅτι καὶ παρέστη αὐτῷ φασὶν νυκτὸς ἡ ψυχὴ τῆς ἡρωίνης παραινοῦσα καῦσαι τὰς ποιήσεις αὐτοῦ ... εἰ τοῦτο ποιήσοι πρόσχοι. τὸν δὲ μὴ ἀνασχέσθαι ποιῆσαι τοῦτο. ἀποθανεῖν δ’ αὐτὸν λέγουσιν ἐν Ἴῳ τῇ νήσῳ ἀμηχανίᾳ περιπεσόντα ἐπειδήπερ τῶν παίδων τῶν ἁλιέων οὐχ οἷός τ’ ἐγένετο αἴνιγμα λῦσαι· ἔστι δὲ τοῦτο· ἅσς’ ἔλομεν λιπόμεσθ’ ἅσς’ οὐχ ἕλομεν φερόμεσθα. καὶ αὐτοῦ ἐπὶ τῷ τάφῳ ἐπιγέγραπται ἐπίγραμμα τοῦτο· ἐνθάδε τὴν ἱερὴν κεφαλὴν κατὰ γαῖα καλύπτει ἀνδρῶν ἡρώων κοσμήτορα θεῖον Ὅμηρον.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "jho-ai",
+      "title": {
+        "english": "Fifth Life",
+        "ancient_greek": "Πέμπτος Βίος"
+      },
+      "url_slug": "homer-life-anonymous-fifth-life-jho-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer-life-anonymous/fifth-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-fifth-life-jho-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-fifth-life-jho-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-fifth-life-jho-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-fifth-life-jho-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/fifth-life.epub"
+      }
+    },
+    {
+      "eul_wid": "jho-ah",
+      "title": {
+        "english": "Fourth Life",
+        "ancient_greek": "Τέταρτος Βίος"
+      },
+      "url_slug": "homer-life-anonymous-fourth-life-jho-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer-life-anonymous/fourth-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-fourth-life-jho-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-fourth-life-jho-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-fourth-life-jho-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-fourth-life-jho-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/fourth-life.epub"
+      }
+    },
+    {
+      "eul_wid": "jho-aa",
+      "title": {
+        "english": "Life of Eustathius",
+        "ancient_greek": "Βίος Εὐσταθίου"
+      },
+      "url_slug": "homer-life-anonymous-eustathius-life-jho-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer-life-anonymous/eustathius-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-eustathius-life-jho-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-eustathius-life-jho-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-eustathius-life-jho-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-eustathius-life-jho-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/eustathius-life.epub"
+      }
+    },
+    {
+      "eul_wid": "jho-ab",
+      "title": {
+        "english": "Life of Herodotus",
+        "ancient_greek": "Βίος Ἡροδότου"
+      },
+      "url_slug": "homer-life-anonymous-herodotus-life-jho-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer-life-anonymous/herodotus-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-herodotus-life-jho-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-herodotus-life-jho-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-herodotus-life-jho-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-herodotus-life-jho-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/herodotus-life.epub"
+      }
+    },
+    {
+      "eul_wid": "jho-ac",
+      "title": {
+        "english": "Life of Plutarch",
+        "ancient_greek": "Βίος Πλουτάρχου"
+      },
+      "url_slug": "homer-life-anonymous-life-jho-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer-life-anonymous/life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-life-jho-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-life-jho-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-life-jho-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-life-jho-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/life.epub"
+      }
+    },
+    {
+      "eul_wid": "jho-ad",
+      "title": {
+        "english": "Life of Proculea",
+        "ancient_greek": "Βίος Προκουλέας"
+      },
+      "url_slug": "homer-life-anonymous-proculea-jho-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer-life-anonymous/proculea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-proculea-jho-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-proculea-jho-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-proculea-jho-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-proculea-jho-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/proculea.epub"
+      }
+    },
+    {
+      "eul_wid": "jho-af",
+      "title": {
+        "english": "Life of Suidas",
+        "ancient_greek": "Βίος Σουίδα"
+      },
+      "url_slug": "homer-life-anonymous-suidas-jho-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer-life-anonymous/suidas",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-suidas-jho-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-suidas-jho-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-suidas-jho-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-suidas-jho-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/suidas.epub"
+      }
+    },
+    {
+      "eul_wid": "jho-ae",
+      "title": {
+        "english": "Life of Tzetzes",
+        "ancient_greek": "Βίος Τζέτζου"
+      },
+      "url_slug": "homer-life-anonymous-life-of-tzetzes-jho-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer-life-anonymous/life-of-tzetzes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-life-of-tzetzes-jho-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-life-of-tzetzes-jho-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-life-of-tzetzes-jho-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-life-of-tzetzes-jho-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/life-of-tzetzes.epub"
+      }
+    },
+    {
+      "eul_wid": "jho-aj",
+      "title": {
+        "english": "On Homer 1",
+        "ancient_greek": "Περὶ Ὁμήρου Α'"
+      },
+      "url_slug": "homer-life-anonymous-on-homer-1-jho-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer-life-anonymous/on-homer-1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-on-homer-1-jho-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-on-homer-1-jho-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-on-homer-1-jho-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-on-homer-1-jho-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/on-homer-1.epub"
+      }
+    },
+    {
+      "eul_wid": "jho-ak",
+      "title": {
+        "english": "On Homer 2",
+        "ancient_greek": "Περὶ Ὁμήρου Β'"
+      },
+      "url_slug": "homer-life-anonymous-on-homer-2-jho-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer-life-anonymous/on-homer-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-on-homer-2-jho-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-on-homer-2-jho-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-on-homer-2-jho-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-on-homer-2-jho-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/on-homer-2.epub"
+      }
+    },
+    {
+      "eul_wid": "jho-ag",
+      "title": {
+        "english": "Seventh Life",
+        "ancient_greek": "Ἕβδομος Βίος"
+      },
+      "url_slug": "homer-life-anonymous-seventh-life-jho-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer-life-anonymous/seventh-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-seventh-life-jho-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-seventh-life-jho-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-seventh-life-jho-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-seventh-life-jho-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/seventh-life.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "iru-ae",
+      "title": {
+        "english": "Introduction from Other Commentaries",
+        "ancient_greek": "Ἐξ ἑτέρων σχολίων εἰσαγωγή"
+      },
+      "url_slug": "aratus-lives-commentaries-introduction-iru-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/commentaries-introduction",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-commentaries-introduction-iru-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-commentaries-introduction-iru-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-commentaries-introduction-iru-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-commentaries-introduction-iru-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/commentaries-introduction.epub"
+      }
+    },
+    {
+      "eul_wid": "eom-aa",
+      "title": {
+        "english": "Life of Sophocles",
+        "ancient_greek": "Βίος Σοφοκλέους"
+      },
+      "url_slug": "sophocles-life-life-eom-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sophocles-life/life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-life-life-eom-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-life-life-eom-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-life-life-eom-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-life-life-eom-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-life/life.epub"
+      }
+    },
+    {
+      "eul_wid": "vmc-aa",
+      "title": {
+        "english": "Life of Thucydides",
+        "ancient_greek": "Βίος Θουκυδίδου"
+      },
+      "url_slug": "marcellinus-the-biographer-life-of-thucydides-vmc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/marcellinus-the-biographer/life-of-thucydides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellinus-the-biographer-life-of-thucydides-vmc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellinus-the-biographer-life-of-thucydides-vmc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellinus-the-biographer-life-of-thucydides-vmc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellinus-the-biographer-life-of-thucydides-vmc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellinus-the-biographer/life-of-thucydides.epub"
+      }
+    },
+    {
+      "eul_wid": "rjo-aaa",
+      "title": {
+        "english": "Lives and Opinions: Book I (Seven Sages)",
+        "ancient_greek": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Αʹ"
+      },
+      "url_slug": "diogenes-of-laertia-lives-seven-sages-rjo-aaa",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-laertia/lives-seven-sages",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-seven-sages-rjo-aaa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-seven-sages-rjo-aaa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-seven-sages-rjo-aaa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-seven-sages-rjo-aaa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-seven-sages.epub"
+      }
+    },
+    {
+      "eul_wid": "rjo-aac",
+      "title": {
+        "english": "Lives and Opinions: Book III (Plato)",
+        "ancient_greek": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Γʹ"
+      },
+      "url_slug": "diogenes-of-laertia-lives-plato-rjo-aac",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-laertia/lives-plato",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-plato-rjo-aac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-plato-rjo-aac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-plato-rjo-aac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-plato-rjo-aac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-plato.epub"
+      }
+    },
+    {
+      "eul_wid": "rjo-aah",
+      "title": {
+        "english": "Lives and Opinions: Book VIII (Pythagoreans)",
+        "ancient_greek": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Ηʹ"
+      },
+      "url_slug": "diogenes-of-laertia-lives-pythagoreans-rjo-aah",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-laertia/lives-pythagoreans",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-pythagoreans-rjo-aah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-pythagoreans-rjo-aah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-pythagoreans-rjo-aah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-pythagoreans-rjo-aah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-pythagoreans.epub"
+      }
+    },
+    {
+      "eul_wid": "iru-am",
+      "title": {
+        "english": "On the Zodiac",
+        "ancient_greek": "Περὶ τοῦ Ζῳδιακοῦ"
+      },
+      "url_slug": "aratus-lives-zodiac-iru-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/zodiac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-zodiac-iru-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-zodiac-iru-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-zodiac-iru-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-zodiac-iru-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/zodiac.epub"
+      }
+    },
+    {
+      "eul_wid": "iru-an",
+      "title": {
+        "english": "Sphere",
+        "ancient_greek": "Σφαῖρα"
+      },
+      "url_slug": "aratus-lives-sphere-iru-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/sphere",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-sphere-iru-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-sphere-iru-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-sphere-iru-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-sphere-iru-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/sphere.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/homer-life-anonymous/sixth-life",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-sixth-life-jho-al.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-sixth-life-jho-al.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-sixth-life-jho-al.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-sixth-life-jho-al.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/sixth-life.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

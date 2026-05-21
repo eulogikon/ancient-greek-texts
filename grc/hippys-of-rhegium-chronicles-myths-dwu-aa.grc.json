@@ -1,0 +1,275 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "dwu-aa",
+  "eul_aid": "dwu",
+  "author_slug": "hippys-of-rhegium",
+  "work_slug": "chronicles-myths",
+  "url_slug": "hippys-of-rhegium-chronicles-myths-dwu-aa",
+  "author": {
+    "english": "Hippys of Rhegium",
+    "ancient_greek": "Ἵππυς ὁ Ῥηγῖνος"
+  },
+  "title": {
+    "english": "Chronicles of Peoples and Myths",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Chronicles Peoples and Myths by Hippys of Rhegium Eulogikon",
+    "meta_title": "Chronicles of Peoples and Myths by Hippys Rhegium in Greek",
+    "meta_description": "Chronicles of Peoples Myths is a lost prose work by Hippys of Rhegium. It covers local history. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Chronicles of Peoples and Myths</strong> is a lost prose work traditionally ascribed to Hippys of Rhegium, a figure placed in the fifth century BCE. It belongs to the genre of local history, merging mythological narratives, genealogical records, and early accounts of various Greek cities and ethnic groups. The extant evidence for the work consists solely of twelve fragments, which indicate its coverage of foundation stories for cities such as Rhegium in Italy, the histories of Spartan kings, and the origins of groups like the Heracleidae. The original structure of the text remains obscure, though its title, which can be translated as &quot;Excerpts,&quot; suggests it may have been a compilation of notes rather than a continuous historical narrative. The work survives only through quotations preserved by later authors, most significantly the sixth-century CE Byzantine scholar Stephanus of Byzantium. Modern scholarship regards the traditional attribution and dating with considerable skepticism. Many analysts contend that &quot;Hippys of Rhegium&quot; is likely a pseudonym from the Hellenistic era, and the fragments contain anachronisms pointing to a later compilation, possibly drawing upon sources from the fourth century BCE. The principal historical value of the work today lies in its demonstration of how later periods constructed and attributed foundational myths about the Greek past.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-6",
+      "text": "ΧΡΟΝΙΚΑ. ἐν βιβλίοις εʹ. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Apoll. Rh. IV, 262: Ἵππυς τοὺς Αἰγυπτίους ἀρχαιοτάτους γεγονέναι λέγει, καὶ πρώτους στοχάσασθαι τῆς τοῦ ἀέρος κράσεως· καὶ γονιμώτατον εἶναι τὸ τοῦ Νείλου ὕδωρ. Stephan.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Byz. v. Ἀρκάς: Ἵππυς δὲ ὁ Ῥηγῖνος λέγεται πρῶτος καλέσαι Προσελήνους τοὺς Ἀρκάδας, καὶ τὸ ἄστρον λέγεται ἐν τῷ οὐρανῷ τότε ἄρκτος κληθῆναι, ἣ ἅμαξα λέγεται. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3a",
+      "text": "Eur. Med. 10 de Medea: Περὶ δὲ τῆς εἰς Κόρινθον μετοικήσεως Ἱππεὺς (corr. Ἵππυς) ἐκτίθεται καὶ Ἑλλάνικος. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3b",
+      "text": "Eur. Med. 20: Μήδειαν ὑπὸ Ἀκάστου ἐκπεσοῦσαν σὺν Ἰάσονι Ἱππότης ὑπεδέξατο Κρέοντος τοῦ Λυκαίθου. Ὁ Λύκαιθος δὲ, ἐπεὶ Βελλεροφόντης ᾤχετο, ἦρξεν ἔτη κζʹ, ἔπειτα Κρέων λʹ, εἶτα Ἱππότης. Ἐπεὶ δὲ Ἰάσων ἔγημε τὴν Ἱππότου θυγατέρα, τότε δὴ κτείνασα τοὺς παῖδας αὑτῆς, ἀπαλλάσσεται πρὸς Αἰγέα. Zenob.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "III, 42: Δῶρον δ ’ ὅ τι δῷ τις ἐπαίνε ι: Αὕτη κόμμα ἐστὶ χρησμοῦ τοῦ δοθέντος Μυσκέλλῳ τῷ Ῥυπὶ, καθ’ ὃν δὴ χρόνον Κρότωνα οὐκ ἐβούλετο οἰκίζειν, [ἀλλὰ] Σύβαριν, ὥς φησιν Ἵππυς ἐν τῷ Περὶ χρόνων. Φησὶ δὲ οὕτως ἔχειν τὸν χρησμόν· Μύσκελλε βραχύνωτε, παρὲκ θεὸν ἄλλα ματεύων κλαύματα θηρεύσεις· δῶρον δ’ ὅτι δῷ (ὃ διδῷ?) τις ἐπαίνει. Antigonus Hist.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "Mir. c. 121 (133): Ἵππυς δὲ ὁ Ῥηγῖνος [περὶ τῶν λεγομένων τόπων φθείρειν τὰ ἐμπίπτοντα] τοιοῦτόν τι γράφει· φησὶν ἐν Ἀθήναις ἐπὶ βασιλέως Ἐπαινέτου (Ὀλυμπιάδος ἕκτης καὶ τριακοστῆς, ἐν ᾗ Ἀρυτάμας Λάκων νικᾷ στάδιον) τῆς Σικελίας ἐν Παλίκοις οἰκοδομηθῆναι τόπον, εἰς ὃν ὅστις ἂν εἰσέλθῃ, εἰ μὲν κατακλιθείη, ἀποθνήσκειν, εἰ δὲ περιπατοίη, οὐδὲν πάσχειν. Plutarch.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "De Orac. def. c. 23: Ἵππυς δὲ ὁ Ῥηγῖνος (οὗ μέμνηται Φανίας ὁ Ἐρέσιος) ἱστορεῖ δόξαν εἶναι ταύτην Πέτρωνος καὶ λόγον, ὡς ἑκατὸν καὶ ὀγδοήκοντα καὶ τρεῖς κόσμους ὄντας, ἁπτομένους δ’ ἀλλήλων κατὰ στοιχεῖον· ὅ τι δὴ τοῦτ’ ἐστὶ, κατὰ στοιχεῖον ἅπτεσθαι, μὴ προσδιασαφῶν, μηδ’ ἄλλην τινὰ πιθανότητα προσάπτων. [ΣΙΚΕΛΙΚΑ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "t7",
+      "text": "] Athenaei Epit.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": ": Ἵππυς δὲ ὁ Ῥηγῖνος τὴν εἰλεὸν καλουμένην ἄμπελον βιβλίαν φησὶ καλεῖσθαι· ἣν Πόλλιν τὸν Ἀργεῖον, ὃς ἐβασίλευσε Συρακοσίων, πρῶτον εἰς Συρακούσας κομίσαι ἐξ Ἰταλίας. Εἴη ἂν οὖν ὁ παρὰ Σικελιώταις γλυκὺς καλούμενος Πόλλιος ὁ Βίβλινος οἶνος. Χρησμός· Πῖν’ οἶνον τρυγίαν, ἐπεὶ οὐκ Ἀνθηδόνα ναίεις, οὐδ’ ἱερὰν Ὑπέραν, ὅθι γ’ ἄτρυγον οἶνον ἔπινες. [ΑΡΓΟΛΙΚΑ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "t8",
+      "text": "] Aelian.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "N. A. IX, 33: Τεκμηριῶσαι τοῦτο καὶ Ἵππυς ἱκανός. Ὃ δὲ λέγει ὁ συγγραφεὺς ὁ Ῥηγῖνος, τοιόνδε ἐστίν· γυνὴ εἶχεν ἕλμινθα, καὶ ἰάσασθαι αὐτὴν ἀπεῖπον οἱ τῶν ἰατρῶν δεινοί· οὐκοῦν εἰς Ἐπίδαυρον ἦλθεν, καὶ ἐδεῖτο τῶν θεῶν ἐξάντης γενέσθαι τοῦ συνοίκου πάθους. Οὐ παρῆν ὁ θεός· οἱ μέντοι ζάκοροι κατακλίνουσι τὴν ἄνθρωπον ἔνθα ἰᾶσθαι ὁ θεὸς εἰώθει τοὺς δεομένους· καὶ ἡ μὲν ἄνθρωπος ἡσυχάζει προσταχθεῖσα, [καὶ] οἵ γε μὴν ὑποδρῶντες τῷ θεῷ τὰ ἐς τὴν ἴασιν αὐτῇ ἐποίουν· καὶ τὴν κεφαλὴν μὲν ἀπὸ τῆς δέρης ἀφαιροῦσι, καθίησι δὲ τὴν χεῖρα ὁ ἕτερος, καὶ ἐξαιρεῖ τὴν ἕλμινθα, θηρίου μέγα τι χρῆμα· συναρμόσαι δὲ καὶ ἀποδοῦναι τὴν κεφαλὴν ἐς τὴν ἀρχαίαν ἁρμονίαν οὐκ ἐδύνατο οὐκέτι. Ὁ τοίνυν θεὸς ἀφικνεῖται, καὶ τοῖς μὲν ἐχαλέπηνεν, ὅτι ἄρα ἐπέθεντο ἔργῳ δυνατωτέρῳ τῆς ἑαυτῶν σοφίας· αὐτὸς δὲ ἀμάχῳ τινὶ καὶ θείᾳ δυνάμει ἀπέδωκε τῷ σκήνει τὴν κεφαλὴν, καὶ τὴν ξένην ἀνέστησεν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "bta-aa",
+      "title": {
+        "english": "Argive Historical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dinias-of-argos-historical-fragments-bta-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dinias-of-argos/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos-historical-fragments-bta-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos-historical-fragments-bta-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos-historical-fragments-bta-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos-historical-fragments-bta-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos/historical-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "cdu-aa",
+      "title": {
+        "english": "Fragments on Sicilian Customs",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σικελικῶν Ἐθῶν"
+      },
+      "url_slug": "hermias-of-methymna-sicilian-customs-cdu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermias-of-methymna/sicilian-customs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermias-of-methymna-sicilian-customs-cdu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermias-of-methymna-sicilian-customs-cdu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermias-of-methymna-sicilian-customs-cdu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermias-of-methymna-sicilian-customs-cdu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermias-of-methymna/sicilian-customs.epub"
+      }
+    },
+    {
+      "eul_wid": "qdq-aa",
+      "title": {
+        "english": "Historical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "cephalion-the-historian-historical-fragments-qdq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cephalion-the-historian/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephalion-the-historian-historical-fragments-qdq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephalion-the-historian-historical-fragments-qdq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephalion-the-historian-historical-fragments-qdq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephalion-the-historian-historical-fragments-qdq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephalion-the-historian/historical-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "kri-aa",
+      "title": {
+        "english": "Histories Concerning Philopator",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "ptolemy-of-megalopolis-histories-philopator-kri-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-megalopolis/histories-philopator",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-megalopolis-histories-philopator-kri-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-megalopolis-histories-philopator-kri-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-megalopolis-histories-philopator-kri-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-megalopolis-histories-philopator-kri-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-megalopolis/histories-philopator.epub"
+      }
+    },
+    {
+      "eul_wid": "hoe-ac",
+      "title": {
+        "english": "On Egyptian Philosophy and Religion",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hecataeus-of-abdera-egyptian-philosophy-religion-hoe-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hecataeus-of-abdera/egyptian-philosophy-religion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-egyptian-philosophy-religion-hoe-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-egyptian-philosophy-religion-hoe-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-egyptian-philosophy-religion-hoe-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-egyptian-philosophy-religion-hoe-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera/egyptian-philosophy-religion.epub"
+      }
+    },
+    {
+      "eul_wid": "jcy-aa",
+      "title": {
+        "english": "On Marvels of Nature",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "archelaus-of-chersonesus-marvels-nature-jcy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/archelaus-of-chersonesus/marvels-nature",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-chersonesus-marvels-nature-jcy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-chersonesus-marvels-nature-jcy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-chersonesus-marvels-nature-jcy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-chersonesus-marvels-nature-jcy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-chersonesus/marvels-nature.epub"
+      }
+    },
+    {
+      "eul_wid": "mxa-aa",
+      "title": {
+        "english": "On the Foundation of Nicaea",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "menecrates-of-tralles-foundation-nicaea-mxa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/menecrates-of-tralles/foundation-nicaea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-tralles-foundation-nicaea-mxa-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-tralles-foundation-nicaea-mxa-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-tralles-foundation-nicaea-mxa-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-tralles-foundation-nicaea-mxa-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-tralles/foundation-nicaea.epub"
+      }
+    },
+    {
+      "eul_wid": "dpc-aa",
+      "title": {
+        "english": "On the Wonders of Sicily",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "nymphodorus-of-abdera-wonders-sicily-dpc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/nymphodorus-of-abdera/wonders-sicily",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphodorus-of-abdera-wonders-sicily-dpc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphodorus-of-abdera-wonders-sicily-dpc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphodorus-of-abdera-wonders-sicily-dpc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphodorus-of-abdera-wonders-sicily-dpc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphodorus-of-abdera/wonders-sicily.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hippys-of-rhegium/chronicles-myths",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippys-of-rhegium-chronicles-myths-dwu-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippys-of-rhegium-chronicles-myths-dwu-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippys-of-rhegium-chronicles-myths-dwu-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippys-of-rhegium-chronicles-myths-dwu-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippys-of-rhegium/chronicles-myths.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

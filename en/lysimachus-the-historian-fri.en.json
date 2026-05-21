@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "fri",
+  "auth_slug": "lysimachus-the-historian",
+  "name": {
+    "english": "Lysimachus the Historian",
+    "ancient_greek": "Λυσίμαχος ὁ Ἱστορικός"
+  },
+  "seo_h1": "Egyptian Histories in the Fragments of Lysimachus the Historian",
+  "seo": {
+    "browser_title": "Lysimachus the Historian on Eulogikon Greek Archive",
+    "meta_title": "Classical Lysimachus the Historian Ancient Greek Works List",
+    "meta_description": "Lysimachus the Historian, a 3rd century BCE Greek writer. Two surviving works are preserved. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Lysimachus the Historian was an Alexandrian grammarian and mythographer active in the 3rd century BCE. He is distinguished as Lysimachus of Alexandria from the Diadochus of the same name. His work exemplifies the Hellenistic tradition of rationalizing Greek myth, though no further biographical details survive.</p>\n<p class=\"research-text\">His fragmentary works, preserved through later citations, include the <strong>Nostoi</strong> on the returns of the Greek heroes from Troy, <strong>Aigyptiaka</strong> on Egyptian history and mythology, a treatise <strong>For Alexander</strong> defending Alexander the Great, and a critical work <strong>On the Poetical Composition of the Iliad and Odyssey</strong>.</p>\n<p class=\"research-text\">Lysimachus is significant for his role in the transmission and rationalistic treatment of myth. He is notably cited in ancient ethnic polemics; Josephus quotes and refutes his hostile account of the Exodus in <strong>Against Apion</strong>, which portrayed the Jews as expelled for disease and misanthropy. This illustrates his influence on later historical debates.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "fri-ab",
+      "title": {
+        "english": "Egyptian Histories Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "lysimachus-the-historian-egyptian-histories-fri-ab",
+      "passages": 32,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysimachus-the-historian/egyptian-histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysimachus-the-historian-egyptian-histories-fri-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysimachus-the-historian-egyptian-histories-fri-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysimachus-the-historian-egyptian-histories-fri-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysimachus-the-historian-egyptian-histories-fri-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysimachus-the-historian/egyptian-histories.epub"
+      }
+    },
+    {
+      "eul_wid": "fri-aa",
+      "title": {
+        "english": "Fragments on Literary Criticism",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κριτικῆς Λογοτεχνίας"
+      },
+      "url_slug": "lysimachus-the-historian-literary-criticism-fri-aa",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysimachus-the-historian/literary-criticism",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysimachus-the-historian-literary-criticism-fri-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysimachus-the-historian-literary-criticism-fri-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysimachus-the-historian-literary-criticism-fri-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysimachus-the-historian-literary-criticism-fri-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysimachus-the-historian/literary-criticism.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/lysimachus-the-historian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lysimachus-the-historian-fri.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lysimachus-the-historian-fri.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lysimachus-the-historian-fri.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lysimachus-the-historian-fri.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

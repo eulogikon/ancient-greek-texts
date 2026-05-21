@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "fly",
+  "auth_slug": "sannyrion-the-comic-poet",
+  "name": {
+    "english": "Sannyrion the Comic Poet",
+    "ancient_greek": "Σαννυρίων ὁ κωμικός"
+  },
+  "seo_h1": "Sannyrion the Comic Poet on Gods and Mortals",
+  "seo": {
+    "browser_title": "Sannyrion Ancient Comic Poet on Eulogikon Greek Archive",
+    "meta_title": "Classical Sannyrion Ancient Greek Comic Fragments and Works",
+    "meta_description": "Sannyrion was an Athenian comic poet of Old Comedy. Surviving works are preserved as fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Sannyrion was an Athenian comic poet active in the late 5th and early 4th centuries BCE, during the period of Old Comedy. According to the ancient encyclopedia the Suda, he was an Athenian who won at least one victory in the dramatic competitions. He was a contemporary and rival of other comic poets like Strattis, and his work parodied famous figures of his day, including the tragedian Euripides and the politician Cleophon.</p>\n<p class=\"research-text\">His plays are almost entirely lost, surviving only as fragments and titles mentioned by later writers. The Suda records two plays, Danaë and Io, but other ancient sources suggest he wrote more, including comedies titled The Lydians and The Young Man. The total number of his works is uncertain.</p>\n<p class=\"research-text\">Sannyrion is significant as a documented example of the many comic poets whose full works do not survive. His fragments show he participated in standard comic practices of his time, such as parodying mythology—as seen in a pun from Io about the heroine being a &quot;pretty little heifer&quot;—and satirizing contemporary cultural and political figures. According to modern scholars, his career helps illustrate the transition from the politically charged Old Comedy toward the more social themes of Middle Comedy in the 4th century BCE.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "fly-aa",
+      "title": {
+        "english": "Comic Fragments on Gods and Mortals",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θεῶν καὶ Βροτῶν"
+      },
+      "url_slug": "sannyrion-the-comic-poet-comic-fragments-aa-fly-aa",
+      "passages": 12,
+      "links": {
+        "html": "https://eulogikon.org/grc/sannyrion-the-comic-poet/comic-fragments-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet-comic-fragments-aa-fly-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet-comic-fragments-aa-fly-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet-comic-fragments-aa-fly-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet-comic-fragments-aa-fly-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet/comic-fragments-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "fly-ab",
+      "title": {
+        "english": "Comic Fragments on Gods and Mortals",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θεῶν καὶ Βροτῶν"
+      },
+      "url_slug": "sannyrion-the-comic-poet-comic-fragments-ab-fly-ab",
+      "passages": 9,
+      "links": {
+        "html": "https://eulogikon.org/grc/sannyrion-the-comic-poet/comic-fragments-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet-comic-fragments-ab-fly-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet-comic-fragments-ab-fly-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet-comic-fragments-ab-fly-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet-comic-fragments-ab-fly-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet/comic-fragments-ab.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/sannyrion-the-comic-poet",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sannyrion-the-comic-poet-fly.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sannyrion-the-comic-poet-fly.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sannyrion-the-comic-poet-fly.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sannyrion-the-comic-poet-fly.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

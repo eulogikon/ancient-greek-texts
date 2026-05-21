@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "fvy",
+  "auth_slug": "phanodemus-of-athens",
+  "name": {
+    "english": "Phanodemus of Athens",
+    "ancient_greek": "Φανόδημος ὁ Ἀθηναῖος"
+  },
+  "seo_h1": "Phanodemus and the Atthid Tradition",
+  "seo": {
+    "browser_title": "The Phanodemus of Athens on Eulogikon Greek Archive",
+    "meta_title": "The Classical Phanodemus Ancient Greek Atthidography Works",
+    "meta_description": "Phanodemus, a 4th century BCE Athenian historian and Atthidographer. Fragments of his detailed Attic history. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Phanodemus was an Athenian historian of the 4th century BCE. He is known as an Atthidographer, a writer of a detailed local history of the Attic region. The primary biographical detail known about him is that he was the father of the historian Diyllus.</p>\n<p class=\"research-text\">His major work was titled <strong>Atthis</strong>, a history of Attica. The book itself has not survived and is considered lost. What is known about it comes from fragments—brief quotations and references—preserved in the works of later ancient authors. These fragments indicate his history covered legendary heroes like Theseus, as well as Athenian cults and antiquities.</p>\n<p class=\"research-text\">Phanodemus’s life and writing are part of a broader 4th-century Athenian tradition where scholars compiled chronicles of their city&#x27;s myths, religious customs, and political institutions. His significance lies in his role as one of these early local historians. The Atthidographers created a foundational record of Athens&#x27; past that was used extensively by later writers, including biographers like Plutarch.</p>\n<p class=\"research-text\">Although only fragments remain, they offer valuable glimpses into how Athenians of the 4th century understood their own history and identity. Through his son, who continued writing history, Phanodemus’s scholarly influence extended into the following Hellenistic period.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "fvy-aa",
+      "title": {
+        "english": "Atthid Fragments on Athenian Lore",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ἀθηναϊκῶν Παραδόσεων"
+      },
+      "url_slug": "phanodemus-of-athens-atthid-lore-fvy-aa",
+      "passages": 26,
+      "links": {
+        "html": "https://eulogikon.org/grc/phanodemus-of-athens/atthid-lore",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanodemus-of-athens-atthid-lore-fvy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanodemus-of-athens-atthid-lore-fvy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanodemus-of-athens-atthid-lore-fvy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanodemus-of-athens-atthid-lore-fvy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanodemus-of-athens/atthid-lore.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/phanodemus-of-athens",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/phanodemus-of-athens-fvy.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/phanodemus-of-athens-fvy.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/phanodemus-of-athens-fvy.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/phanodemus-of-athens-fvy.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

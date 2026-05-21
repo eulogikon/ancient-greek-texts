@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "mia",
+  "auth_slug": "aristonicus-of-alexandria",
+  "name": {
+    "english": "Aristonicus of Alexandria",
+    "ancient_greek": "Ἀριστόνικος ὁ Ἀλεξανδρεύς"
+  },
+  "seo_h1": "Aristonicus of Alexandria on Signs in Homer",
+  "seo": {
+    "browser_title": "Aristonicus of Alexandria on Eulogikon Greek Archive",
+    "meta_title": "Classical Aristonicus of Alexandria Ancient Greek Works",
+    "meta_description": "Aristonicus of Alexandria, Hellenistic grammarian and scholar. Surviving works on Homeric criticism. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Aristonicus of Alexandria was a Greek grammarian and scholar active during the late Hellenistic and early Roman Imperial periods, approximately from the 1st century BCE to the 1st century CE. He belonged to the tradition of Alexandrian scholarship dedicated to editing and explicating classical Greek texts. Aristonicus was active in Rome and a contemporary of figures such as the geographer Strabo.</p>\n<p class=\"research-text\">His most significant work was a collection titled <strong>On the Signs of the Iliad and Odyssey</strong>. This book elucidated the system of critical marks—including obeloi and asterisks—that earlier Alexandrian editors like Aristarchus had placed in the margins of Homer’s epic poems. Aristonicus’s own treatise does not survive intact but is preserved in fragments within the ancient commentaries found in medieval manuscripts of Homer. He may have authored other grammatical works, but these are lost and their precise titles remain uncertain.</p>\n<p class=\"research-text\">Aristonicus’s historical importance lies in his role as a preserver of earlier scholarly traditions. His explanations of the critical signs provide a vital link to the methods of Hellenistic textual criticism. Although his writings survive only fragmentarily, they are frequently cited in the margins of Homeric manuscripts, making his work an essential source for understanding how ancient scholars studied and edited Homeric poetry.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 4,
+  "works": [
+    {
+      "eul_wid": "mia-ab",
+      "title": {
+        "english": "On Signs in the Iliad",
+        "ancient_greek": "Περὶ τῶν σημείων τῆς Ἰλιάδος"
+      },
+      "url_slug": "aristonicus-of-alexandria-signs-iliad-mia-ab",
+      "passages": 11703,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristonicus-of-alexandria/signs-iliad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria-signs-iliad-mia-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria-signs-iliad-mia-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria-signs-iliad-mia-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria-signs-iliad-mia-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria/signs-iliad.epub"
+      }
+    },
+    {
+      "eul_wid": "mia-aa",
+      "title": {
+        "english": "On Signs in the Odyssey",
+        "ancient_greek": "Περὶ Σημίων Ὀδυσσείας"
+      },
+      "url_slug": "aristonicus-of-alexandria-signs-odyssey-mia-aa",
+      "passages": 4645,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristonicus-of-alexandria/signs-odyssey",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria-signs-odyssey-mia-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria-signs-odyssey-mia-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria-signs-odyssey-mia-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria-signs-odyssey-mia-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria/signs-odyssey.epub"
+      }
+    },
+    {
+      "eul_wid": "mia-ad",
+      "title": {
+        "english": "On the Origins of Tragic Dance",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "aristonicus-of-alexandria-tragic-dance-mia-ad",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristonicus-of-alexandria/tragic-dance",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria-tragic-dance-mia-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria-tragic-dance-mia-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria-tragic-dance-mia-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria-tragic-dance-mia-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria/tragic-dance.epub"
+      }
+    },
+    {
+      "eul_wid": "mia-ac",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "aristonicus-of-alexandria-testimonies-mia-ac",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristonicus-of-alexandria/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria-testimonies-mia-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria-testimonies-mia-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria-testimonies-mia-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria-testimonies-mia-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria/testimonies.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/aristonicus-of-alexandria",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristonicus-of-alexandria-mia.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristonicus-of-alexandria-mia.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristonicus-of-alexandria-mia.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristonicus-of-alexandria-mia.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

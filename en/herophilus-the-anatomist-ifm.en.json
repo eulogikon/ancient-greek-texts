@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ifm",
+  "auth_slug": "herophilus-the-anatomist",
+  "name": {
+    "english": "Herophilus the Anatomist",
+    "ancient_greek": "Ἡρόφιλος ὁ Χαλκηδόνιος"
+  },
+  "seo_h1": "Herophilus the Anatomist on Nourishment and the Body",
+  "seo": {
+    "browser_title": "Herophilus the Anatomist on Eulogikon Greek Archive",
+    "meta_title": "Herophilus the Anatomist Ancient Greek Works Collection",
+    "meta_description": "Herophilus the Anatomist, Hellenistic physician and pioneer of human dissection. Surviving works and fragments. Free to download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Herophilus was a Greek physician and anatomist born in Chalcedon. He worked in Alexandria during the early 3rd century BCE under the patronage of the Ptolemies, where the unique permission for human dissection enabled his pioneering work. A student of Praxagoras of Cos, he established his own influential medical school and conducted systematic anatomical investigations, including dissections and possibly vivisections, which allowed for unprecedented direct observation.</p>\n<p class=\"research-text\">His major, now lost, works include On Anatomy, detailing his discoveries, and specialized treatises such as On the Eyes, Midwifery, and On Pulses, in which he developed pulse theory. Other lost texts are Against Common Opinions and A Handbook for Midwives.</p>\n<p class=\"research-text\">Herophilus is a foundational figure in the history of medicine. His empirical approach led to major discoveries, including identifying the brain as the nervous system&#x27;s center, describing organs like the liver and pancreas, and naming the duodenum. His work on the pulse and his anatomical findings formed the core of the Alexandrian medical school and profoundly influenced later thinkers like Galen.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "ifm-aa",
+      "title": {
+        "english": "How a Man Ought to Live Each Month",
+        "ancient_greek": "Πῶς ὀφείλει διαιτᾶσθαι ἄνθρωπος ἐφ ἑκάστῳ μηνί"
+      },
+      "url_slug": "herophilus-the-anatomist-monthly-living-ifm-aa",
+      "passages": 11,
+      "links": {
+        "html": "https://eulogikon.org/grc/herophilus-the-anatomist/monthly-living",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist-monthly-living-ifm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist-monthly-living-ifm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist-monthly-living-ifm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist-monthly-living-ifm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist/monthly-living.epub"
+      }
+    },
+    {
+      "eul_wid": "ifm-ab",
+      "title": {
+        "english": "On the Method of Nourishment",
+        "ancient_greek": "Περὶ μεθόδου τροφῆς"
+      },
+      "url_slug": "herophilus-the-anatomist-method-nourishment-ifm-ab",
+      "passages": 60,
+      "links": {
+        "html": "https://eulogikon.org/grc/herophilus-the-anatomist/method-nourishment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist-method-nourishment-ifm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist-method-nourishment-ifm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist-method-nourishment-ifm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist-method-nourishment-ifm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist/method-nourishment.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/herophilus-the-anatomist",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/herophilus-the-anatomist-ifm.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/herophilus-the-anatomist-ifm.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/herophilus-the-anatomist-ifm.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/herophilus-the-anatomist-ifm.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

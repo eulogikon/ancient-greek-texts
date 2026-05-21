@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "tqk",
+  "auth_slug": "anonymous-lexicographer-i",
+  "name": {
+    "english": "Lexicographic Work Anonymous I",
+    "ancient_greek": "Ἀνώνυμον Λεξικογραφικόν Ἔργον"
+  },
+  "seo_h1": "The Anonymous Lexicographic Work and Late Antique Grammar",
+  "seo": {
+    "browser_title": "Anonymous Lexicographer on Eulogikon Greek Archive",
+    "meta_title": "Anonymous Lexicographer Ancient Greek Lexical Works",
+    "meta_description": "Anonymous lexicographic work from Late Antiquity, a surviving grammatical treatise on Greek. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The compiler of the Anonymous Lexicographic Work is entirely unknown. The work is a product of the scholarly and grammatical traditions of Late Antiquity, a period characterized by the systematization of classical knowledge. It likely originated in an educational or scholarly context, possibly connected to the work of grammarians or philosophical schools, between the 2nd and 5th centuries CE.</p>\n<p class=\"research-text\">The single known work is the Anonymous Lexicographic Work. It is a lexicon or glossary, though its precise title, scope, and content are not detailed in the consulted sources.</p>\n<p class=\"research-text\">This anonymous text exemplifies the widespread practice of creating reference tools to preserve and clarify the Greek language, particularly for older literary texts. Such works were fundamental to education and textual scholarship, forming a bridge between the classical past and later readers. It contributes to understanding the diffuse and often collaborative nature of lexicographic activity that underpinned later, more famous compilations.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "tqk-aa",
+      "title": {
+        "english": "Lexicon Fragment",
+        "ancient_greek": "Λεξικοῦ Ἀπόσπασμα"
+      },
+      "url_slug": "anonymous-lexicographer-i-fragment-tqk-aa",
+      "passages": 155,
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-lexicographer-i/fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-lexicographer-i-fragment-tqk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-lexicographer-i-fragment-tqk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-lexicographer-i-fragment-tqk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-lexicographer-i-fragment-tqk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-lexicographer-i/fragment.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/anonymous-lexicographer-i",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-lexicographer-i-tqk.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-lexicographer-i-tqk.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-lexicographer-i-tqk.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-lexicographer-i-tqk.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

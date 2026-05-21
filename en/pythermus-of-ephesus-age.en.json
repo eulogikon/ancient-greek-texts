@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "age",
+  "auth_slug": "pythermus-of-ephesus",
+  "name": {
+    "english": "Pythermus of Ephesus",
+    "ancient_greek": "Πύθερμος ὁ Ἐφέσιος"
+  },
+  "seo_h1": "Pythermus of Ephesus Among the First Greek Prose Historians",
+  "seo": {
+    "browser_title": "Pythermus of Ephesus on Eulogikon Greek Archive Library",
+    "meta_title": "Pythermus of Ephesus Ancient Greek Historical Works",
+    "meta_description": "Pythermus of Ephesus, Archaic era historian writing in Ionic Greek. His historical fragments are preserved. Free to read and download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Pythermus of Ephesus was an obscure early Greek historian of the late sixth or early fifth century BCE. He is known solely from a brief mention by Dionysius of Halicarnassus, who groups him among the earliest prose writers of history, alongside figures like Cadmus of Miletus and Hellanicus of Lesbos. Dionysius characterizes their works as stylistically primitive, little different from poetry. A native of Ephesus in Ionia, no other biographical details survive.</p>\n<p class=\"research-text\">Pythermus is credited with a single historical work, the title of which is lost. The text itself is completely lost, surviving only as a testimonium in Dionysius; no direct fragments are known.</p>\n<p class=\"research-text\">Pythermus represents the formative, pre-Herodotean stage of Greek historiography. His citation by Dionysius serves to illustrate the primitive state of early historical prose before it developed into a polished literary art. He is a named example of the first generation of writers who began to record local histories and myths in prose rather than verse.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "age-aa",
+      "title": {
+        "english": "Historical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "pythermus-of-ephesus-historical-fragments-age-aa",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/pythermus-of-ephesus/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythermus-of-ephesus-historical-fragments-age-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythermus-of-ephesus-historical-fragments-age-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythermus-of-ephesus-historical-fragments-age-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythermus-of-ephesus-historical-fragments-age-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythermus-of-ephesus/historical-fragments.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/pythermus-of-ephesus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pythermus-of-ephesus-age.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pythermus-of-ephesus-age.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pythermus-of-ephesus-age.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pythermus-of-ephesus-age.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

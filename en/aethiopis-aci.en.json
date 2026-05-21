@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "aci",
+  "auth_slug": "aethiopis",
+  "name": {
+    "english": "Aethiopis",
+    "ancient_greek": "Αἰθιοπίς"
+  },
+  "seo_h1": "The Aethiopis and the Epic Cycle",
+  "seo": {
+    "browser_title": "Aethiopis Epic Cycle Poem on Eulogikon Greek Archive",
+    "meta_title": "Classical Aethiopis Ancient Greek Epic Poem and Fragments",
+    "meta_description": "Aethiopis, a lost epic poem from the early Greek Archaic period. Surviving fragments from the Trojan War. Free to read and download from the Greek library."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Aethiopis is a lost epic poem from the early Greek Archaic period, estimated to have been composed in the 8th or 7th century BCE. It was a major part of the Epic Cycle, a collection of poems that narrated the entire story of the Trojan War and its mythical context. The work is not by a known individual author; ancient tradition later attributed it to a semi-legendary poet named Arctinus of Miletus, but modern scholars consider this attribution uncertain due to a lack of reliable evidence.</p>\n<p class=\"research-text\">The poem itself has not survived. Its plot is known primarily from a much later prose summary written by the scholar Proclus in the 2nd century CE. According to this summary, the Aethiopis continued the story directly after Homer’s Iliad. It narrated the arrival of powerful new allies for Troy—the Amazon queen Penthesilea and the Ethiopian hero Memnon—and their subsequent deaths in battle at the hands of the Greek hero Achilles. The poem culminated in the death of Achilles himself and the funeral games held in his honor.</p>\n<p class=\"research-text\">The Aethiopis is historically important because it represents the broader, non-Homeric tradition of the Trojan War saga that was widely known in antiquity. According to modern scholars, it filled narrative gaps left by the Homeric poems. Its dramatic episodes, such as the forging of divine armor for Achilles and the fatal dispute over that armor among the Greek heroes, became highly influential subjects for later Greek and Roman literature, drama, and art.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "aci-aa",
+      "title": {
+        "english": "Aethiopis",
+        "ancient_greek": "Αἰθιοπίς"
+      },
+      "url_slug": "aethiopis-text-aci-aa",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/aethiopis/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aethiopis-text-aci-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aethiopis-text-aci-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aethiopis-text-aci-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aethiopis-text-aci-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aethiopis/text.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/aethiopis",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aethiopis-aci.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aethiopis-aci.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aethiopis-aci.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aethiopis-aci.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

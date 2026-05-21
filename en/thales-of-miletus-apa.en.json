@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "apa",
+  "auth_slug": "thales-of-miletus",
+  "name": {
+    "english": "Thales of Miletus",
+    "ancient_greek": "Θαλῆς ὁ Μιλήσιος"
+  },
+  "seo_h1": "Thales of Miletus and the Origins of Greek Philosophy",
+  "seo": {
+    "browser_title": "Thales of Miletus Ancient Greek Works on Eulogikon Archive",
+    "meta_title": "Classical Thales of Miletus Ancient Greek Philosophy Works",
+    "meta_description": "Thales of Miletus, foundational Ionian philosopher and astronomer. Includes philosophical fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Milesian",
+      "href": "/affiliations/milesian"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Thales of Miletus was a philosopher, astronomer, and statesman from the Ionian city of Miletus in the 7th–6th centuries BCE. He is traditionally regarded as the first philosopher in the Greek tradition and one of the legendary Seven Sages.</p>\n<p class=\"research-text\">The precise dates of his life are uncertain, but ancient sources place his most famous achievement—the prediction of a solar eclipse—around 585 BCE. He was also known as a practical engineer and a political advisor. No writings by Thales survive, and scholars debate whether he composed any texts at all. What is known of his ideas comes from later reports by philosophers like Aristotle.</p>\n<p class=\"research-text\">According to these sources, Thales initiated a new way of inquiring into nature by seeking a single, fundamental principle behind all things. He famously proposed that this underlying substance was water. He is also credited with introducing geometrical knowledge to Greece and with establishing basic theorems.</p>\n<p class=\"research-text\">Thales holds a foundational place in the history of Western science and philosophy. He is considered the first of the Milesian school of natural philosophers, who sought rational, non-mythological explanations for the cosmos. His work marked a decisive turn toward investigating nature through observation and reason.</p>\n</div>",
+  "affiliation_label": "Milesian",
+  "works_count": 3,
+  "works": [
+    {
+      "eul_wid": "apa-ac",
+      "title": {
+        "english": "Letters to Philosophers",
+        "ancient_greek": "Ἐπιστολαὶ πρὸς Φιλοσόφους"
+      },
+      "url_slug": "thales-of-miletus-letters-apa-ac",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/thales-of-miletus/letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-letters-apa-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-letters-apa-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-letters-apa-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-letters-apa-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus/letters.epub"
+      }
+    },
+    {
+      "eul_wid": "apa-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "thales-of-miletus-testimonies-apa-aa",
+      "passages": 34,
+      "links": {
+        "html": "https://eulogikon.org/grc/thales-of-miletus/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-testimonies-apa-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-testimonies-apa-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-testimonies-apa-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-testimonies-apa-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus/testimonies.epub"
+      }
+    },
+    {
+      "eul_wid": "apa-ab",
+      "title": {
+        "english": "Thales' Nautical Astronomy",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "thales-of-miletus-nautical-astronomy-apa-ab",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/thales-of-miletus/nautical-astronomy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-nautical-astronomy-apa-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-nautical-astronomy-apa-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-nautical-astronomy-apa-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-nautical-astronomy-apa-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus/nautical-astronomy.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/thales-of-miletus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/thales-of-miletus-apa.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/thales-of-miletus-apa.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/thales-of-miletus-apa.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/thales-of-miletus-apa.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

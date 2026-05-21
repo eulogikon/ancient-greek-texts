@@ -1,0 +1,888 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "umi-ai",
+  "eul_aid": "umi",
+  "author_slug": "medical-writers-anonymous",
+  "work_slug": "human-parts",
+  "url_slug": "medical-writers-anonymous-human-parts-umi-ai",
+  "author": {
+    "english": "Medical Writers Anonymous",
+    "ancient_greek": "Ἀνώνυμοι Ἰατρικοί"
+  },
+  "title": {
+    "english": "Names of Human Parts, Book 1",
+    "ancient_greek": "Ὀνομασίαι τῶν κατὰ ἄνθρωπον"
+  },
+  "seo": {
+    "browser_title": "Names Human Parts by Medical Writers Anonymous on Eulogikon",
+    "meta_title": "Names of Human Parts by Medical Writers in Ancient Greek",
+    "meta_description": "Medical treatise on anatomical terminology, beginning with the largest external parts. Foundational text. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The work <strong>Names of Human Parts</strong> is a medical glossary traditionally, though spuriously, attributed to Galen and thus classified among the Pseudo-Galenic writings. It functions as a systematic anatomical lexicon, with the extant portion designated as Book 1 containing seventy-two entries. Each entry typically presents a Greek anatomical term followed by a concise definition or explanatory synonym. The text opens with a prologue that justifies its purpose through analogy to other disciplines, arguing that just as a musician must learn the names of strings or a geometer must define a line or circle, so too must a medical student first learn the correct names for each part of the body. This introductory rationale explicitly links the work to the pedagogical tradition, framing it as an essential primer for the study of medicine.</p>\n<p class=\"research-text\">Transmitted within the medieval manuscript tradition of the Galenic corpus, its survival was secured by its inclusion among Galen&#x27;s works, a common fate for useful educational texts. The glossary represents a specific strand of Greek medical lexicography from the Roman Imperial period or Late Antiquity, dedicated to clarifying and codifying the technical vocabulary found in earlier Hippocratic and Hellenistic medical literature. Its significance lies primarily in its pedagogical utility, serving as a reference tool that contributed to the standardization and transmission of anatomical terminology through Greco-Roman, Byzantine, and subsequent scholarly traditions.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t",
+      "text": "ΤΟΥ ΑΥΤΟΥ [ΡΟΥΦΟΥ] ΟΝΟΜΑΣΙΩΝ ΤΩΝ ΚΑΤΑ ΑΝΘΡΩΠΟΝ ΠΡΩΤΟΝ. Εἴ τις τὴν κιθαριστικὴν μέλλοι διδαχθήσεσθαι, ἀνάγκη πρὸ τῆς πάσης διδασκαλίας μαθεῖν τῶν τε χορδῶν θιγγάνειν ἐπιστημόνως, ἑκάστης τε τούτων τὸ ὄνομα λέγειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Ἔτι μὴν καὶ οἱ γραμματισταὶ πρὸ τῆς ἀναγνώσεως καὶ τῆς ἄλλης διδασκαλίας, καὶ τὴν τῶν στοιχείων ὀνομασίαν ὁμοίως προδιδάσκουσιν· ἀλλὰ μὴν καὶ ἐν τῇ γεωμετρίᾳ, τί ἐστὶ γραμμὴ, καὶ τί ἐπιφάνεια, καὶ ἐπίπεδον, καὶ σχῆμα τρίγωνον, καὶ κύκλος, καὶ τὰ ὅμοια· εἰδέναι δὲ δεῖ ὅ τι ἑκάστου αὐτῶν ἔστι τὲ καὶ ὀρθῶς ὀνομάζεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Καὶ ἐπὶ τῶν ἄλλων τε τεχνῶν τὴν πρόγνωσιν καὶ ὀνομασίαν ὁμοίως προδιδάσκουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Ἀναγκαιότατον οὖν τοῖς τὴν ἰατρικὴν τέχνην μανθάνουσι προδιδαχθῆναι τὴν στοιχείωσιν ὡς χρὴ καλεῖν ἕκαστον μόριον τοῦ σώματος· καὶ γὰρ ὁ θειότατος Ἱπποκράτης ἐν τῷ Περὶ τόπων τῶν κατὰ ἄνθρωπόν φησιν οὕτως· «Φύσις δὲ σώματος ἀρχὴ τοῦ ἐν ἰητρικῇ λόγου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "» Καὶ ἡμεῖς οὖν ἀρξάμενοι ἀπὸ τῶν ἁπλουστέρων, καὶ ἔξωθεν ὁρωμένων, τὴν πρόγνωσιν καὶ ὀνομασίαν ὁμοίως ποιησόμεθα. —Ἔστι δὲ τὰ μέγιστα μέρη τοῦ σώματος, κεφαλὴ, καὶ αὐχὴν, καὶ θώραξ, καὶ χεῖρες, καὶ σκέλη· θώρακα γὰρ οὐ μόνον τὰ ἀπὸ τῶν κλειδῶν μέχρι τῶν ὑποχονδρίων καλοῦμεν, ἀλλὰ καὶ τὸ σύμπαν ἀπὸ τῶν κλειδῶν μέχρι τῶν αἰδοίων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "—Κεφαλὴν δὲ καὶ τὸ τετριχωμένον καλοῦμεν κατὰ ἑαυτὸ καὶ σὺν τῷ προσώπῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "Καὶ τὰ ἄλλα ὁμοίως συμπεριλαμβάνομεν ὀνομάζοντες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "Τοῦ οὖν τετριχωμένου τὸ μὲν ἔμπροσθεν καλεῖται βρέγμα ἐπὶ οὗ τέτακται ἡ καλουμένη στεφάνη, περὶ ἣν τοὺς στεφάνους τίθεμεν, ἰνίον τὸ ὀπίσω· τὰ ἑκατέρωθεν τοῦ βρέγματος κρόταφοι, καὶ κόρσαι· τὸ ἐν μέσῳ κατὰ ὃ δὴ μάλιστα εἱλοῦνται αἱ τρίχες, κορυφή· ὑπὸ δὲ τῷ βρέγματι κεῖται τὸ μέτωπον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "Αἱ δὲ παρὰ τοὺς κροτάφους τῶν τριχῶν ἐκφύσεις, ἴουλοι, χαῖται δὲ, αἱ ὄπισθεν κατὰ τὸ ἰνίον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11-12",
+      "text": "Ἡ δὲ τοῦ μετώπου ἐσχάτη ῥυτὶς, ἐπισκύνιον. Τὰ δὲ τετριχωμένα τοῦ μετώπου, ὀφρύες· τούτων ἡ μεσότης, μεσόφρυον—ἀπὸ οὗ ἡ ῥὶς τέταται, ἧς τὸ ἄκρον σφαίριον καλεῖται· τὸ δὲ ὑποκείμενον, διάφραγμα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13",
+      "text": "Ἀπὸ δὲ τοῦ σφαιρίου τὸ καθῆκον σαρκῶδες ἐπὶ τὸ χεῖλος, κίων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14",
+      "text": "Μυξωτῆρες τὰ κοιλώματα ἐξ ἑκατέρου μέρους, διὰ ὧν γίγνεται ὄσφρησις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "Πτερύγια ῥινὸς λέγεται τὸ τὰς κοιλώτητας ταύτας περιέχον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16",
+      "text": "Τὸ δὲ ὑπὸ τῇ κίονι κοῖλον τὸ ἐπάνω χείλους, φίλτρον καλεῖται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17-18",
+      "text": "Πᾶν δὲ τὸ μετὰ τὴν ῥῖνα τοῦ ἄνω χείλους, ὑπόῤῥινον. —Εἶτα χείλη δύο, ὧν τὰ [μὲν] ἄκρα, πρόχειλα· τὸ δὲ σύμβλημα τῶν χειλῶν, προστόμιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19",
+      "text": "—Ὑπὸ δὲ ταῖς ὀφρύσιν ὑπόκεινται οἱ ὀφθαλμοί· αὐτοὺς δὲ τοὺς ὀφθαλμοὺς τὰ σκέποντα, βλέφαρα, ὧν τὸ μὲν ἄνωθεν, τὸ δὲ κάτωθεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20",
+      "text": "Αἱ δὲ συμβολαὶ αἱ ἐν τῷ ἐπιμύειν γιγνόμεναι, ταρσοί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "21",
+      "text": "Αἱ δὲ τρίχες, αἱ ἐκ τῶν βλεφάρων ἐκπεφυκυῖαι, βλεφαρίδες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "22",
+      "text": "Τὰ δὲ πέρατα τῶν ταρσῶν, κανθοὶ, ὧν ὁ μὲν πρὸς τῇ ῥινὶ μέγας, ὁ δὲ πρὸς τῷ κροτάφῳ μικρός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "23",
+      "text": "—Κόραι αἱ ὄψεις· γλῆναι τὰ μέσα τῶν ὀφθαλμῶν διὰ ὧν ὁρῶμεν· οἱ δὲ ὄψιν μὲν ᾧ βλέπομεν, κόρην δὲ καὶ γλήνην, τὸ εἴδωλον τὸ ἐν τῇ ὄψει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "24",
+      "text": "Τὰ δὲ μετὰ ταῦτα μέλανα, ἢ γλαυκὰ, ἢ χαρωπὰ, ἀπὸ τῆς χροιᾶς καλεῖται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25",
+      "text": "Ἴρις δὲ ὁ κύκλος ὁ συνάπτων τὸ λευκόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "26",
+      "text": "Τὰ δὲ ὑπὸ τοῖς ὀφθαλμοῖς, ὑπώπια· —οἷς ὑπόκεινται ἐπαναστάσεις τινὲς, αἳ καλοῦνται μῆλα, οἷς ἐρυθριῶμεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "27",
+      "text": "Ἀπὸ δὲ τῶν μήλων αἱ καλούμεναι παρειαὶ, καὶ σιαγόνες, καὶ γνάθοι, ὧν αἱ γένυες ἀπολήγουσιν εἰς τὸ ἄποξυ τῆς κάτω γνάθον· ἀπὸ οὗ γένειον τὸ μέχρι τοῦ κάτω χείλους περιφερίς τε καὶ ἐξέχον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "28",
+      "text": "Τὸ δὲ ὕπτιον ὑπὸ τὸ γένειον σαρκῶδες, ἀνθερεὼν, οἱ δὲ λευκανίαν· οἱ δὲ ἀνθερεῶνα μὲν τοῦτο· λευκανίαν δὲ τὸ πρὸς κλειδὶ κοῖλαν ὀνομάζουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "29",
+      "text": "—Ὦτα καλοῦνται αἱ ἐπαναστάσεις αἱ ἐξ ἑκατέρου μέρους τῶν κροτάφων πρὸς τοῖς τέρμασι πεφυκυῖαι· ὧν τὰ μὲν τρήματα, πόροι ἀκουστικοὶ, διὰ ὧν ἀκούομεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30",
+      "text": "Τὰ δὲ ἐκκρεμῆ καὶ σαρκώδη, λοβοί· τὰ δὲ χονδρώδη καὶ ἀνωτάτω, πτερύγια· ἕλικες δὲ, τὰ ἐντεῦθεν συνάπτοντα τὴν περιφέρειαν· ἀνθέλικες δὲ τὰ ἐν μέσῳ ὑπεραίροντα μετὰ τὴν ἕλικα παρὰ τὴν κοιλότητα· κόγχη δὲ τὸ ἀπὸ τῆς ἀνθέλικος κοῖλον· τὸ δὲ ἀπεναντίας τῆς κόγχης, ἔξαρμα παρὰ τὸ πέρας τοῦ κροτάφου τράγος· τὸ δὲ ἀντικρὺ τούτου παχυτέρας τῆς ἀνθέλικος, ἀντίτραγος. —Στόμα δὲ ἡ πρώτη τομὴ τῶν χειλῶν, καὶ ἡ λοιπὴ εὐρυχωρία πᾶσα μέχρι τῆς φάρυγγος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "32",
+      "text": "Ἐν δὲ τῷ στόματι ἄλλα τέ τινα καὶ οἱ ὀδόντες, ὧν οἱ μὲν ἔμπροσθεν τομεῖς καλοῦνται, ὀκτὼ τὸν ἀριθμὸν ὑπάρχοντες· κυνοδόντες μὲν οἱ μετὰ αὐτοὺς τέσσαρες· οἱ δὲ λοιποὶ πάντες εἴκοσι μύλαι προσαγορεύονται· τούτων οἱ ἔσχατοι καὶ ἐνδοτέρω σωφρονιστῆρες τέσσαρες, οἵτινες ἡνίκα ἀρχόμεθα φρονεῖν φύονται. Τὰ δὲ περὶ τούτους περιέποντα σαρκία, οὖλα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "33-34",
+      "text": "Ἡ δὲ σύνδεσις τῶν σαρκῶν, χαλινὸς καλεῖται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "35-36",
+      "text": "Τράπεζαι δὲ τὰ πλατέα τῶν γομφίων. Ὁλμίσκοι δὲ, καὶ φατνίαι αἱ κοιλότητες τῶν γνάθων, εἰς ἃς ἐμπεπήγασιν οἱ ὀδόντες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "37",
+      "text": "Τῆς δὲ γλώσσης ῥίζα μὲν ἡ ἔκφυσις· αὐχὴν δὲ τὸ ἐφεξῆς· πρόγλωσσον δὲ τὸ ἔμπροσθεν· παράσειρα δὲ τὰ ἑκατέρωθεν. Ὑπογλωσσὶς τὸ ὑποκάτω· ἐπιγλωσσὶς δὲ τὸ ἔνδον ἐπὶ τοῦ βρόγχου πῶμα γιγνόμενον τῆς τραχείας ἀρτηρίας, ὅταν τι καταπίνωμεν, ὑπὲρ τοῦ μηδὲν ἐμπίπτειν εἰς τὸν πνευμόνα· ἀναπνεόντων δὲ καὶ μετέωρόν ἐστιν, ὡς μὴ ἐπικωλύειν τὴν τοῦ πνεύματος ἄνοδον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "39-40",
+      "text": "Οὐρανὸς ἡ ὑπερῶα τὸ ὑπεράνω τῆς γλώσσης περιφερές. Τὸ δὲ ἐντεῦθεν κατὰ τὰ ἄνω μέρη ἐκκεκραμένον σαρκίον, κιονίς· οἱ δὲ γαργαρεῶνα, οἱ δὲ σταφυλήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "41-42",
+      "text": "—Ὑπόκειται δὲ αὐτῇ ἡ τοῦ βρόγχου κεφαλή. —Ἑξῆς τράχηλος· τὸ δὲ αὐτὸ καὶ δειρὴ, οὗ τὸ μὲν ἔμπροσθεν βρόγχος καὶ τραχεῖα ἀρτηρία.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "43",
+      "text": "Ἡ δὲ κατὰ μέσον ἐπανάστασις, λάρυγξ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "44-45",
+      "text": "Τὸ δὲ ὀπίσω αὐχὴν, καὶ ἰνίον. Τὸ δὲ πρὸς ταῖς κλεισὶ κοῖλον ἀντικάρδιον, καὶ σφαγή.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "46",
+      "text": "Τὰ δὲ ἀπὸ τοῦ τένοντος ἐπὶ τοὺς ὤμους καθήκοντα ἐπωμίδες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "47-48",
+      "text": "—Ὤμοι δὲ αἱ κεφαλαὶ τῶν βραχιόνων. Ὠμοπλάται δὲ, τὰ ἐπικείμενα τῷ νώτῳ πλατέα ὀστᾶ, ὧν ἡ διὰ μέσου ὑπεροχὴ ῥάχις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "49",
+      "text": "Ἀκρωμία δὲ οἱ σύνδεσμοι τῶν κλειδῶν, καὶ τῶν ὠμοπλατῶν· ἐχομένως δὲ καὶ αἱ κατακλεῖδες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "50",
+      "text": "Μασχάλη, ἡ ὑπὸ τῷ ὤμῳ κοιλότης, εἰς ἣν ταπολλὰ ὁ ὦμος ὀλισθαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "51-52",
+      "text": "—Ἑξῆς βραχίων. Ἡ δὲ γωνία τοῦ ἄρθρου, ἐπὶ ἣν κλινόμενοι στηριζόμεθα, ἀγκὼν, ἢ ὠλέκρανον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "53-54",
+      "text": "—Τὸ δὲ ἐντεῦθεν ἡ πῆχυς· περαίνεται δὲ εἰς τὸν καρπόν. Ἐφεξῆς ἐστι τὸ μετακάρπιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "55",
+      "text": "Ἑξῆς στῆθος χειρὸς, οἱ δὲ ὑποθέναρ ὑπὸ τὸν μέγαν δάκτυλον, μετὰ ὃν ἡ κοιλότης τῆς χειρός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "56",
+      "text": "Δακτύλων δὲ ὁ μέν τις μέγας ὁ ἀφεστηκὼς τῶν ἄλλων· ὁ δὲ λιχανὸς ὁ πρῶτος τῶν δακτύλων τεσσάρων· ὁ δὲ μέσος, ὁ δὲ παράμεσος, ὁ δὲ μικρός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "57",
+      "text": "Τούτων τὰ ὀστᾶ, σκυταλίδες, ἢ φάλαγγες· κόνδυλοι δὲ αἱ συγκαμπαί· ἀλλὰ πρῶτοι μὲν προκόνδυλοι, τελευταῖοι δὲ μετακόνδυλοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "58",
+      "text": "Αἱ δὲ τῶν ὀνύχων ἀρχαὶ, ῥιζωνύχια· τὰ δὲ πέρατα τῶν δακτύλων, ῥᾶγες καὶ κορυφαί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "59",
+      "text": "Θέναρ δὲ τὸ μεταξὺ διάστημα τοῦ λιχανοῦ καὶ τοῦ μεγάλου δακτύλου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "60",
+      "text": "Δοκεῖ δέ μοι Ἱπποκράτης πᾶν τὸ πλατὺ τῆς χειρὸς θέναρ ὀνομάζειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "61",
+      "text": "—Ἀπὸ δὲ τῶν κλειδῶν τὸ μὲν ἔμπροσθεν, στῆθος καὶ στέρνον· νῶτον δὲ τὸ ἐξόπισθεν ἀπὸ τοῦ αὐχένος· μετάφρενον δὲ μεταξύ· ἔπειτα δὲ ὀσφύες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "62",
+      "text": "Αἱ δὲ ὑπὸ τῷ στήθει σαρκώδεις ὑπεροχαὶ, μαστοὶ καὶ τιτθοὶ, ὧν τὰ ἄκρα θηλαί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "63",
+      "text": "Πλευρὰ δὲ καλεῖται πᾶν τὸ ὑπὸ τῇ μασχάλῃ· τὰ δὲ ὀστᾶ, πλευραὶ, καὶ σπάθαι· ὧν αἱ πρῶται συνάπτουσιν ἀλλήλαις εἰς τὸ τέρμα τοῦ στέρνου, κατὰ ὃ ἡ καρδία ἐστὶν, αἱ [ἢ?] φρένες· οἱ δὲ προκαρδίον, οἱ δὲ καρδίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "64",
+      "text": "Μετὰ ὃ ἐστὶ τὸ στόμα τῆς κοιλίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "65-66",
+      "text": "Τὸ δὲ μετὰ ταῦτα τῶν πλευρῶν μεσοπλευρίαι. Νόθαι δὲ πλευραὶ αἱ μὴ συνάπτουσαι ἀλλήλαις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "67",
+      "text": "Χόνδροι δὲ πέρατα τούτων· ὑποχόνδρια δὲ, τὰ ὑπὸ τοῖς χόνδροις μυώδη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "68",
+      "text": "—Κοιλία δὲ ἡ γαστήρ· τὸ δὲ ἐν μέσῳ ἐπιγάστριον, τὸ ἐπὶ τῆς γαστρὸς δέρμα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "69-70",
+      "text": "Ὀμφαλὸς τὸ ἐν μέσῳ κοῖλον. Τὸ δὲ περικείμενον δέρμα τῷ ὀμφαλῷ γραῖα, κατὰ ὃ ῥυτιδούμενον τοῦτο γῆρας σημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "71",
+      "text": "Τὸ δὲ ὑποκάτω τοῦ ὀμφαλοῦ ὑπογάστριον, καὶ ἦτρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "72",
+      "text": "Τὸ δὲ ὑπὸ τούτῳ μέχρι τῶν αἰδοίων, ἐπίσειον, ἣ ἐφήβαιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "73",
+      "text": "—Τῶν αἰδοίων τοῦ μὲν ἄῤῥενος, τὸ μὲν ἐκκρεμὲς, στῆμα· τὸ δὲ μὴ ἐκκρεμὲς, ὑπόστημα, ἢ περίνεος· τὸ δὲ ἄκρον τούτου πόσθη. Ὄσχεος δὲ ἐν ᾧ οἱ δίδυμοι· ὧν τὸ μὲν ἄνω κεφαλὴ, τὸ δὲ κάτω πυθμὴν καλεῖται· τὸ δὲ χαλώμενον τοῦ ὀσχέου λακκόπεδον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "75",
+      "text": "—Τῆς δὲ γυναικὸς κτεὶς μὲν τὸ ἄνω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "76",
+      "text": "Σχίσμα δὲ ἡ πρώτη τομή· τὸ δὲ ἐν μέσῳ μυῶδες σαρκίον, μύρτον, ἢ νύμφη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "77-78",
+      "text": "Μυρτόχειλα δὲ τὰ ἑκατέρωθεν πτερυγώματα. —Τῆς ῥάχεως τὰ ὀστᾶ σφόνδυλοι· ἡ δὲ πᾶσα σύνθεσις τῶν σφονδύλων ἄκανθα· ἧς τὸ κατωτέρω ὀσφύς· τὸ δὲ τελευταῖον τῆς ῥάχεως ἱερὸν ὀστοῦν· οἱ δὲ ὑποσφόνδυλον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "79",
+      "text": "Τούτου τὸ ἄκρον, κόκκυξ καλεῖται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "80",
+      "text": "Τῆς δὲ ὀσφύος παρὰ ἑκάτερα γλουτοί· πυγαὶ δὲ [τὰ] μετὰ τὴν ὀσφὺν σαρκώδη, [ἃ] καὶ ἐφέδρανα καλεῖται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "81",
+      "text": "—Βουβῶνες δὲ αἱ ἀρχαὶ τῶν μηρῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "82",
+      "text": "Τῶν δὲ μηρῶν τὰ μὲν εἴσω μέρη παραμήρια, τὰ δὲ μεταξὺ τούτων πρὸς τὸν περίνεον, πλιχάδες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "83",
+      "text": "Οἱ δὲ πρὸς τοῖς γόνασι μύες, ἐπιγουνίδες· τὰ δὲ ὀστᾶ ἐπιγονατίδες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "84",
+      "text": "Ἱπποκράτης τοῦτο μύλην καλεῖ. Γόνυ δέ ἐστι τὸ ἄρθρον τοῦ μηροῦ, τὸ πρὸς τῇ κνήμῃ· ἡ δὲ σύγκαμψις, ἴγνυα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85-86",
+      "text": "Γαστροκνήμια δὲ ὁ μέγας μῦς ὁ ὄπισθεν τῆς κνήμης, ἀπὸ οὗ τὸ πλατὺ νεῦρον τὸ πρὸς τῇ πτέρνῃ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "87-88",
+      "text": "Τῶν δὲ ὀστῶν τὸ μὲν ὀπίσω κνήμη, τὸ δὲ ἔμπροσθεν ἀντικνήμιον. Τὰ δὲ ἄκρα πρὸς τοῖς ποσὶ σφυρά· ἀστράγαλοι δὲ οὐκ ὀρθῶς ὀνομάζονται· εἰσὶ μὲν γὰρ, ἀλλὰ οὐκ ἐμφανεῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "89",
+      "text": "Πτέρνα τὸ ὄπισθεν περιφανὲς τοῦ ποδός· τὸ δὲ ἐφεξῆς κοῖλον· τὸ δὲ μετὰ τοῦτο καλεῖται πεδίον, οὗ τὸ ἐπάνω ταρσός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "90",
+      "text": "Πέζα δὲ ἡ πᾶσα θέσις τοῦ ποδός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "91",
+      "text": "Δάκτυλοι δὲ, ὁμοίως [τοῖς] τῆς χειρὸς ὀνομάζονται.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "umi-al",
+      "title": {
+        "english": "Adornment of the Months",
+        "ancient_greek": "Κόσμος Μηνῶν"
+      },
+      "url_slug": "medical-writers-anonymous-months-adornment-umi-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/months-adornment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-months-adornment-umi-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-months-adornment-umi-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-months-adornment-umi-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-months-adornment-umi-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/months-adornment.epub"
+      }
+    },
+    {
+      "eul_wid": "umi-ao",
+      "title": {
+        "english": "Commentary-Urines",
+        "ancient_greek": "Ὑπόμνημα εἰς Οὖρα"
+      },
+      "url_slug": "medical-writers-anonymous-urines-umi-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/urines",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-urines-umi-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-urines-umi-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-urines-umi-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-urines-umi-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/urines.epub"
+      }
+    },
+    {
+      "eul_wid": "umi-ac",
+      "title": {
+        "english": "Diagnosis of Acute and Chronic Diseases",
+        "ancient_greek": "Διάγνωσις περὶ τῶν ὀξέων καὶ χρονίων νοσημάτων"
+      },
+      "url_slug": "medical-writers-anonymous-acute-chronic-diseases-umi-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/acute-chronic-diseases",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-acute-chronic-diseases-umi-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-acute-chronic-diseases-umi-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-acute-chronic-diseases-umi-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-acute-chronic-diseases-umi-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/acute-chronic-diseases.epub"
+      }
+    },
+    {
+      "eul_wid": "umi-ar",
+      "title": {
+        "english": "Medical Fragments",
+        "ancient_greek": "Διάφορα Ἀποσπάσματα"
+      },
+      "url_slug": "medical-writers-anonymous-fragments-umi-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-fragments-umi-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-fragments-umi-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-fragments-umi-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-fragments-umi-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "umi-aa",
+      "title": {
+        "english": "Names of Medical Instruments by Element Used in Surgeries",
+        "ancient_greek": "Ὀνόματα τῶν ἰατρικῶν ἐργαλείων κατὰ στοιχεῖα οἷς"
+      },
+      "url_slug": "medical-writers-anonymous-instruments-by-element-umi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/instruments-by-element",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-instruments-by-element-umi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-instruments-by-element-umi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-instruments-by-element-umi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-instruments-by-element-umi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/instruments-by-element.epub"
+      }
+    },
+    {
+      "eul_wid": "umi-ax",
+      "title": {
+        "english": "On Diet",
+        "ancient_greek": "Περὶ Διαιτῆς"
+      },
+      "url_slug": "medical-writers-anonymous-diet-umi-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/diet",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-diet-umi-ax.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-diet-umi-ax.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-diet-umi-ax.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-diet-umi-ax.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/diet.epub"
+      }
+    },
+    {
+      "eul_wid": "umi-av",
+      "title": {
+        "english": "On Foods (Long Treatise)",
+        "ancient_greek": "Περὶ Τροφῶν"
+      },
+      "url_slug": "medical-writers-anonymous-foods-av-umi-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/foods-av",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-foods-av-umi-av.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-foods-av-umi-av.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-foods-av-umi-av.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-foods-av-umi-av.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/foods-av.epub"
+      }
+    },
+    {
+      "eul_wid": "umi-aw",
+      "title": {
+        "english": "On Foods (Short Treatise)",
+        "ancient_greek": "Περὶ Τροφῶν"
+      },
+      "url_slug": "medical-writers-anonymous-foods-aw-umi-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/foods-aw",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-foods-aw-umi-aw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-foods-aw-umi-aw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-foods-aw-umi-aw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-foods-aw-umi-aw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/foods-aw.epub"
+      }
+    },
+    {
+      "eul_wid": "umi-am",
+      "title": {
+        "english": "On Generation and Seed",
+        "ancient_greek": "Περὶ Γενέσεως καὶ Σπέρματος"
+      },
+      "url_slug": "medical-writers-anonymous-generation-seed-umi-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/generation-seed",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-generation-seed-umi-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-generation-seed-umi-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-generation-seed-umi-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-generation-seed-umi-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/generation-seed.epub"
+      }
+    },
+    {
+      "eul_wid": "umi-as",
+      "title": {
+        "english": "On Lycanthropy",
+        "ancient_greek": "Περὶ λυκανθρωπίας"
+      },
+      "url_slug": "medical-writers-anonymous-lycanthropy-umi-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/lycanthropy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-lycanthropy-umi-as.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-lycanthropy-umi-as.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-lycanthropy-umi-as.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-lycanthropy-umi-as.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/lycanthropy.epub"
+      }
+    },
+    {
+      "eul_wid": "umi-au",
+      "title": {
+        "english": "On Pulses",
+        "ancient_greek": "Περὶ Σφυγμῶν"
+      },
+      "url_slug": "medical-writers-anonymous-pulses-umi-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/pulses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-pulses-umi-au.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-pulses-umi-au.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-pulses-umi-au.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-pulses-umi-au.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/pulses.epub"
+      }
+    },
+    {
+      "eul_wid": "umi-ad",
+      "title": {
+        "english": "On Urine According to the Persians",
+        "ancient_greek": "Περὶ Οὖρων κατὰ Πέρσας"
+      },
+      "url_slug": "medical-writers-anonymous-urine-persians-umi-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/urine-persians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-urine-persians-umi-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-urine-persians-umi-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-urine-persians-umi-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-urine-persians-umi-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/urine-persians.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "soi-ae",
+      "title": {
+        "english": "Books to Eunapius",
+        "ancient_greek": "Βιβλία πρὸς Εὐνάπιον"
+      },
+      "url_slug": "oribasius-of-pergamon-eunapius-soi-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/oribasius-of-pergamon/eunapius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon-eunapius-soi-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon-eunapius-soi-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon-eunapius-soi-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon-eunapius-soi-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/eunapius.epub"
+      }
+    },
+    {
+      "eul_wid": "mqm-aa",
+      "title": {
+        "english": "Botanical and Medicinal Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "crateuas-the-rhizotomist-botanical-medicinal-mqm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/crateuas-the-rhizotomist/botanical-medicinal",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crateuas-the-rhizotomist-botanical-medicinal-mqm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crateuas-the-rhizotomist-botanical-medicinal-mqm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crateuas-the-rhizotomist-botanical-medicinal-mqm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crateuas-the-rhizotomist-botanical-medicinal-mqm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crateuas-the-rhizotomist/botanical-medicinal.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ak",
+      "title": {
+        "english": "Commentaries-Hippocrates' Book III of Epidemics",
+        "ancient_greek": "Ὑπομνήματα εἰς Ἱπποκράτους Ἐπιδημιῶν Γ'"
+      },
+      "url_slug": "galen-of-pergamon-commentaries-epidemics-3-qmm-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/commentaries-epidemics-3",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-commentaries-epidemics-3-qmm-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-commentaries-epidemics-3-qmm-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-commentaries-epidemics-3-qmm-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-commentaries-epidemics-3-qmm-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-3.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-dy",
+      "title": {
+        "english": "On Antidotes",
+        "ancient_greek": "Περὶ ἀντιδότων"
+      },
+      "url_slug": "galen-of-pergamon-antidotes-qmm-dy",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/antidotes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-antidotes-qmm-dy.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-antidotes-qmm-dy.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-antidotes-qmm-dy.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-antidotes-qmm-dy.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/antidotes.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-bt",
+      "title": {
+        "english": "On Sophisms or Verbal Fallacies",
+        "ancient_greek": "Περὶ σοφισμάτων ἢ λογικῶν παγίδων"
+      },
+      "url_slug": "galen-of-pergamon-sophisms-qmm-bt",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/sophisms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-sophisms-qmm-bt.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-sophisms-qmm-bt.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-sophisms-qmm-bt.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-sophisms-qmm-bt.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/sophisms.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-cr",
+      "title": {
+        "english": "On the Causes of Diseases",
+        "ancient_greek": "Περὶ τῶν αἰτιῶν τῶν νόσων"
+      },
+      "url_slug": "galen-of-pergamon-causes-diseases-qmm-cr",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/causes-diseases",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-causes-diseases-qmm-cr.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-causes-diseases-qmm-cr.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-causes-diseases-qmm-cr.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-causes-diseases-qmm-cr.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/causes-diseases.epub"
+      }
+    },
+    {
+      "eul_wid": "soi-ad",
+      "title": {
+        "english": "Selections of Medicines",
+        "ancient_greek": "Ἐπιλογαὶ Φαρμάκων"
+      },
+      "url_slug": "oribasius-of-pergamon-medicinal-selections-soi-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/oribasius-of-pergamon/medicinal-selections",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon-medicinal-selections-soi-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon-medicinal-selections-soi-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon-medicinal-selections-soi-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon-medicinal-selections-soi-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/medicinal-selections.epub"
+      }
+    },
+    {
+      "eul_wid": "ojc-af",
+      "title": {
+        "english": "Summary-Pulses",
+        "ancient_greek": "Σύνοψις περὶ Σφυγμῶν"
+      },
+      "url_slug": "rufus-of-ephesus-pulses-ojc-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/rufus-of-ephesus/pulses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-pulses-ojc-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-pulses-ojc-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-pulses-ojc-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-pulses-ojc-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/pulses.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/medical-writers-anonymous/human-parts",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-human-parts-umi-ai.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-human-parts-umi-ai.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-human-parts-umi-ai.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-human-parts-umi-ai.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/human-parts.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

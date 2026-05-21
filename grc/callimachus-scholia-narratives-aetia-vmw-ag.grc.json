@@ -1,0 +1,524 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "vmw-ag",
+  "eul_aid": "vmw",
+  "author_slug": "callimachus-scholia",
+  "work_slug": "narratives-aetia",
+  "url_slug": "callimachus-scholia-narratives-aetia-vmw-ag",
+  "author": {
+    "english": "Callimachus Scholia",
+    "ancient_greek": "Καλλιμάχου Σχόλια"
+  },
+  "title": {
+    "english": "Narratives-Aetia Ancient Scholia",
+    "ancient_greek": "Διηγήσεις εἰς Αἴτια Ἀρχαῖα Σχόλια"
+  },
+  "seo": {
+    "browser_title": "Narratives Aetia Scholia by Callimachus Scholia on Eulogikon",
+    "meta_title": "Narratives Aetia Scholia by Callimachus Scholia in Greek",
+    "meta_description": "Ancient scholia providing commentary on Callimachus's Aetia with mythological narratives. Grammatical explanatory notes on Hellenistic poet's work."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<h3 class=\"research-heading\">Overview</h3>\n<p class=\"research-text\">The <strong>Narratives on the Ancient Aetia</strong> (Διηγήσεις εἰς Αἴτια Ἀρχαῖα Σχόλια) is a collection of twenty passages of ancient scholia, or explanatory commentaries, on Callimachus’s elegiac poem the <strong>Aetia</strong>. These scholia provide textual criticism, gloss difficult words, and elucidate the mythological and historical references within Callimachus’s learned text. As a compilation of notes by anonymous scholars, this collection is a vital source for understanding the reception and interpretation of Callimachus’s work from the Hellenistic period through late antiquity.</p>\n</div>\n<div class=\"research-section\">\n<h3 class=\"research-heading\">Content</h3>\n<p class=\"research-text\">The scholia address several key areas:</p>\n<ul class=\"research-list\">\n<li class=\"research-item\"><strong>Textual Criticism:</strong> Notes on variant readings and manuscript issues.</li>\n<li class=\"research-item\"><strong>Lexicography:</strong> Explanations of rare or archaic vocabulary.</li>\n<li class=\"research-item\"><strong>Mythography:</strong> Narratives and details of referenced myths.</li>\n<li class=\"research-item\"><strong>Historical Explanation:</strong> Clarification of customs, rituals, and figures.</li>\n<li class=\"research-item\"><strong>Literary Interpretation:</strong> Comments on poetic technique and allusions.</li>\n</ul>\n</div>\n<div class=\"research-section\">\n<h3 class=\"research-heading\">Transmission</h3>\n<p class=\"research-text\">These scholia are preserved within the margins and interlinear spaces of medieval manuscripts containing Callimachus’s works, primarily the 11th-century <strong>Laurentianus Conventi soppressi</strong> 627. The collection represents a specific subset of the larger, multi-layered corpus of commentary transmitted alongside the poet’s fragments.</p>\n</div>\n<div class=\"research-section\">\n<h3 class=\"research-heading\">Significance</h3>\n<p class=\"research-text\">The scholia are indispensable for the modern philological reconstruction of Callimachus’s fragmentary <strong>Aetia</strong>. They offer unique insights into the poem’s content and serve as a primary witness to the methods and concerns of ancient scholarly commentary, directly influencing contemporary critical editions.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "67 col Z",
+      "text": "[ ]ς παρθένου ἐκ [ Κυδί]ππης μήλῳ καλ[λίστῳ .......... ‘μὰ τὴ]ν Ἄρτεμιν, Ἀκον[τίῳ γαμοῦμαι‘ ........ ] . σ̣ενηδεηδε [ ]νετο· ὡς δε . ε [ ]η̣θει̣[ ... ]ι̣ν̣ .. ρω [ ] . γ̣α̣μ[] desunt 35 fere uersus [ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "67 col1",
+      "text": "... ] κ̣ . [ ... ]μ . χ [10 fere litt.] . [π]ροχείρως πα[ . ] uacat Εἴπ’ ἄγε μοι̣ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "77 col1 (3)",
+      "text": ".. [ . ] ... α[ ....... ] . [ . ] .... αιῆν̣ι̣ς [φ]ησὶν ἐν Ἤλιδι ε̣ . [ ] .... ν̣τ[ . ] . [γ]αμουμένας παρθ[ένους ] .. ο̣[ . ] . ο̣υ π[έ‐] πλους ἐχούσας σ̣[ ] . [ ..... ]ο̣υ̣[] [ .. ] δόρυ δὲ ἐν[] . δε φησιν α . [] ἄ̣ν̣δρα καθωπ̣[λισμένον] [Break in Text (point at which text breaks off for an unknown length)] Ὤφ̣ελες οὐλοὸν ἐγ̣[] [ ]ε̣ι̣ς Ἰσίνδιον δ̣[] [ ] .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "78 col1 (10)",
+      "text": "υπα[] [ ]σ̣ι̣σ̣[] ll. 14—24 desunt [ .. ] . [ .. ] . [] οισφ[ . ] . ια[] Τεῦ δὲ χάριν [ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "79 col1 (27)",
+      "text": "]ο̣ . [] κουσιν Ἑξῆ[ς] φ̣[ησι γυναῖκας δ]υ̣στοκούσας τὴν Ἄρτε̣[μιν καίπερ ο]ὖσαν παρθένον ἐπ̣[ικαλεῖν, ὅτι .. ] .. τη ἀπεκυήθη, ἢ ὅτι δ̣[ιὰ ἐφημοσύ‐] νην τοῦ Διὸς ἡ Εἰλείθυια [αὐτὴν] τοῦτ’ ἔχειν ἔδωκεν ἐξ[α]ί̣ρετον, ἢ διότι τὴν ἑαυτῆς μητ[έρα ἐ]λ̣ύσατο τῶν ὠδίνων ὅτε̣ ἀπέτικτεν τὸν Ἀπόλλωνα. Ἦλθες ὅτ’ ἐκ Πίσης, Εὐθύκλεες, ἄνδρας ἐλέγξας Φη[σ]ὶν Εὐθυκλῆν τὸν Ὀλυμπιονίκην, πεμφθέντα πρεσβευτὴν καὶ ἀνακάμψαντα οἴκαδε σὺν ἡμιόνο̣ι̣ς̣ ἃ εἰλήφει δῶρα παρά τινος ξένου, συκοφαντηθῆναι ὡς κατὰ τῆς πόλε[ως εἰλ]ηφότα· ἐφ’ ᾧ κατεψήφ[ισα]ν̣ αἰκίσασθαι [τ]ούτου τὸν ἀνδριάντα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "84-85 col2",
+      "text": "ἐπεὶ δὲ λοιμ[ὸ]ς ἐπικ̣α̣τ̣[έ]π̣[εσ]εν, ἔγνωσαν οἱ πολῖται αὐ[το]ῦ παρὰ τοῦ [Ἀ]πόλλωνος ὡς διὰ τὴν ἀ̣τιμ̣ί̣α̣ν̣ α̣ὐτο̣[ῦ π]ρ̣ο̣σβέβλητ[αι α]ὐτοῖς. τὸ μὲν ἄγαλμα τ̣[οῦ Εὐ]θυκλ[έο]υς κ̣ατ’ ἴσον τῷ τοῦ Διὸς ἐτ̣[ίμη]σαν, ἔτι δὲ καὶ βωμὸν ποιήσαντε[ς .. ] . τ̣[ . ] .. [ .. ]υ . [ . ἱ]σ̣ταμένου μηνός. [Μοῦ]σαί μοι βασιλη[ ἀεί]δειν [ Α]ὕτη πρώτη ἐλ[ε]γ̣[εία ]τ̣ρ̣ου̣[] [ ]ν̣ ἱστορία[ ]απερ[] [ ]σαι .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "86 col2 (10)",
+      "text": "[ ] . ει[] ll. 14—20 desunt [ ]ε [ ]ο̣π̣ε[] [ .. ]ι .. [ ]ω̣[ Ἀπ]όλλων γὰρ παῖς ὢν̣ κ̣[ρατήσας τοῦ] Πυθοῖ̣ δράκοντο[ς] ἀ[πενίψα]το [τὰς] χεῖρας ἐν τῷ Πη[ν]ει[ῷ .. ]ν̣δ̣[ . ] π̣α̣[ρα]κειμένην δάφνην ει̣δ̣[ .. ] . ει[ .. ] . ἐκτεμὼν περιβάλλει τῷ [ .... ]ειω̣ . ι. Ἔνθ’, Ἄβδηρ’, οὗ νῦν .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "90 col2 (29)",
+      "text": "[ ... ]λ̣εω φαρμακὸν ἀγινεῖ Ἀβδήροις ὠνητὸς ἄνθρωπος καθάρσιον τῆς πόλεως, ἐπὶ πλίνθου ἑστὼς φαιᾶς, θοίνης ἀπολαύων δαψιλοῦς, ἐπειδὰν διάπλεως γένηται, προάγεται ἐπὶ τὰς Προυρίδας καλουμένας πύλας· εἶτ’ ἔξω τοῦ τείχους περίεισι κύκλῳ περικαθαίρων (?) αὐτῷ τὴν πόλιν, καὶ τότε ὑπὸ τοῦ βασιλέως καὶ τῶν ἄλλων λιθοβολεῖται, ἕως ἐξελασθῇ τῶν ὁρίων. Α[ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "91-92 col2 (41)",
+      "text": "... ] Μ̣ελικέρτα, μιῆς ἐπὶ πότνια Βύνη Ἑξῆς· ἐπεὶ 〈σὺν〉 Μελικέρτῃ τῷ παιδὶ ἑαυτὴν κατεπόντισεν Ἰνώ, ἐξέπεσεν εἰς αἰγιαλὸν τῆς Τενέδου τὸ σῶμ[α] τοῦ Μελικέρτου· τοὺς δὲ ἐκεῖ ποτε κατοικοῦντας Λέλεγας ποιῆσαι αὐτῷ βωμόν, ἐφ’ οὗ ἡ πόλις ποιεῖ θυσίαν, ὅ̣ταν π̣ε̣ρὶ μεγάλων φοβῆται, το̣ι[ά]νδ[ε]· γυνὴ τὸ ἑαυτῆς βρέφος κα[ταθύσα]σ̣α̣ πα̣ραχρῆμα τυφλοῦται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "91-92 col3",
+      "text": "τοῦ[το δ’ ὕσ]τ̣ερον κατελύθη, ὅτε οἱ ἀπὸ Ὀ̣[ρέστου] Λέ[σβ]ον̣ ᾤκησαν. Νέκταρος [ ...... ]ν . υ̣θιον γένος ηραπεδ̣ο[ ]Λιπ̣αραι̣ο̣[ ....... ]ο Τυρσην̣[ ]ι̣ασ[] [ ... ]ετη̣σ̣[ ]δο[] [ ] .. [] ll. 17—23 desunt [ ] . τε[] Τὸν νεκρ[ὸ]ν .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "95 col3 (25)",
+      "text": "[ ...... ] . τ[ .... ]υβατονις τιναευω [ ...... ]μ̣[ . ]ν̣η̣ . ενουσπως αὑτοῦ πα[ῖ]δ[α Λειμ]ώνη̣ν̣ φθαρεῖσαν λάθρα εἰς τὸν θ[άλα]μ̣ο̣ν [σ]υγκατακλείσας ἵππῳ διὰ το[ύτ]ο̣[υ] διέφθειρεν· ὅθεν Ἀθήνησιν τόπο[ς] Ἵππου καὶ Κόρης· τὸν δὲ συγγενόμενον αὐτῇ δόρατι παίσας νεκρὸν ἐξέδησεν ἵππου, ὥστε κατὰ τοῦ ἄστεος σύρεσθαι. Θεοὶ πάντες κομποῖς νεμεσήμονες, ἐκ δέ τε πάντων Κυνηγὸς †αλωιος† ἑλὼν κάπρον ἐπεῖπεν οὐ δέον Ἀρτέμιδι ἀνατιθέναι τοὺς ἡγουμένους ἐκείνης καὶ ἑαυτῷ ἀνήρτησε τὴν κεφαλὴν τοῦ ὑὸς ἐξ αἰγείρου, ὑφ’ ᾗ καθυπνώσας ἐπιπεσούσης αὐτῷ τῆς κεφαλῆς ἀπέθανεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "97 col4",
+      "text": "Τυρσηνῶν τείχισμα Πελασγικὸν εἶχέ με γαῖα· Ἱστορεῖ περὶ τῶν Ἀθήνησιν Πελασγικῶν ὅρων (?) καὶ τοῦ ποιηθέντος ὑπ’ αὐτῶν τείχους. Εὐθύμου τὰ μὲν ὅσσα παραὶ Διὶ Πῖσαν ἔχοντι Ὅ[τ]ι ἐν Τεμέσῃ ἥρως περίλοιπος τῆς Ὀδ̣υ̣σσέως νεὼς ἐδασμοφόρει ἐπιχωρ[ίου]ς̣ τε καὶ ὁμόρους, οὓς κομίζοντας αὐτῷ κ̣λ̣ίνην καὶ κόρην ἐπίγαμον ἐ̣άσαντας ἀπέρχεσθαι ἀμεταστρεπτεί, ἕωθε̣[ν] δὲ τοὺς γονεῖς ἀντὶ παρθέ̣[ν]ου γυ̣[ναῖ]κα κομίζεσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "98 col4 (5)",
+      "text": "τὸν δὲ δ[ασ]μ̣ὸν [τοῦ]τον ἀπέλυσεν Εὔθυμος πύ̣κ̣της [ .. ] . λ̣έξας τὰς̣ [τῷ ἥρ]ωϊ κυν .. ζ̣[ ...... ]φ̣ηα̣φησ[ ........ ] ... πρ . [ ]το . [] συ[ ] .. [] ll. 18—21 desunt [ ]γ̣ι̣ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "100 col4 (22)",
+      "text": "α̣φ̣[] [ ...... τὸ ξόα]νον τῆς Ἥρας [ἀνδρι‐] [αντοειδὲ]ς̣ ἐ[γέ]νετο ἐπὶ β̣ασ̣ι̣λέως Προκ[λέους· τὸ] δὲ ξύ̣[λο]ν, ἐξ οὗ εἰργάσθη ε̣ .. η̣[ .... ] . αμ̣[ . ]ς .. ν, ἐξ Ἄργους δέ φασι[ ....... ]ο̣τ̣α̣ς ἔτι πάλαι σανιδῶδες [κομι]σθῆναι κάταργον ἅτε μηδέπω π[ροκ]ε̣κοφυίας τῆς ἀγαλματομικῆς. Ἥρῃ τῇ Σαμίῃ περὶ μὲν τρίχας ἄμπελος ἔρπει Λέγεται ὡς τῇ Σαμίᾳ Ἥρᾳ περιέρπει τὰς τρίχας ἄμπελος, πρὸς δ’ ἐδάφει λεοντῆ βέβληται, ὡς λάφυρα τῶν Διὸς νόθων παίδων, Ἡρακλέους καὶ Διονύσου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "102 col4 (36)",
+      "text": "Ἠισύμνας Ἐφέσου, Πασίκλεες, ἀλλ’ ἀπὸ δαίτης Φησὶν ὅτ[ι] Πασικλῆς Ἐφεσίων ἄρχων ἐξ εὐωχίας ἀνέλυεν· ἐπιτιθέμενοι δέ τινες αὐτῷ ὑπὸ τοῦ σκότους ἐδυσθέτουν, ὅτε δὲ προῆλθον 〈πρὸσ〉 τὸ Ἥραιον, ἡ μήτηρ τοῦ Πασικλέους ἱέρεια οὖσα διὰ τὸν ψόφον τοῦ διωγμοῦ λύχνον ἐκέλευσεν προενεγκεῖν 〈οἱ〉· οἱ δ̣ὲ̣ τυχόντες φωτὸ̣ς ἀνεῖλον αὐτῆς τὸ̣ν̣ παῖδα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "103 col5 (3)",
+      "text": "Ἥρως ὦ κατὰ πρύμναν, ἐπεὶ τόδε κύρβις ἀείδει Φησὶν ὅτι ὁ καλούμενος ‘κατὰ πρύμναν ἥρωσ‘ Ἀνδρόγεώς ἐστιν· 〈— — —〉 πάλαι γὰρ ἐνταῦθα τὸν Φαληρικὸν ὅρμον εἶναι, οὗ τὰς ναῦς ὁρμίζεσθαι πρὶν γενέσθαι τὸν Πειραιᾶ. Οἰσύδρεω Θρήϊκος ἐφ’ αἵματι πολλὰ Θάσοιο Φησὶν Παρίους Οἰσύδρην τὸν Θρᾷκα φονε[ύ]σαντας διαπολιορκηθῆναι Θασι[ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "104 col5 (9)",
+      "text": "... ]ως τὸ ἀρέσκον Βισάλταις [ἐ]πιτίμιο[ν τ]ίνειν ἔχρησεν ὁ θεός· οἱ δετειχο . [ ... ] . αυνοθ .. [ .... ]Θ̣ασίοις ἐρ[ω]τῶσ̣ι [ .... ]ε̣ιν . η . [ ....... ]π̣έμπειν πα[] . [ ...... ] . [ . ] . α . [ ......... ] .. π̣λ̣η̣ . κο . [] [ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "105 col5 (18)",
+      "text": "]δε[ ........ ] . υ̣[ .......... ]ιδετω̣νδ .. [] φ̣[ ........ ]π̣ισο[ .......... ]νο . [] [ ....... ]τ̣αιομ[ ............ ]καγ[] [ ....... ]σχι̣[ .. ] . [ .......... ]εναγι[] [ ..... ] .. φοραν α . [ ...... ]σημαιν . [] [ ..... ]σδεου . ε φι̣[λάδελ]φ̣ον ἀπολελ[] [ ... τ]ὴ̣ν̣ Ἀν[τ]ιγόνην ὡς οὐδὲ ἐκειν̣[] Ὧδε̣ [ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "107 col5 (25)",
+      "text": "... ]γ̣είνεσθε Πανελλάδος, ὧδε τελέ[σ]σαι Φ̣[η]σ̣ὶ Πευκετίων προσκαθημένων [τ]οῖς τ̣ε̣ίχεσι τῆς Ῥώμης τῶν Ῥωμαίων Γάϊον ἐναλλόμενον καταβαλεῖν τὸν̣ [ἐ]κείνων ἡγούμενον, τρωθῆναι δὲ εἰς τὸν μηρόν· μετὰ δὲ ταῦτα ἐπὶ τῷ σκάζειν δυσφορήσαντα παύσασθαι τῆς ἀθυμίας ὑπὸ τῆς μητρὸς ἐπιπληχθέντα. Ἀργὼ καὶ σέ, Πάνορμε, κατέδραμε, καὶ τεὸν ὕδωρ Φησὶ τοὺς Ἀργοναύτας ὑδρεύσασθαι ἀποβάντας εἰς Κύζικον ἀπολιπεῖν τὸν λίθον ἐνθάδε ᾧ ἐχρῶντο ἀγκύρᾳ, ἅ〈τε〉 ἐλαφρότερον ὄντα—τοῦτον δ’ ὕστερον καθιερωθῆναι Ἀθηνᾷ—, ἕτερόν γε μὴν βαρύτερον ἀναλαβε[ῖ]ν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "110 col5 (40)",
+      "text": "Πάντα τὸν ἐν γραμμαῖσιν ἰδὼν ὅρον ᾗ τε φέρονται Φησὶν ὅτι Κόνων κατηστέρισε τὸν Βερενίκης βόστρυχον, ὃν θεο[ῖς] ἀναθήσειν ὑπέσχετο κείνη, ἐπειδὰν ἐπανήκῃ ἀπὸ τῆς κατὰ Συρίαν μάχης.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "vmw-an",
+      "title": {
+        "english": "Argument of Hecale",
+        "ancient_greek": "Προοίμιον Ἑκάλης"
+      },
+      "url_slug": "callimachus-scholia-hecale-vmw-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/hecale",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-hecale-vmw-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-hecale-vmw-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-hecale-vmw-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-hecale-vmw-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hecale.epub"
+      }
+    },
+    {
+      "eul_wid": "vmw-aj",
+      "title": {
+        "english": "Commentary-Aetia I",
+        "ancient_greek": "Ὑπόμνημα εἰς Αἴτια Α΄"
+      },
+      "url_slug": "callimachus-scholia-aetia-aj-vmw-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/aetia-aj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-aetia-aj-vmw-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-aetia-aj-vmw-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-aetia-aj-vmw-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-aetia-aj-vmw-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/aetia-aj.epub"
+      }
+    },
+    {
+      "eul_wid": "vmw-ab",
+      "title": {
+        "english": "Fragments of Scholia of Uncertain Placement",
+        "ancient_greek": "Ἀποσπάσματα Σχολίων ἀδήλου θέσεως"
+      },
+      "url_slug": "callimachus-scholia-uncertain-placement-vmw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/uncertain-placement",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-uncertain-placement-vmw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-uncertain-placement-vmw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-uncertain-placement-vmw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-uncertain-placement-vmw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/uncertain-placement.epub"
+      }
+    },
+    {
+      "eul_wid": "vmw-ak",
+      "title": {
+        "english": "Narratives of Fables",
+        "ancient_greek": "Διηγήσεις Μύθων"
+      },
+      "url_slug": "callimachus-scholia-narratives-vmw-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/narratives",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-narratives-vmw-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-narratives-vmw-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-narratives-vmw-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-narratives-vmw-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives.epub"
+      }
+    },
+    {
+      "eul_wid": "vmw-ad",
+      "title": {
+        "english": "Narratives-Hecale Ancient Scholia",
+        "ancient_greek": "Διηγήσεις Ἑκάλης Ἀρχαῖα Σχόλια"
+      },
+      "url_slug": "callimachus-scholia-narratives-hecale-vmw-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/narratives-hecale",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-narratives-hecale-vmw-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-narratives-hecale-vmw-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-narratives-hecale-vmw-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-narratives-hecale-vmw-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives-hecale.epub"
+      }
+    },
+    {
+      "eul_wid": "vmw-aa",
+      "title": {
+        "english": "Narratives-Hymns I and II Ancient Scholia",
+        "ancient_greek": "Διηγήσεις εἰς Ὕμνους Α' καὶ Β' Ἀρχαῖα Σχόλια"
+      },
+      "url_slug": "callimachus-scholia-narratives-hymns-vmw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/narratives-hymns",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-narratives-hymns-vmw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-narratives-hymns-vmw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-narratives-hymns-vmw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-narratives-hymns-vmw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives-hymns.epub"
+      }
+    },
+    {
+      "eul_wid": "vmw-ae",
+      "title": {
+        "english": "Narratives-Iambos Ancient Scholia",
+        "ancient_greek": "Διηγήσεις εἰς Ἴαμβον Ἀρχαῖα Σχόλια"
+      },
+      "url_slug": "callimachus-scholia-narratives-iambos-vmw-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/narratives-iambos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-narratives-iambos-vmw-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-narratives-iambos-vmw-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-narratives-iambos-vmw-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-narratives-iambos-vmw-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives-iambos.epub"
+      }
+    },
+    {
+      "eul_wid": "vmw-af",
+      "title": {
+        "english": "Narratives-Lyrica Ancient Scholia",
+        "ancient_greek": "Διηγήσεις εἰς Λυρικὰ Ἀρχαῖα Σχόλια"
+      },
+      "url_slug": "callimachus-scholia-narratives-lyrica-vmw-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/narratives-lyrica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-narratives-lyrica-vmw-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-narratives-lyrica-vmw-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-narratives-lyrica-vmw-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-narratives-lyrica-vmw-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives-lyrica.epub"
+      }
+    },
+    {
+      "eul_wid": "vmw-am",
+      "title": {
+        "english": "Scholia on Hymn III (Manuscript)",
+        "ancient_greek": "Σχόλια εἰς Ὕμνον Γ΄"
+      },
+      "url_slug": "callimachus-scholia-hymn-iii-am-vmw-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/hymn-iii-am",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-hymn-iii-am-vmw-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-hymn-iii-am-vmw-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-hymn-iii-am-vmw-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-hymn-iii-am-vmw-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hymn-iii-am.epub"
+      }
+    },
+    {
+      "eul_wid": "vmw-al",
+      "title": {
+        "english": "Scholia on Hymn III (P.Oxy. fragments)",
+        "ancient_greek": "Σχόλια εἰς Ὕμνον Γ΄"
+      },
+      "url_slug": "callimachus-scholia-hymn-iii-al-vmw-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/hymn-iii-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-hymn-iii-al-vmw-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-hymn-iii-al-vmw-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-hymn-iii-al-vmw-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-hymn-iii-al-vmw-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hymn-iii-al.epub"
+      }
+    },
+    {
+      "eul_wid": "vmw-as",
+      "title": {
+        "english": "Scholia on Iambi (Marginal)",
+        "ancient_greek": "Σχόλια εἰς Ἴαμβον"
+      },
+      "url_slug": "callimachus-scholia-iambos-as-vmw-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/iambos-as",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-iambos-as-vmw-as.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-iambos-as-vmw-as.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-iambos-as-vmw-as.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-iambos-as-vmw-as.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/iambos-as.epub"
+      }
+    },
+    {
+      "eul_wid": "vmw-ar",
+      "title": {
+        "english": "Scholia on Iambi (Narrative Summaries)",
+        "ancient_greek": "Σχόλια εἰς Ἴαμβον"
+      },
+      "url_slug": "callimachus-scholia-iambos-ar-vmw-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/iambos-ar",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-iambos-ar-vmw-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-iambos-ar-vmw-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-iambos-ar-vmw-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-iambos-ar-vmw-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/iambos-ar.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "piw-ab",
+      "title": {
+        "english": "Allegories-Hesiod's Theogony",
+        "ancient_greek": "Ἀλληγορίαι εἰς τὴν Θεογονίαν τοῦ Ἡσιόδου"
+      },
+      "url_slug": "galen-of-pergamon-ii-allegories-theogony-piw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon-ii/allegories-theogony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-ii-allegories-theogony-piw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-ii-allegories-theogony-piw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-ii-allegories-theogony-piw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-ii-allegories-theogony-piw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-ii/allegories-theogony.epub"
+      }
+    },
+    {
+      "eul_wid": "ppu-aa",
+      "title": {
+        "english": "Chapters to the Preface of Scholia-Pindar's Poems",
+        "ancient_greek": "Κεφάλαια εἰς τὴν Προοίμιον Σχολίων εἰς Πινδάρου"
+      },
+      "url_slug": "pindar-scholia-preface-chapters-ppu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pindar-scholia/preface-chapters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-preface-chapters-ppu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-preface-chapters-ppu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-preface-chapters-ppu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-preface-chapters-ppu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia/preface-chapters.epub"
+      }
+    },
+    {
+      "eul_wid": "mlw-aq",
+      "title": {
+        "english": "Eustathius-derived Scholia on Clouds",
+        "ancient_greek": "Σχόλια εἰς Νεφέλας"
+      },
+      "url_slug": "aristophanes-scholia-clouds-aq-mlw-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/clouds-aq",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-aq-mlw-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-aq-mlw-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-aq-mlw-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-aq-mlw-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/clouds-aq.epub"
+      }
+    },
+    {
+      "eul_wid": "nei-aa",
+      "title": {
+        "english": "Gregory of Corinth-Tropes",
+        "ancient_greek": "Γρηγορίου τοῦ Κορινθίου περὶ τρόπων"
+      },
+      "url_slug": "tryphon-grammarian-tropes-nei-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/tryphon-grammarian/tropes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphon-grammarian-tropes-nei-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphon-grammarian-tropes-nei-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphon-grammarian-tropes-nei-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphon-grammarian-tropes-nei-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphon-grammarian/tropes.epub"
+      }
+    },
+    {
+      "eul_wid": "oqa-ab",
+      "title": {
+        "english": "Metric Introduction",
+        "ancient_greek": "Μετρικὴ εἰσαγωγή"
+      },
+      "url_slug": "hephaestion-of-alexandria-metric-introduction-oqa-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hephaestion-of-alexandria/metric-introduction",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria-metric-introduction-oqa-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria-metric-introduction-oqa-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria-metric-introduction-oqa-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria-metric-introduction-oqa-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/metric-introduction.epub"
+      }
+    },
+    {
+      "eul_wid": "oow-aa",
+      "title": {
+        "english": "On Proper Expression, Epitome under the Name of Herennius Philo",
+        "ancient_greek": "Περὶ κυριολεξίας"
+      },
+      "url_slug": "philon-of-byblos-proper-expression-oow-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philon-of-byblos/proper-expression",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-proper-expression-oow-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-proper-expression-oow-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-proper-expression-oow-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-proper-expression-oow-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/proper-expression.epub"
+      }
+    },
+    {
+      "eul_wid": "oyc-aa",
+      "title": {
+        "english": "On the Difference of Words by Element",
+        "ancient_greek": "Περὶ διαφορᾶς λέξεων"
+      },
+      "url_slug": "ptolemy-of-ascalon-difference-words-element-oyc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-ascalon/difference-words-element",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-ascalon-difference-words-element-oyc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-ascalon-difference-words-element-oyc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-ascalon-difference-words-element-oyc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-ascalon-difference-words-element-oyc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-ascalon/difference-words-element.epub"
+      }
+    },
+    {
+      "eul_wid": "vta-ab",
+      "title": {
+        "english": "Scholia-Odyssey 1.1–309",
+        "ancient_greek": "Σχόλια εἰς Ὀδύσσειαν αʹ αʹ–τθʹ"
+      },
+      "url_slug": "homer-commentary-anonymous-scholia-odyssey-1-vta-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer-commentary-anonymous/scholia-odyssey-1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-scholia-odyssey-1-vta-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-scholia-odyssey-1-vta-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-scholia-odyssey-1-vta-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-scholia-odyssey-1-vta-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous/scholia-odyssey-1.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/callimachus-scholia/narratives-aetia",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-narratives-aetia-vmw-ag.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-narratives-aetia-vmw-ag.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-narratives-aetia-vmw-ag.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-narratives-aetia-vmw-ag.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives-aetia.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

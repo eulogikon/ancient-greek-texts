@@ -1,0 +1,1182 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "hps-an",
+  "eul_aid": "hps",
+  "author_slug": "menander-of-athens",
+  "work_slug": "new-misumenus",
+  "url_slug": "menander-of-athens-new-misumenus-hps-an",
+  "author": {
+    "english": "Menander of Athens",
+    "ancient_greek": "Μένανδρος ὁ Ἀθηναῖος"
+  },
+  "title": {
+    "english": "New Fragments of Misumenus",
+    "ancient_greek": "Νέα Ἀποσπάσματα Μισουμένου"
+  },
+  "seo": {
+    "browser_title": "The Fragments of Misumenus by Menander on Eulogikon",
+    "meta_title": "Fragments of Misumenus by Menander in Ancient Greek",
+    "meta_description": "Fragments of Misumenus: 114 passages from a lost comedy by Menander. Preserves Attic Greek verse. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>New Fragments of Misumenus</strong> constitute a collection of 114 passages recovered from a lost comedy by the Athenian playwright Menander. Composed in Attic Greek verse around the late fourth or early third century BCE, the work is a prime example of New Comedy, a genre characterized by its focus on domestic scenarios, romantic complications, and stereotypical figures from everyday Hellenistic society. The fragments preserve several consecutive scenes, enabling scholars to piece together a plot that likely centers on a protagonist who becomes universally disliked due to a misunderstanding, exploring familiar Menandrian themes of recognition, reconciliation, and the restoration of social harmony.</p>\n<p class=\"research-text\">The play was lost for centuries, surviving only in scant ancient quotations, until a significant portion was rediscovered in the twentieth century within a papyrus codex. This manuscript, designated Papyrus Bodmer 4 and dated to the third or fourth century CE, contained a damaged but extensive copy of <strong>Misumenus</strong> among other comedies by Menander. Modern scholarship regards this discovery as transformative, offering vital evidence for understanding Menander&#x27;s dramatic craftsmanship and the architectural principles of his plays. Originally written for the Athenian stage, <strong>Misumenus</strong> would have engaged with the standard concerns of New Comedy—love, family dynamics, and social standing—through a lens of humor and ethical contemplation.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book vert",
+      "text": "ἱκετηρίαν〈:〉 τ̣ί̣ λέγου[ς’; ⸤ἐμοὶ μαχεῖ, τάλαν;[ln_34]‵—′[ln_35][μ]ὰ Δι’, ἀλλ’ ἐκεί[νωι,] φ̣[η⸤σί, δεινὸν γὰρ βίον ζῆι κ̣[α]ὶ̣ τ̣α̣λ̣α̣ί̣πωρον τ[ί⸤ν’, οὐ γάρ; μακάριον αὕτη .. καὶ ζηλω⸤τό⸥ν(?) ⸤ὄνθ’ οὕτω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.1",
+      "text": "[ἆρ’ ο̣]ὗ̣τ̣ός ἐστ⸤ι [ αὐ⸤τῶν⸥ θάτερος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.2",
+      "text": "σα̣[ ]ε[ln_30][ ⸥. γάρ, ὦ πο̣λυ̣τίμητ[οι θεοί] [ ]π̣ως",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.3",
+      "text": "το̣ῦτ[ο] δὴ τὸ το[ῦ] λ̣ό̣γο̣υ̣ [ ]... ἦισεν ἀνθρώπων [ ] ⸤ἀγαθὸν ἄκουσ⸥μ’ ἥκει⸤ς π⸥ρὸς ἡμᾶς· ἀλλὰ τί [ ]κάμ⸥πτεις καὶ π⸤ά⸥λ⸤ι⸥ν ⸤σ⸥τέλλει δι⸤δοὺσ⸥[ln_35]⸤τὰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.4",
+      "text": "συμβολὰς εἰ μή τι κα⸥κὸν ἡμᾶς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.5",
+      "text": "ποεῖς; ⸤ ⸥κελεύσω τ⸤ο⸥ῦτον ἐπὶ δεῖπνον πάλι⸤ν⸥ ⸤τὸν δε[σπ]ότ⸥ην κ⸤α⸥λέσαν⸤τ⸥α; φανερῶς ἐστι γὰρ [ β]α⸥διο⸤ῦμ’⸥ εἴσω δὲ ⸤κα⸥ὶ πειράσομ⸤α⸥ι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.1",
+      "text": "[spk_(γραυς)][κρύπτω]ν ἐμαυτὸν ἐπιθεωρῆσαί⸥ τι τῶν [ποιουμέ]νων ἔνδον λαλουμέ⸥νω⸤ν⸥ θ’ ⸤ἅ⸥μα. (ΓΡΑΥΣ) [ ]τερον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.2",
+      "text": "τούτου, μὰ τὼ⸥ θε⸤ώ, ξέ⸥νον οὐπώπο]τ’ εἶδον· αἲ τάλας· τ⸥ί β⸤ού⸥λεται[ln_5][ ]ρ̣’ οἴκῳ τὰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.3",
+      "text": "σπάθασ⸥ τῶν γειτόνων [α]ὐ̣τὰς εἰς μέσον [πο]λ̣ὺν̣ [χ]ρ̣όνον̣· []εν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.4",
+      "text": "ταυτ⟦..⟧ .ασαι [ ]α̣[.]ω̣ν εἰ β̣ο̣ύλεται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert",
+      "text": "[ln_10][spk_γ[ρ]αυ(σ)][]α̣λ̣λα [..].... ‵Γ[Ρ]ΑΥ(Σ)′[ln_11][]δ̣εῖξο̣[ν]: αὐτ[.]ς θ̣ης̣... ‵Δ[Η]ΜΕΑΣ′[ln_12][].μ̣ι.ι̣ς : καλῶς []εγω ‵ΔΗΜΕΑΣ′[ln_14][].ε̣ιδον : ..[..]ρ[.]ν̣",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.1",
+      "text": "[ln_15][spk_:",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.2",
+      "text": "(γραυς)][ τὴ]ν̣ θύ̣ρα̣ν̣ κό̣ψ̣ασά μοι : (ΓΡΑΥΣ) [ αὐτὸς] κ̣ό̣π̣τ̣ε̣· [τί] μ̣’ ἐνοχλεῖς τάλαν : [ ]....τρ’ ἔχω δέδ〈ε〉ιχα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.3",
+      "text": "σοί·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.1",
+      "text": "[spk_(δημεας)](ΔΗΜΕΑΣ) [ ἐ]κκάλει κα[..]αλ̣ε̣τ̣ου [: ὧν [τυγ]χ̣άνω(?)[ln_20][ ]υ̣ τὴν ἐ̣μ̣ὴν̣ [ταύ]τ̣ην ὅλ̣ωσ(?)[ln_21a][ ].θύραν [..].[..]....[ln_21b][ ]σα.ην ἔ̣γωγε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.2",
+      "text": "φι̣[...]..τονθ̣..ως[ln_22][]ς· καλοῦ []η̣σάμην []π̣οτε[ln_31][ το]ῦτ̣[ο] γέγονε[[ln_33](ΔΗΜΕΑΣ) [ παῖ παῖδε[ς]· ἐ[π]ανάξω̣· ψ̣[οφεῖ][ln_33]‵—′ αὐτῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.3",
+      "text": "προϊών",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.4",
+      "text": "τις εἰ̣ς̣ τὸ π̣[ρόσθ]ε̣[ν τὴν θύραν.][ln_34]‵—′",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert",
+      "text": "[ln_35][spk_γυνη]ΓΥΝΗ ο̣ὐ̣κ ἂν [δυ]ναίμην κ[α]ρ̣τ̣ερ̣[ε]ῖ[ν ΚΡΑΤΕΙΑ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert",
+      "text": "[ln_36][spk_δημεας]‵—′ ΔΗΜΕΑΣ ὦ Ζε⸤ῦ τί⸥ν’ ὄψιν οὐδὲ π⸤ροσδ[οκωμένην] ‵ ΚΡΑΤΕΙΑ′[ln_38]ὁ[ρ]ῶ : τί β⸤ο⸥ύλ⸤ει⸥, τηθία, τί ⸤μοι λαλεῖς;⸥",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.1",
+      "text": "[spk_(δημεας)]‵ (ΔΗΜΕΑΣ) (ΚΡΑΤΕΙΑ)′[ln_1]πατὴρ ἐμό⸤ς; ποῦ; παιδίον Κράτεια. [τίς] καλεῖ με; πάπ⸤πα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.2",
+      "text": "χαῖρε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.3",
+      "text": "πολλὰ φίλτατ[ε:] ‵ (ΚΡΑΤΕΙΑ)′[ln_3](ΔΗΜΕΑΣ) ⸤ἔ⸥χω σ̣ε̣ ⸤τέκνον. ὦ ποθούμενος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.4",
+      "text": "φαν[είς] ὁρῶ ς’ ὃν οὐ⸤κ⸥ ἂν ⸤ὠιόμην ἰδεῖν ἔτι.[ln_4]‵—′[ln_5]‵ (ΔΗΜΕΑΣ) (ΓΕΤΑΣ)′",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.1",
+      "text": "[ln_5][spk_γετας]ΓΕΤΑΣ ἐξῆλθεν ἔξω. ⸤παῖ, τί τοῦθ’· αὕτη τί σ[οί;] ἄνθρωπε, τί ποεῖς ⸤οὗτος; οὐκ ἐγὼ ’λέγον; ἐπ’ αὐτ⸤ο⸥φώρωι τόνδε τὸν ⸤ζητούμε[νον] ⸤ἔ⸥χω· γέρων ο⸤ὗτό⸥ς ⸤γ⸥ε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.2",
+      "text": "πολ⸤ιὸς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.3",
+      "text": "φαίνε[ται], ἐτ⸥ῶ⸤ν⸥ τ⸤ι⸥ς ἑξήκονθ’· ⸤ὅμ⸥ω̣ς̣ ⸤δὲ κλαύ[σεται.]",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.1",
+      "text": "[ln_10][spk_(κρατεια?)]⸤τίνα⸥ περιβάλλει⸤ν καὶ φ⸥ι⸤λεῖν οὗτος [δοκεῖς;] (ΚΡΑΤΕΙΑ?) [οὑ]μὸς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.2",
+      "text": "πατήρ γε[ (ΓΕΤΑΣ) οὕτω γελοῖος· οὐκ̣..[ τίς εἶ πόθεν θ’[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.1",
+      "text": "[ln_13][spk_δημεας]‵—′ ΔΗΜΕΑΣ αὐτὸς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.2",
+      "text": "πορε[υ‐",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor",
+      "text": "[ln_15][spk_(γετας?)](ΓΕΤΑΣ?) ταύτης : ἀληθῶς .[ ὅδ’ ἐστὶν ὁ γέρων : λαμ[ τί τοῦτο; κ̣α̣ὶ σὺ γραιδ[ί]ο̣[ν (?)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.1",
+      "text": "[spk_δημ][..]λεις· πόθεν βέλτιστε [ ‵ ΔΗΜ ΓΕΤ′[ln_19]οἴκοθεν; ἐ[βο]υλόμην ἄν· ἀλ̣λ̣[ὰ τ]υγχάν[εις][ln_20]‵ΔΗΜ′[ln_20][ἀ]πόδημος ὢν ἐκεῖθεν; ἐκ Κύπρου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.2",
+      "text": "παρὼ[ν] ἐ̣νταῦθα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.3",
+      "text": "πρῶτον τῶν ἐμῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.4",
+      "text": "ταύτην ὁρ[ῶ.] καὶ δῆλον ὡς ἔσπαρκε τῶν οἴκοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.5",
+      "text": "τινὰς ὁ κοινὸς ἐχθρὸς πόλεμος ἄλλον̣ ἀλλαχῆι:",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor",
+      "text": "[ln_23][spk_γετας]‵—′ ΓΕΤΑΣ ἔχει γὰρ οὕτως· αἰχμάλωτος γενομένη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.1",
+      "text": "[ln_25][spk_δημεας]αὕτη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.2",
+      "text": "πρ[ὸ]ς ἡμᾶς ἦλθε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.3",
+      "text": "τοῦτον τ[ὸ]ν τ[ρ]όπον· [δ]ρ̣αμὼ̣ν δὲ σοὶ τὸν δεσ̣πότη̣ν̣ ἤ̣δ̣η κα̣λ̣ῶ· ‵ΔΗΜΕΑΣ′[ln_27][]ο̣ὕτω πό̣ει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.1",
+      "text": "[ln_35][spk_(δημεας)][ τίς λέγει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.2",
+      "text": "σοι τὸ̣ν λό̣γ̣ο̣[ν;] ‵ (ΔΗΜΕΑΣ) (ΚΡΑΤΕΙΑ)′[ln_36][ ] ἀπ[ό]λω[λ]’ : ο̣ἴ̣μ̣ο̣ι τάλαινα τῆς ἐμ̣[ῆς] [ ] ὡ̣ς οἰκτρά, πάπ〈π〉α φίλτατε ‵ΔΗΜΕΑΣ′[ln_38][ ]..τέθ[ν]ηχ’; ὑφ’ οὗ θ’ ἥκιστ’ ἐχ̣[ρῆν [ ]οἶδα κα̣ὶ̣ συν[ῆκ’[ln_40][ ]τ’ οὖσα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.3",
+      "text": "του[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.1",
+      "text": "(ΔΗΜΕΑΣ) ⸤διὰ τί Κράτεια φ[.]ρ̣[[ln_1]‵—′ ὁ τοῦτ̣⸤ο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.2",
+      "text": "πράξας ε̣[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert",
+      "text": "[ln_2][spk_(κρατεια)]‵—′ (ΚΡΑΤΕΙΑ) ἀ̣⸤λ̣λά, πάτερ, ε[ἰσίωμεν ].α ἅ̣π̣⸤αν⸥τ’ ἀ̣[.....ο]ὐκ[..",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.1",
+      "text": "[ln_5][spk_θρασωνιδης]βουλευτ⸤έ⸥ον νῦν ἐστ[ίν·] ἀλλ[ ζ⸤ῆν .. πρέπει⸥ με[ ΘΡΑΣΩΝΙΔΗΣ ὦ τ⸤ο⸥ῦ παραδόξου καὶ τα̣λ̣α̣ι̣π̣[ώρ]ο̣υ̣ [βίου].[ln_7]‵—′ πατὴρ Κρα⸤τ⸥είας, φήις, ἐλήλ[υ]θ’ ..[ νῦν ἢ μακάριον ἢ τρισαθλιώτατον[ln_10]δείξεις με τῶν ζώντων ἁπάντ⸤ων γε⸥γονότα. ε⸤ἰ μὴ⸥ γὰρ οὗτος δοκιμάσ⸤ε⸥ι μ̣ε̣ κυρίως δ⸤ώσ⸥ει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.2",
+      "text": "τε ταύτην, οἴχεται ⸤Θρασωνίδ⸥ης. ὃ μὴ γένοιτ’· ἀλλ’ εἰσίωμεν· [οὐ(?)]κέτι τ̣ὸ τοιοῦτον εἰκάζειν γάρ, εἰ̣δ̣έναι [δὲ] δεῖ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.1",
+      "text": "[ln_15][spk_γετας]ἡμᾶς· ὀκνηρῶς καὶ τρέμων εἰσ[έρ]χ̣ο̣μ[αι· μαντεύεθ’ ἡ ψυχή τί μου, Γέτα, κακό̣ν̣· δέδοικα· βέλτιον δ’ ἅπαξ γ̣ν̣[ῶναί με τ]ῆς ‵ ΓΕΤΑΣ′[ln_18]οἰησέως. πῶς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.2",
+      "text": "ταῦτα θαυμάσαιμι̣ δ’ [ἄ]ν̣;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.1",
+      "text": "[ln_18][spk_(κλεινιας)]‵—′ (ΚΛΕΙΝΙΑΣ) ξένος ἐστὶν εἷς, μάγειρε· κἀγὼ καὶ̣ τ̣ρ̣ί̣τ̣η[ln_20]ἐμή τις—εἴπερ, νὴ Δί’, εἰσελή̣λυ̣θε̣ν̣. ἀγωνιῶ γ̣ὰρ καὐτός· εἰ δὲ μή, μόνο̣ς̣ ὁ ξένος· ἐγὼ γὰρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.2",
+      "text": "περιδρ̣α̣μοῦμαι τὴν̣ π̣[όλιν] ζητῶν ἐκείνην πᾶ̣σ̣α̣ν̣· ἀλλὰ πάραγ̣ε̣ [σύ καὶ τοῦ ταχέως, μάγειρε, φρόντισ[ο]ν πάνυ̣.[ln_24]‵—′",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert",
+      "text": "[ln_25][spk_χορου]ΧΟΡΟΥ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.1",
+      "text": "[ln_25][spk_κλεινιας]ΚΛΕΙΝΙΑΣ τί φήις; ἐπιγνοὺς τὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.2",
+      "text": "σπάθην τὴν κειμέν[ην ἔνδον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.3",
+      "text": "παρ’ ἡμῖν ὤιχεθ’ ὡς τ̣οὺς γείτονας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.4",
+      "text": "τούτων ἀκούσας οὖσαν αὐτ[ήν]; π̣ηνίκα̣ ἔθεντο δ’ οὗτοι δεῦρο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.5",
+      "text": "τα̣[ύτ]ην ἢ τίνος ἕνεκα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.6",
+      "text": "πρὸς ἡμᾶς, γραῦ̣; [[ln_31]ε̣ὔ̣δηλος̣ ἐψόφηκε· [προ]ιὼν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.7",
+      "text": "φαίν[ε]ται αὐ̣τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.8",
+      "text": "τις· ὥστε πά̣ν̣τ’ ἀ̣κ̣ούσομαι σ⸤α⸥φῶ[ς].",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert",
+      "text": "[ln_32][spk_(γετας)]‵—′ (ΓΕΤΑΣ) ὦ Ζεῦ πολυτίμητ’, ὠμότητος ἐκτόπ⸤ου⸥ ἀμφοῖν ἀπανθρώπο̣υ̣ τ̣ε, νὴ τὸν ἥ⸤λιον⸥.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.1",
+      "text": "[ln_35][spk_(κλεινιας)]‵—′ (ΚΛΕΙΝΙΑΣ) ξένος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.2",
+      "text": "τις εἰσελήλυθ’ ἀρτίως, Γέ⸤τα⸥, ‵ΓΕΤΑΣ′[ln_36]ἐ̣νθάδε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.3",
+      "text": "πρὸς ὑμᾶς; Ἡράκλεις, αὐθαδίας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.1",
+      "text": "[spk_κλεινιας][]⸤ἀν]θ̣[ρ]ώπου λαβεῖν⸥ ‵ΚΛΕΙΝΙΑΣ′[ln_2]γυναικ[τουτ⸥ὶ λαλῶ:[ln_2]‵—′ ‵ΚΛΕΙΝΙΑΣ′[ln_3]φ[]: Δημέ⸥ας .[]ν̣ος μ[ηδ]ὲ γρῦ[ln_5][]σ̣α[.]αι γ[ὰ]ρ, Δημέα [].α̣ὐτὸς [..]ε̣⸥ρ⸤α⸥ς ἐγὼ [ταύτης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.2",
+      "text": "πατ]ὴρ 〈καὶ〉 κύριος· ταυτὶ λέγει [....].α⸥ κλαῶν ἀντιβολῶν ὄνος λύρας·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor",
+      "text": "[ln_8][spk_(κλεινιας)]‵—′ (ΚΛΕΙΝΙΑΣ) [σ]υμ⸤περ⸥ιπατήσω καὐτὸς ὡς ἐμοὶ δοκῶ.[ln_9]‵—′",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor",
+      "text": "[ln_10][spk_γετας]ΓΕΤΑΣ ἓν τ⸤οῦτ⸥ο δ’ † ειρει τὴν ἐμαυ⸤τοῦ⸥ ς’ ἀξιῶ ἥκω[ν] ἀπολυτροῦν ὢν π⸤ατήρ· ἐγὼ δέ⸥ γε αἰτῶ ⸤γυ⸥ναῖκα ς’ ἐντετυχηκὼ⸤σ⸥ Δη⸤μέ⸥α:",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor",
+      "text": "[ln_12][spk_κλει(νιας)]‵—′ ΚΛΕΙ(ΝΙΑΣ) ἔνδ[ο]ν μὲ̣ν̣ ἔσθ’ ἅνθρωπος εἰσεληλυθώς. το̣ὔ̣ν̣ο̣μ̣α λέγει γὰρ οὑτοσὶ τὸν Δημέαν.[ln_14]‵—′",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor",
+      "text": "[ln_15][spk_[γε]τα(σ)][ΓΕ]ΤΑ(Σ) ὦ [Ἡρά]κλεις· ἀνθρωπίνως ἂν οὐ λάβοι τὸ συμβεβηκός; ὗς ὀρεῖ, τὸ τοῦ λόγου. ἀλλ’ οὐχ̣ὶ̣ ἀλλ’ αυτη πάλιν [ ]λ̣έ̣γ̣ο̣ν̣τος · ἀντιβολῶ, Κράτεια, σέ, μή μ’ ἐ̣[γκ]α̣τ̣αλίπηις· παρθένον ς’ εἴ[λ]ηφ’ ἐγ[ώ],",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.1",
+      "text": "[ln_20][spk_γετας]ἀνὴρ ἐκλήθην, πρῶτος ἠγάπησά σε, [ἀγ]α̣πῶ, φιλῶ̣, Κράτεια· φιλτάτη, τί σοι λ̣υ̣πηρόν ἐστ[ι] τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.2",
+      "text": "παρ’ ἐμοί; τεθνηκότα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.3",
+      "text": "πεύσει μ’ ἐάν μ’ ἐγκαταλίπηις· οὐδ’ ἀ̣πόκρισις. ‵ΓΕΤΑΣ′",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.1",
+      "text": "[ln_24][spk_(κλεινιας)](ΚΛΕΙΝΙΑΣ) τί π̣ό̣τ̣’ ἐστι τὸ κακόν· βάρβαρος· λ[έ]αινα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.2",
+      "text": "τις[ln_24]‵—′",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor",
+      "text": "[ln_25][spk_[κ]λεινιας]‵ [Κ]ΛΕΙΝΙΑΣ′[ln_25][ ].. ὁρᾶις με κακόδαιμον πάλαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.1",
+      "text": "[ln_25][spk_(γετας)]‵—′ ‵ (ΓΕΤΑΣ)′[ln_26][ ]οὐχ ὑγιαίνει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.2",
+      "text": "παντελῶς· ἐγὼ μὲν [αὐτὴν] μὰ τὸν Ἀπόλλω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.3",
+      "text": "τουτονί, οὐκ ἂν̣ ἀ̣π[έ]λυς’ (?)· Ἑλληνικόν· καὶ πανταχ[ῇ] γιν̣ό̣μ̣[ε]ν̣ον ἴσμεν· ἀλλ’ ἐλεεῖν ὀ̣ρ̣θῶς ἔχει[ln_30]τὸν κ̣[α]τ̣ελεοῦνθ’· ὅταν δὲ μηδ’ ὑ̣μ̣εῖ[ς ἐ]μέ, οὐ̣δ̣⸤ὲ λό⸥γον ὑμῶν οὐδ’ ἐπιστροφὴν ἔχω. οὔ[κ ἐστι] σοί· τί δ’; 〈ο〉ὐθὲν ἄτοπον ὡς ἐγώ. ἀ[λλ’ οὖν] β̣οήσεται δὲ καὶ βουλεύσεται [ ]στάς· βλέπει δὲ πῦρ ἅμα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.1",
+      "text": "[ln_35][spk_γετας][ δράτ̣τ̣εταί 〈γε〉 τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.2",
+      "text": "τριχῶν. ‵ΓΕΤΑΣ′",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.1",
+      "text": "[ln_36][spk_κλεινιας]ΚΛΕΙΝΙΑΣ ἄ[νθρωπε] κατακόψεις με· χ̣α̣ῖ̣ρε, Κλεινία. π[όθεν πάρ]εσθ’; οὑμός",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.2",
+      "text": "τι θορυβεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor.3",
+      "text": "φαίνετα̣ι̣ [ ἐ]λθὼν ὁ ξένος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.1",
+      "text": "[ ] μικρόψ[υ]χον εἶπ̣έ̣ τι[ς], τυχόν [] π̣ο̣λ̣λ̣ὰ πρ̣[ά]γ̣ματα. ε̣ἰ̣ δ’ ε̣〈ἰ〉ς μ̣έσον .[[ln_37]ποεῖ τ’ ἄδηλον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.2",
+      "text": "τοῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.3",
+      "text": "συνοῦσι τὴν νόσον[ln_40]ἀπαμφ[ιε]ῖ [γ]ὰρ τ[ὸ κα]τ[ά]πλαστον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.4",
+      "text": "τοῦτό μου (καὶ λανθάνειν βουλόμενον ἡ μέθη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book vert.5",
+      "text": "ποτέ.)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor,Col1.1",
+      "text": "[ἐ]ξ̣ῆ̣λθ’ εκ[ ὀ̣ρ̣γ̣ῆς ἐλ̣[εε]ινο̣σ̣[ [τ]ί̣ φηίς̣; πέπονθας ἄ̣γ̣α̣θ̣’; ὑπὲρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor,Col1.2",
+      "text": "ταύτ̣η̣ς̣ λαλε̣[ῖς;][ln_25][.]. ἔλ̣εγ̣’ ἐμοὶ ταυ[ ]τὸν λ̣ό̣γ̣ο̣ν̣ λ̣έγε. [.]...ἀτύχημα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor,Col1.3",
+      "text": "τουτο [ οὐ] ψ̣έγω. ο̣ὐκοῦν ἔνεστι [ ταύτην ἀπολαβεῖν [ πολλ]αχ̣ο̣ῦ̣ οὕτως ἔχει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor,Col1.4",
+      "text": "πρό̣σ̣θ̣εν γ̣ε· [[ln_30]τὸ ζῆν ἀφήσεις; ἀλλ’ [ οἴκτωι τὸ μισοῦν ὡς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor,Col1.5",
+      "text": "σεαυτο. [ καὶ τίς ὁ βίος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor,Col1.6",
+      "text": "σοί; ποῦ τε̣ τη̣[ ἐ̣πίσημον, εἴ τι[ πλεονεξία",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor,Col1.7",
+      "text": "τοῦτ’ ἐ̣σ̣τ̣ι̣ [[ln_35]ἴσως ἰταμὸς εἶ τό〈ν〉 τε λογισμ[ὸν οὐκ ἔ]χ̣ω̣ν̣ εὔ̣ψυχος ἀ[πό]ρως ζηῖς· [ ὄνειδος αὕτη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor,Col1.8",
+      "text": "τοῦτο [ ἀθάνατον εὖ παθοῦσα̣ [ τὸν τἄγαθ’ αὐτῆι δόν̣τ̣α̣· πῶς [ἄρ’] ἔ[σ]τι μοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor,O2,Col1",
+      "text": "...[ln_10][]ε̣ι̣ς̣ [] []ς̣ []ν̣ []θη[ln_15][] [ ].[.....] [ ]ν κακόν [] []α̣ι̣[ln_20][] [] []π̣αρῆν [].[ln_23]...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor,O2,Col2.1",
+      "text": "οὐκέ̣τ̣ι̣[ Θρασω[νιδ τί τανα̣[ καλῶς [[ln_5]οὐ παιδ[ ζηλοτυπ̣[ο ἃ νῦν λε̣[γ εἰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor,O2,Col2.2",
+      "text": "τοὖρ[γον διακοσι[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor,O2,Col2",
+      "text": "[ln_10][spk_γε]νὴ Δία τ[ ΓΕ ἀν̣αγ̣ε̣[.].[[ln_11]‵—′",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor,Col2",
+      "text": "[spk_(γετας?)](ΓΕΤΑΣ?) ἀπὸ τη̣ς̣.⸥. ω̣ς̣ αν[.].[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor,Col2",
+      "text": "[ln_1][spk_(θρασωνιδης?)]‵—′ (ΘΡΑΣΩΝΙΔΗΣ?) φαινε⸥..αρ’ ἀγαθὸ̣ν ν̣..[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor,Col2.1",
+      "text": "[ln_2][spk_(γετας)]‵—′ (ΓΕΤΑΣ) διδ⸤ό⸥ασι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor,Col2.2",
+      "text": "σοὶ γυναῖκα ..[[ln_3]‵—′ προσευξάμην [[ln_5]οὕτως ἀγαθό[ν (γένοιτο)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor,Col2",
+      "text": "[ln_5][spk_(θρασωνιδης)]‵—′ (ΘΡΑΣΩΝΙΔΗΣ) οὐκ ἐξα⸥ [π]ατᾶις ‵ (ΓΕΤΑΣ)′[ln_7]πῶσ⸥ εἶπεν: Ἡρ[άκλεις[ln_7]‵—′ (ΘΡΑΣΩΝΙΔΗΣ) τὰ ῥήμα⸥τ’ αὐτά μ̣ο̣ι [φράσον (?) (ΓΕΤΑΣ) λέγων ‘τ̣ά̣χ̣’ απ̣έχε̣ι̣[ ‘][ln_9]‵—′[ln_10]ἔλεγεν ‘θυγάτριον [ ‘] ‘ναί‘, φησι, πάπ〈π〉α, βούλ[ομαι ‘] ἤκου⸤ς’· ἃ⸥ δ̣’ ἤκουσα ..[[ln_12]‵—′ ἐκπλει⸥ [.]ε̣γ̣...γην.[[ln_13]‵—′ ἀγαθὰ λέγεις: ........[ τὴν θύραν]",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor,Col2.1",
+      "text": "[ln_15][spk_(δημεας)]‵ (ΔΗΜΕΑΣ) (ΘΡΑΣΩΝΙΔΗΣ)′[ln_15]ψοφεῖ τις αὐτῶν: πρ[όαγετ’ : οὐκ ἀπάγξομαι][ln_15]‵—′ ‵ (ΔΗΜΕΑΣ)′[ln_16]καλῶς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor,Col2.2",
+      "text": "ποῶν; παιδ[ῶν ἐπ’ ἀρότωι γνησίων] δίδωμι τὴν ἐμὴν θυ̣γ̣[ατέρα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor,Col2.3",
+      "text": "σοι γαμεῖν] καὶ δύο τάλαντα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor,Col2.4",
+      "text": "προῖκα [[ln_18]‵—′ μόνον ἀπόδος̣..δ...[[ln_20]π̣άντας ἀπὸ ταὐτομάτο̣υ̣ δεῖπνον ξένια̣ κ̣[αὶ κ̣αλεῖς[ln_36]ἄνδρες .......... πα[ῖδες ἐπικροτήσατε.] ἡ δ’ εὐπάτειρα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor,Col2.5",
+      "text": "φιλογέ̣[λως",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book hor,Col2.6",
+      "text": "τε παρθένος] Νίκη μεθ’ ἡμῶν εὐ[μένης ἕποιτ’ ἀεί.] [ ]Μενάνδ[ρου[ln_40][ Θρασων[ίδης ἢ Μισούμενος] εὐνοία{ν} τῶι ἀναγ[ιγνώσκοντι καὶ] τῶι γράφ[ο]ντι . [",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "hps-av",
+      "title": {
+        "english": "Apparition",
+        "ancient_greek": "Φάντασμα"
+      },
+      "url_slug": "menander-of-athens-apparition-hps-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/apparition",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-apparition-hps-av.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-apparition-hps-av.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-apparition-hps-av.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-apparition-hps-av.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/apparition.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-az",
+      "title": {
+        "english": "Arbitration",
+        "ancient_greek": "Διαιτησία"
+      },
+      "url_slug": "menander-of-athens-arbitration-az-hps-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/arbitration-az",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-arbitration-az-hps-az.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-arbitration-az-hps-az.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-arbitration-az-hps-az.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-arbitration-az-hps-az.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/arbitration-az.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-ax",
+      "title": {
+        "english": "Carthaginian",
+        "ancient_greek": "Καρχηδόνιος"
+      },
+      "url_slug": "menander-of-athens-carthaginian-hps-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/carthaginian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-carthaginian-hps-ax.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-carthaginian-hps-ax.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-carthaginian-hps-ax.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-carthaginian-hps-ax.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/carthaginian.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-ba",
+      "title": {
+        "english": "Citharist",
+        "ancient_greek": "Κιθαριστής"
+      },
+      "url_slug": "menander-of-athens-citharist-hps-ba",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/citharist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-citharist-hps-ba.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-citharist-hps-ba.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-citharist-hps-ba.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-citharist-hps-ba.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharist.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-af",
+      "title": {
+        "english": "Citharists, Fragments Known Elsewhere",
+        "ancient_greek": "Ἀποσπάσματα Κιθαριστῶν"
+      },
+      "url_slug": "menander-of-athens-citharists-fragments-hps-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/citharists-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-citharists-fragments-hps-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-citharists-fragments-hps-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-citharists-fragments-hps-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-citharists-fragments-hps-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharists-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-bp",
+      "title": {
+        "english": "Colax",
+        "ancient_greek": "Κόλαξ"
+      },
+      "url_slug": "menander-of-athens-colax-hps-bp",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/colax",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-colax-hps-bp.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-colax-hps-bp.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-colax-hps-bp.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-colax-hps-bp.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-ak",
+      "title": {
+        "english": "Colax, Fragments Known Elsewhere",
+        "ancient_greek": "Ἀποσπάσματα Κόλακος"
+      },
+      "url_slug": "menander-of-athens-colax-fragments-hps-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/colax-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-colax-fragments-hps-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-colax-fragments-hps-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-colax-fragments-hps-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-colax-fragments-hps-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-ay",
+      "title": {
+        "english": "Coneazomenae",
+        "ancient_greek": "Κονεαζόμεναι"
+      },
+      "url_slug": "menander-of-athens-coneazomenae-hps-ay",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/coneazomenae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-coneazomenae-hps-ay.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-coneazomenae-hps-ay.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-coneazomenae-hps-ay.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-coneazomenae-hps-ay.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/coneazomenae.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-ar",
+      "title": {
+        "english": "Double Deceiver",
+        "ancient_greek": "Διπλοῦς Ἀπατεών"
+      },
+      "url_slug": "menander-of-athens-double-deceiver-ar-hps-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/double-deceiver-ar",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-double-deceiver-ar-hps-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-double-deceiver-ar-hps-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-double-deceiver-ar-hps-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-double-deceiver-ar-hps-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/double-deceiver-ar.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-as",
+      "title": {
+        "english": "Doubtful Fragment",
+        "ancient_greek": "Ἀμφίβολον Ἀπόσπασμα"
+      },
+      "url_slug": "menander-of-athens-doubtful-fragment-hps-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/doubtful-fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-doubtful-fragment-hps-as.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-doubtful-fragment-hps-as.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-doubtful-fragment-hps-as.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-doubtful-fragment-hps-as.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/doubtful-fragment.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-am",
+      "title": {
+        "english": "Dubious Theophorumenae Fragment",
+        "ancient_greek": "Ἀμφίβολον Ἀπόσπασμα Θεοφορουμένης"
+      },
+      "url_slug": "menander-of-athens-theophorumenae-hps-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/theophorumenae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-theophorumenae-hps-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-theophorumenae-hps-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-theophorumenae-hps-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-theophorumenae-hps-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-bm",
+      "title": {
+        "english": "Dyscolus",
+        "ancient_greek": "Δύσκολος"
+      },
+      "url_slug": "menander-of-athens-dyscolus-hps-bm",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/dyscolus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-dyscolus-hps-bm.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-dyscolus-hps-bm.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-dyscolus-hps-bm.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-dyscolus-hps-bm.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/dyscolus.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "kge-ab",
+      "title": {
+        "english": "Comic Fragments on Human Follies",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀνθρωπίνων Μωριῶν"
+      },
+      "url_slug": "comic-fragments-anonymous-iii-human-follies-kge-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-iii/human-follies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii-human-follies-kge-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii-human-follies-kge-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii-human-follies-kge-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii-human-follies-kge-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii/human-follies.epub"
+      }
+    },
+    {
+      "eul_wid": "hvw-ab",
+      "title": {
+        "english": "Cook's Art and Death",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "anaxippus-the-comic-poet-cooks-art-and-death-hvw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/anaxippus-the-comic-poet/cooks-art-and-death",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxippus-the-comic-poet-cooks-art-and-death-hvw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxippus-the-comic-poet-cooks-art-and-death-hvw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxippus-the-comic-poet-cooks-art-and-death-hvw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxippus-the-comic-poet-cooks-art-and-death-hvw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxippus-the-comic-poet/cooks-art-and-death.epub"
+      }
+    },
+    {
+      "eul_wid": "kfa-aa",
+      "title": {
+        "english": "Fragments of Uncertain Poets",
+        "ancient_greek": "Ἀποσπάσματα Ἀδήλων Ποιητῶν"
+      },
+      "url_slug": "comica-adespota-uncertain-poets-kfa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/comica-adespota/uncertain-poets",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comica-adespota-uncertain-poets-kfa-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comica-adespota-uncertain-poets-kfa-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comica-adespota-uncertain-poets-kfa-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comica-adespota-uncertain-poets-kfa-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comica-adespota/uncertain-poets.epub"
+      }
+    },
+    {
+      "eul_wid": "equ-ab",
+      "title": {
+        "english": "Fragments on Courtesans and Revelry",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἑταιρῶν καὶ Κώμων"
+      },
+      "url_slug": "aristagoras-the-comic-poet-courtesans-revelry-equ-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristagoras-the-comic-poet/courtesans-revelry",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-the-comic-poet-courtesans-revelry-equ-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-the-comic-poet-courtesans-revelry-equ-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-the-comic-poet-courtesans-revelry-equ-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-the-comic-poet-courtesans-revelry-equ-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-the-comic-poet/courtesans-revelry.epub"
+      }
+    },
+    {
+      "eul_wid": "cks-aa",
+      "title": {
+        "english": "Fragments on Healing",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἰάσεως"
+      },
+      "url_slug": "antidotus-the-comic-poet-healing-cks-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/antidotus-the-comic-poet/healing",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-the-comic-poet-healing-cks-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-the-comic-poet-healing-cks-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-the-comic-poet-healing-cks-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-the-comic-poet-healing-cks-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-the-comic-poet/healing.epub"
+      }
+    },
+    {
+      "eul_wid": "fka-aa",
+      "title": {
+        "english": "Fragments on Lais the Hetaira",
+        "ancient_greek": "Ἀποσπάσματα περὶ Λαΐδος τῆς Ἑταίρας"
+      },
+      "url_slug": "epicrates-the-comic-lais-fragments-aa-fka-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicrates-the-comic/lais-fragments-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicrates-the-comic-lais-fragments-aa-fka-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicrates-the-comic-lais-fragments-aa-fka-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicrates-the-comic-lais-fragments-aa-fka-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicrates-the-comic-lais-fragments-aa-fka-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicrates-the-comic/lais-fragments-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "eec-aa",
+      "title": {
+        "english": "Fragments on Xanthias and Luxury",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ξανθίου καὶ Τρυφῆς"
+      },
+      "url_slug": "cephisodorus-the-comic-poet-xanthias-luxury-eec-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cephisodorus-the-comic-poet/xanthias-luxury",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet-xanthias-luxury-eec-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet-xanthias-luxury-eec-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet-xanthias-luxury-eec-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet-xanthias-luxury-eec-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet/xanthias-luxury.epub"
+      }
+    },
+    {
+      "eul_wid": "gpo-ab",
+      "title": {
+        "english": "Parasite's Shame",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dromo-comicus-parasites-shame-gpo-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/dromo-comicus/parasites-shame",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dromo-comicus-parasites-shame-gpo-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dromo-comicus-parasites-shame-gpo-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dromo-comicus-parasites-shame-gpo-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dromo-comicus-parasites-shame-gpo-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dromo-comicus/parasites-shame.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/menander-of-athens/new-misumenus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-new-misumenus-hps-an.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-new-misumenus-hps-an.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-new-misumenus-hps-an.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-new-misumenus-hps-an.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/new-misumenus.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

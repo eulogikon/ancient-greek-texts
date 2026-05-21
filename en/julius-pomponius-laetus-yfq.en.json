@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "yfq",
+  "auth_slug": "julius-pomponius-laetus",
+  "name": {
+    "english": "Julius Pomponius Laetus",
+    "ancient_greek": "Ιούλιος Πομπώνιος Λάετος"
+  },
+  "seo_h1": "Julius Pomponius Laetus on Phoenician History",
+  "seo": {
+    "browser_title": "Julius Pomponius Laetus on Eulogikon Greek Archive",
+    "meta_title": "Julius Pomponius Laetus Ancient Greek Historical Works",
+    "meta_description": "Julius Pomponius Laetus, Renaissance humanist and antiquarian. His historical writings in Greek. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Βυζαντινή",
+      "english": "Byzantine",
+      "href": "/periods/byzantine"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Julius Pomponius Laetus was an Italian scholar and antiquarian of the 15th century, living from approximately 1428 to 1498. He was a central figure in the Renaissance humanist movement in Rome. A student of the famous scholar Lorenzo Valla, he later became a professor of rhetoric and is credited with founding or leading the Roman Academy, a society dedicated to the intense study and emulation of classical antiquity.</p>\n<p class=\"research-text\">His life combined scholarship with controversy. In 1468, he and other academy members were arrested by Pope Paul II. They were accused of conspiracy, heresy, and pagan practices due to their fervent, ritualistic admiration of ancient Roman culture and suspected republican political views. After imprisonment and torture, Laetus was released. He returned to his work under a later pope, continuing to teach and write until his death.</p>\n<p class=\"research-text\">Laetus was a prolific writer, though many of his works remain in manuscript form or are lost. His writings included historical studies on Roman institutions like magistracies and priesthoods, commentaries on classical authors such as Virgil, a treatise on agriculture, and numerous letters. He also prepared annotated editions of ancient texts for teaching.</p>\n<p class=\"research-text\">According to modern scholars, Pomponius Laetus was a pivotal figure in the Roman Renaissance. His leadership of the Roman Academy promoted a rigorous, interdisciplinary approach to classical studies that combined literature with archaeology, epigraphy, and topography. This helped establish the antiquarian study of ancient Rome as a formal discipline. The persecution he faced is often interpreted as highlighting the significant cultural tension between the revival of pagan classical culture and the religious orthodoxy of his time.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "yfq-aa",
+      "title": {
+        "english": "Fragments on Phoenician History",
+        "ancient_greek": "Ἀποσπάσματα περὶ Φοινίκης Ἱστορίας"
+      },
+      "url_slug": "julius-pomponius-laetus-phoenician-history-yfq-aa",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/julius-pomponius-laetus/phoenician-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julius-pomponius-laetus-phoenician-history-yfq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julius-pomponius-laetus-phoenician-history-yfq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julius-pomponius-laetus-phoenician-history-yfq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julius-pomponius-laetus-phoenician-history-yfq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julius-pomponius-laetus/phoenician-history.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/julius-pomponius-laetus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julius-pomponius-laetus-yfq.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julius-pomponius-laetus-yfq.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julius-pomponius-laetus-yfq.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julius-pomponius-laetus-yfq.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

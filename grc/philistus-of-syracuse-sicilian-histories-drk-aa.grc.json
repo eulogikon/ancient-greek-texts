@@ -1,0 +1,674 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "drk-aa",
+  "eul_aid": "drk",
+  "author_slug": "philistus-of-syracuse",
+  "work_slug": "sicilian-histories",
+  "url_slug": "philistus-of-syracuse-sicilian-histories-drk-aa",
+  "author": {
+    "english": "Philistus of Syracuse",
+    "ancient_greek": "Φίλιστος ὁ Συρακούσιος"
+  },
+  "title": {
+    "english": "Fragments of Sicilian Histories",
+    "ancient_greek": "Ἀποσπάσματα τῶν Σικελικῶν Ἱστοριῶν"
+  },
+  "seo": {
+    "browser_title": "Sicilian Histories Fragments by Philistus on Eulogikon",
+    "meta_title": "Sicilian Histories Fragments by Philistus in Greek",
+    "meta_description": "Surviving passages from the Sicilian Histories of Philistus, a 4th century BCE prose history. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments of Sicilian Histories</strong> constitutes the modern designation for the extant passages from the historical writings of Philistus of Syracuse. Composed in Attic Greek during the fourth century BCE, the original prose work was divided into two principal parts. The first, known as the <strong>Sikelika</strong>, narrated the history of Sicily from its earliest mythical foundations, including accounts of indigenous peoples like the Sicans and the settlement of the Sicels from Italy. The second part, titled <strong>Peri Dionysiou</strong>, was a detailed contemporary history focusing on the reign of the Syracusan tyrant Dionysius I, under whom Philistus served as a trusted official and naval commander. The work was fundamentally apologetic, written to justify and chronicle the tyrant’s rule while providing a Syracusan perspective on the pivotal conflicts of the era, notably the protracted wars against Carthage and the internecine struggles among the Greek city-states of Sicily.</p>\n<p class=\"research-text\">No complete manuscript of Philistus’s history survives. The text is known only through 69 fragments—comprising direct quotations, paraphrases, and references—preserved within the works of later historians and compilers such as Diodorus Siculus, Plutarch, and Dionysius of Halicarnassus. These remnants cover a range of subjects, including political events, military campaigns, and character sketches of prominent figures like the earlier tyrant Gelon and Dionysius I himself. Despite its partisan viewpoint, modern scholarship regards the work as a crucial, if tendentious, source for the reconstruction of Sicilian history. In antiquity, Philistus was highly esteemed for his sober style and substantive content, exercising a significant influence on subsequent historians, including Timaeus and potentially Ephorus. His explicit defense of tyranny, however, also drew pointed criticism from philosophers, most notably Plato, who disparaged the historian’s moral and political sympathies.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-64",
+      "text": "ΙΣΤΟΡΙΑΙ. LIBER PRIMUS.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Theon. Progymn.: Ἔχουσι δὲ καὶ περὶ Δαιδάλου τῆς ἀφίξεως πρὸς Κωκαλὸν τὸν Σικανῶν βασιλέα, Ἔφορος μὲν ἐν τῇ ζʹ, Φίλιστος δὲ ἐν τῆ πρώτῃ. Dionys.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "H. A. R. I, 22: Τὸ μὲν οὖν Σικελικὸν γένος οὕτως ἐξέλιπεν Ἰταλίαν, ὡς μὲν Ἑλλάνικός φησι, τρίτῃ γενεᾷ πρότερον τῶν Τρωϊκῶν, Ἀλκυόνης ἱερωμένης ἐν Ἄργει κατὰ τὸ ἕκτον καὶ εἰκοστὸν ἔτος. Δύο γὰρ ποιεῖ στόλους Ἰταλικοὺς διαβάντας εἰς Σικελίαν ... ὡς δὲ Φίλιστος ὁ Συρακούσιος ἔγραψε, χρόνος μὲν τῆς διαβάσεως ἦν ἔτος ὀγδοηκοστὸν πρὸ τοῦ Τρωϊκοῦ πολέμου· ἔθνος δὲ τὸ διακομισθὲν ἐξ Ἰταλίας, οὔτε Σικελῶν, οὔτε Αὐσόνων, οὔτ’ Ἐλύμων, ἀλλὰ Λιγύων, ἄγοντος αὐτοὺς Σικελοῦ· τοῦτον δ’ εἶναί φησιν υἱὸν Ἰταλοῦ, καὶ τοὺς ἀνθρώπους ἐπὶ τούτου δυναστεύοντος, ὀνομασθῆναι Σικελούς. Ἐξαναστῆναι δὲ ἐκ τῆς ἑαυτῶν τοὺς Λίγυας ὑπό τε Ὀμβρικῶν καὶ Πελασγῶν. Diod.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Sic. V. 6: Περὶ δὲ τῶν κατοικησάντων ἐν αὐτῇ πρώτων Σικανῶν, ἐπειδή τινες τῶν συγγραφέων διαφωνοῦσιν, ἀναγκαῖόν ἐστι συντόμως εἰπεῖν. Φίλιστος μὲν γὰρ φησὶν, ἐξ Ἰβηρίας αὐτοὺς ἀποικισθέντας κατοικῆσαι τὴν νῆσον, ἀπό τινος Σικανοῦ ποταμοῦ κατ’ Ἰβηρίαν ὄντος τετευχότας ταύτης τῆς προσηγορίας. Τίμαιος δὲ τὴν ἄγνοιαν τούτου τοῦ συγγραφέως ἐλέγξας ἀκριβῶς ἀποφαίνεται τούτους αὐτόχθονας εἶναι. Πολλὰς δὲ αὐτοῦ φέροντος ἀποδείξεις τῆς τούτων ἀρχαιότητος, οὐκ ἀναγκαῖον ἡγούμεθα περὶ τούτων διεξιέναι. Steph.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Byz.: Μακτώριον, πόλις Σικελίας· Φίλιστος πρώτῳ, ἣν ἔκτισε μόνην. Τὸ ἐθνικὸν, Μακτωρῖνος. Idem: Ὕκκαρον, πόλις Σικελίας, ὡς Φίλιστος Σικελικῶν πρώτῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "Ἀπολλόδωρος δ’ ἐν δευτέρῳ Χρονικῶν πόλιν λέγει αὐτὴν τὰ Ὕκκαρα. Μέμνηται τῆς λέξεως καὶ Θουκυδίδης. Ὕκκαρα δὲ πόλισμά ἐστι τῆς Σικελίας, ἔνθεν φασὶ γενέσθαι καὶ Λαΐδα τὴν ἑταίραν, etc. Steph.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "Byz.: Δύμη, πόλις Ἀχαΐας, ἐσχάτη πρὸς δύσιν, ὅθεν καὶ Καλλίμαχος ἐν ἐπιγράμμασιν· Εἰς Δύμην ἀπιόντα τὴν Ἀχαϊκήν. Καὶ Δύμη ἡ χώρα πάλαι ἐκαλεῖτο, ἡ δὲ πόλις Στρατός. Ὕστερον δὲ καὶ ἡ πόλις καὶ ἡ χώρα Δύμη ἐκλήθησαν. Λέγεται καὶ πληθυντικῶς, ὡς Ἀπολλόδωρος. .... Ὁ πολίτης Δυμαῖος· Ἔφορος κδʹ. «Παραγενομένης δὲ τῆς στρατιᾶς εἰς τὴν Δύμην, πρῶτον μὲν οἱ Δυμαῖοι καταπλαγέντες ...» καὶ Παυσανίας ζʹ· «Οἰβώτᾳ ἀνδρὶ Δυμαίῳ σταδίου μὲν ἀνελομένῳ νίκην.» Καὶ Φίλιστος Σικελικῶν αʹ· «Ἐπὶ τῆς Ὀλυμπιάδος, καθ’ ἣν ὁ Οἰβώτας [ὁ Δυμαῖος] ἐνίκα στάδιον.» LIBER SECUNDUS.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "Idem: Ἐρύκη, Σικελικὴ πολίς. Φίλιστος Σικελικῶν δευτέρῳ. Dionys.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "H. Epist. ad Pomp. de Histor. § 5: Ἡ Φιλίστου φράσις ὁμοειδὴς πᾶσα δεινῶς καὶ ἀσχημάτιστός ἐστι, καὶ πολλὰς εὕροι τις ἂν περιόδους ὁμοίως ἐφεξῆς ὑπ’ αὐτοῦ σχηματιζομένας· οἷον ἐν ἀρχῇ τῆς δευτέρας τῶν περὶ Σικελίας· «Συρακούσιοι δὲ παραλαβόντες Μεγαρεῖς καὶ Ἐνναίους, Καμαριναῖοι δὲ Σικελοὺς καὶ τοὺς ἄλλους συμμάχους, πλὴν Γελώων, ἀθροίσαντες (Γελῶοι δὲ Συρακουσίοις οὐκ ἔφασαν πολεμήσειν)· Συρακούσιοι δὲ πυνθανόμενοι Καμαριναίους τὸν Ὑρμινὸν διαβάντας ...» Ταῦτα δὲ ἀηδῆ πάνυ ὄντα ἐμοὶ φαίνεται. Steph.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "Byz.: Ἰαιθία, πόλις Σικελίας. Φίλιστος Σικελικῶν δευτέρῳ. Τὸ ἐθνικὸν Ἰαιθῖνος. Idem: Καίκινον, χωρίον Ἰταλικόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "Φίλιστος δευτέρῳ Σικελικῶν. Idem: Μόργυνα, πόλις Σικελῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "Φίλιστος δευτέρῳ. Idem: Ἐλαυία, φρούριον Σικελίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12",
+      "text": "Φίλιστος βʹ. Idem: Ἐρβησσὸς, Σικελίας πόλις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13",
+      "text": "Τὸ ἐθνικὸν Ἐρβησσινός. Φίλιστος Σικελικῶν βʹ. Idem: Ἐργέτιον, πόλις Σικελίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14",
+      "text": "Φίλιστος Σικελικῶν δευτέρῳ. Pollux Onom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "X, 166: Ἐκαλεῖτο δὲ καὶ λαμπτὴρ ὁ λυχνοῦχος. Ἐν γοῦν τῷ δευτέρῳ τῶν Φιλίστου βιβλίων εἴρηται, «καὶ τὰς νύκτας ἐπαίρεσθαι λαμπτῆρας ἀντιπεφραγμένους·» ὑποδηλοῖ δὲ τὸν ἐκ κέρατος φανόν. Theon.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16",
+      "text": "Progymn.: Πρῶτον μὲν ἁπάντων χρὴ τὸν διδάσκαλον ἑκάστου γυμνάσματος εὖ ἔχοντα accedere, οἷον χρείας μὲν, ὁποία ἐστὶν ἡ παρὰ Πλάτωνι ἐν τῷ πρώτῳ τῆς Πολιτείας ... μύθου δὲ, ὁποῖός ἐστι παρὰ Ἡροδότῳ τοῦ αὐλητοῦ, καὶ παρὰ Φιλίστῳ τοῦ ἵππου· ἐν ἑκατέρῳ ἐν τῇ πρώτῃ καὶ ἐν τῇ δευτέρᾳ. LIBER TERTIUS.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17",
+      "text": "Schol. Pindar. Ol. V, 19: Φίλιστος δὲ ἐν τῇ τρίτῃ φησὶν, ὅτι Γέλων Καμαρίναν κατέστρεψεν· Ἱπποκράτης δὲ, πολεμῶν Συρακουσίοις καὶ πολλοὺς αἰχμαλώτους λαβὼν, ὑπὲρ τοῦ ἀποδοῦναι τούτους ἔλαβε τὴν Καμαρίναν καὶ συνῴκισεν αὐτήν. Steph.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18",
+      "text": "Byz.: Λίχινδος, πόλις Σικελική. Φίλιστος Σικελικῶν τρίτῳ. Idem: Ξουθία, πόλις Σικελίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19",
+      "text": "Φίλιστος τρίτῳ Σικελικῶν. Idem: Θερμὰ, χωρίον Σικελίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20",
+      "text": "Φίλιστος τρίτῳ. LIBER QUARTUS.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "21",
+      "text": "Idem: Ὀμφάκη, πόλις Σικελίας. Φίλιστος Σικελικῶν τετάρτῳ. Τὸ ἐθνικὸν Ὀμφακαῖος, etc. Idem: Ὕβλαι, τρεῖς πόλεις Σικελίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "22",
+      "text": "Ἡ μείζων, ἧς οἱ πολῖται Ὑβλαῖοι. Ἡ μικρὰ, ἧς οἱ πολῖται Γαλεῶται, Μεγαρεῖς. Ἡ δὲ ἐλάττων, Ἥρα καλεῖται. Ἔστι καὶ πόλις Ἰταλίας. Τὴν δὲ Ὕβλαν, ἀπὸ Ὕβλου τοῦ βασιλέως. Διὰ τοῦτο πολλὰς Ὕβλας καλεῖσθαι, τῶν Σικελῶν πόλεων. Τοὺς ἐνοικοῦντας Μεγαρέας ἐκάλουν. Μία δὲ τῶν Ὑβλῶν Τίελλα καλεῖται, ὡς Φίλιστος τετάρτῳ Σικελικῶν. LIBER QUINTUS.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "23",
+      "text": "Idem: Αἰθάλη, νῆσος Τυρσηνῶν. Ἑκαταῖος Εὐρώπῃ. Ἔοικε δὲ κεκλῆσθαι διὰ τὸ σίδηρον ἔχειν, τὸν ἐν αἰθάλῃ τὴν ἐργασίαν ἔχοντα. Φίλιστος δὲ ἐν εʹ Σικελικῶν Αἰθαλίαν αὐτὴν καλεῖ, καὶ Ἡρωδιανὸς καὶ Ὦρος. Steph.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "24",
+      "text": "Byz.: Μοτύη, πόλις Σικελίας, ἀπὸ Μοτύης γυναικὸς, μηνυσάσης Ἡρακλεῖ τοὺς ἐλάσαντας τοὺς αὐτοῦ βοῦς. Ἑκαταῖος Εὐρώπῃ. Φίλιστος δὲ φρούριον αὐτήν φησι Σικελίας παραθαλάττιον. Τὸ ἐθνικὸν Μοτυαῖος. Μοτύλαι, Σικελίας φρούριον, περὶ τὴν Μοτύην. Φίλιστος Σικελικῶν πέμπτῳ. Τὸ ἐθνικὸν Μοτυλαῖος. LIBER SEXTUS.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25",
+      "text": "Idem: Δάσκων, Σικελίας χωρίον. Φίλιστος ἕκτῃ Σικελικῶν· «Τὸ Πλημμύριον καὶ τὸν Δάσκωνα.» Idem: Ἰέται, φρούριον Σικελίας, θηλυκῶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "26",
+      "text": "Φίλιστος ἕκτῃ. Τὸ ἐθνικὸν, Ἰεταῖος, καὶ Ἰεταία. Idem: Νακόνη, ὡς Ἀλκόνη, πόλις Σικελίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "27",
+      "text": "Τὸ ἐθνικὸν Νακοναῖος. Φίλιστος ἕκτῳ Σικελικῶν. Pollux Onom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "28",
+      "text": "X, 42: Τὰ δὲ στρώματα, ἐπιβλήματα, περιβόλαια, ἐφεστρίδες, χλαῖναι, τάπιδες, ξυστίδες· τάχα δὲ καὶ περιστρώματα. Εἴρηται γὰρ παρά τε Φιλίστου ἐν τῇ ἕκτῃ, καὶ ἐν τῇ Σιμύλου Μεγαρικῇ. LIBER SEPTIMUS.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "29",
+      "text": "Steph. Byz.: Ταρχία, πόλις Σικελική. Φίλιστος ἑβδόμῳ Σικελικῶν. LIBER OCTAVUS.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30",
+      "text": "Idem: Ἐλβέστιοι, ἔθνος Λιβύης. Φίλιστος ηʹ· «Περὶ δὲ τοὺς Λίβυας ἐκτ * Εὐρώπης Ἐλβέστιοι καὶ Μαστιηνοί.» Idem: Ἀρβέλη, πόλις Σικελίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "31",
+      "text": "Τὸ ἐθνικὸν Ἀρβελαῖος. Φίλιστος Σικελικῶν ὀγδόῃ. Idem: Ταύακα, πόλις Σικελίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "32",
+      "text": "Φίλιστος ὀγδόῳ. Idem: Μίμαλκες, ἔθνος Λιβυκόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "33",
+      "text": "Φίλιστος Σικελικῶν ὀγδόῳ. Id.: Ἐρεβίδαι, μέρος Λωτοφάγων. Φίλιστος ὀγδόῳ. Theon.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "34",
+      "text": "Progymn.: Ἔχομεν καὶ παρὰ Φιλίστῳ ἐν μὲν τῇ ὀγδόῃ τὰ περὶ τὴν παρασκευὴν τὴν ἐπὶ Καρχηδονίους Διονυσίου τοῦ τυράννου, καὶ τῶν ὅπλων καὶ τῶν νεῶν, καὶ τῶν ὀργάνων τὴν ποίησιν. LIBER NONUS.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "35",
+      "text": "Stephan. Byz.: Τίσσαι, χωρίον Σικελίας. Φίλιστος ἐννάτῳ. Idem: Ἄργυρος, πόλις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "36",
+      "text": "Φίλιστος ἐννάτῃ. Idem: Κύπη, Σικελίας φρούριον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "37",
+      "text": "Φίλιστος Σικελικῶν ἐννάτῳ. LIBER DECIMUS.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "38",
+      "text": "Idem: Λογγώνη, Σικελίας πόλις. Ὁ πολίτης Λογγωναῖος. Φίλιστος δεκάτῳ. LIBER UNDECIMUS.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "39",
+      "text": "Idem: Τύρσητα, πόλις Σαυνιτῶν. Φίλιστος ἑνδεκάτῳ. Idem: Μυστία, πόλις Σαυνιτῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "40",
+      "text": "Φίλιστος ἑνδεκάτῳ. Οἱ οἰκήτορες Μυστιανοί, ὡς τῆς Ὠστίας Ὠστιανοί. Idem: Νουκρία, πόλις Τυρσηνίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "41",
+      "text": "Φίλιστος ιαʹ, καὶ ιεʹ. Theon Progymn.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "42a",
+      "text": ": Ἔχομεν ... καὶ παρὰ Φιλίστῳ ..... ἐν ... τῇ ιαʹ τὰ περὶ τὴν ἐκφορὰν καὶ τῆς πυρᾶς τὴν ποικιλίαν. Plutarch.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "42b",
+      "text": "V. Pelopid. c. 34: Ἐκείνων δὲ τῶν ταφῶν οὐ δοκοῦσιν ἕτεραι λαμπρότεραι γενέσθαι, τοῖς τὸ λαμπρὸν οὐκ ἐν ἐλέφαντι καὶ χρυσῷ καὶ πορφύραις εἶναι νομίζουσιν, ὥσπερ Φίλιστος ὑμνῶν καὶ θαυμάζων τὴν Διονυσίου ταφὴν, οἷον τραγῳδίας μεγάλης, τῆς τυραννίδος ἐξόδιον θεατρικὸν γενομένην. LIBER DUODECIMUS.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "43",
+      "text": "Stephan. Byz.: Κραστὸς, πόλις Σικελίας τῶν Σικανῶν. Φίλιστος Σικελικῶν τρισκαιδεκάτῳ. Ἐκ ταύτης ἦν Ἐπίχαρμος ὁ κωμικὸς καὶ Λαῒς ἡ ἑταίρα, ὡς Νεάνθης ἐν τῷ περὶ ἐνδόξων ἀνδρῶν. Ἔχει δὲ ἡ πόλις εὐπρεπεστάτας γυναῖκας, ὡς Φιλήμων. Ἀπίων δὲ, ὅτι μόνος Πολέμων ἔφη τὴν Λαΐδα Κορινθίαν. FRAGMENTA INCERTA.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "44",
+      "text": "Plin. H. N. VIII, 61: Memorat et Pyrrhum Gelonis tyranni canem Philistus. Schol Pind.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "45",
+      "text": "Pyth. I, 112: Δεινομένης ..... Ἱέρωνος υἱὸς ἐκ τῆς Νικοκλέους τοῦ Συρακουσίου θυγατρὸς, κατὰ Φίλιστον καὶ Τίμαιον. Pausan.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "46a",
+      "text": "I, 29, 9: Μετὰ δὲ τοὺς ἀποθανόντας ἐν Κορίνθῳ, στήλην ἐπὶ τοῖσδε ἑστάναι τὴν αὐτὴν σημαίνει τὰ ἐλεγεῖα, τοῖς μὲν ἐν Εὐβοίᾳ τε καὶ Χίῳ τελευτήσασι· τοὺς δὲ ἐπὶ τοῖς ἐσχάτοις τῆς Ἀσιανῆς ἠπείρου διαφθαρῆναι δηλοῖ, τοὺς δὲ ἐν Σικελίᾳ. Γεγραμμένοι δέ εἰσιν οἵ τε στρατηγοὶ πλὴν Νικίου, καὶ τῶν στρατιωτῶν ὁμοῦ τοῖς ἀστοῖς Πλαταιεῖς. Νικίας δὲ ἐπὶ τῷδε παρείθη· γράφω δὲ οὐδὲν διάφορα ἢ Φίλιστος, ὃς ἔφη Δημοσθένην μὲν σπονδὰς ποιήσασθαι τοῖς ἄλλοις, πλὴν αὐτοῦ, καὶ ὡς ἡλίσκετο, αὑτὸν ἐπιχειρεῖν ἀποκτεῖναι, Νικίᾳ δὲ τὴν παράδοσιν ἐθελοντῇ γενέσθαι. Τούτων εἵνεκα οὐκ ἐνεγράφη Νικίας τῇ στήλῃ, καταγνωσθεὶς αἰχμάλωτος ἐθελοντὴς εἶναι καὶ οὐκ ἀνὴρ πολέμῳ πρέπων. Plutarch.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "46b",
+      "text": "V. Nic. c. 28: Δημοσθένην δὲ καὶ Νικίαν ἀποθανεῖν Τίμαιος οὔ φησιν ὑπὸ τῶν Συρακουσίων καταλευσθέντας (scr. κελευσθέντας), ὡς Φίλιστος ἔγραψε καὶ Θουκυδίδης, ἀλλ’ Ἑρμοκράτους πέμψαντος, ἔτι τῆς ἐκκλησίας συνεστώσης, καὶ δι’ ἑνὸς τῶν φυλάκων παρέντος (sic scr. pro παρέντων), αὐτοὺς δι’ ἑαυτῶν ἀποθανεῖν. Cic.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "47",
+      "text": "Div. I, 20: Dionysii mater, ejus qui Syracusiorum tyrannus fuit, ut scriptum apud Philistum est, et doctum hominem, et diligentem, et aequalem temporum illorum, quum praegnans hunc Dionysium alvo contineret, somniavit, se peperisse Satyriscum. Hinc interpretes portentorum, qui Galeotae tum in Sicilia nominabantur, responderunt (ut ait Philistus), eum, quem illa peperisset, clarissimum Graeciae diuturna cum fortuna fore. Plin.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "48a",
+      "text": "H. N. VIII, 64: Phylarchus refert, Centaretum e Galatis, in proelio occiso Antiocho, potitum equo ejus conscendisse ovantem. At illum indignatione accensum, domitis frenis, ne regi posset, praecipitem in abrupta isse, exanimatumque una. Philistus a Dionysio relictum in coeno haerentem, ut sese evellisset, secutum uestigia domini, examine apum jubae inhaerente; eoque ostento tyrannidem a Dionysio occupatam. Cic.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "48b",
+      "text": "Divin. I, 33: Facta conjectura etiam in Dionysio est paullo ante, quam regnare coepit: qui quum per agrum Leontinum iter faciens, equum ipse demisisset in flumen, summersus equus voraginibus non exstitit: quem quum maxima contentione non potuisset extrahere, discessit, ut ait Philistus, aegre ferens. Quum aliquantulum progressus esset, subito exaudivit hinnitum, respexitque et equum alacrem laetus aspexit, cujus in juba examen apum consederat. Quod ostentum habuit hanc uim, ut Dionysius paucis post diebus regnare coeperit. Pausan.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "49",
+      "text": "V, 23, 5: Πρὸς δὲ τῷ ἅρματι τῷ Γέλωνος Ζεὺς ἔστηκεν ἀρχαῖος, ἔχων σκῆπτρον· Ὑβλαίων δέ φασιν εἶναι ἀνάθημα. Αἱ δὲ ἦσαν ἐν Σικελίᾳ πόλεις αἱ Ὕβλαι, Γερεᾶτις ἐπίκλησιν, τὴν δὲ, ὥσπερ γε καὶ ἦν, ἐκάλουν μείζονα. Ἔχουσι δὲ καὶ κατ’ ἐμὲ ἔτι τὰ ὀνόματα. Ἐν τῇ Καταναίᾳ δὲ ἡ μὲν ἔρημος ἐς ἅπαν, ἡ δὲ κώμη τε Καταναίων ἡ Γερεᾶτις, καὶ ἱερόν σφισιν Ὑβλαίας ἐστὶ θεοῦ, παρὰ Σικελιωτῶν ἔχον τιμάς. Παρὰ τούτων δὲ κομισθῆναι τὸ ἄγαλμα ἐς Ὀλύμπιον ἡγοῦμαι. Τεράτων γὰρ σφᾶς καὶ ἐνυπνίων Φίλιστος ὁ Ἀρχομενίδου φησὶν ἐξηγητὰς εἶναι, καὶ μάλιστα εὐσεβείᾳ τῶν ἐν Σικελίᾳ βαρβάρων προσκεῖσθαι. Euseb.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "50",
+      "text": "Can. Chron. nr. 804: Τούτῳ τῷ ἔτει Καρχηδόνα φησὶ Φίλιστος κτισθῆναι ὑπὸ Ἐζώρου καὶ Καρχηδόνος τῶν Τυρίων. Clemens Alex.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "51",
+      "text": "Strom.: Ὀλίγοις δὲ τῶν καθωμιλημένων καὶ παρὰ τοῖς Ἕλλησιν εὐδοκίμων ἀνδρῶν χρησάμενος μαρτυρίοις, τὸ κλεπτικὸν διελέγξας εἶδος αὐτῶν, ἐν διαφόροις τοῖς χρόνοις καταχρώμενος, ἐπὶ τὰ ἑξῆς τρέψομαι. Σόλωνος δὲ ποιήσαντος· Τίκτει γὰρ κόρος ὕβριν, ὅταν πολὺς ὄλβος ἕπηται, ἄντικρυς ὁ Θέογνις γράφει· Τίκτει τοι κόρος ὕβριν, ὅταν κακῷ ὄλβος ἕπηται. Ὅθεν καὶ ὁ Θουκυδίδης (III, 39) ἐν ταῖς ἱστορίαις· «Εἰώθασιν δὲ οἱ πολλοὶ τῶν ἀνθρώπων, φησὶν, οἷς ἂν μάλιστα καὶ δι’ ἐλαχίστου ἀπροσδόκητος εὐπραγία ἔλθῃ, εἰς ὕβριν τρέπεσθαι.» Καὶ Φίλιστος ὁμοίως τὰ αὐτὰ μιμεῖται, ὧδε λέγων· «Τὰ δὲ πολλὰ κατὰ λόγον τοῖς ἀνθρώποις εὐτυχοῦντα ἀσφαλέστερα [παρὰ δόξαν] καὶ κακοπραγίαν· εἰώθασι γὰρ μάλιστα οἱ παρὰ δόξαν ἀπροσδοκήτως εὖ πράσσοντες εἰς ὕβριν τρέπεσθαι.» Stephan.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "52",
+      "text": "Byz.: Ἀμβρακία, πόλις Θεσπρωτίας, ἀπὸ Ἄμβρακος τοῦ παιδὸς Θεσπρωτοῦ τοῦ Λυκάονος, ἢ ἀπὸ Ἀμβρακίας τῆς Αὐγέου θυγατρὸς, περὶ ἧς Φιλέας. Τὸ ἐθνικὸν Ἀμβρακιεὺς, καὶ Ἀμβρακιώτης. Φίλιστος δὲ Ἀμβρακῖνός φησι Σικελικῷ τύπῳ. Idem: Ἀρτεμίσιον, πόλις Οἰνώτρων ἐν μεσογείῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "53",
+      "text": "Ἑκαταῖος Εὐρώπῃ. Ὁ πολίτης Ἀρτεμισιάτης. Φίλιστος δὲ Ἀρτεμίτιον αὐτὴν καλεῖ, ἴσως Δωρικῶς. Ἔστι καὶ πόλις Εὐβοίας. Idem: Νώνυμνα, πόλις Σικελίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "54",
+      "text": "Ὁ πολίτης Νωνυμναῖος, ὡς Φίλιστος. Idem: Τρίκαλον, καὶ Τρίκαλα οὐδετέρως, πόλις Σικελίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "55",
+      "text": "Φίλιστος. Hesych.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "56",
+      "text": ": Βουβάρτις, νεὼς ὄνομα, παρὰ Φιλίστῳ. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "57",
+      "text": "Germanic. 1559, 4: Quum Liber a Junone insania objecta fugeret ad occursus Dodonaei Jovis, ejusque in templo responsa peteret, ut Philistus refert, magni imbres cum grandine orti sunt ea parte, qua transmissurus erat. Asinis e contrario transeuntibus per aquas, in uno ex his sedens et ipse transvectus est, sine periculo et ab insania liberatus. Apostol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "58a",
+      "text": "Proverb. Cent. I: [Ἀδδηφάγον πεντηκόντορον] Φίλιστος. Harpocrat.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "58b",
+      "text": ": Ἀδδηφάγους τριήρεις Λυσίας λέγει ἐν τῇ ὑπὲρ Εὐκρίτου διαμαρτυρίᾳ, εἰ γνήσιος ὁ λόγος. Καὶ ἀδδηφάγον πεντηκόντορον Φίλιστος. Συναγωγ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "59",
+      "text": "Λέξ. χρ.: Ἀποθήκην, ἀντὶ τοῦ ἀποστροφήν. Φίλιστος. Pollux Onom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "60",
+      "text": "II, 154: Καὶ διὰ χειρὸς ἔχειν τὴν πόλιν, καὶ αὐτοχειρία, αὐτοχειρὶ, αὐτόχειρ ἐργάτης. Τὸ γὰρ παρὰ Φιλίστῳ αὐτοχειρίσαντες παμμίαρον. Hesych.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "61",
+      "text": ": Μεσηρεύειν, τὸ μηδετέροις συμμαχεῖν. Φίλιστος. Pollux Onom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "62",
+      "text": "II, 111: Ἀπὸ φωνῆς φώνημα, μεγαλόφωνος, εὔφωνος, ἄφωνος, ἔμφωνος. Φίλιστος καὶ δίφωνον λέγει. Idem VII, 168: Βαλανείῳ δ’ ἂν καὶ ἡ πυρία ἕποιτο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "63",
+      "text": "Εἴρηκε δ’ Ἡρόδοτος (IV, 75)· πυρία Ἑλληνική. Φίλιστος δὲ λουτρὰ καὶ πυριάματα. Choeroboscus In Theodosium ap.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "64",
+      "text": "Bekker. Anecd: Ἄδρυξ Ἄδρυκος, πόλις Συρακουσίων, ἀρσενικῶς λεγομένη. «Ἔφυγον εἰς τὸν Ἄδρυκα,» Φίλιππος (sic) ὁ ἱστορικός φησιν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "dji-aa",
+      "title": {
+        "english": "Fragments on Peoples",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἐθνῶν"
+      },
+      "url_slug": "damastes-of-sigeum-peoples-dji-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/damastes-of-sigeum/peoples",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damastes-of-sigeum-peoples-dji-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damastes-of-sigeum-peoples-dji-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damastes-of-sigeum-peoples-dji-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damastes-of-sigeum-peoples-dji-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damastes-of-sigeum/peoples.epub"
+      }
+    },
+    {
+      "eul_wid": "kqo-aa",
+      "title": {
+        "english": "Fragments on the Atlantic Islands",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν ἐν Ἀτλαντικῷ Νήσων"
+      },
+      "url_slug": "marcellus-the-historian-atlantic-islands-kqo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/marcellus-the-historian/atlantic-islands",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellus-the-historian-atlantic-islands-kqo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellus-the-historian-atlantic-islands-kqo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellus-the-historian-atlantic-islands-kqo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellus-the-historian-atlantic-islands-kqo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellus-the-historian/atlantic-islands.epub"
+      }
+    },
+    {
+      "eul_wid": "mmg-aq",
+      "title": {
+        "english": "Historical Fragments",
+        "ancient_greek": "Ἱστορικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "historical-fragments-anonymous-historical-mmg-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/historical",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-historical-mmg-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-historical-mmg-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-historical-mmg-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-historical-mmg-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/historical.epub"
+      }
+    },
+    {
+      "eul_wid": "iac-aa",
+      "title": {
+        "english": "Historical Fragments on Themistocles",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θεμιστοκλέους"
+      },
+      "url_slug": "neanthes-of-cyzicus-historical-fragments-themistocles-iac-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/neanthes-of-cyzicus/historical-fragments-themistocles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/neanthes-of-cyzicus-historical-fragments-themistocles-iac-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/neanthes-of-cyzicus-historical-fragments-themistocles-iac-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/neanthes-of-cyzicus-historical-fragments-themistocles-iac-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/neanthes-of-cyzicus-historical-fragments-themistocles-iac-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/neanthes-of-cyzicus/historical-fragments-themistocles.epub"
+      }
+    },
+    {
+      "eul_wid": "npc-aa",
+      "title": {
+        "english": "Marvels",
+        "ancient_greek": "Θαύματα"
+      },
+      "url_slug": "palatine-paradoxographer-marvels-npc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/palatine-paradoxographer/marvels",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/palatine-paradoxographer-marvels-npc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/palatine-paradoxographer-marvels-npc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/palatine-paradoxographer-marvels-npc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/palatine-paradoxographer-marvels-npc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/palatine-paradoxographer/marvels.epub"
+      }
+    },
+    {
+      "eul_wid": "viq-ab",
+      "title": {
+        "english": "On Embassies of Nations to the Romans",
+        "ancient_greek": "Περὶ Πρεσβειῶν Ἐθνῶν πρὸς Ῥωμαίους"
+      },
+      "url_slug": "menander-protector-embassies-romans-viq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-protector/embassies-romans",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-protector-embassies-romans-viq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-protector-embassies-romans-viq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-protector-embassies-romans-viq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-protector-embassies-romans-viq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-protector/embassies-romans.epub"
+      }
+    },
+    {
+      "eul_wid": "nxy-aa",
+      "title": {
+        "english": "Phoenician History Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "claudius-iolaus-phoenician-history-nxy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/claudius-iolaus/phoenician-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/claudius-iolaus-phoenician-history-nxy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/claudius-iolaus-phoenician-history-nxy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/claudius-iolaus-phoenician-history-nxy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/claudius-iolaus-phoenician-history-nxy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/claudius-iolaus/phoenician-history.epub"
+      }
+    },
+    {
+      "eul_wid": "bls-ab",
+      "title": {
+        "english": "Testimonies 2",
+        "ancient_greek": "Μαρτυρίαι Β'"
+      },
+      "url_slug": "acusilaus-of-argos-testimonies-ab-bls-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/acusilaus-of-argos/testimonies-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos-testimonies-ab-bls-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos-testimonies-ab-bls-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos-testimonies-ab-bls-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos-testimonies-ab-bls-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos/testimonies-ab.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/philistus-of-syracuse/sicilian-histories",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philistus-of-syracuse-sicilian-histories-drk-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philistus-of-syracuse-sicilian-histories-drk-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philistus-of-syracuse-sicilian-histories-drk-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philistus-of-syracuse-sicilian-histories-drk-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philistus-of-syracuse/sicilian-histories.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

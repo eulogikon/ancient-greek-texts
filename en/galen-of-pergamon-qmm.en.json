@@ -1,0 +1,1926 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "qmm",
+  "auth_slug": "galen-of-pergamon",
+  "name": {
+    "english": "Galen of Pergamon",
+    "ancient_greek": "Γαληνὸς ὁ Περγαμηνός"
+  },
+  "seo_h1": "Anatomy, Pulse, and Therapy in the Works of Galen of Pergamon",
+  "seo": {
+    "browser_title": "Galen of Pergamon on Eulogikon Greek Archive and Library",
+    "meta_title": "Classical Galen of Pergamon Ancient Greek Medical Works",
+    "meta_description": "Galen was a Greek physician and philosopher. His surviving works include medical treatises. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα τεχνική",
+      "english": "Atticizing Technical",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Galen was a Greek physician and philosopher who lived during the Roman Empire in the 2nd and 3rd centuries CE. He was born in the city of Pergamon in 129 CE. After a broad education in philosophy, he studied medicine across the eastern Mediterranean, including at the famous center in Alexandria. He served as a doctor for gladiators in Pergamon before moving to Rome, where he became a celebrated physician and eventually served as a court doctor to several Roman emperors. He died in Rome around the year 216 CE, though the exact date is uncertain.</p>\n<p class=\"research-text\">Galen was an exceptionally prolific writer who produced works on medicine, anatomy, and philosophy. He sought to create a unified medical system by combining the practical tradition of Hippocrates with ideas from philosophers like Plato and Aristotle. His major surviving works include detailed studies on anatomy, the functions of the body, and methods of treatment. A significant amount of his writing was lost over time, but much of what survives comes to us through later translations into Arabic and Latin.</p>\n<p class=\"research-text\">According to modern scholars, Galen’s historical importance is immense. His synthesized theories, including the system of the four humors and a teleological view of the body’s design, became the foundation of medical science in Europe and the Islamic world for more than a thousand years. His anatomical descriptions, though based primarily on animal dissections and containing errors, were considered authoritative until the Renaissance. His vast body of work ensured his influence persisted through the Middle Ages and fundamentally shaped the history of medicine and biology.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 110,
+  "works": [
+    {
+      "eul_wid": "qmm-cg",
+      "title": {
+        "english": "Advice for an Epileptic Boy",
+        "ancient_greek": "Συμβουλή πρὸς παιδὶ ἐπιληπτικῷ"
+      },
+      "url_slug": "galen-of-pergamon-epileptic-boy-qmm-cg",
+      "passages": 22,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/epileptic-boy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-epileptic-boy-qmm-cg.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-epileptic-boy-qmm-cg.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-epileptic-boy-qmm-cg.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-epileptic-boy-qmm-cg.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/epileptic-boy.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-du",
+      "title": {
+        "english": "Against Lycus",
+        "ancient_greek": "Κατὰ Λύκου"
+      },
+      "url_slug": "galen-of-pergamon-against-lycus-qmm-du",
+      "passages": 50,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/against-lycus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-against-lycus-qmm-du.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-against-lycus-qmm-du.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-against-lycus-qmm-du.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-against-lycus-qmm-du.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-lycus.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ar",
+      "title": {
+        "english": "Against Those Who Wrote-Types or Circuits",
+        "ancient_greek": "Κατὰ τῶν γράψαντων περὶ τύπων ἢ κύκλων"
+      },
+      "url_slug": "galen-of-pergamon-against-writers-circuits-qmm-ar",
+      "passages": 36,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/against-writers-circuits",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-against-writers-circuits-qmm-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-against-writers-circuits-qmm-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-against-writers-circuits-qmm-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-against-writers-circuits-qmm-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-writers-circuits.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-aj",
+      "title": {
+        "english": "Against What Julian Said-Hippocrates' Aphorisms",
+        "ancient_greek": "Κατὰ τῶν ὑπὸ Ἰουλιανοῦ περὶ Ἱπποκράτους"
+      },
+      "url_slug": "galen-of-pergamon-against-julian-hippocrates-aphorisms-qmm-aj",
+      "passages": 54,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/against-julian-hippocrates-aphorisms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-against-julian-hippocrates-aphorisms-qmm-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-against-julian-hippocrates-aphorisms-qmm-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-against-julian-hippocrates-aphorisms-qmm-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-against-julian-hippocrates-aphorisms-qmm-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-julian-hippocrates-aphorisms.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-am",
+      "title": {
+        "english": "Commentaries-Hippocrates Book VI of Epidemics",
+        "ancient_greek": "Ὑπομνήματα εἰς Ἱπποκράτους Ἐπιδημιῶν Ϛ'"
+      },
+      "url_slug": "galen-of-pergamon-commentaries-epidemics-vi-qmm-am",
+      "passages": 559,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/commentaries-epidemics-vi",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-commentaries-epidemics-vi-qmm-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-commentaries-epidemics-vi-qmm-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-commentaries-epidemics-vi-qmm-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-commentaries-epidemics-vi-qmm-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-vi.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ak",
+      "title": {
+        "english": "Commentaries-Hippocrates' Book III of Epidemics",
+        "ancient_greek": "Ὑπομνήματα εἰς Ἱπποκράτους Ἐπιδημιῶν Γ'"
+      },
+      "url_slug": "galen-of-pergamon-commentaries-epidemics-3-qmm-ak",
+      "passages": 295,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/commentaries-epidemics-3",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-commentaries-epidemics-3-qmm-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-commentaries-epidemics-3-qmm-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-commentaries-epidemics-3-qmm-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-commentaries-epidemics-3-qmm-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-3.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-aw",
+      "title": {
+        "english": "Commentaries-Hippocrates' Prognostic I",
+        "ancient_greek": "Ὑπομνήματα εἰς Ἱπποκράτους Προγνωστικὸν Α'"
+      },
+      "url_slug": "galen-of-pergamon-hippocrates-prognostic-qmm-aw",
+      "passages": 352,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/hippocrates-prognostic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-hippocrates-prognostic-qmm-aw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-hippocrates-prognostic-qmm-aw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-hippocrates-prognostic-qmm-aw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-hippocrates-prognostic-qmm-aw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/hippocrates-prognostic.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ax",
+      "title": {
+        "english": "Commentary on Plato's Timaeus",
+        "ancient_greek": "Ὑπομνήματα εἰς τὰ τοῦ Πλάτωνος Τιμαίου ἀποσπάσματα"
+      },
+      "url_slug": "galen-of-pergamon-timaeus-commentary-ax-qmm-ax",
+      "passages": 21,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/timaeus-commentary-ax",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-timaeus-commentary-ax-qmm-ax.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-timaeus-commentary-ax-qmm-ax.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-timaeus-commentary-ax-qmm-ax.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-timaeus-commentary-ax-qmm-ax.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/timaeus-commentary-ax.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-aa",
+      "title": {
+        "english": "Commentary-Hippocrates or Polybius' Work-the Healthy Diet of Individuals",
+        "ancient_greek": "Σχόλια εἰς Ἱπποκράτους ἢ Πολυβίου Περὶ ὑγιεινῆς"
+      },
+      "url_slug": "galen-of-pergamon-healthy-diet-qmm-aa",
+      "passages": 49,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/healthy-diet",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-healthy-diet-qmm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-healthy-diet-qmm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-healthy-diet-qmm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-healthy-diet-qmm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/healthy-diet.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ca",
+      "title": {
+        "english": "Exhortation to Learn the Arts",
+        "ancient_greek": "Παραίνεσις πρὸς τὴν τῶν τεχνῶν μάθησιν"
+      },
+      "url_slug": "galen-of-pergamon-learn-arts-qmm-ca",
+      "passages": 19,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/learn-arts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-learn-arts-qmm-ca.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-learn-arts-qmm-ca.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-learn-arts-qmm-ca.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-learn-arts-qmm-ca.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/learn-arts.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-as",
+      "title": {
+        "english": "Explanation of Obsolete Words of Hippocrates",
+        "ancient_greek": "Ἐξήγησις τῶν παλαιῶν λέξεων τοῦ Ἱπποκράτους"
+      },
+      "url_slug": "galen-of-pergamon-explanation-obsolete-words-qmm-as",
+      "passages": 96,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/explanation-obsolete-words",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-explanation-obsolete-words-qmm-as.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-explanation-obsolete-words-qmm-as.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-explanation-obsolete-words-qmm-as.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-explanation-obsolete-words-qmm-as.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/explanation-obsolete-words.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ef",
+      "title": {
+        "english": "Galen",
+        "ancient_greek": "Γαληνὸς περὶ δίαιτας ἀδυνατίζουσας"
+      },
+      "url_slug": "galen-of-pergamon-text-qmm-ef",
+      "passages": 98,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-text-qmm-ef.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-text-qmm-ef.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-text-qmm-ef.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-text-qmm-ef.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/text.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-an",
+      "title": {
+        "english": "How Those Feigning Illnesses Should Be Detected",
+        "ancient_greek": "Πῶς δεῖ τοὺς νοσοῦντας προσποιουμένους ἐλέγχειν"
+      },
+      "url_slug": "galen-of-pergamon-detecting-feigned-illness-qmm-an",
+      "passages": 9,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/detecting-feigned-illness",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-detecting-feigned-illness-qmm-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-detecting-feigned-illness-qmm-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-detecting-feigned-illness-qmm-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-detecting-feigned-illness-qmm-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/detecting-feigned-illness.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-dl",
+      "title": {
+        "english": "Logical Instruction",
+        "ancient_greek": "Λογικὴ Διδασκαλία"
+      },
+      "url_slug": "galen-of-pergamon-logical-instruction-qmm-dl",
+      "passages": 118,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/logical-instruction",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-logical-instruction-qmm-dl.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-logical-instruction-qmm-dl.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-logical-instruction-qmm-dl.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-logical-instruction-qmm-dl.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/logical-instruction.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-dz",
+      "title": {
+        "english": "Medical Art",
+        "ancient_greek": "Ἰατρικὴ Τέχνη"
+      },
+      "url_slug": "galen-of-pergamon-medical-art-qmm-dz",
+      "passages": 107,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/medical-art",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-medical-art-qmm-dz.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-medical-art-qmm-dz.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-medical-art-qmm-dz.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-medical-art-qmm-dz.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/medical-art.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-dm",
+      "title": {
+        "english": "On Affected Places",
+        "ancient_greek": "Περὶ τῶν τόπων τῶν πεπονθότων"
+      },
+      "url_slug": "galen-of-pergamon-affected-places-qmm-dm",
+      "passages": 446,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/affected-places",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-affected-places-qmm-dm.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-affected-places-qmm-dm.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-affected-places-qmm-dm.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-affected-places-qmm-dm.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/affected-places.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ct",
+      "title": {
+        "english": "On Anatomical Procedures",
+        "ancient_greek": "Περὶ τῶν ἀνατομικῶν ἐπιτηδευμάτων"
+      },
+      "url_slug": "galen-of-pergamon-anatomical-procedures-qmm-ct",
+      "passages": 514,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/anatomical-procedures",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-anatomical-procedures-qmm-ct.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-anatomical-procedures-qmm-ct.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-anatomical-procedures-qmm-ct.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-anatomical-procedures-qmm-ct.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/anatomical-procedures.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-dy",
+      "title": {
+        "english": "On Antidotes",
+        "ancient_greek": "Περὶ ἀντιδότων"
+      },
+      "url_slug": "galen-of-pergamon-antidotes-qmm-dy",
+      "passages": 208,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/antidotes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-antidotes-qmm-dy.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-antidotes-qmm-dy.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-antidotes-qmm-dy.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-antidotes-qmm-dy.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/antidotes.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ds",
+      "title": {
+        "english": "On Barley Drink",
+        "ancient_greek": "Περὶ τῆς πτισάνης"
+      },
+      "url_slug": "galen-of-pergamon-barley-drink-qmm-ds",
+      "passages": 16,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/barley-drink",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-barley-drink-qmm-ds.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-barley-drink-qmm-ds.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-barley-drink-qmm-ds.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-barley-drink-qmm-ds.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/barley-drink.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-dv",
+      "title": {
+        "english": "On Black Bile",
+        "ancient_greek": "Περὶ μέλαινας χολῆς"
+      },
+      "url_slug": "galen-of-pergamon-black-bile-qmm-dv",
+      "passages": 45,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/black-bile",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-black-bile-qmm-dv.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-black-bile-qmm-dv.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-black-bile-qmm-dv.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-black-bile-qmm-dv.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/black-bile.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-db",
+      "title": {
+        "english": "On Bones for Beginners",
+        "ancient_greek": "Περὶ τῶν ὀστέων τοῖς νεοφύτοις"
+      },
+      "url_slug": "galen-of-pergamon-bones-beginners-qmm-db",
+      "passages": 46,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/bones-beginners",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-bones-beginners-qmm-db.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-bones-beginners-qmm-db.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-bones-beginners-qmm-db.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-bones-beginners-qmm-db.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/bones-beginners.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ec",
+      "title": {
+        "english": "On Crises",
+        "ancient_greek": "Περὶ κρίσεων"
+      },
+      "url_slug": "galen-of-pergamon-crises-qmm-ec",
+      "passages": 219,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/crises",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-crises-qmm-ec.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-crises-qmm-ec.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-crises-qmm-ec.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-crises-qmm-ec.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/crises.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-dq",
+      "title": {
+        "english": "On Critical Days",
+        "ancient_greek": "Περὶ τῶν κρισίμων ἡμερῶν"
+      },
+      "url_slug": "galen-of-pergamon-critical-days-qmm-dq",
+      "passages": 173,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/critical-days",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-critical-days-qmm-dq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-critical-days-qmm-dq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-critical-days-qmm-dq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-critical-days-qmm-dq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/critical-days.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-eb",
+      "title": {
+        "english": "On Customs",
+        "ancient_greek": "Περὶ ἐθῶν"
+      },
+      "url_slug": "galen-of-pergamon-customs-qmm-eb",
+      "passages": 25,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/customs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-customs-qmm-eb.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-customs-qmm-eb.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-customs-qmm-eb.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-customs-qmm-eb.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/customs.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ao",
+      "title": {
+        "english": "On Diagnosing and Treating Each Mind's Emotions",
+        "ancient_greek": "Περὶ διαγνώσεως καὶ θεραπείας ἑκάστου τῶν τοῦ"
+      },
+      "url_slug": "galen-of-pergamon-diagnosing-treating-emotions-qmm-ao",
+      "passages": 57,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/diagnosing-treating-emotions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diagnosing-treating-emotions-qmm-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diagnosing-treating-emotions-qmm-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diagnosing-treating-emotions-qmm-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diagnosing-treating-emotions-qmm-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/diagnosing-treating-emotions.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-df",
+      "title": {
+        "english": "On Diagnosing Pulses",
+        "ancient_greek": "Περὶ τῆς διαγνώσεως τῶν σφυγμῶν"
+      },
+      "url_slug": "galen-of-pergamon-diagnosing-pulses-qmm-df",
+      "passages": 194,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/diagnosing-pulses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diagnosing-pulses-qmm-df.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diagnosing-pulses-qmm-df.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diagnosing-pulses-qmm-df.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diagnosing-pulses-qmm-df.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/diagnosing-pulses.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-cu",
+      "title": {
+        "english": "On Diagnosis from Dreams",
+        "ancient_greek": "Περὶ τῆς διγνώσεως ἐξ ἐνυπνίων"
+      },
+      "url_slug": "galen-of-pergamon-diagnosis-dreams-qmm-cu",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/diagnosis-dreams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diagnosis-dreams-qmm-cu.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diagnosis-dreams-qmm-cu.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diagnosis-dreams-qmm-cu.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diagnosis-dreams-qmm-cu.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/diagnosis-dreams.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ck",
+      "title": {
+        "english": "On Difficulty of Breathing",
+        "ancient_greek": "Περὶ δυσπνοίας"
+      },
+      "url_slug": "galen-of-pergamon-difficulty-breathing-qmm-ck",
+      "passages": 208,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/difficulty-breathing",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-difficulty-breathing-qmm-ck.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-difficulty-breathing-qmm-ck.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-difficulty-breathing-qmm-ck.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-difficulty-breathing-qmm-ck.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/difficulty-breathing.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-co",
+      "title": {
+        "english": "On Divination from Pulses",
+        "ancient_greek": "Περὶ τῆς μαντικῆς ἐκ τῶν σφυγμῶν"
+      },
+      "url_slug": "galen-of-pergamon-divination-pulses-qmm-co",
+      "passages": 223,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/divination-pulses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-divination-pulses-qmm-co.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-divination-pulses-qmm-co.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-divination-pulses-qmm-co.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-divination-pulses-qmm-co.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/divination-pulses.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-dw",
+      "title": {
+        "english": "On Emaciation",
+        "ancient_greek": "Περὶ μαρασμοῦ"
+      },
+      "url_slug": "galen-of-pergamon-emaciation-qmm-dw",
+      "passages": 39,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/emaciation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-emaciation-qmm-dw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-emaciation-qmm-dw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-emaciation-qmm-dw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-emaciation-qmm-dw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/emaciation.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ea",
+      "title": {
+        "english": "On Fullness",
+        "ancient_greek": "Περὶ πληρότητος"
+      },
+      "url_slug": "galen-of-pergamon-fullness-qmm-ea",
+      "passages": 71,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/fullness",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-fullness-qmm-ea.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-fullness-qmm-ea.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-fullness-qmm-ea.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-fullness-qmm-ea.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/fullness.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-do",
+      "title": {
+        "english": "On Good Condition",
+        "ancient_greek": "Περὶ τοῦ ἀγαθοῦ ἕξεως"
+      },
+      "url_slug": "galen-of-pergamon-good-condition-qmm-do",
+      "passages": 11,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/good-condition",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-good-condition-qmm-do.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-good-condition-qmm-do.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-good-condition-qmm-do.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-good-condition-qmm-do.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/good-condition.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-br",
+      "title": {
+        "english": "On Hair According to Hippocrates",
+        "ancient_greek": "Περὶ κόμης κατὰ Ἱπποκράτην"
+      },
+      "url_slug": "galen-of-pergamon-hair-qmm-br",
+      "passages": 14,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/hair",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-hair-qmm-br.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-hair-qmm-br.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-hair-qmm-br.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-hair-qmm-br.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/hair.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-cp",
+      "title": {
+        "english": "On Hippocrates' Aphorisms",
+        "ancient_greek": "Περὶ Ἱπποκράτους Ἀφορισμῶν"
+      },
+      "url_slug": "galen-of-pergamon-hippocrates-aphorisms-qmm-cp",
+      "passages": 737,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/hippocrates-aphorisms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-hippocrates-aphorisms-qmm-cp.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-hippocrates-aphorisms-qmm-cp.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-hippocrates-aphorisms-qmm-cp.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-hippocrates-aphorisms-qmm-cp.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/hippocrates-aphorisms.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ch",
+      "title": {
+        "english": "On Hippocrates' Epidemics I",
+        "ancient_greek": "Περὶ Ἱπποκράτους Ἐπιδημιῶν Α'"
+      },
+      "url_slug": "galen-of-pergamon-hippocrates-epidemics-qmm-ch",
+      "passages": 292,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/hippocrates-epidemics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-hippocrates-epidemics-qmm-ch.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-hippocrates-epidemics-qmm-ch.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-hippocrates-epidemics-qmm-ch.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-hippocrates-epidemics-qmm-ch.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/hippocrates-epidemics.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-cl",
+      "title": {
+        "english": "On Hippocrates' Prognostic",
+        "ancient_greek": "Περὶ Ἱπποκράτους Προγνωστικοῦ"
+      },
+      "url_slug": "galen-of-pergamon-prognostic-qmm-cl",
+      "passages": 316,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/prognostic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-prognostic-qmm-cl.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-prognostic-qmm-cl.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-prognostic-qmm-cl.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-prognostic-qmm-cl.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/prognostic.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-cb",
+      "title": {
+        "english": "On Hippocrates'-Fractures",
+        "ancient_greek": "Περὶ Ἱπποκράτους περὶ καταγμάτων"
+      },
+      "url_slug": "galen-of-pergamon-fractures-qmm-cb",
+      "passages": 311,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/fractures",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-fractures-qmm-cb.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-fractures-qmm-cb.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-fractures-qmm-cb.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-fractures-qmm-cb.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/fractures.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-cq",
+      "title": {
+        "english": "On Hippocrates'-Joints",
+        "ancient_greek": "Περὶ Ἱπποκράτους περὶ ἄρθρων"
+      },
+      "url_slug": "galen-of-pergamon-joints-qmm-cq",
+      "passages": 391,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/joints",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-joints-qmm-cq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-joints-qmm-cq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-joints-qmm-cq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-joints-qmm-cq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/joints.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-aq",
+      "title": {
+        "english": "On Hippocrates'-the Diet of the Acutely Ill",
+        "ancient_greek": "Περὶ Ἱπποκράτους περὶ δίαιτας τῶν ὀξέων"
+      },
+      "url_slug": "galen-of-pergamon-diet-acutely-ill-qmm-aq",
+      "passages": 501,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/diet-acutely-ill",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diet-acutely-ill-qmm-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diet-acutely-ill-qmm-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diet-acutely-ill-qmm-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diet-acutely-ill-qmm-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/diet-acutely-ill.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ba",
+      "title": {
+        "english": "On Hippocrates'-the Doctor's Workshop",
+        "ancient_greek": "Περὶ Ἱπποκράτους περὶ τοῦ ἰατροῦ ἐργαστηρίου"
+      },
+      "url_slug": "galen-of-pergamon-on-hippocrates-workshop-qmm-ba",
+      "passages": 297,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/on-hippocrates-workshop",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-on-hippocrates-workshop-qmm-ba.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-on-hippocrates-workshop-qmm-ba.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-on-hippocrates-workshop-qmm-ba.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-on-hippocrates-workshop-qmm-ba.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/on-hippocrates-workshop.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-bi",
+      "title": {
+        "english": "On Hippocrates'-the Nature of Man",
+        "ancient_greek": "Εἰς Ἱπποκράτους Περὶ φύσεως ἀνθρώπου"
+      },
+      "url_slug": "galen-of-pergamon-nature-of-man-qmm-bi",
+      "passages": 173,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/nature-of-man",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-nature-of-man-qmm-bi.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-nature-of-man-qmm-bi.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-nature-of-man-qmm-bi.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-nature-of-man-qmm-bi.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/nature-of-man.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-dr",
+      "title": {
+        "english": "On His Own Books",
+        "ancient_greek": "Περὶ τῶν ἰδίων βιβλίων"
+      },
+      "url_slug": "galen-of-pergamon-own-books-qmm-dr",
+      "passages": 40,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/own-books",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-own-books-qmm-dr.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-own-books-qmm-dr.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-own-books-qmm-dr.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-own-books-qmm-dr.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/own-books.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ac",
+      "title": {
+        "english": "On Leeches, Revulsion, Cupping, Incision and Scarification",
+        "ancient_greek": "Περὶ βδελλῶν"
+      },
+      "url_slug": "galen-of-pergamon-leeches-cupping-scarification-qmm-ac",
+      "passages": 6,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/leeches-cupping-scarification",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-leeches-cupping-scarification-qmm-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-leeches-cupping-scarification-qmm-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-leeches-cupping-scarification-qmm-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-leeches-cupping-scarification-qmm-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/leeches-cupping-scarification.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-de",
+      "title": {
+        "english": "On Medical Experience",
+        "ancient_greek": "Περὶ τῆς ἰατρικῆς ἐμπειρίας"
+      },
+      "url_slug": "galen-of-pergamon-medical-experience-qmm-de",
+      "passages": 11,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/medical-experience",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-medical-experience-qmm-de.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-medical-experience-qmm-de.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-medical-experience-qmm-de.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-medical-experience-qmm-de.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/medical-experience.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-dx",
+      "title": {
+        "english": "On Melancholy",
+        "ancient_greek": "Περὶ μελαγχολίας"
+      },
+      "url_slug": "galen-of-pergamon-melancholy-qmm-dx",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/melancholy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-melancholy-qmm-dx.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-melancholy-qmm-dx.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-melancholy-qmm-dx.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-melancholy-qmm-dx.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/melancholy.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-dg",
+      "title": {
+        "english": "On Natural Faculties",
+        "ancient_greek": "Περί φυσικῶν δυνάμεων"
+      },
+      "url_slug": "galen-of-pergamon-natural-faculties-qmm-dg",
+      "passages": 214,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/natural-faculties",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-natural-faculties-qmm-dg.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-natural-faculties-qmm-dg.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-natural-faculties-qmm-dg.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-natural-faculties-qmm-dg.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/natural-faculties.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-at",
+      "title": {
+        "english": "On Personal Doctrines, Unpublished Fragments",
+        "ancient_greek": "Περὶ τῶν ἰδίων δογμάτων"
+      },
+      "url_slug": "galen-of-pergamon-personal-doctrines-fragments-qmm-at",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/personal-doctrines-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-personal-doctrines-fragments-qmm-at.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-personal-doctrines-fragments-qmm-at.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-personal-doctrines-fragments-qmm-at.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-personal-doctrines-fragments-qmm-at.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/personal-doctrines-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-dh",
+      "title": {
+        "english": "On Preserving Health",
+        "ancient_greek": "Περὶ τῆς ὑγιείας διατηρήσεως"
+      },
+      "url_slug": "galen-of-pergamon-preserving-health-qmm-dh",
+      "passages": 455,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/preserving-health",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-preserving-health-qmm-dh.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-preserving-health-qmm-dh.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-preserving-health-qmm-dh.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-preserving-health-qmm-dh.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/preserving-health.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-cv",
+      "title": {
+        "english": "On Prognosis to Epigenes",
+        "ancient_greek": "Περὶ προγνώσεως πρὸς Ἐπιγένη"
+      },
+      "url_slug": "galen-of-pergamon-prognosis-epigenes-qmm-cv",
+      "passages": 75,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/prognosis-epigenes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-prognosis-epigenes-qmm-cv.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-prognosis-epigenes-qmm-cv.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-prognosis-epigenes-qmm-cv.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-prognosis-epigenes-qmm-cv.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/prognosis-epigenes.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-cy",
+      "title": {
+        "english": "On Pulses for Beginners",
+        "ancient_greek": "Περὶ τῶν σφυγμῶν πρὸς νεοφύτους"
+      },
+      "url_slug": "galen-of-pergamon-pulses-beginners-qmm-cy",
+      "passages": 40,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/pulses-beginners",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-pulses-beginners-qmm-cy.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-pulses-beginners-qmm-cy.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-pulses-beginners-qmm-cy.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-pulses-beginners-qmm-cy.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/pulses-beginners.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-dc",
+      "title": {
+        "english": "On Sects for Beginners",
+        "ancient_greek": "Περὶ τῶν αἱρέσεων τοῖς εἰσαγομένοις"
+      },
+      "url_slug": "galen-of-pergamon-sects-beginners-qmm-dc",
+      "passages": 43,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/sects-beginners",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-sects-beginners-qmm-dc.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-sects-beginners-qmm-dc.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-sects-beginners-qmm-dc.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-sects-beginners-qmm-dc.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/sects-beginners.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ee",
+      "title": {
+        "english": "On Seed",
+        "ancient_greek": "Περὶ σπέρματος"
+      },
+      "url_slug": "galen-of-pergamon-seed-qmm-ee",
+      "passages": 138,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/seed",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-seed-qmm-ee.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-seed-qmm-ee.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-seed-qmm-ee.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-seed-qmm-ee.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/seed.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-di",
+      "title": {
+        "english": "On Seven-Month Birth",
+        "ancient_greek": "Περὶ ἑπταμηνίας"
+      },
+      "url_slug": "galen-of-pergamon-seven-month-birth-qmm-di",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/seven-month-birth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-seven-month-birth-qmm-di.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-seven-month-birth-qmm-di.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-seven-month-birth-qmm-di.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-seven-month-birth-qmm-di.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/seven-month-birth.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-dp",
+      "title": {
+        "english": "On Sexual Matters",
+        "ancient_greek": "Περὶ τῶν ἀφροδισίων"
+      },
+      "url_slug": "galen-of-pergamon-sexual-matters-qmm-dp",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/sexual-matters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-sexual-matters-qmm-dp.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-sexual-matters-qmm-dp.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-sexual-matters-qmm-dp.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-sexual-matters-qmm-dp.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/sexual-matters.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-bt",
+      "title": {
+        "english": "On Sophisms or Verbal Fallacies",
+        "ancient_greek": "Περὶ σοφισμάτων ἢ λογικῶν παγίδων"
+      },
+      "url_slug": "galen-of-pergamon-sophisms-qmm-bt",
+      "passages": 17,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/sophisms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-sophisms-qmm-bt.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-sophisms-qmm-bt.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-sophisms-qmm-bt.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-sophisms-qmm-bt.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/sophisms.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-bl",
+      "title": {
+        "english": "On Substances of Good and Bad Juice",
+        "ancient_greek": "Περὶ τῶν ὑλῶν τοῦ ἀγαθοῦ καὶ κακοῦ χυμοῦ"
+      },
+      "url_slug": "galen-of-pergamon-good-bad-juice-qmm-bl",
+      "passages": 67,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/good-bad-juice",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-good-bad-juice-qmm-bl.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-good-bad-juice-qmm-bl.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-good-bad-juice-qmm-bl.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-good-bad-juice-qmm-bl.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/good-bad-juice.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-dt",
+      "title": {
+        "english": "On Temperaments",
+        "ancient_greek": "Περὶ τῶν κράσεων"
+      },
+      "url_slug": "galen-of-pergamon-temperaments-qmm-dt",
+      "passages": 186,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/temperaments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-temperaments-qmm-dt.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-temperaments-qmm-dt.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-temperaments-qmm-dt.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-temperaments-qmm-dt.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/temperaments.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-bj",
+      "title": {
+        "english": "On the Best Constitution of Our Body",
+        "ancient_greek": "Περὶ τῆς ἀρίστης τοῦ σώματος κατασκευῆς"
+      },
+      "url_slug": "galen-of-pergamon-best-constitution-qmm-bj",
+      "passages": 13,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/best-constitution",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-best-constitution-qmm-bj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-best-constitution-qmm-bj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-best-constitution-qmm-bj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-best-constitution-qmm-bj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/best-constitution.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-dj",
+      "title": {
+        "english": "On the Best Doctrine",
+        "ancient_greek": "Περὶ τῆς ἀρίστης διδασκαλίας"
+      },
+      "url_slug": "galen-of-pergamon-best-doctrine-qmm-dj",
+      "passages": 14,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/best-doctrine",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-best-doctrine-qmm-dj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-best-doctrine-qmm-dj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-best-doctrine-qmm-dj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-best-doctrine-qmm-dj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/best-doctrine.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-cr",
+      "title": {
+        "english": "On the Causes of Diseases",
+        "ancient_greek": "Περὶ τῶν αἰτιῶν τῶν νόσων"
+      },
+      "url_slug": "galen-of-pergamon-causes-diseases-qmm-cr",
+      "passages": 40,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/causes-diseases",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-causes-diseases-qmm-cr.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-causes-diseases-qmm-cr.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-causes-diseases-qmm-cr.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-causes-diseases-qmm-cr.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/causes-diseases.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-cz",
+      "title": {
+        "english": "On the Causes of Pulses",
+        "ancient_greek": "Περὶ τῶν αἰτιῶν τῶν σφυγμῶν"
+      },
+      "url_slug": "galen-of-pergamon-causes-pulses-qmm-cz",
+      "passages": 203,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/causes-pulses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-causes-pulses-qmm-cz.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-causes-pulses-qmm-cz.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-causes-pulses-qmm-cz.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-causes-pulses-qmm-cz.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/causes-pulses.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-cc",
+      "title": {
+        "english": "On the Causes of Respiration",
+        "ancient_greek": "Περὶ τῶν αἰτιῶν τῆς ἀναπνοῆς"
+      },
+      "url_slug": "galen-of-pergamon-causes-respiration-qmm-cc",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/causes-respiration",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-causes-respiration-qmm-cc.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-causes-respiration-qmm-cc.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-causes-respiration-qmm-cc.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-causes-respiration-qmm-cc.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/causes-respiration.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-cs",
+      "title": {
+        "english": "On the Causes of Symptoms",
+        "ancient_greek": "Περὶ τῶν αἰτιῶν τῶν συμπτωμάτων"
+      },
+      "url_slug": "galen-of-pergamon-causes-symptoms-qmm-cs",
+      "passages": 187,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/causes-symptoms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-causes-symptoms-qmm-cs.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-causes-symptoms-qmm-cs.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-causes-symptoms-qmm-cs.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-causes-symptoms-qmm-cs.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/causes-symptoms.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-bf",
+      "title": {
+        "english": "On the Composition of Drugs by Places",
+        "ancient_greek": "Περὶ συνθέσεως φαρμάκων κατὰ τόπους βιβλία Ι"
+      },
+      "url_slug": "galen-of-pergamon-drugs-by-places-qmm-bf",
+      "passages": 991,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/drugs-by-places",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-drugs-by-places-qmm-bf.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-drugs-by-places-qmm-bf.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-drugs-by-places-qmm-bf.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-drugs-by-places-qmm-bf.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/drugs-by-places.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-bk",
+      "title": {
+        "english": "On the Composition of Drugs by Types",
+        "ancient_greek": "Περὶ συνθέσεως φαρμάκων κατὰ γένη"
+      },
+      "url_slug": "galen-of-pergamon-drugs-composition-qmm-bk",
+      "passages": 697,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/drugs-composition",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-drugs-composition-qmm-bk.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-drugs-composition-qmm-bk.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-drugs-composition-qmm-bk.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-drugs-composition-qmm-bk.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/drugs-composition.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-af",
+      "title": {
+        "english": "On the Constitution of the Medical Art to Patrophilus",
+        "ancient_greek": "Περὶ τῆς κατασκευῆς τῆς ἰατρικῆς τέχνης πρὸς"
+      },
+      "url_slug": "galen-of-pergamon-medical-art-constitution-qmm-af",
+      "passages": 80,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/medical-art-constitution",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-medical-art-constitution-qmm-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-medical-art-constitution-qmm-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-medical-art-constitution-qmm-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-medical-art-constitution-qmm-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/medical-art-constitution.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-al",
+      "title": {
+        "english": "On the Diagnosis and Treatment of Any Soul's Sins",
+        "ancient_greek": "Περὶ διαγνώσεως καὶ θεραπείας τῶν ἁμαρτημάτων"
+      },
+      "url_slug": "galen-of-pergamon-diagnosis-treatment-sins-qmm-al",
+      "passages": 45,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/diagnosis-treatment-sins",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diagnosis-treatment-sins-qmm-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diagnosis-treatment-sins-qmm-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diagnosis-treatment-sins-qmm-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diagnosis-treatment-sins-qmm-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/diagnosis-treatment-sins.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-bw",
+      "title": {
+        "english": "On the Differences of Diseases",
+        "ancient_greek": "Περὶ τῶν διαφορῶν τῶν νόσων"
+      },
+      "url_slug": "galen-of-pergamon-diseases-differences-qmm-bw",
+      "passages": 45,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/diseases-differences",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diseases-differences-qmm-bw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diseases-differences-qmm-bw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diseases-differences-qmm-bw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diseases-differences-qmm-bw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/diseases-differences.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-cd",
+      "title": {
+        "english": "On the Differences of Fevers",
+        "ancient_greek": "Περὶ τῶν διαφορῶν τῶν πυρετῶν"
+      },
+      "url_slug": "galen-of-pergamon-differences-fevers-qmm-cd",
+      "passages": 131,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/differences-fevers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-differences-fevers-qmm-cd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-differences-fevers-qmm-cd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-differences-fevers-qmm-cd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-differences-fevers-qmm-cd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/differences-fevers.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ce",
+      "title": {
+        "english": "On the Differences of Pulses",
+        "ancient_greek": "Περὶ τῶν διαφορῶν τῶν σφυγμῶν"
+      },
+      "url_slug": "galen-of-pergamon-pulses-differences-qmm-ce",
+      "passages": 270,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/pulses-differences",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-pulses-differences-qmm-ce.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-pulses-differences-qmm-ce.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-pulses-differences-qmm-ce.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-pulses-differences-qmm-ce.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/pulses-differences.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-bx",
+      "title": {
+        "english": "On the Differences of Symptoms",
+        "ancient_greek": "Περὶ τῶν διαφορῶν τῶν συμπτωμάτων"
+      },
+      "url_slug": "galen-of-pergamon-differences-symptoms-qmm-bx",
+      "passages": 43,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/differences-symptoms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-differences-symptoms-qmm-bx.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-differences-symptoms-qmm-bx.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-differences-symptoms-qmm-bx.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-differences-symptoms-qmm-bx.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/differences-symptoms.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-au",
+      "title": {
+        "english": "On the Dissection of Muscles for Beginners",
+        "ancient_greek": "Περὶ τῆς τῶν μυῶν ἀνατομῆς πρὸς τοὺς νεοφύτους"
+      },
+      "url_slug": "galen-of-pergamon-dissection-muscles-qmm-au",
+      "passages": 101,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/dissection-muscles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-dissection-muscles-qmm-au.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-dissection-muscles-qmm-au.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-dissection-muscles-qmm-au.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-dissection-muscles-qmm-au.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/dissection-muscles.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ci",
+      "title": {
+        "english": "On the Dissection of Nerves",
+        "ancient_greek": "Περὶ τῆς νεύρων τομῆς"
+      },
+      "url_slug": "galen-of-pergamon-dissection-nerves-qmm-ci",
+      "passages": 25,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/dissection-nerves",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-dissection-nerves-qmm-ci.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-dissection-nerves-qmm-ci.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-dissection-nerves-qmm-ci.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-dissection-nerves-qmm-ci.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/dissection-nerves.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-bu",
+      "title": {
+        "english": "On the Dissection of the Uterus",
+        "ancient_greek": "Περὶ τῆς μήτρας τομῆς"
+      },
+      "url_slug": "galen-of-pergamon-dissection-uterus-qmm-bu",
+      "passages": 22,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/dissection-uterus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-dissection-uterus-qmm-bu.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-dissection-uterus-qmm-bu.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-dissection-uterus-qmm-bu.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-dissection-uterus-qmm-bu.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/dissection-uterus.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-bb",
+      "title": {
+        "english": "On the Dissection of Veins and Arteries",
+        "ancient_greek": "Περὶ τῆς φλεβῶν καὶ ἀρτηριῶν τομῆς"
+      },
+      "url_slug": "galen-of-pergamon-dissection-veins-arteries-qmm-bb",
+      "passages": 51,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/dissection-veins-arteries",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-dissection-veins-arteries-qmm-bb.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-dissection-veins-arteries-qmm-bb.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-dissection-veins-arteries-qmm-bb.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-dissection-veins-arteries-qmm-bb.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/dissection-veins-arteries.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-az",
+      "title": {
+        "english": "On the Doctrines of Hippocrates and Plato",
+        "ancient_greek": "Περὶ τῶν δογμάτων Ἱπποκράτους καὶ Πλάτωνος"
+      },
+      "url_slug": "galen-of-pergamon-doctrines-hippocrates-plato-qmm-az",
+      "passages": 70,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/doctrines-hippocrates-plato",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-doctrines-hippocrates-plato-qmm-az.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-doctrines-hippocrates-plato-qmm-az.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-doctrines-hippocrates-plato-qmm-az.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-doctrines-hippocrates-plato-qmm-az.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/doctrines-hippocrates-plato.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-bs",
+      "title": {
+        "english": "On the Elements from Hippocrates",
+        "ancient_greek": "Περὶ τῶν στοιχείων ἐξ Ἱπποκράτους"
+      },
+      "url_slug": "galen-of-pergamon-elements-qmm-bs",
+      "passages": 95,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/elements",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-elements-qmm-bs.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-elements-qmm-bs.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-elements-qmm-bs.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-elements-qmm-bs.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/elements.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-bp",
+      "title": {
+        "english": "On the Exercise of the Small Ball",
+        "ancient_greek": "Περὶ τῆς μικρᾶς σφαίρας γυμνασίας"
+      },
+      "url_slug": "galen-of-pergamon-small-ball-exercise-qmm-bp",
+      "passages": 12,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/small-ball-exercise",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-small-ball-exercise-qmm-bp.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-small-ball-exercise-qmm-bp.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-small-ball-exercise-qmm-bp.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-small-ball-exercise-qmm-bp.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/small-ball-exercise.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-cj",
+      "title": {
+        "english": "On the Formation of Fetuses",
+        "ancient_greek": "Περὶ τῆς τῶν ἐμβρύων διαπλάσεως"
+      },
+      "url_slug": "galen-of-pergamon-formation-fetuses-qmm-cj",
+      "passages": 50,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/formation-fetuses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-formation-fetuses-qmm-cj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-formation-fetuses-qmm-cj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-formation-fetuses-qmm-cj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-formation-fetuses-qmm-cj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/formation-fetuses.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-cm",
+      "title": {
+        "english": "On the Instrument of Smell",
+        "ancient_greek": "Περὶ τοῦ ὀργάνου τῆς ὀσμῆς"
+      },
+      "url_slug": "galen-of-pergamon-instrument-smell-qmm-cm",
+      "passages": 76,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/instrument-smell",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-instrument-smell-qmm-cm.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-instrument-smell-qmm-cm.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-instrument-smell-qmm-cm.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-instrument-smell-qmm-cm.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/instrument-smell.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-cw",
+      "title": {
+        "english": "On the Method of Healing",
+        "ancient_greek": "Περὶ τῆς μεθόδου θεραπείας"
+      },
+      "url_slug": "galen-of-pergamon-method-healing-cw-qmm-cw",
+      "passages": 1020,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/method-healing-cw",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-method-healing-cw-qmm-cw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-method-healing-cw-qmm-cw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-method-healing-cw-qmm-cw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-method-healing-cw-qmm-cw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/method-healing-cw.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-bc",
+      "title": {
+        "english": "On the Method of Healing by Venesection",
+        "ancient_greek": "Περὶ τῆς θεραπευτικῆς μεθόδου διὰ φλεβοτομίας"
+      },
+      "url_slug": "galen-of-pergamon-method-healing-venesection-qmm-bc",
+      "passages": 66,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/method-healing-venesection",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-method-healing-venesection-qmm-bc.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-method-healing-venesection-qmm-bc.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-method-healing-venesection-qmm-bc.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-method-healing-venesection-qmm-bc.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/method-healing-venesection.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-cn",
+      "title": {
+        "english": "On the Movement of Muscles",
+        "ancient_greek": "Περὶ κινήσεως μυῶν"
+      },
+      "url_slug": "galen-of-pergamon-movement-muscles-qmm-cn",
+      "passages": 97,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/movement-muscles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-movement-muscles-qmm-cn.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-movement-muscles-qmm-cn.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-movement-muscles-qmm-cn.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-movement-muscles-qmm-cn.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/movement-muscles.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-bd",
+      "title": {
+        "english": "On the Order of His Books to Eugenianus",
+        "ancient_greek": "Περὶ τῆς τάξεως τῶν βιβλίων πρὸς Εὐγενιανόν"
+      },
+      "url_slug": "galen-of-pergamon-order-books-eugenianus-qmm-bd",
+      "passages": 13,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/order-books-eugenianus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-order-books-eugenianus-qmm-bd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-order-books-eugenianus-qmm-bd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-order-books-eugenianus-qmm-bd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-order-books-eugenianus-qmm-bd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/order-books-eugenianus.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-bm",
+      "title": {
+        "english": "On the Power of Purgative Medicines",
+        "ancient_greek": "Περὶ τῆς δυνάμεως τῶν καθαρτικῶν φαρμάκων"
+      },
+      "url_slug": "galen-of-pergamon-purgative-medicines-bm-qmm-bm",
+      "passages": 20,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/purgative-medicines-bm",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-purgative-medicines-bm-qmm-bm.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-purgative-medicines-bm-qmm-bm.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-purgative-medicines-bm-qmm-bm.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-purgative-medicines-bm-qmm-bm.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/purgative-medicines-bm.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-dd",
+      "title": {
+        "english": "On the Powers in Foods",
+        "ancient_greek": "Περὶ τῶν ἐν ταῖς τροφαῖς δυνάμεων"
+      },
+      "url_slug": "galen-of-pergamon-powers-foods-qmm-dd",
+      "passages": 296,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/powers-foods",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-powers-foods-qmm-dd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-powers-foods-qmm-dd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-powers-foods-qmm-dd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-powers-foods-qmm-dd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/powers-foods.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ad",
+      "title": {
+        "english": "On the Shoulder Dislocated in Ways Hippocrates Did Not See",
+        "ancient_greek": "Περὶ τοῦ ὤμου τοῖς τρόποις ἐκπεπτωκότος οὓς"
+      },
+      "url_slug": "galen-of-pergamon-shoulder-dislocated-qmm-ad",
+      "passages": 77,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/shoulder-dislocated",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-shoulder-dislocated-qmm-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-shoulder-dislocated-qmm-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-shoulder-dislocated-qmm-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-shoulder-dislocated-qmm-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/shoulder-dislocated.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-bg",
+      "title": {
+        "english": "On the Substance of Natural Faculties",
+        "ancient_greek": "Περὶ τῆς οὐσίας τῶν φυσικῶν δυνάμεων"
+      },
+      "url_slug": "galen-of-pergamon-substance-faculties-qmm-bg",
+      "passages": 10,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/substance-faculties",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-substance-faculties-qmm-bg.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-substance-faculties-qmm-bg.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-substance-faculties-qmm-bg.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-substance-faculties-qmm-bg.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/substance-faculties.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ae",
+      "title": {
+        "english": "On the Temperaments and Powers of Simple Medicines I-VI",
+        "ancient_greek": "Περὶ τῶν τῶν ἁπλῶν φαρμάκων κράσεων καὶ δυνάμεων"
+      },
+      "url_slug": "galen-of-pergamon-temperaments-powers-medicines-qmm-ae",
+      "passages": 891,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/temperaments-powers-medicines",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-temperaments-powers-medicines-qmm-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-temperaments-powers-medicines-qmm-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-temperaments-powers-medicines-qmm-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-temperaments-powers-medicines-qmm-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/temperaments-powers-medicines.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-cx",
+      "title": {
+        "english": "On the Times of Diseases",
+        "ancient_greek": "Περὶ τῶν χρόνων τῶν νόσων"
+      },
+      "url_slug": "galen-of-pergamon-diseases-times-qmm-cx",
+      "passages": 65,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/diseases-times",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diseases-times-qmm-cx.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diseases-times-qmm-cx.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diseases-times-qmm-cx.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diseases-times-qmm-cx.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/diseases-times.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-bq",
+      "title": {
+        "english": "On the Times of the Whole Disease",
+        "ancient_greek": "Περὶ τῶν χρόνων τοῦ ὅλου νόσου"
+      },
+      "url_slug": "galen-of-pergamon-times-disease-qmm-bq",
+      "passages": 43,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/times-disease",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-times-disease-qmm-bq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-times-disease-qmm-bq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-times-disease-qmm-bq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-times-disease-qmm-bq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/times-disease.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-bh",
+      "title": {
+        "english": "On the Use of Parts of the Human Body",
+        "ancient_greek": "Περὶ χρείας τῶν τοῦ ἀνθρωπίνου σώματος μορίων"
+      },
+      "url_slug": "galen-of-pergamon-human-body-parts-qmm-bh",
+      "passages": 1305,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/human-body-parts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-human-body-parts-qmm-bh.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-human-body-parts-qmm-bh.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-human-body-parts-qmm-bh.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-human-body-parts-qmm-bh.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/human-body-parts.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-dk",
+      "title": {
+        "english": "On the Use of Pulses",
+        "ancient_greek": "Περὶ χρείας σφυγμῶν"
+      },
+      "url_slug": "galen-of-pergamon-pulses-qmm-dk",
+      "passages": 32,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/pulses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-pulses-qmm-dk.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-pulses-qmm-dk.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-pulses-qmm-dk.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-pulses-qmm-dk.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/pulses.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-by",
+      "title": {
+        "english": "On the Usefulness of Breathing",
+        "ancient_greek": "Περὶ τῆς ὠφελείας τῆς ἀναπνοῆς"
+      },
+      "url_slug": "galen-of-pergamon-usefulness-breathing-qmm-by",
+      "passages": 42,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/usefulness-breathing",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-usefulness-breathing-qmm-by.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-usefulness-breathing-qmm-by.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-usefulness-breathing-qmm-by.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-usefulness-breathing-qmm-by.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/usefulness-breathing.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-dn",
+      "title": {
+        "english": "On Theriac to Piso",
+        "ancient_greek": "Περὶ θηριακῆς πρὸς Πείσωνα"
+      },
+      "url_slug": "galen-of-pergamon-theriac-piso-qmm-dn",
+      "passages": 85,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/theriac-piso",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-theriac-piso-qmm-dn.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-theriac-piso-qmm-dn.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-theriac-piso-qmm-dn.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-theriac-piso-qmm-dn.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/theriac-piso.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ap",
+      "title": {
+        "english": "On Tremor, Palpitation, Convulsion and Rigidity",
+        "ancient_greek": "Περὶ τρόμου"
+      },
+      "url_slug": "galen-of-pergamon-tremor-palpitation-convulsion-rigidity-qmm-ap",
+      "passages": 58,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/tremor-palpitation-convulsion-rigidity",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-tremor-palpitation-convulsion-rigidity-qmm-ap.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-tremor-palpitation-convulsion-rigidity-qmm-ap.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-tremor-palpitation-convulsion-rigidity-qmm-ap.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-tremor-palpitation-convulsion-rigidity-qmm-ap.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/tremor-palpitation-convulsion-rigidity.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-cf",
+      "title": {
+        "english": "On Tumors Contrary to Nature",
+        "ancient_greek": "Περὶ τῶν ὄγκων παρὰ φύσιν"
+      },
+      "url_slug": "galen-of-pergamon-tumors-qmm-cf",
+      "passages": 28,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/tumors",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-tumors-qmm-cf.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-tumors-qmm-cf.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-tumors-qmm-cf.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-tumors-qmm-cf.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/tumors.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ed",
+      "title": {
+        "english": "On Types",
+        "ancient_greek": "Περὶ τῶν τύπων"
+      },
+      "url_slug": "galen-of-pergamon-types-qmm-ed",
+      "passages": 11,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/types",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-types-qmm-ed.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-types-qmm-ed.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-types-qmm-ed.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-types-qmm-ed.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/types.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-da",
+      "title": {
+        "english": "On Unequal Intemperance",
+        "ancient_greek": "Περὶ ἀνισοῦ ἀκρασίας"
+      },
+      "url_slug": "galen-of-pergamon-unequal-intemperance-qmm-da",
+      "passages": 20,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/unequal-intemperance",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-unequal-intemperance-qmm-da.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-unequal-intemperance-qmm-da.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-unequal-intemperance-qmm-da.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-unequal-intemperance-qmm-da.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/unequal-intemperance.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ai",
+      "title": {
+        "english": "On VenesectiErasistrateans Living in Rome",
+        "ancient_greek": "Περὶ φλεβοτομίας κατὰ Ἐρασιστρατείους Ῥώμῃ"
+      },
+      "url_slug": "galen-of-pergamon-venesection-erasistrateans-rome-qmm-ai",
+      "passages": 63,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/venesection-erasistrateans-rome",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-venesection-erasistrateans-rome-qmm-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-venesection-erasistrateans-rome-qmm-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-venesection-erasistrateans-rome-qmm-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-venesection-erasistrateans-rome-qmm-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/venesection-erasistrateans-rome.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-bn",
+      "title": {
+        "english": "On VenesectiErasistratus",
+        "ancient_greek": "Περὶ φλεβοτομίας κατὰ Ἐρασίστρατον"
+      },
+      "url_slug": "galen-of-pergamon-venesection-qmm-bn",
+      "passages": 40,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/venesection",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-venesection-qmm-bn.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-venesection-qmm-bn.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-venesection-qmm-bn.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-venesection-qmm-bn.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/venesection.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ay",
+      "title": {
+        "english": "Scholia on Plato's Timaeus",
+        "ancient_greek": "Σχόλια εἰς τὰ ἀποσπάσματα τοῦ Πλάτωνος Τιμαίου"
+      },
+      "url_slug": "galen-of-pergamon-timaeus-commentary-ay-qmm-ay",
+      "passages": 37,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/timaeus-commentary-ay",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-timaeus-commentary-ay-qmm-ay.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-timaeus-commentary-ay-qmm-ay.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-timaeus-commentary-ay-qmm-ay.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-timaeus-commentary-ay-qmm-ay.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/timaeus-commentary-ay.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-bv",
+      "title": {
+        "english": "Synopsis of His Books-Pulses",
+        "ancient_greek": "Σύνοψις τῶν βιβλίων περὶ σφυγμῶν"
+      },
+      "url_slug": "galen-of-pergamon-synopsis-pulses-qmm-bv",
+      "passages": 103,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/synopsis-pulses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-synopsis-pulses-qmm-bv.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-synopsis-pulses-qmm-bv.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-synopsis-pulses-qmm-bv.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-synopsis-pulses-qmm-bv.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/synopsis-pulses.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-bz",
+      "title": {
+        "english": "That Qualities are Incorporeal",
+        "ancient_greek": "Ὅτι τὰ ποιοῦντα ἀσώματα"
+      },
+      "url_slug": "galen-of-pergamon-qualities-incorporeal-qmm-bz",
+      "passages": 22,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/qualities-incorporeal",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-qualities-incorporeal-qmm-bz.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-qualities-incorporeal-qmm-bz.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-qualities-incorporeal-qmm-bz.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-qualities-incorporeal-qmm-bz.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/qualities-incorporeal.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-av",
+      "title": {
+        "english": "That the Best Doctor is Also a Philosopher",
+        "ancient_greek": "Ὅτι ὁ ἄριστος ἰατρὸς καὶ φιλόσοφος ἐστίν"
+      },
+      "url_slug": "galen-of-pergamon-best-doctor-philosopher-qmm-av",
+      "passages": 11,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/best-doctor-philosopher",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-best-doctor-philosopher-qmm-av.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-best-doctor-philosopher-qmm-av.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-best-doctor-philosopher-qmm-av.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-best-doctor-philosopher-qmm-av.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/best-doctor-philosopher.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ag",
+      "title": {
+        "english": "That the Mind's Morals Follow the Body's Temperaments",
+        "ancient_greek": "Ὅτι οἱ τοῦ ἀνθρώπου τρόποι τοῖς τοῦ σώματος"
+      },
+      "url_slug": "galen-of-pergamon-mind-morals-body-temperaments-qmm-ag",
+      "passages": 55,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/mind-morals-body-temperaments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-mind-morals-body-temperaments-qmm-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-mind-morals-body-temperaments-qmm-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-mind-morals-body-temperaments-qmm-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-mind-morals-body-temperaments-qmm-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/mind-morals-body-temperaments.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ab",
+      "title": {
+        "english": "Thrasybulus or Whether Hygiene Belongs to Medicine or Gymnastics",
+        "ancient_greek": "Θρασύβουλος ἢ πότερον ἰατρικῇ ἢ γυμναστικῇ ὑγιεινή"
+      },
+      "url_slug": "galen-of-pergamon-thrasybulus-hygiene-qmm-ab",
+      "passages": 93,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/thrasybulus-hygiene",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-thrasybulus-hygiene-qmm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-thrasybulus-hygiene-qmm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-thrasybulus-hygiene-qmm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-thrasybulus-hygiene-qmm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/thrasybulus-hygiene.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-bo",
+      "title": {
+        "english": "To Glaucthe Method of Healing",
+        "ancient_greek": "Πρὸς Γλαύκωνα περὶ τῆς μεθόδου θεραπείας"
+      },
+      "url_slug": "galen-of-pergamon-method-healing-bo-qmm-bo",
+      "passages": 146,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/method-healing-bo",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-method-healing-bo-qmm-bo.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-method-healing-bo-qmm-bo.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-method-healing-bo-qmm-bo.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-method-healing-bo-qmm-bo.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/method-healing-bo.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-be",
+      "title": {
+        "english": "Whether Blood Is Contained In Arteries",
+        "ancient_greek": "Εἰ ἐν ταῖς ἀρτηρίαις αἷμα περιέχεται"
+      },
+      "url_slug": "galen-of-pergamon-blood-arteries-qmm-be",
+      "passages": 34,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/blood-arteries",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-blood-arteries-qmm-be.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-blood-arteries-qmm-be.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-blood-arteries-qmm-be.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-blood-arteries-qmm-be.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/blood-arteries.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ah",
+      "title": {
+        "english": "Whom to Purge with Which Purgative Medicines and When",
+        "ancient_greek": "Ποιοὺς τίνι καθαρτικῷ καὶ πότε καθαίρειν δεῖ"
+      },
+      "url_slug": "galen-of-pergamon-purgative-medicines-ah-qmm-ah",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/purgative-medicines-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-purgative-medicines-ah-qmm-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-purgative-medicines-ah-qmm-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-purgative-medicines-ah-qmm-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-purgative-medicines-ah-qmm-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/purgative-medicines-ah.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/galen-of-pergamon",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/galen-of-pergamon-qmm.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/galen-of-pergamon-qmm.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/galen-of-pergamon-qmm.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/galen-of-pergamon-qmm.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

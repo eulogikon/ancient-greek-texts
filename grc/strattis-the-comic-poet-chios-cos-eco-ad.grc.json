@@ -1,0 +1,387 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "eco-ad",
+  "eul_aid": "eco",
+  "author_slug": "strattis-the-comic-poet",
+  "work_slug": "chios-cos",
+  "url_slug": "strattis-the-comic-poet-chios-cos-eco-ad",
+  "author": {
+    "english": "Strattis the Comic Poet",
+    "ancient_greek": "Στράττις ὁ κωμικός"
+  },
+  "title": {
+    "english": "Fragments on Chios and Cos",
+    "ancient_greek": "Ἀποσπάσματα περὶ Χίου καὶ Κῶ"
+  },
+  "seo": {
+    "browser_title": "Fragments on Chios and Cos by Strattis on Eulogikon",
+    "meta_title": "Ancient Fragments on Chios and Cos by Strattis in Greek",
+    "meta_description": "Surviving comic fragments from Strattis on Chios and Cos. Verse from ancient Greek theater. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Fragments on Chios and Cos is a lost comedy by the Athenian poet Strattis, a figure of the late period of Old Comedy active around the late fifth and early fourth centuries BCE. The work survives only in twenty-one brief, disjointed fragments, transmitted not through any manuscript of the play itself but through quotations in later ancient and Byzantine scholarly sources. These include the lexicographer Athenaeus and the Suda encyclopedia, who preserved the lines primarily for their unusual vocabulary, dialect forms, or metrical interest rather than for their plot or comic substance.</p>\n<p class=\"research-text\">The title suggests the play’s action or satire involved the Aegean islands of Chios and Cos. While the fragmentary state obscures the narrative, the genre and historical context point to probable themes of political satire, possibly alluding to Athenian imperial relations with allied states in the aftermath of the Peloponnesian War, including the revolt of Chios in 412 BCE. The comedy may have exploited regional stereotypes, perhaps mocking the famous products of each island, such as Chian wine or Coan textiles. The extant snippets, which mention a revel and contain colloquial diction, align with the standard comic preoccupations with food, drink, and bodily humor.</p>\n<p class=\"research-text\">The fragments’ significance lies almost entirely in their philological value. They offer a glimpse into the linguistic experimentation and stylistic range of later Old Comedy, demonstrating Strattis’s reputation in antiquity as a poet with a studied and sometimes obscure command of language. Their preservation within lexicographical works underscores how such comic texts were mined in later centuries for rare words and grammatical peculiarities, ensuring their fragile survival while stripping them of their original dramatic context.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 220",
+      "text": "— — — —[ln_1]]φανῆναι[ ] [ ]νεακαλ[ ]ηc κόρηc[[ln_5]].ραγονικ[ ].οcοcτιcε [ Χῖοc π⸥αραcτὰc Κῶιον ⸤οὐκ ἐᾶι λέγειν ]ν̣ τοιοῖcδε cυν.[ ].ικεc ὄντεc ω.[[ln_10]]ν̣ κῶμον οικ[ ].μεν cαφῶc̣[ [para]]κωcπουδηc.[ ]ρ̣αcει καὶ γὰρ cα[ ].ων ἐcτι δο.[[ln_15]]τραχ̣η̣λ̣[ [para]]βλέψαι δυν[ [para]]ρ ἴcαc πληγ[ ].ν ἄνδρα χ.[[ln_18]— — — — —[ln_18]— — — —[ln_19]]cουνεοικ[[ln_20]]τ̣ροφην επε[ — — —[ln_21]]ν̣αξεν — — — —[ln_22].[ α[ ε[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 220.1",
+      "text": "[ln_25][spk_—]‵—′ω[ ‵—′αδ[ ‵—′ο̣[ c̣[ α[[ln_30]‵—′.[ [ ‵—′π[ .[ [[ln_35][ ]αν.[ α..[].[]λαι̣γ̣.[ δέοc γὰρ ουκε[ ‵⸐′ θεῶν ἕκητι .[ πληγὰc ὁ κακ[[ln_40]ἐοικαμεντ.[ οὐ γὰρ λελυcι[τέληκε τὸ λῆμα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 220.2",
+      "text": "ται̣[ καίτοι τ̣ι̣τ̣ο̣[ νῦν δὴ δ’ ἀπωλ[[ln_45]ἴc’ ἀντ’ ἴcων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 220.3",
+      "text": "το[ ἕωc ἂν ἀντεχ.[ ἀγαθὸν γὰρ̣[ ‵⸐′ων̣[ ψυχ[ πωc[ cυγα[ — — —[ln_52]]..ο̣[ ]αγο[ [para]].νγα[[ln_55]]τ[[ln_55]— — — — —[ln_56]]...[ [para]]πλεω[ ]ειcε̣[[ln_58]— — — — — —[ln_59]]η̣γου[[ln_60]]τ̣ο.[[ln_60]— — — — — —[ln_61]].αλλ.[ ].ετα.[ ]βριζων ε[ ].αρ δίκην[ln_65]]ἔ̣χων ἄρ’ ἦν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 220.4",
+      "text": "φρόνηcιν ]φαίν[.]ται πᾶcιν ἐναργῆ ]λοκα καὶ πολυμήχαν’ ἰδεῖν ]ομεν οὐδὲν ἔχοντα πέρα ]ν γὰρ ἁπλοῦν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 220.5",
+      "text": "τι πέφυκε βροτοῖc[ln_70]]τελουμένοιcιν ἔργοιc [para]]ουμενον οὐκ ἴcαcιν οὐδ’ ὁρῶcιν ]ν̣δε πόλιν βλέπουcι ].αc ἔχειν ὅλον δὲ μηδὲν ὀρθῶc ]λίαν εἶναι νόμον τίθενται[ln_75]]..αμένοιc· τοὺc πάνταc † ἐξιοῦντεc ν]είκη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 220.6",
+      "text": "χολὴν μέλα[ιν]αν ]νηγια̣ν̣ ἀνῆκεν ]ν λέγω τὸν [ἄν]δρα ]υλωι κε̣λ̣[εύ]ει[ln_80]].ρεχειωπρο.[ ]οcέχων [para]]παμπονηρ[ ]κομενοc ].ροπου[ln_85]]τοκέων ]..[.]. ].’ωcπ[ ]ρεν̣[ ]νημιν[ln_90]].ελων.[ ]νεχθρ[ ].γηcαι[ ].ετα[[ln_93]— — — καὶ μὴν ἄρα φύλλον ἀπὸ ῥύπου πά̣δ̣ο̣c̣ ..[.]ν[[ln_95]cὺ δ’ οὖν † διαχν † ἐπὶ ταῖc πτέ[ρ]ναιcι̣ π̣.[].[ cεμνὸν διακυcοcαλεύων τῆιδ’· ἐμοὶ δαλ̣[ μακρὸc γὰρ ἄγαν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 220.7",
+      "text": "περὶ πόρνηc μῦθοc ἠγο̣[ρεύθη· Λάμπωνα δὲ τὸν κόρακοc θεῶ π[..]....κ̣[ τίc οὐκ ἂν ὁρῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 220.8",
+      "text": "παρατίλαιτ’ ἐν κακοῖcιν .[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 220.1",
+      "text": "παίδων τ’ ἔραται μετὰ τυμπάνων τ̣ε̣π̣α̣.[ πόλειc δὲ βαρὺ cτενάχουcι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 220.2",
+      "text": "χρήμαθ’ ἃ[ μιcθοὺc ξυνελέξατο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 220.3",
+      "text": "πολλῶν ῥήcεω[ν ὥcτ’ οἰκοδομεῖν πάρα καὶ παίδων .[ ‵⸐′πολυώνυμε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 220.4",
+      "text": "Πλοῦτε καὶ cὺ δη̣[[ln_105]ξενικὸc κορο[.......]..[]τ̣υρω.[ ὀλίγον .[]...[]επειcα̣c̣[[ln_106]desunt versus 4 ..[ αλ[— —— — — cα[]..[]πε̣ι.[[ln_110]κ.[].τ̣α[].νπ̣[ λ[].ο.[].τι.[ ]κη[]η̣νκ[ ]θυρ[].ον[[ln_113]— —— — — — — —[ln_114]]ε̣ω.[[ln_115]]θ̣υετ[ [para]]ελ[ ]χρο[ ].ω.[[ln_118]— — — — — —[ln_119]]cωc̣[[ln_120]]ντοδε[ [para]]οψοφη[ π]υρέττειν ].οδαιμων[ — — — — — — — —[ln_124]]γ̣ὰρ ἡμῶν τὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 220.5",
+      "text": "προ.[[ln_125]].c εὐωχοῦ χάριν δ[ μ]έντἄν, ὡc ἐγὦιμαι, τήμ̣[ερον Δι]όνυcον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 220.6",
+      "text": "τοῦ τράγου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 220.7",
+      "text": "τουτ[ ]ιουc cκώληκεc εἰ λυπου[ ]θοινῶ cε γὰρ δίκαιον ὦ πρε[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 220.1",
+      "text": "[ln_130][spk_—]]υ̣χαιc καλει. — πρεπονταcω[ [para]].ν̣ κύκλωι φέρων ὁ τὴν .[ ]cι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 220.2",
+      "text": "χρὴ τάδε πάντα με.[ [para]]ε̣ν καιρῶι ]οι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 220.3",
+      "text": "πρῶcον εcτεμ[[ln_135]]δευρι[[ln_135]— — — — — — —[ln_136]].α...[ [para]]πει.[ [para]]ο̣γοι̣[ ]παγ[[ln_140]]γ̣γελ[ ].νι̣[[ln_141]— — — — —[ln_142]].[ ]ογοcε.[ ]ωcδοκ[[ln_145]]μ̣αcπι̣[ [para]].ακ[ [para]]νταχ.[ [para]].ωτο[ ]..ονυ[ ]ολονπρ̣[ ]εγειcεπα.[ [para]]ε̣cλ̣α̣β̣.[ ]ουτ.[ ]..κ̣..[[ln_154]— — —[ln_155]— — —[ln_155]].ιτεκ̣[ [para]]ρπαcα[ [para]]νιχον[ [para]].ι ]κνιcωι[ln_160]Θ]υέcτηι ].[ ]πι.[ ]. ].[]..[[ln_163]— — — — — —[ln_164]ο̣ι̣μα̣[].[[ln_165]ξυνε̣λ̣[ τονθ[ .[[ln_167]— — — — — —[ln_168]]εcτ..[ ]ενον γὰρ π..[[ln_170]]ι̣ναδ̣ηπ..κε̣[ ]ευχομ...λ.[ ].ονε.[.]λκ.[ [para]]ο̣c ]α̣ν̣..[[ln_174]— — —[ln_175]].αδ’ ἐγὼ παραθήcω [para]]..γα[]cκαλοιδωρι̣αιc ] ].θ̣ων ].οιc ἱεροῖcιν[ln_180]c]εμνοπρόcωπον [para]]ε̣ι κακοῖcι̣ν ]..[]..ν̣[]ι ]..η̣ ]ηcε.[]",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 220",
+      "text": "[ln_185]]α̣ρανηρ[[ln_185]— — — — — — —[ln_186]]..[ [para]]τι.η[ ]ι̣νηθε.[ [para]]φ̣αcιν c[[ln_190]]ο̣c βίαν[ ]εοντι̣ν[ ]..νδεω̣[ [para]]ι̣νπρ[ ]c̣c̣[[ln_195]]cκε[ ]α̣νδ̣[[ln_196]— — ]διδο̣[]ν̣α̣ι̣ πρωτεμ[ ].κο̣.[]η̣ναν̣δρ̣..[ — — —]ερωτα[].[ ]πλειcταταυ[ [para]]ηνδ[.].αμ[ ].ωνο[.]κ̣[ [para]]ε̣ι̣.[ ].[[ln_203]— — — — — ]τιc...[[ln_205]]ονη̣ο̣[ ] ]ρεινω ] [para]]ο[[ln_209]— —[ln_210]]δεδραc[ ]ν̣μεδειν.[ [para]]κραγηνα[[ln_212]— — — — ].ι̣παρατι.[ ].υcαcεχ.[[ln_215]]ν[ ]κ̣αθ[ ]ε̣ι[ ]φ.[ ].[ ].[[ln_218]— — — ]δειμο̣[[ln_220]]ουδεγ[ [para]]τοιαδ[[ln_221]— — — — —[ln_222]]νχα[ ]α̣ζωδ..[ ]ι̣ν cεαυτ̣[[ln_225]]μ̣έλληιc μα[ [para]]η̣cιδιον .[ [para]]ε̣ινεcθ’ οπ[ ]ι̣cτουcαν[ ]π̣τε....[[ln_229]— — — —[ln_230]— —[ln_230]ὑφ[ θρο̣[ ταχ[ χερα[ οιλ.[[ln_235]ποι[ ξυ[[ln_236]— — — —[ln_237]].[ ].κλ̣α̣[]ν ]ω̣c ὕδωρ μάχην ξ[[ln_240]]θοντι μηδ’ οπωc.[ ]κανδ’ ἴcωc κροτη[ [para]].cεχοιτανουφο[ πε]ρίτριμμα κακ[ ]ο̣ κύρβιc̣[[ln_245]].’ ει̣κρατ[ [para]].κοτ̣ω[ ].θ̣ων̣[[ln_247]— — — — —[ln_248]].[ ].ου[ ].cθεν̣[ [para]]c.[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 220",
+      "text": "[ln_251]— — [para]— — —[ln_252]].ο̣c.[ ].ι[ln_253]desunt versus 3 ]ειται[ln_255]]π̣αντο[ ].ηδ[ ].[].[ ]μ̣υcο[ [para]]...[[ln_259]— — —[ln_260]— — —[ln_260]]ερου [para]]μην ].ι [para]]ο̣c [para]].θ̣ο̣...[][ln_264]— — — — —[ln_265]— — —[ln_265]].χ̣ε̣ι̣ν̣ ] ]δ̣εχω [para]] ].[[ln_269]— —",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "eco-ab",
+      "title": {
+        "english": "Comic Fragments on Food and Theater",
+        "ancient_greek": "Ἀποσπάσματα περὶ Τροφῆς καὶ Θεάτρου Κωμικά"
+      },
+      "url_slug": "strattis-the-comic-poet-comic-food-theater-eco-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/strattis-the-comic-poet/comic-food-theater",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet-comic-food-theater-eco-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet-comic-food-theater-eco-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet-comic-food-theater-eco-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet-comic-food-theater-eco-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet/comic-food-theater.epub"
+      }
+    },
+    {
+      "eul_wid": "eco-aa",
+      "title": {
+        "english": "Fragments on Athenian Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Ἀθηναϊκοῦ Βίου"
+      },
+      "url_slug": "strattis-the-comic-poet-athenian-life-eco-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/strattis-the-comic-poet/athenian-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet-athenian-life-eco-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet-athenian-life-eco-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet-athenian-life-eco-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet-athenian-life-eco-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet/athenian-life.epub"
+      }
+    },
+    {
+      "eul_wid": "eco-ac",
+      "title": {
+        "english": "Fragments on Virtue",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀρετῆς"
+      },
+      "url_slug": "strattis-the-comic-poet-virtue-fragments-eco-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/strattis-the-comic-poet/virtue-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet-virtue-fragments-eco-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet-virtue-fragments-eco-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet-virtue-fragments-eco-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet-virtue-fragments-eco-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet/virtue-fragments.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "efg-aa",
+      "title": {
+        "english": "Comic Fragments on Food and Feasting",
+        "ancient_greek": "Ἀποσπάσματα περὶ Τροφῆς καὶ Εὐωχίας"
+      },
+      "url_slug": "theopompus-the-comic-poet-food-feasting-efg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theopompus-the-comic-poet/food-feasting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet-food-feasting-efg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet-food-feasting-efg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet-food-feasting-efg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet-food-feasting-efg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet/food-feasting.epub"
+      }
+    },
+    {
+      "eul_wid": "lpe-ac",
+      "title": {
+        "english": "Fragments from a Comedy",
+        "ancient_greek": "Ἀποσπάσματα Κωμῳδίας"
+      },
+      "url_slug": "philemon-syracusius-comedy-fragments-lpe-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/philemon-syracusius/comedy-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-comedy-fragments-lpe-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-comedy-fragments-lpe-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-comedy-fragments-lpe-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-comedy-fragments-lpe-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/comedy-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "iti-ab",
+      "title": {
+        "english": "Fragments on Fish and Feasting",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἰχθύων καὶ Εὐωχίας"
+      },
+      "url_slug": "sotades-of-maroneia-elder-fish-feasting-iti-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/sotades-of-maroneia-elder/fish-feasting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-elder-fish-feasting-iti-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-elder-fish-feasting-iti-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-elder-fish-feasting-iti-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-elder-fish-feasting-iti-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-elder/fish-feasting.epub"
+      }
+    },
+    {
+      "eul_wid": "dxy-ab",
+      "title": {
+        "english": "Fragments on Gluttony and Slaves",
+        "ancient_greek": "Ἀποσπάσματα περὶ Λαιμαργίας καὶ Δούλων"
+      },
+      "url_slug": "pherecrates-the-comic-poet-gluttony-slaves-dxy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/pherecrates-the-comic-poet/gluttony-slaves",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-gluttony-slaves-dxy-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-gluttony-slaves-dxy-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-gluttony-slaves-dxy-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-gluttony-slaves-dxy-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet/gluttony-slaves.epub"
+      }
+    },
+    {
+      "eul_wid": "duw-aa",
+      "title": {
+        "english": "Fragments on Human Nature",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἀνθρωπίνης Φύσεως"
+      },
+      "url_slug": "phrynichus-the-comic-poet-human-nature-duw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/phrynichus-the-comic-poet/human-nature",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet-human-nature-duw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet-human-nature-duw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet-human-nature-duw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet-human-nature-duw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet/human-nature.epub"
+      }
+    },
+    {
+      "eul_wid": "hcq-aa",
+      "title": {
+        "english": "Fragments on Rhetoric and Corruption",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ῥητορικῆς καὶ Διαφθορᾶς"
+      },
+      "url_slug": "timocles-the-comic-poet-rhetoric-corruption-hcq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/timocles-the-comic-poet/rhetoric-corruption",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet-rhetoric-corruption-hcq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet-rhetoric-corruption-hcq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet-rhetoric-corruption-hcq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet-rhetoric-corruption-hcq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/rhetoric-corruption.epub"
+      }
+    },
+    {
+      "eul_wid": "gmm-ab",
+      "title": {
+        "english": "On Boeotia and Character",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "laon-the-comic-poet-boeotia-character-ab-gmm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/laon-the-comic-poet/boeotia-character-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet-boeotia-character-ab-gmm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet-boeotia-character-ab-gmm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet-boeotia-character-ab-gmm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet-boeotia-character-ab-gmm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet/boeotia-character-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "jdi-ab",
+      "title": {
+        "english": "On Parasitic Dining",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "diodorus-of-sinope-parasitic-dining-jdi-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/diodorus-of-sinope/parasitic-dining",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope-parasitic-dining-jdi-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope-parasitic-dining-jdi-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope-parasitic-dining-jdi-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope-parasitic-dining-jdi-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope/parasitic-dining.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/strattis-the-comic-poet/chios-cos",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet-chios-cos-eco-ad.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet-chios-cos-eco-ad.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet-chios-cos-eco-ad.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet-chios-cos-eco-ad.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet/chios-cos.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

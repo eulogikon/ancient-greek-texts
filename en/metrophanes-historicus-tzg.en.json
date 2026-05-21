@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "tzg",
+  "auth_slug": "metrophanes-historicus",
+  "name": {
+    "english": "Metrophanes Historicus",
+    "ancient_greek": "Μητροφάνης ὁ Ἱστορικός"
+  },
+  "seo_h1": "Metrophanes Historicus on the Fertility of Phrygia",
+  "seo": {
+    "browser_title": "The Metrophanes Historicus on Eulogikon Greek Archive",
+    "meta_title": "Metrophanes Historicus Ancient Greek Historical Works",
+    "meta_description": "Metrophanes Historicus, a late antique historian of the 3rd–4th century CE. Historical fragments in Koine Greek. Free to download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Metrophanes Historicus was a Greek historian of the 3rd–4th century CE, during the late Roman and early Byzantine era. He is an obscure figure, with no biographical details recorded. The epithet &quot;Historicus&quot; distinguishes him from the more noted Metrophanes, the 3rd-century bishop of Byzantium.</p>\n<p class=\"research-text\">His only known work, a History, is lost. It survives solely in a single fragment preserved by the 6th-century chronicler John Malalas, which concerns the mythological hero Perseus. Metrophanes is significant as a name preserved within the fragmentary tradition of Greek historiography. His citation by Malalas indicates his work was among the sources used by later Byzantine compilers.</p>\n<p class=\"research-text\">The solitary mythological fragment suggests his history may have treated legendary or early historical periods. He exemplifies the many lost historians whose works survive only in later citations.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "tzg-aa",
+      "title": {
+        "english": "On the Fertility of Phrygia",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "metrophanes-historicus-fertility-phrygia-tzg-aa",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/metrophanes-historicus/fertility-phrygia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrophanes-historicus-fertility-phrygia-tzg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrophanes-historicus-fertility-phrygia-tzg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrophanes-historicus-fertility-phrygia-tzg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrophanes-historicus-fertility-phrygia-tzg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrophanes-historicus/fertility-phrygia.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/metrophanes-historicus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/metrophanes-historicus-tzg.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/metrophanes-historicus-tzg.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/metrophanes-historicus-tzg.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/metrophanes-historicus-tzg.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

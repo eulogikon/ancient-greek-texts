@@ -1,0 +1,604 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "fjg-aa",
+  "eul_aid": "fjg",
+  "author_slug": "theodectes-of-phaselis",
+  "work_slug": "women-justice",
+  "url_slug": "theodectes-of-phaselis-women-justice-fjg-aa",
+  "author": {
+    "english": "Theodectes of Phaselis",
+    "ancient_greek": "Θεοδέκτης ὁ Φασήλιτος"
+  },
+  "title": {
+    "english": "Fragments on Women and Justice",
+    "ancient_greek": "Ἀποσπάσματα περὶ Γυναικῶν καὶ Δικαιοσύνης"
+  },
+  "seo": {
+    "browser_title": "Dramatic Fragments of Theodectes of Phaselis on Eulogikon",
+    "meta_title": "Fragments by Theodectes of Phaselis in Ancient Greek",
+    "meta_description": "Surviving fragments from lost tragedies by Theodectes, exploring themes of women and justice. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δράμα Ἀττικόν",
+      "english": "Attic Drama",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Δρᾶμα",
+      "english": "Drama",
+      "href": "/domains/drama"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Women and Justice</strong> is a modern compilation of fifty-nine surviving passages from the lost tragedies of Theodectes of Phaselis, a fourth-century BCE Greek dramatist and rhetorician. A pupil of both Plato and Isocrates, Theodectes enjoyed considerable renown in antiquity, though his works survive only in these excerpts, preserved by later authors such as Aristotle and the anthologist Stobaeus. The collection’s thematic title is an editorial construct, grouping fragments that prominently feature ethical quandaries, forensic argumentation, and the portrayal of women within mythological narratives. Written in Attic Greek verse, the fragments consist of dialogue and choral lyrics, indicating Theodectes’s skill in integrating sophisticated rhetorical debate into traditional tragic plots; some of his plays are known to have included invented trial scenes. These remnants are significant to scholars as evidence of the influence of contemporary philosophy and legal culture on fourth-century Athenian tragedy. Originally composed for performance at public theatrical festivals, Theodectes’s works were later studied primarily for their rhetorical artistry. Their survival is due entirely to indirect transmission, having been quoted over centuries for their sententious, argumentative, or linguistic merit long after the complete plays had vanished.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1a.1",
+      "text": "[spk_αλφ. ?]〈ΑΛΦ. ?〉 σαφὴς μὲν ἐν βροτοῖσιν ὑμνεῖται λόγος ὡς οὐδέν ἐστιν ἀθλιώτερον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1a.2",
+      "text": "φυτόν γυναικός",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "[spk_αλφ]ΑΛΦ. μητέρα δὲ τὴν σὴν οὔτις ἐστύγει βροτῶν; ΑΛΚ. ×–⏑ ἀλλὰ διαλαβόντα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "χρὴ σκοπεῖν. ΑΛΦ. πῶς ...; ΑΛΚ. τὴν μὲν θανεῖν ἔκριναν, ἐμὲ δὲ μὴ κτανεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "[ln_1][spk_ελενη]ΕΛΕΝΗ· θείων δ’ ἀπ’ ἀμφοῖν ἔκγονον ῥιζωμάτων τίς ἂν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "προσειπεῖν ἀξιώσειεν λάτριν;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.1",
+      "text": "[ln_staging](γρῖφος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.2",
+      "text": "περὶ τῆς νυκτὸς καὶ τῆς ἡμέρας)[ln_1]εἰσὶ κασίγνηται δισσαί, ὧν ἡ μία τίκτει τὴν ἑτέραν, αὐτὴ δὲ τεκοῦς’ ὑπὸ τῆσδε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.3",
+      "text": "τεκνοῦται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.1",
+      "text": "[ln_1]δίκαιόν ἐστιν, ἥτις ἂν κτείνῃ πόσιν, 〈ταύτην θανεῖν, υἱόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.2",
+      "text": "τε τιμωρεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.3",
+      "text": "πατρί〉",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5b.1",
+      "text": "[ln_1]κόψατε τὴν ἐμὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5b.2",
+      "text": "χεῖρα 〈⏑–⏑–?〉",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.1",
+      "text": "[spk_αγροικος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.2",
+      "text": "τις]ΑΓΡΟΙΚΟΣ ΤΙΣ·[ln_1]γραφῆς ὁ πρῶτος ἦν †μαλακόφθαλμος κύκλος· ἔπειτα δισσοὶ κανόνες ἰσόμετροι πάνυ, τούτους δὲ πλάγιος διαμέτρου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.3",
+      "text": "συνδεῖ κανών, τρίτον δ’ ἑλικτῷ βοστρύχῳ προσεμφερές.[ln_5]ἔπειτα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.4",
+      "text": "τριόδους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.5",
+      "text": "πλάγιος ὣς ἐφαίνετο, πέμπται δ’ ἄνωθεν ἰσόμετροι ῥάβδοι δύο, αὗται δὲ συντείνουσιν εἰς βάσιν μίαν· ἕκτον δ’ ὅπερ καὶ πρόσθεν εἶφ’, ὁ βόστρυχος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.1",
+      "text": "ἀπὸ τῶν θεῶν ἀρχὴν δὲ ποιεῖσθαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.2",
+      "text": "πρέπον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.1",
+      "text": "ὅστις δὲ θνητῶν μέμφεται τὰ θεῖ’, ὅτι οὐκ εὐθὺς ἀλλὰ τῷ χρόνῳ μετέρχεται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.2",
+      "text": "τοὺς μὴ δικαίους, πρόφασιν εἰσακουσάτω· εἰ μὲν γὰρ αὐτίκ’ ἦσαν αἱ τιμωρίαι,[ln_5]πολλοὶ διὰ φόβον κοὐ δι’ εὐσεβῆ τρόπον θεοὺς ἂν ηὖξον· νῦν δὲ τῆς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.3",
+      "text": "τιμωρίας ἄπωθεν οὔσης τῇ φύσει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.4",
+      "text": "χρῶνται βροτοί· ὅταν δὲ φωραθῶσιν †ὀφθέντες κακοί, τίνουσι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.5",
+      "text": "ποινὰς ὑστέροισιν ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.6",
+      "text": "χρόνοις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.1",
+      "text": "ἀλλ’ ὦ τάλαν Θυέστα, καρτέρει δάκνων ὀργῆς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.2",
+      "text": "χαλινόν· παρακελεύομαι δέ σοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.3",
+      "text": "τεθηγμένῳ νῦν· ἀλλ’ ὁ μυρίος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.4",
+      "text": "χρόνος τὰ πάντ’ ἀμαυροῖ χὐπὸ χεῖρα λαμβάνει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.1",
+      "text": "ὦ καλλιφεγγῆ λαμπάδ’ εἱλίσσων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.2",
+      "text": "φλογός Ἥλιε, ποθεινὸν πᾶσιν ἀνθρώποις σέλας, εἶδές",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.3",
+      "text": "τιν’ ἄλλον πώποτ’ εἰς οὕτω μέγαν ἐλθόντ’ ἀγῶνα καὶ δυσέκφευκτον κρίσιν;[ln_5]ὅπου κατηγορεῖ μὲν ἐν λόγοισί μου γυνή, πρὸς ὃν δ’ εἴρηκε, τυγχάνει πόσις, κρατοῦσι δ’ οἵπερ καὶ κατηγοροῦσί μου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11.1",
+      "text": "πολλὰ δεῖ μοχθεῖν τὸν ἥξοντ’ εἰς ἔπαινον εὐκλεῶς· ῥᾳθυμία δὲ τὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11.2",
+      "text": "παραυτίχ’ ἡδονήν λαβοῦσα λύπας τῷ χρόνῳ τίκτειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11.3",
+      "text": "φιλεῖ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.1",
+      "text": "ἅπαντ’ ἐν ἀνθρώποισι γηράσκειν ἔφυ καὶ πρὸς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.2",
+      "text": "τελευτὴν ἔρχεται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.3",
+      "text": "τα〈κ〉τοῦ χρόνου, πλὴν ὡς ἔοικε τῆς ἀναιδείας μόνον· αὕτη δ’ ὅσῳπερ αὔξεται θνητῶν γένος,[ln_5]τοσῷδε μείζων γίγνεται καθ’ ἡμέραν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 13.1",
+      "text": "ὅταν γὰρ ἄλοχον εἰς δόμους ἄγῃ πόσις, οὐχ ὡς δοκεῖ γυναῖκα λαμβάνει μόνον, ὁμοῦ δὲ τῇδ’ ἔτ’ εἰσκομίζεται λαβών καὶ δαίμον’ ἤτοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 13.2",
+      "text": "χρηστὸν ἢ τοὐναντίον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14",
+      "text": "γονέων τὰ τέκνα †σῴζουσιν αἱ συμβουλίαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15.1",
+      "text": "ἐγὼ μὲν οὔποτ’ εὐγένειαν ᾔνεσα τὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15.2",
+      "text": "προστάταισι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15.3",
+      "text": "χρωμένην ἀναξίοις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16",
+      "text": "πολυσπερεῖ μέν, ὦ γέρον, καθ’ Ἑλλάδα φήμῃ πλανᾶται καὶ διέγνωσται πάλαι τὸ μὴ βεβαίους τὰς βροτῶν εἶναι τύχας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17.1",
+      "text": "(ὁ ἥλιος αἴτιος) τοῦ μέλανας εἶναι καὶ οὐλότριχας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17.2",
+      "text": "τοὺς Αἰθίοπας,[ln_1]οἷς ἀγχιτέρμων ἥλιος διφρηλατῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17.3",
+      "text": "σκοτεινὸν ἄνθος ἐξέχρωσε λιγνύος εἰς σώματ’ ἀνδρῶν καὶ συνέστρεψεν κόμας μορφαῖς ἀναυξήτοισι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17.4",
+      "text": "συντήξας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17.5",
+      "text": "πυρός",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.1",
+      "text": "(γρῖφος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.2",
+      "text": "περὶ τῆς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.3",
+      "text": "σκιᾶς)[ln_1]τίς φύσις οὔθ’ ὅσα γαῖα φέρει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.4",
+      "text": "τροφὸς οὔθ’ ὅσα πόντος οὔτε βροτοῖσιν ἔχει γυίων αὔξησιν ὁμοίαν, ἀλλ’ ἐν μὲν γενέσει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.5",
+      "text": "πρωτοσπόρῳ ἐστὶ μεγίστη, ἐν δὲ μέσαις ἀκμαῖς μικρά, γήρᾳ δὲ πρὸς αὐτῷ[ln_5]μορφῇ καὶ μεγέθει μείζων πάλιν ἐστὶν ἁπάντων;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 19?",
+      "text": "[].θην ὑπο []ι̣δ̣[.]μ̣ος δ[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 20?",
+      "text": "[ ]ης ὑπ’ ἀγ̣κ̣ά[λαις []ιδ’ ἀποθάνω βα̣τ[",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "fnw-aa",
+      "title": {
+        "english": "Fragments on Achilles and Thetis",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀχιλλέως καὶ Θέτιδος"
+      },
+      "url_slug": "astydamas-the-younger-achilles-thetis-fnw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/astydamas-the-younger/achilles-thetis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/astydamas-the-younger-achilles-thetis-fnw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/astydamas-the-younger-achilles-thetis-fnw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/astydamas-the-younger-achilles-thetis-fnw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/astydamas-the-younger-achilles-thetis-fnw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/astydamas-the-younger/achilles-thetis.epub"
+      }
+    },
+    {
+      "eul_wid": "bjk-aa",
+      "title": {
+        "english": "Fragments on Heracles",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἡρακλέους"
+      },
+      "url_slug": "phrynichus-the-tragic-poet-heracles-fragments-bjk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/phrynichus-the-tragic-poet/heracles-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-tragic-poet-heracles-fragments-bjk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-tragic-poet-heracles-fragments-bjk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-tragic-poet-heracles-fragments-bjk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-tragic-poet-heracles-fragments-bjk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-tragic-poet/heracles-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "grw-aa",
+      "title": {
+        "english": "Fragments on Love and Family",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἔρωτος καὶ Οἰκίας"
+      },
+      "url_slug": "dicaeogenes-love-family-grw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dicaeogenes/love-family",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dicaeogenes-love-family-grw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dicaeogenes-love-family-grw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dicaeogenes-love-family-grw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dicaeogenes-love-family-grw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dicaeogenes/love-family.epub"
+      }
+    },
+    {
+      "eul_wid": "epg-aa",
+      "title": {
+        "english": "Genealogical Fragments of Heroes",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γενεαλογιῶν Ἡρώων"
+      },
+      "url_slug": "choerilus-of-athens-genealogical-heroes-epg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/choerilus-of-athens/genealogical-heroes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-athens-genealogical-heroes-epg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-athens-genealogical-heroes-epg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-athens-genealogical-heroes-epg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-athens-genealogical-heroes-epg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-athens/genealogical-heroes.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-ba",
+      "title": {
+        "english": "Hecuba",
+        "ancient_greek": "Ἑκάβη"
+      },
+      "url_slug": "euripides-hecuba-cbm-ba",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/hecuba",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-hecuba-cbm-ba.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-hecuba-cbm-ba.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-hecuba-cbm-ba.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-hecuba-cbm-ba.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/hecuba.epub"
+      }
+    },
+    {
+      "eul_wid": "buo-ag",
+      "title": {
+        "english": "Hymn to Dionysus Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "sophocles-hymn-dionysus-buo-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/sophocles/hymn-dionysus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-hymn-dionysus-buo-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-hymn-dionysus-buo-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-hymn-dionysus-buo-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-hymn-dionysus-buo-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/hymn-dionysus.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-af",
+      "title": {
+        "english": "Phoenician Women",
+        "ancient_greek": "Φοίνισσαι"
+      },
+      "url_slug": "euripides-phoenician-women-cbm-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/phoenician-women",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-phoenician-women-cbm-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-phoenician-women-cbm-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-phoenician-women-cbm-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-phoenician-women-cbm-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/phoenician-women.epub"
+      }
+    },
+    {
+      "eul_wid": "emo-ac",
+      "title": {
+        "english": "Prometheus Bound",
+        "ancient_greek": "Προμηθεὺς Δεσμώτης"
+      },
+      "url_slug": "aeschylus-prometheus-bound-emo-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus/prometheus-bound",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-prometheus-bound-emo-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-prometheus-bound-emo-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-prometheus-bound-emo-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-prometheus-bound-emo-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/prometheus-bound.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/theodectes-of-phaselis/women-justice",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodectes-of-phaselis-women-justice-fjg-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodectes-of-phaselis-women-justice-fjg-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodectes-of-phaselis-women-justice-fjg-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodectes-of-phaselis-women-justice-fjg-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodectes-of-phaselis/women-justice.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

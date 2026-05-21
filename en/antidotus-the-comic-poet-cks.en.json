@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "cks",
+  "auth_slug": "antidotus-the-comic-poet",
+  "name": {
+    "english": "Antidotus the Comic Poet",
+    "ancient_greek": "Ἀντίδοτος ὁ Κωμικός"
+  },
+  "seo_h1": "Antidotus the Comic Poet on Healing and Parasitism",
+  "seo": {
+    "browser_title": "Antidotus the Comic Poet on Eulogikon Greek Archive",
+    "meta_title": "Antidotus Ancient Greek Comedy Works and Fragments",
+    "meta_description": "Antidotus, a 4th century BCE Athenian poet of Middle Comedy. Read his surviving fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Antidotus was a comic poet active in Athens during the 4th century BCE, a period of transition in Greek comedy. He is considered a figure of Middle Comedy, a style that moved away from the direct political satire of earlier Old Comedy toward more generalized social humor and themes from daily life.</p>\n<p class=\"research-text\">Almost nothing is known about his personal life, and his work survives only in fragments. According to the later writer Athenaeus, Antidotus wrote at least two comedies: Progone and Stratiotes. A few lines from each are preserved, often mentioning food and social types, which aligns with the characteristic interests of Middle Comedy.</p>\n<p class=\"research-text\">Antidotus&#x27;s historical importance lies in his role as one of many fragmentary comic poets. While not a major figure himself, the study of writers like Antidotus helps modern scholars piece together the broader landscape of Athenian theater. His surviving lines contribute to our understanding of how comedy evolved in the 4th century, highlighting its shift toward parodying character types and everyday social life.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "cks-aa",
+      "title": {
+        "english": "Fragments on Healing",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἰάσεως"
+      },
+      "url_slug": "antidotus-the-comic-poet-healing-cks-aa",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/antidotus-the-comic-poet/healing",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-the-comic-poet-healing-cks-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-the-comic-poet-healing-cks-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-the-comic-poet-healing-cks-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-the-comic-poet-healing-cks-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-the-comic-poet/healing.epub"
+      }
+    },
+    {
+      "eul_wid": "cks-ab",
+      "title": {
+        "english": "Fragments on the Art of Parasitism",
+        "ancient_greek": "Ἀποσπάσματα περὶ Τέχνης Παρασιτισμοῦ"
+      },
+      "url_slug": "antidotus-the-comic-poet-art-parasitism-cks-ab",
+      "passages": 6,
+      "links": {
+        "html": "https://eulogikon.org/grc/antidotus-the-comic-poet/art-parasitism",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-the-comic-poet-art-parasitism-cks-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-the-comic-poet-art-parasitism-cks-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-the-comic-poet-art-parasitism-cks-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-the-comic-poet-art-parasitism-cks-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-the-comic-poet/art-parasitism.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/antidotus-the-comic-poet",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antidotus-the-comic-poet-cks.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antidotus-the-comic-poet-cks.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antidotus-the-comic-poet-cks.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antidotus-the-comic-poet-cks.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

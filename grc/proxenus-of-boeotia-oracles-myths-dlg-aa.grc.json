@@ -1,0 +1,247 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "dlg-aa",
+  "eul_aid": "dlg",
+  "author_slug": "proxenus-of-boeotia",
+  "work_slug": "oracles-myths",
+  "url_slug": "proxenus-of-boeotia-oracles-myths-dlg-aa",
+  "author": {
+    "english": "Proxenus of Boeotia",
+    "ancient_greek": "Πρόξενος ὁ Βοιωτός"
+  },
+  "title": {
+    "english": "Epeirotica: Oracles and Myths",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Epeirotica Oracles and Myths by Proxenus on Eulogikon",
+    "meta_title": "Ancient Epeirotica Oracles and Myths by Proxenus in Greek",
+    "meta_description": "Epeirotica Oracles and Myths by Proxenus presents local history, traditions, oracles, and myths. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">_Epeirotica: Oracles and Myths_ is a lost prose work of local history attributed to Proxenus of Boeotia. Functioning as a periegesis, or regional guide, it compiled narratives concerning the oracles, myths, and religious traditions of Epirus in northwestern Greece. The work survives only in fragments, preserved through citations by later authors such as the geographer Strabo. Its content likely included detailed documentation of oracular sites, most prominently the famous oracle of Zeus at Dodona, alongside foundational myths for Epirote cities and tribes, heroic genealogies linking local populations to epic figures, and descriptions of distinctive regional rituals and cults. By serving as a source for later geographers and mythographers, Proxenus’s research on the sacred and historical landscape of Epirus contributed to the broader Greco-Roman understanding of the region.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t2-5",
+      "text": "ΗΠΕΙΡΩΤΙΚΑ. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "vulg. Hom. Odyss. ξ, 327: Ποιμὴν νέμων πρόβατα ἐν τοῖς τῆς Δωδώνης ἕλεσι τοῦ πέλας ὑφείλατο νομὴν καλλίστην, καὶ εἵρξας εἰς τὴν σφετέραν αὐλὴν ἐφύλασσεν. Ὅθεν τὸν δεσπότην φασὶ ζητεῖν παρὰ τοῖς ποιμέσι τὰ κεκλεμμένα πρόβατα, μὴ εὑρόντα δὲ ἐρωτᾶν τὸν θεὸν τίς ἐστιν ὁ κλέψας. Τότε πρῶτον, φασὶ, τὴν δρῦν φωνὴν ἀφεῖναι, ὅτι τῶν ἀκολουθούντων ὁ νεώτατος. Ἐξετάσαντα δὲ τὸ λόγιον εὑρεῖν παρὰ τῷ ποιμένι νεωστὶ βοσκήσαντι ἐν τῷ χωρίῳ· ἀκόλουθοι δὲ λέγονται οἱ ποίμενες. Ἦν δὲ τὸ ὄνομα Μαρδύλας ὁ κλέψας. Τοῦτον λέγεται προσοργισθέντα τῇ δρυῒ θελῆσαι αὐτὴν ἐκκόψαι νύκτωρ· πελειάδα δὲ ἐκ τοῦ στελέχους ἀνακύψασαν ἐπιτάξαι μὴ τοῦτο δρᾶν· τὸν δὲ δειματωθέντα μηκέτι τοῦτο τολμῆσαι, μὴ θιγεῖν τοῦ ἱεροῦ τούτου δένδρου. Οὐ μὴν ἀλλὰ καὶ διὰ τὸ τόλμημα μηνίσαι αὐτῷ τοὺς Ἠπειρώτας· ὅθεν καὶ λαβόντας δίκην ταύτην εἰσπράξασθαι τῆς ἀπ’ αὐτοῦ ὑπομενῆς τὸν μάντιν προάγει. Ἡ ἱστορία παρὰ τῷ Προξένῳ. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Hom. Odyss. α, 259 [παρ’ Ἴλου] Τινὲς Ἴρου γράφουσι ... Καὶ Πρόξενος ἐν Ἠπειρωτικοῖς Ἶρόν φησι Μερμέρου παῖδα. Steph.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Byz.: Χαονία, μέση τῆς Ἠπείρου. Οἱ οἰκήτορες Χάονες. Ἑλλάνικος Ἱερειῶν Ἥρας τρίτῳ· «Ἀμβρακιῶται καὶ οἱ μετ’ αὐτῶν Χάονες καὶ Ἠπειρῶται.» Καὶ ὁ Πρόξενος δὲ καταλέγων αὐτούς φησι· «Χάονες, Θεσπρωτοί, Τυμφαῖοι, Παραύαιοι, Ἀμύμονες, Ἄβαντες, Κασωποί.» Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "Apoll. Rh. I, 97: Ἄλκωνα τὸν Φαλήρου πατέρα Πρόξενος φησὶν υἱὸν Ἐρεχθέως. Φυγεῖν δ’ αὐτὸν λέγει ἀπὸ τῆς Ἀττικῆς μετὰ τῆς θυγατρὸς Χαλκιόπης εἰς Εὔβοιαν· ἐξαιτοῦντος δὲ τοῦ πατρὸς οὐκ ἐκδοῦναι τοὺς Χαλκιδέας. ΠΕΡΙ ΠΟΡΘΜΩΝ ΣΙΚΕΔΙΚΩΝ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "t7",
+      "text": "E LIBRO PRIMO . Stephan.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "Byz.: Γέλα, πόλις Σικελίας .... καλεῖται δὲ ἀπὸ τοῦ ποταμοῦ Γέλα· ὁ δὲ ποταμὸς, ὅτι πολλὴν πάχνην γεννᾷ· ταύτην γὰρ τῇ Ὀπικῶν φωνῇ καὶ Σικελῶν γέλαν λέγεσθαι. Πρόξενος δ’ ἐν πρώτῃ τῶν Περὶ πόρθμων Σικελικῶν καὶ Ἑλλάνικος ἀπὸ Γέλωνος, τοῦ Αἴτνης καὶ Ὑμάρου. ΛΑΚΩΝΙΚΗ ΠΟΛΙΤΕΙΑ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "t8",
+      "text": "E LIBRO SECUNDO. Athenaeus VI: Πρόξενος δ’ ἐν δευτέρῳ Λακωνικῆς πολιτείας ἐπικαλεῖσθαί φησι χαλκίδας παρὰ Λακεδαιμονίοις τὰς θεραπαίνας.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "jry-aa",
+      "title": {
+        "english": "Fragments on Delian Legends",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Δηλίων Μύθων"
+      },
+      "url_slug": "phanodicus-delian-legends-jry-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/phanodicus/delian-legends",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanodicus-delian-legends-jry-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanodicus-delian-legends-jry-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanodicus-delian-legends-jry-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanodicus-delian-legends-jry-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanodicus/delian-legends.epub"
+      }
+    },
+    {
+      "eul_wid": "bpe-aa",
+      "title": {
+        "english": "Fragments on Genealogies",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γενεαλογιῶν"
+      },
+      "url_slug": "andron-of-halicarnassus-i-genealogies-bpe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/andron-of-halicarnassus-i/genealogies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-halicarnassus-i-genealogies-bpe-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-halicarnassus-i-genealogies-bpe-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-halicarnassus-i-genealogies-bpe-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-halicarnassus-i-genealogies-bpe-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-halicarnassus-i/genealogies.epub"
+      }
+    },
+    {
+      "eul_wid": "kby-aa",
+      "title": {
+        "english": "Fragments on Miletus and Its Myths",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μιλήτου καὶ τῶν Μύθων αὐτῆς"
+      },
+      "url_slug": "aristocritus-of-miletus-myths-kby-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristocritus-of-miletus/myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocritus-of-miletus-myths-kby-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocritus-of-miletus-myths-kby-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocritus-of-miletus-myths-kby-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocritus-of-miletus-myths-kby-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocritus-of-miletus/myths.epub"
+      }
+    },
+    {
+      "eul_wid": "lju-ab",
+      "title": {
+        "english": "Historical Fragments of Duris",
+        "ancient_greek": "Ἀποσπάσματα Δούριδος"
+      },
+      "url_slug": "duris-of-samos-historical-fragments-lju-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/duris-of-samos/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/duris-of-samos-historical-fragments-lju-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/duris-of-samos-historical-fragments-lju-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/duris-of-samos-historical-fragments-lju-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/duris-of-samos-historical-fragments-lju-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/duris-of-samos/historical-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "bli-ab",
+      "title": {
+        "english": "Historical Fragments of Hecataeus",
+        "ancient_greek": "Ἀποσπάσματα Ἑκαταίου"
+      },
+      "url_slug": "hecataeus-of-miletus-historical-fragments-bli-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hecataeus-of-miletus/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-historical-fragments-bli-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-historical-fragments-bli-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-historical-fragments-bli-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-historical-fragments-bli-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus/historical-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "jre-ad",
+      "title": {
+        "english": "On Transformations",
+        "ancient_greek": "Περὶ μεταμορφώσεων"
+      },
+      "url_slug": "paradoxographer-anon-transformations-jre-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/paradoxographer-anon/transformations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-transformations-jre-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-transformations-jre-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-transformations-jre-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-transformations-jre-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/transformations.epub"
+      }
+    },
+    {
+      "eul_wid": "mmg-bh",
+      "title": {
+        "english": "Roman Sayings",
+        "ancient_greek": "Ῥωμαϊκὰ Ἐφημερίδες"
+      },
+      "url_slug": "historical-fragments-anonymous-roman-sayings-mmg-bh",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/roman-sayings",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-roman-sayings-mmg-bh.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-roman-sayings-mmg-bh.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-roman-sayings-mmg-bh.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-roman-sayings-mmg-bh.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/roman-sayings.epub"
+      }
+    },
+    {
+      "eul_wid": "ubo-aa",
+      "title": {
+        "english": "Symposium or Banquet of Ten Virgins",
+        "ancient_greek": "Συμπόσιον ἢ Δεῖπνον Δέκα Παρθένων"
+      },
+      "url_slug": "anonymous-historical-work-symposium-virgins-ubo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-historical-work/symposium-virgins",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work-symposium-virgins-ubo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work-symposium-virgins-ubo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work-symposium-virgins-ubo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work-symposium-virgins-ubo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/symposium-virgins.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/proxenus-of-boeotia/oracles-myths",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proxenus-of-boeotia-oracles-myths-dlg-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proxenus-of-boeotia-oracles-myths-dlg-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proxenus-of-boeotia-oracles-myths-dlg-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proxenus-of-boeotia-oracles-myths-dlg-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proxenus-of-boeotia/oracles-myths.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

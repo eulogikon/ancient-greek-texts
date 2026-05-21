@@ -1,0 +1,277 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "fdw",
+  "auth_slug": "heraclides-of-pontus",
+  "name": {
+    "english": "Heraclides of Pontus",
+    "ancient_greek": "Ἡρακλείδης ὁ Ποντικός"
+  },
+  "seo_h1": "Heraclides of Pontus on Prosody and Platonic Thought",
+  "seo": {
+    "browser_title": "Heraclides Ponticus on Eulogikon Greek Archive and Library",
+    "meta_title": "Heraclides Ponticus Ancient Greek Philosophical Works",
+    "meta_description": "Heraclides Ponticus was a 4th century BCE Greek philosopher and astronomer. Two treatises survive. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Platonist",
+      "href": "/affiliations/platonist"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Heraclides of Pontus was a Greek philosopher and astronomer of the 4th century BCE. Born in Heraclea Pontica on the coast of the Black Sea, he studied in Athens, first under Plato and later under Aristotle, becoming a member of Plato’s Academy. Ancient sources indicate he was considered for leadership of the Academy but did not receive the position, eventually returning to his hometown.</p>\n<p class=\"research-text\">Heraclides wrote extensively on a wide range of subjects, including ethics, astronomy, theology, and literature. None of his works survive complete; they are known only through fragments and reports by later authors. Titles attributed to him include <strong>On the Soul</strong>, <strong>On Justice</strong>, and <strong>On the Heavens</strong>. His historical importance lies in his innovative ideas, which blended Platonic, Pythagorean, and early Aristotelian thought.</p>\n<p class=\"research-text\">In astronomy, he is particularly noted for proposing that the Earth rotates on its axis to explain the daily movement of the stars. Some scholars also report that he suggested Venus and Mercury orbit the Sun. In philosophy, his dialogues explored themes like the soul’s immortality and the nature of virtue. Modern scholars view him as a significant transitional figure between the philosophy of Plato and the developments of the Hellenistic period.</p>\n</div>",
+  "affiliation_label": "Platonist",
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "fdw-aa",
+      "title": {
+        "english": "On Difficult Words",
+        "ancient_greek": "Περὶ δυσκλίτων ῥημάτων"
+      },
+      "url_slug": "heraclides-of-pontus-difficult-words-fdw-aa",
+      "passages": 6,
+      "links": {
+        "html": "https://eulogikon.org/grc/heraclides-of-pontus/difficult-words",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-difficult-words-fdw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-difficult-words-fdw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-difficult-words-fdw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-difficult-words-fdw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus/difficult-words.epub"
+      }
+    },
+    {
+      "eul_wid": "fdw-ab",
+      "title": {
+        "english": "On Prosody and Accent",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "heraclides-of-pontus-prosody-accent-fdw-ab",
+      "passages": 65,
+      "links": {
+        "html": "https://eulogikon.org/grc/heraclides-of-pontus/prosody-accent",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-prosody-accent-fdw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-prosody-accent-fdw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-prosody-accent-fdw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-prosody-accent-fdw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus/prosody-accent.epub"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "qhm",
+      "name": {
+        "english": "Albinus the Platonist",
+        "ancient_greek": "Ἀλβῖνος ὁ Πλατωνικός"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/albinus-the-platonist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/albinus-the-platonist-qhm.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/albinus-the-platonist-qhm.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/albinus-the-platonist-qhm.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/albinus-the-platonist-qhm.en.json"
+      }
+    },
+    {
+      "eul_aid": "ufa",
+      "name": {
+        "english": "Alexander of Lycopolis",
+        "ancient_greek": "Ἀλέξανδρος Λυκοπολίτης"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/alexander-of-lycopolis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-lycopolis-ufa.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-lycopolis-ufa.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-lycopolis-ufa.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-lycopolis-ufa.en.json"
+      }
+    },
+    {
+      "eul_aid": "lgs",
+      "name": {
+        "english": "Anonymous Commentary on Plato",
+        "ancient_greek": "Ἀνώνυμος ὑπόμνημα εἰς τὸν Πλάτωνος Θεαίτητον"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/anonymous-commentary-on-plato-theaetetus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-commentary-on-plato-theaetetus-lgs.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-commentary-on-plato-theaetetus-lgs.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-commentary-on-plato-theaetetus-lgs.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-commentary-on-plato-theaetetus-lgs.en.json"
+      }
+    },
+    {
+      "eul_aid": "ddo",
+      "name": {
+        "english": "Arimnestus the Philosopher",
+        "ancient_greek": "Ἀρίμνηστος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/arimnestus-the-philosopher",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arimnestus-the-philosopher-ddo.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arimnestus-the-philosopher-ddo.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arimnestus-the-philosopher-ddo.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arimnestus-the-philosopher-ddo.en.json"
+      }
+    },
+    {
+      "eul_aid": "rai",
+      "name": {
+        "english": "Atticus the Philosopher",
+        "ancient_greek": "Ἀττικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/atticus-the-philosopher",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/atticus-the-philosopher-rai.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/atticus-the-philosopher-rai.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/atticus-the-philosopher-rai.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/atticus-the-philosopher-rai.en.json"
+      }
+    },
+    {
+      "eul_aid": "rmq",
+      "name": {
+        "english": "Cassius Longinus the Philosopher",
+        "ancient_greek": "Κάσσιος Λογγῖνος"
+      },
+      "work_count": 3,
+      "links": {
+        "html": "https://eulogikon.org/en/cassius-longinus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cassius-longinus-rmq.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cassius-longinus-rmq.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cassius-longinus-rmq.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cassius-longinus-rmq.en.json"
+      }
+    },
+    {
+      "eul_aid": "quy",
+      "name": {
+        "english": "Celsus the Platonist",
+        "ancient_greek": "Κέλσος ὁ Πλατωνικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/celsus-the-platonist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/celsus-the-platonist-quy.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/celsus-the-platonist-quy.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/celsus-the-platonist-quy.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/celsus-the-platonist-quy.en.json"
+      }
+    },
+    {
+      "eul_aid": "hhq",
+      "name": {
+        "english": "Crantor of Soli",
+        "ancient_greek": "Κράντωρ ὁ Σολεύς"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/crantor-of-soli",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crantor-of-soli-hhq.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crantor-of-soli-hhq.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crantor-of-soli-hhq.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crantor-of-soli-hhq.en.json"
+      }
+    },
+    {
+      "eul_aid": "nso",
+      "name": {
+        "english": "Eudromus the Philosopher",
+        "ancient_greek": "Εὔδρομος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/eudromus-the-philosopher",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eudromus-the-philosopher-nso.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eudromus-the-philosopher-nso.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eudromus-the-philosopher-nso.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eudromus-the-philosopher-nso.en.json"
+      }
+    },
+    {
+      "eul_aid": "fve",
+      "name": {
+        "english": "Heraclides of Pontus II",
+        "ancient_greek": "Ἡρακλείδης ὁ Ποντικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/heraclides-of-pontus-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-ii-fve.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-ii-fve.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-ii-fve.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-ii-fve.en.json"
+      }
+    },
+    {
+      "eul_aid": "feg",
+      "name": {
+        "english": "Heraclides of Pontus III",
+        "ancient_greek": "Ἡρακλείδης ὁ Ποντικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/heraclides-of-pontus-iii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-iii-feg.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-iii-feg.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-iii-feg.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-iii-feg.en.json"
+      }
+    },
+    {
+      "eul_aid": "uuk",
+      "name": {
+        "english": "Introduction Platonism Anonymous",
+        "ancient_greek": "Ἀνώνυμος Προλεγόμενα εἰς τὴν Πλατωνικὴν Φιλοσοφίαν"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/anonymous-introduction-to-platonism",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-introduction-to-platonism-uuk.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-introduction-to-platonism-uuk.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-introduction-to-platonism-uuk.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-introduction-to-platonism-uuk.en.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/heraclides-of-pontus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-fdw.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-fdw.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-fdw.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-fdw.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

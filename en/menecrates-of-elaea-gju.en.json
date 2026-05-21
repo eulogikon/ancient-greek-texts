@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "gju",
+  "auth_slug": "menecrates-of-elaea",
+  "name": {
+    "english": "Menecrates of Elaea",
+    "ancient_greek": "Μενεκράτης ὁ Ἐλαιεύς"
+  },
+  "seo_h1": "Menecrates of Elaea on City Foundations",
+  "seo": {
+    "browser_title": "Menecrates of Elaea on Eulogikon Greek Archive Collection",
+    "meta_title": "Menecrates of Elaea Ancient Greek Historical Works",
+    "meta_description": "Menecrates of Elaea was a 4th century BCE historian writing in Attic Greek. His surviving historical fragments preserved. Free to download from Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Menecrates of Elaea was a Greek historian of the 4th century BCE from the city of Elaea in Aeolis, Asia Minor. No details of his life or education survive beyond his name and origin.</p>\n<p class=\"research-text\">His sole known work is the Foundations of Cities, a prose account now lost and preserved only in fragments. These are collected as number 741 in Die Fragmente der griechischen Historiker. Menecrates represents the local historiography of Asia Minor. His Foundations belonged to the genre of &quot;ktiseis,&quot; which detailed the mythical and historical origins of cities to construct civic identity and connect to Panhellenic tradition.</p>\n<p class=\"research-text\">His fragments, cited by later authors like Strabo, served as a source for regional topography and foundation legends, particularly for Aeolis.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "gju-aa",
+      "title": {
+        "english": "Fragments on City Foundations",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κτισμάτων Πόλεων"
+      },
+      "url_slug": "menecrates-of-elaea-city-foundations-gju-aa",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/menecrates-of-elaea/city-foundations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-elaea-city-foundations-gju-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-elaea-city-foundations-gju-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-elaea-city-foundations-gju-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-elaea-city-foundations-gju-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-elaea/city-foundations.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/menecrates-of-elaea",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/menecrates-of-elaea-gju.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/menecrates-of-elaea-gju.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/menecrates-of-elaea-gju.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/menecrates-of-elaea-gju.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

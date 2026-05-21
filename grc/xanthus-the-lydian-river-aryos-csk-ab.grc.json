@@ -1,0 +1,215 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "csk-ab",
+  "eul_aid": "csk",
+  "author_slug": "xanthus-the-lydian",
+  "work_slug": "river-aryos",
+  "url_slug": "xanthus-the-lydian-river-aryos-csk-ab",
+  "author": {
+    "english": "Xanthus the Lydian Historian",
+    "ancient_greek": "Ξάνθος ὁ Λυδός"
+  },
+  "title": {
+    "english": "On the River Aryos",
+    "ancient_greek": "Ἀπόσπασμα"
+  },
+  "seo": {
+    "browser_title": "On the River Aryos by Xanthus the Lydian on Eulogikon",
+    "meta_title": "Ancient On the River Aryos by Xanthus the Lydian in Greek",
+    "meta_description": "Fragment from Xanthus of Lydia, a 5th-century BCE historian. Ionic Greek prose on a geographical feature. Read in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On the River Aryos</strong> is a surviving fragment from the lost historical works of Xanthus of Lydia, a fifth-century BCE author. Preserved only as a quotation within the later <strong>Geography</strong> of Strabo, the brief passage is written in Ionic Greek prose and constitutes a piece of geographical or ethnographic description. It identifies the Aryos as a river in Lydia and records the local report that sheep drinking from its waters turn black. This focus on a regional natural marvel is characteristic of the early Greek logographers, who compiled histories and curiosities of foreign lands. The fragment’s original context is uncertain, but it is believed to have been part of Xanthus’s comprehensive history of Lydia, composed to acquaint a Greek audience with his native country. As the sole extant excerpt, the complete scope and arrangement of the parent work remain unknown. Scholars regard the fragment as a representative artifact of early ethnographic inquiry, illustrating the type of authoritative local source material that later influenced major historians like Herodotus and geographers like Strabo.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "2 bis.(l1)",
+      "text": "HERODIANOS Καθολικὴ προσωιδία 7, Cod. Vindob. Hist. Gr. 10 fol. 6 v. ed. H. Hunger, Jahrb. Österr. Byz. Gesellsch. 16, 1967, 10. 17: τὰ εἰς ‘–υοσ‘ λήγοντα καθαρὸν ὑπὲρ δύο συλλαβὰς παραληγόμενα τῶι ‘υ‘ ... συνεσταλμένωι προπαροξύνεται ... ἔστι δὲ ποταμὸς περὶ Λυδίαν, ὥς φησι Ξάνθος ἐν α Λυδιακῶ ν, ‘Ἄρυοσ‘.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "csk-aa",
+      "title": {
+        "english": "Lydian History and Origins",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "xanthus-the-lydian-history-origins-csk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/xanthus-the-lydian/history-origins",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian-history-origins-csk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian-history-origins-csk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian-history-origins-csk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian-history-origins-csk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian/history-origins.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "jhy-aa",
+      "title": {
+        "english": "Fragments on Dionysian Genealogy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Διονυσιακῆς Γενεαλογίας"
+      },
+      "url_slug": "satyrus-of-callatis-dionysian-genealogy-jhy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/satyrus-of-callatis/dionysian-genealogy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/satyrus-of-callatis-dionysian-genealogy-jhy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/satyrus-of-callatis-dionysian-genealogy-jhy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/satyrus-of-callatis-dionysian-genealogy-jhy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/satyrus-of-callatis-dionysian-genealogy-jhy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/satyrus-of-callatis/dionysian-genealogy.epub"
+      }
+    },
+    {
+      "eul_wid": "kdw-aa",
+      "title": {
+        "english": "Geographical Fragments on Caria",
+        "ancient_greek": "Ἀποσπάσματα περὶ Καρίας"
+      },
+      "url_slug": "apollonius-of-aphrodisias-geographical-caria-kdw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollonius-of-aphrodisias/geographical-caria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-aphrodisias-geographical-caria-kdw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-aphrodisias-geographical-caria-kdw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-aphrodisias-geographical-caria-kdw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-aphrodisias-geographical-caria-kdw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-aphrodisias/geographical-caria.epub"
+      }
+    },
+    {
+      "eul_wid": "bli-ac",
+      "title": {
+        "english": "Geographical Fragments on Europe",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Εὐρώπης"
+      },
+      "url_slug": "hecataeus-of-miletus-geographical-europe-bli-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hecataeus-of-miletus/geographical-europe",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-geographical-europe-bli-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-geographical-europe-bli-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-geographical-europe-bli-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-geographical-europe-bli-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus/geographical-europe.epub"
+      }
+    },
+    {
+      "eul_wid": "mmg-at",
+      "title": {
+        "english": "History of Alexander (Fragment C)",
+        "ancient_greek": "Ἱστορία Ἀλεξάνδρου"
+      },
+      "url_slug": "historical-fragments-anonymous-alexander-at-mmg-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/alexander-at",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-alexander-at-mmg-at.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-alexander-at-mmg-at.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-alexander-at-mmg-at.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-alexander-at-mmg-at.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/alexander-at.epub"
+      }
+    },
+    {
+      "eul_wid": "gko-aa",
+      "title": {
+        "english": "On Vessels and Drinking Cups",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "menesthenes-the-historian-vessels-cups-gko-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/menesthenes-the-historian/vessels-cups",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menesthenes-the-historian-vessels-cups-gko-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menesthenes-the-historian-vessels-cups-gko-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menesthenes-the-historian-vessels-cups-gko-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menesthenes-the-historian-vessels-cups-gko-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menesthenes-the-historian/vessels-cups.epub"
+      }
+    },
+    {
+      "eul_wid": "mmg-bj",
+      "title": {
+        "english": "On the Nile",
+        "ancient_greek": "Περὶ τοῦ Νείλου"
+      },
+      "url_slug": "historical-fragments-anonymous-nile-mmg-bj",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/nile",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-nile-mmg-bj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-nile-mmg-bj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-nile-mmg-bj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-nile-mmg-bj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/nile.epub"
+      }
+    },
+    {
+      "eul_wid": "rwg-aa",
+      "title": {
+        "english": "On the Orchomenians",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "callippus-of-corinth-orchomenians-rwg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/callippus-of-corinth/orchomenians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callippus-of-corinth-orchomenians-rwg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callippus-of-corinth-orchomenians-rwg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callippus-of-corinth-orchomenians-rwg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callippus-of-corinth-orchomenians-rwg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callippus-of-corinth/orchomenians.epub"
+      }
+    },
+    {
+      "eul_wid": "kws-aa",
+      "title": {
+        "english": "On the Tyrants of Ephesus",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "bato-of-sinope-tyrants-ephesus-kws-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/bato-of-sinope/tyrants-ephesus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-of-sinope-tyrants-ephesus-kws-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-of-sinope-tyrants-ephesus-kws-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-of-sinope-tyrants-ephesus-kws-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-of-sinope-tyrants-ephesus-kws-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-of-sinope/tyrants-ephesus.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/xanthus-the-lydian/river-aryos",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian-river-aryos-csk-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian-river-aryos-csk-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian-river-aryos-csk-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian-river-aryos-csk-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian/river-aryos.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

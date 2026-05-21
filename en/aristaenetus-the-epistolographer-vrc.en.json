@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "vrc",
+  "auth_slug": "aristaenetus-the-epistolographer",
+  "name": {
+    "english": "Aristaenetus the Epistolographer",
+    "ancient_greek": "Ἀρισταίνετος"
+  },
+  "seo_h1": "Aristaenetus and the Epistles on Love and Beauty",
+  "seo": {
+    "browser_title": "Aristaenetus the Epistolographer on Eulogikon Greek Archive",
+    "meta_title": "Classical Aristaenetus Ancient Greek Epistles and Letters",
+    "meta_description": "Aristaenetus, a late antique Greek epistolographer. Surviving collection of fictional love letters. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Aristaenetus was a Greek author of the late antique period, most likely active in the 5th or 6th century CE. No reliable biographical details about him survive. He is known exclusively as the author of a collection of fifty fictional Erotic Letters, a work belonging to the ancient tradition of epistolography.</p>\n<p class=\"research-text\">The letters are not original compositions but are creative reworkings of scenes drawn from earlier Greek literature, including ancient novels, comedies, and the epistolary work of writers such as Alciphron. Modern scholarship views the collection as a characteristic product of late antique literary culture, which frequently involved the imitation and repackaging of classical themes.</p>\n<p class=\"research-text\">While the letters possess limited independent literary merit, they hold significance for understanding the reception and recycling of earlier Greek texts in later periods. They preserve condensed versions of narratives and dialogues from sources that are now fragmentary or lost, offering valuable insight into the literary tastes and educational practices of his era. The entire collection survives through a single 13th-century manuscript.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "vrc-aa",
+      "title": {
+        "english": "Epistles on Love and Beauty",
+        "ancient_greek": "Ἐπιστολαί"
+      },
+      "url_slug": "aristaenetus-the-epistolographer-love-beauty-vrc-aa",
+      "passages": 61,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristaenetus-the-epistolographer/love-beauty",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristaenetus-the-epistolographer-love-beauty-vrc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristaenetus-the-epistolographer-love-beauty-vrc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristaenetus-the-epistolographer-love-beauty-vrc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristaenetus-the-epistolographer-love-beauty-vrc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristaenetus-the-epistolographer/love-beauty.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/aristaenetus-the-epistolographer",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristaenetus-the-epistolographer-vrc.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristaenetus-the-epistolographer-vrc.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristaenetus-the-epistolographer-vrc.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristaenetus-the-epistolographer-vrc.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

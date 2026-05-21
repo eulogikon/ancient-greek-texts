@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "nti",
+  "auth_slug": "anonymous-biographer",
+  "name": {
+    "english": "Biographer Anonymous",
+    "ancient_greek": "Ἄγνωστος Βιογράφος"
+  },
+  "seo_h1": "The Anonymous Biographer and the Book of Suntipa",
+  "seo": {
+    "browser_title": "Anonymous Biographer on Eulogikon Greek Archive Library",
+    "meta_title": "Anonymous Biographer Ancient Greek Biography Works",
+    "meta_description": "Anonymous Biographer, a Roman era writer of the 1st to 6th century CE. Koine Greek biographical prose. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Βίος",
+      "english": "Biography",
+      "href": "/domains/biography"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Anonymous Biographer is a modern scholarly designation for the unknown author or authors of anonymous Greek biographical works composed between the 1st and 6th centuries CE. This broad period within the Roman Empire saw the production of many unattributed texts, including imperial histories and early Christian hagiographies. The name represents a categorical figure for these texts rather than a specific historical individual.</p>\n<p class=\"research-text\">The primary work attributed to this anonymous tradition is the Life of Aesop, a prose biography in Koine Greek. It is a significant example of popular biography, blending folk narrative with a life story of the legendary fabulist. Its date is debated, with proposals ranging from the 1st to the 3rd century CE, and it survives in multiple manuscript versions.</p>\n<p class=\"research-text\">The Life of Aesop is crucial for understanding popular biography and novelistic literature in the Roman imperial period. It operates outside formal models like Plutarch’s, instead incorporating satire and folklore to explore themes of cleverness and social mobility. The text illuminates the legendary development of Aesop’s character and exemplifies textual fluidity in ancient popular literature.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "nti-aa",
+      "title": {
+        "english": "Book of Suntipa",
+        "ancient_greek": "Ιστορικον Συντιπα του Φιλοσοφου Ωραιοτατον Πανυ"
+      },
+      "url_slug": "anonymous-biographer-suntipa-nti-aa",
+      "passages": 52,
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-biographer/suntipa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-biographer-suntipa-nti-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-biographer-suntipa-nti-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-biographer-suntipa-nti-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-biographer-suntipa-nti-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-biographer/suntipa.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/anonymous-biographer",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-biographer-nti.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-biographer-nti.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-biographer-nti.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-biographer-nti.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

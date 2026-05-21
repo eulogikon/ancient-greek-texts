@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "qfe",
+  "auth_slug": "balagrus-the-historian",
+  "name": {
+    "english": "Balagrus the Historian",
+    "ancient_greek": "Βάλαγρος ὁ ἱστορικός"
+  },
+  "seo_h1": "Balagrus the Historian on Macedonian Cities",
+  "seo": {
+    "browser_title": "Balagrus the Historian on Eulogikon Greek Text Archive",
+    "meta_title": "Balagrus the Historian Ancient Greek Historical Works",
+    "meta_description": "Balagrus the Historian, a 2nd century CE Roman era writer. Surviving historical works in fragmentary Koine. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Balagrus the Historian was a Greek author of the 2nd century CE during the Roman period. No details of his life, origins, or education survive. His sole known work is a historical text, now lost and known only through a single fragment.</p>\n<p class=\"research-text\">This fragment, concerning the consumption of a specific fish, is preserved by Athenaeus of Naucratis in his Deipnosophistae, or The Learned Banqueters. Balagrus is a minor figure whose significance derives entirely from his citation in Athenaeus’s compendium, which salvages fragments from many lost authors. The passage provides a minor datum for ancient dietary habits.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "qfe-aa",
+      "title": {
+        "english": "Fragments of Macedonian Cities",
+        "ancient_greek": "Ἀποσπάσματα Μακεδονικῶν Πόλεων"
+      },
+      "url_slug": "balagrus-the-historian-macedonian-cities-qfe-aa",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/balagrus-the-historian/macedonian-cities",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/balagrus-the-historian-macedonian-cities-qfe-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/balagrus-the-historian-macedonian-cities-qfe-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/balagrus-the-historian-macedonian-cities-qfe-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/balagrus-the-historian-macedonian-cities-qfe-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/balagrus-the-historian/macedonian-cities.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/balagrus-the-historian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/balagrus-the-historian-qfe.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/balagrus-the-historian-qfe.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/balagrus-the-historian-qfe.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/balagrus-the-historian-qfe.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

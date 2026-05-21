@@ -1,0 +1,278 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "hvc-aa",
+  "eul_aid": "hvc",
+  "author_slug": "aeschrion-of-samos",
+  "work_slug": "fragments",
+  "url_slug": "aeschrion-of-samos-fragments-hvc-aa",
+  "author": {
+    "english": "Aeschrion of Samos",
+    "ancient_greek": "Αἰσχρίων ὁ Σάμιος"
+  },
+  "title": {
+    "english": "Fragments and Titles",
+    "ancient_greek": "Ἀποσπάσματα καὶ Τίτλοι"
+  },
+  "seo": {
+    "browser_title": "Fragments and Titles by Aeschrion of Samos on Eulogikon",
+    "meta_title": "Fragments and Titles by Aeschrion in Ancient Greek",
+    "meta_description": "Surviving fragments and titles of iambic poetry by Aeschrion of Samos. Read free and download in original ancient Greek at Eulogikon Archive and library"
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (ia, frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments and Titles</strong> designates the surviving iambic poetry attributed to Aeschrion of Samos. These brief passages, preserved through quotation by later authors, represent the remnants of his work. The primary source is Athenaeus’s <strong>Deipnosophistae</strong> from the second or third century CE, which cites fragments demonstrating the genre’s characteristic invective and personal satire. The fragments reveal standard iambic themes, including poetic invective, as seen in a polemical epigram attacking the courtesan Gnathaena, and literary polemic, suggesting engagement in disputes with contemporary poets or public figures. The work operates firmly within the iambic tradition of abuse and mockery established by poets like Archilochus.</p>\n<p class=\"research-text\">Aeschrion’s work survives only indirectly via quotation, with no continuous manuscript tradition. The fragments are primarily excerpted in Athenaeus’s <strong>Deipnosophistae</strong>, with possible additional attestations in the <strong>Greek Anthology</strong> and ancient scholia. As a minor Hellenistic iambic poet, Aeschrion’s direct literary influence appears minimal. His significance lies in exemplifying the genre’s continuation beyond its archaic pioneers. For scholars, the fragments contribute to understanding the scope of iambic poetry, and for ancient compilers like Athenaeus, they served as sources for historical and cultural details.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 4.1",
+      "text": "[ln_1]ἐγὼ Φιλαινὶς ἡ ’πίβωτος ἀνθρώποις ἐνταῦθα γήρᾳ τῷ μακρῷ κεκοίμημαι. μή μ’, ὦ μάταιε ναῦτα, τὴν ἄκρην κάμπτων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.2",
+      "text": "χλεύην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.3",
+      "text": "τε ποιεῦ καὶ γέλωτα καὶ λάσθην.[ln_5]οὐ γὰρ μὰ τὸν Ζῆν’, οὐ μὰ τοὺς κάτω κούρους, οὐκ ἦν ἐς ἄνδρας μάχλος οὐδὲ δημώδης. Πολυκράτης δὲ τὴν γενὴν Ἀθηναῖος, λόγων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.4",
+      "text": "τι παιπάλημα καὶ κακὴ γλῶσσα, ἔγραψεν οἷ’ ἔγραψ’· ἐγὼ γὰρ οὐκ οἶδα. *",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5",
+      "text": "[ln_1]καὶ θείην ἄγρωστιν εὗρες, ἣν Κρόνος κατέσπειρεν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6",
+      "text": "μήνη τὸ καλὸν οὐρανοῦ νέον σίγμα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7",
+      "text": "στενὸν καθ’ Ἑλλήσποντον, ἐμπόρων χώρην, ναῦται θαλάσσης ἐστρέφοντο μύρμηκες",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8",
+      "text": "ὁ δ’ ἐξελὼν ἱμάντα, φορτίου ζώνην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9",
+      "text": "ἶρις δ’ ἔλαμψε, καλὸν οὐρανοῦ τόξον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10",
+      "text": "καὶ πίσσαν ἑφθήν, ἣν θύραι μυρίζονται",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "hvc-ab",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "aeschrion-of-samos-epigram-hvc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschrion-of-samos/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschrion-of-samos-epigram-hvc-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschrion-of-samos-epigram-hvc-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschrion-of-samos-epigram-hvc-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschrion-of-samos-epigram-hvc-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschrion-of-samos/epigram.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "keg-aa",
+      "title": {
+        "english": "Anonymous-Shameful Profit",
+        "ancient_greek": "Ἄδηλον Περὶ Αἰσχροκερδείας"
+      },
+      "url_slug": "choliambica-adespota-shameful-profit-keg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/choliambica-adespota/shameful-profit",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choliambica-adespota-shameful-profit-keg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choliambica-adespota-shameful-profit-keg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choliambica-adespota-shameful-profit-keg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choliambica-adespota-shameful-profit-keg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choliambica-adespota/shameful-profit.epub"
+      }
+    },
+    {
+      "eul_wid": "bfy-ac",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "anacreon-of-teos-epigrams-bfy-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/anacreon-of-teos/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-epigrams-bfy-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-epigrams-bfy-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-epigrams-bfy-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-epigrams-bfy-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "asm-aa",
+      "title": {
+        "english": "Fragments on Marriage and Kingship",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γάμου καὶ Βασιλείας"
+      },
+      "url_slug": "alcaeus-of-mytilene-marriage-kingship-asm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/alcaeus-of-mytilene/marriage-kingship",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-of-mytilene-marriage-kingship-asm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-of-mytilene-marriage-kingship-asm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-of-mytilene-marriage-kingship-asm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-of-mytilene-marriage-kingship-asm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-of-mytilene/marriage-kingship.epub"
+      }
+    },
+    {
+      "eul_wid": "upu-az",
+      "title": {
+        "english": "Hymn 3 To Apollo",
+        "ancient_greek": "Ὕμνος εἰς Ἀπόλλωνα"
+      },
+      "url_slug": "homeric-hymns-anonymous-apollo-az-upu-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/apollo-az",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-apollo-az-upu-az.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-apollo-az-upu-az.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-apollo-az-upu-az.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-apollo-az-upu-az.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/apollo-az.epub"
+      }
+    },
+    {
+      "eul_wid": "upu-ay",
+      "title": {
+        "english": "Hymn 9 To Artemis",
+        "ancient_greek": "Ὕμνος εἰς Ἄρτεμιν"
+      },
+      "url_slug": "homeric-hymns-anonymous-artemis-ay-upu-ay",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/artemis-ay",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-artemis-ay-upu-ay.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-artemis-ay-upu-ay.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-artemis-ay-upu-ay.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-artemis-ay-upu-ay.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/artemis-ay.epub"
+      }
+    },
+    {
+      "eul_wid": "mdu-af",
+      "title": {
+        "english": "Megara",
+        "ancient_greek": "Μεγάρα"
+      },
+      "url_slug": "moschus-of-syracuse-megara-mdu-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/moschus-of-syracuse/megara",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-megara-mdu-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-megara-mdu-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-megara-mdu-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-megara-mdu-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/megara.epub"
+      }
+    },
+    {
+      "eul_wid": "lvs-aa",
+      "title": {
+        "english": "On the Tranquility of Life",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "hipparchus-of-nicaea-iii-tranquility-life-lvs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hipparchus-of-nicaea-iii/tranquility-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea-iii-tranquility-life-lvs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea-iii-tranquility-life-lvs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea-iii-tranquility-life-lvs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea-iii-tranquility-life-lvs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea-iii/tranquility-life.epub"
+      }
+    },
+    {
+      "eul_wid": "rty-aa",
+      "title": {
+        "english": "Riddles of Paradoxical Encounters",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "panarces-the-riddler-paradoxical-encounters-rty-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/panarces-the-riddler/paradoxical-encounters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panarces-the-riddler-paradoxical-encounters-rty-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panarces-the-riddler-paradoxical-encounters-rty-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panarces-the-riddler-paradoxical-encounters-rty-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panarces-the-riddler-paradoxical-encounters-rty-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panarces-the-riddler/paradoxical-encounters.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aeschrion-of-samos/fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschrion-of-samos-fragments-hvc-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschrion-of-samos-fragments-hvc-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschrion-of-samos-fragments-hvc-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschrion-of-samos-fragments-hvc-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschrion-of-samos/fragments.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

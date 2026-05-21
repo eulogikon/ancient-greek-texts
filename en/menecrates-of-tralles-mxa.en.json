@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "mxa",
+  "auth_slug": "menecrates-of-tralles",
+  "name": {
+    "english": "Menecrates of Tralles",
+    "ancient_greek": "Μενεκράτης ὁ Τραλλιανός"
+  },
+  "seo_h1": "Menecrates of Tralles on the Foundation of Nicaea",
+  "seo": {
+    "browser_title": "The Menecrates of Tralles on Eulogikon Greek Archive",
+    "meta_title": "Menecrates of Tralles Ancient Greek Historical Works",
+    "meta_description": "Menecrates of Tralles, a Hellenistic historian of 2nd-1st century BCE. Surviving historical works in Koine Greek prose. Free to download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Menecrates of Tralles was a Hellenistic historian from the city of Tralles in Caria. His life is obscure, with no surviving details regarding his education or career beyond his origin. He is generally placed in the Hellenistic period, with some estimates suggesting the 2nd–1st centuries BCE.</p>\n<p class=\"research-text\">His only known work is the lost history Foundations of Cities, which survives only in fragments. These indicate it was a compendium of local foundation myths and histories concerning various Greek cities. Menecrates is a minor figure within the tradition of Hellenistic local historiography. His significance lies in his contribution to this genre; later grammarians and commentators occasionally cite his work for details on mythological genealogies and city origins. His fragments offer a glimpse into the broader mythographic and historiographic practices of his era.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "mxa-aa",
+      "title": {
+        "english": "On the Foundation of Nicaea",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "menecrates-of-tralles-foundation-nicaea-mxa-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/menecrates-of-tralles/foundation-nicaea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-tralles-foundation-nicaea-mxa-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-tralles-foundation-nicaea-mxa-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-tralles-foundation-nicaea-mxa-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-tralles-foundation-nicaea-mxa-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-tralles/foundation-nicaea.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/menecrates-of-tralles",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/menecrates-of-tralles-mxa.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/menecrates-of-tralles-mxa.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/menecrates-of-tralles-mxa.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/menecrates-of-tralles-mxa.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

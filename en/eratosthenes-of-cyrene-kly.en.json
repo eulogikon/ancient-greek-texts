@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "kly",
+  "auth_slug": "eratosthenes-of-cyrene",
+  "name": {
+    "english": "Eratosthenes of Cyrene",
+    "ancient_greek": "Ἐρατοσθένης ὁ Κυρηναῖος"
+  },
+  "seo_h1": "Eratosthenes of Cyrene on Catasterisms and Cosmic Order",
+  "seo": {
+    "browser_title": "Eratosthenes of Cyrene on Eulogikon Greek Text Archive",
+    "meta_title": "The Eratosthenes of Cyrene Ancient Greek Treatises",
+    "meta_description": "Eratosthenes of Cyrene, a Hellenistic polymath of the 3rd century BCE. Surviving philosophical works and treatises. Free to download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Eratosthenes of Cyrene was a Greek polymath born in Cyrene around 276 BCE. He studied in Athens before being invited to Alexandria by Ptolemy III Euergetes, where he became the head of the Library of Alexandria, succeeding Apollonius of Rhodes. He held this position for decades until his death around 194 BCE. Ancient sources report he died by voluntary starvation after becoming blind, and he was nicknamed &quot;Beta,&quot; either for being considered second-best in many fields or for his versatility.</p>\n<p class=\"research-text\">His prolific output survives mostly in fragments. Major works include the Geographica, which calculated the Earth&#x27;s circumference; On the Measurement of the Earth, detailing that method; the Platonicus on Plato&#x27;s mathematics; the Catasterisms on constellation myths; and the Chronographiae, a chronology of events from the Trojan War onward. He also wrote poems like Hermes, Erigone, and Arsinoe.</p>\n<p class=\"research-text\">Eratosthenes embodies Hellenistic polymathy. His accurate calculation of Earth&#x27;s circumference founded mathematical geography. As chief librarian, he oversaw a premier center of knowledge, and his chronological work provided a historical framework. His method for finding prime numbers remains known as the Sieve of Eratosthenes.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 4,
+  "works": [
+    {
+      "eul_wid": "kly-ab",
+      "title": {
+        "english": "Catasterisms",
+        "ancient_greek": "Καταστερισμοί"
+      },
+      "url_slug": "eratosthenes-of-cyrene-catasterisms-kly-ab",
+      "passages": 56,
+      "links": {
+        "html": "https://eulogikon.org/grc/eratosthenes-of-cyrene/catasterisms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-catasterisms-kly-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-catasterisms-kly-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-catasterisms-kly-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-catasterisms-kly-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/catasterisms.epub"
+      }
+    },
+    {
+      "eul_wid": "kly-ac",
+      "title": {
+        "english": "Fragments on Cosmic Order",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κόσμου Διατάξεως"
+      },
+      "url_slug": "eratosthenes-of-cyrene-cosmic-order-kly-ac",
+      "passages": 14,
+      "links": {
+        "html": "https://eulogikon.org/grc/eratosthenes-of-cyrene/cosmic-order",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-cosmic-order-kly-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-cosmic-order-kly-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-cosmic-order-kly-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-cosmic-order-kly-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/cosmic-order.epub"
+      }
+    },
+    {
+      "eul_wid": "kly-ad",
+      "title": {
+        "english": "Fragments on Hermes and Zeus",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἑρμοῦ καὶ Διός"
+      },
+      "url_slug": "eratosthenes-of-cyrene-hermes-zeus-kly-ad",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/eratosthenes-of-cyrene/hermes-zeus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-hermes-zeus-kly-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-hermes-zeus-kly-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-hermes-zeus-kly-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-hermes-zeus-kly-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/hermes-zeus.epub"
+      }
+    },
+    {
+      "eul_wid": "kly-aa",
+      "title": {
+        "english": "On the Adornment of Stars and Their Etymology",
+        "ancient_greek": "Περὶ Κόσμου Ἀστέρων καὶ Ἐτυμολογίας"
+      },
+      "url_slug": "eratosthenes-of-cyrene-adornment-stars-kly-aa",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/eratosthenes-of-cyrene/adornment-stars",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-adornment-stars-kly-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-adornment-stars-kly-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-adornment-stars-kly-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-adornment-stars-kly-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/adornment-stars.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/eratosthenes-of-cyrene",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eratosthenes-of-cyrene-kly.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eratosthenes-of-cyrene-kly.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eratosthenes-of-cyrene-kly.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eratosthenes-of-cyrene-kly.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

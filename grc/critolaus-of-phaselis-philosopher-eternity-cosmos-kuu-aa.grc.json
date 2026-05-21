@@ -1,0 +1,372 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "kuu-aa",
+  "eul_aid": "kuu",
+  "author_slug": "critolaus-of-phaselis-philosopher",
+  "work_slug": "eternity-cosmos",
+  "url_slug": "critolaus-of-phaselis-philosopher-eternity-cosmos-kuu-aa",
+  "author": {
+    "english": "Critolaus of Phaselis philosopher",
+    "ancient_greek": "Κριτόλαος ὁ Φασηλίτης"
+  },
+  "title": {
+    "english": "On the Eternity of the Cosmos",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "On the Eternity of the Cosmos by Critolaus on Eulogikon",
+    "meta_title": "On the Eternity of the Cosmos by Critolaus in Greek",
+    "meta_description": "Treatise on cosmic eternity by Critolaus of Phaselis. Fragments of Aristotelian philosophy. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (phi, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Peripatetic",
+      "href": "/affiliations/peripatetic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On the Eternity of the Cosmos</strong> is a philosophical treatise by Critolaus of Phaselis, a leading Peripatetic philosopher of the 2nd century BCE. The work is a systematic defense of the core Aristotelian doctrine that the universe is without beginning or end, composed as a direct polemic against the rival Stoic belief in a periodically destroyed and reborn, cyclical cosmos. The treatise survives only in fragmentary form, with its arguments preserved in approximately twenty-five quotations by later authors, most notably the Christian philosopher John Philoponus, who cited Critolaus as a principal representative of the pagan position he sought to refute. The fragments reveal Critolaus employing formal logical arguments, such as the claim that the cause of the cosmos&#x27;s existence must itself be eternal, and that the existence of an eternal human race logically necessitates an eternal world. Written during a period of intense doctrinal competition among Hellenistic schools, the treatise represents a significant effort to consolidate and champion Aristotelian cosmology. Its historical importance was secured by its subsequent role as a major reference point in the protracted debate between pagan philosophers advocating for the world&#x27;s eternity and Christian theologians arguing for its divine creation in time, which ensured its preservation through citation by its opponents long after the original work was lost.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "12",
+      "text": "Philo De aeternitate mundi 9, VI 94 Cohn: ἐπαγωνιζόμενος δ’ ὁ Κριτόλαος ἐχρῆτο καὶ τοιούτῳ λόγῳ· «τὸ αἴτιον αὑτῷ τοῦ ὑγιαίνειν ἄνοσόν ἐστιν· ἀλλὰ καὶ τὸ αἴτιον αὑτῷ τοῦ ἀγρυπνεῖν ἄγρυπνόν ἐστιν· εἰ δὲ τοῦτο, καὶ τὸ αἴτιον αὑτῷ τοῦ ὑπάρχειν ἀίδιόν ἐστιν· αἴτιος δ’ ὁ κόσμος αὑτῷ τοῦ ὑπάρχειν, εἴ γε καὶ τοῖς ἄλλοις ἅπασιν· ἀίδιος ἄρα ὁ κόσμος ἐστίν». — —6, VI 90 Cohn: Κριτόλαος δὲ τῶν κεχορευκότων Μούσαις, τῆς Περιπατητικῆς ἐραστὴς φιλοσοφίας, τῷ περὶ τῆς ἀιδιότητος κόσμου δόγματι συνειπὼν ἐχρήσατο τοιαύταις πίστεσιν· «εἰ γέγονεν ὁ κόσμος, ἀνάγκη καὶ τὴν γῆν γεγονέναι· εἰ δὲ ἡ γῆ γενητή, πάντως καὶ τὸ ἀνθρώπων γένος· ἄνθρωπος δὲ ἀγένητον ἐξ ἀιδίου τοῦ γένους ὑφεστῶτος ὥσπερ ἐπιδειχθήσεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13",
+      "text": "ἀίδιος ἄρα καὶ ὁ κόσμος». Stobaeus Ecl.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14",
+      "text": "I 8, 40b: Ἀντιφῶν καὶ Κριτόλαος νόημα ἢ μέτρον τὸν χρόνον, οὐχ ὑπόστασιν. Epiphanius Adv.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "haereses III 31 (Diels Doxographi Graeci p. 592): Ἀριστοτέλης ὁ Νικομάχου κατὰ μέν τινας Μακεδὼν ἀπὸ Σταγείρων, ὡς δὲ ἔνιοι Θρᾷξ ἦν τὸ γένος. ἔλεγε δὲ δύο ἀρχὰς εἶναι, θεὸν καὶ ὕλην, καὶ τὰ μὲν ὑπεράνω τῆς σελήνης θείας προνοίας τυγχάνειν, τὰ δὲ κάτωθεν τῆς σελήνης ἀπρονόητα ὑπάρχειν καὶ φορᾷ τινι ἀλόγῳ φέρεσθαι ὡς ἔτυχεν. εἶναι δὲ λέγει δύο κόσμους, τὸν ἄνω καὶ τὸν κάτω, καὶ τὸν μὲν ἄνω ἄφθαρτον, τὸν δὲ κάτω φθαρτόν. καὶ τὴν ψυχὴν ἐνδελέχειαν σώματος λέγει. ib. 35: Κριτόλαος ὁ φασηλίτης τὰ αὐτὰ τῷ Ἀριστοτέλει ἐδόξασε. Stobaeus Ecl.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16",
+      "text": "I 1, 29b (Aetius I 7, 21 p. 303 Diels): Κριτόλαος καὶ Διόδωρος ὁ Τύριος νοῦν ἀπ’ αἰθέρος ἀπαθοῦς (sc. τὸν θεὸν εἶναι). Stobaeus Ecl.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19",
+      "text": "II 7, 3b: ὑπὸ δὲ τῶν νεωτέρων Περιπατητικῶν τῶν ἀπὸ Κριτολάου τὸ ἐκ πάντων τῶν ἀγαθῶν συμπεπληρωμένον (sc. τέλος λέγεται), τοῦτο δὲ ἦν τὸ ἐκ τῶν τριῶν γενῶν, οὐκ ὀρθῶς. Clemens Stromateis II cap.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20",
+      "text": "XXI 129, 10: Κριτόλαος δὲ ὁ καὶ αὐτὸς Περιπατητικὸς τελειότητα ἔλεγεν κατὰ φύσιν εὐροοῦντος βίου (sc. τέλος εἶναι), τὴν ἐκ τῶν τριῶν γενῶν συμπληρουμένην † προγονικὴν † τελειότητα μηνύων. Clemens Stromateis II cap.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "24",
+      "text": "VII 32, 3: ἐντολὴ δὲ ἀπαγορεύει τὸν φόβον ἐπαρτῶσα διὰ παιδείαν τῶν οὕτως ἐπιδεχομένων νουθετεῖσθαι. οὐ τοίνυν ἄλογος ὁ φόβος, λογικὸς μὲν οὖν· πῶς γὰρ οὔ, παραινῶν· «οὐ φονεύσεις οὐ μοιχεύσεις, οὐ κλέψεις, οὐ ψευδομαρτυρήσεις»; ἀλλ’ εἰ σοφίζονται τὰ ὀνόματα, εὐλάβειαν καλούντων οἱ φιλόσοφοι τὸν τοῦ νόμου φόβον, εὔλογον οὖσαν ἔκκλισιν. ὀνοματομάχους τούτους οὐκ ἀπὸ τρόπου ὁ Φασηλίτης ἐκάλει Κριτόλαος. — —II 15, 23: quidam eam (sc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "26",
+      "text": "rhetoricen) neque vim neque scientiam neque artem putaverunt, sed Critolaus usum dicendi——nam hoc τριβή significat——, Athenaeus fallendi artem. Philodemus Volumina Rhetorica ed.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "27",
+      "text": "Sudhaus II 101 fr. IV (= ib. II 68 fr. III): κα[τὰ γ]ὰ̣ρ τὸν Εὐριπίδην (fr. 978 N 2 ) [ἐκ βα]θείας αἰθέρος λαβεῖν [ἀμοχ]θεὶ πάρεστιν τὰ π[οιοῦντ̣]α πίστεις, ὅταν [ἐθέλ]ωμεν. ἀλλὰ γὰρ α ....... τῷ Κριτολάῳ ...... η το σει — — —II 97/8 fr.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "28",
+      "text": "VIII (=ib. II 103 fr. VIII): τ[ὸν μὲν] γὰρ Δημοσθένην πά[ν̣τες κε‐] κράγασιν οἱ κατ’ αὐτὸν τεχνί[την] εἶναι, καὶ Κριτόλαος οὐκ ἀπαρνεῖται. — — —II 102 fr.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "29",
+      "text": "VII: [ ... ] με περὶ τῶν ἄ[λλων πάν‐] των λέγειν, οὓς καὶ αὐτὸς Κριτόλαος ἐκφέρει διὰ τὴν πρὸς τοὺς ῥήτορας φιλοτιμία[ν]. τὸ μὲν γὰρ ἕνεκα τ[οῦ] πολλάκις [ἀκου‐] ομένους προσίστασ[θαι] τοὺς λόγους ἀτεχνίας κατο κοινόν ἐ[στιν] ...... ης και — — —II 197 fr.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30",
+      "text": "IV (cf. ib. II 277 fr. XVI): [ πολιτικ]ῶν ἀπειρίᾳ πραγμά[των. εἴρ]ητ[α]ι δέ τι καὶ περὶ τ[ού‐] [ των κα]ὶ Κριτολάῳ καὶ Ἀρί[σ‐] [ τωνι] — — —II 220 col XV: λέγειν, ἀ[λλ’ ε]ἰσὶν [καὶ φι‐] λόσοφοι, [ο̣ἵστ]ισιν ἔθος ἐστὶν φ[λυ̣α̣]ρεῖν ὥσπερ σοὶ κ̣αὶ Κριτολάῳ, σαφῶς λέγοντος ἄκουσον· ἥ γ’ ἐνπειρία τῶν πολιτικῶν ῥητόρω[ν] τὸ συνέχον ἔχου[σα] κεί[με]νον (ἐν) εὐκαιρίας στ[ενοχ]ωρ[ί]ᾳ διδάσκει πολ[λ̣άκ]ις μὲν ἐ[κ]τείνειν μα[κρ]οὺς λόγους, πολλάκις δὲ βα[ι]ά τινα διαλεχθῆναι, πο[λλ̣]άκις δὲ μηδὲ διᾶρα[ι] τὰ [χείλ]η.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "31",
+      "text": "παρα[ι]ρούμενος οὖ[ν ἐκ] τῆς ἐπιστήμ[ης καὶ] τ[ῆ]ς ἐνπειρίας [τὰ] μάλ̣ι̣στα παρα[διδό]μενα [διά‐] [ γ]ει, καί τινος ἀστοχου αὐτοῦ γελοῖ[ό]ς ἐστιν. Sextus Empiricus Adv.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "32",
+      "text": "mathematicos II 12: καθάπερ οὖν οὐκ ἂν εἴποιμεν τὴν τοιχωρυχικὴν εἶναί τινα τέχνην παραινοῦσαν τὸ οὕτω δεῖν τοῖχον διορύττειν καὶ τὴν κλεπτικὴν τὸ «οὕτω καθήκειν κλέπτειν καὶ βαλαντιοτομεῖν»— ψευδῆ γάρ ἐστι ταῦτα καὶ οὔτε καθήκοντα οὔτε θεωρήματα—, οὕτως οὐδὲ τὴν ῥητορικὴν ὑποληπτέον ἔχειν τεχνικὴν ὑπόστασιν ἐπὶ τοιούτοις παραγγέλμασι σαλεύουσαν. ἀμέλει γέ τοι καὶ οἱ περὶ Κριτόλαον τὸν Περιπατητικὸν καὶ πολὺ πρότερον οἱ περὶ Πλάτωνα εἰς τοῦτο ἀπιδόντες ἐκάκισαν αὐτὴν ὡς κακοτεχνίαν μᾶλλον ἢ τέχνην καθεστηκυῖαν. Sextus Empiricus Adv.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "34",
+      "text": "mathematicos II 20: οἱ δὲ περὶ τὸν Κριτόλαον καὶ οἱ ἀπὸ τῆς Ἀκαδημίας, ἐν οἷς ἐστὶ Κλειτόμαχος καὶ Χαρμίδας, εἰώθασι καὶ οὗτοι τοιαῦτά τινα λέγειν, ὅτι τὰς μὲν τέχνας οὐκ ἐκβάλλουσιν αἱ πόλεις, πάνυ τι βιωφελεῖς οὔσας ἐπιστάμεναι, ὡς οὐδὲ τοὺς μὲν οἰκονομικοὺς τῶν οἴκων ἐκβάλλομεν τοὺς δὲ βουκόλους ἐκ τῆς ἀγέλης, τὴν μέντοι ῥητορικὴν πάντες πανταχόθεν ὡς πολεμιωτάτην ἐδίωξαν, ὥσπερ ὁ μὲν Κρητικὸς νομοθέτης εἴρξας ἐπιβαίνειν τῆς νήσου τοὺς ἐν λόγοις ἀλαζονευσαμένους, ὁ δὲ Σπαρτιάτης Λυκοῦργος, ὡς ἂν ζηλωτὴς Θάλητος τοῦ Κρητὸς γενόμενος, τὸν αὐτὸν τοῖς Σπαρτιάταις νόμον εἰσηγήσατο. παρ’ ἣν αἰτίαν πολλοῖς ὕστερον χρόνοις τὸν ἐπὶ ξένης ῥητορικὴν ἐκπονήσαντα νεανίαν ἐπανελθόντα ἐκόλασαν οἱ ἔφοροι, τὴν αἰτίαν προσθέντες τῆς καταδίκης ὡς δολεροὺς λόγους ἐπὶ παρακρούσει τᾶς Σπάρτας ἐμελέτησεν. καὶ αὐτοὶ δὲ διέμειναν ῥητορικὴν μισοῦντες, ἀφελεῖ δὲ βραχυλογίᾳ χρώμενοι. ὅθεν καὶ ὁ ἀντιχειροτονηθεὶς Ἀθηναίοις ὑπ’ αὐτῶν πρὸς Τισσαφέρνην πρεσβευτής, τῶν Ἀθηναίων μακρὰς καὶ ποικίλας ῥήσεις διεξιόντων, δύο τῇ βακτηρίᾳ γραμμὰς κατὰ τοῦ ἐδάφους χαράξας, τὴν μὲν εὐθεῖαν καὶ μικράν, τὴν δὲ ἐπιμήκη καὶ σκολιάν· «τούτων, εἶπεν, ὦ βασιλεῦ, ὁποτέραν θέλεις ἑλοῦ», αἰνιττόμενος διὰ μὲν τῆς ἐπιμήκους καὶ σκολιᾶς γραμμῆς τὴν τερθρείαν τὴν ῥητορικήν, διὰ δὲ τῆς βραχείας ἅμα καὶ εὐθείας τὴν ἀφελῆ καὶ σύντομον εὐθυρρημοσύνην, δι’ ἣν οὐκ ἐν οἰκείοις μόνοις ἀλλὰ καὶ ξένοις τὴν ἀπεριττότητα τοῦ λόγου μεταδιώκουσιν. ἐκ μέσων μέντοι γε καὶ τὸν Χίων πρεσβευτὴν περὶ ἐξαγωγῆς πυροῦ δεόμενον, ἐπεὶ μακρῶς ἡρμήνευε τὴν δέησιν, ἄπρακτον ἐξαπέστειλαν, ἑτέρου δὲ πεμφθέντος συντομωτέρου, ἤπειγε γὰρ ἀνάγκη τοὺς Χίους, ἔδοσαν· κενὸν γὰρ θύλακον αὐτοῖς οὗτος ἀνατείνας ἀλφίτων αὐτὸν ἔφη δεῖσθαι. ὅμως δ’ οὖν καὶ τοῦτον ὡς ἀδολέσχην ἐμέμψαντο, ἀποχρώντως γὰρ κενὸς δειχθεὶς ὁ θύλακος ἐσήμηνε τὴν τῶν Χίων αἴτησιν (idem fere de Samiis apud Herodotum III 46). ἔνθεν ὁ τραγικὸς Ἴων κινηθεὶς εἶπεν ἐπ’ αὐτῶν· οὐ γὰρ λόγοις Λάκαινα πυργοῦται πόλις, ἀλλ’ εὖτ’ [ἂν] Ἄρης νεοχμὸς ἐμπέσῃ στρατῷ, βουλὴ μὲν ἄρχει, χεὶρ δ’ ἐπεξεργάζεται, (fr. 63 N 2 = fr. 107 v. Blumenthal) ἅτε βουλευομένων μὲν τὰ κράτιστα, στυγούντων δὲ τὴν ῥητορικήν. ὅθεν εἰ μὴ τὰς τέχνας ἐκβάλλουσιν αἱ πόλεις, ἐκβεβλήκασι δὲ τὴν ῥητορικήν, οὐκ ἂν εἴη τῶν τεχνῶν ἡ ῥητορική. Philodemus Volumina Rhetorica ed.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "35",
+      "text": "Sudhaus II 154 fr. XIII: {τοὺς φιλοσόφους ἐπιτηδεύ‐} οντ[ας μη]δὲν περιποιεῖν τ[ῇ π]ατρίδι συμφέρον. [διὸ κ]αὶ Κριτ[όλ]αος [φ̣ι̣λ̣όσοφον] πολιτ[ευό‐] μενο[ν οὐ]κ ἐῶν μ[ετα̣‐] λαμβά[νει]ν τῆς κτιζομένης πό[λεω]ς ὑπερβολὴν ἄλλῳ [κατ]αγέλωτος οὐκ ἀπέλ[ιπε]ν. κἂν οἱ φιλόσοφο[ί γε μ]ὴ πολιτεύωνται, μ[εγ]άλως ταῖς πα〈τ〉ρίσι βοηθ[ο]ῦσι τοὺς νέους διδά[σκ]οντες αἰεὶ πείθεσθα[ι το]ῖς νόμοις ὡς ἐπὶ σω[τη]ρίᾳ [κ]ε[ιμ]έν[ο̣ι̣]ς. — — —II 200 fr.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "36",
+      "text": "XIII: Κριτόλα[ος δὲ καὶ στρ]α[τηγ]εῖν [ἔ]οικ[ε κα]ὶ βασ[ιλεύειν] διδάσκειν, δῆλον δ’ ὅτι κ[αὶ ἱππεύ]ειν καὶ κυβε[ρ̣ν]ᾶν καὶ τἆ[λλα π]άντ[α τοῖς] ἄλλο̣ι̣ς ἅπασιν ... Plutarchus Praecepta gerendae rei publicae XV 811 c: εἰ δὲ δημοσίᾳ καὶ διὰ τὴν πόλιν (sc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "37a",
+      "text": "αὐτὸς πάντα διοικεῖ), οὐκ ἀγεννής, ἀλλὰ μεῖζον τὸ μέχρι μικρῶν ἐπιμελὲς καὶ πρόθυμον. ἕτεροι δὲ σεμνότερον οἴονται καὶ μεγαλοπρεπέστερον εἶναι τὸ τοῦ Περικλέους, ὧν καὶ Κριτόλαός ἐστιν ὁ Περιπατητικός, ἀξιοῦντος, ὥσπερ ἡ Σαλαμινία ναῦς Ἀθήνησι καὶ ἡ Πάραλος οὐκ ἐπὶ πᾶν ἔργον ἀλλ’ ἐπὶ τὰς ἀναγκαίας καὶ μεγάλας κατεσπῶντο πράξεις, οὕτως ἑαυτῷ πρὸς τὰ κυριώτατα καὶ μέγιστα χρῆσθαι, ὡς ὁ τοῦ κόσμου βασιλεύς· τῶν ἄγαν γὰρ ἅπτεται θεός, τὰ μικρὰ δ’ εἰς τύχην ἀνεὶς ἐᾷ κατὰ τὸν Εὐριπίδην (fr. 974 N 2 ). —Pericles VII: δειναὶ γὰρ αἱ φιλοφροσύναι παντὸς ὄγκου περιγενέσθαι, καὶ δυσφύλακτον ἐν συνηθείᾳ τὸ πρὸς δόξαν σεμνόν ἐστι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "37b",
+      "text": "τῆς ἀληθινῆς δ’ ἀρετῆς κάλλιστα φαίνεται τὰ μάλιστα φαινόμενα, καὶ τῶν ἀγαθῶν ἀνδρῶν οὐδὲν οὕτω θαυμάσιον τοῖς ἐκτὸς ὡς ὁ καθ’ ἡμέραν βίος τοῖς συνοῦσιν. ὁ δὲ καὶ τῷ δήμῳ, τὸ συνεχὲς φεύγων καὶ τὸν κόρον, οἷον ἐκ διαλειμμάτων ἐπλησίαζεν, οὐκ ἐπὶ παντὶ πράγματι λέγων οὐδ’ ἀεὶ παριὼν εἰς τὸ πλῆθος, ἀλλ’ ἑαυτὸν ὥσπερ τὴν Σαλαμινίαν τριήρη, φησὶ Κριτόλαος, πρὸς τὰς μεγάλας χρείας ἐπιδιδούς, τἆλλα δὲ φίλους καὶ ἑταίρους ῥήτορας καθιεὶς ἔπραττεν. Philodemus Volumina Rhetorica ed.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "38",
+      "text": "Sudhaus II 198 fr. VI: []πέσῃ ταῖς ἀλη ...... τὸν πόδα τοῦ καιροῦ [λέγ]ει Κριτόλαος. πῶς δ’ οὐκ ... [ — — —II 104 fr.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "39",
+      "text": "Xb: ῥη]τορικὴν πόνον—την .. διγ .. ης ...... φυρος δ’ [ἀπ]οδέδε[ικται ὁ Κρι]τολάου λόγος Photius Lexicon I 255 Naber: ἦ δ’ ὅς· ἀντὶ τοῦ ἔφη δὲ οὗτος· καὶ ἀντὶ τοῦ ἔφη· τάττεται δὲ καὶ ἐπ’ ἀνδρὸς καὶ γυναικός· καὶ ἀντὶ τοῦ ἔφασαν· καὶ ἀντὶ τοῦ ὦ φίλε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "40a",
+      "text": "τοῦτο Χάρης μέν φησι καὶ Κριτόλαος σημαίνει· διελέγχεται δ’ ὑπὸ πλειόνων. Anecdota Graeca ed.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "40b",
+      "text": "L. Bachmann I 249, 8: ἦ δ’ ὅς· ἔφη δὲ οὗτος· ἔφη· ἔφασαν· καὶ ἐπὶ ἀνδρὸς καὶ ἐπὶ γυναικός· ὦ φίλε· τοῦτο Χάρης μέν φησι καὶ Κριτόλαος σημαίνειν. διελέγχεται δὲ καὶ ὑπὸ πλειόνων. Etymologicum Magnum 416, 32 Gaisford: ἦ δ’ ὅς: οἱ μὲν περὶ Ἐρατοσθένην ἀντὶ τοῦ ἔφη δὲ οὗτος· διὸ καὶ δασύνουσι τὴν ἐσχάτην· ἐντετάχθαι γὰρ ἄρθρον τὸ ὅς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "40c",
+      "text": "καὶ ἦ δὲ ἀντὶ τοῦ ἔφη δέ. καὶ ἦν δ’ ἐγὼ ἀντὶ τοῦ ἔφην ἐγώ. παρ’ ὃ δὴ Ἕρμιππος καὶ Ἀρίσταρχος ἀντὶ τοῦ ἔφη δὲ ὅς, Χάρης δὲ καὶ Κριτόλαος ἀντὶ τοῦ ἔφασαν καὶ ἀντὶ τοῦ ὦ φίλε σημαίνει φασί· διελέγχεται δὲ ὑπὸ πλειόνων.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "okg-br",
+      "title": {
+        "english": "Comparison of Lycurgus and Numa",
+        "ancient_greek": "Λυκούργου καὶ Νομᾶ σύγκρισις"
+      },
+      "url_slug": "plutarch-of-chaeronea-lycurgus-numa-okg-br",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/lycurgus-numa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lycurgus-numa-okg-br.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lycurgus-numa-okg-br.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lycurgus-numa-okg-br.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lycurgus-numa-okg-br.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/lycurgus-numa.epub"
+      }
+    },
+    {
+      "eul_wid": "reo-an",
+      "title": {
+        "english": "On Fevers",
+        "ancient_greek": "Περὶ Πυρετῶν"
+      },
+      "url_slug": "alexander-of-aphrodisias-fevers-reo-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-aphrodisias/fevers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-fevers-reo-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-fevers-reo-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-fevers-reo-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-fevers-reo-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/fevers.epub"
+      }
+    },
+    {
+      "eul_wid": "lgi-az",
+      "title": {
+        "english": "On Numbers or Arithmetic",
+        "ancient_greek": "Περὶ ἀριθμῶν Ἀριθμητικά"
+      },
+      "url_slug": "philo-of-alexandria-numbers-arithmetic-lgi-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria/numbers-arithmetic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-numbers-arithmetic-lgi-az.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-numbers-arithmetic-lgi-az.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-numbers-arithmetic-lgi-az.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-numbers-arithmetic-lgi-az.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/numbers-arithmetic.epub"
+      }
+    },
+    {
+      "eul_wid": "mxk-aa",
+      "title": {
+        "english": "On the Ten Universal Categories",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "pseudo-archytas-the-pythagorean-ten-categories-mxk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-archytas-the-pythagorean/ten-categories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-archytas-the-pythagorean-ten-categories-mxk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-archytas-the-pythagorean-ten-categories-mxk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-archytas-the-pythagorean-ten-categories-mxk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-archytas-the-pythagorean-ten-categories-mxk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-archytas-the-pythagorean/ten-categories.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-fa",
+      "title": {
+        "english": "Phocion",
+        "ancient_greek": "Φωκίων"
+      },
+      "url_slug": "plutarch-of-chaeronea-phocion-okg-fa",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/phocion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-phocion-okg-fa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-phocion-okg-fa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-phocion-okg-fa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-phocion-okg-fa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/phocion.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-eu",
+      "title": {
+        "english": "Pompeius",
+        "ancient_greek": "Πομπήϊος"
+      },
+      "url_slug": "plutarch-of-chaeronea-pompeius-okg-eu",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/pompeius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pompeius-okg-eu.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pompeius-okg-eu.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pompeius-okg-eu.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pompeius-okg-eu.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/pompeius.epub"
+      }
+    },
+    {
+      "eul_wid": "nma-aa",
+      "title": {
+        "english": "Remains of the Dissertations Compiled by Lucius",
+        "ancient_greek": "Λείψανα Διατριβῶν ὑπὸ Λουκίου"
+      },
+      "url_slug": "musonius-the-roman-dissertations-nma-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/musonius-the-roman/dissertations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-dissertations-nma-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-dissertations-nma-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-dissertations-nma-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-dissertations-nma-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman/dissertations.epub"
+      }
+    },
+    {
+      "eul_wid": "pzk-ab",
+      "title": {
+        "english": "Sentences",
+        "ancient_greek": "Γνῶμαι"
+      },
+      "url_slug": "secundus-the-silent-sentences-pzk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/secundus-the-silent/sentences",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-sentences-pzk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-sentences-pzk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-sentences-pzk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-sentences-pzk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent/sentences.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/critolaus-of-phaselis-philosopher/eternity-cosmos",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critolaus-of-phaselis-philosopher-eternity-cosmos-kuu-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critolaus-of-phaselis-philosopher-eternity-cosmos-kuu-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critolaus-of-phaselis-philosopher-eternity-cosmos-kuu-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critolaus-of-phaselis-philosopher-eternity-cosmos-kuu-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critolaus-of-phaselis-philosopher/eternity-cosmos.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

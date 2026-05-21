@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "rey",
+  "auth_slug": "antoninus-the-mythographer",
+  "name": {
+    "english": "Antoninus the Mythographer",
+    "ancient_greek": "Ἀντωνῖνος Λιβεράλις"
+  },
+  "seo_h1": "Antoninus the Mythographer and the Collection of Metamorphoses",
+  "seo": {
+    "browser_title": "Antoninus Liberalis on Eulogikon Greek Text Archive",
+    "meta_title": "Classical Antoninus Liberalis Ancient Greek Mythology Works",
+    "meta_description": "Antoninus Liberalis compiled Greek mythology. His work is the Metamorphoses, a collection of transformation myths. Free to download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Μυθιστορία",
+      "english": "Fiction",
+      "href": "/domains/fiction"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Antoninus Liberalis is known solely as the author of the <strong>Metamorphoses</strong>. His precise dates, birthplace, and biographical details are unknown, though his name suggests a Roman context. He is traditionally placed in the late second or early third century CE, within the period of the Second Sophistic. His work indicates a learned, scholarly familiarity with earlier sources, but no specific personal information survives.</p>\n<p class=\"research-text\">His only extant work is the <strong>Metamorphoses</strong>, a compilation of forty-one brief transformation myths drawn from earlier Hellenistic sources. Antoninus Liberalis is a significant compiler and transmitter of mythological narratives. His <strong>Metamorphoses</strong> preserves variants of myths and serves as a crucial witness to the content of now-lost Hellenistic works, particularly those of Nicander and Boeus, whom he cites. The collection reflects the antiquarian interests of his era and is a valuable source for understanding later Greek mythography.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "rey-aa",
+      "title": {
+        "english": "Collection of Metamorphoses",
+        "ancient_greek": "Συναγωγὴ Μεταμορφώσεων"
+      },
+      "url_slug": "antoninus-the-mythographer-metamorphoses-rey-aa",
+      "passages": 225,
+      "links": {
+        "html": "https://eulogikon.org/grc/antoninus-the-mythographer/metamorphoses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antoninus-the-mythographer-metamorphoses-rey-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antoninus-the-mythographer-metamorphoses-rey-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antoninus-the-mythographer-metamorphoses-rey-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antoninus-the-mythographer-metamorphoses-rey-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antoninus-the-mythographer/metamorphoses.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/antoninus-the-mythographer",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antoninus-the-mythographer-rey.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antoninus-the-mythographer-rey.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antoninus-the-mythographer-rey.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antoninus-the-mythographer-rey.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,277 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ozg",
+  "auth_slug": "polemon-laodicea",
+  "name": {
+    "english": "Polemon Laodicea",
+    "ancient_greek": "Πολέμων ὁ Λαοδικεύς"
+  },
+  "seo_h1": "Polemon of Laodicea and the Declamations of the Second Sophistic",
+  "seo": {
+    "browser_title": "Polemon of Laodicea Sophist on Eulogikon Greek Archive",
+    "meta_title": "Polemon of Laodicea Sophist Ancient Greek Orations",
+    "meta_description": "Polemon of Laodicea was a leading Greek orator of the Second Sophistic. Two orations survive. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Sophist",
+      "href": "/affiliations/sophist"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Polemon of Laodicea was a Greek orator and sophist active in the early 2nd century CE, during the reigns of the Roman emperors Trajan and Hadrian. He was a leading figure in the Second Sophistic, a cultural movement characterized by elaborate display oratory. His career was centered in the city of Smyrna in Asia Minor, where he received high civic honors and was known for his wealthy and reportedly arrogant lifestyle.</p>\n<p class=\"research-text\">According to ancient sources, he enjoyed the personal friendship of Roman emperors and was chosen by various cities to deliver important speeches. Although he was famous for many declamations, only a small number of his works survive. A Funeral Oration for the Athenian War Dead is attributed to him, though some scholars question its authenticity. Fragments and manuscripts preserve other declamations.</p>\n<p class=\"research-text\">Ancient accounts also mention that he wrote treatises on physiognomy, the art of judging character from appearance, but these works are lost. A later physiognomic text sometimes credited to him is now considered to be by an anonymous author. Polemon’s life exemplifies the prestige and public role of the professional orator in the Roman Empire. Modern scholars view his success and his close ties to imperial power as illustrating the integration of Greek cultural elites within the Roman political system. His surviving speeches provide valuable examples of the epideictic rhetoric that was central to the intellectual and civic life of his era.</p>\n</div>",
+  "affiliation_label": "Sophist",
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "ozg-ab",
+      "title": {
+        "english": "Declamations",
+        "ancient_greek": "Μελέται"
+      },
+      "url_slug": "polemon-laodicea-declamations-ozg-ab",
+      "passages": 107,
+      "links": {
+        "html": "https://eulogikon.org/grc/polemon-laodicea/declamations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-declamations-ozg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-declamations-ozg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-declamations-ozg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-declamations-ozg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea/declamations.epub"
+      }
+    },
+    {
+      "eul_wid": "ozg-aa",
+      "title": {
+        "english": "Physiognomic Fragment",
+        "ancient_greek": "Φυσιογνωμονικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "polemon-laodicea-physiognomic-ozg-aa",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/polemon-laodicea/physiognomic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-physiognomic-ozg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-physiognomic-ozg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-physiognomic-ozg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-physiognomic-ozg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea/physiognomic.epub"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "que",
+      "name": {
+        "english": "Achilles Tatius of Alexandria",
+        "ancient_greek": "Ἀχιλλεὺς ὁ Τατίος ὁ Ἀλεξανδρεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/achilles-tatius-of-alexandria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/achilles-tatius-of-alexandria-que.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/achilles-tatius-of-alexandria-que.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/achilles-tatius-of-alexandria-que.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/achilles-tatius-of-alexandria-que.en.json"
+      }
+    },
+    {
+      "eul_aid": "ria",
+      "name": {
+        "english": "Aelian of Praeneste",
+        "ancient_greek": "Κλαύδιος Αἰλιανός"
+      },
+      "work_count": 4,
+      "links": {
+        "html": "https://eulogikon.org/en/aelian-of-praeneste",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelian-of-praeneste-ria.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelian-of-praeneste-ria.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelian-of-praeneste-ria.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelian-of-praeneste-ria.en.json"
+      }
+    },
+    {
+      "eul_aid": "pnc",
+      "name": {
+        "english": "Aelius Aristides of Smyrna",
+        "ancient_greek": "Πόπλιος Αἴλιος Ἀριστείδης Θεόδωρος"
+      },
+      "work_count": 3,
+      "links": {
+        "html": "https://eulogikon.org/en/aelius-aristides-of-smyrna",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-aristides-of-smyrna-pnc.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-aristides-of-smyrna-pnc.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-aristides-of-smyrna-pnc.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-aristides-of-smyrna-pnc.en.json"
+      }
+    },
+    {
+      "eul_aid": "psw",
+      "name": {
+        "english": "Aelius Dionysius of Halicarnassus",
+        "ancient_greek": "Αἴλιος Διονύσιος ὁ Ἁλικαρνασσεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/aelius-dionysius-of-halicarnassus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-dionysius-of-halicarnassus-psw.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-dionysius-of-halicarnassus-psw.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-dionysius-of-halicarnassus-psw.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-dionysius-of-halicarnassus-psw.en.json"
+      }
+    },
+    {
+      "eul_aid": "nxo",
+      "name": {
+        "english": "Aelius Theon the Sophist",
+        "ancient_greek": "Αἴλιος Θέων ὁ σοφιστής"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/aelius-theon-the-sophist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-theon-the-sophist-nxo.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-theon-the-sophist-nxo.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-theon-the-sophist-nxo.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-theon-the-sophist-nxo.en.json"
+      }
+    },
+    {
+      "eul_aid": "dkm",
+      "name": {
+        "english": "Alcidamas of Elaea",
+        "ancient_greek": "Ἀλκιδάμας ὁ Ἐλαεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/alcidamas-of-elaea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcidamas-of-elaea-dkm.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcidamas-of-elaea-dkm.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcidamas-of-elaea-dkm.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcidamas-of-elaea-dkm.en.json"
+      }
+    },
+    {
+      "eul_aid": "quo",
+      "name": {
+        "english": "Alciphron the Sophist",
+        "ancient_greek": "Ἀλκίφρων ὁ Σοφιστής"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/alciphron-the-sophist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alciphron-the-sophist-quo.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alciphron-the-sophist-quo.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alciphron-the-sophist-quo.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alciphron-the-sophist-quo.en.json"
+      }
+    },
+    {
+      "eul_aid": "qko",
+      "name": {
+        "english": "Alexander Son of Numenius",
+        "ancient_greek": "Ἀλέξανδρος ὁ τοῦ Νουμήνιου"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/alexander-son-of-numenius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-son-of-numenius-qko.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-son-of-numenius-qko.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-son-of-numenius-qko.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-son-of-numenius-qko.en.json"
+      }
+    },
+    {
+      "eul_aid": "lfy",
+      "name": {
+        "english": "Alexander the Ephesian Poet",
+        "ancient_greek": "Ἀλέξανδρος ὁ Ἐφέσιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/alexander-of-ephesus-poet",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-ephesus-poet-lfy.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-ephesus-poet-lfy.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-ephesus-poet-lfy.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-ephesus-poet-lfy.en.json"
+      }
+    },
+    {
+      "eul_aid": "ejw",
+      "name": {
+        "english": "Amphicrates Atheniensis",
+        "ancient_greek": "Ἀμφικράτης Ἀθηναῖος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/amphicrates-of-athens",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amphicrates-of-athens-ejw.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amphicrates-of-athens-ejw.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amphicrates-of-athens-ejw.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amphicrates-of-athens-ejw.en.json"
+      }
+    },
+    {
+      "eul_aid": "vng",
+      "name": {
+        "english": "Anonymous Commentary on Aphthonius",
+        "ancient_greek": "Ἀνώνυμος ὑπόμνημα εἰς Ἀφθόνιον"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/aphthonius-commentary-anonymous",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aphthonius-commentary-anonymous-vng.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aphthonius-commentary-anonymous-vng.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aphthonius-commentary-anonymous-vng.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aphthonius-commentary-anonymous-vng.en.json"
+      }
+    },
+    {
+      "eul_aid": "bqs",
+      "name": {
+        "english": "Antiphon of Athens",
+        "ancient_greek": "Ἀντιφῶν ὁ Ἀθηναῖος"
+      },
+      "work_count": 9,
+      "links": {
+        "html": "https://eulogikon.org/en/antiphon-of-athens",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antiphon-of-athens-bqs.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antiphon-of-athens-bqs.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antiphon-of-athens-bqs.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antiphon-of-athens-bqs.en.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/polemon-laodicea",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/polemon-laodicea-ozg.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/polemon-laodicea-ozg.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/polemon-laodicea-ozg.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/polemon-laodicea-ozg.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

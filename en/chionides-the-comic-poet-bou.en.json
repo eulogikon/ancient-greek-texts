@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "bou",
+  "auth_slug": "chionides-the-comic-poet",
+  "name": {
+    "english": "Chionides the Comic Poet",
+    "ancient_greek": "Χιονίδης"
+  },
+  "seo_h1": "Old Comedy Begun by Chionides the Comic Poet",
+  "seo": {
+    "browser_title": "Chionides the Comic Poet on Eulogikon Greek Archive",
+    "meta_title": "Chionides Ancient Greek Comedy and Fragments Works",
+    "meta_description": "Chionides, an early Athenian comic poet of the 5th century BCE. Includes surviving comedy fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Chionides was a comic poet active in Athens during the early 5th century BCE. Ancient sources identify him as one of the very first practitioners of what would become known as Old Comedy. According to the ancient chronicle called the Parian Marble, he was the first recorded winner of a comic competition at the City Dionysia festival, an event dated to 487/6 BCE.</p>\n<p class=\"research-text\">Only two play titles are attributed to him: <strong>Heroes</strong> and <strong>Persians</strong> (or <strong>Assyrians</strong>). Both works are lost, surviving only as brief mentions and a few quoted words in much later Greek texts. Because so little of his writing remains, the specific content, plots, and style of his comedies are unknown.</p>\n<p class=\"research-text\">Chionides’s primary importance is historical. He represents the earliest known name in the formal tradition of Athenian comedy. His recorded victory marks a key moment in the genre’s development from informal performance into an official competitive event at a major public festival. While his literary influence cannot be measured, his career is a foundational point for the lineage of comic playwrights that later included famous figures like Aristophanes.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "bou-ab",
+      "title": {
+        "english": "Comic Fragments on Guard Duty",
+        "ancient_greek": "Ἀποσπάσματα περὶ Φυλακῆς Κωμικά"
+      },
+      "url_slug": "chionides-the-comic-poet-guard-duty-bou-ab",
+      "passages": 8,
+      "links": {
+        "html": "https://eulogikon.org/grc/chionides-the-comic-poet/guard-duty",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet-guard-duty-bou-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet-guard-duty-bou-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet-guard-duty-bou-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet-guard-duty-bou-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet/guard-duty.epub"
+      }
+    },
+    {
+      "eul_wid": "bou-aa",
+      "title": {
+        "english": "Comic Fragments on Spartan Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Σπαρτιατικοῦ Βίου Κωμικά"
+      },
+      "url_slug": "chionides-the-comic-poet-comic-sparta-bou-aa",
+      "passages": 12,
+      "links": {
+        "html": "https://eulogikon.org/grc/chionides-the-comic-poet/comic-sparta",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet-comic-sparta-bou-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet-comic-sparta-bou-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet-comic-sparta-bou-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet-comic-sparta-bou-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet/comic-sparta.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/chionides-the-comic-poet",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chionides-the-comic-poet-bou.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chionides-the-comic-poet-bou.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chionides-the-comic-poet-bou.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chionides-the-comic-poet-bou.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

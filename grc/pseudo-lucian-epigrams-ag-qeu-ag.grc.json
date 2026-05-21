@@ -1,0 +1,350 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "qeu-ag",
+  "eul_aid": "qeu",
+  "author_slug": "pseudo-lucian",
+  "work_slug": "epigrams-ag",
+  "url_slug": "pseudo-lucian-epigrams-ag-qeu-ag",
+  "author": {
+    "english": "Pseudo-Lucian ",
+    "ancient_greek": "Ψευδο-Λουκιανός"
+  },
+  "title": {
+    "english": "Epigram",
+    "ancient_greek": "Ἐπίγραμμα"
+  },
+  "seo": {
+    "browser_title": "Satirical Greek Epigram by Pseudo-Lucian on Eulogikon",
+    "meta_title": "Satirical Epigram by Pseudo-Lucian in Ancient Greek",
+    "meta_description": "A short epigram attributed to Pseudo-Lucian reflecting on human wisdom and folly. Read free and download in original ancient Greek at Eulogikon now."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Epigram is a brief Greek poem spuriously attributed to Lucian of Samosata, hence its conventional designation to Pseudo-Lucian. A polished composition likely in elegiac couplets, it is preserved within the larger manuscript corpus of Lucian&#x27;s works. Modern scholarship regards it as inauthentic, a later pseudepigraphical addition from the Imperial Roman era. The poem itself exemplifies the fluidity of ancient authorship, being a deliberate imitation attributed to a renowned satirist. It adheres to the core epigrammatic characteristic of conciseness, aiming for a sharp, pointed conclusion on the folly of human wisdom. The text survives within the extensive medieval manuscript tradition of Lucian&#x27;s works, where authentic and spurious texts were transmitted together. Its preservation illustrates the common compositional practice of expanding an author&#x27;s corpus through imitation. While the epigram holds no major independent literary influence, it is significant for understanding the reception and imitation of Lucian&#x27;s style, serving as a concrete example of pseudepigraphical practices in later Greek literary culture.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Εἰς τὴν ἑαυτοῦ βίβλον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Λουκιανὸς τάδ’ ἔγραψα παλαιά τε μωρά τε εἰδώς, μωρὰ γὰρ ἀνθρώποις καὶ τὰ δοκοῦντα σοφά. οὐδὲν ἐν ἀνθρώποισι διακριδόν ἐστι νόημα, ἀλλ’ ὃ σὺ θαυμάζεις, τοῦθ’ ἑτέροισι γέλως.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "qeu-ah",
+      "title": {
+        "english": "Alcyon",
+        "ancient_greek": "Ἀλκυών"
+      },
+      "url_slug": "pseudo-lucian-alcyon-qeu-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/alcyon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-alcyon-qeu-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-alcyon-qeu-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-alcyon-qeu-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-alcyon-qeu-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/alcyon.epub"
+      }
+    },
+    {
+      "eul_wid": "qeu-ab",
+      "title": {
+        "english": "Charidemos or-Beauty",
+        "ancient_greek": "Χαρίδημος ἢ Περὶ Κάλλους"
+      },
+      "url_slug": "pseudo-lucian-charidemos-beauty-qeu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/charidemos-beauty",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-charidemos-beauty-qeu-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-charidemos-beauty-qeu-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-charidemos-beauty-qeu-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-charidemos-beauty-qeu-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/charidemos-beauty.epub"
+      }
+    },
+    {
+      "eul_wid": "qeu-ai",
+      "title": {
+        "english": "Cynic",
+        "ancient_greek": "Κυνικός"
+      },
+      "url_slug": "pseudo-lucian-cynic-qeu-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/cynic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-cynic-qeu-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-cynic-qeu-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-cynic-qeu-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-cynic-qeu-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/cynic.epub"
+      }
+    },
+    {
+      "eul_wid": "qeu-af",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "pseudo-lucian-epigrams-af-qeu-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/epigrams-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-epigrams-af-qeu-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-epigrams-af-qeu-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-epigrams-af-qeu-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-epigrams-af-qeu-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/epigrams-af.epub"
+      }
+    },
+    {
+      "eul_wid": "qeu-aj",
+      "title": {
+        "english": "Loves",
+        "ancient_greek": "Ἔρωτες"
+      },
+      "url_slug": "pseudo-lucian-loves-qeu-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/loves",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-loves-qeu-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-loves-qeu-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-loves-qeu-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-loves-qeu-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/loves.epub"
+      }
+    },
+    {
+      "eul_wid": "qeu-ad",
+      "title": {
+        "english": "Lucius or the Ass",
+        "ancient_greek": "Λούκιος ἢ Ὄνος"
+      },
+      "url_slug": "pseudo-lucian-ass-qeu-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/ass",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-ass-qeu-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-ass-qeu-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-ass-qeu-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-ass-qeu-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/ass.epub"
+      }
+    },
+    {
+      "eul_wid": "qeu-aa",
+      "title": {
+        "english": "Philopatris or The Student",
+        "ancient_greek": "Φιλόπατρις ἢ Διδασκόμενος"
+      },
+      "url_slug": "pseudo-lucian-philopatris-qeu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/philopatris",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-philopatris-qeu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-philopatris-qeu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-philopatris-qeu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-philopatris-qeu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/philopatris.epub"
+      }
+    },
+    {
+      "eul_wid": "qeu-ae",
+      "title": {
+        "english": "Swift-Footed",
+        "ancient_greek": "Ὠκύπους"
+      },
+      "url_slug": "pseudo-lucian-swift-footed-qeu-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/swift-footed",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-swift-footed-qeu-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-swift-footed-qeu-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-swift-footed-qeu-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-swift-footed-qeu-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/swift-footed.epub"
+      }
+    },
+    {
+      "eul_wid": "qeu-ac",
+      "title": {
+        "english": "encom of Demosthenes",
+        "ancient_greek": "Δημοσθένους Ἐγκώμιον"
+      },
+      "url_slug": "pseudo-lucian-encomium-qeu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/encomium",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-encomium-qeu-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-encomium-qeu-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-encomium-qeu-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-encomium-qeu-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/encomium.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "ejc-aj",
+      "title": {
+        "english": "Against Alcibiades for Military Evasion",
+        "ancient_greek": "κατὰ Ἀλκιβιάδου ἀστρατείας"
+      },
+      "url_slug": "lysias-against-alcibiades-aj-ejc-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-alcibiades-aj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-alcibiades-aj-ejc-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-alcibiades-aj-ejc-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-alcibiades-aj-ejc-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-against-alcibiades-aj-ejc-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-alcibiades-aj.epub"
+      }
+    },
+    {
+      "eul_wid": "ejc-at",
+      "title": {
+        "english": "Epitaph for Corinthian Helpers",
+        "ancient_greek": "Ἐπιτάφιος τοῖς Κορινθίων βοηθοῖς"
+      },
+      "url_slug": "lysias-corinthian-helpers-ejc-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/corinthian-helpers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-corinthian-helpers-ejc-at.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-corinthian-helpers-ejc-at.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-corinthian-helpers-ejc-at.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-corinthian-helpers-ejc-at.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/corinthian-helpers.epub"
+      }
+    },
+    {
+      "eul_wid": "quo-aa",
+      "title": {
+        "english": "Fishermen's Sea Letters",
+        "ancient_greek": "Ἐπιστολαί"
+      },
+      "url_slug": "alciphron-the-sophist-sea-letters-quo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/alciphron-the-sophist/sea-letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alciphron-the-sophist-sea-letters-quo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alciphron-the-sophist-sea-letters-quo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alciphron-the-sophist-sea-letters-quo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alciphron-the-sophist-sea-letters-quo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alciphron-the-sophist/sea-letters.epub"
+      }
+    },
+    {
+      "eul_wid": "qwm-ah",
+      "title": {
+        "english": "Leuctrian B. In Favor of Thebans First",
+        "ancient_greek": "Λευκτρικὸς Β."
+      },
+      "url_slug": "aristides-the-orator-leuctrian-b-thebans-first-qwm-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/leuctrian-b-thebans-first",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-leuctrian-b-thebans-first-qwm-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-leuctrian-b-thebans-first-qwm-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-leuctrian-b-thebans-first-qwm-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-leuctrian-b-thebans-first-qwm-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/leuctrian-b-thebans-first.epub"
+      }
+    },
+    {
+      "eul_wid": "hlw-ac",
+      "title": {
+        "english": "On the Abduction of Persephone",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "demades-of-paeania-abduction-persephone-hlw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/demades-of-paeania/abduction-persephone",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demades-of-paeania-abduction-persephone-hlw-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demades-of-paeania-abduction-persephone-hlw-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demades-of-paeania-abduction-persephone-hlw-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demades-of-paeania-abduction-persephone-hlw-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demades-of-paeania/abduction-persephone.epub"
+      }
+    },
+    {
+      "eul_wid": "fge-ag",
+      "title": {
+        "english": "On the Lot of Astyphilus",
+        "ancient_greek": "Περὶ τοῦ Ἀστυφίλου κλήρου"
+      },
+      "url_slug": "isaeus-the-orator-astyphilus-lot-fge-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/isaeus-the-orator/astyphilus-lot",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator-astyphilus-lot-fge-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator-astyphilus-lot-fge-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator-astyphilus-lot-fge-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator-astyphilus-lot-fge-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/astyphilus-lot.epub"
+      }
+    },
+    {
+      "eul_wid": "rda-ac",
+      "title": {
+        "english": "On the Syrian Kings",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "athenaeus-of-naucratis-syrian-kings-rda-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/athenaeus-of-naucratis/syrian-kings",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-of-naucratis-syrian-kings-rda-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-of-naucratis-syrian-kings-rda-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-of-naucratis-syrian-kings-rda-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-of-naucratis-syrian-kings-rda-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-of-naucratis/syrian-kings.epub"
+      }
+    },
+    {
+      "eul_wid": "fsm-aw",
+      "title": {
+        "english": "To Apaturius for False Entry",
+        "ancient_greek": "πρὸς Ἀπατούριον παραγραφή"
+      },
+      "url_slug": "demosthenes-of-athens-apaturius-false-entry-fsm-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/apaturius-false-entry",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-apaturius-false-entry-fsm-aw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-apaturius-false-entry-fsm-aw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-apaturius-false-entry-fsm-aw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-apaturius-false-entry-fsm-aw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/apaturius-false-entry.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/pseudo-lucian/epigrams-ag",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-epigrams-ag-qeu-ag.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-epigrams-ag-qeu-ag.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-epigrams-ag-qeu-ag.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-epigrams-ag-qeu-ag.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/epigrams-ag.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

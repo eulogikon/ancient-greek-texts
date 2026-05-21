@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "tco",
+  "auth_slug": "hephaestion-of-thebes",
+  "name": {
+    "english": "Hephaestion of Thebes",
+    "ancient_greek": "Ἡφαιστίων ὁ Θηβαῖος"
+  },
+  "seo_h1": "Hephaestion of Thebes on Astrological Effects",
+  "seo": {
+    "browser_title": "Hephaestion of Thebes on Eulogikon Greek Archive Collection",
+    "meta_title": "Hephaestion of Thebes Ancient Greek Technical Works",
+    "meta_description": "Hephaestion of Thebes was a late antique author of technical treatises. Five works are preserved. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Hephaestion of Thebes was a Greco-Egyptian astrologer active around 380 CE during the reign of the emperor Arcadius. He originated from Thebes in Egypt, a noted center for astrological study in late antiquity.</p>\n<p class=\"research-text\">His major work is the Apotelesmatika, a comprehensive astrological compendium that survives in full. A shorter epitome of this text also exists. The Apotelesmatika is a systematic synthesis of earlier Hellenistic doctrine, drawing on authorities like Ptolemy and Dorotheus of Sidon. It covers natal, catarchic, and interrogational astrology.</p>\n<p class=\"research-text\">The work’s primary significance lies in its role as a crucial conduit for preserving Greek astrological knowledge. It transmitted this knowledge into the Byzantine and medieval Arabic traditions and provides a detailed view of late antique astrological practice.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 5,
+  "works": [
+    {
+      "eul_wid": "tco-ad",
+      "title": {
+        "english": "Astrological Excerpt A",
+        "ancient_greek": "Ἐκλογή"
+      },
+      "url_slug": "hephaestion-of-thebes-excerpt-ad-tco-ad",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/hephaestion-of-thebes/excerpt-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-excerpt-ad-tco-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-excerpt-ad-tco-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-excerpt-ad-tco-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-excerpt-ad-tco-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes/excerpt-ad.epub"
+      }
+    },
+    {
+      "eul_wid": "tco-ac",
+      "title": {
+        "english": "Astrological Excerpt B",
+        "ancient_greek": "Ἐκλογή"
+      },
+      "url_slug": "hephaestion-of-thebes-excerpt-ac-tco-ac",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/hephaestion-of-thebes/excerpt-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-excerpt-ac-tco-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-excerpt-ac-tco-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-excerpt-ac-tco-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-excerpt-ac-tco-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes/excerpt-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "tco-ae",
+      "title": {
+        "english": "Astrological Excerpt C",
+        "ancient_greek": "Ἐκλογή"
+      },
+      "url_slug": "hephaestion-of-thebes-excerpt-ae-tco-ae",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/hephaestion-of-thebes/excerpt-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-excerpt-ae-tco-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-excerpt-ae-tco-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-excerpt-ae-tco-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-excerpt-ae-tco-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes/excerpt-ae.epub"
+      }
+    },
+    {
+      "eul_wid": "tco-ab",
+      "title": {
+        "english": "Effects",
+        "ancient_greek": "Ἐπιπτώσεις"
+      },
+      "url_slug": "hephaestion-of-thebes-effects-tco-ab",
+      "passages": 332,
+      "links": {
+        "html": "https://eulogikon.org/grc/hephaestion-of-thebes/effects",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-effects-tco-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-effects-tco-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-effects-tco-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-effects-tco-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes/effects.epub"
+      }
+    },
+    {
+      "eul_wid": "tco-aa",
+      "title": {
+        "english": "Effects, Four Epitomes",
+        "ancient_greek": "Ἐπιπτώσεις"
+      },
+      "url_slug": "hephaestion-of-thebes-four-epitomes-tco-aa",
+      "passages": 348,
+      "links": {
+        "html": "https://eulogikon.org/grc/hephaestion-of-thebes/four-epitomes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-four-epitomes-tco-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-four-epitomes-tco-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-four-epitomes-tco-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-four-epitomes-tco-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes/four-epitomes.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/hephaestion-of-thebes",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hephaestion-of-thebes-tco.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hephaestion-of-thebes-tco.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hephaestion-of-thebes-tco.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hephaestion-of-thebes-tco.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

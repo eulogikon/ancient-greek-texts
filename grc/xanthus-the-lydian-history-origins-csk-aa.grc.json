@@ -1,0 +1,453 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "csk-aa",
+  "eul_aid": "csk",
+  "author_slug": "xanthus-the-lydian",
+  "work_slug": "history-origins",
+  "url_slug": "xanthus-the-lydian-history-origins-csk-aa",
+  "author": {
+    "english": "Xanthus the Lydian Historian",
+    "ancient_greek": "Ξάνθος ὁ Λυδός"
+  },
+  "title": {
+    "english": "Lydian History and Origins",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Historical Fragments of Xanthus the Lydian on Eulogikon",
+    "meta_title": "Classical Fragments of Xanthus the Lydian in Ancient Greek",
+    "meta_description": "Surviving fragments of Xanthus the Lydian's history detailing Lydian myths and early ethnography. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Lydian History and Origins</strong> is a fragmentary prose work by the 5th-century BCE historian Xanthus the Lydian. Composed in Ionic Greek, it represents an early ethnography and national history dedicated to the myths, ancient kings, customs, and historical events of the Lydian people. The scope of the work ranged from foundational origin stories to accounts of cultural practices and a chronology of the Lydian monarchy. Notably, Xanthus addressed and contradicted the Greek tradition of a Tyrrhenian migration from Lydia to Italy, instead asserting that the sons of Atys, Lydus and Torrhebus, remained in Asia and gave their names to the Lydian and Torrhebian peoples. The original text does not survive intact and is known only through approximately thirty-five passages quoted by later Greek and Roman authors such as Strabo, Athenaeus, and Dionysius of Halicarnassus; this fragmentary transmission is why the work is sometimes referenced under the title <strong>Apospasmata</strong>, or &quot;Excerpts.&quot; As a Lydian writing in Greek shortly after Lydia&#x27;s incorporation into the Persian Empire, Xanthus provided an invaluable insider’s perspective for a Hellenic audience. Modern scholarship interprets his project as a significant effort to document and assert the cultural and historical importance of Lydian civilization within the burgeoning Greek intellectual tradition, positioning him as an important precursor to historians like Herodotus.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t",
+      "text": "FRAGMENTA ΛΥΔΙΑΚΑ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Dionys. Halicarn. Antiq. I, 28: Ξάνθος δὲ ὁ Λυδὸς ἱστορίας παλαιᾶς, εἰ καί τις ἄλλος, ἔμπειρος ὢν, τῆς δὲ πατρίου καὶ βεβαιωτὴς ἂν οὐδενὸς ὑποδεέστερος νομισθεὶς, οὔτε Τυῤῥηνὸν ὠνόμακεν οὐδαμοῦ τῆς γραφῆς δυνάστην Λυδῶν, οὔτε ἀποικίαν Μηϊόνων εἰς Ἰταλίαν κατασχοῦσαν ἐπίσταται, Τυῤῥηνίας τε μνήμην ὡς Λυδῶν ἀποικήσεως, ταπεινοτέρων ἄλλων μεμνημένος, οὐδεμίαν πεποίηται· Ἄτυος δὲ παῖδας γενέσθαι λέγει Λυδὸν καὶ Τόῤῥηβον· τούτους δὲ, μερισαμένους τὴν πατρῴαν ἀρχὴν, ἐν Ἀσίᾳ καταμεῖναι ἀμφοτέρους, καὶ τοῖς ἔθνεσιν, ὧν ἦρξαν, ἐπ’ ἐκείνων φησὶ τεθῆναι τὰς ὀνομασίας λέγων ὧδε· «Ἀπὸ Λυδοῦ μὲν γίνονται Λυδοὶ, ἀπὸ δὲ Τοῤῥήβου Τόῤῥηβοι· τούτων ἡ γλῶσσα ὀλίγον παραφέρει, καὶ νῦν ἔτι συλοῦσιν ἀλλήλους ῥήματα οὐκ ὀλίγα, ὥσπερ Ἴωνες καὶ Δωριεῖς.» Steph.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Byz.: Τόῤῥηβος, πόλις Λυδίας ἀπὸ Τοῤῥήβου τοῦ Ἄτυος. Ἐν δὲ τῇ Τοῤῥηβίδι ἔστιν ὄρος Κάριος καλούμενον, καὶ ἱερὸν τοῦ Καρίου ἐκεῖ. Κάριος δὲ Διὸς παῖς καὶ Τοῤῥηβίας, ὡς Νικόλαος τετάρτῳ· ὃς πλαζόμενος περί τινα λίμνην, ἥτις ἀπ’ αὐτοῦ Τοῤῥηβία ἐκλήθη, φθογγῆς Νυμφῶν ἀκούσας, ἃς καὶ Μούσας Λυδοὶ καλοῦσι, καὶ μουσικὴν ἐδιδάχθη, καὶ αὐτὸς Λυδοὺς ἐδίδαξε, καὶ τὰ μέλη διὰ τοῦτο Τορρήβια ἐκαλεῖτο. Eratosthen.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "apud. Strabon. I: Ταῦτα δ’ εἰπὼν τὴν Στράτωνος ἐπαινεῖ δόξαν τοῦ φυσικοῦ, καὶ ἔτι Ξάνθου τοῦ Λυδοῦ· τοῦ μὲν Ξάνθου λέγοντος, ἐπὶ Ἀρταξέρξου γενέσθαι μέγαν αὐχμὸν, ὥστ’ ἐκλιπεῖν ποταμοὺς, καὶ λίμνας καὶ φρέατα· αὐτὸν δὲ εἰδέναι πολλαχῆ πρόσω ἀπὸ τῆς θαλάσσης λίθους τε κογχυλιώδεις, καὶ τὰ κτενώδεα, καὶ χηραμίδων τυπώματα, καὶ λιμνοθάλασσαν ἐν Ἀρμενίοις καὶ ἐν Ματτιηνοῖς καὶ ἐν Φρυγίᾳ τῇ κάτω· ὧν ἕνεκα πείθεσθαι τὰ πεδία ποτὲ θάλατταν γενέσθαι. Strabo XII: Ἀκούειν δ’ ἔστι καὶ τῶν παλαιῶν συγγραφέων· οἷα φησὶν ὁ τὰ Λύδια συγγράψας Ξάνθος, διηγούμενος οἷαι μεταβολαὶ κατέσχον πολλάκις τὴν χώραν ταύτην, ὧν ἐμνήσθη μέν που καὶ ἐν τοῖς πρόσθεν· καὶ δὴ καὶ τὰ περὶ τὸν Τυφῶνα πάθη ἐνταῦθα μυθεύουσι, καὶ τοὺς Ἀρίμους, καὶ τὴν Κατακεκαυμένην ταύτην εἶναί φασιν· οὐκ ὀκνοῦσι δὲ καὶ τὰ μεταξὺ Μαιάνδρου καὶ Λυδῶν ἅπανθ’ ὑπονοεῖν τοιαῦτα· καὶ διὰ τὸ πλῆθος τῶν λιμνῶν καὶ ποταμῶν, καὶ τοὺς πολλαχοῦ κευθμῶνας τῆς γῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4a",
+      "text": "Ἡ δὲ μεταξὺ Λαοδικείας καὶ Ἀπαμείας λίμνη, καὶ βορβορώδη καὶ ὑπόνομον τὴν ἀποφορὰν ἔχει πελαγία οὖσα· φασὶ δὲ καὶ δίκας εἶναι τῷ Μαιάνδρῳ μεταφέροντι τὰς χώρας, ὅταν περικρουσθῶσιν οἱ ἀγκῶνες· ἁλόντος δὲ τὰς ζημίας ἐκ τῶν πορθμικῶν διαλύεσθαι τελῶν. Idem, XIII: Μετὰ δὲ ταῦτ’ ἐστὶν ἡ Κατακεκαυμένη λεγομένη χώρα, μῆκος μὲν καὶ πεντακοσίων σταδίων, πλάτος δὲ τετρακοσίων, εἴτε Μυσίαν χρὴ καλεῖν· εἴτε Μῃονίαν· λέγεται γὰρ ἀμφοτέρως· ἅπαντα ἄδενδρος, πλὴν ἀμπέλου τῆς τὸν Κατακεκαυμενίτην φερούσης οἶνον, οὐδενὸς τῶν ἐλλογίμων ἀρετῇ λειπόμενον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4b",
+      "text": "Ἔστι δὲ ἡ ἐπιφάνεια τεφρώδης τῶν πεδίων· ἡ δὲ ὀρεινὴ καὶ πετρώδης, μέλαινα ὡς ἂν ἐξ ἐπικαύσεως. Εἰκάζουσι μὲν οὖν τινὲς ἐκ κεραυνοβολιῶν καὶ πρηστήρων συμβῆναι τοιοῦτο· καὶ οὐκ ὀκνοῦσι τὰ περὶ τὸν Τυφῶνα ἐνταῦθα μυθολογεῖν. Ξάνθος δὲ καὶ Ἀριμοῦν τινα λέγει τῶν τόπων τούτων βασιλέα. Aristotel.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4c",
+      "text": "De mirab. auscult. c. 39: Λέγεται δὲ καὶ περὶ Λυδίαν ἀναφέρεσθαι πῦρ πάμπληθες καὶ καίεσθαι ἐφ’ ἡμέρας ἑπτά. Strabo XIV: Ὁ μὲν γὰρ Ξάνθος ὁ Λυδὸς, μετὰ τὰ Τρωϊκὰ φησὶν ἐλθεῖν τοὺς Φρύγας ἐκ τῆς Εὐρώπης καὶ τῶν ἀριστερῶν τοῦ Πόντου· ἀγαγεῖν δ’ αὐτοὺς Σκαμάνδριον ἐκ Βερεκύντων καὶ Ἀσκανίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5a",
+      "text": "Schol. Venet. et Vatican. ad Eurip. Androm. 10: Λυσανίας κατηγορεῖ Εὐριπίδου, κακῶς λέγων αὐτὸν ἐξειληφέναι τὸ παρ’ Ὁμήρῳ (Il. ω, 734) λεχθέν· ἤ τις Ἀχαιῶν ῥίψει χειρὸς ἑλὼν ἀπὸ πύργου· οὐχ ὡς πάντως γενησόμενον, ἀλλ’ εἰκαζόμενόν ἐστιν ὑπ’ αὐτῆς, ὡς εἰ ἔλεγε κατακαυθήσεσθαι τὸν παῖδα ἤ τι ἄλλο. [Ξάν]θον δὲ τὸν Λυδιακὰ [συντάξαν] τά φασιν ὅτι Εὐριπίδῃ σύνηθες προσέχειν περὶ τοῖς Τρωικοῖς ......... τοῖς δὲ χρησιμωτέροις ......φοις. Στησίχορον μέντοι ἱστορεῖν ὅτι τεθνήκοι, καὶ τὸν τὴν Περσίδα συντεταχότα ... ποιητὴν ὅτι καὶ ἀπὸ τοῦ τείχους ῥιφείη. Steph.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "Byz.: Λόκοζος πόλις Φρυγίας, ἣν ᾤκουν Θρᾷκες Λοκόζιοι· κατεκλύσθη δὲ, ὡς Ξάνθος ὁ Λυδὸς, ὃς καὶ διὰ τοῦ ξ γράφει ἐν τόποις, Λοκοξίτας τούτους καλῶν. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "Apollon. II, 724: Σαγγάριος, ποταμὸς Φρυγίας· ὁ δὲ Μυρλεανὸς Σάγγαρον αὐτὸν λέγεσθαι φησίν. Ἑρμογένης δὲ ἐν τῷ περὶ Φρυγίας φησὶν, Σάγγαν τινὰ ἀσεβήσαντα περὶ τὴν Ῥέαν, μεταβαλεῖν εἰς τοῦτο τὸ ὕδωρ, καὶ ἀπ’ αὐτοῦ τὸν ποταμὸν Σαγγάριον ὀνομασθῆναι· πλησίον δὲ αὐτοῦ ὀρείας Δήμητρος ἱερόν ἐστιν, ὥς φησι Ξάνθος. Strabo XII: Ὅτι τοὺς Μύσους, οἱ μὲν Θρᾷκας, οἱ δὲ Λυδοὺς εἰρήκασι κατ’ αἰτίαν παλαιὰν ἱστοροῦντες, ἣν Ξάνθος ὁ Λυδὸς γράφει καὶ Μενεκράτης ὁ Ἐλαΐτης· ἐτυμολογοῦντες καὶ τὸ ὄνομα τὸ τῶν Μυσῶν ὅτι τὴν ὀξύην οὕτως ὀνομάζουσιν οἱ Λυδοί· πολλὴ δ’ ἡ ὀξύη κατὰ τὸν Ὄλυμπον, ὅπου ἐκτεθῆναί φασι τοὺς δεκατευθέντας· ἐκείνων δὲ ἀπογόνους εἶναι τοὺς ὕστερον Μυσοὺς, ἀπὸ τῆς ὀξύης οὕτω προσαγορευθέντας· μαρτυρεῖν δὲ καὶ τὴν διάλεκτον· μιξολύδιον γάρ πως εἶναι καὶ μιξοφρύγιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8a",
+      "text": "Τέως μὲν γὰρ οἰκεῖν αὐτοὺς περὶ τὸν Ὄλυμπον· τῶν δὲ Φρύγων ἐκ τῆς Θρᾴκης περαιωθέντων, εἵλοντο τόν τε τῆς Τροίας ἄρχοντα, καὶ τῆς πλησίον γῆς· ἐκείνους μὲν ἐνταῦθα οἰκῆσαι· τοὺς δὲ Μυσοὺς περὶ τὰς τοῦ Καΐκου πηγὰς πλησίον Λυδῶν. Nicolaus Damasc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8b",
+      "text": "histor. lib. 18: Θρακήσιοι δὲ ἐπεκλήθησαν ἀπὸ τῆς τοιαύτης αἰτίας. Ἐπὶ Ἀλυάττου τοῦ τῶν Λυδῶν βασιλέως ἀνήρ τις μετὰ γυναικὸς καὶ τῶν ἑαυτοῦ τέκνων ἐκ Μυσίας τῆς τῶν Θρᾴκων χώρας ὁρμώμενος, ἧς καὶ Ὅμηρος μνημονεύει λέγων οὕτως, Μυσῶν τ’ ἀγχεμάχων καὶ ἀγαυῶν Ἱππημολγῶν, διεπέρασεν εἰς τὰ μέρη τῆς Ἀσίας, εἰς χώραν τὴν λεγομένην Λυδίαν, καὶ κατῴκησε πλησίον τῆς πόλεως Σάρδεων. Τοῦ οὖν βασιλέως πρὸς τὸ τῆς πόλεως τεῖχος καθεζομένου, διήρχετο ἡ γυνὴ τοῦ Θρᾳκὸς, ἐπὶ μὲν τῆς κεφαλῆς βαστάζουσα στάμνον, ἐπὶ δὲ τῶν χειρῶν ἠλακάτην καὶ ἄτρακτον, ὄπισθεν δὲ πρὸς τὴν ζώνην ἵππος τις προσεδέδετο· καὶ ἐπὶ μὲν τῆς κορυφῆς ὁ στάμνος ἦν μεστὸς ὕδατος· ἐν δὲ ταῖς χερσὶν εἰργάζετο νήθουσα ἐκ τῆς ἠλακάτης τὸν ἄτρακτον· ὄπισθεν δὲ πρὸς τὴν ζώνην ἠκολούθει ὁ ἵππος ἀπὸ τῆς πηγῆς πεποτισμένος. Ταύτην ἰδὼν ὁ βασιλεὺς μεγάλως ἐθαύμασε καὶ ἠρώτησε, πόθεν καὶ τίς καὶ ποίας ἐστὶ πόλεως. Ἡ δὲ ἀπεκρίνατο, Μυσὴν μὲν εἶναι τὸ γένος· Θρᾴκης δ’ ἔστιν αὐτὸ πολίχνιον. Λαβὼν οὖν βασιλεὺς ἀπὸ τῆς γυναικὸς ἀφορμὴν, πρεσβείαν πρὸς τὸν τῆς Θρᾴκης βασιλέα ποιησάμενος Κότυν ὀνομαζόμενον, ἐκεῖθεν ἔλαβεν ἄνδρας μετοίκους, μετὰ γυναικῶν καὶ τέκνων, ὄχλον ἱκανόν. Ταύτην δὲ τὴν ἱστορίαν Νικόλαος ὁ Δαμασκηνὸς γράφει ἐν τῷ ὀκτωκαιδεκάτῳ αὐτοῦ βιβλίῳ, ὁ γεγονὼς ὑπογραφεὺς Ἡρώδου τοῦ βασιλέως. Etym.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "M.: Ἑρμαῖον, τὸν σορὸν τῶν λίθων, καὶ συνόλως τοὺς ἐνοδίους λίθους· λέγει δὲ περὶ αὐτῶν Ξάνθος, ὅτι ἀποκτείναντος Ἑρμοῦ τὸν Ἄργον, καὶ δίκας εἰσπραττομένου καὶ ὑπέχοντος ἐν τοῖς θεοῖς διὰ τὸ πρῶτον ἅψασθαι, τοὺς λοιποὺς ἀφοσιουμένους τὸ ἄγος, καὶ ἀπολύοντας τοῦ φόνου προσβάλλειν αὐτῷ τὴν ψῆφον· ὅθεν διαμένειν ἔτι καὶ νῦν. Suidas: Ξάνθος ἱστορεῖ, Ἄλκιμόν τινα βασιλεῦσαι τῆς ἐκεῖσε χώρας, εὐσεβέστατον καὶ πρᾳότατον ἄνθρωπον· καὶ ἐπ’ αὐτοῦ γενέσθαι εἰρήνην βαθεῖαν καὶ πλοῦτον πολὺν, ἀδέως δὲ καὶ ἀνεπιβουλεύτως ζῇν ἕκαστον· εἶτα ἐπειδὴ ἑπτὰ ἔτη ἦν τῷ Ἀλκίμῳ, προσελθόντας τοὺς Λυδοὺς παγγενῆ τε καὶ πανδημεὶ προσεύξασθαι, καὶ αἰτῆσαι τῷ Ἀλκίμῳ τοιαῦτα ἔτη δοθῆναι ἐς τὸ Λυδῶν ἀγαθόν· ὃ καὶ γέγονε καὶ ἐν εὐποτμίᾳ τε καὶ εὐδαιμονίᾳ πολλῇ διῆγον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "Mnaseas apud Athenaeum VIII: Ἡ δέ γε Ἀτεργάτις, ὥσπερ Ξάνθος λέγει ὁ Λυδὸς, ὑπὸ Μόξου τοῦ Λυδοῦ ἁλοῦσα, κατεποντίσθη μετὰ Ἰχθύος τοῦ υἱοῦ ἐν τῇ περὶ Ἀσκάλωνα λίμνῃ διὰ τὴν ὕβριν, καὶ ὑπὸ τῶν ἰχθύων κατεβρώθη. Hesychius: Ἀτταγάθ η, Ἀθάρη, παρὰ τῷ Ξάνθῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11b",
+      "text": "Idem: Βουλεψί η· ἡ λέξις παρὰ Ξάνθῳ· λέγει δὲ τὰς Ἀμαζόνας, ἐπειδὰν τέκωσιν ἄρρεν, ἐξορύσσειν αὐτοῦ τοὺς ὀφθαλμοὺς αὐτοχειρίᾳ. Athenaeus X: Ξάνθος δὲ, ἐν τοῖς Λυδιακοῖς, Κάμβλητα φησὶ, τὸν βασιλεύσαντα Λυδῶν, πολυφάγον γενέσθαι καὶ πολυπότην, ἔτι δὲ γαστρίμαργον· τοῦτον οὖν ποτε νυκτὸς τὴν ἑαυτοῦ γυναῖκα κατακρεουργήσαντα καταφαγεῖν· ἔπειτα πρωῒ, εὑρόντα τὴν χεῖρα τῆς γυναικὸς ἐνοῦσαν ἐν τῷ στόματι, ἑαυτὸν ἀποσφάξαι περιβοήτου τῆς πράξεως γενομένης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13",
+      "text": "Parthenii Erotic. c. 33: Περὶ Ἀσσάονο ς. Ἱστορεῖ Ξάνθος Λυδιακοῖς καὶ Νεάνθης βʹ καὶ Σιμμίας ὁ Ῥόδιος. Διαφόρως δὲ καὶ τοῖς πολλοῖς ἱστορεῖται καὶ τὰ Νιόβης· οὐ γὰρ Ταντάλου φασὶν αὐτὴν γενέσθαι, ἀλλ’ Ἀσσάονος μὲν θυγατέρα, Φιλόττου δὲ γυναῖκα· εἰς ἔριν δὲ ἀφικομένην Λητοῖ περὶ καλλιτεκνίας, ὑποσχεῖν τίσιν τοιάνδε· τὸν μὲν Φίλοττον ἐν κυνηγίᾳ διαφθαρῆναι· τὸν δὲ Ἀσσάονα, τῆς θυγατρὸς πόθῳ σχόμενον, αὐτὴν αὑτῷ γήμασθαι· μὴ ἐνδιδούσης δὲ τῆς Νιόβης, τοὺς παῖδας αὐτῆς εἰς εὐωχίαν καλέσαντα καταπρῆσαι· καὶ τὴν μὲν διὰ ταύτην τὴν συμφορὰν ἀπὸ πέτρας ὑψηλοτάτης αὑτὴν ῥῖψαι· ἔννοιαν δὲ λαβόντα τῶν σφετέρων ἁμαρτημάτων, διαχρήσασθαι τὸν Ἀσσάονα ἑαυτόν. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13a",
+      "text": "Eurip. Phoen. 159: Ξάνθος δὲ ὁ Λύδιος (sc. τὴν Νιόβην φησὶ παῖδας ἔχειν) δέκα καὶ δέκα ἐκ Φιλόττου τοῦ Ἀσσυρίου, ὃς ᾤκει ἐν Σιπύλῳ· [ὃς ἀνῃρέθη ἐν κυνηγεσίῳ ὑπὸ ἄρκτου.] LIBER PRIMUS.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14",
+      "text": "Stephan. Byz.: Λυδία ἡ χώρα. Ξάνθος ἐν Λυδιακῶν πρώτῳ· τὸ ἐθνικὸν Λυδὸς καὶ Λυδαῖος. Joann.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14a",
+      "text": "Lydus De mensib. III, c. 14: Ὅτι δὲ τὸν ἐνιαυτὸν ὡς θεὸν ἐτίμησαν, δῆλον ἐξ αὐτῆς τῆς Λυδῶν βασιλίδος πόλεως. Σάρδιν γὰρ αὐτὴν καὶ Ξυάριν ὁ Ξάνθος καλεῖ· τὸ δὲ Σάρδιν ὄνομα εἴ τις κατὰ ἀριθμὸν ἀπολογίσεται, πέντε καὶ ἑξήκοντα καὶ τριακοσίας εὑρήσει συνάγων μονάδας· ὡς κἀντεῦθεν εἶναι δῆλον, πρὸς τιμὴν Ἡλίου, τοῦ τοσαύτοις ἡμέραις τὸν ἐνιαυτὸν συνάγοντος, Σάρδιν ὀνομασθῆναι τὴν πόλιν. Νέον δὲ Σάρδιν τὸ νέον ἔτος ἔτι καὶ νῦν λέγεσθαι τῷ πλήθει συνομολογεῖται· εἰσὶ δὲ οἵ φασι τῇ Λυδῶν ἀρχαίᾳ φωνῇ τὸν ἐνιαυτὸν καλεῖσθαι Σάρδιν. Stephan.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "Byz.: Λυκοσθένη, πόλις Λυδίας. Ξάνθος πρώτῃ Λυδιακῶν· ἣν καὶ Λυκοσθένειαν Νικόλαός φησιν· ὁ πολίτης Λυκοσθενεὺς, ὡς Βερενικεύς· παρὰ δὲ Λυδοῖς Λυκοσθενίτης, ὡς Δικαιαρχίτης. Plinius H.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16",
+      "text": "N. lib. XXV, cap. V: «Xanthus historiarum auctor in primo carum tradit, occisum draconis catulum revocatum ad vitam a parente, herba quam balin nominat: eadem Thylonem, quem draco occiderat, restitutum saluti.» LIBER SECUNDUS.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17",
+      "text": "Stephan. Byz.: Ἀρδύνιον, πόλις ἐν Θήβης πεδίῳ, ὡς Ξάνθος ἐν Λυδιακῶν δευτέρῳ· τὸ ἐθνικὸν Ἀρδύνιος. Stephan.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18",
+      "text": "Byz.: Στρόγωλα, πόλις Λυδίας· Ξάνθος ἐν Λυδιακῶν δευτέρῳ· τὸ ἐθνικὸν Στρογωλεύς. Athenaeus XII, c.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19",
+      "text": "11: Λυδοὶ δὲ εἰς τοσοῦτον ἦλθον τρυφῆς, ὡς καὶ πρῶτοι γυναῖκας εὐνουχίσαι, ὡς ἱστορεῖ Ξάνθος ὁ Λυδὸς, ἢ ὁ εἰς αὐτὸν τὰς ἀναφερομένας ἱστορίας συγγεγραφὼς, Διονύσιος ὁ Σκυτοβραχίων, ὡς Ἀρτέμων φησὶν ὁ Κασανδρεὺς, ἐν τῷ περὶ συναγωγῆς βιβλίων· ἀγνοῶν ὅτι Ἔφορος ὁ συγγραφεὺς μνημονεύει αὐτοῦ, ὡς παλαιοτέρου ὄντος καὶ Ἡροδότῳ τὰς ἀφορμὰς δεδωκότος· ὁ δ’ οὖν Ξάνθος ἐν τῇ δευτέρᾳ τῶν Λυδιακῶν Ἀδραμύτην φησὶ τῶν Λυδῶν βασιλέα πρῶτον γυναῖκας εὐνουχίσαντα, χρῆσθαι αὐταῖς ἀντὶ ἀνδρῶν εὐνούχων. LIBER TERTIUS.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20",
+      "text": "Stephan. Byz.: Εὐπάτρια, πόλις Λυδῶν· οἱ πολῖται Εὐπατρίδαι, μᾶλλον δὲ Εὐπατρεῖς. Ξ. ἐν γʹ Λυδικῶν LIBER QUARTUS.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "21",
+      "text": "Stephan. Byz.: Ἀστελέβη, πόλις Λυδίας. Ξάνθος ἐν τετάρτῃ Λυδιακῶν· οἱ οἰκοῦντες Ἀστελεβαῖοι. Stephan.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "22",
+      "text": "Byz.: Ἀστερία, πόλις Λυδίας· Ξάνθος ἐν τετάρτῃ Λυδιακῶν λέγεται καὶ Ἀστερίς· ὁ πολίτης Ἀστεριώτης καὶ Ἀστέριος. Stephan.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "23",
+      "text": "Byz.: Ἀσκάλων, πόλις Συρίας πρὸς τῇ Ἰουδαίᾳ. Ξάνθος ἐν τετάρτῃ Λυδιακῶν φησιν, ὅτι Τάνταλος καὶ Ἄσκαλος, παῖδες Ὑμεναίου· τὸν δὲ Ἄσκαλον ὑπὸ Ἀκιαμοῦ τοῦ Λυδῶν βασιλέως αἱρεθέντα στρατηγὸν, εἰς Συρίαν στρατεῦσαι· κἀκεῖ παρθένου, πόλιν κτίσαι, ἣν ἀφ’ ἑαυτοῦ οὕτως ὠνόμασε· τὰ αὐτὰ καὶ Νικόλαος ἐν τετάρτῃ ἱστορίᾳ ... Λέγεται καὶ Ἀσκαλώνιον ἡ πόλις. Τὸ ἐθνικὸν Ἀσκαλωνίτης καὶ Ἀσκαλώνιος, ὡς Ξάνθος ὁ Λυδὸς, καὶ Ἀσκαλωνὶς θηλυκόν. Stephan.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "24",
+      "text": "Byz.: Σιδήνη, πόλις Λυκίας, ὡς Ξάνθος ἐν Λυκιακῶν τετάρτῳ. τὸ ἐθνικὸν Σιδηνὸς, ὡς Σοφηνός. Stephan.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25",
+      "text": "Byz.: Μελάμπεια, πόλις Λυδίας, ἀπὸ Μελάμπου, ὡς Ξάνθος ἐν Λυκιακοῖς. Stephan.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "26",
+      "text": "Byz.: Ἔλγος, πόλισμα Λυκίας ὡς Ξάνθος ἐν Λυκιακοῖς. Clemens Alex.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "27",
+      "text": "Stromat. I: Ναὶ μὴν καὶ Τέρπανδρον ἀρχαΐζουσί τινες· Ἑλλάνικός γ’ οὖν τοῦτον ἱστορεῖ κατὰ Μίδαν γεγονέναι. Φανείας δὲ πρὸ Τερπάνδρου τιθεὶς Λέσχην τὸν Λέσβιον, Ἀρχιλόχου νεώτερον φέρει τὸν Τέρπανδρον· διημιλλῆσθαι δὲ τὸν Λέσχην Ἀρκτίνῳ, καὶ νενικηκέναι· Ξάνθος δὲ ὁ Λυδὸς περὶ τὴν ὀκτωκαιδεκάτην, ὡς δὲ Διονύσιος περὶ τὴν πεντεκαιδεκάτην, Θάσον ἐκτίσθαι. Hephaestion.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "27a",
+      "text": "De metris: Προτάσσεται δὲ ἡμίφωνον ὑγροῦ .. καὶ τὸ ς τοῦ λ, κατὰ πάθος, ὡς ἐν τῷ μάσλη ς, καὶ σπανίως τοῦ ν, ὡς Πάσνης καὶ Μάσνη ς, ἃ δὴ ὀνόματα (sc. ποταμῶν) παρὰ Ξάνθῳ εἰσὶν ἐν τοῖς Λυδιακοῖς. ΜΑΓΙΚΑ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "28",
+      "text": "Clem. Alex. Strom. III,: Ξάνθος (δὲ) ἐν τοῖς ἐπιγραφομένοις Μαγικοῖς, Μίγνυνται δὲ, φησὶν, οἱ μάγοι μητράσι καὶ θυγατράσι· καὶ ἀδελφαῖς μίγνυσθαι θεμιτὸν εἶναι· κοινάς τε εἶναι τὰς γυναῖκας, οὐ βίᾳ καὶ λάθρα, ἀλλὰ συναινούντων ἀμφοτέρων, ὅταν θέλῃ γῆμαι ὁ ἕτερος τὴν τοῦ ἑτέρου. Diogenes Laertius, prooem.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "29",
+      "text": ": Ἀπὸ δὲ τῶν Μάγων, ὧν ἄρξαι Ζωροάστρην τὸν Πέρσην, Ἑρμόδωρος μὲν ὁ Πλατωνικὸς ἐν τῷ περὶ μαθημάτων φησὶν, εἰς τὴν Τροίας ἅλωσιν ἔτη γεγονέναι πεντακισχίλια. Ξάνθος δὲ ὁ Λυδὸς, εἰς τὴν Ξέρξου διάβασιν ἀπὸ τοῦ Ζωροάστρου, ἑξακόσια φησί· καὶ μετ’ αὐτὸν γεγονέναι πολλούς τινας Μάγους κατὰ διαδοχὴν, Ὀστάνας καὶ Ἀστραψύχους, καὶ Γωβρίας καὶ Παζάτας, μέχρι τῆς Περσῶν ὑπ’ Ἀλεξάνδρου καταλύσεως. ΠΕΡΙ ΕΜΠΕΔΟΚΛΕΟΥΣ Diogenes Laertius, philosophi Vita VIII, 63: Φησὶ δ’ αὐτὸν καὶ Ἀριστοτέλης ἐλεύθερον γεγονέναι, καὶ πάσης ἀρχῆς ἀλλότριον, εἴ γε τὴν βασιλείαν αὐτῷ διδομένην παρῃτήσατο, καθάπερ Ξάνθος ἐν τοῖς περὶ αὐτοῦ λέγει, τὴν λιτότητα δηλονότι πλέον ἀγαπήσας.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "csk-ab",
+      "title": {
+        "english": "On the River Aryos",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "xanthus-the-lydian-river-aryos-csk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/xanthus-the-lydian/river-aryos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian-river-aryos-csk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian-river-aryos-csk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian-river-aryos-csk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian-river-aryos-csk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian/river-aryos.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "cvw-aa",
+      "title": {
+        "english": "Genealogies Concerning Minos",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hippostratus-the-historian-genealogies-minos-cvw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippostratus-the-historian/genealogies-minos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippostratus-the-historian-genealogies-minos-cvw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippostratus-the-historian-genealogies-minos-cvw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippostratus-the-historian-genealogies-minos-cvw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippostratus-the-historian-genealogies-minos-cvw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippostratus-the-historian/genealogies-minos.epub"
+      }
+    },
+    {
+      "eul_wid": "moo-aa",
+      "title": {
+        "english": "Historical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "rutilius-rufus-the-historian-historical-fragments-moo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/rutilius-rufus-the-historian/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rutilius-rufus-the-historian-historical-fragments-moo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rutilius-rufus-the-historian-historical-fragments-moo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rutilius-rufus-the-historian-historical-fragments-moo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rutilius-rufus-the-historian-historical-fragments-moo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rutilius-rufus-the-historian/historical-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "rjy-ac",
+      "title": {
+        "english": "Letter to Origen",
+        "ancient_greek": "Ἐπιστολὴ πρὸς Ὠριγένην"
+      },
+      "url_slug": "sextus-julius-africanus-letter-to-origen-rjy-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/sextus-julius-africanus/letter-to-origen",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-julius-africanus-letter-to-origen-rjy-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-julius-africanus-letter-to-origen-rjy-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-julius-africanus-letter-to-origen-rjy-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-julius-africanus-letter-to-origen-rjy-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-julius-africanus/letter-to-origen.epub"
+      }
+    },
+    {
+      "eul_wid": "jlu-aa",
+      "title": {
+        "english": "On Assyrian and Median History",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "abydenus-the-historian-assyrian-median-history-jlu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/abydenus-the-historian/assyrian-median-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/abydenus-the-historian-assyrian-median-history-jlu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/abydenus-the-historian-assyrian-median-history-jlu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/abydenus-the-historian-assyrian-median-history-jlu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/abydenus-the-historian-assyrian-median-history-jlu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/abydenus-the-historian/assyrian-median-history.epub"
+      }
+    },
+    {
+      "eul_wid": "ldq-aa",
+      "title": {
+        "english": "On Harbors and Rivers",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "timagetus-the-historian-harbors-rivers-ldq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/timagetus-the-historian/harbors-rivers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timagetus-the-historian-harbors-rivers-ldq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timagetus-the-historian-harbors-rivers-ldq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timagetus-the-historian-harbors-rivers-ldq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timagetus-the-historian-harbors-rivers-ldq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timagetus-the-historian/harbors-rivers.epub"
+      }
+    },
+    {
+      "eul_wid": "cvc-aa",
+      "title": {
+        "english": "On the Alphabet and Early History",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dionysius-of-miletus-alphabet-history-cvc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-miletus/alphabet-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-miletus-alphabet-history-cvc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-miletus-alphabet-history-cvc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-miletus-alphabet-history-cvc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-miletus-alphabet-history-cvc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-miletus/alphabet-history.epub"
+      }
+    },
+    {
+      "eul_wid": "gok-aa",
+      "title": {
+        "english": "Regional Histories and Myths",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dercyllus-the-historian-regional-histories-myths-gok-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dercyllus-the-historian/regional-histories-myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dercyllus-the-historian-regional-histories-myths-gok-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dercyllus-the-historian-regional-histories-myths-gok-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dercyllus-the-historian-regional-histories-myths-gok-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dercyllus-the-historian-regional-histories-myths-gok-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dercyllus-the-historian/regional-histories-myths.epub"
+      }
+    },
+    {
+      "eul_wid": "hye-aa",
+      "title": {
+        "english": "Samian Chronicles and Customs",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "alexis-of-samos-chronicles-customs-hye-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexis-of-samos/chronicles-customs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-of-samos-chronicles-customs-hye-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-of-samos-chronicles-customs-hye-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-of-samos-chronicles-customs-hye-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-of-samos-chronicles-customs-hye-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-of-samos/chronicles-customs.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/xanthus-the-lydian/history-origins",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian-history-origins-csk-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian-history-origins-csk-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian-history-origins-csk-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian-history-origins-csk-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian/history-origins.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

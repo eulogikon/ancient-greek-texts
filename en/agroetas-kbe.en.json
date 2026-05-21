@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "kbe",
+  "auth_slug": "agroetas",
+  "name": {
+    "english": "Agroetas",
+    "ancient_greek": "Ἀγροήτας"
+  },
+  "seo_h1": "Agroetas on the Myths and Genealogies of Libya",
+  "seo": {
+    "browser_title": "Agroetas Hellenistic Historian on Eulogikon Greek Archive",
+    "meta_title": "Agroetas Ancient Greek Historical Works and Fragments",
+    "meta_description": "Agroetas, a Hellenistic historian of the 3rd century BCE. Surviving fragments of his historical prose. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Agroetas was a Hellenistic historian of the 3rd century BCE. No biographical details survive. He is known solely as the author of a work on the history of Cyrene, the Greek colony in North Africa.</p>\n<p class=\"research-text\">His only known work is the <strong>Libyan History</strong> or <strong>On Libya</strong>, which is now entirely lost. It survives only in fragments and dealt with the history and mythology of Cyrene and the Libyan region. Agroetas is a minor, fragmentary historian. His significance lies in his role as a source for later historians on North Africa.</p>\n<p class=\"research-text\">The Byzantine scholar Photius notes in his <strong>Bibliotheca</strong> that Agroetas’s work was used by the historian Dionysius of Chalcis. His fragments contribute to the scant surviving historiography of the Greek world in North Africa.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "kbe-aa",
+      "title": {
+        "english": "Libyan Myths and Genealogies",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "agroetas-libyan-myths-kbe-aa",
+      "passages": 10,
+      "links": {
+        "html": "https://eulogikon.org/grc/agroetas/libyan-myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agroetas-libyan-myths-kbe-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agroetas-libyan-myths-kbe-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agroetas-libyan-myths-kbe-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agroetas-libyan-myths-kbe-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agroetas/libyan-myths.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/agroetas",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agroetas-kbe.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agroetas-kbe.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agroetas-kbe.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agroetas-kbe.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

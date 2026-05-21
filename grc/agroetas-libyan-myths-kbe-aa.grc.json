@@ -1,0 +1,261 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "kbe-aa",
+  "eul_aid": "kbe",
+  "author_slug": "agroetas",
+  "work_slug": "libyan-myths",
+  "url_slug": "agroetas-libyan-myths-kbe-aa",
+  "author": {
+    "english": "Agroetas",
+    "ancient_greek": "Ἀγροήτας"
+  },
+  "title": {
+    "english": "Libyan Myths and Genealogies",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Fragments of Libyan Myths by Agroetas on Eulogikon",
+    "meta_title": "Fragments of Libyan Myths by Agroetas in Ancient Greek",
+    "meta_description": "Surviving fragments of Agroetas on Libyan myths and genealogical traditions.  Read Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Libyan Myths and Genealogies</strong> is a lost prose mythography attributed to the otherwise unknown author Agroetas. Its title indicates a systematic compilation of the mythological and genealogical traditions of North Africa, known to the Greeks as Libya. The work survives only as a title and through a handful of later citations, which provide glimpses into its content. These fragments suggest it contained narratives on Libyan heroes and divine figures, such as the story of Amphithemis and the Nymphs, and offered alternative versions of pan-Mediterranean myths, including an account of the golden apples of the Hesperides, which Agroetas rationalized as a flock of superlative sheep guarded by a herdsman called a dragon. The work also detailed genealogies that connected legendary founders to historical Libyan tribes like the Garamantes. It is known from an entry in the 10th-century Byzantine encyclopedia, the Suda, and was cited by early Christian scholars such as Eusebius of Caesarea in his apologetic writings. Its use by Eusebius demonstrates its value as a source for pagan mythology engaged by early Christian scholarship, and it stands as an example of the Hellenistic and Roman tradition of systematizing regional, non-Greek lore for a learned audience.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-5",
+      "text": "ΛΙΒΥΚΑ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "t1-2",
+      "text": "E LIBRO PRIMO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Herodianus Π. μον. λέξ.: Ἀγροίτας αʹ Λιβυκῶν· «Ἀνδρωθέντα δὲ τὸν Ἀμφίθεμιν πλησιάσαι ταῖς Νύμφαις καὶ γεννῆσαι παῖδα μυρμαδάναρ· αὐδα κήνας· βυγάνμα· καλομάκαν ψῦλλον, ἀφ’ οὗ ψῦλλοι τὸ ἔθνος.» Schol. Apoll. Rh. II, 498: Ἀγροίτας δὲ ἐν πρώτῳ Λιβυκῶν, ὑπὸ Ἀπόλλωνος εἰς Κρήτην αὐτὴν (τὴν Κυρήνην) κομισθῆναι, ἐκεῖθεν δὲ εἰς Λιβύην. Ἀδελφὴ δὲ Κυρήνης Λάρισσα· ἧς ὁμώνυμος πόλις ἐν Θεσσαλίᾳ. Τινὲς δέ φασι τὴν Κυρήνην Πηνειοῦ θυγατέρα γενέσθαι, κακῶς. Ἔνεμεν γὰρ παρ’ αὐτῷ θρέμματα, οὐκ ἔτι δὲ καὶ θυγάτηρ αὐτοῦ ἦν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.(t)",
+      "text": "E LIBRO TERTIO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.(t)",
+      "text": "Idem IV, 1396: Τὸν δράκοντα Λάδωνα ἐκάλουν. Τοῦτον δὲ Πείσανδρος ὑπείληφεν ἀπὸ τῆς γῆς γεγενῆσθαι. Ἡσίοδος δὲ ἐκ Τυφῶνός φησιν. Ἀγροίτας δὲ ἐν γʹ Λιβυκῶν φησὶ, μὴ μῆλα εἶναι, ἀλλὰ πρόβατα κάλ λιστα, ἃ χρυσᾶ ὠνομάσθη· ἔχειν δὲ ταῦτα ποιμένα ἄγριον, ὃν διὰ τὸ ἀνήμερον δράκοντα ὠνομάσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Idem IV, 1492: Τὸν δὲ Ἀκακαλλίδος υἱὸν Ἀμφίθεμιν καὶ Γαράμαντά φησι κληθῆναι (sc. Alexander Polyh.). Οἱ μὲν οὖν ἀπ’ αὐτοῦ τὸ ἔθνος τοὺς Γαράμαντας καλεῖσθαί φασιν· οἰκοῦσι δὲ οὗτοι τὴν Λιβύην· οἱ δὲ ἀπὸ τοῦ ἔθνους αὐτόν. Εὐσεβεῖς δὲ οἱ Γαράμαντες, καὶ ναοὶ ἐν αὐτοῖς ἵδρυνται, ὡς ἄλλοι τε καὶ Ἀγροίτας ἱστορεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "Steph. Byz.: Ἄμπελος πόλις τῆς Λιγυστικῆς ... Ἔστι καὶ ἄκρα Τορωναίων Ἄμπελος λεγομένη. Ἔστι καὶ ἑτέρα ἄκρα τῆς Σάμου, καὶ ἄλλη ἐν Κυρήνῃ· Ἀγροίτας δὲ δύο πόλεις εἶναί φησι, τὴν μὲν ἄνω, τὴν δὲ κάτω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "t6",
+      "text": "ΣΚΥΘΙΚΑ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6.(t)",
+      "text": "E LIBRO XIII.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6.(t)",
+      "text": "Schol. Apoll. Rh. II, 1248: Ἀγροίτας δὲ ἐν τρισκαιδεκάτῃ (ἐν τῇ γʹ?) τῶν Σκυθικῶν δαπανᾶσθαί φησι τὸ ἧπαρ Προμηθέως δόξαι ὑπὸ τοῦ ἀετοῦ, διὰ τὸ τὴν κρατίστην τοῦ Προμηθέως χώραν τὸν ποταμὸν τὸν καλούμενον Ἀετὸν φθείρειν. Ἧπαρ δὲ παρὰ πολλοῖς, ὥσπερ καὶ οὖθαρ, τὴν εὔκαρπον λέγεσθαι γῆν. Ἡρακλέους δὲ ἐξοχετεύσαντος διόρυξι τὸν ποταμὸν, τόν τε ἀετὸν δόξαι ὑπ’ αὐτοῦ κεχωρίσθαι, καὶ τὸν Προμη θέα λελύσθαι τῶν δεσμῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "fri-ab",
+      "title": {
+        "english": "Egyptian Histories Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "lysimachus-the-historian-egyptian-histories-fri-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysimachus-the-historian/egyptian-histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysimachus-the-historian-egyptian-histories-fri-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysimachus-the-historian-egyptian-histories-fri-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysimachus-the-historian-egyptian-histories-fri-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysimachus-the-historian-egyptian-histories-fri-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysimachus-the-historian/egyptian-histories.epub"
+      }
+    },
+    {
+      "eul_wid": "hus-aa",
+      "title": {
+        "english": "Fragments on Scythian Geography",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Σκυθικῆς Γεωγραφίας"
+      },
+      "url_slug": "timonax-scythian-geography-hus-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/timonax/scythian-geography",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timonax-scythian-geography-hus-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timonax-scythian-geography-hus-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timonax-scythian-geography-hus-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timonax-scythian-geography-hus-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timonax/scythian-geography.epub"
+      }
+    },
+    {
+      "eul_wid": "saw-aa",
+      "title": {
+        "english": "Fragments on Sicilian Cities",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σικελικῶν Πόλεων"
+      },
+      "url_slug": "andreas-the-historian-sicilian-cities-saw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/andreas-the-historian/sicilian-cities",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andreas-the-historian-sicilian-cities-saw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andreas-the-historian-sicilian-cities-saw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andreas-the-historian-sicilian-cities-saw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andreas-the-historian-sicilian-cities-saw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andreas-the-historian/sicilian-cities.epub"
+      }
+    },
+    {
+      "eul_wid": "fhi-ac",
+      "title": {
+        "english": "Historical and Rhetorical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "anaximenes-of-lampsacus-historical-rhetorical-fhi-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/anaximenes-of-lampsacus/historical-rhetorical",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-lampsacus-historical-rhetorical-fhi-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-lampsacus-historical-rhetorical-fhi-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-lampsacus-historical-rhetorical-fhi-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-lampsacus-historical-rhetorical-fhi-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-lampsacus/historical-rhetorical.epub"
+      }
+    },
+    {
+      "eul_wid": "iuw-aa",
+      "title": {
+        "english": "On Heraclea Pontica",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "nymphis-of-heraclea-pontica-pontica-iuw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/nymphis-of-heraclea-pontica/pontica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphis-of-heraclea-pontica-pontica-iuw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphis-of-heraclea-pontica-pontica-iuw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphis-of-heraclea-pontica-pontica-iuw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphis-of-heraclea-pontica-pontica-iuw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphis-of-heraclea-pontica/pontica.epub"
+      }
+    },
+    {
+      "eul_wid": "ezq-ah",
+      "title": {
+        "english": "On Hunting",
+        "ancient_greek": "Κυνηγετικός"
+      },
+      "url_slug": "xenophon-of-athens-hunting-ezq-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/hunting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-hunting-ezq-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-hunting-ezq-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-hunting-ezq-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-hunting-ezq-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hunting.epub"
+      }
+    },
+    {
+      "eul_wid": "eug-aa",
+      "title": {
+        "english": "On the Delphic Oracle and Offerings",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "anaxandridas-the-historian-delphic-oracle-eug-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anaxandridas-the-historian/delphic-oracle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandridas-the-historian-delphic-oracle-eug-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandridas-the-historian-delphic-oracle-eug-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandridas-the-historian-delphic-oracle-eug-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandridas-the-historian-delphic-oracle-eug-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandridas-the-historian/delphic-oracle.epub"
+      }
+    },
+    {
+      "eul_wid": "vhw-ab",
+      "title": {
+        "english": "On the Months",
+        "ancient_greek": "Περὶ Μηνῶν"
+      },
+      "url_slug": "john-the-lydian-months-vhw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-the-lydian/months",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-the-lydian-months-vhw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-the-lydian-months-vhw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-the-lydian-months-vhw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-the-lydian-months-vhw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-the-lydian/months.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/agroetas/libyan-myths",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agroetas-libyan-myths-kbe-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agroetas-libyan-myths-kbe-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agroetas-libyan-myths-kbe-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agroetas-libyan-myths-kbe-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agroetas/libyan-myths.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

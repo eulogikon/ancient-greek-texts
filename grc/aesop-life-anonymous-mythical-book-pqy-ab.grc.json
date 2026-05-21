@@ -1,0 +1,270 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "pqy-ab",
+  "eul_aid": "pqy",
+  "author_slug": "aesop-life-anonymous",
+  "work_slug": "mythical-book",
+  "url_slug": "aesop-life-anonymous-mythical-book-pqy-ab",
+  "author": {
+    "english": "Aesop Life-anonymous",
+    "ancient_greek": "Αἰσώπου Βίος-ἀνώνυμος"
+  },
+  "title": {
+    "english": "Aesop's Mythical Book",
+    "ancient_greek": "Βιβλίον μυθικὸν τοῦ Αἰσώπου"
+  },
+  "seo": {
+    "browser_title": "Aesop's Mythical Book by Aesop Life-anonymous on Eulogikon",
+    "meta_title": "Aesop's Mythical Book by Aesop Life-anonymous in Greek",
+    "meta_description": "Aesop's Mythical Book presents moral fables using animals to illustrate human nature and conduct. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Μυθιστορία",
+      "english": "Fiction",
+      "href": "/domains/fiction"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The anonymous work commonly referred to as &quot;Aesop&#x27;s Mythical Book&quot; is not a separate collection of fables but rather a description that corresponds to episodes from the fictional biography known as the <strong>Life of Aesop</strong>. This popular narrative, likely composed during the Roman imperial period in the 1st or 2nd century CE, blends an episodic story of the fabulist&#x27;s life with the telling of his fables. It portrays Aesop as a Phrygian slave, physically grotesque but endowed with divine wisdom, who uses clever fables featuring animals to critique human behavior and social structures. The biography emphasizes the triumph of intelligence over brute force and social rank, offering a sharp critique of social injustice, elite hypocrisy, and institutional corruption, notably that of the Delphic oracle. Within the narrative, the fable itself is presented as a potent rhetorical tool, allowing the powerless to voice dissent and challenge authority.</p>\n<p class=\"research-text\">The transmission of the Aesopic tradition was inherently fluid, with early prose collections now lost. The anonymous <strong>Life</strong> survives primarily in two major manuscript recensions: a longer version dating from the 10th or 11th century and a shorter compilation made by the Byzantine scholar Maximus Planudes. This fictional biography was instrumental in cementing the enduring image of Aesop as a cultural icon of cunning and moral wisdom. The broader fable tradition, transmitted and adapted by authors such as Phaedrus and Babrius, has exerted a profound and lasting influence on Western literature, rhetoric, and moral education.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "309 (2t)",
+      "text": "Βιβλίον μυθικὸν τοῦ Αἰσώπου, εἰκονίζον ἀπὸ τῶν ἀλόγων ζώων πρὸς τὰς τῆς ἀνθρωπίνης φύσεως πράξεις. Αἴσωπος ὁ μυθοποιὸς Φρὺξ μὲν ἦν τὸ γένος, τῇ τύχῃ δὲ δοῦλος, μέλας ὑπάρχων καὶ κακοειδὴς εἰς ὑπερβολὴν σφόδρα. τὰ δὲ περὶ αὐτοῦ σαφῶς εἰς τὸ τέλος εὑρήσεις τοῦ βιβλίου. οὗτος ὑπὸ ἀγαθοποιίας εὐπορήσας, ἐχαρίσατο αὐτῷ ἡ τύχη λόγον σοφίας, καὶ γέγονε τῷ νοῒ ἐπιτήδειος. ποικίλους γὰρ μύθους πρὸς συνοπτικὴν παιδείαν καὶ νουθεσίαν ὠφελίμους καὶ νουθετικοὺς συνταξάμενος, εἰσενήνοχεν εἰς τὸν βίον, προπλέξας ἀλόγων ζώων κοινωνίαν ἀνθρώποις, ἤθη ἀθέμιτα καὶ ἔργα καὶ τρόπους ποικίλους προσεικάσας, ἐν τοῖς μύθοις ἐδήλωσεν, ὅθεν τοῖς πολιτευομένοις εἰς τὰς περὶ τοὺς ἀγῶνας φιλοτιμίας εὐπορία λόγων αὔξεται· τῶν γὰρ λεόντων καὶ τῶν ἐλάφων καὶ τῶν ἄλλων θηρίων τῆς θαυμασιότητος πρὸ ὀφθαλμῶν τιθεμένης, ψυχαγωγεῖν οἶδε τοὺς ἀκούοντας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "310",
+      "text": "εὑρίσκομεν δὲ παραπλησίως αὐτοῦ τὰς διηγήσεις ἐν ταῖς τῶν ποιημάτων γνωμολογίαις περιπεφρασμένας καὶ προσομοιοῦν ταύτας· ἔτι καὶ θέας τὰ ἐν ἑκάστῳ μύθῳ λεγόμενα, ἄπερ εἰσὶ ταῦτα.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "pqy-ad",
+      "title": {
+        "english": "Life G",
+        "ancient_greek": "Βίος Γ"
+      },
+      "url_slug": "aesop-life-anonymous-life-g-pqy-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop-life-anonymous/life-g",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous-life-g-pqy-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous-life-g-pqy-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous-life-g-pqy-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous-life-g-pqy-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous/life-g.epub"
+      }
+    },
+    {
+      "eul_wid": "pqy-ae",
+      "title": {
+        "english": "Life W",
+        "ancient_greek": "Βίος"
+      },
+      "url_slug": "aesop-life-anonymous-life-w-pqy-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop-life-anonymous/life-w",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous-life-w-pqy-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous-life-w-pqy-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous-life-w-pqy-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous-life-w-pqy-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous/life-w.epub"
+      }
+    },
+    {
+      "eul_wid": "pqy-ac",
+      "title": {
+        "english": "Life of Aesop",
+        "ancient_greek": "Βίος Αἰσώπου"
+      },
+      "url_slug": "aesop-life-anonymous-life-ac-pqy-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop-life-anonymous/life-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous-life-ac-pqy-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous-life-ac-pqy-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous-life-ac-pqy-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous-life-ac-pqy-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous/life-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "pqy-aa",
+      "title": {
+        "english": "Life of Aesop Pl or Accursiana",
+        "ancient_greek": "Βίος Αἰσώπου Πλ ἢ Ἀκκουρσιανός"
+      },
+      "url_slug": "aesop-life-anonymous-life-aa-pqy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop-life-anonymous/life-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous-life-aa-pqy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous-life-aa-pqy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous-life-aa-pqy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous-life-aa-pqy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous/life-aa.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "skw-ab",
+      "title": {
+        "english": "Antheia, Possibly Epitome of Ephesiaca",
+        "ancient_greek": "Ἄνθεια"
+      },
+      "url_slug": "anonymous-erotic-narrative-antheia-ephesiaca-skw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-erotic-narrative/antheia-ephesiaca",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-antheia-ephesiaca-skw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-antheia-ephesiaca-skw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-antheia-ephesiaca-skw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-antheia-ephesiaca-skw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/antheia-ephesiaca.epub"
+      }
+    },
+    {
+      "eul_wid": "rey-aa",
+      "title": {
+        "english": "Collection of Metamorphoses",
+        "ancient_greek": "Συναγωγὴ Μεταμορφώσεων"
+      },
+      "url_slug": "antoninus-the-mythographer-metamorphoses-rey-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/antoninus-the-mythographer/metamorphoses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antoninus-the-mythographer-metamorphoses-rey-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antoninus-the-mythographer-metamorphoses-rey-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antoninus-the-mythographer-metamorphoses-rey-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antoninus-the-mythographer-metamorphoses-rey-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antoninus-the-mythographer/metamorphoses.epub"
+      }
+    },
+    {
+      "eul_wid": "sru-ab",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "heliodorus-of-emesa-epigrams-sru-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/heliodorus-of-emesa/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-of-emesa-epigrams-sru-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-of-emesa-epigrams-sru-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-of-emesa-epigrams-sru-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-of-emesa-epigrams-sru-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-of-emesa/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "aqo-ai",
+      "title": {
+        "english": "Fable of Nicephorus",
+        "ancient_greek": "Μῦθος Νικηφόρου"
+      },
+      "url_slug": "aesop-nicephorus-fable-aqo-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/nicephorus-fable",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-nicephorus-fable-aqo-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-nicephorus-fable-aqo-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-nicephorus-fable-aqo-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-nicephorus-fable-aqo-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/nicephorus-fable.epub"
+      }
+    },
+    {
+      "eul_wid": "skw-aa",
+      "title": {
+        "english": "Fragments Possibly Part of Chione or Ninus",
+        "ancient_greek": "Ἀποσπάσματα Ἴσως Μέρος Χιόνης ἢ Νίνου"
+      },
+      "url_slug": "anonymous-erotic-narrative-chione-ninus-skw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-erotic-narrative/chione-ninus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-chione-ninus-skw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-chione-ninus-skw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-chione-ninus-skw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-chione-ninus-skw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/chione-ninus.epub"
+      }
+    },
+    {
+      "eul_wid": "skw-an",
+      "title": {
+        "english": "Fragments on the Nile and Canopus",
+        "ancient_greek": "Ἀποσπάσματα περὶ Νείλου καὶ Κανώπου"
+      },
+      "url_slug": "anonymous-erotic-narrative-nile-canopus-skw-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-erotic-narrative/nile-canopus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-nile-canopus-skw-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-nile-canopus-skw-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-nile-canopus-skw-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-nile-canopus-skw-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/nile-canopus.epub"
+      }
+    },
+    {
+      "eul_wid": "qhw-ac",
+      "title": {
+        "english": "On Incredible Things (Fragment B)",
+        "ancient_greek": "Περὶ Ἀπίστων"
+      },
+      "url_slug": "antonius-diogenes-incredible-things-ac-qhw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/antonius-diogenes/incredible-things-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antonius-diogenes-incredible-things-ac-qhw-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antonius-diogenes-incredible-things-ac-qhw-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antonius-diogenes-incredible-things-ac-qhw-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antonius-diogenes-incredible-things-ac-qhw-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antonius-diogenes/incredible-things-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "rnk-aa",
+      "title": {
+        "english": "Story of Anthia and Habrocomes",
+        "ancient_greek": "Τὰ κατὰ Ἀνθίαν καὶ Ἁβροκόμην"
+      },
+      "url_slug": "xenophon-of-ephesus-story-of-anthia-and-habrocomes-rnk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-ephesus/story-of-anthia-and-habrocomes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-ephesus-story-of-anthia-and-habrocomes-rnk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-ephesus-story-of-anthia-and-habrocomes-rnk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-ephesus-story-of-anthia-and-habrocomes-rnk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-ephesus-story-of-anthia-and-habrocomes-rnk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-ephesus/story-of-anthia-and-habrocomes.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aesop-life-anonymous/mythical-book",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous-mythical-book-pqy-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous-mythical-book-pqy-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous-mythical-book-pqy-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous-mythical-book-pqy-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous/mythical-book.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

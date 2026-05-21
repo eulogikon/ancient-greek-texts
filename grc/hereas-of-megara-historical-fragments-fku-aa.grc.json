@@ -1,0 +1,226 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "fku-aa",
+  "eul_aid": "fku",
+  "author_slug": "hereas-of-megara",
+  "work_slug": "historical-fragments",
+  "url_slug": "hereas-of-megara-historical-fragments-fku-aa",
+  "author": {
+    "english": "Hereas of Megara",
+    "ancient_greek": "Ἡρέας ὁ Μεγαρεύς"
+  },
+  "title": {
+    "english": "Megarian Historical Fragments",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Fragments of Megarian History by Hereas on Eulogikon",
+    "meta_title": "Megarian Historical Fragments by Hereas in Ancient Greek",
+    "meta_description": "Surviving fragments of local history by Hereas of Megara. Source for Megarian traditions. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Megarian Historical Fragments</strong>, attributed to the historian Hereas of Megara, is a lost work of local history surviving only through a handful of prose excerpts preserved by later authors. These fragments, primarily quoted by Plutarch and Athenaeus, concern Megarian foundation myths, early kings, local customs, and notable figures. The content often engages in historical polemics, contesting Athenian narratives that sought to diminish Megara&#x27;s heritage and antiquity. For instance, one fragment cited by Plutarch disputes Athenian accounts of Theseus and Ariadne, while another corrects Athenian claims about Megarian burial practices. The work survives exclusively through such indirect citation, with no independent manuscript tradition, and its fragments are collected in modern scholarship as <strong>Fragmente der griechischen Historiker</strong> 486. As an example of Greek horography, or local history, Hereas&#x27;s composition was written to assert Megara&#x27;s prestige and historical legitimacy against the rival claims of more powerful neighbors, particularly Athens. Its preservation within the works of authors like Plutarch attests to its contemporary reputation as a reputable, if partisan, source, providing valuable alternative perspectives on regional traditions and the intellectual rivalries between ancient Greek city-states.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-4",
+      "text": "ΜΕΓΑΡΙΚΑ Plutarch.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Thes. c. 20: Οἱ δὲ εἰς Νάξον ὑπὸ ναυτῶν κομισθεῖσαν (Ἀριάδνην) Οἰνάρῳ τῷ ἱερεῖ τοῦ Διονύσου συνοικεῖν, ἀπολειφθῆναι δὲ τοῦ Θησέως ἐρῶντος ἑτέρας· Δεινὸς γάρ μιν ἔτειρεν ἔρως Πανοπηΐδος Αἴγλης. Τοῦτο γὰρ τὸ ἔπος ἐκ τῶν Ἡσιόδου Πεισίστρατον ἐξελεῖν φησιν Ἡρέας ὁ Μεγαρεύς· ὥσπερ αὖ πάλιν ἐμβαλεῖν εἰς τὴν Ὁμήρου νεκυίαν τὸ Θησέα, Πειρίθοόν τε, θεῶν ἀριδείκετα τέκνα, χαριζόμενον Ἀθηναίοις. Idem Solon.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "c. 10: Ἔτι δὲ μᾶλλον ἐξελέγξαι τοὺς Μεγαρέας βουλόμενον (Σόλωνά φασι) ἰσχυρίσασθαι περὶ τῶν νεκρῶν, ὡς οὐχ ὃν τρόπον ἐκεῖνοι θάπτουσι κεκηδευμένων, ἀλλ’ ὃν αὐτοί. Θάπτουσι δὲ Μεγαρεῖς πρὸς ἕω τοὺς νεκροὺς στρέφοντες, Ἀθηναῖοι δὲ πρὸς ἑσπέραν. Ἡρέας δὲ ὁ Μεγαρεὺς ἐνιστάμενος λέγει καὶ Μεγαρεῖς πρὸς ἑσπέραν τετραμμένα τὰ σώματα τῶν νεκρῶν τιθέναι· καὶ μεῖζον ἔτι τούτου, μίαν ἕκαστον Ἀθηναίων ἔχειν θήκην, Μεγαρέων δὲ καὶ τρεῖς καὶ τέσσαρας ἐν μιᾷ κεῖσθαι. Idem ib.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "c. 32: Ἐλθόντες οὖν ἐπὶ τὰς Ἀφίδνας καὶ μάχῃ κρατήσαντες ἐξεῖλον τὸ χωρίον. Ἐνταῦθά φασι καὶ Ἄλυκον πεσεῖν τὸν Σκείρωνος υἱὸν συστρατευόμενον τότε τοῖς Διοσκούροις· ἀφ’ οὗ καὶ τόπον τῆς Μεγαρικῆς Ἄλυκον καλεῖσθαι τοῦ σώματος ἐνταφέντος. Ἡρέας δ’ ὑπὸ Θησέως αὐτοῦ περὶ Ἀφίδνας ἀποθανεῖν τὸν Ἄλυκον ἱστόρηκε· καὶ μαρτύρια ταυτὶ τὰ ἔπη παρέχεται περὶ τοῦ Ἀλύκου· .... τὸν ἐν εὐρυχόρῳ ποτ’ Ἀφίδνῃ μαρνάμενον Θησεὺς Ἑλένης ἕνεκ’ ἠϋκόμοιο κτεῖνεν. Οὐ μὴν εἰκὸς Θησέως παρόντος ἁλῶναι τήν τε μητέρα καὶ τὰς Ἀφίδνας. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Apoll. Rhod. I, 212: Ἡσαγόρας δὲ ἐν τοῖς Μεγαρικοῖς τὸν τὴν Ὠρείθυιαν ἁρπάσαντα Βορέαν υἱὸν Στρυμόνος φησὶν, οὐχὶ δὲ τὸν ἀνεψιόν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "duc-aa",
+      "title": {
+        "english": "Arcadian Antiquities and Myths",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aristippus-of-cyrene-antiquities-myths-duc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristippus-of-cyrene/antiquities-myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristippus-of-cyrene-antiquities-myths-duc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristippus-of-cyrene-antiquities-myths-duc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristippus-of-cyrene-antiquities-myths-duc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristippus-of-cyrene-antiquities-myths-duc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristippus-of-cyrene/antiquities-myths.epub"
+      }
+    },
+    {
+      "eul_wid": "clw-aa",
+      "title": {
+        "english": "Fragments on Athenian History",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἀθηναίων Ἱστορίας"
+      },
+      "url_slug": "demon-of-athens-fragments-history-clw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/demon-of-athens/fragments-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demon-of-athens-fragments-history-clw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demon-of-athens-fragments-history-clw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demon-of-athens-fragments-history-clw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demon-of-athens-fragments-history-clw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demon-of-athens/fragments-history.epub"
+      }
+    },
+    {
+      "eul_wid": "kuk-aa",
+      "title": {
+        "english": "Fragments on Cretan Customs",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κρητικῶν Ἐθῶν"
+      },
+      "url_slug": "sosicrates-of-rhodes-cretan-customs-kuk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sosicrates-of-rhodes/cretan-customs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosicrates-of-rhodes-cretan-customs-kuk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosicrates-of-rhodes-cretan-customs-kuk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosicrates-of-rhodes-cretan-customs-kuk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosicrates-of-rhodes-cretan-customs-kuk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosicrates-of-rhodes/cretan-customs.epub"
+      }
+    },
+    {
+      "eul_wid": "gfy-aa",
+      "title": {
+        "english": "Fragments on Iberian Myths",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ἰβηρικῶν Μύθων"
+      },
+      "url_slug": "sosthenes-of-cnidus-iberian-myths-gfy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sosthenes-of-cnidus/iberian-myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosthenes-of-cnidus-iberian-myths-gfy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosthenes-of-cnidus-iberian-myths-gfy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosthenes-of-cnidus-iberian-myths-gfy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosthenes-of-cnidus-iberian-myths-gfy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosthenes-of-cnidus/iberian-myths.epub"
+      }
+    },
+    {
+      "eul_wid": "sos-aa",
+      "title": {
+        "english": "Historical Fragments",
+        "ancient_greek": "Ἱστορικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "eunapius-of-sardis-historical-fragments-sos-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/eunapius-of-sardis/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eunapius-of-sardis-historical-fragments-sos-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eunapius-of-sardis-historical-fragments-sos-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eunapius-of-sardis-historical-fragments-sos-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eunapius-of-sardis-historical-fragments-sos-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eunapius-of-sardis/historical-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "lju-ab",
+      "title": {
+        "english": "Historical Fragments of Duris",
+        "ancient_greek": "Ἀποσπάσματα Δούριδος"
+      },
+      "url_slug": "duris-of-samos-historical-fragments-lju-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/duris-of-samos/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/duris-of-samos-historical-fragments-lju-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/duris-of-samos-historical-fragments-lju-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/duris-of-samos-historical-fragments-lju-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/duris-of-samos-historical-fragments-lju-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/duris-of-samos/historical-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "pdc-ao",
+      "title": {
+        "english": "Iberian",
+        "ancient_greek": "Ιβηρική"
+      },
+      "url_slug": "appian-of-alexandria-iberian-pdc-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/iberian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-iberian-pdc-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-iberian-pdc-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-iberian-pdc-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-iberian-pdc-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/iberian.epub"
+      }
+    },
+    {
+      "eul_wid": "lcm-ab",
+      "title": {
+        "english": "On the Gods",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "apollodorus-of-athens-gods-lcm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollodorus-of-athens/gods",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-athens-gods-lcm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-athens-gods-lcm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-athens-gods-lcm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-athens-gods-lcm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-athens/gods.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hereas-of-megara/historical-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hereas-of-megara-historical-fragments-fku-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hereas-of-megara-historical-fragments-fku-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hereas-of-megara-historical-fragments-fku-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hereas-of-megara-historical-fragments-fku-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hereas-of-megara/historical-fragments.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

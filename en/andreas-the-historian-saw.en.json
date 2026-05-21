@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "saw",
+  "auth_slug": "andreas-the-historian",
+  "name": {
+    "english": "Andreas the Historian",
+    "ancient_greek": "Ἀνδρέας ὁ ἱστορικός"
+  },
+  "seo_h1": "Andreas the Historian on the Cities of Sicily",
+  "seo": {
+    "browser_title": "Andreas the Historian on Eulogikon Greek Texts Archive",
+    "meta_title": "Andreas the Historian Ancient Greek Historical Works",
+    "meta_description": "Andreas the Historian was a late antique Greek historian. His surviving historical works are preserved as fragments. Free to download from the Greek library."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Andreas the Historian is a figure of Late Antiquity known only from fragmentary references, with no surviving biographical details. He is believed to have lived sometime between the 4th and 6th century CE. The sole testimony about him comes from the 9th-century Byzantine scholar Photius, who notes in his Bibliotheca that he read a historical work by Andreas. Photius criticized this work harshly, describing it as utterly worthless and a farrago of nonsense.</p>\n<p class=\"research-text\">His only known work is a History, which is now lost. Based on Photius&#x27;s summary, it was a prose composition, though its precise scope or subject matter remains unspecified.</p>\n<p class=\"research-text\">Andreas exemplifies the many minor historians whose works survive only as brief notices in later compilations. His primary significance lies in his reception; Photius&#x27;s severe judgment offers insight into 9th-century Byzantine scholarly standards and historiographical taste. Andreas represents those authors preserved chiefly as examples of what to avoid, underscoring the fragmentary and selective nature of our knowledge of late antique historical writing.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "saw-aa",
+      "title": {
+        "english": "Fragments on Sicilian Cities",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σικελικῶν Πόλεων"
+      },
+      "url_slug": "andreas-the-historian-sicilian-cities-saw-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/andreas-the-historian/sicilian-cities",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andreas-the-historian-sicilian-cities-saw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andreas-the-historian-sicilian-cities-saw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andreas-the-historian-sicilian-cities-saw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andreas-the-historian-sicilian-cities-saw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andreas-the-historian/sicilian-cities.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/andreas-the-historian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/andreas-the-historian-saw.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/andreas-the-historian-saw.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/andreas-the-historian-saw.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/andreas-the-historian-saw.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

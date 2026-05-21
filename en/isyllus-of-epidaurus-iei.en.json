@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "iei",
+  "auth_slug": "isyllus-of-epidaurus",
+  "name": {
+    "english": "Isyllus of Epidaurus",
+    "ancient_greek": "Ἴσυλλος ὁ Ἐπιδαύριος"
+  },
+  "seo_h1": "Isyllus of Epidaurus and the Asclepius Inscription",
+  "seo": {
+    "browser_title": "Isyllus of Epidaurus on Eulogikon Greek Text Archive",
+    "meta_title": "Classical Isyllus of Epidaurus Ancient Greek Poetry Works",
+    "meta_description": "Isyllus of Epidaurus, a Hellenistic poet in Doric dialect. Surviving poetic works from the 4th–3rd century BCE. Free to download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Isyllus of Epidaurus was a citizen of Epidaurus active in the late 4th century BCE. His life is known from a lengthy inscription he commissioned at the sanctuary of Asclepius, which mentions a Delphic oracle consultation dated to either 331/0 or 327/6 BCE. The inscription reveals him as a local figure of standing who used his influence to shape Epidaurus&#x27;s religious and political life.</p>\n<p class=\"research-text\">His sole surviving work is a Sacral Law and Hymns inscription from Epidaurus. This extant stone preserves two poetic compositions: a paean to Asclepius and a hymn to Apollo and Asclepius, framed by prose narratives detailing their context and the sacred law he proposed.</p>\n<p class=\"research-text\">Isyllus is significant as an epigraphic source for Hellenistic Epidaurus, illustrating how local elites used Panhellenic sanctuaries like Delphi to legitimize civic reforms. His hymns are valuable examples of late classical Doric cult poetry, and their content reflects the political use of myth to assert territorial claims in the Peloponnese after the rise of Macedon.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "iei-aa",
+      "title": {
+        "english": "Fragments IG 4.950",
+        "ancient_greek": "Ἀποσπάσματα IG 4.950"
+      },
+      "url_slug": "isyllus-of-epidaurus-fragments-ig-4-950-iei-aa",
+      "passages": 81,
+      "links": {
+        "html": "https://eulogikon.org/grc/isyllus-of-epidaurus/fragments-ig-4-950",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isyllus-of-epidaurus-fragments-ig-4-950-iei-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isyllus-of-epidaurus-fragments-ig-4-950-iei-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isyllus-of-epidaurus-fragments-ig-4-950-iei-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isyllus-of-epidaurus-fragments-ig-4-950-iei-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isyllus-of-epidaurus/fragments-ig-4-950.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/isyllus-of-epidaurus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/isyllus-of-epidaurus-iei.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/isyllus-of-epidaurus-iei.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/isyllus-of-epidaurus-iei.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/isyllus-of-epidaurus-iei.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

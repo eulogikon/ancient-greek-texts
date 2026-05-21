@@ -1,0 +1,439 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ljk-ai",
+  "eul_aid": "ljk",
+  "author_slug": "theophrastus-of-eresus",
+  "work_slug": "faintheartedness",
+  "url_slug": "theophrastus-of-eresus-faintheartedness-ljk-ai",
+  "author": {
+    "english": "Theophrastus of Eresus",
+    "ancient_greek": "Θεόφραστος ὁ Ἐρέσιος"
+  },
+  "title": {
+    "english": "On Faintheartedness",
+    "ancient_greek": "Περὶ Δειλίας"
+  },
+  "seo": {
+    "browser_title": "On Faintheartedness by Theophrastus on Eulogikon Archive",
+    "meta_title": "On Faintheartedness by Theophrastus in Ancient Greek",
+    "meta_description": "A treatise on cowardice by Aristotle's successor Theophrastus. A Peripatetic character study. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Φιλοσοφική Ἀττική",
+      "english": "Attic Philosophical",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Peripatetic",
+      "href": "/affiliations/peripatetic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On Faintheartedness</strong> is a short ethical treatise by Theophrastus of Eresus, the successor to Aristotle as head of the Peripatetic school. Written in Attic Greek, the work presents a character sketch focused on the vice of cowardice. It eschews abstract theoretical discussion in favor of concrete, observational vignettes that describe the typical behaviors, thoughts, and situations of a fainthearted individual. This empirical approach to delineating character is consistent with Theophrastus&#x27;s broader methodological tendencies. The treatise is fragmentary, surviving only through seven passages likely preserved by later authors. It forms part of a larger Theophrastean project to catalog human character types and expands upon Aristotelian ethical concepts, particularly the analysis of courage as a mean between extremes. Modern scholarship interprets the work as a practical study for philosophical students, demonstrating how moral character is revealed through patterns of habitual action and irrational fear. Its descriptive, behavioral method is considered a significant influence on later Hellenistic and Roman moral writing.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1.1",
+      "text": "Ὅτι ἡ λειποψυχία στέρησις ἢ κατάψυξις τοῦ θερμοῦ περὶ τὸν ἀναπνευστικὸν τόπον· τοῦτο δὲ συμβαίνει ἢ ὑπὸ τοῦ ψυχροῦ ἢ καὶ ὑπʼ αὐτοῦ τοῦ θερμοῦ τὸ γὰρ πλέον πῦρ ἀναιρεῖ τὸ ἔλαττον· μαρτυρεῖ δὲ καὶ ἡ πεῖρα· ὑπὸ γὰρ πνίγους ἢ ἄλλης θέρμης καὶ μάλιστα πολλῆς, ἀθρόον τούτων προσπεσόντων ἡμῖν ἐκλυόμεθα καὶ λειποθυμοῦμεν· καταμαραίνεται γὰρ τὸ ἐν ἡμῖν θερμὸν κατάψυξιν οὐ λαμβάνον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.2",
+      "text": "Τάχα δὲ καὶ τὴν ἀναπνοὴν ὅλως τὸ πνῖγος κωλύει, ὅθεν καὶ πνῖγος ὠνομάσθη· πνίγεται γὰρ ἢ καὶ πνιγομένῳ ὅμοιός ἐστιν ὁ μὴ δυνάμενος ἀναπνεῖν. Παρτυρεῖ δὲ καὶ ἡ διὰ τῶν λουτρῶν καὶ πυριάσεων ἔκλυσις· δῆλον γὰρ ὡς αἱ τοιαῦται ἐκλύσεις τῷ θερμῷ καὶ διὰ τὸ θερμὸν γίνονται μαραίνοντος τοῦ ἔξωθεν θερμοῦ τὸ ἐν ἡμῖν σύμφυτον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.3",
+      "text": "Γίνεται δὲ λειποψυχία καὶ τῶν ἐν οἷς πέφυκεν ἡ θερμότης ἐκλιπόντων οἷον αἵματος ἢ τῆς φυσικῆς ἁπλῶς ὑγρότητος, ὥσπερ ἐν ταῖς αἱμορραγίαις καὶ ἐν ταῖς τῆς γαστρὸς φοραῖς ὁρῶμεν λειποψυχοῦντας. Καὶ διὰ πόνους δὲ γίνονται ἐκλύσεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.4",
+      "text": "Ὅτι τὸ πλέον θερμὸν λειποψυχίαν ποιεῖ καὶ ὡς μαραῖνον τὸ ἔλαττον καὶ ὡς κωλύον τὴν ἀναπνοὴν καὶ ἔτι ὡς μὴ παραχωροῦν τῇ καταψύξει εἴσοδον. Ὅτι διὰ τοῦτο ὡς ἐπὶ τὸ πολὺ λουόμενοι μὲν οὐ λειποψυχοῦσι παυσάμενοι δὲ μᾶλλον, διότι τὴν ὑγρότητα τὴν γινομένην ἀπὸ τῆς συντήξεως λουομένων μὲν θερμὴν εἶναι συμβαίνει, λουσαμένων δὲ ψύχεσθαι· ψυχρὰ δὲ οὖσα καὶ ἐμπίπτουσα κυρίοις τόποις ποιεῖ λειποψυχίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.5",
+      "text": "Εἰ μὴ ἄρα καὶ ἡ ἄνεσις αὐτὴ τοῦ πνεύματος προεκλύει· διότι καὶ κατέχειν κελεύουσιν ἐν ταῖς λειποψυχίαις τὸ πνεῦμα· κωλύει γὰρ ὁ κατέχων ἐξιέναι τὸ θερμὸν, ὁ δʼ ἀνιεὶς ἐνδίδωσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.6",
+      "text": "Ὅτι ὁ ῥαίνων ὕδατι τοὺς λειποψυχοῦντας συμφράττων καὶ πυκνῶν τοὺς πόρους καὶ συναθροίζων ἐντὸς τὸ θερμὸν, — ἀντιπερίσταται γὰρ, — ὠφελεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.7",
+      "text": "Ὅτι ἡδοναὶ καὶ λύπαι ποιοῦσι λειποψυχίαν· καὶ γὰρ ἀμφότεραι πλῆθος ὑγρότητος ἐπάγουσιν, ἡ μὲν ἡδονὴ τῷ συντήκειν και διαχεῖν, η λύπη δε τῷ πηγνύειν· ὅταν οὖν η ὑγρόχεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ljk-am",
+      "title": {
+        "english": "Characters",
+        "ancient_greek": "Χαρακτῆρες"
+      },
+      "url_slug": "theophrastus-of-eresus-characters-ljk-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/characters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-characters-ljk-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-characters-ljk-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-characters-ljk-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-characters-ljk-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/characters.epub"
+      }
+    },
+    {
+      "eul_wid": "ljk-ag",
+      "title": {
+        "english": "Enquiry into Plants",
+        "ancient_greek": "Περὶ φυτῶν ἱστορία"
+      },
+      "url_slug": "theophrastus-of-eresus-enquiry-plants-ljk-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/enquiry-plants",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-enquiry-plants-ljk-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-enquiry-plants-ljk-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-enquiry-plants-ljk-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-enquiry-plants-ljk-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/enquiry-plants.epub"
+      }
+    },
+    {
+      "eul_wid": "ljk-ab",
+      "title": {
+        "english": "Fragments 13-190",
+        "ancient_greek": "Ἀποσπάσματα διάφορα"
+      },
+      "url_slug": "theophrastus-of-eresus-fragments-ljk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-fragments-ljk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-fragments-ljk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-fragments-ljk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-fragments-ljk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "ljk-af",
+      "title": {
+        "english": "From the Metaphysics",
+        "ancient_greek": "Ἐκ τῶν μετὰ τὰ φυσικά"
+      },
+      "url_slug": "theophrastus-of-eresus-metaphysics-ljk-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/metaphysics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-metaphysics-ljk-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-metaphysics-ljk-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-metaphysics-ljk-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-metaphysics-ljk-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/metaphysics.epub"
+      }
+    },
+    {
+      "eul_wid": "ljk-ah",
+      "title": {
+        "english": "On Causes of Plants",
+        "ancient_greek": "Περὶ φυτῶν αἰτιῶν"
+      },
+      "url_slug": "theophrastus-of-eresus-causes-plants-ah-ljk-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/causes-plants-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-causes-plants-ah-ljk-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-causes-plants-ah-ljk-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-causes-plants-ah-ljk-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-causes-plants-ah-ljk-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/causes-plants-ah.epub"
+      }
+    },
+    {
+      "eul_wid": "ljk-ak",
+      "title": {
+        "english": "On Dizziness",
+        "ancient_greek": "Περὶ τῆς Ἰλιγγιάδος"
+      },
+      "url_slug": "theophrastus-of-eresus-dizziness-ljk-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/dizziness",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-dizziness-ljk-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-dizziness-ljk-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-dizziness-ljk-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-dizziness-ljk-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/dizziness.epub"
+      }
+    },
+    {
+      "eul_wid": "ljk-ac",
+      "title": {
+        "english": "On Electing Magistrates",
+        "ancient_greek": "Περὶ τῆς ἐκλογῆς ἀρχόντων"
+      },
+      "url_slug": "theophrastus-of-eresus-electing-magistrates-ljk-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/electing-magistrates",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-electing-magistrates-ljk-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-electing-magistrates-ljk-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-electing-magistrates-ljk-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-electing-magistrates-ljk-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/electing-magistrates.epub"
+      }
+    },
+    {
+      "eul_wid": "ljk-au",
+      "title": {
+        "english": "On Fire",
+        "ancient_greek": "Περὶ πυρός"
+      },
+      "url_slug": "theophrastus-of-eresus-on-fire-ljk-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/on-fire",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-on-fire-ljk-au.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-on-fire-ljk-au.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-on-fire-ljk-au.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-on-fire-ljk-au.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/on-fire.epub"
+      }
+    },
+    {
+      "eul_wid": "ljk-al",
+      "title": {
+        "english": "On Paralysis",
+        "ancient_greek": "Περὶ Παραλύσεως"
+      },
+      "url_slug": "theophrastus-of-eresus-paralysis-ljk-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/paralysis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-paralysis-ljk-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-paralysis-ljk-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-paralysis-ljk-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-paralysis-ljk-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/paralysis.epub"
+      }
+    },
+    {
+      "eul_wid": "ljk-ar",
+      "title": {
+        "english": "On Piety",
+        "ancient_greek": "Περὶ εὐσεβείας"
+      },
+      "url_slug": "theophrastus-of-eresus-piety-ljk-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/piety",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-piety-ljk-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-piety-ljk-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-piety-ljk-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-piety-ljk-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/piety.epub"
+      }
+    },
+    {
+      "eul_wid": "ljk-ae",
+      "title": {
+        "english": "On Sense and Sensibles",
+        "ancient_greek": "Περὶ αἰσθήσεως καὶ τῶν αἰσθητῶν"
+      },
+      "url_slug": "theophrastus-of-eresus-sense-sensibles-ljk-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/sense-sensibles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-sense-sensibles-ljk-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-sense-sensibles-ljk-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-sense-sensibles-ljk-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-sense-sensibles-ljk-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/sense-sensibles.epub"
+      }
+    },
+    {
+      "eul_wid": "ljk-aa",
+      "title": {
+        "english": "On Signs of Waters, Winds, Storms, and Fair Weather",
+        "ancient_greek": "Περὶ τῶν Σημείων τῶν Ὑδάτων, Ἀνέμων, Θυελλῶν, καὶ Εὐδίας"
+      },
+      "url_slug": "theophrastus-of-eresus-weather-signs-ljk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/weather-signs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-weather-signs-ljk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-weather-signs-ljk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-weather-signs-ljk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-weather-signs-ljk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/weather-signs.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "ozg-ab",
+      "title": {
+        "english": "Declamations",
+        "ancient_greek": "Μελέται"
+      },
+      "url_slug": "polemon-laodicea-declamations-ozg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/polemon-laodicea/declamations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-declamations-ozg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-declamations-ozg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-declamations-ozg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-declamations-ozg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea/declamations.epub"
+      }
+    },
+    {
+      "eul_wid": "lgi-ax",
+      "title": {
+        "english": "Fragments of Uncertain Work",
+        "ancient_greek": "Ἀποσπάσματα Ἀδήλου Ἔργου"
+      },
+      "url_slug": "philo-of-alexandria-uncertain-fragments-lgi-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria/uncertain-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-uncertain-fragments-lgi-ax.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-uncertain-fragments-lgi-ax.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-uncertain-fragments-lgi-ax.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-uncertain-fragments-lgi-ax.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/uncertain-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-au",
+      "title": {
+        "english": "Life of Plotinus",
+        "ancient_greek": "Βίος Πλωτίνου"
+      },
+      "url_slug": "porphyry-of-tyre-life-plotinus-udm-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/life-plotinus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-life-plotinus-udm-au.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-life-plotinus-udm-au.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-life-plotinus-udm-au.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-life-plotinus-udm-au.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/life-plotinus.epub"
+      }
+    },
+    {
+      "eul_wid": "pyq-aa",
+      "title": {
+        "english": "On Natural Doctrines Pleasing Philosophers",
+        "ancient_greek": "Περὶ τῶν ἀρεσκόντων τοῖς φιλοσόφοις φυσικῶν"
+      },
+      "url_slug": "pseudo-plutarch-natural-doctrines-pyq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-plutarch/natural-doctrines",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-natural-doctrines-pyq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-natural-doctrines-pyq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-natural-doctrines-pyq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-natural-doctrines-pyq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch/natural-doctrines.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-ar",
+      "title": {
+        "english": "On Whether Water or Fire Is More Useful",
+        "ancient_greek": "Περὶ τοῦ πότερον ὕδωρ ἢ πῦρ χρησιμώτερον"
+      },
+      "url_slug": "plutarch-of-chaeronea-water-fire-useful-okg-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/water-fire-useful",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-water-fire-useful-okg-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-water-fire-useful-okg-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-water-fire-useful-okg-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-water-fire-useful-okg-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/water-fire-useful.epub"
+      }
+    },
+    {
+      "eul_wid": "lea-ae",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "orphic-poems-testimonies-lea-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/orphic-poems/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-testimonies-lea-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-testimonies-lea-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-testimonies-lea-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-testimonies-lea-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/testimonies.epub"
+      }
+    },
+    {
+      "eul_wid": "gcc-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "simus-the-philosopher-testimonies-gcc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/simus-the-philosopher/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simus-the-philosopher-testimonies-gcc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simus-the-philosopher-testimonies-gcc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simus-the-philosopher-testimonies-gcc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simus-the-philosopher-testimonies-gcc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simus-the-philosopher/testimonies.epub"
+      }
+    },
+    {
+      "eul_wid": "apa-ab",
+      "title": {
+        "english": "Thales' Nautical Astronomy",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "thales-of-miletus-nautical-astronomy-apa-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/thales-of-miletus/nautical-astronomy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-nautical-astronomy-apa-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-nautical-astronomy-apa-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-nautical-astronomy-apa-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-nautical-astronomy-apa-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus/nautical-astronomy.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/theophrastus-of-eresus/faintheartedness",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-faintheartedness-ljk-ai.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-faintheartedness-ljk-ai.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-faintheartedness-ljk-ai.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-faintheartedness-ljk-ai.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/faintheartedness.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

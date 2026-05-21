@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "fxw-aa",
+  "eul_aid": "fxw",
+  "author_slug": "timotheus-the-pseudo-historian",
+  "work_slug": "argolic-river-lore",
+  "url_slug": "timotheus-the-pseudo-historian-argolic-river-lore-fxw-aa",
+  "author": {
+    "english": "Timotheus Pseudo-Historian",
+    "ancient_greek": "Τιμόθεος ὁ Ψευδοϊστορικός"
+  },
+  "title": {
+    "english": "Argolic and River Lore Fragments",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Fragments of Timotheus Pseudo-Historian on Eulogikon",
+    "meta_title": "Fragments by Timotheus Pseudo-Historian in Ancient Greek",
+    "meta_description": "Argolic and River Lore Fragments by Timotheus Pseudo-Historian. Prose on geography and mythology. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects (frg)",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Argolic and River Lore Fragments</strong> is a pseudepigraphical prose work attributed to an otherwise unknown author designated as Timotheus Pseudo-Historian. It survives only in excerpted passages preserved by later compilers, as indicated by its title. The extant fragments, quoted by authors such as Plutarch, concern the geography and associated legends of specific locales. One passage describes a peculiar stone found in the Inachus River in the Argolid, noted for changing color and housed in a sanctuary of Hera, while another recounts the mythological origins and a dramatic familial conflict associated with the Hebros River in Thrace. Such content typifies the Hellenistic and Roman antiquarian interest in local history, topography, and etiological myth. Although the work&#x27;s direct influence is untraceable, collections of this nature often served as source material for later travel writers and geographers, potentially contributing to the corpus of regional knowledge utilized by authors like Pausanias.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t1",
+      "text": "ΑΡΓΟΛΙΚΑ. Plutarch.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "De fluv. c. 18, 3: Εὑρίσκεται δ’ ἐν αὐτῷ (τῷ Ἰνάχῳ) καὶ λίθος βηρύλλῳ παρόμοιος· ὃν ἐὰν κρατήσωσιν οἱ ψευδομαρτυρεῖν ἐθέλοντες, μέλας γίνεται. Κεῖνται δὲ πολλοὶ ἐν τῷ τεμένει τῆς Προσυμναίας Ἥρας· καθὼς ἱστορεῖ Τιμόθεος ἐν τοῖς Ἀργολικοῖ ς . Περὶ ποταμῶν Plutarch.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 (t)",
+      "text": "De fluv. c. 3, 1: Ἕβρος ποταμός ἐστι τῆς Θρᾴκης, προσηγορίαν εἰληχὼς ἀπὸ τῆς συστροφῆς τῆς καταφορᾶς τοῦ ὕδατος. Κάσανδρος δὲ, ὁ βασιλεὺς τῶν τόπων, γήμας Κροτωνίκην, ἐγέννησεν ἐξ αὐτῆς υἱὸν Ἕβρον· ἀποταξάμενος δὲ τῇ συμβιώσει τῆς προτέρας γυναικὸς, ἐπέγημε τῷ τέκνῳ Δαμασίππην τὴν Ἄτρακος· ἥτις εἰς ἐπιθυμίαν ἐμπεσοῦσα τοῦ προγόνου, λόγους αὐτῷ περὶ συνόδων ἀπέστειλεν. Ὁ δ’ ὡς Ἐριννῦν φυγὼν τὴν μητρυιὰν, προσηυκαίρει κυνηγίαις. Ἀποτυχοῦσα δὲ τῆς προαιρέσεως ἡ ἀσελγὴς, κατεψεύσατο τοῦ σώφρονος, ὡς βιάσασθαι αὐτὴν θελήσαντος. Κάσανδρος δὲ τῷ ζήλῳ συμπεριενεχθεὶς, μεθ’ ὁρμῆς ἐπὶ τὴν ὕλην ἤχθη, καὶ σπασάμενος τὸ ξίφος, ἐδίωκε τὸν υἱὸν, ὡς ἐπίβουλον τῶν πατρῴων γάμων. Ὁ δὲ υἱὸς περικατάληπτος γενόμενος, ἑαυτὸν ἔρριψεν εἰς ποταμὸν Ῥόμβον, ὃς ἀπ’ αὐτοῦ Ἕβρος μετωνομάσθη· καθὼς ἱστορεῖ Τιμόθεος ἐν ιαʹ Περὶ ποταμῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "giq-aa",
+      "title": {
+        "english": "Egyptian Affairs",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "lyceas-of-naucratis-egyptian-affairs-giq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lyceas-of-naucratis/egyptian-affairs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyceas-of-naucratis-egyptian-affairs-giq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyceas-of-naucratis-egyptian-affairs-giq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyceas-of-naucratis-egyptian-affairs-giq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyceas-of-naucratis-egyptian-affairs-giq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyceas-of-naucratis/egyptian-affairs.epub"
+      }
+    },
+    {
+      "eul_wid": "qju-aa",
+      "title": {
+        "english": "Fragments on Heraclea's Tyrants",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν ἐν Ἡρακλείᾳ Τυράννων"
+      },
+      "url_slug": "memnon-of-heraclea-tyrants-qju-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/memnon-of-heraclea/tyrants",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/memnon-of-heraclea-tyrants-qju-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/memnon-of-heraclea-tyrants-qju-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/memnon-of-heraclea-tyrants-qju-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/memnon-of-heraclea-tyrants-qju-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/memnon-of-heraclea/tyrants.epub"
+      }
+    },
+    {
+      "eul_wid": "fri-aa",
+      "title": {
+        "english": "Fragments on Literary Criticism",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κριτικῆς Λογοτεχνίας"
+      },
+      "url_slug": "lysimachus-the-historian-literary-criticism-fri-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysimachus-the-historian/literary-criticism",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysimachus-the-historian-literary-criticism-fri-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysimachus-the-historian-literary-criticism-fri-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysimachus-the-historian-literary-criticism-fri-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysimachus-the-historian-literary-criticism-fri-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysimachus-the-historian/literary-criticism.epub"
+      }
+    },
+    {
+      "eul_wid": "uws-ad",
+      "title": {
+        "english": "Historical Fragments on Palmatius",
+        "ancient_greek": "Ἀποσπάσματα περὶ Παλματίου"
+      },
+      "url_slug": "hesychius-of-miletus-historical-fragments-uws-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/hesychius-of-miletus/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus-historical-fragments-uws-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus-historical-fragments-uws-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus-historical-fragments-uws-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus-historical-fragments-uws-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus/historical-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "dny-aa",
+      "title": {
+        "english": "Histories",
+        "ancient_greek": "Ἱστορίαι"
+      },
+      "url_slug": "thucydides-histories-dny-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/thucydides/histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-histories-dny-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-histories-dny-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-histories-dny-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-histories-dny-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides/histories.epub"
+      }
+    },
+    {
+      "eul_wid": "elu-aa",
+      "title": {
+        "english": "Histories",
+        "ancient_greek": "Ἱστορίαι"
+      },
+      "url_slug": "herodotus-of-halicarnassus-histories-elu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodotus-of-halicarnassus/histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodotus-of-halicarnassus-histories-elu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodotus-of-halicarnassus-histories-elu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodotus-of-halicarnassus-histories-elu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodotus-of-halicarnassus-histories-elu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodotus-of-halicarnassus/histories.epub"
+      }
+    },
+    {
+      "eul_wid": "ldg-ab",
+      "title": {
+        "english": "Histories",
+        "ancient_greek": "Ἱστορίαι"
+      },
+      "url_slug": "polybius-of-megalopolis-histories-ldg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/polybius-of-megalopolis/histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polybius-of-megalopolis-histories-ldg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polybius-of-megalopolis-histories-ldg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polybius-of-megalopolis-histories-ldg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polybius-of-megalopolis-histories-ldg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polybius-of-megalopolis/histories.epub"
+      }
+    },
+    {
+      "eul_wid": "cnu-aa",
+      "title": {
+        "english": "Thessalian Geography and Myths",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "archinus-the-historian-geography-myths-cnu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/archinus-the-historian/geography-myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archinus-the-historian-geography-myths-cnu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archinus-the-historian-geography-myths-cnu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archinus-the-historian-geography-myths-cnu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archinus-the-historian-geography-myths-cnu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archinus-the-historian/geography-myths.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/timotheus-the-pseudo-historian/argolic-river-lore",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-pseudo-historian-argolic-river-lore-fxw-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-pseudo-historian-argolic-river-lore-fxw-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-pseudo-historian-argolic-river-lore-fxw-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-pseudo-historian-argolic-river-lore-fxw-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-pseudo-historian/argolic-river-lore.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

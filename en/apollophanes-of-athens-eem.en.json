@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "eem",
+  "auth_slug": "apollophanes-of-athens",
+  "name": {
+    "english": "Apollophanes of Athens",
+    "ancient_greek": "Ἀπολλοφάνης ὁ Ἀθηναῖος"
+  },
+  "seo_h1": "Apollophanes of Athens: Fragments on Feasting and Merriment",
+  "seo": {
+    "browser_title": "The Apollophanes of Athens on Eulogikon Greek Archive",
+    "meta_title": "Classical Apollophanes Ancient Greek Comedy and Fragments",
+    "meta_description": "Apollophanes of Athens was a classical Attic comic poet. Surviving fragments from his comedies. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Apollophanes was an Athenian comic poet active during the late 5th and early 4th centuries BCE, a contemporary of Aristophanes. He won first prize at the Lenaean festival at least once. No further biographical details survive.</p>\n<p class=\"research-text\">Only fragments and titles of his comedies remain. Attested plays include <strong>Kretes</strong> (&quot;The Cretans&quot;) and <strong>Deliades</strong> (&quot;Women of Delos&quot;), both surviving in fragments, and <strong>Kothornoi</strong> (&quot;Buskins&quot;), known only by title. The <strong>Suda</strong> also mentions a <strong>Lemnomeda</strong>, which may be an error or variant title.</p>\n<p class=\"research-text\">As a minor poet of Old Comedy, Apollophanes’ fragments contribute to our understanding of the genre’s broader linguistic and thematic range beyond its major figures. His work aids in reconstructing the history of Athenian comic theatre during the Peloponnesian War and its aftermath.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "eem-ab",
+      "title": {
+        "english": "Fragments on Banquets and Merriment",
+        "ancient_greek": "Ἀποσπάσματα περὶ Συμποσίων καὶ Εὐωχίας"
+      },
+      "url_slug": "apollophanes-of-athens-banquets-merriment-eem-ab",
+      "passages": 8,
+      "links": {
+        "html": "https://eulogikon.org/grc/apollophanes-of-athens/banquets-merriment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-of-athens-banquets-merriment-eem-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-of-athens-banquets-merriment-eem-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-of-athens-banquets-merriment-eem-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-of-athens-banquets-merriment-eem-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-of-athens/banquets-merriment.epub"
+      }
+    },
+    {
+      "eul_wid": "eem-aa",
+      "title": {
+        "english": "Fragments on Feasting and Merriment",
+        "ancient_greek": "Ἀποσπάσματα περὶ Εὐωχίας καὶ Εὐφροσύνης"
+      },
+      "url_slug": "apollophanes-of-athens-feasting-merriment-eem-aa",
+      "passages": 12,
+      "links": {
+        "html": "https://eulogikon.org/grc/apollophanes-of-athens/feasting-merriment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-of-athens-feasting-merriment-eem-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-of-athens-feasting-merriment-eem-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-of-athens-feasting-merriment-eem-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-of-athens-feasting-merriment-eem-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-of-athens/feasting-merriment.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/apollophanes-of-athens",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollophanes-of-athens-eem.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollophanes-of-athens-eem.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollophanes-of-athens-eem.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollophanes-of-athens-eem.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

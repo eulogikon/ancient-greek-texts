@@ -1,0 +1,503 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "aqo-aj",
+  "eul_aid": "aqo",
+  "author_slug": "aesop",
+  "work_slug": "dositheus-fables",
+  "url_slug": "aesop-dositheus-fables-aqo-aj",
+  "author": {
+    "english": "Aesop the Fabulist",
+    "ancient_greek": "Αἴσωπος ὁ μυθολόγος"
+  },
+  "title": {
+    "english": "Fables of Dositheus",
+    "ancient_greek": "Μῦθοι Δοσιθέου"
+  },
+  "seo": {
+    "browser_title": "Fables of Dositheus by Aesop the Fabulist on Eulogikon",
+    "meta_title": "Classical Fables of Dositheus by Aesop in Ancient Greek",
+    "meta_description": "A collection of moral fables attributed to Aesop and compiled by Dositheus, presented in prose. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Μυθιστορία",
+      "english": "Fiction",
+      "href": "/domains/fiction"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Fables of Dositheus is a collection of seventeen prose fables preserved within the medieval manuscript tradition of Aesopic literature. Attributed to the legendary fabulist Aesop, the compilation bears the name of a figure called Dositheus, whose precise role as author, compiler, or dedicatee remains uncertain. The fables follow the classic Aesopic structure, presenting brief narratives, frequently involving animal characters, that culminate in an explicit moral lesson. Their themes encompass practical wisdom and ethical conduct, social critique of power dynamics and arrogance, and the inevitable consequences of one&#x27;s actions, thereby reinforcing the instructive purpose of the tales.</p>\n<p class=\"research-text\">The work survives as an integral part of the vast Aesopic corpus transmitted through major manuscript families such as the Augustana, Vindobonensis, and Accursiana. Modern scholarly editions reconstruct its text from these sources. While not individually distinguished, the Fables of Dositheus contributes to the immense and influential body of Aesopic literature that has served as a foundational tool for education and rhetoric for over two millennia. This tradition, extended by later authors including Phaedrus and Jean de La Fontaine, has profoundly shaped the development of Western literary culture.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1 (t)",
+      "text": "ΕΛΑΦΟΣ ἔλαφος εὐμεγέθης ὥρᾳ θέρους δίψῃ λειπόμενος παραγίνεται ἐπί τινα πηγὴν διαυγῆ καὶ βαθεῖαν καὶ πιὼν ὅσον ἤθελεν προσεῖχεν τῇ τοῦ σώματος ἰδέᾳ. καὶ μάλιστα μὲν ἐπῄνει τὴν φύσιν τῶν κεράτων ἀνατεταμένων τε εἰς πολὺν ἀέρα καὶ ὡς κόσμος εἴη παντὶ τῷ σώματι. ἔψεγεν δὲ τὴν τῶν σκελῶν λεπτότητα ὡς οὐχ οἵων τε ὄντων φέρειν πᾶν τὸ βάρος. ἐν οἷς δὲ πρὸς τούτοις ἦν, ὑλαχή τε κυνῶν αἰφνιδίως ἀκούεται καὶ κυνηγέται πλησίον. ὁ δὲ πρὸς φυγὴν ὥρμα καὶ μέχρις ὅπου διὰ πεδίου ἐποιεῖτο τὸν δρόμον, ἐσῴζετο ὑπὸ τῆς ὠκύτητος τῶν σκελῶν. ἐπεὶ δὲ εἰς πυκνὴν καὶ δασεῖαν ὕλην ἐνέπεσεν, ἐμπλακέντων αὐτῷ τῶν κεράτων ἑάλω, πείρᾳ μαθών, ὅτι ἄρα ἄδικος ἦν τῶν ἰδίων κριτὴς ψέγων μὲν τὰ σῴζοντα αὐτόν, ἐπαινῶν δὲ ὑφ’ ὧν προδέδοται. ΜΥΣ ΚΑΙ ΛΕΩΝ μῦς ἐπάνω λέοντος κοιμωμένου ἐφήλατο καὶ τὸν ὕπνον αὐτοῦ ἐξύπνικεν· ὃν ὁ λέων δραξάμενος ἀναιρεῖν ἠβούλετο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 (t)",
+      "text": "ἐκεῖνος δὲ συγγνώμην ᾐτήσατο ὑπὲρ τοῦ ζῆν καὶ οὐκ ἐλάσσονα χάριτα ἐπηγγέλλετο. ὁ δὲ λέων γελῶν καὶ στοχαζόμενος, ἐπεὶ οὕτως ἐλάχιστον ζῷον λέοντι χάριτας ἀνταποδώσειν ἐπηγγείλατο, ἀπέλυσεν αὐτόν. μετ’ οὐ πολὺ δὲ αὐτὸς ὁ λέων ὑπὸ κυνηγῶν ληφθεὶς καὶ εἰς δεσμὰ βληθεὶς ἔκειτο. τότε ὁ μῦς ἀναμνησθεὶς ἀνταποδοῦναι τῷ λέοντι τὴν χάριν ἠθέλησεν καὶ διὰ νυκτὸς τρώγων τὰ σχοινία ἠλευθέρωσεν τὸν λέοντα. οὕτω πολλάκις ἐξ ἀνελπίστου βοήθεια ἀπὸ ἡττόνων γίνεται μείζοσιν. ΜΥΕΣ ΚΑΙ ΓΑΛΑΙ μύες ὀργιζόμενοι, ὅτι ὑπὸ γαλῶν ἑαυτοὺς ἀναλίσκεσθαι ἔβλεπον, ὥρισαν μετ’ αὐτῶν πυκτεῦσαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 (t)",
+      "text": "τοιγαροῦν ἐποίησαν ἑαυτοῖς ἡγεμόνας, οὓς πρὸς ἐπίσημον χρυσέοις κέρασιν ἐκόσμησαν, καὶ ἐξαπίνης μάχης συμβληθείσης οἱ μύες ἔφυγον. οἱ ἡγεμόνες οὖν κωλυόμενοι διὰ τὰ κέρατα ἐσφάγησαν. οὕτως, οἷς εἰς τιμὴν δοθεῖσιν ἔχαιρον, ὅτι ἐναντίον ὑπ’ αὐτῶν ἔπαθον. ΔΕΣΠΟΤΗΣ ΚΑΙ ΝΑΥΤΑΙ οἰκοδεσπότης τίς ποτε πλέων εἰς θάλασσαν ἐκοπία ὑπὸ χειμῶνος καὶ οἱ ναῦται ἀσθενέστερον ὑπηρέτουν διὰ τὸν χειμῶνα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4 (t)",
+      "text": "οἷς ὁ ἄνθρωπος εἶπεν· „ὑμεῖς,“ φησίν, „εἰ μὴ τοῦτο τὸ πλοῖον ταχύτερον ἄγετε, λίθοις ὑμᾶς καταβαλῶ.“ τότε εἷς ἐξ αὐτῶν εἶπεν· „ὤφελον γὰρ ἐν ἐκείνῳ τῷ τόπῳ ἦμεν, ὅπου λίθοι συλλεγῆναι δύνανται.“ τούτῳ οὖν ὁμοία ἡ ζωὴ ἡμῶν· βαστάζειν ὀφείλομεν τὰς κουφοτέρας ζημίας, ἵνα τὰς βαρυτέρας ἐκφύγωμεν. ΑΙΛΟΥΡΟΣ ΚΑΙ ΟΡΝΕΑ αἴλουρος προσποιούμενος γενέθλια ἄγειν ἐπὶ δεῖπνον ὄρνεα ἐκάλεσεν· ἔπειτα παρατετηρηκὼς εἰσελθόντας ἔκλεισεν τὰς θύρας καὶ καθ’ ἕνα ἤρξατο ἐσθίειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5 (t)",
+      "text": "οὗτος ὁ μῦθος ἥρμοσται εἰς ἐκείνους, οἳ πρὸς ἐλπίδα ἱλαρὰν πορευόμενοι τὰ ἐναντία πάσχουσιν. ΛΕΩΝ ΓΗΡΑΣΑΣ ΚΑΙ ΑΛΩΠΗΞ λέων λιμῷ ἐκλιπὼν νοσεῖν προσεποιεῖτο καὶ διὰ ταύτης τῆς πλάνης τὰ λοιπὰ θηρία ἐπισκεψόμενα εἰσήρχοντο, ἃ ὁ λέων εὐθέως ἐδαπάνα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 (t)",
+      "text": "ἀλώπηξ δὲ ἔξωθεν τοῦ σπηλαίου ἐστάθη καὶ ἠσπάσατο αὐτόν. ἐπερωτηθεῖσα δὲ ὑπ’ αὐτοῦ, διὰ τί οὐκ εἰσήρχετο, ἀπεκρίθη· „ἐπειδὴ ὁρῶ εἰσερχομένων ἴχνη, ἐξερχομένων δὲ οὔ.“ οὕτως τινῶν οἱ κίνδυνοι διδαχὴ ἡμῖν εἶναι ὀφείλουσιν τῆς ἡμετέρας σωτηρίας. ΙΑΤΡΟΣ ΑΤΕΧΝΟΣ ἀσθενής τις ὑπὸ ἀτέχνου ἰατροῦ ἀπελπισθεὶς ἐσώθη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7 (t)",
+      "text": "καὶ συναντήσας αὐτῷ ὁ ἰατρὸς διὰ χρόνου ἐξήταζεν, εἰ αὐτὸς εἴη, ὃν ἀπηλπίκει. ὁ δὲ ἀπεκρίθη τοῦ Χάρωνος χάριν ἀναπεπέμφθαι αὐτὸν ἐξ Ἅιδου. παρεκτὸς δὲ τὸν Χάρωνα ὡρικέναι ἐντὸς ἡμερῶν ὀλίγων πάντας τοὺς ἰατροὺς παρ’ ἑαυτὸν ἄγειν, ἵνα αὐτοὺς βασανίσῃ, ἐπειδὴ τῇ τούτων ἀμελείᾳ πολλοὶ ἀπέθνῃσκον. „ἀλλὰ σὺ μὴ φοβηθῇς· ἐγὼ γὰρ εἶπον αὐτῷ σὲ ἰατρὸν μηδέποτε γεγονέναι. πρὸ πάντων γὰρ σὲ ἀποσπάσαι σεσημειώκει.“ οὗτος ὁ μῦθος δύναται πρὸς τούτους ἀνήκειν, οἵτινες ἃ οὐκ οἴδασιν ἐπαγγέλλονται. ΚΟΡΩΝΗ ΔΙΨΩΣΑ κορώνη διψῶσα προσῆλθεν ἐπὶ ὑδρίαν καὶ ταύτην ἐβιάζετο ἀνατρέψαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8 (t)",
+      "text": "ἀλλ’ ὅτι ἰσχυρῶς εἱστήκει, οὐκ ἠδύνατο αὐτὴν καταβάλλειν, ἀλλὰ μεθόδῳ ἐπέτυχεν, ὃ ἠθέλησεν. ἔπεμπε γὰρ ψήφους εἰς τὴν ὑδρίαν καὶ τούτων τὸ πλῆθος ἀπὸ κάτωθεν τὸ ὕδωρ ἄνω ὑπερέχεεν· καὶ οὕτως ἡ κορώνη τὴν ἰδίαν δίψαν κατέπαυσεν. οὕτως οὖν φρόνησις ἀνδρότητα πλανᾷ. ΚΟΡΑΞ ΚΑΙ ΑΛΩΠΗΞ κόραξ τυρὸν ἁρπάσας ἐπάνω δένδρου πετασθεὶς ἐκάθισεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9a (t)",
+      "text": "ἰδοῦσα δὲ αὐτὸν ἀλώπηξ προσῆλθεν καὶ ἐπαινεῖν ἤρξατο αὐτοῦ τὴν ἀνδρίαν, ἔψεγεν δὲ ὅτι τοιοῦτο ζῷον φωνὴν οὐκ ἔχει. πλανηθεὶς οὖν ὁ κόραξ ἤνοιξεν τὸ στόμα 〈καὶ〉 τὸν τυρὸν πεσόντα ἀλώπηξ ἁρπάσασα κατέφαγεν. οὕτως οἱ πολλοί, ὅ τι δυνάμει οὐ δύνανται, φρονήσει ἐκπλέκουσιν. κόραξ τυρὸν ἁρπάσας ἐπὶ δένδρον ἐκαθέσθη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9b",
+      "text": "τοῦτον ἰδοῦσα ἀλώπηξ ἐπαινεῖν ἤρξατο, ὅτι αὐτὸς μὲν εὔμορφος εἴη καὶ μέγας, 〈ἓν δὲ ἐπιλείποι〉· ὅτι φωνὴν μὴ ἔχει. πλανηθεὶς ὁ κόραξ ἔκραξεν καὶ τυρὸν κατέβαλεν, ὃν ἥρπαξεν ἡ ἀλώπηξ 〈καὶ〉 κατέφαγεν. οὕτως πολλοὶ κτλ. ΠΑΙΣ ΑΚΡΙΔΑΣ ΘΗΡΕΥΩΝ παιδίον εἰς ὕλην ἀκρίδας θηρεῦον ἐπεστάθη λίθῳ τινί, εἰς ὃν σκορπίος ἐκρύβετο, ὃν ὁ παῖς ἐβιάζετο ἀντὶ ἀκρίδος ἐξελθεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10 (t)",
+      "text": "ᾧ ὁ σκορπίος λέγει· „ὅρα, τάλας, μὴ ὡς ἐμὲ θηρεύεις, ἑαυτὸν ἀπολέσῃς.“ οὗτος ὁ μῦθος παραγγέλλει μηδὲν τοιοῦτον τολμᾶν, ὅ ἐστιν ἐπικίνδυνον. ΚΥΩΝ ΚΡΕΑΣ ΦΕΡΟΥΣΑ κύων κρέας ἁρπάσας ποταμὸν διέβαινεν καὶ θεασάμενος τοῦ κρέως τὴν σκιὰν ὑπώπτασεν μείζονα εἶναι 〈οὗ〉 ἔφερεν· καὶ ὡς αἱρεῖ, ἀπέβαλεν 〈ὃ〉 ἐκράτει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11 (t)",
+      "text": "οὕτω πολλοὶ ἄνθρωποι τὰ ἄδηλα ὡς θηρεύουσιν ἀποβάλλονται τὰ ἴδια. ΜΥΣ ΚΑΙ ΒΑΤΡΑΧΟΣ βάτραχος μῦν ἔπεισεν κολυμβᾶν, οὗ τὸν πόδα πρὸς τὸν ἴδιον πόδα ἔδησεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12 (t)",
+      "text": "εἶτα ὅτε εἰς τὸ ὕδωρ αὐτὸν ἀγηόχει, καθὼς ἔνυδρον ζῷον μετὰ χαρᾶς κατέδυνεν, ὁ μῦς δέ, ὡς ἐν ἀσυνήθει τόπῳ φύσεως ἰδίας κολυμβῶν ἀπώλετο. μετὰ δὲ τρεῖς ἡμέρας ἀσκὸς ὁ μῦς φυσηθεὶς ἐκολύμβα, ὃν κολυμβῶντα νεκρὸν ἰκτῖνος πετόμενος ἥρπασεν· καὶ τῷ λίνῳ ὁ βάτραχος ἠκολούθησεν, ὃν εὐθέως ὁ ἰκτῖνος κατέπιεν. οὕτως οὖν, ὃς ἄλλῳ τις κίνδυνον κινεῖ, ἑαυτὸν ἀπολεῖ. ΟΝΟΣ ΑΡΡΩΣΤΟΣ ΚΑΙ ΛΥΚΟΣ ὄνον ἄρρωστον λύκος ἐπεσκέπτετο καὶ ἤρξατο τὸ σῶμα αὐτοῦ ψηλαφᾶν καὶ ἐξετάζειν, ποῖα μᾶλλον μέρη αὐτοῦ ἐπόνουν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13 (t)",
+      "text": "ἀπεκρίθη ὁ ὄνος· „ἃ σὺ θιγγάνεις.“ οὕτως ἄνθρωποι κακοί, εἰ καὶ ὠφελεῖν δοκοῦσιν, μᾶλλον βλάπτουσιν. ΤΑΥΡΟΣ ΚΑΙ ΑΙΓΕΣ ΑΓΡΙΑΙ ταῦρος φεύγων λέοντα ἑαυτὸν εἰς σπήλαιον ἔβαλεν, ὅπου ἦσαν τράγοι τρεῖς, οἵτινες 〈ὡσ〉 ἑώρακαν τοῦτον φοβούμενον, κατεγέλων αὐτοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14 (t)",
+      "text": "κἀκεῖνος ἀπεκρίθη· „ὦ ἀπονενοημένοι, εἰ γὰρ ᾔδειτε, τί ὧδε κατέφυγον, οὐκ ἄν μου κατεγελᾶτε.“ οὕτως οὖν ἐνίοτε τὰ δυνατὰ πρόσωπα ὑπὸ ἀδυνάτων ὑβρίζονται. ΑΝΘΡΩΠΟΣ ΚΑΙ ΛΕΩΝ ΣΥΝΟΔΕΥΟΝΤΕΣ [Αἴσωπος ἐπερωτηθείς, διὰ τί γυναῖκες ἀνδράσιν προῖκα διδόασιν καὶ οὐκ ἄνδρες γυναιξίν, ἤρξατο τοιούτου μύθου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15 (t)",
+      "text": "] ἄνθρωπος καὶ λέων ποτὲ εἰς ἑαυτοὺς ἤριζον, τίς εἴη προὔχων, καὶ ἐζήτουν ταύτης τῆς ἀμφισβητήσεως μαρτυρίαν. καὶ ὡς ἦλθον, ὅπου ἦν μνημεῖον, ἐν ᾧ ἦν ἐζωγραφημένον, πῶς λέων ὑπὸ ἀνθρώπου ἐπνίγετο, ἐδείκνυεν οὖν αὐτῷ ὁ ἄνθρωπος τὴν μαρτυρίαν ἐν τῇ ζωγραφίᾳ. ἀλλὰ ὁ λέων ἀπεκρίθη· „αὕτη ἡ ζωγραφία ὑπὸ ἀνθρώπου ἐξωγραφήθη· εἰ δὲ καὶ λέων ἐζωγράφει, ἑωράκεις ἄν, πῶς λέων ἔπνιγεν ἄνθρωπον. ἀλλὰ κἀγώ, ἔφη, δώσω σοι ἀληθινὴν μαρτυρίαν“. ἤγαγεν αὐτὸν εἰς ἀμφιθέατρον καὶ ἔδειξεν αὐτῷ, πῶς ἄνθρωπος ὑπὸ λέοντος ἐπνίγετο καὶ εἶπεν· „ὧδε χρωμάτων μαρτυρία χρεία οὔκ ἐστιν ἀλλὰ ἀληθείας.“ καὶ ὁ ἄνθρωπος ἀπεκρίθη· „νενικήκεις ἄν, εἰ μὴ δεδεμένον μοι τὸν ἄνθρωπον ἐδείκνυες. πίστευσον οὖν νενικημένον σε ἐν τούτῳ φανερῷ καὶ ἑτοίμασόν σε ἐν τοῖς ἄλλοις ἀπέχεσθαι καὶ εἰδέναι λέοντα ὑπὸ ἀνθρώπου χαλινοῦσθαι, ἵνα μὴ κακὸς καὶ ἀδάμαστος ᾖς.“ [πολλάκις οὖν τέχνης λόγος τρέχει εἰς αὐτούς· ἄλλοι δὲ διορθοῦσιν μακρότερον βιβλίοις ἐνορῶντες φύσεως εὐφυΐαν.] ΜΥΣ ΑΡΟΥΡΑΙΟΣ ΚΑΙ ΜΥΣ ΑΣΤΙΚΟΣ μῦς ἀρουραῖος ἐκάλεσεν ἐφ’ ἑστίασιν μῦν ἀστικὸν καὶ παρεῖχεν αὐτῷ σιτεῖσθαι τὰ ἐν ἀγρῷ, συκῶν τε καὶ σταφυλῶν καὶ τῶν ἄλλων ἀκροδρύων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16 (t)",
+      "text": "ὁ δὲ πολλὴν αὐτοῦ πενίαν κατεγίνωσκεν, ἐκέλευέν τε τῇ αὔριον ἀφικνεῖσθαι πρὸς αὐτόν. καὶ ὃς εἰς πλουσίου ταμεῖον αὐτὸν εἰσαγαγὼν παρεῖχεν εὐωχεῖσθαι τοῦτο μὲν κρεῶν παντοδαπῶν, τοῦτο δὲ ἰχθύων, ἔτι δὲ καὶ πλακούντων. ἐν ᾧ δὲ πρὸς τούτοις ἦσαν, ἡ ταμιοῦχος ἐπεισῆλθεν καὶ τούτους δέος τε καὶ φυγὴ καταλαμβάνει. καὶ ὁ ἀρουραῖος πρὸς τὸν ἀστικόν· „σὺ μέν“, ἔφη, „ταύτης ἀπόλαυε τῆς τροφῆς μετὰ τοσούτων ἐδεσμάτων, ἐγὼ δὲ χαίρω τῇ μετὰ ἀδείας καὶ ἐλευθερίας τροφῇ.“",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "aqo-aq",
+      "title": {
+        "english": "Aesopic Fables (Anonymous Collection)",
+        "ancient_greek": "Μῦθοι"
+      },
+      "url_slug": "aesop-fables-aq-aqo-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/fables-aq",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-aq-aqo-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-aq-aqo-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-aq-aqo-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-aq-aqo-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-aq.epub"
+      }
+    },
+    {
+      "eul_wid": "aqo-ap",
+      "title": {
+        "english": "Aesopic Fables (Augustana Collection)",
+        "ancient_greek": "Αισώπειων μύθων συναγωγή"
+      },
+      "url_slug": "aesop-fables-ap-aqo-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/fables-ap",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-ap-aqo-ap.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-ap-aqo-ap.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-ap-aqo-ap.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-ap-aqo-ap.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-ap.epub"
+      }
+    },
+    {
+      "eul_wid": "aqo-af",
+      "title": {
+        "english": "Aesopic Fables (Dionian Recension)",
+        "ancient_greek": "Μῦθοι Δίωνι Χρυσόστομῳ ἀνατιθέμενοι"
+      },
+      "url_slug": "aesop-fables-af-aqo-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/fables-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-af-aqo-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-af-aqo-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-af-aqo-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-af-aqo-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-af.epub"
+      }
+    },
+    {
+      "eul_wid": "aqo-am",
+      "title": {
+        "english": "Aesopic Proverbs",
+        "ancient_greek": "Μῦθοι"
+      },
+      "url_slug": "aesop-proverbs-am-aqo-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/proverbs-am",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-proverbs-am-aqo-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-proverbs-am-aqo-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-proverbs-am-aqo-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-proverbs-am-aqo-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/proverbs-am.epub"
+      }
+    },
+    {
+      "eul_wid": "aqo-ao",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "aesop-epigrams-aqo-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-epigrams-aqo-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-epigrams-aqo-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-epigrams-aqo-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-epigrams-aqo-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "aqo-ai",
+      "title": {
+        "english": "Fable of Nicephorus",
+        "ancient_greek": "Μῦθος Νικηφόρου"
+      },
+      "url_slug": "aesop-nicephorus-fable-aqo-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/nicephorus-fable",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-nicephorus-fable-aqo-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-nicephorus-fable-aqo-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-nicephorus-fable-aqo-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-nicephorus-fable-aqo-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/nicephorus-fable.epub"
+      }
+    },
+    {
+      "eul_wid": "aqo-ab",
+      "title": {
+        "english": "Fables Preserved-Assendelftian Wax Tablets",
+        "ancient_greek": "Μῦθοι ἐν δέλτοις Ἀσσενδελφτίοις σωθέντες"
+      },
+      "url_slug": "aesop-preserved-wax-tablets-aqo-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/preserved-wax-tablets",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-preserved-wax-tablets-aqo-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-preserved-wax-tablets-aqo-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-preserved-wax-tablets-aqo-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-preserved-wax-tablets-aqo-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/preserved-wax-tablets.epub"
+      }
+    },
+    {
+      "eul_wid": "aqo-ah",
+      "title": {
+        "english": "Fables in Dodecasyllables",
+        "ancient_greek": "Μῦθοι ἐν Δωδεκασυλλάβοις"
+      },
+      "url_slug": "aesop-fables-dodecasyllables-aqo-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/fables-dodecasyllables",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-dodecasyllables-aqo-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-dodecasyllables-aqo-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-dodecasyllables-aqo-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-dodecasyllables-aqo-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-dodecasyllables.epub"
+      }
+    },
+    {
+      "eul_wid": "aqo-ad",
+      "title": {
+        "english": "Fables of Aphthonius the Rhetorician",
+        "ancient_greek": "Μῦθοι Ἀφθονίου τοῦ Ῥήτορος"
+      },
+      "url_slug": "aesop-aphthonius-fables-aqo-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/aphthonius-fables",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-aphthonius-fables-aqo-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-aphthonius-fables-aqo-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-aphthonius-fables-aqo-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-aphthonius-fables-aqo-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/aphthonius-fables.epub"
+      }
+    },
+    {
+      "eul_wid": "aqo-ak",
+      "title": {
+        "english": "Fables of Libanius",
+        "ancient_greek": "Μῦθοι Λιβανίου"
+      },
+      "url_slug": "aesop-fables-ak-aqo-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/fables-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-ak-aqo-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-ak-aqo-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-ak-aqo-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-ak-aqo-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-ak.epub"
+      }
+    },
+    {
+      "eul_wid": "aqo-ag",
+      "title": {
+        "english": "Fables of Syntipas the Philosopher",
+        "ancient_greek": "Μῦθοι Συντίπα τοῦ Φιλοσόφου"
+      },
+      "url_slug": "aesop-syntipas-fables-aqo-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/syntipas-fables",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-syntipas-fables-aqo-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-syntipas-fables-aqo-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-syntipas-fables-aqo-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-syntipas-fables-aqo-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/syntipas-fables.epub"
+      }
+    },
+    {
+      "eul_wid": "aqo-ae",
+      "title": {
+        "english": "Fables of Themistius the Rhetorician",
+        "ancient_greek": "Μῦθοι Θεμιστίου τοῦ Ῥήτορος"
+      },
+      "url_slug": "aesop-themistius-fables-aqo-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/themistius-fables",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-themistius-fables-aqo-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-themistius-fables-aqo-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-themistius-fables-aqo-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-themistius-fables-aqo-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/themistius-fables.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "rte-aa",
+      "title": {
+        "english": "Daphnis and Chloe",
+        "ancient_greek": "Δάφνις καὶ Χλόη"
+      },
+      "url_slug": "longus-daphnis-chloe-rte-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/longus/daphnis-chloe",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/longus-daphnis-chloe-rte-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/longus-daphnis-chloe-rte-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/longus-daphnis-chloe-rte-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/longus-daphnis-chloe-rte-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/longus/daphnis-chloe.epub"
+      }
+    },
+    {
+      "eul_wid": "sru-ab",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "heliodorus-of-emesa-epigrams-sru-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/heliodorus-of-emesa/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-of-emesa-epigrams-sru-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-of-emesa-epigrams-sru-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-of-emesa-epigrams-sru-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-of-emesa-epigrams-sru-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-of-emesa/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "skw-ax",
+      "title": {
+        "english": "Iolaus",
+        "ancient_greek": "Ἰόλαος"
+      },
+      "url_slug": "anonymous-erotic-narrative-iolaus-skw-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-erotic-narrative/iolaus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-iolaus-skw-ax.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-iolaus-skw-ax.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-iolaus-skw-ax.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-iolaus-skw-ax.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/iolaus.epub"
+      }
+    },
+    {
+      "eul_wid": "otm-aa",
+      "title": {
+        "english": "Letters to Matris",
+        "ancient_greek": "Ἐπιστολαὶ πρὸς Μάτριν"
+      },
+      "url_slug": "chion-of-heraclea-matris-otm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/chion-of-heraclea/matris",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chion-of-heraclea-matris-otm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chion-of-heraclea-matris-otm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chion-of-heraclea-matris-otm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chion-of-heraclea-matris-otm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chion-of-heraclea/matris.epub"
+      }
+    },
+    {
+      "eul_wid": "skw-aq",
+      "title": {
+        "english": "Lover's Impassioned Boast",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "anonymous-erotic-narrative-lovers-impassioned-boast-skw-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-erotic-narrative/lovers-impassioned-boast",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-lovers-impassioned-boast-skw-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-lovers-impassioned-boast-skw-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-lovers-impassioned-boast-skw-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-lovers-impassioned-boast-skw-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/lovers-impassioned-boast.epub"
+      }
+    },
+    {
+      "eul_wid": "skw-af",
+      "title": {
+        "english": "Metiochus and Parthenope (Fragment C)",
+        "ancient_greek": "Μετίοχος καὶ Παρθενόπη"
+      },
+      "url_slug": "anonymous-erotic-narrative-metiochus-parthenope-af-skw-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-erotic-narrative/metiochus-parthenope-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-metiochus-parthenope-af-skw-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-metiochus-parthenope-af-skw-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-metiochus-parthenope-af-skw-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-metiochus-parthenope-af-skw-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/metiochus-parthenope-af.epub"
+      }
+    },
+    {
+      "eul_wid": "oba-aa",
+      "title": {
+        "english": "Ninus Fragments A–B",
+        "ancient_greek": "Νίνου Ἀποσπάσματα Α–Β"
+      },
+      "url_slug": "anonymous-narrative-fiction-ninus-fragments-aa-oba-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-narrative-fiction/ninus-fragments-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-narrative-fiction-ninus-fragments-aa-oba-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-narrative-fiction-ninus-fragments-aa-oba-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-narrative-fiction-ninus-fragments-aa-oba-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-narrative-fiction-ninus-fragments-aa-oba-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-narrative-fiction/ninus-fragments-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "skw-ap",
+      "title": {
+        "english": "Tinouphis",
+        "ancient_greek": "Τινουφίς"
+      },
+      "url_slug": "anonymous-erotic-narrative-tinouphis-skw-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-erotic-narrative/tinouphis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-tinouphis-skw-ap.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-tinouphis-skw-ap.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-tinouphis-skw-ap.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-tinouphis-skw-ap.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/tinouphis.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aesop/dositheus-fables",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-dositheus-fables-aqo-aj.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-dositheus-fables-aqo-aj.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-dositheus-fables-aqo-aj.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-dositheus-fables-aqo-aj.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/dositheus-fables.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

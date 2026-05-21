@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "mmq",
+  "auth_slug": "hyperochus-of-cumae",
+  "name": {
+    "english": "Hyperochus of Cumae",
+    "ancient_greek": "Ὑπέροχος ὁ Κυμαῖος"
+  },
+  "seo_h1": "Hyperochus of Cumae and the Fragments on Cumae",
+  "seo": {
+    "browser_title": "Hyperochus of Cumae on Eulogikon Greek Archive Collection",
+    "meta_title": "Hyperochus of Cumae Ancient Greek Historical Works",
+    "meta_description": "Hyperochus of Cumae was a Hellenistic historian. Surviving fragments of his historical works are preserved. Free to read and download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Hyperochus of Cumae was a Hellenistic historian, estimated to have lived between the 3rd and 1st centuries BCE. No biographical details survive beyond his name and origin, which are preserved solely through citations in later works.</p>\n<p class=\"research-text\">He is known for a single, lost work: <strong>On Cumae</strong>, a local history of the Greek colony of Cumae in Italy. The work survives in fragments, primarily quoted by the geographer Strabo and the Byzantine scholar Stephanus of Byzantium.</p>\n<p class=\"research-text\">Hyperochus’s significance lies in his value as a fragmentary source for the history and foundation myths of Magna Graecia. His work was used as an authority on Cumae’s early history, its relations with neighboring Italic peoples, and local traditions, exemplifying the Hellenistic genre of local historiography.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "mmq-aa",
+      "title": {
+        "english": "Fragments on Cumae",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κύμης"
+      },
+      "url_slug": "hyperochus-of-cumae-fragments-mmq-aa",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/hyperochus-of-cumae/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hyperochus-of-cumae-fragments-mmq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hyperochus-of-cumae-fragments-mmq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hyperochus-of-cumae-fragments-mmq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hyperochus-of-cumae-fragments-mmq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hyperochus-of-cumae/fragments.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/hyperochus-of-cumae",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hyperochus-of-cumae-mmq.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hyperochus-of-cumae-mmq.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hyperochus-of-cumae-mmq.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hyperochus-of-cumae-mmq.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

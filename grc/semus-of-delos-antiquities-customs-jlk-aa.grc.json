@@ -1,0 +1,366 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "jlk-aa",
+  "eul_aid": "jlk",
+  "author_slug": "semus-of-delos",
+  "work_slug": "antiquities-customs",
+  "url_slug": "semus-of-delos-antiquities-customs-jlk-aa",
+  "author": {
+    "english": "Semus of Delos",
+    "ancient_greek": "Σῆμος ὁ Δηλιεύς"
+  },
+  "title": {
+    "english": "Delian Antiquities and Customs",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Delian Antiquities and Customs by Semus Delos on Eulogikon",
+    "meta_title": "Delian Antiquities and Customs by Semus of Delos in Greek",
+    "meta_description": "Fragments of Semus of Delos on Delian antiquities customs. A grammatical antiquarian treatise. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Delian Antiquities and Customs</strong> is an antiquarian treatise attributed to the Hellenistic grammarian Semus of Delos. This work, now lost, was a detailed study of the rituals, customs, and religious antiquities of the sanctuary island of Delos. It survives only in fragments preserved through quotations by later authors, primarily the scholar Athenaeus and the lexicographer Hesychius of Alexandria. The extant passages reveal a work rich in descriptive detail, covering specific Delian religious rituals such as sacrifices, hymns, and processions. It also documented the functions of various cult officials, including the Hieropoioi, or sacred officials, and the Phyllophoroi, or leaf-bearers, while providing explanations for obscure ritual terminology and the mythological origins of local practices. As a specialist local history, or horography, Semus&#x27;s treatise served as an important source for later lexicographers and antiquarians. Its fragments, collected in modern editions such as Felix Jacoby&#x27;s <strong>Die Fragmente der griechischen Historiker</strong>, remain a valuable resource for understanding the intricate cultic life and religious administration of the major Panhellenic sanctuary at Delos.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-18a",
+      "text": "ΔΗΛΙΑΣ. E LIBRO PRIMO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Athenaeus XIV: Σῆμος δὲ ὁ Δήλιος ἐν πρώτῳ Δηλιάδος (sc. Φοίνικα τὸ ὄργανον κληθῆναί φησι) διὰ τὸ ἐκ τοῦ ἐν Δήλῳ φοίνικος τοὺς ἀγκῶνας αὐτοῦ ἐξεργάσασθαι. Harpocratio: Ἑκάτης νῆσος, Λυκοῦργος Κατὰ Μενεσαίχμου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Πρὸ τῆς Δήλου κεῖταί τι νησύδριον, ὅπερ ὑπ’ ἐνίων καλεῖται Ψαμμητίχη, ὡς Φανόδημος ἐν αʹ Δηλιακῶν. Ψαμμητίχην δὲ κεκλῆσθαί φησιν ὁ Σῆμος ἐν τῇ αʹ διὰ τὸ τοῖς ψαμμήτοις τιμᾶσθαι τὴν θεόν· ψάμμητα δ’ ἐστὶ ψαιστῶν τις ἰδέα. E LIBRO SECUNDO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Athenaeus XIV: Σῆμος ἐν δευτέρῳ Δηλιάδος «Ἐν τῇ τῆς Ἑκάτης (φησὶ) νήσῳ τῇ Ἴριδι θύουσι Δήλιοι τοὺς βασυνίας καλουμένους. Ἔστι δὲ ἑφθὸν πύρινον σταῖς σὺν μέλιτι, καὶ τὰ καλούμενα κόκκωρα, ἰσχὰς καὶ κάρυα τρία.» Idem III: Σῆμος δ’ ὁ Δήλιος ἐν δευτέρῳ Νησιάδος (scr.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Δηλιάδος) ἐν Κιμώλῳ τῇ νήσῳ φησὶ ψυχεῖα κατεσκευάσθαι θέρους ὀρυκτὰ, ἔνθα χλιεροῦ ὕδατος πλήρη κεράμια καταθέντες κομίζονται χιόνος οὐδὲν διάφορα. Idem VIII: Καὶ γὰρ ἐν Δήλῳ φησὶ Σῆμος ὁ Δήλιος ἐν δευτέρῳ Δηλιάδος, ὅταν θύωσι τῇ Βριζοῖ (αὕτη δέ ἐστιν ἡ ἐν ὕπνῳ μάντις· βρίζειν δὲ οἱ ἀρχαῖοι λέγουσι τὸ καθεύδειν· Ἔνθα δ’ ἀποβρίξαντες ἐμείναμεν Ἠῶ δῖαν)· ταύτῃ οὖν ὅταν θύωσιν αἱ Δηλιάδες, προσφέρουσιν αὐτῇ σκάψας, πάντων πλήρεις ἀγαθῶν, πλὴν ἰχθύων, διὰ τὸ εὔχεσθαι ταύτῃ περί τε [ἄλλων] πάντων καὶ ὑπὲρ τῆς τῶν πλοίων σωτηρίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "t5a-5c",
+      "text": "E LIBRO TERTIO. Photius Lex.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5a",
+      "text": ": Πράμνειος οἶνος· Σῆμος ὁ Δήλιος ἐν τρίτῳ ἐν ᾗ καὶ ὁ πράγμων (scr. ἐν Ἰκάρῳ Πράμνον) πέτραν εἶναι, ἀφ’ ἧς τὸν οἶνον εἶναι. Suidas: Πράμνιος οἶνος .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5b",
+      "text": ".. Σ. ὁ Δήλιος ἐν γʹ, ἐν Νικίᾳ (lege Ἰκάρῳ) Πράμνον πέτραν εἶναι, ἀφ’ ἧς τὸν οἶνον εἶναι. Athenaeus I: Εἶναι γὰρ ἐν Ἰκάρῳ φησὶ Σῆμος Πράμνον πέτραν, καὶ παρ’ αὐτῇ ὄρος μέγα, ἀφ’ οὗ τὸν Πράμνιον οἶνον, ὃν καὶ φαρμακίτην τινὰς καλεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "t6-7",
+      "text": "E LIBRO QUARTO. Athen.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "IV: Σῆμος δ’ ἐν τετάρτῳ Δηλιάδος «Δελφοῖς (φησὶ) παραγινομένοις εἰς Δῆλον παρεῖχον Δήλιοι ἅλας καὶ ὄξος καὶ ἔλαιον καὶ ξύλα καὶ στρώματα.» Id.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "XV: Πρῶτος ἐν τοῖς Ἕλλησι στέφανος ὠνομάσθη, ὥς φησι Σῆμος ὁ Δήλιος ἐν τετάρτῳ Δηλιάδος, τὸ παρὰ μὲν ἡμῖν στέφος, παρὰ δέ τισι στέμμα προσαγορευόμενον, διὸ καὶ τούτῳ πρώτῳ στεφανωσάμενοι δεύτερον περιτιθέμεθα τὸν δάφνινον. Κέκληται δὲ στέφανος ἀπὸ τοῦ στέφειν. E LIBRO QUINTO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "Idem XIV: Παρμενίσκος δὲ ὁ Μεταποντῖνος, ὥς φησι Σῆμος ἐν πέμπτῳ Δηλιάδος, καὶ γένει καὶ πλούτῳ πρωτεύων, εἰς Τροφωνίου καταβὰς, καὶ ἀνελθὼν οὐκ ἔτι γελᾶν ἐδύνατο. Καὶ χρηστηριαζομένῳ περὶ τούτου, ἡ Πυθία ἔφη· Εἴρῃ μ’ ἀμφὶ γέλωτος, ἀμείλιχε, μειλιχίοιο; Δώσει σοι μήτηρ οἴκῳ, τὴν ἔξοχα τῖε. Ἐλπίζων δ’, ἂν ἐπανέλθῃ εἰς τὴν πατρίδα, γελάσειν, ὡς οὐδὲν ἦν πλέον, οἰόμενος ἐξηπατῆσθαι, ἔρχεταί ποτε κατὰ τύχην εἰς Δῆλον· καὶ πάντα τὰ κατὰ τὴν νῆσον θαυμάζων ἦλθε καὶ εἰς τὸ Λητῷον, νομίζων τῆς Ἀπόλλωνος μητρὸς ἄγαλμά τι θεωρήσειν ἀξιόλογον· ἰδὼν δ’ αὐτὸ ξύλινον ἄμορφον παραδόξως ἐγέλασεν. Καὶ τὸν τοῦ θεοῦ χρησμὸν ξυμβαλὼν, καὶ τῆς ἀρρωστίας ἀπαλλαγεὶς, μεγαλωστὶ τὴν θεὸν ἐτίμησεν. Athen.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "XI: Σῆμος δ’ ἐν πέμπτῃ Δηλιάδος ἀνακεῖσθαί φησιν ἐν Δήλῳ χρυσῆν ἡδυποτίδα Ἐχενίκης ἐπιχωρίας γυναικὸς, ἧς μνημονεύει καὶ ἐν τῇ ὀγδόῃ. Idem XIV: Τὴν δὲ συναυλίαν τί ποτ’ ἐστὶν, ἐμφανίζει Σῆμος ὁ Δήλιος ἐν πέμπτῳ Δηλιάδος, γράφων οὕτως· «Ἀγνοουμένης δὲ παρὰ πολλοῖς τῆς συναυλίας, λεκτέον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "Ἦν τις ἀγὼν συμφωνίας ἀμοιβαῖος αὐλοῦ καὶ ῥυθμοῦ, χωρὶς λόγου τοῦ προσμελῳδοῦντος.» E LIBRO SEXTO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "Idem VII: Σῆμος δ’ ἐν ἕκτῳ Δηλιάδος· «Ἀθηναίοις (φησὶ) θυομένοις ἐν Δήλῳ τὴν χέρνιβα βάψας ὁ παῖς προσήνεγκε, κἀν τῇ φιάλῃ μετὰ τοῦ ὕδατος ἰχθῦς κατέχεεν. Εἰπεῖν οὖν αὐτοῖς τοὺς τῶν Δηλίων μάντεις, ὡς κυριεύσουσι τῆς θαλάσσης.» Etym.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12a",
+      "text": "M.: Βίβλινος οἶνος. Σίμος (l. Σῆμος) δὲ ἐν τῇ ἕκτῃ τῆς Ἰλιάδος (l. Δηλιάδος), ἐν Νάξῳ φησὶ ποταμὸν Βιβλίνην, ἀφ’ οὗ καλοῦσιν οἶνον Βίβλινον, διὰ τὰς πεφυκυίας ἀμπέλους. Διὰ δὲ τοῦ μ γράφουσι τὸν ποταμὸν, Βιμβλίνην· καὶ τὸν Νάξιον οἶνον διὰ τοῦ μ , Βίμβλινον. Stephan.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12b",
+      "text": "B.: Βιβλίνη, χώρα Θρᾴκης· ἀπὸ ταύτης ὁ Βίβλινος οἶνος· οἱ δέ ἀπὸ Βιβλίας ἀμπέλου. Δῆμος (l. Σῆμος) δ’ ὁ Δήλιος τὸν Νάξιόν φησιν, ἐπειδὴ Νάξου ποταμὸς Βίβλος. E LIBRO OCTAVO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13",
+      "text": "Athenaeus III: Ἀχαΐνας. Τούτου τοῦ ἄρτου μνημονεύει Σῆμος ἐν ὀγδόῳ Δηλιάδος, λέγων ταῖς θεσμοφόροις γίνεσθαι. Εἰσὶ δὲ ἄρτοι μεγάλοι, καὶ ἑορτὴ καλεῖται Μεγαλάρτια, ἐπιλεγόντων τῶν φερόντων· «Ἀχαΐνην στέατος ἔμπλεων τράγον,» E LIBRIS INCERTIS.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14",
+      "text": "Steph. Byz.: Τέγυρα, πόλις Βοιωτίας, ἐν ᾗ Ἀπόλλωνά φασι γεννηθῆναι. Σῆμος δ’ ὁ Δήλιος· «Τὴν Ἀπόλλωνος γένεσιν οἱ μὲν ἐν Λυκίᾳ, οἱ δὲ ἐν Δήλῳ, οἱ δ’ ἐν Ζωστῆρι τῆς Ἀττικῆς, οἱ δ’ ἐν Τεγύρᾳ τῆς Βοιωτίας φασίν· ὅθεν καὶ Τεγυρήϊος Ἀπόλλων.» Καλλισθένης ἐν τρίτῳ τῶν Ἑλληνικῶν (fr. 3) κτλ. Athenaeus II: Σῆμος δ’ ὁ Δήλιός φησι· «Τρίπους χαλκοῦς, οὐχ ὁ Πυθικὸς, ἀλλ’ ὃν νῦν λέβητα καλοῦσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "Οὗτοι δ’ ἦσαν οἱ δὲ λοετροχόοι, ἐν οἷς τὸ ὕδωρ ἐθέρμαινον, καὶ ἐμπυριβῆται. Καὶ τούτων ἔνιοι ὠτώεντες, τρίποδα δὲ τὴν ὑπόβασιν ἔχοντες, τρίποδες ὠνομάζοντο.» Idem XI: Ἐκαλεῖτο δέ τις καὶ βαλανωτὴ φιάλη, ἧς τῷ πυθμένι χρυσοῖ ὑπέκειντο ἀστράγαλοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16",
+      "text": "Σῆμος δὲ ἐν Δήλῳ ἀνακεῖσθαί φησι χαλκοῦν φοίνικα, Ναξίων ἀνάθημα, καὶ καρυωτὰς φιάλας χρυσᾶς. Idem: Οἶδα δὲ καὶ Κίναρον καλουμένην νῆσον, ἧς μνημονεύει Σῆμος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18",
+      "text": "Schol. Apoll. Rh. I, 1304: Ὅτι Ἡρακλῆς ἀνεῖλε τοὺς Βορεάδας, διὰ τὸ κωλῦσαι τὴν ναῦν ὑποστρέψαι πάλιν εἰς τὴν Μυσίαν, φησὶν Ἀπολλώνιος. Σῆμος δέ φησι, διὰ τὸ ληφθῆναι δρόμῳ τὸν Ἡρακλέα τῶν Βορεαδῶν. Στησίμβροτος δὲ κτλ. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18a",
+      "text": "in Hom. Odyss. μ, 124: Κράταιϊν (praestat Κραταιῒν) Σχῆμός (l. Σῆμός Cramer.) φησιν Ἑκάτης καὶ Τρίτωνος, Κραταιϊ ἡ τας δὲ (l. Κραταιΐδος δὲ) καὶ Δείμου Σκύλλαν. Στησίχορος Λάμιαν φησὶ τῆς Σκύλλης μητέρα. ΠΕΡΙ ΠΑΙΑΝΩΝ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19",
+      "text": "Athenaeus XIV: Σῆμος δ’ ὁ Δήλιος ἐν τῷ Περὶ παιάνων φησί· «Τὰ δράγματα τῶν κριθῶν αὐτὰ καθ’ αὑτὰ προσηγόρευον ἀμάλας· συναθροισθέντα δὲ καὶ ἐκ πολλῶν μίαν γενόμενα δέσμην οὔλους καὶ ἰούλους· καὶ τὴν Δήμητρα ὁτὲ μὲν Χλόην, ὁτὲ δὲ Ἰουλώ. Ἀπὸ τῶν οὖν τῆς Δήμητρος εὑρημάτων τούς τε καρποὺς καὶ τοὺς ὕμνους, τοὺς εἰς τὴν θεὸν, οὔλους καλοῦσι, καὶ ἰούλους. Δημήτρουλοι καὶ καλλίουλοι. Καὶ Πλεῖστον οὖλον οὖλον ἵει, ἴουλον ἵει. Ἄλλοι δέ φασιν ἐριουργῶν εἶναι τὴν ᾠδήν. Αἱ δὲ τῶν τιτθευουσῶν ᾠδαὶ καταβαυκαλήσεις ὀνομάζονται.» Athen.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20",
+      "text": "XIV: Σῆμος δ’ ὁ Δήλιος ἐν τῷ Περὶ παιάνων «Οἱ αὐτοκάβδαλοι (φησὶ) καλούμενοι ἐστεφανωμένοι κιττῷ σχέδην ἐπέραινον ῥήσεις. Ὕστερον δὲ ἴαμβοι ὠνομάσθησαν αὐτοί τε καὶ τὰ ποιήματα αὐτῶν. Οἱ δὲ ἰθύφαλλοι (φησὶ) καλούμενοι προσωπεῖον μεθυόντων ἔχουσι, καὶ ἐστεφάνωνται, χειρῖδας ἀνθινὰς ἔχοντες· χιτῶσι δὲ χρῶνται μεσολεύκοις, καὶ περιέζωνται ταραντῖνον, καλύπτον αὐτοὺς μέχρι τῶν σφυρῶν. Σιγῇ δὲ διὰ τοῦ πυλῶνος εἰσελθόντες, ὅταν κατὰ μέσην τὴν ὀρχήστραν γένωνται, ἐπιστρέφουσιν εἰς τὸ θέατρον, λέγοντες· Ἀνάγετ’, εὐρυχωρίαν τῷ θεῷ ποιεῖτε. Ἐθέλει γὰρ ὁ θεὸς ὀρθὸς ἐσφυρωμένος διὰ μέσου βαδίζειν. Οἱ δὲ φαλλοφόροι (φησὶ) προσωπεῖον μὲν οὐ λαμβάνουσι, προπόλιον δὲ ἐξ ἑρπύλλου περιτιθέμενοι, καὶ παιδέρωτας ἐπάνω τούτου ἐπιτίθενται, στέφανόν τε δασὺν ἴων καὶ κιττοῦ· αὔνακάς τε περιβεβλημένοι παρέρχονται, οἱ μὲν ἐκ παρόδου, οἱ δὲ κατὰ μέσας τὰς θύρας βαίνοντες ἐν ῥυθμῷ, καὶ λέγοντες· Σοὶ, Βάκχε, τάνδε μοῦσαν ἀγλαΐζομεν, ἁπλοῦν ῥυθμὸν χέοντες αἰόλῳ μέλει, καινὰν, ἀπαρθένευτον, οὔ τι ταῖς πάρος κεχρημέναν ᾠδαῖσιν, ἀλλ’ ἀκήρατον κατάρχομεν τὸν ὕμνον. Εἶτα προστρέχοντες ἐτώθαζον, οὓς ἂν προέλοιντο, στάδην δὲ ἔπραττον· ὁ δὲ φαλλοφόρος ἰθὺ βαδίζων καταπλησθεὶς αἰθάλῳ.»",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "kau-ab",
+      "title": {
+        "english": "Argonautic Genealogical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dionysius-of-mytilene-argonautica-kau-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-mytilene/argonautica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-mytilene-argonautica-kau-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-mytilene-argonautica-kau-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-mytilene-argonautica-kau-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-mytilene-argonautica-kau-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-mytilene/argonautica.epub"
+      }
+    },
+    {
+      "eul_wid": "mlw-ae",
+      "title": {
+        "english": "Later Scholia on Acharnians",
+        "ancient_greek": "Σχόλια εἰς Ἀχαρνῆς"
+      },
+      "url_slug": "aristophanes-scholia-acharnians-ae-mlw-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/acharnians-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-acharnians-ae-mlw-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-acharnians-ae-mlw-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-acharnians-ae-mlw-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-acharnians-ae-mlw-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/acharnians-ae.epub"
+      }
+    },
+    {
+      "eul_wid": "voa-aa",
+      "title": {
+        "english": "Lexicon of the Art of Grammar",
+        "ancient_greek": "Λεξικὸν τῆς Γραμματικῆς Τέχνης"
+      },
+      "url_slug": "lexicon-of-grammar-anonymous-art-voa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lexicon-of-grammar-anonymous/art",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicon-of-grammar-anonymous-art-voa-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicon-of-grammar-anonymous-art-voa-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicon-of-grammar-anonymous-art-voa-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicon-of-grammar-anonymous-art-voa-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicon-of-grammar-anonymous/art.epub"
+      }
+    },
+    {
+      "eul_wid": "qnq-bc",
+      "title": {
+        "english": "On Conjugations",
+        "ancient_greek": "Περὶ συζυγιῶν"
+      },
+      "url_slug": "herodian-of-alexandria-conjugations-qnq-bc",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/conjugations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-conjugations-qnq-bc.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-conjugations-qnq-bc.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-conjugations-qnq-bc.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-conjugations-qnq-bc.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/conjugations.epub"
+      }
+    },
+    {
+      "eul_wid": "mia-aa",
+      "title": {
+        "english": "On Signs in the Odyssey",
+        "ancient_greek": "Περὶ Σημίων Ὀδυσσείας"
+      },
+      "url_slug": "aristonicus-of-alexandria-signs-odyssey-mia-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristonicus-of-alexandria/signs-odyssey",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria-signs-odyssey-mia-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria-signs-odyssey-mia-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria-signs-odyssey-mia-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria-signs-odyssey-mia-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria/signs-odyssey.epub"
+      }
+    },
+    {
+      "eul_wid": "tro-ai",
+      "title": {
+        "english": "Scholia on Aeschylus (Prometheus and Other Plays)",
+        "ancient_greek": "Σχόλια εἰς Αἰσχύλον"
+      },
+      "url_slug": "aeschylus-scholia-text-ai-tro-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/text-ai",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-text-ai-tro-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-text-ai-tro-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-text-ai-tro-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-text-ai-tro-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/text-ai.epub"
+      }
+    },
+    {
+      "eul_wid": "tii-ac",
+      "title": {
+        "english": "Scholia-Euclid's Phenomena",
+        "ancient_greek": "Σχόλια εἰς Εὐκλείδου Φαινόμενα"
+      },
+      "url_slug": "thucydides-scholia-euclid-phenomena-tii-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/thucydides-scholia/euclid-phenomena",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-scholia-euclid-phenomena-tii-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-scholia-euclid-phenomena-tii-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-scholia-euclid-phenomena-tii-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-scholia-euclid-phenomena-tii-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-scholia/euclid-phenomena.epub"
+      }
+    },
+    {
+      "eul_wid": "cto-ac",
+      "title": {
+        "english": "Scholia-Euripides' Phoenissae",
+        "ancient_greek": "Σχόλια εἰς Εὐριπίδου Φοίνισσας"
+      },
+      "url_slug": "xenophon-scholia-phoenissae-cto-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-scholia/phoenissae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-phoenissae-cto-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-phoenissae-cto-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-phoenissae-cto-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-phoenissae-cto-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/phoenissae.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/semus-of-delos/antiquities-customs",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semus-of-delos-antiquities-customs-jlk-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semus-of-delos-antiquities-customs-jlk-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semus-of-delos-antiquities-customs-jlk-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semus-of-delos-antiquities-customs-jlk-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semus-of-delos/antiquities-customs.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

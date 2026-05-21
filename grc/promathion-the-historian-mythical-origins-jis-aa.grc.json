@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "jis-aa",
+  "eul_aid": "jis",
+  "author_slug": "promathion-the-historian",
+  "work_slug": "mythical-origins",
+  "url_slug": "promathion-the-historian-mythical-origins-jis-aa",
+  "author": {
+    "english": "Promathion the Historian",
+    "ancient_greek": "Προμαθίων ὁ ἱστορικός"
+  },
+  "title": {
+    "english": "Fragments on Mythical Origins",
+    "ancient_greek": "Ἀποσπάσματα περὶ Μυθικῶν Ἀρχῶν"
+  },
+  "seo": {
+    "browser_title": "Fragments of Promathion the Historian on Eulogikon",
+    "meta_title": "Fragments by Promathion the Historian in Ancient Greek",
+    "meta_description": "Surviving fragments of Promathion the Historian concerning mythical origins and early traditions. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Mythical Origins</strong> by Promathion the Historian is a lost mythographic text known only from two later citations, belonging to the genre of Hellenistic mythography and local history. The two surviving fragments provide alternative Greek foundation myths for Italian sites. One, preserved by the Byzantine scholar John Tzetzes, details the origins of Praeneste, linking it to either Odysseus and Telemachus or the hero Caeculus. The other, cited by the Roman grammarian Servius, offers an etiology for Rome’s Palatine Hill, deriving its name from a legendary Arcadian king, Pallas. The work survives exclusively through this indirect transmission in much later commentaries, with no independent manuscript tradition. Promathion’s fragments exemplify the Hellenistic practice of syncretism, grafting Greek heroic genealogy onto Italian geography. While obscure, his work served as a minor source for later scholars, with Servius ensuring its entry into the Western antiquarian tradition. It represents a typical thread of mythographic writing that informed Roman and later understandings of mythical prehistory.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t1",
+      "text": "ΙΣΤΟΡΙΑ ΙΤΑΛΙΚΗ. Plutarch.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Rom. c. 27: Οἱ δὲ μυθώδη παντάπασι περὶ τῆς γενέσεως διεξίασι. Ταρχετίῳ γὰρ Ἀλβανῶν βασιλεῖ παρανομωτάτῳ καὶ ὠμοτάτῳ φάσμα δαιμόνιον οἴκοι γενέσθαι· φαλλὸν γὰρ ἐκ τῆς ἑστίας ἀνασχεῖν, καὶ διαμένειν ἐπὶ πολλὰς ἡμέρας· εἶναι δὲ Τηθύος ἐν Τυρρηνίᾳ χρηστήριον, ἀφ’ οὗ κομισθῆναι τῷ Ταρχετίῳ χρησμὸν, ὥστε συμμῖξαι τῷ φάσματι παρθένον· ἔσεσθαι γὰρ ἐξ αὐτῆς παῖδα κλεινότατον, ἀρετῇ καὶ τύχῃ καὶ ῥώμῃ διαφέροντα. Φράσαντος οὖν τὸ μάντευμα τοῦ Ταρχετίου μιᾷ τῶν θυγατέρων, καὶ συγγενέσθαι τῷ φαλλῷ προστάξαντος, αὐτὴν μὲν ἀπαξιῶσαι, θεράπαιναν δὲ εἰσπέμψαι. Τὸν δὲ Ταρχέτιον, ὡς ἔγνω, χαλεπῶς φέροντα, συλλαβεῖν μὲν ἀμφοτέρας ἐπὶ θανάτῳ· τὴν δ’ Ἑστίαν ἰδόντα κατὰ τοὺς ὕπνους ἀπαγορεύουσαν αὐτῷ τὸν φόνον, ἱστόν τινα παρεγγυῆσαι ταῖς κόραις ὑφαίνειν δεδεμέναις, ὡς ὅταν ἐξυφήνωσι, τότε δοθησομένας πρὸς γάμον. Ἐκείνας μὲν οὖν δι’ ἡμέρας ὑφαίνειν, ἑτέρας δὲ νύκτωρ, τοῦ Ταρχετίου κελεύοντος, ἀναλύειν τὸν ἱστόν. Ἐκ δὲ τοῦ φαλλοῦ τῆς θεραπαινίδος τεκούσης δίδυμα, δοῦναι τινὶ Τερατίῳ τὸν Ταρχέτιον ἀνελεῖν κελεύσαντα. Τὸν δὲ θεῖναι φέροντα τοῦ ποταμοῦ πλησίον· εἶτα λύκαιναν μὲν ἐπιφοιτᾶν μαστὸν διδοῦσαν, ὄρνιθας δὲ παντοδαποὺς, ψωμίσματα κομίζοντας, ἐντιθέναι τοῖς βρέφεσιν· ἄχρις οὗ βουκόλον ἰδόντα καὶ θαυμάσαντα, τολμῆσαι προσελθεῖν, καὶ ἀνελέσθαι τὰ παιδία. Τοιαύτης δὲ τῆς σωτηρίας αὐτοῖς γενομένης, ἐκτραφέντας ἐπιθέσθαι τῷ Ταρχετίῳ καὶ κρατῆσαι. Ταῦτα μὲν οὖν Προμαθίων τις ἱστορίαν Ἰταλικὴν συντεταγμένος εἴρηκε.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "mmg-ap",
+      "title": {
+        "english": "Chronicle of Archons",
+        "ancient_greek": "Χρονικὴ Ἀρχόντων"
+      },
+      "url_slug": "historical-fragments-anonymous-chronicle-mmg-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/chronicle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-chronicle-mmg-ap.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-chronicle-mmg-ap.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-chronicle-mmg-ap.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-chronicle-mmg-ap.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/chronicle.epub"
+      }
+    },
+    {
+      "eul_wid": "jry-aa",
+      "title": {
+        "english": "Fragments on Delian Legends",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Δηλίων Μύθων"
+      },
+      "url_slug": "phanodicus-delian-legends-jry-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/phanodicus/delian-legends",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanodicus-delian-legends-jry-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanodicus-delian-legends-jry-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanodicus-delian-legends-jry-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanodicus-delian-legends-jry-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanodicus/delian-legends.epub"
+      }
+    },
+    {
+      "eul_wid": "hwq-ab",
+      "title": {
+        "english": "Geographical Fragments on Sicily",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σικελίας"
+      },
+      "url_slug": "philostephanus-of-cyrene-sicily-hwq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/philostephanus-of-cyrene/sicily",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene-sicily-hwq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene-sicily-hwq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene-sicily-hwq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene-sicily-hwq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene/sicily.epub"
+      }
+    },
+    {
+      "eul_wid": "pdc-al",
+      "title": {
+        "english": "Hannibalic",
+        "ancient_greek": "Ἀννιβαϊκή"
+      },
+      "url_slug": "appian-of-alexandria-hannibalic-pdc-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/hannibalic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-hannibalic-pdc-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-hannibalic-pdc-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-hannibalic-pdc-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-hannibalic-pdc-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/hannibalic.epub"
+      }
+    },
+    {
+      "eul_wid": "ndy-ac",
+      "title": {
+        "english": "Lysias the Syracusan by Descent",
+        "ancient_greek": "Λυσίας συρακούσιος πατρόθεν"
+      },
+      "url_slug": "dionysius-of-halicarnassus-lysias-syracusan-ndy-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/lysias-syracusan",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-lysias-syracusan-ndy-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-lysias-syracusan-ndy-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-lysias-syracusan-ndy-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-lysias-syracusan-ndy-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/lysias-syracusan.epub"
+      }
+    },
+    {
+      "eul_wid": "iqq-aa",
+      "title": {
+        "english": "On Alexandria and Its Monuments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "callixenus-of-rhodes-alexandria-monuments-iqq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/callixenus-of-rhodes/alexandria-monuments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callixenus-of-rhodes-alexandria-monuments-iqq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callixenus-of-rhodes-alexandria-monuments-iqq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callixenus-of-rhodes-alexandria-monuments-iqq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callixenus-of-rhodes-alexandria-monuments-iqq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callixenus-of-rhodes/alexandria-monuments.epub"
+      }
+    },
+    {
+      "eul_wid": "tzg-aa",
+      "title": {
+        "english": "On the Fertility of Phrygia",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "metrophanes-historicus-fertility-phrygia-tzg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/metrophanes-historicus/fertility-phrygia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrophanes-historicus-fertility-phrygia-tzg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrophanes-historicus-fertility-phrygia-tzg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrophanes-historicus-fertility-phrygia-tzg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrophanes-historicus-fertility-phrygia-tzg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrophanes-historicus/fertility-phrygia.epub"
+      }
+    },
+    {
+      "eul_wid": "pdc-am",
+      "title": {
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
+      },
+      "url_slug": "appian-of-alexandria-testimony-pdc-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/testimony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-testimony-pdc-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-testimony-pdc-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-testimony-pdc-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-testimony-pdc-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/testimony.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/promathion-the-historian/mythical-origins",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/promathion-the-historian-mythical-origins-jis-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/promathion-the-historian-mythical-origins-jis-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/promathion-the-historian-mythical-origins-jis-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/promathion-the-historian-mythical-origins-jis-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/promathion-the-historian/mythical-origins.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

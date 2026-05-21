@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "fqe",
+  "auth_slug": "nausicrates-the-comic-poet",
+  "name": {
+    "english": "Nausicrates the Comic Poet",
+    "ancient_greek": "Ναυσικράτης ὁ κωμικός"
+  },
+  "seo_h1": "Fish, Sea, and Comedy in Nausicrates the Comic Poet",
+  "seo": {
+    "browser_title": "Nausicrates the Comic Poet on Eulogikon Greek Archive",
+    "meta_title": "Nausicrates Ancient Greek Comedy Works and Fragments",
+    "meta_description": "Nausicrates was a 4th century BCE Attic comic poet. Two surviving works are preserved as fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Nausicrates was an Athenian comic poet of the 4th century BCE, known only from limited testimonia. The Suda identifies him as an Athenian comic poet victorious at the City Dionysia, a fact corroborated by a damaged Athenian festival inscription. He was a contemporary of the comic poet Anaxandrides, placing his activity in the early to mid-4th century.</p>\n<p class=\"research-text\">Ancient sources credit Nausicrates with two comedies: The Ship-Captains and The Women of Phthia. Both plays are lost, surviving only as titles and a single one-line fragment from The Ship-Captains, which mentions a cake called a &quot;kribanites&quot;. The titles suggest possible maritime and mythological themes.</p>\n<p class=\"research-text\">Nausicrates represents the period of Middle Comedy, marked by mythological parody and stock characters. His victory at the City Dionysia confirms contemporary recognition, but the loss of his works prevents assessment of his specific stylistic contribution. He remains a documented figure mapping the landscape of 4th-century Athenian comedy.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "fqe-aa",
+      "title": {
+        "english": "Fragments on Fish and Sea Creatures",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἰχθύων καὶ Ἑρπετῶν θαλασσίων"
+      },
+      "url_slug": "nausicrates-the-comic-poet-fish-sea-creatures-fqe-aa",
+      "passages": 13,
+      "links": {
+        "html": "https://eulogikon.org/grc/nausicrates-the-comic-poet/fish-sea-creatures",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausicrates-the-comic-poet-fish-sea-creatures-fqe-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausicrates-the-comic-poet-fish-sea-creatures-fqe-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausicrates-the-comic-poet-fish-sea-creatures-fqe-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausicrates-the-comic-poet-fish-sea-creatures-fqe-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausicrates-the-comic-poet/fish-sea-creatures.epub"
+      }
+    },
+    {
+      "eul_wid": "fqe-ab",
+      "title": {
+        "english": "Fragments on Sea Creatures",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ἐνάλων Ζῴων"
+      },
+      "url_slug": "nausicrates-the-comic-poet-sea-creatures-fqe-ab",
+      "passages": 14,
+      "links": {
+        "html": "https://eulogikon.org/grc/nausicrates-the-comic-poet/sea-creatures",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausicrates-the-comic-poet-sea-creatures-fqe-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausicrates-the-comic-poet-sea-creatures-fqe-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausicrates-the-comic-poet-sea-creatures-fqe-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausicrates-the-comic-poet-sea-creatures-fqe-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausicrates-the-comic-poet/sea-creatures.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/nausicrates-the-comic-poet",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nausicrates-the-comic-poet-fqe.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nausicrates-the-comic-poet-fqe.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nausicrates-the-comic-poet-fqe.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nausicrates-the-comic-poet-fqe.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

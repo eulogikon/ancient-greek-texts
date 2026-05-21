@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "gpy",
+  "auth_slug": "euagon-the-historian",
+  "name": {
+    "english": "Euagon the Historian",
+    "ancient_greek": "Εὐάγων ὁ ἱστορικός"
+  },
+  "seo_h1": "Euagon the Historian on Samian Legends",
+  "seo": {
+    "browser_title": "Euagon the Historian on Eulogikon Greek Archive Collection",
+    "meta_title": "Euagon the Historian Ancient Greek Historical Works",
+    "meta_description": "Euagon was a 4th century BCE Attic historian. Fragments of his historical works are preserved. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Euagon was a 4th-century BCE historian from Samos. He is known only from a reference in Plutarch’s <strong>On the Malice of Herodotus</strong>, which identifies him as one of the early critics who accused Herodotus of bias and inaccuracy. No further biographical details survive.</p>\n<p class=\"research-text\">He is credited with a single, now-lost historical work. Its title is unknown, and its content is attested solely through Plutarch’s testimonium, which indicates it contained direct criticism of Herodotus’s <strong>Histories</strong>.</p>\n<p class=\"research-text\">Euagon’s significance rests entirely on his role as an early polemicist against Herodotus. His work represents a strand of Hellenistic historiography engaged in source criticism, challenging the authority of the foundational text of Greek history. His citation by Plutarch centuries later confirms his criticisms were noted within the ancient scholarly tradition.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "gpy-aa",
+      "title": {
+        "english": "Fragments on Samian Legends",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σαμίων Μύθων"
+      },
+      "url_slug": "euagon-the-historian-samian-legends-gpy-aa",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/euagon-the-historian/samian-legends",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euagon-the-historian-samian-legends-gpy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euagon-the-historian-samian-legends-gpy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euagon-the-historian-samian-legends-gpy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euagon-the-historian-samian-legends-gpy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euagon-the-historian/samian-legends.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/euagon-the-historian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/euagon-the-historian-gpy.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/euagon-the-historian-gpy.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/euagon-the-historian-gpy.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/euagon-the-historian-gpy.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

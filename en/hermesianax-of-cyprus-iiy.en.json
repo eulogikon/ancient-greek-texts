@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "iiy",
+  "auth_slug": "hermesianax-of-cyprus",
+  "name": {
+    "english": "Hermesianax of Cyprus",
+    "ancient_greek": "Ἑρμησιάναξ ὁ Κύπριος"
+  },
+  "seo_h1": "Phrygian History in the Fragments of Hermesianax of Cyprus",
+  "seo": {
+    "browser_title": "Hermesianax of Cyprus on Eulogikon Greek Archive Library",
+    "meta_title": "Hermesianax of Cyprus Ancient Greek Historical Works",
+    "meta_description": "Hermesianax of Cyprus was a Hellenistic historian. His surviving historical work is preserved in fragments. Free to read and download from the Greek library."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Hermesianax of Cyprus was a Hellenistic historian who lived in the 4th–3rd century BCE. He is known solely from a citation by Athenaeus of Naucratis, who identifies him as a Cypriot and references his historical work. No other biographical details survive.</p>\n<p class=\"research-text\">His only attested work is a lost historical text, which Athenaeus quotes for a reference to the poet Philoxenus of Cythera. Neither fragments nor a specific title are preserved.</p>\n<p class=\"research-text\">Hermesianax’s significance rests on his status as a fragmentary Hellenistic historian from Cyprus, illustrating the spread of Greek historical writing during the period. He exists within the tradition of lost authors whose works were utilized by later compilers like Athenaeus.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "iiy-aa",
+      "title": {
+        "english": "Phrygian Histories and Myths",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hermesianax-of-cyprus-histories-myths-iiy-aa",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/hermesianax-of-cyprus/histories-myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-cyprus-histories-myths-iiy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-cyprus-histories-myths-iiy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-cyprus-histories-myths-iiy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-cyprus-histories-myths-iiy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-cyprus/histories-myths.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/hermesianax-of-cyprus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermesianax-of-cyprus-iiy.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermesianax-of-cyprus-iiy.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermesianax-of-cyprus-iiy.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermesianax-of-cyprus-iiy.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

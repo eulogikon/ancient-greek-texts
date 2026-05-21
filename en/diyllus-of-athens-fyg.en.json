@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "fyg",
+  "auth_slug": "diyllus-of-athens",
+  "name": {
+    "english": "Diyllus of Athens",
+    "ancient_greek": "Δίυλλος ὁ Ἀθηναῖος"
+  },
+  "seo_h1": "Diyllus of Athens and the Historical Fragments",
+  "seo": {
+    "browser_title": "Diyllus of Athens on Eulogikon Greek Archive and Library",
+    "meta_title": "Classical Diyllus of Athens Ancient Greek Historical Works",
+    "meta_description": "Diyllus of Athens was a classical historian of the 4th century BCE. His historical works survive in fragments. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Diyllus of Athens was an Athenian historian active in the late fourth and early third centuries BCE. He is known only from later citations, primarily by Diodorus Siculus and Dionysius of Halicarnassus. Diyllus was the son of the Atthidographer Phanodemus, placing him within a tradition of Athenian historical writing. His lifetime is deduced from his work’s coverage, which extended to the death of Cassander in 297 BCE.</p>\n<p class=\"research-text\">His sole known work is a universal history titled Historiai, which is now lost and survives only in fragments. According to Diodorus Siculus, it comprised 26 books, beginning where Ephorus’s history ended around 341 or 340 BCE and continuing until 297 BCE. Dionysius of Halicarnassus notes its broad scope, covering the deeds of both Greeks and barbarians.</p>\n<p class=\"research-text\">Diyllus is a minor but significant figure as a historiographical source, providing a narrative bridge between Ephorus and later Hellenistic history. His work covered the rise of Macedon and the Wars of the Diadochi, serving as an important source for Diodorus Siculus’s account of the Successor wars. He represents an Athenian historian who adopted a universal perspective while continuing a family tradition of local historiography.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "fyg-aa",
+      "title": {
+        "english": "Historical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "diyllus-of-athens-historical-fragments-fyg-aa",
+      "passages": 8,
+      "links": {
+        "html": "https://eulogikon.org/grc/diyllus-of-athens/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diyllus-of-athens-historical-fragments-fyg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diyllus-of-athens-historical-fragments-fyg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diyllus-of-athens-historical-fragments-fyg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diyllus-of-athens-historical-fragments-fyg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diyllus-of-athens/historical-fragments.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/diyllus-of-athens",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diyllus-of-athens-fyg.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diyllus-of-athens-fyg.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diyllus-of-athens-fyg.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diyllus-of-athens-fyg.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

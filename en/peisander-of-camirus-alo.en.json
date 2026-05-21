@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "alo",
+  "auth_slug": "peisander-of-camirus",
+  "name": {
+    "english": "Peisander of Camirus",
+    "ancient_greek": "Πείσανδρος ὁ Καμείριος"
+  },
+  "seo_h1": "Peisander of Camirus and the Heracles Epic",
+  "seo": {
+    "browser_title": "Peisander of Camirus on Eulogikon Greek Text Archive",
+    "meta_title": "The Peisander of Camirus Ancient Greek Epic Poetry",
+    "meta_description": "Peisander of Camirus, an Archaic epic poet from Rhodes. Two surviving works are attributed to him. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Peisander of Camirus was an epic poet from the Greek island of Rhodes, active during the Archaic period in the 7th century BCE. He worked within the tradition of Homeric epic poetry. His historical importance stems from his role in organizing the mythology of the hero Heracles.</p>\n<p class=\"research-text\">He is credited with composing the Heraclea, a two-book epic poem that was the first to compile the hero&#x27;s famous adventures into a single narrative. According to modern scholars, a key contribution of this lost work was establishing the canonical set of Twelve Labors, bringing order to stories that were previously scattered across local traditions. This poem became a foundational reference for how Heracles was portrayed in later Greek literature and myth.</p>\n<p class=\"research-text\">A second poem, the Capture of Oechalia, is sometimes attributed to him, but this attribution is uncertain and may refer to a different author. None of Peisander&#x27;s own verses survive today; our knowledge comes from fragments and references in later ancient writers. Despite the loss of his work, his influence is noted as that of a systematizer who helped shape one of the central hero myths of ancient Greece.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "alo-ab",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "peisander-of-camirus-epigram-alo-ab",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/peisander-of-camirus/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus-epigram-alo-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus-epigram-alo-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus-epigram-alo-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus-epigram-alo-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus/epigram.epub"
+      }
+    },
+    {
+      "eul_wid": "alo-aa",
+      "title": {
+        "english": "Fragments of Heraclea",
+        "ancient_greek": "Ἀποσπάσματα Ἡρακλείας"
+      },
+      "url_slug": "peisander-of-camirus-fragments-heraclea-alo-aa",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/peisander-of-camirus/fragments-heraclea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus-fragments-heraclea-alo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus-fragments-heraclea-alo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus-fragments-heraclea-alo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus-fragments-heraclea-alo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus/fragments-heraclea.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/peisander-of-camirus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/peisander-of-camirus-alo.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/peisander-of-camirus-alo.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/peisander-of-camirus-alo.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/peisander-of-camirus-alo.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

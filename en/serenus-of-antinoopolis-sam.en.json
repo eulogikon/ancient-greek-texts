@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "sam",
+  "auth_slug": "serenus-of-antinoopolis",
+  "name": {
+    "english": "Serenus of Antinoöpolis",
+    "ancient_greek": "Σερῆνος ὁ Ἀντινόου"
+  },
+  "seo_h1": "Conic and Cylindric Sections in the Work of Serenus of Antinoöpolis",
+  "seo": {
+    "browser_title": "Serenus of Antinoöpolis on Eulogikon Greek Archive",
+    "meta_title": "Classical Serenus of Antinoöpolis Ancient Greek Mathematics",
+    "meta_description": "Serenus of Antinoöpolis, 4th century CE mathematician from Roman Egypt. Two works on conic sections. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Μαθηματικά",
+      "english": "Mathematics",
+      "href": "/domains/mathematics"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Serenus of Antinoöpolis was a Greek mathematician active in the 4th century CE, during the later period of the Roman Empire. He came from the Egyptian city of Antinoöpolis. Beyond this location and his approximate time period, no details of his personal life are known.</p>\n<p class=\"research-text\">He is known for two surviving technical treatises written in Greek: <strong>On the Section of a Cylinder</strong> and <strong>On the Section of a Cone</strong>. These works study the shapes created when a plane cuts through a cylinder or a cone. In <strong>On the Section of a Cylinder</strong>, Serenus demonstrates that such a cut, if not parallel to the base, always produces an ellipse and explores its properties. <strong>On the Section of a Cone</strong> analyzes the conditions for producing different curves—like triangles, circles, ellipses, and hyperbolas—from such sections.</p>\n<p class=\"research-text\">According to modern scholars, Serenus&#x27;s primary significance lies in his role as a later preserver and transmitter of the classical Greek geometric tradition, particularly following the work of Apollonius of Perga. While not introducing major new discoveries, his clear treatises show the continued advanced study of geometry into late antiquity. His works were later translated and published during the Renaissance, helping to revive interest in ancient mathematical knowledge.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "sam-ab",
+      "title": {
+        "english": "On the Section of a Cone",
+        "ancient_greek": "Περὶ Κώνου Τομῆς"
+      },
+      "url_slug": "serenus-of-antinoopolis-section-cone-sam-ab",
+      "passages": 92,
+      "links": {
+        "html": "https://eulogikon.org/grc/serenus-of-antinoopolis/section-cone",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/serenus-of-antinoopolis-section-cone-sam-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/serenus-of-antinoopolis-section-cone-sam-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/serenus-of-antinoopolis-section-cone-sam-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/serenus-of-antinoopolis-section-cone-sam-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/serenus-of-antinoopolis/section-cone.epub"
+      }
+    },
+    {
+      "eul_wid": "sam-aa",
+      "title": {
+        "english": "On the Section of a Cylinder",
+        "ancient_greek": "Περὶ Κυλίνδρου Τομῆς"
+      },
+      "url_slug": "serenus-of-antinoopolis-section-cylinder-sam-aa",
+      "passages": 58,
+      "links": {
+        "html": "https://eulogikon.org/grc/serenus-of-antinoopolis/section-cylinder",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/serenus-of-antinoopolis-section-cylinder-sam-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/serenus-of-antinoopolis-section-cylinder-sam-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/serenus-of-antinoopolis-section-cylinder-sam-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/serenus-of-antinoopolis-section-cylinder-sam-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/serenus-of-antinoopolis/section-cylinder.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/serenus-of-antinoopolis",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/serenus-of-antinoopolis-sam.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/serenus-of-antinoopolis-sam.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/serenus-of-antinoopolis-sam.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/serenus-of-antinoopolis-sam.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

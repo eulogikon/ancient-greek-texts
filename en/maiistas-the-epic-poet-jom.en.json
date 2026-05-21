@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "jom",
+  "auth_slug": "maiistas-the-epic-poet",
+  "name": {
+    "english": "Maiistas the Epic Poet",
+    "ancient_greek": "Μαϊΐστας ὁ ἐποποιός"
+  },
+  "seo_h1": "Maiistas the Epic Poet and the Aretalogy of Ptolemy IV",
+  "seo": {
+    "browser_title": "Maiistas the Epic Poet on Eulogikon Greek Text Archive",
+    "meta_title": "Maiistas Ancient Greek Epic Poetry and Surviving Works",
+    "meta_description": "Maiistas was a Hellenistic epic poet of the 3rd to 2nd century BCE. Surviving works include epic verse. Free to read and download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Maiastas was a Hellenistic epic poet of the 3rd–2nd centuries BCE. No biographical details survive; he is known only as the author of a single commemorative poem.</p>\n<p class=\"research-text\">His sole known work is the epic <strong>Ammon</strong> (or <strong>Ammonias</strong>), composed to celebrate Ptolemy IV Philopator’s victory over Antiochus III at the Battle of Raphia in 217 BCE. Only one hexameter line survives. The poem’s narrative likely involved a consultation with the oracle of the Egyptian god Ammon, identified with Zeus.</p>\n<p class=\"research-text\">Maiastas exemplifies the continued production of historical epic in the Homeric style during the Hellenistic period. His work is a clear instance of court poetry designed to glorify a monarch’s military achievements and assert divine sanction, situated within the context of Ptolemaic-Seleucid rivalry. Its near-total loss highlights the fragmentary state of much Hellenistic literature.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "jom-aa",
+      "title": {
+        "english": "Aretalogy",
+        "ancient_greek": "Ἀρεταλογία"
+      },
+      "url_slug": "maiistas-the-epic-poet-aretalogy-jom-aa",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/maiistas-the-epic-poet/aretalogy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maiistas-the-epic-poet-aretalogy-jom-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maiistas-the-epic-poet-aretalogy-jom-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maiistas-the-epic-poet-aretalogy-jom-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maiistas-the-epic-poet-aretalogy-jom-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maiistas-the-epic-poet/aretalogy.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/maiistas-the-epic-poet",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/maiistas-the-epic-poet-jom.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/maiistas-the-epic-poet-jom.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/maiistas-the-epic-poet-jom.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/maiistas-the-epic-poet-jom.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

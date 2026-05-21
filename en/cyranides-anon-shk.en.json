@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "shk",
+  "auth_slug": "cyranides-anon",
+  "name": {
+    "english": "Cyranides  Anonymous",
+    "ancient_greek": "Ἀνώνυμος Κυρανίδες"
+  },
+  "seo_h1": "Cyranides and the Anonymous Late Antique Compilation",
+  "seo": {
+    "browser_title": "Cyranides Anonymous Author on Eulogikon Greek Archive",
+    "meta_title": "Classical Cyranides Anonymous Ancient Greek Treatise Works",
+    "meta_description": "Cyranides Anonymous, author of a late antique Greek treatise on magical and medicinal properties. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Cyranides is an anonymous Greek compilation from the 4th century CE. Nothing is known of its actual compiler, as the traditional attribution to a mythical Persian king, Kyranos, is pseudepigraphic. The text is a composite work that synthesizes material from Hellenistic and earlier sources within a syncretic milieu of Greek, Egyptian, and Near Eastern knowledge.</p>\n<p class=\"research-text\">The single extant work is the Cyranides, a treatise cataloging the magical and medicinal properties of animals, plants, and stones. It functions as both a lapidary and a herbal, surviving in multiple Greek manuscript versions and later Latin translations.</p>\n<p class=\"research-text\">The Cyranides is a crucial source for ancient magic, medicine, and natural philosophy, exemplifying a practical handbook of materia medica and sympathetic magic. Its enduring influence through the Byzantine and medieval periods illustrates the transmission and blending of Hellenistic scientific ideas with occult and folk traditions in late antiquity.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "shk-aa",
+      "title": {
+        "english": "Cyranides",
+        "ancient_greek": "Κυρανίδες"
+      },
+      "url_slug": "cyranides-anon-text-shk-aa",
+      "passages": 259,
+      "links": {
+        "html": "https://eulogikon.org/grc/cyranides-anon/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyranides-anon-text-shk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyranides-anon-text-shk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyranides-anon-text-shk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyranides-anon-text-shk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyranides-anon/text.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/cyranides-anon",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cyranides-anon-shk.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cyranides-anon-shk.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cyranides-anon-shk.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cyranides-anon-shk.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

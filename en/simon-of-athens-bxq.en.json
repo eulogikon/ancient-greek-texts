@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "bxq",
+  "auth_slug": "simon-of-athens",
+  "name": {
+    "english": "Simon of Athens",
+    "ancient_greek": "Σίμων ὁ Ἀθηναῖος"
+  },
+  "seo_h1": "Simon of Athens on the Form and Selection of Horses",
+  "seo": {
+    "browser_title": "Simon of Athens on Eulogikon Greek Archive and Library",
+    "meta_title": "Classical Simon of Athens Ancient Greek Philosophical Works",
+    "meta_description": "Simon of Athens, a 5th century BCE shoemaker and Socratic associate. Two surviving philosophical texts. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Simon of Athens was a shoemaker and leather-worker who lived in Athens during the 5th century BCE. He was a contemporary and associate of the philosopher Socrates. According to ancient sources, his workshop near the Athenian Agora served as a meeting place where Socrates would engage in philosophical discussions.</p>\n<p class=\"research-text\">He is historically significant because he is recorded as the first person to write philosophical works in the style known as Socratic dialogues, which present philosophy as dramatic conversations. His writings, however, have not survived. Ancient testimony, primarily from the biographer Diogenes Laertius, credits him with 33 dialogues on subjects like virtue, justice, and the good. The authenticity of all these works was disputed even in antiquity.</p>\n<p class=\"research-text\">Modern scholars see Simon as an important figure because his activity shows that the literary response to Socrates began immediately and came from outside the educated elite. He represents the broad, social impact of Socrates&#x27;s teachings. His lost dialogues would have offered a valuable early perspective on Socrates&#x27;s methods, preceding the more famous accounts by Plato and Xenophon.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "bxq-ab",
+      "title": {
+        "english": "Fragments on Hippiatric Medicine",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἱππιατρικῆς"
+      },
+      "url_slug": "simon-of-athens-hippiatric-fragments-bxq-ab",
+      "passages": 9,
+      "links": {
+        "html": "https://eulogikon.org/grc/simon-of-athens/hippiatric-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens-hippiatric-fragments-bxq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens-hippiatric-fragments-bxq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens-hippiatric-fragments-bxq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens-hippiatric-fragments-bxq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens/hippiatric-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "bxq-aa",
+      "title": {
+        "english": "On the Form and Selection of Horses",
+        "ancient_greek": "Περὶ Μορφῆς καὶ Ἐκλογῆς Ἵππων"
+      },
+      "url_slug": "simon-of-athens-horses-form-selection-bxq-aa",
+      "passages": 11,
+      "links": {
+        "html": "https://eulogikon.org/grc/simon-of-athens/horses-form-selection",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens-horses-form-selection-bxq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens-horses-form-selection-bxq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens-horses-form-selection-bxq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens-horses-form-selection-bxq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens/horses-form-selection.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/simon-of-athens",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/simon-of-athens-bxq.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/simon-of-athens-bxq.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/simon-of-athens-bxq.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/simon-of-athens-bxq.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

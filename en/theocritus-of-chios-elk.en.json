@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "elk",
+  "auth_slug": "theocritus-of-chios",
+  "name": {
+    "english": "Theocritus of Chios",
+    "ancient_greek": "Θεόκριτος ὁ Χῖος"
+  },
+  "seo_h1": "Theocritus of Chios Against Aristotle",
+  "seo": {
+    "browser_title": "Theocritus of Chios on Eulogikon Greek Text Archive",
+    "meta_title": "Classical Theocritus of Chios Ancient Greek Orations Works",
+    "meta_description": "Theocritus of Chios was a 4th century BCE orator. Two surviving orations are preserved. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Theocritus of Chios was a sophist and rhetorician of the 4th century BCE. A student of Metrodorus of Chios and possibly Isocrates, he was known as a sharp-tongued political critic. His opposition to Alexander the Great proved fatal. Following the destruction of Thebes in 335 BCE, he quipped that Alexander must have been &quot;badly advised by a Chian,&quot; a sarcastic reference to the historian Theopompus. This remark led Alexander to order his crucifixion. He was also exiled from Chios for opposing its tyrant and wrote a violent invective against Demosthenes. Another tradition attributes his execution to Antigonus I Monophthalmus due to the &quot;bitterness and freedom of his tongue.&quot;</p>\n<p class=\"research-text\">No works by Theocritus survive intact. Ancient sources credit him with an <strong>Invective against Demosthenes</strong> and various other lost rhetorical exercises or historical writings. His output belongs to early Hellenistic rhetoric and character writing.</p>\n<p class=\"research-text\">Theocritus represents the tradition of the outspoken intellectual who used rhetoric as a weapon against authority. His execution exemplifies the peril of free speech in the autocratic climate following the rise of Macedon. Preserved in anecdotes by Plutarch, Athenaeus, and Diogenes Laertius, he became a paradigm of caustic wit and political martyrdom in the early Hellenistic period.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "elk-ab",
+      "title": {
+        "english": "Epigram Against Aristotle",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "theocritus-of-chios-against-aristotle-elk-ab",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/theocritus-of-chios/against-aristotle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-chios-against-aristotle-elk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-chios-against-aristotle-elk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-chios-against-aristotle-elk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-chios-against-aristotle-elk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-chios/against-aristotle.epub"
+      }
+    },
+    {
+      "eul_wid": "elk-aa",
+      "title": {
+        "english": "Epitaph for Aristotele",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "theocritus-of-chios-epitaph-aristotele-elk-aa",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/theocritus-of-chios/epitaph-aristotele",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-chios-epitaph-aristotele-elk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-chios-epitaph-aristotele-elk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-chios-epitaph-aristotele-elk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-chios-epitaph-aristotele-elk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-chios/epitaph-aristotele.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/theocritus-of-chios",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theocritus-of-chios-elk.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theocritus-of-chios-elk.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theocritus-of-chios-elk.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theocritus-of-chios-elk.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

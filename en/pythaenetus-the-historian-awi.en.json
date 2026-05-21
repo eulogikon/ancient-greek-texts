@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "awi",
+  "auth_slug": "pythaenetus-the-historian",
+  "name": {
+    "english": "Pythaenetus the Historian",
+    "ancient_greek": "Πυθαίνετος ὁ ἱστορικός"
+  },
+  "seo_h1": "Pythaenetus on the History of Aegina",
+  "seo": {
+    "browser_title": "Pythaenetus the Historian on Eulogikon Greek Archive",
+    "meta_title": "Classical Pythaenetus the Historian Ancient Greek Works",
+    "meta_description": "Pythaenetus the Historian, a 5th-4th century BCE Greek historian. Surviving fragments of his works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Pythaenetus the Historian was an obscure Greek historian of the Classical period, active in the 5th or 4th century BCE. No biographical details concerning his origin, background, or associations survive.</p>\n<p class=\"research-text\">He is known only from a single fragment cited by Athenaeus of Naucratis in the <strong>Deipnosophistae</strong>. The specific title of his historical work is lost. Athenaeus preserves a brief note on a Lydian headdress, suggesting Pythaenetus’s work contained ethnographic or cultural details concerning Asia Minor.</p>\n<p class=\"research-text\">His significance lies in his preservation as a name within the fragmentary tradition of Greek historiography. His citation by Athenaeus places him among the many minor, specialized historians whose lost works were consulted by later scholars for antiquarian detail. The fragment provides a minor datum for Greek knowledge of Lydian material culture.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "awi-aa",
+      "title": {
+        "english": "Aeginetica: Fragments on Aegina",
+        "ancient_greek": "Ἀποσπάσματα περὶ Αἰγίνης"
+      },
+      "url_slug": "pythaenetus-the-historian-aegina-fragments-awi-aa",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/pythaenetus-the-historian/aegina-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythaenetus-the-historian-aegina-fragments-awi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythaenetus-the-historian-aegina-fragments-awi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythaenetus-the-historian-aegina-fragments-awi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythaenetus-the-historian-aegina-fragments-awi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythaenetus-the-historian/aegina-fragments.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/pythaenetus-the-historian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pythaenetus-the-historian-awi.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pythaenetus-the-historian-awi.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pythaenetus-the-historian-awi.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pythaenetus-the-historian-awi.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

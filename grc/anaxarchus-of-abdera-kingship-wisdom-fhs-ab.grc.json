@@ -1,0 +1,235 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "fhs-ab",
+  "eul_aid": "fhs",
+  "author_slug": "anaxarchus-of-abdera",
+  "work_slug": "kingship-wisdom",
+  "url_slug": "anaxarchus-of-abdera-kingship-wisdom-fhs-ab",
+  "author": {
+    "english": "Anaxarchus of Abdera",
+    "ancient_greek": "Ἀνάξαρχος ὁ Ἀβδηρίτης"
+  },
+  "title": {
+    "english": "On Kingship and Wisdom",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Philosophical Fragments by Anaxarchus of Abdera on Eulogikon",
+    "meta_title": "Fragments by Anaxarchus of Abdera in Ancient Greek",
+    "meta_description": "Philosophical fragments on kingship and wisdom attributed to Anaxarchus of Abdera. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (phi, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Democritean",
+      "href": "/affiliations/democritean"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On Kingship and Wisdom</strong> is a collection of philosophical fragments attributed to Anaxarchus of Abdera, a Greek philosopher of the late 4th century BCE. The work, which belongs to the domain of ethical and political philosophy, does not survive as a complete treatise but is reconstructed from quotations preserved by later authors such as Clement of Alexandria, Stobaeus, and Aelian. These fragments collectively explore the nature of true wisdom and its relationship to political power, particularly kingship.</p>\n<p class=\"research-text\">The central theme concerns the distinction between mere extensive learning and genuine understanding. The text argues that polymathy, or much learning, can be both a great benefit and a great harm; it aids the discerning individual but injures one who speaks thoughtlessly in any public forum. True wisdom is defined not by the volume of knowledge but by the critical ability to judge the right moment and measure in speech and action. A key passage asserts that those who speak skillfully but outside the proper occasion, even if their words are clever, are not counted as wise but are instead deemed responsible for their own folly. This ethical framework is applied to the context of rulership, with one fragment noting the difficulty of amassing wealth and the even greater challenge of providing for its security.</p>\n<p class=\"research-text\">The collection is best known for anecdotes concerning Anaxarchus&#x27;s association with Alexander the Great, whom he accompanied on his campaigns. While the direct narrative of these encounters is not contained in the extant Greek passages provided, the philosophical principles they embody clearly inform the famous tradition, recorded elsewhere, of Anaxarchus advising Alexander that a king could kill a wise man but could not truly harm him. The fragments thus present wisdom as an inner virtue and self-sufficiency that transcends external political fortune. These protreptic teachings, directed at an elite audience within the Hellenistic world, contributed to later philosophical developments, particularly influencing Stoic and Skeptical ideas concerning the sage&#x27;s independence and equanimity.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "tit",
+      "text": "ΑΝΑΞΑΡΧΟΥ ΠΕΡΙ ΒΑΣΙΛΕΙΑΣ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "CLEM. Str. I 36 [II 23, 22 St.] εὖ γοῦν καὶ Ἀ. ὁ Εὐδαιμονικὸς ἐν τῶι Περὶ βασιλείας γράφει· ‘ πολυμαθείη .. . δεξιὸν ὄντα .. . ὅρο ς . ὅσοι δὲ καὶ θύρηισιν ἀείδουσιν ἢ ἤν πηι πεπνυμένην ἀείδωσιν οὐ τιθέμενοι ἐν σοφίη ι , γνώμην δ ’ ἔχουσι μωρίησ ‘ . STOB. III (Flor.) 34, 19 H. Ἀναξάρχου· ‘ πολυμαθίη .. . δεξιὸν ἄνδρα .. . ὅρο ς . οἱ δὲ ἔξω καιροῦ ῥῆσιν μουσικὴν πεπνυμένως ἀείσουσι ν , οὐ παραδέχονται ἐν ἀργίηι γνώμην αἰτίην δ ’ ἔχουσι μωρίασ ‘. πολυμαθίη κάρτα μὲν ὠφελε ῖ , κάρτα δὲ βλάπτει τὸν ἔχοντ α · ὠφελεῖ μὲν τὸν δεξιὸν ἄνδρ α , βλάπτει δὲ τὸν ῥηϊδίως φωνεῦντα πᾶν ἔπος κἠν παντὶ δήμω ι . χρὴ δὲ καιροῦ μέτρα εἰδένα ι · σοφίης γὰρ οὗτος ὅρο ς . οἳ δὲ ἔξω καιροῦ ῥῆσιν ἀείδουσι ν , κἢν πεπνυμένην ἀείδωσι ν , οὐ τιθέμενοι ἐν σοφίηι γνώμην αἰτίην ἔχουσι μωρίη ς .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "AEL. V. Hist. IV 14 καὶ Ἀνάξαρχος ἐν τῶι Περὶ βασιλείας φησὶ χαλεπὸν χρήματα συναγείρασθαι, χαλεπώτερον δὲ φυλακὴν τούτοις περιθεῖναι.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "fhs-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "anaxarchus-of-abdera-testimonies-fhs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anaxarchus-of-abdera/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera-testimonies-fhs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera-testimonies-fhs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera-testimonies-fhs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera-testimonies-fhs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera/testimonies.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "jtm-ab",
+      "title": {
+        "english": "Fragments on Pythocles and Nature",
+        "ancient_greek": "Ἀποσπάσματα περὶ Πυθοκλέους καὶ Φύσεως"
+      },
+      "url_slug": "epicurean-anon-pythocles-nature-jtm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicurean-anon/pythocles-nature",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon-pythocles-nature-jtm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon-pythocles-nature-jtm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon-pythocles-nature-jtm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon-pythocles-nature-jtm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon/pythocles-nature.epub"
+      }
+    },
+    {
+      "eul_wid": "bgs-ae",
+      "title": {
+        "english": "Fragments on Sacred Doctrine",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἱερᾶς Διδασκαλίας"
+      },
+      "url_slug": "pythagoras-of-samos-sacred-doctrine-bgs-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/pythagoras-of-samos/sacred-doctrine",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-sacred-doctrine-bgs-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-sacred-doctrine-bgs-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-sacred-doctrine-bgs-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-sacred-doctrine-bgs-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos/sacred-doctrine.epub"
+      }
+    },
+    {
+      "eul_wid": "kve-aa",
+      "title": {
+        "english": "Fragments on Stoic Succession",
+        "ancient_greek": "Ἀποσπάσματα περὶ Διαδοχῆς Στωικῆς"
+      },
+      "url_slug": "zeno-of-tarsus-stoic-succession-kve-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/zeno-of-tarsus/stoic-succession",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-tarsus-stoic-succession-kve-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-tarsus-stoic-succession-kve-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-tarsus-stoic-succession-kve-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-tarsus-stoic-succession-kve-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-tarsus/stoic-succession.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-bj",
+      "title": {
+        "english": "Metaphysics",
+        "ancient_greek": "τὰ Μετὰ τὰ Φυσικά"
+      },
+      "url_slug": "aristotle-metaphysics-hgw-bj",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/metaphysics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-metaphysics-hgw-bj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-metaphysics-hgw-bj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-metaphysics-hgw-bj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-metaphysics-hgw-bj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/metaphysics.epub"
+      }
+    },
+    {
+      "eul_wid": "uzu-aa",
+      "title": {
+        "english": "On Aristotle's Four Books-the Heavens, Commentary",
+        "ancient_greek": "Περὶ τῶν Τεσσάρων Βιβλίων τοῦ Ἀριστοτέλους Περὶ"
+      },
+      "url_slug": "simplicius-of-cilicia-on-heavens-commentary-uzu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/simplicius-of-cilicia/on-heavens-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-on-heavens-commentary-uzu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-on-heavens-commentary-uzu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-on-heavens-commentary-uzu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-on-heavens-commentary-uzu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/on-heavens-commentary.epub"
+      }
+    },
+    {
+      "eul_wid": "lgi-aj",
+      "title": {
+        "english": "On the Life of Moses, Books I-II",
+        "ancient_greek": "Περὶ τοῦ Βίου Μωυσέως"
+      },
+      "url_slug": "philo-of-alexandria-life-of-moses-lgi-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria/life-of-moses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-life-of-moses-lgi-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-life-of-moses-lgi-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-life-of-moses-lgi-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-life-of-moses-lgi-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/life-of-moses.epub"
+      }
+    },
+    {
+      "eul_wid": "reo-ai",
+      "title": {
+        "english": "Problems, Books 3–4",
+        "ancient_greek": "Προβλήματα"
+      },
+      "url_slug": "alexander-of-aphrodisias-problems-3-4-reo-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-aphrodisias/problems-3-4",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-problems-3-4-reo-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-problems-3-4-reo-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-problems-3-4-reo-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-problems-3-4-reo-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/problems-3-4.epub"
+      }
+    },
+    {
+      "eul_wid": "slg-ab",
+      "title": {
+        "english": "Sentences of Menander and Philistion",
+        "ancient_greek": "Γνῶμαι Μενάνδρου καὶ Φιλίστιωνος"
+      },
+      "url_slug": "menander-and-philistion-sentences-slg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-and-philistion/sentences",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-and-philistion-sentences-slg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-and-philistion-sentences-slg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-and-philistion-sentences-slg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-and-philistion-sentences-slg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-and-philistion/sentences.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/anaxarchus-of-abdera/kingship-wisdom",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera-kingship-wisdom-fhs-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera-kingship-wisdom-fhs-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera-kingship-wisdom-fhs-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera-kingship-wisdom-fhs-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera/kingship-wisdom.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

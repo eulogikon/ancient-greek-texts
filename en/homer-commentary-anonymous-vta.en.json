@@ -1,0 +1,192 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "vta",
+  "auth_slug": "homer-commentary-anonymous",
+  "name": {
+    "english": "Homer Commentary",
+    "ancient_greek": "Ὁμηρικὴ ὑπόμνησις"
+  },
+  "seo_h1": "Homer Commentary and the Scholiastic Tradition",
+  "seo": {
+    "browser_title": "Homer Commentary Tradition on Eulogikon Greek Archive",
+    "meta_title": "The Homer Commentary Ancient Greek Scholarly Works",
+    "meta_description": "The Homer Commentary tradition features late antique analysis of Homeric epics. Eight surviving works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Homer Commentary refers not to a single author but to a vast tradition of ancient scholarly work on the poems of Homer, primarily the Iliad and Odyssey. This tradition flourished from the Hellenistic period through Late Antiquity. The scholars involved were grammarians and philologists, often working at major centers of learning like the Library of Alexandria, and later in Rome, Athens, and Gaza. Their role was fundamentally educational, aimed at preserving and explaining the Homeric texts, which formed the cornerstone of Greek education.</p>\n<p class=\"research-text\">The works produced are a layered collection of exegesis known as the Homeric Scholia. These are the marginal notes found in medieval manuscripts that compile fragments from many earlier, now-lost commentaries. Key figures in this tradition include Zenodotus of Ephesus, Aristophanes of Byzantium, and the highly influential Aristarchus of Samothrace, all from the early Alexandrian period. Later contributors like Didymus Chalcenterus, Aristonicus, and the philosopher Porphyry continued and adapted the work. With the exception of some of Porphyry&#x27;s writings, the original commentaries are lost and are known almost entirely through these later scholia.</p>\n<p class=\"research-text\">The significance of this commentary tradition is profound. It represents the origin of Western textual criticism and literary analysis, establishing methods for editing, interpreting, and explaining texts. The scholia preserve a wide range of ancient knowledge, from grammar and mythology to early literary criticism. In Late Antiquity, the tradition evolved, with Neoplatonic thinkers like Porphyry interpreting Homer allegorically for philosophical and theological insights. This ongoing scholarly engagement ensured Homer&#x27;s central place in education and was crucial for preserving the poems themselves for later generations.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 8,
+  "works": [
+    {
+      "eul_wid": "vta-ah",
+      "title": {
+        "english": "Eustathian Scholia on Iliad",
+        "ancient_greek": "Σχόλια εἰς Ἰλιάδα"
+      },
+      "url_slug": "homer-commentary-anonymous-scholia-iliad-ah-vta-ah",
+      "passages": 8577,
+      "links": {
+        "html": "https://eulogikon.org/grc/homer-commentary-anonymous/scholia-iliad-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-scholia-iliad-ah-vta-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-scholia-iliad-ah-vta-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-scholia-iliad-ah-vta-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-scholia-iliad-ah-vta-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous/scholia-iliad-ah.epub"
+      }
+    },
+    {
+      "eul_wid": "vta-ac",
+      "title": {
+        "english": "Hypotheses-the Iliad",
+        "ancient_greek": "Ὑποθέσεις εἰς Ἰλιάδα"
+      },
+      "url_slug": "homer-commentary-anonymous-hypotheses-iliad-vta-ac",
+      "passages": 57,
+      "links": {
+        "html": "https://eulogikon.org/grc/homer-commentary-anonymous/hypotheses-iliad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-hypotheses-iliad-vta-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-hypotheses-iliad-vta-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-hypotheses-iliad-vta-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-hypotheses-iliad-vta-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous/hypotheses-iliad.epub"
+      }
+    },
+    {
+      "eul_wid": "vta-aa",
+      "title": {
+        "english": "Inscriptions and Hypotheses-the Odyssey",
+        "ancient_greek": "Ἐπιγραφαὶ καὶ Ὑποθέσεις εἰς Ὀδύσσειαν"
+      },
+      "url_slug": "homer-commentary-anonymous-inscriptions-odyssey-vta-aa",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/homer-commentary-anonymous/inscriptions-odyssey",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-inscriptions-odyssey-vta-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-inscriptions-odyssey-vta-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-inscriptions-odyssey-vta-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-inscriptions-odyssey-vta-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous/inscriptions-odyssey.epub"
+      }
+    },
+    {
+      "eul_wid": "vta-ag",
+      "title": {
+        "english": "Later Scholia on Iliad",
+        "ancient_greek": "Σχόλια εἰς Ἰλιάδα"
+      },
+      "url_slug": "homer-commentary-anonymous-scholia-iliad-ag-vta-ag",
+      "passages": 4880,
+      "links": {
+        "html": "https://eulogikon.org/grc/homer-commentary-anonymous/scholia-iliad-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-scholia-iliad-ag-vta-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-scholia-iliad-ag-vta-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-scholia-iliad-ag-vta-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-scholia-iliad-ag-vta-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous/scholia-iliad-ag.epub"
+      }
+    },
+    {
+      "eul_wid": "vta-af",
+      "title": {
+        "english": "Old Scholia on Iliad",
+        "ancient_greek": "Σχόλια εἰς Ἰλιάδα"
+      },
+      "url_slug": "homer-commentary-anonymous-scholia-iliad-af-vta-af",
+      "passages": 4868,
+      "links": {
+        "html": "https://eulogikon.org/grc/homer-commentary-anonymous/scholia-iliad-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-scholia-iliad-af-vta-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-scholia-iliad-af-vta-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-scholia-iliad-af-vta-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-scholia-iliad-af-vta-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous/scholia-iliad-af.epub"
+      }
+    },
+    {
+      "eul_wid": "vta-ae",
+      "title": {
+        "english": "Scholia-Iliad",
+        "ancient_greek": "Σχόλια εἰς Ἰλιάδα"
+      },
+      "url_slug": "homer-commentary-anonymous-scholia-vta-ae",
+      "passages": 63774,
+      "links": {
+        "html": "https://eulogikon.org/grc/homer-commentary-anonymous/scholia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-scholia-vta-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-scholia-vta-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-scholia-vta-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-scholia-vta-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous/scholia.epub"
+      }
+    },
+    {
+      "eul_wid": "vta-ad",
+      "title": {
+        "english": "Scholia-Odyssey",
+        "ancient_greek": "Σχόλια εἰς Ὀδύσσειαν"
+      },
+      "url_slug": "homer-commentary-anonymous-odyssey-vta-ad",
+      "passages": 5159,
+      "links": {
+        "html": "https://eulogikon.org/grc/homer-commentary-anonymous/odyssey",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-odyssey-vta-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-odyssey-vta-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-odyssey-vta-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-odyssey-vta-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous/odyssey.epub"
+      }
+    },
+    {
+      "eul_wid": "vta-ab",
+      "title": {
+        "english": "Scholia-Odyssey 1.1–309",
+        "ancient_greek": "Σχόλια εἰς Ὀδύσσειαν αʹ αʹ–τθʹ"
+      },
+      "url_slug": "homer-commentary-anonymous-scholia-odyssey-1-vta-ab",
+      "passages": 315,
+      "links": {
+        "html": "https://eulogikon.org/grc/homer-commentary-anonymous/scholia-odyssey-1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-scholia-odyssey-1-vta-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-scholia-odyssey-1-vta-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-scholia-odyssey-1-vta-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-scholia-odyssey-1-vta-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous/scholia-odyssey-1.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/homer-commentary-anonymous",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/homer-commentary-anonymous-vta.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/homer-commentary-anonymous-vta.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/homer-commentary-anonymous-vta.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/homer-commentary-anonymous-vta.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

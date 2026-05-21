@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "rqm",
+  "auth_slug": "diophantus-of-alexandria-ii",
+  "name": {
+    "english": "Diophantus of Alexandria II",
+    "ancient_greek": "Διόφαντος ὁ Ἀλεξανδρεύς"
+  },
+  "seo_h1": "Arithmetic, Geometry, and the Work of Diophantus of Alexandria",
+  "seo": {
+    "browser_title": "Diophantus of Alexandria on Eulogikon Greek Archive",
+    "meta_title": "Diophantus of Alexandria Ancient Greek Mathematics Works",
+    "meta_description": "Diophantus of Alexandria, a 3rd century CE mathematician. Works on mathematics and number theory. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Diophantus of Alexandria was a Greek mathematician active in Alexandria during the 3rd century CE. The dating of his life relies on a dedication in his Arithmetica to a &quot;Dionysius,&quot; often identified with St. Dionysius of Alexandria, placing Diophantus around 250 CE. He worked within the Hellenistic mathematical tradition in a major center of Roman-era Greek learning.</p>\n<p class=\"research-text\">His principal work is the Arithmetica, a treatise on algebra and number theory originally in thirteen books. Six books survive in Greek, and four further books exist in an Arabic translation, their relation to the original being debated. The work is a collection of problems leading to determinate and indeterminate equations, now called Diophantine equations. He also authored On Polygonal Numbers, of which a fragment survives.</p>\n<p class=\"research-text\">Diophantus is a seminal figure in the history of algebra. His Arithmetica introduced a syncopated algebraic notation and a systematic approach to solving equations, marking a departure from classical geometric algebra. His work on indeterminate equations became central to number theory, influenced Byzantine and Islamic mathematics, and was crucial to the development of algebra in Renaissance Europe.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 5,
+  "works": [
+    {
+      "eul_wid": "rqm-ad",
+      "title": {
+        "english": "Astronomical Calculation Methods",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "diophantus-of-alexandria-ii-astronomical-methods-rqm-ad",
+      "passages": 13,
+      "links": {
+        "html": "https://eulogikon.org/grc/diophantus-of-alexandria-ii/astronomical-methods",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii-astronomical-methods-rqm-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii-astronomical-methods-rqm-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii-astronomical-methods-rqm-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii-astronomical-methods-rqm-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii/astronomical-methods.epub"
+      }
+    },
+    {
+      "eul_wid": "rqm-ae",
+      "title": {
+        "english": "Geometric Fragments on Circles",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κύκλων Γεωμετρικά"
+      },
+      "url_slug": "diophantus-of-alexandria-ii-geometric-circles-rqm-ae",
+      "passages": 17,
+      "links": {
+        "html": "https://eulogikon.org/grc/diophantus-of-alexandria-ii/geometric-circles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii-geometric-circles-rqm-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii-geometric-circles-rqm-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii-geometric-circles-rqm-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii-geometric-circles-rqm-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii/geometric-circles.epub"
+      }
+    },
+    {
+      "eul_wid": "rqm-ac",
+      "title": {
+        "english": "On Extracting Square Roots",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "diophantus-of-alexandria-ii-extracting-square-roots-rqm-ac",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/diophantus-of-alexandria-ii/extracting-square-roots",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii-extracting-square-roots-rqm-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii-extracting-square-roots-rqm-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii-extracting-square-roots-rqm-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii-extracting-square-roots-rqm-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii/extracting-square-roots.epub"
+      }
+    },
+    {
+      "eul_wid": "rqm-ab",
+      "title": {
+        "english": "On Polygonal Numbers",
+        "ancient_greek": "Περὶ Πολυγωνικῶν Ἀριθμῶν"
+      },
+      "url_slug": "diophantus-of-alexandria-ii-polygonal-numbers-rqm-ab",
+      "passages": 16,
+      "links": {
+        "html": "https://eulogikon.org/grc/diophantus-of-alexandria-ii/polygonal-numbers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii-polygonal-numbers-rqm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii-polygonal-numbers-rqm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii-polygonal-numbers-rqm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii-polygonal-numbers-rqm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii/polygonal-numbers.epub"
+      }
+    },
+    {
+      "eul_wid": "rqm-aa",
+      "title": {
+        "english": "Six Books-Arithmetic",
+        "ancient_greek": "Τὰ Ἕξ Βιβλία περὶ Ἀριθμητικῆς"
+      },
+      "url_slug": "diophantus-of-alexandria-ii-six-books-arithmetic-rqm-aa",
+      "passages": 224,
+      "links": {
+        "html": "https://eulogikon.org/grc/diophantus-of-alexandria-ii/six-books-arithmetic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii-six-books-arithmetic-rqm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii-six-books-arithmetic-rqm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii-six-books-arithmetic-rqm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii-six-books-arithmetic-rqm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii/six-books-arithmetic.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/diophantus-of-alexandria-ii",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diophantus-of-alexandria-ii-rqm.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diophantus-of-alexandria-ii-rqm.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diophantus-of-alexandria-ii-rqm.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diophantus-of-alexandria-ii-rqm.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

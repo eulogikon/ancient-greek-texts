@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "cpi",
+  "auth_slug": "theodorus-of-cyrene",
+  "name": {
+    "english": "Theodorus of Cyrene",
+    "ancient_greek": "Θεόδωρος ὁ Κυρηναῖος"
+  },
+  "seo_h1": "Theodorus of Cyrene on Incommensurable Magnitudes",
+  "seo": {
+    "browser_title": "Theodorus of Cyrene on Eulogikon Greek Archive Collection",
+    "meta_title": "Classical Theodorus of Cyrene Ancient Greek Mathematics",
+    "meta_description": "Theodorus of Cyrene, a 5th century BCE mathematician. Surviving mathematical works and fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Μαθηματικά",
+      "english": "Mathematics",
+      "href": "/domains/mathematics"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Theodorus of Cyrene was a Greek mathematician active in the late 5th century BCE. He is known primarily from Plato’s dialogue Theaetetus, which depicts him in Athens engaging with Socrates and his student Theaetetus. Socrates credits Theodorus with instructing him in geometry, astronomy, arithmetic, and music.</p>\n<p class=\"research-text\">No written works by Theodorus survive. His contributions are recorded indirectly in Plato’s Theaetetus, where Theaetetus describes a lesson in which Theodorus proves the irrationality of the square roots of the non-square integers from 3 up to 17, demonstrating each case individually.</p>\n<p class=\"research-text\">Theodorus holds a significant place in the history of mathematics for his early work on irrational numbers. His proofs extended the discovery of irrationality beyond the square root of 2. He directly influenced Socrates and, crucially, his student Theaetetus, who generalized these results into a theory foundational for Book X of Euclid’s Elements.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "cpi-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "theodorus-of-cyrene-testimonies-cpi-aa",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/theodorus-of-cyrene/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodorus-of-cyrene-testimonies-cpi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodorus-of-cyrene-testimonies-cpi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodorus-of-cyrene-testimonies-cpi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodorus-of-cyrene-testimonies-cpi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodorus-of-cyrene/testimonies.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/theodorus-of-cyrene",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theodorus-of-cyrene-cpi.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theodorus-of-cyrene-cpi.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theodorus-of-cyrene-cpi.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theodorus-of-cyrene-cpi.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

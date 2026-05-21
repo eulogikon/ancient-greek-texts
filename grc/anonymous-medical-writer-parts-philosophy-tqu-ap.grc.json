@@ -1,0 +1,566 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "tqu-ap",
+  "eul_aid": "tqu",
+  "author_slug": "anonymous-medical-writer",
+  "work_slug": "parts-philosophy",
+  "url_slug": "anonymous-medical-writer-parts-philosophy-tqu-ap",
+  "author": {
+    "english": "Medical Writer  Anonymous",
+    "ancient_greek": "Ἀνώνυμος ἰατρικός συγγραφεύς (ψευδο-Γαληνός)"
+  },
+  "title": {
+    "english": "On Parts of Philosophy",
+    "ancient_greek": "Περὶ Μερῶν Φιλοσοφίας"
+  },
+  "seo": {
+    "browser_title": "On Parts of Philosophy by Medical Writer on Eulogikon",
+    "meta_title": "On Parts of Philosophy by Medical Writer in Ancient Greek",
+    "meta_description": "Compares Platonic and Aristotelian philosophy divisions. Examines physics, mathematics, theology. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The treatise <strong>On Parts of Philosophy</strong> is an anonymous work preserved within the Hippocratic Corpus, the collection of ancient Greek medical writings attributed to Hippocrates and his followers. Twenty-six passages of the text survive. The work engages with the classification of philosophical knowledge, examining the relationship between medicine and philosophy, the application of natural philosophical principles to human physiology, and the demarcation of philosophical branches relevant to medical practice. This thematic focus aligns with a broader tendency within the Hippocratic Corpus to interface with pre-Socratic natural philosophy, as seen in other texts such as <strong>On Ancient Medicine</strong> and <strong>On the Nature of Man</strong>. The treatise was transmitted through the medieval manuscript tradition of the Hippocratic Corpus, which was originally compiled in Hellenistic Alexandria. Its standard modern edition appears in Émile Littré’s <strong>Oeuvres complètes d’Hippocrate</strong>. As a component of the corpus, the work contributes to the understanding of how medical writers engaged with contemporary philosophical systems. The Hippocratic Corpus itself was foundational to Western medicine, profoundly influencing later figures like Galen and shaping medical theory and education for centuries.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t",
+      "text": "ΓΑΛΗΝΟΥ ΤΟΥ ΙΑΤΡΟΥ ΠΕΡΙ ΕΙΔΩΝ ΦΙΛΟΣΟΦΙΑΣ Εἰς θεωρητικὸν καὶ πρακτικὸν τῆς φιλοσοφίας διαιρουμένης ἄλλως ὁ Πλάτων καὶ ἄλλως ὁ Ἀριστοτέλης ὑποδιαιρεῖ τὸ θεωρητικόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "ὁ μὲν οὖν Πλάτων εἰς φυσιολογικὸν καὶ θεολογικὸν αὐτὸ διαιρεῖ· τὸ γὰρ μαθηματικὸν οὐκ ἠβούλετο εἶναι μέρος τῆς φιλοσοφίας, ἀλλὰ προγύμνασμά τι ὥσπερ ἡ γραμματικὴ καὶ ἡ ῥητορική· ὅθεν καὶ πρὸ τοῦ ἀκροατηρίου τοῦ οἰκείου ἐπέγραψεν ‘ἀγεωμέτρητος μηδεὶς εἰσίτω‘. τοῦτο δὲ ὁ Πλάτων ἐπέγραφεν, ἐπειδὴ εἰς τὰ πολλὰ θεολογεῖ καὶ περὶ θεολογίαν καταγίνεται· συμβάλλεται δὲ εἰς εἴδησιν τῆς θεολογίας τὸ μαθηματικόν, οὗτινός ἐστιν ἡ γεωμετρία. Ἀριστοτέλης δὲ ὑποδιαιρεῖ τὸ θεωρητικὸν εἰς φυσιολογικὸν μαθηματικὸν καὶ θεολογικόν· καὶ γὰρ τὸ μαθηματικὸν μέρος τῆς φιλοσοφίας ἐδόξαζεν εἶναι· καὶ γὰρ τοῦτο ἐπιστήμη ἐστίν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "εἰς τρία δὲ ὑποδιαιρεῖται τὸ θεωρητικόν, τουτέστιν εἰς φυσιολογικὸν μαθηματικὸν καὶ θεολογικόν, ἐπειδὴ τῷ θεωρητικῷ πάντα τὰ ὄντα ὑπόκειται πρὸς γνῶσιν. τὰ δὲ ὄντα τριττά ἐστιν. ἢ γὰρ καὶ τῇ ὑποστάσει καὶ τῇ ἐννοίᾳ ἔνυλά εἰσιν· οὐδὲ γάρ τις δύναται ξύλον ἢ λίθον ἐπινοῆσαι ἄυλον. ἢ καὶ τῇ ὑποστάσει καὶ τῇ ἐννοίᾳ ἄυλά εἰσιν ὥσπερ θεὸς 〈ἢ〉 ψυχὴ ἄνευ τοῦ σώματος οὖσα· ταῦτα γὰρ καὶ τῇ ὑποστάσει καὶ τῇ ἐννοίᾳ ἄυλά εἰσιν· οὐδὲ γὰρ δύναταί τις ἐπινοῆσαι θεὸν ἢ ψυχὴν ἄνευ σώματος οὖσαν ἔνυλον. ἢ καὶ τῇ ὑποστάσει μὲν ἔνυλά εἰσι τῇ δὲ ἐννοίᾳ ἄυλα ὥσπερ τὰ σχήματα· καὶ γὰρ ταῦτα τῇ μὲν ὑποστάσει ἔνυλά εἰσιν· οὐ γὰρ δύναται τρίγωνον ἢ τετράγωνον ἤ τι τοιοῦτον σχῆμα ἄνευ ὕλης συστῆναι· ἢ γὰρ ἐν ξύλῳ ἔχει τὴν ὑπόστασιν ἢ ἐν λίθῳ· τῇ δὲ ἐννοίᾳ ἄυλά εἰσι. καὶ γὰρ ἡνίκα φαντασθῇ τις καὶ ἀναπολῇ τὸ σχῆμα αὐτὸ καθ’ αὑτό, ἀνετύπωσεν αὐτὸ ἐν τῇ οἰκείᾳ διανοίᾳ· ὥσπερ γὰρ ὁ κηρὸς ἀναματτόμενος τὴν σφραγῖδα ἀπὸ τοῦ δακτυλίου αὐτὴν μόνην ἀναμάττεται, οὐ μὴν ἀφαιρεῖται τὴν σφραγῖδα ἀπὸ τοῦ δακτυλίου, τὸν αὐτὸν τρόπον καὶ ἡ διάνοια φανταζομένη τὰ σχήματα οὐκ ἀφαιρεῖταί τι ἐκ τῆς ὕλης, ἀλλ’ αὐτὸ μόνον τὸ σχῆμα φαντάζεται καὶ διατυποῖ ἐν ἑαυτῇ. ἐπειδὴ οὖν τῷ θεωρητικῷ πάντα τὰ ὄντα ὑπόκειται πρὸς γνῶσιν, τὰ δὲ ὄντα, ὡς εἴρηται, τριττά ἐστι, τούτου χάριν καὶ τὸ θεωρητικὸν εἰς τρία διαιρεῖται, εἰς φυσιολογικὸν μαθηματικὸν καὶ θεολογικόν. καὶ ἰστέον ὅτι τὸ μὲν φυσιολογικὸν καταγίνεται περὶ τὰ τῇ ὑποστάσει καὶ τῇ ἐννοίᾳ ἔνυλα· ζητεῖ γὰρ περὶ τῶν τεσσάρων στοιχείων· τὸ δὲ θεολογικὸν καταγίνεται περὶ τὰ καὶ τῇ ὑποστάσει καὶ τῇ ἐννοίᾳ ἄυλα· τὸ δὲ μαθηματικὸν καταγίνεται περὶ τὰ τῇ μὲν ὑποστάσει ἔνυλα τῇ δὲ ἐννοίᾳ ἄυλα. Ἔλθωμεν τοίνυν καὶ εἴπωμεν περὶ τῆς τάξεως αὐτῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "ἰστέον ὅτι τὸ φυσιολογικὸν πρώτην ἔχει τὴν τάξιν ὡς σύντροφον καὶ πλησιάζον ἡμῖν ἅτε δὴ πάντῃ ἔνυλον ὄν· τὸ δὲ μαθηματικὸν μέσον ἐστὶ τοῦ τε φυσιολογικοῦ καὶ τοῦ θεολογικοῦ ὡς καὶ τῶν δύο μετέχον· καὶ γὰρ καὶ ἔνυλόν ἐστιν ὁμοίως τῷ φυσιολογικῷ καὶ ἄυλον ὁμοίως τῷ θεολογικῷ· ὡς γὰρ εἴρηται, τὸ μαθηματικὸν τῇ μὲν ὑποστάσει ἔνυλόν ἐστι τῇ δὲ ἐννοίᾳ ἄυλον. τὸ δὲ θεολογικὸν καὶ ἐξ ἀνάγκης ὕστερόν ἐστιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "οὐδὲ γὰρ δύναται μετὰ τὸ φυσιολογικὸν εἶναι, ἐπειδὴ οὐ δεῖ ἀπὸ τῶν πάντῃ ἐνύλων εὐθέως ἐπὶ τὰ πάντῃ ἄυλα φέρεσθαι· ἐπειδὴ πάσχομεν ὅπερ οἱ πολὺν χρόνον μένοντες ἐν τῇ σκοτίᾳ καὶ εὐθέως πρὸς τὸν ἥλιον θεωροῦντες· οὗτοι γὰρ ἀποτυφλώττονται· οὕτως οὖν οὐ δεῖ ἀπὸ τῶν πάντῃ ἐνύλων εὐθέως ἐπὶ τὰ πάντῃ ἄυλα φέρεσθαι. τοῦτο γὰρ αἰνισσομένη ἡ ποίησις λέγει περὶ Ὤτου καὶ Ἐφιάλτου, οἳ τὴν ‘Ὄσσαν ἐν Ὀλύμπῳ μέμασαν θέμεν, ἵν’ οὐρανὸς ἄμβατος εἴη‘.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "καὶ κατὰ μὲν τὸ φαινόμενον τοῦτο λέγει ὅτι ὁ Ὦτος καὶ ὁ Ἐφιάλτης ἠθέλησαν θεῖναι τὴν Ὄσσαν ἐπάνω τοῦ Ὀλύμπου βουλόμενοι μηχανήσασθαι τὴν οὐράνιον ἄνοδον, ἀλληγορικῶς δὲ νοοῦμεν ταῦτα οὕτως ὅτι ἐκεῖνοι εὐθέως ἀπὸ τῶν φυσικῶν καὶ πάντῃ ἐνύλων πραγμάτων ἐπὶ τὴν γνῶσιν τῶν θείων ἠβουλήθησαν ἐπιπηδῆσαι. ἀπὸ οὖν τοῦ μαθηματικοῦ δεῖ ἐπὶ τὸ θεολογικὸν ἔρχεσθαι. ὅτι δὲ τοῦτο ἀληθές ἐστι, δηλοῖ Πλάτων περὶ τοῦ μαθηματικοῦ διαλεγόμενος καὶ λέγων ὅτι ‘αὕτη ὁδός, ταῦτα μαθήματα· εἴτε ῥᾴδια εἴτε χαλεπά, ταύτῃ ἰτέον, ἀμελεῖν δὲ οὐ δεῖ‘, τουτέστιν ὅτι ὁδῷ κεχρημένοι τοῖς μαθήμασι διὰ τούτων βαδίσαι ἐπὶ τὸ θεολογικόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "καὶ ὁ Πλωτῖνος δὲ δηλοῖ τοῦτο λέγων παράδοτε τοῖς νέοις τὰ μαθήματα πρὸς συνεθισμὸν τῆς ἀσωμάτου φύσεως [ὧν τὴν ἀσώματον φύσιν γινώσκει]. ἰστέον ὅτι ἔοικε τὰ μαθήματα κλίμακι καὶ γεφύρᾳ· ὥσπερ γὰρ ἐν τῇ κλίμακι ἀπὸ τῶν κάτω ἐπὶ τὰ ἄνω ἐρχόμεθα καὶ ἐν γεφύρᾳ ἀπὸ τοῦδε τοῦ μέρους εἰς τὸ ἐξ ἐναντίας μέρος ἐρχόμεθα, οὕτω καὶ διὰ τοῦ μαθηματικοῦ ἐπὶ τὸ θεολογικὸν ἐρχόμεθα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "ταῦτα μὲν ἐν τούτοις, ἀποροῦσι δέ τινες λέγοντες, εἰ ἄρα οὐ μόνον τὸ μαθηματικὸν μανθάνεται ἀλλὰ καὶ τὸ φυσιολογικὸν καὶ τὸ θεολογικόν, διὰ τί τοῦτο μόνον λέγεται μαθηματικόν; καὶ ἐπιλύονται ὅτι τὸ φυσιολογικὸν οὐ δύναται λέγεσθαι μαθηματικόν, ἐπειδὴ τοῦτο πάντῃ ἔνυλον καὶ ἀεὶ ἐν ῥοῇ καὶ ἀπορροῇ ὂν καὶ ἄλλοτε ἄλλως ἔχον οὐχ ὑποπίπτει ἀκριβεῖ γνώσει, ἀλλὰ τυχὸν σήμερον μὲν τοιῶσδε γινώσκεται αὔριον δὲ τοιῶσδε διὰ τὸ ἀλλοίως ἔχειν. ἀλλ’ οὔτε τὸ θεολογικὸν δύναται λέγεσθαι μαθηματικόν, ἐπειδὴ τὰ θεῖα ἅτε δὴ ἀκατάληπτα καὶ ἀόρατα ὄντα εἰκασμῷ μᾶλλον γινώσκεται ἤπερ ἀκριβεῖ γνώσει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "ἐξ ἀνάγκης οὖν τοῦτο λέγεται μαθηματικὸν μόνον. ἄλλως τε καὶ [διὰ τοῦτο] αὐτὸ μόνον λέγεται μαθηματικόν, ἐπειδὴ αὐτὸ διδάσκει ἡμᾶς, πῶς δεῖ μανθάνειν τὰ πράγματα· εἰ γὰρ καὶ ἐν τῇ λογικῇ τοῦτο ἡμᾶς διδάσκει ὁ Ἀριστοτέλης, ἀλλ’ οὖν ἐκ τοῦ μαθηματικοῦ ἔλαβε τὴν ἀφορμήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13",
+      "text": "ἔτι δέ, ὥς φασιν οἱ Πυθαγόρειοι, διὰ τοῦτο μόνον λέγεται μαθηματικόν, ἐπειδὴ ἐν τῇ διανοίᾳ ἔχει τὴν ὕπαρξιν· μόνη γὰρ ἡ διάνοια μανθάνει· ὁ γὰρ νοῦς ἁπλῇ προσβολῇ πάντα γινώσκει. Πέντε δὲ κεφάλαια ἔχομεν περὶ τοῦ μαθηματικοῦ εἰπεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14",
+      "text": "καὶ πρῶτον μέν ἐστι κεφάλαιον, ἐν ᾧ λέγομεν, πόσα καὶ ποῖα εἴδη εἰσὶ τοῦ μαθηματικοῦ· δεύτερον, διὰ τί τοσαῦτά εἰσι· τρίτον, ἐν ᾧ λέγομεν τὴν τάξιν αὐτῶν· τέταρτον, τίνος εἰσὶν εὑρήματα· πέμπτον, τίνα παράκειται τούτοις τοῖς εἴδεσιν. Εἴπωμεν δὲ τὸ πρῶτον, πόσα καὶ ποῖα εἴδη εἰσὶ τοῦ μαθηματικοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "εἰσὶ δὲ ταῦτα· ἀριθμητικὴ μουσικὴ γεωμετρία ἀστρονομία. ἔλθωμεν δὲ καὶ ἐπὶ τὸ δεύτερον, διὰ τί τοσαῦτα εἴδη εἰσὶ τοῦ μαθηματικοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16",
+      "text": "ἰστέον ὅτι τὸ μαθηματικὸν περὶ τὸ ποσὸν καταγίνεται. ἢ γὰρ περὶ τοὺς ἀριθμοὺς καταγίνεται ὥσπερ ἡ ἀριθμητική· τοῦτο γὰρ ποσόν ἐστιν· ἢ περὶ τὰς σχέσεις τῶν φθόγγων ὥσπερ ἡ μουσική· καὶ τοῦτο δὲ ποσόν ἐστι· ζητεῖ γὰρ ποῖαι τὸν διπλάσιον λόγον ἔχουσι καὶ ποῖαι τὸν ἐν ἡμιολίῳ· ἢ περὶ τὰ σχήματα τῆς γῆς καταγίνεται ὥσπερ ἡ γεωμετρία· καὶ τοῦτο δὲ ποσόν ἐστιν· ἢ περὶ τὴν κίνησιν τῶν οὐρανίων σωμάτων 〈καταγίνεται ὥσπερ ἡ ἀστρονομία〉· καὶ τοῦτο δὲ ὁμοίως ποσόν ἐστιν· ἔχουσι γάρ τινα διαστήματα. γνωσθέντων τοίνυν τῶν μαθηματικῶν ὅτι περὶ τὸ ποσὸν καταγίνονται, δεῖ γινώσκειν ὅτι τὸ ποσὸν διττόν ἐστιν· ἢ γὰρ συνεχές ἐστιν ἢ διωρισμένον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17",
+      "text": "καὶ συνεχὲς μὲν ποσόν ἐστιν, οὗ τὰ μόρια εἰς ἕνα ὅρον συνάπτονται ὥσπερ τοῦ τοίχου· οὗτος γὰρ συνεχὲς ποσόν ἐστιν. καὶ γὰρ ἐὰν τέμῃς τοῦτον δυνάμει εἰς πολλοὺς τόπους, πάντα τὰ μόρια τὰ τμηθέντα εἰς ἕνα ὅρον συνάπτονται· καὶ γὰρ τοῦτο τὸ τμῆμα μετὰ τοῦ ἄλλου συνημμένον ἐστὶ διὰ τῆς γραμμῆς τῆς νοητῶς παραληφθείσης ἐν τῷ γενέσθαι τὴν τομήν. καὶ γὰρ ἡ γραμμὴ ἡ δυνάμει τὴν τομὴν ποιήσασα μεταξὺ τῶν δυνάμει τμηθέντων ἐστίν· εὑρίσκεται γὰρ τόδε τὸ μέρος συναπτόμενον τῇ γραμμῇ καὶ τὸ ἄλλο τῇ γραμμῇ καὶ διὰ τῆς γραμμῆς συνάπτονται ἀλλήλοις. δυνάμει γὰρ τῇ τομῇ καθυπεβλήθησαν, οὐ μὴν ἐνεργείᾳ, ἵνα χωρισθῶσιν ἀλλήλων. διωρισμένον δὲ ποσόν ἐστι τὸ διακεχωρισμένον καὶ μὴ ἔχον τι μεταξὺ τὸ ὀφεῖλον συνάφειαν ποιήσασθαι τοῦδε πρὸς τόδε ὡς ἐπὶ τῶν ἀριθμῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18",
+      "text": "καὶ γὰρ ὁ δέκα ἀριθμὸς κεχωρισμένος ἐστίν. εἴτε γὰρ ἀπὸ μονάδων λάβῃς αὐτὸν συγκείμενον εἴτε ἀπὸ τοῦ πέντε, οὐκ ἔχει ἄλλον ἀριθμὸν μεταξὺ τὸν ὀφείλοντα συνάφειαν τοῦδε τοῦ ἀριθμοῦ ποιήσασθαι πρὸς τόνδε. ἐὰν γὰρ προσλάβῃ ἄλλον ἀριθμόν, εὑρίσκεται ἐκπίπτων τοῦ δέκα μείζων γινόμενος. καὶ τούτων διττὸν ἑκάτερόν ἐστι· τοῦ γάρ τοι διωρισμένου ποσοῦ τὸ μέν ἐστι καθ’ αὑτό, τὸ δὲ κατὰ σχέσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19",
+      "text": "καὶ καθ’ αὑτὸ μέν, ὡς ὅταν τοὺς ἀριθμοὺς αὐτοὺς καθ’ αὑτοὺς λάβωμεν οἷον τὸν δέκα αὐτὸν καθ’ αὑτὸν λάβωμεν καὶ μὴ ἐξετάσωμεν πρὸς ἄλλον ἀριθμόν. κατὰ σχέσιν δέ, ὡς ὅταν τόνδε τὸν ἀριθμὸν ἐξετάσωμεν πρὸς τόνδε οἷον τὸν δέκα πρὸς τὸν πέντε, ὅτι διπλασίονα λόγον ἔχει πρὸς τὸν πέντε. καὶ τὸ συνεχὲς δὲ ποσὸν διττόν ἐστι; τὸ μὲν γὰρ ἀκίνητον, τὸ δὲ κινητόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20",
+      "text": "καὶ ἀκίνητον μὲν ὥσπερ ἡ γῆ, οὐδὲ γὰρ ἀπέρχεται ἐκ τοῦδε εἰς τόνδε τὸν τόπον αὕτη· κινητὸν δὲ ὥσπερ ὁ οὐρανός, οὗτος γὰρ ἀεὶ κινεῖται. ἐπειδὴ οὖν τὸ μαθηματικὸν περὶ τὸ ποσὸν καταγίνεται (τὸ δὲ ποσόν, ὡς εἴρηται, διττόν ἐστιν· ἢ γὰρ συνεχές ἐστιν ἢ διωρισμένον; ἑκάτερον δὲ τούτων διττόν ἐστιν· ἔστι γὰρ ποσὸν διωρισμένον καθ’ αὑτὸ καὶ ποσὸν διωρισμένον κατὰ σχέσιν καὶ ποσὸν συνεχὲς ἀκίνητον καὶ ποσὸν συνεχὲς κινούμενον), τούτου χάριν πρὸς ἀναλογίαν τῶν τεσσάρων τούτων τῶν συναγομένων ἐκ τοῦ ποσοῦ τοῦ διωρισμένου καὶ τοῦ συνεχοῦς τέσσαρά εἰσιν εἴδη τοῦ μαθηματικοῦ οἷον ἀριθμητικὴ μουσικὴ γεωμετρία ἀστρονομία.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "21",
+      "text": "καὶ ἡ μὲν ἀριθμητικὴ καταγίνεται περὶ τὸ ποσὸν τὸ διωρισμένον τὸ καθ’ αὑτό, ἡ δὲ μουσικὴ περὶ τὸ ποσὸν τὸ διωρισμένον τὸ κατὰ σχέσιν, ἡ δὲ γεωμετρία περὶ τὸ ποσὸν τὸ ἀκίνητον τὸ συνεχές; ἡ δὲ ἀστρονομία περὶ τὸ ποσὸν τὸ συνεχὲς τὸ κινούμενον. Ἰστέον δὲ ὅτι ἡ ἀριθμητικὴ καὶ ἡ μουσικὴ προτερεύουσι τῆς γεωμετρίας καὶ τῆς ἀστρονομίας, ἐπειδὴ ἡ μὲν ἀριθμητικὴ καὶ ἡ μουσικὴ περὶ τὸ ποσὸν τὸ διωρισμένον καταγίνεται, ἡ δὲ γεωμετρία καὶ ἡ ἀστρονομία περὶ τὸ ποσὸν τὸ συνεχές· τιμιώτερον δὲ τὸ ποσὸν τὸ διωρισμένον τοῦ ποσοῦ τοῦ συνεχοῦς· καὶ γὰρ τὸ ποσὸν τὸ διωρισμένον δύναται ἀσυγχύτως δέξασθαι διάφορα εἴδη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "23",
+      "text": "ἰδοὺ γὰρ ὁ εἴκοσι πέντε ἀριθμὸς ποσὸν διωρισμένον δέχεται ἀσυγχύτως διάφορα εἴδη· ἔστι γὰρ καὶ κύκλος καὶ τετράγωνον. καὶ κύκλος μέν, ὅτι ὥσπερ ἐν τῷ κύκλῳ ἡ ἀρχὴ συνάπτεται τῷ πέρατι, οὕτω καὶ ἐνταῦθα ἄρχεται ἀπὸ τοῦ πέντε ἐν τῷ πολυπλασιασμῷ καὶ εἰς τὸ αὐτὸ λήγει ἀποτελούμενος, οἷον πεντάκις πέντε, εἴκοσι πέντε ἰδοὺ καὶ ἀπὸ τοῦ πέντε ἄρχεται καὶ ἀποτελούμενος εἰς τὸν πέντε λήγει. τετράγωνον δὲ λέγεται, ἐπειδὴ πᾶς ἀριθμὸς πολυπλασιαζόμενος τετράγωνον ἀριθμὸν ἀποτελεῖ, οἷον τρὶς τρεῖς ἐννέα, τετράκις τέσσαρες ἑκκαίδεκα· οὕτως οὖν καὶ πεντάκις πέντε εἴκοσι πέντε. τὸ δὲ ποσὸν τὸ συνεχὲς οὐ δύναται ἀσυγχύτως διάφορα εἴδη ἐπιδέξασθαι. ἰδοὺ γὰρ ἐν τῷ κηρῷ, ὅπερ ἐστὶ συνεχὲς ποσόν, ἐάν τις ποιήσῃ εἶδος Ἕκτορος, οὐ δύναται ποιῆσαι ἄλλο εἶδος, εἰ μὴ ἀφανισθῇ τὸ πρῶτον εἶδος, ἐπεὶ σύγχυσις γίνεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "24",
+      "text": "ἐπειδὴ οὖν τὸ ποσὸν τὸ διωρισμένον τιμιώτερόν ἐστι τοῦ ποσοῦ τοῦ συνεχοῦς, τούτου χάριν καὶ ἡ ἀριθμητικὴ καὶ ἡ μουσικὴ ὡς περὶ τὸ ποσὸν τὸ διωρισμένον καταγινόμεναι προτερεύουσι τῆς γεωμετρίας καὶ ἀστρονομίας ὡς τούτων περὶ τὸ ποσὸν τὸ συνεχὲς καταγινομένων. ἡ δὲ ἀριθμητικὴ προτερεύει τῆς μουσικῆς, ἐπειδὴ ἡ μὲν ἀριθμητική, ὡς εἴρηται, περὶ τὸ ποσὸν τὸ καθ’ αὑτὸ καταγίνεται, ἡ δὲ μουσικὴ περὶ τὸ ποσὸν τὸ κατὰ σχέσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25",
+      "text": "προτερεύει δὲ τὸ καθ’ αὑτὸ τοῦ κατὰ σχέσιν, ἐπειδὴ πρῶτον δεῖ ἁπλῶς τι εἶναι καὶ τότε ἐν σχέσει πρὸς ἕτερον λαμβάνεσθαι. ἡ δὲ γεωμετρία προτερεύει τῆς ἀστρονομίας, ἐπειδὴ ἡ μὲν γεωμετρία περὶ τὸ ποσὸν τὸ συνεχὲς τὸ ἀκίνητον καταγίνεται, ἡ δὲ ἀστρονομία περὶ τὸ ποσὸν τὸ συνεχὲς τὸ κινούμενον· προτερεύει δὲ τὸ ἀκίνητον τοῦ κινουμένου· ἀρχὴ γὰρ κινήσεως ἠρεμία ἐστίν· ὁ γὰρ μέλλων κινεῖσθαι ἀπὸ ἠρεμίας προέρχεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "26",
+      "text": "αὕτη οὖν ἡ αἰτία τῆς τάξεως αὐτῶν. ἔστι δὲ καὶ ἄλλη αἰτία, ἐπειδὴ οὕτως ἀναλογεῖ ἡ μὲν ἀριθμητικὴ τῇ μονάδι, ἡ δὲ μουσικὴ τῇ δυάδι, ἡ δὲ γεωμετρία τῇ τριάδι, ἡ δὲ ἀστρονομία τῇ τετράδι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "27",
+      "text": "πρὸς ἀναλογίαν οὖν τῆς τάξεως αὐτῶν τῶν ἀριθμῶν ἐκτήσαντο ταύτην τὴν τάξιν. ἀναλογεῖ γὰρ ἡ ἀριθμητικὴ τῇ μονάδι· περὶ γὰρ τὸ καθ’ αὑτὸ ποσὸν καταγίνεται, ὅτι τὸ καθ’ αὑτὸ ἕν ἐστιν· ἡ δὲ μουσικὴ τῇ δυάδι, ὅτι περὶ τὸ ἐν σχέσει ποσὸν καταγίνεται, ἡ δὲ σχέσις τὸ ἐλάχιστον ἐπὶ δύο λαμβάνεται. ἡ δὲ γεωμετρία ἀναλογεῖ τῇ τριάδι· καὶ γὰρ ἡ γεωμετρία περὶ τὸ ἐπίπεδον σχῆμα καταγίνεται, πρῶτον δὲ σχῆμα τὸ τρίγωνόν ἐστιν· οὔτε γὰρ μία γραμμὴ οὔτε δύο ἀποτελοῦσι σχῆμα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "28",
+      "text": "ἡ δὲ ἀστρονομία ἀναλογεῖ τῇ τετράδι, ὅτι περὶ τὰ οὐράνια σώματα καταγίνεται. πᾶν δὲ σῶμα τριχῇ ἐστι διαστατόν· ἔχει γὰρ μῆκος πλάτος βάθος, ἕκαστον δὲ τούτων ὑπὸ δύο ὅρων περιέχεται· καὶ γὰρ τὸ μῆκος ἔνθεν καὶ ἔνθεν περιέχεται καὶ τὸ πλάτος ὁμοίως καὶ τὸ βάθος, ὥστε συνάγεσθαι ἓξ ὅρους ἤγουν πέρατα. ἐκ δὲ τούτων τῶν ἓξ τέσσαρα γίνονται· τὸ γὰρ ἓν πέρας κοινόν ἐστι τῶν δύο· τὸ γάρ τοι πέρας τοῦ πλάτους εὑρίσκεται ἀρχὴ τοῦ μήκους ἢ τοῦ βάθους. ἐπεὶ οὖν ἡ ἀστρονομία περὶ τὰ οὐράνια σώματα καταγίνεται, πᾶν δὲ σῶμα τριχῇ διαστατόν ἐστιν, ὡς εἴρηται, ταῦτα δὲ τέσσαρας ὅρους ἤγουν τέσσαρα πέρατα ἔχουσι, τούτου χάριν λέγουσιν αὐτὴν τετράδι ἀναλογεῖν. ἔχομεν οὖν, διὰ τί πρώτη ἐστὶν ἡ ἀριθμητικὴ καὶ δευτέρα ἡ μουσικὴ καὶ τρίτη ἡ γεωμετρία καὶ τετάρτη ἡ ἀστρονομία. Ἔλθωμεν δὲ καὶ εἴπωμεν, τίνων εἰσὶν εὑρήματα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "29",
+      "text": "ἰστέον ὅτι ἡ ἀριθμητικὴ ὑπὸ τῶν Φοινίκων εὑρέθη ὡς ἐμπορικῶν ὄντων καὶ δεομένων τῶν ἀριθμῶν εἰς τὰς ψήφους. τὴν δὲ μουσικὴν οἱ Θρᾷκες· ἐκεῖθεν γὰρ ὁ Ὀρφεύς, ὅστις λέγεται εὑρηκέναι τὴν μουσικήν. ἐπενόησε δὲ ἐμβατήρια μέλη διεγείροντα πρὸς θυμὸν τοὺς ἄγαν πολεμικοὺς ὄντας. ἡ γὰρ ψῦξις ἀποκλείσασα τὸ θερμὸν ἐν τῷ βάθει δριμύτερον αὐτὸ ποιεῖ, ὅθεν καὶ θυμοειδεῖς εἰσι καὶ πολεμικοὶ τῇ βίᾳ τοῦ θερμοῦ καὶ ὀρχηστικοὶ δὲ διὰ τὰς ἑτοίμους φυγὰς τῶν βελῶν. ἔστι γὰρ καὶ πυρρίχειος παρ’ αὐτοῖς ὄρχησις, ὅ ἐστιν ἐνόπλιος, κατὰ τὸ εἰρημένον τῷ ποιητῇ Μηριόνη, τάχα κέν σε καὶ ὀρχηστήν περ ἐόντα. Τὴν δὲ γεωμετρίαν οἱ Αἰγύπτιοι εὗρον ἐξ ἀνάγκης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30",
+      "text": "τοῦ γὰρ Νείλου συνεχῶς ἀνιόντος καὶ τὴν Αἴγυπτον ἐπικλύζοντος σύγχυσις τῶν ὁροθεσίων ἐγίνετο καὶ οἱ Αἰγύπτιοι ἐφόνευον ἀλλήλους καὶ λοιπὸν ἐπενόησαν μέτρον τι δι’ οὗ ἐμέτρουν τὴν γῆν καὶ ἐ...",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "tqu-aq",
+      "title": {
+        "english": "A Compendium-Urine",
+        "ancient_greek": "Σύνοψις Περὶ Οὖρων"
+      },
+      "url_slug": "anonymous-medical-writer-compendium-urine-tqu-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/compendium-urine",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-compendium-urine-tqu-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-compendium-urine-tqu-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-compendium-urine-tqu-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-compendium-urine-tqu-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/compendium-urine.epub"
+      }
+    },
+    {
+      "eul_wid": "tqu-af",
+      "title": {
+        "english": "Entirely True and Experienced Prediction",
+        "ancient_greek": "Παντελῶς Ἀληθὴς καὶ Ἐμπειρικὴ Προγνώσις"
+      },
+      "url_slug": "anonymous-medical-writer-true-prediction-tqu-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/true-prediction",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-true-prediction-tqu-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-true-prediction-tqu-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-true-prediction-tqu-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-true-prediction-tqu-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/true-prediction.epub"
+      }
+    },
+    {
+      "eul_wid": "tqu-al",
+      "title": {
+        "english": "Introduction or Physician",
+        "ancient_greek": "Εἰσαγωγὴ ἢ Ἰατρός"
+      },
+      "url_slug": "anonymous-medical-writer-introduction-tqu-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/introduction",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-introduction-tqu-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-introduction-tqu-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-introduction-tqu-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-introduction-tqu-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/introduction.epub"
+      }
+    },
+    {
+      "eul_wid": "tqu-ar",
+      "title": {
+        "english": "Medical Definitions",
+        "ancient_greek": "Ἰατρικαὶ Ὁρισμοί"
+      },
+      "url_slug": "anonymous-medical-writer-definitions-tqu-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/definitions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-definitions-tqu-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-definitions-tqu-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-definitions-tqu-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-definitions-tqu-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/definitions.epub"
+      }
+    },
+    {
+      "eul_wid": "tqu-aw",
+      "title": {
+        "english": "On Bandages",
+        "ancient_greek": "Περὶ Ἐπιδέσμων"
+      },
+      "url_slug": "anonymous-medical-writer-bandages-tqu-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/bandages",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-bandages-tqu-aw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-bandages-tqu-aw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-bandages-tqu-aw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-bandages-tqu-aw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/bandages.epub"
+      }
+    },
+    {
+      "eul_wid": "tqu-ae",
+      "title": {
+        "english": "On Diet in Acute Diseases According to Hippocrates",
+        "ancient_greek": "Περὶ Διαιτῆς ἐν Ὀξέσι Κατὰ Ἱπποκράτην"
+      },
+      "url_slug": "anonymous-medical-writer-acute-diseases-diet-tqu-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/acute-diseases-diet",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-acute-diseases-diet-tqu-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-acute-diseases-diet-tqu-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-acute-diseases-diet-tqu-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-acute-diseases-diet-tqu-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/acute-diseases-diet.epub"
+      }
+    },
+    {
+      "eul_wid": "tqu-ax",
+      "title": {
+        "english": "On Humors",
+        "ancient_greek": "Περὶ Χυμῶν"
+      },
+      "url_slug": "anonymous-medical-writer-humors-tqu-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/humors",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-humors-tqu-ax.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-humors-tqu-ax.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-humors-tqu-ax.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-humors-tqu-ax.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/humors.epub"
+      }
+    },
+    {
+      "eul_wid": "tqu-ao",
+      "title": {
+        "english": "On Obtainable Remedies",
+        "ancient_greek": "Περὶ Παρασκευαστῶν Θεραπευμάτων"
+      },
+      "url_slug": "anonymous-medical-writer-remedies-tqu-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/remedies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-remedies-tqu-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-remedies-tqu-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-remedies-tqu-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-remedies-tqu-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/remedies.epub"
+      }
+    },
+    {
+      "eul_wid": "tqu-am",
+      "title": {
+        "english": "On Philosophical History",
+        "ancient_greek": "Περὶ Φιλοσοφικῆς Ἱστορίας"
+      },
+      "url_slug": "anonymous-medical-writer-philosophical-history-tqu-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/philosophical-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-philosophical-history-tqu-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-philosophical-history-tqu-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-philosophical-history-tqu-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-philosophical-history-tqu-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/philosophical-history.epub"
+      }
+    },
+    {
+      "eul_wid": "tqu-ac",
+      "title": {
+        "english": "On Pulses to Antonius, Student of Discipline and Philosopher",
+        "ancient_greek": "Περὶ Σφυγμῶν πρὸς Ἀντώνιον Μαθητὴν καὶ Φιλόσοφον"
+      },
+      "url_slug": "anonymous-medical-writer-pulses-antonius-tqu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/pulses-antonius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-pulses-antonius-tqu-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-pulses-antonius-tqu-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-pulses-antonius-tqu-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-pulses-antonius-tqu-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/pulses-antonius.epub"
+      }
+    },
+    {
+      "eul_wid": "tqu-as",
+      "title": {
+        "english": "On Signs from Urine",
+        "ancient_greek": "Περὶ Σημείων ἐξ Οὖρων"
+      },
+      "url_slug": "anonymous-medical-writer-urine-signs-tqu-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/urine-signs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-urine-signs-tqu-as.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-urine-signs-tqu-as.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-urine-signs-tqu-as.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-urine-signs-tqu-as.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/urine-signs.epub"
+      }
+    },
+    {
+      "eul_wid": "tqu-au",
+      "title": {
+        "english": "On Substitutes",
+        "ancient_greek": "Περὶ Ἀντικαταστάσεων"
+      },
+      "url_slug": "anonymous-medical-writer-substitutes-tqu-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/substitutes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-substitutes-tqu-au.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-substitutes-tqu-au.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-substitutes-tqu-au.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-substitutes-tqu-au.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/substitutes.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "kzk-ae",
+      "title": {
+        "english": "Fragments on Democritus and Magic",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δημόκριτου καὶ Μαγικῆς"
+      },
+      "url_slug": "bolus-of-mendes-democritus-magic-kzk-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/bolus-of-mendes/democritus-magic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes-democritus-magic-kzk-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes-democritus-magic-kzk-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes-democritus-magic-kzk-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes-democritus-magic-kzk-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/democritus-magic.epub"
+      }
+    },
+    {
+      "eul_wid": "vcc-ac",
+      "title": {
+        "english": "Letter-Worms",
+        "ancient_greek": "Ἐπιστολὴ περὶ σκωλήκων"
+      },
+      "url_slug": "alexander-of-tralles-letter-worms-vcc-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-tralles/letter-worms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles-letter-worms-vcc-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles-letter-worms-vcc-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles-letter-worms-vcc-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles-letter-worms-vcc-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles/letter-worms.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ds",
+      "title": {
+        "english": "On Barley Drink",
+        "ancient_greek": "Περὶ τῆς πτισάνης"
+      },
+      "url_slug": "galen-of-pergamon-barley-drink-qmm-ds",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/barley-drink",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-barley-drink-qmm-ds.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-barley-drink-qmm-ds.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-barley-drink-qmm-ds.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-barley-drink-qmm-ds.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/barley-drink.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-dv",
+      "title": {
+        "english": "On Black Bile",
+        "ancient_greek": "Περὶ μέλαινας χολῆς"
+      },
+      "url_slug": "galen-of-pergamon-black-bile-qmm-dv",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/black-bile",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-black-bile-qmm-dv.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-black-bile-qmm-dv.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-black-bile-qmm-dv.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-black-bile-qmm-dv.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/black-bile.epub"
+      }
+    },
+    {
+      "eul_wid": "nyi-ad",
+      "title": {
+        "english": "On Simple Medicines",
+        "ancient_greek": "Περὶ ἀπλῶν φαρμάκων"
+      },
+      "url_slug": "dioscorides-of-anazarbus-simple-medicines-nyi-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/dioscorides-of-anazarbus/simple-medicines",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscorides-of-anazarbus-simple-medicines-nyi-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscorides-of-anazarbus-simple-medicines-nyi-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscorides-of-anazarbus-simple-medicines-nyi-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscorides-of-anazarbus-simple-medicines-nyi-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscorides-of-anazarbus/simple-medicines.epub"
+      }
+    },
+    {
+      "eul_wid": "umi-ad",
+      "title": {
+        "english": "On Urine According to the Persians",
+        "ancient_greek": "Περὶ Οὖρων κατὰ Πέρσας"
+      },
+      "url_slug": "medical-writers-anonymous-urine-persians-umi-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/urine-persians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-urine-persians-umi-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-urine-persians-umi-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-urine-persians-umi-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-urine-persians-umi-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/urine-persians.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-bj",
+      "title": {
+        "english": "On the Best Constitution of Our Body",
+        "ancient_greek": "Περὶ τῆς ἀρίστης τοῦ σώματος κατασκευῆς"
+      },
+      "url_slug": "galen-of-pergamon-best-constitution-qmm-bj",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/best-constitution",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-best-constitution-qmm-bj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-best-constitution-qmm-bj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-best-constitution-qmm-bj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-best-constitution-qmm-bj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/best-constitution.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-au",
+      "title": {
+        "english": "On the Dissection of Muscles for Beginners",
+        "ancient_greek": "Περὶ τῆς τῶν μυῶν ἀνατομῆς πρὸς τοὺς νεοφύτους"
+      },
+      "url_slug": "galen-of-pergamon-dissection-muscles-qmm-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/dissection-muscles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-dissection-muscles-qmm-au.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-dissection-muscles-qmm-au.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-dissection-muscles-qmm-au.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-dissection-muscles-qmm-au.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/dissection-muscles.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/anonymous-medical-writer/parts-philosophy",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-parts-philosophy-tqu-ap.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-parts-philosophy-tqu-ap.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-parts-philosophy-tqu-ap.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-parts-philosophy-tqu-ap.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/parts-philosophy.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

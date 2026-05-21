@@ -1,0 +1,367 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "bgs-ae",
+  "eul_aid": "bgs",
+  "author_slug": "pythagoras-of-samos",
+  "work_slug": "sacred-doctrine",
+  "url_slug": "pythagoras-of-samos-sacred-doctrine-bgs-ae",
+  "author": {
+    "english": "Pythagoras of Samos",
+    "ancient_greek": "Πυθαγόρας ὁ Σάμιος"
+  },
+  "title": {
+    "english": "Fragments on Sacred Doctrine",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ἱερᾶς Διδασκαλίας"
+  },
+  "seo": {
+    "browser_title": "Fragments on Sacred Doctrine by Pythagoras on Eulogikon",
+    "meta_title": "Fragments on Sacred Doctrine by Pythagoras in Greek",
+    "meta_description": "Fragments by Pythagoras on sacred doctrine. Philosophical epistles from the Archaic period. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Pythagorean",
+      "href": "/affiliations/pythagorean"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Sacred Doctrine</strong> is a pseudepigraphical collection of fifteen passages attributed to the philosopher Pythagoras of Samos. As the historical Pythagoras left no written works, this text belongs to the later tradition of pseudonymous writings produced by Hellenistic and Roman-era Pythagoreans, who composed doctrinal letters and compilations in the master&#x27;s name to lend them authority. Described as an epistle, the collection synthesizes core Pythagorean teachings. Its content, as inferred from the broader tradition, would encompass the doctrines of metempsychosis and the immortality of the soul, the ritual and ethical practices of purification, the sacred cosmological principles of number and harmony, and the ritual taboos and ethical maxims known as the <strong>Akousmata</strong> that governed daily conduct. The fragments survive not through a dedicated manuscript tradition but are compiled from quotations found in the works of later biographers and doxographers such as Diogenes Laërtius, Porphyry, and Iamblichus. While this specific compilation is not independently attested in antiquity, the broader pseudepigraphical Pythagorean corpus was instrumental in the development of Neopythagorean philosophy, which subsequently exerted a profound influence on Middle Platonism and Neoplatonism, and was central to constructing the enduring image of Pythagoras as a mystic and mathematician.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "157 (11t)",
+      "text": "Ἀλειπτικὰ συγγράμματα Δωρικά Ἡλοθαλῆς Ἱερὸς λόγος in hexameter Diog.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "158 (1t)",
+      "text": "L. 8.7 (from Herakleides Lembos) ... δεύτερον τὸν Ἱερὸν λόγον οὖ ἡ ἀρχή· ὦ νέοι, ἀλλὰ σέβεσθε μεθ’ ἡσυχίας τάδε πάντα. Porph.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "159",
+      "text": "VP 40, quotation of three lines = Carm. aur. 40—42; πρὸ δὲ τῆς ἐξαναστάσεως ἐκεῖνα (sc. ἐπᾴδειν)· πρῶτα μὲν ἐξ ὕπνοιο μελίφρονος ἐξυπαναστὰς εὖ μάλ’ ὀπιπεύειν ὅς’ ἐν ἤματι ἔργα τελέσσεις. Iambl. VP 144 ἔστι γὰρ παρ’ αὐτοῖς λεγόμενον ὅτι· ἄνθρωπος δίπος ἐστὶ καὶ ὄρνις καὶ τρίτον ἄλλο. τὸ γὰρ τρίτον Πυθαγόρας ἐστι ... περὶ δὲ τοὺς ὅρκους κτἑ., followed by a quotation of two lines = Carm. aur. 1—2. Joh. Lydus De mens. 4.42 ὁ δὲ Ποντικὸς Ἡρακλείδης φησίν, ὡς εἴ τις τὸν κύαμον ἐν καινῇ θήκῃ ἐμβαλὼν ἀποκρύψει τῇ κόπρῳ ἐπὶ τεσσαράκοντα πάσας ἡμέρας, εἰς ὄψιν ἀνθρώπου σεσαρκωμένου μεταβαλόντα τὸν κύαμον εὑρήσει, καὶ διὰ τοῦτο τὸν ποιητὴν φάναι· ἶσόν τοι κυάμους τε φαγεῖν κεφαλάς τε τοκήων. Eustath. Comm. Il. 13.589 p.948 γράφουσιν οἱ παλαιοὶ ὅτι τοὺς κυάμους ὡς μέλανας οὐκ ἐσθίουσιν οἱ ἱερεῖς οἷς καὶ λόγον φασὶν εἶναι ἱερὸν τοιοῦτον· διὰ τὸ ψυχῇς’ αἰζηῶν βάσιν ἔμμεναι ἠδ’ ἀναβαθμόν ἐξ Ἀίδαο δόμων, ὅταν αὐγὰς εἰσανίωσιν. Ps.—Plut. V. Hom. 154 ὁ δὲ Πυθαγόρας· φείδεο τῆς ζωῆς, μή μιν καταθυμοβορήσῃς. Sext. Adv. math. 9.128 ἔνθεν καὶ παρῄνουν οὗτοι οἱ φιλόσοφοι ἀπέχεσθαι τῶν ἐμψύχων καὶ ἀσεβεῖν ἔφασκον τοὺς ἀνθρώπους· βωμὸν ἐρεύθοντας μακάρων θερμοῖσι φόνοισι. Iambl. VP 162 τοιοῦτον δή ἐστι τὸ ἀρχὴ δέ τοι ἥμισυ παντός, ἀπόφθεγμα Πυθαγόρου αὐτοῦ. Diog.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "162 (19)",
+      "text": "L. 8.22—24 λέγεται παρεγγυᾶν αὐτὸν ἑκάστοτε τοῖς μαθηταῖς τάδε λέγειν εἰς τὸν οἶκον εἰσιοῦσι· πῇ παρέβην; τί δ’ ἔρεξα; τί μοι δέον οὐκ ἐτελέσθη; σφάγιά τε θεοῖς προσφέρειν κωλύειν, μόνον δὲ τὸν ἀναίμακτον βωμὸν προσκυνεῖν. μηδ’ ὀμνύναι θεούς· ἀσκεῖν γὰρ αὑτὸν δεῖν ἀξιόπιστον παρέχειν. τούς τε πρεσβυτέρους τιμᾶν δεῖν, τὸ προηγούμενον τῷ χρόνῳ τιμιώτερον ἡγουμένους· ὡς ἐν κόσμῳ μὲν ἀνατολὴν δύσεως, ἐν βίῳ δ’ ἀρχὴν τελευτῆς, ἐν ζωῇ δὲ γένεσιν φθορᾶς. καὶ θεοὺς μὲν δαιμόνων προτιμᾶν, ἥρωας δ’ ἀνθρώπων, ἀνθρώπων δὲ μάλιστα γονέας. ἀλλήλοις θ’ ὁμιλεῖν, ὡς τοὺς μὲν φίλους ἐχθροὺς μὴ ποιῆσαι, τοὺς δ’ ἐχθροὺς φίλους ἐργάσασθαι· ἴδιόν τε μηδὲν ἡγεῖσθαι· νόμῳ βοηθεῖν, ἀνομίᾳ πολεμεῖν· φυτὸν ἥμερον μήτε φθίνειν μήτε σίνεσθαι, [ἀλλὰ] μηδὲ ζῷον ὃ μὴ βλάπτει ἀνθρώπους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "163",
+      "text": "αἰδῶ καὶ εὐλάβειαν εἶναι μήτε γέλωτι κατέχεσθαι μήτε σκυθρωπάζειν. φεύγειν σαρκῶν πλεονασμόν, ὁδοιπορίης ἄνεσιν καὶ ἐπίτασιν ποιεῖσθαι, μνήμην ἀσκεῖν, ἐν ὀργῇ μήτε τι λέγειν μήτε πράσσειν, μαντικὴν πᾶσαν τιμᾶν, ᾠδαῖς χρῆσθαι πρὸς λύραν ὕμνῳ τε θεῶν καὶ ἀνδρῶν ἀγαθῶν εὔλογον χάριν ἔχειν. τῶν δὲ κυάμων ἀπηγόρευεν ἀπέχεσθαι διὰ τὸ πνευματώδεις ὄντας μάλιστα μετέχειν τοῦ ψυχικοῦ· καὶ ἄλλως κοσμιωτέρας ἀπεργάζεσθαι τὰς γαστέρας, μὴ παραληφθέντας· καὶ διὰ τοῦτο καὶ τὰς καθ’ ὕπνους φαντασίας λείας καὶ ἀταράχους ἀποτελεῖν. Ἱερὸς λόγος or ( Λόγο ς ) περὶ θεῶν in Doric prose Iambl.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "164 (1t)",
+      "text": "VP 146 οὐκέτι δὲ οὖν ἀμφίβολον γέγονε τὸ τὰς ἀφορμὰς παρὰ Ὀρφέως λαβόντα Πυθαγόραν συντάξαι τὸν περὶ θεῶν λόγον, ὃν καὶ ἱερὸν διὰ τοῦτο ἐπέγραψεν ..., εἴτε ὄντως τοῦ ἀνδρός, ὡς οἱ πλεῖστοι λέγουσι, σύγγραμμά ἐστιν, εἴτε Τηλαύγους (q.v.) ... λέγει γάρ· 〈Λόγοσ〉 ὅδε περὶ θεῶν Πυθαγόρα τῶ Μνημάρχω, τὸν ἐξέμαθον ὀργιασθεὶς ἐν Λιβήθροις τοῖς Θρᾳκίοις, Ἀγλαοφάμω τελεστᾶ μεταδόντος, ὡς ἄρα Ὀρφεὺς ὁ Καλλιόπας κατὰ τὸ Πάγγαιον ὄρος ὑπὸ τᾶς ματρὸς πινυσθεὶς ἔφα, τὰν ἀριθμῶ οὐσίαν ἀίδιον εἶμεν ἀρχὰν προμαθεστάταν τῶ παντὸς ὠρανῶ καὶ γᾶς καὶ τᾶς μεταξὺ φύσιος, ἔτι δὲ καὶ θείων καὶ θεῶν καὶ δαιμόνων διαμονᾶς ῥίζαν. Syrian. CAG 6.1 p.123 Kroll πῶς δ’ ἂν αὐτὸς μὲν Πυθαγόρας ἐν τῷ Ἱερῷ λόγῳ διαρρήδην μορφῶν καὶ ἰδεῶν κράντορα τὸν ἀριθμὸν ἔλεγεν εἶναι καὶ θεῶν 〈καὶ〉 δαιμόνων αἴτιον καὶ τῷ πρεσβίστῳ καὶ κρατιστεύοντι τεχνίτᾳ θεῷ κανόνα καὶ λόγον τεχνικόν, νοῦν τε καὶ στάθμαν ἀκλινεστάταν τὸν ἀριθμὸν ὑπεῖμεν συστάσιός τε καὶ γενέσιος τῶν πάντων. Iambl.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "165",
+      "text": "in Nicom. arithm. introd. p.10 Pistelli Πυθαγόρας δὲ (sc. φησὶν τὸν ἀριθμὸν εἶναι) ἔκτασιν καὶ ἐνέργειαν τῶν ἐν μονάδι σπερματικῶν λόγων, ἢ ἑτέρως τὸ πρὸ πάντων ὑποστὰν ἐν θείῳ νῷ ἀφ’ οὗ καὶ ἐξ οὗ πάντα συντέτακται καὶ μένει τάξιν ἄλυτον διηριθμημένα. Ps.—Iambl. Theol. arithm. p.21 De F. εἰ δὲ τῶν ὄντων εἶδος ὁ ἀριθμός, ἀριθμοῦ δὲ τὰ ῥιζώματα καὶ οἱονεὶ στοιχεῖα οἱ μέχρι τετράδος ὅροι, εἴη ἂν ἐν τούτοις τὰ προλεχθέντα ἰδιώματα καὶ αἱ τῶν τεσσάρων ἐπιστημῶν ἐμφάσεις ... καθὼς ἐν τῷ δηλουμένῳ περὶ θεῶν συγγράμματι ὁ Πυθαγόρας οὕτω διορίζεται· τέσσαρες μὲν καὶ ταὶ σοφίας ἐπιβάθραι, ἀριθμητικὰ μωσικὰ γεωμετρία σφαιρικά, αʹ βʹ γʹ δʹ τεταγμέναι. καὶ Κλεινίας κτἑ. Joh. Lydus De mens. 2.9 αὐτῷ (sc. τῷ Ἑρμῇ) τοίνυν τὴν τετράδα οἱ φιλοσοφοῦντες ἀνέθεντο ὡς ἐφόρῳ τῶν μιγάδων ψυχῶν· τὰ γὰρ τῆς ψυχῆς στηρίγματα τέσσαρά ἐστι, νοῦς ἐπιστήμη δόξα αἴσθησις. ψυχὰ γὰρ ἀνθρώπου, φησὶν ὁ Πυθαγόρας, ἔστι τετράγωνον εὐθυγώνιον. Καθαρμοί Κατάβασις εἰς Ἅιδου Κοπίδες Diog.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "168 (13t)",
+      "text": "L. 8.8 αὐτοῦ (sc. τοῦ Πυθαγόρου) λέγουσι καὶ τὰς Κοπίδας, οὗ ἡ ἀρχή· Μὴ ἀναδίδευ μηδενί. Κρότων Λόγος πρὸς Ἄβαριν Λύσις ψυχῆς Μυστικὸς λόγος Ὅρκος Aet.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "170 (7t)",
+      "text": "1.3.8 (Vors. 1 8 p.455) διὸ καὶ ἐπεφθέγγοντο οἱ Πυθαγόρειοι ὡς μεγίστου ὅρκου ὄντος τῆς τετράδος· οὐ μὰ τὸν ἁμετέρᾳ κεφαλᾷ παραδόντα τετρακτύν παγὰν ἀενάου φύσεως ῥίζωμά τ’ ἔχουσαν. Παιδευτικό ν , πολιτικό ν , φυσικόν Diog. L. 8.6 Ἡράκλειτος γοῦν ὁ φυσικὸς (Vors.B 129) μονονουχὶ κέκραγε καί φησι· ‘Πυθαγόρης Μνησάρχου ἱστορίην ἤσκησεν ἀνθρώπων μάλιστα πάντων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "171",
+      "text": "καὶ ἐκλεξάμενος ταύτας τὰς συγγραφὰς ἐποιήσατο ἑαυτοῦ σοφίην, πολυμαθείην, κακοτεχνίην.‘ οὕτω δ’ εἶπεν, ἐπειδήπερ ἐναρχόμενος ὁ Πυθαγόρας τοῦ Φυσικοῦ συγγράμματος λέγει ὧδε· οὐ μὰ τὸν ἀέρα, τὸν ἀναπνέω, οὐ μὰ τὸ ὕδωρ, τὸ πίνω, οὔ κοτ’ οἴσω ψόγον περὶ τοῦ λόγου τοῦδε. γέγραπται δὲ τῷ Πυθαγόρᾳ συγγράμματα τρία, Παιδευτικόν, Πολιτικόν, Φυσικόν. Diog. L. 8.9 ἐν δὲ τοῖς τρισὶ συγγράμμασι τοῖς προειρημένοις φέρεται Πυθαγόρου τάδε καθολικῶς. οὐκ ἐᾷ εὔχεσθαι ὑπὲρ αὑτῶν διὰ τὸ μὴ εἰδέναι τὸ συμφέρον. τὴν μέθην ἓν ἀνθ’ ἑνὸς βλάβην καλεῖ καὶ πλησμονὴν πᾶσαν ἀποδοκιμάζει, λέγων μὴ παραβαίνειν μήτε τῶν πόνων μήτε τῶν σιτίων μηδένα τὴν συμμετρίαν. καὶ περὶ ἀφροδισίων δέ φησιν οὕτως· ἀφροδίσια χειμῶνος ποιέεσθαι, μὴ θέρεος· φθινοπώρου δὲ καὶ ἦρος κουφότερα, βαρέα δὲ πᾶσαν ὥρην καὶ ἐς ὑγιείην οὐκ ἀγαθά. ἀλλὰ καί ποτε ἐρωτηθέντα πότε δεῖ πλησιάζειν, εἰπεῖν· ὅταν βούλῃ γενέσθαι αὑτοῦ ἀσθενέστερος. διαιρεῖται δὲ καὶ τὸν τοῦ ἀνθρώπου βίον οὕτως· παῖς εἴκοσι ἔτεα, νεηνίσκος εἴκοσι, νεηνίης εἴκοσι, γέρων εἴκοσι. αἱ δὲ ἡλικίαι πρὸς τὰς ὥρας ὧδε σύμμετροι· παῖς ἔαρ, νεηνίσκος θέρος, νεηνίης φθινόπωρον, γέρων χειμών. ἔστι δ’ αὐτῷ ὁ μὲν νεηνίσκος μειράκιον, ὁ δὲ νεηνίης ἀνήρ. Diog. L. 8.14 ἀλλὰ καὶ αὐτὸς (sc. ὁ Πυθαγόρας) ἐν τῇ γραφῇ φησι· δι’ ἑκκαίδεκα καὶ διηκοσίων ἐτέων ἐξ Ἀίδεω παραγεγενῆσθαι ἐς ἀνθρώπους. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "172 (6)",
+      "text": "E in Od. 1.371 τοῦτο κατὰ τὸν Πυθαγόρου λόγον· ἐκεῖνος γάρ φησιν ὡς ἔξω γενόμενος τοῦ σώματος ἀκήκοα ἐμμελοῦς ἁρμονίας. Περὶ τῆς Ἐρυθρᾶς θαλάττης Περὶ εὐσεβείας Περὶ τοῦ ὅλου Περὶ Ὁμήρου Περὶ ψυχῆς Ὕμνος εἰς ἀριθμόν Prokl.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "173 (1t)",
+      "text": "in Tim. 39e, 3 p.107 D., cf. 28c, 1 p.316 D. (Syrian. CAG 6.1.106 Kr.; Orph. fr. 315 Kern) ... πρόεισι γὰρ ὁ θεῖος ἀριθμός, ὥς φησιν ὁ Πυθαγόρειος εἰς αὐτὸν ὕμνος, μουνάδος ἐκ κευθμῶνος ἀκηράτου, ἔστ’ ἂν ἵκηται τετράδα ἐπὶ ζαθέην· ἣ δὴ τέκε μητέρα πάντων, πανδοχέα, πρέσβειραν, ὅρον περὶ πᾶσι τιθεῖσαν, ἄτροπον, ἀκαμάτην· δεκάδα κλείουσί μιν ἁγνήν. Iambl. VP 162 (Orph. fr. 317 Kern) ... βραχυλογίᾳ τινὶ ... οἷόνπερ καὶ ἐν τῷ· ἀριθμῷ δέ τε παντ’ ἐπέοικεν, ὃ δὴ πυκνότατα πρὸς ἅπαντας ἀπεφθέγγετο (sc. ὁ Πυθαγόρας). Epigram on Zeu s ’ tomb Porph.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "174 (7t)",
+      "text": "VP 17 εἰς δὲ τὸ Ἰδαῖον καλούμενον ἄντρον καταβὰς (sc. ὁ Πυθαγόρας) ἔρια ἔχων μέλανα τὰς νομιζομένας τρὶς ἐννέα ἡμέρας ἐκεῖ διέτριψεν καὶ καθήγισεν τῷ Διὶ τόν τε στορνύμενον αὐτῷ κατ’ ἔτος θρόνον ἐθεάσατο, ἐπίγραμμά τ’ ἐνεχάραξεν ἐπὶ τῷ τάφῳ ἐπιγράψας ‘Πυθαγόρας τῷ Διί‘, οὗ ἡ ἀρχή· ὧδε θανὼν κεῖται Ζάν, ὃν Δία κικλήσκουσιν. Monotheistic poem Justin. Mart. de monarch. 2, 2 p.134 Otto 3 κοινωνεῖ δ’ αὐτῷ (sc. Ὀρφεῖ) καὶ Πυθαγόρας ἐν οἷς γράφει· εἴ τις ἐρεῖ ‘Θεός εἰμι πάρεξ ἑνόσ‘, οὗτος ὀφείλει κόσμον ἴσον τούτῳ στήσας εἰπεῖν ‘Ἐμὸς οὗτος·‘ κοὐχὶ μόνον στήσας εἰπεῖν ‘Ἐμόσ‘, ἀλλὰ κατοικεῖν αὐτὸς ἐν ᾧ πεποίηκε· πεποίηται δ’ ὑπὸ τούτου. Letters Correspondence with Anaximenes.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "185 (1t)",
+      "text": "Diog. L. 2.5 Ἀναξιμένης Πυθαγόρῃ. Εὐβουλότατος ἦς ἡμέων, μεταναστὰς ἐκ Σάμου ἐς Κρότωνα, ἐνθάδε εἰρηνεῖς. οἱ δὲ Αἰακέος παῖδες ἄλαστα κακὰ ἔρδουσι καὶ Μιλησίους οὐκ ἐπιλείπουσι αἰσυμνῆται. δεινὸς δὲ ἡμῖν καὶ ὁ Μήδων βασιλεύς, οὐκ ἤν γε ἐθέλωμεν δασμοφορέειν· ἀλλὰ μέλλουσι δὴ ἀμφὶ τῆς ἐλευθερίης ἁπάντων Ἴωνες Μήδοις κατίστασθαι ἐς πόλεμον· καταστᾶσι δὲ οὐκέτι ἐλπὶς ἡμῖν σωτηρίης. κῶς ἂν οὖν Ἀναξιμένης ἐν θυμῷ ἔτι ἔχοι αἰθερολογέειν, ἐν δείματι ἐὼν ὀλέθρου ἢ δουλοσύνης; σὺ δὲ εἶ καταθύμιος μὲν Κροτωνιήτῃσι, καταθύμιος δὲ καὶ τοῖσι ἄλλοισι Ἰταλιώτῃσι· φοιτέουσι δέ τοι λεσχηνῶται καὶ ἐκ Σικελίης. Diog. L. 8.49 (Hercher, Epistol. Gr. p.601) Πυθαγόρας Ἀναξιμένει. Καὶ σύ, ὦ λῷστε, εἰ μηδὲν ἀμείνων ἦς Πυθαγόρεω γενεήν τε καὶ κλέος, μεταναστὰς ἂν οἴχεο ἐκ Μιλήτου· νῦν δὲ κατερύκει σε ἡ πατρόθεν εὔκλεια, καὶ ἐμέ τε ἂν κατείρυκεν Ἀναξιμένει ἐοικότα. εἰ δὲ ὑμεῖς οἱ ὀνήιστοι τὰς πόλιας ἐκλείψητε, ἀπὸ μὲν αὐτέων ὁ κόσμος αἱρεθήσεται, ἐπικινδυνότερα δ’ αὐτῇσι τὰ ἐκ Μήδων. οὔτε δὲ αἰεὶ καλὸν αἰθερολογεῖν, μελεδωνόν τε εἶναι τῇ πατρίδι κάλλιον. καὶ ἐγὼ δὲ οὐ πάντα περὶ τοὺς ἐμεωυτοῦ μύθους, ἀλλὰ καὶ ἐν πολέμοις, οὓς διαφέρουσιν εἰς ἀλλήλους Ἰταλιῶται. To Hieron. Hercher, Epistologr. Gr. p.601 Πυθαγόρας Ἱέρωνι. Ἀσφαλὴς ὁ ἐμὸς βίος καὶ ἡσύχιος, ὁ δὲ σὸς κατ’ οὐδὲν ἐμοὶ προσπελάζει. μέτριος ἀνὴρ καὶ λιποδεὴς Σικελικῆς τραπέζης οὐδὲν προσδεῖται. πάντ’ ἔχει Πυθαγόρας ἱκανὰ τὰ καθ’ ἡμέραν, οὗ ἂν ἔλθῃ· θεραπεία δὲ δυνάστου βαρὺ καὶ ἐπαχθὲς τῷ μὴ εἰθισμένῳ. μέγα καὶ ἀσφαλὲς αὐτάρκεια· οὔτε γὰρ ἔχει τὸν φθονήσοντα οὔτε τὸν ἐπιβουλεύσοντα. διὸ καὶ δοκεῖ εἶναι ἐγγυτάτω θεοῦ ἡ διαγωγή. διάθεσις ἀγαθὴ οὐ γεννᾶται ὑπὸ ἀφροδισίων οὐδὲ ὑπὸ ἐδεσμάτων, ἀλλ’ ὑπὸ ἐνδείας ἀγούσης πρὸς ἀνδρὸς ἀρετήν· ἡδοναὶ δὲ ποικίλαι καὶ ἀκρατεῖς δουλοῦνται ψυχὰς ἀσθενῶν ἀνθρώπων, πολὺ δὲ μάλιστα ὧν νῦν σὺ ἀπολαύεις. διὸ καὶ ἐπιδοὺς σεαυτὸν εἰς τὰ τοιαῦτα αἰωρῇ [γὰρ] καὶ οὐ δύνασαι σώζεσθαι· λόγος γὰρ ὁ παρὰ σοῦ οὐκ ἐναντιοῦται τοῖς ἀσυμφόροις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "186",
+      "text": "μὴ οὖν κάλει Πυθαγόραν συμβιώσοντά σοι· οὐδὲ γὰρ ἰατροὶ αἱροῦνται τοῖς νοσοῦσι συγκάμνειν. Indeterminable: Ps.—Justin. Mart. Cohort. ad gentes 19, 2 p.68—70 Otto 3 ὁ δὲ τοῦ Μνησάρχου Πυθαγόρας, ὁ τὰ δόγματα τῆς ἑαυτοῦ φιλοσοφίας διὰ συμβόλων μυστικῶς ἐκθέμενος, ὡς δηλοῦσιν οἱ τὸν βίον αὐτοῦ γεγραφότες, ἄξια καὶ αὐτὸς τῆς εἰς Αἴγυπτον ἀποδημίας περὶ ἑνὸς θεοῦ φρονῶν φαίνεται. τὴν γὰρ μονάδα ἀρχὴν ἁπάντων λέγων καὶ ταύτην τῶν ἀγαθῶν ἁπάντων αἰτίαν εἶναι, δι’ ἀλληγορίας ἕνα τε καὶ μόνον διδάσκει θεὸν εἶναι. ὅτι δὲ τοῦθ’ οὕτως ἔχει, δῆλον ἀφ’ ὧν μονάδα καὶ ἓν πολλῷ διαφέρειν ἀλλήλων ἔφη. τὴν μὲν γὰρ μονάδα ἐν τοῖς νοητοῖς εἶναι λέγει, τὸ δὲ ἓν ἐν τοῖς ἀριθμοῖς. εἰ δὲ καὶ σαφεστέραν ἀπόδειξιν περὶ ἑνὸς θεοῦ τῆς Πυθαγόρου δόξης ποθεῖτε γνῶναι, ἀκούσατε καὶ τῆς αὐτοῦ δόξης. οὕτω γὰρ ἔφη· ὁ μὲν θεὸς εἷς, αὐτὸς δὲ οὐχ, ὥς τινες ὑπονοοῦσιν, ἐκτὸς τᾶς διακοσμήσιος, ἀλλ’ ἐν ἑαυτῷ ὅλος ἐν ὅλῳ τῷ κύκλῳ ἐπισκοπῶν πάσας τὰς γενέσιάς ἐστι, κρᾶσις ἐὼν τῶν ὅλων αἰώνων καὶ ἐργάτας τῶν αὐτοῦ δυνάμιων καὶ ἔργων, ἀρχὰ πάντων, ἐν οὐρανῷ φωστὴρ καὶ πάντων πατήρ, νοῦς καὶ ψύχωσις τῶν ὅλων, κύκλων ἁπάντων κίνασις. οὕτω μὲν οὖν ὁ Πυθαγόρας.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "bgs-aa",
+      "title": {
+        "english": "Astrological Fragments",
+        "ancient_greek": "Ἀστρολογικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "pythagoras-of-samos-astrology-bgs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pythagoras-of-samos/astrology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-astrology-bgs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-astrology-bgs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-astrology-bgs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-astrology-bgs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos/astrology.epub"
+      }
+    },
+    {
+      "eul_wid": "bgs-ab",
+      "title": {
+        "english": "Astrological Fragments",
+        "ancient_greek": "Ἀστρολογικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "pythagoras-of-samos-astrological-fragments-bgs-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/pythagoras-of-samos/astrological-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-astrological-fragments-bgs-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-astrological-fragments-bgs-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-astrological-fragments-bgs-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-astrological-fragments-bgs-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos/astrological-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "bgs-ac",
+      "title": {
+        "english": "Golden Poem",
+        "ancient_greek": "Χρυσοῦν Ποίημα"
+      },
+      "url_slug": "pythagoras-of-samos-golden-poem-bgs-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/pythagoras-of-samos/golden-poem",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-golden-poem-bgs-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-golden-poem-bgs-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-golden-poem-bgs-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-golden-poem-bgs-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos/golden-poem.epub"
+      }
+    },
+    {
+      "eul_wid": "bgs-ad",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "pythagoras-of-samos-testimonies-bgs-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/pythagoras-of-samos/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-testimonies-bgs-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-testimonies-bgs-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-testimonies-bgs-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-testimonies-bgs-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos/testimonies.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "sno-ap",
+      "title": {
+        "english": "Beard-Hater",
+        "ancient_greek": "Μισοπώγων"
+      },
+      "url_slug": "julian-the-apostate-beard-hater-sno-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/julian-the-apostate/beard-hater",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-beard-hater-sno-ap.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-beard-hater-sno-ap.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-beard-hater-sno-ap.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-beard-hater-sno-ap.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/beard-hater.epub"
+      }
+    },
+    {
+      "eul_wid": "bdq-ab",
+      "title": {
+        "english": "Fragments on Astronomy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀστρονομίας"
+      },
+      "url_slug": "cleostratus-of-tenedos-astronomy-fragments-bdq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/cleostratus-of-tenedos/astronomy-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-astronomy-fragments-bdq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-astronomy-fragments-bdq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-astronomy-fragments-bdq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-astronomy-fragments-bdq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos/astronomy-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "ojw-ae",
+      "title": {
+        "english": "Gnomology (Extended)",
+        "ancient_greek": "Γνωμολόγιον Ἐπικτήτου"
+      },
+      "url_slug": "epictetus-gnomology-ae-ojw-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/epictetus/gnomology-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ae-ojw-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ae-ojw-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ae-ojw-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ae-ojw-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/gnomology-ae.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-ez",
+      "title": {
+        "english": "On Fate",
+        "ancient_greek": "Περὶ εἱμαρμένης"
+      },
+      "url_slug": "plutarch-of-chaeronea-on-fate-okg-ez",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/on-fate",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-on-fate-okg-ez.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-on-fate-okg-ez.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-on-fate-okg-ez.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-on-fate-okg-ez.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/on-fate.epub"
+      }
+    },
+    {
+      "eul_wid": "ljk-aa",
+      "title": {
+        "english": "On Signs of Waters, Winds, Storms, and Fair Weather",
+        "ancient_greek": "Περὶ τῶν Σημείων τῶν Ὑδάτων, Ἀνέμων, Θυελλῶν, καὶ Εὐδίας"
+      },
+      "url_slug": "theophrastus-of-eresus-weather-signs-ljk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/weather-signs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-weather-signs-ljk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-weather-signs-ljk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-weather-signs-ljk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-weather-signs-ljk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/weather-signs.epub"
+      }
+    },
+    {
+      "eul_wid": "ilq-aa",
+      "title": {
+        "english": "On the Supreme Good and Happiness",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hieronymus-of-rhodes-supreme-good-happiness-ilq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hieronymus-of-rhodes/supreme-good-happiness",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hieronymus-of-rhodes-supreme-good-happiness-ilq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hieronymus-of-rhodes-supreme-good-happiness-ilq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hieronymus-of-rhodes-supreme-good-happiness-ilq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hieronymus-of-rhodes-supreme-good-happiness-ilq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hieronymus-of-rhodes/supreme-good-happiness.epub"
+      }
+    },
+    {
+      "eul_wid": "pwi-aa",
+      "title": {
+        "english": "Physiognomics, Adamantian Epitome",
+        "ancient_greek": "Φυσιογνωμονικά"
+      },
+      "url_slug": "pseudo-polemon-physiognomics-aa-pwi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-polemon/physiognomics-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-polemon-physiognomics-aa-pwi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-polemon-physiognomics-aa-pwi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-polemon-physiognomics-aa-pwi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-polemon-physiognomics-aa-pwi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-polemon/physiognomics-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "bay-aa",
+      "title": {
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
+      },
+      "url_slug": "cercops-the-orphic-testimony-bay-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cercops-the-orphic/testimony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cercops-the-orphic-testimony-bay-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cercops-the-orphic-testimony-bay-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cercops-the-orphic-testimony-bay-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cercops-the-orphic-testimony-bay-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cercops-the-orphic/testimony.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/pythagoras-of-samos/sacred-doctrine",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-sacred-doctrine-bgs-ae.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-sacred-doctrine-bgs-ae.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-sacred-doctrine-bgs-ae.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-sacred-doctrine-bgs-ae.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos/sacred-doctrine.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

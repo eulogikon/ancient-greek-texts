@@ -1,0 +1,814 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "nuw-ac",
+  "eul_aid": "nuw",
+  "author_slug": "melampus-the-diviner",
+  "work_slug": "pulses",
+  "url_slug": "melampus-the-diviner-pulses-nuw-ac",
+  "author": {
+    "english": "Melampus the Diviner",
+    "ancient_greek": "Μέλαμπους ὁ Μάντις"
+  },
+  "title": {
+    "english": "On Pulses",
+    "ancient_greek": "Περὶ παλμῶν ἀρχομένου ἀπὸ κεφαλῆς ἕως ποδῶν"
+  },
+  "seo": {
+    "browser_title": "On Pulses by Melampus the Diviner on the Eulogikon",
+    "meta_title": "On Pulses by Melampus the Diviner in Ancient Greek",
+    "meta_description": "Melampus interprets involuntary bodily pulsations and tremors as omens, mapping divinatory meanings across the Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">On Pulses is a concise Greek treatise on palmomancy, the practice of divining meaning from involuntary bodily twitches. Attributed to the mythical seer Melampus, this practical manual catalogs the prophetic significance of twitches in a systematic list of eighty-two entries, organized methodically from the head down to the feet. It associates specific locations on the body with omens foretelling events such as the arrival of visitors, the receipt of news, or changes in fortune, thereby reflecting a recognized and formalized branch of ancient divinatory science. The text functions as a straightforward prescriptive guide, offering a catalog of signs and their interpretations without theoretical elaboration. Its core principles include the interpretation of physical spasms as divine messages, a symbolic mapping of specific types of prognostication onto particular body parts, and a focus on binary outcomes that typically forecast either positive or negative events like financial gain or personal loss. As an artifact of practical religion, it represents a personal and non-institutional form of religious practice aimed at navigating daily uncertainties. The treatise survives within the medieval manuscript tradition of works ascribed to Melampus. While the attribution to the legendary seer is not historical, the text itself is a genuine product of ancient divinatory lore, most likely compiled during the Hellenistic or Roman period. Its significance lies in providing crucial evidence for the history of popular religion and mantle techniques, illustrating the pervasive ancient belief in divine communication through bodily signs and the meticulous categorization of such phenomena. The practice it describes is referenced by later authors such as Lucian, and its primary influence is seen in the enduring continuity of folk beliefs concerning bodily omens.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t",
+      "text": "ΠΕΡΙ ΠΑΛΜΩΝ ΑΡΧΟΜΕΝΟΥ ΑΠΟ ΚΕΦΑΛΗΣ ΕΩΣ ΠΟΔΩΝ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Κεφαλῆς τρίχες ἐὰν ἅλλωνται ἢ ὀρθιάσωσιν, ἐπιβουλὴν ἢ διὰ γυναικὸς ἢ δι’ ἑτέρου προσώπου σημαίνουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Κορυφὴ ἐὰν ἅλληται μεγάλην βίου πτῶσιν σημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Ἐγκέφαλος ἐὰν ἅλληται χρόνιον νόσον δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Κρόταφος δεξιὸς χαρὰν σημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "Τὸ ὄπισθεν τῆς κεφαλῆς ἐπιβουλὴν ἐχθρῶν σημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "Ὦτα πάλλοντα ζημίαν σημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "Ὀφρὺς δεξιὸς νόσον δηλοῖ, δούλῃ δὲ ὕβριν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "Ὀφρὺς εὐώνυμος πάλλουσα εὐπορίαν καὶ δόξαν καὶ ἔπαινον δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "Ὀφρὺς δεξιὰ πάλλουσα * πολλῶν πραγμάτων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "Ὀφθαλμῶν δεξιοῦ τὸ ἄνω βλέφαρον πολλὴν εὐπορίαν καὶ δόξαν σημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "Τὸ κάτω βλέφαρον πάλλον δάκρυα δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12",
+      "text": "Ὀφθαλμοῦ εὐωνύμου 〈τὸ ἄνω βλέφαρον〉 πάλλον λύπας καὶ δάκρυα δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13",
+      "text": "Ὀφθαλμοῦ εὐωνύμου τὸ ἄνω βλέφαρον ζημίαν δηλοῖ, δούλῃ δὲ τιμωρίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14",
+      "text": "Τὸ κάτω βλέφαρον ἀγαθὰ σημαίνει· ὄψεται δὲ καὶ ἀπόδημον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "Ὠτίον δεξιὸν πάλλον μνήμην ἀγαθὴν ἢ ἀπόδημον σημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16",
+      "text": "Ὠτίον εὐώνυμον πάλλον ἀγαθῶν ἐπίκτησιν δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17",
+      "text": "Μῆλον δεξιὸν πάλλον ὕβριν δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18",
+      "text": "Μῆλον εὐώνυμον πάλλον εὐφρασίαν σημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19",
+      "text": "Γνάθος δεξιὸς καὶ ἀριστερὸς ἀγαθὰ δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20",
+      "text": "Ὀδόντες ἐὰν πρὸς ἀλλήλους συγκροτήσωσιν λόγους πονηροὺς καὶ κακὴν ἐπιβουλὴν δηλοῦσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "21",
+      "text": "Γλῶσσα κνηθομένη μάχην δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "22",
+      "text": "Γενείου δεξιὸν μέρος πάλλον ἀγαθὸν δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "23",
+      "text": "Σιαγὼν δεξιὰ ἐὰν ἅλληται ζημίαν σημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "24",
+      "text": "Ὁμοίως δὲ καὶ ὁ εὐώνυμος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25",
+      "text": "Ῥινὸς δεξιὸν μέρος ἐὰν ἅλληται ἐχθρῶν ἐπικράτησιν δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "26",
+      "text": "Ῥινὸς εὐώνυμον μέρος ἐὰν ἅλληται χαρὰν δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "27",
+      "text": "Χεῖλος τὸ ἄνω μέρος ἐὰν ἅλληται νίκην κατ’ ἐχθρῶν δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "28",
+      "text": "Χεῖλος τὸ κάτω εὐωχίαν μεγάλην δηλοῖ, δούλῳ δὲ μέριμναν μετὰ κέρδους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "29",
+      "text": "Στόμα ὅλον πάλλον χαρὰν σημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30",
+      "text": "Οὐρανίσκος ἐὰν ἅλληται εὐφρασίαν δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "31",
+      "text": "Βρόχθος πάλλων ἔπαινον καὶ δόξαν σημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "32",
+      "text": "Τράχηλος πάλλων χαρὰν ἐπί τινι δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "33",
+      "text": "Κατάκλεις δεξιὰ μάχας καὶ ἀκαταστασίας σημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "34",
+      "text": "Σπόνδυλος ὁ τοῦ τραχήλου πάλλων κίνδυνον σημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "35",
+      "text": "Ὦμος δεξιὸς ἐὰν ἅλληται ὠφέλειαν δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "36",
+      "text": "Ὦμος εὐώνυμος ἐὰν ἅλληται μεγάλου κινδύνου λύτρωσιν σημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "37",
+      "text": "Ὠμοπλάτης δεξιὸς ἢ ἀριστερὸς πάλλων ὠφέλειαν μετ’ εὐφρασίας σημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "38",
+      "text": "Ἀκρώμιον δεξιὸν ἐπιβουλὴν δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "39",
+      "text": "Ἀκρώμιον εὐώνυμον πάλλον κέρδος σημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "40",
+      "text": "Βραχίων εὐώνυμος εὐφρασίαν σημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "41",
+      "text": "Μῦς δεξιὸς ἐὰν ἅλληται ὁμοίως καὶ ἀριστερὸς εὐφρασίαν δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "42",
+      "text": "Ἀγκὼν δεξιὸς ἐὰν ἅλληται ἀπόδοσιν χρέους σημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "43",
+      "text": "Ἀγκὼν εὐώνυμος ἐὰν ἅλληται ἀγαθὰ σημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "44",
+      "text": "Καρπὸς δεξιὸς πάλλων κατηγορίαν σημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "45",
+      "text": "Παλάμη δεξιὰ πάλλουσα ἐξ ἀπροσδοκήτων κέρδος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "46",
+      "text": "Παλάμη ἀριστερὰ πᾶσι καλὴν πρᾶξιν σημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "47",
+      "text": "Δάκτυλος δεξιᾶς χειρὸς ὁ μέγας ἐὰν ἅλληται κατηγορίαν σημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "48",
+      "text": "Δάκτυλος δεύτερος ἐπίκτησιν ἀγαθῶν δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "49",
+      "text": "Δάκτυλος ὁ μέσος ἐὰν ἅλληται νόσον δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "50",
+      "text": "Δάκτυλος ὁ παρὰ τὸν μέσον πολλῶν ἀγαθῶν κυριεύεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "51",
+      "text": "Δάκτυλος ὁ μικρὸς ἐπίκτησιν πολλῶν ἀγαθῶν σημαίνει καὶ ἐπὶ γυναικὸς χαράν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "52",
+      "text": "Ὄνυχες ἐὰν ἅλλωνται καὶ μυρμηκιῶσιν καλὴν πρᾶξιν δηλοῦσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "53",
+      "text": "Στῆθος ἐὰν ἅλληται ψόγον δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "54",
+      "text": "Μασθὸς δεξιὸς ἐὰν ἅλληται πλοῦτον δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "55",
+      "text": "Μασθὸς εὐώνυμος ἐὰν ἅλληται ἀγαθὰ δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "56",
+      "text": "Τὸ μέσον τῶν μασθῶν ἐὰν ἅλληται βαρεῖαν νόσον δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "57",
+      "text": "Γαστὴρ ἐὰν ἅλληται κέρδος 〈καὶ〉 ἀγαθὰ ἀπροσδόκητα σημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "58",
+      "text": "Πλευρὰ δεξιὰ πάλλουσα εὐφροσύνην δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "59",
+      "text": "Ὀμφαλὸς ἐὰν ἅλληται μεγάλην εὐωχίαν σημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "60",
+      "text": "Νῶτος δεξιὸς πάλλων κακοπάθειαν δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "61",
+      "text": "Νῶτος εὐώνυμος πάλλων εὐφρασίαν δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "62",
+      "text": "Ἰσχίον εὐώνυμον τὸ αὐτὸ δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "63",
+      "text": "Ὀσφὺς δεξιὰ μακρὰν ὁδὸν σημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "64",
+      "text": "Ὀσφὺς εὐώνυμος 〈ἐὰν〉 ἅλληται τὸ αὐτὸ σημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "65",
+      "text": "Ἥβη δεξιὰ ἐὰν ἅλληται ...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "66",
+      "text": "Σφυρὸν δεξιὸν καὶ ἀριστερὸν τὸ αὐτὸ δηλοῖ καὶ πολλῶν ἀγαθῶν ἐπίκτησιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "67",
+      "text": "Βουβὼν δεξιὸς ἐὰν ἅλληται πολλῶν ἀγαθῶν κύριός ἐστι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "68",
+      "text": "Βουβὼν εὐώνυμος τὸ αὐτό.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "69",
+      "text": "Πυγὴ δεξιὰ ἐὰν ἅλληται ὠφέλειαν δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "70",
+      "text": "Πυγὴ εὐώνυμος ἐὰν ἅλληται χαρὰν ἐπί τινι τῶν ἰδίων σημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "71",
+      "text": "Τὸ ὑποκάτω τῶν ὄρχεων ψόγον διὰ γυναικὸς δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "72",
+      "text": "Ὄρχις δεξιὸς ἐὰν ἅλληται πρὸς ὀλίγον λύπην δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "73",
+      "text": "Ὄρχις εὐώνυμος ἐὰν ἅλληται ἀγαθὸν δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "74",
+      "text": "Μηρὸς δεξιὸς ἐὰν ἅλληται πρὸς ὀλίγον λύπην δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "75",
+      "text": "Μηρὸς εὐώνυμος ἐὰν ἅλληται εὐφρασίαν σημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "76",
+      "text": "Τὸ ὄπισθεν τοῦ δεξιοῦ μηροῦ ἐὰν ἅλληται μακρὰν ὁδὸν δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "77",
+      "text": "Γόνυ δεξιὸν ἐὰν ἅλληται ...........................",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "78",
+      "text": "Ἀγκύλη εὐώνυμος εὐφρασίαν σημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "79",
+      "text": "Γαστουκνήμη δεξιὰ ἐὰν ἅλληται ............",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "80",
+      "text": "Γαστροκνήμη εὐώνυμος ἐὰν ἅλληται χαρὰν ἐπί τινι σημαίνει ...............",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "81",
+      "text": "Κνήμη δεξιὰ ἐὰν ἅλληται ἀπώλειαν πραγμάτων δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "nuw-aa",
+      "title": {
+        "english": "On Divination by Pulses to King Ptolemy",
+        "ancient_greek": "Περὶ παλμῶν μαντικὴ πρὸς Πτολεμαῖον βασιλέα"
+      },
+      "url_slug": "melampus-the-diviner-divination-pulses-nuw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/melampus-the-diviner/divination-pulses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-divination-pulses-nuw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-divination-pulses-nuw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-divination-pulses-nuw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-divination-pulses-nuw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner/divination-pulses.epub"
+      }
+    },
+    {
+      "eul_wid": "nuw-ad",
+      "title": {
+        "english": "On What Pulses Indicate in Each Part",
+        "ancient_greek": "Περὶ παλμῶν τί σημαίνουσιν ἐν ἑκάστῳ μέρει"
+      },
+      "url_slug": "melampus-the-diviner-pulses-indicate-nuw-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/melampus-the-diviner/pulses-indicate",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-pulses-indicate-nuw-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-pulses-indicate-nuw-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-pulses-indicate-nuw-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-pulses-indicate-nuw-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner/pulses-indicate.epub"
+      }
+    },
+    {
+      "eul_wid": "nuw-ab",
+      "title": {
+        "english": "On the Oils of the Body to King Ptolemy",
+        "ancient_greek": "Περὶ ἐλαιῶν τοῦ σώματος πρὸς Πτολεμαῖον βασιλέα"
+      },
+      "url_slug": "melampus-the-diviner-oils-body-ptolemy-nuw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/melampus-the-diviner/oils-body-ptolemy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-oils-body-ptolemy-nuw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-oils-body-ptolemy-nuw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-oils-body-ptolemy-nuw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-oils-body-ptolemy-nuw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner/oils-body-ptolemy.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "rrg-bx",
+      "title": {
+        "english": "Alchemical Fragment",
+        "ancient_greek": "Χημικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "alchemist-i-fragment-bx-rrg-bx",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/fragment-bx",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bx-rrg-bx.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bx-rrg-bx.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bx-rrg-bx.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bx-rrg-bx.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bx.epub"
+      }
+    },
+    {
+      "eul_wid": "tco-ad",
+      "title": {
+        "english": "Astrological Excerpt A",
+        "ancient_greek": "Ἐκλογή"
+      },
+      "url_slug": "hephaestion-of-thebes-excerpt-ad-tco-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/hephaestion-of-thebes/excerpt-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-excerpt-ad-tco-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-excerpt-ad-tco-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-excerpt-ad-tco-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-excerpt-ad-tco-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes/excerpt-ad.epub"
+      }
+    },
+    {
+      "eul_wid": "lsg-aa",
+      "title": {
+        "english": "Constructions of War Machines and Catapults",
+        "ancient_greek": "Κατασκευαὶ πολεμικῶν ὀργάνων καὶ καταπαλτικῶν"
+      },
+      "url_slug": "biton-mechanicus-war-machines-catapults-lsg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/biton-mechanicus/war-machines-catapults",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/biton-mechanicus-war-machines-catapults-lsg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/biton-mechanicus-war-machines-catapults-lsg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/biton-mechanicus-war-machines-catapults-lsg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/biton-mechanicus-war-machines-catapults-lsg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/biton-mechanicus/war-machines-catapults.epub"
+      }
+    },
+    {
+      "eul_wid": "sum-aa",
+      "title": {
+        "english": "Elements of Astrology",
+        "ancient_greek": "Στοιχεῖα Ἀστρολογίας"
+      },
+      "url_slug": "paul-of-alexandria-astrology-sum-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/paul-of-alexandria/astrology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paul-of-alexandria-astrology-sum-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paul-of-alexandria-astrology-sum-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paul-of-alexandria-astrology-sum-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paul-of-alexandria-astrology-sum-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paul-of-alexandria/astrology.epub"
+      }
+    },
+    {
+      "eul_wid": "tow-aa",
+      "title": {
+        "english": "Method by Which Spherical Hail is Made by the Renowned Craftsman Arabus Salmanas",
+        "ancient_greek": "Μέθοδος δι’ ἧς ἀποτελεῖται ἡ σφαιροειδὴς χάλαζα"
+      },
+      "url_slug": "salmanas-the-alchemist-spherical-hail-method-tow-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/salmanas-the-alchemist/spherical-hail-method",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/salmanas-the-alchemist-spherical-hail-method-tow-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/salmanas-the-alchemist-spherical-hail-method-tow-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/salmanas-the-alchemist-spherical-hail-method-tow-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/salmanas-the-alchemist-spherical-hail-method-tow-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/salmanas-the-alchemist/spherical-hail-method.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-av",
+      "title": {
+        "english": "On the Creation of the Unmarked",
+        "ancient_greek": "Περὶ ποιήσεως ἀσήμου"
+      },
+      "url_slug": "alchemist-i-creation-unmarked-rrg-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/creation-unmarked",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-creation-unmarked-rrg-av.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-creation-unmarked-rrg-av.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-creation-unmarked-rrg-av.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-creation-unmarked-rrg-av.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/creation-unmarked.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-cp",
+      "title": {
+        "english": "Poetry",
+        "ancient_greek": "Ἡ ποίησις"
+      },
+      "url_slug": "alchemist-i-poetry-rrg-cp",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/poetry",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-poetry-rrg-cp.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-poetry-rrg-cp.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-poetry-rrg-cp.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-poetry-rrg-cp.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/poetry.epub"
+      }
+    },
+    {
+      "eul_wid": "tyc-aa",
+      "title": {
+        "english": "True Book of Sophos the Egyptian and the Divine Lord of the Hebrews Sabaoth",
+        "ancient_greek": "Βίβλος ἀληθὴς Σοφὲ Αἰγυπτίου καὶ θείου Ἑβραίων"
+      },
+      "url_slug": "zosimus-of-panopolis-true-book-sophos-egyptian-tyc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/true-book-sophos-egyptian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-true-book-sophos-egyptian-tyc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-true-book-sophos-egyptian-tyc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-true-book-sophos-egyptian-tyc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-true-book-sophos-egyptian-tyc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/true-book-sophos-egyptian.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/melampus-the-diviner/pulses",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-pulses-nuw-ac.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-pulses-nuw-ac.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-pulses-nuw-ac.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-pulses-nuw-ac.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner/pulses.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

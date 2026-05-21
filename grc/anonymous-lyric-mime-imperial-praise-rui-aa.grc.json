@@ -1,0 +1,198 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "rui-aa",
+  "eul_aid": "rui",
+  "author_slug": "anonymous-lyric-mime",
+  "work_slug": "imperial-praise",
+  "url_slug": "anonymous-lyric-mime-imperial-praise-rui-aa",
+  "author": {
+    "english": "Lyric Mime Work Anonymous",
+    "ancient_greek": "Ἀνώνυμος Μίμος Λυρικός"
+  },
+  "title": {
+    "english": "Fragments on Imperial Praise",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ἐπαίνου Βασιλικοῦ"
+  },
+  "seo": {
+    "browser_title": "Fragments of Lyric Mime Work Anonymous on Eulogikon",
+    "meta_title": "Classical Fragments on Imperial Praise in Ancient Greek",
+    "meta_description": "This lyric mime work celebrates Roman emperors including Trajan and Hadrian through dramatic verse performance. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Δρᾶμα",
+      "english": "Drama",
+      "href": "/domains/drama"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Fragments on Imperial Praise is an anonymous lyric mime known only by its title, which indicates it consisted of poetic passages composed in praise of a Roman emperor or the imperial institution. The work is entirely lost, with no surviving textual fragments or descriptive details beyond its listing in the tenth-century Byzantine encyclopedia known as the Suda, which classifies it under the genre of lyric mime. Its significance lies in its attestation of panegyrical content within the mime tradition, a genre more commonly associated with comedy and satire, suggesting a possible specialized, courtly form of performance that illustrates the diverse applications of the medium.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "unit_1",
+      "text": "〈? Φοῖβοσ〉 Ἅρματι λευκοπώλῳ ἄρτι Τραιαν[ῷ] συνανατείλας ἥκω σοι, ὦ Δῆμ[ε,] οὐκ ἄγνωστος Φοῖβος θεός ἄνακτα καινὸν Ἀδριανὸν ἀγγελῶν, ᾧ πάντα δοῦλα [δι’] ἀρετήν καὶ πατρὸς τύχην θεοῦ. 〈? Δῆμοσ〉 χαίροντες τοιγαροῦν θύοντες τὰς ἑστίας ἀνάπτωμεν, γέλωσι καὶ μέθαις ταῖς ἀπὸ κρήνης τὰς ψυχὰς ἀνέντες γυμνασίων τε ἀλείμμασι. ὧν πάντων χορηγὸν τὸ πρὸς τὸν κύριον εὐσεβὲς τοῦ στρατηγοῦ φιλότιμόν τε τὸ πρὸς [ἡμᾶς ...]",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "bmc-aa",
+      "title": {
+        "english": "Chorus Against the Aulos",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "pratinas-of-phlius-against-aulos-bmc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pratinas-of-phlius/against-aulos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pratinas-of-phlius-against-aulos-bmc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pratinas-of-phlius-against-aulos-bmc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pratinas-of-phlius-against-aulos-bmc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pratinas-of-phlius-against-aulos-bmc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pratinas-of-phlius/against-aulos.epub"
+      }
+    },
+    {
+      "eul_wid": "emo-af",
+      "title": {
+        "english": "Eumenides",
+        "ancient_greek": "Εὐμενίδες"
+      },
+      "url_slug": "aeschylus-eumenides-emo-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus/eumenides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-eumenides-emo-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-eumenides-emo-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-eumenides-emo-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-eumenides-emo-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/eumenides.epub"
+      }
+    },
+    {
+      "eul_wid": "nfm-aa",
+      "title": {
+        "english": "Extraction",
+        "ancient_greek": "Ἐξαγωγή"
+      },
+      "url_slug": "ezechiel-the-tragic-poet-extraction-nfm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ezechiel-the-tragic-poet/extraction",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ezechiel-the-tragic-poet-extraction-nfm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ezechiel-the-tragic-poet-extraction-nfm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ezechiel-the-tragic-poet-extraction-nfm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ezechiel-the-tragic-poet-extraction-nfm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ezechiel-the-tragic-poet/extraction.epub"
+      }
+    },
+    {
+      "eul_wid": "gyu-ab",
+      "title": {
+        "english": "Fragments of Tragic Justice",
+        "ancient_greek": "Ἀποσπάσματα περὶ Τραγικῆς Δίκης"
+      },
+      "url_slug": "tragica-adespota-justice-fragments-gyu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/tragica-adespota/justice-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota-justice-fragments-gyu-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota-justice-fragments-gyu-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota-justice-fragments-gyu-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota-justice-fragments-gyu-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota/justice-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "dru-ab",
+      "title": {
+        "english": "Fragments on Purification Rituals",
+        "ancient_greek": "Ἀποσπάσματα περὶ Καθαρσίων"
+      },
+      "url_slug": "sophron-of-syracuse-purification-rituals-dru-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/sophron-of-syracuse/purification-rituals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophron-of-syracuse-purification-rituals-dru-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophron-of-syracuse-purification-rituals-dru-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophron-of-syracuse-purification-rituals-dru-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophron-of-syracuse-purification-rituals-dru-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophron-of-syracuse/purification-rituals.epub"
+      }
+    },
+    {
+      "eul_wid": "chg-ab",
+      "title": {
+        "english": "Fragments on the Poisonous Spring",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἰοβόλου Πηγῆς"
+      },
+      "url_slug": "heliodorus-the-tragedian-of-athens-poisonous-spring-chg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/heliodorus-the-tragedian-of-athens/poisonous-spring",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-tragedian-of-athens-poisonous-spring-chg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-tragedian-of-athens-poisonous-spring-chg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-tragedian-of-athens-poisonous-spring-chg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-tragedian-of-athens-poisonous-spring-chg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-tragedian-of-athens/poisonous-spring.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-af",
+      "title": {
+        "english": "Phoenician Women",
+        "ancient_greek": "Φοίνισσαι"
+      },
+      "url_slug": "euripides-phoenician-women-cbm-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/phoenician-women",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-phoenician-women-cbm-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-phoenician-women-cbm-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-phoenician-women-cbm-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-phoenician-women-cbm-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/phoenician-women.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-ai",
+      "title": {
+        "english": "Supplicants",
+        "ancient_greek": "Ἱκέτιδες"
+      },
+      "url_slug": "euripides-suppliants-cbm-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/suppliants",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-suppliants-cbm-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-suppliants-cbm-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-suppliants-cbm-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-suppliants-cbm-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/suppliants.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/anonymous-lyric-mime/imperial-praise",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-lyric-mime-imperial-praise-rui-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-lyric-mime-imperial-praise-rui-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-lyric-mime-imperial-praise-rui-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-lyric-mime-imperial-praise-rui-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-lyric-mime/imperial-praise.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "tjm",
+  "auth_slug": "maximus-of-byzantium",
+  "name": {
+    "english": "Maximus of Byzantium",
+    "ancient_greek": "Μάξιμος ὁ Βυζάντιος"
+  },
+  "seo_h1": "Maximus of Byzantium on Insoluble Contradictions",
+  "seo": {
+    "browser_title": "Maximus of Byzantium on Eulogikon Greek Archive Library",
+    "meta_title": "Classical Maximus of Byzantium Ancient Greek Orations Works",
+    "meta_description": "Maximus of Byzantium Late Antique orator writing in Byzantine Greeksurviving oration is available in the original text. Free to read and download from Eulogikon"
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Βυζαντινὴ Ἑλληνική",
+      "english": "Byzantine Greek",
+      "href": "/dialects/byz"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Maximus of Byzantium was an orator active during the Byzantine period. The name Maximus was common, and the epithet &quot;of Byzantium&quot; likely denotes an origin in Constantinople. He remains an obscure figure, indistinguishable from other individuals of the same name within the late antique and Byzantine rhetorical tradition.</p>\n<p class=\"research-text\">He is associated with a single oration, though its title, content, and subject are unrecorded in major reference works. If he was an orator, his work would belong to the extensive corpus of Byzantine rhetoric used for educational, ceremonial, and political purposes. His absence from standard scholarly sources suggests his historical impact was limited or his works have not survived with clear attribution.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "tjm-aa",
+      "title": {
+        "english": "On the Insoluble Contradictions",
+        "ancient_greek": "Περὶ τῶν ἀλύτων ἀντιθέσεων"
+      },
+      "url_slug": "maximus-of-byzantium-insoluble-contradictions-tjm-aa",
+      "passages": 18,
+      "links": {
+        "html": "https://eulogikon.org/grc/maximus-of-byzantium/insoluble-contradictions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maximus-of-byzantium-insoluble-contradictions-tjm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maximus-of-byzantium-insoluble-contradictions-tjm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maximus-of-byzantium-insoluble-contradictions-tjm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maximus-of-byzantium-insoluble-contradictions-tjm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maximus-of-byzantium/insoluble-contradictions.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/maximus-of-byzantium",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/maximus-of-byzantium-tjm.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/maximus-of-byzantium-tjm.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/maximus-of-byzantium-tjm.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/maximus-of-byzantium-tjm.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

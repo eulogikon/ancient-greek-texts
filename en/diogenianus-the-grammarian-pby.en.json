@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "pby",
+  "auth_slug": "diogenianus-the-grammarian",
+  "name": {
+    "english": "Diogenianus the Grammarian",
+    "ancient_greek": "Διογενιανὸς ὁ Γραμματικός"
+  },
+  "seo_h1": "Diogenianus the Grammarian on Fate and Homer",
+  "seo": {
+    "browser_title": "Diogenianus the Grammarian on Eulogikon Greek Archive",
+    "meta_title": "The Diogenianus the Grammarian Ancient Greek Works",
+    "meta_description": "Diogenianus the Grammarian, a 2nd century CE Roman scholar. Philosophical treatise in Koine Greek. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Diogenianus the Grammarian was a Greek lexicographer active during the reign of the emperor Hadrian. A native of Heraclea in Pontus, he lived in the 2nd century CE. His several works, now lost and known only through later references, include the lexicon &quot;On Dialectal or Uncommon Words,&quot; a primary source for Hesychius of Alexandria. Other titles are the &quot;Collection of Etymologies,&quot; &quot;On Birds,&quot; &quot;On the Cities of Greece,&quot; and &quot;Astrological Matters.&quot; He also compiled an anthology of proverbs later epitomized by Zenobius.</p>\n<p class=\"research-text\">Diogenianus is significant as a key source for later Greek scholarship. His lexicon preserved rare vocabulary for Hesychius, and his proverb collection informed later paremiographers, thereby contributing to the transmission of Greek linguistic and cultural knowledge.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "pby-aa",
+      "title": {
+        "english": "Fragments on Fate and Homer",
+        "ancient_greek": "Ἀποσπάσματα περὶ Εἱμαρμένης καὶ Ὁμήρου"
+      },
+      "url_slug": "diogenianus-the-grammarian-fate-homer-pby-aa",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenianus-the-grammarian/fate-homer",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-the-grammarian-fate-homer-pby-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-the-grammarian-fate-homer-pby-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-the-grammarian-fate-homer-pby-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-the-grammarian-fate-homer-pby-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-the-grammarian/fate-homer.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/diogenianus-the-grammarian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenianus-the-grammarian-pby.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenianus-the-grammarian-pby.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenianus-the-grammarian-pby.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenianus-the-grammarian-pby.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

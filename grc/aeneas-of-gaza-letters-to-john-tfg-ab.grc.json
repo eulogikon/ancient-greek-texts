@@ -1,0 +1,396 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "tfg-ab",
+  "eul_aid": "tfg",
+  "author_slug": "aeneas-of-gaza",
+  "work_slug": "letters-to-john",
+  "url_slug": "aeneas-of-gaza-letters-to-john-tfg-ab",
+  "author": {
+    "english": "Aeneas of Gaza",
+    "ancient_greek": "Αἰνείας ὁ Γαζαῖος"
+  },
+  "title": {
+    "english": "Letters to John",
+    "ancient_greek": "Ἐπιστολαὶ πρὸς Ἰωάννην"
+  },
+  "seo": {
+    "browser_title": "Letters to John by Aeneas of Gaza on the Eulogikon",
+    "meta_title": "Letters to John by Aeneas of Gaza in Ancient Greek",
+    "meta_description": "Aeneas of Gaza addresses philosophical and theological questions to his correspondent John in this late antique Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ Χριστιανική",
+      "english": "Christian Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Christian",
+      "href": "/affiliations/christian"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Letters to John</strong> is a collection of twenty-six philosophical epistles composed in Attic Greek by the Christian philosopher Aeneas of Gaza around 485 CE. Addressed to a correspondent named John, likely a fellow intellectual, the work employs the epistolary format prevalent in late antiquity to conduct theological debate. Its arguments synthesize Platonic philosophy with Christian doctrine, primarily to refute contemporary Neoplatonic positions. Central themes include a critique of the Neoplatonic doctrines concerning the eternity of the world and the transmigration of souls, coupled with a defense of the Christian concepts of creation from nothing and the immortality of the individual soul. The complete text survives and is typically transmitted in manuscripts alongside Aeneas’s more famous dialogue, <strong>Theophrastus</strong>. Modern scholarship interprets the letters as a significant artifact of the intellectual climate in educated Christian circles in Gaza, reflecting the vigorous contest of ideas following the decline of pagan philosophical schools. The work represents an important, though less systematic, precursor to the later and more comprehensive Christian philosophical critiques of Neoplatonism.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t",
+      "text": "ΑΙΝΕΙΟΥ ΣΟΦΙΣΤΟΥ ΕΠΙΣΤΟΛΑΙ Ἰωάννῃ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 (1t)",
+      "text": "Εἰ σὸν ἐτύγχανε τὸ βιβλίον, ἤρων δέ, παρ’ ἐμοὶ πάλαι δικαίως ἂν ἦν· τοιοῦτον ἡ φιλία. νῦν δὲ δεσπότης ἐγώ, σὺ δ’ οὐ δίδως. ἀλλὰ μὴ πρὸς φιλίου Διός, μὴ γάρ μοι τοῦτο ὅτι βιβλίον ἐμοὶ γὰρ οὐσία τοῦτο, καί μοι τῶν Κροίσου ταλάντων σεμνότερον εἶναι τὸ κτῆμα δοκεῖ. ἄλλος μὲν γὰρ σμινύης ἐρᾷ, [γεωργὸς οὗτος], ἑτέρῳ πρὸς κύνας ὁ ἔρως, [κυνηγέτης οὗτος]. ἄλλῳ τόξον ἐν ἡδονῇ, τῷ δὲ ἵππος τὰ παιδικά, ἐμοὶ δὲ βιβλία καὶ λόγοι. ἀλλ’ ὃ μᾶλλον τῶν ἄλλων τὸν κεκτημένον χαίρειν ποιεῖ, τοῦτο μᾶλλον τῶν ἄλλων τὸν ἀφῃρημένον λυπεῖ. εἰ μὲν οὖν ἀποδώσεις, πείθομαί σοι τῇ διανοίᾳ τὸ βιβλίον ἐγγεγράφθαι· εἰ δὲ μή, δόξεις οὐ τῶν γεγραμμένων ἐπιθυμεῖν ἀλλὰ τοῦ βιβλίον κεκτῆσθαι δοκεῖν. ἀλλὰ τί ταῦτά φημι; οὐχ ὅθεν πολλάκις εὐφράνθην, ἐντεῦθεν ἀνιάσομαι. Κάσσῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 (1t)",
+      "text": "Λαέρτης ὁ γέρων οὐκέτ’ ἤθελεν εἶναι βασιλεὺς οὐδ’ ἀνθρώπων ἄρχειν, ἀλλὰ κηπουρός τε εἶναι καὶ τῶν δένδρων ἐπιμέλεσθαι. σὺ δέ μοι δοκεῖς ἐζηλωκέναι τὸν ἄνθρωπον· οὐ γὰρ ἂν τὴν πόλιν καὶ τοὺς σαυτοῦ ἀπολιπὼν χρόνον οὕτω μακρὸν ἐν ἀγρῷ προσκαθήμενος τοῖς φυτοῖς διῆγες λαλῶν. ἔδει δὲ οὐ τοῦ Λαέρτου μεμνῆσθαι ἀλλὰ Σωκράτους καὶ τῶν Σωκράτους δογμάτων, ἐν οἷς ἐκεῖνος χαριέντως καὶ σεμνῶς λέγων φιλοσοφεῖ ὅτι τὰ χωρία καὶ τὰ δένδρα οὐδὲν ἐθέλει διδάσκει ν , οἱ δ ’ ἐν τῷ ἄστει ἄνθρωπο ι. τούτῳ μᾶλλον πειθόμενος, μακρὸν τῶν ἀγρῶν ὑπεριδών, ἐν οἷς ἄπορον σοφίας καρπὸν τοὺς γεωργοῦντας δρέπεσθα ι, ἀναμνήσθητι τῶν συνήθων ἐκείνων διατριβῶν, ἐν αἷς ἔνεστι σοφόν τι μαθεῖν καὶ διδάξαι καί, τὸ δὴ μέγιστον, εὐφραίνειν τοὺς φίλους. Ἀλφίῳ πρεσβυτέρῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 (1t)",
+      "text": "Τοὐναντίον γέγονεν· ὁ μὲν Ἀναστάσιος ἡσυχίαν ἄγει, σὺ δὲ πολεμεῖς, ἀλλ’ οὔτε σοὶ πρέπον, οὔτ’ ἄλλως καλόν. βούλει σοι φράσω καὶ τοῦ πολέμου τὸν τρόπον; ὁ Κορνήλιος Ἀναστασίου χωρίον κατέλαβεν, ὃν ἐκεῖνος ἀπεδήμει χρόνον· καὶ ἐπειδὴ ἀφίκετο, ὃ μὲν ἠξίου τὸ χωρίον λαβεῖν ὁ δεσπότης, ὁ δὲ γεωργὸς ἠξίου κεκτῆσθαι, ἀλλ’ οὐ προῖκα, ἀλλὰ καὶ τιμὴν ὥριζεν· ἔδοξε, καὶ περὶ τῆς ὠνῆς γράμματα γίγνεται, ἤδη δὲ καὶ τὸ χρυσίον φέρων ὁ Κορνήλιος ἕτοιμος ἦν καταθεῖναι τὴν τοῦ χωρίου τιμήν. σὺ δὲ προσπεσὼν ἐξαίφνης ἐκέλευες μὴ τοῦτο ποιεῖν, σὸν εἶναι τὸ κτῆμα φάσκων. ἐντεῦθεν ὀργὴ καὶ πόλεμος. εἰ μὲν οὖν ἀδικεῖς, καὶ πρὶν εἰς ἡμᾶς ἐλθεῖν τὸ γεγονὸς διάλυσον· εἰ δὲ δοκεῖς, ἧκε τὴν ταχίστην, ὡς παρὰ δικασταῖς ἀποδώσων εὐθύνας· οὔτε γὰρ ἀδικεῖν οὔτε δοκεῖν βουλοίμην τοὺς φίλους. Ζωναίῳ σοφιστῇ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4 (1t)",
+      "text": "Πολλὰ κἀγαθὰ γένοιτο Ἐπιφανίῳ τῷ καλῷ ὅτιπερ ἡμᾶς ἐνέπλησεν ἡδονῆς· ἀγαθὸν γάρ σε ῥήτορα καλῶν μᾶλλόν σου τὸν τρόπον ἢ τὸν λόγον ἐθαύμαζεν· τὸ δ’ οὖν κεφάλαιον, φίλος ἐδόκεις ἀληθινός. καί με προσεῖπε πολλάκις παίζων ἅμα τῷ λόγῳ, ὑπὲρ σοῦ τοῦτο ποιῶν· σὺ γὰρ τοῦτο πράττειν ἐκέλευες. οἶσθα δ’ οἷος ἐκεῖνός ἐστιν, ὅτι τῆς χάριτος ἐραστής. ἀμέλει καὶ ὀχληρὸς ἦν θαμά μοι παρὰ σοῦ χαίρειν κελεύων. σὺ δὲ αἴτιος· εἰ γάρ μοι σμικρὰν πέπομφας ἐπιστολήν, ἀπέλαβον ἂν ἡδέως μικρὰ εἰπών τε καὶ ἀκούσας. Οὐλπίᾳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5 (1t)",
+      "text": "Κακοὶ κακῶς ἀπόλοιντο οἵτινές ποτε ἦσαν οἱ τὸν ὑμέτερον οἶκον οὕτω πονηρῶς διαθέντες. ὅσον γὰρ ἠνιάθην ἐγὼ μὰ τοὺς θεοὺς οὐκ ἂν δυναίμην εἰπεῖν. ἀλλά μοί τις εὐτυχῶς ὀψέ ποτε παραπέπτωκε παραμυθία, ἧς καλὸν ὑμᾶς κοινωνεῖν ἐνεθυμήθην· ὡς οὐ παντελῶς ἄχρηστος ἡ συμφορά. νῦν γὰρ βεβαιότερον γνώσεσθε ὅτι χρυσὸς καὶ ἄργυρος καὶ περιφανεῖς ἐσθῆτες τοῖς μὲν πολλοῖς περιμάχητον, ἀβέβαιον δέ τι χρῆμα καὶ οὐχ ἑστηκὸς οὐδὲ τοῦ ἔχοντος ὡς ἀληθῶς, εἴ γε τῷ βουλομένῳ διαρπάζειν ἔξεστι· τὰ δὲ μαθήματα καὶ ἡ σοφία τοῖς μὲν ἀνοήτοις καταγέλαστον, βέβαιον δέ τι κτῆμα καὶ πεπηγὸς καὶ ἀνάλωτον καὶ τὸ ὅλον κρεῖττον λῃστείας. τούτου μᾶλλον ἀντέχεσθε, καὶ οὐκέτι πρὸς φυλακὴν δεήσεσθε οὐ τείχους, οὐχ ὅπλων, οὐ φυλαττόντων φάλαγγος. Πάμπῳ γραμματικῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 (1t)",
+      "text": "Ἀφείλετό μου τῆς ἐπιστολῆς τὴν ἡδονὴν τῆς λῃστείας ἡ λύπη. δι’ ἣν οὐχ ἧττον ἠνιάθην ἐγὼ ἢ εἴπερ αὐτὸς ἐτύγχανον ὁ πεπονθώς. καὶ οὐκ ἀπίθανος ὁ λόγος· εἰ γὰρ κοινὰ τὰ φίλω ν, κοινὴ δήπου καὶ ἡ τούτων ἀφαίρεσις. ἀλλὰ τί ταῦτα συνάχθομαι; πάντως ὁ τοῦ κέρδους κρείττων καὶ ζημίας ἐγκρατής. ἐντεῦθεν ἡμῖν ἡ παραμυθία. εἰ δ’ ὀρθῶς γινώσκω, βουλοίμην παρὰ σοῦ μανθάνειν. Διοδώρῳ σχολαστικῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7 (1t)",
+      "text": "Διήλλαξεν ἡμᾶς ὁ καλὸς Ἡρόδοτος ἅτε μουσικὸς τυγχάνων· ὑπὲρ τὸν Ὀρφέα καὶ τὸν Θάμυριν ἐκεῖνον ἡ τοῦ ἀνδρὸς μουσική. νῦν γοῦν ἔγνωμεν ἀλλήλους ὥσπερ ἐν νυκτομαχίᾳ πρότερον πολεμοῦντες, καὶ εἰρήνη συχνή. ἀλλὰ κρατῆρα στήσαντες οἷον ἐν εἰρήνῃ σπονδὰς ποιησώμεθα θεῶν μὲν Ἑρμῇ, ἀνθρώπων δὲ Ἡροδότῳ, οἳ τὴν στάσιν ἡμῖν μόλις διέλυσαν. τούτοις ἄγοντες τὴν ἑορτὴν τὴν μὲν κωμῳδίαν, ἣ ἀναιδῶς περιτρέχουσα ἐκλαλεῖ τὰ τῶν φιλτάτων ἀπόρρητα, αὐτῇ σκευῇ τῶν ἐπιστολῶν ἐξελάσομεν, εἰσκαλεσάμενοι ὃ πᾶσαν φιλίαν δορυφορεῖ, τὴν πειθώ, τὴν χάριν, τὴν ἡδονήν, τὸν κρότον, τὸν ἔπαινον. τούτοις καθίσωμεν σεμνότερον θέατρον, ἀπειπόντες κωμῳδίᾳ μηδὲν ἐνοχλεῖν. Ζωσίμῳ πρωτεύοντι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8 (1t)",
+      "text": "Ὅτι πλέων διεσώθης εὖ οἶδα· οὐ γὰρ κατὰ λῃστείαν τῆς νηὸς ἐπέβης οἷον οἱ δυνατώτατοι τῶν παλαιῶν, οὐδ’ αὖ κατ’ ἐμπορίαν οἷον οἱ πολλοὶ τῶν νῦν θνητῶν, ἀλλὰ πόθῳ φιλτάτων ἀνδρῶν τε καὶ τόπων, ὥστε σοι τὸν Φίλιον μὴ οὐχὶ συμπλεῖν λέγειν οὐ θέμις. ἀλλά σοι γένοιτο καὶ ἡ πόλις εὐμενὴς μετὰ τὴν θάλατταν, καὶ τυχὼν τοῦ ἔρωτος παρὰ φίλων πρὸς φίλους ἐπανήκοις. Σωπάτρῳ σοφιστῇ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9 (1t)",
+      "text": "Ἐπῄνεσα τοῦ καλοῦ Κωνσταντίνου τὸν τρόπον, τὴν τύχην μεμψάμενος· ἔδει γάρ, εἰ μακάριος ἦν, μιᾶς ἀπολαύειν πόλεως τῆς πατρίδος. νῦν δέ—οὐ γὰρ ἐδόκει τῇ τύχῃ— πολλῶν ἀνθρώπω ν · ἴδεν ἄστε α, πλανᾶται δὲ κατὰ ζήτησιν βίου, καὶ τὴν ἀπορίαν ἀποσεμνύνειν ἀναγκάζεται, ποιητικὴν ἐπαγγελλόμενος οὐκ ἐκ τῆς Ἑλλάδος ἀλλ’ ἐξ Ἰταλίας πεποιημένην. ψοφεῖ γοῦν βαρύ τι καὶ ὑπέρογκον. μετὰ ταύτης προσελθὼν ἐδεῖτό μου συμμαχεῖν, ἐγὼ δὲ σοῦ. πάντως δὲ καὶ σὺ διασώσεις πρὸς ἕτερον. Ζωσίμῳ σοφιστῇ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10 (1t)",
+      "text": "Εἰ μὲν νέος ἦν ὁ χρηστὸς Παῦλος, ποιητὴς δέ, τιμῆς ἄξιος ἦν· νῦν δὲ ποιητὴς καὶ γέρων, ἀμφότερα δὲ ταῦτα τοὺς θεραπεύειν εἰδότας ἐπιζητεῖ. τούτων ἐθέλεις εἶναι καὶ πρῶτος καλῶς γε ποιῶν. ἔχεις οὖν ὃν εὖ ποιήσεις. Μαρινιανῷ ἀπὸ ὑπάτων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11 (1t)",
+      "text": "Τῶν ἐμῶν γυμνασίων ὁ καλὸς Πόντων φιλοπονίᾳ τοὺς ἄλλους παραδραμών, —μέγα δὲ τοῦτο συμβάλλεται πρὸς μαθημάτων συλλογήν. —ἀμέλει ῥητορικῆς ἔγνω παλαίσματα, καὶ νόμων προσέθηκε ποικιλίαν, καὶ οὔπω τῶν πόνων ἐμπίμπλαται· ἀπῆρε δὲ πρὸς ὑμᾶς ὥσπερ ἀγαθὸς ἀθλητὴς εἰς Ὀλυμπίαν ἀποδημῶν, ἤδη μὲν εἰς ἀγῶνα παρεσκευασμένος καλῶς· εἰ δὲ ὑμεῖς ἐμπνεύσητε, ὀλυμπιονίκην εἶναι τὸν νέον μαντεύομαι. γένοιτο δὲ ὑμᾶς λαμπρῶς ἀγωνοθετεῖν καὶ ἆθλα τιθέναι οὐ πυγμῆς καὶ πάλης ἀλλὰ λόγων καὶ σωφροσύνης. προσφθέγγομαι τὸν ἐνδοξότατον Βίκτορα καὶ τὸν περίβλεπτον Στέφανον καὶ τὸν χαριέστατον Ἰωάννην καὶ τοὺς ὑμετέρους οἰκείους καὶ ἐμοὺς ἑταίρους. Ἐπιφανίῳ σοφιστῇ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12 (1t)",
+      "text": "Τοῖς μὲν ἄλλοις ἐρασταῖς καὶ ὑπόδημα τοῦ ἐρωμένου φανὲν ἱκανὸν παραμυθεῖσθαι τὸν ἔρωτα, σὺ δὲ καὶ ψυχῆς καὶ σώματος εἰκόνας ἐπιζητεῖς. οἱ μὲν οὖν λόγοι τὴν διάνοιαν σαφῶς ἑρμηνεύοντες αὐτὴν ἀτεχνῶς ὑπογράφουσι τὴν ψυχήν. ἐπ’ αὐτὸ γοῦν τοῦτο πρὸς ὑμᾶς ἀπῆραν. ἐμοὶ δὲ ἦν δεδογμένον μηκέτι τοῦ εἰδώλου τὸ εἴδωλον ἐγκαταγράφειν· ἀλλ’ ὅμως αἰσχυνθεὶς τὸν ὑμέτερον ἔρωτα, προσκαλεσάμενος τὸν τὰ ζῷα παρ’ ἡμῖν γράφοντα καὶ ἐναντίον καθήμενος, ἀτρεμίζοντι τῷ προσώπῳ σεμνῶς πάνυ σιγῶν καὶ ἐμαυτὸν περιστέλλων ἀφῆκα τὴν τέχνην τῇ φύσει συνάπτεσθαι. καὶ τοὐμὸν εἶδος ἀναρπάσασα ἡ τοῦ ζωγράφου δεξιὰ τοῖς χρώμασιν ἐγκατατίθεται φέρουσα, καὶ νῦν ἐστι παρὰ σοί, ὡς ἐξεῖναι καὶ διαλέγεσθαι καὶ ὁρᾶν καὶ τῶν ἐμοὶ παρόντων μηδὲν ἔλαττον ἔχειν. διακονεῖ δὲ ἡμῖν ὁ καλὸς Εὐθύμιος, καὶ ὑπὲρ τούτου θάλατταν αὐτὸς ἡδέως ὑπομένει· ὃ τοῖς ἀντερασταῖς χαλεπὸν εἶναι δοκεῖ. ἀλλὰ θεραπείᾳ τοὺς πόνους αὐτῷ συγκαλύψωμεν. Ἐγκρατίῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13 (1t)",
+      "text": "Χθὲς παιδαγωγὸς ἦν ὁ σήμερον ὑπὸ παιδὸς ἀγόμενος, καὶ σεμνὸς ἐδόκει τοῖς νέοις ὁ νῦν ἐλεεινὸς οὕτω φαινόμενος. τοιοῦτον ἡ τύχη. τί οὖν; ἡμεῖς συναχθόμεθα μέν, οὐ βοηθήσομεν δέ; μὴ σύ γε. εἰ στρατιώτης ἦν, εἶτ’ ἐξαίφνης αὐτοῦ τὴν δεξιάν, δι’ ἧς ἠρίστευσεν, ἡ τύχη παρείλετο, ἆρ’ οὐκ οἴει τοὺς μαχομένους τῶν στρατιωτῶν τῶν λαφύρων αὐτῷ εἰς ἔρανον φέρειν τὸ μέρος; μὴ τοίνυν ἡμεῖς οἷς ἀπὸ τῶν λόγων ὁ βίος, τῶν ἐν τοῖς ὅπλοις ζώντων φαυλότεροι πρὸς φιλανθρωπίαν ὀφθείημεν. Ἰωάννῃ πρεσβυτέρῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14 (1t)",
+      "text": "Τὰ λάχανα νῦν μᾶλλον εἶδον ἡδέως ἢ πάλαι τὸν ἐκ μέλιτος καὶ ἀμυγδάλων συμπλακέντα κύκλον. τότε μὲν γὰρ ἡ κατὰ τοῦ παιδὸς διαβολὴ ἀφῃρεῖτο τοῦ μέλιτος τὴν ἡδονήν, νῦν δὲ ἡ τοῦ τρόπου πραότης χρυσᾶ μοι δοκεῖν ἐποίει τὰ λάχανα. ἡδὺ γὰρ πατὴρ οὐκ ἐκ διαβολῆς ὠργισμένος ἀλλ’ ἐπ’ ἀρετὴν ἀνοίας εἶξαι τὸν παῖδα παρακαλῶν καὶ ἐγείρων εἰς προθυμίαν αὐτῷ τὸν διδάσκαλον. Στεφάνῳ πρεσβυτέρῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15 (1t)",
+      "text": "Οὐ νῦν πρῶτον ἀλλά σοι πάλαι διελέχθην. ἦν δὲ ἡμὶν ὁ λόγος παρὰ τῷ Νείλῳ, οὗ παρὰ τὰς ὄχθας τότε ταῖς Μούσαις συνέπαιζον. ἐκεκόμψευτο δὲ καὶ γελᾶν ἐδόκει σπουδάζων ὁ λόγος· κάλλους ἦν ἀγών, κριταὶ δ’ ἦσαν οἱ Ἕλληνες, ἀγωνισταὶ δὲ Νιρεύς, ὃς κάλλιστος γένε τ ’ ἐπιχθονίων ἀνθρώπω ν, καὶ Θερσίτης, ὃς αἴσχιστος ἀνὴρ ὑπὸ Ἴλιον ἦλθε ν. καὶ τὸ χαριέστατον, τὸ πλέον ἔχειν ὁ Θερσίτης ἠξίου, καὶ παρέσχεν αὐτῷ τὸ ἆθλον ὁ λόγος, καὶ οὐδὲν ἐκώλυσεν ἡ τοῦ Ὁμήρου κωμῳδία μέρος ἕκαστον τοῦ σώματος ἀπὸ τοῦ πάθους ὀνομάζουσα καὶ μέχρι τριχὸς γελῶσα τὸν ἄνθρωπον. τὰ μὲν οὖν τότε συνέπαιζες τοῖς ἀκροαταῖς, νῦν δέ σε σπουδάζειν ἀκούω κἀν τοῖς ἱεροῖς τὸ καλὸν δόγμα κηρύττειν καὶ λόγῳ μεταρρυθμίζειν τῶν πολιτῶν τὸν τρόπον. καὶ νῦν ὁ οἰκοδόμος καὶ τέκτων ἔχουσί τι περὶ τῶν θείων εἰπεῖν, καὶ περὶ ἀρετῆς μεταξὺ τῆς ἐργασίας διαλέγονται οἱ πρὸ τῶν σῶν λόγων λίθους καὶ ξύλα λαλοῦντες. ἀλλὰ πολλὰ κἀγαθὰ γένοιτο Εὐστρατίῳ τῷ καλῷ ὅτι πολλὰς πόλεις διαδραμὼν τοῦ σοῦ ὀνόματος πάσας ἐνέπλησεν· μηδεὶς γὰρ ἀγαθὸς λανθανέτω. οὗτος κἀμὲ ταύτην ἀνέπεισε τὴν ἐπιστολὴν ὡς ὑμᾶς ἱέναι, ἐλπίδι μετεωρίσας καὶ μείζον’ ὑποσχόμενος, χρύσεα χαλκείω ν, ἀντὶ τῆς ἡμετέρας τὴν ὑμετέραν ἐπιστολήν. ἀλλὰ μὴ καλῆς ἐλπίδος διαμάρτοιμεν. Σαραπίωνι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16 (1t)",
+      "text": "Τὸ παρ’ ὑμῶν ἀκήκοα δρᾶμα, καὶ αὐτὴν ἐδάκρυσα τὴν γῆν, εἰ ἐκ τῶν ἱερέων ὁ πόλεμος ἄρχεται, παρ’ οἷς εἰρήνη τὸ κήρυγμα. εἰ γὰρ ὅθεν ἔδει σεσῶσθαι, ἐντεῦθεν ἀπολλύμεθα, τίς πόρος σωτηρίας ἡμῖν καταλείπεται; ταῦτα μὲν οὖν εἴποι τις ἂν οἶμαι θρηνῶν, ἐγὼ δὲ συνάχθομαι καὶ συνήδομαι· ἀνιαρὸν μὲν γὰρ τῶν κινδύνων ἡ πεῖρα, ἀκριβεστάτη δὲ μεγαλοψυχίας βάσανος ἡ ἐν τοῖς κινδύνοις εὐψυχία. ποία γὰρ ἀρετῆς κτῆσις, ἧς ἀγὼν μὴ προηγήσατο; εἰ μὴ καὶ στρατηγὸν φαίης ἄριστον τὸν μηδεπώποτε κατιδόντα πολέμιον. φέρειν δὲ δεῖ καὶ μὴ ἀθυμεῖν· ἐκ πολέμου γὰρ ἡμῖν εἰρήνη βεβαιοῦτα ι· εἰ δέ, μὴ ἀγεννῶς τὸν πόλεμον διενέγκοιμεν. ἀλλ’ οἷα δρᾶτε τοὺς φίλους. ἐγὼ τῆς ῥητορικῆς ἐρᾶν πρὸς ὑμᾶς ὡμολόγουν, ἐλπίσας παρ’ ὑμῶν εὑρίσκειν τὸ φάρμακον, ἀλλὰ τοὐναντίον γέγονεν· ηὐξήσατε γὰρ μᾶλλον ἢ διελύσατε τὸν ἔρωτα, θέατρον τῇ ἐπιστολῇ συλλέγοντες καὶ κρότον διεγείροντες. πῶς ἄν τις ἀτιμάσει τὸ παρ’ ὑμῶν ἐπαινούμενον; Διονυσίῳ σοφιστῇ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17 (1t)",
+      "text": "Πάλαι μὲν τὸ Πήλιον κοινὸν διδασκαλεῖον τῶν ἡρώων ἐδόκει, νυνὶ δὲ ἡ ὑμετέρα καὶ τῶν Μουσῶν πόλις. καὶ ἐπίστευσαν οἱ πατέρες τοὺς υἱεῖς αὐτοῖς ὡς ὑμᾶς φοιτῶντας ἢ λόγους μανθάνειν ἢ λόγους εἰδέναι δοκεῖν. καὶ θαυμαστὸν οὐδέν· ἡ γὰρ πόλις ἀρχαία καὶ παλαιᾶς μυθολογίας γέμουσα, περὶ ἧς ᾄδεται ἄλλα τε πολλὰ καὶ καλὰ καὶ ὅτι Καλλιόπη θαυμάζουσα τὴν πόλιν ὑμῖν παρακάθηται τὸν Ἑλικῶνα παραθέουσα καὶ τὰς ἀδελφὰς αὑτῇ πείθει συνοικεῖν. ὁ δὲ Ἑρμῆς πάντως οὐκ ἀνέξεται μὴ οὐ συμπαίζειν ταῖς ἀδελφαῖς, ἀλλὰ καὶ Ἀπόλλων μουσικὸς ὢν θεὸς ταύτης ἐρᾷ μᾶλλον ἢ τοῦ Παρνασσοῦ· οὐ γὰρ παραπλήσιον αὐτῷ δοκεῖ μάχαιρα Δελφῶν καὶ τὸ κάλλος τῶν παιδικῶν, οὐδὲ πέτρα Δελφῶν καὶ τῆς Δάφνης τὸ ἄλσος, ἔνθα καὶ τὸ ὕδωρ ἐπαισθάνεται τοῦ θεοῦ καί τι μουσικὸν ὑπηχεῖν λέγεται. τὸ δὲ κάλλιστον, ὁ Διονύσιος διδάσκων ὡς ἀληθῶς τὰς τῶν θεῶν τελετάς. ταῦτα διεγείρει πρεσβύτας, ταῦτα συγκαλεῖ νέους, διὰ ταῦτα καλὴν ἐλπίζω τὴν εὐπορίαν γενέσθαι τῷ νέῳ, ἄλλως τε ὅτι προτετελεσμένος καὶ τῶν παρ’ ἡμῖν καλῶν ἐν παρασκευῇ γενόμενος ἀπῆρεν, ὡς Ἀθήνησιν οἱ τὰ μικρὰ μυστήρια προτελούμενοι τῶν μεγάλων. δέχου τοίνυν εὐμενῶς τὸν νεανίσκον, δοκιμάζων αὐτοῦ τὴν φύσιν ἐκ τῆς νῦν ἐπιθυμίας, δι’ ἣν καὶ θάλατταν πλεῖ καὶ πολλὴν ἤπειρον ἐλαύνει οὐ μάλα ἐρρωμένῳ τῷ σώματι. ἐχέτω δέ τι καὶ μεῖζον διὰ τὴν ἐπιστολήν· δεῖ γὰρ ταύτην θαρρεῖν μηδαμῶς τε ἐρυθριᾶν νῦν πρῶτον ὡς ὑμᾶς φοιτῶσαν, ἐρωτικῶς τε προσίεσθαι καί τι πρὸς αὐτὴν ἡδέως λαλεῖν. οὕτω πολλάκις ὡς ὑμᾶς ἴοι. Θεοδώρῳ σοφιστῇ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18 (1t)",
+      "text": "Ἔστω Σμυρναῖος Ὅμηρος, Ἀριστείδης· κοινωνείτω τῆς φιλοτιμίας ὁ ἐμὸς ῥήτωρ Θεόδωρος. πάντως ἐμὸν καὶ τοῦτο, εἴγε τὰ τῶν παίδων καλὰ τοῦ πατρὸς εἶναι νομίζεται. ἀλλ’ εὖγε τῆς ὑμετέρας εὐφωνίας, δι’ ἣν τῶν Ἀθηναίων οἱ παῖδες οὐ παρὰ τῶν πατέρων, παρὰ δὲ τῶν Σύρων ἀττικίζειν ἀξιοῦσι μανθάνειν· οὐκέτι γοῦν εἰς τὸν Πειραιᾶ καταίρουσι τῆς Ἀκαδημείας ἐρῶντες οὐδὲ φοιτῶσι παρὰ τὸ Λύκειον, παρ’ ἡμῖν τὴν Ἀκαδήμειαν καὶ τὸ Λύκειον εἶναι νομίζοντες. ἐγὼ γοῦν ἱκανὰς ἔχω παρ’ ὑμῶν τὰς ἀμοιβάς, εἰ κἀμὲ πρόγονον δι’ ὑμᾶς ᾄσουσιν Ἴωνες καὶ τῆς ἐμῆς ψυχῆς τὰς εἰκόνας καθαρῶς θεωροῦντες ἤδη καὶ τοῦ σώματος τὸ εἶδος ὑπογράφουσιν· ἡ δὲ παρ’ ὑμῶν στολὴ ἐμοὶ μὲν λαμπρότερον ἀποφαίνει τὸ σχῆμα, σοὶ δὲ καλλίω τὴν φήμην ἐργάζεται. Γεσσίῳ ἰατροσοφιστῇ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19 (1t)",
+      "text": "Ἐμὸς Προκόπιος· γινέσθω δὲ σὸς Ἐλπιδίου παῖς, ὃν ἠβουλόμην ἔτι ζῆν, δι’ ὃν ἤκμασεν παρ’ ἡμῖν ἰατρική. ἀλλὰ γὰρ χαλεπὸν περὶ τοὺς λόγους φιλοπονεῖν καὶ τὸ σῶμα καλὸν διασῴζειν. οἷα γοῦν πέπονθα ἐγὼ μὲν ὑπέγραφον, ὑμεῖς δὲ ὥσπερ θεαταὶ τοῦ πάθους γεγόνατε. ἀλλὰ τί δράσω; βαρεῖαι μὲν αἱ τῶν νεφρῶν ὀδύναι καὶ ὀξεῖαι, ὑμεῖς δὲ βραδεῖς ὡς ἔοικε χάριν διδόναι. ἢ πόσον χρόνον ἐπιστέλλομεν; τῷ δὲ κάμνοντι καὶ ἡμέρα μία πολλῶν ἐτῶν περίοδος. ἢ οὐ φιλοσοφοῦντι τὸ πάθος βαρύτατον; οὐχ ἡ τέχνη παρὰ σοί, οὐχ ἕτοιμος ἡ τοῦ φαρμάκου κατασκευή; τί οὖν ἐμποδὼν πλὴν εἰ μὴ τῆς εὐνοίας ἐπιλέλησαι, εἴγε ἄμεινον ἀγνοίας μᾶλλον ἢ κακίας κρίνεσθαι; χαλεπαίνει γοῦν ὁ δικαστὴς οὐ πρὸς ἀγνοοῦντα ἀλλὰ πρὸς ἐθελοκακοῦντα. ἀλλ’ ὢ τῆς τῶν φιλτάτων προδοσίας. ἔτι μὲν ἡ νόσος παρ’ ἐμοί, ἔτι δὲ τὸ φάρμακον παρὰ σοί, ἀλλὰ μεταξὺ λόγου τῷ πάθει πληττόμεθα. Τῷ αὐτῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20 (1t)",
+      "text": "Ὁ καλὸς Νεμεσίων ἀπὸ τῆς τῶν νόμων ἐπιστήμης ἐπαινούμενος ἀπὸ τοῦ τρόπου μᾶλλον ἔτι θαυμάζεται. τί τούτου κάλλιστον σημεῖον; φίλους οἶδε θηρεύειν, καὶ εὖ πράττουσι μὲν συνήδεται, πεπονθόσι δὲ οἷά περ οὐκ ἔδει συνάχθεται. βουλοίμην δὲ καὶ σὲ πρὸς τῆς ἄλλης φιλοσοφίας καὶ τοῦτο μελετᾶν· μελετήσεις δὲ τῶν ἁπάντων φίλων ἢ τῶν παρόντων μεμνημένος; ἕως μὲν γὰρ ἂν τὰ πάθη λανθάνῃ, καὶ τὰ φάρμακα ἐν μέσῳ κείμενα λανθάνει, καὶ ἀκμάζει περὶ τὴν θεραπείαν ἡ πλάνη· ἡ δὲ τοῦ πάθους διάγνωσις οἷον φῶς ἐξέλαμψε τῇ τέχνῃ καὶ διανοίγει τὴν τῶν φαρμάκων περιουσίαν καὶ οὐκέτ’ ἀμφίβολον τὴν θεραπείαν συνεισφέρει. ὑπεγράψαμεν τὸ πάθος, εἴ τί που μέμνησαι, ὡς συχνὴ προηγήσατο κίνησις, ὡς πολλὴ συνηκολούθησεν ἀντὶ τῆς περιττῆς ὑγρότητος ἡ τοῦ αἵματος ῥύσις, ὡς ἡσυχία καὶ δίαιτα τὸ πάθος συνεσκίαζεν. καὶ πάλιν κίνησις καὶ πάλιν αἵματος ῥύσις καὶ αὖθις ἡσυχία καὶ δίαιτα, καὶ ὡς οὐκέτι τὸ πάθος συνεκρύπτετο, ἀλλὰ στύψις ἐπέκειτο τὸ μὲν πρῶτον μετρία, εἶτ’ οὐκ ἀγεννής, τελευτῶσα δ’ ἀφόρητος, αἰκιζομένη καὶ ἔνδοθεν ὑβρίζουσα καὶ ὅλως τὸν ὀμφαλὸν σπαράττουσα. τί γὰρ ἄν τις πρὸς ὑμᾶς ἀποκρύπτοιτο ἃ δημοσιεύειν ἡ φύσις οὐκ αἰσχύνεται; μᾶλλον ἓν ἔτι καταλείπεται φάρμακον τῷ πάθει μονομαχεῖν, πλὴν εἰ μὴ ὑμεῖς ὑπὸ σοφίας ἕτερον ἐξεύροιτε, ὁ διὰ τῆς πόας συμπεπλεγμένος κύκλος, ἣν φυσαλλίδα μάλα σεμνῶς ὀνομάζουσι τῶν ἰατρῶν οἱ παῖδες. τουτὶ γὰρ μόνον ἱκανὸν τὰς τοῦ νοσήματος ἐνέδρας καὶ λόχους ἀμύνεσθαι. Δωροθέῳ πρεσβυτέρῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "21 (1t)",
+      "text": "Οἱ μὲν πολλοί, τὸ δὴ λεγόμενον, ἀνίπτοις ποσὶν ἐπιπηδῶσι τοῖς ἱεροῖς, καθάπερ ὁ τοῦ Πλάτωνος χαλκεὺς ἐκεῖνος ὁ φαλακρός, ὃς ἔτι καπνοῦ καὶ δυσωδίας ὄζων ἐπανέστη τῇ δεσποίνῃ. σὺ δὲ ἐξ ἱεροῦ διαβαίνεις εἰς ἱερόν, ἐκ φιλοσοφίας εἰς ἱερωσύνην. ὁ δὲ τὴν ἐπιστολὴν κομίζων ἱερῶν ἐστιν ὑπηρέτης· οὐκοῦν σὸς οὗτος. ἐρᾷ δὲ ἡσυχίας, καὶ οὐκ οἶδ’ ὅπως μαθὼν ὄρος εἶναι Θεῷ κεχαρισμένον δι’ ἐρημίαν εἰς ἡσυχίαν ἐπιτήδειον πρὸς ἐκεῖνο πορεύεται. ἀλλ’ ἐμποδὼν ἡ ἀπορία καὶ τῆς ἀπορίας αἱ μηχαναί, ἃς δύνασαι διαλύειν τοῖς ἐν μέσῳ τῆς χώρας ἱερεῦσι κελεύων μέχρι τοῦ ὄρους διασῴζειν τὸν ἄνθρωπον. Διοδώρῳ σχολαστικῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "22 (1t)",
+      "text": "Εἰ πόλεμος ἡμᾶς πρὸς ἀλλήλους πολλὰ κελεύει λαλεῖν, εἰρήνη δὲ συχνὴν ἐπάγει τὴν σιωπήν, μόνος οὗτος ὁ πόλεμος εἰρήνης κρείττων ἐστί. τί γὰρ χαριέστερον ἢ θαμὰ παιδικοῖς ἀδολεσχεῖν; λύσωμεν τοίνυν ἢ τὴν εἰρήνην ἢ τὴν σιωπήν. μὴ γὰρ τοὺς φίλους, μὴ γὰρ τοὺς ῥήτορας σιωπῶντας ὁ ἥλιος κατίδοι. Ἐπιφανίῳ σοφιστῇ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "23 (1t)",
+      "text": "Εἰς κάλλος ζῆν ἢ γράφειν μεμελέτηκεν ᾧ δεδώκαμεν τὴν ἐπιστολήν· δύναται δὲ καὶ εὐδαιμονοῦσαν οἰκίαν τῷ κεκτημένῳ διασῴζειν καλῶς. πόσοι γοῦν τοῦ βίου κοινωνὸν ἔχειν ἐβούλοντο, ὃ δὲ τῆς πατρίδος μᾶλλον ἢ περιουσίας ἐρᾷ. πολλὰς δὲ πόλεις καταμαθὼν οἷά τις Ὀδυσσεὺς ὡς ὑμᾶς οἷα πρὸς Ἀλκίνουν ἀφῖκται. καὶ ὃ μὲν ὑμῖν διηγήσεται τὴν πλάνην οἷον ἐκεῖνος ἐκείνῳ, ὑμεῖς δὲ καταλύσαντες τὴν πλάνην οἴκαδε διασώσατε ὥσπερ ἐκεῖνον ἐκεῖνος. μὴ γὰρ διαμάρτοι τῆς δόξης δι’ ἐμοῦ πρὸς ὑμᾶς καταφυγών. Μαρκιανῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "24 (1t)",
+      "text": "Φιλεῖν ἐκέλευες, ἐγὼ δὲ καὶ αἰτεῖν ἄρχομαι. ἠδίκηται γὰρ ᾧ δεδώκαμεν τὴν ἐπιστολήν· κατέβαινειν ἐπὶ φοινίκων ὠνὴν φέρων χρυσίον τὴν τῶν φοινίκων τιμήν. ἀλλ’ ὢ τῆς τύχης, οὐδὲ πενίαν ἄνευ κινδύνων ἔστιν ἀμύνεσθαι. ὃ μὲν γὰρ ἤλαυνεν ἀγαθαῖς ἐλπίσιν ἐποχούμενος, τῶν δὲ φιλίαν ὑποκρινομένων βαρβάρων οἱ λῃστρικώτατοι προσπεσόντες παίουσί τε καὶ στρεβλοῦσι καὶ γυμνὸν τὸ ξίφος ἐπανατείναντες ἀποσφάττειν ὅλως ἠπείλουν, τέλος δὲ τὸ χρυσίον λαβόντες ἐκέλευον χάριν εἰδέναι ὅτι τὴν τύχην, οὐ τὸν βίον μετήλλαξεν. Δίκη δ’ ὑπόπτερος οὖσα τῶν ἠδικηκότων ἐνίους συλλαμβάνει. ἤκουσεν ὁ στρατηγός, ἐχαλέπαινεν μισῶν ἀεὶ τοὺς κλέπτας μᾶλλον ἢ τοὺς φανερῶς πολεμίους, καὶ μάλα γε εἰκότως· τοὺς μὲν γὰρ ἔστι πόρρωθεν προφυλάττεσθαι, οἳ δὲ τοῖς φίλοις ἐξ ἀφανοῦς ἐπιτίθενται. καὶ προσέταττεν ἐπανορθοῦσθαι τοῦ πένητος τὴν ἀπορίαν καὶ ἀναλαμβάνειν ὅσων ἀφῄρηται. ὃ μὲν προσέταττεν ὁ στρατηγός, ὃ δ’ ἄπορος ἔτι πενίαν ὀδύρεται. ἀλλὰ στήσατε τοῖς μὲν τὴν λῃστείαν, τῷ δὲ τὴν ἀπορίαν. προσφθέγγομαι τὸν μεγαλοπρεπέστατον καὶ θεοφιλέστατον στρατηγόν. Ἰουλιανῷ ἀρχιτέκτονι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25 (1t)",
+      "text": "Τοῦ Ἀλκίνου τὸν κῆπον οἶμαι κεκτῆσθαι διὰ τὴν καλὴν μηχανήν, ἣν σὺ μὲν ἐξεῦρες, ἐποίησε δὲ ὁ τέκτων. ἐγὼ δὲ γράψω τῷ λόγῳ· ἥδιστον γὰρ τὸ θέαμα. δύο μὲν οἱ μέγιστοι κύκλοι σανίδι καὶ γόμφοις συναπτόμενοι, ὥστε ἕνα τοῖς ἔξωθεν θεωμένοις δοκεῖν εἶναι. ἐπὶ δὲ τῷ καταστρώματι παιδίον ἔνδοθεν ἐκτρέχει περὶ τὸν αὐτὸν τόπον μακρόν τινα δρόμον· ὁ δὲ κύκλος συμπαραθεῖ καὶ τοσοῦτον ἀκολουθεῖ ὅσον τὸ παιδίον βούλεται. ὁ δὲ ἄξων, περὶ ὃν ὁ μέγιστος κύκλος αὐτοῦ μένων στρέφεται, καὶ συγκινεῖ μικρὸν ἕτερον κύκλον τὸν ἐπὶ τῷ φρέατι. ἐπὶ τούτῳ τὰ σχοινία καὶ οἱ χόες ἐπίκεινται κατὰ μέρος συνδεδεμένοι. ἀλλ’ ὀξυτάτη μὲν ἡ κίνησις, τοῦ δὲ μικροῦ κύκλου τὸ μέσον στενοχωρία, ὥστε μόνον τὰς ἀπαρχὰς τῆς ἐκροῆς ὑποδέχεσθαι. τὸ δὲ πλέον τοῦ ὕδατος ἐπὶ τὸ φρέαρ ἐκχεόμενον ῥᾳδίως αὖθις καταδυθὲν μόλις ἀνάγεται. τουτὶ μὲν οὖν ἐπανορθώσασθαι δεῖ· τῷ δὲ τὴν ἀρχὴν ἐξευρόντι οὐ χαλεπὸν τὸ τέλος γίνεται. μὴ γὰρ περιίδοιμεν οὕτω καλὸν θέαμα τῆς ἑτέρου σοφίας δεόμενον, μὴ ταὐτὸν πάθοιμεν ὥσπερ ἂν εἴ τις ζωγράφος τὴν Ἑλένην εἰς κάλλος γράφων τῆς κεφαλῆς ἐπελάθετο.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "tfg-aa",
+      "title": {
+        "english": "Theophrastus or-the Immortality of Souls and Resurrection of Bodies Dialogue",
+        "ancient_greek": "Θεόφραστος ἢ Περὶ Ἀθανασίας Ψυχῶν καὶ Ἀναστάσεως"
+      },
+      "url_slug": "aeneas-of-gaza-immortality-resurrection-tfg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeneas-of-gaza/immortality-resurrection",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeneas-of-gaza-immortality-resurrection-tfg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeneas-of-gaza-immortality-resurrection-tfg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeneas-of-gaza-immortality-resurrection-tfg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeneas-of-gaza-immortality-resurrection-tfg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeneas-of-gaza/immortality-resurrection.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "okg-fg",
+      "title": {
+        "english": "Brutus",
+        "ancient_greek": "Βροῦτος"
+      },
+      "url_slug": "plutarch-of-chaeronea-brutus-okg-fg",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/brutus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-brutus-okg-fg.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-brutus-okg-fg.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-brutus-okg-fg.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-brutus-okg-fg.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/brutus.epub"
+      }
+    },
+    {
+      "eul_wid": "vls-af",
+      "title": {
+        "english": "Commentary-Aristotle in Greek",
+        "ancient_greek": "Ὑπόμνημα εἰς τὸν Ἀριστοτέλη Ἑλληνιστί"
+      },
+      "url_slug": "sophistical-refutations-anonymous-commentary-aristotle-vls-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/sophistical-refutations-anonymous/commentary-aristotle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-commentary-aristotle-vls-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-commentary-aristotle-vls-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-commentary-aristotle-vls-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-commentary-aristotle-vls-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous/commentary-aristotle.epub"
+      }
+    },
+    {
+      "eul_wid": "ree-aa",
+      "title": {
+        "english": "Fragments on a Satyr Play",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σατυρικοῦ Δράματος"
+      },
+      "url_slug": "alexander-of-aphrodisias-ii-satyr-play-fragments-ree-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-aphrodisias-ii/satyr-play-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ii-satyr-play-fragments-ree-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ii-satyr-play-fragments-ree-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ii-satyr-play-fragments-ree-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ii-satyr-play-fragments-ree-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ii/satyr-play-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "udw-aa",
+      "title": {
+        "english": "On Nicomachus' Introduction to Arithmetic",
+        "ancient_greek": "Περὶ τῆς Νικομάχου ἀριθμητικῆς εἰσαγωγῆς"
+      },
+      "url_slug": "iamblichus-of-chalcis-nicomachus-arithmetic-udw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/iamblichus-of-chalcis/nicomachus-arithmetic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-nicomachus-arithmetic-udw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-nicomachus-arithmetic-udw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-nicomachus-arithmetic-udw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-nicomachus-arithmetic-udw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis/nicomachus-arithmetic.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-ap",
+      "title": {
+        "english": "On Philosophy from Oracles",
+        "ancient_greek": "Περὶ φιλοσοφίας ἐκ χρησμῶν"
+      },
+      "url_slug": "porphyry-of-tyre-philosophy-oracles-udm-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/philosophy-oracles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-philosophy-oracles-udm-ap.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-philosophy-oracles-udm-ap.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-philosophy-oracles-udm-ap.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-philosophy-oracles-udm-ap.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/philosophy-oracles.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-bc",
+      "title": {
+        "english": "On Respiration",
+        "ancient_greek": "Περὶ Ἀναπνοῆς"
+      },
+      "url_slug": "aristotle-respiration-hgw-bc",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/respiration",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-respiration-hgw-bc.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-respiration-hgw-bc.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-respiration-hgw-bc.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-respiration-hgw-bc.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/respiration.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-da",
+      "title": {
+        "english": "Political Precepts",
+        "ancient_greek": "Πολιτικὰ παραγγέλματα"
+      },
+      "url_slug": "plutarch-of-chaeronea-political-precepts-okg-da",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/political-precepts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-political-precepts-okg-da.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-political-precepts-okg-da.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-political-precepts-okg-da.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-political-precepts-okg-da.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/political-precepts.epub"
+      }
+    },
+    {
+      "eul_wid": "sno-aj",
+      "title": {
+        "english": "To the Mother of the Gods",
+        "ancient_greek": "Εἰς τὴν μητέρα τῶν θεῶν"
+      },
+      "url_slug": "julian-the-apostate-mother-of-gods-sno-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/julian-the-apostate/mother-of-gods",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-mother-of-gods-sno-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-mother-of-gods-sno-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-mother-of-gods-sno-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-mother-of-gods-sno-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/mother-of-gods.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aeneas-of-gaza/letters-to-john",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeneas-of-gaza-letters-to-john-tfg-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeneas-of-gaza-letters-to-john-tfg-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeneas-of-gaza-letters-to-john-tfg-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeneas-of-gaza-letters-to-john-tfg-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeneas-of-gaza/letters-to-john.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

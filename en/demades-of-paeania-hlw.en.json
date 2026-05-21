@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "hlw",
+  "auth_slug": "demades-of-paeania",
+  "name": {
+    "english": "Demades of Paeania",
+    "ancient_greek": "Δημάδης ὁ Παιανιεύς"
+  },
+  "seo_h1": "Demades of Paeania and the Oratory of Macedonian Athens",
+  "seo": {
+    "browser_title": "Demades of Paeania on Eulogikon Greek Archive and Library",
+    "meta_title": "The Demades of Paeania Ancient Greek Oratory Works",
+    "meta_description": "Demades of Paeania, a 4th century BCE Athenian orator. Works include speeches and political fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Demades of Paeania was an Athenian orator and statesman of the 4th century BCE. Born in Paeania to a non-elite background, his political career began after he was captured at the Battle of Chaeronea in 338 BCE. His eloquent speech reportedly secured his release from King Philip II of Macedon, and he became a leading pro-Macedonian politician. He served as a key diplomat between Athens and the Macedonian monarchy under both Philip and Alexander the Great.</p>\n<p class=\"research-text\">His career ended in disgrace; he was condemned for treason and executed around 319 BCE. No authentic speeches by Demades survive. His reputation rests on fragments and witty apophthegms preserved by later authors like Plutarch. All surviving works under his name, including a collection of twelve declamations and a lost work titled <strong>On the Twelve Years</strong>, are considered later, spurious compositions.</p>\n<p class=\"research-text\">Demades represents the pragmatic, accommodationist faction in Athens following the rise of Macedon. While often contrasted with Demosthenes, his diplomacy was credited with sparing Athens from severe retribution after the destruction of Thebes. His complex legacy remembers him as both a savior of the city and a traitor.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 3,
+  "works": [
+    {
+      "eul_wid": "hlw-aa",
+      "title": {
+        "english": "In Defense of the Twelve Years",
+        "ancient_greek": "Ὑπὲρ τῆς δωδεκαετίας"
+      },
+      "url_slug": "demades-of-paeania-defense-twelve-years-hlw-aa",
+      "passages": 148,
+      "links": {
+        "html": "https://eulogikon.org/grc/demades-of-paeania/defense-twelve-years",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demades-of-paeania-defense-twelve-years-hlw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demades-of-paeania-defense-twelve-years-hlw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demades-of-paeania-defense-twelve-years-hlw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demades-of-paeania-defense-twelve-years-hlw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demades-of-paeania/defense-twelve-years.epub"
+      }
+    },
+    {
+      "eul_wid": "hlw-ac",
+      "title": {
+        "english": "On the Abduction of Persephone",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "demades-of-paeania-abduction-persephone-hlw-ac",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/demades-of-paeania/abduction-persephone",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demades-of-paeania-abduction-persephone-hlw-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demades-of-paeania-abduction-persephone-hlw-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demades-of-paeania-abduction-persephone-hlw-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demades-of-paeania-abduction-persephone-hlw-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demades-of-paeania/abduction-persephone.epub"
+      }
+    },
+    {
+      "eul_wid": "hlw-ab",
+      "title": {
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
+      },
+      "url_slug": "demades-of-paeania-testimony-hlw-ab",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/demades-of-paeania/testimony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demades-of-paeania-testimony-hlw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demades-of-paeania-testimony-hlw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demades-of-paeania-testimony-hlw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demades-of-paeania-testimony-hlw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demades-of-paeania/testimony.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/demades-of-paeania",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demades-of-paeania-hlw.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demades-of-paeania-hlw.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demades-of-paeania-hlw.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demades-of-paeania-hlw.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

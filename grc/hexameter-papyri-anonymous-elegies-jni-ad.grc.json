@@ -1,0 +1,639 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "jni-ad",
+  "eul_aid": "jni",
+  "author_slug": "hexameter-papyri-anonymous",
+  "work_slug": "elegies",
+  "url_slug": "hexameter-papyri-anonymous-elegies-jni-ad",
+  "author": {
+    "english": "Hexameter Papyri Anonymous",
+    "ancient_greek": "Ἀδέσποτα Παπυράκεα Ἑξάμετρα"
+  },
+  "title": {
+    "english": "Elegies",
+    "ancient_greek": "Ἐλεγείαι"
+  },
+  "seo": {
+    "browser_title": "Elegies by Hexameter Papyri Anonymous on Eulogikon",
+    "meta_title": "Elegies by Hexameter Papyri Anonymous in Ancient Greek",
+    "meta_description": "Anonymous elegiac poetry from papyrus fragments. Greek elegiac poems from fragmentary sources. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric) (frg)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Elegies</strong> constitute a modern editorial collection of fifty-seven anonymous and fragmentary passages of Greek elegiac poetry, cataloged under the designation &quot;Hexameter Papyri.&quot; Composed in the standard elegiac couplet, these verses represent the genre&#x27;s broad application across themes of martial exhortation, sympotic reflection, and lament. The work survives exclusively as disparate papyrus fragments, accidentally preserved in Egypt and dating primarily from the Hellenistic and Roman periods. These fragments do not represent a coherent ancient book but rather a modern scholarly aggregation; their damaged state obscures any original order, authorship, or complete textual sequences. While the direct historical influence of these anonymous pieces is untraceable, they substantively expand the modern understanding of the elegiac tradition beyond the works of canonical figures. They provide tangible evidence for the genre&#x27;s continued composition, thematic diversity, and geographical spread over many centuries.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 957.1",
+      "text": "— — —[ln_1][].μεμ̣ε̣ι̣[ [ ]τ̣ο̣υ βασιλη[ [].ετ[..]..ι[.]ομε̣[..]σ[ [].ναφ.νδαλοχη̣[..].[[ln_5][].εν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 957.2",
+      "text": "τεκέων []ε̣ς.α..νακτ̣ε̣π̣ι̣λ̣[ []εκ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 957.3",
+      "text": "πεδι.. [].ν.πενε̣ι̣σδ..απε[ [].τ. λιπών[ln_10][]ασιλευτα̣..σεδ̣.ω̣[ []εν ἔπος []..ι̣ς̣.ι̣π.[ []ο̣ι̣ε̣μ̣ους []ιλ̣υ̣κα̣ινα̣[[ln_15][]β̣ε̣σ̣μ̣εν̣ος.[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 958.1",
+      "text": ".......]ο̣σθε πύλης καὶ τείχεος αι̣..πε[ [para].......].ην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 958.2",
+      "text": "ταύτην ἤνυες ἀγγελίην ........]..ησω̣.α διὰ στόματος λόγου.[ [para]...........]ερης ἔρνεα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 958.3",
+      "text": "φυταλιῆς[ln_5].........ο]πίσω ῥυπαρῆς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 958.4",
+      "text": "στάχυες τ..[ [para].......]ναγγέλλων εἰς βασιλῆα λόγο[ν ......]ν̣ ἐπεὶ μάλα πάντα δι’ οὔατος ἔκλ̣[υ [para]...........].ρον δ’ αὐτίκ’ ἀνέσχε λόγ[ον .......]ς̣ ὑβρισταί τε καὶ ἄφρονες ἀλλαμ[[ln_10]......]ν̣ ταύτης μισθὸν ἀτασθαλίης γνώσο]ν̣ται δὲ μαθόντες, ἐπεὶ καὶ ἀρει̣[ [para]......] εἰς κρατερὴν δουλοσύνην ἐθεμ̣[ ......]ης Μήδοισι βαθυκτεάνοισινομ[ [para].......]σασθαι θοῦρος ἀνὴρ Γαλάτης[ln_15]οὐ γὰρ π]ορφυρέοισιν ἐν εἵμασιν οὐδὲ μύροισ̣[ιν [para].....].. μαλακὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 958.5",
+      "text": "χρῶτα λιπαινόμενο[ς ἀλλὰ χα]μευνάδιός",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 958.6",
+      "text": "τε καὶ αιθρι..ενι..[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 959",
+      "text": "[ ]..[ [ ].ιοσανη.[ [ ]..ρηγιο̣.ι̣[ [ ].αρσινοη̣[[ln_5][ ]..ο̣σ̣ιχν...[ [ ]..νδ̣.....[ []..π̣ε̣.ι̣.[.]...ν̣...[ [ ].[.]τ̣ε̣γ[...]ξε̣ν̣[ [ ]...ονη[ ]ιο̣..[[ln_10][ ]..ελαγκρι..[ [ ]π̣εν̣θ̣ερονη̣..κ.[ [ ].. Ἑλικώνι̣ο̣ν̣ ...[.].[ [ ].. ἤ̣ρισα̣ Θε̣σ̣π̣ιάδα̣[ι]ς [ ].πν.ηγκ[.].νει̣....[[ln_15][ ]ν οἰ̣νοπό̣της [ ]..ν.ι̣χ̣α̣ρ̣ιτεσπο̣ρ....[ [ ].ο̣ιρανο̣ς Ὀ̣ρχομε̣ν..[ [ ]ε̣γ̣α̣ς̣..δ̣ε.ερ̣ν.....[ [ ]ς....κος ἀλλαδ̣ε̣χ.[[ln_20][ ].τερ....ω̣ργωνι[ [ ].ενα̣γει̣νεφελ.[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 960.1",
+      "text": "[ ].ε̣[ ] θεοὶ αλλοθε̣[ [ ἐ]ξ̣ότ’ ἔκαυσε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 960.2",
+      "text": "πολ[ [ ]ε̣ριτη̣[ ]πολινο[ [Ἀ]σ̣πετίδης γελ.[[ln_5][ ].αφεις ὁ μέγιστος ἀσυ̣[ [ ]χλο[...]ον ὀστράκινον [ ]κολοκυνθαρυταινα̣.[ [ ].θιν ἐϋκτιμένην [ ].ας τὸ ζεῦγμα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 960.3",
+      "text": "παρελ̣...[ln_10][]ο̣ι̣ς̣ νεῖ ποταμοῖο [ [ ]ισαν̣ ἐ̣υ̣σ̣ταφύλου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 960.4",
+      "text": "φακ[ [ ].....ελεχ[ ] [ ]κ̣ας πάσχει ν̣ε̣άρ̣ωσι[ν [ ]τ̣ι̣ πυρῶδε̣[ς ἔ]χει[ln_14]— — — —",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 961.1",
+      "text": "— — — — —[ln_1][ ].οτ̣α̣[..].υ̣κ̣.[ [ ].οης δ’ ἴσχετεχ̣ε̣...[ [ ]α̣ρεστιναπου[ [ ]..εων δωρα̣δ̣.......δ̣ων[ln_5][–⏑⏑–⏑⏑ ]ειου ἀπὸ κρητῆρος ἀέρσην [–⏑⏑–⏑⏑ ]ων ἤγαγεν εἰνα̣ε̣τ̣ῶν [ ]..τος ἐλούσατο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 961.2",
+      "text": "παρθένος Ἥρ[η [ Οὐλ]ύμπωι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 961.3",
+      "text": "παστὸν ὑπερχομέν̣[η [ ].δεοντος ἐμῶν ἀ̣πιθήσετ.[[ln_10][ ].εων εἶπα διδασκόμενος [ ]ηνης....οίσετε φύλλα καὶ αν̣[ [ ].ηδουκα̣....θ̣ε̣ ποτῶι [ ]Ἀ̣ρ̣[σι]ν̣ό̣ης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 961.4",
+      "text": "ποταμὸς μ[.]..........[ [ ].ρ̣ο.υρων δαψιλὲς οἶδ[μ]α̣ φέρει[ln_15][ ]α̣.[.]λαιη ὅθεν καὶ π[ ].τος απο..[ [ ].ων ὑετὸς αιθ...... [ ] κ̣ρήνην ἱερο.... ἀθανατάων [ ] φίλης ἁγνὰ λοετρὰ κόρης [ ]ν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 961.5",
+      "text": "παιδὶ βαθυζώνοιο Δ̣ι̣ώ̣νης[ln_20][ νύ]μφην οὐκ ἐθέλουσα νυ̣ό̣ν [ ]ωστῆρος ἄτ̣ερ καλ[.]..ν̣αδε[ [ ν]υμφάων ἱερὸς ἠέλ̣ι̣ο̣ς̣ [ ]α̣μοισι πόσις καλ[ [ ]τωι δωκ̣.....[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 962.1",
+      "text": "— — — —[ln_1][]...[ [].εθρον.[ [].ενητα.[ [].πεφορησε̣ν̣.[[ln_5][].ν λέχος ⟦......[ []γ̣αγοιο πόλιν []οντος ἔτι θρασέος λεπ̣[ [–⏕–⏕ ].σω τέκμαρ ἐπηλυσίης [–⏕–⏕– ]α̣ γυναικῶν Λητωίνη[ln_10][ ].ει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 962.2",
+      "text": "σεῖο θαλυκρὸς ἔρως [ ]σ̣ηις τὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 962.3",
+      "text": "παρθένον· οὐ γὰρ ἔοικ[ε [ ].ζει̣νε.εμετην ὀλίγην [ ]. λ̣υγρὸν ἐγὼν ὑποδύομαι αἶσχ[ος [ ]η̣ σὴν διὰ καμμονίην[ln_15][ ]κ̣ουρε μετὰ πραπίδεσσι βαλεσ̣[θ‐ [ ]....σ̣ονε̣ο[ ].ολοκους [ ].α..δεκ.[ ]νπλεον.σανυσα[ [ ]τεις.ετ̣ισαι.α̣νεη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 963",
+      "text": "— — — —[ln_1][ ].α̣υκ.[ [ ].ν [].ιπ̣[ ].. [ ]χειν[ln_5][ ]υμολετ̣ι[[ln_5]— — — —",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 964.1",
+      "text": "].αμ.[ [para]].[ ]α̣[ ]μ̣ε..ω̣[ ]...[ [para]].νοτ..[ ]α̣γ̣..[[ln_5]]λη.[ ].δα̣[ ]ασ̣αλ̣[ [para]]α̣πε̣.θ.[ ]ξασπ.[ ].π[ ].φοβ̣εεσθα[ [para].].[ ]ι̣οφ.[ ].[ ]...[ .].ξει̣ον.[.]μεροπ[ ]...[[ln_10]..].α πόρεν χὠσσω.[ ]απε..[ π]αῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 964.2",
+      "text": "Ταφίη ν̣ήσους π[ Ἐχι]νάδας ο.[ [para]π]ατρίδι καμνούσῃ .[....] ἐλευθ.[ ἤ]καχε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 964.3",
+      "text": "παρθενικὴ ν.ς.[...]νοσουδ̣[ [para]π]αιδὸς ὕπερ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 964.4",
+      "text": "σφετέρης π̣[ν]ε̣ῦμαπε̣.[[ln_15]ὤ]λεσεν Ἄψυρτον Μήδη [κάσ]ιν, ἡ δε.[ Δι]ώρη ν[ε]αρῶν ἔξοχον [Αἰο]λιδέω̣ν̣. ἀ]λλὰ τί [ταῦ]τα διε.[...].[...].τηο δα.[ [para]ο̣υ̣δο̣.[ ]τ̣ο.ουτ̣..[ ]..σιπο̣[..]κραδίην̣[ χλιαίνῃ δ’ ὑπ’ Ἔρωτος ἀτασ[θ]άλου, ὅς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 964.5",
+      "text": "σε[[ln_20]δή τι κατασμύξας θήσει [ἐλ]εγχοτέρη[ν. * .[....][ln_21A]]οδ.μ[.....][ln_22]φευγε̣[ ].ετι.[ [para]ελθησ[ ]σ̣α.[ η̣πορ.[[ln_25]ουμα[..].κ.αρ.[ ].[ ουκα.[..]..φευξη̣[ [para]τειν[..]η",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 964.6",
+      "text": "Σκυθικου̣[ οὐδει[..]πίφιγγες α[ [para]η[.....]δ̣[..]κυαν[[ln_30]η[. κ]ασιγνήτου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 964.7",
+      "text": "χρ[ [para]ὠ]κύτ[α]τον κείνου.ου[......]..[ .]λα.[.] καὶ φεύγοντα κιχή[σο]μαι [ [para]..]..[.]χρυσέου[..]υ̣.[ ]ε̣..[..]μ[ κ̣λεμ[...]δ̣ι[.]εδίωκον .[.....].π̣[[ln_35].ασμ[....].[.]ωντυδ.[......]σ̣α[ η ὁκοσο.[ ]χαρ[.].πε[......].ο[ [para]νησῖδ[ο]ς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 964.8",
+      "text": "χρυσε[.]νο[ η κοτε Δαρδανίη[...] ἀμύμο[ν [para]Ἰπνοῦντος κοιλ[..] ἤγαγον ε[[ln_40]η γαρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 964.9",
+      "text": "σο[.]γ̣αιηκ.[..]εων χάριν [ [para]δαίμον[ο]ς ὧι λισσὴ στείβετα[ι ἱμείρω πᾶν ἦμαρ ἀμοιβαδὸ[ν [para]Αἰακίδη[.] Δο[λ]όπων .θελενι[ ξυν.ο̣υς.αι ἀρθμου[...]κ.ιηθ[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 964",
+      "text": "[ln_45]πρῶτον Ἐρ.ιναέο[ς ..]κ̣λυεφ[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 965.1",
+      "text": "— — — —[ln_1][].[ [] [ []μμ̣ε.[ [] [[ln_5][ ].ο̣.υ̣..ωνυρτ̣α.νον.[ [– ] π̣όλιν Ἀσσαράκου [⏓ ]. εν γενείωι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 965.2",
+      "text": "χνοῦς επ[ –⏑–⏑– [– ]ι̣ διειδόμενος [⏓ ].εινοναυτον δηιοισε[ –⏑–[ln_10][ ]νεν ἐνυάλιος [ ]μεντ’ εοργ.[.]υ̣δενακλ[ [ ].εσ̣αλλα[.].υσιν [ ]η̣[.]κηπιγα.[ [ ].ιμενοι[ln_15][ ]κτωι κῦμ’ αλ.[ [ ].ω [ ]μουνοντον[ [ ].δαης [ ].αστ.[ ]..[[ln_20][ ].εν.[ [ ]σ̣ολε[ [ ].λιχ[ [ ]τ̣εκ[ [ ]σα.[[ln_24]— — — —",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 966",
+      "text": "— — — —[ln_1][].ρ.[ []ευομενη[ [–⏕–⏕–⏕–⏑⏑ ] Ἐ̣γκελάδοιο [–⏕–⏕––⏑⏑– ]. Χαλύβων[ln_5][].ουμενε[ [].πλεϊδων [].ρεσι.εντεμε[ []φωνιαδας [πρ]οσηνέα καιπε[[ln_10][]α λευκολίθων []αιδεσαρειδα̣.[ []..να̣..π̣η[ [].ομαι ἐξότεπι̣[ []ο̣ς ἐξ ἀκίδων[ln_15][]παϊτουνεκας.[ []αγουσινεοι [].ριδεσαμφιγε.[ []φιδεαι [] μεμορυχμε̣[[ln_20][]φ̣αλοι[ln_20]— — — —",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 967.1",
+      "text": "..]ματα[...]π̣ο̣λ.[ [para]η̣κομεν[...]π̣λεισ̣[ . ἱερὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 967.2",
+      "text": "πτ̣[ολ]ί̣εθρον [ [para]...[ ]φων λύει γυῖαμε[[ln_5].].δ’ ὅτι θερμὰ λοετραφ[ [para]..[ ].[.]ος ἀλλ’ ὅτι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 967.3",
+      "text": "σοῖς ὄμμ[ εἴθε γαρε.[..]εαστοτεδ[ [para]ε.πο.ε[..]λ̣ληλοιστου[ .]ν̣υ[..]..νυνειδωλα[[ln_10].].[ ].ιδεσενμ̣ουσηιο.[ * ..[.].νις ..].οτικα.[.].υσηι.[ [para]..[ ]τηια̣.[ οἶδ’ ὅτι κα[[ln_15]επλεον̣α̣[ ὄθμ̣ατα̣δ[ [para]μηη̣.[ ].[ [ ].[ ]..[[ln_18]— — — —",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 967a1",
+      "text": "— — —[ln_1][].ε̣κ....[ [ ]τεφαν.[ [ ]δεκωμ[ [ ]α[ln_5][ ]..[[ln_5]— — —",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 967a2",
+      "text": "— — — —[ln_1][–⏕– ].ν ἄλλας ἐλπιδ[ ⏑–⏑⏑– [ ]η̣ρ τ̣ά̣χα.η̣τ̣[ ]..[ [–⏕– ]γαμιαι̣ δαι̣σομ[ ⏑–⏑⏑– [–⏕– ].ζυγίοιο μακαρτ̣[ ⏑⏑–⏑⏑––[ln_5][–⏕– χ]ρυσέαν αγκα.[ ⏑–⏑⏑–[ln_5]— — — —",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 968.1",
+      "text": "ν̣...[ [para]τ..κ̣.[ ν̣[.]κ̣[...]λ̣α̣κα[ [para]ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 968.2",
+      "text": "τούτωι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 968.3",
+      "text": "σκ.[[ln_5]πνεῦμα γ̣ὰρ ε̣[ [para]η φύσις εκπη̣[ σκωπτετε κα[ [para]κάλπιν ὑπο̣.[ ἀλλ’ ὁ μὲν ὠ[κ]ε̣α̣[ν[ln_10]κῦμα γ̣ε̣δ̣.[..].[ η καλπι.[.].[ [para]ἔστιν ανεκ...[ ἐκ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 968.4",
+      "text": "τριχὸς ουρ[.]ζ.[ [para]καὶ καταλειπ..[[ln_15]ν̣ηὸς ἐεικοσόροιο καλ̣[ [para].[.].ν....κ.[ αλλομεν ουτι[ [para]ε̣[.]κ̣τ̣η̣την̣α̣χ̣.[ ε̣ἰ̣σ̣ί τινες̣ τ̣ουτ[[ln_20]ἄλ̣λος Ἀπελλείω̣ι̣ [ κ..νος ὃν ἀρχ̣α̣ι̣.[ [para]ἄλλος ὁ μιλτ̣ῶ̣σα̣ι τ̣[ π̣ι̣ν̣ο̣μεν[ [para]ἔστι̣ καὶ εν̣[[ln_25]κτ̣.[..]ν̣τ[[ln_25]— — — —",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 969.1",
+      "text": "πολλάκι μὲν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 969.2",
+      "text": "περὶ σεῖο φάτις .[ [para]...α̣νο..[..]ε̣ι̣λ̣ου[.]α̣μ̣β̣[.].[ ες......ω̣ν σὺ βροτῶν π̣.[ [para]ἄξιον ἐν βύβλοις δόξαν αει.[[ln_5]πρόσ̣θ̣ε γὰρ Αἰγύπτωι οτε.[ [para]καὶ θρασὺς ἐμ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 969.3",
+      "text": "πολέμοις ἔβρε[μ φῦλα μὲν Ἑλλήνων επικ..[ [para]πέμπων εἰς Ἀίδην ἀντια[ [ ]υ̣ρ̣[[ln_9]— — — — —",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 970col1.1",
+      "text": "[–⏑⏑– ]ε Δίκη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 970col1.2",
+      "text": "παρθένος ἀθανα[τ– [–⏑⏑– ]ταμενοις ἀτενὲς βλεπε[ –⏑⏑–– [ Κρο]νίδεω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 970col1.3",
+      "text": "στήθεσιν ἑδριά[ει [ κ]ορυφῆι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 970col1.4",
+      "text": "σε μέγαν καὶ ἀναιδέα λᾶαν[ln_5][ ]δ̣εω κρατὸς ὕπερ κρέμαται [ ἀ]ξυνέτου γλώσσης χάριν ἦ μέγ’ ἐκείνω̣[ι] [ ] Ἀΐδεω δώμασιν ἐστρέφετο [ ] θεοῖσιν ὁμέστιος ἀθανάτοισιν [ ]ος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 970col1.5",
+      "text": "παῖς νεφεληγερέος[ln_10][ ] καὶ πᾶσι μέγας καὶ τίμιος αὔτως [ γλ]ώσσηι δοὺς χάριν ἀξυνέτωι̣ [ ]λ̣υξε· σὺ δ’ ἔλπεαι ἐκφεύξ[ε]σθαι [ θ]εοῖς ἁνδάνοι ἀθανάτοις [ ]...ων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 970col1.6",
+      "text": "στίξω σῦν ἀργιόδοντα[ln_15][ ].ων ἐρχόμενος καματ[ [ ]λ̣ε̣ρ̣ηι̣σι—τὸ γὰρ φίλον ἔπλετ̣[ο] κ̣ο̣ύ̣ρ̣ηι— [ ]ον σίνετο δὲ σταφυλάς [ ]ακας θηρήτορας ἐξενά[ρι]ξ̣εν [ μ]ε̣λίην πῆξεν ὑπὸ λλαπά[ρ]ην[ln_20][ Με]λέαγρος· ὁ γὰρ θηρέστατος ἦεν [ ]ων σὺν τότ’ ἀθροισαμένων [ Θη]σεὺς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 970col1.7",
+      "text": "Πιτθηίδος, ἤλυθε δ’ αἴθων [ Ἀγκ]αῖος σὺμ μεγάλωι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 970col1.8",
+      "text": "πελέκει [ Λή]δης κοῦροι καὶ Ζηνὸς ἄνακτο̣ς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 970col2",
+      "text": ".[ ...[ α̣..[ β.μ.[ ..σγ.[[ln_10]...[ ...[ οξ.[ πε.[ πε.[[ln_15]φ̣.ι̣[ ⸏πολ̣[ στιξ[ οισιπ̣[ η.[[ln_20]τ̣.[ ..[",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "jni-ac",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "hexameter-papyri-anonymous-epigrams-jni-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hexameter-papyri-anonymous/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-epigrams-jni-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-epigrams-jni-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-epigrams-jni-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-epigrams-jni-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "jni-ab",
+      "title": {
+        "english": "Hexameters",
+        "ancient_greek": "Ἑξάμετροι"
+      },
+      "url_slug": "hexameter-papyri-anonymous-text-jni-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hexameter-papyri-anonymous/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-text-jni-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-text-jni-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-text-jni-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-text-jni-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous/text.epub"
+      }
+    },
+    {
+      "eul_wid": "jni-aa",
+      "title": {
+        "english": "Miscellanea",
+        "ancient_greek": "Μικτὰ"
+      },
+      "url_slug": "hexameter-papyri-anonymous-miscellanea-jni-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hexameter-papyri-anonymous/miscellanea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-miscellanea-jni-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-miscellanea-jni-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-miscellanea-jni-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-miscellanea-jni-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous/miscellanea.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "fzk-aa",
+      "title": {
+        "english": "Anonymous Aulody",
+        "ancient_greek": "Ἀνώνυμον Αὐλωδία"
+      },
+      "url_slug": "aulodia-anon-text-fzk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aulodia-anon/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aulodia-anon-text-fzk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aulodia-anon-text-fzk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aulodia-anon-text-fzk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aulodia-anon-text-fzk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aulodia-anon/text.epub"
+      }
+    },
+    {
+      "eul_wid": "kka-aa",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "ptolemy-iii-euergetes-epigram-kka-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-iii-euergetes/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-iii-euergetes-epigram-kka-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-iii-euergetes-epigram-kka-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-iii-euergetes-epigram-kka-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-iii-euergetes-epigram-kka-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-iii-euergetes/epigram.epub"
+      }
+    },
+    {
+      "eul_wid": "jqu-ab",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "pancrates-of-arcadia-epigrams-jqu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/pancrates-of-arcadia/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-arcadia-epigrams-jqu-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-arcadia-epigrams-jqu-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-arcadia-epigrams-jqu-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-arcadia-epigrams-jqu-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-arcadia/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "cqc-aa",
+      "title": {
+        "english": "Erythraean Paean Found at the City of Dion",
+        "ancient_greek": "Ἐρυθραῖος Παιὰν εὑρεθεὶς ἐν Δίῳ"
+      },
+      "url_slug": "paean-collection-anonymous-erythraean-dion-cqc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/paean-collection-anonymous/erythraean-dion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-erythraean-dion-cqc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-erythraean-dion-cqc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-erythraean-dion-cqc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-erythraean-dion-cqc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-dion.epub"
+      }
+    },
+    {
+      "eul_wid": "mdu-ac",
+      "title": {
+        "english": "Fragments of Bucolic Poetry",
+        "ancient_greek": "Ἀποσπάσματα Βουκολικῆς Ποίησεως"
+      },
+      "url_slug": "moschus-of-syracuse-bucolic-fragments-mdu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/moschus-of-syracuse/bucolic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-bucolic-fragments-mdu-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-bucolic-fragments-mdu-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-bucolic-fragments-mdu-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-bucolic-fragments-mdu-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/bucolic-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "big-ab",
+      "title": {
+        "english": "Fragments on Athletic Victory",
+        "ancient_greek": "Ἀποσπάσματα περὶ Νίκης Γυμνικῆς"
+      },
+      "url_slug": "simonides-of-ceos-athletic-victory-big-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/simonides-of-ceos/athletic-victory",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos-athletic-victory-big-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos-athletic-victory-big-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos-athletic-victory-big-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos-athletic-victory-big-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/athletic-victory.epub"
+      }
+    },
+    {
+      "eul_wid": "brw-ae",
+      "title": {
+        "english": "Hyporchemata Fragments",
+        "ancient_greek": "Ἀποσπάσματα Ὑπορχημάτων"
+      },
+      "url_slug": "bacchylides-of-ceos-hyporchemata-brw-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/hyporchemata",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-hyporchemata-brw-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-hyporchemata-brw-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-hyporchemata-brw-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-hyporchemata-brw-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/hyporchemata.epub"
+      }
+    },
+    {
+      "eul_wid": "rty-aa",
+      "title": {
+        "english": "Riddles of Paradoxical Encounters",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "panarces-the-riddler-paradoxical-encounters-rty-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/panarces-the-riddler/paradoxical-encounters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panarces-the-riddler-paradoxical-encounters-rty-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panarces-the-riddler-paradoxical-encounters-rty-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panarces-the-riddler-paradoxical-encounters-rty-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panarces-the-riddler-paradoxical-encounters-rty-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panarces-the-riddler/paradoxical-encounters.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hexameter-papyri-anonymous/elegies",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-elegies-jni-ad.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-elegies-jni-ad.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-elegies-jni-ad.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-elegies-jni-ad.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous/elegies.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

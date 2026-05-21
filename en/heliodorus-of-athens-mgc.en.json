@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "mgc",
+  "auth_slug": "heliodorus-of-athens",
+  "name": {
+    "english": "Heliodorus of Athens",
+    "ancient_greek": "Ἡλιόδωρος ὁ Ἀθηναῖος"
+  },
+  "seo_h1": "Heliodorus of Athens on the Athenian Acropolis",
+  "seo": {
+    "browser_title": "Heliodorus of Athens on Eulogikon Greek Text Archive",
+    "meta_title": "Heliodorus of Athens Ancient Greek Geographical Works",
+    "meta_description": "Heliodorus of Athens was a 2nd century BCE Hellenistic geographer. His surviving geographical texts. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γεωγραφία",
+      "english": "Geography",
+      "href": "/domains/geography"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Heliodorus of Athens was a Greek author of the 2nd century BCE. Beyond his Athenian origin and this chronological placement, deduced from his work, no biographical details survive.</p>\n<p class=\"research-text\">His sole known work is <strong>On the Acropolis of Athens</strong>, a topographical description of the Acropolis, its monuments, and dedications. The text is now lost, preserved only in fragments cited by later authors. Heliodorus represents a minor contributor to Hellenistic local history and topography.</p>\n<p class=\"research-text\">His significance derives from his work’s later use as a reference by lexicographers and scholiasts for details of Acropolis monuments. These fragments provide valuable evidence for modern reconstructions of the site’s Hellenistic appearance.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "mgc-aa",
+      "title": {
+        "english": "On the Athenian Acropolis",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "heliodorus-of-athens-acropolis-mgc-aa",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/heliodorus-of-athens/acropolis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-of-athens-acropolis-mgc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-of-athens-acropolis-mgc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-of-athens-acropolis-mgc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-of-athens-acropolis-mgc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-of-athens/acropolis.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/heliodorus-of-athens",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heliodorus-of-athens-mgc.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heliodorus-of-athens-mgc.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heliodorus-of-athens-mgc.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heliodorus-of-athens-mgc.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

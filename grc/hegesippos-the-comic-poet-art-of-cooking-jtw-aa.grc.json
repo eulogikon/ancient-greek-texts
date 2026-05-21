@@ -1,0 +1,425 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "jtw-aa",
+  "eul_aid": "jtw",
+  "author_slug": "hegesippos-the-comic-poet",
+  "work_slug": "art-of-cooking",
+  "url_slug": "hegesippos-the-comic-poet-art-of-cooking-jtw-aa",
+  "author": {
+    "english": "Hegesippos the Comic Poet",
+    "ancient_greek": "Ἡγήσιππος ὁ κωμικός"
+  },
+  "title": {
+    "english": "Art of Cooking",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "The Art of Cooking by Hegesippos the Comic Poet on Eulogikon",
+    "meta_title": "The Classical Art of Cooking by Hegesippos in Ancient Greek",
+    "meta_description": "Fragments of Hegesippos's comedy The Art of Cooking. Ancient Greek comic verse on culinary themes. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">_The Art of Cooking_ is a lost Athenian comedy by the 4th-century BCE poet Hegesippos. The work survives only through a series of fragments preserved primarily by the grammarian Athenaeus in his _Deipnosophistae_. The extant passages indicate a play centered on food, cooking, and banquet scenes, offering insight into ancient Greek culinary culture and comic tropes. The fragments suggest the comedy explored the preparation and consumption of food, including themes of gluttony and culinary expertise, as well as the social rituals of banquets and symposia. It featured stock characters, such as the boastful cook or the parasitic guest, and employed detailed references to specific foodstuffs, utensils, and dining practices for humorous effect. The play has no independent manuscript tradition; its entire text derives from quotations in later authors, most notably Athenaeus. As a fragmentary work, its primary importance is twofold. It provides evidence for the themes and evolution of 4th-century BCE comedy, particularly its shift toward social and domestic humor. Secondly, preserved for its culinary details, it serves as a valuable source for historians studying ancient Greek diet, material culture, and the social role of food.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[spk_συρ]βέλτιστε, πολλοῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "πολλὰ περὶ μαγειρικῆς εἰρημέν’ ἐστίν. ΣΥΡ. ἢ λέγων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "φαίνου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "τι δὴ καινὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "παρὰ τοὺς ἔμπροσθεν ἢ μὴ κόπτε με. Α. οὐκ ἀλλὰ τὸ πέρας τῆς μαγειρικῆς, Σύρε,[ln_5]εὑρηκέναι πάντων νόμιζε μόνον ἐμέ. οὐ γὰρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "παρέργως ἔμαθον ἐν ἔτεσιν δυσὶν ἔχων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "περίζωμ’, ἀλλ’ ἅπαντα τὸν βίον ζητῶν κατὰ μέρη τὴν τέχνην ἐξήτακα, εἴδη λαχάνων ὅς’ ἐστί, βεμβράδων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.8",
+      "text": "τρόπους,[ln_10]φακῆς γένη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.9",
+      "text": "παντοδαπά. τὸ πέρας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.10",
+      "text": "σοι λέγω· ὅταν ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.11",
+      "text": "περιδείπνῳ τυγχάνω διακονῶν, ἐπὰν τάχιστ’ ἔλθωσιν ἀπὸ τῆς ἐκφορᾶς, τὰ βάπτ’ ἔχοντες, τοὐπίθημα τῆς χύτρας ἀφελὼν ἐποίησα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.12",
+      "text": "τοὺς δακρύοντας γελᾶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_15][spk_συρ]τοιοῦτος ἔνδοθέν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τις ἐν τῷ σώματι διέδραμε γαργαλισμὸς ὡς ὄντων γάμων. ΣΥΡ. φακῆν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "παρατιθείς, εἰπέ μοι, καὶ βεμβράδας; Α. τὰ πάρεργά μου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "ταῦτ’ ἔστιν· ἂν δὲ δὴ λάβω τὰ δέοντα, καὶ τοὐπτάνιον ἁρμόσωμ’ ἅπαξ,[ln_20]ὅπερ ἐπὶ τῶν ἔμπροσθε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "Σειρήνων, Σύρε, ἐγένετο, καὶ νῦν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "ταὐτὸ τοῦτ’ ὄψει πάλιν· ὑπὸ τῆς γὰρ ὀσμῆς οὐδὲ εἷς δυνήσεται ἁπλῶς διελθεῖν τὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "στενωπὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.8",
+      "text": "τουτονί· ὁ δὲ παριὼν πᾶς εὐθέως",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.9",
+      "text": "πρὸς τὴν θύραν[ln_25]ἑστήξετ’ ἀχανής, προσπεπατταλευμένος,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "ἄφωνος, ἄχρι ἂν τῶν φίλων βεβυσμένος τὴν ῥῖν’ ἕτερός",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "προσδραμὼν ἀποσπάσῃ. ΣΥΡ. μέγας εἶ τεχνίτης. Α. ἀγνοεῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "πρὸς ὃν λαλεῖς· πολλοὺς ἐγὼ σφόδρ’ οἶδα τῶν καθημένων,[ln_30]οἳ καταβεβρώκας’ ἕνεκ’ ἐμοῦ τὰς οὐσίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Ἐπίκουρος ὁ σοφὸς ἀξιώσαντός",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "τινος εἰπεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "πρὸς αὐτὸν ὅ τι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.4",
+      "text": "ποτ’ ἐστὶ τἀγαθόν, ὃ διὰ τέλους ζητοῦσιν, εἶπεν ἡδονήν. εὖ γ’, ὦ κράτιστ’ ἄνθρωπε καὶ σοφώτατε·[ln_5]τοῦ γὰρ μασᾶσθαι κρεῖττον οὐκ ἔστ’ οὐδὲ ἓν ἀγαθόν· πρόσεστιν ἡδονῇ γὰρ τἀγαθόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "Σατύας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "Σατύαντος",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "jtw-ab",
+      "title": {
+        "english": "Culinary Artisan's Boast",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hegesippos-the-comic-poet-culinary-boast-jtw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hegesippos-the-comic-poet/culinary-boast",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesippos-the-comic-poet-culinary-boast-jtw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesippos-the-comic-poet-culinary-boast-jtw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesippos-the-comic-poet-culinary-boast-jtw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesippos-the-comic-poet-culinary-boast-jtw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesippos-the-comic-poet/culinary-boast.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "daw-ac",
+      "title": {
+        "english": "Acharnians",
+        "ancient_greek": "Ἀχαρνῆς"
+      },
+      "url_slug": "aristophanes-of-athens-acharnians-daw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/acharnians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-acharnians-daw-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-acharnians-daw-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-acharnians-daw-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-acharnians-daw-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/acharnians.epub"
+      }
+    },
+    {
+      "eul_wid": "hdu-ab",
+      "title": {
+        "english": "Comic Fragments on Daily Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ"
+      },
+      "url_slug": "anaxilas-the-comic-poet-comic-fragments-hdu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/anaxilas-the-comic-poet/comic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-the-comic-poet-comic-fragments-hdu-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-the-comic-poet-comic-fragments-hdu-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-the-comic-poet-comic-fragments-hdu-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-the-comic-poet-comic-fragments-hdu-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-the-comic-poet/comic-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "ggs-aa",
+      "title": {
+        "english": "Comic Fragments on Dining and Excess",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δείπνων καὶ Ἀκολασίας"
+      },
+      "url_slug": "theophilus-the-comic-poet-dining-excess-aa-ggs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theophilus-the-comic-poet/dining-excess-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-comic-poet-dining-excess-aa-ggs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-comic-poet-dining-excess-aa-ggs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-comic-poet-dining-excess-aa-ggs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-comic-poet-dining-excess-aa-ggs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-comic-poet/dining-excess-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-ay",
+      "title": {
+        "english": "Coneazomenae",
+        "ancient_greek": "Κονεαζόμεναι"
+      },
+      "url_slug": "menander-of-athens-coneazomenae-hps-ay",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/coneazomenae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-coneazomenae-hps-ay.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-coneazomenae-hps-ay.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-coneazomenae-hps-ay.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-coneazomenae-hps-ay.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/coneazomenae.epub"
+      }
+    },
+    {
+      "eul_wid": "eco-ad",
+      "title": {
+        "english": "Fragments on Chios and Cos",
+        "ancient_greek": "Ἀποσπάσματα περὶ Χίου καὶ Κῶ"
+      },
+      "url_slug": "strattis-the-comic-poet-chios-cos-eco-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/strattis-the-comic-poet/chios-cos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet-chios-cos-eco-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet-chios-cos-eco-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet-chios-cos-eco-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet-chios-cos-eco-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet/chios-cos.epub"
+      }
+    },
+    {
+      "eul_wid": "dkc-ab",
+      "title": {
+        "english": "Fragments on Daily Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ"
+      },
+      "url_slug": "callias-the-comic-poet-daily-life-dkc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/callias-the-comic-poet/daily-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callias-the-comic-poet-daily-life-dkc-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callias-the-comic-poet-daily-life-dkc-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callias-the-comic-poet-daily-life-dkc-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callias-the-comic-poet-daily-life-dkc-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callias-the-comic-poet/daily-life.epub"
+      }
+    },
+    {
+      "eul_wid": "gta-aa",
+      "title": {
+        "english": "Fragments on Drunken Revelry",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μέθης"
+      },
+      "url_slug": "axionicus-the-comic-poet-drunken-revelry-gta-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/axionicus-the-comic-poet/drunken-revelry",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/axionicus-the-comic-poet-drunken-revelry-gta-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/axionicus-the-comic-poet-drunken-revelry-gta-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/axionicus-the-comic-poet-drunken-revelry-gta-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/axionicus-the-comic-poet-drunken-revelry-gta-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/axionicus-the-comic-poet/drunken-revelry.epub"
+      }
+    },
+    {
+      "eul_wid": "ivq-ac",
+      "title": {
+        "english": "Fragments on Servants and Masters",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δούλων καὶ Δεσποτῶν"
+      },
+      "url_slug": "alexis-the-comic-poet-servants-masters-ivq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexis-the-comic-poet/servants-masters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-the-comic-poet-servants-masters-ivq-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-the-comic-poet-servants-masters-ivq-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-the-comic-poet-servants-masters-ivq-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-the-comic-poet-servants-masters-ivq-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-the-comic-poet/servants-masters.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hegesippos-the-comic-poet/art-of-cooking",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesippos-the-comic-poet-art-of-cooking-jtw-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesippos-the-comic-poet-art-of-cooking-jtw-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesippos-the-comic-poet-art-of-cooking-jtw-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesippos-the-comic-poet-art-of-cooking-jtw-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesippos-the-comic-poet/art-of-cooking.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

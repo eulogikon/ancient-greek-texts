@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "jtc",
+  "auth_slug": "herillus-of-carthage",
+  "name": {
+    "english": "Herillus of Carthage",
+    "ancient_greek": "Ἥριλλος ὁ Καρχηδόνιος"
+  },
+  "seo_h1": "Herillus of Carthage and Stoic Ethical Fragments",
+  "seo": {
+    "browser_title": "The Herillus of Carthage on Eulogikon Greek Archive",
+    "meta_title": "Herillus of Carthage Ancient Greek Works and Fragments",
+    "meta_description": "Herillus of Carthage, Stoic philosopher and student of Zeno. Hellenistic philosophical fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ φιλοσοφική",
+      "english": "Philosophical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Stoic",
+      "href": "/affiliations/stoic"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Herillus of Carthage was a Stoic philosopher active in the 3rd century BCE. He was a student of Zeno of Citium, the founder of the Stoic school, and studied under him in Athens. Although ancient sources call him a Carthaginian, he was likely of Greek origin. Beyond this, the specific details of his life are not recorded.</p>\n<p class=\"research-text\">He is reported to have written several philosophical works, but none survive today. Later sources list titles attributed to him, such as On Law, On the Passions, and Against Chrysippus. These works are completely lost and are known only by their titles or through brief references by other authors.</p>\n<p class=\"research-text\">His historical importance stems from his departure from mainstream Stoic doctrine. While orthodox Stoics defined the goal of life as &quot;living in accordance with virtue,&quot; Herillus argued that knowledge itself was the ultimate end. According to modern scholars, this heterodox view led some ancient writers to see him as only partially aligned with Stoicism. His position sparked early internal debate within the Stoic school and was later criticized by figures like Chrysippus. He is therefore remembered as an example of the philosophical diversity that existed among the first generation of Stoics.</p>\n</div>",
+  "affiliation_label": "Stoic",
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "jtc-aa",
+      "title": {
+        "english": "Stoic Ethical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "herillus-of-carthage-ethical-fragments-jtc-aa",
+      "passages": 13,
+      "links": {
+        "html": "https://eulogikon.org/grc/herillus-of-carthage/ethical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herillus-of-carthage-ethical-fragments-jtc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herillus-of-carthage-ethical-fragments-jtc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herillus-of-carthage-ethical-fragments-jtc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herillus-of-carthage-ethical-fragments-jtc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herillus-of-carthage/ethical-fragments.epub"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "mlc",
+      "name": {
+        "english": "Apollodorus of Seleucia",
+        "ancient_greek": "Ἀπολλόδωρος ὁ Σελευκεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/apollodorus-of-seleucia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-seleucia-mlc.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-seleucia-mlc.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-seleucia-mlc.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-seleucia-mlc.en.json"
+      }
+    },
+    {
+      "eul_aid": "jzg",
+      "name": {
+        "english": "Apollophanes the Stoic",
+        "ancient_greek": "Ἀπολλοφάνης ὁ Στωικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/apollophanes-the-stoic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollophanes-the-stoic-jzg.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollophanes-the-stoic-jzg.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollophanes-the-stoic-jzg.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollophanes-the-stoic-jzg.en.json"
+      }
+    },
+    {
+      "eul_aid": "mnk",
+      "name": {
+        "english": "Archedemus of Tarsus",
+        "ancient_greek": "Ἀρχέδημος ὁ Ταρσεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/archedemus-of-tarsus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archedemus-of-tarsus-mnk.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archedemus-of-tarsus-mnk.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archedemus-of-tarsus-mnk.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archedemus-of-tarsus-mnk.en.json"
+      }
+    },
+    {
+      "eul_aid": "jyw",
+      "name": {
+        "english": "Ariston of Chios",
+        "ancient_greek": "Ἀρίστων ὁ Χῖος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/ariston-of-chios",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-chios-jyw.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-chios-jyw.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-chios-jyw.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-chios-jyw.en.json"
+      }
+    },
+    {
+      "eul_aid": "nac",
+      "name": {
+        "english": "Arius Didymus of Alexandria",
+        "ancient_greek": "Ἄρειος Δίδυμος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/arius-didymus-of-alexandria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arius-didymus-of-alexandria-nac.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arius-didymus-of-alexandria-nac.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arius-didymus-of-alexandria-nac.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arius-didymus-of-alexandria-nac.en.json"
+      }
+    },
+    {
+      "eul_aid": "pcs",
+      "name": {
+        "english": "Arrian of Nicomedia",
+        "ancient_greek": "Ἀρριανός ὁ Νικομηδεύς"
+      },
+      "work_count": 18,
+      "links": {
+        "html": "https://eulogikon.org/en/arrian-of-nicomedia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arrian-of-nicomedia-pcs.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arrian-of-nicomedia-pcs.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arrian-of-nicomedia-pcs.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arrian-of-nicomedia-pcs.en.json"
+      }
+    },
+    {
+      "eul_aid": "mty",
+      "name": {
+        "english": "Athenodorus of Tarsus Cordylion",
+        "ancient_greek": "Ἀθηνόδωρος Κορδυλίων"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/athenodorus-of-tarsus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenodorus-of-tarsus-mty.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenodorus-of-tarsus-mty.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenodorus-of-tarsus-mty.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenodorus-of-tarsus-mty.en.json"
+      }
+    },
+    {
+      "eul_aid": "omo",
+      "name": {
+        "english": "Chaeremon of Alexandria",
+        "ancient_greek": "Χαιρήμων ὁ Ἀλεξανδρεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/chaeremon-of-alexandria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chaeremon-of-alexandria-omo.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chaeremon-of-alexandria-omo.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chaeremon-of-alexandria-omo.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chaeremon-of-alexandria-omo.en.json"
+      }
+    },
+    {
+      "eul_aid": "kms",
+      "name": {
+        "english": "Chrysippus of Soli",
+        "ancient_greek": "Χρύσιππος ὁ Σολεύς"
+      },
+      "work_count": 6,
+      "links": {
+        "html": "https://eulogikon.org/en/chrysippus-of-soli",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-kms.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-kms.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-kms.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-kms.en.json"
+      }
+    },
+    {
+      "eul_aid": "ixe",
+      "name": {
+        "english": "Chrysippus of Soli II",
+        "ancient_greek": "Χρύσιππος ὁ Σολεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/chrysippus-of-soli-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-ii-ixe.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-ii-ixe.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-ii-ixe.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-ii-ixe.en.json"
+      }
+    },
+    {
+      "eul_aid": "jew",
+      "name": {
+        "english": "Cleanthes of Assos",
+        "ancient_greek": "Κλεάνθης ὁ Ἀσσεύς"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/cleanthes-of-assos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleanthes-of-assos-jew.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleanthes-of-assos-jew.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleanthes-of-assos-jew.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleanthes-of-assos-jew.en.json"
+      }
+    },
+    {
+      "eul_aid": "obu",
+      "name": {
+        "english": "Cornutus the Stoic Philosopher",
+        "ancient_greek": "Κορνοῦτος ὁ Στωϊκός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/cornutus-the-stoic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cornutus-the-stoic-obu.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cornutus-the-stoic-obu.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cornutus-the-stoic-obu.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cornutus-the-stoic-obu.en.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/herillus-of-carthage",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/herillus-of-carthage-jtc.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/herillus-of-carthage-jtc.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/herillus-of-carthage-jtc.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/herillus-of-carthage-jtc.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

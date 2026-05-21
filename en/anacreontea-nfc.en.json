@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "nfc",
+  "auth_slug": "anacreontea",
+  "name": {
+    "english": "Anacreontea",
+    "ancient_greek": "Ἀνακρεόντεια"
+  },
+  "seo_h1": "Wine, Love, and Time in the Anacreontea",
+  "seo": {
+    "browser_title": "Anacreontea and Anacreontea Poems on Eulogikon Greek Archive",
+    "meta_title": "Classical Anacreontea Ancient Greek Lyric Poetry Collection",
+    "meta_description": "The Anacreontea is a Hellenistic collection of lyric poems. This anthology contains sixty short works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Anacreontea is a collection of approximately 60 short lyric poems, not the work of a single author. These anonymous poems were composed by various writers over several centuries, primarily during the Hellenistic and early Roman Imperial periods, roughly from the 3rd century BCE to the 2nd century CE. They are imitations of the style of the much earlier Greek poet Anacreon, who lived in the 6th–5th centuries BCE. For a long time, the collection was mistakenly attributed to Anacreon himself.</p>\n<p class=\"research-text\">The poems were compiled into their surviving form at a later date, possibly during the Byzantine era, and are preserved in a single 10th-century manuscript. The poems are known for defining the &quot;Anacreontic&quot; style. Their main themes are the pleasures of wine, love, revelry, and the fleeting nature of life, all delivered in a light, elegant, and often playful tone.</p>\n<p class=\"research-text\">According to modern scholars, their greatest significance lies in their lasting influence. The collection’s distinctive metrical patterns became the model for all later poetry called &quot;Anacreontic.&quot; During the Renaissance and early modern period, these poems were widely translated and imitated across Europe, inspiring major literary figures and reviving the archetype of the joyful, wine-loving poet.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "nfc-aa",
+      "title": {
+        "english": "Anacreontea",
+        "ancient_greek": "Ἀνακρεόντεια"
+      },
+      "url_slug": "anacreontea-text-nfc-aa",
+      "passages": 420,
+      "links": {
+        "html": "https://eulogikon.org/grc/anacreontea/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreontea-text-nfc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreontea-text-nfc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreontea-text-nfc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreontea-text-nfc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreontea/text.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/anacreontea",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anacreontea-nfc.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anacreontea-nfc.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anacreontea-nfc.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anacreontea-nfc.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

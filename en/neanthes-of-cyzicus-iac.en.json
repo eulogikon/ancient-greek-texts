@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "iac",
+  "auth_slug": "neanthes-of-cyzicus",
+  "name": {
+    "english": "Neanthes of Cyzicus",
+    "ancient_greek": "Νεάνθης ὁ Κυζικηνός"
+  },
+  "seo_h1": "Neanthes of Cyzicus on Themistocles",
+  "seo": {
+    "browser_title": "Neanthes of Cyzicus on Eulogikon Greek Archive and Library",
+    "meta_title": "Neanthes of Cyzicus Ancient Greek Historical Works",
+    "meta_description": "Neanthes of Cyzicus was a Hellenistic historian of the 4th century BCE. Fragments of his works survive. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Neanthes of Cyzicus was a Greek historian of the early Hellenistic period, active in the late fourth and early third centuries BCE. A native of Cyzicus, he was a pupil of the philosopher Philiscus of Miletus and moved in intellectual circles that blended philosophy and rhetoric. His prolific output is preserved only in fragments.</p>\n<p class=\"research-text\">His major works included a history of Greece titled the <strong>Hellenica</strong>; a biographical collection called <strong>On Famous Men</strong>; a local history, the <strong>Cyzicene Annals</strong>; and treatises on mythological and regional topics such as <strong>Mythika</strong> and <strong>Priestesses of Argos</strong>. Neanthes is a significant fragmentary source for early Hellenistic historiography and biography.</p>\n<p class=\"research-text\">Cited by later authors like Athenaeus and Diogenes Laërtius, his works provided details on philosophers, poets, and local cults. Though the critic Dionysius of Halicarnassus questioned his reliability, his fragments remain important for reconstructing the intellectual and regional history of his era.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "iac-aa",
+      "title": {
+        "english": "Historical Fragments on Themistocles",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θεμιστοκλέους"
+      },
+      "url_slug": "neanthes-of-cyzicus-historical-fragments-themistocles-iac-aa",
+      "passages": 44,
+      "links": {
+        "html": "https://eulogikon.org/grc/neanthes-of-cyzicus/historical-fragments-themistocles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/neanthes-of-cyzicus-historical-fragments-themistocles-iac-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/neanthes-of-cyzicus-historical-fragments-themistocles-iac-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/neanthes-of-cyzicus-historical-fragments-themistocles-iac-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/neanthes-of-cyzicus-historical-fragments-themistocles-iac-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/neanthes-of-cyzicus/historical-fragments-themistocles.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/neanthes-of-cyzicus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/neanthes-of-cyzicus-iac.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/neanthes-of-cyzicus-iac.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/neanthes-of-cyzicus-iac.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/neanthes-of-cyzicus-iac.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

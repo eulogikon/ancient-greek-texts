@@ -1,0 +1,252 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "fim-ac",
+  "eul_aid": "fim",
+  "author_slug": "alcaeus-the-comic-poet",
+  "work_slug": "homeric-parody",
+  "url_slug": "alcaeus-the-comic-poet-homeric-parody-fim-ac",
+  "author": {
+    "english": "Alcaeus the Comic Poet",
+    "ancient_greek": "Ἀλκαῖος ὁ κωμικός"
+  },
+  "title": {
+    "english": "On Homeric Parody",
+    "ancient_greek": "Ἀπόσπασμα"
+  },
+  "seo": {
+    "browser_title": "On Homeric Parody by Alcaeus the Comic Poet on Eulogikon",
+    "meta_title": "Classical On Homeric Parody by Alcaeus in Ancient Greek",
+    "meta_description": "A comic parody of Homeric epic by Alcaeus. This fragment shows ancient Greek comedic criticism. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The work <strong>On Homeric Parody</strong> is attributed to Alcaeus, a comic poet of Athens&#x27;s Middle Comedy period. The text itself is not extant; knowledge of it derives solely from four fragmentary passages preserved by later grammarians and commentators, such as Athenaeus in his <strong>Deipnosophistae</strong>. These fragments rework Homeric epic language and scenarios for comic effect, a standard practice in Middle Comedy. The content involves the humorous imitation and subversion of Homeric style, characters, and situations, often treating mythological figures in a debased or anachronistic manner to provide indirect social commentary on contemporary Athenian society.</p>\n<p class=\"research-text\">The work survives only through indirect transmission. The four known fragments are quoted in the works of later ancient authors, primarily for their linguistic or parodic interest, and are collected in modern scholarly editions. There is no independent manuscript tradition. As a product of Middle Comedy, this work exemplifies the period&#x27;s shift toward generalized social satire and literary parody, bridging the politically engaged Old Comedy and the domestically focused New Comedy. Its preservation in scholarly sources indicates its later value as an example of Attic Greek and comic technique, though its fragmentary state limits any detailed assessment of its broader influence.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 9.1",
+      "text": "τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.2",
+      "text": "τις δὲ μεθ’ Ὅμηρον τὸ μὲν μῆλον δωρίσας εἰς μᾶλον τὴν δὲ ὄψιν εἰς εἶδος μεταλαβὼν καὶ μεταθεὶς τὰς λέξεις, Ἀλκαῖος δὲ ἦν ἐκεῖνος ὁ κωμι‐ κός, εἰδομαλίδην ἔφη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.3",
+      "text": "σκωπτικῶς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.4",
+      "text": "τινα διὰ τὸ καλλωπί‐[ln_5]ζεσθαι τὰ μῆλα τῆς ὄψεως, ἐρευθόμενον δηλαδὴ κομικώ‐ τερον.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "fim-ab",
+      "title": {
+        "english": "Comic Fragments on Daily Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ Κωμικά"
+      },
+      "url_slug": "alcaeus-the-comic-poet-daily-life-ab-fim-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/alcaeus-the-comic-poet/daily-life-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-daily-life-ab-fim-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-daily-life-ab-fim-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-daily-life-ab-fim-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-daily-life-ab-fim-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet/daily-life-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "fim-aa",
+      "title": {
+        "english": "Fragments on Daily Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ"
+      },
+      "url_slug": "alcaeus-the-comic-poet-daily-life-aa-fim-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/alcaeus-the-comic-poet/daily-life-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-daily-life-aa-fim-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-daily-life-aa-fim-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-daily-life-aa-fim-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-daily-life-aa-fim-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet/daily-life-aa.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "efg-ac",
+      "title": {
+        "english": "Fragments on Delphi and Agriculture",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δελφῶν καὶ Γεωργίας"
+      },
+      "url_slug": "theopompus-the-comic-poet-delphi-agriculture-efg-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/theopompus-the-comic-poet/delphi-agriculture",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet-delphi-agriculture-efg-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet-delphi-agriculture-efg-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet-delphi-agriculture-efg-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet-delphi-agriculture-efg-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet/delphi-agriculture.epub"
+      }
+    },
+    {
+      "eul_wid": "lli-ab",
+      "title": {
+        "english": "Fragments on Fate",
+        "ancient_greek": "Ἀποσπάσματα περὶ Εἱμαρμένης"
+      },
+      "url_slug": "xenarchus-the-comic-poet-fate-fragments-ab-lli-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenarchus-the-comic-poet/fate-fragments-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet-fate-fragments-ab-lli-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet-fate-fragments-ab-lli-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet-fate-fragments-ab-lli-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet-fate-fragments-ab-lli-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet/fate-fragments-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "hsu-aa",
+      "title": {
+        "english": "Fragments on Food and Feasting",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σίτου καὶ Εὐωχίας"
+      },
+      "url_slug": "nicostratus-of-aristophanes-food-feasting-hsu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicostratus-of-aristophanes/food-feasting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicostratus-of-aristophanes-food-feasting-hsu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicostratus-of-aristophanes-food-feasting-hsu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicostratus-of-aristophanes-food-feasting-hsu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicostratus-of-aristophanes-food-feasting-hsu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicostratus-of-aristophanes/food-feasting.epub"
+      }
+    },
+    {
+      "eul_wid": "dxy-ab",
+      "title": {
+        "english": "Fragments on Gluttony and Slaves",
+        "ancient_greek": "Ἀποσπάσματα περὶ Λαιμαργίας καὶ Δούλων"
+      },
+      "url_slug": "pherecrates-the-comic-poet-gluttony-slaves-dxy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/pherecrates-the-comic-poet/gluttony-slaves",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-gluttony-slaves-dxy-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-gluttony-slaves-dxy-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-gluttony-slaves-dxy-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-gluttony-slaves-dxy-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet/gluttony-slaves.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-bc",
+      "title": {
+        "english": "Fragments on Household and Fortune",
+        "ancient_greek": "Ἀποσπάσματα περὶ Οἴκου καὶ Τύχης"
+      },
+      "url_slug": "menander-of-athens-household-fortune-hps-bc",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/household-fortune",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-household-fortune-hps-bc.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-household-fortune-hps-bc.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-household-fortune-hps-bc.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-household-fortune-hps-bc.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/household-fortune.epub"
+      }
+    },
+    {
+      "eul_wid": "gzo-ab",
+      "title": {
+        "english": "Fragments on Lydian Maidens",
+        "ancient_greek": "Ἀποσπάσματα περὶ Λυδῶν Κορῶν"
+      },
+      "url_slug": "autocrates-the-comic-poet-lydian-maidens-ab-gzo-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/autocrates-the-comic-poet/lydian-maidens-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet-lydian-maidens-ab-gzo-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet-lydian-maidens-ab-gzo-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet-lydian-maidens-ab-gzo-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet-lydian-maidens-ab-gzo-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet/lydian-maidens-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "lpe-aa",
+      "title": {
+        "english": "On Human Nature and Solon's Law",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philemon-syracusius-human-nature-solon-law-lpe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philemon-syracusius/human-nature-solon-law",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-human-nature-solon-law-lpe-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-human-nature-solon-law-lpe-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-human-nature-solon-law-lpe-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-human-nature-solon-law-lpe-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/human-nature-solon-law.epub"
+      }
+    },
+    {
+      "eul_wid": "jdi-ab",
+      "title": {
+        "english": "On Parasitic Dining",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "diodorus-of-sinope-parasitic-dining-jdi-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/diodorus-of-sinope/parasitic-dining",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope-parasitic-dining-jdi-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope-parasitic-dining-jdi-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope-parasitic-dining-jdi-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope-parasitic-dining-jdi-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope/parasitic-dining.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/alcaeus-the-comic-poet/homeric-parody",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-homeric-parody-fim-ac.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-homeric-parody-fim-ac.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-homeric-parody-fim-ac.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-homeric-parody-fim-ac.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet/homeric-parody.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

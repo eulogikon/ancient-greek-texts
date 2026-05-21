@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "qky",
+  "auth_slug": "naumachius-the-didactic-poet",
+  "name": {
+    "english": "Naumachius the Didactic Poet",
+    "ancient_greek": "Ναυμάχιος ὁ διδακτικός"
+  },
+  "seo_h1": "Naumachius the Didactic Poet on Marriage",
+  "seo": {
+    "browser_title": "Naumachius the Didactic Poet on Eulogikon Greek Archive",
+    "meta_title": "Naumachius Ancient Greek Didactic Poetry and Verse",
+    "meta_description": "Naumachius, a Roman-era didactic poet writing in Greek. Surviving works include his didactic verse. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Naumachius is an obscure Greek poet of the Roman Imperial period, conventionally dated to the 1st or 2nd century CE. No biographical details concerning his origin or life are recorded.</p>\n<p class=\"research-text\">His sole known work is the didactic epic <strong>Halieutica</strong> (On Fishing). Only a single seven-line fragment survives, preserved in the <strong>Anthologia Palatina</strong>, which describes the habits of the mullet.</p>\n<p class=\"research-text\">Naumachius represents the minor tradition of Greek technical didactic poetry during the Roman era. His fragment places him within a genre exemplified by Hesiod and later by Oppian. While his work was known to compilers of the Greek Anthology, he exerted no notable literary influence. He is cited in modern scholarship primarily as an example of continued didactic production in this period.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "qky-aa",
+      "title": {
+        "english": "On Marriage and Wifely Duties",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "naumachius-the-didactic-poet-marriage-duties-qky-aa",
+      "passages": 6,
+      "links": {
+        "html": "https://eulogikon.org/grc/naumachius-the-didactic-poet/marriage-duties",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/naumachius-the-didactic-poet-marriage-duties-qky-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/naumachius-the-didactic-poet-marriage-duties-qky-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/naumachius-the-didactic-poet-marriage-duties-qky-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/naumachius-the-didactic-poet-marriage-duties-qky-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/naumachius-the-didactic-poet/marriage-duties.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/naumachius-the-didactic-poet",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/naumachius-the-didactic-poet-qky.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/naumachius-the-didactic-poet-qky.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/naumachius-the-didactic-poet-qky.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/naumachius-the-didactic-poet-qky.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

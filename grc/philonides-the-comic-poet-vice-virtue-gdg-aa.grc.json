@@ -1,0 +1,362 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "gdg-aa",
+  "eul_aid": "gdg",
+  "author_slug": "philonides-the-comic-poet",
+  "work_slug": "vice-virtue",
+  "url_slug": "philonides-the-comic-poet-vice-virtue-gdg-aa",
+  "author": {
+    "english": "Philonides the Comic Poet",
+    "ancient_greek": "Φιλωνίδης ὁ Λαοδικεύς"
+  },
+  "title": {
+    "english": "Comic Fragments on Vice and Virtue",
+    "ancient_greek": "Ἀποσπάσματα περὶ Κακίας καὶ Ἀρετῆς"
+  },
+  "seo": {
+    "browser_title": "Fragments by Philonides the Comic Poet on Eulogikon",
+    "meta_title": "Fragments by Philonides the Comic Poet in Ancient Greek",
+    "meta_description": "Surviving comic fragments by Philonides exploring themes of vice and virtue in ancient comedy. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Comic Fragments on Vice and Virtue is a modern scholarly assemblage of twenty-two passages attributed to the Athenian comic poet Philonides, a fifth-century BCE contemporary of Aristophanes. These excerpts, drawn from one or more of his lost plays, survive solely through their inclusion in the fifth-century CE Anthology compiled by Stobaeus, who selected and organized them for their thematic relevance to ethical concepts. The fragments engage with the central moral preoccupations of Old Comedy, offering satirical critiques of vice, such as cowardice and greed, while also presenting or parodying ideals of virtue and good citizenship. This social commentary is typically delivered through the genre&#x27;s characteristic satire of contemporary figures and intellectual trends. The text&#x27;s transmission depends entirely on the medieval manuscript tradition of Stobaeus&#x27;s anthology, which preserved these lines for their value as moral exempla. Modern standard editions, such as the <strong>Poetae Comici Graeci</strong>, catalog the fragments. Their significance lies in expanding the limited corpus of Old Comedy beyond the works of its major surviving authors, providing crucial evidence for the genre&#x27;s philosophical engagement with ethics and serving as comparative material for reconstructing the thematic scope of Philonides and his contemporaries.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "ἐγὼ δ’ ἀπόσιτος ὢν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τοιαῦτ’ οὐκ ἀνέχομαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2-3.1",
+      "text": "ὑποδέχεσθαι καὶ βατίσι καὶ τηγάνοις. ὁσφρομένην τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2-3.2",
+      "text": "τηγάνων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4",
+      "text": "ὥσπερ οἱ δίμυξοι τῶν λύχνων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5",
+      "text": "παναγεῖς γενεάν, πορνοτελῶναι, Μεγαρεῖς δεινοί, πατραλοῖαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6",
+      "text": "Θηραμένης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7",
+      "text": "ὅρκους δὲ μοιχῶν εἰς τέφραν ἐγὼ γράφω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8",
+      "text": "κατάκειμαι δ’, ὡς ὁρᾶτε, δεκάπαλαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9",
+      "text": "τὰ καταχύσματ’ αὐτοῖσιν ὄξος οὐκ ἔχει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10",
+      "text": "ὢ πολυτρίχου πώγωνος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11",
+      "text": "ἐπιχάρτην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12",
+      "text": "ὀξίνην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 13",
+      "text": "φιλομόχθηρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14",
+      "text": "χερνίμματα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15",
+      "text": "νυνὶ δὲ Κρόνου καὶ Τιθωνοῦ παππεπίπαππος νενόμισται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16.1",
+      "text": "οὐκ ἔστιν οὐδεὶς δειλὸς ὁ δεδοικὼς νόμον· πρὸς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16.2",
+      "text": "τοὺς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16.3",
+      "text": "πολεμίους δ’ ἐστὶν ἀνδρίας κρίσις. ὑπὸ τοῦ δικαίου δ’ ἐστὶν ἡττᾶσθαι καλόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17.1",
+      "text": "κρεῖττον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17.2",
+      "text": "σιωπᾶν ἐστιν ἢ λαλεῖν μάτην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18",
+      "text": "ἅπαντ’ ἐρίζεις καὶ συνίης οὐδὲ ἕν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "gdg-ab",
+      "title": {
+        "english": "Fragments on Morals",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἠθικῶν"
+      },
+      "url_slug": "philonides-the-comic-poet-morals-gdg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/philonides-the-comic-poet/morals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philonides-the-comic-poet-morals-gdg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philonides-the-comic-poet-morals-gdg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philonides-the-comic-poet-morals-gdg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philonides-the-comic-poet-morals-gdg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philonides-the-comic-poet/morals.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "jqk-ab",
+      "title": {
+        "english": "Comic Chef's Art",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "nicomachus-the-comic-poet-comic-chefs-art-jqk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicomachus-the-comic-poet/comic-chefs-art",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-the-comic-poet-comic-chefs-art-jqk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-the-comic-poet-comic-chefs-art-jqk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-the-comic-poet-comic-chefs-art-jqk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-the-comic-poet-comic-chefs-art-jqk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-the-comic-poet/comic-chefs-art.epub"
+      }
+    },
+    {
+      "eul_wid": "dwa-ab",
+      "title": {
+        "english": "Comic Fragments on Socrates",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σωκράτους Κωμικά"
+      },
+      "url_slug": "ameipsias-the-comic-poet-comic-fragments-dwa-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/ameipsias-the-comic-poet/comic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ameipsias-the-comic-poet-comic-fragments-dwa-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ameipsias-the-comic-poet-comic-fragments-dwa-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ameipsias-the-comic-poet-comic-fragments-dwa-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ameipsias-the-comic-poet-comic-fragments-dwa-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ameipsias-the-comic-poet/comic-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "hvw-ab",
+      "title": {
+        "english": "Cook's Art and Death",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "anaxippus-the-comic-poet-cooks-art-and-death-hvw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/anaxippus-the-comic-poet/cooks-art-and-death",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxippus-the-comic-poet-cooks-art-and-death-hvw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxippus-the-comic-poet-cooks-art-and-death-hvw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxippus-the-comic-poet-cooks-art-and-death-hvw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxippus-the-comic-poet-cooks-art-and-death-hvw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxippus-the-comic-poet/cooks-art-and-death.epub"
+      }
+    },
+    {
+      "eul_wid": "lpe-ac",
+      "title": {
+        "english": "Fragments from a Comedy",
+        "ancient_greek": "Ἀποσπάσματα Κωμῳδίας"
+      },
+      "url_slug": "philemon-syracusius-comedy-fragments-lpe-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/philemon-syracusius/comedy-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-comedy-fragments-lpe-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-comedy-fragments-lpe-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-comedy-fragments-lpe-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-comedy-fragments-lpe-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/comedy-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "ibq-aa",
+      "title": {
+        "english": "Fragments on Cynic Law",
+        "ancient_greek": "Ἀπόσπασμα περὶ Κυνικοῦ Νόμου"
+      },
+      "url_slug": "menippus-of-gadara-cynic-law-ibq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/menippus-of-gadara/cynic-law",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menippus-of-gadara-cynic-law-ibq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menippus-of-gadara-cynic-law-ibq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menippus-of-gadara-cynic-law-ibq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menippus-of-gadara-cynic-law-ibq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menippus-of-gadara/cynic-law.epub"
+      }
+    },
+    {
+      "eul_wid": "atg-ac",
+      "title": {
+        "english": "On the Evils of Marriage",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "susarion-of-megara-evils-marriage-ac-atg-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/susarion-of-megara/evils-marriage-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-evils-marriage-ac-atg-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-evils-marriage-ac-atg-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-evils-marriage-ac-atg-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-evils-marriage-ac-atg-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara/evils-marriage-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "fcs-ab",
+      "title": {
+        "english": "Sympotic Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "nicochares-the-comic-poet-sympotic-fragments-ab-fcs-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicochares-the-comic-poet/sympotic-fragments-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet-sympotic-fragments-ab-fcs-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet-sympotic-fragments-ab-fcs-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet-sympotic-fragments-ab-fcs-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet-sympotic-fragments-ab-fcs-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet/sympotic-fragments-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "bhm-ae",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "epicharmus-syracuse-testimonies-bhm-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicharmus-syracuse/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-testimonies-bhm-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-testimonies-bhm-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-testimonies-bhm-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-testimonies-bhm-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/testimonies.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/philonides-the-comic-poet/vice-virtue",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philonides-the-comic-poet-vice-virtue-gdg-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philonides-the-comic-poet-vice-virtue-gdg-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philonides-the-comic-poet-vice-virtue-gdg-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philonides-the-comic-poet-vice-virtue-gdg-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philonides-the-comic-poet/vice-virtue.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

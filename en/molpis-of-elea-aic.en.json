@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "aic",
+  "auth_slug": "molpis-of-elea",
+  "name": {
+    "english": "Molpis of Elea",
+    "ancient_greek": "Μόλπις ὁ Ἐλεάτης"
+  },
+  "seo_h1": "Molpis of Elea on Spartan Customs and Cuisine",
+  "seo": {
+    "browser_title": "Molpis of Elea Ancient Historian on Eulogikon Greek Archive",
+    "meta_title": "Classical Molpis of Elea Ancient Greek Historical Works",
+    "meta_description": "Molpis of Elea, a 6th century BCE Ionic Greek historian. His surviving historical works are fragmentary. Free to read and download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Molpis of Elea was a 6th-century BCE historian from the Greek colony of Elea in southern Italy. His dating is based on the colony&#x27;s foundation around 540/535 BCE. Beyond his name, origin, and classification as a writer of history, no biographical details survive.</p>\n<p class=\"research-text\">His sole known work is the lost Founding of Elea, cited only once by Athenaeus. That citation preserves Molpis’s record that the city’s founders, the Phocaeans, initially called it &quot;Hyele&quot;. No other fragments exist.</p>\n<p class=\"research-text\">Molpis was a local historian, or kitsiologos, chronicling his city&#x27;s origins. His significance lies in being one of the earliest attested historians of Magna Graecia. His work, however, appears to have had minimal circulation or influence, and he remains a minor figure in the fragmentary record of pre-Herodotean historiography.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "aic-aa",
+      "title": {
+        "english": "On Spartan Customs and Cuisine",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "molpis-of-elea-sparta-cuisine-aic-aa",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/molpis-of-elea/sparta-cuisine",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/molpis-of-elea-sparta-cuisine-aic-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/molpis-of-elea-sparta-cuisine-aic-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/molpis-of-elea-sparta-cuisine-aic-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/molpis-of-elea-sparta-cuisine-aic-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/molpis-of-elea/sparta-cuisine.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/molpis-of-elea",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/molpis-of-elea-aic.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/molpis-of-elea-aic.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/molpis-of-elea-aic.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/molpis-of-elea-aic.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

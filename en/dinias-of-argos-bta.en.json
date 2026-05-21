@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "bta",
+  "auth_slug": "dinias-of-argos",
+  "name": {
+    "english": "Dinias of Argos",
+    "ancient_greek": "Δινίας ὁ Ἀργεῖος"
+  },
+  "seo_h1": "Dinias of Argos on the Argolica and the Orestes Myth",
+  "seo": {
+    "browser_title": "Dinias of Argos Ancient Historian on Eulogikon Greek Archive",
+    "meta_title": "The Dinias of Argos Ancient Greek Historical Works",
+    "meta_description": "Dinias of Argos, a 4th century BCE historian writing in Doric Greek. His surviving works are fragmentary. Free to read and download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric (frg)",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Dinias of Argos was a Greek historian from Argos, active in the 4th century BCE. His chronological placement is inferred from the content of his work and his citation by later authors. No details of his personal life survive.</p>\n<p class=\"research-text\">His major work was the Argolica, a history of Argos now preserved only in fragments. A second work, the Persica, is also attributed to him in some testimonia, though its existence is less certain. Both were prose works transmitted fragmentarily in the Doric dialect.</p>\n<p class=\"research-text\">Dinias is significant as a source for later historians and mythographers. His Argolica was used by Alexander Polyhistor and is cited by Pausanias and Athenaeus, thereby preserving local Argive traditions, myths, and historical details not found in pan-Hellenic histories. His work represents the important genre of local history.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "bta-aa",
+      "title": {
+        "english": "Argive Historical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dinias-of-argos-historical-fragments-bta-aa",
+      "passages": 10,
+      "links": {
+        "html": "https://eulogikon.org/grc/dinias-of-argos/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos-historical-fragments-bta-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos-historical-fragments-bta-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos-historical-fragments-bta-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos-historical-fragments-bta-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos/historical-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "bta-ab",
+      "title": {
+        "english": "Fragments on the Orestes Myth",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Μύθου Ὀρέστου"
+      },
+      "url_slug": "dinias-of-argos-orestes-fragments-bta-ab",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/dinias-of-argos/orestes-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos-orestes-fragments-bta-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos-orestes-fragments-bta-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos-orestes-fragments-bta-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos-orestes-fragments-bta-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos/orestes-fragments.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/dinias-of-argos",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dinias-of-argos-bta.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dinias-of-argos-bta.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dinias-of-argos-bta.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dinias-of-argos-bta.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

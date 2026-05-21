@@ -1,0 +1,413 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "sys",
+  "auth_slug": "synesius-of-cyrene",
+  "name": {
+    "english": "Synesius of Cyrene",
+    "ancient_greek": "Συνέσιος ὁ Κυρηναῖος"
+  },
+  "seo_h1": "Synesius of Cyrene on Providence, Dreams, and the Kingdom",
+  "seo": {
+    "browser_title": "Synesius of Cyrene on Eulogikon Greek Archive and Library",
+    "meta_title": "Synesius of Cyrene Ancient Greek Works and Treatises",
+    "meta_description": "Synesius of Cyrene was a Neoplatonist philosopher and bishop. Works include treatises and letters. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Neoplatonist",
+      "href": "/affiliations/neoplatonist"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Synesius of Cyrene was a philosopher, writer, and bishop who lived during the late 4th and early 5th centuries CE. Born into a wealthy pagan family in Cyrene, in modern-day Libya, he received an elite education in Alexandria under the renowned Neoplatonist teacher Hypatia, whom he deeply admired.</p>\n<p class=\"research-text\">Despite his philosophical background, Synesius became the Bishop of Ptolemais around 410 CE. According to modern scholars, his acceptance of the role was notably conditional; he requested to maintain his marriage and expressed reservations about certain Christian doctrines, such as the literal resurrection of the body. His life exemplifies the complex blend of classical pagan philosophy and emerging Christian identity common among educated elites of his time.</p>\n<p class=\"research-text\">His surviving works, written in refined Greek, cover a wide range of subjects. These include the political oration On Kingship, addressed to Emperor Arcadius; philosophical treatises like On Dreams and On Providence; and literary pieces such as In Praise of Baldness, a playful rhetorical exercise. He also wrote Hymns that blend Neoplatonic and Christian themes, and a collection of 156 Letters that provide a valuable historical record of his era, his thoughts, and his relationship with Hypatia.</p>\n<p class=\"research-text\">Synesius is significant as a case study in the intellectual transition from the ancient pagan world to early Christian Byzantium. His writings offer a unique window into the mind of a late antique figure who navigated dual roles as a Neoplatonist philosopher and a Christian bishop, making his work an important source for understanding the political and religious culture of the time.</p>\n</div>",
+  "affiliation_label": "Neoplatonist",
+  "works_count": 10,
+  "works": [
+    {
+      "eul_wid": "sys-ae",
+      "title": {
+        "english": "Catastases",
+        "ancient_greek": "Καταστάσεις"
+      },
+      "url_slug": "synesius-of-cyrene-catastases-sys-ae",
+      "passages": 10,
+      "links": {
+        "html": "https://eulogikon.org/grc/synesius-of-cyrene/catastases",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-catastases-sys-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-catastases-sys-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-catastases-sys-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-catastases-sys-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene/catastases.epub"
+      }
+    },
+    {
+      "eul_wid": "sys-aj",
+      "title": {
+        "english": "Dion",
+        "ancient_greek": "Δίων"
+      },
+      "url_slug": "synesius-of-cyrene-dion-sys-aj",
+      "passages": 25,
+      "links": {
+        "html": "https://eulogikon.org/grc/synesius-of-cyrene/dion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-dion-sys-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-dion-sys-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-dion-sys-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-dion-sys-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene/dion.epub"
+      }
+    },
+    {
+      "eul_wid": "sys-ab",
+      "title": {
+        "english": "Egyptians or-Providence",
+        "ancient_greek": "Αἰγύπτιοι ἢ Περὶ Προνοίας"
+      },
+      "url_slug": "synesius-of-cyrene-egyptians-providence-sys-ab",
+      "passages": 40,
+      "links": {
+        "html": "https://eulogikon.org/grc/synesius-of-cyrene/egyptians-providence",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-egyptians-providence-sys-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-egyptians-providence-sys-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-egyptians-providence-sys-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-egyptians-providence-sys-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene/egyptians-providence.epub"
+      }
+    },
+    {
+      "eul_wid": "sys-ag",
+      "title": {
+        "english": "Homilies",
+        "ancient_greek": "Ὁμιλίαι"
+      },
+      "url_slug": "synesius-of-cyrene-homilies-sys-ag",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/synesius-of-cyrene/homilies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-homilies-sys-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-homilies-sys-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-homilies-sys-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-homilies-sys-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene/homilies.epub"
+      }
+    },
+    {
+      "eul_wid": "sys-ai",
+      "title": {
+        "english": "Hymns",
+        "ancient_greek": "Ὕμνοι"
+      },
+      "url_slug": "synesius-of-cyrene-hymns-sys-ai",
+      "passages": 42,
+      "links": {
+        "html": "https://eulogikon.org/grc/synesius-of-cyrene/hymns",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-hymns-sys-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-hymns-sys-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-hymns-sys-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-hymns-sys-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene/hymns.epub"
+      }
+    },
+    {
+      "eul_wid": "sys-ah",
+      "title": {
+        "english": "Letters to Nicander",
+        "ancient_greek": "Ἐπιστολαὶ πρὸς Νίκανδρον"
+      },
+      "url_slug": "synesius-of-cyrene-letters-nicander-sys-ah",
+      "passages": 208,
+      "links": {
+        "html": "https://eulogikon.org/grc/synesius-of-cyrene/letters-nicander",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-letters-nicander-sys-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-letters-nicander-sys-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-letters-nicander-sys-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-letters-nicander-sys-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene/letters-nicander.epub"
+      }
+    },
+    {
+      "eul_wid": "sys-af",
+      "title": {
+        "english": "On Dreams",
+        "ancient_greek": "Περὶ Ἐνυπνίων"
+      },
+      "url_slug": "synesius-of-cyrene-on-dreams-sys-af",
+      "passages": 28,
+      "links": {
+        "html": "https://eulogikon.org/grc/synesius-of-cyrene/on-dreams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-on-dreams-sys-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-on-dreams-sys-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-on-dreams-sys-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-on-dreams-sys-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene/on-dreams.epub"
+      }
+    },
+    {
+      "eul_wid": "sys-ac",
+      "title": {
+        "english": "Oratithe Kingdom",
+        "ancient_greek": "Λόγος περὶ Βασιλείας"
+      },
+      "url_slug": "synesius-of-cyrene-kingdom-sys-ac",
+      "passages": 38,
+      "links": {
+        "html": "https://eulogikon.org/grc/synesius-of-cyrene/kingdom",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-kingdom-sys-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-kingdom-sys-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-kingdom-sys-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-kingdom-sys-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene/kingdom.epub"
+      }
+    },
+    {
+      "eul_wid": "sys-ad",
+      "title": {
+        "english": "Praise of Baldness",
+        "ancient_greek": "Ἐγκώμιον τῆς Φαλάκρας"
+      },
+      "url_slug": "synesius-of-cyrene-praise-baldness-sys-ad",
+      "passages": 30,
+      "links": {
+        "html": "https://eulogikon.org/grc/synesius-of-cyrene/praise-baldness",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-praise-baldness-sys-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-praise-baldness-sys-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-praise-baldness-sys-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-praise-baldness-sys-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene/praise-baldness.epub"
+      }
+    },
+    {
+      "eul_wid": "sys-aa",
+      "title": {
+        "english": "To Paeonius-the Gift of the Astrolabe",
+        "ancient_greek": "Πρὸς Παίωνιον περὶ Δώρου τοῦ Ἀστρολάβου"
+      },
+      "url_slug": "synesius-of-cyrene-gift-astrolabe-sys-aa",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/synesius-of-cyrene/gift-astrolabe",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-gift-astrolabe-sys-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-gift-astrolabe-sys-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-gift-astrolabe-sys-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-gift-astrolabe-sys-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene/gift-astrolabe.epub"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "rrq",
+      "name": {
+        "english": "Amelius Letters",
+        "ancient_greek": "Ἀμελίου Ἐπιστολή"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/amelius-letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amelius-letters-rrq.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amelius-letters-rrq.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amelius-letters-rrq.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amelius-letters-rrq.en.json"
+      }
+    },
+    {
+      "eul_aid": "uqo",
+      "name": {
+        "english": "Ammonius of Alexandria Phil",
+        "ancient_greek": "Ἀμμώνιος ὁ Ἀλεξανδρεύς"
+      },
+      "work_count": 5,
+      "links": {
+        "html": "https://eulogikon.org/en/ammonius-of-alexandria-phil",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ammonius-of-alexandria-phil-uqo.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ammonius-of-alexandria-phil-uqo.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ammonius-of-alexandria-phil-uqo.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ammonius-of-alexandria-phil-uqo.en.json"
+      }
+    },
+    {
+      "eul_aid": "uyg",
+      "name": {
+        "english": "Damascius of Damascus",
+        "ancient_greek": "Δαμάσκιος ὁ Δαμασκηνός"
+      },
+      "work_count": 7,
+      "links": {
+        "html": "https://eulogikon.org/en/damascius-of-damascus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damascius-of-damascus-uyg.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damascius-of-damascus-uyg.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damascius-of-damascus-uyg.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damascius-of-damascus-uyg.en.json"
+      }
+    },
+    {
+      "eul_aid": "vcm",
+      "name": {
+        "english": "David the Invincible",
+        "ancient_greek": "Δαβίδ ὁ Ἀνίκητος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/david-the-invincible",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/david-the-invincible-vcm.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/david-the-invincible-vcm.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/david-the-invincible-vcm.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/david-the-invincible-vcm.en.json"
+      }
+    },
+    {
+      "eul_aid": "sfw",
+      "name": {
+        "english": "Dexippus the Neoplatonist",
+        "ancient_greek": "Δέξιππος ὁ Νεοπλατωνικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/dexippus-the-neoplatonist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dexippus-the-neoplatonist-sfw.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dexippus-the-neoplatonist-sfw.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dexippus-the-neoplatonist-sfw.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dexippus-the-neoplatonist-sfw.en.json"
+      }
+    },
+    {
+      "eul_aid": "vgs",
+      "name": {
+        "english": "Elias the Neoplatonist",
+        "ancient_greek": "Ἠλίας ὁ Νεοπλατωνικός"
+      },
+      "work_count": 3,
+      "links": {
+        "html": "https://eulogikon.org/en/elias-the-neoplatonist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/elias-the-neoplatonist-vgs.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/elias-the-neoplatonist-vgs.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/elias-the-neoplatonist-vgs.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/elias-the-neoplatonist-vgs.en.json"
+      }
+    },
+    {
+      "eul_aid": "sio",
+      "name": {
+        "english": "Eusebius of Myndus",
+        "ancient_greek": "Εὐσέβιος ὁ Μύνδιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/eusebius-of-myndus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-myndus-sio.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-myndus-sio.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-myndus-sio.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-myndus-sio.en.json"
+      }
+    },
+    {
+      "eul_aid": "tbu",
+      "name": {
+        "english": "Hierocles of Alexandria",
+        "ancient_greek": "Ἱεροκλῆς ὁ Ἀλεξανδρεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/hierocles-of-alexandria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hierocles-of-alexandria-tbu.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hierocles-of-alexandria-tbu.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hierocles-of-alexandria-tbu.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hierocles-of-alexandria-tbu.en.json"
+      }
+    },
+    {
+      "eul_aid": "chq",
+      "name": {
+        "english": "Iamblichus Anonymous",
+        "ancient_greek": "Ἰάμβλιχος ὁ Ἀνώνυμος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/iamblichus-anon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-anon-chq.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-anon-chq.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-anon-chq.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-anon-chq.en.json"
+      }
+    },
+    {
+      "eul_aid": "udw",
+      "name": {
+        "english": "Iamblichus of Chalcis",
+        "ancient_greek": "Ἰάμβλιχος ὁ Χαλκιδεύς"
+      },
+      "work_count": 6,
+      "links": {
+        "html": "https://eulogikon.org/en/iamblichus-of-chalcis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-udw.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-udw.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-udw.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-udw.en.json"
+      }
+    },
+    {
+      "eul_aid": "rvw",
+      "name": {
+        "english": "Iamblichus of Chalcis II",
+        "ancient_greek": "Ἰάμβλιχος ὁ Χαλκιδεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/iamblichus-of-chalcis-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-ii-rvw.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-ii-rvw.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-ii-rvw.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-ii-rvw.en.json"
+      }
+    },
+    {
+      "eul_aid": "sno",
+      "name": {
+        "english": "Julian the Apostate",
+        "ancient_greek": "Ἰουλιανὸς ὁ Ἀποστάτης"
+      },
+      "work_count": 20,
+      "links": {
+        "html": "https://eulogikon.org/en/julian-the-apostate",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julian-the-apostate-sno.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julian-the-apostate-sno.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julian-the-apostate-sno.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julian-the-apostate-sno.en.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/synesius-of-cyrene",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/synesius-of-cyrene-sys.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/synesius-of-cyrene-sys.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/synesius-of-cyrene-sys.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/synesius-of-cyrene-sys.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

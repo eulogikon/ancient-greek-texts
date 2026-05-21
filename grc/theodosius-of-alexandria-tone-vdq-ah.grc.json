@@ -1,0 +1,332 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "vdq-ah",
+  "eul_aid": "vdq",
+  "author_slug": "theodosius-of-alexandria",
+  "work_slug": "tone",
+  "url_slug": "theodosius-of-alexandria-tone-vdq-ah",
+  "author": {
+    "english": "Theodosius of Alexandria ",
+    "ancient_greek": "Θεοδόσιος ὁ Ἀλεξανδρεύς"
+  },
+  "title": {
+    "english": "On Tone",
+    "ancient_greek": "Περὶ τόνου"
+  },
+  "seo": {
+    "browser_title": "Ancient On Tone by Theodosius of Alexandria on Eulogikon",
+    "meta_title": "On Tone by Theodosius of Alexandria in Ancient Greek",
+    "meta_description": "Theodosius of Alexandria systematically explains the principles governing Greek word accent and tone in this Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On Tone</strong> is a grammatical treatise by the 4th-century CE Alexandrian grammarian Theodosius. A specialized work focusing on the rules of Greek accentuation, it is distinct from his more comprehensive and influential textbook, the <strong>Canons</strong>, which systematically detailed Greek inflection. The treatise exemplifies the methodical, pedagogical approach characteristic of late antique grammatical scholarship, providing specific rules and examples for accent placement. Extant through the Byzantine manuscript tradition, the work was preserved alongside other grammatical texts. While the specific manuscript history of <strong>On Tone</strong> is less documented, Theodosius&#x27;s grammatical works collectively were copied and studied for centuries. His writings, particularly the <strong>Canons</strong>, became standard educational texts in the Byzantine world. Within this framework, <strong>On Tone</strong> contributed to the detailed study of Greek prosody, supporting the preservation and systematic teaching of the language&#x27;s accentual system.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "198 (1t)",
+      "text": "THEODOSII ALEXANDRINI GRAMMATICI ΠΕΡΙ ΤΟΝΟΥ. Ex codice Theodosii Parisino 2554. fol. 82 r. Πᾶν ὄνομα μονοσύλλαβον οὐδέτερον μακροκατάληκτον περισπᾶται, εἴτε ἀπαθὲς εἴη εἴτε πεπονθός· πρῶτον μὲν ὅλα τὰ μονοσύλλαβα ὀνόματα τῶν στοιχείων· εἶ, μῦ, νῦ, ξῖ, οὖ, πῖ, ῥῶ, ταῦ, ὖ, φῖ, χῖ, ψῖ, ὦ· ἔπειτα καὶ ταῦτα κῆρ, φῆρ, σῆς, σταῖς, οὖς, φῶς, πῦρ, σκῶρ, πᾶν, κρῖ. Τὰ εἰς ας κύρια ἰσοσυλλάβως κλινόμενα καὶ ἐπὶ τέλους ἔχοντα τὸν τόνον, περισπᾶται ὁ Γρᾶς τοῦ Γρᾶ, ὁ Λᾶς τοῦ Λᾶ, καὶ ὅτε τὸν ποταμὸν δηλοῖ καὶ ὅτε τὴν πόλιν, καὶ τὸ ἐπὶ τοῦ λίθου δή· καὶ αὐτὸ γὰρ ἰσοσυλλάβως κλίνεται, εἰ καὶ μὴ ἔστι κύριον· δισυλλάβως δὲ κλίνεται ὁ λᾶας, τοῦ λᾶα, Μηνᾶς Μηνᾶ, Ζηνᾶς Ζηνᾶ, κερκιδᾶς κερκιδᾶ. Τὰ εἰς ους ὀνόματα ἁπλᾶ περισπᾶται· βοῦς, χροῦς, χοῦς, νοῦς, πλοῦς, φλοῦς, θροῦς, χαλκοῦς, Σιμοῦς, ἀργυροῦς, σεσημειωμένου τοῦ πούς καὶ ὀδούς· ἁπλᾶ διὰ τὸ εὔνους, εὔπλους. Τὰ εἰς υς μονοσύλλαβα περισπᾶται· μῦς, σῦς, δρῦς· συναπηνέχθη δὲ αὐτῷ ἰχθῦς, ὀφρῦς, ἀπφῦς, διονῦς, ὀσφῦς. Πᾶσα δίφθογγος τελικὴ εἰς υ λήγουσα καὶ ἐφ’ ἑαυτῆς ἔχουσα τὸν τόνον περισπᾶται· καλοῦ, σοφοῦ, Πρωτεῦ, Πηλεῦ, ναῦ, ῥοῦ, νοοῦ, ποιοῦ, ἐμεῦ, φεῦ, αὖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "199",
+      "text": "σεσημείωται τρία· ἰδού, ἰού, οὔ· δεικτικὸν τὸ ἰδού, σχετλιαστικὸν τὸ ἰού, ἀπαγορευτικὸν τὸ οὔ. Πᾶσα συναίρεσις ἐξ ὀξείας καὶ βαρείας περισπωμένην ποιεῖ, οἷον Ἑρμέας Ἑρμῆς, Ἡρακλέης Ἡρακλῆς, τιμήεις τιμῇς, Σιμόεις Σιμοῦς, Ξενοφόων Ξενοφῶν, φάος φῶς, φθόϊς φθοῖς, βόαξ βῶξ, κρέασι κρῆσι· τὸ μέντοι Σαπφόα καὶ Λητόα, καίτοι συναιρεθέντα εἰς τὴν Σαπφώ καὶ Λητώ, ὅμως οὐ περιεσπάσθη· ἐπειδὴ πᾶσα πτῶσις ὁμοφωνήσασα τῇ εὐθείᾳ καὶ τὸν τόνον αὐτῆς λαμβάνει, οἷον ἡ μοῦσα ὦ μοῦσα· ἐπ’ ἀμφοτέρων μία φωνὴ καὶ εἷς ὁ τόνος· τὸ ξύλον ὦ ξύλον· ἅπαξ οὖν τῆς εὐθείας ὀξυνθείσης συνωξύνθη καὶ ἡ αἰτιατική· πάντα γὰρ τὰ εἰς ω θηλυκὰ ὀξύνεται· ὁμοφωνήσασα καὶ ἡ αἰτιατικὴ τὸν τόνον αὐτῆς ἀπηνέγκατο· ἀμέλει τὴν ἠόα συναναιροῦντα (sic) καὶ τὴν ἠῶ, καὶ τὴν αἰδόα καὶ τὴν αἰδῶ περισπῶμεν, ὅτι οὐχ ὁμοφώνησαν (sic) τῇ εὐθείᾳ· ἠώς γὰρ καὶ αἰδώς ἦσαν αἱ εὐθεῖαι· εἰ δέ τις λέγει· πῶς οὖν τὸ Δημοσθένης συναιρεθὲν οὐ περιεσπάσθη, ἐροῦμεν, ὅτι οὐκ ἔστιν ἡ συναίρεσις ἐξ ὀξείας καὶ βαρείας, ἀλλ’ ἐκ δύο βαρειῶν· τὰ δὲ συνῃρημένα ἐκ δύο βαρειῶν πάλιν βαρύνονται, οἷον Πάνθοος Πάνθους, εὐγήραος εὐγήρως· εἰ δέ τις λέγοι· πῶς οὖν τὸ χάλκεος συναιροῦν τὰς δύο βαρείας περιεσπάσθη ἐν τῷ χαλκοῦς, καὶ χρύσεος χρυσοῦς, ἐροῦμεν, ὅτι ταῦτα οὐ τῷ λόγῳ τῆς συναιρέσεως περιεσπάσθη, ἀλλὰ τῷ λόγῳ τῶν εἰς ους ἁπλῶν, ως προείπομεν. Πᾶσα γενικὴ ἢ καὶ δοτικὴ μακροκατάληκτος ἐπὶ τέλους ἔχουσα τὸν τόνον περισπᾶται ὁμοίως ἐπὶ ἑνικῶν καὶ δυϊκῶν καὶ πληθυντικῶν· τοῦ καλοῦ, τοῖν καλοῖν, τῶν καλῶν, τῆς καλῆς, ταῖν καλαῖν· αἱ μέντοι γενικαὶ τῶν ἀττικῶν ὀνομάτων τοῦ νεώ καὶ τοῦ λεώ ὠξύνθησαν ἑτέρῳ λόγῳ· τὸ γὰρ πτωτικὸν ω ἀπέστραπται τὴν περισπωμένην· πτωτικὸν δὲ λέγομεν τὸ ἐν τοῖς πτωτικοῖς ἐπὶ τέλους εὑρισκόμενον ἄνευ πάθους, οἷον πάντα τὰ εἰς ω λήγοντα δυϊκά, πᾶσαι αἱ εἰς ω αἰτιατικαί· τὸ γὰρ Ποσειδῶ, κυκεῶ καὶ ἱδρῶ καὶ ταῶ οὐ τελικὸν ἔχει τὸ ω, ἀλλ’ ἐξ ἀποκοπῆς τοῦ Ποσειδῶνα, κυκεῶνα καὶ ταῶνα καὶ ἱδρῶτα· τὸ ἠῶ καὶ αἰδῶ οὐκ ἀπαθὲς εἶχον τὸ ω, ἀλλ’ ἐκ κράσεως τοῦ ω καὶ α· τὸ ῥῶ καὶ ὦ ὀνόματα τῶν στοιχείων οὐ πτωτικὸν εἶχον τὸ ω ἀλλὰ ἄκλιτον, ὅθεν καὶ τὰς εἰς ω δοτικὸν λέγομεν εἰς ι καταλήγειν· ἐπεὶ εἰ εἶχον τελικὸν τὸ ω οὐκ ἂν περιεσπάσθησαν, φημὶ δὴ τῷ καλῷ, τῷ σοφῷ· τὰ γοῦν εἰς ους ἐν πάσαις ταῖς πτώσεσιν περισπώμενα ἐν τῇ εὐθείᾳ τῶν δυϊκῶν ὀξύνεται· διπλοῦς διπλοῦ διπλοῦν· διπλὼ δὲ στρατηγώ ὀξυτόνως· εἰ δέ τις λέγει· πῶς οὖν τὸ τυφῶς τυφῶ καὶ ταῶς ταῶ περιεσπάσθη κατὰ τὴν γενικήν, ἐροῦμεν, ὡς πᾶσα εὐθεῖα ἀποβολῇ τοῦ ς τὴν γενικὴν ποιοῦσα ὁμότονον αὐτὴν ἔχει· ὁ Μηνᾶς, τοῦ Μηνᾶ, ὁ νοῦς, τοῦ νοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "200",
+      "text": "Πᾶν ῥῆμα μακροκατάληκτον ἐπὶ τῆς μακρὰς ἔχον τὸν τόνον περισπᾶται, ποιῶ, χρυσῶ· φημὶ δὲ σεσημειωμένου τοῦ διΐ. Πᾶν ἐπίῤῥημα μονοσύλλαβον ἔχον δίχρονον ἐκτεταμένον περισπᾶται ἀδειλωτί· σφῶ, νῦν, μῶν, γρῦ· τὸ γὰρ ῥά ἐκ τοῦ ῥαδίως ἐστί, διὸ ὀξύνεται. Πᾶν ἐπίῤῥημα μονοσύλλαβον πευστικὸν περισπᾶται· ποῦ, ποῖ, πῆ, πῶς. Τὰ εἰς ως ἐπιῤῥήματα τῶν γενικῶν ὀνομάτων ἔχουσι τοὺς τόνους· καλῶν καλῶς, φίλων φίλως· τὸ δὲ ὥς ὀξύνεται, ἐπεὶ ἀπὸ τοῦ ὅς γέγονε, ὡς καὶ οὕτως ἀπὸ τοῦ οὗτος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "201",
+      "text": "Πᾶσα λέξις εἰς ουν λήγουσα ἢ βαρύνεται ἢ περισπᾶται, οὐδέποτε δὲ ὀξύνεται· βαρύνεται μὲν εὔνουν, εὔχρουν, περισπᾶται δὲ κενοῦν, ὀστοῦν· δικαίως οὖν καὶ τὸ οὖν σύνδεσμος περισπασθήσεται. Πᾶσα φύσει μακρά, πρὸ βραχείας ληκτικῆς ἐν ἑνὶ μέρει λόγου ἐφ’ ἑαυτῆς ἔχουσα τὸν τόνον περισπᾶται, μῆλον, δῶρον, οἶκος· κἂν εὑρεθῇ δὲ ἐπὶ τέλους οἱ αι καὶ οι ἀντὶ βραχειῶν λογίζονται· μοῦσαι, Αἰνεῖαι, κοῦραι, πῶλοι· ἐν μέντοι τοῖς εὐκτικοῖς ῥήμασιν ἢ ἐπιῤῥήμασιν τέλειαι λογίζονται μακραὶ ἡ αι καὶ οι· τὸ γὰρ νοῆσαι εἰ μὲν εἴη ἀπαρέμφατον περισπᾶται· ὁ δὲ εὐκτικὸς παροξύνεται· τὸ δὲ οἶκοι εἰ μὲν εἴη ὄνομα περισπᾶται, εἰ δὲ ἐπίῤῥημα, παροξύνεται. Αἱ μέντοι τῶν ἀπτώτων ἐπεκτάσεις οὐ τρέπουσι τὴν ὀξεῖαν εἰς περισπωμένην, εἰ εἴθε, ναί ναίχι. Πᾶσα αἰτιατικὴ εἰς ν λήγουσα μονοσύλλαβος περισπᾶται· κλεῖν, λῖν, μῦν. Περὶ τῶν γενικῶν ἐν τῷ περὶ πτώσεων εἴρηται.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "vdq-ac",
+      "title": {
+        "english": "Introductory Canons-Noun Inflection",
+        "ancient_greek": "Εἰσαγωγικοὶ Κανόνες περὶ Κλίσεως Ὀνομάτων"
+      },
+      "url_slug": "theodosius-of-alexandria-canons-noun-inflection-vdq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/theodosius-of-alexandria/canons-noun-inflection",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-canons-noun-inflection-vdq-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-canons-noun-inflection-vdq-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-canons-noun-inflection-vdq-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-canons-noun-inflection-vdq-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/canons-noun-inflection.epub"
+      }
+    },
+    {
+      "eul_wid": "vdq-ad",
+      "title": {
+        "english": "Introductory Canons-Verb Inflection",
+        "ancient_greek": "Εἰσαγωγικοὶ Κανόνες περὶ Κλίσεως Ῥημάτων"
+      },
+      "url_slug": "theodosius-of-alexandria-canons-verb-inflection-vdq-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/theodosius-of-alexandria/canons-verb-inflection",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-canons-verb-inflection-vdq-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-canons-verb-inflection-vdq-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-canons-verb-inflection-vdq-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-canons-verb-inflection-vdq-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/canons-verb-inflection.epub"
+      }
+    },
+    {
+      "eul_wid": "vdq-af",
+      "title": {
+        "english": "On Dialects",
+        "ancient_greek": "Περὶ Διαλέκτων"
+      },
+      "url_slug": "theodosius-of-alexandria-dialects-vdq-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/theodosius-of-alexandria/dialects",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-dialects-vdq-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-dialects-vdq-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-dialects-vdq-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-dialects-vdq-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/dialects.epub"
+      }
+    },
+    {
+      "eul_wid": "vdq-ag",
+      "title": {
+        "english": "On Grammar",
+        "ancient_greek": "Περὶ γραμματικῆς"
+      },
+      "url_slug": "theodosius-of-alexandria-grammar-vdq-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/theodosius-of-alexandria/grammar",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-grammar-vdq-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-grammar-vdq-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-grammar-vdq-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-grammar-vdq-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/grammar.epub"
+      }
+    },
+    {
+      "eul_wid": "vdq-aa",
+      "title": {
+        "english": "On the Declension of Acute Words Ending in -on",
+        "ancient_greek": "Περὶ κλίσεως τῶν εἰς ων ὀξυτόνων"
+      },
+      "url_slug": "theodosius-of-alexandria-declension-acute-words-vdq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theodosius-of-alexandria/declension-acute-words",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-declension-acute-words-vdq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-declension-acute-words-vdq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-declension-acute-words-vdq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-declension-acute-words-vdq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/declension-acute-words.epub"
+      }
+    },
+    {
+      "eul_wid": "vdq-ab",
+      "title": {
+        "english": "On the Declension of Words Ending in -on",
+        "ancient_greek": "Περὶ κλίσεως τῶν εἰς ων βαρυτόνων"
+      },
+      "url_slug": "theodosius-of-alexandria-declension-on-words-vdq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/theodosius-of-alexandria/declension-on-words",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-declension-on-words-vdq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-declension-on-words-vdq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-declension-on-words-vdq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-declension-on-words-vdq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/declension-on-words.epub"
+      }
+    },
+    {
+      "eul_wid": "vdq-ae",
+      "title": {
+        "english": "Summary of Herodian's Catholic Work",
+        "ancient_greek": "Σύνοψις τοῦ Καθολικοῦ Ἔργου Ἡρωδιανῶν"
+      },
+      "url_slug": "theodosius-of-alexandria-herodian-summary-vdq-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/theodosius-of-alexandria/herodian-summary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-herodian-summary-vdq-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-herodian-summary-vdq-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-herodian-summary-vdq-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-herodian-summary-vdq-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/herodian-summary.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "vmw-aj",
+      "title": {
+        "english": "Commentary-Aetia I",
+        "ancient_greek": "Ὑπόμνημα εἰς Αἴτια Α΄"
+      },
+      "url_slug": "callimachus-scholia-aetia-aj-vmw-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/aetia-aj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-aetia-aj-vmw-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-aetia-aj-vmw-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-aetia-aj-vmw-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-aetia-aj-vmw-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/aetia-aj.epub"
+      }
+    },
+    {
+      "eul_wid": "tme-ad",
+      "title": {
+        "english": "Etymologies (Selection C)",
+        "ancient_greek": "Ἐτυμολογικὸν Ἔργον"
+      },
+      "url_slug": "orion-of-thebes-etymological-ad-tme-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/orion-of-thebes/etymological-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymological-ad-tme-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymological-ad-tme-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymological-ad-tme-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymological-ad-tme-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/etymological-ad.epub"
+      }
+    },
+    {
+      "eul_wid": "mui-ab",
+      "title": {
+        "english": "Fragments on Homeric Pronunciation",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ὁμηρικῆς Προφορᾶς"
+      },
+      "url_slug": "dionysius-the-thracian-homeric-pronunciation-mui-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-the-thracian/homeric-pronunciation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian-homeric-pronunciation-mui-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian-homeric-pronunciation-mui-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian-homeric-pronunciation-mui-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian-homeric-pronunciation-mui-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/homeric-pronunciation.epub"
+      }
+    },
+    {
+      "eul_wid": "tqa-ak",
+      "title": {
+        "english": "Grammatical Fragment",
+        "ancient_greek": "Γραμματικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "anonymous-greek-grammarian-fragment-ak-tqa-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-greek-grammarian/fragment-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-ak-tqa-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-ak-tqa-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-ak-tqa-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-ak-tqa-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-ak.epub"
+      }
+    },
+    {
+      "eul_wid": "vta-ac",
+      "title": {
+        "english": "Hypotheses-the Iliad",
+        "ancient_greek": "Ὑποθέσεις εἰς Ἰλιάδα"
+      },
+      "url_slug": "homer-commentary-anonymous-hypotheses-iliad-vta-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer-commentary-anonymous/hypotheses-iliad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-hypotheses-iliad-vta-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-hypotheses-iliad-vta-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-hypotheses-iliad-vta-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-hypotheses-iliad-vta-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous/hypotheses-iliad.epub"
+      }
+    },
+    {
+      "eul_wid": "mlw-ae",
+      "title": {
+        "english": "Later Scholia on Acharnians",
+        "ancient_greek": "Σχόλια εἰς Ἀχαρνῆς"
+      },
+      "url_slug": "aristophanes-scholia-acharnians-ae-mlw-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/acharnians-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-acharnians-ae-mlw-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-acharnians-ae-mlw-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-acharnians-ae-mlw-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-acharnians-ae-mlw-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/acharnians-ae.epub"
+      }
+    },
+    {
+      "eul_wid": "nam-aa",
+      "title": {
+        "english": "On Doubtful Readings in Plato",
+        "ancient_greek": "Περὶ Ἀμφιβόλων Ἀναγνώσεων ἐν Πλάτωνι"
+      },
+      "url_slug": "didymus-chalcenterus-doubtful-readings-nam-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/didymus-chalcenterus/doubtful-readings",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/didymus-chalcenterus-doubtful-readings-nam-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/didymus-chalcenterus-doubtful-readings-nam-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/didymus-chalcenterus-doubtful-readings-nam-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/didymus-chalcenterus-doubtful-readings-nam-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/didymus-chalcenterus/doubtful-readings.epub"
+      }
+    },
+    {
+      "eul_wid": "tii-ae",
+      "title": {
+        "english": "Scholia-Euclid's Optics",
+        "ancient_greek": "Σχόλια εἰς Εὐκλείδου Ὀπτικά"
+      },
+      "url_slug": "thucydides-scholia-optics-ae-tii-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/thucydides-scholia/optics-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-scholia-optics-ae-tii-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-scholia-optics-ae-tii-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-scholia-optics-ae-tii-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-scholia-optics-ae-tii-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-scholia/optics-ae.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/theodosius-of-alexandria/tone",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-tone-vdq-ah.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-tone-vdq-ah.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-tone-vdq-ah.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-tone-vdq-ah.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/tone.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

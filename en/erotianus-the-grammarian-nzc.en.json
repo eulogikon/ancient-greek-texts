@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "nzc",
+  "auth_slug": "erotianus-the-grammarian",
+  "name": {
+    "english": "Erotianus the Grammarian",
+    "ancient_greek": "Ἐρωτιανός"
+  },
+  "seo_h1": "Hippocratic Vocabulary in the Work of Erotianus the Grammarian",
+  "seo": {
+    "browser_title": "Erotianus the Grammarian on Eulogikon Greek Archive",
+    "meta_title": "Classical Erotianus Ancient Greek Medical Lexicon Works",
+    "meta_description": "Erotianus, a 1st century CE grammarian of ancient medical vocabulary. Works on Hippocratic terms. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Erotianus was a Greek grammarian and scholar who lived in the 1st century CE during the Roman Empire. He is known for his specialized work on the vocabulary of ancient Greek medical texts. His intellectual activity places him within the tradition of Alexandrian scholarship, focusing on the study of language and texts.</p>\n<p class=\"research-text\">His primary contribution is the Collection of Hippocratic Words, a glossary explaining difficult terms found in the writings attributed to the physician Hippocrates. This work is the oldest surviving glossary dedicated to the Hippocratic Corpus. The date of his work is inferred from its preface, where he dedicates it to Andromachus, the personal physician to the emperor Nero. This connection suggests Erotianus moved within high-level medical and scholarly circles in Rome. He is also credited with a lost work, On the Hippocratic Sect.</p>\n<p class=\"research-text\">Erotianus holds historical importance for preserving how Hippocratic texts were studied in the Roman period. His glossary is a critical source because it compiles and cites explanations from earlier commentators whose own works are now lost. This makes his compilation a valuable indirect record of Hellenistic medical scholarship. His work was later used by major figures like the physician Galen and by Byzantine lexicographers.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "nzc-aa",
+      "title": {
+        "english": "Collection of Hippocratic Words",
+        "ancient_greek": "Συναγωγὴ Ἱπποκρατικῶν Λέξεων"
+      },
+      "url_slug": "erotianus-the-grammarian-hippocratic-words-nzc-aa",
+      "passages": 110,
+      "links": {
+        "html": "https://eulogikon.org/grc/erotianus-the-grammarian/hippocratic-words",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erotianus-the-grammarian-hippocratic-words-nzc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erotianus-the-grammarian-hippocratic-words-nzc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erotianus-the-grammarian-hippocratic-words-nzc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erotianus-the-grammarian-hippocratic-words-nzc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erotianus-the-grammarian/hippocratic-words.epub"
+      }
+    },
+    {
+      "eul_wid": "nzc-ab",
+      "title": {
+        "english": "Medical Lexicon Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "erotianus-the-grammarian-medical-lexicon-nzc-ab",
+      "passages": 62,
+      "links": {
+        "html": "https://eulogikon.org/grc/erotianus-the-grammarian/medical-lexicon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erotianus-the-grammarian-medical-lexicon-nzc-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erotianus-the-grammarian-medical-lexicon-nzc-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erotianus-the-grammarian-medical-lexicon-nzc-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erotianus-the-grammarian-medical-lexicon-nzc-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erotianus-the-grammarian/medical-lexicon.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/erotianus-the-grammarian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/erotianus-the-grammarian-nzc.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/erotianus-the-grammarian-nzc.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/erotianus-the-grammarian-nzc.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/erotianus-the-grammarian-nzc.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

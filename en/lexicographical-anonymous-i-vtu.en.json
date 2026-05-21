@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "vtu",
+  "auth_slug": "lexicographical-anonymous-i",
+  "name": {
+    "english": "Lexicographical Work Anonymous I",
+    "ancient_greek": "Λεξικογραφικὸν ἔργον ἀνώνυμον"
+  },
+  "seo_h1": "Lexicographical Work Anonymous I: Rhetorical and Grammatical Lexica",
+  "seo": {
+    "browser_title": "Anonymous Lexicographer I on Eulogikon Greek Archive",
+    "meta_title": "Classical Anonymous Lexicographer I Ancient Greek Works",
+    "meta_description": "Anonymous lexicographer from Late Antiquity, 2nd to 6th century CE. Six grammatical works in mixed dialects. Free to read and download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Life</p>\n<p class=\"research-text\">The anonymous compiler or compilers of the Lexicographical Work Anonymous I cannot be identified. The work is a product of the scholarly grammatical traditions of Late Antiquity, a period spanning from the 2nd to the 6th century CE, during which grammarians actively systematized classical Greek language and literature.</p>\n<p class=\"research-text\">Works</p>\n<p class=\"research-text\">While the work is designated as having a count of six, no specific titles for six distinct works by this anonymous figure are attested. Such lexica from this era are typically known by generic titles like Lexicon or by manuscript names, and approved sources do not enumerate a set of six under this specific anonymous designation.</p>\n<p class=\"research-text\">Significance</p>\n<p class=\"research-text\">This anonymous lexicon is significant for the history of scholarship and textual transmission. It served as a reference tool for understanding obscure words in classical texts and preserves fragments of lost works, variant readings, and interpretations from earlier commentators, forming a crucial link in the chain of ancient scholarship.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 6,
+  "works": [
+    {
+      "eul_wid": "vtu-ac",
+      "title": {
+        "english": "Anonymous Anti-Atticist",
+        "ancient_greek": "Ἀνώνυμος Ἀντιαττικιστής"
+      },
+      "url_slug": "lexicographical-anonymous-i-anti-atticist-vtu-ac",
+      "passages": 63,
+      "links": {
+        "html": "https://eulogikon.org/grc/lexicographical-anonymous-i/anti-atticist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i-anti-atticist-vtu-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i-anti-atticist-vtu-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i-anti-atticist-vtu-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i-anti-atticist-vtu-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i/anti-atticist.epub"
+      }
+    },
+    {
+      "eul_wid": "vtu-aa",
+      "title": {
+        "english": "Lexicon of Rhetorical and Philosophical Terms",
+        "ancient_greek": "Συλλογὴ χρησίμων λέξεων ἐκ διαφόρων ῥητόρων καὶ"
+      },
+      "url_slug": "lexicographical-anonymous-i-rhetoric-philosophy-vtu-aa",
+      "passages": 46,
+      "links": {
+        "html": "https://eulogikon.org/grc/lexicographical-anonymous-i/rhetoric-philosophy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i-rhetoric-philosophy-vtu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i-rhetoric-philosophy-vtu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i-rhetoric-philosophy-vtu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i-rhetoric-philosophy-vtu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i/rhetoric-philosophy.epub"
+      }
+    },
+    {
+      "eul_wid": "vtu-ab",
+      "title": {
+        "english": "Lexicon of Rhetorical Terms",
+        "ancient_greek": "Συλλογὴ χρησίμων λέξεων ἐκ διαφόρων ῥητόρων καὶ"
+      },
+      "url_slug": "lexicographical-anonymous-i-rhetorical-terms-vtu-ab",
+      "passages": 438,
+      "links": {
+        "html": "https://eulogikon.org/grc/lexicographical-anonymous-i/rhetorical-terms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i-rhetorical-terms-vtu-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i-rhetorical-terms-vtu-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i-rhetorical-terms-vtu-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i-rhetorical-terms-vtu-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i/rhetorical-terms.epub"
+      }
+    },
+    {
+      "eul_wid": "vtu-ae",
+      "title": {
+        "english": "Names of Lawsuits",
+        "ancient_greek": "Δικῶν ὀνόματα"
+      },
+      "url_slug": "lexicographical-anonymous-i-lawsuits-vtu-ae",
+      "passages": 29,
+      "links": {
+        "html": "https://eulogikon.org/grc/lexicographical-anonymous-i/lawsuits",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i-lawsuits-vtu-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i-lawsuits-vtu-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i-lawsuits-vtu-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i-lawsuits-vtu-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i/lawsuits.epub"
+      }
+    },
+    {
+      "eul_wid": "vtu-af",
+      "title": {
+        "english": "On Syntax",
+        "ancient_greek": "Περὶ Συντάξεως"
+      },
+      "url_slug": "lexicographical-anonymous-i-syntax-vtu-af",
+      "passages": 81,
+      "links": {
+        "html": "https://eulogikon.org/grc/lexicographical-anonymous-i/syntax",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i-syntax-vtu-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i-syntax-vtu-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i-syntax-vtu-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i-syntax-vtu-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i/syntax.epub"
+      }
+    },
+    {
+      "eul_wid": "vtu-ad",
+      "title": {
+        "english": "Rhetorical Glosses",
+        "ancient_greek": "Γλωσσῶν Ῥητορικῶν"
+      },
+      "url_slug": "lexicographical-anonymous-i-rhetorical-glosses-vtu-ad",
+      "passages": 141,
+      "links": {
+        "html": "https://eulogikon.org/grc/lexicographical-anonymous-i/rhetorical-glosses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i-rhetorical-glosses-vtu-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i-rhetorical-glosses-vtu-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i-rhetorical-glosses-vtu-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i-rhetorical-glosses-vtu-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i/rhetorical-glosses.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/lexicographical-anonymous-i",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lexicographical-anonymous-i-vtu.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lexicographical-anonymous-i-vtu.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lexicographical-anonymous-i-vtu.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lexicographical-anonymous-i-vtu.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

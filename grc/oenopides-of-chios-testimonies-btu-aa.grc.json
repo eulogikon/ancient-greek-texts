@@ -1,0 +1,302 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "btu-aa",
+  "eul_aid": "btu",
+  "author_slug": "oenopides-of-chios",
+  "work_slug": "testimonies",
+  "url_slug": "oenopides-of-chios-testimonies-btu-aa",
+  "author": {
+    "english": "Oenopides of Chios",
+    "ancient_greek": "Οἰνοπίδης ὁ Χῖος"
+  },
+  "title": {
+    "english": "Testimonies",
+    "ancient_greek": "Μαρτυρίαι"
+  },
+  "seo": {
+    "browser_title": "Ancient Testimonies by Oenopides of Chios on Eulogikon",
+    "meta_title": "Testimonies by Oenopides of Chios in Ancient Greek",
+    "meta_description": "Testimonies collects 15 ancient passages about philosopher and mathematician Oenopides. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Presocratic",
+      "href": "/affiliations/presocratic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Testimonies</strong> is a modern scholarly compilation of ancient references to the 5th-century BCE philosopher and mathematician Oenopides of Chios. No original writings by Oenopides survive; this collection assembles fifteen fragmentary reports from later Greek authors, including Proclus, Theon of Smyrna, and Aëtius. These testimonia record his principal contributions to mathematical astronomy and geometry. He is credited with calculating a 59-year cycle, known as a Great Year, for reconciling solar and lunar calendars, and with discovering the obliquity of the ecliptic, the axial tilt of the Earth. In geometry, he is noted for solving problems such as inscribing a fifteen-sided polygon within a circle. These reports constitute the sole evidence for his work, placing him within the tradition of Ionian pre-Socratic philosophy. Scholars interpret the testimonies as demonstrating Oenopides&#x27;s significant role in applying geometric principles to celestial phenomena, thereby advancing a more mathematical approach to cosmology. The transmission of his ideas is entirely indirect, filtered through the perspectives of later commentators and historians of science, and has been reconstructed in modern critical editions dedicated to the study of ancient philosophy.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "PROCL. in Eucl. S. 65, 21 μετὰ δὲ τοῦτον Ἀναξαγόρας ὁ Κλαζομένιος πολλῶν ἐφήψατο τῶν κατὰ γεωμετρίαν καὶ Οἰνοπίδης ὁ Χῖος ὀλίγωι νεώτερος ὢν Ἀναξαγόρου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a",
+      "text": "VITA PTOLEM. Neapol. [Rohde Kl. Schr. I 123 4 von Oinopides von Chios] ἐγνωρίζετο δὲ κατὰ τέλος τοῦ Πελοποννησιακοῦ πολέμου, καθ’ ὃν καιρὸν καὶ Γοργίας ὁ ῥήτωρ ἦν καὶ Ζήνων ὁ Ἐλεάτης καὶ Ἡρόδοτος, ὡς ἔνιοί φασιν, ὁ ἱστορικὸς Ἁλικαρνασσεύς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "[PLAT.] Erast. p. 132 A ἐφαινέσθην [δύο τῶν μειρακίων] μέντοι ἢ περὶ Ἀναξαγόρου ἢ περὶ Οἰνοπίδου ἐρίζειν. κύκλους γοῦν γράφειν ἐφαινέσθην καὶ ἐγκλίσεις τινὰς ἐμιμοῦντο τοῖν χεροῖν ἐπικλίνοντε καὶ μάλ’ ἐσπουδακότε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "DIOG. IX 41 εἴη ἂν οὖν κατ’ Ἀρχέλαον τὸν Ἀναξαγόρου μαθητὴν καὶ τοὺς περὶ Οἰνοπίδην. καὶ γὰρ τούτου μέμνηται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "GNOMOL. VATIC. 743 ed. Sternbach n. 420 Οἰν. ὁρῶν μειράκιον ἀπαίδευτον πολλὰ βιβλία κτώμενον ἔφη· ‘μὴ τῶι κιβωτῶι, ἀλλὰ τῶι στήθει‘.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "SEXT. Pyrrh. hyp. III 30 Οἰν. δὲ ὁ Χῖος πῦρ καὶ ἀέρα [ἀρχὰς εἶναι].",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "AËT. I 7, 17 (D. 302) Διογένης καὶ Κλεάνθης καὶ Οἰν. τὴν τοῦ κόσμου ψυχήν [θεὸν εἶναι].",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "THEO Smyrn. p. 198, 14 Εὔδημος [fr. 94 Sp.] ἱστορεῖ ἐν ταῖς Ἀστρολογίαις ὅτι Οἰν. εὗρε πρῶτος τὴν τοῦ ζωιδιακοῦ † διάζωσιν καὶ τὴν τοῦ μεγάλου ἐνιαυτοῦ περίστασιν. AËt. II 12, 2 (D. 340) Πυθαγόρας πρῶτος ἐπινενοηκέναι λέγεται τὴν λόξωσιν τοῦ ζωιδιακοῦ κύκλου, ἥντινα Οἰν. ὁ Χῖος ὡς ἰδίαν ἐπίνοιαν σφετερίζεται. DIODOR. I 98, 2 Πυθαγόραν τε τὰ κατὰ τὸν Ἱερὸν λόγον καὶ τὰ κατὰ γεωμετρίαν θεωρήματα καὶ τὰ περὶ τοὺς ἀριθμοὺς ... μαθεῖν παρὰ Αἰγυπτίων. ὑπολαμβάνουσι δὲ καὶ Δημόκριτον παρ’ αὐτοῖς ἔτη διατρῖψαι πέντε καὶ πολλὰ διδαχθῆναι τῶν κατὰ τὴν ἀστρολογίαν. τόν τε Οἰνοπίδην ὁμοίως συνδιατρίψαντα τοῖς ἱερεῦσι καὶ ἀστρολόγοις μαθεῖν ἄλλα τε καὶ μάλιστα τὸν ἡλιακὸν κύκλον ὡς λοξὴν μὲν ἔχει τὴν πορείαν, ἐναντίαν δὲ τοῖς ἄλλοις ἄστροις τὴν φορὰν ποιεῖται. MACROB. Sat. I 17, 31 Λοξίας cognominatur [Apollo], ut ait Oenopides , ὅτι ἐκπορεύεται τὸν λοξὸν κύκλον ἀπὸ δυσμῶν ἐπ’ ἀνατολὰς κινούμενος, id est quod obliquum circulum ab occasu ad orientem pergit.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "CENSORIN. 19, 2 Oenopides [annum naturalem dies habere prodidit] CCCLXV et dierum duum et viginti partem undesexagesimam.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "AEL. V. H. X 7 Οἰν. ὁ Χῖος ἀστρολόγος ἀνέθηκεν ἐν Ὀλυμπίοις τὸ χαλκοῦν γραμματεῖον ἐγγράψας ἐν αὐτῶι τὴν ἀστρολογίαν τῶν ἑνὸς δεόντων ἑξήκοντα ἐτῶν φήσας τὸν μέγαν ἐνιαυτὸν εἶναι τοῦτον. ὅτι Μέτων ὁ Λευκονοεὺς ἀστρολόγος ἀνέστησε στήλας καὶ τὰς τοῦ ἡλίου τροπὰς κατεγράψατο καὶ τὸν μέγαν ἐνιαυτὸν ὡς ἔλεγεν εὗρε καὶ ἔφατο αὐτὸν ἑνὸς δέοντα εἴκοσιν ἐτῶν. AËT. II 32, 2 (D. 363) τὸν δὲ μέγαν ἐνιαυτὸν οἱ μὲν ἐν τῆι ὀκταετηρίδι τίθενται, οἱ δὲ ἐν τῆι ἐννεακαιδεκαετηρίδι, οἱ δ’ ἐν τοῖς τετραπλασίοις ἔτεσιν, οἱ δὲ ἐν τοῖς ἑξήκοντα ἑνὸς δέουσιν, ἐν οἷς Οἰν. καὶ Πυθαγόρας. οἱ δ’ ἐν τῆι λεγομένηι κεφαλῆι τοῦ κόσμου· αὕτη δ’ ἐστὶ τῶν ἑπτὰ πλανητῶν ἐπὶ ταὐτὰ σημεῖα τῆς ἐξ ἀρχῆς (?) φορᾶς ἐπάνοδος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "ARISTOT. Meteor. A 8. 345a 13 τῶν μὲν οὖν καλουμένων Πυθαγορείων φασί τινες ὁδὸν εἶναι ταύτην [τὸ γάλα] οἱ μὲν τῶν ἐκπεσόντων τινὸς ἄστρων κατὰ τὴν λεγομένην ἐπὶ Φαέθοντος φθοράν, οἱ δὲ τὸν ἥλιον τοῦτον τὸν κύκλον φέρεσθαί ποτέ φασιν· οἷον οὖν διακεκαῦσθαι τὸν τόπον τοῦτον ἤ τι τοιοῦτον ἄλλο πεπονθέναι πάθος ὑπὸ τῆς φθορᾶς αὐτοῦ. ACHILL. Is. p. 55, 18 M. ἕτεροι δέ φασιν, ὧν ἐστι καὶ Οἰν. ὁ Χῖος, ὅτι πρότερον διὰ τούτου [γάλακτος] ἐφέρετο ὁ ἥλιος, διὰ δὲ τὰ Θυέστεια δεῖπνα ἀπεστράφη καὶ τὴν ἐναντίαν τούτωι πεποίηται περιφοράν, ἣν νῦν περιγράφει ὁ ζωιδιακός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "DIODOR. I 41, 1 Οἰν. δὲ ὁ Χῖός φησι κατὰ μὲν τὴν θερινὴν ὥραν τὰ ὕδατα κατὰ τὴν γῆν εἶναι ψυχρά, τοῦ δὲ χειμῶνος τοὐναντίον θερμά, καὶ τοῦτο εὔδηλον ἐπὶ τῶν βαθέων φρεάτων γίνεσθαι· κατὰ μὲν γὰρ τὴν ἀκμὴν τοῦ χειμῶνος ἥκιστα τὸ ὕδωρ ἐν αὐτοῖς ὑπάρχειν ψυχρόν, κατὰ δὲ τὰ μέγιστα καύματα ψυχρότατον ἐξ αὐτῶν ὑγρὸν ἀναφέρεσθαι. διὸ καὶ τὸν Νεῖλον εὐλόγως κατὰ μὲν τὸν χειμῶνα μικρὸν εἶναι καὶ συστέλλεσθαι, διὰ τὸ τὴν μὲν κατὰ γῆν θερμασίαν τὸ πολὺ τῆς ὑγρᾶς οὐσίας ἀναλίσκειν, ὄμβρους δὲ κατὰ τὴν Αἴγυπτον μὴ γίνεσθαι· κατὰ δὲ τὸ θέρος μηκέτι τῆς κατὰ γῆν ἀπαναλώσεως γινομένης ἐν τοῖς κατὰ βάθος τόποις πληροῦσθαι τὴν κατὰ φύσιν αὐτοῦ ῥύσιν ἀνεμποδίστως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12",
+      "text": "PROCL. in Euclid. p. 80, 15 οἱ δὲ περὶ Ζηνόδοτον τὸν προσήκοντα μὲν τῆι Οἰνοπίδου διαδοχῆι, τῶν μαθητῶν δὲ Ἄνδρωνος, διώριζον τὸ θεώρημα τοῦ προβλήματος ἧι τὸ μὲν θεώρημα ζητεῖ, τί ἐστι τὸ σύμπτωμα τὸ κατηγορούμενον τῆς ἐν αὐτῶι ὕλης, τὸ δὲ πρόβλημα, τίνος ὄντος τί ἐστιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13",
+      "text": "— —p. 283, 4 (ad prop. 12, probl. 7: ἐπὶ τὴν δοθεῖσαν εὐθεῖαν ἄπειρον ἀπὸ τοῦ δοθέντος σημείου ὃ μή ἐστιν ἐπ’ αὐτῆς, κάθετον εὐθεῖαν γραμμὴν ἀγαγεῖν). τοῦτο τὸ πρόβλημα Οἰνοπίδης ἐζήτησεν χρήσιμον αὐτὸ πρὸς ἀστρολογίαν οἰόμενος. ὀνομάζει δὲ τὴν κάθετον ἀρχαϊκῶς κατὰ γνώμον α, διότι καὶ ὁ γνώμων πρὸς ὀρθάς ἐστι τῶι ὁρίζοντι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14",
+      "text": "— —p. 333, 1 (ad prop. 23, probl. 9: πρὸς τῆι δοθείσηι εὐθείαι καὶ τῶι πρὸς αὐτῆι σημείωι τῆι δοθείσηι εὐθυγράμμωι γωνίαι ἴσην γωνίαν εὐθύγραμμον συστήσασθαι). πρόβλημα καὶ τοῦτο Οἰνοπίδου μὲν εὕρημα μᾶλλον. ὥς φησιν Εὔδημος [fr. 86 Sp.].",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "okg-ah",
+      "title": {
+        "english": "Collection of Parallel Greek and Roman Histories",
+        "ancient_greek": "Συναγωγὴ ἱστοριῶν παραλλήλων Ἑλληνικῶν καὶ"
+      },
+      "url_slug": "plutarch-of-chaeronea-parallel-histories-okg-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/parallel-histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-parallel-histories-okg-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-parallel-histories-okg-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-parallel-histories-okg-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-parallel-histories-okg-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/parallel-histories.epub"
+      }
+    },
+    {
+      "eul_wid": "tfq-ab",
+      "title": {
+        "english": "Commentary-Hermogenes' Book-Ideas",
+        "ancient_greek": "Ὑπόμνημα εἰς τὸ περὶ ἰδεῶν Ἑρμογένους"
+      },
+      "url_slug": "syrianus-of-athens-hermogenes-ideas-tfq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/syrianus-of-athens/hermogenes-ideas",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-hermogenes-ideas-tfq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-hermogenes-ideas-tfq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-hermogenes-ideas-tfq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-hermogenes-ideas-tfq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens/hermogenes-ideas.epub"
+      }
+    },
+    {
+      "eul_wid": "utq-af",
+      "title": {
+        "english": "Commentary-Plato's Phaedo",
+        "ancient_greek": "Σχόλια εἰς τὸν Φαίδωνα Πλάτωνος"
+      },
+      "url_slug": "olympiodorus-the-younger-of-alexandria-phaedo-commentary-utq-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/olympiodorus-the-younger-of-alexandria/phaedo-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-phaedo-commentary-utq-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-phaedo-commentary-utq-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-phaedo-commentary-utq-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-phaedo-commentary-utq-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/phaedo-commentary.epub"
+      }
+    },
+    {
+      "eul_wid": "vls-ab",
+      "title": {
+        "english": "Commentary-Sophistical Refutations",
+        "ancient_greek": "Ὑπόμνημα εἰς τὰ Σοφιστικὰ Ἐλέγχη"
+      },
+      "url_slug": "sophistical-refutations-anonymous-commentary-vls-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/sophistical-refutations-anonymous/commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-commentary-vls-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-commentary-vls-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-commentary-vls-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-commentary-vls-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous/commentary.epub"
+      }
+    },
+    {
+      "eul_wid": "faa-ab",
+      "title": {
+        "english": "Fragments on Mathematics and Harmony",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μαθημάτων καὶ Ἁρμονίας"
+      },
+      "url_slug": "archytas-of-tarentum-mathematics-harmony-faa-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/archytas-of-tarentum/mathematics-harmony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum-mathematics-harmony-faa-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum-mathematics-harmony-faa-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum-mathematics-harmony-faa-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum-mathematics-harmony-faa-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum/mathematics-harmony.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-bs",
+      "title": {
+        "english": "On Common Notions to the Stoics",
+        "ancient_greek": "Περὶ τῶν κοινῶν ἐννοιῶν πρὸς τοὺς Στωικοὺς"
+      },
+      "url_slug": "plutarch-of-chaeronea-common-notions-okg-bs",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/common-notions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-common-notions-okg-bs.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-common-notions-okg-bs.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-common-notions-okg-bs.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-common-notions-okg-bs.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/common-notions.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-cv",
+      "title": {
+        "english": "On Isis and Osiris",
+        "ancient_greek": "Περὶ Ἴσιδος και Ὀσίριδος"
+      },
+      "url_slug": "plutarch-of-chaeronea-isis-osiris-okg-cv",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/isis-osiris",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-isis-osiris-okg-cv.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-isis-osiris-okg-cv.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-isis-osiris-okg-cv.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-isis-osiris-okg-cv.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/isis-osiris.epub"
+      }
+    },
+    {
+      "eul_wid": "ayq-aa",
+      "title": {
+        "english": "Sayings, from the Collection of Demetrius Phalereus",
+        "ancient_greek": "Γνῶμαι ἐκ τῆς Συλλογῆς Δημητρίου Φαληρέως"
+      },
+      "url_slug": "seven-sages-of-greece-demetrius-phalereus-ayq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/seven-sages-of-greece/demetrius-phalereus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-demetrius-phalereus-ayq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-demetrius-phalereus-ayq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-demetrius-phalereus-ayq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-demetrius-phalereus-ayq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/demetrius-phalereus.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/oenopides-of-chios/testimonies",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenopides-of-chios-testimonies-btu-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenopides-of-chios-testimonies-btu-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenopides-of-chios-testimonies-btu-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenopides-of-chios-testimonies-btu-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenopides-of-chios/testimonies.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

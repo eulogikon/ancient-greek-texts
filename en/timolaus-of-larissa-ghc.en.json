@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ghc",
+  "auth_slug": "timolaus-of-larissa",
+  "name": {
+    "english": "Timolaus of Larissa",
+    "ancient_greek": "Τιμόλαος ὁ Λαρισσαῖος"
+  },
+  "seo_h1": "Timolaus of Larissa on the Trojan War",
+  "seo": {
+    "browser_title": "Timolaus of Larissa Orator on Eulogikon Greek Archive",
+    "meta_title": "Classical Timolaus of Larissa Ancient Greek Oratory Works",
+    "meta_description": "Timolaus of Larissa was a 4th century BCE Attic orator. One surviving oration is preserved. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Timolaus of Larissa was a prominent citizen of Larissa in Thessaly and a leader of the pro-Macedonian faction during the 4th century BCE. He was instrumental in appealing to Philip II of Macedon for aid against the tyrants of Pherae and their Phocian allies around 353–352 BCE, facilitating Philip’s decisive victory at the Battle of Crocus Field.</p>\n<p class=\"research-text\">Following Philip’s intervention, Timolaus was granted control of his city but was later executed by Alexander of Pherae in a political coup. No literary or oratorical works by Timolaus survive, and he is not attested as an author in the historical record; the sources document only his political and military actions.</p>\n<p class=\"research-text\">Timolaus exemplifies how local factions enabled the expansion of Macedonian power under Philip II. His invitation to Philip directly contributed to the extension of Macedonian hegemony into Thessaly and the reshaping of the Greek political landscape in the mid-4th century BCE. His eventual execution underscores the volatility of Thessalian politics during this period.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ghc-aa",
+      "title": {
+        "english": "Fragments on the Trojan War",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Τρωικοῦ Πολέμου"
+      },
+      "url_slug": "timolaus-of-larissa-trojan-war-ghc-aa",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/timolaus-of-larissa/trojan-war",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timolaus-of-larissa-trojan-war-ghc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timolaus-of-larissa-trojan-war-ghc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timolaus-of-larissa-trojan-war-ghc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timolaus-of-larissa-trojan-war-ghc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timolaus-of-larissa/trojan-war.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/timolaus-of-larissa",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timolaus-of-larissa-ghc.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timolaus-of-larissa-ghc.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timolaus-of-larissa-ghc.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timolaus-of-larissa-ghc.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

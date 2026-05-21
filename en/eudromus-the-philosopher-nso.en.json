@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "nso",
+  "auth_slug": "eudromus-the-philosopher",
+  "name": {
+    "english": "Eudromus the Philosopher",
+    "ancient_greek": "Εὔδρομος"
+  },
+  "seo_h1": "Eudromus the Philosopher on Platonic Division",
+  "seo": {
+    "browser_title": "Eudromus Platonist Philosopher on Eulogikon Greek Archive",
+    "meta_title": "Eudromus the Platonist Philosopher Ancient Greek Works",
+    "meta_description": "Eudromus was a Roman era Platonist philosopher. His surviving philosophical works are in fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Platonist",
+      "href": "/affiliations/platonist"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Eudromus was a Platonist philosopher who lived during the Roman Imperial era. The exact dates of his life are uncertain, but he is generally placed between the 1st and 3rd centuries CE. No details about his birthplace or personal life are known.</p>\n<p class=\"research-text\">He is remembered for his work on ethics, which engaged with the philosophy of Aristotle. His primary contribution was a now-lost collection or commentary on Aristotelian ethics. According to modern scholars, this work was a compilation of excerpts from Aristotle&#x27;s ethical writings. It served as a reference or teaching tool and was cited by later philosophers, indicating it had some influence.</p>\n<p class=\"research-text\">Eudromus&#x27;s historical importance stems from his role in the Platonic tradition of his time. His work represents an early effort to systematize and teach Aristotelian ethical doctrines. This integrative approach, where a Platonist philosopher actively engaged with Aristotelian material, was common in the post-Hellenistic period and would become a standard feature of later Neoplatonic education. His surviving legacy is therefore one of a scholarly compiler, helping to preserve and transmit philosophical ideas.</p>\n</div>",
+  "affiliation_label": "Platonist",
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "nso-aa",
+      "title": {
+        "english": "Fragments on Philosophical Division",
+        "ancient_greek": "Ἀποσπάσματα περὶ Φιλοσοφικῆς Διαιρέσεως"
+      },
+      "url_slug": "eudromus-the-philosopher-philosophical-division-nso-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/eudromus-the-philosopher/philosophical-division",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudromus-the-philosopher-philosophical-division-nso-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudromus-the-philosopher-philosophical-division-nso-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudromus-the-philosopher-philosophical-division-nso-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudromus-the-philosopher-philosophical-division-nso-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudromus-the-philosopher/philosophical-division.epub"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "qhm",
+      "name": {
+        "english": "Albinus the Platonist",
+        "ancient_greek": "Ἀλβῖνος ὁ Πλατωνικός"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/albinus-the-platonist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/albinus-the-platonist-qhm.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/albinus-the-platonist-qhm.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/albinus-the-platonist-qhm.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/albinus-the-platonist-qhm.en.json"
+      }
+    },
+    {
+      "eul_aid": "ufa",
+      "name": {
+        "english": "Alexander of Lycopolis",
+        "ancient_greek": "Ἀλέξανδρος Λυκοπολίτης"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/alexander-of-lycopolis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-lycopolis-ufa.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-lycopolis-ufa.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-lycopolis-ufa.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-lycopolis-ufa.en.json"
+      }
+    },
+    {
+      "eul_aid": "lgs",
+      "name": {
+        "english": "Anonymous Commentary on Plato",
+        "ancient_greek": "Ἀνώνυμος ὑπόμνημα εἰς τὸν Πλάτωνος Θεαίτητον"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/anonymous-commentary-on-plato-theaetetus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-commentary-on-plato-theaetetus-lgs.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-commentary-on-plato-theaetetus-lgs.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-commentary-on-plato-theaetetus-lgs.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-commentary-on-plato-theaetetus-lgs.en.json"
+      }
+    },
+    {
+      "eul_aid": "ddo",
+      "name": {
+        "english": "Arimnestus the Philosopher",
+        "ancient_greek": "Ἀρίμνηστος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/arimnestus-the-philosopher",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arimnestus-the-philosopher-ddo.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arimnestus-the-philosopher-ddo.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arimnestus-the-philosopher-ddo.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arimnestus-the-philosopher-ddo.en.json"
+      }
+    },
+    {
+      "eul_aid": "rai",
+      "name": {
+        "english": "Atticus the Philosopher",
+        "ancient_greek": "Ἀττικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/atticus-the-philosopher",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/atticus-the-philosopher-rai.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/atticus-the-philosopher-rai.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/atticus-the-philosopher-rai.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/atticus-the-philosopher-rai.en.json"
+      }
+    },
+    {
+      "eul_aid": "rmq",
+      "name": {
+        "english": "Cassius Longinus the Philosopher",
+        "ancient_greek": "Κάσσιος Λογγῖνος"
+      },
+      "work_count": 3,
+      "links": {
+        "html": "https://eulogikon.org/en/cassius-longinus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cassius-longinus-rmq.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cassius-longinus-rmq.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cassius-longinus-rmq.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cassius-longinus-rmq.en.json"
+      }
+    },
+    {
+      "eul_aid": "quy",
+      "name": {
+        "english": "Celsus the Platonist",
+        "ancient_greek": "Κέλσος ὁ Πλατωνικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/celsus-the-platonist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/celsus-the-platonist-quy.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/celsus-the-platonist-quy.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/celsus-the-platonist-quy.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/celsus-the-platonist-quy.en.json"
+      }
+    },
+    {
+      "eul_aid": "hhq",
+      "name": {
+        "english": "Crantor of Soli",
+        "ancient_greek": "Κράντωρ ὁ Σολεύς"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/crantor-of-soli",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crantor-of-soli-hhq.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crantor-of-soli-hhq.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crantor-of-soli-hhq.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crantor-of-soli-hhq.en.json"
+      }
+    },
+    {
+      "eul_aid": "fdw",
+      "name": {
+        "english": "Heraclides of Pontus",
+        "ancient_greek": "Ἡρακλείδης ὁ Ποντικός"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/heraclides-of-pontus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-fdw.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-fdw.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-fdw.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-fdw.en.json"
+      }
+    },
+    {
+      "eul_aid": "fve",
+      "name": {
+        "english": "Heraclides of Pontus II",
+        "ancient_greek": "Ἡρακλείδης ὁ Ποντικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/heraclides-of-pontus-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-ii-fve.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-ii-fve.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-ii-fve.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-ii-fve.en.json"
+      }
+    },
+    {
+      "eul_aid": "feg",
+      "name": {
+        "english": "Heraclides of Pontus III",
+        "ancient_greek": "Ἡρακλείδης ὁ Ποντικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/heraclides-of-pontus-iii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-iii-feg.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-iii-feg.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-iii-feg.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-iii-feg.en.json"
+      }
+    },
+    {
+      "eul_aid": "uuk",
+      "name": {
+        "english": "Introduction Platonism Anonymous",
+        "ancient_greek": "Ἀνώνυμος Προλεγόμενα εἰς τὴν Πλατωνικὴν Φιλοσοφίαν"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/anonymous-introduction-to-platonism",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-introduction-to-platonism-uuk.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-introduction-to-platonism-uuk.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-introduction-to-platonism-uuk.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-introduction-to-platonism-uuk.en.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/eudromus-the-philosopher",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eudromus-the-philosopher-nso.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eudromus-the-philosopher-nso.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eudromus-the-philosopher-nso.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eudromus-the-philosopher-nso.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

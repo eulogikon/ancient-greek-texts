@@ -1,0 +1,198 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ttm-aa",
+  "eul_aid": "ttm",
+  "author_slug": "assembly-of-the-birds",
+  "work_slug": "fragments",
+  "url_slug": "assembly-of-the-birds-fragments-ttm-aa",
+  "author": {
+    "english": "Assembly of the Birds",
+    "ancient_greek": "Σύλλογος τῶν Ὀρνέων"
+  },
+  "title": {
+    "english": "Fragments on Birdsong",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ὀρνίθων ᾠδῆς"
+  },
+  "seo": {
+    "browser_title": "Fragments on Birdsong by Assembly of the Birds on Eulogikon",
+    "meta_title": "Fragments on Birdsong by Assembly of the Birds in Greek",
+    "meta_description": "This poetic work explores the melodies and calls of various bird species through surviving verse fragments. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Βυζαντινὴ Ἑλληνική",
+      "english": "Byzantine Greek",
+      "href": "/dialects/byz"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">No record of a work titled <strong>Fragments on Birdsong</strong> attributed to an author or collective named Assembly of the Birds exists in standard scholarly sources. The provided metadata describes it as a verse work, but no substantive details regarding its content, origin, or transmission are attested. The label &quot;Fragments&quot; implies the text survives incompletely, possibly through quotation by a later author, but no such sources or identifiable excerpts are documented. Consequently, the work&#x27;s historical or literary significance cannot be assessed due to the complete absence of corroborating evidence in the extant record.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "unit_1",
+      "text": "... προσίπταν̣[θ’ ὅθ’ ἀηδονίς θηρεύειν ἀκοὴν Δι̣[ός ἀνά〈ρ〉θ̣ρ̣οις μινυρίσμ̣[ασιν μελίχρως ἐδίδαξ[εν. καὶ γὰρ κόσσυφος ἀγ̣[καλεῖ λάβρως εὐκέλαδον̣ [μέλος· φθόγγοις οὖλον ὑπ̣[οκρέκων ἦλθε μουσικὸς ὄρν̣[ις. [ ]λ̣ον̣ ψιθυρο[ ...",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "jni-ac",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "hexameter-papyri-anonymous-epigrams-jni-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hexameter-papyri-anonymous/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-epigrams-jni-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-epigrams-jni-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-epigrams-jni-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-epigrams-jni-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "mdu-ad",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "moschus-of-syracuse-epigrams-mdu-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/moschus-of-syracuse/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-epigrams-mdu-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-epigrams-mdu-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-epigrams-mdu-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-epigrams-mdu-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "cqc-ab",
+      "title": {
+        "english": "Erythraean Fragment of a Paean to Apollo",
+        "ancient_greek": "Ἐρυθραῖον Ἀπόσπασμα Παιᾶνος πρὸς Ἀπόλλωνα"
+      },
+      "url_slug": "paean-collection-anonymous-erythraean-fragment-cqc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/paean-collection-anonymous/erythraean-fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-erythraean-fragment-cqc-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-erythraean-fragment-cqc-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-erythraean-fragment-cqc-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-erythraean-fragment-cqc-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-fragment.epub"
+      }
+    },
+    {
+      "eul_wid": "anc-ab",
+      "title": {
+        "english": "Fragments on Virtue",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀρετῆς"
+      },
+      "url_slug": "sappho-and-alcaeus-fragments-virtue-anc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/sappho-and-alcaeus-fragments/virtue",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-fragments-virtue-anc-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-fragments-virtue-anc-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-fragments-virtue-anc-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-fragments-virtue-anc-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-fragments/virtue.epub"
+      }
+    },
+    {
+      "eul_wid": "sbq-aa",
+      "title": {
+        "english": "Heliodorus to Theodosius the Great-the Mystical Art",
+        "ancient_greek": "Ἡλιοδώρου φιλοσόφου πρὸς Θεοδόσιον τὸν μέγαν"
+      },
+      "url_slug": "heliodorus-the-alchemist-mystical-art-sbq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/heliodorus-the-alchemist/mystical-art",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-alchemist-mystical-art-sbq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-alchemist-mystical-art-sbq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-alchemist-mystical-art-sbq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-alchemist-mystical-art-sbq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-alchemist/mystical-art.epub"
+      }
+    },
+    {
+      "eul_wid": "ick-aa",
+      "title": {
+        "english": "Hymn to Demeter and Persephone",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philicus-of-corcyra-hymn-demeter-persephone-ick-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philicus-of-corcyra/hymn-demeter-persephone",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philicus-of-corcyra-hymn-demeter-persephone-ick-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philicus-of-corcyra-hymn-demeter-persephone-ick-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philicus-of-corcyra-hymn-demeter-persephone-ick-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philicus-of-corcyra-hymn-demeter-persephone-ick-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philicus-of-corcyra/hymn-demeter-persephone.epub"
+      }
+    },
+    {
+      "eul_wid": "jni-aa",
+      "title": {
+        "english": "Miscellanea",
+        "ancient_greek": "Μικτὰ"
+      },
+      "url_slug": "hexameter-papyri-anonymous-miscellanea-jni-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hexameter-papyri-anonymous/miscellanea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-miscellanea-jni-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-miscellanea-jni-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-miscellanea-jni-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-miscellanea-jni-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous/miscellanea.epub"
+      }
+    },
+    {
+      "eul_wid": "aly-aa",
+      "title": {
+        "english": "On Youth and Old Age",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "mimnermus-of-colophon-youth-old-age-aly-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/mimnermus-of-colophon/youth-old-age",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mimnermus-of-colophon-youth-old-age-aly-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mimnermus-of-colophon-youth-old-age-aly-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mimnermus-of-colophon-youth-old-age-aly-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mimnermus-of-colophon-youth-old-age-aly-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mimnermus-of-colophon/youth-old-age.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/assembly-of-the-birds/fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/assembly-of-the-birds-fragments-ttm-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/assembly-of-the-birds-fragments-ttm-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/assembly-of-the-birds-fragments-ttm-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/assembly-of-the-birds-fragments-ttm-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/assembly-of-the-birds/fragments.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

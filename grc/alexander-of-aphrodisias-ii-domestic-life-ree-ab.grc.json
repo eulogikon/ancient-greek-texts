@@ -1,0 +1,277 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ree-ab",
+  "eul_aid": "ree",
+  "author_slug": "alexander-of-aphrodisias-ii",
+  "work_slug": "domestic-life",
+  "url_slug": "alexander-of-aphrodisias-ii-domestic-life-ree-ab",
+  "author": {
+    "english": "Alexander of Aphrodisias II",
+    "ancient_greek": "Ἀλέξανδρος ὁ Ἀφροδισιεύς"
+  },
+  "title": {
+    "english": "Fragments on Domestic Life",
+    "ancient_greek": "Ἀποσπάσματα περὶ Οἰκιακοῦ Βίου"
+  },
+  "seo": {
+    "browser_title": "Fragments of Alexander of Aphrodisias II on Eulogikon",
+    "meta_title": "Fragments on Domestic Life by Alexander Aphrodisias in Greek",
+    "meta_description": "Alexander of Aphrodisias II explores household management and family ethics in Roman philosophical thought. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects (frg)",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Peripatetic",
+      "href": "/affiliations/peripatetic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Domestic Life</strong> is a treatise attributed to the Peripatetic philosopher Alexander of Aphrodisias, who was active in the late second and early third century CE. The work survives only in nine fragmentary passages, and its title suggests a focus on the principles of household management and the ethics of private life, themes consistent with the broader interests of Aristotelian practical philosophy. The extant text includes brief, dialogic exchanges and maxims that touch upon domestic roles and responsibilities. The authenticity of the fragments is uncertain, as the work is not documented in the standard manuscript traditions or listed among Alexander’s securely attested commentaries and treatises. If genuine, it would represent a minor, specialized contribution to his corpus, which is otherwise dominated by influential works on Aristotelian metaphysics, psychology, and fate. The historical influence of these particular fragments is unattested, standing in contrast to the significant impact of Alexander’s major philosophical writings throughout later antiquity and beyond.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "Aip.tit",
+      "text": "ΑΙΠΟΛΟ Ι .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Dio.tit",
+      "text": "ΔΙΟΝΥΣΟ Σ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Hel.tit",
+      "text": "Ἰδοὺ κάτοπτρον· εἰπέ μοι τούτῳ τί χρῇ; ΕΛΕΝ Η .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Pot.tit",
+      "text": "ΠΟΤΟ Σ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Pot.1",
+      "text": "Εἰς αὔριόν με δεῖ λαβεῖν αὐλητρίδα· τραπεζοποιόν, δημιουργὸν λήψομαι· ἐπὶ τοῦτ’ ἀπέστειλ’ ἐξ ἀγροῦ μ’ ὁ δεσπότης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Tig.tit",
+      "text": "ΤΙΓΟΝΙΟ Ν .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Eif.tit",
+      "text": "EX INCERTIS FABULIS.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Eif.1",
+      "text": "Ταμιεῖον ἀρετῆς ἐστι γενναία γυνή.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Eif.2",
+      "text": "Ἦσαν ἄνθρωποι δὲ πέντε καὶ γυναῖκες τέτταρες.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ree-aa",
+      "title": {
+        "english": "Fragments on a Satyr Play",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σατυρικοῦ Δράματος"
+      },
+      "url_slug": "alexander-of-aphrodisias-ii-satyr-play-fragments-ree-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-aphrodisias-ii/satyr-play-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ii-satyr-play-fragments-ree-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ii-satyr-play-fragments-ree-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ii-satyr-play-fragments-ree-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ii-satyr-play-fragments-ree-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ii/satyr-play-fragments.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "hgw-az",
+      "title": {
+        "english": "Dialogic Fragments",
+        "ancient_greek": "Διάφορα Ἀποσπάσματα"
+      },
+      "url_slug": "aristotle-dialogic-fragments-hgw-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/dialogic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-dialogic-fragments-hgw-az.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-dialogic-fragments-hgw-az.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-dialogic-fragments-hgw-az.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-dialogic-fragments-hgw-az.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/dialogic-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "bzo-ac",
+      "title": {
+        "english": "Heracles in the Underworld",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "critias-of-athens-heracles-underworld-bzo-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/critias-of-athens/heracles-underworld",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-heracles-underworld-bzo-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-heracles-underworld-bzo-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-heracles-underworld-bzo-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-heracles-underworld-bzo-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens/heracles-underworld.epub"
+      }
+    },
+    {
+      "eul_wid": "ega-ac",
+      "title": {
+        "english": "Letters to Philip",
+        "ancient_greek": "Ἐπιστολαὶ πρὸς Φίλιππον"
+      },
+      "url_slug": "speusippus-of-athens-letters-philip-ega-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/speusippus-of-athens/letters-philip",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens-letters-philip-ega-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens-letters-philip-ega-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens-letters-philip-ega-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens-letters-philip-ega-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens/letters-philip.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-cv",
+      "title": {
+        "english": "On Isis and Osiris",
+        "ancient_greek": "Περὶ Ἴσιδος και Ὀσίριδος"
+      },
+      "url_slug": "plutarch-of-chaeronea-isis-osiris-okg-cv",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/isis-osiris",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-isis-osiris-okg-cv.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-isis-osiris-okg-cv.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-isis-osiris-okg-cv.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-isis-osiris-okg-cv.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/isis-osiris.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-bh",
+      "title": {
+        "english": "On the World",
+        "ancient_greek": "Περὶ Κόσμου"
+      },
+      "url_slug": "aristotle-world-hgw-bh",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/world",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-world-hgw-bh.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-world-hgw-bh.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-world-hgw-bh.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-world-hgw-bh.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/world.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-ar",
+      "title": {
+        "english": "Paraphrase of On the Soul",
+        "ancient_greek": "Σχόλια εἰς τὰ Ἀριστοτέλους περὶ ψυχῆς"
+      },
+      "url_slug": "themistius-commentary-aristotle-ar-rye-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/commentary-aristotle-ar",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-commentary-aristotle-ar-rye-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-commentary-aristotle-ar-rye-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-commentary-aristotle-ar-rye-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-commentary-aristotle-ar-rye-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/commentary-aristotle-ar.epub"
+      }
+    },
+    {
+      "eul_wid": "oqk-aj",
+      "title": {
+        "english": "Poimandres of Hermes Trismegistus",
+        "ancient_greek": "Ποιμάνδρης"
+      },
+      "url_slug": "hermetica-poimandres-oqk-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/poimandres",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-poimandres-oqk-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-poimandres-oqk-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-poimandres-oqk-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-poimandres-oqk-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/poimandres.epub"
+      }
+    },
+    {
+      "eul_wid": "iso-ao",
+      "title": {
+        "english": "To Zeus",
+        "ancient_greek": "εἰς Δία"
+      },
+      "url_slug": "callimachus-of-cyrene-to-zeus-iso-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/to-zeus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-zeus-iso-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-zeus-iso-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-zeus-iso-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-zeus-iso-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/to-zeus.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/alexander-of-aphrodisias-ii/domestic-life",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ii-domestic-life-ree-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ii-domestic-life-ree-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ii-domestic-life-ree-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ii-domestic-life-ree-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ii/domestic-life.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

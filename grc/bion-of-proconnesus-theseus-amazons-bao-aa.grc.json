@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "bao-aa",
+  "eul_aid": "bao",
+  "author_slug": "bion-of-proconnesus",
+  "work_slug": "theseus-amazons",
+  "url_slug": "bion-of-proconnesus-theseus-amazons-bao-aa",
+  "author": {
+    "english": "Bion of Proconnesus",
+    "ancient_greek": "Βίων ὁ Προκοννήσιος"
+  },
+  "title": {
+    "english": "Fragments on Theseus and Amazons",
+    "ancient_greek": "Ἀποσπάσματα περὶ Θησέως καὶ Ἀμαζόνων"
+  },
+  "seo": {
+    "browser_title": "Fragments Bion Proconnesus on Theseus and Amazons eulogikon",
+    "meta_title": "Fragments Bion of Procnesus Theseus and Amazs in Greek ",
+    "meta_description": "Surviving fragments by Bion of Proconnesus on Theseus and the Amazons. A historical prose account Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Theseus and Amazons</strong> is a lost prose work attributed to Bion of Proconnesus. Its existence is known only by title, with no direct quotations or content preserved in the surviving literary record. The author remains obscure; a namesake, Bion of Proconnesus, is mentioned by Diogenes Laertius as a sixth-century BCE soothsayer, but he is not otherwise associated with literary composition. Judging from its title, the work treated the mythological conflict between the Athenian hero Theseus and the Amazons, a theme central to Athenian civic myth that celebrated the triumph of Greek civilization over barbarism. The work is completely lost, with no manuscript tradition or identifiable fragments. If authentic, it would represent an early example of prose mythography, but its content, transmission, and influence remain entirely undocumented.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Plutarch. Thes. c. 26: ὕστερον φασὶν Ἡρακλέους ἰδιόστολον πλεῦσαι τὸν Θησέα, καὶ τὴν Ἀμαζόνα λαβεῖν αἰχμάλωτον, πιθανώτερα λέγοντες. Βίων δὲ ... καὶ ταύ την παρακρουσάμενον οἴχεσθαι λαβόντα· φύσει γὰρ οὔσας τὰς Ἀμαζόνας φιλάνδρους, οὔτε φυγεῖν τὸν Θησέα προσβαλόντα τῇ χώρᾳ, ἀλλὰ καὶ ξένια πέμπειν· τὸν δὲ τὴν κομίζουσαν ἐμβῆναι παρακαλεῖν εἰς τὸ πλοῖον· ἐμβάσης δὲ, ἀναχθῆναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Athenaeus II: Ἔστι δὲ ἡ κρήνη, ὥς φησι Βίων, μέση Μαίδων καὶ Παιόνων, Ἴννα καλουμένη.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "mmg-aw",
+      "title": {
+        "english": "Eupatridae Ancestry",
+        "ancient_greek": "Εὐπατριδῶν πάτρια"
+      },
+      "url_slug": "historical-fragments-anonymous-eupatridae-mmg-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/eupatridae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-eupatridae-mmg-aw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-eupatridae-mmg-aw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-eupatridae-mmg-aw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-eupatridae-mmg-aw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/eupatridae.epub"
+      }
+    },
+    {
+      "eul_wid": "drk-aa",
+      "title": {
+        "english": "Fragments of Sicilian Histories",
+        "ancient_greek": "Ἀποσπάσματα τῶν Σικελικῶν Ἱστοριῶν"
+      },
+      "url_slug": "philistus-of-syracuse-sicilian-histories-drk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philistus-of-syracuse/sicilian-histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philistus-of-syracuse-sicilian-histories-drk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philistus-of-syracuse-sicilian-histories-drk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philistus-of-syracuse-sicilian-histories-drk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philistus-of-syracuse-sicilian-histories-drk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philistus-of-syracuse/sicilian-histories.epub"
+      }
+    },
+    {
+      "eul_wid": "ecy-ae",
+      "title": {
+        "english": "Fragments on Ephesian Campaign",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἐφεσιακῆς Στρατείας"
+      },
+      "url_slug": "hellenica-anon-ephesian-campaign-ecy-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/hellenica-anon/ephesian-campaign",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-ephesian-campaign-ecy-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-ephesian-campaign-ecy-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-ephesian-campaign-ecy-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-ephesian-campaign-ecy-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon/ephesian-campaign.epub"
+      }
+    },
+    {
+      "eul_wid": "hoo-aa",
+      "title": {
+        "english": "Fragments on the Diadochoi",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Διαδόχων"
+      },
+      "url_slug": "hieronymus-of-cardia-diadochoi-hoo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hieronymus-of-cardia/diadochoi",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hieronymus-of-cardia-diadochoi-hoo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hieronymus-of-cardia-diadochoi-hoo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hieronymus-of-cardia-diadochoi-hoo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hieronymus-of-cardia-diadochoi-hoo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hieronymus-of-cardia/diadochoi.epub"
+      }
+    },
+    {
+      "eul_wid": "qzy-aa",
+      "title": {
+        "english": "From the Death of Divine Marcus",
+        "ancient_greek": "Ἀπὸ τοῦ θανάτου τοῦ θεῖου Μάρκου"
+      },
+      "url_slug": "herodian-of-antioch-death-marcus-qzy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-antioch/death-marcus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-antioch-death-marcus-qzy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-antioch-death-marcus-qzy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-antioch-death-marcus-qzy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-antioch-death-marcus-qzy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-antioch/death-marcus.epub"
+      }
+    },
+    {
+      "eul_wid": "pdc-ae",
+      "title": {
+        "english": "From the Saunitic",
+        "ancient_greek": "ἐκ τῆς Σαυνιτικῆς"
+      },
+      "url_slug": "appian-of-alexandria-saunitic-pdc-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/saunitic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-saunitic-pdc-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-saunitic-pdc-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-saunitic-pdc-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-saunitic-pdc-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/saunitic.epub"
+      }
+    },
+    {
+      "eul_wid": "gea-aa",
+      "title": {
+        "english": "On the Daphne Festivals",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "protagorides-the-historian-daphne-festivals-gea-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/protagorides-the-historian/daphne-festivals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagorides-the-historian-daphne-festivals-gea-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagorides-the-historian-daphne-festivals-gea-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagorides-the-historian-daphne-festivals-gea-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagorides-the-historian-daphne-festivals-gea-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagorides-the-historian/daphne-festivals.epub"
+      }
+    },
+    {
+      "eul_wid": "ezq-ae",
+      "title": {
+        "english": "Ways and Means",
+        "ancient_greek": "Πόροι ἢ Περὶ Προσόδων"
+      },
+      "url_slug": "xenophon-of-athens-ways-means-ezq-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/ways-means",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-ways-means-ezq-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-ways-means-ezq-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-ways-means-ezq-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-ways-means-ezq-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/ways-means.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/bion-of-proconnesus/theseus-amazons",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-proconnesus-theseus-amazons-bao-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-proconnesus-theseus-amazons-bao-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-proconnesus-theseus-amazons-bao-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-proconnesus-theseus-amazons-bao-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-proconnesus/theseus-amazons.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

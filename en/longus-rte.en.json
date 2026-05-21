@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "rte",
+  "auth_slug": "longus",
+  "name": {
+    "english": "Longus the Novelist",
+    "ancient_greek": "Λόγγος ὁ μυθιστοριογράφος"
+  },
+  "seo_h1": "Daphnis and Chloe by Longus the Novelist",
+  "seo": {
+    "browser_title": "Longus the Ancient Greek Novelist on Eulogikon Greek Archive",
+    "meta_title": "Longus Ancient Greek Pastoral Romance Author Works",
+    "meta_description": "Longus, Roman era novelist of the 2nd-3rd century CE. Author of the pastoral romance Daphnis and Chloe. Free to read and download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Μυθιστορία",
+      "english": "Fiction",
+      "href": "/domains/fiction"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Longus is known only as the author of the Greek novel <strong>Daphnis and Chloe</strong>. Stylistic analysis places him in the late 2nd or early 3rd century CE, within the cultural context of the Second Sophistic. The pastoral setting on Lesbos suggests possible familiarity with the region, though this remains speculative.</p>\n<p class=\"research-text\">His sole surviving work is the prose novel <strong>Daphnis and Chloe</strong>, written in four books in an Atticizing dialect. Longus authored one of the five complete ancient Greek novels. <strong>Daphnis and Chloe</strong> is distinctive for its pastoral idealization and focus on innocent, natural love. A key example of Second Sophistic prose revival, its depiction of erotic development and rural life profoundly influenced later European literature, opera, and ballet.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "rte-aa",
+      "title": {
+        "english": "Daphnis and Chloe",
+        "ancient_greek": "Δάφνις καὶ Χλόη"
+      },
+      "url_slug": "longus-daphnis-chloe-rte-aa",
+      "passages": 146,
+      "links": {
+        "html": "https://eulogikon.org/grc/longus/daphnis-chloe",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/longus-daphnis-chloe-rte-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/longus-daphnis-chloe-rte-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/longus-daphnis-chloe-rte-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/longus-daphnis-chloe-rte-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/longus/daphnis-chloe.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/longus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/longus-rte.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/longus-rte.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/longus-rte.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/longus-rte.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

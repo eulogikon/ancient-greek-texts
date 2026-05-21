@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "lyu",
+  "auth_slug": "gaius-acilius-the-historian",
+  "name": {
+    "english": "Gaius Acilius the Historian",
+    "ancient_greek": "Γάϊος Ἀκίλιος ὁ Ἱστορικός"
+  },
+  "seo_h1": "Gaius Acilius the Historian on the Rise of Rome",
+  "seo": {
+    "browser_title": "Gaius Acilius the Historian on Eulogikon Greek Archive",
+    "meta_title": "Gaius Acilius Ancient Greek Historical Works Archive",
+    "meta_description": "Gaius Acilius, a 2nd century BCE Hellenistic historian. Surviving works include historical treatises. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Gaius Acilius was a Roman senator and historian of the 2nd century BCE. He is known for having served as interpreter for the Athenian philosophers Carneades, Diogenes the Stoic, and Critolaus during their influential embassy to Rome in 155 BCE, demonstrating his fluency in Greek. He authored a history of Rome in Greek, which he dedicated to the historian Polybius.</p>\n<p class=\"research-text\">His only known work is the Annales, a now-lost history of Rome written in Greek, covering events from the city&#x27;s origins to at least 184 BCE. It was later translated into Latin, possibly by Claudius Quadrigarius.</p>\n<p class=\"research-text\">Acilius represents the early Roman adoption of Greek historiography. His role in the 155 BCE embassy placed him at a key moment of philosophical transmission to Rome. His history, used as a source by later historians like Livy, underscores his role in Greco-Roman intellectual exchange.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "lyu-aa",
+      "title": {
+        "english": "Fragments on Early Roman History",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς πρώτης Ῥωμαϊκῆς ἱστορίας"
+      },
+      "url_slug": "gaius-acilius-the-historian-early-roman-history-lyu-aa",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/gaius-acilius-the-historian/early-roman-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-acilius-the-historian-early-roman-history-lyu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-acilius-the-historian-early-roman-history-lyu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-acilius-the-historian-early-roman-history-lyu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-acilius-the-historian-early-roman-history-lyu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-acilius-the-historian/early-roman-history.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/gaius-acilius-the-historian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/gaius-acilius-the-historian-lyu.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/gaius-acilius-the-historian-lyu.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/gaius-acilius-the-historian-lyu.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/gaius-acilius-the-historian-lyu.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

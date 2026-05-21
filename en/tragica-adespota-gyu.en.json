@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "gyu",
+  "auth_slug": "tragica-adespota",
+  "name": {
+    "english": "Tragica Adespota",
+    "ancient_greek": "Τραγικὰ Ἀδέσποτα"
+  },
+  "seo_h1": "Justice and Lament in the Tragica Adespota",
+  "seo": {
+    "browser_title": "Tragica Adespota Anonymous Tragedies Eulogikon Greek Archive",
+    "meta_title": "Ancient Tragica Adespota Anonymous Greek Tragic Fragments",
+    "meta_description": "Tragica Adespota are anonymous fragments of Greek tragedy. Surviving unattributed tragic verse. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects (frg)",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Δρᾶμα",
+      "english": "Drama",
+      "href": "/domains/drama"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Tragica Adespota is a collective term for anonymous fragments of Greek tragedy, not an individual author. These fragments, for which no playwright can be securely identified, survive through quotations in other ancient authors, on papyri, or as indirect references. Their chronological range spans from the 6th century BCE through the Roman era to around the 3rd century CE. The study of these fragments is a scholarly subfield dedicated to reconstructing the history of tragedy beyond the works of Aeschylus, Sophocles, and Euripides.</p>\n<p class=\"research-text\">The fragments are innumerable and are collected and numbered in modern scholarly editions like the Tragicorum Graecorum Fragmenta series. They are categorized by source, such as papyrus fragments or quotations. Representative examples include a papyrus fragment possibly from a play about Bellerophon and numerous short quotations preserved by authors like Stobaeus. All remains are fragmentary.</p>\n<p class=\"research-text\">These fragments are historically significant for understanding the breadth and development of Greek tragedy. They testify to a vastly larger corpus of tragic drama than what survives intact, illustrating the genre’s popularity and thematic variety over centuries. They provide crucial evidence for lost mythological treatments, stylistic evolution, and the reception of tragedy, helping to correct the skewed picture presented by the small percentage of complete surviving plays.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 3,
+  "works": [
+    {
+      "eul_wid": "gyu-ab",
+      "title": {
+        "english": "Fragments of Tragic Justice",
+        "ancient_greek": "Ἀποσπάσματα περὶ Τραγικῆς Δίκης"
+      },
+      "url_slug": "tragica-adespota-justice-fragments-gyu-ab",
+      "passages": 167,
+      "links": {
+        "html": "https://eulogikon.org/grc/tragica-adespota/justice-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota-justice-fragments-gyu-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota-justice-fragments-gyu-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota-justice-fragments-gyu-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota-justice-fragments-gyu-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota/justice-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "gyu-aa",
+      "title": {
+        "english": "Fragments of Tragic Lament",
+        "ancient_greek": "Ἀποσπάσματα Θρήνων Τραγικῶν"
+      },
+      "url_slug": "tragica-adespota-lament-gyu-aa",
+      "passages": 992,
+      "links": {
+        "html": "https://eulogikon.org/grc/tragica-adespota/lament",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota-lament-gyu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota-lament-gyu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota-lament-gyu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota-lament-gyu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota/lament.epub"
+      }
+    },
+    {
+      "eul_wid": "gyu-ac",
+      "title": {
+        "english": "Fragments on Divine Justice",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δικαιοσύνης Θείας"
+      },
+      "url_slug": "tragica-adespota-divine-justice-gyu-ac",
+      "passages": 1658,
+      "links": {
+        "html": "https://eulogikon.org/grc/tragica-adespota/divine-justice",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota-divine-justice-gyu-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota-divine-justice-gyu-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota-divine-justice-gyu-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota-divine-justice-gyu-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota/divine-justice.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/tragica-adespota",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/tragica-adespota-gyu.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/tragica-adespota-gyu.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/tragica-adespota-gyu.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/tragica-adespota-gyu.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

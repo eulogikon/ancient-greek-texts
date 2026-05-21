@@ -1,0 +1,410 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "lcw-ad",
+  "eul_aid": "lcw",
+  "author_slug": "nicander-of-colophon",
+  "work_slug": "trojan-cycle",
+  "url_slug": "nicander-of-colophon-trojan-cycle-lcw-ad",
+  "author": {
+    "english": "Nicander of Colophon",
+    "ancient_greek": "Νίκανδρος ὁ Κολοφώνιος"
+  },
+  "title": {
+    "english": "Fragments on the Trojan Cycle",
+    "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Τρωικοῦ Κύκλου"
+  },
+  "seo": {
+    "browser_title": "Fragments Trojan Cycle by Nicander of Colophon on Eulogikon",
+    "meta_title": "Fragments of Nicander of Colophon in Ancient Greek",
+    "meta_description": "Surviving fragments of Nicander's lost epic on the Trojan War. Hellenistic verse in hexameter. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on the Trojan Cycle</strong> is a lost epic poem by the Hellenistic poet Nicander of Colophon, who was active in the 2nd century BCE. Composed in dactylic hexameter, the work treated episodes from the broader mythology of the Trojan War, encompassing events that preceded and followed the narrative of Homer’s <strong>Iliad</strong>. The poem survives only in a fragmentary state, with 22 passages preserved primarily in ancient Homeric commentaries and other scholarly sources. These fragments prevent a full reconstruction of the original work’s structure or total length.</p>\n<p class=\"research-text\">The extant portions illustrate Nicander’s method of expanding and systematizing legendary material. One fragment details the origins of the sea monsters that attack the Trojan priest Laocoön, tracing them to serpents nurtured by the Thymbraean Apollo. Another describes the deceptive construction of the Trojan Horse, likening its planks to the handle of an axe. Modern scholarship interprets the work as a characteristic product of Hellenistic mythographic poetry, which blended artistic form with a scholarly impulse to catalog and elaborate upon traditional stories. It was likely composed for a literate audience well-versed in the Homeric epics, offering them refined and often esoteric variations on familiar myths. This poetic endeavor aligns with Nicander’s broader literary output, which also included highly technical didactic poems on subjects such as toxicology and agriculture.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 562?.1",
+      "text": "Ἶλος δ’ ἀφραδίη[ισι λόφον] περιδώμεεν Ἄτης, ὃς δὴ Λαομέδον[τι κακορ]ρέκτηι λίπε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 562?.2",
+      "text": "τιμήν, ὃς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 562?.3",
+      "text": "πρῶτος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 562?.4",
+      "text": "ψυθί[οισι θεοὺς] ληΐσσατο μύθοις, εὖτε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 562?.5",
+      "text": "Ποσειδάων[........]μαδας ἀμφὶ κολώνας[ln_5]λαΐνεον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 562?.6",
+      "text": "πυ̣[........] κ̣αρτύνατο χώ̣ρου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 562?.7",
+      "text": "Φοῖβος δ’ ι[ [ ]σχεδε[.] ἤλασε κῆτος πάντα δελ̣η[..........] καταχνύεσκε δὲ λαούς θηρείου δορ.[......]λος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 562?.8",
+      "text": "προκρίνατο πάσας,[ln_10]αὐτὰρ ὁ Θυμβρα[ῖος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 562?.9",
+      "text": "τοὺς] ἃλς ἔθρεψε δράκοντας, Πόρκην κα[ὶ Χαρίβοι]αν, ὅτε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 562?.10",
+      "text": "προλιπόντε Καλύδνας υἱέ[α Λαοκόωντος] ὑπὲρ βωμῶν ἐπάσαντο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 563?.1",
+      "text": "δήεις καὶ σκυ]τάλην ἐναλίγκιον ἀμφισφα[ίνηι εἶδος, ἀτὰρ[ln_10]πάχε]τός",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 563?.2",
+      "text": "τε καὶ οὐτιδανὴν ἐπὶ σε[ιρὴν μάσσον’, ἐπεὶ σκυτά‐ λης μ]ὲν ὅσον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 563?.3",
+      "text": "σμινύοιο τέτυκτα[ι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 563?.4",
+      "text": "στειλειὸν πάχετος, τῆς] δ’ ἕλμινθος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 563?.5",
+      "text": "πλέει ὄγκος, ἠ[ὲ καὶ ἔντερα γῆς οἷα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 563?.6",
+      "text": "τρέφει ὄμ]βριος αἶα. μαθήσει καὶ σκυτά[λην [para]τῆι ἀμφισφαίνηι. παχυτέρα μέ[ντοι[ln_15]τῆς ἀμφισφαίνης. ἐκείνην γὰ[ρ ἕλμινθι τῶι πάχει ἢ γῆς ἐντέρωι, τὴ̣[ν δὲ σκαφείου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 563?.7",
+      "text": "στελεῶι. σμινύη γὰρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 563?.8",
+      "text": "σκαφ[εῖον δαντον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 563?.9",
+      "text": "σμινύην πέλεκυν με[ c. 20 ..]λ’ ἄρ’ ἀπὸ σμινύης εκτη[ c. 20[ln_20]φ]ωνεῖ δὲ ἑαυτῶι ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 563?.10",
+      "text": "τουτ[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 563A?.1",
+      "text": "[ ]..ον̣ ἁλὸς ἐνπληθέα κυμ‐ βην κα]ὶ πάλιν· ἐν μὲν γὰρ μίσυος[ln_15][ μ]ε̣τ̣αβαλλ̣ό̣μ̣ε̣ν̣ο̣ς̣ συν [ ]μ̣β̣ι̣α",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 563A?.2",
+      "text": "περιπλήθοντα ῥοάων [ ]ν̣ι̣ο̣..λ.ντο̣ν̣ κύμβον",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "lcw-ab",
+      "title": {
+        "english": "Alexipharmaca",
+        "ancient_greek": "Αλεξιφάρμακα"
+      },
+      "url_slug": "nicander-of-colophon-alexipharmaca-lcw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicander-of-colophon/alexipharmaca",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon-alexipharmaca-lcw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon-alexipharmaca-lcw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon-alexipharmaca-lcw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon-alexipharmaca-lcw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon/alexipharmaca.epub"
+      }
+    },
+    {
+      "eul_wid": "lcw-ae",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "nicander-of-colophon-epigrams-lcw-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicander-of-colophon/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon-epigrams-lcw-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon-epigrams-lcw-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon-epigrams-lcw-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon-epigrams-lcw-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "lcw-ac",
+      "title": {
+        "english": "Fragments on Sea and Nature",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θαλάσσης καὶ Φύσεως"
+      },
+      "url_slug": "nicander-of-colophon-sea-nature-lcw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicander-of-colophon/sea-nature",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon-sea-nature-lcw-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon-sea-nature-lcw-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon-sea-nature-lcw-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon-sea-nature-lcw-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon/sea-nature.epub"
+      }
+    },
+    {
+      "eul_wid": "lcw-aa",
+      "title": {
+        "english": "On Wild Animals",
+        "ancient_greek": "Θηριακά"
+      },
+      "url_slug": "nicander-of-colophon-wild-animals-lcw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicander-of-colophon/wild-animals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon-wild-animals-lcw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon-wild-animals-lcw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon-wild-animals-lcw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon-wild-animals-lcw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon/wild-animals.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "apu-aa",
+      "title": {
+        "english": "Addenda to Fragments",
+        "ancient_greek": "Προσθήκαι εἰς τὰ Ἀποσπάσματα"
+      },
+      "url_slug": "sappho-of-lesbos-addenda-apu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sappho-of-lesbos/addenda",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-addenda-apu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-addenda-apu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-addenda-apu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-addenda-apu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos/addenda.epub"
+      }
+    },
+    {
+      "eul_wid": "mje-aa",
+      "title": {
+        "english": "Battle of Frogs and Mice, Byzantine Prosody",
+        "ancient_greek": "Βατραχομυομαχία"
+      },
+      "url_slug": "parodist-anon-frogs-mice-aa-mje-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/parodist-anon/frogs-mice-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-aa-mje-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-aa-mje-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-aa-mje-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-aa-mje-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon/frogs-mice-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "gay-aa",
+      "title": {
+        "english": "Fragments of a Maenadic Plea",
+        "ancient_greek": "Ἀποσπάσματα Μαινάδος Ἐντεύξεως"
+      },
+      "url_slug": "peirazomene-anon-maenadic-plea-gay-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/peirazomene-anon/maenadic-plea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peirazomene-anon-maenadic-plea-gay-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peirazomene-anon-maenadic-plea-gay-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peirazomene-anon-maenadic-plea-gay-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peirazomene-anon-maenadic-plea-gay-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peirazomene-anon/maenadic-plea.epub"
+      }
+    },
+    {
+      "eul_wid": "gao-aa",
+      "title": {
+        "english": "Fragments on Divine Vision",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θείας Ὄψεως"
+      },
+      "url_slug": "menophilus-the-poet-divine-vision-gao-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/menophilus-the-poet/divine-vision",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menophilus-the-poet-divine-vision-gao-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menophilus-the-poet-divine-vision-gao-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menophilus-the-poet-divine-vision-gao-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menophilus-the-poet-divine-vision-gao-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menophilus-the-poet/divine-vision.epub"
+      }
+    },
+    {
+      "eul_wid": "boa-ae",
+      "title": {
+        "english": "Fragments on Melicertes and Heroes",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μελικέρτου καὶ Ἡρώων"
+      },
+      "url_slug": "pindar-melicertes-heroes-boa-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/pindar/melicertes-heroes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-melicertes-heroes-boa-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-melicertes-heroes-boa-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-melicertes-heroes-boa-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-melicertes-heroes-boa-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar/melicertes-heroes.epub"
+      }
+    },
+    {
+      "eul_wid": "jni-ab",
+      "title": {
+        "english": "Hexameters",
+        "ancient_greek": "Ἑξάμετροι"
+      },
+      "url_slug": "hexameter-papyri-anonymous-text-jni-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hexameter-papyri-anonymous/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-text-jni-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-text-jni-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-text-jni-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-text-jni-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous/text.epub"
+      }
+    },
+    {
+      "eul_wid": "upu-aa",
+      "title": {
+        "english": "Hymn 15 To Heracles",
+        "ancient_greek": "Ὕμνος εἰς Ἡρακλέα τὸν λέοντα"
+      },
+      "url_slug": "homeric-hymns-anonymous-hercules-upu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/hercules",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-hercules-upu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-hercules-upu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-hercules-upu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-hercules-upu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hercules.epub"
+      }
+    },
+    {
+      "eul_wid": "cwg-aa",
+      "title": {
+        "english": "Sympotic Verses for Dionysius",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dionysius-the-brazen-sympotic-verses-cwg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-the-brazen/sympotic-verses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-brazen-sympotic-verses-cwg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-brazen-sympotic-verses-cwg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-brazen-sympotic-verses-cwg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-brazen-sympotic-verses-cwg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-brazen/sympotic-verses.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/nicander-of-colophon/trojan-cycle",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon-trojan-cycle-lcw-ad.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon-trojan-cycle-lcw-ad.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon-trojan-cycle-lcw-ad.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon-trojan-cycle-lcw-ad.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon/trojan-cycle.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

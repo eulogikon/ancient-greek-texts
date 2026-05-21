@@ -1,0 +1,417 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "bky-aa",
+  "eul_aid": "bky",
+  "author_slug": "heraclitus-of-ephesus",
+  "work_slug": "testimonies",
+  "url_slug": "heraclitus-of-ephesus-testimonies-bky-aa",
+  "author": {
+    "english": "Heraclitus of Ephesus",
+    "ancient_greek": "Ἡράκλειτος ὁ Ἐφέσιος"
+  },
+  "title": {
+    "english": "Testimonies",
+    "ancient_greek": "Μαρτυρίαι"
+  },
+  "seo": {
+    "browser_title": "Testimonies of Heraclitus of Ephesus on Eulogikon Archive",
+    "meta_title": "Testimonies by Heraclitus of Ephesus in Ancient Greek",
+    "meta_description": "Testimonies about the philosopher Heraclitus of Ephesus. Collection of philosophical doctrine and biographical Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects (frg)",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Presocratic",
+      "href": "/affiliations/presocratic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Testimonies for Heraclitus of Ephesus refer not to an ancient work but to the modern scholarly compilation of ancient reports about the philosopher. These testimonia, systematically organized as the &quot;A&quot; section in the standard Diels-Kranz edition, <strong>Die Fragmente der Vorsokratiker</strong>, consist of accounts and discussions by later authors, distinct from the surviving direct quotations of Heraclitus&#x27;s own words. They address the major themes for which he was known in antiquity, including the concept of the Logos as the governing principle of the universe, the unity and interdependence of opposites, the doctrine of universal flux encapsulated in the idea that everything flows, the notion of ever-living fire as a primary substance symbolizing perpetual change, and theories concerning cosmic cycles of destruction and rebirth.</p>\n<p class=\"research-text\">The original writings of Heraclitus survive only as fragments quoted by others. The testimonia themselves are preserved indirectly within the manuscript traditions of later Greek and Roman authors such as Plato, Aristotle, Plutarch, and Diogenes Laertius. These reports constituted the primary vehicle for Heraclitus&#x27;s posthumous influence. His ideas critically shaped the development of Stoic physics, were extensively debated by Plato and Aristotle, and, through subsequent Neoplatonic and Christian writers, his concept of the Logos made a significant contribution to philosophical theology.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "DIOG. IX 1—17. (1) Ἡράκλειτος Βλόσωνος ἤ, ὥς τινες, Ἡράκωντος Ἐφέσιος. οὗτος ἤκμαζε μὲν κατὰ τὴν ἐνάτην καὶ ἑξηκοστὴν ὀλυμπιάδα [504—501]. μεγαλόφρων δὲ γέγονε παρ’ ὁντιναοῦν καὶ ὑπερόπτης, ὡς καὶ ἐκ τοῦ συγγράμματος αὐτοῦ δῆλον, ἐν ὧι φησι ‘ πολυμαθίη .. . Ἑκαταῖον ‘ [B 40]. εἶναι γὰρ ‘ ἓν τὸ σοφὸν .. . πάντων ‘ [B 41]. ‘ τόν ‘ τε ‘ Ὅμηρον ‘ ἔφασκεν ... ‘ ὁμοίωσ ‘ [B 42]. (2) ἔλεγε δὲ καὶ ‘ ὕβριν .. . πυρκαϊήν ‘ [B 43] καὶ ‘ μάχεσθαι .. . τείχεοσ ‘ [B 44]. καθάπτεται δὲ καὶ τῶν Ἐφεσίων ἐπὶ τῶι τὸν ἑταῖρον ἐκβαλεῖν Ἑρμόδωρον, ἐν οἷς φησιν· ‘ ἄξιον .. . με τ ’ ἄλλων ‘ [B 121]. ἀξιούμενος δὲ καὶ νόμους θεῖναι πρὸς αὐτῶν ὑπερεῖδε διὰ τὸ ἤδη κεκρατῆσθαι τῆι πονηρᾶι πολιτείαι τὴν πόλιν. (3) ἀναχωρήσας δὲ εἰς τὸ ἱερὸν τῆς Ἀρτέμιδος μετὰ τῶν παίδων ἠστραγάλιζεν· περιστάντων δ’ αὐτὸν τῶν Ἐφεσίων, ‘τί, ὦ κάκιστοι, θαυμάζετε;‘ εἶπεν· ‘ἢ οὐ κρεῖττον τοῦτο ποιεῖν ἢ μεθ’ ὑμῶν πολιτεύεσθαι;‘ καὶ τέλος μισανθρωπήσας καὶ ἐκπατήσας ἐν τοῖς ὄρεσι διηιτᾶτο, πόας σιτούμενος καὶ βοτάνας. καὶ μέντοι καὶ διὰ τοῦτο περιτραπεὶς εἰς ὕδερον κατῆλθεν εἰς ἄστυ καὶ τῶν ἰατρῶν αἰνιγματωδῶς ἐπυνθάνετο, εἰ δύναιντο ἐξ ἐπομβρίας αὐχμὸν ποιῆσαι· τῶν δὲ μὴ συνιέντων, αὑτὸν εἰς βούστασιν κατορύξας τῆι τῶν βολίτων ἀλέαι ἤλπισεν ἐξατμισθήσεσθαι. οὐδὲν δὲ ἀνύων οὐδ’ οὕτως ἐτελεύτα βιοὺς ἔτη ἑξήκοντα. (4) Ἕρμιππος [FHG III 42 fr. 28] δέ φησι λέγειν αὐτὸν τοῖς ἰατροῖς, εἴ τις δύναται τὰ ἔντερα κεινώσας 〈τὸ〉 ὑγρὸν ἐξερᾶσαι· ἀπειπόντων δὲ θεῖναι αὑτὸν εἰς τὸν ἥλιον καὶ κελεύειν τοὺς παῖδας βολίτοις καταπλάττειν· οὕτω δὴ κατατεινόμενον δευτεραῖον τελευτῆσαι καὶ θαφθῆναι ἐν τῆι ἀγορᾶι. Νεάνθης δ’ ὁ Κυζικηνός [FGrHist. 84 F 25 II 197] φησι μὴ δυνηθέντα αὐτὸν ἀποσπάσαι τὰ βόλιτα μεῖναι καὶ διὰ τὴν μεταβολὴν ἀγνοηθέντα κυνόβρωτον γενέσθαι. (5) γέγονε δὲ θαυμάσιος ἐκ παίδων, ὅτε καὶ νέος ὢν ἔφασκε μηδὲν εἰδέναι, τέλειος μέντοι γενόμενος πάντα ἐγνωκέναι. ἤκουσέ τε οὐδενός, ἀλλ’ αὑτὸν ἔφη διζήσασθαι [B 101] καὶ μαθεῖν πάντα παρ’ ἑαυτοῦ. Σωτίων δέ φησιν εἰρηκέναι τινὰς Ξενοφάνους αὐτὸν ἀκηκοέναι· λέγειν τε Ἀρίστωνα ἐν τῶι Περὶ Ἡρακλείτου καὶ τὸν ὕδερον αὐτὸν θεραπευθῆναι, ἀποθανεῖν δ’ ἄλληι νόσωι· τοῦτο δὲ καὶ Ἱππόβοτός φησι. τὸ δὲ φερόμενον αὐτοῦ βιβλίον ἐστὶ μὲν ἀπὸ τοῦ συνέχοντος Περὶ φύσεως, διήιρηται δὲ εἰς τρεῖς λόγους, εἴς τε τὸν περὶ τοῦ παντὸς καὶ πολιτικὸν καὶ θεολογικόν. (6) ἀνέθηκε δ’ αὐτὸ εἰς τὸ τῆς Ἀρτέμιδος ἱερόν, ὡς μέν τινες, ἐπιτηδεύσας ἀσαφέστερον γράψαι, ὅπως οἱ δυνάμενοι 〈μόνοι〉 προσίοιεν αὐτῶι καὶ μὴ ἐκ τοῦ δημώδους εὐκαταφρόνητον ἦι. τοῦτον δὲ καὶ ὁ Τίμων [fr. 43 D.] ὑπογράφει λέγων· ‘τοῖς δ’ ἔνι κοκκυστὴς ὀχλολοίδορος Ἡράκλειτος αἰνικτὴς ἀνόρουσε‘. Θεόφραστος δέ φησιν ὑπὸ μελαγχολίας τὰ μὲν ἡμιτελῆ, τὰ δὲ ἄλλοτε ἄλλως ἔχοντα γράψαι. σημεῖον δ’ αὐτοῦ τῆς μεγαλοφροσύνης Ἀντισθένης φησὶν ἐν Διαδοχαῖς [FHG III 182 * ]· ἐκχωρῆσαι γὰρ τἀδελφῶι τῆς βασιλείας. τοσαύτην δὲ δόξαν ἔσχε τὸ σύγγραμμα, ὡς καὶ αἱρετιστὰς ἀπ’ αὐτοῦ γενέσθαι τοὺς κληθέντας Ἡρακλειτείους. (7) ἐδόκει δὲ αὐτῶι καθολικῶς μὲν τάδε· ἐκ πυρὸς τὰ πάντα συνεστάναι καὶ εἰς τοῦτο ἀναλύεσθαι· πάντα δὲ γίνεσθαι καθ’ εἱμαρμένην καὶ διὰ τῆς ἐναντιοτροπῆς ἡρμόσθαι τὰ ὄντα· καὶ πάντα ψυχῶν εἶναι καὶ δαιμόνων πλήρη. εἴρηκε δὲ καὶ περὶ τῶν ἐν κόσμωι συνισταμένων πάντων παθῶν, ὅτι τε ὁ ἥλιός ἐστι τὸ μέγεθος οἷος φαίνεται. (λέγεται δὲ καί· ‘ ψυχῆς .. . ἔχει ‘ [B 45]. τήν τε οἴησιν ἱερὰν νόσον [B 46] ἔλεγε καὶ τὴν ὅρασιν ψεύδεσθαι. λαμπρῶς τε ἐνίοτε ἐν τῶι συγγράμματι καὶ σαφῶς ἐκβάλλει, ὥστε καὶ τὸν νωθέστατον ῥαιδίως γνῶναι καὶ δίαρμα ψυχῆς λαβεῖν· ἥ τε βραχύτης καὶ τὸ βάρος τῆς ἑρμηνείας ἀσύγκριτον.) (8) καὶ τὰ ἐπὶ μέρους δὲ αὐτῶι ὧδ’ ἔχει τῶν δογμάτων· πῦρ εἶναι στοιχεῖον καὶ πυρὸς ἀμοιβὴν τὰ πάντα [B 90], ἀραιώσει καὶ πυκνώσει [τὰ] γινόμενα· σαφῶς δὲ οὐδὲν ἐκτίθεται. γίνεσθαί τε πάντα κατ’ ἐναντιότητα καὶ ῥεῖν τὰ ὅλα ποταμοῦ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 (50)",
+      "text": "δίκην [vgl. B 12. 91], πεπεράνθαι τε τὸ πᾶν καὶ ἕνα εἶναι κόσμον· γεννᾶσθαί τε αὐτὸν ἐκ πυρὸς καὶ πάλιν ἐκπυροῦσθαι κατά τινας περιόδους ἐναλλὰξ τὸν σύμπαντα αἰῶνα· τοῦτο δὲ γίνεσθαι καθ’ εἱμαρμένην. τῶν δὲ ἐναντίων τὸ μὲν ἐπὶ τὴν γένεσιν ἄγον καλεῖσθαι πόλεμον καὶ ἔριν [B 80], τὸ δ’ ἐπὶ τὴν ἐκπύρωσιν ὁμολογίαν καὶ εἰρήνην, καὶ τὴν μεταβολὴν ὁδὸν ἄνω κάτω, τόν τε κόσμον γίνεσθαι κατ’ αὐτήν. (9) πυκνούμενον γὰρ τὸ πῦρ ἐξυγραίνεσθαι συνιστάμενόν τε γίνεσθαι ὕδωρ, πηγνύμενον δὲ τὸ ὕδωρ εἰς γῆν τρέπεσθαι· καὶ ταύτην ὁδὸν ἐπὶ τὸ κάτω εἶναι. πάλιν τε αὖ τὴν γῆν χεῖσθαι, ἐξ ἧς τὸ ὕδωρ γίνεσθαι, ἐκ δὲ τούτου τὰ λοιπά, σχεδὸν πάντα ἐπὶ τὴν ἀναθυμίασιν ἀνάγων τὴν ἀπὸ τῆς θαλάττης· αὕτη δέ ἐστιν ἡ ἐπὶ τὸ ἄνω ὁδός. γίνεσθαι δὲ ἀναθυμιάσεις ἀπό τε γῆς καὶ θαλάττης, ἃς μὲν λαμπρὰς καὶ καθαράς, ἃς δὲ σκοτεινάς. αὔξεσθαι δὲ τὸ μὲν πῦρ ὑπὸ τῶν λαμπρῶν, τὸ δὲ ὑγρὸν ὑπὸ τῶν ἑτέρων. τὸ δὲ περιέχον ὁποῖόν ἐστιν οὐ δηλοῖ· εἶναι μέντοι ἐν αὐτῶι σκάφας ἐπεστραμμένας κατὰ κοῖλον πρὸς ἡμᾶς, ἐν αἷς ἀθροιζομένας τὰς λαμπρὰς ἀναθυμιάσεις ἀποτελεῖν φλόγας, ἃς εἶναι τὰ ἄστρα. (10) λαμπροτάτην δὲ εἶναι τὴν τοῦ ἡλίου φλόγα καὶ θερμοτάτην. τὰ μὲν γὰρ ἄλλα ἄστρα πλεῖον ἀπέχειν ἀπὸ γῆς καὶ διὰ τοῦτο ἧττον λάμπειν καὶ θάλπειν, τὴν δὲ σελήνην προσγειοτέραν οὖσαν μὴ διὰ τοῦ καθαροῦ φέρεσθαι τόπου. τὸν μέντοι ἥλιον ἐν διαυγεῖ καὶ ἀμιγεῖ κεῖσθαι καὶ σύμμετρον ἀφ’ ἡμῶν ἔχειν διάστημα· τοιγάρτοι μᾶλλον θερμαίνειν τε καὶ φωτίζειν. ἐκλείπειν τε ἥλιον καὶ σελήνην ἄνω στρεφομένων τῶν σκαφῶν· τούς τε κατὰ μῆνα τῆς σελήνης σχηματισμοὺς γίνεσθαι στρεφομένης ἐν αὐτῆι κατὰ μικρὸν τῆς σκάφης. ἡμέραν τε καὶ νύκτα γίνεσθαι καὶ μῆνας καὶ ὥρας ἐτείους καὶ ἐνιαυτοὺς ὑετούς τε καὶ πνεύματα καὶ τὰ τούτοις ὅμοια κατὰ τὰς διαφόρους ἀναθυμιάσεις. (11) τὴν μὲν γὰρ λαμπρὰν ἀναθυμίασιν φλογωθεῖσαν ἐν τῶι κύκλωι τοῦ ἡλίου ἡμέραν ποιεῖν, τὴν δὲ ἐναντίαν ἐπικρατήσασαν νύκτα ἀποτελεῖν· καὶ ἐκ μὲν τοῦ λαμπροῦ τὸ θερμὸν αὐξόμενον θέρος ποιεῖν, ἐκ δὲ τοῦ σκοτεινοῦ τὸ ὑγρὸν πλεονάζον χειμῶνα ἀπεργάζεσθαι. ἀκολούθως δὲ τούτοις καὶ περὶ τῶν ἄλλων αἰτιολογεῖ. περὶ δὲ τῆς γῆς οὐδὲν ἀποφαίνεται ποία τίς ἐστιν, ἀλλ’ οὐδὲ περὶ τῶν σκαφῶν. καὶ ταῦτα μὲν ἦν αὐτῶι τὰ δοκοῦντα. τὰ δὲ περὶ Σωκράτους καὶ ὅσα ἐντυχὼν τῶι συγγράμματι εἴποι, κομίσαντος Εὐριπίδου, καθά φησιν Ἀρίστων, ἐν τῶι περὶ Σωκράτους εἰρήκαμεν [s. A 4]. (12) (Σέλευκος μέντοι φησὶν ὁ γραμματικὸς Κρότωνά τινα ἱστορεῖν ἐν τῶι Κατακολυμβητῆι Κράτητά τινα πρῶτον εἰς τὴν Ἑλλάδα κομίσαι τὸ βιβλίον). καὶ εἰπεῖν Δηλίου τινὸς δεῖσθαι κολυμβητοῦ, ὃς οὐκ ἀποπνιγήσεται ἐν αὐτῶι. ἐπιγράφουσι δὲ αὐτῶι οἱ μὲν Μούσας, οἱ δὲ Περὶ φύσεως, Διόδοτος δὲ ἀκριβὲς οἰάκισμα πρὸς στάθμην βίου, ἄλλοι γνώμον’ ἠθῶν, τρόπου κόσμον ἕνα τῶν ξυμπάντων. φασὶ δ’ αὐτὸν ἐρωτηθέντα, διὰ τί σιωπᾶι, φάναι ‘ἵν’ ὑμεῖς λαλῆτε‘. ἐπόθησε δὲ αὐτοῦ καὶ Δαρεῖος μετασχεῖν καὶ ἔγραψεν ὧδε πρὸς αὐτόν. (15) τοιοῦτος μὲν ἁνὴρ καὶ πρὸς βασιλέα. Δημήτριος δέ φησιν ἐν τοῖς Ὁμωνύμοις καὶ Ἀθηναίων αὐτὸν ὑπερφρονῆσαι, δόξαν ἔχοντα παμπλείστην, καταφρονούμενόν τε ὑπὸ τῶν Ἐφεσίων ἑλέσθαι μᾶλλον τὰ οἰκεῖα. μέμνηται αὐτοῦ καὶ ὁ Φαληρεὺς Δημήτριος ἐν τῆι Σωκράτους ἀπολογίαι [F GrHist. 228 F 40 II 970]. πλεῖστοί τέ εἰσιν ὅσοι ἐξήγηνται αὐτοῦ τὸ σύγγραμμα· καὶ γὰρ Ἀντισθένης καὶ Ἡρακλείδης ὁ Ποντικὸς [p. 88 Voss], Κλεάνθης τε καὶ Σφαῖρος ὁ Στωικός, πρὸς δὲ Παυσανίας ὁ κληθεὶς Ἡρακλειτιστής, Νικομήδης τε καὶ Διονύσιος· τῶν δὲ γραμματικῶν Διόδοτος, ὃς οὔ φησι περὶ φύσεως εἶναι τὸ σύγγραμμα, ἀλλὰ περὶ πολιτείας, τὰ δὲ περὶ φύσεως ἐν παραδείγματος εἴδει κεῖσθαι. (16) Ἱερώνυμος δέ φησι [fr. 23 Hiller] καὶ Σκυθῖνον τὸν τῶν Ἰάμβων ποιητὴν [vgl. C 3] ἐπιβαλέσθαι τὸν ἐκείνου λόγον διὰ μέτρου ἐκβάλλειν. πολλά τ’ εἰς αὐτὸν ἐπιγράμματα φέρεται, ἀτὰρ δὴ καὶ τόδε [Anth. P. VII 128]·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 (100)",
+      "text": "Ἡράκλειτος ἐγώ· τί μ’ ἄνω κάτω ἕλκετ’ ἄμουσοι; οὐχ ὑμῖν ἐπόνουν, τοῖς δ’ ἔμ’ ἐπισταμένοις. εἷς ἐμοὶ ἄνθρωπος τρισμύριοι, οἱ δ’ ἀνάριθμοι οὐδείς. ταῦτ’ αὐδῶ καὶ παρὰ Φερσεφόνηι. καὶ ἄλλο τοιόνδε [Anth. P. IX 540]· μὴ ταχὺς Ἡρακλείτου ἐπ’ ὀμφαλὸν εἴλεε βύβλον τοὐφεσίου· μάλα τοι δύσβατος ἀτραπιτός. ὀρφνὴ καὶ σκότος ἐστὶν ἀλάμπετον· ἢν δέ σε μύστης εἰσαγάγηι, φανεροῦ λαμπρότερ’ ἠελίου. (17) γεγόνασι δ’ Ἡράκλειτοι πέντε· πρῶτος αὐτὸς οὗτος· δεύτερος ποιητὴς λυρικός, οὗ ἐστι τῶν δώδεκα θεῶν ἐγκώμιον· τρίτος ἐλεγείας ποιητὴς Ἁλικαρνασσεύς, εἰς ὃν Καλλίμαχος πεποίηκεν οὕτως· ‘εἶπέ τις ... βαλεῖ‘ [epigr. 2 Wil.]· τέταρτος Λέσβιος ἱστορίαν γεγραφὼς Μακεδονικήν· πέμπτος σπουδογέλοιος ἀπὸ κιθαρωιδίας μεταβεβηκὼς εἰς τὸ εἶδος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a",
+      "text": "SUID: Ἡράκλειτος Βλόσωνος ἢ Βαύτωρος, οἱ δὲ Ἡρακῖνος, Ἐφέσιος, φιλόσοφος φυσικός, ὃς ἐπεκλήθη Σκοτεινός. οὗτος ἐμαθήτευσεν οὐδενὶ τῶν φιλοσόφων, φύσει δὲ καὶ ἐπιμελείαι ἠσκήθη. οὗτος ὑδρωπιάσας οὐκ ἐνεδίδου τοῖς ἰατροῖς ἧιπερ ἐβούλοντο θεραπεύειν αὐτόν, ἀλλ’ αὐτὸς βολβίτωι χρίσας ὅλον ἑαυτὸν εἴασε ξηρανθῆναι τοῦτο ὑπὸ τῶι ἡλίωι, καὶ κείμενον αὐτὸν κύνες προσελθοῦσαι διέσπασαν. οἱ δὲ ἄμμωι χωσθέντα φασὶν ἀποθανεῖν. τινὲς δὲ αὐτὸν ἔφασαν διακοῦσαι Ξενοφάνους καὶ Ἱππάσου τοῦ Πυθαγορείου. ἦν δὲ ἐπὶ τῆς ξθ ὀλυμπιάδος [504—1] ἐπὶ Δαρείου τοῦ Ὑστάσπου, καὶ ἔγραψε πολλὰ ποιητικῶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "STRABO XIV 3 p. 632. 633 ἄρξαι δέ φησιν (Pherekydes F GrHist. 3 F 155 I 99) Ἄνδροκλον τῆς τῶν Ἰώνων ἀποικίας, ὕστερον τῆς Αἰολικῆς, υἱὸν γνήσιον Κόδρου τοῦ Ἀθηνῶν βασιλέως, γενέσθαι δὲ τοῦτον Ἐφέσου κτίστην. διόπερ τὸ βασίλειον τῶν Ἰώνων ἐκεῖ συστῆναί φασι, καὶ ἔτι νῦν οἱ ἐκ τοῦ γένους ὀνομάζονται βασιλεῖς ἔχοντές τινας τιμάς, προεδρίαν τε ἐν ἀγῶσι καὶ πορφύραν ἐπίσημον τοῦ βασιλικοῦ γένους, σκίπωνα ἀντὶ σκήπτρου, καὶ τὰ ἱερὰ τῆς Ἐλευσινίας Δήμητρος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "CLEM. Strom. I 65 (II 41, 19 St.) Ἡ. γὰρ ὁ Βλύσωνος Μελαγκόμαν τὸν τύραννον ἔπεισεν ἀποθέσθαι τὴν ἀρχήν. οὗτος βασιλέα Δαρεῖον παρακαλοῦντα ἥκειν εἰς Πέρσας ὑπερεῖδεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3a",
+      "text": "STRABO XIV 25 p. 642 ἄνδρες δ’ ἀξιόλογοι γεγόνασιν ἐν αὐτῆι [Ephesos] τῶν μὲν παλαιῶν Ἡ. τε ὁ Σκοτεινὸς καλούμενος καὶ Ἑρμόδωρος, περὶ οὗ ὁ αὐτός φησιν ‘ ἄξιον .. . ἄλλων ‘ [B 121]. δοκεῖ δ’ οὗτος ὁ ἀνὴρ νόμους τινὰς Ῥωμαίοις συγγράψαι. PLIN. H. n. XXXIV 21 fuit et Hermodori Ephesii [ statua] in comitio, legum quas decemviri scribebant interpretis, publice dicata.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3b",
+      "text": "PLUT. de garr. 17 p. 511 B οἱ δὲ συμβολικῶς ἄνευ φωνῆς ἃ δεῖ φράζοντες οὐκ ἐπαινοῦνται καὶ θαυμάζονται διαφερόντως; ὡς Ἡ. ἀξιούντων αὐτὸν τῶν πολιτῶν γνώμην τιν’ εἰπεῖν περὶ ὁμονοίας, ἀναβὰς ἐπὶ τὸ βῆμα καὶ λαβὼν ψυχροῦ κύλικα καὶ τῶν ἀλφίτων ἐπιπάσας καὶ τῶι γλήχωνι κινήσας ἐκπιὼν ἀπῆλθεν, ἐνδειξάμενος αὐτοῖς, ὅτι τὸ τοῖς τυχοῦσιν ἀρκεῖσθαι καὶ μὴ δεῖσθαι τῶν πολυτελῶν ἐν εἰρήνηι καὶ ὁμονοίαι διατηρεῖ τὰς πόλεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "ARIST. Rhet. Γ 5. 1407b 11 ὅλως δὲ δεῖ εὐανάγνωστον εἶναι τὸ γεγραμμένον καὶ εὔφραστον· ἔστιν δὲ τὸ αὐτό· ὅπερ οἱ πολλοὶ σύνδεσμοι 〈ἔχουσιν, οἱ δ’ ὀλίγοι〉 οὐκ ἔχουσιν οὐδ’ ἃ μὴ ῥάιδιον διαστίξαι ὥσπερ τὰ Ἡρακλείτου. τὰ γὰρ Ἡρακλείτου διαστίξαι ἔργον διὰ τὸ ἄδηλον εἶναι, ποτέρωι πρόσκειται, τῶι ὕστερον ἢ τῶι πρότερον, οἷον ἐν τῆι ἀρχῆι αὐτοῦ τοῦ συγγράμματος· φησὶ γάρ ‘ τοῦ λόγου τοῦ δ ’ ἐόντος ἀεὶ ἀξύνετοι ἄνθρωποι γίγνονται ‘ [B 1], ἄδηλον γὰρ τὸ ἀεὶ πρὸς ποτέρωι 〈δεῖ〉 διαστίξαι. DEMETR. 192 τὸ δὲ σαφὲς ἐν πλείοσιν· πρῶτα μὲν ἐν τοῖς κυρίοις, ἔπειτα ἐν τοῖς συνδεδεμένοις· τὸ δὲ ἀσύνδετον καὶ διαλελυμένον ὅλον ἀσαφὲς πᾶν· ἄδηλος γὰρ ἡ ἑκάστου κώλου ἀρχὴ διὰ τὴν λύσιν, ὥσπερ τὰ Ἡρακλείτου· καὶ γὰρ ταῦτα σκοτεινὰ ποιεῖ τὸ πλεῖστον ἡ λύσις. DIOG. II 22 φασὶ δ’ Εὐριπίδην αὐτῶι δόντα τὸ Ἡρακλείτου σύγγραμμα ἐρέσθαι ‘τί δοκεῖ‘; τὸν δὲ φάναι ‘ἃ μὲν συνῆκα, γενναῖα· οἶμαι δὲ καὶ ἃ μὴ συνῆκα· πλὴν Δηλίου γέ τινος δεῖται κολυμβητοῦ‘.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "ARIST. Metaph. A 3. 984a 7 [s. c. 18, 7 I 109, 5]. SIMPL. Phys. 23, 33 Ἵππασος δὲ ὁ Μεταποντῖνος [c. 18, 7] καὶ Ἡ. ὁ Ἐφέσιος ἓν καὶ οὗτοι καὶ κινούμενον καὶ πεπερασμένον, ἀλλὰ πῦρ ἐποίησαν τὴν ἀρχήν, καὶ ἐκ πυρὸς ποιοῦσι τὰ ὄντα πυκνώσει καὶ μανώσει καὶ διαλύουσι πάλιν εἰς πῦρ, ὡς ταύτης μιᾶς οὔσης φύσεως τῆς ὑποκειμένης· πυρὸς γὰρ ἀμοιβὴν εἶναί φησιν Ἡ. πάντα. ποιεῖ δὲ καὶ τάξιν τινὰ καὶ χρόνον ὡρισμένον τῆς τοῦ κόσμου μεταβολῆς κατά τινα εἱμαρμένην ἀνάγκην. AËT. I 3, 11 (D. 283) Ἡ. καὶ Ἵππασος ὁ Μεταποντῖνος ἀρχὴν τῶν ἁπάντων τὸ πῦρ. ἐκ πυρὸς γὰρ τὰ πάντα γίνεσθαι καὶ εἰς πῦρ πάντα τελευτᾶν λέγουσι. τούτου δὲ κατασβεννυμένου κοσμοποιεῖσθαι τὰ πάντα· πρῶτον μὲν γὰρ τὸ παχυμερέστατον αὐτοῦ εἰς αὑτὸ συστελλόμενον γῆ γίγνεται, ἔπειτα ἀναχαλωμένην τὴν γῆν ὑπὸ τοῦ πυρὸς φύσει ὕδωρ ἀποτελεῖσθαι, ἀναθυμιώμενον δὲ ἀέρα γίγνεσθαι. πάλιν δὲ τὸν κόσμον καὶ τὰ σώματα πάντα ὑπὸ τοῦ πυρὸς ἀναλοῦσθαι ἐν τῆι ἐκπυρώσει. GAL. de elem. sec. Hipp. I 4 (I 443 K. 23, 1 Helmr.) οἵ τε τὸ πῦρ [στοιχεῖον εἰπόντες] ὡσαύτως ἐκ τοῦ συνιὸν μὲν καὶ πυκνούμενον ἀέρα γίγνεσθαι, παθὸν δ’ ἔτι μᾶλλον τοῦτο καὶ σφοδρότερον πιληθὲν ὕδωρ, ἐπὶ πλεῖστον δὲ πυκνωθὲν γῆν ἀποτελεῖσθαι, συλλογίζονται καὶ αὐτοὶ τοῦτ’ εἶναι τὸ στοιχεῖον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "PLAT. Cratyl. p. 402 A λέγει που Ἡράκλειτος ὅτι πάντα χωρεῖ καὶ οὐδὲν μένει καὶ ποταμοῦ ῥοῆι ἀπεικάζων τὰ ὄντα λέγει ὡς δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης [vgl. B 91. 12]. AËT. I 23, 7 (D. 320) Ἡ. ἠρεμίαν μὲν καὶ στάσιν ἐκ τῶν ὅλων ἀνήιρει· ἔστι γὰρ τοῦτο τῶν νεκρῶν· κίνησιν δὲ τοῖς πᾶσιν ἀπεδίδου, ἀίδιον μὲν τοῖς ἀιδίοις, φθαρτὴν δὲ τοῖς φθαρτοῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "ARIST. Metaph. Γ 3. 1005b 23 ἀδύνατον γὰρ ὁντινοῦν ταὐτὸν ὑπολαμβάνειν εἶναι καὶ μὴ εἶναι, καθάπερ τινὲς οἴονται λέγειν Ἡράκλειτον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "AËT. I 7. 22 (D. 303) Ἡ. τὸ περιοδικὸν πῦρ ἀίδιον [εἶναι θεόν], εἱμαρμένην δὲ λόγον ἐκ τῆς ἐναντιοδρομίας δημιουργὸν τῶν ὄντων. I, 27, 1 (D. 322) Ἡ. πάντα καθ’ εἱμαρμένην, τὴν δὲ αὐτὴν ὑπάρχειν καὶ ἀνάγκην. 28, 1 Ἡ. οὐσίαν εἱμαρμένης ἀπεφαίνετο λόγον τὸν διὰ οὐσίας τοῦ παντὸς διήκοντα. αὕτη δ’ ἐστὶ τὸ αἰθέριον σῶμα, σπέρμα τῆς τοῦ παντὸς γενέσεως καὶ περιόδου μέτρον τεταγμένης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "ARIST. de part. anim. Α 5. 645a 17 καθάπερ Ἡ. λέγεται πρὸς τοὺς ξένους εἰπεῖν τοὺς βουλομένους ἐντυχεῖν αὐτῶι, οἳ ἐπειδὴ προσιόντες εἶδον αὐτὸν θερόμενον πρὸς τῶι ἰπνῶι ἔστησαν (ἐκέλευε γὰρ αὐτοὺς εἰσιέναι θαρροῦντας· εἶναι γὰρ καὶ ἐνταῦθα θεούς), οὕτω καὶ πρὸς τὴν ζήτησιν περὶ ἑκάστου τῶν ζώιων προσιέναι δεῖ μὴ δυσωπούμενον, ὡς ἐν ἅπασιν ὄντος τινὸς φυσικοῦ καὶ καλοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "PLATO Soph. 242 D Ἰάδες .. καὶ Σικελικαί τινες .. Μοῦσαι ξυνενόησαν, ὅτι .. ἀσφαλέστατον ... λέγειν, ὡς τὸ ὂν πολλά τε καὶ ἕν ἐστιν, ἔχθραι δὲ καὶ φιλίαι συνέχεται. ‘ διαφερόμενον γὰρ ἀεὶ ξυμφέρεται ‘, φασὶν αἱ συντονώτεραι τῶν Μουσῶν [B 10], αἱ δὲ μαλακώτεραι τὸ μὲν ἀεὶ ταῦθ’ οὕτως ἔχειν ἐχάλασαν, ἐν μέρει δὲ τοτὲ μὲν ἓν εἶναί φασι τὸ πᾶν καὶ φίλον ὑπ’ Ἀφροδίτης, τοτὲ δὲ πολλὰ καὶ πολέμιον αὐτὸ αὑτῶι διὰ Νεῖκός τι [31 B 17]. —ARIST. de caelo Α 10. 279b 12 γενόμενον μὲν οὖν ἅπαντες εἶναί φασιν [nämlich τὸν οὐρανόν], ἀλλὰ γενόμενον οἱ μὲν ἀίδιον, οἱ δὲ φθαρτὸν ὥσπερ ὁτιοῦν ἄλλο τῶν φύσει συνισταμένων, οἱ δὲ ἐναλλὰξ ὁτὲ μὲν οὕτως ὁτὲ δὲ ἄλλως ἔχειν φθειρόμενον καὶ τοῦτο ἀεὶ διατελεῖν οὕτως, ὥσπερ Ἐμπεδοκλῆς ὁ Ἀκραγαντῖνος καὶ Ἡ. ὁ Ἐφέσιος. Phys. Γ 5. 205a 3 ὥσπερ Ἡ. φησιν ἅπαντα γίνεσθαί ποτε πῦρ. SIMPLIC. de cael. 94, 4 Heib. καὶ Ἡ. δὲ ποτὲ μὲν ἐκπυροῦσθαι λέγει τὸν κόσμον. ποτὲ δὲ ἐκ τοῦ πυρὸς συνίστασθαι πάλιν αὐτὸν κατά τινας χρόνου περιόδους ἐν οἷς φησι ‘ μέτρα ἁπτόμενος καὶ μέτρα σβεννύμενοσ ‘ [ B 30]. ταύτης δὲ τῆς δόξης ὕστερον ἐγένοντο καὶ οἱ Στωικοί. AËT. II 1. 2 (D. 327) Ἡ. ... ἕνα τὸν κόσμον. 4, 3 (D. 331) Ἡ. οὐ κατὰ χρόνον εἶναι γενητὸν τὸν κόσμον, ἀλλὰ κατ’ ἐπίνοιαν. 11, 4 (D. 340) Παρμενίδης Ἡ. ... πύρινον εἶναι τὸν οὐρανόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "—II 13, 8 (D. 342) Παρμενίδης καὶ Ἡ. πιλήματα πυρὸς τὰ ἄστρα. 17, 4 (D. 346) Ἡ. ... τρέφεσθαι τοὺς ἀστέρας ἐκ τῆς ἀπὸ γῆς ἀναθυμιάσεως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12",
+      "text": "—II 20, 16 (D. 351) Ἡ. ... ἄναμμα νοερὸν τὸ ἐκ θαλάττης εἶναι τὸν ἥλιον. —22, 2 (D. 352) σκαφοειδῆ, ὑπόκυρτον. —24, 3 (D. 354) (γίνεσθαι τὴν ἔκλειψιν) κατὰ τὴν τοῦ σκαφοειδοῦς στροφήν, ὥστε τὸ μὲν κοῖλον ἄνω γίγνεσθαι, τὸ δὲ κυρτὸν κάτω πρὸς τὴν ἡμετέραν ὄψιν. —27, 2 (D. 358) Ἡ. σκαφοειδῆ (τὴν σελήνην). —28, 6 (D. 359) Ἡ. ταὐτὸν πεπονθέναι τὸν ἥλιον καὶ τὴν σελήνην. σκαφοειδεῖς γὰρ ὄντας τοῖς σχήμασι τοὺς ἀστέρας, δεχομένους τὰς ἀπὸ τῆς ὑγρᾶς ἀναθυμιάσεως αὐγάς, φωτίζεσθαι πρὸς τὴν φαντασίαν, λαμπρότερον μὲν τὸν ἥλιον· ἐν καθαρωτέρωι γὰρ ἀέρι φέρεσθαι· τὴν δὲ σελήνην ἐν θολωτέρωι· διὰ τοῦτο καὶ ἀμαυροτέραν φαίνεσθαι. —29, 3 Ἡ. ... (ἐκλείπειν τὴν σελήνην) κατὰ τὴν τοῦ σκαφοειδοῦς στροφὴν καὶ τὰς περικλίσεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13",
+      "text": "AËT. II 32, 3 (D. 364) Ἡ. ἐκ μυρίων ὀκτακοσίων ἐνιαυτῶν ἡλιακῶν (τὸν μέγαν ἐνιαυτὸν εἶναι). (Vgl. Censorin. 18, 10 hic annus etiam heliacos a quibusdam dicitur, et ab aliis [Heraklit ?] θεοῦ ἐνιαυτός ... (11) hunc Aristarchus putavit annorum vertentium IICCCCLXXXIIII..., H. et Linus XDCCC.)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14",
+      "text": "—III 3, 9 (D. 369) Ἡ. βροντὴν μὲν κατὰ συστροφὰς ἀνέμων καὶ νεφῶν καὶ ἐμπτώσεις πνευμάτων εἰς τὰ νέφη, ἀστραπὰς δὲ κατὰ τὰς τῶν θυμιωμένων ἐξάψεις, πρηστῆρας δὲ κατὰ νεφῶν ἐμπρήσεις καὶ σβέσεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14a",
+      "text": "NICAND. Alex. 171ff. (vgl. B 84) καί τε σύ γ’ ἀγλεύκην βάψαις ἰόεντα θάλασσαν, ἥν τε καὶ ἀτμεύειν ἀνέμοις πόρεν Ἐννοσίγαιος σὺν πυρί. καὶ γὰρ δὴ τὸ πνοαῖς συνδάμναται ἐχθραῖς πῦρ μὲν ἀείζωον καὶ ἀχύνετον ἔτρεσεν ὕδωρ ἀργέστας, καί ῥ’ ἡ μὲν ἀκοσμήεσσα, φιλοργὴς δεσπόζει νηῶν τε καὶ ἐμφθορέων αἰζηῶν, ὕλη δ’ ἐχθομένοιο πυρὸς κατὰ θεσμὸν ἀκούει. Schol. ἀτμεύειν δὲ δουλεύειν, ὑποκεῖσθαι· ἀτμένες γὰρ οἱ δοῦλοι· ὅτι δὲ δουλεύει ἡ θάλασσα καὶ τὸ πῦρ ἀνέμοις, κατὰ θεῖον νόμον δηλονότι, τοῦτο δὲ καὶ Ἡ. καὶ Μενεκράτης εἴρηκεν. ἀργέστας: οἱονεὶ τοὺς ἀνέμους. ἀχύνετον δὲ τὸ πολύχυτον· τὸ γὰρ α ἐπιτατικόν ἐστιν. ἐκτίθεσθαι οὖν βούλεται διὰ τούτων καὶ Ἡ., ὅτι πάντα ἐναντία ἀλλήλοις ἐστὶ κατ’ αὐτόν. ... δεσπόζει νηῶν: τῆι γὰρ θαλάσσηι ὑπόκεινται τὰ πλοῖα, τῶι δὲ πυρὶ ἡ ὕλη. ἐμφθορέων δ’ αἰζηῶν: τῶν ἐν θαλάσσηι φθειρομένων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "ARIST. de anima A 2. 405a 24 καὶ Ἡ. δὲ τὴν ἀρχὴν εἶναί φησι ψυχήν (wie Diogenes 64 A 20), εἴπερ τὴν ἀναθυμίασιν [B 12], ἐξ ἧς τἆλλα συνίστησιν. MACROB. S. Scip. 14, 19 (animam) H. physicus scintillam stellaris essentiae. AËT. IV 3, 12 (D. 389) Ἡ. τὴν μὲν τοῦ κόσμου ψυχὴν ἀναθυμίασιν ἐκ τῶν ἐν αὐτῶι ὑγρῶν, τὴν δὲ ἐν τοῖς ζώιοις ἀπὸ τῆς ἐκτὸς καὶ τῆς ἐν αὐτοῖς ἀναθυμιάσεω ς, ὁμογενῆ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16",
+      "text": "SEXT. adv. math. VII 126ff. (126) ὁ δὲ Ἡράκλειτος, ἐπεὶ πάλιν ἐδόκει δυσὶν ὠργανῶσθαι ὁ ἄνθρωπος πρὸς τὴν τῆς ἀληθείας γνῶσιν, αἰσθήσει τε καὶ λόγωι, τούτων τὴν 〈μὲν〉 αἴσθησιν παραπλησίως τοῖς προειρημένοις φυσικοῖς ἄπιστον εἶναι νενόμικεν, τὸν δὲ λόγον ὑποτίθεται κριτήριον. ἀλλὰ τὴν μὲν αἴσθησιν ἐλέγχει λέγων κατὰ λέξιν ‘ κακοὶ .. . ἐχόντων ‘ [B 107], ὅπερ ἴσον ἦν τῶι ‘βαρβάρων ἐστὶ ψυχῶν ταῖς ἀλόγοις αἰσθήσεσι πιστεύειν‘. (127) τὸν δὲ λόγον κριτὴν τῆς ἀληθείας ἀποφαίνεται οὐ τὸν ὁποιονδήποτε, ἀλλὰ τὸν κοινὸν καὶ θεῖον. τίς δ’ ἐστὶν οὗτος, συντόμως ὑποδεικτέον· ἀρέσκει γὰρ τῶι φυσικῶι τὸ περιέχον ἡμᾶς λογικόν τε ὂν καὶ φρενῆρες. (128) ἐμφαίνει δὲ τὸ τοιοῦτο πολὺ πρόσθεν Ὅμηρος [ς 163] εἰπών· τοῖος γὰρ νόος ἐστὶν ἐπιχθονίων ἀνθρώπων, οἷον ἐπ’ ἦμαρ ἄγηισι πατὴρ ἀνδρῶν τε θεῶν τε. καὶ Ἀρχίλοχος [fr. 68 D.] δέ φησι τοὺς ἀνθρώπους τοιαῦτα φρονεῖν ‘ὁποίην Ζεὺς ἐφ’ ἡμέρην ἄγει‘. εἴρηται δὲ καὶ τῶι Εὐριπίδηι [Troad. 885] τὸ αὐτό· ὅστις 〈ποτ’〉 εἶ σὺ δυστόπαστος εἰσιδεῖν Ζεύς, εἴτ’ ἀνάγκη φύσεος εἴτε νοῦς βροτῶν, ἐπευξάμην σε. (129) τοῦτον οὖν τὸν θεῖον λόγον καθ’ Ἡράκλειτον δι’ ἀναπνοῆς σπάσαντες νοεροὶ γινόμεθα, καὶ ἐν μὲν ὕπνοις ληθαῖοι, κατὰ δὲ ἔγερσιν πάλιν ἔμφρονες· ἐν γὰρ τοῖς ὕπνοις μυσάντων τῶν αἰσθητικῶν πόρων χωρίζεται τῆς πρὸς τὸ περιέχον συμφυΐας ὁ ἐν ἡμῖν νοῦς, μόνης τῆς κατὰ ἀναπνοὴν προσφύσεως σωιζομένης οἱονεί τινος ῥίζης, χωρισθείς τε ἀποβάλλει ἣν πρότερον εἶχε μνημονικὴν δύναμιν· (130) ἐν δὲ ἐγρηγόρσει πάλιν διὰ τῶν αἰσθητικῶν πόρων ὥσπερ διά τινων θυρίδων προκύψας καὶ τῶι περιέχοντι συμβαλὼν λογικὴν ἐνδύεται δύναμιν. ὅνπερ οὖν τρόπον οἱ ἄνθρακες πλησιάσαντες τῶι πυρὶ κατ’ ἀλλοίωσιν διάπυροι γίνονται, χωρισθέντες δὲ σβέννυνται, οὕτω καὶ ἡ ἐπιξενωθεῖσα τοῖς ἡμετέροις σώμασιν ἀπὸ τοῦ περιέχοντος μοῖρα κατὰ μὲν τὸν χωρισμὸν σχεδὸν ἄλογος γίνεται, κατὰ δὲ τὴν διὰ τῶν πλείστων πόρων σύμφυσιν ὁμοιοειδὴς τῶι ὅλωι καθίσταται. (131) τοῦτον δὴ τὸν κοινὸν λόγον καὶ θεῖον καὶ οὗ κατὰ μετοχὴν γινόμεθα λογικοί, κριτήριον ἀληθείας φησὶν ὁ Ἡ.· ὅθεν τὸ μὲν κοινῆι πᾶσι φαινόμενον, τοῦτ’ εἶναι πιστόν (τῶι κοινῶι γὰρ καὶ θείωι λόγωι λαμβάνεται), τὸ δέ τινι μόνωι προσπῖπτον ἄπιστον ὑπάρχειν διὰ τὴν ἐναντίαν αἰτίαν. (132) ἐναρχόμενος γοῦν τῶν Περὶ φύσεως ὁ προειρημένος ἀνὴρ καὶ τρόπον τινὰ δεικνῦς τὸ περιέχον φησί· ‘ λόγου .. . ἐπιλανθάνονται ‘ [B 1]. (133) διὰ τούτων γὰρ ῥητῶς παραστήσας ὅτι κατὰ μετοχὴν τοῦ θείου λόγου πάντα πράττομέν τε καὶ νοοῦμεν ὀλίγα προσδιελθὼν ἐπιφέρει ‘ διὸ .. . φρόνησιν ‘ [B 2]. ἡ δ’ ἔστιν οὐκ ἄλλο τι ἀλλ’ ἐξήγησις τοῦ τρόπου τῆς τοῦ παντὸς διοικήσεως. διὸ καθ’ ὅ τι ἂν αὐτοῦ τῆς μνήμης κοινωνήσωμεν, ἀληθεύομεν, ἃ δὲ ἂν ἰδιάσωμεν, ψευδόμεθα. (134) νῦν γὰρ ῥητότατα καὶ ἐν τούτοις τὸν κοινὸν λόγον κριτήριον ἀποφαίνεται, καὶ τὰ μὲν κοινῆι φησι φαινόμενα πιστὰ ὡς ἂν τῶι κοινῶι κρινόμενα λόγωι, τὰ δὲ κατ’ ἰδίαν ἑκάστωι ψευδῆ. VIII 286 καὶ μὴν ῥητῶς ὁ Ἡ. φησι τὸ μὴ εἶναι λογικὸν τὸν ἄνθρωπον, μόνον δ’ ὑπάρχειν φρενῆρες τὸ περιέχον [s. VII 127]. APOLL. Tyan. Ep. 18 Ἡ. ὁ φυσικὸς ἄλογον εἶναι κατὰ φύσιν ἔφησε τὸν ἄνθρωπον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17",
+      "text": "AËT. IV 7, 2 (D. 392) 〈Ἡ. ἄφθαρτον εἶναι τὴν ψυχήν〉· ἐξιοῦσαν γὰρ εἰς τὴν τοῦ παντὸς ψυχὴν ἀναχωρεῖν πρὸς τὸ ὁμογενές.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18",
+      "text": "—V 23 (D. 434) Ἡ. καὶ οἱ Στωικοὶ ἄρχεσθαι τοὺς ἀνθρώπους τῆς τελειότητος περὶ τὴν δευτέραν ἑβδομάδα, περὶ ἣν ὁ σπερματικὸς κινεῖται ὀρρός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19",
+      "text": "PLUT. def. orac. 11. 415 E οἱ μὲν ‘ἡβώντων‘ ἀναγιγνώσκοντες [bei Hesiod. fr. 171, 2 Rz. 2] ἔτη τριάκοντα ποιοῦσι τὴν γενεὰν καθ’ Ἡράκλειτον, ἐν ὧι χρόνωι γεννῶντα παρέχει τὸν ἐξ αὑτοῦ γεγεννημένον ὁ γεννήσας. Philo fr. Harris (Cambr. 1886) p. 20 δυνατὸν ἐν τριακοστῶι ἔτει τὸν ἄνθρωπον πάππον γενέσθαι, ἡβᾶν μὲν περὶ τὴν τεσσερεσκαιδεκαετῆ ἡλικίαν, ἐν ἧι σπείρει, τὸ δὲ σπαρὲν ἐνιαυτοῦ γενόμενον πάλιν πεντεκαιδεκάτωι ἔτει τὸ ὅμοιον ἑαυτῶι γεννᾶν. Vgl. CENSORIN. 17, 2 saeculum est spatium vitae humanae longissimum partu et morte definitum. quare qui annos triginta saeculum putarunt multum videntur errasse. hoc enim tempus genean vocari Heraclitus auctor est, quia orbis aetatis in eo sit spatio; orbem autem vocat aetati s, dum natura ab sementi humana ad sementim revertitur. JOH. LYDUS de mens. III 14 ὅθεν οὐκ ἀπὸ σκοποῦ Ἡ. γενεὰν τὸν μῆνα καλεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20",
+      "text": "CHALCID. c. 251 p. 284, 10 Wrob. H. vero consentientibus Stoicis rationem nostram cum divina ratione conectit regente ac moderante mundana: propter inseparabilem comitatum consciam decreti rationabilis factam quiescentibus animis ope sensuum futura denuntiare. ex quo fieri, ut adpareant imagines ignotorum locorum simulacraque hominum tam viventium quam mortuorum. idemque adserit divinationis usum et praemoneri meritos instruentibus divinis potestatibus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "21",
+      "text": "CLEM. Strom. II 130 (II 184, 6 St.) Ἀναξαγόραν μὲν γὰρ τὸν Κλαζομένιον τὴν θεωρίαν φάναι τοῦ βίου τέλος εἶναι καὶ τὴν ἀπὸ ταύτης ἐλευθερίαν λέγουσιν, Ἡράκλειτόν τε τὸν Ἐφέσιον τὴν εὐαρέστησιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "22",
+      "text": "EUDEM. Eth. H 1. 1235a 25 καὶ Ἡ. ἐπιτιμᾶι τῶι ποιήσαντι ‘ὡς ἔρις ἔκ τε θεῶν καὶ ἀνθρώπων ἀπόλοιτο‘ [Σ 107]· οὐ γὰρ ἂν εἶναι ἁρμονίαν μὴ ὄντος ὀξέος καὶ βαρέος οὐδὲ τὰ ζῶια ἄνευ θήλεος καὶ ἄρρενος ἐναντίων ὄντων. SIMPL. Cat. 412, 26 Kalbfl. οἰχήσεσθαι γάρ φησι πάντα. NUMEN. fr. 16 Thedinga Numenius laudat Heraclitum reprehendentem Homerum qui optaverit interitum ac vastitatem malis vitae, quod non intelligeret mundum sibi deleri placere, siquidem silva, quae malorum fons est, exterminaretur.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "23",
+      "text": "POLYB. IV 40 οὐκ ἂν ἔτι πρέπον εἴη ποιηταῖς καὶ μυθογράφοις χρῆσθαι μάρτυσι περὶ τῶν ἀγνοουμένων, ὅπερ οἱ πρὸ ἡμῶν περὶ τῶν πλείστων, ἀπίστους ἀμφισβητουμένων παρεχόμενοι βεβαιωτὰς κατὰ τὸν Ἡράκλειτον.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "bky-ab",
+      "title": {
+        "english": "On the Nature of the Universe",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "heraclitus-of-ephesus-nature-universe-bky-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/heraclitus-of-ephesus/nature-universe",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-nature-universe-bky-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-nature-universe-bky-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-nature-universe-bky-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-nature-universe-bky-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus/nature-universe.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "okg-bl",
+      "title": {
+        "english": "Comparison of Solon and Poplicola",
+        "ancient_greek": "Σόλωνος καὶ Ποπλικόλα σύγκρισις"
+      },
+      "url_slug": "plutarch-of-chaeronea-solon-poplicola-okg-bl",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/solon-poplicola",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-solon-poplicola-okg-bl.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-solon-poplicola-okg-bl.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-solon-poplicola-okg-bl.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-solon-poplicola-okg-bl.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/solon-poplicola.epub"
+      }
+    },
+    {
+      "eul_wid": "chq-aa",
+      "title": {
+        "english": "Fragments on Human Excellence",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀνθρωπίνης Ἀρετῆς"
+      },
+      "url_slug": "iamblichus-anon-human-excellence-chq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/iamblichus-anon/human-excellence",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-anon-human-excellence-chq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-anon-human-excellence-chq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-anon-human-excellence-chq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-anon-human-excellence-chq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-anon/human-excellence.epub"
+      }
+    },
+    {
+      "eul_wid": "ojw-ab",
+      "title": {
+        "english": "Letter of Arrian to Lucius Gellius",
+        "ancient_greek": "Ἐπιστολὴ Ἀρριανοῦ πρὸς Λούκιον Γέλλιον"
+      },
+      "url_slug": "epictetus-letter-to-gellius-ojw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/epictetus/letter-to-gellius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-letter-to-gellius-ojw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-letter-to-gellius-ojw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-letter-to-gellius-ojw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-letter-to-gellius-ojw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/letter-to-gellius.epub"
+      }
+    },
+    {
+      "eul_wid": "lgi-al",
+      "title": {
+        "english": "Questions on Genesis",
+        "ancient_greek": "Τὰ Φίλωνος Ἀλεξανδρέως"
+      },
+      "url_slug": "philo-of-alexandria-works-of-philo-of-alexandria-al-lgi-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria/works-of-philo-of-alexandria-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-works-of-philo-of-alexandria-al-lgi-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-works-of-philo-of-alexandria-al-lgi-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-works-of-philo-of-alexandria-al-lgi-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-works-of-philo-of-alexandria-al-lgi-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/works-of-philo-of-alexandria-al.epub"
+      }
+    },
+    {
+      "eul_wid": "ffk-ag",
+      "title": {
+        "english": "Republic",
+        "ancient_greek": "Πολιτεία"
+      },
+      "url_slug": "plato-republic-ffk-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/republic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-republic-ffk-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-republic-ffk-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-republic-ffk-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-republic-ffk-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/republic.epub"
+      }
+    },
+    {
+      "eul_wid": "iso-aj",
+      "title": {
+        "english": "To Demeter",
+        "ancient_greek": "εἰς Δήμητρα"
+      },
+      "url_slug": "callimachus-of-cyrene-to-demeter-iso-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/to-demeter",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-demeter-iso-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-demeter-iso-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-demeter-iso-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-demeter-iso-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/to-demeter.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-ah",
+      "title": {
+        "english": "To Those Not Correctly Interpreting the Sophist",
+        "ancient_greek": "Πρὸς τοὺς οὐκ ὀρθῶς ἐξηγουμένους τὸν σοφιστήν"
+      },
+      "url_slug": "themistius-interpreting-sophist-rye-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/interpreting-sophist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-interpreting-sophist-rye-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-interpreting-sophist-rye-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-interpreting-sophist-rye-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-interpreting-sophist-rye-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/interpreting-sophist.epub"
+      }
+    },
+    {
+      "eul_wid": "sno-ad",
+      "title": {
+        "english": "To the Council and People of Athens",
+        "ancient_greek": "Ἀθηναίων τῇ βουλῇ καὶ τῷ δήμῳ"
+      },
+      "url_slug": "julian-the-apostate-council-people-sno-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/julian-the-apostate/council-people",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-council-people-sno-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-council-people-sno-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-council-people-sno-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-council-people-sno-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/council-people.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/heraclitus-of-ephesus/testimonies",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-testimonies-bky-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-testimonies-bky-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-testimonies-bky-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-testimonies-bky-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus/testimonies.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

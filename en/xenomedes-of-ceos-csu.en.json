@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "csu",
+  "auth_slug": "xenomedes-of-ceos",
+  "name": {
+    "english": "Xenomedes of Ceos",
+    "ancient_greek": "Ξενομήδης ὁ Κεῖος"
+  },
+  "seo_h1": "Xenomedes of Ceos on Divine Names",
+  "seo": {
+    "browser_title": "Xenomedes of Ceos Historian on Eulogikon Greek Archive",
+    "meta_title": "Classical Xenomedes of Ceos Ancient Greek Historical Works",
+    "meta_description": "Xenomedes of Ceos was a 5th century BCE historian. His surviving fragments document local traditions. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Xenomedes of Ceos was a Greek historian active in the 5th century BCE. No details of his personal life survive. His work is known solely through later citations, primarily by Pseudo-Apollodorus and Strabo.</p>\n<p class=\"research-text\">His only attested work is a lost local history of Ceos, conventionally titled the Ceian History. It survives in approximately five fragments, preserved in later authors, which focus on mythological material such as the story of Cydippe.</p>\n<p class=\"research-text\">Xenomedes represents the early tradition of local historiography. His fragments were used by later authors like Pseudo-Apollodorus for Ceian genealogies and by Strabo for the island&#x27;s early inhabitants. They provide valuable, though limited, evidence for Ceos&#x27;s mythological traditions.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "csu-aa",
+      "title": {
+        "english": "Fragments on Divine Names",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θείων Ὀνομάτων"
+      },
+      "url_slug": "xenomedes-of-ceos-divine-names-csu-aa",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/xenomedes-of-ceos/divine-names",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenomedes-of-ceos-divine-names-csu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenomedes-of-ceos-divine-names-csu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenomedes-of-ceos-divine-names-csu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenomedes-of-ceos-divine-names-csu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenomedes-of-ceos/divine-names.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/xenomedes-of-ceos",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/xenomedes-of-ceos-csu.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/xenomedes-of-ceos-csu.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/xenomedes-of-ceos-csu.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/xenomedes-of-ceos-csu.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}
