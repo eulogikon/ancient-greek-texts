@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "eds",
+  "auth_slug": "demetrius-the-comic-poet",
+  "name": {
+    "english": "Demetrius the Comic Poet",
+    "ancient_greek": "Δημήτριος ὁ κωμικός"
+  },
+  "seo_h1": "Demetrius the Comic Poet and Fragments of Naval Comedy",
+  "seo": {
+    "browser_title": "Demetrius the Comic Poet on Eulogikon Greek Archive",
+    "meta_title": "Classical Demetrius the Comic Poet Ancient Greek Comedy",
+    "meta_description": "Demetrius, a 5th century BCE Athenian poet of Old Comedy. Two fragmentary works survive. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Demetrius was an Athenian comic poet of the 5th century BCE, active during the Classical period in the tradition of Old Comedy. No biographical details about him survive. Ancient sources, notably the Suda, credit him with two comedies titled <strong>Sicily</strong> and <strong>The Women of Laconia</strong>. Both plays are lost, preserved only by their titles.</p>\n<p class=\"research-text\">Scholars note the historical significance of these titles. <strong>Sicily</strong> likely engaged with contemporary Athenian military involvement in Sicily, possibly alluding to the disastrous Sicilian Expedition of the Peloponnesian War. <strong>The Women of Laconia</strong>, featuring a chorus of Spartan women, would have resonated with Athenian audiences during the prolonged conflict against Sparta.</p>\n<p class=\"research-text\">As none of his writing survives, Demetrius remains a very minor figure. His importance lies primarily in his inclusion in ancient catalogs of dramatists, which helps illustrate the breadth of the comic theater in Athens. He represents the many lesser-known poets who contributed to the rich political and cultural commentary of Old Comedy through plays on topical themes.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "eds-aa",
+      "title": {
+        "english": "Fragments of a Naval Comedy",
+        "ancient_greek": "Ἀποσπάσματα Ναυτικῆς Κωμῳδίας"
+      },
+      "url_slug": "demetrius-the-comic-poet-naval-comedy-aa-eds-aa",
+      "passages": 9,
+      "links": {
+        "html": "https://eulogikon.org/grc/demetrius-the-comic-poet/naval-comedy-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet-naval-comedy-aa-eds-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet-naval-comedy-aa-eds-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet-naval-comedy-aa-eds-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet-naval-comedy-aa-eds-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet/naval-comedy-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "eds-ab",
+      "title": {
+        "english": "Fragments of a Naval Comedy",
+        "ancient_greek": "Ἀποσπάσματα Ναυτικῆς Κωμῳδίας"
+      },
+      "url_slug": "demetrius-the-comic-poet-naval-comedy-ab-eds-ab",
+      "passages": 8,
+      "links": {
+        "html": "https://eulogikon.org/grc/demetrius-the-comic-poet/naval-comedy-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet-naval-comedy-ab-eds-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet-naval-comedy-ab-eds-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet-naval-comedy-ab-eds-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet-naval-comedy-ab-eds-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet/naval-comedy-ab.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/demetrius-the-comic-poet",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demetrius-the-comic-poet-eds.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demetrius-the-comic-poet-eds.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demetrius-the-comic-poet-eds.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demetrius-the-comic-poet-eds.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

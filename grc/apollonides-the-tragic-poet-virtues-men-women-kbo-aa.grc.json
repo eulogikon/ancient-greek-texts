@@ -1,0 +1,219 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "kbo-aa",
+  "eul_aid": "kbo",
+  "author_slug": "apollonides-the-tragic-poet",
+  "work_slug": "virtues-men-women",
+  "url_slug": "apollonides-the-tragic-poet-virtues-men-women-kbo-aa",
+  "author": {
+    "english": "Apollonides the Tragic Poet",
+    "ancient_greek": "Ἀπολλωνίδης"
+  },
+  "title": {
+    "english": "On the Virtues of Men and Women",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "On the Virtues of Men and Women by Apollonides on Eulogikon",
+    "meta_title": "On the Virtues of Men and Women by Apollonides in Greek",
+    "meta_description": "Fragments of tragedy On Virtues of Men and Women by Apollonides. Greek dramatic verse fragments. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δράμα Ἀττικόν",
+      "english": "Attic Drama",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Δρᾶμα",
+      "english": "Drama",
+      "href": "/domains/drama"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">On the Virtues of Men and Women is a collection of four brief poetic fragments attributed to the tragedian Apollonides. The Greek title, meaning &quot;Extracts,&quot; indicates these are not passages from a single play but rather thematic selections preserved for their moral content. No complete play, plot, or characters survive from Apollonides&#x27;s work. The fragments consist of moralizing sentiments, consistent with the collection&#x27;s title. One notable excerpt contrasts wealth and virtue, declaring wealth to be the most beautiful of all things to the inexperienced but the most useless for the attainment of virtue to the experienced. The collected excerpts function primarily as ethical statements on human character.</p>\n<p class=\"research-text\">These fragments survive solely through indirect transmission in later anthologies, most notably the extensive 5th-century CE compilation by Stobaeus. There is no independent manuscript tradition for Apollonides&#x27;s work, and the standard modern edition is found within the comprehensive <strong>Tragicorum Graecorum Fragmenta</strong>. Apollonides remains a minor figure in the history of Greek tragedy, and his work has no traceable literary influence. His fragments are significant primarily for illustrating the practice of later compilers who excerpted sententious or philosophically resonant lines from lost tragedies. As such, they serve as a minor data point for scholars studying the vast and otherwise lost corpus of post-Classical Greek tragedy.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "φεῦ φεῦ, γυναῖκες, ὡς ἐν ἀνθρώποις ἄρα οὐ χρυσός, οὐ τυραννίς, οὐ πλούτου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "χλιδή τοσοῦτον εἶχε διαφόρους τὰς ἡδονάς ὡς ἀνδρὸς ἐσθλοῦ καὶ γυναικὸς εὐσεβοῦς[ln_5]γνώμη δικαία καὶ φρονοῦσα τἄνδικα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "γυναικὸς ἀρετὰς ἀξίως ἐπαινέσαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "σοφοῦ τινος γένοιτ’ ἂν ἵστορος λόγων",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "buo-aa",
+      "title": {
+        "english": "Ajax The Whip-Bearer",
+        "ancient_greek": "Αἴας"
+      },
+      "url_slug": "sophocles-ajax-whip-bearer-buo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sophocles/ajax-whip-bearer",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-ajax-whip-bearer-buo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-ajax-whip-bearer-buo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-ajax-whip-bearer-buo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-ajax-whip-bearer-buo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/ajax-whip-bearer.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-aq",
+      "title": {
+        "english": "Alcestis",
+        "ancient_greek": "Ἄλκηστις"
+      },
+      "url_slug": "euripides-alcestis-cbm-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/alcestis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-alcestis-cbm-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-alcestis-cbm-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-alcestis-cbm-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-alcestis-cbm-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/alcestis.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-aa",
+      "title": {
+        "english": "Fragments of an Uncertain Story",
+        "ancient_greek": "Ἀποσπάσματα ἀδήλου διηγήσεως"
+      },
+      "url_slug": "euripides-uncertain-story-cbm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/uncertain-story",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-uncertain-story-cbm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-uncertain-story-cbm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-uncertain-story-cbm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-uncertain-story-cbm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/uncertain-story.epub"
+      }
+    },
+    {
+      "eul_wid": "dha-aa",
+      "title": {
+        "english": "Fragments on Athletes and Satyrs",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀθλητῶν καὶ Σατύρων"
+      },
+      "url_slug": "achaios-of-eretria-athletes-satyrs-dha-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/achaios-of-eretria/athletes-satyrs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/achaios-of-eretria-athletes-satyrs-dha-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/achaios-of-eretria-athletes-satyrs-dha-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/achaios-of-eretria-athletes-satyrs-dha-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/achaios-of-eretria-athletes-satyrs-dha-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/achaios-of-eretria/athletes-satyrs.epub"
+      }
+    },
+    {
+      "eul_wid": "dbg-aa",
+      "title": {
+        "english": "Fragments on Meleager and the Hunt",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μελεάγρου καὶ τῆς Κυνηγίας"
+      },
+      "url_slug": "antiphon-of-rhamnus-meleager-hunt-dbg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/antiphon-of-rhamnus/meleager-hunt",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-rhamnus-meleager-hunt-dbg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-rhamnus-meleager-hunt-dbg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-rhamnus-meleager-hunt-dbg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-rhamnus-meleager-hunt-dbg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-rhamnus/meleager-hunt.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-ac",
+      "title": {
+        "english": "Iphigenia in Tauris",
+        "ancient_greek": "Ἰφιγένεια ἐν Ταύροις"
+      },
+      "url_slug": "euripides-iphigenia-tauris-cbm-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/iphigenia-tauris",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-iphigenia-tauris-cbm-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-iphigenia-tauris-cbm-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-iphigenia-tauris-cbm-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-iphigenia-tauris-cbm-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/iphigenia-tauris.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-be",
+      "title": {
+        "english": "Medea",
+        "ancient_greek": "Μήδεια"
+      },
+      "url_slug": "euripides-medea-cbm-be",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/medea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-medea-cbm-be.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-medea-cbm-be.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-medea-cbm-be.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-medea-cbm-be.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/medea.epub"
+      }
+    },
+    {
+      "eul_wid": "mjo-aa",
+      "title": {
+        "english": "On the Nature of Evil",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "isidorus-the-tragedian-nature-of-evil-mjo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/isidorus-the-tragedian/nature-of-evil",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isidorus-the-tragedian-nature-of-evil-mjo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isidorus-the-tragedian-nature-of-evil-mjo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isidorus-the-tragedian-nature-of-evil-mjo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isidorus-the-tragedian-nature-of-evil-mjo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isidorus-the-tragedian/nature-of-evil.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/apollonides-the-tragic-poet/virtues-men-women",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonides-the-tragic-poet-virtues-men-women-kbo-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonides-the-tragic-poet-virtues-men-women-kbo-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonides-the-tragic-poet-virtues-men-women-kbo-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonides-the-tragic-poet-virtues-men-women-kbo-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonides-the-tragic-poet/virtues-men-women.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

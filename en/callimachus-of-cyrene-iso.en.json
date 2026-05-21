@@ -1,0 +1,362 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "iso",
+  "auth_slug": "callimachus-of-cyrene",
+  "name": {
+    "english": "Callimachus of Cyrene the Poet and Scholar",
+    "ancient_greek": "Καλλίμαχος ὁ Κυρηναῖος"
+  },
+  "seo_h1": "The Hymns and Epigrams of Callimachus of Cyrene",
+  "seo": {
+    "browser_title": "Callimachus of Cyrene on Eulogikon Greek Texts Archive",
+    "meta_title": "Classical Callimachus Ancient Greek Poetry and Scholarship",
+    "meta_description": "Callimachus of Cyrene, Hellenistic poet and scholar. Works include poetry fragments and treatises. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ λογοτεχνική",
+      "english": "Literary Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Callimachus of Cyrene was a Hellenistic poet and scholar active at the Library of Alexandria during the reigns of Ptolemy II and Ptolemy III. While his exact official position is uncertain, he was a central figure in the intellectual life of the Museum. He engaged in notable literary rivalries, most famously with his former pupil Apollonius of Rhodes, debating the merits of short, polished poetry versus lengthy epic works.</p>\n<p class=\"research-text\">His prolific output, much of which survives only in fragments, includes the elegiac <strong>Aetia</strong>, which explains mythical origins; six literary <strong>Hymns</strong>; the <strong>Iambi</strong>; and the epyllion <strong>Hecale</strong>. He also composed over sixty polished <strong>Epigrams</strong> and produced the monumental prose <strong>Pinakes</strong>, a critical catalog of the Library&#x27;s holdings that established the foundations of bibliography.</p>\n<p class=\"research-text\">Callimachus&#x27;s aesthetic preference for learned, refined, and meticulously crafted composition profoundly influenced later Hellenistic and Roman poetry, including the works of Catullus and Ovid. His dual legacy as an innovative poet and a systematizing scholar epitomizes the Alexandrian ideal of learning.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 18,
+  "works": [
+    {
+      "eul_wid": "iso-ap",
+      "title": {
+        "english": "Causes",
+        "ancient_greek": "Αἴτια"
+      },
+      "url_slug": "callimachus-of-cyrene-causes-iso-ap",
+      "passages": 213,
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/causes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-causes-iso-ap.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-causes-iso-ap.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-causes-iso-ap.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-causes-iso-ap.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/causes.epub"
+      }
+    },
+    {
+      "eul_wid": "iso-al",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "callimachus-of-cyrene-epigrams-al-iso-al",
+      "passages": 64,
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/epigrams-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-epigrams-al-iso-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-epigrams-al-iso-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-epigrams-al-iso-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-epigrams-al-iso-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-al.epub"
+      }
+    },
+    {
+      "eul_wid": "iso-ag",
+      "title": {
+        "english": "Fragments and Title",
+        "ancient_greek": "Ἀποσπάσματα καὶ Τίτλος"
+      },
+      "url_slug": "callimachus-of-cyrene-fragments-iso-ag",
+      "passages": 52,
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-fragments-iso-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-fragments-iso-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-fragments-iso-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-fragments-iso-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "iso-ae",
+      "title": {
+        "english": "Fragments of Epigrams",
+        "ancient_greek": "Ἀποσπάσματα Ἐπιγραμμάτων"
+      },
+      "url_slug": "callimachus-of-cyrene-epigrams-ae-iso-ae",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/epigrams-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-epigrams-ae-iso-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-epigrams-ae-iso-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-epigrams-ae-iso-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-epigrams-ae-iso-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-ae.epub"
+      }
+    },
+    {
+      "eul_wid": "iso-ab",
+      "title": {
+        "english": "Fragments of Uncertain Author",
+        "ancient_greek": "Ἀποσπάσματα Ἀδήλου Συγγραφέως"
+      },
+      "url_slug": "callimachus-of-cyrene-uncertain-author-fragments-iso-ab",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/uncertain-author-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-uncertain-author-fragments-iso-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-uncertain-author-fragments-iso-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-uncertain-author-fragments-iso-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-uncertain-author-fragments-iso-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/uncertain-author-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "iso-aa",
+      "title": {
+        "english": "Fragments of Uncertain Placement",
+        "ancient_greek": "Ἀποσπάσματα Ἀδήλου Θέσεως"
+      },
+      "url_slug": "callimachus-of-cyrene-uncertain-fragments-iso-aa",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/uncertain-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-uncertain-fragments-iso-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-uncertain-fragments-iso-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-uncertain-fragments-iso-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-uncertain-fragments-iso-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/uncertain-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "iso-af",
+      "title": {
+        "english": "Grammatical Fragments",
+        "ancient_greek": "Γραμματικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "callimachus-of-cyrene-grammatical-fragments-iso-af",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/grammatical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-grammatical-fragments-iso-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-grammatical-fragments-iso-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-grammatical-fragments-iso-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-grammatical-fragments-iso-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/grammatical-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "iso-aq",
+      "title": {
+        "english": "Hecale",
+        "ancient_greek": "Ἑκάλη"
+      },
+      "url_slug": "callimachus-of-cyrene-hecale-iso-aq",
+      "passages": 18,
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/hecale",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-hecale-iso-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-hecale-iso-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-hecale-iso-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-hecale-iso-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/hecale.epub"
+      }
+    },
+    {
+      "eul_wid": "iso-am",
+      "title": {
+        "english": "Hymns",
+        "ancient_greek": "Ὕμνοι"
+      },
+      "url_slug": "callimachus-of-cyrene-epigrams-am-iso-am",
+      "passages": 294,
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/epigrams-am",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-epigrams-am-iso-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-epigrams-am-iso-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-epigrams-am-iso-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-epigrams-am-iso-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-am.epub"
+      }
+    },
+    {
+      "eul_wid": "iso-ar",
+      "title": {
+        "english": "Iambs",
+        "ancient_greek": "Ἴαμβοι"
+      },
+      "url_slug": "callimachus-of-cyrene-iambs-iso-ar",
+      "passages": 63,
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/iambs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-iambs-iso-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-iambs-iso-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-iambs-iso-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-iambs-iso-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/iambs.epub"
+      }
+    },
+    {
+      "eul_wid": "iso-ah",
+      "title": {
+        "english": "Lyric Poems",
+        "ancient_greek": "Λυρικὰ Ποιήματα"
+      },
+      "url_slug": "callimachus-of-cyrene-lyric-poems-iso-ah",
+      "passages": 6,
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/lyric-poems",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-lyric-poems-iso-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-lyric-poems-iso-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-lyric-poems-iso-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-lyric-poems-iso-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/lyric-poems.epub"
+      }
+    },
+    {
+      "eul_wid": "iso-ac",
+      "title": {
+        "english": "Minor Epic and Elegiac Poems",
+        "ancient_greek": "Ἐλάσσονα Ἐπικὰ καὶ Ἐλεγειακὰ Ποιήματα"
+      },
+      "url_slug": "callimachus-of-cyrene-minor-epics-elegiacs-iso-ac",
+      "passages": 13,
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/minor-epics-elegiacs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-minor-epics-elegiacs-iso-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-minor-epics-elegiacs-iso-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-minor-epics-elegiacs-iso-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-minor-epics-elegiacs-iso-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/minor-epics-elegiacs.epub"
+      }
+    },
+    {
+      "eul_wid": "iso-ak",
+      "title": {
+        "english": "To Apollo",
+        "ancient_greek": "εἰς Απόλλωνα"
+      },
+      "url_slug": "callimachus-of-cyrene-to-apollo-iso-ak",
+      "passages": 14,
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/to-apollo",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-apollo-iso-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-apollo-iso-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-apollo-iso-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-apollo-iso-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/to-apollo.epub"
+      }
+    },
+    {
+      "eul_wid": "iso-ai",
+      "title": {
+        "english": "To Artemis",
+        "ancient_greek": "εἰς Ἄρτεμιν"
+      },
+      "url_slug": "callimachus-of-cyrene-artemis-iso-ai",
+      "passages": 12,
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/artemis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-artemis-iso-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-artemis-iso-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-artemis-iso-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-artemis-iso-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/artemis.epub"
+      }
+    },
+    {
+      "eul_wid": "iso-an",
+      "title": {
+        "english": "To Delos",
+        "ancient_greek": "εἰς Δῆλον"
+      },
+      "url_slug": "callimachus-of-cyrene-delos-iso-an",
+      "passages": 14,
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/delos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-delos-iso-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-delos-iso-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-delos-iso-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-delos-iso-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/delos.epub"
+      }
+    },
+    {
+      "eul_wid": "iso-aj",
+      "title": {
+        "english": "To Demeter",
+        "ancient_greek": "εἰς Δήμητρα"
+      },
+      "url_slug": "callimachus-of-cyrene-to-demeter-iso-aj",
+      "passages": 8,
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/to-demeter",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-demeter-iso-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-demeter-iso-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-demeter-iso-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-demeter-iso-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/to-demeter.epub"
+      }
+    },
+    {
+      "eul_wid": "iso-ad",
+      "title": {
+        "english": "To the Baths of Pallas",
+        "ancient_greek": "εἰς Λουτρά τῆς Παλλάδος"
+      },
+      "url_slug": "callimachus-of-cyrene-baths-pallas-iso-ad",
+      "passages": 10,
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/baths-pallas",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-baths-pallas-iso-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-baths-pallas-iso-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-baths-pallas-iso-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-baths-pallas-iso-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/baths-pallas.epub"
+      }
+    },
+    {
+      "eul_wid": "iso-ao",
+      "title": {
+        "english": "To Zeus",
+        "ancient_greek": "εἰς Δία"
+      },
+      "url_slug": "callimachus-of-cyrene-to-zeus-iso-ao",
+      "passages": 9,
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/to-zeus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-zeus-iso-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-zeus-iso-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-zeus-iso-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-zeus-iso-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/to-zeus.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/callimachus-of-cyrene",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/callimachus-of-cyrene-iso.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/callimachus-of-cyrene-iso.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/callimachus-of-cyrene-iso.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/callimachus-of-cyrene-iso.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

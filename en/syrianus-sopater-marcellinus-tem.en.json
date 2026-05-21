@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "tem",
+  "auth_slug": "syrianus-sopater-marcellinus",
+  "name": {
+    "english": "Syrianus, Sopater, and Marcellinus",
+    "ancient_greek": "Συριανός, Σώπατρος, καὶ Μαρκελλῖνος"
+  },
+  "seo_h1": "Syrianus, Sopater, and Marcellinus on Hermogenes",
+  "seo": {
+    "browser_title": "Syrianus Sopater Marcellinus on Eulogikon Greek Archive",
+    "meta_title": "Classical Syrianus Sopater Marcellinus Ancient Greek Works",
+    "meta_description": "Syrianus, Sopater, and Marcellinus were late antique Atticizing grammarians. Their works are preserved. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Syrianus, Sopater, and Marcellinus were three grammarians active in the 4th century CE. They are known collectively for their scholarly work on the grammarian Aelius Herodian. No specific biographical details for the individuals survive. Their activity belongs to the late antique period of scholarship, which focused on the systematization of earlier Greek linguistic works.</p>\n<p class=\"research-text\">Their sole attested work is a Commentary on Herodian&#x27;s <strong>On Figures</strong>. This surviving text is a commentary on the 2nd-century CE treatise concerning rhetorical figures by Aelius Herodian, representing a clear example of late antique grammatical exegesis.</p>\n<p class=\"research-text\">The trio’s significance lies in their role as preservers of the earlier grammatical tradition. Their collaborative commentary forms a link in the scholarly transmission of Greek technical knowledge from the Imperial period into later antiquity and the Byzantine era. It exemplifies the late antique focus on explicating canonical manuals rather than developing new theoretical systems.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "tem-aa",
+      "title": {
+        "english": "Scholia-Hermogenes's Book-Issues",
+        "ancient_greek": "Σχόλια εἰς τὸ Ἑρμογένους περὶ στάσεων"
+      },
+      "url_slug": "syrianus-sopater-marcellinus-scholia-hermogenes-tem-aa",
+      "passages": 655,
+      "links": {
+        "html": "https://eulogikon.org/grc/syrianus-sopater-marcellinus/scholia-hermogenes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-sopater-marcellinus-scholia-hermogenes-tem-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-sopater-marcellinus-scholia-hermogenes-tem-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-sopater-marcellinus-scholia-hermogenes-tem-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-sopater-marcellinus-scholia-hermogenes-tem-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-sopater-marcellinus/scholia-hermogenes.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/syrianus-sopater-marcellinus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/syrianus-sopater-marcellinus-tem.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/syrianus-sopater-marcellinus-tem.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/syrianus-sopater-marcellinus-tem.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/syrianus-sopater-marcellinus-tem.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

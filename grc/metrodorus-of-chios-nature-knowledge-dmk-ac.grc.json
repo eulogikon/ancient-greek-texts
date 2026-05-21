@@ -1,0 +1,419 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "dmk-ac",
+  "eul_aid": "dmk",
+  "author_slug": "metrodorus-of-chios",
+  "work_slug": "nature-knowledge",
+  "url_slug": "metrodorus-of-chios-nature-knowledge-dmk-ac",
+  "author": {
+    "english": "Metrodorus of Chios",
+    "ancient_greek": "Μητρόδωρος ὁ Χῖος"
+  },
+  "title": {
+    "english": "On Nature and Knowledge",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "On Nature and Knowledge by Metrodorus of Chios on Eulogikon",
+    "meta_title": "On Nature and Knowledge by Metrodorus of Chios in Greek",
+    "meta_description": "A philosophical poem exploring nature and knowledge from a Democritean perspective. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Φιλοσοφική Ἀττική",
+      "english": "Attic Philosophical",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Atomist",
+      "href": "/affiliations/atomist"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On Nature and Knowledge</strong> is a philosophical poem composed in verse by the 4th-century BCE Greek thinker Metrodorus of Chios. A disciple of the atomist Democritus, Metrodorus wrote this work to summarize and elucidate the physical theories of earlier Presocratic philosophers, including Thales and Anaxagoras, in an accessible poetic form. The title, sometimes translated as <strong>Extracts</strong> or <strong>Fragments</strong>, reflects its nature as a collection of passages rather than a continuous treatise. The work is now lost as an independent book and survives only through quotations in later authors, most notably the skeptic Sextus Empiricus, who cited it to illustrate dogmatic positions he opposed.</p>\n<p class=\"research-text\">The surviving portions of the text, known through approximately 27 fragments, cover topics in cosmology and the principles of nature, consistent with the atomist and materialist philosophy of its author. A particularly famous fragment expresses a radical epistemological skepticism, declaring that no one knows anything, not even whether they know or do not know, or even whether anything exists at all. Modern scholars generally interpret the work as a doxography—a systematic compilation of philosophical opinions—intended for students or a general educated audience, following a tradition of presenting complex ideas in memorable verse. Through these preserved fragments, Metrodorus’s poem served to transmit early Greek philosophical thought and contributed to later debates concerning knowledge and skepticism.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "CIC. Ac. pr. II 23, 73 is qui hunc maxime est admiratus Chius Metrodorus initio libri qui est De natura ‘nego, inquit, scire nos sciamusne aliquid an nihil sciamus, ne id ipsum quidem nescire aut scire scire nos, nec omnino sitne aliquid an[ln_5]nihil sit‘. EUS. P. E. XIV 19, 8 ἕπεται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τούτοις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "συνεξετάσαι καὶ τοὺς τὴν ἐναντίαν βαδίσαντας καὶ πάντα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "χρῆναι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "πιστεύειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "ταῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "τοῦ σώματος αἰσθήσεσιν ὁρισαμένους, ὧν εἶναι Μητρόδωρον τὸν Χῖον καὶ Πρω‐ ταγόραν τὸν Ἀβδηρίτην. τὸν μὲν οὖν Μητρόδωρον Δημοκρίτου[ln_10]ἔφασαν ἀκηκοέναι· ἀρχὰς δὲ ἀποφήνασθαι τὸ πλῆρες καὶ τὸ κενόν, ὧν τὸ μὲν ὄν, τὸ δὲ μὴ ὂν εἶναι. γράφων γέ τοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.8",
+      "text": "Περὶ φύσεως εἰσβολῆι ἐχρήσατο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.9",
+      "text": "τοιαύτηι· ‘οὐδεὶς ἡμῶν οὐδὲν οἶδεν οὐδ’ αὐτὸ τοῦτο, πότερον οἴδαμεν ἢ οὐκ οἴδαμεν 〈οὐδ’ αὐτὸ τὸ μὴ εἰδέναι καὶ τὸ εἰδέναι οἴδαμεν (ὅτι ἔστιν) οὐδ’ ὅλως πότε‐",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_15]ρον ἔστι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τι ἢ οὐκ ἔστιν〉‘. ἥτις εἰσβολὴ κακὰς ἔδωκεν ἀφορμὰς τῶι μετὰ ταῦτα γενομένωι Πύρρωνι. προβὰς δέ φησιν ὅτι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "‘πάντα ἐστίν, ὃ ἄν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "τις νοήσαι‘.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "ATHEN. IV 184A. Μ. δ’ Χῖος ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "Τρωικοῖς σύριγγα μέν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.3",
+      "text": "φησιν εὑρεῖν Μαρσύαν καὶ αὐλὸν [?] ἐν Κελαιναῖς, τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.4",
+      "text": "πρότερον ἑνὶ καλάμωι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.5",
+      "text": "συριζόντων ...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.1",
+      "text": "[para]SCHOL. HOM. GENAV. Φ 441 p. 208, 21 Nic. Μ. ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.2",
+      "text": "Τρωικοῖς· «μετὰ ταῦτα λέγουσι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.3",
+      "text": "παρ’ αὐτὸν ἀφικέσθαι δύο ἄνδρας, ὁπόθεν μὲν καὶ οἵτινες, οὐδεὶς ἔχει εἰπεῖν ἀτρεκέως· ἐλθόντας δὲ εἰπεῖν, ὅτι Λαομέδοντι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.4",
+      "text": "χρὴ ἀνδρὶ βασιλεῖ εἶναι ἀκρόπολιν ἐν τῆι πόλει, ἐν ἧι αὐτὸν οἰκεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.5",
+      "text": "πρέποι· ‘ἡμεῖς οὖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.6",
+      "text": "σοι θέλομεν[ln_5]τειχίον κτίσαι καὶ ἐπιστατῆσαι‘».",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.1",
+      "text": "[ln_1][para]PLUT. Quaest. conv. VI 2 p. 694A τὸ δὲ τεκμήριον ἐλαμβάνομεν ἐκ τῶν Μητροδώρου Ἰωνικῶν· ἱστορεῖ γὰρ ὅτι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.2",
+      "text": "Σμυρναῖοι τὸ παλαιὸν Αἰολεῖς ὄντες θύουσι Βουβρώστει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.3",
+      "text": "ταῦρον μέλανα καὶ κατακόψαντες αὐτόδορον ὁλοκαυ‐ τοῦσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "dmk-ab",
+      "title": {
+        "english": "Fragments on Trojan Legends",
+        "ancient_greek": "Ἀποσπάσματα περὶ Τρωικῶν Μύθων"
+      },
+      "url_slug": "metrodorus-of-chios-trojan-legends-dmk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/metrodorus-of-chios/trojan-legends",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-trojan-legends-dmk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-trojan-legends-dmk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-trojan-legends-dmk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-trojan-legends-dmk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios/trojan-legends.epub"
+      }
+    },
+    {
+      "eul_wid": "dmk-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "metrodorus-of-chios-testimonies-dmk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/metrodorus-of-chios/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-testimonies-dmk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-testimonies-dmk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-testimonies-dmk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-testimonies-dmk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios/testimonies.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "okg-ax",
+      "title": {
+        "english": "Comparison of Demosthenes and Cicero",
+        "ancient_greek": "Σύγκρισις Δημοσθένους καὶ Κικέρωνος"
+      },
+      "url_slug": "plutarch-of-chaeronea-demosthenes-cicero-okg-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/demosthenes-cicero",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demosthenes-cicero-okg-ax.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demosthenes-cicero-okg-ax.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demosthenes-cicero-okg-ax.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demosthenes-cicero-okg-ax.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/demosthenes-cicero.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-ag",
+      "title": {
+        "english": "Epitome of Comparison of Aristophanes and Menander",
+        "ancient_greek": "Συγκρίσεως Ἀριστοφάνους καὶ Μενάνδρου ἐπιτομή"
+      },
+      "url_slug": "plutarch-of-chaeronea-comparison-aristophanes-menander-okg-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/comparison-aristophanes-menander",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-comparison-aristophanes-menander-okg-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-comparison-aristophanes-menander-okg-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-comparison-aristophanes-menander-okg-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-comparison-aristophanes-menander-okg-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/comparison-aristophanes-menander.epub"
+      }
+    },
+    {
+      "eul_wid": "lmc-aa",
+      "title": {
+        "english": "Fragments on Wisdom",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σοφίας"
+      },
+      "url_slug": "crito-of-argos-wisdom-fragments-lmc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/crito-of-argos/wisdom-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-argos-wisdom-fragments-lmc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-argos-wisdom-fragments-lmc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-argos-wisdom-fragments-lmc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-argos-wisdom-fragments-lmc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-argos/wisdom-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "kkk-ag",
+      "title": {
+        "english": "On Impassibility",
+        "ancient_greek": "Περὶ ἀπαθείας"
+      },
+      "url_slug": "teles-of-megara-impassibility-kkk-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/teles-of-megara/impassibility",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-impassibility-kkk-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-impassibility-kkk-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-impassibility-kkk-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-impassibility-kkk-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/impassibility.epub"
+      }
+    },
+    {
+      "eul_wid": "rai-aa",
+      "title": {
+        "english": "On the Divisions of Philosophy",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "atticus-the-philosopher-divisions-philosophy-rai-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/atticus-the-philosopher/divisions-philosophy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/atticus-the-philosopher-divisions-philosophy-rai-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/atticus-the-philosopher-divisions-philosophy-rai-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/atticus-the-philosopher-divisions-philosophy-rai-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/atticus-the-philosopher-divisions-philosophy-rai-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/atticus-the-philosopher/divisions-philosophy.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-ab",
+      "title": {
+        "english": "On the Fortune or Virtue of Alexander, Discourse A. Discourse B",
+        "ancient_greek": "Περὶ τῆς Ἀλεξάνδρου τύχης ἢ ἀρετῆς λόγος Α,"
+      },
+      "url_slug": "plutarch-of-chaeronea-fortune-virtue-alexander-okg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/fortune-virtue-alexander",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-fortune-virtue-alexander-okg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-fortune-virtue-alexander-okg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-fortune-virtue-alexander-okg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-fortune-virtue-alexander-okg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/fortune-virtue-alexander.epub"
+      }
+    },
+    {
+      "eul_wid": "bke-ab",
+      "title": {
+        "english": "On the Nature of Being",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "parmenides-of-elea-nature-being-bke-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/parmenides-of-elea/nature-being",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenides-of-elea-nature-being-bke-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenides-of-elea-nature-being-bke-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenides-of-elea-nature-being-bke-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenides-of-elea-nature-being-bke-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenides-of-elea/nature-being.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-ab",
+      "title": {
+        "english": "Remains of Homeric Questions Pertaining to the Odyssey",
+        "ancient_greek": "Λείψανα Ὁμηρικῶν ζητημάτων περὶ τὴν Ὀδύσσειαν"
+      },
+      "url_slug": "porphyry-of-tyre-homeric-questions-odyssey-udm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/homeric-questions-odyssey",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-odyssey-udm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-odyssey-udm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-odyssey-udm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-odyssey-udm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-odyssey.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/metrodorus-of-chios/nature-knowledge",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-nature-knowledge-dmk-ac.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-nature-knowledge-dmk-ac.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-nature-knowledge-dmk-ac.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-nature-knowledge-dmk-ac.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios/nature-knowledge.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

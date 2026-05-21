@@ -1,0 +1,348 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "jqa-ab",
+  "eul_aid": "jqa",
+  "author_slug": "nicaenetus-of-samos",
+  "work_slug": "epigrams",
+  "url_slug": "nicaenetus-of-samos-epigrams-jqa-ab",
+  "author": {
+    "english": "Nicaenetus of Samos",
+    "ancient_greek": "Νικαίνετος ὁ Σάμιος"
+  },
+  "title": {
+    "english": "Epigrams",
+    "ancient_greek": "Ἐπιγράμματα"
+  },
+  "seo": {
+    "browser_title": "The Epigrams by Nicaenetus of Samos on Eulogikon Archive",
+    "meta_title": "Classical Epigrams by Nicaenetus of Samos in Ancient Greek",
+    "meta_description": "Short poems by the Hellenistic poet Nicaenetus of Samos, composed in the literary epic dialect. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Epigrams of Nicaenetus of Samos constitute a collection of short poems by a Hellenistic Greek poet active in the 3rd century BCE. Composed in the literary epic dialect, these works exemplify the transformation of the epigram from a simple inscription into a sophisticated literary form intended for a reading public. Approximately twenty of his epigrams survive, encompassing the genre&#x27;s conventional themes: dedicatory verses to deities, epitaphs, erotic subjects, brief mythological narratives, and descriptions of artworks, or ekphraseis. No manuscript of Nicaenetus&#x27;s work exists independently; his poems are preserved solely through their inclusion in later anthologies. They were first gathered in the Garland of Meleager around 100 BCE and subsequently transmitted within the comprehensive compilation of the Greek Anthology. The extant twenty epigrams thus likely represent only a fraction of his original output. Modern scholarship situates Nicaenetus within the vibrant literary culture of the Hellenistic period, often associating him with the intellectual milieu of Alexandria. His poetry appears designed for an educated, elite audience with an appreciation for mythological allusion and technical refinement. As a contributor to a principal early anthology, his epigrams played a role in cementing the form&#x27;s significance for subsequent literary tradition.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 225.1.1",
+      "text": "Ἡρῷσσαι, Λιβύων ὄρος ἄκριτον αἵτε νέμεσθε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 225.1.2",
+      "text": "αἰγίδι καὶ στρεπτοῖς ζωσάμεναι θυσάνοις,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 225.1.3",
+      "text": "τέκνα θεῶν, δέξασθε Φιλήτιδος ἱερὰ ταῦτα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 225.1.4",
+      "text": "δράγματα καὶ χλωροὺς ἐκ καλάμης στεφάνους,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 225.5.1",
+      "text": "ἅσς’ ἀπὸ λικμητοῦ δεκατεύεται· ἀλλὰ καὶ οὕτως,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 225.5.2",
+      "text": "ἡρῷσσαι, Λιβύων χαίρετε δεσπότιδες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 502.1.1",
+      "text": "Ἠρίον εἰμὶ Βίτωνος, ὁδοιπόρε· εἰ δὲ Τορώνην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 502.1.2",
+      "text": "λείπων εἰς αὐτὴν ἔρχεαι Ἀμφίπολιν,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 502.1.3",
+      "text": "εἰπεῖν Νικαγόρᾳ, παίδων ὅτι τὸν μόνον αὐτῷ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 502.1.4",
+      "text": "Στρυμονίης Ἐρίφων ὤλεσε πανδυσίῃ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 29.1.1",
+      "text": "„Οἶνός τοι χαρίεντι πέλει ταχὺς ἵππος ἀοιδῷ·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 29.1.2",
+      "text": "ὕδωρ δὲ πίνων οὐδὲν ἂν τέκοις σοφόν.“",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 29.1.3",
+      "text": "τοῦτ’ ἔλεγεν, Διόνυσε, καὶ ἔπνεεν οὐχ ἑνὸς ἀσκοῦ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 29.1.4",
+      "text": "Κρατῖνος, ἀλλὰ παντὸς ὠδώδει πίθου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 29.5",
+      "text": "τοιγὰρ ὑπὸ στεφάνοις μέγας ἔβρυεν, εἶχε δὲ κισσῷ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 29",
+      "text": "μέτωπον ὥσπερ καὶ σὺ κεκροκωμένον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 191.1.1",
+      "text": "Αὐτόθεν ὀστράκινόν με καὶ ἐν ποσὶ γήινον Ἑρμῆν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 191.1.2",
+      "text": "ἔπλασεν ἁψῖδος κύκλος ἑλισσόμενος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 191.1.3",
+      "text": "πηλὸς ἐφυράθην, οὐ ψεύσομαι. ἀλλ’ ἐφίλησα,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 191",
+      "text": "ὦ ξεῖν’, ὀστρακέων δύσμορον ἐργασίην.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "jqa-aa",
+      "title": {
+        "english": "Fragments on Mythical Foundings",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μυθικῶν Κτισμάτων"
+      },
+      "url_slug": "nicaenetus-of-samos-mythical-foundings-jqa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicaenetus-of-samos/mythical-foundings",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicaenetus-of-samos-mythical-foundings-jqa-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicaenetus-of-samos-mythical-foundings-jqa-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicaenetus-of-samos-mythical-foundings-jqa-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicaenetus-of-samos-mythical-foundings-jqa-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicaenetus-of-samos/mythical-foundings.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "kjq-ap",
+      "title": {
+        "english": "Epic Fragment",
+        "ancient_greek": "Ἐπικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "epic-fragments-anonymous-fragment-kjq-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-fragment-kjq-ap.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-fragment-kjq-ap.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-fragment-kjq-ap.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-fragment-kjq-ap.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/fragment.epub"
+      }
+    },
+    {
+      "eul_wid": "adc-aa",
+      "title": {
+        "english": "Epic Fragments",
+        "ancient_greek": "Ἐπικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "aristeas-of-proconnesus-fragments-adc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristeas-of-proconnesus/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristeas-of-proconnesus-fragments-adc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristeas-of-proconnesus-fragments-adc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristeas-of-proconnesus-fragments-adc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristeas-of-proconnesus-fragments-adc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristeas-of-proconnesus/fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "alo-ab",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "peisander-of-camirus-epigram-alo-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/peisander-of-camirus/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus-epigram-alo-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus-epigram-alo-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus-epigram-alo-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus-epigram-alo-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus/epigram.epub"
+      }
+    },
+    {
+      "eul_wid": "izm-ae",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "rhianus-of-crete-epigrams-izm-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/rhianus-of-crete/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-epigrams-izm-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-epigrams-izm-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-epigrams-izm-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-epigrams-izm-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "ica-aa",
+      "title": {
+        "english": "Fragments on Zeus and Dionysus",
+        "ancient_greek": "Ἀποσπάσματα περὶ Διὸς καὶ Διονύσου"
+      },
+      "url_slug": "moero-of-byzantium-zeus-dionysus-ica-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/moero-of-byzantium/zeus-dionysus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium-zeus-dionysus-ica-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium-zeus-dionysus-ica-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium-zeus-dionysus-ica-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium-zeus-dionysus-ica-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium/zeus-dionysus.epub"
+      }
+    },
+    {
+      "eul_wid": "bbi-aa",
+      "title": {
+        "english": "Minyas Fragments",
+        "ancient_greek": "Μινύου Ἀποσπάσματα"
+      },
+      "url_slug": "minyas-the-epic-poet-fragments-bbi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/minyas-the-epic-poet/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/minyas-the-epic-poet-fragments-bbi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/minyas-the-epic-poet-fragments-bbi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/minyas-the-epic-poet-fragments-bbi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/minyas-the-epic-poet-fragments-bbi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/minyas-the-epic-poet/fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "lko-aa",
+      "title": {
+        "english": "Thebaid Fragments",
+        "ancient_greek": "Θηβαΐδος Ἀποσπάσματα"
+      },
+      "url_slug": "thebais-fragments-lko-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/thebais/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thebais-fragments-lko-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thebais-fragments-lko-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thebais-fragments-lko-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thebais-fragments-lko-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thebais/fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "avo-aa",
+      "title": {
+        "english": "Warrior of Unyielding Bronze",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "panteleius-the-epic-poet-warrior-of-unyielding-bronze-avo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/panteleius-the-epic-poet/warrior-of-unyielding-bronze",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panteleius-the-epic-poet-warrior-of-unyielding-bronze-avo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panteleius-the-epic-poet-warrior-of-unyielding-bronze-avo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panteleius-the-epic-poet-warrior-of-unyielding-bronze-avo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panteleius-the-epic-poet-warrior-of-unyielding-bronze-avo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panteleius-the-epic-poet/warrior-of-unyielding-bronze.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/nicaenetus-of-samos/epigrams",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicaenetus-of-samos-epigrams-jqa-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicaenetus-of-samos-epigrams-jqa-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicaenetus-of-samos-epigrams-jqa-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicaenetus-of-samos-epigrams-jqa-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicaenetus-of-samos/epigrams.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

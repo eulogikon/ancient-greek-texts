@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "gcm",
+  "auth_slug": "philetaerus-the-comic-poet",
+  "name": {
+    "english": "Philetaerus the Comic Poet",
+    "ancient_greek": "Φιλέταιρος ὁ κωμικός"
+  },
+  "seo_h1": "Philetaerus the Comic Poet on Life and Pleasure",
+  "seo": {
+    "browser_title": "Philetaerus the Comic Poet on Eulogikon Greek Archive",
+    "meta_title": "The Philetaerus Ancient Greek Comedy and Fragments",
+    "meta_description": "Philetaerus, a 4th-3rd century BCE Athenian comic poet. Read his surviving comedy fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Philetaerus the Comic Poet was an Athenian comic poet of the Middle Comedy period, active in the 4th and possibly early 3rd century BCE. According to the Suda lexicon, he was the brother of the poet Apollodorus of Carystus and the father of the poet Machon, placing him within a family of comic dramatists. Ancient sources credit him with an extraordinarily prolific output, with the Suda citing 200 plays. Only two titles survive from fragments: <strong>The Huntress</strong> and the mythological burlesque <strong>Tereus</strong>.</p>\n<p class=\"research-text\">Philetaerus was a significant figure in the transition from Middle to New Comedy. His fragments exhibit typical Middle Comedy themes, including mythological parody and depictions of contemporary character types like cooks and parasites, which became staples of the later New Comedy tradition. His successful career and familial connections highlight the professional nature of Attic comedy, and his work contributed to the evolution of the form that directly influenced Menander.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "gcm-aa",
+      "title": {
+        "english": "Comic Fragments on Life and Pleasure",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου καὶ Ἡδονῆς"
+      },
+      "url_slug": "philetaerus-the-comic-poet-comic-life-pleasure-gcm-aa",
+      "passages": 42,
+      "links": {
+        "html": "https://eulogikon.org/grc/philetaerus-the-comic-poet/comic-life-pleasure",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetaerus-the-comic-poet-comic-life-pleasure-gcm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetaerus-the-comic-poet-comic-life-pleasure-gcm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetaerus-the-comic-poet-comic-life-pleasure-gcm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetaerus-the-comic-poet-comic-life-pleasure-gcm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetaerus-the-comic-poet/comic-life-pleasure.epub"
+      }
+    },
+    {
+      "eul_wid": "gcm-ab",
+      "title": {
+        "english": "Fragments on Health and Pleasure",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ὑγιείας καὶ Ἡδονῆς"
+      },
+      "url_slug": "philetaerus-the-comic-poet-health-pleasure-gcm-ab",
+      "passages": 38,
+      "links": {
+        "html": "https://eulogikon.org/grc/philetaerus-the-comic-poet/health-pleasure",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetaerus-the-comic-poet-health-pleasure-gcm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetaerus-the-comic-poet-health-pleasure-gcm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetaerus-the-comic-poet-health-pleasure-gcm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetaerus-the-comic-poet-health-pleasure-gcm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetaerus-the-comic-poet/health-pleasure.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/philetaerus-the-comic-poet",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philetaerus-the-comic-poet-gcm.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philetaerus-the-comic-poet-gcm.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philetaerus-the-comic-poet-gcm.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philetaerus-the-comic-poet-gcm.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

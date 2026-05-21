@@ -1,0 +1,275 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "bls-ab",
+  "eul_aid": "bls",
+  "author_slug": "acusilaus-of-argos",
+  "work_slug": "testimonies-ab",
+  "url_slug": "acusilaus-of-argos-testimonies-ab-bls-ab",
+  "author": {
+    "english": "Acusilaus of Argos",
+    "ancient_greek": "Ἀκουσίλαος ὁ Ἀργεῖος"
+  },
+  "title": {
+    "english": "Testimonies 2",
+    "ancient_greek": "Μαρτυρίαι Β'"
+  },
+  "seo": {
+    "browser_title": "Testimonies and Fragments by Acusilaus of Argos on Eulogikon",
+    "meta_title": "Testimonies 2 by Acusilaus of Argos in Ancient Greek",
+    "meta_description": "Testimonies 2 contains prose fragments from Acusilaus, preserving his genealogical accounts. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>Testimonies 2</strong> is a modern designation for a collection of five prose fragments attributed to Acusilaus of Argos, an early Greek writer active around 500 BCE. Acusilaus is traditionally considered one of the earliest prose authors in Greece, and his major work, known as the <strong>Genealogies</strong>, was a systematic attempt to record and organize the origins of gods, heroes, and humans, with a particular emphasis on the traditions of his native Argos. The title <strong>Testimonies</strong> reflects the nature of these passages as excerpts or authoritative accounts, likely drawn from his larger genealogical writings. The work does not survive intact; the extant passages are preserved only through quotation by later ancient commentators and scholars, such as the Byzantine encyclopedist Suidas and the church father Clement of Alexandria. Writing during a transitional period when Greek literature was shifting from poetic to prose forms, Acusilaus is regarded as a pioneering mythographer. He helped establish genealogy as a distinct literary genre and exerted an influence on later historians, even though his subject matter remained rooted in the mythical past. His effort to synthesize diverse local stories into a coherent narrative represents a significant early step toward systematic historical writing.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "DIOG. I 41 [s. c. 10, 1] ἔνιοι προστιθέασιν Ἀκουσίλαον Κάβα ἢ Σκάβρα Ἀργεῖον. (42) Ἕρμιππος δ’ ἐν τῶι Περὶ τῶν σοφῶν [fr. 8 FHG III 37] ἑπτακαίδεκά φησιν ... εἶναι δὲ Σόλωνα, Θαλῆν, Πιττακόν, Βίαντα, Χίλωνα, 〈Μύσωνα〉, Κλεόβουλον, Περίανδρον, Ἀνάχαρσιν, Ἀκουσίλαον, Ἐπιμενίδην [3 A], Λεώφαντον, Φερεκύδην [7 A 2a] κτλ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "SUID. Ἀ. Κάβα υἱὸς Ἀργεῖος, ἀπὸ Κερκάδος πόλεως οὔσης Αὐλίδος πλησίον, ἱστορικὸς πρεσβύτατος. ἔγραψε δὲ Γενεαλογίας ἐκ δέλτων χαλκῶν, ἃς λόγος εὑρεῖν τὸν πατέρα αὐτοῦ ὀρύξαντά τινα τόπον τῆς οἰκίας αὐτοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "—Ἑκαταῖος ... πρῶτος δὲ ἱστορίαν πεζῶς ἐξήνεγκε, συγγραφὴν δὲ Φερεκύδης· τὰ γὰρ Ἀκουσιλάου νοθεύεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "CLEM. Strom VI 26 (II 443, 2 St.) τὰ δὲ Ἡσιόδου μετήλλαξαν εἰς πεζὸν λόγον καὶ ὡς ἴδια ἐξήνεγκαν Εὔμηλός [FHG II 20] τε καὶ Ἀ. οἱ ἱστοριογράφοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "SUID. Σαβῖνος σοφιστὴς γεγονὼς ἐπὶ Ἀδριανοῦ Καίσαρος· ἔγραψεν ... Εἰς Θουκυδίδην καὶ Ἀκουσίλαον καὶ ἄλλους ὑπομνήματα καὶ ἕτερά τινα ἐξηγητικά.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "bls-ad",
+      "title": {
+        "english": "Fragments on Cosmogony",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κοσμογονίας"
+      },
+      "url_slug": "acusilaus-of-argos-cosmogony-bls-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/acusilaus-of-argos/cosmogony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos-cosmogony-bls-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos-cosmogony-bls-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos-cosmogony-bls-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos-cosmogony-bls-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos/cosmogony.epub"
+      }
+    },
+    {
+      "eul_wid": "bls-ac",
+      "title": {
+        "english": "Fragments on Rivers",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ποταμῶν"
+      },
+      "url_slug": "acusilaus-of-argos-rivers-bls-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/acusilaus-of-argos/rivers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos-rivers-bls-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos-rivers-bls-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos-rivers-bls-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos-rivers-bls-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos/rivers.epub"
+      }
+    },
+    {
+      "eul_wid": "bls-aa",
+      "title": {
+        "english": "Testimonies 1",
+        "ancient_greek": "Μαρτυρίαι Α'"
+      },
+      "url_slug": "acusilaus-of-argos-testimonies-aa-bls-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/acusilaus-of-argos/testimonies-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos-testimonies-aa-bls-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos-testimonies-aa-bls-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos-testimonies-aa-bls-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos-testimonies-aa-bls-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos/testimonies-aa.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "mmg-ao",
+      "title": {
+        "english": "Anonymous Corinthian",
+        "ancient_greek": "Ἀνώνυμος Κορίνθιος"
+      },
+      "url_slug": "historical-fragments-anonymous-corinthian-mmg-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/corinthian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-corinthian-mmg-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-corinthian-mmg-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-corinthian-mmg-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-corinthian-mmg-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/corinthian.epub"
+      }
+    },
+    {
+      "eul_wid": "ezq-ab",
+      "title": {
+        "english": "Constitution of the Athenians",
+        "ancient_greek": "Ἀθηναίων Πολιτεία"
+      },
+      "url_slug": "xenophon-of-athens-constitution-ezq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/constitution",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-constitution-ezq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-constitution-ezq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-constitution-ezq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-constitution-ezq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/constitution.epub"
+      }
+    },
+    {
+      "eul_wid": "dji-aa",
+      "title": {
+        "english": "Fragments on Peoples",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἐθνῶν"
+      },
+      "url_slug": "damastes-of-sigeum-peoples-dji-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/damastes-of-sigeum/peoples",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damastes-of-sigeum-peoples-dji-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damastes-of-sigeum-peoples-dji-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damastes-of-sigeum-peoples-dji-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damastes-of-sigeum-peoples-dji-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damastes-of-sigeum/peoples.epub"
+      }
+    },
+    {
+      "eul_wid": "rpi-aa",
+      "title": {
+        "english": "History of the Successors",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dexippus-of-athens-successors-rpi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dexippus-of-athens/successors",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dexippus-of-athens-successors-rpi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dexippus-of-athens-successors-rpi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dexippus-of-athens-successors-rpi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dexippus-of-athens-successors-rpi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dexippus-of-athens/successors.epub"
+      }
+    },
+    {
+      "eul_wid": "kwi-aa",
+      "title": {
+        "english": "Marvels",
+        "ancient_greek": "Θαύματα"
+      },
+      "url_slug": "vatican-paradoxographer-marvels-kwi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/vatican-paradoxographer/marvels",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/vatican-paradoxographer-marvels-kwi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/vatican-paradoxographer-marvels-kwi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/vatican-paradoxographer-marvels-kwi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/vatican-paradoxographer-marvels-kwi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/vatican-paradoxographer/marvels.epub"
+      }
+    },
+    {
+      "eul_wid": "lze-aa",
+      "title": {
+        "english": "Naxian Tales of Polycrite",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "andriscus-the-pretender-naxian-tales-of-polycrite-lze-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/andriscus-the-pretender/naxian-tales-of-polycrite",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andriscus-the-pretender-naxian-tales-of-polycrite-lze-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andriscus-the-pretender-naxian-tales-of-polycrite-lze-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andriscus-the-pretender-naxian-tales-of-polycrite-lze-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andriscus-the-pretender-naxian-tales-of-polycrite-lze-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andriscus-the-pretender/naxian-tales-of-polycrite.epub"
+      }
+    },
+    {
+      "eul_wid": "ndy-an",
+      "title": {
+        "english": "On Deinarchus",
+        "ancient_greek": "Περὶ Δεινάρχου"
+      },
+      "url_slug": "dionysius-of-halicarnassus-deinarchus-ndy-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/deinarchus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-deinarchus-ndy-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-deinarchus-ndy-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-deinarchus-ndy-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-deinarchus-ndy-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/deinarchus.epub"
+      }
+    },
+    {
+      "eul_wid": "csk-ab",
+      "title": {
+        "english": "On the River Aryos",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "xanthus-the-lydian-river-aryos-csk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/xanthus-the-lydian/river-aryos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian-river-aryos-csk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian-river-aryos-csk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian-river-aryos-csk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian-river-aryos-csk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian/river-aryos.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/acusilaus-of-argos/testimonies-ab",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos-testimonies-ab-bls-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos-testimonies-ab-bls-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos-testimonies-ab-bls-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos-testimonies-ab-bls-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos/testimonies-ab.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

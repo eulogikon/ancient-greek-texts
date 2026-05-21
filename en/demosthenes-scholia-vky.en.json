@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "vky",
+  "auth_slug": "demosthenes-scholia",
+  "name": {
+    "english": "Demosthenes Scholia",
+    "ancient_greek": "Δημοσθένους Σχόλια"
+  },
+  "seo_h1": "Demosthenes Scholia",
+  "seo": {
+    "browser_title": "Demosthenes Scholia Works on Eulogikon Greek Archive",
+    "meta_title": "Demosthenes Scholia Ancient Greek Commentary Works",
+    "meta_description": "Demosthenes Scholia are ancient explanatory notes by grammarians. Contains one surviving commentary. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Demosthenes Scholia are a collection of ancient explanatory notes, not the work of a single author. They represent the compiled scholarship of many grammarians and teachers from the Hellenistic period through late antiquity. The compilation as it exists today was likely organized in the 5th or 6th century CE, drawing on centuries of earlier work.</p>\n<p class=\"research-text\">These anonymous scholars were part of the Greco-Roman educational tradition, working in major centers of learning like Alexandria and Constantinople. Their role was to analyze and explain classical texts for students. While most contributors are unknown, the scholia preserve material from famous earlier commentators, such as the 1st-century BCE scholar Didymus Chalcenterus.</p>\n<p class=\"research-text\">The collection consists of marginal and interlinear annotations on the speeches of the Athenian orator Demosthenes. The notes cover a wide range of topics, including textual corrections, explanations of historical events and people, and analyses of rhetorical techniques. The completeness and detail of these notes vary across the different speeches.</p>\n<p class=\"research-text\">According to modern scholars, the Demosthenes Scholia are a vital resource for several reasons. They preserve fragments of lost historical works and record how ancient scholars interpreted Athenian politics and law. For editors of the Greek text, the scholia provide crucial evidence of how Demosthenes&#x27; speeches were read and edited in antiquity. Finally, they offer a direct window into ancient teaching methods, showing how a canonical author was studied and explained over nearly a thousand years of scholarly tradition.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "vky-aa",
+      "title": {
+        "english": "Scholia-Demosthenes",
+        "ancient_greek": "Σχόλια εἰς Δημοσθένη"
+      },
+      "url_slug": "demosthenes-scholia-text-vky-aa",
+      "passages": 4790,
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-scholia/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-scholia-text-vky-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-scholia-text-vky-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-scholia-text-vky-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-scholia-text-vky-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-scholia/text.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/demosthenes-scholia",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demosthenes-scholia-vky.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demosthenes-scholia-vky.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demosthenes-scholia-vky.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demosthenes-scholia-vky.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

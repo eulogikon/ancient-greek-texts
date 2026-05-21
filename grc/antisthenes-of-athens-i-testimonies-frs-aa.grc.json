@@ -1,0 +1,218 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "frs-aa",
+  "eul_aid": "frs",
+  "author_slug": "antisthenes-of-athens-i",
+  "work_slug": "testimonies",
+  "url_slug": "antisthenes-of-athens-i-testimonies-frs-aa",
+  "author": {
+    "english": "Antisthenes of Athens I",
+    "ancient_greek": "Ἀντισθένης ὁ Ἀθηναῖος"
+  },
+  "title": {
+    "english": "Testimonies",
+    "ancient_greek": "Μαρτυρίαι"
+  },
+  "seo": {
+    "browser_title": "The Testimonies by Antisthenes of Athens on Eulogikon",
+    "meta_title": "Testimonies by Antisthenes of Athens in Ancient Greek",
+    "meta_description": "Testimonies is a lost philosophical prose work by Socrates pupil Antisthenes. Influenced Cynic thought. Read in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Φιλοσοφική Ἀττική",
+      "english": "Attic Philosophical",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Cynic",
+      "href": "/affiliations/cynic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Testimonies</strong> is a lost philosophical work by Antisthenes of Athens, a direct pupil of Socrates and a foundational figure for the Cynic tradition. Composed in Attic Greek during the late fifth or early fourth century BCE, the treatise is known solely by its title, which is recorded in the list of Antisthenes&#x27; writings provided by the biographer Diogenes Laertius. The title suggests a collection of statements, proofs, or evidential accounts, but no direct quotations or descriptions of its content survive. Modern scholarship, based on Antisthenes&#x27; known interests in ethics, logic, and rhetoric, speculates that the work may have contained arguments concerning virtue, asceticism, or the nature of language. However, its specific themes and structure remain entirely conjectural. The complete loss of the text is characteristic of the poor transmission of Antisthenes&#x27; extensive corpus, which was largely eclipsed by the philosophical works of Plato and Aristotle.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "DIOG VI 19 γεγόνασι δὲ καὶ ἄλλοι Ἀντισθένεις τρεῖς· Ἡρακλείτειος εἷς καὶ ἕτερος Ἐφέσιος καὶ Ῥόδιός τις ἱστορικός [FHG II 174ff.].",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "ANDERE HERAKLITEER [ARISTOT.] Probl. 23, 30. 934b 33 διὸ καί φασί τινες τῶν ἡρακλειτιζόντων ἐκ μὲν τοῦ ποτίμου ξηραινομένου καὶ πηγνυμένου λίθους γίνεσθαι καὶ γῆν, ἐκ δὲ τῆς θαλάττης τὸν ἥλιον ἀναθυμιᾶσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "PLATO Theaet. p. 179D οἱ γὰρ τοῦ Ἡρακλείτου ἑταῖροι χορηγοῦσι τού του τοῦ λόγου μάλα ἐρρωμένως [sc. αἴσθησιν καὶ ἐπιστήμην ταὐτὸν εἶναι].",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "okg-bk",
+      "title": {
+        "english": "Comparison of Pericles and Fabius",
+        "ancient_greek": "Περικλέους καὶ Φαβίου σύγκρισις"
+      },
+      "url_slug": "plutarch-of-chaeronea-pericles-fabius-okg-bk",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/pericles-fabius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pericles-fabius-okg-bk.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pericles-fabius-okg-bk.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pericles-fabius-okg-bk.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pericles-fabius-okg-bk.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/pericles-fabius.epub"
+      }
+    },
+    {
+      "eul_wid": "ojw-ac",
+      "title": {
+        "english": "Discourses of Epictetus by Arrian",
+        "ancient_greek": "Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν"
+      },
+      "url_slug": "epictetus-discourses-ojw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/epictetus/discourses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-discourses-ojw-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-discourses-ojw-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-discourses-ojw-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-discourses-ojw-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/discourses.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-at",
+      "title": {
+        "english": "Exhortation to Young Valentinian",
+        "ancient_greek": "Προτρεπτικὸς Οὐαλεντινιανῷ νέῳ"
+      },
+      "url_slug": "themistius-exhortation-valentinian-rye-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/exhortation-valentinian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/exhortation-valentinian.epub"
+      }
+    },
+    {
+      "eul_wid": "faa-ab",
+      "title": {
+        "english": "Fragments on Mathematics and Harmony",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μαθημάτων καὶ Ἁρμονίας"
+      },
+      "url_slug": "archytas-of-tarentum-mathematics-harmony-faa-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/archytas-of-tarentum/mathematics-harmony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum-mathematics-harmony-faa-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum-mathematics-harmony-faa-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum-mathematics-harmony-faa-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum-mathematics-harmony-faa-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum/mathematics-harmony.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-ae",
+      "title": {
+        "english": "On Generation and Corruption",
+        "ancient_greek": "Περὶ Γενέσεως καὶ Φθορᾶς"
+      },
+      "url_slug": "aristotle-generation-corruption-hgw-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/generation-corruption",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-corruption-hgw-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-corruption-hgw-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-corruption-hgw-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-corruption-hgw-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/generation-corruption.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-ac",
+      "title": {
+        "english": "On the Length and Shortness of Life",
+        "ancient_greek": "Περὶ Μακροβιότητος καὶ Βραχυβιότητος"
+      },
+      "url_slug": "aristotle-length-life-hgw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/length-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-length-life-hgw-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-length-life-hgw-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-length-life-hgw-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-length-life-hgw-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/length-life.epub"
+      }
+    },
+    {
+      "eul_wid": "aua-ab",
+      "title": {
+        "english": "On the Nature of the Infinite",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "anaximander-of-miletus-nature-infinite-aua-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/anaximander-of-miletus/nature-infinite",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus-nature-infinite-aua-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus-nature-infinite-aua-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus-nature-infinite-aua-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus-nature-infinite-aua-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus/nature-infinite.epub"
+      }
+    },
+    {
+      "eul_wid": "aeg-aa",
+      "title": {
+        "english": "Preamble to the Laws",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "zaleucus-of-locri-preamble-laws-aeg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/zaleucus-of-locri/preamble-laws",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zaleucus-of-locri-preamble-laws-aeg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zaleucus-of-locri-preamble-laws-aeg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zaleucus-of-locri-preamble-laws-aeg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zaleucus-of-locri-preamble-laws-aeg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zaleucus-of-locri/preamble-laws.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/antisthenes-of-athens-i/testimonies",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-i-testimonies-frs-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-i-testimonies-frs-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-i-testimonies-frs-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-i-testimonies-frs-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-i/testimonies.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

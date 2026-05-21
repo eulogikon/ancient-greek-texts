@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "gfy",
+  "auth_slug": "sosthenes-of-cnidus",
+  "name": {
+    "english": "Sosthenes of Cnidus",
+    "ancient_greek": "Σωσθένης ὁ Κνίδιος"
+  },
+  "seo_h1": "Sosthenes of Cnidus and the History of Philip",
+  "seo": {
+    "browser_title": "Sosthenes of Cnidus Historian on Eulogikon Greek Archive",
+    "meta_title": "Sosthenes of Cnidus Ancient Greek Historical Works",
+    "meta_description": "Sosthenes of Cnidus was a 4th century BCE historian. His surviving works are preserved in fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Sosthenes of Cnidus was a Greek historian known only from a single citation by the Roman author Aulus Gellius. He was active in the 4th century BCE, as his work concerned Philip II of Macedon.</p>\n<p class=\"research-text\">His sole attested work is the lost History of Philip, referenced in Aulus Gellius&#x27; Attic Nights. No fragments or descriptions of its content are extant.</p>\n<p class=\"research-text\">Sosthenes is a minor figure, significant only as one of several lost historians who documented the rise of Macedon under Philip II. His work would have offered a contemporary perspective, but its complete loss prevents any assessment of its historical value or style.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "gfy-aa",
+      "title": {
+        "english": "Fragments on Iberian Myths",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ἰβηρικῶν Μύθων"
+      },
+      "url_slug": "sosthenes-of-cnidus-iberian-myths-gfy-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/sosthenes-of-cnidus/iberian-myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosthenes-of-cnidus-iberian-myths-gfy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosthenes-of-cnidus-iberian-myths-gfy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosthenes-of-cnidus-iberian-myths-gfy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosthenes-of-cnidus-iberian-myths-gfy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosthenes-of-cnidus/iberian-myths.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/sosthenes-of-cnidus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sosthenes-of-cnidus-gfy.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sosthenes-of-cnidus-gfy.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sosthenes-of-cnidus-gfy.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sosthenes-of-cnidus-gfy.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

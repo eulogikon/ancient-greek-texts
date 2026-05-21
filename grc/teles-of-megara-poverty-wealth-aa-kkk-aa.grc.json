@@ -1,0 +1,324 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "kkk-aa",
+  "eul_aid": "kkk",
+  "author_slug": "teles-of-megara",
+  "work_slug": "poverty-wealth-aa",
+  "url_slug": "teles-of-megara-poverty-wealth-aa-kkk-aa",
+  "author": {
+    "english": "Teles of Megara",
+    "ancient_greek": "Τέλης ὁ Μεγαρεύς"
+  },
+  "title": {
+    "english": "On the Comparison of Poverty and Wealth",
+    "ancient_greek": "Περὶ συγκρίσεως πενίας καὶ πλούτου"
+  },
+  "seo": {
+    "browser_title": "Comparison Poverty and Wealth by Teles of Megara Eulogikon",
+    "meta_title": "Comparison of Poverty and Wealth by Teles in Ancient Greek",
+    "meta_description": "A Cynic discourse comparing poverty and wealth by Teles of Megara. Moral dialogue in Koine Greek. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (phi, frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Διάλογος",
+      "english": "Dialogue",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Cynic",
+      "href": "/affiliations/cynic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On the Comparison of Poverty and Wealth</strong> is a philosophical discourse by Teles of Megara, a teacher in the Cynic tradition active in the 3rd century BCE. Written in Koine Greek, the work is a prime example of the diatribe, a genre of moral exhortation characterized by its lively, sermon-like style and often structured as an imagined dialogue. Teles mounts a vigorous argument for the moral and practical superiority of poverty over wealth, championing core Cynic and Stoic ideals such as self-sufficiency, freedom from desire, and the cultivation of virtue independent of external circumstances. The complete text is lost; our knowledge derives from two substantial excerpts preserved in the 5th-century CE anthology of Stobaeus. These fragments reveal Teles employing classic diatribal techniques, including rhetorical questions and appeals to exemplary figures like Socrates and Diogenes the Cynic, to demonstrate that poverty fosters resilience and philosophical leisure, whereas wealth breeds distraction, vice, and anxiety. The work is considered a significant artifact of popular Hellenistic moral philosophy, intended not for specialists but for students or a general audience seeking practical ethical guidance. Its central thesis holds that true wealth is found in virtue and inner freedom, while material riches ultimately enslave and corrupt.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "45 (1t)",
+      "text": "ΕΚ ΤΩΝ ΤΕΛΗΤΟΣ ΕΠΙΤΟΜΗ Ἡ πενία κωλύει πρὸς τὸ φιλοσοφεῖν, ὁ δὲ πλοῦτος εἰς ταῦτα χρήσιμον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "48",
+      "text": "Οὐκ εὖ. πόσους γὰρ οἴει δι’ εὐπορίαν ἢ δι’ ἔνδειαν κωλυθῆναι σχολάζειν; ἢ οὐχ ὁρᾷς ὅτι ὡς ἐπὶ τὸ πολὺ οἱ πτωχότατοι φιλοσοφοῦσιν, οἱ δὲ πλούσιοι διὰ ταῦτ’ αὐτὰ ἐν τῇ πάσῃ ἀσχολίᾳ εἰσίν; οὐ κακῶς δὲ καὶ Θέογνις λέγει πολλῷ τοι πλείους λιμοῦ κόρος ὤλεσεν ἄνδρας. ἐπεὶ ποῦ ἂν δείξειας δι’ ἔνδειαν κεκωλυμένους φιλοσοφεῖν, ὥσπερ διὰ πλοῦτον; ἢ οὐχ ὁρᾷς ὅτι διὰ μὲν ἔνδειαν καρτερεῖν βιάζονται, διὰ δὲ πλοῦτον τὰ ἐναντία; ὅταν γάρ, οἶμαι, τῷ ἀνθρώπῳ προσγένηται εὐχερῶς πορίζεσθαι ὧν ἂν ἐπιθυμῇ, οὐκέτι οὗτος πρὸς τὸ πονεῖν ἢ ζητεῖν τι ἐστίν, ἀλλ’ ἔχων συνεργὸν τὸν πλοῦτον τῇ αὑτοῦ κακίᾳ, οὐδεμιᾶς ἡδονῆς ἀπέχεται. ἢ πάλιν οὐχ ὁρᾷς διότι οἱ μὲν πλούσιοι πλείω πράττοντες κωλύονται τοῦ σχολάζειν, ὁ δὲ πένης οὐκ ἔχων τί πράττῃ, πρὸς τὸ φιλοσοφεῖν γίνεται; Ζήνων ἔφη Κράτητα ἀναγινώσκειν ἐν σκυτείῳ καθήμενον τὸν Ἀριστοτέλους Προτρεπτικόν, ὃν ἔγραψε πρὸς Θεμίσωνα τὸν Κυπρίων βασιλέα λέγων ὅτι οὐδενὶ πλείω ἀγαθὰ ὑπάρχει πρὸς τὸ φιλοσοφῆσαι· πλοῦτόν τε γὰρ πλεῖστον αὐτὸν ἔχειν ὥστε δαπανᾶν εἰς ταῦτα, ἔτι δὲ δόξαν ὑπάρχειν αὐτῷ. ἀναγινώσκοντος δὲ αὐτοῦ τὸν σκυτέα ἔφη προσέχειν ἅμα ῥάπτοντα, καὶ τὸν Κράτητα εἰπεῖν ‘ἐγώ μοι δοκῶ, ὦ Φιλίσκε, γράφειν πρὸς σὲ προτρεπτικόν· πλείω γὰρ ὁρῶ σοι ὑπάρχοντα πρὸς τὸ φιλοσοφῆσαι 〈ἢ〉 ᾧ ἔγραψεν Ἀριστοτέλης.‘ ἢ πάλιν οἰκέται μὲν οἱ τυχόντες αὑτοὺς τρέφουσι καὶ μισθὸν τελοῦσι τοῖς κυρίοις, ἐλεύθερος δὲ ἀνὴρ αὑτὸν τρέφειν οὐ δυνήσεται; ἐπεὶ καὶ τῶν τοιούτων φροντίδων μοι δοκεῖ ὁ ἄβιος λελυμένος πολὺ εὐσχολώτερος εἶναι τῷ μηδὲν ὑπάρχειν. οἷον δήπου ἐν τῷ νῦν πολέμῳ περὶ οὐδενὸς φροντίζει ἢ περὶ αὑτοῦ, ὁ δὲ πλούσιος καὶ περὶ ἑτέρων. οὐ κακῶς οὖν οὐδὲ Σοφοκλῆς πεποίηκε λέγοντα τὸν Οἰδίπουν τὸ μὲν γὰρ ὑμῶν ἄλγος εἰς ἕν’ ἔρχεται, ἐγὼ δ’ ἐμαυτὸν καὶ πόλιν καὶ σὲ στένω. ἀλλ’ ὅμως ταῦθ’ ὁρῶντες γινόμενα οὐδὲν ἧττον κακοδαιμονεῖν οἴονται, κἂν πένητες ὦσι. φασὶ δὲ καὶ ἐν ταῖς πόλεσιν ἐντιμοτέρους εἶναι μᾶλλον τοὺς πλουσίους τῶν πενήτων. οἱ τοιοῦτοι δέ μοι δοκοῦσιν οὐκ ἀκούειν διότι Ἀριστείδης πτωχότατος ὢν πάντων Ἀθηναίων ἐντιμότατος ἦν, καὶ ὅτε τοὺς φόρους ταῖς πόλεσιν ἤθελον τάξαι Ἀθηναῖοι, ἐκεῖνον κατέστησαν, οὐδένα οἰόμενοι δικαιότερ’ ἂν τάξαι· καὶ ὅτι Καλλίας πλουσιώτατος ὢν Ἀθηναίων μᾶλλον προσεποιεῖτο Ἀριστείδου οἰκεῖος εἶναι ἢ Ἀριστείδης Καλλίου, καὶ πολὺ μᾶλλον ᾐσχύνετο Ἀριστείδης ἐπὶ τῷ πλούτῳ 〈τῷ〉 Καλλίου, ἢ Καλλίας ἐπὶ τῇ πενίᾳ τῇ Ἀριστείδου. ἢ πάλιν Λυσάνδρου τοῦ Σπαρτιάτου τίς ἐντιμότερος γέγονεν ἢ τιμῶν πλειόνων ἠξιώθη; καὶ οὗτος τὰς θυγατέρας οὐκ ἐδύνατο ἐκδόσθαι προῖκα δούς. 〈καὶ〉 ἄλλους δὲ ὁπόσους θέλεις ἄν τις εἴποι, οἳ πένητες ὄντες ἐν μείζονι τιμῇ ἐγένοντο τῶν πλουσίων. οὐκ ἀπὸ τρόπου δέ μοι δοκεῖ οὐδ’ ὁ Εὐριπίδης ἐγκωμιάζων λέγειν τὸν Ἐτεοκλέα διότι νεανίας μὲν ἐνδεὴς ἦν, πλείστας δὲ τιμὰς ἔσχ’ ἐν Ἀργείων πόλει.",
+      "witness_prefix": "",
+      "speaker": "—"
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "kkk-af",
+      "title": {
+        "english": "On Circumstances",
+        "ancient_greek": "Περὶ περιστάσεων"
+      },
+      "url_slug": "teles-of-megara-circumstances-kkk-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/teles-of-megara/circumstances",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-circumstances-kkk-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-circumstances-kkk-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-circumstances-kkk-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-circumstances-kkk-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/circumstances.epub"
+      }
+    },
+    {
+      "eul_wid": "kkk-ah",
+      "title": {
+        "english": "On Flight",
+        "ancient_greek": "Περὶ φυγῆς"
+      },
+      "url_slug": "teles-of-megara-flight-kkk-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/teles-of-megara/flight",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-flight-kkk-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-flight-kkk-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-flight-kkk-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-flight-kkk-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/flight.epub"
+      }
+    },
+    {
+      "eul_wid": "kkk-ag",
+      "title": {
+        "english": "On Impassibility",
+        "ancient_greek": "Περὶ ἀπαθείας"
+      },
+      "url_slug": "teles-of-megara-impassibility-kkk-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/teles-of-megara/impassibility",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-impassibility-kkk-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-impassibility-kkk-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-impassibility-kkk-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-impassibility-kkk-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/impassibility.epub"
+      }
+    },
+    {
+      "eul_wid": "kkk-ac",
+      "title": {
+        "english": "On Pleasure Not Being the End",
+        "ancient_greek": "Περὶ τοῦ μὴ εἶναι τέλος ἡδονήν"
+      },
+      "url_slug": "teles-of-megara-pleasure-not-end-kkk-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/teles-of-megara/pleasure-not-end",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-pleasure-not-end-kkk-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-pleasure-not-end-kkk-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-pleasure-not-end-kkk-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-pleasure-not-end-kkk-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/pleasure-not-end.epub"
+      }
+    },
+    {
+      "eul_wid": "kkk-ad",
+      "title": {
+        "english": "On Seeming and Being",
+        "ancient_greek": "Περὶ τοῦ δοκεῖν καὶ τοῦ εἶναι"
+      },
+      "url_slug": "teles-of-megara-seeming-being-kkk-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/teles-of-megara/seeming-being",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-seeming-being-kkk-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-seeming-being-kkk-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-seeming-being-kkk-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-seeming-being-kkk-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/seeming-being.epub"
+      }
+    },
+    {
+      "eul_wid": "kkk-ae",
+      "title": {
+        "english": "On Self-Sufficiency",
+        "ancient_greek": "Περὶ αὐταρκείας"
+      },
+      "url_slug": "teles-of-megara-self-sufficiency-kkk-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/teles-of-megara/self-sufficiency",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-self-sufficiency-kkk-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-self-sufficiency-kkk-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-self-sufficiency-kkk-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-self-sufficiency-kkk-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/self-sufficiency.epub"
+      }
+    },
+    {
+      "eul_wid": "kkk-ab",
+      "title": {
+        "english": "On the Comparison of Poverty and Wealth",
+        "ancient_greek": "Περὶ συγκρίσεως πενίας καὶ πλούτου"
+      },
+      "url_slug": "teles-of-megara-poverty-wealth-ab-kkk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/teles-of-megara/poverty-wealth-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-poverty-wealth-ab-kkk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-poverty-wealth-ab-kkk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-poverty-wealth-ab-kkk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-poverty-wealth-ab-kkk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/poverty-wealth-ab.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "kms-ab",
+      "title": {
+        "english": "Fragments Related to Individual Books",
+        "ancient_greek": "Ἀποσπάσματα πρὸς ἕκαστον βιβλίον"
+      },
+      "url_slug": "chrysippus-of-soli-fragments-kms-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/chrysippus-of-soli/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-fragments-kms-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-fragments-kms-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-fragments-kms-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-fragments-kms-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "msa-ac",
+      "title": {
+        "english": "Fragments on Customs and Wars",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἐθῶν καὶ Πολέμων"
+      },
+      "url_slug": "posidonius-of-apameia-rhodes-customs-wars-msa-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/posidonius-of-apameia-rhodes/customs-wars",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-customs-wars-msa-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-customs-wars-msa-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-customs-wars-msa-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-customs-wars-msa-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes/customs-wars.epub"
+      }
+    },
+    {
+      "eul_wid": "pcs-ah",
+      "title": {
+        "english": "Letter to Lucius Gellius",
+        "ancient_greek": "Ἐπιστολὴ πρὸς Λούκιον Γέλλιον"
+      },
+      "url_slug": "arrian-of-nicomedia-letter-lucius-gellius-pcs-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/letter-lucius-gellius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-letter-lucius-gellius-pcs-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-letter-lucius-gellius-pcs-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-letter-lucius-gellius-pcs-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-letter-lucius-gellius-pcs-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/letter-lucius-gellius.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-av",
+      "title": {
+        "english": "On Abstinence",
+        "ancient_greek": "Περὶ Ἀποχῆς"
+      },
+      "url_slug": "porphyry-of-tyre-abstinence-udm-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/abstinence",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-abstinence-udm-av.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-abstinence-udm-av.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-abstinence-udm-av.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-abstinence-udm-av.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/abstinence.epub"
+      }
+    },
+    {
+      "eul_wid": "uzu-aa",
+      "title": {
+        "english": "On Aristotle's Four Books-the Heavens, Commentary",
+        "ancient_greek": "Περὶ τῶν Τεσσάρων Βιβλίων τοῦ Ἀριστοτέλους Περὶ"
+      },
+      "url_slug": "simplicius-of-cilicia-on-heavens-commentary-uzu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/simplicius-of-cilicia/on-heavens-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-on-heavens-commentary-uzu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-on-heavens-commentary-uzu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-on-heavens-commentary-uzu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-on-heavens-commentary-uzu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/on-heavens-commentary.epub"
+      }
+    },
+    {
+      "eul_wid": "dra-ab",
+      "title": {
+        "english": "On the Cosmos and Necessity",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "leucippus-the-atomist-cosmos-necessity-dra-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/leucippus-the-atomist/cosmos-necessity",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leucippus-the-atomist-cosmos-necessity-dra-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leucippus-the-atomist-cosmos-necessity-dra-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leucippus-the-atomist-cosmos-necessity-dra-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leucippus-the-atomist-cosmos-necessity-dra-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leucippus-the-atomist/cosmos-necessity.epub"
+      }
+    },
+    {
+      "eul_wid": "ffk-ag",
+      "title": {
+        "english": "Republic",
+        "ancient_greek": "Πολιτεία"
+      },
+      "url_slug": "plato-republic-ffk-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/republic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-republic-ffk-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-republic-ffk-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-republic-ffk-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-republic-ffk-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/republic.epub"
+      }
+    },
+    {
+      "eul_wid": "sno-ad",
+      "title": {
+        "english": "To the Council and People of Athens",
+        "ancient_greek": "Ἀθηναίων τῇ βουλῇ καὶ τῷ δήμῳ"
+      },
+      "url_slug": "julian-the-apostate-council-people-sno-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/julian-the-apostate/council-people",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-council-people-sno-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-council-people-sno-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-council-people-sno-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-council-people-sno-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/council-people.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/teles-of-megara/poverty-wealth-aa",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-poverty-wealth-aa-kkk-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-poverty-wealth-aa-kkk-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-poverty-wealth-aa-kkk-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-poverty-wealth-aa-kkk-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/poverty-wealth-aa.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

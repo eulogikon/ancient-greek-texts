@@ -1,0 +1,497 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "eme-aa",
+  "eul_aid": "eme",
+  "author_slug": "gorgias-of-leontini",
+  "work_slug": "testimonies-2",
+  "url_slug": "gorgias-of-leontini-testimonies-2-eme-aa",
+  "author": {
+    "english": "Gorgias of Leontini",
+    "ancient_greek": "Γοργίας ὁ Λεοντῖνος"
+  },
+  "title": {
+    "english": "Testimonies 2",
+    "ancient_greek": "Ὑπὲρ Παλαμήδους ἀπολογία Β'"
+  },
+  "seo": {
+    "browser_title": "Testimonies 2 by Gorgias of Leontini on Eulogikon Archive",
+    "meta_title": "Testimonies 2 by Gorgias of Leontini in Ancient Greek",
+    "meta_description": "Testimonies 2 collects 39 rhetorical passages by Gorgias, representing early forensic oratory. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Testimonies 2 is a collection of thirty-nine rhetorical passages attributed to the Sicilian orator and teacher Gorgias of Leontini, a prominent figure of the fifth century BCE. As a work of forensic oratory, it was designed for legal contexts, functioning as a practical handbook of model arguments, witness statements, and common patterns of proof for students and litigants. The collection exemplifies the sophistic movement’s focus on teaching persuasive speech as a powerful and practical skill essential for success in the Athenian law courts and public life. While the exact content of the work is not detailed in surviving sources, it is characteristic of Gorgias’s influential artistic style, which employed deliberate techniques such as balanced clauses, antithesis, and rhythmic patterns—collectively known as Gorgianic figures—to maximize persuasive impact. Scholars interpret this collection as part of the broader sophistic project to systematize and teach rhetoric as a technical discipline, highlighting the central role of persuasive speech in classical Athenian democracy. The transmission of Gorgias’s works is fragmentary, known primarily through quotations in later authors and rhetorical compilations. Testimonies 2 itself likely survived through later Hellenistic or Roman rhetorical anthologies. Despite its partial preservation, the work represents the practical core of Gorgias’s legacy, which profoundly shaped the development of Greek artistic prose and the formalization of rhetorical education.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1a",
+      "text": "PHILOSTR. V. S. I 1 ἦρξε δὲ τῆς μὲν ἀρχαιοτέρας [σοφιστικῆς] Γ. ὁ Λεοντῖνος ἐν Θετταλοῖς ... σχεδίου τε λόγου Γ. ἄρξαι [sc. δοκεῖ]· παρελθὼν γὰρ οὗτος ἐς τὸ Ἀθηναίων θέατρον ἐθάρρησεν εἰπεῖν ‘προβάλλετε‘ καὶ τὸ κινδύνευμα τοῦτο πρῶτος ἀνεφθέγξατο, ἐνδεικνύμενος δήπου πάντα μὲν εἰδέναι, περὶ παντὸς δ’ ἂν εἰπεῖν ἐφιεὶς τῶι καιρῶι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "SUID. Γοργίας Χαρμαντίδου Λεοντῖνος, ῥήτωρ, μαθητὴς Ἐμπεδοκλέους, διδάσκαλος Πώλου Ἀκραγαντίνου καὶ Περικλέους καὶ Ἰσοκράτους καὶ Ἀλκιδάμαντος τοῦ Ἐλαΐτου, ὃς αὐτοῦ καὶ τὴν σχολὴν διεδέξατο· ἀδελφὸς δὲ ἦν τοῦ ἰατροῦ Ἡροδίκου [A 2a]. Πορφύριος δὲ αὐτὸν ἐπὶ τῆς π ὀλυμπιάδος [460—457] τίθησιν· ἀλλὰ χρὴ νοεῖν πρεσβύτερον αὐτὸν εἶναι. οὗτος πρῶτος τῶι ῥητορικῶι εἴδει τῆς παιδείας δύναμίν τε φραστικὴν καὶ τέχνην ἔδωκε, τροπαῖς τε καὶ μεταφοραῖς καὶ ἀλληγορίαις καὶ ὑπαλλαγαῖς καὶ καταχρήσεσι καὶ ὑπερβάσεσι καὶ ἀναδιπλώσεσι καὶ ἐπαναλήψεσι καὶ ἀποστροφαῖς καὶ παρισώσεσιν ἐχρήσατο. ἔπραττε δὲ τῶν μαθητῶν ἕκαστον μνᾶς ρ . ἐβίω δὲ ἔτη ρθ , καὶ συνεγράψατο πολλά.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2a",
+      "text": "PLATO Gorg. 448 B εἰ ἐτύγχανε Γοργίας ἐπιστήμων ὢν τῆς τέχνης ἧσπερ ὁ ἀδελφὸς αὐτοῦ Ἡρόδικος, τί ἂν αὐτὸν ὠνομάζομεν δικαίως;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "DIOG. VIII 58. 59 [s. I 278, 25ff.] καὶ ἰατρὸς ἦν καὶ ῥήτωρ ἄριστος. Γοργίαν γοῦν τὸν Λεοντῖνον αὐτοῦ γενέσθαι μαθητήν, ἄνδρα ὑπερέχοντα ἐν ῥητορικῆι καὶ Τέχνην ἀπολελοιπότα ... τοῦτόν φησιν ὁ Σάτυρος λέγειν, ὡς αὐτὸς παρείη τῶι Ἐμπεδοκλεῖ γοητεύοντι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "DIOD. XII 53, 1 ff. ἐπὶ δὲ τούτων κατὰ τὴν Σικελίαν Λεοντῖνοι, Χαλκιδέων μὲν ὄντες ἄποικοι, συγγενεῖς δὲ Ἀθηναίων ἔτυχον ὑπὸ Συρακοσίων πολεμούμενοι· πιεζόμενοι δὲ τῶι πολέμωι καὶ διὰ τὴν ὑπεροχὴν τῶν Συρακοσίων κινδυνεύοντες ἁλῶναι κατὰ κράτος ἐξέπεμψαν πρέσβεις εἰς τὰς Ἀθήνας ἀξιοῦντες τὸν δῆμον βοηθῆσαι τὴν ταχίστην καὶ τὴν πόλιν ἑαυτῶν ἐκ τῶν κινδύνων ῥύσασθαι. (2) ἦν δὲ τῶν ἀπεσταλμένων ἀρχιπρεσβευτὴς Γ. ὁ ῥήτωρ, δεινότητι λόγου πολὺ προέχων τῶν καθ’ ἑαυτόν. οὗτος καὶ τέχνας ῥητορικὰς πρῶτος ἐξεῦρε καὶ κατὰ τὴν σοφιστείαν τοσοῦτο τοὺς ἄλλους ὑπερέβαλεν, ὥστε μισθὸν λαμβάνειν παρὰ τῶν μαθητῶν μνᾶς ἑκατόν. (3) οὗτος οὖν καταντήσας εἰς τὰς Ἀθήνας καὶ παραχθεὶς εἰς τὸν δῆμον διελέχθη τοῖς Ἀθηναίοις περὶ τῆς συμμαχίας καὶ τῶι ξενίζοντι τῆς λέξεως ἐξέπληξε τοὺς Ἀθηναίους ὄντας εὐφυεῖς καὶ φιλολόγους. (4) πρῶτος γὰρ ἐχρήσατο τοῖς λέξεως σχηματισμοῖς περιττοτέροις καὶ τῆι φιλοτεχνίαι διαφέρουσιν, ἀντιθέτοις καὶ ἰσοκώλοις καὶ παρίσοις καὶ ὁμοιοτελεύτοις καί τισιν ἑτέροις τοιούτοις, ἃ τότε μὲν διὰ τὸ ξένον τῆς κατασκευῆς ἀποδοχῆς ἠξιοῦτο, νῦν δὲ περιεργίαν ἔχειν δοκεῖ καὶ φαίνεται καταγέλαστα πλεονάκις καὶ κατακόρως τιθέμενα. (5) τέλος δὲ πείσας τοὺς Ἀθηναίους συμμαχῆσαι τοῖς Λεοντίνοις οὗτος μὲν θαυμασθεὶς ἐν ταῖς Ἀθήναις ἐπὶ τέχνηι ῥητορικῆι τὴν εἰς Λεοντίνους ἐπάνοδον ἐποιήσατο. vgl. DIONYS. d. Lys. 3 δηλοῖ δὲ τοῦτο Γ. τε ὁ Λεοντῖνος ἐν πολλοῖς πάνυ φορτικήν τε καὶ ὑπέρογκον ποιῶν τὴν κατασκευὴν καὶ ‘οὐ πόρρω διθυράμβων τινῶν‘ [Plato Phaedr. 238 D] ἔνια φθεγγόμενος, καὶ τῶν ἐκείνου συνουσιαστῶν οἱ περὶ Λικύμνιον καὶ Πῶλον. ἥψατο δὲ καὶ τῶν Ἀθήνησι ῥητόρων ἡ ποιητική τε καὶ τροπικὴ φράσις, ὡς μὲν Τίμαιός φησι [fr. 95 FHG I 216] Γοργίου ἄρξαντος ἡνίκ’ Ἀθήναζε πρεσβεύων κατεπλήξατο τοὺς ἀκούοντας τῆι δημηγορίαι, ὡς δὲ τἀληθὲς ἔχει, τὸ καὶ παλαιότερον αἰεί τι θαυμαζομένη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "XENOPH. An. II 6, 16ff. Πρόξενος δὲ ὁ Βοιώτιος εὐθὺς μὲν μειράκιον ὢν ἐπεθύμει γενέσθαι ἀνὴρ τὰ μεγάλα πράττειν ἱκανὸς καὶ διὰ ταύτην ἐπιθυμίαν ἔδωκε Γοργίαι ἀργύριον τῶι Λεοντίνωι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5a",
+      "text": "ARISTOPH. Aves 1694 ἔστι δ’ ἐν Φαναῖσι πρὸς τῆι κλεψύδραι πανοῦργον ἐγγλωττογαστόρων γένος, οἳ θερίζουσίν τε καὶ σπείρουσι καὶ τρυγῶσι ταῖς γλώτταισι συκάζουσί τε· βάρβαροι δ’ εἰσὶν γένος Γοργίαι τε καὶ Φίλιπποι, κἀπὶ τῶν ἐγγλωττογαστόρων ἐκείνων τῶν Φιλίππων πανταχοῦ τῆς Ἀττικῆς ἡ γλῶττα χωρὶς τέμνεται. —Vesp. 420 Ἡράκλεις καὶ κέντρ’ ἔχουσιν. οὐχ ὁρᾶις ὦ δέσποτα; —οἷς γ’ ἀπώλεσαν Φίλιππον ἐν δίκηι τὸν Γοργίου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "[PLUT.] Vit. X or. p. 832 F γέγονε [Antiphon v. Rhamnus] δὲ κατὰ τὰ Περσικὰ καὶ Γοργίαν τὸν σοφιστήν, ὀλίγωι νεώτερος αὐτοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "PAUS. VI 17, 7ff. καὶ τὸν Λεοντῖνον Γοργίαν ἰδεῖν ἔστιν· ἀναθεῖναι δὲ τὴν εἰκόνα ἐς Ὀλυμπίαν φησὶν Εὔμολπος ἀπόγονος τρίτος Δηϊκράτους συνοικήσαντος ἀδελφῆι τῆι Γοργίου· (8) οὗτος ὁ Γ. πατρὸς μὲν ἦν Χαρμαντίδου, λέγεται δὲ ἀνασώσασθαι μελέτην λόγων πρῶτος ἠμελημένην τε ἐς ἅπαν καὶ ἐς λήθην ὀλίγου δεῖν ἥκουσαν ἀνθρώποις. εὐδοκιμῆσαι δὲ Γοργίαν λόγων ἕνεκα ἔν τε πανηγύρει τῆι Ὀλυμπικῆι φασι καὶ ἀφικόμενον κατὰ πρεσβείαν ὁμοῦ Τεισίαι παρ’ Ἀθηναίους ... (9) ἀλλά γε ἐκείνου τε ἐς πλέον τιμῆς ἀφίκετο ὁ Γ. παρὰ Ἀθηναίοις, καὶ Ἰάσων ἐν Θεσσαλίαι τυραννήσας [± 380—370], Πολυκράτους οὐ τὰ ἔσχατα ἐνεγκαμένου διδασκαλείου τοῦ Ἀθήνησι, τούτου τοῦ ἀνδρὸς ἐπίπροσθεν αὐτὸν ὁ Ἰάσων ἐποιήσατο. βιῶναι δὲ ἔτη πέντε φασὶν ἐπὶ τοῖς ἑκατόν. X 18, 7 ἐπίχρυσος δὲ εἰκὼν ἀνάθημα Γοργίου τοῦ ἐκ Λεοντίνων αὐτὸς Γ. ἐστίν. CIC. de orat. III 32, 129 cui [ Gorg.] tantus honos habitus est a Graecia, soli ut ex omnibus Delphis non inaurata statua, sed aurea statueretur. PLIN. N. H. XXXIII 83 hominum primus et auream statuam et solidam ·LXX· [?] circiter olympiade G. Leontinus Delphis in templo posuit sibi. tantus erat docendae artis oratoriae quaestus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "EPIGR. 875a p. 534 Kaibel Χαρμαντίδου Γοργίας Λεοντῖνος. τὴμ μὲν ἀδελφὴν Δηϊκράτης τὴγ Γοργίου ἔσχεν, ἐκ ταύτης δ’ αὐτῶι γίγνεται Ἱπποκράτης. Ἱπποκράτους δ’ Εὔμολπος, ὃς εἰκόνα τήνδ’ ἀνέθηκεν δισσῶν, παιδείας καὶ φιλίας ἕνεκα. Γοργίου ἀσκῆσαι ψυχὴν ἀρετῆς ἐς ἀγῶνας οὐδείς πω θνητῶν καλλίον’ εὗρε τέχνην· οὗ καὶ Ἀπόλλωνος γυάλοις εἰκὼν ἀνάκειται οὐ πλούτου παράδειγμ’, εὐσεβείας δὲ τρόπων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8a",
+      "text": "PLATO Apol. 19 E τοῦτό γέ μοι δοκεῖ καλὸν εἶναι, εἴ τις οἷός τ’ εἴη παιδεύειν ἀνθρώπους ὥσπερ Γ. τε ὁ Λεοντῖνος καὶ Πρόδικος ὁ Κεῖος καὶ Ἱππίας ὁ Ἠλεῖος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "AEL. V. H. XII 32 Ἱππίαν δὲ καὶ Γοργίαν ἐν πορφυραῖς ἐσθῆσι προϊέναι διαρρεῖ λόγος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "APOLLODOR. [F GrHist. 244F 33, s. oben I 278, 28] ἐννέα πρὸς τοῖς ἑκατὸν ἔτη βιῶναι. OLYMPIOD. IN PLAT. Gorg. [Neue Jahrb. Suppl. 14 (1848) ed. A. Jahn] p. 112 δεύτερον δὲ ἐροῦμεν, ὅτι ἐπὶ τῶν αὐτῶν χρόνων ἦσαν, ὁ μὲν Σωκράτης ἐπὶ τῆς οζ ὀλυμπιάδος τῶι γ ἔτει (470/69) ὁ δὲ Ἐμπεδοκλῆς ὁ Πυθαγόρειος, ὁ διδάσκαλος Γοργίου, ἐφοίτησεν παρ’ αὐτῶι. ἀμέλει καὶ γράφει ὁ Γ. Περὶ φύσεως σύγγραμμα οὐκ ἄκομψον τῆι πδ ὀλυμπιάδι [444—1]. ὥστε κη ἔτεσιν ἢ ὀλίγωι πλείοσιν εἶναι πρῶτον τὸν Σωκράτη. ἄλλως τέ φησιν ἐν τῶι Θεαιτήτωι ὁ Πλάτων [183 E vgl. 28 A 5] ὅτι ‘νέος ὢν κομιδῆι ἐνέτυχον Παρμενίδηι ὄντι πάνυ πρεσβύτηι καὶ εὗρον βαθύτατον ἄνδρα‘. οὗτος δὲ ὁ Παρμενίδης διδάσκαλος ἐγένετο Ἐμπεδοκλέους τοῦ διδασκάλου Γοργίου. καὶ ὁ Γ. δὲ πρεσβύτερος ἦν· ὡς γὰρ ἱστόρηται τέθνηκεν ὢν ρθ ἐτῶν, ὥστε περὶ τοὺς αὐτοὺς χρόνους ἦσαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "ATHEN. XII 548 C D Γ. ὁ Λεοντῖνος, περὶ οὗ φησιν ὁ αὐτὸς Κλέαρχος ἐν τῶι η τῶν Βίων [fr. 15 FHG II 308], ὅτι διὰ τὸ σωφρόνως ζῆν σχεδὸν π [?] ἔτη τῶι φρονεῖν συνεβίωσεν. καὶ ἐπεί τις αὐτὸν ἤρετο τίνι διαίτηι χρώμενος οὕτως ἐμμελῶς καὶ μετὰ αἰσθήσεως τοσοῦτον χρόνον ζήσειεν, ‘οὐδὲν πώποτε, εἶπεν, ἡδονῆς ἕνεκεν πράξασ‘. Δημήτριος δὲ ὁ Βυζάντιος ἐν δ Περὶ ποιημάτων ‘Γ., φησίν, ὁ Λεοντῖνος ἐρωτηθείς, τί αὐτῶι γέγονεν αἴτιον τοῦ βιῶσαι πλείω τῶν ρ ἐτῶν, ἔφη ‘τὸ μηδὲν πώποτε ἑτέρου [?] ἕνεκεν πεποιηκέναι‘.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12",
+      "text": "CIC. Cato 5, 12 cuius [Isokrates] magister Leontinus Gorgias centum et septem complevit annos neque umquam in suo studio atque opere cessavit. qui cum ex eo quaereretur, cur tam diu vellet esse in vita, ‘nihil habeo‘, inquit, ‘quod accusem senectutem‘.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13",
+      "text": "PLIN. N. H. VII 156 indubitatum est Gorgian Siculum centum et octo vixisse. [ LUC.] Macrob 23 ῥητόρων δὲ Γ., ὅν τινες σοφιστὴν καλοῦσιν, ἔτη ἑκατὸν ὀκτώ· τροφῆς δὲ ἀποσχόμενος ἐτελεύτησεν· ὅν φασιν ἐρωτηθέντα τὴν αἰτίαν τοῦ μακροῦ γήρως καὶ ὑγιεινοῦ ἐν πάσαις ταῖς αἰσθήσεσιν εἰπεῖν διὰ τὸ μηδέποτε συμπεριενεχθῆναι ταῖς ἄλλων εὐωχίαις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14",
+      "text": "QUINT. III 1, 8f. artium autem scriptores antiquissimi Corax et Tisias Siculi, quos insecutus est vir eiusdem insulae G. Leontinus, Empedoclis, ut traditur, discipulus. is beneficio longissimae aetatis (nam centum et novem vixit annos) cum multis simul floruit, ideoque et illorum, de quibus supra dixi, fuit aemulus et ultra Socraten usque duravit.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "AEL. V. H. II 35 Γ. ὁ Λεοντῖνος ἐπὶ τέρματι ὢν τοῦ βίου καὶ γεγηρακὼς εὖ μάλα ὑπό τινος ἀσθενείας καταληφθείς, κατ’ ὀλίγον ἐς ὕπνον ὑπολισθαίνων ἔκειτο. ἐπεὶ δέ τις αὐτὸν παρῆλθε τῶν ἐπιτηδείων ἐπισκοπούμενος καὶ ἤρετο ὅ τι πράττοι, ὁ Γ. ἀπεκρίνατο· ‘ἤδη με ὁ ὕπνος ἄρχεται παρακατατίθεσθαι τἀδελφῶι‘.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15a",
+      "text": "ATHEN. XI 505D λέγεται δὲ ὡς καὶ ὁ Γ. αὐτὸς ἀναγνοὺς τὸν ὁμώνυμον αὑτῶι διάλογον πρὸς τοὺς συνήθεις ἔφη· ‘ὡς καλῶς οἶδε Πλάτων ἰαμβίζειν‘.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16",
+      "text": "QUINTIL. Inst. III 1, 13 his successere multi, sed clarissimus Gorgiae auditorum Isocrates. quamquam de praeceptore eius inter auctores non convenit, nos tamen Aristoteli [ fr. 139 R.] credimus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17",
+      "text": "[ PLUT.] Vit. X or. p. 838D ἦν δὲ καὶ αὐτοῦ τράπεζα πλησίον, ἔχουσα ποιητάς τε καὶ τοὺς διδασκάλους αὐτοῦ, ἐν οἷς καὶ Γοργίαν εἰς σφαῖραν ἀστρολογικὴν βλέποντα αὐτόν τε τὸν Ἰσοκράτην παρεστῶτα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18",
+      "text": "ISOCR. 15, 155f. ὁ δὲ πλεῖστα κτησάμενος, ὧν ἡμεῖς μνημονεύομεν, Γ. ὁ Λεοντῖνος, οὗτος διατρίψας μὲν περὶ Θετταλίαν, ὅτ’ εὐδαιμονέστατοι τῶν Ἑλλήνων ἧσαν, πλεῖστον δὲ χρόνον καὶ βιοὺς καὶ περὶ τὸν χρηματισμὸν τοῦτον γενόμενος, (156) πόλιν δ’ οὐδεμίαν καταπαγίως οἰκήσας οὐδὲ περὶ τὰ κοινὰ δαπανηθεὶς οὐδ’ εἰσφορὰν εἰσενεγκεῖν ἀναγκασθείς, ἔτι δὲ πρὸς τούτοις οὔτε γυναῖκα γήμας οὔτε παῖδας ποιησάμενος, ἀλλ’ ἀτελὴς γενόμενος καὶ ταύτης τῆς ληιτουργίας τῆς ἐνδελεχεστάτης καὶ πολυτελεστάτης, τοσοῦτον προλαβὼν πρὸς τὸ πλείω κτήσασθαι τῶν ἄλλων, χιλίους μόνους στατῆρας κατέλιπεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19",
+      "text": "PLATO Meno 70A B ὦ Μένων, πρὸ τοῦ μὲν Θετταλοὶ εὐδόκιμοι ἦσαν ἐν τοῖς Ἕλλησιν καὶ ἐθαυμάζοντο ἐφ’ ἱππικῆι τε καὶ πλούτωι, νῦν δέ, ὡς ἐμοὶ δοκεῖ, καὶ ἐπὶ σοφίαι, καὶ οὐχ ἥκιστα οἱ τοῦ σοῦ ἑταίρου Ἀριστίππου πολῖται Λαρισαῖοι. τούτου δὲ ὑμῖν αἴτιός ἐστι Γ.· ἀφικόμενος γὰρ εἰς τὴν πόλιν ἐραστὰς ἐπὶ σοφίαι εἴληφεν Ἀλευαδῶν τε τοὺς πρώτους, ὧν ὁ σὸς ἐραστής ἐστιν Ἀρίστιππος, καὶ τῶν ἄλλων Θετταλῶν· καὶ δὴ καὶ τοῦτο τὸ ἔθος ὑμᾶς εἴθικεν ἀφόβως τε καὶ μεγαλοπρεπῶς ἀποκρίνεσθαι, ἐάν τίς τι ἔρηται, ὥσπερ εἰκὸς τοὺς εἰδότας ἅτε καὶ αὐτὸς παρέχων αὑτὸν ἐρωτᾶν τῶν Ἑλλήνων τῶι βουλομένωι ὅ τι ἄν τις βούληται, καὶ οὐδενὶ ὅτωι οὐκ ἀποκρινόμενος. ARISTOT. Pol. Γ 2. 1275b 26 Γ. μὲν οὖν ὁ Λεοντῖνος τὰ μὲν ἴσως ἀπορῶν τὰ δ’ εἰρωνευόμενος ἔφη καθάπερ ὅλμους εἶναι τοὺς ὑπὸ τῶν ὁλμοποιῶν πεποιημένους, οὕτω καὶ Λαρισαίους τοὺς ὑπὸ τῶν δημιουργῶν πεποιημένους· εἶναι γάρ τινας Λαρισοποιούς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20",
+      "text": "—Gorg. 447C βούλομαι γὰρ πυθέσθαι παρ’ αὐτοῦ, τίς ἡ δύναμις τῆς τέχνης τοῦ ἀνδρός, καὶ τί ἐστιν ὃ ἐπαγγέλλεταί τε καὶ διδάσκει· τὴν δὲ ἄλλην ἐπίδειξιν εἰς αὖθις, ‘ὥσπερ σὺ λέγεις, ποιησάσθω. —Οὐδὲν οἷον τὸ αὐτὸν ἐρωτᾶν, ὦ Σώκρατες· καὶ γὰρ αὐτῶι ἓν τοῦτ’ ἦν τῆς ἐπιδείξεως· ἐκέλευε γοῦν νυνδὴ ἐρωτᾶν ὅ τι τις βούλοιτο τῶν ἔνδον ὄντων, καὶ πρὸς ἅπαντα ἔφη ἀποκρινεῖσθαι. 449C καὶ γὰρ αὖ καὶ τοῦτο ἕν ἐστιν ὧν φημι, μηδένα ἂν ἐν βραχυτέροις ἐμοῦ τὰ αὐτὰ εἰπεῖν. —τούτου μὴν δεῖ, ὦ Γοργία· καί μοι ἐπίδειξιν αὐτοῦ τούτου ποίησαι, τῆς βραχυλογίας, μακρολογίας δὲ εἰς αὖθις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "21",
+      "text": "—Meno 95C Γοργίου μάλιστα, ὦ Σώκρατες, ταῦτα ἄγαμαι, ὅτι οὐκ ἄν ποτε αὐτοῦ τοῦτο ἀκούσαις ὑπισχνουμένου [διδάσκαλον εἶναι ἀρετῆς], ἀλλὰ καὶ τῶν ἄλλων καταγελᾶι, ὅταν ἀκούσηι ὑπισχνουμένων· ἀλλὰ λέγειν οἴεται δεῖν ποιεῖν δεινού ς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "22",
+      "text": "—Gorg. 456B πολλάκις γὰρ ἤδη ἔγωγε μετὰ τοῦ ἀδελφοῦ [A 2] καὶ μετὰ τῶν ἄλλων ἰατρῶν εἰσελθὼν παρά τινα τῶν καμνόντων οὐχὶ ἐθέλοντα ἢ φάρμακον πιεῖν ἢ τεμεῖν ἢ καῦσαι παρασχεῖν τῶι ἰατρῶι, οὐ δυναμένου τοῦ ἰατροῦ πεῖσαι, ἐγὼ ἔπεισα οὐκ ἄλληι τέχνηι ἢ τῆι ῥητορικῆι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "23",
+      "text": "ARISTOT. Rhet. Γ 3. 1406b 14 τὸ δὲ Γοργίου εἰς τὴν χελιδόνα, ἐπεὶ κατ’ αὐτοῦ πετομένη ἀφῆκε τὸ περίττωμα, ἄριστα τῶν τραγικῶν· εἶπε γὰρ ‘αἰσχρόν γ’ ὦ Φιλομήλα‘. ὄρνιθι μὲν γάρ, εἰ ἐποίησεν, οὐκ αἰσχρόν, παρθένωι δὲ αἰσχρόν. εὖ οὖν ἐλοιδόρησεν εἰπὼν ὃ ἦν, ἀλλ’ οὐχ ὃ ἔστιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "24",
+      "text": "PHILOSTR. V. S. I prooem p. 4, 4 Kays. ὁ δὴ Γ. ἐπισκώπτων τὸν Πρόδικον, ὡς ἕωλά τε καὶ πολλάκις εἰρημένα ἀγορεύοντα, ἐπαφῆκεν ἑαυτὸν τῶι καιρῶι· οὐ μὴν φθόνου γε ἥμαρτεν· ἦν γάρ τις Χαιρεφῶν Ἀθήνησιν ... οὗτος ὁ Χαιρεφῶν τὴν σπουδὴν τοῦ Γοργίου διαμασώμενος· ‘διὰ τί, ἔφη, ὦ Γοργία, οἱ κύαμοι τὴν μὲν γαστέρα φυσῶσι, τὸ δὲ πῦρ οὐ φυσῶσι;‘ ὁ δὲ οὐδὲν ταραχθεὶς ὑπὸ τοῦ ἐρωτήματος ‘τουτὶ μέν, ἔφη, σοὶ καταλείπω σκοπεῖν, ἐγὼ δὲ ἐκεῖνο πάλαι οἶδα, ὅτι ἡ γῆ τοὺς νάρθηκας ἐπὶ τοὺς τοιούτους φύει‘.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25",
+      "text": "PLATO Phaedr. p. 267A CIC. Brut. 12, 47 communes loci [ 80 B 6]; quod idem fecisse Gorgiam, cum singularum rerum laudes vituperationesque conscripsisset, quod iudicaret hoc oratoris esse maxime proprium rem augere posse laudando vituperandoque rursus adfligere.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "26",
+      "text": "—Phileb. 58A ἤκουον ... Γοργίου πολλάκις, ὡς ἡ τοῦ πείθειν πολὺ διαφέροι πασῶν τεχνῶν· πάντα γὰρ ὑφ’ αὑτῆι δοῦλα δι’ ἑκόντων, ἀλλ’ οὐ διὰ βίας ποιοῖτο. CIC. de inv. 5, 2 G. Leontinus, antiquissimus fere rhetor, omnibus de rebus oratorem optime posse dicere existimavit.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "27",
+      "text": "—Gorg. 450B τῶν μὲν ἄλλων τεχνῶν περὶ χειρουργίας τε καὶ τοιαύτας πράξεις ὡς ἔπος εἰπεῖν πᾶσά ἐστιν ἡ ἐπιστήμη, τῆς δὲ ῥητορικῆς οὐδέν ἐστιν τοιοῦτον χειρούργημ α, ἀλλὰ πᾶσα ἡ πρᾶξις καὶ ἡ κύρωσις διὰ λόγων ἐστί. διὰ ταῦτ’ ἐγὼ τὴν ῥητορικὴν τέχνην ἀξιῶ εἶναι περὶ λόγους, ὀρθῶς λέγων ὡς ἐγώ φημι. OLYMPIOD. Z. d. St. p. 131 Jahn [Jahns Archiv Suppl. 14, 131] οἱ περὶ τὰς λέξεις δεινοὶ λαμβάνονται τῶν δύο λέξεων τοῦ τε χειρουργήματος καὶ τῆς κυρώσεως ὡς μὴ λεγομένων· κατὰ ἀλήθειαν γὰρ οὐδὲ λέγονται. φαμὲν οὖν, ὅτι, ἐπειδὴ Γ. ὁ λέγων, ὡς ἀπ’ ἐκείνου προφέρει τὰς λέξεις ἐγχωρίους οὔσας· Λεοντῖνος γὰρ ἦν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "28",
+      "text": "PLATO Gorg. 453 A εἴ τι ἐγὼ συνίημι, λέγεις ὅτι πειθοῦς δημιουργός ἐστιν ἡ ῥητορικὴ καὶ ἡ πραγματεία αὐτῆς ἅπασα καὶ τὸ κεφάλαιον εἰς τοῦτο τελευτᾶι. 455 A ἡ ῥητορικὴ ἄρα, ὡς ἔοικεν, πειθοῦς δημιουργός ἐστι πιστευτικῆς, ἀλλ’ οὐ διδασκαλικῆς, περὶ τὸ δίκαιόν τε καὶ ἄδικον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "29",
+      "text": "ARISTOT. Rhet. Γ 1. 1404a 24 ἐπεὶ δ’ οἱ ποιηταὶ λέγοντες εὐήθη διὰ τὴν λέξιν ἐδόκουν πορίσασθαι τήνδε τὴν δόξαν, διὰ τοῦτο ποιητικὴ πρώτη ἐγένετο λέξις οἷον ἡ Γοργίου. καὶ νῦν ἔτι οἱ πολλοὶ τῶν ἀπαιδεύτων τοὺς τοιούτους οἴονται διαλέγεσθαι κάλλιστα. SYRIAN. in Hermog. I 11, 20 Rabe [Dionys. Halic. de imit. 8 p. 31, 13 Us.] Γοργίας μὲν τὴν ποιητικὴν ἑρμηνείαν μετήνεγκεν εἰς λόγους πολιτικούς, οὐκ ἀξιῶν ὅμοιον τὸν ῥήτορα τοῖς ἰδιώταις εἶναι. Λυσίας δὲ τοὐναντίον ἐποίησε κτλ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30",
+      "text": "CIC. Orat. 12, 39 haec tractasse Thrasymachum Calchedonium primum et Leontinum ferunt Gorgiam, Theodorum inde Byzantium multosque alios quos λογοδαιδάλους appellat in Phaedro Socrates.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "31",
+      "text": "— —49, 165 in huius concinnitatis consectatione Gorgiam fuisse principem accepimus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "32",
+      "text": "— —52, 175 princeps inveniendi fuit Thrasymachus, cuius omnia nimis etiam extant scripta numerose. nam ... paria paribus adiuncta et similiter definita itemque contrariis relata contraria, quae sua sponte, etiamsi id non agas, cadunt plerumque numerose, G. primus invenit, sed eis usus est intemperantius ... 176 G. autem avidior est generis eius et eis festivitatibus (sic enim ipse censet) insolentius abutitur, quas Isocrates, cum tamen audisset in Thessalia adulescens senem iam Gorgiam moderatius iam temperavit. DIONYS. Isae. 19 ἐνθυμούμενος δέ, ὅτι τὴν μὲν ποιητικὴν κατασκευὴν καὶ τὸ μετέωρον δὴ τοῦτο καὶ πομπικὸν εἰρημένον οὐδεὶς Ἰσοκράτους ἀμείνων ἐγένετο, παρέλιπον ἑκὼν οὓς ἤιδειν ἧττον ἐν ταῖς ἰδέαις ταύταις κατορθοῦντας, Γοργίαν μὲν τὸν Λεοντῖνον ἐκπίπτοντα τοῦ πατρίου καὶ πολλαχοῦ παιδαριώδη γιγνόμενον ὁρῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "33",
+      "text": "ATHEN. V 220 D ὁ δὲ Πολιτικὸς αὐτοῦ [Antisthenes] διάλογος ἁπάντων καταδρομὴν περιέχει τῶν Ἀθήνησιν δημαγωγῶν, ὁ δ’ Ἀρχέλαος Γοργίου τοῦ ῥήτορος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "34",
+      "text": "CLEM. Strom. VI 26 [II 443, 4 St.] Μελησαγόρου [FHG II 21] γὰρ ἔκλεψεν Γ. ὁ Λεοντῖνος καὶ Εὔδημος ὁ Νάξιος [FHG II 20] οἱ ἱστορικοὶ καὶ ἐπὶ τούτοις ὁ Προκοννήσιος Βίων [FHG II 19].",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "35",
+      "text": "PHILOSTR. Ep. 73 [II 257, 2 ed. Teubn.] Γοργίου δὲ θαυμασταὶ ἦσαν ἄριστοί τε καὶ πλεῖστοι· πρῶτον μὲν οἱ κατὰ Θετταλίαν Ἕλληνες, παρ’ οἷς τὸ ῥητορεύειν γοργιάζειν ἐπωνυμίαν ἔσχεν, εἶτα τὸ ξύμπαν Ἑλληνικόν, ἐν οἷς Ὀλυμπίασι διελέχθη κατὰ τῶν βαρβάρων ἀπὸ τῆς τοῦ νεὼ βαλβῖδος. λέγεται δὲ καὶ Ἀσπασία ἡ Μιλησία τὴν τοῦ Περικλέους γλῶτταν κατὰ τὸν Γοργίαν θῆξαι, Κριτίας δὲ καὶ Θουκυδίδης οὐκ ἀγνοοῦνται τὸ μεγαλώνυμον καὶ τὴν ὀφρὺν παρ’ αὐτοῦ κεκτημένοι, μεταποιοῦντες δὲ αὐτὸ ἐς τὸ οἰκεῖον ὁ μὲν ὑπ’ εὐγλωττίας, ὁ δὲ ὑπὸ ῥώμης· καὶ Αἰσχίνης δὲ ὁ ἀπὸ τοῦ Σωκράτους, ὑπὲρ οὗ πρώην ἐσπούδαζες, ὡς οὐκ ἀφανῶς τοὺς διαλόγους κολάζοντος, οὐκ ὤκνει γοργιάζειν ἐν τῶι περὶ τῆς Θαργηλίας λόγωι· φησὶ γάρ που ὧδε (fr. 22 Dittmar)· ‘Θαργηλία Μιλησία ἐλθοῦσα εἰς Θετταλίαν ξυνῆν Ἀντιόχωι Θετταλῶι βασιλεύοντι πάντων Θετταλῶν.‘ αἱ δὲ ἀποστάσεις αἵ τε προσβολαὶ τῶν λόγων Γοργίου ἐπεχωρίαζον πολλαχοῦ μὲν μάλιστα δὲ ἐν τῶι τῶν ἐποποιῶν κύκλωι.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "eme-ab",
+      "title": {
+        "english": "On Nature and Non-Being",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "gorgias-of-leontini-nature-nonbeing-eme-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/gorgias-of-leontini/nature-nonbeing",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgias-of-leontini-nature-nonbeing-eme-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgias-of-leontini-nature-nonbeing-eme-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgias-of-leontini-nature-nonbeing-eme-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgias-of-leontini-nature-nonbeing-eme-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgias-of-leontini/nature-nonbeing.epub"
+      }
+    },
+    {
+      "eul_wid": "eme-ac",
+      "title": {
+        "english": "Testimonies 1",
+        "ancient_greek": "Μαρτυρίαι Α'"
+      },
+      "url_slug": "gorgias-of-leontini-testimonies-eme-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/gorgias-of-leontini/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgias-of-leontini-testimonies-eme-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgias-of-leontini-testimonies-eme-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgias-of-leontini-testimonies-eme-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgias-of-leontini-testimonies-eme-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgias-of-leontini/testimonies.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "pfk-ba",
+      "title": {
+        "english": "Charon or Inspectors",
+        "ancient_greek": "Χάρων ἢ Ἐπισκοποῦντες"
+      },
+      "url_slug": "lucian-of-samosata-charon-inspectors-pfk-ba",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/charon-inspectors",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-charon-inspectors-pfk-ba.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-charon-inspectors-pfk-ba.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-charon-inspectors-pfk-ba.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-charon-inspectors-pfk-ba.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/charon-inspectors.epub"
+      }
+    },
+    {
+      "eul_wid": "pfk-au",
+      "title": {
+        "english": "Dialogues of the Gods",
+        "ancient_greek": "Θεῶν Διάλογοι"
+      },
+      "url_slug": "lucian-of-samosata-dialogues-gods-pfk-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/dialogues-gods",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-dialogues-gods-pfk-au.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-dialogues-gods-pfk-au.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-dialogues-gods-pfk-au.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-dialogues-gods-pfk-au.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dialogues-gods.epub"
+      }
+    },
+    {
+      "eul_wid": "ffu-av",
+      "title": {
+        "english": "Fragments on Rhetorical Theory",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ῥητορικῆς Θεωρίας"
+      },
+      "url_slug": "isocrates-of-athens-rhetorical-theory-ffu-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/rhetorical-theory",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-rhetorical-theory-ffu-av.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-rhetorical-theory-ffu-av.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-rhetorical-theory-ffu-av.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-rhetorical-theory-ffu-av.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/rhetorical-theory.epub"
+      }
+    },
+    {
+      "eul_wid": "ejc-ag",
+      "title": {
+        "english": "In Defense of Aristophanes' Funds, to the Public",
+        "ancient_greek": "ὑπὲρ τῶν Ἀριστοφάνους χρημάτων, πρὸς τὸ δημόσιον"
+      },
+      "url_slug": "lysias-defense-aristophanes-funds-ejc-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/defense-aristophanes-funds",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-defense-aristophanes-funds-ejc-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-defense-aristophanes-funds-ejc-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-defense-aristophanes-funds-ejc-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-defense-aristophanes-funds-ejc-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/defense-aristophanes-funds.epub"
+      }
+    },
+    {
+      "eul_wid": "hfi-ab",
+      "title": {
+        "english": "Political Defense and Speeches",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "lycurgus-of-athens-defense-speeches-hfi-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/lycurgus-of-athens/defense-speeches",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycurgus-of-athens-defense-speeches-hfi-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycurgus-of-athens-defense-speeches-hfi-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycurgus-of-athens-defense-speeches-hfi-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycurgus-of-athens-defense-speeches-hfi-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycurgus-of-athens/defense-speeches.epub"
+      }
+    },
+    {
+      "eul_wid": "rlm-ab",
+      "title": {
+        "english": "Rhetorical Art",
+        "ancient_greek": "Τέχνη Ῥητορική"
+      },
+      "url_slug": "valerius-apsines-of-gadara-rhetoric-rlm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/valerius-apsines-of-gadara/rhetoric",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/valerius-apsines-of-gadara-rhetoric-rlm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/valerius-apsines-of-gadara-rhetoric-rlm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/valerius-apsines-of-gadara-rhetoric-rlm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/valerius-apsines-of-gadara-rhetoric-rlm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/valerius-apsines-of-gadara/rhetoric.epub"
+      }
+    },
+    {
+      "eul_wid": "fsm-bm",
+      "title": {
+        "english": "To Boeotus-the Name",
+        "ancient_greek": "πρὸς Βοιωτὸν περὶ τοῦ Ὀνόματος"
+      },
+      "url_slug": "demosthenes-of-athens-boeotus-fsm-bm",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/boeotus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-boeotus-fsm-bm.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-boeotus-fsm-bm.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-boeotus-fsm-bm.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-boeotus-fsm-bm.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/boeotus.epub"
+      }
+    },
+    {
+      "eul_wid": "pfk-ay",
+      "title": {
+        "english": "Toxaris or Friendship",
+        "ancient_greek": "Τόξαρις ἢ Φιλία"
+      },
+      "url_slug": "lucian-of-samosata-toxaris-friendship-pfk-ay",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/toxaris-friendship",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-toxaris-friendship-pfk-ay.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-toxaris-friendship-pfk-ay.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-toxaris-friendship-pfk-ay.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-toxaris-friendship-pfk-ay.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/toxaris-friendship.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/gorgias-of-leontini/testimonies-2",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgias-of-leontini-testimonies-2-eme-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgias-of-leontini-testimonies-2-eme-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgias-of-leontini-testimonies-2-eme-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgias-of-leontini-testimonies-2-eme-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgias-of-leontini/testimonies-2.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

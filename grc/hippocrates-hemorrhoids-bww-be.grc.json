@@ -1,0 +1,433 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "bww-be",
+  "eul_aid": "bww",
+  "author_slug": "hippocrates",
+  "work_slug": "hemorrhoids",
+  "url_slug": "hippocrates-hemorrhoids-bww-be",
+  "author": {
+    "english": "Hippocrates and the Hippocratic Corpus",
+    "ancient_greek": "Ἱπποκράτης καὶ τὸ Ἱπποκρατικὸν Σῶμα"
+  },
+  "title": {
+    "english": "On Hemorrhoids",
+    "ancient_greek": "Περὶ αἱμοῤῥοίδων"
+  },
+  "seo": {
+    "browser_title": "On Hemorrhoids by Hippocrates on Eulogikon Digital Archive",
+    "meta_title": "The On Hemorrhoids by Hippocrates in Ancient Greek",
+    "meta_description": "A medical treatise from the Hippocratic Corpus detailing ancient treatments for hemorrhoids. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On Hemorrhoids</strong> is a concise medical treatise from the Hippocratic Corpus, the collection of ancient Greek medical works traditionally associated with Hippocrates of Cos but authored by multiple practitioners. Written in Ionic Greek during the 5th or 4th century BCE, the work serves as a practical manual dedicated solely to the management of hemorrhoidal disease. It opens with an explanation of the condition&#x27;s etiology, attributing it to an imbalance of bodily humors, specifically bile or phlegm, which heats the blood in the rectal veins and causes them to swell and bleed. The core of the text provides meticulous, sequential instructions for surgical interventions. These procedures include excision and cauterization, employing specialized instruments such as speculums and irons heated for the purpose. The treatise concludes with recipes for medicated suppositories and topical applications designed to soothe and treat the affected area. Surviving intact through medieval manuscript transmission, the work exemplifies the empirical and technical dimensions of classical Greek medicine, likely composed as a direct guide for practicing surgeons. It represents a foundational document in the history of proctology, and its precise descriptions of instruments and operative techniques exerted a lasting influence on subsequent medical practice.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t",
+      "text": "Αἱμοῤῥοΐδων τὸ μὲν νόσημα ὧδε γίνεται· ἐπὴν χολὴ ἢ φλέγμα ἐς τὰς φλέβας τὰς ἐν τῷ ἀρχῷ καταστηρίξῃ, θερμαίνει τὸ αἷμα τὸ ἐν τοῖσι φλεβίοισι· θερμαινόμενα δὲ τὰ φλέβια ἐπισπᾶται ἐκ τῶν ἔγγιστα φλεβίων τὸ αἷμα, καὶ πληρεύμενα ἐξοιδέει ἐς τὸ ἐντὸς τοῦ ἀρχοῦ, καὶ ὑπερίσχουσιν αἱ κεφαλαὶ τῶν φλεβίων, καὶ ἅμα μὲν ὑπὸ τῆς κόπρου ἐξιούσης φλώμεναι, ἅμα δὲ ὑπὸ τοῦ αἵματος ἀθροιζομένου βιαζόμεναι, ἐξακοντίζουσιν αἷμα, μάλιστα μὲν ξὺν τῷ ἀποπάτῳ, ἐνίοτε δὲ χωρὶς τοῦ ἀποπάτου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Θεραπεύειν δὲ δεῖ ὧδε· πρῶτον μὲν ὑπαρχέτω εἰδέναι ἐν οἵῳ χωρίῳ γίνονται. Ἀρχὸν γὰρ καὶ τάμνων, καὶ ἀποτάμνων, καὶ ἀναῤῥάπτων, καὶ δαίων, καὶ ἀποσήπων, ταῦτα γὰρ δοκέει δεινότατα εἶναι, οὐδὲν ἂν σίνοιο. Παρασκευάσασθαι δὲ κελεύω ἑπτὰ ἢ ὀκτὼ σιδήρια, σπιθαμιαῖα τὸ μέγεθος, πάχος δὲ ὡσεὶ μήλης παχείης· ἐξ ἄκρου δὲ κατακάμψαι· καὶ ἐπὶ τῷ ἄκρῳ πλατὺ ἔστω ὡς ἐπὶ ὀβολοῦ μικροῦ. Προκαθήρας δὴ φαρμάκῳ τῇ πρότερον, αὐτῇ δὲ ᾗ ἂν ἐπιχειρέῃς καῦσαι, ἀνακλίνας τὸν ἄνθρωπον ὕπτιον, καὶ προσκεφάλαιον ὑπὸ τὴν ὀσφὺν ὑποθεὶς, ἐξαναγκάζειν ὡς μάλιστα τοῖσι δακτύλοισι τὴν ἕδρην ἔξω, ποιέειν δὲ καὶ διαφανέα τὰ σιδήρια, καὶ καίειν ἕως ἂν ἀποξηράνῃς, καὶ ὅκως μὴ ὑπαλείψῃς· καίειν δὲ καὶ μηδεμίην ἐᾶσαι ἄκαυστον τῶν αἱμοῤῥοΐδων, ἀλλὰ πάσας ἀποκαύσεις. Γνώσει δὲ οὐ χαλεπῶς τὰς αἱμοῤῥοΐδας· ὑπερέχουσι γὰρ ἐς τὸ ἐντὸς τοῦ ἀρχοῦ, οἷον ῥᾶγες πελιδναὶ, καὶ ἅμα ἐξαναγκαζομένου τοῦ ἀρχοῦ ἐξακοντίζουσιν αἷμα. Κατεχόντων δ’ αὐτῶν, ὅταν καίηται, τῆς κεφαλῆς καὶ τὰς χεῖρας, ὡς μὴ κινέηται, βοάτω καιόμενος· ὁ γὰρ ἀρχὸς μᾶλλον ἐξίσχει. Ἐπὴν δὲ καύσῃς, φακοὺς καὶ ὀρόβους ἑψήσας ἐν ὕδατι, τρίψας λείους, κατάπασσε πέντε ἢ ἓξ ἡμέρας· τῇ δὲ ἑβδόμῃ σπόγγον μαλθακὸν τάμνειν ὡς λεπτότατον, πλάτος δὲ εἶναι τοῦ σπόγγου ὅσον ἓξ δακτύλων πάντη· ἔπειτα ἐπιθεῖναι ἐπὶ τὸν σπόγγον ὀθόνιον ἴσον τῷ σπόγγῳ λεπτὸν καὶ λεῖον, ἀλείψας μέλιτι· ἔπειτα ὑποβαλὼν τῷ δακτύλῳ τῷ λιχανῷ τῆς ἀριστερῆς χειρὸς μέσον τὸν σπόγγον, ὦσαι κάτω τῆς ἕδρης ὡς προσωτάτω· ἔπειτα ἐπὶ τὸν σπόγγον προσθεῖναι εἴριον, ὡς ἂν ἐν τῇ ἕδρῃ ἀτρεμίζῃ. Διαζώσας δὲ ἐν τῇσι λαγόσι, καὶ ὑφεὶς ταινίην ἐκ τοῦ ὄπισθεν, ἀναλαβὼν ἐκ τῶν σκελέων τὸν ἐπίδεσμον, ἀναδῆσαι ἐς τὸ διάζωσμα παρὰ τὸν ὀμφαλόν. Τὸ δὲ φάρμακον, ὃ εἶπον, ἐπίδει τὸ πυκνὴν τὴν σάρκα ποιέον καὶ ἰσχυρὴν φῦναι. Ταῦτα δὲ δεῖ ἐπιδεῖν μὴ ἔλασσον ἡμερῶν εἴκοσι. Ῥοφέειν δὲ ἅπαξ τῆς ἡμέρης ἄλευρον, ἢ κέγχρον, ἢ τὸ ἀπὸ τῶν πιτύρων, καὶ πίνειν ὕδωρ· ἢν δὲ ἐς ἄφοδον ἵζηται, ὕδατι θερμῷ διανίζειν· λούεσθαι δὲ διὰ τρίτης ἡμέρης. Ἑτέρη θεραπείη· ἐκβαλὼν τὴν ἕδρην ὡς μάλιστα, αἰονᾷν ὕδατι θερμῷ, ἔπειτα ἀποτάμνειν τῶν αἱμοῤῥοΐδων τὰ ἄκρα· φάρμακον δὲ προκατασκευασθῆναι πρὸς τὴν τομὴν τόδε· οὐρήσας ἐς χαλκεῖον, ἐπίπασσον ἐπὶ τὸ οὖρον χαλκοῦ ἄνθος ὀπτοῦ καὶ τετριμμένου λείου, ἔπειτα διεὶς, καὶ κινήσας τὸ χαλκεῖον, ξήρανον ἐν τῷ ἡλίῳ· ὅταν δὲ ξηρὸν γένηται, συνξύσας τρῖψον λεῖον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Προστίθει τῷ δακτυλίῳ, καὶ σπληνία ἐλαιώσας προστίθει, καὶ σπόγγον ἐπάνω ἐπίδει. Ἕτερος τρόπος· προσφύεται πρὸς τῇ αἱματίτιδι τῇ κονδυλώδει οἷον συκαμίνου καρπός· καὶ ἢν μὲν ἔξω σφόδρα ᾖ ἡ κονδύλωσις, περιπέφυκεν αὐτῇ καλυπτὴρ ὁ τῆς σαρκός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Καθίσας οὖν τὸν ἄνθρωπον ὀκλὰξ ἐπὶ ὅλμων δύο, σκόπει· εὑρήσεις γὰρ πεφυσημένα τὰ μεσηγὺ τῶν γλουτῶν παρὰ τὴν ἕδρην, τὸ δὲ αἷμα ἐκχωρέον ἔνδοθεν. Ἢν γοῦν ἐνδιδῷ ὑπὸ τῷ καλυπτῆρι, τὸ κονδύλωμα τῷ δακτύλῳ ἀφελεῖν· οὐδὲν γὰρ χαλεπώτερον ἤ περ προβάτου δειρομένου τὸν δάκτυλον μεταξὺ τοῦ δέρματος καὶ τῆς σαρκὸς περαίνειν· καὶ ταῦτα διαλεγόμενος ἅμα λάνθανε ποιέων. Ἐπὴν δὲ ἀφέλῃς τὸ κονδύλωμα, ἀνάγκη ῥέεσθαι δρόμους αἵματος ἀπὸ πάσης τῆς ἀφαιρέσιος· ταῦτα χρὴ ἀποπλῦναι οἴνῳ αὐστηρῷ, κηκίδας ἐναποβρέξας· καὶ ἥ τε αἱματῖτις οἰχήσεται σὺν τῷ κονδυλώματι, καὶ τὸ κάλυμμα καταστήσεται, καὶ ὅσῳ ἂν παλαιότερον ᾖ, ῥηϊδίως ἔσται ἡ ἴησις. Ἢν δὲ ἀνωτέρω ᾖ ἡ κονδύλωσις, τῷ κατοπτῆρι σκέπτεσθαι, καὶ μὴ ἐξαπατᾶσθαι ὑπὸ τοῦ κατοπτῆρος· διοιγόμενος γὰρ ὁμαλύνει τὴν κονδύλωσιν, ξυναγόμενος δὲ πάλιν δείκνυσιν ὀρθῶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "Ἀφαιρέειν δὲ χρὴ, ἑλλεβόρῳ μέλανι ὑπαλείφοντα τὸν δακτύλιον· ἔπειτα τριταῖον οἴνῳ κλύζειν αὐστηρῷ. Τὸ δὲ αἷμα, ὅταν ἀφέλῃς τὴν κονδύλωσιν, ὅτι οὐ ῥέει, μὴ θαυμάζειν· οὐδὲ γὰρ ἢν ἐν τοῖσιν ἄρθροισι διατάμῃς τὰς χεῖρας ἢ τὰ σκέλεα, οὐ ῥεύσεται αἷμα· ἢν δ’ ἄνωθεν ἢ κάτωθεν τάμῃς τῶν ἄρθρων, εὑρήσεις κοίλας φλέβας καὶ αἱμόῤῥους, καὶ χαλεπῶς ἂν ἴσχοις εὐπόρως. Οὕτω καὶ τὴν ἐν τῇ ἕδρῃ αἱμοῤῥοΐδα, ἢν μὲν ἄνωθεν ἢ κάτωθεν τάμῃς τῆς ἀφαιρέσιος τοῦ κονδυλώματος, αἷμα ῥεύσεται· ἢν δὲ αὐτὴν ἀφέλῃς τὴν κονδύλωσιν ἐν τῇ προσφύσει, οὐ ῥεύσεται. Ἢν μὲν οὖν οὕτω καθίσταται, καλῶς ἂν ἔχοι· ἢν δὲ μὴ, καῦσαι, φυλασσόμενος ὡς μὴ ἅψῃ τῷ σιδήρῳ, ἀλλ’ ἐγγὺς προσφέρων τὰ σιδήρια ἀποξηραίνειν, καὶ προστιθέναι τὸ τοῦ χαλκοῦ ἄνθος τὸ ἐν τῷ οὔρῳ. Ἕτερος τρόπος ἰήσιος αἱμοῤῥοΐδων· καυστῆρα ποιήσασθαι, οἷον καλαμίσκον φραγμίτην· σιδήριον δὲ ἐναρμόσαι καλῶς ἁρμόζον· ἔπειτα τὸν αὐλίσκον ἐνθεὶς ἐς τὴν ἕδρην, διαφαῖνον τὸ σιδήριον καθιέναι, καὶ πυκνὰ ἐξαιρέειν, ἵνα μᾶλλον ἀνέχηται θερμαινόμενος· καὶ οὔτε ἕλκος ἕξει ὑπὸ τῆς θερμασίης, ὑγιέα τε ξηρανθέντα τὰ φλέβια.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "Ἢν δὲ βούλῃ μήτε καίειν, μήτε ἀποτάμνειν, προκαταιονήσας ὕδατι πολλῷ θερμῷ, καὶ ἐκτρέψας τὴν ἕδρην, σμύρναν τρίψας λείην καὶ κηκίδα, καὶ στυπτηρίην αἰγυπτίην κατακαύσας, ἓν καὶ ἥμισυ πρὸς τἄλλα, καὶ μελαντηρίης ἄλλο τοσοῦτον, τουτέοισι ξηροῖσι χρῆσθαι· ἡ δὲ αἱμοῤῥοῒς τουτέοισι τοῖσι φαρμάκοισιν ἀποστήσεται, ὥσπερ σκύτος κατακεκαυμένον· ταῦτα ποιέειν μέχρις ἂν πάσας ἀφανίσῃς. Καὶ χαλκίτιδος ἥμισυ κεκαυμένον τωὐτὸ ἀπεργάζεται. Ἢν δὲ βούλῃ βαλάνοισιν ἰῆσθαι, σηπίης ὄστρακον, μολυβδαίνης τρίτον μέρος, ἄσφαλτον, στυπτηρίην, ἄνθος ὀλίγον, κηκίδα, χαλκοῦ ἰὸν ὀλίγον, τουτέων μέλι ἑφθὸν καταχέας, βάλανον ποιήσας μακροτέρην, προστίθει, μέχρις ἂν ἀφανίσῃς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "Γυναικείην αἱμοῤῥοΐδα ὧδε θεραπεύειν· πολλῷ ὕδατι θερμῷ αἰονήσας, σύνεψε δὲ ἐν τῷ θερμῷ τῶν εὐωδέων, τρίψας μυρίκην, λιθάργυρον ὀπτὴν, καὶ κηκίδα, οἶνον λευκὸν παράχεε καὶ ἔλαιον καὶ χηνὸς στέαρ, τρίψας ὁμοῦ πάντα, διδόναι, ὁκόταν αἰονηθῇ, διαχρήσασθαι· αἰονᾷν δὲ καὶ τὴν ἕδρην ἐξώσας ὡς μάλιστα.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "bww-bq",
+      "title": {
+        "english": "Aphorisms",
+        "ancient_greek": "Ἀφορισμοί"
+      },
+      "url_slug": "hippocrates-aphorisms-bww-bq",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/aphorisms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-aphorisms-bww-bq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-aphorisms-bww-bq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-aphorisms-bww-bq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-aphorisms-bww-bq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/aphorisms.epub"
+      }
+    },
+    {
+      "eul_wid": "bww-cc",
+      "title": {
+        "english": "Carrier",
+        "ancient_greek": "Φορεύς"
+      },
+      "url_slug": "hippocrates-carrier-bww-cc",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/carrier",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-carrier-bww-cc.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-carrier-bww-cc.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-carrier-bww-cc.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-carrier-bww-cc.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/carrier.epub"
+      }
+    },
+    {
+      "eul_wid": "bww-aw",
+      "title": {
+        "english": "Coan Prognostics",
+        "ancient_greek": "Κῶα Προγνωστικά"
+      },
+      "url_slug": "hippocrates-coan-prognostics-bww-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/coan-prognostics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-coan-prognostics-bww-aw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-coan-prognostics-bww-aw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-coan-prognostics-bww-aw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-coan-prognostics-bww-aw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/coan-prognostics.epub"
+      }
+    },
+    {
+      "eul_wid": "bww-br",
+      "title": {
+        "english": "Epidemics (Selections from Books I and III)",
+        "ancient_greek": "Ἐπιδημίων"
+      },
+      "url_slug": "hippocrates-epidemics-bww-br",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-bww-br.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-bww-br.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-bww-br.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-bww-br.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics.epub"
+      }
+    },
+    {
+      "eul_wid": "bww-bra",
+      "title": {
+        "english": "Epidemics, Book I",
+        "ancient_greek": "Ἐπιδημίων Α"
+      },
+      "url_slug": "hippocrates-epidemics-1-bww-bra",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-1-bww-bra.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-1-bww-bra.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-1-bww-bra.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-1-bww-bra.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-1.epub"
+      }
+    },
+    {
+      "eul_wid": "bww-brb",
+      "title": {
+        "english": "Epidemics, Book II",
+        "ancient_greek": "Ἐπιδημίων Β"
+      },
+      "url_slug": "hippocrates-epidemics-2-bww-brb",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-2-bww-brb.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-2-bww-brb.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-2-bww-brb.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-2-bww-brb.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-2.epub"
+      }
+    },
+    {
+      "eul_wid": "bww-brc",
+      "title": {
+        "english": "Epidemics, Book III",
+        "ancient_greek": "Ἐπιδημίων Γ"
+      },
+      "url_slug": "hippocrates-epidemics-3-bww-brc",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-3",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-3-bww-brc.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-3-bww-brc.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-3-bww-brc.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-3-bww-brc.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-3.epub"
+      }
+    },
+    {
+      "eul_wid": "bww-brd",
+      "title": {
+        "english": "Epidemics, Book IV",
+        "ancient_greek": "Ἐπιδημίων Δ"
+      },
+      "url_slug": "hippocrates-epidemics-4-bww-brd",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-4",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-4-bww-brd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-4-bww-brd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-4-bww-brd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-4-bww-brd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-4.epub"
+      }
+    },
+    {
+      "eul_wid": "bww-bre",
+      "title": {
+        "english": "Epidemics, Book V",
+        "ancient_greek": "Ἐπιδημίων Ε"
+      },
+      "url_slug": "hippocrates-epidemics-5-bww-bre",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-5",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-5-bww-bre.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-5-bww-bre.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-5-bww-bre.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-5-bww-bre.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-5.epub"
+      }
+    },
+    {
+      "eul_wid": "bww-brf",
+      "title": {
+        "english": "Epidemics, Book VI",
+        "ancient_greek": "Ἐπιδημίων Ζ"
+      },
+      "url_slug": "hippocrates-epidemics-6-bww-brf",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-6",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-6-bww-brf.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-6-bww-brf.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-6-bww-brf.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-6-bww-brf.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-6.epub"
+      }
+    },
+    {
+      "eul_wid": "bww-brg",
+      "title": {
+        "english": "Epidemics, Book VII",
+        "ancient_greek": "Ἐπιδημίων Η"
+      },
+      "url_slug": "hippocrates-epidemics-7-bww-brg",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-7",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-7-bww-brg.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-7-bww-brg.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-7-bww-brg.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-7-bww-brg.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-7.epub"
+      }
+    },
+    {
+      "eul_wid": "bww-bj",
+      "title": {
+        "english": "Instructions",
+        "ancient_greek": "Ὑποθῆκαι"
+      },
+      "url_slug": "hippocrates-instructions-bww-bj",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/instructions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-instructions-bww-bj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-instructions-bww-bj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-instructions-bww-bj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-instructions-bww-bj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/instructions.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "qmm-dv",
+      "title": {
+        "english": "On Black Bile",
+        "ancient_greek": "Περὶ μέλαινας χολῆς"
+      },
+      "url_slug": "galen-of-pergamon-black-bile-qmm-dv",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/black-bile",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-black-bile-qmm-dv.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-black-bile-qmm-dv.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-black-bile-qmm-dv.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-black-bile-qmm-dv.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/black-bile.epub"
+      }
+    },
+    {
+      "eul_wid": "qao-aa",
+      "title": {
+        "english": "On Causes and Signs of Chronic Diseases",
+        "ancient_greek": "Περὶ αἰτίων καὶ σημείων χρονίων παθῶν"
+      },
+      "url_slug": "aretaeus-the-cappadocian-chronic-diseases-aa-qao-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aretaeus-the-cappadocian/chronic-diseases-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-the-cappadocian-chronic-diseases-aa-qao-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-the-cappadocian-chronic-diseases-aa-qao-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-the-cappadocian-chronic-diseases-aa-qao-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-the-cappadocian-chronic-diseases-aa-qao-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-the-cappadocian/chronic-diseases-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-at",
+      "title": {
+        "english": "On Personal Doctrines, Unpublished Fragments",
+        "ancient_greek": "Περὶ τῶν ἰδίων δογμάτων"
+      },
+      "url_slug": "galen-of-pergamon-personal-doctrines-fragments-qmm-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/personal-doctrines-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-personal-doctrines-fragments-qmm-at.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-personal-doctrines-fragments-qmm-at.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-personal-doctrines-fragments-qmm-at.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-personal-doctrines-fragments-qmm-at.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/personal-doctrines-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-cw",
+      "title": {
+        "english": "On the Method of Healing",
+        "ancient_greek": "Περὶ τῆς μεθόδου θεραπείας"
+      },
+      "url_slug": "galen-of-pergamon-method-healing-cw-qmm-cw",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/method-healing-cw",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-method-healing-cw-qmm-cw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-method-healing-cw-qmm-cw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-method-healing-cw-qmm-cw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-method-healing-cw-qmm-cw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/method-healing-cw.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-bm",
+      "title": {
+        "english": "On the Power of Purgative Medicines",
+        "ancient_greek": "Περὶ τῆς δυνάμεως τῶν καθαρτικῶν φαρμάκων"
+      },
+      "url_slug": "galen-of-pergamon-purgative-medicines-bm-qmm-bm",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/purgative-medicines-bm",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-purgative-medicines-bm-qmm-bm.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-purgative-medicines-bm-qmm-bm.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-purgative-medicines-bm-qmm-bm.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-purgative-medicines-bm-qmm-bm.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/purgative-medicines-bm.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ab",
+      "title": {
+        "english": "Thrasybulus or Whether Hygiene Belongs to Medicine or Gymnastics",
+        "ancient_greek": "Θρασύβουλος ἢ πότερον ἰατρικῇ ἢ γυμναστικῇ ὑγιεινή"
+      },
+      "url_slug": "galen-of-pergamon-thrasybulus-hygiene-qmm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/thrasybulus-hygiene",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-thrasybulus-hygiene-qmm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-thrasybulus-hygiene-qmm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-thrasybulus-hygiene-qmm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-thrasybulus-hygiene-qmm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/thrasybulus-hygiene.epub"
+      }
+    },
+    {
+      "eul_wid": "tqu-ag",
+      "title": {
+        "english": "To Gaurus-How the Fetus is Animated",
+        "ancient_greek": "Πρὸς Γαῦρον Περὶ τοῦ Πῶς Ἔμβρυον Ἐμψυχοῦται"
+      },
+      "url_slug": "anonymous-medical-writer-fetus-animated-tqu-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/fetus-animated",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-fetus-animated-tqu-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-fetus-animated-tqu-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-fetus-animated-tqu-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-fetus-animated-tqu-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/fetus-animated.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-bo",
+      "title": {
+        "english": "To Glaucthe Method of Healing",
+        "ancient_greek": "Πρὸς Γλαύκωνα περὶ τῆς μεθόδου θεραπείας"
+      },
+      "url_slug": "galen-of-pergamon-method-healing-bo-qmm-bo",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/method-healing-bo",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-method-healing-bo-qmm-bo.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-method-healing-bo-qmm-bo.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-method-healing-bo-qmm-bo.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-method-healing-bo-qmm-bo.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/method-healing-bo.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hippocrates/hemorrhoids",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-hemorrhoids-bww-be.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-hemorrhoids-bww-be.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-hemorrhoids-bww-be.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-hemorrhoids-bww-be.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/hemorrhoids.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "hcq",
+  "auth_slug": "timocles-the-comic-poet",
+  "name": {
+    "english": "Timocles B Comic Poet",
+    "ancient_greek": "Τιμοκλῆς ὁ κωμῳδιοποιός"
+  },
+  "seo_h1": "Timocles on Demagogues and Rhetoric in Middle Comedy",
+  "seo": {
+    "browser_title": "Timocles Ancient Comic Poet on Eulogikon Greek Archive",
+    "meta_title": "Classical Timocles Ancient Greek Comedy and Play Fragments",
+    "meta_description": "Timocles was a 4th century BCE Athenian comic poet. Read fragments of his classical comedies. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects (frg)",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Timocles was an Athenian comic poet of the Middle Comedy, active in the later 4th century BCE, circa 330–320. No biographical details survive, but he was a contemporary of Menander, Alexis, and Antiphanes. Evidence for his career derives from fragments preserved by later authors like Athenaeus and entries in ancient catalogs.</p>\n<p class=\"research-text\">The Suda attributes 24 plays to him, but only 28 fragments and 10 titles are extant. Known titles include Drakontion, Demosatyroi, Epichairekakos, Iketides, Karikleia, Konnisalos, Orestautokleides, Polypragmon, Porphyra, and Heroes. All works survive fragmentarily through quotation.</p>\n<p class=\"research-text\">Timocles is significant for understanding Middle Comedy’s transition from political satire to domestic themes. His fragments showcase mythological parody and contemporary social commentary, referencing philosophers, politicians, and hetairai. A notable fragment from his play <strong>Dionysiazousai</strong> defends comedy’s social utility as a consolation by depicting the misfortunes of others.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 4,
+  "works": [
+    {
+      "eul_wid": "hcq-ab",
+      "title": {
+        "english": "Comic Fragments on Demagogues",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δημαγωγῶν"
+      },
+      "url_slug": "timocles-the-comic-poet-comic-demagogues-hcq-ab",
+      "passages": 172,
+      "links": {
+        "html": "https://eulogikon.org/grc/timocles-the-comic-poet/comic-demagogues",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet-comic-demagogues-hcq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet-comic-demagogues-hcq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet-comic-demagogues-hcq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet-comic-demagogues-hcq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comic-demagogues.epub"
+      }
+    },
+    {
+      "eul_wid": "hcq-ac",
+      "title": {
+        "english": "Fragments on Comedy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κωμῳδίας"
+      },
+      "url_slug": "timocles-the-comic-poet-comedy-fragments-ac-hcq-ac",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/timocles-the-comic-poet/comedy-fragments-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet-comedy-fragments-ac-hcq-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet-comedy-fragments-ac-hcq-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet-comedy-fragments-ac-hcq-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet-comedy-fragments-ac-hcq-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comedy-fragments-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "hcq-ad",
+      "title": {
+        "english": "Fragments on Comedy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κωμῳδίας"
+      },
+      "url_slug": "timocles-the-comic-poet-comedy-fragments-ad-hcq-ad",
+      "passages": 8,
+      "links": {
+        "html": "https://eulogikon.org/grc/timocles-the-comic-poet/comedy-fragments-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet-comedy-fragments-ad-hcq-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet-comedy-fragments-ad-hcq-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet-comedy-fragments-ad-hcq-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet-comedy-fragments-ad-hcq-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comedy-fragments-ad.epub"
+      }
+    },
+    {
+      "eul_wid": "hcq-aa",
+      "title": {
+        "english": "Fragments on Rhetoric and Corruption",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ῥητορικῆς καὶ Διαφθορᾶς"
+      },
+      "url_slug": "timocles-the-comic-poet-rhetoric-corruption-hcq-aa",
+      "passages": 169,
+      "links": {
+        "html": "https://eulogikon.org/grc/timocles-the-comic-poet/rhetoric-corruption",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet-rhetoric-corruption-hcq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet-rhetoric-corruption-hcq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet-rhetoric-corruption-hcq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet-rhetoric-corruption-hcq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/rhetoric-corruption.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/timocles-the-comic-poet",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timocles-the-comic-poet-hcq.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timocles-the-comic-poet-hcq.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timocles-the-comic-poet-hcq.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timocles-the-comic-poet-hcq.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

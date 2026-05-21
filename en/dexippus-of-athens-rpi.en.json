@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "rpi",
+  "auth_slug": "dexippus-of-athens",
+  "name": {
+    "english": "Dexippus of Athens",
+    "ancient_greek": "Δέξιππος ὁ Ἀθηναῖος"
+  },
+  "seo_h1": "Dexippus of Athens and the History of the Successors",
+  "seo": {
+    "browser_title": "Dexippus of Athens on Eulogikon Greek Archive and Library",
+    "meta_title": "Classical Dexippus of Athens Ancient Greek Historical Works",
+    "meta_description": "Dexippus of Athens, a 3rd century CE Roman historian. Surviving fragments of his historical works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Publius Herennius Dexippus was a third-century CE Athenian historian, statesman, and military commander from a prominent family. He held high civic and religious offices in Athens and is famed for organizing a local defense force that harassed and helped repel a Herulian invasion around 267 or 268 CE. His career and writings responded directly to the profound military and political crises of the Roman Empire during this period.</p>\n<p class=\"research-text\">His major work, the <strong>Scythica</strong>, was a history in at least twelve books covering events from the death of Alexander the Great to the Gothic and Herulian invasions of the 260s CE; substantial fragments survive. He also composed a universal <strong>Chronicle</strong> and a chronological <strong>Syntagma</strong>, both now lost except for minor references.</p>\n<p class=\"research-text\">Dexippus is a pivotal contemporary source for the third-century Gothic Wars. His classicizing, Thucydidean style marks him as the last major historian in the classical Greek tradition before the Byzantine era, providing crucial insight into how a Greek aristocrat perceived the fragmentation of the empire.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "rpi-aa",
+      "title": {
+        "english": "History of the Successors",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dexippus-of-athens-successors-rpi-aa",
+      "passages": 52,
+      "links": {
+        "html": "https://eulogikon.org/grc/dexippus-of-athens/successors",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dexippus-of-athens-successors-rpi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dexippus-of-athens-successors-rpi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dexippus-of-athens-successors-rpi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dexippus-of-athens-successors-rpi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dexippus-of-athens/successors.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/dexippus-of-athens",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dexippus-of-athens-rpi.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dexippus-of-athens-rpi.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dexippus-of-athens-rpi.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dexippus-of-athens-rpi.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,175 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ppu",
+  "auth_slug": "pindar-scholia",
+  "name": {
+    "english": "Pindar Commentary",
+    "ancient_greek": "Πινδαρικὴ ὑπόμνησις"
+  },
+  "seo_h1": "Scholia and the Scholarly Tradition of Pindar Commentary",
+  "seo": {
+    "browser_title": "Pindar Ancient Commentaries on Eulogikon Greek Archive",
+    "meta_title": "Classical Pindar Commentaries Ancient Greek Scholarly Works",
+    "meta_description": "Ancient commentaries explaining Pindar's lyric poetry. Seven surviving works of grammatical analysis. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Pindar Commentary refers not to a single person but to a body of ancient scholarly work produced to explain the complex poetry of Pindar, a major Greek lyric poet of the 5th century BCE. These commentaries were written by various grammarians and scholars, primarily during the Hellenistic and Roman periods.</p>\n<p class=\"research-text\">A specific collection known as the Pindarikē hypomnēsis is dated to the 2nd century CE, a time of revived interest in classical Greek literature known as the Second Sophistic. Scholars of this era wrote in an Atticizing prose style to elucidate Pindar&#x27;s works for students and educated readers. The commentaries served as essential guides, providing explanations of Pindar&#x27;s dense language, obscure myths, historical references, and poetic meters. They were often organized according to the traditional collections of Pindar&#x27;s odes. The listed count of seven works likely refers to sections of a commentary covering a specific group of these odes, rather than separate books by one author.</p>\n<p class=\"research-text\">These ancient notes are of great historical importance. While the original full commentaries are lost, their content was preserved as marginal notes, or scholia, in medieval manuscripts of Pindar&#x27;s poetry. These scholia contain fragments of earlier scholarship, including work by famous Alexandrian grammarians. This tradition is a critical link in preserving classical literature, offering invaluable insights that shape our understanding of Pindar&#x27;s work today.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 7,
+  "works": [
+    {
+      "eul_wid": "ppu-aa",
+      "title": {
+        "english": "Chapters to the Preface of Scholia-Pindar's Poems",
+        "ancient_greek": "Κεφάλαια εἰς τὴν Προοίμιον Σχολίων εἰς Πινδάρου"
+      },
+      "url_slug": "pindar-scholia-preface-chapters-ppu-aa",
+      "passages": 6,
+      "links": {
+        "html": "https://eulogikon.org/grc/pindar-scholia/preface-chapters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-preface-chapters-ppu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-preface-chapters-ppu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-preface-chapters-ppu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-preface-chapters-ppu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia/preface-chapters.epub"
+      }
+    },
+    {
+      "eul_wid": "ppu-ab",
+      "title": {
+        "english": "Scholia and Glosses-Olympia and Pythia",
+        "ancient_greek": "Σχόλια καὶ Γλῶσσαι εἰς Ὀλυμπιακὰ καὶ Πυθιακά"
+      },
+      "url_slug": "pindar-scholia-scholia-olympia-pythia-ppu-ab",
+      "passages": 2014,
+      "links": {
+        "html": "https://eulogikon.org/grc/pindar-scholia/scholia-olympia-pythia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-olympia-pythia-ppu-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-olympia-pythia-ppu-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-olympia-pythia-ppu-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-olympia-pythia-ppu-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia/scholia-olympia-pythia.epub"
+      }
+    },
+    {
+      "eul_wid": "ppu-af",
+      "title": {
+        "english": "Scholia on Pindar (Olympians, Pythians, Isthmians)",
+        "ancient_greek": "Σχόλια εἰς Πίνδαρον Ἰσθμιακά"
+      },
+      "url_slug": "pindar-scholia-scholia-af-ppu-af",
+      "passages": 4116,
+      "links": {
+        "html": "https://eulogikon.org/grc/pindar-scholia/scholia-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-af-ppu-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-af-ppu-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-af-ppu-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-af-ppu-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia/scholia-af.epub"
+      }
+    },
+    {
+      "eul_wid": "ppu-ag",
+      "title": {
+        "english": "Scholia on Pindar (Selections/Glosses)",
+        "ancient_greek": "Σχόλια εἰς Πίνδαρον"
+      },
+      "url_slug": "pindar-scholia-scholia-ag-ppu-ag",
+      "passages": 667,
+      "links": {
+        "html": "https://eulogikon.org/grc/pindar-scholia/scholia-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-ag-ppu-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-ag-ppu-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-ag-ppu-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-ag-ppu-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia/scholia-ag.epub"
+      }
+    },
+    {
+      "eul_wid": "ppu-ac",
+      "title": {
+        "english": "Scholia-Nemean and Isthmian Odes",
+        "ancient_greek": "Σχόλια εἰς Νεμεακὰ καὶ Ἰσθμιακά"
+      },
+      "url_slug": "pindar-scholia-nemean-isthmian-ppu-ac",
+      "passages": 893,
+      "links": {
+        "html": "https://eulogikon.org/grc/pindar-scholia/nemean-isthmian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-nemean-isthmian-ppu-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-nemean-isthmian-ppu-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-nemean-isthmian-ppu-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-nemean-isthmian-ppu-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia/nemean-isthmian.epub"
+      }
+    },
+    {
+      "eul_wid": "ppu-ae",
+      "title": {
+        "english": "Scholia-Paeans",
+        "ancient_greek": "Σχόλια εἰς Παιᾶνας"
+      },
+      "url_slug": "pindar-scholia-scholia-paeans-ppu-ae",
+      "passages": 95,
+      "links": {
+        "html": "https://eulogikon.org/grc/pindar-scholia/scholia-paeans",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-paeans-ppu-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-paeans-ppu-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-paeans-ppu-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-paeans-ppu-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia/scholia-paeans.epub"
+      }
+    },
+    {
+      "eul_wid": "ppu-ad",
+      "title": {
+        "english": "Scholia-Pythian Odes V–VII",
+        "ancient_greek": "Σχόλια εἰς Πυθιακὰ ᾨδὰς Ε'-Ζ'"
+      },
+      "url_slug": "pindar-scholia-scholia-pythian-odes-ppu-ad",
+      "passages": 153,
+      "links": {
+        "html": "https://eulogikon.org/grc/pindar-scholia/scholia-pythian-odes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-pythian-odes-ppu-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-pythian-odes-ppu-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-pythian-odes-ppu-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-pythian-odes-ppu-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia/scholia-pythian-odes.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/pindar-scholia",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pindar-scholia-ppu.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pindar-scholia-ppu.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pindar-scholia-ppu.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pindar-scholia-ppu.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

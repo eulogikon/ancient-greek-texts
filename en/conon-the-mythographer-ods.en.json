@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ods",
+  "auth_slug": "conon-the-mythographer",
+  "name": {
+    "english": "Conon the Mythographer",
+    "ancient_greek": "Κόνων ὁ μυθογράφος"
+  },
+  "seo_h1": "Conon the Mythographer on Italy and Roman Origins",
+  "seo": {
+    "browser_title": "Conon the Mythographer on Eulogikon Greek Text Archive",
+    "meta_title": "Classical Conon the Mythographer Ancient Greek Narratives",
+    "meta_description": "Conon the Mythographer, a Roman era historian. His surviving work is fifty mythological narratives. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Conon the Mythographer was a Greek mythographer and historian active during the late 1st century BCE or early 1st century CE, likely in the reign of Augustus. He dedicated his work to King Archelaus Philopatris of Cappadocia, which provides the main evidence for his chronology. Beyond this, no reliable biographical details survive.</p>\n<p class=\"research-text\">His sole known work is the Narrations, a collection of 50 short mythological tales. The original is lost but is summarized in the Bibliotheca of the 9th-century patriarch Photius. Conon’s significance lies in his compilation of Greek myths during the early Roman Imperial period. His Narrations functioned as a handbook, preserving both canonical stories and lesser-known variants in straightforward prose, making it a valuable source for the study of mythography and the reception of Greek mythology.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ods-aa",
+      "title": {
+        "english": "Fragments on Italy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἰταλίας"
+      },
+      "url_slug": "conon-the-mythographer-italy-ods-aa",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/conon-the-mythographer/italy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/conon-the-mythographer-italy-ods-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/conon-the-mythographer-italy-ods-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/conon-the-mythographer-italy-ods-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/conon-the-mythographer-italy-ods-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/conon-the-mythographer/italy.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/conon-the-mythographer",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/conon-the-mythographer-ods.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/conon-the-mythographer-ods.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/conon-the-mythographer-ods.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/conon-the-mythographer-ods.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

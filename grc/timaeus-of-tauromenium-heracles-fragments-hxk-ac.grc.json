@@ -1,0 +1,238 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "hxk-ac",
+  "eul_aid": "hxk",
+  "author_slug": "timaeus-of-tauromenium",
+  "work_slug": "heracles-fragments",
+  "url_slug": "timaeus-of-tauromenium-heracles-fragments-hxk-ac",
+  "author": {
+    "english": "Timaeus of Tauromenium",
+    "ancient_greek": "Τιμαῖος ὁ Ταυρομενίτης"
+  },
+  "title": {
+    "english": "Fragments on Heracles",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ἡρακλέους"
+  },
+  "seo": {
+    "browser_title": "Fragments on Heracles by Timaeus of Tauromenium on Eulogikon",
+    "meta_title": "Classical Fragments on Heracles by Timaeus in Ancient Greek",
+    "meta_description": "Surviving fragments on Heracles from the history of Timaeus of Tauromenium. Hellenistic text. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Heracles</strong> consist of excerpts from the historical writings of Timaeus of Tauromenium, preserved by later authors. These surviving passages detail the hero&#x27;s activities in the western Mediterranean, blending mythological narrative with historical and geographical claims about Italy and Sicily. The fragments portray Heracles as a civilizing founder in the West. One account, cited by Strabo, describes his journey through Italy, where he drove Tyrrhenians, depicted as pirates or indigenous peoples, from a promontory, leading to its renaming from Satyrion to Heraion. Another, preserved by Diodorus Siculus, recounts Heracles founding a Sicilian city with the captured daughters of Thespius and establishing a sacred precinct for Iolaus. These narratives function as colonial foundation myths, integrating local legends into the Panhellenic heroic tradition. The work survives only as quotations within the texts of later historians, primarily Strabo and Diodorus Siculus, with the modern title being an editorial convenience. Timaeus&#x27;s treatment of Heracles&#x27;s western travels exemplifies Hellenistic historiography&#x27;s fusion of myth and history to legitimize Greek colonial presence, and his accounts became a foundational source for later geographical and historical writing about the region.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "88bis a.(l1)",
+      "text": "PAP. OX. 2637 fr. 5 col. 2, 12f. (s. 2 p.; vol. 32, 1967, 144 146 [Taf. 14]; Schol. ‘Ibyk.‘ S 223a Page [Supplem. Lyr. Graec. 65]): Τίμαιος δὲ [Χρυσάορι τρεῖς υἱοὺς (o.ä.)] εἶναι ...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "88bis b",
+      "text": "DIODOR. Ἱστορ. 4, 17, 1f.: (1) Εὐρυσθέως δὲ προστάξαντος ἆθλον δέκατον τὰς Γηρυόνου βοῦς ἀγαγεῖν, ἃς νέμεσθαι συνέβαινε τῆς Ἰβηρίας ἐν τοῖς πρὸς τὸν Ὠκεανὸν κεκλιμένοις μέρεσιν, Ἡρακλῆς θεωρῶν τὸν πόνον τοῦτον μεγάλης προσδεόμενον παρασκευῆς καὶ κακοπαθείας συνεστήσατο στόλον ἀξιόλογον καὶ πλῆθος στρατιωτῶν ἀξιόχρεων ἐπὶ ταύτην τὴν στρατείαν. (2) διεβεβόητο γὰρ κατὰ πᾶσαν τὴν οἰκουμένην, ὅτι Χρυσάωρ ὁ λαβὼν ἀπὸ τοῦ πλούτου τὴν προσηγορίαν βασιλεύει μὲν ἁπάσης Ἰβηρίας, τρεῖς δ’ ἔχει συναγωνιστὰς υἱούς, διαφέροντας ταῖς τε ῥώμαις τῶν σωμάτων καὶ ταῖς ἐν τοῖς πολεμικοῖς ἀγῶσιν ἀνδραγαθίαις, πρὸς δὲ τούτοις ὅτι τῶν υἱῶν ἕκαστος μεγάλας ἔχει δυνάμεις συνεστώσας ἐξ ἐθνῶν μαχίμων. ὧν δὴ χάριν ὁ μὲν Εὐρυσθεὺς νομίζων δυσέφικτον εἶναι τὴν ἐπὶ τούτους στρατείαν προσετετάχει τὸν προειρημένον ἆθλον ...",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "hxk-ab",
+      "title": {
+        "english": "Historical Fragments of Timaeus",
+        "ancient_greek": "Ἀποσπάσματα Τιμαίου"
+      },
+      "url_slug": "timaeus-of-tauromenium-historical-fragments-hxk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/timaeus-of-tauromenium/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-tauromenium-historical-fragments-hxk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-tauromenium-historical-fragments-hxk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-tauromenium-historical-fragments-hxk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-tauromenium-historical-fragments-hxk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-tauromenium/historical-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "hxk-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "timaeus-of-tauromenium-testimonies-hxk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/timaeus-of-tauromenium/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-tauromenium-testimonies-hxk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-tauromenium-testimonies-hxk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-tauromenium-testimonies-hxk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-tauromenium-testimonies-hxk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-tauromenium/testimonies.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "hsk-aa",
+      "title": {
+        "english": "Collection of Decrees",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "craterus-the-macedonian-decrees-hsk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/craterus-the-macedonian/decrees",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/craterus-the-macedonian-decrees-hsk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/craterus-the-macedonian-decrees-hsk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/craterus-the-macedonian-decrees-hsk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/craterus-the-macedonian-decrees-hsk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/craterus-the-macedonian/decrees.epub"
+      }
+    },
+    {
+      "eul_wid": "jhy-aa",
+      "title": {
+        "english": "Fragments on Dionysian Genealogy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Διονυσιακῆς Γενεαλογίας"
+      },
+      "url_slug": "satyrus-of-callatis-dionysian-genealogy-jhy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/satyrus-of-callatis/dionysian-genealogy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/satyrus-of-callatis-dionysian-genealogy-jhy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/satyrus-of-callatis-dionysian-genealogy-jhy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/satyrus-of-callatis-dionysian-genealogy-jhy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/satyrus-of-callatis-dionysian-genealogy-jhy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/satyrus-of-callatis/dionysian-genealogy.epub"
+      }
+    },
+    {
+      "eul_wid": "cvw-aa",
+      "title": {
+        "english": "Genealogies Concerning Minos",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hippostratus-the-historian-genealogies-minos-cvw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippostratus-the-historian/genealogies-minos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippostratus-the-historian-genealogies-minos-cvw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippostratus-the-historian-genealogies-minos-cvw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippostratus-the-historian-genealogies-minos-cvw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippostratus-the-historian-genealogies-minos-cvw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippostratus-the-historian/genealogies-minos.epub"
+      }
+    },
+    {
+      "eul_wid": "ezq-ak",
+      "title": {
+        "english": "Hellenica",
+        "ancient_greek": "Ἑλληνικά"
+      },
+      "url_slug": "xenophon-of-athens-hellenica-ezq-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/hellenica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-hellenica-ezq-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-hellenica-ezq-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-hellenica-ezq-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-hellenica-ezq-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hellenica.epub"
+      }
+    },
+    {
+      "eul_wid": "kwi-aa",
+      "title": {
+        "english": "Marvels",
+        "ancient_greek": "Θαύματα"
+      },
+      "url_slug": "vatican-paradoxographer-marvels-kwi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/vatican-paradoxographer/marvels",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/vatican-paradoxographer-marvels-kwi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/vatican-paradoxographer-marvels-kwi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/vatican-paradoxographer-marvels-kwi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/vatican-paradoxographer-marvels-kwi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/vatican-paradoxographer/marvels.epub"
+      }
+    },
+    {
+      "eul_wid": "gdq-aa",
+      "title": {
+        "english": "On Heraclea",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "promathidas-of-heraclea-text-gdq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/promathidas-of-heraclea/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/promathidas-of-heraclea-text-gdq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/promathidas-of-heraclea-text-gdq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/promathidas-of-heraclea-text-gdq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/promathidas-of-heraclea-text-gdq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/promathidas-of-heraclea/text.epub"
+      }
+    },
+    {
+      "eul_wid": "rhq-ao",
+      "title": {
+        "english": "Remains of Uncertain Position",
+        "ancient_greek": "Λείψανα Ἀβέβαιου Θέσεως"
+      },
+      "url_slug": "dio-cassius-of-nicaea-uncertain-remains-rhq-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/uncertain-remains",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-uncertain-remains-rhq-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-uncertain-remains-rhq-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-uncertain-remains-rhq-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-uncertain-remains-rhq-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/uncertain-remains.epub"
+      }
+    },
+    {
+      "eul_wid": "pdc-ar",
+      "title": {
+        "english": "Syriac",
+        "ancient_greek": "Συριακή"
+      },
+      "url_slug": "appian-of-alexandria-syriac-pdc-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/syriac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-syriac-pdc-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-syriac-pdc-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-syriac-pdc-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-syriac-pdc-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/syriac.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/timaeus-of-tauromenium/heracles-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-tauromenium-heracles-fragments-hxk-ac.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-tauromenium-heracles-fragments-hxk-ac.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-tauromenium-heracles-fragments-hxk-ac.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-tauromenium-heracles-fragments-hxk-ac.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-tauromenium/heracles-fragments.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

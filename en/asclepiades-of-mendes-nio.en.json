@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "nio",
+  "auth_slug": "asclepiades-of-mendes",
+  "name": {
+    "english": "Asclepiades of Mendes",
+    "ancient_greek": "Ἀσκληπιάδης ὁ Μενδήσιος"
+  },
+  "seo_h1": "Asclepiades of Mendes on the Apples of the Hesperides",
+  "seo": {
+    "browser_title": "Asclepiades of Mendes on Eulogikon Greek Text Archive",
+    "meta_title": "Asclepiades of Mendes Ancient Greek Grammatical Works",
+    "meta_description": "Asclepiades of Mendes was a Hellenistic grammarian of the 1st century BCE. His grammatical treatise survives. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Asclepiades of Mendes was a grammarian from the Egyptian city of Mendes, active during the 1st century BCE. No further biographical details of his life are preserved.</p>\n<p class=\"research-text\">His sole attested work is the lost treatise On the Grammar of Democritus, which analyzed the language of the pre-Socratic philosopher Democritus. Asclepiades is a minor but clear example of a specific Hellenistic scholarly genre: specialized grammatical studies of individual classical authors. His work’s mention in later sources like the Suda places him within the tradition of Alexandrian scholarship focused on textual and linguistic analysis.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "nio-aa",
+      "title": {
+        "english": "On the Apples of the Hesperides",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "asclepiades-of-mendes-apples-hesperides-nio-aa",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/asclepiades-of-mendes/apples-hesperides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepiades-of-mendes-apples-hesperides-nio-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepiades-of-mendes-apples-hesperides-nio-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepiades-of-mendes-apples-hesperides-nio-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepiades-of-mendes-apples-hesperides-nio-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepiades-of-mendes/apples-hesperides.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/asclepiades-of-mendes",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/asclepiades-of-mendes-nio.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/asclepiades-of-mendes-nio.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/asclepiades-of-mendes-nio.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/asclepiades-of-mendes-nio.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

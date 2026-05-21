@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "nhk",
+  "auth_slug": "cleomedes-the-astronomer",
+  "name": {
+    "english": "Cleomedes the Astronomer",
+    "ancient_greek": "Κλεομήδης"
+  },
+  "seo_h1": "Cleomedes the Astronomer on the Meteora",
+  "seo": {
+    "browser_title": "Cleomedes the Astronomer on Eulogikon Greek Archive",
+    "meta_title": "Cleomedes Ancient Greek Astronomy and Philosophical Works",
+    "meta_description": "Cleomedes, a Hellenistic Greek astronomer. His work is On the Circular Motions of the Celestial Bodies. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Cleomedes was an ancient Greek astronomer who lived sometime between the 1st century BCE and the 4th century CE. The exact dates of his life are uncertain, but his work references figures from the early 1st century CE, suggesting he likely wrote in the first few centuries of the Common Era. He is known only as the author of a single surviving work.</p>\n<p class=\"research-text\">His role was that of a teacher of Stoic natural philosophy. His astronomical treatise, On the Circular Motions of the Celestial Bodies, is written from a Stoic perspective and relies heavily on the earlier work of the Stoic philosopher Posidonius. The book is a didactic textbook, written for students, and it argues for the superiority of Stoic cosmology over rival views like those of the Epicureans.</p>\n<p class=\"research-text\">Cleomedes&#x27; work is historically important because it is the most complete surviving account of the astronomy of Posidonius, whose own writings are lost. The treatise covers standard topics of the time, including the spherical shape of the Earth, lunar phases, eclipses, and the sizes of the sun and moon.</p>\n<p class=\"research-text\">According to modern scholars, its significance extends beyond just recording facts. It preserves crucial discussions on ancient scientific methods and features unique descriptions, such as a detailed explanation of Eratosthenes&#x27; calculation of the Earth&#x27;s circumference and an account of an experiment demonstrating a vacuum. For these reasons, Cleomedes&#x27; work is a vital source for understanding how Greek astronomical knowledge was taught and transmitted in the ancient world.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "nhk-aa",
+      "title": {
+        "english": "Meteora",
+        "ancient_greek": "Μετέωρα"
+      },
+      "url_slug": "cleomedes-the-astronomer-meteora-nhk-aa",
+      "passages": 113,
+      "links": {
+        "html": "https://eulogikon.org/grc/cleomedes-the-astronomer/meteora",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleomedes-the-astronomer-meteora-nhk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleomedes-the-astronomer-meteora-nhk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleomedes-the-astronomer-meteora-nhk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleomedes-the-astronomer-meteora-nhk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleomedes-the-astronomer/meteora.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/cleomedes-the-astronomer",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleomedes-the-astronomer-nhk.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleomedes-the-astronomer-nhk.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleomedes-the-astronomer-nhk.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleomedes-the-astronomer-nhk.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

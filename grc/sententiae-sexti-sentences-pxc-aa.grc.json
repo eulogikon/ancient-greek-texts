@@ -1,0 +1,2472 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "pxc-aa",
+  "eul_aid": "pxc",
+  "author_slug": "sententiae-sexti",
+  "work_slug": "sentences",
+  "url_slug": "sententiae-sexti-sentences-pxc-aa",
+  "author": {
+    "english": "Sententiae Sexti",
+    "ancient_greek": "Σεντεντιῶν Σέκστου"
+  },
+  "title": {
+    "english": "Sentences of Sextus",
+    "ancient_greek": "Γνῶμαι Σέξτου"
+  },
+  "seo": {
+    "browser_title": "Sentences of Sextus by Sententiae Sexti on Eulogikon",
+    "meta_title": "Sentences of Sextus by Sententiae Sexti in Ancient Greek",
+    "meta_description": "The Sentences of Sextus is a collection of ethical maxims and philosophical wisdom. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Christian",
+      "href": "/affiliations/christian"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Sentences of Sextus is a collection of 325 ethical maxims composed in Koine Greek, likely compiled in the late second century CE. Its author, identified only as Sextus, remains otherwise unknown. The work consists of short, aphoristic statements offering practical guidance for virtuous living, emphasizing themes such as self-control, piety, justice, disciplined speech, and the proper attitude toward wealth and desire. Its structure follows the tradition of ancient gnomic literature, presenting a series of independent, concise admonitions.</p>\n<p class=\"research-text\">The original Greek text survives only in fragmentary form, preserved in a few papyrus scraps and quotations by early Christian writers. The most complete version derives from a late fourth-century Latin translation by Rufinus of Aquileia, which not only transmitted the sayings but also expanded the collection and prefaced it with Christianizing material. The content is fundamentally theistic and moral, yet its earliest form lacks explicitly Christian doctrine, a characteristic that facilitated its adoption across different philosophical and religious communities. Scholars regard the work as a product of the intersection between popular Hellenistic philosophy and early Christian ascetic thought, originally intended for a broad audience seeking ethical instruction. It later gained particular popularity within monastic circles. The Sentences of Sextus stands as a significant example of how non-Christian wisdom literature was preserved and adapted within the evolving Christian tradition.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t",
+      "text": "ΣΕΞΤΟΥ ΓΝΩΜΑΙ Πιστὸς ἄνθρωπος ἐκλεκτός ἐστιν ἄνθρωπος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "ἐκλεκτὸς ἄνθρωπος ἄνθρωπός ἐστι θεοῦ. θεοῦ ἄνθρωπος ὁ ἄξιος θεοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "θεοῦ ἄξιος ὁ μηδὲν ἀνάξιον θεοῦ πράττων. ἐπιτηδεύων οὖν πιστὸς εἶναι μηδὲν ἀνάξιον θεοῦ πράξῃς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "ὀλιγόπιστος ἐν πίστει ἄπιστος. πιστὸς ἐν δοκιμῇ πίστεως θεὸς ἐν ἀνθρώπου σώματι [ζῶντι].",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7b",
+      "text": "ἄπιστος ἐν πίστει νεκρὸς ἄνθρωπος ἐν σώματι ζῶντι. πιστὸς ἀληθείᾳ ὁ ἀναμάρτητος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "μέχρι καὶ τῶν ἐλαχίστων ἀκριβῶς βίου. οὐ γὰρ μικρὸν ἐν βίῳ τὸ παρὰ μικρόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "πᾶν ἁμάρτημα ἀσέβημα ἡγοῦ. οὐκ ὀφθαλμὸς οὐδὲ χεὶρ ἁμαρτάνει οὐδέ τι τῶν ὁμοίων, ἀλλ’ ὁ κακῶς χρώμενος χειρὶ καὶ ὀφθαλμῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13",
+      "text": "πᾶν μέλος τοῦ σώματος ἀναπεῖθόν σε μὴ σωφρονεῖν ῥῖψον· ἄμεινον γὰρ χωρὶς τοῦ μέλους ζῆν σωφρόνως ἢ μετὰ τοῦ μέλους ὀλεθρίως. ἀθανάτους σοι νόμιζε παρὰ τῇ κρίσει καὶ τὰς τιμὰς ἔσεσθαι καὶ τὰς τιμωρίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "ὁπόσα τοῦ κόσμου ἔχεις, κἂν ἀφέληταί σού τις, μὴ ἀγανάκτει. σεαυτὸν ἐπιλήψιμον μὴ πάρεχε τῷ κόσμῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17",
+      "text": "χωρὶς τῆς ἐλευθερίας πάντα ἀφαιρουμένῳ σε τῷ πέλας ὕπεικε. σοφὸς ἀκτήμων ὅμοιος θεῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19",
+      "text": "τοῖς κοσμικοῖς πράγμασιν εἰς αὐτὰ τὰ ἀναγκαῖα χρῶ. τὰ μὲν τοῦ κόσμου τῷ κόσμῳ, τὰ δὲ τοῦ θεοῦ τῷ θεῷ ἀκριβῶς ἀποδίδου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "21",
+      "text": "τὴν ψυχήν σου νόμιζε παραθήκην ἔχειν παρὰ θεοῦ. ὅτε λέγεις περὶ θεοῦ, κρίνῃ ὑπὸ θεοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "23",
+      "text": "ἄριστον ἡγοῦ καθαρμὸν τὸ μηδένα ἀδικεῖν. ψυχὴ καθαίρεται λόγῳ θεοῦ ὑπὸ σοφοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25",
+      "text": "ἀναίσθητον οὐσίαν μὴ πεισθῇς εἶναί ποτε θεοῦ. ὁ θεὸς καθὸ νοῦς ἐστιν αὐτοκίνητος, κατ’ αὐτὸ τοῦτο καὶ ὑφέστηκεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "27",
+      "text": "θεοῦ μέγεθος οὐκ ἂν ἐξεύροις πτεροῖς πετόμενος. θεοῦ ὄνομα μὴ ζήτει, οὐ γὰρ εὑρήσεις· πᾶν τὸ ὀνομαζόμενον ὀνομάζεται ὑπὸ τοῦ κρείττονος, ἵνα τὸ μὲν καλῇ, τὸ δὲ ὑπακούῃ· τίς οὖν ὁ ὀνομάσας θεόν; θεὸς οὐκ ὄνομα θεοῦ, ἀλλὰ δόξα περὶ θεοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "29",
+      "text": "μηθὲν οὖν ἐν θεῷ ὃ μὴ ἔστι ζήτει. θεὸς αὐγὴ σοφὴ τοῦ ἐναντίου ἀνεπίδεκτος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "31",
+      "text": "ὁ θεὸς ὅσα ἐποίησεν, ὑπὲρ ἀνθρώπων αὐτὰ ἐποίησεν. ἄγγελος ὑπηρέτης θεοῦ πρὸς ἄνθρωπον, οὐ γὰρ δὴ πρὸς οὐδένα ἄλλον· τιμιώτερον οὖν ἄνθρωπος ἀγγέλου παρὰ θεῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "33",
+      "text": "τὸ μὲν πρῶτον εὐεργετοῦν ὁ θεός, τὸ δὲ δεύτερον εὐεργετούμενον ἄνθρωπος. βίου τοιγαροῦν ὡς ὢν μετὰ θεόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "35",
+      "text": "ἐκλεκτὸς ὢν ἔχεις τι ἐν τῇ συστάσει σου ὁποῖον θεός· χρῶ οὖν τῇ συστάσει σου ὡς ἱερῷ θεοῦ. ἐξουσίαν πιστῷ ὁ θεὸς δίδωσι τὴν κατὰ θεόν· καθαρὰν οὖν δίδωσι καὶ ἀναμάρτητον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "37",
+      "text": "αἰδείσθω σου τὸν βίον ὁ κόσμος. μηδενὶ σεαυτὸν ἐπιλήψιμον δίδου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "39",
+      "text": "κακῶς ζῶντα μετὰ τὴν ἀπαλλαγὴν τοῦ σώματος εὐθύνει κακὸς δαίμων μέχρις οὗ καὶ τὸν ἔσχατον κοδράντην ἀπολάβῃ. μακάριος ἀνήρ, οὗ τῆς ψυχῆς οὐδεὶς ἐπιλήψεται εἰς θεὸν πορευομένης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "41",
+      "text": "ὃ ἂν τιμήσῃς ὑπὲρ πάντα, ἐκεῖνό σου κυριεύσει. τίμα τὸ ἄριστον, ἵνα καὶ ἄρχῃ ὑπὸ τοῦ ἀρίστου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "43",
+      "text": "ἀρχόμενος ὑπὸ τοῦ ἀρίστου αὐτὸς ἄρξεις ὧν ἂν προαιρῇ. τιμὴ μεγίστη θεῷ θεοῦ γνῶσις καὶ ὁμοίωμα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "45",
+      "text": "ὅμοιον μὲν οὐδὲν θεῷ, προσφιλέστατον δὲ τὸ εἰς δύναμιν ἐξομοιούμενον. ἱερὸν ἅγιον θεοῦ διάνοια εὐσεβοῦς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "46b",
+      "text": "ἄριστον θυσιαστήριον θεῷ καρδία καθαρὰ καὶ ἀναμάρτητος. θυσία θεῷ μόνη καὶ προσηνὴς ἡ ἀνθρώποις εὐεργεσία διὰ θεόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "48",
+      "text": "ἄνθρωπος κεχαρισμένα θεῷ πράττει ὁ ζῶν εἰς δύναμιν κατὰ θεόν. ὁ μὲν θεὸς οὐδενὸς δεῖται, ὁ δὲ πιστὸς μόνου θεοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "50",
+      "text": "ζηλοῖ τὸν οὐδενὸς δεόμενον ὁ τῶν ὀλίγων ἀναγκαίως δεόμενος. ἄσκει μέγας μὲν εἶναι παρὰ θεῷ, παρὰ δὲ ἀνθρώποις ἀνεπίφθονος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "52",
+      "text": "χρηστὸς ὢν εἰς τοὺς δεομένους μέγας ἂν εἴης παρὰ θεῷ. ἀνδρὸς σοφοῦ ζῶντος μὲν ὀλίγος ὁ λόγος παρὰ ἀνθρώποις, τελευτήσαντος δὲ τὸ κλέος ᾄδεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "54",
+      "text": "τὸν χρόνον ὃν ἂν μὴ νοήσῃς τὸν θεόν, τοῦτον νόμιζέ σοι ἀπολωλέναι. τὸ μὲν σῶμά σου μόνον ἐπιδημείτω τῇ γῇ, ἡ δὲ ψυχὴ ἀεὶ ἔστω παρὰ θεῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "56",
+      "text": "νόει τὰ καλά, ἵνα καὶ πράττῃς τὰ καλά. ἔννοια ἀνθρώπου θεὸν οὐ λανθάνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "57b",
+      "text": "ἔστω σου ἡ διάνοια καθαρὰ κακοῦ παντός. ἄξιος ἔσο τοῦ ἀξιώσαντός σε εἰπεῖν υἱὸν καὶ πρᾶττε πάντα ὡς υἱὸς θεοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "59",
+      "text": "θεὸν πατέρα καλῶν ἐν οἷς πράττεις τούτου μέμνησο. ἁγνὸς ἀνὴρ καὶ ἀναμάρτητος ἐξουσίαν ἔχει παρὰ θεῷ ὡς υἱὸς θεοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "61",
+      "text": "ἀγαθὴ διάνοια χῶρος θεοῦ. κακὴ διάνοια χῶρός ἐστιν κακῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "63",
+      "text": "τὸν ἀδικοῦντα τοῦ ἀδικεῖν ἀπαλλάττων κολάζοις ἂν κατὰ θεόν. ἄσκει μὴ τὸ δοκεῖν ἀλλὰ τὸ εἶναι δίκαιος· τὸ δοκεῖν γὰρ ἕκαστον τοῦ εἶναι ἀφαιρεῖται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "65",
+      "text": "τίμα τὸ δίκαιον δι’ αὐτό. οὐκ ἂν λάθοις θεὸν πράττων ἄδικα, οὐδὲ γὰρ διανοούμενος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "67",
+      "text": "σώφρων ἀνὴρ ἁγνὸς παρὰ τῷ θεῷ. ἀκολασίαν φεῦγε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "69",
+      "text": "εὐλογιστίαν ἄσκει. κράτει τῶν ἡδονῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "71a",
+      "text": "νίκα τὸ σῶμα ἐν παντί. ἐκ φιληδονίας ἀκολασίαν οὐκ ἐκφεύξῃ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "72",
+      "text": "φιληδόνου ὁ θεὸς οὐκ ἀκούει. τρυφῆς πέρας ὄλεθρος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "74",
+      "text": "ὁ λόγος σου τῶν ὁρμῶν σου προηγείσθω. δεινότατόν ἐστιν πάθεσι δουλεύειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "75b",
+      "text": "ὅσα πάθη ψυχῆς, τοσοῦτοι δεσπόται. φιλοχρηματία φιλοσωματίας ἔλεγχος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "77",
+      "text": "κτῶ τὰ τῆς ψυχῆς ὡς βέβαια. ἀποτάττου τοῖς τοῦ σώματος, ἐφ’ ὅσον δυνατὸς εἶ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "79",
+      "text": "μόνον οἰκεῖον ἡγοῦ τὸ ἀγαθόν. ὁποῖος θέλεις εὐχόμενος εἶναι, ἀεὶ ἔσο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "81",
+      "text": "ὅταν τὰ κάλλιστα τῶν κτημάτων εὐλόγως εἰς βόρβορον ῥίψῃς, τότε καθαρὸς ὢν αἰτοῦ τι παρὰ τοῦ θεοῦ. ὁποῖος θέλεις εἶναι παρὰ θεῷ, ἤδη ἔσο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "82b",
+      "text": "τῶν τοῦ κόσμου μεταδιδοὺς καταφρόνει. μέμνησο ὢν μετὰ θεόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "82d",
+      "text": "ψυχὴ ἀνθρώπου θεοσεβοῦς θεὸς ἐν σώματι. μιαίνει τὸν θεὸν ὁ κακῶς νοῶν τὸν θεόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "83",
+      "text": "γλῶσσα βλάσφημος διανοίας ἔλεγχος κακῆς. γλῶσσαν εὔφημον κέκτησο, μάλιστα δὲ περὶ θεοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85",
+      "text": "κακῶς μὲν ποιῆσαι θεὸν δυνατὸς οὐδείς, ἀσεβέστατος δὲ ὁ βλασφημῶν· δυνατὸς γὰρ ὢν κἂν ἐποίησεν. κρηπὶς εὐσεβείας ἐγκράτεια.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "86b",
+      "text": "τέλος εὐσεβείας φιλία πρὸς θεόν. χρῶ τῷ εὐσεβεῖ ὡς σαυτῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "88",
+      "text": "εὔχου σοι γενέσθαι μὴ ἃ βούλει, ἀλλ’ ἃ δεῖ καὶ συμφέρει. ὡς θέλεις χρήσασθαί σοι τοὺς πέλας, καὶ σὺ χρῶ αὐτοῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "90",
+      "text": "ἃ ψέγεις, μηδὲ ποίει. μηδείς σε πειθέτω ποιεῖν τι παρὰ τὸ βέλτιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "91b",
+      "text": "ἃ δέδοταί σοι, κἂν ἀφέληταί σού τις, μὴ ἀγανάκτει. ἃ δίδωσιν ὁ θεός, οὐδεὶς ἀφαιρεῖται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "93",
+      "text": "σκέπτου πρὸ τοῦ πράττειν καὶ ἃ πράττεις ἐξέταζε, ἵνα μηδὲν ποιῇς ὃ μὴ δεῖ. ὃ πράττων οὐκ ἂν θέλοις εἰδέναι τὸν θεόν, τοῦτο μὴ πράξῃς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "95a",
+      "text": "πρὸ παντὸς οὗ πράττεις νόει τὸν θεόν. φῶς σου τῶν πράξεων προηγείσθω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "96",
+      "text": "μεγίστη ἀσέβεια εἰς θεὸν ἀνθρώπου κάκωσις. ψυχὴ φωτίζεται ἐννοίᾳ θεοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "98",
+      "text": "αὐτάρκειαν ἄσκει. τῶν ἀτόπων μὴ ὀρέγου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "100",
+      "text": "τῶν καλῶν ἐκπόνει τὰ αἴτια. τὰ τοῦ σώματος μὴ ἀγάπα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "102",
+      "text": "ἀκάθαρτον ἄνθρωπον ποιεῖ πρᾶξις αἰσχρά. καθαίρει ψυχὴν ἀνοήτου δόξης ἔλεγχος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "104",
+      "text": "ὁ θεὸς ἀνθρώπων καλῶν πράξεων ἡγεμών ἐστιν. μηδένα ἐχθρὸν ἡγοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "106a",
+      "text": "ἀγάπα τὸ ὁμόφυλον. ἀγάπα τὸν θεὸν καὶ πρὸ τῆς ψυχῆς σου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "107",
+      "text": "οὐ χαλεπὸν ἁμαρτωλοὺς ἐπὶ τὸ αὐτὸ γενέσθαι μὴ ἁμαρτάνοντας. τροφαὶ πολλαὶ ἁγνείαν ἐμποδίζουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "108b",
+      "text": "ἀκρασία σιτίων ἀκάθαρτον ποιεῖ. ἐμψύχων ἁπάντων χρῆσις μὲν ἀδιάφορον, ἀποχὴ δὲ λογικώτερον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "110",
+      "text": "οὐ τὰ εἰσιόντα διὰ τοῦ στόματος σιτία καὶ ποτὰ μιαίνει τὸν ἄνθρωπον, ἀλλὰ τὰ ἀπὸ κακοῦ ἤθους ἐξιόντα. ὃ ἂν 〈ἡδονῇ〉 ἡττώμενος σιτίον προσφέρῃ μιαίνει σε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "112",
+      "text": "πλήθει ἀρέσκειν μὴ ἐπιτήδευε. παντὸς οὗ καλῶς πράττεις αἴτιον ἡγοῦ τὸν θεόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "114",
+      "text": "κακῶν θεὸς ἀναίτιος. μὴ πλέον κτῶ ὧν τὸ σῶμα ἐπιζητεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "116",
+      "text": "ψυχὴν χρυσὸς οὐ ῥύεται κακῶν. οὐ γέγονας ἐντρυφήσων τῇ τοῦ θεοῦ παρασκευῇ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "118",
+      "text": "κτῶ ἃ μηδείς σου ἀφαιρεῖται. φέρε τὰ ἀναγκαῖα ὡς ἀναγκαῖα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "120",
+      "text": "μεγαλοψυχίαν ἄσκει. ὧν καταφρονῶν ἐπαινῇ εὐλόγως, τούτων μὴ περιέχου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "121b",
+      "text": "ἐφ’ οἷς εὐλόγως μεγαλοφρονεῖς, ταῦτα κέκτησο. εὔχου τῷ θεῷ τὰ ἄξια τοῦ θεοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "123",
+      "text": "τὸν ἐν σοὶ λόγον τοῦ βίου σου νόμον ποίει. αἰτοῦ παρὰ θεοῦ ἃ μὴ λάβοις ἂν παρὰ ἀνθρώπου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "125",
+      "text": "ὧν ἡγεμόνες οἱ πόνοι, ταῦτά σοι εὔχου γενέσθαι μετὰ τοὺς πόνους. εὐχὴ ῥᾳθύμου μάταιος λόγος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "127",
+      "text": "ὧν τοῦ σώματος ἀπαλλαγεὶς οὐ δεήσῃ, καταφρόνει. ὃ κτησάμενος οὐ καθέξεις, μὴ αἰτοῦ παρὰ θεοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "129",
+      "text": "ἔθιζε τὴν ψυχήν σου μετὰ θεὸν ἐφ’ ἑαυτῇ μεγαλοφρονεῖν. μηθὲν ὧν ἀφαιρήσεταί σε κακὸς ἀνὴρ τίμα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "131",
+      "text": "μόνον ἀγαθὸν ἡγοῦ τὸ πρέπον θεῷ. τὸ ἄξιον θεοῦ καὶ ἀνδρὸς ἀγαθοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "133",
+      "text": "ὃ οὐ συμβάλλεται πρὸς εὐδαιμονίαν θεῷ, οὐδὲ ἀνθρώπῳ. ταῦτα θέλε ἃ θέλοι ἂν καὶ ὁ θεός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "135",
+      "text": "υἱὸς θεοῦ ὁ ταῦτα μόνα τιμῶν ἃ καὶ ὁ θεός. ἐφ’ ὅσον ποθεῖ τὸ σῶμα, ἡ ψυχὴ τὸν θεὸν ἀγνοεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "137",
+      "text": "ὄρεξις κτήσεως ἀρχὴ πλεονεξίας. ἐκ φιλαυτίας ἀδικία φύεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "139a",
+      "text": "ὀλίγα πέφυκεν τῇ ψυχῇ τὸ σῶμα ἐνοχλεῖν. φιληδονία ποιεῖ σώμα ἀφόρητον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "140",
+      "text": "πᾶν τὸ πλέον ἀνθρώπῳ πολέμιον. φιλῶν ἃ μὴ δεῖ οὐ φιλήσεις ἃ δεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "142",
+      "text": "σπουδάζοντά σε περὶ τὰ μὴ καλὰ λήσεται τὰ καλά. σοφοῦ διάνοια ἀεὶ παρὰ θεῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "144",
+      "text": "σοφοῦ διανοίᾳ θεὸς ἐνοικεῖ. σοφὸς ὀλίγοις γινώσκεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "146",
+      "text": "ἀπλήρωτος ἐπιθυμία, διὰ τοῦτο καὶ ἄπορος. τὸ σοφὸν ἀεὶ ἑαυτῷ ὅμοιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "148",
+      "text": "αὔταρκες πρὸς εὐδαιμονίαν θεοῦ γνῶσις καὶ ὁμοίωμα. κακοὶ κολακευόμενοι κακίους γίνονται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "150",
+      "text": "ἀφόρητον γίνεται κακία ἐπαινουμένη. ἡ γλῶσσά σου τῷ νοΐ σου ἑπέσθω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "152",
+      "text": "αἱρετώτερον λίθον εἰκῇ βάλλειν ἢ λόγον. σκέπτου πρὸ τοῦ λέγειν ἵνα μὴ λέγῃς ἃ μὴ δεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "154",
+      "text": "ῥήματα ἄνευ νοῦ ψόφος. πολυλογία οὐκ ἐκφεύγει ἁμαρτίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "156",
+      "text": "βραχυλογίᾳ σοφία παρακολουθεῖ. μακρολογία σημεῖον ἀμαθίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "158",
+      "text": "τὸ ἀληθὲς ἀγάπα. τῷ ψεύδει χρῶ ὡς φαρμάκῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "160",
+      "text": "καιρὸς τῶν λόγων σου προηγείσθω. λέγε ὅτε σιγᾶν οὐ καθήκει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "162a",
+      "text": "περὶ ὧν οὐκ οἶδας σιώπα. περὶ ὧν οἶδας, ὅτε δεῖ λέγε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "163a",
+      "text": "λόγος παρὰ καιρὸν διανοίας ἔλεγχος κακῆς. ὁπότε δεῖ πράττειν, λόγῳ μὴ χρῶ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "164a",
+      "text": "ἐν συλλόγῳ πρῶτος λέγειν μὴ ἐπιτήδευε. ἡ αὐτὴ ἐπιστήμη ἐστὶ τοῦ λέγειν καὶ τοῦ σιωπᾶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "165a",
+      "text": "ἄμεινον ἡττᾶσθαι τἀληθῆ λέγοντα τοῦ περιγενέσθαι μετὰ ἀπάτης. ὁ νικῶν τῷ ἀπατᾶν νικᾶται ἐν ἤθει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "165c",
+      "text": "μάρτυρες κακῶν γίνονται λόγοι ψευδεῖς. μεγάλη περίστασις ᾗ πρέπει ψεῦδος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "165e",
+      "text": "ὁπότε ἁμαρτάνων εἶ τἀληθῆ λέγων, ἀναγκαίως τότε ψευδῆ λέγων οὐχ ἁμαρτήσεις. μηδένα ἀπάτα, μάλιστα τὸν συμβουλίας δεόμενον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "165g",
+      "text": "μετὰ πλειόνων λέγων μᾶλλον ὄψει τὰ συμφέροντα. πίστις ἁπασῶν καλῶν πράξεων ἡγεμών ἐστιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "167",
+      "text": "σοφία ψυχὴν ὁδηγεῖ πρὸς θεόν. οὐδὲν οἰκειότερον σοφίᾳ ἀληθείας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "169",
+      "text": "οὐ δυνατὸν τὴν αὐτὴν φύσιν πιστήν τε εἶναι καὶ φιλοψευδῆ. δειλῇ καὶ ἀνελευθέρῳ φύσει πίστις οὐκ ἂν μετείη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "171a",
+      "text": "τὸ λέγειν ἃ δεῖ τοῦ ἀκούειν πιστὸς ὢν μὴ προτίμα. ἐν πιστοῖς ὢν μᾶλλον ἄκουε ἤπερ λέγε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "172",
+      "text": "φιλήδονος ἀνὴρ ἄχρηστος ἐν παντί. ἀνεύθυνος ὢν λόγοις μὴ χρῶ περὶ θεοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "174",
+      "text": "τὰ τῶν ἀγνοούντων ἁμαρτήματα τῶν διδαξάντων αὐτοὺς ὀνείδη. νεκροὶ παρὰ θεῷ δι’ οὓς τὸ ὄνομα τοῦ θεοῦ λοιδορεῖται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "176",
+      "text": "σοφὸς ἀνὴρ εὐεργέτης μετὰ θεόν. τοὺς λόγους σου ὁ βίος βεβαιούτω παρὰ τοῖς ἀκούουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "178",
+      "text": "ὃ μὴ δεῖ ποιεῖν, μηδ’ ὑπονοοῦ ποιεῖν. ἃ μὴ θέλεις παθεῖν, μηδὲ ποίει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "180",
+      "text": "ἃ ποιεῖν αἰσχρόν, καὶ προστάττειν ἑτέρῳ αἰσχρόν. μέχρι καὶ τοῦ νοῦ καθάρευε τῶν ἁμαρτημάτων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "182",
+      "text": "ἄρχων ἀνθρώπων μέμνησο ἄρχεσθαι παρὰ θεοῦ. ὁ κρίνων ἄνθρωπον κρίνεται ὑπὸ τοῦ θεοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "184",
+      "text": "μείζων ὁ κίνδυνος δικαζομένου δικαστῇ. ἅπασι μᾶλλον ἢ λόγῳ βλάπτε ἄνθρωπον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "186",
+      "text": "δυνατὸν ἀπατῆσαι λόγῳ ἄνθρωπον, θεὸν μέντοι ἀδύνατον. οὐ χαλεπὸν ἐπίστασθαι καὶ ἐν λόγῳ νενικῆσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "188",
+      "text": "κακοδοξίας αἰτιώτατον ἡ ἐν πίστει φιλοδοξία. τίμα τὸ πιστὸς εἶναι διὰ τοῦ εἶναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "190",
+      "text": "σέβου σοφὸν ἄνδρα ὡς εἰκόνα θεοῦ ζῶσαν. σοφὸς ἀνὴρ καὶ γυμνὸς ὢν δοκείτω σοι σοφὸς εἶναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "192",
+      "text": "διὰ τὸ πολλὰ ἔχειν χρήματα 〈μὴ〉 τιμήσῃς μηδένα. χαλεπόν ἐστιν πλουτοῦντα σωθῆναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "194",
+      "text": "ψέγειν ἄνδρα σοφὸν καὶ θεὸν ἴσον ἁμάρτημα. λόγον χειρίζων περὶ θεοῦ παραθήκην σοι δεδόσθαι νόμιζε τὰς ψυχὰς τῶν ἀκουόντων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "196",
+      "text": "οὐκ ἔστιν βιῶναι καλῶς μὴ πεπιστευκότα γνησίως. μόνον τὸ καλὸν ἀγαθὸν ἡγοῦ καὶ καλὸν μόνον τὸ πρέπον θεῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "198",
+      "text": "ποίει μεγάλα μὴ μεγάλα ὑπισχνούμενος. οὐ γενήσῃ σοφὸς οἰόμενος εἶναι πρὸ τοῦ εἶναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "200",
+      "text": "μεγάλη περίστασις πιστὸν ἄνδρα δείκνυσι. τέλος ἡγοῦ βίου τὸ ζῆν κατὰ θεόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "202",
+      "text": "μηδὲν ἡγοῦ κακόν, ὃ μή ἐστιν αἰσχρόν. κόρου πέρας ὕβρις, ὕβρεως δὲ ὄλεθρος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "204",
+      "text": "οὐκ ἀναβήσεται πάθος ἐπὶ καρδίαν πιστοῦ. πᾶν πάθος ψυχῆς λόγῳ πολέμιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "206",
+      "text": "ὃ ἂν πράξῃς ἐν πάθει ὤν, μετανοήσεις. πάθη νοσημάτων ἀρχαί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "208a",
+      "text": "κακία νόσος ψυχῆς. ἀδικία ψυχῆς θάνατος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "209",
+      "text": "τότε δόκει πιστὸς εἶναι, ὅταν τῶν τῆς ψυχῆς παθῶν ἀπαλλαγῇς. ἀνθρώποις χρῶ τοῖς ἅπασιν ὡς κοινὸς ἀνθρώπων εὐεργέτης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "210b",
+      "text": "ὡς θέλεις χρήσασθαί σοι τοὺς πέλας, καὶ σὺ χρῶ αὐτοῖς. ἀνθρώποις κακῶς χρώμενος σεαυτῷ κακῶς χρήσῃ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "212",
+      "text": "οὐδένα κακῶς ποιήσει ὁ πιστός. εὔχου τοὺς ἐχθροὺς δύνασθαι εὐεργετεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "214",
+      "text": "φαύλοις φαίνεται ἄχρηστος σοφὸς ἀνήρ. οὐκ ἄνευ θεοῦ καλῶς ζήσεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "216",
+      "text": "ὑπὲρ τοῦ κατὰ θεὸν ζῆν πάντα ὑπόμενε. εὐχῆς οὐκ ἀκούει θεὸς τοῦ ἀνθρώπων δεομένων οὐκ ἀκούοντος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "218",
+      "text": "φιλόσοφος φιλοσόφῳ δῶρον παρὰ θεοῦ. τιμῶν φιλόσοφον τιμήσεις σεαυτόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "220",
+      "text": "πιστὸς ὢν ἴσθι. ὅταν υἱόν σε λέγῃ τις, μέμνησο τίνος σε λέγει υἱόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "222",
+      "text": "θεὸν πατέρα καλῶν ἐν οἷς πράττεις τούτου μέμνησο. τὰ ῥήματά σου [τὰ πιστὰ] πολλῆς εὐσεβείας μεστὰ ἔστω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "224",
+      "text": "ἐν οἷς πράττεις πρὸ ὀφθαλμῶν ἔχε τὸν θεόν. δεινόν ἐστιν θεὸν πατέρα ὁμολογοῦντα πρᾶξαί τι ἄσχημον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "226",
+      "text": "σοφὸν ὁ μὴ φιλῶν, οὐδὲ ἑαυτόν. μηθὲν ἴδιον κτῆμα νομιζέσθω φιλοσόφῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "228",
+      "text": "ὧν κοινὸς ὁ θεὸς καὶ ταῦτα ὡς πατήρ, τούτων μὴ κοινὰ εἶναι τὰ κτήματα οὐκ εὐσεβές. ἀχαριστεῖ θεῷ ὁ μὴ περὶ πολλοῦ ποιούμενος φιλόσοφον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "230a",
+      "text": "γάμον γὰρ δίδωσίν σοι παραιτεῖσθαι ἵνα ζήσῃς ὡς πάρεδρος θεῷ. γάμει καὶ παιδοποιοῦ χαλεπὸν εἰδὼς ἑκάτερον· εἰ δὲ καθάπερ εἰδὼς πόλεμον ὅτι χαλεπὸν ἀνδρίζοιο, καὶ γάμει καὶ παιδοποιοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "231",
+      "text": "μοιχὸς τῆς ἑαυτοῦ γυναικὸς πᾶς ὁ ἀκόλαστος. μηδὲν ἕνεκα ψιλῆς ἡδονῆς ποίει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "233",
+      "text": "ἴσθι μοιχὸς εἶναι κἂν νοήσῃς μοιχεῦσαι· καὶ περὶ παντὸς ἁμαρτήματος ὁ αὐτὸς ἔστω σοι λόγος. πιστὸν εἰπὼν σεαυτὸν ὡμολόγησας μηδὲ ἁμαρτεῖν θεῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "235",
+      "text": "πιστῇ γυναικὶ κόσμος σωφροσύνη νομιζέσθω. ἀνὴρ γυναῖκα ἀποπέμπων ὁμολογεῖ μηδὲ γυναικὸς ἄρχειν δύνασθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "237",
+      "text": "γυνὴ σώφρων ἀνδρὸς εὔκλεια. αἰδούμενος γαμετὴν αἰδουμένην ἕξεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "239",
+      "text": "ὁ τῶν πιστῶν γάμος ἀγὼν ἔστω περὶ ἐγκρατείας. ὡς ἂν γαστρὸς ἄρξῃς, καὶ ἀφροδισίων ἄρξεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "241",
+      "text": "φυλάττου τὸν παρὰ τῶν ἀπίστων ἔπαινον. ἃ προῖκα λαμβάνεις παρὰ θεοῦ, καὶ δίδου προῖκα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "243",
+      "text": "πλῆθος πιστῶν οὐκ ἂν ἐξεύροις· σπάνιον γὰρ τὸ ἀγαθόν. σοφὸν τίμα μετὰ θεόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "245",
+      "text": "ἐλεγχόμενος ἵνα γένῃ σοφὸς χάριν ἴσθι τοῖς ἐλέγχουσιν. ὁ τὸν σοφὸν οὐ δυνάμενος φέρειν τὸ ἀγαθὸν οὐ δύναται φέρειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "247",
+      "text": "πιστὸς εἶναι θέλων μάλιστα μὲν μὴ ἁμάρτῃς, εἰ δέ τι, μὴ δισσῶς τὸ αὐτό. ὃ μή ἐστι μάθημα θεοῦ ἄξιον, μὴ μάθῃς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "249",
+      "text": "πολυμαθία περιεργία ψυχῆς νομιζέσθω. ὁ τὰ τοῦ θεοῦ ἀξίως εἰδὼς σοφὸς ἀνήρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "251",
+      "text": "χωρὶς μαθήματος οὐκ ἔσῃ θεοφιλής· ἐκείνου περιέχου ὡς ἀναγκαίου. φείδεται χρόνου σοφὸς ἀνήρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "253a",
+      "text": "παρρησίαν ἄγε μετὰ αἰδοῦς. ἔστιν σοφοῦ καὶ ὕπνος ἐγκράτεια.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "254",
+      "text": "ἀνιάτω σε μᾶλλον τέκνα κακῶς ζῶντα τοῦ μὴ ζῆν. τὸ γὰρ ζῆν μὲν οὐκ ἐφ’ ἡμῖν, καλῶς δὲ ζῆν καὶ ἐφ’ ἡμῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "256",
+      "text": "τέκνα μὴ πιστὰ οὐ τέκνα. πιστὸς ἀνὴρ εὐχαρίστως φέρει τέκνων ἀποβολήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "258",
+      "text": "μὴ κρίνῃς φιλόσοφον ᾧ μὴ πάντα πιστεύεις. διαβολὰς κατὰ φιλοσόφου μὴ παραδέχου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "260",
+      "text": "ἐπιτήδευε κοινὸς ἀνθρώποις εὐεργέτης εἶναι. ἀπευκτὸν ἡγοῦ καὶ τὸ δικαίως τινὰ κολάζειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "262",
+      "text": "μετ’ εὐθυμίας εἰ θέλεις ζῆν, μὴ πολλὰ πρᾶττε· πολυπραγμονῶν γὰρ κακοπραγμονῶν ἔσῃ. ὃ μὴ κατέθου, μηδ’ ἀνέλῃς, οὐ γὰρ κατὰ τὸν αὐτάρκη πολιτεύῃ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "264a",
+      "text": "ἀφεὶς ἃ κέκτησαι ἀκολούθει τῷ ὀρθῷ λόγῳ. ἐλεύθερος ἔσῃ ἀπὸ πάντων δουλεύων θεῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "265",
+      "text": "ἀπαλλάττου τροφῆς ἔτι θέλων. τροφῆς παντὶ κοινώνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "267",
+      "text": "ὑπὲρ τοῦ πτωχὸν τραφῆναι καὶ νηστεῦσαι καλόν. ποτόν σοι πᾶν ἡδὺ ἔστω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "269",
+      "text": "μέθην δὲ ὁμοίως μανίᾳ φυλάττου. ἄνθρωπος γαστρὸς ἡττώμενος ὅμοιος θηρίῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "271",
+      "text": "οὐδὲν φύεται ἐκ σαρκὸς ἀγαθόν. αἰσχρᾶς ἡδονῆς τὸ μὲν ἡδὺ ταχέως ἄπεισιν, τὸ δὲ ὄνειδος παραμένει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "273",
+      "text": "ἀνθρώπους ἴδοις ἂν ὑπὲρ τοῦ τὸ λοιπὸν τοῦ σώματος ἔχειν ἐρρωμένον ἀποκόπτοντας ἑαυτῶν καὶ ῥίπτοντας μέλη· πόσῳ βέλτιον ὑπὲρ τοῦ σωφρονεῖν; μεγάλην νόμιζε παιδείαν τὸ ἄρχειν σώματος· οὐ γὰρ παύσει ἐπιθυμίαν κτημάτων ἡ χρημάτων κτῆσις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "275",
+      "text": "φιλόσοφον οὐδέν ἐστιν ὃ τῆς ἐλευθερίας ἀφαιρεῖται. ἡδονὰς ἡγοῦ τὰς ἀναγκαίας ὡς ἀναγκαίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "277",
+      "text": "τὰ ἀγαθὰ μὲν ἔχειν πάντες εὔχονται, κτῶνται δὲ οἱ γνησίως τοῦ θείου λόγου μετέχοντες. φιλόσοφος ὢν σεμνὸς ἔσο μᾶλλον ἢ φιλοσκώπτης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "279",
+      "text": "σπάνιόν σου ἔστω σκῶμμα καὶ τὸ εὔκαιρον. ἄμετρος γέλως σημεῖον ἀπροσεξίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "280b",
+      "text": "σεαυτῷ διαχεῖσθαι πέρα τοῦ μειδιᾶν μὴ ἐπιτρέψῃς. σπουδῇ πλείονι ἢ διαχύσει χρῶ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "282",
+      "text": "ἀγὼν ὁ βίος ἔστω σοι περὶ τοῦ σεμνοῦ. ἄριστον μὲν τὸ μὴ ἁμαρτεῖν, ἁμαρτάνοντα δὲ γινώσκειν ἄμεινον ἢ ἀγνοεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "284",
+      "text": "ἀλαζὼν φιλόσοφος οὐκ ἔστιν. μεγάλην σοφίαν νόμιζε δι’ ἧς δυνήσῃ φέρειν ἀγνοούντων ἀπαιδευσίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "286",
+      "text": "αἰσχρὸν ἡγοῦ λόγον ἔχων διὰ στόμα ἐπαινεῖσθαι. σοφῶν ψυχαὶ ἀκόρεστοι θεοσεβείας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "288",
+      "text": "ἀρχόμενος ἀπὸ θεοῦ πρᾶττε ὃ ἂν πράττῃς. συνεχέστερον νόει τὸν θεὸν ἢ ἀνάπνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "290",
+      "text": "ἃ μαθόντα δεῖ ποιεῖν, ἄνευ τοῦ μαθεῖν μὴ ἐπιχείρει. σαρκὸς μὴ ἔρα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "292",
+      "text": "ψυχῆς ἀγαθῆς ἔρα μετὰ θεόν. οἰκείων ὀργὰς δύνασθαι φέρειν κατὰ φιλόσοφον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "294",
+      "text": "πιστοῦ πλοῦτος ἐγκράτεια. ὅπερ μεταδιδοὺς ἄλλοις αὐτὸς οὐχ ἕξεις, μὴ κρίνῃς ἀγαθὸν εἶναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "296",
+      "text": "οὐδὲν ἀκοινώνητον ἀγαθόν. μὴ νόμιζε μικρότερον ἁμάρτημα ἄλλο ἄλλου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "297b",
+      "text": "[πᾶν ἁμάρτημα ἀσέβημα ἡγοῦ.] ὡς ἐπὶ τοῖς κατορθώμασιν τιμᾶσθαι θέλεις, καὶ ἐπὶ τοῖς ἁμαρτήμασιν ψεγόμενος ἀνέχου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "299",
+      "text": "ὧν τῶν ἐπαίνων καταφρονεῖς, καὶ τῶν ψόγων ὑπερόρα. θησαυρὸν κατατίθεσθαι μὲν οὐ φιλάνθρωπον, ἀναιρεῖσθαι δὲ οὐ κατὰ φιλόσοφον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "301",
+      "text": "ὅσα πονεῖς διὰ τὸ σῶμα, καὶ διὰ τὴν ψυχὴν πονέσας σοφὸς ἂν εἴης. σοφὸν οὐδέν ἐστιν ὃ βλάπτει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "303",
+      "text": "ὧν ἂν πράττῃς θεὸν ἐπικαλοῦ μάρτυρα. ὁ θεὸς ἀνθρώπων βεβαιοῖ καλὰς πράξεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "305",
+      "text": "κακῶν πράξεων κακὸς δαίμων ἡγεμών ἐστιν. οὐκ ἀναγκάσεις σοφὸν πρᾶξαι ὃ μὴ βούλεται μᾶλλον ἤπερ θεόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "307",
+      "text": "σοφὸς ἀνὴρ θεὸν ἀνθρώποις συνιστᾷ. ὁ θεὸς τῶν ἰδίων ἔργων μέγιστον φρονεῖ ἐπὶ σοφῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "309",
+      "text": "οὐδὲν οὕτως ἐλεύθερον μετὰ θεὸν ὡς σοφὸς ἀνήρ. ὅσα θεοῦ κτήματα, καὶ σοφοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "311",
+      "text": "κοινωνεῖ βασιλείας θεοῦ σοφὸς ἀνήρ. κακὸς ἀνὴρ πρόνοιαν θεοῦ εἶναι οὐ θέλει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "313",
+      "text": "ψυχὴ κακὴ θεὸν φεύγει. πᾶν τὸ φαῦλον θεῷ πολέμιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "315",
+      "text": "τὸ ἐν σοὶ φρονοῦν τοῦτο νόμιζε εἶναι ἄνθρωπον. ὅπου σου τὸ φρονοῦν, ἐκεῖ σου τὸ ἀγαθόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "317",
+      "text": "ἀγαθὸν ἐν σαρκὶ μὴ ἐπιζήτει. ὃ μὴ βλάπτει ψυχήν, οὐδὲ ἄνθρωπον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "319",
+      "text": "φιλόσοφον ἄνθρωπον ὡς ὑπηρέτην θεοῦ τίμα μετὰ θεόν. τὸ σκήνωμα τῆς ψυχῆς σου βαρύνεσθαι μὲν ὑπερήφανον, ἀποθέσθαι δὲ πραέως ὁπότε χρὴ δύνασθαι μακάριον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "321",
+      "text": "θανάτου μὲν σαυτῷ παραίτιος μὴ γένῃ, τῷ δὲ ἀφαιρουμένῳ σε τοῦ σώματος μὴ ἀγανάκτει. σοφὸν ὁ τοῦ σώματος ἀφαιρούμενος τῇ ἑαυτοῦ κακίᾳ εὐεργετεῖ, λύεται γὰρ ὡς ἐκ δεσμῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "323",
+      "text": "ἄνθρωπον θανάτου φόβος λυπεῖ ἀπειρίᾳ ψυχῆς. σίδηρον ἀνδροφόνον ἄριστον μὲν ἦν μὴ γενέσθαι, γενόμενον δὲ σοὶ μὴ νόμιζε εἶναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "325",
+      "text": "οὐδεμία προσποίησις ἐπὶ πολὺν χρόνον λανθάνει, μάλιστα δὲ ἐν πίστει. οἷον ἂν ᾖ σου τὸ ἦθος, τοιοῦτος ἔσται σου καὶ ὁ βίος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "326b",
+      "text": "ἦθος θεοσεβὲς ποιεῖ βίον μακάριον. ὁ βουλευόμενος κατ’ ἄλλου κακῶς, φθάνει κακῶς πάσχων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "328",
+      "text": "μή σε παύσῃ τοῦ εὐεργετεῖν ἀχάριστος ἄνθρωπος. μηθὲν ὧν παραχρῆμα αἰτούμενος δῷς, πλείονος ἄξιον κρίνῃς τοῦ λαμβάνοντος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "330",
+      "text": "κάλλιστα οὐσίᾳ χρήσῃ τοῖς δεομένοις προθύμως μεταδιδούς. ἀδελφὸν ἀγνωμονοῦντα πεῖθε μὴ ἀγνωμονεῖν καὶ ἀνιάτως ἔχοντα συντήρει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "332",
+      "text": "εὐγνωμοσύνῃ πάντας ἀνθρώπους νικᾶν ἀγωνίζου. νοῦν οὐ πρότερον ἕξεις πρὶν ἢ γνῷς οὐκ ἔχων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "334",
+      "text": "αὐτάρκειαν ἄσκει. τὰ μέλη τοῦ σώματος τοῖς οὐ χρωμένοις φορτία.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "336",
+      "text": "ὑπηρετεῖν κρεῖττον ἑτέροις ἢ πρὸς ἄλλων ὑπηρετεῖσθαι. ὃν οὐκ ἀπαλλάττει ὁ θεὸς τοῦ σώματος μὴ βαρυνέσθω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "338",
+      "text": "δόγμα ἀκοινώνητον οὐ μόνον ἔχειν ἀλλὰ καὶ ἀκούειν χαλεπὸν ἡγοῦ. ὁ διδοὺς ὁτιοῦν μετ’ ὀνείδους ὑβρίζει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "340",
+      "text": "κηδόμενος ὀρφανῶν πατὴρ ἔσῃ πλειόνων τέκνων θεοφιλής. ᾧ ἂν ὑπουργήσῃς ἕνεκα δόξης, μισθοῦ ὑπούργησας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "342",
+      "text": "ἐάν τι δῷς ἐπὶ τὸ αὐτὸ γνωσθῆναι, οὐκ ἀνθρώπῳ δέδωκας, ἰδίᾳ δὲ ἡδονῇ. ὀργὴν πλήθους μὴ παρόξυνε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "344",
+      "text": "μάθε τοίνυν τί δεῖ ποιεῖν τὸν εὐδαιμονήσοντα. κρεῖττον ἀποθανεῖν λιμῷ ἢ διὰ γαστρὸς ἀκρασίαν ψυχὴν ἀμαυρῶσαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "346",
+      "text": "ἐκμαγεῖον τὸ σῶμά σου νόμιζε τῆς ψυχῆς· καθαρὸν οὖν τήρει. ὁποῖα δ’ ἂν ἐπιτηδεύσῃ ψυχὴ ἐνοικοῦσα τῷ σώματι, τοιαῦτα μαρτύρια ἔχουσα ἄπεισιν ἐπὶ τὴν κρίσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "348",
+      "text": "ἀκαθάρτου ψυχῆς ἀκάθαρτοι δαίμονες ἀντιποιοῦνται. πιστὴν ψυχὴν καὶ ἀγαθὴν ἐν ὁδῷ θεοῦ κακοὶ δαίμονες οὐκ ἐμποδίζουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "350",
+      "text": "λόγου περὶ θεοῦ μὴ παντὶ κοινώνει. οὐκ ἀσφαλὲς ἀκούειν περὶ θεοῦ τοῖς ὑπὸ δόξης διεφθαρμένοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "352",
+      "text": "περὶ θεοῦ καὶ τἀληθῆ λέγειν κίνδυνος οὐ μικρός. περὶ θεοῦ μηδὲν εἴπῃς μὴ μαθὼν παρὰ θεοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "354",
+      "text": "ἀθέῳ δὲ περὶ θεοῦ μηδὲν εἴπῃς. περὶ θεοῦ λόγον ἀληθῆ ὡς θεὸν τίμα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "356",
+      "text": "μὴ καθαρεύων ἀνοσίων ἔργων μὴ φθέγξῃ περὶ θεοῦ λόγον. λόγος ἀληθὴς περὶ θεοῦ λόγος ἐστὶν θεοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "358",
+      "text": "πεισθεὶς πρότερον θεοφιλὴς εἶναι πρὸς οὓς ἂν πεισθῇς λέγε περὶ θεοῦ. τὰ ἔργα σου θεοφιλῆ προηγείσθω παντὸς λόγου περὶ θεοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "360",
+      "text": "ἐπὶ πλήθους λέγειν περὶ θεοῦ μὴ ἐπιτήδευε. λόγου περὶ θεοῦ φείδου μᾶλλον ἢ ψυχῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "362",
+      "text": "ψυχὴν αἱρετώτερον ἢ λόγον εἰκῆ προέσθαι περὶ θεοῦ. θεοφιλοῦς ἀνδρὸς σώματος μὲν ἄρξεις, λόγου δὲ οὐ κυριεύσεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "363b",
+      "text": "σοφοῦ σώματος καὶ λέων ἄρχει, τούτου δὴ μόνου καὶ τύραννος. ὑπὸ τυράννου γινομένης ἀπειλῆς τίνος εἶ τότε μάλιστα μέμνησο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "365",
+      "text": "λόγον οἶς οὐ θέμις ὁ λέγων περὶ θεοῦ προδότης θεοῦ νομιζέσθω. λόγον περὶ θεοῦ σιγᾶν ἄμεινον ἢ προπετῶς διαλέγεσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "367",
+      "text": "ὁ λέγων ψευδῆ περὶ θεοῦ καταψεύδεται θεοῦ. ἄνθρωπος μηδὲν ἔχων λέγειν περὶ θεοῦ ἀληθὲς ἔρημός ἐστιν θεοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "369",
+      "text": "θεὸν οὐκ ἔστιν γινώσκειν μὴ σεβόμενον. οὐκ ἔστιν ὅπως ἀδικῶν τις ἄνθρωπον σέβοι τὸν θεόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "371",
+      "text": "κρηπὶς θεοσεβείας φιλανθρωπία. ὁ προνοῶν ἀνθρώπων εὐχόμενός τε ὑπὲρ πάντων οὗτος ἀληθείᾳ θεοῦ νομιζέσθω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "373",
+      "text": "θεοῦ μὲν ἴδιον τὸ σώζειν οὓς ἂν προαιρῆται. εὐσεβοῦς δὲ τὸ εὔχεσθαι θεῷ σώζειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "375",
+      "text": "ὁπόταν εὐξαμένῳ σοι γένηται ὑπὸ τοῦ θεοῦ, τότε ἐξουσίαν ἔχειν ἡγοῦ παρὰ θεῷ. ἄξιος ἄνθρωπος θεοῦ θεὸς ἐν ἀνθρώποις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "376b",
+      "text": "θεὸς καὶ υἱὸς θεοῦ τὸ μὲν ἄριστον, τὸ δὲ ἐγγυτάτω τοῦ ἀρίστου. ἀκτήμονα κρεῖττον ἢ ἀκοινώνητον εἶναι πολυκτήμονα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "378",
+      "text": "μὴ διδοὺς δεομένοις δυνατὸς ὢν οὐ λήψῃ δεόμενος παρὰ θεοῦ. τροφῆς δεομένῳ μεταδιδόντος ἐξ ὅλης ψυχῆς δόμα μέν τι βραχύ, προθυμία δὲ μεγάλη παρὰ θεῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "380",
+      "text": "θεὸν οὐ νομίζοντος ὁ νομίζων καὶ οὐδὲν εἶναι πρὸς αὐτὸν ἡγούμενος οὐχ ἧττον ἄθεος. τιμᾷ θεὸν ἄριστα ὁ τὴν ἑαυτοῦ διάνοιαν ἐξομοιώσας θεῷ εἰς δύναμιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "382",
+      "text": "θεὸς δεῖται μὲν οὐδαμῇ οὐδενός, χαίρει δὲ τοῖς μεταδιδοῦσι τοῖς δεομένοις. πιστῶν ὀλίγοι μὲν ἔστωσαν οἱ λόγοι, ἔργα δὲ πολλά.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "384",
+      "text": "πιστὸς φιλομαθὴς ἐργάτης ἀληθείας. ἁρμόζου πρὸς τὰς περιστάσεις ἵνα εὐθυμῇς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "386",
+      "text": "μηδένα ἀδικῶν οὐδένα φοβηθήσῃ. τύραννος εὐδαιμονίαν οὐκ ἀφαιρεῖται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "388",
+      "text": "ὃ δεῖ ποιεῖν, ἑκὼν ποίει. ὃ μὴ δεῖ ποιεῖν, μηδενὶ τρόπῳ ποίει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "389b",
+      "text": "πάντα μᾶλλον ἢ τὸ σοφὸς εἶναι ὑπισχνοῦ. οὗ καλῶς πράττεις τὴν αἰτίαν ἀνάφερε εἰς θεόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "391",
+      "text": "οὐδεὶς σοφὸς ἀνὴρ κάτω που βλέπων εἰς γῆν καὶ τραπέζας. τὸν φιλόσοφον οὐ τὸν χρηματισμὸν ἐλευθεροῦν δεῖ, ἀλλὰ τὴν ψυχήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "393",
+      "text": "ψεύδεσθαι φυλάττου· ἔστιν γὰρ ἀπατᾶν καὶ ἀπατᾶσθαι. τίς θεὸς γνῶθι· μάθε τὸ νοοῦν ἐν σοί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "395",
+      "text": "θεοῦ καλὸν ἔργον ἀγαθὸς ἄνθρωπος. ἄθλιοι δι’ οὓς ὁ λόγος ἀκούει κακῶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "397",
+      "text": "ψυχὴν θάνατος οὐκ ἀπόλλυσιν ἀλλὰ κακὸς βίος. πρὸς ὃ γέγονας εἰδὼς γνώσῃ σαυτόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "399",
+      "text": "οὐκ ἔστιν κατὰ θεὸν ζῆν ἄνευ τοῦ σωφρόνως καὶ καλῶς καὶ δικαίως πράττειν. ἀνθρώπων ἀπίστων βίος ὄνειδος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "401",
+      "text": "μήποτε λάθῃς σαυτὸν ἀγενεῖ φύσει μεταδιδοὺς λόγου θεοῦ. ψυχὴν ἀπὸ γῆς πίστις ἀνάγει παρὰ θεόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "403",
+      "text": "σοφοῦ ψυχῆς μέγεθος οὐκ ἂν ἐξεύροις μᾶλλον ἤπερ καὶ θεοῦ. ὅσα δίδωσιν ὁ θεὸς οὐδεὶς ἀφαιρεῖται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "405",
+      "text": "ὃ παρέχει κόσμος βεβαίως οὐ τηρεῖ. θεία σοφία ἡ τοῦ θεοῦ γνῶσις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "407",
+      "text": "ἀκαθάρτῳ ψυχῇ μὴ τόλμα λέγειν περὶ θεοῦ. ἀνδρὸς πεῖραν πρότερον ἔργων ἢ λόγων ποίει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "409",
+      "text": "τὰ ὦτά σου μὴ παντὶ πίστευε. οἴεσθαι μὲν περὶ θεοῦ εὐμαρές, λέγειν δὲ ἀληθὲς μόνῳ τῷ δικαίῳ συγκεχώρηται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "411",
+      "text": "μὴ βασανίσῃς σου τῇ ψυχῇ τὸ σῶμα μηδὲ τὴν ψυχήν σου βασανίσῃς ταῖς τοῦ σώματος ἡδοναῖς. ἔθιζε σεαυτὸν τῷ μὲν σώματι παρέχειν τὰ τοῦ σώματος σωφρόνως, τῇ δὲ ψυχῇ θεοσεβῶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "413",
+      "text": "τρέφε σου τὴν μὲν ψυχὴν λόγῳ θείῳ, τὸ δὲ σῶμα σιτίοις λιτοῖς. χαίρειν ἔθιζέ σου τὴν ψυχὴν ἐφ’ οἷς καλὸν χαίρειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "415a",
+      "text": "ψυχὴ χαίρουσα ἐπὶ μικροῖς ἄτιμος παρὰ θεῷ. σοφοῦ ψυχὴ ἀκούει θεοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "416",
+      "text": "σοφοῦ ψυχὴ ἁρμόζεται πρὸς θεὸν ὑπὸ θεοῦ. σοφοῦ ψυχὴ ἀεὶ θεὸν ὁρᾷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "418",
+      "text": "ψυχὴ σοφοῦ σύνεστιν ἀεὶ θεῷ. καρδία θεοφιλοῦς ἐν χειρὶ θεοῦ ἵδρυται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "420",
+      "text": "ψυχῆς ἄνοδος πρὸς θεὸν διὰ λόγου θεοῦ. σοφὸς ἕπεται θεῷ καὶ ὁ θεὸς ψυχῇ σοφοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "422",
+      "text": "χαίρει τῷ ἀρχομένῳ τὸ ἄρχον, καὶ ὁ θεὸς οὖν σοφῷ χαίρει. ἀχώριστόν ἐστιν τοῦ ἀρχομένου τὸ ἄρχον, καὶ θεὸς οὖν τοῦ σοφοῦ προνοεῖ καὶ κήδεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "424",
+      "text": "ἐπιτροπεύεται σοφὸς ἀνὴρ ὑπὸ θεοῦ, διὰ τοῦτο καὶ μακάριος. ψυχὴ σοφοῦ δοκιμάζεται διὰ σώματος ὑπὸ θεοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "426",
+      "text": "οὐχ ἡ γλῶττα τοῦ σοφοῦ τιμία παρὰ θεῷ, ἀλλ’ ἡ φρόνησις. σοφὸς ἀνὴρ καὶ σιγῶν τὸν θεὸν τιμᾷ [εἰδὼς διὰ τίνα σιγᾷ].",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "428",
+      "text": "γαστρὸς καὶ τῶν ὑπὸ γαστέρα [ὁ] μὴ κρατῶν οὐδεὶς πιστός. ἄνθρωπος ἀκρατὴς μιαίνει τὸν θεόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "430",
+      "text": "ἄνθρωπον θεοῦ γνῶσις βραχύλογον ποιεῖ. πολλοὺς λόγους περὶ θεοῦ ἀπειρία ποιεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "432",
+      "text": "θεὸν ἄνθρωπος εἰδὼς οὐ πολλὰ κομπάζει. ἐκλεκτὸς ἄνθρωπος ποιεῖ μὲν πάντα κατὰ θεόν, εἶναι δὲ οὐχ ὑπισχνεῖται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "434",
+      "text": "*************** ἄνθρωπος δὶς ἐμπιπλώμενος τροφῇ καὶ μηδέποτε μόνος κοιμώμενος νύκτωρ συνουσίας οὐ φεύγει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "436a",
+      "text": "εἱμαρμένη πιστὸν οὐ ποιεῖ. εἱμαρμένη θεοῦ χάριτος οὐκ ἄρχει· εἰ δὲ μή, καὶ θεοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "437",
+      "text": "*************** πιστὸς ἀνὴρ τρέφεται ἐγκρατείᾳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "439",
+      "text": "γνῶθι ῥήματα καὶ κτίσματα θεοῦ καὶ τίμα κατ’ ἀξίαν τὸν θεόν. *************** ψυχὴ πιστὴ ἁγνὴ καὶ σοφὴ καὶ προφῆτις ἀληθείας θεοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "442",
+      "text": "οὐκ ἀγαπήσεις κύριον τὸν θεὸν οὐκ ἔχων ἐν ἑαυτῷ οἷον ὁ θεὸς θέλει. φίλον ἡγοῦ τὸ ὅμοιον τῷ ὁμοίῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "444",
+      "text": "οὐκ ἀγαπῶν τὸν θεὸν οὐκ ἔσῃ παρὰ θεῷ. ἔθιζε σεαυτὸν ἀεὶ ἀφορᾶν πρὸς τὸν θεόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "446",
+      "text": "ὁρῶν τὸν θεὸν ὄψῃ σεαυτόν. ὁρῶν τὸν θεὸν ποιήσεις τὸ ἐν σοὶ φρονοῦν ὁποῖον ὁ θεός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "448",
+      "text": "σέβου τὸ ἐν σοὶ καὶ ταῖς τοῦ σώματος ἐπιθυμίαις μὴ καθυβρίσῃς. ἀσπίλωτόν σου τὸ σῶμα τήρει ὡς ἔνδυμα τῆς ψυχῆς παρὰ θεοῦ, ὡς καὶ τὸν χιτῶνά σου τηρεῖς ἀσπίλωτον ἔνδυμα ὄντα τῆς σαρκός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "450",
+      "text": "σοφοῦ διάνοια θεοῦ ἔνοπτρον. ἀκολάστῳ ψυχῇ μὴ τόλμα λέγειν περὶ θεοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "452",
+      "text": "Ἀγωνιζόμενος ὑπὲρ οὗ ἀδίκως ἔπραξας δὶς ἀδικήσεις. ἄρχων μὲν ἐπιτήδευε πραῢς εἶναι, ἀρχόμενος δὲ μεγαλόφρων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "454",
+      "text": "βασιλεῖ συμβούλευε τὰ συμφέροντα τῇ ἀρχῇ. βασιλεῖ μὴ ἐπιχείρει συγγίνεσθαι μὴ δυνάμενος δυσωπεῖν βασιλέα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "456",
+      "text": "βασιλεῖ καλῶς χρώμενος ἄρξεις βασιλέως. βασιλέα φρόνησις οὐ διάδημα ποιεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "458",
+      "text": "νοῦς ἐστι τὸ ἄρχον. ὁ βασιλεύων ἀνθρώπων καλῶς βασιλεύεται ὑπὸ θεοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "460",
+      "text": "βασιλεῖ πιστὸς ὢν βασιλεὺς ἔσῃ. κυνικοῦ ἀνδρὸς ἄσκησις μὲν ἀγαθή, βίος δὲ οὐ προηγούμενος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "462",
+      "text": "κυνικοῦ μὴ τὸ σχῆμα ἀποδέχου ἀλλὰ τὴν μεγαλοψυχίαν ζήλου. κυνικὸς ἀληθὴς βασιλεὺς ἀνεπίφθονος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "464",
+      "text": "κυνικὸς ἀληθὴς τὸν κόσμον οἶκον ἡγεῖται. ᾧ ἂν ἕλῃ βίῳ πρᾶττε τὰ ἀκόλουθα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "466",
+      "text": "πρὸς τὴν ἄκραν εὐδαιμονίαν αὐτάρκης ἀρετή. πλούσιον μόνον νόμιζε τὸν σοφόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "468",
+      "text": "ὧν ἀρετὴ αἰτία, τούτων οὐδενὶ φαῦλον πρόσεστιν. ὧν κακία αἰτία, τούτων καθαρεύσει σοφὸς ἀνήρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "470",
+      "text": "τὰ καλὰ ποιεῖν μὲν καλόν, ὑπισχνεῖσθαι δὲ αὔθαδες. ἃ δεῖ πράττειν ἐν περιστάσει, μὴ πράξῃς προηγουμένως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "472",
+      "text": "ὑπὲρ ὧν θέλεις ζῆν, ὑπὲρ τούτων καὶ ἀπόθανε. οὐχ ὁ θάνατος κακόν, ἀλλὰ τὸ μὴ δύνασθαι γενναίως ἀποθανεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "474",
+      "text": "μηδὲν τῶν μεταξὺ ἀρετῆς καὶ κακίας ἀγαθὸν ἡγοῦ. οὐδὲν κακόν, ὃ μὴ αἰσχρόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "476",
+      "text": "ὀργὴ λογισμὸν ἐκπλήττει. ὁ φθονῶν ἑαυτὸν ζημιοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "478",
+      "text": "ἀνθρώποις χρῶ ὡς κοινωνοῖς καὶ πολίταις θεοῦ. μᾶλλον τοῖς μὴ δυναμένοις σε ἀμείβεσθαι χαρίζου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "480",
+      "text": "οὐδεὶς ἂν γένοιτο εὔλογος, ὅπου λογισμὸς τοῦ ποιῆσαι αἰσχρόν. ἀρχὴ πατρίδος ἐπιμελείας ἀρίστη ἡ ἑαυτοῦ ἐπιμέλεια.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "482",
+      "text": "μεγάλως εὐεργετεῖ πατρίδα ὁ σπουδάσας ἀγαθὸς εἶναι πολίτης. ἀναθημάτων ἄριστον ἐν πόλει πολιτῶν ἀνδραγαθία.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "484",
+      "text": "πατρίδος εὐεργέτης ἀνὴρ σοφός. οὐ σῴζεται μέρος ἄνευ τοῦ ὅλου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "486",
+      "text": "ἄριστα τιμᾷ γονεῖς ὁ μάλιστα γονέων ἐπιμελούμενος. εὐχάριστος γονεῦσιν ἄνθρωπος θεοφιλής.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "488",
+      "text": "θεραπεύει θεὸν ὁ θεραπεύων γονεῖς. οὐκ ἔστιν εὐσεβέστερον ἀνάλωμα τοῦ εἰς γονεῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "490",
+      "text": "ὁποίους ἂν ἀξιοῖς σοι παῖδας εἶναι, τοιοῦτος ἔσο τοῖς γονεῦσι. ἀχάριστος γονεῦσιν ἄνθρωπος ἀσεβής.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "492",
+      "text": "εὐχῆς οὐκ ἀκούει θεὸς γονέων οὐκ ἀκούοντος. γονέων ὀργὰς φέρειν εὐσεβές.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "494",
+      "text": "γονέων πείθου μὲν μᾶλλον τῷ πατρί, θεράπευε δὲ τὴν μητέρα. γονεῦσιν ἀποπιμπλᾶσι τὸν θυμὸν καλὸν ὑπείκειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "496",
+      "text": "ἀναγκαιότατον τὸ φιλάδελφον ἡγοῦ. αἱ μὲν ἄλλαι φιλίαι φθονοῦνται, ἀδελφὸς δὲ ἀδελφὸν εὐθύνεται μὴ φιλῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "498",
+      "text": "καλὸν ἀδελφῷ καὶ ζωῆς καὶ θανάτου ἰσομοιρεῖν. οὐδὲν οἰκειότερον σωφροσύνης γάμῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "500",
+      "text": "ὅρα τὴν γυναῖκα ὡς μέρος σεαυτοῦ. αἰδούμενος τὴν γαμετὴν σῴζεις [ἀνήρ].",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "502",
+      "text": "ἀνὴρ καὶ γυνὴ ἑνὸς ζῴου τελείου μέρη. τιμάτω μὲν ὁ ἀνὴρ τὴν γυναῖκα ὡς προστάτιν, ἡ γυνὴ δὲ τὸν ἄνδρα ὡς κηδεμόνα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "504",
+      "text": "μηδὲν κτῆμα ἔστω τοῦ ἀνδρός, ὃ μὴ καὶ τῆς γυναικός ἐστιν. ἁμαρτήματα γυναικῶν ἀνδρῶν ἀπαιδευσίαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "506",
+      "text": "ἀνὴρ ἀρχέτω γυναικός, ἀλλὰ μὴ τυραννείτω. ἀνδρὸς ἀκρασία γυναῖκα ἀπόλλυσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "508",
+      "text": "γυναικὸς ἄρχειν ἱκανὸς ὁ σώφρων ἀνήρ. οἱ δι’ ἡδονὴν παιδοποιούμενοι ὑβρίζουσι τὰς παιδοποιΐας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "510",
+      "text": "λαγνεία κόρου περίσσευμα. προὶξ πολλὴ τέκνα βελτίονα οὐ ποιεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "512",
+      "text": "χαλεπώτερον πλουσιωτέρας ἄρξεις. γυνὴ φιλόκοσμος οὐ πιστή.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "514",
+      "text": "γυνὴ τὸν ἑαυτῆς ἄνδρα νόμον ἡγείσθω τοῦ βίου. ὁ ἀνὴρ τὴν ἑαυτοῦ γυναῖκα πείθεσθαι αὑτῷ ποιείτω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "516",
+      "text": "ὁ ἐπιγαμῶν τέκνοις μὴ εὐδοκιμείτω. ὅταν ἀρκῇ τέκνοις, ἀρκοῦ καὶ ἀφροδισίοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "518",
+      "text": "ὠμότατος τεκνοκτόνος ὁ τὰ μηδὲν ἠδικηκότα τέκνα ἀναιρῶν. τοῦς παῖδας τρέφε ὡς ὑπηρέτας θεοῦ ἐσομένους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "520",
+      "text": "εὔχου σοι μὴ γίνεσθαι τέκνα ἢ κακὰ γίνεσθαι. ὁποία ἂν ᾖ σου ἡ γυνή, τοιοῦτος ἔσται σου καὶ ὁ οἶκος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "522",
+      "text": "οὐ σεαυτῷ μόνῳ τέκνα γεννήσας μέμνησο ὅτι θνητὰ γεννᾷς. μὴ δυνάμενος φέρειν τέκνων ἀποβολὴν μὴ παιδοποιοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "524",
+      "text": "φύσις μεγάλη ἐπιμελουμένη βελτίων γίνεται, ἀμελουμένη δὲ χείρων. μεγάλη φύσις μεγάλης δεῖται καὶ τῆς ἐπιμελείας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "526",
+      "text": "μεγάλη φύσις ἡ πρὸς ἀρετὴν εὖ πεφυκυῖα. ἡ ἐπ’ ἄκρον εὐφυΐα σφαλερά.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "528",
+      "text": "ὁ κακῶς εὐφυΐᾳ χρησάμενος ἀχάριστος τῇ φύσει νομιζέσθω. ἀσφαλὴς φύσις μεγάλων οὔτε ἀγαθῶν οὔτε κακῶν αἰτία.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "530",
+      "text": "χαλεπώτερον σοφιστοῦ εἰς τὸ διαφθεῖραι νέου ψυχὴν ὄχλος ἐπαινῶν. φυλάττου φαύλων ἐπαίνους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "532",
+      "text": "οὐδὲν ὤνιον μέγα ἀνάθημα. λόγος ὀρθὸς ὅμοιος θεῷ, διὰ τοῦτο καὶ ἄπρατος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "534",
+      "text": "ὁ τοῖς πολλοῖς πειρώμενος ἀρέσκειν πολλοῖς ὅμοιος. πλῆθος φιλοσόφων οὐκ ἂν ἐξεύροις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "536",
+      "text": "γονέων διδάσκαλοι μείζους εὐεργέται. ἐν παντὶ τοῦ δοκεῖν τὸ εἶναι λυσιτελέστερον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "538",
+      "text": "ὃν οὐκ οἶδας πῶς ποτ’ ἔχει παιδείας, τοῦτον μήποτε τολμήσῃς λέγειν εὐδαίμονα. οὐκ ἔστιν εὐγενῶς φιλοσοφεῖν πόνων μὴ καταφρονήσαντα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "540",
+      "text": "παίδευε σαυτόν, εἶτα τοὺς ἄλλους. ἀνεύθυνος ὢν μὴ ἐπιχείρει νέων ἄρχειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "542",
+      "text": "παιδευτικὸς ἀνὴρ οὗτος εὐεργέτης μετὰ θεόν. ἐλέγχων σεαυτὸν ὑπ’ ἄλλων οὐκ ἐλεγχθήσῃ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "544",
+      "text": "ἀνεξέταστος βίος οὐ βιωτὸς ἀνθρώπῳ. παιδευτικὸς θέλων εἶναι ἄσκει πραΰτητα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "546",
+      "text": "ὁ βίος σου τοῖς παιδευομένοις ὑπόθεσις τῶν λόγων σου ἔστω. τῶν δογμάτων σου τὰ ἔργα ἀπόδειξις ἔστω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "548",
+      "text": "πλεονέκτει τῶν ἀρχομένων ἐν ἅπασι τοῖς πόνοις. αἰσχρὸν προστάττειν ἃ μὴ ποιεῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "550",
+      "text": "σαυτοῦ μὴ κρατῶν ἄλλων μὴ θέλε κρατεῖν. κάλλιστον ἐφόδιον πρὸς ἀρχὴν τὸ ἄρχειν ἑαυτοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "552",
+      "text": "ἄρχε ἑκόντων. χαλεπώτερον εὐγενῶν νέων ἄρχειν ἢ λεόντων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "554",
+      "text": "ἐπιστάμενος ἄρχειν καὶ γυμνὸς ὢν ἄρξεις. ἐν παντὶ ἀρχικώτατος ὁ φρονιμώτατος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "556",
+      "text": "ἓν τὸ σοφώτατον ἐν τοῖς οὖσι καὶ ἄριστον· εἷς οὖν καὶ θεός. τὸ μοναρχοῦν δεύτερον εἶναι οὐ πέφυκε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "558",
+      "text": "μόνον αὐτῆς μονάδος ἐστὶν ὁ θεός. ὁ τοῦ θεοῦ νοῦς αὐτοκίνητος καὶ ἀεικίνητος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "560",
+      "text": "θεός ἐστιν οὐσία ἀΐδιος, μακάριος θεός, ἔστι τε πρὸ παντὸς χρόνου καὶ πάσης γενέσεως μακάριον. πηγὴ πάντων καλῶν ὁ θεός ἐστιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "562",
+      "text": "ὁ θεὸς καθὸ νοῦς ἐστιν αὐτοκίνητος, κατ’ αὐτὸ δὴ τοῦτο καὶ ὑφέστηκεν. ὁ τοῦ θεοῦ νοῦς ὁ πρὸ πάντων σοφός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "564",
+      "text": "τὸν αἵματος καὶ κνίσσης δεόμενον μὴ τόλμα λέγειν θεόν. θεοῦ γνώμῃ σῴζεται τὰ σύμπαντα, θεοῦ δυνάμει δυνατὰ πάντα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "566",
+      "text": "οὐσία θεοῦ δύναμις τῶν ὄντων τοῦ παθεῖν ἀνεπίδεκτος. ἀπειρία θεοῦ πλῆθος ἐποίησε θεῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "568",
+      "text": "βλὰξ ἄνθρωπος θεὸν ἀγνοῶν ξύλα καὶ λίθους τιμᾷ. ἀδικοῦντα μὲν λαθεῖν δυνατόν, πίστιν δὲ λαβεῖν ὑπὲρ τοῦ λαθεῖν ἀδύνατον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "570",
+      "text": "φυλάττου τὸν παρὰ τῶν ἀπίστων ἔπαινον. ἐπαινεθέντες πόσοι ἀπώλοντο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "572",
+      "text": "κρῖνε σεαυτὸν ὡς μηδὲν ἁμαρτεῖν καὶ οὐ μὴ κριθῇς. ἀγὼν ὁ βίος ἔστω σοι περὶ τοῦ σεμνοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "574",
+      "text": "οὐκ ἔστιν ἅμα δουλεύειν ἡδονῇ καὶ θεῷ. κατ’ ἀξίαν δουλεύων ἄρξεις τῶν τοῦ θεοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "576",
+      "text": "ὁποῖον ἂν ᾖ σου τὸ ἄρχον, τοιοῦτος ἔσῃ. γνῶθι θεόν, ἵνα γνῷς καὶ σαυτόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "578",
+      "text": "τιμὴ μεγίστη θεῷ θεοῦ γνῶσις ἐν σιγῇ. ὁμοίωσις θεοῦ παντὸς τοὐναντίου ἀποφυγή.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "580",
+      "text": "ἑαυτὸν αἰδοῦ μετὰ θεόν. εὐκαίρει τῷ θεῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "582",
+      "text": "δικαίου διανοίας θεὸς ἡγεμών ἐστιν. τιμῶν τὸν θεὸν τίμα ἃ καὶ ὁ θεός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "584",
+      "text": "εὐχῆς οὐκ ἀκούει θεὸς σπουδαίως δεομένων οὐκ ἀκούοντος. σεαυτῷ δεῖ πίστιν ἐπιφέρειν μετὰ θεὸν λόγον θεοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "586",
+      "text": "ὡς πρέπει λέγε περὶ θεοῦ. πιστὸς ἀνὴρ ἑνὶ λατρεύει τῷ ἐπὶ πᾶσι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "588",
+      "text": "γαστρὸς καὶ τῶν ὑπὸ γαστέρα μὴ κρατῶν οὐδὲ εἷς πιστός. σοφὸς ἀνὴρ καὶ σιγῶν θεὸν τιμᾷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "590",
+      "text": "καθαρὰν τὴν ψυχὴν ἔχων ἀνοσίων ἔργων λέγε περὶ θεοῦ καὶ ἄκουε. ψυχὴν ἀγαθὴν καὶ πιστὴν ἐν ἐννοίαις θεοῦ οὖσαν κακοὶ δαίμονες οὐκ ἐμποδίζουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "592",
+      "text": "φίλον ἡγοῦ τὸ ὅμοιον τῷ ὁμοίῳ. μόνον οἰκεῖον ἡγοῦ τὸ ἀγαθόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "594",
+      "text": "μηδὲν ἴδιον κτῆμα νομιζέσθω φιλοσόφου. ἄριστον μὲν τὸ μὴ ἁμαρτάνειν, ἁμαρτόντα δὲ ἄμεινον μηνύειν ἢ κρύπτειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "596",
+      "text": "νομιζέσθω σοι ἁμάρτημα εἶναι καὶ τὸ διανοηθῆναι ἁμαρτεῖν. πᾶν ὃ ἂν διανοηθῇς ὥστε ποιῆσαι, πεποίηκας αὐτὸ τῇ ψυχῇ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "598",
+      "text": "οὐκ ἐκφεύξῃ ἁμαρτίαν ἀναλώμασι. πολύθεος ἄνθρωπος ἄθεος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "600",
+      "text": "ὧν ἂν ἐπιθυμήσῃς, τούτων νόμιζε δοῦλος εἶναι. αἰσχρὸν νόμιζε τὸ διανοηθῆναι τὸ αἰσχρόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "602",
+      "text": "μὴ πλείονα κτῶ ὧν τὸ σῶμα ἐπιζητεῖ. οὐ γέγονας ἐντρυφήσων τῇ τοῦ κόσμου παρασκευῇ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "604",
+      "text": "ἄνθρωπος δουλεύων ἡδονῇ δουλεύει κακῷ δαίμονι. κακοὺς ἀνθρώπους μένει ὁπόσα οὐ προσδοκήσουσι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "606",
+      "text": "δικαιοσύνην ἔργῳ μᾶλλον ἢ λόγῳ ἄσκει. τὰ δίκαια ποίει καὶ πρὸς τοὺς ἀδικεῖν σε πειρωμένους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "608",
+      "text": "μηδένα ἀδικῶν οὐδένα φοβηθήσῃ. ὑπὸ τῶν πλησίον ἀνέχου ψευδόμενος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "610",
+      "text": "σπουδὴ πλειόνων ἐπιμεμφὴς γίνεται.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "pms-aa",
+      "title": {
+        "english": "Commentaries-Aristotle in Greek",
+        "ancient_greek": "Σχόλια εἰς τὰ Ἀριστοτέλους ἠθικὰ Νικομάχεια"
+      },
+      "url_slug": "aspasius-the-peripatetic-commentaries-aristotle-pms-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aspasius-the-peripatetic/commentaries-aristotle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aspasius-the-peripatetic-commentaries-aristotle-pms-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aspasius-the-peripatetic-commentaries-aristotle-pms-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aspasius-the-peripatetic-commentaries-aristotle-pms-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aspasius-the-peripatetic-commentaries-aristotle-pms-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aspasius-the-peripatetic/commentaries-aristotle.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-af",
+      "title": {
+        "english": "Deceteric or-Appropriate Speeches to the King",
+        "ancient_greek": "Δεκετηρικὸς ἢ περὶ τῶν πρεπόντων λόγων τῷ βασιλεῖ"
+      },
+      "url_slug": "themistius-deeteric-king-speeches-rye-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/deeteric-king-speeches",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-deeteric-king-speeches-rye-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-deeteric-king-speeches-rye-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-deeteric-king-speeches-rye-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-deeteric-king-speeches-rye-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/deeteric-king-speeches.epub"
+      }
+    },
+    {
+      "eul_wid": "bzo-ac",
+      "title": {
+        "english": "Heracles in the Underworld",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "critias-of-athens-heracles-underworld-bzo-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/critias-of-athens/heracles-underworld",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-heracles-underworld-bzo-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-heracles-underworld-bzo-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-heracles-underworld-bzo-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-heracles-underworld-bzo-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens/heracles-underworld.epub"
+      }
+    },
+    {
+      "eul_wid": "iwa-aa",
+      "title": {
+        "english": "Last Will and Testament of Lycon",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "lycon-of-alexandria-last-will-testament-iwa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lycon-of-alexandria/last-will-testament",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycon-of-alexandria-last-will-testament-iwa-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycon-of-alexandria-last-will-testament-iwa-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycon-of-alexandria-last-will-testament-iwa-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycon-of-alexandria-last-will-testament-iwa-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycon-of-alexandria/last-will-testament.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-eq",
+      "title": {
+        "english": "Lucullus",
+        "ancient_greek": "Λούκουλλος"
+      },
+      "url_slug": "plutarch-of-chaeronea-lucullus-okg-eq",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/lucullus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lucullus-okg-eq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lucullus-okg-eq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lucullus-okg-eq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lucullus-okg-eq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/lucullus.epub"
+      }
+    },
+    {
+      "eul_wid": "fdw-ab",
+      "title": {
+        "english": "On Prosody and Accent",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "heraclides-of-pontus-prosody-accent-fdw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/heraclides-of-pontus/prosody-accent",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-prosody-accent-fdw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-prosody-accent-fdw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-prosody-accent-fdw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-prosody-accent-fdw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus/prosody-accent.epub"
+      }
+    },
+    {
+      "eul_wid": "pyq-ab",
+      "title": {
+        "english": "On Rivers",
+        "ancient_greek": "Περὶ ποταμῶν"
+      },
+      "url_slug": "pseudo-plutarch-rivers-pyq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-plutarch/rivers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-rivers-pyq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-rivers-pyq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-rivers-pyq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-rivers-pyq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch/rivers.epub"
+      }
+    },
+    {
+      "eul_wid": "lgi-aj",
+      "title": {
+        "english": "On the Life of Moses, Books I-II",
+        "ancient_greek": "Περὶ τοῦ Βίου Μωυσέως"
+      },
+      "url_slug": "philo-of-alexandria-life-of-moses-lgi-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria/life-of-moses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-life-of-moses-lgi-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-life-of-moses-lgi-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-life-of-moses-lgi-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-life-of-moses-lgi-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/life-of-moses.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/sententiae-sexti/sentences",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sententiae-sexti-sentences-pxc-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sententiae-sexti-sentences-pxc-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sententiae-sexti-sentences-pxc-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sententiae-sexti-sentences-pxc-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sententiae-sexti/sentences.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

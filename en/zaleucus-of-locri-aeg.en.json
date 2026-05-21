@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "aeg",
+  "auth_slug": "zaleucus-of-locri",
+  "name": {
+    "english": "Zaleucus of Locri",
+    "ancient_greek": "Ζάλευκος ὁ Λοκρός"
+  },
+  "seo_h1": "Zaleucus of Locri and the First Written Greek Law Code",
+  "seo": {
+    "browser_title": "Zaleucus of Locri on Eulogikon Greek Archive and Library",
+    "meta_title": "Zaleucus of Locri Ancient Greek Legal Works and Code",
+    "meta_description": "Zaleucus of Locri was an archaic lawgiver of the 7th century BCE. Fragments of his legal code survive. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Zaleucus was the lawgiver for the Greek colony of Locri Epizephyrii in southern Italy during the 7th century BCE. He is credited with creating the first written Greek law code. Ancient sources like Aristotle and Strabo confirm his role, though later traditions embellish his biography, claiming he received the laws from the goddess Athena. His historical existence is accepted, and his floruit aligns with a period when many Greek city-states established written legal systems to curb aristocratic power.</p>\n<p class=\"research-text\">His sole known work is The Laws of the Locrians, a comprehensive written code. The text itself is not extant; its severe and precise provisions are known only through fragments and references in later authors such as Demosthenes and Diodorus Siculus.</p>\n<p class=\"research-text\">Zaleucus holds a foundational place in the history of Greek law as a pioneer of codification. Alongside figures like Lycurgus and Draco, he represents the Archaic Greek transition from oral custom to published law. His code was proverbial for its harsh, fixed penalties, which aimed to eliminate judicial discretion and maintain social order.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "aeg-aa",
+      "title": {
+        "english": "Preamble to the Laws",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "zaleucus-of-locri-preamble-laws-aeg-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/zaleucus-of-locri/preamble-laws",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zaleucus-of-locri-preamble-laws-aeg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zaleucus-of-locri-preamble-laws-aeg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zaleucus-of-locri-preamble-laws-aeg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zaleucus-of-locri-preamble-laws-aeg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zaleucus-of-locri/preamble-laws.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/zaleucus-of-locri",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/zaleucus-of-locri-aeg.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/zaleucus-of-locri-aeg.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/zaleucus-of-locri-aeg.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/zaleucus-of-locri-aeg.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "bdq",
+  "auth_slug": "cleostratus-of-tenedos",
+  "name": {
+    "english": "Cleostratus of Tenedos",
+    "ancient_greek": "Κλεόστρατος ὁ Τενήδιος"
+  },
+  "seo_h1": "Aries, Sagittarius, and the Astronomy of Cleostratus of Tenedos",
+  "seo": {
+    "browser_title": "The Cleostratus of Tenedos on Eulogikon Greek Archive",
+    "meta_title": "The Cleostratus of Tenedos Ancient Greek Fragments",
+    "meta_description": "Cleostratus of Tenedos, Greek philosopher of the 6th-5th century BCE. Surviving fragments of his work. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Αἰολική",
+      "english": "Aeolic (frg)",
+      "href": "/dialects/aeo"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Cleostratus of Tenedos was an early Greek astronomer from the island of Tenedos, active in the late 6th or early 5th century BCE. He is credited with introducing the constellations Aries and Sagittarius into Greek astronomy and with developing the eight-year lunisolar calendrical cycle known as the octaeteris, a system later refined by Meton and Euctemon. Ancient sources suggest his work may reflect Babylonian influence, positioning him in a transitional phase between mythological cosmologies and systematic astronomy.</p>\n<p class=\"research-text\">His lost works include the <strong>Astronomia</strong>, on constellations and celestial phenomena, and the <strong>Phainomena</strong>, a title commonly used for works describing stellar appearances and weather signs.</p>\n<p class=\"research-text\">Cleostratus helped standardize the Greek celestial map, providing a foundation for later astronomical tradition. His practical work on the octaeteris represents a significant early effort to create a reliable calendar based on astronomical observation.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "bdq-ab",
+      "title": {
+        "english": "Fragments on Astronomy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀστρονομίας"
+      },
+      "url_slug": "cleostratus-of-tenedos-astronomy-fragments-bdq-ab",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/cleostratus-of-tenedos/astronomy-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-astronomy-fragments-bdq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-astronomy-fragments-bdq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-astronomy-fragments-bdq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-astronomy-fragments-bdq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos/astronomy-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "bdq-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "cleostratus-of-tenedos-testimonies-bdq-aa",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/cleostratus-of-tenedos/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-testimonies-bdq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-testimonies-bdq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-testimonies-bdq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-testimonies-bdq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos/testimonies.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/cleostratus-of-tenedos",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleostratus-of-tenedos-bdq.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleostratus-of-tenedos-bdq.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleostratus-of-tenedos-bdq.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleostratus-of-tenedos-bdq.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

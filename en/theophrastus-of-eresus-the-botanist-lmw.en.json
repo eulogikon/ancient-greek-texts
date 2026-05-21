@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "lmw",
+  "auth_slug": "theophrastus-of-eresus-the-botanist",
+  "name": {
+    "english": "Theophrastus of Eresus the Botanist",
+    "ancient_greek": "Θεόφραστος ὁ Ἐρέσιος"
+  },
+  "seo_h1": "Iambic Verse and Philosophy in Theophrastus of Eresus",
+  "seo": {
+    "browser_title": "Theophrastus the Botanist on Eulogikon Greek Archive",
+    "meta_title": "Theophrastus Ancient Greek Botanical Works and Texts",
+    "meta_description": "Theophrastus of Eresus, Hellenistic philosopher and pioneering botanist. His surviving botanical texts. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Φιλοσοφική Ἀττική",
+      "english": "Attic Philosophical",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Theophrastus of Eresus was a Greek philosopher and scientist of the early Hellenistic period, active from approximately 371 to 287 BCE. A native of Lesbos, he studied in Athens under Plato and later under Aristotle. He became Aristotle&#x27;s closest associate and succeeded him as head of the Peripatetic school, the Lyceum, which he led for about thirty-five years.</p>\n<p class=\"research-text\">An extraordinarily prolific writer, Theophrastus produced hundreds of works on logic, ethics, metaphysics, and natural science, though only a few survive. His most famous works are two long botanical treatises, <strong>Enquiry into Plants</strong> and <strong>On the Causes of Plants</strong>. These works systematically describe and classify hundreds of plant species, their physiology, and their uses, forming the foundation of botany in the Western tradition.</p>\n<p class=\"research-text\">Another well-known surviving work is <strong>Characters</strong>, a series of short, sharp sketches of negative personality types that influenced later satire. Modern scholars view Theophrastus as crucial for preserving and critically developing Aristotle&#x27;s ideas, thereby ensuring the survival of the Peripatetic school. His historical significance rests on his role as Aristotle&#x27;s successor and, above all, on his pioneering empirical study of the plant world, which remained authoritative for over a thousand years.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "lmw-aa",
+      "title": {
+        "english": "Theophrastus the Philosopher-the Divine Art in Iambic Verses",
+        "ancient_greek": "Χαρακτῆρες"
+      },
+      "url_slug": "theophrastus-of-eresus-the-botanist-divine-art-iambic-lmw-aa",
+      "passages": 17,
+      "links": {
+        "html": "https://eulogikon.org/grc/theophrastus-of-eresus-the-botanist/divine-art-iambic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-the-botanist-divine-art-iambic-lmw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-the-botanist-divine-art-iambic-lmw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-the-botanist-divine-art-iambic-lmw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-the-botanist-divine-art-iambic-lmw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-the-botanist/divine-art-iambic.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/theophrastus-of-eresus-the-botanist",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theophrastus-of-eresus-the-botanist-lmw.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theophrastus-of-eresus-the-botanist-lmw.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theophrastus-of-eresus-the-botanist-lmw.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theophrastus-of-eresus-the-botanist-lmw.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

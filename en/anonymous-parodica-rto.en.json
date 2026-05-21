@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "rto",
+  "auth_slug": "anonymous-parodica",
+  "name": {
+    "english": "Parodica Anonyma",
+    "ancient_greek": "Παροδικά Ἀνώνυμα"
+  },
+  "seo_h1": "Parodica Anonyma and Fragments of Roman-Era Parody",
+  "seo": {
+    "browser_title": "Parodica Anonyma Anonymous Poet on Eulogikon Greek Archive",
+    "meta_title": "Classical Parodica Anonyma Ancient Greek Parody Verse Works",
+    "meta_description": "Parodica Anonyma, anonymous Roman era poet writing in Atticizing Greek. Surviving parody verse from 2nd to 3rd century CE. Free to download from Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα λογοτεχνική",
+      "english": "Atticizing Literary",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Parodica Anonyma is the conventional designation for an anonymous poet of the 2nd–3rd century CE. No biographical details survive. The author composed within the tradition of ancient Greek parody and humorous verse.</p>\n<p class=\"research-text\">The sole known work is the Parodica, a collection of parodic poems. The text is fragmentary, with excerpts preserved primarily within the Palatine Anthology. The Parodica is a significant example of comic poetry from the Roman Imperial period.</p>\n<p class=\"research-text\">Its inclusion in the Greek Anthology demonstrates its recognition as part of the canon of light and satirical verse. The fragments offer insight into the persistence of Hellenic literary forms and humor under Roman rule.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "rto-aa",
+      "title": {
+        "english": "Fragments of Uncertain Works",
+        "ancient_greek": "Ἀποσπάσματα Ἀδήλων Ἔργων"
+      },
+      "url_slug": "anonymous-parodica-uncertain-fragments-rto-aa",
+      "passages": 45,
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-parodica/uncertain-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-parodica-uncertain-fragments-rto-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-parodica-uncertain-fragments-rto-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-parodica-uncertain-fragments-rto-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-parodica-uncertain-fragments-rto-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-parodica/uncertain-fragments.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/anonymous-parodica",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-parodica-rto.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-parodica-rto.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-parodica-rto.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-parodica-rto.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

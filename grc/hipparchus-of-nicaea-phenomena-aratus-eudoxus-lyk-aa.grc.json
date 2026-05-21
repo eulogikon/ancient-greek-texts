@@ -1,0 +1,362 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "lyk-aa",
+  "eul_aid": "lyk",
+  "author_slug": "hipparchus-of-nicaea",
+  "work_slug": "phenomena-aratus-eudoxus",
+  "url_slug": "hipparchus-of-nicaea-phenomena-aratus-eudoxus-lyk-aa",
+  "author": {
+    "english": "Hipparchus of Nicaea",
+    "ancient_greek": "Ἵππαρχος ὁ Νικαεύς"
+  },
+  "title": {
+    "english": "On the Phenomena of Aratus and Eudoxus, Commentary Books III",
+    "ancient_greek": "Περὶ τῶν Φαινομένων Ἀράτου καὶ Εὐδόξου"
+  },
+  "seo": {
+    "browser_title": "On Phenomena Aratus and Eudoxus by Hipparchus on Eulogikon",
+    "meta_title": "On Phenomena of Aratus and Eudoxus by Hipparchus in Greek",
+    "meta_description": "Hipparchus critiques Aratus's poetic astronomy while examining Eudoxus's geometric celestial models. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On the Phenomena of Aratus and Eudoxus</strong> is a three-book astronomical commentary composed by the pioneering scientist Hipparchus of Nicaea around 140–120 BCE. The work constitutes a detailed, systematic critique of two earlier and widely known texts on the constellations: the didactic poem <strong>Phaenomena</strong> by Aratus and a now-lost prose treatise by the mathematician Eudoxus. Hipparchus meticulously compared their descriptions of stellar risings, settings, and positions against his own extensive observations, methodically cataloguing their inaccuracies. His primary aim was to establish empirical verification as the paramount authority in astronomy, superseding the poetic license of Aratus or the traditional models of Eudoxus.</p>\n<p class=\"research-text\">Only a portion of the original text survives. Books II and III are preserved in a single Byzantine manuscript, while Book I is lost. The extant books are organized as a series of examinations of specific constellations, frequently presenting technical data such as stellar coordinates. Modern scholarship regards this treatise as a foundational document of Hellenistic scientific methodology, written for a specialist audience to correct the astronomical record. Its rigorous, observation-based analysis of celestial positions not only exemplified a new critical standard but also provided the essential data that later enabled Hipparchus to discover the precession of the equinoxes. Although Aratus&#x27;s poem remained the more popular work for centuries, Hipparchus&#x27;s commentary embodied the critical and empirical practices that elevated astronomy into a precise mathematical science.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1.1",
+      "text": "Ἡδέως ἐπέγνων διὰ τῆς ἐπιστολῆς τὸ ἐπίμονόν σου τῆς πρὸς φιλομαθίαν οἰκειώσεως· τά τε γὰρ φυσικὰ τῶν ἐπιζητηθέντων ὑπὸ σοῦ καὶ τὰ περὶ τῶν παρὰ Ἀράτῳ λεγομένων ἐν ταῖς Συνανατολαῖς ἱκανωτέραν ἐνέφαινέ μοι φιλοτεχνίαν, καὶ πολλῷ γε μᾶλλον, ὅσῳ πεπλεόνακας ἐν ταῖς βιωτικαῖς ἀσχολίαις διὰ τὴν τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.2",
+      "text": "Ὅτι μὲν οὖν τῇ Εὐδόξου περὶ τῶν φαινομένων ἀναγραφῇ κατηκολούθηκεν ὁ Ἄρατος, μάθοι μὲν ἄν τις διὰ πλειόνων παρατιθεὶς τοῖς ποιήμασιν αὐτοῦ περὶ ἑκάστου τῶν λεγομένων τὰς παρὰ τῷ Εὐδόξῳ λέξεις. οὐκ ἄχρηστον δὲ καὶ νῦν διʼ ὀλίγων ὑπομνῆσαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.3",
+      "text": "Ὅτι μὲν οὖν Εὐδόξῳ ἐπακολουθήσας ὁ Ἄρατος συντέταχε τὰ Φαινόμενα, ἱκανῶς οἶμαι δεικνύναι διὰ τῶν προειρημένων. ἐν οἷς δὲ διαπίπτουσιν οὗτοί τε καὶ οἱ συνεπιγραφόμενοι αὐτοῖς, ὧν ἐστι καὶ ὁ Ἄτταλος, νῦν ὑποδείξομεν. ἐκθησόμεθα δὲ εὐθέως καὶ ἐν οἷς ἰδίᾳ ἕκαστος αὐτῶν διαμαρτάνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.4",
+      "text": "Περὶ μὲν οὖν τοῦ βορείου πόλου Εὔδοξος ἀγνοεῖ λέγων οὕτως· „ἔστι δέ τις ἀστὴρ μένων ἀεὶ κατὰ τὸν ,,αὐτὸν τόπον· οὗτος δὲ ὁ ἀστὴρ πόλος ἐστὶ τοῦ κόσμου ἐπὶ γὰρ τοῦ πόλου οὐδὲ εἷς ἀστὴρ κεῖται, ἀλλὰ κενός ἐστι τόπος, ᾧ παράκεινται τρεῖς ἀστέρες, μεθʼ ὧν τὸ σημεῖον τὸ κατὰ τὸν πόλον τετράγωνον ἔγγιστα σχῆμα περιέχει, καθάπερ καὶ Πυθέας φησὶν ὁ Μασσαλιώτης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.5",
+      "text": "Ἐν δὲ τοῖς ἑξῆς περὶ τῆς Ἄρκτου παντελῶς δοκοῦσί μοι ἀγνοεῖν, ὁ μὲν Eὔδοξος οὕτως λέγων· „ὑπὸ δὲ „τὴν κεφαλὴν τῆς Μεγάλης Ἄρκτου οἱ Δίδυμοι κεῖνται, „κατὰ μέσον δὲ ὁ Καρκίνος, ὑπὸ δὲ τοὺς ὀπισθίους „πόδας ὁ Λέων.“ ὁ δὲ Ἄρατος· κρατὶ δέ οἱ Δίδυμοι, μέσσῃ δʼ ὕπο Καρκίνος ἐστί, ποσσὶ δʼ ὀπισθοτέροισι Λέων ὕπο καλὰ φαείνει. οἷς ὅ τε Ἄτταλος καὶ οἱ λοιποὶ πάντες συνεπιγράφονται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.6",
+      "text": "Πάλιν δὲ παρὰ τῴ Εὐδόξῳ ἀναστρέφεται διημαρτη- μένως περὶ τῆς κεφαλῆς τῆς Μεγάλης Ἄρκτου ἐν μὲν τῷ ἑνὶ συντάγματι, ὃ ἐπιγράφεται „Φαινόμενα“, τὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.7",
+      "text": "Ἐν δὲ τοῖς ἑξῆς ὁ Ἄρατος εἰπὼν περὶ τοῦ μηκέτι δεῖν νυκτοπλοεῖν, ὅταν τὸν Τοξότην ὁ ἥλιος ἄρξηται διαπορεύεσθαι, σημεῖα βουλόμενος ὑποδεῖξαι τοῦ καιροῦ τούτου φησί· σῆμα δέ τοι κείνης ὥρης καὶ μηνὸς ἐκείνου Σκορπίος ἀντέλλων εἴη πυμάτης ἐπὶ νυκτός. ἤτοι γὰρ μέγα τόξον ἀνέλκεται ἐγγύθι κέντρου Τοξευτής· ὀλίγον δὲ παροίτερος ἵσταται αὐτοῦ Σκορπίος ἀντέλλων, ὁ δʼ ἀνέρχεται αὐτίκα μᾶλλον. τῆμος καὶ κεφαλὴ Κυνοσουρίδος ἀκρόθι νυκτὸς ὕψι μάλα τροχάει, ὁ δὲ δύεται ἠῶθι πρὸ ἀθρόος Ὠρίων, Κηφεὺς δʼ ἀπὸ χειρὸς ἐπʼ ἰξύν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.8",
+      "text": "Ἀγνοεῖ δὲ ὁ Ἄρατος καὶ ἐν τῷ ἀστερισμῷ τῆς Ἀργοῦς· φησὶ γὰρ αὐτῆς τὸ ἀπὸ τῆς πρῴρας μέρος ἕως τοῦ ἱστοῦ ἀναστέριστον εἶναι, λέγων οὕτως· καὶ τὰ μὲν ἠερίη καὶ ἀνάστερος ἄχρι παρʼ αὐτὸν ἱστὸν ἀπὸ πρῴρης φέρεται, τὰ δὲ πᾶσα φαεινή. οἱ γὰρ ἐν τῇ ἀποτομῇ τοῦ πλοίου κείμενοι λαμπροὶ ἀστέρες, ὧν ὁ μὲν βορειότερος ἐν τῷ καταστρώματί ἐστιν, ὁ δὲ νοτιώτερος ἐν τῇ τρόπει, πολὺ πρὸς ἀνα- τολὰς παραλλάσσουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.9",
+      "text": "Ἐν δὲ τοῖς ἐξῆς περὶ τῶν τροπικῶν καὶ τοῦ ἰση- μερινοῦ καὶ τοῦ ζῳδιακοῦ κύκλου λέγων φησίν· αὐτοὶ δʼ ἀπλατέες καὶ ἀρηρότες ἀλλήλοισι πάντες, ἀτὰρ μέτρῳ γε δύω δυσὶν ἀντιφέρονται. γραφομένου δὴ διχῶς καὶ ἐν οἷς μέν· ,,αὐτοὶ δʼ ἀπλατέες·, ἐν οἷς δέ· „αὐτοὶ δὲ πλατέες“, ὁ Ἄτταλός φησι βέλτιον εἶναι ,,αὐτοὶ δὲ πλατέες“. „καὶ γὰρ οἱ „ἀστρολόγοι, φησί, πλατεῖς ὑποτίθενται τούς τε τροπι- „κοὺς καὶ τὸν ἰσημερινὸν καὶ τὸν ζῳδιακὸν διὰ τὸ „τὸν ἥλιον τὰς τροπὰς μὴ ἀεὶ ἐπὶ τοῦ αὐτοῦ κύκλου ,,πτοιεῖσθαι, ἀλλὰ ποτὲ μὲν νοτιώτερον, ποτὲ δὲ βορειό-",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.10",
+      "text": "Περὶ δὲ τῶν ἀστέρων, οἳ κεῖνται ἐφʼ ἑκατέρου τε τῶν τροπικῶν καὶ ἐπὶ τοῦ ἰσημερινοῦ, γράφει ὁ Ἄρατος τοῦτον τὸν τρόπον· τῶν ὁ μὲν ἐγγύθεν ἐστὶ κατερχομένου βορέαο. ἐν δέ οἱ ἀμφότεραι κεφαλαὶ Διδύμων φορέονται, ἐν δὲ τὰ γούνατα κεῖται ἀρηρότος Ἡνιόχοιο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.11",
+      "text": "Χωρὶς δὲ τῶν εἰρημένων τριῶν κύκλων ὁ Εὔδοξος καὶ τοὺς ἐπὶ τοῦ ἀρκτικοῦ κύκλου κειμένους ἀστέρας διασαφεῖ. καί φησιν ἐπʼ αὐτοῦ κεῖσθαι τόν τε ἀρι- στερὸν ὦμον τοῦ Ἀρκτοφύλακος, καὶ τὰ ἄνωθεν τοῦ Στεφάνου, καὶ τὴν κεφαλὴν τοῦ διὰ τῶν Ἄρκτων Ὄφεως, τῆς δὲ Λύρας καὶ τῆς δεξιᾶς πτέρυγος τοῦ Ὄρνιθος τὰ ἄνωθεν, τοῦ δὲ Κηφέως τὸ στῆθος, τῆς δὲ Κασσιεπείας τὰ ἄνωθεν· εἶτα ὑπὸ τοὺς ἐμπροσθίους πόδας τῆς Μεγάλης Ἄρκτου 〈μεταξὺ τῆς Ἄρκτου〉 καὶ τοῦ Λέοντος ἄχρι πρὸς τὸν ὦμον τοῦ Ἀρκτοφύλακος 〈φέρεσθαι αὐτόν.〉",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.1",
+      "text": "Τοῖς προειρημένοις, ὦ Αἰσχρίων, περὶ τῶν ὑπὸ Ἀράτου καὶ Εὐδόξου καταγεγραμμένων ἐν τοῖς Φαινο- μένοις συνάψωμεν νῦν τὸν περὶ συνανατολῆς καὶ συγκαταδύσεως τῶν ἄστρων λόγον, ὑποδεικνύντες, ὅσα τε δεόντως ὑπʼ αὐτῶν εἴρηται, καὶ ἐν οἷς διαφωνοῦντες [οὐ] πρὸς τὰ φαινόμενα τὰς ἀποφάσεις πεποίηνται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.2",
+      "text": "Τούτων δὲ προυποδεδειγμένων νῦν ἐπισκεψώμεθα τὰς ὑπʼ αὐτῶν ἀποδιδομένας συνανατολάς τε καὶ ἀντικαταδύσεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.3",
+      "text": "Πάλιν δὲ τοῦ Αἰγόκερω πρὸς τῇ ἀνατολῇ ὄντος, τῷ Τοξότῃ φασὶν ἀντικαταδύνειν τήν τε Ἀργὼ ὅλην καὶ τὸν Πρόκυνα, συνανατέλλειν δὲ τόν τε Ὄρνιθα, καὶ τὸν Ἀετόν, καὶ τὸν Ὀϊστόν, καὶ τὸ Θυμιατήριον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.4",
+      "text": "Ἃ μὲν οὖν ἐδόκει μοι χρήσιμα εἶναι τῶν ὑπὸ Ἀράτου καὶ Εὐδόξου λεγομένων ἐν τοῖς Φαινομένοις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.5",
+      "text": "Ὁ μὲν οὖν Βοώτης συνανατέλλει τῷ ζῳδιακῷ ἀπὸ τῆς ἀρχῆς τῆς Παρθένου ἕως ζ΄ καὶ κ΄ μοίρας τῆς Παρθένου· μεσουρανεῖ δʼ ἀνατέλλοντος αὐτοῦ τοῦ ζῳδιακοῦ τμῆμα τὸ ἀπὸ Ταύρου ζ΄ καὶ κ΄ μοίρας μέσης ἕως Διδύμων κζ΄ μοίρας. καὶ πρῶτος μὲν ἀστὴρ τοῦ Βοώτου ἀνατέλλει ὁ ἐν τῇ κεφαλῇ, ἔσχατος δὲ ὁ ἐν τῷ δεξιῷ ποδί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.6",
+      "text": "Περὶ μὲν οὖν τὰς ἀνατολὰς τῶν βορειοτέρων ἄστρων τοῦ ζῳδιακοῦ κύκλου ταῦτα συμβαίνει ἐν τῇ προειρημένῃ τοῦ κόσμου ἐγκλίσει, περὶ δὲ τὰς καταδύσεις τὰ τοιαῦτα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.1",
+      "text": "Προειρηκότες, ὦ Αἰσχρίων, ἐν τῷ πρὸ τούτου συντάγματι περὶ τῶν βορειοτέρων ἄστρων τοῦ ζῳδιακοῦ κύκλου, τίνι τε ζῳδίῳ τῶν δώδεκα ἕκαστον αὐτῶν συνανα- τέλλει καὶ συγκαταδύνει, καὶ τί ζῴδιον ἀνατέλλοντος αὐτοῦ ἢ δύνοντος μεσουρανεῖ, καὶ τίνες τῶν ἀπλανῶν ἀστέρων ἐπὶ τοῦ μεσημβρινοῦ γίνονται ἀρχομένου τε αὐτοῦ ἀνατέλλειν ἢ δύνειν καὶ πάλιν λήγοντος, ἔτι δʼ ἐν πόσαις ἰσημεριναῖς ὥραις ἕκαστον ἀνατέλλει ἢ δύνει, νῦν ὑπογράψομεν τὰ αὐτὰ περὶ ἑκάστου τῶν τε νοτιω- τέρων τοῦ ζῳδιακοῦ ἄστρων καὶ αὐτῶν τῶν δώδεκα ζῳδίων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.2",
+      "text": "Ἑξῆς δὲ ἐροῦμεν περὶ τῆς καταδύσεως τῶν νοτιω- τέρων τοῦ ζῳδιακοῦ κύκλου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.3",
+      "text": "Ἐπεὶ δὲ τῶν ἐκτὸς τοῦ ζῳδιακοῦ κύκλου κειμένων ἄστρων ἀποδεδώκαμεν τὰ συμβαίνοντα περὶ τὴν ἑκάστου αὐτῶν ἀνατολήν τε καὶ δύσιν, ἑξῆς ἀποδώσομεν τὰς αὐτῶν τῶν δώδεκα ζῳδίων συνανατολάς τε καὶ συγ- καταδύσεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.4",
+      "text": "Πάλιν δὲ τοῦ μὲν Καρκίνου δύνοντος συγκατα- δύνει μὲν αὐτῷ ὁ ζῳδιακὸς ἀπὸ Διδύμων μοίρας ζ΄ καὶ κ΄ μέσης ἕως Καρκίνου κ΄ μέσης· μεσουρανεῖ δὲ ἀπὸ Χηλῶν ιζ΄ ἕως Σκορπίου ιβ΄. καὶ πρῶτος μὲν ἀστὴρ δύνει ὁ ἐν τοῖς 〈νοτίοις〉 ποσὶ τοῦ Καρκίνου ἐκφανὴς καὶ ἐπʼ εὐθείας κείμενος τοῖς πρὸς δύσιν [τοῖς νοτιωτέροις] τῶν περὶ τὸ Νεφέλιον τὸ ἐν τῷ Καρκίνῳ, ἔσχατος δὲ ὁ ἐν ἄκρᾳ τῇ βορείᾳ χηλῇ τοῦ Καρκίνου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.5",
+      "text": "Χωρὶς δὲ τῆς ἐν ταῖς συνανατολαῖς καὶ ⟨συγκατα-⟩ δύσεσι θεωρίας εὔχρηστον εἶναι νομίζω καὶ τὸ παρα- κολουθεῖν ἡμᾶς, τίνες τῶν ἀπλανῶν ἀστέρων ἀπέχουσιν ἀπʼ ἀλλήλων κατὰ τὸ ἑξῆς ὡριαῖα ἰσημερινὰ διαστήματα. τοῦτο γὰρ ἡμῖν εὔχρηστόν ἐστι πρός τε τὸ τὴν ὥραν τῆς νυκτὸς ἀκριβῶς συλλογίζεσθαι καὶ πρὸς τὸ τοὺς ἐκλειπτικοὺς τῆς σελήνης χρόνους καὶ ἕτερα πλείονα κατανοεῖν τῶν ἐν ἀστρολογίᾳ θεωρημάτων.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "lyk-ab",
+      "title": {
+        "english": "Geographical Fragments",
+        "ancient_greek": "Γεωγραφικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "hipparchus-of-nicaea-geographical-fragments-lyk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hipparchus-of-nicaea/geographical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea-geographical-fragments-lyk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea-geographical-fragments-lyk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea-geographical-fragments-lyk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea-geographical-fragments-lyk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea/geographical-fragments.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "lsg-aa",
+      "title": {
+        "english": "Constructions of War Machines and Catapults",
+        "ancient_greek": "Κατασκευαὶ πολεμικῶν ὀργάνων καὶ καταπαλτικῶν"
+      },
+      "url_slug": "biton-mechanicus-war-machines-catapults-lsg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/biton-mechanicus/war-machines-catapults",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/biton-mechanicus-war-machines-catapults-lsg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/biton-mechanicus-war-machines-catapults-lsg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/biton-mechanicus-war-machines-catapults-lsg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/biton-mechanicus-war-machines-catapults-lsg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/biton-mechanicus/war-machines-catapults.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-ci",
+      "title": {
+        "english": "Creation of Lime",
+        "ancient_greek": "Ποίησις ἀσβέστου"
+      },
+      "url_slug": "alchemist-i-lime-creation-rrg-ci",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/lime-creation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-lime-creation-rrg-ci.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-lime-creation-rrg-ci.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-lime-creation-rrg-ci.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-lime-creation-rrg-ci.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/lime-creation.epub"
+      }
+    },
+    {
+      "eul_wid": "ogk-aa",
+      "title": {
+        "english": "Fragments on the Planets",
+        "ancient_greek": "Ἀποσπάσματα περὶ Πλανητῶν"
+      },
+      "url_slug": "dorotheus-of-sidon-planets-ogk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dorotheus-of-sidon/planets",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorotheus-of-sidon-planets-ogk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorotheus-of-sidon-planets-ogk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorotheus-of-sidon-planets-ogk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorotheus-of-sidon-planets-ogk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorotheus-of-sidon/planets.epub"
+      }
+    },
+    {
+      "eul_wid": "tyc-ag",
+      "title": {
+        "english": "On What is According to the Art, Substance and NSubstance",
+        "ancient_greek": "Περὶ τοῦ τί ἐστιν κατὰ τὴν τέχνην, οὐσία καὶ"
+      },
+      "url_slug": "zosimus-of-panopolis-art-substance-tyc-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/art-substance",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-art-substance-tyc-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-art-substance-tyc-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-art-substance-tyc-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-art-substance-tyc-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/art-substance.epub"
+      }
+    },
+    {
+      "eul_wid": "tyc-be",
+      "title": {
+        "english": "On the Tribikos and the Tube",
+        "ancient_greek": "Περὶ τοῦ τριβίκου καὶ τοῦ σωλῆνος"
+      },
+      "url_slug": "zosimus-of-panopolis-tribikos-tube-be-tyc-be",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/tribikos-tube-be",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-tribikos-tube-be-tyc-be.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-tribikos-tube-be-tyc-be.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-tribikos-tube-be-tyc-be.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-tribikos-tube-be-tyc-be.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/tribikos-tube-be.epub"
+      }
+    },
+    {
+      "eul_wid": "ece-aa",
+      "title": {
+        "english": "On the Virtues of Herbs",
+        "ancient_greek": "Περὶ τῶν ἀρετῶν τῶν βοτάνων"
+      },
+      "url_slug": "thessalus-of-cos-virtues-herbs-aa-ece-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/thessalus-of-cos/virtues-herbs-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-aa-ece-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-aa-ece-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-aa-ece-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-aa-ece-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "ptg-aa",
+      "title": {
+        "english": "Oracles (Long Recension)",
+        "ancient_greek": "Χρησμοί"
+      },
+      "url_slug": "astrampsychus-the-magician-oracles-aa-ptg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/astrampsychus-the-magician/oracles-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/astrampsychus-the-magician-oracles-aa-ptg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/astrampsychus-the-magician-oracles-aa-ptg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/astrampsychus-the-magician-oracles-aa-ptg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/astrampsychus-the-magician-oracles-aa-ptg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/astrampsychus-the-magician/oracles-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "hte-ab",
+      "title": {
+        "english": "Phenomena",
+        "ancient_greek": "Φαινόμενα"
+      },
+      "url_slug": "aratus-of-soli-phenomena-hte-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-of-soli/phenomena",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-of-soli-phenomena-hte-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-of-soli-phenomena-hte-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-of-soli-phenomena-hte-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-of-soli-phenomena-hte-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-of-soli/phenomena.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hipparchus-of-nicaea/phenomena-aratus-eudoxus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea-phenomena-aratus-eudoxus-lyk-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea-phenomena-aratus-eudoxus-lyk-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea-phenomena-aratus-eudoxus-lyk-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea-phenomena-aratus-eudoxus-lyk-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea/phenomena-aratus-eudoxus.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

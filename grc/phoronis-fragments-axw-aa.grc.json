@@ -1,0 +1,275 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "axw-aa",
+  "eul_aid": "axw",
+  "author_slug": "phoronis",
+  "work_slug": "fragments",
+  "url_slug": "phoronis-fragments-axw-aa",
+  "author": {
+    "english": "Phoronis ",
+    "ancient_greek": "Φορωνίς"
+  },
+  "title": {
+    "english": "Phoronis, Fragments",
+    "ancient_greek": "Φορωνίς"
+  },
+  "seo": {
+    "browser_title": "The Fragments of Phoronis by the Poet Phoronis on Eulogikon",
+    "meta_title": "Fragments of Phoronis by Phoronis in Ancient Greek",
+    "meta_description": "Surviving fragments of the epic poem Phoronis, attributed to the poet Phoronis. Free download in original ancient Greek at Eulogikon Archive and library"
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Phoronis is a lost epic poem belonging to the early Greek Epic Cycle, surviving only in fragments and later testimonia. Its narrative centered on the Argive king Phoroneus, a primordial culture-hero considered a founder of human society. The extant fragments indicate the poem dealt with the earliest mythological history of the Argolid region. One significant fragment describes the Idaean Dactyls, mythical beings skilled in metalworking, discovering iron in the mountains and forging it with fire. Other references connect the Argive narrative to broader Panhellenic myth, including the triple-bodied monster Geryon from the cycle of Heracles. The work is preserved solely through quotations and summaries in later authors such as Strabo, Hesychius, and Clement of Alexandria. The Phoronis provided a foundational myth for Argos, asserting the region&#x27;s antiquity and prestige within Greek mythology. Its account of Phoroneus as a civilizer was adopted by later historians and mythographers, embedding Argos&#x27;s claimed primacy into the broader tradition of early Greek history.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "πατέρα θνητῶν ἀνθρώπων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "ἔνθα γόητες Ἰδαῖοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "Φρύγες ἄνδρες ὀρέστεροι οἰκί’ ἔναιον, Κέλμις Δαμναμενεύς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "τε μέγας καὶ ὑπέρβιος Ἄκμων, εὐπάλαμοι θεράποντες ὀρείης Ἀδρηστείης,[ln_5]οἳ πρῶτοι τέχνηις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.4",
+      "text": "πολυμήτιος Ἡφαίστοιο εὗρον ἐν οὐρείηισι νάπαις ἰόεντα σίδηρον ἐς πῦρ τ’ ἤνεγκαν καὶ ἀριπρεπὲς ἔργον ἔτευξαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.1",
+      "text": "Καλλιθόη κλειδοῦχος Ὀλυμπιάδος βασιλείης, Ἥρης Ἀργείης, ἣ στέμμασι καὶ θυσάνοισι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.2",
+      "text": "πρώτη κόσμησεν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.3",
+      "text": "περὶ κίονα μακρὸν ἀνάσσης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.1",
+      "text": "Ἑρμείαν δὲ πατὴρ ἐριούνιον ὠνόμας’ αὐτόν· πάντας γὰρ μάκαράς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.2",
+      "text": "τε θεοὺς θνητούς τ’ ἀνθρώπους κέρδεσι κλεπτοσύνηισι τ’ ἐκαίνυτο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.3",
+      "text": "τεχνηέσσαις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6",
+      "text": "οὐδ’ ἔτι κούρ[η] ἀρκέσει ἐγρεμάχη [δο]λιχάορος ἀ̣γρομέ[νοισιν]",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "qta-aa",
+      "title": {
+        "english": "Fishing",
+        "ancient_greek": "Ἁλιευτικά"
+      },
+      "url_slug": "oppian-of-anazarbus-halieutica-qta-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/oppian-of-anazarbus/halieutica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-of-anazarbus-halieutica-qta-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-of-anazarbus-halieutica-qta-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-of-anazarbus-halieutica-qta-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-of-anazarbus-halieutica-qta-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-of-anazarbus/halieutica.epub"
+      }
+    },
+    {
+      "eul_wid": "unw-aa",
+      "title": {
+        "english": "Fragments on a Lion Hunt",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κυνηγίας Λέοντος"
+      },
+      "url_slug": "pamprepius-of-panopolis-lion-hunt-unw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pamprepius-of-panopolis/lion-hunt",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pamprepius-of-panopolis-lion-hunt-unw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pamprepius-of-panopolis-lion-hunt-unw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pamprepius-of-panopolis-lion-hunt-unw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pamprepius-of-panopolis-lion-hunt-unw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pamprepius-of-panopolis/lion-hunt.epub"
+      }
+    },
+    {
+      "eul_wid": "jfq-ab",
+      "title": {
+        "english": "Fragments on the Argonautic Voyage",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἀργοναυτικῆς Πλόης"
+      },
+      "url_slug": "apollonius-of-rhodes-argonautica-fragments-jfq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollonius-of-rhodes/argonautica-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-rhodes-argonautica-fragments-jfq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-rhodes-argonautica-fragments-jfq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-rhodes-argonautica-fragments-jfq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-rhodes-argonautica-fragments-jfq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-rhodes/argonautica-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "kjq-ao",
+      "title": {
+        "english": "Iambic encom",
+        "ancient_greek": "Ἰαμβικὸν Ἐγκώμιον"
+      },
+      "url_slug": "epic-fragments-anonymous-iambic-encom-kjq-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/iambic-encom",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-iambic-encom-kjq-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-iambic-encom-kjq-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-iambic-encom-kjq-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-iambic-encom-kjq-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/iambic-encom.epub"
+      }
+    },
+    {
+      "eul_wid": "qky-aa",
+      "title": {
+        "english": "On Marriage and Wifely Duties",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "naumachius-the-didactic-poet-marriage-duties-qky-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/naumachius-the-didactic-poet/marriage-duties",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/naumachius-the-didactic-poet-marriage-duties-qky-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/naumachius-the-didactic-poet-marriage-duties-qky-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/naumachius-the-didactic-poet-marriage-duties-qky-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/naumachius-the-didactic-poet-marriage-duties-qky-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/naumachius-the-didactic-poet/marriage-duties.epub"
+      }
+    },
+    {
+      "eul_wid": "gwm-ab",
+      "title": {
+        "english": "On Mortality and Transience",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "choerilus-of-iasus-mortality-transience-gwm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/choerilus-of-iasus/mortality-transience",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus-mortality-transience-gwm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus-mortality-transience-gwm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus-mortality-transience-gwm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus-mortality-transience-gwm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus/mortality-transience.epub"
+      }
+    },
+    {
+      "eul_wid": "kjq-ai",
+      "title": {
+        "english": "Poem-the Rising Nile",
+        "ancient_greek": "Ποίημα περὶ τοῦ Νείλου ἀνατέλλοντος"
+      },
+      "url_slug": "epic-fragments-anonymous-rising-nile-kjq-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/rising-nile",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-rising-nile-kjq-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-rising-nile-kjq-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-rising-nile-kjq-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-rising-nile-kjq-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/rising-nile.epub"
+      }
+    },
+    {
+      "eul_wid": "ujg-aa",
+      "title": {
+        "english": "Post-Homeric Poem",
+        "ancient_greek": "τὰ μεθ᾿ Ὅμηρον"
+      },
+      "url_slug": "quintus-of-smyrna-post-homeric-poem-ujg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/quintus-of-smyrna/post-homeric-poem",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/quintus-of-smyrna-post-homeric-poem-ujg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/quintus-of-smyrna-post-homeric-poem-ujg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/quintus-of-smyrna-post-homeric-poem-ujg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/quintus-of-smyrna-post-homeric-poem-ujg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/quintus-of-smyrna/post-homeric-poem.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/phoronis/fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoronis-fragments-axw-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoronis-fragments-axw-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoronis-fragments-axw-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoronis-fragments-axw-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoronis/fragments.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

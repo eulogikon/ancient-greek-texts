@@ -1,0 +1,236 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "alo-ab",
+  "eul_aid": "alo",
+  "author_slug": "peisander-of-camirus",
+  "work_slug": "epigram",
+  "url_slug": "peisander-of-camirus-epigram-alo-ab",
+  "author": {
+    "english": "Peisander of Camirus",
+    "ancient_greek": "Πείσανδρος ὁ Καμείριος"
+  },
+  "title": {
+    "english": "Epigram",
+    "ancient_greek": "Ἐπίγραμμα"
+  },
+  "seo": {
+    "browser_title": "Ancient Epigram by Peisander of Camirus on Eulogikon",
+    "meta_title": "Classical Epigram by Peisander of Camirus in Ancient Greek",
+    "meta_description": "The surviving epigram by Peisander of Camirus, a short poetic inscription from Greek tradition. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Epigram attributed to Peisander of Camirus is a short poetic work known only by its title and a structural note indicating it originally comprised four passages. Peisander is primarily recognized as an epic poet, author of the lost Heraclea, which narrated the labors of Heracles. No details regarding the epigram&#x27;s content, meter, or occasion are recorded in standard references, and his activity as an epigrammatist remains obscure. The specific themes and topics of the work are undocumented. Its manuscript tradition and preservation status are similarly not detailed; it is likely fragmentary or known only through indirect testimony, though this is not confirmed by existing sources. While the epigram itself lacks any attested literary influence, Peisander&#x27;s epic Heraclea was an important early treatment of the Heracles myth and influenced later accounts.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 304.1.1",
+      "text": "Ἀνδρὶ μὲν Ἱππαίμων ὄνομ’ ἦν, ἵππῳ δὲ Πόδαργος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 304.1.2",
+      "text": "καὶ κυνὶ Λήθαργος καὶ θεράποντι Βάβης·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 304.1.3",
+      "text": "Θεσσαλός, ἐκ Κρήτης, Μάγνης γένος, Αἵμονος υἱός·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 304",
+      "text": "ὤλετο δ’ ἐν προμάχοις ὀξὺν Ἄρη συνάγων.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "alo-aa",
+      "title": {
+        "english": "Fragments of Heraclea",
+        "ancient_greek": "Ἀποσπάσματα Ἡρακλείας"
+      },
+      "url_slug": "peisander-of-camirus-fragments-heraclea-alo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/peisander-of-camirus/fragments-heraclea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus-fragments-heraclea-alo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus-fragments-heraclea-alo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus-fragments-heraclea-alo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus-fragments-heraclea-alo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus/fragments-heraclea.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "uuu-aa",
+      "title": {
+        "english": "Abduction of Helen",
+        "ancient_greek": "Ἁρπαγὴ Ἑλένης"
+      },
+      "url_slug": "colluthus-of-lycopolis-abduction-of-helen-uuu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/colluthus-of-lycopolis/abduction-of-helen",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/colluthus-of-lycopolis-abduction-of-helen-uuu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/colluthus-of-lycopolis-abduction-of-helen-uuu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/colluthus-of-lycopolis-abduction-of-helen-uuu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/colluthus-of-lycopolis-abduction-of-helen-uuu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/colluthus-of-lycopolis/abduction-of-helen.epub"
+      }
+    },
+    {
+      "eul_wid": "jvk-ab",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "hegemon-of-alexandria-epigram-jvk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hegemon-of-alexandria/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegemon-of-alexandria-epigram-jvk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegemon-of-alexandria-epigram-jvk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegemon-of-alexandria-epigram-jvk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegemon-of-alexandria-epigram-jvk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegemon-of-alexandria/epigram.epub"
+      }
+    },
+    {
+      "eul_wid": "kak-aa",
+      "title": {
+        "english": "Fragments of the Pandareus Myth",
+        "ancient_greek": "Ἀποσπάσματα τοῦ Πανδάρεω Μύθου"
+      },
+      "url_slug": "boeus-the-epic-poet-pandareus-myth-kak-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/boeus-the-epic-poet/pandareus-myth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeus-the-epic-poet-pandareus-myth-kak-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeus-the-epic-poet-pandareus-myth-kak-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeus-the-epic-poet-pandareus-myth-kak-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeus-the-epic-poet-pandareus-myth-kak-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeus-the-epic-poet/pandareus-myth.epub"
+      }
+    },
+    {
+      "eul_wid": "utg-ac",
+      "title": {
+        "english": "Fragments on Lydian Genealogy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Λυδικῆς Γενεαλογίας"
+      },
+      "url_slug": "christodorus-of-coptus-lydia-genealogy-utg-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/christodorus-of-coptus/lydia-genealogy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus-lydia-genealogy-utg-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus-lydia-genealogy-utg-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus-lydia-genealogy-utg-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus-lydia-genealogy-utg-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus/lydia-genealogy.epub"
+      }
+    },
+    {
+      "eul_wid": "acs-aa",
+      "title": {
+        "english": "Margites Fragments",
+        "ancient_greek": "Μαργίτου Ἀποσπάσματα"
+      },
+      "url_slug": "homer-of-colophon-fragments-acs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer-of-colophon/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-of-colophon-fragments-acs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-of-colophon-fragments-acs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-of-colophon-fragments-acs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-of-colophon-fragments-acs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-of-colophon/fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "kjq-ab",
+      "title": {
+        "english": "Mercury the Creator of the World and Hermopolis Magna",
+        "ancient_greek": "Ἑρμῆς ὁ Δημιουργὸς τοῦ Κόσμου καὶ Ἑρμοῦπολις"
+      },
+      "url_slug": "epic-fragments-anonymous-creator-world-hermopolis-kjq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/creator-world-hermopolis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-creator-world-hermopolis-kjq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-creator-world-hermopolis-kjq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-creator-world-hermopolis-kjq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-creator-world-hermopolis-kjq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/creator-world-hermopolis.epub"
+      }
+    },
+    {
+      "eul_wid": "tns-aa",
+      "title": {
+        "english": "Paraphrase of the Gospel of John",
+        "ancient_greek": "Παράφρασις εἰς τὸ Κατὰ Ἰωάννην Εὐαγγέλιον"
+      },
+      "url_slug": "nonnus-of-panopolis-gospel-john-tns-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/nonnus-of-panopolis/gospel-john",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnus-of-panopolis-gospel-john-tns-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnus-of-panopolis-gospel-john-tns-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnus-of-panopolis-gospel-john-tns-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnus-of-panopolis-gospel-john-tns-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnus-of-panopolis/gospel-john.epub"
+      }
+    },
+    {
+      "eul_wid": "kjq-aq",
+      "title": {
+        "english": "Wedding Song",
+        "ancient_greek": "Γαμήλιον Ἄσμα"
+      },
+      "url_slug": "epic-fragments-anonymous-wedding-song-kjq-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/wedding-song",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-wedding-song-kjq-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-wedding-song-kjq-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-wedding-song-kjq-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-wedding-song-kjq-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/wedding-song.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/peisander-of-camirus/epigram",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus-epigram-alo-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus-epigram-alo-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus-epigram-alo-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus-epigram-alo-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus/epigram.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

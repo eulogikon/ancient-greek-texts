@@ -1,0 +1,356 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "tme-ab",
+  "eul_aid": "tme",
+  "author_slug": "orion-of-thebes",
+  "work_slug": "etymology-ab",
+  "url_slug": "orion-of-thebes-etymology-ab-tme-ab",
+  "author": {
+    "english": "Orion of Thebes",
+    "ancient_greek": "Ὤριον ὁ Θηβαῖος"
+  },
+  "title": {
+    "english": "Etymological Work",
+    "ancient_greek": "Ἐτυμολογικὸν Ἔργον"
+  },
+  "seo": {
+    "browser_title": "Ancient Etymological Work by Orion of Thebes on Eulogikon",
+    "meta_title": "Etymological Work by Orion of Thebes in Ancient Greek",
+    "meta_description": "Orion of Thebes explores word origins and linguistic foundations in this late antique grammatical treatise. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Etymological Work</strong> is a grammatical treatise by the 5th-century CE scholar Orion of Thebes. Composed in Koine Greek, it represents a late antique contribution to the ancient discipline of etymology, which sought to uncover the original meanings and derivations of words. The work is structured as a lexicon of entries, arranged alphabetically, with the original text comprising twelve sections. Its primary function was pedagogical, designed as a reference tool for students and scholars engaged in the study of the Greek language and classical literature within the educational institutions of the late Roman Empire. The treatise defines etymology as the practice of discovering a word&#x27;s interpretation from its very name and explaining why it is so called, proceeding to offer illustrative examples, such as deriving &quot;god&quot; from the act of beholding all things. The full text does not survive intact; it is known only through fragments and excerpts preserved within later Byzantine dictionaries and grammatical compilations, most notably the <strong>Etymologicum Magnum</strong>. This indirect transmission indicates that Orion&#x27;s work remained an authoritative source for subsequent lexicographers, who mined it for their own reference works. Through these later citations, Orion&#x27;s etymological scholarship played a role in the preservation and transmission of Greek linguistic knowledge into the medieval period.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "173 (t1)",
+      "text": "Περὶ ἐτυμολογιῶν κατὰ στοιχεῖον ἐκ τὸν κατὰ ΩΡΙΩΝΑ ΤΟΝ ΘΗΒΑΙΟΝ. Ἐτυμολογία ἐστὶ τὸ ἐξ αὐτῆς τῆς τοῦ πράγματος ὀνομασίας εὑρίσκειν τὴν αὐτοῦ ἑρμηνείαν· καὶ τὸ διὰ τί οὕτως ὀνομάζεται· οἷον τε λέγω θεὸς οὖν λέγεται διὰ τὸ θεωρεῖν τὰ πάντα. ὅθεν καὶ θεοὶ οἱ καθαροὶ τῇ καρδίᾳ τοῖς τῆς διανοίας ὀφθαλμοῖς ὁρᾶν. Ἀγαθὸν δὲ λέγεται παρὰ τὸ ἄγαν θεῖν, ἤγουν ἐφ’ ὃ ἄγαν θέομεν ἤτοι ἐφιέμεθα. Ἀγλαά · παρὰ τὴν αἴγλην· ἐφ’ οἷ τις ἀγάλλεται καὶ λαμπρύνεται. Ἄγγελος εἴρηται παρὰ τὸ εἰς ἀγγελίαν πέμπεσθαι ἐκ θεοῦ ἐπὶ γῆς· ἢ ἐξ οὐρανοῦ πρὸς ἄνθρωπον· διὰ τοῦτο καὶ εὐαγγελιστὴς εἴρηται διὰ τὸ εὖ ἀγγέλλειν ἡμῖν, ἤγουν καλόν· τὸ γὰρ εὖ, καλόν ἐστι. Ἄνθρωπος λέγεται διὰ τὰ ἄνω θρεῖν, ἤγουν ὁρᾶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "174",
+      "text": "ἢ πάλιν τὸ ἀνορθροῖ περιπατεῖν. Στάσις ἀναστάσις ἤγουν πάλιν ἀνάστασις. Ἀνάγνωσις · πάλιν γνῶσις. τὸ ἀνά, πάλιν [ἐστίν]. Ἀναγραφή · πάλιν γραφή. Ἄσκησις · διὰ τὸ ὡς ἀσκὸν νεκροῦσθαι τὸν ἀσκητήν. ὅρος δὲ αὐτῆς ὁ πόνος τῆς μαθήσεως. Ἀσθένειαν · παρὰ τὸ μὴ ἔχειν δύναμιν. Ἀσωτία · τὸ μὴ ὅν ἠς σωτηρίαν. σωτὴρ γὰρ τὸ σῶον τηρεῖν. Ἀταξία · τὸ μὴ ὅν ἐν τάξει καλός. Αἰγιαλός · ὁ ἐγγὺς τῆς ἁλὸς, ἤγουν τῆς θαλάσσης. Ἄκαιρον · τὸ παραίκηρον. Ἀναβίωσις · διὰ τὸ ἄνω βάσις, ἤγουν πάτησις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "175",
+      "text": "Ἀμφίβληστρον · διὰ τὸ ἀμφιβάλεσθαι. Ἄρχων · ὁ ἄρα ἔχων, ἤγουν πάντας ἔχων. Ἀρτοκόπος · διὰ τὸν τοῦ ἄρτου ἔχον κόπον. Ἀνεξικακία · διὰ τὸ ἄνεσθαι τὴν κακίαν. Ἀρετή λέγεται γὰρ τὸ ἀρέσκει τῇ ἀληθείᾳ· ἢ ἀρετὴ ἐκ τοῦ ἀρέσκεσθαι. Ἀκεστόν ἐστι τὸ ἰάσιμον· παρὰ τὸ ἄκεσθαι καὶ ἀνίκεσθαι τὸν ἀθεράπευτον. Ἄχος · ἀπὸ τοῦ μὴ διαχεῖσθαι· ὅθεν καὶ τὸ χαίρειν παρὰ τὸ διαχεῖσθαι. Ἄλογον · διὰ τὸ ἄμεινον τοῦ λόγου. Ἀμάραντον · παρὰ τὸ ἀμαρεῖν, ὅτι οὐκ ἐᾷ τὰ παρὰ πεφυκότα αὐτῇ μαρένεσθαι. Ἄρουρα · παρὰ τὸ ἄρα ὁίσθαι αὐτὴν γεωργουμένην. κυρίως δοὺς ι γροσπορὰν καὶ ὅρωσιν ἐπιτηδείαν. Ἀγέρωχος · ὁ ἀγγῦς / ἐγγῦς αὐχῶν. Αἰπόλος · παρὰ τὸ αἰγοπόλος ἤγουν αἶγας βόσκειν· ἢ ὁ περὶ τοῦ αἴπη κλούμενος, ὅ ἐστιν ὄρη. Ἄκριτον · τὸ ἀδιαχώρηστον. Ἄνηθον · διὰ τὸ ἄνω θεῖν, ἢ διὰ τὸ ἐν τάχει αὔξησυν. Ἄτεχνως · ἄδολως. δόλος γὰρ ἡ τέχνη. Ἀρνεῖσθαι · διὰ τὸ ἔρεσθαι τὰς χεῖρας ἐπὶ παραιτήσει. Ἀράχνη · παρὰ τὸ ἀναρριχᾶσθαι ἤρηται καὶ παρὰ τὴν ἀρεότητα. Ἀμᾶν ἡμᾶσθαι ἐπὶ τοῦ θηρίζειν παρὰ τοῦ ὁμοῦ ἐπισπᾶν. Ἀκτή · παρὰ τὸ κατάγνυσθαι τὰ κύματα. Ἀγνεία · παρὰ τὸ ἀγωνίαν εἰς τὸ καθειδρεύειν. Ἀγνεία · παρὰ τὸ ἀγωνίαν εἰς τὸ καθαρεύειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "176",
+      "text": "Ἄμπελος · παρὰ τὸ ἄνω πελάζειν. Ἀραί · παρὰ τὸ αἴρειν κακῶς. Ἀλύειν · παρὰ τὸ ἀπορεῖν καὶ ἐμπλάνη ἔχειν τὴν ψυχήν. Ἄρκος · ὅτι ἀπὸ τῆς ἄρκτου ἐγένετο. Ἀχλύς · ἡ ἄγαν δηλοῦσα καὶ ἀποκρύπτουσα. Ἄνεμοι · ἄμενοί τινες ὄντες. κατὰ μετάθεσιν στοιχείου· ὡς ἂνειν ἁ οὐχηρεμοῦντες· ἕως οὐδ’ ἐν τὸ αὐτὸ μένοντες. Ἀγρός · παρὰ τὴν ἄγραν. Ἄνεμος · διὰ τὸ ἀναμένειν καὶ πάλιν φυσᾶν. Ἀήρ · διὰ τὸ ἀείρειν, ὅ ἐστι κουφίζειν. Ἀστήρ · διὰ τὸ ἄστατον ἔχειν τὸν δρόμον. Ἀηδών · διὰ τὸ ἀεὶ ᾄδειν. Ἄκανθα · διὰ τὸ αἰκίζειν ἤγουν πλήττειν. Ἀστραπή · διὰ τὸ ἀστάτως καὶ ῥᾶον παύεσθαι. Αἰπόλος · ὁ ἐπὶ τὰ αἴπη [syllaba αἴ ex rasura] πολούμενος, ἄ ἐστιν ὅρη· οἷον αἰποπόλος· ἢ ὁ περὶ τὰς αἶγας ἀναστρεφόμενος· οἷον αἰγοπόλος. Ἄῤῥωστος · παρὰ τὸ μὴ ἔχειν ῥῶσιν. Ἀσθενής · παρὰ τὸ μὴ ἔχειν σθένος. Βίος λέγεται διὰ τὴν βίαν· διὰ τοῦτο καὶ βέλος διὰ τὸ βίαν βάλλεσθαι. Βίβλος · διὰ τὸ τοὺς βίους βάλεσθαι ἐν αὐτῇ· ἢ διὰ τὸ βαβαί· ἢ διὰ τὸ βέβιον [syllaba βι ex emendatione.] Βωμός · διὰ τὸ βαίνειν τὸ αἷμα ἐν αὐτῷ. Βροχή · διὰ τὸ βραχέως θεῖσθαι καὶ χέεσθαι. Βοτάνη διὰ τὸ βιαίως τίνεσθαι, ἤγουν αὔξισιν. Βάπτισμα λέγεται διὰ τὸ τοῦ βίου πταῖσμα. Βαΐν · διὰ τὸ βίαν τέλλεσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "177",
+      "text": "Βουνός · διὰ τὸ βαίνειν τὴν ἄνω. Βοῤῥᾶς · ἴσως διὰ τὸ βίᾳ ῥεῖν καὶ ῥάσσεσθαι. Βροντή · ὡς οὖσα βαρεῖα τῇ φωνῇ. Βοῦς · διὰ τὸ βίαιον τῆς δυνάμεως. Βόλος · ὅτι βαλλόμενος λύεται. Βώρδων · παρὰ τὸ τὰ βαρεία δύνασθαι. Γάμος · διὰ τὸ τὴν γῆν ἅμα γίνεσθαι. Γῆν · διὰ τὸ γένος τῶν ἀνθρώπων ἐξ αὐτῆς εἶναι. Γραφεῖαν · διὰ τὸ ἐπιγραφῆ ὅν. Γηροκομεῖον · διὰ τὸ τοὺς γέροντας μένειν. Δημοσθένης · διὰ τὸ εἶναι τοῦ δήμου σθένος, ἤγουν δύναμις. Δημιουργός · ὁ δειμάμενος τὰ ἔργα, ἤγουν ποιῶν. Δάκρυον · ὡς ἐπίπαν τὸ ἐκ δέους ἢ δέοντος ἐκκρινόμενον. Δειλία · ἐκ τοῦ δέους λίαν. Δικιός ἐστιν ὁ ἐκ τοῦ τὸ δίκαιον ἀγαπᾶν. Δημοκράτης · ὁ τὸ δῆμον κρατῶν. Δικανικός · διὰ τὸ τὰς δίκας νικῶν. Δαπάνη · τοῦ δέοντος πενία ἤγουν ἐλάττωσις. Δράκων · διὰ τὸ δράσσασθαι κακῶς. Διδάσκαλός ἐστιν ὁ διδοὺς τὸ καλόν. Δένδρον · διὰ τὸ δεόντως ἵδρασθαι. Δόλος ἐστὶ διὰ τὸ δελεάζειν. Ἐκκλησία · διὰ τὸ ἐκλελεγμένον εἰς ἕν. Ἐπιτίμιον · τὸ ἐπὶ τιμὴ ὑπάρχον. Εὖρος · διὰ τὸ πλατύ· εὔρος γὰρ πλάτος. Ἐξόδιον · διὰ τὸ ἔξω ὂν βίου. Ἔρημος · διὰ τὸ ἠρεμεῖν ἤγουν ἡσυχάζειν. Εὐκτήριον · διὰ τὸ τὸ καλὸν τηρεῖν. Εὐχή · διὰ τὸ εὖ ἤγουν καλὸν ἔχειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "178",
+      "text": "Ἐνύπνιον · διὰ τὸ ἐνύπνω καὶ μόνον. Ἐσπέρας · ὁ τῆς ἐώας ἤγουν τῆς πρωΐας πέρας. Ἐρπετόν · διὰ τὸ ἔρπεσθαι πάνυ. Ζωγράφος · ὅτι ζῶα μιμούμενος γράφει. Ζώον · διὰ τὸ ἐκ ζωῆς. Ἥλιος · διὰ τὸ εἰλεῖσθαι τῷ δρόμῳ· ἢ διὰ τὸ ἴεσθαι ἤγουν φέρεσθαι λίαν. Θυσιαστήριον · διὰ τὰς θυσίας τηρεῖν. Θυμιατήριον · διὰ τὸ θυμίαμα τηρεῖν. Ἰατρεῖον · διὰ τὸ τὴν ἴασιν τηρεῖν. Ἱέραξ · διὰ τὸ ἴεσθαι ἤγουν φέρεσθαι τῷ ἀέρι ῥαδίως. Ἰερεῦς · ἐπιδὴ ἴεται ῥᾶον τὸ εὖ, ἤγουν φέρει εὐχέρως τὸ καλόν. Κόσμος · διὰ τὸ κεῖσθαι ἅμα. Κανδῆλυ · διὰ τὸ δῆλον ποιεῖν καὶ φαίνειν. Κοινωνία · διὰ τὸ ἑνίζεσθαι καὶ ἀλλήλοις, ἤγουν ἔν εἶναι. Καλαμάριν · διὰ τὸ τοὺς καλάμους αἴρειν. Κόπρος · τοῦ κόπρου ῥύσις ἢ ῥεῦσις. Κόμην · διὰ τὸ κομᾶν ἤγουν θάλειν τὴν τρίχα. τὸ κο μικρόν. Κάπηλος · πηλὸν τὸν οἶνον λέγουσιν Ἴωνες, τὸν πάλλοντα καὶ βλάπτοντα τὰς φρένας. Κτῆνος · διὰ τὸ κτένεσθαι ἤγουν σφάζεσθαι. Κύων · εἰς τὸ κράζειν ὤν. Κάμηλος · διὰ τὸ κάμνειν μέλη. Κιναδός · ὁ κινὸν ἑαυτῷ ἠδονήν. Κειναιδός · ὁ κενὸς αἰδοῦς. τὸ κει καὶ τὸ ναι δίφθογγος. Κώλυσις · διὰ τὸ κωλύειν τὸν σκοπὸν τοῦ καλοῦ. Καρδία · διὰ τὸ κραδένεσθαι ἤγουν σείεσαι περὶ τότε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "179",
+      "text": "Κληρονόμος · ὁ τὸν κλήρον νεμόμενος. Κάλλος · διὰ τὸ πρὸς αὐτὸ καλεῖν. Κόρηδα · διὰ τὸ κόρον ἐμποιεῖν τῇ δέᾳ. Κῆπος · διὰ τὸ κεῖσαι καὶ γῆμεν. Καρπός · τὸ καίνεον παντὸς πράγματος· ἢ καιροῦ παντὸς ἴδιος καρπός. Κλάδος · καλὸν λίαν εἶδος. Κόραξ · διὰ τὸ τοῖς κοινοῖς ῥάξαι. Κλίμακα · διὰ τὸ καλεῖν εἰς μήκος. Κάμηλος · κατὰ συγγένειαν τὸ ρ πρὸς τὸ λ , κάμηρός τις, ἀπὸ τὸ τοὺς μηροὺς κάμπτειν ἐν τῷ καθέζεσθαι. οὕτως Ἠράκλειτος. Λαιμός · παρὰ τὸ λάειν ὅ ἐστιν ἀπόλαυσιν. Λοίδορον · διὰ τὸ λύειν τὸ δῶρον τῆς ἀγάπης. Λιμήν · διὰ τὸ λίαν μένειν καὶ ἀχειμάστως. Λύκος · λίαν κακός. Λίθος · λίαν θέσις. Λύχνος · διὰ τὸ λύειν τὸν ὅγμον ἤγουν τὸ σκότος. Λείπει · διὰ τὸ λεῖπον. Λογωθέτης · ὁ τοὺς λόγους ἀποτίθει. Λουτρόν · διὰ τὸ λύειν τὸν ῥῦπον. Λάχανα · διὰ τὸ λίαν χένον ἤγουν ἐξάνυκτον τοῖς ὀφθαλμοῖς. Μήνη · ἡ σελήνη· ἀπὸ τοῦ μὴ μένειν ἐν αὐτῷ, ἀλλὰ ποτὲ μὲν μειοῦσθαι, ποτὲ δὲ αὐξάνεσθαι. Μόρος · διὰ τὸ μὴ ὁρᾶν τὸ συμφέρον. Μοναχός · διὰ τὸ μόνος θεῷ πρὸς εὐχόμενος. ἢ ὁ μόνος ἔχων τὸ πάν τοιον ἤτι καλόν. Μήνιγγες · παρὰ τὸ μένειν ἐν αὐτοῖς τὸν ἐγγέφαλον. Μύσταξον · ἐν ᾧ οἱ μυκτῆρες στάζουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "180",
+      "text": "Μονογενῆς · ὁ μόνος τῷ γένει ὄν. Μελέτη · διὰ τὸ μέλλον τι ἤτοι τὰ μέλλοντα μεριμνάν. Μάχαιρα · διὰ τὸ μάχεσθαι ῥᾶον· ἢ διὰ τὸ μάχεσθαι πάσῃ φύσει καὶ τόπον ἐμπιῶν βίᾳ. Μυστήριον · κατὰ τὸ μύειν κατ’ αἴσθησιν νοῦ, καὶ τηρεῖν τὸ νοούμενον· κατὰ δὲ ὅρον ἡ ἀϊδιερέτος ἢ ἀδιαιρέτος γνῶσις τῶν παρὰ πολλοῖς ἀγνοουμένων. Μάρμαρος · λέγεται διὰ τὸ μαίρω. Μάχαιρα · διὰ τὸ χαίρειν τοῖς αἵμασιν. Μάρμαρον λέγεται διὰ τὸ μέρω· ἢ τὸ μαρμαίρειν ἤτοι στίλβειν. Μηρός · παρὰ τὸ μερίζω· ἔνθα μεμέρισται τὸ σῶμα. ὡς Ἡρωδιανός. Μήδεα · τῶ αἰδοῖα· παρὰ τὸ μέδειν τῆς γενέσεως· καὶ μέξεται. Μαλακός · ὁ μάλα ἤγουν καλός πάνυ. Μέλαν · διὰ τὸ μὴ λάμπειν. Μηλωτή · δορὰ προβάτου· μῆλα γὰρ παρὰ τοῖς σοφοῖς τὰ πρόβατα λέγεται. Μάρτυς · παρὰ τὸ μαίρω τὸ σημεῖον τὸ λαμπρύνω· μάρτυς γὰρ ὁ τὰ ἀφανῆ λέγων καὶ λαμπρύνων· ἐκ τούτο γίνεται καὶ μάρμαρον. Νότος · τάχα διὰ τὸ νοτίζον ἢ τὴν νοτίαν αἴρειν. Νήπιος · ἥπιος γὰρ ὁ πρᾶος· ἡ νηέπιος, ὁ λέγειν μὴ δυνάμενος. Νεφέλη · διὰ τὸ τὰ νάματα ἀφελεῖν ἐκ τῆς θαλάσσης· ἢ ταῦτα φέρειν. Νεοκόρος · ὁ τοῦ ναοῦ παῖς ἤγουν κορεῖν κοσμεῖν κοῦρος. Νερόν · διὰ τὸ νεωστεῖ ἀεῖ ῥέειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "181",
+      "text": "Νάμα · διὰ τὸ νομὰς ἔχειν ἅμα εἰκῶς. Νυμφίος · διὰ τὸ νῦν ε. ἠ μ φιάσθαι τὸ νομίζεσθαι καλῶς. Νυμφίω̄ς · διὰ τὸ νῦν ἠμφιᾶσθαι καλῶς. Νόμισμα · διὰ τὸ νομίζεσθαι τί μηδὲ ὄν. Νοτάριος · ἢ διὰ τὸ νόμα Ῥωμαϊστί ἐστιν ἢ ὁ νοήματα τηρῶν. Νείφω · νέφος γὰρ, καὶ νένοφεν ὁ μέσος παρακείμενος παρὰ Ἀριστοφάνει, καὶ τὸν νεφέλη διδάσκει. Ἀπολλώνιος δὲ ὁ τοῦ Ἀρχιβίου καὶ τὸ νείφο κατὰ τροπὴν ἔλεγε γεγενεῖσθαι· κυρίως γάρ φησιν νείφειν εἴρηται ἀπὸ τῆς τοῦ ὕδατος προφορᾶς· καὶ νηφάλι θύειν εἴρηται, ὅταν καὶ τὸ ὕδωρ σπένδωσιν· εἰ μέν τι ἐκπέπτωκεν ἀπ’ αὐτοῦ καὶ τὸ νιφὰς καὶ τὸ νιφετὸς διὰ τοῦ ι , οὐ θαῦμα. καὶ γὰρ ἀπὸ τοῦ λείβω λιβὰς, καὶ ἀπὸ τοῦ νείφων νιφὰς, καὶ ἀπὸ τοῦ πείθω πιστὸς, καὶ ἀπὸ τοῦ λείφω συναλιφή. Ξέστης · διὰ τὸ ἀπεξεσμένον τοῦ εἴδους καὶ τὸ ἀκριβὲς τοῦ μέτρου διὰ τὸ ξέειν ῥᾶον. Ξύλον · διὰ τὸ ξέεσθαι καὶ λεαίνεσθαι, ἢ διὰ τὸ ξηρὰν ὅλην εἶναι. Ὄρνεα · διὰ τὸ τὰ ὅρη ναίειν ἤγουν οἰκεῖν. Ὁψώνιον · διὰ τὸ ὅψον ἤγουν βρῶμα ὡ ’νεῖσθαι. Ὅροι · διὰ τὸ δι’ αὐτῶν ὁρῶν τὰ πράγματα. Ὀλοκοτίνιν · διὰ τὸ τὸν ὅλον κότον ἐν αὐτῷ. Οὐρανός εἴρηται διὰ τὸ ὁρᾶσθαι ἄνω· ἢ ὅρασις ἄνω. Οἷκος · διὰ τὸ ὑπό τινος κοσμῆσθαι. Ὅφις · ἐκ τοῦ φεῖσαι ἤγουν λαλήσαι τῇ Εὔᾳ. Ὁψάριον · ὅψον αἰρόμενον ἀπὸ ὕδατος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "182",
+      "text": "Οἰκονόμος · ὁ τὸ οἱκεῖον νέμων ἐκάστῳ. Ὅρη · διὰ τὸ ὀρᾶσθαι μήκοθεν· ἢ τοῦ ὁρᾶν τὰ ἠ μήκοθεν δι’ αὐτῶν. Ὄνος · ἐκ τοῦ οὐ νοεῖν ἠωνητόν. Οἷνος · παρὰ τὸ ὁνῶ τὸ σημαίνον τὸ εὐφραίνω. Ὀρφανός · παρὰ τὴν ὀρφνήν, τὸ σημαῖνον τὸ σκότος· ἤγουν ὁ ἐσκοτισμένος. Παιδίον · διὰ τὸ παιδείας δέεσθαι. Πατήρ · διὰ τὸ τοὺς παῖδας τηρεῖν. Πόρνος · διὰ τὸ πονηρὸν ἔργον ποιεῖν. Πινάκιν · διὰ τὸ τῆπειν ἢ ὑπουργεῖν. Παίνη · διὰ τὸν πόνον εἰσάγειν καὶ μόχθον αὐτῷ τῷ κεκτημένῳ. διὸ ἡ Σοφία· ἐὰν κακὸς γένῃ, μόνος ἀντλήσεις κακά. Πίθηκος · ὅτι τὸ πὰν ἤθικέει. Πηγή · διὰ τὸ ποτάν. Πήγανον · διὰ τὸ πήσειν τὴν γονὴν ἥγουν (sic) τὸν γόνον. Περιστερά · ὅτι στεῤῥὰ ποιεῖται τὰ νος ς ία ἐαυτῆς. Πτωχός · διὰ τὸ πτώμα (sic) ἐκ πλούτου ἔχειν. Πένης · διὰ τὸν πόνον τῆς ζωῆς. Παλαιόν · διὰ τὸ ἐκ πάλαι ἤγουν ἐκ χρόνου εἶναι. Πενθερός · ὁ τὸ πένθος αἴρων. Ποταμός · ὁ ἔχον ποτὸν καὶ ἄμμον. Πρεσβύτης · ὁ πρεσβευτὴς, ἢ ὁ περισσῶς βιώσας. Πόρτα · διὰ τὸν πόρον τηρεῖν. Πόλις · διὰ τὸ ἐκ πολλῶν συνίστασθαι. Πέτρα · διὰ τὸ παίειν τρανῶς. Πλίνθος · πήλινος θέσις· πηλὸς δὲ, διὰ τὸ πάνυ λεαίνεσθαι λίον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "183",
+      "text": "Πύργος · διὰ τὸ ὑπὲρ γῆν εἶναι ἤγουν ἐπάνω φαίνεσθαι. Πόλεμος · παρὰ τὸ τὰς πόλεις μειοῦν. Ῥῶσις · ὑγία ἐκ τούτο ἀρωστεία κατὰ στέρησιν ὑγιείας ἢ δύναμις καὶ τὸ ῥωναλέοι. Ῥίζα · διὰ τὸ ῥᾶον ζῆν. Σελήνη εἴρηται παρὰ τὸ σέλας ἔχειν· ὅθεν καὶ ἐνιαυτὸς ὁ ἐνιαυτός ὁ ἑνὸς ὁ ἀεῖ νεάζων. οὕτως Ἡρακλείδης. Σωφροσύνη · διὰ τὸ σῶα φρονεῖν. Σολοικισμός · σώ λόγου αἰκισμός. Σωτηρία · τὸ σῶον τηρηθεῖναι. Σῶον · μὴ ὅν ἀλλ’ ὑπόμνημα. Σῶμα · διὰ τὸ σῶον αἶμα. Σωφία · διὰ τὸ σῶ ἀφʹ ἤγουν λαλεῖν. Σελήνη · διὰ τὸ ἐν νυκτὶ φαίνειν. σέλας γὰρ οἱ παλαιοὶ τὸ φῶς ἐκάλεσαν. Στρουθίον · διὰ τὸ στεῤῥῶς θέειν ἤγουν ὁρᾶν· ἢ διὰ τὸ τρέχειν τὸν ἀέρα. Σχολαστικός · διὰ τὸ σχολάζειν τοῖς ἀστικοῖς ἢ τῷ δικαίῳ. Σχολίον · διὰ τὸ σχολάζειν τῇ διδαχῇ. Σίκριτον · διὰ τὸ σείειν τὰς κρίσεις. Σπόγγος · διὰ τὸ σποδὴ γομοῦσθαι. Σύμβουλον · διὰ τὸ συμβάλλεσθαι. Στράτα · διὰ τὸ ἱσταμένην ῥέειν. Σίνιπι · παρὰ τὸ σίνεσθαι τοὺς ὦπας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "184",
+      "text": "Τραπεζήτης · διὰ τὸ τὴν τροπὴν ζητεῖν ἀεῖ καὶ οὐ τῶ ὀρθόν. Τρίχες · διὰ τὸ τριχὴν χέεσθαι πάρεξ τῆς ὄψεως, ἔνθεν κᾀκεῖθεν καὶ ὄπισθεν. Τράπεζα · διὰ τὸ ἀεὶ τρέπεσθαι· ἤγουν συστέλλεσθαι. Τρίβιδην · διὰ τὸ τρίβειν βίᾳ. Τρυγών · καθὅ τηρεῖ τὴν γόνην. Ὑπόδημα · διὰ τὸ ὑποκάτω ὅλον δῆμα. Ὑμνῳδία · ὕμνος μετ’ ᾠδῆς. Φίλιμα · τὸ φιλοῦν καὶ τὸ φιλούμενον ἅμα. Φυτόν · διὰ τὸ φύειν τὸ ὅν ἤγουν τὸ ὑπάρχον. Φάραξ · διὰ τὸ φέρεσθαι ὀξέως. Φιλόσοφος · διὰ τὸ φιλεῖν τὴν σοφίαν. Χάρτις / χάρτης · διὰ τὸ τοὺς χαρακτήρας. Χειμών · διὰ τὸ χέειν μονίμως ἐπὶ μῆνας εʹ ἢ ϛʹ. Χρυσοχόος · διὰ τὸ τὸν χρυσὸν χωνεύειν καὶ χέειν. Χόρτος · ὅτι ἐν τῇ χέρσῳ τείνεται. Χωρίον · διὰ τὸ ἐν τόπῳ εἶναι χωριτόν. Χείμαῤῥος · διὰ τὸ χέεσθαι εὐμαρῶς ἤγουν εὐκόλως, ἢ διὰ τὸ τὸν χειμὸν ἀρεῖν. Χεῖρος · διὰ τὸ τὴν χύσιν ἐρᾶν καὶ ῥαφᾶν. Χελιδών · χείλη ἠδέα· ἢ διὰ τὸ τὰ χείλη δονεῖν ἤγουν σείειν. Ψαλμῳδία · ψαλμὸς μετ’ ᾠδῆς λεγόμενος. Ψυχή · διὰ τὸ ἐμψύχειν καὶ ζωογονεῖν τὸν νεκρόν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "tme-af",
+      "title": {
+        "english": "Anthologion",
+        "ancient_greek": "Ἀνθολόγιον"
+      },
+      "url_slug": "orion-of-thebes-anthologion-tme-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/orion-of-thebes/anthologion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-anthologion-tme-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-anthologion-tme-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-anthologion-tme-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-anthologion-tme-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/anthologion.epub"
+      }
+    },
+    {
+      "eul_wid": "tme-aa",
+      "title": {
+        "english": "Etymologies (Complete)",
+        "ancient_greek": "Ἐτυμολογικὸν Ἔργον"
+      },
+      "url_slug": "orion-of-thebes-etymology-aa-tme-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/orion-of-thebes/etymology-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymology-aa-tme-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymology-aa-tme-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymology-aa-tme-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymology-aa-tme-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/etymology-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "tme-ac",
+      "title": {
+        "english": "Etymologies (Selection B)",
+        "ancient_greek": "Ἐτυμολογικὸν Ἔργον"
+      },
+      "url_slug": "orion-of-thebes-etymology-ac-tme-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/orion-of-thebes/etymology-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymology-ac-tme-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymology-ac-tme-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymology-ac-tme-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymology-ac-tme-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/etymology-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "tme-ad",
+      "title": {
+        "english": "Etymologies (Selection C)",
+        "ancient_greek": "Ἐτυμολογικὸν Ἔργον"
+      },
+      "url_slug": "orion-of-thebes-etymological-ad-tme-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/orion-of-thebes/etymological-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymological-ad-tme-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymological-ad-tme-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymological-ad-tme-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymological-ad-tme-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/etymological-ad.epub"
+      }
+    },
+    {
+      "eul_wid": "tme-ae",
+      "title": {
+        "english": "Etymologies (Selection D)",
+        "ancient_greek": "Ἐτυμολογικὸν Ἔργον"
+      },
+      "url_slug": "orion-of-thebes-etymological-ae-tme-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/orion-of-thebes/etymological-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymological-ae-tme-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymological-ae-tme-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymological-ae-tme-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymological-ae-tme-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/etymological-ae.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "lvi-aa",
+      "title": {
+        "english": "Byzantine Little Commentary",
+        "ancient_greek": "Μικρὸν Βυζαντινὸν Ὑπόμνημα"
+      },
+      "url_slug": "commentary-on-dionysius-thrax-little-commentary-lvi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/commentary-on-dionysius-thrax/little-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax-little-commentary-lvi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax-little-commentary-lvi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax-little-commentary-lvi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax-little-commentary-lvi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/little-commentary.epub"
+      }
+    },
+    {
+      "eul_wid": "tqa-aa",
+      "title": {
+        "english": "Commentary-the Anonymous Work-the Declension of Nouns",
+        "ancient_greek": "Περὶ κλίσεως ὀνομάτων"
+      },
+      "url_slug": "anonymous-greek-grammarian-declension-nouns-tqa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-greek-grammarian/declension-nouns",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-declension-nouns-tqa-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-declension-nouns-tqa-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-declension-nouns-tqa-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-declension-nouns-tqa-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/declension-nouns.epub"
+      }
+    },
+    {
+      "eul_wid": "sie-aa",
+      "title": {
+        "english": "Grammatical Art",
+        "ancient_greek": "Γραμματικὴ Τέχνη"
+      },
+      "url_slug": "dositheus-the-grammarian-art-sie-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dositheus-the-grammarian/art",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dositheus-the-grammarian-art-sie-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dositheus-the-grammarian-art-sie-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dositheus-the-grammarian-art-sie-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dositheus-the-grammarian-art-sie-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dositheus-the-grammarian/art.epub"
+      }
+    },
+    {
+      "eul_wid": "qnq-ay",
+      "title": {
+        "english": "On Singular Words",
+        "ancient_greek": "Περὶ μονήρους λέξεως"
+      },
+      "url_slug": "herodian-of-alexandria-singular-words-qnq-ay",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/singular-words",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-singular-words-qnq-ay.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-singular-words-qnq-ay.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-singular-words-qnq-ay.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-singular-words-qnq-ay.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/singular-words.epub"
+      }
+    },
+    {
+      "eul_wid": "qnq-an",
+      "title": {
+        "english": "On the Expression of Verses",
+        "ancient_greek": "Περὶ λέξεως τῶν στίχων"
+      },
+      "url_slug": "herodian-of-alexandria-expression-verses-qnq-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/expression-verses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-expression-verses-qnq-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-expression-verses-qnq-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-expression-verses-qnq-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-expression-verses-qnq-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/expression-verses.epub"
+      }
+    },
+    {
+      "eul_wid": "vmw-ar",
+      "title": {
+        "english": "Scholia on Iambi (Narrative Summaries)",
+        "ancient_greek": "Σχόλια εἰς Ἴαμβον"
+      },
+      "url_slug": "callimachus-scholia-iambos-ar-vmw-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/iambos-ar",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-iambos-ar-vmw-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-iambos-ar-vmw-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-iambos-ar-vmw-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-iambos-ar-vmw-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/iambos-ar.epub"
+      }
+    },
+    {
+      "eul_wid": "vmw-ac",
+      "title": {
+        "english": "Scholia-Minor Epic and Elegiac Poems",
+        "ancient_greek": "Σχόλια εἰς Μικρὰ Ἐπικὰ καὶ Ἐλεγειακὰ Ποιήματα"
+      },
+      "url_slug": "callimachus-scholia-minor-epic-elegiac-vmw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/minor-epic-elegiac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-minor-epic-elegiac-vmw-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-minor-epic-elegiac-vmw-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-minor-epic-elegiac-vmw-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-minor-epic-elegiac-vmw-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/minor-epic-elegiac.epub"
+      }
+    },
+    {
+      "eul_wid": "tbk-ab",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "horapollo-the-grammarian-testimonies-tbk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/horapollo-the-grammarian/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/horapollo-the-grammarian-testimonies-tbk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/horapollo-the-grammarian-testimonies-tbk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/horapollo-the-grammarian-testimonies-tbk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/horapollo-the-grammarian-testimonies-tbk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/horapollo-the-grammarian/testimonies.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/orion-of-thebes/etymology-ab",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymology-ab-tme-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymology-ab-tme-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymology-ab-tme-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymology-ab-tme-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/etymology-ab.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

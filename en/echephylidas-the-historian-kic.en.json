@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "kic",
+  "auth_slug": "echephylidas-the-historian",
+  "name": {
+    "english": "Echephylidas the Historian",
+    "ancient_greek": "Ἐχεφυλλίδας ὁ ἱστορικός"
+  },
+  "seo_h1": "Echephylidas on Proper Names and Hellenistic Etymology",
+  "seo": {
+    "browser_title": "Echephylidas the Historian on Eulogikon Greek Archive",
+    "meta_title": "Echephylidas Ancient Greek Historical Works and Fragments",
+    "meta_description": "Echephylidas, a Hellenistic historian of the 4th to 3rd centuries BCE. Surviving historical fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Echephylidas the Historian was an obscure Greek historian of the early Hellenistic period, active in the 4th or 3rd century BCE. No biographical details about his life survive. The fragmentary evidence suggests he was active after the time of Alexander the Great, as one surviving reference pertains to events in Caria.</p>\n<p class=\"research-text\">His only known work is <strong>On Rhodes</strong>, a historical text that survives only through citations by later authors. He is significant as a source of fragmentary historical information preserved within these works. The geographer Strabo quotes his <strong>On Rhodes</strong> concerning the founding of the city and the territorial divisions among its three ancient cities: Lindos, Ialysos, and Kamiros.</p>\n<p class=\"research-text\">This places Echephylidas within the tradition of local historians, or horographers, who documented regional histories and foundation myths. His fragments contribute to the modern understanding of Rhodian tradition and local historiography.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "kic-aa",
+      "title": {
+        "english": "Fragments on Proper Names",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ὀνομάτων Κυρίων"
+      },
+      "url_slug": "echephylidas-the-historian-proper-names-kic-aa",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/echephylidas-the-historian/proper-names",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/echephylidas-the-historian-proper-names-kic-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/echephylidas-the-historian-proper-names-kic-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/echephylidas-the-historian-proper-names-kic-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/echephylidas-the-historian-proper-names-kic-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/echephylidas-the-historian/proper-names.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/echephylidas-the-historian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/echephylidas-the-historian-kic.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/echephylidas-the-historian-kic.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/echephylidas-the-historian-kic.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/echephylidas-the-historian-kic.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,1250 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "bqs-ah",
+  "eul_aid": "bqs",
+  "author_slug": "antiphon-of-athens",
+  "work_slug": "sedition-defense",
+  "url_slug": "antiphon-of-athens-sedition-defense-bqs-ah",
+  "author": {
+    "english": "Antiphon of Athens ",
+    "ancient_greek": "Ἀντιφῶν ὁ Ἀθηναῖος"
+  },
+  "title": {
+    "english": "On Sedition and Political Defense",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Fragments of Antiphon of Athens on Eulogikon Archive",
+    "meta_title": "Classical Fragments of Antiphon of Athens in Ancient Greek",
+    "meta_description": "Fragments of Antiphon's oration on sedition and political defense. Classical Athenian oratory. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Sophist",
+      "href": "/affiliations/sophist"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">On Sedition and Political Defense is a forensic oration composed by the Athenian orator Antiphon for his own trial in 411 BCE. He faced charges of treason and sedition for his central role in designing and implementing the oligarchic regime of the Four Hundred, which briefly overthrew the Athenian democracy during the Peloponnesian War. The speech, delivered before a restored democratic court, constitutes his elaborate defense against accusations of betraying the city to Sparta and subverting its constitutional order. Despite his arguments, Antiphon was convicted and executed. The work survives not as a complete text but in 132 fragmentary excerpts, primarily preserved for their rhetorical merit in later lexicons and commentaries, most notably the Lexicon of the Ten Orators by the Byzantine scholar Harpocration.</p>\n<p class=\"research-text\">The extant fragments reveal a sophisticated legal and political defense. Antiphon directly counters the charge of acting against the state&#x27;s interests, arguing instead that his participation in the oligarchic revolution was a necessary and patriotic act during a period of extreme military and political crisis. He asserts that his motives were rooted in a concern for the city&#x27;s salvation, not in personal malice or financial gain. The speech employs advanced techniques of forensic rhetoric, including arguments from probability and careful character portrayal, as Antiphon seeks to distance himself from the worst excesses of the short-lived regime and justify the constitutional change as a pragmatic response to emergency. The historian Thucydides, a contemporary, later praised this speech as the finest defense ever made in a capital trial, a judgment that secured Antiphon&#x27;s enduring reputation as a master logographer and rhetorician. These fragments provide invaluable evidence for the development of Attic oratory and offer a rare, partial perspective from a leading intellectual of the defeated oligarchic faction, illuminating the intense political rhetoric and legal strategies employed during one of Athens&#x27; most profound constitutional crises.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1-6t",
+      "text": "ΠΕΡΙ ΤΗΣ ΜΕΤΑΣΤΑΣΕΩΣ Στασιώτη ς· Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "ἐν τῷ περὶ τῆς μεταστάσεως· περὶ τοίνυν ὧν Ἀπόληξις κατηγόρηκε ν , ὡς στασιώτης ἦ 〈καὶ〉 ἐγὼ καὶ ὁ πάππος ὁ ἐμό ς. ἔοικε νῦν ὁ ῥήτωρ ἰδίως ἐπὶ τοῦ δορυφόρου κεχρῆσθαι τῷ ὀνόματι· ἐν γοῦν τοῖς ἑξῆς φησιν ὅτι· οὐκ ἂν τοὺς μὲν τυραννοῦντας ἐδυνήθησαν οἱ πρόγονοι κολάσα ι , τοὺς δὲ δορυφόρους ἠδυνάτησα ν. Harp. [ὡς αἱρεθεὶς] ἀρχ]ὴν ἄρξαι χρ]ήματα πολ λὰ] διεχείρισα κ]αὶ εὔθυναί μοι ἦσ]αν ἃς ἐδεδοίκε]ιν ἢ ἄτιμος ἦ]ν ἢ κακόν τι ὑ]μᾶς εἰργα σ]άμην ἢ δίκ]ην ἐπιρρέ π]ουσαν ἐδε δοίκ]ειν; οὐ δῆ τα τοῦ]τό γε ἐπεὶ οὐδ]έν μοι ἦν τού]των.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a",
+      "text": "Ἀλλ’ ὡς χ]ρήματα ἀ φείλεσθε ἐμοῦ; ἀλ]λ’ ὡς τῶν πρ]ογόνων τῶν] ἐμῶν κα κόν] τι εἰργα [σμένων ἐμὲ] [ἐτιμωρήσα] [σθε; τοιούτων] [γάρ τινες ἕνεκ]α ἄλλης τινὸς πολιτείας ἢ τῆς καθεστη κυίας ἐπιθυ μοῦσιν, ἵνα ἢ ὧν ἠδίκη σαν δίκην μὴ δῶσιν ἢ ὧν ἔ παθον τιμω ρῶνται καὶ αὖ θις μηδὲν π[ά σχωσιν· ἀλλ’ ἐ μοὶ τοιοῦτον οὐδὲν ἦν. Ἀλ λὰ μὲν δὴ λέ γουσιν οἱ κα τήγοροι ὡς συν έγραφόν τε δί κας ἄλλοις καὶ τὸ εʹ ἐκέρδαι νον ἀπὸ τού του. Οὐκοῦν ἐν μὲν τῆι ὀλι γαρχίαι οὐκ ἂν ἦν μοι [τ]οῦτο, ἐ]ν̣ δ̣[ὲ τῆι δη μο]κρα[τίαι ἰ δί]αι ὁ κρ[ατῶν εἰμι ἐγώ, ἐκ [δὲ τοῦ λέγειν ἐν μὲν τῆι ὀλι γαρχίαι οὐδε νὸς ἔ̣μ[ελλον ἄξιος ἔσεσθα[ι, ἐν δὲ τῆι δη μοκρατίαι πολλοῦ; φέρ[ε δὴ πῶς εἰκό[ς ἐστιν ἐμὲ ὀλ[ιγαρχίας ἐπι θυμεῖν; πότ[ε ρον [ταῦτ]α ἐκ λογίζεσθαι οὐχ οἷός τ’ εἰ[μὶ ἢ οὐ γιγνώ σκειν τὰ λ[υσι τελοῦντ]α ἐ μαυτῶι [μόνος Ἀθη[ναίων; ξοις ἐδόκει μὰ τοὺ]ς θεοὺς τοὺς Ὀλυ]μπίους οὐ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1b",
+      "text": ".. ε]ἴ γε ὀρθῶς ... σκοπεῖσθε .. ἐπ]ειδὴ Θηρα μέ]νης, ὃς ἐμοῦ κατ]ηγόρησεν ...... εν ἐν τῆι βο]υλῆι Ἐ ...... ς οὑτοσὶ ...... ρυς δι ...... ν ἐκεῖ κατηγ]ορήκει ...... οὑ]τοσὶ ...... στον ...... ων ...... εινα ὁ πα—(desunt versus septem) σκε .. νυν .. δικ .. μη .. ειπο .. ανε .. ριον .. ξαιο .. οιον .. τουτ .. σαυμ .. ρον .. εμεγ .. ειος .. νηθ .. ναια̣ .. τουτο .. ... φο . υ duarum columnarum fragmenta quarum alterius exitus versuum, alterius initia servata sunt. .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1c",
+      "text": ".. νη .. ... δου .. υ̣ρ ... πειδηδε ... ε]ἰργασά μην οὐ τέχνη ξηολασαρ .... ουτο . ......... .... νω ... .... ωτης .... ρχο ... .... αρχ ... ........ ν ... .. ν̣ φερ .. ... κειυμιν .... ρυνιχος η πει ... τρατος δι ... καλα. ο .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1d",
+      "text": "... τοκ .... σεν ... τους ... δ̣ρ̣ε̣ς̣ ... καιγυ ... καιπαι ... μελλον ... σθαιυμ̣ ... οτιαπ ... σκονη ... εξοντου .. μυνει ... λ̣ο̣μ̣ε̣θ̣ ... πουτιν ... κτι ... ωι εργονε ... Versuum initia servata sunt, priores septem perierunt. διαστῆσαι ἀντὶ τοῦ διαταράξαι καὶ οἷον ἀδύνατον ποιῆσαι Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "ἐν τῷ π. τ. μεταστ. Harp. Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "ἐν τῷ περὶ τῆς μεταστ.· καὶ τοὺς ἐμποδὼν ἐκολάσατ ε, ἀντὶ τοῦ τοὺς ἐμπεσόντας. Harp. ἐμποδώ ν; ἐπεσκήψατο — —λέγεται δὲ ἐνίοτε κατὰ τὸ σπάνιον καὶ ἐπὶ τοῦ ἐγκαλέσαι φόνου, ὡς Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "ἐν τῷ π. τ. μεταστ. Harp. Ἠετιώνει α· Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "ἐν τῷ π. τ. μεταστ. Harp. τετρακόσιο ι· Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "ἐν τῷ π. τ. μεταστ. Harp. ΠΕΡΙ ΑΝΔΡΑΠΟΔΙΣΜΟΥ Ἐπειδὴ γὰρ ἀπῳκίσθην Ἀθήναζε καὶ ἀπηλλάγην τῆς κληρουχία ς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "Phot. lex. 42, 12r. ΠΡΟΣ ΤΗΝ ΔΗΜΟΣΘΕΝΟΥΣ ΓΡΑΦΗΝ ΑΠΟΛΟΓΙΑ Ἄλλος δέ ἐστιν Ἀλκιβιάδης οὗ μνημονεύει Ἀντιφῶν ἐν τῇ πρὸς τὴν Δημοσθένους γραφὴν ἀπολογίᾳ· — —ἔστι δὲ Φηγούσιος, Ἀλκιβιάδου ξένος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "Harp. s. v. Ἀλκιβ.; ἀποτειχίσαι τὸ ἀπολαβεῖν τείχει καὶ ἀποκλεῖσαι τῆς ἐξόδου, ἀποτετειχισμένος δὲ ὁ ἀπειλημμένος καὶ ἀποκεκλεισμένος τῷ τείχει· Ἀντιφῶν ἐν τῇ πρὸς τὴν Δημ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "γρ. ἀπολ. καὶ Θουκυδίδης. Harp.; δεκατευτὰς ἀντὶ τοῦ τελώνας τοὺς τὴν δεκάτην ἐκλέγοντας Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "ἐν τῇ πρὸς Δημ. γρ. ἀπολ. Harp. κελέοντε ς· Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "ἐν τῇ πρὸς Δημ. γρ. ἀπολ.· ἵνα τοὺς κελέοντας κατέπηξε ν. κυρίως μὲν κελέοντές εἰσιν οἱ ἱστόποδες— —· μεταφορικῶς δὲ νῦν ὁ ῥήτωρ λέγοι ἂν τὰ ὀρθὰ ξύλα. Harp. σκαφίο ν· Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12",
+      "text": "ἐν τῇ πρὸς τὴν Δημ. γρ. ἀπολ. ὅτι δὲ τὸ σκαφίον εἶδος κουρᾶς, καὶ Ἀριστοφάνης Γήρᾳ. Harp. συνήγορο ι· Ἀντ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13",
+      "text": "ἐν τῇ πρὸς τὴν Δημ. γρ. ἀπολ. καὶ ἐν τῷ περὶ τοῦ Λινδίων φόρου. Harp. Ἄνδρω ν· Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14",
+      "text": "ἐν τῇ πρὸς τὴν Δημ. γραφὴν ἀπολογίᾳ. Ἄνδρωνά φησιν εἶναι Κρατερὸς ἐν θʹ τῶν ψηφισμάτων τὸν γράψαντα τὸ ψήφισμα τὸ περὶ Ἀντιφῶντος τοῦ ῥήτορος. ἦν δὲ εἷς τῶν υʹ ὁ Ἄνδρων. Harp. ΕΠΙΤΡΟΠΙΚΟΣ 〈ΚΑΤΑ〉 ΚΑΛΛΙΣΤΡΑΤΟΥ ὅτι οἱ ποιητοὶ παῖδες ἐπανελθεῖν εἰς τὸν πατρῷον οἶκον οὐκ ἦσαν κύριοι, εἰ μὴ παῖδας γνησίους καταλίποιεν ἐν τῷ οἴκῳ τοῦ ποιησαμένου, Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "ἐπιτροπικῷ 〈κατὰ〉 Καλλιστράτου καὶ Σόλων ἐν καʹ Νόμων. Harp. ΕΠΙΤΡΟΠΙΚΟΣ ΤΙΜΟΚΡΑΤΕΙ Σπάρτωλο ς· Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16",
+      "text": "ἐν τῷ ἐπιγραφομένῳ Ἐπιτροπικὸς Τιμοκράτει. Harp. ΠΡΟΣ ΤΗΝ ΚΑΛΛΙΟΥ ΕΝΔΕΙΞΙΝ ΑΠΟΛΟΓΙΑ ἀντὶ δὲ τοῦ ἀποδεδόμεθα διεθέμεθα εἶπεν Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17",
+      "text": "ἐν τῷ πρὸς τὴν Καλλίου ἔνδειξιν. Harp. s. v. διάθεσις. ἕρμα ἡ ὕφαλος πέτρα· Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18",
+      "text": "ἐν τῇ πρὸς 〈τὴν〉 Καλλίου ἔνδειξιν ἀπολογίᾳ. Harp. ᾖσμεν ἀντὶ τοῦ ᾔδειμεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19",
+      "text": "Ἀ. 〈ἐν τῇ〉 πρὸς τὴν Καλλ. ἔνδ. ἀπολογίᾳ· ἡμεῖς μὲν οὖν οὔτε ναυτικὸν ᾖσμεν ὁπόσου δέο ι. Harp. μοιρολογχῆσαι ἀντὶ τοῦ μέρους μεταλαβεῖν Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20",
+      "text": "ἐν τῇ πρὸς 〈τὴν〉 Καλλίου ἔνδ. ἀπολ. Harp. ΚΑΤΑ ΛΑΙΣΠΟΔΙΟΥ ἀπιστεῖν ἀντὶ τοῦ ἀπειθεῖν Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "21",
+      "text": "κατὰ Λαισποδίου. Harp. Γαληψό ς· Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "22",
+      "text": "κατὰ Λαισποδίου. Harp. ἐπίσκοπο ς· Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "23",
+      "text": "ἐν τῷ περὶ τοῦ Λινδίων φόρου καὶ ἐν τῷ κατὰ Λαισποδίου. ἐοίκασιν ἐκπέμπεσθαί τινες ὑπὸ Ἀθηναίων εἰς τὰς ὑπηκόους πόλεις ἐπισκεπτόμενοι τὰ παρ’ ἑκάστοις. Harp. Οἰσύμ η· Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "24",
+      "text": "ἐν τῷ κατὰ Λαισποδίου. Harp. ΠΕΡΙ ΤΟΥ ΛΙΝΔΙΩΝ ΦΟΡΟΥ Ἀμφίπολι ς· Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25",
+      "text": "περὶ τοῦ Λινδίων φόρου. Harp. ἀπειπεῖν ἀντὶ τοῦ ἀποκαμεῖν καὶ ἀδυνατῆσαι Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "26",
+      "text": "ἐν τῷ περὶ τοῦ Λινδίων φόρου, καὶ ἀντὶ τοῦ ἀπαρνήσασθαι παρὰ τῷ αὐτῷ. Harp. ἄττα (h.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "27",
+      "text": "l. ἅττα scil.) ἀντὶ μὲν τοῦ ὅσα ἢ ἅτινα Ἀ. ἐν τῷ περὶ τοῦ Λινδίων φόρου. Harp. δ ι ’ ἐνιαυτοῦ ἀντὶ τοῦ δι’ ὅλου τοῦ ἐνιαυτοῦ Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "28",
+      "text": "περὶ τοῦ Λινδίων φόρου. Harp. ἐπαγγελία· — —λέγεται δὲ—τὸ ἐπαγγέλλεσθαι καὶ ἀντὶ τοῦ προστάττειν ἢ αἰτεῖσθαι, ὡς παρά τε Ἀντιφῶντι ἐν τῷ περὶ τοῦ Λινδίων φόρου καὶ Δημοσθένει ἐν τῷ περὶ πρεσβείας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "29",
+      "text": "Harp. ἐπίσκοπο ς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30",
+      "text": "V. fr. 23. προσφορὰ ἀντὶ τοῦ πρόσοδος Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "31",
+      "text": "ἐν τῷ περὶ τοῦ Λινδίων φόρου. Harp. συνήγορο ι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "32",
+      "text": "V. fr. 13. τριβωνευόμενο ι· Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "33",
+      "text": "ἐν τῷ περὶ τοῦ Λινδίων φόρου. ἤτοι ἀντὶ τοῦ τριβὰς ἐμποιοῦντες, ἢ ἀντὶ τοῦ τεχνάζοντες ἀπὸ τοῦ τρίβωνες εἶναι πραγμάτων. Harp. ΥΠΕΡ ΜΥΡΡΟΥ Ἀντιφῶν τῷ ἅττα κέχρηται ἀντὶ τοῦ ἅτινα ἐν τῇ ἀπολογίᾳ τοῦ Μύρρου· οὐ γάρ πω ἐπεπόνθη ταῦτ α , ἅττα νῦν πέπονθα ὑπὸ τούτο υ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "34-35",
+      "text": "καὶ αὖθις· Οἱ γὰρ ἄνθρωποι ἅττα ἂν ὁρῶσι τῇ ὄψει πιστότερα ἡγοῦνται ἢ οἷς εἰς ἀφανὲς ἥκει ὁ ἔλεγχος τῆς ἀληθεία ς. Suid. I 1 p. 822, 15 Bernh. ΠΡΟΣ ΝΙΚΟΚΛΕΑ ΠΕΡΙ ΟΡΩΝ ἀργυροκοπεῖο ν· Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "36",
+      "text": "ἐν τῷ πρὸς Νικοκλέα. ὅπου κόπτεται τὸ νόμισμα· ὃ νῦν σημαντήριόν τινες καλοῦσι. Harp. διὰ μέσου τείχου ς· Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "37",
+      "text": "πρὸς Νικοκλέα. τριῶν ὄντων τειχῶν ἐν τῇ Ἀττικῇ— —, τοῦ τε βορείου καὶ τοῦ νοτίου καὶ τοῦ Φαληρικοῦ, διὰ μέσου τῶν παρ’ ἑκάτερα ἐλέγετο τὸ νότιον. Harp. ὅτι δὲ καὶ Ἑρμῶν στοά τις ἐλέγετο, δεδήλωκε καὶ Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "38",
+      "text": "ἐν τῷ πρὸς Νικοκλέα. Harp. s. v. Ἑρμαῖ. εὐθύωρον τὸ κατ’ εὐθεῖαν Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "39",
+      "text": "ἐν τῷ πρὸς Νικ. Harp. Κεραμεικό ς· Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "40",
+      "text": "ἐν τῷ πρὸς Νικ. περὶ ὅρων. ὅτι δύο εἰσὶ Κεραμεικοί, ὡς καὶ ὁ ῥήτωρ φησίν, ὁ μὲν ἔνδον τῆς πόλεως, ὁ δὲ ἕτερος ἔξω— —, δηλοῖ Καλλικράτης ἢ Μενεκλῆς ἐν τῷ περὶ Ἀθηνῶν. Harp. λέσχα ι· Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "41",
+      "text": "ἐν τῷ πρὸς Νικοκλέα. λέσχας ἔλεγον δημοσίους τινὰς τόπους, ἐν οἷς σχολὴν ἄγοντες ἐκαθέζοντο πολλοί. Harp. παράβυστο ν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "42",
+      "text": "οὕτως ἐκαλεῖτό τι τῶν παρ’ Ἀθηναίοις δικαστηρίων, ἐν ᾧ ἐδίκαζον οἱ ιαʹ· Ἀ. ἐν τῷ πρὸς Νικ. περὶ ὅρων. Harp. πρυτανεία ς· Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "43",
+      "text": "ἐν τῷ πρὸς Νικοκλέα. ἔστι δὲ ἀριθμὸς ἡμερῶν ἡ πρυτανεία ἤτοι λϛʹ ἢ λεʹ, ἃς ἑκάστη φυλὴ πρυτανεύει. Harp. Στεφανηφόρο ς· Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "44",
+      "text": "ἐν τῷ πρὸς Νικοκλέα. Στεφανηφόρου ἡρῷον, ὡς ἔοικεν, ἦν ἐν ταῖς Ἀθήναις. Harp. Ὑπέρβολο ς· Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "45",
+      "text": "ἐν τῷ πρὸς Νικοκλέα. ἦν δὲ δημαγωγός. Harp. ΠΑΡΑΝΟΜΩΝ ΚΑΤΗΓΟΡΙΑ Ναυμάχους ὡς περὶ δωρεῶν μὲν εἰπεῖν κατάγειν δεῦρ ο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "46",
+      "text": "Suid. I 1 p. 1217, 16. ΠΡΟΣ ΠΟΛΥΕΥΚΤΟΝ ἀνάδεξα ι· οἷον ἐγγύησαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "47",
+      "text": "Ἀ. πρὸς Πολύευκτον. Antiatt. B. A. 82, 29. ΚΑΤΑ ΠΡΥΤΑΝΕΩΣ (ΕΙ ΓΝΗΣΙΟΣ) ἴσως δὲ καὶ κατὰ τοῦτο ῥητορικαὶ γραφαί τινες καλοῦνται, ὅτι κατὰ διαφόρους νόμους αἱ 〈κατὰ〉 τῶν ῥητόρων γραφαὶ εἰσάγονται, ὡς Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "48",
+      "text": "ἐν τῷ κατὰ πρυτάνεως, εἰ γνήσιος, ὑποσημαίνει. Harp. s. v. ῥητορικὴ γραφή. ΠΕΡΙ ΤΟΥ ΣΑΜΟΘΡΑΙΚΩΝ ΦΟΡΟΥ Σαμοθρᾴκη—φασὶ δὲ Σαμίους οἰκίσαντας αὐτὴν τὸ ὄνομα θέσθαι τοῦτο· καὶ ἔστι παρὰ Ἀντιφῶντι ἐν τῷ Σαμοθρᾳκικῷ λόγῳ οὕτως εἰρημένον· καὶ γὰρ οἱ τὴν ἀρχὴν οἰκίσαντες τὴν νῆσον ἦσαν Σάμιο ι , ἐξ ὧν ἡμεῖς ἐγενόμεθ α .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "49",
+      "text": "κατῳκίσθησαν δὲ ἀνάγκ ῃ , οὐκ ἐπιθυμίᾳ τῆς νήσο υ · ἐξέπεσον γὰρ ὑπὸ τυράννων ἐκ Σάμου καὶ τύχῃ ἐχρήσαντο ταύτῃ ** καὶ λείαν λαβόντες ἀπὸ τῆς Θρᾴκης ἀφικνοῦνται εἰς τὴν νῆσο ν. Suid. II 2 p. 664, 1. Ἡ 〈μὲν〉 γὰρ νῆσο ς , ἣν ἔχομε ν , δήλη μὲν καὶ πόρρωθεν 〈ὅτι〉 ἐστὶν ὑψηλὴ καὶ τραχεῖ α · καὶ τὰ μὲν χρήσιμα καὶ ἐργάσιμα μικρὰ αὐτῆς ἐστ ι , τὰ δ ’ ἀργὰ πολλ ά , μικρᾶς αὐτῆς οὔση ς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "50%2",
+      "text": "Demetr. π. ἑρμην. §53, orationis nomine non addito. Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "51",
+      "text": "Σαμοθρᾳκικῷ· Καίτοι οὐκ ἂν τῆς μὲν τῶν ἄλλων πολιτῶν ταλαιπωρίας προὐσκέψαντ ο , τῆς δὲ σφετέρας αὐτῶν σωτηρίας οὐκ ἐνεθυμήθησα ν. Priscian. XVIII § 280. ἐκλογεῖς οἱ ἐκλέγοντες καὶ εἰσπράττοντες τὰ ὀφειλόμενα τῷ δημοσίῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "52",
+      "text": "Ἀ. ἐν τῷ περὶ τοῦ Σαμ. φόρου· ᾑρέθησαν γὰρ ἐκλογῆς πα ρ ’ ἡμῖν οἷς πλεῖστα ἐδόκει χρήματα εἶνα ι. Harp. ἀεὶ ἀντὶ τοῦ ἕως παρ’ Ἀντιφῶντι Σαμοθρᾳκικῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "53",
+      "text": "Harp. ἀποδιδόμενοι Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "54",
+      "text": "ἐν τῷ π. τ. Σαμ. φόρου ἀντὶ τοῦ ἀποδιδόντες. ἑξῆς δέ φησιν ἀποδιδόμεθα ἤτοι ἀντὶ τοῦ ἀποδίδομεν ἢ ἀντὶ τοῦ πιπράσκομεν. Harp. ἀπόταξις τὸ χωρὶς τετάχθαι τοὺς πρότερον ἀλλήλοις συντεταγμένους εἰς τὸ ὑποτελεῖν τὸν ὡρισμένον φόρον· Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "55",
+      "text": "ἐν τῷ π. τ. Σαμ. φόρου. Harp. συντελεῖς οἱ συνδαπανῶντες καὶ συνεισφέροντες· τὸ δὲ πρᾶγμα συντέλεια καλεῖται, ὡς ἔστιν εὑρεῖν ἐν τῷ Ἀντιφῶντος π.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "56",
+      "text": "τ. Σαμ. φόρου. Δημοσθένης ἐν τῷ ὑπὲρ Κτησιφῶντος. Harp. ΠΡΟΣ ΕΡΑΣΙΣΤΡΑΤΟΝ ΠΕΡΙ ΤΩΝ ΤΑΩΝ Ἀντιφῶντι δὲ τῷ ῥήτορι λόγος μὲν γέγραπται ἔχων ἐπίγραμμα περὶ ταῶν, καὶ ἐν αὐτῷ τῷ λόγῳ οὐδεμία μνεία τοῦ ὀνόματος γίνεται, ὄρνεις δὲ ποικίλους πολλάκις ἐν αὐτῷ ὀνομάζει, φάσκων τούτους τρέφειν Δῆμον τὸν Πυριλάμπους, καὶ πολλοὺς παραγίνεσθαι κατὰ πόθον τῆς τῶν ὀρνίθων θέας ἔκ τε Λακεδαίμονος καὶ Θετταλίας καὶ σπουδὴν ποιεῖσθαι τῶν ᾠῶν μεταλαβεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "57",
+      "text": "περὶ δὲ τῆς ἰδέας αὐτῶν λέγων γράφει· εἴ τις ἐθέλοι καταβαλεῖν εἰς πόλιν τοὺς ὄρνιθα ς , οἰχήσονται ἀναπτόμενο ι · ἐὰν δὲ τῶν πτερύγων ἀποτέμ ῃ , τὸ κάλλος ἀφαιρήσετα ι · τὰ πτερὰ γὰρ αὐτῶν τὸ κάλλος ἐστί ν , ἀλ λ ’ οὐ τὸ σῶμ α. ὅτι δὲ καὶ περισπούδαστος ἦν αὐτῶν ἡ θέα, ἐν τῷ αὐτῷ λόγῳ πάλιν φησίν· ἀλλὰ τὰς μὲν νουμηνίας ὁ βουλόμενος εἰσῄε ι · τὰς δ ’ ἄλλας ἡμέρας εἴ τις ἔλθοι βουλόμενος θεάσασθα ι , οὐκ ἔστιν ὅστις ἔτυχ ε . καὶ ταῦτα οὐκ ἐχθὲς οὐδὲ πρῴη ν , ἀλ λ ’ ἔτη πλέον ἢ τριάκοντά ἐστι ν. Ath. IX p. 397 CD. ἐτιμῶντο δὲ τὸν ἄρρενα καὶ τὸν θῆλυν δραχμῶν χιλίων, ὡς Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "58",
+      "text": "ἐν τῷ πρὸς Ἐρασίστρατον λόγῳ φησί. Aelianus H. A. V 21. εὐοφθάλμως ἀντὶ τοῦ εὐπρεπῶς Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "59",
+      "text": "ἐν τῷ περὶ ταώνων. Harp. ΥΠΕΡ ΤΗΣ ΕΙΣ ΤΟΝ ΕΛΕΥΘΕΡΟΝ ΠΑΙΔΑ ΥΒΡΕΩΣ(?) ἀξιοῖ ἀντὶ τοῦ νομίζει Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "60",
+      "text": "ὑπὲρ τῆς εἰς τὸν ἐλ. παῖδα 〈ὕβρεωσ〉. Harp. ΚΑΤΑ ΦΙΛΙΝΟΥ θῆτες καὶ θητικόν· Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "61",
+      "text": "ἐν τῷ κατὰ Φιλίνου φησί· τούς τε θῆτας ἅπαντας ὁπλίτας ποιῆσα ι. Harp. ἀκροᾶσθαι ἀντὶ τοῦ ὑπακούειν Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "62",
+      "text": "ἐν τῷ κατὰ Φιλ. Harp. ἀπολαχεῖν ἀντὶ ἁπλοῦ τοῦ λαχεῖν Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "63",
+      "text": "ἐν τῷ κατὰ Φιλ. Harp. διάληξι ς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "64",
+      "text": "διαλαγχάνειν μέν ἐστι τὸ κλήρῳ διαιρεῖσθαι, διάληξις δὲ τὸ πρᾶγμα· Ἀ. ἐν τῷ κατὰ Φιλίνου. Harp. ΠΡΟΣ ΦΙΛΙΠΠΟΝ ΑΠΟΛΟΓΙΑ ΕΙ ΓΝΗΣΙΟΣ δημοτευόμενο ς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "65",
+      "text": "δημοτεύεσθαί ἐστι τὸ τοῦδέ τινος δήμου κοινωνεῖν καὶ χρηματίζειν ἀπ’ αὐτοῦ· Ἀ. ἐν τῇ πρὸς Φίλιππον ἀπολ., εἰ γνήσιος. Harp. ΑΛΚΙΒΙΑΔΟΥ ΛΟΙΔΟΡΙΑΙ Ἐν δὲ ταῖς Ἀντιφῶντος λοιδορίαις γέγραπται, ὅτι παῖς ὢν ἐκ τῆς οἰκίας ἀπέδρα πρὸς Δημοκράτη τινὰ τῶν ἐραστῶν, βουλομένου δ’ αὐτὸν ἀποκηρύττειν Ἀρίφρονος Περικλῆς οὐκ εἴασεν εἰπών, εἰ μὲν τέθνηκεν, ἡμέρᾳ μιᾷ διὰ τὸ κήρυγμα φανεῖσθαι πρότερον, εἰ δὲ σῶς ἐστιν, ἄσωστον αὐτῷ τὸν λοιπὸν βίον ἔσεσθαι· καὶ ὅτι τῶν ἀκολουθούντων τινὰ κτείνειεν ἐν τῇ Σιβυρτίου παλαίστρᾳ ξύλῳ πατάξας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "66",
+      "text": "ἀλλὰ τούτοις μὲν οὐκ ἄξιον ἴσως πιστεύειν, ἅ γε λοιδορεῖσθαί τις αὐτῷ δι’ ἔχθραν ὁμολογῶν εἶπεν. Plut. Alcib. c. 3. Ἐπειδὴ ἐδοκιμάσθης ὑπὸ τῶν ἐπιτρόπω ν , παραλαβὼν πα ρ ’ αὐτῶν τὰ σαυτοῦ χρήματ α , ᾤχου ἀποπλέων εἰς Ἄβυδο ν , οὔτε χρέος ἴδιον σαυτοῦ πραξόμενος οὐδὲν οὔτε προξενίας οὐδεμιᾶς ἕνεκ α , ἀλλὰ τῇ σαυτοῦ παρανομίᾳ καὶ ἀκολασίᾳ τῆς γνώμης ὁμοίους ἔργων τρόπους μαθησόμενος παρὰ τῶν ἐν Ἀβύδῳ γυναικῶ ν , ὅπως ἐν τῷ ἐπιλοίπῳ βίῳ σαυτοῦ ἔχοις χρῆσθαι αὐτοῖ ς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "67",
+      "text": "Ath. XII p. 525 B ΠΡΟΟΙΜΙΑ ΚΑΙ ΕΠΙΛΟΓΟΙ Ἐγραψάμην ταύτην τὴν γραφὴν ἠδικημένος ὑπὸ τούτου νὴ Δία πολλ ά , ἔτι δὲ καὶ πλείω ὑμᾶς ᾐσθημένος ἠδικημένους καὶ τοὺς ἄλλους πολίτα ς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "68",
+      "text": "Suid. I 2 p. 54, 10 ἀλ λ ’ εἰ τό τε πρᾶγμά μοι κρεῖττον φαίνεται ἅμα τε μαρτυρίας ἀκριβεῖς παρέξομα ι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "69",
+      "text": "Suid. I 1 p. 255 Ἀντιφῶν δὲ—τῷ μὲν μοχθηρῷ ἐχρήσατο οὐκ ἐπὶ τοῦ κακοῦ ἀνδρὸς καὶ εἰσαγομένου εἰς δικαστήριον ἵνα κατηγορηθῇ, ἀλλ’ ἐπὶ πατρὸς δίκην λαχόντος ὑπὲρ ἀπεσφαγμένου παιδὸς τὸν μοχθηρὸν ἔταξεν· καί φησιν οὕτως ἐν Προοιμίοις καὶ ἐπιλόγοις· κἀγὼ μὲν ὁ μοχθηρό ς , ὅντινα ἐχρῆν τεθνηκένα ι , ζῶ τοῖς ἐχθροῖς κατάγελω ς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "70",
+      "text": "Phot. lex. p. 278, 1; Suid. II 1 p. 896. ΡΗΤΟΡΙΚΑΙ ΤΕΧΝΑΙ ΑΒΓ ΕΙ ΓΝΗΣΙΑΙ Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "71",
+      "text": "τε ἐν ταῖς ῥητορικαῖς τέχναις τὸ μὲν τὰ παρόντα ἔφη καὶ τὰ ὑπάρχοντα καὶ τὰ παρακείμενα αἰσθάνεσθαι κατὰ φύσιν εἶναι ἡμῖ ν · παρὰ φύσιν δὲ τὸ φυλάττειν αὐτῶν ἐκποδὼν γενομένων ἐναργῆ τὸν τύπο ν. Longin. Sp.—H. 20, Rh. Gr. I p. 204, 17 (IX, 576W.). σημεῖον καὶ τεκμήριον διαφέρει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "72",
+      "text": "Ἀ. ἐν τῇ τέχνῃ τὰ μὲν παροιχόμενα σημείοις πιστοῦσθα ι , τὰ δὲ μέλλοντα τεκμηρίοι ς. Ammon. π. διαφ. λέξ. p. 127 Valck. ἀστοργί α , φιλοστοργί α , στοργ ή· Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "73",
+      "text": "ἐν δευτέρῳ π. τῆς ῥητ. τέχνης. Antiatt. B. A. p. 78, 6. ἀπαρασκεύαστο ν· Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "74",
+      "text": "τρίτῳ ῥητορικῆς τέχνης. Antiatt. B. A. 79, 1. ἀπαρασκεύαστον δὲ ἐν ταῖς ῥητορικαῖς τέχναις· δοκοῦσι δ’ οὐ γνήσιαι. Poll. VI 143. ὀλιγοφιλία ν· Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "75",
+      "text": "τρίτῳ Antiatt. B. A. p. 110, 33. πολυφιλίαν δὲ καὶ ὀλιγοφιλίαν Ἀντιφῶν. Poll. III 63. ὅτι δὲ καὶ αὐτὸς ἕκαστος τῶν περὶ λόγους ἐχόντων ἠξίου ποιεῖν ὀνόματα καινά, δηλοῖ μὲν καὶ Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "76%2",
+      "text": "ἱκανῶς, ὅς γε ὅπως αὐτὰ ποιητέον ἐκδιδάσκει. Galen. ἐξήγ. τῶν Ἱπποκρ. γλωσσῶν 19, p. 66 Kühn. ΑΠΑΡΑΣΗΜΑ Περὶ τοῦ μὴ ἐλλεεῖν ὑμᾶς ἐμὲ ἐδεήθ η , δείσας μὴ ἐγὼ δάκρυσι καὶ ἱκετείαις πειρῶμαι ὑμᾶς ἀναπείθει ν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "77",
+      "text": "Suid. I 2 p. 977. Τοῦτο δὲ τοὺς νόμους εἰδὼς πατρίους καὶ παλαιοὺς ὄντας ὑμῖ ν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "78",
+      "text": "Suid. II 2 p. 146. Τέως μὲν γὰρ ὁ πολὺς χρόνος τοῦ ὀλίγου πιστότερος ἦ ν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "79",
+      "text": "Suid. II 2 p. 1073, 16. Διαλαχεῖν δὲ τὸ διανείμασθαι οἱ ῥήτορες εἰρήκασι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "138",
+      "text": "Ἀντιφῶν· ὁπό τ ’ ἄνθρωποι βούλοιντο χρήματα διαλαγχάνει ν. Suid. I 1 p. 611, 16. Κακὸς δ ’ ἀεὶ ἐ π ’ ἀποῦσι μὲν καὶ μέλλουσι τοῖς κινδύνοις τῇ γλώττῃ θρασύνεται καὶ τῷ θέλειν ἐπείγε ι , τὸ δ ’ ἔργον ἂν παρ ῇ , ὀκνε ῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "139",
+      "text": "Suid. II 1 p. 1074, 19. Sophistae tribuit Diels 56. Κλαζομένιον (σχῆμα scil.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "140",
+      "text": ") ὡς τὸ πορεύομαι σὺν ἀγῶνι ἀντὶ τοῦ εἰς ἀγῶνα. — —ὡς τὸ σὺν πατρίδι ἔβη ἀντὶ τοῦ εἰς τὴν πατρίδα· οὕτως Ἀντιφῶν. Lesbonax π. σχημ. p. 180 Valck. ἀγλωττίαν δὲ Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "141",
+      "text": "εἴρηκεν. Poll. II 109. Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "142",
+      "text": "δὲ ἐπὶ τούτου (ἀγνοίας) καὶ ἀγνωμοσύνην λέγει. Poll. IV 9. —ἀγνοῶν. Ἀ. δὲ καὶ ἀγνώμων λέγει. id. V 145. ἀδυναμία ἐρεῖς ὡς Δημοσθένης, καὶ ἀδυνασία ὡς Ἀντ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "143",
+      "text": "καὶ Θουκυδίδης. B. A. p. 345, 26. Phot. lex. 34, 21 Reitz. ἀκοινώνητ α.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "144",
+      "text": "καὶ Ἀντ. δὲ καὶ Ἐυριπίδης Phot. lex. p. 66, 4 Reitz. ἀμαρτυρήτως ἀμαρτύρως· οὕτως Ἀντ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "144a",
+      "text": "Phot. lex. p. 87, 25 Reitz, contra Suid. I 1 p. 263, 8 ἀμαρτυρήτους ἀντὶ τοῦ ἀμαρτύρους. οὕτως Ἀντιφάνης. ἀθυμοῦσιν ὡς Ἀντιφῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "145",
+      "text": "Poll. II 230. ἀκαρῆ ἀντὶ τοῦ μικρὸν ἢ οὐδὲν παρ’ Ἀντιφῶντι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "146",
+      "text": "Harp. B. A. p. 363, 31. Phot. lex. 58, 18 Reitz. ἀκόλουθα Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "147",
+      "text": "τὰ ἑπόμενα καὶ σύμφωνα. B. A. p. 367, 31. Phot. lex. 62, 25 Reitz. καὶ ἄμβλωμ α, ὡς Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "148",
+      "text": "Poll. II 7. Phot. lex. 89, 15 Reitz. Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "149",
+      "text": "δὲ ἀντιλογούμενο ι. Poll. II 120. ἀπάλαμνο ν, ἀμήχανον· οὕτως Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "150",
+      "text": "B. A. p. 418, 6. Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "151",
+      "text": "δὲ ἀπαρτιλογί α, ὥσπερ καὶ Ἡρόδοτος. Poll. II 120. sed Harp.: ἀπαρτ. Λυσίας ἐν τῷ πρὸς Ἀρέσανδρον καὶ Ἡρόδοτος ἀντὶ τοῦ ἀπηρτισμένος καὶ πλήρης ἀριθμός. cf. Suid. s. v. ἀπαρτίαν B. A. p. 416, 20. ἀπεγένετο ἀντὶ τοῦ ἀπέθανεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "152",
+      "text": "οὕτως Ἀ. καὶ Θουκυδίδης. B. A. p. 419, 18. Suid. I 1 p. 537, 9. ἀπελύθ η, ὡς Ἀντιφῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "153",
+      "text": "Poll. VIII 68. ἀπόκρισις ἡ ἀπολογία· οὕτω Λυσίας καὶ Ἀντιφῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "154",
+      "text": "Suid. I 1 p. 609, 13. B. A. p. 429, 18. τὸ πρᾶγμα ἀχαριστία, ἀδικία, ἀγνωμοσύνη, καὶ ὡς Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "155",
+      "text": "ἀποστέρησις (scil. χάριτος). Poll. V 141. ἀφήκοντο ς· Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "156",
+      "text": "ἀντὶ τοῦ διήκοντος. B. A. p. 470, 25. Sophistae trib. Diels 16. βάσανο ς· Ἀντιφῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "157",
+      "text": "λίθος οὕτω καλεῖται, ᾗ τὸ χρυσίον παρατριβόμενον δοκιμάζεται. Harp. καὶ Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "158",
+      "text": "βάψιν χαλκοῦ καὶ σιδήρο υ. Poll. VII 169. Sophistae trib. Diels 40. βιομήχανοι ὡς Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "159",
+      "text": "Poll. VII 189. Sophistae trib. Diels 41. Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "160",
+      "text": "δὲ τῇ διαθέσει ἐχρήσατο ἐπὶ γνώμης ἢ διανοίας. ὁ αὐτὸς καὶ ἐπὶ τοῦ διαθεῖναι λόγον, τουτέστιν ἐπὶ τοῦ ἐξαγγεῖλαί τι. Suid. I 1 p. 1279. Ulpian. ad Dem. II 16. Sophistae trib. Diels 24 a. καὶ διοπτεύειν Κριτίας καὶ Ἀντιφῶν, Ἀντιφῶν δὲ καὶ εἴσοπτο ι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "161",
+      "text": "Poll. II 58. Sophistae trib. Diels 6. δοκησίσοφο ς, ὡς Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "162",
+      "text": "ἔφη. Poll. IV 9. δυσάνιο ς· Ἀντιφῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "163",
+      "text": "ὁ ἐπὶ παντὶ ἀνιώμενος, κἂν μικρὸν καὶ εὐκαταφρόνητον ᾖ. Harp. εἰσφρήσειν ἀντὶ τοῦ εἰσάξειν, εἰσδέξεσθαι· Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "164",
+      "text": "καὶ Δημοσθένης ἐν ηʹ Φιλιππικῷ. Harp. ἔμβραχυ ἀντὶ τοῦ ἁπλῶς καὶ ἐν κεφαλαίῳ Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "165",
+      "text": "Harp. καὶ ἐν ταῖς σιτοδοσίαις ἐγίνοντο σίτου ἐπιγραφεῖ ς, ὡς Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "166",
+      "text": "Poll. VIII 103. Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "167",
+      "text": "δὲ ἐπιθύμημ α. Poll. VI 183. ὡς Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "168",
+      "text": "ἐπινόημ α. Poll. II 228. κακόνους ὡς Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "169",
+      "text": "Poll. VI 169. τὸ δὲ λιθοκόπος ἀδόκιμον, εἰ καὶ Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "170",
+      "text": "λέγει. Thom. Mag. p. 221, 7 R. —λιθουργοὺς Θουκυδίδης, λιθοκόπους Ἀ. Moeris p. 203, 2 Bk. μεθέορτοι ἡμέραι κατὰ Ἀντιφῶντα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "171",
+      "text": "Poll. I 34. καὶ ὡς Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "172",
+      "text": "ἡδυλόγος καὶ μετριολόγο ς. Poll. II 123. παρὰ μόνῳ δ’ Ἀντιφῶντι ὀδμὰς καὶ εὐοδμίαν εὕροι τις ἄν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "173",
+      "text": "Poll. II 76. Sophistae trib. Diels 8. Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "174",
+      "text": "δὲ καὶ τὸ ὀψόμενον εἶπε. Poll. II 57. Sophistae trib. Diels 7. Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "175",
+      "text": "δὲ καὶ ἐξεληλάσθαι πανοικεσίᾳ ἔφη. Poll. VI 163. ὁ τῶν ναυτῶν ἄρχων, ὁ ἐπὶ τοῖς οἴαξιν ἑστώς, καὶ κατ’ Ἀντιφῶντα ὁ ποδοχῶ ν, ἢ μᾶλλον κατ’ ἐμὲ ὁ ποδηγῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "176",
+      "text": "Poll. I 98. καὶ πολιτοκοπεῖν παρ’ Ἀντιφῶντι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "177",
+      "text": "Poll. IX 26. καὶ συμμετρίας Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "178",
+      "text": "—καὶ δυσμέτρητον Ἀ. Poll. IV 167. ἡ μὲν γὰρ Ἀντιφῶντος ταλάντωσις τὸ βάρος δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "179",
+      "text": "Poll. IX 53. Sophistae trib. Diels 42. τελεσθῆναι τὸ ἀναλωθῆναι· οὕτως Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "180",
+      "text": "Phot. p. 574, 13. Antiatt. B. A. p. 114, 28. Suid. II 2 p. 1061, 2. τίμιον ἀντὶ τοῦ ἔντιμον· οὕτως Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "181",
+      "text": "Phot. 590, 11. καὶ ὡς Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "182",
+      "text": "φιλοχρηματεῖ ν. Poll. III 113. χρημάτω ν· —κεῖται δὲ ἡ λέξις καὶ ἐπὶ πράγματος ἢ προσώπου ἢ λόγου, ὡς Ἀντιφῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "183",
+      "text": "Suid. II 2 p. 1669, 3. τρίτῳ καὶ τετάρτῳ ἔτε ι· ἀντὶ τοῦ πρὸ τριῶν καὶ τεττάρων ἐτῶν· οὕτως Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "184",
+      "text": "Phot. 605, 23. Suid. II 2 p. 1219, 10. εὔδηλος ἡ τῶν ἄλλων φλην〈αφία φ〉αίνεται τῶν ἢ ταὐτὰ τέρπειν καὶ ὀχλεῖν ἢ διάφορα κατηξιωκότων ὡς καί τινος τῶν ἀρχαίων Ἀντιφῶντος, εἴτ’ οὖν ῥητορικὸς εἴτε καὶ φιλόσοφος ἠβούλετ’ εἶναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "185",
+      "text": "Philod. de 3poëm. c. 187(Vol. Herc. 2 VI).",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "bqs-ai",
+      "title": {
+        "english": "Fragments on Oligarchy and Democracy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ὀλιγαρχίας καὶ Δημοκρατίας"
+      },
+      "url_slug": "antiphon-of-athens-oligarchy-democracy-bqs-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/antiphon-of-athens/oligarchy-democracy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-oligarchy-democracy-bqs-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-oligarchy-democracy-bqs-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-oligarchy-democracy-bqs-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-oligarchy-democracy-bqs-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens/oligarchy-democracy.epub"
+      }
+    },
+    {
+      "eul_wid": "bqs-aa",
+      "title": {
+        "english": "On Sorcery-The Stepmother",
+        "ancient_greek": "Φαρμακείας κατὰ τῆς μητρυιᾶς"
+      },
+      "url_slug": "antiphon-of-athens-sorcery-stepmother-bqs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/antiphon-of-athens/sorcery-stepmother",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-sorcery-stepmother-bqs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-sorcery-stepmother-bqs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-sorcery-stepmother-bqs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-sorcery-stepmother-bqs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens/sorcery-stepmother.epub"
+      }
+    },
+    {
+      "eul_wid": "bqs-ac",
+      "title": {
+        "english": "On the Dancer",
+        "ancient_greek": "Περὶ τοῦ χορευτοῦ"
+      },
+      "url_slug": "antiphon-of-athens-dancer-bqs-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/antiphon-of-athens/dancer",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-dancer-bqs-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-dancer-bqs-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-dancer-bqs-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-dancer-bqs-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens/dancer.epub"
+      }
+    },
+    {
+      "eul_wid": "bqs-ab",
+      "title": {
+        "english": "On the Murder of Herodes",
+        "ancient_greek": "Περὶ τοῦ Ἡρῷδου φόνου"
+      },
+      "url_slug": "antiphon-of-athens-murder-herodes-bqs-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/antiphon-of-athens/murder-herodes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-murder-herodes-bqs-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-murder-herodes-bqs-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-murder-herodes-bqs-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-murder-herodes-bqs-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens/murder-herodes.epub"
+      }
+    },
+    {
+      "eul_wid": "bqs-ag",
+      "title": {
+        "english": "On the Samothracian Tribute",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "antiphon-of-athens-samothracian-tribute-bqs-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/antiphon-of-athens/samothracian-tribute",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-samothracian-tribute-bqs-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-samothracian-tribute-bqs-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-samothracian-tribute-bqs-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-samothracian-tribute-bqs-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens/samothracian-tribute.epub"
+      }
+    },
+    {
+      "eul_wid": "bqs-ad",
+      "title": {
+        "english": "Tetralogy A",
+        "ancient_greek": "Τετραλογία Α΄"
+      },
+      "url_slug": "antiphon-of-athens-tetralogy-a-bqs-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/antiphon-of-athens/tetralogy-a",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-tetralogy-a-bqs-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-tetralogy-a-bqs-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-tetralogy-a-bqs-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-tetralogy-a-bqs-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens/tetralogy-a.epub"
+      }
+    },
+    {
+      "eul_wid": "bqs-ae",
+      "title": {
+        "english": "Tetralogy B",
+        "ancient_greek": "Τετραλογία Β΄"
+      },
+      "url_slug": "antiphon-of-athens-tetralogy-b-bqs-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/antiphon-of-athens/tetralogy-b",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-tetralogy-b-bqs-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-tetralogy-b-bqs-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-tetralogy-b-bqs-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-tetralogy-b-bqs-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens/tetralogy-b.epub"
+      }
+    },
+    {
+      "eul_wid": "bqs-af",
+      "title": {
+        "english": "Tetralogy C",
+        "ancient_greek": "Τετραλογία Γ΄"
+      },
+      "url_slug": "antiphon-of-athens-tetralogy-c-bqs-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/antiphon-of-athens/tetralogy-c",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-tetralogy-c-bqs-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-tetralogy-c-bqs-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-tetralogy-c-bqs-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-tetralogy-c-bqs-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens/tetralogy-c.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "qwm-bk",
+      "title": {
+        "english": "Address to Smyrna",
+        "ancient_greek": "Προσφωνητικός Σμυρναϊκός"
+      },
+      "url_slug": "aristides-the-orator-smyrna-qwm-bk",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/smyrna",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-smyrna-qwm-bk.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-smyrna-qwm-bk.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-smyrna-qwm-bk.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-smyrna-qwm-bk.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/smyrna.epub"
+      }
+    },
+    {
+      "eul_wid": "qwm-aq",
+      "title": {
+        "english": "Funeral Oration for Eteoneus",
+        "ancient_greek": "εἰς Ἐτεωνέα ἐπικήδειος"
+      },
+      "url_slug": "aristides-the-orator-funeral-eteoneus-qwm-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/funeral-eteoneus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-funeral-eteoneus-qwm-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-funeral-eteoneus-qwm-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-funeral-eteoneus-qwm-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-funeral-eteoneus-qwm-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/funeral-eteoneus.epub"
+      }
+    },
+    {
+      "eul_wid": "qng-ae",
+      "title": {
+        "english": "On Discovery",
+        "ancient_greek": "Περὶ εὑρέσεως"
+      },
+      "url_slug": "hermogenes-of-tarsus-discovery-qng-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermogenes-of-tarsus/discovery",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-discovery-qng-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-discovery-qng-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-discovery-qng-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-discovery-qng-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus/discovery.epub"
+      }
+    },
+    {
+      "eul_wid": "ueg-ab",
+      "title": {
+        "english": "On the Origins of Rome",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "callinicus-of-petra-origins-rome-ueg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/callinicus-of-petra/origins-rome",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callinicus-of-petra-origins-rome-ueg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callinicus-of-petra-origins-rome-ueg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callinicus-of-petra-origins-rome-ueg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callinicus-of-petra-origins-rome-ueg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callinicus-of-petra/origins-rome.epub"
+      }
+    },
+    {
+      "eul_wid": "ffu-ay",
+      "title": {
+        "english": "Plataikos",
+        "ancient_greek": "Παναθηναϊκός"
+      },
+      "url_slug": "isocrates-of-athens-plataikos-ffu-ay",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/plataikos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-plataikos-ffu-ay.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-plataikos-ffu-ay.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-plataikos-ffu-ay.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-plataikos-ffu-ay.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/plataikos.epub"
+      }
+    },
+    {
+      "eul_wid": "pfk-ce",
+      "title": {
+        "english": "Prometheus",
+        "ancient_greek": "Προμηθεύς"
+      },
+      "url_slug": "lucian-of-samosata-prometheus-pfk-ce",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/prometheus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-prometheus-pfk-ce.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-prometheus-pfk-ce.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-prometheus-pfk-ce.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-prometheus-pfk-ce.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/prometheus.epub"
+      }
+    },
+    {
+      "eul_wid": "fsm-ba",
+      "title": {
+        "english": "To Callicles-Land Damage",
+        "ancient_greek": "πρὸς Καλλικλέα περὶ χωρίου βλάβης"
+      },
+      "url_slug": "demosthenes-of-athens-callicles-land-damage-fsm-ba",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/callicles-land-damage",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-callicles-land-damage-fsm-ba.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-callicles-land-damage-fsm-ba.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-callicles-land-damage-fsm-ba.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-callicles-land-damage-fsm-ba.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/callicles-land-damage.epub"
+      }
+    },
+    {
+      "eul_wid": "ria-ac",
+      "title": {
+        "english": "Varied History",
+        "ancient_greek": "Ποικίλη ἱστορία"
+      },
+      "url_slug": "aelian-of-praeneste-varied-history-ria-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/aelian-of-praeneste/varied-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste-varied-history-ria-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste-varied-history-ria-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste-varied-history-ria-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste-varied-history-ria-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste/varied-history.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/antiphon-of-athens/sedition-defense",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-sedition-defense-bqs-ah.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-sedition-defense-bqs-ah.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-sedition-defense-bqs-ah.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-sedition-defense-bqs-ah.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens/sedition-defense.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

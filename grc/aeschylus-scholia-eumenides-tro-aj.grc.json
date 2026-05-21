@@ -1,0 +1,2540 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "tro-aj",
+  "eul_aid": "tro",
+  "author_slug": "aeschylus-scholia",
+  "work_slug": "eumenides",
+  "url_slug": "aeschylus-scholia-eumenides-tro-aj",
+  "author": {
+    "english": "Aeschylus Scholia",
+    "ancient_greek": "Αἰσχύλου Σχόλια"
+  },
+  "title": {
+    "english": "Scholia-Eumenides",
+    "ancient_greek": "Σχόλια εἰς Εὐμενίδας"
+  },
+  "seo": {
+    "browser_title": "Scholia on Eumenides by Aeschylus Scholia on Eulogikon",
+    "meta_title": "Scholia on Eumenides by Aeschylus Scholia in Greek",
+    "meta_description": "Late antique scholarly annotations illuminate Aeschylus's Eumenides with detailed metrical analysis and textual Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Βυζαντινὴ Ἑλληνική",
+      "english": "Byzantine Greek",
+      "href": "/dialects/byz"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Scholia on Eumenides represent the body of ancient and Byzantine exegetical notes preserved in the margins of manuscripts of Aeschylus&#x27;s tragedy. These scholia are not a single, coherent work but a layered compilation of grammatical, historical, and critical commentary from various scholars across centuries. Contributors include notable figures such as the first-century BCE scholar Didymus Chalcenterus and later Byzantine grammarians. Functioning as a prose commentary, they elucidate difficult passages within the play. Their content engages with the text through multiple critical lenses, including textual criticism with notes on variant readings, linguistic exegesis explaining rare words and Attic dialect, and mythological and historical references that identify allusions to myth and Athenian institutions like the Areopagus. Further notes comment on dramatic technique, such as staging and meter, and explore philosophical and theological concepts like justice and the transformation of the Erinyes. The scholia are transmitted primarily through the medieval manuscript tradition, most importantly the tenth-century Codex Mediceus Laurentianus. These marginal notes derive from earlier, now lost commentaries, representing a selective and cumulative compilation of scholarship. The scholia are invaluable for the modern textual criticism of Aeschylus, as they preserve fragments of lost ancient scholarship and offer significant insight into the historical reception and interpretation of classical tragedy. They remain a primary tool for editors and scholars studying ancient hermeneutics and education.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book Arg",
+      "text": "Ὑπόθεσις τοῦ προκειμένου δράματος. Ὀρέστης ἐν Δελφοῖς περιεχόμενος ὑπὸ τῶν Ἐρινύων βουλῇ Ἀπόλ‐ λωνος παραγίνεται εἰς Ἀθήνας εἰς τὸ ἱερὸν τῆς Ἀθηνᾶς· ἧς βουλῇ νι‐ κήσας κατῆλθεν εἰς Ἄργος. τὰς δὲ Ἐρινύας πραείας γινομένας κατ’ εὐ‐ φημισμὸν προσηγόρευσεν Εὐμενίδας. παρ’ οὐδετέρῳ κεῖται ἡ μυθο‐ ποιΐα. τὰ τοῦ δράματος πρόσωπα· προφῆτις τῆς Πυθίας· Ἀπόλλων· Ὀρέστης· Κλυταιμήστρας εἴδωλον· χορὸς Εὐμενίδων· Ἀθηνᾶ· προ‐ πομποί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book Inscr",
+      "text": "Αἰσχύλου Εὐμενίδες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1a",
+      "text": "ἡμέτερον: † ἡ εἴσθεσις τοῦ παρόντος δράματος ἐκ συστηματι‐ κῶν ἐστι περιόδων, οἱ δὲ στίχοι εἰσὶν ἰαμβικοὶ τρίμετροι ἀκατάληκτοι ρλγʹ, ὧν τελευταῖος (Eum. 139): ἕπου, μάραινε δευτέροις διώγμασι”. μετὰ δὲ τὸν ριϛʹ, τὸν ριηʹ, τὸν ρκʹ, τὸν ρκβʹ κώλου τμήματα δʹ, ἃ μονό‐ μετρά ἐστι βραχυκατάληκτα. μετὰ δὲ τὸν ρκδʹ ἕτερα βʹ κῶλα, ὧν τὸ ἓν δίμετρον βραχυκατάληκτον, τὸ δὲ ἕτερον ἑφθημιμερὲς ἐκ τριβραχέων. εἰ δὲ καὶ τροχαϊκὰ τὰ κῶλα ταῦτα εἴποις, οὐκ ἂν ἁμάρτοις. ἐπὶ ταῖς ἀποθέσεσι παράγραφος, ἐπὶ δὲ τῷ τέλει κορωνίς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1b",
+      "text": "† τὸ προοίμιον διηγηματικόν. σχόλια παλαιά.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1c",
+      "text": "{Καὶ νῦν τυχεῖν με:} φαίνεται ἐπὶ τῆς σκηνῆς εἶναι τὸ μαν‐ τεῖον· ἡ δὲ προφῆτις πρόεισιν ἐπίκλησιν, ὡς ἔθος, τῶν θεῶν ποιησο‐ μένη. ἀπροόπτως δὲ ἰδοῦσα τὰς Ἐρινύας κύκλῳ τοῦ Ὀρέστου καθευ‐ δούσας, πάντα μηνύει τοῖς θεαταῖς, οὐχ ὡς διηγουμένη τὰ ὑπὸ τὴν σκη‐ νήν—τοῦτο γὰρ νεωτερικὸν καὶ Εὐριπίδειον—, ὑπὸ δὲ τῆς ἐκπλήξεως τὰ θορυβήσαντα αὐτὴν καταμηνύουσα φιλοτέχνως. τὰ δὲ πρῶτα ἐξ εὐχῆς καὶ ἐπικλήσεως θεῶν ἤρξατο, ἵνα ἀπὸ τῶν εὐφημοτέρων ἄρξηται ἡ προ‐ φῆτις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "Ἣ δὴ τὸ μητρός: ἢ τῆς κοινῆς μητρὸς πάντων Γῆς, ἢ τῆς Θέ‐ μιδος· ἥτις ὀπτήριον θεασαμένη τὸν τῆς ἀδελφῆς αὐτῆς Λητοῦς παῖδα δέδωκε συγγενικὴν δόσιν. ἀπόδειξις δὲ αὕτη τῆς δωρεᾶς οὐκ ἀχάριστος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 13",
+      "text": "Κελευθοποιοὶ παῖδες: Θησεὺς τὴν ὁδὸν ἐκάθηρε τῶν λῃστῶν· καὶ ὅταν πέμπωσιν εἰς Δελφοὺς θεωρίαν, προέρχονται ἔχοντες πελέ‐ κεις ὡς διημερώσοντες τὴν γῆν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15",
+      "text": "(τιμαλφεῖ:) τιμᾷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 22",
+      "text": "Ἔνθα Κωρυκὶς πέτρα: πέτραν φησὶ κοίλην τὸν Παρνασσόν· διὰ τὸ εἶναι δὲ κοῖλον τὸ ὄρος λέγεται ἐκεῖ ἀναστρέφεσθαι τοὺς δαίμονας, καὶ διὰ τὸ ἄοικον εἶναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 24",
+      "text": "(Βρόμιος:) ὁ Διόνυσος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 26a",
+      "text": "Λαγὼ δίκην: οἱ λαγοὶ δειλοί εἰσιν· φησὶν οὖν αὐτὸν λαγωοῦ δίκην ὑποπτήξαντα μὴ ἀντιστῆναι τοῖς πολεμοῦσιν αὐτόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 26b",
+      "text": "(Πενθεῖ:) τῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 27",
+      "text": "{Ἡφαίστου χθόνα:} 〈Ποσειδῶνος κράτος:〉 τὴν Πυθὼ τὴν πρώην Ποσειδῶνος, ὑπὲρ ἧς Καλαύρειαν ἐδέξατο. Καλλίμαχος (fg. 221 Schneider)· “μέσφα Καλαυρείης ἦλθεν ἐς ἀντίδοσιν”.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 29",
+      "text": "{Τούτους ἐν εὐχαῖς:} τοῦτό φησιν, ἐπειδὴ δραματική ἐστιν ἡ ποίησις· εἰ δὲ ἦν διηγηματική, εἶπεν ἂν ὁ ποιητής· ταῦτα εἰποῦσα εἰς θρόνον ἐκαθέζετο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 34",
+      "text": "Ἦ δεινὰ λέξαι: τὰ δεινά, φησίν, ἐξέπεμψέ με τοῦ μαντείου· ἰδοῦσα γὰρ Ὀρέστην ἐπὶ τοῦ βωμοῦ καὶ τὰς Ἐρινῦς κοιμωμένας, ἔξειμι τεταραγμένη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 38",
+      "text": "ὡραῖον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 40",
+      "text": "Ἐμφαντικῶς παρίστησι τὸν νεωστὶ ηὐθεντηκότα, οἱονεὶ τὸν φονεύσαντα· αὐθέντης γὰρ λέγεται ὁ φονευτής.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 41",
+      "text": "(προστρόπαιον:) ἱκετεύοντα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 43",
+      "text": "σημείωσαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 45a",
+      "text": "{Θαυμαστὸς λόχος:} 〈Ἀργῆτι μαλλῷ:〉 εἰώθασιν οἱ ποι‐ ηταί, ὅταν τι ἀσαφὲς εἴπωσιν, ἐπεκδιδάσκειν αὐτὸ ἀπὸ τοῦ Ὁμήρου καὶ σαφὲς ποιεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 45b",
+      "text": "(ἀργῆτι:) λευκῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 47",
+      "text": "(εὕδει:) καθεύδει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 49",
+      "text": "Πρὸς τὸ φοβερὸν τῆς ὄψεως φησὶ τὸ “Γοργείοισι”· καὶ γὰρ τὰς Γοργόνας λέγουσι δείματα φέρειν τοῖς ἀνθρώποις. τὸ δὲ ὅλον εἶδον, φησίν, αὐτὰς ἐν γραφῇ πτερωτάς, ἀλλ’ οὐχ ἁρπακτικάς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 52a",
+      "text": "Βδελύκτροποι: ἃς ἰδών τις, φησί, βδελύξαιτο καὶ ἐκτραπείη μισήσας αὐτὰς ὡς δυσειδεῖς· ἀπὸ γὰρ τῶν ὀμμάτων αὐτῶν λείβουσιν αἱ‐ ματηρὸν σταλαγμόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 52b",
+      "text": "σημείωσαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 57a",
+      "text": "Οὐδέποτε, φησί, τοιοῦτον γένος εἶδον μηδὲ ἴδοιμι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 57b",
+      "text": "(φῦλον:) γένος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 57c",
+      "text": "(ὄπωπα:) εἶδον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 59",
+      "text": "(ἀνατεί:) ἄνευ ἄτης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 60",
+      "text": "Τἀντεῦθεν ἤδη: ὥστε, φησίν, εἰ θεραπείας χρεία, αὐτῷ μελέ‐ σθω τῷ Ἀπόλλωνι· καὶ γὰρ εἰ θεραπείας χρεία, αὐτός ἐστιν ἰατρός· εἰ δὲ μαντείας, πάλιν αὐτός ἐστι τερατοσκόπος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 63",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 64",
+      "text": "Ἐπιφανεὶς Ἀπόλλων συμβουλεύει Ὀρέστῃ καταλιπεῖν μὲν τὸ μαντεῖον, φυγεῖν δὲ εἰς Ἀθήνας. καὶ δευτέρα δὲ γίνεται φαντασία· στρα‐ φέντα γὰρ μηχανήματα ἔνδηλα ποιεῖ τὰ κατὰ τὸ μαντεῖον ὡς ἔχει ἐν αὐτῷ. ταῦτα δὲ ὁ Ἀπόλλων φησίν· ἡ γὰρ ἱέρεια ἀπέστη αὐτοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 69",
+      "text": "Καὶ παλαιὰς λέγει τὰς θεὰς καὶ κόρας· κόρας μέν, ὅτι ἄγαμοι καὶ παρθένοι εἰσί, παλαιὰς δὲ διὰ τὸ γῆρας. τὸ ἀλλόκοτον δὲ τῆς φύ‐ σεως διὰ τῶν ἐναντίων τραγικώτερον διασύρει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 75",
+      "text": "(ἐλῶσι:) ἐλάσουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 78",
+      "text": "(βουκολούμενος:) περιέπων, ἐνεργῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 80",
+      "text": "(ἄγκαθεν:) ἐν ταῖς ἀγκάλαις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 84",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 85",
+      "text": "(μὴ ἀδικεῖν:) συνίζησις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 86",
+      "text": "(μὴ ἀμελεῖν:) συνίζησις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 87a",
+      "text": "Τὸ σὸν σθένος, φησίν, ἀσφαλές ἐστιν εἰς τὸ εὖ ποιεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 87b",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 91a",
+      "text": "Supra vers. ὅδιος γὰρ ὁ θεός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 91b",
+      "text": "(ποιμαίνων:) φυλάσσων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92",
+      "text": "(σέβει τοι:) τοῦτο διὰ μέσου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 93",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95",
+      "text": "Ἐμὲ μέν, φησίν, ἀτιμάζετε, διότι ἐφόνευσα τὸν Ἀγαμέμνονα· καὶ οἱ ἐμὲ φονεύσαντες οὐκ ἀτιμάζονται· ὡς Ὀρέστης οὗτος ὁ ἐμὸς υἱός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 98",
+      "text": "(ἀλῶμαι:) πλανῶμαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 99",
+      "text": "Ἔχω μεγίστην αἰτίαν: σφαγεῖσα, φησίν, αἰτιῶμαι παρ’ ἐκεί‐ νων, ὡς ὑπὸ τοῦ Ὀρέστου τοῦ ἡμετέρου υἱοῦ ἀνῃρέθην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 101",
+      "text": "(μηνίεται:) ὀργίζεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 104",
+      "text": "Εὕδουσα γὰρ φρήν: ἐν τῷ καθεύδειν, φησίν, ὁ νοῦς ἀκριβέστε‐ ρον ὁρᾷ μὴ πλανώμενος τῇ θέᾳ τῆς ἡμέρας· καὶ γὰρ τῆς νυκτὸς αἱ ἔννοιαι ἄρισται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 107",
+      "text": "Χοάς τ’ ἀοίνους: οἶνος γὰρ οὐ σπένδεται Ἐρινύσιν. ἔθυον δὲ αὐταῖς κατὰ τὴν νύκτα, ἐν ᾗ οὐδεὶς τῶν θεῶν ἐκοινώνει τῆς θυσίας αὐ‐ ταῖς. ἐν γὰρ τῷ μέσῳ τῆς νυκτὸς μόναις Ἐρινύσιν ἀπάρχονται θύειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 110",
+      "text": "(λὰξ ὁρῶ πατούμενα:) ἤγουν ἀνατετραμμένα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 111",
+      "text": "(ἐξαλύξας:) ἐκφυγών.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 112",
+      "text": "(ἀρκυσμάτων:) δικτύων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 113a",
+      "text": "Ἐγκατιλλώψας: χλευάσας, ἐγγελάσας. διὰ δὲ τούτων ἐρεθίζει αὐτάς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 113b",
+      "text": "(ἐγκατιλλώψας:) χλευάσας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 116",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 118a",
+      "text": "ἡμέτερον: † ἀπὸ τοῦ μυγμοῦ τὸ μύζειν παρήγαγεν. ἔοικε δὲ εἶναι ὁ μυγμὸς καὶ μωγμὸς ἀπήχημά τι τῶν ὑπνούντων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 118b",
+      "text": "Ὁ μὲν Ὀρέστης φυγῇ οἴχεται Ἀθήναζε πυθόμενος· αἱ δὲ Ἐρινύες μόναι καθεύδουσιν ὑπὸ πόνου ἴσως καὶ Ἀπόλλωνος, τοῦ τρα‐ γῳδοποιοῦ τοῦτο ἐπιτηδεύσαντος, ἵνα διὰ τούτου ἐμφανὲς γένηται τὸ ἄγριον αὐτῶν καὶ χαλεπόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 124",
+      "text": "Ὤζεις: ὥσπερ παρὰ τὸ αἴ αἰάζειν γίνεται, οὕτω καὶ παρὰ τὸ ὤ ὤζειν. τί δέ, φησί, τὸ σὸν ἔργον ἀνύει;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 127",
+      "text": "Κύριοι συνωμόται: συνωμοσίαν, φησί, ποιήσαντες κατεκοίμισαν ὑμᾶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 131a",
+      "text": "Ὀνειροπολοῦσαι διώκειν Ὀρέστην ἐοίκασιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 131b",
+      "text": "(κλαγγαίνεις:) βοᾷς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 135",
+      "text": "Supra vers. οὕτως ἄλγησον ὡς μαστιζόμενος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 137",
+      "text": "Ἐπουρίσασα: ἐφορμήσασα τῷ Ὀρέστῃ. τὸ δὲ “ἀτμῷ κατισ‐ χναίνουσα” ἀντὶ τοῦ πυρετῷ αὐτὸν ἀναλίσκουσα, ὡς δοκεῖν ἀτμοὺς ἀνιέναι ἀπὸ τῆς γαστρὸς αὐτοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 139",
+      "text": "Post vers. coronis.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 140a",
+      "text": "ἡμέτερον: † ἔγειρ’ ἔγειρε: καὶ τὰ παρόντα εἴδη τοῦ χοροῦ τοιαῦτά ἐστιν, οἷα πολλάκις εἴρηται. ἔχει γὰρ ἐν ἀρχῇ σύστημα ἐπιφθεγ‐ ματικὸν στίχων ἰαμβικῶν τριμέτρων γʹ. ἑξῆς δὲ κατὰ σχέσιν στροφὰς καὶ ἀντιστροφὰς γʹ, ὧν τῆς μὲν πρώτης στροφῆς τὰ κῶλα ζʹ καὶ τὰ τῆς ἀντιστροφῆς τοσαῦτα. τῆς δευτέρας ὁμοίως ζʹ καὶ τὰ τῆς ἀντιστροφῆς τοσαῦτα. τῆς δὲ τρίτης εʹ καὶ τὰ τῆς ἀντιστροφῆς τοσαῦτα. ἃ καὶ με‐ τρήσεις τοῖς προτέροις ἑπόμενος. εἰσὶ δὲ ἐν τούτοις καὶ ἰαμβικοὶ τρίμε‐ τροι πολλοί. ἐπὶ ταῖς ἀποθέσεσι τῶν στροφῶν καὶ ἀντιστροφῶν παράγρα‐ φος, ἐπὶ δὲ τῷ τέλει κορωνίς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 140b",
+      "text": "Ante vers. σύστημα ἐπιφθεγματικόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 142",
+      "text": "Post vers. (des. ματᾷ) paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 143",
+      "text": "Ante vers. στροφὴ κώλων ζʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 144",
+      "text": "ἴαμβος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 145",
+      "text": "Ἐπάθομεν πάθος: κομματικῶς ἕκαστον ἰδίως προενεκτέον. αἱ γὰρ διακοπαὶ πρόσφοροι τοῖς πάθεσι τούτοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 147",
+      "text": "ἴαμβος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 148",
+      "text": "Post vers. (des. ὤλεσα) paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 149",
+      "text": "Ante vers. ἀντιστροφὴ κώλων ζʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 150a",
+      "text": "ἴαμβος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 150b",
+      "text": "(καθιππάσω:) ἀντὶ τοῦ κατεπολέμησας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 153a",
+      "text": "ἴαμβος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 153b",
+      "text": "Συλληπτικῶς χρὴ λέγεσθαι τὸν μητραλοίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 154",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 155a",
+      "text": "Ante vers. στροφὴ ἑτέρα κώλων ζʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 155b",
+      "text": "ἴαμβος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 156",
+      "text": "Οὕτως ἔτυψέ με, φησίν, ὥσπερ ἡνίοχος τύπτει τοὺς πώλους τῷ κέντρῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 159",
+      "text": "(λοβόν:) τὸ ἄκρον τοῦ ἥπατος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 161a",
+      "text": "Supra vers. οὐ τὸ τυχὸν βαρύ, ἀλλὰ περισσόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 161b",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 162a",
+      "text": "Ante vers. ἀντιστροφὴ κώλων ζʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 162b",
+      "text": "Supra vers. ἴαμβος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 163",
+      "text": "(δίκας πλέον:) ἤγουν ὑπὲρ τὸ δίκαιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 164",
+      "text": "Τὸν θρόνον, φησίν, οὗ ὁ Ὀρέστης καθῆστο, πάρεστιν ὁρᾶν φονο‐ λιβῆ ἀπὸ ποδῶν ἕως κεφαλῆς. τὸ δὲ “γᾶς ὀμφαλόν” ἀντὶ τοῦ τὸν ἐν Πυθοῖ. διὰ τούτων δὲ ἀποσκευάζειν δοκοῦσι τῆς ἐπικουρίας τῶν θεῶν τὸν Ὀρέστην, ὥστε τὸν ὀμφαλὸν ἔχειν αἵματα ἄγος ἐπαίροντα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 168",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 169a",
+      "text": "Ante vers. στροφὴ ἑτέρα κώλων εʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 169b",
+      "text": "Supra vers. ἴαμβος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 169c",
+      "text": "(μάντι:) ὦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 170",
+      "text": "Supra vers. αὐτὸς ἑαυτὸν καλέσας ἐπὶ τῷ μιᾶναι τὸν ναόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 171a",
+      "text": "(παρὰ νόμων:) ἔξω τῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 171b",
+      "text": "(τίων:) τιμῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 172a",
+      "text": "Supra vers. ἡμᾶς δηλονότι, ὅσον τὸ ἐπὶ σοὶ ἀναιρήσας καὶ φονεύσας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 172b",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 174a",
+      "text": "Ante vers. ἀντιστροφὴ κώλων εʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 174b",
+      "text": "Supra vers. ἴαμβος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 175",
+      "text": "(ὑπαί:) ὑπό.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 176a",
+      "text": "Ἐναγής, φησίν, ὢν ἐν τῷ κάρᾳ αὐτοῦ ἕτερον μιάστορα λή‐ ψεται, καὶ οἱ ἐξ αὐτοῦ δίκας ἡμῖν δώσουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 176b",
+      "text": "(ποτιτρόπαιος:) προστρόπαιος, ἱκέτης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 178",
+      "text": "Post vers. coronis.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 179",
+      "text": "ἡμέτερον: † ἔξω κελεύω: αἱ συστηματικαὶ αὗται περίοδοι στίχων εἰσὶν ἰαμβικῶν τριμέτρων ἀκαταλήκτων ξεʹ, ὧν τελευταῖος (Eum. 243)· “αὐτοῦ φυλάσσων ἀναμένω τέλος δίκης”. ἐπὶ ταῖς ἀποθέ‐ σεσι παράγραφος, ἐπὶ δὲ τῷ τέλει κορωνίς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 180",
+      "text": "Supra vers. τὸ μὲν πρῶτον πρὸς πάσας ὁ λόγος, ἑξῆς δὲ πρὸς μίαν ἑκάστην ἀποδίδοται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 181a",
+      "text": "(πτηνὸν:) ταχύν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 181b",
+      "text": "Ἀργηστὴν ὄφιν: τραγικώτερον ὄφιν εἶπε τὸ βέλος διὰ τὸν ἰόν, πτηνὸν δὲ διὰ τὸ ἐπτερῶσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 181c",
+      "text": "(ἀργηστὴν:) λευκόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 181d",
+      "text": "(ὄφιν:) βέλος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 183",
+      "text": "Μέλανα ἀφρὸν εἶπε τὸ αἷμα, οὐ δήπου τὸ ἔμφυτον αὐτῶν—ἀναί‐ μονες γάρ εἰσιν οἱ θεοί—, ἀλλὰ τὸ ἀπ’ ἀνθρώπων ἠθροισμένον· ἀφρὸν δὲ τὴν πῆξιν τοῦ αἵματος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 188",
+      "text": "Χλοῦνιν λέγει τὴν ἀκμαίαν ἀποκοπὴν παρὰ τὴν χλόην· ἢ ἐπεὶ χλούνης ὁ σῦς, οἱ κάπροι δὲ εὐθὺς εὐνουχίζονται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 191",
+      "text": "Τὸ “ἑορτῆς” εἰρωνικὸν ἀντὶ τοῦ διατριβήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 192",
+      "text": "Πᾶς δ’ ὑφηγεῖται τρόπος: ἀντὶ τοῦ διὰ τῆς μορφῆς ὑμῶν ἡ κακία τῶν τρόπων ὑμῶν δείκνυται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 197",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 199-200",
+      "text": "Οὐκ ἐπικοινωνῶν τῇ αἰτίᾳ, ἀλλὰ τοῦ παντὸς σὺ αἴτιος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 200",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 205a",
+      "text": "(προστραπέσθαι:) προσελθεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 205b",
+      "text": "(ἐπέστελλον:) ἐκέλευσα αὐτόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 206",
+      "text": "Τοῦτο κατὰ ἀκκισμὸν εἴρηται, ὅ φασιν ἰδίωμα, τὰς διωκτρίας προπομποὺς εἰποῦσαι. ἀκκίζειν γάρ φασι τὸ τὰς γυναῖκας ἰδιωματεύε‐ σθαι καὶ σεμνολογεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 207",
+      "text": "(μολεῖν:) ὑμᾶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 211",
+      "text": "Τί προστέταχθε ποιεῖν περὶ ἀνδροφόνου γυναικὸς ἄνδρα φονευ‐ σάσης;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 212a",
+      "text": "Ὁ τοῦ Ἀγαμέμνονος φόνος, φησίν, οὐκ ἔστιν αὐθέντης, ὅ ἐστι μιαρός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 212b",
+      "text": "(αὐθέντης:) μιαρός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 217",
+      "text": "ὡραῖον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 223",
+      "text": "(ἡσυχαιτέραν:) δολιωτέραν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 224",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 226",
+      "text": "(τίθει:) ποίει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 229",
+      "text": "(λέγῃ:) ὀνομάζῃ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 233",
+      "text": "ὡραῖον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 234",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 243",
+      "text": "Post vers. coronis.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 244a",
+      "text": "ἡμέτερον: † εἶεν· τόδ’ ἐστὶ τἀνδρός: καὶ τὰ παρόντα εἴδη τοῦ χοροῦ τοιαῦτά ἐστιν, οἷα πολλάκις εἴρηται· ἔχει γὰρ ἐν ἀρχῇ σύ‐ στημα ἐπιφθεγματικὸν στίχων ἰαμβικῶν τριμέτρων ἀκαταλήκτων ιʹ· ἑξῆς δὲ στροφὴν μονόστροφον κώλων κβʹ· ἃ καὶ μετρήσεις τοῖς προτέροις ἑπόμενος· ἐν οἷς εἰσι καὶ ἰαμβικοὶ τρίμετροι. ἐπὶ ταῖς ἀποθέσεσι παρά‐ γραφος, ἐπὶ δὲ τῷ τέλει κορωνίς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 244b",
+      "text": "Ante vers. σύστημα ἐπιφθεγματικὸν στίχων ιʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 253a",
+      "text": "(προσγελᾷ:) θέλγει, προσέρχεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 253b",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 255",
+      "text": "Ante vers. στροφὴ κώλων κβʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 258",
+      "text": "ἴαμβος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 261",
+      "text": "ἴαμβος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 263",
+      "text": "Post vers. (des. οἴχεται) paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 264",
+      "text": "ἴαμβος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 267",
+      "text": "ἴαμβος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 268",
+      "text": "(τίνῃς:) ἵνα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 269a",
+      "text": "ἴαμβος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 269b",
+      "text": "(ἄλλον:) εἰς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 272-273",
+      "text": "ἴαμβοι βʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 272",
+      "text": "(ἔχονθ’ ἕκαστον:) ἰωνικόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 273",
+      "text": "ὡραῖον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 275",
+      "text": "ἴαμβος. Post vers. (des. τῇ φρενί) coronis.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 276",
+      "text": "ἡμέτερον: † ἐγὼ διδαχθείς: αἱ συστηματικαὶ αὗται περίοδοι στίχων εἰσὶν ἰαμβικῶν τριμέτρων ἀκαταλήκτων λαʹ, ὧν τελευταῖος (Eum. 306)· “ὕμνων ἀκούσῃ τῶνδε δεσμίων σέθεν”. ἐπὶ ταῖς ἀποθέσεσι παράγραφος, ἐπὶ δὲ τῷ τέλει κορωνίς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 286",
+      "text": "γνωμικόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 294",
+      "text": "(ὀρθὸν ἢ κατηρεφῆ:) καταβάλλει γὰρ ἢ ὀρθοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 298",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 300",
+      "text": "(μὴ οὐ:) συνίζησις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 306",
+      "text": "Post vers. coronis.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 307a",
+      "text": "† ἀναπαιστικὰ κῶλα ιεʹ, δίμετρα καὶ μονόμετρα. ἐπὶ τῷ τέλει κορωνίς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 307b",
+      "text": "Ante vers. στροφὴ καὶ ᾠδὴ κώλων ιεʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 320",
+      "text": "Post vers. coronis.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 321a",
+      "text": "ἡμέτερον: † μᾶτερ ἅ μ’ ἔτικτες: τὰ παρόντα εἴδη κατὰ σχέσιν ἐστὶ καὶ ἐξ ὁμοίων, ὡς εἴρηται. εἰσὶ δὲ τῆς μὲν στροφῆς τὰ κῶλα ιαʹ καὶ τὰ τῆς ἀντιστροφῆς τοσαῦτα. ἐπὶ τῷ τέλει τῆς μὲν στροφῆς παράγραφος, τῆς δὲ ἀντιστροφῆς κορωνίς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 321b",
+      "text": "Ante vers. στροφὴ κώλων ιαʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 323",
+      "text": "(Inter versus des. δεδορκόσιν et inc. τόνδε·) λείπει βʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 327",
+      "text": "(ματρώιον·) συνίζησις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 329-330",
+      "text": "ὅρα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 333",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 334",
+      "text": "Ante vers. ἀντιστροφὴ κώλων ιγʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 336",
+      "text": "περισσὰ βʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 341-342",
+      "text": "ὅρα ὅμοια.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 345",
+      "text": "Post vers. coronis.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 346a",
+      "text": "ἡμέτερον: † γιγνομέναισιν: τὰ τοιαῦτα εἴδη τῶν χορῶν καλεῖται μεσῳδικά, ὡς εἴρηται· οὐκ εἰσὶ δὲ διόλου τοιαῦτα, ἀλλ’ ἐν τῇ πρώτῃ μόνον στροφῇ ἔστι καὶ μεσῳδός, αἱ δὲ λοιπαὶ δύο ταῖς ἀντιστρο‐ φαῖς εἰσὶ συνημμέναι. εἰσὶ γοῦν τῆς μὲν πρώτης στροφῆς τὰ κῶλα εʹ, τῆς μεσῳδοῦ ηʹ, καὶ τὰ τῆς ἀντιστροφῆς αὖθις εʹ. τῆς δευτέρας στροφῆς κῶλα ηʹ, καὶ τὰ τῆς ἀντιστροφῆς τοσαῦτα. καὶ τῆς τρίτης ὁμοίως ηʹ, καὶ τὰ τῆς ἀντιστροφῆς τοσαῦτα. καὶ τῆς τρίτης ὁμοίως ηʹ, παράγραφος καὶ διπλαῖ διὰ τὴν ἀνταπόδοσιν, τῶν δὲ λοιπῶν στροφῶν καὶ ἀντιστροφῶν παράγραφος. ἐπὶ δὲ τῷ τέλει κορωνὶς ἐξιόντος τοῦ χοροῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 346b",
+      "text": "Ante vers. στροφὴ κώλων εʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 351",
+      "text": "Ante vers. (συνδάτωρ μετάκοινος) diple, post vers. para‐ graphus et diple.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 352",
+      "text": "Ante vers. μεσῳδὸς κώλων ηʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 359",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 360",
+      "text": "Ante vers. ἀντιστροφὴ κώλων εʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 361",
+      "text": "(θεῶν δ’:) συνίζησις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 364",
+      "text": "Post vers. (des. ἐλθεῖν) paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 365a",
+      "text": "Ante vers. στροφὴ ἑτέρα κώλων ηʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 365b",
+      "text": "οὐκ ὀρθά.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 366-371",
+      "text": "ὀρθά.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 371",
+      "text": "Post vers. (des. ποδός) paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 372",
+      "text": "Ante vers. ἀντιστροφὴ κώλων ηʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 372-375",
+      "text": "οὐκ ὀρθά.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 376-380",
+      "text": "ὀρθά.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 380",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 381",
+      "text": "Ante vers. στροφὴ ἑτέρα κώλων ηʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 387-8",
+      "text": "(καὶ δερκομένοισι καὶ δυσομμάτοις ὁμῶς:) ἴαμβος. Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 389",
+      "text": "Ante vers. ἀντιστροφὴ κώλων ηʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 396",
+      "text": "(τάξιν γ’—κνέφας:) ἴαμβος. Post vers. coronis.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 397",
+      "text": "ἡμέτερον: † πρόσωθεν ἐξήκουσα: αἱ συστηματικαὶ αὗται περίοδοι στίχων εἰσὶν ἰαμβικῶν τριμέτρων ἀκαταλήκτων ϟγʹ, ὧν τελευ‐ ταῖος (Eum. 488)· “ἥξω διαιρεῖν τοῦτο πρᾶγμ’ ἐτητύμως”. ἐπὶ ταῖς ἀποθέσεσι παράγραφος, ἐπὶ δὲ τῷ τέλει κορωνίς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 414",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 442",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 459",
+      "text": "(νιν:) αὐτόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 469",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 487",
+      "text": "(τὰ βέλτατα:) τὰ μέγιστα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 488",
+      "text": "Post vers. coronis.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 490a",
+      "text": "ἡμέτερον: † νῦν καταστροφαί: τὰ τοιαῦτα εἴδη τῶν χορῶν καλεῖται προῳδικά, ὡς εἴρηται. ἔχει δὲ τὰ παρόντα προῳδὸν καὶ στρο‐ φὰς τρεῖς καὶ ἀντιστροφὰς τοσαύτας. εἰσὶ δὲ τῆς μὲν προῳδοῦ τὰ κῶλα ηʹ, τῆς πρώτης στροφῆς ιβʹ, καὶ τὰ τῆς ἀντιστροφῆς τοσαῦτα· ἧστινος δὴ στροφῆς μετὰ τὸ τέλος κῶλά ἐστι δύο, ἃ καλεῖται ἐφύμνιον ἢ μεσύμνιον, ὥς φασιν. τῆς δευτέρας στροφῆς τὰ κῶλα ιαʹ καὶ τὰ τῆς ἀντιστροφῆς τοσαῦτα. τῆς δὴ τρίτης ηʹ καὶ τὰ τῆς ἀντιστροφῆς τοσαῦτα. ἐπὶ ταῖς ἀποθέσεσιν ἑκάστης στροφῆς καὶ ἀντιστροφῆς παράγραφος, ἐπὶ δὲ τῷ τέλει κορωνίς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 490b",
+      "text": "Ante vers. προῳδὸς κώλων ηʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 498",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 499",
+      "text": "Ante vers. στροφὴ κώλων ιβʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 502-505",
+      "text": "οὐκ ὀρθά.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 510",
+      "text": "Post vers. (des. θροούμενος) paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 511",
+      "text": "† τὰ δύο ταῦτα κῶλα καλεῖται ἐφύμνιον ἢ μεσύμνιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 512-514",
+      "text": "ὀρθά.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 512",
+      "text": "Ante vers. ἀντιστροφὴ κώλων ιβʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 513",
+      "text": "(νεοπαθὴς:) ἀντὶ μιᾶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 515-518",
+      "text": "οὐκ ὀρθά.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 519-524",
+      "text": "ὀρθά.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 524",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 525",
+      "text": "Ante vers. στροφὴ ἑτέρα κώλων ιαʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 529",
+      "text": "(ὤπασεν:) ἀντὶ μιᾶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 534",
+      "text": "(δυσσεβίας:) ἰωνικόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 536",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 537",
+      "text": "Ante vers. ἀντιστροφὴ κώλων ιαʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 539a",
+      "text": "(αἴδεσαι:) αἰδέσθητι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 539b",
+      "text": "(νιν:) αὐτόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 549",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 550",
+      "text": "Ante vers. στροφὴ ἑτέρα κώλων ηʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 554",
+      "text": "ἴαμβος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 557",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 558",
+      "text": "Ante vers. ἀντιστροφὴ κώλων ηʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 560",
+      "text": "(θερμῷ:) ἤγουν θερμουργῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 562",
+      "text": "ἴαμβος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 565",
+      "text": "(ἄιστος:) συνίζησις. Post vers. coronis.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 566",
+      "text": "ἡμέτερον: † κήρυσσε κῆρυξ: αἱ συστηματικαὶ αὗται περίοδοι στίχων εἰσὶν ἰαμβικῶν τριμέτρων ἀκαταλήκτων ρμθʹ, ὧν τελευταῖος (Eum. 777)· “σωτήριόν τε καὶ δορὸς νικηφόρον”. ἐπὶ ταῖς ἀποθέσεσι παράγραφος, ἐπὶ δὲ τῷ τέλει κορωνίς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 573",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 575",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 647",
+      "text": "ὡραῖον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 651",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 663",
+      "text": "σημείωσαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 673",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 685-686",
+      "text": "σημείωσαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 691",
+      "text": "(μὴ ἀδικεῖν:) συνίζησις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 694",
+      "text": "ὡραῖον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 699",
+      "text": "ὡραῖον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 710",
+      "text": "Post. vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 725",
+      "text": "ὡραῖον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 733",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 743",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 749",
+      "text": "(μὴ ἀδικεῖν:) συνίζησις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 751",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 753",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 777",
+      "text": "Post vers. coronis.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 808a",
+      "text": "ἡμέτερα: † ἰὼ θεοί: τὰ τοιαῦτα εἴδη καλεῖται ἑτερό‐ στροφα, ὡς εἴρηται. εἰσὶ δὲ τῆς παρούσης στροφῆς τὰ κῶλα ιϛʹ, ὧν οἱ πρῶτοι γʹ ἰαμβικοὶ τρίμετροι στίχοι, τὰ δὲ λοιπὰ κῶλα διαφόρων μέτρων. ἐπὶ τῷ τέλει παράγραφος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 808b",
+      "text": "Ante vers. στροφὴ κώλων ιϛʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 823",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 824a",
+      "text": "† οὐκ ἔστ’ ἄτιμοι: σύστημα κατὰ περικοπὴν ἀνομοιομερὲς στίχων ἰαμβικῶν τριμέτρων ἀκαταλήκτων ιγʹ. ἐπὶ τῷ τέλει παράγραφος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 824b",
+      "text": "Ante vers. σύστημα στίχων ιγʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 836",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 837a",
+      "text": "ἡμέτερα: † ἐμὲ παθεῖν τάδε: στροφὴ ἑτέρα κώλων ιαʹ, ἃ καὶ μετρήσεις τοῖς προτέροις ἑπόμενος. ἐπὶ τῷ τέλει παράγραφος καὶ διπλαῖ διὰ τὴν ἀνταπόδοσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 837b",
+      "text": "Ante vers. στροφὴ ἑτέρα κώλων ιαʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 847",
+      "text": "Ante vers. (παρ’ οὐδὲν ἦραν δόλῳ) diple, post vers diple et paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 848a",
+      "text": "† ὀργὰς ξυνοίσω σοι: σύστημα ἕτερον κατὰ περικοπὴν ἀνομοιομερὲς στίχων ἰαμβικῶν τριμέτρων ἀκαταλήκτων κβʹ. ἐπὶ τῷ τέ‐ λει παράγραφος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 848b",
+      "text": "Ante vers. σύστημα ἕτερον στίχων κβʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 861",
+      "text": "σημείωσαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 866",
+      "text": "ὡραῖον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 869",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 870a",
+      "text": "ἡμέτερα: † ἐμὲ παθεῖν τάδε: ἡ ἀντιστροφὴ αὕτη τῆς ἄνω ἐστὶ στροφῆς, τὰ αὐτὰ γὰρ ἔχει κῶλα καὶ τοσαῦτα. ἐπὶ τῷ τέλει δύο διπλαῖ συνήθως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 870b",
+      "text": "Ante vers. ἀντιστροφὴ κώλων ιαʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 880",
+      "text": "Ante vers. (παρ’ οὐδὲν ἦραν δόλῳ) diple, post vers. diple.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 881a",
+      "text": "† οὔτοι καμοῦμαι· σύστημα ἕτερον κατὰ περικοπὴν ἀνο‐ μοιομερὲς στίχων ἰαμβικῶν τριμέτρων ιαʹ· ἐπὶ τῷ τέλει παράγραφος. καὶ οἱ ἑξῆς στίχοι ὅμοιοι εἰσὶν ἰαμβικοὶ τρίμετροι κδʹ· ἐπὶ ταῖς ἀποθέ‐ σεσι παράγραφος, ἐπὶ δὲ τῷ τέλει κορωνίς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 881b",
+      "text": "Ante vers. σύστημα στίχων ιαʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 891",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 910",
+      "text": "Post vers. paragraphus",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 915",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 916a",
+      "text": "ἡμέτερα: † δέξομαι Παλλάδος: τὰ τοιαῦτα εἴδη κα‐ λεῖται, ὡς εἴρηται, ἀλλοιόστροφα. εἰσὶ δὲ τῆς παρούσης στροφῆς τὰ κῶλα ιαʹ, τὰ πλείω τροχαϊκά, εἰ βούλει. ἐπὶ τῷ τέλει παράγραφος καὶ διπλαῖ διὰ τὴν ἀνταπόδοσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 916b",
+      "text": "Ante vers. στροφὴ κώλων ιαʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 924",
+      "text": "(ἐξαμυρόσαι:) ἀντὶ μιᾶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 925",
+      "text": "Ante vers. diple, post vers. paragraphus et diple.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 927a",
+      "text": "† ἀναπαιστικὰ κῶλα ιαʹ, εἶτα παράγραφος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 927b",
+      "text": "Ante vers. σύστημα κώλων ιαʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 937",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 938a",
+      "text": "† δενδροπήμων: ἡ ἀντιστροφὴ αὕτη τῆς ἄνω ἐστὶ στροφῆς, ἧς ἡ ἀρχὴ “δέξομαι”· κώλων γάρ ἐστι καὶ αὕτη ιαʹ. ἐπὶ τῷ τέλει παρά‐ γραφος μόνη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 938b",
+      "text": "Ante vers. ἀντιστροφὴ κώλων ιαʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 948",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 949a",
+      "text": "† ἀναπαιστικὰ κῶλα ζʹ, εἶτα παράγραφος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 949b",
+      "text": "Ante vers. σύστημα ἕτερον κώλων ζʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 955",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 956a",
+      "text": "ἡμέτερα: † ἀνδροκμήτας: στροφὴ ἑτέρα κώλων χορι‐ αμβικῶν ιβʹ. ἐπὶ τῷ τέλει παράγραφος καὶ διπλαῖ συνήθως διὰ τὴν ἀνταπόδοσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 956b",
+      "text": "Ante vers. στροφὴ ἑτέρα κώλων ιβʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 957",
+      "text": "(νεανίδων τ’:) ἀντὶ μιᾶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 967",
+      "text": "Ante vers. diple, post vers. paragraphus et diple.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 968a",
+      "text": "† ἀναπαιστικὰ κῶλα ηʹ, εἶτα παράγραφος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 968b",
+      "text": "Ante vers. σύστημα ἕτερον κώλων ηʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 975",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 976a",
+      "text": "† τάνδ’ ἄπληστον: ἡ ἀντιστροφὴ αὕτη τῆς ἄνω ἐστὶ στρο‐ φῆς, ἧς ἡ ἀρχὴ “ἀνδροκμήτας”· κώλων γάρ ἐστι καὶ αὕτη ιβʹ. ἐπὶ τῷ τέλει παράγραφος μόνη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 976b",
+      "text": "Ante vers. ἀντιστροφὴ κώλων ιβʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 987",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 988a",
+      "text": "† ἀναπαιστικὰ κῶλα ηʹ, εἶτα παράγραφος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 988b",
+      "text": "Ante vers. σύστημα ἕτερον κώλων ηʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 995",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 996a",
+      "text": "ἡμέτερα: † χαίρετε: στροφὴ ἑτέρα κώλων ζʹ, ὧν τὰ πλείω, εἰ βούλει, τροχαϊκά. ἐπὶ τῷ τέλει παράγραφος καὶ διπλαῖ συνή‐ θως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 996b",
+      "text": "Ante vers. στροφὴ ἑτέρα κώλων ζʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1002",
+      "text": "Ante vers. (ὄντας ἅζεται πατήρ) diple, post vers. paragra‐ phus et diple.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1003a",
+      "text": "† ἀναπαιστικὰ κῶλα ιαʹ, εἶτα παράγραφος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1003b",
+      "text": "Ante vers. σύστημα ἕτερον κώλων ιαʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1013",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1014a",
+      "text": "ἡμέτερα: † χαίρετε: ἡ ἀντιστροφὴ αὕτη τῆς ἄνω ἐστὶ στροφῆς, ἧς ἡ ἀρχὴ ἡ αὐτή· κώλων γάρ ἐστι καὶ αὕτη ζʹ. ἐπὶ τῷ τέλει δύο διπλαῖ δηλοῦσαι, ὅτι τέλος ἔσχε τὰ ἀνταποδιδόμενα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1014b",
+      "text": "Ante vers. ἀντιστροφὴ κώλων ζʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1020",
+      "text": "Ante vers. (–ψεσθε συμφορὰς βίου) diple, post vers. diple.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1021a",
+      "text": "† αἰνῶ δὲ μύθους: σύστημα ἕτερον ἐν ἐκθέσει στίχων ἰαμβι‐ κῶν τριμέτρων ἀκαταλήκτων ιαʹ. ἐπὶ τῷ τέλει παράγραφος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1021b",
+      "text": "Ante vers. σύστημα ἕτερον στίχων ιαʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1030",
+      "text": "(εὔφρων:) εὐφραντική.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1031",
+      "text": "Post vers. paragraphus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1032a",
+      "text": "ἡμέτερον: † βᾶτ’ ἐν δόμῳ: ἡ ᾠδὴ καὶ στροφὴ αὕτη ἡ ἐν ἐκθέσει τοῦ δράματος κώλων ἐστὶ χοριαμβικῶν καὶ ἀλλοίων ιϛʹ· ἃ καὶ μετρήσεις τοῖς προτέροις ἑπόμενος. ἐπὶ τῷ τέλει κορωνὶς μόνη ἡ τὸ δρᾶμα ἐπισφραγίζουσα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1032b",
+      "text": "Ante vers. ᾠδὴ καὶ στροφὴ κώλων ιϛʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1048",
+      "text": "Post vers. coronis.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book Subscr",
+      "text": "† Αἰσχύλου Εὐμενίδες:·",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "tro-aa",
+      "title": {
+        "english": "Argument and Interlinear Glosses-the Persians",
+        "ancient_greek": "Ἐπιχείρημα καὶ Ἐνδιάμεσοι Γλῶσσαι εἰς Πέρσας"
+      },
+      "url_slug": "aeschylus-scholia-persians-glosses-tro-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/persians-glosses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-glosses-tro-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-glosses-tro-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-glosses-tro-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-glosses-tro-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-glosses.epub"
+      }
+    },
+    {
+      "eul_wid": "tro-ak",
+      "title": {
+        "english": "Catalogue of Fables",
+        "ancient_greek": "Κατάλογος Μύθων"
+      },
+      "url_slug": "aeschylus-scholia-catalogue-fables-tro-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/catalogue-fables",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-catalogue-fables-tro-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-catalogue-fables-tro-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-catalogue-fables-tro-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-catalogue-fables-tro-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/catalogue-fables.epub"
+      }
+    },
+    {
+      "eul_wid": "tro-am",
+      "title": {
+        "english": "Later Scholia on Persians",
+        "ancient_greek": "Σχόλια εἰς Πέρσας"
+      },
+      "url_slug": "aeschylus-scholia-persians-am-tro-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/persians-am",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-am-tro-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-am-tro-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-am-tro-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-am-tro-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-am.epub"
+      }
+    },
+    {
+      "eul_wid": "tro-af",
+      "title": {
+        "english": "Later Scholia on Prometheus Bound",
+        "ancient_greek": "Σχόλια εἰς Προμηθέα Δεσμώτην"
+      },
+      "url_slug": "aeschylus-scholia-prometheus-bound-af-tro-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/prometheus-bound-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-prometheus-bound-af-tro-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-prometheus-bound-af-tro-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-prometheus-bound-af-tro-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-prometheus-bound-af-tro-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/prometheus-bound-af.epub"
+      }
+    },
+    {
+      "eul_wid": "tro-an",
+      "title": {
+        "english": "Magister's Commentary on Persians",
+        "ancient_greek": "Σχόλια εἰς Πέρσας"
+      },
+      "url_slug": "aeschylus-scholia-persians-an-tro-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/persians-an",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-an-tro-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-an-tro-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-an-tro-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-an-tro-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-an.epub"
+      }
+    },
+    {
+      "eul_wid": "tro-ao",
+      "title": {
+        "english": "Marginal Scholia on Persians",
+        "ancient_greek": "Σχόλια εἰς Πέρσας"
+      },
+      "url_slug": "aeschylus-scholia-persians-ao-tro-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/persians-ao",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-ao-tro-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-ao-tro-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-ao-tro-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-ao-tro-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-ao.epub"
+      }
+    },
+    {
+      "eul_wid": "tro-al",
+      "title": {
+        "english": "Old Scholia on Persians",
+        "ancient_greek": "Σχόλια εἰς Πέρσας"
+      },
+      "url_slug": "aeschylus-scholia-persians-al-tro-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/persians-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-al-tro-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-al-tro-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-al-tro-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-al-tro-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-al.epub"
+      }
+    },
+    {
+      "eul_wid": "tro-ae",
+      "title": {
+        "english": "Old Scholia on Prometheus Bound",
+        "ancient_greek": "Σχόλια εἰς Προμηθέα Δεσμώτην"
+      },
+      "url_slug": "aeschylus-scholia-prometheus-bound-ae-tro-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/prometheus-bound-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-prometheus-bound-ae-tro-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-prometheus-bound-ae-tro-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-prometheus-bound-ae-tro-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-prometheus-bound-ae-tro-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/prometheus-bound-ae.epub"
+      }
+    },
+    {
+      "eul_wid": "tro-ab",
+      "title": {
+        "english": "Prototriclinian Scholia-Aeschylus",
+        "ancient_greek": "Πρωτοτρικλίνια Σχόλια εἰς Αἰσχύλον"
+      },
+      "url_slug": "aeschylus-scholia-prototriclinian-tro-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/prototriclinian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-prototriclinian-tro-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-prototriclinian-tro-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-prototriclinian-tro-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-prototriclinian-tro-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/prototriclinian.epub"
+      }
+    },
+    {
+      "eul_wid": "tro-ac",
+      "title": {
+        "english": "Scholia and Glosses on Persians",
+        "ancient_greek": "Σχόλια καὶ Γλῶσσαι εἰς Πέρσας"
+      },
+      "url_slug": "aeschylus-scholia-persians-ac-tro-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/persians-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-ac-tro-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-ac-tro-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-ac-tro-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-ac-tro-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "tro-ag",
+      "title": {
+        "english": "Scholia on Aeschylus (Agamemnon)",
+        "ancient_greek": "Σχόλια εἰς Αἰσχύλον"
+      },
+      "url_slug": "aeschylus-scholia-text-ag-tro-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/text-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-text-ag-tro-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-text-ag-tro-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-text-ag-tro-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-text-ag-tro-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/text-ag.epub"
+      }
+    },
+    {
+      "eul_wid": "tro-ai",
+      "title": {
+        "english": "Scholia on Aeschylus (Prometheus and Other Plays)",
+        "ancient_greek": "Σχόλια εἰς Αἰσχύλον"
+      },
+      "url_slug": "aeschylus-scholia-text-ai-tro-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/text-ai",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-text-ai-tro-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-text-ai-tro-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-text-ai-tro-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-text-ai-tro-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/text-ai.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "piw-ab",
+      "title": {
+        "english": "Allegories-Hesiod's Theogony",
+        "ancient_greek": "Ἀλληγορίαι εἰς τὴν Θεογονίαν τοῦ Ἡσιόδου"
+      },
+      "url_slug": "galen-of-pergamon-ii-allegories-theogony-piw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon-ii/allegories-theogony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-ii-allegories-theogony-piw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-ii-allegories-theogony-piw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-ii-allegories-theogony-piw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-ii-allegories-theogony-piw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-ii/allegories-theogony.epub"
+      }
+    },
+    {
+      "eul_wid": "oqu-ad",
+      "title": {
+        "english": "Eclogae (Recension B)",
+        "ancient_greek": "Ἐκλογαί"
+      },
+      "url_slug": "phrynichus-of-bithynia-text-ad-oqu-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/phrynichus-of-bithynia/text-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia-text-ad-oqu-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia-text-ad-oqu-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia-text-ad-oqu-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia-text-ad-oqu-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia/text-ad.epub"
+      }
+    },
+    {
+      "eul_wid": "tme-ae",
+      "title": {
+        "english": "Etymologies (Selection D)",
+        "ancient_greek": "Ἐτυμολογικὸν Ἔργον"
+      },
+      "url_slug": "orion-of-thebes-etymological-ae-tme-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/orion-of-thebes/etymological-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymological-ae-tme-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymological-ae-tme-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymological-ae-tme-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymological-ae-tme-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/etymological-ae.epub"
+      }
+    },
+    {
+      "eul_wid": "vtk-aa",
+      "title": {
+        "english": "Etymology of the Alphabet",
+        "ancient_greek": "Ἐτυμολογία τοῦ Ἀλφαβήτου"
+      },
+      "url_slug": "lexicographic-anonymous-ii-alphabet-etymology-vtk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lexicographic-anonymous-ii/alphabet-etymology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographic-anonymous-ii-alphabet-etymology-vtk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographic-anonymous-ii-alphabet-etymology-vtk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographic-anonymous-ii-alphabet-etymology-vtk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographic-anonymous-ii-alphabet-etymology-vtk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographic-anonymous-ii/alphabet-etymology.epub"
+      }
+    },
+    {
+      "eul_wid": "oyc-aa",
+      "title": {
+        "english": "On the Difference of Words by Element",
+        "ancient_greek": "Περὶ διαφορᾶς λέξεων"
+      },
+      "url_slug": "ptolemy-of-ascalon-difference-words-element-oyc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-ascalon/difference-words-element",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-ascalon-difference-words-element-oyc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-ascalon-difference-words-element-oyc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-ascalon-difference-words-element-oyc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-ascalon-difference-words-element-oyc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-ascalon/difference-words-element.epub"
+      }
+    },
+    {
+      "eul_wid": "cto-ak",
+      "title": {
+        "english": "Scholia on Euripides (Glosses)",
+        "ancient_greek": "Σχόλια εἰς Εὐριπίδην"
+      },
+      "url_slug": "xenophon-scholia-euripides-ak-cto-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-scholia/euripides-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-euripides-ak-cto-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-euripides-ak-cto-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-euripides-ak-cto-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-euripides-ak-cto-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/euripides-ak.epub"
+      }
+    },
+    {
+      "eul_wid": "vmw-al",
+      "title": {
+        "english": "Scholia on Hymn III (P.Oxy. fragments)",
+        "ancient_greek": "Σχόλια εἰς Ὕμνον Γ΄"
+      },
+      "url_slug": "callimachus-scholia-hymn-iii-al-vmw-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/hymn-iii-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-hymn-iii-al-vmw-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-hymn-iii-al-vmw-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-hymn-iii-al-vmw-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-hymn-iii-al-vmw-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hymn-iii-al.epub"
+      }
+    },
+    {
+      "eul_wid": "vmw-ai",
+      "title": {
+        "english": "Scholia-Lyric Poems",
+        "ancient_greek": "Σχόλια εἰς Λυρικὰ Ποιήματα"
+      },
+      "url_slug": "callimachus-scholia-lyric-poems-vmw-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/lyric-poems",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-lyric-poems-vmw-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-lyric-poems-vmw-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-lyric-poems-vmw-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-lyric-poems-vmw-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/lyric-poems.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aeschylus-scholia/eumenides",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-eumenides-tro-aj.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-eumenides-tro-aj.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-eumenides-tro-aj.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-eumenides-tro-aj.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/eumenides.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,544 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "iuc-aa",
+  "eul_aid": "iuc",
+  "author_slug": "alexander-of-aetolia",
+  "work_slug": "helios-heroes",
+  "url_slug": "alexander-of-aetolia-helios-heroes-iuc-aa",
+  "author": {
+    "english": "Alexander of Aetolia",
+    "ancient_greek": "Ἀλέξανδρος ὁ Αἰτωλός"
+  },
+  "title": {
+    "english": "Fragments on Helios and Heroes",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ἡλίου καὶ Ἡρώων"
+  },
+  "seo": {
+    "browser_title": "Fragments of Alexander of Aetolia on Eulogikon Archive",
+    "meta_title": "Fragments of Alexander of Aetolia in Ancient Greek",
+    "meta_description": "Fragments of Alexander of Aetolia on Helios and heroes. Hellenistic poetic epigrams. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Helios and Heroes</strong> is a lost poetic work by the Hellenistic poet Alexander of Aetolia. Its existence is recorded solely in a tenth-century CE entry in the <strong>Suda</strong>, a Byzantine encyclopedia, which lists it as a single book of forty-eight lines. The title, which translates to <strong>Fragments on Helios and Heroes</strong>, suggests the work was a collection of thematic excerpts or epigrams. No direct quotations from it survive in any other ancient or medieval source, making the bibliographic note in the <strong>Suda</strong> the sole evidence for the collection. Based on its title and the scholarly, Alexandrian context of its author, the collection likely treated interconnected mythological themes, exploring the nature and myths of the sun god Helios, the deeds and cults of Greek heroes, and the relationship between divine power and human excellence. Its mention contributes to the record of Hellenistic literary production, exemplifying the specialized, minor poetic works from the period that were not transmitted to later eras.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "[ln_1]Γευσάμενος βοτάνης, ἣν Ἠελίῳ φαέθοντι ἐν μακάρων νήσοισι λιτὴ φύει εἴαρι γαῖα, Ἠέλιος δ’ ἵπποις θυμήρεα δόρπον ὀπάζει, ὕλῃ ναιετάουσαν, ἵνα δρόμον ἐκτελέσωσιν[ln_5]ἄτρυτοι, καὶ μή τιν’ ἕλοι μεσσηγὺς ἀνίη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "[ln_1]Πηδαλίῳ ἄκρῳ ἔπι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "πομπίλος ἁνιοχεύων ἧστ’ ἀκάτω κατόπισθε, θεᾶς ὕπο πόμπιμος ἰχθύς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "[ln_1]Παῖς Ἱπποκλῆος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "Φοβίος Νειληϊάδαο [para]ἔσται ἰθαιγενέων γνήσιος ἐκ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.3",
+      "text": "πατέρων. Τῷ δ’ ἄλοχος μνηστὴ δόμον ἵξεται· ἧς ἔτι νύμφης [para]ἠλάκατ’ ἐν θαλάμοις κάλ’ ἀνελισσομένης[ln_5]Ἀσσησοῦ βασιλῆος ἐλεύσεται ἔκγονος Ἀνθεύς, [para]ὅρκι’ ὁμηρείης πίστ’ ἐπιβωσάμενος, πρωθήβης, ἔαρος θαλερώτερος· (οὐδὲ Μελίσσῳ [para]Πειρήνης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.4",
+      "text": "τοιόνδ’ ἀλφεσίβοιον ὕδωρ θηλήσει μέγαν υἱόν, ἀφ’ οὗ μέγα χάρμα Κορίνθῳ[ln_10]ἔσται, καὶ βριαροῖς ἄλγεα Βακχιάδαις·) Ἀνθεὺς Ἑρμείῃ ταχινῷ φίλος, ᾧ ἔπι νύμφη [para]μαινὰς ἄφαρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.5",
+      "text": "σχήσει τὸν λιθόλευστον ἔρων, καὶ ἓ καθαψαμένη γούνων ἀτέλεστα κομίσσαι [para]πείσει· ὁ δὲ Ζῆνα Ξείνιον αἰδόμενος[ln_15]σπονδάς τ’ ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.6",
+      "text": "Φοβίου καὶ ἅλα ξυνέωνα θαλίης [para]κρήναις καὶ ποταμοῖς νίψετ’ ἀεικὲς ἔπος. Ἡ δ’, ὅταν ἀρνῆται μέλεον γάμον ἀγλαὸς Ἀνθεύς,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "δὴ τότε οἱ τεύξει μητιόεντα δόλον, μύθοις ἐξαπαφοῦσα, λόγος δέ οἱ ἔσσεται οὗτος·[ln_20]“Γαυλός μοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "χρύσεος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.3",
+      "text": "φρείατος ἐκ μυχάτου νῦν ὅγ’ ἀνελκόμενος διὰ μὲν καλὸν ἤρικεν οὖσον, [para]αὔτως δ’ ἐς Νύμφας ᾤχετ’ ἐφυδριάδας· πρὸς σὲ θεῶν, ἀλλ’ εἴ μοι, ἐπεὶ καὶ πᾶσιν ἀκούω [para]ῥηϊδίην οἶμον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.4",
+      "text": "τοῦδ’ ἔμεναι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.5",
+      "text": "στομίου,[ln_25]ἰθύσας ἀνέλοιο, τότ’ ἂν μέγα φίλτατος εἴης.” [para]Ὧδε μὲν ἡ Φοβίου Νειλεΐδαο δάμαρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.6",
+      "text": "φθέγξεθ’· ὁ δ’ οὐ φρασθεὶς ἀπὸ μὲν Λελεγήιον εἷμα [para]μητρὸς ἑῆς ἔργον θήσεται Ἐλλαμενῆς· αὐτὸς δὲ σπεύδων κοῖλον καταβήσεται ἄγκος[ln_30]φρείατος· ἡ δ’ ἐπί οἱ λιρὰ νοεῦσα γυνὴ ἀμφοτέραις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.7",
+      "text": "χείρεσσι μυλακρίδα λᾶαν ἐνήσει. [para]Καὶ τόθ’ ὁ μὲν ξείνων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.8",
+      "text": "πολλὸν ἀποτμότατος ἠρίον ὀγκώσει τὸ μεμορμένον· ἡ δ’ ὑπὸ δειρὴν ἁψαμένη σὺν τῷ βήσεται εἰς Ἀΐδην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.1",
+      "text": "[ln_1]Ἀλλ’ ὅγε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.2",
+      "text": "πευθόμενος πάγχυ Γραικοῖσι μέλεσθαι [para]Τιμόθεον, κιθάρης ἴδμονα καὶ μελέων, υἱὸν Θερσάνδρου †τὸν ᾔνεσεν ἀνέρα σίγλων [para]χρυσείων ἱερὴν δὴ τότε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.3",
+      "text": "χιλιάδα[ln_5]ὑμνῆσαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.4",
+      "text": "ταχέων τ’ Ὦπιν βλήτειραν ὀϊστῶν, [para]ἥ τ’ ἐπὶ Κεγχρείῳ τίμιον οἶκον ἔχει, . . . . . . . . μηδὲ θεῆς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.5",
+      "text": "προλίπῃ Λητωΐδος ἀκλέα ἔργα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.1",
+      "text": "... ὡς Ἀγαθοκλεῖος λάσιαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.2",
+      "text": "φρένες ἤλασαν ἔξω [para]πατρίδος. Ἀρχαίων ἦν ὅδ’ ἀνὴρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.3",
+      "text": "προγόνων, εἰδὼς ἐκ νεότητος ἀεὶ ξείνοισιν ὁμιλεῖν [para]ξεῖνος, Μιμνέρμου δ’ †εἰς ἔπος ἄκρον ἰὼν[ln_5]παιδομανεῖ σὺν ἔρωτι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.4",
+      "text": "ποτὴν ἴσον†· ἔγραφε δ’ ὡνὴρ [para]εὖ παρ’ Ὁμηρείην ἀγλαΐην ἐπέων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.5",
+      "text": "πισύγγους ἢ φῶρας ἀναιδέας ἤ τινα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.6",
+      "text": "χλούνην [para]φλύοντ’ ἀνθηρῇ σὺν κακοδαιμονίῃ, οἷα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.7",
+      "text": "Συρηκόσιος, καὶ ἔχων χάριν· ὃς δὲ Βοιωτοῦ[ln_10]ἔκλυεν, Εὐβοίῳ τέρπεται οὐδ’ ὀλίγον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.1",
+      "text": "Οἳ καὶ ἐπ’ Ἀσκανίων δώματ’ ἔχουσι ῥοῶν λίμνης Ἀσκανίης ἐπὶ χείλεσιν, ἔνθα Δολίων [para]υἱὸς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.2",
+      "text": "Σειληνοῦ νάσσατο καὶ Μελίης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.1",
+      "text": "Ὁ δ’ Ἀναξαγόρου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.2",
+      "text": "τρόφιμος χᾳοῦ στρυφνὸς μὲν ἔμοιγε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.3",
+      "text": "προσειπεῖν, καὶ μισογέλως, καὶ τωθάζειν οὐδὲ παρ’ οἴνῳ μεμαθηκώς, ἀλλ’ ὅ,τι γράψαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.4",
+      "text": "τοῦτ’ ἂν μέλιτος καὶ Σειρήνων ἐτετεύχει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.1",
+      "text": "Αὐτά που τὰν Κύπριν ἀπηκριβώσατο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.2",
+      "text": "Παλλὰς [para]τᾶς ἐπ’ Ἀλεξάνδρου λαθομένα κρίσιος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.1",
+      "text": "[ln_1]Σάρδιες ἀρχαῖος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.2",
+      "text": "πατέρων νομός, εἰ μὲν ἐν ὑμῖν [para]ἐτρεφόμαν, κερνᾶς ἦν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.3",
+      "text": "τις ἂν ἢ βακέλας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.4",
+      "text": "χρυσοφόρος, ῥήσσων λάλα τύμπανα· νῦν δέ μοι Ἀλκμὰν [para]οὔνομα, καὶ Σπάρτας εἰμὶ πολυτρίποδος,[ln_5]καὶ Μούσας ἐδάην Ἑλικωνίδας, αἵ με",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.5",
+      "text": "τυράννων [para]θῆκαν Κανδαύλεω μείζονα καὶ Γύγεω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15",
+      "text": "ὑπὸ Δάφνιδος μαθεῖν Μαρσύαν τὴν αὐλητικήν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.1",
+      "text": "Ἄνθρωπε ζωῆς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.2",
+      "text": "περιφείδεο, μηδὲ παρ’ ὥρην [para]ναυτίλος ἴσθι· καὶ ὣς οὐ πολὺς ἀνδρὶ βίος· δείλαιε Κλεόνικε, σὺ δ’ εἰς λιπαρὴν Θάσον ἐλθεῖν [para]ἠπείγευ, κοίλης ἔμπορος ἐκ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.3",
+      "text": "Συρίης,[ln_5]ἔμπορος, ὦ Κλεόνικε· δύσιν δ’ ὑπὸ Πλειάδος αὐτὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.4",
+      "text": "ποντοπορῶν αὐτῇ Πλειάδι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.5",
+      "text": "συγκατέδυς.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "iuc-ab",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "alexander-of-aetolia-epigrams-iuc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-aetolia/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia-epigrams-iuc-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia-epigrams-iuc-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia-epigrams-iuc-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia-epigrams-iuc-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia/epigrams.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "lmm-aa",
+      "title": {
+        "english": "Anonymous Iambic Fragments",
+        "ancient_greek": "Ἀνώνυμα Ἰαμβικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "anonymous-iambic-works-fragments-lmm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-iambic-works/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-iambic-works-fragments-lmm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-iambic-works-fragments-lmm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-iambic-works-fragments-lmm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-iambic-works-fragments-lmm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-iambic-works/fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "mje-aa",
+      "title": {
+        "english": "Battle of Frogs and Mice, Byzantine Prosody",
+        "ancient_greek": "Βατραχομυομαχία"
+      },
+      "url_slug": "parodist-anon-frogs-mice-aa-mje-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/parodist-anon/frogs-mice-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-aa-mje-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-aa-mje-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-aa-mje-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-aa-mje-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon/frogs-mice-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "hwg-ab",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "posidippus-of-pella-epigrams-hwg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/posidippus-of-pella/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-pella-epigrams-hwg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-pella-epigrams-hwg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-pella-epigrams-hwg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-pella-epigrams-hwg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-pella/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "ttm-aa",
+      "title": {
+        "english": "Fragments on Birdsong",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ὀρνίθων ᾠδῆς"
+      },
+      "url_slug": "assembly-of-the-birds-fragments-ttm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/assembly-of-the-birds/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/assembly-of-the-birds-fragments-ttm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/assembly-of-the-birds-fragments-ttm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/assembly-of-the-birds-fragments-ttm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/assembly-of-the-birds-fragments-ttm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/assembly-of-the-birds/fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "upu-al",
+      "title": {
+        "english": "Hymn 6 To Aphrodite",
+        "ancient_greek": "Ὕμνος εἰς Ἀφροδίτην"
+      },
+      "url_slug": "homeric-hymns-anonymous-aphrodite-al-upu-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/aphrodite-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-aphrodite-al-upu-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-aphrodite-al-upu-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-aphrodite-al-upu-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-aphrodite-al-upu-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/aphrodite-al.epub"
+      }
+    },
+    {
+      "eul_wid": "sck-aa",
+      "title": {
+        "english": "Lament for a Lost Son",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "lamentation-song-lost-son-sck-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lamentation-song/lost-son",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lamentation-song-lost-son-sck-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lamentation-song-lost-son-sck-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lamentation-song-lost-son-sck-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lamentation-song-lost-son-sck-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lamentation-song/lost-son.epub"
+      }
+    },
+    {
+      "eul_wid": "izc-ae",
+      "title": {
+        "english": "Syrinx",
+        "ancient_greek": "Σῦριγξ"
+      },
+      "url_slug": "theocritus-of-syracuse-syrinx-izc-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/theocritus-of-syracuse/syrinx",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-syrinx-izc-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-syrinx-izc-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-syrinx-izc-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-syrinx-izc-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse/syrinx.epub"
+      }
+    },
+    {
+      "eul_wid": "big-ad",
+      "title": {
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
+      },
+      "url_slug": "simonides-of-ceos-testimony-big-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/simonides-of-ceos/testimony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos-testimony-big-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos-testimony-big-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos-testimony-big-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos-testimony-big-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/testimony.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/alexander-of-aetolia/helios-heroes",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia-helios-heroes-iuc-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia-helios-heroes-iuc-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia-helios-heroes-iuc-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia-helios-heroes-iuc-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia/helios-heroes.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

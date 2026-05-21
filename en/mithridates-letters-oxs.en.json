@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "oxs",
+  "auth_slug": "mithridates-letters",
+  "name": {
+    "english": "Mithridates Letters",
+    "ancient_greek": "Μιθριδάτου Ἐπιστολή"
+  },
+  "seo_h1": "Letter-Writing and Rhetoric in the Mithridates Letters",
+  "seo": {
+    "browser_title": "Mithridates Letters Author on Eulogikon Greek Archive",
+    "meta_title": "Mithridates Letters Ancient Greek Rhetorical Epistles",
+    "meta_description": "The Mithridates Letters are fictional rhetorical exercises from the Roman period. Contains one surviving epistle. Free to download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "",
+      "english": "Rhetoric",
+      "href": "/domains/rhetoric"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Mithridates Letters are a collection of fictional rhetorical exercises from the Roman imperial period, not the work of a single known author. Likely composed in the first or second century CE as part of the Second Sophistic movement, which prized skilled oratory in classical Greek, the letters are written in the voice of Mithridates VI, the king of Pontus who fought three wars against Rome in the first century BCE.</p>\n<p class=\"research-text\">The work represents an advanced school exercise in which the anonymous author invents persuasive speeches for a historical figure. Set during the First Mithridatic War, the letters portray Mithridates addressing various kings and nations, urging them to form a coalition against Roman expansion. While the historical king did seek such alliances, the specific arguments and eloquent language are invented.</p>\n<p class=\"research-text\">The single surviving text, sometimes called The Letter of Mithridates, has been preserved because it was transmitted as an appendix to the historical works of the Roman author Sallust. Modern scholars universally recognize it as a later, pseudonymous composition. Its significance lies in demonstrating how Roman-era students practiced rhetoric, using a famous enemy of Rome as a safe vehicle for crafting powerful anti-Roman arguments. The work provides valuable insight into the period&#x27;s historical imagination and educational practices.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "oxs-aa",
+      "title": {
+        "english": "Mithridates on Letter Composition",
+        "ancient_greek": "Ἐπιστολή"
+      },
+      "url_slug": "mithridates-letters-letter-composition-oxs-aa",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/mithridates-letters/letter-composition",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mithridates-letters-letter-composition-oxs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mithridates-letters-letter-composition-oxs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mithridates-letters-letter-composition-oxs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mithridates-letters-letter-composition-oxs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mithridates-letters/letter-composition.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/mithridates-letters",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/mithridates-letters-oxs.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/mithridates-letters-oxs.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/mithridates-letters-oxs.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/mithridates-letters-oxs.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

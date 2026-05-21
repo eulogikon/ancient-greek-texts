@@ -1,0 +1,333 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "lpe-ae",
+  "eul_aid": "lpe",
+  "author_slug": "philemon-syracusius",
+  "work_slug": "slavery-nature",
+  "url_slug": "philemon-syracusius-slavery-nature-lpe-ae",
+  "author": {
+    "english": "Philemon Syracusius",
+    "ancient_greek": "Φίλημων ὁ Συρακούσιος"
+  },
+  "title": {
+    "english": "On Slavery and Human Nature",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "On Slavery and Human Nature by Philemon Syracusius Eulogikon",
+    "meta_title": "On Slavery and Human Nature by Philemon Syracusius in Greek",
+    "meta_description": "Fragments of the comedy On Slavery and Human Nature by Philemon. Comic verse on social themes. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Philemon of Syracuse, a prominent poet of Middle Comedy in the 4th century BCE, is credited with a fragmentary work known as <strong>Apospasmata</strong>, or &quot;Extracts.&quot; The title suggests the surviving text is a collection of excerpts rather than a complete, continuous play. Eleven passages from the work are preserved through citations by later authors, such as Athenaeus, and are compiled in modern scholarly editions. While the specific fragments are not detailed in standard sources, the thematic context indicates the comedy engaged with contemporary treatments of slavery. In the tradition of Middle Comedy, this likely involved the stock character of the clever slave, using the figure to explore contrasts between legal status and innate human capability, social hierarchy, and universal nature. Philemon was a successful rival to Menander and significantly influenced the development of Roman comedy. Although <strong>Apospasmata</strong> is not a known direct source for a specific surviving Roman play, its thematic engagement with slavery and cunning servants contributed to the stock characters and plots of Roman <strong>palliata</strong> comedy, thereby shaping later European dramatic traditions.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 39a.1",
+      "text": "κἂν δοῦλος ᾖ τις, σάρκα τὴν αὐτὴν ἔχει· φύσει γὰρ οὐδεὶς δοῦλος ἐγενήθη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 39a.2",
+      "text": "ποτέ [ἀπὸ τοῦ πάλαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 39a.3",
+      "text": "πλάσαντος ἀνθρώπων γένος. ἴσην δὲ πάντων διάθεσιν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 39a.4",
+      "text": "τοῦ σώματος[ln_5]ἐποίησεν οὗτος ὡς ἐλευθέρου γένους. ἐλευθέρους ἐποίησε πάντας τῇ φύσει, δοῦλον δὲ μετεποίησεν ἡ πλεονεξία.] ἡ δ’ αὖ τύχη τὸ σῶμα κατεδουλώσατο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 117a",
+      "text": "χρόνος μαλάσσει πάντα κἀξεργάζεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 132.1",
+      "text": "ἂν μὲν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 132.2",
+      "text": "πλέωμεν ἡμερῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 132.3",
+      "text": "που",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 132.4",
+      "text": "τεττάρων, σκεπτόμεθα τἀναγκαῖ’ ἑκάστης ἡμέρας. ἂν δῇ δὲ φείσασθαί τι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 132.5",
+      "text": "τοῦ γήρως χάριν, οὐ φεισόμεσθ’ ἐφόδια",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 132.6",
+      "text": "περιποιούμενοι;",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "lpe-ad",
+      "title": {
+        "english": "Comic Fragments on Aristomedes",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀριστομέδους Κωμικά"
+      },
+      "url_slug": "philemon-syracusius-comic-fragments-lpe-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/philemon-syracusius/comic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-comic-fragments-lpe-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-comic-fragments-lpe-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-comic-fragments-lpe-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-comic-fragments-lpe-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/comic-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "lpe-ac",
+      "title": {
+        "english": "Fragments from a Comedy",
+        "ancient_greek": "Ἀποσπάσματα Κωμῳδίας"
+      },
+      "url_slug": "philemon-syracusius-comedy-fragments-lpe-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/philemon-syracusius/comedy-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-comedy-fragments-lpe-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-comedy-fragments-lpe-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-comedy-fragments-lpe-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-comedy-fragments-lpe-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/comedy-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "lpe-aa",
+      "title": {
+        "english": "On Human Nature and Solon's Law",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philemon-syracusius-human-nature-solon-law-lpe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philemon-syracusius/human-nature-solon-law",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-human-nature-solon-law-lpe-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-human-nature-solon-law-lpe-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-human-nature-solon-law-lpe-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-human-nature-solon-law-lpe-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/human-nature-solon-law.epub"
+      }
+    },
+    {
+      "eul_wid": "lpe-ab",
+      "title": {
+        "english": "On Solon's Public Brothels",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philemon-syracusius-solon-brothels-lpe-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/philemon-syracusius/solon-brothels",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-solon-brothels-lpe-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-solon-brothels-lpe-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-solon-brothels-lpe-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-solon-brothels-lpe-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/solon-brothels.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "hps-af",
+      "title": {
+        "english": "Citharists, Fragments Known Elsewhere",
+        "ancient_greek": "Ἀποσπάσματα Κιθαριστῶν"
+      },
+      "url_slug": "menander-of-athens-citharists-fragments-hps-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/citharists-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-citharists-fragments-hps-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-citharists-fragments-hps-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-citharists-fragments-hps-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-citharists-fragments-hps-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharists-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "kyq-ab",
+      "title": {
+        "english": "Comic Fragments on Human Folly",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀνθρωπίνης Μωρίας"
+      },
+      "url_slug": "sosicrates-the-comic-poet-comic-fragments-kyq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/sosicrates-the-comic-poet/comic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosicrates-the-comic-poet-comic-fragments-kyq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosicrates-the-comic-poet-comic-fragments-kyq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosicrates-the-comic-poet-comic-fragments-kyq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosicrates-the-comic-poet-comic-fragments-kyq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosicrates-the-comic-poet/comic-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "dac-ab",
+      "title": {
+        "english": "Fragments of a Utopian Feast",
+        "ancient_greek": "Ἀποσπάσματα περὶ Εὐδαίμονος Δείπνου"
+      },
+      "url_slug": "crates-the-comic-poet-utopian-feast-dac-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/crates-the-comic-poet/utopian-feast",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet-utopian-feast-dac-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet-utopian-feast-dac-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet-utopian-feast-dac-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet-utopian-feast-dac-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/utopian-feast.epub"
+      }
+    },
+    {
+      "eul_wid": "jag-ab",
+      "title": {
+        "english": "Fragments on Cookery and Philosophy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μαγειρικῆς καὶ Φιλοσοφίας"
+      },
+      "url_slug": "damoxenus-the-comic-poet-cookery-philosophy-ab-jag-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/damoxenus-the-comic-poet/cookery-philosophy-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet-cookery-philosophy-ab-jag-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet-cookery-philosophy-ab-jag-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet-cookery-philosophy-ab-jag-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet-cookery-philosophy-ab-jag-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet/cookery-philosophy-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "hdu-aa",
+      "title": {
+        "english": "Fragments on Rural Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Ἀγροικοῦ"
+      },
+      "url_slug": "anaxilas-the-comic-poet-rural-life-hdu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anaxilas-the-comic-poet/rural-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-the-comic-poet-rural-life-hdu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-the-comic-poet-rural-life-hdu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-the-comic-poet-rural-life-hdu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-the-comic-poet-rural-life-hdu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-the-comic-poet/rural-life.epub"
+      }
+    },
+    {
+      "eul_wid": "iti-ac",
+      "title": {
+        "english": "On Learning and Suffering",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "sotades-of-maroneia-elder-learning-suffering-iti-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/sotades-of-maroneia-elder/learning-suffering",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-elder-learning-suffering-iti-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-elder-learning-suffering-iti-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-elder-learning-suffering-iti-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-elder-learning-suffering-iti-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-elder/learning-suffering.epub"
+      }
+    },
+    {
+      "eul_wid": "atg-ac",
+      "title": {
+        "english": "On the Evils of Marriage",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "susarion-of-megara-evils-marriage-ac-atg-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/susarion-of-megara/evils-marriage-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-evils-marriage-ac-atg-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-evils-marriage-ac-atg-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-evils-marriage-ac-atg-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-evils-marriage-ac-atg-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara/evils-marriage-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-bl",
+      "title": {
+        "english": "Sicyonian",
+        "ancient_greek": "Σικυώνιος"
+      },
+      "url_slug": "menander-of-athens-sicyon-hps-bl",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/sicyon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-sicyon-hps-bl.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-sicyon-hps-bl.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-sicyon-hps-bl.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-sicyon-hps-bl.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/sicyon.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/philemon-syracusius/slavery-nature",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-slavery-nature-lpe-ae.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-slavery-nature-lpe-ae.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-slavery-nature-lpe-ae.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-slavery-nature-lpe-ae.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/slavery-nature.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

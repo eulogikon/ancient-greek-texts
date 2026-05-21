@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "gwm",
+  "auth_slug": "choerilus-of-iasus",
+  "name": {
+    "english": "Choerilus of Iasus",
+    "ancient_greek": "Χοιρίλος ὁ Ἰασεύς"
+  },
+  "seo_h1": "Choerilus of Iasus and the Epic of Alexander",
+  "seo": {
+    "browser_title": "Choerilus of Iasus on Eulogikon Greek Archive and Library",
+    "meta_title": "Choerilus of Iasus Ancient Greek Epic Poetry Works",
+    "meta_description": "Choerilus of Iasus, a 4th century BCE Greek epic poet. Surviving fragments of his Homeric-style verse. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Choerilus of Iasus was a Greek epic poet from the 4th century BCE, originating from the city of Iasus in Asia Minor. He is a distinct figure from an earlier poet with the same name.</p>\n<p class=\"research-text\">His primary historical importance stems from his direct association with Alexander the Great. According to ancient accounts, he was the only epic poet chosen to accompany Alexander on his military campaign into Asia. His major known work was an epic poem titled The Persica, which aimed to chronicle Alexander&#x27;s conquests in the tradition of Homer. The poem does not survive today and is known only from a few references in other ancient texts. A second work, The Lamiaca, is attributed to him in one source, but modern scholars generally consider this attribution doubtful, often assigning it to the earlier poet Choerilus of Samos.</p>\n<p class=\"research-text\">Choerilus&#x27;s role exemplifies the use of epic poetry for contemporary political purposes. His commission to immortalize a living ruler&#x27;s deeds represents a bridge between ancient heroic myth and the new imperial realities of the Hellenistic age. This marks a significant moment where epic poetry was used as a direct tool for royal propaganda. However, the complete loss of his work means its literary quality and historical detail cannot be assessed.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "gwm-aa",
+      "title": {
+        "english": "Fragment and Title",
+        "ancient_greek": "Ἀπόσπασμα καὶ Τίτλος"
+      },
+      "url_slug": "choerilus-of-iasus-fragment-gwm-aa",
+      "passages": 6,
+      "links": {
+        "html": "https://eulogikon.org/grc/choerilus-of-iasus/fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus-fragment-gwm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus-fragment-gwm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus-fragment-gwm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus-fragment-gwm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus/fragment.epub"
+      }
+    },
+    {
+      "eul_wid": "gwm-ab",
+      "title": {
+        "english": "On Mortality and Transience",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "choerilus-of-iasus-mortality-transience-gwm-ab",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/choerilus-of-iasus/mortality-transience",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus-mortality-transience-gwm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus-mortality-transience-gwm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus-mortality-transience-gwm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus-mortality-transience-gwm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus/mortality-transience.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/choerilus-of-iasus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/choerilus-of-iasus-gwm.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/choerilus-of-iasus-gwm.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/choerilus-of-iasus-gwm.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/choerilus-of-iasus-gwm.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

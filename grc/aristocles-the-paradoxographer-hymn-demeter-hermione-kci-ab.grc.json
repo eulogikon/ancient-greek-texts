@@ -1,0 +1,215 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "kci-ab",
+  "eul_aid": "kci",
+  "author_slug": "aristocles-the-paradoxographer",
+  "work_slug": "hymn-demeter-hermione",
+  "url_slug": "aristocles-the-paradoxographer-hymn-demeter-hermione-kci-ab",
+  "author": {
+    "english": "Aristocles the Paradoxographer",
+    "ancient_greek": "Ἀριστοκλῆς ὁ παραδοξογράφος"
+  },
+  "title": {
+    "english": "Hymn to Demeter of Hermione",
+    "ancient_greek": "Ἀπόσπασμα"
+  },
+  "seo": {
+    "browser_title": "Hymn to Demeter of Hermione by Aristocles on Eulogikon",
+    "meta_title": "Hymn to Demeter of Hermione by Aristocles in Greek",
+    "meta_description": "A hymn to Demeter from Hermione by Aristocles. This paradoxical work blends hymn with lore. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Hymn to Demeter of Hermione</strong> is a prose fragment attributed to Aristocles the Paradoxographer. It survives as a single excerpt quoted by the later compiler Phlegon of Tralles in his second-century CE work <strong>On Marvels</strong>. The fragment describes a unique sacrificial ritual at the sanctuary of Demeter Chthonia in the city of Hermione. It recounts a local custom in which four aged cows are released into a sacred grove; a priestess designated as &quot;the butcher&quot; then sacrifices whichever cow approaches the altar to eat fodder placed upon it. This ritual, which notably lacks the standard elements of communal participation and voluntary procession found in normative Greek sacrifice, is presented explicitly as a marvel. The fragment is a prime example of the paradoxographical genre, which specialized in cataloging wondrous natural phenomena and unusual regional customs. It provides valuable evidence for local religious variation within the Greek world, offering a detailed account that is later corroborated by the traveler Pausanias in his description of the same Hermionean rite. As such, the hymn contributes significantly to the study of Demeter&#x27;s chthonic cults and their diverse ritual expressions.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "206",
+      "text": "Δάματερ πολύκαρπε, σὺ Σικελοῖσιν ἐναργὴς καὶ παρ’ Ἐρεχθείδαις, ἓν δέ τι 〈τοῦτο〉 μέγα κρίνετ’ ἐν Ἑρμιονεῦσι· τὸν ἐξ ἀγέλης γὰρ ἀφειδῆ ταῦρον, ὃν οὐχ αἱροῦς’ ἀνέρες οὐδὲ δέκα, τοῦτον γραῦς στείχουσα μόνα μόνον οὔατος ἕλκει τόνδ’ ἐπὶ βωμόν, ὁ δ’ ὡς ματέρι παῖς ἕπεται. σὸν τόδε, Δάματερ, σὸν τὸ σθένος· ἵλαος εἴης, καὶ πάντων θάλλοι κλᾶρος ἐν Ἑρμιόνᾳ. *",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "kci-aa",
+      "title": {
+        "english": "Italic and Paradoxical Narratives",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aristocles-the-paradoxographer-italic-narratives-kci-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristocles-the-paradoxographer/italic-narratives",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-the-paradoxographer-italic-narratives-kci-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-the-paradoxographer-italic-narratives-kci-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-the-paradoxographer-italic-narratives-kci-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-the-paradoxographer-italic-narratives-kci-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-the-paradoxographer/italic-narratives.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "bvi-aa",
+      "title": {
+        "english": "Fragments on Dionysus",
+        "ancient_greek": "Ἀποσπάσματα περὶ Διονύσου"
+      },
+      "url_slug": "pherecydes-of-athens-dionysus-bvi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pherecydes-of-athens/dionysus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-athens-dionysus-bvi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-athens-dionysus-bvi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-athens-dionysus-bvi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-athens-dionysus-bvi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-athens/dionysus.epub"
+      }
+    },
+    {
+      "eul_wid": "ere-aa",
+      "title": {
+        "english": "Fragments on Ethiopia and Libya",
+        "ancient_greek": "Ἀποσπάσματα περὶ Αἰθιοπίας καὶ Λιβύης"
+      },
+      "url_slug": "aristocreon-the-historian-ethiopia-libya-ere-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristocreon-the-historian/ethiopia-libya",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocreon-the-historian-ethiopia-libya-ere-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocreon-the-historian-ethiopia-libya-ere-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocreon-the-historian-ethiopia-libya-ere-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocreon-the-historian-ethiopia-libya-ere-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocreon-the-historian/ethiopia-libya.epub"
+      }
+    },
+    {
+      "eul_wid": "ecy-ab",
+      "title": {
+        "english": "Historical Fragments on Greek Affairs",
+        "ancient_greek": "Ἱστορικὰ Ἀποσπάσματα περὶ Ἑλληνικῶν Πραγμάτων"
+      },
+      "url_slug": "hellenica-anon-historical-fragments-ecy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hellenica-anon/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-historical-fragments-ecy-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-historical-fragments-ecy-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-historical-fragments-ecy-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-historical-fragments-ecy-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon/historical-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "ndy-ac",
+      "title": {
+        "english": "Lysias the Syracusan by Descent",
+        "ancient_greek": "Λυσίας συρακούσιος πατρόθεν"
+      },
+      "url_slug": "dionysius-of-halicarnassus-lysias-syracusan-ndy-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/lysias-syracusan",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-lysias-syracusan-ndy-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-lysias-syracusan-ndy-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-lysias-syracusan-ndy-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-lysias-syracusan-ndy-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/lysias-syracusan.epub"
+      }
+    },
+    {
+      "eul_wid": "kvy-aa",
+      "title": {
+        "english": "On Rivers, Springs, and Lakes",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "sotion-of-alexandria-rivers-springs-lakes-kvy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sotion-of-alexandria/rivers-springs-lakes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotion-of-alexandria-rivers-springs-lakes-kvy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotion-of-alexandria-rivers-springs-lakes-kvy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotion-of-alexandria-rivers-springs-lakes-kvy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotion-of-alexandria-rivers-springs-lakes-kvy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotion-of-alexandria/rivers-springs-lakes.epub"
+      }
+    },
+    {
+      "eul_wid": "mmg-ax",
+      "title": {
+        "english": "On the Parthian War",
+        "ancient_greek": "Περὶ τοῦ Παρθικοῦ Πολέμου"
+      },
+      "url_slug": "historical-fragments-anonymous-parthian-war-mmg-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/parthian-war",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-parthian-war-mmg-ax.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-parthian-war-mmg-ax.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-parthian-war-mmg-ax.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-parthian-war-mmg-ax.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/parthian-war.epub"
+      }
+    },
+    {
+      "eul_wid": "dpc-aa",
+      "title": {
+        "english": "On the Wonders of Sicily",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "nymphodorus-of-abdera-wonders-sicily-dpc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/nymphodorus-of-abdera/wonders-sicily",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphodorus-of-abdera-wonders-sicily-dpc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphodorus-of-abdera-wonders-sicily-dpc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphodorus-of-abdera-wonders-sicily-dpc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphodorus-of-abdera-wonders-sicily-dpc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphodorus-of-abdera/wonders-sicily.epub"
+      }
+    },
+    {
+      "eul_wid": "csa-aa",
+      "title": {
+        "english": "Theban Mythological Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "timagoras-of-athens-theban-myths-csa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/timagoras-of-athens/theban-myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timagoras-of-athens-theban-myths-csa-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timagoras-of-athens-theban-myths-csa-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timagoras-of-athens-theban-myths-csa-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timagoras-of-athens-theban-myths-csa-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timagoras-of-athens/theban-myths.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aristocles-the-paradoxographer/hymn-demeter-hermione",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-the-paradoxographer-hymn-demeter-hermione-kci-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-the-paradoxographer-hymn-demeter-hermione-kci-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-the-paradoxographer-hymn-demeter-hermione-kci-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-the-paradoxographer-hymn-demeter-hermione-kci-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-the-paradoxographer/hymn-demeter-hermione.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

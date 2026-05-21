@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "omo",
+  "auth_slug": "chaeremon-of-alexandria",
+  "name": {
+    "english": "Chaeremon of Alexandria",
+    "ancient_greek": "Χαιρήμων ὁ Ἀλεξανδρεύς"
+  },
+  "seo_h1": "Chaeremon of Alexandria on Egyptian History and Stoic Thought",
+  "seo": {
+    "browser_title": "Chaeremon of Alexandria on Eulogikon Greek Archive",
+    "meta_title": "Chaeremon of Alexandria Ancient Greek Works Collection",
+    "meta_description": "Chaeremon of Alexandria was a first century Stoic philosopher. Surviving works include his treatises. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Stoic",
+      "href": "/affiliations/stoic"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Chaeremon of Alexandria was a Stoic philosopher and scholar who lived during the first century CE, when Egypt was part of the Roman Empire. He held the important position of a priest and keeper of the sacred books at the Serapeum, Alexandria&#x27;s great temple and library. His career reached the highest levels of Roman society when he was summoned to Rome to serve as a tutor to the young emperor Nero, alongside the philosopher Seneca.</p>\n<p class=\"research-text\">Although his own writings are now lost, fragments quoted by later authors show he wrote extensively on Egyptian culture. His most significant known work was a treatise on Egyptian religion and the disciplined lifestyle of its priests. He also wrote on topics like comets and Egyptian astrology.</p>\n<p class=\"research-text\">According to modern scholars, Chaeremon&#x27;s work is notable for interpreting Egyptian rituals and symbols through the lens of Stoic philosophy, presenting the priests as models of ascetic wisdom. This synthesis represents a significant Greco-Roman effort to understand Egyptian traditions in philosophical terms. His writings influenced later thinkers, including the Jewish historian Josephus and the Neoplatonist philosopher Porphyry. His role as a tutor also places him within the circle of intellectuals who shaped the early Roman imperial court.</p>\n</div>",
+  "affiliation_label": "Stoic",
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "omo-aa",
+      "title": {
+        "english": "Fragments on Egyptian History",
+        "ancient_greek": "Ἀποσπάσματα περὶ Αἰγυπτιακῆς Ἱστορίας"
+      },
+      "url_slug": "chaeremon-of-alexandria-egyptian-history-omo-aa",
+      "passages": 11,
+      "links": {
+        "html": "https://eulogikon.org/grc/chaeremon-of-alexandria/egyptian-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chaeremon-of-alexandria-egyptian-history-omo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chaeremon-of-alexandria-egyptian-history-omo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chaeremon-of-alexandria-egyptian-history-omo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chaeremon-of-alexandria-egyptian-history-omo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chaeremon-of-alexandria/egyptian-history.epub"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "mlc",
+      "name": {
+        "english": "Apollodorus of Seleucia",
+        "ancient_greek": "Ἀπολλόδωρος ὁ Σελευκεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/apollodorus-of-seleucia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-seleucia-mlc.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-seleucia-mlc.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-seleucia-mlc.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-seleucia-mlc.en.json"
+      }
+    },
+    {
+      "eul_aid": "jzg",
+      "name": {
+        "english": "Apollophanes the Stoic",
+        "ancient_greek": "Ἀπολλοφάνης ὁ Στωικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/apollophanes-the-stoic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollophanes-the-stoic-jzg.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollophanes-the-stoic-jzg.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollophanes-the-stoic-jzg.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollophanes-the-stoic-jzg.en.json"
+      }
+    },
+    {
+      "eul_aid": "mnk",
+      "name": {
+        "english": "Archedemus of Tarsus",
+        "ancient_greek": "Ἀρχέδημος ὁ Ταρσεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/archedemus-of-tarsus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archedemus-of-tarsus-mnk.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archedemus-of-tarsus-mnk.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archedemus-of-tarsus-mnk.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archedemus-of-tarsus-mnk.en.json"
+      }
+    },
+    {
+      "eul_aid": "jyw",
+      "name": {
+        "english": "Ariston of Chios",
+        "ancient_greek": "Ἀρίστων ὁ Χῖος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/ariston-of-chios",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-chios-jyw.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-chios-jyw.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-chios-jyw.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-chios-jyw.en.json"
+      }
+    },
+    {
+      "eul_aid": "nac",
+      "name": {
+        "english": "Arius Didymus of Alexandria",
+        "ancient_greek": "Ἄρειος Δίδυμος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/arius-didymus-of-alexandria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arius-didymus-of-alexandria-nac.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arius-didymus-of-alexandria-nac.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arius-didymus-of-alexandria-nac.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arius-didymus-of-alexandria-nac.en.json"
+      }
+    },
+    {
+      "eul_aid": "pcs",
+      "name": {
+        "english": "Arrian of Nicomedia",
+        "ancient_greek": "Ἀρριανός ὁ Νικομηδεύς"
+      },
+      "work_count": 18,
+      "links": {
+        "html": "https://eulogikon.org/en/arrian-of-nicomedia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arrian-of-nicomedia-pcs.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arrian-of-nicomedia-pcs.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arrian-of-nicomedia-pcs.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arrian-of-nicomedia-pcs.en.json"
+      }
+    },
+    {
+      "eul_aid": "mty",
+      "name": {
+        "english": "Athenodorus of Tarsus Cordylion",
+        "ancient_greek": "Ἀθηνόδωρος Κορδυλίων"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/athenodorus-of-tarsus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenodorus-of-tarsus-mty.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenodorus-of-tarsus-mty.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenodorus-of-tarsus-mty.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenodorus-of-tarsus-mty.en.json"
+      }
+    },
+    {
+      "eul_aid": "kms",
+      "name": {
+        "english": "Chrysippus of Soli",
+        "ancient_greek": "Χρύσιππος ὁ Σολεύς"
+      },
+      "work_count": 6,
+      "links": {
+        "html": "https://eulogikon.org/en/chrysippus-of-soli",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-kms.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-kms.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-kms.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-kms.en.json"
+      }
+    },
+    {
+      "eul_aid": "ixe",
+      "name": {
+        "english": "Chrysippus of Soli II",
+        "ancient_greek": "Χρύσιππος ὁ Σολεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/chrysippus-of-soli-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-ii-ixe.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-ii-ixe.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-ii-ixe.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-ii-ixe.en.json"
+      }
+    },
+    {
+      "eul_aid": "jew",
+      "name": {
+        "english": "Cleanthes of Assos",
+        "ancient_greek": "Κλεάνθης ὁ Ἀσσεύς"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/cleanthes-of-assos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleanthes-of-assos-jew.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleanthes-of-assos-jew.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleanthes-of-assos-jew.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleanthes-of-assos-jew.en.json"
+      }
+    },
+    {
+      "eul_aid": "obu",
+      "name": {
+        "english": "Cornutus the Stoic Philosopher",
+        "ancient_greek": "Κορνοῦτος ὁ Στωϊκός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/cornutus-the-stoic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cornutus-the-stoic-obu.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cornutus-the-stoic-obu.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cornutus-the-stoic-obu.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cornutus-the-stoic-obu.en.json"
+      }
+    },
+    {
+      "eul_aid": "lya",
+      "name": {
+        "english": "Crinis the Stoic",
+        "ancient_greek": "Κρὶνις ὁ Στωϊκός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/crinis-the-stoic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crinis-the-stoic-lya.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crinis-the-stoic-lya.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crinis-the-stoic-lya.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crinis-the-stoic-lya.en.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/chaeremon-of-alexandria",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chaeremon-of-alexandria-omo.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chaeremon-of-alexandria-omo.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chaeremon-of-alexandria-omo.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chaeremon-of-alexandria-omo.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

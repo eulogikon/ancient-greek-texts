@@ -1,0 +1,539 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "qeu-aa",
+  "eul_aid": "qeu",
+  "author_slug": "pseudo-lucian",
+  "work_slug": "philopatris",
+  "url_slug": "pseudo-lucian-philopatris-qeu-aa",
+  "author": {
+    "english": "Pseudo-Lucian ",
+    "ancient_greek": "Ψευδο-Λουκιανός"
+  },
+  "title": {
+    "english": "Philopatris or The Student",
+    "ancient_greek": "Φιλόπατρις ἢ Διδασκόμενος"
+  },
+  "seo": {
+    "browser_title": "Classical Philopatris by Pseudo-Lucian on Eulogikon",
+    "meta_title": "Classical Philopatris by Pseudo-Lucian in Ancient Greek",
+    "meta_description": "This satirical dialogue mocks pagan philosophers and Christian practices in the Roman period. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Philopatris</strong> or <strong>The Student</strong> is a short satirical dialogue preserved in the manuscript tradition of works attributed to Lucian of Samosata but is now considered spurious, the product of an unknown author conventionally termed Pseudo-Lucian. Written in Attic Greek, the text presents a conversation between two characters, Critias and Triephon. The dialogue opens with Critias finding Triephon in a state of profound agitation. Triephon explains that his distress stems from having overheard a group engaged in abstruse philosophical and theological debate concerning the nature of the cosmos, the soul, and divine providence. The work functions as a satire on the opaque jargon and esoteric speculation characteristic of such discussions. Its climax arrives when Triephon, seeking refuge from this confusing intellectual tumult, swears a solemn oath to remain a loyal patriot and to cling steadfastly to a &quot;holy and heavenly doctrine.&quot;</p>\n<p class=\"research-text\">Scholarly consensus places the composition of the <strong>Philopatris</strong> considerably later than the era of Lucian, most likely in the late third or fourth century CE. The precise target of its satire remains a subject of debate. Interpretations vary, with some scholars viewing the work as a mockery of early Christian theological disputes, others arguing it lampoons pagan philosophers or astrologers, and a further perspective suggesting it reflects later Byzantine religious controversies. The dialogue survives in full only because it was incorporated into the corpus of Lucian&#x27;s works transmitted through the medieval period.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "Philopatr t",
+      "text": "ΦΙΛΟΠΑΤΡΙΣ Η ΔΙΔΑΣΚΟΜΕΝΟΣ ΤΡΙΕΦΩΝ Τί τοῦτο, ὦ Κριτία; ὅλον σεαυτὸν ἠλλοίωσας καὶ τὰς ὀφρῦς κάτω συννένευκας, μύχιον δὲ βυσσοδομεύεις ἄνω καὶ κάτω περιπολῶν κερδαλεόφρονι ἐοικὼς κατὰ τὸν ποιητήν “ὦχρός τέ σευ εἷλε παρειάς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Philopatr 1",
+      "text": "” μή που Τρικάρανον τεθέασαι ἢ Ἑκάτην ἐξ Ἅιδου ἐληλυθυῖαν, ἢ καί τινι θεῶν ἐκ προνοίας συνήντηκας; οὐδέπω γάρ σε τοιαῦτα εἰκὸς παθεῖν, εἰ καὶ αὐτὸν ἠκηκόεις, οἶμαι, τὸν κόσμον κλυσθῆναι ὥσπερ ἐπὶ τοῦ Δευκαλίωνος. σοὶ λέγω, ὦ καλὲ Κριτία, οὐκ ἀΐεις ἐμοῦ ἐπιβοωμένου τὰ πολλὰ καὶ ἐς βραχὺ γειτνιάσαντος; δυσχεραίνεις καθ’ ἡμῶν ἢ ἐκκεκώφωσαι ἢ καὶ τῆς χειρὸς παλαιστήσοντα ἐπιμένεις; ΚΡΙΤΙΑΣ Ὦ Τριεφῶν, μέγαν τινὰ καὶ ἠπορημένον λόγον ἀκήκοα καὶ πολλαῖς ὁδοῖς διενειλημμένον καὶ ἔτι ἀναπεμπάζω τοὺς ὕθλους καὶ τὰς ἀκοὰς ἀποφράττω, μή που ἔτι ἀκούσαιμι ταῦτα καὶ ἀποψύξω ἐκμανεὶς καὶ μῦθος τοῖς ποιηταῖς γενήσομαι ὡς καὶ Νιόβη τὸ πρίν. ἀλλὰ [καὶ] κατὰ κρημνῶν ὠθούμην ἂν ἐπὶ κεφαλῆς σκοτοδινήσας, εἰ μὴ ἐπέκραξάς μοι, ὦ τάν, καὶ τὸ τοῦ Κλεομβρότου πήδημα τοῦ Ἀμβρακιώτου ἐμυθεύθη ἐπ’ ἐμοί. ΤΡΙΕΦΩΝ Ἡράκλεις, τῶν θαυμασίων ἐκείνων φασμάτων ἢ ἀκουσμάτων, ἅπερ Κριτίαν ἐξέπληξαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Philopatr 2",
+      "text": "πόσοι γὰρ ἐμβρόντητοι ποιηταὶ καὶ τερατολογίαι φιλοσόφων οὐκ ἐξέπληξάν σου τὴν διάνοιαν, ἀλλὰ λῆρος πάντα γέγονεν ἐπὶ σοί. ΚΡΙΤΙΑΣ Πέπαυσο ἐς μικρὸν καὶ μηκέτι παρενοχλήσῃς, ὦ Τριεφῶν· οὐ γὰρ παροπτέος ἢ ἀμελητέος γενήσῃ παρ’ ἐμοῦ. ΤΡΙΕΦΩΝ Οἶδ’ ὅτι οὐ μικρὸν οὐδὲ εὐκαταφρόνητον πρᾶγμα ἀνακυκλεῖς, ἀλλὰ καὶ λίαν τῶν ἀπορρήτων· ὁ γὰρ χρὼς καὶ τὸ ταυρηδὸν ὑποβλέπειν καὶ τὸ ἄστατον τῆς βάσεως τό τε ἄνω καὶ κάτω περιπολεῖν ἀρίγνωτόν σε καθίστησιν. ἀλλ’ ἄμπνευσον τοῦ δεινοῦ, ἐξέμεσον τοὺς ὕθλους, “μή τι κακὸν παθέῃς.” ΚΡΙΤΙΑΣ Σὺ μέν, ὦ Τριεφῶν, ὅσον πέλεθρον ἀνάδραμε ἀπ’ ἐμοῦ, ἵνα μὴ τὸ πνεῦμα ἐξάρῃ σε καὶ πεδάρσιος τοῖς πολλοῖς ἀναφανῇς καί που καταπεσὼν Τριεφώντειον πέλαγος κατονομάσῃς, ὡς καὶ Ἴκαρος τὸ πρίν· ἃ γὰρ ἀκήκοα τήμερον παρὰ τῶν τρισκαταράτων ἐκείνων σοφιστῶν, μεγάλως ἐξώγκωσέ μου τὴν νηδύν. ΤΡΙΕΦΩΝ Ἐγὼ μὲν ἀναδραμοῦμαι ὁπόσον καὶ βούλει, σὺ δὲ ἄμπνευσον τοῦ δεινοῦ. ΚΡΙΤΙΑΣ Φῦ φῦ φῦ φῦ τῶν ὕθλων ἐκείνων, ἰοὺ ἰοὺ ἰοὺ ἰοὺ τῶν δεινῶν βουλευμάτων, αἲ αἲ αἲ αἲ τῶν κενῶν ἐλπίδων. ΤΡΙΕΦΩΝ Βαβαὶ τοῦ ἀναφυσήματος, ὡς τὰς νεφέλας διέστρεψε· ζεφύρου γὰρ ἐπιπνέοντος λάβρου καὶ τοῖς κύμασιν ἐπωθίζοντος βορέην ἄρτι ἀνὰ τὴν Προποντίδα κεκίνηκας, ὡς διὰ κάλων αἱ ὁλκάδες τὸν Εὔξεινον πόντον οἰχήσονται, τῶν κυμάτων ἐπικυλινδούντων ἐκ τοῦ φυσήματος· ὅσον οἴδημα τοῖς ἐγκάτοις ἐνέκειτο· πόσος κορκορυγισμὸς καὶ κλόνος τὴν γαστέρα σου συνετάρασσε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Philopatr 3",
+      "text": "πολύωτον σεαυτὸν ἀναπέφηνας τοσαῦτα ἀκηκοώς, ὥστε κατὰ τὸ τερατῶδες καὶ διὰ τῶν ὀνύχων ἠκηκόεις. ΚΡΙΤΙΑΣ Οὐ παράδοξόν τι, ὦ Τριεφῶν, ἀκηκοέναι καὶ ἐξ ὀνύχων· καὶ γὰρ κνήμην γαστέρα τεθέασαι καὶ κεφαλὴν κύουσαν καὶ ἀνδρείαν φύσιν ἐς γυναικείαν ἐνεργοβατοῦσαν καὶ ἐκ γυναικῶν ὄρνεα μεταβαλλόμενα· καὶ ὅλως τερατώδης ὁ βίος, εἰ βούλει πιστεύειν τοῖς ποιηταῖς. ἀλλ’ “ἐπεί σε” πρῶτον “κιχάνω τῷδ’ ἐνὶ χώρῳ,” ἀπίωμεν ἔνθα αἱ πλάτανοι τὸν ἥλιον εἴργουσιν, ἀηδόνες δὲ καὶ χελιδόνες εὔηχα κελαδοῦσιν, ἵν’ ἡ μελῳδία τῶν ὀρνέων τὰς ἀκοὰς ἐνηδύνουσα τό τε ὕδωρ ἠρέμα κελαρύζον τὰς ψυχὰς καταθέλξειεν. ΤΡΙΕΦΩΝ Ἴωμεν, ὦ Κριτία· ἀλλὰ δέδια μή που ἐπῳδὴ τὸ ἠκουσμένον ἐστὶ καί με ὕπερον ἢ θύρετρον ἢ ἄλλο τι τῶν ἀψύχων ἀπεργάσεται ἡ θαυμασία σου αὕτη κατάπληξις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Philopatr 4",
+      "text": "ΚΡΙΤΙΑΣ Νὴ τὸν Δία τὸν αἰθέριον οὐ τοῦτο γενήσεται ἐπὶ σοί. ΤΡΙΕΦΩΝ Ἔτι με ἐξεφόβησας τὸν Δία ἐπομοσάμενος. τί γὰρ ἂν δυνήσεται ἀμυνέμεναί σε, εἰ παραβαίης τὸν ὅρκον; οἶδα γὰρ καὶ σὲ μὴ ἀγνοεῖν περὶ τοῦ Διός σου. ΚΡΙΤΙΑΣ Τί λέγεις; οὐ δυνήσεται Ζεὺς ἐς Τάρταρον ἀποπέμψαι; ἢ ἀγνοεῖς ὡς τοὺς θεοὺς πάντας ἀπέρριψεν ἀπὸ τοῦ θεσπεσίου βηλοῦ καὶ τὸν Σαλμωνέα ἀντιβροντῶντα πρῴην κατεκεραύνωσε καὶ τοὺς ἀσελγεστάτους ἔτι καὶ νῦν, παρὰ δὲ τῶν ποιητῶν Τιτανοκράτωρ καὶ Γιγαντολέτης ἀνυμνεῖται ὡς καὶ παρ’ Ὁμήρῳ; ΤΡΙΕΦΩΝ Σὺ μέν, ὦ Κριτία, πάντα παρέδραμες τὰ τοῦ Διός, ἀλλ’, εἴ σοι φίλον, ἄκουε. οὐχὶ κύκνος οὗτος ἐγένετο καὶ σάτυρος δι’ ἀσέλγειαν, ἀλλὰ καὶ ταῦρος; καὶ εἰ μὴ τὸ πορνίδιον ἐκεῖνο ταχέως ἐπωμίσατο καὶ διέφυγε διὰ τοῦ πελάγους, τάχ’ ἂν ἠροτρία ἐντυχὼν γεηπόνῳ ὁ βροντοποιὸς καὶ κεραυνοβόλος σου Ζεὺς καὶ ἀντὶ τοῦ κεραυνοβολεῖν τῇ βουπλῆγι κατεκεντάννυτο. τὸ δὲ καὶ Αἰθίοψι συνευωχεῖσθαι ἀνδράσι μελαντέροις καὶ τὴν ὄψιν ἐζοφωμένοις καὶ ἐς δώδεχ’ ἡλίους μὴ ἀφίστασθαι, ἀλλ’ ὑποβεβρεγμένος καθεδεῖσθαι παρ’ αὐτοῖς πώγωνα τηλικοῦτον ἔχων, οὐκ αἰσχύνης ἄξια; τὰ δὲ τοῦ ἀετοῦ καὶ τῆς Ἴδης καὶ τὸ κυοφορεῖν καθ’ ὅλου τοῦ σώματος αἰσχύνομαι καὶ λέγειν. ΚΡΙΤΙΑΣ Μῶν τὸν Ἀπόλλωνά γ’ ἐπομοσόμεθα, ὃς προφήτης ἄριστος καὶ ἰητρός, ὦγαθέ; ΤΡΙΕΦΩΝ Τὸν ψευδόμαντιν λέγεις, τὸν Κροῖσον πρῴην διολωλεκότα καὶ μετ’ αὐτὸν Σαλαμινίους καὶ ἑτέρους μυρίους, ἀμφίλοξα πᾶσι μαντευόμενον; ΚΡΙΤΙΑΣ Τὸν Ποσειδῶνα δὲ τί; ὃς τρίαιναν ἐν ταῖν χεροῖν κρατῶν καὶ διάτορόν τι καὶ καταπληκτικὸν βοᾷ ἐν τῷ πολέμῳ ὅσον ἐννεάχιλοι ἄνδρες ἢ δεκάχιλοι, ἀλλὰ καὶ σεισίχθων, ὦ Τριεφῶν, ἐπονομάζεται; ΤΡΙΕΦΩΝ Τὸν μοιχὸν λέγεις, ὃς τὴν τοῦ Σαλμωνέως παῖδα τὴν Τυρὼ πρῴην διέφθειρε καὶ ἔτι ἐπιμοιχεύει καὶ ῥύστης καὶ δημαγωγὸς τῶν τοιούτων ἐστί; τὸν γὰρ Ἄρην ὑπὸ τοῦ δεσμοῦ πιεζόμενον καὶ δεσμοῖς ἀλύτοις μετὰ τῆς Ἀφροδίτης στενούμενον, πάντων τε τῶν θεῶν διὰ τὴν μοιχείαν ὑπ’ αἰσχύνης σιωπώντων, ὁ ἵππειος Ποσειδῶν ἔκλαυσε δακρυρροῶν ὥσπερ τὰ βρεφύλλια τοὺς διδασκάλους δεδιότα ἢ ὥσπερ αἱ γρᾶες κόρας ἐξαπατῶσαι· ἐπέκειτο δὲ τῷ Ἡφαίστῳ λῦσαι τὸν Ἄρεα, τὸ δὲ ἀμφίχωλον τοῦτο δαιμόνιον, οἰκτεῖραν τὸν πρεσβύτην θεόν, τὸν Ἄρη ἀπηλευθέρωσεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Philopatr 6",
+      "text": "ὥστε καὶ μοιχός ἐστιν ὡς μοιχοὺς διασῴζων. ΚΡΙΤΙΑΣ Ἑρμείαν δὲ τί; ΤΡΙΕΦΩΝ Μή μοι τὸν κακόδουλον τοῦ ἀσελγεστάτου Διὸς καὶ τὸν ἀσελγομανοῦντα ἐπὶ τοῖς μοιχικοῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Philopatr 7",
+      "text": "ΚΡΙΤΙΑΣ Ἄρεα δὲ καὶ Ἀφροδίτην οἶδα μὴ παραδέχεσθαί σε διὰ τὸ προδιαβληθῆναι πρῴην παρὰ σοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Philopatr 8",
+      "text": "ὥστε ἐάσωμεν τούτους. τῆς Ἀθηνᾶς ἔτι ἐπιμνησθήσομαι, τῆς παρθένου, τῆς ἐνόπλου καὶ καταπληκτικῆς θεᾶς, ἣ καὶ τὴν τῆς Γοργόνος κεφαλὴν ἐν τῷ στήθει περιάπτεται, τὴν γιγαντολέτιν θεόν. οὐ γὰρ ἔχεις τι λέγειν περὶ αὐτῆς. ΤΡΙΕΦΩΝ Ἐρῶ σοι καὶ περὶ ταύτης, ἤν μοι ἀποκρίνῃ. ΚΡΙΤΙΑΣ Λέγε ὅ τι γε βούλει. ΤΡΙΕΦΩΝ Εἰπέ μοι, ὦ Κριτία, τί τὸ χρήσιμον τῆς Γοργόνος καὶ τί τῷ στήθει τοῦτο ἡ θεὰ ἐπιφέρεται; ΚΡΙΤΙΑΣ Ὡς φοβερόν τι θέαμα καὶ ἀποτρεπτικὸν τῶν δεινῶν. ἀλλὰ καὶ καταπλήσσει τοὺς πολεμίους καὶ ἑτεραλκέα τὴν νίκην ποιεῖ, ὅπου γε βούλεται. ΤΡΙΕΦΩΝ Μῶν καὶ διὰ τοῦτο ἡ Γλαυκῶπις ἀκαταμάχητος; ΚΡΙΤΙΑΣ Καὶ μάλα. ΤΡΙΕΦΩΝ Καὶ διὰ τί οὐ τοῖς σῴζειν δυναμένοις, ἀλλὰ τοῖς σῳζομένοις μηρία καίομεν ταύρων ἠδ’ αἰγῶν, ὡς ἡμᾶς ἀκαταμαχήτους ἐργάσωνται ὥσπερ τὴν Ἀθηνᾶν; ΚΡΙΤΙΑΣ Ἀλλ’ οὔ οἱ δύναμίς γε πόρρωθεν ἐπιβοηθεῖν ὥσπερ τοῖς θεοῖς, ἀλλ’ εἴ τις αὐτὴν ἐπιφέρεται. ΤΡΙΕΦΩΝ Καὶ τί τόδ’ ἔστιν; ἐθέλω γὰρ παρὰ σοῦ εἰδέναι ὡς ἐξευρημένου τὰ τοιαῦτα καὶ ἐς τὰ μάλιστα κατωρθωκότος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Philopatr 9",
+      "text": "ἀγνοῶ γὰρ πάντα τὰ κατ’ αὐτὴν πλήν γε τοῦ ὀνόματος. ΚΡΙΤΙΑΣ Αὕτη κόρη ἐγένετο εὐπρεπὴς καὶ ἐπέραστος· Περσέως δὲ ταύτην δόλῳ ἀποδειροτομήσαντος, ἀνδρὸς γενναίου καὶ ἐς μαγικὴν εὐφημουμένου, ἐπαοιδίαις ταύτην περιῳδήσαντος, ἄλκαρ οἱ θεοὶ ταύτην ἐσχήκασι. ΤΡΙΕΦΩΝ Τουτί μ’ ἐλάνθανέ ποτε τὸ καλόν, ὡς ἀνθρώπων θεοὶ ἐνδεεῖς εἰσι. ζώσης δὲ τί τὸ χρήσιμον; προσηταιρίζετο ἐς πανδοχεῖον ἢ κρυφίως συνεφθείρετο καὶ κόρην αὑτὴν ἐπωνόμαζε; ΚΡΙΤΙΑΣ Νὴ τὸν Ἄγνωστον ἐν Ἀθήναις παρθένος διέμεινε μέχρι τῆς ἀποτομῆς. ΤΡΙΕΦΩΝ Καὶ εἴ τις παρθένον καρατομήσειε, ταὐτὸ γένοιτο φόβητρον τοῖς πολλοῖς; οἶδα γὰρ μυρίας διαμελεϊστὶ τμηθείσας “νήσῳ ἐν ἀμφιρύτῃ, Κρήτην δέ 〈τε〉 μιν καλέουσι.” καὶ εἰ τοῦτο ἐγίνωσκον, ὦ καλὲ Κριτία, πόσας Γοργόνας σοι ἂν ἤγαγον ἐκ Κρήτης; καί σε στρατηγέτην ἀκαταμάχητον ἀποκατέστησα, ποιηταὶ δὲ καὶ ῥήτορες κατὰ πολύ με Περσέως προέκριναν ὡς πλείονας Γοργόνας ἐφευρηκότα. ἀλλ’ ἔτι ἀνεμνήσθην τὰ τῶν Κρητῶν, οἳ τάφον ἐπεδείκνυντό μοι τοῦ Διός σου καὶ τὰ τὴν μητέρα θρέψαντα λόχμια, ὡς ἀειθαλεῖς αἱ λόχμαι αὗται διαμένουσι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Philopatr 10",
+      "text": "ΚΡΙΤΙΑΣ Ἀλλ’ οὐκ ἐγίνωσκες τὴν ἐπῳδὴν καὶ τὰ ὄργια. ΤΡΙΕΦΩΝ Εἰ ταῦτα, ὦ Κριτία, ἐξ ἐπῳδῆς ἐγίνοντο τάχ’ ἂν καὶ ἐκ νεκάδων ἐξήνεγκεν ἂν καὶ ἐς τὸ γλυκύτατον φάος ἀνήγαγεν. ἀλλὰ λῆρος παίγνιά τε καὶ μῦθοι παρὰ τῶν ποιητῶν τερατολογούμενα. ὥστε ἔασον καὶ ταύτην. ΚΡΙΤΙΑΣ Ἥραν δὲ τὴν Διὸς γαμετὴν καὶ κασίγνητον οὐ παραδέχῃ; ΤΡΙΕΦΩΝ Σίγα τῆς ἀσελγεστάτης ἕνεκα μίξεως καὶ τὴν ἐκ ποδοῖν καὶ χεροῖν ἐκτετανυσμένην παράδραμε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Philopatr 11",
+      "text": "ΚΡΙΤΙΑΣ Καὶ τίνα ἐπομόσωμαί γε; ΤΡΙΕΦΩΝ Ὑψιμέδοντα θεόν, μέγαν, ἄμβροτον, οὐρανίωνα, υἱὸν ἐκ πατρός, πνεῦμα ἐκ πατρὸς ἐκπορευόμενον, ἓν ἐκ τριῶν καὶ ἐξ ἑνὸς τρία, τοῦτον νόμιζε Ζῆνα, τόνδ’ ἡγοῦ θεόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Philopatr 12",
+      "text": "ΚΡΙΤΙΑΣ Ἀριθμέειν με διδάσκεις, καὶ ὅρκος ἡ ἀριθμητική· καὶ γὰρ ἀριθμέεις ὡς Νικόμαχος ὁ Γερασηνός. οὐκ οἶδα γὰρ τί λέγεις, ἓν τρία, τρία ἕν. μὴ τὴν τετρακτὺν φῂς τὴν Πυθαγόρου ἢ τὴν ὀγδοάδα καὶ τριακάδα; ΤΡΙΕΦΩΝ Σίγα τὰ νέρθε καὶ τὰ σιγῆς ἄξια. οὐκ ἔσθ’ ὧδε μετρεῖν τὰ ψυλλῶν ἴχνη. ἐγὼ γάρ σε διδάξω τί τὸ πᾶν καὶ τίς ὁ πρῴην πάντων καὶ τί τὸ σύστημα τοῦ παντός· καὶ γὰρ πρῴην κἀγὼ ταῦτα ἔπασχον ἅπερ σύ, ἡνίκα δέ μοι Γαλιλαῖος ἐνέτυχεν, ἀναφαλαντίας, ἐπίρρινος, ἐς τρίτον οὐρανὸν ἀεροβατήσας καὶ τὰ κάλλιστα ἐκμεμαθηκώς, δι’ ὕδατος ἡμᾶς ἀνεγέννησεν, ἐς τὰ τῶν μακάρων ἴχνια παρεισώδευσε καὶ ἐκ τῶν ἀσεβῶν χώρων ἡμᾶς ἐλυτρώσατο. καὶ σὲ ποιήσω, ἤν μου ἀκούῃς, ἐπ’ ἀληθείας ἄνθρωπον. ΚΡΙΤΙΑΣ Λέγε, ὦ πολυμαθέστατε Τριεφῶν· διὰ φόβου γὰρ ἔρχομαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Philopatr 13",
+      "text": "ΤΡΙΕΦΩΝ Ἀνέγνωκάς ποτε τὰ τοῦ Ἀριστοφάνους τοῦ δραματοποιοῦ Ὄρνιθας ποιημάτια; ΚΡΙΤΙΑΣ Καὶ μάλα. ΤΡΙΕΦΩΝ Ἐγκεχάρακται παρ’ αὐτοῦ τοιόνδε· Χάος ἦν καὶ Νὺξ Ἔρεβός τε μέλαν πρῶτον καὶ Τάρταρος εὐρύς· γῆ δ’ οὐδ’ ἀὴρ οὐδ’ οὐρανὸς ἦν. ΚΡΙΤΙΑΣ Εὖ λέγεις. εἶτα τί ἦν; ΤΡΙΕΦΩΝ Ἦν φῶς ἄφθιτον ἀόρατον ἀκατανόητον, ὃ λύει τὸ σκότος καὶ τὴν ἀκοσμίαν ταύτην ἀπήλασε, λόγῳ μόνῳ ῥηθέντι ὑπ’ αὐτοῦ, ὡς ὁ βραδύγλωσσος ἀπεγράψατο, γῆν ἔπηξεν ἐφ’ ὕδασιν, οὐρανὸν ἐτάνυσεν, ἀστέρας ἐμόρφωσεν ἀπλανεῖς, δρόμον διετάξατο, οὓς σὺ σέβῃ θεούς, γῆν δὲ τοῖς ἄνθεσιν ἐκαλλώπισεν, ἄνθρωπον ἐκ μὴ ὄντων ἐς τὸ εἶναι παρήγαγε, καὶ ἔστιν ἐν οὐρανῷ βλέπων δικαίους τε κἀδίκους καὶ ἐν βίβλοις τὰς πράξεις ἀπογραφόμενος· ἀνταποδώσει δὲ πᾶσιν ἣν ἡμέραν αὐτὸς ἐνετείλατο. ΚΡΙΤΙΑΣ Τὰ δὲ τῶν Μοιρῶν ἐπινενησμένα ἐς ἅπαντας ἐγχαράττουσί γε καὶ ταῦτα; ΤΡΙΕΦΩΝ Τὰ ποῖα; ΚΡΙΤΙΑΣ Τὰ τῆς εἱμαρμένης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Philopatr 14",
+      "text": "ΤΡΙΕΦΩΝ Λέγε, ὦ καλὲ Κριτία, περὶ τῶν Μοιρῶν, ἐγὼ δὲ μαθητιῶν ἀκούσαιμι παρὰ σοῦ. ΚΡΙΤΙΑΣ Οὐχ Ὅμηρος ὁ ἀοίδιμος ποιητὴς εἴρηκε, μοῖραν δ’ οὔ τινά φημι πεφυγμένον ἔμμεναι ἀνδρῶν ἐπὶ δὲ τοῦ μεγάλου Ἡρακλέους, οὐδὲ γὰρ οὐδὲ βίη Ἡρακλείη φύγε κῆρα, ὅσπερ φίλτατος ἔσκε Διὶ Κρονίωνι ἄνακτι, ἀλλά ἑ Μοῖρ’ ἐδάμασσε καὶ ἀργαλέος χόλος Ἥρης. ἀλλὰ καὶ ὅλον τὸν βίον καθειμάρθαι καὶ τὰς ἐν τούτῳ μεταβολάς· ἔνθα δ’ ἔπειτα πείσεται ἅσσα οἱ Αἶσα Κατακλῶθές τε βαρεῖαι γεινομένῳ νήσαντο λίνῳ, ὅτε μιν τέκε μήτηρ. καὶ τὰς ἐν ξένῃ ἐποχὰς ἀπ’ ἐκείνης γίνεσθαι· ἠδ’ ὡς Αἴολον ἱκόμεθ’, ὅς με πρόφρων ὑπέδεκτο, καὶ πέμπ’· οὐδέπω αἶσα φίλην ἐς πατρίδ’ ἱκέσθαι. ὥστε πάντα ὑπὸ τῶν Μοιρῶν γενέσθαι ὁ ποιητὴς μεμαρτύρηκε. τὸν δὲ Δία μὴ θελῆσαι τὸν υἱὸν θανάτοιο δυσηχέος ἐξαναλῦσαι, ἀλλὰ μᾶλλον αἱματοέσσας δὲ ψιάδας κατέχευεν ἔραζε παῖδα φίλον τιμῶν, τόν οἱ Πάτροκλος ἔμελλε φθίσειν ἐν Τροίῃ. ὥστε, ὦ Τριεφῶν, διὰ τοῦτο μηδὲν προσθεῖναι περὶ τῶν Μοιρῶν ἐθελήσῃς, εἰ καὶ τάχα πεδάρσιος ἐγεγόνεις μετὰ τοῦ διδασκάλου καὶ τὰ ἀπόρρητα ἐμυήθης. ΤΡΙΕΦΩΝ Καὶ πῶς ὁ αὐτὸς ποιητής, ὦ καλὲ Κριτία, διττὴν ἐπιλέγει τὴν εἱμαρμένην καὶ ἀμφίβολον, ὡς τόδε μέν τι πράξαντι τοιῷδε τέλει συγκυρῆσαι, τοῖον δὲ ποιήσαντι, ἑτέρῳ τέλει ἐντυχεῖν; ὡς ἐπ’ Ἀχιλλέως, διχθαδίας Κῆρας φερέμεν θανάτοιο τέλοσδε· εἰ μέν κ’ αὖθι μένων Τρώων πόλιν ἀμφιμάχωμαι, ὤλετο μέν μοι νόστος, ἀτὰρ κλέος ἄφθιτον ἔσται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Philopatr 15",
+      "text": "εἰ δέ κεν οἴκαδ’ ἵκωμαι, ὤλετό μοι κλέος ἐσθλόν, ἐπὶ δηρὸν δέ μοι αἰὼν ἔσσεται. ἀλλὰ καὶ ἐπὶ Εὐχήνορος, ὅς ῥ’ εὖ εἰδὼς κῆρ’ ὀλοὴν ἐπὶ νηὸς ἔβαινε· πολλάκι γάρ οἱ ἔειπε γέρων ἀγαθὸς Πολύϊδος, νούσῳ ὑπ’ ἀργαλέῃ φθῖσθαι οἷς ἐν μεγάροισιν ἢ μετ’ Ἀχαιῶν νηυσὶν ὑπὸ Τρώεσσι δαμῆναι. οὐχὶ παρ’ Ὁμήρῳ ταῦτα γέγραπται; ἢ ἀμφίβολος αὕτη καὶ ἀμφίκρημνος ἀπάτη; εἰ δὲ βούλει, καὶ τοῦ Διὸς ἐπιθήσω σοι τὸν λόγον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Philopatr 16",
+      "text": "οὐχὶ τῷ Αἰγίσθῳ εἴρηκεν ὡς ἀποσχομένῳ μὲν τῆς μοιχείας καὶ τῆς Ἀγαμέμνονος ἐπιβουλῆς ζῆν καθείμαρται πολὺν χρόνον, ἐπιβαλλομένῳ δὲ ταῦτα πράττειν οὐ καθυστερεῖν θανάτου; τοῦτο κἀγὼ πολλάκις προὐμαντευσάμην, ἐὰν κτάνῃς τὸν πλησίον, θανατωθήσῃ παρὰ τῆς δίκης, εἰ δέ γε μὴ τοῦτο πράξεις, βιώσῃ καλῶς, οὐδέ κέ ς’ ὦκα τέλος θανάτοιο κιχείη. οὐχ ὁρᾷς ὡς ἀδιόρθωτα τὰ τῶν ποιητῶν καὶ ἀμφίλοξα καὶ μηδέπω ἡδραιωμένα; ὥστε ἔασον ἅπαντα, ὡς καὶ σὲ ἐν ταῖς ἐπουρανίοις βίβλοις τῶν ἀγαθῶν ἀπογράψωνται. ΚΡΙΤΙΑΣ Εὖ πάντα ἀνακυκλεῖς, ὦ Τριεφῶν· ἀλλά μοι τόδε εἰπέ, εἰ καὶ τὰ τῶν Σκυθῶν ἐν τῷ οὐρανῷ ἐγχαράττουσι; ΤΡΙΕΦΩΝ Πάντα γε, εἰ τύχῃ γε χρηστὸς καὶ ἐν ἔθνεσι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Philopatr 17",
+      "text": "ΚΡΙΤΙΑΣ Πολλούς γε γραφέας φῂς ἐν τῷ οὐρανῷ, ὡς ἅπαντα ἀπογράφεσθαι. ΤΡΙΕΦΩΝ Εὐστόμει καὶ μηδὲν εἴπῃς φλαῦρον θεοῦ δεξιοῦ, ἀλλὰ κατηχούμενος πείθου παρ’ ἐμοῦ, εἴπερ χρὴ ζῆν εἰς τὸν αἰῶνα. εἰ οὐρανὸν ὡς δέρριν ἐξήπλωσε, γῆν δὲ ἐφ’ ὕδατος ἔπηξεν, ἀστέρας ἐμόρφωσεν, ἄνθρωπον ἐκ μὴ ὄντος παρήγαγε, τί παράδοξον καὶ τὰς πράξεις πάντων ἐναπογράφεσθαι; καὶ γὰρ σοὶ οἰκίδιον κατασκευάσαντι, οἰκέτιδας δὲ καὶ οἰκέτας ἐν αὐτῷ συναγαγόντι, οὐδέποτέ σε διέλαθε τούτων πρᾶξις ἀπόβλητος· πόσῳ μᾶλλον τὸν πάντα πεποιηκότα θεὸν οὐχ ἅπαντα ἐν εὐκολίᾳ διαδραμεῖν ἑκάστου πρᾶξιν καὶ ἔννοιαν; οἱ γάρ σου θεοὶ κότταβος τοῖς εὖ φρονοῦσιν ἐγένοντο. ΚΡΙΤΙΑΣ Πάνυ εὖ λέγεις, καί με ἀντιστρόφως τῆς Νιόβης παθεῖν· ἐκ στήλης γὰρ ἄνθρωπος ἀναπέφηνα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Philopatr 18",
+      "text": "ὥστε τοῦτον τὸν θεὸν προστιθῶ σοι, μὴ κακόν τι παθεῖν παρ’ ἐμοῦ. ΤΡΙΕΦΩΝ “Εἴπερ ἐκ καρδίας ὄντως φιλεῖς”, μὴ ἑτεροῖόν τι ποιήσῃς ἐν ἐμοὶ καὶ “ἕτερον μὲν κεύσῃς ἐνὶ φρεσίν, ἄλλο δὲ εἴπῃς”. ἀλλ’ ἄγε δὴ τὸ θαυμάσιον ἐκεῖνο ἀκουσμάτιον ἄεισον, ὅπως κἀγὼ κατωχριάσω καὶ ὅλος ἀλλοιωθῶ, καὶ οὐχ ὡς ἡ Νιόβη ἀπαυδήσω, ἀλλ’ ὡς Ἀηδὼν ὄρνεον γενήσομαι καὶ τὴν θαυμασίαν σου ἔκπληξιν κατ’ ἀνθηρὸν λειμῶνα ἐκτραγῳδήσω. ΚΡΙΤΙΑΣ Νὴ τὸν υἱὸν τὸν ἐκ πατρὸς οὐ τοῦτο γενήσεται. ΤΡΙΕΦΩΝ Λέγε παρὰ τοῦ πνεύματος δύναμιν τοῦ λόγου λαβών, ἐγὼ δὲ καθεδοῦμαι δέγμενος Αἰακίδην ὁπότε λήξειεν ἀείδων. ΚΡΙΤΙΑΣ Ἀπῄειν ἐπὶ τὴν λεωφόρον ὠνησόμενός γε τὰ χρειωδέστατα, καὶ δὴ ὁρῶ πλῆθος πάμπολυ ἐς τὸ οὖς ψιθυρίζοντας, ἐπὶ δὲ τῇ ἀκοῇ ἐφῦντο τοῖς χείλεσιν· ἐγὼ δὲ παπτήνας ἐς ἅπαντας καὶ τὴν χεῖρα τοῖς βλεφάροις περικάμψας ἐσκοπίαζον ὀξυδερκέστατα, εἴ πού γέ τινα τῶν φίλων θεάσομαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Philopatr 19",
+      "text": "ὁρῶ δὲ Κράτωνα τὸν πολιτικόν, ἐκ παιδόθεν φίλον ὄντα καὶ συμποτικόν. ΤΡΙΕΦΩΝ Αἰσθάνομαι· τοῦτον τὸν ἐξισωτὴν γὰρ εἴρηκας. εἶτα τί; ΚΡΙΤΙΑΣ Καὶ δὴ πολλοὺς παραγκωνισάμενος ἧκον ἐς τὰ πρόσω καὶ τὸ ἑωθινὸν χαῖρε εἰπὼν ἐχώρουν ὡς αὐτόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Philopatr 20",
+      "text": "ἀνθρωπίσκος δέ τις τοὔνομα Χαρίκενος, σεσημμένον γερόντιον ῥέγχον τῇ ῥινί, ὑπέβηττε μύχιον, ἐχρέμπτετο ἐπισεσυρμένον, ὁ δὲ πτύελος κυανώτερος θανάτου· εἶτα ἤρξατο ἐπιφθέγγεσθαι κατισχνημένον· Οὗτος, ὡς προεῖπον, τοὺς τῶν ἐξισωτῶν ἀπαλείψει ἐλλειπασμοὺς καὶ τὰ χρέα τοῖς δανεισταῖς ἀποδώσει καὶ τά τε ἐνοίκια πάντα καὶ τὰ δημόσια, καὶ τοὺς εἰρηνάρχας δέξεται μὴ ἐξετάζων τῆς τέχνης. καὶ κατεφλυάρει ἔτι πικρότερα. οἱ περὶ αὐτὸν δὲ ἥδοντο τοῖς λόγοις καὶ τῷ καινῷ τῶν ἀκουσμάτων προσέκειντο. ἕτερος δὲ τοὔνομα Χλευόχαρμος τριβώνιον ἔχων πολύσαθρον ἀνυπόδετός τε καὶ ἄσκεπος μετέειπε τοῖς ὀδοῦσιν ἐπικροτῶν, ὡς ἐπεδείξατό μοί τις κακοείμων, ἐξ ὀρέων παραγενόμενος, κεκαρμένος τὴν κόμην, ἐν τῷ θεάτρῳ ἀναγεγραμμένον οὔνομα ἱερογλυφικοῖς γράμμασιν, ὡς οὗτος τῷ χρυσῷ ἐπικλύσει τὴν λεωφόρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Philopatr 21",
+      "text": "ἦν δ’ ἐγὼ κατὰ μὲν τὰ Ἀριστάνδρου καὶ Ἀρτεμιδώρου, Οὐ καλῶς ἀποβήσονται ταῦτά γε τὰ ἐνύπνια ἐν ὑμῖν, ἀλλὰ σοὶ μὲν τὰ χρέα πληθυνθήσεται ἀναλόγως τῆς ἀποδόσεως· οὗτος δὲ ἐπὶ πολὺ τοῦ ὀβολοῦ γε στερηθήσεται ὡς πολλοῦ χρυσίου εὐπορηκώς. καὶ ἔμοιγε δοκεῖτε “ἐπὶ Λευκάδα πέτρην” “καὶ δῆμον ὀνείρων” καταδαρθέντες τοσαῦτα ὀνειροπολεῖν ἐν ἀκαρεῖ τῆς νυκτὸς οὔσης. οἱ δὲ ἀνεκάγχασαν ἅπαντες ὡς ἀποπνιγέντες ὑπὸ τοῦ γέλωτος καὶ τῆς ἀμαθίας μου κατεγίνωσκον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Philopatr 22",
+      "text": "ἦν δ’ ἐγὼ πρὸς Κράτωνα, Μῶν κακῶς πάντα ἐξερρίνισα, ἵν’ εἴπω τι κωμικευσάμενος, καὶ οὐ κατὰ Ἀρίστανδρον τὸν Τελμισέα καὶ Ἀρτεμίδωρον τὸν Ἐφέσιον ἐξίχνευσα τοῖς ὀνείρασιν; ἦ δ’ ὅς, Σίγα, ὦ Κριτία· εἰ ἐχεμυθεῖς, μυσταγωγήσω σε τὰ κάλλιστα καὶ τὰ νῦν γενησόμενα· οὐ γὰρ ὄνειροι τάδ’ εἰσίν, ἀλλ’ ἀληθῆ, ἐκβήσονται δὲ εἰς μῆνα Μεσορί. ταῦτα ἀκηκοὼς παρὰ τοῦ Κράτωνος καὶ τὸ ὀλισθηρὸν τῆς διανοίας αὐτῶν κατεγνωκὼς ἠρυθρίασα καὶ σκυθρωπάζων ἐπορευόμην πολλὰ τὸν Κράτωνα ἐπιμεμφόμενος. εἷς δὲ δριμὺ καὶ τιτανῶδες ἐνιδὼν δραξάμενός μου τοῦ λώπους ἐσπάρασσε ῥήτρην ποιήσασθαι πειθόμενός τε καὶ παρανυττόμενος παρὰ τοῦ πεπαλαιωμένου ἐκείνου δαιμονίου. εἰς λόγους δὲ ταῦτα παρεκτείναντες πείθει με τὸν κακοδαίμονα εἰς γόητας ἀνθρώπους παραγενέσθαι καὶ ἀποφράδι τὸ δὴ λεγόμενον ἡμέρᾳ συγκυρῆσαι· ἔφασκε γὰρ πάντα ἐξ αὐτῶν μυσταγωγηθῆναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Philopatr 23",
+      "text": "καὶ δὴ διήλθομεν σιδηρέας τε πύλας καὶ χαλκέους οὐδούς. ἀναβάθρας δὲ πλείστας περικυκλησάμενοι ἐς χρυσόροφον οἶκον ἀνήλθομεν, οἷον Ὅμηρος τὸν Μενελάου φησί. καὶ δὴ ἅπαντα ἐσκοπίαζον ὅσα ὁ νησιώτης ἐκεῖνος νεανίσκος. ὁρῶ δὲ οὐχ Ἑλένην, μὰ Δί’, ἀλλ’ ἄνδρας ἐπικεκυφότας καὶ κατωχριωμένους· “οἱ δὲ ἰδόντες γήθησαν” καὶ ἐξ ἐναντίας παρεγένοντο· ἔφασκον γὰρ ὡς εἴ τινα λυγρὰν ἀγγελίαν ἀγάγοιμεν· ἐφαίνοντο γὰρ οὗτοι ὡς τὰ κάκιστα εὐχόμενοι καὶ ἔχαιρον ἐπὶ τοῖς λυγροῖς ὥσπερ αἰλινοποιοὶ ἐπὶ θέατρα, τὰς κεφαλὰς δ’ ἄγχι σχόντες ἐψιθύριζον. μετὰ δὲ τὰ ἤροντό με, τίς πόθεν εἶς ἀνδρῶν, πόθι τοι πόλις ἠδὲ τοκῆες; χρηστὸς γὰρ ἂν εἴης ἀπό γε τοῦ σχήματος. ἦν δ’ ἐγώ, Ὀλίγοι γε χρηστοί, ὥσπερ βλέπω πανταχοῦ· Κριτίας δὲ τοὔνομα, πόλις δέ μοι ἔνθεν ὅθεν καὶ ὑμῖν. ὡς δ’ ἀεροβατοῦντες ἐπυνθάνοντο, Πῶς τὰ τῆς πόλεως καὶ τὰ τοῦ κόσμου; ἦν δ’ ἐγώ, Χαίρουσί γε πάντες καὶ ἔτι γε χαιρήσονται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Philopatr 24",
+      "text": "οἱ δὲ ἀνένευον ταῖς ὀφρύσιν, Οὐχ οὕτω. δυστοκεῖ γὰρ ἡ πόλις. ἦν δ’ ἐγὼ κατὰ τὴν αὐτῶν γνώμην· Ὑμεῖς πεδάρσιοι ὄντες καὶ ὡς ἀπὸ ὑψηλοῦ ἅπαντα καθορῶντες ὀξυδερκέστατα καὶ τάδε νενοήκατε. πῶς δὲ τὰ τοῦ αἰθέρος; μῶν ἐκλείψει ὁ ἥλιος, ἡ δὲ σελήνη κατὰ κάθετον γενήσεται; ὁ Ἄρης εἰ τετραγωνίσει τὸν Δία καὶ ὁ Κρόνος διαμετρήσει τὸν ἥλιον; ἡ Ἀφροδίτη εἰ μετὰ τοῦ Ἑρμοῦ συνοδεύσει καὶ Ἑρμαφροδίτους ἀποκυήσουσιν, ἐφ’ οἷς ὑμεῖς ἥδεσθε; εἰ ῥαγδαίους ὑετοὺς ἐκπέμψουσιν; εἰ νιφετὸν πολὺν ἐπιστρωννύσουσι τῇ γῇ, χάλαζαν δὲ καὶ ἐρυσίβην εἰ κατάξουσι, λοιμὸν καὶ λιμὸν καὶ αὐχμὸν εἰ ἐπιπέμψουσιν, εἰ τὸ κεραυνοβόλον ἀγγεῖον ἀπεγεμίσθη καὶ τὸ βροντοποιὸν δοχεῖον ἀνεμεστώθη; οἱ δὲ ὡς ἅπαντα κατωρθωκότες κατεφλυάρουν τὰ αὑτῶν ἐράσμια, ὡς μεταλλαγῶσι τὰ πράγματα, ἀταξίαι δὲ καὶ ταραχαὶ τὴν πόλιν καταλήψονται, τὰ στρατόπεδα ἥττονα τῶν ἐναντίων γενήσονται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Philopatr 25",
+      "text": "τοῦτο ἐκταραχθεὶς καὶ ὥσπερ πρῖνος καόμενος οἰδηθεὶς διάτορον ἀνεβόησα, Ὦ δαιμόνιοι ἀνδρῶν, μὴ μεγάλα λίαν λέγετε “θήγοντες ὀδόντας κατ’ ἀνδρῶν θυμολεόντων πνεόντων δόρυ καὶ λόγχας καὶ λευκολόφους τρυφαλείας.” ἀλλὰ ταῦθ’ ὑμῖν ἐπὶ κεφαλὴν καταβήσεται, ὡς τὴν πατρίδα ὑμῶν κατατρύχετε· οὐ γὰρ αἰθεροβατοῦντες ταῦτα ἠκηκόειτε, οὐ τὴν πολυάσχολον μαθηματικὴν κατωρθώκατε. εἰ δέ γε μαντεῖαι καὶ γοητεῖαι ὑμᾶς παρέπεισαν, διπλοῦν τὸ τῆς ἀμαθίας· γυναικῶν γὰρ εὑρέματα ταῦτα γραϊδίων καὶ παίγνια· ἐπὶ πολὺ γὰρ τὰ τοιαῦτα αἱ τῶν γυναικῶν ἐπίνοιαι μετέρχονται. ΤΡΙΕΦΩΝ Τί δὲ πρὸς ταῦτα ἔφησαν, ὦ καλὲ Κριτία, οἱ κεκαρμένοι τὴν γνώμην καὶ τὴν διάνοιαν; ΚΡΙΤΙΑΣ Ἅπαντα ταῦτα παρέδραμον εἰς ἐπίνοιαν τετεχνασμένην καταπεφευγότες· ἔλεγον γάρ, Ἡλίους δέκα ἄσιτοι διαμενοῦμεν καὶ ἐπὶ παννύχους ὑμνῳδίας ἐπαγρυπνοῦντες ὀνειρώττομεν τὰ τοιαῦτα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Philopatr 26",
+      "text": "ΤΡΙΕΦΩΝ Σὺ δὲ τί πρὸς αὐτοὺς εἴρηκας; μέγα γὰρ ἔφησαν καὶ διηπορημένον. ΚΡΙΤΙΑΣ Θάρσει, οὐκ ἀγεννές· ἀντεῖπον γὰρ τὰ κάλλιστα. τὰ γὰρ παρὰ τῶν ἀστικῶν θρυλλούμενα, ἔφην, περὶ ὑμῶν, ὁπόταν ὀνειροπολῆτε, τὰ τοιαῦτά που παρεισάγονται. οἱ δὲ σεσηρὸς ὑπομειδιῶντες, Ἔξω που παρέρχονται τοῦ κλινιδίου. ἦν δ’ ἐγώ, Εἰ ἀληθῆ εἰσι ταῦτα, ὦ αἰθέριοι, οὐκ ἄν ποτε ἀσφαλῶς τὰ μέλλοντα ἐξιχνεύσαιτε, ἀλλὰ καταπεισθέντες ὑπ’ αὐτῶν ληρήσετε τὰ μὴ ὄντα μηδὲ γενησόμενα. ἀλλὰ ταῦτα μὲν οὐκ οἶδ’ ὅπως ληρεῖτε ὀνείροις πιστεύοντες, καὶ τὰ κάλλιστα βδελύττεσθε, τοῖς δὲ πονηροῖς ἥδεσθε, μηδὲν ὀνούμενοι τοῦ βδελύγματος. ὥστε ἐάσατε τὰς ἀλλοκότους ταύτας φαντασίας καὶ τὰ πονηρὰ βουλεύματα καὶ μαντεύματα, μή που θεὸς ὑμᾶς ἐς κόρακας βάλλῃ διὰ τὸ τῇ πατρίδι ἐπαρᾶσθαι καὶ λόγους κιβδήλους ἐπιφημίζειν. οὗτοι δὲ ἅπαντες ἕνα θυμὸν ἔχοντες ἐμοὶ πολλὰ κατεμέμφοντο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Philopatr 27",
+      "text": "καὶ εἰ βούλει, καὶ τάδε προστιθῶ σοι, ἅτινά με καὶ ὡς στήλην ἄναυδον ἔθηκαν, μέχρις ἂν ἡ χρηστή σου λαλιὰ λιθούμενον ἀνέλυσε καὶ ἄνθρωπον ἀπεκατέστησε. ΤΡΙΕΦΩΝ Σίγα, ὦ Κριτία, καὶ μὴ ὑπερεκτείνῃς τοὺς ὕθλους· ὁρᾷς γὰρ ὡς ἐξώγκωταί μου ἡ νηδὺς καὶ ὥσπερ κυοφορῶ· ἐδήχθην γὰρ τοῖς παρὰ σοῦ λόγοις ὡς ὑπὸ κυνὸς λυττῶντος. καὶ εἰ μὴ φάρμακον ληθεδανὸν ἐμπιὼν ἠρεμήσω, αὕτη ἡ μνήμη οἰκουροῦσα ἐν ἐμοὶ μέγα κακὸν ἐργάσεται. ὥστε ἔασον τούτους τὴν εὐχὴν ἀπὸ πατρὸς ἀρξάμενος καὶ τὴν πολυώνυμον ᾠδὴν ἐς τέλος ἐπιθείς. ἀλλὰ τί τοῦτο; οὐχὶ Κλεόλαος οὗτός ἐστιν, ὁ τοῖς ποσὶ μακρὰ βιβάς, σπουδῇ δὲ ἥκει καὶ κατέρχεται; μῶν ἐπιφωνήσομεν αὐτῷ; ΚΡΙΤΙΑΣ Καὶ μάλα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Philopatr 28",
+      "text": "ΤΡΙΕΦΩΝ Κλεόλαε, μή τι παραδράμῃς γε ποσὶ μηδὲ παρέλθῃς, ἀλλ’ ἐλθὲ χαίρων, εἴ γέ που μῦθον φέρεις. ΚΛΕΟΛΑΟΣ Χαίρετ’ ἄμφω, ὦ καλὴ ξυνωρίς. ΤΡΙΕΦΩΝ Τίς ἡ σπουδή; ἀσθμαίνεις γὰρ ἐπὶ πολύ. μῶν τι καινὸν πέπρακται; ΚΛΕΟΛΑΟΣ Πέπτωκεν ὀφρὺς ἡ πάλαι βοωμένη Περσῶν, καὶ Σοῦσα κλεινὸν ἄστυ. πεσεῖ δ’ ἔτι γε πᾶσα χθὼν Ἀραβίας χειρὶ κρατοῦντος εὐσθενεστάτῳ κράτει. ΚΡΙΤΙΑΣ Τοῦτ’ ἐκεῖνο, ὡς ἀεὶ τὸ θεῖον οὐκ ἀμελεῖ τῶν ἀγαθῶν, ἀλλ’ αὔξει ἄγον ἐπὶ τὰ κρείττονα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Philopatr 29",
+      "text": "ἡμεῖς δέ, ὦ Τριεφῶν, τὰ κάλλιστα εὑρηκότες ἐσμέν. ἐδυσχέραινον γὰρ ἐν τῇ ἀποβιώσει τί τοῖς τέκνοις καταλιπεῖν ἐπὶ ταῖς διαθήκαις· οἶδας γὰρ τὴν ἐμὴν πενίαν ὡς ἐγὼ τὰ σά. τοῦτο ἀρκεῖ τοῖς παισίν, αἱ ἡμέραι τοῦ αὐτοκράτορος· πλοῦτος γὰρ ἡμᾶς οὐκ ἐκλείψει καὶ ἔθνος ἡμᾶς οὐ καταπτοήσει. ΤΡΙΕΦΩΝ Κἀγώ, ὦ Κριτία, ταῦτα καταλείπω τοῖς τέκνοις, ὡς ἴδωσι Βαβυλῶνα ὀλλυμένην, Αἴγυπτον δουλουμένην, τὰ τῶν Περσῶν τέκνα “δούλειον ἦμαρ” ἄγοντα, τὰς ἐκδρομὰς τῶν Σκυθῶν παυομένας, εἴθ’ οὖν καὶ ἀνακοπτομένας. ἡμεῖς δὲ τὸν ἐν Ἀθήναις Ἄγνωστον ἐφευρόντες καὶ προσκυνήσαντες χεῖρας εἰς οὐρανὸν ἐκτείναντες τούτῳ εὐχαριστήσωμεν ὡς καταξιωθέντες τοιούτου κράτους ὑπήκοοι γενέσθαι, τοὺς δὲ λοιποὺς ληρεῖν ἐάσωμεν ἀρκεσθέντες ὑπὲρ αὐτῶν εἰπεῖν τὸ οὐ φροντὶς Ἱπποκλείδῃ κατὰ τὴν παροιμίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "qeu-ah",
+      "title": {
+        "english": "Alcyon",
+        "ancient_greek": "Ἀλκυών"
+      },
+      "url_slug": "pseudo-lucian-alcyon-qeu-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/alcyon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-alcyon-qeu-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-alcyon-qeu-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-alcyon-qeu-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-alcyon-qeu-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/alcyon.epub"
+      }
+    },
+    {
+      "eul_wid": "qeu-ab",
+      "title": {
+        "english": "Charidemos or-Beauty",
+        "ancient_greek": "Χαρίδημος ἢ Περὶ Κάλλους"
+      },
+      "url_slug": "pseudo-lucian-charidemos-beauty-qeu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/charidemos-beauty",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-charidemos-beauty-qeu-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-charidemos-beauty-qeu-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-charidemos-beauty-qeu-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-charidemos-beauty-qeu-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/charidemos-beauty.epub"
+      }
+    },
+    {
+      "eul_wid": "qeu-ai",
+      "title": {
+        "english": "Cynic",
+        "ancient_greek": "Κυνικός"
+      },
+      "url_slug": "pseudo-lucian-cynic-qeu-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/cynic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-cynic-qeu-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-cynic-qeu-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-cynic-qeu-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-cynic-qeu-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/cynic.epub"
+      }
+    },
+    {
+      "eul_wid": "qeu-ag",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "pseudo-lucian-epigrams-ag-qeu-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/epigrams-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-epigrams-ag-qeu-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-epigrams-ag-qeu-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-epigrams-ag-qeu-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-epigrams-ag-qeu-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/epigrams-ag.epub"
+      }
+    },
+    {
+      "eul_wid": "qeu-af",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "pseudo-lucian-epigrams-af-qeu-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/epigrams-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-epigrams-af-qeu-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-epigrams-af-qeu-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-epigrams-af-qeu-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-epigrams-af-qeu-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/epigrams-af.epub"
+      }
+    },
+    {
+      "eul_wid": "qeu-aj",
+      "title": {
+        "english": "Loves",
+        "ancient_greek": "Ἔρωτες"
+      },
+      "url_slug": "pseudo-lucian-loves-qeu-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/loves",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-loves-qeu-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-loves-qeu-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-loves-qeu-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-loves-qeu-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/loves.epub"
+      }
+    },
+    {
+      "eul_wid": "qeu-ad",
+      "title": {
+        "english": "Lucius or the Ass",
+        "ancient_greek": "Λούκιος ἢ Ὄνος"
+      },
+      "url_slug": "pseudo-lucian-ass-qeu-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/ass",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-ass-qeu-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-ass-qeu-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-ass-qeu-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-ass-qeu-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/ass.epub"
+      }
+    },
+    {
+      "eul_wid": "qeu-ae",
+      "title": {
+        "english": "Swift-Footed",
+        "ancient_greek": "Ὠκύπους"
+      },
+      "url_slug": "pseudo-lucian-swift-footed-qeu-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/swift-footed",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-swift-footed-qeu-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-swift-footed-qeu-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-swift-footed-qeu-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-swift-footed-qeu-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/swift-footed.epub"
+      }
+    },
+    {
+      "eul_wid": "qeu-ac",
+      "title": {
+        "english": "encom of Demosthenes",
+        "ancient_greek": "Δημοσθένους Ἐγκώμιον"
+      },
+      "url_slug": "pseudo-lucian-encomium-qeu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/encomium",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-encomium-qeu-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-encomium-qeu-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-encomium-qeu-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-encomium-qeu-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/encomium.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "eym-ab",
+      "title": {
+        "english": "Against Alcibiades",
+        "ancient_greek": "Κατὰ Ἀλκιβιάδου"
+      },
+      "url_slug": "andocides-against-alcibiades-eym-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/andocides/against-alcibiades",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides-against-alcibiades-eym-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides-against-alcibiades-eym-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides-against-alcibiades-eym-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides-against-alcibiades-eym-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides/against-alcibiades.epub"
+      }
+    },
+    {
+      "eul_wid": "pfk-au",
+      "title": {
+        "english": "Dialogues of the Gods",
+        "ancient_greek": "Θεῶν Διάλογοι"
+      },
+      "url_slug": "lucian-of-samosata-dialogues-gods-pfk-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/dialogues-gods",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-dialogues-gods-pfk-au.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-dialogues-gods-pfk-au.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-dialogues-gods-pfk-au.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-dialogues-gods-pfk-au.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dialogues-gods.epub"
+      }
+    },
+    {
+      "eul_wid": "pfk-bb",
+      "title": {
+        "english": "How to Write History",
+        "ancient_greek": "Πῶς δεῖ Ἱστορίαν συγγράφειν"
+      },
+      "url_slug": "lucian-of-samosata-how-to-write-history-pfk-bb",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/how-to-write-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-how-to-write-history-pfk-bb.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-how-to-write-history-pfk-bb.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-how-to-write-history-pfk-bb.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-how-to-write-history-pfk-bb.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/how-to-write-history.epub"
+      }
+    },
+    {
+      "eul_wid": "pfk-ak",
+      "title": {
+        "english": "On the Death of Peregrinus",
+        "ancient_greek": "Περὶ τῆς Περεγρίνου Τελευτῆς"
+      },
+      "url_slug": "lucian-of-samosata-death-peregrinus-pfk-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/death-peregrinus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-death-peregrinus-pfk-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-death-peregrinus-pfk-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-death-peregrinus-pfk-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-death-peregrinus-pfk-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/death-peregrinus.epub"
+      }
+    },
+    {
+      "eul_wid": "ffu-ax",
+      "title": {
+        "english": "Panathenaicus",
+        "ancient_greek": "Πανηγητικός"
+      },
+      "url_slug": "isocrates-of-athens-panegyric-ax-ffu-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/panegyric-ax",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-panegyric-ax-ffu-ax.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-panegyric-ax-ffu-ax.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-panegyric-ax-ffu-ax.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-panegyric-ax-ffu-ax.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/panegyric-ax.epub"
+      }
+    },
+    {
+      "eul_wid": "qng-ab",
+      "title": {
+        "english": "Preliminary Exercises",
+        "ancient_greek": "Προγυμνάσματα"
+      },
+      "url_slug": "hermogenes-of-tarsus-preliminary-exercises-qng-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermogenes-of-tarsus/preliminary-exercises",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-preliminary-exercises-qng-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-preliminary-exercises-qng-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-preliminary-exercises-qng-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-preliminary-exercises-qng-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus/preliminary-exercises.epub"
+      }
+    },
+    {
+      "eul_wid": "qwm-at",
+      "title": {
+        "english": "To Demosthenes-Exemption",
+        "ancient_greek": "Πρὸς Δημοσθένη περὶ ἀτελείας"
+      },
+      "url_slug": "aristides-the-orator-demosthenes-exemption-qwm-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/demosthenes-exemption",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-demosthenes-exemption-qwm-at.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-demosthenes-exemption-qwm-at.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-demosthenes-exemption-qwm-at.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-demosthenes-exemption-qwm-at.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/demosthenes-exemption.epub"
+      }
+    },
+    {
+      "eul_wid": "ffu-am",
+      "title": {
+        "english": "To Dionysius",
+        "ancient_greek": "Πρὸς Διονύσιον"
+      },
+      "url_slug": "isocrates-of-athens-to-dionysius-ffu-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/to-dionysius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-to-dionysius-ffu-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-to-dionysius-ffu-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-to-dionysius-ffu-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-to-dionysius-ffu-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/to-dionysius.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/pseudo-lucian/philopatris",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-philopatris-qeu-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-philopatris-qeu-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-philopatris-qeu-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-philopatris-qeu-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/philopatris.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

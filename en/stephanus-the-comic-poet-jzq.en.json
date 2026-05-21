@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "jzq",
+  "auth_slug": "stephanus-the-comic-poet",
+  "name": {
+    "english": "Stephanus the Comic Poet",
+    "ancient_greek": "Στέφανος ὁ Κωμικός"
+  },
+  "seo_h1": "Stephanus the Comic Poet on Kings and Their Gifts",
+  "seo": {
+    "browser_title": "Stephanus the Comic Poet on Eulogikon Greek Archive",
+    "meta_title": "Classical Stephanus Ancient Greek Comic Poet and Fragments",
+    "meta_description": "Stephanus was a Hellenistic Athenian comic poet of the 4th-3rd centuries BCE. Two fragmentary works survive. Free to read and download from the Greek library."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Stephanus was an Athenian comic poet of the Hellenistic period, most likely active in the 4th and 3rd centuries BCE. His career coincided with the transition in Greek comedy from the political satire of Old Comedy toward the domestic and romantic themes of New Comedy. No biographical details of his life are recorded.</p>\n<p class=\"research-text\">He is credited with two comedies, known only by their titles and a few surviving fragments: Philargyros and Philopator. No complete play survives. The titles indicate his works engaged with common New Comedy subjects, focusing on character types defined by a single dominant trait such as avarice or familial devotion.</p>\n<p class=\"research-text\">Stephanus exemplifies the many comic playwrights from this era whose works are now almost entirely lost. His inclusion in ancient catalogues of poets confirms his place within the active theatrical culture of his time. The study of fragmentary authors like Stephanus helps illustrate the broad thematic and stylistic range of post-Aristophanic comedy beyond its most famous representative, Menander. His fragments were also cited by ancient grammarians in their studies of comic language.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "jzq-ab",
+      "title": {
+        "english": "King's Gift at Thuria",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "stephanus-the-comic-poet-kings-gift-at-thuria-jzq-ab",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/stephanus-the-comic-poet/kings-gift-at-thuria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet-kings-gift-at-thuria-jzq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet-kings-gift-at-thuria-jzq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet-kings-gift-at-thuria-jzq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet-kings-gift-at-thuria-jzq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet/kings-gift-at-thuria.epub"
+      }
+    },
+    {
+      "eul_wid": "jzq-aa",
+      "title": {
+        "english": "King's Gift of a Village",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "stephanus-the-comic-poet-kings-gift-of-a-village-jzq-aa",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/stephanus-the-comic-poet/kings-gift-of-a-village",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet-kings-gift-of-a-village-jzq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet-kings-gift-of-a-village-jzq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet-kings-gift-of-a-village-jzq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet-kings-gift-of-a-village-jzq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet/kings-gift-of-a-village.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/stephanus-the-comic-poet",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/stephanus-the-comic-poet-jzq.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/stephanus-the-comic-poet-jzq.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/stephanus-the-comic-poet-jzq.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/stephanus-the-comic-poet-jzq.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,1455 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "rjo-ab",
+  "eul_aid": "rjo",
+  "author_slug": "diogenes-of-laertia",
+  "work_slug": "epigrams",
+  "url_slug": "diogenes-of-laertia-epigrams-rjo-ab",
+  "author": {
+    "english": "Diogenes of Laertia",
+    "ancient_greek": "Διογένης ὁ Λαέρτιος"
+  },
+  "title": {
+    "english": "Epigrams",
+    "ancient_greek": "Ἐπιγράμματα"
+  },
+  "seo": {
+    "browser_title": "Epigrams by Diogenes Laertius on Eulogikon Archive",
+    "meta_title": "The Epigrams by Diogenes Laertius in Ancient Greek",
+    "meta_description": "Diogenes of Laertia composed witty epigrams celebrating the lives and teachings of ancient Greek philosophers in Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Βίος",
+      "english": "Biography",
+      "href": "/domains/biography"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Epigrams</strong> constitute a collection of 153 short poems in Greek elegiac couplets, attributed to the biographer Diogenes Laërtius. Composed in the 3rd century CE, they form an integral poetic appendix to his prose work, <strong>Lives and Opinions of Eminent Philosophers</strong>. Each epigram functions as a commemorative epitaph for a specific philosopher, from Thales to Epicurus, appearing immediately after the corresponding biography. The verses aim to distill the essence of a philosopher&#x27;s life, doctrine, or death into concise, memorable form. Modern scholarship interprets their purpose as providing both reflective closure to each biographical account and aligning the work with the ancient tradition of using poetry for encomium and memorial. Common themes include the celebration of wisdom, the encapsulation of philosophical teachings, and the contemplation of mortal transience contrasted with intellectual legacy. The text survives in its entirety but not independently; it is transmitted exclusively within the manuscript tradition of Diogenes Laërtius&#x27;s <strong>Lives</strong>, preserved in over one hundred Greek manuscripts, the oldest of which date from the 12th century. While some scholarly debate exists regarding whether Diogenes composed all the epigrams himself or compiled pre-existing verses, they are presented as his original work within the transmitted corpus.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 57.1.1",
+      "text": "Καὶ τίς ἔφυ σοφὸς ὧδε; τίς ἔργον ἔρεξε τοσοῦτον,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 57.1.2",
+      "text": "ὅσσον ὁ παντοδαὴς μήνυσε Δημόκριτος;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 57.1.3",
+      "text": "ὃς θάνατον παρεόντα τρί’ ἤματα δώμασιν ἔσχεν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 57.1.4",
+      "text": "καὶ θερμοῖς ἄρτων ἄσθμασιν ἐξένισεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 85.1.1",
+      "text": "Γυμνικὸν αὖ ποτ’ ἀγῶνα θεώμενον, ἠέλιε Ζεῦ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 85.1.2",
+      "text": "τὸν σοφὸν ἄνδρα Θαλῆν ἥρπασας ἐκ σταδίου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 85.1.3",
+      "text": "αἰνέω, ὅττι μιν ἐγγὺς ἀπήγαγες· ἦ γὰρ ὁ πρέσβυς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 85.1.4",
+      "text": "οὐκέθ’ ὁρᾶν ἀπὸ γῆς ἀστέρας ἠδύνατο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 87.1.1",
+      "text": "Σῶμα μὲν ἦρε Σόλωνος ἐν ἀλλοδαπῇ Κύπριον πῦρ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 87.1.2",
+      "text": "ὀστὰ δ’ ἔχει Σαλαμίς, ὧν κόνις ἀστάχυες·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 87.1.3",
+      "text": "ψυχὴν δ’ ἄξονες εὐθὺς ἐς οὐρανὸν ἤγαγον· εὖ γὰρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 87",
+      "text": "θῆκε νόμους αὐτοῖς ἄχθεα κουφότατα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 88.1.1",
+      "text": "Φωσφόρε, σοί, Πολύδευκες, ἔχω χάριν, οὕνεκεν υἱὸς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 88.1.2",
+      "text": "Χίλωνος πυγμῇ χλωρὸν ἕλεν κότινον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 88.1.3",
+      "text": "εἰ δ’ ὁ πατὴρ στεφανοῦχον ἰδὼν 〈τέκνον〉 ἤμυσεν ἡσθείς,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 88.1.4",
+      "text": "οὐ νεμεσητόν· ἐμοὶ τοῖος ἴτω θάνατος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 91.1.1",
+      "text": "Τῇδε Βίαντα κέκευθα, τὸν ἀτρέμας ἤγαγεν Ἑρμῆς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 91.1.2",
+      "text": "εἰς Ἀίδην πολιῷ γήραϊ νιφόμενον·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 91.1.3",
+      "text": "εἶπε γάρ, εἶπε δίκην ἑτάρου τινός· εἶτ’ ἀποκλινθεὶς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 91.1.4",
+      "text": "παιδὸς ἐς ἀγκαλίδας μακρὸν ἔτεινεν ὕπνον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.1.1",
+      "text": "Ἐς Σκυθίην Ἀνάχαρσις ὅτ’ ἤλυθε πολλὰ μογήσας,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.1.2",
+      "text": "πάντας ἔπειθε βιοῦν ἤθεσιν Ἑλλαδικοῖς·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.1.3",
+      "text": "τὸν δ’ ἔτι μῦθον ἄκραντον ἐνὶ στομάτεσσιν ἔχοντα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.1.4",
+      "text": "πτηνὸς ἐς ἀθανάτους ἥρπασεν ὦκα δόναξ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.1.1",
+      "text": "Ἠέλιον πυρόεντα μύδρον ποτὲ φάσκεν ὑπάρχειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.1.2",
+      "text": "καὶ διὰ τοῦτο θανεῖν μέλλεν Ἀναξαγόρας·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.1.3",
+      "text": "ἀλλ’ ὁ φίλος Περικλῆς μὲν ἐρύσατο τοῦτον, ὁ δ’ αὑτὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95",
+      "text": "ἐξάγαγεν βιότου μαλθακίῃ σοφίης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 96.1.1",
+      "text": "Πῖνέ νυν ἐν Διὸς ὤν, ὦ Σώκρατες· ἦ σε γὰρ ὄντως",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 96.1.2",
+      "text": "καὶ σοφὸν εἶπε θεὸς καὶ θεὸν ἡ Σοφία.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 96.1.3",
+      "text": "πρὸς γὰρ Ἀθηναίων κώνειον ἁπλῶς μὲν ἐδέξω,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 96.1.4",
+      "text": "αὐτοὶ δ’ ἐξέπιον τοῦτο τεῷ στόματι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 97.1.1",
+      "text": "Οὐ μόνον ἐς Πέρσας ἀνέβη Ξενοφῶν διὰ Κῦρον,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 97.1.2",
+      "text": "ἀλλ’ ἄνοδον ζητῶν, ἐς Διὸς ἥτις ἄγοι,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 97.1.3",
+      "text": "παιδείης παρ’ ἑῆς, Ἑλληνικὰ πράγματα δείξας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 97.1.4",
+      "text": "ὡς καλὸν ἡ σοφίη μνήσατο Σωκράτεος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 98.1.1",
+      "text": "Εἰ καὶ σέ, Ξενοφῶν, Κραναοῦ Κέκροπός τε πολῖται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 98.1.2",
+      "text": "φεύγειν κατέγνων τοῦ φίλου χάριν Κύρου,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 98.1.3",
+      "text": "ἀλλὰ Κόρινθος ἔδεκτο φιλόξενος, ᾗ σὺ φιληδῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 98.1.4",
+      "text": "(οὕτως ἀρέσκῃ) κεῖθι καὶ μένειν ἔγνως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 101.1.1",
+      "text": "Ἀλλ’ εἰ μὴ Σπεύσιππον ἐμάνθανον ὧδε θανεῖσθαι,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 101.1.2",
+      "text": "οὐκ ἂν ἔπεισέ μέ τις τόδε λέξαι,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 101.1.3",
+      "text": "ὡς ἦν οὐχὶ Πλάτωνι πρὸς αἵματος· οὐ γὰρ ἀθυμῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 101.1.4",
+      "text": "κάτθανεν ἂν διά τι σφόδρα μικρόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 102.1.1",
+      "text": "Χαλκῇ προσκόψας λεκάνῃ ποτὲ καὶ τὸ μέτωπον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 102.1.2",
+      "text": "πλήξας ἴαχεν „Ὤ“ σύντονον, εἶτ’ ἔθανεν,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 102.1.3",
+      "text": "ὁ πάντα παντὶ Ξενοκράτης ἀνὴρ γεγώς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 104.1.1",
+      "text": "Ἀρκεσίλαε, τί μοι, τί τοσοῦτον ἄκρητον ἀφειδῶς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 104.1.2",
+      "text": "ἔσπασας, ὥστε φρενῶν ἐκτὸς ὄλισθες ἑῶν;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 104.1.3",
+      "text": "οἰκτείρω δ’ οὐ τόσσον, ἐπεὶ θάνες, ἀλλ’ ὅτι Μούσας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 104.1.4",
+      "text": "ὕβρισας οὐ μετρίῃ χρησάμενος κύλικι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 105.1.1",
+      "text": "Καὶ σέο, Λακύδη, φάτιν ἔκλυον, ὡς ἄρ’ ἄκαιρος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 105.1.2",
+      "text": "Βάκχος ἑλὼν Ἀίδην ποσσὶν ἔσυρέ ς’ ἄκροις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 105.1.3",
+      "text": "ἦ σαφὲς ἦν· Διόνυσος ὅταν πολὺς ἐς δέμας ἔλθῃ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 105.1.4",
+      "text": "λῦσε μέλη· διὸ δὴ μήτι Λυαῖος ἔφυ;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 106.1.1",
+      "text": "„Χαίρετε καὶ μέμνησθε τὰ δόγματα“ τοῦτ’ Ἐπίκουρος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 106.1.2",
+      "text": "ὕστατον εἶπε φίλοις οἷσιν ἀποφθίμενος·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 106.1.3",
+      "text": "θερμὴν ἐς πύελον γὰρ ἐσήλυθε καὶ τὸν ἄκρητον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 106.1.4",
+      "text": "ἔσπασεν, εἶτ’ ἀίδην ψυχρὸν ἐπεσπάσατο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 107.1.1",
+      "text": "Εὐρυμέδων ποτ’ ἔμελλεν Ἀριστοτέλην ἀσεβείας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 107.1.2",
+      "text": "γράψασθαι Δηοῦς μύστιδος ὢν πρόπολος·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 107.1.3",
+      "text": "ἀλλὰ πιὼν ἀκόνιτον ὑπέκφυγε. τοῦτ’ ἀκονιτὶ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 107",
+      "text": "ἦν ἄρα νικῆσαι συκοφάσεις ἀδίκους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 108.1.1",
+      "text": "Καὶ πῶς, εἰ μὴ Φοῖβος ἀν’ Ἑλλάδα φύσε Πλάτωνα,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 108.1.2",
+      "text": "ψυχὰς ἀνθρώπων γράμμασιν ἠκέσατο;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 108.1.3",
+      "text": "καὶ γὰρ ὁ τοῦδε γεγὼς Ἀσκληπιός ἐστιν ἰητὴρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 108.1.4",
+      "text": "σώματος ὡς ψυχῆς ἀθανάτοιο Πλάτων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 109.1.1",
+      "text": "Φοῖβος ἔφυσε βροτοῖς Ἀσκληπιὸν ἠδὲ Πλάτωνα,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 109.1.2",
+      "text": "τὸν μέν, ἵνα ψυχήν, τὸν δ’, ἵνα σῶμα σάοι·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 109.1.3",
+      "text": "δαισάμενος δὲ γάμον πόλιν ἤλυθεν, ἥν ποθ’ ἑαυτῷ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 109.1.4",
+      "text": "ἔκτισε καὶ δαπέδῳ Ζηνὸς ἐνιδρύσατο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 110.1.1",
+      "text": "Οὐκ ἄρα τοῦτο μάταιον ἔπος μερόπων τινὶ λέχθη,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 110.1.2",
+      "text": "ῥήγνυσθαι σοφίης τόξον ἀνιέμενον·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 110.1.3",
+      "text": "δὴ γὰρ καὶ Θεόφραστος, ἕως ἐπόνει μέν, ἄπηρος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 110.1.4",
+      "text": "ἦν δέμας, εἶτ’ ἀνεθεὶς κάτθανε πηρομελής.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 111.1.1",
+      "text": "Λεπτὸς ἀνὴρ δέμας ἦν· εἰ μὴ προσέχῃς, ἀπόχρη μοι·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 111.1.2",
+      "text": "Στράτωνα τοῦτον φημί γε,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 111.1.3",
+      "text": "Λάμψακος ὅν ποτ’ ἔφυσεν· ἀεὶ δὲ νόσοισι παλαίων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 111",
+      "text": "θνῄσκει λαθὼν οὐδ’ ᾔσθετο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 112.1.1",
+      "text": "Οὐ μὰ τόν, οὐδὲ Λύκωνα παρήσομεν, ὅττι ποδαλγὴς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 112.1.2",
+      "text": "κάτθανε· θαυμάζω τοῦτο μάλιστα δ’ ἐγώ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 112.1.3",
+      "text": "τὴν οὕτως ἀίδαο μακρὴν ὁδὸν εἰ πρὶν ὁ ποσσὶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 112.1.4",
+      "text": "ἀλλοτρίοις βαδίσας ἔδραμε νυκτὶ μιῇ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 113.1.1",
+      "text": "Ἀνεῖλεν ἀσπὶς τὸν σοφὸν Δημήτριον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 113.1.2",
+      "text": "ἰὸν ἔχουσα πολὺν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 113.1.3",
+      "text": "ἄσμηκτον, οὐ στίλβουσα φῶς ἀπ’ ὀμμάτων,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 113.1.4",
+      "text": "ἀλλ’ ἀίδην μέλανα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 114.1.1",
+      "text": "Ἤθελες ἀνθρώποισι λιπεῖν φάτιν, Ἡρακλείδη,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 114.1.2",
+      "text": "ὥς ῥα θανὼν ἐγένου ζωὸς ἅπασι δράκων·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 114.1.3",
+      "text": "ἀλλὰ διεψεύσθης, σεσοφισμένε· δὴ γὰρ ὁ μὲν θὴρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 114.1.4",
+      "text": "ἦε δράκων, σὺ δὲ θήρ, οὐ σοφὸς ὢν ἑάλως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 115.1.1",
+      "text": "Τὸν βίον ἦσθα κύων, Ἀντίσθενες. —„Ὧδε πεφυκώς,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 115.1.2",
+      "text": "ὥστε δακεῖν κραδίην ῥήμασιν, οὐ στόμασιν.“ —",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 115.1.3",
+      "text": "Ἀλλ’ ἔθανες φθισικός, τάχ’ ἐρεῖ τις ἴσως. —„Τί δὲ τοῦτο;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 115",
+      "text": "πάντως εἰς ἀίδην δεῖ τιν’ ὁδηγὸν ἔχειν.“",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 116.1.1",
+      "text": "Διόγενες, ἄγε λέγε, τίς ἔλαβέ σε μόρος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 116.1.2",
+      "text": "ἐς Ἄϊδος; —„Ἔλαβέ με κυνὸς ἄγριον ὀδάξ.“",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 118.1.1",
+      "text": "Τὸν Κιτιέα Ζήνωνα θανεῖν λόγος, ὡς ὑπὸ γήρως",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 118.1.2",
+      "text": "πολλὰ καμὼν ἐλύθη μένων ἄσιτος·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 118.1.3",
+      "text": "〈οἱ δ’, ὅτι προσκόψας ποτ’ ἔφη χερὶ γῆν ἀλοήσας·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 118.1.4",
+      "text": "„Ἔρχομαι αὐτόματος. τί δὴ καλεῖς με;“〉",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 121.1.1",
+      "text": "Οὐ μόνος ἐμψύχων ἄπεχες χέρας, ἀλλὰ καὶ ἡμεῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 121.1.2",
+      "text": "τίς γάρ, ὃς ἐμψύχων ἥψατο, Πυθαγόρη;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 121.1.3",
+      "text": "ἀλλ’ ὅταν ἑψηθῇ τι καὶ ὀπτηθῇ καὶ ἁλισθῇ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 121.1.4",
+      "text": "δὴ τότε καὶ ψυχὴν μὴ ἔχον ἐσθίομεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 122.1.1",
+      "text": "Αἰαῖ, Πυθαγόρης τί τόσον κυάμους ἐσεβάσθη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 122.1.2",
+      "text": "καὶ θάνε φοιτηταῖς ἄμμιγα τοῖς ἰδίοις;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 122.1.3",
+      "text": "χωρίον ἦν κυάμων· ἵνα μὴ τούτους δὲ πατήσῃ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 122.1.4",
+      "text": "ἐξ Ἀκραγαντίνων κάτθαν’ ἐνὶ τριόδῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 123.1.1",
+      "text": "Καὶ σύ ποτ’, Ἐμπεδόκλεις, διερῇ φλογὶ σῶμα καθήρας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 123.1.2",
+      "text": "πῦρ ἀπὸ κρητήρων ἔκπιες ἀθάνατον·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 123.1.3",
+      "text": "οὐκ ἐρέω δ’, ὅτι σαυτὸν ἑκὼν βάλες ἐς ῥόον Αἴτνης,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 123",
+      "text": "ἀλλὰ λαθεῖν ἐθέλων ἔμπεσες οὐκ ἐθέλων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 124.1.1",
+      "text": "Ναὶ μὴν Ἐμπεδοκλῆα θανεῖν λόγος, ὥς ποτ’ ἀμάξης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 124.1.2",
+      "text": "ἔκπεσε καὶ μηρὸν κλάσσατο δεξιτερόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 124.1.3",
+      "text": "εἰ δὲ πυρὸς κρητῆρας ἐσήλατο καὶ πίε τὸ ζῆν,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 124.1.4",
+      "text": "πῶς ἂν ἔτ’ ἐν Μεγάροις δείκνυτο τοῦδε τάφος;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 126.1.1",
+      "text": "Τὴν ὑπόνοιαν πᾶσι μάλιστα λέγω θεραπεύειν·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 126.1.2",
+      "text": "εἰ γὰρ καὶ μὴ δρᾷς, ἀλλὰ δοκεῖς, ἀτυχεῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 126.1.3",
+      "text": "οὕτω καὶ Φιλόλαον ἀνεῖλε Κρότων ποτὲ πάτρη,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 126.1.4",
+      "text": "ὥς μιν ἔδοξε θέλειν δῶμα τύραννον ἔχειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 127.1.1",
+      "text": "Πολλάκις Ἡράκλειτον ἐθαύμασα, πῶς ποτε τὸ ζῆν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 127.1.2",
+      "text": "ὧδε διαντλήσας δύσμορος εἶτ’ ἔθανεν·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 127.1.3",
+      "text": "σῶμα γὰρ ἀρδεύουσα κακὴ νόσος ὕδατι φέγγος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 127",
+      "text": "ἔσβεσεν ἐκ βλεφάρων καὶ σκότον ἠγάγετο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 129.1.1",
+      "text": "Ἤθελες, ὦ Ζήνων, (καλὸν ἤθελες) ἄνδρα τύραννον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 129.1.2",
+      "text": "κτείνας ἐκλῦσαι δουλοσύνης Ἐλέαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 129.1.3",
+      "text": "ἀλλ’ ἐδάμης· δὴ γάρ σε λαβὼν ὁ τύραννος ἐν ὅλμῳ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 129.1.4",
+      "text": "κόψε. τί τοῦτο λέγω; σῶμα γάρ, οὐχὶ δὲ σέ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 130.1.1",
+      "text": "Καὶ σέο, Πρωταγόρη, φάτιν ἔκλυον, ὡς ἄρ’ Ἀθηνῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 130.1.2",
+      "text": "ἔκ ποτ’ ἰὼν καθ’ ὁδὸν πρέσβυς ἐὼν ἔθανες·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 130.1.3",
+      "text": "εἵλετο γάρ σε φυγεῖν Κέκροπος πόλις· ἀλλὰ σὺ μέν που",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 130.1.4",
+      "text": "Παλλάδος ἄστυ φύγες, Πλουτέα δ’ οὐκ ἔφυγες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 133.1.1",
+      "text": "Πτίσσετε, Νικοκρέων, ἔτι καὶ μάλα, θύλακός ἐστι·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 133.1.2",
+      "text": "πτίσσετ’, Ἀνάξαρχος δ’ ἐν Διός ἐστι πάλαι·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 133.1.3",
+      "text": "καὶ σὲ διαστείλασα γνάφοις ὀλίγον τάδε λέξει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 133.1.4",
+      "text": "ῥήματα Φερσεφόνη· „Ἔρρε, μυλωθρὲ κακέ.“",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 620.1.1",
+      "text": "Μήποτε λυπήσῃ σε τὸ μή σε τυχεῖν τινος, ἀλλὰ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 620.1.2",
+      "text": "τέρπεο πᾶσιν ὁμῶς, οἷσι δίδωσι θεός·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 620.1.3",
+      "text": "καὶ γὰρ ἀθυμήσας ὁ σοφὸς Περίανδρος ἀπέσβη,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 620",
+      "text": "οὕνεκεν οὐκ ἔτυχεν πρήξιος, ἧς ἔθελεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 706.1.1",
+      "text": "Ἰλιγγίασε Βάκχον ἐκπιὼν χανδὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 706.1.2",
+      "text": "Χρύσιππος, οὐδ’ ἐφείσατο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 706.1.3",
+      "text": "οὐ τῆς στοᾶς, οὐχ ἧς πάτρας, οὐ τῆς ψυχῆς,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 706.1.4",
+      "text": "ἀλλ’ ἦλθε δῶμ’ ἐς Ἀίδεω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 744.1.1",
+      "text": "Ἐν Μέμφει λόγος ἐστὶ προμαθεῖν τὴν ἰδίην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 744.1.2",
+      "text": "Εὔδοξόν ποτε μοῖραν παρὰ τοῦ καλλίκερω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 744.1.3",
+      "text": "ταύρου· κοὐδὲν ἔλεξεν. βοῒ γὰρ πόθεν λόγος;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 744.1.4",
+      "text": "φύσις οὐκ ἔδωκε μόσχῳ λάλον Ἄπιδι στόμα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 744.5.1",
+      "text": "παρὰ δ’ αὐτὸν λέχριος στὰς ἐλιχμήσατο στολὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 744.5.2",
+      "text": "προφανῶς τοῦτο διδάσκων· „Ἀποδύσῃ βιοτὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 744.5.3",
+      "text": "ὅσον οὔπω.“ διὸ καί οἱ ταχέως ἦλθε μόρος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 744",
+      "text": "δεκάκις πέντε τε καὶ τρεῖς ἐσιδόντι Πλειάδας.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "rjo-aa",
+      "title": {
+        "english": "Lives and Opinions of Eminent Philosophers",
+        "ancient_greek": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων"
+      },
+      "url_slug": "diogenes-of-laertia-lives-opinions-rjo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-laertia/lives-opinions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-opinions-rjo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-opinions-rjo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-opinions-rjo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-opinions-rjo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-opinions.epub"
+      }
+    },
+    {
+      "eul_wid": "rjo-aaa",
+      "title": {
+        "english": "Lives and Opinions: Book I (Seven Sages)",
+        "ancient_greek": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Αʹ"
+      },
+      "url_slug": "diogenes-of-laertia-lives-seven-sages-rjo-aaa",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-laertia/lives-seven-sages",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-seven-sages-rjo-aaa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-seven-sages-rjo-aaa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-seven-sages-rjo-aaa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-seven-sages-rjo-aaa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-seven-sages.epub"
+      }
+    },
+    {
+      "eul_wid": "rjo-aab",
+      "title": {
+        "english": "Lives and Opinions: Book II (Socratics)",
+        "ancient_greek": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Βʹ"
+      },
+      "url_slug": "diogenes-of-laertia-lives-socratics-rjo-aab",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-laertia/lives-socratics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-socratics-rjo-aab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-socratics-rjo-aab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-socratics-rjo-aab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-socratics-rjo-aab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-socratics.epub"
+      }
+    },
+    {
+      "eul_wid": "rjo-aac",
+      "title": {
+        "english": "Lives and Opinions: Book III (Plato)",
+        "ancient_greek": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Γʹ"
+      },
+      "url_slug": "diogenes-of-laertia-lives-plato-rjo-aac",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-laertia/lives-plato",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-plato-rjo-aac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-plato-rjo-aac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-plato-rjo-aac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-plato-rjo-aac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-plato.epub"
+      }
+    },
+    {
+      "eul_wid": "rjo-aad",
+      "title": {
+        "english": "Lives and Opinions: Book IV (Academy)",
+        "ancient_greek": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Δʹ"
+      },
+      "url_slug": "diogenes-of-laertia-lives-academy-rjo-aad",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-laertia/lives-academy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-academy-rjo-aad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-academy-rjo-aad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-academy-rjo-aad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-academy-rjo-aad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-academy.epub"
+      }
+    },
+    {
+      "eul_wid": "rjo-aai",
+      "title": {
+        "english": "Lives and Opinions: Book IX (Atomists and Sceptics)",
+        "ancient_greek": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Θʹ"
+      },
+      "url_slug": "diogenes-of-laertia-lives-atomists-sceptics-rjo-aai",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-laertia/lives-atomists-sceptics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-atomists-sceptics-rjo-aai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-atomists-sceptics-rjo-aai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-atomists-sceptics-rjo-aai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-atomists-sceptics-rjo-aai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-atomists-sceptics.epub"
+      }
+    },
+    {
+      "eul_wid": "rjo-aae",
+      "title": {
+        "english": "Lives and Opinions: Book V (Peripatetics)",
+        "ancient_greek": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Εʹ"
+      },
+      "url_slug": "diogenes-of-laertia-lives-peripatetics-rjo-aae",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-laertia/lives-peripatetics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-peripatetics-rjo-aae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-peripatetics-rjo-aae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-peripatetics-rjo-aae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-peripatetics-rjo-aae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-peripatetics.epub"
+      }
+    },
+    {
+      "eul_wid": "rjo-aaf",
+      "title": {
+        "english": "Lives and Opinions: Book VI (Cynics)",
+        "ancient_greek": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, ΣΤʹ"
+      },
+      "url_slug": "diogenes-of-laertia-lives-cynics-rjo-aaf",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-laertia/lives-cynics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-cynics-rjo-aaf.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-cynics-rjo-aaf.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-cynics-rjo-aaf.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-cynics-rjo-aaf.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-cynics.epub"
+      }
+    },
+    {
+      "eul_wid": "rjo-ag",
+      "title": {
+        "english": "Lives and Opinions: Book VII (The Stoics)",
+        "ancient_greek": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Ζ′"
+      },
+      "url_slug": "diogenes-of-laertia-lives-stoics-rjo-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-laertia/lives-stoics-deprecated",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-stoics-rjo-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-stoics-rjo-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-stoics-rjo-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-stoics-rjo-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-stoics-deprecated.epub"
+      }
+    },
+    {
+      "eul_wid": "rjo-aag",
+      "title": {
+        "english": "Lives and Opinions: Book VII (The Stoics)",
+        "ancient_greek": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Ζ′"
+      },
+      "url_slug": "diogenes-of-laertia-lives-stoics-rjo-aag",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-laertia/lives-stoics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-stoics-rjo-aag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-stoics-rjo-aag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-stoics-rjo-aag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-stoics-rjo-aag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-stoics.epub"
+      }
+    },
+    {
+      "eul_wid": "rjo-aah",
+      "title": {
+        "english": "Lives and Opinions: Book VIII (Pythagoreans)",
+        "ancient_greek": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Ηʹ"
+      },
+      "url_slug": "diogenes-of-laertia-lives-pythagoreans-rjo-aah",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-laertia/lives-pythagoreans",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-pythagoreans-rjo-aah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-pythagoreans-rjo-aah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-pythagoreans-rjo-aah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-pythagoreans-rjo-aah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-pythagoreans.epub"
+      }
+    },
+    {
+      "eul_wid": "rjo-aaj",
+      "title": {
+        "english": "Lives and Opinions: Book X (Epicurus)",
+        "ancient_greek": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Ιʹ"
+      },
+      "url_slug": "diogenes-of-laertia-lives-epicurus-rjo-aaj",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-laertia/lives-epicurus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-epicurus-rjo-aaj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-epicurus-rjo-aaj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-epicurus-rjo-aaj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-epicurus-rjo-aaj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-epicurus.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "iru-ad",
+      "title": {
+        "english": "Introduction to Aratus,-Interpretation",
+        "ancient_greek": "Περὶ ἐξηγήσεως"
+      },
+      "url_slug": "aratus-lives-introduction-ad-iru-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/introduction-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ad-iru-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ad-iru-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ad-iru-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ad-iru-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/introduction-ad.epub"
+      }
+    },
+    {
+      "eul_wid": "nxe-ab",
+      "title": {
+        "english": "Letters of Apollonius",
+        "ancient_greek": "Ἐπιστολαὶ Ἀπολλωνίου"
+      },
+      "url_slug": "apollonius-of-tyana-letters-nxe-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollonius-of-tyana/letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-letters-nxe-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-letters-nxe-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-letters-nxe-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-letters-nxe-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana/letters.epub"
+      }
+    },
+    {
+      "eul_wid": "iru-aj",
+      "title": {
+        "english": "Life of Aratus",
+        "ancient_greek": "Βίος Ἀράτου"
+      },
+      "url_slug": "aratus-lives-life-aj-iru-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/life-aj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-aj-iru-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-aj-iru-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-aj-iru-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-aj-iru-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/life-aj.epub"
+      }
+    },
+    {
+      "eul_wid": "tuq-aa",
+      "title": {
+        "english": "Life of Marcian",
+        "ancient_greek": "Βίος Μαρκιανοῦ"
+      },
+      "url_slug": "aristotle-lives-marcian-tuq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle-lives/marcian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives-marcian-tuq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives-marcian-tuq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives-marcian-tuq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives-marcian-tuq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives/marcian.epub"
+      }
+    },
+    {
+      "eul_wid": "uwi-aa",
+      "title": {
+        "english": "Life of Saint Hypatius",
+        "ancient_greek": "Βίος τοῦ Ἁγίου Ὑπατίου"
+      },
+      "url_slug": "callinicus-rufinianus-life-hypatius-uwi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/callinicus-rufinianus/life-hypatius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callinicus-rufinianus-life-hypatius-uwi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callinicus-rufinianus-life-hypatius-uwi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callinicus-rufinianus-life-hypatius-uwi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callinicus-rufinianus-life-hypatius-uwi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callinicus-rufinianus/life-hypatius.epub"
+      }
+    },
+    {
+      "eul_wid": "jho-af",
+      "title": {
+        "english": "Life of Suidas",
+        "ancient_greek": "Βίος Σουίδα"
+      },
+      "url_slug": "homer-life-anonymous-suidas-jho-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer-life-anonymous/suidas",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-suidas-jho-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-suidas-jho-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-suidas-jho-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-suidas-jho-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/suidas.epub"
+      }
+    },
+    {
+      "eul_wid": "qvi-ab",
+      "title": {
+        "english": "Life of Tzetzes",
+        "ancient_greek": "Βίος Τζέτζου"
+      },
+      "url_slug": "oppian-lives-life-of-tzetzes-qvi-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/oppian-lives/life-of-tzetzes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-lives-life-of-tzetzes-qvi-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-lives-life-of-tzetzes-qvi-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-lives-life-of-tzetzes-qvi-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-lives-life-of-tzetzes-qvi-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-lives/life-of-tzetzes.epub"
+      }
+    },
+    {
+      "eul_wid": "jho-al",
+      "title": {
+        "english": "Sixth Life",
+        "ancient_greek": "Ἕκτος Βίος"
+      },
+      "url_slug": "homer-life-anonymous-sixth-life-jho-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer-life-anonymous/sixth-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-sixth-life-jho-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-sixth-life-jho-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-sixth-life-jho-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-sixth-life-jho-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/sixth-life.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/diogenes-of-laertia/epigrams",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-epigrams-rjo-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-epigrams-rjo-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-epigrams-rjo-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-epigrams-rjo-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/epigrams.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

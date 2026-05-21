@@ -1,0 +1,219 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "myo-aa",
+  "eul_aid": "myo",
+  "author_slug": "teucer-of-cyzicus",
+  "work_slug": "greek-toponymy",
+  "url_slug": "teucer-of-cyzicus-greek-toponymy-myo-aa",
+  "author": {
+    "english": "Teucer of Cyzicus",
+    "ancient_greek": "Τεῦκρος ὁ Κυζικηνός"
+  },
+  "title": {
+    "english": "Fragments on Greek Toponymy",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ἑλληνικῆς Τοπωνυμίας"
+  },
+  "seo": {
+    "browser_title": "Ancient Fragments of Teucer of Cyzicus on Eulogikon",
+    "meta_title": "The Fragments on Greek Toponymy by Teucer in Greek",
+    "meta_description": "Teucer of Cyzicus examines the etymologies and historical origins of Greek place names in these Hellenistic Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Greek Toponymy</strong> by Teucer of Cyzicus is a lost work known only through a handful of brief quotations preserved in later lexicons. Its title is a modern descriptive label for material transmitted primarily by the 6th-century CE geographical lexicon <strong>Ethnica</strong> of Stephanus of Byzantium. The extant fragments, which also appear in the Byzantine etymological compilation known as the <strong>Etymologicum Magnum</strong>, provide etymological and mythological explanations for specific Greek place names. These entries typically offer an <strong>aition</strong>, or foundational story, linking a location&#x27;s name to a legendary event. For instance, one fragment explains the name of the Epirote city Buthrotum by recounting how the Trojan seer Helenus, upon sacrificing a bull during his arrival in Epirus, saw the wounded animal flee, swim across a gulf, and die upon reaching the opposite shore; interpreting this as a divine sign, Helenus founded a city there named &quot;Ox-strike&quot; from the event. Another explains a spring in Euboea named Bebaia, or &quot;Steadfast,&quot; as the only water source that did not fail when others on the island dried up. The work exemplifies the Hellenistic and Roman tradition of onomastic and periegetic scholarship, focusing on mythological etiology and the preservation of local legendary traditions. Its significance lies in its utility as a source for later compilers, ensuring the survival of these specific toponymic explanations within the Byzantine scholarly tradition. The original work’s full scope, structure, and date remain unknown.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1a",
+      "text": "Etym. M.: Βουτρωτὸς ἢ Βουθρωτὸς, πόλις τῆς Ἠπείρου, ὥς φησι Τεῦκρος ὁ Κυζικηνὸς, ὅτι Ἑλένου ἐκ τῆς πατρίδος εἰς τὴν Ἤπειρον παραγενομένου, θύοντος δὲ ἐπιβατήρια, ἡ βοῦς οὐ καιρίαν λαβοῦσα τομὴν, φεύγει, καὶ κόλπον τινὰ τῆς Ἠπείρου διανηξαμένη, εἰς γῆν ἐξέρχεται, καὶ καταπεσοῦσα ἀπέθανεν. Ὁ δὲ Ἕλενος, συμβόλῳ θείῳ χρησάμενος, κτίζει πόλιν, καὶ ἀπὸ τοῦ συμβάντος Βουτρωτὸν αὐτὴν ὠνόμασε. Stephan.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1b",
+      "text": "Byz.: Βουθρωτὸς, χερρόνησος περὶ Κέρκυραν. Ἔστι καὶ πόλις. Ἐκλήθη δ’ οἱ μέν φασιν ἀπὸ τοῦ οἰκιστοῦ, οἱ δὲ μυθεύονται, ὅτι Ἑλένῳ ἐκ Τροίας πλέοντι ἐς ἑσπέρην, θύσαντι ἀποβατήρια ἐν Ἠπείρῳ, τὸ θῦμα ἡ βοῦς ἀποδράσασα ἐκ τοῦ βουπλῆγος ᾤχετο φεύγουσα διὰ τὸ μεταξὺ πόντου· καὶ εἰς τὸν χέρσον ἐμβᾶσα (καὶ γὰρ τρῶμα ἐν τῇ δειρῇ εἶχεν) αὐτοῦ ἤριπε καὶ ἔθανε· καὶ κλῃδόνι ὁ Ἕλενος χρῆται, ἵνα ἔθηκε Βουθρωτὸν, ὥς φησι Τεῦκρος ὁ Κυζικηνός. Etym.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "M.: Βεβαία, πηγὴ οὕτω καλουμένη ἐν Εὐβοίᾳ. Ἐτυμολογεῖ δὲ Τεῦκρος, ὅτι φησὶ τῶν ἐν τῇ νήσῳ ποτὲ ὑδάτων ἐκλιπόντων καὶ ποταμῶν καὶ πηγῶν, μόνη αὕτη ὁμοίως διέμεινε πολύυδρος. Παρὰ τὸ βέβαιον οὖν καὶ ἀνελλιπὲς, Βεβαία. ΟΡΙΣΜΟΙ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 (t)",
+      "text": "Athenaeus X: Φέρεται δὲ τοῦτο καὶ ἐν τοῖς Τεύκρου Ὁρισμοῖς· Ζῶον ἄπουν ἀνάκανθον ἀνόστεον ὀστρακόνωτον ὄμματά τ’ ἐκκύπτοντα προμήκεα κεἰσκύπτοντα.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "biq-aa",
+      "title": {
+        "english": "Egyptian Geographical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aristagoras-of-miletus-egyptian-geography-biq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristagoras-of-miletus/egyptian-geography",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-of-miletus-egyptian-geography-biq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-of-miletus-egyptian-geography-biq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-of-miletus-egyptian-geography-biq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-of-miletus-egyptian-geography-biq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-of-miletus/egyptian-geography.epub"
+      }
+    },
+    {
+      "eul_wid": "njs-aa",
+      "title": {
+        "english": "Fragments on Italian Myths",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἰταλικῶν Μύθων"
+      },
+      "url_slug": "menelaus-the-historian-italian-myths-njs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/menelaus-the-historian/italian-myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menelaus-the-historian-italian-myths-njs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menelaus-the-historian-italian-myths-njs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menelaus-the-historian-italian-myths-njs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menelaus-the-historian-italian-myths-njs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menelaus-the-historian/italian-myths.epub"
+      }
+    },
+    {
+      "eul_wid": "gxq-aa",
+      "title": {
+        "english": "Fragments on Macedonian History",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Μακεδονικῆς Ἱστορίας"
+      },
+      "url_slug": "aretades-of-cnidus-macedonian-history-gxq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aretades-of-cnidus/macedonian-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretades-of-cnidus-macedonian-history-gxq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretades-of-cnidus-macedonian-history-gxq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretades-of-cnidus-macedonian-history-gxq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretades-of-cnidus-macedonian-history-gxq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretades-of-cnidus/macedonian-history.epub"
+      }
+    },
+    {
+      "eul_wid": "hwq-ab",
+      "title": {
+        "english": "Geographical Fragments on Sicily",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σικελίας"
+      },
+      "url_slug": "philostephanus-of-cyrene-sicily-hwq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/philostephanus-of-cyrene/sicily",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene-sicily-hwq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene-sicily-hwq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene-sicily-hwq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene-sicily-hwq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene/sicily.epub"
+      }
+    },
+    {
+      "eul_wid": "lbs-ab",
+      "title": {
+        "english": "Historical Excerpts and Anecdotes",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "heraclides-lembus-historical-excerpts-lbs-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/heraclides-lembus/historical-excerpts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-lembus-historical-excerpts-lbs-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-lembus-historical-excerpts-lbs-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-lembus-historical-excerpts-lbs-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-lembus-historical-excerpts-lbs-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-lembus/historical-excerpts.epub"
+      }
+    },
+    {
+      "eul_wid": "ecy-ad",
+      "title": {
+        "english": "London Fragments",
+        "ancient_greek": "Λονδινὰ Ἀποσπάσματα"
+      },
+      "url_slug": "hellenica-anon-london-fragments-ad-ecy-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/hellenica-anon/london-fragments-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-london-fragments-ad-ecy-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-london-fragments-ad-ecy-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-london-fragments-ad-ecy-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-london-fragments-ad-ecy-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon/london-fragments-ad.epub"
+      }
+    },
+    {
+      "eul_wid": "fza-aa",
+      "title": {
+        "english": "On the Seasons of Samos",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aethlius-of-samos-seasons-fza-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aethlius-of-samos/seasons",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aethlius-of-samos-seasons-fza-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aethlius-of-samos-seasons-fza-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aethlius-of-samos-seasons-fza-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aethlius-of-samos-seasons-fza-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aethlius-of-samos/seasons.epub"
+      }
+    },
+    {
+      "eul_wid": "ple-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "phlegon-of-tralles-testimonies-ple-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/phlegon-of-tralles/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles-testimonies-ple-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles-testimonies-ple-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles-testimonies-ple-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles-testimonies-ple-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles/testimonies.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/teucer-of-cyzicus/greek-toponymy",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teucer-of-cyzicus-greek-toponymy-myo-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teucer-of-cyzicus-greek-toponymy-myo-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teucer-of-cyzicus-greek-toponymy-myo-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teucer-of-cyzicus-greek-toponymy-myo-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teucer-of-cyzicus/greek-toponymy.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,250 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "dxo-ab",
+  "eul_aid": "dxo",
+  "author_slug": "cantharus-the-comic-poet",
+  "work_slug": "athenian-woman-and-the-chorus",
+  "url_slug": "cantharus-the-comic-poet-athenian-woman-and-the-chorus-dxo-ab",
+  "author": {
+    "english": "Cantharus the Comic Poet",
+    "ancient_greek": "Κάνθαρος ὁ Κωμικός"
+  },
+  "title": {
+    "english": "Athenian Woman and the Chorus",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "The Athenian Woman and the Chorus by Cantharus on Eulogikon",
+    "meta_title": "The Athenian Woman and the Chorus by Cantharus in Greek",
+    "meta_description": "Fragments of the comedy The Athenian Woman and the Chorus by Cantharus, a 5th century BCE poet. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">_The Athenian Woman and the Chorus_ is a lost Old Comedy by the late-5th century BCE Athenian poet Cantharus, a contemporary and rival of Aristophanes. The work survives only in fragmentary form, indicated by the descriptor &quot;Extracts,&quot; with its plot unrecoverable. The title, however, suggests a conventional focus for the genre, likely exploring themes such as gender roles and the behavior of women in Athenian society, political satire of contemporary figures or policies, and the metatheatrical function of the chorus as both character and civic commentator. The play is preserved solely through six fragmentary passages, likely cited by later grammarians or anthologists such as Athenaeus for their linguistic or cultural interest, and these are cataloged in standard scholarly collections. Cantharus notably defeated Aristophanes&#x27; _The Wasps_ to win first prize at the City Dionysia in 422 BCE. The work&#x27;s primary significance lies in its contribution to understanding the competitive landscape of Old Comedy beyond its major surviving figures; this victory demonstrates the diversity of popular comic styles in Classical Athens. The fragments remain chiefly of interest to specialists engaged in reconstructing the history of lost Athenian drama.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Κιθαρῳδὸν ἐξηγείρατ’ Ἀράβιον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "χορόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Γυναῖκ’ Ἀθηναίαν καλήν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τε κἀγαθήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "Κυδωνίοις μήλοισιν εἰς τὰ τιτθία.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "[spk_β]Οὐκοῦν ἀκρατισώμεθ’ αὐτοῦ. Β. μηδαμῶς· Ἰσθμοῖ γὰρ ἀριστήσομεν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "dxo-aa",
+      "title": {
+        "english": "Fragments on Athenian Women",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀθηναίων Γυναικῶν"
+      },
+      "url_slug": "cantharus-the-comic-poet-athenian-women-dxo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cantharus-the-comic-poet/athenian-women",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cantharus-the-comic-poet-athenian-women-dxo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cantharus-the-comic-poet-athenian-women-dxo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cantharus-the-comic-poet-athenian-women-dxo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cantharus-the-comic-poet-athenian-women-dxo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cantharus-the-comic-poet/athenian-women.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "hps-ak",
+      "title": {
+        "english": "Colax, Fragments Known Elsewhere",
+        "ancient_greek": "Ἀποσπάσματα Κόλακος"
+      },
+      "url_slug": "menander-of-athens-colax-fragments-hps-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/colax-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-colax-fragments-hps-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-colax-fragments-hps-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-colax-fragments-hps-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-colax-fragments-hps-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "lpe-ad",
+      "title": {
+        "english": "Comic Fragments on Aristomedes",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀριστομέδους Κωμικά"
+      },
+      "url_slug": "philemon-syracusius-comic-fragments-lpe-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/philemon-syracusius/comic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-comic-fragments-lpe-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-comic-fragments-lpe-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-comic-fragments-lpe-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-comic-fragments-lpe-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/comic-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "hvw-ab",
+      "title": {
+        "english": "Cook's Art and Death",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "anaxippus-the-comic-poet-cooks-art-and-death-hvw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/anaxippus-the-comic-poet/cooks-art-and-death",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxippus-the-comic-poet-cooks-art-and-death-hvw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxippus-the-comic-poet-cooks-art-and-death-hvw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxippus-the-comic-poet-cooks-art-and-death-hvw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxippus-the-comic-poet-cooks-art-and-death-hvw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxippus-the-comic-poet/cooks-art-and-death.epub"
+      }
+    },
+    {
+      "eul_wid": "fkk-ab",
+      "title": {
+        "english": "Fragments on Alexander's Feast",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Ἀλεξάνδρου Συμποσίου"
+      },
+      "url_slug": "ephippus-of-athens-alexander-feast-ab-fkk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/ephippus-of-athens/alexander-feast-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephippus-of-athens-alexander-feast-ab-fkk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephippus-of-athens-alexander-feast-ab-fkk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephippus-of-athens-alexander-feast-ab-fkk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephippus-of-athens-alexander-feast-ab-fkk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephippus-of-athens/alexander-feast-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-bb",
+      "title": {
+        "english": "Fragments on Poverty and Conduct",
+        "ancient_greek": "Ἀποσπάσματα περὶ Πενίας καὶ Ἀγωγῆς"
+      },
+      "url_slug": "menander-of-athens-poverty-conduct-hps-bb",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/poverty-conduct",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-poverty-conduct-hps-bb.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-poverty-conduct-hps-bb.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-poverty-conduct-hps-bb.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-poverty-conduct-hps-bb.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/poverty-conduct.epub"
+      }
+    },
+    {
+      "eul_wid": "ivq-ac",
+      "title": {
+        "english": "Fragments on Servants and Masters",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δούλων καὶ Δεσποτῶν"
+      },
+      "url_slug": "alexis-the-comic-poet-servants-masters-ivq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexis-the-comic-poet/servants-masters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-the-comic-poet-servants-masters-ivq-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-the-comic-poet-servants-masters-ivq-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-the-comic-poet-servants-masters-ivq-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-the-comic-poet-servants-masters-ivq-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-the-comic-poet/servants-masters.epub"
+      }
+    },
+    {
+      "eul_wid": "daw-am",
+      "title": {
+        "english": "Knights",
+        "ancient_greek": "Ἱππῆς"
+      },
+      "url_slug": "aristophanes-of-athens-knights-daw-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/knights",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-knights-daw-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-knights-daw-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-knights-daw-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-knights-daw-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/knights.epub"
+      }
+    },
+    {
+      "eul_wid": "jdi-aa",
+      "title": {
+        "english": "On Parasites and Drinking",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "diodorus-of-sinope-parasites-drinking-jdi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/diodorus-of-sinope/parasites-drinking",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope-parasites-drinking-jdi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope-parasites-drinking-jdi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope-parasites-drinking-jdi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope-parasites-drinking-jdi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope/parasites-drinking.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/cantharus-the-comic-poet/athenian-woman-and-the-chorus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cantharus-the-comic-poet-athenian-woman-and-the-chorus-dxo-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cantharus-the-comic-poet-athenian-woman-and-the-chorus-dxo-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cantharus-the-comic-poet-athenian-woman-and-the-chorus-dxo-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cantharus-the-comic-poet-athenian-woman-and-the-chorus-dxo-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cantharus-the-comic-poet/athenian-woman-and-the-chorus.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

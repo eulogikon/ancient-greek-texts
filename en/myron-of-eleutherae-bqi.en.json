@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "bqi",
+  "auth_slug": "myron-of-eleutherae",
+  "name": {
+    "english": "Myron of Eleutherae",
+    "ancient_greek": "Μύρων ὁ Ἐλευθερεύς"
+  },
+  "seo_h1": "Helots and Messenian History in Myron of Eleutherae",
+  "seo": {
+    "browser_title": "Myron of Eleutherae on Eulogikon Greek Archive Collection",
+    "meta_title": "Myron of Eleutherae Ancient Greek Historical Works",
+    "meta_description": "Myron of Eleutherae, a 5th century BCE Attic historian. Surviving works preserved in fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Myron of Eleutherae was a Greek historian of the 5th century BCE, originating from the border town of Eleutherae. No further biographical details survive.</p>\n<p class=\"research-text\">His sole known work is the Messeniaka, a history of the Messenian Wars. The text is lost, preserved only in fragments and later references. Myron is significant as an early source for the conflicts between Sparta and Messenia.</p>\n<p class=\"research-text\">His Messeniaka was consulted by later historians like Pausanias, who cites him for specific details while criticizing his inclusion of improbable narratives. Through these citations, Myron contributed to the ancient historical tradition surrounding the Spartan state’s formative wars.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "bqi-aa",
+      "title": {
+        "english": "Fragments on Spartan Helots",
+        "ancient_greek": "Ἀποσπάσματα περὶ Εἱλώτων Σπαρτιατῶν"
+      },
+      "url_slug": "myron-of-eleutherae-spartan-helots-bqi-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/myron-of-eleutherae/spartan-helots",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myron-of-eleutherae-spartan-helots-bqi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myron-of-eleutherae-spartan-helots-bqi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myron-of-eleutherae-spartan-helots-bqi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myron-of-eleutherae-spartan-helots-bqi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myron-of-eleutherae/spartan-helots.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/myron-of-eleutherae",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/myron-of-eleutherae-bqi.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/myron-of-eleutherae-bqi.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/myron-of-eleutherae-bqi.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/myron-of-eleutherae-bqi.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

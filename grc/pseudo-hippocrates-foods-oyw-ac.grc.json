@@ -1,0 +1,300 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "oyw-ac",
+  "eul_aid": "oyw",
+  "author_slug": "pseudo-hippocrates",
+  "work_slug": "foods",
+  "url_slug": "pseudo-hippocrates-foods-oyw-ac",
+  "author": {
+    "english": "Pseudo-Hippocrates",
+    "ancient_greek": "Ψευδο-Ἱπποκράτης"
+  },
+  "title": {
+    "english": "On Foods",
+    "ancient_greek": "Περὶ διαφόρων καὶ παντοίων τροφῶν"
+  },
+  "seo": {
+    "browser_title": "Ancient On Foods by Pseudo-Hippocrates on Eulogikon",
+    "meta_title": "Classical On Foods by Pseudo-Hippocrates in Ancient Greek",
+    "meta_description": "This Pseudo-Hippocratic treatise examines the nutritional properties and digestibility of various foods, meats, and Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">On Foods is a pseudepigraphical treatise within the Hippocratic Corpus, traditionally but incorrectly attributed to Hippocrates. This concise work is systematically organized into four sections and serves as a practical dietary manual. It catalogs a wide range of foodstuffs—including grains, meats, vegetables, and fruits—and classifies them according to their perceived effects on the human body. Each item is analyzed through the lens of humoral theory, with descriptions of its qualitative properties, such as whether it is moistening or drying, cooling or heating. The underlying principle is that health depends on a balance of the four bodily humors and that diet is a primary therapeutic tool for maintaining or restoring this equilibrium.</p>\n<p class=\"research-text\">The treatise survives complete within the Greek manuscript tradition of the Hippocratic Corpus. The critical edition by Émile Littré in his <strong>Oeuvres complètes d&#x27;Hippocrate</strong> remains the standard scholarly text. Analysis of its style and doctrinal content confirms its status as a non-Hippocratic work from the classical period. On Foods exemplifies the central Hippocratic emphasis on regimen and preventive medicine. Its systematic dietary principles were later expanded and commented upon by Galen, ensuring the treatise&#x27;s enduring influence on nutritional theory throughout medieval Islamic and European medicine.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "479 (9)",
+      "text": "Ιπποκράτους Περὶ διαφόρων καὶ παντοίων τροφῶ ν . 〈Περὶ ζῴων 〉 . Πέρδικές εἰσι δύσπεπτοι ξηροί τε καὶ μελαγχολικοὶ καὶ κακοστόμαχοι. περιστεραὶ εὔπεπτοι καὶ εὐστόμαχοι· κρείττονες δέ εἰσιν αἱ λευκαὶ τῶν μαύρων καὶ οἱ νεοττοὶ τούτων καὶ μάλιστα αἱ βρακάται· τρυφερόσαρκοι γὰρ καὶ ὑγρότεραι τῶν ἄλλων καὶ εὐχυμότεραι. κίχλαι καλαί εἰσι καὶ καλότροφοι καὶ εὔπεπτοι καὶ ξηρότεραι τῶν περιστερῶν καὶ στυφοσωμότεραι τῶν περδίκων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "480",
+      "text": "τρυγόνες εἰσὶ σκληρότεραι τῶν περιστερῶν καὶ μελαγχολικαί. φάσσαι σκληρόσαρκοι καὶ δύσπεπτοι καὶ μελαγχολικαὶ καὶ νευρώδεις. χῆνές εἰσι βαρυστόμαχοι καὶ δύσπεπτοι ὑπὲρ πάντα τὰ ζῷα. γέρανοί εἰσιν ἰνοειδεῖς καὶ σκληροὶ καὶ μελαγχολικοί. ᾠὰ ὀρνίθων καὶ φασιανῶν κρείττονα πάντων τῶν ᾠῶν εἰσιν. χηνῶν δὲ καὶ στρουθοκαμήλων ἄχρηστα πάνυ. ὕεια κρέη θερμὰ καὶ ὑγρὰ καὶ χυμοποιά· ἁρμόττει δὲ γέρουσιν ἐσθίειν. τὰ δὲ τῶν προβάτων εὔπεπτα μέν, ὑγρὰ δὲ καὶ περιττωματικὰ καὶ θερμά· ἐπὶ ἀφορμῇ δὲ κακόχυμα. τὰ τράγου κρέη ψυχρότερα τῶν προβάτων καὶ ἐπὶ τοῖς κυνοκαύμασιν ἐσθιόμενα κρείττονα τῶν ἄλλων καὶ μᾶλλον ἀπὸ εἰκάδος πέμπτης Ἰουνίου ἕως εἰκάδος πέμπτης Αὐγούστου. βόεια κρέη μελαγχολικὰ καὶ παχὺν χυμὸν ποιοῦσιν καὶ θρεπτικά εἰσιν. λαγωοὶ δὲ καὶ δορκάδες καὶ ἄγριαι αἶγες ψυχραὶ καὶ ξηραὶ καὶ μελαγχολικαί· ἐπὶ δὲ κυνοκαύμασιν ἐσθιόμεναι εὔχρηστοι. καὶ οἱ ἔλαφοι ὁμοίως· οὗτοί εἰσι καὶ μελαγχολικοὶ καὶ δύσπεπτοι, ἀλλ’ ὅμως ὑγρότεροι καὶ τροφιμώτεροι. Περὶ λαχάνω ν . Θριδακίνη ψυχρὰ καὶ ὑγρὰ καὶ ὑπνώδης. ἴντυβον ψυχρὸν καὶ ὑγρόν. τὸ δὲ μολόχιον ψύχει καὶ καθυγραίνει. σεῦτλον τὸν μὲν στόμαχον δάκνει, ἐκφράττει δὲ τὰ καθ’ ἧπαρ καὶ σπλῆνα. κράμβη δίεφθος γαστρὸς ἐπέχει· ἡμίεφθος δὲ ἅμ’ ἐλαίῳ γαστέρα ὑπάγει. ὁ δὲ χυλὸς αὐτῆς καθαρτικός ἐστι. ποιεῖ δὲ καὶ παχὺν χυμόν· συχνῶς δὲ ἐσθιομένη γεννᾷ μελαγχολικὸν χυμὸν καὶ γάλα πληθύνει. θαλασσοκράμβη καὶ τὸ εὔζωμον διὰ τὸ ἁλμυρὸν ὑπάγει γαστέρα καὶ ὑγραίνει καὶ ψύχει· ὠφελεῖ δὲ τὰς τοῦ στομάχου φλεγμονὰς καὶ ἑλκώσεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "481",
+      "text": "βλίτον τὸ αὐτὸ ποιεῖ ὡς σέλινον. τὰ δὲ ἀκανθώδη εὐστόμαχα δίχα τῆς κινάρας· αὐτὴν δὲ διὰ τὸ κακόχυμον ἁρμόττει δίεφθον ἐσθίειν ἐλαιογάρῳ. σέλινα καὶ ἱπποσέλινα καὶ σίον καὶ σμύρνιον πάντα διουρητικά. τὸ δὲ εὔζωμον θερμὸν καὶ κινητικὸν φύσεως πρὸς μίξιν· σπέρματος γεννητικὸν κεφαλῆς τε ἐναντίον. κάρδαμον, ὤκιμον καὶ νᾶπυ θερμὰ καὶ δύσπεπτα καὶ κακόχυμα διὰ τὴν πολλὴν δριμύτητα. ἡ δὲ ἀκαλήφη λεπτομερής τε καὶ ὑπακτική. τὸ δὲ γογγύλιον στυφὸν καὶ πικρὸν καὶ εὐστόμαχον. κάππαρις εὐστόμαχος καὶ ἐκφρακτικὴ ἥπατος καὶ σπληνός· τέμνει δὲ φλέγμα καὶ χυμοὺς ἅπαντας, γαστέρα ὑπάγει· δεῖ ταῦτα ἐσθίειν δι’ ὀξυμέλιτος. ἀνδραφάξις ἤτοι τὸ χρυσολάχανον ψυχρὸς καὶ ὑγρὸς καὶ στυπτικὸς καὶ ὠφέλιμος πρὸς φλεγμονὴν στομάχου καὶ ἑλκώσεις ὡς σέλινον καὶ βλίτον. ἡ δὲ γογγύλη καὶ τὸ ῥέφανον καὶ κάρδαμον καὶ πύρεθρον· ὁ μὲν φλοῦς αὐτῶν θερμὸς καὶ ξηρός, ὁ δὲ ἀσφάραγος ὑγρός. τὸ λιποσπάραγγον καὶ ἡ βρυωνία καὶ τὰ χαμαίδαφνα θερμὰ καὶ εὐστόμαχα καὶ διουρητικὰ καὶ ὀλιγόθρεπτα. βολβοὶ στυπτικῆς δυνάμεώς εἰσι καὶ ῥυπτικῆς καὶ θρεπτικοὶ στομάχου ἀσθενοῦντος καὶ σπέρματος γεννητικοὶ καὶ φύσεως κινητικοὶ πρὸς μίξιν· ἔχουσι δέ τι καὶ φυσῶδες καὶ τρόφιμον. μικρομερῶς δὲ ἐλαιογάρῳ ἐκζεστοὶ ἐσθιόμενοι γίνονται ἄφυσοι καὶ εὔπεπτοι καὶ τρόφιμοι. οἱ δαῦκοι οἵ τε ἥμεροι καὶ ἄγριοι θερμοὶ καὶ διουρητικοὶ καὶ ἐκφρακτικοὶ νεφρῶν καὶ κύστεως· συχνῶς δὲ ἐσθιόμενοι καὶ κακοχυμοῦσι καὶ κακοστομαχοῦσι. κρόμμυα καὶ σκόροδα καὶ πράσα δριμέα καὶ θερμὰ καὶ τέμνοντα τοὺς παχεῖς χυμοὺς καὶ διουρητικά· σύνθετα δι’ ὀξάλμης μερικῶς ἐσθιόμενα εὐστόμαχα καὶ δύσπεπτα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "482",
+      "text": "τὸ δὲ σκόρδον ἐκζεστὸν λεπτύνει καὶ ἐκφράττει. ὕδνον κακόχυμον καὶ ψυχρόν. ἀμανῖται ψυχροὶ καὶ κακόχυμοι καὶ δύσπεπτοι. οἱ δὲ μυκῆται θανατώδεις. ἡ θριδακίνη ψυχρὰ καὶ ξηρὰ καὶ ὑπνώδης καὶ αἵματος γεννητικὴ καὶ τρόφιμος καὶ κοιλίας ἐφεκτική. ἔστι δὲ καὶ ῥυπτικὴ καὶ χυμοποιός. καὶ τὴν κίνησιν ποιεῖται εἰς τὸ σῶμα κατὰ τὴν τάξιν τοῦ ἀέρος· καὶ τῷ μὲν θέρει ὑγραίνει καὶ ψύχει καὶ εὐκρατώνει τὴν χολήν· τῷ δὲ φθινοπώρῳ κινεῖται πρὸς τὸν ἀέρα καὶ τῷ χειμῶνι κινεῖται διὰ παντὸς τοῦ σώματος καὶ τὰ ὑγρὰ φέρει κάτω ὡς ἐπὶ τοῦ ἀέρος καὶ τῶν ὑδάτων. ἡ δὲ τοιαύτη συχνῶς ἐσθιομένη ἀμβλύνει τὸ φῶς· χρὴ οὖν τοὺς χρωμένους αὐτῇ συχνῶς ἀφαίρεσιν ποιεῖν τῆς ὕλης πρὸ κινήσεως ἀέρος. ὁ δὲ αἰγύπτιος κύαμος ὑγρότερος καὶ περιττωματικός.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "oyw-ad",
+      "title": {
+        "english": "InterpretatiActive Stones",
+        "ancient_greek": "Ἑρμηνεία περὶ ἐνεργῶν λίθων"
+      },
+      "url_slug": "pseudo-hippocrates-interpretative-stones-oyw-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-hippocrates/interpretative-stones",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-interpretative-stones-oyw-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-interpretative-stones-oyw-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-interpretative-stones-oyw-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-interpretative-stones-oyw-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/interpretative-stones.epub"
+      }
+    },
+    {
+      "eul_wid": "oyw-ae",
+      "title": {
+        "english": "Letter to King Ptolemy",
+        "ancient_greek": "Ἐπιστολὴ πρὸς βασιλέα Πτολεμαῖον"
+      },
+      "url_slug": "pseudo-hippocrates-king-ptolemy-oyw-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-hippocrates/king-ptolemy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-king-ptolemy-oyw-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-king-ptolemy-oyw-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-king-ptolemy-oyw-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-king-ptolemy-oyw-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/king-ptolemy.epub"
+      }
+    },
+    {
+      "eul_wid": "oyw-aa",
+      "title": {
+        "english": "Letter to King Ptolemy-the Fabric of Man",
+        "ancient_greek": "Ἐπιστολὴ πρὸς βασιλέα Πτολεμαῖον περὶ κατασκευῆς"
+      },
+      "url_slug": "pseudo-hippocrates-letter-ptolemy-fabric-man-oyw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-hippocrates/letter-ptolemy-fabric-man",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-letter-ptolemy-fabric-man-oyw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-letter-ptolemy-fabric-man-oyw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-letter-ptolemy-fabric-man-oyw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-letter-ptolemy-fabric-man-oyw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/letter-ptolemy-fabric-man.epub"
+      }
+    },
+    {
+      "eul_wid": "oyw-af",
+      "title": {
+        "english": "On Seven-Month Birth",
+        "ancient_greek": "Περὶ ἑπταμηνιαίου τόκου"
+      },
+      "url_slug": "pseudo-hippocrates-seven-month-birth-oyw-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-hippocrates/seven-month-birth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-seven-month-birth-oyw-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-seven-month-birth-oyw-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-seven-month-birth-oyw-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-seven-month-birth-oyw-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/seven-month-birth.epub"
+      }
+    },
+    {
+      "eul_wid": "oyw-ab",
+      "title": {
+        "english": "On the Difference of Foods to Ptolemy",
+        "ancient_greek": "Περὶ διαφορᾶς τροφῶν πρὸς Πτολεμαῖον"
+      },
+      "url_slug": "pseudo-hippocrates-foods-difference-oyw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-hippocrates/foods-difference",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-foods-difference-oyw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-foods-difference-oyw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-foods-difference-oyw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-foods-difference-oyw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/foods-difference.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "bww-cg",
+      "title": {
+        "english": "Law",
+        "ancient_greek": "Νόμος"
+      },
+      "url_slug": "hippocrates-law-bww-cg",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/law",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-law-bww-cg.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-law-bww-cg.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-law-bww-cg.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-law-bww-cg.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/law.epub"
+      }
+    },
+    {
+      "eul_wid": "vhc-aa",
+      "title": {
+        "english": "Medical Book VIII",
+        "ancient_greek": "Ἰατρικὸν Βιβλίον Ηʹ"
+      },
+      "url_slug": "aetius-of-amida-medical-book-viii-vhc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aetius-of-amida/medical-book-viii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida-medical-book-viii-vhc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida-medical-book-viii-vhc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida-medical-book-viii-vhc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida-medical-book-viii-vhc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-viii.epub"
+      }
+    },
+    {
+      "eul_wid": "vhc-ae",
+      "title": {
+        "english": "Medical Book XII",
+        "ancient_greek": "Ἰατρικὸν Βιβλίον ΙΒʹ"
+      },
+      "url_slug": "aetius-of-amida-medical-book-12-vhc-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/aetius-of-amida/medical-book-12",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida-medical-book-12-vhc-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida-medical-book-12-vhc-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida-medical-book-12-vhc-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida-medical-book-12-vhc-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-12.epub"
+      }
+    },
+    {
+      "eul_wid": "vhc-al",
+      "title": {
+        "english": "Medical Book XV",
+        "ancient_greek": "Ἰατρικὸν Βιβλίον ΙΕʹ"
+      },
+      "url_slug": "aetius-of-amida-medical-book-xv-vhc-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/aetius-of-amida/medical-book-xv",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida-medical-book-xv-vhc-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida-medical-book-xv-vhc-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida-medical-book-xv-vhc-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida-medical-book-xv-vhc-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-xv.epub"
+      }
+    },
+    {
+      "eul_wid": "umi-aa",
+      "title": {
+        "english": "Names of Medical Instruments by Element Used in Surgeries",
+        "ancient_greek": "Ὀνόματα τῶν ἰατρικῶν ἐργαλείων κατὰ στοιχεῖα οἷς"
+      },
+      "url_slug": "medical-writers-anonymous-instruments-by-element-umi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/instruments-by-element",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-instruments-by-element-umi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-instruments-by-element-umi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-instruments-by-element-umi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-instruments-by-element-umi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/instruments-by-element.epub"
+      }
+    },
+    {
+      "eul_wid": "umi-ax",
+      "title": {
+        "english": "On Diet",
+        "ancient_greek": "Περὶ Διαιτῆς"
+      },
+      "url_slug": "medical-writers-anonymous-diet-umi-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/diet",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-diet-umi-ax.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-diet-umi-ax.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-diet-umi-ax.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-diet-umi-ax.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/diet.epub"
+      }
+    },
+    {
+      "eul_wid": "ojc-ac",
+      "title": {
+        "english": "On Satyriasis and Gonorrhea",
+        "ancient_greek": "Περὶ Σατυριάσεως καὶ Γονορροίας"
+      },
+      "url_slug": "rufus-of-ephesus-satyriasis-gonorrhea-ojc-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/rufus-of-ephesus/satyriasis-gonorrhea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-satyriasis-gonorrhea-ojc-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-satyriasis-gonorrhea-ojc-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-satyriasis-gonorrhea-ojc-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-satyriasis-gonorrhea-ojc-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/satyriasis-gonorrhea.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-dn",
+      "title": {
+        "english": "On Theriac to Piso",
+        "ancient_greek": "Περὶ θηριακῆς πρὸς Πείσωνα"
+      },
+      "url_slug": "galen-of-pergamon-theriac-piso-qmm-dn",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/theriac-piso",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-theriac-piso-qmm-dn.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-theriac-piso-qmm-dn.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-theriac-piso-qmm-dn.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-theriac-piso-qmm-dn.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/theriac-piso.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/pseudo-hippocrates/foods",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-foods-oyw-ac.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-foods-oyw-ac.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-foods-oyw-ac.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-foods-oyw-ac.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/foods.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

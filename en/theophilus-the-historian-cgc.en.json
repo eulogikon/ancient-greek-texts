@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "cgc",
+  "auth_slug": "theophilus-the-historian",
+  "name": {
+    "english": "Theophilus the Historian",
+    "ancient_greek": "Θεόφιλος ὁ Ἱστορικός"
+  },
+  "seo_h1": "Sicily in the Fragments of Theophilus the Historian",
+  "seo": {
+    "browser_title": "Theophilus the Historian on Eulogikon Greek Archive",
+    "meta_title": "Theophilus the Historian Ancient Greek Works Online",
+    "meta_description": "Theophilus the Historian, a 4th century BCE Attic prose writer. His surviving historical work. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Theophilus the Historian was a 4th-century BCE author known solely for a single historical work. No biographical details survive beyond this attribution. His only known work is <strong>On Sicily</strong>, a lost history focusing on Sicilian affairs. It survives only in fragments and testimonia, referenced in the Suda lexicon and by later authors like Athenaeus.</p>\n<p class=\"research-text\">Theophilus is a minor fragmentary historian. His significance lies in his role as a source for regional history; later authors cite <strong>On Sicily</strong> for details on Sicilian geography, customs, and figures, such as the luxurious habits of the Sybarites. He is often grouped with other local historians of Sicily like Antiochus of Syracuse.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "cgc-aa",
+      "title": {
+        "english": "Fragments on Italian History",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἰταλικῆς Ἱστορίας"
+      },
+      "url_slug": "theophilus-the-historian-italian-history-cgc-aa",
+      "passages": 12,
+      "links": {
+        "html": "https://eulogikon.org/grc/theophilus-the-historian/italian-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-historian-italian-history-cgc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-historian-italian-history-cgc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-historian-italian-history-cgc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-historian-italian-history-cgc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-historian/italian-history.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/theophilus-the-historian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theophilus-the-historian-cgc.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theophilus-the-historian-cgc.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theophilus-the-historian-cgc.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theophilus-the-historian-cgc.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

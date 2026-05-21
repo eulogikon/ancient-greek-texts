@@ -1,0 +1,345 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "dti-aa",
+  "eul_aid": "dti",
+  "author_slug": "stesimbrotus-of-thasos",
+  "work_slug": "athenian-statesmen",
+  "url_slug": "stesimbrotus-of-thasos-athenian-statesmen-dti-aa",
+  "author": {
+    "english": "Stesimbrotus of Thasos the Historian",
+    "ancient_greek": "Στησίμβροτος ὁ Θάσιος"
+  },
+  "title": {
+    "english": "On Athenian Statesmen",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "On Athenian Statesmen by Stesimbrotus of Thasos on Eulogikon",
+    "meta_title": "On Athenian Statesmen by Stesimbrotus of Thasos in Greek",
+    "meta_description": "A lost biographical work by Stesimbrotus of Thasos with critical sketches of Athenian figures. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects (frg)",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On Athenian Statesmen</strong> was a biographical work by the 5th-century BCE sophist and historian Stesimbrotus of Thasos. Composed in Greek prose, the now-lost text provided critical sketches of major Athenian political figures, most notably Themistocles, Thucydides son of Melesias, and Pericles. It blended historical narrative with personal anecdote and moralizing judgment, offering a pointed evaluation of their characters and political rivalries. The original work survives only in approximately twenty-two fragments, preserved chiefly through quotations in later authors such as Plutarch, who cited it for its revealing and often unflattering stories. Modern scholarship regards it as a pioneering example of political biography, likely composed for a Panhellenic audience keenly interested in the nature of Athenian power. Its consistently critical tone suggests it functioned in part as a rhetorical exercise in assessing democratic leadership. Despite ancient and modern questions regarding its historical reliability, the fragments of Stesimbrotus’s work remained an influential source for subsequent biographers and historians of the classical Athenian era.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-12",
+      "text": "ΠΕΡΙ ΘΕΜΙΣΤΟΚΛΕΟΥΣ ΚΑΙ ΘΟΥΚΥΔΙΔΟΥ ΚΑΙ ΠΕΡΙΚΛΕΟΥΣ. Plutarch.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Them. c. 2: Στησίμβροτος Ἀναξαγόρου τε διακοῦσαι τὸν Θεμιστοκλέα φησὶ καὶ περὶ Μέλισσον σπουδάσαι τὸν φυσικὸν, οὐκ εὖ τῶν χρόνων ἁπτόμενος· Περικλεῖ γὰρ, ὃς πολὺ νεώτερος ἦν Θεμιστοκλέους, Μέλισσος μὲν ἀντεστρατήγει πολιορκοῦντι Σαμίους, Ἀναξαγόρας δὲ συνδιέτριβε. Paullo post Plutarchus ex eodem haud dubie Stesimbroto ponit haec: Ἃ δὲ τούτων ἐξαρτῶσιν ἔνιοι διηγήματα πλάττοντες, ἀποκήρυξιν ὑπὸ τοῦ πατρὸς αὐτοῦ, θάνατον δὲ τῆς μητρὸς ἑκούσιον, ἐπὶ τῇ τοῦ παιδὸς ἀτιμίᾳ περιλύπου γενομένης, δοκεῖ κατεψεῦσθαι. Idem ibid.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "c. 24, 5: Themistocles ad Admetum regem Molossorum confugit. Ἐκεῖ δ’ αὐτῷ τὴν γυναῖκα καὶ τοὺς παῖδας ἐκκλέψας ἐκ τῶν Ἀθηνῶν Ἐπικράτης ὁ Ἀχαρνεὺς ἀπέστειλεν, ὃν ἐπὶ τούτῳ Κίμων ὕστερον κρίνας ἐθανάτωσεν, ὡς ἱστορεῖ Στησίμβροτος. Εἶτ’ οὐκ οἶδ’ ὅπως ἐπιλαθόμενος τούτων ἢ τὸν Θεμιστοκλέα ποιῶν ἐπιλαθόμενον πλεῦσαί φησιν εἰς Σικελίαν καὶ παρ’ Ἱέρωνος αἰτεῖν τοῦ τυράννου τὴν θυγατέρα πρὸς γάμον, ὑπισχνούμενον αὐτῷ τοὺς Ἕλληνας ὑπηκόους ποιήσειν, ἀποστρεψαμένου δὲ τοῦ Ἱέρωνος οὕτως εἰς τὴν Ἀσίαν ἀπᾶραι. Ταῦτα δ’ οὐκ εἰκός ἐστιν οὕτω γενέσθαι. Idem Cimon.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "c. 4, 6: Στησίμβροτος δ’ ὁ Θάσιος περὶ τὸν αὐτὸν ὁμοῦ τι χρόνον τῷ Κίμωνι γεγονώς φησιν αὐτὸν οὔτε μουσικὴν οὔτε ἄλλο τι μάθημα τῶν ἐλευθερίων καὶ τοῖς Ἕλλησιν ἐπιχωριαζόντων ἐκδιδαχθῆναι, δεινότητός τε καὶ στωμυλίας Ἀττικῆς ὅλως ἀπηλλάχθαι, καὶ τῷ τρόπῳ πολὺ τὸ γενναῖον καὶ ἀληθὲς ἐνυπάρχειν καὶ μᾶλλον εἶναι Πελοποννήσιον τὸ σχῆμα τῆς ψυχῆς τοῦ ἀνδρὸς, Φαῦλον, ἄκομψον, τὰ μέγιστ’ ἀγαθὸν, κατὰ τὸν Εὐριπίδειον Ἡρακλέα· ταῦτα γὰρ ἔστι τοῖς ὑπὸ τοῦ Στησιμβρότου γεγραμμένοις ἐπειπεῖν. Idem Stesimbrotus subesse videtur sequentibus: Εἰσὶ δ’ οἳ τὴν Ἐλπινίκην οὐ κρύφα τῷ Κίμωνι, φανερῶς δὲ γημαμένην συνοικῆσαι λέγουσιν, ἀξίου τῆς εὐγενείας νυμφίου διὰ τὴν πενίαν ἀποροῦσαν· ἐπεὶ δὲ Καλλίας τῶν εὐπόρων τις Ἀθήνησιν ἐρασθεὶς προσῆλθε τὴν ὑπὲρ τοῦ πατρὸς καταδίκην ἐκτίνειν ἕτοιμος ὢν πρὸς τὸ δημόσιον, αὐτήν τε πεισθῆναι καὶ τὸν Κίμωνα τῷ Καλλίᾳ συνοικίσαι τὴν Ἐλπινίκην. Ib.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "c. 14: Ἐπεὶ δὲ τῶν Περσῶν τινες οὐκ ἐβούλοντο τὴν Χερσόνησον ἐκλιπεῖν, ἀλλὰ καὶ τοὺς Θρᾷκας ἄνωθεν ἐπεκαλοῦντο καταφρονοῦντες τοῦ Κίμωνος μετ’ ὀλίγων παντάπασι τριήρων Ἀθήνηθεν ἐκπεπλευκότος, ὁρμήσας ἐπ’ αὐτοὺς τέσσαρσι μὲν ναυσὶ, τρισκαίδεκα τὰς ἐκείνων ἔλαβεν, ἐξελάσας δὲ τοὺς Πέρσας καὶ κρατήσας τῶν Θρᾳκῶν, πᾶσαν ᾠκειώσατο τῇ πόλει τὴν Χερσόνησον. Ἐκ δὲ τούτου Θασίους μὲν ἀποστάντας Ἀθηναίων καταναυμαχήσας, τρεῖς καὶ τριάκοντα ναῦς ἔλαβε καὶ τὴν πόλιν ἐξεπολιόρκησε καὶ τὰ χρυσεῖα τὰ πέραν Ἀθηναίοις προσεκτήσατο καὶ χώραν, ἧς ἐπῆρχον Θάσιοι, παρέλαβεν. Ἐκεῖθεν δὲ ῥᾳδίως ἐπιβῆναι Μακεδονίας καὶ πολλὴν ἀποτεμέσθαι παρασχὸν, ὡς ἐδόκει, μὴ θελήσας αἰτίαν ἔσχε δώροις ὑπὸ τοῦ βασιλέως Ἀλεξάνδρου συμπεπεῖσθαι, καὶ δίκην ἔφυγε, τῶν ἐχθρῶν συστάντων ἐπ’ αὐτόν. Ἀπολογούμενος δὲ πρὸς τοὺς δικαστὰς, οὐκ Ἰώνων ἔφη προξενεῖν οὐδὲ Θεσσαλῶν, πλουσίων ὄντων, ὥσπερ ἑτέρους, ἵνα θεραπεύωνται καὶ λαμβάνωσιν, ἀλλὰ Λακεδαιμονίων, μιμούμενος καὶ ἀγαπῶν τὴν παρ’ αὐτοῖς εὐτέλειαν καὶ σωφροσύνην, ἧς οὐδένα προτιμᾶν πλοῦτον, ἀλλὰ πλουτίζων ἀπὸ τῶν πολεμίων τὴν πόλιν ἀγάλλεσθαι. Μνησθεὶς δὲ τῆς κρίσεως ἐκείνης ὁ Στησίμβροτός φησι τὴν Ἐλπινίκην ὑπὲρ τοῦ Κίμωνος δεομένην ἐλθεῖν ἐπὶ τὰς θύρας τοῦ Περικλέους (οὗτος γὰρ ἦν τῶν κατηγόρων ὁ σφοδρότατος), τὸν δὲ μειδιάσαντα, «Γραῦς εἶ, φάναι, γραῦς, ὦ Ἐλπινίκη, ὡς τηλικαῦτα διαπράττεσθαι πράγματα·» πλὴν ἔν γε τῇ δίκῃ πρᾳότατον γενέσθαι τῷ Κίμωνι καὶ πρὸς τὴν κατηγορίαν ἅπαξ ἀναστῆναι μόνον, ὥσπερ ἀφοσιούμενον. Plut.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "Cim. 16, 1: Ἦν μὲν οὖν ἀπ’ ἀρχῆς φιλολάκων (ὁ Κίμων)· καὶ τῶν γε παίδων τῶν διδύμων τὸν ἕτερον Λακεδαιμόνιον ὠνόμασε, τὸν δ’ ἕτερον Ἠλεῖον, ἐκ γυναικὸς αὐτῷ Κλειτορίας γενομένου, ὡς Στησίμβροτος ἱστορεῖ· δι’ ὃ πολλάκις τὸν Περικλέα τὸ μητρῷον αὐτοῖς γένος ὀνειδίζειν. Idem ib.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "c. 16, 5: Ἔπειτα δυνατώτεροι γενόμενοι καὶ τὸν Κίμωνα τοῖς Σπαρτιάταις οὐκ ἠρέμα προσκείμενον ὁρῶντες ἤχθοντο. Καὶ γὰρ αὐτὸς ἐπὶ παντὶ μεγαλύνων τὴν Λακεδαίμονα πρὸς Ἀθηναίους καὶ μάλιστα ὅτε τύχοι μεμφόμενος αὐτοῖς ἢ παροξύνων, ὥς φησι Στησίμβροτος, εἰώθει λέγειν, «Ἀλλ’ οὐ Λακεδαιμόνιοί γε τοιοῦτοι.» Ὅθεν φθόνον ἑαυτῷ συνῆγε καὶ δυσμένειάν τινα παρὰ τῶν πολιτῶν. Idem Pericl.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "c. 26, 2: Ἐπεὶ δὲ μείζων ἕτερος στόλος ἦλθεν ἐκ τῶν Ἀθηνῶν καὶ παντελῶς κατεκλείσθησαν οἱ Σάμιοι, λαβὼν ὁ Περικλῆς ἑξήκοντα τριήρεις ἔπλευσεν εἰς τὸν ἔξω πόντον, ὡς μὲν οἱ πλεῖστοι λέγουσι, Φοινισσῶν νεῶν ἐπικούρων τοῖς Σαμίοις προσφερομένων, ἀπαντῆσαι καὶ διαγωνίσασθαι πορρωτάτω βουλόμενος, ὡς δὲ Στησίμβροτος, ἐπὶ Κύπρον στελλόμενος· ὅπερ οὐ δοκεῖ πιθανὸν εἶναι. Ὁποτέρῳ δ’ οὖν ἐχρήσατο τῶν λογισμῶν ἁμαρτεῖν ἔδοξε. Id.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "ib. c. 8, 9: Ὁ δὲ Στησίμβροτος φησὶν ὅτι τοὺς ἐν Σάμῳ τεθνηκότας ἐγκωμιάζων ἐπὶ τοῦ βήματος ἀθανάτους ἔλεγε γεγονέναι καθάπερ τοὺς θεούς· οὐ γὰρ ἐκείνους αὐτοὺς ὁρῶμεν, ἀλλὰ ταῖς τιμαῖς, ἃς ἔχουσι, καὶ τοῖς ἀγαθοῖς, ἃ παρέχουσιν, ἀθανάτους εἶναι τεκμαιρόμεθα· ταῦτ’ οὖν ὑπάρχειν καὶ τοῖς ὑπὲρ τῆς πατρίδος ἀποθανοῦσιν. Plutarch.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "Pericl. c. 13, 14: Οἱ κωμικοὶ πολλὴν ἀσέλγειαν αὐτοῦ (Περικλέους) κατεσκέδασαν ... Καὶ τί ἄν τις ἀνθρώπους σατυρικοὺς τοῖς βίοις καὶ τὰς κατὰ τῶν κρειττόνων βλασφημίας ὥσπερ δαίμονι κακῷ τῷ φθόνῳ τῶν πολλῶν ἀποθύοντας ἑκάστοτε θαυμάσειεν, ὅπου καὶ Στησίμβροτος ὁ Θάσιος δεινὸν ἀσέβημα καὶ μυθῶδες ἐξενεγκεῖν ἐτόλμησεν εἰς τὴν γυναῖκα τοῦ υἱοῦ κατὰ τοῦ Περικλέους; Οὕτως ἔοικε πάντη χαλεπὸν εἶναι καὶ δυσθήρατον ἱστορίᾳ τἀληθὲς, ὅταν οἱ μὲν ὕστερον γεγονότες τὸν χρόνον ἔχωσιν ἐπιπροσθοῦντα τῇ γνώσει τῶν πραγμάτων, ἡ δὲ τῶν πράξεων καὶ τῶν βίων ἡλικιῶτις ἱστορία τὰ μὲν φθόνοις καὶ δυσμενείαις, τὰ δὲ χαριζομένη καὶ κολακεύουσα λυμαίνηται καὶ διαστρέφῃ τὴν ἀλήθειαν. Athenaeus XIII, de Pericle: Ἦν δ’ οὗτος ἀνὴρ πρὸς ἀφροδίσια πάνυ καταφερής· ὅστις καὶ τῇ τοῦ υἱοῦ γυναικὶ συνῆν, ὡς Στησίμβροτος ὁ Θάσιος ἱστορεῖ, κατὰ τοὺς αὐτοὺς αὐτῷ χρόνους γενόμενος καὶ ἑωρακὼς αὐτὸν, ἐν τῷ ἐπιγραφομένῳ Περὶ Θεμιστοκλέους καὶ Θουκυδίδου καὶ Περικλέους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "Plutarch. Pericl. c. 36, 2: Ὁ γὰρ πρεσβύτατος αὐτοῦ τῶν γνησίων υἱῶν Ξάνθιππος φύσει τε δαπανηρὸς ὢν καὶ γυναικὶ νέᾳ καὶ πολυτελεῖ συνοικῶν, Τισάνδρου θυγατρὶ, τοῦ Ἐπιλύκου, χαλεπῶς ἔφερε τὴν τοῦ πατρὸς ἀκρίβειαν γλίσχρα καὶ κατὰ μικρὸν αὐτῷ χορηγοῦντος. Πέμψας οὖν πρός τινα τῶν φίλων ἔλαβεν ἀργύριον ὡς τοῦ Περικλέους κελεύσαντος. Ἐκείνου δ’ ὕστερον ἀπαιτοῦντος, ὁ μὲν Περικλῆς καὶ δίκην αὐτῷ προσέλαχε, τὸ δὲ μειράκιον ὁ Ξάνθιππος ἐπὶ τούτῳ χαλεπῶς διατεθεὶς ἐλοιδόρει τὸν πατέρα, πρῶτον μὲν ἐκφέρων ἐπὶ γέλωτι τὰς οἴκοι διατριβὰς αὐτοῦ καὶ τοὺς λόγους, οὓς ἐποίει μετὰ τῶν σοφιστῶν. Πεντάθλου γὰρ Χαρίππου ἀκοντίῳ πατάξαντος Ἐπίτιμον τὸν Φαρσάλιον ἀκουσίως καὶ κατακτείναντος, ἡμέραν ὅλην ἀναλῶσαι μετὰ Πρωταγόρου διαποροῦντα, πότερον τὸ ἀκόντιον ἢ τὸν βαλόντα ἢ τοὺς ἀγωνοθέτας κατὰ τὸν ὀρθότατον λόγον αἰτίους χρὴ τοῦ πάθους ἡγεῖσθαι. Πρὸς δὲ τούτοις καὶ τὴν περὶ τῆς γυναικὸς διαβολὴν ὑπὸ τοῦ Ξανθίππου φησὶν ὁ Στησίμβροτος εἰς τοὺς πολλοὺς διασπαρῆναι καὶ ὅλως ἀνήκεστον ἄχρι τῆς τελευτῆς τῷ νεανίσκῳ πρὸς τὸν πατέρα παραμεῖναι τὴν διαφοράν· ἀπέθανε γὰρ ὁ Ξάνθιππος ἐν τῷ λοιμῷ νοσήσας. Fulgent.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12",
+      "text": "Vocum antiqq. interpret. init.: Sandapilam antiqui dici voluerunt feretrum mortuorum, id est loculum; non in quo nobilium corpora, sed in quo plebeiorum atque damnatorum cadavera portabantur: sicut Stesimbrotus Thasius de morte Polycratis Samiorum regis scripsit dicens: Posteaquam de cruce depositus sandapila etiam deportatus est. ΠΕΡΙ ΤΕΛΕΤΩΝ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13a",
+      "text": "Etym. M.: Ἰδαῖοι ἐκλήθησαν οἱ Δάκτυλοι ὅτι ἡ κόνις ἣν ἔρριψαν (sc. Jovis nutrices) ἐξ Ἴδης ἦν. Στησίμβροτος δὲ ἐν τῷ Περὶ τελετῶν Διὸς καὶ Ἴδης νύμφης αὐτοὺς λέγει * φησὶν ὅτι Ζεὺς ἐκέλευσε τὰς ἰδίας τροφοὺς λαβεῖν κόνιν καὶ ῥῖψαι εἰς τοὔπισω καὶ ἐκ τῆς κόνεως γενέσθαι τοὺς Ἰδαίους Δακτύλους. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13b",
+      "text": "Apoll. Rd. I, 1129: [Δάκτυλοι Ἰδαῖοι Κρηταιέες, οὕς ποτε νύμφη Ἀγχιάλη Δικταῖον ἀνὰ σπέος, ἀμφοτέρῃσιν δραξαμένη γαίης Οἰαξίδος, ἐβλάστησεν.] Ὅτι δὲ νύμφη τις Οἰαξίδος γῆς δραξαμένη τοὺς καλουμένους Ἰδαίους Δακτύλους ἐποίησε, παρὰ Στησιμβρότου εἴληφε· καὶ ὅτι διὰ τὸ ῥυῆναι αὐτοὺς διὰ τῶν χειρῶν, Δάκτυλοι κληθῆναι. Σοφοκλῆς δὲ αὐτοὺς Φρύγας καλεῖ ἐν Κωφοῖς Σατύροις. Strabo X: Ἔτι δὲ Κρόνου τινὲς τοὺς Κορύβαντας, οἱ δὲ τοῦ Διὸς καὶ Καλλιόπης φασὶ τοὺς αὐτοὺς τοῖς Καβείροις ὄντας, ἀπελθεῖν δὲ τούτους εἰς Σαμοθρᾴκην, καλουμένην πρότερον μελίτην· τὰς δὲ πράξεις αὐτῶν μυστικὰς εἶναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14",
+      "text": "Ταῦτα δ’ οὐκ ἀποδεξάμενος ὁ Σκήψιος ὁ τοὺς μύθους τούτους συναγαγὼν, ὡς μηδενὸς ἐν Σαμοθρᾴκῃ μυστικοῦ λόγου περὶ Καβείρων λεγομένου, παρατίθησιν ὅμως καὶ Στησιμβρότου τοῦ Θασίου δόξαν, ὡς τὰ ἐν Σαμοθρᾴκῃ ἱερὰ τοῖς Καβείροις ἐπετελεῖτο· καλεῖσθαι δέ φησιν αὐτοὺς ἐκεῖνος ἀπὸ τοῦ ὄρους τοῦ ἐν Βερεκυντίᾳ Καβείρου. Apostol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "Prov. XIX, 65: Τυφλότερος ἀσπάλακο ς · τοῦτο τὸ ζῷον οὐκ ἔχει ὀφθαλμούς· φησὶ δ’ αὐτὸ Στησίμβροτος ὑπὸ τῆς Γῆς τυφλωθῆναι διὰ τὸ φθείρειν τοὺς καρπούς. Etym.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16",
+      "text": "M., v. Διόνυσος: Οἱ μὲν Διόνυξον αὐτὸν ὀνομάζουσιν, ὅτι σὺν κέρασι γεννώμενος ἔνυξε τὸν Διὸς μηρὸν, ὡς Στησίμβροτος. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17",
+      "text": "Apoll. Rh. I, 1304: Στησίμβροτος δέ φησιν (Boreadas ab Hercule interfectos esse) ὅτι διαφορὰν ἔσχον πρὸς τὸν Ἡρακλέα περὶ τῶν δεδομένων δώρων ὑπὸ Ἰάσονος τοῖς ἀριστεῦσι. ΠΕΡΙ ὉΜΗΡΟΥ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18a",
+      "text": "Iriart. Vit. Hom.: Ἀντίμαχος Κολοφώνιον, Στησίμβροτος δὲ Σμυρναῖον (τὸν Ὅμηρον γεγονέναι φασί). Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18b",
+      "text": "ad Hom. Il. Λ, 636: [Ἄλλος μὲν μογέων ἀποκινήσασκε τραπέζης πλεῖον ἐὸν (sc. τὸ δέπας in anteced. descriptum), Νέστωρ δ’ ὁ γέρων ἀμογητὶ ἄειρεν.] Cur Nestorem potissimum poeta dixerit, quaerunt. Στησίμβροτος μέν φησιν, ἵνα δοκῇ εἰκότως πολλὰ ἔτη βεβιωκέναι· εἰ γὰρ παραμόνιος ἡ ἰσχὺς, καὶ οὐχ ὑπὸ γήρως μεμάρανται, καὶ τὰ τῆς ζωῆς εὔλογον εἶναι παραπλήσια· Ἀντιφάνης δὲ, οὐ περὶ τῆς κατὰ χεῖρα βαρύτητος λέγει, ἀλλ’ ὅτι οὐκ ἐμεθύσκετο σημαίνει, ἀλλ’ ἔφερε ῥᾳδίως τὸν οἶνον· Γλαῦκος δὲ, ὅτι κατὰ διάμετρον ἐλάμβανε τὰ ὦτα, ἐκ μέσου δὲ πᾶν εὔφορον. Id.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18c",
+      "text": "ib. Φ, 76: Ἀποροῦσι πῶς ὁ ἱκετεύων (Lycaon vitam ab Achille precans) πρὸς τὸν Ἀχιλλέα ἔφη· «Πὰρ γὰρ σοὶ πρώτῳ πασάμην Δημήτερος ἀκτήν.» Τὸ γὰρ λέγειν, καθάπερ Στησίμβροτος, ὅτι οἱ βάρβαροι ἄλφιτα οὐκ ἐσθίουσιν, ἀλλ’ ἄρτους κριθίνους, ψεῦδος. Id.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18d",
+      "text": "ib. Οʹ, 193, [γαῖα δ’ ἔτι κτλ.] Κράτης ἐν βʹ Ὁμηρικῶν καὶ Στησίμβροτος οὕτως δέδασται.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "ezq-aj",
+      "title": {
+        "english": "Economics",
+        "ancient_greek": "Οἰκονομικός"
+      },
+      "url_slug": "xenophon-of-athens-economics-ezq-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/economics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-economics-ezq-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-economics-ezq-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-economics-ezq-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-economics-ezq-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/economics.epub"
+      }
+    },
+    {
+      "eul_wid": "jcy-ab",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "archelaus-of-chersonesus-epigram-jcy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/archelaus-of-chersonesus/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-chersonesus-epigram-jcy-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-chersonesus-epigram-jcy-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-chersonesus-epigram-jcy-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-chersonesus-epigram-jcy-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-chersonesus/epigram.epub"
+      }
+    },
+    {
+      "eul_wid": "kdw-aa",
+      "title": {
+        "english": "Geographical Fragments on Caria",
+        "ancient_greek": "Ἀποσπάσματα περὶ Καρίας"
+      },
+      "url_slug": "apollonius-of-aphrodisias-geographical-caria-kdw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollonius-of-aphrodisias/geographical-caria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-aphrodisias-geographical-caria-kdw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-aphrodisias-geographical-caria-kdw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-aphrodisias-geographical-caria-kdw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-aphrodisias-geographical-caria-kdw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-aphrodisias/geographical-caria.epub"
+      }
+    },
+    {
+      "eul_wid": "ezq-ak",
+      "title": {
+        "english": "Hellenica",
+        "ancient_greek": "Ἑλληνικά"
+      },
+      "url_slug": "xenophon-of-athens-hellenica-ezq-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/hellenica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-hellenica-ezq-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-hellenica-ezq-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-hellenica-ezq-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-hellenica-ezq-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hellenica.epub"
+      }
+    },
+    {
+      "eul_wid": "mqw-aa",
+      "title": {
+        "english": "Historical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "carystius-of-pergamum-historical-fragments-mqw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/carystius-of-pergamum/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carystius-of-pergamum-historical-fragments-mqw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carystius-of-pergamum-historical-fragments-mqw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carystius-of-pergamum-historical-fragments-mqw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carystius-of-pergamum-historical-fragments-mqw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carystius-of-pergamum/historical-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "ova-aa",
+      "title": {
+        "english": "Historical Parallels and Anecdotes",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "myronianus-of-amastris-historical-parallels-ova-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/myronianus-of-amastris/historical-parallels",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myronianus-of-amastris-historical-parallels-ova-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myronianus-of-amastris-historical-parallels-ova-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myronianus-of-amastris-historical-parallels-ova-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myronianus-of-amastris-historical-parallels-ova-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myronianus-of-amastris/historical-parallels.epub"
+      }
+    },
+    {
+      "eul_wid": "ndy-ak",
+      "title": {
+        "english": "Letter to Ammaeus",
+        "ancient_greek": "Ἐπιστολὴ πρὸς Ἀμμαῖον"
+      },
+      "url_slug": "dionysius-of-halicarnassus-ammaeus-ndy-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/ammaeus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-ammaeus-ndy-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-ammaeus-ndy-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-ammaeus-ndy-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-ammaeus-ndy-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/ammaeus.epub"
+      }
+    },
+    {
+      "eul_wid": "ima-aa",
+      "title": {
+        "english": "Manetho's Egyptian Dynasties",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "manetho-of-sebennytos-egyptian-dynasties-ima-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/manetho-of-sebennytos/egyptian-dynasties",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/manetho-of-sebennytos-egyptian-dynasties-ima-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/manetho-of-sebennytos-egyptian-dynasties-ima-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/manetho-of-sebennytos-egyptian-dynasties-ima-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/manetho-of-sebennytos-egyptian-dynasties-ima-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/manetho-of-sebennytos/egyptian-dynasties.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/stesimbrotus-of-thasos/athenian-statesmen",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesimbrotus-of-thasos-athenian-statesmen-dti-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesimbrotus-of-thasos-athenian-statesmen-dti-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesimbrotus-of-thasos-athenian-statesmen-dti-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesimbrotus-of-thasos-athenian-statesmen-dti-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesimbrotus-of-thasos/athenian-statesmen.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

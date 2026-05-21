@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "lng",
+  "auth_slug": "megasthenes",
+  "name": {
+    "english": "Megasthenes",
+    "ancient_greek": "Μεγασθένης"
+  },
+  "seo_h1": "Megasthenes on India and the Court of Chandragupta",
+  "seo": {
+    "browser_title": "Megasthenes the Historian on Eulogikon Greek Archive",
+    "meta_title": "Megasthenes Ancient Greek Historical Works and Texts",
+    "meta_description": "Megasthenes, a Greek historian and diplomat. His surviving work provides an account of ancient India. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Megasthenes was a Greek historian, diplomat, and ethnographer active in the late fourth and early third centuries BCE. He served as an ambassador for Seleucus I to the court of the Indian emperor Chandragupta Maurya. Though his exact origins are uncertain, he likely came from Ionia in Asia Minor.</p>\n<p class=\"research-text\">His diplomatic role provided him unique access to the Mauryan Empire, where he spent time at the imperial capital of Pataliputra and traveled within India. His major work was the Indica, a multi-volume account of India. The original text is lost but survives in fragments quoted by later Greek and Roman historians. It described India&#x27;s geography, peoples, customs, government, and natural history based on his direct observations.</p>\n<p class=\"research-text\">Megasthenes&#x27; work became the foundational Greek source on India for centuries, shaping the classical world&#x27;s knowledge of the subcontinent. Modern scholars note that his reports on the sophisticated Mauryan administration provide valuable external testimony about early Indian statecraft. He also described Indian social structures and ascetic philosophers, which sparked Greek philosophical interest.</p>\n<p class=\"research-text\">While his accounts sometimes included marvels and inaccuracies, his direct access makes the Indica a critical historical source. His identification of the Indian king Sandrokottos with Chandragupta Maurya was particularly important for aligning Greek and Indian historical timelines.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "lng-aa",
+      "title": {
+        "english": "Fragments on India",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἰνδικῆς"
+      },
+      "url_slug": "megasthenes-india-fragments-lng-aa",
+      "passages": 67,
+      "links": {
+        "html": "https://eulogikon.org/grc/megasthenes/india-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/megasthenes-india-fragments-lng-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/megasthenes-india-fragments-lng-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/megasthenes-india-fragments-lng-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/megasthenes-india-fragments-lng-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/megasthenes/india-fragments.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/megasthenes",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/megasthenes-lng.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/megasthenes-lng.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/megasthenes-lng.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/megasthenes-lng.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

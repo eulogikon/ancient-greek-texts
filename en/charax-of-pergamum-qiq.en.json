@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "qiq",
+  "auth_slug": "charax-of-pergamum",
+  "name": {
+    "english": "Charax of Pergamum",
+    "ancient_greek": "Χάραξ ὁ Περγαμηνός"
+  },
+  "seo_h1": "Charax of Pergamum and the Geographical Myths of Asia Minor",
+  "seo": {
+    "browser_title": "Charax of Pergamum on Eulogikon Greek Archive and Library",
+    "meta_title": "Classical Charax of Pergamum Ancient Greek Historical Works",
+    "meta_description": "Charax of Pergamum was a 2nd century CE Roman historian. His surviving works are preserved as fragments. Free to read and download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Charax of Pergamum was a Greek historian and rhetorician of the 2nd century CE. A citizen of Pergamum, he held the high priesthood of Asia and was a Roman equestrian. While the Suda places him under Hadrian, an inscription suggests he was active later, leading an embassy to Antoninus Pius, which places his floruit in the mid-2nd century.</p>\n<p class=\"research-text\">His known work is the Hellenica, a lost universal history in at least 40 books covering events from mythological times to 146 BCE. It survives only in fragments preserved by later authors like Photius and Stephanus of Byzantium. Charax’s Hellenica was a significant compilatory work of the Second Sophistic. Though Photius criticized its style, it served as a source for later historians and lexicographers, transmitting geographical and mythological details.</p>\n<p class=\"research-text\">Charax exemplifies the learned Greek civic aristocrat who combined literary activity with high office in the Roman Empire.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "qiq-aa",
+      "title": {
+        "english": "Geographical and Mythological Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "charax-of-pergamum-geographical-mythological-qiq-aa",
+      "passages": 61,
+      "links": {
+        "html": "https://eulogikon.org/grc/charax-of-pergamum/geographical-mythological",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/charax-of-pergamum-geographical-mythological-qiq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/charax-of-pergamum-geographical-mythological-qiq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/charax-of-pergamum-geographical-mythological-qiq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/charax-of-pergamum-geographical-mythological-qiq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/charax-of-pergamum/geographical-mythological.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/charax-of-pergamum",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/charax-of-pergamum-qiq.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/charax-of-pergamum-qiq.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/charax-of-pergamum-qiq.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/charax-of-pergamum-qiq.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

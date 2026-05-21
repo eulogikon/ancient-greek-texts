@@ -1,0 +1,1377 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "slg-aa",
+  "eul_aid": "slg",
+  "author_slug": "menander-and-philistion",
+  "work_slug": "comparison",
+  "url_slug": "menander-and-philistion-comparison-slg-aa",
+  "author": {
+    "english": "Menander and Philistion Comparison ",
+    "ancient_greek": "Μενάνδρου καὶ Φιλιστίωνος Γνῶμαι"
+  },
+  "title": {
+    "english": "Comparison of Menander and Philistion",
+    "ancient_greek": "Σύγκρισις Μενάνδρου καὶ Φιλίστιωνος"
+  },
+  "seo": {
+    "browser_title": "Comparison of Menander and Philistion on Eulogikon",
+    "meta_title": "Comparison of Menander and Philistion in Ancient Greek",
+    "meta_description": "This philosophical dialogue examines the contrasting ethical teachings and rhetorical methods of Menander and Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Comparison of Menander and Philistion</strong> is a brief Greek prose essay from the Imperial Roman period, likely composed in the first or second century CE. Though traditionally included among the miscellaneous works of Plutarch in the corpus known as the <strong>Moralia</strong>, its authorship remains uncertain. The text presents a direct literary comparison between two Athenian comic playwrights: the celebrated master of New Comedy, Menander, and the lesser-known Philistion, a writer of the preceding Middle Comedy period. It systematically evaluates the two authors by cataloging their respective merits and faults. Menander is praised for the elegance of his plots, the propriety of his language, and the skillful delineation of his characters. Philistion, by contrast, is criticized for his reliance on crude humor and his overall artistic inferiority. The essay concludes with a definitive judgment in favor of Menander as the superior artist.</p>\n<p class=\"research-text\">Surviving as a complete short work within the Plutarchan tradition, the essay is interpreted by modern scholars as a piece of literary criticism characteristic of the Second Sophistic, a cultural movement deeply engaged with the evaluation and emulation of classical Greek models. It appears intended for an educated elite audience, using the comparative framework to articulate standards of refined taste and to affirm Menander’s established canonical status. While the attribution to Plutarch himself is debated, the work’s analytical method of pairing and contrasting two figures reflects the broader ancient interest in synkritic analysis for which Plutarch is particularly renowned.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Φιλιστίωνα τὸν καλόν τε κἀγαθὸν ἐγὼ Μένανδρος πολλὰ χαίρειν βούλομαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "Ἀπαρενόχλητος ὁ τόπος ἡμῖν τυγχάνει, καὶ τοῦ λέγειν ἄρξασθ’ 〈ἐγὼ〉 δὴ βούλομαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "ἄμεινον ἡμᾶς μὴ γενέσθαι μηδ’ ὅλως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "Ἐν δειλίᾳ γὰρ ζῶντες ἡμεῖς τοῦ βίου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20",
+      "text": "μὴ προσδόκα τὸ μέλλον ἢ λυπῇ μάτην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25",
+      "text": "Ὅστις τὸν εὐτυχοῦντα βασκαίνειν θέλει, λυπεῖν ἑαυτὸν βούλετ’{αι} εἰς ὃν ζῇ χρόνον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30",
+      "text": "ῥοπαῖς δὲ καιρῶν καὶ μεταβολαῖς † πάντα ἀλλάσσεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "35",
+      "text": "Κακοὶ γὰρ εὐτυχοῦντες ἐκπλήττουσί με. ἀδίκως πονηροῖς † πλοῦτον δωρεῖται θεός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "40",
+      "text": "ἄμεινόν ἐστιν ἀποθανεῖν ἢ δυστυχεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "45",
+      "text": "Μυστήριόν σου μήποτ’ εἴπῃς τῷ φίλῳ, κοὐ μὴ φοβηθῇς αὐτὸν ἐχθρὸν γενόμενον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "ὀργὴ δὲ δεινὰ δρᾶν ἀναγκάζει βροτούς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "55",
+      "text": "Πενίαν φέρειν οὐ παντός, ἀλλ’ ἀνδρὸς σοφοῦ. πολλοὶ γὰρ εὐτυχοῦντες οὐ φρονοῦσιν εὖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "60",
+      "text": "οὐ τῷ λόγῳ δὲ δεῖ † χρῆσθαι, ἀλλὰ τῷ τρόπῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "65",
+      "text": "Εἰ χρήμασι〈ν〉 τὸν θάνατον ἐξωνούμεθα, τῶν πλουσίων 〈ἂν〉 ὁ κόσμος ὅλος ἐτύγχανε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "70",
+      "text": "πρὶν ἢ μάθῃ τὸ τέρμα τῆς εἱμαρμένης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "75",
+      "text": "Τί τὸν θανόντα κωφὸν ὠφελεῖς καλῶν; τὸν ζῶντα λυπεῖς, τῷ θανόντι δ’ οὐ μέλει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "80",
+      "text": "φρόνιμοι δοκοῦμεν μηδὲ ἓν † καθιόντες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85",
+      "text": "Εἰ πᾶσιν ἡμῖν ἦν φρενῶν κοινωνία, καὶ χρημάτων ἦν καὶ φρενῶν κοινωνία.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "90",
+      "text": "τύχη δὲ καὶ τὸν μὴ σοφὸν ποιεῖ σοφόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "95",
+      "text": "Ἃ δεῖ παθεῖν σε μηδαμοῦ σκέψῃ φυγεῖν, οὐ γὰρ δυνήσῃ διαφυγεῖν ὅ σε δεῖ παθεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "97A",
+      "text": "〉τύχην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "98",
+      "text": "Δούλους ποιοῦσι † πάντας τοὺς ἐλευθέρους γάμοι, τεκνώσεις, ἡδοναί, φόβοι, νόμοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Ἐλευθέρους ἅπαντας ἡ φύσις ποιεῖ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "105",
+      "text": "ἢ δοῦλον εἶναι πᾶσιν ὧν χρείαν ἔχει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "110",
+      "text": "Τὰ δάνεια δούλους τοὺς ἐλευθέρους ποιεῖ. φύλασσε σαυτὸν ἐγκρατῶς ἐλεύθερον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "115",
+      "text": "ἅπαξ λαβὼν τὸ χρῆμα δώσεις πολλάκις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "120",
+      "text": "Ἄμεινόν ἐστι καταλιπεῖν ἄλγος τισίν † ἢ μηδὲν ἔχοντα .... †",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "125",
+      "text": "ὃ λανθάνεις ἄνθρωπον, ὁμολόγει θεῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "130",
+      "text": "† Ἄκουε πάντα μανθάνειν καὶ μὴ λαλεῖν· † πολλὴν γὰρ ἀβλάβειαν ἡ σιγὴ φέρει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "135",
+      "text": "Εὐκαταφρόνητός ἐστι{ν} πανταχοῦ πένης. 〈ὁ〉 πονηρὰ ποιῶν εὐθέως οὐκ αἴσθ{αν}εται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "140",
+      "text": "αὐτὸς ὑφ’ ἑαυτοῦ τῷ φόβῳ κολάζεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "145",
+      "text": "Ὥσπερ λέγουσι πάντες οἱ σοφώτατοι,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "σωροὺς ἔχειν δεῖ καὶ καλῶν φρονημάτων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "155",
+      "text": "Ὅταν πονηροῦ πράγματος κέρδος λάβῃς, τοῦ δυστυχεῖν νόμιζε ς’ ἀρραβῶν’ ἔχειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "157A",
+      "text": "〈λυπεῖ γὰρ ἡμῖν ζημία βραχὺν χρόνον,〉",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "158",
+      "text": "κακὸν δὲ κέρδος ὅλον ἀναιρεῖ 〈τὸν〉 βίον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "160",
+      "text": "χαίρει δ’ ὁρῶν πάσχοντας † τοὺς ἀναξίους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "165",
+      "text": "Κρίνει φίλους ὁ καιρὸς ὡς χρυσὸν τὸ πῦρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "170",
+      "text": "φιλίαν φίλου στέργοντος, {καὶ} οὐ τὰ χρήματα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "175",
+      "text": "Ὅταν φίλος σου κατὰ φίλου μέλλῃ λέγειν, μὴ τῷ λόγῳ πίστευε, ἀλλ’ αὐτὸν σκόπει. ὁ γὰρ προχείρως πρὸς σὲ διαβάλλων φίλον ταὐτὸν ποιήσει καὶ κατὰ σοῦ πρὸς 〈τὸν〉 φίλον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "180",
+      "text": "† ἐχθροὺς ἀπίστει τοὺς λέγοντας ἐν δόλῳ. †",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "185",
+      "text": "Τίς δ’ οὐχὶ θνητῶν ἐστι γινώσκων τάδε, ὡς πᾶς τις αὑτὸν τοῦ πέλας μᾶλλον φιλεῖ;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "190",
+      "text": "φέροντα κρυπτὴν ἔνδοθεν πονηρίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "195",
+      "text": "Μισῶ πένητα πλουσίῳ δωρούμενον· ἢ μωρός ἐστιν ἢ πλανᾶσθαι βούλεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "μυστήριόν σου ψευδὲς 〈αὐτῷ〉 προσανάθου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "205",
+      "text": "Γνώμην πονηρὰν εὐκόλως τρέφει γυνή. ὁ τρόπος γὰρ αὐτῆς † ἐγγυμνάζεται † κακοῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "210",
+      "text": "ὅτι ἀσπίδι προσπορίζει φάρμακα. †",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "215",
+      "text": "Ἐὰν γυνὴ γυναικὶ κατ’ ἰδίαν λαλῇ, μεγάλων κακῶν θησαυρὸς ἐξορύττεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "220",
+      "text": "ὁ θάνατος αὐτὴν πᾶσαν ἑλκύσει κάτω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "225",
+      "text": "Ἐὰν πένητα γυμνὸν ἐνδύσῃς ποτέ, οὐδὲν ἐποίησας, ἂν λόγοις ὀνειδίσῃς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "230",
+      "text": "Ἀνὴρ ὁπόταν γυναῖκα καταβλάψαι θέλῃ, θησαυρὸν ἐχέτω 〈πλούσιον〉 φρονημάτων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "235",
+      "text": "ὁ γὰρ σιωπῶν ἔνδον ἐγκρύπτει δόλον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "240",
+      "text": "Οἱ τῶν πενήτων ἐργατῶν ἀεὶ κόποι· εἰς τὰς τροφὰς χωροῦσι τὰς τῶν πλουσίων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "245",
+      "text": "οὗτος πέφυκε μέχρι τέλους τούτου φίλος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Καλὸν τὸ θνῄσκειν, οἷς ὕβριν τὸ ζῆν φέρει· † ζῇ γὰρ πονηρῶς καὶ τὸ φῶς βλέπει σκότος. †",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "255",
+      "text": "καιρῶν γάρ εἰσι μεταβολαὶ καὶ 〈τῆσ〉 τύχης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "260",
+      "text": "πρὸς τὴν παροῦσαν 〈πάντοθ’〉 ἁρμόζου τύχην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "265",
+      "text": "† Ἐλευθέρους δούλευε † κοὐχ ἕξεις δούλους· δυσὶ δούλευε καὶ νόμοις καὶ δεσπόταις. †",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "270",
+      "text": "θεὸν νόμιζε καὶ σέβου παντὶ σθένει· ὡς ὄντα τοῦτον καὶ παρόντ’ ἀεὶ σέβου, καὶ μήτ’ ἐρώτα μήτε μανθάνειν θέλε· οὐ γὰρ θέλω σε μανθάνειν, τί δὴ θεός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "275",
+      "text": "χειρότερός ἐστιν ὁ προδότης 〈ὁ〉 τῶν φίλων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "280",
+      "text": "Ὅσον διαφέρει τοῦ θανεῖν τὸ ζῆν καλῶς, τοσοῦθ’ ὁ θάνατος διαφέρει τοῦ ζῆν κακῶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "285",
+      "text": "† ἢ θεὸν εἶναί σε δεῖ, ἢ νεκρόν. †",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "290",
+      "text": "Μισῶ πένητα πλουσίῳ δωρούμενον· αὐτὸς γὰρ αὑτοῦ τὸν βίον λυμαίνεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "295",
+      "text": "κακῶς τε πλούτῳ καὶ τύχῃ γαυρούμενον, τούτου ταχεῖαν νέμεσιν εὐθὺς προσδόκα· ἐπαίρεταί {γὰρ} τις μεῖζον, ἵνα μεῖζον{ως} πέσῃ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "ὅ〈πο〉τε δ’ ἐγερθεὶς εἰς λόγους ἐλήλυθας, ἐφάνης χελώνης δέρμ’ ἔχων, φρένας δ’ ὄνου. ἀνδρὸς χαρακτὴρ ἐκ λόγου γνωρίζεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "305",
+      "text": "σιγῶν δοκεῖς μοι φρόνιμος εἶναι καὶ σοφός. τύπους γὰρ ὡς ἔοικε τῶν σοφῶν ἔχεις ὄνος πεφυκώς περ καὶ † σάγμ’ ἔχων μέγα. λάλησον, ἵνα μάθωμεν ὡς ἄνθρωπος εἶ. εἰ δ’ ἔτι σιωπᾶς, γέγονας ἀνθρώπου σκιά.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "310",
+      "text": "ἔνιοι γὰρ ὡς δοκοῦντες εὖ φρονεῖν μάλα πώγωνα περιφέρουσιν ἐξησκημένον † φορτίον ἄχρηστον κοὐ χρήσιμον. † εἰ γάρ τιν’ εἶχον δύναμιν αἱ πολλαὶ τρίχες,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "ΣΥΓΚΡΙΣΙΣ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Ὁ πᾶσιν ἀρέσας ἐν σοφοῖς ποιήμασιν, ὁ τοῦ βίου τὴν πρᾶξιν ἐπιδείξας σοφοῖς, Μένανδρος ὁ σοφὸς νῦν πάλιν παραινέσω, χαίρειν προ{σ}τάξας τοῖς ἀκούουσιν νέοις,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "ὅπως ἕκαστος † ἀκούων μου μανθάνῃ τὴν τοῦ βίου † εὐθεῖαν, ἣν ὑμῖν φράσω, παρηγορῶν ἕκαστον ἐς τὸ συμφέρον, ἔχων ἀγῶνα πρὸς Φιλιστίωνα νῦν, τὸν τερπνὸν καὶ φιλητὸν καὶ βιωφελῆ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "ἐκ τῶν κατὰ μέρος ἐκλεγέντων πραγμάτων. Ἀρξόμεθα λοιπὸν περὶ τύχης 〈λέγειν〉 σοφῶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "12t",
+      "text": "Μένανδρος. περὶ τύχης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12",
+      "text": "Ὅταν τις ἡμῶν † ἀμέριμνον † ἔχῃ τὸν βίον, οὐκ ἐπικαλεῖται τὴν τύχην εὐδαιμονῶν· ὅταν δὲ λύπαις περιπέσῃ καὶ πράγμασιν,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "εὐθὺς προσάπτει τῇ τύχῃ τὴν αἰτίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17A",
+      "text": ".............................. | μή",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18",
+      "text": "λύπει σεαυτὸν τοῦτο γιγνώσκων ὅτι, ὅταν ποτ’ ἀνθρώποισιν ἡ τύχη γελᾷ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20",
+      "text": "πάντων ἀφορμὴ τῶν καλῶν εὑρίσκεται· ὅταν δὲ δυστυχῇ τις, οὐδ’ εὐφραίνεται. ἅπαντα νικᾷ καὶ μεταστρέφει τύχη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "23t",
+      "text": "περὶ πενίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "23",
+      "text": "Πένης λέγων τἀληθὲς οὐ πιστεύεται. πένητος οὐδέν ἐστι δυστυχέστερον·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25",
+      "text": "ἅπαντα μοχθεῖ κἀγρυπνεῖ κἀργάζεται, ἵν’ ἄλλος ἐλθὼν μεταλάβῃ κεκτημένος· τῶν γὰρ πενήτων ἐργατῶν ἀεὶ πόν〈οι〉 〈εἰσ〉 τὰς τροφὰς χωροῦσι τὰ〈σ〉 τῶν πλουσίων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30",
+      "text": "κἂν σοφὸς ὑπάρχῃ, κἂν λέγῃ τὸ συμφέρον, δοκεῖ τι φράζειν τοῖς ἀκούουσιν κακῶς. τῶν γὰρ πενήτων πίστιν οὐκ ἔχει λόγος· ἀνὴρ δὲ πλουτῶν, κἂν ἄγαν ψευδηγορῇ, δοκεῖ τι φράζειν τοῖς ἀκούουσιν σαφές.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "35t",
+      "text": "περὶ γήρους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "35",
+      "text": "Ὦ γῆρας ἐχθρὸν σωμάτων ἀνθρωπίνων, ἅπαντα συλῶν 〈τὰ〉 καλὰ τῆς εὐμορφίας καὶ μεταχαράσσον τὴν μὲν ἀνδρίαν μελῶν εἰς 〈τ〉ἀπρεπές, τὸ δὲ τάχος εἰς ὄκνον πολύν, [ὁ νοῦς· ὅτι οὐκ ἔνεστιν δύναμις τοῦ σώματος·]",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "40",
+      "text": "φεύγει δὲ πάντα καὶ τὸ λαμπρὸν ὀμμάτων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "45",
+      "text": "μηδὲν ἐπερώτα· πάντα γὰρ κακῶς ἔχει. καλὸν τὸ θνῄσκειν ἔστιν † ἐπὶ τούτῳ λέγειν. μὴ νουθέτει γέρονθ’ ἁμαρτάνοντά τι· δένδρον παλαιὸν μεταφυτεύειν δύσκολον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "49t",
+      "text": "περὶ πλούτου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "49",
+      "text": "Αἰσχύνομαι πλουτοῦντι δωρεῖσθαι φίλῳ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "μή μ’ ἄφρονα κρίνῃ καὶ διδοὺς αἰτεῖν δοκῶ. μισῶ πένητα πλουσίῳ δωρούμενον· ἔλεγχός ἐστι τῆς ἀχορτάστου τύχης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "55",
+      "text": "κἂν μέχρι νεφέων τὴν ὀφρὺν ἀνασπάσῃς, ὁ θάνατος αὐτὴν πᾶσαν ἑλκύσει κάτω. κἂν μυρίων γῆς κύριος πηχῶν ἔσῃ, θανὼν γενήσῃ τάχα τριῶν ἢ τεσσάρων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "60",
+      "text": "φθόνον τ’ ἐπήρειάν τε καὶ μῖσος πολύ, πράγματά τε πολλὰ κἀνοχλήσεις μυρίας, πράξεις τε πολλὰς συλλογάς τε τοῦ βίου. ἔπειτα μετὰ ταῦτ’ εὐθὺς εὑρέθη θανών, ἄλλοις καταλιπὼν εἰς τρυφὴν τὴν οὐσίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "65",
+      "text": "ὅθεν πένεσθαι μᾶλλον ἡδέως ἔχω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "65A",
+      "text": "ἔχειν τε μέτρια κἀμέριμνον ζῆν βίον,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "66",
+      "text": "καὶ μήτ’ ἔχειν πλοῦτόν με μήτε πράγματα· πᾶς γὰρ πένης ὢν μεγάλα κερδαίνει κακά.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "68t",
+      "text": "περὶ θεῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "68",
+      "text": "Ὁ μὲν Ἐπίχαρμος τοὺς θεοὺς εἶναι λέγει ἀνέμους, ὕδωρ, γῆν, ἥλιον, πῦρ, ἀστέρας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "70",
+      "text": "ἐγὼ δ’ ὑπέλαβον χρησίμους εἶναι θεοὺς τἀργύριον ἡμῖν καὶ τὸ χρυσίον 〈μόνουσ〉.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "75",
+      "text": "φίλοι, δικασταί, μάρτυρες. μόνον δίδου· αὐτοὺς γὰρ ἕξεις τοὺς θεοὺς ὑπηρέτας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "80",
+      "text": "ὡς ὄντα τοῦτον καὶ παρόντ’ ἀεὶ σέβου. τίς ἐστιν, ὁ θεὸς οὐ θέλει σε μανθάνειν· ἀσεβεῖς τὸν οὐ θέλοντα μανθάνειν θέλων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "83t",
+      "text": "περὶ φίλου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "83",
+      "text": "Χρυσὸς μὲν οἶδεν ἐξελέγχεσθαι πυρί, ἡ δ’ ἐν φίλοις εὔνοια καιρῷ κρίνεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85",
+      "text": "καιρῷ τὸν εὐτυχοῦντα κολακεύων φίλος καιροῦ φίλος πέφυκεν, οὐχὶ τοῦ φίλου. ἀπόντι μᾶλλον εὐχαριστίαν ποίει· τῷ γὰρ παρόντι γίνετ’ εὐτονώτερον. μυστήριόν σου μὴ κατείπῃς τῷ φίλῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "90",
+      "text": "φρόνησιν ἀσκῶν ἄφροσιν μὴ χρῶ φίλοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "95",
+      "text": "μὴ λέγ’, ὅτι δώσεις, μὴ διδούς· ὁ γὰρ λέγων καὶ τὴν ἀπ’ ἄλλων ἐμποδίζεται δόσιν. καλῶς ποιήσας 〈κοὐ〉 καλῶς ὀνειδίσας ἔργον καθεῖλες πλούσιον πτωχῶν λόγῳ. καυχώμενος τὸ δῶρον, ὃ δέδωκας φίλῳ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "ἔργῳ στρατηγὸς γέγονας, ἐν λόγῳ φονεύς. ἂν γυμνὸν εὑρὼν πενιχρὸν ἐνδύσῃς 〈ποτέ, μᾶλλον ἀπέδυσασ〉 αὐτόν, ἂν ὀνειδίσῃς. ἐὰν τροφὴν δοὺς τὸν λαβόντ’ ὀνειδίσῃς, ἀψινθίῳ κατέπασας Ἀττικὸν μέλι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "105t",
+      "text": "περὶ πονηρίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "105",
+      "text": "Οὐ παντελῶς δεῖ τοῖς πονηροῖς ἐπιτρέπειν, ἀλλ’ ἀντιτάσσου, μὴ τἄνω κάτω γένητ’.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "110",
+      "text": "τοῦ δυστυχεῖν νόμιζε ς’ ἀρραβῶν’ ἔχειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "115t",
+      "text": "περὶ δούλου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "115",
+      "text": "Δούλῳ γενομένῳ, δοῦλε, δουλεύειν φοβοῦ. ἀμνημονεῖ γὰρ ταῦρος ἀργήσας ζυγοῦ. ἐλευθέρως δούλευε· δοῦλος οὐκ ἔσῃ. ἐλεύθερος πᾶς ἑνὶ δεδούλωται, νόμῳ, δυσὶν δὲ δοῦλος, καὶ νόμῳ καὶ δεσπότῃ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "120",
+      "text": "Πονηρὸς ἂν ᾖ δοῦλος, εὑρήσει δίκην· σὺ μὴ γενηθῇς τῆς δίκης προηγέτης. εἰς χεῖρα δοῦλον δεσπότῃ μὴ συμβάλῃς. κἂν δοῦλος ᾖ τις, σάρκα τὴν αὐτὴν ἔχει· φύσει γὰρ οὐδεὶς δοῦλος ἐγενήθη ποτὲ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "125",
+      "text": "ἀπὸ τοῦ πάλαι πλάσαντος ἀνθρώπων γένος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "130",
+      "text": "† ἡ ἐξ ἀρχόντων, νόμος, φίλοι. † ἡ δ’ 〈αὖ〉 τύχη τὸ σῶμα κατεδουλώσατο. 〈ἐλεύθερον〉 {δὲ} τὸ γένος ὑπάρχει τῇ φύσει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "133t",
+      "text": "περὶ γειτονίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "133",
+      "text": "Ἐὰν πονηροῦ γείτονος γείτων τύχῃς, πάντως παθεῖν πονηρὸν ἢ μαθεῖν σε δεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "135",
+      "text": "ἐὰν 〈ποτ’〉 ἀγαθοῦ γείτονος γείτων τύχῃς, ὡς προσδιδάσκεις ἀγαθὰ καὶ προσμανθάνεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "140",
+      "text": "〈καὶ〉 τέρπεται δρόσοισιν· {νεμόμενος} ἀλλ’ ὅταν ποτὲ δοκῇ τις αὐτῷ παρενοχλεῖν τῶν γειτόνων, ἀπέρχεθ’ οὕτως περιφέρων τὴν οἰκίαν νέμετ’ ἀμέριμνος τοὺς κακοὺς φεύγων ἀεί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "144t",
+      "text": "περὶ νόμου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "144",
+      "text": "Λόγος φυλαχθεὶς οὐδέν ἐστιν ἢ νόμος,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "145",
+      "text": "ὁ μὴ φυλαχθεὶς καὶ νόμος καὶ δήμιος. Νόμον φοβηθεὶς οὐ ταραχθήσει νόμῳ. μὴ πάσχε πρῶτον τὸν νόμον καὶ μάνθανε· πρὸ τοῦ παθεῖν σε τῷ φόβῳ προλαμβάνου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "οὐ γὰρ δυνήσῃ διαφυγεῖν ὅ σε δεῖ παθεῖν· 〈τὸ〉 πεπρωμένον γὰρ οὐ μόνον 〈πᾶσιν〉 βροτοῖς ἄφευκτόν ἐστιν, ἀλλὰ καὶ τοῖς οὐρανὸν | 〈ἔχουσι〉",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "153t",
+      "text": "Μενάνδρου παραινέσεις περὶ τοῦ\n\nτὸν πατέρα τιμᾶν καὶ τὴν μητέρα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "153",
+      "text": "Ὁ λοιδορῶν 〈τὸν〉 πατέρα δυσφημεῖ λόγῳ τὴν εἰς τὸ θεῖον 〈δὲ〉 μελετᾷ βλασφημίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "155",
+      "text": "ὁ μὴ τρέφων τεκοῦσαν ἐκ τέχνης νέος ἄκαρπός ἐστιν οὗτος ἀπὸ ῥίζης κλάδος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "157t",
+      "text": "περὶ γέλωτος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "157",
+      "text": "Ὁ μὴ γέλωτος ἄξιος 〈ὢν〉 ἂν ᾖ γέλως, αὐτὸς πέφυκε τοῦ γέλωτος κατάγελως. {ε}ἂν ἀγνοῶν τι παρά τινος θέλῃς μαθεῖν,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "160",
+      "text": "τὸ τοῦ μαθητοῦ πρῶτα τὴν σιγὴν ἔχειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "165",
+      "text": "εἴωθε πλεῖστον 〈καταγέλωτα προσφέρειν.〉",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "166t",
+      "text": "περὶ θανάτου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "166",
+      "text": "Ὅταν εἰδέναι θέλῃς σεαυτὸν ὅστις εἶ, ἔμβλεψον εἰς τὰ μνήμαθ’, ὡς ὁδοιπορεῖς. ἐνταῦθ’ ἔνεστ’ ὀστᾶ τε καὶ κούφη κόνις ἀνδρῶν βασιλέων καὶ τυράννων καὶ σοφῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "170",
+      "text": "καὶ μέγα φρονούντων ἐπὶ γένει καὶ χρήμασιν αὑτῶν τε δόξῃ κἀπὶ κάλλει σωμάτων. κᾆτ’ οὐδὲν αὐτοῖς τῶνδ’ ἐπήρκεσεν χρόνος· κοινὸν τὸν Ἅιδην ἔσχον οἱ πάντες βροτοί. πρὸς ταῦθ’ ὁρῶν γίνωσκε σαυτὸν ὅστις εἶ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "175",
+      "text": "Εἴ ποτέ τις ἡμῶν εἰς τὸν ἀγρὸν ἐξιὼν μνήματα παρέλθοι καὶ τάφους ἀνθρωπίνους, τούτων ἕκαστος ἔλεγεν· „εἰς ὥρας ἐγὼ πλεύσω, φυτεύσω, κτήσομαι 〈πολλοὺς ἀγρούσ〉, τὸν τοῖχον ἄρας πύργον ὑψηλὸν βαλῶ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "180",
+      "text": "προσοικοδομήσω τὰ παρακείμεν’ ἀγοράσων.“",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "182t",
+      "text": "περὶ λόγου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "182",
+      "text": "Λύπης ἰατρός ἐστιν ἀνθρώποις λόγος· ψυχῆς γὰρ οὗτος μόνος ἔχει κουφίσματα· λέγουσι δ’ αὐτὸν οἱ πάλαι σοφώτατοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "185",
+      "text": "ἀστεῖον εἶναι φάρμακον 〈λυπουμένῳ〉. † ἀλλ’ ὅταν κἀγὼ παραλημφθῶ εἰς λύπας ποτέ †, ὅταν δέ τις λόγοις με παραμυθήσεται, λόγοις με πείσας ἔσβεσεν λύπην ἐμήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "190",
+      "text": "ὡς σπληνίον πρὸς ἕλκος οἰκείως τεθὲν τὴν φλεγμονὴν ἔπαυσεν, οὕτω καὶ λόγος εὔκαιρος εἰς τὰ σπλάγχνα κολληθεὶς φίλων εὐψυχίαν παρέσχε τῷ λυπουμένῳ. ψυχῆς πόνος γὰρ ὑπὸ λόγου κουφίζεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "195t",
+      "text": "περὶ λύπης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "195",
+      "text": "Ἄνθρωπε, μὴ στέναζε, μὴ λυποῦ μάτην. μηδέποτε λύπῃ τεῖρε σὴν ψυχὴν κακῶς καταμεμφόμενος 〈τὰ τῆς τύχησ〉, φάσκων τάδε·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "ἅ σοι τύχη κέχρηκε, ταῦτ’ ἀφείλετο. ἄνθρωπος ὢν μηδέποτε τὴν ἀλυπίαν αἰτοῦ παρὰ θεῶν, ἀλλὰ 〈τὴν〉 μακροθυμίαν. ὅταν δ’ ἄλυπος διὰ τέλους εἶναι θέλῃς, ἢ δεῖ θεόν ς’ εἶναί τιν’ ἢ τάχα δὴ νεκρόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "205",
+      "text": "παρηγόρει δὲ τὰ κακὰ δι’ ἑτέρων κακῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "210",
+      "text": "ἐχθροὺς ποιοῦσι τοὺς φίλους αἱ συγκρίσεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "MENANDRI ET PHILISTIONIS\n\nDISTICHA PARISINA",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "† Γυναῖχ’ ὁ διδάσκων γράμματα καλῶς ἀσπίδι φοβερᾷ προσπορίζει φάρμακον. †",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "Καλὴν γυναῖκ’ ἐὰν ἴδῃς, μὴ θαυμάσῃς· τὸ γὰρ πολὺ κάλλος καὶ ψόγων πολλῶν γέμει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "γνώμῃ γὰρ ἰδίᾳ τὸ κακὸν ἡδέως ποιεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "Ὅταν τάφον † στεφανοῖς † κόσμῳ ποικίλῳ, τὸ ζῆν τὸ σαυτοῦ † στεφάνοις παρηγορεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20",
+      "text": "χρήσῃ γὰρ αὐτοῖς αἰσθόμενος μεθ’ ἡδονῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25",
+      "text": "Πράττων καλῶς μέμνησο τῆς δυσπραξίας· ὡς γὰρ τὸ πράττειν καὶ τὸ δυσπράττειν σκόπει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30",
+      "text": "νοσοῦντα σῴζων αὐτὸς ἀποθνῄσκει νοσῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "31",
+      "text": "βουλεύεται. † θνῄσκει ὁ θνῄσκων κατ’ ἰδίαν εἱμαρμένην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "35",
+      "text": "Ἐὰν ὁρῶν πένητα γυμνὸν † ἐνδύσῃς †, μᾶλλον ἀπέδυσας αὐτόν, ἂν ὀνειδίσῃς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "40",
+      "text": "πρὸς τὴν παροῦσαν πάντοθ’ ἁρμόζου τύχην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "45",
+      "text": "Μηδέποτε πειρῶ στρεβλὸν ὀρθῶσαι κλάδον, ἐκεῖ νένευκεν οὗ φύσις βιάζεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "γῆρας ψέγοντες καὶ μακρὸν χρόνον βίου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "55",
+      "text": "Οὐχ ἡ πόλις σου τὸ γένος εὐγενὲς ποιεῖ, σὺ δ’ εὐγενίζεις τὴν πόλιν πράσσων καλῶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "60",
+      "text": "αἱ τῶν φίλων γνῶμαι χρόνῳ γινώσκονται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Πολλῶν ὁ καιρὸς γίνεται παραίτιος· ἂν γὰρ μέγιστα κομπάσῃς φρονῶν μέγα, οὐκ οἶδας ὡς 〈τὰσ〉 μεταβολὰς πολλὰς ἔχει· ὃ νῦν δίδωσιν, οὐ δίδωσιν αὔριον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "χρόνος γὰρ οὐκ ἔσθ’ αὑτὸς ἀνθρώποις ἀεί. τὸν οὖν παρόντα καιρὸν ἂν ἅπαξ ἀφῇς, οὐκ ἔστιν αὐτὸν προσλαβεῖν πάλιν ταχύ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "πάλιν γὰρ ὄψει τῶν κακῶν περιτροπήν. ἀεὶ γὰρ ὁ χρόνος ὡς τροχὸς κυλίεται. 〈ὁ〉 καιρὸς ὁ τυχών ἐστιν ἀνθρώποις ἀεί, πᾶσιν γὰρ οὐ πέφυκεν ἀνθρώποις ἴσος. κέρδη γὰρ ἄλλοις χἠδονὰς θηρεύεται,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "ἄλλοις δὲ λύπας προσπορίζει καὶ βλάβας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20",
+      "text": "οὐ γὰρ θέλω σε μανθάνειν, τί δὴ θεός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25",
+      "text": "Ὁ δυσσεβῶν τι καὶ δοκῶν λαθεῖν θεόν, κολάζεθ’ οὗτος ὑπὸ συνειδότος θεοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30",
+      "text": "τὸ σῶμα κοσμῶν, ἀλλὰ τῷ φρονήματι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "35",
+      "text": "Πόντου, γυναικός, καύματος, θηρός, πυρὸς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "40",
+      "text": "αὐτὸς προπάσχει τοῦ κακοῦ τὴν ἔκβασιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "45",
+      "text": "Ἐάν ποτ’ ἀγαθοῦ γείτονος γείτων τύχῃς, ὡς προσδιδάσκεις ἀγαθὰ καὶ προσμανθάνεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "μετέρχεται τὸ δίκαιον ἐς πλεονεξίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "slg-ab",
+      "title": {
+        "english": "Sentences of Menander and Philistion",
+        "ancient_greek": "Γνῶμαι Μενάνδρου καὶ Φιλίστιωνος"
+      },
+      "url_slug": "menander-and-philistion-sentences-slg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-and-philistion/sentences",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-and-philistion-sentences-slg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-and-philistion-sentences-slg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-and-philistion-sentences-slg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-and-philistion-sentences-slg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-and-philistion/sentences.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "okg-bg",
+      "title": {
+        "english": "Comparison of Demetrius and Antony",
+        "ancient_greek": "Σύγκρισις Δημητρίου καὶ Ἀντωνίου"
+      },
+      "url_slug": "plutarch-of-chaeronea-demetrius-antony-okg-bg",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/demetrius-antony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demetrius-antony-okg-bg.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demetrius-antony-okg-bg.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demetrius-antony-okg-bg.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demetrius-antony-okg-bg.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/demetrius-antony.epub"
+      }
+    },
+    {
+      "eul_wid": "kkk-af",
+      "title": {
+        "english": "On Circumstances",
+        "ancient_greek": "Περὶ περιστάσεων"
+      },
+      "url_slug": "teles-of-megara-circumstances-kkk-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/teles-of-megara/circumstances",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-circumstances-kkk-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-circumstances-kkk-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-circumstances-kkk-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-circumstances-kkk-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/circumstances.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-ae",
+      "title": {
+        "english": "On Generation and Corruption",
+        "ancient_greek": "Περὶ Γενέσεως καὶ Φθορᾶς"
+      },
+      "url_slug": "aristotle-generation-corruption-hgw-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/generation-corruption",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-corruption-hgw-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-corruption-hgw-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-corruption-hgw-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-corruption-hgw-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/generation-corruption.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-bd",
+      "title": {
+        "english": "On the Heavens",
+        "ancient_greek": "Περὶ Οὐρανοῦ"
+      },
+      "url_slug": "aristotle-heavens-hgw-bd",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/heavens",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-heavens-hgw-bd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-heavens-hgw-bd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-heavens-hgw-bd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-heavens-hgw-bd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/heavens.epub"
+      }
+    },
+    {
+      "eul_wid": "btk-ab",
+      "title": {
+        "english": "On the Nature of Things",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "anaxagoras-of-clazomenae-nature-btk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/anaxagoras-of-clazomenae/nature",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxagoras-of-clazomenae-nature-btk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxagoras-of-clazomenae-nature-btk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxagoras-of-clazomenae-nature-btk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxagoras-of-clazomenae-nature-btk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxagoras-of-clazomenae/nature.epub"
+      }
+    },
+    {
+      "eul_wid": "ffk-ag",
+      "title": {
+        "english": "Republic",
+        "ancient_greek": "Πολιτεία"
+      },
+      "url_slug": "plato-republic-ffk-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/republic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-republic-ffk-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-republic-ffk-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-republic-ffk-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-republic-ffk-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/republic.epub"
+      }
+    },
+    {
+      "eul_wid": "frs-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "antisthenes-of-athens-i-testimonies-frs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/antisthenes-of-athens-i/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-i-testimonies-frs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-i-testimonies-frs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-i-testimonies-frs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-i-testimonies-frs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-i/testimonies.epub"
+      }
+    },
+    {
+      "eul_wid": "uqy-al",
+      "title": {
+        "english": "Theological Instruction",
+        "ancient_greek": "Θεολογικὴ Διδασκαλία"
+      },
+      "url_slug": "proclus-the-successor-theological-instruction-uqy-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/proclus-the-successor/theological-instruction",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-theological-instruction-uqy-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-theological-instruction-uqy-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-theological-instruction-uqy-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-theological-instruction-uqy-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/theological-instruction.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/menander-and-philistion/comparison",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-and-philistion-comparison-slg-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-and-philistion-comparison-slg-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-and-philistion-comparison-slg-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-and-philistion-comparison-slg-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-and-philistion/comparison.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,296 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "fxm-aa",
+  "eul_aid": "fxm",
+  "author_slug": "theognis-of-rhodes",
+  "work_slug": "swallow-festival",
+  "url_slug": "theognis-of-rhodes-swallow-festival-fxm-aa",
+  "author": {
+    "english": "Theognis of Rhodes",
+    "ancient_greek": "Θέογνις ὁ Ῥόδιος"
+  },
+  "title": {
+    "english": "On the Rhodian Swallow Festival",
+    "ancient_greek": "Ἀπόσπασμα"
+  },
+  "seo": {
+    "browser_title": "On the Rhodian Swallow Festival by Theognis on Eulogikon",
+    "meta_title": "On the Rhodian Swallow Festival by Theognis in Greek",
+    "meta_description": "A surviving fragment of lyric poetry by Theognis of Rhodes referencing a local festival. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects (frg)",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">On the Rhodian Swallow Festival is a fragmentary lyric poem attributed to Theognis of Rhodes. It documents and celebrates the Rhodian Swallow Festival, a spring ritual during which children would sing door-to-door to welcome the season and solicit gifts of food and wine. The surviving passages, preserved primarily through quotations in Athenaeus&#x27;s <strong>Deipnosophistae</strong>, capture the traditional call-and-response song performed by the children, which announces the swallow&#x27;s arrival and humorously threatens mischief if offerings are not provided. The work serves as a valuable literary record of this local folk custom, reflecting the Hellenistic poetic interest in regional traditions and rituals. It stands as a significant, though incomplete, example of how occasional poetry could immortalize communal and seasonal practices.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Athenaeus VIII: Καὶ χελιδονίζειν δὲ καλεῖται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "παρὰ Ῥοδίοις ἀγερμός",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τις ἄλλος, περὶ οὗ Θέογνίς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "φησιν ἐν δευτέρῳ Περὶ τῶν ἐν Ῥόδῳ θυσιῶν, γράφων οὕτως· «Εἶδος δέ τι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "τοῦ ἀγείρειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "χελιδονίζειν[ln_5]οἱ Ῥόδιοι καλοῦσιν, ὃ γίνεται τῷ Βοηδρομιῶνι μηνί. Χελιδονίζειν δὲ λέγεται διὰ τὸ εἰωθὸς ἐπιφωνεῖσθαι· [para]Ἦλθ’, ἦλθε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "χελιδὼν, [para]καλὰς ὥρας ἄγουσα, [para]καλοὺς ἐνιαυτοὺς,[ln_10]ἐπὶ γαστέρα λευκὰ, ἐπὶ νῶτα μέλαινα. Παλάθαν οὐ προκυκλεῖς ἐκ πίονος οἴκου, οἴνου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.8",
+      "text": "τε δέπαστρον,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_15]τυροῦ τε κάνιστρον καὶ πυρῶν; ἁ χελιδὼν καὶ λεκιθίταν οὐκ ἀπωθεῖται. Πότερ’ ἀπίωμες, ἢ λαβώμεθα; εἰ μέν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τι δώσεις· εἰ δὲ μὴ, οὐκ ἐάσομες·[ln_20]ἢ τὰν θύραν φέρωμες, ἢ θὑπέρθυρον, ἢ τὰν γυναῖκα τὰν ἔσω καθημέναν· μικρὰ μέν ἐστι, ῥᾳδίως μὶν οἴσομες. Ἐὰν φέρῃς δέ τι, μέγα δή τι καὶ φέροις. Ἄνοιγ’ ἄνοιγε τὰν θύραν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "χελιδόνι·[ln_25][para]οὐ γὰρ γέροντές ἐσμεν, ἀλλὰ παιδία. Τὸν δὲ ἀγερμὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "τοῦτον κατέδειξε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "πρῶτος Κλεόβουλος ὁ Λίνδιος ἐν Λίνδῳ χρείας γενομένης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "συλλογῆς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "χρη‐ μάτων.»",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "mvm-aa",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "boethus-of-tarsus-epigram-mvm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/boethus-of-tarsus/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-tarsus-epigram-mvm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-tarsus-epigram-mvm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-tarsus-epigram-mvm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-tarsus-epigram-mvm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-tarsus/epigram.epub"
+      }
+    },
+    {
+      "eul_wid": "cqc-ab",
+      "title": {
+        "english": "Erythraean Fragment of a Paean to Apollo",
+        "ancient_greek": "Ἐρυθραῖον Ἀπόσπασμα Παιᾶνος πρὸς Ἀπόλλωνα"
+      },
+      "url_slug": "paean-collection-anonymous-erythraean-fragment-cqc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/paean-collection-anonymous/erythraean-fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-erythraean-fragment-cqc-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-erythraean-fragment-cqc-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-erythraean-fragment-cqc-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-erythraean-fragment-cqc-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-fragment.epub"
+      }
+    },
+    {
+      "eul_wid": "lnq-aa",
+      "title": {
+        "english": "Fragments and Titles",
+        "ancient_greek": "Ἀποσπάσματα καὶ Τίτλοι"
+      },
+      "url_slug": "numenius-of-heraclea-fragments-lnq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/numenius-of-heraclea/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/numenius-of-heraclea-fragments-lnq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/numenius-of-heraclea-fragments-lnq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/numenius-of-heraclea-fragments-lnq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/numenius-of-heraclea-fragments-lnq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/numenius-of-heraclea/fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "brw-ab",
+      "title": {
+        "english": "Fragments of Victory Odes",
+        "ancient_greek": "Ἀποσπάσματα Νικῶν Ὠδῶν"
+      },
+      "url_slug": "bacchylides-of-ceos-victory-odes-ab-brw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/victory-odes-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-victory-odes-ab-brw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-victory-odes-ab-brw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-victory-odes-ab-brw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-victory-odes-ab-brw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/victory-odes-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "asw-aa",
+      "title": {
+        "english": "Fragments on the Trojan War",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Τρωικοῦ Πολέμου"
+      },
+      "url_slug": "ibycus-of-rhegium-trojan-war-aa-asw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ibycus-of-rhegium/trojan-war-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ibycus-of-rhegium-trojan-war-aa-asw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ibycus-of-rhegium-trojan-war-aa-asw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ibycus-of-rhegium-trojan-war-aa-asw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ibycus-of-rhegium-trojan-war-aa-asw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ibycus-of-rhegium/trojan-war-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "upu-an",
+      "title": {
+        "english": "Hymn 27 To Artemis",
+        "ancient_greek": "Ὕμνος εἰς Ἄρτεμιν"
+      },
+      "url_slug": "homeric-hymns-anonymous-artemis-an-upu-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/artemis-an",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-artemis-an-upu-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-artemis-an-upu-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-artemis-an-upu-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-artemis-an-upu-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/artemis-an.epub"
+      }
+    },
+    {
+      "eul_wid": "apu-ab",
+      "title": {
+        "english": "Hymn to Aphrodite",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "sappho-of-lesbos-hymn-aphrodite-apu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/sappho-of-lesbos/hymn-aphrodite",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-hymn-aphrodite-apu-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-hymn-aphrodite-apu-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-hymn-aphrodite-apu-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-hymn-aphrodite-apu-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos/hymn-aphrodite.epub"
+      }
+    },
+    {
+      "eul_wid": "idy-aa",
+      "title": {
+        "english": "Tarpeia Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "simylus-the-comic-poet-tarpeia-fragments-idy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/simylus-the-comic-poet/tarpeia-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-comic-poet-tarpeia-fragments-idy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-comic-poet-tarpeia-fragments-idy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-comic-poet-tarpeia-fragments-idy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-comic-poet-tarpeia-fragments-idy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-comic-poet/tarpeia-fragments.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/theognis-of-rhodes/swallow-festival",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-rhodes-swallow-festival-fxm-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-rhodes-swallow-festival-fxm-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-rhodes-swallow-festival-fxm-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-rhodes-swallow-festival-fxm-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-rhodes/swallow-festival.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

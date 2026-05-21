@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "vae",
+  "auth_slug": "john-malalas-of-antioch",
+  "name": {
+    "english": "John Malalas of Antioch",
+    "ancient_greek": "Ἰωάννης ὁ Μαλάλας Ἀντιοχεύς"
+  },
+  "seo_h1": "John Malalas of Antioch and the Universal Chronicle",
+  "seo": {
+    "browser_title": "John Malalas of Antioch on Eulogikon Greek Archive",
+    "meta_title": "The John Malalas Ancient Greek Chronicle and Works",
+    "meta_description": "John Malalas was a 6th century CE historian from Antioch. His works include the Chronographia. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">John Malalas of Antioch was a 6th-century CE Greek chronicler. His name likely derives from the Syriac word for &quot;rhetor.&quot; He is identified as a grammatikos and possibly served as a high-ranking civil servant in Antioch. He lived primarily in that city, though he may have moved later to Constantinople. His work demonstrates knowledge of events extending into the 560s CE during the reign of Emperor Justinian I.</p>\n<p class=\"research-text\">His only surviving work is the <strong>Chronographia</strong>, an 18-book world chronicle spanning from the Biblical creation to approximately 563 or 564 CE. Written in vernacular Koine Greek, it is a foundational text for late antique historiography and popular culture. The chronicle preserves crucial local Antiochene traditions and provides a vital contemporary narrative for the reign of Justinian. It was extremely influential, serving as a major source for later Byzantine chroniclers and being translated into Old Church Slavonic and Georgian.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 3,
+  "works": [
+    {
+      "eul_wid": "vae-aa",
+      "title": {
+        "english": "Chronicle",
+        "ancient_greek": "Χρονολογικόν"
+      },
+      "url_slug": "john-malalas-of-antioch-chronicle-vae-aa",
+      "passages": 18,
+      "links": {
+        "html": "https://eulogikon.org/grc/john-malalas-of-antioch/chronicle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch-chronicle-vae-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch-chronicle-vae-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch-chronicle-vae-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch-chronicle-vae-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch/chronicle.epub"
+      }
+    },
+    {
+      "eul_wid": "vae-ac",
+      "title": {
+        "english": "Chronography",
+        "ancient_greek": "Χρονογραφία"
+      },
+      "url_slug": "john-malalas-of-antioch-chronography-ac-vae-ac",
+      "passages": 474,
+      "links": {
+        "html": "https://eulogikon.org/grc/john-malalas-of-antioch/chronography-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch-chronography-ac-vae-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch-chronography-ac-vae-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch-chronography-ac-vae-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch-chronography-ac-vae-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch/chronography-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "vae-ab",
+      "title": {
+        "english": "Chronography, Selections",
+        "ancient_greek": "Χρονογραφία"
+      },
+      "url_slug": "john-malalas-of-antioch-chronography-ab-vae-ab",
+      "passages": 12,
+      "links": {
+        "html": "https://eulogikon.org/grc/john-malalas-of-antioch/chronography-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch-chronography-ab-vae-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch-chronography-ab-vae-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch-chronography-ab-vae-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch-chronography-ab-vae-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch/chronography-ab.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/john-malalas-of-antioch",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/john-malalas-of-antioch-vae.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/john-malalas-of-antioch-vae.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/john-malalas-of-antioch-vae.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/john-malalas-of-antioch-vae.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

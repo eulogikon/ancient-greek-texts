@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "fpu",
+  "auth_slug": "monimus-of-syracuse",
+  "name": {
+    "english": "Monimus of Syracuse",
+    "ancient_greek": "Μόνιμος ὁ Συρακόσιος"
+  },
+  "seo_h1": "Monimus of Syracuse and the Cynic Rejection of Convention",
+  "seo": {
+    "browser_title": "Monimus of Syracuse on Eulogikon Greek Archive and Library",
+    "meta_title": "Monimus of Syracuse Ancient Greek Philosophical Works",
+    "meta_description": "Monimus of Syracuse, a 4th century BCE Cynic philosopher. Surviving fragments of his treatise. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (phi, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Cynic",
+      "href": "/affiliations/cynic"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Monimus of Syracuse was a Cynic philosopher active in the 4th century BCE. Originally a household slave in Corinth, he reportedly feigned madness to gain his freedom, a story that aligns with the Cynic rejection of social conventions. He became a pupil of the famous Cynic Diogenes and was also associated with Crates of Thebes. Some accounts suggest he first studied with the Pythagorean Philolaus, but this connection is less certain.</p>\n<p class=\"research-text\">His writings are lost and known only through later references. He is credited with a treatise On Impulses and a poetic work of Exhortatory Philosophy. According to modern scholars, the titles and surviving fragments indicate his style mixed serious philosophical argument with satirical humor, which was characteristic of the Cynic school.</p>\n<p class=\"research-text\">Monimus is a minor but historically attested figure in early Cynicism. His significance lies in his association with major Cynic thinkers and as an example of the philosophy’s spread. His few surviving sayings, such as “All is vanity,” emphasize core Cynic themes: the worthlessness of mere opinion and the pursuit of virtue through a simple, self-sufficient life. His personal story, from slavery to philosophy, came to exemplify the Cynic ideal of finding true freedom by abandoning societal norms.</p>\n</div>",
+  "affiliation_label": "Cynic",
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "fpu-aa",
+      "title": {
+        "english": "Cynic Maxims and Sayings",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "monimus-of-syracuse-maxims-sayings-fpu-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/monimus-of-syracuse/maxims-sayings",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/monimus-of-syracuse-maxims-sayings-fpu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/monimus-of-syracuse-maxims-sayings-fpu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/monimus-of-syracuse-maxims-sayings-fpu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/monimus-of-syracuse-maxims-sayings-fpu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/monimus-of-syracuse/maxims-sayings.epub"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "frs",
+      "name": {
+        "english": "Antisthenes of Athens I",
+        "ancient_greek": "Ἀντισθένης ὁ Ἀθηναῖος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/antisthenes-of-athens-i",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antisthenes-of-athens-i-frs.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antisthenes-of-athens-i-frs.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antisthenes-of-athens-i-frs.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antisthenes-of-athens-i-frs.en.json"
+      }
+    },
+    {
+      "eul_aid": "dhu",
+      "name": {
+        "english": "Antisthenes of Athens II",
+        "ancient_greek": "Ἀντισθένης ὁ Ἀθηναῖος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/antisthenes-of-athens-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antisthenes-of-athens-ii-dhu.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antisthenes-of-athens-ii-dhu.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antisthenes-of-athens-ii-dhu.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antisthenes-of-athens-ii-dhu.en.json"
+      }
+    },
+    {
+      "eul_aid": "hks",
+      "name": {
+        "english": "Bion of Borysthenes",
+        "ancient_greek": "Βίων ὁ Βορυσθενίτης"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/bion-of-borysthenes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/bion-of-borysthenes-hks.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/bion-of-borysthenes-hks.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/bion-of-borysthenes-hks.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/bion-of-borysthenes-hks.en.json"
+      }
+    },
+    {
+      "eul_aid": "gwc",
+      "name": {
+        "english": "Crates of Thebes I",
+        "ancient_greek": "Κράτης ὁ Θηβαῖος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/crates-of-thebes-i",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crates-of-thebes-i-gwc.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crates-of-thebes-i-gwc.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crates-of-thebes-i-gwc.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crates-of-thebes-i-gwc.en.json"
+      }
+    },
+    {
+      "eul_aid": "ogu",
+      "name": {
+        "english": "Demonax of Cyprus",
+        "ancient_greek": "Δημώναξ ὁ Κύπριος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/demonax-of-cyprus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demonax-of-cyprus-ogu.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demonax-of-cyprus-ogu.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demonax-of-cyprus-ogu.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demonax-of-cyprus-ogu.en.json"
+      }
+    },
+    {
+      "eul_aid": "fak",
+      "name": {
+        "english": "Diogenes of Sinope",
+        "ancient_greek": "Διογένης ὁ Σινωπεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/diogenes-of-sinope",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-sinope-fak.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-sinope-fak.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-sinope-fak.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-sinope-fak.en.json"
+      }
+    },
+    {
+      "eul_aid": "ejm",
+      "name": {
+        "english": "Diotogenes the Philosopher",
+        "ancient_greek": "Διοτογένης ὁ φιλόσοφος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/diotogenes-the-philosopher",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diotogenes-the-philosopher-ejm.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diotogenes-the-philosopher-ejm.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diotogenes-the-philosopher-ejm.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diotogenes-the-philosopher-ejm.en.json"
+      }
+    },
+    {
+      "eul_aid": "pak",
+      "name": {
+        "english": "Oenomaus of Gadara",
+        "ancient_greek": "Οἰνόμαος ὁ Γαδαρεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/oenomaus-of-gadara",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/oenomaus-of-gadara-pak.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/oenomaus-of-gadara-pak.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/oenomaus-of-gadara-pak.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/oenomaus-of-gadara-pak.en.json"
+      }
+    },
+    {
+      "eul_aid": "pzk",
+      "name": {
+        "english": "Secundus the Silent",
+        "ancient_greek": "Σεκούνδος ὁ Σιωπηλός"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/secundus-the-silent",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/secundus-the-silent-pzk.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/secundus-the-silent-pzk.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/secundus-the-silent-pzk.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/secundus-the-silent-pzk.en.json"
+      }
+    },
+    {
+      "eul_aid": "kkk",
+      "name": {
+        "english": "Teles of Megara",
+        "ancient_greek": "Τέλης ὁ Μεγαρεύς"
+      },
+      "work_count": 8,
+      "links": {
+        "html": "https://eulogikon.org/en/teles-of-megara",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/teles-of-megara-kkk.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/teles-of-megara-kkk.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/teles-of-megara-kkk.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/teles-of-megara-kkk.en.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/monimus-of-syracuse",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/monimus-of-syracuse-fpu.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/monimus-of-syracuse-fpu.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/monimus-of-syracuse-fpu.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/monimus-of-syracuse-fpu.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

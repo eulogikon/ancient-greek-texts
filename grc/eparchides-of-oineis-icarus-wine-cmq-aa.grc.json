@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "cmq-aa",
+  "eul_aid": "cmq",
+  "author_slug": "eparchides-of-oineis",
+  "work_slug": "icarus-wine",
+  "url_slug": "eparchides-of-oineis-icarus-wine-cmq-aa",
+  "author": {
+    "english": "Eparchides of Oineis",
+    "ancient_greek": "Ἐπαρχίδης ὁ Οἰνηΐτης"
+  },
+  "title": {
+    "english": "Fragments on Icarus and Wine",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ἰκάρου καὶ Οἴνου"
+  },
+  "seo": {
+    "browser_title": "Fragments of Eparchides of Oineis on Eulogikon Archive",
+    "meta_title": "Fragments by Eparchides of Oineis in Ancient Greek",
+    "meta_description": "Fragments by Eparchides of Oineis on Icarus and wine. Surviving Greek prose text from antiquity. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Icarus and Wine</strong> by Eparchides of Oineis is a lost prose work, classified among the fragmentary Greek historians. Known only by its title, it is cited by later authors for specific information. The Suda, a 10th-century Byzantine encyclopedia, records the title but provides no direct quotations, leaving the work’s content irrecoverable. The title indicates the work contained at least two distinct subjects: Icarus, likely addressing the mythological figure or the Aegean island associated with him, and wine, concerning its cultural role in Greek society. This combination suggests the text was a collection of historical or antiquarian notes, possibly connecting these topics to local Attic history, given that “Oineis” in the author’s name denotes an Athenian deme. The work is completely lost, and its existence is preserved solely as a title in the Suda’s entry on Eparchides. No direct fragments or quotations from it survive in the extant ancient corpus. While its direct influence is untraceable, the work’s recorded title contributes to the modern understanding of the range of Hellenistic or later Greek antiquarian writing. It exemplifies the production of specialized, local historical studies that were known to later Byzantine compilers.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1a",
+      "text": "Athenaeus II: Ἐπαρχίδης Εὐριπίδην φησὶ, τὸν ποιητὴν, ἐπιδημῆσαι τῇ Ἰκάρῳ, καὶ, γυναικός τινος μετὰ τέκνων κατὰ τοὺς ἀγροὺς, δύο μὲν ἀρρένων τελείων, μιᾶς δὲ παρθένου, φαγούσης θανασίμους μύ κητας, καὶ ἀποπνιγείσης μετὰ τῶν τέκνων, ποιῆσαι τουτὶ τὸ ἐπίγραμμα· Ὦ, τὸν ἀγήραντον πόλον αἰθέρος, ἥλιε, τέμνων, ἆρ’ εἶδες τοιόνδ’ ὄμματι πρόσθε πάθος; μητέρα παρθενικήν τε κόρην δισσούς τε συναίμους ἐν ταὐτῷ φέγγει μοιριδίῳ φθιμένους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1b",
+      "text": "Idem I: Γίνεται δὲ ἐν Ἰκάρῳ, φησὶν Ἐπαρχίδη ς , ὁ Πράμνιος. Ἔστι δὲ οὗτος γένος τι οἴνου· καὶ ἔστιν οὗτος οὔτε γλυκὺς οὔτε παχὺς, ἀλλ’ αὐστηρὸς καὶ σκληρὸς, καὶ δύναμιν ἔχων διαφέρου σαν ... Ἐκαλεῖτο δὲ ἡ Ἴκαρος πρότερον Ἰχθυόεσσα, διὰ τὸ ἐν αὐτῇ τῶν ἰχθύων πλῆθος, ὡς καὶ Ἐχινάδες ἀπὸ τῶν ἐχίνων, καὶ Σηπιὰς ἄκρα ἀπὸ τῶν περὶ αὐτὴν σηπιῶν, etc ... Προσαγορεύεται δὲ, φησὶν Ἐπαρχίδης, ἡ ἄμπελος ἡ τὸν Ἰκάριον Πράμνιον φέ ρουσα ὑπὸ τῶν ξένων μὲν ἱερ ὰ, ὑπὸ δὲ τῶν Οἰνοαίων Διονυσιάς. Οἰνόη δὲ πόλις ἐν τῇ νήσῳ ἐστί.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "mmg-aw",
+      "title": {
+        "english": "Eupatridae Ancestry",
+        "ancient_greek": "Εὐπατριδῶν πάτρια"
+      },
+      "url_slug": "historical-fragments-anonymous-eupatridae-mmg-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/eupatridae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-eupatridae-mmg-aw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-eupatridae-mmg-aw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-eupatridae-mmg-aw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-eupatridae-mmg-aw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/eupatridae.epub"
+      }
+    },
+    {
+      "eul_wid": "pqe-aa",
+      "title": {
+        "english": "Fragments on Cities",
+        "ancient_greek": "Ἀποσπάσματα περὶ Πόλεων"
+      },
+      "url_slug": "pausanias-the-periegete-cities-pqe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pausanias-the-periegete/cities",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pausanias-the-periegete-cities-pqe-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pausanias-the-periegete-cities-pqe-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pausanias-the-periegete-cities-pqe-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pausanias-the-periegete-cities-pqe-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pausanias-the-periegete/cities.epub"
+      }
+    },
+    {
+      "eul_wid": "iwk-aa",
+      "title": {
+        "english": "Fragments on Geography",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γεωγραφίας"
+      },
+      "url_slug": "demetrius-of-callatis-geography-iwk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/demetrius-of-callatis/geography",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-callatis-geography-iwk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-callatis-geography-iwk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-callatis-geography-iwk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-callatis-geography-iwk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-callatis/geography.epub"
+      }
+    },
+    {
+      "eul_wid": "gea-aa",
+      "title": {
+        "english": "On the Daphne Festivals",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "protagorides-the-historian-daphne-festivals-gea-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/protagorides-the-historian/daphne-festivals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagorides-the-historian-daphne-festivals-gea-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagorides-the-historian-daphne-festivals-gea-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagorides-the-historian-daphne-festivals-gea-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagorides-the-historian-daphne-festivals-gea-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagorides-the-historian/daphne-festivals.epub"
+      }
+    },
+    {
+      "eul_wid": "mmg-ax",
+      "title": {
+        "english": "On the Parthian War",
+        "ancient_greek": "Περὶ τοῦ Παρθικοῦ Πολέμου"
+      },
+      "url_slug": "historical-fragments-anonymous-parthian-war-mmg-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/parthian-war",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-parthian-war-mmg-ax.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-parthian-war-mmg-ax.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-parthian-war-mmg-ax.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-parthian-war-mmg-ax.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/parthian-war.epub"
+      }
+    },
+    {
+      "eul_wid": "lqs-aa",
+      "title": {
+        "english": "On the Temple at Ephesus",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "democritus-of-ephesus-temple-lqs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/democritus-of-ephesus/temple",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-ephesus-temple-lqs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-ephesus-temple-lqs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-ephesus-temple-lqs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-ephesus-temple-lqs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-ephesus/temple.epub"
+      }
+    },
+    {
+      "eul_wid": "rhq-ai",
+      "title": {
+        "english": "Roman Histories, Version 2 in Volume 2",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-roman-histories-2-rhq-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-roman-histories-2-rhq-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-roman-histories-2-rhq-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-roman-histories-2-rhq-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-roman-histories-2-rhq-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-2.epub"
+      }
+    },
+    {
+      "eul_wid": "sos-ab",
+      "title": {
+        "english": "Works of Libanius",
+        "ancient_greek": "Λιβανίου Ἔργα"
+      },
+      "url_slug": "eunapius-of-sardis-works-sos-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/eunapius-of-sardis/works",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eunapius-of-sardis-works-sos-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eunapius-of-sardis-works-sos-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eunapius-of-sardis-works-sos-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eunapius-of-sardis-works-sos-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eunapius-of-sardis/works.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/eparchides-of-oineis/icarus-wine",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eparchides-of-oineis-icarus-wine-cmq-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eparchides-of-oineis-icarus-wine-cmq-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eparchides-of-oineis-icarus-wine-cmq-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eparchides-of-oineis-icarus-wine-cmq-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eparchides-of-oineis/icarus-wine.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

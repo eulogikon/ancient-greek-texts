@@ -1,0 +1,362 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ndy",
+  "auth_slug": "dionysius-of-halicarnassus",
+  "name": {
+    "english": "Dionysius of Halicarnassus",
+    "ancient_greek": "Διονύσιος ὁ Ἁλικαρνασσεύς"
+  },
+  "seo_h1": "Dionysius of Halicarnassus on the Ancient Orators",
+  "seo": {
+    "browser_title": "Dionysius of Halicarnassus on Eulogikon Greek Archive",
+    "meta_title": "Classical Dionysius of Halicarnassus Ancient Greek History",
+    "meta_description": "Dionysius of Halicarnassus, 1st century BCE historian. Works include historical orations and essays. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Dionysius of Halicarnassus was a Greek historian, rhetorician, and literary critic who lived and worked in Rome during the late 1st century BCE. He arrived around 30 BCE and spent over two decades there, teaching rhetoric and researching Roman history. His position allowed him to act as a cultural intermediary, interpreting Roman history for a Greek audience while teaching Greek rhetorical arts to the Roman elite.</p>\n<p class=\"research-text\">His most significant work is the Roman Antiquities, a 20-book history of Rome from its origins to 264 BCE, of which roughly half survives. His critical treatises, including On the Ancient Orators, On Thucydides, and On the Arrangement of Words, exemplify his commitment to Attic style and provide foundational analysis of classical oratory and historiography.</p>\n<p class=\"research-text\">Dionysius is a crucial primary source for early Roman history, offering a detailed, pro-Roman narrative aimed at reconciling Greek audiences to Roman rule. As a leading proponent of Atticism, his literary criticism established influential principles of rhetorical theory and style.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 18,
+  "works": [
+    {
+      "eul_wid": "ndy-aq",
+      "title": {
+        "english": "Chronological Fragments on Rome",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ῥώμης Χρονολογικά"
+      },
+      "url_slug": "dionysius-of-halicarnassus-chronological-rome-ndy-aq",
+      "passages": 11,
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/chronological-rome",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-chronological-rome-ndy-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-chronological-rome-ndy-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-chronological-rome-ndy-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-chronological-rome-ndy-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/chronological-rome.epub"
+      }
+    },
+    {
+      "eul_wid": "ndy-ai",
+      "title": {
+        "english": "Isaeus the Athenian",
+        "ancient_greek": "Ἰσαῖος Ἀθηναῖος"
+      },
+      "url_slug": "dionysius-of-halicarnassus-isaeus-ndy-ai",
+      "passages": 23,
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/isaeus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-isaeus-ndy-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-isaeus-ndy-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-isaeus-ndy-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-isaeus-ndy-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/isaeus.epub"
+      }
+    },
+    {
+      "eul_wid": "ndy-ag",
+      "title": {
+        "english": "Isocrates the Athenian",
+        "ancient_greek": "Ἰσοκρατης Ἀθηναῖος"
+      },
+      "url_slug": "dionysius-of-halicarnassus-isocrates-ndy-ag",
+      "passages": 27,
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/isocrates",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-isocrates-ndy-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-isocrates-ndy-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-isocrates-ndy-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-isocrates-ndy-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/isocrates.epub"
+      }
+    },
+    {
+      "eul_wid": "ndy-ak",
+      "title": {
+        "english": "Letter to Ammaeus",
+        "ancient_greek": "Ἐπιστολὴ πρὸς Ἀμμαῖον"
+      },
+      "url_slug": "dionysius-of-halicarnassus-ammaeus-ndy-ak",
+      "passages": 16,
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/ammaeus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-ammaeus-ndy-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-ammaeus-ndy-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-ammaeus-ndy-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-ammaeus-ndy-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/ammaeus.epub"
+      }
+    },
+    {
+      "eul_wid": "ndy-aj",
+      "title": {
+        "english": "Letter to Pompeius",
+        "ancient_greek": "Ἐπιστολὴ πρὸς Πομπήιον"
+      },
+      "url_slug": "dionysius-of-halicarnassus-pompeius-ndy-aj",
+      "passages": 62,
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/pompeius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-pompeius-ndy-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-pompeius-ndy-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-pompeius-ndy-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-pompeius-ndy-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/pompeius.epub"
+      }
+    },
+    {
+      "eul_wid": "ndy-ac",
+      "title": {
+        "english": "Lysias the Syracusan by Descent",
+        "ancient_greek": "Λυσίας συρακούσιος πατρόθεν"
+      },
+      "url_slug": "dionysius-of-halicarnassus-lysias-syracusan-ndy-ac",
+      "passages": 38,
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/lysias-syracusan",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-lysias-syracusan-ndy-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-lysias-syracusan-ndy-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-lysias-syracusan-ndy-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-lysias-syracusan-ndy-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/lysias-syracusan.epub"
+      }
+    },
+    {
+      "eul_wid": "ndy-an",
+      "title": {
+        "english": "On Deinarchus",
+        "ancient_greek": "Περὶ Δεινάρχου"
+      },
+      "url_slug": "dionysius-of-halicarnassus-deinarchus-ndy-an",
+      "passages": 18,
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/deinarchus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-deinarchus-ndy-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-deinarchus-ndy-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-deinarchus-ndy-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-deinarchus-ndy-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/deinarchus.epub"
+      }
+    },
+    {
+      "eul_wid": "ndy-ap",
+      "title": {
+        "english": "On Imitation",
+        "ancient_greek": "Περὶ Μιμήσεως"
+      },
+      "url_slug": "dionysius-of-halicarnassus-imitation-ndy-ap",
+      "passages": 26,
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/imitation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-imitation-ndy-ap.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-imitation-ndy-ap.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-imitation-ndy-ap.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-imitation-ndy-ap.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/imitation.epub"
+      }
+    },
+    {
+      "eul_wid": "ndy-ah",
+      "title": {
+        "english": "On the Ancient Orators",
+        "ancient_greek": "Περὶ τῶν ἀρχαίων ῥητόρων"
+      },
+      "url_slug": "dionysius-of-halicarnassus-ancient-orators-ndy-ah",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/ancient-orators",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-ancient-orators-ndy-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-ancient-orators-ndy-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-ancient-orators-ndy-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-ancient-orators-ndy-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/ancient-orators.epub"
+      }
+    },
+    {
+      "eul_wid": "ndy-ad",
+      "title": {
+        "english": "On the Composition of Names",
+        "ancient_greek": "Περὶ συνθέσεως ὀνομάτων"
+      },
+      "url_slug": "dionysius-of-halicarnassus-composition-names-ndy-ad",
+      "passages": 67,
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/composition-names",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-composition-names-ndy-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-composition-names-ndy-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-composition-names-ndy-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-composition-names-ndy-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/composition-names.epub"
+      }
+    },
+    {
+      "eul_wid": "ndy-ae",
+      "title": {
+        "english": "On the Composition of Words",
+        "ancient_greek": "Περὶ Συνθέσεως Λέξεων"
+      },
+      "url_slug": "dionysius-of-halicarnassus-composition-words-ndy-ae",
+      "passages": 39,
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/composition-words",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-composition-words-ndy-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-composition-words-ndy-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-composition-words-ndy-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-composition-words-ndy-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/composition-words.epub"
+      }
+    },
+    {
+      "eul_wid": "ndy-ab",
+      "title": {
+        "english": "On the Idioms of Thucydides to Ammonius",
+        "ancient_greek": "Περὶ τῶν Θουκιδίδου ἰδιωμάτων πρὸς Ἀμμαῖον"
+      },
+      "url_slug": "dionysius-of-halicarnassus-idioms-ammonius-ndy-ab",
+      "passages": 18,
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/idioms-ammonius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-idioms-ammonius-ndy-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-idioms-ammonius-ndy-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-idioms-ammonius-ndy-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-idioms-ammonius-ndy-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/idioms-ammonius.epub"
+      }
+    },
+    {
+      "eul_wid": "ndy-af",
+      "title": {
+        "english": "On the Style of Demosthenes",
+        "ancient_greek": "Περί της Δημοσθένους λέξεως"
+      },
+      "url_slug": "dionysius-of-halicarnassus-demosthenes-style-ndy-af",
+      "passages": 81,
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/demosthenes-style",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-demosthenes-style-ndy-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-demosthenes-style-ndy-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-demosthenes-style-ndy-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-demosthenes-style-ndy-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/demosthenes-style.epub"
+      }
+    },
+    {
+      "eul_wid": "ndy-ao",
+      "title": {
+        "english": "On Thucydides",
+        "ancient_greek": "Περὶ Θουκιδίδου"
+      },
+      "url_slug": "dionysius-of-halicarnassus-thucydides-ndy-ao",
+      "passages": 68,
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/thucydides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-thucydides-ndy-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-thucydides-ndy-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-thucydides-ndy-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-thucydides-ndy-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/thucydides.epub"
+      }
+    },
+    {
+      "eul_wid": "ndy-aa",
+      "title": {
+        "english": "Remains of the Second Book-Ancient Orators",
+        "ancient_greek": "Λείψανα Βιβλίου Δευτέρου περὶ ἀρχαίων ῥητόρων"
+      },
+      "url_slug": "dionysius-of-halicarnassus-second-book-orators-ndy-aa",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/second-book-orators",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-second-book-orators-ndy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-second-book-orators-ndy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-second-book-orators-ndy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-second-book-orators-ndy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/second-book-orators.epub"
+      }
+    },
+    {
+      "eul_wid": "ndy-am",
+      "title": {
+        "english": "Rhetorical Art",
+        "ancient_greek": "Ῥητορικὴ Τέχνη"
+      },
+      "url_slug": "dionysius-of-halicarnassus-rhetoric-ndy-am",
+      "passages": 121,
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/rhetoric",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-rhetoric-ndy-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-rhetoric-ndy-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-rhetoric-ndy-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-rhetoric-ndy-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/rhetoric.epub"
+      }
+    },
+    {
+      "eul_wid": "ndy-al",
+      "title": {
+        "english": "Roman Antiquities",
+        "ancient_greek": "Ῥωμαϊκὴ Ἀρχαιολογία"
+      },
+      "url_slug": "dionysius-of-halicarnassus-roman-antiquities-ndy-al",
+      "passages": 952,
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/roman-antiquities",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-roman-antiquities-ndy-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-roman-antiquities-ndy-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-roman-antiquities-ndy-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-roman-antiquities-ndy-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/roman-antiquities.epub"
+      }
+    },
+    {
+      "eul_wid": "ndy-ar",
+      "title": {
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
+      },
+      "url_slug": "dionysius-of-halicarnassus-testimony-ndy-ar",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/testimony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-testimony-ndy-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-testimony-ndy-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-testimony-ndy-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-testimony-ndy-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/testimony.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/dionysius-of-halicarnassus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-of-halicarnassus-ndy.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-of-halicarnassus-ndy.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-of-halicarnassus-ndy.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-of-halicarnassus-ndy.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

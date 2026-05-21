@@ -1,0 +1,397 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "udm-ag",
+  "eul_aid": "udm",
+  "author_slug": "porphyry-of-tyre",
+  "work_slug": "homeric-questions-1-ag",
+  "url_slug": "porphyry-of-tyre-homeric-questions-1-ag-udm-ag",
+  "author": {
+    "english": "Porphyry of Tyre",
+    "ancient_greek": "Πορφύριος ὁ Τύριος"
+  },
+  "title": {
+    "english": "Book I of Homeric Questions Version T",
+    "ancient_greek": "Βιβλίον Αʹ Ὁμηρικῶν ζητημάτων ἔκδοσις Τ"
+  },
+  "seo": {
+    "browser_title": "Homeric Questions Book I by Porphyry of Tyre on Eulogikon",
+    "meta_title": "Homeric Questions Book I by Porphyry of Tyre in Greek",
+    "meta_description": "Porphyry's Homeric Questions Book I explores philosophical interpretations of Homer's epic narratives and Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ φιλοσοφική",
+      "english": "Philosophical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Neoplatonist",
+      "href": "/affiliations/neoplatonist"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Homeric Questions</strong> is a scholarly treatise by the third-century Neoplatonic philosopher Porphyry of Tyre. Surviving only in fragments, the work is a collection of discrete inquiries, each addressing a specific philological, historical, or philosophical problem in the text of Homer’s <strong>Iliad</strong> and <strong>Odyssey</strong>. For a given Homeric line, Porphyry typically poses a question concerning a perceived difficulty and then provides a detailed resolution. His exegetical method synthesizes precise textual scholarship, drawing on the work of earlier Homeric commentators, with allegorical interpretation, often aiming to defend Homeric poetry as a repository of profound ethical and theological wisdom. The extant fragments are preserved through two distinct medieval manuscript traditions, known as Version B and Version T, which contain different selections and arrangements of the original questions. Consequently, the complete scope and original structure of Porphyry’s work remain uncertain. Modern scholarship regards the <strong>Homeric Questions</strong> as a significant document of late antique intellectual culture, illustrating how Neoplatonic philosophers engaged with classical literature for both pedagogical instruction and philosophical inquiry.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "97.(21)",
+      "text": "παρατηρητέον ὅτι, ὅταν ἐκ προσώ που τινὸς ἐπάγειν λόγους μέλλῃ ὁ ποιητής, προσημαίνει οἷος ἔσται ὁ λόγος· οἷον εἰπόντος «τὸν δ’ ἄρ’ ὑ πόδρα ἰδὼν προσέφη», ὑβριστικούς, καὶ πάλιν «καί μιν νεικείων», θε ωρητέον εἰ οἱ μέλλοντες ἐπάγεσθαι λόγοι ἔχουσιν ὀνείδη. ὅταν δὲ «ὅ σφιν ἐϋφρονέων», φρονίμους προσδεκτέον λόγους· φρόνιμον γὰρ τὸ τὰς αἰτίας τῶν ἐνεστηκότων εἰπεῖν καὶ μετὰ ταῦτα ἐπάγειν τὰ ποιητέα· πάλιν δὲ ὅταν προείπῃ «καὶ τό ⸢ τε ⸣ κουφότερον μετεφώνεε Φαιήκε〈σ〉σιν», δεῖ ἡμᾶς τῶν λεχθησομένων ὡς κούφων ἀκούειν, ἐπηρμένου καὶ ὑψηγοροῦντος Ὀδυσσέως διὰ τὴν νί κην. πάλιν τοίνυν ὁ ποιητής, τοῦ Ἀγαμέμνονος μέλλοντος λέγειν πρὸς τὸν Κάλχαντα «μάντι κακῶν» καὶ τὰ ἑξῆς, προδιετύπωσεν ἡμῖν τοὺς λόγους διὰ τοῦ «κακοσσόμενος», οὐχ, ὥς τινες οἴονται, κακῶς ὑποβλεψάμενος, ἀλλ’ ὅτι κακόμαντιν ἀ ποκαλῶν. ἐπεὶ γὰρ ὄσσα ἐστὶν ἡ θεί α φωνή, τῆς ὀπὸς δὲ τῶν θεῶν ἀκούουσιν οἱ μάντεις—«ὣς γὰρ ἐγὼν ὄπ’ ἄκουσα θεῶν»—κακὸν ἄγγελον τῆς Διὸς ὄσ〈σ〉ης ἀποκαλεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "udm-ar",
+      "title": {
+        "english": "Against the Christians",
+        "ancient_greek": "Κατὰ Χριστιανῶν"
+      },
+      "url_slug": "porphyry-of-tyre-against-christians-udm-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/against-christians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-against-christians-udm-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-against-christians-udm-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-against-christians-udm-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-against-christians-udm-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/against-christians.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-af",
+      "title": {
+        "english": "Book I of Homeric Questions Version B",
+        "ancient_greek": "Βιβλίον Αʹ Ὁμηρικῶν ζητημάτων ἔκδοσις Β"
+      },
+      "url_slug": "porphyry-of-tyre-homeric-questions-b-udm-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/homeric-questions-b",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-b-udm-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-b-udm-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-b-udm-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-b-udm-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-b.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-ah",
+      "title": {
+        "english": "Book I of Homeric Questions Version V",
+        "ancient_greek": "Βιβλίον Αʹ Ὁμηρικῶν ζητημάτων"
+      },
+      "url_slug": "porphyry-of-tyre-homeric-questions-1-ah-udm-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/homeric-questions-1-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-1-ah-udm-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-1-ah-udm-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-1-ah-udm-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-1-ah-udm-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-1-ah.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-ai",
+      "title": {
+        "english": "Book I of Homeric Questions Version X",
+        "ancient_greek": "Ἰλιακῶν προβλημάτων βιβλίον α (ἔκδοσις Χ)"
+      },
+      "url_slug": "porphyry-of-tyre-homeric-questions-udm-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/homeric-questions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-udm-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-udm-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-udm-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-udm-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-ay",
+      "title": {
+        "english": "Chronicles",
+        "ancient_greek": "Χρονικά"
+      },
+      "url_slug": "porphyry-of-tyre-chronicles-udm-ay",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/chronicles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-chronicles-udm-ay.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-chronicles-udm-ay.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-chronicles-udm-ay.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-chronicles-udm-ay.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/chronicles.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-ak",
+      "title": {
+        "english": "Commentaries-Aristotle in Greek",
+        "ancient_greek": "Ὑπομνήματα εἰς Ἀριστοτέλην Ἑλληνιστί"
+      },
+      "url_slug": "porphyry-of-tyre-commentaries-aristotle-udm-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/commentaries-aristotle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-commentaries-aristotle-udm-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-commentaries-aristotle-udm-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-commentaries-aristotle-udm-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-commentaries-aristotle-udm-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/commentaries-aristotle.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-ao",
+      "title": {
+        "english": "Commentary on Plato's Timaeus (Book I)",
+        "ancient_greek": "Ὑπόμνημα εἰς Πλάτωνος Τίμαιον"
+      },
+      "url_slug": "porphyry-of-tyre-timaeus-commentary-ao-udm-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/timaeus-commentary-ao",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-timaeus-commentary-ao-udm-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-timaeus-commentary-ao-udm-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-timaeus-commentary-ao-udm-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-timaeus-commentary-ao-udm-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/timaeus-commentary-ao.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-an",
+      "title": {
+        "english": "Commentary on Plato's Timaeus (Fragment)",
+        "ancient_greek": "Ὑπόμνημα εἰς τὸν Πλάτωνος Τίμαιον"
+      },
+      "url_slug": "porphyry-of-tyre-timaeus-commentary-an-udm-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/timaeus-commentary-an",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-timaeus-commentary-an-udm-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-timaeus-commentary-an-udm-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-timaeus-commentary-an-udm-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-timaeus-commentary-an-udm-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/timaeus-commentary-an.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-am",
+      "title": {
+        "english": "Commentary-Plato's Parmenides",
+        "ancient_greek": "Ὑπόμνημα εἰς τὸν Πλάτωνος Παρμενίδην"
+      },
+      "url_slug": "porphyry-of-tyre-plato-parmenides-commentary-udm-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/plato-parmenides-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-plato-parmenides-commentary-udm-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-plato-parmenides-commentary-udm-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-plato-parmenides-commentary-udm-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-plato-parmenides-commentary-udm-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/plato-parmenides-commentary.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-ae",
+      "title": {
+        "english": "Fragments of the History of Philosophy",
+        "ancient_greek": "Ἀποσπάσματα τῆς ἱστορίας τῆς φιλοσοφίας"
+      },
+      "url_slug": "porphyry-of-tyre-history-philosophy-udm-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/history-philosophy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-history-philosophy-udm-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-history-philosophy-udm-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-history-philosophy-udm-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-history-philosophy-udm-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/history-philosophy.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-ba",
+      "title": {
+        "english": "Fragments on the Seven Sages",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ἑπτὰ Σοφῶν"
+      },
+      "url_slug": "porphyry-of-tyre-seven-sages-udm-ba",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/seven-sages",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-seven-sages-udm-ba.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-seven-sages-udm-ba.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-seven-sages-udm-ba.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-seven-sages-udm-ba.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/seven-sages.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-at",
+      "title": {
+        "english": "Letter to Anebon",
+        "ancient_greek": "Πρὸς Ἀνεβῶνα ἐπιστολή"
+      },
+      "url_slug": "porphyry-of-tyre-letter-anebon-udm-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/letter-anebon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-letter-anebon-udm-at.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-letter-anebon-udm-at.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-letter-anebon-udm-at.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-letter-anebon-udm-at.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/letter-anebon.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "uxc-al",
+      "title": {
+        "english": "Commentary on On Generation and Corruption",
+        "ancient_greek": "Σχόλια εἰς τὰ περὶ γενέσεως καὶ φθορᾶς"
+      },
+      "url_slug": "john-philoponus-of-alexandria-commentary-aristotle-al-uxc-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-philoponus-of-alexandria/commentary-aristotle-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-al-uxc-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-al-uxc-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-al-uxc-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-al-uxc-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/commentary-aristotle-al.epub"
+      }
+    },
+    {
+      "eul_wid": "fuk-aa",
+      "title": {
+        "english": "Fragments on Aristotelian Logic",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἀριστοτελικῆς Λογικῆς"
+      },
+      "url_slug": "eudemus-of-rhodes-i-fragments-aristotelian-logic-fuk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/eudemus-of-rhodes-i/fragments-aristotelian-logic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudemus-of-rhodes-i-fragments-aristotelian-logic-fuk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudemus-of-rhodes-i-fragments-aristotelian-logic-fuk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudemus-of-rhodes-i-fragments-aristotelian-logic-fuk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudemus-of-rhodes-i-fragments-aristotelian-logic-fuk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudemus-of-rhodes-i/fragments-aristotelian-logic.epub"
+      }
+    },
+    {
+      "eul_wid": "hmq-aa",
+      "title": {
+        "english": "Historical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "euphantus-of-olynthus-historical-fragments-hmq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/euphantus-of-olynthus/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphantus-of-olynthus-historical-fragments-hmq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphantus-of-olynthus-historical-fragments-hmq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphantus-of-olynthus-historical-fragments-hmq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphantus-of-olynthus-historical-fragments-hmq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphantus-of-olynthus/historical-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "lgi-bc",
+      "title": {
+        "english": "On Drunkenness II",
+        "ancient_greek": "Περὶ Μέθης Β'"
+      },
+      "url_slug": "philo-of-alexandria-drunkenness-2-lgi-bc",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria/drunkenness-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-drunkenness-2-lgi-bc.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-drunkenness-2-lgi-bc.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-drunkenness-2-lgi-bc.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-drunkenness-2-lgi-bc.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/drunkenness-2.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-ea",
+      "title": {
+        "english": "On Fortune",
+        "ancient_greek": "Περὶ τύχης"
+      },
+      "url_slug": "plutarch-of-chaeronea-fortune-okg-ea",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/fortune",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-fortune-okg-ea.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-fortune-okg-ea.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-fortune-okg-ea.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-fortune-okg-ea.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/fortune.epub"
+      }
+    },
+    {
+      "eul_wid": "uqo-ae",
+      "title": {
+        "english": "On Necessary Syllogisms",
+        "ancient_greek": "Εἰς τοὺς ἀναγκαίους συλλογισμούς"
+      },
+      "url_slug": "ammonius-of-alexandria-phil-necessary-syllogisms-uqo-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/ammonius-of-alexandria-phil/necessary-syllogisms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil-necessary-syllogisms-uqo-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil-necessary-syllogisms-uqo-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil-necessary-syllogisms-uqo-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil-necessary-syllogisms-uqo-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil/necessary-syllogisms.epub"
+      }
+    },
+    {
+      "eul_wid": "bky-ab",
+      "title": {
+        "english": "On the Nature of the Universe",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "heraclitus-of-ephesus-nature-universe-bky-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/heraclitus-of-ephesus/nature-universe",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-nature-universe-bky-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-nature-universe-bky-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-nature-universe-bky-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-nature-universe-bky-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus/nature-universe.epub"
+      }
+    },
+    {
+      "eul_wid": "pza-ab",
+      "title": {
+        "english": "Pythagorean Sentences (Recension B)",
+        "ancient_greek": "Γνῶμαι Πυθαγορείων"
+      },
+      "url_slug": "pythagoreans-sayings-sentences-ab-pza-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/pythagoreans-sayings/sentences-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings-sentences-ab-pza-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings-sentences-ab-pza-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings-sentences-ab-pza-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings-sentences-ab-pza-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings/sentences-ab.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/porphyry-of-tyre/homeric-questions-1-ag",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-1-ag-udm-ag.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-1-ag-udm-ag.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-1-ag-udm-ag.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-1-ag-udm-ag.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-1-ag.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

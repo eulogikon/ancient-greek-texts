@@ -1,0 +1,257 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "equ-ab",
+  "eul_aid": "equ",
+  "author_slug": "aristagoras-the-comic-poet",
+  "work_slug": "courtesans-revelry",
+  "url_slug": "aristagoras-the-comic-poet-courtesans-revelry-equ-ab",
+  "author": {
+    "english": "Aristagoras the Comic Poet",
+    "ancient_greek": "Ἀρισταγόρας ὁ κωμικός"
+  },
+  "title": {
+    "english": "Fragments on Courtesans and Revelry",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ἑταιρῶν καὶ Κώμων"
+  },
+  "seo": {
+    "browser_title": "Fragments of Aristagoras the Comic Poet on Eulogikon",
+    "meta_title": "Fragments of Aristagoras the Comic Poet in Ancient Greek",
+    "meta_description": "Fragments from Aristagoras the Comic Poet on courtesans and revelry. Ancient comedy. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The work <strong>Fragments on Courtesans and Revelry</strong> by the obscure comic poet Aristagoras is known only by its title and the report that it consisted of seven passages, with no direct quotations surviving. Its title indicates a subject matter pertaining to courtesans and revels, both central thematic concerns in the plots of Middle and New Greek Comedy. Based on this title and standard comic tropes of the period, the lost fragments likely addressed the social role and lifestyle of courtesans, scenes of festive drinking and processions, and the associated themes of love, financial negotiation, deception, and social satire. The work is entirely lost, and its existence is recorded solely in an entry within the 10th-century Byzantine <strong>Suda</strong> lexicon, which lists the title among works attributed to Aristagoras; no manuscript tradition or direct quotations are attested. While the text’s direct literary influence is untraceable, its thematic focus places it firmly within the tradition of Greek comedy that shaped later Roman and Western comedic drama. Its preservation in the <strong>Suda</strong> indicates it remained known, at least by title, to Byzantine scholars.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ὑμῖν ὀρχηστρίδας εἶπον ἑταίρας ὡραίας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "πρότερον· νῦν δ’ οὐχ ὑμῖν ἀγορεύω ἄρτι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "χνοαζούσας αὐλητρίδας, αἵτε τάχιστα ἀνδρῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "φορτηγῶν ὑπὸ γούνατα μισθοῦ ἔλυσαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Ὥσπερ ἐπειδὰν δειπνῶμέν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "που, τότε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "πλεῖστα λαλοῦμεν[ln_1]ἅπαντες.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "equ-aa",
+      "title": {
+        "english": "Fragments on Revelry and Courtesans",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κώμων καὶ Ἑταιρῶν"
+      },
+      "url_slug": "aristagoras-the-comic-poet-revelry-courtesans-equ-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristagoras-the-comic-poet/revelry-courtesans",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-the-comic-poet-revelry-courtesans-equ-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-the-comic-poet-revelry-courtesans-equ-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-the-comic-poet-revelry-courtesans-equ-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-the-comic-poet-revelry-courtesans-equ-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-the-comic-poet/revelry-courtesans.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "kfu-ah",
+      "title": {
+        "english": "Comedians",
+        "ancient_greek": "Κωμῳδούμενοι"
+      },
+      "url_slug": "comic-fragments-anonymous-ii-comedians-kfu-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-ii/comedians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii-comedians-kfu-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii-comedians-kfu-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii-comedians-kfu-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii-comedians-kfu-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/comedians.epub"
+      }
+    },
+    {
+      "eul_wid": "bou-aa",
+      "title": {
+        "english": "Comic Fragments on Spartan Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Σπαρτιατικοῦ Βίου Κωμικά"
+      },
+      "url_slug": "chionides-the-comic-poet-comic-sparta-bou-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/chionides-the-comic-poet/comic-sparta",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet-comic-sparta-bou-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet-comic-sparta-bou-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet-comic-sparta-bou-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet-comic-sparta-bou-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet/comic-sparta.epub"
+      }
+    },
+    {
+      "eul_wid": "daw-ag",
+      "title": {
+        "english": "Domestic and Market Scenes",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aristophanes-of-athens-domestic-market-daw-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/domestic-market",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-domestic-market-daw-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-domestic-market-daw-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-domestic-market-daw-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-domestic-market-daw-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/domestic-market.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-bm",
+      "title": {
+        "english": "Dyscolus",
+        "ancient_greek": "Δύσκολος"
+      },
+      "url_slug": "menander-of-athens-dyscolus-hps-bm",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/dyscolus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-dyscolus-hps-bm.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-dyscolus-hps-bm.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-dyscolus-hps-bm.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-dyscolus-hps-bm.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/dyscolus.epub"
+      }
+    },
+    {
+      "eul_wid": "kge-aa",
+      "title": {
+        "english": "Fragments of Anonymous Comedians",
+        "ancient_greek": "Ἀποσπάσματα ἀνωνύμων κωμῳδῶν"
+      },
+      "url_slug": "comic-fragments-anonymous-iii-text-kge-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-iii/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii-text-kge-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii-text-kge-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii-text-kge-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii-text-kge-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii/text.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-ah",
+      "title": {
+        "english": "Fragments of the Asp Known Elsewhere",
+        "ancient_greek": "Ἀποσπάσματα τῆς Ἀσπίδος"
+      },
+      "url_slug": "menander-of-athens-asp-fragments-hps-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/asp-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-asp-fragments-hps-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-asp-fragments-hps-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-asp-fragments-hps-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-asp-fragments-hps-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/asp-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "ivg-aa",
+      "title": {
+        "english": "Fragments on Hedonism and Philosophy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἡδονῆς καὶ Φιλοσοφίας"
+      },
+      "url_slug": "bato-the-comic-poet-hedonism-philosophy-ivg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/bato-the-comic-poet/hedonism-philosophy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet-hedonism-philosophy-ivg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet-hedonism-philosophy-ivg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet-hedonism-philosophy-ivg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet-hedonism-philosophy-ivg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet/hedonism-philosophy.epub"
+      }
+    },
+    {
+      "eul_wid": "fqy-ab",
+      "title": {
+        "english": "On the Rooster of Philip",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "heraclides-ponticus-rooster-philip-ab-fqy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/heraclides-ponticus/rooster-philip-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-ponticus-rooster-philip-ab-fqy-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-ponticus-rooster-philip-ab-fqy-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-ponticus-rooster-philip-ab-fqy-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-ponticus-rooster-philip-ab-fqy-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-ponticus/rooster-philip-ab.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aristagoras-the-comic-poet/courtesans-revelry",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-the-comic-poet-courtesans-revelry-equ-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-the-comic-poet-courtesans-revelry-equ-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-the-comic-poet-courtesans-revelry-equ-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-the-comic-poet-courtesans-revelry-equ-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-the-comic-poet/courtesans-revelry.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

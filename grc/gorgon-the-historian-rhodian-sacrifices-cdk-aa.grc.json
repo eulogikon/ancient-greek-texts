@@ -1,0 +1,219 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "cdk-aa",
+  "eul_aid": "cdk",
+  "author_slug": "gorgon-the-historian",
+  "work_slug": "rhodian-sacrifices",
+  "url_slug": "gorgon-the-historian-rhodian-sacrifices-cdk-aa",
+  "author": {
+    "english": "Gorgon the Historian",
+    "ancient_greek": "Γοργών ὁ ἱστορικός"
+  },
+  "title": {
+    "english": "On Rhodian Sacrifices",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "On Rhodian Sacrifices by Gorgon the Historian on Eulogikon",
+    "meta_title": "On Rhodian Sacrifices by Gorgon the Historian in Greek",
+    "meta_description": "Fragments on Rhodian sacrifices and religious practices by Gorgon. Antiquarian research. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The work <strong>On Rhodian Sacrifices</strong>, attributed to Gorgon the Historian, is a lost prose antiquarian study known only through fragments. Its alternative title, <strong>Apospasmata</strong>, or &quot;Extracts,&quot; reflects its fragmentary nature. The work detailed the sacrificial rites and religious customs of Rhodes. Surviving fragments document specific Rhodian ritual practices, including the sacrifice of a horse to the sun god Helios by casting it into the sea and a prohibition against uttering the name of Aphrodite during a particular ceremony. The work survives only in quotations by later lexicographers and commentators, with the primary source being the ninth-century <strong>Lexicon</strong> of Photius; the tenth-century <strong>Suda</strong> also references Gorgon and his work. As a specimen of Hellenistic local historiography, the fragments provide valuable evidence for Rhodian cult practices, particularly the worship of Helios. The work served as a specialist source for later antiquarians and remains important for modern studies of regional Greek religion.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-3",
+      "text": "ΠΕΡΙ ΤΩΝ ΕΝ ΡΟΔῼ ΘΥΣΙΩΝ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Athenaeus XV: Καὶ ὁ εἰς Πτολεμαῖον δὲ, τὸν πρῶτον Αἰγύπτου βασιλεύσαντα, παιάν ἐστιν, ὃν ᾄδουσι Ῥόδιοι· ἔχει γὰρ τὸ Ἰὴ παιὰν ἐπίφθεγμα, ὥς φησι Γόργων ἐν τῷ Περὶ τῶν ἐν Ῥόδῳ θυσιῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Hesych.: Καταρραπτίτη ς. Γόργων ἐν τῷ Περὶ θυσιῶν. Ἐπιπολίαιο ς , Ἑρμῆς ἐν Ῥόδῳ, ὡς Γόργων ἱστορεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Schol. Pindar. ad Olymp. VII, 1: Ταύτην τὴν ᾠδὴν ἀνακεῖσθαί φησι Γόργων ἐν τῷ τῆς Λινδίας Ἀθηνᾶς ἱερῷ χρυσοῖς γράμμασιν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "mki-aa",
+      "title": {
+        "english": "Cyclical History Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dionysius-of-rhodes-cyclical-history-mki-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-rhodes/cyclical-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-rhodes-cyclical-history-mki-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-rhodes-cyclical-history-mki-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-rhodes-cyclical-history-mki-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-rhodes-cyclical-history-mki-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-rhodes/cyclical-history.epub"
+      }
+    },
+    {
+      "eul_wid": "puu-aa",
+      "title": {
+        "english": "Fragments on Chios",
+        "ancient_greek": "Ἀποσπάσματα περὶ Χίου"
+      },
+      "url_slug": "hypermenes-the-historian-chios-fragments-puu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hypermenes-the-historian/chios-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypermenes-the-historian-chios-fragments-puu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypermenes-the-historian-chios-fragments-puu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypermenes-the-historian-chios-fragments-puu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypermenes-the-historian-chios-fragments-puu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypermenes-the-historian/chios-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "ess-aa",
+      "title": {
+        "english": "Fragments on Spartan Festivals",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σπαρτιατικῶν Ἑορτῶν"
+      },
+      "url_slug": "polycrates-of-sparta-festivals-ess-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/polycrates-of-sparta/festivals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycrates-of-sparta-festivals-ess-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycrates-of-sparta-festivals-ess-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycrates-of-sparta-festivals-ess-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycrates-of-sparta-festivals-ess-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycrates-of-sparta/festivals.epub"
+      }
+    },
+    {
+      "eul_wid": "kdw-aa",
+      "title": {
+        "english": "Geographical Fragments on Caria",
+        "ancient_greek": "Ἀποσπάσματα περὶ Καρίας"
+      },
+      "url_slug": "apollonius-of-aphrodisias-geographical-caria-kdw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollonius-of-aphrodisias/geographical-caria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-aphrodisias-geographical-caria-kdw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-aphrodisias-geographical-caria-kdw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-aphrodisias-geographical-caria-kdw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-aphrodisias-geographical-caria-kdw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-aphrodisias/geographical-caria.epub"
+      }
+    },
+    {
+      "eul_wid": "lbs-ab",
+      "title": {
+        "english": "Historical Excerpts and Anecdotes",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "heraclides-lembus-historical-excerpts-lbs-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/heraclides-lembus/historical-excerpts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-lembus-historical-excerpts-lbs-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-lembus-historical-excerpts-lbs-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-lembus-historical-excerpts-lbs-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-lembus-historical-excerpts-lbs-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-lembus/historical-excerpts.epub"
+      }
+    },
+    {
+      "eul_wid": "mmg-af",
+      "title": {
+        "english": "On the History of the Successors",
+        "ancient_greek": "Περὶ τῆς Ἱστορίας τῶν Διαδόχων"
+      },
+      "url_slug": "historical-fragments-anonymous-successors-mmg-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/successors",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-successors-mmg-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-successors-mmg-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-successors-mmg-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-successors-mmg-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/successors.epub"
+      }
+    },
+    {
+      "eul_wid": "fhi-aa",
+      "title": {
+        "english": "Rhetoric to Alexander",
+        "ancient_greek": "Τέχνη Ῥητορικὴ πρὸς Ἀλέξανδρον"
+      },
+      "url_slug": "anaximenes-of-lampsacus-rhetoric-alexander-fhi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anaximenes-of-lampsacus/rhetoric-alexander",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-lampsacus-rhetoric-alexander-fhi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-lampsacus-rhetoric-alexander-fhi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-lampsacus-rhetoric-alexander-fhi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-lampsacus-rhetoric-alexander-fhi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-lampsacus/rhetoric-alexander.epub"
+      }
+    },
+    {
+      "eul_wid": "bli-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "hecataeus-of-miletus-testimonies-bli-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hecataeus-of-miletus/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-testimonies-bli-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-testimonies-bli-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-testimonies-bli-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-testimonies-bli-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus/testimonies.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/gorgon-the-historian/rhodian-sacrifices",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgon-the-historian-rhodian-sacrifices-cdk-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgon-the-historian-rhodian-sacrifices-cdk-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgon-the-historian-rhodian-sacrifices-cdk-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgon-the-historian-rhodian-sacrifices-cdk-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgon-the-historian/rhodian-sacrifices.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

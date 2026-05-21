@@ -1,0 +1,600 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "rye-ac",
+  "eul_aid": "rye",
+  "author_slug": "themistius",
+  "work_slug": "embassy-constantinople-rome",
+  "url_slug": "themistius-embassy-constantinople-rome-rye-ac",
+  "author": {
+    "english": "Themistius the Philosopher",
+    "ancient_greek": "Θεμίστιος ὁ Εὐφραδής"
+  },
+  "title": {
+    "english": "Embassy-Behalf of Constantinople Delivered in Rome",
+    "ancient_greek": "Πρεσβευτικὸς ὑπὲρ Κωνσταντινουπόλεως ῥηθεὶς ἐν"
+  },
+  "seo": {
+    "browser_title": "Embassy-Behalf of Constantinople by Themistius on Eulogikon",
+    "meta_title": "Embassy-Behalf of Constantinople by Themistius in Greek",
+    "meta_description": "Themistius the Philosopher defends Constantinople's interests through an oration delivered before the Roman Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Eclectic",
+      "href": "/affiliations/eclectic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Embassy-Behalf of Constantinople Delivered in Rome</strong> is a panegyric oration by the philosopher and statesman Themistius. Delivered before the Roman emperor and Senate, it functioned as an official diplomatic mission to advocate for the status and interests of Constantinople. The speech artfully blends philosophical argument with imperial propaganda, praising the reigning emperor and the broader imperial system while promoting the ideal of harmony and parity between the old Rome and the new capital founded by Constantine. Themistius applies the Platonic concept of the philosopher-king to the emperor, presenting him as a ruler guided by wisdom and virtue. A central aim of the oration is the direct promotion of Constantinople&#x27;s specific civic prestige and material needs, framing the city itself as the emperor&#x27;s greatest honor and monument. The speech survives within the collected corpus of Themistius&#x27;s orations, preserved due to his enduring reputation, with the modern critical edition established by Heinrich Schenkl and later revised by Glanville Downey and Albert Francis Norman. As a key document of fourth-century political thought, the oration illuminates contemporary imperial ideology, the rising political stature of Constantinople, and the synthesis of philosophical rhetoric with statecraft. Themistius&#x27;s model of the philosopher-orator in service to the state proved profoundly influential for later Byzantine political culture.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t 1",
+      "text": "ΠΡΕΣΒΕΥΤΙΚΟΣ ΥΠΕΡ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ ΡΗΘΕΙΣ ΕΝ ΡΩΜΗΙ Ἔστι μὲν οὐδὲ ἄλλῃ πόλει δυνατόν, ὦ θειότατε αὐτοκράτορ, πρέποντά σοι στέφανον ἐξευρεῖν ἢ χαριστήριον ἄλλο τῆς ἀρετῆς, ἀλλὰ ἀνάγκη λείπεσθαι πολὺ τῆς ἀξίας τοὺς πειρωμένους ἀντεισφέρειν τιμὴν ἐφάμιλλον ὧν εὖ πάσχουσι· τῇ δὲ ἐπωνύμῳ μὲν τοῦ σοῦ πατρός, ἔργῳ δὲ σῇ μᾶλλον ἢ τοῦ πατρός, καὶ πάνυ δὴ τὸ ἐγχείρημα ἀπορώτατον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "40 c",
+      "text": "καὶ γὰρ εἰ πάντα ὃν κέκτηται πλοῦτον προσάγοιμεν εἰς στεφάνους μετασκευάσαντες, οὐκ οἴκοθεν ποριζόμεθα † τὴν ἀρετήν †, ἀλλὰ μέρος πολλοστὸν ὧν εἰλήφαμεν ἀποφέρομεν τῷ δεδωκότι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "40 d",
+      "text": "καθάπερ οὖν οἱ πολλὰ καὶ μεγάλα δεδανεισμένοι, βραχέα δὲ ἀποτιννύντες, οὐχ ὧν διαλύουσιν ἐπαινοῦνται, ἀλλ’ εὐθύνονται ὧν ἐλλείπουσιν, οὕτω καὶ ἡμῖν ἀναγκαῖον πᾶσαν ἣν ἀνοισόμεθα χάριν, ταύτην ἐλέγχεσθαι μοῖραν ὀλίγην ὧν ὀφλισκάνομεν. καὶ οὐκ ἀπεικότως ἄρα συμβαίνει μόνῃ τῇ πόλει τῇ ἡμετέρᾳ μηδὲ ἀναθήματος εὐπορεῖν τῆς ἀξίας ἐφικνουμένου· αὐτὴ γάρ ἐστιν ὅλη σὸς στέφανος καὶ ἀνάθημα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "41 a",
+      "text": "ὥστε τί ἂν δέοιτο τῆς ἔξωθεν προμηθείας πρὸς τὸ χάριν τινὰ ἐκτῖσαί σοι τοῦ κάλλους τε καὶ τοῦ μεγέθους; τῷ γὰρ εἶναι τοιαύτη σεμνύνει τὸν ἐργασάμενον. ὅμως δὲ καίπερ οὕτως ἀπόρου τοῦ πράγματος ὄντος ἄξιον ἄγασθαι τὴν καλλίπολιν, ὅτι τὸν ἐνόντα τρόπον ἐξεῦρεν, ὡς μὴ παντάπασι δοκεῖν ὀπίσω τοῦ μέτρου γίνεσθαι τοῦ προσήκοντος. Δυοῖν γὰρ ὄντοιν, δι’ ὧν ἄνθρωποι τὰ χαριστήρια σεμνότερα καὶ μείζω ποιοῦσιν, ἑνὸς μέν, εἰ πολλοὺς ὡς ἔνι ποιοῖντο μάρτυρας τῆς τιμῆς, ἑτέρου δέ, εἰ μὴ κολακεύειν δοκοῦντες, ἀλλ’ ἑκόντες καὶ προαιρούμενοι—ὧν τὸ μὲν περιφανεστέραν τὴν εὐποιίαν, τὸ δὲ ἀνύποπτον κατασκευάζει τὴν ἀμοιβήν—ἀμφότερα ἡ πόλις τοῖς νῦν ὑφ’ ἑαυτῆς πραττομένοις ὅπως ὑπάρξῃ προείδετο, προσάγουσα μὲν τὴν τιμὴν ἐν τῇ σκοπιᾷ τῆς οἰκουμένης, ἀνδρὶ δὲ χρωμένη διακόνῳ, ὃν ἀληθεύειν ἀνάγκη, καὶ τούτων ἑκάτερον οὐ παρέργως, ἀλλ’ ὡς ἔνι μᾶλλον πρὸς ὑπερβολήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "41 c",
+      "text": "Σκέψαι δὲ πρῶτον, ὦ θειότατε αὐτοκράτορ, τὴν πόλιν, ᾗ τὸν καιρὸν ἐξεῦρε τοῦ ἀναθήματος. οὐ γὰρ Ὀλυμπίασιν ἢ Δελφοῖς ἀνακηρύττει τὸν στέφανον, οὐδὲ εἰς Παναθήναια συναγαγοῦσα τοὺς Ἕλληνας ἢ Διονύσια, καθάπερ οἱ πάλαι ποτὲ Ἀθηναῖοι, κολακεύοντες τοὺς Μακεδόνων δυνάστας, ἀλλ’ ἐν τῇ βασιλευούσῃ τῶν πόλεων ἀναδεῖ τὸν βασιλεύοντα τῶν ἀνθρώπων ἡ τὰ δεύτερα δι’ ὑμᾶς βασιλεύουσα, καὶ ταύτην ἄρα τὴν πόλιν ποιεῖται μάρτυρα τῆς τιμῆς, ἣ μόνη σεμνοτέρα τῆς τιμώσης ἐστίν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "41 d",
+      "text": "οὕτω καὶ τὸ θέατρον ἡμῖν λαμπρότερον, ἐπ’ ἴσης τῷ στεφάνῳ καὶ τῷ κηρύγματι· ὥσπερ οὖν ἡ Θέτις ἡ παρ’ Ὁμήρῳ ἀποδημοῦντος μὲν εἰς Ὠκεανὸν τοῦ Διὸς πρεσβεύειν περὶ τοῦ παιδὸς οὐκ οἴεται δεῖν, ἐπανήκοντος δὲ εἰς τὸν οὐρανόν, μᾶλλον δὲ εἰς τὸ ἄκρον τοῦ οὐρανοῦ, δεῖται καὶ ἐπηκόου τυγχάνει, οὕτω καὶ τὸν Δία ἑαυτῆς ἡ καλλίπολις τὰ μὲν πρὸς Ὠκεανὸν φραγνύμενον καὶ προορῶντα διοχλεῖν οὐ προαιρεῖται, ἡνίκα δὲ εἰς τὸν Ὄλυμπον ἐπανήκει καὶ κάθηται ἐπ’ ἄκρας τῆς κορυφῆς, λιπαρεῖ καὶ θεραπεύει καὶ πειρᾶται συμμετέχειν τῆς ἑορτῆς, ἣν ἑορτάζουσι δι’ ἀλλήλων ὅ τε οὐρανὸς καὶ ὁ θεός, ὁ μὲν ἐλλαμπόμενος, ὁ δὲ ἐναυγάζων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "42 a",
+      "text": "καὶ γίνεται ἡμῖν διὰ τὴν πόλιν ὁλόκληρος ἡ πανήγυρις· κοινωνεῖ γὰρ καὶ συμπάρεστιν εὐθυμουμένοις ἡ κοινωνοῦσα καὶ τῆς τύχης καὶ τοῦ ὀνόματος, καὶ χορὸς ἵσταται τοῦ διὰ τριῶν τελείων ὁ τελειότατος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "42 b",
+      "text": "συνᾴδουσι μὲν αἱ βασιλίδες, ἐξάρχει δὲ ὁ κορυφαῖος, ἐπευφημεῖ δὲ ἅπασα γῆ τε καὶ θάλασσα. ὁ δὲ ὕμνος ἐμπίπλησιν ἁρμονίας ἅπαντα μὲν φῦλα ἑῷα, ἅπαντα δὲ ἑσπέρια γένη, αἱ νῖκαι δὲ ἡλίῳ συνανασχοῦσαι καὶ συνδραμοῦσαι λαμπρῶς ἄχρι τῆς ἑσπέρας συγκαταίρουσι τῷ βασιλεῖ εἰς τὴν μητρόπολιν τῶν τροπαίων. ἆρα ὑμῖν ὁ χορὸς οὗτος τῶν Δαιδάλου δοκεῖ παραπλήσιος, ὃν ἐκεῖνος, ὥς φησιν Ὅμηρος, ἤσκησεν ἐν Κνωσσῷ τῇ Ἀριάδνῃ; ἢ βελτίων μὲν ὁ δημιουργὸς τοῦ χοροῦ, βελτίω δὲ καὶ τὰ ἐφεξῆς; Ὑπάρχει δὲ ὑμῖν ἐκ τῶν παρόντων ἐγκαλλωπίζεσθαι καί σοι πρὸς τὴν ἑστίαν τῆς βασιλείας καὶ τῇ νέᾳ Ῥώμῃ πρὸς τὴν ἀρχαίαν, σοὶ μὲν ὑφ’ ὁποίας ἑάλωκας, τῇ δὲ ὑφ’ ὁποίου σπουδάζεται· μᾶλλον δὲ ἀμφοτέροις γινώσκειν ὑπάρχει τεθεαμένοις, σοὶ μὲν ἡλίκης μείζονα κέκτησαι, τῇ πόλει δὲ ἡλίκης ἡττᾶται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "42 c",
+      "text": "καὶ οὐκ αἰσχύνεται τὸ λοιπὸν τοῖς δευτερείοις ἀντὶ πρωτείων κεχρῆσθαι, οὐδὲ δυσχεραίνει καὶ ἀνιᾶται, ὅτι τῶν ἀριστείων καὶ τῶν τροπαίων, ἐφ’ ἃ παρέπεμψεν αὐτὴ καὶ ἐξώρμησε, τῇδε προεορτάζεις τὰ νικητήρια.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "42 d",
+      "text": "Ἔστι δὲ καὶ ἕτερα πλείω κοινὰ ταῖς πόλεσιν ἀμφοτέραις. καὶ οὐ λέγω τὰς παλαιὰς συμμαχίας, οὐδ’ ὅσα ἄρτι καθισταμένῃ τὴν ἀρχὴν τῇδε τῇ πόλει συνεπόρισέ τε καὶ συνεξέκαμε, συμπλέουσα μὲν τῷ Πομπηίῳ, συγκαθαιροῦσα δὲ Μιθριδάτην, συνεισφέρουσα δὲ ἀεὶ τὴν ἐμπειροτάτην μοῖραν τοῦ ναυτικοῦ, ὧν ἄχρι καὶ τήμερον διασώζει κοινὰ πρὸς Ῥωμαίους τρόπαια καὶ ἐπιγράμματα, ἀλλ’ ὅσα διὰ σὲ καὶ τὸν σὸν πατέρα αὐτῇ πρόσφατα καὶ νεαρὰ σύμβολά ἐστι τῆς εὐνοίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "43 a",
+      "text": "ταῦτα μόνα ἄμεινον ὑπομνῆσαι. Γενομένης γὰρ τῆς βαρβαρικῆς ἐκείνης ἐπαναστάσεως καὶ τῆς Ῥωμαίων ἀρχῆς αἰωρουμένης ὥσπερ ἐν κλύδωνι χαλεπῷ καὶ τρικυμίᾳ καὶ κινδυνευούσης ἐκπεσεῖν τῆς Κωνσταντίνου διαδοχῆς εἰς ἀλάστορα βάρβαρον καὶ παλαμναῖον, ἡ τῆς πόλεως ἐκείνης ἀγαθὴ μοῖρα μόνη τοῦ γένους τὸ ζώπυρον διεσώσατο καὶ παρέπεμψεν ἐπὶ τὴν ἀρχαίαν ἑστίαν τῶν Αἰνεαδῶν, καὶ διὰ τὸν ἡμέτερον οἰκιστὴν οὐ Γερμανοὶ καὶ Ἰάζυγες τοῖς πόνοις ἐντρυφῶσι τῶν πάλαι Ῥωμαίων, οὐδὲ τὸ σεμνὸν καὶ μέγα τῆς Ῥώμης ὄνομα περιύβρισται παντάπασι καὶ ἐξαλήλιπται, οὐδ’ ἐς νόθους μετέστη διαδόχους καὶ παρασήμους, ἀλλ’ εἰς τὸ γνήσιον αἷμα καὶ ἀκήρατον ἐπανήκει τῶν βασιλέων καὶ φυλάττεται ἡμῖν ἀλώβητος καὶ ἀκέραιος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "43 c",
+      "text": "ἐξ ἐκείνης τῆς πόλεως ὁρμηθεὶς ὁ γενναῖος οὗτος καὶ τοῦ παρ’ ἡμῖν μνήματος καὶ πατρῴου δίκην ἐπράξατο τὴν προσήκουσαν τὸν παροινήσαντα μὲν ἐς τόνδε τὸν δῆμον, περικόψαντα δὲ τὴν γερουσίαν, σφαγῶν δὲ ἐμπλήσαντα καὶ μιασμάτων ῥεῖθρα ἀκήρατα Θύβριδος. Εἶτα Κάμιλλον μὲν οἱ τότε δεύτερον ἐνόμισαν οἰκιστήν, ὅτι τὰ λείψανα τῆς Κελτῶν ἐπιδρομῆς ἀνεσώσατο, σὲ δὲ οἱ νῦν οὐ ποιήσονται καὶ Ῥωμύλου πρότερον ἀρχηγέτην; ᾧ ἐξὸν εἰρήνην ἄγειν ῥᾳθύμως διπλασιάσαντι τὴν μοῖραν τῆς βασιλείας, οὐ παρεῖδες οὐδὲ προήκω τὴν τῆς πόλεως ἐλευθερίαν, ἀλλὰ τὴν χεῖρα τὴν ἀήττητον ὑπερέσχες, δι’ ἣν ἔξεστι προσαγορεύειν Ῥωμαίων τὸν βασιλέα, καὶ μὴ ψεύδεσθαι γράφοντας καὶ ὀνομάζοντας τὰ σεμνὰ ἐκεῖνα ὀνόματα καὶ ἀρχαῖα, τὸν καίσαρα, τὸν αὐτοκράτορα, τὸν ὕπατον πολλάκις, τὸν πατέρα τῆς γερουσίας· ταῦτα γὰρ ἅπαντα κενὰ καὶ φροῦδα ἂν ἦν παντελῶς καὶ δακρύων αἴτια τοῖς μεμνημένοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "43 d",
+      "text": "Εἰ τοίνυν ταῖς ἰδίαις φιλίαις τοῦτο πλείονος σημεῖον εὐνοίας ἐστίν, ὅταν φαίνωνται καὶ φίλοις κεχρημένοι τοῖς αὐτοῖς καὶ ἐχθροῖς, πόσῳ δὴ μᾶλλον τὰς πόλεις ἐκείνας συνηρμόσθαι πρὸς ἀλλήλας ἐστὶν ἀναγκαῖον, αἷς ὁ μὲν τύραννος πρὸ τῶν ἄλλων ἐπιβουλεύει, ὁ δὲ βασιλεὺς πρὸ τῶν ἄλλων συναγωνίζεται; ἀλλὰ παρὰ μὲν τοῦ παιδὸς ὑπάρχει τοσούτοις κεχρῆσθαι τῆς πρὸς ἀλλήλας εὐνοίας συμβόλοις τε καὶ γνωρίσμασι, παρὰ τοῦ πατρὸς δὲ ἄρα φαυλοτέροις τε καὶ ἐλάττοσιν, ἢ μόνη τῶν ἔργων ἡ τάξις ἔμπαλιν ἔχει, τὰ πράγματα δὲ οὐδ’ ὁτιοῦν διενήνοχεν; ἀλλ’ ὁ μὲν ταύτην πρότερον ἐλευθερώσας τὴν πόλιν ἐκ τυραννίδος ὁμοίας καὶ παρὰ μικρὸν ὁμωνύμου οὕτως ἐπὶ τὸν συνοικισμὸν τῆς καλλιπόλεως ὥρμησεν, ὁ δὲ πρότερον ἐκείνῃ προσθεὶς ὁπόσον ἔδει, μᾶλλον δὲ ὁπόσον ὁ πατὴρ ἐβεβούλευτο, οὕτως τῇδε ἀποδέδωκε τὴν ἐλευθερίαν, καὶ κύκλον ἕνα τῶν εἰς τὰς πόλεις εὐεργετημάτων ἀμφότεροι συνεπλήρωσαν, μᾶλλον δὲ αἱ πόλεις ἀλλήλαις ἀντιδεδώκασιν, ἡ μὲν ἐλευθερωθεῖσα τὸν οἰκιστήν, ἡ δὲ οἰκισθεῖσα τὸν σώσαντα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "44 b",
+      "text": "Τὸ μὲν δὴ θέατρον τοῦ στεφάνου οὕτω λαμπρόν τε καὶ εὔνουν καὶ ἐπιτήδειον αὐτῆς προὐσκέψατο ἡ καλλίπολις. θέα δὲ, ὦ βασιλεῦ, καὶ τὸν κήρυκα ἐφ’ ᾧ πεποίηται τὴν ἀνάρρησιν, εἴ τί σοι καὶ κατὰ τοῦτο φανήσεται σεμνότερον ἀποφαίνειν τὸ χαριστήριον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "44 c",
+      "text": "ζητοῦσα γὰρ ὅτῳ μάλιστα ἂν ἡσθείης, οὐ τὸν εἰπεῖν δεινὸν ἐξεῦρεν οὐδὲ τὸν μέγαν καὶ μεγαλόφωνον καὶ ῥᾳδίως καὶ ἀπνευστὶ κεκραγότα, ἀλλ’ οἷον μὲν ἐξεῦρεν ὃν προείλετο οὐκ ἐμὸν λέγειν, προείλετο δ’ οὖν φιλόσοφον καὶ ἐζήτησε, καὶ τοῦτον ὑπέλαβεν οἰκειότατον εἶναι διάκονον καὶ τιμῇ βασιλέως προσήκοντα ἀγαθοῦ καὶ φιλοσόφου. καὶ δὸς εἰπεῖν, ὦ θειότατε αὐτοκράτορ, ὅτι νῦν πρῶτον εἰσέρχεται μάρτυς τῆς ἀρετῆς ἐλεύθερος καὶ ἀνύποπτος, ὃν οὐκ ἔστι ψευδομαρτυρίας ἑλεῖν, ἀλλ’ οὐδὲ γράψασθαι ὡς χρημάτων ἑαλωκὼς ἢ δυνάμεως ἐφιέμενος ἐδωρήσατο ἐπαίνους οὐδὲν προσήκοντας, ἀλλ’ ὃν κατέχει τοὔνομα ὃ ἐπιγέγραπται μηδὲ μικρὸν ῥῆμα προέσθαι οὗ τὰς εὐθύνας οὐχ ἕξει δοῦναι παντὶ τῷ ἔπειτα χρόνῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "45 a",
+      "text": "διόπερ ἀναγκαῖον αὐτῷ μόνα ἐκεῖνα μαρτυρεῖν ἃ θαυμάζει καὶ συνεπίσταται. οἱ πολλοὶ δὲ ἵνα τι πλέον χαρίσωνται, ἄπιστον καὶ τὸ ὑπάρχον ποιοῦσι. τί οὖν συνεπίσταται καὶ θαυμάζει; οὐ τὸ μέγεθος τῆς ἀρχῆς· καὶ γὰρ Νέρων ἦρχεν οὐκ ἐλαττόνων· οὐδ’ ὅτι σοι χρυσοῦς ὁ θρόνος καὶ στρατιῶται· Μίδαν γὰρ ἂν οὕτως ἐθαύμαζεν ἢ Καμβύσην· ἀλλ’ οὐδ’ ὅτι βάλλεις καίρια καὶ ἐπίσκοπα, οὐδ’ ὅτι σοι λεόντων φόνοι καὶ παρδάλεων τὰ ἀθύρματα. ἀλλὰ τί θαυμασόμενος ἥκει; τί παρὰ φιλοσοφίας ψήφισμα ἐπικομίζεται; ὅτι πρᾳότητι νικᾷς, ὅτι σωφρονέστερον διάγεις τῶν πάνυ μετρίων ἰδιωτῶν, ὅτι παιδείαν περὶ πλείστου ποιῇ, ὅτι φιλοσοφίαν μεταδιώκεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "45 b",
+      "text": "αὕτη ἡ δύναμις καὶ ἡ σὴ στρατιὰ καὶ οἱ φύλακες οἱ σοὶ καὶ οἱ δορυφόροι, ὑφ’ ὧν ἐφυλάχθης ἀκέραιος μόνος τῶν ἀδελφῶν, μεθ’ ὧν δίκην ἐπράξω τοὺς παροινήσαντας. ταύτῃ χρώμενος τῇ παρασκευῇ παρετάξω πρὸς τὸν πρεσβύτην, ταύτῃ τὴν νίκην ἐνίκησας τὴν ἀναίμακτον. Εἶδον, βασιλεῦ, καὶ τὸ βῆμα ἐφ’ οὗ δημηγορῶν αἰχμάλωτον εἷλες τὸν παραληρήσαντα εἰς τὴν ἁλουργίδα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "45 c",
+      "text": "εἶδον τὸ σὸν τρόπαιον ἀτεχνῶς, ὃ μήτε ὁπλίτης συνανέστησε μήτε ἱππεὺς μήτε τοξότης, ᾧ μάρτυρες ἦσαν οὐ συναγωνισταὶ οἱ στρατιῶται. οἱ δὲ τὰ ἄλλα ἐπαινοῦντες οὐ σέ, ἀλλὰ τὰ σὰ τεθαυμάκασι, καὶ βουκολοῦνται περὶ τὰ πρόθυρα τοῦ νεώ, τὰ δὲ ἔνδον ὁρᾶν ἀγάλματα οὐκ ἐθέλουσιν. ὃν δὲ οὐδὲν ἐκπλήττει καὶ ἐπιστρέφει τῶν ἔξωθεν, οὗτός ἐστιν ὁ δυνάμενος διιδεῖν τὸν ἀληθινὸν βασιλέα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "45 d",
+      "text": "διὰ ταῦτα οὐ κρύβδην φέρει τὴν ψῆφον οὐδὲ προστησάμενος ἕτερον σχῆμα τῷ λόγῳ, οὐδὲ βασιλείαν μὲν ἐπαινῶν, τὸν βασιλεύοντα δὲ οὐ θαρσῶν, ἀλλ’ ἀναβὰς ἐπὶ τὸ ὑψηλὸν τοῦτο βῆμα καὶ στὰς ἐν μέσῳ τῶν ἀνθρώπων ἀνακηρύττειν σε οὐκ ἀναίνεται μετὰ πλείονος τῆς παρρησίας ἢ Ξενοφῶν Ἀγησίλαον καὶ Ἀλέξανδρον Ἀριστοτέλης καὶ τὰ τελευταῖα δὴ ταῦτα, ὁ Ζήνωνος ἐραστὴς τὸν καθ’ ἑαυτὸν βασιλέα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "46 a",
+      "text": "οὐ γὰρ ἔπαινον αἰσχύνεται φιλόσοφος, ἀλλὰ κολακείαν, οὐδὲ φεύγει μαρτυρίαν ἀληθοῦς ἀρετῆς, ἀλλὰ θωπείαν κακίας. σὲ δέ, ὦ βασιλεῦ, καὶ Πλάτων ὁ σοφὸς ἐμοῦ πρότερον ἀνεκήρυττε, καὶ ἵνα μὴ ἄλλως με κομψεύεσθαι ὑπολάβῃς, ἰδού σοι λέγω τὰ ῥήματα οὔτε μέγα οὔτε μικρὸν μετακινήσας. τότε γάρ φησιν ἄριστα τὸν βίον καὶ εὐδαιμονέστατα ἕξειν, ὅταν γένηται βασιλεὺς νέος, σώφρων, μνήμων, ἀνδρεῖος, μεγαλοπρεπής, εὐμαθής. Ἆρά σοι δοκεῖ φαυλότερος εἶναι προφήτης Σιβύλλης τῆς Ἐρυθραίας, ἢ Βάκιδος ἡ μαντεία δεῖσθαι καὶ Ἀμφιλύτου, ὃς τὸν κατάλογον ἡμῖν ἐπιδείξει τῶν καλῶν τούτων καὶ θαυμασίων ὀνομάτων, παρ’ ᾧτινι τῶν πώποτε βασιλέων ἀθρόως ἐξέλαμψεν ἢ ἐξεφάνη; εὑρήσομεν γὰρ τῶν μὲν ἄλλων ἕκαστον αὐτοκρατόρων ἑνὸς μὲν ἴσως προσρήματος ἀμφισβητοῦντα, τῷ δὲ τὰ λοιπὰ μὴ προσίεσθαι καὶ τοῦ δοκοῦντος προσήκειν ἀποστερούμενον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "46 b",
+      "text": "σὲ δέ, ὦ θεία κεφαλή, ὥσπερ τύπον ἀκριβῆ τῆς μορφῆς ἐν τῷ λόγῳ Πλάτων ὑπογραψάμενος ὁλοκλήρου παραδείγματος μόγις τετύχηκε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "46 c",
+      "text": "καίτοι καὶ εἰ μηδὲν ἄλλο ὑπῆρχε τῶν εἰρημένων, μόνη δὲ ἡ περὶ φιλοσοφίαν σπουδή, ἣν ἀπολιμπάνουσαν ἤδη ἀνθρώπους, καθάπερ τὴν δίκην φασὶν οἱ ποιηταί, ἐπανήγαγες καὶ ἐπέστρεψας καὶ ζηλωτὴν ἐποίησας καὶ περίβλεπτον, οὐκ ἂν ὤκνησα ταύτην ἐγὼ τὴν μαρτυρίαν. νῦν δὲ σὺ μὲν παρὰ φιλοσόφου κομίζῃ τοὺς λόγους, ἐκείνη δὲ παρὰ σοῦ τὴν ἀλήθειαν, καὶ χάριν ἀποδίδως αὐτῇ τῶν ἐπαίνων, ὅτι μὴ ψεύδεται. Πρὸς οἵαν μέν σοι πόλιν, ὦ βασιλεῦ, ὁ τῆς εὐνοίας ἀγὼν γίνεται καὶ ὡς ἱκανὴν ἐξευρεῖν ἐφάμιλλα χαριστήρια πλείω μὲν ὑπῆρχεν εἰπεῖν, ὁ καιρὸς δὲ οὐκ ἐφίησιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "46 d",
+      "text": "ὧν δὲ ἕνεκα νῦν τὴν πρόοδον πεποιήμεθα, δύο ταῦτά ἐστιν· ἓν μέν, ὑπομνῆσαι πρῶτον ὧν παρὰ σοῦ τετυχήκαμεν, ἕτερον δέ, οὐ προσθήκην αἰτῆσαι τοῖς δεδομένοις· οὐδὲ γὰρ ἕπεται· ἀλλ’ ὧν δέδωκας τὴν ἀσφάλειαν. τὸ μὲν οὖν κεφάλαιον τῶν προϋπηργμένων ἐστίν, ὅτι σχεδὸν ἁπάντων ἀνθρώπων οἰομένων τῷ σῷ πατρὶ συναπολήξειν τὴν τῆς πόλεως εὐδαιμονίαν οὐκ εἴασας οὐδὲ ἐπέτρεψας, οὐδὲ αἴσθησιν αὐτῇ πεποίηκας τῆς μεταβολῆς, μᾶλλον δέ, εἰ χρὴ τἀληθὲς εἰπεῖν, πολλὴν πεποίηκας αἴσθησιν τῆς ἀμείνονος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "47 a",
+      "text": "οὐ γὰρ ἐφύλαξας μόνον τὴν παρακαταθήκην ἀκέραιον τὴν πατρῴαν, ἀλλ’ ἐπολυπλασίασας καὶ ἐπηύξησας, οὐδὲ συνεχώρησας μόνον τὰ παρ’ ἐκείνου κεκτῆσθαι, ἀλλὰ τὰ παρὰ σαυτοῦ πλείω προστέθεικας, καὶ τὴν καλὴν ἔριν ἐφιλονείκησας πρὸς τὸν ἀρχηγέτην, ὁπότερος ὑμῶν ταῖς εὐποιίαις παραδραμεῖται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "47 b",
+      "text": "οὕτω γὰρ βασιλεὺς πρὸς βασιλέα καὶ πρὸς πατέρα παῖς ἀγωνίζεται. τοιαύτην ἤρισαν ἔριν καὶ θεοί ποτε πρὸς ἀλλήλους ἀμφισβητοῦντες τῆς Ἀττικῆς, Ἀθηνᾶ τε καὶ Ποσειδῶν, ὁ μὲν προσάγων τὴν θάλατταν, ἡ δὲ ἀναδείξασα τὸν θαλόν. τῇ δὲ ὑμετέρᾳ ἁμίλλῃ καὶ φιλοτιμίᾳ ἡ πόλις σύμπασα ἦν τὸ ἀγώνισμα, καὶ νῦν χαλεπὸν ἐξευρεῖν ὅτῳ μᾶλλον δικαίως προσήκει, πότερον τῷ καταβαλόντι τὰ σπέρματα, ἢ τῷ θεραπεύσαντι καὶ τελειώσαντι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "47 c",
+      "text": "ὁπότερος δ’ ἂν νικῴη, γέγηθεν ὁ ἡττημένος, μᾶλλον δὲ ὁ πατὴρ γέγηθεν· αὕτη γάρ ἐστιν ἀμείνων ἡ νίκη τῇ πόλει. Καὶ γὰρ οὕτως ἔχει· πλέον ἡ σὴ πόλις τῆς πατρῴας διενήνοχεν ἢ τῆς ἀρχαίας ἐκείνη, καὶ μεταβέβηκεν εἰς ἀληθινὸν καὶ βέβαιον κάλλος ἀντὶ ψευδοῦς καὶ ἐξιτήλου. τὸ πρότερον δ’, ὡς ἔοικε, σπεύδοντος ἦν ἀπόλαυσις ἐραστοῦ καὶ ἀποπλῆσαι τὴν ὄψιν ἐπτοημένου, ὥστε ἅμα τε ἀνέλαμπε καὶ ἐγήρασκεν· ὃν δὲ σὺ κόσμον αὐτῇ περιτίθης, ἅμα τῷ κάλλει καὶ πρὸς τὸν χρόνον παρασκευάζεται, καὶ τῇ ὥρᾳ νικῶν τὰ ἐφήμερα πλέον διαφέρει τῶν παλαιοτάτων τῇ βεβαιότητι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "47 d",
+      "text": "ἄρτι γὰρ αὐτὴν ἐκ τῶν ὠδίνων ἐς φῶς προελθοῦσαν καὶ καταλειφθεῖσαν ἔρημον τοῦ γεννήτορος καὶ δεομένην σπαργάνων, οἷον ἀδελφὴν ἁπαλὴν καὶ νεαράν, χρηστὸς ἀδελφὸς καὶ πρεσβύτερος καταλαβών, εὐθὺς μὲν θεραπείας ἠξίωσας τῆς προσηκούσης, εὐθὺς δὲ προὐνοήσω γάλακτος καὶ τροφῆς, διόλου δὲ ἐπέδειξας καλὴν καὶ μεγάλην, οἵας ἂν καὶ θεὸς καὶ βασιλεὺς ἐρασθείη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "48 a",
+      "text": "ὥστε προτοῦ μὲν ὑπ’ ἀνάγκης ἐτιμᾶτο ἡ γερουσία καὶ ἡ τιμὴ τιμωρίας ἐδόκει μηδ’ ὁτιοῦν διαφέρειν, νῦν δὲ ἐθελονταὶ καὶ αὐτοκέλευστοι συνθέουσιν ἁπανταχόθεν. καὶ τότε μὲν καὶ χώρᾳ πολλῇ καὶ χρήμασιν ἐξωνούμενοι δέλεαρ ἡγοῦντο τὰς δωρεὰς τῆς οἰκήσεως, νῦν δὲ καὶ προσεισφέροντες οἴκοθεν ἥδονται τοῖς δαπανήμασιν. Αἴτιον δὲ ὅτι καλῶς ἤκουσας Πλάτωνος τοῦ σοφοῦ καὶ δεσμὸν ὑπέλαβες ἰσχυρότερον ἀνάγκης ἐπιθυμίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "48 b",
+      "text": "καὶ διὰ τοῦτο ἐάσας τὸν φόβον ἔρωτι καὶ πόθῳ καταδεῖς τοὺς οἰκήτορας. ἐξ οὗ γὰρ ὑπὸ σοῦ πλαττομένη καὶ τρεφομένη εἰς τὴν οἰκείαν ἀκμήν τε καὶ ὥραν ἐβλάστησε καὶ ἀνέδραμε, τοσοῦτος ἵμερος αὐτὴν περικέχυται καὶ τοιοῦτος ἐπανθεῖ κεστὸς Ἀφροδίτης καὶ τοσοῦτον περιχορεύουσιν Ἔρωτες, καθάπερ εἰς κοινὸν ἑορτῆς καταγώγιον. συρρεόντων γὰρ εἰς ἕνα χῶρον τῶν ἀγαθῶν ἁπάντων καὶ τῶν δοκούντων ὑπὸ τοῦ χορηγοῦ τῆς ἀνθρωπίνης εὐδαιμονίας ἕτοιμον ἔχει τὴν ἀπόλαυσιν ἕκαστος οὗ πρὸ τῶν ἄλλων ἑάλωκε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "48 c",
+      "text": "καὶ ἀξία γε τυγχάνειν ἡ πόλις καὶ ταύτης παρὰ σοῦ τῆς φιλοτιμίας καὶ ἔτι μείζονος. ἔοικε γὰρ αὐτῆς ἐμφανῶς ὁ θεὸς ἐπιτροπεύειν καὶ μισθὸν δίκαιον ἀποδιδόναι τοῖς συνιεῖσιν αὐτοῦ τῆς διανοίας. τί τούτου ποιοῦμαι τεκμήριον; μόνος σπουδάσας περὶ αὐτὴν ἐξ ἁπάντων ἀδελφῶν μόνος ἐκληρονόμησας ἐξ ἁπάντων τὴν βασιλείαν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "rye-bb",
+      "title": {
+        "english": "Consular to Emperor Jovian",
+        "ancient_greek": "Ὑπατικὸς εἰς τὸν αὐτοκράτορα Ἰοβιανόν"
+      },
+      "url_slug": "themistius-consular-jovian-rye-bb",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/consular-jovian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-consular-jovian-rye-bb.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-consular-jovian-rye-bb.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-consular-jovian-rye-bb.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-consular-jovian-rye-bb.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/consular-jovian.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-af",
+      "title": {
+        "english": "Deceteric or-Appropriate Speeches to the King",
+        "ancient_greek": "Δεκετηρικὸς ἢ περὶ τῶν πρεπόντων λόγων τῷ βασιλεῖ"
+      },
+      "url_slug": "themistius-deeteric-king-speeches-rye-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/deeteric-king-speeches",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-deeteric-king-speeches-rye-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-deeteric-king-speeches-rye-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-deeteric-king-speeches-rye-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-deeteric-king-speeches-rye-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/deeteric-king-speeches.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-bd",
+      "title": {
+        "english": "Discourse-the Word",
+        "ancient_greek": "Ἡ ἐπὶ τῷ λόγῳ διάλεξις"
+      },
+      "url_slug": "themistius-discourse-the-word-rye-bd",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/discourse-the-word",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-discourse-the-word-rye-bd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-discourse-the-word-rye-bd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-discourse-the-word-rye-bd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-discourse-the-word-rye-bd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/discourse-the-word.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-ay",
+      "title": {
+        "english": "Embassy to Emperor Theodosius",
+        "ancient_greek": "Πρεσβευτικὸς εἰς Θεοδόσιον αὐτοκράτορα"
+      },
+      "url_slug": "themistius-embassy-theodosius-rye-ay",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/embassy-theodosius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-theodosius-rye-ay.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-theodosius-rye-ay.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-theodosius-rye-ay.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-theodosius-rye-ay.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/embassy-theodosius.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-bi",
+      "title": {
+        "english": "Epitaph-the Father",
+        "ancient_greek": "Ἐπιτάφιος ἐπὶ τῷ πατρί"
+      },
+      "url_slug": "themistius-epitaph-father-rye-bi",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/epitaph-father",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-epitaph-father-rye-bi.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-epitaph-father-rye-bi.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-epitaph-father-rye-bi.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-epitaph-father-rye-bi.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/epitaph-father.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-bc",
+      "title": {
+        "english": "Erotic or-Royal Beauty",
+        "ancient_greek": "Ἐρωτικὸς ἢ περὶ κάλλους βασιλικοῦ"
+      },
+      "url_slug": "themistius-erotic-beauty-rye-bc",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/erotic-beauty",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-erotic-beauty-rye-bc.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-erotic-beauty-rye-bc.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-erotic-beauty-rye-bc.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-erotic-beauty-rye-bc.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/erotic-beauty.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-al",
+      "title": {
+        "english": "Exhortation to Nicomedians-Philosophy",
+        "ancient_greek": "Προτρεπτικὸς Νικομηδεῦσιν εἰς φιλοσοφίαν"
+      },
+      "url_slug": "themistius-exhortation-nicomedians-rye-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/exhortation-nicomedians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-nicomedians-rye-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-nicomedians-rye-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-nicomedians-rye-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-nicomedians-rye-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/exhortation-nicomedians.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-at",
+      "title": {
+        "english": "Exhortation to Young Valentinian",
+        "ancient_greek": "Προτρεπτικὸς Οὐαλεντινιανῷ νέῳ"
+      },
+      "url_slug": "themistius-exhortation-valentinian-rye-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/exhortation-valentinian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/exhortation-valentinian.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-az",
+      "title": {
+        "english": "Moderate or Fond of Children",
+        "ancient_greek": "Μετριοπαθὴς ἢ φιλότεκνος"
+      },
+      "url_slug": "themistius-moderate-children-rye-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/moderate-children",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-moderate-children-rye-az.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-moderate-children-rye-az.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-moderate-children-rye-az.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-moderate-children-rye-az.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/moderate-children.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-ao",
+      "title": {
+        "english": "On Aristotle's Physics, Paraphrase",
+        "ancient_greek": "Περὶ τῆς Ἀριστοτέλους Φυσικῆς"
+      },
+      "url_slug": "themistius-physics-paraphrase-rye-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/physics-paraphrase",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-physics-paraphrase-rye-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-physics-paraphrase-rye-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-physics-paraphrase-rye-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-physics-paraphrase-rye-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/physics-paraphrase.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-bj",
+      "title": {
+        "english": "On Friendship",
+        "ancient_greek": "Περὶ φιλίας"
+      },
+      "url_slug": "themistius-friendship-rye-bj",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/friendship",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-friendship-rye-bj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-friendship-rye-bj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-friendship-rye-bj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-friendship-rye-bj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/friendship.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-ai",
+      "title": {
+        "english": "On Not Paying Attention to Places but to Men",
+        "ancient_greek": "Περὶ τοῦ μὴ δεῖν τοῖς τόποις ἀλλὰ τοῖς ἀνδράσι"
+      },
+      "url_slug": "themistius-attention-men-rye-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/attention-men",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-attention-men-rye-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-attention-men-rye-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-attention-men-rye-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-attention-men-rye-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/attention-men.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "pcs-ag",
+      "title": {
+        "english": "Battle-the Alans",
+        "ancient_greek": "Ἔκταξις κατὰ Ἀλανῶν"
+      },
+      "url_slug": "arrian-of-nicomedia-battle-alans-pcs-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/battle-alans",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-battle-alans-pcs-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-battle-alans-pcs-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-battle-alans-pcs-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-battle-alans-pcs-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/battle-alans.epub"
+      }
+    },
+    {
+      "eul_wid": "jtm-aa",
+      "title": {
+        "english": "Fragments Pertaining to Herculaneum Papyri",
+        "ancient_greek": "Ἀποσπάσματα Περὶ Ἡρ. 176"
+      },
+      "url_slug": "epicurean-anon-herculaneum-papyri-jtm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicurean-anon/herculaneum-papyri",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon-herculaneum-papyri-jtm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon-herculaneum-papyri-jtm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon-herculaneum-papyri-jtm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon-herculaneum-papyri-jtm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon/herculaneum-papyri.epub"
+      }
+    },
+    {
+      "eul_wid": "iso-ag",
+      "title": {
+        "english": "Fragments and Title",
+        "ancient_greek": "Ἀποσπάσματα καὶ Τίτλος"
+      },
+      "url_slug": "callimachus-of-cyrene-fragments-iso-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-fragments-iso-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-fragments-iso-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-fragments-iso-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-fragments-iso-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-bh",
+      "title": {
+        "english": "How One Might Benefit from Enemies",
+        "ancient_greek": "Πῶς ἄν τις ἀπ ἐχθρῶν ὠφελοῖτο"
+      },
+      "url_slug": "plutarch-of-chaeronea-benefit-from-enemies-okg-bh",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/benefit-from-enemies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-benefit-from-enemies-okg-bh.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-benefit-from-enemies-okg-bh.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-benefit-from-enemies-okg-bh.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-benefit-from-enemies-okg-bh.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/benefit-from-enemies.epub"
+      }
+    },
+    {
+      "eul_wid": "udw-aa",
+      "title": {
+        "english": "On Nicomachus' Introduction to Arithmetic",
+        "ancient_greek": "Περὶ τῆς Νικομάχου ἀριθμητικῆς εἰσαγωγῆς"
+      },
+      "url_slug": "iamblichus-of-chalcis-nicomachus-arithmetic-udw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/iamblichus-of-chalcis/nicomachus-arithmetic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-nicomachus-arithmetic-udw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-nicomachus-arithmetic-udw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-nicomachus-arithmetic-udw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-nicomachus-arithmetic-udw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis/nicomachus-arithmetic.epub"
+      }
+    },
+    {
+      "eul_wid": "uqy-an",
+      "title": {
+        "english": "On Plato's Parmenides",
+        "ancient_greek": "Περὶ τοῦ Πλάτωνος Παρμενίδου"
+      },
+      "url_slug": "proclus-the-successor-plato-parmenides-uqy-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/proclus-the-successor/plato-parmenides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-plato-parmenides-uqy-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-plato-parmenides-uqy-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-plato-parmenides-uqy-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-plato-parmenides-uqy-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/plato-parmenides.epub"
+      }
+    },
+    {
+      "eul_wid": "bwc-aa",
+      "title": {
+        "english": "On the Nature of Plurality",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "zeno-of-elea-nature-plurality-bwc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/zeno-of-elea/nature-plurality",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea-nature-plurality-bwc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea-nature-plurality-bwc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea-nature-plurality-bwc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea-nature-plurality-bwc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea/nature-plurality.epub"
+      }
+    },
+    {
+      "eul_wid": "bue-ab",
+      "title": {
+        "english": "On the Nature of the Cosmos",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philolaus-of-croton-nature-cosmos-bue-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/philolaus-of-croton/nature-cosmos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton-nature-cosmos-bue-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton-nature-cosmos-bue-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton-nature-cosmos-bue-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton-nature-cosmos-bue-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton/nature-cosmos.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/themistius/embassy-constantinople-rome",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-constantinople-rome-rye-ac.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-constantinople-rome-rye-ac.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-constantinople-rome-rye-ac.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-constantinople-rome-rye-ac.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/embassy-constantinople-rome.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

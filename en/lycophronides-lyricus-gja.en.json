@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "gja",
+  "auth_slug": "lycophronides-lyricus",
+  "name": {
+    "english": "Lycophronides Lyricus",
+    "ancient_greek": "Λυκοφρωνίδης ὁ Λυρικός"
+  },
+  "seo_h1": "Lycophronides Lyricus on Beauty and Offerings",
+  "seo": {
+    "browser_title": "The Lycophronides Lyricus on Eulogikon Greek Archive",
+    "meta_title": "Classical Lycophronides Lyricus Ancient Greek Lyric Poetry",
+    "meta_description": "Lycophronides Lyricus, a 4th century BCE Greek lyric poet with fragmentary works in mixed dialects. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects (frg)",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Lycophronides was a 4th-century BCE Athenian lyric poet, as recorded in the 10th-century Byzantine encyclopedia, the Suda. He is distinguished by the epithet &quot;the Lyric&quot; from the later Hellenistic poet Lycophron of Chalcis. The Suda identifies him as an Athenian, though the occasional reference to &quot;Lycophronides of Chalcis&quot; may indicate an alternative origin or association.</p>\n<p class=\"research-text\">His output, known only through fragments, included melic poems, dithyrambs, and hymns. A skolion, or drinking song, preserved by Athenaeus contains a prayer mentioning the &quot;triple-bodied Geryon.&quot; A possible additional fragment appears in a scholion to Aristophanes&#x27; play <strong>Plutus</strong>.</p>\n<p class=\"research-text\">Lycophronides represents a minor figure from the later Greek lyric tradition. His primary significance lies in the preservation of his scant fragments within scholarly sources like the Suda and Athenaeus. These fragments provide a concrete, if limited, example of 4th-century convivial poetry and aid in distinguishing his legacy from that of his more famous namesake.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "gja-aa",
+      "title": {
+        "english": "Fragments on Beauty and Offerings",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κάλλους καὶ Ἀναθημάτων"
+      },
+      "url_slug": "lycophronides-lyricus-beauty-offerings-gja-aa",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/lycophronides-lyricus/beauty-offerings",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycophronides-lyricus-beauty-offerings-gja-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycophronides-lyricus-beauty-offerings-gja-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycophronides-lyricus-beauty-offerings-gja-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycophronides-lyricus-beauty-offerings-gja-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycophronides-lyricus/beauty-offerings.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/lycophronides-lyricus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lycophronides-lyricus-gja.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lycophronides-lyricus-gja.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lycophronides-lyricus-gja.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lycophronides-lyricus-gja.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

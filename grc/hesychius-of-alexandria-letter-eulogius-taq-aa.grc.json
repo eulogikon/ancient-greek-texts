@@ -1,0 +1,238 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "taq-aa",
+  "eul_aid": "taq",
+  "author_slug": "hesychius-of-alexandria",
+  "work_slug": "letter-eulogius",
+  "url_slug": "hesychius-of-alexandria-letter-eulogius-taq-aa",
+  "author": {
+    "english": "Hesychius the Alexandrian",
+    "ancient_greek": "Ἡσύχιος ὁ Ἀλεξανδρεύς"
+  },
+  "title": {
+    "english": "Letter to Eulogius",
+    "ancient_greek": "Ἐπιστολὴ πρὸς Εὐλόγιον"
+  },
+  "seo": {
+    "browser_title": "Letter to Eulogius by Hesychius the Alexandrian on Eulogikon",
+    "meta_title": "Classical Letter to Eulogius by Hesychius in Ancient Greek",
+    "meta_description": "Hesychius's epistle discussing lexicographical works comprehensive dictionary of Diogenianus. A grammatical text on ancient Greek vocabulary compilation."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Letter to Eulogius is an epistolary treatise by the grammarian Hesychius of Alexandria. Structured as a formal letter, it constitutes a focused piece of grammatical commentary written in response to a scholarly inquiry regarding the interpretation of the rare word <strong>amphasíē</strong>, which denotes a state of speechlessness, in Homer&#x27;s Odyssey. The work systematically presents Hesychius&#x27;s own lexicographical analysis of the term alongside the exegesis of other grammarians, thereby serving as a concise example of Homeric criticism. The letter survives as an independent text, transmitted separately from Hesychius&#x27;s major Lexicon in manuscripts dedicated to grammatical works; it remains complete and is available in modern critical editions. As a concrete artifact of late antique scholarship, the treatise illustrates the meticulous philological discourse conducted between scholars and exemplifies the methodological rigor that underpinned larger reference works, contributing to the cumulative tradition of ancient and Byzantine philology.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "[45]",
+      "text": "Ἡσύχιος γραμματικὸς Ἀλεξανδρεὺς Εὐλογίῳ τῷ ἑταίρῳ χαίρειν. Πολλοὶ μὲν καὶ ἄλλοι τῶν παλαιῶν τὰς κατὰ στοιχεῖον συντεθείκασι λέξεις, ὦ πάντων ἐμοὶ προσφιλέστατε Εὐλόγιε· ἀλλ’ οἱ μὲν τὰς Ὁμηρικὰς μόνας ὡς Ἀππίων καὶ Ἀπολλώνιος ὁ τοῦ Ἀρχιβίου· οἱ δὲ τὰς κωμικὰς ἰδίᾳ καὶ τὰς τραγικὰς ὡς Θέων καὶ Δίδυμος καὶ ἕτεροι τοιοῦτοι· ὁμοῦ δὲ πάσας τούτων οὐδὲ εἷς. Διογενιανὸς δέ τις μετὰ τούτους γεγονὼς ἀνὴρ σπουδαῖος καὶ φιλόκαλος, τά τε προειρημένα βιβλία καὶ πάσας τὰς σποράδην παρὰ πᾶσι κειμένας λέξεις συναγαγών, ὁμοῦ πάσας καθ’ ἕκαστον στοιχεῖον συντέθεικε· λέγω δὴ τάς τε Ὁμηρικὰς καὶ κωμικὰς καὶ τραγικάς, τάς τε παρὰ τοῖς λυρικοῖς καὶ παρὰ τοῖς ῥήτορσι κειμένας, οὐ μὴν ἀλλὰ καὶ 〈τὰσ〉 παρὰ τοῖς ἰατροῖς τάς τε παρὰ τοῖς ἱστοριογράφοις. συλλήβδην δὲ [ὁμοῦ] οὐδεμίαν λέξιν ἔσθ’ ἣν παρέλιπεν οὔτε τῶν παλαιῶν οὔτε τῶν ἐπ’ ἐκείνου γεγενημένων. προέθηκε δὲ κατ’ ἀρχὴν ἑκάστης λέξεως τριῶν ἢ τεσσάρων στοιχείων τάξιν, ἵν’ οὕτως εὐμαρεστέραν ἔχοι τὴν εὕρεσιν ἧς ἐπιζητεῖ τάξεως ὁ τοῖς βιβλίοις ἐντυγχάνειν προαιρούμενος. καὶ πρὸς τούτοις ὅσας οἷός τε ἦν παροιμίας εὑρεῖν, οὐδὲ ταύτας παρέλιπεν, ἐπιγράψας τὰ βιβλία Περιεργοπένητας, καὶ ταύτῃ χρησάμενος τῇ διανοίᾳ· ἡγεῖτο γάρ, οἶμαι, μὴ μόνοις πλουσίοις, ἀλλὰ καὶ τοῖς πένησι τῶν ἀνθρώπων χρησιμεύσειν τε καὶ ἀντὶ διδασκάλων ἀρκέσειν αὐτά, εἰ μόνον περιεργασάμενοι πανταχόθεν ἀνευρεῖν ταῦτα δυνηθεῖεν καὶ ἐγκρατεῖς αὐτῶν γενέσθαι. Ἐπαινῶ μὲν ἔγωγε τὸν ἄνδρα καὶ τῆς φιλοκαλίας καὶ τῆς σπουδῆς, ὅτι χρησιμωτάτην πραγματείαν καὶ τοῖς σπουδαίοις τῶν φιλολόγων ὠφελιμωτάτην χορηγίαν πρὸς ἅπασαν παιδείαν προείλετο παρέχειν. ἐβουλόμην δὲ αὐτὸν μήτε τὰς πλείους τῶν παροιμιῶν ψιλῶς καὶ ἄνευ τῶν ὑποθέσεων τεθεικέναι, μήτε τὰς ἐζητημένας τῶν λέξεων οὐκ ἐχούσας τά τε τῶν κεχρημένων ὀνόματα καὶ τὰς τῶν βιβλίων ἐπιγραφὰς ἔνθα φέρονται, τάς τε πολυσήμους αὐτῶν παραδραμεῖν καὶ ἀσαφεῖς παραλιπεῖν, δέον δὲ καὶ ἐν ταύταις ἑκάστης διαφόρου διανοίας τὴν παράστασιν ἀπὸ τῆς τῶν χρησαμένων μνήμης παρασχεῖν. ἅτινα σύμπαντα καὶ τῆς παρ’ ἡμῶν ἐπιμελείας δεηθέντα κατὰ δύναμιν τετύχηκε πάσης, ἐν δευτέρῳ κειμένης τῆς τῶν φιλεπιτιμητῶν μέμψεως. Οὐ γὰρ ὀκνήσω μετὰ παῤῥησίας εἰπεῖν ὅτι τῶν Ἀριστάρχου καὶ Ἀππίωνος καὶ Ἡλιοδώρου λέξεων εὐπορήσας, καὶ τὰ βιβλία προσθεὶς Διογενιανοῦ, ὃ πρῶτον καὶ μέγιστον ὑπάρχει πλεονέκτημα δαιτός, ἰδίᾳ χειρὶ γράφων ἐγώ, μετὰ πάσης ὀρθότητος καὶ ἀκριβεστάτης γραφῆς κατὰ τὸν γραμματικὸν Ἡρωδιανόν, λέξιν μὲν οὐδεμίαν παρέλιπον κειμένην ἐν αὐτοῖς, ἀλλὰ καὶ πλείστας οὐχ εὑρὼν προστέθεικα. ἐκείνην δὲ γραφὴν ἠξίωσα, ἧς εὕρισκον καὶ τὴν διάνοιαν τέλος περιέχουσαν καὶ τὴν φράσιν μετὰ τοῦ δοκίμου σαφῆ. ταῖς παροιμίαις ἀποδέδωκα τὰς ὑποθέσεις· καὶ τῶν πλειόνων λέξεων καὶ σπανίως εἰρημένων οὐ μόνον αὐτῶν τῶν χρησαμένων τὰ ὀνόματα προσγέγραφα, ἀλλὰ καὶ τὰς ἐπιγραφὰς πάντων μὲν ἀπὸ τῶν ἀντιγράφων προστιθείς, οὐδαμοῦ δὲ πονεῖν παραιτησάμενος, ὡς ἂν μὴ καὶ αὐτὸς μέμψιν ὀφλήσαιμι δικαίως τινά, καὶ οἷς ἐγκαλῶ Διογενιανῷ πεπτωκὼς φανείην. Καὶ πληρώσας τὴν πραγματείαν, ὅσον εἰς ἀνθρωπίνην ἐλήλυθε κρίσιν τέλος γεγενημένην, εἰ μὴ πού τις ἢ σαφὴς οὖσα λέξις ἢ οὐκ ἀναγκαία παραλέλειπται, ἀπέστειλα πρὸς τὴν σὴν ἀναμίλλητον φιλίαν, πεπεισμένος μὲν εἶναι τὸ κτῆμα μέγα, τὴν δὲ 〈φιλίαν τὴν〉 σὴν καὶ μειζόνων ἀξίαν ὑπάρχουσαν. εὔχομαι δὲ τῷ Θεῷ σωζόμενόν σε καὶ ὑγιαίνοντα χρήσασθαι τοῖς βιβλίοις. [Δεῖ εἰδέναι τὸν λέξιν τινὰ ζητοῦντα ἐν τῷ λεξικῷ τούτῳ, ὅτι εἰ σύνθετός ἐστιν ἡ λέξις ἣν ζητεῖ πολλάκις διαιρῶν αὐτὴν εἰς τὰς ἐξ ὧν σύγκειται εὑρίσκει αὐτῆς τὴν ἑρμηνείαν ἐν τῷ ἀρκτικῷ [αὐτῆς] γράμματι ἑνὸς τῶν μερῶν αὐτῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(50)",
+      "text": "οἷον· ἀνθρωποείκελος μὲν ὡς κεῖται ἐν συνθέσει οὐκ ἔχει, ἐὰν δὲ διέλῃς τὴν λέξιν καὶ ζητήσῃς ἐν τῷ εἴκ ω, εὕρῃς ” εἴκελος ὅμοιο ς,” ὡς εἶναι τὴν πᾶσαν λέξιν ἀνθρώπῳ ὅμοιο ς. καὶ ἐπὶ πολλῶν λέξεων τοῦτο ποιῶν πολλάκις, ὡς εἴρηται, εὑρίσκεις τὸ ζητούμενον.]",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "taq-ab",
+      "title": {
+        "english": "Lexicon Α–Ο",
+        "ancient_greek": "Λεξικὸν (Α—Ο)"
+      },
+      "url_slug": "hesychius-of-alexandria-lexicon-ab-taq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hesychius-of-alexandria/lexicon-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-alexandria-lexicon-ab-taq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-alexandria-lexicon-ab-taq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-alexandria-lexicon-ab-taq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-alexandria-lexicon-ab-taq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-alexandria/lexicon-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "taq-ac",
+      "title": {
+        "english": "Lexicon Π–Ω",
+        "ancient_greek": "Λεξικὸν (Π—Ω)"
+      },
+      "url_slug": "hesychius-of-alexandria-lexicon-ac-taq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hesychius-of-alexandria/lexicon-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-alexandria-lexicon-ac-taq-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-alexandria-lexicon-ac-taq-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-alexandria-lexicon-ac-taq-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-alexandria-lexicon-ac-taq-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-alexandria/lexicon-ac.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "piw-ab",
+      "title": {
+        "english": "Allegories-Hesiod's Theogony",
+        "ancient_greek": "Ἀλληγορίαι εἰς τὴν Θεογονίαν τοῦ Ἡσιόδου"
+      },
+      "url_slug": "galen-of-pergamon-ii-allegories-theogony-piw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon-ii/allegories-theogony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-ii-allegories-theogony-piw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-ii-allegories-theogony-piw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-ii-allegories-theogony-piw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-ii-allegories-theogony-piw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-ii/allegories-theogony.epub"
+      }
+    },
+    {
+      "eul_wid": "qnq-as",
+      "title": {
+        "english": "Excerpts from Herodian (Recension B)",
+        "ancient_greek": "Ἐκλογαὶ ἐξ Ἡρωδιανοῦ"
+      },
+      "url_slug": "herodian-of-alexandria-excerpts-as-qnq-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/excerpts-as",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-excerpts-as-qnq-as.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-excerpts-as-qnq-as.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-excerpts-as-qnq-as.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-excerpts-as-qnq-as.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/excerpts-as.epub"
+      }
+    },
+    {
+      "eul_wid": "tqa-ar",
+      "title": {
+        "english": "Grammatical Fragment",
+        "ancient_greek": "Γραμματικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "anonymous-greek-grammarian-fragment-ar-tqa-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-greek-grammarian/fragment-ar",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-ar-tqa-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-ar-tqa-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-ar-tqa-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-ar-tqa-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-ar.epub"
+      }
+    },
+    {
+      "eul_wid": "pgo-aa",
+      "title": {
+        "english": "Lexicthe Ten Attic Orators",
+        "ancient_greek": "Λεξικὸν εἰς τοὺς Δέκα Ἀττικοὺς Ῥήτορας"
+      },
+      "url_slug": "valerius-harpocration-attic-orators-pgo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/valerius-harpocration/attic-orators",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/valerius-harpocration-attic-orators-pgo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/valerius-harpocration-attic-orators-pgo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/valerius-harpocration-attic-orators-pgo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/valerius-harpocration-attic-orators-pgo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/valerius-harpocration/attic-orators.epub"
+      }
+    },
+    {
+      "eul_wid": "swu-ab",
+      "title": {
+        "english": "On Improprieties",
+        "ancient_greek": "Περὶ ἀκυρολογίας"
+      },
+      "url_slug": "ammonius-the-grammarian-improprieties-swu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/ammonius-the-grammarian/improprieties",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-the-grammarian-improprieties-swu-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-the-grammarian-improprieties-swu-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-the-grammarian-improprieties-swu-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-the-grammarian-improprieties-swu-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-the-grammarian/improprieties.epub"
+      }
+    },
+    {
+      "eul_wid": "mia-aa",
+      "title": {
+        "english": "On Signs in the Odyssey",
+        "ancient_greek": "Περὶ Σημίων Ὀδυσσείας"
+      },
+      "url_slug": "aristonicus-of-alexandria-signs-odyssey-mia-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristonicus-of-alexandria/signs-odyssey",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria-signs-odyssey-mia-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria-signs-odyssey-mia-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria-signs-odyssey-mia-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria-signs-odyssey-mia-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria/signs-odyssey.epub"
+      }
+    },
+    {
+      "eul_wid": "ppu-ad",
+      "title": {
+        "english": "Scholia-Pythian Odes V–VII",
+        "ancient_greek": "Σχόλια εἰς Πυθιακὰ ᾨδὰς Ε'-Ζ'"
+      },
+      "url_slug": "pindar-scholia-scholia-pythian-odes-ppu-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/pindar-scholia/scholia-pythian-odes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-pythian-odes-ppu-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-pythian-odes-ppu-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-pythian-odes-ppu-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-pythian-odes-ppu-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia/scholia-pythian-odes.epub"
+      }
+    },
+    {
+      "eul_wid": "dlq-aa",
+      "title": {
+        "english": "Scholia-the Anabasis of Cyrus",
+        "ancient_greek": "Σχόλια εἰς Κύρου Ἀνάβασιν"
+      },
+      "url_slug": "xenophon-commentary-anabasis-dlq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-commentary/anabasis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-commentary-anabasis-dlq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-commentary-anabasis-dlq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-commentary-anabasis-dlq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-commentary-anabasis-dlq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-commentary/anabasis.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hesychius-of-alexandria/letter-eulogius",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-alexandria-letter-eulogius-taq-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-alexandria-letter-eulogius-taq-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-alexandria-letter-eulogius-taq-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-alexandria-letter-eulogius-taq-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-alexandria/letter-eulogius.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

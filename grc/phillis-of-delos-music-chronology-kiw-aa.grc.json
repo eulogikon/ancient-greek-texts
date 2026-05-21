@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "kiw-aa",
+  "eul_aid": "kiw",
+  "author_slug": "phillis-of-delos",
+  "work_slug": "music-chronology",
+  "url_slug": "phillis-of-delos-music-chronology-kiw-aa",
+  "author": {
+    "english": "Phillis of Delos ",
+    "ancient_greek": "Φιλλὶς ἡ Δηλία (ἱστορικός)"
+  },
+  "title": {
+    "english": "On Music and Chronology",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "On Music and Chronology by Phillis of Delos on Eulogikon",
+    "meta_title": "On Music and Chronology by Phillis of Delos in Greek",
+    "meta_description": "Fragments by Phillis of Delos on music and chronology. Ancient Greek historiographical prose. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On Music and Chronology</strong> is a lost prose work attributed to Phillis of Delos, an otherwise unknown author. The Greek title, meaning &quot;Extracts,&quot; indicates the text was likely a compilation or anthology. It is known only from a handful of brief citations in later authors, which provide the sole evidence for its existence. These fragments suggest the work covered two distinct subjects: the chronology of early Greek history and the technical details of ancient music. One fragment, preserved by Athenaeus, quotes Phillis on the distinctions between various ancient stringed instruments, such as the <strong>pēktis</strong>, <strong>magadis</strong>, and <strong>sambykē</strong>, and describes their use in musical performance. Another citation references his chronological claims, placing the introduction of the Phoenician alphabet by Danaos prior to the time of Cadmus. While the work itself does not survive, its proposed Delian origin and its combination of musical and historical inquiry point to its potential value for understanding local traditions and intellectual interests in the Hellenistic period.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t1",
+      "text": "ΠΕΡΙ ΧΡΟΝΩΝ. Bekker.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Anecd. Gr.: Πυθόδωρος ἐν τῷ Περὶ στοιχείων αφιλλαις (scr. καὶ Φίλλις) ὁ Δήλιος ἐν τῷ Περὶ χρόνων πρὸ Κάδμου Δαναὸν μετακομίσαι αὐτά (τὰ γράμματά) φασιν. Ἐπιμαρτυροῦσι τούτοις καὶ οἱ Μιλησιακοὶ συγγραφεῖς Ἀναξίμανδρος καὶ Διονύσιος καὶ Ἑκαταῖος, οὓς καὶ Ἀπολλόδωρος ἐν Νεῶν καταλόγῳ παρατίθεται. ΠΕΡΙ ΜΟΥΣΙΚΗΣ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "t2-4",
+      "text": "E LIBRO SECUNDO. Athenaeus XV: Καὶ Φίλλις δ’ ὁ Δήλιος ἐν δευτέρῳ Περὶ μουσικῆς διαφέρειν φησὶ πηκτίδα μαγάδιδος, λέγων οὕτως· «Φοίνικες, πηκτίδες, μαγάδιδες, σαμβύκαι, ἰαμβύκαι, τρίγωνα, κλεψίαμβοι, σκινδαψοὶ, ἐννεάχορδα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Ἐν οἷς γὰρ (φησὶ) τοὺς ἰάμβους ᾖδον, ἰαμβύκας ἐκάλουν· ἐν οἷς δὲ παρελογίζοντο τὰ ἐν τοῖς μέτροις, κλεψιάμβους Μαγάδιδας δὲ τὰ διὰ πασῶν καὶ πρὸς ἴσα τὰ μέρη τῶν ᾀδόντων ἡρμοσμένα. Καὶ ἄλλα δ’ ἦν παρὰ ταῦτα· καὶ γὰρ βάρβιτος ἢ βάρμος· καὶ ἄλλα πλείονα, τὰ μὲν ἔγχορδα, τὰ δὲ ἔνηχα, κατεσκεύαζον.» Athen.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "I: Φίλλις ὁ Δήλιος μουσικὸς τοὺς ἀρχαίους φησὶ κιθαρῳδοὺς κινήσεις ἀπὸ μὲν τοῦ προσώπου μικρὰς φέρειν, ἀπὸ ποδῶν δὲ πλείους, ἐμβατηρίους καὶ χορευτικάς. Suidas: Σκόλιον, ἡ παροίνιος ᾠδή, ὡς Ἀριστόξενος καὶ Φίλλις ὁ μουσικὸς, ὅτι ἐν τοῖς γάμοις παρὰ μίαν τράπεζαν πολλὰς κλίνας τιθέντες παρὰ μέρος ἑξῆς μυρρίνας ἔχοντες ᾖδον γνώμας καὶ ἐρωτικὰ σύντονα· ἡ δὲ περίοδος σκολιὰ ἐγίνετο διὰ τὴν θέσιν τῶν κλινῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 (t)",
+      "text": "ΠΕΡΙ ΑΥΛΗΤΩΝ. Athenaeus XV: Magadin tibiarum genus esse neque Aristoxenus ait neque Pyrrander ἐν τῷ Περὶ αὐλητῶν, neque Φίλλις ὁ Δήλιος· ξυνέγραψε γὰρ καὶ οὗτος Περὶ αὐλητῶν καὶ Εὐφράνωρ.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "dlg-aa",
+      "title": {
+        "english": "Epeirotica: Oracles and Myths",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "proxenus-of-boeotia-oracles-myths-dlg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/proxenus-of-boeotia/oracles-myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proxenus-of-boeotia-oracles-myths-dlg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proxenus-of-boeotia-oracles-myths-dlg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proxenus-of-boeotia-oracles-myths-dlg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proxenus-of-boeotia-oracles-myths-dlg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proxenus-of-boeotia/oracles-myths.epub"
+      }
+    },
+    {
+      "eul_wid": "ecy-ac",
+      "title": {
+        "english": "Florentine Fragments",
+        "ancient_greek": "Φλωρεντινὰ Ἀποσπάσματα"
+      },
+      "url_slug": "hellenica-anon-florentine-fragments-ecy-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hellenica-anon/florentine-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-florentine-fragments-ecy-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-florentine-fragments-ecy-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-florentine-fragments-ecy-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-florentine-fragments-ecy-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon/florentine-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "vcw-aa",
+      "title": {
+        "english": "Fragments on Roman-Persian Relations",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ῥωμαϊκῶν καὶ Περσικῶν Σχέσεων"
+      },
+      "url_slug": "nonnosus-the-historian-roman-persian-relations-vcw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/nonnosus-the-historian/roman-persian-relations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnosus-the-historian-roman-persian-relations-vcw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnosus-the-historian-roman-persian-relations-vcw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnosus-the-historian-roman-persian-relations-vcw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnosus-the-historian-roman-persian-relations-vcw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnosus-the-historian/roman-persian-relations.epub"
+      }
+    },
+    {
+      "eul_wid": "bli-ab",
+      "title": {
+        "english": "Historical Fragments of Hecataeus",
+        "ancient_greek": "Ἀποσπάσματα Ἑκαταίου"
+      },
+      "url_slug": "hecataeus-of-miletus-historical-fragments-bli-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hecataeus-of-miletus/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-historical-fragments-bli-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-historical-fragments-bli-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-historical-fragments-bli-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-historical-fragments-bli-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus/historical-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "mmg-bd",
+      "title": {
+        "english": "Olympic Victors (Fragment A)",
+        "ancient_greek": "Ὀλυμπιονῖκαι"
+      },
+      "url_slug": "historical-fragments-anonymous-olympic-victors-bd-mmg-bd",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/olympic-victors-bd",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-olympic-victors-bd-mmg-bd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-olympic-victors-bd-mmg-bd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-olympic-victors-bd-mmg-bd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-olympic-victors-bd-mmg-bd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/olympic-victors-bd.epub"
+      }
+    },
+    {
+      "eul_wid": "mmg-bf",
+      "title": {
+        "english": "Roman Chronicle",
+        "ancient_greek": "Ῥωμαϊκὴ Χρονική"
+      },
+      "url_slug": "historical-fragments-anonymous-roman-chronicle-mmg-bf",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/roman-chronicle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-roman-chronicle-mmg-bf.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-roman-chronicle-mmg-bf.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-roman-chronicle-mmg-bf.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-roman-chronicle-mmg-bf.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/roman-chronicle.epub"
+      }
+    },
+    {
+      "eul_wid": "nlg-aa",
+      "title": {
+        "english": "Roman History Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "juba-ii-of-mauretania-roman-history-nlg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/juba-ii-of-mauretania/roman-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/juba-ii-of-mauretania-roman-history-nlg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/juba-ii-of-mauretania-roman-history-nlg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/juba-ii-of-mauretania-roman-history-nlg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/juba-ii-of-mauretania-roman-history-nlg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/juba-ii-of-mauretania/roman-history.epub"
+      }
+    },
+    {
+      "eul_wid": "rhq-aq",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "dio-cassius-of-nicaea-testimonies-rhq-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-testimonies-rhq-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-testimonies-rhq-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-testimonies-rhq-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-testimonies-rhq-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/testimonies.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/phillis-of-delos/music-chronology",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phillis-of-delos-music-chronology-kiw-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phillis-of-delos-music-chronology-kiw-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phillis-of-delos-music-chronology-kiw-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phillis-of-delos-music-chronology-kiw-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phillis-of-delos/music-chronology.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

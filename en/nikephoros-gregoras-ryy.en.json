@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ryy",
+  "auth_slug": "nikephoros-gregoras",
+  "name": {
+    "english": "Nikephoros Gregoras the Historian",
+    "ancient_greek": "Νικηφόρος Γρηγορᾶς ὁ Ἱστορικός"
+  },
+  "seo_h1": "Nikephoros Gregoras the Historian and the Roman History of Byzantium",
+  "seo": {
+    "browser_title": "Nikephoros Gregoras the Historian on Eulogikon Greek Archive",
+    "meta_title": "Ancient Nikephoros Gregoras Byzantine Greek History Works",
+    "meta_description": "Nikephoros Gregoras was a 14th century Byzantine historian. His work chronicles the Palaiologan era. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Βυζαντινὴ Ἑλληνική",
+      "english": "Byzantine Greek",
+      "href": "/dialects/byz"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Nikephoros Gregoras was a Byzantine scholar, historian, astronomer, and theologian active from approximately 1295 to 1360. Born in Heraclea Pontica, he moved to Constantinople as an orphan. There he studied under John Glykys and the polymath Theodore Metochites, whose patronage later secured him a chair in philosophy at the Chora Monastery.</p>\n<p class=\"research-text\">Gregoras was a central figure in the Hesychast controversy, becoming a vocal opponent of Gregory Palamas. His opposition led to his condemnation and house arrest after 1351. His major work is the <strong>Roman History</strong>, a 37-book history covering the period from 1204 to 1359, also referenced as <strong>Byzantina Historia</strong>. This work is a vital primary source for 14th-century Byzantine political and ecclesiastical history, particularly for the Hesychast dispute, despite its digressive style and pronounced anti-Palamite bias.</p>\n<p class=\"research-text\">He also produced numerous treatises on theology, astronomy, mathematics, rhetoric, and grammar, alongside a significant corpus of letters. This encyclopedic output exemplifies the intellectual range of late Byzantine learning and cements his reputation as one of the most erudite scholars of the Palaiologan period.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ryy-aa",
+      "title": {
+        "english": "Roman History",
+        "ancient_greek": "Ῥωμαϊκὴ Ἱστορία"
+      },
+      "url_slug": "nikephoros-gregoras-roman-history-ryy-aa",
+      "passages": 1667,
+      "links": {
+        "html": "https://eulogikon.org/grc/nikephoros-gregoras/roman-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nikephoros-gregoras-roman-history-ryy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nikephoros-gregoras-roman-history-ryy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nikephoros-gregoras-roman-history-ryy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nikephoros-gregoras-roman-history-ryy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nikephoros-gregoras/roman-history.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/nikephoros-gregoras",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nikephoros-gregoras-ryy.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nikephoros-gregoras-ryy.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nikephoros-gregoras-ryy.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nikephoros-gregoras-ryy.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

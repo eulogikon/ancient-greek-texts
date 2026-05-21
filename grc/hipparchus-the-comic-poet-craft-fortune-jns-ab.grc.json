@@ -1,0 +1,278 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "jns-ab",
+  "eul_aid": "jns",
+  "author_slug": "hipparchus-the-comic-poet",
+  "work_slug": "craft-fortune",
+  "url_slug": "hipparchus-the-comic-poet-craft-fortune-jns-ab",
+  "author": {
+    "english": "Hipparchus the Comic Poet",
+    "ancient_greek": "Ἵππαρχος ὁ κωμικός"
+  },
+  "title": {
+    "english": "Fragments on Craft and Fortune",
+    "ancient_greek": "Ἀποσπάσματα περὶ Τέχνης καὶ Τύχης"
+  },
+  "seo": {
+    "browser_title": "Fragments of Hipparchus the Comic Poet on Eulogikon",
+    "meta_title": "Fragments by Hipparchus the Comic Poet in Ancient Greek",
+    "meta_description": "Surviving comic fragments from Hipparchus exploring themes of skill and chance. Free download in original ancient Greek at Eulogikon Archive and library"
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Fragments on Craft and Fortune is a modern, thematic designation for a collection of ten passages attributed to the Athenian comic poet Hipparchus. No ancient work by this specific title survives; the fragments are excerpts preserved within the works of later authors and do not constitute a continuous play. The passages engage satirically with common philosophical and social themes, particularly the rivalry between human skill and random fortune. They include satire of artisans, philosophers, or politicians who overestimate their craft, and explore the unpredictability of life as a source of comic misfortune, often parodying contemporary ethical debates. The work from which these fragments derive is lost, and they survive through the typical indirect transmission of ancient comedy, likely via quotations in later grammarians, lexicographers, or authors such as Athenaeus. Hipparchus himself is an obscure figure, noted as a poet who wrote seven plays and who appears in lists compiled by Callimachus. While these fragments document no specific literary influence, they contribute to the broader understanding of the vast, lost corpus of Greek comedy and its treatment of universal themes.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Προσέχεις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τι τούτῳ τῷ στρατιώτῃ; ποῦ δ’ ἔχει ἀργύριον οὗτος; οὐδαμόθεν, εὖ οἶδ’ ἐγώ, ἀλλ’ ἢ δαπίδιον ἓν ἀγαπητὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "ποικίλον, Πέρσας ἔχον καὶ γρῦπας ἐξώλεις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "τινάς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_5][spk_β]τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "Περσικῶν. Β. ἐς κόρακας, ὦ μαστιγία. Α. καὶ κόνδυ καὶ ψυκτῆρα καὶ κυμβίον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Πολύ γ’ ἐστὶ πάντων κτῆμα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τιμιώτατον ἅπασιν ἀνθρώποισιν εἰς τὸ ζῆν τέχνη. τὰ μὲν γὰρ ἄλλα καὶ πόλεμος καὶ μεταβολαί τύχης ἀνήλως’, ἡ τέχνη δὲ σώζεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[spk_β]Ὁ λαβρώνιος δ’ ἔσθ’ οὗτος ὄρνις; Β. Ἡράκλεις, ποτήριον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "χρυσοῦς διακοσίους ἄγον. Α. ὢ περιβοήτου, φιλτάτη, λαβρωνίου.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "jns-aa",
+      "title": {
+        "english": "Fragments on Art and Wealth",
+        "ancient_greek": "Ἀποσπάσματα περὶ Τέχνης καὶ Πλούτου"
+      },
+      "url_slug": "hipparchus-the-comic-poet-art-wealth-jns-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hipparchus-the-comic-poet/art-wealth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-the-comic-poet-art-wealth-jns-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-the-comic-poet-art-wealth-jns-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-the-comic-poet-art-wealth-jns-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-the-comic-poet-art-wealth-jns-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-the-comic-poet/art-wealth.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "fgo-aa",
+      "title": {
+        "english": "Comic Fragments on Daily Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ Κωμικά"
+      },
+      "url_slug": "araros-son-of-aristophanes-comic-daily-life-fgo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/araros-son-of-aristophanes/comic-daily-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/araros-son-of-aristophanes-comic-daily-life-fgo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/araros-son-of-aristophanes-comic-daily-life-fgo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/araros-son-of-aristophanes-comic-daily-life-fgo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/araros-son-of-aristophanes-comic-daily-life-fgo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/araros-son-of-aristophanes/comic-daily-life.epub"
+      }
+    },
+    {
+      "eul_wid": "lig-aa",
+      "title": {
+        "english": "Culinary and Medical Dialogues",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philemon-the-younger-culinary-medical-dialogues-aa-lig-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philemon-the-younger/culinary-medical-dialogues-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger-culinary-medical-dialogues-aa-lig-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger-culinary-medical-dialogues-aa-lig-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger-culinary-medical-dialogues-aa-lig-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger-culinary-medical-dialogues-aa-lig-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger/culinary-medical-dialogues-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "ksm-ab",
+      "title": {
+        "english": "Fragments of a Comic Feast",
+        "ancient_greek": "Ἀποσπάσματα Συμποσίου Κωμικοῦ"
+      },
+      "url_slug": "aristomenes-of-alyzeia-comic-feast-ksm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristomenes-of-alyzeia/comic-feast",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristomenes-of-alyzeia-comic-feast-ksm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristomenes-of-alyzeia-comic-feast-ksm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristomenes-of-alyzeia-comic-feast-ksm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristomenes-of-alyzeia-comic-feast-ksm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristomenes-of-alyzeia/comic-feast.epub"
+      }
+    },
+    {
+      "eul_wid": "duw-ac",
+      "title": {
+        "english": "Fragments on Domestic Strife",
+        "ancient_greek": "Ἀποσπάσματα περὶ Οἰκογενειακῆς Στάσεως"
+      },
+      "url_slug": "phrynichus-the-comic-poet-domestic-strife-duw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/phrynichus-the-comic-poet/domestic-strife",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet-domestic-strife-duw-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet-domestic-strife-duw-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet-domestic-strife-duw-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet-domestic-strife-duw-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet/domestic-strife.epub"
+      }
+    },
+    {
+      "eul_wid": "dts-aa",
+      "title": {
+        "english": "Fragments on Fish and Seafood",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἰχθύων καὶ Θαλασσίων"
+      },
+      "url_slug": "aristonymus-the-comic-poet-fish-seafood-dts-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristonymus-the-comic-poet/fish-seafood",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonymus-the-comic-poet-fish-seafood-dts-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonymus-the-comic-poet-fish-seafood-dts-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonymus-the-comic-poet-fish-seafood-dts-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonymus-the-comic-poet-fish-seafood-dts-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonymus-the-comic-poet/fish-seafood.epub"
+      }
+    },
+    {
+      "eul_wid": "cgm-aa",
+      "title": {
+        "english": "Fragments on a Banquet",
+        "ancient_greek": "Ἀποσπάσματα περὶ Συμποσίου"
+      },
+      "url_slug": "timotheus-the-comic-poet-of-athens-banquet-fragments-cgm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/timotheus-the-comic-poet-of-athens/banquet-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens-banquet-fragments-cgm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens-banquet-fragments-cgm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens-banquet-fragments-cgm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens-banquet-fragments-cgm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens/banquet-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "edi-aa",
+      "title": {
+        "english": "Golden Age of Plenty",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "telecleides-the-comic-poet-golden-age-of-plenty-aa-edi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/telecleides-the-comic-poet/golden-age-of-plenty-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet-golden-age-of-plenty-aa-edi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet-golden-age-of-plenty-aa-edi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet-golden-age-of-plenty-aa-edi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet-golden-age-of-plenty-aa-edi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet/golden-age-of-plenty-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "cfi-aa",
+      "title": {
+        "english": "Simple Life",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "poliochus-the-comic-poet-simple-life-cfi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/poliochus-the-comic-poet/simple-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/poliochus-the-comic-poet-simple-life-cfi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/poliochus-the-comic-poet-simple-life-cfi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/poliochus-the-comic-poet-simple-life-cfi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/poliochus-the-comic-poet-simple-life-cfi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/poliochus-the-comic-poet/simple-life.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hipparchus-the-comic-poet/craft-fortune",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-the-comic-poet-craft-fortune-jns-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-the-comic-poet-craft-fortune-jns-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-the-comic-poet-craft-fortune-jns-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-the-comic-poet-craft-fortune-jns-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-the-comic-poet/craft-fortune.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

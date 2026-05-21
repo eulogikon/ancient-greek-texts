@@ -1,0 +1,271 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "hvc-ab",
+  "eul_aid": "hvc",
+  "author_slug": "aeschrion-of-samos",
+  "work_slug": "epigram",
+  "url_slug": "aeschrion-of-samos-epigram-hvc-ab",
+  "author": {
+    "english": "Aeschrion of Samos",
+    "ancient_greek": "Αἰσχρίων ὁ Σάμιος"
+  },
+  "title": {
+    "english": "Epigram",
+    "ancient_greek": "Ἐπίγραμμα"
+  },
+  "seo": {
+    "browser_title": "Epigram by Aeschrion of Samos on Eulogikon Digital Archive",
+    "meta_title": "The Epigram by Aeschrion of Samos in Ancient Greek",
+    "meta_description": "Epigram by Aeschrion of Samos, a short poetic inscription from the Greek tradition. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (ia, frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Epigram attributed to Aeschrion of Samos is a short funerary poem preserved within the Palatine Anthology, also known as the Greek Anthology. It appears in Book 7 of the compilation, which is dedicated to sepulchral epigrams, and the text survives complete through this manuscript tradition. The poem consists of nine lines spoken from the tomb of the courtesan Philaenis, who vigorously defends her posthumous reputation against slanderous accusations of promiscuity. She addresses passing sailors, swearing oaths to Zeus and the gods of the underworld that she was not lustful or vulgar. Instead, she blames a man named Polycrates, an Athenian characterized by deceptive speech and a malicious tongue, for fabricating these claims. As an iambic poet known for satire and invective, Aeschrion brings a characteristic sharpness and personal focus to this epitaphic form. The work&#x27;s transmission is secured by its inclusion in the major Byzantine compilation of the Palatine Anthology, which ensured the preservation of thousands of Greek epigrams. As a component of this seminal collection, the epigram contributes to the continuity of the Hellenistic epigrammatic tradition. The Greek Anthology itself served as a crucial reservoir for later European literature, profoundly influencing the revival and development of the epigram form from the Renaissance onward.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 345.1.1",
+      "text": "Ἐγὼ Φιλαινὶς ἡ ’πίβωτος ἀνθρώποις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 345.1.2",
+      "text": "ἐνταῦθα γήρᾳ τῷ μακρῷ κεκοίμημαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 345.1.3",
+      "text": "μή μ’, ὦ μάταιε ναῦτα, τὴν ἄκραν κάμπτων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 345.1.4",
+      "text": "χλεύην τε ποιεῦ καὶ γέλωτα καὶ λάσθην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 345.5.1",
+      "text": "οὐ γάρ, μὰ τὸν Ζῆν’, οὐ μὰ τοὺς κάτω κούρους,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 345.5.2",
+      "text": "οὐκ ἦν ἐς ἄνδρας μάχλος οὐδὲ δημώδης·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 345.5.3",
+      "text": "Πολυκράτης δὲ τὴν γενὴν Ἀθηναῖος,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 345.5.4",
+      "text": "λόγων τι παιπάλημα καὶ κακὴ γλῶσσα,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 345",
+      "text": "ἔγραψεν, οἷ’ ἔγραψ’· ἐγὼ γὰρ οὐκ οἶδα.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "hvc-aa",
+      "title": {
+        "english": "Fragments and Titles",
+        "ancient_greek": "Ἀποσπάσματα καὶ Τίτλοι"
+      },
+      "url_slug": "aeschrion-of-samos-fragments-hvc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschrion-of-samos/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschrion-of-samos-fragments-hvc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschrion-of-samos-fragments-hvc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschrion-of-samos-fragments-hvc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschrion-of-samos-fragments-hvc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschrion-of-samos/fragments.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "ewe-aa",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "parrhasius-of-ephesus-epigrams-ewe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/parrhasius-of-ephesus/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parrhasius-of-ephesus-epigrams-ewe-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parrhasius-of-ephesus-epigrams-ewe-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parrhasius-of-ephesus-epigrams-ewe-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parrhasius-of-ephesus-epigrams-ewe-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parrhasius-of-ephesus/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "aqe-aa",
+      "title": {
+        "english": "Fragments of Sappho and Alcaeus",
+        "ancient_greek": "Ἀποσπάσματα Σαπφοῦς καὶ Ἀλκαίου"
+      },
+      "url_slug": "sappho-and-alcaeus-of-lesbos-fragments-aqe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sappho-and-alcaeus-of-lesbos/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-of-lesbos-fragments-aqe-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-of-lesbos-fragments-aqe-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-of-lesbos-fragments-aqe-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-of-lesbos-fragments-aqe-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-of-lesbos/fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "puk-ab",
+      "title": {
+        "english": "Fragments on Sea and Nile",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θαλάσσης καὶ Νείλου"
+      },
+      "url_slug": "song-of-the-sailors-sea-nile-puk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/song-of-the-sailors/sea-nile",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors-sea-nile-puk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors-sea-nile-puk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors-sea-nile-puk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors-sea-nile-puk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors/sea-nile.epub"
+      }
+    },
+    {
+      "eul_wid": "uyq-ac",
+      "title": {
+        "english": "Genuine Songs",
+        "ancient_greek": "Γνήσιαι ᾨδαί"
+      },
+      "url_slug": "romanos-the-melodist-genuine-songs-uyq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/romanos-the-melodist/genuine-songs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-the-melodist-genuine-songs-uyq-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-the-melodist-genuine-songs-uyq-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-the-melodist-genuine-songs-uyq-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-the-melodist-genuine-songs-uyq-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-the-melodist/genuine-songs.epub"
+      }
+    },
+    {
+      "eul_wid": "upu-be",
+      "title": {
+        "english": "Hymn 19 To Pan",
+        "ancient_greek": "Ὕμνος εἰς Πᾶνα"
+      },
+      "url_slug": "homeric-hymns-anonymous-pan-upu-be",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/pan",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-pan-upu-be.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-pan-upu-be.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-pan-upu-be.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-pan-upu-be.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/pan.epub"
+      }
+    },
+    {
+      "eul_wid": "apu-ab",
+      "title": {
+        "english": "Hymn to Aphrodite",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "sappho-of-lesbos-hymn-aphrodite-apu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/sappho-of-lesbos/hymn-aphrodite",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-hymn-aphrodite-apu-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-hymn-aphrodite-apu-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-hymn-aphrodite-apu-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-hymn-aphrodite-apu-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos/hymn-aphrodite.epub"
+      }
+    },
+    {
+      "eul_wid": "bgi-aa",
+      "title": {
+        "english": "Lover of Mirmillo",
+        "ancient_greek": "Ὁ Ἐραστὴς τοῦ Μιρμίλλου"
+      },
+      "url_slug": "anacreon-of-teos-ii-lover-of-mirmillo-bgi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anacreon-of-teos-ii/lover-of-mirmillo",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-ii-lover-of-mirmillo-bgi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-ii-lover-of-mirmillo-bgi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-ii-lover-of-mirmillo-bgi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-ii-lover-of-mirmillo-bgi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-ii/lover-of-mirmillo.epub"
+      }
+    },
+    {
+      "eul_wid": "hdk-aa",
+      "title": {
+        "english": "Paean to Dionysus",
+        "ancient_greek": "Παιὰν πρὸς Διόνυσον"
+      },
+      "url_slug": "philodamus-of-scarpheia-paean-dionysus-hdk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philodamus-of-scarpheia/paean-dionysus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodamus-of-scarpheia-paean-dionysus-hdk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodamus-of-scarpheia-paean-dionysus-hdk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodamus-of-scarpheia-paean-dionysus-hdk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodamus-of-scarpheia-paean-dionysus-hdk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodamus-of-scarpheia/paean-dionysus.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aeschrion-of-samos/epigram",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschrion-of-samos-epigram-hvc-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschrion-of-samos-epigram-hvc-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschrion-of-samos-epigram-hvc-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschrion-of-samos-epigram-hvc-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschrion-of-samos/epigram.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

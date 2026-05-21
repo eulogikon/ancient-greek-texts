@@ -1,0 +1,341 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "qja-ab",
+  "eul_aid": "qja",
+  "author_slug": "aglaias-of-byzantium",
+  "work_slug": "medical-recipe",
+  "url_slug": "aglaias-of-byzantium-medical-recipe-qja-ab",
+  "author": {
+    "english": "Aglaias of Byzantium",
+    "ancient_greek": "Ἀγλαΐας ὁ Βυζάντιος"
+  },
+  "title": {
+    "english": "Medical Recipe for Demetrius",
+    "ancient_greek": "Ἀπόσπασμα"
+  },
+  "seo": {
+    "browser_title": "Medical Recipe for Demetrius by Aglaias Byzantium Eulogikon",
+    "meta_title": "Ancient Medical Recipe for Demetrius by Aglaias in Greek",
+    "meta_description": "Aglaias of Byzantium composed this medical recipe in verse form as a gift for his friend Demetrius, blending Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Medical Recipe for Demetrius is a lost didactic poem by Aglaias of Byzantium, a physician from Constantinople. Composed in verse and structured in nineteen passages, the work is a technical prescription addressed to an individual named Demetrius, situating it within the Byzantine tradition of rendering medical material in poetic form for mnemonic and instructional purposes. Its content focused on medical treatment and pharmacology, employing a didactic poetic form and indicating a relationship of patronage through its dedication. The work is known solely from an entry in the tenth-century Byzantine encyclopedia, the Suda, which records its title, author, and format, but no fragments or further description of its medical content survive. As a lost verse recipe, the poem exemplifies the breadth of technical didactic poetry in the Greek tradition and provides evidence for professional medical exchange and patronage in the Byzantine world.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 18.1",
+      "text": "Ἀγλαΐας τόδε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.2",
+      "text": "σοι Βυζάντιος ἐσθλὸν ἰάλλω [para]ἰητὴρ ἑτάρῳ δῶρον ἀοιδοπόλῳ, ὀφθαλμῶν μὲν ἄκος, Δημήτριε, τῶν ὑποχεῖσθαι [para]ἀρχομένων, ὑπ’ ἐμῆς δ’ εὑρεθὲν εὐμογίης.[ln_5]καὶ σοὶ δ’ ἔξοχον ἔσται ἐς ἄχθεα, παντί τ’ ὄνειαρ [para]παρμόνιμον, κάμψῃς ἄχρι κεν ἐς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.3",
+      "text": "πλέονας. ὅσσα δ’ ἔχει θρόνα λέξαι ἔοικέ μοι, ὡς ἐπαρήγειν [para]χρῄσαντι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.4",
+      "text": "σθεναρὴ σύνθεσις ἥδε πέλει. ἄνθους μὲν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.5",
+      "text": "χαλκοῦ πεντώβολον, ἰσοβαρὲς δὲ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.1",
+      "text": "[ln_10]τοῦ συοδηλήτου τὴν ἐρατὴν γενέτιν. καὶ μεῖον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.2",
+      "text": "τούτων ὀβολῷ στρόγγυλμα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.3",
+      "text": "πυραιθὲς [para]πρόσθες ὃ Καλλατικοῖς ἄλδεται ἐν δαπέδοις. καὶ δύο διδράχμω, τὸ μὲν ἐκ ξανθότριχος ἄνθους, [para]αἴνυσο δ’ ἐκ μηδέων θάτερον ἱπποδάμου,[ln_15]ἡμίσταθμον ὅτου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.4",
+      "text": "πατρὸς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.5",
+      "text": "ψευδωνύμου ἔστω, [para]ὃς γῆμαι δμωῆς υἱέϊ δῶκε κόρην. στῆσον δ’ αὖ †ἀλόϊον ἓν ἥμισυ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.6",
+      "text": "τοῦ προτέροιο [para]ἄχθος· ἄγε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.7",
+      "text": "στάχυος 〈Σ〉ινδογενοῦς ὀβολόν. διστάσιος δ’ αὐτῷ πελέτω λίθος εἰαριήτης,[ln_20]διστάσιον δ’ ἀφροῦ θρύμμα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.8",
+      "text": "Φακουσιακοῦ. σὺν δὲ τριάκοντα δραχμαῖς ἔτι καὶ δύο μίσγε ὁλκὰς ἐξ ἄνθους νάμασι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.9",
+      "text": "πηγὸς ἁλός. καὶ †Ζακορίσου Μούσαις ἰσάριθμον ὄπισμα [para]δραχμόθεν ἔστω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.10",
+      "text": "σοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.11",
+      "text": "συγκατακιρνάμενον[ln_25]τετραμόρου κοτύλης ὃ τιτύσκεται οὐ διὰ χειρῶν [para]ἐν δαπέδοις Ἀκτῆς ἀλλὰ διὰ στομάτων. λεῖα δὲ πάντα καθ’ ἓν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.12",
+      "text": "τρίψας ἀνάμισγε σὺν ὑγροῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.1",
+      "text": "τημελέως τ’ ἀπόθου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.2",
+      "text": "τεῦχος ἐς ἀργύρεον. *",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "qja-aa",
+      "title": {
+        "english": "To the Initial Discharges",
+        "ancient_greek": "Πρὸς τὰς ἀρχομένας ὑποχύσεις"
+      },
+      "url_slug": "aglaias-of-byzantium-initial-discharges-qja-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aglaias-of-byzantium/initial-discharges",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium-initial-discharges-qja-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium-initial-discharges-qja-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium-initial-discharges-qja-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium-initial-discharges-qja-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium/initial-discharges.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "auu-ab",
+      "title": {
+        "english": "Epic Fragments",
+        "ancient_greek": "Ἐπικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "asius-of-samos-epic-fragments-auu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/asius-of-samos/epic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-of-samos-epic-fragments-auu-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-of-samos-epic-fragments-auu-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-of-samos-epic-fragments-auu-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-of-samos-epic-fragments-auu-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-of-samos/epic-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "ahs-aa",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "dorieus-of-sparta-epigram-ahs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dorieus-of-sparta/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorieus-of-sparta-epigram-ahs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorieus-of-sparta-epigram-ahs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorieus-of-sparta-epigram-ahs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorieus-of-sparta-epigram-ahs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorieus-of-sparta/epigram.epub"
+      }
+    },
+    {
+      "eul_wid": "mdu-aa",
+      "title": {
+        "english": "Epitaph for Bion",
+        "ancient_greek": "Αποσπάσματα"
+      },
+      "url_slug": "moschus-of-syracuse-epitaph-bion-mdu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/moschus-of-syracuse/epitaph-bion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-epitaph-bion-mdu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-epitaph-bion-mdu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-epitaph-bion-mdu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-epitaph-bion-mdu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/epitaph-bion.epub"
+      }
+    },
+    {
+      "eul_wid": "iei-aa",
+      "title": {
+        "english": "Fragments IG 4.950",
+        "ancient_greek": "Ἀποσπάσματα IG 4.950"
+      },
+      "url_slug": "isyllus-of-epidaurus-fragments-ig-4-950-iei-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/isyllus-of-epidaurus/fragments-ig-4-950",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isyllus-of-epidaurus-fragments-ig-4-950-iei-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isyllus-of-epidaurus-fragments-ig-4-950-iei-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isyllus-of-epidaurus-fragments-ig-4-950-iei-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isyllus-of-epidaurus-fragments-ig-4-950-iei-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isyllus-of-epidaurus/fragments-ig-4-950.epub"
+      }
+    },
+    {
+      "eul_wid": "tre-aa",
+      "title": {
+        "english": "Fragments P. Heidelberg 222",
+        "ancient_greek": "Ἀποσπάσματα Π. Ἑϊδελβέργ 222"
+      },
+      "url_slug": "fables-of-trees-and-birds-heidelberg-222-tre-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/fables-of-trees-and-birds/heidelberg-222",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fables-of-trees-and-birds-heidelberg-222-tre-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fables-of-trees-and-birds-heidelberg-222-tre-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fables-of-trees-and-birds-heidelberg-222-tre-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fables-of-trees-and-birds-heidelberg-222-tre-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fables-of-trees-and-birds/heidelberg-222.epub"
+      }
+    },
+    {
+      "eul_wid": "iji-aa",
+      "title": {
+        "english": "Hymn to Pan of Arcadia",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "castorion-of-soli-hymn-pan-iji-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/castorion-of-soli/hymn-pan",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/castorion-of-soli-hymn-pan-iji-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/castorion-of-soli-hymn-pan-iji-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/castorion-of-soli-hymn-pan-iji-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/castorion-of-soli-hymn-pan-iji-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/castorion-of-soli/hymn-pan.epub"
+      }
+    },
+    {
+      "eul_wid": "gfe-ab",
+      "title": {
+        "english": "On the Senses and Human Excellence",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "simylus-the-elegiac-poet-senses-excellence-gfe-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/simylus-the-elegiac-poet/senses-excellence",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-elegiac-poet-senses-excellence-gfe-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-elegiac-poet-senses-excellence-gfe-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-elegiac-poet-senses-excellence-gfe-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-elegiac-poet-senses-excellence-gfe-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-elegiac-poet/senses-excellence.epub"
+      }
+    },
+    {
+      "eul_wid": "hvm-ab",
+      "title": {
+        "english": "Poetic Fragments",
+        "ancient_greek": "Ποιητικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "philetas-of-cos-poetic-fragments-hvm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/philetas-of-cos/poetic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetas-of-cos-poetic-fragments-hvm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetas-of-cos-poetic-fragments-hvm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetas-of-cos-poetic-fragments-hvm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetas-of-cos-poetic-fragments-hvm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetas-of-cos/poetic-fragments.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aglaias-of-byzantium/medical-recipe",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium-medical-recipe-qja-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium-medical-recipe-qja-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium-medical-recipe-qja-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium-medical-recipe-qja-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium/medical-recipe.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,1252 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "cbm-at",
+  "eul_aid": "cbm",
+  "author_slug": "euripides",
+  "work_slug": "phaethon",
+  "url_slug": "euripides-phaethon-cbm-at",
+  "author": {
+    "english": "Euripides",
+    "ancient_greek": "Εὐριπίδης"
+  },
+  "title": {
+    "english": "Phaethon",
+    "ancient_greek": "Φαέθων"
+  },
+  "seo": {
+    "browser_title": "Phaethon: The Sun Chariot Tragedy by Euripides on Eulogikon",
+    "meta_title": "Phaethon: The Sun Chariot by Euripides in Ancient Greek",
+    "meta_description": "Euripides' tragedy about Phaethon and the sun chariot. Classical Athenian drama in Attic verse. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δράμα Ἀττικόν",
+      "english": "Attic Drama",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Δρᾶμα",
+      "english": "Drama",
+      "href": "/domains/drama"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Phaethon is a lost tragedy by Euripides that dramatizes the myth of the mortal son of the sun god Helios. The plot follows Phaethon’s fatal attempt to prove his divine parentage by driving his father’s solar chariot across the sky. Unable to control the celestial horses, he veers catastrophically close to Earth, threatening to set the world ablaze. To prevent cosmic conflagration, Zeus strikes him down with a thunderbolt. The play survives only in fragments, approximately 124 in total, preserved through quotations in later ancient authors and on papyrus. The most significant of these, a papyrus known as P. Berol. 9771, contains a substantial portion of the play’s climax, including the chariot’s crash and the subsequent lamentations.</p>\n<p class=\"research-text\">The tragedy explores themes of hubris and the fatal consequences of a mortal overreaching into the divine realm. It delves into Phaethon’s struggle with his identity and lineage, examining his relationships with his foster father, Merops, and his true father, Helios. The narrative emphasizes the cosmic disorder caused by Phaethon’s ride, which necessitates Zeus’s violent intervention to restore the natural order. The surviving fragments highlight intense mourning, particularly from Phaethon’s mother, Clymene, and his sisters, the Heliades, who are transformed into poplar trees weeping amber tears. The play is noted for its innovative dramatic structure, including a so-called false prologue that initially presents the opening scene under a misleading pretext.</p>\n<p class=\"research-text\">Knowledge of the play derives entirely from fragmentary sources, including quotations in anthologists like Stobaeus, ancient scholarly commentaries, and papyrus discoveries. These fragments have been crucial for reconstructing the plot sequence and appreciating Euripides’ late stylistic and formal experimentation. Though incomplete, Phaethon remains significant for understanding the evolution of Athenian tragedy. The myth itself endured, most famously retold in Ovid’s Metamorphoses, an account that likely drew upon Euripidean elements for its pathos and dramatic detail.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t",
+      "text": "ΦΑΕΘΩΝ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Μέροπι τῆσδ’ ἄνακτι γῆς, ἣν ἐκ τεθρίππων ἁρμάτων πρώτην χθόνα Ἥλιος ἀνίσχων χρυσέαι βάλλει φλογί. καλοῦσι δ’ αὐτὴν γείτονες μελάμβροτοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "Ἕω φαεννὰς Ἡλίου θ’ ἱπποστάσεις. . . .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "θερμὴ δ’ ἄνακτος φλὸξ ὑπερτέλλουσα γῆς . . . . . . . .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "καίει τὰ πόρσω τἀγγύθεν δ’ εὔκρατ’ ἔχει. . . .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "αγ̣α̣ς̣ θεῶν κ̣πέμπων πατήρ ⁚",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "εις λ̣έ̣χο̣ς̣ . α̣ιλ̣οσε̣υς̣ .... α̣ . α̣ς̣ ... ₍ . ₎ ω̣ν̣ λ̣έχη ⁚ ν̣ο̣σ̣μ̣ε̣ν̣η̣ι̣",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "ε̣γω̣ .... ₍ . ₎₍ . ₎",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "νονθ’ ὁρῶ ω̣μ̣ενο̣ν ⁚ ₍ ...... ₎ μ̣ηλίους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20",
+      "text": "δ̣εν πατρί ...... ₍ . ₎ ν . ₍ . ₎ πατήρ ⁚ ε̣υ̣π̣εφ̣υς̣ η̣ θ̣ε̣ᾶ̣ς̣ λέχη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25",
+      "text": "ἀ̣εὶ λέγ̣εις̣ ν̣ θ̣ε̣ο̣ύς̣ λ̣π̣ίσιν̣ ... ₍ . ₎ ερον ε̣λ̣η̣μ̣ε̣θ̣α̣",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30",
+      "text": ".. υ̣γμ̣αι̣ φι̣λ̣ε̣ῖ̣ α̣τ̣η̣ς̣ γ̣ά̣μοι . ευσα . ε̣ ₍ . ₎ ω̣ ς̣ . α̣ι̣ π̣ι̣κ̣ρ̣α̣ι̣ . ω̣μ̣ε̣νο̣υ ₍ . ₎",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "35",
+      "text": "θων̣ ὅτου .... φυ̣ . ⁚ ₍ ...... ₎ ν̣έπουσά μοι λησ̣ω πατρός",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "40",
+      "text": "₍ ...... ₎ . ο̣ν̣ φίλον ⁚ ὰ φίλτατα· ε̣υ̣δ̣η̣ . ι̣θ̣ε̣ις̣",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "ο̣τ̣α̣ν φαν .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "45",
+      "text": "(desunt versus quattuor)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "45",
+      "text": "μνησθεὶς ὅ μοί ποτ’ εἶφ’ ὅτ’ ηὐνάσθη θεὸς αἰτοῦ τί χρήιζεις ἕν· πέρα γὰρ οὐ θέμις λαβεῖν σε· κἂν μὲν τυγχάνηις 〈ὅπερ θέλεισ〉 θεοῦ πέφυκας· εἰ δὲ μή, ψευδὴς ἐγώ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "πῶς οὖν πρόσειμι δῶμα θερμὸν Ἡλίου;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "(50)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "εἴπερ πατὴρ πέφυκεν, οὐ κακῶς λέγεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "σάφ’ ἴσθι· πεύσηι δ’ αὐτὸ τῶι χρόνωι σαφῶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "ἀρκεῖ· πέποιθα γάρ σε μὴ ψευδῆ λέγειν. ἀλλ’ ἕρπ’ ἐς οἴκους· καὶ γὰρ αἵδ’ ἔξω δόμων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "55",
+      "text": "δμωιαὶ περῶσιν, αἳ πατρὸς κατὰ σταθμὰ σαίρουσι δῶμα καὶ δόμων κειμήλια καθ’ ἡμέραν φοιβῶσι κἀπιχωρίοις ὀσμαῖσι θυμιῶσιν εἰσόδους δόμων. ὅταν δ’ ὕπνον γεραιὸς ἐκλιπὼν πατὴρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "60",
+      "text": "πύλας ἀμείψηι καὶ λόγους γάμων πέρι λέξηι πρὸς ἡμᾶς, Ἡλίου μολὼν δόμους τοὺς σοὺς ἐλέγξω, μῆτερ, εἰ σαφεῖς λόγοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "63",
+      "text": "ἤ̣δ̣η̣ μὲν ἀρτιφανὴς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "Ἀὼς ἱ̣ κατὰ γᾶν,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "65",
+      "text": "ὑπὲρ δ’ ἐμᾶς κεφαλᾶς Πλειά, μέλπει δὲ δένδρεσι λεπτ‐ ὰν ἀηδὼν ἁρμονίαν ὀρθρευομένα γόοις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "70",
+      "text": "Ἴτυν Ἴτυν πολύθρηνον. σύριγγας δ’ οὐριβάται κινοῦσιν ποιμνᾶν ἐλάται, ἔγρονται δ’ εἰς βοτάναν ξανθᾶν πώλων συζυγίαι·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "75",
+      "text": "ἤδη δ’ εἰς ἔργα κυνα‐ γοὶ στείχουσιν θηροφόνοι, παγαῖς τ’ ἐπ’ Ὠκεανοῦ μελιβόας κύκνος ἀχεῖ. ἄκατοι δ’ ἀνάγονται ὑπ’ εἰρεσίαις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "80",
+      "text": "ἀνέμων τ’ εὐαέσσιν ῥοθίοις, ἀνὰ̣ δ̣’ ἱ̣σ̣τ̣ί̣α̣ ν̣ ἀειράμενοι ἰαχοῦσιν π̣ό̣τνι’ αὔρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "ἀκύμονι πομπᾶι σιγώντων ἀνέμων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85",
+      "text": "τε καὶ φιλίας ἀλόχους· σινδὼν δὲ πρότ̣ονον ἐπὶ μέσον πελάζει. τὰ μὲν οὖν ἑτέροισι μέριμνα π̣έλει, κόσμον δ’ ὑμεναίων δεσποσύνων ἐμὲ καὶ τὸ δίκαιον ἄγει καὶ ἔρως",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "90",
+      "text": "ὑμνεῖν· δμωσὶν γὰρ ἀνάκτων εὐαμερίαι προσιοῦσαι μολπᾶι θάρσος ἄγους’ ἐπιχάρματά τ’· εἰ δὲ τύχα τι τέκοι βαρὺν βαρεῖα φόβον ἔπεμψεν οἴκοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "95",
+      "text": "ὁρίζεται δὲ τόδε φάος γάμων τέλει, τὸ δή ποτ’ εὐχαῖς ἐγὼ λισσομένα προσέβαν ὑμέναιον ἀεῖσαι φίλον φίλων δεσποτᾶν· θεὸς ἔδωκε, χρόνος ἔκρανε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "(100)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "ἀλλ’ ὅδε γὰρ δὴ βασιλεὺς πρὸ δόμων κῆρύξ θ’ ἱερὸς καὶ παῖς Φαέθων βαίνουσι τριπλοῦν ζεῦγος, ἔχειν χρὴ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "105",
+      "text": "στόμ’ ἐν ἡσυχίαι· περὶ γὰρ μεγάλων γνώμας δείξει παῖδ’ ὑμεναίοις ὁσίοισι θέλων ζεῦξαι νύμφης τε λεπάδνοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "109",
+      "text": "Ὠκεανοῦ πεδίων οἰκήτορες,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "110",
+      "text": "εὐφαμεῖτ’ ὦ, ἐκτόπιοί τε δόμων ἀπαείρετε· ὦ ἴτε λαοί. κηρύσσω †δ’ ὁσίαν βασιλήϊον αὐτῶι δ’ αὐδὰν†",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "115",
+      "text": "εὐτεκνίαν τε γάμοις, ὧν ἔξοδος ἅδ’ ἕνεχ’ ἥκει, παιδὸς πατρός τε τῆιδ’ ἐν ἡμέραι λέχη κρᾶναι θελόντων· ἀλλὰ σῖγ’ ἔστω λεώς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "119",
+      "text": ". . . . . . .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "120",
+      "text": ". . . . εἰ γὰρ εὖ λέγω (desunt versus quinque)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "121",
+      "text": "ὧν δ’ υ[ ε . ο̣ι̣μ̣ . [ ἐν σοι ν̣[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "ναῦν τοι μί’ ἄγκυρ’ οὐχ ὁμῶς σώιζειν φιλεῖ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "125",
+      "text": "τῶι τρεῖς ἀφέντι· προστάτης θ’ ἁπλοῦς πόλει σφαλερός, ὑπὼν δὲ κἄλλος οὐ κακὸν πέλει. ἰσχὺ̣ν ν̣[ γήμας̣ . [ γάμ̣ο̣ι̣σ̣[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "130",
+      "text": "ἄλλος̣ . [ δώσει . [ νέος δ̣ . [ ἥβης .. [ ουχε̣ι̣χ . [",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "135",
+      "text": "παι̣ ... ₍ . ₎ [ γέρων . [ νέαι . υ̣[ τοσῶιδ[ε δεινὸν[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "140",
+      "text": "σπουδ[ κανδ̣ι̣[ πεσὼν[ ἔχων δ̣[ κλέψ̣ει̣[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "145",
+      "text": "πολεμ̣[ κῆδο̣σ̣[ δεδοικ[ ἕξε̣ι̣ς̣ δ̣’ α̣[ ὅταν τ̣ε[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "(150)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "155",
+      "text": "π̣ᾶ̣σ̣ι̣ν̣ σ̣[ εισοψε̣[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "αγνω . [ . . .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "158",
+      "text": "ἐλεύθερος δ’ ὢν δοῦλός ἐστι τοῦ λέχους, πεπραμένον τὸ σῶμα τῆς φερνῆς ἔχων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "160",
+      "text": ". . .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "160",
+      "text": "ἐν τοῖσι μώροις τοῦτ’ ἐγὼ κρίνω βροτῶν, ὅστις πατρῶια παισὶ μὴ φρονοῦσιν εὖ ἢ καὶ πολίταις παραδίδως’ ἐξουσίαν. . . .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "163",
+      "text": "ὡς πανταχοῦ γε πατρὶς ἡ βόσκουσα γῆ. . . .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "164",
+      "text": "δεινόν γε, τοῖς πλουτοῦσι τοῦτο δ’ ἔμφυτον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "165",
+      "text": "σκαιοῖσιν εἶναι· τί ποτε τοῦδ’ ἐπαίτιον; ἆρ’ ὄλβος αὐτοῖς ὅτι τυφλὸς συνηρετεῖ τυφλὰς ἔχουσι τὰς φρένας †καὶ τῆς τύχης†; . . .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "168",
+      "text": "ἔλα δὲ μήτε Λιβυκὸν αἰθέρ’ εἰσβαλών·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "170",
+      "text": "κρᾶσιν γὰρ ὑγρὰν οὐκ ἔχων ἁψῖδα σὴν καίων διοίσει . . . .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "170",
+      "text": ". . . . . . .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "170",
+      "text": ". . . . . . . ἵει δ’ ἐφ’ ἑπτὰ Πλειάδων ἔχων δρόμον. τοσαῦτ’ ἀκούσας παῖς ἔμαρψεν ἡνίας· κρούσας δὲ πλευρὰ πτεροφόρων ὀχημάτων μεθῆκεν, αἱ δ’ ἔπταντ’ ἐπ’ αἰθέρος πτυχάς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "175",
+      "text": "πατὴρ δ’ ὄπισθε νῶτα Σειρίου βεβὼς ἵππευε παῖδα νουθετῶν· Ἐκεῖς’ ἔλα, τῆιδε στρέφ’ ἅρμα, τῆιδε. . . .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "178",
+      "text": "ι̣ προθυμίαι ω̣ψ̣ο̣υ̣ο̣",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "180",
+      "text": ". κ̣ι̣ο̣λ̣τ̣υ̣χ̣α̣ι̣ δυστ̣υχεῖς̣ γ̣ὰ̣ρ̣ λ̣ί̣π̣ω̣ ε̣ς̣ . ₍ . ₎ χθονός πλοῦτον δ’ ἐμῶι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "185",
+      "text": "ι̣σ̣ο̣υσαγ̣η̣ . οησεκ̣ω ων ἴ̣χνος ς ἅπ̣αντ̣’ ἐρ̣ῶ̣ χ̣θονὸς σκότου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "190",
+      "text": "π̣ό̣λει ραννίδι α̣ . ω̣ν̣μ̣ε̣ . ₍ . ₎ ο̣υ̣ λ̣εύθεροι̣ ₍ . ₎ ον πλούσ̣ιον̣",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "195",
+      "text": "ν̣η πόλι̣ς̣ μη νόμος ς ἐπήινεσα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": ". ₍ . ₎ η̣ν σοφή ράγματα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "(200)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "205",
+      "text": ". ιτοις κακοῖς σ̣κ̣ό̣τωι π̣οίωι τάφωι̣ . η̣σεται ν δι’ ἄστεως",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "210",
+      "text": "ειμήλιον ς νεκροί̣ . ι̣τας τύχας ο̣ς̣ π̣ειρα̣τ̣έ̣ο̣ ₍ . ₎ (desunt versus sex)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "214",
+      "text": "†πυροσθ† Ἐρινὺς ἐν †νεκρο̣ι̣ς̣ θ̣ . ρ̣ . ₍ . ₎ ν̣υ̣αι̣†",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "215",
+      "text": "ζώσης δ’ ἀνίης’ ἀτμὸν ἐμφανῆ 〈φλογόσ〉. ἀπωλόμην· οὐκ οἴσετ’ εἰς δόμους νέκυν; πόσις πόσις μοι πλησίον γαμηλίους μολπὰς ἀϋτεῖ παρθένοις ἡγούμενος. οὐ θᾶσσον; οὐ σταλαγμὸν ἐξομόρξετε,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "220",
+      "text": "εἴ πού τίς ἐστιν αἵματος χαμαὶ πεσών; ἐπείγετ’ ἤδη δμωΐδες· κρύψω δέ νιν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "ξεστοῖσι θαλάμοις, ἔνθ’ ἐμῶι κεῖται πόσει χρυσός, μόνη δὲ κλῆιθρ’ ἐγὼ σφραγίζομαι. ὦ καλλιφεγγὲς Ἥλι’, ὥς μ’ ἀπώλεσας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "225",
+      "text": "καὶ τόνδ’· Ἀπόλλων δ’ ἐν βροτοῖς ὀρθῶς καλῆι, ὅστις τὰ σιγῶντ’ ὀνόματ’ οἶδε δαιμόνων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "227",
+      "text": "Ὑμὴν Ὑμήν. τὰν Διὸς οὐρανίαν ἀείδομεν, τὰν ἐρώτων πότνιαν, τὰν παρθένοις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "230",
+      "text": "γαμήλιον Ἀφροδίταν. πότνια, σοὶ τάδ’ ἐγὼ νυμφεῖ’ ἀείδω, Κύπρι θεῶν καλλίστα, τῶι τε νεόζυγι σῶι πώλωι τὸν ἐν αἰθέρι κρύπτεις,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "235",
+      "text": "σῶν γάμων γένναν· ἃ τὸν μέγαν τᾶσδε πόλεως βασιλῆ νυμφεύεαι ἀστερωποῖσιν δόμοισι χρυσέοις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "ἀρχὸν φίλον Ἀφροδίτα·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "240",
+      "text": "ὦ μάκαρ, ὦ βασιλεὺς μείζων ἔτ’ ὄλβον, ὃς θεὰν κηδεύσεις καὶ μόνος ἀθανάτων γαμβρὸς δι’ ἀπείρονα γαῖαν θνατὸς ὑμνήσηι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "245",
+      "text": "χώρει σὺ καὶ τάσδ’ εἰς δόμους ἄγων κόρας γυναῖκ’ ἄνωχθι πᾶσι τοῖς κατὰ σταθμὰ θεοῖς χορεῦσαι κἀγκυκλώσασθαι δόμοις σεμνοῖσιν ὑμεναίοισιν, Ἑστίας θ’ ἕδος, ἀφ’ ἧς γε σώφρων πᾶς τις ἄρχεται θεοῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "(250)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "251",
+      "text": "θεᾶς προσελθεῖν τέμενος ἐξ ἐμῶν δόμων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "252",
+      "text": "ὦ δέσποτ’, ἔστρεψ’ ἐκ δόμων ταχὺν πόδα. οὗ γὰρ σὺ σώιζηι σεμνὰ θησαυρίσματα χρυσοῦ, δι’ ἁρμῶν ἐξαμείβεται πύλης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "255",
+      "text": "καπνοῦ μέλαιν’ ἄησις ἔνδοθεν στέγης. προσθεὶς πρόσωπον φλόγα μὲν οὐχ ὁρῶ πυρός, γέμοντα δ’ οἶκον μέλανος ἔνδοθεν καπνοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "ἀλλ’ ἔσιθ’ ἐς οἶκον, μή τιν’ Ἥφαιστος χόλον δόμοις ἐπεισφρεὶς μέλαθρα συμφλέξηι πυρὶ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "260",
+      "text": "ἐν τοῖσιν ἡδίστοισι Φαέθοντος γάμοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "πῶς φήις; ὅρα μὴ θυμάτων πυρουμένων κατ’ οἶκον ἀτμὸν κεῖς’ ἀποσταλέντ’ ἴδηις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "ἅπαντα ταῦτ’ ἤθρης’· ἀκαπνώτως ἔχει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "οἶδεν δ’ ἐμὴ τάδ’ ἢ οὐκ ἐπίσταται δάμαρ;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "265",
+      "text": "θυηπολοῦσα θεοῖς ἐκεῖς’ ἔχει φρένας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "ἀλλ’ εἶμ’, ἐπεί τοι καὶ φιλεῖ τὰ τοιάδε ληφθέντα φαύλως ἐς μέγαν χειμῶν’ ἄγειν. σὺ δ’ ὦ πυρὸς δέσποινα Δήμητρος κόρη Ἥφαιστέ τ’ εἴητ’ εὐμενεῖς δόμοις ἐμοῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "270",
+      "text": "τάλαιν’ ἐγὼ τάλαινα ποῖ πόδα πτερόεντα καταστάσω ἀν’ αἰθέρ’, ἢ γᾶς ὑπὸ κεῦθος ἄφαν‐ τον ἐξαμαυρωθῶ; ἰώ μοί μοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "275",
+      "text": "κακὰ φανήσεται· βασίλεια τάλαινα παῖς τ’ ἔσω κρυφαῖος νέκυς, ὀτοτοτοῖ, κεραύνιαί τ’ ἐκ Διὸς πυριβόλοι πλαγαὶ λέχεά θ’ Ἁλίου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "280",
+      "text": "ὦ δυστάλαινα τῶν ἀμετρήτων κακῶν· Ὠκεανοῦ κόρα, †πατρὸς ἴθι πρόσπεσε γόνυ λιταῖς σφαγὰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "σφαγὰς οἰκτρὰς ἀρκέσαι σᾶς δειρᾶς†.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "(ἔσωθεν)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "284",
+      "text": "ἰώ μοί μοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "285",
+      "text": "ἠκούσατ’ ἀρχὰς δεσπότου στεναγμάτων;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "(ἔσωθεν)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "286",
+      "text": "ἰὼ τέκνον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "κ̣α̣λ̣ε̣ῖ̣ τ̣ὸ̣ν̣ οὐ κλύοντα δυστυχῆ γόνον. ά̣τ̣ων ὁρᾶν σαφῆ. (desunt versus tres)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "289",
+      "text": "α̣ια[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "290",
+      "text": "ὃς ὑμεν[αι‐ εὐκελαδ̣[ ὡς ουρα[ σὺ δὲ παρ̣[ δα̣[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "295",
+      "text": "ουκει̣θ̣ . [ ὑμεναι[ ολ̣[ β̣ο̣[ δα[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "(300)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "305",
+      "text": "ς . [ κα̣[ λι̣[ καλεῖτε[ ὃ̣ς̣ ἐμαν̣[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "310",
+      "text": "κακὰ δε[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "ὅδ’ ἐκ δό[μων παιδὸς . [",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "εἶἑν· θ̣υ̣ρ̣[ ὡς εἰσο̣[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "315",
+      "text": "ο̣ . α̣νεκ̣[ θεᾶς δε̣[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "317",
+      "text": "ὤμοι ⁚ [",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "στέναζ[ε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "αἰαῖ ⁚ [",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "320",
+      "text": "δ̣ι̣π̣λᾶ δ̣[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "τ̣ί̣ γ̣ὰρ̣ λ̣ε̣[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "τίς παιδ[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "εἰδὼ̣ς α[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "ἵν’ ἀντα̣[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "325",
+      "text": "σμικρο̣[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "κρεισσ̣[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unknown",
+      "text": "ὃς σεθ̣[",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "cbm-aq",
+      "title": {
+        "english": "Alcestis",
+        "ancient_greek": "Ἄλκηστις"
+      },
+      "url_slug": "euripides-alcestis-cbm-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/alcestis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-alcestis-cbm-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-alcestis-cbm-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-alcestis-cbm-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-alcestis-cbm-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/alcestis.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-al",
+      "title": {
+        "english": "Alexander",
+        "ancient_greek": "Ἀλέξανδρος"
+      },
+      "url_slug": "euripides-alexander-cbm-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/alexander",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-alexander-cbm-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-alexander-cbm-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-alexander-cbm-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-alexander-cbm-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/alexander.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-aj",
+      "title": {
+        "english": "Andromacha",
+        "ancient_greek": "Ἀνδρομάχη"
+      },
+      "url_slug": "euripides-andromache-cbm-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/andromache",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-andromache-cbm-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-andromache-cbm-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-andromache-cbm-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-andromache-cbm-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/andromache.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-au",
+      "title": {
+        "english": "Antiope",
+        "ancient_greek": "Ἀντιόπη"
+      },
+      "url_slug": "euripides-antiope-cbm-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/antiope",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-antiope-cbm-au.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-antiope-cbm-au.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-antiope-cbm-au.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-antiope-cbm-au.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/antiope.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-av",
+      "title": {
+        "english": "Bacchae",
+        "ancient_greek": "Βάκχαι"
+      },
+      "url_slug": "euripides-bacchae-cbm-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/bacchae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-bacchae-cbm-av.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-bacchae-cbm-av.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-bacchae-cbm-av.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-bacchae-cbm-av.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/bacchae.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-an",
+      "title": {
+        "english": "Cassandra and Apollo Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "euripides-cassandra-apollo-cbm-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/cassandra-apollo",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-cassandra-apollo-cbm-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-cassandra-apollo-cbm-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-cassandra-apollo-cbm-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-cassandra-apollo-cbm-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/cassandra-apollo.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-aw",
+      "title": {
+        "english": "Cyclops",
+        "ancient_greek": "Κύκλωψ"
+      },
+      "url_slug": "euripides-cyclops-cbm-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/cyclops",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-cyclops-cbm-aw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-cyclops-cbm-aw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-cyclops-cbm-aw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-cyclops-cbm-aw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/cyclops.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-ax",
+      "title": {
+        "english": "Electra",
+        "ancient_greek": "Ἠλέκτρα"
+      },
+      "url_slug": "euripides-electra-cbm-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/electra",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-electra-cbm-ax.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-electra-cbm-ax.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-electra-cbm-ax.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-electra-cbm-ax.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/electra.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-ar",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "euripides-epigrams-cbm-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-epigrams-cbm-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-epigrams-cbm-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-epigrams-cbm-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-epigrams-cbm-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-aa",
+      "title": {
+        "english": "Fragments of an Uncertain Story",
+        "ancient_greek": "Ἀποσπάσματα ἀδήλου διηγήσεως"
+      },
+      "url_slug": "euripides-uncertain-story-cbm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/uncertain-story",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-uncertain-story-cbm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-uncertain-story-cbm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-uncertain-story-cbm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-uncertain-story-cbm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/uncertain-story.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-am",
+      "title": {
+        "english": "Fragments on Exile and Lineage",
+        "ancient_greek": "Ἀποσπάσματα περὶ Φυγῆς καὶ Γένους"
+      },
+      "url_slug": "euripides-exile-lineage-cbm-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/exile-lineage",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-exile-lineage-cbm-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-exile-lineage-cbm-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-exile-lineage-cbm-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-exile-lineage-cbm-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/exile-lineage.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-ao",
+      "title": {
+        "english": "Fragments on Hector and Cassandra",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἕκτορος καὶ Κασσάνδρας"
+      },
+      "url_slug": "euripides-hector-cassandra-cbm-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/hector-cassandra",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-hector-cassandra-cbm-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-hector-cassandra-cbm-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-hector-cassandra-cbm-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-hector-cassandra-cbm-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/hector-cassandra.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "buo-aa",
+      "title": {
+        "english": "Ajax The Whip-Bearer",
+        "ancient_greek": "Αἴας"
+      },
+      "url_slug": "sophocles-ajax-whip-bearer-buo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sophocles/ajax-whip-bearer",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-ajax-whip-bearer-buo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-ajax-whip-bearer-buo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-ajax-whip-bearer-buo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-ajax-whip-bearer-buo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/ajax-whip-bearer.epub"
+      }
+    },
+    {
+      "eul_wid": "grw-aa",
+      "title": {
+        "english": "Fragments on Love and Family",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἔρωτος καὶ Οἰκίας"
+      },
+      "url_slug": "dicaeogenes-love-family-grw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dicaeogenes/love-family",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dicaeogenes-love-family-grw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dicaeogenes-love-family-grw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dicaeogenes-love-family-grw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dicaeogenes-love-family-grw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dicaeogenes/love-family.epub"
+      }
+    },
+    {
+      "eul_wid": "dru-ab",
+      "title": {
+        "english": "Fragments on Purification Rituals",
+        "ancient_greek": "Ἀποσπάσματα περὶ Καθαρσίων"
+      },
+      "url_slug": "sophron-of-syracuse-purification-rituals-dru-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/sophron-of-syracuse/purification-rituals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophron-of-syracuse-purification-rituals-dru-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophron-of-syracuse-purification-rituals-dru-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophron-of-syracuse-purification-rituals-dru-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophron-of-syracuse-purification-rituals-dru-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophron-of-syracuse/purification-rituals.epub"
+      }
+    },
+    {
+      "eul_wid": "iqg-aa",
+      "title": {
+        "english": "Fragments on the Glutton of Celaenae",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Γάστρονος τῆς Κελαινῶν"
+      },
+      "url_slug": "sositheus-of-alexandria-troas-glutton-celaenae-iqg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sositheus-of-alexandria-troas/glutton-celaenae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sositheus-of-alexandria-troas-glutton-celaenae-iqg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sositheus-of-alexandria-troas-glutton-celaenae-iqg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sositheus-of-alexandria-troas-glutton-celaenae-iqg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sositheus-of-alexandria-troas-glutton-celaenae-iqg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sositheus-of-alexandria-troas/glutton-celaenae.epub"
+      }
+    },
+    {
+      "eul_wid": "nkw-aa",
+      "title": {
+        "english": "Medea's Lament to Her Children",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "macer-pompeius-the-tragedian-medeas-lament-nkw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/macer-pompeius-the-tragedian/medeas-lament",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/macer-pompeius-the-tragedian-medeas-lament-nkw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/macer-pompeius-the-tragedian-medeas-lament-nkw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/macer-pompeius-the-tragedian-medeas-lament-nkw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/macer-pompeius-the-tragedian-medeas-lament-nkw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/macer-pompeius-the-tragedian/medeas-lament.epub"
+      }
+    },
+    {
+      "eul_wid": "gmc-aa",
+      "title": {
+        "english": "On the Vicissitudes of Fate",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "patrocles-of-thurii-vicissitudes-fate-gmc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/patrocles-of-thurii/vicissitudes-fate",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/patrocles-of-thurii-vicissitudes-fate-gmc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/patrocles-of-thurii-vicissitudes-fate-gmc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/patrocles-of-thurii-vicissitudes-fate-gmc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/patrocles-of-thurii-vicissitudes-fate-gmc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/patrocles-of-thurii/vicissitudes-fate.epub"
+      }
+    },
+    {
+      "eul_wid": "buo-af",
+      "title": {
+        "english": "Sophocles on Euripides and Love",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "sophocles-euripides-love-buo-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/sophocles/euripides-love",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-euripides-love-buo-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-euripides-love-buo-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-euripides-love-buo-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-euripides-love-buo-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/euripides-love.epub"
+      }
+    },
+    {
+      "eul_wid": "mjy-aa",
+      "title": {
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
+      },
+      "url_slug": "aeschylus-of-alexandria-testimony-mjy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-of-alexandria/testimony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-of-alexandria-testimony-mjy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-of-alexandria-testimony-mjy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-of-alexandria-testimony-mjy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-of-alexandria-testimony-mjy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-of-alexandria/testimony.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/euripides/phaethon",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-phaethon-cbm-at.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-phaethon-cbm-at.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-phaethon-cbm-at.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-phaethon-cbm-at.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/phaethon.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

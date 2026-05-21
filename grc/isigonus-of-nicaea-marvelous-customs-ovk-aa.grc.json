@@ -1,0 +1,331 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ovk-aa",
+  "eul_aid": "ovk",
+  "author_slug": "isigonus-of-nicaea",
+  "work_slug": "marvelous-customs",
+  "url_slug": "isigonus-of-nicaea-marvelous-customs-ovk-aa",
+  "author": {
+    "english": "Isigonus of Nicaea",
+    "ancient_greek": "Ἰσίγονος ὁ Νικαεύς"
+  },
+  "title": {
+    "english": "On Marvelous Peoples and Customs",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Ancient Fragments of Isigonus of Nicaea on Eulogikon",
+    "meta_title": "Classical On Marvelous Peoples and Customs in Ancient Greek",
+    "meta_description": "Isigonus of Nicaea documents extraordinary peoples and their remarkable customs across distant lands. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The paradoxographical work <strong>On Marvelous Peoples and Customs</strong>, attributed to Isigonus of Nicaea, is a catalog of marvels concerning distant peoples and their customs. It survives only in fragments preserved by later authors, most notably Pliny the Elder, who cites it for tales of monstrous races and wonders. The text belongs to the Hellenistic or early Imperial tradition of collecting mirabilia. Its fragments describe physically marvelous or monstrous peoples, such as one-eyed or headless races, tribes with exceptional longevity or unusual diets, and bizarre social practices. The work systematically catalogs global wonders in an ethnographic framework. It is lost as an independent text, and its content is known indirectly through quotations in later compilers, primarily Pliny the Elder’s <strong>Natural History</strong> from the first century CE, with a later mention by the Byzantine patriarch Photius in the ninth century. Isigonus served as a key source for later paradoxographical and encyclopedic writers. Through citations in authors like Pliny, his descriptions contributed to the enduring Western motif of monstrous races inhabiting the world&#x27;s margins.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-19",
+      "text": "ΑΠΙΣΤΑ. Plinius H.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "N. VII, 2: Anthropophagos, quos ad septemtrionem esse diximus, decem dierum itinere supra Borysthenem amnem, ossibus humanorum capitum bibere, cutibusque cum capilio pro mantelibus ante pectora uti, Isigonus Nicaeensis (Iccensis. Siccensis var. l. ). Idem in Albania gigni quosdam glauca oculorum acie, a pueritia statim canos, qui noctu plusquam interdiu cernant. Idem itinere dierum decem supra Borysthenem Sauromatos tertio die cibum capere semper. Idem H.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "N. VII, 2: In eadem Africa familias quasdam effascinantium, Isigonus et Nymphodorus; quorum laudatione intereant probata, arescant arbores, emoriantur infantes. Esse eiusdem generis in Triballis et Illyriis adiicit Isigonus, qui visu quoque effascinent, interimantque quos diutius intueantur, iratis praecipue oculis: quod eorum malum facilius sentire puberes. Notabilius esse, quod pupillas binas in oculis singulis habeant. Idem H.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "N. VII, 2: Cyrnos Indorum genus Isigonus annis centenis quadragenis vivere. Item Aethiopas macrobios et Seras existimat, et qui Athon montem incolant; hos quidem, quia viperinis carnibus alantur: itaque nec capiti, nec vestibus eorum noxia corpori inesse animalia. Cyrillus C.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Julian. III: Καὶ μὴν καὶ Ἰσίγονος ὁ Κιττιεὺς (?) ἐν Ῥόδῳ τῇ νήσῳ τὸν τοῦ Διὸς ταῦρόν φησιν οὐκ ἀμοιρῆσαι λόγγου τοῦ καθ’ ἡμᾶς. Tzetzes.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "Hist. I, 468: Πρόβατα δὲ χρυσόχροόν που φέρειν τὴν ἐρέαν, Ῥηγῖνος τὸν Ἰσίγονον (lib. Ἡσίγ.) εἰσφέρει γεγραφότα. E LIBRO SECUNDO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "Sotion Περὶ κρην. κ. λιμν. c. 1: Κρήνη ἐν Ποτνίαις περὶ Θήβας, ἐξ ἧς οἱ ἵπποι πίνοντες μαίνονται, ὡς ἱστορεῖ Ἰσίγονος ἐν δευτέρῳ Ἀπίστων. Id.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "ib. c. 8: Κρήνη ἐν Παλικοῖς, ἥτις εἰς ὕψος ἀναρρίπτει τὸ ὕδωρ πηχέων ἓξ, ἔμφασιν ποιοῦσα μέλλειν κατακλύζειν τοὺς ὑποκειμένους τόπους, καθόλου δὲ οὐχ ὑπερεκχεῖται οὐδέν. Ἐπὶ ταύτης οἱ ἐπιχώριοι τοὺς ὑπὲρ τῶν μεγίστων ὅρκους ποιοῦνται, ὡς ἱστορεῖ Ἰσίγονος ἐν δευτέρῳ Ἀπίστων. Id.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "ib. c. 43: Ἐν Λυδίᾳ ἐστὶ λίμνη Τάλα μὲν (l. Καλαμίνη μὲν) καλουμένη, ἱερὰ δὲ οὖσα νυμφῶν, ἣ φέρει καλάμων πλῆθος καὶ μέσον αὐτῶν ἕνα ὃν βασιλέα προσαγορεύουσιν οἱ ἐπιχώριοι. Θυσίας δὲ καὶ ἑορτὰς ἐπιτελοῦντες ἐνιαυσίους ἐξιλάσκονται· τούτων δὲ ἐπιτελουμένων, ἐπειδὰν ἐπὶ τῆς ἠιόνος κτύπος συμφωνίας γένηται, πάντες οἱ κάλαμοι χορεύουσι καὶ ὁ βασιλεὺς σὺν αὐτοῖς χορεύων παραγίνεται ἐπὶ τὴν ἠιόνα, καὶ οἱ ἐπιχώριοι ταινίαις αὐτὸν καταστέψαντες ἀποπέμπουσιν, εὐχόμενοι καὶ εἰς τὸ ἐπιὸν αὐτόν τε καὶ ἑαυτοὺς παραγενέσθαι ὡς εὐετηρίας ὄντι σημείῳ, ὡς ἱστορεῖ Ἰσίγονος ἐν δευτέρῳ Ἀπίστων. Id.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "ib. c. 2: Κρήνη ἐν Κλαζομεναῖς, ἀφ’ ἧς τὰ θρέμματα πίνοντα τὴν ἐρέαν χρωματίνην ποιεῖ, ὡς ἱστορεῖ ὁ προειρημένος Ἰσίγονος. Id.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "ib. c. 9: Περὶ Σκοτοῦσαν τῆς Θεσσαλίας κρηνίδιόν ἐστι μικρὸν, ὃ τὰ ἕλκη πάντα θεραπεύει καὶ τῶν ἀλόγων ζῴων· εἰς ὃ ἐάν τις ξύλον μὴ λίαν συντρίψας, ἀλλὰ σχίσας ἐμβάλῃ, ἀποκαθίσταται· οὕτως κολλῶδες ἔχει τὸ ὕδωρ, ὥς φησιν Ἰσίγονος. Id.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "c. 11: Φησὶν Ἰσίγονος ἐν Ἀθαμᾶσι κρήνην εἶναι, ἧς τὸ μὲν ὕδωρ ψυχρὸν ὑπάρχειν, τὸ δ’ ὑπὲρ αὐτὸ οὕτω θερμὸν ὑπάρχειν, ὥστε, ἄν τις ὑπερθῇ φρύγανα, παραχρῆμα ἐξάπτεσθαι. Id.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12",
+      "text": "c. 12: Παρὰ Κλειτορίοις ὁ αὐτός φησιν εἶναι κρήνην, ἧς ὅταν τις τοῦ ὕδατος πίῃ, τοῦ οἴνου τὴν ὀσμὴν οὐ φέρει. Id.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13",
+      "text": "c. 13: Ὁ αὐτός φησιν ἐν Ἰταλίᾳ ἐν τῷ Ῥεατινῷ ἀγρῷ κρήνην εἶναι Μέντην ὀνομαζομένην, ὁμοίαν τῇ προειρημένῃ. Id.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14",
+      "text": "c. 14: Ὁμοίως ἐγγὺς Κόσης ἐστὶ κρήνη, εἰς ἣν ἐὰν θῇς κεράμιον οἴνου γέμον ὥστε ὑπερέχειν τὸ στόμα, παντὸς ὄξους εἶναι δριμύτερον παραχρῆμα, ὡς ἱστορεῖ ὁ αὐτός. Id.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "c. 21: Ἐν Συκαμίναις πόλει λίμνη ἐστὶν, ἧς τῷ ὕδατι οἱ λουσάμενοι ἢ πιόντες ἀπ’ αὐτοῦ μαδῶσι τὰς τρίχας, τῶν δὲ ἀλόγων ζῴων αἱ ὁπλαὶ ἀποπίπτουσιν, ὡς ἱστορεῖ Ἰσίγονος. Idem c.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16",
+      "text": "27: Ἐν δὲ Ἀλιφάνῳ τῆς Ἰταλίας φρεάτιόν ἐστι βαθὺ, οὗ τὸ μὲν ὕδωρ βλέπεται, ἡλίκον δὲ ἄν τις χαλάσῃ σχοινίον, οὐκ ἐφάπτεται τοῦ ὕδατος, ἀλλ’ ὑπό τινος θείου κωλύεται, ὥς φησιν Ἰσίγονος. Id.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17",
+      "text": "c. 36: Περὶ δὲ Ταρρακίναν τῆς Ἰταλίας φησὶν Ἰσίγονος λίμνην εἶναι Μυκλαίαν καλουμένην, καὶ παρ’ αὐτῇ πόλιν ἔρημον, ἧς τοὺς ἐνοικοῦντας στερηθῆναι τῆς πόλεως διὰ τὸ πλῆθος τῶν ὕδρων. Id.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18",
+      "text": "c. 40: Τὸ δὲ κατὰ τὴν Σουσιανὴν ὕδωρ φασὶν εἶναι Μηδείας καὶ πεφαρμάχθαι καυστικοῖς φαρμάκοις, ὃ ῥεῖ μὲν ἐκ πηγῆς τινος, φυλάσσεται δὲ ὑπὸ τῶν ἐγχωρίων. Ἔχει δὲ δύναμιν τοιαύτην· τὰ γὰρ χρισθέντα ἢ βραχέντα ἐξ αὐτοῦ ζῷα ἢ σκεύη δειχθέντος μακρόθεν πυρὸς πρὸς αὑτὰ ἐπισπᾶται καὶ παραχρῆμα καίεται. Καλεῖται δὲ νάφθα, ἐξενεχθέντα μέντοι τῆς χώρας ἀπόλλυσι τὴν δύναμιν, ὡς ἱστορεῖ Ἰσίγονος. Tzetzes Lyc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19",
+      "text": "1021: Κρᾶθις, ποταμὸς Ἰταλίας, τῶν λουομένων πυρσαίνων τὰς χαίτας, καθάπερ Ἰσίγονος ὁ ἱστορικός φησι, Σωτίων τε καὶ Ἀγαθοσθένης οἱ φιλόσοφοι, καὶ Εὐριπίδης ὁ τραγικός.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "ezq-ai",
+      "title": {
+        "english": "Agesilaus",
+        "ancient_greek": "Ἀγησίλαος"
+      },
+      "url_slug": "xenophon-of-athens-agesilaus-ezq-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/agesilaus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-agesilaus-ezq-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-agesilaus-ezq-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-agesilaus-ezq-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-agesilaus-ezq-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/agesilaus.epub"
+      }
+    },
+    {
+      "eul_wid": "fbe-ac",
+      "title": {
+        "english": "Fragments on Harmonia",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἁρμονίας"
+      },
+      "url_slug": "ephorus-of-cyme-harmonia-fbe-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/ephorus-of-cyme/harmonia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme-harmonia-fbe-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme-harmonia-fbe-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme-harmonia-fbe-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme-harmonia-fbe-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme/harmonia.epub"
+      }
+    },
+    {
+      "eul_wid": "gpy-aa",
+      "title": {
+        "english": "Fragments on Samian Legends",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σαμίων Μύθων"
+      },
+      "url_slug": "euagon-the-historian-samian-legends-gpy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/euagon-the-historian/samian-legends",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euagon-the-historian-samian-legends-gpy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euagon-the-historian-samian-legends-gpy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euagon-the-historian-samian-legends-gpy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euagon-the-historian-samian-legends-gpy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euagon-the-historian/samian-legends.epub"
+      }
+    },
+    {
+      "eul_wid": "hwq-ab",
+      "title": {
+        "english": "Geographical Fragments on Sicily",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σικελίας"
+      },
+      "url_slug": "philostephanus-of-cyrene-sicily-hwq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/philostephanus-of-cyrene/sicily",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene-sicily-hwq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene-sicily-hwq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene-sicily-hwq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene-sicily-hwq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene/sicily.epub"
+      }
+    },
+    {
+      "eul_wid": "rxk-aa",
+      "title": {
+        "english": "Histories",
+        "ancient_greek": "Ἱστορίαι"
+      },
+      "url_slug": "john-vi-kantakouzenos-histories-rxk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-vi-kantakouzenos/histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-vi-kantakouzenos-histories-rxk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-vi-kantakouzenos-histories-rxk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-vi-kantakouzenos-histories-rxk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-vi-kantakouzenos-histories-rxk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-vi-kantakouzenos/histories.epub"
+      }
+    },
+    {
+      "eul_wid": "qfo-aa",
+      "title": {
+        "english": "On Incredible Things",
+        "ancient_greek": "Περὶ Ἀπίστων"
+      },
+      "url_slug": "heraclitus-the-paradoxographer-incredible-things-qfo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/heraclitus-the-paradoxographer/incredible-things",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-the-paradoxographer-incredible-things-qfo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-the-paradoxographer-incredible-things-qfo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-the-paradoxographer-incredible-things-qfo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-the-paradoxographer-incredible-things-qfo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-the-paradoxographer/incredible-things.epub"
+      }
+    },
+    {
+      "eul_wid": "gok-aa",
+      "title": {
+        "english": "Regional Histories and Myths",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dercyllus-the-historian-regional-histories-myths-gok-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dercyllus-the-historian/regional-histories-myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dercyllus-the-historian-regional-histories-myths-gok-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dercyllus-the-historian-regional-histories-myths-gok-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dercyllus-the-historian-regional-histories-myths-gok-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dercyllus-the-historian-regional-histories-myths-gok-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dercyllus-the-historian/regional-histories-myths.epub"
+      }
+    },
+    {
+      "eul_wid": "hoe-aa",
+      "title": {
+        "english": "Testimonies 1",
+        "ancient_greek": "Μαρτυρίαι Α'"
+      },
+      "url_slug": "hecataeus-of-abdera-testimonies-hoe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hecataeus-of-abdera/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-testimonies-hoe-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-testimonies-hoe-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-testimonies-hoe-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-testimonies-hoe-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera/testimonies.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/isigonus-of-nicaea/marvelous-customs",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isigonus-of-nicaea-marvelous-customs-ovk-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isigonus-of-nicaea-marvelous-customs-ovk-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isigonus-of-nicaea-marvelous-customs-ovk-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isigonus-of-nicaea-marvelous-customs-ovk-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isigonus-of-nicaea/marvelous-customs.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "cda",
+  "auth_slug": "trophonius-the-oracle",
+  "name": {
+    "english": "Trophonius the Oracle",
+    "ancient_greek": "Τροφώνιος ὁ Μαντεῖος"
+  },
+  "seo_h1": "Trophonius the Oracle on the Art of Rhetoric",
+  "seo": {
+    "browser_title": "Trophonius the Oracle on Eulogikon Greek Text Archive",
+    "meta_title": "Classical Trophonius the Oracle Ancient Greek Oration Works",
+    "meta_description": "Trophonius the Oracle, a prophetic figure from the Classical period. Surviving oration in the Koine dialect. Free to read and download from the Greek library."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Trophonius is not associated with a historical author of orations but with a mythological hero and oracular cult. In legend, Trophonius was a son of Erginus or Apollo, renowned as an architect with his brother Agamedes. After death, he became the chthonic deity presiding over a famous oracle in a cave at Lebadeia in Boeotia. No orations or written works by an author named Trophonius the Oracle are attested. Ancient descriptions of the figure instead detail the rituals of his oracular cult, as recorded by authors like Pausanias and Plutarch.</p>\n<p class=\"research-text\">The significance of Trophonius lies in Greek religion. His oracle at Lebadeia was a major site for incubation rituals, where consultants descended to receive dream prophecies. Its practices, distinct from the Delphic oracle, were consulted by notable historical figures including Demetrius Poliorcetes and Sulla, making it a well-documented chthonic institution.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "cda-aa",
+      "title": {
+        "english": "Introduction to the Art of Rhetoric",
+        "ancient_greek": "Εἰσαγωγὴ εἰς τὴν τέχνην τῆς ῥητορικῆς"
+      },
+      "url_slug": "trophonius-the-oracle-art-of-rhetoric-cda-aa",
+      "passages": 13,
+      "links": {
+        "html": "https://eulogikon.org/grc/trophonius-the-oracle/art-of-rhetoric",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/trophonius-the-oracle-art-of-rhetoric-cda-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/trophonius-the-oracle-art-of-rhetoric-cda-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/trophonius-the-oracle-art-of-rhetoric-cda-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/trophonius-the-oracle-art-of-rhetoric-cda-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/trophonius-the-oracle/art-of-rhetoric.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/trophonius-the-oracle",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/trophonius-the-oracle-cda.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/trophonius-the-oracle-cda.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/trophonius-the-oracle-cda.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/trophonius-the-oracle-cda.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

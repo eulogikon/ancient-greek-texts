@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "kaa",
+  "auth_slug": "archytas-of-amphissa",
+  "name": {
+    "english": "Archytas of Amphissa",
+    "ancient_greek": "Ἀρχύτας ὁ Ἀμφισσεύς"
+  },
+  "seo_h1": "Archytas of Amphissa on Makynna and Desire",
+  "seo": {
+    "browser_title": "Archytas of Amphissa on Eulogikon Greek Archive Library",
+    "meta_title": "Classical Archytas of Amphissa Ancient Greek Epic Works",
+    "meta_description": "Archytas of Amphissa, a Hellenistic poet of Homeric verse. Surviving works include his epic poetry. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Archytas of Amphissa was an epic poet from the Hellenistic period, active in the 3rd century BCE. He was a native of Amphissa, a city in Ozolian Locris in central Greece. No further biographical details concerning his life or education survive.</p>\n<p class=\"research-text\">His sole attested work is a lost epic poem titled Thebaid. The poem is known only from its listing in the Byzantine encyclopedia, the Suda, which distinguishes this Archytas from the more famous philosopher Archytas of Tarentum. No fragments of the text are extant.</p>\n<p class=\"research-text\">Archytas represents the numerous local poets of the Hellenistic era whose works are now lost. His composition of a Thebaid, treating the traditional myths of Thebes, illustrates the continued production of Homeric-style epic poetry across the Greek world during this period. He is recorded in modern catalogs of lost Greek epic poets.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "kaa-aa",
+      "title": {
+        "english": "Fragments on Makynna and Desire",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μακύννης καὶ Ἔρωτος"
+      },
+      "url_slug": "archytas-of-amphissa-makynna-desire-kaa-aa",
+      "passages": 6,
+      "links": {
+        "html": "https://eulogikon.org/grc/archytas-of-amphissa/makynna-desire",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-amphissa-makynna-desire-kaa-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-amphissa-makynna-desire-kaa-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-amphissa-makynna-desire-kaa-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-amphissa-makynna-desire-kaa-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-amphissa/makynna-desire.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/archytas-of-amphissa",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archytas-of-amphissa-kaa.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archytas-of-amphissa-kaa.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archytas-of-amphissa-kaa.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archytas-of-amphissa-kaa.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

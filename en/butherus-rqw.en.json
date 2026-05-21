@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "rqw",
+  "auth_slug": "butherus",
+  "name": {
+    "english": "Butherus",
+    "ancient_greek": "Βούθηρος"
+  },
+  "seo_h1": "Butherus on the Nature of Numbers",
+  "seo": {
+    "browser_title": "Butherus Christian Philosophical Author on Eulogikon Archive",
+    "meta_title": "Butherus Ancient Greek Philosophical Works and Treatise",
+    "meta_description": "Butherus, a Christian philosophical author of late antiquity. Explore his surviving treatise. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Christian",
+      "href": "/affiliations/christian"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Butherus is a little-known figure from late antiquity, possibly active between the third and sixth centuries CE. He is identified as a Christian author who wrote on philosophical topics. No details about his life, origins, or education have survived.</p>\n<p class=\"research-text\">He is credited with a single work, a treatise titled <strong>On the Soul</strong>. However, modern scholars consider this attribution to be spurious. The work is not accepted as authentic and does not form part of the standard corpus of ancient philosophical or early Christian writings. Its path of transmission and current survival status are unclear.</p>\n<p class=\"research-text\">Due to the dubious nature of his sole attributed work, Butherus holds minimal historical significance. He is not regarded as an influential thinker within the philosophical or patristic traditions. According to academic sources, his mention appears to exist only because of this one disputed attribution.</p>\n</div>",
+  "affiliation_label": "Christian",
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "rqw-aa",
+      "title": {
+        "english": "On the Nature of Numbers",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "butherus-nature-numbers-rqw-aa",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/butherus/nature-numbers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/butherus-nature-numbers-rqw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/butherus-nature-numbers-rqw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/butherus-nature-numbers-rqw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/butherus-nature-numbers-rqw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/butherus/nature-numbers.epub"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "tfg",
+      "name": {
+        "english": "Aeneas of Gaza",
+        "ancient_greek": "Αἰνείας ὁ Γαζαῖος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/aeneas-of-gaza",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aeneas-of-gaza-tfg.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aeneas-of-gaza-tfg.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aeneas-of-gaza-tfg.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aeneas-of-gaza-tfg.en.json"
+      }
+    },
+    {
+      "eul_aid": "uak",
+      "name": {
+        "english": "Anatolius of Alexandria",
+        "ancient_greek": "Ἀνατόλιος Ἀλεξανδρεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/anatolius-of-alexandria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anatolius-of-alexandria-uak.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anatolius-of-alexandria-uak.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anatolius-of-alexandria-uak.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anatolius-of-alexandria-uak.en.json"
+      }
+    },
+    {
+      "eul_aid": "qwc",
+      "name": {
+        "english": "Athenagoras of Athens",
+        "ancient_greek": "Ἀθηναγόρας ὁ Ἀθηναῖος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/athenagoras-of-athens",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenagoras-of-athens-qwc.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenagoras-of-athens-qwc.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenagoras-of-athens-qwc.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenagoras-of-athens-qwc.en.json"
+      }
+    },
+    {
+      "eul_aid": "qya",
+      "name": {
+        "english": "Clement of Alexandria",
+        "ancient_greek": "Κλήμης ὁ Ἀλεξανδρεύς"
+      },
+      "work_count": 5,
+      "links": {
+        "html": "https://eulogikon.org/en/clement-of-alexandria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clement-of-alexandria-qya.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clement-of-alexandria-qya.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clement-of-alexandria-qya.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clement-of-alexandria-qya.en.json"
+      }
+    },
+    {
+      "eul_aid": "tva",
+      "name": {
+        "english": "Eusebius of Caesarea",
+        "ancient_greek": "Εὐσέβιος ὁ Καίσαρειας"
+      },
+      "work_count": 7,
+      "links": {
+        "html": "https://eulogikon.org/en/eusebius-of-caesarea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-caesarea-tva.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-caesarea-tva.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-caesarea-tva.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-caesarea-tva.en.json"
+      }
+    },
+    {
+      "eul_aid": "qsg",
+      "name": {
+        "english": "Hippolytus of Rome",
+        "ancient_greek": "Ἱππόλυτος ὁ Ῥωμαῖος"
+      },
+      "work_count": 13,
+      "links": {
+        "html": "https://eulogikon.org/en/hippolytus-of-rome",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hippolytus-of-rome-qsg.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hippolytus-of-rome-qsg.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hippolytus-of-rome-qsg.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hippolytus-of-rome-qsg.en.json"
+      }
+    },
+    {
+      "eul_aid": "uxc",
+      "name": {
+        "english": "John Philoponus of Alexandria",
+        "ancient_greek": "Ἰωάννης ὁ Φιλόπονος"
+      },
+      "work_count": 11,
+      "links": {
+        "html": "https://eulogikon.org/en/john-philoponus-of-alexandria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/john-philoponus-of-alexandria-uxc.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/john-philoponus-of-alexandria-uxc.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/john-philoponus-of-alexandria-uxc.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/john-philoponus-of-alexandria-uxc.en.json"
+      }
+    },
+    {
+      "eul_aid": "sxe",
+      "name": {
+        "english": "Nemesius of Emesa",
+        "ancient_greek": "Νεμέσιος ὁ Ἐμέσης"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/nemesius-of-emesa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nemesius-of-emesa-sxe.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nemesius-of-emesa-sxe.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nemesius-of-emesa-sxe.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nemesius-of-emesa-sxe.en.json"
+      }
+    },
+    {
+      "eul_aid": "uhs",
+      "name": {
+        "english": "Origen of Alexandria",
+        "ancient_greek": "Ὠριγένης ὁ Ἀλεξανδρεύς"
+      },
+      "work_count": 25,
+      "links": {
+        "html": "https://eulogikon.org/en/origen-of-alexandria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/origen-of-alexandria-uhs.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/origen-of-alexandria-uhs.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/origen-of-alexandria-uhs.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/origen-of-alexandria-uhs.en.json"
+      }
+    },
+    {
+      "eul_aid": "pxc",
+      "name": {
+        "english": "Sententiae Sexti",
+        "ancient_greek": "Σεντεντιῶν Σέκστου"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/sententiae-sexti",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sententiae-sexti-pxc.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sententiae-sexti-pxc.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sententiae-sexti-pxc.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sententiae-sexti-pxc.en.json"
+      }
+    },
+    {
+      "eul_aid": "pci",
+      "name": {
+        "english": "Tatian the Assyrian",
+        "ancient_greek": "Τατιανὸς ὁ Ἀσσύριος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/tatian-the-assyrian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/tatian-the-assyrian-pci.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/tatian-the-assyrian-pci.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/tatian-the-assyrian-pci.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/tatian-the-assyrian-pci.en.json"
+      }
+    },
+    {
+      "eul_aid": "tds",
+      "name": {
+        "english": "Theodoret of Cyrus",
+        "ancient_greek": "Θεοδώρητος ὁ Κύρρου"
+      },
+      "work_count": 7,
+      "links": {
+        "html": "https://eulogikon.org/en/theodoret-of-cyrus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theodoret-of-cyrus-tds.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theodoret-of-cyrus-tds.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theodoret-of-cyrus-tds.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theodoret-of-cyrus-tds.en.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/butherus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/butherus-rqw.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/butherus-rqw.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/butherus-rqw.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/butherus-rqw.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

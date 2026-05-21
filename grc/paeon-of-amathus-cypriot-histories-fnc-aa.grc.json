@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "fnc-aa",
+  "eul_aid": "fnc",
+  "author_slug": "paeon-of-amathus",
+  "work_slug": "cypriot-histories",
+  "url_slug": "paeon-of-amathus-cypriot-histories-fnc-aa",
+  "author": {
+    "english": "Paeon of Amathus",
+    "ancient_greek": "Παίων Ἀμαθούσιος"
+  },
+  "title": {
+    "english": "Cypriot Histories and Myths",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Fragments Paeon of Amathus on Cypriot Histories on Eulogikon",
+    "meta_title": "Fragments of Paeon of Amathus on Cypriot Histories in Greek",
+    "meta_description": "Surviving fragments of Paeon of Amathus on Cypriot histories myths. Ancient prose from Cyprus. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Cypriot Histories and Myths</strong> is a lost prose work attributed to Paeon of Amathus, a local historian of Cyprus. Our knowledge of the text derives entirely from fragments preserved by later authors, which indicate it was a compilation focused on the foundation myths, local histories, and religious traditions of Cyprus, with particular attention to the city of Amathus. Its content included the foundation myths of Cypriot cities, details of local cults and religious practices such as the veneration of Aphrodite, ethnographic observations on the non-Greek Eteocypriot population, and narratives connecting Cypriot traditions to broader Panhellenic mythology. The work survives only in quotations or paraphrases found in later ancient authors like Strabo and Hesychius of Alexandria, with no independent manuscript tradition. Cited as an authority on Cypriot antiquities, the fragments of Paeon’s history provide valuable evidence for reconstructing the island’s cultural and religious history, offering insights into pre-Greek elements and their Hellenization within the genre of local history that informed larger Greco-Roman compilations.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-2",
+      "text": "ΚΥΠΡΙΑΚΑ. E LIBRO PRIMO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Schol. Aristoph. Nub. 10: Κρέων δὲ ἐν τῷ πρώτῳ τῶν Κυπριακῶν κορδύλην φησὶ καλεῖσθαι τὸ πρὸς κεφαλῇ προσείλημα, ὃ δὴ παρὰ Ἀθηναίοις καλεῖται κρώβυλον, παρὰ δὲ Πέρσαις κιδάριον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Plutarchus Thes. c. 20: Ἴδιον δέ τινα περὶ τούτων λόγον ἐκδέδωκε Παίων ὁ Ἀμαθούσιος. Τὸν γὰρ Θησέα φησὶν ὑπὸ χειμῶνος εἰς Κύπρον ἐξενεχθέντα, καὶ τὴν Ἀριάδνην ἔγκυον ἔχοντα, φαύλως δὲ διακειμέ νην ὑπὸ τοῦ σάλου καὶ δυσφοροῦσαν ἐκβιβάσαι μόνην· αὐτὸν δὲ τῷ πλοίῳ βοηθοῦντα πάλιν εἰς τὸ πέλαγος ἀπὸ τῆς γῆς φέρεσθαι. Τὰς οὖν ἐγχωρίους γυναῖκας τὴν Ἀριάδνην ἀναλαβεῖν καὶ περιέπειν ἀθυμοῦσαν ἐπὶ τῇ μονώσει, καὶ γράμματα πλαστὰ προσφέρειν, ὡς τοῦ Θησέως γράφοντος αὐτῇ, καὶ περὶ τὴν ὠδῖνα συμπονεῖν καὶ βοηθεῖν· ἀποθανοῦσαν δὲ θάψαι, μὴ τεκοῦσαν. Ἐπανελθόντα δὲ τὸν Θησέα καὶ περίλυπον γενόμενον τοῖς μὲν ἐγχωρίοις ἀπολιπεῖν χρήματα, συντάξαντα θύειν τῇ Ἀριάδνῃ· δύο δὲ μικροὺς ἀνδριαντίσκους ἱδρύ σασθαι, τὸν μὲν ἀργυροῦν, τὸν δὲ χαλκοῦν. Ἐν δὲ τῇ θυσίᾳ τοῦ Γορπιαίου μηνὸς ἱσταμένου δευτέρᾳ, κατακλινόμενόν τινα τῶν νεανίσκων φθέγγεσθαι καὶ ποιεῖν, ἅπερ ὠδίνουσαι γυναῖκες· καλεῖν δὲ τὸ ἄλσος Ἀμαθου σίους, ἐν ᾧ τὸν τάφον δεικνύουσιν, Ἀριάδνης Ἀφροδίτης.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "dzw-aa",
+      "title": {
+        "english": "Chronological and Homeric Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dionysius-of-argos-chronological-homeric-fragments-dzw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-argos/chronological-homeric-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-argos-chronological-homeric-fragments-dzw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-argos-chronological-homeric-fragments-dzw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-argos-chronological-homeric-fragments-dzw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-argos-chronological-homeric-fragments-dzw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-argos/chronological-homeric-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "pdc-ae",
+      "title": {
+        "english": "From the Saunitic",
+        "ancient_greek": "ἐκ τῆς Σαυνιτικῆς"
+      },
+      "url_slug": "appian-of-alexandria-saunitic-pdc-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/saunitic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-saunitic-pdc-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-saunitic-pdc-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-saunitic-pdc-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-saunitic-pdc-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/saunitic.epub"
+      }
+    },
+    {
+      "eul_wid": "ecy-ab",
+      "title": {
+        "english": "Historical Fragments on Greek Affairs",
+        "ancient_greek": "Ἱστορικὰ Ἀποσπάσματα περὶ Ἑλληνικῶν Πραγμάτων"
+      },
+      "url_slug": "hellenica-anon-historical-fragments-ecy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hellenica-anon/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-historical-fragments-ecy-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-historical-fragments-ecy-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-historical-fragments-ecy-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-historical-fragments-ecy-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon/historical-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "viq-ac",
+      "title": {
+        "english": "On Roman Embassies to Nations",
+        "ancient_greek": "Περὶ Ῥωμαϊκῶν Πρεσβειῶν πρὸς Ἔθνη"
+      },
+      "url_slug": "menander-protector-roman-embassies-viq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-protector/roman-embassies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-protector-roman-embassies-viq-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-protector-roman-embassies-viq-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-protector-roman-embassies-viq-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-protector-roman-embassies-viq-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-protector/roman-embassies.epub"
+      }
+    },
+    {
+      "eul_wid": "ftg-aa",
+      "title": {
+        "english": "Persian and Assyrian Histories",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dinon-of-colophon-persian-assyrian-histories-ftg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dinon-of-colophon/persian-assyrian-histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinon-of-colophon-persian-assyrian-histories-ftg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinon-of-colophon-persian-assyrian-histories-ftg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinon-of-colophon-persian-assyrian-histories-ftg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinon-of-colophon-persian-assyrian-histories-ftg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinon-of-colophon/persian-assyrian-histories.epub"
+      }
+    },
+    {
+      "eul_wid": "spm-aa",
+      "title": {
+        "english": "Summary from the Founding of the City, Paeanian Translation",
+        "ancient_greek": "Σύνοψις ἀπὸ τῆς Κτίσεως τῆς Πόλεως"
+      },
+      "url_slug": "eutropius-the-historian-summary-city-spm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/eutropius-the-historian/summary-city",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutropius-the-historian-summary-city-spm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutropius-the-historian-summary-city-spm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutropius-the-historian-summary-city-spm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutropius-the-historian-summary-city-spm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutropius-the-historian/summary-city.epub"
+      }
+    },
+    {
+      "eul_wid": "hoe-ab",
+      "title": {
+        "english": "Testimonies 2",
+        "ancient_greek": "Μαρτυρίαι Β'"
+      },
+      "url_slug": "hecataeus-of-abdera-testimonies-2-hoe-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hecataeus-of-abdera/testimonies-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-testimonies-2-hoe-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-testimonies-2-hoe-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-testimonies-2-hoe-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-testimonies-2-hoe-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera/testimonies-2.epub"
+      }
+    },
+    {
+      "eul_wid": "cnu-aa",
+      "title": {
+        "english": "Thessalian Geography and Myths",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "archinus-the-historian-geography-myths-cnu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/archinus-the-historian/geography-myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archinus-the-historian-geography-myths-cnu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archinus-the-historian-geography-myths-cnu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archinus-the-historian-geography-myths-cnu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archinus-the-historian-geography-myths-cnu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archinus-the-historian/geography-myths.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/paeon-of-amathus/cypriot-histories",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paeon-of-amathus-cypriot-histories-fnc-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paeon-of-amathus-cypriot-histories-fnc-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paeon-of-amathus-cypriot-histories-fnc-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paeon-of-amathus-cypriot-histories-fnc-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paeon-of-amathus/cypriot-histories.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

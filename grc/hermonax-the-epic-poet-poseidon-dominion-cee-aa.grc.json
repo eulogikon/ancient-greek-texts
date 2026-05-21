@@ -1,0 +1,247 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "cee-aa",
+  "eul_aid": "cee",
+  "author_slug": "hermonax-the-epic-poet",
+  "work_slug": "poseidon-dominion",
+  "url_slug": "hermonax-the-epic-poet-poseidon-dominion-cee-aa",
+  "author": {
+    "english": "Hermonax the Epic Poet",
+    "ancient_greek": "Ἑρμῶναξ ὁ Ἐποποιός"
+  },
+  "title": {
+    "english": "Fragments on Poseidon's Dominion",
+    "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ποσειδῶνος Ἀρχῆς"
+  },
+  "seo": {
+    "browser_title": "Fragments on Poseidon's Dominion by Hermonax on Eulogikon",
+    "meta_title": "Fragments on Poseidon by Hermonax in Ancient Greek",
+    "meta_description": "Surviving fragments of Hermonax's epic poem on Poseidon's dominion and divine realm. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric) (frg)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Poseidon&#x27;s Dominion</strong> is a lost work of epic poetry attributed to Hermonax the Epic Poet. Known only by its title and a description noting it comprised eight passages, no direct quotations from the work survive. The title indicates it treated the domain and myths of the god Poseidon. Based on the deity&#x27;s standard mythological attributes, the fragments likely addressed themes including his sovereignty over the sea, the creation of horses and association with horsemanship, rivalries with other deities such as Athena, his epithet &quot;Earth-Shaker&quot; and control of earthquakes, and possibly the myth of Atlantis. The work is completely lost, with its existence noted only indirectly. The notation of &quot;eight passages&quot; suggests it was preserved as fragments within a lost anthological or scholarly source, and it is absent from major modern references. While its direct influence is untraceable, the work represents the Hellenistic or later tradition of systematic, catalog-style epic poetry on divine mythology. The attribution to &quot;Hermonax&quot; is problematic, as known historical figures of that name were a vase painter and a writer of parodies, not an epic poet.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Δαπέδου μεδέοντος ἔστι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "Ποσειδῶνος 〈δι’ ἁλὸς μεμαῶσι νέεσθαι〉 ἄρμενος ἐς πόλεμόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τε καὶ ἐν νήεσσι μάχεσθαι· ἐσθλὸς καὶ πεζοῖσι καὶ ἱππήεσσιν ἄριστος[ln_5]ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "πεδίῳ θεμένοισι μάχην, ἐν ὄρει δέ γε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "χείρων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "φαινόμενος· μάλα γὰρ πέλεται νικηφόρος ὄρνις· ἔς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "τε βοηλασίην ὁρμωμένῳ ἢ ἐπὶ λείην ἄρμενος· ὁπλίτην κεν ἄγων οἶκόνδε νέοιτο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "Καὶ ὅταν κατὰ δεξιὰ χειρὸς ἀστράπτῃ, νίκην καὶ ὑπέρτερον εὖχος ὀπάζει.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "bsq-aa",
+      "title": {
+        "english": "Alcmaeonis Fragments",
+        "ancient_greek": "Ἀλκμαίωνος Ἀποσπάσματα"
+      },
+      "url_slug": "epic-anonymous-i-alcmaeon-bsq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-anonymous-i/alcmaeon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-anonymous-i-alcmaeon-bsq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-anonymous-i-alcmaeon-bsq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-anonymous-i-alcmaeon-bsq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-anonymous-i-alcmaeon-bsq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-anonymous-i/alcmaeon.epub"
+      }
+    },
+    {
+      "eul_wid": "jom-aa",
+      "title": {
+        "english": "Aretalogy",
+        "ancient_greek": "Ἀρεταλογία"
+      },
+      "url_slug": "maiistas-the-epic-poet-aretalogy-jom-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/maiistas-the-epic-poet/aretalogy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maiistas-the-epic-poet-aretalogy-jom-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maiistas-the-epic-poet-aretalogy-jom-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maiistas-the-epic-poet-aretalogy-jom-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maiistas-the-epic-poet-aretalogy-jom-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maiistas-the-epic-poet/aretalogy.epub"
+      }
+    },
+    {
+      "eul_wid": "aau-aa",
+      "title": {
+        "english": "Astronomical Fragments",
+        "ancient_greek": "Ἀστρονομικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "hesiod-astronomical-fragments-aau-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hesiod/astronomical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod-astronomical-fragments-aau-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod-astronomical-fragments-aau-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod-astronomical-fragments-aau-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod-astronomical-fragments-aau-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/astronomical-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "bok-aa",
+      "title": {
+        "english": "Epic Fragments",
+        "ancient_greek": "Ἡρωϊκὰ Ἀποσπάσματα"
+      },
+      "url_slug": "panyassis-of-halicarnassus-epic-fragments-aa-bok-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/panyassis-of-halicarnassus/epic-fragments-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-of-halicarnassus-epic-fragments-aa-bok-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-of-halicarnassus-epic-fragments-aa-bok-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-of-halicarnassus-epic-fragments-aa-bok-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-of-halicarnassus-epic-fragments-aa-bok-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-of-halicarnassus/epic-fragments-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "kog-ab",
+      "title": {
+        "english": "Fragments on Ajax and Myth",
+        "ancient_greek": "Ἀποσπάσματα περὶ Αἴαντος καὶ Μύθου"
+      },
+      "url_slug": "euphorion-of-chalcis-ajax-myth-kog-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/euphorion-of-chalcis/ajax-myth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis-ajax-myth-kog-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis-ajax-myth-kog-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis-ajax-myth-kog-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis-ajax-myth-kog-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis/ajax-myth.epub"
+      }
+    },
+    {
+      "eul_wid": "jym-aa",
+      "title": {
+        "english": "Heroic Verses",
+        "ancient_greek": "Ἡρωικοὶ Στίχοι"
+      },
+      "url_slug": "heroic-verses-anon-text-jym-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/heroic-verses-anon/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heroic-verses-anon-text-jym-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heroic-verses-anon-text-jym-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heroic-verses-anon-text-jym-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heroic-verses-anon-text-jym-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heroic-verses-anon/text.epub"
+      }
+    },
+    {
+      "eul_wid": "kjq-aa",
+      "title": {
+        "english": "Praise of a Smyrnaean Professor Teaching at Berytus University",
+        "ancient_greek": "Ἐγκώμιον Σμυρναίου Καθηγητοῦ ἐν Βηρύτῳ"
+      },
+      "url_slug": "epic-fragments-anonymous-smyrnaean-professor-berytus-kjq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/smyrnaean-professor-berytus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-smyrnaean-professor-berytus-kjq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-smyrnaean-professor-berytus-kjq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-smyrnaean-professor-berytus-kjq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-smyrnaean-professor-berytus-kjq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/smyrnaean-professor-berytus.epub"
+      }
+    },
+    {
+      "eul_wid": "uge-aa",
+      "title": {
+        "english": "Sack of Ilium",
+        "ancient_greek": "Ἅλωσις Ἰλίου"
+      },
+      "url_slug": "tryphiodorus-of-egypt-sack-of-ilium-uge-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/tryphiodorus-of-egypt/sack-of-ilium",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphiodorus-of-egypt-sack-of-ilium-uge-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphiodorus-of-egypt-sack-of-ilium-uge-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphiodorus-of-egypt-sack-of-ilium-uge-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphiodorus-of-egypt-sack-of-ilium-uge-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphiodorus-of-egypt/sack-of-ilium.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hermonax-the-epic-poet/poseidon-dominion",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermonax-the-epic-poet-poseidon-dominion-cee-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermonax-the-epic-poet-poseidon-dominion-cee-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermonax-the-epic-poet-poseidon-dominion-cee-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermonax-the-epic-poet-poseidon-dominion-cee-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermonax-the-epic-poet/poseidon-dominion.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

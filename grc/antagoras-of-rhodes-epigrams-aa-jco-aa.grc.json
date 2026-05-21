@@ -1,0 +1,229 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "jco-aa",
+  "eul_aid": "jco",
+  "author_slug": "antagoras-of-rhodes",
+  "work_slug": "epigrams-aa",
+  "url_slug": "antagoras-of-rhodes-epigrams-aa-jco-aa",
+  "author": {
+    "english": "Antagoras of Rhodes",
+    "ancient_greek": "Ἀνταγόρας ὁ Ῥόδιος"
+  },
+  "title": {
+    "english": "Epigrams",
+    "ancient_greek": "Ἐπιγράμματα"
+  },
+  "seo": {
+    "browser_title": "Greek Epigrams by Antagoras of Rhodes on Eulogikon",
+    "meta_title": "Classical Epigrams by Antagoras of Rhodes in Ancient Greek",
+    "meta_description": "Three Greek epigrams by Antagoras of Rhodes. Short verse from the early 3rd century BCE. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Epigrams</strong> of Antagoras of Rhodes constitute a scant but illustrative survival of early Hellenistic poetry. Active in the early 3rd century BCE and associated with the Macedonian court, Antagoras composed these short Greek verse pieces, of which only three complete examples are extant. Preserved not in a continuous manuscript but through quotations by later authors such as Athenaeus and Diogenes Laertius, the poems exemplify conventional epigrammatic themes. One is a pederastic poem expressing desire for a boy, another a dedicatory verse for a lyre offered to Aphrodite, and the third an epitaph for the poet&#x27;s father. Scholars generally interpret these works as occasional poetry, composed for specific social functions like symposia or for actual inscription. Though highly fragmentary as a corpus, these epigrams offer a glimpse into the personal and diverse poetic culture of their era, which would later inform more comprehensive anthologies.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Ἐν δοιῇ μοι θυμός, ὅ τοι γένος ἀμφίσβητον, ἤ σε θεῶν τὸν πρῶτον ἀειγενέων, Ἔρος, εἴπω, τῶν ὅσσους Ἔρεβός τε πάλαι βασίλειά τε παῖδας γείνατο Νὺξ πελάγεσσιν ὑπ’ εὐρέος Ὠκεανοῖο· ἢ σέ γε Κύπριδος υἷα περίφρονος, ἠέ σε Γαίης, ἢ Ἀνέμων· τοῖος σὺ κακὰ φρονέων ἀλάλησαι ἀνθρώποις ἠδ’ ἐσθλά· τὸ καὶ σέο σῶμα δίφυιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "Μνήματι τῷδε Κράτητα θεουδέα καὶ Πολέμωνα [para]ἔννεπε κρύπτεσθαι, ξεῖνε, παρερχόμενος, ἄνδρας ὁμοφροσύνῃ μεγαλήτορας, ὧν ἀπὸ μῦθος [para]ἱερὸς ἤισσεν δαιμονίου στόματος, καὶ βίοτος καθαρὸς σοφίας ἐπὶ θεῖον ἐκόσμει [para]αἰῶν’ ἀστρέπτοις δόγμασι πειθόμενος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "Ὦ ἴτε Δήμητρος πρὸς ἀνάκτορον, ὦ ἴτε μύσται, [para]μηδ’ ὕδατος προχοὰς δείδιτε χειμερίους· τοῖον γὰρ Ξενοκλῆς ὁ Ξείνιδος ἀσφαλὲς ὔμμιν [para]ζεῦγμα διὰ πλατέος τοῦδ’ ἔβαλεν ποταμοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "jco-ab",
+      "title": {
+        "english": "Epigrams (Anthologia Selection)",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "antagoras-of-rhodes-epigrams-ab-jco-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/antagoras-of-rhodes/epigrams-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes-epigrams-ab-jco-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes-epigrams-ab-jco-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes-epigrams-ab-jco-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes-epigrams-ab-jco-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes/epigrams-ab.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "uuu-aa",
+      "title": {
+        "english": "Abduction of Helen",
+        "ancient_greek": "Ἁρπαγὴ Ἑλένης"
+      },
+      "url_slug": "colluthus-of-lycopolis-abduction-of-helen-uuu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/colluthus-of-lycopolis/abduction-of-helen",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/colluthus-of-lycopolis-abduction-of-helen-uuu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/colluthus-of-lycopolis-abduction-of-helen-uuu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/colluthus-of-lycopolis-abduction-of-helen-uuu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/colluthus-of-lycopolis-abduction-of-helen-uuu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/colluthus-of-lycopolis/abduction-of-helen.epub"
+      }
+    },
+    {
+      "eul_wid": "aau-aa",
+      "title": {
+        "english": "Astronomical Fragments",
+        "ancient_greek": "Ἀστρονομικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "hesiod-astronomical-fragments-aau-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hesiod/astronomical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod-astronomical-fragments-aau-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod-astronomical-fragments-aau-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod-astronomical-fragments-aau-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod-astronomical-fragments-aau-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/astronomical-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "izm-ae",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "rhianus-of-crete-epigrams-izm-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/rhianus-of-crete/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-epigrams-izm-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-epigrams-izm-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-epigrams-izm-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-epigrams-izm-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "qta-aa",
+      "title": {
+        "english": "Fishing",
+        "ancient_greek": "Ἁλιευτικά"
+      },
+      "url_slug": "oppian-of-anazarbus-halieutica-qta-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/oppian-of-anazarbus/halieutica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-of-anazarbus-halieutica-qta-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-of-anazarbus-halieutica-qta-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-of-anazarbus-halieutica-qta-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-of-anazarbus-halieutica-qta-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-of-anazarbus/halieutica.epub"
+      }
+    },
+    {
+      "eul_wid": "kog-aa",
+      "title": {
+        "english": "Fragments on Myth and Divinity",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μύθου καὶ Θειότητος"
+      },
+      "url_slug": "euphorion-of-chalcis-myth-divinity-kog-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/euphorion-of-chalcis/myth-divinity",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis-myth-divinity-kog-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis-myth-divinity-kog-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis-myth-divinity-kog-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis-myth-divinity-kog-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis/myth-divinity.epub"
+      }
+    },
+    {
+      "eul_wid": "bbi-aa",
+      "title": {
+        "english": "Minyas Fragments",
+        "ancient_greek": "Μινύου Ἀποσπάσματα"
+      },
+      "url_slug": "minyas-the-epic-poet-fragments-bbi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/minyas-the-epic-poet/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/minyas-the-epic-poet-fragments-bbi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/minyas-the-epic-poet-fragments-bbi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/minyas-the-epic-poet-fragments-bbi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/minyas-the-epic-poet-fragments-bbi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/minyas-the-epic-poet/fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "cyy-aa",
+      "title": {
+        "english": "Poem of Naupactus, Fragments",
+        "ancient_greek": "Ναυπάκτια Ἀποσπάσματα"
+      },
+      "url_slug": "epic-work-anonymous-naupactus-fragments-cyy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-work-anonymous/naupactus-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-work-anonymous-naupactus-fragments-cyy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-work-anonymous-naupactus-fragments-cyy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-work-anonymous-naupactus-fragments-cyy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-work-anonymous-naupactus-fragments-cyy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-work-anonymous/naupactus-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "ujg-aa",
+      "title": {
+        "english": "Post-Homeric Poem",
+        "ancient_greek": "τὰ μεθ᾿ Ὅμηρον"
+      },
+      "url_slug": "quintus-of-smyrna-post-homeric-poem-ujg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/quintus-of-smyrna/post-homeric-poem",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/quintus-of-smyrna-post-homeric-poem-ujg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/quintus-of-smyrna-post-homeric-poem-ujg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/quintus-of-smyrna-post-homeric-poem-ujg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/quintus-of-smyrna-post-homeric-poem-ujg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/quintus-of-smyrna/post-homeric-poem.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/antagoras-of-rhodes/epigrams-aa",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes-epigrams-aa-jco-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes-epigrams-aa-jco-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes-epigrams-aa-jco-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes-epigrams-aa-jco-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes/epigrams-aa.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "kgy-aa",
+  "eul_aid": "kgy",
+  "author_slug": "hedyle",
+  "work_slug": "scylla-galatea",
+  "url_slug": "hedyle-scylla-galatea-kgy-aa",
+  "author": {
+    "english": "Hedyle",
+    "ancient_greek": "Ἥδυλη"
+  },
+  "title": {
+    "english": "Fragments on Scylla and Galatea",
+    "ancient_greek": "Ἀποσπάσματα περὶ Σκύλλης καὶ Γαλατείας"
+  },
+  "seo": {
+    "browser_title": "Fragments of Hedyle on Scylla and Galatea on Eulogikon",
+    "meta_title": "Fragments of Hedyle on Scylla and Galatea in Ancient Greek",
+    "meta_description": "Poetic fragments by Hedyle on Scylla and Galatea. Hellenistic epyllion from a rare female poet. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Scylla and Galatea</strong> are three passages preserved from the lost epyllion <strong>Scylla</strong> by the Hellenistic poet Hedyle. Quoted by Athenaeus in his <strong>Deipnosophistae</strong>, they narrate a connected mythological sequence. The narrative involves the Cyclops Polyphemus, who, in a jealous rage over the sea-nymph Galatea&#x27;s love for the youth Acis, kills Acis by crushing him with a rock. Galatea then transforms the blood of her slain lover into the river Acis in Sicily. In an act of revenge, Galatea subsequently uses magical herbs to transform the nymph Scylla into a monstrous creature encircled by a girdle of dogs&#x27; heads. The fragments thus innovatively integrate two major myths: the love triangle of Galatea, Acis, and Polyphemus, and the origin story for Scylla&#x27;s monstrous form, which is presented as a direct consequence of Galatea&#x27;s retaliation. The work survives solely through this fragmentary transmission in later compendia, with Athenaeus providing the direct quotations and Hedyle&#x27;s poem also being mentioned in the tenth-century Byzantine encyclopedia, the <strong>Suda</strong>. These fragments constitute a significant example of Hellenistic mythographical creativity, forging a novel link between previously distinct stories. They provide crucial evidence for the literary activity of women in the period and represent an important alternative version of the Scylla myth, one that differs notably from later accounts such as that found in Ovid&#x27;s works.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 456.1",
+      "text": "[ln_1]ἢ κόγχους δωρήματ’ Ἐρυθραίης ἀπὸ πέτρης ἢ τοὺς ἀλκυόνων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 456.2",
+      "text": "παῖδας ἔτ’ ἀπτερύγους τῇ νύμφῃ δύσπιστος ἀθύρματα. δάκρυ δ’ ἐκείνου καὶ Σειρὴν γείτων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 456.3",
+      "text": "παρθένος ᾠκτίσατο·[ln_5]ἀκτὴν γὰρ κείνην ἀπενήχετο καὶ τὰ σύνεγγυς Αἴτνης.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "mwq-ab",
+      "title": {
+        "english": "Adonis Epitaph",
+        "ancient_greek": "Αδώνιδος επιτάφιος"
+      },
+      "url_slug": "bion-of-smyrna-adonis-epitaph-mwq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/bion-of-smyrna/adonis-epitaph",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna-adonis-epitaph-mwq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna-adonis-epitaph-mwq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna-adonis-epitaph-mwq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna-adonis-epitaph-mwq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna/adonis-epitaph.epub"
+      }
+    },
+    {
+      "eul_wid": "brw-al",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "bacchylides-of-ceos-epigrams-brw-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-epigrams-brw-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-epigrams-brw-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-epigrams-brw-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-epigrams-brw-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "izc-ab",
+      "title": {
+        "english": "Epigrams (Minor Selection)",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "theocritus-of-syracuse-epigrams-ab-izc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/theocritus-of-syracuse/epigrams-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-epigrams-ab-izc-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-epigrams-ab-izc-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-epigrams-ab-izc-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-epigrams-ab-izc-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse/epigrams-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "lnq-aa",
+      "title": {
+        "english": "Fragments and Titles",
+        "ancient_greek": "Ἀποσπάσματα καὶ Τίτλοι"
+      },
+      "url_slug": "numenius-of-heraclea-fragments-lnq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/numenius-of-heraclea/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/numenius-of-heraclea-fragments-lnq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/numenius-of-heraclea-fragments-lnq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/numenius-of-heraclea-fragments-lnq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/numenius-of-heraclea-fragments-lnq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/numenius-of-heraclea/fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "aly-ab",
+      "title": {
+        "english": "Fragments on Smyrna and Colonization",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σμύρνης καὶ Ἀποικισμοῦ"
+      },
+      "url_slug": "mimnermus-of-colophon-smyrna-colonization-aly-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/mimnermus-of-colophon/smyrna-colonization",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mimnermus-of-colophon-smyrna-colonization-aly-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mimnermus-of-colophon-smyrna-colonization-aly-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mimnermus-of-colophon-smyrna-colonization-aly-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mimnermus-of-colophon-smyrna-colonization-aly-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mimnermus-of-colophon/smyrna-colonization.epub"
+      }
+    },
+    {
+      "eul_wid": "qja-ab",
+      "title": {
+        "english": "Medical Recipe for Demetrius",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "aglaias-of-byzantium-medical-recipe-qja-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aglaias-of-byzantium/medical-recipe",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium-medical-recipe-qja-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium-medical-recipe-qja-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium-medical-recipe-qja-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium-medical-recipe-qja-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium/medical-recipe.epub"
+      }
+    },
+    {
+      "eul_wid": "boa-ab",
+      "title": {
+        "english": "Olympic Victors",
+        "ancient_greek": "Ὀλυμπιονῖκαι"
+      },
+      "url_slug": "pindar-victors-boa-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/pindar/victors",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-victors-boa-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-victors-boa-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-victors-boa-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-victors-boa-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar/victors.epub"
+      }
+    },
+    {
+      "eul_wid": "brw-ak",
+      "title": {
+        "english": "encoms",
+        "ancient_greek": "Ἐγκώμια"
+      },
+      "url_slug": "bacchylides-of-ceos-encoms-brw-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/encoms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-encoms-brw-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-encoms-brw-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-encoms-brw-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-encoms-brw-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/encoms.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hedyle/scylla-galatea",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedyle-scylla-galatea-kgy-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedyle-scylla-galatea-kgy-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedyle-scylla-galatea-kgy-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedyle-scylla-galatea-kgy-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedyle/scylla-galatea.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

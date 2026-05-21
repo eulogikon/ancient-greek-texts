@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "cbw",
+  "auth_slug": "euripides-the-tragedian",
+  "name": {
+    "english": "Euripides the Tragedian",
+    "ancient_greek": "Εὐριπίδης ὁ τραγῳδιοποιός"
+  },
+  "seo_h1": "Euripides on Kingship in Letters to Archelaus",
+  "seo": {
+    "browser_title": "Euripides the Tragedian on Eulogikon Greek Archive",
+    "meta_title": "Classical Euripides Ancient Greek Tragedies and Fragments",
+    "meta_description": "Euripides, the 5th century BCE Athenian tragedian. Surviving works include Medea and The Bacchae. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δράμα Ἀττικόν",
+      "english": "Attic Drama",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Euripides was a major Athenian tragedian of the 5th century BCE, born on Salamis around 480 BCE. Educated and influenced by contemporary philosophers, he produced his first plays in 455 BCE and won his first victory in 441 BCE. Less engaged in public life than his contemporaries, he was later portrayed as a reclusive figure. He spent his final years at the court of King Archelaus of Macedon, where he died in 406 BCE.</p>\n<p class=\"research-text\">His career unfolded during the Peloponnesian War and the Sophistic movement. He won only four victories at the City Dionysia during his lifetime despite competing 22 times. Nineteen plays survive under his name, including Medea (431 BCE), Hippolytus (428 BCE), The Trojan Women (415 BCE), The Bacchae (405 BCE), and Iphigenia at Aulis (405 BCE). One satyr play, Cyclops, and the disputed Rhesus are also extant. A single epistle is attributed to him.</p>\n<p class=\"research-text\">Euripides is one of the three canonical Greek tragedians. His significance lies in his radical innovations: psychologically complex characters, challenges to traditional values and gender roles, and powerful voices for marginalized figures. Though less popular in his own time, he became the most influential tragedian in later antiquity, profoundly shaping subsequent drama.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "cbw-aa",
+      "title": {
+        "english": "Letters to King Archelaus",
+        "ancient_greek": "Ἐπιστολαὶ πρὸς Ἀρχέλαον"
+      },
+      "url_slug": "euripides-the-tragedian-letters-archelaus-cbw-aa",
+      "passages": 16,
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides-the-tragedian/letters-archelaus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-the-tragedian-letters-archelaus-cbw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-the-tragedian-letters-archelaus-cbw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-the-tragedian-letters-archelaus-cbw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-the-tragedian-letters-archelaus-cbw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-the-tragedian/letters-archelaus.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/euripides-the-tragedian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/euripides-the-tragedian-cbw.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/euripides-the-tragedian-cbw.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/euripides-the-tragedian-cbw.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/euripides-the-tragedian-cbw.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,391 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "mlw-ae",
+  "eul_aid": "mlw",
+  "author_slug": "aristophanes-scholia",
+  "work_slug": "acharnians-ae",
+  "url_slug": "aristophanes-scholia-acharnians-ae-mlw-ae",
+  "author": {
+    "english": "Aristophanes Scholia",
+    "ancient_greek": "Ἀριστοφάνους Σχόλια"
+  },
+  "title": {
+    "english": "Scholia-Acharnians",
+    "ancient_greek": "Σχόλια εἰς Ἀχαρνῆς"
+  },
+  "seo": {
+    "browser_title": "Scholia on Acharnians by Aristophanes Scholia on Eulogikon",
+    "meta_title": "Scholia on Acharnians by Aristophanes Scholia in Greek",
+    "meta_description": "Ancient scholia providing grammatical explanatory notes on Aristophanes's comedy Acharnians. Scholarly commentary on language, characters, references."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Scholia-Acharnians</strong> constitute a body of ancient and medieval explanatory annotations preserved in the margins of manuscripts containing Aristophanes&#x27; comedy <strong>Acharnians</strong>. Compiled anonymously over many centuries, these scholia represent the cumulative work of multiple generations of scholars. Their primary function was to aid later readers by elucidating difficult vocabulary, obscure historical references to fifth-century BCE Athens, contemporary political figures, and the nuances of the play&#x27;s humor. Modern philology regards them as an indispensable tool for understanding Old Comedy, as they preserve valuable fragments of otherwise lost ancient scholarship.</p>\n<p class=\"research-text\">The process of compilation began in the Hellenistic period, with significant contributions traditionally attributed to scholars such as Aristophanes of Byzantium. Annotation continued through the Roman and Byzantine eras, with later scribes condensing and copying these notes into medieval codices. The scholia are not an independent text but exist in a parasitic relationship with the verses of the <strong>Acharnians</strong>, which they quote and explicate line by line. Only a selective portion of the original, more extensive ancient commentaries survives today, transmitted primarily in manuscripts dating from the tenth century CE onward. This complex, layered transmission history renders the certain attribution of specific notes to individual ancient scholars virtually impossible.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "sch ach.frag a, col 2.(51)",
+      "text": "[ ]μ̣ι̣ν̣ [ ] τινων [ τ]αις κω μωιδιαις ]ι̣ περι [ ]σιου [ ]ο̣ι δ(ε) φα(σι) 108? [ ]ς Κλεισθ(ενης) 118 [ ]αβαλλω(ν): [ πωγ]ω̣να εχο(ντ ) 120 ... επι των πολλους ξενου]ς δεχομ(ενων): 127 [ Θε]ω̣ρος: 134 [ Θεογνις · τραγωιδιας] ψυχρος πο(ιητης): 140 [ ]ν τ ω ν [ κ]αταπελ 160 τασονται · ]ματος [ ] [ φ]η (σι) πολιν: [ ]ηι α [ ]τις εχων [ ]ενοις [ ]ο̣ι (εισι): [ ]αν μυτ 174 τωτ ]ς σκληροι· 180 [ ....... ]ινου: ο̣υ̣κ̣ ε̣ν̣α̣σ̣π̣ιδ[ω(σομαι )] ο̣ιον [ ψηφηδακειν· 368, 376 [επει ψηφ]ο̣ις δικαζοντες χρωνται . [ την περυ 378 [ σι κωμω]ι̣διαν · εις τους Βαβυλωνιο[υς [ ...... ]τ̣ους τ(ων) Αθηναιων (και) πεδι̣[ [ ..... υ]π̣ο Κλεωνος δικην εφυ[γε Ιερωνυμου · πο(ιητης) 386 [τις ην κο]μητης: του Σισυφου · οιον [ 391 [ ... παρ]ο̣ιμιαν σκηψιν αγων ουτ̣ο̣ς̣ . [ 392 [ ...... δ]υσποτμος · εισαγεται γ(αρ) παρ̣[α τωι Ευριπιδηι ως εκπεπτωκως 419 [εκ της βα]σιλειας κ(αι) πτωχος περιν[οστων [ ...... ]τ̣αι παρ αυτωι υπο δ(ε) χειρω̣ν̣ [ [ .. τα ρα]κη κ(αι) τα σχισματα: σκιμα[λισω· 444 [ ...... τ]οις ρημασι: Τηλεφωι δ αγ[ω φρονω· χρεος 446, 455 [ μεν ουδ]εν · πρ(ος) το χρεος λεγει: ωσπε[ρ η μητηρ· ισχνα μοι 457, 469 [ φυλλεια] δος τα σαπρα φυλλα ҅α εκ τ̣[ σκαν 478 [ δικα· λ ]αχανιον τι: εμπορευτε[α· 480 [ ....... ] υπερ Λακεδ(αιμονιων) ανδρων λεγ(ειν ) ο . [ γραμμη· 482, 483 [ ..... δρ]ομεων: παρακεκομμενα [ 517 [ σικ(υον)ιδο ι̣εν ου(τ ) σικυωι τιθωνωι εοικ( ) [ πεφυσιγγωμενοι· 520, 526 [εκκεκαυ]μενοι: πορν α δυο · ως πορν[ σκολια· 527, 532 [μελη πα]ρ̣οινια: Σεριφιων των Αθ[ηναι παλλαδιων· 542, 547 [ .... τα] π(ερι) τας τριηρεις οντα̣ Παλλαδ[ος αγαλματα [ εν δικτυο]ι̣ς̣ λε(γει) εν γυργαθοις: τριχ[ιδων· 550, 551 [ ............ ]αι: τον δ[ε] Τηλεφον [ 555 [ ........... ] .... ι̣ . [ ... ]υκαν επ[ [ 20 letters ] . αυτων [ [ 20 letters α]γωνιζο(μενων) τω[ν [ 21 letters ] ουτος δειχ[θ [ ........... φυλετα ·] απο της α(υτης) φυ̣[λης 568 [ .......... ]κησ̣ι̣[ [ .... ] τ (ων) α[ .. ] . τ̣ω[ [ . ]κ̣αλ̣( ) οι ετεροι του̣[ς δειν ως φα(σι) κ(αι) οι ηθ̣[ πτερον αιτει 584 ινα καθεις εις την φαρυγα ε̣[ξεμεση κομπολακ(υθου) · ουτω λε(γει) 589 τον Λαμαχον οτ(ι) κομπαστης [ην σπουδαρχ(ιδης)· στρα 595, 596 τωνιδης π(αρα) το στρατευεσθα[ι μισθαρχιδης δε οτι μισθον 597 λαμβανων εφ ο̣ι̣ς̣ αν π̣[ κοκκυγες · ε 598 ρημιαν οι ορν(εις): Τισαμεν[οφαιν(ιππους)· Πανουργιπ(παρχιδας) · πα 603 νουργιαι: Γερητοθεοδ(ωρους ) Γερ[ης 605 αλλ ҅ο Κοισυρας · ο Μεγακλης· τ[ 614 δ̣[ε] κα(ι) οσοι προδοται (εισι) οι μ(εν) α̣[ εκεισε ειτα πυνθανετ αι λ̣[ την ταξιν αυτων η εμ[ τοι φη(σι) ο Κοισυρας κ(αι) Λαμαχ[ος 616—7 ελεγον εξιστω· το δ(ε) απο[νιπτρον προφωνουσιν εξιστω ιν[α Λαμαχος · ειθ ο Δικαιοπ(ολις) ουδ[ 619? χαυνοπολ(ιτας ) οιον χαυνους: ο̣[τε και βασιλευς · υ 635, 647 περ εαυτου λεγων οτ (ε) και βασιλε[υς πρωτον μ(εν) ποτερον ταις ναυ[σι κρατουσιν μεγαλοφροσυνην εαυτου [ δια δ(ε) ταυτα φη(σι) Λακεδαιμο(νιους) [ 652 πο(ιητην ) φα(σι) γ(αρ) οι μ(εν) αυτον εκει . [ 654 οιον εξ ω ν το δικαστικον [ 656—8 κ(αι) προς χαριν λεγοντ . [ ειθ ουτω κατεπραττον [ φλεγυρα · ενθερμος: φ̣[εψαλος · σπινθηρ: επανθρακιδες · ιχθυες 665, 668, 670 η̣ κρεα: οι δ(ε) Θασιαν το̣[ 671",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "mlw-ap",
+      "title": {
+        "english": "Aldine Scholia on Clouds",
+        "ancient_greek": "Σχόλια εἰς Νεφέλας"
+      },
+      "url_slug": "aristophanes-scholia-clouds-ap-mlw-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/clouds-ap",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-ap-mlw-ap.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-ap-mlw-ap.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-ap-mlw-ap.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-ap-mlw-ap.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/clouds-ap.epub"
+      }
+    },
+    {
+      "eul_wid": "mlw-ac",
+      "title": {
+        "english": "Argument-the Knights",
+        "ancient_greek": "Προοίμιον εἰς Ἱππεῖς"
+      },
+      "url_slug": "aristophanes-scholia-knights-ac-mlw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/knights-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-knights-ac-mlw-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-knights-ac-mlw-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-knights-ac-mlw-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-knights-ac-mlw-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/knights-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "mlw-ag",
+      "title": {
+        "english": "Commentary on Clouds (Ὑπόμνημα)",
+        "ancient_greek": "Ὑπόμνημα εἰς Νεφέλας"
+      },
+      "url_slug": "aristophanes-scholia-clouds-ag-mlw-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/clouds-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-ag-mlw-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-ag-mlw-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-ag-mlw-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-ag-mlw-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/clouds-ag.epub"
+      }
+    },
+    {
+      "eul_wid": "mlw-al",
+      "title": {
+        "english": "Commentary on Frogs (Supplementary)",
+        "ancient_greek": "Ὑπόμνημα εἰς Βάτραχους"
+      },
+      "url_slug": "aristophanes-scholia-frogs-al-mlw-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/frogs-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-frogs-al-mlw-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-frogs-al-mlw-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-frogs-al-mlw-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-frogs-al-mlw-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/frogs-al.epub"
+      }
+    },
+    {
+      "eul_wid": "mlw-ak",
+      "title": {
+        "english": "Commentary on Frogs (Ὑπόμνημα)",
+        "ancient_greek": "Ὑπόμνημα εἰς Βάτραχους"
+      },
+      "url_slug": "aristophanes-scholia-frogs-ak-mlw-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/frogs-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-frogs-ak-mlw-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-frogs-ak-mlw-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-frogs-ak-mlw-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-frogs-ak-mlw-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/frogs-ak.epub"
+      }
+    },
+    {
+      "eul_wid": "mlw-ai",
+      "title": {
+        "english": "Commentary on Wealth (Supplementary)",
+        "ancient_greek": "Ὑπόμνημα εἰς Πλοῦτον"
+      },
+      "url_slug": "aristophanes-scholia-wealth-ai-mlw-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/wealth-ai",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-wealth-ai-mlw-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-wealth-ai-mlw-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-wealth-ai-mlw-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-wealth-ai-mlw-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/wealth-ai.epub"
+      }
+    },
+    {
+      "eul_wid": "mlw-ah",
+      "title": {
+        "english": "Commentary on Wealth (Ὑπόμνημα)",
+        "ancient_greek": "Ὑπόμνημα εἰς Πλοῦτον"
+      },
+      "url_slug": "aristophanes-scholia-wealth-ah-mlw-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/wealth-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-wealth-ah-mlw-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-wealth-ah-mlw-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-wealth-ah-mlw-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-wealth-ah-mlw-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/wealth-ah.epub"
+      }
+    },
+    {
+      "eul_wid": "mlw-aj",
+      "title": {
+        "english": "Commentary-Birds",
+        "ancient_greek": "Ὑπόμνημα εἰς Ὄρνιθας"
+      },
+      "url_slug": "aristophanes-scholia-birds-aj-mlw-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/birds-aj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-birds-aj-mlw-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-birds-aj-mlw-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-birds-aj-mlw-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-birds-aj-mlw-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/birds-aj.epub"
+      }
+    },
+    {
+      "eul_wid": "mlw-aq",
+      "title": {
+        "english": "Eustathius-derived Scholia on Clouds",
+        "ancient_greek": "Σχόλια εἰς Νεφέλας"
+      },
+      "url_slug": "aristophanes-scholia-clouds-aq-mlw-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/clouds-aq",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-aq-mlw-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-aq-mlw-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-aq-mlw-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-aq-mlw-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/clouds-aq.epub"
+      }
+    },
+    {
+      "eul_wid": "mlw-an",
+      "title": {
+        "english": "Glosses-Plutus",
+        "ancient_greek": "Γλῶσσαι εἰς Πλοῦτον"
+      },
+      "url_slug": "aristophanes-scholia-plutus-mlw-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/plutus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-plutus-mlw-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-plutus-mlw-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-plutus-mlw-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-plutus-mlw-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/plutus.epub"
+      }
+    },
+    {
+      "eul_wid": "mlw-ar",
+      "title": {
+        "english": "Later Scholia on Clouds (Triclinian)",
+        "ancient_greek": "Σχόλια εἰς Νεφέλας"
+      },
+      "url_slug": "aristophanes-scholia-clouds-ar-mlw-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/clouds-ar",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-ar-mlw-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-ar-mlw-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-ar-mlw-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-ar-mlw-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/clouds-ar.epub"
+      }
+    },
+    {
+      "eul_wid": "mlw-ad",
+      "title": {
+        "english": "Old Scholia on Acharnians",
+        "ancient_greek": "Σχόλια εἰς Ἀχαρνῆς"
+      },
+      "url_slug": "aristophanes-scholia-acharnians-ad-mlw-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/acharnians-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-acharnians-ad-mlw-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-acharnians-ad-mlw-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-acharnians-ad-mlw-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-acharnians-ad-mlw-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/acharnians-ad.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "vmw-ab",
+      "title": {
+        "english": "Fragments of Scholia of Uncertain Placement",
+        "ancient_greek": "Ἀποσπάσματα Σχολίων ἀδήλου θέσεως"
+      },
+      "url_slug": "callimachus-scholia-uncertain-placement-vmw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/uncertain-placement",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-uncertain-placement-vmw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-uncertain-placement-vmw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-uncertain-placement-vmw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-uncertain-placement-vmw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/uncertain-placement.epub"
+      }
+    },
+    {
+      "eul_wid": "qnq-bi",
+      "title": {
+        "english": "On Dichronous",
+        "ancient_greek": "Περὶ διχρόνων"
+      },
+      "url_slug": "herodian-of-alexandria-dichronous-qnq-bi",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/dichronous",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-dichronous-qnq-bi.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-dichronous-qnq-bi.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-dichronous-qnq-bi.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-dichronous-qnq-bi.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/dichronous.epub"
+      }
+    },
+    {
+      "eul_wid": "qnq-br",
+      "title": {
+        "english": "On Figures (Long)",
+        "ancient_greek": "Περὶ σχημάτων"
+      },
+      "url_slug": "herodian-of-alexandria-figures-br-qnq-br",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/figures-br",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-figures-br-qnq-br.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-figures-br-qnq-br.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-figures-br-qnq-br.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-figures-br-qnq-br.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/figures-br.epub"
+      }
+    },
+    {
+      "eul_wid": "oyc-ab",
+      "title": {
+        "english": "On the Difference of Words",
+        "ancient_greek": "Περὶ διαφορᾶς"
+      },
+      "url_slug": "ptolemy-of-ascalon-difference-words-oyc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-ascalon/difference-words",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-ascalon-difference-words-oyc-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-ascalon-difference-words-oyc-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-ascalon-difference-words-oyc-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-ascalon-difference-words-oyc-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-ascalon/difference-words.epub"
+      }
+    },
+    {
+      "eul_wid": "mui-ad",
+      "title": {
+        "english": "On the Foundation of Tarsus",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "dionysius-the-thracian-foundation-tarsus-mui-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-the-thracian/foundation-tarsus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian-foundation-tarsus-mui-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian-foundation-tarsus-mui-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian-foundation-tarsus-mui-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian-foundation-tarsus-mui-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/foundation-tarsus.epub"
+      }
+    },
+    {
+      "eul_wid": "vmw-ap",
+      "title": {
+        "english": "Scholia-Aetia I",
+        "ancient_greek": "Σχόλια εἰς Αἴτια Α'"
+      },
+      "url_slug": "callimachus-scholia-aetia-ap-vmw-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/aetia-ap",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-aetia-ap-vmw-ap.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-aetia-ap-vmw-ap.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-aetia-ap-vmw-ap.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-aetia-ap-vmw-ap.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/aetia-ap.epub"
+      }
+    },
+    {
+      "eul_wid": "ngq-aa",
+      "title": {
+        "english": "Scholia-Aratus",
+        "ancient_greek": "Σχόλια εἰς Ἄρατον"
+      },
+      "url_slug": "aratus-scholia-text-aa-ngq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-scholia/text-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia-text-aa-ngq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia-text-aa-ngq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia-text-aa-ngq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia-text-aa-ngq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "ppu-ae",
+      "title": {
+        "english": "Scholia-Paeans",
+        "ancient_greek": "Σχόλια εἰς Παιᾶνας"
+      },
+      "url_slug": "pindar-scholia-scholia-paeans-ppu-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/pindar-scholia/scholia-paeans",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-paeans-ppu-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-paeans-ppu-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-paeans-ppu-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-paeans-ppu-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia/scholia-paeans.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aristophanes-scholia/acharnians-ae",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-acharnians-ae-mlw-ae.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-acharnians-ae-mlw-ae.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-acharnians-ae-mlw-ae.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-acharnians-ae-mlw-ae.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/acharnians-ae.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

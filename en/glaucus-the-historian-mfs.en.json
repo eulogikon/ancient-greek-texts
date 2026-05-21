@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "mfs",
+  "auth_slug": "glaucus-the-historian",
+  "name": {
+    "english": "Glaucus the Historian",
+    "ancient_greek": "Γλαῦκος ὁ Ἱστορικός"
+  },
+  "seo_h1": "Glaucus the Historian on Arab Geography and Antiquities",
+  "seo": {
+    "browser_title": "The Glaucus the Historian on Eulogikon Greek Archive",
+    "meta_title": "Glaucus the Historian Ancient Greek Works and Texts",
+    "meta_description": "Glaucus Historian, a Hellenistic historian of the 2nd century BCE. Surviving works from the ancient Greek tradition. Free to download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Glaucus the Historian was a Hellenistic author of the 2nd century BCE from Rhegium in southern Italy. His existence is confirmed solely by a citation from the grammarian Didymus Chalcenterus, who worked in the late 1st century BCE, establishing Glaucus as a predecessor. No other biographical details survive.</p>\n<p class=\"research-text\">His only known work is the lost treatise On Ancient Poets and Musicians. Surviving fragments indicate it was a scholarly work of literary and musical history. Glaucus’s significance rests entirely on his utility as a source for later scholars. His work was used by Didymus and likely influenced subsequent Alexandrian grammarians.</p>\n<p class=\"research-text\">The fragments provide minor evidence for ancient scholarship on poetry and music, and he is occasionally cited in modern studies of Alexandrian sources and ancient music historiography.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "mfs-aa",
+      "title": {
+        "english": "Arab Geography and Antiquities",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "glaucus-the-historian-geography-antiquities-mfs-aa",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/glaucus-the-historian/geography-antiquities",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/glaucus-the-historian-geography-antiquities-mfs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/glaucus-the-historian-geography-antiquities-mfs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/glaucus-the-historian-geography-antiquities-mfs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/glaucus-the-historian-geography-antiquities-mfs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/glaucus-the-historian/geography-antiquities.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/glaucus-the-historian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/glaucus-the-historian-mfs.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/glaucus-the-historian-mfs.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/glaucus-the-historian-mfs.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/glaucus-the-historian-mfs.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

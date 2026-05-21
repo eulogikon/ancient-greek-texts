@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ekg",
+  "auth_slug": "melanthius-the-historian",
+  "name": {
+    "english": "Melanthius the Historian",
+    "ancient_greek": "Μελάνθιος ὁ Ἱστορικός"
+  },
+  "seo_h1": "Eleusinian Mysteries in the Fragments of Melanthius the Historian",
+  "seo": {
+    "browser_title": "Melanthius the Historian on Eulogikon Greek Archive",
+    "meta_title": "Melanthius the Historian Ancient Greek Works Online",
+    "meta_description": "Melanthius the Historian, a 4th century BCE Attic historian. Surviving works in original Greek. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Melanthius the Historian was a 4th-century BCE Greek historian. His existence is attested solely by a single citation in Athenaeus of Naucratis&#x27;s Deipnosophistae, which provides no details on his birthplace or life.</p>\n<p class=\"research-text\">His only known work, now lost, was a history or a treatise concerning Dionysius I, tyrant of Syracuse. Athenaeus cites it for information on the luxurious dining practices of the Syracusan court.</p>\n<p class=\"research-text\">Melanthius&#x27;s significance lies entirely in his status as a lost source, representative of many minor, specialized historians whose works survive only in fragments. His citation provides a minor datum for historiographical interest in Sicilian tyrants.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ekg-aa",
+      "title": {
+        "english": "Fragments on Eleusinian Mysteries",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ἐλευσινίων Μυστηρίων"
+      },
+      "url_slug": "melanthius-the-historian-eleusinian-mysteries-ekg-aa",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/melanthius-the-historian/eleusinian-mysteries",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melanthius-the-historian-eleusinian-mysteries-ekg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melanthius-the-historian-eleusinian-mysteries-ekg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melanthius-the-historian-eleusinian-mysteries-ekg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melanthius-the-historian-eleusinian-mysteries-ekg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melanthius-the-historian/eleusinian-mysteries.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/melanthius-the-historian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/melanthius-the-historian-ekg.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/melanthius-the-historian-ekg.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/melanthius-the-historian-ekg.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/melanthius-the-historian-ekg.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

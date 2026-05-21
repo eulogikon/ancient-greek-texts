@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "dxe",
+  "auth_slug": "antiochus-of-syracuse",
+  "name": {
+    "english": "Antiochus of Syracuse",
+    "ancient_greek": "Ἀντίοχος ὁ Συρακούσιος"
+  },
+  "seo_h1": "Sicily and Italy in the Fragments of Antiochus of Syracuse",
+  "seo": {
+    "browser_title": "The Antiochus of Syracuse on Eulogikon Greek Archive",
+    "meta_title": "Antiochus of Syracuse Ancient Greek Historical Works",
+    "meta_description": "Antiochus of Syracuse was a 5th century BCE historian from Sicily. His fragments document early Italy. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Antiochus of Syracuse was a Greek historian of the fifth century BCE. A citizen of Syracuse, he was a contemporary of Thucydides, active during the later part of the century. His writings focus on the Greek colonization of Italy and Sicily and the ensuing conflicts with indigenous peoples and between Greek cities. No further biographical details are recorded.</p>\n<p class=\"research-text\">His sole known work is <strong>On Italy</strong>, a history of the Greek colonization of Italy and Sicily which survives only in fragments preserved by later authors. Antiochus is a significant, though fragmentary, source for early Greek history in the western Mediterranean. His <strong>On Italy</strong> was used as an authoritative source by later historians like Strabo and Dionysius of Halicarnassus. The fragments provide valuable evidence for the Greek perspective on the foundations of cities and interactions with Italic peoples.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "dxe-aa",
+      "title": {
+        "english": "On Sicily and Italy",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "antiochus-of-syracuse-sicily-italy-dxe-aa",
+      "passages": 16,
+      "links": {
+        "html": "https://eulogikon.org/grc/antiochus-of-syracuse/sicily-italy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiochus-of-syracuse-sicily-italy-dxe-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiochus-of-syracuse-sicily-italy-dxe-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiochus-of-syracuse-sicily-italy-dxe-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiochus-of-syracuse-sicily-italy-dxe-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiochus-of-syracuse/sicily-italy.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/antiochus-of-syracuse",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antiochus-of-syracuse-dxe.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antiochus-of-syracuse-dxe.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antiochus-of-syracuse-dxe.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antiochus-of-syracuse-dxe.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

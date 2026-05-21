@@ -1,0 +1,331 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "apu-ac",
+  "eul_aid": "apu",
+  "author_slug": "sappho-of-lesbos",
+  "work_slug": "school-fragments",
+  "url_slug": "sappho-of-lesbos-school-fragments-apu-ac",
+  "author": {
+    "english": "Sappho of Lesbos",
+    "ancient_greek": "Σαπφώ ἡ Λεσβία"
+  },
+  "title": {
+    "english": "Fragments on Sappho's School",
+    "ancient_greek": "Ἀποσπάσματα περὶ τῆς Σαπφοῦς Σχολῆς"
+  },
+  "seo": {
+    "browser_title": "Poetic Fragments of Sappho by Sappho on Eulogikon Archive",
+    "meta_title": "The Fragments of Sappho by Sappho in Ancient Greek",
+    "meta_description": "Surviving fragments of Sappho's poetry from the poetess of Mytilene. Archaic Greek lyric poetry. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Αἰολική",
+      "english": "Aeolic",
+      "href": "/dialects/aeo"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The work conventionally titled <strong>Fragments on Sappho&#x27;s School</strong> is a modern scholarly compilation rather than an ancient, unified text. It gathers thirteen disparate passages from the lyric poetry of Sappho of Lesbos, selected for their thematic connection to her intimate female circle, or <strong>thiasos</strong>. Sappho&#x27;s surviving corpus consists of fragments from poems originally composed for performance within this group, encompassing love lyrics, hymns, and wedding songs. The collected fragments touch upon several defining aspects of her poetic world. Central themes include the personal expression of erotic desire, often between women; the emotional bonds and rivalries among companions; laments occasioned by separation, frequently due to marriage; and depictions of the group&#x27;s communal activities and ceremonies. The poetry is also notable for its vivid aesthetic appreciation of natural beauty and sensory experience. Sappho&#x27;s works were originally organized by meter in Alexandrian editions but now survive only in fragments, preserved through quotations by later ancient authors and on papyri discovered in Egypt. These thirteen passages are drawn from such scattered sources, as no ancient manuscript transmits a work under this title. Sappho, celebrated in antiquity as the &quot;Tenth Muse,&quot; is a foundational figure in the history of lyric poetry. Her fragments offer invaluable insight into the social and artistic life of an Archaic Greek female community and remain central to scholarly discussions of gender, sexuality, and women&#x27;s voices in the ancient world.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book S259",
+      "text": ". . .[ln_1][ ]. Σαπ‐ [φ– ]γ̣χανον [ ]αιση [ ]εβρο[ln_5][ ]η̣νος . . .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book S260.1",
+      "text": "[ ] π̣(ερὶ) γήρ̣[ως [] [ [] [ [] [[ln_5][] η",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book S260.2",
+      "text": "περὶ Γογγ[ύλης [] μήλωι βα̣λ̣[]..[ [ ]κα̣ὶ ἡ Σαπφὼ [ [ ].α̣οταυ̣ρ[ [ ]ς̣ φρ̣ένας ε.[[ln_10][ ].εμ.[ [ Καλ]λ̣ι̣όπη̣ς̣ [ [ ].παθειτ[ [ ].ειη τ] . . .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book S261",
+      "text": ". . .[ln_1]..σπε̣[ [] ἀπὸ Μυτ̣[ιλήνης [ ]ουσφ.[ . . .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book S261a1.1",
+      "text": ". . .[ln_1][ ]..υ̣.χ̣[ [..]....μενα̣..[ πρα̣...[ ].[ ]. [[ln_5]ζ̣οσιν...θε̣ραισ[ ] [ κρατοῦσι..ε̣.[ μων· ἡ δ’ ἐφ’ ἡσυχία[ς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book S261a1.2",
+      "text": "παιδεύουσα τὰς ἀρί‐ στας οὐ μόνον τῶν[ln_10]ἐγχωρίων ἀλλὰ καὶ τῶν ἀπ’ Ἰωνίας· καὶ ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book S261a1.3",
+      "text": "τοσαύτηι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book S261a1.4",
+      "text": "παρὰ τοῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book S261a1.5",
+      "text": "πολίταις ἀποδο‐ χῆι ὥστ’ ἔφη Καλλίας[ln_15]ὁ Μυτιληναῖος ἐν [.]...[ ] Ἀφροδι‐ [τ– ]..[ . . .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book S261a2col1.1",
+      "text": "[ ] [ [ ].... [ [ ]η̣ν· και.[ [ ]μνη[[ln_5][ ].μουθ̣[ [ ]νογκο[ [ ].ο̣σ̣εξο[ [ ]λω κε μορραν [ ]νεχεσπαρευ[ln_10][ ]ων μοισαων [ ]ων ἕω[ς] τοῦ η [ ]νην ἀπὺ τῶδε [ ]μ̣ορμενον· ου [ ]φαίνει τὰς ἐπὶ[ln_15][ ].ικὸν οἶκον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book S261a2col1.2",
+      "text": "φοι‐ τώσ]ας καὶ περὶ πολ‐ λοῦ π]οιουμένας διεν]εχθῆναι καὶ [ ]... [[ln_20]. . .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book S261a2col2",
+      "text": ". . .[ln_9]ρος ην τ.[[ln_10]νακτιδω̣[ Κλεανακ[τιδ‐ ἡ παῖς κ[ ρους με.[ καιωνε[[ln_15]προς μα[ εὐγενεια.[ α̣σω λευκ[ νος μεγ[ το.αρ..δ[[ln_20]. . .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book S476",
+      "text": ". . .[ln_1][ ] ..εδα[ [ ] ποδανα[ [ α]γ̣ερωχοσατ̣[ [ ]ανχαριεσσαν̣[[ln_5][ ]ν̣εχοισαθυμο[ [ ]θ̣αλαμω.[ []α̣ι̣κ.οταλωνψ[ []τ̣ο̣δυσ̣ωνυμο[ . . .",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "apu-aa",
+      "title": {
+        "english": "Addenda to Fragments",
+        "ancient_greek": "Προσθήκαι εἰς τὰ Ἀποσπάσματα"
+      },
+      "url_slug": "sappho-of-lesbos-addenda-apu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sappho-of-lesbos/addenda",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-addenda-apu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-addenda-apu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-addenda-apu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-addenda-apu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos/addenda.epub"
+      }
+    },
+    {
+      "eul_wid": "apu-ad",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "sappho-of-lesbos-epigrams-apu-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/sappho-of-lesbos/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-epigrams-apu-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-epigrams-apu-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-epigrams-apu-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-epigrams-apu-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "apu-ab",
+      "title": {
+        "english": "Hymn to Aphrodite",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "sappho-of-lesbos-hymn-aphrodite-apu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/sappho-of-lesbos/hymn-aphrodite",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-hymn-aphrodite-apu-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-hymn-aphrodite-apu-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-hymn-aphrodite-apu-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-hymn-aphrodite-apu-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos/hymn-aphrodite.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "mvm-aa",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "boethus-of-tarsus-epigram-mvm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/boethus-of-tarsus/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-tarsus-epigram-mvm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-tarsus-epigram-mvm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-tarsus-epigram-mvm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-tarsus-epigram-mvm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-tarsus/epigram.epub"
+      }
+    },
+    {
+      "eul_wid": "jro-aa",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "phaedimus-of-bisanthe-epigrams-jro-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/phaedimus-of-bisanthe/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaedimus-of-bisanthe-epigrams-jro-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaedimus-of-bisanthe-epigrams-jro-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaedimus-of-bisanthe-epigrams-jro-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaedimus-of-bisanthe-epigrams-jro-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaedimus-of-bisanthe/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "rcq-aa",
+      "title": {
+        "english": "Epitaph",
+        "ancient_greek": "Ἐπιτάφιον"
+      },
+      "url_slug": "epitaph-of-abercius-text-rcq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epitaph-of-abercius/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epitaph-of-abercius-text-rcq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epitaph-of-abercius-text-rcq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epitaph-of-abercius-text-rcq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epitaph-of-abercius-text-rcq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epitaph-of-abercius/text.epub"
+      }
+    },
+    {
+      "eul_wid": "cqc-ac",
+      "title": {
+        "english": "Fragment of a Paean to Titus Flamininus",
+        "ancient_greek": "Ἀπόσπασμα Παιᾶνος πρὸς Τίτον Φλαμινῖνον"
+      },
+      "url_slug": "paean-collection-anonymous-titus-flamininus-cqc-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/paean-collection-anonymous/titus-flamininus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-titus-flamininus-cqc-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-titus-flamininus-cqc-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-titus-flamininus-cqc-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-titus-flamininus-cqc-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/titus-flamininus.epub"
+      }
+    },
+    {
+      "eul_wid": "mdu-ac",
+      "title": {
+        "english": "Fragments of Bucolic Poetry",
+        "ancient_greek": "Ἀποσπάσματα Βουκολικῆς Ποίησεως"
+      },
+      "url_slug": "moschus-of-syracuse-bucolic-fragments-mdu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/moschus-of-syracuse/bucolic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-bucolic-fragments-mdu-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-bucolic-fragments-mdu-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-bucolic-fragments-mdu-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-bucolic-fragments-mdu-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/bucolic-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "brw-ab",
+      "title": {
+        "english": "Fragments of Victory Odes",
+        "ancient_greek": "Ἀποσπάσματα Νικῶν Ὠδῶν"
+      },
+      "url_slug": "bacchylides-of-ceos-victory-odes-ab-brw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/victory-odes-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-victory-odes-ab-brw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-victory-odes-ab-brw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-victory-odes-ab-brw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-victory-odes-ab-brw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/victory-odes-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "upu-ah",
+      "title": {
+        "english": "Hymn 16 To Asclepius",
+        "ancient_greek": "Ὕμνος εἰς Ἀσκληπιόν"
+      },
+      "url_slug": "homeric-hymns-anonymous-asclepius-upu-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/asclepius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-asclepius-upu-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-asclepius-upu-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-asclepius-upu-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-asclepius-upu-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/asclepius.epub"
+      }
+    },
+    {
+      "eul_wid": "atq-aa",
+      "title": {
+        "english": "Riddles and Paradoxes",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "cleobulina-riddles-paradoxes-atq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cleobulina/riddles-paradoxes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulina-riddles-paradoxes-atq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulina-riddles-paradoxes-atq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulina-riddles-paradoxes-atq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulina-riddles-paradoxes-atq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulina/riddles-paradoxes.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/sappho-of-lesbos/school-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-school-fragments-apu-ac.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-school-fragments-apu-ac.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-school-fragments-apu-ac.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-school-fragments-apu-ac.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos/school-fragments.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

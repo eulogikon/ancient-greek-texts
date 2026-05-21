@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "dzm",
+  "auth_slug": "licymnius-of-chios",
+  "name": {
+    "english": "Licymnius of Chios",
+    "ancient_greek": "Λικύμνιος ὁ Χῖος"
+  },
+  "seo_h1": "Licymnius of Chios on Hygieia and Sleep",
+  "seo": {
+    "browser_title": "Licymnius of Chios on Eulogikon Greek Archive and Library",
+    "meta_title": "Licymnius of Chios Ancient Greek Poetry and Fragments",
+    "meta_description": "Licymnius of Chios was a classical Greek poet of the 4th century BCE. Fragments of his Doric verse. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric (frg)",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Licymnius of Chios was a poet active in the 4th century BCE. He is known solely from two references in Aristotle’s Rhetoric, which provide no biographical details beyond his origin and profession.</p>\n<p class=\"research-text\">His only attested work is a collection titled Dithyrambs, from which two fragments survive via Aristotle. These are a line criticized as a &quot;frigid&quot; metaphor—&quot;prudence, having sown, a godlike fruit&quot;—and a definition of beauty as &quot;the bloom of the well-conditioned.&quot;</p>\n<p class=\"research-text\">Licymnius’s significance derives entirely from his role in Aristotle’s rhetorical analysis. His fragments provide a minor data point for the study of dithyrambic poetry and offer concrete insight into Aristotelian literary criticism, particularly regarding stylistic faults.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "dzm-aa",
+      "title": {
+        "english": "Hymn to Hygieia and Sleep",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "licymnius-of-chios-hymn-hygieia-sleep-dzm-aa",
+      "passages": 9,
+      "links": {
+        "html": "https://eulogikon.org/grc/licymnius-of-chios/hymn-hygieia-sleep",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/licymnius-of-chios-hymn-hygieia-sleep-dzm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/licymnius-of-chios-hymn-hygieia-sleep-dzm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/licymnius-of-chios-hymn-hygieia-sleep-dzm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/licymnius-of-chios-hymn-hygieia-sleep-dzm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/licymnius-of-chios/hymn-hygieia-sleep.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/licymnius-of-chios",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/licymnius-of-chios-dzm.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/licymnius-of-chios-dzm.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/licymnius-of-chios-dzm.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/licymnius-of-chios-dzm.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

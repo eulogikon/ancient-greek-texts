@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "qgs",
+  "auth_slug": "pseudo-apollodorus",
+  "name": {
+    "english": "Pseudo-Apollodorus",
+    "ancient_greek": "Ψευδοαπολλόδωρος"
+  },
+  "seo_h1": "Pseudo-Apollodorus and the Library of Greek Myth",
+  "seo": {
+    "browser_title": "Pseudo-Apollodorus on Eulogikon Greek Archive Library",
+    "meta_title": "Classical Pseudo-Apollodorus Ancient Greek Mythology Works",
+    "meta_description": "Pseudo-Apollodorus, Roman era author of Greek mythological compilations. Works include Bibliotheca. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Μυθιστορία",
+      "english": "Fiction",
+      "href": "/domains/fiction"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Pseudo-Apollodorus is the conventional name for the anonymous compiler of the mythological handbook known as the Bibliotheca, or Library. The work was once wrongly attributed to Apollodorus of Athens but is now dated on internal evidence to the 1st or 2nd century CE. Nothing is known of the author&#x27;s personal life, but the text places them within the Roman imperial scholarly tradition of systematizing Greek myth.</p>\n<p class=\"research-text\">The sole extant work is the Bibliotheca, a comprehensive prose handbook of Greek mythology surviving in an incomplete state. It traces narratives from the origins of the gods through the heroic age. The Bibliotheca is an invaluable scholarly compendium. Its significance lies in its systematic synthesis of a vast range of earlier poetic and prose sources, many now lost. It provides a crucial witness to the mythological tradition of its era and serves as a primary reference for modern study.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "qgs-aa",
+      "title": {
+        "english": "Library",
+        "ancient_greek": "Βιβλιοθήκη"
+      },
+      "url_slug": "pseudo-apollodorus-library-qgs-aa",
+      "passages": 506,
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-apollodorus/library",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-apollodorus-library-qgs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-apollodorus-library-qgs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-apollodorus-library-qgs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-apollodorus-library-qgs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-apollodorus/library.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/pseudo-apollodorus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pseudo-apollodorus-qgs.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pseudo-apollodorus-qgs.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pseudo-apollodorus-qgs.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pseudo-apollodorus-qgs.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

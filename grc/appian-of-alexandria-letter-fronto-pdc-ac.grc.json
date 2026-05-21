@@ -1,0 +1,426 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "pdc-ac",
+  "eul_aid": "pdc",
+  "author_slug": "appian-of-alexandria",
+  "work_slug": "letter-fronto",
+  "url_slug": "appian-of-alexandria-letter-fronto-pdc-ac",
+  "author": {
+    "english": "Appian of Alexandria",
+    "ancient_greek": "Ἀππιανὸς Ἀλεξανδρεύς"
+  },
+  "title": {
+    "english": "Letter of Appian to Fronto",
+    "ancient_greek": "Ἐπιστολὴ Ἀππιανοῦ πρὸς Φρόντωνα"
+  },
+  "seo": {
+    "browser_title": "Ancient Letter of Appian to Fronto by Appian on Eulogikon",
+    "meta_title": "Classical Letter of Appian to Fronto in Ancient Greek",
+    "meta_description": "Appian of Alexandria writes to his friend Fronto about the nature of friendship and mutual obligations between Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Letter of Appian to Fronto is a brief Greek prose epistle composed by the historian Appian of Alexandria, most likely during the 160s CE. It is addressed to the renowned orator and imperial tutor Marcus Cornelius Fronto. The letter functions as a direct petition for literary patronage, wherein Appian requests Fronto to employ his considerable influence at the court of Emperor Marcus Aurelius to secure an audience for Appian’s magnum opus, the twenty-four-book Roman History. The text artfully operates within the established Roman conventions of the client-patron relationship, with Appian casting himself as a supplicant seeking the support of a powerful intermediary. He employs rhetorical arguments, drawing parallels between the acceptance of gifts by cities and gods and the propriety of a friend accepting a favor from a friend, to persuade Fronto to act on his behalf.</p>\n<p class=\"research-text\">This personal appeal offers a valuable window into the practical mechanics of literary and political life during the High Roman Empire. Appian, a Greek intellectual from Alexandria who had attained Roman citizenship and served as an imperial administrator, utilized such correspondence to navigate the highest echelons of power. For modern scholarship, the letter is a crucial document for understanding the methods by which provincial intellectuals sought advancement and recognition in Rome. It also provides important evidence for dating Appian’s career and the publication of his historical project. The work survives in its complete form and is universally considered authentic, preserved within the medieval manuscript tradition of Appian’s Roman History, most notably in the eleventh-century Codex Vaticanus Graecus 141.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "[5]",
+      "text": "Παρὰ Ἀππιανοῦ Φρόντωνι. οὐδὲ σήμερον ἐδυνήθην σε ἰδεῖν, διὰ τὴν γαστέρα νυκτὸς ἐνοχλοῦσαν ἕως ἄρτι κοιμηθείς. ἃ δὲ ἀγρυπνῶν ἠπόρουν, οὐ κατέσχον οὐδ’ ἀνεβαλόμην, ἀλλ’ ἐκ πολλῶν ὀλίγα σοι γέγραφα. σὺ δέ, εἰ μὲν δίκαιά ἐστιν, ὡς δικαίοις, εἰ δὲ σχολαστικά, ὡς ἁπλοῖς, εἰ δὲ μή, ἀλλ’ ἔμοιγε ὡς λυπουμένῳ καὶ παρακαλοῦντι πείσθητι καὶ εἶξον. εἰκὸς ἕπεσθαι τοῖς κοινοῖς τὰ ἰδιωτικά· εὐθύνομεν γοῦν τὰ ἴδια πρὸς ἐκεῖνα, καὶ ὁ νόμος οὕτω κελεύει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "ad Front 2",
+      "text": "πῶς οὖν αἱ μὲν πόλεις οὐκ ὀκνοῦσι λαμβάνουσαι παρὰ τῶν διδόντων ἀναθήματά τε καὶ χρήματα καὶ ἀργύριον αὐτὸ πολιτῶν τε καὶ ξένων, ἤδη δέ τινας καὶ αὑτούς πως ὑποδιδόντας, φίλος δὲ δὴ παρὰ φίλου λαβεῖν ὀκνεῖ παρακαλοῦντος; καὶ οἱ θεοὶ δὲ τῷ νόμῳ τῶν πόλεων προσίενται ταῦτα παρὰ τῶν ἀνδρῶν, καὶ δεικνύουσιν οἱ θησαυροὶ τῶν θεῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "ad Front 3",
+      "text": "καὶ οἱ φίλοι δὲ ἐκ τῶν διαθηκῶν λαμβάνειν οὐκ ὀκνοῦσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "ad Front 4",
+      "text": "καὶ διὰ τί οὖν ἐκ μὲν διαθήκης ἄν τις λάβοι, παρὰ δὲ τῶν περιόντων οὐ λάβοι, ὅποτε καὶ μεῖζον ταῦτ’ ἔχει τὸ δεῖγμα τῆς προθυμίας; οἳ μὲν γὰρ ἄλλον ἄλλου προτιθέασιν, οἳ δὲ περιόντες ἑαυτῶν τοὺς φίλους προτιθέασιν. καὶ ἥδιον παρὰ τοῦ περιόντος λαβεῖν, ὅτι καὶ μαρτυρῆσαι περιόντι δυνατόν ἐστι καὶ ἀμείψασθαι. πάλιν ξένιον μὲν οὔτε θεοῖς οὔτε πόλει πέμπεται, τὰ σεμνότερα δ’ ἀεὶ τοῖς σεμνοτέροις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "ad Front 5",
+      "text": "ἀλλ’ οὐκ εἰσὶ ταῦτα βαρύτερα λαμβάνειν; τί γάρ ἐστι φιλίας καὶ τιμῆς βαρύτερον, ὧν οὐδ’ ἴσως γ’ ἄρειον οὐδέν ἐστιν; τί δὲ καὶ βαρὺ ἦν ὅλως ἢ τί ἂν ἐγὼ βαρὺ ἔχοιμι; οὐδ’ ἂν μὲν ἐργασαίμην οὐδὲν οὐδὲ πριαίμην οὐδέποτε, † δέον τινὰ μισθὸν ἴσον † ἐξ οἴκου, φασίν, ἐς οἶκον μετελθεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "ad Front 6",
+      "text": "ἐννόησον δὲ κἀκεῖνο, ὅση μὲν ἡδονὴ τῷ πέμψαντι ληφθέντων, ὅση δὲ λύπη μὴ ληφθέντων ἐπιγίγνεται. εἰ τὸ καθαρὸν ... καὶ μετὰ πολὺ προσιέναι σοι. πιστεύοις δὲ δίκαιον εἶναι τὸν νόμον τῶν τε πόλεων καὶ θεῶν καὶ φίλων ... φίλων δὲ οὐ τοσοῦτον ἐπιδεικνύντων θράσος εὐνοίας, ἀλλὰ κρυπτόντων ὑπὸ δέους, ἔπεμψα τὸ πρὶν ἐπιτρέψῃς. σὺ δὲ μὴ δεύτερον ἀποπέμψῃς, ᾧ γε ἔδει μηδ’ ἅπαξ.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "pdc-ah",
+      "title": {
+        "english": "First Civil War",
+        "ancient_greek": "Ἐμφυλίων Πρώτη"
+      },
+      "url_slug": "appian-of-alexandria-first-civil-war-pdc-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/first-civil-war",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-first-civil-war-pdc-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-first-civil-war-pdc-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-first-civil-war-pdc-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-first-civil-war-pdc-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/first-civil-war.epub"
+      }
+    },
+    {
+      "eul_wid": "pdc-ab",
+      "title": {
+        "english": "Fragments of Roman History",
+        "ancient_greek": "Ἀποσπάσματα Ῥωμαϊκῆς Ἱστορίας"
+      },
+      "url_slug": "appian-of-alexandria-roman-history-pdc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/roman-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-roman-history-pdc-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-roman-history-pdc-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-roman-history-pdc-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-roman-history-pdc-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/roman-history.epub"
+      }
+    },
+    {
+      "eul_wid": "pdc-ai",
+      "title": {
+        "english": "From the Celtic",
+        "ancient_greek": "ἐκ τῆς Κελτῖκης"
+      },
+      "url_slug": "appian-of-alexandria-celtic-pdc-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/celtic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-celtic-pdc-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-celtic-pdc-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-celtic-pdc-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-celtic-pdc-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/celtic.epub"
+      }
+    },
+    {
+      "eul_wid": "pdc-af",
+      "title": {
+        "english": "From the Italian",
+        "ancient_greek": "ἐκ τῆς Ἰταλικῆς"
+      },
+      "url_slug": "appian-of-alexandria-italian-pdc-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/italian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-italian-pdc-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-italian-pdc-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-italian-pdc-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-italian-pdc-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/italian.epub"
+      }
+    },
+    {
+      "eul_wid": "pdc-ad",
+      "title": {
+        "english": "From the Macedonian",
+        "ancient_greek": "ἐκ τῆς Μακεδονικῆς"
+      },
+      "url_slug": "appian-of-alexandria-macedonian-pdc-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/macedonian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-macedonian-pdc-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-macedonian-pdc-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-macedonian-pdc-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-macedonian-pdc-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/macedonian.epub"
+      }
+    },
+    {
+      "eul_wid": "pdc-ag",
+      "title": {
+        "english": "From the Nomadic",
+        "ancient_greek": "ἐκ τῆς Νομαδικῆς"
+      },
+      "url_slug": "appian-of-alexandria-nomadic-pdc-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/nomadic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-nomadic-pdc-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-nomadic-pdc-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-nomadic-pdc-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-nomadic-pdc-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/nomadic.epub"
+      }
+    },
+    {
+      "eul_wid": "pdc-aj",
+      "title": {
+        "english": "From the Royal",
+        "ancient_greek": "ἐκ τῆς βασιλικῆς"
+      },
+      "url_slug": "appian-of-alexandria-from-royal-pdc-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/from-royal",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-from-royal-pdc-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-from-royal-pdc-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-from-royal-pdc-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-from-royal-pdc-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/from-royal.epub"
+      }
+    },
+    {
+      "eul_wid": "pdc-ae",
+      "title": {
+        "english": "From the Saunitic",
+        "ancient_greek": "ἐκ τῆς Σαυνιτικῆς"
+      },
+      "url_slug": "appian-of-alexandria-saunitic-pdc-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/saunitic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-saunitic-pdc-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-saunitic-pdc-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-saunitic-pdc-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-saunitic-pdc-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/saunitic.epub"
+      }
+    },
+    {
+      "eul_wid": "pdc-aa",
+      "title": {
+        "english": "From the Sicilian and Island",
+        "ancient_greek": "ἐκ τῆς Σικελῖκης καὶ νησιωτικής"
+      },
+      "url_slug": "appian-of-alexandria-sicily-islands-pdc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/sicily-islands",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-sicily-islands-pdc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-sicily-islands-pdc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-sicily-islands-pdc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-sicily-islands-pdc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/sicily-islands.epub"
+      }
+    },
+    {
+      "eul_wid": "pdc-al",
+      "title": {
+        "english": "Hannibalic",
+        "ancient_greek": "Ἀννιβαϊκή"
+      },
+      "url_slug": "appian-of-alexandria-hannibalic-pdc-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/hannibalic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-hannibalic-pdc-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-hannibalic-pdc-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-hannibalic-pdc-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-hannibalic-pdc-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/hannibalic.epub"
+      }
+    },
+    {
+      "eul_wid": "pdc-ao",
+      "title": {
+        "english": "Iberian",
+        "ancient_greek": "Ιβηρική"
+      },
+      "url_slug": "appian-of-alexandria-iberian-pdc-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/iberian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-iberian-pdc-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-iberian-pdc-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-iberian-pdc-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-iberian-pdc-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/iberian.epub"
+      }
+    },
+    {
+      "eul_wid": "pdc-an",
+      "title": {
+        "english": "Illyrian",
+        "ancient_greek": "Ἰλλυρική"
+      },
+      "url_slug": "appian-of-alexandria-illyrian-pdc-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/illyrian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-illyrian-pdc-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-illyrian-pdc-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-illyrian-pdc-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-illyrian-pdc-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/illyrian.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "ltk-aa",
+      "title": {
+        "english": "Arcadian and Phrygian Histories",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "demaratus-of-corinth-arcadian-phrygian-histories-ltk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/demaratus-of-corinth/arcadian-phrygian-histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demaratus-of-corinth-arcadian-phrygian-histories-ltk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demaratus-of-corinth-arcadian-phrygian-histories-ltk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demaratus-of-corinth-arcadian-phrygian-histories-ltk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demaratus-of-corinth-arcadian-phrygian-histories-ltk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demaratus-of-corinth/arcadian-phrygian-histories.epub"
+      }
+    },
+    {
+      "eul_wid": "nie-ab",
+      "title": {
+        "english": "Fragments on Mardonius",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μαρδονίου"
+      },
+      "url_slug": "aristodemus-the-historian-mardonius-fragments-nie-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristodemus-the-historian/mardonius-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristodemus-the-historian-mardonius-fragments-nie-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristodemus-the-historian-mardonius-fragments-nie-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristodemus-the-historian-mardonius-fragments-nie-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristodemus-the-historian-mardonius-fragments-nie-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristodemus-the-historian/mardonius-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "kby-aa",
+      "title": {
+        "english": "Fragments on Miletus and Its Myths",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μιλήτου καὶ τῶν Μύθων αὐτῆς"
+      },
+      "url_slug": "aristocritus-of-miletus-myths-kby-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristocritus-of-miletus/myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocritus-of-miletus-myths-kby-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocritus-of-miletus-myths-kby-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocritus-of-miletus-myths-kby-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocritus-of-miletus-myths-kby-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocritus-of-miletus/myths.epub"
+      }
+    },
+    {
+      "eul_wid": "ova-aa",
+      "title": {
+        "english": "Historical Parallels and Anecdotes",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "myronianus-of-amastris-historical-parallels-ova-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/myronianus-of-amastris/historical-parallels",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myronianus-of-amastris-historical-parallels-ova-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myronianus-of-amastris-historical-parallels-ova-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myronianus-of-amastris-historical-parallels-ova-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myronianus-of-amastris-historical-parallels-ova-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myronianus-of-amastris/historical-parallels.epub"
+      }
+    },
+    {
+      "eul_wid": "cfs-aa",
+      "title": {
+        "english": "Lycian Oracle Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "polycharmus-the-historian-lycian-oracle-cfs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/polycharmus-the-historian/lycian-oracle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycharmus-the-historian-lycian-oracle-cfs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycharmus-the-historian-lycian-oracle-cfs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycharmus-the-historian-lycian-oracle-cfs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycharmus-the-historian-lycian-oracle-cfs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycharmus-the-historian/lycian-oracle.epub"
+      }
+    },
+    {
+      "eul_wid": "iuw-aa",
+      "title": {
+        "english": "On Heraclea Pontica",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "nymphis-of-heraclea-pontica-pontica-iuw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/nymphis-of-heraclea-pontica/pontica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphis-of-heraclea-pontica-pontica-iuw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphis-of-heraclea-pontica-pontica-iuw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphis-of-heraclea-pontica-pontica-iuw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphis-of-heraclea-pontica-pontica-iuw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphis-of-heraclea-pontica/pontica.epub"
+      }
+    },
+    {
+      "eul_wid": "egk-aa",
+      "title": {
+        "english": "On Stones and Rivers",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "thrasyllus-the-historian-stones-rivers-egk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/thrasyllus-the-historian/stones-rivers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasyllus-the-historian-stones-rivers-egk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasyllus-the-historian-stones-rivers-egk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasyllus-the-historian-stones-rivers-egk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasyllus-the-historian-stones-rivers-egk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasyllus-the-historian/stones-rivers.epub"
+      }
+    },
+    {
+      "eul_wid": "ple-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "phlegon-of-tralles-testimonies-ple-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/phlegon-of-tralles/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles-testimonies-ple-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles-testimonies-ple-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles-testimonies-ple-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles-testimonies-ple-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles/testimonies.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/appian-of-alexandria/letter-fronto",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-letter-fronto-pdc-ac.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-letter-fronto-pdc-ac.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-letter-fronto-pdc-ac.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-letter-fronto-pdc-ac.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/letter-fronto.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

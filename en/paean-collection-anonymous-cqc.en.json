@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "cqc",
+  "auth_slug": "paean-collection-anonymous",
+  "name": {
+    "english": "Paean Collection Anonymous",
+    "ancient_greek": "Παιάνας (Ἀνώνυμος, Αἰῶνος Ε΄ π.Χ.)"
+  },
+  "seo_h1": "Paean Collection Anonymous: Hymns to Apollo from Delphi",
+  "seo": {
+    "browser_title": "Paean Collection Anonymous on Eulogikon Greek Archive",
+    "meta_title": "Classical Paean Collection Anonymous Ancient Greek Poetry",
+    "meta_description": "Anonymous collection of Doric paeans from the 5th century BCE. Five surviving poetic fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric (frg)",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Paean Collection Anonymous refers to a group of fifth-century BCE choral hymns, or paeans, primarily addressed to Apollo and performed in ritual contexts such as at Delphi. No biographical details of the compiler survive. The hymns are preserved through fragmentary inscriptions from Delphi, written predominantly in the Doric dialect consistent with choral lyric tradition.</p>\n<p class=\"research-text\">The collection is represented by several anonymous paeans known from Delphic inscriptions. Notable examples include the Paean of the Athenians to Apollo, sometimes controversially attributed to Philodamus, and the Paean to Apollo and Asclepius by Macedonius. The corpus of classical paeans remains fragmentary, with other examples surviving in the works of poets like Pindar and on papyri.</p>\n<p class=\"research-text\">These hymns are crucial for understanding the performative and communal nature of Greek religion, particularly the worship of Apollo at panhellenic sanctuaries. The inscriptions provide direct evidence for ritual language, poetic meter, and musical notation, illustrating the widespread production of cult song beyond the major canonical lyric poets.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 5,
+  "works": [
+    {
+      "eul_wid": "cqc-ae",
+      "title": {
+        "english": "Delphic Paean I to Apollo",
+        "ancient_greek": "Δελφικὸς Παιὰν Αʹ πρὸς Ἀπόλλωνα"
+      },
+      "url_slug": "paean-collection-anonymous-delphic-i-cqc-ae",
+      "passages": 17,
+      "links": {
+        "html": "https://eulogikon.org/grc/paean-collection-anonymous/delphic-i",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-delphic-i-cqc-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-delphic-i-cqc-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-delphic-i-cqc-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-delphic-i-cqc-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/delphic-i.epub"
+      }
+    },
+    {
+      "eul_wid": "cqc-ab",
+      "title": {
+        "english": "Erythraean Fragment of a Paean to Apollo",
+        "ancient_greek": "Ἐρυθραῖον Ἀπόσπασμα Παιᾶνος πρὸς Ἀπόλλωνα"
+      },
+      "url_slug": "paean-collection-anonymous-erythraean-fragment-cqc-ab",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/paean-collection-anonymous/erythraean-fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-erythraean-fragment-cqc-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-erythraean-fragment-cqc-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-erythraean-fragment-cqc-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-erythraean-fragment-cqc-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-fragment.epub"
+      }
+    },
+    {
+      "eul_wid": "cqc-aa",
+      "title": {
+        "english": "Erythraean Paean Found at the City of Dion",
+        "ancient_greek": "Ἐρυθραῖος Παιὰν εὑρεθεὶς ἐν Δίῳ"
+      },
+      "url_slug": "paean-collection-anonymous-erythraean-dion-cqc-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/paean-collection-anonymous/erythraean-dion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-erythraean-dion-cqc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-erythraean-dion-cqc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-erythraean-dion-cqc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-erythraean-dion-cqc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-dion.epub"
+      }
+    },
+    {
+      "eul_wid": "cqc-ad",
+      "title": {
+        "english": "Erythraean Paean to Aesculapius",
+        "ancient_greek": "Ἐρυθραῖος Παιὰν πρὸς Ἀσκληπιόν"
+      },
+      "url_slug": "paean-collection-anonymous-erythraean-aesculapius-cqc-ad",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/paean-collection-anonymous/erythraean-aesculapius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-erythraean-aesculapius-cqc-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-erythraean-aesculapius-cqc-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-erythraean-aesculapius-cqc-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-erythraean-aesculapius-cqc-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-aesculapius.epub"
+      }
+    },
+    {
+      "eul_wid": "cqc-ac",
+      "title": {
+        "english": "Fragment of a Paean to Titus Flamininus",
+        "ancient_greek": "Ἀπόσπασμα Παιᾶνος πρὸς Τίτον Φλαμινῖνον"
+      },
+      "url_slug": "paean-collection-anonymous-titus-flamininus-cqc-ac",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/paean-collection-anonymous/titus-flamininus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-titus-flamininus-cqc-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-titus-flamininus-cqc-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-titus-flamininus-cqc-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-titus-flamininus-cqc-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/titus-flamininus.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/paean-collection-anonymous",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/paean-collection-anonymous-cqc.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/paean-collection-anonymous-cqc.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/paean-collection-anonymous-cqc.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/paean-collection-anonymous-cqc.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

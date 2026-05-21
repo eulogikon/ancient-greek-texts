@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "esi",
+  "auth_slug": "ion-of-samos",
+  "name": {
+    "english": "Ion of Samos",
+    "ancient_greek": "Ἴων ὁ Σάμιος"
+  },
+  "seo_h1": "Ion of Samos and the Lysander Victory Dedication",
+  "seo": {
+    "browser_title": "Ion of Samos Ancient Greek Poet on Eulogikon Greek Archive",
+    "meta_title": "Classical Ion of Samos Ancient Greek Elegiac Poetry Works",
+    "meta_description": "Ion of Samos was a 5th century BCE Ionic elegiac poet. Two surviving works of verse are preserved. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνικὴ Ἐλεγειακή",
+      "english": "Ionic Elegiac",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Ion of Samos was a Greek elegiac and lyric poet of the 5th century BCE. According to the Suda, he was the son of Orthomenes, a contemporary of the tragedian Sophocles, and was active during the archonship of Apsephion in 469/8 BCE. He later competed in poetic contests at the Macedonian court of King Archelaus, who reigned from approximately 413 to 399 BCE. He is often confused with the more prolific Ion of Chios, leading to significant biographical conflation in ancient sources.</p>\n<p class=\"research-text\">His two major works, known only through fragments and later testimonia, are the <strong>Elegies</strong> and <strong>Lyric Poems</strong>. The Suda also credits him with a <strong>Foundation of Chios</strong>, but this work is more reliably attributed to Ion of Chios.</p>\n<p class=\"research-text\">Ion represents the continuation of elegiac and lyric poetic traditions outside the dominant cultural sphere of 5th-century Athens. His patronage at the Macedonian court is an early example of the cultural links between the Greek mainland and outlying kingdoms, a trend that would become characteristic of the later Hellenistic period. The persistent confusion with Ion of Chios underscores the challenges of attribution faced by scholars studying minor literary figures from antiquity.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "esi-ab",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "ion-of-samos-epigram-esi-ab",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/ion-of-samos/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-samos-epigram-esi-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-samos-epigram-esi-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-samos-epigram-esi-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-samos-epigram-esi-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-samos/epigram.epub"
+      }
+    },
+    {
+      "eul_wid": "esi-aa",
+      "title": {
+        "english": "Lysander's Victory Dedication",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "ion-of-samos-victory-dedication-esi-aa",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/ion-of-samos/victory-dedication",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-samos-victory-dedication-esi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-samos-victory-dedication-esi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-samos-victory-dedication-esi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-samos-victory-dedication-esi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-samos/victory-dedication.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/ion-of-samos",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ion-of-samos-esi.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ion-of-samos-esi.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ion-of-samos-esi.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ion-of-samos-esi.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

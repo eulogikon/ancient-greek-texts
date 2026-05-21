@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "izc",
+  "auth_slug": "theocritus-of-syracuse",
+  "name": {
+    "english": "Theocritus of Syracuse",
+    "ancient_greek": "Θεόκριτος ὁ Συρακούσιος"
+  },
+  "seo_h1": "Theocritus of Syracuse and the Birth of Pastoral Poetry",
+  "seo": {
+    "browser_title": "The Theocritus of Syracuse on Eulogikon Greek Archive",
+    "meta_title": "Theocritus Ancient Greek Bucolic Poetry and Epigrams",
+    "meta_description": "Theocritus of Syracuse, Hellenistic poet writing in Doric Greek. Works include bucolic idylls. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρὶς βουκολική",
+      "english": "Doric Bucolic",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Theocritus was a Greek poet from Syracuse, active in the early to mid-3rd century BCE. He is recognized as the creator of bucolic or pastoral poetry as a distinct genre. His surviving poems indicate he spent time in Sicily, on the island of Cos, and in Alexandria under the patronage of Ptolemy II Philadelphus, writing in a literary Doric dialect.</p>\n<p class=\"research-text\">The surviving corpus attributed to Theocritus consists of about thirty Idylls and several epigrams, though authorship of some is disputed. Major works include Idyll 1, a herdsmen’s song contest featuring the &quot;Lament for Daphnis&quot;; Idyll 2, &quot;The Sorceress&quot;; Idyll 7, &quot;The Harvest Festival,&quot; a semi-autobiographical poem set on Cos; Idyll 11, a humorous portrayal of Polyphemus; and the urban mime Idyll 15, &quot;The Women at the Adonia.&quot; Idylls 16 and 17 are encomiastic poems praising Hieron II of Syracuse and Ptolemy II Philadelphus.</p>\n<p class=\"research-text\">Theocritus established the core conventions of pastoral poetry, including stylized rural landscapes, song contests, and a blend of realism and myth. This work profoundly influenced later poets like Virgil. His poetry exemplifies key Hellenistic literary values, such as learned allusion, polished craftsmanship, and an interest in everyday life and psychology.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 5,
+  "works": [
+    {
+      "eul_wid": "izc-aa",
+      "title": {
+        "english": "Epigrams (Major Selection)",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "theocritus-of-syracuse-epigrams-aa-izc-aa",
+      "passages": 28,
+      "links": {
+        "html": "https://eulogikon.org/grc/theocritus-of-syracuse/epigrams-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-epigrams-aa-izc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-epigrams-aa-izc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-epigrams-aa-izc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-epigrams-aa-izc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse/epigrams-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "izc-ab",
+      "title": {
+        "english": "Epigrams (Minor Selection)",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "theocritus-of-syracuse-epigrams-ab-izc-ab",
+      "passages": 124,
+      "links": {
+        "html": "https://eulogikon.org/grc/theocritus-of-syracuse/epigrams-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-epigrams-ab-izc-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-epigrams-ab-izc-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-epigrams-ab-izc-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-epigrams-ab-izc-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse/epigrams-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "izc-ac",
+      "title": {
+        "english": "Fisherman's Sacrificial Rite",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "theocritus-of-syracuse-fisherman-rite-izc-ac",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/theocritus-of-syracuse/fisherman-rite",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-fisherman-rite-izc-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-fisherman-rite-izc-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-fisherman-rite-izc-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-fisherman-rite-izc-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse/fisherman-rite.epub"
+      }
+    },
+    {
+      "eul_wid": "izc-ad",
+      "title": {
+        "english": "Idylls",
+        "ancient_greek": "Εἰδύλλια"
+      },
+      "url_slug": "theocritus-of-syracuse-idylls-izc-ad",
+      "passages": 857,
+      "links": {
+        "html": "https://eulogikon.org/grc/theocritus-of-syracuse/idylls",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-idylls-izc-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-idylls-izc-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-idylls-izc-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-idylls-izc-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse/idylls.epub"
+      }
+    },
+    {
+      "eul_wid": "izc-ae",
+      "title": {
+        "english": "Syrinx",
+        "ancient_greek": "Σῦριγξ"
+      },
+      "url_slug": "theocritus-of-syracuse-syrinx-izc-ae",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/theocritus-of-syracuse/syrinx",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-syrinx-izc-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-syrinx-izc-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-syrinx-izc-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-syrinx-izc-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse/syrinx.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/theocritus-of-syracuse",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theocritus-of-syracuse-izc.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theocritus-of-syracuse-izc.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theocritus-of-syracuse-izc.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theocritus-of-syracuse-izc.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

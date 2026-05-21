@@ -1,0 +1,496 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "qmm-ds",
+  "eul_aid": "qmm",
+  "author_slug": "galen-of-pergamon",
+  "work_slug": "barley-drink",
+  "url_slug": "galen-of-pergamon-barley-drink-qmm-ds",
+  "author": {
+    "english": "Galen of Pergamon",
+    "ancient_greek": "Γαληνὸς ὁ Περγαμηνός"
+  },
+  "title": {
+    "english": "On Barley Drink",
+    "ancient_greek": "Περὶ τῆς πτισάνης"
+  },
+  "seo": {
+    "browser_title": "On the Barley Drink by Galen of Pergamon on Eulogikon",
+    "meta_title": "On Barley Drink by Galen of Pergamon in Ancient Greek",
+    "meta_description": "Galen's treatise on barley water, its preparation and medical use. A practical ancient text. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα τεχνική",
+      "english": "Atticizing Technical",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On Barley Drink</strong> is a concise medical treatise by the Roman-era physician Galen of Pergamon, composed in Greek during the late second century CE. The work provides a comprehensive examination of <strong>ptisanē</strong>, a barley-water gruel that served as a fundamental dietary item for convalescents. Galen opens by criticizing contemporary doctors for employing the remedy without proper understanding of its indications, preparation, or dosage. He positions his treatise as a corrective, aiming to clarify Hippocratic teachings on the subject for the benefit of practitioners. The text systematically details the selection of the best barley, the methods for cleaning, roasting, and boiling it, and the resulting drink’s properties and physiological effects. It meticulously outlines the appropriate quantity, timing, and manner of administration for different patients, analyzing for which bodily conditions and illnesses the gruel is beneficial or potentially harmful if misapplied.</p>\n<p class=\"research-text\">The treatise is a characteristic example of Galen’s scholarly and practical approach, integrating commentary on earlier authorities like Hippocrates and Diocles of Carystus with his own theories regarding the qualitative dynamics of foods—their heating, cooling, moistening, or drying capacities. Written for an audience of fellow physicians and students, it functions as a technical manual intended to standardize a common but clinically vital procedure. The work underscores the centrality of dietetics in Galenic therapeutics and offers insight into the daily practice of a court physician, for whom dietary management was a primary tool. Preserved within the larger Galenic corpus through medieval Greek manuscripts, this precise guide helped codify dietary practice, influencing subsequent medical traditions in the Byzantine and Islamic worlds for centuries.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "6 816 (t)",
+      "text": "ΓΑΛΗΝΟΥ ΠΕΡΙ ΠΤΙϹΑΝΗϹ Ἐπειδὴ πρὸ μικροῦ τιναc εὗρον τῶν ἰατρῶν περί τινα τῶν νοcούντων τῷ χυλῷ τῆc πτιcάνηc χρωμένουc μήτε ἐφ’ ὧν ἐνδέχεται ἢ οὐκ ἐνδέχεται παρέχειν ἀρρώcτων προcδιοριζομένουc μήτε τὸν τρόπον καὶ τὸ ποcὸν τῆc δόcεωc καὶ τὸν ἁρμόζοντα καιρὸν τῇ προcφορᾷ τοῦ ῥοφήματοc προcαφορίζονταc, ἀλλ’ ὡc ἔοικε τὴν τῆc πτιcάνηc χρῆcιν εὔθετον εἶναι λογιζομένουc, ὁπηνίκ’ ἄν 〈τιc〉 βουληθῇ, ὧδ’ ἔδοξέ μοι, ὅcα τῷ γε Ἱπποκράτει περὶ τῆc χρήcεωc αὐτῆc 〈εἴρηται〉, cαφέcτερον ἐκθεμένῳ διὰ τὴν τῶν πολλῶν παρακολούθηcιν ἑρμηνεῦcαι τόν τε τρόπον τῆc ἑψήcεωc καὶ τὴν δύναμιν αὐτῆc καὶ ἐνέργειαν καὶ τὸν καιρὸν καὶ τὸ ποcὸν καὶ τὸν τρόπον τῆc δόcεωc, ὁπόcα τε ἀγαθὰ τοῖc cώμαcι τῶν καμνόντων δίδωcιν ἁρμοζόντωc προcφερομένη καὶ τοὐναντίον πάλιν φαῦλα, εἰ ἀκαίρωc προcενεχθείη, καὶ πρὸc τούτοιc ὁποίοιc cώμαcιν αὐτὴν προcήκει προcφέρειν καὶ ποίοιc οὐ προcήκει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 817",
+      "text": "ἀλλ’ ἐπειδὴ cύνθετόν τι πρᾶγμα ὑπάρχει ἡ πτιcάνη καὶ ὁ χυλόc (ἐκ κριθῆc γὰρ καταcκευάζεται πτιcθείcηc καλῶc, ὃ ἔcτιν ἐκλεπιcθείcηc, καὶ ὕδατοc καὶ τοιᾶcδε ἑψήcεωc), πρῶτον περὶ τῶν μερῶν αὐτῆc ἔκριν’ εἰπεῖν διὰ κεφαλαίων. ἐὰν μὴ γὰρ ταῦτά τιc πρότερον διορίcηται, μεγάλωc βλάψει, κἂν καὶ τὰ λοιπὰ πάντ’ ἀκριβολογήcηται [πρῶτον] ἐφεξῆc. Ὅτι μὲν οὖν τὸ ἄριcτον ὕδωρ ἐκλέγεcθαι χρὴ εἰc τὴν καταcκευὴν τῆc πτιcάνηc, οὐδεὶc οἶμαι ἀμφιcβητεῖ. ἄριcτον δὲ ὕδωρ cυcτάcει καὶ γεύcει καὶ ὀcμῇ καὶ χροιᾷ κρίνεται· τῇ μὲν γεύcει καὶ τῇ ὀcμῇ, ἵνα μηδεμίαν ἀλλόκοτον ὑπεμφαίνῃ ποιότητα, τουτέcτιν ἵνα μὴ γλυκὺ ὑπάρχῃ μηδ’ ἁλυκὸν μηδ’ ὀξῶδεc ἢ δριμὺ ἢ δυcῶδεc ἢ cηπεδονῶδεc ἢ ὅλωc ἄλλην τινὰ ἐπίμικτον ποιότητα κεκτημένον, ἀλλ’ ἄποιον παντελῶc καὶ χωρὶc πάcηc ἐπικτήτου ποιότητοc καὶ χωρὶc πάcηc ἐπιμιξίαc γευcτικῆc τε καὶ ὀcφραντικῆc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 818",
+      "text": "δεῖ μέντοι καὶ διαυγὲc εἶναι καὶ καθαρὸν καὶ μηδὲν ἰλυῶδεc ἔχον, ἀλλ’ ὥcπερ ἀκριβῶc διηθημένον καὶ τῶν ἐν αὐτῷ ἐμφερομένων ψηγμάτων ἀπηλλαγμένον· τὸ γάρ τοι τοιοῦτον ὕδωρ πρὸc τὴν μὲν χρῆcίν ἐcτι λυcιτελέc, πρὸc δὲ τὴν φύcιν οὐδ’ οὕτωc ἐcτὶ καθαρόν, ὥcπερ οὐδ’ ἄλλο τι τῶν αἰcθητῶν cτοιχείων. εἰ δὲ τοιοῦτόν ἐcτιν οἷον εἶπον τὸ ὕδωρ, εὐθύc ἐcτι λεπτομερέcτερον αὐτὸ ῥᾳδίωc τε πεττόμενον καὶ ἀναδιδόμενον καὶ τὰ ὑποχόνδρια ταχέωc διεξερχόμενον καὶ οὐ μόνον τῇ φυcικῇ θερμότητι πληcιάζον εὐαλλοίωτόν ἐcτιν, ἀλλὰ καὶ τῷ ἔξωθεν πυρὶ προcομιλῆcαν θερμαίνεται cυντόμωc. καὶ μάρτυc Ἱπποκράτηc τοῦ λόγου· „ὕδωρ“ γάρ φηcι „τὸ ταχέωc θερ μαινόμενον καὶ αὖθιc ταχέωc ψυχόμενον 〈κουφότατον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 819",
+      "text": "“ καὶ γὰρ〉 κουφότατον εἶναι βούλεται οὐ τὸ ἐλαφρὸν καὶ cταθμῷ διακρινόμενον, ἀλλὰ τὸ λεπτομερὲc καὶ ῥᾳδίωc εἰc ἑαυτὸ τὰc ἐναντίαc ποιότηταc δεχόμενον. τὸ δὲ τοιοῦτον ὕδωρ καὶ ψυχρόν ἐcτι καὶ ὑγρὸν καὶ ὕδωρ κυρίωc. τὰ δ’ ὑπό τινοc οὐcίαc ἢ ποιότητοc νοθευθέντα, ὁποῖά εἰcι τὰ ἀcφαλτώδη καὶ θειώδη καὶ cτυπτηριώδη, τοcοῦτον τῆc τοῦ ὕδατοc φύcεωc ἀφεcτήκαcιν, ὅcον καὶ ἐνοθεύθηcαν. εἰ δὲ καὶ ἀπόδειξιν ζητεῖc τοῦ ψύχειν τε καὶ ὑγραίνειν τὸ ὕδωρ, οὐ τοῦ νῦν ἐcτι λόγου περὶ πτιcάνηc προθεμένου διεξελθεῖν (πλὴν ὅτι ψυχρόν ἐcτι καὶ ὑγρόν, ἅπαντεc οἱ παλαιοί 〈τ’〉 ἀπέδειξαν καὶ ἡ πεῖρα μαρτυρεῖ), [καὶ] πάντων δὲ λόγοιc ὁμολογούμενον τοῦτο λαβὼν εἰc τὸν περὶ κριθῆc λόγον ἔρχομαι. Κριθὴ τοίνυν ὡc μὲν καθόλου λαμβανομένη ψύχει καὶ ξηραίνει, ἔχει δέ τι καὶ ῥυπτικὸν καὶ φυcῶδεc. κατὰ μέροc δὲ τὸ μὲν ἐκτὸc αὐτῆc λέπυρον τὸ πιτυρῶδεc ξηρότερον ὑπάρχει καὶ ῥυπτικώτερον, τὸ δ’ ἐντὸc αὐτῆc οἷον cαρκῶδεc καὶ τρόφιμον ῥύπτει μὲν καὶ αὐτό, ἀλλ’ ἔλαττον τοῦ πιτύρου, ἔχει δὲ καί 〈τι〉 φυcῶδεc ἐν ἑαυτῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 820",
+      "text": "ὁ δ’ ἕτεροc ὑμὴν ὁ λεπτὸc ὁ ἔcωθεν τοῦ λεπύρου κείμενοc, περιέχων δὲ τὴν κριθὴν μεταξὺ τούτων ἐcτὶ κατὰ τὴν δύναμιν· διὸ ῥύπτει 〈τοῦ λεπύρου〉 μὲν ἔλαττον, μᾶλλον δὲ τῆc κριθῆc. δεῖ δὲ προcυπακούειν τῷ λόγῳ τὰc ἀρίcταc κριθὰc καὶ μηδὲν ἐχούcαc ἀπὸ cηπεδόνοc ἐπίκτητον ἢ περιττωματικὴν ὑγρότητα καὶ μήτ’ ἄγαν νέαc μήτε πάντῃ παλαιάc. αἱ μὲν γὰρ νέαι πλήρειc εἰcὶν ὑγρότητοc περιττωματικῆc, ἣν ἀπὸ τῆc χώραc ἔλαβον, [καὶ πλήρειc ὑγρότητοc] καὶ πνεύματοc ἀνάμεcτοι, αἱ δὲ παλαιαὶ τῷ χρόνῳ ἐξίτηλοι καὶ ἀcθενεῖc ἐγίνοντο ἀποβαλλόμεναι τὴν ἑαυτῶν δύναμιν· καὶ cημεῖον ἡ ῥυτίδωcιc ἡ ἐν αὐταῖc γενομένη καὶ τοῦ μεγέθουc ἡ μείωcιc καὶ τὸ κοπτομένων αὐτῶν ὥcπερ κόνιν τινὰ ἀποπίπτειν λεπτήν. πλήρειc τε οὖν 〈εἶναι〉 ἁρμόζει τὰc κριθὰc τὰc εἰc τὴν ποίηcιν τῆc πτιcάνηc ἐκλεγομέναc μήτε νέαc μήτε παλαιὰc πάνυ καὶ πάcηc ἀπηλλαγμέναc ἐπικτήτου ποιότητοc. ἀλλ’ οὐκ ἀρκεῖ τοῦτο μόνον, ἀλλὰ καὶ τὴν ἀπὸ τῆc πείραc βάcανον αὐταῖc προcακτέον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 821",
+      "text": "εἰ γὰρ πρὸc τοῖc εἰρημένοιc ἐν τῇ ἑψήcει εἰc ὄγκον ἐπαίρονται πλείονα καὶ ταύταc † :μᾶ ´ ν † χρὴ εἰc τὴν ἕψηcιν τῆc πτιcάνηc, εἰ μέλλοι τιc κατὰ λόγον αὐτὴν καὶ ὡc ἐνδέχεται ποιεῖν. τί μὲν οὖν ἐcτι τὸ ἄριcτον ὕδωρ καὶ πῶc διακρίνεται καὶ τίc ἡ καλλίcτη κριθὴ καὶ ποίοιc γνωρίcμαcιν αὐτὴν γνωριοῦμεν, εἴρηται μὲν ἡμῖν διὰ κεφαλαίων. Λοιπὸν δὲ καὶ κρεῖττόν ἐcτιν εἰπεῖν περὶ τῆc ἑψήcεωc. cκευάζουcι μὲν γὰρ αὐτὴν ἐν ὅλμῳ διακόψαντεc πρότερον εἰc μικρὰ μόρια. ἔπειτα ταχέωc ἑψήcαντεc ἐπιβάλλουcιν οἱ μὲν ἕψημα, οἱ δὲ ἄμυλον καί τινεc κύμινον καὶ μέλι. ἔcτι δ’ ἡ τοιαύτη cκευαcία μοχθηρά· ἡ δ’ ἀρίcτη καὶ καλῶc γινομένη τοιάδε τίc ἐcτιν· προδιαβρέχειν αὐτὴν πρότερον ἐν ὕδατι ὠμὴν οὖcαν, ἔπειτα τρίβειν ταῖc χερcὶν ἐπὶ τοcοῦτον, ἄχριc ἂν ὁ λεπτὸc ὑμὴν ** καὶ διὰ τοῦτ’ αὖθιc τρίβεται ἰcχυρῶc μετὰ τῶν χειρῶν, ἕωc ἂν ἅπαν τὸ ἀχυρῶδεc ἀποτινάξηται, πλὴν εἴ τιc αὐτὴν βούλεται ποιῆcαι ῥυπτικωτέραν· τότε γὰρ μᾶλλον ἄμεινον cὺν τῷ ὑμένι αὐτὴν καθεψεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 822",
+      "text": "ἡ δὲ ἕψηcιc αὐτῆc γινέcθω τόνδε τὸν τρόπον, ἵνα πρότερον μὲν ἐπὶ πολὺ ἀναβράcῃ, ὕcτερον δ’ ἐπὶ μαλακοῦ πυρὸc ἄχρι πολλοῦ χυλωθῇ. Οὕτω γὰρ ἑψομένη τὸ μὲν φυcῶδεc ἀποτίθεται πᾶν, ἐπικτᾶται δ’ ὅcαπερ αὐτῇ ἀγαθὰ ὁ Ἱπποκράτηc προcμαρτυρεῖ. „τὸ γὰρ γλίcχραcμα αὐτῆc“ φηcί „λεῖον καὶ cυνεχὲc καὶ προcηνέc ἐcτι καὶ ὀλιcθηρὸν καὶ πλαδαρὸν μετρίωc καὶ ἄδιψον καὶ εὐέκκριτον, εἴ τι καὶ τούτου προcδέοι, καὶ οὔτε cτύψιν ἔχει οὔτε ἄραδον κακὸν οὔτ’ ἀνοιδίcκεται ἐν τῇ κοιλίᾳ· ἀνῴδηκε γὰρ ἐν τῇ ἑψήcει, ὃ πλεῖcτον ἐπεφύκει διογκοῦcθαι.“ ὅτι μὲν οὖν οὐδὲν ἔχει κολλῶδεc καὶ ἐμπλαcτικὸν ἡ πτιcάνη καθάπερ πάντα τὰ γλίcχρα, πρόδηλον. ῥύπτει γὰρ οὐ τὸν ῥύπον μόνον τοῦ cώματοc, ἀλλὰ καὶ τὸν ἐν τῇ γαcτρὶ φλεγματικὸν χυμὸν ἀποκαθαίρει πωc διδομένη. ἡ δὲ πολλὴ ἕψηcιc καὶ ἀκριβὴc ἕνωcιc τῶν μιχθέντων τὴν φαινομένην ταύτην ἐργάζεται γλιcχρότητα. τοῦτο τοίνυν τὸ φαι νόμενον αὐτῆc γλίcχραcμα οὐδεμίαν ἔχει τραχύτητα, ἀλλὰ λεῖόν ἐcτι πάντῃ καὶ ὁμαλὸν καὶ ἡνωμένον καὶ cυνεχέc· οὐδεμιᾶc γὰρ cτύψεωc μετέχον ἢ δριμύτητοc ἢ ὀξύτητοc, ἐξ ὧν ἡ τραχύτηc γίνεται, τὸ λεῖον ἐξ ἀνάγκηc ἔχει, οὐ κατὰ τὴν ἁφὴν μόνον, ἀλλ’ ἤδη καὶ τὴν δύναμιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 823",
+      "text": "τὰ μὲν γὰρ ἄλλα γλίcχρα, ὥcπερ τὸ ἔλαιον καὶ ἡ † cτύλη καὶ τὰ λοιπά, ἁπτομένῳ cοι φανεῖται λεῖα καὶ ὁμαλῆ μηδὲν ἔχοντα ἐν ἑαυτοῖc ἀνώμαλον, ὡc τὸ μὲν εἶναι λεπτόν, τὸ δὲ παχύ, ἢ διεcπαcμένον τε καὶ διῃρημένον, ὡc διὰ τοῦτο τὸ κατὰ τὴν ἁφὴν λεῖον κεκτῆcθαι, κατὰ δὲ τὴν πρὸc ἄλλα τινὰ ἐνέργειάν τε καὶ δύναμιν οὐδαμῶc. οὐ γὰρ διαβρέχει πάντα τὰ μόρια τοῦ cώματοc ὁμαλῶc τε καὶ cυνεχῶc, ὧν ἂν προcεγγίζῃ, ἀλλὰ διίcταται κατὰ τοῦτ’ ἀπ’ ἀλλήλων τὰ τῶν γλίcχρων ἁπάντων μόρια χωρὶc τῆc πτιcάνηc. αὕτη γὰρ λεία τυγχάνουcα κατὰ τὴν ἁφὴν καὶ cυνεχὴc καὶ ἀδιάcπαcτοc καὶ κατὰ τὴν δύναμιν τοιαύτη καθέcτηκε, κἀκεῖνα μὲν οὐδεμίαν ἔχουcιν ἡδονὴν κατὰ τὴν γεῦcιν, αὕτη δὲ πρὸc τοῖc ἄλλοιc καὶ τὸ κατὰ τὴν γεῦcιν ἡδὺ καὶ προcηνὲc κέκτηται καὶ μάλιcτ’ ἐπὶ τῶν νοcούντων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 824",
+      "text": "ἄρτοc δ’ εἰ καὶ τῶν ἄλλων ὑπερέχει κατ’ ἀρετήν, ἀλλὰ καὶ οὗτοc ἀηδίαν ἔχει πολλήν, κἂν ὕδατι διάβροχοc ᾖ ὡc δεόμενοc μαcήcεωc. δεύτερον δὲ ἡ πτιcάνη καὶ τοῦτο πλεονεκτεῖ τὸ μηδεμίαν ἐκ τῆc μαcήcεωc ἀηδίαν ἐμποιεῖν. ἔχει μέντοι καὶ τὸ ὀλιcθηρὸν καὶ μάλιcθ’ ὁ χυλὸc μηδὲν ἐμπεπλαcμένον καταλιπὼν κατὰ τὴν δίοδον καθάπερ πάντα τὰ γλίcχρα χωρὶc τῆc πτιcάνηc. αὕτη γὰρ ῥᾳδίωc διέρχεται εἰc τὰ κατὰ τὸν θώρακα μόρια διὰ τὸ ἐν αὐτῇ ῥυπτικόν, ὥcπερ καὶ πρὸc τὴν ὑποχώρηcίν ἐcτιν ἐπιτηδεία καὶ πρὸc τὴν ἀνάδοcιν καὶ μάλιcτα ἐφ’ ὧν εἰc τὰ κυρτὰ τοῦ ἥπατοc οὐ διέρχεται εὐκόλωc τὰ λαμβανόμενα. πλαδαρὸν δ’ ἐcτὶ μετρίωc, ὅπερ ἐcτὶν ὑγρὸν καὶ ἄδιψον. καὶ τὸ μὲν ὑγρὸν ἔχει ἀπὸ τοῦ ὕδατοc πλὴν κεκλαcμένον διὰ τὴν φύcιν τῆc κριθῆc μετρίωc ξηραίνουcαν· τὸ γὰρ ἐξ ἐναντίων cυγκείμενον δυνάμεων ἄλλην τινὰ φύcιν ἐπίκτητον κτηcάμενον τὰ ἄκρα ἐξέφυγε. ἄδιψον δ’ ὡc ὑγρόν· πλέον δὲ τοῦ ὕδατοc ἔχει τὸ ἄδιψον, εἰ καὶ 〈κατὰ〉 τὴν ὑγρότητα ἐλαττοῦται, ὅτι καὶ τάχιον ἀναδίδοται καὶ ὅτι παραμένουcαν αὐτὴν ἔχει τὴν ὑγρότητα διὰ τὴν γλιcχρότητα καὶ πρὸc τούτοιc, ὅτι καὶ ψυχρόν ἐcτι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 825",
+      "text": "διὰ ταῦτα καὶ τοῖc διακαέcι πυρετοῖc ἁρμοδιωτάτη, ὡc κατὰ πάντων αὐτοῖc ἐναντιουμένη, ψύχουcά τε καὶ ὑγραίνουcα καὶ ῥύπτουcα τοὺc cηπεδονώδειc χυμοὺc καὶ τροφὴν οὐκ ὀλίγην παρέχουcα τῷ cώματι, τοὺc δ’ ἡμιcαπεῖc cυμπέττουcά τε καὶ εἰc χρηcτὸν χυμὸν μεταβάλλουcα. ταῦτα δ’ ἔχει πάντα μετὰ τοῦ μηδεμίαν ἔχειν cτύψιν ἢ τοῦ cτομάχου ἀνατροπήν. ἡ μὲν γὰρ cτύψιc, ὅcον εἰc ῥῶcιν τῆc γαcτρὸc ἱκανή, τοcοῦτον εἰc τὸ παχῦναι τοὺc χυμοὺc ἐπιτήδειοc· ἡ δ’ ὑγρότηc τὸ παχύνειν οὐκ ἔχουcα τὸ εὐμετάτρεπτον ἔχει. ἅπαν μέντοι πέφευγεν ἡ πτιcάνη διὰ τὸ μηδὲν ἄμετρον ἔχειν ἑκάτερον. ἀλλ’ οὐδὲ θόρυβόν τινα ἢ ταραχὴν ἐν τῇ κοιλίᾳ ποιεῖ διὰ τὸ μηδεμίαν δύναμιν ἔχειν ἀπὸ δριμύτητοc ἢ πνεύματοc φυcώδουc· καὶ τοῦτο γὰρ ἐν τῇ ἑψήcει ἀποβάλλεται. τὰ μὲν οὖν ἀγαθὰ τῆc πτιcάνηc, ἃ ἐκ τῆc χρηcτῆc ἑψήcεωc ἐκτήcατο, ταῦτ’ ἐcτί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 826",
+      "text": "καὶ κατὰ μικρὸν μὲν ὁ λόγοc ἐδίδαξε καὶ αὖθιc δὲ διὰ κεφαλαίων ἐρεῖ· λεῖα μέν ἐcτιν αὐτῆc τὰ μόρια καὶ ὁμαλὰ καὶ cυνεχῆ καὶ ἡνωμένα, ὡc μὴ τὸ μὲν αὐτῆc φαίνεcθαι λεπτόν, τὸ δὲ παχὺ ἢ ὅλωc ἀνώμαλον. καὶ τοῦτο οὐ κατὰ τὴν ἁφὴν ἔχει μόνον, ἀλλ’ ἤδη καὶ κατὰ τὴν ἑαυτῆc ἐνέργειάν τε καὶ δύναμιν. ἔcτι δὲ καὶ κατὰ τὴν γεῦcιν προcηνήc, τουτέcτι μηδεμίαν ἔχουc’ ἀηδίαν, καὶ ὑγρὰ καὶ ἄδιψοc διὰ τὴν παροῦcαν αὐτῇ γλιcχρότητα. τὸ δὲ λεῖον καὶ ὑγρὸν καὶ προcηνὲc καὶ cτύψεωc ἀπήλλακται καὶ ἄλληc ἰcχυρᾶc ποιότητοc. ἐπὶ πᾶcι δὲ τούτοιc καὶ ἄφυcοc διὰ τὴν χρηcτὴν ἕψηcιν. οὕτωc δ’ ἔχουcα τοῖc ὀξέcι πυρετοῖc ὑπάρχει ἁρμοδία, οὐ μόνον ὅτι κατὰ πάντα αὐτοῖc ἀντίκειται, ἀλλ’ ὅτι καὶ εὐπεπτοτάτη ἐcτὶν καὶ ἀcθενεcτάτη κατὰ πᾶcαν ποιότητα καὶ εὐανάδοτοc καὶ τοὺc μὲν cεcηπόταc χυμοὺc καθαίρουcα διὰ τὸ ῥυπτικόν, τοὺc δὲ ἡμιcαπεῖc ἔτι cυμπέττουcα. Πλὴν οὐχ ἁπλῶc δοτέον αὐτὴν ἐπὶ τῶν νοcημάτων, ἀλλὰ προcδιοριcμῶν δεῖται πολλῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 827",
+      "text": "οὔτε γὰρ ἐν τοῖc ἐπικινδύνωc ἔχουcι διδόναι αὐτὴν προcήκει οὔτε τοῖc φλεβοτομίαc ἢ καθάρcεωc δεομένοιc ἢ κλυcτῆρόc τινοc ἢ τοῖc πεπληρωμένοιc τῶν κατὰ γαcτέρα περιττωμάτων ἢ τοῖc ὑπὸ ὀδύνηc ἐνοχλουμένοιc μεγάληc καὶ μηδαμῶc 〈ἐν〉διδούcηc ταῖc ἰατρικαῖc πυρίαιc ἢ φλεβοτομίαιc ἢ καθάρcεcιν, ἀλλ’ οὐδὲ τοῖc ξηροτάτοιc νοcήμαcι προcφέρειν αὐτὴν ἁρμόζει. cυνεπιcκέπτεcθαι δὲ χρὴ καὶ τὸν καιρὸν καὶ τὸ ποcὸν τῆc δόcεωc καὶ τὸ ἔθοc τοῦ κάμνοντοc καὶ τὸ πότερον τὸν χυλὸν μόνον διδόναι προcήκει ἢ καὶ τὴν πτιcάνην αὐτὴν ἢ καὶ ἀμφότερα ἢ καὶ οὐδέτερα. ὁ μὲν οὖν καιρόc ἐcτι τοῦ ῥοφήματοc, ὁπηνίκα διοριcάμενοc μέλλειc αὐτὴν παραcχεῖν, ὁπότε τὸ cῶμα γέγονε διακείμενον ὁμαλῶc καὶ μὴ τὸ μὲν αὐτοῦ ἐcτι θερμότερον, τὸ δὲ ψυχρότερον· τοιοῦτον δ’ ἐcτί, καθ’ ὃν καιρὸν ἡ τοῦ νοcήματοc παρακμή· μετὰ ταῦτα γὰρ ἡ τοῦ cώματοc cύμπαcα θερμότηc ὁμαλῶc ἐπὶ πάντα τὰ μόρια διακέχυται. τὸ δὲ πλῆθοc μὴ πολὺ ὑπάρχῃ 〈κατ’ ἀρχὴν〉 μηδὲ ὑπέρπαχυ (cφαλερὸν γάρ ἐcτι καὶ αὐτῷ τῷ Ἱπποκράτει τὸ κατὰ πολὺ καὶ ἀθρόωc πληροῦν), κατὰ βραχὺ δὲ 〈πλείω προc〉τιθέcθω καὶ πρὸc τὸ ἔθοc παραμετρείcθω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 828",
+      "text": "εἰ μὲν γὰρ ἅπαξ ἦν εἰθιcμένοc διαιτᾶcθαι, πάρεχε καὶ αὐτὸc καθάπαξ τὸ πόμα, εἰ δὲ δὶc τῆc ἡμέραc ἐτρέφετο, διπλαcίαζε καὶ αὐτὸc τὴν δόcιν. τὴν δὲ παραύξηcιν καὶ τὴν προcθήκην τοῦ ῥοφήματοc ἐπὶ μὲν τῶν ξηροτέρων νοcημάτων οὐ χρὴ γίνεcθαι. δεῖται γὰρ τὰ τοιαῦτα προπομάτων ἰcχυροτέρων ἢ κατὰ πτιcάνην, ἵνα πλέον ὑγρανθῇ. ξηρὰ δὲ νοcήματ’ εἰcὶ πλευρῖτιc καὶ περιπνευμονία καὶ ὅλωc τὰ κατὰ θώρακα, ὅταν μηδὲν ἐξ αὐτῶν ἀναπτύηται, τὰ δὲ καθ’ ἧπαρ καὶ γαcτέρα καὶ ἔντερα, ὅταν μηδὲν ἐκκρίνηται ἢ cκληρὰ καὶ μὴ ἄξια λόγου καὶ πρὸc ἀνάγκην, τὰ δὲ κατὰ τὰc ἀρτηρίαc τε καὶ φλέβαc ξηρότητι τῆc γλώττηc καὶ ἔξω τοῦ δέρματοc διαγινώcκεται· οὕτωc δὲ καὶ τὰ ἐν τῇ κεφαλῇ πάθη μηδενὸc δι’ ὑπερῴαc ἢ ῥινὸc ἐκκαθαιρομένου. κατὰ τὸν αὐτὸν δὲ τρόπον κἀ〈πὶ〉 φλεγμονῆc καὶ ἕλκουc ξηρὰ τυγχάνουcιν, ἀφ’ ὧν μηδὲν εἰc ἰχῶραc ἀποκρίνεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 829",
+      "text": "ἐπὶ δὲ τῶν τοιούτων νοcημάτων 〈οὐκ εὐθὺc〉 προcήκει ποιεῖcθαι τὴν πτιcάνην· οὔτε γὰρ ὑγραίνειν αὐτὰ δύναται, ἅτε μὴ ἄγαν ὑγραίνουcα τὰ πολλῆc καὶ ἰcχυρᾶc δυνάμεωc ὑγραινούcηc δεόμενα καὶ ἔτι τὴν ἀπὸ πληρώcεωc βλάβην τοῖc cώμαcι παρέχουcα. ἂν δὲ καὶ τὸ cῶμα ὑγρότερον ᾖ καὶ εἴ τι ἀπὸ τοῦ πνεύμονοc ἐκπτύεται, τότε χρὴ ἐπαύξειν ἀεὶ καὶ προcτιθέναι τὴν πόcιν αὐτῆc· ὑγραίνουcα γὰρ καὶ τέμνουcα ὁμοίωc τὰ προcόντα ἐν τῷ cώματι ὑγρὰ καὶ ῥῶcιν τοῖc μορίοιc παρέχουcα διὰ τὴν τροφὴν καθαρὸν ἀποτελεῖ cυντόμωc τὸ ζῷον τῆc ἐνοχλούcηc κακοχυμίαc. cυνελθόντων γὰρ ἀμφοτέρων ῥᾳδίωc ἐκκαθαίρεται τὰ μοχθηρὰ περιττώματα, οὐδενὸc δὲ τῶν ἄλλων, ὅcα καὶ ὡc φάρμακον ἢ τροφὴ προcφέρεται, ἀμφότερα ταῦτα κεκτημένου, ἀλλ’ ἢ κατὰ τὸ λεπτύνειν ἐνδεόντωc καὶ ὑγραίνειν τὸ δὲ τρόφιμον ἔχοντοc, καθάπερ ἄρτοc καὶ χόνδροc καὶ ᾠὰ καὶ ἰχθῦc, ἢ τὸ μὲν τέμνειν ἔχοντοc, τὸ δ’ ὑγραίνειν τε καὶ τρέφειν οὐ προcφέροντοc, καθάπερ ὀξύμελι καὶ εἴ τι τοιοῦτον ἕτερον. ταῦτα δὲ πάντα τὰ ἀγαθὰ ἥκουcι τῇ πτιcάνῃ. ἀλλ’ ὅμωc οὐδεμίαν ὠφέλειαν προξενεῖ χωρὶc τῶν προ〈cηκόντων〉 διοριcμῶν προcαγομένη, ὅπου γε καὶ θανάτου μᾶλλον καθέcτηκεν αἰτία * διδομένη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 830",
+      "text": "τοῦ γὰρ κάμνοντοc κλυcτῆροc διὰ τὴν τῶν περιττωμάτων 〈πλεονεξίαν δεομένου〉 ἢ φλεβοτομίαc διὰ περιουcίαν αἵματοc καὶ τῆc ὀδύνηc μὴ ἐνδιδούcηc (〈τῆc γὰρ〉 ὀδύνηc αἴτιον 〈τὸ〉 πλῆθοc), αἰτία θανάτου γέγονεν ἡ πτιcάνη προcφερομένη, τάχα * καὶ αὐτὴ καὶ διπλαcιάζουcα τὸ πλῆθοc. διὰ τοῦτο οὐ χρὴ παρέχειν αὐτὴν 〈τῷ ὀξεῖ τινι〉 πυρετῷ ἐνοχλουμένῳ * εἴτε cὺν ὀδύνῃ ἐcτὶν εἴτε χωρὶc ὀδύνηc ὁ πυρετὸc [ᾖ] ἢ μετ’ ὀλίγον τῆc τροφῆc ὁ ἄνθρωποc πυρέττειν ἤρξατο καὶ μήπω ὑπεχώρηcεν. οἱ αὐτοὶ δὲ διοριcμοὶ οὐκ ἐπὶ τοῦ χυλοῦ μόνον, ἀλλὰ καὶ αὐτῆc τῆc πτιcάνηc. οἷc δὴ χρήcιμοc ἦν καὶ αὐτή, οὐκ εὐθὺc διδόναι προcήκει, ἀλλὰ πρῶτον μὲν τὸν χυλὸν μόνον, ἢ τὰ πλείονα μὲν τὸν χυλόν, ὀλίγον δὲ τὴν πτιcάνην, εἶτα ἐπίcηc ἀμφότερα, εἶτα καὶ μόνην αὐτήν, ἐπιcτάμενον εἰc μὲν ῥῶcιν καὶ θρέψιν τοῦ cώ ματοc μέγιcτα cυντελεῖν τὴν πτιcάνην, εἰc δὲ τὸ εὐκατέργαcτον καὶ εὔπεπτον καὶ εὐανάδοτον τὸν χυλόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 831",
+      "text": "ταῦτα δ’ ὡc ἐν κεφαλαίῳ περὶ τῆc πτιcάνηc εἰρήcθω, ἵν’ ἔχῃc εἰδέναι τήν τ’ εὔκρατον αὐτῆc χρῆcιν καὶ τοὺc ἀναγκαίουc διοριcμούc.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "qmm-cg",
+      "title": {
+        "english": "Advice for an Epileptic Boy",
+        "ancient_greek": "Συμβουλή πρὸς παιδὶ ἐπιληπτικῷ"
+      },
+      "url_slug": "galen-of-pergamon-epileptic-boy-qmm-cg",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/epileptic-boy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-epileptic-boy-qmm-cg.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-epileptic-boy-qmm-cg.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-epileptic-boy-qmm-cg.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-epileptic-boy-qmm-cg.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/epileptic-boy.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-du",
+      "title": {
+        "english": "Against Lycus",
+        "ancient_greek": "Κατὰ Λύκου"
+      },
+      "url_slug": "galen-of-pergamon-against-lycus-qmm-du",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/against-lycus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-against-lycus-qmm-du.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-against-lycus-qmm-du.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-against-lycus-qmm-du.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-against-lycus-qmm-du.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-lycus.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ar",
+      "title": {
+        "english": "Against Those Who Wrote-Types or Circuits",
+        "ancient_greek": "Κατὰ τῶν γράψαντων περὶ τύπων ἢ κύκλων"
+      },
+      "url_slug": "galen-of-pergamon-against-writers-circuits-qmm-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/against-writers-circuits",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-against-writers-circuits-qmm-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-against-writers-circuits-qmm-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-against-writers-circuits-qmm-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-against-writers-circuits-qmm-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-writers-circuits.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-aj",
+      "title": {
+        "english": "Against What Julian Said-Hippocrates' Aphorisms",
+        "ancient_greek": "Κατὰ τῶν ὑπὸ Ἰουλιανοῦ περὶ Ἱπποκράτους"
+      },
+      "url_slug": "galen-of-pergamon-against-julian-hippocrates-aphorisms-qmm-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/against-julian-hippocrates-aphorisms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-against-julian-hippocrates-aphorisms-qmm-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-against-julian-hippocrates-aphorisms-qmm-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-against-julian-hippocrates-aphorisms-qmm-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-against-julian-hippocrates-aphorisms-qmm-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-julian-hippocrates-aphorisms.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-am",
+      "title": {
+        "english": "Commentaries-Hippocrates Book VI of Epidemics",
+        "ancient_greek": "Ὑπομνήματα εἰς Ἱπποκράτους Ἐπιδημιῶν Ϛ'"
+      },
+      "url_slug": "galen-of-pergamon-commentaries-epidemics-vi-qmm-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/commentaries-epidemics-vi",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-commentaries-epidemics-vi-qmm-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-commentaries-epidemics-vi-qmm-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-commentaries-epidemics-vi-qmm-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-commentaries-epidemics-vi-qmm-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-vi.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ak",
+      "title": {
+        "english": "Commentaries-Hippocrates' Book III of Epidemics",
+        "ancient_greek": "Ὑπομνήματα εἰς Ἱπποκράτους Ἐπιδημιῶν Γ'"
+      },
+      "url_slug": "galen-of-pergamon-commentaries-epidemics-3-qmm-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/commentaries-epidemics-3",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-commentaries-epidemics-3-qmm-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-commentaries-epidemics-3-qmm-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-commentaries-epidemics-3-qmm-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-commentaries-epidemics-3-qmm-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-3.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-aw",
+      "title": {
+        "english": "Commentaries-Hippocrates' Prognostic I",
+        "ancient_greek": "Ὑπομνήματα εἰς Ἱπποκράτους Προγνωστικὸν Α'"
+      },
+      "url_slug": "galen-of-pergamon-hippocrates-prognostic-qmm-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/hippocrates-prognostic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-hippocrates-prognostic-qmm-aw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-hippocrates-prognostic-qmm-aw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-hippocrates-prognostic-qmm-aw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-hippocrates-prognostic-qmm-aw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/hippocrates-prognostic.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ax",
+      "title": {
+        "english": "Commentary on Plato's Timaeus",
+        "ancient_greek": "Ὑπομνήματα εἰς τὰ τοῦ Πλάτωνος Τιμαίου ἀποσπάσματα"
+      },
+      "url_slug": "galen-of-pergamon-timaeus-commentary-ax-qmm-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/timaeus-commentary-ax",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-timaeus-commentary-ax-qmm-ax.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-timaeus-commentary-ax-qmm-ax.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-timaeus-commentary-ax-qmm-ax.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-timaeus-commentary-ax-qmm-ax.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/timaeus-commentary-ax.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-aa",
+      "title": {
+        "english": "Commentary-Hippocrates or Polybius' Work-the Healthy Diet of Individuals",
+        "ancient_greek": "Σχόλια εἰς Ἱπποκράτους ἢ Πολυβίου Περὶ ὑγιεινῆς"
+      },
+      "url_slug": "galen-of-pergamon-healthy-diet-qmm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/healthy-diet",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-healthy-diet-qmm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-healthy-diet-qmm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-healthy-diet-qmm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-healthy-diet-qmm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/healthy-diet.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ca",
+      "title": {
+        "english": "Exhortation to Learn the Arts",
+        "ancient_greek": "Παραίνεσις πρὸς τὴν τῶν τεχνῶν μάθησιν"
+      },
+      "url_slug": "galen-of-pergamon-learn-arts-qmm-ca",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/learn-arts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-learn-arts-qmm-ca.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-learn-arts-qmm-ca.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-learn-arts-qmm-ca.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-learn-arts-qmm-ca.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/learn-arts.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-as",
+      "title": {
+        "english": "Explanation of Obsolete Words of Hippocrates",
+        "ancient_greek": "Ἐξήγησις τῶν παλαιῶν λέξεων τοῦ Ἱπποκράτους"
+      },
+      "url_slug": "galen-of-pergamon-explanation-obsolete-words-qmm-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/explanation-obsolete-words",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-explanation-obsolete-words-qmm-as.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-explanation-obsolete-words-qmm-as.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-explanation-obsolete-words-qmm-as.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-explanation-obsolete-words-qmm-as.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/explanation-obsolete-words.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ef",
+      "title": {
+        "english": "Galen",
+        "ancient_greek": "Γαληνὸς περὶ δίαιτας ἀδυνατίζουσας"
+      },
+      "url_slug": "galen-of-pergamon-text-qmm-ef",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-text-qmm-ef.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-text-qmm-ef.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-text-qmm-ef.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-text-qmm-ef.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/text.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "bww-cc",
+      "title": {
+        "english": "Carrier",
+        "ancient_greek": "Φορεύς"
+      },
+      "url_slug": "hippocrates-carrier-bww-cc",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/carrier",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-carrier-bww-cc.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-carrier-bww-cc.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-carrier-bww-cc.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-carrier-bww-cc.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/carrier.epub"
+      }
+    },
+    {
+      "eul_wid": "tqu-al",
+      "title": {
+        "english": "Introduction or Physician",
+        "ancient_greek": "Εἰσαγωγὴ ἢ Ἰατρός"
+      },
+      "url_slug": "anonymous-medical-writer-introduction-tqu-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/introduction",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-introduction-tqu-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-introduction-tqu-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-introduction-tqu-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-introduction-tqu-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/introduction.epub"
+      }
+    },
+    {
+      "eul_wid": "vhc-ag",
+      "title": {
+        "english": "Medical Book II",
+        "ancient_greek": "Ἰατρικὸν Βιβλίον Βʹ"
+      },
+      "url_slug": "aetius-of-amida-medical-book-ii-vhc-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/aetius-of-amida/medical-book-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida-medical-book-ii-vhc-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida-medical-book-ii-vhc-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida-medical-book-ii-vhc-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida-medical-book-ii-vhc-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-ii.epub"
+      }
+    },
+    {
+      "eul_wid": "vhc-ad",
+      "title": {
+        "english": "Medical Book VII",
+        "ancient_greek": "Ἰατρικὸν Βιβλίον Ζʹ"
+      },
+      "url_slug": "aetius-of-amida-medical-book-vii-vhc-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aetius-of-amida/medical-book-vii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida-medical-book-vii-vhc-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida-medical-book-vii-vhc-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida-medical-book-vii-vhc-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida-medical-book-vii-vhc-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-vii.epub"
+      }
+    },
+    {
+      "eul_wid": "qfy-aa",
+      "title": {
+        "english": "Medical Puzzles and Natural Problems",
+        "ancient_greek": "Ἰατρικαὶ Ἀπορίαι καὶ Προβλήματα Φυσικά"
+      },
+      "url_slug": "cassius-the-iatrosophist-medical-puzzles-qfy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cassius-the-iatrosophist/medical-puzzles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-the-iatrosophist-medical-puzzles-qfy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-the-iatrosophist-medical-puzzles-qfy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-the-iatrosophist-medical-puzzles-qfy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-the-iatrosophist-medical-puzzles-qfy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-the-iatrosophist/medical-puzzles.epub"
+      }
+    },
+    {
+      "eul_wid": "bww-av",
+      "title": {
+        "english": "On Diseases I-III",
+        "ancient_greek": "Περὶ νόσων Α'-Γ'"
+      },
+      "url_slug": "hippocrates-diseases-bww-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/diseases",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-diseases-bww-av.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-diseases-bww-av.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-diseases-bww-av.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-diseases-bww-av.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/diseases.epub"
+      }
+    },
+    {
+      "eul_wid": "nyi-ab",
+      "title": {
+        "english": "On Peony and What It Can Do",
+        "ancient_greek": "Περὶ παιωνίας καὶ ὅσα ποιεῖν δύναται"
+      },
+      "url_slug": "dioscorides-of-anazarbus-peony-nyi-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/dioscorides-of-anazarbus/peony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscorides-of-anazarbus-peony-nyi-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscorides-of-anazarbus-peony-nyi-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscorides-of-anazarbus-peony-nyi-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscorides-of-anazarbus-peony-nyi-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscorides-of-anazarbus/peony.epub"
+      }
+    },
+    {
+      "eul_wid": "tqu-av",
+      "title": {
+        "english": "On Venesection",
+        "ancient_greek": "Περὶ Φλεβοτομίας"
+      },
+      "url_slug": "anonymous-medical-writer-venesection-tqu-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/venesection",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-venesection-tqu-av.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-venesection-tqu-av.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-venesection-tqu-av.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-venesection-tqu-av.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/venesection.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/galen-of-pergamon/barley-drink",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-barley-drink-qmm-ds.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-barley-drink-qmm-ds.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-barley-drink-qmm-ds.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-barley-drink-qmm-ds.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/barley-drink.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

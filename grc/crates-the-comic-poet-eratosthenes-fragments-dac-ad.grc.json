@@ -1,0 +1,254 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "dac-ad",
+  "eul_aid": "dac",
+  "author_slug": "crates-the-comic-poet",
+  "work_slug": "eratosthenes-fragments",
+  "url_slug": "crates-the-comic-poet-eratosthenes-fragments-dac-ad",
+  "author": {
+    "english": "Crates the Comic Poet",
+    "ancient_greek": "Κράτης ὁ Κωμικός"
+  },
+  "title": {
+    "english": "Fragments on Eratosthenes",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ἐρατοσθένους"
+  },
+  "seo": {
+    "browser_title": "Fragments of Crates the Comic Poet of Athens on Eulogikon",
+    "meta_title": "The Fragments by Crates of Athens in Ancient Greek",
+    "meta_description": "Two surviving fragments from an Old Comedy play by Crates. Insight into 5th century BCE comedy. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Eratosthenes</strong> consist of two brief passages from an Old Comedy play by the Athenian poet Crates, who was active during the mid-to-late fifth century BCE. Preserved in Attic Greek verse, these excerpts are quoted by the later scholar Athenaeus in his work <strong>Deipnosophistae</strong>; no manuscript of the original play survives. The fragments employ personal invective to mock a figure named Eratosthenes, almost certainly the Athenian general and oligarch Eratosthenes of Oe. This politician participated in the oligarchic regime of the Four Hundred in 411 BCE and was later prosecuted for murder, placing the comedy within the politically charged atmosphere of the Peloponnesian War. The work exemplifies how festival comedy used satire to entertain audiences while commenting on contemporary public figures and events. Although these fragments showcase traditional personal mockery, ancient testimonies regard Crates as a significant transitional figure in the evolution of Athenian comedy, crediting him with developing more coherent, universal plots and moving the genre toward structured narrative.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 68.1",
+      "text": "καὶ Ἐρατοc[θένηc δέ φη‐ cι κτλ...[ln_20]‵—′Κράτητα μ[έντοι τὸν κω‐ μικὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 68.2",
+      "text": "ποιη[τὴν γε‐ γραφότα τὸν [ τον ἐν τῆι ἀ[ρχῆι τῆc ἀν‐ τεπιρρήcεωc[[ln_25]πλειον[ δε καὶ μ[[ln_26]— — — —",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "dac-aa",
+      "title": {
+        "english": "Animated Feast",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "crates-the-comic-poet-animated-feast-dac-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/crates-the-comic-poet/animated-feast",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet-animated-feast-dac-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet-animated-feast-dac-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet-animated-feast-dac-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet-animated-feast-dac-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/animated-feast.epub"
+      }
+    },
+    {
+      "eul_wid": "dac-ab",
+      "title": {
+        "english": "Fragments of a Utopian Feast",
+        "ancient_greek": "Ἀποσπάσματα περὶ Εὐδαίμονος Δείπνου"
+      },
+      "url_slug": "crates-the-comic-poet-utopian-feast-dac-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/crates-the-comic-poet/utopian-feast",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet-utopian-feast-dac-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet-utopian-feast-dac-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet-utopian-feast-dac-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet-utopian-feast-dac-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/utopian-feast.epub"
+      }
+    },
+    {
+      "eul_wid": "dac-ac",
+      "title": {
+        "english": "Fragments on Love and Decorum",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἔρωτος καὶ Εὐσχημοσύνης"
+      },
+      "url_slug": "crates-the-comic-poet-love-decorum-dac-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/crates-the-comic-poet/love-decorum",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet-love-decorum-dac-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet-love-decorum-dac-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet-love-decorum-dac-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet-love-decorum-dac-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/love-decorum.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "daw-ai",
+      "title": {
+        "english": "Aristophanes' Lost Plays Catalogue",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aristophanes-of-athens-lost-plays-daw-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/lost-plays",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-lost-plays-daw-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-lost-plays-daw-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-lost-plays-daw-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-lost-plays-daw-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/lost-plays.epub"
+      }
+    },
+    {
+      "eul_wid": "czs-ab",
+      "title": {
+        "english": "Comic Fragments on Athenian Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Ἀθηναϊκοῦ Βίου"
+      },
+      "url_slug": "cratinus-the-comic-poet-athenian-life-ab-czs-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/cratinus-the-comic-poet/athenian-life-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet-athenian-life-ab-czs-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet-athenian-life-ab-czs-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet-athenian-life-ab-czs-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet-athenian-life-ab-czs-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/athenian-life-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "kge-ab",
+      "title": {
+        "english": "Comic Fragments on Human Follies",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀνθρωπίνων Μωριῶν"
+      },
+      "url_slug": "comic-fragments-anonymous-iii-human-follies-kge-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-iii/human-follies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii-human-follies-kge-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii-human-follies-kge-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii-human-follies-kge-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii-human-follies-kge-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii/human-follies.epub"
+      }
+    },
+    {
+      "eul_wid": "efq-ae",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "plato-the-comic-poet-epigram-efq-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato-the-comic-poet/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet-epigram-efq-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet-epigram-efq-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet-epigram-efq-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet-epigram-efq-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/epigram.epub"
+      }
+    },
+    {
+      "eul_wid": "hrq-aa",
+      "title": {
+        "english": "Fragments on Gourmet Feasting",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δαιτὸς Λιχνείας"
+      },
+      "url_slug": "dioxippus-the-comic-poet-gourmet-feasting-hrq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dioxippus-the-comic-poet/gourmet-feasting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioxippus-the-comic-poet-gourmet-feasting-hrq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioxippus-the-comic-poet-gourmet-feasting-hrq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioxippus-the-comic-poet-gourmet-feasting-hrq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioxippus-the-comic-poet-gourmet-feasting-hrq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioxippus-the-comic-poet/gourmet-feasting.epub"
+      }
+    },
+    {
+      "eul_wid": "eec-aa",
+      "title": {
+        "english": "Fragments on Xanthias and Luxury",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ξανθίου καὶ Τρυφῆς"
+      },
+      "url_slug": "cephisodorus-the-comic-poet-xanthias-luxury-eec-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cephisodorus-the-comic-poet/xanthias-luxury",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet-xanthias-luxury-eec-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet-xanthias-luxury-eec-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet-xanthias-luxury-eec-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet-xanthias-luxury-eec-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet/xanthias-luxury.epub"
+      }
+    },
+    {
+      "eul_wid": "fim-ac",
+      "title": {
+        "english": "On Homeric Parody",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "alcaeus-the-comic-poet-homeric-parody-fim-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/alcaeus-the-comic-poet/homeric-parody",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-homeric-parody-fim-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-homeric-parody-fim-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-homeric-parody-fim-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-homeric-parody-fim-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet/homeric-parody.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-ae",
+      "title": {
+        "english": "Theophorumenae Fragments Known Elsewhere",
+        "ancient_greek": "Ἀποσπάσματα Θεοφορουμένης"
+      },
+      "url_slug": "menander-of-athens-theophorumenae-fragments-hps-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/theophorumenae-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-theophorumenae-fragments-hps-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-theophorumenae-fragments-hps-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-theophorumenae-fragments-hps-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-theophorumenae-fragments-hps-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae-fragments.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/crates-the-comic-poet/eratosthenes-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet-eratosthenes-fragments-dac-ad.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet-eratosthenes-fragments-dac-ad.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet-eratosthenes-fragments-dac-ad.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet-eratosthenes-fragments-dac-ad.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/eratosthenes-fragments.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

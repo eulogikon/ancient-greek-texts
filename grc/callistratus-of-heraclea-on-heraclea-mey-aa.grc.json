@@ -1,0 +1,268 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "mey-aa",
+  "eul_aid": "mey",
+  "author_slug": "callistratus-of-heraclea",
+  "work_slug": "on-heraclea",
+  "url_slug": "callistratus-of-heraclea-on-heraclea-mey-aa",
+  "author": {
+    "english": "Callistratus of Heraclea Pontica",
+    "ancient_greek": "Καλλίστρατος ὁ Ἡρακλεώτης"
+  },
+  "title": {
+    "english": "On Heraclea",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Fragments of Callistratus of Heraclea Pontica on Eulogikon",
+    "meta_title": "On Heraclea by Callistratus of Heraclea Pontica in Greek",
+    "meta_description": "Callistratus of Heraclea Pontica documents the history and traditions of his native city through surviving Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">_On Heraclea_ is a lost prose history of the Greek colony Heraclea Pontica, written by its citizen Callistratus. The work, also known by the title _Excerpts_, is preserved only in fragments quoted by later authors, most notably the geographer Strabo and the Byzantine scholar Photius. From these citations, it is clear the history provided a comprehensive account of the city, beginning with its foundation by colonists from Megara and Boeotia. It detailed the city&#x27;s political constitution and chronicled significant events, including the period of tyranny under Clearchus and his successors. The work also contained descriptions of local geography and resources, and examined Heraclea&#x27;s complex relationships with neighboring peoples such as the Mariandyni and with regional powers like the Persian Empire. These fragments were transmitted primarily through Photius&#x27;s _Bibliotheca_ and Strabo&#x27;s _Geography_, with additional references found in the _Suda_ lexicon, and were later compiled in modern collections of historical fragments. Callistratus&#x27;s history served as a vital source for ancient writers on the Black Sea region, and its surviving passages remain indispensable for modern scholars attempting to reconstruct the history of Greek colonization in the Pontic area and to understand the conventions of Hellenistic local historiography.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1a-10",
+      "text": "ΠΕΡΙ ΗΡΑΚΛΕΙΑΣ. E LIBRO SECUNDO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a",
+      "text": "Scholiasta ad Apollonium Rhodium II, 780: Ἰδίως τὸν θρηνούμενον Πριόλαόν φησι, τῶν ἄλλων Βάρυνον λεγόντων τὸν Τιτίου υἱὸν, ὡς Νύμφις καὶ Καλλίστρατος. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1b",
+      "text": "Aeschyl. Pers. 941: Καλλίστρατος ἐν δευτέρῳ Περὶ Ἡρακλείας, Τιτίου παῖδας εἶναί φησι δύο, Πριόλαν καὶ Μαριανδυνὸν, ὃν κυνηγοῦντα ἀπολέσθαι, καὶ μέχρι τοῦ νῦν Μαριανδυνοὺς ἐν ἀκμῇ θέρους θρηνεῖν αὐτόν· τὸν δὲ Μαριανδυνὸν αὐξῆσαι μάλιστα τὴν θρηνητικὴν αὐλῳδίαν καὶ διδάξαι ταύτην Ὕαγνιν τὸν Μαρσύου πατέρα. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Apoll. Rhod. I, 1126: Καλλίστρατος δὲ ἐν τῷ δευτέρῳ τοῦ καθ’ Ἡρακλείαν περὶ Τιτίου φησί· «Τιτίας, ἥρως ἐγχώριος, ὃν οἱ μὲν μυθεύονται παῖδα Διὸς, οἱ δὲ πρεσβύτερον (l. τὸν πρεσβύτατον) τῶν Μαριανδυνοῦ τοῦ Κιμμερίου παίδων· δι’ ὃν μάλιστα τὸ ἔθνος ηὔξηται, καὶ προάγεται ἔτι εἰς εὐδαιμονίαν.» Καὶ Προμαθίδας δὲ ἐν τοῖς Περὶ Ἡρακλείας λέγει περὶ Τιτίου ὅστις ἦν, καὶ Θεοφάνης. Ἀπεθεώθη δὲ ἀπὸ Μαριανδυνῶν. Cf. idem II, 780: Τὸν Τιτίαν οἱ μέν φασι Διὸς παῖδα, [οἱ δὲ] ἕνα τῶν Ἰδαίων Δακτύλων, οἱ δὲ τὸν πρεσβύτατον τῶν Μαριανδυνοῦ παίδων. Ὁ δὲ Μαριανδυνὸς Φινέως ἢ Φρίξου ἢ Κιμμερίου λέγεται παῖς εἶναι. Ἀπὸ δὲ Τιτίου φασὶ Τίτιον τὴν πόλιν κληθῆναι. E LIBRO TERTIO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Stephan. Byz.: Τάφραι καὶ Τάφρη, ἑνικῶς, χώρα ταφρευθεῖσα περὶ τὴν Μαιῶτιν λίμνην ὑπὸ δούλων ταῖς δεσποίναις συμμιγέντων κατὰ τὸν πολυχρόνιον πόλεμον τῶν Σκυθῶν, τῶν δεσποτῶν πολεμούντων τοῖς Θρᾳξὶν ἢ τοῖς ἐντὸς Ἴστρου, ὡς Καλλίστρατος ἐν τρίτῳ. Ταύτην τὴν χώραν κατοικῆσαι Σατορχαίους. Οἱ οἰκοῦντες Σατορχαῖοι. Idem: Ψίλιον, ποταμὸς μεταξὺ Θυνίας καὶ Βιθυνίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Δομίτιος Καλλίστρατος ἐν τρίτῳ Περὶ Ἡρακλείας· «Ἐγκυριεύσαντες ἀπὸ τοῦ Σαγγαρίου χωρίου ἕως τοῦ Ψιλίου ποταμοῦ·» Ἔστι καὶ ἄλλος Ψίλις ποταμὸς τῆς Βιθυνίας, ἐκρέων εἰς τὸν Εὔξεινον πόντον. E LIBRO QUARTO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "Idem: Ἀρκιρόεσσα, πόλις ἐν Πόντῳ, Ἡρακλείας ὑποτελής. Δομίτιος Καλλίστρατος ἐν τετάρτῃ Περὶ Ἡρακλείας. Idem: Μόκατα, Βιθυνίας πόλις, ὡς Δομίτιος Καλλίστρατος ἐν τῷ Περὶ Ἡρακλείας τετάρτῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7 (t)",
+      "text": "LIBER VI. Idem: Ὁδιούπολις, χωρίον Ἡρακλείας τῆς πρὸς τῷ Πόντῳ. Δομίτιος Καλλίστρατος ἕκτῳ τῶν Περὶ Ἡρακλείας. E LIBRO SEPTIMO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "Idem: Ὀλύμπη, πόλις Ἰλλυρίας, ὡς Δομίτιος Καλλίστρατος ἑβδόμῳ Περὶ Ἡρακλείας. Athenaeus VI: Τάχ’ οὖν διὰ τοῦτο καὶ Εὐφορίων ὁ ἐποποιὸς τοὺς Μαριανδυνοὺς δωροφόρους κέκληκεν· Δωροφόροι καλεοίαθ’ ὑποφρίσσοντες ἄνακτας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "Λέγει δὲ καὶ Καλλίστρατος ὁ Ἀριστοφάνειος, ὅτι τοὺς Μαριανδυνοὺς ὠνόμαζον μὲν δωροφόρους, ἀφαιροῦντες τὸ πικρὸν τῆς ἀπὸ τῶν οἰκετῶν προσηγορίας, καθάπερ Σπαρτιᾶται μὲν ἐποίησαν ἐπὶ τῶν Εἱλώτων, Θετταλοὶ δ’ ἐπὶ τῶν πενεστῶν, Κρῆτες δ’ ἐπὶ τῶν κλαρωτῶν. Καλοῦσι δὲ οἱ Κρῆτες τοὺς μὲν κατὰ πόλιν οἰκέτας χρυσωνήτους, ἀμφαμιώτας δὲ τοὺς κατ’ ἀγρὸν, ἐγχωρίους μὲν ὄντας, δουλωθέντας δὲ κατὰ πόλεμον· διὰ τὸ κληρωθῆναι δὲ κλαρώτας. ΠΕΡΙ ΣΑΜΟΘΡᾼΚΗΣ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11 (t)",
+      "text": "Dionys. Hal. A. R. I, 68: Ὁρᾶν μὲν δὴ ταῦτα ἔξεστι, ἀκούειν δὲ καὶ γράφειν ὑπὲρ αὐτῶν, ἃ Καλλίστρατός τε ὁ Περὶ Σαμοθρᾴκης συνταξάμενος ἱστορίαν, καὶ Σάτυρος ὁ τοὺς ἀρχαίους μύθους συναγαγὼν καὶ ἄλλοι συχνοὶ, παλαιότατος δὲ, ὧν ἡμεῖς ἴσμεν, ποιητὴς Ἀρκτῖνος. Λέγουσι γοῦν ὧδε· Χρύσην τὴν Πάλλαντος θυγατέρα γημαμένην Δαρδάνῳ, φερνὰς ἐπενέγκασθαι δωρεὰς Ἀθηνᾶς, τὰ δὲ Παλλάδια καὶ τὰ ἱερὰ τῶν μεγάλων θεῶν, διδαχθεῖσαν αὐτῶν τὰς τελετάς. Ἐπειδὴ δὲ τὴν ἐπομβρίαν φεύγοντες Ἀρκάδες Πελοπόννησον μὲν ἐξέλιπον, ἐν δὲ τῇ Θρᾳκίᾳ νήσῳ τοὺς βίους ἱδρύσαντο, κατασκευάσαι τὸν Δάρδανον ἐνταῦθα τῶν θεῶν τούτων ἱερὸν, ἀρρήτους τοῖς ἄλλοις ποιοῦντα τὰς ἰδίας αὐτῶν ὀνομασίας καὶ τὰς τελετὰς αὐτοῖς, τὰς καὶ εἰς τόδε χρόνου γινομένας ὑπὸ Σαμοθρᾴκων, ἐπιτελεῖν. Ὡς δὲ μετῆγε τοῦ λαοῦ τὴν πλείονα μοῖραν εἰς τὴν Ἀσίαν, τὰ μὲν ἱερὰ τῶν θεῶν καὶ τὰς τελετὰς τοῖς ὑπομείνασιν ἐν τῇ νήσῳ καταλιπεῖν· τὰ δὲ Παλλάδια καὶ τὰς τῶν θεῶν εἰκόνας κατασκευασάμενον ἀγαγέσθαι μετ’ αὐτοῦ. Διαμαντευόμενον δὲ περὶ τῆς οἰκήσεως τά τε ἄλλα μαθεῖν, καὶ περὶ τῶν ἱερῶν τῆς φυλακῆς τόνδε χρησμὸν λαβεῖν· Εἰς πόλιν, ἣν κτίσητε, θεοῖς σέβας ἄφθιτον αἰεὶ θεῖναι, καὶ φυλακαῖς τε σέβειν θυσίαις τε χοροῖς τε. Εὖτ’ ἂν γὰρ τάδε σεμνὰ καθ’ ὑμετέραν χώραν ᾒ, δῶρα Διὸς κούρης, ἀλόχου σέθεν, ἡ δὲ πόλις σοι ἔσται ἀπόρθητος τὸν ἀεὶ χρόνον ἤματα πάντα. Δάρδανον μὲν οὖν ἐν τῇ κτισθείσῃ τε ὑφ’ ἑαυτοῦ καὶ ὀνομασίας ὁμοίας τυχούσῃ πόλει τὰ ἕδη καταλιπεῖν. Ἰλίου δ’ ἐν ὑστέρῳ χρόνῳ συνοικισθέντος, ἐκεῖ μετενεχθῆναι πρὸς τῶν συγγόνων αὐτοῦ τὰ ἱερά. Ποιήσασθαι δὲ τοὺς Ἰλιεῖς νεών τε καὶ ἄδυτον αὐτοῖς ἐπὶ τῆς ἄκρας, καὶ φυλάττειν δι’ ἐπιμελείας ἧς ἐδύναντο πλείστης, θεόπεμπτά τε ἡγουμένους εἶναι καὶ σωτηρίας κύρια τῇ πόλει. Ἁλισκομένης δὲ τῆς κάτω πόλεως, τὸν Αἰνείαν κύριον τῆς ἄκρας γενόμενον, ἄραντα ἐκ τῶν ἀδύτων τά τε ἱερὰ τῶν μεγάλων θεῶν καὶ ὅπερ ἔτι περιῆν Παλλάδιον. Θἄτερον γὰρ Ὀδυσσέα καὶ Διομήδη νυκτὸς εἰς Ἴλιον ἀφικομένους λαβεῖν. Οἴχεσθαι δὲ κομίσαντα τὸν Αἰνείαν ἐκ τῆς πόλεως καὶ ἐλθεῖν ἄγοντα εἰς Ἰταλίαν. Ἀρκτῖνος δέ φησιν ὑπὸ Διὸς δοθῆναι Δαρδάνῳ Παλλάδιον ἓν καὶ εἶναι τοῦτο ἐν Ἰλίῳ ἕως ἡ πόλις ἡλίσκετο, κεκρυμμένον ἐν ἀβάτῳ. Εἰκόνα δὲ ἐκείνου κατεσκευασμένην μηδὲ ἓν τοῦ ἀρχετύπου διάφορον, ἀπάτης τῶν ἐπιβουλευόντων ἕνεκα, ἐν φανερῷ τεθῆναι, καὶ αὐτὴν Ἀχαίους ἐπιβουλεύσαντας λαβεῖν. Τὰ μὲν οὖν εἰς Ἰταλίαν ὑπ’ Αἰνείου κομισθέντα ἱερὰ, τοῖς εἰρημένοις ἀνδράσι πειθόμενος, γράφω τῶν τε μεγάλων θεῶν εἰκόνας εἶναι, οὓς Σαμοθρᾷκες Ἑλλήνων μάλιστα ὀργιάζουσι.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "tss-ab",
+      "title": {
+        "english": "Chronicle or Greater, Partly by Macarius Melissenus",
+        "ancient_greek": "Χρονικὸν ἢ Μέγα"
+      },
+      "url_slug": "pseudo-sphrantzes-chronicle-greater-tss-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-sphrantzes/chronicle-greater",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-sphrantzes-chronicle-greater-tss-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-sphrantzes-chronicle-greater-tss-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-sphrantzes-chronicle-greater-tss-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-sphrantzes-chronicle-greater-tss-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-sphrantzes/chronicle-greater.epub"
+      }
+    },
+    {
+      "eul_wid": "jkq-aa",
+      "title": {
+        "english": "Fragments on Mythology",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μυθολογίας"
+      },
+      "url_slug": "possis-of-magnesia-mythology-jkq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/possis-of-magnesia/mythology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/possis-of-magnesia-mythology-jkq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/possis-of-magnesia-mythology-jkq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/possis-of-magnesia-mythology-jkq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/possis-of-magnesia-mythology-jkq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/possis-of-magnesia/mythology.epub"
+      }
+    },
+    {
+      "eul_wid": "psm-aa",
+      "title": {
+        "english": "Historical and Rhetorical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "potamon-of-mytilene-historical-rhetorical-psm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/potamon-of-mytilene/historical-rhetorical",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/potamon-of-mytilene-historical-rhetorical-psm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/potamon-of-mytilene-historical-rhetorical-psm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/potamon-of-mytilene-historical-rhetorical-psm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/potamon-of-mytilene-historical-rhetorical-psm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/potamon-of-mytilene/historical-rhetorical.epub"
+      }
+    },
+    {
+      "eul_wid": "dny-aa",
+      "title": {
+        "english": "Histories",
+        "ancient_greek": "Ἱστορίαι"
+      },
+      "url_slug": "thucydides-histories-dny-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/thucydides/histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-histories-dny-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-histories-dny-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-histories-dny-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-histories-dny-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides/histories.epub"
+      }
+    },
+    {
+      "eul_wid": "izw-aa",
+      "title": {
+        "english": "On Cyzicus and Its Legends",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "agathocles-of-cyzicus-legends-izw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/agathocles-of-cyzicus/legends",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathocles-of-cyzicus-legends-izw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathocles-of-cyzicus-legends-izw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathocles-of-cyzicus-legends-izw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathocles-of-cyzicus-legends-izw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathocles-of-cyzicus/legends.epub"
+      }
+    },
+    {
+      "eul_wid": "vhw-ac",
+      "title": {
+        "english": "On Omens",
+        "ancient_greek": "Περὶ Οἰωνῶν"
+      },
+      "url_slug": "john-the-lydian-omens-vhw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-the-lydian/omens",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-the-lydian-omens-vhw-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-the-lydian-omens-vhw-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-the-lydian-omens-vhw-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-the-lydian-omens-vhw-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-the-lydian/omens.epub"
+      }
+    },
+    {
+      "eul_wid": "ndy-ah",
+      "title": {
+        "english": "On the Ancient Orators",
+        "ancient_greek": "Περὶ τῶν ἀρχαίων ῥητόρων"
+      },
+      "url_slug": "dionysius-of-halicarnassus-ancient-orators-ndy-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/ancient-orators",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-ancient-orators-ndy-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-ancient-orators-ndy-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-ancient-orators-ndy-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-ancient-orators-ndy-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/ancient-orators.epub"
+      }
+    },
+    {
+      "eul_wid": "ofq-ab",
+      "title": {
+        "english": "On the Antiquity of the Jews",
+        "ancient_greek": "περὶ ἀρχαιότητος Ἰουδαίων"
+      },
+      "url_slug": "josephus-antiquity-jews-ofq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/josephus/antiquity-jews",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus-antiquity-jews-ofq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus-antiquity-jews-ofq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus-antiquity-jews-ofq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus-antiquity-jews-ofq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/antiquity-jews.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/callistratus-of-heraclea/on-heraclea",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callistratus-of-heraclea-on-heraclea-mey-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callistratus-of-heraclea-on-heraclea-mey-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callistratus-of-heraclea-on-heraclea-mey-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callistratus-of-heraclea-on-heraclea-mey-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callistratus-of-heraclea/on-heraclea.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

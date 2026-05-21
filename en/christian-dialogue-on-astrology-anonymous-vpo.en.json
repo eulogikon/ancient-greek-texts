@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "vpo",
+  "auth_slug": "christian-dialogue-on-astrology-anonymous",
+  "name": {
+    "english": "Christian Dialogue on Astrology  Anonymous",
+    "ancient_greek": "Ἀνώνυμος Χριστιανός, Ἕρμιππος Περὶ ἀστρολογίας διάλογος"
+  },
+  "seo_h1": "Christian Dialogue on Astrology Anonymous",
+  "seo": {
+    "browser_title": "Christian Dialogue on Astrology on Eulogikon Greek Archive",
+    "meta_title": "Christian Dialogue on Astrology Ancient Greek Works",
+    "meta_description": "Anonymous Christian author of Late Antiquity. Treatise Hermippus debates astrological science. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ Χριστιανική",
+      "english": "Christian Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The author of the dialogue <strong>Hermippus, or On Astrology</strong> is an anonymous Christian who wrote in Greek sometime between the 4th and 6th centuries CE, a period known as Late Antiquity. The work is attributed to a figure named Hermippus, but modern scholars agree this attribution is not authentic. The author was engaged in the major intellectual debates of his time, particularly concerning the relationship between Christian faith and traditional Greco-Roman knowledge.</p>\n<p class=\"research-text\">The author’s only known work is the surviving dialogue <strong>Hermippus, or On Astrology</strong>. In this period, astrology was a sophisticated field that combined astronomy with beliefs about celestial influences on human fate. The dialogue form itself is significant, as it adapts a classical literary style for Christian purposes. The text argues against astrological determinism, seeking to define a proper Christian perspective on the study of the heavens.</p>\n<p class=\"research-text\">According to scholars, this work is an important document for understanding how early Christians engaged with science and philosophy. It shows an attempt to refute pagan astrological fatalism while potentially accepting the astronomical study of creation. The dialogue contributes to a broader genre of Christian literature that helped establish boundaries between permissible natural inquiry and prohibited divinatory practices. By using the classical dialogue format, the anonymous author participated in the ongoing cultural conversation, demonstrating how Christian writers adopted and adapted classical models for doctrinal teaching.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "vpo-aa",
+      "title": {
+        "english": "On Astrology, Dialogue",
+        "ancient_greek": "Περὶ Ἀστρολογίας, Διάλογος"
+      },
+      "url_slug": "christian-dialogue-on-astrology-anonymous-on-astrology-vpo-aa",
+      "passages": 71,
+      "links": {
+        "html": "https://eulogikon.org/grc/christian-dialogue-on-astrology-anonymous/on-astrology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christian-dialogue-on-astrology-anonymous-on-astrology-vpo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christian-dialogue-on-astrology-anonymous-on-astrology-vpo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christian-dialogue-on-astrology-anonymous-on-astrology-vpo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christian-dialogue-on-astrology-anonymous-on-astrology-vpo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christian-dialogue-on-astrology-anonymous/on-astrology.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/christian-dialogue-on-astrology-anonymous",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/christian-dialogue-on-astrology-anonymous-vpo.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/christian-dialogue-on-astrology-anonymous-vpo.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/christian-dialogue-on-astrology-anonymous-vpo.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/christian-dialogue-on-astrology-anonymous-vpo.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

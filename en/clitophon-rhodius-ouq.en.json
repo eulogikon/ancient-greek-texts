@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ouq",
+  "auth_slug": "clitophon-rhodius",
+  "name": {
+    "english": "Clitophon Rhodius",
+    "ancient_greek": "Κλειτόφων Ῥόδιος"
+  },
+  "seo_h1": "Clitophon Rhodius and the Fragments on Geography",
+  "seo": {
+    "browser_title": "Clitophon Rhodius Ancient Greek Works on Eulogikon Archive",
+    "meta_title": "Classical Clitophon Rhodius Ancient Greek Historical Works",
+    "meta_description": "Clitophon Rhodius was a Roman era historian writing in Koine Greek. His surviving historical fragments are preserved. Free to download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Clitophon Rhodius was a historian from Rhodes who lived during the 1st or 2nd century CE. The sole record of his life is an entry in the 10th-century Byzantine encyclopedia, the Suda, which identifies him as a Rhodian historian. No further biographical details survive.</p>\n<p class=\"research-text\">His only known work is titled <strong>Indica</strong>, a now-lost historical account concerning India. The title places it within a popular ethnographic genre established by earlier authors like Ctesias and Megasthenes, but no fragments of its content are preserved.</p>\n<p class=\"research-text\">Clitophon’s significance is as an attested contributor to Greco-Roman historiography on India, indicating a continued interest in the subject during the Imperial period. The complete loss of his work, however, renders him a name-only figure, representative of the many minor historians from antiquity whose writings do not survive.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ouq-aa",
+      "title": {
+        "english": "Fragments on Geography",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γεωγραφίας"
+      },
+      "url_slug": "clitophon-rhodius-geography-ouq-aa",
+      "passages": 9,
+      "links": {
+        "html": "https://eulogikon.org/grc/clitophon-rhodius/geography",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clitophon-rhodius-geography-ouq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clitophon-rhodius-geography-ouq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clitophon-rhodius-geography-ouq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clitophon-rhodius-geography-ouq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clitophon-rhodius/geography.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/clitophon-rhodius",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clitophon-rhodius-ouq.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clitophon-rhodius-ouq.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clitophon-rhodius-ouq.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clitophon-rhodius-ouq.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

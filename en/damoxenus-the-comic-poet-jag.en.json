@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "jag",
+  "auth_slug": "damoxenus-the-comic-poet",
+  "name": {
+    "english": "Damoxenus the Comic Poet",
+    "ancient_greek": "Δαμόξενoς ὁ κωμικός"
+  },
+  "seo_h1": "Damoxenus the Comic Poet on Cookery and Philosophy",
+  "seo": {
+    "browser_title": "Damoxenus Comic Poet on Eulogikon Greek Archive Collection",
+    "meta_title": "Damoxenus Ancient Greek Comedy and Fragments Works",
+    "meta_description": "Damoxenus was an Athenian comic poet of New Comedy. Two fragmentary works survive from his comedies. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Damoxenus was an Athenian comic poet active in the early 3rd century BCE, during the Hellenistic period. He wrote in the style of New Comedy, a genre that moved away from political satire to focus on everyday domestic life, romance, and recognizable character types.</p>\n<p class=\"research-text\">Very little is known about his life. He is credited with two comedies, both of which are lost and survive only as fragments quoted by later ancient writers. The known titles are Syntrophoi and Hedychares. The existing fragments often mention food, drink, and social customs, which reflects the interests of the authors who preserved them.</p>\n<p class=\"research-text\">As one of many lesser-known New Comedy poets, Damoxenus&#x27;s significance lies in illustrating the breadth of the genre beyond its most famous figures like Menander. His fragments, though scant, contribute to our understanding of the common language, meter, and social themes of Hellenistic comedy. His work was part of the Greek comic tradition that later influenced Roman playwrights such as Plautus and Terence, though no direct adaptation of his specific plays has been identified.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "jag-ab",
+      "title": {
+        "english": "Fragments on Cookery and Philosophy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μαγειρικῆς καὶ Φιλοσοφίας"
+      },
+      "url_slug": "damoxenus-the-comic-poet-cookery-philosophy-ab-jag-ab",
+      "passages": 64,
+      "links": {
+        "html": "https://eulogikon.org/grc/damoxenus-the-comic-poet/cookery-philosophy-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet-cookery-philosophy-ab-jag-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet-cookery-philosophy-ab-jag-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet-cookery-philosophy-ab-jag-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet-cookery-philosophy-ab-jag-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet/cookery-philosophy-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "jag-aa",
+      "title": {
+        "english": "Fragments on Cookery and Philosophy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ὀψοποιίας καὶ Φιλοσοφίας"
+      },
+      "url_slug": "damoxenus-the-comic-poet-cookery-philosophy-aa-jag-aa",
+      "passages": 63,
+      "links": {
+        "html": "https://eulogikon.org/grc/damoxenus-the-comic-poet/cookery-philosophy-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet-cookery-philosophy-aa-jag-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet-cookery-philosophy-aa-jag-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet-cookery-philosophy-aa-jag-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet-cookery-philosophy-aa-jag-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet/cookery-philosophy-aa.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/damoxenus-the-comic-poet",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damoxenus-the-comic-poet-jag.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damoxenus-the-comic-poet-jag.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damoxenus-the-comic-poet-jag.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damoxenus-the-comic-poet-jag.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

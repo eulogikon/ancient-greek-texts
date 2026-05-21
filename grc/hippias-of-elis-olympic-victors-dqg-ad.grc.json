@@ -1,0 +1,380 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "dqg-ad",
+  "eul_aid": "dqg",
+  "author_slug": "hippias-of-elis",
+  "work_slug": "olympic-victors",
+  "url_slug": "hippias-of-elis-olympic-victors-dqg-ad",
+  "author": {
+    "english": "Hippias of Elis",
+    "ancient_greek": "Ἱππίας ὁ Ἠλεῖος"
+  },
+  "title": {
+    "english": "Fragments on Olympic Victors",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ὀλυμπιονικῶν"
+  },
+  "seo": {
+    "browser_title": "Fragments of Hippias of Elis on Olympic Victors on Eulogikon",
+    "meta_title": "Fragments of Hippias on Olympic Victors in Ancient Greek",
+    "meta_description": "Surviving fragments of Hippias of Elis listing Olympic victors. Chronographic work from Classical Greece. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Olympic Victors</strong> are surviving excerpts from a systematic catalogue of Olympic victors compiled by the Sophist Hippias of Elis around 400 BCE. This work organized victors sequentially by Olympiad, using the winner of the stadion race to identify each four-year period, thereby creating a fundamental chronological tool for Greek historians. The extant fragments represent a technical catalogue of athletic and chronological data rather than a narrative history. Hippias’s original work is lost, and the fragments survive indirectly through quotation and reference in later historians and chronographers, such as Dionysius of Halicarnassus; they are collected in modern scholarly editions. The list established the authoritative chronological framework for Greek historiography. It was adopted and refined by major historians including Eratosthenes, Polybius, and Diodorus Siculus, becoming the standard method for organizing historical time in the classical world.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1 (tit)",
+      "text": "ΙΠΠΙΟΥ ΕΛΕΓΕΙΑ PAUS. V 25, 4 τότε δὲ ἐπὶ τῆι ἀπωλείαι τῶν παίδων οἱ Μεσσήνιοι πένθος ἦγον, καὶ ἄλλα τέ σφισιν ἐς τιμὴν αὐτῶν ἐξευρέθη καὶ εἰκόνας ἐς Ὀλυμπίαν ἀνέθεσαν χαλκᾶς, σὺν δὲ αὐτοῖς τὸν διδάσκαλον τοῦ χοροῦ καὶ τὸν αὐλητήν. τὸ μὲν δὴ ἐπίγραμμα ἐδήλου τὸ ἀρχαῖον ἀναθήματα εἶναι τῶν ἐν πορθμῶι Μεσσηνίων· χρόνωι δὲ ὕστερον Ἱ. ὁ λεγόμενος ὑπὸ Ἑλλήνων γενέσθαι σοφὸς τὰ ἐλεγεῖα ἐπ’ αὐτοῖς ἐποίησεν· ἔργα δέ εἰσιν Ἠλείου Κάλωνος αἱ εἰκόνες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 (tit)",
+      "text": "ΕΘΝΩΝ ΟΝΟΜΑΣΙΑΙ SCHOL. APOLL. III 1179 [hinter 2 B 1] Ἱ. δὲ ὁ Ἠλεῖος ἐν Ἐθνῶν ὀνομασίαις φησὶν ἔθνος τι καλεῖσθαι Σπαρτοὺς καὶ ὁμοίως Ἀτρόμητος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 (tit)",
+      "text": "ΟΛΥΜΠΙΟΝΙΚΩΝ ΑΝΑΓΡΑΦΗ PLUT. Num. 1 τοὺς μὲν οὖν χρόνους ἐξακριβῶσαι χαλεπόν ἐστι καὶ μάλιστα τοὺς ἐκ τῶν Ὀλυμπιονικῶν ἀναγομένους, ὧν τὴν ἀναγραφὴν ὀψέ φασιν Ἱππίαν ἐκδοῦναι τὸν Ἠλεῖον ἀπ’ οὐδενὸς ὁρμώμενον ἀναγκαίου πρὸς πίστιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4 (tit)",
+      "text": "ΣΥΝΑΓΩΓΗ ATHEN. XIII 608 F ἐπὶ κάλλει δὲ ... διαβόητοι γεγόνασι γυναῖκες Θαργηλία ἡ Μιλησία, ἥτις καὶ τεσσαρεσκαίδεκα ἀνδράσιν ἐγαμήθη, οὖσα καὶ τὸ εἶδος πάνυ καλὴ καὶ σοφή, ὥς φησιν Ἱ. ὁ σοφιστὴς ἐν τῶι ἐπιγραφομένωι Συναγωγ ή. HESYCH. Θαργηλία· ‘ἔστιν ἡ Θαργηλία Μιλησία μὲν τὸ γένος, εὐπρεπὴς δὲ τὴν ὄψιν καὶ τἆλλα σοφή, ὥστε στρατηγεῖν πόλεις καὶ δυνάστας. διὸ καὶ πλείστοις ἐγήματο τῶν διασημοτάτων.‘",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "ΤΡΩΙΚΟΣ (ΔΙΑΛΟΓΟΣ)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "CLEM. Strom. VI 15 [II 434, 19 St.] φέρε ἄντικρυς μαρτυροῦντα ἡμῖν Ἱππίαν τὸν σοφιστὴν τὸν Ἠλεῖον, ὃς τὸν αὐτὸν περὶ τοῦ προκειμένου μοι σκέμματος ἧκεν λόγον, παραστησώμεθα ὧδέ πως λέγοντα· τούτων ἴσως εἴρηται τὰ μὲν Ὀρφε ῖ , τὰ δὲ Μουσαίωι κατὰ βραχὺ ἄλλωι ἀλλαχο ῦ , τὰ δὲ Ἡσιόδωι τὰ δὲ Ὁμήρω ι , τὰ δὲ τοῖς ἄλλοις τῶν ποιητῶ ν , τὰ δὲ ἐν συγγραφαῖς τὰ μὲν Ἕλλησι τὰ δὲ βαρβάροι ς · ἐγὼ δὲ ἐκ πάντων τούτων τὰ μέγιστα καὶ ὁμόφυλα συνθεὶς τοῦτον καινὸν καὶ πολυειδῆ τὸν λόγον ποιήσομα ι .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "EUSTATH. Z. DIONYS. Per. 270 Ἱ. ἀπὸ Ἀσίας καὶ Εὐρώπης τῶν Ὠκεανίδων τὰς ἠπείρους καλεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "HYPOTH. SOPH. Oed. R. V [Schol. II 12, 11 Dind.] ἴδιον δέ τι πεπόνθασιν οἱ μεθ’ Ὅμηρον ποιηταὶ τοὺς πρὸ τῶν Τρωικῶν βασιλεῖς τυράννους προσαγορεύοντες, ὀψέ ποτε τοῦδε τοῦ ὀνόματος εἰς τοὺς Ἕλληνας διαδοθέντος, κατὰ τοὺς Ἀρχιλόχου χρόνους, καθάπερ Ἱ. ὁ σοφιστής φησιν. Ὅμηρος γοῦν τὸν πάντων παρανομώτατον Ἔχετον βασιλέα φησὶ καὶ οὐ τύραννον· ‘εἰς Ἔχετον βασιλῆα βροτῶν δηλήμονα‘ [ς 84]. προσαγορευθῆναι δέ φασι τὸν τύραννον ἀπὸ τῶν Τυρρηνῶ ν· χαλεποὺς γάρ τινας περὶ ληιστείαν τούτους γενέσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "PHRYNICH. ecl. 312 Lob. παραθήκην Ἱππίαν καὶ Ἴωνά τινα συγγραφέα φασὶν εἰρηκέναι· ἡμεῖς δὲ τοῦτο παρακαταθήκην ἐροῦμεν ὡς Πλάτων καὶ Θουκυδίδης καὶ Δημοσθένης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "PLUT. Lyc. 23 αὐτὸν δὲ τὸν Λυκοῦργον Ἱ. μὲν ὁ σοφιστὴς πολεμικώτατόν φησι γενέσθαι καὶ πολλῶν ἔμπειρον στρατειῶν ...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12",
+      "text": "PROCL. in Eucl. p. 65, 11 Friedl. μετὰ δὲ τοῦτον Μάμερκος ὁ Στησιχόρου τοῦ ποιητοῦ ἀδελφὸς ὡς ἐφαψάμενος τῆς περὶ γεωμετρίας σπουδῆς μνημονεύεται καὶ Ἱ. ὁ Ἠλεῖος ἱστόρησεν ὡς ἐπὶ γεωμετρίαι δόξαν αὐτοῦ λαβόντος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13",
+      "text": "SCHOL. ARAT. 172 p. 369, 27 Maass Ἱ. δὲ καὶ Φερεκύδης [F GrHist. 3 F 90 I 84, 33] ἑπτά [Ὑάδας εἶναι].",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14",
+      "text": "SCHOL. PIND. Pyth. 4, 288 ταύτην [Stiefmutter des Phrixos] δὲ ὁ μὲν Πίνδαρος ἐν Ὕμνοις [fr. 49 Schr.] Δημοδίκην φησίν, Ἱ. δὲ Γοργῶπιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "—Nem. 7, 53 τρίτην δὲ [Ephyra] περὶ Ἦλιν, ἧς Ἱ. μνημονεύει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16",
+      "text": "STOB. III 38, 32 Πλουτάρχου ἐκ τοῦ 〈Περὶ τοῦ〉 διαβάλλειν. ‘Ἱ. λέγει δύο εἶναι φθόνους· τὸν μὲν δίκαιον, ὅταν τις τοῖς κακοῖς φθονῆι τιμωμένοις, τὸν δὲ ἄδικον, ὅταν τοῖς ἀγαθοῖς. καὶ διπλᾶ τῶν ἄλλων οἱ φθονεροὶ κακοῦνται· οὐ γὰρ μόνον τοῖς ἰδίοις κακοῖς ἄχθονται ὥσπερ ἐκεῖνοι, ἀλλὰ καὶ τοῖς ἀλλοτρίοις ἀγαθοῖς.‘",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17",
+      "text": "— —42, 10 Πλουτάρχου ἐκ τοῦ 〈Περὶ τοῦ〉 διαβάλλειν. ‘Ἱ. φησίν, ὅτι δεινόν ἐστιν ἡ διαβολί α, οὕτως ὀνομάζων, ὅτι οὐδὲ τιμωρία τις κατ’ αὐτῶν γέγραπται ἐν τοῖς νόμοις ὥσπερ τῶν κλεπτῶν· καίτοι ἄριστον ὂν κτῆμα τὴν φιλίαν κλέπτουσιν, ὥστε ἡ ὕβρις κακοῦργος οὖσα δικαιοτέρα ἐστὶ τῆς διαβολῆς διὰ τὸ μὴ ἀφανὴς εἶναι.‘",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18",
+      "text": "VIT. HOMERI Rom. p. 30, 27 Wil. Ἱ. δ’ αὖ καὶ Ἔφορος Κυμαῖον [γεγονέναι φασὶ τὸν Ὅμηρον].",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19",
+      "text": "PAPYR. PETROPOL. n. 13, col. 2, 11 [ed. Jernstedt Journ. des Unterrichtsmin. (russ.) 1901 Oktob. p. 51] ΙΠΠΙΟΥ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20",
+      "text": "ARISTOT. Poet. 25. 1461a 21 κατὰ δὲ προσωιδίαν [ὁρῶντα δεῖ διαλύειν] ὥσπερ Ἱ. ἔλυεν ὁ Θάσιος τὸ ‘δίδομεν δέ οἱ‘ καὶ ‘τὸ μὲν οὗ καταπύθεται ὄμβρωι‘. Soph. el. 4. 166b 1 παρὰ δὲ τὴν προσωιδίαν ἐν μὲν τοῖς ἄνευ γραφῆς διαλεκτικοῖς οὐ ῥάιδιον ποιῆσαι λόγον, ἐν δὲ τοῖς γεγραμμένοις καὶ ποιήμασι μᾶλλον οἷον καὶ τὸν Ὅμηρον ἔνιοι διορθοῦνται πρὸς τοὺς ἐλέγχοντας ὡς ἀτόπως εἰρηκότα ‘τὸ μὲν οὐ καταπύθεται ὄμβρωι‘ [Ψ 328]. λύουσι γὰρ αὐτὸ τῆι προσωιδίαι λέγοντες τὸ ου ὀξύτερον· καὶ τὸ περὶ τὸ ἐνύπνιον τοῦ Ἀγαμέμνονος, ὅτι οὐκ αὐτὸς ὁ Ζεὺς εἶπεν ‘δίδομεν δέ οἱ εὖχος ἀρέσθαι‘ [B 15], ἀλλὰ τῶι ἐνυπνίωι ἐνετέλλετο διδόναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "21",
+      "text": "PROCL. in Eucl. p. 272, 3 Friedl. Νικομήδης μὲν γὰρ ἐκ τῶν κογχοειδῶν γραμμῶν, ὧν καὶ τὴν γένεσιν καὶ τὴν τάξιν καὶ τὰ συμπτώματα παραδέδωκεν, αὐτὸς εὑρετὴς ὢν τῆς ἰδιότητος αὐτῶν πᾶσαν εὐθύγραμμον γωνίαν ἐτριχοτόμησεν. ἕτεροι δὲ ἐκ τῶν Ἱππίου καὶ Νικομήδους τετραγωνιζουσῶν πεποιήκασι τὸ αὐτὸ μικταῖς καὶ οὗτοι χρησάμενοι γραμμαῖς ταῖς τετραγωνιζούσαις.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "dqg-ac",
+      "title": {
+        "english": "On the Compilation of Knowledge",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hippias-of-elis-compilation-knowledge-dqg-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippias-of-elis/compilation-knowledge",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis-compilation-knowledge-dqg-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis-compilation-knowledge-dqg-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis-compilation-knowledge-dqg-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis-compilation-knowledge-dqg-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis/compilation-knowledge.epub"
+      }
+    },
+    {
+      "eul_wid": "dqg-aa",
+      "title": {
+        "english": "Testimonies 1",
+        "ancient_greek": "Μαρτυρίαι Α'"
+      },
+      "url_slug": "hippias-of-elis-testimonies-dqg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippias-of-elis/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis-testimonies-dqg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis-testimonies-dqg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis-testimonies-dqg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis-testimonies-dqg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis/testimonies.epub"
+      }
+    },
+    {
+      "eul_wid": "dqg-ab",
+      "title": {
+        "english": "Testimonies 2",
+        "ancient_greek": "Μαρτυρίαι Β'"
+      },
+      "url_slug": "hippias-of-elis-testimonies-2-dqg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippias-of-elis/testimonies-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis-testimonies-2-dqg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis-testimonies-2-dqg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis-testimonies-2-dqg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis-testimonies-2-dqg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis/testimonies-2.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "fci-ac",
+      "title": {
+        "english": "Defense for Lycophron",
+        "ancient_greek": "Ἀπολογία ὑπὲρ Λυκόφρονος"
+      },
+      "url_slug": "hypereides-the-orator-defense-lycophron-fci-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hypereides-the-orator/defense-lycophron",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypereides-the-orator-defense-lycophron-fci-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypereides-the-orator-defense-lycophron-fci-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypereides-the-orator-defense-lycophron-fci-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypereides-the-orator-defense-lycophron-fci-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypereides-the-orator/defense-lycophron.epub"
+      }
+    },
+    {
+      "eul_wid": "rhg-ac",
+      "title": {
+        "english": "Introduction to Rhetoric (Treatise A)",
+        "ancient_greek": "Εἰσαγωγὴ εἰς τὴν ῥητορικὴν τέχνην"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-introduction-art-ac-rhg-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/introduction-art-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises-introduction-art-ac-rhg-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises-introduction-art-ac-rhg-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises-introduction-art-ac-rhg-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises-introduction-art-ac-rhg-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "cda-aa",
+      "title": {
+        "english": "Introduction to the Art of Rhetoric",
+        "ancient_greek": "Εἰσαγωγὴ εἰς τὴν τέχνην τῆς ῥητορικῆς"
+      },
+      "url_slug": "trophonius-the-oracle-art-of-rhetoric-cda-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/trophonius-the-oracle/art-of-rhetoric",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/trophonius-the-oracle-art-of-rhetoric-cda-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/trophonius-the-oracle-art-of-rhetoric-cda-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/trophonius-the-oracle-art-of-rhetoric-cda-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/trophonius-the-oracle-art-of-rhetoric-cda-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/trophonius-the-oracle/art-of-rhetoric.epub"
+      }
+    },
+    {
+      "eul_wid": "fsm-bl",
+      "title": {
+        "english": "Letters of Demosthenes",
+        "ancient_greek": "Δημοσθένους ἐπιστολαὶ"
+      },
+      "url_slug": "demosthenes-of-athens-letters-fsm-bl",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-letters-fsm-bl.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-letters-fsm-bl.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-letters-fsm-bl.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-letters-fsm-bl.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/letters.epub"
+      }
+    },
+    {
+      "eul_wid": "qwm-ag",
+      "title": {
+        "english": "Leuctrian D. In Favor of Thebans Second",
+        "ancient_greek": "Λευκτρικὸς Δ."
+      },
+      "url_slug": "aristides-the-orator-leuctrian-favor-thebans-qwm-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/leuctrian-favor-thebans",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-leuctrian-favor-thebans-qwm-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-leuctrian-favor-thebans-qwm-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-leuctrian-favor-thebans-qwm-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-leuctrian-favor-thebans-qwm-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/leuctrian-favor-thebans.epub"
+      }
+    },
+    {
+      "eul_wid": "qeu-ad",
+      "title": {
+        "english": "Lucius or the Ass",
+        "ancient_greek": "Λούκιος ἢ Ὄνος"
+      },
+      "url_slug": "pseudo-lucian-ass-qeu-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/ass",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-ass-qeu-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-ass-qeu-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-ass-qeu-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-ass-qeu-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/ass.epub"
+      }
+    },
+    {
+      "eul_wid": "rda-ac",
+      "title": {
+        "english": "On the Syrian Kings",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "athenaeus-of-naucratis-syrian-kings-rda-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/athenaeus-of-naucratis/syrian-kings",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-of-naucratis-syrian-kings-rda-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-of-naucratis-syrian-kings-rda-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-of-naucratis-syrian-kings-rda-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-of-naucratis-syrian-kings-rda-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-of-naucratis/syrian-kings.epub"
+      }
+    },
+    {
+      "eul_wid": "fsm-ce",
+      "title": {
+        "english": "To Callippus",
+        "ancient_greek": "πρὸς Κάλλιππον"
+      },
+      "url_slug": "demosthenes-of-athens-callippus-fsm-ce",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/callippus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-callippus-fsm-ce.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-callippus-fsm-ce.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-callippus-fsm-ce.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-callippus-fsm-ce.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/callippus.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hippias-of-elis/olympic-victors",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis-olympic-victors-dqg-ad.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis-olympic-victors-dqg-ad.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis-olympic-victors-dqg-ad.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis-olympic-victors-dqg-ad.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis/olympic-victors.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

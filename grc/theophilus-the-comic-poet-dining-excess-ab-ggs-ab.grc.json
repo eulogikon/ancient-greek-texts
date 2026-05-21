@@ -1,0 +1,509 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ggs-ab",
+  "eul_aid": "ggs",
+  "author_slug": "theophilus-the-comic-poet",
+  "work_slug": "dining-excess-ab",
+  "url_slug": "theophilus-the-comic-poet-dining-excess-ab-ggs-ab",
+  "author": {
+    "english": "Theophilus the Comic Poet",
+    "ancient_greek": "Θεόφιλος ὁ κωμικός"
+  },
+  "title": {
+    "english": "Comic Fragments on Dining and Excess",
+    "ancient_greek": "Ἀποσπάσματα περὶ Δείπνων καὶ Ἀκολασίας"
+  },
+  "seo": {
+    "browser_title": "Fragments by Theophilus the Comic Poet on Eulogikon",
+    "meta_title": "The Comic Fragments by Theophilus in Ancient Greek",
+    "meta_description": "Surviving comic fragments by Theophilus on dining and excess. Explore ancient Greek comedy. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Comic Fragments on Dining and Excess constitute a modern thematic compilation of forty-three passages from the lost comedies of Theophilus, an Athenian poet of the fourth century BCE belonging to the era of Middle Comedy. These fragments, grouped around the topics of dining and licentious behavior, preserve isolated lines and jokes quoted by later ancient authors primarily for their linguistic or cultural interest. They illustrate the characteristic interests of Middle Comedy, including detailed depictions of symposia and gastronomy, humorous portrayals of social excess such as gluttony and drunkenness, and the presentation of stock character types like the parasite, the boastful cook, and the extravagant host. The fragments also offer glimpses into domestic and social life through scenes of private interaction. They survive exclusively through quotation in the works of later scholars, most notably Athenaeus of Naucratis in his third-century CE <strong>Deipnosophistae</strong>, with additional excerpts preserved by lexicographers and grammarians. This collection, drawn from modern scholarly assemblages such as the <strong>Poetae Comici Graeci</strong>, is a valuable resource for understanding the evolution of Greek comedy between the eras of Aristophanes and Menander. The fragments provide important evidence for theatrical trends, social history, and the vernacular language of classical Athens, thereby contributing significantly to the reconstruction of the largely lost landscape of Middle Comedy.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Καί τοι τί φημι καὶ τί δρᾶν βουλεύομαι; προδοὺς ἀπιέναι τὸν ἀγαπητὸν δεσπότην, τὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τροφέα, τὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "σωτῆρα, δι’ ὃν εἶδον νόμους Ἕλληνας, ἔμαθον γράμματ’, ἐμυήθην θεοῖς;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Τετρακότυλον δὲ κύλικα κεραμέαν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τινὰ τῶν θηρικλείων πῶς δοκεῖς κεραννύει καλῶς, ἀφρῷ ζέουσαν· οὐδ’ ἂν Αὐτοκλῆς οὕτως μὰ τὴν γῆν εὐρύθμως τῇ δεξιᾷ[ln_5]ἄρας ἐνώμα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ἀτρεστίδας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τις Μαντινεὺς λοχαγὸς ἦν, ἀνδρῶν ἁπάντων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "πλεῖστα δυνάμενος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "φαγεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Πᾶς δὲ φιλοτίμως",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "πρὸς αὐτὸν τῶν νεανίσκων . . . . . . ἐγχέλειον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "παρατέθεικε τῷ πατρί. τευθὶς ἦν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "χρηστή, πατρίδιον, πῶς ἔχεις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "πρὸς κάραβον; ψυχρός ἐστιν, ἄπαγε, φησί· ῥητόρων οὐ γεύομαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Μέγας θησαυρός ἐστι καὶ βέβαιος μουσικὴ ἅπασι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τοῖς μαθοῦσι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "παιδευθεῖσί τε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Οὐ συμφέρον νέα ’στὶ πρεσβύτῃ γυνή· ὥσπερ γὰρ ἄκατος οὐδὲ μικρὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "πείθεται ἑνὶ πηδαλίῳ, τὸ πεῖσμ’ ἀπορρήξασα δὲ ἐκ νυκτὸς ἕτερον λιμέν’ ἔχους’ ἐξευρέθη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Πονηρὸν υἱὸν καὶ πατέρα καὶ μητέρα ἔστι μαγαδίζειν ἐπὶ τροχοῦ καθημένους· οὐδεὶς γὰρ ἡμῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "ταὐτὸν ᾄσεται μέλος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[spk_β]Ἑφθῶν μὲν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "σχεδὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τρεῖς μνᾶς. Β. λέγ’ ἄλλο. Α. ῥυγχίον, κωλῆν, πόδας τέτταρας ὑείους. Β. Ἡράκλεις. Α. βοὸς δὲ τρεῖς, ὄρνιθ’. Β. Ἄπολλον. λέγ’ ἕτερον. Α. σύκων δύο[ln_5]μνᾶς. Β. ἐπέπιες δὲ πόσον; Α. ἀκράτου δώδεκα κοτύλας. Β. Ἄπολλον Ὧρε καὶ Σαβάζιε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Εἴτ’ ἐν χάρακι μὲν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "ταῦτα καὶ παρεμβολῇ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Καὶ κύλικα * * θηρίκλειον εἰσφέρει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "πλέον ἢ κοτύλας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "χωροῦσαν ἕπτ’ ἀγαθῆς τύχης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Τίς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "φησι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τοὺς ἐρῶντας οὐχὶ νοῦν ἔχειν; ἦ πού τίς ἐστι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "τοὺς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "τρόπους ἀβέλτερος· εἰ γὰρ ἀφέλοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "τις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "τοῦ βίου τὰς ἡδονάς, καταλείπετ’ οὐδὲν ἄλλο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.8",
+      "text": "πλὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.9",
+      "text": "τεθνηκέναι.[ln_5]ἐγὼ μὲν οὖν καὐτὸς κιθαριστρίας ἐρῶν, παιδὸς κόρης, οὐ νοῦν ἔχω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.10",
+      "text": "πρὸς τῶν θεῶν; κάλλει καλῆς, μεγέθει μεγάλης, τέχνῃ σοφῆς· ἥν ἐστ’ ἰδεῖν ἥδιον, ἢ τὸ θεωρικὸν ἔχουσιν ὑμῖν διανέμειν ἑκάστοτε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Τοῦ μή ποτ’ αὐτὸν ἐμπεσεῖν εἰς Λαΐδα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "φερόμενον ἢ Μηκωνίδ’ ἢ Σισύμβριον ἢ Βάραθρον ἢ Θάλλουσαν, ἢ τούτων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "τινὰ ὧν ἐμπλέκουσι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.4",
+      "text": "τοῖς λίνοις αἱ μαστροποί,[ln_5]ἢ Ναννάριον ἢ Μαλθάκην.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ggs-aa",
+      "title": {
+        "english": "Comic Fragments on Dining and Excess",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δείπνων καὶ Ἀκολασίας"
+      },
+      "url_slug": "theophilus-the-comic-poet-dining-excess-aa-ggs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theophilus-the-comic-poet/dining-excess-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-comic-poet-dining-excess-aa-ggs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-comic-poet-dining-excess-aa-ggs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-comic-poet-dining-excess-aa-ggs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-comic-poet-dining-excess-aa-ggs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-comic-poet/dining-excess-aa.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "lok-ab",
+      "title": {
+        "english": "Comic Fragments on Feasts and Fools",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἑορτῶν καὶ Μωρῶν"
+      },
+      "url_slug": "diphilus-of-sinope-comic-feasts-fools-lok-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/diphilus-of-sinope/comic-feasts-fools",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diphilus-of-sinope-comic-feasts-fools-lok-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diphilus-of-sinope-comic-feasts-fools-lok-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diphilus-of-sinope-comic-feasts-fools-lok-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diphilus-of-sinope-comic-feasts-fools-lok-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diphilus-of-sinope/comic-feasts-fools.epub"
+      }
+    },
+    {
+      "eul_wid": "bhm-ac",
+      "title": {
+        "english": "Fragments of Epicharmus",
+        "ancient_greek": "Ἐπιχάρμου Ἀποσπάσματα"
+      },
+      "url_slug": "epicharmus-syracuse-fragments-ac-bhm-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicharmus-syracuse/fragments-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-fragments-ac-bhm-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-fragments-ac-bhm-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-fragments-ac-bhm-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-fragments-ac-bhm-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "dxy-aa",
+      "title": {
+        "english": "Fragments on Daily Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ"
+      },
+      "url_slug": "pherecrates-the-comic-poet-daily-life-dxy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pherecrates-the-comic-poet/daily-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-daily-life-dxy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-daily-life-dxy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-daily-life-dxy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-daily-life-dxy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet/daily-life.epub"
+      }
+    },
+    {
+      "eul_wid": "lok-aa",
+      "title": {
+        "english": "Fragments on Feasts and Folly",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἑορτῶν καὶ Μωρίας"
+      },
+      "url_slug": "diphilus-of-sinope-feasts-folly-lok-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/diphilus-of-sinope/feasts-folly",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diphilus-of-sinope-feasts-folly-lok-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diphilus-of-sinope-feasts-folly-lok-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diphilus-of-sinope-feasts-folly-lok-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diphilus-of-sinope-feasts-folly-lok-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diphilus-of-sinope/feasts-folly.epub"
+      }
+    },
+    {
+      "eul_wid": "ebk-ab",
+      "title": {
+        "english": "Fragments on Fish and Feasting",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἰχθύων καὶ Εὐωχίας"
+      },
+      "url_slug": "archippus-the-comic-poet-fish-feasting-ebk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/archippus-the-comic-poet/fish-feasting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet-fish-feasting-ebk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet-fish-feasting-ebk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet-fish-feasting-ebk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet-fish-feasting-ebk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet/fish-feasting.epub"
+      }
+    },
+    {
+      "eul_wid": "fqe-ab",
+      "title": {
+        "english": "Fragments on Sea Creatures",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ἐνάλων Ζῴων"
+      },
+      "url_slug": "nausicrates-the-comic-poet-sea-creatures-fqe-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/nausicrates-the-comic-poet/sea-creatures",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausicrates-the-comic-poet-sea-creatures-fqe-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausicrates-the-comic-poet-sea-creatures-fqe-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausicrates-the-comic-poet-sea-creatures-fqe-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausicrates-the-comic-poet-sea-creatures-fqe-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausicrates-the-comic-poet/sea-creatures.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-bl",
+      "title": {
+        "english": "Sicyonian",
+        "ancient_greek": "Σικυώνιος"
+      },
+      "url_slug": "menander-of-athens-sicyon-hps-bl",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/sicyon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-sicyon-hps-bl.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-sicyon-hps-bl.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-sicyon-hps-bl.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-sicyon-hps-bl.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/sicyon.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-bj",
+      "title": {
+        "english": "Single-Line Sentences (Long Recension)",
+        "ancient_greek": "Γνῶμαι"
+      },
+      "url_slug": "menander-of-athens-sentences-bj-hps-bj",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/sentences-bj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-sentences-bj-hps-bj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-sentences-bj-hps-bj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-sentences-bj-hps-bj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-sentences-bj-hps-bj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/sentences-bj.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/theophilus-the-comic-poet/dining-excess-ab",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-comic-poet-dining-excess-ab-ggs-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-comic-poet-dining-excess-ab-ggs-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-comic-poet-dining-excess-ab-ggs-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-comic-poet-dining-excess-ab-ggs-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-comic-poet/dining-excess-ab.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,261 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "eug-aa",
+  "eul_aid": "eug",
+  "author_slug": "anaxandridas-the-historian",
+  "work_slug": "delphic-oracle",
+  "url_slug": "anaxandridas-the-historian-delphic-oracle-eug-aa",
+  "author": {
+    "english": "Anaxandridas the Historian",
+    "ancient_greek": "Ἀναξανδρίδας ὁ Ἱστορικός"
+  },
+  "title": {
+    "english": "On the Delphic Oracle and Offerings",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "On Delphic Oracle and Offerings by Anaxandridas on Eulogikon",
+    "meta_title": "On the Delphic Oracle and Offerings by Anaxandridas in Greek",
+    "meta_description": "Anaxandridas on the Delphic Oracle and votive offerings. Greek prose text on religious practice. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">_On the Delphic Oracle and Offerings_, also known by the title _Excerpts_, is a lost prose antiquarian work attributed to Anaxandridas the Historian. The work was structured in ten sections and focused on cataloging the votive offerings at the sanctuary of Delphi alongside the oracular lore associated with them. It represents the Hellenistic tradition of scholarly documentation concerning religious artifacts and local history. The surviving fragments indicate its content included detailed descriptions and histories of specific dedications, examinations of the role and responses of the Delphic Oracle connected to these offerings, and analyses of how such objects served as material records of historical events and acts of piety. The work survives only in fragments, transmitted primarily through citation by the later geographer Pausanias, who references its account of a bronze wolf dedication at Delphi. It is also recorded in the Byzantine encyclopedia known as the _Suda_, which notes its title and ten-part structure. Anaxandridas’s compilation served as a valuable source for later antiquarians like Pausanias, helping to preserve the local history and religious traditions of Delphi. It exemplifies the broader Hellenistic scholarly effort to systematize the material and historical patrimony of Greek sanctuaries, a tradition that subsequently informed Roman and Byzantine antiquarianism.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t1",
+      "text": "ΠΕΡΙ ΤΟΥ ΕΝ ΔΕΛΦΟΙΣ ΧΡΗΣΤΗΡΙΟΥ. E LIBRO PRIMO. Stephan.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Byz.: Παρνασσὸς, ὄρος Δελφῶν ... Ἔνιοι δέ φασιν ἀπὸ Παρνασσοῦ Παρνασσὸν τοὔνομα λαβεῖν, ὃν καὶ μαντεύσασθαι Πυθοῖ πρῶτον, ὡς Ἀλέξανδρος (scr. Ἀλεξανδρίδης) φησὶν ἐν πρώτῳ Περὶ τοῦ ἐν Δελφοῖς χρηστηρίου. ΠΕΡΙ ΤΩΝ ΣΥΛΗΘΕΝΤΩΝ ΕΝ ΔΕΛΦΟΙΣ ΑΝΑΘΗΜΑΤΩΝ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "t2",
+      "text": "E LIBRO PRIMO. Zenob.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "I, 57: [ Ἄκρον λάβε καὶ μέσον ἕξει ς. ] Ἀπελλαῖοι (Πελληναῖοι?) περισωθέντες ἀπὸ τοῦ περὶ Κλεισθένην πολέμου ἐπυνθάνοντο τοῦ θεοῦ πότερον τὴν προτέραν αὐτῶν ἀνοικήσειαν πόλιν ἢ ἑτέραν ποιήσουσιν. Ἀπεκρίνατο δὲ ἡ Πυθία· « Πείθου ἐμοῖσι λόγοισι ν · ἄκρον λάβε καὶ μέσον ἕξει ς. » Καὶ ἄκραν ἔχουσαν τὴν πόλιν ᾤκησαν καταλαβόμενοι. Ἡ ἱστορία παρὰ Ἀλεξάνδρῳ ἐν πρώτῃ Περὶ τῶν συληθέντων ἐν Δελφοῖς ἀναθημάτων. Plutarch.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Lysandr. c. 12, de proelio ad Aegospotamos: Ἦσαν δέ τινες οἱ τοὺς Διοσκόρους ἐπὶ τῆς Λυσάνδρου νεὼς ἑκατέρωθεν, ὅτε τοῦ λιμένος ἐξέπλει πρῶτον ἐπὶ τοὺς πολεμίους, ἄστρα τοῖς οἴαξιν ἐπιλάμψαι λέγοντες. —Cap. 18: Ὁ δὲ Λύσανδρος ἔστησεν ἀπὸ τῶν λαφύρων ἐν Δελφοῖς αὑτοῦ χαλκῆν εἰκόνα καὶ τῶν ναυάρχων ἑκάστου καὶ χρυσοῦς ἀστέρας τῶν Διοσκόρων, οἳ πρὸ τῶν Λευκτρικῶν ἠφανίσθησαν. Ἐν δὲ τῷ Βρασίδου καὶ Ἀκανθίων θησαυρῷ τριήρης ἔκειτο διὰ χρυσοῦ πεποιημένη καὶ ἐλέφαντος δυεῖν πηχῶν, ἣν Κῦρος αὐτῷ νικητήριον ἔπεμψεν. Ἀλεξανδρίδης δὲ ὁ Δελφὸς ἱστορεῖ καὶ παρακαταθήκην ἐνταῦθα Λυσάνδρου κεῖσθαι τάλαντον ἀργυρίου καὶ μνᾶς πεντήκοντα δύο καὶ πρὸς τούτοις ἕνδεκα στατῆρας, οὐχ ὁμολογούμενα γράφων τοῖς περὶ τῆς πενίας τοῦ ἀνδρὸς ὁμολογουμένοις. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Arist. Plut. 925: Σίλφιον βοτάνη πολυτίμητος· ἡ δὲ αἰτία τοιαύτη ἐστί. Βάττος, ὁ καὶ Ἀριστοτέλης, πόλιν ἐν Λιβύῃ Κυρήνην [λεγομένην] ἔκτισε κατὰ τὸν δοθέντα αὐτῷ παρὰ τοῦ Ἀπόλλωνος χρησμόν· καὶ οἱ πολῖται οἱ Κυρηναῖοι ἀνταπόδοσιν τῆς εὐεργεσίας βουλόμενοι χαρίσασθαι τῷ βασιλεῖ, ἐποίησαν δακτύλιον, ἐν ᾧ ἡ πόλις αὐτῶν προσφέρει τῷ βασιλεῖ τὸ σίλφιον. Καὶ τὸ φύλλον δὲ αὐτοῦ καὶ ὁ καρπὸς καὶ ὁ καυλὸς καὶ ὁ ὀπὸς καὶ ἁπλῶς τὸ πᾶν αὐτοῦ πολλῆς τιμῆς ἄξιόν ἐστιν. Καὶ οἱ Ἀμπελιῶται δὲ ἔθνος Λιβύης, εἰς Δελφοὺς ἀνέθεσαν καυλὸν σιλφίου, ὥς φησιν Ἀλεξανδρίδης. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "Eur. Alcest. 1: Ἀλεξανδρίδης (libri Ἀναξανδρίδης) ὁ Δελφός φησι θητεῦσαι αὐτὸν (τὸν Ἀπόλλωνα) διότι τὸν Πυθοῖ δράκοντα ἀνεῖλεν. Plutarch.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "Qu. Gr. c. 9: Τίς ὁ παρὰ Δελφοῖς Ὁσιωτὴρ καὶ διὰ τί Βύσιον ἕνα τῶν μηνῶν καλοῦσιν; Ὁσιωτῆρα μὲν καλοῦσι τὸ θυόμενον ἱερεῖον, ὅταν Ὅσιος ἀποδειχθῇ. Πέντε δέ εἰσιν Ὅσιοι διὰ βίου, καὶ τὰ πολλὰ μετὰ τῶν προφητῶν δρῶσιν οὗτοι, καὶ συνιερουργοῦσιν, ἅτε γεγονέναι δοκοῦντες ἀπὸ Δευκαλίωνος. Ὁ δὲ Βύσιος μὴν, ὡς μὲν οἱ πολλοὶ νομίζουσι, φύσιός ἐστιν· ἔαρος γὰρ ἄρχει, καὶ τὰ πολλὰ φύεται τηνικαῦτα καὶ διαβλαστάνει· τὸ δ’ ἀληθὲς οὐκ ἔχει οὕτως. Οὐ γὰρ ἀντὶ τοῦ φ τῷ β χρῶνται Δελφοὶ, καθάπερ Μακεδόνες, Βίλιππον καὶ Βαλακρὸν καὶ Βερονίκην λέγοντες· ἀλλ’ ἀντὶ τοῦ π· καὶ γὰρ τὸ πατεῖν, βατεῖν, καὶ τὸ πικρὸν, βικρὸν ἐπιεικῶς καλοῦσιν. Ἔστιν οὖν Πύσιος ὁ Βύσιος, ἐν ᾧ πυστιῶνται· καὶ πυνθάνονται τοῦ θεοῦ. Τὸ γὰρ ἐννοεῖν καὶ πάτριον. Ἐν τῷ μηνὶ γὰρ τούτῳ χρηστήριον ἐγίγνετο, καὶ ἑβδόμην ταύτην νομίζουσι τοῦ θεοῦ γενέθλιον, καὶ πολύφθοον ὀνομάζουσιν, οὐ διὰ τὸ πέττεσθαι φθόϊς, ἀλλὰ πολυπευθῆ καὶ πολυμάντευτον οὖσαν. Ὀψὲ γὰρ ἀνείθησαν αἱ κατὰ μῆνα μαντεῖαι τοῖς δεομένοις· πρότερον δὲ ἅπαξ ἐθεμίστευεν ἡ Πυθία τοῦ ἐνιαυτοῦ κατὰ ταύτην τὴν ἡμέραν, ὡς Καλλισθένης καὶ Ἀλεξανδρίδης ἱστορήκασι. ΠΕΡΙ ΛΥΚΩΡΕΙΑΣ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "t7",
+      "text": "E LIBRO SECUNDO. Stephan.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "Byz.: Λυκώρει α , κώμη ἐν Δελφοῖς. Καλλίμαχος τρίτῳ. Ἀπὸ Λυκωρέως τοῦ βασιλέως. Ὁ πολίτης Λυκωρεὺς καὶ Λυκώριος καὶ Λυκωρείτης. Ἔστι καὶ Λυκώρειος Ζεὺς καὶ Λυκώρειον διὰ διφθόγγου. Λύλ η , πόλις Ἀρκαδίας. Ἀλέξανδρος δευτέρῳ Περὶ Λυκωρείας.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "fri-aa",
+      "title": {
+        "english": "Fragments on Literary Criticism",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κριτικῆς Λογοτεχνίας"
+      },
+      "url_slug": "lysimachus-the-historian-literary-criticism-fri-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysimachus-the-historian/literary-criticism",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysimachus-the-historian-literary-criticism-fri-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysimachus-the-historian-literary-criticism-fri-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysimachus-the-historian-literary-criticism-fri-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysimachus-the-historian-literary-criticism-fri-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysimachus-the-historian/literary-criticism.epub"
+      }
+    },
+    {
+      "eul_wid": "ndy-an",
+      "title": {
+        "english": "On Deinarchus",
+        "ancient_greek": "Περὶ Δεινάρχου"
+      },
+      "url_slug": "dionysius-of-halicarnassus-deinarchus-ndy-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/deinarchus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-deinarchus-ndy-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-deinarchus-ndy-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-deinarchus-ndy-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-deinarchus-ndy-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/deinarchus.epub"
+      }
+    },
+    {
+      "eul_wid": "iuw-aa",
+      "title": {
+        "english": "On Heraclea Pontica",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "nymphis-of-heraclea-pontica-pontica-iuw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/nymphis-of-heraclea-pontica/pontica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphis-of-heraclea-pontica-pontica-iuw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphis-of-heraclea-pontica-pontica-iuw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphis-of-heraclea-pontica-pontica-iuw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphis-of-heraclea-pontica-pontica-iuw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphis-of-heraclea-pontica/pontica.epub"
+      }
+    },
+    {
+      "eul_wid": "ndy-ap",
+      "title": {
+        "english": "On Imitation",
+        "ancient_greek": "Περὶ Μιμήσεως"
+      },
+      "url_slug": "dionysius-of-halicarnassus-imitation-ndy-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/imitation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-imitation-ndy-ap.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-imitation-ndy-ap.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-imitation-ndy-ap.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-imitation-ndy-ap.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/imitation.epub"
+      }
+    },
+    {
+      "eul_wid": "viq-ac",
+      "title": {
+        "english": "On Roman Embassies to Nations",
+        "ancient_greek": "Περὶ Ῥωμαϊκῶν Πρεσβειῶν πρὸς Ἔθνη"
+      },
+      "url_slug": "menander-protector-roman-embassies-viq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-protector/roman-embassies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-protector-roman-embassies-viq-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-protector-roman-embassies-viq-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-protector-roman-embassies-viq-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-protector-roman-embassies-viq-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-protector/roman-embassies.epub"
+      }
+    },
+    {
+      "eul_wid": "ndy-ao",
+      "title": {
+        "english": "On Thucydides",
+        "ancient_greek": "Περὶ Θουκιδίδου"
+      },
+      "url_slug": "dionysius-of-halicarnassus-thucydides-ndy-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/thucydides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-thucydides-ndy-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-thucydides-ndy-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-thucydides-ndy-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-thucydides-ndy-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/thucydides.epub"
+      }
+    },
+    {
+      "eul_wid": "kws-aa",
+      "title": {
+        "english": "On the Tyrants of Ephesus",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "bato-of-sinope-tyrants-ephesus-kws-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/bato-of-sinope/tyrants-ephesus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-of-sinope-tyrants-ephesus-kws-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-of-sinope-tyrants-ephesus-kws-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-of-sinope-tyrants-ephesus-kws-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-of-sinope-tyrants-ephesus-kws-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-of-sinope/tyrants-ephesus.epub"
+      }
+    },
+    {
+      "eul_wid": "pdc-am",
+      "title": {
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
+      },
+      "url_slug": "appian-of-alexandria-testimony-pdc-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/testimony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-testimony-pdc-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-testimony-pdc-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-testimony-pdc-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-testimony-pdc-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/testimony.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/anaxandridas-the-historian/delphic-oracle",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandridas-the-historian-delphic-oracle-eug-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandridas-the-historian-delphic-oracle-eug-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandridas-the-historian-delphic-oracle-eug-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandridas-the-historian-delphic-oracle-eug-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandridas-the-historian/delphic-oracle.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

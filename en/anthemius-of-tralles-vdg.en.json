@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "vdg",
+  "auth_slug": "anthemius-of-tralles",
+  "name": {
+    "english": "Anthemius of Tralles",
+    "ancient_greek": "Ἀνθέμιος ὁ Τραλλιανός"
+  },
+  "seo_h1": "Anthemius of Tralles on Paradoxical Machines",
+  "seo": {
+    "browser_title": "Anthemius of Tralles on Eulogikon Greek Archive Library",
+    "meta_title": "The Anthemius of Tralles Ancient Greek Mathematics",
+    "meta_description": "Anthemius of Tralles, a 6th century CE mathematician and architect. Treatises on mathematics and geometry. Free to read and download from the Greek library."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Μαθηματικά",
+      "english": "Mathematics",
+      "href": "/domains/mathematics"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Anthemius of Tralles was a Byzantine mathematician, engineer, and architect active in the 6th century CE under Emperor Justinian I. A native of Tralles in Asia Minor, he is most renowned for his collaboration with the architect Isidore of Miletus in designing and constructing Constantinople’s Hagia Sophia after 532 CE. The historian Procopius records him as the project’s master builder and praises his learning, while anecdotes also attest to his mechanical ingenuity, such as using steam and reflected light to play a prank on a neighbor.</p>\n<p class=\"research-text\">His extant work includes the fragmentary treatise On Burning-Mirrors, which explores the geometry of parabolic and ellipsoidal mirrors. The Suda lexicon credits him with a book on remarkable mechanical devices, and he may have authored a commentary on Apollonius of Perga’s Conics.</p>\n<p class=\"research-text\">Anthemius holds a pivotal place in the history of applied mathematics and architecture. His geometric expertise was essential to the revolutionary design of the Hagia Sophia, whose massive dome and pendentives defined Byzantine architecture. His writings also helped transmit Hellenistic mathematical knowledge into the Byzantine and later Islamic scientific traditions.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "vdg-aa",
+      "title": {
+        "english": "Mathematical Fragment from Bobbio",
+        "ancient_greek": "Μαθηματικὸν Ἀπόσπασμα ἐκ Βοβίου"
+      },
+      "url_slug": "anthemius-of-tralles-mathematical-fragment-vdg-aa",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/anthemius-of-tralles/mathematical-fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthemius-of-tralles-mathematical-fragment-vdg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthemius-of-tralles-mathematical-fragment-vdg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthemius-of-tralles-mathematical-fragment-vdg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthemius-of-tralles-mathematical-fragment-vdg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthemius-of-tralles/mathematical-fragment.epub"
+      }
+    },
+    {
+      "eul_wid": "vdg-ab",
+      "title": {
+        "english": "On Paradoxical Machines",
+        "ancient_greek": "Περὶ παραδόξων μηχανημάτων"
+      },
+      "url_slug": "anthemius-of-tralles-paradoxical-machines-vdg-ab",
+      "passages": 10,
+      "links": {
+        "html": "https://eulogikon.org/grc/anthemius-of-tralles/paradoxical-machines",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthemius-of-tralles-paradoxical-machines-vdg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthemius-of-tralles-paradoxical-machines-vdg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthemius-of-tralles-paradoxical-machines-vdg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthemius-of-tralles-paradoxical-machines-vdg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthemius-of-tralles/paradoxical-machines.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/anthemius-of-tralles",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anthemius-of-tralles-vdg.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anthemius-of-tralles-vdg.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anthemius-of-tralles-vdg.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anthemius-of-tralles-vdg.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

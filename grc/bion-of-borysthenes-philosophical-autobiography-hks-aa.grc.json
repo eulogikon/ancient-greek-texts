@@ -1,0 +1,921 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "hks-aa",
+  "eul_aid": "hks",
+  "author_slug": "bion-of-borysthenes",
+  "work_slug": "philosophical-autobiography",
+  "url_slug": "bion-of-borysthenes-philosophical-autobiography-hks-aa",
+  "author": {
+    "english": "Bion of Borysthenes",
+    "ancient_greek": "Βίων ὁ Βορυσθενίτης"
+  },
+  "title": {
+    "english": "Bion's Philosophical Autobiography",
+    "ancient_greek": "Ἐπιτάφιος Ἀδώνιδος"
+  },
+  "seo": {
+    "browser_title": "Epitaphios Adonidos by Bion of Borysthenes on Eulogikon",
+    "meta_title": "Epitaphios Adonidos by Bion of Borysthenes in Greek",
+    "meta_description": "Epitaphios Adonidos is a philosophical autobiography blending personal and Cynic thought. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (phi, frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Cynic",
+      "href": "/affiliations/cynic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The work conventionally titled <strong>Bion&#x27;s Philosophical Autobiography</strong> is not an extant, discrete text. The autobiographical material derives from the biographical and anecdotal account of Bion&#x27;s life, teachings, and sayings preserved by Diogenes Laertius in his <strong>Lives of the Eminent Philosophers</strong>. In a famous passage, Bion responds to King Antigonus&#x27;s inquiry about his origins with a defiantly frank narrative. He describes his father as a freedman and salt-fish seller whose face bore the branded marks of his former master&#x27;s cruelty, and his mother as a woman from a brothel. After his father was sold into slavery for tax evasion, Bion himself was purchased as a slave by a rhetorician, who upon his death left Bion his estate. Bion then burned the rhetorician&#x27;s books, liquidated the inheritance, and traveled to Athens to pursue philosophy, concluding his account with a sarcastic invocation of his noble lineage.</p>\n<p class=\"research-text\">This portrait emphasizes several themes from Bion&#x27;s career as a popular philosopher. It highlights his Cynic-style mockery of social conventions and pretensions, his philosophical syncretism as he moved between Academic, Cynic, Cyrenaic, and Peripatetic schools, and the way his own dramatic life journey from slavery to renown served as a philosophical exemplum. His sermonic, diatribic style aimed to make philosophy broadly accessible. Bion&#x27;s own writings are lost, and knowledge of him relies almost entirely on later reports, primarily the biography in Diogenes Laertius, with other fragments appearing in authors like Strabo and Teles. He was an influential model for the popular philosophical preacher, and the biographical tradition about him remains a key source for understanding Cynic-influenced popular philosophy in the Hellenistic age. Separately, a pastoral poem, the <strong>Epitaphios Adonidos</strong>, survives under his name within the bucolic tradition and influenced later pastoral poetry.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1a (n)",
+      "text": "Diogenes Laertius 4.46—47 Βίων τὸ μὲν γένος ἦν Βορυσθενίτης, ὧντινων δὲ γονέων καὶ ἀφ’ οἵων πραγμάτων ἧξεν ἐπὶ φιλοσοφίαν, αὐτὸς Ἀντιγόνῳ διασαφεῖ. ἐρομένου γὰρ αὐτὸν (Od. 1.170 etc.) τίς πόθεν εἰς ἀνδρῶν; πόθι τοι πόλις ἠδὲ τοκῆες; αἰσθόμενος ὅτι προδιαβέβληται, φησὶ πρὸς αὐτόν· ‘ἐμοῦ ὁ πατὴρ μὲν ἦν ἀπελεύθερος, τῷ ἀγκῶνι ἀπομυσσόμενος (διεδήλου δὲ τὸν ταριχέμπορον) γένος Βορυσθενίτης, ἔχων οὐ πρόσωπον, ἀλλὰ συγγραφὴν ἐπὶ τοῦ προσώπου, τῆς τοῦ δεσπότου πικρίας σύμβολον· μήτηρ δὲ οἵαν ὁ τοιοῦτος ἂν γήμαι, ἀπ’ οἰκήματος. ἔπειτα ὁ πατὴρ παρατελωνησάμενός τι πανοίκιος ἐπράθη μεθ’ ἡμῶν. καί με ἀγοράζει τις ῥήτωρ νεώτερον ὄντα καὶ εὔχαριν· ὃς καὶ ἀποθνήσκων κατέλιπέ μοι πάντα. κἀγὼ κατακαύσας αὐτοῦ τὰ συγγράμματα καὶ πάντα συγξύσας Ἀθήναζε ἦλθον καὶ ἐφιλοσόφησα. ταύτης τοι γενεῆς τε καὶ αἵματος εὔχομαι εἶναι (Il. 6.211 etc.). ταῦτά ἐστι τὰ κατ’ ἐμέ. ὥστε παυσάσθωσαν Περσαῖός τε καὶ Φιλωνίδης ἱστοροῦντες αὐτά· σκόπει δέ με ἐξ ἐμαυτοῦ.‘ Suda, s.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1b (n)",
+      "text": "v. Ἀγκών, 249 Καὶ παροιμία· τῷ ἀγκῶνι ἀπομυσσόμενος. Βίων φησὶν ὁ φιλόσοφος· ἐμοῦ ὁ πατὴρ μὲν ἦν ἀπελεύθερος, τῷ ἀγκῶνι ἀπομυσσόμενος· διεδήλου δὲ τὸν ταριχέμπορον. Suda, s.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1c (n)",
+      "text": "v. Σύμβολον, 1377 Σύμβολον· περὶ Βίωνος τοῦ πατρός· ἔχων οὐ πρόσωπον, ἀλλὰ συγγραφὴν ἐπὶ τοῦ προσώπου, τῆς τοῦ δεσπότου πικρίας σύμβολον. μήτηρ δὲ οἵαν ὁ τοιοῦτος γήμαι, ἀπ’ οἰκήματος. Stobaeus, Florilegium 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 (n)",
+      "text": "29a.13 Ἀντίγονος ὁ βασιλεὺς Βίωνα τὸν φιλόσοφον διαβληθέντα ὡς δυσγενῆ ἤρετο (Od.1.170 etc.) τίς πόθεν εἶς ἀνδρῶν; πόθι τοι πτόλις ἠδὲ τοκῆες; κἀκεῖνος εἶπεν· ‘ἀλλ’ ὀρθῶς 〈οἶμαί σ’〉, ὦ βασιλεῦ, ὅταν τοξοτῶν χρείαν ἔχῃς, οὐκ ἐρωτῶντα τὸ γένος, ἀλλὰ τιθέντα τὸν σκοπὸν τοὺς ἀρίστους τοξευτὰς παραλαμβάνειν· οὕτως οὖν ἐπὶ τῶν φίλων ἐξέταζε οὐ πόθεν εἰσίν, ἀλλὰ τίνες. Ps—Plutarchus, De liberis educandis 10.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 (n)",
+      "text": "7 C—D Ἀστείως δὲ καὶ Βίων ἔλεγεν ὁ φιλόσοφος ὅτι ὥσπερ οἱ μνηστῆρες τῇ Πηνελόπῃ πλησιάζειν μὴ δυνάμενοι ταῖς ταύτης ἐμίγνυντο θεραπαίναις, οὕτω καὶ οἱ φιλοσοφίας μὴ δυνάμενοι κατατυχεῖν ἐν τοῖς ἄλλοις παιδεύμασι τοῖς οὐδενὸς ἀξίοις ἑαυτοὺς κατασκελετεύουσι. Diogenes Laertius 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4 (n)",
+      "text": "49 Ἐν Ῥόδῳ τὰ ῥητορικὰ διασκούντων Ἀθηναίων τὰ φιλοσοφούμενα ἐδίδασκε· πρὸς οὖν τὸν αἰτιασάμενον ἔφη, ‘πυροὺς ἐκόμισα καὶ κριθὰς πιπράσκω;‘ Stobaeus, Florilegium 3.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5a (n)",
+      "text": "4.52 Βίων ἔλεγε τοὺς γραμματικοὺς ζητοῦντας περὶ τῆς Ὀδυσσέως πλάνης μὴ ἐξετάζειν τὴν ἰδίαν μηδὲ καθορᾶν ὅτι καὶ ἐν αὐτῷ τούτῳ πλανῶνται πονοῦντες περὶ τὰ μηδὲν χρήσιμα. Gnomologium Parisinum 320 Βίων ἔλεγε τοὺς γραμματικοὺς ζητοῦντας περὶ τῆς Ὀδυσσέως πλάνης τὴν ἰδίαν μὴ καθορᾶν, ὅτι ἐν αὐτῷ τούτῳ πλανῶνται πονοῦντες περὶ τὰ μηδὲν χρήσιμα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 (n)",
+      "text": "Stobaeus, Eclogae 2.1.20 Βίων ἔλεγε γελοιοτάτους εἶναι τοὺς ἀστρονομοῦντας, οἳ [τοὺς πὰρ ποσὶ] τοὺς ἐν τοῖς αἰγιαλοῖς ἰχθῦς οὐ βλέποντες τοὺς ἐν τῷ οὐρανῷ φάσκουσιν εἰδέναι. Diogenes Laertius 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7 (n)",
+      "text": "52 (= Wachsmuth, pp. 201—202) Εὐφυὴς γὰρ ἦν καὶ παρῳδῆσαι· οἷά ἐστιν αὐτοῦ καὶ ταῦτα· ὧ πέπον Ἀρχύτα, ψαλληγενές, ὀλβιότυφε, τῆς ὑπάτης ἔριδος πάντων ἐμπειρότατ’ ἀνδρῶν. Diogenes Laertius 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8 (n)",
+      "text": "53 Καὶ ὅλως καὶ μουσικὴν καὶ γεωμετρίαν διέπαιζεν. Olympiodorus, In Platonis Phaedonem commentaria p.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9a (n)",
+      "text": "158.1—5 Norvin (= Plutarchus, fr. 216 f. Sandbach) Ὅτι Βίων ἠπόρει περὶ τοῦ ψεύδους, εἰ καὶ αὐτὸ κατὰ ἀνάμνησιν, ὡς τὸ ἐναντίον γε, ἢ οὔ; καὶ τίς ἡ ἀλογία; ἢ ῥητέον, ὡς καὶ τοῦτο γίνεται κατὰ τὸ εἴδωλον τοῦ ἀληθοῦς· τὸ δὲ εἴδωλον εἶναι τοῦτο, ὅπερ ἀληθὲς οὐκ ἄν τις νομίσειεν, εἰ μή πη εἰδείη τὸ ἀληθές. Olympiodorus, In Platonis Phaedonem commentaria p.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9b (n)",
+      "text": "211.14—17 Norvin Εἰ καὶ τοῦ ψεύδους ἔστιν ἀνάμνησις, ὡς ἠπόρει Βίων; ἢ τῇ ἀναμνήσει καὶ αὐτὸ συνυφίσταται κατὰ τὴν ἀδιάρθρωτον ἔννοιαν καὶ ἔτι σφαλλομένην, ἐπεὶ ὅ γε τυφλὸς ἐκ γενετῆς οὐκ ἂν ψευσθείη περὶ χρωμάτων. Plutarchus, De Pythiae oraculis 5.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10 (n)",
+      "text": "396 E Ἐκλαβὼν γὰρ ὡς ἔοικεν ἵππον ἀλινδούμενον γράψαι, τρέχοντα ἔγραψεν ἀγανακτοῦντος δὲ τοῦ ἀνθρώπου γελάσας ὁ Παύσων κατέστρεψε τὸν πίνακα, καὶ γενομένων ἄνω τῶν κάτω πάλιν ὁ ἵππος οὐ τρέχων ἀλλ’ ἀλινδούμενος ἐφαίνετο. τοῦτό φησιν ὁ Βίων ἐνίους τῶν λόγων πάσχειν, ὅταν ἀναστραφῶσι. Stobaeus, Florilegium 3.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11a (n)",
+      "text": "2.38 Φησὶν ὁ Βίων· οἱ ἀγαθοὶ οἰκέται ἐλεύθεροι, οἱ δὲ πονηροὶ ἐλεύθεροι δοῦλοι πολλῶν ἐπιθυμιῶν. Stobaeus, Florilegium 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11b (n)",
+      "text": "19.42 Φησὶν ὁ Βίων· οἱ ἀγαθοὶ οἰκέται ἐλεύθεροι, οἱ πονηροὶ ἐλεύθεροι δοῦλοι πολλῶν ἐπιθυμιῶν. Diogenes Laertius 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12a (n)",
+      "text": "51 Τοσοῦτον διαφέρειν τὴν φρόνησιν τῶν ἄλλων ἀρετῶν ὅσον τὴν ὅρασιν τῶν ἄλλων αἰσθήσεων. Codex Parisinus Graecus 1168 no.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12b (n1)",
+      "text": "16, p. 413 Freudenthal (= Corpus Parisinum 377 Elter = Favorinus fr. 123 Barigazzi) Τοσούτῳ διαφέρειν τὴν φρόνησιν τῶν λοιπῶν ἀρετῶν ἔλεγεν ὅσῳ ὅρασιν τῶν ἄλλων αἰσθήσεων. Gnomologium Vaticanum 162 Ὁ αὐτὸς τὴν μὲν φρόνησιν ἔφη παντοπώλιον εἶναι τῶν ἀγαθῶν, τὴν δὲ σωφροσύνην † στρατουρίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14 (n)",
+      "text": "Athenaeus 10.421 E—F Διὸ καλῶς ἔλεγεν ὁ Βορυσθενίτης Βίων οὐ δεῖν ἀπὸ τῆς τραπέζης τὰς ἡδονὰς πορίζεσθαι, ἀλλ’ ἀπὸ τοῦ φρονεῖν. Plutarchus, Quomodo quis suos in virtute sentiat profectus 11.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15 (n)",
+      "text": "82 E Καὶ μὴν τά γε Βίωνος καὶ Πύρρωνος οὐ προκοπῆς ἄν τις ἀλλὰ μείζονος ἕξεως σημεῖα θεῖτο καὶ τελειοτέρας. ὁ μὲν γὰρ ἠξίου τοὺς συνήθεις οἴεσθαι προκόπτειν ὅταν τῶν λοιδορούντων οὕτως ἀκούσωσιν ὡς λεγόντων ‘ὦ ξέν’, ἐπεὶ οὔτε κακῷ οὔτ’ ἄφρονι φωτὶ ἔοικας, (Od. 6.187) οὖλέ τε καὶ μέγα χαῖρε, θεοί νύ τοι ὄλβια δοῖεν‘ (3Od. 24.402). Teles, Περὶ αὐταρκείας ap.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16a (n1)",
+      "text": "Stobaeum, Florilegium 3.1.98 (= fr. II, pp. 5.2—6.8 Hense) Δεῖ ὥσπερ τὸν ἀγαθὸν ὑποκριτὴν ὅ τι ἂν ὁ ποιητὴς περιθῇ πρόσωπον τοῦτο ἀγωνίζεσθαι καλῶς, οὕτω καὶ τὸν ἀγαθὸν ἄνδρα ὅ τι ἂν περιθῇ ἡ τύχη. καὶ γὰρ αὕτη, φησὶν ὁ Βίων, ὥσπερ ποιήτρια, ὁτὲ μὲν πρωτολόγου, ὁτὲ δὲ δευτερολόγου περιτίθησι πρόσωπον, καὶ ὁτὲ μὲν βασιλέως, ὁτὲ δὲ ἀλήτου. μὴ οὖν βούλου δευτερολόγος ὢν τὸ πρωτολόγου πρόσωπον· εἰ δὲ μή, ἀνάρμοστόν τι ποιήσεις. σὺ μὲν ἄρχεις καλῶς, ἐγὼ δὲ ἄρχομαι, φησί, καὶ σὺ μὲν πολλῶν, ἐγὼ δὲ ἑνὸς τουτουῒ παιδαγωγὸς γενόμενος, καὶ σὺ μὲν εὔπορος γενόμενος δίδως ἐλευθερίως, ἐγὼ δὲ λαμβάνω εὐθαρσῶς παρὰ σοῦ οὐχ ὑποπίπτων οὐδὲ ἀγεννίζων οὐδὲ μεμψιμοιρῶν. σὺ κέχρησαι τοῖς πολλοῖς καλῶς, ἐγὼ δὲ τοῖς ὀλίγοις οὐ γὰρ τὰ πολυτελῆ, φησί, τρέφει, οὐδὲ ἐκείνοις μὲν ἔστι μετ’ ὠφελείας χρῆσθαι, τοῖς δὲ ὀλίγοις καὶ εὐτελέσι μετὰ σωφροσύνης οὐκ ἔστι καὶ ἀτυφίας. Arsenius, Violetum p.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16b (n)",
+      "text": "150 Walz Ὁ αὐτὸς ἔλεγεν, ἡ τύχη ὥσπερ ποιήτρια, ὁτὲ μὲν πρωτολόγου, ὁτὲ δὲ ὑστερολόγου περιτίθησι πρόσωπον, καὶ ὁτὲ μὲν βασιλέως, ὁτὲ δὲ ἀλήτου. Teles, Περὶ αὐταρκείας Ap.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17 (n1)",
+      "text": "Stobaeum, Florilgium 3.1.98 (= fr. II, pp. 6.8—8.6 Hense) Διὸ καὶ εἰ λάβοι, φησὶν ὁ Βίων, φωνὴν τὰ πράγματα, ὃν τρόπον καὶ ἡμεῖς, καὶ δύναιτο δικαιολογεῖσθαι, οὐκ ἂν εἴποι, φησίν, [πρῶτον ἡ πενία, ἄνθρωπε, τί μοι μάχῃ;] ὥσπερ οἰκέτης πρὸς τὸν κύριον ἐφ’ ἱερὸν καθίσας δικαιολογεῖται ‘τί μοι μάχῃ; μή τί σοι κέκλοφα; οὐ πᾶν τὸ προσταττόμενον ὑπὸ σοῦ ποιῶ; οὐ τὴν ἀποφορὰν εὐτάκτως σοι φέρω;‘ καὶ ἡ πενία 〈ἂν〉 εἴποι πρὸς τὸν ἐγκαλοῦντα ‘〈ἄνθρωπε, 〉 τί μοι μάχῃ; μὴ καλοῦ τινος δι’ ἐμὲ στερίσκῃ; μὴ σωφροσύνης; μὴ δικαιοσύνης; 〈μὴ〉 ἀνδρείας; ἀλλὰ μὴ τῶν ἀναγκαίων ἐνδεὴς εἶ; ἢ οὐ μεσταὶ μὲν αἱ ὁδοὶ λαχάνων, πλήρεις δὲ αἱ κρῆναι ὕδατος; οὐκ εὐνάς σοι τοσαύτας παρέχω ὁπόση γῆ; καὶ στρωμνὰς φύλλα; ἢ εὐφραίνεσθαι μετ’ ἐμοῦ οὐκ ἔστιν; ἢ οὐχ ὁρᾷς γρᾴδια φυστὴν φαγόντα τερετίζοντα; ἢ οὐκ ὄψον ἀδάπανον καὶ ἀτρύφερον παρασκευάζω σοι τὴν πεῖναν; ἢ οὐχ ὁ πεινῶν ἥδιστα ἐσθίει καὶ ἥκιστα ὄψου δεῖται; καὶ ὁ διψῶν ἥδιστα πίνει καὶ ἥκιστα τὸ μὴ παρὸν ποτὸν ἀναμένει; ἢ πεινᾷ τις πλακοῦντα ἢ διψᾷ Χῖον; ἀλλ’ οὐ ταῦτα διὰ τρυφὴν ζητοῦσιν ἄνθρωποι; ἢ οἰκήσεις οὐ παρέχω σοι προῖκα, τὸν μὲν χειμῶνα τὰ βαλανεῖα, θέρους δὲ τὰ ἱερά; ποῖον γάρ σοι τοιοῦτον οἰκητήριον, φησὶν ὁ Διογένης, τοῦ θέρους, οἷον ἐμοὶ ὁ Παρθενὼν οὗτος, εὔπνους καὶ πολυτελής;‘ εἰ ταῦτα λέγοι ἡ πενία, τί ἂν ἔχοις ἀντειπεῖν; ἐγὼ μὲν γὰρ 〈ἂν〉 δοκῶ ἄφωνος γενέσθαι. Dio Prusaensis 66.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18 (n)",
+      "text": "26 Τῷ Βίωνι δοκεῖ μὴ δυνατὸν εἶναι τοῖς πολλοῖς ἀρέσκειν, εἰ μὴ πλακοῦντα γενόμενον ἢ Θάσιον. εὐήθως [ὡς] ἐμοὶ δοκεῖν. Stobaeus, Florilegium 3.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19 (n)",
+      "text": "4.87 Βίων ἐρωτηθεὶς τί ἐστιν ἄνοια, εἶπε ‘προκοπῆς ἐμπόδιον.‘ Diogenes Laertius 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20 (n)",
+      "text": "50 Τὴν οἴησιν ἔλεγε προκοπῆς ἐγκοπήν. Teles, Περὶ αὐταρκείας ap.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "21 (n)",
+      "text": "Stobaeum, Florilegium 3.1.98 (= fr. II, p. 9.2—8 Hense) Ὁ δὲ Βίων, ὥσπερ τῶν θηρίων, φησί, παρὰ τὴν λῆψιν ἡ δῆξις γίνεται, κἀν μέσου τοῦ ὄφεως ἐπιλαμβάνῃ, δηχθήσῃ, ἐὰν τοῦ τραχήλου, οὐδὲν πείσῃ· οὕτω καὶ τῶν πραγμάτων, φησί, παρὰ τὴν ὑπόληψιν ἡ ὀδύνη γίνεται, καὶ ἐὰν μὲν οὕτως ὑπολάβῃς περὶ αὐτῶν, ὡς ὁ Σωκράτης, οὐκ ὀδυνήσῃ, ἐὰν δὲ ὡς ἑτέρως, ἀνιάσῃ, οὐχ ὑπὸ τῶν πραγμάτων ἀλλ’ ὑπὸ τῶν ἰδίων τρόπων καὶ τῆς ψευδοῦς δόξης. Diogenes Laertius 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "22 (n)",
+      "text": "48 Τὴν δόξαν ἀνιῶν μητέρα εἶναι. Diogenes Laertius 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "23 (n)",
+      "text": "48 Μέγα κακὸν τὸ μὴ δύνασθαι φέρειν κακόν. Diogenes Lertius 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "24 (n)",
+      "text": "48 Ἐρωτηθείς ποτε τίς μᾶλλον ἀγωνιᾷ, ἔφη, ‘ὁ τὰ μέγιστα βουλόμενος εὐημερεῖν.‘ Diogenes Laertius 2.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25 (n)",
+      "text": "117 (= fr. 177 Döring) Κράτητος γοῦν αὐτὸν (sc. Στίλπωνα) ἐρωτήσαντος εἰ οἱ θεοὶ χαίρουσι ταῖς προσκυνήσεσι καὶ εὐχαῖς, φασὶν εἰπεῖν, ‘περὶ τούτων μὴ ἐρώτα, ἀνόητε, ἐν ὁδῷ, ἀλλὰ μόνον.‘ τὸ δ’ αὐτὸ καὶ Βίωνα ἐρωτηθέντα εἰ θεοί εἰσιν εἰπεῖν· ‘οὐκ ἀπ’ ἐμοῦ σκεδάσεις ὄχλον, ταλαπείριε πρέσβυ;‘ Demetrius Lacon Pap.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "26a (n)",
+      "text": "Herc. 1055 col. 18.1—13, p. 75 De Falco (= p. 31 Crönert) ...οὐ[δὲ]ν πιθανὸν [ο]ὖν ἐστιν ὡ̣σὰν Βίωνος τοῦ κατὰ Θε̣όφραστον πρ̣ώ̣του φιλοσοφίαν ἀνθινοῖς κοσμήσαντος, ἀσύνθετ̣ον̣ δ̣ὲ ΤΑΝ̣ΥΛΟΥ ΘΟΥ διὰ τὴν τῆς φύσεως τῶν ὄντων ἀγνωσίαν. τὸ μὲν γὰρ ἐπιχείρημα τοῦτο· ‘πᾶν γένος ζώ̣ι̣ω̣[ν φαμὲν ἴδι]αν ἔχει[ν τὴν] μορ[φὴν ἐν τῶι ἰδίωι γένει.‘] Demetrius Lacon Pap.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "26b (n1)",
+      "text": "Herc. 1055 col. 22.1—12, pp. 78—79 De Falco (= p. 31 Crönert) ... ἐκ δὲ τῶν προεισαγομένων] τ̣οῦτον ἐχόντων τ̣ὸν τρόπον ἐπὶ τοῦ λόγου τοῦ Βιωνήου τοῦτο μὲν θήσω * , διότι γένος ἕκαστον ζώιων ἰδίαν ἔχει μορφὴν ἐν τῶι ἰδίωι γένει * , πάντως δ’, οὐ καθάπαξ, ἵνα τἀτὰ συνβαίνη[ι κ]αὶ ἐν τοῖς αἰσθητοῖς καὶ ἐν τοῖς λόγωι θεωρητοῖς· Plutarchus, De sera numinis vindicta 19.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "27 (n)",
+      "text": "561 C Ὁ γὰρ Βίων τὸν θεὸν κολάζοντα τοὺς παῖδας τῶν πονηρῶν γελοιότερον εἶναί φησιν ἰατροῦ διὰ νόσον πάππου καὶ πατρὸς ἔκγονον ἢ παῖδα φαρμακεύοντος. Diogenes Laertius 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "28 (n)",
+      "text": "50 Ἔλεγε δὲ τοὺς ἐν ᾅδου μᾶλλον ἂν κολάζεσθαι εἰ ὁλοκλήροις καὶ μὴ τετρημένοις ἀγγείοις ὑδροφόρουν. Clemens Alexandrinus, Protrepticus 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "29 (n)",
+      "text": "56.1 Ταῦθ’ ὑμῶν οἱ θεοὶ τὰ εἴδωλα, αἱ σκιαὶ καὶ πρὸς τούτοις 〈αἱ〉 ‘χωλαὶ‘ ἐκεῖναι καὶ ‘ῥυσαί, παραβλῶπες ὀφθαλμώ,‘ αἱ Λιταὶ αἱ Θερσίτου μᾶλλον ἢ Διὸς θυγατέρες, ὥστε μοι δοκεῖν χαριέντως φάναι τὸν Βίωνα, πῶς ἂν ἐνδίκως οἱ ἄνθρωποι παρὰ τοῦ Διὸς αἰτήσαιντο τὴν εὐτεκνίαν, ἣν οὐδ’ αὑτῷ παρασχεῖν ἴσχυσεν; Plutarchus, De superstitione 7.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30 (n)",
+      "text": "168 D Ἔξω κάθηται (sc. ὁ δεισιδαίμων) σακκίον ἔχων ἢ περιεζωσμένος ῥάκεσι ῥυπαροῖς, πολλάκις δὲ γυμνὸς ἐν πηλῷ κυλινδούμενος, ἐξαγορεύει τινὰς ἁμαρτίας αὑτοῦ καὶ πλημμελείας ὡς τόδε φαγόντος ἢ πιόντος ἢ βαδίσαντος ὁδὸν ἣν οὐκ εἴα τὸ δαιμόνιον. ἂν δ’ ἄριστα πράττῃ καὶ συνῇ πράῳ δεισιδαιμονίᾳ, περιθειούμενος οἴκοι κάθηται 〈καὶ〉 περιματτόμενος, αἱ δὲ γρᾶες καθάπερ παττάλῳ φησὶν ὁ Βίων ὅ τι ἂν τύχωσιν αὐτῷ περιάπτουσι φέρουσαι καὶ περιαρτῶσι. Clemens Alexandrinus, Stromata 7.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "31a (n)",
+      "text": "4.24.5 ‘Τί δὲ καὶ θαυμαστόν, εἰ ὁ μῦς,‘ φησὶν ὁ Βίων, ‘τὸν θύλακον διέτραγεν, οὐχ εὑρὼν ὅ τι φάγῃ; τοῦτο γὰρ ἦν θαυμαστόν, εἰ, ὥσπερ Ἀρκεσίλαος παίζων ἐνεχείρει, τὸν μῦν ὁ θῦλαξ κατέφαγεν.‘ Theodoretus, Graecarum affectionum curatio 6.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "31b (n)",
+      "text": "19 Ἔοικε δὲ τούτῳ καὶ τὸ παρὰ τοῦ Βίωνος εἰρημένον. καὶ γὰρ ἐκεῖνος τὰ τοιάδε γελῶν· ‘τί θαυμαστόν,‘ ἔφη, ‘εἰ καὶ ὁ μῦς τὸν θύλακον διέτραγεν, οὐκ ἔχων ὅ τι φάγῃ; τοῦτο δὲ ἦν θαυμαστόν, εἰ, ὥσπερ Ἀρκεσίλαος παίζων ἐνεχείρει, τὸν μῦν ὁ θύλακος κατέφαγεν.‘ Diogenes Laertius 2.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "32 (n)",
+      "text": "135 Βίωνός τε ἐπιμελῶς κατατρέχοντος τῶν μάντεων, νεκροὺς αὐτὸν ἐπισφάττειν ἔλεγε (sc. Μενέδημος). Teles ap.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "34 (n)",
+      "text": "Stobaeum, Florilegium 4.33.31 (=fr. IV a , p. 39.1—7 Hense) Καὶ εἴ τις βούλεται ἢ αὐτὸς ἐνδείας καὶ σπάνεως ἀπολυθῆναι ἢ ἄλλον ἀπολῦσαι, μὴ χρήματα αὐτῷ ζητείτω. ὅμοιον γάρ, φησὶν ὁ Βίων, ὡς εἴ τις τὸν ὑδρωπικὸν βουλόμενος παῦσαι τοῦ δίψους, τὸν μὲν ὕδρωπα μὴ θεραπεύοι, κρήνας δὲ καὶ ποταμοὺς αὐτῷ παρασκευάζοι. ἐκεῖνός τε γὰρ ἂν πρότερον πίνων διαρραγείη ἢ παύσαιτο τοῦ δίψους, οὗτός τε οὐκ ἄν ποθ’ ἱκανωθείη, ὅταν ᾖ ἄπληστος καὶ δοξοκόπος καὶ δεισιδαίμων. Stobaeus, Florilegium 3.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "35a (n)",
+      "text": "10.37 Βίων ὁ σοφιστὴς τὴν φιλαργυρίαν μητρόπολιν ἔλεγε πάσης κακίας εἶναι. Theon Rhetor, Progymnasmata 5, p.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "35b (n)",
+      "text": "99.17—19 Spengel II Γνωμολογικῶς μὲν οἷον Βίων ὁ σοφιστὴς τὴν φιλαργυρίαν μητρόπολιν ἔλεγε πάσης κακίας εἶναι. Theon Rhetor, Progymnasmata 5, p.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "35c (n)",
+      "text": "105.6—9 Spengel II Ἐκ δὲ τοῦ ψευδοῦς, ὅτι μὴ ἀληθῶς ὁ Βίων ἔλεγε τὴν φιλαργυρίαν μητρόπολιν εἶναι τῆς κακίας μᾶλλον γὰρ ἀφροσύνη ἐστίν. Diogenes Laertius 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "36 (n)",
+      "text": "50 Πρὸς πλούσιον μικρολόγον, ‘οὐχ οὗτος,‘ ἔφη, ‘τὴν οὐσίαν κέκτηται, ἀλλ’ ἡ οὐσία τοῦτον.‘ Diogenes Laertius 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "37 (n)",
+      "text": "50 Ἔλεγε τοὺς μικρολόγους τῶν μὲν ὑπαρχόντων ὡς ἰδίων ἐπιμελεῖσθαι, ὡς δ’ ἐξ ἀλλοτρίων μηδὲν ὠφελεῖσθαι. Stobaeus, Florilegium 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "38a (n)",
+      "text": "31c.87 Βίων ἔλεγε καταγελάστους εἶναι τοὺς σπουδάζοντας περὶ πλοῦτον, ὃν τύχη μὲν παρέχει, ἀνελευθερία δὲ φυλάττει, χρηστότης δὲ ἀφαιρεῖται. Arsenius, Violetum p.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "38b (n)",
+      "text": "149 Walz Βίων ὁ Βορεισθενίτης ἔλεγε καταγελάστους εἶναι τοὺς σπουδάζοντας περὶ τὸν πλοῦτον, ὃν τύχη μὲν παρέχει, ἀνελευθερία δὲ φυλάττει, χρηστότης δὲ ἀφαιρεῖται. Maximus Confessor, Loci communes Sermo 12 (= PG, 91 col.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "38c (n)",
+      "text": "800 C) Βίων καταγελάστους ἔλεγεν τοὺς σπουδάζοντας περὶ τὸν πλοῦτον, ὃν τύχη μὲν παρέχει, ἀνελευθερία δὲ φυλάττει, χρηστότης δὲ ἀφαιρεῖται. Favorinus, Florilegium ap.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "39a (n1)",
+      "text": "Cod. Par. Gr. 1168 no. 6 p. 412 Freudenthal (= Corpus Parisinum 367 Elter = fr. 115 Barigazzi) Βίων ὁ περιπατητικὸς ‘τὰ χρήματα,‘ ἔφη, ‘τοῖς πλουσίοις οὐ δεδώρηται, ἀλλὰ δεδάνεισται. Stobaeus, Florilegium 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "39b (n)",
+      "text": "41.56 Βίων ἔφη ‘τὰ χρήματα τοῖς πλουσίοις ἡ τύχη οὐ δεδώρηται, ἀλλὰ δεδάνεικεν.‘ Gnomologium Vaticanum 161 Βίων ὁ περιπατητικὸς ‘τὰ χρήματα,‘ ἔφη, ‘τοῖς πλουσίοις ἡ τύχη οὐ δεδώρηκεν, ἀλλὰ δεδάνεικεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "39c (n)",
+      "text": "‘ Arsenius, Violetum p.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "39d (n)",
+      "text": "150 Walz Ὁ αὐτὸς ἔφη, ‘τὰ χρήματα τοῖς πολλοῖς ἡ τύχη οὐ δεδώρηται, ἀλλὰ δεδάνεικεν.‘ Diogenes Laertius 2.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "40a (n)",
+      "text": "77 (= fr. 68A Mannebach) Τοῦ δὲ θεράποντος ἐν ὁδῷ βαστάζοντος ἀργύριον καὶ βαρυνομένου, ὥς φασιν οἱ περὶ τὸν Βίωνα ἐν ταῖς διατριβαῖς, ‘ἀπόχεε,‘ ἔφη (sc. Ἀρίστιππος), ‘τὸ πλέον καὶ ὅσον δύνασαι βάσταζε.‘ Arsenius, Violetum p.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "40b (n)",
+      "text": "116 Walz Ὁ αὐτὸς (sc. Ἀρίστιππος) τοῦ θεράποντος ἐν ὁδῷ βαστάζοντος ἀργύριον καὶ βαρυνομένου, ὥς φασιν οἱ περὶ τὸν Βίωνα ἐν ταῖς διατριβαῖς, ‘ἀπόχεε,‘ ἔφη, ‘τὸ πλέον, ὅσον δύνασαι, βάσταζε.‘ Teles ap.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "41 (n)",
+      "text": "Stobaeum, Florilegium 4.33.31 (= fr. IV a , p. 36.6—9 Hense) Καὶ πῶς σπανίζουσιν οὗτοι τούτων ἃ ἔχουσι;—Πῶς δὲ οἱ τραπεζῖται, φησὶν ὁ Βίων, χρημάτων, ἔχοντες αὐτά; οὐ γὰρ αὑτῶν ὄντα ἔχουσιν οὐδὲ ἄρα οὗτοι αὑτῶν. Stobaeus, Florilegium 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "42a (n)",
+      "text": "31a.33 Βίων ἔλεγεν, ὥσπερ τὰ φαῦλα τῶν βαλλαντίων, κἀν μηδενὸς ᾖ ἄξια, τοσούτου ἐστὶν ἄξια ὅσον ἐν ἑαυτοῖς τὸ νόμισμα ἔχει, οὕτω καὶ τῶν πλουσίων τοὺς οὐδενὸς ἀξίους καρποῦσθαι τὰς ἀξίας ὧν κέκτηνται. Arsenius, Violetum p.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "42b (n)",
+      "text": "149 Walz Ὁ αὐτὸς ἔλεγεν, ὥσπερ τὰ φαῦλα τῶν βαλαντίων, κἂν μηδενὸς ᾖ ἄξια, τοσούτου εἰσὶν ἄξια, ὅσον ἐν ἑαυτοῖς τὸ νόμισμα ἔχουσιν, οὕτω καὶ τῶν πλουσίων τοὺς οὐδενὸς ἀξίους καρποῦσθαι τὰς ἀξίας ὧν κέκτηνται. Stobaeus, Florilegium 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "43a (n)",
+      "text": "5.23 Βίων ἔφη τὸν ἀγαθὸν ἄρχοντα παυόμενον τῆς ἀρχῆς μὴ πλουσιώτερον ἀλλ’ ἐνδοξότερον γεγονέναι. Arsenius, Violetum p.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "43b (n)",
+      "text": "150 Walz Ὁ αὐτὸς ἔλεγε, δεῖ τὸν ἄρχοντα παυόμενον τῆς ἀρχῆς μὴ πλουσιώτερον, ἀλλ’ ἐνδοξότερον γεγονέναι Diogenes Laertius 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "45 (n)",
+      "text": "48 Πρὸς τὸν τὰ χωρία κατεδηδοκότα, ‘τὸν μὲν Ἀμφιάραον‘, ἔφη, ‘ἡ γῆ κατέπιε, σὺ δὲ τὴν γῆν.‘ Diogenes Laertius 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "46 (n)",
+      "text": "48 Τὸν πλοῦτον νεῦρα πραγμάτων. Stobaeus, Florilegium 3.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "47a (n)",
+      "text": "38.50 Βίων ὁ σοφιστὴς ἰδών τινα φθονερὸν σφόδρα κεκυφότα εἶπεν ‘ἢ τούτῳ μέγα κακὸν συμβέβηκεν ἢ ἄλλῳ μέγα ἀγαθόν.‘ Gnomologium Vaticanum 158 Ὁ αὐτὸς ἰδών τινα φθονερὸν σφόδρα συγκεχυμένον ‘ἀδύνατον,‘ εἶπεν, ‘εἰ μὴ τούτῳ μέγα κακὸν γέγονεν ἢ ἄλλῳ 〈μέγα〉 ἀγαθόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "47b (n)",
+      "text": "‘ Gnomologium Parisinum 242 Βίων ἰδών τινα φθονερὸν σφόδρα κεκυφότα εἶπεν ‘ἢ τούτῳ μέγα κακὸν συμβέβηκεν ἢ ἄλλῳ μέγα ἀγαθόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "47c (n)",
+      "text": "‘ Arsenius, Violetum p.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "47d (n)",
+      "text": "150 Walz Ὁ αὐτὸς ἰδών τινα φθονερὸν σφόδρα κεκυφότα εἶπεν ‘ἢ τούτῳ μέγα κακὸν συμβέβηκεν, ἢ ἄλλῳ μέγα ἀγαθόν.‘ Antonius Melissa, Loci communes I Sermo 62 (= PG, 136 col.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "47e (n)",
+      "text": "969 B) Βίων ὁ σοφιστὴς, ἰδών τινα φθονερὸν σφόδρα κεκυφότα, εἶπεν ‘ἢ τούτῳ μέγα κακὸν συμβέβηκεν, ἢ ἄλλῳ μέγα ἀγαθόν.‘ Maximus Confessor, Loci communes Sermo 54 (= PG, 91 col.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "47f (n)",
+      "text": "962 B) Βίων ὁ σοφιστὴς, ἰδών τινα φθονερὸν σφόδρα κεκυφότα, εἶπεν ‘ἢ τούτῳ μέγα κακὸν συμβέβηκεν, ἢ ἄλλῳ μέγα ἀγαθόν.‘ Diogenes Laertius 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "48 (n)",
+      "text": "51 Πρὸς τὸν βάσκανον ἐσκυθρωπακότα, ‘οὐκ οἶδα,‘ ἔφη, ‘πότερον σοι κακὸν γέγονεν ἢ ἄλλῳ ἀγαθόν.‘ Diogenes Laertius 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "49 (n)",
+      "text": "51 Τοὺς φίλους ὁποῖοι ἂν ὦσι συντηρεῖν, ἵνα μὴ δοκοίημεν πονηροῖς κεχρῆσθαι ἢ χρηστοὺς παρῃτῆσθαι. Plutarchus, Quomodo adulator ab amico internoscatur 16.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "50 (n)",
+      "text": "59 A Εὐήθη τοίνυν καὶ ἀβέλτερα τὰ τοῦ Βίωνος ‘εἰ τὸν ἀγρὸν ἔμελλεν ἐγκωμιάζων εὔφορον ποιεῖν καὶ εὔκαρπον, οὐκ ἂν ἁμαρτάνειν ἐδόκει τοῦτο ποιῶν μᾶλλον ἢ σκάπτων καὶ πράγματα ἔχων· οὐ τοίνυν οὐδ’ ἄνθρωπον ἄτοπος ἂν εἴη ἐπαινῶν, εἰ τοῖς ἐπαινοῦσιν ὠφέλιμός ἐστιν καὶ πάμφορος.‘ ὁ μὲν γὰρ ἀγρὸς οὐ γίνεται χείρων ἐπαινούμενος, ἄνθρωπον δὲ τυφοῦσι καὶ ἀπολλύουσιν οἱ ψευδῶς καὶ παρ’ ἀξίαν ἐπαινοῦντες. Plutarchus, De vitioso pudore 18.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "51 (n)",
+      "text": "536 A Οἱ τὰ ὦτα τοῖς κολακεύουσι παραδιδόντες ... διὸ καὶ Βίων ἀπείκαζε τοὺς τοιούτους ἀμφορεῦσιν ἀπὸ τῶν ὤτων ῥᾳδίως μεταφερομένοις. Plutarchus, Quomodo adulescens poetas audire debeat 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "52a (n)",
+      "text": "22 A Χάριεν δὲ καὶ τὸ τοῦ Βίωνος πρὸς τὸν Θέογνιν λέγοντα ‘πᾶς γὰρ ἀνὴρ πενίῃ δεδμημένος οὔτε τι εἰπεῖν οὔθ’ ἕρξαι δύναται, γλῶσσα δέ οἱ δέδεται‘ (Theognis 177—178) ‘πῶς οὖν σὺ πένης ὢν φλυαρεῖς τοσαῦτα καὶ καταδολεσχεῖς ἡμῶν;‘ Arsenius, Violetum p.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "52b (n)",
+      "text": "149 Walz Ὁ αὐτὸς πρὸς τὸν Θέογνιν λέγοντα ‘πᾶς γὰρ ἀνὴρ πενίῃ δεδμημένος οὔτε τι εἰπεῖν οὔθ’ ἕρξαι δύναται, γλῶσσα δέ οἱ δέδεται‘ ‘πῶς σὺ πένης ὤν,‘ ἔφη, ‘φλυαρεῖς τοσαῦτα καὶ καταδολεσχεῖς ἡμῶν;‘ Diogenes Laertius 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "53 (n)",
+      "text": "51 Τὴν †δυσσέβειαν πονηρὸν ἔλεγεν εἶναι σύνοικον τῇ παρρησίᾳ· δουλοῖ γὰρ ἄνδρα, κἂν θρασύσπλαγχνός τις ᾖ (Euripides Hipp. 424). Diogenes Laertius 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "54 (n)",
+      "text": "48 Τὸ κάλλος ἀλλότριον ἀγαθόν. Stobaeus, Florilegium 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "55 (n)",
+      "text": "21b.23 Βίων πρὸς τοὺς λέγοντας ὅτι [τὸ κάλλος] τυραννίδα ἔχει τὸ κάλλος, ‘φεῦ,‘ ἔλεγε, ‘τυραννίδος τριχὶ καταλυομένης.‘ Plutarchus Amatorius 24.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "56 (n)",
+      "text": "770 B Ἔτι δὲ φορτικώτερον ὁ σοφιστὴς Βίων τὰς τῶν καλῶν τρίχας Ἁρμοδίους ἐκάλει καὶ Ἀριστογείτονας, ὡς ἅμα καλῆς τυραννίδος ἀπαλλαττομένους ὑπ’ αὐτῶν τοὺς ἐραστάς. Diogenes Laertius 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "57 (n)",
+      "text": "49 Ἔλεγε δὲ συνεχὲς ὅτι αἱρετώτερόν ἐστι τὴν ὥραν ἄλλῳ χαρίζεσθαι ἢ ἀλλοτρίας ἀποδρέπεσθαι· καὶ γὰρ εἰς σῶμα βλάπτεσθαι καὶ εἰς ψυχήν. Diogenes Laertius 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "58 (n)",
+      "text": "47 Οἷον ὀνειδιζόμενος ἐπὶ τῷ μὴ θηρᾶσαι μειράκιον, ‘οὐχ οἷόν τε,‘ εἶπεν, ‘ἁπαλὸν τυρὸν ἀγκίστρῳ ἐπισπᾶσθαι.‘ Diogenes Laertius 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "59 (n)",
+      "text": "49 Διέβαλλε δὲ καὶ τὸν Σωκράτην, λέγων ὡς εἰ μὲν εἶχεν Ἀλκιβιάδου χρείαν καὶ ἀπείχετο, μάταιος ἦν· εἰ δὲ μὴ εἶχεν, οὐδὲν ἐποίει παράδοξον. Diogenes Laertius 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "60 (n)",
+      "text": "49 Τὸν Ἀλκιβιάδην μεμφόμενος ἔλεγεν ὡς νέος μὲν ὢν τοὺς ἄνδρας ἀπάγοι τῶν γυναικῶν, νεανίσκος δὲ γενόμενος τὰς γυναῖκας τῶν ἀνδρῶν. Diogenes Laertius 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "61a (n)",
+      "text": "48 Ἐρωτηθεὶς εἰ γήμαι—ἀναφέρεται γὰρ καὶ εἰς τοῦτον—ἔφη, ‘ἐὰν μὲν γήμῃς αἰσχράν, ἕξεις ποινήν· ἂν δὲ καλήν, ἕξεις κοινήν.‘ Codex Parisinus Graecus 1168 no.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "61b (n1)",
+      "text": "14, p. 413 Freudenthal (= Corpus Parisinum 375 Elter = Favorinus fr. 122 Barigazzi) Ἐρωτηθεὶς ὑπό τινος, εἰ γήμαι, ἔφη ‘ἐὰν μὲν αἰσχρὰν γήμῃς, ἕξεις ποινήν· ἐὰν δ’ ὡραίαν, ἕξεις κοινήν.‘ Diogenes Laertius 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "62a (n)",
+      "text": "48 Τὸ γῆρας ἔλεγεν ὅρμον εἶναι κακῶν· εἰς αὐτὸ γοῦν πάντα καταφεύγειν. Codex Parisinus Graecus 1168 no.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "62b (n1)",
+      "text": "15, p. 413 Freudenthal (= Corpus Parisinum 376 Elter = Favorinus fr. 11 Barigazzi) Τὸ γῆρας ἔλεγεν ὅρμον εἶναι κακῶν· εἰς αὐτὸ γοῦν πάντα καταφεύγει. Diogenes Laertius 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "63 (n)",
+      "text": "51 Μὴ δεῖν ἔφασκεν ὀνειδίζειν τὸ γῆρας, εἰς ὅ, ἔφη, πάντες εὐχόμεθα ἐλθεῖν. Gnomologium Vaticanum 163 Ὁ αὐτὸς ἔφη τὸ γῆρας λείψανον εἶναι τοῦ βίου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "65 (n)",
+      "text": "Diogenes Laertius 4.50 Τῇ μὲν ἀνδρείᾳ νέους ὄντας ἔφη χρῆσθαι, τῇ δὲ φρονήσει γηράσκοντας ἀκμάζειν. Diogenes Laertius 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "66 (n)",
+      "text": "49 Εὔκολον ἔφασκε τὴν εἰς ᾅδου ὁδόν· καταμύοντας γοῦν ἀπιέναι. Gnomologium Vaticanum 160 Βίων ἔλεγε δύο διδασκαλίας θανάτου εἶναι, τόν τε πρὸ τοῦ γενέσθαι χρόνον καὶ τὸν ὕπνον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "68 (n1)",
+      "text": "Teles, Περὶ αὐταρκείας ap. Stobaeum, Florilegium 3.1.98 (= fr. II, pp. 15.11—16.4 Hense) Καθάπερ καὶ ἐξ οἰκίας, φησὶν ὁ Βίων, ἐξοικιζόμεθα, ὅταν τὸ ἐνοίκιον ὁ μισθώσας οὐ κομιζόμενος τὴν θύραν ἀφέλῃ, τὸν κέραμον ἀφέλῃ, τὸ φρέαρ ἐγκλείσῃ, οὕτω, φησί, καὶ ἐκ τοῦ σωματίου ἐξοικίζομαι, ὅταν ἡ μισθώσασα φύσις τοὺς ὀφθαλμοὺς ἀφαιρῆται τὰ ὦτα τὰς χεῖρας τοὺς πόδας οὐχ ὑπομένω, ἀλλ’ ὥσπερ ἐκ συμποσίου ἀπαλλάττομαι οὐθὲν δυσχεραίνων, οὕτω καὶ ἐκ τοῦ βίου, ὅταν [ἡ] ὥρα ᾖ, ‘ἔμβα πορθμίδος ἕρμα.‘ Teles ap.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "70 (n)",
+      "text": "Stobaeum, Florilegium 3.40.8 (= fr. III p. 30.1—2 Hense) Ἀλλ’ ἡ περὶ ταφῆς ἀγωνία, φησὶν ὁ Βίων, πολλὰς τραγῳδίας ἐποίησεν. Diogenes Laertius 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "71 (n)",
+      "text": "48 Κατεγίνωσκε δὲ καὶ τῶν τοὺς ἀνθρώπους κατακαόντων μὲν ὡς ἀναισθήτους, παρακαόντων δὲ ὡς αἰσθανομένοις. Athenaeus 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "73 (n)",
+      "text": "162 D (= fr. 452 SVF I) Χαριέντως γὰρ ἔφη Βίων ὁ Βορυσθενίτης θεασάμενος αὐτοῦ (sc. Περσαίου) χαλκῆν εἰκόνα, ἐφ’ ἧς ἐπεγέγραπτο ‘Περσαῖον Ζήνωνος Κιτιᾶ,‘ πεπλανῆσθαι εἶπε τὸν ἐπιγράψαντα· δεῖν γὰρ οὕτως ἔχειν ‘Περσαῖον Ζήνωνος οἰκετιᾶ.‘ ἦν γὰρ ὄντως οἰκέτης γεγονὼς τοῦ Ζήνωνος, ὡς Νικίας ὁ Νικαεὺς ἱστορεῖ ἐν τῇ περὶ τῶν φιλοσόφων ἱστορίᾳ καὶ Σωτίων ὁ Ἀλεξανδρεὺς ἐν ταῖς Διαδοχαῖς. Diogenes Laertius 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "74 (n)",
+      "text": "50 Πρὸς τὸν ἀδολέσχην λιπαροῦντα αὐτῷ συλλαβέσθαι, ‘τὸ ἱκανόν σοι ποιήσω,‘ φησίν, ‘ἐὰν παρακλήτους πέμψῃς καὶ αὐτὸς μὴ ἔλθῃς.‘ Gnomologium Vaticanum 157 Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος διὰ τί αὐτὸν οὐκ ὠφελεῖ τὰ ὑπ’ αὐτοῦ λεγόμενα ‘οὐδὲ γὰρ αἱ πυξίδες,‘ εἶπεν, ‘αἱ τὰ χρηστότατα φάρμακα ἔχουσαι ἀπ’ αὐτῶν ὠφελοῦνται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "75 (n)",
+      "text": "‘ Plutarchus, De sollertia animalium 7.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "76 (n)",
+      "text": "965 A—B Τὸν γὰρ παίζοντα καὶ τερπόμενον οἶμαι συμπαίζουσι δεῖν χρῆσθαι καὶ ἱλαροῖς, οὐχ ὥσπερ ὁ Βίων ἔλεγε τὰ παιδάρια παίζοντα τῶν βατράχων τοῖς λίθοις ἐφίεσθαι, τοὺς δὲ βατράχους μηκέτι παίζοντας ἀλλ’ ἀληθῶς ἀποθνήσκειν. Gnomologium Vaticanum 159 Ὁ αὐτὸς ζητήσεως γενομένης παρὰ πότον ἰδὼν νεανίσκον σιγῶντα εἶπεν ‘εἰ μὲν πεπαιδευμένος σιωπᾷς, ἀπαίδευτος εἶ εἰ δὲ ἀπαίδευτος ὤν, πεπαίδευσαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "77 (n)",
+      "text": "‘ Stobaeus, Eclogae 2.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "78a (n)",
+      "text": "31.97 Βίων ἔλεγε κατὰ Ἡσίοδον τρία γένη εἶναι μαθητῶν, χρυσοῦν, ἀργυροῦν, χαλκοῦν· χρυσοῦν μὲν τὸ τῶν διδόντων καὶ [μὴ] μανθανόντων· ἀργυροῦν δὲ τὸ τῶν διδόντων καὶ 〈μὴ〉 μανθανόντων· χαλκοῦν δὲ τὸ τῶν μανθανόντων μέν, οὐ διδόντων δέ. Ioannes Damascenus, Excerptae Florentinae 2.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "78b (n)",
+      "text": "13.97, p. 202 Meineke Βίων ἔλεγε κατὰ Ἡσίοδον τρία γένη εἶναι μαθητῶν, χρυσοῦν, ἀργυροῦν, χαλκοῦν· χρυσοῦν μὲν τὸ τῶν διδόντων καὶ μανθανόντων, ἀργυροῦν δὲ τὸ τῶν διδόντων καὶ μὴ μανθανόντων, χαλκοῦν δὲ τὸ τῶν μανθανόντων μέν, οὐ διδόντων δέ. Diogenes Laertius 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "79 (n)",
+      "text": "50 Πλέων μετὰ πονηρῶν λῃσταῖς περιέπεσε· τῶν δέ, ‘ἀπολώλαμεν,‘ εἰπόντων, ‘ἐὰν γνωσθῶμεν,‘ ‘ἐγὼ δέ γε,‘ φησίν, ‘ἐὰν μὴ γνωσθῶμεν.‘ Gnomologium Vaticanum 156 Βίων ἐρωτηθείς ‘πότε χρὴ ἀριστᾶν;‘ ἔφη ‘τοὺς μὲν πλουσίους, ὄταν θέλωσι, τοὺς δὲ πένητας, ὅταν ἔχωσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "80 (n)",
+      "text": "‘ Hegesander ap.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "81 (n)",
+      "text": "Athenaeum 8.344 A (= fr. 19 FHG IV p. 417) Βίων δὲ προαρπάσαντός τινος τὰ ἐπάνω τοῦ ἰχθύος στρέψας καὶ αὐτὸς καὶ δαψιλῶς φαγὼν ἐπεῖπεν· Ἰνὼ δὲ τἀπὶ θάτερ’ ἐξειργάζετο (Euripides Bacchae 1129).",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "hks-ab",
+      "title": {
+        "english": "Fragments on Archytas",
+        "ancient_greek": "Αποσπάσματα"
+      },
+      "url_slug": "bion-of-borysthenes-archytas-fragments-hks-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/bion-of-borysthenes/archytas-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-borysthenes-archytas-fragments-hks-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-borysthenes-archytas-fragments-hks-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-borysthenes-archytas-fragments-hks-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-borysthenes-archytas-fragments-hks-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-borysthenes/archytas-fragments.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "uxc-al",
+      "title": {
+        "english": "Commentary on On Generation and Corruption",
+        "ancient_greek": "Σχόλια εἰς τὰ περὶ γενέσεως καὶ φθορᾶς"
+      },
+      "url_slug": "john-philoponus-of-alexandria-commentary-aristotle-al-uxc-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-philoponus-of-alexandria/commentary-aristotle-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-al-uxc-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-al-uxc-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-al-uxc-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-al-uxc-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/commentary-aristotle-al.epub"
+      }
+    },
+    {
+      "eul_wid": "flo-aa",
+      "title": {
+        "english": "Fragments on Aristotelian Philosophy",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἀριστοτελικῆς Φιλοσοφίας"
+      },
+      "url_slug": "phaenias-of-eresus-aristotelian-philosophy-flo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/phaenias-of-eresus/aristotelian-philosophy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaenias-of-eresus-aristotelian-philosophy-flo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaenias-of-eresus-aristotelian-philosophy-flo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaenias-of-eresus-aristotelian-philosophy-flo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaenias-of-eresus-aristotelian-philosophy-flo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaenias-of-eresus/aristotelian-philosophy.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-ek",
+      "title": {
+        "english": "Marcellus",
+        "ancient_greek": "Μάρκελλος"
+      },
+      "url_slug": "plutarch-of-chaeronea-marcellus-okg-ek",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/marcellus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-marcellus-okg-ek.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-marcellus-okg-ek.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-marcellus-okg-ek.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-marcellus-okg-ek.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/marcellus.epub"
+      }
+    },
+    {
+      "eul_wid": "ljk-ad",
+      "title": {
+        "english": "On the Causes of Plants",
+        "ancient_greek": "Περὶ τῶν αἰτιῶν τῶν φυτῶν"
+      },
+      "url_slug": "theophrastus-of-eresus-causes-plants-ad-ljk-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/causes-plants-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-causes-plants-ad-ljk-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-causes-plants-ad-ljk-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-causes-plants-ad-ljk-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-causes-plants-ad-ljk-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/causes-plants-ad.epub"
+      }
+    },
+    {
+      "eul_wid": "uxc-an",
+      "title": {
+        "english": "On the Eternity of the World",
+        "ancient_greek": "Περὶ τῆς τοῦ κόσμου ἀϊδιότητος"
+      },
+      "url_slug": "john-philoponus-of-alexandria-eternity-world-uxc-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-philoponus-of-alexandria/eternity-world",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-eternity-world-uxc-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-eternity-world-uxc-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-eternity-world-uxc-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-eternity-world-uxc-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/eternity-world.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-fq",
+      "title": {
+        "english": "Otho",
+        "ancient_greek": "Ὄθων"
+      },
+      "url_slug": "plutarch-of-chaeronea-otho-okg-fq",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/otho",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-otho-okg-fq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-otho-okg-fq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-otho-okg-fq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-otho-okg-fq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/otho.epub"
+      }
+    },
+    {
+      "eul_wid": "dmu-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "diotimus-of-tyre-testimonies-dmu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/diotimus-of-tyre/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-tyre-testimonies-dmu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-tyre-testimonies-dmu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-tyre-testimonies-dmu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-tyre-testimonies-dmu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-tyre/testimonies.epub"
+      }
+    },
+    {
+      "eul_wid": "ayq-ac",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Τῶν ἑπτὰ σοφῶν"
+      },
+      "url_slug": "seven-sages-of-greece-testimonies-ayq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/seven-sages-of-greece/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-testimonies-ayq-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-testimonies-ayq-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-testimonies-ayq-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-testimonies-ayq-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/testimonies.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/bion-of-borysthenes/philosophical-autobiography",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-borysthenes-philosophical-autobiography-hks-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-borysthenes-philosophical-autobiography-hks-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-borysthenes-philosophical-autobiography-hks-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-borysthenes-philosophical-autobiography-hks-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-borysthenes/philosophical-autobiography.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

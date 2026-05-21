@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "csk",
+  "auth_slug": "xanthus-the-lydian",
+  "name": {
+    "english": "Xanthus the Lydian Historian",
+    "ancient_greek": "Ξάνθος ὁ Λυδός"
+  },
+  "seo_h1": "Xanthus the Lydian on History and Origins",
+  "seo": {
+    "browser_title": "Xanthus the Lydian Historian on Eulogikon Greek Archive",
+    "meta_title": "Classical Xanthus the Lydian Ancient Greek Historical Works",
+    "meta_description": "Xanthus the Lydian, a 5th century BCE historian. Surviving historical works on Lydia and its history. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Xanthus the Lydian was a native Lydian historian of the mid-5th century BCE and a contemporary of Herodotus. Later testimonia indicate he lived through the Persian invasion of Greece and into the period of the Peloponnesian War. He wrote in the Ionic dialect, consistent with early Greek historiography, though no details of his personal life or education survive.</p>\n<p class=\"research-text\">His major work was the <strong>Lydiaca</strong>, a four-volume history covering Lydian mythology, geography, customs, and royal history from the mythical era to his own time. A second work, the <strong>Magica</strong>, addressed the Magi and Persian religion. Both texts are lost, preserved only in fragments cited by later authors such as Strabo and Athenaeus.</p>\n<p class=\"research-text\">Xanthus provided a crucial native perspective on Lydian history and culture. His work served as a source for later historians, including Herodotus, and his fragments remain valuable for studying Greek historiography and ancient Near Eastern history. His accounts of the Magi contributed to the early Greek understanding of Zoroastrianism.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "csk-aa",
+      "title": {
+        "english": "Lydian History and Origins",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "xanthus-the-lydian-history-origins-csk-aa",
+      "passages": 35,
+      "links": {
+        "html": "https://eulogikon.org/grc/xanthus-the-lydian/history-origins",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian-history-origins-csk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian-history-origins-csk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian-history-origins-csk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian-history-origins-csk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian/history-origins.epub"
+      }
+    },
+    {
+      "eul_wid": "csk-ab",
+      "title": {
+        "english": "On the River Aryos",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "xanthus-the-lydian-river-aryos-csk-ab",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/xanthus-the-lydian/river-aryos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian-river-aryos-csk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian-river-aryos-csk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian-river-aryos-csk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian-river-aryos-csk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian/river-aryos.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/xanthus-the-lydian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/xanthus-the-lydian-csk.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/xanthus-the-lydian-csk.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/xanthus-the-lydian-csk.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/xanthus-the-lydian-csk.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,294 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "kog-ac",
+  "eul_aid": "kog",
+  "author_slug": "euphorion-of-chalcis",
+  "work_slug": "epigrams",
+  "url_slug": "euphorion-of-chalcis-epigrams-kog-ac",
+  "author": {
+    "english": "Euphorion of Chalcis",
+    "ancient_greek": "Εὐφορίων ὁ Χαλκιδεύς"
+  },
+  "title": {
+    "english": "Epigrams",
+    "ancient_greek": "Ἐπιγράμματα"
+  },
+  "seo": {
+    "browser_title": "Fragments of Euphorion of Chalcis on Eulogikon Archive",
+    "meta_title": "Fragments by Euphorion of Chalcis in Ancient Greek",
+    "meta_description": "Surviving fragments of the Epigrams, short elegiac poems by Hellenistic poet Euphorion. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Epigrams constitute a collection of short elegiac poems ascribed to the Hellenistic poet and scholar Euphorion of Chalcis, active in the third century BCE. The work survives only in a fragmentary state, its original extent and arrangement now lost. The poems are preserved exclusively through quotations found in the works of later Greek and Roman authors. Reflecting Euphorion&#x27;s broader literary reputation, these epigrams are characterized by a dense, allusive, and erudite style, designed to appeal to a sophisticated and learned audience. Their typical subject matter encompasses mythological lore, aetiological narratives explaining origins, and erotic themes, all rendered in a refined and often deliberately obscure diction. Despite their fragmentary preservation, Euphorion&#x27;s poetry, including these epigrams, exerted a considerable influence on subsequent Roman literature, notably on poets such as Catullus and Virgil, who admired his recondite and learned approach.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 279.1.1",
+      "text": "Πρώτας ὁππότ’ ἔπεξε καλὰς Εὔδοξος ἐθείρας,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 279.1.2",
+      "text": "Φοίβῳ παιδείην ὤπασεν ἀγλαΐην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 279.1.3",
+      "text": "ἀντὶ δέ οἱ πλοκαμῖδος, Ἑκηβόλε, κάλλος ἐπείη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 279.1.4",
+      "text": "ὡχαρνῆθεν ἀεὶ κισσὸς ἀεξόμενος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 651.1.1",
+      "text": "Οὐχ ὁ τρηχὺς ἔλαιος ἐπ’ ὀστέα κεῖνα καλύπτει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 651.1.2",
+      "text": "οὐδ’ ἡ κυάνεον γράμμα λαβοῦσα πέτρη·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 651.1.3",
+      "text": "ἀλλὰ τὰ μὲν Δολίχης τε καὶ αἰπεινῆς Δρακάνοιο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 651.1.4",
+      "text": "Ἰκάριον ῥήσσει κῦμα περὶ κροκάλαις·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 651.5",
+      "text": "ἀντὶ δ’ ἐγὼ ξενίης Πολυμήδεος ἡ κεινὴ χθὼν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 651",
+      "text": "ὠγκώθην Δρυόπων διψάσιν ἐν βοτάναις.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "kog-ab",
+      "title": {
+        "english": "Fragments on Ajax and Myth",
+        "ancient_greek": "Ἀποσπάσματα περὶ Αἴαντος καὶ Μύθου"
+      },
+      "url_slug": "euphorion-of-chalcis-ajax-myth-kog-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/euphorion-of-chalcis/ajax-myth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis-ajax-myth-kog-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis-ajax-myth-kog-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis-ajax-myth-kog-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis-ajax-myth-kog-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis/ajax-myth.epub"
+      }
+    },
+    {
+      "eul_wid": "kog-aa",
+      "title": {
+        "english": "Fragments on Myth and Divinity",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μύθου καὶ Θειότητος"
+      },
+      "url_slug": "euphorion-of-chalcis-myth-divinity-kog-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/euphorion-of-chalcis/myth-divinity",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis-myth-divinity-kog-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis-myth-divinity-kog-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis-myth-divinity-kog-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis-myth-divinity-kog-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis/myth-divinity.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "uuu-aa",
+      "title": {
+        "english": "Abduction of Helen",
+        "ancient_greek": "Ἁρπαγὴ Ἑλένης"
+      },
+      "url_slug": "colluthus-of-lycopolis-abduction-of-helen-uuu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/colluthus-of-lycopolis/abduction-of-helen",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/colluthus-of-lycopolis-abduction-of-helen-uuu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/colluthus-of-lycopolis-abduction-of-helen-uuu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/colluthus-of-lycopolis-abduction-of-helen-uuu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/colluthus-of-lycopolis-abduction-of-helen-uuu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/colluthus-of-lycopolis/abduction-of-helen.epub"
+      }
+    },
+    {
+      "eul_wid": "bsq-aa",
+      "title": {
+        "english": "Alcmaeonis Fragments",
+        "ancient_greek": "Ἀλκμαίωνος Ἀποσπάσματα"
+      },
+      "url_slug": "epic-anonymous-i-alcmaeon-bsq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-anonymous-i/alcmaeon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-anonymous-i-alcmaeon-bsq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-anonymous-i-alcmaeon-bsq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-anonymous-i-alcmaeon-bsq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-anonymous-i-alcmaeon-bsq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-anonymous-i/alcmaeon.epub"
+      }
+    },
+    {
+      "eul_wid": "jqa-ab",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "nicaenetus-of-samos-epigrams-jqa-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicaenetus-of-samos/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicaenetus-of-samos-epigrams-jqa-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicaenetus-of-samos-epigrams-jqa-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicaenetus-of-samos-epigrams-jqa-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicaenetus-of-samos-epigrams-jqa-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicaenetus-of-samos/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "mcq-aa",
+      "title": {
+        "english": "Fragments on Abraham and Patriarchs",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀβραὰμ καὶ τῶν Πατριαρχῶν"
+      },
+      "url_slug": "philo-of-alexandria-the-elder-abraham-patriarchs-mcq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria-the-elder/abraham-patriarchs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-the-elder-abraham-patriarchs-mcq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-the-elder-abraham-patriarchs-mcq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-the-elder-abraham-patriarchs-mcq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-the-elder-abraham-patriarchs-mcq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-the-elder/abraham-patriarchs.epub"
+      }
+    },
+    {
+      "eul_wid": "aak-aa",
+      "title": {
+        "english": "Fragments on Hermes",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἑρμοῦ"
+      },
+      "url_slug": "epic-fragments-anonymous-ii-hermes-aak-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous-ii/hermes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-ii-hermes-aak-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-ii-hermes-aak-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-ii-hermes-aak-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-ii-hermes-aak-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-ii/hermes.epub"
+      }
+    },
+    {
+      "eul_wid": "kaa-aa",
+      "title": {
+        "english": "Fragments on Makynna and Desire",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μακύννης καὶ Ἔρωτος"
+      },
+      "url_slug": "archytas-of-amphissa-makynna-desire-kaa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/archytas-of-amphissa/makynna-desire",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-amphissa-makynna-desire-kaa-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-amphissa-makynna-desire-kaa-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-amphissa-makynna-desire-kaa-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-amphissa-makynna-desire-kaa-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-amphissa/makynna-desire.epub"
+      }
+    },
+    {
+      "eul_wid": "gwm-ab",
+      "title": {
+        "english": "On Mortality and Transience",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "choerilus-of-iasus-mortality-transience-gwm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/choerilus-of-iasus/mortality-transience",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus-mortality-transience-gwm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus-mortality-transience-gwm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus-mortality-transience-gwm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus-mortality-transience-gwm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus/mortality-transience.epub"
+      }
+    },
+    {
+      "eul_wid": "kjq-ad",
+      "title": {
+        "english": "encom-Heraclius the Leader",
+        "ancient_greek": "Ἐγκώμιον εἰς Ἡράκλειον τὸν ἡγεμόνα"
+      },
+      "url_slug": "epic-fragments-anonymous-heraclius-leader-kjq-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/heraclius-leader",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-heraclius-leader-kjq-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-heraclius-leader-kjq-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-heraclius-leader-kjq-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-heraclius-leader-kjq-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/heraclius-leader.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/euphorion-of-chalcis/epigrams",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis-epigrams-kog-ac.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis-epigrams-kog-ac.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis-epigrams-kog-ac.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis-epigrams-kog-ac.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis/epigrams.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "lao",
+  "auth_slug": "hypsicles-of-alexandria",
+  "name": {
+    "english": "Hypsicles of Alexandria",
+    "ancient_greek": "Ὑψικλῆς ὁ Ἀλεξανδρεύς"
+  },
+  "seo_h1": "Hypsicles of Alexandria on Spheres and Astronomy",
+  "seo": {
+    "browser_title": "Hypsicles of Alexandria on Eulogikon Greek Archive",
+    "meta_title": "Hypsicles of Alexandria Ancient Greek Scientific Works",
+    "meta_description": "Hypsicles of Alexandria, a Hellenistic mathematician and astronomer. Includes his treatise on polyhedra. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Hypsicles of Alexandria was a Hellenistic mathematician and astronomer active in the 2nd century BCE. Identified by his ethnonym, he worked within the intellectual milieu of Alexandria. His primary chronological anchor is the composition of what is now Book XIV of Euclid&#x27;s Elements, dated to around 150 BCE based on internal references.</p>\n<p class=\"research-text\">His two known works are the treatise forming Book XIV of Euclid&#x27;s Elements, which compares the regular dodecahedron and icosahedron, and the astronomical text Anaphoricus, or On the Ascension of Stars, which applies arithmetical progressions to the rising times of zodiacal signs.</p>\n<p class=\"research-text\">Hypsicles&#x27;s significance stems from his contributions to geometry and mathematical astronomy. Book XIV of the Elements is an important extension of solid geometry, preserved within the Euclidean corpus. His Anaphoricus helped transmit the division of the circle into 360 degrees to the Greco-Roman world, and its method for calculating rising times influenced later astronomers like Ptolemy.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "lao-ab",
+      "title": {
+        "english": "Anaphoric",
+        "ancient_greek": "Ἀναφορικός"
+      },
+      "url_slug": "hypsicles-of-alexandria-anaphoric-lao-ab",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/hypsicles-of-alexandria/anaphoric",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypsicles-of-alexandria-anaphoric-lao-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypsicles-of-alexandria-anaphoric-lao-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypsicles-of-alexandria-anaphoric-lao-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypsicles-of-alexandria-anaphoric-lao-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypsicles-of-alexandria/anaphoric.epub"
+      }
+    },
+    {
+      "eul_wid": "lao-aa",
+      "title": {
+        "english": "Hypsicles' Book or Elements Book XIV",
+        "ancient_greek": "Βιβλίον Ὑψικλέους ἢ Στοιχεῖα Βιβλίον ΙΔʹ"
+      },
+      "url_slug": "hypsicles-of-alexandria-elements-book-14-lao-aa",
+      "passages": 14,
+      "links": {
+        "html": "https://eulogikon.org/grc/hypsicles-of-alexandria/elements-book-14",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypsicles-of-alexandria-elements-book-14-lao-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypsicles-of-alexandria-elements-book-14-lao-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypsicles-of-alexandria-elements-book-14-lao-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypsicles-of-alexandria-elements-book-14-lao-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypsicles-of-alexandria/elements-book-14.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/hypsicles-of-alexandria",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hypsicles-of-alexandria-lao.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hypsicles-of-alexandria-lao.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hypsicles-of-alexandria-lao.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hypsicles-of-alexandria-lao.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

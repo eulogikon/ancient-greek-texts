@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "tag",
+  "auth_slug": "dionysius-the-voyager-lives",
+  "name": {
+    "english": "Dionysius the Voyager Lives",
+    "ancient_greek": "Διονυσίου τοῦ Περιηγητοῦ Βίοι"
+  },
+  "seo_h1": "Life of Dionysius by Dionysius the Voyager",
+  "seo": {
+    "browser_title": "Dionysius the Voyager on Eulogikon Greek Archive Library",
+    "meta_title": "Classical Dionysius the Voyager Ancient Greek Biography",
+    "meta_description": "Dionysius the Voyager, a Byzantine Greek author of Late Antique biography. Works include the Lives. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Βυζαντινὴ Ἑλληνική",
+      "english": "Byzantine Greek",
+      "href": "/dialects/byz"
+    },
+    {
+      "label": "Domain",
+      "greek": "Βίος",
+      "english": "Biography",
+      "href": "/domains/biography"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">No biographical information about an author named Dionysius the Voyager or a work titled Lives by such an author is attested in standard reference works. The provided dates spanning the 12th to 15th centuries CE cover the later Byzantine period, but no figure matching this description is documented.</p>\n<p class=\"research-text\">The name Dionysius the Voyager, or Periegetes, is historically associated with earlier figures, most notably a 2nd-century CE geographical poet, none of whom are known for a biographical work titled Lives. The work Lives is attributed in the query, but its status and content are not found in the consulted sources.</p>\n<p class=\"research-text\">The significance of this purported author and work cannot be determined. If it existed within the stated chronological range, it would belong to the context of later Byzantine biographical literature, but it remains absent from major digital collections and scholarly encyclopedias.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "tag-aa",
+      "title": {
+        "english": "Life of Dionysius",
+        "ancient_greek": "Βίος Διονυσίου"
+      },
+      "url_slug": "dionysius-the-voyager-lives-life-tag-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-the-voyager-lives/life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-voyager-lives-life-tag-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-voyager-lives-life-tag-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-voyager-lives-life-tag-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-voyager-lives-life-tag-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-voyager-lives/life.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/dionysius-the-voyager-lives",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-the-voyager-lives-tag.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-the-voyager-lives-tag.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-the-voyager-lives-tag.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-the-voyager-lives-tag.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

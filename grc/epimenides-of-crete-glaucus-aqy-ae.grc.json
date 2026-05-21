@@ -1,0 +1,263 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "aqy-ae",
+  "eul_aid": "aqy",
+  "author_slug": "epimenides-of-crete",
+  "work_slug": "glaucus",
+  "url_slug": "epimenides-of-crete-glaucus-aqy-ae",
+  "author": {
+    "english": "Epimenides of Crete",
+    "ancient_greek": "Ἐπιμενίδης ὁ Κρής"
+  },
+  "title": {
+    "english": "Fragments on Glaucus",
+    "ancient_greek": "Ἀποσπάσματα περὶ Γλαύκου"
+  },
+  "seo": {
+    "browser_title": "Fragments on Glaucus by Epimenides of Crete on Eulogikon",
+    "meta_title": "Fragments on Glaucus by Epimenides in Ancient Greek",
+    "meta_description": "Fragments on Glaucus by Cretan poet Epimenides. Archaic theological and poetic texts. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Glaucus</strong> is a lost work attributed to the semi-legendary Archaic seer and poet Epimenides of Crete. Known only by title from later testimonia, the work is not listed among the author&#x27;s writings by ancient doxographers such as Diogenes Laertius, and no direct quotations from it survive. The &quot;Glaucus&quot; referenced in the title is likely the prophetic sea-deity, a figure consistent with Epimenides&#x27;s known interests in theology and ritual purification. While its precise content remains speculative, the work would have contained theological or mythological material related to this figure, potentially exploring themes of divine mythology and ritual practice. As a lost text, its direct influence is untraceable, but any work circulating under the name of Epimenides would have contributed to his enduring posthumous authority in matters of myth and ritual, a reputation later evidenced by his citation in the works of both Plato and the Apostle Paul.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "2bis (l1)",
+      "text": "PAP. OX. 2442 fr. 29, 5f. (s. 3 p.; vol. 26, 1961, 49f. [Taf. 3]; Schol. Pind. Pai. 8 p. 43 Snell—Mähler [1975]) ... Ἐπιμε ν ]ί̣δ̣η̣ς ̣ ] ˈ δ ̣ ’ ἐ̣ν̣ ξ Γε̣ [ νεαλο γ ]ι̣ῶν ὑπὸ Γλαύκου ἐρίσαντα (scil. Κλύμενον ἀναιρεθῆναι) τῶι ζ̣εύγει τ’ [...",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "aqy-ad",
+      "title": {
+        "english": "Oracles and Theological Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "epimenides-of-crete-oracles-fragments-aqy-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/epimenides-of-crete/oracles-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-oracles-fragments-aqy-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-oracles-fragments-aqy-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-oracles-fragments-aqy-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-oracles-fragments-aqy-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete/oracles-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "aqy-aa",
+      "title": {
+        "english": "Testimonies 1",
+        "ancient_greek": "Μαρτυρίαι Α'"
+      },
+      "url_slug": "epimenides-of-crete-testimonies-aqy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epimenides-of-crete/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-testimonies-aqy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-testimonies-aqy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-testimonies-aqy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-testimonies-aqy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete/testimonies.epub"
+      }
+    },
+    {
+      "eul_wid": "aqy-ab",
+      "title": {
+        "english": "Testimonies 2",
+        "ancient_greek": "Μαρτυρίαι Β'"
+      },
+      "url_slug": "epimenides-of-crete-testimonies-2-aqy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/epimenides-of-crete/testimonies-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-testimonies-2-aqy-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-testimonies-2-aqy-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-testimonies-2-aqy-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-testimonies-2-aqy-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete/testimonies-2.epub"
+      }
+    },
+    {
+      "eul_wid": "aqy-ac",
+      "title": {
+        "english": "Theological and Prophetic Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "epimenides-of-crete-theological-prophetic-aqy-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/epimenides-of-crete/theological-prophetic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-theological-prophetic-aqy-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-theological-prophetic-aqy-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-theological-prophetic-aqy-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-theological-prophetic-aqy-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete/theological-prophetic.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "bzo-ae",
+      "title": {
+        "english": "Fragments on Anacreon and Cotabus",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀνακρέοντος καὶ Κοτάβου"
+      },
+      "url_slug": "critias-of-athens-anacreon-cotabus-bzo-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/critias-of-athens/anacreon-cotabus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-anacreon-cotabus-bzo-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-anacreon-cotabus-bzo-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-anacreon-cotabus-bzo-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-anacreon-cotabus-bzo-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens/anacreon-cotabus.epub"
+      }
+    },
+    {
+      "eul_wid": "uzu-ab",
+      "title": {
+        "english": "On Aristotle's Categories, Commentary",
+        "ancient_greek": "Σχόλια εἰς τὰς κατηγορίας Ἀριστοτέλους"
+      },
+      "url_slug": "simplicius-of-cilicia-categories-commentary-uzu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/simplicius-of-cilicia/categories-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-categories-commentary-uzu-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-categories-commentary-uzu-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-categories-commentary-uzu-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-categories-commentary-uzu-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/categories-commentary.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-ea",
+      "title": {
+        "english": "On Fortune",
+        "ancient_greek": "Περὶ τύχης"
+      },
+      "url_slug": "plutarch-of-chaeronea-fortune-okg-ea",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/fortune",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-fortune-okg-ea.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-fortune-okg-ea.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-fortune-okg-ea.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-fortune-okg-ea.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/fortune.epub"
+      }
+    },
+    {
+      "eul_wid": "ffk-ak",
+      "title": {
+        "english": "Parmenides",
+        "ancient_greek": "Παρμενίδης"
+      },
+      "url_slug": "plato-parmenides-ffk-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/parmenides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-parmenides-ffk-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-parmenides-ffk-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-parmenides-ffk-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-parmenides-ffk-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/parmenides.epub"
+      }
+    },
+    {
+      "eul_wid": "hui-ac",
+      "title": {
+        "english": "Second Letter to Pythocles",
+        "ancient_greek": "Δευτέρα Ἐπιστολὴ πρὸς Πυθόκλεα"
+      },
+      "url_slug": "epicurus-letter-pythocles-hui-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicurus/letter-pythocles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-letter-pythocles-hui-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-letter-pythocles-hui-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-letter-pythocles-hui-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-letter-pythocles-hui-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/letter-pythocles.epub"
+      }
+    },
+    {
+      "eul_wid": "exs-aa",
+      "title": {
+        "english": "Testimonies and Fragments",
+        "ancient_greek": "Μαρτυρίαι καὶ Ἀποσπάσματα"
+      },
+      "url_slug": "hermodorus-of-ephesus-testimonies-fragments-exs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermodorus-of-ephesus/testimonies-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus-testimonies-fragments-exs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus-testimonies-fragments-exs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus-testimonies-fragments-exs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus-testimonies-fragments-exs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus/testimonies-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "sno-af",
+      "title": {
+        "english": "To Themistius the Philosopher",
+        "ancient_greek": "Θεμιστίῳ φιλοσόφῳ"
+      },
+      "url_slug": "julian-the-apostate-to-themistius-sno-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/julian-the-apostate/to-themistius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-to-themistius-sno-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-to-themistius-sno-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-to-themistius-sno-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-to-themistius-sno-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/to-themistius.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-cj",
+      "title": {
+        "english": "To an Uneducated Governor",
+        "ancient_greek": "Πρὸς ἡγεμόνα ἀπαίδευτον"
+      },
+      "url_slug": "plutarch-of-chaeronea-uneducated-governor-okg-cj",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/uneducated-governor",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-uneducated-governor-okg-cj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-uneducated-governor-okg-cj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-uneducated-governor-okg-cj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-uneducated-governor-okg-cj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/uneducated-governor.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/epimenides-of-crete/glaucus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-glaucus-aqy-ae.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-glaucus-aqy-ae.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-glaucus-aqy-ae.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-glaucus-aqy-ae.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete/glaucus.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

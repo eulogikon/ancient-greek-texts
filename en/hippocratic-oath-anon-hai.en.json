@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "hai",
+  "auth_slug": "hippocratic-oath-anon",
+  "name": {
+    "english": "Hippocratic Oath Anonymous",
+    "ancient_greek": "Ὅρκος ὁ Ἱπποκρατικός"
+  },
+  "seo_h1": "The Hippocratic Oath and the Ethics of Ancient Medicine",
+  "seo": {
+    "browser_title": "Hippocratic Oath Anonymous on Eulogikon Greek Archive",
+    "meta_title": "The Hippocratic Oath Anonymous Ancient Greek Works",
+    "meta_description": "Anonymous author of the foundational medical ethics text. The surviving Hippocratic Oath treatise. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Hippocratic Oath is a foundational text of medical ethics from ancient Greece. It was written anonymously, most likely in the late fifth or early fourth century BCE. Although traditionally linked to the physician Hippocrates of Cos, modern scholars agree he was not the actual author. The oath is part of the larger Hippocratic Corpus, a collection of medical works by various authors.</p>\n<p class=\"research-text\">The text reflects the ideals of a specific school or professional group of Greek doctors. Written in the Ionic dialect common to scientific works, it outlines a code of conduct for physicians entering the practice. Its principles include benefiting the patient, avoiding harm, maintaining confidentiality, and respecting patient privacy. Some of its specific prohibitions, such as those against surgery and abortion, suggest to some scholars a possible influence from Pythagorean philosophical circles. The oath also invokes Greek gods like Apollo, linking the medical craft to a sacred tradition.</p>\n<p class=\"research-text\">The historical importance of the oath is immense. It represents one of the earliest attempts to formalize a professional ethical identity for physicians, separating their craft from other types of healing. While its exact rules were not universally followed even in antiquity, its core ethical spirit has endured for over two millennia. The oath has been continuously adapted and reinterpreted, serving as the direct model for modern medical ethics codes like the Declaration of Geneva, and it remains a powerful symbol of the profession&#x27;s ideals.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "hai-aa",
+      "title": {
+        "english": "Medical Oath",
+        "ancient_greek": "Ὅρκος Ἰατρικός"
+      },
+      "url_slug": "hippocratic-oath-anon-medical-hai-aa",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocratic-oath-anon/medical",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocratic-oath-anon-medical-hai-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocratic-oath-anon-medical-hai-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocratic-oath-anon-medical-hai-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocratic-oath-anon-medical-hai-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocratic-oath-anon/medical.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/hippocratic-oath-anon",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hippocratic-oath-anon-hai.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hippocratic-oath-anon-hai.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hippocratic-oath-anon-hai.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hippocratic-oath-anon-hai.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

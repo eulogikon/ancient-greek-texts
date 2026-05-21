@@ -1,0 +1,516 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "udm-ae",
+  "eul_aid": "udm",
+  "author_slug": "porphyry-of-tyre",
+  "work_slug": "history-philosophy",
+  "url_slug": "porphyry-of-tyre-history-philosophy-udm-ae",
+  "author": {
+    "english": "Porphyry of Tyre",
+    "ancient_greek": "Πορφύριος ὁ Τύριος"
+  },
+  "title": {
+    "english": "Fragments of the History of Philosophy",
+    "ancient_greek": "Ἀποσπάσματα τῆς ἱστορίας τῆς φιλοσοφίας"
+  },
+  "seo": {
+    "browser_title": "Fragments of History of Philosophy by Porphyry on Eulogikon",
+    "meta_title": "Fragments of the History of Philosophy by Porphyry in Greek",
+    "meta_description": "Porphyry's philosophical history preserves crucial fragments on pre-Socratic thinkers and chronological systems for Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ φιλοσοφική",
+      "english": "Philosophical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Neoplatonist",
+      "href": "/affiliations/neoplatonist"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments of the History of Philosophy</strong> is a lost doxographical work by the Neoplatonist philosopher Porphyry of Tyre, who lived from approximately 234 to 305 CE. Originally a more substantial history referenced as comprising four books, the text survives only in excerpts quoted by later authors, a fact reflected in its title. The extant fragments provide biographical details, anecdotes, and summaries of key doctrines concerning earlier Greek philosophers, forming part of Porphyry&#x27;s broader scholarly project to systematize the Hellenic philosophical tradition. The work likely addressed the succession of philosophers and their schools, offering a chronological framework for philosophical development from the Pre-Socratics to Hellenistic thinkers.</p>\n<p class=\"research-text\">The transmission of the work depends entirely on quotations found in later compilers, such as the church historian Eusebius and the 5th-century Neoplatonist Hierocles. These fragments are valuable for the otherwise lost information they preserve. As a scholarly resource composed by a major figure in the Neoplatonist movement, the history served as an important source for later pagan and Christian writers, significantly shaping the late antique and medieval understanding of Greek philosophy. The remains of the text continue to be crucial for reconstructing both Porphyry&#x27;s own scholarly methods and the historiographical materials to which he had access.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Eusebius Chron. vol. I p. 190 sive Anecd. Paris. vol. 2 p. 140: τὰ δ’ ἀπὸ τῆς Ἰλίου ἁλώσεως μέχρι τῆς πρώτης ὀλυμπιάδος οὐδ’ αὐτὰ μὲν ἠξιώθη μνήμης ἐντελοῦς· ὅμως δ’ ὁ Πορφύριος ἐν τῷ πρώτῳ τῆς φιλοσόφου ἱστορίας ὧδέ πως ἐπιτέμνεται πρὸς λέξιν. Πορφυρίου ἀπὸ τοῦ πρώτου λόγου τῆς φιλοσόφου ἱστορίας. ἀπὸ τῆς ἁλώσεως Ἰλίου ἐπὶ τὴν τῶν Ἡρακλειδῶν εἰς τὴν Πελοπόννησον κάθοδον ἔτη π φησὶν εἶναι ὁ Ἀπολλόδωρος· ἀπὸ δὲ τῆς καθόδου εἰς τὴν Ἰωνίας κτίσιν ἔτη ξ· ἐντεῦθεν ἐπὶ Λυκοῦργον ἔτη θ καὶ ἑκατὸν καὶ πεντήκοντα· ἀπὸ δὲ Λυκούργου εἰς τὴν πρώτην ὀλυμπιάδα ὀκτὼ καὶ ἑκατόν. τὰ δὲ πάντα ἀπὸ τῆς ἁλώσεως Ἰλίου ἐπὶ τὴν πρώτην ὀλυμπιάδα ἔτη ἑπτὰ καὶ υ. Anecd. Paris. vol. 2 p. 188, 28: ἀπὸ δὲ Ἰλίου ἁλώσεως ἐπὶ τὴν πρώτην ὀλυμπιάδα ἔτη ζ καὶ υ· τοῦτο γὰρ καὶ Πορφυρίῳ δοκεῖ. Suidas v.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Ὅμηρος (II, 1 p. 1095 sq.): γέγονε δὲ πρὸ τοῦ τεθῆναι τὴν πρώτην ὀλυμπιάδα πρὸ ἐνιαυτῶν νζ· Πορφύριος δὲ ἐν τῇ φιλοσόφῳ ἱστορίᾳ πρὸ ρλβ φησίν· ἐτέθη δὲ αὕτη μετὰ τὴν Τροίας ἅλωσιν ἐνιαυτοῖς ὕστερον υζ. τινὲς δὲ μετὰ ρξ μόνους ἐνιαυτοὺς τῆς Ἰλίου ἁλώσεως τετάχθαι ἱστοροῦσιν Ὅμηρον· ὁ δὲ ῥηθεὶς Πορφύριος μετὰ σοε. Suidas v.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Ἡσίοδος Κυμαῖος: ἦν δὲ Ὁμήρου κατά τινας πρεσβύτερος, κατὰ δὲ ἄλλους σύγχρονος. Πορφύριος καὶ ἄλλοι πλεῖστοι νεώτερον ἑκατὸν ἐνιαυτοῖς ὁρίζουσιν, ὡς λβ μόνους ἐνιαυτοὺς προτερεῖν τῆς πρώτης ὀλυμπιάδος. Cyrillus c.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Iulian. I p. 28 A—C: Πορφύριος μὲν οὖν ὁ πικροὺς ἡμῶν καταχέας λόγους καὶ τῆς Χριστιανῶν θρησκείας μόνον οὐχὶ κατορχούμενος τοὺς ὠνομασμένους σοφοὺς τὸν ἀριθμὸν ὄντας ἑπτὰ τὴν τοιάνδε κλῆσιν ἁρπάσαι φησὶν ἐξ αἰτίας τοιᾶσδε. γράφει δὲ οὕτως ἐν τῷ πρώτῳ βιβλίῳ τῆς φιλοσόφου ἱστορίας. ‘ἐννέα δὲ ὄντων ἑπτὰ κληθῆναι σοφοὺς ἐξ αἰτίας τοιαύτης. ἁλιέως βόλον νεανίσκοις ἀποδομένου ἰχθύων συνέβη χρυσοῦν τρίποδα ἐν τῷ βόλῳ εὑρεθῆναι· τοῦ δὲ ἁλιέως ἰχθῦς ἀλλὰ μὴ τρίποδα πεπρακέναι λέγοντος καὶ τῶν νεανίσκων εἰς τὴν αὑτῶν τύχην ἀναφερόντων τὴν εὕρεσιν, ἔδοξε τῷ θεῷ τὴν κρίσιν ἐπιτρέψαι. τοῦ δὲ χρήσαντος διδόναι τὸν τρίποδα τῷ σοφῷ, Θάλητι πρώτῳ ὁ τρίπους προσηνέχθη. ὃ δὲ πρὸς Βίαντα ἀπέπεμψεν, ἐκεῖνον φάμενος εἶναι τὸν σοφόν· ὃ δὲ πρὸς ἕτερον πέμπει, κἀκεῖνος πρὸς ἄλλον, ἕως εἰς τοὺς ἑπτὰ τοῦ τρίποδος ἐκπεριαχθέντος καὶ πάλιν ὑποστρέψαντος ἐπὶ τὸν πρῶτον, ἔδοξεν ἀναθεῖναι τῷ θεῷ· τοῦτον γὰρ εἶναι πάντων τὸν σοφώτατον.‘ Suidas: Φερεκύδης Ἀθηναῖος, πρεσβύτερος τοῦ Συρίου, ὃν λόγος τὰ Ὀρφέως συναγαγεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "ἔγραψεν Αὐτόχθονας, ἔστι δὲ περὶ τῆς Ἀττικῆς ἀρχαιολογίας, ἐν βιβλίοις δέκα· παραινέσεις δι’ ἐπῶν. Πορφύριος δὲ τοῦ προτέρου οὐδένα πρεσβύτερον δέχεται, ἀλλ’ ἐκεῖνον μόνον ἡγεῖται ἀρχηγὸν συγγραφῆς. Suidas: Ἐμπεδοκλῆς Μέτωνος—ἠκροάσατο δὲ πρώτου Παρμενίδου, οὗτινος, ὡς φησὶ Πορφύριος ἐν φιλοσόφῳ ἱστορίᾳ, ἐγένετο παιδικά.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "Suidas: Γοργίας Χαρμαντίδου Λεοντῖνος, ῥήτωρ, μαθητὴς Ἐμπεδοκλέους. —Πορφύριος δὲ αὐτὸν ἐπὶ τῆς π ὀλυμπιάδος τίθησιν· ἀλλὰ χρὴ νοεῖν πρεσβύτερον αὐτὸν εἶναι. Socrates Hist.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9bis",
+      "text": "eccl. 3, 23: Πορφύριος μὲν γὰρ τοῦ κορυφαιοτάτου τῶν φιλοσόφων Σωκράτους τὸν βίον διέσυρεν ἐν τῇ γεγραμμένῃ αὐτῷ φιλοσόφῳ ἱστορίᾳ καὶ τοιαῦτα περὶ αὐτοῦ γράψας κατέλιπεν οἷα ἂν μήτε Μέλητος μήτε Ἄνυτος οἱ γραψάμενοι Σωκράτην εἰπεῖν ἐπεχείρησαν. Eadem Niceph. Call. Hist. eccl. 10, 36. Cyrillus c.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "Iulian. VI p. 185 B: καὶ ἀπιστήσειε μὲν ἴσως ἅπας τις οὖν τοῖς περὶ τούτου (de Socrate) λόγοις, οὐ μὴν ἔτι καὶ τοῖς Πορφυρίου γράμμασιν ἀντερεῖ, ὃς τὸν ἑκάστου τῶν ἀρχαιοτέρων ἀπεσημήνατο βίον· σκοπὸς γὰρ οὗτος γέγονεν αὐτῷ καὶ πολλῆς ἠξίωσε τὸ χρῆμα σπουδῆς. ἔφη τοίνυν ὡδὶ περὶ αὐτοῦ· ‘λέγει δὲ ὁ Ἀριστόξενος ἀφηγούμενος τὸν βίον τοῦ Σωκράτους ἀκηκοέναι Σπινθάρου τὰ περὶ αὐτοῦ, ὃς ἦν εἷς τῶν τούτῳ ἐντυχόντων. τοῦτον λέγειν ὅτι οὐ πολλοῖς αὐτός γε πιθανωτέροις ἐντετυχηκὼς εἴη· τοιαύτην εἶναι τήν τε φωνὴν καὶ τὸ στόμα καὶ τὸ ἐπιφαινόμενον ἦθος, καὶ πρὸς πᾶσι δὲ τοῖς εἰρημένοις τὴν τοῦ εἴδους ἰδιότητα. γίνεσθαι δέ που τοῦτο ὅτε μὴ ὀργίζοιτο· ὅτε δὲ φλεχθείη ὑπὸ τοῦ πάθους τούτου, δεινὴν εἶναι τὴν ἀσχημοσύνην· οὐδενὸς γὰρ οὔτε ὀνόματος ἀπέχεσθαι οὔτε πράγματος.‘ Eadem fere Theodoretus Therap. XII p. 174, 23. Cyrillus c.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "Iulian. VI p. 208 A—C: γράφει δὲ οὕτω περὶ αὐτοῦ (de Socrate) Πορφύριος ἐν τῷ τρίτῳ τῆς φιλοσόφου ἱστορίας· ‘τούτων δὲ οὕτω σαφηνισθέντων λέγωμεν περὶ τοῦ Σωκράτους τὰ καὶ παρὰ τοῖς ἄλλοις μνήμης κατηξιωμένα, τὰ μὲν πρὸς ἔπαινον αὐτοῦ καὶ ψόγον πολλαχῶς ὑπὸ τῶν λογίων ἀνδρῶν μεμυθευμένα ἐπ’ ὀλίγον φυλοκρινοῦντες, καταλιπόντες δὲ ἀνεξέταστον τὸ εἴτε αὐτὸς εἰργάσατο σὺν τῷ πατρὶ τὴν λιθοτομικήν, εἴτε ὁ πατὴρ αὐτοῦ μόνος. οὐδὲν γὰρ ἐνέκοπτεν αὐτῷ τοῦτο πρὸς σοφίαν, πρὸς ὀλίγον γε χρόνον ἐργασθέν. εἰ δὲ δὴ ἑρμογλύφος ἦν, καὶ μᾶλλον· καθάρειος γὰρ ἡ τέχνη καὶ οὐ πρὸς ὀνείδους.‘ καὶ μεθ’ ἕτερα· ‘δημιουργὸν γὰρ γενέσθαι τὸν Σωκράτην πατρῴᾳ τέχνῃ χρώμενον τῇ λατυπικῇ καὶ Τίμαιος ἐν τῇ ἐνάτῃ λιθουργεῖν φησὶ μεμαθηκέναι Σωκράτην. εἰ δὲ ὃ μὲν διὰ δυσμένειαν ἀναξιόπιστος, Τίμαιος δὲ διὰ ἡλικίαν, νεώτερος γὰρ ὁ Ἀριστόξενος, Μενεδήμῳ τῷ Πυρραίῳ χρηστέον, Πλάτωνος μὲν γεγονότι μαθητῇ, πρεσβυτέρῳ δὲ γεγονότι Ἀριστοξένου, λέγοντι ἐν τῷ Φιλοκράτους ὅτι οὐκ ἐπαύετο Σωκράτης οὔτε ὑπὲρ τοῦ πατρὸς ὡς λιθουργοῦ λαλῶν οὔτε ὑπὲρ τῆς μητρὸς ὡς μαίας.‘ Initium huius loci, λέγωμεν περὶ τοῦ Σωκράτους—οὐ πρὸς ὀνείδους, habet etiam Theodoretus Therap. I p. 8, 11, qui ibidem pergit p. 8, 22: καὶ τὰ ἑξῆς δὲ τῆς αὐτῆς ἔχεται διανοίας· εἰσάγει γάρ τινας λέγοντας λιθουργικῇ τέχνῃ τὸν Σωκράτην χρησάμενον. ἀλλ’ ἴσως τὴν μὲν πρώτην ἡλικίαν λιθουργῶν διετέλεσεν, ὕστερον δὲ λόγων ποιητικῶν καὶ ῥητορικῶν ἐρασθεὶς παιδείας μετέλαχεν. ἀλλ’ οὐδὲ τοῦτο ἔστιν εἰπεῖν· πᾶν γὰρ τοὐναντίον εἶπεν ὁ Πορφύριος· λέγει δὲ οὕτως· ‘εἶναι δὲ αὐτὸν πρὸς οὐδὲν μὲν ἀφυῆ, ἀπαίδευτον δὲ περὶ πάντα, ὡς ἁπλῶς εἰπεῖν· σχεδὸν γὰρ οὐδὲ γράμματα πάνυ τι ἐπίστασθαι· ἀλλ’ εἶναι γελοῖον, ὁπότε τι δέοι ἢ γράψαι ἢ ἀναγνῶναι, βατταρίζοντα ὥσπερ τὰ παιδία.‘ Cyrillus c.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12",
+      "text": "Iulian. VI p. 186 C. D: γέγραφε γὰρ ὡδὶ πάλιν περὶ αὐτοῦ (de Socrate) Πορφύριος· ‘ἐν δὲ τοῖς περὶ τὸν βίον τὰ μὲν ἄλλα εὔκολον καὶ μικρᾶς δεόμενον παρασκευῆς εἰς τὰ καθ’ ἡμέραν γεγενῆσθαι· πρὸς δὲ τὴν τῶν ἀφροδισίων χρῆσιν σφοδρότερον μὲν εἶναι, ἀδικίαν δὲ μὴ προσεῖναι· ἢ γὰρ ταῖς γαμεταῖς ἢ ταῖς κοιναῖς χρῆσθαι μόναις. δύο δὲ σχεῖν γυναῖκας ἅμα, Ξανθίππην μὲν πολῖτιν καὶ κοινοτέραν πως, Μυρτὼ δὲ Ἀριστείδου θυγατριδῆν τοῦ Λυσιμάχου. καὶ τὴν μὲν Ξανθίππην προσπλακεῖσαν λαβεῖν, ἐξ ἧς αὐτῷ Λαμπροκλῆς ἐγένετο, τὴν δὲ Μυρτὼ γάμῳ, ἐξ ἧς Σωφρονίσκος καὶ Μενέξενος.‘ Res easdem perstringit Cyrillus c. Iulian. VII p. 226 B, ipsa verba πρὸς δὲ τὴν τῶν ἀφροδισίων χρῆσιν κτἑ, apponit Theodoretus Therap. XII p. 174, 37, qui extremis verbis Σωφρονίσκος καὶ Μενέξενος haec subicit: ‘αὗται δὲ συνάπτουσαι μάχην πρὸς ἀλλήλας, ἐπειδὴ παύσαιντο, ἐπὶ τὸν Σωκράτη ὥρμων διὰ τὸ μηδέποτε αὐτὰς μαχομένας διακωλύειν, γελᾶν δὲ καὶ ἀλλήλαις καὶ αὐτῷ μαχομένας ὁρῶντα. εἶναι δὲ φησὶν αὐτὸν ἐν ταῖς ὁμιλίαις αἰνῶς τε φιλαπεχθήμονα καὶ λοίδορον καὶ ὑβριστικόν.‘ καὶ ταῦτα δὲ περὶ τοῦ βίου Σωκράτους ὁ Πορφύριος ἔφη. ‘ἐλέγετο δὲ περὶ αὐτοῦ ὡς ἄρα παῖς ὢν οὐκ εὖ βιώσειεν οὐδὲ εὐτάκτως. πρῶτον μὲν γὰρ φασὶν αὐτὸν τῷ πατρὶ διατελέσαι ἀπειθοῦντα, καὶ ὁπότε κελεύσειεν αὐτὸν λαβόντα τὰ ὄργανα τὰ περὶ τὴν τέχνην ἀπαντᾶν ὅπου δή ποτε, ὀλιγωρήσαντα τοῦ προστάγματος περιτρέχειν αὐτὸν ὅπου δή ποτε δόξειεν. ἤδη δὲ περὶ τὰ ἑπτακαίδεκα ἔτη προσελθεῖν αὐτῷ Ἀρχέλαον τὸν Ἀναξαγόρου μαθητὴν φάσκοντα ἐραστὴν εἶναι· τὸν δὲ Σωκράτην οὐκ ἀπώσασθαι τὴν ἔντευξίν τε καὶ ὁμιλίαν τὴν πρὸς τὸν Ἀρχέλαον, ἀλλὰ γενέσθαι παρ’ αὐτῷ ἔτη συχνά, καὶ οὕτως ὑπὸ τοῦ Ἀρχελάου προτραπῆναι ἐπὶ τὰ φιλόσοφα.‘ εἶτα μετ’ ὀλίγα· ‘ἦν δὲ καὶ τῶν ἐπιτιμωμένων καὶ τάδε Σωκράτει ὅτι εἰς τοὺς ὄχλους εἰσωθεῖτο καὶ τὰς διατριβὰς ἐποιεῖτο πρὸς ταῖς τραπέζαις καὶ πρὸς τοῖς ἑρμαῖς.‘ Cf. Suidas v. Σωκράτης: Ἀριστόξενος δὲ Ἀρχελάου πρῶτον αὐτὸν διακοῦσαι λέγει· γεγονέναι δὲ αὐτοῦ καὶ παιδικά, σφοδρότατόν τε περὶ τὰ ἀφροδίσια, ἀλλὰ ἀδικήματος χωρίς, ὡς Πορφύριος ἐν τῇ φιλοσόφῳ ἱστορίᾳ φησίν. Theodoretus Therap. IV p. 56, 19: καὶ γὰρ τὸν Σωκράτην τὸν Σωφρονίσκου φησὶν ὁ Πορφύριος, εἰς ἀκολασίαν ἡνίκα νέος ἦν ἀποκλίναντα, σπουδῇ καὶ διδαχῇ τούτους μὲν ἀφανίσαι τοὺς τύπους, τοὺς δὲ τῆς φιλοσοφίας ἐκμάξασθαι. Stephanus Byz.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13",
+      "text": "p. 193, 17: Γάδρ α , πόλις Παλαιστίνης. Πορφύριος τρίτῳ φιλοσόφου ἱστορίας. τὸ ἐθνικὸν Γαδρηνός, ὡς Βόστρα Βοστρηνός καὶ Γαγγρηνός. Cyrillus c.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14",
+      "text": "Iulian. VI p. 208 D: καίτοι φησὶ καὶ περὶ αὐτοῦ (de Platone) Πορφύριος· ‘ἐπαιδεύθη δὲ ὁ Πλάτων παρὰ μὲν Διονυσίῳ γράμματα, παρὰ δὲ Ἀρίστωνι τῷ Ἀργείῳ παλαιστῇ τὰ κατὰ τὴν γυμναστικήν· φασὶ δὲ καὶ Ἴσθμιά τινες καὶ Πύθια παλαῖσαι αὐτόν.‘ Cyrillus c.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "Iulian. I p. 31 A. B: Πορφύριος δὲ φησὶν ἐν βιβλίῳ τετάρτῳ φιλοσόφου ἱστορίας δοξάσαι τε τὸν Πλάτωνα καὶ μὴν καὶ φράσαι πάλιν περὶ ἑνὸς θεοῦ, ὄνομα δὲ αὐτῷ μηδὲν ἐφαρμόττειν μηδὲ γνῶσιν ἀνθρωπίνην αὐτὸν καταλαβεῖν, τὰς δὲ λεγομένας προσηγορίας ἀπὸ τῶν ὑστέρων καταχρηστικῶς αὐτοῦ κατηγορεῖν. εἰ δὲ ὅλως ἐκ τῶν παρ’ ἡμῖν ὀνομάτων χρή τι τολμῆσαι λέγειν περὶ αὐτοῦ, μᾶλλον τὴν τοῦ ἑνὸς προσηγορίαν καὶ τὴν τἀγαθοῦ τακτέον ἐπ’ αὐτοῦ. τὸ μὲν γὰρ ἐμφαίνει τὴν περὶ αὐτὸν ἁπλότητα καὶ διὰ τοῦτο αὐτάρκειαν· χρῄζει γὰρ οὐδενός, οὐ μερῶν, οὐκ οὐσίας, οὐ δυνάμεων, οὐκ ἐνεργειῶν, ἀλλ’ ἔστι πάντων τούτων αἴτιος. τἀγαθὸν δὲ παρίστησιν ὅτι ἀπ’ αὐτοῦ πᾶν ὅτι περ ἀγαθόν ἐστιν, ἀπομιμουμένων κατὰ τὸ δυνατὸν τῶν ἄλλων τὴν ἐκείνου, 〈εἰ οὕτω〉 χρὴ φάναι, ἰδιότητα καὶ δι’ αὐτῆς σῳζομένων. Cyrillus c.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16",
+      "text": "Iulian. VIII p. 271 A: γράφει τοίνυν Πορφύριος ἐν βιβλίῳ τετάρτῳ φιλοσόφου ἱστορίας· ἄχρι γὰρ τριῶν ὑποστάσεων ἔφη Πλάτων τὴν τοῦ θείου προελθεῖν οὐσίαν. εἶναι δὲ τὸν μὲν ἀνωτάτω θεὸν τἀγαθόν, μετ’ αὐτὸν δὲ καὶ δεύτερον τὸν δημιουργόν, τρίτην δὲ τὴν τοῦ κόσμου ψυχήν· ἄχρι γὰρ ψυχῆς τὴν θεότητα προελθεῖν. Eadem repetit Cyrillus c. Iulian. I p. 34 A. B sicut Didymus de trinitate p. 303 sq. Cyrillus c.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17",
+      "text": "Iulian. I p. 34 C: καὶ πάλιν ὁ αὐτὸς Πορφύριος περὶ Πλάτωνος· διὸ ἐν ἀπορρήτοις περὶ τούτων αἰνιττόμενος φησί, περὶ τὸν βασιλέα πάντα ἐστὶ καὶ ἐκείνου ἕνεκα πάντα, καὶ ἐκεῖνο αἴτιον πάντων καλῶν, δεύτερον δὲ περὶ τὰ δεύτερα καὶ τρίτον περὶ τὰ τρίτα· ὡς γὰρ πάντων μὲν περὶ τοὺς τρεῖς ὄντων θεούς, ἀλλ’ ἤδη πρώτως μὲν περὶ τὸν πάντων βασιλέα, δευτέρως δὲ περὶ τὸν ἀπ’ ἐκείνου θεόν, καὶ τρίτως περὶ τὸν ἀπὸ τούτου. Cyrillus c.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18",
+      "text": "Iulian. I p. 32 C. D: φησὶ γὰρ ὁ Πορφύριος ἐν τετάρτῳ βιβλίῳ φιλοσόφου ἱστορίας ὡς εἰπόντος Πλάτωνος περὶ τοῦ ἀγαθοῦ οὕτως· ἀπὸ δὲ τούτου τρόπον τινὰ ἀνθρώποις ἀνεπινόητον νοῦν γενέσθαι τε ὅλον καὶ καθ’ ἑαυτὸν ὑφεστῶτα, ἐν ᾧ δὴ τὰ ὄντως ὄντα καὶ ἡ πᾶσα οὐσία τῶν ὄντων. ὃ δὴ καὶ πρώτως καλὸν καὶ αὐτοκαλὸν παρ’ ἑαυτοῦ τῆς καλλονῆς ἔχον τὸ εἶδος. προῆλθε δὲ προαιώνιος ἀπ’ αἰτίου τοῦ θεοῦ ὡρμημένος, αὐτογέννητος ὢν καὶ αὐτοπάτωρ· οὐ γὰρ ἐκείνου κινουμένου πρὸς γένεσιν τὴν τούτου ἡ πρόοδος γέγονεν, ἀλλὰ τούτου παρελθόντος αὐτογόνως ἐκ θεοῦ, παρελθόντος δὲ οὐκ ἀπ’ ἀρχῆς τινὸς χρονικῆς· οὔπω γὰρ χρόνος ἦν. ἀλλ’ οὐδὲ χρόνου γενομένου πρὸς αὐτόν ἐστί τι ὁ χρόνος· ἄχρονος γὰρ ἀεὶ καὶ μόνος αἰώνιος ὁ νοῦς. ὥσπερ δὲ ὁ θεὸς ὁ πρῶτος καὶ μόνος ἀεί, κἂν ἀπ’ αὐτοῦ γένηται τὰ πάντα, τῷ μὴ τούτοις συναριθμεῖσθαι μηδὲ τὴν ἀξίαν συγκατατάττεσθαι δύνασθαι τῇ ἐκείνου ὑπάρξει, οὕτω καὶ ὁ νοῦς αἰώνιος μόνος καὶ ἀχρόνως ὑποστάς, καὶ τὰ ἐν χρόνῳ αὐτὸς χρόνος ἐστίν, ἐν ταυτότητι μένων τῆς ἑαυτοῦ αἰωνίας ὑποστάσεως. Cf. Cyrillus c. Iul. I p. 28 D: γεγράφασι δὲ περὶ τούτων (de philosophis dei naturam definientibus) Πλούταρχός τε καὶ ἕτεροι τῶν παρ’ αὐτοῖς λογάδων καὶ ὁ θρασὺς καθ’ ἡμῶν Πορφύριος. Iohannes Malal.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19",
+      "text": "Chronogr. p. 56, 11: τὸν δὲ Πλούταρχον τὸν Χερονήσιον Πορφύριος ἐν τῇ φιλοσόφῳ αὐτοῦ χρονογραφίᾳ ἐδόξασε. Cf. Wyttenbach. in Plut. vol. 1 praef. p. 45. Tzetzes Chil.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20 (n)",
+      "text": "11, 532: δευτέρως δὲ ἐγκύκλια μαθήματα καλοῦνται ὁ κύκλος, τὸ συμπέρασμα πάντων τῶν μαθημάτων, γραμματικῆς, ῥητορικῆς, αὐτῆς φιλοσοφίας, καὶ τῶν τεσσάρων δὲ τεχνῶν τῶν ὑπ’ αὐτὴν κειμένων, τῆς ἀριθμούσης, μουσικῆς καὶ τῆς γεωμετρίας καὶ τῆς οὐρανοβάμονος αὐτῆς ἀστρονομίας. ἐγκύκλια μαθήματα δευτέρως ταῦτα πάντα, ὡς ἔγραψε Πορφύριος ἐν βίοις φιλοσόφων καὶ ἕτεροι μυρίοι δὲ τῶν ἐλλογίμων ἄνδρες.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "udm-ar",
+      "title": {
+        "english": "Against the Christians",
+        "ancient_greek": "Κατὰ Χριστιανῶν"
+      },
+      "url_slug": "porphyry-of-tyre-against-christians-udm-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/against-christians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-against-christians-udm-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-against-christians-udm-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-against-christians-udm-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-against-christians-udm-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/against-christians.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-af",
+      "title": {
+        "english": "Book I of Homeric Questions Version B",
+        "ancient_greek": "Βιβλίον Αʹ Ὁμηρικῶν ζητημάτων ἔκδοσις Β"
+      },
+      "url_slug": "porphyry-of-tyre-homeric-questions-b-udm-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/homeric-questions-b",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-b-udm-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-b-udm-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-b-udm-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-b-udm-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-b.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-ag",
+      "title": {
+        "english": "Book I of Homeric Questions Version T",
+        "ancient_greek": "Βιβλίον Αʹ Ὁμηρικῶν ζητημάτων ἔκδοσις Τ"
+      },
+      "url_slug": "porphyry-of-tyre-homeric-questions-1-ag-udm-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/homeric-questions-1-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-1-ag-udm-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-1-ag-udm-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-1-ag-udm-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-1-ag-udm-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-1-ag.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-ah",
+      "title": {
+        "english": "Book I of Homeric Questions Version V",
+        "ancient_greek": "Βιβλίον Αʹ Ὁμηρικῶν ζητημάτων"
+      },
+      "url_slug": "porphyry-of-tyre-homeric-questions-1-ah-udm-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/homeric-questions-1-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-1-ah-udm-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-1-ah-udm-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-1-ah-udm-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-1-ah-udm-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-1-ah.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-ai",
+      "title": {
+        "english": "Book I of Homeric Questions Version X",
+        "ancient_greek": "Ἰλιακῶν προβλημάτων βιβλίον α (ἔκδοσις Χ)"
+      },
+      "url_slug": "porphyry-of-tyre-homeric-questions-udm-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/homeric-questions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-udm-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-udm-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-udm-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-udm-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-ay",
+      "title": {
+        "english": "Chronicles",
+        "ancient_greek": "Χρονικά"
+      },
+      "url_slug": "porphyry-of-tyre-chronicles-udm-ay",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/chronicles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-chronicles-udm-ay.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-chronicles-udm-ay.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-chronicles-udm-ay.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-chronicles-udm-ay.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/chronicles.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-ak",
+      "title": {
+        "english": "Commentaries-Aristotle in Greek",
+        "ancient_greek": "Ὑπομνήματα εἰς Ἀριστοτέλην Ἑλληνιστί"
+      },
+      "url_slug": "porphyry-of-tyre-commentaries-aristotle-udm-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/commentaries-aristotle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-commentaries-aristotle-udm-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-commentaries-aristotle-udm-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-commentaries-aristotle-udm-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-commentaries-aristotle-udm-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/commentaries-aristotle.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-ao",
+      "title": {
+        "english": "Commentary on Plato's Timaeus (Book I)",
+        "ancient_greek": "Ὑπόμνημα εἰς Πλάτωνος Τίμαιον"
+      },
+      "url_slug": "porphyry-of-tyre-timaeus-commentary-ao-udm-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/timaeus-commentary-ao",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-timaeus-commentary-ao-udm-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-timaeus-commentary-ao-udm-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-timaeus-commentary-ao-udm-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-timaeus-commentary-ao-udm-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/timaeus-commentary-ao.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-an",
+      "title": {
+        "english": "Commentary on Plato's Timaeus (Fragment)",
+        "ancient_greek": "Ὑπόμνημα εἰς τὸν Πλάτωνος Τίμαιον"
+      },
+      "url_slug": "porphyry-of-tyre-timaeus-commentary-an-udm-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/timaeus-commentary-an",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-timaeus-commentary-an-udm-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-timaeus-commentary-an-udm-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-timaeus-commentary-an-udm-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-timaeus-commentary-an-udm-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/timaeus-commentary-an.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-am",
+      "title": {
+        "english": "Commentary-Plato's Parmenides",
+        "ancient_greek": "Ὑπόμνημα εἰς τὸν Πλάτωνος Παρμενίδην"
+      },
+      "url_slug": "porphyry-of-tyre-plato-parmenides-commentary-udm-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/plato-parmenides-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-plato-parmenides-commentary-udm-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-plato-parmenides-commentary-udm-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-plato-parmenides-commentary-udm-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-plato-parmenides-commentary-udm-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/plato-parmenides-commentary.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-ba",
+      "title": {
+        "english": "Fragments on the Seven Sages",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ἑπτὰ Σοφῶν"
+      },
+      "url_slug": "porphyry-of-tyre-seven-sages-udm-ba",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/seven-sages",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-seven-sages-udm-ba.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-seven-sages-udm-ba.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-seven-sages-udm-ba.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-seven-sages-udm-ba.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/seven-sages.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-at",
+      "title": {
+        "english": "Letter to Anebon",
+        "ancient_greek": "Πρὸς Ἀνεβῶνα ἐπιστολή"
+      },
+      "url_slug": "porphyry-of-tyre-letter-anebon-udm-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/letter-anebon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-letter-anebon-udm-at.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-letter-anebon-udm-at.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-letter-anebon-udm-at.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-letter-anebon-udm-at.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/letter-anebon.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "okg-cs",
+      "title": {
+        "english": "Agis and Cleomenes",
+        "ancient_greek": "Ἄγις καὶ Κλεομένης"
+      },
+      "url_slug": "plutarch-of-chaeronea-agis-cleomenes-okg-cs",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/agis-cleomenes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agis-cleomenes-okg-cs.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agis-cleomenes-okg-cs.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agis-cleomenes-okg-cs.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agis-cleomenes-okg-cs.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agis-cleomenes.epub"
+      }
+    },
+    {
+      "eul_wid": "hhq-ab",
+      "title": {
+        "english": "Commentary on Plato's Atlantis",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "crantor-of-soli-atlantis-commentary-hhq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/crantor-of-soli/atlantis-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli-atlantis-commentary-hhq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli-atlantis-commentary-hhq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli-atlantis-commentary-hhq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli-atlantis-commentary-hhq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli/atlantis-commentary.epub"
+      }
+    },
+    {
+      "eul_wid": "dwk-aa",
+      "title": {
+        "english": "Fragments on Economics",
+        "ancient_greek": "Ἀποσπάσματα περὶ Οἰκονομικῶν"
+      },
+      "url_slug": "bryson-of-heraclea-economics-dwk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/bryson-of-heraclea/economics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bryson-of-heraclea-economics-dwk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bryson-of-heraclea-economics-dwk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bryson-of-heraclea-economics-dwk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bryson-of-heraclea-economics-dwk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bryson-of-heraclea/economics.epub"
+      }
+    },
+    {
+      "eul_wid": "coo-ab",
+      "title": {
+        "english": "Fragments on Homeric Interpretation",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ὁμηρικῆς Ἑρμηνείας"
+      },
+      "url_slug": "nessos-of-chios-homeric-interpretation-coo-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/nessos-of-chios/homeric-interpretation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios-homeric-interpretation-coo-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios-homeric-interpretation-coo-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios-homeric-interpretation-coo-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios-homeric-interpretation-coo-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios/homeric-interpretation.epub"
+      }
+    },
+    {
+      "eul_wid": "oqk-ai",
+      "title": {
+        "english": "Holy Discourse of Hermes Trismegistus",
+        "ancient_greek": "Ἑρμοῦ τοῦ τρισμεγίστου λόγος ἱερός"
+      },
+      "url_slug": "hermetica-holy-discourse-oqk-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/holy-discourse",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-holy-discourse-oqk-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-holy-discourse-oqk-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-holy-discourse-oqk-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-holy-discourse-oqk-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/holy-discourse.epub"
+      }
+    },
+    {
+      "eul_wid": "ffk-bh",
+      "title": {
+        "english": "Lovers",
+        "ancient_greek": "Ἐρασταί"
+      },
+      "url_slug": "plato-lovers-ffk-bh",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/lovers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lovers-ffk-bh.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lovers-ffk-bh.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lovers-ffk-bh.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lovers-ffk-bh.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/lovers.epub"
+      }
+    },
+    {
+      "eul_wid": "kkk-ac",
+      "title": {
+        "english": "On Pleasure Not Being the End",
+        "ancient_greek": "Περὶ τοῦ μὴ εἶναι τέλος ἡδονήν"
+      },
+      "url_slug": "teles-of-megara-pleasure-not-end-kkk-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/teles-of-megara/pleasure-not-end",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-pleasure-not-end-kkk-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-pleasure-not-end-kkk-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-pleasure-not-end-kkk-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-pleasure-not-end-kkk-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/pleasure-not-end.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-be",
+      "title": {
+        "english": "On the Spirit",
+        "ancient_greek": "Περὶ Πνεύματος"
+      },
+      "url_slug": "aristotle-spirit-hgw-be",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/spirit",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-spirit-hgw-be.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-spirit-hgw-be.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-spirit-hgw-be.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-spirit-hgw-be.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/spirit.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/porphyry-of-tyre/history-philosophy",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-history-philosophy-udm-ae.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-history-philosophy-udm-ae.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-history-philosophy-udm-ae.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-history-philosophy-udm-ae.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/history-philosophy.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,387 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ses-aa",
+  "eul_aid": "ses",
+  "author_slug": "cleopatra-the-alchemist",
+  "work_slug": "weights-measures",
+  "url_slug": "cleopatra-the-alchemist-weights-measures-ses-aa",
+  "author": {
+    "english": "Cleopatra the Alchemist",
+    "ancient_greek": "ἡ Κλεοπάτρα ἡ Χημικός"
+  },
+  "title": {
+    "english": "On Weights and Measures",
+    "ancient_greek": "Περὶ Μέτρων καὶ Σταθμῶν"
+  },
+  "seo": {
+    "browser_title": "On Weights and Measures by Cleopatra Alchemist on Eulogikon",
+    "meta_title": "On Weights and Measures by Cleopatra the Alchemist in Greek",
+    "meta_description": "Cleopatra the Alchemist's treatise on weights and measures reveals ancient scientific precision in quantifying. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">_On Weights and Measures_ is an alchemical treatise attributed to Cleopatra the Alchemist, a figure associated with the Greco-Egyptian alchemical tradition. Preserved within Byzantine compilations of Greek alchemical texts, such as the manuscript _Marcianus graecus_ 299, the work consists of twenty-eight passages providing practical, technical knowledge essential for alchemical operations. Its primary focus is the standardization of workshop practice, offering detailed definitions for weights, measures, and substance quantities to ensure precision and reproducibility. The text systematically enumerates the relationships between various units, such as the mina, litra, ounce, drachma, and obol, often specifying their values in smaller denominations like chalkoi and keratia.</p>\n<p class=\"research-text\">Beyond metrology, the treatise describes essential alchemical apparatus, including the kerotakis, a specialized reflux device used for sublimation and the coloring of metals, as well as furnaces and alembics. It also outlines the materials and fundamental processes for the transformation of metals and minerals, grounding its instructions in the tangible realities of the laboratory. The text survives exclusively as part of the larger Greek alchemical corpus found in manuscripts like the 10th- or 11th-century _Marcianus graecus_ 299, which anthologizes works by other significant figures such as Zosimos of Panopolis and Maria the Jewess. As a key source for understanding the material practices of Greco-Egyptian alchemy, its precise technical descriptions contributed to later Arabic and Latin alchemical traditions. Its attribution to Cleopatra also places it within important historical discussions concerning the participation and authority of women in early scientific and technical endeavors.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "78 prol",
+      "text": "Ἐκ τῶν Κλεοπάτρας περὶ σταθμῶν καὶ μέτρων ἐξήγησις κατὰ πλάτος πρὸς εὐχερῆ εὕρεσιν ἑκάστης μνᾶς καὶ λίτρας καὶ οὐγγίας καὶ δραχμῆς καὶ γράμματος, πόσους ἔχουσιν ὀβολοὺς καὶ θέρμους καὶ κεράτια καὶ χαλκοῦς, ἐν οἷς ἡ λεπτότης τοῦ σταθμοῦ ἐν τοῖς δυναμιδίοις εὑρίσκεται λειουμένη, ἣν ὑπέταξα· μετὰ δὲ τὴν τούτων λεπτότητα καὶ ἁδρομερῶς ἑκάστου σταθμὸν ὑπέταξα, ἵνα καὶ τῷ τεύχει εὑρίσκητε τὸν ζητούμενον σταθμόν. Ἡ μνᾶς ὄνομα [ἔχει] σταθμοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "78 1",
+      "text": "ἔχει δὲ 𐆄 ιϛʹ, δραχμὰς ρκηʹ, γραμμάρια δὲ τπδʹ, ὀβολοὺς δὲ ψξηʹ, θέρμους δὲ ͵ αρνβʹ, κεράτια ͵ βτδʹ, χαλκοῦς δὲ ͵ ϛρμδʹ, νομίσματα ϙϛʹ. ἡ Ἀττικὴ μνᾶς ἔχει 𐆄 ιβʹ 𐅶 , δραχμὰς ρʹ, γραμμάρια τʹ, ὀβολοὺς χʹ, θέρμους ϡʹ, κεράτια ͵ αωʹ, χαλκοῦς δὲ ͵ δωʹ, νομίσματα οεʹ. ἡ Πτολεμαϊκὴ μνᾶς ἔχει 𐆄 ιηʹ, δραχμὰς ρμδʹ, γραμμάρια υλβʹ, ὀβολοὺς ωξδʹ, θέρμους ͵ αςϙϛʹ, κεράτια ͵ βφϙβʹ, χαλκοῦς δὲ ͵ ϛϡιβʹ, νομίσματα ρηʹ. Ἡ λίτρα ἔχει 𐆄 ιβʹ, δραχμὰς ϙϛʹ, γραμμάρια σπηʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "78 3",
+      "text": "Ἡ 𐆄 ἔχει δραχμὰς ηʹ, γραμμάρια κδʹ, ὀβολοὺς μηʹ, θέρμους οβʹ, κεράτια ρμδʹ, χαλκοῦς τπδʹ, νομίσματα ϛʹ. καλεῖται δὲ ἡ 𐆄 τετρασάριον Ἰταλικόν. Ἡ δραχμὴ ἔχει γραμμάρια γʹ, ὀβολοὺς ϛʹ, θέρμους θʹ, κεράτια ιηʹ, χαλκοῦς μηʹ, νομίσματος 𐅷 ʹʹ καὶ ιβʹʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "78 4",
+      "text": "καὶ τὸ Ἰταλικὸν δηνάριον ἔχει δραχμὴν αʹ. ἡ δραχμὴ δὲ καὶ ἄλλη ὁμώνυμος καλεῖται ἡ Αἰγυπτιακή, ἥτις ἕκτον μέρος ἐστὶ τῆς Ἀττικῆς, ἄγουσα ὀβολὸν αʹ. Τὸ γραμμάριον ἔχει ὀβολοὺς βʹ, θέρμους γʹ, κεράτια ϛʹ, χαλκοῦς ιϛʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "78 6",
+      "text": "Ὁ ὀβολὸς ἔχει θέρμον αʹ 𐅶 , κεράτια γʹ, χαλκοῦς ηʹ. Τὸ ἡμιβόλιον ἔχει κεράτια αʹ 𐅶 , χαλκοῦς δʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "78 8",
+      "text": "Ὁ θέρμος ἔχει κεράτια βʹ, χαλκοὺς γʹ, Ἀττικὸν δὲ ἡμιοβόλιον ἔχει τέσσαρα πέμπτα. Τὸ κεράτιον ἔχει Ἀττικοὺς χαλκοῦς βʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "78 9",
+      "text": "καὶ ὁ χαλκὸς βʹ πέμπτα. Ὁ χαλκὸς ἔχει ἡμιοβολίου τὸ δʹʹ· ὥστε τοὺς δʹ χαλκοῦς ἄγειν ἡμιοβόλιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "78 11",
+      "text": "Ὁ στατὴρ ἔχει δραχμὰς δʹ, νομίσματα γʹ· καλοῦσι δὲ αὐτὸ τετράδραχμον. Τὸ δίδραχμον ἄγει νόμισμα αʹ 𐅶 , κεράτια λϛʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "78 12",
+      "text": "καὶ τὸ διπλοῦν δίδραχμον ὁμοίως ἄγει δραχμὰς δʹ, νομίσματα γʹ. καὶ τὸ βασιλικὸν κάρυον ὁμοίως ἄγει κοτύλας δʹ. Ἡ χίμη ἡ μεγάλη ἔχει 𐅻 γʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "78 13",
+      "text": "καὶ ἡ μικρὰ χίμη ἔχει 𐅻 β. Τὸ ἀσάριον ἔχει 𐅻 βʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "78 15",
+      "text": "Τὸ κοχλιάριον ἔχει .... Ὁ κύαθος 𐅻 ιʹ, 𐆄 δὲ αʹ δʹʹ, γραμμάρια λʹ, ὀβολοὺς ξʹ, θέρμους ϙʹ, κεράτια δὲ ρπʹ, χαλκοῦς δὲ υπʹ, νομίσματα ζʹ 𐅶 .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "78 17",
+      "text": "Τὸ τάλαντον ἄγει λίτρας ρκεʹ, νομίσματα ͵ θ. Ἔστι δὲ ὁ κύαθος 𐆂 ο τὸ ϛʹʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "78 18",
+      "text": "ἡ 𐆂 ο μέτρῳ μὲν ἔχει κυάθους ϛʹ, σταθμῷ δὲ 𐅻 𐅻 ξʹ. ἄγουσιν 𐆄 ζʹ 𐅶 , γραμμάρια δὲ ρπʹ, ὀβολοὺς τξʹ, θέρμα φμʹ, κεράτια δὲ ͵ απʹ, χαλκοῦς ͵ βωπʹ, νομίσματα μεʹ. Τὸ τριβλίον τὸ αὐτὸ μέτρον χωρεῖ τῇ 𐆂 ο , ἔχει γὰρ μέτρῳ μὲν κυάθους ϛʹ, σταθμῷ δὲ 𐅻 ξʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "78 20",
+      "text": "Ὁ ξέστης ὁ Ἀλεξανδρείτης [ἔχει ͵ ϛβʹ] μέτρον μὲν ἔχει 𐆂 ο βʹ, σταθμῷ δὲ 𐅻 𐅻 ρκʹ. καλεῖται δὲ παρ’ Αἰγυπτίοις ὁ ξέστης ἱνίον. Τὸ ὀξύβαφον ἔχει 𐆂 ο δʹʹ, κύαθον αʹ 𐅶 , σταθμῶ δὲ 𐅻 𐅻 ιεʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "78 22",
+      "text": "Κόγχη ἡ μεγάλη τὸ αὐτὸ μέτρον σώζει τῷ ὀξυβάφῳ· ἔχει γὰρ μέτρον μὲν κύαθον αʹ 𐅶 , σταθμῷ δὲ 𐅻 ιεʹ, ἡ δὲ ἐλάττων κόγχη ἡμικύαθον, σταθμῷ δὲ 𐅻 εʹ. Ὁ κύαθος ἔχει δραχ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "78 23",
+      "text": ".. 𐆂 ο τὸ ϛʹʹ. Ταῦτα ἀπὸ τῶν γεωργικῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "79 1",
+      "text": "Ἡ μνᾶς ἔχει 𐆄 ιϛʹ, νομίσματα ϙϛʹ. ἡ Ἀττικὴ μνᾶς ἔχει 𐆄 ιβʹ 𐅶 , νομίσματα οεʹ. ἡ Ῥωμαϊκὴ 𐆄 κʹ. ἡ Πτολεμαϊκὴ 𐆄 ιηʹ, νομίσματα ρηʹ. Ὁ χαλκοῦς δὲ εʹʹ Ἀττικοῦ ἡμιοβολίου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "79 2",
+      "text": "†καὶ ἡμιοβολίου τὸ δʹʹ πέμπτον τὸ ϛʹʹ ἔχει Ἀττικοῦ β χαλκοῦ καὶ χαλκ.. βʹ πέμπτα. [καὶ τὸ διπλούνδιον ὁμοίως ἄγει δραχμὰς δʹ.] Ἡ 𐆄 ἔχει 𐅻 ηʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "79 3",
+      "text": "ἡ 𐅻 ἔχει 𐆄 τὸ †δʹʹ ... ὀξύβαφα βʹ. τὸ δὲ ὀξύβαφον κυάθους γʹ. Ὁ κύαθος ἔχει μύστρα μικρὰ βʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "79 5",
+      "text": "Τὸ κοχλιάριον δὲ μύστρου τὸ 𐅶 . Τὸ δὲ ὀξύβαφον ποιεῖ 𐆄 ϛʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "79 7",
+      "text": "Ὁ κύαθος ποιεῖ 𐆄 βʹ. Τὸ μύστρον ποιεῖ 𐆄 τὸ 𐅶 .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "79 9",
+      "text": "Τὸ δὲ μύστρον κοχλιάρια βʹ· ὧς εἶναι τὸ κοχλιάριον 𐆄 δʹʹ. Ἡ μνᾶς ἔχει 𐆄 ιεʹ, ὁλκὰς ριβʹ 𐅶 .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "79 10",
+      "text": "†καὶ ἔχει ὁλκὰς ϙʹ. Τὸ δηνάριον ἔχει γράμματα δʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "80 1",
+      "text": "Ὁ κοδράντης ἐστὶ τὸ δʹʹ τῆς 𐆄 . Ἡ ἀρτάβη ἔχει Λ̸ οβʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "80 3",
+      "text": "Μέτρον σεμιδάλεως ποιοῦν ἀρτάβην μίαν. Νέβελ οἴνου Λ̸ τʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "80 5",
+      "text": "Καμψάκης ἐστὶ Λ̸ κδʹ, ξέσται ιβʹ. Τὰ λʹ ἀργύρια γίνονται νομίσματα τʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "80 6",
+      "text": "τὸ γὰρ ἀργύριον ἔχει νομίσματα ιʹ Λ̸ δʹ 𐆄 βʹ· ἅπερ ἔλαβεν ὁ Ἰούδας. Τὸ σάτον ἐστὶ μόδιος †κούμουλος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "80 7",
+      "text": "σάτα γʹ μόδιοι γʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "rrg-bq",
+      "title": {
+        "english": "Alchemical Fragment",
+        "ancient_greek": "Ἀλχημικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "alchemist-i-fragment-bq-rrg-bq",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/fragment-bq",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bq-rrg-bq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bq-rrg-bq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bq-rrg-bq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bq-rrg-bq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bq.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-ch",
+      "title": {
+        "english": "Creation of Gold",
+        "ancient_greek": "Χρυσοῦ ποίησις"
+      },
+      "url_slug": "alchemist-i-gold-creation-rrg-ch",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/gold-creation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-gold-creation-rrg-ch.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-gold-creation-rrg-ch.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-gold-creation-rrg-ch.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-gold-creation-rrg-ch.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/gold-creation.epub"
+      }
+    },
+    {
+      "eul_wid": "opq-aa",
+      "title": {
+        "english": "Harmonic Introduction",
+        "ancient_greek": "Εἰσαγωγὴ ἁρμονική"
+      },
+      "url_slug": "cleonides-the-music-theorist-harmonic-introduction-opq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cleonides-the-music-theorist/harmonic-introduction",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleonides-the-music-theorist-harmonic-introduction-opq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleonides-the-music-theorist-harmonic-introduction-opq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleonides-the-music-theorist-harmonic-introduction-opq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleonides-the-music-theorist-harmonic-introduction-opq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleonides-the-music-theorist/harmonic-introduction.epub"
+      }
+    },
+    {
+      "eul_wid": "odi-an",
+      "title": {
+        "english": "Metrical",
+        "ancient_greek": "Μετρικά"
+      },
+      "url_slug": "hero-of-alexandria-metrical-odi-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/metrical",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-metrical-odi-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-metrical-odi-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-metrical-odi-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-metrical-odi-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/metrical.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-ck",
+      "title": {
+        "english": "On Gilding Iron",
+        "ancient_greek": "Περὶ τοῦ χρυσῶσαι σίδηρον"
+      },
+      "url_slug": "alchemist-i-gilding-iron-rrg-ck",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/gilding-iron",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-gilding-iron-rrg-ck.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-gilding-iron-rrg-ck.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-gilding-iron-rrg-ck.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-gilding-iron-rrg-ck.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/gilding-iron.epub"
+      }
+    },
+    {
+      "eul_wid": "leu-aa",
+      "title": {
+        "english": "On the Rising Stars",
+        "ancient_greek": "Περὶ τῶν ἀνατελλόντων ἀστέρων"
+      },
+      "url_slug": "teucer-of-babylon-rising-stars-leu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/teucer-of-babylon/rising-stars",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teucer-of-babylon-rising-stars-leu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teucer-of-babylon-rising-stars-leu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teucer-of-babylon-rising-stars-leu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teucer-of-babylon-rising-stars-leu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teucer-of-babylon/rising-stars.epub"
+      }
+    },
+    {
+      "eul_wid": "leu-ab",
+      "title": {
+        "english": "On the Twelve Signs",
+        "ancient_greek": "Περὶ τῶν δώδεκα σημείων"
+      },
+      "url_slug": "teucer-of-babylon-twelve-signs-leu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/teucer-of-babylon/twelve-signs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teucer-of-babylon-twelve-signs-leu-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teucer-of-babylon-twelve-signs-leu-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teucer-of-babylon-twelve-signs-leu-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teucer-of-babylon-twelve-signs-leu-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teucer-of-babylon/twelve-signs.epub"
+      }
+    },
+    {
+      "eul_wid": "oho-ab",
+      "title": {
+        "english": "Other Ancient Fragments",
+        "ancient_greek": "Ἄλλα Ἀρχαῖα Ἀποσπάσματα"
+      },
+      "url_slug": "dorotheus-the-astrologer-of-sidon-ancient-fragments-oho-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/dorotheus-the-astrologer-of-sidon/ancient-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorotheus-the-astrologer-of-sidon-ancient-fragments-oho-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorotheus-the-astrologer-of-sidon-ancient-fragments-oho-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorotheus-the-astrologer-of-sidon-ancient-fragments-oho-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorotheus-the-astrologer-of-sidon-ancient-fragments-oho-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorotheus-the-astrologer-of-sidon/ancient-fragments.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/cleopatra-the-alchemist/weights-measures",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleopatra-the-alchemist-weights-measures-ses-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleopatra-the-alchemist-weights-measures-ses-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleopatra-the-alchemist-weights-measures-ses-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleopatra-the-alchemist-weights-measures-ses-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleopatra-the-alchemist/weights-measures.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

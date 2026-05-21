@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "evk",
+  "auth_slug": "herodorus-of-heraclea",
+  "name": {
+    "english": "Herodorus of Heraclea",
+    "ancient_greek": "Ἡρόδωρος ὁ Ἡρακλεώτης"
+  },
+  "seo_h1": "Heracles' Ancestry in the Fragments of Herodorus",
+  "seo": {
+    "browser_title": "Herodorus of Heraclea on Eulogikon Greek Archive Library",
+    "meta_title": "Herodorus of Heraclea Ancient Greek Historical Works",
+    "meta_description": "Herodorus of Heraclea was a classical historian writing in Ionic Greek. His surviving historical fragments are preserved. Free to download from Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Herodorus of Heraclea was a Greek mythographer and historian from Heraclea Pontica, active in the late 4th and early 3rd centuries BCE. He was the son of Bryson or, alternatively, Ariston. Beyond this origin and period, no details of his life are recorded.</p>\n<p class=\"research-text\">His major work was an extensive mythography of Heracles, comprising at least seventeen books and forming the source for most surviving fragments. He also wrote a work On the Argonauts and is credited with treatises on Orpheus and Dionysus, along with possible local histories. All his works are lost, preserved only in fragments cited by later authors like Athenaeus and Pseudo-Apollodorus.</p>\n<p class=\"research-text\">Herodorus was a significant Hellenistic mythographer who systematized and rationalized heroic myths, particularly that of Heracles, providing pseudo-historical explanations for legendary events. His compilations were widely used by later mythographers and are crucial for understanding the transmission of Greek myths in the post-Classical period.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "evk-aa",
+      "title": {
+        "english": "Fragments on Heracles' Ancestry",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς τοῦ Ἡρακλέους Γενέσεως"
+      },
+      "url_slug": "herodorus-of-heraclea-ancestry-evk-aa",
+      "passages": 63,
+      "links": {
+        "html": "https://eulogikon.org/grc/herodorus-of-heraclea/ancestry",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodorus-of-heraclea-ancestry-evk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodorus-of-heraclea-ancestry-evk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodorus-of-heraclea-ancestry-evk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodorus-of-heraclea-ancestry-evk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodorus-of-heraclea/ancestry.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/herodorus-of-heraclea",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/herodorus-of-heraclea-evk.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/herodorus-of-heraclea-evk.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/herodorus-of-heraclea-evk.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/herodorus-of-heraclea-evk.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

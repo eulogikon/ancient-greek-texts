@@ -1,0 +1,504 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "lea-ac",
+  "eul_aid": "lea",
+  "author_slug": "orphic-poems",
+  "work_slug": "derveni",
+  "url_slug": "orphic-poems-derveni-lea-ac",
+  "author": {
+    "english": "Orphic Poems ",
+    "ancient_greek": "Ὀρφικὰ ποιήματα"
+  },
+  "title": {
+    "english": "Fragments P. Derveni",
+    "ancient_greek": "Ἀποσπάσματα Π. Δερβενίου"
+  },
+  "seo": {
+    "browser_title": "Derveni Papyrus Fragments by Anonymous on Eulogikon",
+    "meta_title": "Derveni Papyrus Fragments by Anonymous in Ancient Greek",
+    "meta_description": "The oldest surviving European book, a 4th century BCE philosophical commentary on an Orphic poem. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Derveni Papyrus is the oldest surviving manuscript from Europe, a carbonized Greek scroll discovered in a tomb in northern Greece in 1962. Dated to approximately 340–320 BCE, it preserves a philosophical prose commentary that quotes and interprets verses from an Orphic religious poem, itself believed to have been composed in the late fifth or early fourth century BCE. The work survives as twenty-four fragmentary columns of text, though the original scroll was longer and both its beginning and end are lost.</p>\n<p class=\"research-text\">The anonymous author systematically quotes hexameter verses from an Orphic theogony—a poem concerning the origin of the gods—and provides a detailed allegorical interpretation. The quoted poem narrates a cosmogony in which Zeus swallows a primordial deity to absorb all of creation before re-establishing the cosmos. The accompanying commentary seeks to uncover hidden physical and cosmological truths behind this myth, demonstrating clear influences from pre-Socratic philosophical thought. Modern scholarship views the text as crucial evidence for the rationalizing analysis of esoteric religious poetry in the late Classical period, likely intended for an educated elite familiar with both Orphic traditions and contemporary philosophical discourse. Found as a grave good, the papyrus offers a unique snapshot of the intellectual and religious crosscurrents in Macedonia prior to the Hellenistic era.</p>\n<p class=\"research-text\">The text survives solely on this single, badly burned papyrus. It was entirely lost to history after antiquity until its modern archaeological recovery and subsequent conservation, with its first complete scholarly publication appearing in 2006. The Orphic verses quoted within its commentary are among the earliest direct fragments of Orphic poetry known to exist.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "col1a",
+      "text": "[ ] . [] [ ]ων [] [ ]μ̣ετ̣α̣ . [ ] .. ο̣υ̣ναι [] [ ] . ίνεται[ ]α τῆς τύχης γὰ̣[ρ] [ λα]μμανε [ . ]αρ ου̣τ̣[ ..... ... ] . δε κόσμος [] [ ] . η̣σ̣ας . ο̣τοσμ . [ ..... .... ]τ̣α κοινὰ [] [ ] . έσ̣τατ̣α̣ [ὅ]σ̣ος περὶ κε̣ . [ .... ] λόγωι λέγων [] [ ] . οὐ̣ κα̣τ̣ὰ̣ φ̣ύσιν ἀν̣θρω[πηίου] ε̣ὖρος ποδὸς [] [ ] . οὐχ ὑπε̣ρ̣β̣άλλων . ι̣ . [ .... ὅ]ρ̣ους ε̣[] [εἰ δὲ μ]ή̣, Ἐρινύε[ς] νιν ἐξευρήσο[υσι] [ ὑπερ]βατὸμ ποῆι κ[] [ ] . θ̣υο̣[] [ ] . στει̣ .. ς̣ . [] [ ]α̣ τὰ κ̣ο̣ινὰ ῥ̣[] [ ]υπε . ειν . []",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "col1b",
+      "text": "[ ] ... [ . ] . σ[ ]ος . [] [ ] . γ γίνετα[ι δὲ σε]μνὸν̣ [] [ ] . η ἐξώλεα[ς σφᾶ]ς ποήσειν̣[] [ δ]αίμονες οἳ κάτω [εἰ]σὶγ καὶ τ[ούτων Ἐ]ρινύες· εἰσὶ δὲ θεῶν ὑπηρέται καὶ ἀνθρώ[πους κολά]ζ̣ο̣υ̣σι· ὅσαι δὲ εἰσὶν ὅπωσπερ ἄρισται ἁ̣μαρτη[μάτων ποῖ]να[ι,] ἐ̣κ̣ τ̣οῦ[δ’] αἰτίην [ἴσ]χουσ̣[ι τὰ] κάλλισ[τα] [ π]οιοῦσι . [ . ] . [ ]μέχρι ὁ ν̣[οῦς] [ συ]ν̣ετ[ώτερος] γίνητ[αι] [ ]νασ̣τ̣[]",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "col1",
+      "text": "[ ] .... [] χρη[στη]ριαζομ[] χ̣ρ̣η̣[σ]τ̣ηρ̣ιαζον[] αὐ̣τοῖς παριμε .. [ .... μα]ντεῖον ἐπε . [] τῶμ μαντευομέν[ων ἕν]εκεν εἰ θεμι[] .... ιδουδεινα τί ἀ[πισ]τοῦσι, οὐ γιν̣ώσ̣[κοντες τὰ ἐνύ]π̣νια .... τ̣ῶν ἄλλωμ πρ̣[α]γμάτων ἑκαστ̣[ ..... ..... ]ν ἂν [ . ] . [ . ] . δ̣ειγμάτωμ π̣[ι]στεύοιεν ὑπὸ . [ ] κ̣αὶ [τ]ῆ̣ς̣ ἄλλης ἡδον[ῆ]ς̣ νενικημ̣έ̣[νοι ]σιν [ .... π]ι̣στεύουσι α̣[ . ]στιν δ̣ε̣ ... [ ] [ ] . θάνωσι μ[η . ]ε γινώ[σ]κ̣ω̣σ[ι]",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "col2",
+      "text": "[ ..... .... ] . [ . ]ι̣ καὶ θυσ̣[ί]α̣ μ̣[ .... ] .. υ̣σι .. [] ε̣[ ..... ... ] . μα .. ν̣ δύν[ . ]ται δ̣αίμ̣ο̣νας ελ̣ . [] ρ . [ ..... .. ] . ς μεθιστάνα̣ι. δαίμον̣ες εμπο[] ψ[υχ ..... . ] . ο̣ι τὴν̣ θ̣υσ[ίαν] τ̣ούτου̣ ἔνεκεν [] οἱ̣ μ̣[ύστα]ι̣ ὡ̣[σ]περεὶ ποινὴ[ν] ἀποδιδόντες τοιδ̣ε[ ] ἱεροῖ[ς] ἐπισπένδουσιν ὕ[δω]ρ̣ καὶ γάλα, ἐξ ὧμπερ καὶ τὰς χοὰς ποιοῦσι. ἀνάριθμα̣ [καὶ] πολυόμ̣φαλα τὰ πόπανα θύουσιν ὅτι καὶ αἱ ψυχα[ὶ ἀνά]ρ̣ιθμο[ί ε]ἰσι. μύσται Εὐμεν̣ίσι προθύουσι κ̣[ .... ] . υ . α̣ . [ ]α̣γοις· Εὐμενίδες γὰρ ψυχαί [εἰ]σιν, ὧν ἕνεκ̣[εν ..... ..... ... ]α θεοῖς θύειν ..... ι̣ον πρότερον [ ..... ..... .... ]ι̣σ̣γ̣[ ..... ]ται [ ..... ]τεκαι .... [ ]ο̣ι [ ]λ̣ι̣[]",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "col3",
+      "text": "[ ] . η καὶ̣ θεμ[ι]τ̣ὰ λεγο[ ..... ..... . ] . ο γὰρ [ ]αι εἰπεῖν οὐχ οἷόν τ[ε ..... .... ὀ]νομάτων [(τ)άπο]ρ̣ρηθέντα. ἔστι δε . [ ..... ... ] π̣όησις̣ [ αἰνιγμ] ατώδης [ .. ] . [ ..... ]σ̣αυτ̣ . [ ] . κε θεὰς̣ λέγειν [ .. αἰν]ιγματ̣ω̣δῶ̣[ς] [ ]αι μὲν οὖγ καὶ . [ .... ]ο π̣ρώτου [ ]τ̣ου̣ ῥ̣ήματος ὥ̣[σπερ] καὶ ἐν τῶι [ θ]ύ̣ρ̣ας̣ γὰρ ἐπ̣ιθέ[σθαι κελ]εύσας τοὺ̣σ̣[ βεβήλους] [ ] ... ε̣ιμ φ . [ ..... ] πολλοῖ̣ς̣ [ ]ν̣ ἀκοὴν [ ..... . ]ντας ... [] [ ] . ει . [ .. ] []",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "col4",
+      "text": "[ ..... .... δ]ε̣δήλω[ται ἐν τῶιδ]ε τῶι ἔπ̣[ει]· [ο]ἳ Διὸς ἐξεγέ̣νοντο [ὑπερμεν]έος βασιλῆ̣ος . ὅπως δ’ ἄρχεται ἐν το̣[ῖσδε δη]λοῖ· Ζεὺς μὲν ἐπεὶ δὴ̣ [πατρὸς ὲο]ῦ πάρα θ̣έ̣[σ]φατον ἀρχὴν [ἀ]λκήν τ’ ἐγ χείρεσσι ἔ[λ]αβ[εγ κ]α̣ὶ̣ δαίμον̣[α] κυδρόν . [τα]ῦτα τὰ ἔπη ὑπερβατά ἐό[ν]τ̣α λανθ̣ά̣[νει], [ .. ] . ιν δὲ ὧδ’ ἔχοντα· Ζεὺς μὲν ἐπεὶ̣ τ[ὴν ἀλ]κὴν [πα]ρὰ πατρὸς ἑοῦ ἔλαβεγ καὶ δαίμον̣α̣ [κυδρ]ό̣ν. [χρὴ ὧ]δ’ ἔχοντα οὐκ ἀκούειν τὸν Ζᾶ̣[να ..... .. ]τ̣ει [ ..... .. ]ε̣ς ἀλλὰ τὴ̣ν ἀλκὴν λαμ̣β̣[αν] [ ..... ... ]οντα πα̣ρὰ̣ θέσφατα δ̣[] [ ..... ..... ] . κ̣ . γὰρ̣ τούτωι μα[] [ ..... ..... ἀ]νάγκην νομιζομ[] [ ..... .... ] καὶ μαθὼν ο . ο ... []",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "col5",
+      "text": "... α̣ι̣τ̣ . [ ... ] . ην οὖν τοῦ ἰ̣σχυρ̣[ο]τάτου ἐπόη̣[σεν ] εἶναι ὡσ̣[περ]ε̣ὶ παῖδα πατρό̣ς. οἱ δὲ οὐ γινώσκον[τες] τὰ λεγό[μεν]α δοκοῦσι̣ τ̣ὸ̣ν̣ Ζᾶνα παρὰ τοῦ αὑτο[ῦ] πατρὸς [τὴν] ἀλκήν [τε καὶ] τὸν δαίμονα λαμμά[νειν]. γινώσκ[ων] οὖ̣ν τὸ [ ..... . ] μ̣εμειγμένον τοῖς ἄλλοις ὅτι ταρ̣άσσοι καὶ κ[ωλ]ύ̣οι τὰ ὄντα συνίστασθαι διὰ τὴν θάλψιν ἐξαλλασ̣[ς .. ] .. τ̣ε ἱκανόν ἐστιν ἐξαλλα̣χθὲμ μὴ κωλύ[ειν τὰ] ὄ̣ν̣τ̣α συμπαγῆνα[ι]. ὅσα δ’ ἂ[ν] ἁ̣φθῆι ἐπικρα[τεῖται. ἐπικ]ρ̣ατηθὲν δὲ μίσγεται τοῖς ἄλ̣[λο]ις. ὅτι δ’ ἐγ χείρ[εσσιν ἔλαβ]ε̣ν ἠινίζετο ὥσπε[ρ τ]ἆλλα τὰ π̣[ ±14 ] . ομεν [ .... ]α [βε]βαιότατα νοε̣ι̣[ ±18 ]ν ἰσχυρός. ἔφη τὸν Ζᾶνα τ̣ . [ ±16 ]ν δαίμονα [ὡ]σ̣περεὶ ε[ ἰσχ]υ̣ρ̣ο̣ῦ̣.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "col6",
+      "text": "καὶ λέγε̣ι̣[ν· οὐ γ]ὰρ λέ̣[γ]ειν οἷόν τε̣ μ̣ὴ̣ φωνοῦντ[α]. ἐ̣νόμιζε δ̣ὲ̣ τὸ αὐτὸν εἶναι τὸ λ̣έγε̣ιν τε καὶ φωνε̣ῖν. λέγειν δὲ κ̣αὶ διδάσκειν τὸ αὐτὸ δ[ύ]ναται· οὐ γὰρ οἷόν τε δ̣ι̣[δ]άσκειν ἄνευ τοῦ λέγειν ὅσα διὰ λόγων διδάσκετα̣[ι]. νομίζεται δὲ τὸ διδ̣άσκειν ἐν τῶι λέγειν ε̣ἶ̣ν̣[αι]. οὐ τοίνυν τὸ μὲν διδάσκειν ἐκ το̣ῦ̣ λέγειν ἐ̣[φημί]σθη τὸ δὲ λέγειν ἐ̣κ τοῦ φωνεῖν, τὸ δ’ αὐτὸ̣[ν δύνα]ται φωνεῖγ καὶ λέγειν καὶ διδάσ̣[κειν]. οὕτω[ς οὐδὲγ κωλ]ύ̣ει πανομφεύουσαγ καὶ [πάντα] διδά[σκουσαν τὸ αὐτ]ὸ εἶναι. τροφ [ ±13 ] ..... ι[ .. ] . αι ὅτι [ἅ]σσα ὁ ἥ̣λ̣ι̣[ος ±8 ]αύει τα[ῦ]τα ἡ νὺξ τ . [] σ̣[ ±18 ] ἅσσα ὁ ἥλ[ι]ος . [ .. ]ρ̣[ ] τα[]",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "col7",
+      "text": "[τ]ῆ̣ς ̣νυκτός. ἐξ ἀ̣[δύτοι]ο δ’ αὐτὴν [λέγει] χρῆσ̣αι γνώμην ποιού̣[με]νος ἄδυτ̣ον ε̣[ἶ]ναι τὸ βάθος τῆς Ν̣υκτός· οὐ γ[ὰρ] δύνει ὥ[σ]περ̣ τ̣ὸ φῶς, ἀλλά νιν ἐν τῶι αὐτῶι μέ[νο]ν̣ αὐγὴ κα̣τα̣[λ]αμμάνει. χρῆσαι δὲ καὶ ἀρ̣κέσαι ταὐτ̣ὸ̣ [δύ]ναται. σκέψασθαι δὲ χρὴ ἐφ’ ὧι κεῖτα̣[ι τὸ] ἀρκέσαι κ̣α̣ὶ τὸ χρῆσαι. χρᾶν τὸνδε τὸν θεὸν νομίζον̣[τες ἔρ]χ̣ονται [π]ευσόμενοι ἅσσα ποῶσι· τα . [ ..... .. ]ω̣ι̣ λ̣έ̣γει· [ἡ δὲ] ἔχρησεν ἅπαντα τά οἱ θέ[μις .. ..... ]αι [ ..... ] . ις ἐδή̣λ̣ωσεν ὅ[τ]ι ο[] [ ±14 ] . οντ̣αι̣[]",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "col8",
+      "text": "καὶ ἀφ . [ ... ] . · τὸ δ’ ἐχόμε̣[νον ἔπ]ος ὧδ’ ἔχει· ὡς α[ .... κα]τὰ καλὸν ἕδ̣ος νιφόεντος Ὀλύμπου. Ὄλυμπ[ος καὶ χ]ρ̣όνος τὸ αὐτόν· οἱ δὲ δοκοῦντες Ὄλυμπ̣[ογ καὶ ο]ὐρανὸν [τ]αὐτὸ εἶναι ἐξαμαρτάν[ουσι]ν̣, [οὐ γ]ινώσκον[τε]ς ὅτι οὐρανὸν οὐχ οἷόν τ̣ε̣ μακ[ρό]τ̣ερον ἢ εὐρύτε[ρο]ν εἶναι, χρόνον δὲ μακρὸν εἴ τις [ὀνομ]άζο[ι] ο̣ὐ̣κ̣ ἂ̣[ν ἐξα]μαρτάνοι· ὁ δὲ ὅπου μὲν οὐρανὸν θέ̣[λοι λέγειν, τὴμ] προσθήκην εὐρὺν ἐποε̣ῖτο, ὅπου̣ [δὲ Ὄλυμπον, τοὐ]ν̣α̣ν̣τίον, εὐρὺμ μὲν οὐδέποτε, μα̣[κρὸν δέ· νιφόεντα] δὲ φήσας εἶνα̣ι τῆι [δ]υνάμει ε[ ±15 ]ι̣ νιφετώδει̣ [ ] [ .... ] νιφετω[ ±15 ] ... ονε̣[] [ ..... ]αμ[]",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "col9",
+      "text": "Ζεὺς μὲν ἐπεὶ δὴ̣ π̣ατρ̣ὸς ἑοῦ πάρα̣ [θέ]σφατ’ ἀκούσα̣[ς]· οὔτε γὰρ τό . ε ἤκουσεν, ἀλλὰ δεδήλω[τ]αι ὅπως ἤκουσεν, οὔτε ἡ Νὺξ κελεύει. ἀλλὰ δηλ̣οῖ ὧδε λέγων· αἰδοῖογ κα[τ]έπινεν, ὃς αἰθέρα ἔχθορε πρῶτος. ὅτι μὲμ πᾶ[σ]αν τὴμ πόησιν περὶ τῶμ πραγμάτων αἰνίζεται κ̣[α]θ’ ἔπος ἕκαστον ἀνάγκη λέγειν. ἐν τοῖς α[ἰδοίο]ι̣ς ὁρῶν τὴγ γένεσιν τοὺς ἀνθρώπου[ς] νομίζο[ντας εἶ]ν̣αι τούτωι ἐχρήσατο, ἄνευ δὲ τῶν̣ αἰδοίων [οὐ γίν]ε̣σθαι, αἰδοίωι εἰκάσας τὸν ἥλιο[ν]· ἄνε̣[υ γὰρ τοῦ ἡλίου] τὰ ὄντα τοιαῦτα οὐχ οἷ̣ό̣ν̣ [τε] γ .. [ ±14 ]ένων τῶν ἐ̣όντων [ ] πρ[ ±14 ] τ̣ὸν ἥλιο[μ] π̣άντα ο[ ] [ ] ... []",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "col10",
+      "text": "ἐ̣χθό̣ρηι τὸν λαμ̣π̣ρ̣ότατόν τε [καὶ λ]ε̣υ̣κ̣ό̣[τ]ατον χωρισθὲν ἀφ’ ἑωυτ̣οῦ. τοῦτον οὖ̣ν τὸγ Κρόνον γενέσθαι φησὶν ἐκ τ̣οῦ Ἡλίου τῆι Γ̣ῆι, ὅτι αἰτίαν ἔσχε διὰ τὸν ἥλιον κρούεσθαι πρὸς ἄλλ̣ηλ̣α. διὰ τοῦτο λέγει· ὃς μέγ’ ἔρεξεν. τὸ δ̣’ ἐ̣πὶ τούτωι· Οὐρανὸς Εὐφρονίδης, ὃς πρώτιστο̣ς̣ βασίλευσεν, κρούοντα τ̣ὸν Νοῦμ πρὸς ἄλληλ[α] Κρόν̣ον ὀνομάσας μ̣έγα ῥέξαι φησὶ τὸν Οὐρανόν· ἀ[φα]ι̣ρ̣ε̣θ̣ῆ̣ναι γὰρ τὴμ βασιλείαν αὐτόγ. Κρόνον̣ δὲ ὠ̣ν̣ό̣μασεν ἀπὸ τοῦ . [ . ] . ου αὐτὸν καὶ τἆλλα κατὰ [τὸν αὐτὸν λ]ό̣γον [ἔκαστ]ον· τῶγ γὰρ ἁπαντ[ ±14 ]ναν [ ..... . ]σορ̣[ ... ]ν φύσιν [ ±13 ]ν [ ..... . ]ς ἀφαιρ[εῖ]σθαι δ’ α[ὐτὸν .... τὴμ βασιλε]ίαν [ ..... . ] . ενων [ ±20 ]ντα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "col11",
+      "text": "κρ̣[ο]ύεν αὐτὰ πρὸ̣[ς ἄλλ]ηλα κα̣[ὶ] π̣οήσηι το[ .... ]ον χωρ̣ισθέντα δ̣ιασ̣τῆναι δίχ’ ἀλλήλων τὰ ἐό̣ν̣τα· χωρ̣[ι]ζομένου γὰ̣ρ τοῦ ἡλίου καὶ ἀπολαμβανομένου ἐμ μ̣έσωι πήξας ἴσχει καὶ τἄνωθε τοῦ ἡλίου καὶ τὰ κάτωθεν. ἐχόμενον δὲ ἔπος· ἐκ τοῦ δὴ Κρόνος [α]ὖτις, ἔπειτα δ̣ὲ μητίετα Ζεύς, λέγει 〈ὅ〉τι ἐκ τοῦδε̣ [ἀ]ρχή ἐστιν ἐξ ὅσου βασιλεύει ηδε ἀρχὴ διηγεῖται . [ .... ] . οντα κρούωμ πρὸς ἄλληλα διαστησας .. [ ... τὴ]ν̣ νῦμ μετάστασιν οὐκ ἐξ ἑτέρ̣[ων] ἕτερ’ ἄλλ’ ἑτε[ρ ±9 ] τὸ δ’ ἔπειτ̣[α δὲ μητίετα Ζεὺ]ς, ὅτι μὲν ο̣ὐ̣χ ἕτερ[ος ] ἀ̣λ̣λὰ ὁ αὐ̣[τὸς ..... ..... . ]ι δὲ [τ]όδ̣ε̣· Μῆτιγ κα[ ±14 ]ω̣μ βασιληίδα τιμ̣[ήν] ες . [ ±20 ]αι ιν ..... [] ε̣ι̣[]",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "col12",
+      "text": "[αἰδοῖ]ον τὸν ἥλιον ἔφ[η]σ̣εν εἶναι δε[δήλω]ται. ὅτι δὲ ἐ̣κ τῶν ὑπαρχόντων τὰ νῦν ὄντα γίνεται λέγει· πρωτογόνου βασιλέως αἰδοίου, τοῦ̣ δ’ ἄρα πάντες ἀθάνατοι προσέφυμ μάκαρες θεοὶ ἠ̣δ̣ὲ θέαιναι καὶ ποταμοὶ καὶ κρῆναι ἐπήρατοι ἄλ̣λα τε πάντα, [ὅ]σσα τότ’ ἦγ γεγαῶτ’, αὐτὸς δ’ ἄρα μοῦ̣νος ἔγεντο. [ἐ]ν̣ τού̣τοις σημαίνει ὅτι τὰ ὄντα ὑπῆ[ρ]χεν ἀεί, τὰ δὲ ν[ῦ]ν ἐ̣ό̣ντα ἐκ τῶν ὑπαρχόντων γίν[ετ]αι. τὸ δὲ [αὐ]τ̣ὸς δὲ ἄρα μοῦνος ἔγεντο, τοῦτο δὲ [λ]έγων δηλοῖ [αὐ]τ̣ὸ̣ν Νοῦμ πάντων ἄξιον εἶν̣αι μόν[ο]ν ἐόντα [ὡσπερ]εὶ μηδὲν τἆλλα εἴη· οὐ γὰρ̣ [οἷόν τε τα]ῦτα εἶναι [τὰ ..... ]ο̣ντα ἄ̣[νε]υ τοῦ Νοῦ̣ [ ±11 ]ο̣μένωι [ ..... .. ]ου ἄξιον̣ π̣άντω̣ν̣ [ ±14 ] . ναι [ ..... .. ]ν βασιλεὺ[ς] πάν̣τ̣[ων ±14 ]ε̣ιτα [ ..... . ] Νοῦς καὶ . [ ±20 ] . τον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "col13",
+      "text": "π[ρό]τερον ἦν πρ̣[ὶν ὀνο]μ[α]σ̣θῆνα̣[ι]· ἔ̣π̣[ει]τα ὠνομάσθ̣[η]· ἦγ γὰρ καὶ πρόσθεν [ ]ων η τὰ νῦν ἐόντα συ̣σταθῆναι ἀὴρ καὶ ἔσται ἀεί· οὐ γὰρ ἐγένετο, ἀλλὰ̣ ἦν· δι’ ὅ τι δὲ ἀὴρ ἐκλήθη δεδ̣ήλωται ἐν τοῖς προτέροις. γενέσθαι δὲ ἐνομίσθη ἐπείτ’ ὠνομάσθη Ζεύς, ὡσπερεὶ π̣ρότερον μή ἐών. καὶ ὕστατον ἐφησεν ἔσεσθαι τοῦτον, ἔπειτ . ὠνομάσθη Ζεὺς κ̣αὶ τοῦτο αὐτῶι διατελεῖ ὄνομα ὄν̣ μέχρι εἰς τὸ αὐτὸ εἶ̣δ̣ος τὰ νῦν ἐόντα συνεστάθη, ἐν ὧιπερ πρόσθεν [ἐ]όντα ἠιωρεῖτο. τὰ δὲ ὄντα [ ] γενέσθαι τοιαῦτ̣[α] δ̣ιὰ τοῦτον καὶ γενόμενα [ ] ἐν τούτω[ι ..... . ση]μαίνει δ’ ἐν τοῖς ἔπεσι τ[οῖσδε]· Ζεὺς κεφα̣[λή, Ζεὺς μέσσ]α, Διὸς δ’ ἐκ̣ [π]άντα τέτ̣[υκται]· [κ]εφαλη̣[ ±15 ]ντ’ αἰν̣[ί] ζεται ο̣[] κε̣φ̣αλη̣[ ±15 ] ἀρχὴ γίνεται ς̣ . [] . [ ±16 συστ]αθῆναι . []",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "col14",
+      "text": "[ ]α φάμενος [ .... ]ν̣ καὶ τὰ κατω̣[ ... ]μενα τὴν δ[ .... ] καὶ τἆλλα πάν[τ]α̣ εἶναι ἐν τῷι ἀέρ̣ι̣ π̣[νε]ῦμα ἑόν. τοῦτ’ οὖν τὸ πνεῦμα Ὀρφεὺς ὠνόμασεμ Μοῖραν. οἱ δ’ ἄλλοι ἄνθρωποι κατὰ φάτιμ ‘Μο̣ῖραν ἐπικλῶσαι‘ φασὶν ‘σφίσιγ‘ καὶ ‘ἔσεσθαι ταῦθ’ ἅσσα Μοῖρα ἐπέκλωσεν‘, λέγοντες μὲν ὀρθῶς οὐκ εἰδότες δὲ οὔτε τὴμ Μοῖραν ὅ τί εστιν οὔ̣τε τὸ ἐπικλῶσαι. Ὀρφεὺς γὰρ τὴμ φρόνησ[ι]μ Μοῖραν ἐκάλεσεν· ἐφαίνετο γὰρ αὐτῶι τοῦτο προσφερέστατον ε[ἶ]ν̣αι̣ ἐ̣ξ̣ ὧν ἅπαντες ἄνθρωποι ὠνόμασαμ. πρὶμ μὲγ γὰρ κληθῆ̣ναι Ζῆνα, ἦμ Μοῖρα φρόνησις τοῦ θεοῦ ἀεί τε καὶ̣ [δ]ιὰ παντός· ἐπεὶ δ’ ἐκλήθη Ζεύς, γενέσθαι αὐτὸν δ̣[οκοῦσ]ι, ὄν̣τ̣α μέγ καὶ πρόσθεν [ὀ]νομαζόμ[ε]νον δ’ ὅ[τε ±8 ] .. Ζεὺς πρ̣ῶ̣τος̣ [ ..... .... ]τογ γ .. ντα[ ±10 ] ἐπειτ̣[ . ] .... [ ̣ . ] . ο [ ..... .. ἀ]ν̣θ̣ρώπ̣[ων οἱ μὴ συνιέντ]ες τὰ λεγόμενα [ ] [ ]τὸν Ζῆνα [ ]",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "col15",
+      "text": "εκ[ ..... ] ... ν̣τα ἓν [ἕκ]αστογ κέκ[λητ]αι ἀπὸ τοῦ ἐπ̣ικρατοῦντος, Ζεὺ[ς] πάντα κατὰ τὸν αὐτὸν λόγον ἐκλήθη· πάντα̣ς̣ γὰρ ὁ ἀὴρ ἐπικρατεῖ τοσοῦτον ὅσομ βούλε̣τ̣αι. ‘Μοῖραν̣‘ δ’ ‘ἐπικλῶσαι‘ λέγοντες τοῦ Διὸς τὴμ φρόνησιν ἐπικυρῶσαι λέγουσιν τὰ ἐόντα κα̣ὶ τὰ γινόμενα καὶ τὰ μέλλοντα, ὅπως χρὴ γενέσθαι τε καὶ εἶναι κα[ὶ] παύσασθαι. βασ[ι]λεῖ δὲ αὐτὸν εἰκάζει (τοῦτο γάρ οἱ προσφέρειν ἐφα[ί]νετο ἐκ τῶν λεγομένων ὀνομάτων) λέγων ὧδε· Ζεὺ̣ς̣ βασιλεύς, Ζεὺς δ’ ἀρχὸς ἁπάντων ἀργικέραυνος. [βασιλέ]α ἔφη εἶναι ὅτι πολλ[ῶν ..... .. ] . ωμ μία [ἀρχὴ κ]ρατεῖ καὶ πάντα τ̣ελεῖ [ ..... .... ] . οὐδενὶ [ ..... .... ]χ̣ιν τε̣[λ]έ̣σαι [] [ ..... .... ] ἀρχὸν δε[] [ ..... .. ἄρ]χεται δια̣[]",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "col16",
+      "text": "ἀνθρώπω[ν ἐμ] πόλεσιν ἐπιτ̣ελέσαντες [τὰ ἱε]ρὰ εἶδον, ἔλασσον σφᾶς θαυμάζω μὴ γ[ι]νώσκειν (οὐ γὰρ οἷόν τε ἀκοῦσαι ὁμοῦ καὶ μαθεῖν τὰ λ̣εγόμενα), ὅσοι δὲ παρὰ τοῦ τέχνημ ποιουμένου τὰ ἱερὰ, οὗτοι ἄξιοι θαυμάζεσθαι καὶ οἰκτε[ί]ρεσθαι, θαυμάζεσθαι μὲν ὅτι̣ δ̣οκοῦντες πρότερον ἢ ἐπιτελέσαι εἰδήσειν ἀπέρχονται ἐπιτελέσαντες πρὶν εἰδέναι οὐδ’ ἑπανερόμενοι ὥσπερ ὡς εἰδότ̣ε̣ς τ̣[ι] ὧν εἶδον ἢ ἤκουσαν ἢ ἔμαθον· [οἰ]κ̣τε〈ί〉ρεσθαι δὲ ὅτι οὐκ ἀρκε[ῖ] σφιν τὴν δαπάνην προανηλῶσ̣θαι ἀλλὰ καὶ τῆ̣ς̣ γνώ̣μ̣ης στερόμενοι προσαπέρχονται. πρὶμ μὲν τὰ [ἱε]ρὰ ἐπιτελέσαι ἐλπίζον̣[τε]ς εἰδ̣ήσειν ἐπ̣[ιτελέσ]αν[τες] δ̣ὲ στερηθέ̣ντες κ̣α̣[ὶ τῆ]ς ἐλπί[δος] ἀπέρχονται̣. τ . [ ±10 ] . υοντ[ ... ]λ̣ογος̣ .. [ .. ]ται̣[ ..... ] . να . [ ±20 ] . υ̣ο . [ ⟦ μ] ητρὶ μὲν [ ]ως εἶδε ⟧",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "col17",
+      "text": "οὔτε τὸ ψυχ̣[ρὸν] τῶι ψυχρῶι. θόρνηι δὲ λέγ[ων] δ̣ηλοῖ ὅτι ἐν τῶι ἀέ̣ρ̣ι κατὰ μικρὰ μεμερισμένα ἐ̣κινεῖτο καὶ ἐθόρνυτο, θορνύμενα δὲ κατασυνεστάθη πρὸς ἄλληλα. μέχρι δὲ τούτου̣ ἐθόρνυτο, μέχρι ἕκαστον ἦ̣λ̣θεν εἰς τὸ σύνηθες. Ἀφροδίτη οὐρανία καὶ Ζεὺς καὶ ἀφροδισιάζειν κ̣αὶ θόρνυσθαι καὶ Πειθὼ καὶ Ἁρμονία τῶι αὐτῶι θεῶι̣ ὄ̣νομα κεῖται. ἀνὴρ γυναικὶ μισγό̣μενος ἀφροδισιάζειν λέγετα̣ι κατὰ φάτιν. τῶγ γὰ[ρ] νῦν ἐόντωμ μιχθέντων ἀλλ̣[ή]λοις Ἀφροδίτη ὠν[ο]μάσθη. Πειθώ δ’ ὅτι εἶξεν τὰ ἐ[ό]ντα ἀλλήλ̣ο̣[ι]σ̣ι̣ν̣. ε̣[ἴ]κειν δὲ καὶ πεί̣θειν τὸ αὐτόν̣. [Ἁ]ρμονία δὲ ὅτι πο[ ..... ... ἠ]ρμοσε τῶν ἐ̣όντων ἑκ̣άστω[ .. ]· ἦμ μὲγ γ[ὰρ καὶ πρ]όσθεν, ὠν̣ο̣μάσθη δὲ γενέσ[θαι] ἐπεὶ διεκρίθ[η· τὸ δὲ δι]α̣κριθῆν̣[α]ι̣ δηλοῖ ὅτ[ι] . [ .... ] . ε̣ι̣ς̣ εδι .. [ ..... . ]ατειωσ[ ] [ ±15 ] . [ .... ]ν . [ ] ν̣ῦν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "col18",
+      "text": "πά[ντ’ οὖ]ν ὁμοίω[ς ὠ]νόμασεν ὡς̣ κ̣άλλιστα ἠ[δύν]ατο γινώσκ̣ων τῶν ἀ̣νθρώπων τὴμ φύσιν, ὅτι οὐ π̣άντες ὁμοίαν ἔχουσιν οὐδὲ θέλουσιν π̣άντες ταὐτά· κρατιστεύοντες λέγουσι ὅ τι ἂν αὐτῶν ἑκάστωι ἐπὶ θ̣υμὸν ἔλθηι, ἅπερ ἂν θέλοντες τυγχάνωσι, οὐδαμὰ ταὐτά, ὑ̣πὸ πλεονεξίας, τὰ δὲ καὶ ὑπ’ ἀμαθίας. Γῆ̣ δὲ καὶ Μήτηρ καὶ Ῥέα καὶ Ἥρ̣η ἡ αὐτή. ἐκλήθη δὲ Γῆ μὲν νόμωι, Μή̣τηρ δ’ ὅτι ἐκ ταύτης πάντα γ[ίν]εται. Γῆ καὶ Γαῖα κατὰ [γ]λῶσσαν ἑκάστοις. Δημήτη[ρ δὲ] ὠνομάσθη ὥσπε[ρ] ἡ Γῆ Μήτηρ, ἐξ ἀμφοτέρων ἓ[ν] ὄ̣νομα· τὸ αὐτὸ γὰρ ἦν. ἔστι δὲ καὶ ἐν τοῖς Ὕμνοις εἰ̣[ρη]μένον· Δη̣μήτηρ [Ῥ]έα Γῆ Μή[τ]ηρ Ἑστία Δηι̣ώι. καλε̣[ῖτ]αι γὰρ καὶ Δηιὼ ὅτι ἐδηι[ώθ]η ἐν τῆι μ̣είξει. δηλώσει δ . [ .. ]α̣ν κ[α]τὰ τὰ επ[ . ]γε̣ . [ ... ]· Ῥέα̣ δ’ ὅτι πόλλὰ καὶ̣ ... [ ] ζῶ̣ια ἔφυ [ ±11 ] ἐ̣ξ αὐτῆς. Ῥέα κα . [] κα[ ±17 ] . ηοεκ̣[]",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "col19",
+      "text": "τ̣ο̣ῦ̣τ̣ο τὸ ἔπος πα̣[ρα]γωγὸμ πεπόηται καὶ το[ῖς μ]ὲν π̣ο̣λλ̣οῖς ἄδηλόν ἐ̣σ̣τ̣ι̣ν τοῖς δ̣ὲ ὀρθῶς γινώσκο̣υσι εὔδηλον ὅτι Ὠκεανός ἐστιν ὁ ἀήρ, ἀὴρ δὲ Ζεύς· οὔκουν ἐμήσατο τὸν̣ Ζᾶνα ἕτερος Ζεὺς ἀλλ’ αὐτὸς αὑτῶι σθένος μέγα. οἱ δ’ οὐ γινώσκοντες τὸ̣ν Ὠκεανὸν ποταμὸν δ̣οκοῦσιν εἶναι ὅτι εὐρὺ ῥέοντα προσέθηκεν. —ὁ δὲ σημαίνει τὴν αὑτοῦ γνώμην ἐν τοῖς λεγομέν[ο]ις καὶ νομιζομένοις ῥήμ̣ασι. καὶ γὰρ τῶν ἀν[θ]ρώπων τοὺς μέγα̣ δ̣υ̣νατ̣[οῦ]ντας ‘μεγάλουσ‘ φασὶ ‘ῥυ̣ῆναι‘. τὸ δ’ ἐχόμενον· ἶνας δ’ ἐγ . α̣[ ... σ]ς’ Ἀχελώιου ἀργυ̣[ρ]οδίν̣ε̣[ω] τῶ[ι] ὕδα[τι ..... ]σ̣ι Ἀχελῶιον ὄν̣ομ[α .. ] . δ̣ . [ ] τὰ[ς] δ’ ἶνα[ς ἐγ . α ... ]σσαι ἐστ[ὶν τ]ὸ̣ ἐγγ . [ .... ]αι τη . [ ] .. [ ±11 ] . ων αυ[ ±13 ] .. ἑκασ̣[τ ±12 ]δεβουλ[] .. ν[ ±13 ]ο̣ντο̣[]",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "col20",
+      "text": "ἴσα ἐστὶν ἐκ τοῦ [μέ]σου μετρούμενα, ὅσα δ[ὲ μ]ὴ κυκλοειδέα οὐχ οἷόν τε ἰσομελῆ εἶναι. δηλοῖ δὲ τόδε· ἣ πολλοῖς φαίνει μερόπεσσι ἐπ’ ἀπείρονα γαῖαν. τοῦτο τὸ ἔπος δόξειεν ἄν τις ἄλλως ἐρῆσ[θ]αι, ὅτι ἤν ὑπερβάληι μ̣ᾶλλον τὰ ἐόντα φαί̣ν̣ε̣τ̣αι ἢ̣ πρὶν ὑπερβάλλειν. ὁ δὲ οὐ τοῦτο λέγει φαίνειν αὐτήν (εἰ γὰρ τοῦτο ἔλεγε, οὐκ ἂμ ‘πολλοῖσ‘ ἔφη φαίνειν αὐτὴν ἀλλὰ ‘πᾶσιν‘) ἀλλὰ τ̣οῖς τε τὴγ γῆν ἐργαζομένοις καὶ τ̣οῖς̣ ναυτιλλομ̣ένοις, ὁπότε χρὴ πλεῖν, τούτοις τὴν ὥραν. εἰ γὰρ μ̣ὴ ἦν σελήνη, οὐκ ἂν ἐξηύρ[ι]σκον οἱ ἄνθρωποι τὸν ἀρ̣ι̣θμὸν οὔτε̣ τῶν ὡρέων ο[ὔ]τε τῶν ἀνέμω[ν ..... ..... ] καὶ τἆλλα π̣ά̣ντα [ ..... . ]ην εκ[ ±18 ]σαεν̣[ ±13 ]· [ ] [ ]ς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "col21",
+      "text": "κ̣αὶ λαμπρό[τ]η̣τα· τὰ δ’ ἐξ ὧ̣ν ἡ σελήνη̣ [λε]υκότατα μὲ̣ν τῶν ἄλλων̣ κ̣ατὰ τὸν αὐτὸν λόγον μεμ̣ερισμένα θερμὰ δ’ οὔ[κ] ἐστι. ἔστι δὲ καὶ ἄλλα νῦν ἐ̣ν τῶι ἀέρι ἑκὰς ἀλλήλων α[ἰ]ωρούμεν’, ἀλλὰ τῆς μὲν ἡμέρης ἄδηλ’ ἐσ̣τὶν ὑ̣[πὸ] τοῦ ἡλίου ἐπικρατούμενα τῆς δὲ νυκτὸς ἐόντα δῆλά ἐστιν, ἐ̣πικρατεῖται δὲ διὰ σμικ[ρ]ότητα. αἰωρεῖται δ’ αὐτῶν ἕκαστα ἐν ἀνάγκη̣ι, ὡς ἂμ μὴ συνίηι πρὸς ἄλληλα̣· εἰ γὰρ μή, συνέλθοι 〈ἂν〉 ἁλέα ὅσα τὴν αὐτὴν δύναμιν ἔχει, ἐξ ὧν ὁ ἥλιος συνεστάθη. τὰ νῦν ἐόντα ὁ θε̣ὸς εἰ μὴ ἤθε̣λεν εἶναι, οὐκ ἂν ἐπόησεν ἥλιον. ἐποίησε δὲ τοιοῦτογ̣ κ̣αὶ̣ τ̣[ο]σοῦτον γινόμενον οἷος ἐν̣ ἀρχῆι τοῦ λόγου διηγεῖ[τ]α̣ι, τὰ δ’ [ἐ]πὶ τούτοις̣ ἐ̣π̣ίπρ̣οσθε π̣[ο]ιεῖται [οὐ β]ου[λό]μενο̣[ς] πάντας γιν[ώ]σκε̣[ι]ν̣. ἐν δ̣ὲ [τ]ῶιδε σημαί[νει] [ ... ] .. [ . ]μ̣ει[ .. ] ... α̣διο̣[ ..... .. ]σα[ ... ] ..",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "col22",
+      "text": "μη[τρ]ὸ̣ς μὲν ὅτι μ̣ήτηρ ὁ Ν[οῦ]ς ἔστιν τῶ̣ν ἄλλων̣ ἑᾶς δὲ ὅτι ἀγαθῆς. δηλοῖ δὲ̣ καὶ ἐν τοῖσδε̣ τοῖς ἔπε̣[σιν] ὅτι ἀγαθὴν̣ σημαίνει. Ἑρμῆ Μαιάδος υἱὲ διάκτορε δῶτορ ἐά̣ων. δηλοῖ δὲ καὶ ἐν τ[ῶ]ιδε· δοιοὶ γάρ τε πίθοι κατακήαται ἐν Διὸς οὔδει δώρων οἷα διδοῦσι, κακῶν, ἕτερος δέ τ’ ἐάων. οἱ δὲ τὸ ῤῥῆμα οὐ γινώσκοντες δοκοῦ̣σιν εἶναι μητρὸς ἑαυτοῦ· ὁ δ’ εἴπερ ἤθελεν ἑαυτοῦ μητρὸς ἐμ φιλότητι ἀπο̣δ̣ε̣ῖ̣ξαι θέλοντα μιχθῆ̣ναι τὸν θεόν, ἐ̣ξῆν αὐτῶι γράμματα παρακλίναντα ‘μητρὸς ἑοῖο‘ εἰπε[ῖ]ν· οὕτω γ[ὰ]ρ̣ ἂν ‘ἑαυτο̣ῦ̣‘ γίνοιτο [ ..... ]α̣υτῆς ανε[ ..... .. δ]ῆ̣λον ὅτι [ ..... . ] [ ] [ ..... ]εν τῆι συ . [ ..... ... ] ἄμφοτερ̣[] [ ..... . ἀ]γαθη . [ ..... .... ] . α[] [ ..... . ] . εναι̣[]",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "lea-ad",
+      "title": {
+        "english": "Argonautica",
+        "ancient_greek": "Ἀργοναυτικά"
+      },
+      "url_slug": "orphic-poems-argonautica-lea-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/orphic-poems/argonautica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-argonautica-lea-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-argonautica-lea-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-argonautica-lea-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-argonautica-lea-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/argonautica.epub"
+      }
+    },
+    {
+      "eul_wid": "lea-ab",
+      "title": {
+        "english": "Astrological Fragment",
+        "ancient_greek": "Ἀστρολογικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "orphic-poems-astrological-fragment-lea-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/orphic-poems/astrological-fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-astrological-fragment-lea-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-astrological-fragment-lea-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-astrological-fragment-lea-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-astrological-fragment-lea-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/astrological-fragment.epub"
+      }
+    },
+    {
+      "eul_wid": "lea-af",
+      "title": {
+        "english": "Fragments on Medicinal Herbs",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βοτανῶν Ἰατρικῶν"
+      },
+      "url_slug": "orphic-poems-medicinal-herbs-lea-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/orphic-poems/medicinal-herbs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-medicinal-herbs-lea-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-medicinal-herbs-lea-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-medicinal-herbs-lea-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-medicinal-herbs-lea-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/medicinal-herbs.epub"
+      }
+    },
+    {
+      "eul_wid": "lea-aj",
+      "title": {
+        "english": "Hymns",
+        "ancient_greek": "Ὕμνοι"
+      },
+      "url_slug": "orphic-poems-hymns-lea-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/orphic-poems/hymns",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-hymns-lea-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-hymns-lea-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-hymns-lea-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-hymns-lea-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/hymns.epub"
+      }
+    },
+    {
+      "eul_wid": "lea-ah",
+      "title": {
+        "english": "On Stones",
+        "ancient_greek": "Περὶ λίθων"
+      },
+      "url_slug": "orphic-poems-stones-ah-lea-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/orphic-poems/stones-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ah-lea-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ah-lea-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ah-lea-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ah-lea-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/stones-ah.epub"
+      }
+    },
+    {
+      "eul_wid": "lea-ai",
+      "title": {
+        "english": "On Stones",
+        "ancient_greek": "Περὶ λίθων"
+      },
+      "url_slug": "orphic-poems-stones-ai-lea-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/orphic-poems/stones-ai",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ai-lea-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ai-lea-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ai-lea-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ai-lea-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/stones-ai.epub"
+      }
+    },
+    {
+      "eul_wid": "lea-ag",
+      "title": {
+        "english": "Orphic Cosmogony and Soul Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "orphic-poems-cosmogony-soul-lea-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/orphic-poems/cosmogony-soul",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-cosmogony-soul-lea-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-cosmogony-soul-lea-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-cosmogony-soul-lea-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-cosmogony-soul-lea-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/cosmogony-soul.epub"
+      }
+    },
+    {
+      "eul_wid": "lea-aa",
+      "title": {
+        "english": "Proclamations-Stones",
+        "ancient_greek": "Προκηρύξεις περὶ λίθων"
+      },
+      "url_slug": "orphic-poems-proclamations-stones-lea-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/orphic-poems/proclamations-stones",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-proclamations-stones-lea-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-proclamations-stones-lea-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-proclamations-stones-lea-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-proclamations-stones-lea-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/proclamations-stones.epub"
+      }
+    },
+    {
+      "eul_wid": "lea-ae",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "orphic-poems-testimonies-lea-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/orphic-poems/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-testimonies-lea-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-testimonies-lea-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-testimonies-lea-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-testimonies-lea-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/testimonies.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "kkk-ag",
+      "title": {
+        "english": "On Impassibility",
+        "ancient_greek": "Περὶ ἀπαθείας"
+      },
+      "url_slug": "teles-of-megara-impassibility-kkk-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/teles-of-megara/impassibility",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-impassibility-kkk-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-impassibility-kkk-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-impassibility-kkk-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-impassibility-kkk-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/impassibility.epub"
+      }
+    },
+    {
+      "eul_wid": "nbq-ab",
+      "title": {
+        "english": "On Passions, Book 2",
+        "ancient_greek": "Περὶ παθῶν"
+      },
+      "url_slug": "andronicus-of-rhodes-passions-book-2-nbq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/andronicus-of-rhodes/passions-book-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andronicus-of-rhodes-passions-book-2-nbq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andronicus-of-rhodes-passions-book-2-nbq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andronicus-of-rhodes-passions-book-2-nbq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andronicus-of-rhodes-passions-book-2-nbq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andronicus-of-rhodes/passions-book-2.epub"
+      }
+    },
+    {
+      "eul_wid": "beu-ac",
+      "title": {
+        "english": "On Piety and Festivity",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "xenophanes-of-colophon-piety-festivity-beu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophanes-of-colophon/piety-festivity",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-piety-festivity-beu-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-piety-festivity-beu-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-piety-festivity-beu-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-piety-festivity-beu-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/piety-festivity.epub"
+      }
+    },
+    {
+      "eul_wid": "hik-ab",
+      "title": {
+        "english": "On Rhetoric and Natural Philosophy",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "nausiphanes-of-teos-rhetoric-philosophy-hik-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/nausiphanes-of-teos/rhetoric-philosophy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausiphanes-of-teos-rhetoric-philosophy-hik-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausiphanes-of-teos-rhetoric-philosophy-hik-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausiphanes-of-teos-rhetoric-philosophy-hik-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausiphanes-of-teos-rhetoric-philosophy-hik-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausiphanes-of-teos/rhetoric-philosophy.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-ak",
+      "title": {
+        "english": "On the Movement of Animals",
+        "ancient_greek": "Περὶ Ζῴων Κινήσεως"
+      },
+      "url_slug": "aristotle-movement-animals-hgw-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/movement-animals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-movement-animals-hgw-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-movement-animals-hgw-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-movement-animals-hgw-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-movement-animals-hgw-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/movement-animals.epub"
+      }
+    },
+    {
+      "eul_wid": "bze-ab",
+      "title": {
+        "english": "On the Nature of the Universe",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "diogenes-of-apollonia-universe-bze-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-apollonia/universe",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-apollonia-universe-bze-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-apollonia-universe-bze-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-apollonia-universe-bze-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-apollonia-universe-bze-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-apollonia/universe.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-bn",
+      "title": {
+        "english": "Philopolis",
+        "ancient_greek": "〈Φ〉ιλόπολις"
+      },
+      "url_slug": "themistius-philopolis-rye-bn",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/philopolis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philopolis-rye-bn.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philopolis-rye-bn.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philopolis-rye-bn.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philopolis-rye-bn.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/philopolis.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-al",
+      "title": {
+        "english": "Sentences Leading to Intelligibles",
+        "ancient_greek": "Ἀποφθέγματα πρὸς Νοητά"
+      },
+      "url_slug": "porphyry-of-tyre-intelligibles-udm-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/intelligibles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-intelligibles-udm-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-intelligibles-udm-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-intelligibles-udm-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-intelligibles-udm-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/intelligibles.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/orphic-poems/derveni",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-derveni-lea-ac.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-derveni-lea-ac.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-derveni-lea-ac.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-derveni-lea-ac.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/derveni.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

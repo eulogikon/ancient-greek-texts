@@ -1,0 +1,411 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "jqk-ab",
+  "eul_aid": "jqk",
+  "author_slug": "nicomachus-the-comic-poet",
+  "work_slug": "comic-chefs-art",
+  "url_slug": "nicomachus-the-comic-poet-comic-chefs-art-jqk-ab",
+  "author": {
+    "english": "Nicomachus the Comic Poet",
+    "ancient_greek": "Νικόμαχος ὁ κωμικός"
+  },
+  "title": {
+    "english": "Comic Chef's Art",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "The Comic Chef's Art by Nicomachus Comic Poet on Eulogikon",
+    "meta_title": "The Comic Chef's Art by Nicomachus in Ancient Greek",
+    "meta_description": "Fragments of Nicomachus the Comic Poet's The Comic Chef's Art. Ancient Greek comedy about food. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">_The Comic Chef&#x27;s Art_ is a collection of twenty-nine comic verse fragments attributed to the poet Nicomachus. The conventional English title reflects the work&#x27;s thematic preoccupation with food and culinary practice, though its original Greek title more accurately denotes a compilation of extracts or selections. These passages are likely drawn from one or more of his comedies, which belong to the tradition of Athenian Old or Middle Comedy. The surviving fragments employ parody and satire, focusing their humor on the culinary arts and the figure of the professional chef. This comic treatment extends to themes of gluttony, extravagant dining, and social commentary on consumption and luxury, often intersecting with broader jokes about household management. The work itself is lost and survives only through quotations preserved by later authors, principally the gastronomic writer Athenaeus of Naucratis in his _Deipnosophistae_, compiled in modern standard editions of comic fragments. As part of the corpus of Greek comic poetry, these excerpts contribute to the scholarly understanding of the genre&#x27;s thematic range, particularly its penchant for parodying daily life and professional trades, while also providing valuable, if humorous, evidence for the study of ancient gastronomy and social history.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[spk_β]Ὑποδεικνύεις μὲν ἦθος ἀστεῖον πάνυ καὶ πρᾶον, ὀλίγωρον δὲ πεποίηκάς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τι. Β. πῶς; Α. ἐν τῇ τέχνῃ τίνες ἐσμὲν οὐκ ἐξήτακας. ἢ πρότερον ἐπύθου τῶν ἀκριβῶς εἰδότων[ln_5]οὕτω τ’ ἐμισθώσω με; Β. μὰ Δί’ ἐγὼ μὲν οὔ. Α. ἦ μὴν ἴσως ὅσον μαγείρου διαφέρει μάγειρος οὐκ οἶσθ’. Β. εἴσομαι δέ γ’ ἢν λέγῃς. Α. τὸ γὰρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "παραλαβόντ’ ὄψον ἠγορασμένον, πάτερ, ἀποδοῦναι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "σκευάσαντα μουσικῶς[ln_10]διακόνου ’́στ’ οὐ τοῦ τυχόντος, Ἡράκλεις. ὁ μάγειρός ἐσθ’ ὁ τέλειος ἑτέρα διάθεσις. πολλὰς τέχνας λάβοις ἂν ἐνδόξους πάνυ, ὧν τὸν μαθεῖν βουλόμενον ὀρθῶς οὐκ ἔνι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "ταύταις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "προσελθεῖν εὐθύς· ἀλλ’ ἔμπροσθε δεῖ[ln_15]ζωγραφίας ἧφθαι. ταὐτὰ καὶ μαγειρικῆς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "πρότερον μαθεῖν δεῖ τινα τέχνης ἑτέρας τέχνας, ὧν εἰδέναι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.8",
+      "text": "σοι κρεῖττον ἦν μοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.9",
+      "text": "πρὶν λαλεῖν, ἀστρολογικήν, γεωμετρικήν, ἰατρικήν. τῶν ἰχθύων γὰρ τὰς δυνάμεις καὶ τὰς τύχας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_20][spk_β]ἐντεῦθεν εἴσει, παρακολουθήσεις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "χρόνοις, πότ’ ἄωρός ἐσθ’ ἕκαστος ἢ πόθ’ ὥριμος. τῶν ἡδονῶν γὰρ μεγάλα τὰ διαστήματα· ἐνίοτε κρείττων γίγνεται θύννου βόαξ. Β. ἔστω. γεωμετρικῇ δὲ καὶ σοὶ πρᾶγμα τί;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_25][spk_α]Α. τοὐπτάνιον ἡμεῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "σφαῖραν εἶναι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τιθέμεθα. τοῦτο διελέσθαι καὶ τόπον λαβόνθ’ ἕνα μερίσαι κατ’ εἶδος τῆς τέχνης ἐπιδέξια, ἐκεῖθεν ἐνταῦθ’ ἐστὶ μετενηνεγμένα. Β. οὗτος, πέπεισμαι· καὶ τὰ λοιπὰ μὴ λάλει.[ln_30]Α. περὶ τῆς ἰατρικῆς δέ· τῶν γὰρ βρωμάτων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "πνευματικὰ καὶ δύσπεπτα καὶ τιμωρίαν ἔχοντ’ ἔνι’ ἔστιν, οὐ τροφήν. δειπνῶν δὲ πᾶς τἀλλότρια γίγνετ’ ὀξύχειρ κοὐκ ἐγκρατής. τοῖς δὴ τοιούτοις βρώμασιν τὰ φάρμακα[ln_35]εὕρητ’ ἐκεῖθεν, μεταφορὰ δ’ ἐστὶν τέχνης. ἤδη τὸ μετὰ νοῦ καὶ τὸ συμμέτρως ἐμόν. παρὰ τακτικῆς, ἕκαστα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "ποῦ τεθήσεται· ἀριθμῷ τὸ πλῆθος εἰδέναι μαγειρικῆς. οὐδεὶς ἕτερός",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "σοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "πρὸς ἐμὲ καὶ γραφήσεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_40][spk_β]Β. μικρὰ διάκουσον ἐν μέρει κἀμοῦ. Α. λέγε. Β. σὺ μηδὲν ἐνόχλει μήτε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "σαυτὸν μήτ’ ἐμέ, ἀπραγμόνως δὲ διαγενοῦ τὴν ἡμέραν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ἐργῶδές ἐστιν ἐν βίῳ βεβιωκότα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τοὺς τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "φθονούντων πάντας ὀφθαλμοὺς λαθεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Οὐσίδιον γὰρ καταλιπόντος μοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "πατρός οὕτω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "συνεστρογγύλικα κἀξεκόκκισα ἐν μησὶν ὀλίγοις ὥσπερ ᾠόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "τις ῥοφῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Ὦ χαῖρε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "χρυσόκλυστα καὶ χρυσοῦς ἐμῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "jqk-aa",
+      "title": {
+        "english": "Cook's Art",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "nicomachus-the-comic-poet-cooks-art-jqk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicomachus-the-comic-poet/cooks-art",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-the-comic-poet-cooks-art-jqk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-the-comic-poet-cooks-art-jqk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-the-comic-poet-cooks-art-jqk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-the-comic-poet-cooks-art-jqk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-the-comic-poet/cooks-art.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "daw-an",
+      "title": {
+        "english": "Clouds",
+        "ancient_greek": "Νεφέλαι"
+      },
+      "url_slug": "aristophanes-of-athens-clouds-daw-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/clouds",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-clouds-daw-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-clouds-daw-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-clouds-daw-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-clouds-daw-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/clouds.epub"
+      }
+    },
+    {
+      "eul_wid": "fgy-aa",
+      "title": {
+        "english": "Comic Fragments on Love and Feasting",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἔρωτος καὶ Συμποσίου"
+      },
+      "url_slug": "antiphanes-the-comic-poet-love-feasting-fgy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/antiphanes-the-comic-poet/love-feasting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphanes-the-comic-poet-love-feasting-fgy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphanes-the-comic-poet-love-feasting-fgy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphanes-the-comic-poet-love-feasting-fgy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphanes-the-comic-poet-love-feasting-fgy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphanes-the-comic-poet/love-feasting.epub"
+      }
+    },
+    {
+      "eul_wid": "eyc-ab",
+      "title": {
+        "english": "Fragments on Golden Apples",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μήλων Χρυσῶν"
+      },
+      "url_slug": "eriphus-the-comic-poet-golden-apples-ab-eyc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/eriphus-the-comic-poet/golden-apples-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eriphus-the-comic-poet-golden-apples-ab-eyc-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eriphus-the-comic-poet-golden-apples-ab-eyc-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eriphus-the-comic-poet-golden-apples-ab-eyc-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eriphus-the-comic-poet-golden-apples-ab-eyc-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eriphus-the-comic-poet/golden-apples-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "ivg-aa",
+      "title": {
+        "english": "Fragments on Hedonism and Philosophy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἡδονῆς καὶ Φιλοσοφίας"
+      },
+      "url_slug": "bato-the-comic-poet-hedonism-philosophy-ivg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/bato-the-comic-poet/hedonism-philosophy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet-hedonism-philosophy-ivg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet-hedonism-philosophy-ivg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet-hedonism-philosophy-ivg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet-hedonism-philosophy-ivg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet/hedonism-philosophy.epub"
+      }
+    },
+    {
+      "eul_wid": "duw-aa",
+      "title": {
+        "english": "Fragments on Human Nature",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἀνθρωπίνης Φύσεως"
+      },
+      "url_slug": "phrynichus-the-comic-poet-human-nature-duw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/phrynichus-the-comic-poet/human-nature",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet-human-nature-duw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet-human-nature-duw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet-human-nature-duw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet-human-nature-duw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet/human-nature.epub"
+      }
+    },
+    {
+      "eul_wid": "fka-aa",
+      "title": {
+        "english": "Fragments on Lais the Hetaira",
+        "ancient_greek": "Ἀποσπάσματα περὶ Λαΐδος τῆς Ἑταίρας"
+      },
+      "url_slug": "epicrates-the-comic-lais-fragments-aa-fka-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicrates-the-comic/lais-fragments-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicrates-the-comic-lais-fragments-aa-fka-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicrates-the-comic-lais-fragments-aa-fka-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicrates-the-comic-lais-fragments-aa-fka-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicrates-the-comic-lais-fragments-aa-fka-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicrates-the-comic/lais-fragments-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "ivg-ab",
+      "title": {
+        "english": "Fragments on Philosophy and Excess",
+        "ancient_greek": "Ἀποσπάσματα περὶ Φιλοσοφίας καὶ Ὑπερβολῆς"
+      },
+      "url_slug": "bato-the-comic-poet-philosophy-excess-ivg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/bato-the-comic-poet/philosophy-excess",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet-philosophy-excess-ivg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet-philosophy-excess-ivg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet-philosophy-excess-ivg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet-philosophy-excess-ivg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet/philosophy-excess.epub"
+      }
+    },
+    {
+      "eul_wid": "ivq-ac",
+      "title": {
+        "english": "Fragments on Servants and Masters",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δούλων καὶ Δεσποτῶν"
+      },
+      "url_slug": "alexis-the-comic-poet-servants-masters-ivq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexis-the-comic-poet/servants-masters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-the-comic-poet-servants-masters-ivq-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-the-comic-poet-servants-masters-ivq-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-the-comic-poet-servants-masters-ivq-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-the-comic-poet-servants-masters-ivq-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-the-comic-poet/servants-masters.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/nicomachus-the-comic-poet/comic-chefs-art",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-the-comic-poet-comic-chefs-art-jqk-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-the-comic-poet-comic-chefs-art-jqk-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-the-comic-poet-comic-chefs-art-jqk-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-the-comic-poet-comic-chefs-art-jqk-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-the-comic-poet/comic-chefs-art.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,219 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ods-aa",
+  "eul_aid": "ods",
+  "author_slug": "conon-the-mythographer",
+  "work_slug": "italy",
+  "url_slug": "conon-the-mythographer-italy-ods-aa",
+  "author": {
+    "english": "Conon the Mythographer",
+    "ancient_greek": "Κόνων ὁ μυθογράφος"
+  },
+  "title": {
+    "english": "Fragments on Italy",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ἰταλίας"
+  },
+  "seo": {
+    "browser_title": "Fragments on Italy by Conon the Mythographer on Eulogikon",
+    "meta_title": "Fragments on Italy by Conon the Mythographer in Greek",
+    "meta_description": "Surviving fragments of Conon's work on Italy discussing Campanian peoples mythological origins. Historical mythological prose compilation from antiquity."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Italy</strong> comprises four prose passages attributed to Conon the Mythographer, preserved exclusively within the 9th-century <strong>Bibliotheca</strong> of the Byzantine patriarch Photius. Photius summarizes fifty narratives from Conon’s work, likely titled <strong>Diegeseis</strong> (“Narratives”), which condenses mythological stories and offers alternative versions with etiological explanations connected to the Greek world. The fragments exemplify core themes of Hellenistic mythography, including mythological etiology, such as explaining Italian place names, rites, and landmarks through myth. They also detail the heroic wanderings and foundations of Greek heroes in Italy, bridging Greek myth with Italic and Roman traditions while providing characteristic variations of standard myths found in mythographical handbooks.</p>\n<p class=\"research-text\">Conon’s original work is lost and survives solely through Photius’s epitome, with the Italian fragments embedded within his summaries. There is no independent manuscript tradition for the text. Composed for King Archelaus of Cappadocia during the early Imperial period, the work reflects the contemporary systematization of Greek myth and illustrates the patronage of Greek letters within the eastern Roman Empire. Modern scholars consult it as a source for mythographic variants and for insights into the geographic dimensions of mythology and Augustan-era literary culture.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "ΙΤΑΛΙΚΑ Servius ad Vergil Aen. VII, 738: [Sarrastis populos] Populi Campaniae sunt a Sarno fluvio. Conon in eo libro, quam de Italia scripsit, quosdam Pelasgos aliosque ex Pe loponneso convenas ad eum locum Italiae venisse dicit, cui nullum antea nomen fuerit, et flumini, quem incolerunt, Sarno nomen imposuisse ex appellatione patrii fluminis, et se Sarrhastes appellasse: hi inter multa pooida Numceriam condiderunt.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Macrobius Sat. I, 9: Xenon ( Conon? ) primo Italic o n tradit Janum in Italia primum dis templa fecisse et ritus instituisse sacrorum, ideoque eum in sacrificiis praefationem meruisse perpetuam.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "t3",
+      "text": "ΗΡΑΚΛΕΙΑ. ΝΗΣΙΑΣ. E LIBRO TERTIO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Schol. Apoll. Rh. I, 1165: Ὁ δὲ πρὸς τὸν Αἰγαίωνα μῦθος ὑπὸ Δημητρίου φέρεται τοῦ Κνιδίου. Κόνων δὲ ἐν τῇ Ἡρακλείᾳ φησὶν ὅτι Αἰγαίων καταγωνισθεὶς ὑπὸ Ποσειδῶνος κατεπον τίσθη εἰς τὸ νυνὶ λεγόμενον ὑπὸ τοῦ Ἀπολλωνίου ἠρίον Αἰγαίωνος, (τὸν αὐτὸν καὶ Βριάρεων καλῶν). Περὶ δὲ τῆς κλήσεως τοῦ Αἰγαίου πελάγους ἐν μὲν τῷ τρίτῳ τῷ Περὶ τῆς Νησιάδος φησὶν ἐν τούτοις· «Τὸ Αἰγαῖον πέλαγος οἱ μὲν ἀπὸ τῆς Περκανίας Αἰγὸς ἐπώνυμον γεγονέναι φασίν· οἱ δὲ, ἀπὸ τῆς Καρυστίας τῆς Αἰγαίης ὀνομαζομένης. Αἱ μὲν γὰρ Αἰγαὶ, ἔνθεν τὸν Ποσειδῶνα παραγίνεσθαι φασὶ, κατὰ Πελοπόννησον εἰσὶν, ἐν τοῖς περὶ Κρίσαν τόποις (ἐν τῷ κατὰ Κρίσαν κόλπῳ).»",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "ezq-ai",
+      "title": {
+        "english": "Agesilaus",
+        "ancient_greek": "Ἀγησίλαος"
+      },
+      "url_slug": "xenophon-of-athens-agesilaus-ezq-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/agesilaus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-agesilaus-ezq-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-agesilaus-ezq-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-agesilaus-ezq-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-agesilaus-ezq-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/agesilaus.epub"
+      }
+    },
+    {
+      "eul_wid": "ela-aa",
+      "title": {
+        "english": "Arcadian Historical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "araethus-the-historian-historical-fragments-ela-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/araethus-the-historian/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/araethus-the-historian-historical-fragments-ela-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/araethus-the-historian-historical-fragments-ela-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/araethus-the-historian-historical-fragments-ela-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/araethus-the-historian-historical-fragments-ela-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/araethus-the-historian/historical-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "epq-aa",
+      "title": {
+        "english": "Fragments on Cyzicus",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κυζίκου"
+      },
+      "url_slug": "deiochus-the-historian-cyzicus-fragments-epq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/deiochus-the-historian/cyzicus-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deiochus-the-historian-cyzicus-fragments-epq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deiochus-the-historian-cyzicus-fragments-epq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deiochus-the-historian-cyzicus-fragments-epq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deiochus-the-historian-cyzicus-fragments-epq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deiochus-the-historian/cyzicus-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "ess-aa",
+      "title": {
+        "english": "Fragments on Spartan Festivals",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σπαρτιατικῶν Ἑορτῶν"
+      },
+      "url_slug": "polycrates-of-sparta-festivals-ess-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/polycrates-of-sparta/festivals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycrates-of-sparta-festivals-ess-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycrates-of-sparta-festivals-ess-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycrates-of-sparta-festivals-ess-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycrates-of-sparta-festivals-ess-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycrates-of-sparta/festivals.epub"
+      }
+    },
+    {
+      "eul_wid": "lcm-aa",
+      "title": {
+        "english": "Fragments on Word Origins",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἐτυμολογίας"
+      },
+      "url_slug": "apollodorus-of-athens-word-origins-lcm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollodorus-of-athens/word-origins",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-athens-word-origins-lcm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-athens-word-origins-lcm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-athens-word-origins-lcm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-athens-word-origins-lcm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-athens/word-origins.epub"
+      }
+    },
+    {
+      "eul_wid": "kiw-aa",
+      "title": {
+        "english": "On Music and Chronology",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "phillis-of-delos-music-chronology-kiw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/phillis-of-delos/music-chronology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phillis-of-delos-music-chronology-kiw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phillis-of-delos-music-chronology-kiw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phillis-of-delos-music-chronology-kiw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phillis-of-delos-music-chronology-kiw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phillis-of-delos/music-chronology.epub"
+      }
+    },
+    {
+      "eul_wid": "mmg-an",
+      "title": {
+        "english": "Oxyrhynchus Chronicle",
+        "ancient_greek": "Ὀξυρρύγχιος Χρονική"
+      },
+      "url_slug": "historical-fragments-anonymous-oxyrhynchus-chronicle-mmg-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/oxyrhynchus-chronicle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-oxyrhynchus-chronicle-mmg-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-oxyrhynchus-chronicle-mmg-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-oxyrhynchus-chronicle-mmg-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-oxyrhynchus-chronicle-mmg-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/oxyrhynchus-chronicle.epub"
+      }
+    },
+    {
+      "eul_wid": "bja-aa",
+      "title": {
+        "english": "Phoenician History Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "histiaeus-of-miletus-phoenician-history-bja-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/histiaeus-of-miletus/phoenician-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/histiaeus-of-miletus-phoenician-history-bja-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/histiaeus-of-miletus-phoenician-history-bja-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/histiaeus-of-miletus-phoenician-history-bja-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/histiaeus-of-miletus-phoenician-history-bja-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/histiaeus-of-miletus/phoenician-history.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/conon-the-mythographer/italy",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/conon-the-mythographer-italy-ods-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/conon-the-mythographer-italy-ods-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/conon-the-mythographer-italy-ods-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/conon-the-mythographer-italy-ods-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/conon-the-mythographer/italy.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "hfs",
+  "auth_slug": "chares-of-mytilene",
+  "name": {
+    "english": "Chares of Mytilene",
+    "ancient_greek": "Χάρης ὁ Μυτιληναῖος"
+  },
+  "seo_h1": "Alexander's Court Through the Eyes of Chares of Mytilene",
+  "seo": {
+    "browser_title": "Chares of Mytilene on Eulogikon Greek Archive and Library",
+    "meta_title": "Chares of Mytilene Ancient Greek Philosophical Works",
+    "meta_description": "Chares of Mytilene was a 4th century BCE philosopher. Two fragmentary philosophical works survive. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Chares of Mytilene was a Greek historian and court official of the 4th century BCE. A native of Mytilene on Lesbos, he served as the usher of ambassadors in the court of Alexander the Great. This position granted him direct observation of Alexander’s campaigns and administration. He accompanied Alexander into Asia, and his history covered events at least up to the king’s return from India.</p>\n<p class=\"research-text\">His only known work is the &quot;History of Alexander,&quot; a text in at least ten books that is now lost and survives only in fragments. Chares is a significant primary source for the reign of Alexander. His fragments, preserved by later authors like Plutarch and Athenaeus, provide valuable details of court ceremonial, banquets, diplomatic receptions, and Alexander’s personal habits, supplementing the broader military histories.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "hfs-ab",
+      "title": {
+        "english": "Sentences",
+        "ancient_greek": "Γνῶμαι"
+      },
+      "url_slug": "chares-of-mytilene-text-hfs-ab",
+      "passages": 10,
+      "links": {
+        "html": "https://eulogikon.org/grc/chares-of-mytilene/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene-text-hfs-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene-text-hfs-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene-text-hfs-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene-text-hfs-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene/text.epub"
+      }
+    },
+    {
+      "eul_wid": "hfs-aa",
+      "title": {
+        "english": "Sentences",
+        "ancient_greek": "Γνῶμαι"
+      },
+      "url_slug": "chares-of-mytilene-sentences-hfs-aa",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/chares-of-mytilene/sentences",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene-sentences-hfs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene-sentences-hfs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene-sentences-hfs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene-sentences-hfs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene/sentences.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/chares-of-mytilene",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chares-of-mytilene-hfs.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chares-of-mytilene-hfs.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chares-of-mytilene-hfs.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chares-of-mytilene-hfs.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

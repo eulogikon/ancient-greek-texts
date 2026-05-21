@@ -1,0 +1,198 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ghc-aa",
+  "eul_aid": "ghc",
+  "author_slug": "timolaus-of-larissa",
+  "work_slug": "trojan-war",
+  "url_slug": "timolaus-of-larissa-trojan-war-ghc-aa",
+  "author": {
+    "english": "Timolaus of Larissa",
+    "ancient_greek": "Τιμόλαος ὁ Λαρισσαῖος"
+  },
+  "title": {
+    "english": "Fragments on the Trojan War",
+    "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Τρωικοῦ Πολέμου"
+  },
+  "seo": {
+    "browser_title": "Fragments of Timolaus of Larissa on Eulogikon Archive",
+    "meta_title": "Classical Fragments by Timolaus of Larissa in Ancient Greek",
+    "meta_description": "Surviving fragments of Timolaus of Larissa on the Trojan War. A Greek rhetorical oration. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Fragments on the Trojan War is a lost oration by the otherwise obscure Timolaus of Larissa. It survives only in a single fragment quoted by Athenaeus in his <strong>Deipnosophistae</strong>. The fragment presents a rhetorically witty and reductive explanation for the Trojan War, paradoxically attributing its cause to a lowly cook. This is a sarcastic reference to Odysseus, who used a ruse involving weapons to discover Achilles hiding among women on Scyros. The work is preserved solely through Athenaeus, who cites it for its satirical value in a discussion critiquing pretension, and no independent manuscript tradition exists. The fragment exemplifies the Hellenistic or Imperial practice of epideictic oratory, which employed novel and paradoxical treatments of myth to display rhetorical skill and intellectual amusement.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "849.(t)",
+      "text": "Τρωικά (μῆνιν ἄειδε, θεά, Πηληϊάδεω Ἀχιλῆος) ἣν ἔθετο Χρύσου κεχολωμένος εἵνεκα κούρης (οὐλομένην, ἣ μυρί’ Ἀχαιοῖς ἄλγε’ ἔθηκεν) μαρναμένοις, ὅτε Τρωσὶν ἄτερ πολέμιζον ἄνακτος, (πολλὰς δ’ ἰφθίμους ψυχὰς Ἄϊδι προΐαψεν) Ἕκτορος ἐν παλάμῃσι δαϊζομένων ὑπὸ δουρί",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "ejc-ba",
+      "title": {
+        "english": "Against The Grain Dealers",
+        "ancient_greek": "κατὰ τῶν σιτοπωλῶν"
+      },
+      "url_slug": "lysias-grain-dealers-ejc-ba",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/grain-dealers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-grain-dealers-ejc-ba.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-grain-dealers-ejc-ba.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-grain-dealers-ejc-ba.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-grain-dealers-ejc-ba.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/grain-dealers.epub"
+      }
+    },
+    {
+      "eul_wid": "fsm-ad",
+      "title": {
+        "english": "Counterplea To Nausimachus and Xenopithes",
+        "ancient_greek": "παραγραφὴ πρὸς Ναυσίμακον καὶ Ξενοπείθην"
+      },
+      "url_slug": "demosthenes-of-athens-counterplea-nausimachus-xenopithes-fsm-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/counterplea-nausimachus-xenopithes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-counterplea-nausimachus-xenopithes-fsm-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-counterplea-nausimachus-xenopithes-fsm-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-counterplea-nausimachus-xenopithes-fsm-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-counterplea-nausimachus-xenopithes-fsm-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/counterplea-nausimachus-xenopithes.epub"
+      }
+    },
+    {
+      "eul_wid": "uvo-aa",
+      "title": {
+        "english": "Encomium for Bishop Marcian",
+        "ancient_greek": "Ἐγκώμιον εἰς Μαρκιανὸν Ἐπίσκοπον"
+      },
+      "url_slug": "choricius-of-gaza-encomium-marcian-uvo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/choricius-of-gaza/encomium-marcian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choricius-of-gaza-encomium-marcian-uvo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choricius-of-gaza-encomium-marcian-uvo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choricius-of-gaza-encomium-marcian-uvo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choricius-of-gaza-encomium-marcian-uvo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choricius-of-gaza/encomium-marcian.epub"
+      }
+    },
+    {
+      "eul_wid": "qwm-ad",
+      "title": {
+        "english": "Festival Speech in Cyzicus-the Temple",
+        "ancient_greek": "Πανηγυρικὸς ἐν Κυζίκῳ περὶ τοῦ ναοῦ"
+      },
+      "url_slug": "aristides-the-orator-festival-speech-cyzicus-qwm-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/festival-speech-cyzicus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-festival-speech-cyzicus-qwm-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-festival-speech-cyzicus-qwm-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-festival-speech-cyzicus-qwm-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-festival-speech-cyzicus-qwm-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/festival-speech-cyzicus.epub"
+      }
+    },
+    {
+      "eul_wid": "rhg-ae",
+      "title": {
+        "english": "Introduction to Rhetoric (Treatise C)",
+        "ancient_greek": "Εἰσαγωγὴ εἰς τὴν ῥητορικὴν τέχνην"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-introduction-art-ae-rhg-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/introduction-art-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises-introduction-art-ae-rhg-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises-introduction-art-ae-rhg-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises-introduction-art-ae-rhg-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises-introduction-art-ae-rhg-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ae.epub"
+      }
+    },
+    {
+      "eul_wid": "hnk-aa",
+      "title": {
+        "english": "On Interpretation",
+        "ancient_greek": "Περὶ ἑρμηνείας"
+      },
+      "url_slug": "demetrius-of-phalerum-interpretation-hnk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/demetrius-of-phalerum/interpretation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-phalerum-interpretation-hnk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-phalerum-interpretation-hnk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-phalerum-interpretation-hnk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-phalerum-interpretation-hnk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-phalerum/interpretation.epub"
+      }
+    },
+    {
+      "eul_wid": "ejc-af",
+      "title": {
+        "english": "On Wound by Design, For Which and to Whom Unknown",
+        "ancient_greek": "περὶ τραύματος ἐκ προνοίας, ὑπὲρ οὗ καὶ πρὸς ὃν"
+      },
+      "url_slug": "lysias-wound-design-unknown-ejc-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/wound-design-unknown",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-wound-design-unknown-ejc-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-wound-design-unknown-ejc-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-wound-design-unknown-ejc-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias-wound-design-unknown-ejc-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/wound-design-unknown.epub"
+      }
+    },
+    {
+      "eul_wid": "qwm-bs",
+      "title": {
+        "english": "To Capitolinus",
+        "ancient_greek": "Πρὸς Καπίτωνα"
+      },
+      "url_slug": "aristides-the-orator-capitolinus-qwm-bs",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/capitolinus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-capitolinus-qwm-bs.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-capitolinus-qwm-bs.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-capitolinus-qwm-bs.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-capitolinus-qwm-bs.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/capitolinus.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/timolaus-of-larissa/trojan-war",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timolaus-of-larissa-trojan-war-ghc-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timolaus-of-larissa-trojan-war-ghc-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timolaus-of-larissa-trojan-war-ghc-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timolaus-of-larissa-trojan-war-ghc-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timolaus-of-larissa/trojan-war.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

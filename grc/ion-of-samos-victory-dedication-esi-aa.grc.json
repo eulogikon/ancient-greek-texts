@@ -1,0 +1,229 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "esi-aa",
+  "eul_aid": "esi",
+  "author_slug": "ion-of-samos",
+  "work_slug": "victory-dedication",
+  "url_slug": "ion-of-samos-victory-dedication-esi-aa",
+  "author": {
+    "english": "Ion of Samos ",
+    "ancient_greek": "Ἴων ὁ Σάμιος"
+  },
+  "title": {
+    "english": "Lysander's Victory Dedication",
+    "ancient_greek": "Ἀπόσπασμα"
+  },
+  "seo": {
+    "browser_title": "Lysander's Victory Dedication by Ion of Samos on Eulogikon",
+    "meta_title": "Lysander's Victory Dedication by Ion of Samos in Greek",
+    "meta_description": "An epigram by Ion of Samos for the Spartan victory at Aegospotami.Greek verse blends Ionic and Doric dialects. Read in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνικὴ Ἐλεγειακή",
+      "english": "Ionic Elegiac",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The &quot;Lysander Victory Dedication&quot; is a dedicatory epigram by the poet Ion of Samos, composed around 405 BCE to commemorate the Spartan naval victory at Aegospotami. Written in Greek verse employing a mixture of literary Ionic and Doric dialect, the poem was originally inscribed on a victory monument erected by the Spartan commander Lysander at the sanctuary of Delphi. It celebrates the decisive battle that ended the Peloponnesian War and marks the downfall of Athenian power, serving as both a religious offering and a public record of Spartan triumph. The work is known today not from the original stone but through three fragmentary passages preserved by later Greek authors, primarily the historian Diodorus Siculus and the geographer Pausanias. Modern scholarship interprets the epigram as a key historical document that illustrates the commemorative practices and political propaganda of its era. It was crafted to immortalize Lysander&#x27;s achievement and to honor the gods with spoils from the victory, situating it within the long tradition of Panhellenic victory monuments.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Εἰκόνα ἑὰν ἀνέθηκε[ν ἐπ’ ἔργ]ω[ι τ]ῶιδε, ὅτε νικῶν [para]ναυσὶ θοαῖς πέρσεν Κε[κ]ροπιδᾶν δύναμιν, Λύσανδρος Λακεδαί[μο]να ἀπόρθητον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "στεφανώσα[ς], [para]Ἑλλάδος ἀκρόπο[λιν, κ]αλλίχορομ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "πατρίδα.[ln_5]Ἐξάμο(υ) ἀμφιρύτ[ο(υ)] τεῦξε ἐλεγεῖον Ἴων.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "esi-ab",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "ion-of-samos-epigram-esi-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/ion-of-samos/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-samos-epigram-esi-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-samos-epigram-esi-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-samos-epigram-esi-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-samos-epigram-esi-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-samos/epigram.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "knm-ab",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "archimelus-the-epigrammatist-epigram-knm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimelus-the-epigrammatist/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimelus-the-epigrammatist-epigram-knm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimelus-the-epigrammatist-epigram-knm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimelus-the-epigrammatist-epigram-knm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimelus-the-epigrammatist-epigram-knm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimelus-the-epigrammatist/epigram.epub"
+      }
+    },
+    {
+      "eul_wid": "mdu-ad",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "moschus-of-syracuse-epigrams-mdu-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/moschus-of-syracuse/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-epigrams-mdu-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-epigrams-mdu-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-epigrams-mdu-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-epigrams-mdu-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "dgq-aa",
+      "title": {
+        "english": "Fragments on Cyprus and the Gods",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κύπρου καὶ Θεῶν"
+      },
+      "url_slug": "lyric-poetry-anonymous-cyprus-gods-dgq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lyric-poetry-anonymous/cyprus-gods",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poetry-anonymous-cyprus-gods-dgq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poetry-anonymous-cyprus-gods-dgq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poetry-anonymous-cyprus-gods-dgq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poetry-anonymous-cyprus-gods-dgq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poetry-anonymous/cyprus-gods.epub"
+      }
+    },
+    {
+      "eul_wid": "puk-ab",
+      "title": {
+        "english": "Fragments on Sea and Nile",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θαλάσσης καὶ Νείλου"
+      },
+      "url_slug": "song-of-the-sailors-sea-nile-puk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/song-of-the-sailors/sea-nile",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors-sea-nile-puk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors-sea-nile-puk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors-sea-nile-puk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors-sea-nile-puk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors/sea-nile.epub"
+      }
+    },
+    {
+      "eul_wid": "uyq-ac",
+      "title": {
+        "english": "Genuine Songs",
+        "ancient_greek": "Γνήσιαι ᾨδαί"
+      },
+      "url_slug": "romanos-the-melodist-genuine-songs-uyq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/romanos-the-melodist/genuine-songs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-the-melodist-genuine-songs-uyq-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-the-melodist-genuine-songs-uyq-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-the-melodist-genuine-songs-uyq-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-the-melodist-genuine-songs-uyq-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-the-melodist/genuine-songs.epub"
+      }
+    },
+    {
+      "eul_wid": "gze-aa",
+      "title": {
+        "english": "Hymn to Health",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "ariphron-of-sicyon-hymn-health-gze-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ariphron-of-sicyon/hymn-health",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ariphron-of-sicyon-hymn-health-gze-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ariphron-of-sicyon-hymn-health-gze-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ariphron-of-sicyon-hymn-health-gze-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ariphron-of-sicyon-hymn-health-gze-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ariphron-of-sicyon/hymn-health.epub"
+      }
+    },
+    {
+      "eul_wid": "des-aa",
+      "title": {
+        "english": "Hymns and Convivial Prayers",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "convivial-songs-anon-hymns-prayers-des-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/convivial-songs-anon/hymns-prayers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/convivial-songs-anon-hymns-prayers-des-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/convivial-songs-anon-hymns-prayers-des-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/convivial-songs-anon-hymns-prayers-des-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/convivial-songs-anon-hymns-prayers-des-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/convivial-songs-anon/hymns-prayers.epub"
+      }
+    },
+    {
+      "eul_wid": "agy-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "semonides-of-amorgos-testimonies-agy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/semonides-of-amorgos/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semonides-of-amorgos-testimonies-agy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semonides-of-amorgos-testimonies-agy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semonides-of-amorgos-testimonies-agy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semonides-of-amorgos-testimonies-agy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semonides-of-amorgos/testimonies.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/ion-of-samos/victory-dedication",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-samos-victory-dedication-esi-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-samos-victory-dedication-esi-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-samos-victory-dedication-esi-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-samos-victory-dedication-esi-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-samos/victory-dedication.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

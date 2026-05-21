@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ova",
+  "auth_slug": "myronianus-of-amastris",
+  "name": {
+    "english": "Myronianus of Amastris",
+    "ancient_greek": "Μυρωνιανός ὁ Ἀμαστριανός"
+  },
+  "seo_h1": "Myronianus of Amastris and the Historical Parallels",
+  "seo": {
+    "browser_title": "The Myronianus of Amastris on Eulogikon Greek Archive",
+    "meta_title": "Myronianus of Amastris Ancient Greek Historical Works",
+    "meta_description": "Myronianus of Amastris was a Roman era historian writing in Koine Greek. Surviving historical works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Myronianus of Amastris was a Greek author from the city of Amastris on the Black Sea coast. He is generally placed in the Roman imperial period, likely between the 1st and 3rd centuries CE. No details of his personal life or education survive.</p>\n<p class=\"research-text\">His sole known work is the lost Historical Parallels. It was a prose collection of biographical or historical comparisons, possibly arranged in paired accounts, and survives only through later citations.</p>\n<p class=\"research-text\">Myronianus is significant as a source for later prominent writers. Plutarch cites him in the Life of Theseus, and Diogenes Laërtius uses him as a source for the philosopher Menedemus. These fragments show his work contained anecdotal material on historical and philosophical figures, placing him within a tradition of comparative biography and providing insight into the sources of major ancient authors.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ova-aa",
+      "title": {
+        "english": "Historical Parallels and Anecdotes",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "myronianus-of-amastris-historical-parallels-ova-aa",
+      "passages": 9,
+      "links": {
+        "html": "https://eulogikon.org/grc/myronianus-of-amastris/historical-parallels",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myronianus-of-amastris-historical-parallels-ova-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myronianus-of-amastris-historical-parallels-ova-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myronianus-of-amastris-historical-parallels-ova-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myronianus-of-amastris-historical-parallels-ova-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myronianus-of-amastris/historical-parallels.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/myronianus-of-amastris",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/myronianus-of-amastris-ova.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/myronianus-of-amastris-ova.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/myronianus-of-amastris-ova.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/myronianus-of-amastris-ova.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

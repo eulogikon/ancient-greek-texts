@@ -1,0 +1,301 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "nwa-ac",
+  "eul_aid": "nwa",
+  "author_slug": "geminus-of-rhodes",
+  "work_slug": "calendar",
+  "url_slug": "geminus-of-rhodes-calendar-nwa-ac",
+  "author": {
+    "english": "Geminus of Rhodes",
+    "ancient_greek": "Γεμῖνος ὁ Ῥόδιος"
+  },
+  "title": {
+    "english": "Calendar",
+    "ancient_greek": "Ἡμερολόγιον"
+  },
+  "seo": {
+    "browser_title": "Calendar by Geminus of Rhodes on Eulogikon Archive",
+    "meta_title": "The Calendar by Geminus of Rhodes in Ancient Greek",
+    "meta_description": "Geminus of Rhodes presents a parapegma that correlates celestial phenomena with seasonal weather patterns and Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Calendar is an astronomical treatise by Geminus of Rhodes, a scholar of the first century BCE. Written in Koine Greek, the work survives only in fragmentary form, preserved chiefly through quotations in later commentaries, most notably by Pappus of Alexandria in the fourth century CE. The treatise addresses the fundamental problem of calendar alignment, specifically the discrepancy between lunar months, which were the basis of civil calendars, and the solar year. Geminus explains the necessity and methodology of intercalation, the periodic insertion of extra days or months, to synchronize the calendar with the seasonal cycle essential for agriculture. Based on the extant fragments, the work appears to have been structured into eleven sections. Scholars interpret it as having a pedagogical function, likely serving as an introductory text on calendrical principles for students of astronomy in the philosophical schools of Rhodes. A defining characteristic of the work is its rationalist approach; Geminus advocates for explaining calendrical phenomena through astronomy and mathematics, explicitly rejecting traditional mythological accounts. This positions the treatise within the broader Hellenistic scientific project of systematizing timekeeping based on observational and mathematical principles.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "98 (T1)",
+      "text": "〈Παράπηγμα〉 Χρόνοι τῶν ζῳδίω ν , ἐν οἷς ἕκαστον αὐτῶν ὁ ἥλιος διαπορεύετα ι , καὶ αἱ κα θ ’ ἕκαστον ζῴδιον γινόμεναι ἐπισημασία ι , αἳ ὑπογεγραμμέναι εἰσί ν. Ἀρξόμεθα δὲ ἀπὸ θερινῆς τροπῆς. Καρκίνον διαπορεύεται ὁ ἥλιος ἐν ἡμέραις λα . 〈Ἐν μὲν οὖν τῇ〉 α ῃ ἡμέρᾳ Καλλίππῳ Καρκίνος ἄρχεται ἀνατέλλειν· τροπαὶ θεριναί· καὶ ἐπισημαίνει. 〈Ἐν δὲ τῇ〉 θ ῃ ἡμέρᾳ Εὐδόξῳ νότος πνεῖ. 〈Ἐν δὲ τῇ〉 ια ῃ ἡμέρᾳ Εὐδόξῳ Ὠρίων ἑῷος ὅλος ἐπιτέλλει. 〈Ἐν δὲ τῇ〉 ιγ ῃ ἡμέρᾳ Εὐκτήμονι Ὠρίων ὅλος ἐπιτέλλει. 〈Ἐν δὲ τῇ〉 ιϛ ῃ Δοσιθέῳ Στέφανος ἑῷος ἄρχεται δύνειν. 〈Ἐν δὲ τῇ〉 κγ ῃ Δοσιθέῳ ἐν Αἰγύπτῳ Κύων ἐκφανὴς γίνεται. 〈Ἐν δὲ τῇ〉 κε ῃ Μέτωνι Κύων ἐπιτέλλει ἑῷος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "99",
+      "text": "〈Ἐν δὲ τῇ〉 κζ ῃ Εὐκτήμονι Κύων ἐπιτέλλει. Εὐδόξῳ Κύων ἑῷος ἐπιτέλλει· καὶ τὰς ἑπομένας ἡμέρας νε ἐτησίαι πνέουσιν· αἱ δὲ ε αἱ πρῶται πρόδρομοι καλοῦνται. Καλλίππῳ Καρκίνος λήγει ἀνατέλλων πνευματώδης. 〈Ἐν δὲ τῇ〉 κη ῃ Εὐκτήμονι Ἀετὸς ἑῷος δύνει· χειμὼν κατὰ θάλασσαν ἐπιγίνεται. 〈Ἐν δὲ τῇ〉 λ ῃ Καλλίππῳ Λέων ἄρχεται ἀνατέλλειν· νότος πνεῖ· καὶ Κύων ἀνατέλλων φανερὸς γίνεται. 〈Ἐν δὲ τῇ〉 λα ῃ Εὐδόξῳ νότος πνεῖ. Τὸν δὲ Λέοντα διαπορεύεται ὁ ἥλιος ἐν ἡμέραις λα . Ἐν μὲν οὖν τῇ α ῃ ἡμέρᾳ Εὐκτήμονι Κύων μὲν ἐκφανής, πνῖγος δὲ ἐπιγίνεται· ἐπισημαίνει. Ἐν δὲ τῇ ε ῃ Εὐδόξῳ Ἀετὸς ἑῷος δύνει. Ἐν δὲ τῇ ι ῃ ἡμέρᾳ Εὐδόξῳ Στέφανος δύνει. Ἐν δὲ τῇ ιβ ῃ Καλλίππῳ Λέων μέσος ἀνατέλλων πνίγη μάλιστα ποιεῖ. Ἐν δὲ τῇ ιδ ῃ Εὐκτήμονι πνίγη μάλιστα γίνεται. Ἐν δὲ τῇ ιϛ ῃ ἡμέρᾳ Εὐδόξῳ ἐπισημαίνει. Ἐν δὲ τῇ ιζ ῃ Εὐκτήμονι Λύρα δύεται· καὶ ἔτι ὕει· καὶ ἐτησίαι παύονται· καὶ Ἵππος ἐπιτέλλει. Ἐν δὲ τῇ ιη ῃ Εὐδόξῳ Δελφὶς ἑῷος δύνει. Δοσιθέῳ Προτρυγητὴρ ἀκρόνυχος ἐπιτέλλει. Ἐν δὲ τῇ κβ ῃ Εὐδόξῳ Λύρα ἑῷος δύνει· ἐπισημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "100",
+      "text": "Ἐν δὲ τῇ κθ ῃ Εὐδόξῳ ἐπισημαίνει. Καλλίππῳ Παρθένος ἐπιτέλλει· ἐπισημαίνει. Τὴν δὲ Παρθένον διαπορεύεται ὁ ἥλιος ἐν ἡμέραις λ . Ἐν μὲν οὖν τῇ ε ῃ ἡμέρᾳ Εὐδόξῳ ἄνεμος μέγας πνεῖ, καὶ ἐπιβροντᾷ. Καλλίππῳ δὲ οἱ ὦμοι τῆς Παρθένου ἐπιτέλλουσι· καὶ ἐτησίαι λήγουσιν. Ἐν δὲ τῇ ι ῃ ἡμέρᾳ Εὐκτήμονι Προτρυγητὴρ φαίνεται· ἐπιτέλλει δὲ καὶ Ἀρκτοῦρος, καὶ Ὀϊστὸς δύεται ὄρθρου· χειμὼν κατὰ θάλασσαν· νότος. Εὐδόξῳ ὑετός, βρονταί· ἄνεμος μέγας πνεῖ. Ἐν δὲ τῇ ιζ ῃ Καλλίππῳ Παρθένος μέση ἐπιτέλλουσα ἐπισημαίνει· καὶ Ἀρκτοῦρος ἀνατέλλων φανερός. Ἐν δὲ τῇ ιθ ῃ Εὐδόξῳ Ἀρκτοῦρος ἑῷος ἐπιτέλλει· καὶ τὰς ἑπομένας ἡμέρας ζ 〈ἄνεμοι〉 πνέουσιν· εὐδία ὡς τὰ πολλά· λήγοντος δὲ τοῦ χρόνου ἀπ’ ἠοῦς πνεῦμα γίνεται. Ἐν δὲ τῇ κ ῃ Ἀρκτοῦρος Εὐκτήμονι ἐκφανής· μετοπώρου ἀρχή· καὶ Αἲξ ἐπιτέλλει ἀστὴρ μέγας ἐπὶ τοῦ Ἡνιόχου· κἄπειτα ἐπισημαίνει· χειμὼν κατὰ θάλασσαν. Ἐν δὲ τῇ κδ ῃ ἡμέρᾳ Καλλίππῳ Στάχυς ἐπιτέλλει τῆς Παρθένου· ὕει. Τὸν δὲ Ζυγὸν διαπορεύεται ὁ ἥλιος ἐν ἡμέραις λ . Ἐν τῇ α ῃ ἡμέρᾳ Εὐκτήμονι ἰσημερία μετοπωρινή· καὶ ἐπισημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "101",
+      "text": "Καλλίππῳ ὁ Κριὸς ἄρχεται δύνειν· ἰσημερία μετοπωρινή. Ἐν δὲ τῇ γ ῃ Εὐκτήμονι Ἔριφοι ἐπιτέλλουσιν ἑσπέριοι· χειμαίνει. Ἐν δὲ τῇ δ ῃ Εὐδόξῳ Αἲξ ἀκρόνυχος ἐπιτέλλει. Ἐν δὲ τῇ ε ῃ Εὐκτήμονι Πλειάδες ἑσπέριαι φαίνονται ἐκ τοῦ πρὸς ἕω· ἐπισημαίνει. Καλλίππῳ Παρθένος λήγει ἀνατέλλουσα. Ἐν δὲ τῇ ζ ῃ ἡμέρᾳ Εὐκτήμονι Στέφανος ἀνατέλλει· χειμαίνει. Ἐν δὲ τῇ η ῃ Εὐδόξῳ Πλειάδες ἐπιτέλλουσιν. Ἐν δὲ τῇ ι ῃ Εὐδόξῳ 〈Στέφανοσ〉 ἑῷος ἐπιτέλλει. Ἐν δὲ τῇ ιβ ῃ ἡμέρᾳ Εὐδόξῳ Σκορπίος ἀκρόνυχος ἄρχεται δύνειν· καὶ χειμὼν ἐπιγίνεται, καὶ ἄνεμος μέγας πνεῖ. Ἐν δὲ τῇ ιζ ῃ Εὐδόξῳ Σκορπίος ἀκρόνυχος ὅλος δύνει. Καλλίππῳ Χηλαὶ ἄρχονται ἀνατέλλουσαι· ἐπισημαίνει. Ἐν δὲ τῇ ιθ ῃ Εὐδόξῳ βορέαι καὶ νότοι πνέουσιν. Ἐν δὲ τῇ κβ ῃ Εὐδόξῳ Ὑάδες ἀκρόνυχοι ἐπιτέλλουσιν. Ἐν δὲ τῇ κη ῃ Καλλίππῳ τοῦ Ταύρου κέρκος δύνει· ἐπισημαίνει. Ἐν δὲ τῇ κθ ῃ Εὐδόξῳ βορέας καὶ νότος πνέουσιν. Ἐν δὲ τῇ λ ῃ Εὐκτήμονι χειμὼν κατὰ θάλασσαν πολύς. Τὸν δὲ Σκορπίον ὁ ἥλιος διαπορεύεται ἐν ἡμέραις λ . Ἐν μὲν οὖν τῇ γ ῃ Δοσιθέῳ χειμαίνει. Ἐν δὲ τῇ δ ῃ ἡμέρᾳ Δημοκρίτῳ Πλειάδες δύνουσιν ἅμα ἠοῖ· ἄνεμοι χειμέριοι ὡς τὰ πολλά, καὶ ψύχη, ἤδη καὶ πάχνη· ἐπιπνεῖν φιλεῖ· φυλλορροεῖν ἄρχεται τὰ δένδρα μάλιστα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "102",
+      "text": "Καλλίππῳ τοῦ Σκορπίου τὸ μέτωπον ἐπιτέλλει πνευματῶδες. Ἐν δὲ τῇ ε ῃ Εὐκτήμονι Ἀρκτοῦρος ἑσπέριος δύεται· καὶ ἄνεμοι μεγάλοι πνέουσιν. Ἐν δὲ τῇ η ῃ Εὐδόξῳ Ἀρκτοῦρος ἀκρόνυχος δύνει· καὶ ἐπισημαίνει· καὶ ἄνεμος πνεῖ. Ἐν δὲ τῇ θ ῃ Καλλίππῳ τοῦ Ταύρου δύνει κεφαλή· ὑετοί. Ἐν δὲ τῇ ι ῃ Εὐκτήμονι Λύρα ἑῷος ἐπιτέλλει· καὶ ἐπιχειμάζεται ὑετῷ. Ἐν δὲ τῇ ιβ ῃ Εὐδόξῳ Ὠρίων ἀκρόνυχος ἄρχεται ἐπιτέλλειν. Ἐν δὲ τῇ ιγ ῃ Δημοκρίτῳ Λύρα ἐπιτέλλει ἅμα ἡλίῳ ἀνίσχοντι· καὶ ὁ ἀὴρ χειμέριος γίνεται ὡς ἐπὶ τὰ πολλά. Ἐν δὲ τῇ ιδ ῃ Εὐδόξῳ ὑετία. Ἐν δὲ τῇ ιε ῃ Εὐκτήμονι Πλειάδες δύνουσι· καὶ ἐπισημαίνει· καὶ Ὠρίων ἄρχεται 〈δύνειν· καὶ ἀρχομένῳ〉 καὶ μεσοῦντι καὶ λήγοντι ἐπιχειμάζει. Ἐν δὲ τῇ ιϛ ῃ Καλλίππῳ 〈ὁ〉 ἐν τῷ Σκορπίῳ λαμπρὸς ἀστὴρ ἀνατέλλει· ἐπισημαίνει· καὶ Πλειάδες δύνουσι φανεραί. Ἐν δὲ τῇ ιη ῃ Εὐδόξῳ Σκορπίος ἄρχεται ἐπιτέλλειν ἑῷος. Ἐν δὲ τῇ ιθ ῃ Εὐδόξῳ Πλειάδες ἑῷαι δύνουσι, καὶ Ὠρίων ἄρχεται δύνειν· καὶ χειμάζει. Ἐν δὲ τῇ κα ῃ Εὐδόξῳ Λύρα ἑῷος ἐπιτέλλει. Ἐν δὲ τῇ κζ ῃ Εὐκτήμονι Ὑάδες δύονται· καὶ ἔτι ὕει. Ἐν δὲ τῇ κη ῃ Καλλίππῳ τοῦ Ταύρου τὰ κέρατα δύεται· ὑετία. Ἐν δὲ τῇ κθ ῃ Εὐδόξῳ Ὑάδες δύνουσι· καὶ χειμαίνει σφόδρα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "103",
+      "text": "Τὸν δὲ Τοξότην ὁ ἥλιος διαπορεύεται ἐν ἡμέραις κθ . Ἐν μὲν οὖν τῇ ζ ῃ Εὐκτήμονι Κύων δύεται· καὶ ἐπιχειμάζει. Καλλίππῳ ὁ Τοξότης ἄρχεται ἀνατέλλειν, καὶ Ὠρίων δύνει φανερός· χειμαίνει. Ἐν τῇ η ῃ Εὐδόξῳ Ὠρίων ἑῷος δύνει. Ἐν δὲ τῇ ι ῃ Εὐκτήμονι τοῦ Σκορπίου τὸ κέντρον ἐπιτέλλει. Ἐν δὲ τῇ ιβ ῃ Εὐδόξῳ Κύων ἑῷος δύνει· χειμαίνει. Ἐν δὲ τῇ ιδ ῃ Εὐδόξῳ ὑετός. Ἐν δὲ τῇ ιε ῃ Εὐκτήμονι Ἀετὸς ἐπιτέλλει· νότος πνεῖ. Ἐν δὲ τῇ ιϛ ῃ Δημοκρίτῳ Ἀετὸς ἐπιτέλλει ἅμα ἡλίῳ· καὶ ἐπισημαίνειν φιλεῖ βροντῇ καὶ ἀστραπῇ καὶ ὕδατι ἢ ἀνέμῳ ἢ ἀμφότερα ὡς ἐπὶ τὰ πολλά. Εὐδόξῳ Κύων ἀκρόνυχος ἐπιτέλλει· νότια. Καλλίππῳ οἱ Δίδυμοι μετίασι δυόμενοι· νότια. Ἐν δὲ τῇ ιθ ῃ Εὐκτήμονι Αἲξ δύνει. Ἐν δὲ τῇ κα ῃ Εὐδόξῳ Σκορπίος ἑῷος ἐπιτέλλει· καὶ χειμαίνει. Ἐν δὲ τῇ κγ ῃ Εὐδόξῳ Αἲξ ἑῴα δύνει. Ἐν δὲ τῇ κϛ ῃ Εὐδόξῳ Ἀετὸς ἑῷος ἐπιτέλλει. Τὸν δὲ Αἰγόκερω ὁ ἥλιος διαπορεύεται ἐν ἡμέραις κθ . Ἐν μὲν οὖν τῇ α ῃ ἡμέρᾳ Εὐκτήμονι τροπαὶ χειμεριναί· ἐπισημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "104",
+      "text": "Καλλίππῳ Τοξότης λήγει ἀνατέλλων· τροπαὶ χειμεριναί· χειμαίνει. Ἐν δὲ τῇ β ᾳ Εὐκτήμονι Δελφὶς ἐπιτέλλει· χειμαίνει. Ἐν δὲ τῇ δ ῃ Εὐδόξῳ τροπαὶ χειμεριναί· χειμαίνει. Ἐν δὲ τῇ ζ ῃ Εὐκτήμονι Ἀετὸς ἑσπέριος δύεται· καὶ χειμαίνει. Ἐν δὲ τῇ θ ῃ Εὐδόξῳ Στέφανος ἀκρόνυχος δύνει. Ἐν δὲ τῇ ιβ ῃ Δημοκρίτῳ νότος πνεῖ ὡς 〈τὰ πολλά· Εὐδόξῳ Δελφὶς ἑῷοσ〉 ἐπιτέλλει. Ἐν δὲ τῇ ιδ ῃ Εὐκτήμονι μέσος χειμών· νότος πολὺς ἐπιπνεῖ χειμερινὸς κατὰ θάλασσαν. Ἐν δὲ τῇ ιε ῃ Καλλίππῳ Αἰγόκερως ἄρχεται ἀνατέλλειν· νότος. Ἐν δὲ τῇ ιϛ ῃ Εὐκτήμονι νότος χειμέριος κατὰ θάλασσαν. Ἐν δὲ τῇ ιη ῃ 〈Εὐδόξῳ Ἀετὸσ〉 ἀκρόνυχος ἐπιδύνει· καὶ νότος πνεῖ. Ἐν δὲ τῇ κζ ῃ Εὐκτήμονι Δελφὶς ἑσπέριος δύνει. Καλλίππῳ Καρκίνος δύνων λήγει· χειμαίνει. Τὸν δὲ Ὑδροχόον διαπορεύεται ὁ ἥλιος ἐν ἡμέραις λ . Ἐν μὲν οὖν τῇ β ᾳ Καλλίππῳ Λέων ἄρχεται δύνειν· ὑετία. Ἐν δὲ τῇ γ ῃ Εὐκτήμονι Λύρα ἑσπέριος δύνει· ὑετία. Δημοκρίτῳ χειμών. Ἐν δὲ τῇ δ ῃ ἡμέρᾳ Εὐδόξῳ Δελφὶς ἀκρόνυχος δύνει. Ἐν δὲ τῇ ια ῃ Εὐδόξῳ Λύρα ἀκρόνυχος δύνει· ὑετός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "105",
+      "text": "Ἐν δὲ τῇ ιδ ῃ Εὐδόξῳ εὐδία· ἐνίοτε καὶ ζέφυρος πνεῖ. Ἐν δὲ τῇ ιϛ ῃ Δημοκρίτῳ ζέφυρος πνεῖν ἄρχεται ἡμέραις γ καὶ μ ἀπὸ τροπῶν καὶ παραμένει. Ἐν δὲ τῇ ιζ ῃ Εὐκτήμονι ζέφυρον ὥρα πνεῖν. Καλλίππῳ Ὑδροχόος μέσος ἀνατέλλει· ζέφυρος πνεῖ. Ἐν δὲ τῇ κε ῃ Εὐκτήμονι 〈Ὀϊστὸσ〉 ἑσπέριος δύνει· καὶ σφόδρα ἐπιχειμάζει. Τοὺς δὲ Ἰχθύας ὁ ἥλιος διαπορεύεται ἐν ἡμέραις λ . Ἐν μὲν οὖν τῇ β ᾳ χελιδόνα ὥρα φαίνεσθαι· καὶ ὀρνιθίαι πνέουσι. Καλλίππῳ δὲ Λέων δύνων λήγει· καὶ χελιδὼν φαίνεται· ἐπισημαίνει. Ἐν δὲ τῇ δ ῃ Δημοκρίτῳ ποικίλαι ἡμέραι γίνονται, ἁλκυονίδες καλούμεναι. Εὐδόξῳ δὲ Ἀρκτοῦρος ἀκρόνυχος ἐπιτέλλει· καὶ ὑετὸς γίνεται· καὶ χελιδὼν φαίνεται· καὶ τὰς ἑπομένας ἡμέρας λ βορέαι πνέουσι, καὶ μάλιστα οἱ προορνιθίαι καλούμενοι. Ἐν δὲ τῇ ιβ ῃ Εὐκτήμονι Ἀρκτοῦρος ἑσπέριος ἐπιτέλλει, καὶ Προτρυγητὴρ ἐκφανής· ἐπιπνεῖ βορέας ψυχρός. Ἐν δὲ τῇ ιδ ῃ Δημοκρίτῳ ἄνεμοι πνέουσι ψυχροί, οἱ ὀρνιθίαι καλούμενοι, ἡμέρας μάλιστα θ . Εὐκτήμονι δὲ Ἵππος ἐπιτέλλει· ἐπιπνεῖ βορέας ψυχρός. Ἐν δὲ τῇ ιζ ῃ Εὐδόξῳ χειμαίνει· καὶ ἰκτῖνος φαίνεται. Καλλίππῳ τῶν Ἰχθύων ὁ νότιος ἐπιτέλλει· λήγει βορέας. Ἐν δὲ τῇ κα ῃ Εὐδόξῳ Στέφανος ἀκρόνυχος ἐπιτέλλει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "106",
+      "text": "ἄρχονται ὀρνιθίαι πνέοντες. Ἐν δὲ τῇ κβ ῃ Εὐκτήμονι ἰκτῖνος φαίνεται· ὀρνιθίαι πνέουσι μέχρις ἰσημερίας. Ἐν δὲ τῇ κθ ῃ Εὐκτήμονι τοῦ Σκορπίου οἱ πρῶτοι ἀστέρες δύνουσιν· ἐπιπνεῖ βορέας ψυχρός. Ἐν δὲ τῇ λ ῃ Καλλίππῳ τῶν Ἰχθύων ὁ βόρειος ἐπιτέλλων λήγει· ἰκτῖνος φαίνεται· βορέας πνεῖ. Τὸν δὲ Κριὸν διαπορεύεται ὁ ἥλιος ἐν ἡμέραις λα . Ἐν μὲν τῇ α ῃ Καλλίππῳ Σύνδεσμος τῶν Ἰχθύων ἀνατέλλει· ἰσημερία ἐαρινή. Εὐκτήμονι ἰσημερία ἐαρινή, καὶ ψεκὰς λεπτή· ὕσει· ἰσημερινὸς χειμαίνει σφόδρα· ἐπισημαίνει. Ἐν δὲ τῇ γ ῃ Καλλίππῳ Κριὸς ἄρχεται ἐπιτέλλων· ὑετὸς ἢ νιφετός. Ἐν δὲ τῇ ϛ ῃ Εὐδόξῳ ἰσημερία· ὑετὸς γίνεται. Ἐν δὲ τῇ ι ῃ Εὐκτήμονι Πλειάδες ἑσπέριοι κρύπτονται. Ἐν δὲ τῇ ιγ ῃ Εὐδόξῳ Πλειάδες ἀκρόνυχοι δύνουσι, καὶ Ὠρίων ἄρχεται δύνειν ἀπὸ ἀκρονύχου· ὑετὸς γίνεται. Δημοκρίτῳ Πλειάδες κρύπτονται ἅμα ἡλίῳ δύνοντι καὶ ἀφανεῖς γίνονται νύκτας μ . Ἐν δὲ τῇ κα ῃ Εὐδόξῳ Ὑάδες ἀκρόνυχοι δύνουσιν. Ἐν δὲ τῇ κγ ῃ Εὐκτήμονι Ὑάδες κρύπτονται· καὶ χάλαζα ἐπιγίνεται, καὶ ζέφυρος πνεῖ. Καλλίππῳ Χηλαὶ ἄρχονται δύνουσαι· πολλαχῇ δὲ καὶ χάλαζα. Ἐν δὲ τῇ κζ ῃ Εὐδόξῳ Λύρα ἀκρόνυχος ἐπιτέλλει. Τὸν δὲ Ταῦρον διαπορεύεται ὁ ἥλιος ἐν ἡμέραις λβ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "107",
+      "text": "Ἐν μὲν οὖν τῇ α ῃ ἡμέρᾳ Εὐδόξῳ Ὠρίων ἀκρόνυχος δύνει· ὑετία. Καλλίππῳ ὁ Κριὸς λήγει ἐπιτέλλων· ὑετία, πολλαχῇ δὲ καὶ χάλαζα. Ἐν δὲ τῇ β ᾳ Εὐκτήμονι Κύων κρύπτεται· καὶ χάλαζα γίνεται· τῇ δὲ αὐτῇ Λύρα ἐπιτέλλει. Εὐδόξῳ Κύων ἀκρόνυχος δύνει· καὶ ὑετὸς γίνεται. Καλλίππῳ τοῦ Ταύρου ἡ κέρκος ἐπιτέλλει· νότια. Ἐν δὲ τῇ ζ ῃ Εὐδόξῳ ὑετὸς γίνεται. Ἐν δὲ τῇ η ῃ Εὐκτήμονι Αἲξ ἑῴα ἐπιτέλλει· εὐδία· ὕει νοτίῳ ὕδατι. Ἐν δὲ τῇ θ ῃ Εὐδόξῳ Αἲξ ἑῴα ἐπιτέλλει. Ἐν δὲ τῇ ια ῃ Εὐδόξῳ Σκορπίος ἑῷος δύνειν ἄρχεται· καὶ ὑετὸς γίνεται. Ἐν δὲ τῇ ιγ ῃ Εὐκτήμονι Πλειὰς ἐπιτέλλει· θέρους ἀρχή· καὶ ἐπισημαίνει. Καλλίππῳ ἡ τοῦ Ταύρου κεφαλὴ ἐπιτέλλει· ἐπισημαίνει. Ἐν δὲ τῇ κα ῃ Εὐδόξῳ Σκορπίος ἑῷος ὅλος δύνει. Ἐν δὲ τῇ κβ ῃ Εὐδόξῳ Πλειάδες ἐπιτέλλουσι· καὶ ἐπισημαίνει. Ἐν δὲ τῇ λα ῃ Εὐκτήμονι Ἀετὸς ἑσπέριος ἐπιτέλλει. Ἐν δὲ τῇ λβ ῃ Εὐκτήμονι Ἀρκτοῦρος ἑῷος δύνει· ἐπισημαίνει. Καλλίππῳ ὁ Ταῦρος λήγει ἀνατέλλων. Εὐκτήμονι Ὑάδες ἑῷαι ἐπιτέλλουσιν· ἐπισημαίνει. Τοὺς δὲ Διδύμους ὁ ἥλιος διαπορεύεται ἐν ἡμέραις λβ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "108",
+      "text": "Ἐν μὲν οὖν τῇ β ᾳ Καλλίππῳ οἱ Δίδυμοι ἄρχονται ἐπιτέλλειν· νότια. Ἐν δὲ τῇ ε ῃ Εὐδόξῳ Ὑάδες ἑῷαι ἐπιτέλλουσιν. Ἐν δὲ τῇ ζ ῃ Εὐδόξῳ Ἀετὸς ἀκρόνυχος ἐπιτέλλει. Ἐν δὲ τῇ ι ῃ Δημοκρίτῳ ὕδωρ γίνεται. Ἐν δὲ τῇ ιγ ῃ Εὐδόξῳ Ἀρκτοῦρος ἑῷος δύνει. Ἐν δὲ τῇ ιη ῃ Εὐδόξῳ Δελφὶς ἀκρόνυχος ἐπιτέλλει. Ἐν δὲ τῇ κδ ῃ Εὐκτήμονι Ὠρίωνος ὦμος ἐπιτέλλει. Εὐδόξῳ Ὠρίων ἄρχεται ἐπιτέλλειν. Ἐν δὲ τῇ κθ ῃ Δημοκρίτῳ ἄρχεται Ὠρίων ἐπιτέλλειν, καὶ φιλεῖ ἐπισημαίνειν ἐπ’ αὐτῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "nwa-aa",
+      "title": {
+        "english": "Elements of Astronomy",
+        "ancient_greek": "Στοιχεῖα Ἀστρονομίας"
+      },
+      "url_slug": "geminus-of-rhodes-astronomy-nwa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/geminus-of-rhodes/astronomy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-of-rhodes-astronomy-nwa-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-of-rhodes-astronomy-nwa-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-of-rhodes-astronomy-nwa-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-of-rhodes-astronomy-nwa-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-of-rhodes/astronomy.epub"
+      }
+    },
+    {
+      "eul_wid": "nwa-ab",
+      "title": {
+        "english": "Optical Fragments",
+        "ancient_greek": "Ὀπτικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "geminus-of-rhodes-optical-fragments-nwa-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/geminus-of-rhodes/optical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-of-rhodes-optical-fragments-nwa-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-of-rhodes-optical-fragments-nwa-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-of-rhodes-optical-fragments-nwa-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-of-rhodes-optical-fragments-nwa-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-of-rhodes/optical-fragments.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "rrg-bq",
+      "title": {
+        "english": "Alchemical Fragment",
+        "ancient_greek": "Ἀλχημικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "alchemist-i-fragment-bq-rrg-bq",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/fragment-bq",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bq-rrg-bq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bq-rrg-bq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bq-rrg-bq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bq-rrg-bq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bq.epub"
+      }
+    },
+    {
+      "eul_wid": "tyc-br",
+      "title": {
+        "english": "Excerpt-Bronze Men",
+        "ancient_greek": "περὶ χαλκανθρώπων"
+      },
+      "url_slug": "zosimus-of-panopolis-bronze-men-tyc-br",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/bronze-men",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-bronze-men-tyc-br.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-bronze-men-tyc-br.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-bronze-men-tyc-br.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-bronze-men-tyc-br.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/bronze-men.epub"
+      }
+    },
+    {
+      "eul_wid": "tyc-bg",
+      "title": {
+        "english": "Excerpt-Parts of Alchemy",
+        "ancient_greek": "Ἀπόσπασμα περὶ τῶν μερῶν τῆς ἀλχημείας"
+      },
+      "url_slug": "zosimus-of-panopolis-alchemy-excerpt-tyc-bg",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/alchemy-excerpt",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-alchemy-excerpt-tyc-bg.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-alchemy-excerpt-tyc-bg.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-alchemy-excerpt-tyc-bg.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-alchemy-excerpt-tyc-bg.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/alchemy-excerpt.epub"
+      }
+    },
+    {
+      "eul_wid": "iny-aa",
+      "title": {
+        "english": "Fragments on Babylonian History",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Βαβυλωνιακῆς Ἱστορίας"
+      },
+      "url_slug": "berossus-the-babylonian-history-fragments-iny-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/berossus-the-babylonian/history-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/berossus-the-babylonian-history-fragments-iny-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/berossus-the-babylonian-history-fragments-iny-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/berossus-the-babylonian-history-fragments-iny-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/berossus-the-babylonian-history-fragments-iny-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/berossus-the-babylonian/history-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "tyc-bi",
+      "title": {
+        "english": "On the Preparation of Ochre",
+        "ancient_greek": "Περὶ σκευασίας ὤχρας"
+      },
+      "url_slug": "zosimus-of-panopolis-preparation-ochre-tyc-bi",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/preparation-ochre",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-preparation-ochre-tyc-bi.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-preparation-ochre-tyc-bi.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-preparation-ochre-tyc-bi.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-preparation-ochre-tyc-bi.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/preparation-ochre.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-ax",
+      "title": {
+        "english": "Ouroboros Dragon, Version 2",
+        "ancient_greek": "Ὁ οὐροβόρος δράκων"
+      },
+      "url_slug": "alchemist-i-ouroboros-dragon-version-2-rrg-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/ouroboros-dragon-version-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-ouroboros-dragon-version-2-rrg-ax.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-ouroboros-dragon-version-2-rrg-ax.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-ouroboros-dragon-version-2-rrg-ax.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-ouroboros-dragon-version-2-rrg-ax.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/ouroboros-dragon-version-2.epub"
+      }
+    },
+    {
+      "eul_wid": "oce-aa",
+      "title": {
+        "english": "Strategic",
+        "ancient_greek": "Στρατηγικός"
+      },
+      "url_slug": "onasander-the-tactician-strategos-oce-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/onasander-the-tactician/strategos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/onasander-the-tactician-strategos-oce-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/onasander-the-tactician-strategos-oce-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/onasander-the-tactician-strategos-oce-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/onasander-the-tactician-strategos-oce-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/onasander-the-tactician/strategos.epub"
+      }
+    },
+    {
+      "eul_wid": "tyc-bc",
+      "title": {
+        "english": "Zosimus to Theodorus, Chapters",
+        "ancient_greek": "Ζωσίμου πρὸς Θεόδωρον κεφάλαια"
+      },
+      "url_slug": "zosimus-of-panopolis-theodorus-tyc-bc",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/theodorus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-theodorus-tyc-bc.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-theodorus-tyc-bc.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-theodorus-tyc-bc.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-theodorus-tyc-bc.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/theodorus.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/geminus-of-rhodes/calendar",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-of-rhodes-calendar-nwa-ac.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-of-rhodes-calendar-nwa-ac.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-of-rhodes-calendar-nwa-ac.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-of-rhodes-calendar-nwa-ac.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-of-rhodes/calendar.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

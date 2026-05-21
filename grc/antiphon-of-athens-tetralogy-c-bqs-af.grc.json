@@ -1,0 +1,529 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "bqs-af",
+  "eul_aid": "bqs",
+  "author_slug": "antiphon-of-athens",
+  "work_slug": "tetralogy-c",
+  "url_slug": "antiphon-of-athens-tetralogy-c-bqs-af",
+  "author": {
+    "english": "Antiphon of Athens ",
+    "ancient_greek": "Ἀντιφῶν ὁ Ἀθηναῖος"
+  },
+  "title": {
+    "english": "Tetralogy C",
+    "ancient_greek": "Τετραλογία Γ΄"
+  },
+  "seo": {
+    "browser_title": "Tetralogy C by Antiphon of Athens on Eulogikon Archive",
+    "meta_title": "Tetralogy C by Antiphon of Athens in Ancient Greek",
+    "meta_description": "Tetralogy C is a model courtroom speech by Antiphon. Demonstrates forensic argumentation. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Sophist",
+      "href": "/affiliations/sophist"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">_Tetralogy C_ is a model forensic oration composed by the Athenian logographer Antiphon in the late fifth century BCE. It forms the third in a set of four instructional works known collectively as the Tetralogies, each of which presents a hypothetical homicide case through two paired speeches for the prosecution and two for the defense. The case in this tetralogy concerns a man accused of deliberately killing another with a thrown javelin during a gymnasium training session. The opposing speeches systematically argue whether the act constituted premeditated murder or an unavoidable accident, exploring issues of intent, probability, and circumstantial evidence.</p>\n<p class=\"research-text\">The work survives complete and is structured as twenty-nine continuous passages of Attic Greek prose. It was designed as a pedagogical tool for students of rhetoric, exemplifying how to construct persuasive legal arguments for the Athenian homicide courts. The speeches demonstrate foundational techniques of early forensic oratory, emphasizing argument from likelihood, the assessment of motive, and the strategic interpretation of ambiguous facts. Modern scholarship regards Antiphon’s Tetralogies as seminal rhetorical exercises from the Classical period, offering crucial insight into the sophisticated methods of argumentation taught and practiced in Athenian legal culture. They remain an essential resource for understanding the development of Greek judicial oratory before its full flowering in the works of Lysias, Isocrates, and Demosthenes.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "Tetr 3 t 1",
+      "text": "ΤΕΤΡΑΛΟΓΙΑ Γ αʹ ΦΟΝΟΥ ΚΑΤΗΓΟΡΙΑ ΚΑΤΑ ΤΟΥ ΛΕΓΟΝΤΟΣ ΑΜΥΝΑΣΘΑΙ Νενόμισται μὲν ὀρθῶς τὰς φονικὰς δίκας περὶ πλείστου τοὺς κρίνοντας ποιεῖσθαι διώκειν τε καὶ μαρτυρεῖν κατὰ τὸ δίκαιον, μήτε τοὺς ἐνόχους ἀφιέντας μήτε τοὺς καθαροὺς εἰς ἀγῶνα καθιστάντας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Tetr 3 1 2",
+      "text": "Ὅ τε γὰρ θεὸς βουλόμενος ποιῆσαι τὸ ἀνθρώπινον φῦλον τοὺς πρῶτον γενομένους ἔφυσεν ἡμῶν, τροφέας τε παρέδωκε τὴν γῆν καὶ τὴν θάλασσαν, ἵνα μὴ σπάνει τῶν ἀναγκαίων προαποθνῄσκοιμεν τῆς γηραιοῦ τελευτῆς. Ὅστις οὖν, τούτων ὑπὸ τοῦ θεοῦ ἀξιωθέντος τοῦ βίου ἡμῶν, ἀνόμως τινὰ ἀποκτείνει, ἀσεβεῖ μὲν περὶ τοὺς θεούς, συγχεῖ δὲ τὰ νόμιμα τῶν ἀνθρώπων. Ὅ τε γὰρ ἀποθανών, στερόμενος ὧν ὁ θεὸς ἔδωκεν αὐτῷ, εἰκότως θεοῦ τιμωρίαν ὑπολείπει τὴν τῶν ἀλιτηρίων δυσμένειαν, ἣν οἱ παρὰ τὸ δίκαιον κρίνοντες ἢ μαρτυροῦντες, συνασεβοῦντες τῷ ταῦτα δρῶντι, οὐ προσῆκον μίασμα εἰς τοὺς ἰδίους οἴκους εἰσάγονται· ἡμεῖς τε οἱ τιμωροὶ τῶν διεφθαρμένων, εἰ δι’ ἄλλην τινὰ ἔχθραν τοὺς ἀναιτίους διώκοιμεν, τῷ μὲν ἀποθανόντι οὐ τιμωροῦντες δεινοὺς ἀλιτηρίους ἕξομεν τοὺς τῶν ἀποθανόντων προστροπαίους, τοὺς δὲ καθαροὺς ἀδίκως ἀποκτείνοντες ἔνοχοι τοῦ φόνου τοῖς ἐπιτιμίοις ἐσμέν, ὑμᾶς τε ἄνομα δρᾶν πείθοντες καὶ τοῦ ὑμετέρου ἁμαρτήματος ὑπαίτιοι γιγνόμεθα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Tetr 3 1 5",
+      "text": "Ἐγὼ μὲν οὖν δεδιὼς ταῦτα, εἰς ὑμᾶς παράγων τὸν ἀσεβήσαντα καθαρὸς τῶν ἐγκλημάτων εἰμί· ὑμεῖς δὲ ἀξίως τῶν προειρημένων τῇ κρίσει προσέχοντες τὸν νοῦν, ἀξίαν δίκην τοῦ πάθους τῷ εἰργασμένῳ ἐπιθέντες, ἅπασαν τὴν πόλιν καθαρὰν τοῦ μιάσματος καταστήσετε. Εἰ μὲν γὰρ ἄκων ἀπέκτεινε τὸν ἄνδρα, ἄξιος ἂν ἦν συγγνώμης τυχεῖν τινός· ὕβρει δὲ καὶ ἀκολασίᾳ παροινῶν εἰς ἄνδρα πρεσβύτην, τύπτων τε καὶ πνίγων ἕως τῆς ψυχῆς ἀπεστέρησεν αὐτόν, ὡς μὲν ἀποκτείνας τοῦ φόνου τοῖς ἐπιτιμίοις ἔνοχός ἐστιν, ὡς δὲ συγχέων ἅπαντα τῶν γεραιτέρων τὰ νόμιμα οὐδενὸς ἁμαρτεῖν, οἷς οἱ τοιοῦτοι κολάζονται, δίκαιός ἐστιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Tetr 3 1 7",
+      "text": "Ὁ μὲν τοίνυν νόμος ὀρθῶς ὑμῖν τιμωρεῖσθαι παραδίδωσιν αὐτόν· τῶν δὲ μαρτύρων ἀκηκόατε, οἳ παρῆσαν παροινοῦντι αὐτῷ. Ὑμᾶς δὲ χρὴ, τῇ τε ἀνομίᾳ τοῦ παθήματος ἀμύνοντας τήν τε ὕβριν κολάζοντας ἀξίως τοῦ πάθους, τὴν βουλεύσασαν ψυχὴν ἀνταφελέσθαι αὐτόν. βʹ ΑΠΟΛΟΓΙΑ ΦΟΝΟΥ ΩΣ ΑΜΥΝΟΜΕΝΟΣ ΑΠΕΚΤΕΙΝΕΝ Ὅτι μὲν βραχεῖς τοὺς λόγους ἐποιήσαντο, οὐ θαυμάζω αὐτῶν· οὐ γὰρ ὡς μὴ πάθωσιν ὁ κίνδυνος αὐτοῖς ἐστιν, ἀλλ’ ὡς ἐμὲ μὴ δικαίως δι’ ἔχθραν διαφθείρωσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Tetr 3 2 1",
+      "text": "Ὅτι δ’ ἐξισοῦν τοῖς μεγίστοις ἐγκλήμασιν ἤθελον τὸ πρᾶγμα, οὗ ὁ ἀποθανὼν αὑτῷ αἴτιος καὶ μᾶλλον ἢ ἐγὼ ἐγένετο, εἰκότως ἂν ἀγανακτεῖν μοι δοκῶ. Ἄρχων γὰρ χειρῶν ἀδίκων, καὶ παροινῶν εἰς ἄνδρα πολὺ αὑτοῦ σωφρονέστερον, οὐχ αὑτῷ μόνον τῆς συμφορᾶς, ἀλλὰ καὶ ἐμοὶ τοῦ ἐγκλήματος αἴτιος γέγονεν. Οἶμαι μὲν οὖν ἔγωγε οὔτε δίκαια τούτους οὔθ’ ὅσια δρᾶν ἐγκαλοῦντας ἐμοί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Tetr 3 2 2",
+      "text": "Τὸν γὰρ ἄρξαντα τῆς πληγῆς, εἰ μὲν σιδήρῳ ἢ λίθῳ ἢ ξύλῳ ἠμυνάμην αὐτόν, ἠδίκουν μὲν οὐδ’ οὕτως—οὐ γὰρ ταὐτὰ ἀλλὰ μείζονα καὶ πλείονα δίκαιοι οἱ ἄρχοντες ἀντιπάσχειν εἰσί—· ταῖς δὲ χερσὶ τυπτόμενος ὑπ’ αὐτοῦ, ταῖς χερσὶν ἅπερ ἔπασχον ἀντιδρῶν, πότερα ἠδίκουν; Εἶεν· ἐρεῖ δέ «ἀλλ’ ὁ νόμος εἴργων μήτε δικαίως μήτε ἀδίκως ἀποκτείνειν ἔνοχον τοῦ φόνου τοῖς ἐπιτιμίοις ἀποφαίνει σε ὄντα· ὁ γὰρ ἀνὴρ τέθνηκεν».",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Tetr 3 2 3",
+      "text": "Ἐγὼ δὲ δεύτερον καὶ τρίτον οὐκ ἀποκτεῖναί φημι. Εἰ μὲν γὰρ ὑπὸ τῶν πληγῶν ὁ ἀνὴρ παραχρῆμα ἀπέθανεν, ὑπ’ ἐμοῦ μὲν δικαίως δ’ ἂν ἐτεθνήκει—οὐ γὰρ ταὐτὰ ἀλλὰ μείζονα καὶ πλείονα οἱ ἄρξαντες δίκαιοι ἀντιπάσχειν εἰσί—· νῦν δὲ πολλαῖς ἡμέραις ὕστερον μοχθηρῷ ἰατρῷ ἐπιτρεφθεὶς διὰ τὴν τοῦ ἰατροῦ μοχθηρίαν καὶ οὐ διὰ τὰς πληγὰς ἀπέθανε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Tetr 3 2 4",
+      "text": "Προλεγόντων γὰρ αὐτῷ τῶν ἄλλων ἰατρῶν, εἰ ταύτην τὴν θεραπείαν θεραπεύσοιτο, ὅτι ἰάσιμος ὢν διαφθαρήσοιτο, δι’ ὑμᾶς τοὺς συμβούλους διαφθαρεὶς ἐμοὶ ἀνόσιον ἔγκλημα προσέβαλεν. Ἀπολύει δέ με καὶ ὁ νόμος καθ’ ὃν διώκομαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Tetr 3 2 5",
+      "text": "Τὸν γὰρ ἐπιβουλεύσαντα κελεύει φονέα εἶναι. Ἐγὼ μὲν οὖν πῶς ἂν ἐπιβουλεύσαιμι αὐτῷ ὅ τι μὴ καὶ ἐπεβουλεύθην ὑπ’ αὐτοῦ; τοῖς γὰρ αὐτοῖς ἀμυνόμενος αὐτὸν καὶ τὰ αὐτὰ δρῶν ἅπερ ἔπασχον, σαφὲς ὅτι τὰ αὐτὰ ἐπεβούλευσα καὶ ἐπεβουλεύθην. Εἰ δέ τις ἐκ τῶν πληγῶν τὸν θάνατον οἰόμενος γενέσθαι φονέα με αὐτοῦ ἡγεῖται [εἶναι], ἀντιλογισάσθω ὅτι διὰ τὸν ἄρξαντα αἱ πληγαὶ γενόμεναι τοῦτον αἴτιον τοῦ θανάτου καὶ οὐκ ἐμὲ ἀποφαίνουσιν ὄντα· οὐ γὰρ ἂν ἠμυνάμην μὴ τυπτόμενος ὑπ’ αὐτοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Tetr 3 2 6",
+      "text": "Ἀπολυόμενος δὲ ὑπό τε τοῦ 〈νόμου ὑπό τε τοῦ〉 ἄρξαντος τῆς πληγῆς, ἐγὼ μὲν οὐδενὶ τρόπῳ φονεὺς αὐτοῦ εἰμί, ὁ δὲ ἀποθανών, εἰ μὲν ἀτυχίᾳ τέθνηκε, τῇ ἑαυτοῦ ἀτυχίᾳ κέχρηται— ἠτύχησε γὰρ ἄρξας τῆς πληγῆς—, εἰ δ’ ἀβουλίᾳ τινί, τῇ ἑαυτοῦ ἀβουλίᾳ διέφθαρται· οὐ γὰρ εὖ φρονῶν ἔτυπτέ με. Ὡς μὲν οὖν οὐ δικαίως κατηγοροῦμαι, ἐπιδέδεικταί μοι· ἐθέλω δὲ τοὺς κατηγοροῦντάς μου πᾶσιν οἷς ἐγκαλοῦσιν ἐνόχους αὐτοὺς ὄντας ἀποδεῖξαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Tetr 3 2 7",
+      "text": "Καθαρῷ μὲν 〈γάρ〉 μοι τῆς αἰτίας ὄντι φόνον ἐπικαλοῦντες, ἀποστεροῦντες δέ με τοῦ βίου ὃν ὁ θεὸς παρέδωκέ μοι, περὶ τὸν θεὸν ἀσεβοῦσιν· ἀδίκως δὲ θάνατον ἐπιβουλεύοντες τά τε νόμιμα συγχέουσι φονῆς τέ μου γίγνονται· ἀνοσίως δ’ ἀποκτεῖναι ὑμᾶς με πείθοντες καὶ τῆς ὑμετέρας εὐσεβείας αὑτοὶ φονῆς εἰσί. Τούτοις μὲν οὖν ὁ θεὸς ἐπιθείη τὴν δίκην· ὑμᾶς δὲ χρὴ τὸ ὑμέτερον σκοποῦντας ἀπολῦσαί με μᾶλλον ἢ καταλαβεῖν βούλεσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Tetr 3 2 8",
+      "text": "Ἀδίκως μὲν γὰρ ἀπολυθείς, διὰ τὸ μὴ ὀρθῶς ὑμᾶς διδαχθῆναι ἀποφυγών, † τοῦ μὴ διδάξαντος καὶ οὐχ ὑμέτερον † τὸν προστρόπαιον τοῦ ἀποθανόντος καταστήσω· μὴ ὀρθῶς δὲ καταληφθεὶς ὑφ’ ὑμῶν, ὑμῖν καὶ οὐ τούτῳ τὸ μήνιμα τῶν ἀλιτηρίων προστρέψομαι. Ταῦτ’ οὖν εἰδότες, τουτοισὶ τὸ ἀσέβημα τοῦτο ἀναθέντες, αὐτοί τε καθαροὶ τῆς αἰτίας γένεσθε, ἐμέ τε ὁσίως καὶ δικαίως ἀπολύετε· οὕτω γὰρ ἂν καθαρώτατοι πάντες οἱ πολῖται εἴημεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Tetr 3 3 t",
+      "text": "γʹ ΕΚ ΚΑΤΗΓΟΡΙΑΣ ΥΣΤΕΡΟΣ Τοῦτόν τε οὐ θαυμάζω ἀνόσια δράσαντα ὅμοια οἷς εἴργασται λέγειν, ὑμῖν τε συγγιγνώσκω βουλομένοις τὴν ἀκρίβειαν τῶν πραχθέντων μαθεῖν τοιαῦτα ἀνέχεσθαι ἀκούοντας αὐτοῦ, ἃ ἐκβάλλεσθαι ἄξιά ἐστι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Tetr 3 3 1",
+      "text": "Τὸν γὰρ ἄνδρα ὁμολογῶν τύπτειν τὰς πληγὰς ἐξ ὧν ἀπέθανεν, αὐτὸς μὲν τοῦ τεθνηκότος οὔ φησι φονεὺς εἶναι, ἡμᾶς δὲ τοὺς τιμωροῦντας αὐτῷ ζῶν τε καὶ βλέπων φονέας αὑτοῦ φησὶν εἶναι. Θέλω δὲ καὶ τὰ ἄλλα παραπλήσια ἀπολογηθέντα τούτοις ἐπιδεῖξαι αὐτόν. Εἶπε δὲ πρῶτον μέν, εἰ καὶ ἐκ τῶν πληγῶν ἀπέθανεν ὁ ἀνήρ, ὡς οὐκ ἀπέκτεινεν αὐτόν· τὸν γὰρ ἄρξαντα τῆς πληγῆς, τοῦτον αἴτιον τῶν πραχθέντων γενόμενον καταλαμβάνεσθαι ὑπὸ τοῦ νόμου, ἄρξαι δὲ τὸν ἀποθανόντα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Tetr 3 3 2",
+      "text": "Μάθετε δὴ πρῶτον μὲν ὅτι ἄρξαι καὶ παροινεῖν τοὺς νεωτέρους τῶν πρεσβυτέρων εἰκότερόν ἐστι· τοὺς μὲν γὰρ ἥ τε μεγαλοφροσύνη τοῦ γένους ἥ τε ἀκμὴ τῆς ῥώμης ἥ τε ἀπειρία τῆς μέθης ἐπαίρει τῷ θυμῷ χαρίζεσθαι, τοὺς δὲ ἥ τε ἐμπειρία τῶν παροινουμένων ἥ τε ἀσθένεια τοῦ γήρως ἥ τε δύναμις τῶν νέων φοβοῦσα σωφρονίζει. Ὡς δὲ οὐδὲ τοῖς αὐτοῖς ἀλλὰ τοῖς ἐναντιωτάτοις ἠμύνατο αὐτόν, αὐτὸ τὸ ἔργον σημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Tetr 3 3 3",
+      "text": "Ὁ μὲν γὰρ ἀκμαζούσῃ τῇ ῥώμῃ τῶν χειρῶν χρώμενος ἀπέκτεινεν· ὁ δὲ ἀδυνάτως τὸν κρείσσονα ἀμυνόμενος, οὐδὲ σημεῖον οὐδὲν ὧν ἠμύνατο ὑπολείπων ἀπέθανεν. Εἰ δὲ ταῖς χερσὶν ἀπέκτεινε καὶ οὐ σιδήρῳ, ὅσον αἱ χεῖρες οἰκειότεραι τοῦ σιδήρου τούτῳ εἰσί, τοσούτῳ μᾶλλον φονεύς ἐστιν. Ἐτόλμησε δὲ εἰπεῖν ὡς ὁ ἄρξας τῆς πληγῆς καὶ μὴ διαφθείρας μᾶλλον τοῦ ἀποκτείναντος φονεύς ἐστι· τοῦτον γὰρ βουλευτὴν τοῦ θανάτου φησὶ γενέσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Tetr 3 3 4",
+      "text": "Ἐγὼ δὲ πολὺ τἀναντία τούτων φημί. Εἰ γὰρ αἱ χεῖρες ἃ διανοούμεθα ἑκάστῳ ἡμῶν ὑπουργοῦσιν, ὁ μὲν πατάξας καὶ μὴ ἀποκτείνας τῆς πληγῆς βουλευτὴς ἐγένετο, ὁ δὲ θανασίμως τύπτων τοῦ θανάτου· ἐκ γὰρ ὧν ἐκεῖνος διανοηθεὶς ἔδρασεν, ὁ ἀνὴρ τέθνηκεν. Ἔστι δὲ ἡ μὲν ἀτυχία τοῦ πατάξαντος, ἡ δὲ συμφορὰ τοῦ παθόντος. Ὁ μὲν γὰρ ἐξ ὧν ἔδρασεν ἐκεῖνος διαφθαρείς, οὐ τῇ ἑαυτοῦ ἁμαρτίᾳ ἀλλὰ τῇ τοῦ πατάξαντος χρησάμενος ἀπέθανεν· ὁ δὲ μείζω ὧν ἤθελε πράξας, τῇ ἑαυτοῦ ἀτυχίᾳ ὃν οὐκ ἤθελεν ἀπέκτεινεν. Ὑπὸ δὲ τοῦ ἰατροῦ φάσκων αὐτὸν ἀποθανεῖν, θαυμάζω ὅτι οὐχ ὑφ’ ἡμῶν τῶν συμβουλευσάντων ἐπιτρεφθῆναί φησιν αὐτὸν διαφθαρῆναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Tetr 3 3 5",
+      "text": "Καὶ γὰρ ἂν εἰ μὴ ἐπετρέψαμεν, ὑπ’ ἀθεραπείας ἂν ἔφη διαφθαρῆναι αὐτόν. Εἰ δέ τοι καὶ ὑπὸ τοῦ ἰατροῦ ἀπέθανεν, ὡς οὐκ ἀπέθανεν, ὁ μὲν ἰατρὸς οὐ φονεὺς αὐτοῦ ἐστιν, ὁ γὰρ νόμος ἀπολύει αὐτόν, διὰ δὲ τὰς τούτου πληγὰς ἐπιτρεψάντων ἡμῶν αὐτῷ, πῶς ἂν ἄλλος τις ἢ ὁ βιασάμενος ἡμᾶς χρῆσθαι αὐτῷ φονεὺς εἴη ἄν; Οὕτω δὲ φανερῶς ἐκ παντὸς τρόπου ἐλεγχόμενος ἀποκτεῖναι τὸν ἄνδρα, εἰς τοῦτο τόλμης καὶ ἀναιδείας ἥκει, ὥστ’ οὐκ ἀρκοῦν αὐτῷ ἐστιν ὑπὲρ τῆς αὑτοῦ ἀσεβείας ἀπολογεῖσθαι, ἀλλὰ καὶ ἡμᾶς, οἳ τὸ τούτου μίασμα ἐπεξερχόμεθα, ἀθέμιστα καὶ ἀνόσια δρᾶν φησι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Tetr 3 3 7",
+      "text": "Τούτῳ μὲν οὖν πρέπει καὶ ταῦτα καὶ ἔτι τούτων δεινότερα λέγειν, τοιαῦτα δεδρακότι· ἡμεῖς δὲ τόν 〈τε〉 θάνατον φανερὸν ἀποδεικνύντες, τήν τε πληγὴν ὁμολογουμένην ἐξ ἧς ἀπέθανε, τόν τε νόμον εἰς τὸν πατάξαντα τὸν φόνον ἀνάγοντα, ἀντὶ τοῦ ἀποθανόντος ἐπισκήπτομεν ὑμῖν, τῷ τούτου φόνῳ τὸ μήνιμα τῶν ἀλιτηρίων ἀκεσαμένους πᾶσαν τὴν πόλιν καθαρὰν τοῦ μιάσματος καταστῆσαι. δʹ ΕΞ ΑΠΟΛΟΓΙΑΣ Ο ΥΣΤΕΡΟΣ Ὁ μὲν ἀνήρ, οὐ καταγνοὺς αὐτὸς αὑτοῦ, ἀλλὰ τὴν σπουδὴν τῶν κατηγόρων φοβηθείς, ὑπαπέστη· ἡμῖν δὲ τοῖς φίλοις ζῶντι ἢ ἀποθανόντι εὐσεβέστερον ἀμύνειν αὐτῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Tetr 3 4 1",
+      "text": "Ἄριστα μὲν οὖν αὐτὸς ἂν ὑπὲρ αὑτοῦ ἀπελογεῖτο· ἐπεὶ δὲ τάδε ἀκινδυνότερα ἔδοξεν εἶναι, ἡμῖν, οἷς μέγιστον ἂν πένθος γένοιτο στερηθεῖσιν αὐτοῦ, ἀπολογητέον. Δοκεῖ δέ μοι περὶ τὸν ἄρξαντα τῆς πληγῆς τὸ ἀδίκημα εἶναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Tetr 3 4 2",
+      "text": "Ὁ μὲν οὖν διώκων οὐκ εἰκόσι τεκμηρίοις χρώμενος τοῦτον τὸν ἄρξαντά φησιν εἶναι. Εἰ μὲν γὰρ ὥσπερ βλέπειν μὲν τοῖν ὀφθαλμοῖν, ἀκούειν δὲ τοῖς ὠσίν, οὕτω κατὰ φύσιν ἦν ὑβρίζειν μὲν τοὺς νέους, σωφρονεῖν δὲ τοὺς γέροντας, οὐδὲν ἂν τῆς ὑμετέρας κρίσεως ἔδει· αὐτὴ γὰρ 〈ἂν〉 ἡ ἡλικία τῶν νέων κατέκρινε· νῦν δὲ πολλοὶ μὲν νέοι σωφρονοῦντες, πολλοὶ δὲ πρεσβῦται παροινοῦντες, οὐδὲν μᾶλλον τῷ διώκοντι ἢ τῷ φεύγοντι τεκμήριον γίγνονται. Κοινοῦ δὲ τοῦ τεκμηρίου ἡμῖν ὄντος 〈καὶ〉 τούτῳ, τῷ παντὶ προέχομεν· οἱ γὰρ μάρτυρες τοῦτόν φασιν ἄρξαι τῆς πληγῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Tetr 3 4 3",
+      "text": "Ἄρξαντος δὲ τούτου, καὶ τῶν ἄλλων ἁπάντων 〈τῶν〉 κατηγορουμένων ἀπολύεται τῆς αἰτίας. Εἴπερ γὰρ ὁ πατάξας, διὰ τὴν πληγὴν βιασάμενος ὑμᾶς ἐπιτρεφθῆναι ἰατρῷ, μᾶλλον τοῦ ἀποκτείναντος φονεύς ἐστιν, ὁ ἄρξας τῆς πληγῆς φονεὺς γίγνεται. Οὗτος γὰρ ἠνάγκασε τόν τε ἀμυνόμενον ἀντιτύπτειν τόν τε πληγέντα ἐπὶ τὸν ἰατρὸν ἐλθεῖν. Ἀνόσια δ’ ἂν ὅ γε διωκόμενος πάθοι, εἰ μήτε ἀποκτείνας ὑπὲρ τοῦ ἀποκτείναντος μήτε ἄρξας ὑπὲρ τοῦ ἄρξαντος φονεὺς ἔσται. Ἔστι δὲ οὐδὲ ὁ ἐπιβουλεύσας οὐδὲν μᾶλλον ὁ διωκόμενος τοῦ διώκοντος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Tetr 3 4 4",
+      "text": "Εἰ 〈μὲν〉 γὰρ ὁ μὲν ἄρξας τῆς πληγῆς τύπτειν καὶ μὴ ἀποκτείνειν διενοήθη, ὁ δὲ ἀμυνόμενος ἀποκτεῖναι, οὗτος ἂν ὁ ἐπιβουλεύσας εἴη. Νῦν δὲ καὶ ὁ ἀμυνόμενος τύπτειν καὶ οὐκ ἀποκτεῖναι διανοηθεὶς ἥμαρτεν, εἰς ἃ οὐκ ἠβούλετο πατάξας. Τῆς μὲν οὖν πληγῆς βουλευτὴς ἐγένετο, τὸν δὲ θάνατον πῶς ἂν ἐπεβούλευσεν, ὅς γε ἀκουσίως ἐπάταξεν; Οἰκεῖον δὲ [καὶ] τὸ ἁμάρτημα τῷ ἄρξαντι μᾶλλον ἢ τῷ ἀμυνομένῳ ἐστιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Tetr 3 4 5",
+      "text": "Ὁ μὲν γὰρ ἃ ἔπασχεν ἀντιδρᾶν ζητῶν, ὑπ’ ἐκείνου βιαζόμενος ἐξήμαρτεν· ὁ δὲ διὰ τὴν ἑαυτοῦ ἀκολασίαν πάντα δρῶν καὶ πάσχων, καὶ τῆς ἑαυτοῦ καὶ τῆς ἐκείνου ἁμαρτίας 〈αἴτιος ὢν〉 δίκαιος φονεὺς εἶναί ἐστιν. Ὡς δὲ οὐδὲ κρεισσόνως, ἀλλὰ πολὺ ὑποδεεστέρως ὧν ἔπασχεν ἠμύνετο, διδάξω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Tetr 3 4 6",
+      "text": "Ὁ μὲν ὑβρίζων καὶ παροινῶν πάντ’ ἔδρα καὶ οὐδὲν ἠμύνετο· ὁ δὲ μὴ πάσχειν ἀλλ’ ἀπωθεῖσθαι ζητῶν, ἅ τε ἔπασχεν ἀκουσίως ἔπασχεν, ἅ τ’ ἔδρασε τὰ παθήματα βουλόμενος διαφυγεῖν ἐλασσόνως ἢ κατ’ ἀξίαν τὸν ἄρξαντα ἠμύνετο, καὶ οὐκ ἔδρα. Εἰ δὲ κρείσσων ὢν τὰς χεῖρας κρεισσόνως ἠμύνετο ἢ ἔπασχεν, οὐδ’ οὕτω δίκαιος ὑφ’ ὑμῶν καταλαμβάνεσθαί ἐστι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Tetr 3 4 7",
+      "text": "Τῷ μὲν γὰρ ἄρξαντι πανταχοῦ μεγάλα ἐπιτίμια ἐπίκειται, τῷ δὲ ἀμυνομένῳ οὐδαμοῦ οὐδὲν ἐπιτίμιον γέγραπται. Πρὸς δὲ τὸ μήτε δικαίως μήτε ἀδίκως ἀποκτείνειν ἀποκέκριται· οὐ γὰρ ὑπὸ τῶν πληγῶν ἀλλ’ ὑπὸ τοῦ ἰατροῦ ὁ ἀνὴρ ἀπέθανεν, ὡς οἱ μάρτυρες μαρτυροῦσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Tetr 3 4 8",
+      "text": "Ἔστι δὲ καὶ ἡ τύχη τοῦ ἄρξαντος καὶ οὐ τοῦ ἀμυνομένου. Ὁ μὲν γὰρ ἀκουσίως πάντα δράσας καὶ παθὼν ἀλλοτρίᾳ τύχῃ κέχρηται· ὁ δὲ ἑκουσίως πάντα δράσας, ἐκ τῶν αὑτοῦ ἔργων τὴν τύχην προσαγόμενος, τῇ αὑτοῦ ἀτυχίᾳ ἥμαρτεν. Ὡς μὲν οὖν οὐδενὶ ἔνοχος τῶν κατηγορημένων ὁ διωκόμενός ἐστιν, ἀποδέδεικται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Tetr 3 4 9",
+      "text": "Εἰ δέ τις κοινὴν μὲν τὴν πρᾶξιν, κοινὴν δὲ τὴν ἀτυχίαν αὐτῶν ἡγούμενος εἶναι, μηδὲν ἀπολύσιμον μᾶλλον ἢ καταλήψιμον ἐκ τῶν λεγομένων γιγνώσκει αὐτὸν ὄντα, καὶ οὕτως ἀπολύειν μᾶλλον ἢ καταλαμβάνειν δίκαιός ἐστι. Τόν τε γὰρ διώκοντα οὐ δίκαιον καταλαμβάνειν, μὴ σαφῶς διδάξαντα ὅτι ἀδικεῖται· τόν τε φεύγοντα ἀνόσιον ἁλῶναι, μὴ φανερῶς ἐλεγχθέντα ἃ ἐπικαλεῖται. Οὑτωσὶ δὲ ἐκ παντὸς τρόπου τῶν ἐγκλημάτων ἀπολυομένου τοῦ ἀνδρός, ἡμεῖς ὁσιώτερον ὑμῖν ἐπισκήπτομεν ὑπὲρ αὐτοῦ, μὴ τὸν φονέα ζητοῦντας κολάζειν τὸν καθαρὸν ἀποκτείνειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Tetr 3 4 10",
+      "text": "Ὅ τε γὰρ † ἀποκτείνας τοῦ ἀποθανόντος † οὐδὲν ἧσσον τοῖς αἰτίοις προστρόπαιος ἔσται, οὗτός τε ἀνοσίως διαφθαρεὶς διπλάσιον καθίστησι τὸ μίασμα τῶν ἀλιτηρίων τοῖς ἀποκτείνασιν αὐτόν. Ταῦτα οὖν δεδιότες, τὸν μὲν καθαρὸν ὑμέτερον ἡγεῖσθε εἶναι ἀπολύειν τῆς αἰτίας, τὸν δὲ μιαρὸν τῷ χρόνῳ ἀποδόντες φῆναι τοῖς ἔγγιστα τιμωρεῖσθαι ὑπολείπετε· οὕτω γὰρ ἂν δικαιότατα καὶ ὁσιώτατα πράξαιτ’ ἄν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "bqs-ai",
+      "title": {
+        "english": "Fragments on Oligarchy and Democracy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ὀλιγαρχίας καὶ Δημοκρατίας"
+      },
+      "url_slug": "antiphon-of-athens-oligarchy-democracy-bqs-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/antiphon-of-athens/oligarchy-democracy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-oligarchy-democracy-bqs-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-oligarchy-democracy-bqs-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-oligarchy-democracy-bqs-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-oligarchy-democracy-bqs-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens/oligarchy-democracy.epub"
+      }
+    },
+    {
+      "eul_wid": "bqs-ah",
+      "title": {
+        "english": "On Sedition and Political Defense",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "antiphon-of-athens-sedition-defense-bqs-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/antiphon-of-athens/sedition-defense",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-sedition-defense-bqs-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-sedition-defense-bqs-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-sedition-defense-bqs-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-sedition-defense-bqs-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens/sedition-defense.epub"
+      }
+    },
+    {
+      "eul_wid": "bqs-aa",
+      "title": {
+        "english": "On Sorcery-The Stepmother",
+        "ancient_greek": "Φαρμακείας κατὰ τῆς μητρυιᾶς"
+      },
+      "url_slug": "antiphon-of-athens-sorcery-stepmother-bqs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/antiphon-of-athens/sorcery-stepmother",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-sorcery-stepmother-bqs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-sorcery-stepmother-bqs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-sorcery-stepmother-bqs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-sorcery-stepmother-bqs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens/sorcery-stepmother.epub"
+      }
+    },
+    {
+      "eul_wid": "bqs-ac",
+      "title": {
+        "english": "On the Dancer",
+        "ancient_greek": "Περὶ τοῦ χορευτοῦ"
+      },
+      "url_slug": "antiphon-of-athens-dancer-bqs-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/antiphon-of-athens/dancer",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-dancer-bqs-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-dancer-bqs-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-dancer-bqs-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-dancer-bqs-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens/dancer.epub"
+      }
+    },
+    {
+      "eul_wid": "bqs-ab",
+      "title": {
+        "english": "On the Murder of Herodes",
+        "ancient_greek": "Περὶ τοῦ Ἡρῷδου φόνου"
+      },
+      "url_slug": "antiphon-of-athens-murder-herodes-bqs-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/antiphon-of-athens/murder-herodes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-murder-herodes-bqs-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-murder-herodes-bqs-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-murder-herodes-bqs-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-murder-herodes-bqs-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens/murder-herodes.epub"
+      }
+    },
+    {
+      "eul_wid": "bqs-ag",
+      "title": {
+        "english": "On the Samothracian Tribute",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "antiphon-of-athens-samothracian-tribute-bqs-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/antiphon-of-athens/samothracian-tribute",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-samothracian-tribute-bqs-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-samothracian-tribute-bqs-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-samothracian-tribute-bqs-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-samothracian-tribute-bqs-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens/samothracian-tribute.epub"
+      }
+    },
+    {
+      "eul_wid": "bqs-ad",
+      "title": {
+        "english": "Tetralogy A",
+        "ancient_greek": "Τετραλογία Α΄"
+      },
+      "url_slug": "antiphon-of-athens-tetralogy-a-bqs-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/antiphon-of-athens/tetralogy-a",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-tetralogy-a-bqs-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-tetralogy-a-bqs-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-tetralogy-a-bqs-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-tetralogy-a-bqs-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens/tetralogy-a.epub"
+      }
+    },
+    {
+      "eul_wid": "bqs-ae",
+      "title": {
+        "english": "Tetralogy B",
+        "ancient_greek": "Τετραλογία Β΄"
+      },
+      "url_slug": "antiphon-of-athens-tetralogy-b-bqs-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/antiphon-of-athens/tetralogy-b",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-tetralogy-b-bqs-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-tetralogy-b-bqs-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-tetralogy-b-bqs-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-tetralogy-b-bqs-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens/tetralogy-b.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "ffu-ag",
+      "title": {
+        "english": "Against Lochites",
+        "ancient_greek": "Κατὰ Λοχίτου"
+      },
+      "url_slug": "isocrates-of-athens-against-lochites-ffu-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/against-lochites",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-against-lochites-ffu-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-against-lochites-ffu-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-against-lochites-ffu-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-against-lochites-ffu-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/against-lochites.epub"
+      }
+    },
+    {
+      "eul_wid": "rhg-aa",
+      "title": {
+        "english": "Declamation of Paris to the Trojan Senate",
+        "ancient_greek": "Διατριβὴ Πάριδος πρὸς τὴν Τρωικὴν βουλήν"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-paris-trojan-senate-rhg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/paris-trojan-senate",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises-paris-trojan-senate-rhg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises-paris-trojan-senate-rhg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises-paris-trojan-senate-rhg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises-paris-trojan-senate-rhg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/paris-trojan-senate.epub"
+      }
+    },
+    {
+      "eul_wid": "fsm-bq",
+      "title": {
+        "english": "Demagogic Prologues",
+        "ancient_greek": "προοίμια δημηγορικά"
+      },
+      "url_slug": "demosthenes-of-athens-demagogic-prologues-fsm-bq",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/demagogic-prologues",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-demagogic-prologues-fsm-bq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-demagogic-prologues-fsm-bq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-demagogic-prologues-fsm-bq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-demagogic-prologues-fsm-bq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/demagogic-prologues.epub"
+      }
+    },
+    {
+      "eul_wid": "pfk-ao",
+      "title": {
+        "english": "Dispute of the Consonants",
+        "ancient_greek": "Κατάπλους ἢ Τύραννος"
+      },
+      "url_slug": "lucian-of-samosata-dispute-consonants-pfk-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/dispute-consonants",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-dispute-consonants-pfk-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-dispute-consonants-pfk-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-dispute-consonants-pfk-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-dispute-consonants-pfk-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dispute-consonants.epub"
+      }
+    },
+    {
+      "eul_wid": "ghc-aa",
+      "title": {
+        "english": "Fragments on the Trojan War",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Τρωικοῦ Πολέμου"
+      },
+      "url_slug": "timolaus-of-larissa-trojan-war-ghc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/timolaus-of-larissa/trojan-war",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timolaus-of-larissa-trojan-war-ghc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timolaus-of-larissa-trojan-war-ghc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timolaus-of-larissa-trojan-war-ghc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timolaus-of-larissa-trojan-war-ghc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timolaus-of-larissa/trojan-war.epub"
+      }
+    },
+    {
+      "eul_wid": "brc-ad",
+      "title": {
+        "english": "On Human Nature and Barbarians",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "antiphon-the-sophist-human-nature-barbarians-brc-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/antiphon-the-sophist/human-nature-barbarians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-the-sophist-human-nature-barbarians-brc-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-the-sophist-human-nature-barbarians-brc-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-the-sophist-human-nature-barbarians-brc-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-the-sophist-human-nature-barbarians-brc-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-the-sophist/human-nature-barbarians.epub"
+      }
+    },
+    {
+      "eul_wid": "qng-af",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "hermogenes-of-tarsus-testimonies-qng-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermogenes-of-tarsus/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-testimonies-qng-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-testimonies-qng-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-testimonies-qng-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-testimonies-qng-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus/testimonies.epub"
+      }
+    },
+    {
+      "eul_wid": "pmi-ab",
+      "title": {
+        "english": "To Marcus Caesar and Each Other",
+        "ancient_greek": "Πρὸς Μάρκον Καῖσαρα καὶ Ἀλλήλους"
+      },
+      "url_slug": "fronto-the-rhetorician-marcus-caesar-ab-pmi-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/fronto-the-rhetorician/marcus-caesar-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician-marcus-caesar-ab-pmi-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician-marcus-caesar-ab-pmi-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician-marcus-caesar-ab-pmi-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician-marcus-caesar-ab-pmi-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/marcus-caesar-ab.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/antiphon-of-athens/tetralogy-c",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-tetralogy-c-bqs-af.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-tetralogy-c-bqs-af.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-tetralogy-c-bqs-af.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-tetralogy-c-bqs-af.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens/tetralogy-c.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

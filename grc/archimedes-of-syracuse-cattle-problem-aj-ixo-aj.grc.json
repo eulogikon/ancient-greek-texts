@@ -1,0 +1,412 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ixo-aj",
+  "eul_aid": "ixo",
+  "author_slug": "archimedes-of-syracuse",
+  "work_slug": "cattle-problem-aj",
+  "url_slug": "archimedes-of-syracuse-cattle-problem-aj-ixo-aj",
+  "author": {
+    "english": "Archimedes of Syracuse",
+    "ancient_greek": "Ἀρχιμήδης ὁ Συρακούσιος"
+  },
+  "title": {
+    "english": "Cattle Problem",
+    "ancient_greek": "Βοῦς Πρόβλημα"
+  },
+  "seo": {
+    "browser_title": "The Cattle Problem by Archimedes of Syracuse on Eulogikon",
+    "meta_title": "The Classical Cattle Problem by Archimedes in Ancient Greek",
+    "meta_description": "A 44-line Greek mathematical epigram by Archimedes about the herds of the sun god. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Μαθηματικά",
+      "english": "Mathematics",
+      "href": "/domains/mathematics"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Cattle Problem is a 44-line Greek mathematical epigram attributed to the Hellenistic scientist Archimedes of Syracuse. Composed around 250 BCE, it was transmitted in a letter to the Alexandrian scholar Eratosthenes. The poem presents an arithmetical puzzle framed within a mythological context, describing the herds of the sun god Helios. It details a complex set of precise numerical ratios governing the populations of bulls and cows of four different colors: white, black, yellow, and dappled. The first part of the problem establishes a system of seven linear equations with eight unknowns, which yields a particular integer solution. The second part introduces two additional conditions that transform the problem into a much more difficult challenge, equivalent to what is now recognized as a Pell equation.</p>\n<p class=\"research-text\">The work survives not through the principal manuscript traditions of Archimedes&#x27; treatises but from a single copy discovered in a German library in the 18th century. This solitary transmission has made its precise textual history an object of scholarly investigation. Modern interpretation views the problem as a sophisticated intellectual exercise intended for fellow mathematicians, artfully combining Homeric poetic style with advanced number theory. The second part is of exceptional difficulty; the smallest solution to the complete problem is an integer with over 200,000 digits, and it was not fully solved until the application of electronic computers in the 20th century. Some scholarly debate exists regarding whether the immensely complex second part is authentically Archimedean or represents a later addition by a commentator.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "3.170.(1t)",
+      "text": "Πρόβλημα. ὅπερ Ἀρχιμήδης ἐν ἐπιγράμμασιν εὑρὼν τοῖς ἐν Ἀλεξανδρείᾳ περὶ ταῦτα πραγματευομένοις ζητεῖν ἀπέστειλεν ἐν τῇ πρὸς Ἐρατοσθένην τὸν Κυρηναῖον ἐπιστολῇ. Πληθὺν Ἠελίοιο βοῶν, ὦ ξεῖνε, μέτρησον φροντίδ’ ἐπιστήσας, εἰ μετέχεις σοφίης, πόσση ἄρ’ ἐν πεδίοις Σικελῆς ποτ’ ἐβόσκετο νήσου Θρινακίης τετραχῇ στίφεα δασσαμένη χροιὴν ἀλάσσοντα· τὸ μὲν λευκοῖο γάλακτος, κυανέῳ δ’ ἕτερον χρώματι λαμπόμενον, ἄλλο γε μὲν ξανθόν, τὸ δὲ ποικίλον. Ἐν δὲ ἑκάστῳ στίφει ἔσαν ταῦροι πλήθεσι βριθόμενοι συμμετρίης τοιῆσδε τετευχότες· ἀργότριχας μὲν κυανέων ταύρων ἡμίσει ἠδὲ τρίτῳ καὶ ξανθοῖς σύμπασιν ἴσους, ὦ ξεῖνε, νόησον, αὐτὰρ κυανέους τῷ τετράτῳ τε μέρει μικτοχρόων καὶ πέμπτῳ, ἔτι ξανθοῖσί τε πᾶσιν. Τοὺς δ’ ὑπολειπομένους ποικιλόχρωτας ἄθρει ἀργεννῶν ταύρων ἕκτῳ μέρει ἑβδομάτῳ τε καὶ ξανθοῖς αὐτοὺς πᾶσιν ἰσαζομένους. Θηλείαισι δὲ βουσὶ τάδ’ ἔπλετο· λευκότριχες μὲν ἦσαν συμπάσης κυανέης ἀγέλης τῷ τριτάτῳ τε μέρει καὶ τετράτῳ ἀτρεκὲς ἶσαι· αὐτὰρ κυάνεαι τῷ τετράτῳ τε πάλιν μικτοχρόων καὶ πέμπτῳ ὁμοῦ μέρει ἰσάζοντο σὺν ταύροις πάσαις εἰς νομὸν ἐρχομέναις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.171",
+      "text": "Ξανθοτρίχων δ’ ἀγέλης πέμπτῳ μέρει ἠδὲ καὶ ἕκτῳ ποικίλαι ἰσάριθμον πλῆθος ἔχον τετραχῇ. Ξανθαὶ δ’ ἠριθμεῦντο μέρους τρίτου ἡμίσει ἶσαι ἀργεννῆς ἀγέλης ἑβδομάτῳ τε μέρει. Ξεῖνε, σὺ δ’ Ἠελίοιο βόες πόσαι ἀτρεκὲς εἰπών, χωρὶς μὲν ταύρων ζατρεφέων ἀριθμόν, χωρὶς δ’ αὖ θήλειαι ὅσαι κατὰ χροιὰν ἕκασται, οὐκ ἄιδρίς κα λέγοι’ οὐδ’ ἀριθμῶν ἀδαής, οὐ μὴν πώ γε σοφοῖς ἐναρίθμιος. Ἀλλ’ ἴθι φράζευ καὶ τάδε πάντα βοῶν Ἠελίοιο πάθη. Ἀργότριχες ταῦροι μὲν ἐπεὶ μιξαίατο πληθὺν κυανέοις, ἵσταντ’ ἔμπεδον ἰσόμετροι εἰς βάθος εἰς εὖρός τε, τὰ δ’ αὖ περιμήκεα πάντη πίμπλαντο πλίνθου Θρινακίης πεδία. Ξανθοὶ δ’ αὖτ’ εἰς ἓν καὶ ποικίλοι ἀθροισθέντες ἵσταντ’ ἀμβολάδην ἐξ ἑνὸς ἀρχόμενοι σχῆμα τελειοῦντες τὸ τρικράσπεδον οὔτε προσόντων ἀλλοχρόων ταύρων οὔτ’ ἐπιλειπομένων. Ταῦτα συνεξευρὼν καὶ ἐνὶ πραπίδεσσιν ἀθροίσας καὶ πληθέων ἀποδούς, ξεῖνε, τὰ πάντα μέτρα ἔρχεο κυδιόων νικηφόρος ἴσθι τε πάντως κεκριμένος ταύτῃ γ’ ὄμπνιος ἐν σοφίῃ. Σχόλιον Τὸ μὲν οὖν πρόβλημα διὰ τοῦ ποιήματος ὁ Ἀρχιμήδης ἐδήλωσε σαφῶς· ἰστέον δὲ λεγόμενον, ὅτι τέσσαρας ἀγέλας εἶναι δεῖ βοῶν, λευκοτρίχων μὲν μίαν ταύρων καὶ θηλειῶν, ὧν τὸ πλῆθος ὁμοῦ συνάγει μυριάδας διπλᾶς ιδʹ καὶ ἁπλᾶς φπβʹ καὶ μονάδας ͵ ζτξʹ, κυανοχρόων δ’ ἄλλην ὁμοῦ ταύρων καὶ θηλειῶν, ὧν τὸ πλῆθός ἐστι μυριάδων διπλῶν ἐννέα καὶ ἁπλῶν ͵ ηωλʹ καὶ μονάδων ωʹ, μιξοτρίχων δ’ ἄλλην ταύρων καὶ θηλειῶν, ὧν τὸ πλῆθός ἐστι μυριάδων διπλῶν ηʹ καὶ ἁπλῶν ͵ ⸕ ϡϙαʹ καὶ μονάδων υʹ· τῆς δὲ λοιπῆς ἀγέλης ξανθοχρόων συνάγει τὸ πλῆθος διπλᾶς μυριάδας ζʹ καὶ ἁπλᾶς ͵ ϛψηʹ, μονάδας δὲ ͵ η· ὥστε συνάγεσθαι ὁμοῦ τὸ πλῆθος τῶν δ’ ἀγελῶν μυριάδας διπλᾶς μʹ καὶ ἁπλᾶς ͵ γριβʹ καὶ μονάδας ͵ ϛφξʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.172",
+      "text": "Καὶ ἡ μὲν ἀγέλη τῶν λευκοτρίχων ταύρων ἔχει μυριάδας διπλᾶς ηʹ καὶ ἁπλᾶς ͵ βϡλαʹ καὶ μονάδας ͵ ηφξʹ, θηλειῶν δὲ μυριάδας διπλᾶς εʹ καὶ ἁπλᾶς ͵ ζχνʹ καὶ μονάδας ͵ ηωʹ, ἡ δὲ ἀγέλη τῶν κυανοχρόων ταύρων ἔχει μὲν μυριάδας διπλᾶς εʹ καὶ ἁπλᾶς ͵ θχπδʹ καὶ μονάδας ͵ αρκʹ, θηλειῶν δὲ μυριάδας διπλᾶς γʹ καὶ ἁπλᾶς ͵ θρμεʹ καὶ μονάδας ͵ θχπʹ, ἡ δ’ ἀγέλη τῶν ποικιλοτρίχων ταύρων ἔχει μὲν μυριάδας διπλᾶς εʹ καὶ ἁπλᾶς ͵ ηωξδʹ καὶ μονάδας ͵ δωʹ, θηλειῶν δὲ μυριάδας διπλᾶς βʹ καὶ ἁπλᾶς ͵ ηρκϛʹ καὶ μονάδας ͵ εχʹ, ἡ δ’ ἀγέλη τῶν ξανθοχρωμάτων ταύρων ἔχει μὲν μυριάδας διπλᾶς γʹ καὶ ἁπλᾶς ͵ γρϙεʹ καὶ μονάδας ϡξʹ, θηλειῶν δὲ μυριάδας διπλᾶς δʹ καὶ ἁπλᾶς ͵ γφιγʹ καὶ μονάδας ͵ ζμʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.173",
+      "text": "Καί ἐστι τὸ πλῆθος τῶν λευκοτρίχων ταύρων ἴσον τῷ ἡμίσει καὶ τρίτῳ μέρει τοῦ πλήθους τῶν κυανοχρόων ταύρων καὶ ἔτι ὅλῃ τῇ τῶν ξανθοχρωμάτων ἀγέλῃ, τὸ δὲ πλῆθος τῶν κυανοχρωμάτων ἴσον τῷ τετάρτῳ καὶ πέμπτῳ μέρει τῶν ποικιλοτρίχων ταύρων καὶ ὅλῳ τῷ πλήθει τῶν ξανθοχρωμάτων, τὸ δὲ πλῆθος τῶν ποικιλοτρίχων ταύρων ἴσον τῷ ἕκτῳ καὶ ἑβδόμῳ μέρει τῶν λευκοτρίχων ταύρων καὶ ἔτι τῷ πλήθει ὅλῳ τῶν ξανθοχρωμάτων ταύρων, καὶ πάλιν τὸ πλῆθος τῶν λευκῶν θηλειῶν ἴσον τῷ τρίτῳ καὶ τετάρτῳ μέρει ὅλης τῆς ἀγέλης τῶν κυανοχρόων, τὸ δὲ τῶν κυανοχρόων ἴσον τῷ τετάρτῳ καὶ πέμπτῳ μέρει τῆς ὅλης ἀγέλης τῶν ποικιλοτρίχων, τὸ δὲ τῶν ποικιλοτρίχων ἴσον τῷ πέμπτῳ καὶ ἕκτῳ μέρει τῆς ὅλης τῶν ξανθῶν βοῶν. Πάλιν δὲ τὸ τῶν ξανθῶν θηλειῶν πλῆθος ἦν ἴσον τῷ ἕκτῳ τε καὶ ἑβδόμῳ μέρει τῆς ὅλης ἀγέλης τῶν λευκῶν βοῶν. Καὶ ἡ μὲν ἀγέλη τῶν λευκοτρίχων ταύρων καὶ ἡ τῶν κυανοχρόων ταύρων συντεθεῖσα ποιεῖ τετράγωνον ἀριθμόν, ἡ δ’ ἀγέλη τῶν ξανθοτρίχων ταύρων μετὰ τῆς ἀγέλης τῶν ποικιλοχρόων συντεθεῖσα ποιεῖ τρίγωνον, ὡς ἔχει τὰ τῶν ὑποκειμένων κανόνων καθ’ ἕκαστον χρῶμα.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ixo-ag",
+      "title": {
+        "english": "Book of Assumptions",
+        "ancient_greek": "Βιβλίον Ὑποθέσεων"
+      },
+      "url_slug": "archimedes-of-syracuse-assumptions-ixo-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/assumptions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-assumptions-ixo-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-assumptions-ixo-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-assumptions-ixo-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-assumptions-ixo-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/assumptions.epub"
+      }
+    },
+    {
+      "eul_wid": "ixo-ak",
+      "title": {
+        "english": "Cattle Problem (Short Version)",
+        "ancient_greek": "Βοῦς Πρόβλημα"
+      },
+      "url_slug": "archimedes-of-syracuse-cattle-problem-ak-ixo-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/cattle-problem-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-cattle-problem-ak-ixo-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-cattle-problem-ak-ixo-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-cattle-problem-ak-ixo-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-cattle-problem-ak-ixo-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/cattle-problem-ak.epub"
+      }
+    },
+    {
+      "eul_wid": "ixo-ad",
+      "title": {
+        "english": "Measurement of the Circle",
+        "ancient_greek": "Κύκλου Μέτρησις"
+      },
+      "url_slug": "archimedes-of-syracuse-measurement-circle-ixo-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/measurement-circle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-measurement-circle-ixo-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-measurement-circle-ixo-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-measurement-circle-ixo-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-measurement-circle-ixo-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/measurement-circle.epub"
+      }
+    },
+    {
+      "eul_wid": "ixo-af",
+      "title": {
+        "english": "Method to Eratosthenes",
+        "ancient_greek": "Μέθοδος πρὸς Ἐρατοσθένην"
+      },
+      "url_slug": "archimedes-of-syracuse-method-eratosthenes-ixo-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/method-eratosthenes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-method-eratosthenes-ixo-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-method-eratosthenes-ixo-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-method-eratosthenes-ixo-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-method-eratosthenes-ixo-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/method-eratosthenes.epub"
+      }
+    },
+    {
+      "eul_wid": "ixo-an",
+      "title": {
+        "english": "On Archimedean Polyhedra",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "archimedes-of-syracuse-polyhedra-ixo-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/polyhedra",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-polyhedra-ixo-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-polyhedra-ixo-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-polyhedra-ixo-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-polyhedra-ixo-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/polyhedra.epub"
+      }
+    },
+    {
+      "eul_wid": "ixo-ae",
+      "title": {
+        "english": "On Conoids and Spheroids",
+        "ancient_greek": "Περὶ Κωνοειδῶν καὶ Σφαιροειδῶν"
+      },
+      "url_slug": "archimedes-of-syracuse-conoids-spheroids-ixo-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/conoids-spheroids",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-conoids-spheroids-ixo-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-conoids-spheroids-ixo-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-conoids-spheroids-ixo-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-conoids-spheroids-ixo-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/conoids-spheroids.epub"
+      }
+    },
+    {
+      "eul_wid": "ixo-ah",
+      "title": {
+        "english": "On Floating Bodies",
+        "ancient_greek": "Περὶ Τῶν Ἐπιπλεόντων Σωμάτων"
+      },
+      "url_slug": "archimedes-of-syracuse-floating-bodies-ixo-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/floating-bodies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-floating-bodies-ixo-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-floating-bodies-ixo-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-floating-bodies-ixo-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-floating-bodies-ixo-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/floating-bodies.epub"
+      }
+    },
+    {
+      "eul_wid": "ixo-ai",
+      "title": {
+        "english": "On Spiral Lines",
+        "ancient_greek": "Περὶ Ἑλίκων Γραμμῶν"
+      },
+      "url_slug": "archimedes-of-syracuse-spirals-ixo-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/spirals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-spirals-ixo-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-spirals-ixo-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-spirals-ixo-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-spirals-ixo-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/spirals.epub"
+      }
+    },
+    {
+      "eul_wid": "ixo-aa",
+      "title": {
+        "english": "On the Equilibrium of Planes",
+        "ancient_greek": "Περὶ Ἰσορροπίας Ἐπιπέδων"
+      },
+      "url_slug": "archimedes-of-syracuse-equilibrium-planes-ixo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/equilibrium-planes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-equilibrium-planes-ixo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-equilibrium-planes-ixo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-equilibrium-planes-ixo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-equilibrium-planes-ixo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/equilibrium-planes.epub"
+      }
+    },
+    {
+      "eul_wid": "ixo-ab",
+      "title": {
+        "english": "On the Sphere and Cylinder",
+        "ancient_greek": "Περὶ Σφαίρας καὶ Κυλίνδρου"
+      },
+      "url_slug": "archimedes-of-syracuse-sphere-cylinder-ixo-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/sphere-cylinder",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-sphere-cylinder-ixo-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-sphere-cylinder-ixo-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-sphere-cylinder-ixo-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-sphere-cylinder-ixo-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/sphere-cylinder.epub"
+      }
+    },
+    {
+      "eul_wid": "ixo-ac",
+      "title": {
+        "english": "Quadrature of the Parabola",
+        "ancient_greek": "Παραβολῆς Τετραγωνισμός"
+      },
+      "url_slug": "archimedes-of-syracuse-quadrature-parabola-ixo-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/quadrature-parabola",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-quadrature-parabola-ixo-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-quadrature-parabola-ixo-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-quadrature-parabola-ixo-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-quadrature-parabola-ixo-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/quadrature-parabola.epub"
+      }
+    },
+    {
+      "eul_wid": "ixo-al",
+      "title": {
+        "english": "Sand Reckoner",
+        "ancient_greek": "Ψαμμίτης"
+      },
+      "url_slug": "archimedes-of-syracuse-sand-reckoner-ixo-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/sand-reckoner",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-sand-reckoner-ixo-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-sand-reckoner-ixo-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-sand-reckoner-ixo-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-sand-reckoner-ixo-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/sand-reckoner.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "iaw-ab",
+      "title": {
+        "english": "Catoptrics, Theon Edition?",
+        "ancient_greek": "Κατοπτρικά"
+      },
+      "url_slug": "euclid-of-alexandria-catoptrics-iaw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/euclid-of-alexandria/catoptrics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-catoptrics-iaw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-catoptrics-iaw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-catoptrics-iaw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-catoptrics-iaw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/catoptrics.epub"
+      }
+    },
+    {
+      "eul_wid": "iaw-an",
+      "title": {
+        "english": "Elements",
+        "ancient_greek": "Στοιχεῖα"
+      },
+      "url_slug": "euclid-of-alexandria-elements-an-iaw-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/euclid-of-alexandria/elements-an",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-elements-an-iaw-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-elements-an-iaw-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-elements-an-iaw-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-elements-an-iaw-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-an.epub"
+      }
+    },
+    {
+      "eul_wid": "rqc-aa",
+      "title": {
+        "english": "Fragments on Pontic Histories",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ποντικῶν Ἱστοριῶν"
+      },
+      "url_slug": "diophantus-of-alexandria-pontic-histories-rqc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/diophantus-of-alexandria/pontic-histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-pontic-histories-rqc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-pontic-histories-rqc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-pontic-histories-rqc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-pontic-histories-rqc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria/pontic-histories.epub"
+      }
+    },
+    {
+      "eul_wid": "phs-ak",
+      "title": {
+        "english": "On Inclinations",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "ptolemy-of-alexandria-inclinations-phs-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/inclinations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria-inclinations-phs-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria-inclinations-phs-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria-inclinations-phs-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria-inclinations-phs-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/inclinations.epub"
+      }
+    },
+    {
+      "eul_wid": "vdg-ab",
+      "title": {
+        "english": "On Paradoxical Machines",
+        "ancient_greek": "Περὶ παραδόξων μηχανημάτων"
+      },
+      "url_slug": "anthemius-of-tralles-paradoxical-machines-vdg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/anthemius-of-tralles/paradoxical-machines",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthemius-of-tralles-paradoxical-machines-vdg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthemius-of-tralles-paradoxical-machines-vdg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthemius-of-tralles-paradoxical-machines-vdg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthemius-of-tralles-paradoxical-machines-vdg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthemius-of-tralles/paradoxical-machines.epub"
+      }
+    },
+    {
+      "eul_wid": "sam-aa",
+      "title": {
+        "english": "On the Section of a Cylinder",
+        "ancient_greek": "Περὶ Κυλίνδρου Τομῆς"
+      },
+      "url_slug": "serenus-of-antinoopolis-section-cylinder-sam-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/serenus-of-antinoopolis/section-cylinder",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/serenus-of-antinoopolis-section-cylinder-sam-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/serenus-of-antinoopolis-section-cylinder-sam-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/serenus-of-antinoopolis-section-cylinder-sam-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/serenus-of-antinoopolis-section-cylinder-sam-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/serenus-of-antinoopolis/section-cylinder.epub"
+      }
+    },
+    {
+      "eul_wid": "iaw-ae",
+      "title": {
+        "english": "Phenomena, Recension B",
+        "ancient_greek": "Φαινόμενα (Ἀναθεώρησις Β)"
+      },
+      "url_slug": "euclid-of-alexandria-phenomena-b-iaw-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/euclid-of-alexandria/phenomena-b",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-phenomena-b-iaw-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-phenomena-b-iaw-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-phenomena-b-iaw-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-phenomena-b-iaw-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/phenomena-b.epub"
+      }
+    },
+    {
+      "eul_wid": "spw-ad",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "theon-of-alexandria-testimonies-spw-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/theon-of-alexandria/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria-testimonies-spw-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria-testimonies-spw-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria-testimonies-spw-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria-testimonies-spw-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria/testimonies.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/archimedes-of-syracuse/cattle-problem-aj",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-cattle-problem-aj-ixo-aj.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-cattle-problem-aj-ixo-aj.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-cattle-problem-aj-ixo-aj.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-cattle-problem-aj-ixo-aj.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/cattle-problem-aj.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

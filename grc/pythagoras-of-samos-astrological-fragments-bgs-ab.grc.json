@@ -1,0 +1,269 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "bgs-ab",
+  "eul_aid": "bgs",
+  "author_slug": "pythagoras-of-samos",
+  "work_slug": "astrological-fragments",
+  "url_slug": "pythagoras-of-samos-astrological-fragments-bgs-ab",
+  "author": {
+    "english": "Pythagoras of Samos",
+    "ancient_greek": "Πυθαγόρας ὁ Σάμιος"
+  },
+  "title": {
+    "english": "Astrological Fragments",
+    "ancient_greek": "Ἀστρολογικὰ Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Astrological Fragments of Pythagoras on Eulogikon Archive",
+    "meta_title": "Astrological Fragments by Pythagoras in Ancient Greek",
+    "meta_description": "Astrological fragments by Pythagoras. Archaic Greek philosophical verse on celestial matters. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Pythagorean",
+      "href": "/affiliations/pythagorean"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">No work titled Astrological Fragments is authentically attributed to Pythagoras of Samos. The historical Pythagoras wrote nothing, and all knowledge of his teachings comes from later, often fragmentary, reports by other philosophers. Consequently, a collection of astrological verse fragments bearing his name has no basis in the genuine Pythagorean tradition. While the specific content of such a spurious compilation cannot be described, the astronomical themes later developed by his followers and frequently ascribed to him include the mathematical order of the cosmos, the harmony of the spheres, the central fire cosmological model, and the possible connection between the transmigration of souls and celestial cycles. There exists no direct manuscript tradition for works by Pythagoras; his ideas were transmitted indirectly through figures like Plato and Aristotle and through much later biographical accounts. Any fragments circulating under his name are later reconstructions or forgeries. Despite the inauthenticity of such texts, the astronomical concepts developed within the Pythagorean school were profoundly influential, shaping Platonic cosmology and contributing to the foundations of mathematical astronomy. The enduring practice of pseudepigraphically attributing such works to Pythagoras itself testifies to his lasting authority in both esoteric and scientific thought.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 114",
+      "text": "Εἰ μὲν εὑρίσκεις τοὺς ἀστέρας τοὺς ἔχοντας πλείονας δυνάμεις εἰς τὴν ἐρώτησιν καὶ τὴν Σελήνην καὶ τὸν κύριον αὐτοῦ πίπτοντα ἀπὸ τῶν κέντρων, γίνωσκε ὅτι τὸ ζήτημα ἐκεῖνο διὰ φυγήν ἐστιν ἢ ἐξέλευσιν τῶν ἀπὸ κάστρων.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "bgs-aa",
+      "title": {
+        "english": "Astrological Fragments",
+        "ancient_greek": "Ἀστρολογικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "pythagoras-of-samos-astrology-bgs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pythagoras-of-samos/astrology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-astrology-bgs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-astrology-bgs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-astrology-bgs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-astrology-bgs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos/astrology.epub"
+      }
+    },
+    {
+      "eul_wid": "bgs-ae",
+      "title": {
+        "english": "Fragments on Sacred Doctrine",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἱερᾶς Διδασκαλίας"
+      },
+      "url_slug": "pythagoras-of-samos-sacred-doctrine-bgs-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/pythagoras-of-samos/sacred-doctrine",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-sacred-doctrine-bgs-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-sacred-doctrine-bgs-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-sacred-doctrine-bgs-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-sacred-doctrine-bgs-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos/sacred-doctrine.epub"
+      }
+    },
+    {
+      "eul_wid": "bgs-ac",
+      "title": {
+        "english": "Golden Poem",
+        "ancient_greek": "Χρυσοῦν Ποίημα"
+      },
+      "url_slug": "pythagoras-of-samos-golden-poem-bgs-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/pythagoras-of-samos/golden-poem",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-golden-poem-bgs-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-golden-poem-bgs-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-golden-poem-bgs-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-golden-poem-bgs-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos/golden-poem.epub"
+      }
+    },
+    {
+      "eul_wid": "bgs-ad",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "pythagoras-of-samos-testimonies-bgs-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/pythagoras-of-samos/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-testimonies-bgs-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-testimonies-bgs-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-testimonies-bgs-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-testimonies-bgs-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos/testimonies.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "okg-ci",
+      "title": {
+        "english": "Consolation to Apollonius",
+        "ancient_greek": "Πραμυθητικὸς πρὸς Ἀπολλώνιον"
+      },
+      "url_slug": "plutarch-of-chaeronea-consolation-apollonius-okg-ci",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/consolation-apollonius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-consolation-apollonius-okg-ci.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-consolation-apollonius-okg-ci.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-consolation-apollonius-okg-ci.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-consolation-apollonius-okg-ci.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/consolation-apollonius.epub"
+      }
+    },
+    {
+      "eul_wid": "hui-ah",
+      "title": {
+        "english": "Letter to Herodotus",
+        "ancient_greek": "Ἐπιστολὴ πρὸς Ἡρόδοτον"
+      },
+      "url_slug": "epicurus-herodotus-letter-hui-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicurus/herodotus-letter",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-herodotus-letter-hui-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-herodotus-letter-hui-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-herodotus-letter-hui-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-herodotus-letter-hui-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/herodotus-letter.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-aw",
+      "title": {
+        "english": "On Monarchy, Democracy, and Oligarchy",
+        "ancient_greek": "Περὶ μοναρχίας καὶ δημοκρατίας καὶ ὀλιγαρχίας"
+      },
+      "url_slug": "plutarch-of-chaeronea-monarchy-democracy-oligarchy-okg-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/monarchy-democracy-oligarchy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-monarchy-democracy-oligarchy-okg-aw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-monarchy-democracy-oligarchy-okg-aw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-monarchy-democracy-oligarchy-okg-aw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-monarchy-democracy-oligarchy-okg-aw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/monarchy-democracy-oligarchy.epub"
+      }
+    },
+    {
+      "eul_wid": "dra-ab",
+      "title": {
+        "english": "On the Cosmos and Necessity",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "leucippus-the-atomist-cosmos-necessity-dra-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/leucippus-the-atomist/cosmos-necessity",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leucippus-the-atomist-cosmos-necessity-dra-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leucippus-the-atomist-cosmos-necessity-dra-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leucippus-the-atomist-cosmos-necessity-dra-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leucippus-the-atomist-cosmos-necessity-dra-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leucippus-the-atomist/cosmos-necessity.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-by",
+      "title": {
+        "english": "On the Education of Children",
+        "ancient_greek": "Περὶ παίδων ἀγωγῆς"
+      },
+      "url_slug": "plutarch-of-chaeronea-education-children-okg-by",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/education-children",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-education-children-okg-by.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-education-children-okg-by.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-education-children-okg-by.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-education-children-okg-by.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/education-children.epub"
+      }
+    },
+    {
+      "eul_wid": "udw-ae",
+      "title": {
+        "english": "On the Mysteries",
+        "ancient_greek": "Περὶ τῶν Μυστηρίων"
+      },
+      "url_slug": "iamblichus-of-chalcis-mysteries-udw-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/iamblichus-of-chalcis/mysteries",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-mysteries-udw-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-mysteries-udw-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-mysteries-udw-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-mysteries-udw-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis/mysteries.epub"
+      }
+    },
+    {
+      "eul_wid": "sys-ad",
+      "title": {
+        "english": "Praise of Baldness",
+        "ancient_greek": "Ἐγκώμιον τῆς Φαλάκρας"
+      },
+      "url_slug": "synesius-of-cyrene-praise-baldness-sys-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/synesius-of-cyrene/praise-baldness",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-praise-baldness-sys-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-praise-baldness-sys-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-praise-baldness-sys-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-praise-baldness-sys-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene/praise-baldness.epub"
+      }
+    },
+    {
+      "eul_wid": "coo-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "nessos-of-chios-testimonies-coo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/nessos-of-chios/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios-testimonies-coo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios-testimonies-coo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios-testimonies-coo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios-testimonies-coo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios/testimonies.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/pythagoras-of-samos/astrological-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-astrological-fragments-bgs-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-astrological-fragments-bgs-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-astrological-fragments-bgs-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-astrological-fragments-bgs-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos/astrological-fragments.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

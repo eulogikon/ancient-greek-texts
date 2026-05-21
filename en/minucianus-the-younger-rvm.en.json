@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "rvm",
+  "auth_slug": "minucianus-the-younger",
+  "name": {
+    "english": "Minucianus the Younger Rhetorician",
+    "ancient_greek": "Μινουκιανὸς ὁ Νεώτερος"
+  },
+  "seo_h1": "Minucianus the Younger Rhetorician on Arguments",
+  "seo": {
+    "browser_title": "Minucianus Younger Rhetorician on Eulogikon Greek Archive",
+    "meta_title": "Classical Minucianus the Younger Ancient Greek Orations",
+    "meta_description": "Minucianus the Younger, Roman era Atticizing rhetorician. Surviving works include orations. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Minucianus the Younger was a Greek rhetorician active during the Roman Imperial period, most likely in the 2nd or 3rd century CE. He is distinguished from an earlier, more prominent rhetorician of the same name, Minucianus the Elder, who was a teacher of Herodes Atticus.</p>\n<p class=\"research-text\">The primary evidence for both figures comes from later Byzantine sources, particularly the 10th-century encyclopedia, the Suda. His specific biography, including birthplace and professional milieu, remains unrecorded. His known work is the lost <strong>Art of Rhetoric</strong>, a rhetorical handbook mentioned in Byzantine commentaries. Its attribution is sometimes conflated with that of the elder Minucianus.</p>\n<p class=\"research-text\">His significance lies in his role as a later representative of the Greco-Roman rhetorical tradition. The distinction between the two rhetoricians named Minucianus is important for clarifying the history of rhetorical doctrine and text attribution. His recorded existence underscores the continued production of technical rhetorical literature in Greek during the high Roman Empire.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "rvm-aa",
+      "title": {
+        "english": "On Arguments",
+        "ancient_greek": "Περὶ ἐπιχειρημάτων"
+      },
+      "url_slug": "minucianus-the-younger-arguments-rvm-aa",
+      "passages": 12,
+      "links": {
+        "html": "https://eulogikon.org/grc/minucianus-the-younger/arguments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/minucianus-the-younger-arguments-rvm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/minucianus-the-younger-arguments-rvm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/minucianus-the-younger-arguments-rvm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/minucianus-the-younger-arguments-rvm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/minucianus-the-younger/arguments.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/minucianus-the-younger",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/minucianus-the-younger-rvm.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/minucianus-the-younger-rvm.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/minucianus-the-younger-rvm.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/minucianus-the-younger-rvm.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

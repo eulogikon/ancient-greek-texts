@@ -1,0 +1,795 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "dum-ac",
+  "eul_aid": "dum",
+  "author_slug": "eupolis-of-athens",
+  "work_slug": "fragments-society",
+  "url_slug": "eupolis-of-athens-fragments-society-dum-ac",
+  "author": {
+    "english": "Eupolis Atheniensis",
+    "ancient_greek": "Εὔπολις ὁ Ἀθηναῖος"
+  },
+  "title": {
+    "english": "Fragments on Athenian Society",
+    "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἀθηναίων Κοινωνίας"
+  },
+  "seo": {
+    "browser_title": "Fragments of Eupolis on Athenian Society on Eulogikon",
+    "meta_title": "Ancient Fragments on Athenian Society by Eupolis in Greek",
+    "meta_description": "Surviving fragments from Eupolis's comedy satirizing Athenian society and politics. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The modern title <strong>Fragments on Athenian Society</strong> refers to the collected remnants of comedies by Eupolis, a major poet of Old Comedy active in late 5th-century BCE Athens alongside Aristophanes and Cratinus. Celebrated in antiquity as one of the genre&#x27;s canonical masters, his work survives only in fragments from lost plays such as <strong>The Flatterers</strong>, <strong>The Demes</strong>, and <strong>The Maricas</strong>. The fragments reveal the core themes of his politically engaged satire, including direct political invective against contemporary figures like the demagogue Hyperbolus, mockery of aristocratic luxury and sophistic educators such as Protagoras, and the exploration of utopian fantasy. His play <strong>The Demes</strong>, for instance, brought past Athenian statesmen back to life to critique the city&#x27;s contemporary politics. His comedies also offered commentary on the Peloponnesian War and Athenian civic life. No complete plays survive; the approximately 500 extant fragments are preserved indirectly through quotations in later authors, grammarians, and lexicographers such as Athenaeus, Plutarch, and Pollux. Eupolis was highly influential, ranked by critics like Horace and Quintilian among the greatest comic poets. His distinctive blend of personal satire with political fantasy influenced Aristophanes, and his fragments provide crucial historical insight into the social and political tensions of Athens during its turbulent wartime period.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "ὡc ἦρξε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "περὶ Μίνῳαν αὐτὸc οὑτοcί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "ὅμοιον ᾄδειν· οὐ γὰρ ἔcτ’ ἄλλωc ἔχον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "ἀνδρογύνων ἄθυρμα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4",
+      "text": "τί δῆτ’ ἄν, εἰ μὴ τὴν ἁμίδα καθεῦδ’ ἔχων;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.1",
+      "text": "αὔληcον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.2",
+      "text": "ταὐτῇ κύκλιον ἀναβολήν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.3",
+      "text": "τινα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.1",
+      "text": "οὐκ ἀνέχομ’ αὐτόν· ἀντιπράττει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.2",
+      "text": "παρὰ μέλοc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.1",
+      "text": "καὶ δῆ〈θ〉ε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.2",
+      "text": "Πείcανδρ̣[ο]ν̣ διε̣‐ cτράφθαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.3",
+      "text": "χθὲc ἀριcτῶντά φα‐ c’, ἐπ〈ε〉ὶ ξέν〈ω〉ν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.4",
+      "text": "τιν’ αὐτοῦ οὐκ ἔφαcκε θρέψειν.[ln_5]Παύcων δὲ προc〈c〉τὰc Θεογένει δειπνοῦντι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.5",
+      "text": "πρὸc τὴν καρδίαν τῶν ὁλκάδων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.6",
+      "text": "τιν’ αὐτοῦ κ]λ̣έψαc ἅπαξ διέcτρεφεν· α]ὐτὸc δ’ ἔκειθ’ ὁ Θεογένηc[ln_10]τ]ὴ̣ν νύχθ’ ὅλην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.7",
+      "text": "πεπορδώc· 〈δια〉c̣τρέφειν οὖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.8",
+      "text": "πρῶτα μὲν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.9",
+      "text": "χρὴ Καλλίαν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.10",
+      "text": "τοὺc ἐν μακροῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.11",
+      "text": "τειχοῖν δ’ ἅμ’, ἀ‐ ρι]cτ〈ητ〉ικώτεροι γάρ εἰcιν ἡμῶν·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.1",
+      "text": "Νικήρατόν τ’ Ἀχαρνέα[ln_15]]c̣ι̣ν̣ διδόντα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.2",
+      "text": "χοίνικαc ]ε̣ον ἑκάcτωι ]νη τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.3",
+      "text": "χρημάτων οὐδ’ ἂ]ν̣ τριχὸc πριαίμην ]ν[ln_20]]π̣ο̣c̣.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.1",
+      "text": "·ω̣c̣ φ̣η̣c̣ π̣α̣ν̣ ..ει ...ε]ι κἄξιοι δημηγορεῖν, χθὲc δὲ καὶ πρῴην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.2",
+      "text": "παρ’ ἡμῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.3",
+      "text": "φρατέρων επ̣ι̣ι̣[ κοὐδ’ ἂν ἠττίκιζεν, εἰ μὴ τοὺc φίλουc ηἰc̣χύν[ετο, τῶν ἀπραγμόνων γε πόρνων κοὐχὶ τῶν c̣ε̣μ̣νῶν [τιc ὤν,[ln_5]ἀλλ’ ἔδει νεύcαντα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.4",
+      "text": "χωρεῖν εἰc τὸ κινητή̣ρ̣[ιον, τῆc ἑταιρ〈ε〉ίαc δὲ τούτων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.5",
+      "text": "τοὺc φίλουc ἐcκ[ ταῖc cτρατηγίαιc δ’ ὑφέρπει καὶ τρυγωιδ[ εἰc δὲ Μαντίνε〈ι〉αν ἡμᾶc οὗτοc οὐ με̣μ̣[ τοῦ θεοῦ βροντῶντοc ὑμῖν οὐδ’ ἐῶν[τοc[ln_10]εἶπε δήc〈ειν〉 τοὺc cτρατηγοὺc πρὸc βίαν [ἐν τῷ ξύλῳ· ὅcτιc οὖν ἄρχειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.6",
+      "text": "τοιούτουc ἄνδραc[ μήτε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.7",
+      "text": "πρόβατ’ αὐτῷ τεκνοῖτο, μ〈ή〉τε 〈γ〉ῆ κ̣[αρποὺc φέροι. ὦ γῆ πατρῴα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.8",
+      "text": "χαῖρε· cὲ γὰρ ἀcπ̣[άζομαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.9",
+      "text": "παcῶν πόλεων ἐκπαγλ[οτάτη...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8",
+      "text": "[ln_15][spk_—]‵—′τὸ δὲ πρᾶγμα τί ἐcτι; [... χαίρειν δέ φ[ημι ... παντα̣π̣..[ πρ̣α̣[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.1",
+      "text": "θέρμαινέ θ’ ἡμῖν καὶ θύη] π̣έττε̣ι̣ν̣ τι[νὰ κέλευ’, ἵνα cπλάγχνοιcι] cυ̣γγενώμ[ε]θ̣α̣. εἶἑν· κελεύcω] τ̣αῦτα καὶ πεπράξεται ].cεcθε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.2",
+      "text": "τοὺc Δήμουc ὅcῳ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.1",
+      "text": "[ln_5][spk_—]]ο̣ι νῦν διακείμενοι ]κ· ἤρχετον cὺ καὶ Σόλων ἥβηc ἐκείνηc ν]οῦ τ’ ἐκείνου καὶ φρενῶ ]c.[?]ηδ[..]μάτων ]οι̣[..] — cυχνὴ[ln_10]εἴ]χεται ]τον ἢ π]ρόcθεν ]μ̣ὴ̣ προδῷc τὴ]ν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.2",
+      "text": "προθυμίαν[ln_15]Μ]υ̣ρωνίδην ]ο̣ὓc ἀνήγαγεν ] ἀcπάcαcθαι κ]α̣[ραδ]οκῶ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.1",
+      "text": "[α]ὐ̣τὸc γὰρ ωc.[ ἄνδρεc ωνη̣[ ν̣τεc ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.2",
+      "text": "τοίαιcιν ἡ‐ δοναῖcι κείμεθα.[ln_5]ἐπ]ε̣ὶ̣ δ’ ὁρ̣ῶ τοὺc ἄνδραc ἤδη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.3",
+      "text": "τυχ̣η̣[ καθ]ημένουc, οὕc φαcιν ἥκειν π̣αρ̣[ [para]].εα μὲν δὴ τῶν φίλων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.4",
+      "text": "προcτη[ [para]]ο̣c ὀρθὸc ἑcτηκ̣ὼ̣[c πάρε]cτ’ αὐτ̣ῶ̣ν .[ ὁ Μυ]ρ̣ωνίδηc, ἐρώμεθ’ [α]ὐ̣τὸ[ν[ln_10]εἰπέ μοι ὦ[ μόλι̣c̣ ε[ πρὸc πολλ̣ῶ̣ν̣[ φρά[c]ον [ ὅ]δ’ αὐτόc εἰμ’ ἐκε̣ῖ̣νοc ὃν c̣[[ln_15]ὁ̣ τὰc Ἀθήναc πόλλ’ ἔτη [... .αcτ[..]..δρουc ἄνδρ[αc ... η καὶ cαφῶc οι.[... ην̣α̣νεθ̣ [.]ηγγ.[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11.1",
+      "text": "[spk_〈:〉]]ν̣ [— —]ντε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11.2",
+      "text": "προcμ̣...[ ] νῦν αὐτίχ̣’ ἁγνό̣c εἰμ’ ὅτῳ δί]καιοc εἰμ’ ἀνήρ 〈:〉 λέγ’ ὅ τι λέγειc. ]οc ποτ’ εἰc ἀγο[ρὰ]ν κυκεῶ πιών,[ln_5]κρ]ί̣μνων τὴ[ν] ὑπήνην̣ ἀνάπλεωc ]..ων· τοῦτ’ ἐννοοῦμαί πωc ἐγώ. [..]θ̣ὼν δὲ ταχέωc οἴκαδ’ εὐθὺc τοῦ ξένου [.]ε̣δραcαc, ὦ πανοῦργε καὶ κυβευτὰ cύ; [...]ε̣ν κελεύει̣ν τὸν ξένον μοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11.3",
+      "text": "χρυcίου[ln_10]]αι cτατ[ῆ]ραc ἑκατόν· ἦν γὰρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11.4",
+      "text": "πλούcιοc. ]ον ἐκ[έ]λευcέ μ’ εἰπεῖν, ὅτι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11.5",
+      "text": "πιὼν ]κᾆτ’ ἔλαβον τὸ χρυcίον ]ε̣ίτω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11.6",
+      "text": "τιc ὅ τι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11.7",
+      "text": "ποτὲ βούλεται ]τ̣ῆc δικαιοcύνηc ὅcη̣.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11.1",
+      "text": "[ln_15]]ητ̣ηνουτειτω διαcτολὰ[c] ]ωνπραξεν οὑπιδαύριοc ]c̣ φρενῶν αποκλειc ἐκποδὼν ]ραν κατέλυcαc [ἡτ]τ̣ηθεὶc πολύ. ]αξάμην δὲ χρήματ’ οὐ λέγω.[ln_20]]θανόντων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11.2",
+      "text": "ταύταc̣ οὐ χάριτοc ἄξια ]...ν εἰ cαφῶc τιc ἀποθάνοι ]υ̣οπου[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.1",
+      "text": "]c̣ι̣[.]τ̣. ν̣τ̣ωχει.[ ]μεδ’ ἢ ταῦτ’ ἂν [ἔ]πορε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.2",
+      "text": "χρήμα[τα. [τί] τοὺc θανόνταc ο̣[ὐ]κ’ ἐᾶιc τεθνηκέν[αι; [μ]αρτύρομαί c’· ἔ̣τι δὲ̣ .. ἀγωνι[ο]υμ[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.1",
+      "text": "[ln_5][spk_—][κα]λ̣έcαc με cυνδεῖc κἀδι̣[κε]ῖ̣c̣. — ἀλλ’ οὐ[κ ἐγὼ ξυνέδηcά c’, ἀλλ’ ὁ ξένοc ὁ τ〈ὸ〉ν κυκεῶ [πιών. δίκα[ι]α̣ δῆτα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.2",
+      "text": "ταῦτα πάcχειν ἦν ἐμέ; — ἐρ̣οῦ βαδίζων ἱερέα τὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.3",
+      "text": "τοῦ Διόc. — ὕβριζε· ταῦτα δ’ οντ’ἔτ’ ὀφλήcειc ἐμοί.[ln_10]ἦ̣] γ̣ὰρ̣ c̣ὺ 〈περὶ〉 τοὐφλεῖν λέγειc οὕτωc ἔ[χων; καὶ ναὶ μὰ Δία κλάοντα καθεcω c.[.]η̣νω̣c̣. — καὶ τοῦτό μου τὸ χρέοc καταψευ[ [.]..τ̣ε̣τ’ αὐτὸν καὶ παραδοτο[ ]α̣ρ̣εcτιν τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.4",
+      "text": "τοιούτων α[[ln_15]ἐ̣μ̣[..]όμ̣ην δ’ ἂν καὶ διοπ̣...ον χ̣α[ τὸν̣ [ἱε]ρόcυλον ὅc ποτ’ η...νενδε[ τοῦ τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.5",
+      "text": "πανούργων ..ι̣ν τῶν νεωτ[έρων τ̣ὸ̣ν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.6",
+      "text": "Σωκράτη... ὁπόταν εὖ τὸ cῶμ’ ἔχ[ῃ. ἐγὼ δὲ πάcῃ προcαγορεύω τῇ πόλ[ει[ln_20]εἶναι δικ̣αίουc, ὡc ὃc ἂν δίκαιοc ἦι ]....τ̣ο̣ν..[..]....",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 13",
+      "text": "cοφὸc γὰρ ἀνήρ, τῆc δὲ χειρὸc οὐ κρατῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14",
+      "text": "ζειαί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15",
+      "text": "ὤφειλ’ Ὑάκινθοc ἀποθανεῖν ἀμυγδαλῇ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16",
+      "text": "ἀναγχίππουc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17",
+      "text": "τίc ἐνεβρόντηcέ μοι;[ln_1]. . . . . . . . . . ὦ μοχθηρέ, τίc ἐπάταξέ cε;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18",
+      "text": "ᾠδεῖον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 19",
+      "text": "εἴ τιc ἀποτέτιλται αὐτῶν ὁ πέμπτοc ὥcπερ εἰc ζήτρειον ἐμπεcών ⏓.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 20",
+      "text": "ὅcον γένοιτ’ ἂν αὐτῇ βελτίω τὰ πράγματα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 21",
+      "text": "ἄγαμαι κεραμέωc αἴθωνοc ἐcτεφανωμένου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 22.1",
+      "text": "ἱμάνταc ἥξω δεῦρο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 22.2",
+      "text": "πυκτικοὺc ἔχων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 23.1",
+      "text": "κἀν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 23.2",
+      "text": "ποίᾳ πόλει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 23.3",
+      "text": "τοcοῦτοc 〈ὢν〉 τὸ μέγεθοc ἰχθὺc τρώγεται;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 24",
+      "text": "ἁμαρτωλῶc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 25",
+      "text": "ἄνθρωποc ἐξ ὁδοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 26",
+      "text": "οὐκ ἐc κόρακαc ἀνθρωπάριον ἀποφθερεῖ;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 27",
+      "text": "ἀνόητά γ’, 〈εἰ τοῦτ’〉 ἦλθεc ἐπιτάξων ἐμοί.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "dum-ae",
+      "title": {
+        "english": "Athenian Life Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "eupolis-of-athens-life-fragments-dum-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/eupolis-of-athens/life-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens-life-fragments-dum-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens-life-fragments-dum-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens-life-fragments-dum-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens-life-fragments-dum-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/life-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "dum-aa",
+      "title": {
+        "english": "Comic Fragments on Rural Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Ἀγροικοῦ"
+      },
+      "url_slug": "eupolis-of-athens-comic-rural-life-dum-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/eupolis-of-athens/comic-rural-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens-comic-rural-life-dum-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens-comic-rural-life-dum-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens-comic-rural-life-dum-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens-comic-rural-life-dum-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/comic-rural-life.epub"
+      }
+    },
+    {
+      "eul_wid": "dum-ad",
+      "title": {
+        "english": "Fragments on Athenian Politicians",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ἀθηναίων Πολιτικῶν"
+      },
+      "url_slug": "eupolis-of-athens-politicians-dum-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/eupolis-of-athens/politicians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens-politicians-dum-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens-politicians-dum-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens-politicians-dum-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens-politicians-dum-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/politicians.epub"
+      }
+    },
+    {
+      "eul_wid": "dum-ab",
+      "title": {
+        "english": "Pastoral and Satirical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "eupolis-of-athens-pastoral-satirical-dum-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/eupolis-of-athens/pastoral-satirical",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens-pastoral-satirical-dum-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens-pastoral-satirical-dum-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens-pastoral-satirical-dum-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens-pastoral-satirical-dum-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/pastoral-satirical.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "cxk-ab",
+      "title": {
+        "english": "Comic Feast of Crathis",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "metagenes-the-comic-poet-comic-feast-of-crathis-cxk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/metagenes-the-comic-poet/comic-feast-of-crathis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metagenes-the-comic-poet-comic-feast-of-crathis-cxk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metagenes-the-comic-poet-comic-feast-of-crathis-cxk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metagenes-the-comic-poet-comic-feast-of-crathis-cxk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metagenes-the-comic-poet-comic-feast-of-crathis-cxk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metagenes-the-comic-poet/comic-feast-of-crathis.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-am",
+      "title": {
+        "english": "Dubious Theophorumenae Fragment",
+        "ancient_greek": "Ἀμφίβολον Ἀπόσπασμα Θεοφορουμένης"
+      },
+      "url_slug": "menander-of-athens-theophorumenae-hps-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/theophorumenae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-theophorumenae-hps-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-theophorumenae-hps-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-theophorumenae-hps-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-theophorumenae-hps-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae.epub"
+      }
+    },
+    {
+      "eul_wid": "eco-ad",
+      "title": {
+        "english": "Fragments on Chios and Cos",
+        "ancient_greek": "Ἀποσπάσματα περὶ Χίου καὶ Κῶ"
+      },
+      "url_slug": "strattis-the-comic-poet-chios-cos-eco-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/strattis-the-comic-poet/chios-cos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet-chios-cos-eco-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet-chios-cos-eco-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet-chios-cos-eco-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet-chios-cos-eco-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet/chios-cos.epub"
+      }
+    },
+    {
+      "eul_wid": "gta-ab",
+      "title": {
+        "english": "Fragments on Feasting and Folly",
+        "ancient_greek": "Ἀποσπάσματα περὶ Εὐωχίας καὶ Μωρίας"
+      },
+      "url_slug": "axionicus-the-comic-poet-feasting-folly-gta-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/axionicus-the-comic-poet/feasting-folly",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/axionicus-the-comic-poet-feasting-folly-gta-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/axionicus-the-comic-poet-feasting-folly-gta-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/axionicus-the-comic-poet-feasting-folly-gta-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/axionicus-the-comic-poet-feasting-folly-gta-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/axionicus-the-comic-poet/feasting-folly.epub"
+      }
+    },
+    {
+      "eul_wid": "dts-aa",
+      "title": {
+        "english": "Fragments on Fish and Seafood",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἰχθύων καὶ Θαλασσίων"
+      },
+      "url_slug": "aristonymus-the-comic-poet-fish-seafood-dts-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristonymus-the-comic-poet/fish-seafood",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonymus-the-comic-poet-fish-seafood-dts-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonymus-the-comic-poet-fish-seafood-dts-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonymus-the-comic-poet-fish-seafood-dts-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonymus-the-comic-poet-fish-seafood-dts-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonymus-the-comic-poet/fish-seafood.epub"
+      }
+    },
+    {
+      "eul_wid": "iie-aa",
+      "title": {
+        "english": "Fragments on Life and Fortune",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου καὶ Τύχης"
+      },
+      "url_slug": "apollodorus-of-carystus-i-life-fortune-iie-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollodorus-of-carystus-i/life-fortune",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i-life-fortune-iie-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i-life-fortune-iie-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i-life-fortune-iie-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i-life-fortune-iie-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/life-fortune.epub"
+      }
+    },
+    {
+      "eul_wid": "ksc-ab",
+      "title": {
+        "english": "Symposium and Satirical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "epinicus-the-comic-poet-symposium-satirical-ksc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/epinicus-the-comic-poet/symposium-satirical",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epinicus-the-comic-poet-symposium-satirical-ksc-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epinicus-the-comic-poet-symposium-satirical-ksc-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epinicus-the-comic-poet-symposium-satirical-ksc-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epinicus-the-comic-poet-symposium-satirical-ksc-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epinicus-the-comic-poet/symposium-satirical.epub"
+      }
+    },
+    {
+      "eul_wid": "ivq-aa",
+      "title": {
+        "english": "Sympotic Fragments of Alexis",
+        "ancient_greek": "Ἀποσπάσματα Συμποτικὰ Ἀλεξίδου"
+      },
+      "url_slug": "alexis-the-comic-poet-sympotic-fragments-aa-ivq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexis-the-comic-poet/sympotic-fragments-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-the-comic-poet-sympotic-fragments-aa-ivq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-the-comic-poet-sympotic-fragments-aa-ivq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-the-comic-poet-sympotic-fragments-aa-ivq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-the-comic-poet-sympotic-fragments-aa-ivq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-the-comic-poet/sympotic-fragments-aa.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/eupolis-of-athens/fragments-society",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens-fragments-society-dum-ac.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens-fragments-society-dum-ac.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens-fragments-society-dum-ac.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens-fragments-society-dum-ac.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/fragments-society.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

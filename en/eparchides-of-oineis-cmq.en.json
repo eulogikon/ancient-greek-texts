@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "cmq",
+  "auth_slug": "eparchides-of-oineis",
+  "name": {
+    "english": "Eparchides of Oineis",
+    "ancient_greek": "Ἐπαρχίδης ὁ Οἰνηΐτης"
+  },
+  "seo_h1": "Eparchides of Oineis on Icarus and Wine",
+  "seo": {
+    "browser_title": "Eparchides of Oineis on Eulogikon Greek Texts Archive",
+    "meta_title": "Eparchides of Oineis Ancient Greek Historical Works",
+    "meta_description": "Eparchides of Oineis, a 4th century BCE Attic historian. His historical works survive as fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Eparchides of Oineis was a 4th-century BCE Athenian author, known only from a citation in the lexicographer Harpocration. His name identifies him as coming from the deme of Oineis, part of the Athenian tribe Oineis in northern Attica. No further biographical details survive.</p>\n<p class=\"research-text\">His sole attested work is <strong>On the Demes of Attica</strong>, a lost prose treatise cited by Harpocration for information on Athenian civic subdivisions.</p>\n<p class=\"research-text\">Eparchides was a minor Atthidographer, a chronicler of Attic local history and institutions. His work contributed specific details on Athenian deme organization, serving as a reference for later antiquarians, though its impact was far more limited than that of major figures in the tradition.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "cmq-aa",
+      "title": {
+        "english": "Fragments on Icarus and Wine",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἰκάρου καὶ Οἴνου"
+      },
+      "url_slug": "eparchides-of-oineis-icarus-wine-cmq-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/eparchides-of-oineis/icarus-wine",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eparchides-of-oineis-icarus-wine-cmq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eparchides-of-oineis-icarus-wine-cmq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eparchides-of-oineis-icarus-wine-cmq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eparchides-of-oineis-icarus-wine-cmq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eparchides-of-oineis/icarus-wine.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/eparchides-of-oineis",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eparchides-of-oineis-cmq.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eparchides-of-oineis-cmq.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eparchides-of-oineis-cmq.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eparchides-of-oineis-cmq.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

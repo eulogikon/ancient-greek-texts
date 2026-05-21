@@ -1,0 +1,392 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "dxy-ac",
+  "eul_aid": "dxy",
+  "author_slug": "pherecrates-the-comic-poet",
+  "work_slug": "human-affairs",
+  "url_slug": "pherecrates-the-comic-poet-human-affairs-dxy-ac",
+  "author": {
+    "english": "Pherecrates the Comic Poet",
+    "ancient_greek": "Φερεκράτης ὁ Κωμικός"
+  },
+  "title": {
+    "english": "Fragments on Human Affairs",
+    "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ἀνθρωπίνων Πραγμάτων"
+  },
+  "seo": {
+    "browser_title": "Fragments of Pherecrates by Pherecrates on Eulogikon",
+    "meta_title": "Fragments of Pherecrates the Athenian in Ancient Greek",
+    "meta_description": "Surviving comic fragments from the lost works of Pherecrates, a contemporary of Aristophanes. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Human Affairs</strong> is a modern compilation of excerpts from the lost comedies of Pherecrates, an Athenian playwright of the late 5th century BCE. A contemporary of Aristophanes, Pherecrates was a practitioner of Old Comedy, a verse genre in Attic Greek characterized by fantastical plots, political satire, and robust humor directed at the Athenian public. The collection comprises 24 passages, which are not derived from a single play but are fragments preserved because later ancient authors quoted them for their notable language or content. These remnants reflect the thematic concerns of Pherecrates&#x27; era, including satire of new intellectual trends and cultural shifts. One celebrated fragment, from his play <strong>Cheiron</strong>, features a personified &quot;Music&quot; lamenting the innovations of modern musicians, exemplifying his critique of contemporary change. Other fragments mock sophists such as Hippias or allude to utopian plots that parody societal norms. No complete play by Pherecrates survives; his oeuvre is known entirely through these indirect quotations, primarily preserved in the works of later authors like Athenaeus, who compiled them centuries afterward in his expansive work on dining and culture. Modern scholars have systematically collected and numbered these fragments in authoritative editions such as <strong>Poetae Comici Graeci</strong>, which offer valuable insights into the language and social preoccupations of Classical Athens.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "ἀμφίμαλλον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "ὦ Ζεῦ, καλῶc γ’ ἀνταποδίδωc μοι τὴν χάριν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "ἀνταπόδοc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4",
+      "text": "ἁνὴρ ἀναρριπίζεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5",
+      "text": "ῥαίνειν, ἀνακορεῖν ἀγοράc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6",
+      "text": "ἐβάδιζον δ’ ἀπὸ δείπνου· κνέφαc δ’ ἦν ἄρτι κοὐκ ἀωρία.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7",
+      "text": "ἀμφέξομαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8",
+      "text": "ἀνελεύθερον cῶμα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9",
+      "text": "τί δ’ αὐτὸ λίαν ὧδε λιπαρεῖc θεόν;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10",
+      "text": "ὥcτ’ ἀνέρρωγε〈ν〉 τὸ φώνημ’ εὐθὺc ὀξὺ καὶ μέγα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11",
+      "text": "ζῆθι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.1",
+      "text": "ὦ Χάριτεc, ἀφροδίcιόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.2",
+      "text": "τιν’ ὑμέναιον ὑμνεῖτε γαμικόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.3",
+      "text": "τε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 13",
+      "text": "οὐδ’ εἰc Ἑταίραc οὐδ’ Ἀφροδίτου πώποτε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14",
+      "text": "ἀναcτῶ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15",
+      "text": "ἀνάcχωμαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16",
+      "text": "ἀνδράποδον (de serva).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17",
+      "text": "ἀνδροκάπραινα καὶ μεθύcη καὶ φαρμακίc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18",
+      "text": "ἀνέζεcεν αἷμα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 19",
+      "text": "ἀνούcτατοc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 20",
+      "text": "ἀντιβλέπει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 21",
+      "text": "μείξοφρυc μέλαιν’ ἐπιεικῶc κατ’ ἐμέ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 22",
+      "text": "Φερε]κράτουc.[ln_1][ἀνὴρ γὰρ ὅcτιc ἀπ]οθανούcηc δυcφορ[εῖ] [γυναικόc, οὗτοc οὐκ] ἐπίcτατ’ εὐτυχεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "dxy-aa",
+      "title": {
+        "english": "Fragments on Daily Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ"
+      },
+      "url_slug": "pherecrates-the-comic-poet-daily-life-dxy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pherecrates-the-comic-poet/daily-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-daily-life-dxy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-daily-life-dxy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-daily-life-dxy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-daily-life-dxy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet/daily-life.epub"
+      }
+    },
+    {
+      "eul_wid": "dxy-ab",
+      "title": {
+        "english": "Fragments on Gluttony and Slaves",
+        "ancient_greek": "Ἀποσπάσματα περὶ Λαιμαργίας καὶ Δούλων"
+      },
+      "url_slug": "pherecrates-the-comic-poet-gluttony-slaves-dxy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/pherecrates-the-comic-poet/gluttony-slaves",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-gluttony-slaves-dxy-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-gluttony-slaves-dxy-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-gluttony-slaves-dxy-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-gluttony-slaves-dxy-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet/gluttony-slaves.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "hpi-aa",
+      "title": {
+        "english": "Comic Fragments on Dionysus",
+        "ancient_greek": "Ἀποσπάσματα περὶ Διονύσου Κωμικά"
+      },
+      "url_slug": "rhinthon-of-tarentum-dionysus-fragments-hpi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/rhinthon-of-tarentum/dionysus-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhinthon-of-tarentum-dionysus-fragments-hpi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhinthon-of-tarentum-dionysus-fragments-hpi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhinthon-of-tarentum-dionysus-fragments-hpi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhinthon-of-tarentum-dionysus-fragments-hpi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhinthon-of-tarentum/dionysus-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "dso-aa",
+      "title": {
+        "english": "Fragments of the Well and the Dog",
+        "ancient_greek": "Ἀποσπάσματα τοῦ Φρέατος καὶ τοῦ Κυνός"
+      },
+      "url_slug": "lysippus-the-comic-poet-well-dog-dso-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysippus-the-comic-poet/well-dog",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysippus-the-comic-poet-well-dog-dso-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysippus-the-comic-poet-well-dog-dso-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysippus-the-comic-poet-well-dog-dso-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysippus-the-comic-poet-well-dog-dso-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysippus-the-comic-poet/well-dog.epub"
+      }
+    },
+    {
+      "eul_wid": "lrc-ab",
+      "title": {
+        "english": "Fragments on Delian Parasites",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δηλίων Παρασίτων"
+      },
+      "url_slug": "crito-of-alopece-delian-parasites-lrc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/crito-of-alopece/delian-parasites",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-alopece-delian-parasites-lrc-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-alopece-delian-parasites-lrc-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-alopece-delian-parasites-lrc-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-alopece-delian-parasites-lrc-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-alopece/delian-parasites.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-bg",
+      "title": {
+        "english": "Fragments on Poverty and Social Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Πενίας καὶ Κοινωνικοῦ Βίου"
+      },
+      "url_slug": "menander-of-athens-poverty-social-life-hps-bg",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/poverty-social-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-poverty-social-life-hps-bg.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-poverty-social-life-hps-bg.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-poverty-social-life-hps-bg.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-poverty-social-life-hps-bg.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/poverty-social-life.epub"
+      }
+    },
+    {
+      "eul_wid": "eec-aa",
+      "title": {
+        "english": "Fragments on Xanthias and Luxury",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ξανθίου καὶ Τρυφῆς"
+      },
+      "url_slug": "cephisodorus-the-comic-poet-xanthias-luxury-eec-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cephisodorus-the-comic-poet/xanthias-luxury",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet-xanthias-luxury-eec-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet-xanthias-luxury-eec-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet-xanthias-luxury-eec-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet-xanthias-luxury-eec-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet/xanthias-luxury.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-an",
+      "title": {
+        "english": "New Fragments of Misumenus",
+        "ancient_greek": "Νέα Ἀποσπάσματα Μισουμένου"
+      },
+      "url_slug": "menander-of-athens-new-misumenus-hps-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/new-misumenus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-new-misumenus-hps-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-new-misumenus-hps-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-new-misumenus-hps-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-new-misumenus-hps-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/new-misumenus.epub"
+      }
+    },
+    {
+      "eul_wid": "gli-aa",
+      "title": {
+        "english": "On Parasites and Flatterers",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "nicolaus-the-comic-poet-parasites-flatterers-gli-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicolaus-the-comic-poet/parasites-flatterers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-the-comic-poet-parasites-flatterers-gli-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-the-comic-poet-parasites-flatterers-gli-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-the-comic-poet-parasites-flatterers-gli-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-the-comic-poet-parasites-flatterers-gli-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-the-comic-poet/parasites-flatterers.epub"
+      }
+    },
+    {
+      "eul_wid": "daw-ao",
+      "title": {
+        "english": "Wealth",
+        "ancient_greek": "Πλοῦτος"
+      },
+      "url_slug": "aristophanes-of-athens-wealth-daw-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/wealth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-wealth-daw-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-wealth-daw-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-wealth-daw-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-wealth-daw-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/wealth.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/pherecrates-the-comic-poet/human-affairs",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-human-affairs-dxy-ac.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-human-affairs-dxy-ac.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-human-affairs-dxy-ac.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-human-affairs-dxy-ac.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet/human-affairs.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

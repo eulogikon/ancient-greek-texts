@@ -1,0 +1,330 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ccg-ad",
+  "eul_aid": "ccg",
+  "author_slug": "ion-of-chios",
+  "work_slug": "dionysus-fragments",
+  "url_slug": "ion-of-chios-dionysus-fragments-ccg-ad",
+  "author": {
+    "english": "Ion of Chios",
+    "ancient_greek": "Ἴων ὁ Χῖος"
+  },
+  "title": {
+    "english": "Fragments on Dionysus",
+    "ancient_greek": "Ἀποσπάσματα περὶ Διονύσου"
+  },
+  "seo": {
+    "browser_title": "Fragments on Dionysus by Ion of Chios on Eulogikon",
+    "meta_title": "The Fragments on Dionysus by Ion of Chios in Greek",
+    "meta_description": "Fragments from a lost prose work on Dionysus by Ion of Chios. Insights into early Greek religion. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Dionysus</strong> is a collection of six surviving passages from a lost prose work by the 5th-century BCE Greek poet and thinker Ion of Chios. Written in Ionic Greek, the fragments contain philosophical and theological speculations that identify the god Dionysus with the fundamental ordering principle of the cosmos. The work does not survive as a complete text; these passages are preserved only because they were quoted by much later authors, primarily the 5th-century CE philosopher Proclus in his commentary on Plato. Modern scholars believe the fragments were originally part of a larger, now lost, work possibly titled <strong>Triagmos</strong>.</p>\n<p class=\"research-text\">In one fragment, Ion describes a primordial triad of Chaos, Earth, and Eros. In another, he equates Dionysus directly with the cosmic mind, presenting a view where a single divine principle underlies all reality. Scholars interpret Ion’s writing as an attempt to synthesize traditional Greek mythology with emerging philosophical and Orphic religious ideas, aimed at an educated audience of his time. The fragments are a significant example of early allegorical interpretation, where mythological figures are recast as personifications of abstract cosmic forces.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "26",
+      "text": "θυρσοφόρος μέγα πρεσβεύων Διόνυσος, αὕτη γὰρ πρόφασις παντοδαπῶν λογίων, αἵ τε Πανελλήνων ἀγοραὶ θαλίαι τε ἀνάκτων, ἐξ οὗ βοτρυόεσς’ οἰνὰς ὑπὸ χθονίων πτόρθον ἀνασχομένη θαλερῶι ἐπτύξατο πήχει αἰθέρος· ὀφθαλμῶν δ’ ἐξέθορον πυκινοὶ παῖδες, φωνήεντες ὅταν πέσηι ἄλλος ἐπ’ ἄλλωι, πρὶν δὲ σιωπῶσιν· παυσάμενοι δὲ βοῆς νέκταρ ἀμέλγονται, πόνον ὄλβιον ἀνθρώποισιν, ξυνὸν τοῦ χαίρειν φάρμακον αὐτοφυές. τοῦ θαλίαι φίλα τέκνα φιλοφροσύναι τε χοροί τε τῶν ἀγαθῶν 〈 ......... 〉βασιλεὺς οἶνος ἔδειξε φύσιν. τῶι σὺ πάτερ Διόνυσε, φιλοστεφάνοισιν ἀρέσκων ἀνδράσιν, εὐθύμων συμποσίων πρύτανι, χαῖρε· δίδου δ’ αἰῶνα καλῶν ἐπιήρανε ἔργων πίνειν καὶ παίζειν καὶ τὰ δίκαια φρονεῖν. ⊗",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "27",
+      "text": "χαιρέτω ἡμέτερος βασιλεὺς σωτήρ τε πατήρ τε· ἡμῖν δὲ κρητῆρ’ οἰνοχόοι θέραπες κιρνάντων προχύταισιν ἐν ἀργυρέοις· †ὁ δὲ χρυσὸς οἶνον ἔχων χειρῶν νιζέτω εἰς ἔδαφος.† σπένδοντες δ’ ἁγνῶς Ἡρακλεῖ τ’ Ἀλκμήνηι τε, Προκλεῖ Περσείδαις τ’ ἐκ Διὸς ἀρχόμενοι πίνωμεν, παίζωμεν· ἴτω διὰ νυκτὸς ἀοιδή, ὀρχείσθω τις· ἑκὼν δ’ ἄρχε φιλοφροσύνης. ὅντινα δ’ εὐειδὴς μίμνει θήλεια πάρευνος, κεῖνος τῶν ἄλλων κυδρότερον πίεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "28",
+      "text": "αὐτὰρ ὅ γ’ ἐμμαπέως τὸν ὀρίγανον ἐν χερὶ κεύθει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "29",
+      "text": "τόν ποτε Θησείδης ἔκτισεν Οἰνοπίων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30",
+      "text": "ὣς ὁ μὲν ἠνορέηι τε κεκασμένος ἠδὲ καὶ αἰδοῖ καὶ φθίμενος ψυχῆι τερπνὸν ἔχει βίοτον, εἴπερ Πυθαγόρης ἐτύμως σοφός, ὃς περὶ πάντων ἀνθρώπων γνώμας εἶδε καὶ ἐξέμαθεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "32",
+      "text": "ἑνδεκάχορδε λύρα, δεκαβάμονα τάξιν ἔχουσα †τὰς συμφωνούσας ἁρμονίας τριόδους· πρὶν μέν ς’ ἑπτάτονον ψάλλον διὰ τέσσαρα πάντες Ἕλληνες, σπανίαν μοῦσαν ἀειράμενοι.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ccg-af",
+      "title": {
+        "english": "Foundations of Chios",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "ion-of-chios-foundations-ccg-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/ion-of-chios/foundations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-foundations-ccg-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-foundations-ccg-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-foundations-ccg-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-foundations-ccg-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/foundations.epub"
+      }
+    },
+    {
+      "eul_wid": "ccg-ae",
+      "title": {
+        "english": "Fragments on Dionysus and Eros",
+        "ancient_greek": "Ἀποσπάσματα περὶ Διονύσου καὶ Ἔρωτος"
+      },
+      "url_slug": "ion-of-chios-dionysus-eros-ccg-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/ion-of-chios/dionysus-eros",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-dionysus-eros-ccg-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-dionysus-eros-ccg-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-dionysus-eros-ccg-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-dionysus-eros-ccg-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/dionysus-eros.epub"
+      }
+    },
+    {
+      "eul_wid": "ccg-ac",
+      "title": {
+        "english": "Fragments on Heracles and Omphale",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἡρακλέους καὶ Ὀμφάλης"
+      },
+      "url_slug": "ion-of-chios-heracles-omphale-ccg-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/ion-of-chios/heracles-omphale",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-heracles-omphale-ccg-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-heracles-omphale-ccg-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-heracles-omphale-ccg-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-heracles-omphale-ccg-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/heracles-omphale.epub"
+      }
+    },
+    {
+      "eul_wid": "ccg-ag",
+      "title": {
+        "english": "On the Triadic Nature of Things",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "ion-of-chios-triadic-nature-ccg-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/ion-of-chios/triadic-nature",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-triadic-nature-ccg-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-triadic-nature-ccg-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-triadic-nature-ccg-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-triadic-nature-ccg-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/triadic-nature.epub"
+      }
+    },
+    {
+      "eul_wid": "ccg-aa",
+      "title": {
+        "english": "Testimonies 1",
+        "ancient_greek": "Μαρτυρίαι Α'"
+      },
+      "url_slug": "ion-of-chios-testimonies-ccg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ion-of-chios/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-testimonies-ccg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-testimonies-ccg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-testimonies-ccg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-testimonies-ccg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/testimonies.epub"
+      }
+    },
+    {
+      "eul_wid": "ccg-ab",
+      "title": {
+        "english": "Testimonies 2",
+        "ancient_greek": "Μαρτυρίαι Β'"
+      },
+      "url_slug": "ion-of-chios-testimonies-2-ccg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/ion-of-chios/testimonies-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-testimonies-2-ccg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-testimonies-2-ccg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-testimonies-2-ccg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-testimonies-2-ccg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/testimonies-2.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "sno-ar",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "julian-the-apostate-epigrams-sno-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/julian-the-apostate/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-epigrams-sno-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-epigrams-sno-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-epigrams-sno-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-epigrams-sno-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-at",
+      "title": {
+        "english": "Exhortation to Young Valentinian",
+        "ancient_greek": "Προτρεπτικὸς Οὐαλεντινιανῷ νέῳ"
+      },
+      "url_slug": "themistius-exhortation-valentinian-rye-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/exhortation-valentinian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/exhortation-valentinian.epub"
+      }
+    },
+    {
+      "eul_wid": "pzk-aa",
+      "title": {
+        "english": "Life of Secundus",
+        "ancient_greek": "Βίος Σεκούνδου"
+      },
+      "url_slug": "secundus-the-silent-life-pzk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/secundus-the-silent/life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-life-pzk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-life-pzk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-life-pzk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-life-pzk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent/life.epub"
+      }
+    },
+    {
+      "eul_wid": "lgi-bh",
+      "title": {
+        "english": "On Agriculture",
+        "ancient_greek": "Περὶ γεωργίας"
+      },
+      "url_slug": "philo-of-alexandria-agriculture-lgi-bh",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria/agriculture",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-agriculture-lgi-bh.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-agriculture-lgi-bh.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-agriculture-lgi-bh.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-agriculture-lgi-bh.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/agriculture.epub"
+      }
+    },
+    {
+      "eul_wid": "uqo-ac",
+      "title": {
+        "english": "On Aristotle's Categories, Commentary",
+        "ancient_greek": "Σχόλια εἰς τὰς κατηγορίας Ἀριστοτέλους"
+      },
+      "url_slug": "ammonius-of-alexandria-phil-categories-commentary-uqo-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/ammonius-of-alexandria-phil/categories-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil-categories-commentary-uqo-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil-categories-commentary-uqo-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil-categories-commentary-uqo-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil-categories-commentary-uqo-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil/categories-commentary.epub"
+      }
+    },
+    {
+      "eul_wid": "hfs-ab",
+      "title": {
+        "english": "Sentences",
+        "ancient_greek": "Γνῶμαι"
+      },
+      "url_slug": "chares-of-mytilene-text-hfs-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/chares-of-mytilene/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene-text-hfs-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene-text-hfs-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene-text-hfs-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene-text-hfs-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene/text.epub"
+      }
+    },
+    {
+      "eul_wid": "bcw-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "pherecydes-of-syros-testimonies-bcw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pherecydes-of-syros/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros-testimonies-bcw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros-testimonies-bcw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros-testimonies-bcw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros-testimonies-bcw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros/testimonies.epub"
+      }
+    },
+    {
+      "eul_wid": "bgs-ad",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "pythagoras-of-samos-testimonies-bgs-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/pythagoras-of-samos/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-testimonies-bgs-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-testimonies-bgs-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-testimonies-bgs-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-testimonies-bgs-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos/testimonies.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/ion-of-chios/dionysus-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-dionysus-fragments-ccg-ad.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-dionysus-fragments-ccg-ad.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-dionysus-fragments-ccg-ad.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-dionysus-fragments-ccg-ad.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/dionysus-fragments.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

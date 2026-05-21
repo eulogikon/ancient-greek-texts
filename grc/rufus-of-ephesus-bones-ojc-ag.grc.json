@@ -1,0 +1,575 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ojc-ag",
+  "eul_aid": "ojc",
+  "author_slug": "rufus-of-ephesus",
+  "work_slug": "bones",
+  "url_slug": "rufus-of-ephesus-bones-ojc-ag",
+  "author": {
+    "english": "Rufus of Ephesus",
+    "ancient_greek": "Ῥοῦφος ὁ Ἐφέσιος"
+  },
+  "title": {
+    "english": "On Bones",
+    "ancient_greek": "Περὶ Ὀστέων"
+  },
+  "seo": {
+    "browser_title": "Classical On Bones by Rufus of Ephesus on Eulogikon",
+    "meta_title": "Classical On Bones by Rufus of Ephesus in Ancient Greek",
+    "meta_description": "Rufus of Ephesus provides a detailed anatomical examination of human skeletal structure, with particular focus on Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On Bones</strong> is a medical treatise on human anatomy written in Greek by the physician Rufus of Ephesus around the late first or early second century CE. The work provides a systematic, region-by-region study of the human skeleton, beginning with a detailed examination of the skull and proceeding downward to the limbs. Its 41 concise passages focus on practical anatomical details, including the names, numbers, shapes, and articulations of the bones, serving as a handbook for medical students and practitioners. The treatise reflects a post-Hellenistic revival of anatomical study intended for pedagogical use within the medical community. It synthesizes earlier anatomical knowledge, likely informed by observations made during surgical procedures, given the cultural limitations on systematic human dissection in that era. The complete text survives through medieval Greek manuscripts and was influential for centuries, helping to standardize Greek osteological terminology and later informing both Byzantine and Arabic medical traditions.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t",
+      "text": "ΠΕΡΙ ΟΣΤΩΝ. Ἐπειδὴ τὴν τῶν ἐντοσθίων θεωρίαν κατὰ τὸ ἐνδεχόμενον παραδεδώκαμεν, ἑξῆς περὶ τῆς ὀστεολογίας λεκτέον ἡμῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Τὸ κρανίον τοίνυν, κατὰ τὸ λεγόμενον σκαφίον, ἐστὶ σφαιροειδές· τοῖς μὲν κατὰ κορυφὴν μέρεσιν ὀγκῶδες, τοῖς δὲ περὶ τὸ βρέγμα τυγχάνουσιν ὑπόπαχυ ποσῶς καὶ πλατὺ, καὶ διπλοῦν κατὰ ἐπιβολὴν ὀστοῦ, τοῖς κροτάφοις συνεσταλμένον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Ἔχει δὲ κατὰ τὸ πλεῖστον ῥαφὰς πέντε, μίαν μὲν κατὰ κορυφὴν λαμβδοειδῆ εἰς τοὐπίσω τοῦ κρανίου φερομένην· ἑτέραν δὲ ἐπὶ τοῦ βρέγματος περιφερῆ, οἱονεὶ στεφανιαίαν· λήγει δὲ κατὰ αὐτό· τρίτη δὲ ἀπὸ τῆς λαμβδοειδοῦς ἐπὶ εὐθὺ τῇ στεφανιαίᾳ συνάπτει· ἄλλαι δὲ δύο παρὰ τὰ ὦτα, περὶ τοὺς τῶν κροτάφων τόπους, λεπιδοειδεῖς λεγόμεναι, οὐ κατὰ βάθος ἔχουσαι τὰς ἁρμογὰς, ὡς αἱ λοιπαί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "—Ἐκ δὲ τῶν ἔμπροσθεν μερῶν εἰσιν [αἱ] κοιλότητες, ἔνθα οἱ ὀφθαλμοὶ ἐνίδρυνται, πυελίδες προσαγορευόμεναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "Μεταξὺ δὲ τούτων ἡ τοῦ μυκτῆρος ὑπεροχὴ, ἐν ᾗ τὸ ἠθμοειδὲς ὀστοῦν ὑπόκειται, πλείσταις κεχρημένον κατατρήσεσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "Ἔχει δὲ καὶ τὸ πρόσωπον ὀστῶν συνθέσεις ταύτας· μίαν μὲν ὑπὸ ταῖς ὀφρύσι, καὶ δύο ἄλλας ἐκ πλαγίων τοῦ τῆς ῥινὸς ὀστώδους· τετάρτην δὲ τὴν διείργουσαν τὴν ἄνω γένυν· εἶτα ἑξῆς τὴν κατὰ τῆς ὑπερῴας, καὶ [τὴν] κατὰ τῶν ζυγωμάτων, καὶ δύο ἄλλας δυσοράτους κατὰ τῶν μήλων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "Τὸ δὲ κρανίον ἐκ τῶν ὑποκάτω μερῶν κοιλανθὲν ἔκτρησιν ἔχει διαμπερῆ καὶ περιφερῆ, διὰ ἧς ὁ νωτιαῖος μυελὸς καταφέρεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "—Εἰσὶ δὲ οἱ τοῦ τραχήλου σπόνδυλοι ἀριθμῷ τυγχάνοντες ἑπτά· ἁρμονίως δὲ ἄλλος κατὰ ἄλλου ἔγκειται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "Καὶ ὁ μὲν πρῶτος τούτων τὴν κίνησιν τῇ κεφαλῇ παρέχεται· οἱ δὲ λοιποὶ μένουσιν ἀκίνητοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "—Ἑξῆς παράκειται ὁ ὦμος καὶ [ἡ ὠμοπλάτη]· ἡ μὲν οὖν ὠμοπλάτη κατὰ σχῆμα τρίγωνος οὖσα, δελτοειδῶς ἐπίκειται ταῖς σπάθαις τοῦ θώρακος, ἐκ τῶν ὄπισθεν μερῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "Καὶ ἐκ μὲν τοῦ πλατυτέρου μέρους ἐστὶ λεπτοτάτη, ἐκ δὲ τοῦ συναγομένου παχυτέρα τε καὶ ἐῤῥωμένη, κοιλότητά τινα ἔχουσα, εἰς ἣν ἐνήρθρωται ἡ κεφαλὴ τοῦ βραχίονος· ἀπὸ ἧς κοιλότητος διεκτέταται ὑπεροχὴ, ὡσανεὶ ῥάχις, λεγομένη ἀγκυροειδὴς, ἢ ἀγκιστροειδὴς, ἐπὶ ἣν τὸ τῆς κλειδὸς πέρας πέπτωκε χόνδρῳ συμφυέν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12",
+      "text": "—Ἡ δὲ κλεὶς τριβολοειδῶς ἐσχηματισμένη ἐμφέρειαν ἔχει καθετῆρι ἀῤῥενικῶ· συνήρθρωται δὲ τῷ στέρνῳ, καὶ συνεμπέφυκε τῇ ὠμοπλάτῃ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13",
+      "text": "Αὐτὴ δὲ ἡ μεσότης τῶν κλειδῶν σιγματοειδὴς τυγχάνουσα, συμβάλλει τῷ πρώτῳ τῆς ῥάχεως σπονδύλῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14",
+      "text": "—Ὁ δὲ βραχίων ἐπιμήκης ἐστὶ, καὶ περιφερής.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "Καὶ τὸ μὲν ἄνω μέρος ἔχει ὀγκωδέστερον, ὃ καλεῖται κεφαλὴ βραχίονος, ὅ περ κατὰ ἡμίτομον ἔγκειται τῇ τῆς ὠμοπλάτης κοιλότητι· ἐκ δὲ τῶν κάτω κατὰ ὃ συνήρθρωται τῷ ἀγκῶνι, ἐστὶν ἀνώμαλος, ὥστε ἐξοχὰς ἔχει παρὰ ἑκάτερα κονδυλοειδεῖς δύο, μέσην δὲ κοιλότητα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16",
+      "text": "Ἐκ μὲν τῶν ἔμπροσθεν ἧττον ἀνέσταλται, μᾶλλον δὲ ἐκ τῶν ὄπισθεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17",
+      "text": "—Τοῦ δὲ πήχεος δύο ἐστὶν ὀστᾶ, πῆχυς, καὶ κερκίς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18",
+      "text": "Καὶ τὸ μὲν τῆς κερκίδος πέρας τῶν κονδύλων τοῦ βραχίονος τὸν ἔξω ἐπικαλύπτει περιφερὲς γενόμενον, καὶ ποσῶς ὑπόκοιλον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19",
+      "text": "Ὁ δὲ πῆχύς ἐστι μακρότερος, καὶ κατὰ τὴν κάμψιν τοῦ καρποῦ ὑποδέχεται πέρας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20",
+      "text": "Ἡ δὲ κερκὶς κατὰ τὰ μέρη τοῦ καρποῦ κοιλότητας ἔχει δύο, μίαν μὲν εὐθεῖαν, ἐν ᾗ ἐνήρθρωται· ἑτέραν δὲ πλαγίαν, εἰς ἣν ὁ κόνδυλος τοῦ πήχεος ἐμφύεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "21",
+      "text": "—Ὁ δὲ καρπὸς σύγκειται μὲν ἐξ ὀστῶν ὀκτὼ στροβιλοειδῶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "22",
+      "text": "Ἐπὶ τούτων ὑπάρχουσιν αἱ φάλαγγες, ὀστᾶ ἐπιμήκη, δακτυλοειδῆ, ἐπὶ οἷς αἱ σκυταλίδες τῶν δακτύλων, ἑκάστου τρεῖς, ἄνισοι ἀλλήλαις, χωρὶς τοῦ ἀντίχειρος· οὗτος γὰρ ἐκ βάσεως δυσὶν ὀστοῖς κέχρηται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "23",
+      "text": "—Μετὰ δὲ τοὺς ἑπτὰ τοῦ τραχήλου σφονδύλους, οἱ τῆς ῥάχεώς εἰσι δυοκαίδεκα, καὶ τῆς ὀσφύος πέντε, ὡς γενέσθαι τοὺς πάντας τέσσαρας καὶ εἴκοσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "24",
+      "text": "Οὕτω δέ εἰσι κατεσκευασμένοι, ὡς τοῖς μὲν ἔνδοθεν μέρεσιν εἶναι λείους καὶ περιαγεῖς κατὰ ὃ σπλάγχνοις ὁμιλοῦσιν· ἐκ δὲ τῶν ὄπισθεν τετραχυσμένους καὶ ἀκανθώδεις κρυπτομένους σαρκὸς ἐπιφύσει· τὰ δὲ παρὰ ἑκάτερά ἐστι τραπεζώδη· πάντες μεσόκοιλοι, μίαν εὐρυχωρίαν ἔχοντες, σωληνοειδῶς σώζοντες κατὰ τὴν σύγκρισιν, διὰ ἧς ὁ νωτιαῖος μυελὸς καταφέρεται, ὡς προείπομεν, τυπώσεις ἔχοντες πλαγίας, ἐν αἷς ἐνηρμοσμέναι εἰσὶν αἱ σπάθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25",
+      "text": "Τῶν οὖν σπαθῶν, αἱ μὲν ἀνωτέρω καμαροειδεῖς, συμβάλλουσιν ἀλλήλαις, αἱ δὲ λοξοειδεῖς ἀντιβαίνουσαι τούτων ἑξῆς, χονδρώδεις ἄκανθαι καὶ νόθοι πλευραὶ καλοῦνται· μείζους [μὲν?] τῶν ἄνω τὴν παρέκτασιν, ἐκ συμβάσεως [δὲ?] ἐλαττούμεναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "26",
+      "text": "Πάντων δὲ τῶν σπονδύλων ὁ τελευταῖος διενήνοχεν, ὃν καὶ ἱερὸν ὀστοῦν καλοῦμεν, συνήθως τῶν ἀρχαίων ἱερὰ τὰ μεγάλα καλούντων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "27",
+      "text": "—Ἑκατέρωθεν δὲ τοῦ σπονδύλου τούτου τὰ τῶν ἰσχίων ὀστᾶ παρατεθέντα ἐκ τῶν ὄπισθεν, ἃ καὶ συνάπτει τοῖς πέρασι, κατὰ τὸ ἐφήβαιον χόνδρῳ συμφυέντα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "28",
+      "text": "Ἐσχημάτισται δὲ τὰ τῶν ἰσχίων ὀστᾶ πλατέα εἶναι καὶ ποσῶς περιφερῆ· κατὰ δὲ τὰ ἕτερα στενὰ καὶ παχύτερα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "29",
+      "text": "Ἔχουσι δὲ κοιλότητας οὐ διαμπερεῖς, βαθείας [δὲ], αἳ κοτύλαι καλοῦνται εἰς ἃς αἱ κεφαλαὶ τῶν μηρῶν ἐναρμόζονται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30",
+      "text": "—Οἱ δὲ μηροὶ ὀστᾶ ἐπιμήκη, ἐῤῥωμένα τε τυγχάνουσι, τὴν ἔκτασιν ἀπὸ τῶν ἰσχίων ἄχρι γόνατος ἔχοντα, περιφερῆ, πρόκυρτα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "31",
+      "text": "Ἐκ δὲ τῶν κατὰ τὸ γόνυ πάλιν ἑκάτερα αὐτῶν πάχος ἔχει καὶ περιφέρειαν κονδυλώδη, ὡς ἑκατέρωθεν μὲν ἐπῆρθαι, κεκοιλάνθαι δὲ ἐν μέσῳ κατὰ ἃ προσκυρεῖ ἡ κνήμη τρίγωνος οὖσα, καὶ περὶ τὴν κεφαλὴν πεπλατυσμένη, κοιλότητας ἔχουσα ἐπιπολαίους, κατὰ ὧν αἱ κονδυλώδεις ὑπεροχαὶ ἐντίθενται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "32",
+      "text": "Αὐτῆς δὲ τῆς κνήμης ἡ ὑπεροχὴ εἰς τὴν τοῦ μηροῦ κοιλότητα ἀντικλείεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "33",
+      "text": "Παράκειται δὲ ἐκ τῶν ἔξωθεν μερῶν ἡ περόνη ταύτης ἰσχνοτέρα, οὐ πλησιάζουσα τῷ μηρῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "34",
+      "text": "Ὑπέσταλται δὲ κατωτέρω· καὶ ἔστιν αὐτῆς τὸ πέρας ὁ ἔξω κόνδυλος, ὃν ἔνιοί φασι τῶν ἰδιωτῶν ἀστράγαλον προσαγορεύεσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "35",
+      "text": "Χόνδρῳ μέντοι κατὰ πέρας συνδεῖται πρὸς ἄλληλα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "36",
+      "text": "Ἐπὶ δὲ τῆς συμβολῆς τῆς κνήμης καὶ τοῦ μηροῦ ὀστοῦν ἐπίκειται λεγόμενον ἐπιγονατὶς, δισκοειδὲς κατὰ σχῆμα, τὴν σύμφυσιν ἔχον μέσην, ὃ κατὰ μὲν τὴν κάμψιν τῇ κνήμῃ μᾶλλον προσχωρεῖ, κατὰ δὲ τὴν ἔκτασιν ἐπὶ ἑκάτερον πίπτει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "37",
+      "text": "Ἐκ δὲ τῶν πρὸς τοῖς σφυροῖς μερῶν ἡ κνήμη στενοῦται ποσῶς, καὶ σιγματοειδῶς τῷ πέρατι κατὰ τὸ ἴσον διΐσταται οὕτως ὥστε τὴν μὲν ἐπιμήκη ὑπεροχὴν ἔχειν, τὴν δὲ σμικροτέραν· καὶ ἔστι τῆς μὲν μείζονος ὑπεροχῆς ὁ ἔσωθεν κόνδυλος· ὁ δὲ τῆς ἄλλης κρυπτόμενος σαρκὸς ἐπιφύσει· συνήρμοσται δὲ τῷ τῆς περόνης ἀπολήγοντι, ὃ καὶ ἐπιπροβὰν τὸν ἔξω κόνδυλον, ὡς ἔφαμεν, ἀποδείκνυσιν· ὥστε εἶναι τὸ μεταξὺ διάστημα τοῖν δυοῖν ὀστοῖν σιγμαοειδές.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "38",
+      "text": "—Ἐν ᾧ διαστήματι ὁ ἀστράγαλος ἔγκειται, οὗ καὶ ἐπιβέβηκε τῷ αὐτῷ κατὰ τὸ τέτρωρον· ἀλλὰ ὁ χῖος καὶ τὸ ἓξ παράκειται τῇ τῆς κνήμης καὶ [τῇ] τῆς περόνης ἀποφύσει· τὸ δὲ ἐπιτριῶν ἐπιβέβηκε τῷ ὑποτεταγμένῳ αὐτῷ ὀστῷ τῆς δὲ πτέρνης λεγομένῳ, ὡς πρὸς ταῖς τῆς πτέρνης κοιλότησιν ἀντικατακλείεσθαι τὰς τοῦ ἐπιτριῶν ἀνωμαλίας, καὶ συνδεῖσθαι χόνδρου περιφύσει· τὸ δὲ ἔμπροσθεν αὐτοῦ σφαιροειδὲς μέρος [συνήρμοσται] κοιλότητι ἑνὸς ὀστοῦ τῶν τοῦ ταρσοῦ λεγομένου διὰ τὴν κοιλότητα σκαφοειδοῦς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "39",
+      "text": "Ὀκτὼ δὲ τὸν ἀριθμὸν ὀστάρια τὸν ταρσὸν ἀποτελοῦνται ταῖς γωνίαις ὄντα ἀνώμαλα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "40",
+      "text": "Μετὰ δὲ τὸν ταρσὸν ὑπόκειται τὸ πεδίον ἔχον ὀστᾶ πέντε, λεπτὰ μὲν κατὰ μεσότητας, παχύτερα δὲ κατὰ τὰ ἄκρα, ἀγόμενα δὲ κατὰ τὸν ἄνω τύπον, ὅθεν ἐκ τῶν ὑποκειμένων κοῖλα ὁρᾶται. Ἑξῆς δὲ τούτων αἱ τῶν δακτύλων σκυταλίδες καθάπερ καὶ χειρός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "42",
+      "text": "Ἀποδέδοται ἡμῖν κατὰ τὸ ἐνδεχόμενον καὶ ἡ τῶν ὀστῶν θέσις.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ojc-ae",
+      "title": {
+        "english": "Medical Questions",
+        "ancient_greek": "Ἰατρικαὶ Ζητήσεις"
+      },
+      "url_slug": "rufus-of-ephesus-medical-questions-ojc-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/rufus-of-ephesus/medical-questions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-medical-questions-ojc-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-medical-questions-ojc-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-medical-questions-ojc-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-medical-questions-ojc-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/medical-questions.epub"
+      }
+    },
+    {
+      "eul_wid": "ojc-aa",
+      "title": {
+        "english": "On Diseases of the Kidneys and Bladder",
+        "ancient_greek": "Περὶ Νεφρῶν καὶ Κύστεως Παθῶν"
+      },
+      "url_slug": "rufus-of-ephesus-kidneys-bladder-ojc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/rufus-of-ephesus/kidneys-bladder",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-kidneys-bladder-ojc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-kidneys-bladder-ojc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-kidneys-bladder-ojc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-kidneys-bladder-ojc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/kidneys-bladder.epub"
+      }
+    },
+    {
+      "eul_wid": "ojc-ad",
+      "title": {
+        "english": "On Parts of the Human Body",
+        "ancient_greek": "Περὶ Μερῶν τοῦ Ἀνθρωπίνου Σώματος"
+      },
+      "url_slug": "rufus-of-ephesus-human-body-ojc-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/rufus-of-ephesus/human-body",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-human-body-ojc-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-human-body-ojc-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-human-body-ojc-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-human-body-ojc-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/human-body.epub"
+      }
+    },
+    {
+      "eul_wid": "ojc-ac",
+      "title": {
+        "english": "On Satyriasis and Gonorrhea",
+        "ancient_greek": "Περὶ Σατυριάσεως καὶ Γονορροίας"
+      },
+      "url_slug": "rufus-of-ephesus-satyriasis-gonorrhea-ojc-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/rufus-of-ephesus/satyriasis-gonorrhea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-satyriasis-gonorrhea-ojc-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-satyriasis-gonorrhea-ojc-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-satyriasis-gonorrhea-ojc-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-satyriasis-gonorrhea-ojc-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/satyriasis-gonorrhea.epub"
+      }
+    },
+    {
+      "eul_wid": "ojc-ab",
+      "title": {
+        "english": "On the Terms of the Human Body",
+        "ancient_greek": "Περὶ Ὅρων τοῦ Ἀνθρωπίνου Σώματος"
+      },
+      "url_slug": "rufus-of-ephesus-human-body-terms-ojc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/rufus-of-ephesus/human-body-terms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-human-body-terms-ojc-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-human-body-terms-ojc-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-human-body-terms-ojc-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-human-body-terms-ojc-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/human-body-terms.epub"
+      }
+    },
+    {
+      "eul_wid": "ojc-af",
+      "title": {
+        "english": "Summary-Pulses",
+        "ancient_greek": "Σύνοψις περὶ Σφυγμῶν"
+      },
+      "url_slug": "rufus-of-ephesus-pulses-ojc-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/rufus-of-ephesus/pulses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-pulses-ojc-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-pulses-ojc-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-pulses-ojc-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-pulses-ojc-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/pulses.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "nzm-aa",
+      "title": {
+        "english": "Anonymous Londinensis Fragments",
+        "ancient_greek": "Ἀνώνυμος Λονδινέζης Ἀποσπάσματα"
+      },
+      "url_slug": "londoner-on-medicine-anonymous-anonymous-fragments-nzm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/londoner-on-medicine-anonymous/anonymous-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/londoner-on-medicine-anonymous-anonymous-fragments-nzm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/londoner-on-medicine-anonymous-anonymous-fragments-nzm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/londoner-on-medicine-anonymous-anonymous-fragments-nzm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/londoner-on-medicine-anonymous-anonymous-fragments-nzm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/londoner-on-medicine-anonymous/anonymous-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "bww-br",
+      "title": {
+        "english": "Epidemics (Selections from Books I and III)",
+        "ancient_greek": "Ἐπιδημίων"
+      },
+      "url_slug": "hippocrates-epidemics-bww-br",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-bww-br.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-bww-br.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-bww-br.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-bww-br.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics.epub"
+      }
+    },
+    {
+      "eul_wid": "vjk-ae",
+      "title": {
+        "english": "Fragments of Timotheus of Gaza",
+        "ancient_greek": "Ἀποσπάσματα Τιμοθέου τοῦ Γάζης"
+      },
+      "url_slug": "hippiatric-compilation-anonymous-timotheus-gaza-vjk-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippiatric-compilation-anonymous/timotheus-gaza",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous-timotheus-gaza-vjk-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous-timotheus-gaza-vjk-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous-timotheus-gaza-vjk-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous-timotheus-gaza-vjk-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/timotheus-gaza.epub"
+      }
+    },
+    {
+      "eul_wid": "omy-aa",
+      "title": {
+        "english": "Life of Hippocrates According to Soranus",
+        "ancient_greek": "Βίος Ἱπποκράτους κατὰ Σωρανόν"
+      },
+      "url_slug": "soranus-of-ephesus-life-of-hippocrates-omy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/soranus-of-ephesus/life-of-hippocrates",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus-life-of-hippocrates-omy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus-life-of-hippocrates-omy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus-life-of-hippocrates-omy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus-life-of-hippocrates-omy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus/life-of-hippocrates.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ds",
+      "title": {
+        "english": "On Barley Drink",
+        "ancient_greek": "Περὶ τῆς πτισάνης"
+      },
+      "url_slug": "galen-of-pergamon-barley-drink-qmm-ds",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/barley-drink",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-barley-drink-qmm-ds.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-barley-drink-qmm-ds.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-barley-drink-qmm-ds.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-barley-drink-qmm-ds.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/barley-drink.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-cj",
+      "title": {
+        "english": "On the Formation of Fetuses",
+        "ancient_greek": "Περὶ τῆς τῶν ἐμβρύων διαπλάσεως"
+      },
+      "url_slug": "galen-of-pergamon-formation-fetuses-qmm-cj",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/formation-fetuses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-formation-fetuses-qmm-cj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-formation-fetuses-qmm-cj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-formation-fetuses-qmm-cj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-formation-fetuses-qmm-cj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/formation-fetuses.epub"
+      }
+    },
+    {
+      "eul_wid": "umi-at",
+      "title": {
+        "english": "Physiognomics",
+        "ancient_greek": "Φυσιογνωμονικά"
+      },
+      "url_slug": "medical-writers-anonymous-physiognomics-umi-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/physiognomics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-physiognomics-umi-at.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-physiognomics-umi-at.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-physiognomics-umi-at.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-physiognomics-umi-at.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/physiognomics.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ag",
+      "title": {
+        "english": "That the Mind's Morals Follow the Body's Temperaments",
+        "ancient_greek": "Ὅτι οἱ τοῦ ἀνθρώπου τρόποι τοῖς τοῦ σώματος"
+      },
+      "url_slug": "galen-of-pergamon-mind-morals-body-temperaments-qmm-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/mind-morals-body-temperaments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-mind-morals-body-temperaments-qmm-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-mind-morals-body-temperaments-qmm-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-mind-morals-body-temperaments-qmm-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-mind-morals-body-temperaments-qmm-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/mind-morals-body-temperaments.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/rufus-of-ephesus/bones",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-bones-ojc-ag.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-bones-ojc-ag.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-bones-ojc-ag.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-bones-ojc-ag.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/bones.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

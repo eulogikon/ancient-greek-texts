@@ -1,0 +1,992 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ams-aa",
+  "eul_aid": "ams",
+  "author_slug": "stesichorus-of-metauros",
+  "work_slug": "geryoneis",
+  "url_slug": "stesichorus-of-metauros-geryoneis-ams-aa",
+  "author": {
+    "english": "Stesichorus of Metauros",
+    "ancient_greek": "Στησίχορος ὁ Μεταυρῖνος"
+  },
+  "title": {
+    "english": "Fragments of the Geryoneis",
+    "ancient_greek": "Ἀποσπάσματα τῆς Γηρυονηΐδος"
+  },
+  "seo": {
+    "browser_title": "The Geryoneis Fragments by Stesichorus on Eulogikon",
+    "meta_title": "Geryoneis Fragments by Stesichorus in Ancient Greek",
+    "meta_description": "Surviving fragments of the lyric poem Geryoneis, narrating Heracles tenth labor against Geryon. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric (frg)",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Geryoneis</strong> is a substantial lyric poem by the archaic Greek poet Stesichorus, composed in the sixth century BCE. It recounts the myth of Heracles’ tenth labor, his voyage to the distant western island of Erytheia to seize the cattle of the triple-bodied giant Geryon. Designed for choral performance and structured in triads of strophe, antistrophe, and epode, the work was celebrated in antiquity for its epic scope and Homeric diction, effectively merging the lyric and epic traditions.</p>\n<p class=\"research-text\">The poem survives only in fragments, with 112 pieces preserved through quotations by later authors such as the geographer Strabo and on papyri recovered from Egypt. These remnants present vivid episodes, including Heracles’ journey across the ocean in the golden cup of the sun-god Helios and his climactic battle with Geryon. A particularly notable fragment contains an emotionally charged speech from Geryon’s mother, pleading with her son to avoid the conflict. Modern interpretation often highlights this moment as characteristic of Stesichorus’s artistic depth, which imbues the monstrous Geryon with a measure of pathos and nobility, framing him as a defender of his rightful property.</p>\n<p class=\"research-text\">The <strong>Geryoneis</strong> was likely performed at public festivals in the Greek cities of Sicily or southern Italy, where Stesichorus was active. Its detailed evocation of western geography mirrors the expanding horizons of Greek colonization during the archaic period. The complete text was lost in antiquity, and contemporary understanding of the poem depends entirely on the meticulous reconstruction of these quoted and papyrus fragments.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Φλόγεον καὶ Ἅρπαγον, ὠκέα τέκνα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "Ποδάργας, Ἥρα δὲ Ξάνθον καὶ Κύλλαρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2a.1",
+      "text": "σασαμίδας χόνδρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2a.2",
+      "text": "τε καὶ ἐγκρίδας ἄλλα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2a.3",
+      "text": "τε πέμματα καὶ μέλι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2a.4",
+      "text": "χλωρόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2b",
+      "text": "θρώισκων μὲν ἄρ’ Ἀμφιάραος ἄκοντι δὲ νίκασεν Μελέαγρος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.1",
+      "text": "σκύφιον δὲ λαβὼν δέπας ἔμμετρον ὡς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.2",
+      "text": "τριλάγυνον πί’ ἐπισχόμενος, τό ῥά οἱ παρέθηκε Φόλος κεράσας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.1",
+      "text": "σχεδὸν ἀντιπέρας κλεινᾶς Ἐρυθείας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.2",
+      "text": "Ταρτησσοῦ ποταμοῦ παρὰ παγὰς ἀπείρονας ἀργυρορίζους ἐν κευθμῶνι πέτρας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.1",
+      "text": "Ἀέλιος δ’ Ὑπεριονίδας δέπας ἐσκατέβαινε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.2",
+      "text": "χρύσεον, ὄφρα δι’ ὠκεανοῖο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.3",
+      "text": "περάσας ἀφίκοιθ’ ἱαρᾶς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.4",
+      "text": "ποτὶ βένθεα νυκτὸς ἐρεμνᾶς, ποτὶ ματέρα κουριδίαν τ’ ἄλοχον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.5",
+      "text": "παίδας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.6",
+      "text": "τε φίλους[ln_5]ὁ δ’ ἐς ἄλσος ἔβα δάφναισι κατάσκιον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.7",
+      "text": "ποσὶ παῖς Διός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.1",
+      "text": "πολλὰ μὲν Κυδώνια μᾶλα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.2",
+      "text": "ποτερρίπτουν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.3",
+      "text": "ποτὶ δίφρον ἄνακτι, πολλὰ δὲ μύρσινα φύλλα καὶ ῥοδίνους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.4",
+      "text": "στεφάνους ἴων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.5",
+      "text": "τε κορωνίδας οὔλας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11.1",
+      "text": "λιθαργύρεον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11.2",
+      "text": "ποδανιπτῆρα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15.1",
+      "text": "[ln_1]οὐκ ἔστ’ ἔτυμος λόγος οὗτος, οὐδ’ ἔβας ἐν νηυσὶν ἐυσσέλμοις οὐδ’ ἵκεο πέργαμα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15.2",
+      "text": "Τροίας,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16.1",
+      "text": "[ μέμ‐ φεται τὸν Ὅμηρο[ν ὅτι Ἑ‐ λέ]νην ἐποίησεν ἐν Τ[ροίαι[ln_5]καὶ οὐ τὸ εἴδωλον αὐτῆ[ς, ἔν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16.2",
+      "text": "τε τ[ῆι] ἑτέραι τὸν Ἡσίοδ[ον μέμ[φετ]αι· διτταὶ γάρ εἰσι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16.3",
+      "text": "πα‐ λινωιδ〈ίαι δια〉λλάττουσαι, καὶ ἔ‐ στιν ἡ μὲν ἀρχή· δεῦρ’ αὖ‐[ln_10]τε θεὰ φιλόμολπε, τῆς δέ· χρυσόπτερε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16.4",
+      "text": "παρθένε, ὡς ἀνέγραψε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16.5",
+      "text": "Χαμαιλέων· αὐ‐ τὸ[ς δ]έ φησ[ιν ὁ] Στησίχορο[ς τὸ μὲν ε[ἴδωλο]ν ἐλθεῖ[ν ἐς[ln_15]Τροίαν τὴν δ’ Ἑλένην π[αρὰ τῶι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16.6",
+      "text": "Πρωτεῖ καταμεῖν[αι· οὕ‐ τως δὴ ἐκ[α]ινοποίησε τ[ὰς ἱστορ[ί]ας [ὥ]στε Δημοφῶντ[α μὲν τ[ὸ]ν Θησέως ἐν τ[ῶ]ι νό‐[ln_20]στωι με[τὰ] τῶν θε.[...]δων̣[ ἀνενεχ[θῆναι λέγ]ειν [ἐ]ς̣ [Αἴ‐ γυπτον, [γενέσθα]ι δὲ Θη[σεῖ Δημοφῶ[ντα μ]ὲν ἐξ Ἰό[πης τῆς Ἰφικ[λέους, Ἀ]κάμαν[τα δὲ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16",
+      "text": "[ln_25][]..[ ] ἐκ δὲ τῆς αμ[ [ ]..τη[.]..λη.[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 23",
+      "text": "ὤικτιρε γὰρ αὐτὸν ὕδωρ αἰεὶ φορέοντα Διὸς κούρα βασιλεῦσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 32,col1.1",
+      "text": "θε[ῖ]ον ἐ[ξ]αίφνας τέρας ἰδοῖσα νύμφα ὧ̣δ̣ε̣ δ̣ε̣[..]. Ἑλένα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 32,col1.2",
+      "text": "φωνᾶι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 32,col1.3",
+      "text": "ποτ[ὶ] παίδ’ Ὀδύσειο[ν· Τηλέμαχ[..]τ̣ις ὅδ’ ἁμὶν ἄγγελ[ο]ς ὠρανόθεν δι’ αἰθέρο[ς ἀτ]ρυγέτας κατέπτατο, βᾶ δ[[ln_5][ ].. φοινᾶ̣ι̣ κεκλαγ̣{γ̣}ώ̣[ς []...ς ὑμετέρους δόμους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 32,col1.4",
+      "text": "προφα.[.......]υς [ ].....αν.υς ἀνὴρ [ βο]υ̣λ̣α̣ῖς Ἀθάνας [ ].η̣ις αυτα λακέρυζα κορώνα[ln_10][ ].μ̣’ οὐδ’ ἐγώ〈ν〉 ς’ ἐρύ[ξ]ω̣ [ Παν]ε̣λ̣ό̣π̣α̣ ς’ ἰδοῖσα φίλου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 32,col1.5",
+      "text": "πατ[ρ]ὸς υἱὸ̣ν̣ [ ]σ̣ο.[.]τ..ς ἐ̣σθλ[ [].[.]θ̣ε̣ι̣ο̣ν̣ μ[ [ ] [[ln_15][ ].[ [ ].ν̣...[ [ ].α̣..[].[ [ ].[ [ ]αμο[[ln_20][ ].οιω[ [ ].ντ[ . . .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 32,col2.1",
+      "text": "ἀργυρέαν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 32,col2.2",
+      "text": "τεπ̣[ χρυσῶι ὕπερθε[ ἐκ Δαρδανιδ..[ Πλεισθενίδας.[[ln_5]καὶ τὰ μὲν ευ̣.[ συνθ.[...].[..].[ χρυσ[ . . .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 33.1",
+      "text": "Μοῖσα σὺ μὲν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 33.2",
+      "text": "πολέμους ἀπωσαμένα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 33.3",
+      "text": "πεδ’ ἐμοῦ κλείοισα θεῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 33.4",
+      "text": "τε γάμους ἀνδρῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 33.5",
+      "text": "τε δαίτας καὶ θαλίας μακάρων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 34.1",
+      "text": "ὅκα ἦρος ὥραι κελαδῆι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 34.2",
+      "text": "χελιδών",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 35.1",
+      "text": "τοιάδε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 35.2",
+      "text": "χρὴ Χαρίτων δαμώματα καλλικόμων ὑμνεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 35.3",
+      "text": "Φρύγιον μέλος ἐξευρόντας ἁβρῶς ἦρος ἐπερχομένου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 37",
+      "text": "λιθακοῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 40.1",
+      "text": "Στη]|σίχορος ἐχρήσατ[ο διη‐ γήμασιν, τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 40.2",
+      "text": "τε ἄλλ[ων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 40.3",
+      "text": "ποι‐ ητῶν οἱ πλείονες τ[ μαις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 40.4",
+      "text": "ταῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 40.5",
+      "text": "τούτου· με̣[[ln_5]Ὅμηρον κα[ὶ] Ἡσίοδον [ μᾶλλ[ον] Στησιχο[ρ]..[ φων[..]· Αἰσχύλο[ς μὲν γὰρ Ὀρέστ〈ε〉[ια]ν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 40.6",
+      "text": "ποιήσα[ς .ιαν [Ἀ]γαμέμνον[α[ln_10]Χ]οηφ[όρ]ους Εὐμεν[ίδας ...]..[.] τὸν ἀναγ[νωρισ‐ μὸ]ν̣ διὰ τοῦ βοστρύχο[υ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 40.7",
+      "text": "Στ]ησιχόρωι γάρ ἐστιν [ ..]., Ε[ὐ]ριπίδης δὲ τὸ τ[όξον[ln_15]τὸ Ὀρέστου ὅτι ἐστὶν δε[δο‐ μέ]νον αὐτῶι δῶρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 40.8",
+      "text": "πα[ρὰ τ]οῦ Ἀπόλλωνος· παρω.[ γ]ὰρ λέγεται· δὸς τόξα μ[οι κ]ερουλκά, δῶρα Λοξίου, [οἷς εἶ‐[ln_20]π’] Ἀπόλλων μ’ ἐξαμύ[νασ]θαι θ]εάς· παρὰ δὲ Στησιχ[όρω]ι· τό‐ ξα ] τάδε δώσω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 40.9",
+      "text": "παλά‐ μα]ισιν ἐμαῖσι κεκασμένα ..].. [ἐ]πικρατέως βάλλειν·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 40",
+      "text": "[ln_25]Εὐριπίδ]ης δὲ καὶ τὴν Ἰφ[ιγέ‐ νειαν ἐ]ποίησε γαμουμέ[νην Ἀχιλλεῖ ]...σα̣τ̣[.]ρ̣.[ . . .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 42.1",
+      "text": "τᾶι δὲ δράκων ἐδόκησε μολεῖν κάρα βεβροτωμένος ἄκρον, ἐκ δ’ ἄρα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 42.2",
+      "text": "τοῦ βασιλεὺς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 42.3",
+      "text": "Πλεισθενίδας ἐφάνη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 44",
+      "text": "κρύψαι δὲ ῥύγχος ἄκρον γᾶς ὑπένερθεν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 45,col1.1",
+      "text": "[ Θεσ]τιάδαι· [ ]αρ ὀψιγόνοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 45,col1.2",
+      "text": "τε καὶ ἀσπασί‐ οι ]ν ἐν μεγάρ[ο]ισιν· ἀτὰρ πόδας [ ]τ..αθο. Προκάων Κλυτί‐[ln_5]ος τ(ε) ]σθαν· [ ]ας δὲ μόλ’ [Ε]ὐρυτίων [ ]ς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 45,col1.3",
+      "text": "τανυπ[έ]πλου [ ]ας [ ]. Εἰλατίδαο δαίφρονος[ln_10]. . .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 45,col2.1",
+      "text": "ἔνθεν μὲν Λοκρ[οὶ ἱζάνον αἰχματαὶ [ τέκνα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 45,col2.2",
+      "text": "φιλα[ ἐρί‐ ηρες Ἀχαιοὶ [[ln_5]καὶ ὑπερθύμοι [ θ’ ἱαρὰν Βοιωτίδ[α ν]αίον [ ⸏χθόνα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 45,col2.3",
+      "text": "πυροφόρ[ον. ] ἔνθεν δ’ αὖ Δρύοπ[ές] τε κα[ὶ λ̣οι μενεχάρμα[ι[ln_10]. . .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 46.1",
+      "text": "οὕνεκα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 46.2",
+      "text": "Τυνδάρεος ῥέζων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 46.3",
+      "text": "ποκὰ πᾶσι θεοῖς μόνας λάθετ’ ἠπιοδώρου Κύπριδος· κείνα δὲ Τυνδαρέου κόραις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 46.4",
+      "text": "χολωσαμένα διγάμους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 46.5",
+      "text": "τε καὶ τριγάμους τίθησι[ln_5]καὶ λιπεσάνορας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 51",
+      "text": "πάτρω’ ἐμὸν ἀντίθεον Μελάμποδα·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 55.1",
+      "text": "†μάλα† τοι μάλιστα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 55.2",
+      "text": "παιγμοσύνας 〈τε〉 φιλεῖ μολπάς τ’ Ἀπόλλων, κήδεα δὲ στοναχάς τ’ Ἀίδας ἔλαχε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 56.1",
+      "text": "εὐρεῖαν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 56.2",
+      "text": "χθ[ό]να.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 58.1",
+      "text": "κοιλωνύχων ἵππων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 58.2",
+      "text": "πρύτανιν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 63",
+      "text": "δεῦρ’ ἄγε Καλλιόπεια λίγεια",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 65.1",
+      "text": "αὐτόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 65.2",
+      "text": "σε πυλαμάχε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 65.3",
+      "text": "πρῶτον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 66",
+      "text": "ῥαδινοὺς δ’ ἐπέπεμπον ἄκοντας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 67.1",
+      "text": "ἀτελέστατα γὰρ καὶ ἀμάχανα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 67.2",
+      "text": "τοὺς θανόντας κλαίειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 68",
+      "text": "θανόντος ἀνδρὸς πᾶσα †πολιὰ† ποτ’ ἀνθρώπων χάρις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 70",
+      "text": "ἀκεσταλίων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 72.1",
+      "text": "ἀνίψαλον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 72.2",
+      "text": "παίδα,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 73",
+      "text": "ἀρχεσίμολπον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 76",
+      "text": "ἐρίσφηλον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 77",
+      "text": "ἠλίβατον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 78",
+      "text": "ἀπειρεσίοιο κυνυλαγμοῖο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 79",
+      "text": "λεύκιππος·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 80",
+      "text": "μάτας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 82",
+      "text": "μεσόνυξ, μεσόνυχος·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 83",
+      "text": "ὀρείχαλκος·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 84",
+      "text": "πέποσχα·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 87",
+      "text": "ποταύδη,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 89",
+      "text": "ὑπερθυμέστατον ἀνδρῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 97.1",
+      "text": "Παλλάδα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 97.2",
+      "text": "περσέπολιν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 101.1",
+      "text": "[ln_1]ἄγε Μοῦσα λίγει’ ἄρξον ἀοιδᾶς †ἐρατῶν ὕμνους† Σαμίων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 101.2",
+      "text": "περὶ παίδων ἐρατᾶι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 101.3",
+      "text": "φθεγγομένα λύραι",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ams-ab",
+      "title": {
+        "english": "Fragments on the Hesperides",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἑσπερίδων"
+      },
+      "url_slug": "stesichorus-of-metauros-hesperides-ams-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/stesichorus-of-metauros/hesperides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesichorus-of-metauros-hesperides-ams-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesichorus-of-metauros-hesperides-ams-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesichorus-of-metauros-hesperides-ams-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesichorus-of-metauros-hesperides-ams-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesichorus-of-metauros/hesperides.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "mje-ab",
+      "title": {
+        "english": "Battle of Frogs and Mice",
+        "ancient_greek": "Βατραχομυομαχία"
+      },
+      "url_slug": "parodist-anon-frogs-mice-ab-mje-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/parodist-anon/frogs-mice-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-ab-mje-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-ab-mje-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-ab-mje-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-ab-mje-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon/frogs-mice-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "mje-aa",
+      "title": {
+        "english": "Battle of Frogs and Mice, Byzantine Prosody",
+        "ancient_greek": "Βατραχομυομαχία"
+      },
+      "url_slug": "parodist-anon-frogs-mice-aa-mje-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/parodist-anon/frogs-mice-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-aa-mje-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-aa-mje-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-aa-mje-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-aa-mje-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon/frogs-mice-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "hvm-ac",
+      "title": {
+        "english": "Fragments of Endurance and Fate",
+        "ancient_greek": "Ἀποσπάσματα Καρτερίας καὶ Μοίρας"
+      },
+      "url_slug": "philetas-of-cos-endurance-fate-hvm-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/philetas-of-cos/endurance-fate",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetas-of-cos-endurance-fate-hvm-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetas-of-cos-endurance-fate-hvm-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetas-of-cos-endurance-fate-hvm-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetas-of-cos-endurance-fate-hvm-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetas-of-cos/endurance-fate.epub"
+      }
+    },
+    {
+      "eul_wid": "gtu-ab",
+      "title": {
+        "english": "Gastronomic Journey Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "archestratus-of-gela-gastronomic-journey-gtu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/archestratus-of-gela/gastronomic-journey",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archestratus-of-gela-gastronomic-journey-gtu-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archestratus-of-gela-gastronomic-journey-gtu-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archestratus-of-gela-gastronomic-journey-gtu-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archestratus-of-gela-gastronomic-journey-gtu-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archestratus-of-gela/gastronomic-journey.epub"
+      }
+    },
+    {
+      "eul_wid": "upu-bc",
+      "title": {
+        "english": "Hymn 12 to Hera",
+        "ancient_greek": "Ὕμνος εἰς Ἥραν"
+      },
+      "url_slug": "homeric-hymns-anonymous-hymn-12-hera-upu-bc",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/hymn-12-hera",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-hymn-12-hera-upu-bc.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-hymn-12-hera-upu-bc.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-hymn-12-hera-upu-bc.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-hymn-12-hera-upu-bc.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hymn-12-hera.epub"
+      }
+    },
+    {
+      "eul_wid": "iha-ab",
+      "title": {
+        "english": "Orphic and Mythological Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hermesianax-of-colophon-orphic-mythological-fragments-iha-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermesianax-of-colophon/orphic-mythological-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon-orphic-mythological-fragments-iha-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon-orphic-mythological-fragments-iha-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon-orphic-mythological-fragments-iha-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon-orphic-mythological-fragments-iha-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/orphic-mythological-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "brw-ah",
+      "title": {
+        "english": "Prosody Fragments",
+        "ancient_greek": "Ἀποσπάσματα Πρὸς τὴν Προσωδίαν"
+      },
+      "url_slug": "bacchylides-of-ceos-prosody-brw-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/prosody",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-prosody-brw-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-prosody-brw-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-prosody-brw-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-prosody-brw-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/prosody.epub"
+      }
+    },
+    {
+      "eul_wid": "big-ad",
+      "title": {
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
+      },
+      "url_slug": "simonides-of-ceos-testimony-big-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/simonides-of-ceos/testimony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos-testimony-big-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos-testimony-big-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos-testimony-big-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos-testimony-big-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/testimony.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/stesichorus-of-metauros/geryoneis",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesichorus-of-metauros-geryoneis-ams-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesichorus-of-metauros-geryoneis-ams-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesichorus-of-metauros-geryoneis-ams-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesichorus-of-metauros-geryoneis-ams-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesichorus-of-metauros/geryoneis.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

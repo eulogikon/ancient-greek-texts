@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "oce",
+  "auth_slug": "onasander-the-tactician",
+  "name": {
+    "english": "Onasander the Tactician",
+    "ancient_greek": "Ὀνάσανδρος ὁ Τακτικός"
+  },
+  "seo_h1": "Onasander the Tactician on the Art of Strategy",
+  "seo": {
+    "browser_title": "Onasander the Tactician on Eulogikon Greek Archive",
+    "meta_title": "The Onasander the Tactician Ancient Greek Treatise",
+    "meta_description": "Onasander was a Roman era writer on military science. His surviving treatise is The General. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Onasander was a Greek author of the 1st century CE, known only for his military treatise. Manuscripts identify him as a philosopher, but no biographical details survive. The dedication of his work to the Roman consul Quintus Veranius Nepos, consul in 49 CE, provides the primary evidence for his date, placing him in the mid-1st century.</p>\n<p class=\"research-text\">His sole extant work is the Stratēgikos, a Greek treatise on the ideal military commander. It is a significant philosophical treatment of generalship, emphasizing the moral and intellectual virtues required of a commander, such as piety, justice, and strategic wisdom, reflecting Platonic and Stoic influences. Written for a Roman patron, it illustrates the enduring prestige of Greek theoretical knowledge in the Roman Empire. The work was preserved, translated into Latin in the 4th century and later into Italian, and influenced Byzantine and early modern military thought.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "oce-aa",
+      "title": {
+        "english": "Strategic",
+        "ancient_greek": "Στρατηγικός"
+      },
+      "url_slug": "onasander-the-tactician-strategos-oce-aa",
+      "passages": 180,
+      "links": {
+        "html": "https://eulogikon.org/grc/onasander-the-tactician/strategos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/onasander-the-tactician-strategos-oce-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/onasander-the-tactician-strategos-oce-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/onasander-the-tactician-strategos-oce-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/onasander-the-tactician-strategos-oce-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/onasander-the-tactician/strategos.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/onasander-the-tactician",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/onasander-the-tactician-oce.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/onasander-the-tactician-oce.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/onasander-the-tactician-oce.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/onasander-the-tactician-oce.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,347 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "byk-ab",
+  "eul_aid": "byk",
+  "author_slug": "archelaus-of-miletus",
+  "work_slug": "cimon-physics",
+  "url_slug": "archelaus-of-miletus-cimon-physics-byk-ab",
+  "author": {
+    "english": "Archelaus of Miletus ",
+    "ancient_greek": "Ἀρχέλαος ὁ Μιλήσιος ὁ Ἀθηναῖος"
+  },
+  "title": {
+    "english": "Fragments on Cimon and Physics",
+    "ancient_greek": "Ἀποσπάσματα περὶ Κίμωνος καὶ Φυσικῶν"
+  },
+  "seo": {
+    "browser_title": "Fragments of Archelaus of Miletus on Eulogikon Archive",
+    "meta_title": "Fragments of Archelaus of Miletus in Ancient Greek",
+    "meta_description": "Fragments of Archelaus of Miletus on history and physics. Ancient Greek philosophical verse. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Presocratic",
+      "href": "/affiliations/presocratic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The work conventionally titled <strong>Fragments on Cimon and Physics</strong> is unattested in the extant corpus of ancient Greek literature. No surviving source references a text by this name attributed to an Archelaus of Miletus. While a philosopher named Archelaus, a student of Anaxagoras and teacher of Socrates, was active in 5th-century BCE Athens, he is not associated with Miletus or with a work combining biographical and physical themes. The proposed content, as inferred from the title, suggests a poetic synthesis of historical material concerning the Athenian statesman Cimon with doctrines of pre-Socratic natural philosophy. This unusual conjunction of political history and physical speculation might indicate a later, possibly Hellenistic, poetic composition, but no such work is recorded. The fragments themselves lack any documented manuscript tradition and are absent from standard scholarly catalogs and digital repositories. Their complete omission from major reference works on Greek literature and philosophy implies either extreme obscurity, a modern misattribution, or an entry from a non-canonical tradition, rendering any assessment of its historical influence or philosophical significance impossible.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_1][para]PLUTARCH. Cimon 4 Κίμων ὁ Μιλτιάδου μητρὸς ἦν Ἡγη‐ σιπύλης, γένος Θράιττης, θυγατρὸς Ὀλόρου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τοῦ βασιλέως, ὡς ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τοῖς Ἀρχελάου καὶ Μελανθίου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "ποιήμασιν εἰς αὐτὸν Κίμωνα γεγραμμένοις ἱστόρηται ... δῆλος δ’ ἐστὶ καὶ πρὸς Ἰσοδίκην τὴν Εὐρυπτολέμου μὲν θυγατέρα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "τοῦ Μεγακλέους,[ln_5]κατὰ νόμους δ’ αὐτῶι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "συμβιώσασαν ὁ Κίμων ἐμπαθέστερον διατεθεὶς καὶ δυσφο‐ ρήσας ἀποθανούσης, εἴ τι δεῖ τεκμαίρεσθαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "ταῖς γεγραμμέναις ἐπὶ παρη‐ γορίαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.8",
+      "text": "τοῦ πένθους ἐλεγείαις [PLG II 259 Bergk] πρὸς αὐτόν, ὧν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.9",
+      "text": "Παναί‐ τιος ὁ φιλόσοφος οἴεται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.10",
+      "text": "ποιητὴν γεγονέναι τὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.11",
+      "text": "φυσικὸν Ἀρχέλαον, οὐκ ἀπὸ τρόπου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.12",
+      "text": "τοῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.13",
+      "text": "χρόνοις εἰκάζων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1a.1",
+      "text": "[ln_1]PLUT. de primo frig. 21. 954F ὅθεν οὐ κατὰ χώραν μόνον ἐξ ἕδρας ἀκίνητον οὖσαν αὐτὴν (τὴν γῆν), ἀλλὰ καὶ κατ’ οὐσίαν ἀμετάβλητον, Ἑστίαν ἅτε δὴ ‘μένουσαν ἐν θεῶν οἴκωι‘ † κλίτα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1a.2",
+      "text": "προσηγόρευσαν οἱ παλαιοὶ (Plato Phaedr. 246E) διὰ τὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1a.3",
+      "text": "στάσιν[ln_5]καὶ πῆξιν· ἧς ἡ ψυχρότης δεσμός ἐστιν, ὡς Ἀρχέλαος ὁ φυσικὸς εἶπεν, οὐδενὸς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1a.4",
+      "text": "χαλῶντος αὐτὴν οὐδὲ μαλάττοντος, ἅτε θερομένην καὶ ἀλεαινομένην 〈ἀμετάβλητον〉 οὖσαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "[ln_1]Berthelot Coll. des Alchim. gr. I p. 25, 6 γίνωσκε, ὦ φίλε, καὶ τὰ ὀνό‐ ματα τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "ποιητῶν· Πλάτων ... Θεόφραστος, Ἀρχέλαος, Πετάσιος κτλ.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "byk-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "archelaus-of-miletus-testimonies-byk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/archelaus-of-miletus/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-miletus-testimonies-byk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-miletus-testimonies-byk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-miletus-testimonies-byk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-miletus-testimonies-byk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-miletus/testimonies.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "okg-ag",
+      "title": {
+        "english": "Epitome of Comparison of Aristophanes and Menander",
+        "ancient_greek": "Συγκρίσεως Ἀριστοφάνους καὶ Μενάνδρου ἐπιτομή"
+      },
+      "url_slug": "plutarch-of-chaeronea-comparison-aristophanes-menander-okg-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/comparison-aristophanes-menander",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-comparison-aristophanes-menander-okg-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-comparison-aristophanes-menander-okg-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-comparison-aristophanes-menander-okg-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-comparison-aristophanes-menander-okg-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/comparison-aristophanes-menander.epub"
+      }
+    },
+    {
+      "eul_wid": "ffk-bo",
+      "title": {
+        "english": "Ion",
+        "ancient_greek": "Ἴων"
+      },
+      "url_slug": "plato-ion-ffk-bo",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/ion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-ion-ffk-bo.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-ion-ffk-bo.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-ion-ffk-bo.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-ion-ffk-bo.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/ion.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-ao",
+      "title": {
+        "english": "On Aristotle's Physics, Paraphrase",
+        "ancient_greek": "Περὶ τῆς Ἀριστοτέλους Φυσικῆς"
+      },
+      "url_slug": "themistius-physics-paraphrase-rye-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/physics-paraphrase",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-physics-paraphrase-rye-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-physics-paraphrase-rye-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-physics-paraphrase-rye-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-physics-paraphrase-rye-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/physics-paraphrase.epub"
+      }
+    },
+    {
+      "eul_wid": "lgi-ah",
+      "title": {
+        "english": "On Rewards and Punishments and-Curses",
+        "ancient_greek": "Περὶ Μισθῶν καὶ Ποινῶν καὶ Καταρωμένων"
+      },
+      "url_slug": "philo-of-alexandria-rewards-punishments-curses-lgi-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria/rewards-punishments-curses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-rewards-punishments-curses-lgi-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-rewards-punishments-curses-lgi-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-rewards-punishments-curses-lgi-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-rewards-punishments-curses-lgi-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/rewards-punishments-curses.epub"
+      }
+    },
+    {
+      "eul_wid": "pyq-ab",
+      "title": {
+        "english": "On Rivers",
+        "ancient_greek": "Περὶ ποταμῶν"
+      },
+      "url_slug": "pseudo-plutarch-rivers-pyq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-plutarch/rivers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-rivers-pyq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-rivers-pyq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-rivers-pyq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-rivers-pyq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch/rivers.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-aq",
+      "title": {
+        "english": "On the Gait of Animals",
+        "ancient_greek": "Περὶ Ζῴων Πορείας"
+      },
+      "url_slug": "aristotle-gait-animals-hgw-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/gait-animals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-gait-animals-hgw-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-gait-animals-hgw-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-gait-animals-hgw-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-gait-animals-hgw-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/gait-animals.epub"
+      }
+    },
+    {
+      "eul_wid": "eag-ab",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "timaeus-of-locri-testimonies-eag-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/timaeus-of-locri/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-locri-testimonies-eag-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-locri-testimonies-eag-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-locri-testimonies-eag-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-locri-testimonies-eag-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-locri/testimonies.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-aa",
+      "title": {
+        "english": "That It Is Not Possible to Live Pleasantly According to Epicurus",
+        "ancient_greek": "Ὅτι οὐδ ἡδέως ζῆν ἔστι κατ Ἐπίκουρον"
+      },
+      "url_slug": "plutarch-of-chaeronea-live-pleasantly-epicurus-okg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/live-pleasantly-epicurus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-live-pleasantly-epicurus-okg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-live-pleasantly-epicurus-okg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-live-pleasantly-epicurus-okg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-live-pleasantly-epicurus-okg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/live-pleasantly-epicurus.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/archelaus-of-miletus/cimon-physics",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-miletus-cimon-physics-byk-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-miletus-cimon-physics-byk-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-miletus-cimon-physics-byk-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-miletus-cimon-physics-byk-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-miletus/cimon-physics.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

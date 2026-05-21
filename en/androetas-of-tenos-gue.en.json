@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "gue",
+  "auth_slug": "androetas-of-tenos",
+  "name": {
+    "english": "Androetas of Tenos",
+    "ancient_greek": "Ἀνδροέτας ὁ Τήνιος"
+  },
+  "seo_h1": "Androetas of Tenos and the Periplus of the Propontis",
+  "seo": {
+    "browser_title": "Androetas of Tenos on Eulogikon Greek Archive Collection",
+    "meta_title": "Classical Androetas of Tenos Ancient Greek Historical Works",
+    "meta_description": "Androetas of Tenos was a 4th century BCE historian writing in Ionic Greek. His surviving historical texts. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Androetas of Tenos was a 4th-century BCE historian from the Cycladic island of Tenos. Beyond his name and origin, recorded in later testimonia, no biographical details survive.</p>\n<p class=\"research-text\">His sole known work is a lost historical text, often titled History or Histories, preserved only in fragments. These indicate it covered mythological and early historical narratives. One fragment recounts the Argonauts being driven to Tenos by a storm and founding a temple to Poseidon there. Another provides an etymological note on the Phocian city Elateia, deriving its name from the Greek word for fir tree.</p>\n<p class=\"research-text\">Androetas is significant as a representative of local Greek historiography, or horography. His work preserved Tenian foundation myths and etymologies, serving as a source for later Hellenistic scholars and mythographers. The fragments illustrate how island communities integrated local traditions into broader Panhellenic narratives.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "gue-aa",
+      "title": {
+        "english": "Periplus of the Propontis",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "androetas-of-tenos-periplus-propontis-gue-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/androetas-of-tenos/periplus-propontis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/androetas-of-tenos-periplus-propontis-gue-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/androetas-of-tenos-periplus-propontis-gue-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/androetas-of-tenos-periplus-propontis-gue-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/androetas-of-tenos-periplus-propontis-gue-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/androetas-of-tenos/periplus-propontis.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/androetas-of-tenos",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/androetas-of-tenos-gue.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/androetas-of-tenos-gue.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/androetas-of-tenos-gue.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/androetas-of-tenos-gue.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

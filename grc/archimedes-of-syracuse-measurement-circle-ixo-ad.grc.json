@@ -1,0 +1,433 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ixo-ad",
+  "eul_aid": "ixo",
+  "author_slug": "archimedes-of-syracuse",
+  "work_slug": "measurement-circle",
+  "url_slug": "archimedes-of-syracuse-measurement-circle-ixo-ad",
+  "author": {
+    "english": "Archimedes of Syracuse",
+    "ancient_greek": "Ἀρχιμήδης ὁ Συρακούσιος"
+  },
+  "title": {
+    "english": "Measurement of the Circle",
+    "ancient_greek": "Κύκλου Μέτρησις"
+  },
+  "seo": {
+    "browser_title": "Measurement of the Circle by Archimedes on Eulogikon",
+    "meta_title": "Ancient Measurement of the Circle by Archimedes in Greek",
+    "meta_description": "Archimedes' treatise on the area and circumference of a circle. Three key geometry propositions. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Μαθηματικά",
+      "english": "Mathematics",
+      "href": "/domains/mathematics"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>Measurement of the Circle</strong> is a concise mathematical treatise by Archimedes of Syracuse, composed around 250 BCE. The work establishes three fundamental geometric propositions concerning the circle. The first demonstrates that the area of a circle is equal to that of a right-angled triangle whose legs are the circle&#x27;s radius and circumference. The second proves that the ratio of a circle&#x27;s area to the square of its diameter is constant. The third and most celebrated proposition approximates the value of the constant now known as pi (π), showing it to be greater than 3 10/71 and less than 3 1/7. Archimedes derived this remarkably precise estimate using the method of exhaustion, a rigorous geometric technique involving inscribed and circumscribed polygons.</p>\n<p class=\"research-text\">The treatise as it survives is likely a later summary or compilation rather than Archimedes&#x27;s original text, but the core mathematical achievements are authentically his. Written for a specialist audience, it exemplifies the Greek tradition of geometric proof and addresses the classical problem of squaring the circle through ratio and approximation rather than exact construction. Though the original Greek is lost, the work was preserved and transmitted through later copies and translations into Arabic and Latin. Archimedes&#x27;s approximation for π remained the most accurate known value for over a millennium, securing the treatise&#x27;s profound influence on medieval Islamic scholars and the subsequent development of European mathematics.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1.138",
+      "text": "αʹ. Πᾶς κύκλος ἴσος ἐστὶ τριγώνῳ ὀρθογωνίῳ, οὗ ἡ μὲν ἐκ τοῦ κέντρου ἴση μιᾷ τῶν περὶ τὴν ὀρθήν, ἡ δὲ περίμετρος τῇ βάσει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.139",
+      "text": "Ἐχέτω ὁ ΑΒΓΔ κύκλος τριγώνῳ τῷ Ε, ὡς ὑπόκειται· λέγω ὅτι ἴσος ἐστίν. [Omitted graphic marker] Εἰ γὰρ δυνατόν, ἔστω μείζων ὁ κύκλος, καὶ ἐγγεγράφθω τὸ ΑΓ τετράγωνον, καὶ τετμήσθωσαν αἱ περιφέρειαι δίχα, καὶ ἔστω τὰ τμήματα ἤδη ἐλάσσονα τῆς ὑπεροχῆς, ᾗ ὑπερέχει ὁ κύκλος τοῦ τριγώνου· τὸ εὐθύγραμμον ἄρα ἔτι τοῦ τριγώνου ἐστὶ μεῖζον. Εἰλήφθω κέντρον τὸ Ν καὶ κάθετος ἡ ΝΞ· ἐλάσσων ἄρα ἡ ΝΞ τῆς τοῦ τριγώνου πλευρᾶς. Ἔστιν δὲ καὶ ἡ περίμετρος τοῦ εὐθυγράμμου τῆς .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.140",
+      "text": "λοιπῆς ἐλάττων, ἐπεὶ καὶ τῆς τοῦ κύκλου περιμέτρου· ἔλαττον ἄρα τὸ εὐθύγραμμον τοῦ Ε τριγώνου· ὅπερ ἄτοπον. [Omitted graphic marker] Ἔστω δὲ ὁ κύκλος, εἰ δυνατόν, ἐλάσσων τοῦ Ε τριγώνου, καὶ περιγεγράφθω τὸ τετράγωνον, καὶ τετμήσθωσαν αἱ περιφέρειαι δίχα, καὶ ἤχθωσαν ἐφαπτόμεναι διὰ τῶν σημείων· ὀρθὴ ἄρα ἡ ὑπὸ ΟΑΡ. Ἡ ΟΡ ἄρα τῆς ΜΡ ἐστὶν μείζων· ἡ γὰρ ΡΜ τῇ ΡΑ ἴση ἐστί· καὶ τὸ ΡΟΠ τρίγωνον ἄρα τοῦ ΟΖΑΜ σχήματος μεῖζόν ἐστιν ἢ τὸ ἥμισυ. Λελεί φθωσαν οἱ τῷ ΠΖΑ τομεῖ ὅμοιοι ἐλάσσους τῆς ὑπεροχῆς, ᾗ ὑπερέχει τὸ Ε τοῦ ΑΒΓΔ κύκλου· ἔτι ἄρα τὸ περιγεγραμμένον εὐθύγραμμον τοῦ Ε ἐστὶν ἔλασσον· ὅπερ ἄτοπον· ἔστιν γὰρ μεῖζον, ὅτι ἡ μὲν ΝΑ ἴση ἐστὶ τῇ καθέτῳ τοῦ τριγώνου, ἡ δὲ περίμετρος μείζων ἐστὶ τῆς βάσεως τοῦ τριγώνου. Ἴσος ἄρα ὁ κύκλος τῷ Ε τριγώνῳ. βʹ. Ὁ κύκλος πρὸς τὸ ἀπὸ τῆς διαμέτρου τετράγωνον λόγον ἔχει, ὃν ια πρὸς ιδ . Ἔστω κύκλος, οὗ διάμετρος ἡ ΑΒ, καὶ περιγεγράφθω τετράγωνον τὸ ΓΗ, καὶ τῆς ΓΔ διπλῆ ἡ ΔΕ, ἕβδομον δὲ ἡ ΕΖ τῆς ΓΔ. Ἐπεὶ οὖν τὸ ΑΓΕ πρὸς τὸ ΑΓΔ λόγον ἔχει, ὃν κα πρὸς ζ , πρὸς δὲ τὸ ΑΕΖ τὸ ΑΓΔ λόγον ἔχει, ὃν ἑπτὰ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.141",
+      "text": "πρὸς ἕν, τὸ ΑΓΖ πρὸς τὸ ΑΓΔ ἐστίν, ὡς κβ πρὸς ζ . Ἀλλὰ τοῦ ΑΓΔ τετραπλάσιόν ἐστι τὸ ΓΗ τετράγωνον, τὸ δὲ ΑΓΔΖ τρίγωνον τῷ ΑΒ κύκλῳ ἴσον ἐστίν [ἐπεὶ ἡ μὲν ΑΓ κάθετος ἴση ἐστὶ τῇ ἐκ τοῦ κέντρου, ἡ δὲ βάσις τῆς διαμέ[Omitted graphic marker] τρου τριπλασίων καὶ τῷ ζʹ ἔγγιστα ὑπερέχουσα δειχθήσεται]· ὁ κύκλος οὖν πρὸς τὸ ΓΗ τετράγωνον λόγον ἔχει, ὃν ια πρὸς ιδ . γʹ. Παντὸς κύκλου ἡ περίμετρος τῆς διαμέτρου τριπλασίων ἐστὶ καὶ ἔτι ὑπερέχει ἐλάσσονι μὲν ἢ ἑβδόμῳ μέρει τῆς διαμέτρου, μείζονι δὲ ἢ δέκα ἑβδομηκοστομόνοις. Ἔστω κύκλος καὶ διάμετρος ἡ ΑΓ καὶ κέντρον τὸ Ε καὶ ἡ ΓΛΖ ἐφαπτομένη καὶ ἡ ὑπὸ ΖΕΓ τρίτου ὀρθῆς· ἡ ΕΖ ἄρα πρὸς ΖΓ λόγον ἔχει, ὃν τϛ πρὸς ρνγ , ἡ δὲ ΕΓ πρὸς [τὴν] ΓΖ λόγον ἔχει, ὃν σξε πρὸς ρνγ . Τετμήσθω οὖν ἡ ὑπὸ ΖΕΓ δίχα τῇ ΕΗ· ἔστιν ἄρα, ὡς ἡ ΖΕ πρὸς ΕΓ, ἡ ΖΗ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.142",
+      "text": "πρὸς ΗΓ [καὶ ἐναλλὰξ καὶ συνθέντι]. Ὡς ἄρα συναμφότερος ἡ ΖΕ, ΕΓ πρὸς ΖΓ, ἡ ΕΓ πρὸς ΓΗ· ὥστε ἡ ΓΕ πρὸς ΓΗ μείζονα λόγον ἔχει ἤπερ φοα πρὸς ρνγ . Ἡ ΕΗ ἄρα πρὸς ΗΓ δυνάμει λόγον ἔχει, ὃν Μ λδ ͵ θυν πρὸς Μ β ͵ γυθ · μήκει ἄρα, ὃν φϙα ηʹ πρὸς ρνγ . Πάλιν δίχα ἡ ὑπὸ ΗΕΓ [Omitted graphic marker] τῇ ΕΘ· διὰ τὰ αὐτὰ ἄρα ἡ ΕΓ πρὸς ΓΘ μείζονα λόγον ἔχει ἢ ὃν ͵ αρξβ ηʹ πρὸς ρνγ · ἡ ΘΕ ἄρα πρὸς ΘΓ μείζονα λόγον ἔχει ἢ ὃν ͵ αροβ ηʹ πρὸς ρνγ . Ἔτι δίχα ἡ ὑπὸ ΘΕΓ τῇ ΕΚ· ἡ ΕΓ ἄρα πρὸς ΓΚ μείζονα λόγον ἔχει ἢ ὃν ͵ βτλδ δ’ πρὸς ρνγ · ἡ ΕΚ ἄρα πρὸς ΓΚ μείζονα ἢ ὃν ͵ βτλθ δ’ πρὸς ρνγ . Ἔτι δίχα ἡ ὑπὸ ΚΕΓ τῇ ΛΕ· ἡ ΕΓ ἄρα πρὸς ΛΓ μείζονα [μήκει] λόγον ἔχει ἤπερ τὰ ͵ δχογ 𐅵 ʹ πρὸς ρνγ . Ἐπεὶ οὖν ἡ ὑπὸ ΖΕΓ τρίτου οὖσα ὀρθῆς τέτμηται τετράκις δίχα, ἡ ὑπὸ ΛΕΓ ὀρθῆς ἐστι μηʹ. Κείσθω οὖν αὐτῇ ἴση πρὸς τῷ Ε ἡ ὑπὸ ΓΕΜ· ἡ ἄρα ὑπὸ ΛΕΜ ὀρθῆς ἐστι κδʹ. Καὶ ἡ ΛΜ ἄρα εὐθεῖα τοῦ περὶ τὸν κύκλον ἐστὶ πολυγώνου πλευρὰ πλευρὰς ἔχοντος ϙϛ. Ἐπεὶ οὖν ἡ ΕΓ πρὸς τὴν .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.143",
+      "text": "ΓΛ ἐδείχθη μείζονα λόγον ἔχουσα ἤπερ ͵ δχογ 𐅵 ʹ πρὸς ρνγ , ἀλλὰ τῆς μὲν ΕΓ διπλῆ ἡ ΑΓ, τῆς δὲ ΓΛ διπλασίων ἡ ΛΜ, καὶ ἡ ΑΓ ἄρα πρὸς τὴν τοῦ ϙϛ γώνου περίμετρον μείζονα λόγον ἔχει ἤπερ ͵ δχογ 𐅵 ʹ πρὸς Μ α ͵ δχπη . Καί ἐστιν τριπλα σία, καὶ ὑπερέχουσιν χξζ 𐅵 ʹ, ἅπερ τῶν ͵ δχογ 𐅵 ʹ ἐλάττονά ἐστιν ἢ τὸ ἕβδομον· ὥστε τὸ πολύγωνον τὸ περὶ τὸν κύκλον τῆς διαμέτρου ἐστὶ τριπλάσιον καὶ ἐλάττονι ἢ τῷ ἑβδόμῳ μέρει μεῖζον· ἡ τοῦ κύκλου ἄρα περίμετρος πολὺ μᾶλλον ἐλάσσων ἐστὶν ἢ τριπλασίων καὶ ἑβδόμῳ μέρει μείζων. [Omitted graphic marker] Ἔστω κύκλος καὶ διάμετρος ἡ ΑΓ, ἡ δὲ ὑπὸ ΒΑΓ τρίτου ὀρθῆς· ἡ ΑΒ ἄρα πρὸς ΒΓ ἐλάσσονα λόγον ἔχει ἢ ὃν ͵ ατνα πρὸς ψπ [ἡ δὲ ΑΓ πρὸς ΓΒ, ὃν ͵ αφξ πρὸς ψπ ]. Δίχα ἡ ὑπὸ ΒΑΓ τῇ ΑΗ. Ἐπεὶ οὖν ἴση ἐστὶν ἡ ὑπὸ ΒΑΗ τῇ ὑπὸ ΗΓΒ, ἀλλὰ καὶ τῇ ὑπὸ ΗΑΓ, καὶ ἡ ὑπὸ ΗΓΒ τῇ ὑπὸ ΗΑΓ ἐστὶν ἴση. Καὶ κοινὴ ἡ ὑπὸ ΑΗΓ ὀρθή· καὶ τρίτη ἄρα ἡ ὑπὸ ΗΖΓ τρίτῃ τῇ ὑπὸ ΑΓΗ ἴση. Ἰσογώνιον ἄρα τὸ ΑΗΓ τῷ ΓΗΖ τριγώνῳ· ἔστιν ἄρα, ὡς ἡ ΑΗ πρὸς ΗΓ, ἡ ΓΗ πρὸς ΗΖ καὶ ἡ ΑΓ πρὸς ΓΖ. Ἀλλ’ ὡς ἡ ΑΓ πρὸς ΓΖ, [καὶ] συναμφότερος ἡ ΓΑΒ πρὸς ΒΓ· καὶ ὡς συναμφότερος ἄρα ἡ ΒΑΓ πρὸς ΒΓ, ἡ ΑΗ πρὸς ΗΓ. Διὰ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.143",
+      "text": "τοῦτο οὖν ἡ ΑΗ πρὸς [τὴν] ΗΓ ἐλάσσονα λόγον ἔχει ἤπερ βϡια πρὸς ψπ, ἡ δὲ ΑΓ πρὸς τὴν ΓΗ ἐλάσσονα ἢ ὃν ͵ γιγ 𐅵 ʹ δʹ πρὸς ψπ . Δίχα ἡ ὑπὸ ΓΑΗ τῇ ΑΘ· ἡ ΑΘ ἄρα διὰ τὰ αὐτὰ πρὸς τὴν ΘΓ ἐλάσσονα λόγον ἔχει ἢ ὃν ͵ εϡκδ 𐅵 ʹ δʹ πρὸς ψπ ἢ ὃν ͵ αωκγ πρὸς σμ · ἑκατέρα γὰρ ἑκατέρας δ ιγʹ· ὥστε ἡ ΑΓ πρὸς τὴν ΓΘ ἢ ὃν ͵ αωλη θ ιαʹ πρὸς σμ . Ἔτι δίχα ἡ ὑπὸ ΘΑΓ τῇ ΚΑ· καὶ ἡ ΑΚ πρὸς τὴν ΚΓ ἐλάσσονα [ἄρα] λόγον ἔχει ἢ ὃν ͵ αζ πρὸς ξϛ · ἑκατέρα γὰρ ἑκατέρας ια μʹ. Ἡ ΑΓ ἄρα πρὸς [τὴν] ΚΓ ἢ ὃν ͵ αθ ϛʹ πρὸς ξϛ . Ἔτι δίχα ἡ ὑπὸ ΚΑΓ τῇ ΛΑ· ἡ ΑΛ ἄρα πρὸς [τὴν] ΛΓ ἐλάσσονα λόγον ἔχει ἢ ὃν τὰ βιϛ ϛʹ πρὸς ξϛ, ἡ δὲ ΑΓ πρὸς ΓΛ ἐλάσσονα ἢ τὰ ͵ βιζ δʹ πρὸς ξϛ . Ἀνάπαλιν ἄρα ἡ περίμετρος τοῦ πολυγώνου πρὸς τὴν διάμετρον μείζονα λόγον ἔχει ἤπερ ͵ ϛτλϛ πρὸς ͵ βιζ δʹ, ἅπερ τῶν ͵ βιζ δʹ μείζονά ἐστιν ἢ τριπλασίονα καὶ δέκα οαʹ· καὶ ἡ περίμετρος ἄρα τοῦ ϙϛ γώνου τοῦ ἐν τῷ κύκλῳ τῆς διαμέτρου τριπλασίων ἐστὶ καὶ μείζων ἢ ι οαʹ· ὥστε καὶ ὁ κύκλος ἔτι μᾶλλον τριπλασίων ἐστὶ καὶ μείζων ἢ ι οαʹ. Ἡ ἄρα τοῦ κύκλου περίμετρος τῆς διαμέτρου τριπλασίων ἐστὶ καὶ ἐλάσσονι μὲν ἢ ἑβδόμῳ μέρει, μείζονι δὲ ἢ ι οαʹ μείζων.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ixo-ag",
+      "title": {
+        "english": "Book of Assumptions",
+        "ancient_greek": "Βιβλίον Ὑποθέσεων"
+      },
+      "url_slug": "archimedes-of-syracuse-assumptions-ixo-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/assumptions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-assumptions-ixo-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-assumptions-ixo-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-assumptions-ixo-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-assumptions-ixo-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/assumptions.epub"
+      }
+    },
+    {
+      "eul_wid": "ixo-aj",
+      "title": {
+        "english": "Cattle Problem (Long Version)",
+        "ancient_greek": "Βοῦς Πρόβλημα"
+      },
+      "url_slug": "archimedes-of-syracuse-cattle-problem-aj-ixo-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/cattle-problem-aj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-cattle-problem-aj-ixo-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-cattle-problem-aj-ixo-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-cattle-problem-aj-ixo-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-cattle-problem-aj-ixo-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/cattle-problem-aj.epub"
+      }
+    },
+    {
+      "eul_wid": "ixo-ak",
+      "title": {
+        "english": "Cattle Problem (Short Version)",
+        "ancient_greek": "Βοῦς Πρόβλημα"
+      },
+      "url_slug": "archimedes-of-syracuse-cattle-problem-ak-ixo-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/cattle-problem-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-cattle-problem-ak-ixo-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-cattle-problem-ak-ixo-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-cattle-problem-ak-ixo-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-cattle-problem-ak-ixo-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/cattle-problem-ak.epub"
+      }
+    },
+    {
+      "eul_wid": "ixo-af",
+      "title": {
+        "english": "Method to Eratosthenes",
+        "ancient_greek": "Μέθοδος πρὸς Ἐρατοσθένην"
+      },
+      "url_slug": "archimedes-of-syracuse-method-eratosthenes-ixo-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/method-eratosthenes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-method-eratosthenes-ixo-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-method-eratosthenes-ixo-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-method-eratosthenes-ixo-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-method-eratosthenes-ixo-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/method-eratosthenes.epub"
+      }
+    },
+    {
+      "eul_wid": "ixo-an",
+      "title": {
+        "english": "On Archimedean Polyhedra",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "archimedes-of-syracuse-polyhedra-ixo-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/polyhedra",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-polyhedra-ixo-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-polyhedra-ixo-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-polyhedra-ixo-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-polyhedra-ixo-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/polyhedra.epub"
+      }
+    },
+    {
+      "eul_wid": "ixo-ae",
+      "title": {
+        "english": "On Conoids and Spheroids",
+        "ancient_greek": "Περὶ Κωνοειδῶν καὶ Σφαιροειδῶν"
+      },
+      "url_slug": "archimedes-of-syracuse-conoids-spheroids-ixo-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/conoids-spheroids",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-conoids-spheroids-ixo-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-conoids-spheroids-ixo-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-conoids-spheroids-ixo-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-conoids-spheroids-ixo-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/conoids-spheroids.epub"
+      }
+    },
+    {
+      "eul_wid": "ixo-ah",
+      "title": {
+        "english": "On Floating Bodies",
+        "ancient_greek": "Περὶ Τῶν Ἐπιπλεόντων Σωμάτων"
+      },
+      "url_slug": "archimedes-of-syracuse-floating-bodies-ixo-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/floating-bodies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-floating-bodies-ixo-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-floating-bodies-ixo-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-floating-bodies-ixo-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-floating-bodies-ixo-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/floating-bodies.epub"
+      }
+    },
+    {
+      "eul_wid": "ixo-ai",
+      "title": {
+        "english": "On Spiral Lines",
+        "ancient_greek": "Περὶ Ἑλίκων Γραμμῶν"
+      },
+      "url_slug": "archimedes-of-syracuse-spirals-ixo-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/spirals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-spirals-ixo-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-spirals-ixo-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-spirals-ixo-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-spirals-ixo-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/spirals.epub"
+      }
+    },
+    {
+      "eul_wid": "ixo-aa",
+      "title": {
+        "english": "On the Equilibrium of Planes",
+        "ancient_greek": "Περὶ Ἰσορροπίας Ἐπιπέδων"
+      },
+      "url_slug": "archimedes-of-syracuse-equilibrium-planes-ixo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/equilibrium-planes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-equilibrium-planes-ixo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-equilibrium-planes-ixo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-equilibrium-planes-ixo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-equilibrium-planes-ixo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/equilibrium-planes.epub"
+      }
+    },
+    {
+      "eul_wid": "ixo-ab",
+      "title": {
+        "english": "On the Sphere and Cylinder",
+        "ancient_greek": "Περὶ Σφαίρας καὶ Κυλίνδρου"
+      },
+      "url_slug": "archimedes-of-syracuse-sphere-cylinder-ixo-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/sphere-cylinder",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-sphere-cylinder-ixo-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-sphere-cylinder-ixo-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-sphere-cylinder-ixo-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-sphere-cylinder-ixo-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/sphere-cylinder.epub"
+      }
+    },
+    {
+      "eul_wid": "ixo-ac",
+      "title": {
+        "english": "Quadrature of the Parabola",
+        "ancient_greek": "Παραβολῆς Τετραγωνισμός"
+      },
+      "url_slug": "archimedes-of-syracuse-quadrature-parabola-ixo-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/quadrature-parabola",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-quadrature-parabola-ixo-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-quadrature-parabola-ixo-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-quadrature-parabola-ixo-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-quadrature-parabola-ixo-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/quadrature-parabola.epub"
+      }
+    },
+    {
+      "eul_wid": "ixo-al",
+      "title": {
+        "english": "Sand Reckoner",
+        "ancient_greek": "Ψαμμίτης"
+      },
+      "url_slug": "archimedes-of-syracuse-sand-reckoner-ixo-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/sand-reckoner",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-sand-reckoner-ixo-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-sand-reckoner-ixo-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-sand-reckoner-ixo-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-sand-reckoner-ixo-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/sand-reckoner.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "uvy-ad",
+      "title": {
+        "english": "Commentary-Conics",
+        "ancient_greek": "Ὑπόμνημα εἰς τὰ Κωνικά"
+      },
+      "url_slug": "eutocius-of-ascalon-commentary-conics-uvy-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/eutocius-of-ascalon/commentary-conics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutocius-of-ascalon-commentary-conics-uvy-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutocius-of-ascalon-commentary-conics-uvy-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutocius-of-ascalon-commentary-conics-uvy-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutocius-of-ascalon-commentary-conics-uvy-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutocius-of-ascalon/commentary-conics.epub"
+      }
+    },
+    {
+      "eul_wid": "spw-ab",
+      "title": {
+        "english": "Commentary-Ptolemy's Mathematical Syntax I–IV",
+        "ancient_greek": "Ὑπόμνημα εἰς Πτολεμαίου Μαθηματικὴν Σύνταξιν Α'-Δ'"
+      },
+      "url_slug": "theon-of-alexandria-commentary-ptolemy-syntax-spw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/theon-of-alexandria/commentary-ptolemy-syntax",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria-commentary-ptolemy-syntax-spw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria-commentary-ptolemy-syntax-spw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria-commentary-ptolemy-syntax-spw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria-commentary-ptolemy-syntax-spw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria/commentary-ptolemy-syntax.epub"
+      }
+    },
+    {
+      "eul_wid": "iaw-ac",
+      "title": {
+        "english": "Data Other Demonstrations",
+        "ancient_greek": "Δεδομένα καὶ Ἄλλαι Ἀποδείξεις"
+      },
+      "url_slug": "euclid-of-alexandria-data-other-demonstrations-iaw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/euclid-of-alexandria/data-other-demonstrations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-data-other-demonstrations-iaw-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-data-other-demonstrations-iaw-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-data-other-demonstrations-iaw-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-data-other-demonstrations-iaw-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/data-other-demonstrations.epub"
+      }
+    },
+    {
+      "eul_wid": "iaw-am",
+      "title": {
+        "english": "Elements",
+        "ancient_greek": "Στοιχεῖα"
+      },
+      "url_slug": "euclid-of-alexandria-elements-am-iaw-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/euclid-of-alexandria/elements-am",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-elements-am-iaw-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-elements-am-iaw-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-elements-am-iaw-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-elements-am-iaw-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-am.epub"
+      }
+    },
+    {
+      "eul_wid": "sam-ab",
+      "title": {
+        "english": "On the Section of a Cone",
+        "ancient_greek": "Περὶ Κώνου Τομῆς"
+      },
+      "url_slug": "serenus-of-antinoopolis-section-cone-sam-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/serenus-of-antinoopolis/section-cone",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/serenus-of-antinoopolis-section-cone-sam-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/serenus-of-antinoopolis-section-cone-sam-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/serenus-of-antinoopolis-section-cone-sam-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/serenus-of-antinoopolis-section-cone-sam-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/serenus-of-antinoopolis/section-cone.epub"
+      }
+    },
+    {
+      "eul_wid": "sam-aa",
+      "title": {
+        "english": "On the Section of a Cylinder",
+        "ancient_greek": "Περὶ Κυλίνδρου Τομῆς"
+      },
+      "url_slug": "serenus-of-antinoopolis-section-cylinder-sam-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/serenus-of-antinoopolis/section-cylinder",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/serenus-of-antinoopolis-section-cylinder-sam-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/serenus-of-antinoopolis-section-cylinder-sam-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/serenus-of-antinoopolis-section-cylinder-sam-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/serenus-of-antinoopolis-section-cylinder-sam-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/serenus-of-antinoopolis/section-cylinder.epub"
+      }
+    },
+    {
+      "eul_wid": "iaw-ah",
+      "title": {
+        "english": "Phenomena",
+        "ancient_greek": "Φαινόμενα"
+      },
+      "url_slug": "euclid-of-alexandria-phenomena-iaw-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/euclid-of-alexandria/phenomena",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-phenomena-iaw-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-phenomena-iaw-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-phenomena-iaw-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria-phenomena-iaw-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/phenomena.epub"
+      }
+    },
+    {
+      "eul_wid": "owy-ab",
+      "title": {
+        "english": "Theological Arithmetic",
+        "ancient_greek": "Θεολογικὴ ἀριθμητική"
+      },
+      "url_slug": "nicomachus-of-gerasa-theological-arithmetic-owy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicomachus-of-gerasa/theological-arithmetic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-of-gerasa-theological-arithmetic-owy-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-of-gerasa-theological-arithmetic-owy-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-of-gerasa-theological-arithmetic-owy-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-of-gerasa-theological-arithmetic-owy-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-of-gerasa/theological-arithmetic.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/archimedes-of-syracuse/measurement-circle",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-measurement-circle-ixo-ad.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-measurement-circle-ixo-ad.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-measurement-circle-ixo-ad.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse-measurement-circle-ixo-ad.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/measurement-circle.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

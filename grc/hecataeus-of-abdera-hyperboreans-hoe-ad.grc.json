@@ -1,0 +1,380 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "hoe-ad",
+  "eul_aid": "hoe",
+  "author_slug": "hecataeus-of-abdera",
+  "work_slug": "hyperboreans",
+  "url_slug": "hecataeus-of-abdera-hyperboreans-hoe-ad",
+  "author": {
+    "english": "Hecataeus of Abdera",
+    "ancient_greek": "Ἑκαταῖος ὁ Ἀβδηρίτης"
+  },
+  "title": {
+    "english": "On the Hyperboreans",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "On the Hyperboreans by Hecataeus of Abdera on Eulogikon",
+    "meta_title": "On the Hyperboreans by Hecataeus of Abdera in Greek",
+    "meta_description": "Fragments of Hecataeus of Abdera's rational ethnographic study of the mythical Hyperboreans. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On the Hyperboreans</strong> was a prose treatise by the early Hellenistic historian and ethnographer Hecataeus of Abdera, composed around 300 BCE. The work is now lost, and its contents are known only through fragments and summaries preserved by later authors such as Diodorus Siculus, Strabo, and Aelian. It presented a rationalizing, ethnographic account of the mythical Hyperboreans, a people traditionally located in a blessed, distant northern land. Hecataeus systematically reinterpreted these figures from legend, portraying them not as poetic fantasy but as a real and virtuous society. He described them as living in a temperate climate, devoted to the worship of Apollo, and free from the common ills of strife, disease, and old age. The treatise is considered a prime example of Hellenistic rationalization of myth, transforming legendary narratives into a plausible historical and geographical description of an idealized, utopian community. Through this work, Hecataeus sought to provide logical explanations for traditional stories, such as the ritual journey of symbolic Hyperborean gifts to the sanctuary of Apollo at Delos.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "tit,1-5",
+      "text": "ΕΚΑΤΑΙΟΥ ΠΕΡΙ ΥΠΕΡΒΟΡΕΩΝ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "STEPH. BYZ. Ἐλίξοια νῆσος Ὑπερβορέων οὐκ ἐλάσσων Σικελίας ὑπὲρ ποταμοῦ Καραμβύκα. οἱ νησιῶται Καραμβῦκαι ἀπὸ τοῦ ποταμοῦ, ὡς Ἑ. ὁ Ἀβδηρίτης [vgl. s. v. Καραμβῦκαι]. [6] STRAB. VII 299 τὴν παρὰ Θεοπόμπωι [F GrHist. 115 F 75 II 552] Μεροπίδα γῆν, παρ’ Ἑκαταίωι δὲ Κιμμερίδα πόλιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "PLIN. N. H. VI 55 de his [ Attacori] privatim condidit volumen Amometus, sicut H. de Hyperboreis. IV 94 septentrionalis oceanus: Amalchium eum H. appellat a Parapaniso amne qua Scythiam adluit, quod nomen eius gentis lingua significat ‘congelatum‘.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "AEL. N. H. XI 1 ἀνθρώπων Ὑπερβορέων γένος καὶ τιμὰς Ἀπόλλωνος τὰς ἐκεῖθι ἄιδουσι μὲν ποιηταί, ὑμνοῦσι δὲ καὶ συγγραφεῖς, ἐν δὲ τοῖς καὶ Ἑ. ὁ Μιλήσιος οὔ, ἀλλ’ ὁ Ἀβδηρίτης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "SCHOL. APOLL. II 675 Ἑ. δὲ μέχρι τῶν αὑτοῦ χρόνων εἶναί φησι τὸ τῶν Ὑπερβορέων ἔθνος. ἔστι δὲ αὐτῶι βιβλία ἐπιγραφόμενα Περὶ Ὑπερβορέω ν . τιμᾶται δὲ παρὰ τοῖς Ὑπερβορέοις ὁ Ἀπόλλων· διὸ καὶ ἐκεῖσε χωρῶν ὤφθη. τρία δὲ ἔθνη τῶν Ὑπερβορέων 〈...〉, Ἐπιζεφύριοι καὶ Ἐπικνημίδιοι καὶ Ὀζόλαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "DIODOR. II 47, 1ff. τῶν γὰρ τὰς παλαιὰς μυθολογίας ἀναγεγραφότων Ἑ. καί τινες ἕτεροί φασιν ἐν τοῖς ἀντιπέρας τῆς Κελτικῆς τόποις κατὰ τὸν ὠκεανὸν εἶναι νῆσον οὐκ ἐλάττω τῆς Σικελίας. ταύτην ὑπάρχειν μὲν κατὰ τὰς ἄρκτους, κατοικεῖσθαι δὲ ὑπὸ τῶν ὀνομαζομένων Ὑπερβορέων ἀπὸ τοῦ πορρωτέρω κεῖσθαι τῆς βορείου πνοῆς· οὖσαν δ’ αὐτὴν εὔγειόν τε καὶ πάμφορον, ἔτι δ’ εὐκρασίαι διαφέρουσαν, διττοὺς κατ’ ἔτος ἐκφέρειν καρπούς. (5) φασὶ δὲ καὶ τὴν σελήνην ἐκ ταύτης τῆς νήσου φαίνεσθαι παντελῶς ὀλίγον ἀπέχουσαν τῆς γῆς καί τινας ἐξοχὰς γεώδεις ἔχουσαν ἐν αὑτῆι φανεράς. (6) λέγεται δὲ καὶ τὸν θεὸν δι’ ἐτῶν ιθ καταντᾶν εἰς τὴν νῆσον, ἐν οἷς αἱ τῶν ἄστρων ἀποκαταστάσεις ἐπὶ τέλος ἄγονται· καὶ διὰ τοῦτο τὸν ἐννεακαιδεκαετῆ χρόνον ὑπὸ τῶν Ἑλλήνων μέγαν ἐνιαυτὸν ὀνομάζεσθαι. (7) κατὰ δὲ τὴν ἐπιφάνειαν ταύτην τὸν θεὸν κιθαρίζειν τε καὶ χορεύειν συνεχῶς τὰς νύκτας ἀπὸ ἰσημερίας ἐαρινῆς ἕως πλειάδος ἀνατολῆς ἐπὶ τοῖς ἰδίοις εὐημερήμασι τερπόμενον. βασιλεύειν δὲ τῆς πόλεως ταύτης καὶ τοῦ τεμένους ἐπάρχειν τοὺς ὀνομαζομένους Βορεάδας ἀπογόνους ὄντας Βορέου καὶ κατὰ γένος ἀεὶ διαδέχεσθαι τὰς ἀρχάς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "tit,6-13a",
+      "text": "ΠΕΡΙ ΤΗΣ ΑΙΓΥΠΤΙΩΝ ΦΙΛΟΣΟΦΙΑΣ ΑΒ [...?] (ΑΙΓΥΠΤΙΑΚΩΝ?)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "DIOG. I 9—11 (9) ὃς [Theop. F Gr Hist. 115 F 64II 547] καὶ ἀναβιώσεσθαι κατὰ τοὺς Μάγους φησὶ τοὺς ἀνθρώπους καὶ ἀθανάτους ἔσεσθαι, καὶ τὰ ὄντα ταῖς αὑτῶν περικυκλήσεσι διαμενεῖν. ταῦτα δὲ καὶ Εὔδημος ὁ Ῥόδιος [fr. 51 Sp.] ἱστορεῖ. Ἑκαταῖος δὲ καὶ γενητοὺς τοὺς θεοὺς εἶναι κατ’ αὐτούς. Κλέαρχος δὲ ὁ Σολεὺς ἐν τῶι Περὶ παιδείας [fr. 28 FHG II 313] καὶ τοὺς Γυμνοσοφιστὰς ἀπογόνους εἶναι τῶν Μάγων φησίν· ἔνιοι δὲ καὶ τοὺς Ἰουδαίους ἐκ τούτων εἶναι. πρὸς τούτοις καταγινώσκουσιν Ἡροδότου οἱ τὰ περὶ Μάγων γράψαντες· μὴ γὰρ ἂν ἐς τὸν ἥλιον βέλη Ξέρξην ἀκοντίσαι, μηδ’ εἰς τὴν θάλασσαν πέδας καθεῖναι, θεοὺς ὑπὸ τῶν Μάγων παραδεδομένους. τὰ μέντοι ἀγάλματα εἰκότως καθαιρεῖν. (10) τὴν δὲ τῶν Αἰγυπτίων φιλοσοφίαν εἶναι τοιαύτην περί τε θεῶν καὶ ὑπὲρ δικαιοσύνης. φάσκειν τε ἀρχὴν μὲν εἶναι τὴν ὕλην, εἶτα τὰ τέσσαρα στοιχεῖα ἐξ αὐτῆς διακριθῆναι, καὶ ζῶια παντοῖα ἀποτελεσθῆναι. θεοὺς δ’ εἶναι ἥλιον καὶ σελήνην, τὸν μὲν Ὄσιριν, τὴν δ’ Ἶσιν καλουμένην· αἰνίττεσθαί τε αὐτοὺς διά τε κανθάρου καὶ δράκοντος καὶ ἱέρακος καὶ ἄλλων, ὥς φησι Μανέθως ἐν τῆι τῶν Φυσικῶν ἐπιτομῆι καὶ Ἑ. ἐν τῆι πρώτηι Περὶ τῆς Αἰγυπτίων φιλοσοφία ς. κατασκευάζειν δὲ 〈καὶ〉 ἀγάλματα καὶ τεμένη τῶι μὴ εἰδέναι τὴν τοῦ θεοῦ μορφήν. (11) τὸν κόσμον γενητὸν καὶ φθαρτὸν καὶ σφαιροειδῆ· τοὺς ἀστέρας πῦρ εἶναι, καὶ τῆι τούτων κράσει τὰ ἐπὶ γῆς γίγνεσθαι· σελήνην ἐκλείπειν εἰς τὸ σκίασμα τῆς γῆς ἐμπίπτουσαν· τὴν ψυχὴν καὶ ἐπιδιαμένειν καὶ μετεμβαίνειν· ὑετοὺς κατὰ ἀέρος τροπὴν ἀποτελεῖσθαι· τά τε ἄλλα φυσιολογεῖν, ὡς Ἑκαταῖός τε καὶ Ἀρισταγόρας ἱστοροῦσιν. ἔθεσαν δὲ καὶ νόμους ὑπὲρ δικαιοσύνης, οὓς εἰς Ἑρμῆν ἀνήνεγκαν· καὶ τὰ εὔχρηστα τῶν ζώιων θεοὺς ἐδόξασαν. λέγουσι δὲ καὶ ὡς αὐτοὶ γεωμετρίαν τε καὶ ἀστρολογίαν καὶ ἀριθμητικὴν ἀνεῦρον. καὶ τὰ μὲν περὶ τῆς εὑρέσεως ὧδε ἔχει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "DIODOR. I 11, 1ff. τοὺς δ’ οὖν κατ’ Αἴγυπτον ἀνθρώπους τὸ παλαιὸν γενομένους ἀναβλέψαντας εἰς τὸν κόσμον καὶ τὴν τῶν ὅλων φύσιν καταπλαγέντας τε καὶ θαυμάσαντας, ὑπολαβεῖν εἶναι δύο θεοὺς ἀιδίους τε καὶ πρώτους, τόν τε ἥλιον καὶ τὴν σελήνην, ὧν τὸν μὲν Ὄσιριν τὴν δὲ Ἶσιν ὀνομάσαι ... (5) τούτους δὲ τοὺς θεοὺς ὑφίστανται τὸν σύμπαντα κόσμον διοικεῖν τρέφοντάς τε καὶ αὔξοντας πάντα τριμερέσιν ὥραις ἀοράτωι κινήσει τὴν περίοδον ἀπαρτιζούσαις, τῆι τε ἐαρινῆι καὶ θερινῆι καὶ χειμερινῆι· ταύτας δ’ ἐναντιωτάτην ἀλλήλαις τὴν φύσιν ἐχούσας ἀπαρτίζειν τὸν ἐνιαυτὸν ἀρίστηι συμφωνίαι· φύσιν δὲ συμβάλλεσθαι πλείστην εἰς τὴν τῶν ἁπάντων ζωογονίαν τῶν θεῶν τούτων τὸν μὲν πυρώδους καὶ πνεύματος τὴν δὲ ὑγροῦ καὶ ξηροῦ, κοινῆι δ’ ἀμφοτέρους ἀέρος· καὶ διὰ τούτων πάντα γεννᾶσθαι καὶ τρέφεσθαι. (6) διὸ καὶ τὸ μὲν ἅπαν σῶμα τῆς τῶν ὅλων φύσεως ἐξ ἡλίου καὶ σελήνης ἀπαρτίζεσθαι, τὰ δὲ τούτων μέρη πέντε τὰ προειρημένα, τό τε πνεῦμα καὶ τὸ πῦρ καὶ τὸ ξηρόν, ἔτι δὲ τὸ ὑγρὸν καὶ τὸ τελευταῖον τὸ ἀερῶδες, ὥσπερ ἐπ’ ἀνθρώπου κεφαλὴν καὶ χεῖρας καὶ πόδας καὶ τἆλλα μέρη καταριθμοῦμεν, τὸν αὐτὸν τρόπον τὸ σῶμα τοῦ κόσμου συγκεῖσθαι πᾶν ἐκ τῶν προειρημένων. c. 12, 1 τούτων δ’ ἕκαστον θεὸν νομίσαι καὶ προσηγορίαν ἰδίαν ἑκάστωι θεῖναι κατὰ τὸ οἰκεῖον τοὺς πρώτους διαλέκτωι χρησαμένους διηρθρωμένηι τῶν κατ’ Αἴγυπτον ἀνθρώπων. (2) τὸ μὲν οὖν πνεῦμα Δία προσαγορεῦσαι ... (3) τὸ δὲ πῦρ μεθερμηνευόμενον Ἥφαιστον ὀνομάσαι νομίσαντας μέγαν εἶναι θεὸν καὶ πολλὰ συμβάλλεσθαι πᾶσιν εἰς γένεσίν τε καὶ τελείαν αὔξησιν. (4) τὴν δὲ γῆν ὥσπερ ἀγγεῖόν τι τῶν φυομένων ὑπολαμβάνοντας μητέρα προσαγορεῦσαι ... (5) τὸ δ’ ὑγρὸν ὀνομάσαι λέγουσι τοὺς παλαιοὺς Ὠκεάνην, ὃ μεθερμηνευόμενον μὲν εἶναι τροφὴν 〈ἢ〉 μητέρα ... (7) τὸν δ’ ἀέρα προσαγορεῦσαί φασιν Ἀθηνᾶν μεθερμηνευομένης τῆς λέξεως ... (9) φασὶ δὲ τοὺς πέντε θεοὺς τοὺς προειρημένους πᾶσαν τὴν οἰκουμένην ἐπιπορεύεσθαι φανταζομένους τοῖς ἀνθρώποις ἐν ἱερῶν ζώιων μορφαῖς, ἔστι δ’ ὅτε εἰς ἀνθρώπων ἰδέας ἤ τινων ἄλλων μεταβάλλοντας ... c. 13, 1 ἄλλους δὲ ἐκ τούτων ἐπιγείους γενέσθαι φασίν, ὑπάρξαντας μὲν θνητούς, διὰ δὲ σύνεσιν καὶ κοινὴν ἀνθρώπων εὐεργεσίαν τετευχότας τῆς ἀθανασίας, ὧν ἐνίους καὶ βασιλεῖς γεγονέναι κατὰ τὴν Αἴγυπτον. (2) μεθερμηνευομένων δ’ αὐτῶν τινὰς μὲν ὁμωνύμους ὑπάρχειν τοῖς οὐρανίοις, τινὰς δ’ ἰδίαν ἐσχηκέναι προσηγορίαν Ἥλιόν τε καὶ Κρόνον καὶ Ῥέαν ἔτι δὲ Δία τὸν ὑπό τινων Ἄμμωνα προσαγορευόμενον, πρὸς δὲ τούτοις Ἥραν καὶ Ἥφαιστον, ἔτι δ’ Ἑστίαν καὶ τελευταῖον Ἑρμῆν. καὶ πρῶτον μὲν Ἥλιον βασιλεῦσαι τῶν κατ’ Αἴγυπτον ὁμώνυμον ὄντα τῶι κατ’ οὐρανὸν ἄστρωι. (3) ἔνιοι δὲ τῶν ἱερέων φασὶ πρῶτον Ἥφαιστον βασιλεῦσαι πυρὸς εὑρετὴν γενόμενον ... (4) μετὰ δὲ ταῦτα τὸν Κρόνον ἄρξαι καὶ γήμαντα τὴν ἀδελφὴν Ῥέαν γεννῆσαι κατὰ μέν τινας τῶν μυθολόγων Ὄσιριν καὶ Ἶσιν, κατὰ δὲ τοὺς πλείστους Δία τε καὶ Ἥραν, οὓς δι’ ἀρετὴν βασιλεῦσαι τοῦ σύμπαντος κόσμου κτλ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "PLUT. de Is. et Os. 9 p. 354 CD τῶν πολλῶν νομιζόντων ἴδιον παρ’ Αἰγυπτίοις ὄνομα τοῦ Διὸς εἶναι τὸν Ἀμοῦν ... Ἑ. δ’ ὁ Ἀβδηρίτης φησὶ τούτωι καὶ πρὸς ἀλλήλους τῶι ῥήματι χρῆσθαι τοὺς Αἰγυπτίους, ὅταν τινὰ προσκαλῶνται· προσκλητικὴν γὰρ εἶναι τὴν φωνήν. διὸ τὸν πρῶτον θεόν, 〈ὃν〉 τῶι παντὶ τὸν αὐτὸν νομίζουσιν, ὡς ἀφανῆ καὶ κεκρυμμένον ὄντα προσκαλούμενοι καὶ παρακαλοῦντες ἐμφανῆ γενέσθαι καὶ δῆλον αὐτοῖς, Ἀμοῦν λέγουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "AËT. II 20, 16 (D. 351) Ἡράκλειτος [22 A 12] καὶ Ἑ. ἄναμμα νοερὸν τὸ ἐκ θαλάττης εἶναι τὸν ἥλιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "DIODOR. I 45, 2 διὸ καὶ πολλαῖς ὕστερον γενεαῖς βασιλεύοντα Τνέφαχθον τὸν Βοκχόριδος τοῦ σοφοῦ πατέρα λέγουσιν εἰς τὴν Ἀραβίαν στρατεύσαντα, τῶν ἐπιτηδείων αὐτὸν διά τε τὴν ἐρημίαν καὶ τὰς δυσχωρίας ἐκλιπόντων, ἀναγκασθῆναι μίαν ἡμέραν ἐνδεᾶ γενόμενον χρήσασθαι διαίτηι παντελῶς εὐτελεῖ παρά τισι τῶν τυχόντων ἰδιωτῶν, ἡσθέντα δὲ καθ’ ὑπερβολὴν καταγνῶναι τῆς τρυφῆς καὶ τῶι καταδείξαντι τὴν πολυτέλειαν ἐξ ἀρχῆς βασιλεῖ καταρᾶσθαι· οὕτω δ’ ἐγκάρδιον αὐτῶι τὴν μεταβολὴν γενέσθαι τὴν περὶ τὴν βρῶσιν καὶ πόσιν καὶ κοίτην, ὥστε τὴν κατάραν ἀναγράψαι τοῖς ἱεροῖς γράμμασιν εἰς τὸν τοῦ Διὸς ναὸν ἐν Θήβαις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "PLUT. de Is. 6 p. 353 AB οἶνον δ’ οἱ μὲν ἐν Ἡλίου πόλει θεραπεύοντες τὸν θεὸν οὐκ εἰσφέρουσι τὸ παράπαν εἰς τὸ ἱερόν, ὡς οὐ προσῆκον ὑπηρέτας πίνειν τοῦ κυρίου καὶ βασιλέως ἐφορῶντος [Ἡλίου]· οἱ δ’ ἄλλοι χρῶνται μέν, ὀλίγωι δέ. πολλὰς δ’ ἀοίνους ἁγνείας ἔχουσιν, ἐν αἷς φιλοσοφοῦντες καὶ μανθάνοντες καὶ διδάσκοντες τὰ θεῖα διατελοῦσιν. οἱ δὲ βασιλεῖς καὶ μετρητὸν ἔπινον ἐκ τῶν ἱερῶν γραμμάτων, ὡς Ἑ. ἱστόρηκεν, ἱερεῖς ὄντες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12",
+      "text": "DIOD. I 46, 8 οὐ μόνον δ’ οἱ κατ’ Αἴγυπτον ἱερεῖς ἐκ τῶν ἀναγραφῶν ἱστοροῦσιν, ἀλλὰ καὶ πολλοὶ τῶν Ἑλλήνων τῶν παραβαλόντων μὲν εἰς τὰς Θήβας ἐπὶ Πτολεμαίου τοῦ Λάγου, συνταξαμένων δὲ τὰς Αἰγυπτιακὰς ἱστορία ς, ὧν ἐστι καὶ Ἑ., συμφωνοῦσι τοῖς ὑφ’ ἡμῶν εἰρημένοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13",
+      "text": "—XL 3, 8 [Exc. Phot. bibl. c. 244] κατὰ δὲ τὰς ὕστερον γενομένας ἐπικρατείας ἐκ τῆς τῶν ἀλλοφύλων ἐπιμειξίας ἐπί τε τῆς τῶν Περσῶν ἡγεμονίας καὶ τῶν ταύτην καταλυσάντων Μακεδόνων πολλὰ τῶν πατρίων τοῖς Ἰουδαίοις νομίμων ἐκινήθη.: ἐπάγει γάρ· ‘περὶ μὲν τῶν Ἰουδαίων Ἑκαταῖος ὁ Μιλήσιος ταῦτα ἱστόρηκεν‘.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13a",
+      "text": "STEPH. BYZ. Διόσπολις ἡ μεγάλη πόλις τῆς Αἰγυπτίας Θηβαΐδος, ἡ λεγομένη ἑκατόμπυλος, κτίσμα Ὀσίριδος καὶ Ἴσιδος· πρὶν δὲ ὑπὸ Περσῶν ἀφανισθῆναι, φησὶν Ἑκαταῖος, ὅτι μυρίας τρισχιλίας κώμας εἶχε καὶ τριάκοντα, ἀνθρώπων δὲ μυριάδας ἑπτακοσίας, ἀρουρῶν δὲ τόπον μεμετρημένον τρισχιλίων καὶ ἑπτακοσίων, ἑκατὸν δὲ πύλας διακεκοσμημένας, τετρακόσια στάδια τὸ μῆκος. εἰσὶ δὲ καὶ ἄλλαι μικραὶ ἐν Αἰγύπτωι τέσσαρες ὧν ἐν τῆι μιᾶι τιθασεύουσι τοὺς κροκοδείλους ἐν ἄντροις καὶ φρέασι σέβοντες, μηδὲ τοῦ ποταμοῦ γευόμενοι, μηδ’ εἰ σφόδρα φλέγοιντο. PORPHYR. Quaest. hom. (zu Ι 383) I 138, 18 Schrad. νῦν δὲ Διόσπολις καλοῦνται αἱ τὸ παλαιὸν Θῆβαι, καί φασι δείκνυσθαι περὶ τὴν Διόσπολιν πολλῶν πυλῶν ἴχνη. ὡς δ’ Ἑκαταῖος ἱστορεῖ, ἡ Διόσπολις ἡ μεγάλη πρὸ τοῦ ὑπὸ Περσῶν ἀφανισθῆναι κώμας μὲν εἶχε τρισμυρίας γ〈τ〉λ , ἀνθρώπων δὲ μυριάδας ψ , ἑκατὸν δὲ πύλαις διεκοσμεῖτο. ταύτην ἐτείχισε βασιλεὺς Ὄσιρις. τινὲς δέ φασι τῶν ἱερέων, ὅτι ρ εἶχε πύλας, ἐξ ἑκάστης δὲ ὁπλῖται μύριοι, ψ δὲ ἵπποι ἐξεστράτευον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14 (tit)",
+      "text": "ΠΕΡΙ ΤΗΣ ΠΟΙΗΣΕΩΣ ΟΜΗΡΟΥ ΚΑΙ ΗΣΙΟΔΟΥ EROTIAN. p. 55, 7 Nachm. κυρβασίη ν· τὴν λεγομένην τιάραν. Ἑ. δέ φησιν, ὅτι πῖλον βαρβαρικὸν οἱ κωμικοὶ λέγουσι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "tit,15-17",
+      "text": "ΠΕΡΙ ΤΩΝ ΙΟΥΔΑΙΩΝ (ΠΕΡΙ ΑΒΡΑΜΟΥ)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "IOSEPH. c. Ap. I 183 Ἑ. δὲ ὁ Ἀβδηρίτης ἀνὴρ φιλόσοφος ἅμα καὶ περὶ τὰς πράξεις ἱκανώτατος Ἀλεξάνδρωι τῶι βασιλεῖ συνακμάσας καὶ Πτολεμαίωι τῶι Λάγου συγγενόμενος οὐ παρέργως, ἀλλὰ περὶ αὐτῶν Ἰουδαίων συγγέγραφε βιβλίον. 184—204; I 214 Ἑ. μὲν καὶ βιβλίον ἔγραψεν περὶ ἡμῶν. Abraham Ant. I 158. 159 μνημονεύει δὲ τοῦ πατρὸς ἡμῶν Ἀβράμου Βηρωσός ... Ἑ. δὲ καὶ τοῦ μνησθῆναι πλεῖόν τι πεποίηκε· βιβλίον γὰρ περὶ αὐτοῦ συνταξάμενος κατέλιπε. Vgl. CLEM. Strom. V [II 402, 20 St.] ὁ μὲν Σοφοκλῆς, ὥς φησιν Ἑ. ὁ τὰς ἱστορίας συνταξάμενος ἐν τῶι κα τ ’ Ἄβραμον καὶ τοὺς Αἰγυπτίου ς....",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16",
+      "text": "ORIG. c. Cels. I 15 καὶ Ἑκαταίου δὲ τοῦ ἱστορικοῦ φέρεται Περὶ Ἰουδαίων βιβλίον, ἐν ὧι προστίθεται μᾶλλόν πως ὡς σοφῶι τῶι ἔθνει ἐπὶ τοσοῦτον, ὡς καὶ Ἑρέννιον Φίλωνα ἐν τῶι Περὶ Ἰουδαίων συγγράμματι πρῶτον μὲν ἀμφιβάλλειν, εἰ τοῦ ἱστορικοῦ ἐστι τὸ σύγγραμμα, δεύτερον δὲ λέγειν ὅτι, εἴπερ ἔστιν αὐτοῦ, εἰκὸς αὐτὸν συνηρπάσθαι ἀπὸ τῆς παρὰ Ἰουδαίοις πιθανότητος καὶ συγκατατεθεῖσθαι αὐτῶν τῶι λόγωι.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "hoe-ac",
+      "title": {
+        "english": "On Egyptian Philosophy and Religion",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hecataeus-of-abdera-egyptian-philosophy-religion-hoe-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hecataeus-of-abdera/egyptian-philosophy-religion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-egyptian-philosophy-religion-hoe-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-egyptian-philosophy-religion-hoe-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-egyptian-philosophy-religion-hoe-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-egyptian-philosophy-religion-hoe-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera/egyptian-philosophy-religion.epub"
+      }
+    },
+    {
+      "eul_wid": "hoe-aa",
+      "title": {
+        "english": "Testimonies 1",
+        "ancient_greek": "Μαρτυρίαι Α'"
+      },
+      "url_slug": "hecataeus-of-abdera-testimonies-hoe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hecataeus-of-abdera/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-testimonies-hoe-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-testimonies-hoe-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-testimonies-hoe-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-testimonies-hoe-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera/testimonies.epub"
+      }
+    },
+    {
+      "eul_wid": "hoe-ab",
+      "title": {
+        "english": "Testimonies 2",
+        "ancient_greek": "Μαρτυρίαι Β'"
+      },
+      "url_slug": "hecataeus-of-abdera-testimonies-2-hoe-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hecataeus-of-abdera/testimonies-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-testimonies-2-hoe-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-testimonies-2-hoe-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-testimonies-2-hoe-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-testimonies-2-hoe-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera/testimonies-2.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "jwo-aa",
+      "title": {
+        "english": "Fragments on Geography",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γεωγραφίας"
+      },
+      "url_slug": "eudoxus-of-rhodes-geography-jwo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/eudoxus-of-rhodes/geography",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudoxus-of-rhodes-geography-jwo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudoxus-of-rhodes-geography-jwo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudoxus-of-rhodes-geography-jwo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudoxus-of-rhodes-geography-jwo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudoxus-of-rhodes/geography.epub"
+      }
+    },
+    {
+      "eul_wid": "fbe-ac",
+      "title": {
+        "english": "Fragments on Harmonia",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἁρμονίας"
+      },
+      "url_slug": "ephorus-of-cyme-harmonia-fbe-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/ephorus-of-cyme/harmonia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme-harmonia-fbe-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme-harmonia-fbe-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme-harmonia-fbe-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme-harmonia-fbe-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme/harmonia.epub"
+      }
+    },
+    {
+      "eul_wid": "hus-aa",
+      "title": {
+        "english": "Fragments on Scythian Geography",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Σκυθικῆς Γεωγραφίας"
+      },
+      "url_slug": "timonax-scythian-geography-hus-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/timonax/scythian-geography",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timonax-scythian-geography-hus-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timonax-scythian-geography-hus-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timonax-scythian-geography-hus-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timonax-scythian-geography-hus-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timonax/scythian-geography.epub"
+      }
+    },
+    {
+      "eul_wid": "pdc-ad",
+      "title": {
+        "english": "From the Macedonian",
+        "ancient_greek": "ἐκ τῆς Μακεδονικῆς"
+      },
+      "url_slug": "appian-of-alexandria-macedonian-pdc-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/macedonian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-macedonian-pdc-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-macedonian-pdc-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-macedonian-pdc-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-macedonian-pdc-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/macedonian.epub"
+      }
+    },
+    {
+      "eul_wid": "iam-aa",
+      "title": {
+        "english": "Historical Fragments on Miletus",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μιλήτου"
+      },
+      "url_slug": "maeandrius-of-miletus-historical-fragments-iam-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/maeandrius-of-miletus/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maeandrius-of-miletus-historical-fragments-iam-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maeandrius-of-miletus-historical-fragments-iam-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maeandrius-of-miletus-historical-fragments-iam-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maeandrius-of-miletus-historical-fragments-iam-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maeandrius-of-miletus/historical-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "mmg-ay",
+      "title": {
+        "english": "Pergamene Chronicle",
+        "ancient_greek": "Περγαμηνὴ Χρονική"
+      },
+      "url_slug": "historical-fragments-anonymous-pergamene-chronicle-mmg-ay",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/pergamene-chronicle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-pergamene-chronicle-mmg-ay.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-pergamene-chronicle-mmg-ay.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-pergamene-chronicle-mmg-ay.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-pergamene-chronicle-mmg-ay.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/pergamene-chronicle.epub"
+      }
+    },
+    {
+      "eul_wid": "lrw-aa",
+      "title": {
+        "english": "Rhodian Historical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "zeno-of-rhodes-historical-fragments-lrw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/zeno-of-rhodes/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-rhodes-historical-fragments-lrw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-rhodes-historical-fragments-lrw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-rhodes-historical-fragments-lrw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-rhodes-historical-fragments-lrw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-rhodes/historical-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "rhq-ah",
+      "title": {
+        "english": "Roman Histories, Version 2 in Volume 1",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-roman-histories-v2-v1-rhq-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-v2-v1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-roman-histories-v2-v1-rhq-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-roman-histories-v2-v1-rhq-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-roman-histories-v2-v1-rhq-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-roman-histories-v2-v1-rhq-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-v2-v1.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hecataeus-of-abdera/hyperboreans",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-hyperboreans-hoe-ad.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-hyperboreans-hoe-ad.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-hyperboreans-hoe-ad.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-hyperboreans-hoe-ad.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera/hyperboreans.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

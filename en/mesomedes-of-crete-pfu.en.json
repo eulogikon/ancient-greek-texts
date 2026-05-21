@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "pfu",
+  "auth_slug": "mesomedes-of-crete",
+  "name": {
+    "english": "Mesomedes of Crete",
+    "ancient_greek": "Μεσομήδης ὁ Κρής"
+  },
+  "seo_h1": "Mesomedes of Crete, Court Poet to Hadrian",
+  "seo": {
+    "browser_title": "Mesomedes of Crete Greek Poet on Eulogikon Greek Archive",
+    "meta_title": "Classical Mesomedes of Crete Ancient Greek Poetry and Hymns",
+    "meta_description": "Mesomedes of Crete was a 2nd century CE Greek poet. Two surviving poetic works are preserved. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ λογοτεχνική",
+      "english": "Literary Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Mesomedes of Crete was a Greek lyric poet and composer of the 2nd century CE. He was a freedman and court musician of the Emperor Hadrian and later received a pension from Antoninus Pius. His career thus spanned the reigns of at least two Roman emperors.</p>\n<p class=\"research-text\">His surviving works, preserved with their original musical notation in medieval manuscripts, are short hymns. The principal compositions are the Hymn to the Sun, the Hymn to Nemesis, a Hymn to the Muse Calliope, and an Invocation of the Muse and Apollo.</p>\n<p class=\"research-text\">Mesomedes is of exceptional importance as the composer of the oldest surviving complete pieces of notated ancient Greek music. Transmitted through Byzantine codices like the Codex Palatinus graecus 281, his hymns provide direct, audible evidence for ancient Greek musical practice and are a critical source for musicology and performance studies. His imperial patronage illustrates the continued Roman support of Greek arts.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "pfu-ab",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "mesomedes-of-crete-epigrams-pfu-ab",
+      "passages": 24,
+      "links": {
+        "html": "https://eulogikon.org/grc/mesomedes-of-crete/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mesomedes-of-crete-epigrams-pfu-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mesomedes-of-crete-epigrams-pfu-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mesomedes-of-crete-epigrams-pfu-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mesomedes-of-crete-epigrams-pfu-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mesomedes-of-crete/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "pfu-aa",
+      "title": {
+        "english": "Fragments on Apollo",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀπόλλωνος"
+      },
+      "url_slug": "mesomedes-of-crete-apollo-fragments-pfu-aa",
+      "passages": 101,
+      "links": {
+        "html": "https://eulogikon.org/grc/mesomedes-of-crete/apollo-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mesomedes-of-crete-apollo-fragments-pfu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mesomedes-of-crete-apollo-fragments-pfu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mesomedes-of-crete-apollo-fragments-pfu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mesomedes-of-crete-apollo-fragments-pfu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mesomedes-of-crete/apollo-fragments.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/mesomedes-of-crete",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/mesomedes-of-crete-pfu.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/mesomedes-of-crete-pfu.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/mesomedes-of-crete-pfu.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/mesomedes-of-crete-pfu.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

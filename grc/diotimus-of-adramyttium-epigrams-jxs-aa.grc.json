@@ -1,0 +1,485 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "jxs-aa",
+  "eul_aid": "jxs",
+  "author_slug": "diotimus-of-adramyttium",
+  "work_slug": "epigrams",
+  "url_slug": "diotimus-of-adramyttium-epigrams-jxs-aa",
+  "author": {
+    "english": "Diotimus of Adramyttium",
+    "ancient_greek": "Διότιμος ὁ Ἀδραμυττηνός"
+  },
+  "title": {
+    "english": "Epigrams",
+    "ancient_greek": "Ἐπιγράμματα"
+  },
+  "seo": {
+    "browser_title": "Greek Epigrams by Diotimus of Adramyttium on Eulogikon",
+    "meta_title": "Epigrams by Diotimus of Adramyttium in Ancient Greek",
+    "meta_description": "The surviving epigrams of Diotimus of Adramyttium, short poetic inscriptions from antiquity. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric) (frg)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Epigrams</strong> of Diotimus of Adramyttium constitute a collection of short elegiac poems by a Hellenistic poet known for both epic and epigrammatic composition. His work was preserved within the <strong>Garland of Philip</strong>, a major anthology compiled by Philip of Thessalonica in the early 1st century CE. The surviving fragments demonstrate conventional literary epigram themes, including erotic and dedicatory subjects. One amatory fragment addresses a beloved named Callistion, while another serves as a dedication for a statue of the lyric poet Anacreon. A mythological inclination, likely influenced by his parallel career as an epic poet, is also discernible. These epigrams survive exclusively as quotations in later anthologies, primarily through their inclusion in the <strong>Garland of Philip</strong> and its descendant, the <strong>Greek Anthology</strong>. Key biographical details, including the title of his lost epic <strong>The Amazon</strong>, are attested in the Byzantine encyclopedia known as the <strong>Suda</strong>. Diotimus&#x27;s inclusion in these major collections secured his position within the canon of Hellenistic epigrammatists. His work exemplifies the genre&#x27;s evolution into a sophisticated literary form for a cultured audience and represents a tangible link between the epic and epigrammatic traditions of the period.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 267.1.1",
+      "text": "Φωσφόρος, ὦ σώτειρ’, ἐπὶ Πόλλιδος ἕσταθι κλήρων,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 267.1.2",
+      "text": "Ἄρτεμι, καὶ χαρίεν φῶς ἑὸν ἀνδρὶ δίδου,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 267.1.3",
+      "text": "αὐτῷ καὶ γενεῇ, τό περ εὐμαρές· οὐ γὰρ ἀφαυρῶς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 267.1.4",
+      "text": "ἐκ Διὸς ἰθείης οἶδε τάλαντα δίκης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 267.5.1",
+      "text": "ἄλσος δ’, Ἄρτεμι, τοῦτο καὶ ἂν Χαρίτεσσι θεούσαις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 267.5.2",
+      "text": "εἴη ἐπ’ ἀνθεμίδων σάμβαλα κοῦφα βαλεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 358.1.1",
+      "text": "Χαῖρέ μοι, ἁβρὲ κύπασσι, τὸν Ὀμφάλη ἥ ποτε Λυδὴ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 358.1.2",
+      "text": "λυσαμένη φιλότητ’ ἦλθεν ἐς Ἡρακλέους·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 358.1.3",
+      "text": "ὄλβιος ἦσθα, κύπασσι, καὶ ὡς τότε καὶ πάλιν ὡς νῦν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 358",
+      "text": "χρύσεον Ἀρτέμιδος τοῦτ’ ἐπέβης μέλαθρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 173.1.1",
+      "text": "Αὐτόμαται δείλῃ ποτὶ ταὐλίον αἱ βόες ἦλθον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 173.1.2",
+      "text": "ἐξ ὄρεος πολλῇ νιφόμεναι χιόνι,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 173.1.3",
+      "text": "αἰαῖ, Θηρίμαχος δὲ παρὰ δρυῒ τὸν μακρὸν εὕδει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 173",
+      "text": "ὕπνον, ἐκοιμήθη δ’ ἐκ πυρὸς οὐρανίου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 227.1.1",
+      "text": "Οὐδὲ λέων ὣς δεινὸς ἐν οὔρεσιν ὡς ὁ Μίκωνος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 227.1.2",
+      "text": "υἱὸς Κριναγόρης ἐν σακέων πατάγῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 227.1.3",
+      "text": "εἰ δὲ κάλυμμ’ ὀλίγον, μὴ μέμφεο· μικρὸς ὁ χῶρος,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 227",
+      "text": "ἀλλ’ ἄνδρας πολέμου τλήμονας οἶδε φέρειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 475.1.1",
+      "text": "Νυμφίον Εὐαγόρην πολὺ πενθεροῦ ἡ Πολυαίνου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 475.1.2",
+      "text": "Σκυλλὶς ἀν’ εὐρείας ἦλθε βοῶσα πύλας,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 475.1.3",
+      "text": "παῖδα τὸν Ἡγεμάχειον ἐφέστιον. οὐδ’ ἄρ’ ἐκείνη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 475.1.4",
+      "text": "χήρη πατρῴους αὖθις ἐσῆλθε δόμους,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 475.5.1",
+      "text": "δαιμονίη, τριτάτῳ δὲ κατέφθιτο μηνὶ δυσαίων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 475.5.2",
+      "text": "οὐλομένῃ ψυχῆς δύσφρονι τηκεδόνι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 475.5.3",
+      "text": "τοῦτο δ’ ἐπ’ ἀμφοτέροισι πολύκλαυτον φιλότητος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 475.5.4",
+      "text": "ἕστηκεν λείῃ μνῆμα παρὰ τριόδῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 733.1.1",
+      "text": "Αἱ νόμιμοι δύο γρῆες ὁμήλικες ἦμεν, Ἀναξὼ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 733.1.2",
+      "text": "καὶ Κληνώ, δίδυμοι παῖδες Ἐπικράτεος,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 733.1.3",
+      "text": "Κληνὼ μὲν Χαρίτων ἱερή, Δήμητρι δ’ Ἀναξὼ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 733.1.4",
+      "text": "ἐν ζωῇ προπολεῦς’· ἐννέα δ’ ἠελίων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 733.5.1",
+      "text": "ὀγδωκονταέτεις ἐπιλείπομεν ἐς τόδ’ ἱκέσθαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 733.5.2",
+      "text": "τῆς μοίρης· ἐτέων δ’ οὐ φθόνος, οἷς ὁσίη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 733.5.3",
+      "text": "καὶ πόσιας καὶ τέκνα φιλήσαμεν· αἱ δὲ παλαιαὶ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 733.5.4",
+      "text": "πρῶθ’ ἡμεῖς Ἀίδην πρηῢν ἀνυσσάμεθα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 36.1.1",
+      "text": "Νῦν αἰτεῖς, ὅτε λεπτὸς ὑπὸ κροτάφοισιν ἴουλος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 36.1.2",
+      "text": "ἕρπει καὶ μηροῖς ὀξὺς ἔπεστι χνόος·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 36.1.3",
+      "text": "εἶτα λέγεις· „Ἥδιον ἐμοὶ τόδε.“ καὶ τίς ἂν εἴποι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 36",
+      "text": "κρείσσονας αὐχμηρὰς ἀσταχύων καλάμας;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 158.1.1",
+      "text": "Ὡς πρέπει, Ἄρτεμίς εἰμ’· εὖ δ’ Ἄρτεμιν αὐτὸς ὁ χαλκὸς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 158.1.2",
+      "text": "μανύει Ζηνὸς κοὐχ ἑτέρου θύγατρα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 158.1.3",
+      "text": "τεκμαίρου τὸ θράσος τᾶς παρθένου. ἦ ῥά κεν εἴποις·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 158",
+      "text": "πᾶσα χθὼν ὀλίγον τᾷδε κυναγέσιον.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "alo-ab",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "peisander-of-camirus-epigram-alo-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/peisander-of-camirus/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus-epigram-alo-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus-epigram-alo-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus-epigram-alo-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus-epigram-alo-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus/epigram.epub"
+      }
+    },
+    {
+      "eul_wid": "alo-aa",
+      "title": {
+        "english": "Fragments of Heraclea",
+        "ancient_greek": "Ἀποσπάσματα Ἡρακλείας"
+      },
+      "url_slug": "peisander-of-camirus-fragments-heraclea-alo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/peisander-of-camirus/fragments-heraclea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus-fragments-heraclea-alo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus-fragments-heraclea-alo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus-fragments-heraclea-alo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus-fragments-heraclea-alo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus/fragments-heraclea.epub"
+      }
+    },
+    {
+      "eul_wid": "mcq-aa",
+      "title": {
+        "english": "Fragments on Abraham and Patriarchs",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀβραὰμ καὶ τῶν Πατριαρχῶν"
+      },
+      "url_slug": "philo-of-alexandria-the-elder-abraham-patriarchs-mcq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria-the-elder/abraham-patriarchs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-the-elder-abraham-patriarchs-mcq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-the-elder-abraham-patriarchs-mcq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-the-elder-abraham-patriarchs-mcq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-the-elder-abraham-patriarchs-mcq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-the-elder/abraham-patriarchs.epub"
+      }
+    },
+    {
+      "eul_wid": "kjq-ao",
+      "title": {
+        "english": "Iambic encom",
+        "ancient_greek": "Ἰαμβικὸν Ἐγκώμιον"
+      },
+      "url_slug": "epic-fragments-anonymous-iambic-encom-kjq-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/iambic-encom",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-iambic-encom-kjq-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-iambic-encom-kjq-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-iambic-encom-kjq-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-iambic-encom-kjq-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/iambic-encom.epub"
+      }
+    },
+    {
+      "eul_wid": "kjq-ab",
+      "title": {
+        "english": "Mercury the Creator of the World and Hermopolis Magna",
+        "ancient_greek": "Ἑρμῆς ὁ Δημιουργὸς τοῦ Κόσμου καὶ Ἑρμοῦπολις"
+      },
+      "url_slug": "epic-fragments-anonymous-creator-world-hermopolis-kjq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/creator-world-hermopolis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-creator-world-hermopolis-kjq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-creator-world-hermopolis-kjq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-creator-world-hermopolis-kjq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-creator-world-hermopolis-kjq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/creator-world-hermopolis.epub"
+      }
+    },
+    {
+      "eul_wid": "fjq-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "theopompus-of-chios-testimonies-fjq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theopompus-of-chios/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios-testimonies-fjq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios-testimonies-fjq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios-testimonies-fjq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios-testimonies-fjq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios/testimonies.epub"
+      }
+    },
+    {
+      "eul_wid": "pge-ab",
+      "title": {
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
+      },
+      "url_slug": "pancrates-of-egypt-testimony-pge-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/pancrates-of-egypt/testimony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt-testimony-pge-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt-testimony-pge-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt-testimony-pge-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt-testimony-pge-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt/testimony.epub"
+      }
+    },
+    {
+      "eul_wid": "aau-ac",
+      "title": {
+        "english": "Works and Days",
+        "ancient_greek": "Ἔργα καὶ Ἡμέραι"
+      },
+      "url_slug": "hesiod-works-days-aau-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hesiod/works-days",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod-works-days-aau-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod-works-days-aau-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod-works-days-aau-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod-works-days-aau-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/works-days.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/diotimus-of-adramyttium/epigrams",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-adramyttium-epigrams-jxs-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-adramyttium-epigrams-jxs-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-adramyttium-epigrams-jxs-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-adramyttium-epigrams-jxs-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-adramyttium/epigrams.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

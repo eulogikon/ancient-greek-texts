@@ -1,0 +1,226 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "luy-aa",
+  "eul_aid": "luy",
+  "author_slug": "agatharchides-of-samos",
+  "work_slug": "persian-wars",
+  "url_slug": "agatharchides-of-samos-persian-wars-luy-aa",
+  "author": {
+    "english": "Agatharchides of Samos",
+    "ancient_greek": "Ἀγαθαρχίδης ὁ Σάμιος"
+  },
+  "title": {
+    "english": "Fragments on Persian Wars",
+    "ancient_greek": "Ἀποσπάσματα περὶ τῶν Περσικῶν Πολέμων"
+  },
+  "seo": {
+    "browser_title": "Fragments of Agatharchides of Samos on Eulogikon Archive",
+    "meta_title": "Fragments by Agatharchides of Samos in Ancient Greek",
+    "meta_description": "Surviving fragments from Agatharchides of Samos on the Persian Wars. Historical Greek prose. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Persian Wars</strong> by Agatharchides of Samos is a historical work known only through five brief excerpts preserved in the <strong>Bibliotheca</strong> of the 9th-century Byzantine scholar Photius. These passages are explicitly attributed to Agatharchides and identified as originating from a text titled <strong>Persian Wars</strong>. The surviving fragments offer minimal insight into the original work&#x27;s scope or narrative structure, containing only a geographical note on the city of Oenus, a remark concerning the Spartan king Cleomenes I, and a mention of the Persian king Darius. The work is otherwise entirely lost, with no independent manuscript tradition; its survival depends solely on these citations. While Agatharchides&#x27;s geographical writings on the Red Sea and ethnography demonstrably influenced later historians like Diodorus Siculus and Strabo, this particular historical work on the Persian Wars appears to have left no discernible legacy beyond its preservation by Photius. Its existence, however, indicates a broader range of subject matter for Agatharchides, whose other known fragmentary works primarily concern Hellenistic history.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t1",
+      "text": "ΠΕΡΣΙΚΑ. E. LIBRO SECUNDO. Plutarch.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Par. min. c. 2: Ξέρξης μετὰ πεντακοσίων μυριάδων Ἀρτεμισίῳ προσορμίσας, πόλεμον τοῖς ἐγχωρίοις κατήγγειλεν. Ἀθηναῖοι δὲ συγκεχυμένοι, κατάσκοπον ἔπεμψαν Ἀγησίλαον, τὸν Θεμιστοκλέους ἀδελφὸν, καίπερ Νεοκλέους, τοῦ πατρὸς αὐτοῦ, (καὶ) κατ’ ὄναρ ἑωρακότος ἀμφοτέρας ἀποβεβληκότα τὰς χεῖρας. Παραγενόμενος δὲ εἰς τοὺς βαρβάρους ἐν σχήματι Περσικῷ, Μαρδόνιον ἕνα τῶν σωματοφυλάκων ἀνεῖλεν, ὑπολαμβάνων Ξέρξην εἶναι. Συλληφθεὶς δὲ πρὸς τῶν πέριξ, δέσμιος ἤχθη πρὸς τὸν βασιλέα. Βουθυτεῖν δὲ τοῦ προειρημένου μέλλοντος ἐπὶ τῷ τοῦ ἡλίου βωμῷ, τὴν δεξιὰν ἀπέθηκε χεῖρα, καὶ ἀστενάκτως ὑπομείνας τὴν ἀνάγκην τῶν βασάνων, ἠλευθερώθη τῶν δεσμῶν εἰπών· «Πάντες μὲν τοιοῦτοι Ἀθηναῖοι· εἰ δ’ ἀπιστεῖς, καὶ τὴν ἀριστερὰν ἐπιθήσω.» Φοβηθεὶς δὲ ὁ Ξέρξης φρουρεῖσθαι αὐτὸν προσέταξε, καθάπερ ἱστορεῖ Ἀγαθαρχίδης Σάμιος ἐν δευτέρᾳ τῶν Περσικῶν. ΦΡΥΓΙΑΚΑ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Plutarchus De fluv. 10: Γεννᾶται δ’ ἐν αὐτῷ (τῷ Μαρσύᾳ ποταμῷ) λίθος καλούμενος Μάχαιρα· ἔστι γὰρ σιδήρου παραπλήσιος· ὃν ἐὰν εὕρῃ τις τῶν μυστηρίων ἐπιτελουμένων τῆς θεᾶς, ἐμμανὴς γίνεται· καθὼς ἱστορεῖ Ἀγαθαρχίδης ἐν τοῖς Φρυγιακοῖς. ΠΕΡΙ ΛΙΘΩΝ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "t3",
+      "text": "E LIBRO QUARTO. Id.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "ib. 9: Γεννᾶται δ’ ἐν αὐτῷ (τῷ Μαιάνδρῳ) λίθος παρόμοιος κυλίνδρῳ. Ὃν οἱ εὐσεβεῖς υἱοὶ ὅταν εὕρωσιν, ἐν τῷ τεμένει τῆς μητρὸς τῶν θεῶν τιθέασι, καὶ οὐδέποτε χάριν ἀσεβείας ἁμαρτάνουσιν, ἀλλὰ φιλοπάτορες ὑπάρχουσι, καὶ πρὸς τοὺς προσήκοντας συμπαθοῦσιν, ὡς ἱστορεῖ Ἀγαθαρχίδης ὁ Σάμιος ἐν δʹ Περὶ λίθων. Μέμνηται δὲ τούτων ἀκριβέστερον Δημάρατος ἐν δ’ Φρυγίας.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "ira-aa",
+      "title": {
+        "english": "Fragments on Pindar's Odes",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Πινδάρου Ἐπινίκων"
+      },
+      "url_slug": "artemon-of-pergamum-pindar-fragments-ira-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/artemon-of-pergamum/pindar-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemon-of-pergamum-pindar-fragments-ira-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemon-of-pergamum-pindar-fragments-ira-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemon-of-pergamum-pindar-fragments-ira-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemon-of-pergamum-pindar-fragments-ira-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemon-of-pergamum/pindar-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "uws-ad",
+      "title": {
+        "english": "Historical Fragments on Palmatius",
+        "ancient_greek": "Ἀποσπάσματα περὶ Παλματίου"
+      },
+      "url_slug": "hesychius-of-miletus-historical-fragments-uws-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/hesychius-of-miletus/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus-historical-fragments-uws-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus-historical-fragments-uws-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus-historical-fragments-uws-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus-historical-fragments-uws-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus/historical-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "ova-aa",
+      "title": {
+        "english": "Historical Parallels and Anecdotes",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "myronianus-of-amastris-historical-parallels-ova-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/myronianus-of-amastris/historical-parallels",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myronianus-of-amastris-historical-parallels-ova-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myronianus-of-amastris-historical-parallels-ova-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myronianus-of-amastris-historical-parallels-ova-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myronianus-of-amastris-historical-parallels-ova-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myronianus-of-amastris/historical-parallels.epub"
+      }
+    },
+    {
+      "eul_wid": "ecy-ad",
+      "title": {
+        "english": "London Fragments",
+        "ancient_greek": "Λονδινὰ Ἀποσπάσματα"
+      },
+      "url_slug": "hellenica-anon-london-fragments-ad-ecy-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/hellenica-anon/london-fragments-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-london-fragments-ad-ecy-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-london-fragments-ad-ecy-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-london-fragments-ad-ecy-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-london-fragments-ad-ecy-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon/london-fragments-ad.epub"
+      }
+    },
+    {
+      "eul_wid": "cfs-aa",
+      "title": {
+        "english": "Lycian Oracle Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "polycharmus-the-historian-lycian-oracle-cfs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/polycharmus-the-historian/lycian-oracle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycharmus-the-historian-lycian-oracle-cfs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycharmus-the-historian-lycian-oracle-cfs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycharmus-the-historian-lycian-oracle-cfs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycharmus-the-historian-lycian-oracle-cfs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycharmus-the-historian/lycian-oracle.epub"
+      }
+    },
+    {
+      "eul_wid": "jlu-aa",
+      "title": {
+        "english": "On Assyrian and Median History",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "abydenus-the-historian-assyrian-median-history-jlu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/abydenus-the-historian/assyrian-median-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/abydenus-the-historian-assyrian-median-history-jlu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/abydenus-the-historian-assyrian-median-history-jlu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/abydenus-the-historian-assyrian-median-history-jlu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/abydenus-the-historian-assyrian-median-history-jlu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/abydenus-the-historian/assyrian-median-history.epub"
+      }
+    },
+    {
+      "eul_wid": "kdm-ab",
+      "title": {
+        "english": "On Table Manners and Offerings",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "dioscurides-3rd-century-bce-table-manners-offerings-kdm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/dioscurides-3rd-century-bce/table-manners-offerings",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce-table-manners-offerings-kdm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce-table-manners-offerings-kdm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce-table-manners-offerings-kdm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce-table-manners-offerings-kdm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce/table-manners-offerings.epub"
+      }
+    },
+    {
+      "eul_wid": "jwy-aa",
+      "title": {
+        "english": "On the Customs of Phigalia",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "harmodius-of-lepreum-customs-phigalia-jwy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/harmodius-of-lepreum/customs-phigalia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/harmodius-of-lepreum-customs-phigalia-jwy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/harmodius-of-lepreum-customs-phigalia-jwy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/harmodius-of-lepreum-customs-phigalia-jwy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/harmodius-of-lepreum-customs-phigalia-jwy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/harmodius-of-lepreum/customs-phigalia.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/agatharchides-of-samos/persian-wars",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-samos-persian-wars-luy-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-samos-persian-wars-luy-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-samos-persian-wars-luy-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-samos-persian-wars-luy-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-samos/persian-wars.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

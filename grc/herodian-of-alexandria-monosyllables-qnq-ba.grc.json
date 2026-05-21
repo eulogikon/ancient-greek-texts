@@ -1,0 +1,412 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "qnq-ba",
+  "eul_aid": "qnq",
+  "author_slug": "herodian-of-alexandria",
+  "work_slug": "monosyllables",
+  "url_slug": "herodian-of-alexandria-monosyllables-qnq-ba",
+  "author": {
+    "english": "Herodian of Alexandria",
+    "ancient_greek": "Αἴλιος Ἡρωδιανός"
+  },
+  "title": {
+    "english": "On Monosyllables",
+    "ancient_greek": "Περὶ μονοσυλλάβων"
+  },
+  "seo": {
+    "browser_title": "On Monosyllables by Herodian of Alexandria on Eulogikon",
+    "meta_title": "On Monosyllables by Herodian of Alexandria in Greek",
+    "meta_description": "Herodian examines the grammatical properties and inflectional patterns of monosyllabic words in ancient Greek. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">On Monosyllables is a lost grammatical treatise by the second-century CE scholar Herodian of Alexandria. Structured as an oration in four parts, it provided a systematic analysis of single-syllable words in Attic Greek. The work focused on their classification, inflection, and the rules governing their accentuation, a subject in which Herodian was considered the preeminent authority. Written for an advanced audience of students, teachers, and fellow grammarians, it formed part of Herodian&#x27;s broader project to catalog the intricacies of Greek grammar and preserve the standards of the classical dialect during the Roman era. The original text does not survive intact and is known only through fragments and references preserved by later Byzantine scholars, most notably within the tenth-century encyclopedia known as the Suda. Herodian&#x27;s systematic approach in this and other works established the foundation for grammatical instruction in the Byzantine world and influenced Greek lexicography for centuries.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "ΠΕΡΙ ΜΟΝΟΣΥΛΛΑΒΩΝ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Choer. 182, 27: πᾶν ὄνομα μονοσύλλαβον μακροκαταληκτεῖν θέλει εἴτε φύσει εἴτε θέσει· φύσει μὲν οἷον Γρᾶς, πᾶς, Κρής, Τρώς, σής ὁ σκώληξ, νοῦς, παῖς, βοῦς, θέσει δὲ οἷον νύξ, στύξ, φλόξ, Φρύξ, ἅλς χωρὶς τοῦ τίς· τοῦτο γὰρ συστέλλει τὸ ι , καὶ χωρὶς τοῦ πός, ὅπερ ἀπὸ τοῦ πούς γέγονε κατ’ ἀποβολὴν τοῦ υ «ᾧ πὸς ἄγ’ ἱεμένοισι» καὶ τοῦ ἕν καὶ τοῦ δέν, ὅπερ ἰσοδυναμεῖ τῷ τί, ὅπερ συνεχῶς εὑρίσκεται μετὰ τῆς οὐ ἀποφάσεως καὶ τῆς μή ἀπαγορεύσεως οἷον οὐδέν, μηδέν, καὶ χωρὶς τοῦ ὅς «ὃς ἂν ἐθέλῃ, μεινάτω με» καὶ χωρὶς τοῦ πάν παρ’ Αἰο λεῦσιν (οἱ γὰρ Αἰολεῖς τοῦ πᾶν τὸ α συστέλλουσι) καὶ χωρὶς τοῦ Δί, ὅπερ ἀπὸ τοῦ Δία γέγονε κατ’ ἀποκοπήν, ὅπερ καὶ μετὰ τοῦ νή ἐπιρρήματος γίνεται νὴ Δί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Theogn. 134: τὰ εἰς εις μονοσύλλαβα διὰ τῆς ει διφθόγγου γρα φόμενα σπάνιά ἐστιν, ἔστι γὰρ τὸ δείς ὀξύτονον, ὅπερ ἀεὶ μετὰ τῆς οὐ ἀποφάσεως ἢ τῆς μή ἀπαγορεύσεως σύνεστιν, οὐδείς καὶ μηδείς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3,2.904",
+      "text": "ἔστι δὲ καὶ τὸ κλείς θηλυκὸν καὶ τὸ εἷς ἀρσενικὸν ἐπὶ τοῦ ἀριθμοῦ περισπώμενον ὑγιῶς. αἱ γὰρ εἰς εις ὀξυνόμεναι καὶ ἔχουσαι εἰς εν οὐδέτερον μετοχαί εἰσιν οἷον τιθείς τιθέν, νυγείς νυγέν. βαρυνόμενα δὲ ὀνόματά ἐστιν οἷον τιμήεις, ἐρόεις. ἐπεὶ οὖν τὸ εἷς εἶχεν οὐδέτερον τὸ ἕν, ἐχρῆν βαρύνεσθαι· οὐκ ἦν δὲ τοῦτό πως διὰ τὴν μονοσυλλαβίαν. ἀναγκαίως περισπᾶται, ἵνα δυνάμει βαρύνηται· ἀμέλει εἰς δισυλλαβίαν μετελθὸν βαρύνεται ἐν τῷ «ὀφθαλμὸς ἕεις ἐπέκειτο μετώπῳ» (Hes. Theog. 145), ἵνα τὴν ὀνοματικὴν σημασίαν ἀποφήναι. οὕτως Ἡρω διανὸς περὶ μονοσυλλάβω ν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "qnq-al",
+      "title": {
+        "english": "Digressions of the Great Speech",
+        "ancient_greek": "Παρεκβολαὶ τοῦ μεγάλου ῥήματος"
+      },
+      "url_slug": "herodian-of-alexandria-digressions-qnq-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/digressions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-digressions-qnq-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-digressions-qnq-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-digressions-qnq-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-digressions-qnq-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/digressions.epub"
+      }
+    },
+    {
+      "eul_wid": "qnq-ar",
+      "title": {
+        "english": "Excerpts from Herodian (Recension A)",
+        "ancient_greek": "Ἐκλογαὶ ἐκ τοῦ Ἡρωδιανοῦ"
+      },
+      "url_slug": "herodian-of-alexandria-excerpts-ar-qnq-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/excerpts-ar",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-excerpts-ar-qnq-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-excerpts-ar-qnq-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-excerpts-ar-qnq-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-excerpts-ar-qnq-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/excerpts-ar.epub"
+      }
+    },
+    {
+      "eul_wid": "qnq-as",
+      "title": {
+        "english": "Excerpts from Herodian (Recension B)",
+        "ancient_greek": "Ἐκλογαὶ ἐξ Ἡρωδιανοῦ"
+      },
+      "url_slug": "herodian-of-alexandria-excerpts-as-qnq-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/excerpts-as",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-excerpts-as-qnq-as.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-excerpts-as-qnq-as.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-excerpts-as-qnq-as.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-excerpts-as-qnq-as.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/excerpts-as.epub"
+      }
+    },
+    {
+      "eul_wid": "qnq-ab",
+      "title": {
+        "english": "Fragment on Ares",
+        "ancient_greek": "Γραμματικὸν ἀπόσπασμα ἀρχόμενον ἀπὸ τῶν λόγων"
+      },
+      "url_slug": "herodian-of-alexandria-ares-fragment-qnq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/ares-fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-ares-fragment-qnq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-ares-fragment-qnq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-ares-fragment-qnq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-ares-fragment-qnq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/ares-fragment.epub"
+      }
+    },
+    {
+      "eul_wid": "qnq-bb",
+      "title": {
+        "english": "Homeric Schemes",
+        "ancient_greek": "Ὁμηρικὰ Σχήματα"
+      },
+      "url_slug": "herodian-of-alexandria-homeric-schemes-qnq-bb",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/homeric-schemes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-homeric-schemes-qnq-bb.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-homeric-schemes-qnq-bb.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-homeric-schemes-qnq-bb.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-homeric-schemes-qnq-bb.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/homeric-schemes.epub"
+      }
+    },
+    {
+      "eul_wid": "qnq-aw",
+      "title": {
+        "english": "Monobiblos-Being",
+        "ancient_greek": "Μονόβιβλον περὶ τοῦ ἦν"
+      },
+      "url_slug": "herodian-of-alexandria-monobiblos-qnq-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/monobiblos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-monobiblos-qnq-aw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-monobiblos-qnq-aw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-monobiblos-qnq-aw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-monobiblos-qnq-aw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/monobiblos.epub"
+      }
+    },
+    {
+      "eul_wid": "qnq-ac",
+      "title": {
+        "english": "Monobiblos-Not All Verbs Being Conjugated in All Tenses",
+        "ancient_greek": "Μονόβιβλον περὶ τοῦ μὴ πάντα τὰ ῥήματα κλίνεσθαι"
+      },
+      "url_slug": "herodian-of-alexandria-verbs-not-all-tenses-qnq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/verbs-not-all-tenses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-verbs-not-all-tenses-qnq-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-verbs-not-all-tenses-qnq-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-verbs-not-all-tenses-qnq-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-verbs-not-all-tenses-qnq-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/verbs-not-all-tenses.epub"
+      }
+    },
+    {
+      "eul_wid": "qnq-bp",
+      "title": {
+        "english": "On Adverbs",
+        "ancient_greek": "Περὶ ἐπιρρημάτων"
+      },
+      "url_slug": "herodian-of-alexandria-adverbs-qnq-bp",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/adverbs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-adverbs-qnq-bp.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-adverbs-qnq-bp.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-adverbs-qnq-bp.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-adverbs-qnq-bp.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/adverbs.epub"
+      }
+    },
+    {
+      "eul_wid": "qnq-az",
+      "title": {
+        "english": "On Attic Prosody",
+        "ancient_greek": "Περὶ Ἀττικῆς προσῳδίας"
+      },
+      "url_slug": "herodian-of-alexandria-attic-prosody-qnq-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/attic-prosody",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-attic-prosody-qnq-az.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-attic-prosody-qnq-az.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-attic-prosody-qnq-az.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-attic-prosody-qnq-az.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/attic-prosody.epub"
+      }
+    },
+    {
+      "eul_wid": "qnq-bc",
+      "title": {
+        "english": "On Conjugations",
+        "ancient_greek": "Περὶ συζυγιῶν"
+      },
+      "url_slug": "herodian-of-alexandria-conjugations-qnq-bc",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/conjugations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-conjugations-qnq-bc.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-conjugations-qnq-bc.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-conjugations-qnq-bc.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-conjugations-qnq-bc.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/conjugations.epub"
+      }
+    },
+    {
+      "eul_wid": "qnq-at",
+      "title": {
+        "english": "On Declension of Names",
+        "ancient_greek": "Περὶ κλίσεως ὀνομάτων"
+      },
+      "url_slug": "herodian-of-alexandria-declension-names-qnq-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/declension-names",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-declension-names-qnq-at.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-declension-names-qnq-at.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-declension-names-qnq-at.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-declension-names-qnq-at.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/declension-names.epub"
+      }
+    },
+    {
+      "eul_wid": "qnq-bi",
+      "title": {
+        "english": "On Dichronous",
+        "ancient_greek": "Περὶ διχρόνων"
+      },
+      "url_slug": "herodian-of-alexandria-dichronous-qnq-bi",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/dichronous",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-dichronous-qnq-bi.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-dichronous-qnq-bi.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-dichronous-qnq-bi.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-dichronous-qnq-bi.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/dichronous.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "klo-ae",
+      "title": {
+        "english": "Arguments of Aristophanes' Plays",
+        "ancient_greek": "Ὑποθέσεις τῶν Ἀριστοφάνους Δραμάτων"
+      },
+      "url_slug": "aristophanes-of-byzantium-arguments-plays-klo-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-byzantium/arguments-plays",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium-arguments-plays-klo-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium-arguments-plays-klo-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium-arguments-plays-klo-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium-arguments-plays-klo-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/arguments-plays.epub"
+      }
+    },
+    {
+      "eul_wid": "tro-am",
+      "title": {
+        "english": "Later Scholia on Persians",
+        "ancient_greek": "Σχόλια εἰς Πέρσας"
+      },
+      "url_slug": "aeschylus-scholia-persians-am-tro-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/persians-am",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-am-tro-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-am-tro-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-am-tro-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-am-tro-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-am.epub"
+      }
+    },
+    {
+      "eul_wid": "tro-ae",
+      "title": {
+        "english": "Old Scholia on Prometheus Bound",
+        "ancient_greek": "Σχόλια εἰς Προμηθέα Δεσμώτην"
+      },
+      "url_slug": "aeschylus-scholia-prometheus-bound-ae-tro-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/prometheus-bound-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-prometheus-bound-ae-tro-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-prometheus-bound-ae-tro-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-prometheus-bound-ae-tro-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-prometheus-bound-ae-tro-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/prometheus-bound-ae.epub"
+      }
+    },
+    {
+      "eul_wid": "vsq-aa",
+      "title": {
+        "english": "On Barbarism and Solecism (Long)",
+        "ancient_greek": "Περὶ βαρβαρισμοῦ καὶ σολοικισμοῦ"
+      },
+      "url_slug": "barbarism-and-solecism-anonymous-text-aa-vsq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/barbarism-and-solecism-anonymous/text-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/barbarism-and-solecism-anonymous-text-aa-vsq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/barbarism-and-solecism-anonymous-text-aa-vsq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/barbarism-and-solecism-anonymous-text-aa-vsq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/barbarism-and-solecism-anonymous-text-aa-vsq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/barbarism-and-solecism-anonymous/text-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "klo-aj",
+      "title": {
+        "english": "On Human Development and Aging",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aristophanes-of-byzantium-human-development-aging-klo-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-byzantium/human-development-aging",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium-human-development-aging-klo-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium-human-development-aging-klo-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium-human-development-aging-klo-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium-human-development-aging-klo-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/human-development-aging.epub"
+      }
+    },
+    {
+      "eul_wid": "pdm-ab",
+      "title": {
+        "english": "Proverbs of Diogenianus",
+        "ancient_greek": "Παροιμίαι δημώδεις ἐκ τῆς Διογενιανοῦ συναγωγῆς"
+      },
+      "url_slug": "diogenianus-of-heraclea-proverbs-ab-pdm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenianus-of-heraclea/proverbs-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-of-heraclea-proverbs-ab-pdm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-of-heraclea-proverbs-ab-pdm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-of-heraclea-proverbs-ab-pdm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-of-heraclea-proverbs-ab-pdm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-of-heraclea/proverbs-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "nfw-aa",
+      "title": {
+        "english": "Scholia on Homeric Prosody",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "tyrannion-the-younger-homeric-prosody-nfw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/tyrannion-the-younger/homeric-prosody",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrannion-the-younger-homeric-prosody-nfw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrannion-the-younger-homeric-prosody-nfw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrannion-the-younger-homeric-prosody-nfw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrannion-the-younger-homeric-prosody-nfw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrannion-the-younger/homeric-prosody.epub"
+      }
+    },
+    {
+      "eul_wid": "vmw-av",
+      "title": {
+        "english": "Scholia on the Hymns (Marginal)",
+        "ancient_greek": "Σχόλια εἰς Ὕμνους"
+      },
+      "url_slug": "callimachus-scholia-hymns-av-vmw-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/hymns-av",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-hymns-av-vmw-av.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-hymns-av-vmw-av.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-hymns-av-vmw-av.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-hymns-av-vmw-av.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hymns-av.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/herodian-of-alexandria/monosyllables",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-monosyllables-qnq-ba.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-monosyllables-qnq-ba.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-monosyllables-qnq-ba.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-monosyllables-qnq-ba.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/monosyllables.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,271 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "bxq-ab",
+  "eul_aid": "bxq",
+  "author_slug": "simon-of-athens",
+  "work_slug": "hippiatric-fragments",
+  "url_slug": "simon-of-athens-hippiatric-fragments-bxq-ab",
+  "author": {
+    "english": "Simon of Athens",
+    "ancient_greek": "Σίμων ὁ Ἀθηναῖος"
+  },
+  "title": {
+    "english": "Fragments on Hippiatric Medicine",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ἱππιατρικῆς"
+  },
+  "seo": {
+    "browser_title": "Fragments Hippiatric Medicine by Simon Athens on Eulogikon",
+    "meta_title": "Fragments on Hippiatric Medicine by Simon of Athens in Greek",
+    "meta_description": "Surviving fragments on horse medicine by Simon of Athens. Ancient Greek treatise on hippiatric care. Read free and download in original Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Hippiatric Medicine</strong> is a lost veterinary treatise attributed to Simon of Athens. Known solely through nine brief passages preserved within later Byzantine compilations on horse medicine, the work represents a technical and empirical guide to the practical diagnosis and treatment of equine ailments. The extant fragments offer specific veterinary guidance, including a method for examining a horse&#x27;s mouth by having it bite on wood to detect pain or loose teeth, and recipes for medicinal preparations such as a warm poultice made from linseed and barley meal. The original treatise is lost, and its content survives only as excerpts embedded in encyclopedic Byzantine manuscripts, where they were copied alongside material from other hippiatric authors. The preservation of Simon&#x27;s fragments within this later tradition indicates his work was considered a useful and authoritative source, contributing to the continuity of specialized technical knowledge on equine medicine from antiquity into the Byzantine period.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t",
+      "text": "ΑΛΛΑ ΣΙΜΩΝΟΣ ΑΠΟΣΠΑΣΜΑΤΑ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Suidas s. v. τρίλλη: Γέγραπται ἐν τῷ τοῦ Ἀθηναίου Σίμωνος ἱππιατρικῷ περὶ γνωρισμάτων φλεβῶν, ὅτι καὶ ἀπὸ τῆς τρίλλης εἰσὶ φλέβες δύο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Pollux II, 69: Ὅθεν καὶ Σίμων τοὔνειδος (sic codd. FS; τοῦτο τὸ ὄνειδος ceteri) τῆς ἀμαθίας Μίκωνι παρένεγκεν, ὅτι καὶ τὰς κάτω βλεφαρίδας προσέγραψεν ἵππου γραφῇ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Hierocles Hipp. p. 173: Καίτοι πολλοῖς τὰ τοιαῦτα ἠγνοήθη, ὥσπερ Μίκωνι τῷ παλαιῷ, ὃς ᾤετο ἵππου καὶ τὸ κάτω βλέφαρον ἔχειν τρίχας, ἃς καλοῦσιν Ἕλληνες βλεφαρίδας· καθάπτεται γοῦν αὐτοῦ Σίμων τὴν ἄγνοιαν ταύτην αἰτιώμενος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Xenophon de re equestri 11, 6: Ἃ μὲν γὰρ ὁ ἵππος ἀναγκαζόμενος ποιεῖ, ὥσπερ καὶ Σίμων λέγει, οὔτ’ ἐπίσταται οὔτε καλά ἐστιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Pollux I, 194: Καὶ τοῦτο δὲ Σίμωνος· εὔδρομος ὁ ἵππος ὁ ὀλίγον αἴρων ἀπὸ τῆς γῆς ἐν τῷ τρέχειν τὰ σκέλη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "Pollux I, 204: ἐλαυνέτω δὲ τοῦτον κατ’ ἀρχὰς ὁ ἐπιβάτης εἰς τὰ ἄπεδα (δάπεδα codd. BC) καὶ λεῖα, τὰς δὲ προσβάσεις καὶ τὰς ἐκεῖθεν καθόδους μὴ αὐτίκα ποιείσθω, ἀλλὰ τὸν ἵππον πλαγιασάτω (πλαγιαζέτω cod.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "A)· οὕτω γὰρ ὁ Σίμων ὠνόμασεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "Pollux I, 198: ἀποδεέστερος· Σίμωνος τὸ ὄνομα.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "bxq-aa",
+      "title": {
+        "english": "On the Form and Selection of Horses",
+        "ancient_greek": "Περὶ Μορφῆς καὶ Ἐκλογῆς Ἵππων"
+      },
+      "url_slug": "simon-of-athens-horses-form-selection-bxq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/simon-of-athens/horses-form-selection",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens-horses-form-selection-bxq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens-horses-form-selection-bxq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens-horses-form-selection-bxq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens-horses-form-selection-bxq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens/horses-form-selection.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "vgs-ab",
+      "title": {
+        "english": "Commentaries-Aristotle in Greek",
+        "ancient_greek": "Σχόλια Ἠλίου εἰς τὰς κατηγορίας Ἀριστοτέλους"
+      },
+      "url_slug": "elias-the-neoplatonist-commentaries-aristotle-vgs-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/elias-the-neoplatonist/commentaries-aristotle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-commentaries-aristotle-vgs-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-commentaries-aristotle-vgs-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-commentaries-aristotle-vgs-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-commentaries-aristotle-vgs-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist/commentaries-aristotle.epub"
+      }
+    },
+    {
+      "eul_wid": "rlc-aa",
+      "title": {
+        "english": "Enneads",
+        "ancient_greek": "Ἐννεάδες"
+      },
+      "url_slug": "plotinus-enneads-rlc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/plotinus/enneads",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plotinus-enneads-rlc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plotinus-enneads-rlc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plotinus-enneads-rlc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plotinus-enneads-rlc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plotinus/enneads.epub"
+      }
+    },
+    {
+      "eul_wid": "hui-aa",
+      "title": {
+        "english": "Fragments of Uncertain Position",
+        "ancient_greek": "Ἀποσπάσματα Ἀδήλου Θέσεως"
+      },
+      "url_slug": "epicurus-uncertain-fragments-hui-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicurus/uncertain-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-uncertain-fragments-hui-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-uncertain-fragments-hui-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-uncertain-fragments-hui-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-uncertain-fragments-hui-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/uncertain-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "bdq-ab",
+      "title": {
+        "english": "Fragments on Astronomy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀστρονομίας"
+      },
+      "url_slug": "cleostratus-of-tenedos-astronomy-fragments-bdq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/cleostratus-of-tenedos/astronomy-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-astronomy-fragments-bdq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-astronomy-fragments-bdq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-astronomy-fragments-bdq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-astronomy-fragments-bdq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos/astronomy-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "ega-aa",
+      "title": {
+        "english": "Letter to King Philip",
+        "ancient_greek": "Πρὸς Φίλιππον βασιλέα"
+      },
+      "url_slug": "speusippus-of-athens-king-philip-ega-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/speusippus-of-athens/king-philip",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens-king-philip-ega-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens-king-philip-ega-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens-king-philip-ega-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens-king-philip-ega-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens/king-philip.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-eq",
+      "title": {
+        "english": "Lucullus",
+        "ancient_greek": "Λούκουλλος"
+      },
+      "url_slug": "plutarch-of-chaeronea-lucullus-okg-eq",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/lucullus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lucullus-okg-eq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lucullus-okg-eq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lucullus-okg-eq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lucullus-okg-eq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/lucullus.epub"
+      }
+    },
+    {
+      "eul_wid": "ave-ab",
+      "title": {
+        "english": "On Aristotle's Metaphysics Books A-Z. Commentary",
+        "ancient_greek": "Σχόλια εἰς τὰ μεταφυσικὰ Ἀριστοτέλους, Βιβλία Α-Ω"
+      },
+      "url_slug": "asclepius-the-physician-aristotle-metaphysics-commentary-ave-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/asclepius-the-physician/aristotle-metaphysics-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepius-the-physician-aristotle-metaphysics-commentary-ave-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepius-the-physician-aristotle-metaphysics-commentary-ave-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepius-the-physician-aristotle-metaphysics-commentary-ave-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepius-the-physician-aristotle-metaphysics-commentary-ave-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepius-the-physician/aristotle-metaphysics-commentary.epub"
+      }
+    },
+    {
+      "eul_wid": "iso-aj",
+      "title": {
+        "english": "To Demeter",
+        "ancient_greek": "εἰς Δήμητρα"
+      },
+      "url_slug": "callimachus-of-cyrene-to-demeter-iso-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/to-demeter",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-demeter-iso-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-demeter-iso-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-demeter-iso-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-demeter-iso-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/to-demeter.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/simon-of-athens/hippiatric-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens-hippiatric-fragments-bxq-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens-hippiatric-fragments-bxq-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens-hippiatric-fragments-bxq-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens-hippiatric-fragments-bxq-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens/hippiatric-fragments.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

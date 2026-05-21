@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ejm",
+  "auth_slug": "diotogenes-the-philosopher",
+  "name": {
+    "english": "Diotogenes the Philosopher",
+    "ancient_greek": "Διοτογένης ὁ φιλόσοφος"
+  },
+  "seo_h1": "Diotogenes the Philosopher on Kingship and Rule",
+  "seo": {
+    "browser_title": "Diotogenes the Pythagorean on Eulogikon Greek Archive",
+    "meta_title": "Diotogenes Ancient Greek Philosophical Works Collection",
+    "meta_description": "Diotogenes, a Pythagorean philosopher of uncertain date. Surviving treatise On Kingship. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric (phi, frg)",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Cynic",
+      "href": "/affiliations/cynic"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Diotogenes is the name traditionally given to the author of an ancient Greek treatise On Kingship. He is usually placed within the Pythagorean philosophical tradition. The date of his life is uncertain, but his work is part of a body of Hellenistic political thought.</p>\n<p class=\"research-text\">Some modern scholars question whether Diotogenes was a real historical figure, suggesting the name might be a pseudonym used by a later writer composing in a style meant to evoke early Pythagorean wisdom. Only fragments of his work survive, preserved in a 5th-century CE anthology compiled by Stobaeus.</p>\n<p class=\"research-text\">The treatise, written in Doric Greek, describes the ideal king as a &quot;living law&quot; and a divine representative on earth. This concept was influential for later political theories in the Greco-Roman world. The text is significant as an example of pseudepigraphical Pythagorean literature that helped shape philosophical ideas about monarchy and governance. His historical existence and the exact dating of his work remain subjects of scholarly debate.</p>\n</div>",
+  "affiliation_label": "Cynic",
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ejm-aa",
+      "title": {
+        "english": "On Kingship and Rule",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "diotogenes-the-philosopher-kingship-rule-ejm-aa",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/diotogenes-the-philosopher/kingship-rule",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotogenes-the-philosopher-kingship-rule-ejm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotogenes-the-philosopher-kingship-rule-ejm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotogenes-the-philosopher-kingship-rule-ejm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotogenes-the-philosopher-kingship-rule-ejm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotogenes-the-philosopher/kingship-rule.epub"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "frs",
+      "name": {
+        "english": "Antisthenes of Athens I",
+        "ancient_greek": "Ἀντισθένης ὁ Ἀθηναῖος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/antisthenes-of-athens-i",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antisthenes-of-athens-i-frs.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antisthenes-of-athens-i-frs.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antisthenes-of-athens-i-frs.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antisthenes-of-athens-i-frs.en.json"
+      }
+    },
+    {
+      "eul_aid": "dhu",
+      "name": {
+        "english": "Antisthenes of Athens II",
+        "ancient_greek": "Ἀντισθένης ὁ Ἀθηναῖος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/antisthenes-of-athens-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antisthenes-of-athens-ii-dhu.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antisthenes-of-athens-ii-dhu.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antisthenes-of-athens-ii-dhu.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antisthenes-of-athens-ii-dhu.en.json"
+      }
+    },
+    {
+      "eul_aid": "hks",
+      "name": {
+        "english": "Bion of Borysthenes",
+        "ancient_greek": "Βίων ὁ Βορυσθενίτης"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/bion-of-borysthenes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/bion-of-borysthenes-hks.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/bion-of-borysthenes-hks.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/bion-of-borysthenes-hks.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/bion-of-borysthenes-hks.en.json"
+      }
+    },
+    {
+      "eul_aid": "gwc",
+      "name": {
+        "english": "Crates of Thebes I",
+        "ancient_greek": "Κράτης ὁ Θηβαῖος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/crates-of-thebes-i",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crates-of-thebes-i-gwc.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crates-of-thebes-i-gwc.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crates-of-thebes-i-gwc.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crates-of-thebes-i-gwc.en.json"
+      }
+    },
+    {
+      "eul_aid": "ogu",
+      "name": {
+        "english": "Demonax of Cyprus",
+        "ancient_greek": "Δημώναξ ὁ Κύπριος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/demonax-of-cyprus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demonax-of-cyprus-ogu.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demonax-of-cyprus-ogu.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demonax-of-cyprus-ogu.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demonax-of-cyprus-ogu.en.json"
+      }
+    },
+    {
+      "eul_aid": "fak",
+      "name": {
+        "english": "Diogenes of Sinope",
+        "ancient_greek": "Διογένης ὁ Σινωπεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/diogenes-of-sinope",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-sinope-fak.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-sinope-fak.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-sinope-fak.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-sinope-fak.en.json"
+      }
+    },
+    {
+      "eul_aid": "fpu",
+      "name": {
+        "english": "Monimus of Syracuse",
+        "ancient_greek": "Μόνιμος ὁ Συρακόσιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/monimus-of-syracuse",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/monimus-of-syracuse-fpu.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/monimus-of-syracuse-fpu.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/monimus-of-syracuse-fpu.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/monimus-of-syracuse-fpu.en.json"
+      }
+    },
+    {
+      "eul_aid": "pak",
+      "name": {
+        "english": "Oenomaus of Gadara",
+        "ancient_greek": "Οἰνόμαος ὁ Γαδαρεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/oenomaus-of-gadara",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/oenomaus-of-gadara-pak.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/oenomaus-of-gadara-pak.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/oenomaus-of-gadara-pak.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/oenomaus-of-gadara-pak.en.json"
+      }
+    },
+    {
+      "eul_aid": "pzk",
+      "name": {
+        "english": "Secundus the Silent",
+        "ancient_greek": "Σεκούνδος ὁ Σιωπηλός"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/secundus-the-silent",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/secundus-the-silent-pzk.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/secundus-the-silent-pzk.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/secundus-the-silent-pzk.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/secundus-the-silent-pzk.en.json"
+      }
+    },
+    {
+      "eul_aid": "kkk",
+      "name": {
+        "english": "Teles of Megara",
+        "ancient_greek": "Τέλης ὁ Μεγαρεύς"
+      },
+      "work_count": 8,
+      "links": {
+        "html": "https://eulogikon.org/en/teles-of-megara",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/teles-of-megara-kkk.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/teles-of-megara-kkk.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/teles-of-megara-kkk.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/teles-of-megara-kkk.en.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/diotogenes-the-philosopher",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diotogenes-the-philosopher-ejm.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diotogenes-the-philosopher-ejm.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diotogenes-the-philosopher-ejm.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diotogenes-the-philosopher-ejm.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

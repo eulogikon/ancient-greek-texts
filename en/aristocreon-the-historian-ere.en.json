@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ere",
+  "auth_slug": "aristocreon-the-historian",
+  "name": {
+    "english": "Aristocreon the Historian",
+    "ancient_greek": "Ἀριστοκρέων ὁ ἱστορικός"
+  },
+  "seo_h1": "Aristocreon on Ethiopia, Libya, and Cyprus",
+  "seo": {
+    "browser_title": "Aristocreon the Historian on Eulogikon Greek Archive",
+    "meta_title": "Classical Aristocreon the Historian Ancient Greek Works",
+    "meta_description": "Aristocreon the Historian, a 5th century BCE Ionic historian. Surviving fragments of historical prose. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Aristocreon the Historian was a 5th-century BCE Greek historian of the Classical period. No details of his life survive.</p>\n<p class=\"research-text\">A single work is attributed to him: On the Island of Cyprus. It is preserved only in a brief fragment cited by Athenaeus, which mentions the Cypriot city of Lapethus. His fragment suggests a focus on regional geography or history.</p>\n<p class=\"research-text\">Aristocreon is an obscure figure, significant only as a representative of minor local historians whose works are now lost. He appears in modern catalogs of fragmentary Greek historians but is not a subject of independent study.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ere-aa",
+      "title": {
+        "english": "Fragments on Ethiopia and Libya",
+        "ancient_greek": "Ἀποσπάσματα περὶ Αἰθιοπίας καὶ Λιβύης"
+      },
+      "url_slug": "aristocreon-the-historian-ethiopia-libya-ere-aa",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristocreon-the-historian/ethiopia-libya",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocreon-the-historian-ethiopia-libya-ere-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocreon-the-historian-ethiopia-libya-ere-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocreon-the-historian-ethiopia-libya-ere-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocreon-the-historian-ethiopia-libya-ere-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocreon-the-historian/ethiopia-libya.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/aristocreon-the-historian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristocreon-the-historian-ere.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristocreon-the-historian-ere.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristocreon-the-historian-ere.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristocreon-the-historian-ere.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

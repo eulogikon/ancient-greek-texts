@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "pyq",
+  "auth_slug": "pseudo-plutarch",
+  "name": {
+    "english": "Pseudo-Plutarch",
+    "ancient_greek": "Ψευδοπλούταρχος"
+  },
+  "seo_h1": "Pseudo-Plutarch on Music, Philosophy, and Rivers",
+  "seo": {
+    "browser_title": "Pseudo-Plutarch Ancient Author on Eulogikon Greek Archive",
+    "meta_title": "Classical Pseudo-Plutarch Ancient Greek Philosophical Works",
+    "meta_description": "Pseudo-Plutarch, an unknown Roman era philosophical author. Three surviving philosophical works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ φιλοσοφική",
+      "english": "Philosophical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Pseudo-Plutarch is the name given to an unknown author who lived during the Roman imperial period, likely in the 2nd or 3rd century CE. This author wrote several philosophical works that were incorrectly passed down under the name of the famous biographer Plutarch of Chaeronea. No personal details about the individual are known, but scholars believe they were a Greek-speaking intellectual working within the tradition of Middle Platonism, a school of thought that sought to systematize Plato&#x27;s ideas.</p>\n<p class=\"research-text\">Three major works are attributed to this anonymous figure. <strong>On Fate</strong> argues against Stoic determinism, defending the concept of human free will. <strong>The Opinions of the Philosophers</strong> is a compilation that summarizes the views of earlier Greek thinkers on topics like cosmology and the natural world. <strong>On the Life and Poetry of Homer</strong> offers an allegorical reading of Homer&#x27;s epics, interpreting them through a philosophical lens. All three texts survive in full.</p>\n<p class=\"research-text\">The significance of Pseudo-Plutarch lies in the preservation of philosophical knowledge. <strong>The Opinions of the Philosophers</strong> is a particularly vital source for understanding the doctrines of many pre-Socratic philosophers, whose original works are lost. As a group, these writings illustrate the scholarly and teaching practices of Middle Platonism and show how later authors sometimes used the name of a respected authority to give weight to their own work.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 3,
+  "works": [
+    {
+      "eul_wid": "pyq-ac",
+      "title": {
+        "english": "On Music",
+        "ancient_greek": "περὶ Μουσικῆς"
+      },
+      "url_slug": "pseudo-plutarch-music-pyq-ac",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-plutarch/music",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-music-pyq-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-music-pyq-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-music-pyq-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-music-pyq-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch/music.epub"
+      }
+    },
+    {
+      "eul_wid": "pyq-aa",
+      "title": {
+        "english": "On Natural Doctrines Pleasing Philosophers",
+        "ancient_greek": "Περὶ τῶν ἀρεσκόντων τοῖς φιλοσόφοις φυσικῶν"
+      },
+      "url_slug": "pseudo-plutarch-natural-doctrines-pyq-aa",
+      "passages": 219,
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-plutarch/natural-doctrines",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-natural-doctrines-pyq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-natural-doctrines-pyq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-natural-doctrines-pyq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-natural-doctrines-pyq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch/natural-doctrines.epub"
+      }
+    },
+    {
+      "eul_wid": "pyq-ab",
+      "title": {
+        "english": "On Rivers",
+        "ancient_greek": "Περὶ ποταμῶν"
+      },
+      "url_slug": "pseudo-plutarch-rivers-pyq-ab",
+      "passages": 93,
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-plutarch/rivers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-rivers-pyq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-rivers-pyq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-rivers-pyq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-rivers-pyq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch/rivers.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/pseudo-plutarch",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pseudo-plutarch-pyq.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pseudo-plutarch-pyq.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pseudo-plutarch-pyq.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pseudo-plutarch-pyq.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

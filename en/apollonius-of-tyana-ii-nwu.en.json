@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "nwu",
+  "auth_slug": "apollonius-of-tyana-ii",
+  "name": {
+    "english": "Apollonius of Tyana II",
+    "ancient_greek": "Ἀπολλώνιος ὁ Τυανεύς"
+  },
+  "seo_h1": "Apollonius of Tyana and the Life of Aeschines",
+  "seo": {
+    "browser_title": "Apollonius of Tyana on Eulogikon Greek Archive Collection",
+    "meta_title": "Classical Apollonius of Tyana Ancient Greek Works and Texts",
+    "meta_description": "Apollonius of Tyana, a first century Pythagorean philosopher. Works include his letters and biography. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Pythagorean",
+      "href": "/affiliations/pythagorean"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Apollonius of Tyana was a Greek philosopher and holy man from the 1st century CE, living under Roman rule in what is now Turkey. He was a wandering teacher and ascetic who followed a strict Pythagorean lifestyle, which included practices like vegetarianism and long periods of silence.</p>\n<p class=\"research-text\">Most of what is known about his life comes from a biography written more than a century after his death by the author Philostratus. This source describes extensive travels across the Roman Empire and to India, and credits Apollonius with performing miracles, healing, and confronting political authorities. Because of these stories, later writers often compared his life to that of Jesus of Nazareth. Historical details are difficult to verify, but he is said to have been active during the reigns of emperors from Nero to Domitian.</p>\n<p class=\"research-text\">A collection of about 97 short letters on moral and philosophical topics survives under his name, though modern scholars debate their authenticity. No other works are definitively attributed to him.</p>\n<p class=\"research-text\">Apollonius is a significant figure in the study of ancient religion and philosophy. He represents the ideal of the &quot;divine man,&quot; a charismatic sage who blended philosophy with asceticism and wonder-working. His legendary biography became an important text for understanding religious and philosophical life in the early Roman Empire. In later centuries, he became a point of contention between traditional religious adherents, who revered him, and early Christian writers, who sought to discredit parallels drawn between him and Jesus. His story therefore lies at the intersection of philosophy, biography, and religious debate in the ancient world.</p>\n</div>",
+  "affiliation_label": "Pythagorean",
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "nwu-aa",
+      "title": {
+        "english": "Life of Aeschines",
+        "ancient_greek": "Βίος Αἰσχίνου"
+      },
+      "url_slug": "apollonius-of-tyana-ii-life-aeschines-nwu-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/apollonius-of-tyana-ii/life-aeschines",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-ii-life-aeschines-nwu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-ii-life-aeschines-nwu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-ii-life-aeschines-nwu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-ii-life-aeschines-nwu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-ii/life-aeschines.epub"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "dei",
+      "name": {
+        "english": "Apollodorus of Cyzicus",
+        "ancient_greek": "Ἀπολλόδωρος ὁ Κυζικηνός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/apollodorus-of-cyzicus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-cyzicus-dei.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-cyzicus-dei.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-cyzicus-dei.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-cyzicus-dei.en.json"
+      }
+    },
+    {
+      "eul_aid": "nxe",
+      "name": {
+        "english": "Apollonius of Tyana",
+        "ancient_greek": "Ἀπολλώνιος ὁ Τυανεύς"
+      },
+      "work_count": 3,
+      "links": {
+        "html": "https://eulogikon.org/en/apollonius-of-tyana",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana-nxe.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana-nxe.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana-nxe.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana-nxe.en.json"
+      }
+    },
+    {
+      "eul_aid": "faa",
+      "name": {
+        "english": "Archytas of Tarentum",
+        "ancient_greek": "Ἀρχύτας ὁ Ταραντῖνος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/archytas-of-tarentum",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archytas-of-tarentum-faa.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archytas-of-tarentum-faa.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archytas-of-tarentum-faa.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archytas-of-tarentum-faa.en.json"
+      }
+    },
+    {
+      "eul_aid": "dck",
+      "name": {
+        "english": "Aresas of Lucania",
+        "ancient_greek": "Ἀρέσας ὁ Λευκανός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/aresas-of-lucania",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aresas-of-lucania-dck.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aresas-of-lucania-dck.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aresas-of-lucania-dck.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aresas-of-lucania-dck.en.json"
+      }
+    },
+    {
+      "eul_aid": "dcu",
+      "name": {
+        "english": "Athamas of Posidonia",
+        "ancient_greek": "Ἀθάμας ὁ Ποσειδωνιάτης"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/athamas-of-posidonia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athamas-of-posidonia-dcu.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athamas-of-posidonia-dcu.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athamas-of-posidonia-dcu.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athamas-of-posidonia-dcu.en.json"
+      }
+    },
+    {
+      "eul_aid": "azu",
+      "name": {
+        "english": "Brontinus of Metapontum",
+        "ancient_greek": "Βροντῖνος ὁ Μεταποντῖνος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/brontinus-of-metapontum",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/brontinus-of-metapontum-azu.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/brontinus-of-metapontum-azu.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/brontinus-of-metapontum-azu.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/brontinus-of-metapontum-azu.en.json"
+      }
+    },
+    {
+      "eul_aid": "bay",
+      "name": {
+        "english": "Cercops the Orphic",
+        "ancient_greek": "Κέρκωψ ὁ Ὀρφικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/cercops-the-orphic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cercops-the-orphic-bay.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cercops-the-orphic-bay.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cercops-the-orphic-bay.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cercops-the-orphic-bay.en.json"
+      }
+    },
+    {
+      "eul_aid": "hcg",
+      "name": {
+        "english": "Clinias of Tarentum",
+        "ancient_greek": "Κλεινίας ὁ Ταραντῖνος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/clinias-of-tarentum",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clinias-of-tarentum-hcg.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clinias-of-tarentum-hcg.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clinias-of-tarentum-hcg.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clinias-of-tarentum-hcg.en.json"
+      }
+    },
+    {
+      "eul_aid": "gqi",
+      "name": {
+        "english": "Damon and Phintias",
+        "ancient_greek": "Δάμων καὶ Φιντίας"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/damon-and-phintias",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damon-and-phintias-gqi.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damon-and-phintias-gqi.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damon-and-phintias-gqi.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damon-and-phintias-gqi.en.json"
+      }
+    },
+    {
+      "eul_aid": "ffa",
+      "name": {
+        "english": "Echecrates of Phlius",
+        "ancient_greek": "Ἐχεκράτης ὁ Φλιάσιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/echecrates-of-phlius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/echecrates-of-phlius-ffa.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/echecrates-of-phlius-ffa.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/echecrates-of-phlius-ffa.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/echecrates-of-phlius-ffa.en.json"
+      }
+    },
+    {
+      "eul_aid": "gqs",
+      "name": {
+        "english": "Ecphantus the Pythagorean",
+        "ancient_greek": "Ἔκφαντος ὁ Πυθαγόρειος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/ecphantus-the-pythagorean",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ecphantus-the-pythagorean-gqs.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ecphantus-the-pythagorean-gqs.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ecphantus-the-pythagorean-gqs.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ecphantus-the-pythagorean-gqs.en.json"
+      }
+    },
+    {
+      "eul_aid": "szw",
+      "name": {
+        "english": "Euryphamus the Philosopher",
+        "ancient_greek": "Εὐρυφάμος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/euryphamus-the-philosopher",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/euryphamus-the-philosopher-szw.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/euryphamus-the-philosopher-szw.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/euryphamus-the-philosopher-szw.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/euryphamus-the-philosopher-szw.en.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/apollonius-of-tyana-ii",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana-ii-nwu.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana-ii-nwu.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana-ii-nwu.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana-ii-nwu.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

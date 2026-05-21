@@ -1,0 +1,865 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "oqu-ae",
+  "eul_aid": "oqu",
+  "author_slug": "phrynichus-of-bithynia",
+  "work_slug": "text-ae",
+  "url_slug": "phrynichus-of-bithynia-text-ae-oqu-ae",
+  "author": {
+    "english": "Phrynichus of Bithynia",
+    "ancient_greek": "Φρύνιχος ὁ Βιθυνός"
+  },
+  "title": {
+    "english": "Selections",
+    "ancient_greek": "Ἐκλογαί"
+  },
+  "seo": {
+    "browser_title": "Ancient Selections by Phrynichus of Bithynia on Eulogikon",
+    "meta_title": "Selections by Phrynichus of Bithynia in Ancient Greek",
+    "meta_description": "Selections is a grammatical treatise by Phrynichus of Bithynia on proper Attic Greek usage. It provides corrections prescriptions for vocabulary style."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Selections</strong> is a lexicographical treatise composed in Greek by the grammarian Phrynichus of Bithynia around 180 CE. Functioning as a prescriptive handbook, it aims to guide users toward proper Attic Greek usage by systematically condemning words and phrases from the contemporary common language and prescribing their classical Athenian equivalents. The work comprises 87 entries, each typically identifying a non-Attic term, rejecting it, and offering the correct alternative, often with citations from authoritative classical authors such as Aristophanes or Plato for validation. A representative example is the rejection of the word <strong>basilissa</strong> (“queen”) in favor of the Attic form <strong>basilis</strong>.</p>\n<p class=\"research-text\">Compiled during the cultural movement known as the Second Sophistic, a period that prized the revival of classical Athenian language and values as markers of prestige, the <strong>Selections</strong> is interpreted by modern scholars as a practical manual for educated elites and aspiring rhetoricians. For these individuals, command of a refined, “pure” Attic dialect was essential for social distinction and professional success in oratory. The treatise is believed to be a shorter, preparatory extract from Phrynichus’s more comprehensive lexicon, which is now lost.</p>\n<p class=\"research-text\">The text survives incompletely, primarily through a single manuscript dating from the 13th or 14th century that breaks off abruptly. Later Byzantine scholars produced summaries and excerpts that aid in reconstructing the original work. Despite its polemical and often rigid approach to linguistic purity, the <strong>Selections</strong> remains a vital historical source, offering significant insight into the linguistic debates and cultural priorities of the Greek-speaking elite under the Roman Empire.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Ὑπόδειγμα οὐκ ὀρθῶς, παράδειγμα δέ. Ἐμπτύει μου μὴ λέγε, ἀλλὰ καταπτύει μου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "Εὐχαριστεῖν μὴ λέγε, ἀλλὰ χάριν εἰδέναι. Ἄρτι ἥξω μὴ εἴπῃς, ἀλλ’ ἄρτι ἀφικόμην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12",
+      "text": "Τέμμαχος κρέως ἢ ἄρτου ἢ πλακοῦντος μὴ λέγε, ἀλλὰ τόμος· τὸ δὲ τέμμαχος ἐπὶ ἰχθύος μόνον. Ἄμυναν μὴ εἴπῃς, ἀλλὰ ἀμύνασθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "Σημῆναι, καθῆραι, θερμῆναι διὰ τοῦ η. Διωρία ἀδόκιμον, προθεσμία δέ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20",
+      "text": "Σπῖλος μὴ λέγε, κηλὶς δέ. Πίομαι καὶ πιοῦμαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30",
+      "text": "Ἡνίκα μὴ εἴπῃς ἀντὶ τοῦ πότε· ἔστι γὰρ ὥρας δηλωτικόν, οἷον εἰπόντος τινὸς „πηνίκα ἀποδημήσεις;“, ἐὰν εἴπῃς „μετὰ δύο ἢ τρεῖς ἡμέρασ“, οὐκ ὀρθῶς ἐρεῖς, ἐὰν δὲ εἴπῃς „ἕωθεν“ ἢ „περὶ μεσημβρίαν“, ὀρθῶς. Ὀρθρινὸς οὔ, ὄρθριος δὲ καὶ ὄψιος ἄνευ τοῦ ν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "36",
+      "text": "Ποταπὸς ἐπὶ τρόπου, οἷον „ποταπὸς Φρύνιχος;“ „ἐπιεικήσ“· ποδαπὸς δὲ ἐπὶ γένους, οἷον „ποδαπός ἐστιν;“ „Θηβαῖος ἢ Ἀθηναῖοσ“. ἔστι γὰρ ἐκ τίνος δαπέδου. Πεινῆν, διψῆν διὰ τοῦ η.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "44",
+      "text": "Αὐθαδίζεσθαι, μὴ ἀναιδεύεσθαι. Τελευταῖον· οὐ τευτάζειν—σὺ δ’ ὁ πάντα ἀκριβῶν καὶ τοῖς μακρῷ σου σοφωτέροις ἐπιτιμῶν ῥᾳδίως, τῷ ποτε τῶν καθαρῶς φωνὴν Ἑλλάδα ἀφιέντων τευτάζειν λέγοντι ἐνέτυχες; Βεβίασται ἡ κόρη, οὐκ ἔφθαρται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "50",
+      "text": "Κόριον, ἢ κορίδιον, ἢ κορίσκη· τὸ δὲ κοράσιον παράλογον. Ἡ ὕσπληγξ, οὐχ ὁ ὕσπληγξ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "49",
+      "text": "Ἰλὺς ποταμοῦ, τρὺξ δὲ οἴνου ἢ ὑποστάθμη. Κακοδαιμονᾶν διὰ τοῦ α· εὐδαιμονεῖν διὰ διφθόγγου· εὐδαιμονοῦσι διὰ τῆς ου, κακοδαιμονῶσι δὲ διὰ τοῦ ω μεγάλου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "55",
+      "text": "Κόρημα, οὐχὶ σάρον· καὶ κορεῖν καὶ παρακορεῖν, οὐχὶ σαροῦν. Ἀφῆλιξ παρὰ τοῖς ἀρχαίοις ὁ πρεσβύτερος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "64",
+      "text": "Ἀκέστης, οὐχ ἡπήτης· καὶ ἀκέσασθαι τὸ ἱμάτιον, οὐχ ἡπήσασθαι. Ἀγαθὸς μᾶλλον καὶ ἀγαθὸς μάλιστα, μὴ ἀγαθώτερος καὶ ἀγαθώτατος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "70",
+      "text": "Γλωττοκομεῖον, οὐ γλωσσόκομον. Βραδύτερον, οὐ βράδιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "72",
+      "text": "Γρυλίζειν καὶ γρυλισμὸς συῶν, οὐ γρυλλισμὸς διὰ δύο λλ. Γογγυλὶς τὸ λάχανον, οὐ γογγύλη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "78",
+      "text": "Ἀποκριθῆναι τὸ διαχωρισθῆναι, οὗ τὸ ἐναντίον συγκριθῆναι ἤγουν εἰς ἓν καὶ ταὐτὸν ἐλθεῖν· ἐπὶ δὲ τοῦ ἀποδοῦναι τὴν ἐρώτησιν ἀποκρίνασθαι λέγε. Ὅτι τῶν λαχάνων αἱ ἄνθαι ὄρμενα καλοῦνται, καὶ ἐξορμενίζειν τὸ βλαστάνειν καὶ ἐξανθεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "81",
+      "text": "Ἀσφάραγον, οὐκ ἀσπάραγον. Ἐκ παλαιοῦ, οὐχὶ ἀπὸ πάλαι ἢ ἔκπαλαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "89",
+      "text": "Ἐπὶ πολῆς, οὐ μετὰ τῆς ἔξ. Ἀνατέλλει ὁ ἥλιος, ἐπιτέλλει δὲ ὁ Κύων ἢ ἄλλο τι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "99",
+      "text": "Ἔνδον εἰσέρχομαι βάρβαρον, καὶ ἔσω διατρίβω· ἐρεῖς δὲ ἔνδον διατρίβω, ἔνδον εἰμί, ἔνδον ἐστίν, εἴσω παρέρχομαι. Ἐπίδοξον οὐ τὸν ἐπίσημον, ἀλλὰ τὸν ἐλπιζόμενον καὶ προσδοκώμενον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "105+106",
+      "text": "Ἔσχατον, οὐχὶ ἐσχατώτατον· οὐδὲ ἀμεινότερον, καλλιώτερον, κρειττότερον ῥητέον· συγκριτικοῦ γὰρ συγκριτικὸν οὐ γίνεται. Εὑρέσθαι, οὐχ εὕρασθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "112",
+      "text": "Εὔνως ἔχει μοι μὴ λέγε, ἀλλ’ εὐνοϊκῶς. Εὔζωρον κέρασον καὶ εὐζωρότερον, οὐ ζωρότερον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "118",
+      "text": "Ἦς ἐν ἀγορᾷ σόλοικον, λέγε οὖν ἦσθα, καὶ ἐὰν ᾖς ἐν ἀγορᾷ. Ἠκηκόεσαν, ἐγεγράφεσαν, ἐπεποιήκεσαν, ἐνενοήκεσαν· ἀλλ’ οὐ σὺν τῷ ι, ἐνενοήκεισαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "120",
+      "text": "Ὁ ῥύπος, οὐ τὸ ῥύπος. Μέθυσος ἀνὴρ οὐκ ἐρεῖς, ἀλλὰ μεθυστικός· γυνὴ δὲ μέθυσος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "126",
+      "text": "Ἄχαριν ὀσμὴν λέγε, ἀλλ’ οὐ βρῶμον. Ἡρακλέα, Θεμιστοκλέα, ἀλλὰ μὴ Ἡρακλῆν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "128",
+      "text": "Ἀνέῳγεν ἡ θύρα μὴ εἴπῃς, ἀλλ’ ἀνέῳκται. Διεφθορὸς αἷμα μὴ εἴπῃς, ἀλλὰ διεφθαρμένον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "135",
+      "text": "Ὅτι ἔνθα τραγῳδοὶ καὶ κωμῳδοὶ ἀγωνίζονται, λογεῖον λέγεται· ἔνθα δὲ οἱ αὐληταὶ καὶ οἱ χοροί, ὀρχήστραν, οὐ θυμέλην. Αἱ νῆες, οὐχ αἱ ναῦς, σόλοικον γάρ· οὐδὲ τὰς νῆας, ἀλλὰ τὰς ναῦς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "141",
+      "text": "Εἰσιέναι διὰ τοῦ ε, τὸ δὲ εἰσίτω χωρίς. Κλαδᾶν ἀμπέλους, μὴ κλαδεύειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "144",
+      "text": "Πολίτης, μὴ συμπολίτης. Ῥάπισμα οὐκ ἐν χρήσει· τὸ γὰρ τὴν γνάθον πλατείᾳ τῇ χειρὶ πλῆξαι ἐπὶ κόρρης πατάξαι Ἀθηναῖοί φασιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "151",
+      "text": "Κυνίδιον, οὐ κυνάριον. Ἐδεδίεσαν· καὶ τοῦτο τῆς Λολλιανοῦ Μούσης· σὺ δὲ λέγε ἐδέδισαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "154",
+      "text": "Ἀφείλετο, ἀφειλόμεν, οὐκ ἀφείλατο καὶ ἀφείλαμεν. Ἐπεξιὼν καὶ ἐπέξειμι, οὐχὶ ἐπεξελεύσομαι καὶ ἐπεξελευσόμενος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "160",
+      "text": "Δυσωπεῖσθαι· τὸ ἐντρέπεσθαι καὶ μὴ ἀντέχειν δι’ αἰδῶ· παρὰ δὲ τοῖς ἀρχαίοις τὴν ὑφόρασιν καὶ τὸ ὑποπτεύειν. Κολάβους τοὺς ἐν τῇ λύρᾳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "165",
+      "text": "Ἀπόνιπτρον, οὐχὶ νίμμα. Μέσα τῶν δακτύλων, οὐ μεσοδάκτυλα· ἐναυτίασα γὰρ ἀκούσας τοῦτο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "170",
+      "text": "Μέγα δυναμένους λέγε, οὐ μεγιστάνας. Ἰδιοῦσθαι, οὐκ ἐξιδιάζονται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "174",
+      "text": "Αὐτότροφος μὴ λέγε, ἀλλ’ οἰκόσιτος· μηδὲ οἰκογενῆ, ἀλλ’ οἰκότριβα. Σφυρήτατον, καὶ ὁλόσφυρον, οὐχ ὁλοσφύρατον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "176",
+      "text": "Ὀπωρώνης λέγε, οὐχὶ ὀπωροπώλης. Ἐξαμβλῶσαι, οὐκ ἐκτρῶσαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "184",
+      "text": "Ὅτι τὸ ἀναθέσθαι δύο σημαίνει· τὸ μεταγινώσκειν ἐφ’ οἷς εἴρηκεν, οἷον „ἀνατίθεμαι εἰς αὖθις τὸ πρᾶγμα“, καὶ ἀνατιθέναι τὸ φορτίον. Σταθερὰ μεσημβρία, καὶ σταθερὰ γαλήνη· ἐμβριθὴς δὲ ἄνθρωπος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "186",
+      "text": "Ἀναπεσεῖν· οὐ καλῶς ἐπὶ τοῦ ἀνακλιθῆναι τάττεται· ἐὰν δὲ ἐπὶ τοῦ τὴν ψυχὴν ἀδημονῆσαι, καλῶς· ἀνέπεσεν ἄνθρωπος ἤγουν τὴν ψυχὴν ἠθύμησεν. Ἀνάκειται ἀνδριὰς καλῶς ἐρεῖς· ἀνάκειται δὲ ἐπὶ κλίνης οὐκέτι, ἀλλὰ κεῖται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "189",
+      "text": "Σκεδάννυται, οὐ σκορπίζεται. Ἐνθήκη ἄτοπον, παρενθήκη δέ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "195",
+      "text": "Ἐξυπνισθῆναι πάρες· ἀφυπνισθῆναι δέ. Ἀρτοποιός καὶ ἀρτοπόπος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "197",
+      "text": "Βασίλεσσα· οὐδεὶς εἶπε τῶν ἀρχαίων, ἀλλὰ βασίλεια καὶ βασιλίς. Σικχαίνομαι· τῷ ὄντι ναυτίας ἄξιον τοὔνομα· ἀλλ’ ἐρεῖς βδελύττομαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "200",
+      "text": "Ἀλεκτρυὼν καὶ ἐπὶ θήλεος καὶ ἐπὶ ἄρρενος. Γλωττίδας αὐλῶν καὶ ὑποδημάτων, οὐ γλωσσίδας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "203",
+      "text": "Διώρυγος· οἱ δὲ ἀρχαῖοι διώρυχος. Διόσκοροι, οὐ Διόσκουροι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "207",
+      "text": "Ὑστερίζειν τῷ καιρῷ οὐ λέγεται, ἀλλὰ τοῦ καιροῦ. Ἐπαοιδὴ ποιητικόν· σὺ δὲ ἐπῳδὴ λέγε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "215",
+      "text": "Διδόασιν, οὐ διδοῦσιν. Πήχεος καὶ πήχεων δέον, οὐ πηχὸς καὶ πηχῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "218",
+      "text": "Συντυχίαν λέγε, οὐ σύμπτωμα· ἢ οὕτω „συνέπεσεν αὐτῷ τόδε γενέσθαι“. Κατορθῶσαι δόκιμον· τὸ δὲ κατόρθωμα ἀποδιοπομπώμεθα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "220",
+      "text": "λέγειν οὖν χρὴ ἀνδραγαθήματα. Ὑπαίθριον, οὐχ ὕπαιθρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "222",
+      "text": "Προδωμάτιον, οὐ προκοιτών, ἐπεὶ δωμάτιον τὸν κοιτῶνα. Ῥοίδιον, οὐ ῥοΐδιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "229",
+      "text": "Στύππιον, οὐ στυππέϊνον. Ἀντίρρησιν μὴ λέγε, ἀντιλογίαν δέ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "233",
+      "text": "Καθέζομαι, καθεδοῦμαι, καθεδοῦνται, καθεδούμενος. Υἱέος, υἱέι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "234",
+      "text": "υἱέα δὲ μή, ἀλλ’ υἱόν. Ἀνέκαθεν ἐπὶ χρόνου φυλακτέον λέγειν, οἷον „ἀνέκαθέν μοί ἐστι φίλοσ“· λέγειν οὖν χρὴ „ἄνωθέν σοι φίλος εἰμί“.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "235",
+      "text": "τὸ δὲ ἀνέκαθεν, λέγε „ἀνέκαθεν κατέπεσεν“. Ἑκὼν εἶναι οὐ μὴ ποιήσω· ὅσοι δὲ ἐπὶ καταφάσεως, οἷον „ἑκὼν εἶναι ἐποίησα“, ἁμαρτάνουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "240",
+      "text": "Ὄρθρον καὶ ὀρθρεύεσθαι τὸ πρὸ ἀρχομένης ἡμέρας, ἐν ᾧ ἔτι λύχνῳ δύναταί τις χρῆσθαι. ὃ οἱ πολλοὶ ἁμαρτάνοντες ὄρθρον λέγουσιν, τοῦτο {ὃ} οἱ ἀρχαῖοι ἕω λέγουσιν. Μάγειρος δόκιμον, τὸ δὲ μαγειρεῖον οὐκέτι, ἀλλ’ ὀπτάνιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "242",
+      "text": "Φίλος μοι τυγχάνει ὤν, καὶ ἐχθρός μοι τυγχάνει ὤν. Ἐξετάζειν καὶ παραβάλλειν, οὐ συγκρίνειν οὐδὲ σύγκρισις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "244",
+      "text": "Κατ’ ἐκεῖνο τοῦ καιροῦ σὺν τῷ ἄρθρῳ. Ἐπέστησεν ἤγουν ἠπόρησεν, καὶ ἐπιστάσεως ἄξιον τὸ πρᾶγμα καὶ ἐπισκέψεως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "250",
+      "text": "Ἵνα ἀγάγωσιν, οὐχ ἵνα ἄξωσιν. Καρποὺς ξηροὺς καὶ ὑγρούς, οὐ γεννήματα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "251",
+      "text": "Ὑπήντησε, συνήντησε. Ὀνυχίζειν καὶ ἐξονυχίζειν ἐπὶ τοῦ ἀκριβολογεῖσθαι τίθεται· τὸ δ’ ἀπονυχίζειν τὸ τὰς ὑπεραυξήσεις τῶν ὀνύχων ἀφαιρεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "261",
+      "text": "Φλέϊνα τὰ ἀπὸ τοῦ φλέως πλεκόμενα. Πεποίθησις οὐκ εἴρηται, ἀλλ’ εἴ τι πιστεύειν ἢ πεποιθέναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "264",
+      "text": "Ἔγγειον μὴ λέγε, ἀλλ’ ἐγγύτερον· ἐπὶ δὲ τοῦ ἐν τῇ γῇ, οἷον „ἔγγυον κτῆμα“, εἴ τις χρῷτο, ἄριστα ἂν χρήσαιτο, ὡς καὶ Δημοσθένης „ἔγγειον τόκον“ λέγει. Ἐξάδελφος ἀποδιοπομπητέον, ὁ ἀνεψιὸς δὲ ῥητέον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "275",
+      "text": "Πανδοκεῖον, πανδοκεύς, πανδοκεύτρια. Ἐκτενῶς μή, δαψιλῶς δέ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "285",
+      "text": "Πρώτως μὴ λέγε, ἀλλὰ πρῶτον. Παρακαταθήκην, οὐ παραθήκην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "287",
+      "text": "Ἀπαράβατον μή, ἀπαραίτητον δέ. Ἀγωγὸν οἱ παλαιοὶ ἐπὶ τοῦ ἡγουμένου τινὰ ὁδόν· οἱ δὲ νῦν ἀγωγοὺς καλοῦσιν τοὺς ὀχετοὺς τῶν ὑδάτων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "291",
+      "text": "Καρῆναι καὶ ἐκάρην ἐπὶ προβάτων, κείρασθαι δὲ ἐπὶ ἀνθρώπων. Δεξαμενὴ καὶ δεξαμένη καὶ κολυμβήθρα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "307",
+      "text": "Εὐσχήμων ὁ καλὸς καὶ σύμμετρος, οὐχ ὁ πλούσιος. Ἐπίτεξ γυνή, οὐκ ἐπίτοκος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "309",
+      "text": "Θετός, οὐκ ἐγκάθετος, ἢ εἰσποιητὸς ἢ ὑποβλητός. Ἡμίκακον μὴ λέγε, ἀλλ’ ἡμιμόχθηρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "315",
+      "text": "Κόρυδον, οὐ κορυδαλόν. Καταμύειν, οὐ καμμύειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "317",
+      "text": "Καρατομεῖν· κεφαλοτομεῖν. Λάκαιναν γυναῖκα, Λακωνικὴν δὲ τὴν χώραν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "320",
+      "text": "Μιαρὸς ἀρχαῖον. Γαμῴη μὴ λέγε, ἀλλὰ γαμοίη· τὰ γὰρ τῆς πρώτης καὶ τρίτης συζυγίας τῶν περισπωμένων εὐκτικὰ διὰ τῆς οι λέγεται, τὰ δὲ τῆς δευτέρας διὰ τοῦ ω, γελῴη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "323",
+      "text": "Τεχνικῶς, οὐκ ἐντέχνως. Τοῦ δίδωμι τὸ μὲν εὐκτικὸν διὰ τῆς οι διφθόγγου, τὸ δὲ ὑποτακτικὸν διὰ τοῦ ω μεγάλου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "325",
+      "text": "Ἔδομαι, κατέδομαι, οὐ βρώσομαι. Ἄγαγε, ἀγαγών, ὡς ἄνελε, ἀνελών.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "328",
+      "text": "Ἀναίσθητος λέγε, τὸ δὲ ῥῆμα οὔ, τὸ ἀναισθητεύομαι· λέγε οὖν οὐκ αἰσθάνομαι. „Τὸν παῖδα τὸν ἀκολουθοῦντα μετ’ αὐτοῦ“, ὡς Λυσίας λέγει, μὴ εἴπῃς, ἀλλὰ τὸν ἀκολουθοῦντα αὐτῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "331",
+      "text": "Βιωτικόν· ἀειδὴς ἡ λέξις· λέγε οὖν χρήσιμον ἐν τῷ βίῳ. Ἐκλιπών, οὐκ ἐκλείψας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "344",
+      "text": "Χρηστὸς τὸ ἦθος, οὐ τὰ ἤθη. Οὐ δήπου καὶ μὴ δήπου λέγε· ἀπόβλητον δὲ τὸ οὐχ οἷον καὶ μὴ οἷον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "349",
+      "text": "Οἰκίας δεσπότης, οὐχ ὡς Ἄλεξις οἰκοδεσπότης. Οὐδηποτοῦν μὴ λέγε, ἀλλ’ ὁντινοῦν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "352",
+      "text": "Πτώματα νεκρῶν ἢ οἴκων. Περίστασις· ἡ συμφορὰ κατὰ Στωϊκούς, οἱ δὲ ἀρχαῖοι τὴν διά τινα τάραχον παρουσίαν πλήθους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "353",
+      "text": "„τίς ἥδε κραυγὴ καὶ δόμων περίστασις;“ Σώματα ἐπὶ τῶν ὠνίων ἀνδραπόδων, οἷον „σώματα πωλεῖται“, οὐ χρῶνται 〈 *** 〉 (357) τὰ πρόσωπα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "359",
+      "text": "Σύαγρος οὐ ῥητέον, ἀλλὰ σῦν ἄγριον. Συγγνωμονῆσαι οὐ χρὴ λέγειν, ἀλλὰ συγγνῶναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "361",
+      "text": "Σιτομετρεῖσθαι μὴ λέγε, ἀλλὰ σῖτον μετρεῖσθαι. Στηθίνιον ὀρνιθίου οὐχ ὑγιῶς, ἀλλὰ στηθίδιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "365",
+      "text": "Φρονιμεύεσθαι μὴ λέγε, φρονεῖν δὲ τὰ ὄντα. Πεντετηρὶς καὶ πεντετηρικὸς ἀγών.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "387",
+      "text": "Πεντάμηνον καὶ πεντέμηνον· πεντάπηχυ καὶ πεντέπηχυ· (388) ἑξάπηχυ καὶ ἕξπηχυ, καὶ ἕξπλεθρον, καὶ ἕξπλευρον. Περιεσπάσθην ἐπὶ τοῦ ἐν ἀσχολίᾳ πάνυ κίβδηλον· τὸ γὰρ περισπᾶν καὶ περισπᾶσθαι ἐπὶ τοῦ παραινεῖν καὶ παραινεῖσθαι λέγουσιν· δέον οὖν ἄσχολος λέγειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "390",
+      "text": "Πορνοκόπος καὶ πορνότριψ. Λίθαργος καὶ ἐπιλήσμων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "395",
+      "text": "Οἰκοδόμημα, οὐχὶ οἰκοδομή. Ὄναρ ἰδὼν ἢ ἐξ ὀνείρου ὄψεως, οὐ κατ’ ὄναρ, ὥσπερ οὐδὲ καθ’ ὕπαρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "398",
+      "text": "Λιθίδιον, οὐ λιθάριον. Καθό, οὐ καθώς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "400",
+      "text": "Κακάβην, οὐ κάκαβον. Θριαλλίς, οὐκ ἐλύχνιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "409",
+      "text": "Τὰ ἐμαυτοῦ πράττω καὶ τὰ σαυτοῦ πρᾶττε, οὐ τὰ ἴδια πράττω καὶ τὰ ἴδια πρᾶττε. Ἐγκρατεύεται, οὐκ ἀκρατεύεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "411",
+      "text": "Αἰχμάλωτον γενέσθαι, οὐκ αἰχμαλωτισθῆναι. Ὠνησάμην· ἔνθα ἂν μὴ δυνηθῇς τὸ πρίασθαι ἢ τὸ ἐπριάμην θεῖναι, ἐκεῖ τὰ ἀπὸ τοῦ εω ῥήματα τάττε· ἔνθα δ’ ἂν τὰ ἀπὸ τοῦ πρίασθαι, φυλάττου θάτερα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "412",
+      "text": "οἷον „ὤνημαι οἰκίαν“· ἐνταῦθα γὰρ ἐγχωρεῖ τὸ ἐπριάμην, οὕτω χρήσῃ ἐπριάμην· καὶ ἀνάπαλιν „ἔτυχον ἐωνημένος οἰκίαν ἢ ἀγρόν“· ἐνταῦθα οὐδὲν ἐγχωρεῖ τῶν ἀπὸ τοῦ πρίασθαι· μένει τὸ ἐωνημένος· δεῖ γὰρ λέγειν πριάμενος· τὸ γὰρ ἐωνησάμενος ἀδόκιμον. Ἀνυπόδητος σὺν τῷ η, οὐ σὺν τῷ ε, καὶ ὑποδήσασθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "420",
+      "text": "Εὕρημα, οὐχ εὕρεμα. Προσδεῖσθαι, οὐ προσδέεσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "422",
+      "text": "Ἀπηρτισμένον, ἀπήρτικα, καὶ τὰ ἀπὸ τούτων ἅπαντα σόλοικα· ἀποτελέσθαι καὶ ἀποτελεσμένον.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "oqu-ac",
+      "title": {
+        "english": "Eclogae (Recension A)",
+        "ancient_greek": "Ἐκλογαί"
+      },
+      "url_slug": "phrynichus-of-bithynia-text-ac-oqu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/phrynichus-of-bithynia/text-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia-text-ac-oqu-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia-text-ac-oqu-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia-text-ac-oqu-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia-text-ac-oqu-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia/text-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "oqu-ad",
+      "title": {
+        "english": "Eclogae (Recension B)",
+        "ancient_greek": "Ἐκλογαί"
+      },
+      "url_slug": "phrynichus-of-bithynia-text-ad-oqu-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/phrynichus-of-bithynia/text-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia-text-ad-oqu-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia-text-ad-oqu-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia-text-ad-oqu-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia-text-ad-oqu-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia/text-ad.epub"
+      }
+    },
+    {
+      "eul_wid": "oqu-ab",
+      "title": {
+        "english": "Sophistic Preparation, Epitome",
+        "ancient_greek": "Σοφιστικὴ Προπαρασκευή"
+      },
+      "url_slug": "phrynichus-of-bithynia-sophistic-preparation-ab-oqu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/phrynichus-of-bithynia/sophistic-preparation-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia-sophistic-preparation-ab-oqu-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia-sophistic-preparation-ab-oqu-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia-sophistic-preparation-ab-oqu-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia-sophistic-preparation-ab-oqu-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia/sophistic-preparation-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "oqu-aa",
+      "title": {
+        "english": "Sophistic Preparation, Fragments",
+        "ancient_greek": "Σοφιστικὴ Προπαρασκευή"
+      },
+      "url_slug": "phrynichus-of-bithynia-sophistic-preparation-aa-oqu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/phrynichus-of-bithynia/sophistic-preparation-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia-sophistic-preparation-aa-oqu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia-sophistic-preparation-aa-oqu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia-sophistic-preparation-aa-oqu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia-sophistic-preparation-aa-oqu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia/sophistic-preparation-aa.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "piw-ab",
+      "title": {
+        "english": "Allegories-Hesiod's Theogony",
+        "ancient_greek": "Ἀλληγορίαι εἰς τὴν Θεογονίαν τοῦ Ἡσιόδου"
+      },
+      "url_slug": "galen-of-pergamon-ii-allegories-theogony-piw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon-ii/allegories-theogony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-ii-allegories-theogony-piw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-ii-allegories-theogony-piw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-ii-allegories-theogony-piw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-ii-allegories-theogony-piw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-ii/allegories-theogony.epub"
+      }
+    },
+    {
+      "eul_wid": "klo-aa",
+      "title": {
+        "english": "Commentary-Callimachus' Pinakes, Fragments",
+        "ancient_greek": "Ὑπόμνημα εἰς Καλλιμάχου Πίνακας"
+      },
+      "url_slug": "aristophanes-of-byzantium-callimachus-pinakes-klo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-byzantium/callimachus-pinakes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium-callimachus-pinakes-klo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium-callimachus-pinakes-klo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium-callimachus-pinakes-klo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium-callimachus-pinakes-klo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/callimachus-pinakes.epub"
+      }
+    },
+    {
+      "eul_wid": "tqa-am",
+      "title": {
+        "english": "Grammatical Fragment",
+        "ancient_greek": "Γραμματικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "anonymous-greek-grammarian-fragment-am-tqa-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-greek-grammarian/fragment-am",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-am-tqa-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-am-tqa-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-am-tqa-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-am-tqa-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-am.epub"
+      }
+    },
+    {
+      "eul_wid": "qnq-az",
+      "title": {
+        "english": "On Attic Prosody",
+        "ancient_greek": "Περὶ Ἀττικῆς προσῳδίας"
+      },
+      "url_slug": "herodian-of-alexandria-attic-prosody-qnq-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/attic-prosody",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-attic-prosody-qnq-az.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-attic-prosody-qnq-az.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-attic-prosody-qnq-az.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-attic-prosody-qnq-az.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/attic-prosody.epub"
+      }
+    },
+    {
+      "eul_wid": "qnq-bf",
+      "title": {
+        "english": "On Orthography",
+        "ancient_greek": "Περὶ ὀρθογραφίας"
+      },
+      "url_slug": "herodian-of-alexandria-orthography-qnq-bf",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/orthography",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-orthography-qnq-bf.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-orthography-qnq-bf.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-orthography-qnq-bf.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-orthography-qnq-bf.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/orthography.epub"
+      }
+    },
+    {
+      "eul_wid": "oqa-ad",
+      "title": {
+        "english": "On Poems",
+        "ancient_greek": "Περὶ ποιημάτων"
+      },
+      "url_slug": "hephaestion-of-alexandria-on-poems-oqa-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/hephaestion-of-alexandria/on-poems",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria-on-poems-oqa-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria-on-poems-oqa-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria-on-poems-oqa-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria-on-poems-oqa-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/on-poems.epub"
+      }
+    },
+    {
+      "eul_wid": "vmw-ac",
+      "title": {
+        "english": "Scholia-Minor Epic and Elegiac Poems",
+        "ancient_greek": "Σχόλια εἰς Μικρὰ Ἐπικὰ καὶ Ἐλεγειακὰ Ποιήματα"
+      },
+      "url_slug": "callimachus-scholia-minor-epic-elegiac-vmw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/minor-epic-elegiac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-minor-epic-elegiac-vmw-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-minor-epic-elegiac-vmw-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-minor-epic-elegiac-vmw-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-minor-epic-elegiac-vmw-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/minor-epic-elegiac.epub"
+      }
+    },
+    {
+      "eul_wid": "usw-ab",
+      "title": {
+        "english": "Universal Rules-Syntax",
+        "ancient_greek": "Κανόνες καθολικοὶ περὶ συντάξεως"
+      },
+      "url_slug": "timotheus-of-gaza-universal-syntax-usw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/timotheus-of-gaza/universal-syntax",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-of-gaza-universal-syntax-usw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-of-gaza-universal-syntax-usw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-of-gaza-universal-syntax-usw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-of-gaza-universal-syntax-usw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-of-gaza/universal-syntax.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/phrynichus-of-bithynia/text-ae",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia-text-ae-oqu-ae.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia-text-ae-oqu-ae.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia-text-ae-oqu-ae.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia-text-ae-oqu-ae.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia/text-ae.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

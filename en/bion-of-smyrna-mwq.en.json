@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "mwq",
+  "auth_slug": "bion-of-smyrna",
+  "name": {
+    "english": "Bion of Smyrna",
+    "ancient_greek": "Βίων ὁ Σμυρναῖος"
+  },
+  "seo_h1": "Bion of Smyrna and the Adonis Epitaph",
+  "seo": {
+    "browser_title": "Bion of Smyrna Ancient Greek Poet on Eulogikon Greek Archive",
+    "meta_title": "Bion of Smyrna Ancient Greek Bucolic Poetry and Verse",
+    "meta_description": "Bion of Smyrna was a Hellenistic Greek poet of bucolic verse. Works include the Lament for Adonis. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρὶς βουκολική",
+      "english": "Doric Bucolic",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Bion of Smyrna was a Greek poet of the Hellenistic period, most likely active in the late second or early first century BCE. He is recognized as a writer of bucolic, or pastoral, poetry, a tradition centered on idealized depictions of rural life. The biographical details concerning him are obscure and often conflated with legends about other poets. Ancient sources report that he was born in Smyrna in Asia Minor, spent time in Sicily, and died in Euboea. The tradition that he was a student of the poet Moschus is generally regarded by modern scholars as a literary fiction rather than a historical fact.</p>\n<p class=\"research-text\">Very little of Bion&#x27;s poetry survives. His most famous and only complete extant work is the <strong>Lament for Adonis</strong>, a pastoral dirge mourning the death of the mythological youth Adonis. A small number of other fragments of his bucolic verse are preserved, including pieces on Achilles and Eros. Many works once attributed to him in ancient catalogs are now lost.</p>\n<p class=\"research-text\">Bion&#x27;s significance lies in his role in the development of the pastoral tradition after its foundational figure, Theocritus. His <strong>Lament for Adonis</strong> is a prime example of the pastoral dirge, skillfully blending mythological narrative with emotional and descriptive language drawn from the rustic world. This poem directly inspired the later <strong>Lament for Bion</strong>, a work that mourns the poet himself, thereby establishing a chain of literary imitation. Through these works, Bion helped shape the conventions of the bucolic genre, influencing subsequent Greek and Roman pastoral poetry.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 3,
+  "works": [
+    {
+      "eul_wid": "mwq-ab",
+      "title": {
+        "english": "Adonis Epitaph",
+        "ancient_greek": "Αδώνιδος επιτάφιος"
+      },
+      "url_slug": "bion-of-smyrna-adonis-epitaph-mwq-ab",
+      "passages": 8,
+      "links": {
+        "html": "https://eulogikon.org/grc/bion-of-smyrna/adonis-epitaph",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna-adonis-epitaph-mwq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna-adonis-epitaph-mwq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna-adonis-epitaph-mwq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna-adonis-epitaph-mwq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna/adonis-epitaph.epub"
+      }
+    },
+    {
+      "eul_wid": "mwq-aa",
+      "title": {
+        "english": "Myrson and Lycidas",
+        "ancient_greek": "Μύρσων καὶ Λυκίδας"
+      },
+      "url_slug": "bion-of-smyrna-myrson-lycidas-mwq-aa",
+      "passages": 32,
+      "links": {
+        "html": "https://eulogikon.org/grc/bion-of-smyrna/myrson-lycidas",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna-myrson-lycidas-mwq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna-myrson-lycidas-mwq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna-myrson-lycidas-mwq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna-myrson-lycidas-mwq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna/myrson-lycidas.epub"
+      }
+    },
+    {
+      "eul_wid": "mwq-ac",
+      "title": {
+        "english": "Pastoral Dialogue on the Seasons",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "bion-of-smyrna-seasons-dialogue-mwq-ac",
+      "passages": 79,
+      "links": {
+        "html": "https://eulogikon.org/grc/bion-of-smyrna/seasons-dialogue",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna-seasons-dialogue-mwq-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna-seasons-dialogue-mwq-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna-seasons-dialogue-mwq-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna-seasons-dialogue-mwq-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna/seasons-dialogue.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/bion-of-smyrna",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/bion-of-smyrna-mwq.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/bion-of-smyrna-mwq.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/bion-of-smyrna-mwq.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/bion-of-smyrna-mwq.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

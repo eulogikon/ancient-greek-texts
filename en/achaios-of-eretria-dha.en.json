@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "dha",
+  "auth_slug": "achaios-of-eretria",
+  "name": {
+    "english": "Achaios of Eretria",
+    "ancient_greek": "Ἀχαιός ὁ Ἐρετριεύς"
+  },
+  "seo_h1": "Achaios of Eretria on Athletes and Satyrs",
+  "seo": {
+    "browser_title": "Achaios of Eretria Dramatist on Eulogikon Greek Archive",
+    "meta_title": "Classical Achaios of Eretria Ancient Greek Drama Fragments",
+    "meta_description": "Achaios of Eretria was a 5th century BCE Athenian dramatist. Fragments of his works are preserved. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (dr, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Δρᾶμα",
+      "english": "Drama",
+      "href": "/domains/drama"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Achaios of Eretria was a 5th-century BCE tragedian from Euboea and a contemporary of Sophocles and Euripides. He began competing in Athenian dramatic contests around 447 BCE, winning at least one victory, though ancient sources note he was often defeated by those leading dramatists. Aelian records that he later served as a priest for the Dionysiac artists&#x27; guild in Athens.</p>\n<p class=\"research-text\">Although none of his plays survive intact, the titles of approximately ten or eleven are known, including Aithon (likely a satyr play), Adrastos, Alkmaion, Hephaistos, Linos, Moirai, Oidipous, and Philoktetes. Achaios was considered a notable tragedian after the three great masters. The ancient critic Heraclides of Pontus particularly praised his satyr plays, stating he was second only to Aeschylus in that genre. His fragmentary remains are significant for understanding the diversity of 5th-century Athenian tragedy and the development of satyr drama outside the preserved canonical works.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "dha-aa",
+      "title": {
+        "english": "Fragments on Athletes and Satyrs",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀθλητῶν καὶ Σατύρων"
+      },
+      "url_slug": "achaios-of-eretria-athletes-satyrs-dha-aa",
+      "passages": 134,
+      "links": {
+        "html": "https://eulogikon.org/grc/achaios-of-eretria/athletes-satyrs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/achaios-of-eretria-athletes-satyrs-dha-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/achaios-of-eretria-athletes-satyrs-dha-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/achaios-of-eretria-athletes-satyrs-dha-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/achaios-of-eretria-athletes-satyrs-dha-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/achaios-of-eretria/athletes-satyrs.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/achaios-of-eretria",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/achaios-of-eretria-dha.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/achaios-of-eretria-dha.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/achaios-of-eretria-dha.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/achaios-of-eretria-dha.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

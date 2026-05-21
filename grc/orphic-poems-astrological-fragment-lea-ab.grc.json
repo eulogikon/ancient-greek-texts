@@ -1,0 +1,392 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "lea-ab",
+  "eul_aid": "lea",
+  "author_slug": "orphic-poems",
+  "work_slug": "astrological-fragment",
+  "url_slug": "orphic-poems-astrological-fragment-lea-ab",
+  "author": {
+    "english": "Orphic Poems ",
+    "ancient_greek": "Ὀρφικὰ ποιήματα"
+  },
+  "title": {
+    "english": "Astrological Fragment",
+    "ancient_greek": "Ἀστρολογικὸν Ἀπόσπασμα"
+  },
+  "seo": {
+    "browser_title": "Astrological Fragment by Orphic Poems on Eulogikon",
+    "meta_title": "Astrological Fragment by Orphic Poems in Ancient Greek",
+    "meta_description": "An astrological fragment from the Orphic tradition exploring cosmic themes and ancient cosmology. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Astrological Fragment is a brief verse composition traditionally ascribed to the ancient mythical poet Orpheus. It presents a series of eight oracular pronouncements on the influence of the zodiac, specifically the tropical signs of Capricorn and Cancer, upon human affairs. The text advises on auspicious and inauspicious actions to be taken when these signs are ascendant, warning against travel, initiating construction, or sowing conflict, while recommending certain commercial transactions. It blends practical astrological lore with a broader cosmological perspective, reflecting the principle of cosmic sympathy, wherein celestial motions are believed to govern terrestrial events and human destiny. The fragment survives not as an independent manuscript but through quotation by later philosophical authors, most significantly the 5th-century Neoplatonist Proclus, who cites it in his commentary on Plato’s <strong>Timaeus</strong> to lend archaic authority to the concept of a living, providential universe. Its transmission exemplifies the Hellenistic and Imperial practice of attributing specialized knowledge, such as astrology, to venerable figures like Orpheus to bolster its credibility. Cataloged as Orphic Fragment 338 in modern editions, the text is primarily significant for illustrating how late antique philosophers appropriated and synthesized earlier poetic traditions within their metaphysical systems.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 158",
+      "text": "Δύο τροπικὰ ζῴδιά εἰσιν Αἰγόκερως καὶ Καρκίνος. — Τῶν τροπικῶν ζῳδίων ὡροσκοπούντων μὴ ἅψῃ ὁδοῦ· χαλεπὴ γὰρ καὶ βραδεῖα καὶ οὐ μετὰ καλοῦ· ἐν τροπικοῖς μὴ ἀναχώρησον ἀπὸ ἀνδρός, ὦ γύναι· οἱ φίλοι ἔχθραν ποιήσουσιν καὶ πάλιν φίλοι γίνονται τὴν ἔχθραν ἀποβάλοντες, ἡ δὲ τροφὸς ἐν τροπικοῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 159",
+      "text": "γάλα δώσει ἀρχήν· οὐ μόνον θρέψει τὸ παιδίον, ἀλλὰ καὶ ἄλλον· ἐν τροπικοῖς σπείρειν χρὴ σπέρματα, φυτὰ δὲ φυτεύειν ἐν στερεοῖς, ἐπειδὴ τὰ μὲν σπέρματα θερίσαι ἀνάγκη, τὰ δὲ φυτευόμενα θέ‐ λομεν· μηδὲ οἴκου θεμέλιον ἐν τροπικοῖς βαλεῖν, μηδὲ γῆν πωλῆ‐ σαι, ἐπεὶ τὰ κτίσματα οὐ μένει ἢ ἄλλως οὐ πληρώσῃ τὸ ἔργον, ἐν τροπικοῖς ἀῤῥαβῶνας δοῦναι καλόν· ναῦται δὲ καὶ ἔμποροι καὶ ὅσοι περὶ ζῷα πραγματεύονται, ἐν τροπικοῖς οἱ ἀγοράζοντες ταχὺ πιπράσκουσιν ** ἀλλὰ δι’ ἑβδομάδα λύεται τὸ πάθος, ἐὰν δὲ τῇ ὀγδόῃ τῆς κατακλίσεως μετέλθῃ ἀπὸ τῶν τροπικῶν εἰς τὰ στερεὰ θάνατον ἐπάγει· ἐν τροπικοῖς οὐ δεῖ ἐξελθεῖν 〈ἢ〉 ἐπιστρατεύεσθαι· ἐκκόπ‐ τεται γὰρ ἡ ὁρμή· ἐν τροπικοῖς 〈εἰ〉 φύγῃ τις, εἰσελεύσεται, ἕως μένει εἰς αὐτὸ τὸ ζῴδιον ἡ Σελήνη, ταχεῖα ἡ εὕρεσις, εἰ δὲ παρέλθῃ τῶν τροπικῶν, μετ’ ἄλλον εὑρίσκεται· ἐάν τις ἐν τροπικοῖς κατηγορήσῃ τινὸς εἰς δίκην, ταχὺ λύεται τὸ ἔγκλημα, εἰ δὲ ἐν τρο‐",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 159",
+      "text": "πικοῖς δικάζειν τότε ἄρξεται, οὐ μένει ὁ αὐτὸς δικασθείς, ἀλλ’ ἐπ’ ἀλλήλους μετέρχονται ἢ εἰς ἄλλους οἱ δικαζόμενοι· ἐν τροπικοῖς ἀποδημίας ἄρχεσθαι δεῖ, ταχὺ γὰρ ἀναστρέφῃ· ἐν τροπικοῖς γὰρ φιλίαν μηνύειν· ἐν τροπικοῖς ἐάν τις ὑποσχέσῃ, οὐ πληροῦται ἢ ὁ δοὺς τὴν ὑπόσχεσιν λαμβάνει αὐτήν· ἐν τροπικοῖς οἱ λεγόμενοι λόγοι καὶ οἱ φαινόμενοι ὄνειροι ψευδεῖς· ἐν τροπικοῖς οὐδὲ ῥή‐ τωρ ἀγῶνος ἅπτεσθαι ὀφείλει, οὐδὲ ναῦται πλεῖν, οὐδὲ φυγάδες γίνεσθαι, ὅτι ἀτέλεστά εἰσιν· εἰ δὲ ἐν τροπικοῖς ἀπὸ καταδίκης ἐξο‐ ρίζεται 〈τισ〉 τῆς πατρίδος, πάλιν ἔρχεται· βέβαιον δὲ πρᾶγμα ἐν τροπικοῖς μὴ κατάρχου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 159",
+      "text": "Δίσωμα δὲ δʹ· Δίδυμοι, Παρθένος, Τοξότης, Ἰχθῦς. Τῶν δισώ‐ μων ζῴδίων ὡρ(οσκοπούντων) μήποτε ἀγοράζειν· δόλον γὰρ ἔχει ἡ πρᾶσις ἢ νόσος 〈ἢ〉 ἑτέρα πρόσκειται, αἱ δὲ γενόμεναι ὁμιλίαι ἄλλα τινὰ κεκρυμμένα ἔχουσιν· ἄλλον γὰρ ἔχουσι καὶ ἄλλον βούλονται· ἐν δισώμοις οἱ γενόμενοι γάμοι εἰς μοιχείαν τρέπονται καὶ πολλαὶ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 160",
+      "text": "μάχαι καὶ ὀδύναι γίνονται εἰς τοὺς τοιούτους γάμους, καὶ τὰς φιλίας τῶν γυναικῶν κωλύουσι τὰ δίσωμα· εἰ δέ τις ἐν δισώμοις εἰς ἔγκλημα πέσῃ, ταχὺ ἐκφεύξεται, ὁμοίως δὲ κἂν δεθῇ τις ἐν δισώμοις, ταχὺ τοὺς δεσμοὺς ἐκφεύξεται, εἰ δέ τις λυθῇ ἀπὸ δεσ‐ μῶν ἐν δισώμοις, πάλιν δεθήσεται· εἰ δέ τις φύγῃ ἐν δισώμοις 〈καὶ〉 κρατηθῇ, πάλιν φυγὰς γίνεται· ἐν δισώμοις μισθὸν ἐὰν ὑποσχεθῇ τις, οὐ δώσει ὅσον εἶπεν· ἐν δισώμοις αἱ χάριτες καὶ δωρεαὶ καλαί εἰσιν· καὶ φυτεύειν χρὴ ἐν δισώμοις καὶ ὑποτιθέναι ᾠὰ ὄρνεσιν, ἐὰν δὲ παράκλισις γίνηται ἐν δισώμοις, πάλιν πυρετὸν φέρει καὶ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 160",
+      "text": "ὑποστρέφει νόσημα· ἐὰν ἐν δισώμοις καλόν τι καὶ ἀγαθόν συμβῇ, διπλασιάζεται· καλὸν δὲ καὶ ὁδοῦ κατάρχεσθαι ἐν δισώμοις· προ‐ κόπτουσι γάρ, οἳ μισθὸν τριπλάσιον λαμβάνουσι, εἰ δέ τις ἐν δι‐ σώμοις ἀποθάνῃ, ἄλλος εἷς ἐκ τοῦ οἴκου ἐκείνου ἀποθανεῖν μέλλει, ἐὰν νοσήσῃ τις ἐν δισώμοις, νοσήσουσι καὶ ἄλλοι ἐν 〈τῷ〉 αὐτῷ οἴκῳ· νίκη ἐν δισώμοις καλή, ἧττα δὲ κακὴ διπλασιάζεται· παι‐ δευταῖς καὶ ἰατροῖς μανθάνειν καλὸν 〈εἰσ〉 τὰ δίσωμα. [para]Στερεὰ δὲ δʹ· Ταῦρος, Λέων, Σκορπίος Ὑδροχόος. — 〈Τῶν〉 στερεῶν ζῳδίων ὡρ(οσκοπούντων) αἱ κτήσεις καὶ ἀγο‐ ρασίαι βέβαιαι· ἐν στερέῳ δεῖ γυναῖκα λαμβάνειν καὶ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 160",
+      "text": "πράγματα αὐτῆς· ἐν στερεοῖς τέχνας καὶ ἔργον ἀποθέσθαι δεῖ. πληροῦνται γὰρ αἱ βουλαί· ἐν στερεοῖς χωρισμὸς γυναικῶν τις· φυγάδες οὐκ ὑποστρέφουσιν, οὐδὲ ὁ κλέπτης εὐκαίρως εὑ‐ ρίσκεται, ἀποδημεῖν δὲ βέβαιόν ἐστιν· ἐν στερεοῖς ἐχθρὸς γενό‐ μενος οὐ ταχὺ φιλιοῦται· ἐν στερεοῖς κρίσις βεβαία ἐστὶν καὶ οἱ δίκαιοι οὐκ ἀθετοῦνται· νόσος ἐν στερεοῖς κακή· ἢ γὰρ θάνα‐ τον φέρει ἢ μῆκος νόσου, ἐὰν μὴ εἴσω ἑβδομάδος παύσηται· δε‐ σμοὶ ἐν στερεῷ κακοί, ὁ γὰρ ὀργισθεὶς οὐ μεταβάλλεται· ἐάν τις αἰτήσῃ χρήματα παρασχεῖν ἐν στερεοῖς, οὐ δίδωσιν· ἀγαθῶν λόγων καὶ μουσικῆς ἐν στερεοῖς ἄρξασθαι· ἐν στερεοῖς καλὸν συμβόλαια γράφειν· γράμματα γὰρ καλά· ἐν στερεοῖς εἰ τις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 161",
+      "text": "στρατεύεται, πάντα μένει ἐν τῇ αὐτοῦ στρατείᾳ καὶ οὐ μετα‐ στρατεύεται· πανηγύρεων καὶ χορῶν ἄρξασθαι ἐν στερεοῖς καὶ πάντων τῶν καλῶν ὥσπερ ἐν τροπικοῖς πάντων τῶν κακῶν· ἐν μὲν τοῖς στερεοῖς ἀσάλευτα μένει τὰ γενόμενα, μεταβάλλει δὲ ἐν τρο‐ πικοῖς, πολύμορφα γάρ ἐστιν ἐν δισώμοις· ὡσαύτως δὲ καὶ τὴν Σελήνην ἔχοντα· τὰ προειρημένα ζῴδια ταῦτα δηλοῖ ἅπερ ὡρο‐ σκοποῦντα.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "lea-ad",
+      "title": {
+        "english": "Argonautica",
+        "ancient_greek": "Ἀργοναυτικά"
+      },
+      "url_slug": "orphic-poems-argonautica-lea-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/orphic-poems/argonautica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-argonautica-lea-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-argonautica-lea-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-argonautica-lea-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-argonautica-lea-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/argonautica.epub"
+      }
+    },
+    {
+      "eul_wid": "lea-ac",
+      "title": {
+        "english": "Fragments P. Derveni",
+        "ancient_greek": "Ἀποσπάσματα Π. Δερβενίου"
+      },
+      "url_slug": "orphic-poems-derveni-lea-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/orphic-poems/derveni",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-derveni-lea-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-derveni-lea-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-derveni-lea-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-derveni-lea-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/derveni.epub"
+      }
+    },
+    {
+      "eul_wid": "lea-af",
+      "title": {
+        "english": "Fragments on Medicinal Herbs",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βοτανῶν Ἰατρικῶν"
+      },
+      "url_slug": "orphic-poems-medicinal-herbs-lea-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/orphic-poems/medicinal-herbs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-medicinal-herbs-lea-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-medicinal-herbs-lea-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-medicinal-herbs-lea-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-medicinal-herbs-lea-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/medicinal-herbs.epub"
+      }
+    },
+    {
+      "eul_wid": "lea-aj",
+      "title": {
+        "english": "Hymns",
+        "ancient_greek": "Ὕμνοι"
+      },
+      "url_slug": "orphic-poems-hymns-lea-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/orphic-poems/hymns",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-hymns-lea-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-hymns-lea-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-hymns-lea-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-hymns-lea-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/hymns.epub"
+      }
+    },
+    {
+      "eul_wid": "lea-ah",
+      "title": {
+        "english": "On Stones",
+        "ancient_greek": "Περὶ λίθων"
+      },
+      "url_slug": "orphic-poems-stones-ah-lea-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/orphic-poems/stones-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ah-lea-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ah-lea-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ah-lea-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ah-lea-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/stones-ah.epub"
+      }
+    },
+    {
+      "eul_wid": "lea-ai",
+      "title": {
+        "english": "On Stones",
+        "ancient_greek": "Περὶ λίθων"
+      },
+      "url_slug": "orphic-poems-stones-ai-lea-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/orphic-poems/stones-ai",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ai-lea-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ai-lea-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ai-lea-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ai-lea-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/stones-ai.epub"
+      }
+    },
+    {
+      "eul_wid": "lea-ag",
+      "title": {
+        "english": "Orphic Cosmogony and Soul Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "orphic-poems-cosmogony-soul-lea-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/orphic-poems/cosmogony-soul",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-cosmogony-soul-lea-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-cosmogony-soul-lea-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-cosmogony-soul-lea-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-cosmogony-soul-lea-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/cosmogony-soul.epub"
+      }
+    },
+    {
+      "eul_wid": "lea-aa",
+      "title": {
+        "english": "Proclamations-Stones",
+        "ancient_greek": "Προκηρύξεις περὶ λίθων"
+      },
+      "url_slug": "orphic-poems-proclamations-stones-lea-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/orphic-poems/proclamations-stones",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-proclamations-stones-lea-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-proclamations-stones-lea-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-proclamations-stones-lea-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-proclamations-stones-lea-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/proclamations-stones.epub"
+      }
+    },
+    {
+      "eul_wid": "lea-ae",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "orphic-poems-testimonies-lea-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/orphic-poems/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-testimonies-lea-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-testimonies-lea-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-testimonies-lea-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-testimonies-lea-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/testimonies.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "ffk-aw",
+      "title": {
+        "english": "Epinomis",
+        "ancient_greek": "Ἐπινομίς"
+      },
+      "url_slug": "plato-epinomis-ffk-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/epinomis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-epinomis-ffk-aw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-epinomis-ffk-aw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-epinomis-ffk-aw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-epinomis-ffk-aw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/epinomis.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-as",
+      "title": {
+        "english": "On Indivisible Lines",
+        "ancient_greek": "Περὶ ἀτόμων γραμμῶν"
+      },
+      "url_slug": "aristotle-indivisible-lines-hgw-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/indivisible-lines",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-indivisible-lines-hgw-as.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-indivisible-lines-hgw-as.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-indivisible-lines-hgw-as.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-indivisible-lines-hgw-as.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/indivisible-lines.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-al",
+      "title": {
+        "english": "On Sleep and Wakefulness",
+        "ancient_greek": "Περὶ Ὕπνου καὶ Ἐγρηγόρσεως"
+      },
+      "url_slug": "aristotle-sleep-wakefulness-hgw-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/sleep-wakefulness",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-sleep-wakefulness-hgw-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-sleep-wakefulness-hgw-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-sleep-wakefulness-hgw-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-sleep-wakefulness-hgw-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/sleep-wakefulness.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-dx",
+      "title": {
+        "english": "Philopoemen",
+        "ancient_greek": "Φιλοποίμην"
+      },
+      "url_slug": "plutarch-of-chaeronea-philopoemen-okg-dx",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/philopoemen",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-philopoemen-okg-dx.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-philopoemen-okg-dx.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-philopoemen-okg-dx.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-philopoemen-okg-dx.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/philopoemen.epub"
+      }
+    },
+    {
+      "eul_wid": "kms-ad",
+      "title": {
+        "english": "Poetic Fragments",
+        "ancient_greek": "Ποιητικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "chrysippus-of-soli-poetic-fragments-kms-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/chrysippus-of-soli/poetic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-poetic-fragments-kms-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-poetic-fragments-kms-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-poetic-fragments-kms-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-poetic-fragments-kms-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/poetic-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "pcs-an",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "arrian-of-nicomedia-testimonies-pcs-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-testimonies-pcs-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-testimonies-pcs-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-testimonies-pcs-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-testimonies-pcs-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/testimonies.epub"
+      }
+    },
+    {
+      "eul_wid": "iso-aj",
+      "title": {
+        "english": "To Demeter",
+        "ancient_greek": "εἰς Δήμητρα"
+      },
+      "url_slug": "callimachus-of-cyrene-to-demeter-iso-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/to-demeter",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-demeter-iso-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-demeter-iso-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-demeter-iso-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-demeter-iso-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/to-demeter.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-aj",
+      "title": {
+        "english": "Whether the Soul's or Body's Passions Are Worse",
+        "ancient_greek": "Ποτερον τὰ τῆς ψυχῆς ἢ τὰ τοῦ σώματος πάθη χείρονα"
+      },
+      "url_slug": "plutarch-of-chaeronea-soul-body-passions-okg-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/soul-body-passions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-body-passions-okg-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-body-passions-okg-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-body-passions-okg-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-body-passions-okg-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/soul-body-passions.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/orphic-poems/astrological-fragment",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-astrological-fragment-lea-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-astrological-fragment-lea-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-astrological-fragment-lea-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-astrological-fragment-lea-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/astrological-fragment.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

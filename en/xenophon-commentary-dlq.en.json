@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "dlq",
+  "auth_slug": "xenophon-commentary",
+  "name": {
+    "english": "Xenophon Commentary",
+    "ancient_greek": "Ξενοφῶντος ὑπόμνησις"
+  },
+  "seo_h1": "Scholia on the Anabasis Within the Xenophon Commentary",
+  "seo": {
+    "browser_title": "Xenophon Commentary Author on Eulogikon Greek Archive",
+    "meta_title": "Classical Xenophon Commentary Ancient Greek Grammar Works",
+    "meta_description": "Xenophon Commentary is a grammatical work from the 2nd to 6th centuries CE. It analyzes classical Greek texts. Free to read and download from the Greek library."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The entry &quot;Xenophon Commentary&quot; refers not to an author but to a work, translating as Commentary on Xenophon. The title indicates a late antique scholarly hypomnema on the classical historian. No specific compiler or commentator is identified in standard sources.</p>\n<p class=\"research-text\">The sole work is the commentary itself, Commentary on Xenophon. The provided metadata describes it as a grammatical text in verse employing an Atticizing dialect, consistent with scholarly practices from the 2nd to 6th centuries CE. Its current status—whether extant, lost, or fragmentary—is not recorded.</p>\n<p class=\"research-text\">A commentary from this period would be significant for understanding the reception and scholarly study of Xenophon in late antiquity, illustrating how his language and works were interpreted within educational traditions. However, the work is not attested in major reference sources.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "dlq-aa",
+      "title": {
+        "english": "Scholia-the Anabasis of Cyrus",
+        "ancient_greek": "Σχόλια εἰς Κύρου Ἀνάβασιν"
+      },
+      "url_slug": "xenophon-commentary-anabasis-dlq-aa",
+      "passages": 276,
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-commentary/anabasis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-commentary-anabasis-dlq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-commentary-anabasis-dlq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-commentary-anabasis-dlq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-commentary-anabasis-dlq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-commentary/anabasis.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/xenophon-commentary",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/xenophon-commentary-dlq.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/xenophon-commentary-dlq.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/xenophon-commentary-dlq.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/xenophon-commentary-dlq.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,398 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "aqo-ai",
+  "eul_aid": "aqo",
+  "author_slug": "aesop",
+  "work_slug": "nicephorus-fable",
+  "url_slug": "aesop-nicephorus-fable-aqo-ai",
+  "author": {
+    "english": "Aesop the Fabulist",
+    "ancient_greek": "Αἴσωπος ὁ μυθολόγος"
+  },
+  "title": {
+    "english": "Fable of Nicephorus",
+    "ancient_greek": "Μῦθος Νικηφόρου"
+  },
+  "seo": {
+    "browser_title": "The Fable of Nicephorus by Aesop Storyteller on Eulogikon",
+    "meta_title": "The Classical Fable of Nicephorus by Aesop in Ancient Greek",
+    "meta_description": "A moral fable attributed to Aesop, offering allegorical instruction and timeless wisdom. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Μυθιστορία",
+      "english": "Fiction",
+      "href": "/domains/fiction"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Fable of Nicephorus is an unattested title within the fluid tradition of moral tales attributed to Aesop. While the name suggests a possible connection to a later compiler or manuscript source, it does not correspond to any specific narrative recorded in major scholarly references of the Aesopic corpus. The fables, originating in oral tradition and later compiled in written collections, typically feature animals and convey pointed lessons on human behavior. The provided Greek text recounts a tale of a wolf who disguises himself in a sheepskin to infiltrate a flock, only to be locked in the fold by the shepherd and slaughtered for food when night falls. This narrative exemplifies classic Aesopic themes, such as the dangers of deception, the unforeseen consequences of cunning, and the idea that a disguise meant to secure an advantage can become a trap. Like many fables, it concludes with a moral, here warning that adopting a false appearance often leads to the loss of one&#x27;s very life. The transmission of Aesop&#x27;s fables occurred through various prose collections, such as the medieval <strong>Augustana</strong>, and verse adaptations by Babrius and Phaedrus. Any work bearing the title &quot;Fable of Nicephorus&quot; would likely belong to this later manuscript tradition. The broader Aesopic corpus holds foundational significance for Western literature, shaping educational and rhetorical traditions and influencing later fabulists like Jean de La Fontaine.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1.(t)",
+      "text": "ΠΟΙΜΗΝ ΚΑΙ ΛΥΚΟΣ ὁ ἐπείσακτος κόσμος ἐπικίνδυνος τοῖς χρωμένοις ἐστίν. ἔδοξέ ποτε τῷ λύκῳ τὴν φύσιν τῷ σχήματι μεταλλάξασθαι ὡς ἂν οὕτως ἀφθονίαν ἕξῃ τροφῆς· καὶ δορὰν οἰὸς περιβεβλημένος μετὰ τῆς ποίμνης ἐνέμετο τὸν ποιμένα φενα κίσας τῷ μηχανήματι. νυκτὸς δὲ γενομένης συναπεκλείσθη καὶ ὁ θὴρ παρὰ τοῦ ποιμένος τῇ μάνδρᾳ καὶ φραγμὸς τῇ εἰσόδῳ περιετέθη καὶ ἀτεχνῶς ὁ περίβολος κατησφάλιστο. ὡς δὲ ὁ ποιμὴν ἠράσθη τροφῆς, μαχαίρᾳ τὸν λύκον ἀπέκτεινεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.(t)",
+      "text": "οὕτως ἄρα τὸν ἐπείσακτον κόσμον ὑποκριθεὶς τῆς ζωῆς πολλάκις ἐστέρηται καὶ τὴν σκηνὴν εὗρε παραιτίαν μεγάλου συμπτώματος.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "aqo-aq",
+      "title": {
+        "english": "Aesopic Fables (Anonymous Collection)",
+        "ancient_greek": "Μῦθοι"
+      },
+      "url_slug": "aesop-fables-aq-aqo-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/fables-aq",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-aq-aqo-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-aq-aqo-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-aq-aqo-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-aq-aqo-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-aq.epub"
+      }
+    },
+    {
+      "eul_wid": "aqo-ap",
+      "title": {
+        "english": "Aesopic Fables (Augustana Collection)",
+        "ancient_greek": "Αισώπειων μύθων συναγωγή"
+      },
+      "url_slug": "aesop-fables-ap-aqo-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/fables-ap",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-ap-aqo-ap.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-ap-aqo-ap.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-ap-aqo-ap.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-ap-aqo-ap.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-ap.epub"
+      }
+    },
+    {
+      "eul_wid": "aqo-af",
+      "title": {
+        "english": "Aesopic Fables (Dionian Recension)",
+        "ancient_greek": "Μῦθοι Δίωνι Χρυσόστομῳ ἀνατιθέμενοι"
+      },
+      "url_slug": "aesop-fables-af-aqo-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/fables-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-af-aqo-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-af-aqo-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-af-aqo-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-af-aqo-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-af.epub"
+      }
+    },
+    {
+      "eul_wid": "aqo-am",
+      "title": {
+        "english": "Aesopic Proverbs",
+        "ancient_greek": "Μῦθοι"
+      },
+      "url_slug": "aesop-proverbs-am-aqo-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/proverbs-am",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-proverbs-am-aqo-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-proverbs-am-aqo-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-proverbs-am-aqo-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-proverbs-am-aqo-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/proverbs-am.epub"
+      }
+    },
+    {
+      "eul_wid": "aqo-ao",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "aesop-epigrams-aqo-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-epigrams-aqo-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-epigrams-aqo-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-epigrams-aqo-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-epigrams-aqo-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "aqo-ab",
+      "title": {
+        "english": "Fables Preserved-Assendelftian Wax Tablets",
+        "ancient_greek": "Μῦθοι ἐν δέλτοις Ἀσσενδελφτίοις σωθέντες"
+      },
+      "url_slug": "aesop-preserved-wax-tablets-aqo-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/preserved-wax-tablets",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-preserved-wax-tablets-aqo-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-preserved-wax-tablets-aqo-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-preserved-wax-tablets-aqo-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-preserved-wax-tablets-aqo-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/preserved-wax-tablets.epub"
+      }
+    },
+    {
+      "eul_wid": "aqo-ah",
+      "title": {
+        "english": "Fables in Dodecasyllables",
+        "ancient_greek": "Μῦθοι ἐν Δωδεκασυλλάβοις"
+      },
+      "url_slug": "aesop-fables-dodecasyllables-aqo-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/fables-dodecasyllables",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-dodecasyllables-aqo-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-dodecasyllables-aqo-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-dodecasyllables-aqo-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-dodecasyllables-aqo-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-dodecasyllables.epub"
+      }
+    },
+    {
+      "eul_wid": "aqo-ad",
+      "title": {
+        "english": "Fables of Aphthonius the Rhetorician",
+        "ancient_greek": "Μῦθοι Ἀφθονίου τοῦ Ῥήτορος"
+      },
+      "url_slug": "aesop-aphthonius-fables-aqo-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/aphthonius-fables",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-aphthonius-fables-aqo-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-aphthonius-fables-aqo-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-aphthonius-fables-aqo-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-aphthonius-fables-aqo-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/aphthonius-fables.epub"
+      }
+    },
+    {
+      "eul_wid": "aqo-aj",
+      "title": {
+        "english": "Fables of Dositheus",
+        "ancient_greek": "Μῦθοι Δοσιθέου"
+      },
+      "url_slug": "aesop-dositheus-fables-aqo-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/dositheus-fables",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-dositheus-fables-aqo-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-dositheus-fables-aqo-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-dositheus-fables-aqo-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-dositheus-fables-aqo-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/dositheus-fables.epub"
+      }
+    },
+    {
+      "eul_wid": "aqo-ak",
+      "title": {
+        "english": "Fables of Libanius",
+        "ancient_greek": "Μῦθοι Λιβανίου"
+      },
+      "url_slug": "aesop-fables-ak-aqo-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/fables-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-ak-aqo-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-ak-aqo-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-ak-aqo-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-ak-aqo-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-ak.epub"
+      }
+    },
+    {
+      "eul_wid": "aqo-ag",
+      "title": {
+        "english": "Fables of Syntipas the Philosopher",
+        "ancient_greek": "Μῦθοι Συντίπα τοῦ Φιλοσόφου"
+      },
+      "url_slug": "aesop-syntipas-fables-aqo-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/syntipas-fables",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-syntipas-fables-aqo-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-syntipas-fables-aqo-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-syntipas-fables-aqo-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-syntipas-fables-aqo-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/syntipas-fables.epub"
+      }
+    },
+    {
+      "eul_wid": "aqo-ae",
+      "title": {
+        "english": "Fables of Themistius the Rhetorician",
+        "ancient_greek": "Μῦθοι Θεμιστίου τοῦ Ῥήτορος"
+      },
+      "url_slug": "aesop-themistius-fables-aqo-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/themistius-fables",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-themistius-fables-aqo-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-themistius-fables-aqo-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-themistius-fables-aqo-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-themistius-fables-aqo-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/themistius-fables.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "qay-aa",
+      "title": {
+        "english": "Contest of Homer and Hesiod (Short Recension)",
+        "ancient_greek": "Ἀγὼν Ὁμήρου καὶ Ἡσιόδου"
+      },
+      "url_slug": "homer-hesiod-contest-anonymous-contest-aa-qay-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer-hesiod-contest-anonymous/contest-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-hesiod-contest-anonymous-contest-aa-qay-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-hesiod-contest-anonymous-contest-aa-qay-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-hesiod-contest-anonymous-contest-aa-qay-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-hesiod-contest-anonymous-contest-aa-qay-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-hesiod-contest-anonymous/contest-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "sru-ab",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "heliodorus-of-emesa-epigrams-sru-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/heliodorus-of-emesa/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-of-emesa-epigrams-sru-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-of-emesa-epigrams-sru-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-of-emesa-epigrams-sru-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-of-emesa-epigrams-sru-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-of-emesa/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "skw-aa",
+      "title": {
+        "english": "Fragments Possibly Part of Chione or Ninus",
+        "ancient_greek": "Ἀποσπάσματα Ἴσως Μέρος Χιόνης ἢ Νίνου"
+      },
+      "url_slug": "anonymous-erotic-narrative-chione-ninus-skw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-erotic-narrative/chione-ninus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-chione-ninus-skw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-chione-ninus-skw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-chione-ninus-skw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-chione-ninus-skw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/chione-ninus.epub"
+      }
+    },
+    {
+      "eul_wid": "otm-aa",
+      "title": {
+        "english": "Letters to Matris",
+        "ancient_greek": "Ἐπιστολαὶ πρὸς Μάτριν"
+      },
+      "url_slug": "chion-of-heraclea-matris-otm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/chion-of-heraclea/matris",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chion-of-heraclea-matris-otm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chion-of-heraclea-matris-otm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chion-of-heraclea-matris-otm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chion-of-heraclea-matris-otm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chion-of-heraclea/matris.epub"
+      }
+    },
+    {
+      "eul_wid": "qhw-ab",
+      "title": {
+        "english": "On Incredible Things (Fragment A)",
+        "ancient_greek": "Περὶ Ἀπίστων"
+      },
+      "url_slug": "antonius-diogenes-incredible-things-ab-qhw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/antonius-diogenes/incredible-things-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antonius-diogenes-incredible-things-ab-qhw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antonius-diogenes-incredible-things-ab-qhw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antonius-diogenes-incredible-things-ab-qhw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antonius-diogenes-incredible-things-ab-qhw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antonius-diogenes/incredible-things-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "qhw-aa",
+      "title": {
+        "english": "On Incredible Things or Herpyllis",
+        "ancient_greek": "Περὶ Ἀπίστων ἢ Ἑρπυλλίδος"
+      },
+      "url_slug": "antonius-diogenes-incredible-things-aa-qhw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/antonius-diogenes/incredible-things-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antonius-diogenes-incredible-things-aa-qhw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antonius-diogenes-incredible-things-aa-qhw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antonius-diogenes-incredible-things-aa-qhw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antonius-diogenes-incredible-things-aa-qhw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antonius-diogenes/incredible-things-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "skw-ah",
+      "title": {
+        "english": "Sesonchosis (Fragment A)",
+        "ancient_greek": "Σησόνχωσις"
+      },
+      "url_slug": "anonymous-erotic-narrative-sesonchosis-ah-skw-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-erotic-narrative/sesonchosis-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-sesonchosis-ah-skw-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-sesonchosis-ah-skw-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-sesonchosis-ah-skw-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-sesonchosis-ah-skw-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/sesonchosis-ah.epub"
+      }
+    },
+    {
+      "eul_wid": "skw-at",
+      "title": {
+        "english": "Suicide of Severis",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "anonymous-erotic-narrative-suicide-of-severis-skw-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-erotic-narrative/suicide-of-severis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-suicide-of-severis-skw-at.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-suicide-of-severis-skw-at.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-suicide-of-severis-skw-at.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-suicide-of-severis-skw-at.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/suicide-of-severis.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aesop/nicephorus-fable",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-nicephorus-fable-aqo-ai.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-nicephorus-fable-aqo-ai.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-nicephorus-fable-aqo-ai.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-nicephorus-fable-aqo-ai.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/nicephorus-fable.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

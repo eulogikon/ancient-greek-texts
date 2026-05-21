@@ -1,0 +1,240 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "kby-aa",
+  "eul_aid": "kby",
+  "author_slug": "aristocritus-of-miletus",
+  "work_slug": "myths",
+  "url_slug": "aristocritus-of-miletus-myths-kby-aa",
+  "author": {
+    "english": "Aristocritus of Miletus",
+    "ancient_greek": "Ἀριστόκριτος ὁ Μιλήσιος"
+  },
+  "title": {
+    "english": "Fragments on Miletus and Its Myths",
+    "ancient_greek": "Ἀποσπάσματα περὶ Μιλήτου καὶ τῶν Μύθων αὐτῆς"
+  },
+  "seo": {
+    "browser_title": "Historical Fragments by Aristocritus of Miletus on Eulogikon",
+    "meta_title": "Fragments of Aristocritus of Miletus in Ancient Greek",
+    "meta_description": "Historical fragments by Aristocritus concerning the foundation and myths of Miletus. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Fragments on Miletus and Its Myths is a lost local history by Aristocritus of Miletus, a work of patriography that compiled the etiological myths and traditions specific to that major Ionian city. The text survives only through a handful of fragments preserved through quotation or paraphrase in later antiquarian and lexicographical authors, such as Athenaeus, Harpocration, and the scholiast on Apollonius of Rhodes. It has no independent manuscript tradition, and its content is known solely from these citations, which are collected in modern editions of Greek historical fragments. The work’s scope, as indicated by its title and the extant passages, encompassed the foundational myths of Miletus, including the origins of its eponymous founder, the hero Miletus, whose birth from Apollo and Areia and subsequent exposure in an ash tree is detailed. It also treated the city’s colonial history, local cults, rituals, and genealogies linking prominent Milesian families to heroic or divine figures, such as the tragic story of Caunus and Byblis, the children of Miletus. As a representative of local history, the work served to codify and assert the prestige of Miletus’s ancient heritage, providing later grammarians and historians with valuable source material for Ionian mythography and aiding modern scholarly reconstruction of the city’s legendary past.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-3",
+      "text": "ΠΕΡΙ ΜΙΛΗΤΟΥ. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Apollon. Rh. I, 186: Ὁ δὲ Μίλητος, ἀφ’ οὗ καὶ ἡ πόλις Μίλητος, Εὐξαντίου τοῦ Μίνωος ἦν. Οἱ δέ φασιν αὐτὸν Ἀπόλλωνος καὶ Ἀρείας τῆς Κλεόχου ... Καὶ Ἀριστόκριτος φησὶν ὅτι Ἀρεία θυγάτηρ ἐγένετο Κλεόχου, ἧς καὶ Ἀπόλλωνος γενέσθαι βρέφος, καὶ τοῦτο ἐκτεθῆναι εἰς μίλακα. Τὸν δὲ Κλέοχον ἀνελέσθαι, καὶ ὀνομάσαι ἀπὸ τῆς μίλακος Μίλητον. Τοῦτον δὲ ἀνδρωθέντα καὶ φθονούμενον ὑπὸ τοῦ Μίνωος, ἀναχωρῆσαι εἰς τὴν Σάμον· ἀφ’ οὗ καὶ τόπος ἐστὶ Μίλητος· καὶ ἀπὸ τῆς Σάμου μεταβὰς εἰς τὴν Καρίαν, ἔκτισε πόλιν, Μίλητον ἀφ’ ἑαυτοῦ καλέσας. Parthenius Erot.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "c. 11: Περὶ Βυβλίδο ς . Ἱστορεῖ Ἀριστόκριτος περὶ Μιλήτου καὶ Ἀπολλώνιος ὁ Ῥόδιος Καύνου κτίσει. —Περὶ δὲ Καύνου καὶ Βυβλίδος, τῶν Μιλήτου παίδων, διαφόρως ἱστορεῖται. Νικαίνετος μὲν γάρ φησι τὸν Καῦνον ἐρασθέντα τῆς ἀδελφῆς, ὡς οὐκ ἔληγε τοῦ πάθους, ἀπολιπεῖν τὴν οἰκίαν καὶ ὁδεύσαντα πόρρω τῆς οἰκείας χώρας, πόλιν τε κτίσαι καὶ τοὺς ἀπεσκεδασμένους τότε Ἴωνας ἐνοικίσαι· λέγει δὲ ἔπεσι τοῖσδε· Αὐτὰρ ὅγε προτέρωσε κιὼν Οἰκούσιον ἄστυ κτίσσατο, Τραγασίῃ δὲ Κελαινοῦς εἴχετο παιδὶ, ἥ οἱ Καῦνον ἔτικτεν ἀεὶ φιλέοντα θέμιστας· γείνατο δὲ ῥαδαλῇς ἐναλίγκιον ἀρκεύθοισι Βυβλίδα, τῆς ἤτοι ἀέκων ἠράσσατο Καῦνος· βῆ δὲ πέρην Δίας, φεύγων ὀφιώδεα Κύπρον καὶ Κάπρος ὑλιγενὲς καὶ Κάρια ἱρὰ λοετρά· ἔνθ’ ἤτοι πτολίεθρον ἐδείματο πρῶτος Ἰώνων. Αὐτὴ δὲ γνωτὴ, ὀλολυγόνος οἶτον ἔχουσα, Βυβλὶς ἀποπρὸ πυλῶν Καύνου ὠδύρατο νόστον. Οἱ δὲ πλείους τὴν Βυβλίδα φασὶν, ἐρασθεῖσαν τοῦ Καύνου, λόγους αὐτῷ προσφέρειν καὶ δεῖσθαι μὴ περιιδεῖν αὐτὴν εἰς πᾶν κακὸν προελθοῦσαν· ἀποστυγήσαντα δὲ οὕτως τὸν Καῦνον περαιωθῆναι εἰς τὴν τότε ὑπὸ Λελέγων κατεχομένην γῆν, ἔνθα κρήνη Ἐχενηῒς, πόλιν τε κτίσαι τὴν ἀπ’ αὐτοῦ κληθεῖσαν Καῦνον· τὴν δὲ ἄρα, ὑπὸ τοῦ πάθους μὴ ἀνιεμένην, πρὸς δὲ καὶ δοκοῦσαν αἰτίαν γεγονέναι Καύνῳ τῆς ἀπαλλαγῆς, ἀναψαμένην ἀπό τινος δρυὸς τὴν μίτραν, ἐνθεῖναι τὸν τράχηλον. Λέγεται δὲ καὶ παρ’ ἡμῖν οὕτως· Ἡ δ’ ὅτι δὴ ὀλλοοῖο κασιγνήτου νόον ἔγνω, κλαῖεν ἀηδονίδων θαμινώτερον, αἵτ’ ἐνὶ βήσσῃς Σιθονίῳ κούρῳ πέρι μυρίον αἰάζουσιν· καί ῥα κατὰ στυφελοῖο σαρωνίδος αὐτίκα μίτρην ἁψαμένη, δειρὴν ἐνεθήκατο· ταὶ δ’ ἐπ’ ἐκείνῃ βεύδεα παρθενικαὶ Μιλησίδες ἐρρήξαντο. Φασὶ δέ τινες καὶ ἀπὸ τῶν δακρύων κρήνην ῥυῆναι ἰδίᾳ τὴν καλουμένην Βυβλίδα. Parthenius c.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2a",
+      "text": "26: Περὶ Ἀπριάτη ς . Ἱστορεῖ Εὐφορίων Θρᾳκί. —Ἐν Λέσβῳ παιδὸς Ἀπριάτης Τράμβηλος ὁ Τελαμῶνος ἐρασθεὶς πολλὰ ἐποιεῖτο εἰς τὸ προσαγαγέσθαι τὴν κόρην· ὡς δ’ ἐκείνη οὐ πάνυ ἐνεδίδου, ἐνενοεῖτο δόλῳ καὶ ἀπάτῃ περιγενέσθαι αὐτῆς. Πορευομένην οὖν ποτε σὺν θεραπαινιδίοις ἐπί τι τῶν πατρῴων χωρίων, ὃ πλησίον τῆς θαλάσσης ἔκειτο, λοχήσας εἷλεν. Ὡς δὲ ἐκείνη πολὺ μᾶλον ἀπεμάχετο περὶ τῆς παρθενίας, ὀργισθεὶς Τράμβηλος ἔρριψεν αὐτὴν εἰς τὴν θάλασσαν· ἐτύγχανε δὲ ἀγχιβαθὴς οὖσα. Καὶ ἡ μὲν ἄρα οὕτως ἀπολώλει. Τινὲς μέν τοι ἔφασαν διωκομένην ἑαυτὴν ῥῖψαι. Τράμβηλον δὲ οὐ πολὺ μετέπειτα τίσις ἐλάμβανεν ἐκ θεῶν. Ἐπειδὴ γὰρ Ἀχιλλεὺς ἐκ τῆς Λέσβου πολλὴν λείαν ἀποτεμόμενος ἤγαγεν, οὗτος ἐπαγομένων αὐτὸν τῶν ἐγχωρίων βοηθὸν συνίσταται αὐτῷ· ἔνθα δὴ πληγεὶς εἰς τὰ στέρνα παραχρῆμα πίπτει· ἀγάμενος δὲ τῆς ἀλκῆς αὐτὸν Ἀχιλλεὺς ἔτι ἔμπνουν ἀνέκρινεν, ὅστις τε ἦν καὶ ὁπόθεν· ἐπεὶ δὲ ἔγνω παῖδα Τελαμῶνος ὄντα, πολλὰ κατοδυρόμενος ἐπὶ τῆς ἠιόνος μέγα χῶμα ἔχωσε· τοῦτο ἔτι νῦν ἡρῷον Τραμβήλου καλεῖται. Plinius H.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "N. V, 37: Ioniae ora habet ... Samon: Partheniam primum appellatam Aristoteles tradit, postea Dryusam, deinde Anthemusam, Aristocritus adjicit Melamphyllum, dein Cyparissiam: alii Parthenoarusam, Stephanen. ΤΑ ΠΡΟΣ ΗΡΑΚΛΕΟΔΩΡΟΝ ΑΝΤΙΔΟΞΟΥΜΕΝΑ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4 (1t)",
+      "text": "Clemens Alex. Strom. V: Ἀριστόκριτος δ’ ἐν τῇ πρώτῃ τῶν πρὸς Ἡρακλεόδωρον ἀντιδοξουμένων μέμνηταί τινος ἐπιστολῆς οὕτως ἐχούσης· «Βασιλεὺς Σκυθῶν Ἀτοίας Βυζαντίων δήμῳ. Μὴ βλάπτετε προσόδους ἐμὰς, ἵνα μὴ ἐμοὶ ἵπποι ὑμέτερον ὕδωρ πίωσι.» Συμβολικῶς γὰρ ὁ βάρβαρος τὸν μέλλοντα πόλεμον αὐτοῖς ἐπάγεσθαι παρεδήλωσεν. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "Aristoph. Vesp. 846: Ἔστι δὲ παροιμία, ἀ φ ’ Ἑστίας ἄρχο υ . Μῦθον δὲ συνέθηκεν Ἀριστόκριτος οὕτως ἔχοντα· μετὰ γὰρ τὸ καταλυθῆναι τὴν τῶν Τιτάνων ἀρχὴν, τὸν Δία δεξάμενον τὴν βασιλείαν ἐπιτρέπειν Ἑστίᾳ λαβεῖν ὅ τι βούλοιτο. Τὴν δὲ πρῶτον μὲν παρθενίαν αἰτῆσαι, μετὰ δὲ τὴν παρθενίαν ἀπαρχὰς θυομένων αὑτῇ νέμεσθαι πρώτῃ παρὰ τῶν ἀνθρώπων.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "cas-aa",
+      "title": {
+        "english": "Atthid Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "amelesagoras-of-chalcedon-atthid-cas-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/amelesagoras-of-chalcedon/atthid",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amelesagoras-of-chalcedon-atthid-cas-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amelesagoras-of-chalcedon-atthid-cas-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amelesagoras-of-chalcedon-atthid-cas-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amelesagoras-of-chalcedon-atthid-cas-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amelesagoras-of-chalcedon/atthid.epub"
+      }
+    },
+    {
+      "eul_wid": "luy-aa",
+      "title": {
+        "english": "Fragments on Persian Wars",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Περσικῶν Πολέμων"
+      },
+      "url_slug": "agatharchides-of-samos-persian-wars-luy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/agatharchides-of-samos/persian-wars",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-samos-persian-wars-luy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-samos-persian-wars-luy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-samos-persian-wars-luy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-samos-persian-wars-luy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-samos/persian-wars.epub"
+      }
+    },
+    {
+      "eul_wid": "hwq-ab",
+      "title": {
+        "english": "Geographical Fragments on Sicily",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σικελίας"
+      },
+      "url_slug": "philostephanus-of-cyrene-sicily-hwq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/philostephanus-of-cyrene/sicily",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene-sicily-hwq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene-sicily-hwq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene-sicily-hwq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene-sicily-hwq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene/sicily.epub"
+      }
+    },
+    {
+      "eul_wid": "lpy-aa",
+      "title": {
+        "english": "Historical Fragments on Italy",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἰταλίας"
+      },
+      "url_slug": "alexarchus-of-macedon-historical-italy-lpy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexarchus-of-macedon/historical-italy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexarchus-of-macedon-historical-italy-lpy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexarchus-of-macedon-historical-italy-lpy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexarchus-of-macedon-historical-italy-lpy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexarchus-of-macedon-historical-italy-lpy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexarchus-of-macedon/historical-italy.epub"
+      }
+    },
+    {
+      "eul_wid": "ine-aa",
+      "title": {
+        "english": "On India",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "deimachus-of-plataea-i-india-ine-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/deimachus-of-plataea-i/india",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deimachus-of-plataea-i-india-ine-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deimachus-of-plataea-i-india-ine-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deimachus-of-plataea-i-india-ine-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deimachus-of-plataea-i-india-ine-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deimachus-of-plataea-i/india.epub"
+      }
+    },
+    {
+      "eul_wid": "pvy-aa",
+      "title": {
+        "english": "On the Famous People of Samos",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "menodotus-the-historian-famous-people-pvy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/menodotus-the-historian/famous-people",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menodotus-the-historian-famous-people-pvy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menodotus-the-historian-famous-people-pvy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menodotus-the-historian-famous-people-pvy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menodotus-the-historian-famous-people-pvy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menodotus-the-historian/famous-people.epub"
+      }
+    },
+    {
+      "eul_wid": "rhq-al",
+      "title": {
+        "english": "Roman Histories, Xiphilinus' Epitome",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-roman-histories-al-rhq-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-roman-histories-al-rhq-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-roman-histories-al-rhq-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-roman-histories-al-rhq-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-roman-histories-al-rhq-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-al.epub"
+      }
+    },
+    {
+      "eul_wid": "mmg-bc",
+      "title": {
+        "english": "Writers-Athens",
+        "ancient_greek": "Συγγραφεῖς περὶ Ἀθηνῶν"
+      },
+      "url_slug": "historical-fragments-anonymous-writers-athens-mmg-bc",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/writers-athens",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-writers-athens-mmg-bc.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-writers-athens-mmg-bc.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-writers-athens-mmg-bc.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-writers-athens-mmg-bc.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/writers-athens.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aristocritus-of-miletus/myths",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocritus-of-miletus-myths-kby-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocritus-of-miletus-myths-kby-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocritus-of-miletus-myths-kby-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocritus-of-miletus-myths-kby-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocritus-of-miletus/myths.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

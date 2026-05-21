@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "djs",
+  "auth_slug": "hermippus-the-comic-poet",
+  "name": {
+    "english": "Hermippus the Comic Poet",
+    "ancient_greek": "Ἕρμιππος ὁ κωμικός"
+  },
+  "seo_h1": "Hermippus the Comic Poet and Old Comedy Satire",
+  "seo": {
+    "browser_title": "Hermippus Comic Poet of Athens on Eulogikon Greek Archive",
+    "meta_title": "Hermippus Ancient Greek Comedy and Fragments Works",
+    "meta_description": "Hermippus was an Athenian comic poet of Old Comedy. Three surviving works are preserved as fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Hermippus was an Athenian comic poet active in the late 5th century BCE during the period of Old Comedy. He was a younger contemporary of Cratinus and competed against poets such as Aristophanes at the City Dionysia, winning at least once. Although some ancient sources called him a student of the philosopher Epicurus, this is a chronological impossibility as Epicurus lived later.</p>\n<p class=\"research-text\">He was a prolific writer, credited in antiquity with around forty plays. Only fragments and about ten titles survive, including The Fates, The Bread-Sellers, The Porters, and The Soldiers. Hermippus is a significant figure for understanding the development of Old Comedy between Cratinus and Aristophanes. His style was vigorous and satirical, often featuring personal attacks on prominent contemporaries like the statesman Pericles and his companion Aspasia.</p>\n<p class=\"research-text\">His comedy provides valuable historical insight. A notable fragment from The Porters lists goods imported into Athens, offering important economic data. His fragments are crucial sources for the political and social history of Athens during the Peloponnesian War.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 3,
+  "works": [
+    {
+      "eul_wid": "djs-ab",
+      "title": {
+        "english": "Fragments of Comic Dialogues",
+        "ancient_greek": "Ἀποσπάσματα Κωμικῶν Διαλόγων"
+      },
+      "url_slug": "hermippus-the-comic-poet-comic-dialogues-djs-ab",
+      "passages": 131,
+      "links": {
+        "html": "https://eulogikon.org/grc/hermippus-the-comic-poet/comic-dialogues",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet-comic-dialogues-djs-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet-comic-dialogues-djs-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet-comic-dialogues-djs-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet-comic-dialogues-djs-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet/comic-dialogues.epub"
+      }
+    },
+    {
+      "eul_wid": "djs-aa",
+      "title": {
+        "english": "Fragments on Gods and Time",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θεῶν καὶ Χρόνου"
+      },
+      "url_slug": "hermippus-the-comic-poet-gods-time-djs-aa",
+      "passages": 168,
+      "links": {
+        "html": "https://eulogikon.org/grc/hermippus-the-comic-poet/gods-time",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet-gods-time-djs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet-gods-time-djs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet-gods-time-djs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet-gods-time-djs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet/gods-time.epub"
+      }
+    },
+    {
+      "eul_wid": "djs-ac",
+      "title": {
+        "english": "Satirical Cityscape Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hermippus-the-comic-poet-satirical-cityscape-djs-ac",
+      "passages": 10,
+      "links": {
+        "html": "https://eulogikon.org/grc/hermippus-the-comic-poet/satirical-cityscape",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet-satirical-cityscape-djs-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet-satirical-cityscape-djs-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet-satirical-cityscape-djs-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet-satirical-cityscape-djs-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet/satirical-cityscape.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/hermippus-the-comic-poet",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermippus-the-comic-poet-djs.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermippus-the-comic-poet-djs.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermippus-the-comic-poet-djs.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermippus-the-comic-poet-djs.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

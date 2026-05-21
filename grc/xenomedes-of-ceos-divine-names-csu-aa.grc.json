@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "csu-aa",
+  "eul_aid": "csu",
+  "author_slug": "xenomedes-of-ceos",
+  "work_slug": "divine-names",
+  "url_slug": "xenomedes-of-ceos-divine-names-csu-aa",
+  "author": {
+    "english": "Xenomedes of Ceos",
+    "ancient_greek": "Ξενομήδης ὁ Κεῖος"
+  },
+  "title": {
+    "english": "Fragments on Divine Names",
+    "ancient_greek": "Ἀποσπάσματα περὶ Θείων Ὀνομάτων"
+  },
+  "seo": {
+    "browser_title": "Historical Fragments of Xenomedes of Ceos on Eulogikon",
+    "meta_title": "Classical Fragments by Xenomedes of Ceos in Ancient Greek",
+    "meta_description": "Surviving fragments from Xenomedes of Ceos on divine names and Greek religious terms. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Fragments on Divine Names is a lost work by the Ceian local historian Xenomedes. It survives only through three fragmentary passages preserved by later authors, collected in Felix Jacoby’s <strong>Fragmente der griechischen Historiker</strong>. These fragments indicate the work was a mythography focusing on the traditions of the island of Ceos. The preserved material includes a myth concerning the nymph Cyrene and an etiological story about Ceos, which mentions the figures Aristaeus and the Ichnaeae nymphs. Another fragment provides a list of cult titles for Apollo, including Aegletes, Nomius, and Cynthius. A third discusses the mythological figure Acontius and his love for Cydippe. The text is transmitted solely through indirect quotations, specifically within the scholia on Apollonius Rhodius’s <strong>Argonautica</strong> and in the <strong>Lexicon</strong> of Photius. Xenomedes’s work was employed by later grammarians and scholiasts as an authoritative source for rare Ceian mythological details and explanations of divine epithets. It exemplifies the antiquarian tradition of recording local cultic practices and genealogies, serving to preserve distinctive regional lore within the broader corpus of Greek mythology.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Schol. Aristoph. Lysistr. 447: [ νὴ τὴν Ταυρόπολο ν ] Οὕτω τὴν Ἄρτεμιν ἐκάλουν, τὴν δὲ αἰτίαν Ἀπολλόδωρος ἐν τῷ Περὶ θεῶν ἐκτίθεται· ἔστι δ’ ὅτε καὶ τὴν Ἀθηνᾶν οὕτω καλοῦσιν, ὡς Ξενομήδης ἱστορεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Schol. Victor. ad Il. Π 328: [Ἀμισωδάρου] Οὗτος Καρίας δυνάστης, οὗ τὴν θυγατέρα ἔγημε Βελλεροφόντης, ὡς Ξενομήδης ἔφη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Etym. Gudian. v. Θέλγειν: Ἐνομίδης ἐτυμολογεῖ ὁ τὰ Θεῖα γράψας (sc. τοὺς Τελχῖνας ἀπὸ τοῦ θέλγειν), παρά φησι καὶ τοὺς Τελχῖνας ὥστε θελγῖνες φησὶ, ἐνόντα τοῖς ὕδασι τῆς φύσεως καὶ ἀνὰ ἐποίουν ἕως φυτῶν βασκαίνοντες.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "fbe-ab",
+      "title": {
+        "english": "Fragments on Homer's Origins",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ὁμήρου Γενέσεως"
+      },
+      "url_slug": "ephorus-of-cyme-homer-origins-fbe-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/ephorus-of-cyme/homer-origins",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme-homer-origins-fbe-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme-homer-origins-fbe-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme-homer-origins-fbe-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme-homer-origins-fbe-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme/homer-origins.epub"
+      }
+    },
+    {
+      "eul_wid": "ezq-ao",
+      "title": {
+        "english": "Hiero",
+        "ancient_greek": "Ἱέρων"
+      },
+      "url_slug": "xenophon-of-athens-hiero-ezq-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/hiero",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-hiero-ezq-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-hiero-ezq-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-hiero-ezq-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-hiero-ezq-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hiero.epub"
+      }
+    },
+    {
+      "eul_wid": "ifc-aa",
+      "title": {
+        "english": "History of Constantine the Great",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "praxagoras-of-cos-history-constantine-ifc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/praxagoras-of-cos/history-constantine",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxagoras-of-cos-history-constantine-ifc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxagoras-of-cos-history-constantine-ifc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxagoras-of-cos-history-constantine-ifc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxagoras-of-cos-history-constantine-ifc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxagoras-of-cos/history-constantine.epub"
+      }
+    },
+    {
+      "eul_wid": "pdc-an",
+      "title": {
+        "english": "Illyrian",
+        "ancient_greek": "Ἰλλυρική"
+      },
+      "url_slug": "appian-of-alexandria-illyrian-pdc-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/illyrian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-illyrian-pdc-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-illyrian-pdc-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-illyrian-pdc-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-illyrian-pdc-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/illyrian.epub"
+      }
+    },
+    {
+      "eul_wid": "ezq-af",
+      "title": {
+        "english": "Memorabilia",
+        "ancient_greek": "Κύρου Ἀνάβασις"
+      },
+      "url_slug": "xenophon-of-athens-memorabilia-ezq-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/memorabilia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-memorabilia-ezq-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-memorabilia-ezq-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-memorabilia-ezq-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-memorabilia-ezq-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/memorabilia.epub"
+      }
+    },
+    {
+      "eul_wid": "tzg-aa",
+      "title": {
+        "english": "On the Fertility of Phrygia",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "metrophanes-historicus-fertility-phrygia-tzg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/metrophanes-historicus/fertility-phrygia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrophanes-historicus-fertility-phrygia-tzg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrophanes-historicus-fertility-phrygia-tzg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrophanes-historicus-fertility-phrygia-tzg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrophanes-historicus-fertility-phrygia-tzg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrophanes-historicus/fertility-phrygia.epub"
+      }
+    },
+    {
+      "eul_wid": "rhq-ak",
+      "title": {
+        "english": "Roman Histories, Version 3 in Volume 1",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-roman-histories-3-1-rhq-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-3-1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-roman-histories-3-1-rhq-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-roman-histories-3-1-rhq-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-roman-histories-3-1-rhq-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-roman-histories-3-1-rhq-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-3-1.epub"
+      }
+    },
+    {
+      "eul_wid": "rqm-aa",
+      "title": {
+        "english": "Six Books-Arithmetic",
+        "ancient_greek": "Τὰ Ἕξ Βιβλία περὶ Ἀριθμητικῆς"
+      },
+      "url_slug": "diophantus-of-alexandria-ii-six-books-arithmetic-rqm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/diophantus-of-alexandria-ii/six-books-arithmetic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii-six-books-arithmetic-rqm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii-six-books-arithmetic-rqm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii-six-books-arithmetic-rqm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii-six-books-arithmetic-rqm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii/six-books-arithmetic.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/xenomedes-of-ceos/divine-names",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenomedes-of-ceos-divine-names-csu-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenomedes-of-ceos-divine-names-csu-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenomedes-of-ceos-divine-names-csu-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenomedes-of-ceos-divine-names-csu-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenomedes-of-ceos/divine-names.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

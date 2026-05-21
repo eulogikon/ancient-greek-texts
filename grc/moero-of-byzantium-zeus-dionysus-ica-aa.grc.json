@@ -1,0 +1,334 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ica-aa",
+  "eul_aid": "ica",
+  "author_slug": "moero-of-byzantium",
+  "work_slug": "zeus-dionysus",
+  "url_slug": "moero-of-byzantium-zeus-dionysus-ica-aa",
+  "author": {
+    "english": "Moero of Byzantium",
+    "ancient_greek": "Μοιρώ ἡ Βυζαντία"
+  },
+  "title": {
+    "english": "Fragments on Zeus and Dionysus",
+    "ancient_greek": "Ἀποσπάσματα περὶ Διὸς καὶ Διονύσου"
+  },
+  "seo": {
+    "browser_title": "Poetic Fragments of Moero of Byzantium on Eulogikon",
+    "meta_title": "Classical Fragments by Moero of Byzantium in Ancient Greek",
+    "meta_description": "Surviving fragments of the Hellenistic epic poem on Zeus and Dionysus by Moero of Byzantium. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Zeus and Dionysus</strong> is a Hellenistic epic poem composed by Moero of Byzantium, a poet active around 300 BCE. Written in dactylic hexameter, the traditional meter of Greek epic, the work presented mythological narratives centered on the gods Zeus and Dionysus. The extant fragments, preserved exclusively through quotations in Athenaeus&#x27;s <strong>The Learned Banqueters</strong>, indicate the poem included tales of divine infancy and etiological myths. One passage describes the nurturing of the infant Zeus in a Cretan cave by doves, who brought him ambrosia and nectar, with the great eagle fetching his drink. Another fragment addresses a grape cluster, heavy with the juice of Dionysus, promising it will no longer be bound by its mother vine but will sprout a nectarous leaf above its head, while also invoking the Anigrian Nymphs. The poem thus exemplifies the Hellenistic literary tendency toward erudite, allusive epic that elaborated on obscure myths and genealogies, crafted for a sophisticated readership well-versed in the classical poetic canon.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_1]Ζεὺς δ’ ἄρ’ ἐνὶ Κρήτῃ τρέφετο μέγας, οὐδ’ ἄρα τίς νιν ἠείδει μακάρων· ὁ δ’ ἀέξετο πᾶσι μέλεσσι. Τὸν μὲν ἄρα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τρήρωνες ὑπὸ ζαθέῳ τράφον ἄντρῳ ἀμβροσίην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "φορέουσαι ἀπ’ Ὠκεανοῖο ῥοάων·[ln_5]νέκταρ δ’ ἐκ πέτρης μέγας αἰετὸς αἰὲν ἀφύσσων γαμφηλῇς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "φορέεσκε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "ποτὸν Διὶ μητιόεντι. Τῷ καὶ νικήσας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "πατέρα Κρόνον εὐρύοπα Ζεὺς ἀθάνατον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "ποίησε καὶ οὐρανῷ ἐγκατένασσεν. Ὣς δ’ αὔτως",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.8",
+      "text": "τρήρωσι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.9",
+      "text": "πελειάσιν ὤπασε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.10",
+      "text": "τιμήν,[ln_10]αἳ δή τοι θέρεος καὶ χείματος ἄγγελοί εἰσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Κεῖσαι δὴ χρυσέας ὑπὸ παστάδι τᾷδ’ Ἀφροδίτας [para]βότρυ, Διωνύσου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "πληθόμενος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "σταγόνι· οὐδ’ ἔτι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.4",
+      "text": "τοι μάτηρ ἐρατὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.5",
+      "text": "περὶ κλῆμα βαλοῦσα [para]φύσει ὑπὲρ κρατὸς νεκτάρεον πέταλον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "Νύμφαι Ἀνιγριάδες, ποταμοῦ κόραι, αἳ τάδε βένθη [para]ἀμβρόσιαι ῥοδέοις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "στείβετε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.3",
+      "text": "ποσσὶν ἀεί, χαίρετε, καὶ σῴζοιτε Κλεώνυμον, ὃς τάδε καλὰ [para]εἵσαθ’ ὑπαὶ πιτύων ὔμμι, θεαί, ξόανα.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ica-ab",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "moero-of-byzantium-epigrams-ica-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/moero-of-byzantium/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium-epigrams-ica-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium-epigrams-ica-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium-epigrams-ica-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium-epigrams-ica-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium/epigrams.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "aci-aa",
+      "title": {
+        "english": "Aethiopis",
+        "ancient_greek": "Αἰθιοπίς"
+      },
+      "url_slug": "aethiopis-text-aci-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aethiopis/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aethiopis-text-aci-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aethiopis-text-aci-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aethiopis-text-aci-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aethiopis-text-aci-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aethiopis/text.epub"
+      }
+    },
+    {
+      "eul_wid": "kjq-ak",
+      "title": {
+        "english": "Ethopoeic Exercises",
+        "ancient_greek": "Ἠθοποιίαι"
+      },
+      "url_slug": "epic-fragments-anonymous-ethopoeia-ak-kjq-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/ethopoeia-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-ethopoeia-ak-kjq-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-ethopoeia-ak-kjq-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-ethopoeia-ak-kjq-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-ethopoeia-ak-kjq-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeia-ak.epub"
+      }
+    },
+    {
+      "eul_wid": "qta-aa",
+      "title": {
+        "english": "Fishing",
+        "ancient_greek": "Ἁλιευτικά"
+      },
+      "url_slug": "oppian-of-anazarbus-halieutica-qta-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/oppian-of-anazarbus/halieutica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-of-anazarbus-halieutica-qta-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-of-anazarbus-halieutica-qta-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-of-anazarbus-halieutica-qta-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-of-anazarbus-halieutica-qta-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-of-anazarbus/halieutica.epub"
+      }
+    },
+    {
+      "eul_wid": "mcq-aa",
+      "title": {
+        "english": "Fragments on Abraham and Patriarchs",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀβραὰμ καὶ τῶν Πατριαρχῶν"
+      },
+      "url_slug": "philo-of-alexandria-the-elder-abraham-patriarchs-mcq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria-the-elder/abraham-patriarchs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-the-elder-abraham-patriarchs-mcq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-the-elder-abraham-patriarchs-mcq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-the-elder-abraham-patriarchs-mcq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-the-elder-abraham-patriarchs-mcq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-the-elder/abraham-patriarchs.epub"
+      }
+    },
+    {
+      "eul_wid": "usc-aa",
+      "title": {
+        "english": "Hero and Leander",
+        "ancient_greek": "Ἡρῴ καὶ Λέανδρος"
+      },
+      "url_slug": "musaeus-the-grammarian-hero-leander-usc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/musaeus-the-grammarian/hero-leander",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-the-grammarian-hero-leander-usc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-the-grammarian-hero-leander-usc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-the-grammarian-hero-leander-usc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-the-grammarian-hero-leander-usc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-the-grammarian/hero-leander.epub"
+      }
+    },
+    {
+      "eul_wid": "kjq-ao",
+      "title": {
+        "english": "Iambic encom",
+        "ancient_greek": "Ἰαμβικὸν Ἐγκώμιον"
+      },
+      "url_slug": "epic-fragments-anonymous-iambic-encom-kjq-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/iambic-encom",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-iambic-encom-kjq-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-iambic-encom-kjq-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-iambic-encom-kjq-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-iambic-encom-kjq-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/iambic-encom.epub"
+      }
+    },
+    {
+      "eul_wid": "pge-ab",
+      "title": {
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
+      },
+      "url_slug": "pancrates-of-egypt-testimony-pge-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/pancrates-of-egypt/testimony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt-testimony-pge-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt-testimony-pge-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt-testimony-pge-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt-testimony-pge-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt/testimony.epub"
+      }
+    },
+    {
+      "eul_wid": "kjq-aq",
+      "title": {
+        "english": "Wedding Song",
+        "ancient_greek": "Γαμήλιον Ἄσμα"
+      },
+      "url_slug": "epic-fragments-anonymous-wedding-song-kjq-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/wedding-song",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-wedding-song-kjq-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-wedding-song-kjq-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-wedding-song-kjq-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-wedding-song-kjq-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/wedding-song.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/moero-of-byzantium/zeus-dionysus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium-zeus-dionysus-ica-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium-zeus-dionysus-ica-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium-zeus-dionysus-ica-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium-zeus-dionysus-ica-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium/zeus-dionysus.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

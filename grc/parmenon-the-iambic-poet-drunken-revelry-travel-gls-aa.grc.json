@@ -1,0 +1,229 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "gls-aa",
+  "eul_aid": "gls",
+  "author_slug": "parmenon-the-iambic-poet",
+  "work_slug": "drunken-revelry-travel",
+  "url_slug": "parmenon-the-iambic-poet-drunken-revelry-travel-gls-aa",
+  "author": {
+    "english": "Parmenon the Iambic Poet",
+    "ancient_greek": "Παρημένων ὁ ἰαμβογράφος"
+  },
+  "title": {
+    "english": "Drunken Revelry and Travel",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Fragments of Parmenon the Iambic Poet on Eulogikon",
+    "meta_title": "The Fragments of Parmenon the Iambic Poet in Greek",
+    "meta_description": "Surviving iambic fragments by Parmenon on revelry and travel. A lesser-known Greek iambic voice. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (ia, frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Drunken Revelry and Travel is a collection of iambic poetry attributed to Parmenon the Iambic Poet. The work, also known by the title Apospasmata, meaning &quot;Extracts,&quot; survives only in three fragmentary passages, indicating the loss of the original, complete composition. Its title suggests the verses treated themes of intoxication and journeying. Based on this title and the conventions of later iambic poetry, which frequently included satire and social observation, the fragments likely explored subjects such as drunken revelry, travel, and moralizing commentary on daily life. The work is preserved solely through its inclusion in later anthologies, most probably sourced from the Anthology compiled by the fifth-century grammarian John Stobaeus. Parmenon and his Apospasmata are also attested in the tenth-century Byzantine encyclopedia known as the Suda. While no specific influence on later literature is documented, the work illustrates the continuity of the iambic genre in the post-Classical period. Its preservation signifies it was valued for its content, contributing to modern understanding of the minor poetic works that populated the Hellenistic and later literary landscape.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Ἀνὴρ γὰρ ἕλκων οἶνον, ὡς ὕδωρ ἵππος, Σκυθιστὶ φωνεῖ, κοὐδὲ κόππα γινώσκων ... κεῖται δ’ ἄναυδος ἐν πίθῳ κολυμβήσας κάθυπνος, ὡς μήκωνα φάρμακον πίνων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "Ἦλθον μακρὴν θάλασσαν, οὐκ ἄγων σῦκα Καναῖα φόρτον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "Αἰγύπτιε Ζεῦ Νεῖλε",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "gls-ab",
+      "title": {
+        "english": "Fragments on Egyptian Cities",
+        "ancient_greek": "Ἀποσπάσματα περὶ Αἰγυπτιακῶν Πόλεων"
+      },
+      "url_slug": "parmenon-the-iambic-poet-egyptian-cities-gls-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/parmenon-the-iambic-poet/egyptian-cities",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenon-the-iambic-poet-egyptian-cities-gls-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenon-the-iambic-poet-egyptian-cities-gls-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenon-the-iambic-poet-egyptian-cities-gls-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenon-the-iambic-poet-egyptian-cities-gls-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenon-the-iambic-poet/egyptian-cities.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "ahs-aa",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "dorieus-of-sparta-epigram-ahs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dorieus-of-sparta/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorieus-of-sparta-epigram-ahs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorieus-of-sparta-epigram-ahs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorieus-of-sparta-epigram-ahs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorieus-of-sparta-epigram-ahs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorieus-of-sparta/epigram.epub"
+      }
+    },
+    {
+      "eul_wid": "knm-ab",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "archimelus-the-epigrammatist-epigram-knm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimelus-the-epigrammatist/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimelus-the-epigrammatist-epigram-knm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimelus-the-epigrammatist-epigram-knm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimelus-the-epigrammatist-epigram-knm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimelus-the-epigrammatist-epigram-knm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimelus-the-epigrammatist/epigram.epub"
+      }
+    },
+    {
+      "eul_wid": "rto-aa",
+      "title": {
+        "english": "Fragments of Uncertain Works",
+        "ancient_greek": "Ἀποσπάσματα Ἀδήλων Ἔργων"
+      },
+      "url_slug": "anonymous-parodica-uncertain-fragments-rto-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-parodica/uncertain-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-parodica-uncertain-fragments-rto-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-parodica-uncertain-fragments-rto-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-parodica-uncertain-fragments-rto-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-parodica-uncertain-fragments-rto-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-parodica/uncertain-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "dsy-aa",
+      "title": {
+        "english": "Fragments of a Luxurious Banquet",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δείπνου Τρυφεροῦ"
+      },
+      "url_slug": "philoxenus-of-leucas-luxurious-banquet-dsy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philoxenus-of-leucas/luxurious-banquet",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-leucas-luxurious-banquet-dsy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-leucas-luxurious-banquet-dsy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-leucas-luxurious-banquet-dsy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-leucas-luxurious-banquet-dsy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-leucas/luxurious-banquet.epub"
+      }
+    },
+    {
+      "eul_wid": "dfw-aa",
+      "title": {
+        "english": "Fragments on the Galatian War",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Γαλατικοῦ Πολέμου"
+      },
+      "url_slug": "elegiac-fragments-anonymous-ii-galatian-war-dfw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/elegiac-fragments-anonymous-ii/galatian-war",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elegiac-fragments-anonymous-ii-galatian-war-dfw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elegiac-fragments-anonymous-ii-galatian-war-dfw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elegiac-fragments-anonymous-ii-galatian-war-dfw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elegiac-fragments-anonymous-ii-galatian-war-dfw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elegiac-fragments-anonymous-ii/galatian-war.epub"
+      }
+    },
+    {
+      "eul_wid": "upu-ah",
+      "title": {
+        "english": "Hymn 16 To Asclepius",
+        "ancient_greek": "Ὕμνος εἰς Ἀσκληπιόν"
+      },
+      "url_slug": "homeric-hymns-anonymous-asclepius-upu-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/asclepius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-asclepius-upu-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-asclepius-upu-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-asclepius-upu-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-asclepius-upu-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/asclepius.epub"
+      }
+    },
+    {
+      "eul_wid": "upu-bb",
+      "title": {
+        "english": "Hymn 4 To Hermes",
+        "ancient_greek": "Ὕμνος εἰς Ἑρμῆν"
+      },
+      "url_slug": "homeric-hymns-anonymous-hermes-bb-upu-bb",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/hermes-bb",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-hermes-bb-upu-bb.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-hermes-bb-upu-bb.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-hermes-bb-upu-bb.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-hermes-bb-upu-bb.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hermes-bb.epub"
+      }
+    },
+    {
+      "eul_wid": "des-aa",
+      "title": {
+        "english": "Hymns and Convivial Prayers",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "convivial-songs-anon-hymns-prayers-des-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/convivial-songs-anon/hymns-prayers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/convivial-songs-anon-hymns-prayers-des-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/convivial-songs-anon-hymns-prayers-des-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/convivial-songs-anon-hymns-prayers-des-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/convivial-songs-anon-hymns-prayers-des-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/convivial-songs-anon/hymns-prayers.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/parmenon-the-iambic-poet/drunken-revelry-travel",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenon-the-iambic-poet-drunken-revelry-travel-gls-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenon-the-iambic-poet-drunken-revelry-travel-gls-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenon-the-iambic-poet-drunken-revelry-travel-gls-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenon-the-iambic-poet-drunken-revelry-travel-gls-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenon-the-iambic-poet/drunken-revelry-travel.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

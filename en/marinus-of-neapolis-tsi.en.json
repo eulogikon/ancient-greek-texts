@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "tsi",
+  "auth_slug": "marinus-of-neapolis",
+  "name": {
+    "english": "Marinus of Neapolis",
+    "ancient_greek": "Μαρῖνος ὁ Νεαπολίτης"
+  },
+  "seo_h1": "Marinus of Neapolis on Euclid's Data",
+  "seo": {
+    "browser_title": "Marinus of Neapolis on Eulogikon Greek Texts Archive",
+    "meta_title": "Marinus of Neapolis Ancient Greek Philosophical Works",
+    "meta_description": "Marinus of Neapolis, a 5th century Neoplatonic philosopher. Surviving treatise: Life of Proclus. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ φιλοσοφική",
+      "english": "Philosophical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Neoplatonist",
+      "href": "/affiliations/neoplatonist"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Marinus of Neapolis was a Neoplatonic philosopher who lived in the late 5th century CE. He was born in the city of Neapolis, modern-day Nablus in Palestine, and later moved to Athens to study. There, he became a devoted student of the influential philosopher Proclus.</p>\n<p class=\"research-text\">Following Proclus&#x27;s death around 485 CE, Marinus succeeded him as the head of the Athenian philosophical school, though his own tenure in this role was relatively short. He was known for his deep religious piety and commitment to the traditional rituals and theological system of his teacher.</p>\n<p class=\"research-text\">His only complete surviving work is the Life of Proclus, a biography of his master. This text is a crucial historical source, providing details about the daily life, practices, and intellectual environment of the last major Platonic school in Athens. According to modern scholars, it is not a simple biography but a hagiographical work that presents Proclus as an ideal philosophical and religious figure.</p>\n<p class=\"research-text\">Marinus also wrote commentaries on works by Plato and possibly Aristotle, but these are lost. The authorship of an attributed commentary on Aristotle&#x27;s On Interpretation is considered uncertain.</p>\n<p class=\"research-text\">Marinus&#x27;s primary significance lies in his role as a preserver and transmitter of Proclus&#x27;s legacy. His writings, especially the Life of Proclus, offer invaluable insight into the blend of rigorous philosophy and ritual practice that characterized late Athenian Neoplatonism. He is seen as a direct link in the chain of teaching that carried this tradition forward, even if his own philosophical contributions are viewed as less original than those of his renowned teacher.</p>\n</div>",
+  "affiliation_label": "Neoplatonist",
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "tsi-aa",
+      "title": {
+        "english": "Commentary-Euclid's Data",
+        "ancient_greek": "Ὑπόμνημα εἰς τὰ Εὐκλείδου Δεδομένα"
+      },
+      "url_slug": "marinus-of-neapolis-euclid-data-tsi-aa",
+      "passages": 12,
+      "links": {
+        "html": "https://eulogikon.org/grc/marinus-of-neapolis/euclid-data",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marinus-of-neapolis-euclid-data-tsi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marinus-of-neapolis-euclid-data-tsi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marinus-of-neapolis-euclid-data-tsi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marinus-of-neapolis-euclid-data-tsi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marinus-of-neapolis/euclid-data.epub"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "rrq",
+      "name": {
+        "english": "Amelius Letters",
+        "ancient_greek": "Ἀμελίου Ἐπιστολή"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/amelius-letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amelius-letters-rrq.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amelius-letters-rrq.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amelius-letters-rrq.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amelius-letters-rrq.en.json"
+      }
+    },
+    {
+      "eul_aid": "uqo",
+      "name": {
+        "english": "Ammonius of Alexandria Phil",
+        "ancient_greek": "Ἀμμώνιος ὁ Ἀλεξανδρεύς"
+      },
+      "work_count": 5,
+      "links": {
+        "html": "https://eulogikon.org/en/ammonius-of-alexandria-phil",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ammonius-of-alexandria-phil-uqo.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ammonius-of-alexandria-phil-uqo.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ammonius-of-alexandria-phil-uqo.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ammonius-of-alexandria-phil-uqo.en.json"
+      }
+    },
+    {
+      "eul_aid": "uyg",
+      "name": {
+        "english": "Damascius of Damascus",
+        "ancient_greek": "Δαμάσκιος ὁ Δαμασκηνός"
+      },
+      "work_count": 7,
+      "links": {
+        "html": "https://eulogikon.org/en/damascius-of-damascus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damascius-of-damascus-uyg.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damascius-of-damascus-uyg.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damascius-of-damascus-uyg.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damascius-of-damascus-uyg.en.json"
+      }
+    },
+    {
+      "eul_aid": "vcm",
+      "name": {
+        "english": "David the Invincible",
+        "ancient_greek": "Δαβίδ ὁ Ἀνίκητος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/david-the-invincible",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/david-the-invincible-vcm.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/david-the-invincible-vcm.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/david-the-invincible-vcm.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/david-the-invincible-vcm.en.json"
+      }
+    },
+    {
+      "eul_aid": "sfw",
+      "name": {
+        "english": "Dexippus the Neoplatonist",
+        "ancient_greek": "Δέξιππος ὁ Νεοπλατωνικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/dexippus-the-neoplatonist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dexippus-the-neoplatonist-sfw.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dexippus-the-neoplatonist-sfw.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dexippus-the-neoplatonist-sfw.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dexippus-the-neoplatonist-sfw.en.json"
+      }
+    },
+    {
+      "eul_aid": "vgs",
+      "name": {
+        "english": "Elias the Neoplatonist",
+        "ancient_greek": "Ἠλίας ὁ Νεοπλατωνικός"
+      },
+      "work_count": 3,
+      "links": {
+        "html": "https://eulogikon.org/en/elias-the-neoplatonist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/elias-the-neoplatonist-vgs.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/elias-the-neoplatonist-vgs.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/elias-the-neoplatonist-vgs.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/elias-the-neoplatonist-vgs.en.json"
+      }
+    },
+    {
+      "eul_aid": "sio",
+      "name": {
+        "english": "Eusebius of Myndus",
+        "ancient_greek": "Εὐσέβιος ὁ Μύνδιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/eusebius-of-myndus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-myndus-sio.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-myndus-sio.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-myndus-sio.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-myndus-sio.en.json"
+      }
+    },
+    {
+      "eul_aid": "tbu",
+      "name": {
+        "english": "Hierocles of Alexandria",
+        "ancient_greek": "Ἱεροκλῆς ὁ Ἀλεξανδρεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/hierocles-of-alexandria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hierocles-of-alexandria-tbu.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hierocles-of-alexandria-tbu.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hierocles-of-alexandria-tbu.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hierocles-of-alexandria-tbu.en.json"
+      }
+    },
+    {
+      "eul_aid": "chq",
+      "name": {
+        "english": "Iamblichus Anonymous",
+        "ancient_greek": "Ἰάμβλιχος ὁ Ἀνώνυμος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/iamblichus-anon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-anon-chq.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-anon-chq.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-anon-chq.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-anon-chq.en.json"
+      }
+    },
+    {
+      "eul_aid": "udw",
+      "name": {
+        "english": "Iamblichus of Chalcis",
+        "ancient_greek": "Ἰάμβλιχος ὁ Χαλκιδεύς"
+      },
+      "work_count": 6,
+      "links": {
+        "html": "https://eulogikon.org/en/iamblichus-of-chalcis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-udw.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-udw.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-udw.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-udw.en.json"
+      }
+    },
+    {
+      "eul_aid": "rvw",
+      "name": {
+        "english": "Iamblichus of Chalcis II",
+        "ancient_greek": "Ἰάμβλιχος ὁ Χαλκιδεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/iamblichus-of-chalcis-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-ii-rvw.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-ii-rvw.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-ii-rvw.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-ii-rvw.en.json"
+      }
+    },
+    {
+      "eul_aid": "sno",
+      "name": {
+        "english": "Julian the Apostate",
+        "ancient_greek": "Ἰουλιανὸς ὁ Ἀποστάτης"
+      },
+      "work_count": 20,
+      "links": {
+        "html": "https://eulogikon.org/en/julian-the-apostate",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julian-the-apostate-sno.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julian-the-apostate-sno.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julian-the-apostate-sno.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julian-the-apostate-sno.en.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/marinus-of-neapolis",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/marinus-of-neapolis-tsi.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/marinus-of-neapolis-tsi.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/marinus-of-neapolis-tsi.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/marinus-of-neapolis-tsi.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

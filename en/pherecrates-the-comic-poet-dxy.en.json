@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "dxy",
+  "auth_slug": "pherecrates-the-comic-poet",
+  "name": {
+    "english": "Pherecrates the Comic Poet",
+    "ancient_greek": "Φερεκράτης ὁ Κωμικός"
+  },
+  "seo_h1": "Pherecrates the Comic Poet on Daily Life",
+  "seo": {
+    "browser_title": "The Pherecrates Comic Poet on Eulogikon Greek Archive",
+    "meta_title": "The Pherecrates Ancient Greek Comedy and Fragments",
+    "meta_description": "Pherecrates, Athenian comic poet of Old Comedy in the 5th century BCE. Surviving fragments from his plays. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Pherecrates was an Athenian comic poet active in the latter half of the 5th century BCE, during the Classical period of Old Comedy. He was a contemporary and rival of famous playwrights like Aristophanes. His career began with a victory at the City Dionysia festival in 437 BCE, and he remained active into the early 4th century BCE, though the exact dates of his birth and death are unknown.</p>\n<p class=\"research-text\">He was a prolific writer, credited by ancient sources with between 17 and 24 plays. None of his works survive complete; they are known only through fragments quoted by later authors. His known play titles include <strong>The Savages</strong>, <strong>Chiron</strong>, and <strong>The Miners</strong>, which dealt with themes ranging from social satire and mythological parody to utopian fantasy.</p>\n<p class=\"research-text\">Pherecrates was a significant and innovative figure. Ancient scholars included him among the five great poets of Old Comedy. According to modern scholars, his work provides important evidence for the cultural debates of his time. A famous fragment from his play <strong>Chiron</strong> features a personified Music complaining about contemporary composers, serving as a crucial source for understanding musical innovations in late 5th-century Athens. His play <strong>The Savages</strong>, depicting a primitive utopia, is seen as an influence on later utopian literature. While less of his politically charged satire survives compared to Aristophanes, his comedies addressed social manners and intellectual trends, contributing to the development of comic theater.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 3,
+  "works": [
+    {
+      "eul_wid": "dxy-aa",
+      "title": {
+        "english": "Fragments on Daily Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ"
+      },
+      "url_slug": "pherecrates-the-comic-poet-daily-life-dxy-aa",
+      "passages": 443,
+      "links": {
+        "html": "https://eulogikon.org/grc/pherecrates-the-comic-poet/daily-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-daily-life-dxy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-daily-life-dxy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-daily-life-dxy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-daily-life-dxy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet/daily-life.epub"
+      }
+    },
+    {
+      "eul_wid": "dxy-ab",
+      "title": {
+        "english": "Fragments on Gluttony and Slaves",
+        "ancient_greek": "Ἀποσπάσματα περὶ Λαιμαργίας καὶ Δούλων"
+      },
+      "url_slug": "pherecrates-the-comic-poet-gluttony-slaves-dxy-ab",
+      "passages": 350,
+      "links": {
+        "html": "https://eulogikon.org/grc/pherecrates-the-comic-poet/gluttony-slaves",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-gluttony-slaves-dxy-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-gluttony-slaves-dxy-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-gluttony-slaves-dxy-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-gluttony-slaves-dxy-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet/gluttony-slaves.epub"
+      }
+    },
+    {
+      "eul_wid": "dxy-ac",
+      "title": {
+        "english": "Fragments on Human Affairs",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ἀνθρωπίνων Πραγμάτων"
+      },
+      "url_slug": "pherecrates-the-comic-poet-human-affairs-dxy-ac",
+      "passages": 24,
+      "links": {
+        "html": "https://eulogikon.org/grc/pherecrates-the-comic-poet/human-affairs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-human-affairs-dxy-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-human-affairs-dxy-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-human-affairs-dxy-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-human-affairs-dxy-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet/human-affairs.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/pherecrates-the-comic-poet",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pherecrates-the-comic-poet-dxy.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pherecrates-the-comic-poet-dxy.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pherecrates-the-comic-poet-dxy.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pherecrates-the-comic-poet-dxy.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

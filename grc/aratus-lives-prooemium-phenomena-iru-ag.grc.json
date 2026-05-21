@@ -1,0 +1,545 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "iru-ag",
+  "eul_aid": "iru",
+  "author_slug": "aratus-lives",
+  "work_slug": "prooemium-phenomena",
+  "url_slug": "aratus-lives-prooemium-phenomena-iru-ag",
+  "author": {
+    "english": "Aratus Lives ",
+    "ancient_greek": "Ἀράτου Βίοι"
+  },
+  "title": {
+    "english": "Prooemium to Aratus' Phenomena",
+    "ancient_greek": "Προοίμιον εἰς τὰ Φαινόμενα τοῦ Ἄρατου"
+  },
+  "seo": {
+    "browser_title": "Prooemium to Aratus Phenomena by Anonymous on Eulogikon",
+    "meta_title": "Prooemium to Aratus Phenomena by Anonymous in Greek",
+    "meta_description": "Greek prose introduction to the astronomical poem Phaenomena by Aratus. Biographical preface. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Βίος",
+      "english": "Biography",
+      "href": "/domains/biography"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Prooemium to Aratus&#x27; Phenomena is an anonymous Greek prose text that functions as a biographical introduction to the astronomical poem Phaenomena by Aratus of Soli. Composed in Koine Greek, it belongs to a genre of ancient &quot;Lives of Aratus&quot; that were transmitted alongside the poem in manuscripts. The work is organized into twenty-three concise sections, assembling various anecdotes concerning the poet&#x27;s education, his philosophical affiliations, and his connections to royal patrons, most notably King Antigonus II Gonatas of Macedon. Its purpose was to furnish readers with essential context for the poem, a standard editorial practice in the Hellenistic and Roman Imperial periods. The compiled narratives seek to bolster Aratus&#x27;s intellectual authority and associate his work with prestigious political power. Modern scholarship views the text as a product of ancient editorial conventions, likely created for students and general readers engaging with Aratus&#x27;s influential work. The Prooemium survives in its entirety within the manuscript tradition of the Phaenomena, though its precise date of composition and original author remain unknown.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t",
+      "text": "ΤΩΝ ΑΡΑΤΟΥ ΦΑΙΝΟΜΕΝΩΝ ΠΡΟΟΙΜΙΟΝ Τὴν μὲν δεῖξιν τῶν φαινομένων δέον ποιεῖσθαι πρὸς τῶι νότωι ἀντίας ἔχοντα τὰς Ἄρκτους, δεξιὰς τὰς ἀνατολάς, εὐωνύμους δὲ τὰς δύσεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 [t2]",
+      "text": "ἡ δὲ φυσικὴ θέσις τῆς σφαίρας τοῦ κόσμου ἐστὶ τοιαύτη, ὥστε ἔχειν μεσουρανοῦντα Καρκίνον ἐπὶ τοῦ θερινοῦ τροπικοῦ, ἀνατολικὰς Χηλὰς ἐπὶ τοῦ ἰσημερινοῦ, δυτικὸν Κριόν, Δράκοντος κεφαλὴν πρὸς τῶι ὁρίζοντι. περιέχεται δὲ ὑπὸ τοῦ ὁρίζοντος. Περὶ τῆς τῶν φαινομένων θέσεως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 (t1)",
+      "text": "Ἡ δὲ κατὰ τὴν ἐξήγησιν θέσις τῶν Ἀράτου Φαινομένων ἐστὶ τοιαύτη, ὥστ’ ἔχειν μεσουρανοῦντα Αἰγόκερων ἐπὶ τοῦ χειμερινοῦ τροπικοῦ, ἀνατολικὸν Κριὸν ἐπὶ τοῦ ἰσημερινοῦ, δυτικὰς Χηλάς, Δράκοντος κεφαλὴν ἄνω πρὸς τῶι ὁρίζοντι, ὅπου ‘μίσγονται δύσιές τε καὶ ἀντολαὶ ἀλλήληισιν‘ (Aratus v. 62). ἔχει δὲ καὶ πόλους δύο, ἀρκτικόν, ὅλον τοῦτον μετέωρον, τὸν καὶ βόρειον λεγόμενον, ἀνταρκτικὸν δὲ ἐν τῶι ἀφανεῖ, τὸν καὶ νότιον λεγόμενον. Περὶ κύκλων Ἔχει δὲ κύκλους μεγάλους τέσσαρας χωρὶς τοῦ ὁρίζοντος, ἐπεὶ προείρηται μὲν ἔχων μεσημβρινὸν ἰσημερινὸν ζωιδιακὸν γαλαξίαν, ἐλαχίστους δὲ τέσσαρας, ἀρκτικόν, ὅλον μετέωρον, ἐφ’ ὧι κατεστήρικται ζώιδια τέσσαρα, Ἄρκτοι δύο Κηφεὺς ἀπὸ τῶν στηθῶν Δράκων, θερινὸν τροπικὸν πλεῖον ἔχοντα τὸ ὑπὲρ γῆν, ἧσσον δὲ τὸ ὑπὸ γῆν, ἐφ’ ὧι κατεστήρικται ζώιδια ηʹ, Βοώτης Στέφανος Ἐνγούνασιν Λύρα Κασσιέπεια Ἡνίοχος Ὄρνις Περσεύς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 (t)",
+      "text": "ὁ δὲ χειμερινὸς τροπικὸς πλεῖον ἔχει τὸ ὑπὸ γῆν, ἧσσον δὲ τὸ ὑπὲρ γῆν, ἐφ’ ὧι κατεστήρικται ζώιδια ϛʹ, Ἠριδανὸς Ἀργὼ Κένταυρος, ἐφ’ ὧι Θηρίον, Θυτήριον Ἰχθὺς μέγας νότιος ἀφανής. ὁ δὲ ἰσημερινὸς κύκλος ἴσον ἔχει τὸ ὑπὲρ γῆν καὶ τὸ ὑπὸ γῆν, ἐφ’ ὧι κατηστέρισται ζώιδια ιβʹ, Ἵππος Ὀφιοῦχος, ἐφ’ ὧι Ὄφις, Ὕδρος, ἐφ’ ὧι κατηστέρισται Κρατήρ, Κόραξ Προκύων Ἀετὸς Δελφὶς Ὠρίων Ὀιστὸς Δελτωτὸν Ἀνδρομέδα Λαγωὸς Κῆτος Κύων, ὥστ’ εἶναι τὰ πάντα ζώιδια λʹ τὸν ἀριθμὸν χωρὶς τῶν ἐπισήμων ἐν αὐτοῖς ἀστέρων κατηστερισμένων ηʹ, οἷον ἐπὶ τοῦ Βοώτου Ἀρκτοῦρος, ἐπὶ τοῦ Ἡνιόχου Αἴξ τε καὶ Ἔριφοι, ἐπὶ τοῦ Ταύρου Πλειάδες Ὑάδες, ἐπὶ τῆς Παρθένου Στάχυς Προτρυγητήρ, ἐπὶ τοῦ Κυνὸς Σείριος, καὶ εἴ τινα τούτοις ὅμοια. ὁ δὲ ζωιδιακὸς κύκλος ἔχει ζώιδια ιβʹ, Καρκίνον Λέοντα Παρθένον Χηλάς, ὅ ἐστι Ζυγός, Σκορπίον Τοξότην Αἰγόκερων Ὑδροχόον Ἰχθύας Κριὸν Ταῦρον Διδύμους, ὥστε εἶναι τὰ πάντα ζώιδια μβʹ. εἰσὶ δὲ καὶ πλάνητες ἀστέρες χωρὶς ἡλίου τε καὶ σελήνης εʹ, Κρόνος Ζεὺς Ἄρης Ἀφροδίτη Ἑρμῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4 [t2]",
+      "text": "Τὴν δὲ τῶν φαινομένων ἐξήγησιν πεποίηται Ἄρατος ἀρξάμενος ἀπὸ τῶν Ἄρκτων καὶ περιλαβὼν πάντα τὰ βόρεια κυκλόθεν μέχρι τοῦ ζωιδιακοῦ, εἶτα μεταβὰς καὶ ἀρξάμενος ἀπὸ τοῦ Ὠρίωνος, ἐπεὶ λαμπρός ἐστιν. τὰ δ’ ἀπὸ τοῦ ζωιδιακοῦ νότια πάντα καταλέγεται μέχρι τοῦ ἀνταρκτικοῦ, εἶθ’ οὕτως μέτεισιν ἐπὶ τὰ ἑξῆς. τούτων οὕτως ἐχόντων λοιπὸν μεταβατέον ἐπὶ τοὺς τέμνοντας κύκλους καὶ τὰ τεμνόμενα ὑπ’ αὐτῶν ζώιδια, ὁμοίως δὲ ἐπί τε τὰς συνανατολὰς καὶ τὰς συγκαταδύσεις αὐτῶν, ὅπως μηδὲν ὑπολίπωμεν τῶν πρὸς τὸν καταστερισμόν. πλὴν νοητέον τοῦθ’, ὅτι κατὰ πλάτος ὁ Ἄρατος τὸν περὶ αὐτῶν λόγον πεποίηται διὰ τοῦ ποιήματος μὴ πάντα ἀκριβῶς καταλεξάμενος, ἀλλά τινα παραλιπών, ἅπερ ἐπὶ τῆς σφαίρας θεωρεῖται. ἐγὼ δὲ τὰ παραλελειμμένα ὑπ’ αὐτοῦ προσαποδώσω, ὅπως μηδὲν ἐλλείπηι τῶν πρὸς τὴν θεωρίαν. Περὶ τῶν ἀνατολῶν καὶ δύσεων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5 (t1)",
+      "text": "Ἐγένοντο δὲ τρισσαὶ στάσεις περὶ 〈συν〉ανατολῶν καὶ συγκαταδύσεων· οἳ μὲν γὰρ ἔφασαν τὴν πραγματείαν εἶναι τῶι Ἀράτωι ἄρχοντος ἀνατέλλειν τοῦ ζωιδιακοῦ, οἳ δὲ μεσοῦντος, οἳ δὲ ἀπὸ τῆς ὅλης ἀνατολῆς. τοῦτο δὲ οὐχ ἕστηκεν· ἀπὸ γὰρ ἀρχῆς ἕως τελευτῆς τοῦ ζωιδιακοῦ κύκλου ἔρχεται ἐπὶ τὰς συνανατολάς τε καὶ συγκαταδύσεις, ὃν τρόπον ἔστιν ἐπὶ τῆς σφαίρας θεάσασθαι. ὁ μὲν οὖν ἀρκτικὸς κύκλος τέμνει [ζώιδια δύο] Βοώτου μέσον ἀγκῶνα καὶ Κηφέως στήθη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 [t4]",
+      "text": "οὐκ εἴρηκε δὲ περὶ τούτου Ἄρατος. ὁ δὲ θερινὸς τροπικὸς τέμνει [ζώιδια ιʹ] Ἡνιόχου γόνατα Ὀφιούχου ὤμους Ὄφεως τράχηλον Ὄρνιθος κεφαλὴν καὶ τὸ ὑπαυχένιον Ἵππου ὁπλὰς Περσέως ὦμον ἀριστερὸν καὶ κνήμην ἀριστερὰν Ἀνδρομέδας χεῖρα δεξιὰν Διδύμων κεφαλὰς Καρκίνον μέσον Λέοντα παράμεσον Πρόκυνος ... ὅλος Λαγωὸς παρεῖνται (Aratus v. 480—500). [Ὀφιούχου ὤμους τράχηλον Ὄφεως.] ὁ δὲ ἰσημερινὸς κύκλος τέμνει [ζώδια ιεʹ] Ἵππου κεφαλὴν καὶ τράχηλον Ὀφιούχου γόνατα Ὕδρου τράχηλον Κρατῆρα Κόρακα Ὠρίωνα μέσον ἀριστερὸν [Ἰχθύος οὐρὰν] Κριὸν μέσον Ταύρου γόνατα [Παρθένου πόδα] Χηλὰς μέσας [Σκορπίου μέρος]. .... παρεῖται Προκύων .... (Aratus 516—524). ὁ δὲ χειμερινὸς κύκλος τέμνει [ζώιδια ιʹ· Ἠριδανὸν ποταμὸν] Ἀργοῦς νηὸς πρύμναν Κενταύρου μετάφρενον Κυνὸς μεγάλου ὀπισθίους πόδας Κήτους οὐρὰν Λαγωοῦ μέσον Σκορπίου κέντρον Τοξότου τόξον Αἰγόκερω μέσον Ὑδροχόου πόδας (Aratus 501510) [ὥστε εἶναι τοὺς τέμνοντας κύκλους δʹ, τὰ δὲ τεμνόμενα ὑπ’ αὐτῶν ζώιδια τριάκοντα καὶ ἑπτά]. ................... Ποῖα τῶν ζωιδίων συνανατέλλουσι καὶ συγκαταδύνουσι τοῖς ἐν τῶι ζωιδιακῶι ιβʹ ζωιδίοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6bis (t1)",
+      "text": "Συνανατέλλουσι δὲ καὶ συγκαταδύνουσι τοῖς ἐν τῶι ζωιδιακῶι ιβʹ ζωιδίοις τὰ φαινόμενα οὕτως· Καρκίνου ἀνατέλλοντος ἀνατέλλει ὅλος Ὠρίων καὶ ποταμὸς Ἠριδανός, δύνει δὲ Στέφανος Ἰχθύος τὸ ἥμισυ ἕως ἐπὶ ῥάχιν Ὀφιοῦχος ἕως ὤμων Ὄφις ἕως τραχήλου Ἀρκτοφύλαξ παρ’ ὀλίγον ... (Aratus v. 569—589). Λέοντος ἀνατέλλοντος ἀνατέλλει Προκύων ὅλος Λαγωὸς Ὕδρου κεφαλὴ Κυνὸς ἐμπρόσθιοι πόδες, δύνει δὲ τὰ λοιπὰ τῶν σὺν Καρκίνωι προκαταδεδυκότων Βοώτου τὸ λοιπὸν Στέφανος Ὀφιοῦχος καὶ Ὄφις αὐτοῦ Ἰχθύες Ἀετὸς Κῆτος Ἐν γόνασιν ὅλος πλὴν κνήμης ἀριστερᾶς ἕως γόνατος (Aratus v. 590—595). Παρθένου ἀνατελλούσης ἀνατέλλει Ὕδρος ἕως τοῦ Κρατῆρος Κυνὸς μεγάλου ὀπίσθιοι πόδες Ἀργοῦς τρόπεως πρύμνα, δύνει δὲ Λύρα Δελφὶς Ὀιστὸς Ὄρνις ἕως οὐρᾶς ποταμοῦ Ἠριδανοῦ πρῶτα μέρη Ἵππου κεφαλὴ καὶ αὐχήν (Aratus v. 596 —606). Χηλῶν ἀνατελλουσῶν ἀνατέλλει Βοώτης ὅλος Ἀργὼ ναῦς ὅλη Ὕδρος [Κρατὴρ Κόραξ] δεξιὰ κνήμη τοῦ Ἐν γόνασιν ἕως γόνατος ἥμισυ Στεφάνου ἄκρον τῆς οὐρᾶς τοῦ Κενταύρου (παρεῖται Κρατὴρ Κόραξ), δύνει δὲ Ἵππου τὸ λοιπὸν Ὄρνιθος μεγάλου οὐρὰ Ἀνδρομέδας κεφαλὴ καὶ Κῆτος ἕως λοφιᾶς Κηφέως κεφαλὴ καὶ ὦμοι καὶ χεῖρες (Aratus v. 607—633). Σκορπίου ἀνατέλλοντος ἀνατέλλει Στεφάνου τὸ λοιπὸν ἥμισυ Ὕδρου οὐρὰ Κενταύρου σῶμα καὶ κεφαλὴ καὶ τὸ Θηρίον ὃ ἔχει ἐν τῆι δεξιᾶι χειρὶ Ὀφιούχου κεφαλή τε καὶ χεὶρ καὶ Ὄφεως κεφαλὴ καὶ πρώτη καμπὴ ὁ Ἐν γόνασιν ὅλος πλὴν κεφαλῆς καὶ ἀριστερᾶς χειρός, δύνει δὲ ὅλος Ποταμὸς Ὠρίων παρ’ ὀλίγον Κήτους λοφιὰ Ἀνδρομέδα [Δελτωτὸν] Κασσιέπεια Κηφεὺς ἀπὸ κεφαλῆς ἕως ὀσφύος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6bis (50)",
+      "text": "παρεῖται Δελτωτόν (Aratus v. 634—664). Τοξότου ἀνατέλλοντος ἀνατέλλει Ὀφιούχου σῶμα Ὄφεως τὸ λοιπὸν τοῦ Ἐν γόνασι κεφαλὴ καὶ ἀριστερὰ χεὶρ Λύρα Κηφεύς, δύνει δὲ Κύων ὅλος Ὠρίων Λαγωὸς Ἡνίοχος πλὴν κνήμης ἀριστερᾶς καὶ τῆς χειρὸς ἐφ’ ἧς εἰσιν Αἲξ Ἔριφοι Περσεὺς πλὴν τοῦ δεξιοῦ ποδὸς Ἀργοῦς πρύμνα (Aratus v. 665—682. 684—688). Αἰγόκερω ἀνατέλλοντος ἀνατέλλει Ἀετὸς ὅλος Ὀιστὸς Θυτήριον Δελφὶς Ὄρνις, δύνει δὲ Ἡνιόχου τὰ λοιπὰ κεφαλὴ καὶ χεὶρ ἀριστερὰ ἐφ’ ἧι Αἲξ Ἔριφοι Ἀργὼ ὅλη Προκύων Ὕδρος ἕως Κρατῆρος Κενταύρου ὀπίσθιοι πόδες (Aratus v. 683, 4. 689—692). Ὑδροχόου ἀνατέλλοντος ἀνατέλλει Ἵππου κεφαλὴ καὶ πόδες ἐμπρόσθιοι (Κασσιέπεια παρεῖται), δύνει δὲ Κενταύρου ὀπίσθια Ὕδρος [τε καὶ Κρατὴρ] ἕως Κόρακος. παρεῖται Κρατήρ (Aratus v. 693—698). Ἰχθύων ἀνατελλόντων ἀνατέλλει νότιος Ἰχθὺς οὐχ ὅλος Ἀνδρομέδας δεξιὸν μέρος, δύνει δὲ ὅλος Κένταυρος Ὕδρος [Κόραξ] Κρατήρ. παρεῖται Κόραξ (Aratus v. 699—708). Κριοῦ ἀνατέλλοντος ἀνατέλλει κεφαλὴ καὶ ὦμοι Περσέως Ἀνδρομέδας ἀριστερὸν μέρος (Δελτωτὸν παρεῖται), δύνει δὲ Θυτήριον [Ἀρκτοφύλαξ] (Aratus v. 708—713). Ταύρου ἀνατέλλοντος ἀνατέλλει Περσεὺς ὅλος Ἡνιόχου ποδὸς ἀριστεροῦ ἄκρον καὶ ἀριστερὰ χεὶρ ἐφ’ ἧι εἰσιν Αἲξ Ἔριφοι Κήτους λοφιὰ καὶ οὐρά, δύνει δὲ Ἀρκτοφύλαξ σὺν τῆι αʹ μοίραι [τοῦ Κριοῦ] (Aratus v.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6bis (100)",
+      "text": "713—724). Διδύμων ἀνατελλόντων ἀνατέλλει ποταμὸς Ἠριδανὸς Κῆτος Ὠρίων, δύνει δὲ Ὀφιοῦχος ἕως γονάτων (Aratus v. 725—731). ἃ μὲν οὖν ἐχρῆν περὶ τῆς σφαίρας εἰπεῖν ὡς πρὸς εἰσαγωγήν, σχεδὸν ταῦτ’ ἐστίν. (cf c.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6a",
+      "text": "19) Ἀκολούθως δὲ καὶ ἡ γῆ ἐστι σφαιροειδὴς ἔχουσα μέσον ἄξονα διήκοντα, ὃς κρατεῖ αὐτὴν ἀκίνητον ἔχων τὰ πέρατα ἐνηρεισμένα ἔν τε τῶι βορείωι πόλωι καὶ τῶι νοτίωι. ἔχει δὲ ζώνας εʹ· βόρειον ὅλην μετέωρον ἀοίκητον κατεψυγμένην, Κρόνου· θερινὴν πλέον ἔχουσαν τὸ ὑπὲρ γῆν, ἧσσον δὲ τὸ ὑπὸ γῆν, κυκλόθεν οἰκησίμην εὔκρατον, Διός· ἰσημερινὴν ἴσον ἔχουσαν τὸ ὑπὸ γῆν, ἴσον δὲ τὸ ὑπὲρ γῆν, διακεκαυμένην, Ἄρεος· χειμερινὴν πλέον ἔχουσαν τὸ ὑπὸ γῆν, ἧσσον δὲ τὸ ὑπὲρ γῆν, κυκλόθεν ὠικισμένην εὔκρατον, Ἀφροδίτης· νότιον ἀφανῆ κατεψυγμένην ἀοίκητον, Ἑρμοῦ. οἱ μὲν οὖν ἐπὶ τοῦ αὐτοῦ ἡμισφαιρίου οἰκοῦντες βόρειοι καὶ νότιοι ἑαυτοῖς εἰσιν ἀντίχθονες, οἱ δὲ ἐφ’ ἑκατέρων τῶν ἡμισφαιρίων οἰκοῦντες ὑπέργειοι καὶ ὑπόγειοι ἑαυτοῖς εἰσιν ἀντίποδες. ἡ μὲν οὖν ἀρκτικὴ ζώνη ἔχει ἑξηκοστὰ ϛʹ, ἡ δὲ θερινὴ εʹ, ἡ δὲ ἰσημερινὴ ηʹ ἐξ ἑκατέρου μέρους τοῦ ἰσημερινοῦ ἑξηκοστὰ δʹ (οὗτος γὰρ μέσην αὐτὴν τέμνει κατὰ τὴν ὅλην σφαῖραν), ἡ δὲ χειμερινὴ ἑξηκοστὰ εʹ, ἡ ἀνταρκτικὴ ἑξηκοστὰ ϛʹ, ὥστε εἶναι τῆς γῆς τὸ ὑπέργειον ἑξηκοστῶν λʹ, ὁμοίως δὲ καὶ τὸ ὑπὸ γῆν ἑξηκοστῶν λʹ. γίνεσθαι οὖν ὅλην τὴν γῆν ἑξηκοστῶν ξʹ. δύναται δὲ ἔχειν τὸ ἑξηκοστὸν σταδίους ͵ δςʹ. συνάγονται οὖν ἐπὶ τὸ αὐτὸ γῆς ὅλης σταδίων μυριάδες κεʹ καὶ βʹ. καὶ τάδ’ ‘ὡς λόγος ἐκ πατέρων ὄρωρε‘ κατὰ τὸν Ἀλκαῖον (fr 71 B.) καὶ οὕτως ἔχοντα τυγχάνει. Τὰ μὲν οὖν ὑπεσχημένα μοι περὶ τῆς τῶν φαινομένων εἰσαγωγῆς ταῦτ’ ἔστιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "εἰ δὲ προσπέσοι τὸ συνταξίδιον, καὶ τὸν ἑξῆς τοῦ ποιήματος προσαποδώσω λόγον, ὡς ἔφην, κατὰ τὸν τοῦ ποιητοῦ θεμέλιον, ὅπως μηθέν σε λανθάνηι τῶν παρ’ αὐτῶι εἰρημένων. Περὶ μεταρσίων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8 (t)",
+      "text": "Γίνονται οὖν (φησίν) ἀναθυμιάσεις ἐκ τῶν ὑδάτων τῆς γῆς, ἣ μὲν ὑγρὰ καὶ ἀτμώδης, ἣ δὲ ξηρὰ καὶ καπνώδης. καὶ ἡ πλεονάζουσα ὑγρὰ καὶ συνισταμένη νέφη ποιεῖ καὶ κατὰ μεταβολὴν ὑετοὺς καὶ ὄμβρους καὶ πνεύματα ὅσα ἐκ τούτων γίνεται. ἔστι δὲ ὁμίχλη νέφος ἄγονον ὕδατος ἢ ἀτμώδης ἀναθυμίασις, ζόφος δὲ νέφος μέλαν τε καὶ πεπληρωμένον, αἰθρία δὲ ἀὴρ ἀνέφελος καὶ ἀνόμιχλος, ἀχλὺς δὲ πάχος ἀέρος ἀσύστατον, κνηκὶς δὲ νεφέλη λεπτοτάτη κενὴ ὕδατος, δρόσος δὲ ὑγρὸν ἐξ ἀέρος αἰθρίου κατὰ σύστασιν λεπτήν, ψακὰς δὲ ὕδωρ λεπτῶς διεσπασμένον ἐπὶ τῆς γῆς, ὑετὸς δὲ ψακὰς ἁδρὰ καὶ συνεχής, ὄμβρος δὲ μικρὰ συστήματα ὕδατος ἐκ νέφους κατὰ μεταβολήν, πάγος δέ ἐστιν ὕδωρ πεπηγός, πάχνη δὲ ἡμιπαγὴς δρόσος, χιὼν δὲ ὑετῶν ψακὰς ἐν νέφει πεπηγότι, νιφὰς δέ ἐστι χιὼν πίπτουσα λεπτῶς, χάλαζα δέ ἐστιν ὄμβρος πεπηγώς. ἡ δὲ ξηρὰ ἀναθυμίασις ἐκ τοῦ 〈ὕδατοσ〉 ὑπὸ ψύχους μὲν ὠσθεῖς’ ἀνέμους ἐμποιεῖ, ἐμπίπτουσα δὲ διάπυρος γενομένη κεραυνούς, ἀθρόα δὲ φερομένη ἡμίπυρος οὖσα πρηστῆρας, μὴ πεπυρωμένη δέ πως τυφῶνας, ἀνειμένη δὲ ἡ αὐτὴ ἐκνεφίας ποιεῖ. κεραυνὸς δὲ καὶ πρηστὴρ καὶ τυφὼς κατασκήψας σκηπτὸς λέγεται. τοσαῦτα μὲν ἀρκέσει ὡς ἐν ἐπιτομῆι περὶ τούτων εἰρῆσθαι, ἑξῆς δὲ τὰ ἀκόλουθα τούτων ἐροῦμεν. Περὶ κόσμου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9 (t)",
+      "text": "Κόσμος ἐστὶ σύστημα οὐρανοῦ καὶ γῆς καὶ τῶν ἐν τούτοις φύσεων, οὐρανὸς δὲ τὸ περιέχον πάντα τὰ ὄντα πλὴν αὑτοῦ, αἰθὴρ δὲ οὐσίας χύμα τὸ λεπτότατον θερμὸν φύσει καὶ λαμπρόν, τὸ πρῶτον φῶς καὶ μὴ κατὰ μετοχὴν ἑτέρου γινόμενον, ἀὴρ δὲ οὐσία κούφη ζοφερά, κατὰ μετοχὴν δὲ γινόμενον, ἡ δὲ θερμὴ καὶ φωτεινὴ θεῶν ἐξ αἰθέρος συνέστηκεν, ὅς ἐστι λαμπρὸς καὶ πυρώδης οὐδέποτε στάσιν ἔχων, ἀλλ’ ἀεὶ φερόμενος κύκλωι. πόλοι δὲ καλοῦνται οἱ κατὰ κορυφὴν τόποι τῆς σφαίρας, ἄξων δὲ τὸ διὰ μέσου τῆς σφαίρας διῆκον πνεῦμα, ὅπερ ἐστὶν εὐθεῖά τις. κύκλοι δὲ λέγονται ἐν τῶι οὐρανῶι, ζῶναι δὲ ἐπὶ τῆς γῆς. κόλουροι δέ εἰσιν ϛʹ. οὗτοι δύο ἀναγκαῖοι, ὁ μεσημβρινὸς καὶ ὁ τὸ μέσον τέμνων. νοητοὶ μὲν οὖν οὗτοι. αἰσθητὸς δὲ ὁ γαλαξίας. ὁ 〈δὲ τὸ μέσον〉 τέμνων καὶ ὁρίζων ἐστίν, ὁρίζων δὲ λέγεται διιστὰς τῶν ὁρωμένων τὰ μὴ ὁρώμενα τῆς σφαίρας, καί ἐστι τῶν μεγίστων. τέμνει δὲ τὸν ζωιδιακὸν καὶ τέμνεται ὑπ’ αὐτοῦ. ὅλοι δ’ εἰσὶ κύκλοι ἓξ οἱ τέμνοντες καὶ διορίζοντες τὰ δωδεκατημόρια. δωδεκατημόριον δέ ἐστιν ἕκαστον τμῆμα τῶν ἐν τῶι ζωιδιακῶι. Τί διαφέρει ἄστρον ἀστέρος Διαφέρει δὲ ἄστρον ἀστέρος· τὸ μὲν γάρ ἐστιν εἴδωλον ἐκ πολλῶν ἀστέρων μεμορφωμένον, τὸ δὲ κατὰ μίαν γραφὴν περιοριζόμενον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "Φέρεται δὲ ὁ ἥλιος τὴν ἐναντίαν φορὰν τῶι οὐρανῶι, ὥστε δισσὴν αὐτοῦ τὴν κίνησιν εἶναι, τὴν μὲν σὺν τῶι κόσμωι, τὴν δὲ κατ’ ἰδίαν. ἔχει δὲ τοῦ μὲν θέρους ἡ ἡμέρα, ὅτε ἐστὶν ὁ ἥλιος ἐν Καρκίνωι, 〈ὥρας ......〉 κατὰ τὴν Ἑλλάδα, ἡ δὲ νὺξ 〈ὥρας ...〉 καὶ δύο πεμπτημόρια, ἐπὶ δὲ χειμῶνος τὸ ἀνάπαλιν ... ἄστρα ἀμφιφανῆ· δὶς γὰρ τὴν αὐτὴν ὁρᾶται νύκτα. ἐν τῶι νοτίωι οὐκ ἔστιν ἰδεῖν τι τοιοῦτον. Πόσοι οἱ πάντες ἀστέρες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12 (t)",
+      "text": "Τοὺς πάντας ἀστέρας εἶναι Ἵππαρχός φησιν ͵ απʹ, ὅσοι οὖν πληροῦσι τὰ ἐν τοῖς φαινομένοις ὁρώμενα. Ἀντίζυγα δέ ἐστι ζώιδια τάδε· Κριὸς Χηλαί, Ταῦρος Σκορπίος, Δίδυμοι Τοξότης, καὶ Αἰγόκερως Καρκίνωι, Λέοντι Ὑδροχόος, Παρθένωι Ἰχθύες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14 (t)",
+      "text": "Περὶ τῶν τῆς σελήνης σχημάτων. Τῶν δὲ σχηματ〈ισμ〉ῶν τῆς σελήνης φωτεινοί εἰσιν οἵδε. ... μηνοειδὴς μὲν οὖν ἐστιν, ὅταν ὑπὸ γραμμῶν 〈μὴ ὅλωσ〉 περιφερῶν περιέχηται, διχότομος δέ, ὅταν 〈ὑφ’〉 ἡμικύκλων .... (cf c.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "3) .... διαφορὰς τέμνεσθαι τῆς σφαίρας, τὴν δὲ παράλληλον καὶ τὴν λεγομένην λοξήν, ἔτι δὲ τὴν ὀρθήν. παραλλήλους μὲν ἐν τῶι κόσμωι συμβέβηκε λέγειν, ὅσοι τὸν αὐτὸν ἔχουσι πόλον τῆι σφαίραι, ὀρθοὺς δὲ τοὺς διὰ τῶν πόλων, λοξοὺς δὲ ὧν τὰ ἐπίπεδα κέκλιται πρὸς τοὺς λεγομένους ὀρθοὺς καὶ τοὺς παραλλήλους. ἀπείρων δὲ ἐπινοεῖσθαι δυναμένων ἐν τρισὶ διαφοραῖς κύκλων νοητέον ὑπὸ τῶν μαθηματικῶν τοὺς εἰς τὴν χρείαν τῆς θεωρίας ἔχοντα〈σ〉 παρειλῆφθαι, παραλλήλους δὲ τόν τε ἀρκτικὸν καὶ τὸν θερινὸν τροπικὸν καὶ τὸν ἀνταρκτικόν. ἀρκτικὸς δ’ ὁ αὐτὸς καὶ ἀεὶ φανερὸς διὰ τὸ πάντοτε φαίνεσθαι καὶ μηδέποτε δύνειν. συμπίπτουσι 〈δ’ αἱ παράλληλοι〉 κατὰ τὰς διαφόρους οἰκήσεις τοῦ κατὰ κορυφὴν σημείου νοτιωτέρου ἢ βορειοτέρου γινομένου. νοείσθω δ’ ὁ μὲν θερινὸς τροπικὸς τοῦ ἡλίου ἐπὶ θερινῶν τροπῶν γινομένου καὶ πρὸς αἴσθησιν τούτου παράλληλον γράφοντος, ὁ δὲ ἰσημερινὸς διὰ τὸ τὰς ἡμέρας ταῖς νυξὶν ἐξισοῦσθαι τοῦ ἡλίου κατὰ τοῦτον γινομένου τὸν κύκλον πρὸς αἴσθησιν, ὁ δὲ χειμερινὸς διὰ τὸ τὸν ἥλιον κατὰ τοῦτον γινόμενον τὸν κύκλον χειμερινὰς τροπὰς ποιεῖσθαι. ἀνταρκτικὸς δ’ αὑτὸς καὶ ἀεὶ 〈ἀ〉φανὴς ἀπὸ τοῦ συμβεβηκότος 〈τὸ ὄνομα〉 ἔχει καὶ οὐδέποτε φαίνεται. τῶν δὲ λοξῶν δύο μὲν γράφονται πρὸς αἴσθησιν, ὅ τε ζωιδιακὸς καὶ ὁ γαλαξίας, οἱ δὲ ὁρίζοντες ἐπινοίαι μόνον λαμβάνονται, τῶν δὲ ὀρθῶν οἱ μὲν κόλουροι τὴν ὀνομασίαν ἔχουσιν ἀπὸ τοῦ κολοβοὶ καὶ μὴ ὁλοτελεῖς φαίνεσθαι κατὰ τῆς στροφῆς τῆς σφαίρας, ὁ δὲ ἰσημερινὸς ἀπὸ τοῦ κατ’ αὐτὸν γίνεσθαι τὰς ἰσημερίας. λέγονται δὲ πάντες οὗτοι πρὸς τὰς ὀρθὰς παραλλήλους. οἱ δὲ λοξοὶ ἀπὸ τοῦ συμβεβηκότος ἔχουσι τὴν ὀνομασίαν. τοῦ κόσμου σφαιροειδοῦς ὑποκειμένου καὶ τῆς γῆς πρὸς αὐτὸν κέντρου λόγον ἐπεχούσης ἡ διὰ μέσου αὐτῶν ἀγομένη εὐθεῖα νοητή, περὶ ἣν μένουσαν ὁ κόσμος στρέφεται, ἄξων καλεῖται καὶ τὰ τούτου πέρατα πόλοι, ἅπερ τινὲς μὲν ἀστέρας εἶναι μικροὺς ἔφασαν, ἔνιοι δὲ σημεῖα νοητά, καθὰ καὶ Ἄρατος (v.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16",
+      "text": "24). τούτων δὲ ὃ μέν ἐστι μετέωρος καὶ φανερώτερος ἡμῖν, ὃ δὲ οὐχ ὁρᾶται ὑφ’ ἡμῶν. καὶ καλεῖται ὃ μὲν ἀεὶ φανερὸς καὶ βόρειος, ὃ δὲ ἀεὶ ἀφανὴς καὶ νότιος. κύκλων δὲ ἐν τῶι κόσμωι κατανοουμένων ἀπείρων οἳ μὲν παράλληλοι ὀνομάζονται, οἳ δὲ διὰ τῶν πόλων, οἳ δὲ ὁρίζοντες, οἳ δὲ λοξοί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17",
+      "text": "καὶ οἱ τέσσαρες παράλληλοι μέν εἰσιν οἱ τοὺς αὐτοὺς πόλους ἔχοντες τῶι κόσμωι, λοξοὶ δὲ οἱ μὴ τοὺς αὐτούς, διὰ δὲ τῶν πόλων κύκλοι καλοῦνται οἱ ἐπὶ τῆς αὐτῆς περιφερείας τοὺς τοῦ κόσμου πόλους ἔχοντες (οἱ δὲ αὐτοὶ οὗτοι ὀρθοί τε καὶ κόλουροι καὶ μεσημβρινοὶ προσονομάζονται), ὁρίζοντες δὲ οἱ διορίζοντες ἡμῖν τό τε φανερὸν τοῦ κόσμου 〈καὶ τὸ ἀφανέσ〉, τουτέστι τό τε ὑπὲρ γῆν καὶ τὸ ὑπὸ γῆν. οὗτοι δὲ μεταβάλλουσιν, ὅταν τὸ κατὰ κορυφὴν σημεῖον ἕτερον γένηται τοῦτο γάρ ἐστι πόλος ὁρίζοντος. Ἄρατος μέντο〈ι〉 πρὸ〈ς τὸ〉 τῆς Ἑλλάδος κλίμα τὰ Φαινόμενα πραγματευσάμενος ἐννέα μόνων ἐπεμνήσθη κύκλων, ὀκτὼ μὲν νοητῶν, αἰσθητοῦ δὲ καὶ κατὰ τὸ πλέον ἑνός, τοῦ καλουμένου γαλαξίου (καὶ ἐν τούτωι γὰρ νοεῖται † διὰ τούτου τοῦ κύκλου). τούτων δ’ εἰσὶ παράλληλοι εʹ, ἀρκτικὸς θερινὸς τροπικὸς ἰσημερινὸς χειμερινὸς τροπικὸς ἀνταρκτικός, λοξοὶ δὲ δύο, ὅ τε ζωιδιακὸς καὶ ὁ γαλαξίας, ἐναντίως ἀλλήλοις κατὰ τὴν θέσιν διὰ τῶν τροπικῶν λελοξωμένοι, καὶ δύο διὰ τῶν πόλων, μεσημβρινός τε εἷς καὶ ὁ ὁρίζων ἕτερος. τούτων δέ εἰσι μέγιστοι ὅ τε ἰσημερινὸς καὶ οἱ λοξοὶ καὶ οἱ διὰ τῶν πόλων. μέγιστοι δὲ καλοῦνται, ὧν αἵ τε διάμετροι ἴσαι εἰσὶν ἀλλήλοις καὶ τῆι τοῦ κόσμου διαμέτρωι καὶ ὅσοι τὸ αὐτὸ κέντρον ἔχουσι τῶι κόσμωι. ἔστι δὲ καὶ ἄλλος ὁ διὰ μέσων τῶν ζωιδίων λεγόμενος μεσαίτατος ὑπάρχων τοῦ ζωιδιακοῦ, ἡλιακός τε καὶ ἐκλειπτικὸς ἐπικαλούμενος, ἡλιακὸς μέν, ὅτι ὁ ἥλιος τὴν πορείαν δι’ αὐτοῦ ποιεῖται, ἐκλειπτικὸς δέ, ὅτι δι’ αὐτοῦ ἐκλείπουσιν ὅ τε ἥλιος καὶ ἡ σελήνη. καὶ τῶν παραλλήλων δὲ ὁ μὲν ἀρκτικὸς οὕτως ὠνομάσθη, ὅτι πρὸς τοῖς ἀρκτώιοις ὑπάρχει, ὁ δὲ θερινὸς τροπικός, ὅτι ἐπὶ τούτου γενόμενος ἥλιος κατὰ τὴν τοῦ Καρκίνου ἀρχήν, καὶ τότε μάλιστα ὑπὲρ κεφαλῆς ἡμῶν, θέρους τροπὰς ποιεῖται, ἰσημερινὸς δέ, ὅτι ἐν τούτωι ἰσημερίας δύο ποιεῖ, ἐαρινὴν μὲν κατὰ τὴν τοῦ Κριοῦ ἀρχήν, μετοπωρινὴν δὲ κατὰ 〈τὴν〉 τῶν Χηλῶν, χειμερινὸς δὲ τροπικός, ἐφ’ οὗ κατὰ τὴν τοῦ Αἰγόκερω ἀρχὴν ὁ ἥλιος τοῦ κατὰ κορυφὴν ἡμῶν τόπου ἀφεστὼς χειμῶνος τροπὰς ποιεῖται, ἀνταρκτικὸς δὲ ὁ τῶι ἀρκτικῶι ἴσος ὑπάρχων πρὸς τῶι νοτίωι τεθεμάτισται πόλωι, οἱ δὲ διὰ τῶν πόλων καὶ λοξοὶ παρὰ τὴν θέσιν ὠνομάσθησαν καὶ ἔτι ὃ μὲν ζωιδιακός, ἐπεὶ ἐν αὐτῶι τὰ ιβʹ ζώιδια κατηστέρισται τοῦ διὰ μέσου αὐτῶν κύκλου ἐφαπτομένου τῶν τροπικῶν κατὰ 〈αʹ〉 τι μόνον σημεῖον (κατὰ μὲν γὰρ τὸν θερινὸν τροπικὸν ἡ τοῦ Καρκίνου ἐστὶν ἀρχή, κατὰ δὲ τὸν χειμερινὸν τοῦ Αἰγόκερω), ὁ δὲ γαλαξίας καὶ παρὰ τὴν χροιὰν ὠνόμασται (λευκὸς γὰρ φαίνεται καὶ αὐτὸς διὰ τῶν τροπικῶν λελοξωμένος, μικρὸν μέντοι ὑποπίπτων), μεσημβρινὸς δέ, ἐφ’ οὗ τέμνοντος τὸν ὁρίζοντα ἀπὸ τῶν πόλων καὶ εἰς δύο τινὰ ἡμικύκλια διαιροῦντος, ὧν τὸ μὲν ἀνατολικόν, τὸ δὲ δυτικὸν ὀνομάζεται, συμβαίνει τὰς μεσημβρίας ἀποτελεῖσθαι. ἔχει δὲ τὸ μὲν ἥμισυ ὑπὲρ γῆν, τὸ δὲ ἕτερον ἥμισυ ὑπὸ γῆν, καὶ αὐτὸς διὰ τῶν πόλων ἀντιτεμνόμενος δίχα ὑπὸ τοῦ ὁρίζοντος, ὁρίζων δέ, καθὰ προείρηται, ὑπὸ τῶν παραλλήλων· ὁ μὲν γὰρ ἀρκτικὸς ἐλάχιστος ὢν ὅλος ὑπὲρ γῆν ἐστι διὰ τὴν ὡς πρὸς τὸ τῆς Ἑλλάδος κλίμα τοῦ κόσμου ἔγκλισιν ἁπτομένης αὐτοῦ τῆς κάτω περιφερείας, ὃ δὲ ἀνάπαλιν ὑπὸ γῆν ὅλος ὑπάρχει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17 (50)",
+      "text": "ὁ δὲ ἰσημερινὸς μέγιστος ὢν μέσος τῶν παραλλήλων τὸ μὲν ἥμισυ ἔχει ὑπὲρ γῆν, τεμνόμενος ὑπὸ τοῦ ὁρίζοντος δίχα, τὸ δὲ λοιπὸν ἥμισυ ὑπὸ γῆν. τέμνεται 〈δὲ〉 διὰ μέσων δίχα κατὰ δύο σημεῖα, ὧν κατὰ μὲν τὸ ἓν ἡ τοῦ Κριοῦ ἐστιν ἀρχή, κατὰ δὲ τὸ ἕτερον ἡ τῶν Χηλῶν. τοῦ μέντοι θερινοῦ τροπικοῦ πλέον ἢ τὸ ἥμισυ ὑπὲρ γῆν ὑπὸ τοῦ ὁρίζοντος τέμνεται, τὸ δὲ λοιπὸν ἥμισυ ὑπὸ γῆν ἐστι, καὶ τοῦ χειμερινοῦ δὲ τροπικοῦ ἀνάπαλιν. εἰσί τε ἐλάσσονες μὲν τῶν μεγίστων, μείζονες δὲ τῶν ἐλαχίστων, 〈ἴσ〉οι δὲ ἀλλήλοις μετὰ τοὺς μεγίστους, ὅ τε θερινὸς τῶι χειμερινῶι καὶ ὁ ἀρκτικὸς τῶι ἀνταρκτικῶι· ἀπὸ γὰρ τοῦ ἰσημερινοῦ ἴσον ἀπέχουσιν, ὃς διὰ τοῦ κέντρου ἐστὶν ἐν διαφοραῖς ἴσον ἀπέχοντος ἀπὸ τοῦ κέντρου ἴσοι εἰσίν. τεμνομένου γὰρ τοῦ μεσημβρινοῦ κύκλου εἰς τξʹ μοίρας ἀπὸ [μεσημβρινοῦ] τοῦ πόλου ἐπὶ τὸν ἀρκτικὸν κύκλον μοῖραι λϛʹ, ἀπὸ δὲ τού〈του〉 ἐπὶ τὸν θερινὸν τροπικὸν λʹ, ἀφ’ οὗ 〈ἐπὶ〉 τὸν ἰσημερινὸν κδʹ, ἀφ’ οὗ ... ἐπὶ τὸν 〈ἀντ〉αρκτικὸν λʹ, ὅθεν ἐπὶ τὸν ἀφανῆ πόλον λϛʹ. καί εἰσιν αὗται τοῦ ὑπὲρ γῆν ἡμισφαιρίου, μοῖραι ρπʹ, αἱ δὲ λοιπαὶ τοῦ ὑπὸ γῆν. Περὶ ἄστρων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18 (t)",
+      "text": "Τῶν δὲ ἄστρων τὰ μὲν ἀπλανῆ καλεῖται, τὰ δὲ πλανώμενα, ἀπλανῆ μὲν τὰ κατὰ τὴν ἐπιφάνειαν τοῦ κόσμου μὴ κινούμενα, ἀλλ’ ἀεὶ τὴν αὐτὴν ἔχοντα τάξιν πρὸς ἄλληλα, πλανώμενα δὲ ..... ἐστὶν ὅ τε ἥλιος καὶ ἡ σελήνη καὶ οἱ εʹ πλανῆται ἀστέρες· τούτων γὰρ ὁ μὲν ἥλιος ἐφ’ ἑνὸς τοῦ ἡλιακοῦ κύκλου κινεῖται .... στηρίζονται ἀναποδίζοντες ἐπὶ τὸν διὰ μέσου τὸν ἡλιακὸν κύκλον παριόντες πρός τε τὰ ἀρκτικὰ καὶ πρὸς μεσημβρίαν τι, ἴσον ἐφ’ ἑκάτερα. τῶν δ’ ἀπλανῶν τὰ μὲν πρὸς βορρᾶν κεῖται τοῦ ζωιδιακοῦ κύκλου, τὰ δὲ πρὸς νότον. καλεῖται δὲ τὰ μὲν βόρεια μέρη δεξιά τε καὶ ἄνω ἐν ὕψει μᾶλλον ὑπάρχοντα, τὰ δὲ νότια εὐώνυμά τε καὶ κάτω. τοῦ μέντοι κόσμου τὴν ἀπ’ ἀνατολῆς ἐπὶ δύσιν φορὰν στρεφομένου τὴν ἐναντίαν αὐτῶι οἱ πλανῆται ποιοῦνται πορείαν οὐδὲν ἧττον, διὰ τὸ τάχος τῆς τοῦ κόσμου περιστροφῆς συμπεριστρεφόμενοι ὁμοίως δὴ τοῖς ἀπλανέσιν ἄστροις. Περὶ τῶν ἐν γῆι ζωνῶν Ζῶναι δέ εἰσι τῆς γῆς ὑπὸ τοὺς παραλλήλους κύκλους ὁμοίως εʹ· βόρειος ὅλη μετέωρος ἀοίκητος κατεψυγμένη, Κρόνου, ἑξηκοστῶν μὲν ϛʹ σταδίων δὲ δισμυρίων ͵ εςʹ (τὸ γὰρ ἑξηκοστὸν σταδίων ἐστὶν ͵ δςʹ)· θερινὴ πλείονα ἔχουσα τὰ ὑπὲρ τὸν ὁρίζοντα εὔκρατος, ἐν ἧι ἐστιν ἡ καθ’ ἡμᾶς οἰκουμένη, Διός, ἑξηκοστῶν εʹ σταδίων δὲ δισμυρίων καὶ ͵ α· ἰσημερινὴ ἴσον ἔχουσα τὸν ὑπὲρ γῆν ὁρίζοντα τῶι ὑπ’ αὐτὴν ἀοίκητος διακεκαυμένη, Ἄρεως, ἑξηκοστῶν μὲν ηʹ ἐξ ἑκατέρου μέρους τοῦ ἰσημερινοῦ τεσσάρων (οὗτος γὰρ αὐτὴν καὶ τὴν ὅλην σφαῖραν τέμνει μέσην) σταδίων δὲ τρισμυρίων καὶ ͵ γχʹ· χειμερινὴ ἀνάπαλιν τῆι θερινῆι πλεῖον ἔχουσα τὸ ὑπὸ τὸν ὁρίζοντα οἰκουμένη εὔκρατος, Ἀφροδίτης, ἑξηκοστῶν εʹ σταδίων δὲ δισμυρίων καὶ ͵ α· νότιος ὅλη ἀφανὴς ἀοίκητος κατεψυγμένη, Ἑρμοῦ, ἑξηκοστῶν μὲν ϛʹ σταδίων δὲ δισμυρίων ͵ εςʹ, ὡς εἶναι 〈τὸ〉 ὑπὲρ τὸν ὁρίζοντα περίμετρον τῆς γῆς ἑξηκοστῶν μὲν λʹ σταδίων μυριάδων δὲ ιβʹ καὶ ͵ ϛ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19 (t)",
+      "text": "καλοῦνται δὲ οἱ μὲν ἐπὶ τοῦ αὐτοῦ ἡμισφαιρίου βόρειοί τε καὶ νοτιώτεροι κατοικοῦντες αὐτόχθονες, οἱ δὲ ἐφ’ ἑκατέρου τῶν ἡμισφαιρίων ὑπὲρ γῆν τε καὶ ὑπὸ γῆν ἀντίποδες.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "iru-ai",
+      "title": {
+        "english": "Astronomical Appendix",
+        "ancient_greek": "Ἀστρονομικά"
+      },
+      "url_slug": "aratus-lives-astronomical-appendix-iru-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/astronomical-appendix",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-astronomical-appendix-iru-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-astronomical-appendix-iru-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-astronomical-appendix-iru-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-astronomical-appendix-iru-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/astronomical-appendix.epub"
+      }
+    },
+    {
+      "eul_wid": "iru-af",
+      "title": {
+        "english": "Excerpt from Preface-Phenomena",
+        "ancient_greek": "Ἐκλογὴ ἐκ τῆς Προοιμίου Περὶ Φαινομένων"
+      },
+      "url_slug": "aratus-lives-preface-phenomena-iru-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/preface-phenomena",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-preface-phenomena-iru-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-preface-phenomena-iru-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-preface-phenomena-iru-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-preface-phenomena-iru-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/preface-phenomena.epub"
+      }
+    },
+    {
+      "eul_wid": "iru-ae",
+      "title": {
+        "english": "Introduction from Other Commentaries",
+        "ancient_greek": "Ἐξ ἑτέρων σχολίων εἰσαγωγή"
+      },
+      "url_slug": "aratus-lives-commentaries-introduction-iru-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/commentaries-introduction",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-commentaries-introduction-iru-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-commentaries-introduction-iru-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-commentaries-introduction-iru-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-commentaries-introduction-iru-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/commentaries-introduction.epub"
+      }
+    },
+    {
+      "eul_wid": "iru-ah",
+      "title": {
+        "english": "Introduction to Aratus",
+        "ancient_greek": "Εἰσαγωγὴ εἰς τὸν Ἄρατον"
+      },
+      "url_slug": "aratus-lives-introduction-ah-iru-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/introduction-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ah-iru-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ah-iru-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ah-iru-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ah-iru-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/introduction-ah.epub"
+      }
+    },
+    {
+      "eul_wid": "iru-ad",
+      "title": {
+        "english": "Introduction to Aratus,-Interpretation",
+        "ancient_greek": "Περὶ ἐξηγήσεως"
+      },
+      "url_slug": "aratus-lives-introduction-ad-iru-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/introduction-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ad-iru-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ad-iru-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ad-iru-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ad-iru-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/introduction-ad.epub"
+      }
+    },
+    {
+      "eul_wid": "iru-aa",
+      "title": {
+        "english": "Letter to Julian",
+        "ancient_greek": "Πρὸς Ἰουλιανὸν ἐπιστολή"
+      },
+      "url_slug": "aratus-lives-letter-to-julian-iru-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/letter-to-julian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-letter-to-julian-iru-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-letter-to-julian-iru-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-letter-to-julian-iru-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-letter-to-julian-iru-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/letter-to-julian.epub"
+      }
+    },
+    {
+      "eul_wid": "iru-aj",
+      "title": {
+        "english": "Life of Aratus",
+        "ancient_greek": "Βίος Ἀράτου"
+      },
+      "url_slug": "aratus-lives-life-aj-iru-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/life-aj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-aj-iru-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-aj-iru-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-aj-iru-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-aj-iru-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/life-aj.epub"
+      }
+    },
+    {
+      "eul_wid": "iru-ab",
+      "title": {
+        "english": "Life of Aratus",
+        "ancient_greek": "Βίος Ἀράτου"
+      },
+      "url_slug": "aratus-lives-life-ab-iru-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/life-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-ab-iru-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-ab-iru-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-ab-iru-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-ab-iru-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/life-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "iru-ak",
+      "title": {
+        "english": "Life of Aratus",
+        "ancient_greek": "Βίος Ἀράτου"
+      },
+      "url_slug": "aratus-lives-life-ak-iru-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/life-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-ak-iru-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-ak-iru-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-ak-iru-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-ak-iru-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/life-ak.epub"
+      }
+    },
+    {
+      "eul_wid": "iru-al",
+      "title": {
+        "english": "Life of Aratus",
+        "ancient_greek": "Βίος Ἄρατου"
+      },
+      "url_slug": "aratus-lives-life-al-iru-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/life-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-al-iru-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-al-iru-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-al-iru-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-al-iru-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/life-al.epub"
+      }
+    },
+    {
+      "eul_wid": "iru-am",
+      "title": {
+        "english": "On the Zodiac",
+        "ancient_greek": "Περὶ τοῦ Ζῳδιακοῦ"
+      },
+      "url_slug": "aratus-lives-zodiac-iru-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/zodiac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-zodiac-iru-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-zodiac-iru-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-zodiac-iru-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-zodiac-iru-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/zodiac.epub"
+      }
+    },
+    {
+      "eul_wid": "iru-ac",
+      "title": {
+        "english": "Phenomena",
+        "ancient_greek": "Ἀποσπάσματα ἐκ τῶν Φαινομένων τοῦ Ἄρατου"
+      },
+      "url_slug": "aratus-lives-phenomena-iru-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/phenomena",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-phenomena-iru-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-phenomena-iru-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-phenomena-iru-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-phenomena-iru-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/phenomena.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "nxe-ac",
+      "title": {
+        "english": "Effects",
+        "ancient_greek": "Ἐπιδράσεις"
+      },
+      "url_slug": "apollonius-of-tyana-effects-nxe-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollonius-of-tyana/effects",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-effects-nxe-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-effects-nxe-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-effects-nxe-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-effects-nxe-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana/effects.epub"
+      }
+    },
+    {
+      "eul_wid": "kua-aa",
+      "title": {
+        "english": "Fragment of the Life of Hesiod",
+        "ancient_greek": "Βίος Ἡσιόδου Ἀπόσπασμα"
+      },
+      "url_slug": "life-of-hesiod-life-fragment-kua-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/life-of-hesiod/life-fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/life-of-hesiod-life-fragment-kua-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/life-of-hesiod-life-fragment-kua-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/life-of-hesiod-life-fragment-kua-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/life-of-hesiod-life-fragment-kua-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/life-of-hesiod/life-fragment.epub"
+      }
+    },
+    {
+      "eul_wid": "nxe-ab",
+      "title": {
+        "english": "Letters of Apollonius",
+        "ancient_greek": "Ἐπιστολαὶ Ἀπολλωνίου"
+      },
+      "url_slug": "apollonius-of-tyana-letters-nxe-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollonius-of-tyana/letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-letters-nxe-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-letters-nxe-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-letters-nxe-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-letters-nxe-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana/letters.epub"
+      }
+    },
+    {
+      "eul_wid": "vbs-aa",
+      "title": {
+        "english": "Life of John the Hesychast",
+        "ancient_greek": "Βίος Ἰωάννου τοῦ Ἡσυχαστοῦ"
+      },
+      "url_slug": "cyril-of-scythopolis-john-hesychast-vbs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cyril-of-scythopolis/john-hesychast",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-john-hesychast-vbs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-john-hesychast-vbs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-john-hesychast-vbs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-john-hesychast-vbs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/john-hesychast.epub"
+      }
+    },
+    {
+      "eul_wid": "qvi-ac",
+      "title": {
+        "english": "Life of Oppian (Version A)",
+        "ancient_greek": "Βίτα Ὀππιανοῦ (Βίτα α)"
+      },
+      "url_slug": "oppian-lives-life-ac-qvi-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/oppian-lives/life-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-lives-life-ac-qvi-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-lives-life-ac-qvi-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-lives-life-ac-qvi-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-lives-life-ac-qvi-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-lives/life-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "qvi-ab",
+      "title": {
+        "english": "Life of Tzetzes",
+        "ancient_greek": "Βίος Τζέτζου"
+      },
+      "url_slug": "oppian-lives-life-of-tzetzes-qvi-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/oppian-lives/life-of-tzetzes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-lives-life-of-tzetzes-qvi-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-lives-life-of-tzetzes-qvi-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-lives-life-of-tzetzes-qvi-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-lives-life-of-tzetzes-qvi-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-lives/life-of-tzetzes.epub"
+      }
+    },
+    {
+      "eul_wid": "rjo-aac",
+      "title": {
+        "english": "Lives and Opinions: Book III (Plato)",
+        "ancient_greek": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Γʹ"
+      },
+      "url_slug": "diogenes-of-laertia-lives-plato-rjo-aac",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-laertia/lives-plato",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-plato-rjo-aac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-plato-rjo-aac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-plato-rjo-aac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-plato-rjo-aac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-plato.epub"
+      }
+    },
+    {
+      "eul_wid": "rjo-aai",
+      "title": {
+        "english": "Lives and Opinions: Book IX (Atomists and Sceptics)",
+        "ancient_greek": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Θʹ"
+      },
+      "url_slug": "diogenes-of-laertia-lives-atomists-sceptics-rjo-aai",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-laertia/lives-atomists-sceptics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-atomists-sceptics-rjo-aai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-atomists-sceptics-rjo-aai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-atomists-sceptics-rjo-aai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-atomists-sceptics-rjo-aai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-atomists-sceptics.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aratus-lives/prooemium-phenomena",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-prooemium-phenomena-iru-ag.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-prooemium-phenomena-iru-ag.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-prooemium-phenomena-iru-ag.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-prooemium-phenomena-iru-ag.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/prooemium-phenomena.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

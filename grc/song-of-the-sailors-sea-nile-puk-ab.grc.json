@@ -1,0 +1,215 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "puk-ab",
+  "eul_aid": "puk",
+  "author_slug": "song-of-the-sailors",
+  "work_slug": "sea-nile",
+  "url_slug": "song-of-the-sailors-sea-nile-puk-ab",
+  "author": {
+    "english": "Song of the Sailors",
+    "ancient_greek": "Ναυτῶν Καντιονκύλη"
+  },
+  "title": {
+    "english": "Fragments on Sea and Nile",
+    "ancient_greek": "Ἀποσπάσματα περὶ Θαλάσσης καὶ Νείλου"
+  },
+  "seo": {
+    "browser_title": "Ancient Fragments of Song of the Sailors on Eulogikon",
+    "meta_title": "Classical Fragments on Sea and Nile in Ancient Greek",
+    "meta_description": "Poetic fragments comparing the sea and the fertile Nile River. Hellenistic verse attributed to Song of the Sailors. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Sea and Nile</strong> is a poetic work attributed to an author or source known as the Song of the Sailors. It survives only as a single fragmentary passage, a fact indicated by its title and its explicit designation as fragments. The work&#x27;s preservation likely occurred through indirect transmission, such as being quoted within another, now-lost, text. Its subject matter, as the title suggests, concerns the sea and the Nile River. The extant fragment directly addresses this theme, calling upon sailors and Nile boatmen to declare the comparison between the fertile river and the open sea. While the surviving text is minimal, the work represents a rare example of Greek poetry focusing on the specific hydrological and experiential contrast between the Mediterranean Sea and the Nile, a subject of enduring geographical and cultural fascination in antiquity.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "unit_1",
+      "text": "Ν]αῦται βυθοκυμα[τ]οδρόμοι ἁλίων Τρίτωνες ὑδάτων, καὶ Νειλῶται γλυκυδρόμοι τὰ γελῶντα πλέοντες ὑδάτη, τὴν σύγκρισιν εἴπατε, φίλοι, πελάγους καὶ Νείλου γονίμου.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "puk-aa",
+      "title": {
+        "english": "To the Winds of Rhodes",
+        "ancient_greek": "Πρὸς τοὺς Ἀνέμους τῆς Ῥόδου"
+      },
+      "url_slug": "song-of-the-sailors-winds-rhodes-puk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/song-of-the-sailors/winds-rhodes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors-winds-rhodes-puk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors-winds-rhodes-puk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors-winds-rhodes-puk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors-winds-rhodes-puk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors/winds-rhodes.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "lmm-aa",
+      "title": {
+        "english": "Anonymous Iambic Fragments",
+        "ancient_greek": "Ἀνώνυμα Ἰαμβικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "anonymous-iambic-works-fragments-lmm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-iambic-works/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-iambic-works-fragments-lmm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-iambic-works-fragments-lmm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-iambic-works-fragments-lmm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-iambic-works-fragments-lmm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-iambic-works/fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "jqu-ab",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "pancrates-of-arcadia-epigrams-jqu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/pancrates-of-arcadia/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-arcadia-epigrams-jqu-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-arcadia-epigrams-jqu-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-arcadia-epigrams-jqu-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-arcadia-epigrams-jqu-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-arcadia/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "bfy-ab",
+      "title": {
+        "english": "Fragments on Desire and Festivity",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἐπιθυμίας καὶ Ἑορτῆς"
+      },
+      "url_slug": "anacreon-of-teos-desire-festivity-bfy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/anacreon-of-teos/desire-festivity",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-desire-festivity-bfy-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-desire-festivity-bfy-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-desire-festivity-bfy-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-desire-festivity-bfy-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos/desire-festivity.epub"
+      }
+    },
+    {
+      "eul_wid": "iuc-aa",
+      "title": {
+        "english": "Fragments on Helios and Heroes",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἡλίου καὶ Ἡρώων"
+      },
+      "url_slug": "alexander-of-aetolia-helios-heroes-iuc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-aetolia/helios-heroes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia-helios-heroes-iuc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia-helios-heroes-iuc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia-helios-heroes-iuc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia-helios-heroes-iuc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia/helios-heroes.epub"
+      }
+    },
+    {
+      "eul_wid": "jni-ab",
+      "title": {
+        "english": "Hexameters",
+        "ancient_greek": "Ἑξάμετροι"
+      },
+      "url_slug": "hexameter-papyri-anonymous-text-jni-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hexameter-papyri-anonymous/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-text-jni-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-text-jni-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-text-jni-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-text-jni-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous/text.epub"
+      }
+    },
+    {
+      "eul_wid": "brw-ae",
+      "title": {
+        "english": "Hyporchemata Fragments",
+        "ancient_greek": "Ἀποσπάσματα Ὑπορχημάτων"
+      },
+      "url_slug": "bacchylides-of-ceos-hyporchemata-brw-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/hyporchemata",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-hyporchemata-brw-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-hyporchemata-brw-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-hyporchemata-brw-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-hyporchemata-brw-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/hyporchemata.epub"
+      }
+    },
+    {
+      "eul_wid": "ccq-aa",
+      "title": {
+        "english": "Lyric Fragments on Life and Love",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου καὶ Ἔρωτος"
+      },
+      "url_slug": "praxilla-of-sicyon-lyric-fragments-ccq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/praxilla-of-sicyon/lyric-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxilla-of-sicyon-lyric-fragments-ccq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxilla-of-sicyon-lyric-fragments-ccq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxilla-of-sicyon-lyric-fragments-ccq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxilla-of-sicyon-lyric-fragments-ccq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxilla-of-sicyon/lyric-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "afu-ab",
+      "title": {
+        "english": "Warrior's Life and Wine",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "archilochus-of-paros-life-wine-afu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/archilochus-of-paros/life-wine",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archilochus-of-paros-life-wine-afu-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archilochus-of-paros-life-wine-afu-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archilochus-of-paros-life-wine-afu-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archilochus-of-paros-life-wine-afu-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archilochus-of-paros/life-wine.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/song-of-the-sailors/sea-nile",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors-sea-nile-puk-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors-sea-nile-puk-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors-sea-nile-puk-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors-sea-nile-puk-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors/sea-nile.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

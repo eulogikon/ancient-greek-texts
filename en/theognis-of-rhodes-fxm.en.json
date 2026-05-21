@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "fxm",
+  "auth_slug": "theognis-of-rhodes",
+  "name": {
+    "english": "Theognis of Rhodes",
+    "ancient_greek": "Θέογνις ὁ Ῥόδιος"
+  },
+  "seo_h1": "Theognis of Rhodes and the Rhodian Swallow Festival",
+  "seo": {
+    "browser_title": "Theognis of Rhodes Ancient Poet on Eulogikon Greek Archive",
+    "meta_title": "Classical Theognis of Rhodes Ancient Greek Poetry and Works",
+    "meta_description": "Theognis of Rhodes, a Hellenistic poet. Surviving fragments of his work are preserved in this archive. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects (frg)",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Theognis of Rhodes is a poorly attested poet known only from scattered references. He is identified as a Rhodian, distinct from the more famous elegiac poet Theognis of Megara, though ancient sources sometimes conflated them. A scholion on Pindar confirms his Rhodian origin and identifies him as a composer of a paean. No further biographical details survive.</p>\n<p class=\"research-text\">Only one specific work is attributed to him: a Paean, a choral lyric hymn. It survives in a two-line fragment preserved by the grammarian Hephaestion as a metrical example and is also cited in the Etymologicum Magnum.</p>\n<p class=\"research-text\">Theognis of Rhodes holds minor importance, cited primarily in ancient metrical handbooks and commentaries as an example of a paean-writer. His chief historical relevance lies in illustrating the confusion between homonymous poets in antiquity. The surviving fragment contributes a small piece to the corpus of Hellenistic lyric but permits no substantial literary analysis.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "fxm-aa",
+      "title": {
+        "english": "On the Rhodian Swallow Festival",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "theognis-of-rhodes-swallow-festival-fxm-aa",
+      "passages": 15,
+      "links": {
+        "html": "https://eulogikon.org/grc/theognis-of-rhodes/swallow-festival",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-rhodes-swallow-festival-fxm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-rhodes-swallow-festival-fxm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-rhodes-swallow-festival-fxm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-rhodes-swallow-festival-fxm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-rhodes/swallow-festival.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/theognis-of-rhodes",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theognis-of-rhodes-fxm.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theognis-of-rhodes-fxm.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theognis-of-rhodes-fxm.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theognis-of-rhodes-fxm.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

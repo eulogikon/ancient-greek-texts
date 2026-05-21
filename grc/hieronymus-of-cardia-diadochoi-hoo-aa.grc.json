@@ -1,0 +1,282 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "hoo-aa",
+  "eul_aid": "hoo",
+  "author_slug": "hieronymus-of-cardia",
+  "work_slug": "diadochoi",
+  "url_slug": "hieronymus-of-cardia-diadochoi-hoo-aa",
+  "author": {
+    "english": "Hieronymus of Cardia",
+    "ancient_greek": "Ἱερώνυμος ὁ Καρδιανός"
+  },
+  "title": {
+    "english": "Fragments on the Diadochoi",
+    "ancient_greek": "Ἀποσπάσματα περὶ τῶν Διαδόχων"
+  },
+  "seo": {
+    "browser_title": "Historical Fragments of Hieronymus of Cardia on Eulogikon",
+    "meta_title": "Fragments of Hieronymus of Cardia in Ancient Greek",
+    "meta_description": "Fragments on the Wars of the Diadochoi. Key Hellenistic source for Alexander's successors. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on the Diadochoi</strong> constitute the surviving excerpts from the lost historical work of Hieronymus of Cardia, a contemporary participant in the events he chronicled. His prose history, conceived as a continuation of the work of Callisthenes, provided a detailed narrative of the early Hellenistic period from the death of Alexander the Great in 323 BCE to at least 272 BCE, serving as the principal eyewitness source for the Wars of the Successors. The original text is no longer extant; our knowledge of it derives entirely from fragments preserved through quotation and paraphrase in later authors. The historian Diodorus Siculus relied on it extensively as a primary source for Books 18 through 20 of his <strong>Bibliotheca historica</strong>, and significant excerpts are also found in the works of Plutarch, Arrian, and the Byzantine encyclopedia known as the <strong>Suda</strong>. These scattered passages have been collected in modern scholarly editions such as <strong>Die Fragmente der griechischen Historiker</strong>.</p>\n<p class=\"research-text\">Hieronymus’s history offered a comprehensive account centered on the political and military struggles for legitimacy and power following Alexander’s death. Its core themes included detailed narratives of major campaigns, battles, and sieges, alongside geographical and ethnographic descriptions gleaned from the far-flung campaigns of the Diadochoi. The work is notable for its vivid portrayals of key figures, which often reflect a pro-Antigonid bias stemming from the author’s personal service under Eumenes of Cardia and, later, the Antigonid dynasty itself. As the paramount primary source for the era, Hieronymus’s narrative formed the essential factual backbone for all subsequent ancient historiography on the Diadochoi. Consequently, his perspective and inherent biases have fundamentally shaped, both in antiquity and for modern scholarship, the prevailing understanding of the complex Wars of the Successors.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-13",
+      "text": "ΤΩΝ ΔΙΑΔΟΧΩΝ ΚΑΙ ΕΠΙΓΟΝΩΝ ΙΣΤΟΡΙΑΙ. Athenaeus V: Ἱερώνυμος ἐπὶ τῇ κατασκευῇ τῆς ἁρμαμάξης, ᾗ συνέβαινε κατακομισθῆναι τὸ Ἀλεξάνδρου σῶμα (sc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "θαυμαζέτω). Appianus Mithrid.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a",
+      "text": "c. 8: Καππαδοκίας δὲ πρὸ μὲν Μακεδόνων οἵτινες ἦρχον, οὐκ ἔχω σαφῶς εἰπεῖν, εἴτε ἰδίαν ἀρχὴν, εἴτε Δαρείου κατήκουον. Ἀλέξανδρος δέ μοι δοκεῖ τοὺς ἄρχοντας τῶνδε τῶν ἐθνῶν ἐπὶ φόρῳ καταλιπεῖν, ἐπειγόμενος ἐπὶ Δαρεῖον. Φαίνεται γὰρ καὶ Ἀμισὸν, ἐν Πόντῳ πόλιν Ἀττικοῦ γένους, ἐπὶ δημοκρατίαν, ὡς πάτριον σφίσι πολιτείαν, ἀγαγών. Ἱερώνυμος δὲ οὐδ’ ἐπιψαῦσαι τῶν ἐθνῶν ὅλως, ἀλλ’ ἀνὰ τὴν παράλιον τῆς Παμφυλίας καὶ Κιλικίας ἑτέραν ὁδὸν ἐπὶ τὸν Δαρεῖον τραπέσθαι. Περδίκκας δὲ, ὃς ἐπὶ Ἀλεξάνδρῳ τῆς Μακεδόνων ἦρχεν, Ἀριαράθην, Καππαδοκίας ἡγούμενον, εἴτε ἀφιστάμενον, εἴτε τὴν ἀρχὴν αὐτοῦ περιποιούμενος Μακεδόσιν, εἷλε καὶ ἐκρέμασε, καὶ ἐπέστησε τοῖς ἔθνεσιν Εὐμένη τὸν Καρδιανόν. Lucian.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Macrob. c. 13.: Ἀριαράθης δὲ ὁ Καππαδοκῶν βασιλεὺς δύο μὲν καὶ ὀγδοήκοντα ἔζησεν ἔτη, ὡς Ἱερώνυμος ἱστορεῖ. Ἐδυνήθη δὲ ἴσως καὶ ἐπὶ πλέον διαγενέσθαι, ἀλλ’ ἐν τῇ πρὸς Περδίκκαν μάχῃ ζωγρηθεὶς ἀνεσκολοπίσθη. Id.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "ibid.: Μιθριδάτης δὲ ὁ Πόντου βασιλεὺς, ὁ προσαγορευθεὶς Κτίστης, Ἀντίγονον τὸν μονόφθαλμον φεύγων, ἐπὶ Πόντου ἐτελεύτησε, βιώσας ἔτη τέσσαρα καὶ ὀγδοήκοντα, ὥσπερ Ἱερώνυμος ἱστορεῖ καὶ ἄλλοι συγγραφεῖς. Id.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "ibid. c. 11: Ἀντίγονος δὲ ὁ Φιλίππου ὁ μονόφθαλμος βασιλεύων Μακεδόνων περὶ Φρυγίαν μαχόμενος Σελεύκῳ καὶ Λυσιμάχῳ τραύμασι πολλοῖς περιπεσὼν ἐτελεύτησεν ἐτῶν ἑνὸς καὶ ὀγδοήκοντα, ὥσπερ ὁ συστρατευόμενος αὐτῷ Ἱερώνυμος ἱστορεῖ. Καὶ Λυσίμαχος δὲ Μακεδόνων βασιλεὺς ἐν τῇ πρὸς Σέλευκον ἀπώλετο μάχῃ ἔτος ὀγδοηκοστὸν τελῶν, ὡς ὁ αὐτός φησιν Ἱερώνυμος. Strabo VIII: Τὴν δὲ τοποθεσίαν τῆς πόλεως (Κορίνθου), ἐξ ὧν Ἱερώνυμός τε εἴρηκε καὶ Εὔδοξος καὶ ἄλλοι, καὶ αὐτοὶ δὲ εἴδομεν νεωστὶ ἀναληφθείσης ὑπὸ τῶν Ῥωμαίων, τοιάνδε εἶναι συμβαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "Pausanias I, 9, 9: Λυσίμαχος δὲ καὶ ἐς πόλεμον πρὸς Πύρρον κατέστη τὸν Αἰακίδου, φυλάξας δὲ ἐξ Ἠπείρου ἀπιόντα (οἷα δὴ τὰ πολλὰ ἐκεῖνος ἐπλανᾶτο), τήν τε ἄλλην ἐλεηλάτησεν Ἤπειρον, καὶ ἐπὶ τὰς θήκας ἦλθε τῶν βασιλέων. Τὰ δὲ ἐντεῦθεν ἐμοί ἐστιν οὐ πιστά. Ἱερώνυμος δὲ ἔγραψε Καρδιανὸς Λυσίμαχον τὰς θήκας τῶν νεκρῶν ἀνελόντα τὰ ὀστᾶ ἐκρῖψαι. Ὁ δὲ Ἱερώνυμος οὗτος ἔχει μὲν καὶ ἄλλως δόξαν πρὸς ἀπέχθειαν γράψαι τῶν βασιλέων, πλὴν Ἀντιγόνου, τούτῳ δὲ οὐ δικαίως χαρίζεσθαι· τὰ δὲ ἐπὶ τοῖς τάφοις τῶν Ἠπειρωτῶν, παντάπασίν ἐστι φανερὸς πρὸς ἐπήρειαν συνθεὶς, ἄνδρα Μακεδόνα θήκας νεκρῶν ἀνελεῖν. Χωρὶς δὲ ἠπίστατο δήπου καὶ Λυσίμαχος, οὐ Πύρρου σφᾶς προγόνους μόνον, ἀλλὰ καὶ Ἀλεξάνδρου τοὺς αὐτοὺς τούτους ὄντας· καὶ γὰρ Ἀλέξανδρος Ἠπειρώτης ἦν καὶ τῶν Αἰακιδῶν τὰ πρὸς μητρός· ἡ δὲ ὕστερον Πύρρου πρὸς Λυσίμαχον συμμαχία δηλοῖ, καὶ προσπολεμήσασιν ἀδιάλλακτόν γε οὐδὲν πρὸς ἀλλήλους γενέσθαι σφίσι· τῷ δὲ Ἱερωνύμῳ τάχα μέν που καὶ ἄλλα ἦν ἐς Λυσίμαχον ἐγκλήματα, μέγιστον δὲ, ὅτι τὴν Καρδιανῶν πόλιν ἀνελὼν Λυσιμαχίαν ἀντ’ αὐτῆς ᾤκισεν ἐπὶ τῷ Ἰσθμῷ τῆς Θρᾳκίας Χερρονήσου. Plutarch.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "Pyrrh. c. 17, 7: Διονύσιος μὲν οὖν ὀλίγῳ τῶν πεντακισχιλίων καὶ μυρίων ἐλάσσονας πεσεῖν ἱστορεῖ τῶν Ῥωμαίων, Ἱερώνυμος δὲ μόνους ἑπτακισχιλίους, τῶν δὲ περὶ Πύρρον ὁ μὲν Διονύσιος μυρίους καὶ τρισχιλίους, ὁ δὲ Ἱερώνυμος ἐλάττονας τῶν τετρακισχιλίων. Idem ibid.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "c. 21, 6: Ἐκ τούτου μάχης ἄλλης τῶν πραγμάτων αὐτῷ δεομένων ἀναλαβὼν τὴν στρατιὰν ἐχώρει, καὶ περὶ Ἄσκλον πόλιν τοῖς Ῥωμαίοις συνάψας καὶ βιαζόμενος πρὸς χωρία δύσιππα καὶ ποταμὸν ὑλώδη καὶ τραχὺν, ἔφοδον τῶν θηρίων οὐ λαβόντων, ὥστε προσμῖξαι τῇ φάλαγγι, τραυμάτων πολλῶν γενομένων καὶ νεκρῶν πεσόντων, τότε μὲν διεκρίθη μέχρι νυκτὸς ἀγωνισάμενος. Τῇ δὲ ὑστεραίᾳ στρατηγῶν δι’ ὁμαλοῦ τὴν μάχην θέσθαι καὶ τοὺς ἐλέφαντας ἐν τοῖς ὅπλοις γενέσθαι τῶν πολεμίων, προέλαβε τὰς δυσχωρίας φυλακῇ καὶ πολλὰ καταμίξας ἀκοντίσματα καὶ τοξεύματα τοῖς θηρίοις, ἐπῆγε μετὰ ῥώμης καὶ βίας πυκνὴν καὶ συντεταγμένην τὴν δύναμιν. Οἱ δὲ Ῥωμαῖοι τὰς διακλίσεις καὶ τὰς ἀντιπαραγωγὰς τὰς πρότερον οὐκ ἔχοντες ἐξ ἐπιπέδου συνεφέροντο κατὰ στόμα καὶ σπεύδοντες ὤσασθαι τοὺς ὁπλίτας, πρὶν ἐπιβῆναι τὰ θηρία, δεινοὺς περὶ τὰς σαρίσσας τῶν ξιφῶν ἀγῶνας εἶχον ἀφειδοῦντες ἑαυτῶν καὶ τὸ τρῶσαι καὶ καταβαλεῖν ὁρῶντες, τὸ δὲ παθεῖν εἰς οὐδὲν τιθέμενοι. Χρόνῳ δὲ πολλῷ λέγεται μὲν ἀρχὴ τροπῆς κατ’ αὐτὸν γενέσθαι τὸν Πύρρον ἐπερείσαντα τοῖς ἀντιτεταγμένοις, τὸ δὲ πλεῖστον ἀλκῇ καὶ βίᾳ τῶν ἐλεφάντων κατειργάσατο, χρήσασθαι τῇ ἀρετῇ πρὸς τὴν μάχην τῶν Ῥωμαίων μὴ δυναμένων, ἀλλ’ οἷον ἐφόδῳ κύματος ἢ σεισμοῦ κατερείποντος οἰομένων δεῖν ἐξίστασθαι μηδὲ ὑπομένειν ἀπράκτους ἀποθνήσκειν ἐν τῷ μηδὲν ὠφελεῖν πάντα πάσχοντας τὰ χαλεπώτατα. Τῆς δὲ φυγῆς οὐ μακρᾶς εἰς τὸ στρατόπεδον γενομένης, ἑξακισχιλίους ἀποθανεῖν φησὶ τῶν Ῥωμαίων Ἱερώνυμος, τῶν δὲ περὶ Πύρρον ἐν τοῖς βασιλικοῖς Ὑπομνήμασιν ἀνενεχθῆναι τρισχιλίους πεντακοσίους καὶ πέντε τεθνηκότας. Ὁ μέντοι Διονύσιος οὔτε δύο περὶ Ἄσκλον μάχας οὔτε ὁμολογουμένην ἧτταν ἱστορεῖ γενέσθαι Ῥωμαίων, ἅπαξ δὲ μέχρι δυσμῶν ἡλίου μαχεσαμένους μόλις ἀπαλλαγῆναι, τοῦ Πύρρου τρωθέντος ὑσσῷ τὸν βραχίονα καὶ τὴν ἀποσκευὴν ἅμα Σαυνιτῶν διαρπασάντων, ἀποθανεῖν δὲ καὶ Πύρρου καὶ Ῥωμαίων ἄνδρας ὑπὲρ μυρίους πεντακισχιλίους ἑκατέρων. Plutarch.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "Pyrrh. c. 27, 5: Ἦν τὸ μὲν πλάτος αὐτῆς πήχεων ἓξ, τὸ δὲ βάθος τεττάρων, τὸ δὲ μῆκος ὀκτάπλεθρον, ὡς ἱστορεῖ Φύλαρχος, ὡς δὲ Ἱερώνυμος, ἔλαττον. Pausan.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "I, 13, 9: Θαῦμα δὲ ποιοῦμαι τῶν καλουμένων Αἰακιδῶν αὐτοῖς κατὰ τὰ αὐτὰ ἐκ τοῦ θεοῦ συμβῆναι τὴν τελευτήν· εἴγε Ἀχιλλέα μὲν Ὅμηρος ὑπὸ Ἀλεξάνδρου φησὶ τοῦ Πριάμου καὶ Ἀπόλλωνος ἀπολέσθαι· Πύρρον δὲ τὸν Ἀχιλλέως ἡ Πυθία προσέταξεν ἀποκτεῖναι Δελφοῖς· τῷ δὲ Αἰακίδου συνέβη τὰ ἐς τὴν τελευτὴν, οἷα Ἀργεῖοί τε λέγουσι καὶ Λευκέας ἐποίησε. Διάφορα δὲ ὅμως ἐστὶ καὶ ταῦτα, ὡς Ἱερώνυμος ὁ Καρδιανὸς ἔγραψε· ἀνδρὶ γὰρ βασιλεῖ συνόντα ἀνάγκη πᾶσα ἐς χάριν συγγράφειν. Εἰ δὲ καὶ Φίλιστος αἰτίαν δικαίαν εἴληφεν, ἐπελπίζων τὴν ἐν Συρακούσαις κάθοδον, ἀποκρύψασθαι τῶν Διονυσίου τὰ ἀνοσιώτατα, ἦ που πολλή γε Ἱερωνύμῳ συγγνώμη τὰ ἐς ἡδονὴν Ἀντιγόνου γράφειν. Strabo IX: Ἱερώνυμος δὲ τῆς πεδιάδος Θετταλίας καὶ Μαγνήτιδος τὸν κύκλον τρισχιλίων σταδίων ἀποφαίνεται· ᾠκῆσθαι δ’ ὑπὸ τῶν Πελασγῶν· ἐξελασθῆναι δὲ τούτους εἰς Αἰτωλίαν ὑπὸ Λαπιθῶν· εἶναι δὲ τὸ νῦν καλούμενον Πελασγικὸν πεδίον, ἐν ᾧ Λάρισσα καὶ Γυρτώνη καὶ Φεραὶ καὶ Μόψιον καὶ Βοιβηῒς καὶ Ὄσσα καὶ Ὁμόλη καὶ Πήλιον καὶ Μαγνῆτις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12",
+      "text": "Strabo. X: Ἱερώνυμος δὲ μῆκος δισχιλίων φήσας, τὸ δὲ πλάτος ἀνώμαλον, πλειόνων ἂν εἴη λέγων τὸν κύκλον ἢ ὅσον Ἀρτεμίδωρος, κατά τε τὸ τρίτον μέρος τοῦ μήκους. Josephus C.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13",
+      "text": "Apion: Ὅτι δὲ οὐκ ἀγνοοῦντες ἔνιοι τῶν συγγραφέων τὸ ἔθνος ἡμῶν ἀλλ’ ὑπὸ φθόνου τινὸς ἢ δι’ ἄλλας αἰτίας οὐχ ὑγιεῖς τὴν μνήμην παρέλιπον, τεκμήριον οἶμαι παρέξειν. Ἱερώνυμος γὰρ ὁ τὴν Περὶ τῶν διαδόχων ἱστορίαν συγγεγραφὼς, κατὰ τὸν αὐτὸν μὲν χρόνον ἦν Ἑκαταίῳ, φίλος δ’ ὢν τοῦ Ἀντιγόνου βασιλέως, τὴν Συρίαν ἐπετρόπευεν. Ἀλλ’ ὅμως Ἑκαταῖος μὲν τὸ βιβλίον ἔγραψε περὶ ἡμῶν, Ἱερώνυμος δ’ οὐδαμοῦ κατὰ τὴν ἱστορίαν ἐμνημόνευσε, καίτοι σχεδὸν ἐν τοῖς τόποις διατετροφώς.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "mks-aa",
+      "title": {
+        "english": "Chronicles of Time",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "antileon-the-historian-chronicles-time-mks-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/antileon-the-historian/chronicles-time",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antileon-the-historian-chronicles-time-mks-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antileon-the-historian-chronicles-time-mks-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antileon-the-historian-chronicles-time-mks-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antileon-the-historian-chronicles-time-mks-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antileon-the-historian/chronicles-time.epub"
+      }
+    },
+    {
+      "eul_wid": "dzw-aa",
+      "title": {
+        "english": "Chronological and Homeric Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dionysius-of-argos-chronological-homeric-fragments-dzw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-argos/chronological-homeric-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-argos-chronological-homeric-fragments-dzw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-argos-chronological-homeric-fragments-dzw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-argos-chronological-homeric-fragments-dzw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-argos-chronological-homeric-fragments-dzw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-argos/chronological-homeric-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "tba-ab",
+      "title": {
+        "english": "Fragments on Attila and the Huns",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀττίλα καὶ τῶν Οὔννων"
+      },
+      "url_slug": "priscus-of-panium-attila-huns-tba-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/priscus-of-panium/attila-huns",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/priscus-of-panium-attila-huns-tba-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/priscus-of-panium-attila-huns-tba-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/priscus-of-panium-attila-huns-tba-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/priscus-of-panium-attila-huns-tba-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/priscus-of-panium/attila-huns.epub"
+      }
+    },
+    {
+      "eul_wid": "kdm-aa",
+      "title": {
+        "english": "Fragments on Spartan Constitution",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Λακεδαιμονίων Πολιτείας"
+      },
+      "url_slug": "dioscurides-3rd-century-bce-spartan-constitution-kdm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dioscurides-3rd-century-bce/spartan-constitution",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce-spartan-constitution-kdm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce-spartan-constitution-kdm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce-spartan-constitution-kdm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce-spartan-constitution-kdm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce/spartan-constitution.epub"
+      }
+    },
+    {
+      "eul_wid": "mmg-be",
+      "title": {
+        "english": "Olympic Victors (Fragment B)",
+        "ancient_greek": "Ὀλυμπιονῖκαι"
+      },
+      "url_slug": "historical-fragments-anonymous-olympic-victors-be-mmg-be",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/olympic-victors-be",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-olympic-victors-be-mmg-be.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-olympic-victors-be-mmg-be.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-olympic-victors-be-mmg-be.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-olympic-victors-be-mmg-be.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/olympic-victors-be.epub"
+      }
+    },
+    {
+      "eul_wid": "cdk-aa",
+      "title": {
+        "english": "On Rhodian Sacrifices",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "gorgon-the-historian-rhodian-sacrifices-cdk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/gorgon-the-historian/rhodian-sacrifices",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgon-the-historian-rhodian-sacrifices-cdk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgon-the-historian-rhodian-sacrifices-cdk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgon-the-historian-rhodian-sacrifices-cdk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgon-the-historian-rhodian-sacrifices-cdk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgon-the-historian/rhodian-sacrifices.epub"
+      }
+    },
+    {
+      "eul_wid": "mmg-ah",
+      "title": {
+        "english": "On the Boundaries of the City",
+        "ancient_greek": "Περὶ τῶν Ὁρίων τῆς Πόλεως"
+      },
+      "url_slug": "historical-fragments-anonymous-boundaries-city-mmg-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/boundaries-city",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-boundaries-city-mmg-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-boundaries-city-mmg-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-boundaries-city-mmg-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-boundaries-city-mmg-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/boundaries-city.epub"
+      }
+    },
+    {
+      "eul_wid": "hoe-aa",
+      "title": {
+        "english": "Testimonies 1",
+        "ancient_greek": "Μαρτυρίαι Α'"
+      },
+      "url_slug": "hecataeus-of-abdera-testimonies-hoe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hecataeus-of-abdera/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-testimonies-hoe-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-testimonies-hoe-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-testimonies-hoe-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-testimonies-hoe-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera/testimonies.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hieronymus-of-cardia/diadochoi",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hieronymus-of-cardia-diadochoi-hoo-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hieronymus-of-cardia-diadochoi-hoo-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hieronymus-of-cardia-diadochoi-hoo-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hieronymus-of-cardia-diadochoi-hoo-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hieronymus-of-cardia/diadochoi.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

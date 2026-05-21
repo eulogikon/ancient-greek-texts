@@ -1,0 +1,391 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "skw-av",
+  "eul_aid": "skw",
+  "author_slug": "anonymous-erotic-narrative",
+  "work_slug": "eleusinian-mysteries",
+  "url_slug": "anonymous-erotic-narrative-eleusinian-mysteries-skw-av",
+  "author": {
+    "english": "Erotic Narrative Anonymous",
+    "ancient_greek": "Ἐρωτικὰ Ἀδέσποτα"
+  },
+  "title": {
+    "english": "Eleusinian Mysteries Fragment",
+    "ancient_greek": "Ἀπόσπασμα"
+  },
+  "seo": {
+    "browser_title": "Eleusinian Mysteries Fragment by Anonymous on Eulogikon",
+    "meta_title": "The Eleusinian Mysteries Fragment in Ancient Greek",
+    "meta_description": "A fragmentary erotic narrative referencing Eleusinian Mysteries figures like Triptolemus. This prose fiction offers glimpses into ancient mystery cults."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Μυθιστορία",
+      "english": "Fiction",
+      "href": "/domains/fiction"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Eleusinian Mysteries were ancient Greek initiation rites held at the sanctuary of Demeter and Persephone at Eleusis, celebrated from the Mycenaean period until their suppression in 392 CE. They constituted one of the most important and secretive religious ceremonies of the ancient world, promising initiates a favorable fate in the afterlife based on the central myth of Demeter&#x27;s search for her abducted daughter. The core rituals were closely guarded secrets, with severe penalties for disclosure, making direct descriptions in surviving literature exceptionally rare. Knowledge of the Mysteries is therefore reconstructed from archaeological evidence, such as the Telesterion hall at Eleusis, and from scattered, often allusive, references in ancient poetry, history, philosophy, and early Christian polemical writings. No specific prose fragment bearing the title &quot;Eleusinian Mysteries Fragment&quot; and attributed to an anonymous author of erotic narrative is attested in the scholarly record. Any such purported text would be of unknown and highly questionable provenance. The Mysteries profoundly influenced Greco-Roman religious thought for centuries, attracting a wide range of initiates from all social strata, including notable figures such as Sophocles, Plato, and Cicero. Their emphasis on personal religious experience, eschatological hope, and the possibility of blessedness after death contributed significantly to the religious landscape of late antiquity and continues to be a subject of enduring scholarly fascination.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "[Break in Text (point at which text breaks off for an unknown length)] [ ] . λειμ̣ .. [] [μ]υρρίνην εἱλετ[] [ ]ην· ὦ Τριπτόλεμε σ[] [ ]υ̣ σοι νῦν μεμυηκ[] [ ] τὴν Κόρην εἶδον η[] [μ]ένην, οὐδὲ τὴν Δ[ήμητρα] [λ]ελυπημένην· αλ[] [ν]ικηφόρους βα[] [ ]ν μυστικὸν τ̣[]",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "skw-ab",
+      "title": {
+        "english": "Antheia, Possibly Epitome of Ephesiaca",
+        "ancient_greek": "Ἄνθεια"
+      },
+      "url_slug": "anonymous-erotic-narrative-antheia-ephesiaca-skw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-erotic-narrative/antheia-ephesiaca",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-antheia-ephesiaca-skw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-antheia-ephesiaca-skw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-antheia-ephesiaca-skw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-antheia-ephesiaca-skw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/antheia-ephesiaca.epub"
+      }
+    },
+    {
+      "eul_wid": "skw-ak",
+      "title": {
+        "english": "Apollonius (Fragment A)",
+        "ancient_greek": "Ἀπολλώνιος"
+      },
+      "url_slug": "anonymous-erotic-narrative-apollonius-ak-skw-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-erotic-narrative/apollonius-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-apollonius-ak-skw-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-apollonius-ak-skw-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-apollonius-ak-skw-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-apollonius-ak-skw-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/apollonius-ak.epub"
+      }
+    },
+    {
+      "eul_wid": "skw-al",
+      "title": {
+        "english": "Apollonius (Fragment B)",
+        "ancient_greek": "Ἀπολλώνιος"
+      },
+      "url_slug": "anonymous-erotic-narrative-apollonius-al-skw-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-erotic-narrative/apollonius-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-apollonius-al-skw-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-apollonius-al-skw-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-apollonius-al-skw-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-apollonius-al-skw-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/apollonius-al.epub"
+      }
+    },
+    {
+      "eul_wid": "skw-am",
+      "title": {
+        "english": "Calligone",
+        "ancient_greek": "Καλλιγόνη"
+      },
+      "url_slug": "anonymous-erotic-narrative-calligone-skw-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-erotic-narrative/calligone",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-calligone-skw-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-calligone-skw-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-calligone-skw-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-calligone-skw-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/calligone.epub"
+      }
+    },
+    {
+      "eul_wid": "skw-ac",
+      "title": {
+        "english": "Chione",
+        "ancient_greek": "Χιόνη"
+      },
+      "url_slug": "anonymous-erotic-narrative-chione-skw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-erotic-narrative/chione",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-chione-skw-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-chione-skw-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-chione-skw-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-chione-skw-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/chione.epub"
+      }
+    },
+    {
+      "eul_wid": "skw-aw",
+      "title": {
+        "english": "Daulis",
+        "ancient_greek": "Δαυλίς"
+      },
+      "url_slug": "anonymous-erotic-narrative-daulis-skw-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-erotic-narrative/daulis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-daulis-skw-aw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-daulis-skw-aw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-daulis-skw-aw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-daulis-skw-aw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/daulis.epub"
+      }
+    },
+    {
+      "eul_wid": "skw-aa",
+      "title": {
+        "english": "Fragments Possibly Part of Chione or Ninus",
+        "ancient_greek": "Ἀποσπάσματα Ἴσως Μέρος Χιόνης ἢ Νίνου"
+      },
+      "url_slug": "anonymous-erotic-narrative-chione-ninus-skw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-erotic-narrative/chione-ninus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-chione-ninus-skw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-chione-ninus-skw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-chione-ninus-skw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-chione-ninus-skw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/chione-ninus.epub"
+      }
+    },
+    {
+      "eul_wid": "skw-as",
+      "title": {
+        "english": "Fragments of a Nocturnal Escape",
+        "ancient_greek": "Ἀποσπάσματα Νυκτερινῆς Δραπέτιδος"
+      },
+      "url_slug": "anonymous-erotic-narrative-nocturnal-escape-skw-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-erotic-narrative/nocturnal-escape",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-nocturnal-escape-skw-as.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-nocturnal-escape-skw-as.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-nocturnal-escape-skw-as.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-nocturnal-escape-skw-as.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/nocturnal-escape.epub"
+      }
+    },
+    {
+      "eul_wid": "skw-au",
+      "title": {
+        "english": "Fragments on Sacred Rites",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἱερῶν Τελετῶν"
+      },
+      "url_slug": "anonymous-erotic-narrative-sacred-rites-skw-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-erotic-narrative/sacred-rites",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-sacred-rites-skw-au.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-sacred-rites-skw-au.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-sacred-rites-skw-au.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-sacred-rites-skw-au.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/sacred-rites.epub"
+      }
+    },
+    {
+      "eul_wid": "skw-ar",
+      "title": {
+        "english": "Fragments on a Divine Vision",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θείας Ὄψεως"
+      },
+      "url_slug": "anonymous-erotic-narrative-divine-vision-skw-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-erotic-narrative/divine-vision",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-divine-vision-skw-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-divine-vision-skw-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-divine-vision-skw-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-divine-vision-skw-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/divine-vision.epub"
+      }
+    },
+    {
+      "eul_wid": "skw-an",
+      "title": {
+        "english": "Fragments on the Nile and Canopus",
+        "ancient_greek": "Ἀποσπάσματα περὶ Νείλου καὶ Κανώπου"
+      },
+      "url_slug": "anonymous-erotic-narrative-nile-canopus-skw-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-erotic-narrative/nile-canopus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-nile-canopus-skw-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-nile-canopus-skw-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-nile-canopus-skw-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-nile-canopus-skw-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/nile-canopus.epub"
+      }
+    },
+    {
+      "eul_wid": "skw-ax",
+      "title": {
+        "english": "Iolaus",
+        "ancient_greek": "Ἰόλαος"
+      },
+      "url_slug": "anonymous-erotic-narrative-iolaus-skw-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-erotic-narrative/iolaus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-iolaus-skw-ax.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-iolaus-skw-ax.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-iolaus-skw-ax.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-iolaus-skw-ax.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/iolaus.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "pqy-ab",
+      "title": {
+        "english": "Aesop's Mythical Book",
+        "ancient_greek": "Βιβλίον μυθικὸν τοῦ Αἰσώπου"
+      },
+      "url_slug": "aesop-life-anonymous-mythical-book-pqy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop-life-anonymous/mythical-book",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous-mythical-book-pqy-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous-mythical-book-pqy-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous-mythical-book-pqy-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous-mythical-book-pqy-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous/mythical-book.epub"
+      }
+    },
+    {
+      "eul_wid": "aqo-af",
+      "title": {
+        "english": "Aesopic Fables (Dionian Recension)",
+        "ancient_greek": "Μῦθοι Δίωνι Χρυσόστομῳ ἀνατιθέμενοι"
+      },
+      "url_slug": "aesop-fables-af-aqo-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/fables-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-af-aqo-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-af-aqo-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-af-aqo-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-af-aqo-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-af.epub"
+      }
+    },
+    {
+      "eul_wid": "aqo-ak",
+      "title": {
+        "english": "Fables of Libanius",
+        "ancient_greek": "Μῦθοι Λιβανίου"
+      },
+      "url_slug": "aesop-fables-ak-aqo-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/fables-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-ak-aqo-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-ak-aqo-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-ak-aqo-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-fables-ak-aqo-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-ak.epub"
+      }
+    },
+    {
+      "eul_wid": "aqo-aa",
+      "title": {
+        "english": "Fables of the Anonymous Brancatian Rhetorician",
+        "ancient_greek": "Μῦθοι τοῦ Ἀνωνύμου Βρανκατιανοῦ Ῥήτορος"
+      },
+      "url_slug": "aesop-brancatian-fables-aqo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/brancatian-fables",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-brancatian-fables-aqo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-brancatian-fables-aqo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-brancatian-fables-aqo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-brancatian-fables-aqo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/brancatian-fables.epub"
+      }
+    },
+    {
+      "eul_wid": "otm-aa",
+      "title": {
+        "english": "Letters to Matris",
+        "ancient_greek": "Ἐπιστολαὶ πρὸς Μάτριν"
+      },
+      "url_slug": "chion-of-heraclea-matris-otm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/chion-of-heraclea/matris",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chion-of-heraclea-matris-otm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chion-of-heraclea-matris-otm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chion-of-heraclea-matris-otm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chion-of-heraclea-matris-otm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chion-of-heraclea/matris.epub"
+      }
+    },
+    {
+      "eul_wid": "pqy-ad",
+      "title": {
+        "english": "Life G",
+        "ancient_greek": "Βίος Γ"
+      },
+      "url_slug": "aesop-life-anonymous-life-g-pqy-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop-life-anonymous/life-g",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous-life-g-pqy-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous-life-g-pqy-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous-life-g-pqy-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous-life-g-pqy-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous/life-g.epub"
+      }
+    },
+    {
+      "eul_wid": "qhw-ac",
+      "title": {
+        "english": "On Incredible Things (Fragment B)",
+        "ancient_greek": "Περὶ Ἀπίστων"
+      },
+      "url_slug": "antonius-diogenes-incredible-things-ac-qhw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/antonius-diogenes/incredible-things-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antonius-diogenes-incredible-things-ac-qhw-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antonius-diogenes-incredible-things-ac-qhw-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antonius-diogenes-incredible-things-ac-qhw-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antonius-diogenes-incredible-things-ac-qhw-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antonius-diogenes/incredible-things-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "gsg-aa",
+      "title": {
+        "english": "Tragic Myths and Legends",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "asclepiades-of-tragilus-myths-legends-gsg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/asclepiades-of-tragilus/myths-legends",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepiades-of-tragilus-myths-legends-gsg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepiades-of-tragilus-myths-legends-gsg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepiades-of-tragilus-myths-legends-gsg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepiades-of-tragilus-myths-legends-gsg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepiades-of-tragilus/myths-legends.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/anonymous-erotic-narrative/eleusinian-mysteries",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-eleusinian-mysteries-skw-av.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-eleusinian-mysteries-skw-av.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-eleusinian-mysteries-skw-av.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative-eleusinian-mysteries-skw-av.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/eleusinian-mysteries.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

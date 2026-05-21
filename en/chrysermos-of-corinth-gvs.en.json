@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "gvs",
+  "auth_slug": "chrysermos-of-corinth",
+  "name": {
+    "english": "Chrysermos of Corinth",
+    "ancient_greek": "Χρύσημος ὁ Κορίνθιος"
+  },
+  "seo_h1": "Chrysermos of Corinth and the Peloponnesian Historical Fragments",
+  "seo": {
+    "browser_title": "Chrysermos of Corinth on Eulogikon Greek Text Archive",
+    "meta_title": "Chrysermos of Corinth Ancient Greek Historical Works",
+    "meta_description": "Chrysermos of Corinth was a 4th century BCE historian. Surviving fragments of his historical work. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Chrysermos of Corinth was a Classical Greek historian of the 4th century BCE. Beyond his origin in Corinth and authorship of a single historical work, no biographical details survive.</p>\n<p class=\"research-text\">His only known work is the <strong>Corinthiaca</strong>, a history of Corinth. The text is lost, surviving only in fragmentary references within later ancient literature.</p>\n<p class=\"research-text\">Chrysermos is significant as a source for later historians. His <strong>Corinthiaca</strong> is cited by authors like the biographer Satyrus and the geographer Pausanias, preserving local Corinthian traditions and myths, such as the story of Medea’s son Medus. He is counted among the early Greek local historians, though his direct influence was limited and his work survives only indirectly.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "gvs-aa",
+      "title": {
+        "english": "Peloponnesian Historical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "chrysermos-of-corinth-historical-fragments-gvs-aa",
+      "passages": 10,
+      "links": {
+        "html": "https://eulogikon.org/grc/chrysermos-of-corinth/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysermos-of-corinth-historical-fragments-gvs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysermos-of-corinth-historical-fragments-gvs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysermos-of-corinth-historical-fragments-gvs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysermos-of-corinth-historical-fragments-gvs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysermos-of-corinth/historical-fragments.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/chrysermos-of-corinth",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysermos-of-corinth-gvs.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysermos-of-corinth-gvs.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysermos-of-corinth-gvs.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysermos-of-corinth-gvs.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

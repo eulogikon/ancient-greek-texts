@@ -1,0 +1,311 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "tro",
+  "auth_slug": "aeschylus-scholia",
+  "name": {
+    "english": "Aeschylus Scholia",
+    "ancient_greek": "Αἰσχύλου Σχόλια"
+  },
+  "seo_h1": "Aeschylus Scholia: Commentaries from Persians to Agamemnon",
+  "seo": {
+    "browser_title": "Aeschylus Scholia Commentary on Eulogikon Greek Archive",
+    "meta_title": "Classical Aeschylus Scholia Ancient Greek Commentary Works",
+    "meta_description": "Aeschylus Scholia are Byzantine Greek grammatical commentaries. Fifteen surviving works of ancient notes. Free to read and download from the Greek library."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Βυζαντινὴ Ἑλληνική",
+      "english": "Byzantine Greek",
+      "href": "/dialects/byz"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Aeschylus Scholia are a body of ancient and medieval scholarly notes, not the work of a single author. They are a compilation of commentary written in the margins and between the lines of manuscripts containing the plays of the tragedian Aeschylus. The tradition of annotation began with scholars in Hellenistic Alexandria during the 3rd and 2nd centuries BCE and was continued, copied, and expanded by generations of grammarians and scribes through the Roman and Byzantine periods. The surviving manuscripts that preserve these notes primarily date from the 10th to the 14th centuries CE.</p>\n<p class=\"research-text\">The scholia are attached to the seven surviving plays of Aeschylus. They address a wide variety of subjects to aid readers, including explanations of difficult words and grammar, notes on mythology and history, analysis of poetic meter, and discussions of variant textual readings. According to modern scholars, these notes are critically important for several reasons. They preserve fragments of lost ancient scholarship and provide direct insight into how Aeschylus&#x27;s complex works were studied and interpreted for over a millennium. For contemporary editors, the scholia are an essential tool for establishing the text of the plays, and they offer a valuable window into the history of classical philology and literary criticism from antiquity through the Middle Ages.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 15,
+  "works": [
+    {
+      "eul_wid": "tro-aa",
+      "title": {
+        "english": "Argument and Interlinear Glosses-the Persians",
+        "ancient_greek": "Ἐπιχείρημα καὶ Ἐνδιάμεσοι Γλῶσσαι εἰς Πέρσας"
+      },
+      "url_slug": "aeschylus-scholia-persians-glosses-tro-aa",
+      "passages": 981,
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/persians-glosses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-glosses-tro-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-glosses-tro-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-glosses-tro-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-glosses-tro-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-glosses.epub"
+      }
+    },
+    {
+      "eul_wid": "tro-ak",
+      "title": {
+        "english": "Catalogue of Fables",
+        "ancient_greek": "Κατάλογος Μύθων"
+      },
+      "url_slug": "aeschylus-scholia-catalogue-fables-tro-ak",
+      "passages": 20,
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/catalogue-fables",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-catalogue-fables-tro-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-catalogue-fables-tro-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-catalogue-fables-tro-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-catalogue-fables-tro-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/catalogue-fables.epub"
+      }
+    },
+    {
+      "eul_wid": "tro-am",
+      "title": {
+        "english": "Later Scholia on Persians",
+        "ancient_greek": "Σχόλια εἰς Πέρσας"
+      },
+      "url_slug": "aeschylus-scholia-persians-am-tro-am",
+      "passages": 350,
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/persians-am",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-am-tro-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-am-tro-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-am-tro-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-am-tro-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-am.epub"
+      }
+    },
+    {
+      "eul_wid": "tro-af",
+      "title": {
+        "english": "Later Scholia on Prometheus Bound",
+        "ancient_greek": "Σχόλια εἰς Προμηθέα Δεσμώτην"
+      },
+      "url_slug": "aeschylus-scholia-prometheus-bound-af-tro-af",
+      "passages": 221,
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/prometheus-bound-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-prometheus-bound-af-tro-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-prometheus-bound-af-tro-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-prometheus-bound-af-tro-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-prometheus-bound-af-tro-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/prometheus-bound-af.epub"
+      }
+    },
+    {
+      "eul_wid": "tro-an",
+      "title": {
+        "english": "Magister's Commentary on Persians",
+        "ancient_greek": "Σχόλια εἰς Πέρσας"
+      },
+      "url_slug": "aeschylus-scholia-persians-an-tro-an",
+      "passages": 1402,
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/persians-an",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-an-tro-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-an-tro-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-an-tro-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-an-tro-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-an.epub"
+      }
+    },
+    {
+      "eul_wid": "tro-ao",
+      "title": {
+        "english": "Marginal Scholia on Persians",
+        "ancient_greek": "Σχόλια εἰς Πέρσας"
+      },
+      "url_slug": "aeschylus-scholia-persians-ao-tro-ao",
+      "passages": 423,
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/persians-ao",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-ao-tro-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-ao-tro-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-ao-tro-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-ao-tro-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-ao.epub"
+      }
+    },
+    {
+      "eul_wid": "tro-al",
+      "title": {
+        "english": "Old Scholia on Persians",
+        "ancient_greek": "Σχόλια εἰς Πέρσας"
+      },
+      "url_slug": "aeschylus-scholia-persians-al-tro-al",
+      "passages": 231,
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/persians-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-al-tro-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-al-tro-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-al-tro-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-al-tro-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-al.epub"
+      }
+    },
+    {
+      "eul_wid": "tro-ae",
+      "title": {
+        "english": "Old Scholia on Prometheus Bound",
+        "ancient_greek": "Σχόλια εἰς Προμηθέα Δεσμώτην"
+      },
+      "url_slug": "aeschylus-scholia-prometheus-bound-ae-tro-ae",
+      "passages": 842,
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/prometheus-bound-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-prometheus-bound-ae-tro-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-prometheus-bound-ae-tro-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-prometheus-bound-ae-tro-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-prometheus-bound-ae-tro-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/prometheus-bound-ae.epub"
+      }
+    },
+    {
+      "eul_wid": "tro-ab",
+      "title": {
+        "english": "Prototriclinian Scholia-Aeschylus",
+        "ancient_greek": "Πρωτοτρικλίνια Σχόλια εἰς Αἰσχύλον"
+      },
+      "url_slug": "aeschylus-scholia-prototriclinian-tro-ab",
+      "passages": 167,
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/prototriclinian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-prototriclinian-tro-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-prototriclinian-tro-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-prototriclinian-tro-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-prototriclinian-tro-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/prototriclinian.epub"
+      }
+    },
+    {
+      "eul_wid": "tro-ac",
+      "title": {
+        "english": "Scholia and Glosses on Persians",
+        "ancient_greek": "Σχόλια καὶ Γλῶσσαι εἰς Πέρσας"
+      },
+      "url_slug": "aeschylus-scholia-persians-ac-tro-ac",
+      "passages": 193,
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/persians-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-ac-tro-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-ac-tro-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-ac-tro-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-ac-tro-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "tro-ag",
+      "title": {
+        "english": "Scholia on Aeschylus (Agamemnon)",
+        "ancient_greek": "Σχόλια εἰς Αἰσχύλον"
+      },
+      "url_slug": "aeschylus-scholia-text-ag-tro-ag",
+      "passages": 10271,
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/text-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-text-ag-tro-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-text-ag-tro-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-text-ag-tro-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-text-ag-tro-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/text-ag.epub"
+      }
+    },
+    {
+      "eul_wid": "tro-ai",
+      "title": {
+        "english": "Scholia on Aeschylus (Prometheus and Other Plays)",
+        "ancient_greek": "Σχόλια εἰς Αἰσχύλον"
+      },
+      "url_slug": "aeschylus-scholia-text-ai-tro-ai",
+      "passages": 2741,
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/text-ai",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-text-ai-tro-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-text-ai-tro-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-text-ai-tro-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-text-ai-tro-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/text-ai.epub"
+      }
+    },
+    {
+      "eul_wid": "tro-ad",
+      "title": {
+        "english": "Scholia-Aeschylus's Meters",
+        "ancient_greek": "Σχόλια εἰς τοὺς Μέτρους τοῦ Αἰσχύλου"
+      },
+      "url_slug": "aeschylus-scholia-meters-tro-ad",
+      "passages": 129,
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/meters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-meters-tro-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-meters-tro-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-meters-tro-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-meters-tro-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/meters.epub"
+      }
+    },
+    {
+      "eul_wid": "tro-aj",
+      "title": {
+        "english": "Scholia-Eumenides",
+        "ancient_greek": "Σχόλια εἰς Εὐμενίδας"
+      },
+      "url_slug": "aeschylus-scholia-eumenides-tro-aj",
+      "passages": 308,
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/eumenides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-eumenides-tro-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-eumenides-tro-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-eumenides-tro-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-eumenides-tro-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/eumenides.epub"
+      }
+    },
+    {
+      "eul_wid": "tro-ah",
+      "title": {
+        "english": "Triclinian Scholia on Aeschylus (Agamemnon)",
+        "ancient_greek": "Σχόλια εἰς Αἰσχύλον"
+      },
+      "url_slug": "aeschylus-scholia-text-ah-tro-ah",
+      "passages": 1698,
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/text-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-text-ah-tro-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-text-ah-tro-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-text-ah-tro-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-text-ah-tro-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/text-ah.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/aeschylus-scholia",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aeschylus-scholia-tro.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aeschylus-scholia-tro.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aeschylus-scholia-tro.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aeschylus-scholia-tro.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

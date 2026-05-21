@@ -1,0 +1,263 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "izc-ae",
+  "eul_aid": "izc",
+  "author_slug": "theocritus-of-syracuse",
+  "work_slug": "syrinx",
+  "url_slug": "theocritus-of-syracuse-syrinx-izc-ae",
+  "author": {
+    "english": "Theocritus of Syracuse",
+    "ancient_greek": "Θεόκριτος ὁ Συρακούσιος"
+  },
+  "title": {
+    "english": "Syrinx",
+    "ancient_greek": "Σῦριγξ"
+  },
+  "seo": {
+    "browser_title": "Syrinx by Theocritus of Syracuse on Eulogikon Archive",
+    "meta_title": "Classical Syrinx by Theocritus of Syracuse in Ancient Greek",
+    "meta_description": "Syrinx is a fragmentary bucolic poem by Theocritus. A pastoral song from a longer work. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρὶς βουκολική",
+      "english": "Doric Bucolic",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">&quot;Syrinx&quot; is a fragmentary bucolic poem by the third-century BCE Greek poet Theocritus of Syracuse. Composed in the Doric dialect, it is not an independent work but a song embedded within his longer poem, <strong>Idyll 1</strong>. In that idyll, a goatherd offers to perform &quot;the song of the Syrinx,&quot; and the surviving fragment presents this mythological narrative. It recounts how the god Pan, after losing a musical contest to Eros, binds the nymph Syrinx and fashions the first panpipe from her reeds, thereby providing an etiological myth for the shepherd&#x27;s signature instrument. Only this single passage survives, preserved because it is quoted within the larger work. As a piece of pastoral poetry, it reflects the Hellenistic era&#x27;s interest in refined, artistic depictions of rural life and myth. Scholars interpret it as a foundational etiological myth for the pastoral genre, explaining the origin of its most important musical symbol. Its survival is entirely dependent on the manuscript tradition of Theocritus&#x27;s collected <strong>Idylls</strong>. As part of Theocritus&#x27;s influential oeuvre, this fragment helped establish the panpipe and the figure of Pan as enduring symbols of the pastoral tradition, profoundly influencing later Roman poets like Virgil and the subsequent course of European pastoral literature.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "unit_1",
+      "text": "Οὐδενὸς εὐνάτειρα Μακροπτολέμοιο δὲ μάτηρ μαίας ἀντιπέτροιο θοὸν τέκεν ἰθυντῆρα, οὐχὶ Κεράσταν ὅν ποτε θρέψατο ταυροπάτωρ, ἀλλ’ οὗ πειλιπὲς αἶθε πάρος φρένα τέρμα σάκους, οὔνομ’ Ὅλον, δίζων, ὃς τᾶς μέροπος πόθον κούρας γηρυγόνας ἔχε τᾶς ἀνεμώδεος, ὃς μοίσᾳ λιγὺ πᾶξεν ἰοστεφάνῳ ἕλκος, ἄγαλμα πόθοιο πυρισμαράγου, ὃς σβέσεν ἀνορέαν ἰσαυδέα παπποφόνου Τυρίας τ’ ἐ〈ξήλασεν〉. ᾧ τόδε τυφλοφόρων ἐρατόν πῆμα Πάρις θέτο Σιμιχίδας· ψυχὰν ᾇ, βροτοβάμων, στήτας οἶστρε Σαέττας, κλωποπάτωρ, ἀπάτωρ, λαρνακόγυιε, χαρείς, ἁδὺ μελίσδοις ἔλλοπι κούρᾳ, καλλιόπᾳ νηλεύστῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "izc-aa",
+      "title": {
+        "english": "Epigrams (Major Selection)",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "theocritus-of-syracuse-epigrams-aa-izc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theocritus-of-syracuse/epigrams-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-epigrams-aa-izc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-epigrams-aa-izc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-epigrams-aa-izc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-epigrams-aa-izc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse/epigrams-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "izc-ab",
+      "title": {
+        "english": "Epigrams (Minor Selection)",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "theocritus-of-syracuse-epigrams-ab-izc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/theocritus-of-syracuse/epigrams-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-epigrams-ab-izc-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-epigrams-ab-izc-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-epigrams-ab-izc-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-epigrams-ab-izc-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse/epigrams-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "izc-ac",
+      "title": {
+        "english": "Fisherman's Sacrificial Rite",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "theocritus-of-syracuse-fisherman-rite-izc-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/theocritus-of-syracuse/fisherman-rite",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-fisherman-rite-izc-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-fisherman-rite-izc-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-fisherman-rite-izc-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-fisherman-rite-izc-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse/fisherman-rite.epub"
+      }
+    },
+    {
+      "eul_wid": "izc-ad",
+      "title": {
+        "english": "Idylls",
+        "ancient_greek": "Εἰδύλλια"
+      },
+      "url_slug": "theocritus-of-syracuse-idylls-izc-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/theocritus-of-syracuse/idylls",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-idylls-izc-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-idylls-izc-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-idylls-izc-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-idylls-izc-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse/idylls.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "fby-ab",
+      "title": {
+        "english": "Cosmic Fragments on Apollo",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀπόλλωνος"
+      },
+      "url_slug": "scythinus-of-teos-ii-cosmic-fragments-fby-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/scythinus-of-teos-ii/cosmic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scythinus-of-teos-ii-cosmic-fragments-fby-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scythinus-of-teos-ii-cosmic-fragments-fby-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scythinus-of-teos-ii-cosmic-fragments-fby-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scythinus-of-teos-ii-cosmic-fragments-fby-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scythinus-of-teos-ii/cosmic-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "vfo-aa",
+      "title": {
+        "english": "Description of Hagia Sophia",
+        "ancient_greek": "Περὶ τῆς Ἁγίας Σοφίας"
+      },
+      "url_slug": "paul-the-silentiary-hagia-sophia-vfo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/paul-the-silentiary/hagia-sophia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paul-the-silentiary-hagia-sophia-vfo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paul-the-silentiary-hagia-sophia-vfo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paul-the-silentiary-hagia-sophia-vfo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paul-the-silentiary-hagia-sophia-vfo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paul-the-silentiary/hagia-sophia.epub"
+      }
+    },
+    {
+      "eul_wid": "brw-ag",
+      "title": {
+        "english": "Dubious Fragments",
+        "ancient_greek": "Ἀμφίβολα Ἀποσπάσματα"
+      },
+      "url_slug": "bacchylides-of-ceos-dubious-fragments-brw-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/dubious-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-dubious-fragments-brw-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-dubious-fragments-brw-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-dubious-fragments-brw-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-dubious-fragments-brw-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/dubious-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "kcs-ab",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "athenaeus-the-epigrammatist-epigram-kcs-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/athenaeus-the-epigrammatist/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-the-epigrammatist-epigram-kcs-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-the-epigrammatist-epigram-kcs-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-the-epigrammatist-epigram-kcs-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-the-epigrammatist-epigram-kcs-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-the-epigrammatist/epigram.epub"
+      }
+    },
+    {
+      "eul_wid": "aeq-aa",
+      "title": {
+        "english": "Fragments of the Swallow Song",
+        "ancient_greek": "Ἀποσπάσματα τοῦ Χελιδονίου ᾨδοῦ"
+      },
+      "url_slug": "lyric-work-anonymous-swallow-song-aeq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lyric-work-anonymous/swallow-song",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-work-anonymous-swallow-song-aeq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-work-anonymous-swallow-song-aeq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-work-anonymous-swallow-song-aeq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-work-anonymous-swallow-song-aeq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-work-anonymous/swallow-song.epub"
+      }
+    },
+    {
+      "eul_wid": "sbq-aa",
+      "title": {
+        "english": "Heliodorus to Theodosius the Great-the Mystical Art",
+        "ancient_greek": "Ἡλιοδώρου φιλοσόφου πρὸς Θεοδόσιον τὸν μέγαν"
+      },
+      "url_slug": "heliodorus-the-alchemist-mystical-art-sbq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/heliodorus-the-alchemist/mystical-art",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-alchemist-mystical-art-sbq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-alchemist-mystical-art-sbq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-alchemist-mystical-art-sbq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-alchemist-mystical-art-sbq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-alchemist/mystical-art.epub"
+      }
+    },
+    {
+      "eul_wid": "upu-az",
+      "title": {
+        "english": "Hymn 3 To Apollo",
+        "ancient_greek": "Ὕμνος εἰς Ἀπόλλωνα"
+      },
+      "url_slug": "homeric-hymns-anonymous-apollo-az-upu-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/apollo-az",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-apollo-az-upu-az.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-apollo-az-upu-az.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-apollo-az-upu-az.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-apollo-az-upu-az.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/apollo-az.epub"
+      }
+    },
+    {
+      "eul_wid": "gya-aa",
+      "title": {
+        "english": "Lyric Fragments",
+        "ancient_greek": "Λυρικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "lyric-poets-anonymous-fragments-gya-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lyric-poets-anonymous/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poets-anonymous-fragments-gya-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poets-anonymous-fragments-gya-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poets-anonymous-fragments-gya-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poets-anonymous-fragments-gya-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poets-anonymous/fragments.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/theocritus-of-syracuse/syrinx",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-syrinx-izc-ae.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-syrinx-izc-ae.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-syrinx-izc-ae.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-syrinx-izc-ae.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse/syrinx.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "uge",
+  "auth_slug": "tryphiodorus-of-egypt",
+  "name": {
+    "english": "Tryphiodorus of Egypt",
+    "ancient_greek": "Τρυφιόδωρος ὁ Αἰγύπτιος"
+  },
+  "seo_h1": "Troy's Fall in the Epic of Tryphiodorus of Egypt",
+  "seo": {
+    "browser_title": "Tryphiodorus of Egypt on Eulogikon Greek Archive Library",
+    "meta_title": "Classical Tryphiodorus Ancient Greek Epic Poetry and Works",
+    "meta_description": "Tryphiodorus of Egypt was a late antique epic poet. His surviving epic The Sack of Troy is preserved. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Tryphiodorus of Egypt was a Greek epic poet active in the 3rd or 4th century CE. His precise biography is obscure, but his epithet and later sources place him within the late antique cultural milieu of Egypt, likely Alexandria. He is sometimes identified with a grammarian of the same name recorded in the Byzantine Suda, which describes him as an Egyptian or Libyan who lived around the time of Theodosius I or II, though this dating is uncertain.</p>\n<p class=\"research-text\">His sole surviving work is the epic poem The Sack of Troy, composed in 691 hexameters. Tryphiodorus represents the late antique revival of Greek epic poetry. The Sack of Troy is a concise, rhetorically elaborate treatment of a single Homeric episode, notable for its learned allusions and technical virtuosity, such as a lipogrammatic section avoiding the letter sigma.</p>\n<p class=\"research-text\">His work exemplifies the enduring production of Greek literary culture in the Eastern Roman Empire and provides insight into the post-classical reception of Homeric material.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "uge-aa",
+      "title": {
+        "english": "Sack of Ilium",
+        "ancient_greek": "Ἅλωσις Ἰλίου"
+      },
+      "url_slug": "tryphiodorus-of-egypt-sack-of-ilium-uge-aa",
+      "passages": 47,
+      "links": {
+        "html": "https://eulogikon.org/grc/tryphiodorus-of-egypt/sack-of-ilium",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphiodorus-of-egypt-sack-of-ilium-uge-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphiodorus-of-egypt-sack-of-ilium-uge-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphiodorus-of-egypt-sack-of-ilium-uge-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphiodorus-of-egypt-sack-of-ilium-uge-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphiodorus-of-egypt/sack-of-ilium.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/tryphiodorus-of-egypt",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/tryphiodorus-of-egypt-uge.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/tryphiodorus-of-egypt-uge.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/tryphiodorus-of-egypt-uge.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/tryphiodorus-of-egypt-uge.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,529 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ovu-ab",
+  "eul_aid": "ovu",
+  "author_slug": "aetius-the-doxographer",
+  "work_slug": "doctrines-remnants-ab",
+  "url_slug": "aetius-the-doxographer-doctrines-remnants-ab-ovu-ab",
+  "author": {
+    "english": "Aetius the Doxographer",
+    "ancient_greek": "Ἀέτιος ὁ Δοξογράφος"
+  },
+  "title": {
+    "english": "On Doctrines, Remnants",
+    "ancient_greek": "Περὶ Δογμάτων Ἀπολείμματα"
+  },
+  "seo": {
+    "browser_title": "On Doctrines Remnants by Aetius the Doxographer on Eulogikon",
+    "meta_title": "On Doctrines Remnants by Aetius the Doxographer in Greek",
+    "meta_description": "Surviving fragments of Aetius's doxography on pre-Socratic philosophers preserved by Theodoret. Important source for ancient philosophical doctrines."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (phi, frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Eclectic",
+      "href": "/affiliations/eclectic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On Doctrines, Remnants</strong>, a philosophical handbook traditionally known by its Latin title <strong>Placita</strong>, was compiled in Greek around 100 CE by an otherwise unknown author named Aetius. It is a prime example of doxography, a genre dedicated to the systematic collection and organization of the opinions of earlier Greek philosophers. The work methodically arranges doctrines on a wide range of topics, including the fundamental principles of the universe, cosmology, meteorological phenomena, the nature of the soul, and human perception. Its schematic structure frequently presents the contrasting views of different thinkers on a single question in a side-by-side format. Modern scholarship interprets the handbook as a reference tool or textbook, likely created for students and educated readers in the Roman Empire who required a reliable digest of philosophical debates without needing to consult the original, often inaccessible texts.</p>\n<p class=\"research-text\">The original work of Aetius is entirely lost and must be reconstructed from later sources. It survives principally through extensive quotations preserved in a 5th-century anthology compiled by Stobaeus and through an abridged version that was falsely attributed to Plutarch. Based on these witnesses, modern reconstructions, most notably the seminal work of Hermann Diels, organize the surviving material into books and thematic sections. Despite its fragmentary transmission, the compilation was profoundly influential, serving as a major conduit for the doctrines of pre-Socratic and Hellenistic philosophers throughout later antiquity, the Byzantine world, and among medieval Islamic scholars.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "284",
+      "text": "Theodoret. gr. aff. cur. IV 5 Ξενοφάνης μὲν οὖν ὁ Ὀρθομένους ὁ Κολοφώνιος ὁ τῆς Ἐλεατικῆς αἱρέσεως ἡγησάμενος ἓν εἶναι τὸ πᾶν ἔφησε σφαιροειδὲς καὶ πεπερασμένον, οὐ γενητὸν ἀλλ’ ἀίδιον καὶ πάμπαν ἀκίνητον. πάλιν δὲ αὖ τῶνδε τῶν λόγων ἐπιλαθόμενος ἐκ τῆς γῆς φῦναι ἅπαντα εἴρηκεν. αὐτοῦ γὰρ δὴ τόδε τὸ ἔπος ἐστίν ‘ἐκ γῆς γὰρ τάδε πάντα καὶ εἰς γῆν πάντα τελευτᾷ.‘ Idem IV 7 καὶ Παρμενίδης δὲ ὁ Πύρρητος ὁ Ἐλεάτης Ξενοφάνους ἑταῖρος γενόμενος κατὰ μὲν τὸν πρῶτον λόγον ξύμφωνα τῷ διδασκάλῳ ξυγγέγραφεν· αὐτοῦ γὰρ δὴ τόδε τὸ ἔπος εἶναί φασι ‘οὖλον μουνογενές τε καὶ ἀτρεμὲς ἠδ’ ἀγένητον.‘ αἰτίαν δὲ τῶν ὅλων οὐ τὴν γῆν μόνον καθάπερ ἐκεῖνος ἀλλὰ καὶ τὸ πῦρ εἴρηκεν οὖτος. Theodoret.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "285",
+      "text": "IV 8 Μέλισσος δὲ ὁ Ἰθαγένους ὁ Μιλήσιος τούτου μὲν ἑταῖρος ἐγένετο, τὴν δὲ παραδοθεῖσαν διδασκαλίαν ἀκήρατον οὐκ ἐτήρησεν. ἄπειρον γὰρ οὗτος ἔφη τὸν κόσμον ἐκείνων φάντων πεπερασμένον. Idem IV 9 Δημόκριτος δὲ ὁ Ἀβδηρίτης ὁ Δαμασίππου τὴν τοῦ κενοῦ καὶ τῶν ναστῶν πρῶτος ἐπεισήγαγε δόξαν. Idem ibid. ταῦτα δὲ Μητρόδωρος ὁ Χῖος ἀδιαίρετα καὶ κενόν προσηγόρευσεν, Idem ibid. ὥσπερ αὖ πάλιν Ἐπίκουρος ὁ Νεοκλέους ὁ Ἀθηναῖος πέμπτῃ γενεᾷ μετὰ Δημόκριτον γεγονὼς τὰ ὑπ’ ἐκείνων ναστὰ καὶ ἀδιαίρετα δὴ κληθέντα ἄτομα προσηγόρευσεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "286",
+      "text": "ἀδιαίρετον δὲ καὶ ἄτομον καὶ ναστὸν οἱ μὲν διὰ τὸ ἀπαθὲς ὠνομάσθαι φασίν, οἱ δὲ διὰ τὸ ἄγαν σμικρὸν ἅτε δὴ τομὴν καὶ διαίρεσιν δέξασθαι οὐ δυνάμενον. (καλοῦσι δὲ οὕτω τὰ σμικρότατα ἐκεῖνα καὶ λεπτότατα σώματα ἃ διὰ τῶν φωταγωγῶν εἰσβάλλων ὁ ἥλιος δείκνυσιν ἐν ἑαυτῷ ἄνω καὶ κάτω παλλόμενα) Theodoret. IV 11 τούτοις δὲ καὶ Ἔκφαντος [ἔκφατος Β, διόφαντος vulgo] ὁ Συρακούσιος ὁ Πυθαγόρειος ἠκολούθησε. Theodoret.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "287",
+      "text": "IV 11 Πλάτων δὲ ὁ Ἀρίστωνος ἀρχὰς εἶναι τῶν ὅλων τὸν θεὸν καὶ τὴν ὕλην καὶ τὰς ἰδέας φησίν. Theodoret.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "288",
+      "text": "IV 11 Ἀριστοτέλης δὲ ὁ Σταγειρίτης ὁ Νικομάχου εἶδος καὶ ὕλην καὶ στέρησιν. στοιχεῖα δὲ οὐ τέσσαρα ἀλλὰ πέντε· ἕτερον γὰρ εἶναι τὸ αἰθέριον εἴρηκεν, ἄτρεπτον καὶ ἀμετάβλητον. Idem IV 12 Ξενοκράτης δὲ ὁ Καλχηδόνιος [καρχηδόνιος codd.] ἀέναον τὴν ὕλην, ἐξ ἧς ἅπαντα γέγονε, προσηγόρευσε. Theodoret.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "289",
+      "text": "IV 12 ib. Ζήνων δὲ ὁ Κιτιεὺς ὁ Μνασαίου ὁ Κράτητος φοιτητὴς ὁ τῆς Στωικῆς ἄρξας αἱρέσεως, τὸν θεὸν καὶ τὴν ὕλην ἀρχὰς ἔφησεν εἶναι. Idem ibid. ὁ δὲ Ἀπολλωνιάτης Διογένης ἐκ τοῦ ἀέρος ἔφη ξυστῆναι τὸ πᾶν. Theodoret.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "292",
+      "text": "IV 12 Ἵππασος δὲ ὁ Μεταποντῖνος καὶ Ἡράκλειτος ὁ Βλόσωνος ὁ Ἐφέσιος ἓν εἶναι τὸ πᾶν ἀεικίνητον [ἀκίνητον vulgo; corr. Zeller] καὶ πεπερασμένον, ἀρχὴν δὲ τὸ πῦρ ἐσχηκέναι. Theodoret.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "307",
+      "text": "IV 13 καὶ τὴν ὕλην δέ γε Θαλῆς μὲν καὶ Πυθαγόρας καὶ Ἀναξαγόρας καὶ Ἡράκλειτος καὶ ὁ τῶν Στωικῶν ὁρμαθὸς τρεπτὴν καὶ ἀλλοιωτὴν καὶ ῥευστὴν ἔφασαν εἶναι. Theodor.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "308",
+      "text": "IV 13 Δημόκριτος δὲ καὶ Μητρόδωρος καὶ Ἐπίκουρος ἀπαθῆ τὰ ἄτομα καὶ τὸ κενὸν προσηγόρευσαν. Idem l. c. ὁ δέ γε Πλάτων σωματοειδῆ τὴν ὕλην ἔφησεν εἶναι καὶ ἄμορφον καὶ ἀνείδεον καὶ ἀσχημάτιστον καὶ ἄποιον παντελῶς. ταῦτα γὰρ πάντα, φησίν, ὕστερον παρὰ τοῦ πεποιηκότος ἐδέξατο. Idem IV 14 Ἀριστοτέλης δὲ αὐτὴν σωματικὴν κέκληκεν. Idem l. c. οἱ Στωικοὶ δὲ σῶμα. Theodoret.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "316",
+      "text": "IV 14 (post c. 9 7) τὸ δὲ κενὸν οἱ περὶ Δημόκριτον τῶν ἀτόμων ὠνομάκασι τόπον Idem 1. c. οἱ δὲ ἄλλοι ἅπαντες τοῦτόν γε ἄντικρυς κωμῳδοῦσι τὸν λόγον. αὐτίκα τοίνυν Ἐμπεδοκλῆς οὕτω φησίν ‘οὐδέ τι τοῦ παντὸς κενεὸν πέλει οὐδὲ περιττόν‘. Idem 1. c. ὁ δὲ Στράτων ἔμπαλιν ἔξωθεν μὲν μηδὲν εἶναι κενόν, ἔνδοθεν δὲ δυνατὸν εἶναι. Idem 1. c. οἱ δὲ Στωικοὶ ἐντὸς μὲν τοῦ παντὸς μηδὲν εἶναι κενόν, ἐκτὸς δὲ αὐτοῦ πάμπολύ τε καὶ ἄπειρον. Theodoret.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "321",
+      "text": "VI 13 ... Πυθαγόρας ὁ πολυθρύλητος ἀνάγκην εἶπε περικεῖσθαι τῷ κόσμῳ. Idem 1. c. ὁ δὲ Παρμενίδης τὴν ἀνάγκην [καὶ] δαίμονα κέκληκε καὶ δίκην καὶ πρόνοιαν. Theodoret.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "322",
+      "text": "VI 13 [post c. 25 3]: καὶ ὁ Ἡράκλειτος δὲ πάντα καθ’ εἱμαρμένην εἴρηκε γίγνεσθαι, ἀνάγκην δὲ τὴν εἱμαρμένην καὶ οὖτος ὠνόμασε. Idem VI 14 καὶ Χρύσιππος δὲ ὁ Στωικὸς μηδὲν διαφέρειν εἶπε τοῦ εἱμαρμένου τὸ κατηναγκασμένον, εἶναι δὲ τὴν εἱμαρμένην κίνησιν ἀίδιον συνεχῆ καὶ τεταγμένην. Ζήνων δὲ ὁ Κιτιεὺς δύναμιν κέκληκε τὴν εἱμαρμένην κινητικὴν τῆς ὕλης, τὴν δὲ αὐτὴν καὶ πρόνοιαν καὶ φύσιν ὠνόμασεν. Theodoret.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "323",
+      "text": "1. c. οἱ δὲ τοῦτον (Ζήνωνα) διαδεξάμενοι τὴν εἱμαρμένην λόγον ἔφασαν εἶναι τῶν ἐν τῷ κόσμῳ προνοίᾳ διοικουμένων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "324",
+      "text": "Theodoret. 1. c. καὶ πάλιν ἐν ἑτέροις ξυγγράμμασιν εἱρμὸν αἰτιῶν τὴν εἱμαρμένην κεκλήκασι. Idem VI 15 καὶ τὴν τύχην δὲ ὡσαύτως οἱ μὲν θεὸν ὑπέλαβον καὶ ὡς θεὸν ἐσεβάσθησαν, ὁ δὲ Πλάτων αἰτίαν εἶπεν εἶναι κατά τι ξυμβεβηκὸς γιγνομένην καὶ πάλιν ξύμπτωμα φύσεως ἢ προαιρέσεως κέκληκε. Theodoret.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "325",
+      "text": "1. c. καὶ ὁ Ἀριστοτέλης δὲ ὡσαύτως αἰτίαν ἔφη κατὰ ξυμβεβηκὸς ἐν τοῖς καθ’ ὁρμὴν ἕνεκά τινος γιγνομένοις ἄδηλόν τε καὶ ἄστατον. Theodoret.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "326",
+      "text": "VI 15 Ἀναξαγόρας δὲ καὶ Δημόκριτος καὶ οἱ ἐκ τῆς Ποικίλης ὠνομασμένοι ἄδηλον αἰτίαν ἀνθρωπίνῳ λόγῳ. Theodoret.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "327",
+      "text": "IV 15 οὐ μόνον δὲ ἐν τούτοις διαφωνίᾳ γε πλείστῃ ἀλλὰ κἀν τοῖς ἄλλοις ἐχρήσαντο. καὶ γὰρ δὴ τὸν κόσμον Θαλῆς μὲν καὶ Πυθαγόρας καὶ Ἀναξαγόρας καὶ Παρμενίδης καὶ Μέλισσος καὶ Ἡράκλειτος καὶ Πλάτων καὶ Ἀριστοτέλης καὶ Ζήνων ἕνα εἶναι ξυνωμολόγησαν. Idem 1. c. Ἀναξίμανδρος δὲ καὶ Ἀναξιμένης καὶ Ἀρχέλαος καὶ Ξενοφάνης καὶ Διογένης καὶ Λεύκιππος καὶ Δημόκριτος καὶ Ἐπίκουρος πολλοὺς εἶναι καὶ ἀπείρους ἐδόξασαν. Theodoret.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "329",
+      "text": "IV 16 καὶ οἱ μὲν σφαιροειδῆ τοῦτον εἶναι, οἱ δὲ ἑτεροειδῆ. Idem 1. c. καὶ οἱ μὲν μυλοειδῶς [Anaximenes], οἱ δὲ τροχοῦ δίκην περιδινεῖσθαι [Anaximander] Idem 1. c. καὶ οἱ μὲν ἔμψυχόν τε καὶ ἔμπνουν. Theodoret.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "330",
+      "text": "IV 16 οἱ δὲ παντάπασιν ἄψυχον. Idem 1. c. καὶ οἱ μὲν κατ’ ἐπίνοιαν γενητόν, οὐ κατὰ χρόνον, οἱ δὲ ἀγένητον παντελῶς καὶ ἀναίτιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "331",
+      "text": "καὶ οὗτοι μὲν φθαρτόν, ἐκεῖνοι δὲ ἄφθαρτον. Theodoret.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "341",
+      "text": "IV 17 καὶ τοὺς ἀστέρας δὲ Θαλῆς μὲν γεώδεις καὶ ἐμπύρους ὠνόμασεν. Idem 1. c. ὁ δέ γε Ἀναξαγόρας ἐκ τῆς τοῦ παντὸς περιδινήσεως πέτρους [πέτρας Mich. Glyc. ann. I p. 39, 13 B.] εἶπεν ἀνασπασθῆναι καὶ τούτους ἐκπυρωθέντας τε [τε om. Glyc.] καὶ ἄνω παγέντας ἀστέρας ὀνομασθῆναι. Idem 1. c. καὶ Δημόκριτος δὲ τοῦτον κρατύνει τὸν λόγον. Idem 1. c. ὁ δὲ Διογένης κισηροειδεῖς λέγει εἶναι τούτους (sc. τοὺς ἀστέρας) διαπνοάς τινας ἔχοντας. Theodoret.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "342",
+      "text": "IV 17 ὁ δὲ Ἀναξίμανδρος συστήματα ἄττα τοῦ ἀέρος ἔφη τροχοειδῶς πεπιλημένα πυρὸς ἔμπλεα εἶναι ἀπό τινων στομίων ἀφιέντα τὰς φλόγας. Idem IV 18 Διογένης δὲ καὶ ἐμπίπτειν εἰς τὴν γῆν τινας τούτων ἔφησε καὶ σβεννυμένους ἐλέγχεσθαι ὅτι λίθων ἔχουσι φύσιν καὶ μάρτυρι χρῆται τῷ ἐν Αἰγὸς ποταμοῖς πυροειδῶς κατενεχθέντι ποτέ. Idem 1. c. ὁ δὲ Πλάτων ὡς ἐπίπαν μὲν τούτους ἐκ τοῦ πυρὸς συνεστάναι, μετέχειν δὲ καὶ τῶν ἄλλων στοιχείων φησίν. Theodoret.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "343",
+      "text": "1. c. ὁ δέ γε Ἀριστοτέλης τοῦ πέμπτου σώματος εἴρηκε συγγενεῖς. Idem IV 19 Ξενοφάνης δὲ ἐκ νεφῶν μὲν λέγει πεπυρωμένων ξυνίστασθαι· σβεννυμένους δὲ μεθ’ ἡμέραν νύκτωρ πάλιν ἀναζωπυρεῖσθαι καθάπερ τοὺς ἄνθρακας. Idem IV 20 Ἡρακλείδης δὲ καὶ ἄλλοι τῶν Πυθαγορείων τινὲς ἕκαστον τῶν ἀστέρων κόσμον ὑπάρχειν φασί, γῆν περιέχοντα καὶ ἀέρα. Idem 1. c. καὶ οἱ μὲν σφαιροειδεῖς τούτους εἰρήκασι. Theodoret.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "344",
+      "text": "1. c. κωνοειδεῖς δὲ Κλεάνθης ὁ Στωικός. Theodoret.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "348",
+      "text": "IV 22 οἱ δέ φασιν ἁρματιαίῳ [l. ἁρματείῳ] τροχῷ παραπλήσιον (sc. τὸν ἥλιον). Idem IV 21 καὶ μέντοι καὶ τὸν ἥλιον καὶ τὴν σελήνην ὁ Ξενοφάνης νέφη εἶναι πεπυρωμένα φησίν. Theodoret.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "349",
+      "text": "l. c. post § 11 ὁ δὲ Πλάτων τὸ μὲν πλεῖστον ἔχειν ἐκ τοῦ πυρός, μετέχειν δὲ καὶ τῶν ἄλλων σωμάτων. Idem l. c. post § 3 Ἀναξαγόρας δὲ καὶ Δημόκριτος καὶ Μητρόδωρος μύδρον ἢ πέτρον διάπυρον. Idem l. c. Θαλῆς δὲ γεώδη. Idem l. c. κισηροειδῆ δὲ Διογένη ς. Idem l. c. ὁ δὲ Ἀριστοτέλης σφαῖραν εἶναι ἐκ τοῦ πέμπτου σώματος συνεστῶσαν. Idem l. c. Φιλόλαος δὲ ὁ Πυθαγόρειος ὑαλοειδῆ δεχόμενον μὲν τοῦ ἐν τῷ κόσμῳ πυρὸς τὴν ἀνταύγειαν, διηθοῦντα δὲ πρὸς ἡμᾶς τό τε φῶς καὶ τὴν ἀλέαν εἰδώλου τάξιν ἐπέχοντα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "350",
+      "text": "Theodoret. IV 21 καὶ ἕτεροι δὲ ἕτερα ἄττα περὶ τούτου ἐδόξασαν ἃ περιττὸν οἶμαι λέγειν, ἵνα μὴ τῆς αὐτῆς μεταλάχω τερθρείας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "351",
+      "text": "Theodoret. IV 22 καὶ μεγέθους δὲ πέρι καὶ σχήματος πολλὴ παρ’ αὐτοῖς διαμάχη. Idem l. c. καὶ Ἀναξίμανδρος μὲν ἑπτακαιεικοσαπλασίω τῆς γῆς τοῦτον ἔφησεν εἶναι. Idem l. c. Ἐμπεδοκλῆς δὲ ἴσον τῇ γῇ. Idem l. c. ὁ δὲ Ἀναξαγόρας Πελοποννήσου μείζονα. Idem l. c. Ἡράκλειτος δὲ ποδιαῖον Theodoret.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "352",
+      "text": "IV 22 post διαμάχη: οἱ μὲν γὰρ αὐτὸν σφαιροειδῆ φασιν. Idem 1. c. οἱ δὲ σκαφοειδῆ. sequitur οἱ δὲ—παραπλήσιον Theodoret.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "355",
+      "text": "IV 23 καὶ περὶ σελήνης δὲ ὁμοίως ὑθλοῦσι. Theodoret.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "356",
+      "text": "IV 23 Ἀναξιμένης δὲ καὶ Παρμενίδης καὶ Ἡράκλειτος ἐκ μόνου συνεστάναι πυρός. Idem 1. c. γεώδη μὲν γὰρ ὁ Θαλῆς φησιν. Idem 1. c. Ἀναξαγόρας δὲ καὶ Δημόκριτος στερέωμα διάπυρον, ἔχον ἐν ἑαυτῶ πεδία καὶ ὄρη καὶ φάραγγας. Idem 1. c. Ἡρακλείδης δὲ γῆν ὁμίχλῃ περιεχομένην. Theodoret.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "357",
+      "text": "IV 23 post 9 ὁ δὲ Πυθαγόρας πετρῶδες σῶμα. 1 Idem 1. c. καὶ οἱ μὲν μείζονα τῆς γῆς ἀποφαίνονται. Idem 1. c. οἱ δὲ ἰσόμετρον. Idem 1. c. οἱ δέ γε ἐλάττονα. Idem 1. c. ἄλλοι δὲ σπιθαμῆς ἔχειν διάμετρον. Idem IV 24 καὶ τί δεῖ λέγειν ὄσα ἐκεῖνοι σχημάτων πέρι καὶ ἐκλείψεων (c. 29) καὶ διαστημάτων (c. 31) μυθολογοῦσιν. Theodoret.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "362",
+      "text": "IV 24 οὐ γὰρ μόνον ὅσον ἀλλήλων διεστήκασι λέγουσιν ἀλλὰ καὶ ὅσον τῆς γῆς ἀφεστήκασι. Idem 1. c. καὶ τετρακοσίας ἀριθμοῦσι καὶ μέντοι καὶ πλείους σταδίων μυριάδας τὰς μὲν ἀπὸ γῆς μέχρι σελήνης, τὰς δὲ ἐκεῖθεν μέχρις ἡλίου. Theodoret.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "386",
+      "text": "graec. aff. cur. V 17 Θαλῆς τοίνυν κέκληκε τὴν ψυχὴν ἀκίνητον [1. ἀεικίνητον] φύσιν. Nemes. d. nat. hom. 2 p. 28 Antv. 68 Matth. Θαλῆς μὲν γὰρ πρῶτος τὴν ψυχὴν ἔφησεν ἀεικίνητον καὶ αὐτοκίνητον. Theodoret. 1. c. Ἀλκμὰν δὲ αὐτὴν αὐτοκίνητον εἴρηκεν. Idem. 1. c. ὁ δέ γε Πυθαγόρας ἀριθμὸν ἑαυτὸν κινοῦντα. ξυνεφώνησε δὲ τῷ λόγῳ καὶ Ξενοκράτη ς . Nemes. 1. c. Πυθαγόρας δὲ ἀριθμὸν ἑαυτὸν κινοῦντα. idem p. 44 A. 102 M. Πυθαγόρας ... τὴν ψυχὴν ἀριθμὸν ἑαυτὸν κινοῦντα, ᾧ καὶ Ξενοκράτης ἠκολούθησεν. Theodoret. 1. c. ὁ δὲ Πλάτων οὐσίαν νοητήν, ἐξ ἑαυτῆς κινητήν. Nemes. 1. c. Πλάτων δὲ οὐσίαν νοητὴν ἐξ ἑαυτῆς κινητὴν κατὰ ἀριθμὸν ἐναρμόνιον. Theodoret.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "387",
+      "text": "V 17 ὁ δὲ Σταγειρίτης ἐντελέχειαν πρώτην σώματος φυσικοῦ ὀργανικοῦ δυνάμει ζωὴν ἔχοντος. ἐντελέχειαν δὲ τὴν ἐνέργειαν κέκληκε. Nemes. p. 28 A. 68 M. Ἀριστοτέλης δὲ ἐντελέχειαν πρώτην σώματος φυσικοῦ ὀργανικοῦ δυνάμει ζωὴν ἔχοντος. Theodoret. V 18 Κλέαρχος [ si c ] δὲ τῶν τεσσάρων εἶναι στοιχείων τὴν ἁρμονία ν . Neme s . 1 . c . Δείναρχος δὲ ἁρμονίαν τῶν τεσσάρων στοιχείων ἀντὶ τοῦ κρᾶσιν καὶ συμφωνίαν τῶν στοιχείων. οὐ γὰρ τὴν ἐκ τῶν φθόγγων συνισταμένην, ἀλλὰ τὴν ἐν τῷ σώματι θερμῶν καὶ ψυχρῶν καὶ ὑγρῶν καὶ ξηρῶν ἐναρμόνιον κρᾶσιν καὶ συμφωνίαν βούλεται λέγειν. Theodoret. 1. c. Ἀναξιμένης δὲ καὶ Ἀναξίμανδρος καὶ Ἀναξαγόρας καὶ Ἀρχέλαος ἀερώδη τῆς ψυχῆς τὴν φύσιν εἰρήκασιν. Theodoret.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "388",
+      "text": "V 18 οἱ δέ γε Στωικοὶ πνευματικὴν πλείστου μετέχουσαν τοῦ θερμοῦ. Nemes. p. 28 A. 67 M. οἱ μὲν γὰρ Στωικοὶ πνεῦμα λέγουσιν αὐτὴν ἔνθερμον καὶ διάπυρον. Theodoret. 1. c. Παρμενίδης δὲ καὶ Ἵππασος καὶ Ἡράκλειτος πυρώδη ταύτην κεκλήκασιν. Nemes. 1. c. Δημόκριτος δὲ πῦρ. τὰ γὰρ σφαιροειδῆ σχήματα τῶν ἀτόμων συγκρινόμενα πῦρ τε καὶ ἀὴρ ψυχὴν ἀποτελεῖν Theodoret. 1. c. ὁ δὲ Ἡρακλείδης φωτοειδῆ. Nemes. 1. c. Ἵππων δὲ ὁ φιλόσοφος ὕδωρ. Theodoret. 1. c. Ἐπίκουρος δὲ ὁ Νεοκλέους τεττάρων τινῶν ποιοτήτων κρᾶμα, πυρώδους καὶ ἀερώδους καὶ πνευματικοῦ καὶ τετάρτου τινὸς ἀκατονομάστου. Nemes.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "389",
+      "text": "28 A. p. 67M. Ἡράκλειτος δὲ τὴν μὲν τοῦ παντὸς ψυχὴν ἀναθυμίασιν ἐκ τῶν ὑγρῶν, τὴν δὲ ἐν τοῖς ζῴοις ἀπό τε τῆς ἐκτὸς καὶ τῆς ἐν αὐτοῖς ἀναθυμιάσεως ὁμογενῆ πεφυκέναι. Theodoret. V 18 ὁ δὲ Ἐμπεδοκλῆς μῖγμα ἐξ αἰθερώδους καὶ ἀερώδους οὐσίας. Idem 1. c. Κριτίας δὲ ἐξ αἵματος εἶπε καὶ ἐξ ὑγροῦ καὶ ἄλλοι δὲ (1. δὴ) αὖ ἄλλα λεληρήκασιν ἐναντία. Nemes. 1. c. ante § 9 Κριτίας δὲ αἷμα. Theodoret. V 19 καὶ μέντοι καὶ περὶ τὴν ταύτης διαίρεσιν πλείστη γε τούτοις γεγένηται διαμάχη. Idem 1. c. Πυθαγόρας μὲν γὰρ καὶ Πλάτων διμερῆ ταύτην εἰρήκασι καὶ τὸ μὲν αὐτῆς εἶναι λογικὸν τὸ δὲ ἄλογον. διχῇ δὲ [αὖ πάλιν] τὸ ἄλογον ἔτεμον. καὶ τὸ μὲν αὐτοῦ θυμικὸν εἶναι τὸ δὲ ἐπιθυμητικόν. Idem 1. c. ὁ δὲ Ξενοκράτης (καὶ ταῦτα τρίτος ἀπὸ Πλάτωνος ὤν, Σπευσίππου γὰρ τοῦ Πλάτωνος ἀδελφιδοῦ γεγένηται φοιτητής) τὸ μὲν αἰσθητικὸν [εἶναι] τῆς ψυχῆς ἔφη, τὸ δὲ λογικόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "390",
+      "text": "Theodoret. V 20 ὁ δὲ Νικομάχου πέντε εἶναι ταύτης ἔφησεν ἐνεργείας τὴν ὀρεκτικὴν τὴν θρεπτικὴν τὴν αἰσθητικὴν τὴν μεταβατικὴν τὴν διανοητικήν. Idem 1. c. ἀλλ’ οὐδὲ τοῦτον οἱ Στωικοὶ τὸν ἀριθμὸν ἔστερξαν. ἐξ ὀκτὼ γὰρ μερῶν ἔφασαν τὴν ψυχὴν συνεστάναι, τῆς ὀπτικῆς αἰσθήσεως καὶ τῆς ἀκουστικῆς καὶ τῆς ὀσφραντικῆς καὶ τῆς γευστικῆς καὶ τῆς ἁπτικῆς. ἕκτον δὲ τὸ φωνητικὸν ἔφασαν καὶ τὸ σπερματικὸν ἕβδομον καὶ τὸ ἡγεμονικὸν ὄγδοον, ὑφ’ οὗ τούτων ἕκαστον ἐνεργεῖται. 21 εἶπον δὲ αὐτὴν καὶ ταῖς τοῦ πολύποδος ἐοικέναι πλεκτάναις. Idem l. c. οἱ δέ γε Πυθαγόρου διάδοχοι ἐκ πέντε στοιχείων τὸ σῶμα κραθῆναι φάντες (τοῖς γὰρ τέσσαρσι συνέταξαν τὸ αἰθέριον) ἰσαρίθμους εἶναι ἔφασαν τούτοις καὶ τῆς ψυχῆς τὰς δυνάμεις. καὶ ταύτας ὠνομάκασι νοῦν καὶ φρόνησιν καὶ ἐπιστήμην καὶ δόξαν καὶ αἴσθησιν. Theodoret.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "391",
+      "text": "V 22 ὅσα δὲ καὶ περὶ τῆς τοῦ ἡγεμονικοῦ χώρας διηνέχθησαν πρὸς ἀλλήλους ῥᾴδιον διαγνῶναι. Idem 1. c. Ἱπποκράτης μὲν γὰρ καὶ Δημόκριτος καὶ Πλάτων ἐν ἐγκεφάλῳ τοῦτο ἱδρῦσθαι εἰρήκασιν. Idem 1. c. ὁ δὲ Στράτων ἐν μεσοφρύῳ. Idem 1. c. Ἐρασίστρατος δὲ ὁ ἰατρὸς περὶ τὴν τοῦ ἐγκεφάλου μήνιγγα ἣν καὶ ἐπικρανίδα λέγει. Idem 1. c. Ἡρόφιλος δὲ ἐν τῇ τοῦ ἐγκεφάλου κοιλίᾳ. Idem 1. c. Παρμενίδης δὲ καὶ Ἐπίκουρος ἐν ὅλῳ τῷ θώρακι. Idem l. c. Ἐμπεδοκλῆς δὲ καὶ Ἀριστοκλῆς καὶ τῶν Στωικῶν ἡ ξυμμορία τὴν καρδίαν ἀπεκλήρωσαν τούτῳ. καὶ τούτων δ’ αὖ πάλιν οἱ μὲν ἐν τῇ κοιλίᾳ τῆς καρδίας, οἱ δὲ ἐν τῷ αἵματι. καὶ οἱ μὲν ἐν τῷ περικαρδίῳ ὑμένι, οἱ δὲ ἐν τῷ διαφράγματι. Theodoret.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "392",
+      "text": "V 23 καὶ Πυθαγόρας μὲν καὶ Ἀναξαγόρας καὶ Διογένης καὶ Πλάτων καὶ Ἐμπεδοκλῆς καὶ Ξενοκράτης ἄφθαρτον εἶναι τὴν ψυχὴν ἀπεφήναντο. Idem 1. c. ὁ δὲ Ἡράκλειτος τὰς ἀπαλλαττομένας τοῦ σώματος εἰς τὴν τοῦ παντὸς ἀναχωρεῖν ψυχὴν ἔφησεν οἶα δὴ ὁμογενῆ τε οὖσαν καὶ ὁμοούσιον. Theodoret.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "393",
+      "text": "V 23 οἱ δὲ Στωικοὶ τὰς χωριζομένας τῶν σωμάτων ψυχὰς διαρκεῖν μὲν καὶ καθ’ ἑαυτὰς ζῆν ἔφασαν, ἀλλὰ τὴν μὲν ἀσθενεστέραν ἐπ’ ὀλίγον, τὴν δέ γε ἰσχυροτέραν μέχρι τῆς τοῦ παντὸς ἐκπυρώσεως. Idem V 24 Δημόκριτος δὲ καὶ Ἐπίκουρος καὶ Ἀριστοτέλης φθαρτὴν εἶναι ταύτην ἀνέδην εἰρήκασι. Idem 1. c. Πλάτων δὲ καὶ Πυθαγόρας τὸ μὲν λογικὸν αὐτῆς ἄφθαρτον εἶναι, φθαρτὸν δὲ τὸ ἄλογον. Idem 1. c. καὶ ὁ μὲν Πλάτων καὶ τὰ φυτὰ ζῷα κέκληκε τοῦ τρίτου γε [?] τῆς ψυχῆς εἴδους τοῦ ἐπιθυμητικοῦ μόνον μετέχοντα. Idem 1. c. ὁ δέ γε Ἀριστοτέλης ζῷα μὲν αὐτὰ εἰπεῖν οὐκ ἠνέσχετο (τὸ γὰρ δὴ τῆς αἰσθητικῆς μετέχον ψυχῆς τοῦτο καλεῖσθαι ζῷον ἠξίωσε) τῆς φυτικῆς μέντοι καὶ θρεπτικῆς ψυχῆς μετέχειν ὑπέλαβε τὰ φυτά. Idem l. c. ἀλλὰ τοῦτόν γε τὸν λόγον οἱ τῆς Ποικίλης οὐ προσεδέξαντο τὴν γάρ τοι φυτικὴν δύναμιν καλεῖν ψυχὴν οὐκ ἠνέσχοντο. Nemes. p. 77 A. 176 M. καλεῖται δὲ πολλάκις αἴσθησις καὶ τὰ αἰσθητήρια.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "394",
+      "text": "ἔστι δὲ αἴσθησις ἀντίληψις τῶν αἰσθητῶν ... διὸ καὶ οὕτως ὁρίζονται τὴν αἴσθησιν· πνεῦμα νοερὸν ἀπὸ τοῦ ἡγεμονικοῦ ἐπὶ τὰ ὄργανα τεταμένον. ἔτι δὲ καὶ οὕτω· δύναμιν ψυχῆς ἀντιληπτικὴν τῶν αἰσθητῶν· αἰσθητήριον δὲ ὄργανον τῆς ἀντιλήψεως τῶν αἰσθητῶν. Nemes. p. 77 A. p. 176 M. Πλάτων δὲ τὴν αἴσθησιν λέγει ψυχῆς καὶ σώματος κοινωνίαν πρὸς τὰ ἐκτός. ἡ γὰρ δύναμις ψυχῆς, τὸ δὲ ὄργανον σώματος, ἄμφω δὲ διὰ φαντασίας ἀντιληπτικὰ τῶν ἔξωθεν. Nemes.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "401",
+      "text": "p. 75 Antv. 171 Matth. Φανταστικὸν μὲν οὖν ἐστι δύναμις τῆς ἀλόγου ψυχῆς διὰ τῶν αἰσθητηρίων ἐνεργοῦσα· φανταστὸν δὲ τὸ τῇ φαντασίᾳ ὑποπῖπτον ὡς αἰσθήσει αἰσθητόν· φαντασία δέ ἐστι πάθος τῆς ἀλόγου ψυχῆς ὑπὸ φανταστοῦ τινος γινόμενον· φάντασμα δὲ πάθος διάκενον ἐν τοῖς ἀλόγοις τῆς ψυχῆς μέρεσιν ἀπ’ οὐδενὸς φανταστοῦ γινόμενον. Idem p. 76 A. 172 M. οἱ δὲ Στωικοὶ τέσσαρα ταῦτά φασι φαντασίαν φανταστὸν φανταστικὸν φάντασμα, φαντασίαν μὲν λέγοντες τὸ πάθος τῆς ψυχῆς τὸ ἐνδεικνύμενον ἐν ἑαυτῷ [sic codd. Dresd. 1. Monac. 1, τὸ ἐν ἑαυτῷ ante ἐνδεικνύμενον August. 1. 3, vulgo αὐτό τε] καὶ τὸ πεποιηκὸς φανταστόν. ὅταν γὰρ λευκὸν ἴδωμεν, ἐγγίνεταί τι πάθος τῇ ψυχῇ ἐκ τῆς λήψεως αὐτοῦ. ὡς γὰρ ἐν τοῖς αἰσθητηρίοις ἐγγίνεται πάθος, ὅταν αἰσθάνηται, οὕτω καὶ ἐν τῇ ψυχῇ, ὅταν ἐννοήσῃ· εἰκόνα γὰρ ἐν ἑαυτῇ δέχεται τοῦ νοητοῦ. Nemes.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "402",
+      "text": "p. 173 M. φανταστὸν δὲ τὸ πεποιηκὸς τὴν φαντασίαν αἰσθητόν, οἷον τὸ λευκὸν καὶ πᾶν ὅτι [ὃ alii codd.] δύναται κινεῖν τὴν ψυχήν. Idem l. c. φανταστικὸν δὲ τὸν διάκενον διελκυσμὸν ἄνευ φανταστοῦ. Idem l. c. φάντασμα δὲ ᾧ ἐφελκόμεθα κατὰ τὸν φανταστικὸν διάκενον ἑλκυσμόν ὡς ἐπὶ τῶν μεμηνότων καὶ μελαγχολώντων. Nemes.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "404",
+      "text": "p. 78 A. 178 M. Ἵππαρχος δέ φησιν ἀκτῖνας ἀπὸ τῶν ὀφθαλμῶν ἀποτεινομένας τοῖς πέρασιν ἑαυτῶν καθάπερ χειρῶν ἐπαφαῖς καθαπτούσας τοῖς ἐκτὸς σώμασι τὴν ἀντίληψιν αὐτῶν πρὸς τὸ ὁρατικὸν ἀναδιδόναι. Idem p. 79 A. 180 M. Πλάτων δὲ κατὰ συναύγειαν, τοῦ μὲν ἐκ τῶν ὀφθαλμῶν φωτὸς ἐπὶ ποσὸν ἀπορρέοντος εἰς τὸν ὁμογενῆ ἀέρα, τοῦ δὲ ἀπὸ τῶν σωμάτων ἀντιφερομένου, τοῦ δὲ περὶ τὸν μεταξὺ ἀέρα εὐδιάχυτον ὄντα καὶ εὔτρεπτον συνεκτεινομένου τῷ πυροειδεῖ τῆς ὄψεως.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ovu-aa",
+      "title": {
+        "english": "Opinions (Stobaean Tradition)",
+        "ancient_greek": "Περὶ Δογμάτων Ἀπολείμματα"
+      },
+      "url_slug": "aetius-the-doxographer-doctrines-remnants-aa-ovu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aetius-the-doxographer/doctrines-remnants-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-aa-ovu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-aa-ovu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-aa-ovu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-aa-ovu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer/doctrines-remnants-aa.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "rye-af",
+      "title": {
+        "english": "Deceteric or-Appropriate Speeches to the King",
+        "ancient_greek": "Δεκετηρικὸς ἢ περὶ τῶν πρεπόντων λόγων τῷ βασιλεῖ"
+      },
+      "url_slug": "themistius-deeteric-king-speeches-rye-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/deeteric-king-speeches",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-deeteric-king-speeches-rye-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-deeteric-king-speeches-rye-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-deeteric-king-speeches-rye-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-deeteric-king-speeches-rye-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/deeteric-king-speeches.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-az",
+      "title": {
+        "english": "Dialogic Fragments",
+        "ancient_greek": "Διάφορα Ἀποσπάσματα"
+      },
+      "url_slug": "aristotle-dialogic-fragments-hgw-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/dialogic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-dialogic-fragments-hgw-az.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-dialogic-fragments-hgw-az.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-dialogic-fragments-hgw-az.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-dialogic-fragments-hgw-az.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/dialogic-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "jxi-aa",
+      "title": {
+        "english": "On Beauty and Human Excellence",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dius-of-phoenicia-beauty-excellence-jxi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dius-of-phoenicia/beauty-excellence",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dius-of-phoenicia-beauty-excellence-jxi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dius-of-phoenicia-beauty-excellence-jxi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dius-of-phoenicia-beauty-excellence-jxi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dius-of-phoenicia-beauty-excellence-jxi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dius-of-phoenicia/beauty-excellence.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-eb",
+      "title": {
+        "english": "On Hearing",
+        "ancient_greek": "Περὶ τοῦ ἀκούειν."
+      },
+      "url_slug": "plutarch-of-chaeronea-hearing-okg-eb",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/hearing",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-hearing-okg-eb.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-hearing-okg-eb.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-hearing-okg-eb.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-hearing-okg-eb.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/hearing.epub"
+      }
+    },
+    {
+      "eul_wid": "eho-aa",
+      "title": {
+        "english": "On Household Happiness",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "callicratidas-the-spartan-household-happiness-eho-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/callicratidas-the-spartan/household-happiness",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callicratidas-the-spartan-household-happiness-eho-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callicratidas-the-spartan-household-happiness-eho-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callicratidas-the-spartan-household-happiness-eho-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callicratidas-the-spartan-household-happiness-eho-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callicratidas-the-spartan/household-happiness.epub"
+      }
+    },
+    {
+      "eul_wid": "ljk-as",
+      "title": {
+        "english": "On Toils",
+        "ancient_greek": "Περὶ Πόνων"
+      },
+      "url_slug": "theophrastus-of-eresus-toils-ljk-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/toils",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-toils-ljk-as.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-toils-ljk-as.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-toils-ljk-as.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-toils-ljk-as.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/toils.epub"
+      }
+    },
+    {
+      "eul_wid": "oqk-ag",
+      "title": {
+        "english": "On the Soul Hindered by the Body's Passion",
+        "ancient_greek": "Περὶ τῆς ὑπὸ τοῦ πάθους τοῦ σώματος"
+      },
+      "url_slug": "hermetica-soul-hindered-passion-oqk-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/soul-hindered-passion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-soul-hindered-passion-oqk-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-soul-hindered-passion-oqk-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-soul-hindered-passion-oqk-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-soul-hindered-passion-oqk-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/soul-hindered-passion.epub"
+      }
+    },
+    {
+      "eul_wid": "reo-ah",
+      "title": {
+        "english": "Problems, Books 1–2",
+        "ancient_greek": "Προβλήματα"
+      },
+      "url_slug": "alexander-of-aphrodisias-problems-1-2-reo-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-aphrodisias/problems-1-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-problems-1-2-reo-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-problems-1-2-reo-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-problems-1-2-reo-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-problems-1-2-reo-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/problems-1-2.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aetius-the-doxographer/doctrines-remnants-ab",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-ab-ovu-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-ab-ovu-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-ab-ovu-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-ab-ovu-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer/doctrines-remnants-ab.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

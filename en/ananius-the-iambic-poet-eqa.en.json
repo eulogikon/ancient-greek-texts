@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "eqa",
+  "auth_slug": "ananius-the-iambic-poet",
+  "name": {
+    "english": "Ananius the Iambic Poet",
+    "ancient_greek": "Ἀνανίος ὁ Ἰαμβοποιός"
+  },
+  "seo_h1": "Ananius the Iambic Poet on Pleasures",
+  "seo": {
+    "browser_title": "Ananius the Iambic Poet on Eulogikon Greek Archive",
+    "meta_title": "Classical Ananius the Iambic Poet Ancient Greek Fragments",
+    "meta_description": "Ananius the Iambic Poet, a classical Greek poet in Ionic dialect. Surviving iambic verse fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (ia, frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Ananius was an iambic poet whose dates are disputed. The Suda, a 10th-century Byzantine encyclopedia, identifies him as a writer of parodies and a disciple of the 6th-century BCE poet Hipponax, suggesting a 6th- or 5th-century BCE date. This traditional dating is supported by his use of Ionic dialect and metre. An alternative view places him in the Roman imperial period, between the 1st and 3rd centuries CE. His geographical origin is unknown, though an Ionian context is likely given his association with Hipponax.</p>\n<p class=\"research-text\">His work survives only in fragments, characterized as iambic poetry. He was known for parodies of oracles, composed in a mixture of Ionic and epic dialect. These fragments, such as a parody of a Delphic oracle, are preserved in later authors like Athenaeus.</p>\n<p class=\"research-text\">Ananius is a minor figure within the archaic iambic tradition, significant for his stylistic connection to Hipponax. His parody of oracular language exemplifies the genre’s critical engagement with religious institutions. His fragments are valuable for studies of the Ionic dialect and the reception of early iambic poetry.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "eqa-aa",
+      "title": {
+        "english": "Fragments on Pleasures",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἡδονῶν"
+      },
+      "url_slug": "ananius-the-iambic-poet-pleasures-eqa-aa",
+      "passages": 13,
+      "links": {
+        "html": "https://eulogikon.org/grc/ananius-the-iambic-poet/pleasures",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ananius-the-iambic-poet-pleasures-eqa-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ananius-the-iambic-poet-pleasures-eqa-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ananius-the-iambic-poet-pleasures-eqa-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ananius-the-iambic-poet-pleasures-eqa-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ananius-the-iambic-poet/pleasures.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/ananius-the-iambic-poet",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ananius-the-iambic-poet-eqa.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ananius-the-iambic-poet-eqa.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ananius-the-iambic-poet-eqa.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ananius-the-iambic-poet-eqa.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

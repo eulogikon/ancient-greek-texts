@@ -1,0 +1,219 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "dvg-aa",
+  "eul_aid": "dvg",
+  "author_slug": "iophon-the-tragedian",
+  "work_slug": "divine-knowledge",
+  "url_slug": "iophon-the-tragedian-divine-knowledge-dvg-aa",
+  "author": {
+    "english": "Iophon the Tragedian",
+    "ancient_greek": "Ἰοφῶν ὁ τραγῳδιοποιός"
+  },
+  "title": {
+    "english": "Fragments on Divine Knowledge",
+    "ancient_greek": "Ἀποσπάσματα περὶ Θείας Γνώσεως"
+  },
+  "seo": {
+    "browser_title": "Fragments of Iophon the Tragedian on Eulogikon Archive",
+    "meta_title": "Fragments by Iophon the Tragedian in Ancient Greek",
+    "meta_description": "Surviving fragments from Iophon's tragedy on divine knowledge. Classical Athenian drama from 5th century BCE. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δράμα Ἀττικόν",
+      "english": "Attic Drama",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Δρᾶμα",
+      "english": "Drama",
+      "href": "/domains/drama"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Divine Knowledge</strong> is a modern thematic title for four verse passages attributed to the Athenian tragedian Iophon. These excerpts, originating from one or more of his lost plays, concern themes of divine insight, as no complete work by Iophon survives. The fragments treat subjects central to fifth-century Athenian tragedy, including the limits of human understanding contrasted with divine omniscience, the mechanisms and interpretation of prophecy, and the relationship between divine will and human agency. Iophon’s works were lost in late antiquity, and these fragments survive indirectly through quotation in later scholarly sources, such as anthologies, lexicons, or commentaries, though their specific sources are unrecorded. Iophon, the son of Sophocles, was an active competitor in the City Dionysia during the late 5th century BCE. While his influence was overshadowed by the major tragedians, these fragments are historically significant for exemplifying the broader, now-lost repertoire of Athenian tragedy and offering a glimpse into contemporary dramatic treatments of theology and knowledge.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_1]×–⏑–× καὶ γὰρ εἰσελήλυθεν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "πολλῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "σοφιστῶν ὄχλος ἐξηρτυμένος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "[ln_1][spk_αγαυη?]〈ΑΓΑΥΗ?〉 ἐπίσταμαι δὲ καὶ τάδ’ οὖσά περ γυνή, ὡς μᾶλλον ὅστις εἰδέναι τὰ τῶν θεῶν ζητεῖ, τοσούτῳ μᾶλλον ἧσσον εἴσεται",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "cbm-aw",
+      "title": {
+        "english": "Cyclops",
+        "ancient_greek": "Κύκλωψ"
+      },
+      "url_slug": "euripides-cyclops-cbm-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/cyclops",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-cyclops-cbm-aw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-cyclops-cbm-aw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-cyclops-cbm-aw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-cyclops-cbm-aw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/cyclops.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-ax",
+      "title": {
+        "english": "Electra",
+        "ancient_greek": "Ἠλέκτρα"
+      },
+      "url_slug": "euripides-electra-cbm-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/electra",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-electra-cbm-ax.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-electra-cbm-ax.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-electra-cbm-ax.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-electra-cbm-ax.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/electra.epub"
+      }
+    },
+    {
+      "eul_wid": "chg-ab",
+      "title": {
+        "english": "Fragments on the Poisonous Spring",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἰοβόλου Πηγῆς"
+      },
+      "url_slug": "heliodorus-the-tragedian-of-athens-poisonous-spring-chg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/heliodorus-the-tragedian-of-athens/poisonous-spring",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-tragedian-of-athens-poisonous-spring-chg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-tragedian-of-athens-poisonous-spring-chg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-tragedian-of-athens-poisonous-spring-chg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-tragedian-of-athens-poisonous-spring-chg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-tragedian-of-athens/poisonous-spring.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-ak",
+      "title": {
+        "english": "Hippolytus",
+        "ancient_greek": "Ἱππόλυτος"
+      },
+      "url_slug": "euripides-hippolytus-cbm-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/hippolytus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-hippolytus-cbm-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-hippolytus-cbm-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-hippolytus-cbm-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-hippolytus-cbm-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/hippolytus.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-ae",
+      "title": {
+        "english": "Papyrus Fragments",
+        "ancient_greek": "Ἀποσπάσματα παπύρου"
+      },
+      "url_slug": "euripides-papyrus-fragments-cbm-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/papyrus-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-papyrus-fragments-cbm-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-papyrus-fragments-cbm-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-papyrus-fragments-cbm-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-papyrus-fragments-cbm-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/papyrus-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-bd",
+      "title": {
+        "english": "Rhesus",
+        "ancient_greek": "Ῥῆσος"
+      },
+      "url_slug": "euripides-rhesus-cbm-bd",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/rhesus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-rhesus-cbm-bd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-rhesus-cbm-bd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-rhesus-cbm-bd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-rhesus-cbm-bd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/rhesus.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-ag",
+      "title": {
+        "english": "Trojan Women",
+        "ancient_greek": "Τρῳάδες"
+      },
+      "url_slug": "euripides-trojan-women-cbm-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/trojan-women",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-trojan-women-cbm-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-trojan-women-cbm-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-trojan-women-cbm-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-trojan-women-cbm-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/trojan-women.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-ab",
+      "title": {
+        "english": "Victory Ode-Alcibiades",
+        "ancient_greek": "Νικητήριος ᾠδὴ ἐπὶ Ἀλκιβιάδῃ"
+      },
+      "url_slug": "euripides-victory-ode-alcibiades-cbm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/victory-ode-alcibiades",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-victory-ode-alcibiades-cbm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-victory-ode-alcibiades-cbm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-victory-ode-alcibiades-cbm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-victory-ode-alcibiades-cbm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/victory-ode-alcibiades.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/iophon-the-tragedian/divine-knowledge",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iophon-the-tragedian-divine-knowledge-dvg-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iophon-the-tragedian-divine-knowledge-dvg-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iophon-the-tragedian-divine-knowledge-dvg-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iophon-the-tragedian-divine-knowledge-dvg-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iophon-the-tragedian/divine-knowledge.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}
