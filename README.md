@@ -1,3 +1,16 @@
+---
+language:
+  - el
+  - en
+license: cc0-1.0
+pretty_name: Ancient Greek Texts
+tags:
+  - ancient-greek
+  - digital-humanities
+  - corpus
+  - classical-studies
+---
+
 # Ancient Greek Texts
 
 A free, open archive of ancient Greek literature — 1,341 authors, spanning Homer through late antiquity. Philosophy, history, drama, lyric, medicine, mathematics, rhetoric, and the fragmentary traditions, all in clean Unicode Greek.
