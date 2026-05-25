@@ -2,7 +2,7 @@
 name: Sophistical Refutations Anonymous
 name_greek: Ἀνώνυμος Ἀριστοτέλους Σοφιστικῶν Ἐλέγχων
 eul_aid: vls
-canonical: "https://eulogikon.org/en/sophistical-refutations-anonymous"
+canonical: "https://eulogikon.org/authors/sophistical-refutations-anon-vls"
 period: Late Antique
 dialect: Philosophical Koine
 affiliation: Aristotelian
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμος Ἀριστοτέλους Σοφιστικῶν Ἐλέγχων*
 
-**eul_aid:** `vls` · [HTML page](https://eulogikon.org/en/sophistical-refutations-anonymous)
+**eul_aid:** `vls` · [HTML page](https://eulogikon.org/authors/sophistical-refutations-anon-vls)
 
 Anonymous commentator on Aristotle's Sophistical Refutations. Philosophical commentary in verse. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Historical Fragments  Anonymous
 name_greek: Ἀνώνυμος ἱστορικός (ἀποσπάσματα)
 eul_aid: mmg
-canonical: "https://eulogikon.org/en/historical-fragments-anonymous"
+canonical: "https://eulogikon.org/authors/historical-fragments-anon-mmg"
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 works_count: 39
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμος ἱστορικός (ἀποσπάσματα)*
 
-**eul_aid:** `mmg` · [HTML page](https://eulogikon.org/en/historical-fragments-anonymous)
+**eul_aid:** `mmg` · [HTML page](https://eulogikon.org/authors/historical-fragments-anon-mmg)
 
 Anonymous historian of the Classical to Hellenistic period. Thirty-nine historical fragments. Free to read and download from the Greek library archive.
 

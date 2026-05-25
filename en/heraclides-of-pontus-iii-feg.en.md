@@ -2,7 +2,7 @@
 name: Heraclides of Pontus III
 name_greek: Ἡρακλείδης ὁ Ποντικός
 eul_aid: feg
-canonical: "https://eulogikon.org/en/heraclides-of-pontus-iii"
+canonical: "https://eulogikon.org/authors/heraclides-of-pontus-3-feg"
 period: Classical
 dialect: "Attic (phi, frg)"
 affiliation: Platonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡρακλείδης ὁ Ποντικός*
 
-**eul_aid:** `feg` · [HTML page](https://eulogikon.org/en/heraclides-of-pontus-iii)
+**eul_aid:** `feg` · [HTML page](https://eulogikon.org/authors/heraclides-of-pontus-3-feg)
 
 Heraclides of Pontus, 4th century BCE Platonic philosopher and astronomer. Surviving philosophical fragments. Free to download from the Greek library archive.
 

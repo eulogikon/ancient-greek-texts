@@ -2,7 +2,7 @@
 name: Callistratus the Sophist
 name_greek: Καλλίστρατος ὁ σοφιστής
 eul_aid: ufk
-canonical: "https://eulogikon.org/en/callistratus-the-sophist"
+canonical: "https://eulogikon.org/authors/callistratus-the-sophist-ufk"
 period: Late Antique
 dialect: Atticizing
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Καλλίστρατος ὁ σοφιστής*
 
-**eul_aid:** `ufk` · [HTML page](https://eulogikon.org/en/callistratus-the-sophist)
+**eul_aid:** `ufk` · [HTML page](https://eulogikon.org/authors/callistratus-the-sophist-ufk)
 
 Callistratus the Sophist, a Roman orator and rhetoric teacher. His surviving works include orations. Free to read and download from the Greek library archive.
 

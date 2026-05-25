@@ -2,7 +2,7 @@
 name: Paeon of Amathus
 name_greek: Παίων Ἀμαθούσιος
 eul_aid: fnc
-canonical: "https://eulogikon.org/en/paeon-of-amathus"
+canonical: "https://eulogikon.org/authors/paeon-of-amathus-fnc"
 period: Classical
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Παίων Ἀμαθούσιος*
 
-**eul_aid:** `fnc` · [HTML page](https://eulogikon.org/en/paeon-of-amathus)
+**eul_aid:** `fnc` · [HTML page](https://eulogikon.org/authors/paeon-of-amathus-fnc)
 
 Paeon of Amathus was a 5th century BCE historian writing in Koine Greek. His surviving prose is available. Free to read and download from the Greek library.
 

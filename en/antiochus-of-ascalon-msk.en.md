@@ -2,7 +2,7 @@
 name: Antiochus of Ascalon
 name_greek: Ἀντίοχος ὁ Ἀσκαλώνιος
 eul_aid: msk
-canonical: "https://eulogikon.org/en/antiochus-of-ascalon"
+canonical: "https://eulogikon.org/authors/antiochus-of-ascalon-msk"
 period: Hellenistic
 dialect: Attic Philosophical
 affiliation: Eclectic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀντίοχος ὁ Ἀσκαλώνιος*
 
-**eul_aid:** `msk` · [HTML page](https://eulogikon.org/en/antiochus-of-ascalon)
+**eul_aid:** `msk` · [HTML page](https://eulogikon.org/authors/antiochus-of-ascalon-msk)
 
 Antiochus of Ascalon was a Hellenistic eclectic philosopher. Philosophical works. Read Free to read and download from the Greek library archive.
 

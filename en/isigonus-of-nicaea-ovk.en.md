@@ -2,7 +2,7 @@
 name: Isigonus of Nicaea
 name_greek: Ἰσίγονος ὁ Νικαεύς
 eul_aid: ovk
-canonical: "https://eulogikon.org/en/isigonus-of-nicaea"
+canonical: "https://eulogikon.org/authors/isigonus-of-nicaea-ovk"
 period: Roman
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἰσίγονος ὁ Νικαεύς*
 
-**eul_aid:** `ovk` · [HTML page](https://eulogikon.org/en/isigonus-of-nicaea)
+**eul_aid:** `ovk` · [HTML page](https://eulogikon.org/authors/isigonus-of-nicaea-ovk)
 
 Isigonus of Nicaea, a Roman era historian of the 1st to 2nd century CE. His surviving historical works. Free to download from the Greek library archive.
 

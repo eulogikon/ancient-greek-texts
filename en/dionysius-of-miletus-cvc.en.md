@@ -2,7 +2,7 @@
 name: Dionysius of Miletus
 name_greek: Διονύσιος ὁ Μιλήσιος
 eul_aid: cvc
-canonical: "https://eulogikon.org/en/dionysius-of-miletus"
+canonical: "https://eulogikon.org/authors/dionysius-of-miletus-cvc"
 period: Classical
 dialect: Ionic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διονύσιος ὁ Μιλήσιος*
 
-**eul_aid:** `cvc` · [HTML page](https://eulogikon.org/en/dionysius-of-miletus)
+**eul_aid:** `cvc` · [HTML page](https://eulogikon.org/authors/dionysius-of-miletus-cvc)
 
 Dionysius of Miletus was a 5th century BCE Ionic historian. His surviving historical works are available. Free to download from the Greek library archive.
 

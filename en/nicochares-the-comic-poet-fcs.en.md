@@ -2,7 +2,7 @@
 name: Nicochares the Comic Poet
 name_greek: Νικοχάρης ὁ κωμικός
 eul_aid: fcs
-canonical: "https://eulogikon.org/en/nicochares-the-comic-poet"
+canonical: "https://eulogikon.org/authors/nicochares-the-comic-poet-fcs"
 period: Classical
 dialect: Attic Comedy
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Νικοχάρης ὁ κωμικός*
 
-**eul_aid:** `fcs` · [HTML page](https://eulogikon.org/en/nicochares-the-comic-poet)
+**eul_aid:** `fcs` · [HTML page](https://eulogikon.org/authors/nicochares-the-comic-poet-fcs)
 
 Nicochares was an Athenian comic poet of the late 5th and early 4th centuries BCE. Three works. Free to read and download from the Greek library archive.
 

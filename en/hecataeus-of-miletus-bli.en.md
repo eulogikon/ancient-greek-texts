@@ -2,7 +2,7 @@
 name: Hecataeus of Miletus the Historian
 name_greek: Ἑκαταῖος ὁ Μιλήσιος
 eul_aid: bli
-canonical: "https://eulogikon.org/en/hecataeus-of-miletus"
+canonical: "https://eulogikon.org/authors/hecataeus-of-miletus-bli"
 period: Archaic
 dialect: Ionic
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἑκαταῖος ὁ Μιλήσιος*
 
-**eul_aid:** `bli` · [HTML page](https://eulogikon.org/en/hecataeus-of-miletus)
+**eul_aid:** `bli` · [HTML page](https://eulogikon.org/authors/hecataeus-of-miletus-bli)
 
 Hecataeus of Miletus, an early Greek historian and geographer. Surviving fragments of his works. Free to read and download from the Greek library archive.
 

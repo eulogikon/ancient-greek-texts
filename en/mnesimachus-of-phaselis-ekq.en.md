@@ -2,7 +2,7 @@
 name: Mnesimachus of Phaselis
 name_greek: Μνησίμαχος ὁ Φασηλίτης
 eul_aid: ekq
-canonical: "https://eulogikon.org/en/mnesimachus-of-phaselis"
+canonical: "https://eulogikon.org/authors/mnesimachus-of-phaselis-ekq"
 period: Classical
 dialect: Ionic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μνησίμαχος ὁ Φασηλίτης*
 
-**eul_aid:** `ekq` · [HTML page](https://eulogikon.org/en/mnesimachus-of-phaselis)
+**eul_aid:** `ekq` · [HTML page](https://eulogikon.org/authors/mnesimachus-of-phaselis-ekq)
 
 Mnesimachus of Phaselis, 4th century BCE Ionic historian. Surviving historical works in prose. Free to read and download from the Greek library archive.
 

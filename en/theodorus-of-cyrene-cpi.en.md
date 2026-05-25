@@ -2,7 +2,7 @@
 name: Theodorus of Cyrene
 name_greek: Θεόδωρος ὁ Κυρηναῖος
 eul_aid: cpi
-canonical: "https://eulogikon.org/en/theodorus-of-cyrene"
+canonical: "https://eulogikon.org/authors/theodorus-of-cyrene-cpi"
 period: Classical
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θεόδωρος ὁ Κυρηναῖος*
 
-**eul_aid:** `cpi` · [HTML page](https://eulogikon.org/en/theodorus-of-cyrene)
+**eul_aid:** `cpi` · [HTML page](https://eulogikon.org/authors/theodorus-of-cyrene-cpi)
 
 Theodorus of Cyrene, a 5th century BCE mathematician. Surviving mathematical works and fragments. Free to read and download from the Greek library archive.
 

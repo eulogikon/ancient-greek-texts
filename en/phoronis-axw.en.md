@@ -2,7 +2,7 @@
 name: Phoronis
 name_greek: Φορωνίς
 eul_aid: axw
-canonical: "https://eulogikon.org/en/phoronis"
+canonical: "https://eulogikon.org/authors/phoronis-axw"
 period: Archaic
 dialect: Epic (Homeric)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φορωνίς*
 
-**eul_aid:** `axw` · [HTML page](https://eulogikon.org/en/phoronis)
+**eul_aid:** `axw` · [HTML page](https://eulogikon.org/authors/phoronis-axw)
 
 Phoronis, the conventional name for the poet of a lost archaic Greek epic. Surviving fragments. Free to read and download from the Greek library archive.
 

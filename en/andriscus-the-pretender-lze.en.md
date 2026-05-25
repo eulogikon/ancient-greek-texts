@@ -2,7 +2,7 @@
 name: Andriscus the Pretender
 name_greek: Ἀνδρίσκος ὁ Πλαστός
 eul_aid: lze
-canonical: "https://eulogikon.org/en/andriscus-the-pretender"
+canonical: "https://eulogikon.org/authors/andriscus-the-pretender-lze"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνδρίσκος ὁ Πλαστός*
 
-**eul_aid:** `lze` · [HTML page](https://eulogikon.org/en/andriscus-the-pretender)
+**eul_aid:** `lze` · [HTML page](https://eulogikon.org/authors/andriscus-the-pretender-lze)
 
 Andriscus the Pretender, a Hellenistic era claimant to the Macedonian throne. 2nd century BCE works. Free to read and download from the Greek library archive.
 

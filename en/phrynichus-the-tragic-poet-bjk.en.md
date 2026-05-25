@@ -2,7 +2,7 @@
 name: Phrynichus the Tragic Poet
 name_greek: Φρύνιχος ὁ τραγικός
 eul_aid: bjk
-canonical: "https://eulogikon.org/en/phrynichus-the-tragic-poet"
+canonical: "https://eulogikon.org/authors/phrynichus-the-tragic-poet-bjk"
 period: Archaic
 dialect: Attic Drama
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φρύνιχος ὁ τραγικός*
 
-**eul_aid:** `bjk` · [HTML page](https://eulogikon.org/en/phrynichus-the-tragic-poet)
+**eul_aid:** `bjk` · [HTML page](https://eulogikon.org/authors/phrynichus-the-tragic-poet-bjk)
 
 Phrynichus, Athenian tragic poet and predecessor to Aeschylus. Surviving fragments of his works. Free to read and download from the Greek library archive.
 

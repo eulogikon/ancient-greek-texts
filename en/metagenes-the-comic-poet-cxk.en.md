@@ -2,7 +2,7 @@
 name: Metagenes the Comic Poet
 name_greek: Μεταγένης ὁ κωμικός
 eul_aid: cxk
-canonical: "https://eulogikon.org/en/metagenes-the-comic-poet"
+canonical: "https://eulogikon.org/authors/metagenes-the-comic-poet-cxk"
 period: Classical
 dialect: Attic Comedy
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μεταγένης ὁ κωμικός*
 
-**eul_aid:** `cxk` · [HTML page](https://eulogikon.org/en/metagenes-the-comic-poet)
+**eul_aid:** `cxk` · [HTML page](https://eulogikon.org/authors/metagenes-the-comic-poet-cxk)
 
 Metagenes was an Athenian comic poet of Old Comedy. Surviving fragments from his plays are preserved. Free to read and download from the Greek library archive.
 

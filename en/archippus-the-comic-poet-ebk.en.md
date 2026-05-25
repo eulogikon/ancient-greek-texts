@@ -2,7 +2,7 @@
 name: Archippus the Comic Poet
 name_greek: Ἄρχιππος ὁ Κωμικός
 eul_aid: ebk
-canonical: "https://eulogikon.org/en/archippus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/archippus-the-comic-poet-ebk"
 period: Classical
 dialect: "Attic (com, frg)"
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἄρχιππος ὁ Κωμικός*
 
-**eul_aid:** `ebk` · [HTML page](https://eulogikon.org/en/archippus-the-comic-poet)
+**eul_aid:** `ebk` · [HTML page](https://eulogikon.org/authors/archippus-the-comic-poet-ebk)
 
 Archippus was an Athenian comic poet of Old Comedy, a rival to Aristophanes. Surviving fragments. Free to read and download from the Greek library archive.
 

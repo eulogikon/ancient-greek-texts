@@ -2,7 +2,7 @@
 name: Philo of Tarsus the Physician
 name_greek: Φίλων ὁ Ταρσεύς
 eul_aid: nkc
-canonical: "https://eulogikon.org/en/philo-of-tarsus-the-physician"
+canonical: "https://eulogikon.org/authors/philo-of-tarsus-the-physician-nkc"
 period: Hellenistic
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φίλων ὁ Ταρσεύς*
 
-**eul_aid:** `nkc` · [HTML page](https://eulogikon.org/en/philo-of-tarsus-the-physician)
+**eul_aid:** `nkc` · [HTML page](https://eulogikon.org/authors/philo-of-tarsus-the-physician-nkc)
 
 Philo of Tarsus the Physician, a Hellenistic medical writer. Surviving medical treatise. Free to read and download from the Greek library archive.
 

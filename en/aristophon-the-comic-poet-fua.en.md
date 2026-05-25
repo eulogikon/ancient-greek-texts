@@ -2,7 +2,7 @@
 name: Aristophon the Comic Poet
 name_greek: Ἀριστοφῶν ὁ κωμικός
 eul_aid: fua
-canonical: "https://eulogikon.org/en/aristophon-the-comic-poet"
+canonical: "https://eulogikon.org/authors/aristophon-the-comic-poet-fua"
 period: Classical
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀριστοφῶν ὁ κωμικός*
 
-**eul_aid:** `fua` · [HTML page](https://eulogikon.org/en/aristophon-the-comic-poet)
+**eul_aid:** `fua` · [HTML page](https://eulogikon.org/authors/aristophon-the-comic-poet-fua)
 
 Aristophon was a 4th century BCE Athenian comic poet. Read fragments of his classical comedies. Free to read and download from the Greek library archive.
 

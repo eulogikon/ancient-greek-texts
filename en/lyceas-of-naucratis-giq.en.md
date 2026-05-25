@@ -2,7 +2,7 @@
 name: Lyceas of Naucratis
 name_greek: Λυκέας ὁ Ναυκρατίτης
 eul_aid: giq
-canonical: "https://eulogikon.org/en/lyceas-of-naucratis"
+canonical: "https://eulogikon.org/authors/lyceas-of-naucratis-giq"
 period: Classical
 dialect: Ionic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Λυκέας ὁ Ναυκρατίτης*
 
-**eul_aid:** `giq` · [HTML page](https://eulogikon.org/en/lyceas-of-naucratis)
+**eul_aid:** `giq` · [HTML page](https://eulogikon.org/authors/lyceas-of-naucratis-giq)
 
 Lyceas of Naucratis, a 4th century BCE historian. His surviving historical fragments are preserved. Free to read and download from the Greek library archive.
 

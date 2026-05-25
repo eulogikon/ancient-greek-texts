@@ -2,7 +2,7 @@
 name: Aristagoras the Comic Poet
 name_greek: Ἀρισταγόρας ὁ κωμικός
 eul_aid: equ
-canonical: "https://eulogikon.org/en/aristagoras-the-comic-poet"
+canonical: "https://eulogikon.org/authors/aristagoras-the-comic-poet-equ"
 period: Classical
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρισταγόρας ὁ κωμικός*
 
-**eul_aid:** `equ` · [HTML page](https://eulogikon.org/en/aristagoras-the-comic-poet)
+**eul_aid:** `equ` · [HTML page](https://eulogikon.org/authors/aristagoras-the-comic-poet-equ)
 
 Aristagoras, 5th century BCE Athenian poet of Old Comedy. Two fragmentary works survive. Free to read and download from the Greek library archive.
 

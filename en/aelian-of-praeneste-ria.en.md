@@ -2,7 +2,7 @@
 name: Aelian of Praeneste
 name_greek: Κλαύδιος Αἰλιανός
 eul_aid: ria
-canonical: "https://eulogikon.org/en/aelian-of-praeneste"
+canonical: "https://eulogikon.org/authors/aelian-of-praeneste-ria"
 period: Roman
 dialect: Koine
 affiliation: Sophist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κλαύδιος Αἰλιανός*
 
-**eul_aid:** `ria` · [HTML page](https://eulogikon.org/en/aelian-of-praeneste)
+**eul_aid:** `ria` · [HTML page](https://eulogikon.org/authors/aelian-of-praeneste-ria)
 
 Claudius Aelianus, a Roman sophist writing in Greek. Surviving works include orations and miscellanies. Free to download from the Greek library archive.
 

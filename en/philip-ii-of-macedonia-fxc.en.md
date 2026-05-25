@@ -2,7 +2,7 @@
 name: Philip II King of Macedonia
 name_greek: Φίλιππος Βʹ ὁ Μακεδών
 eul_aid: fxc
-canonical: "https://eulogikon.org/en/philip-ii-of-macedonia"
+canonical: "https://eulogikon.org/authors/philip-ii-king-of-macedonia-fxc"
 period: Classical
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φίλιππος Βʹ ὁ Μακεδών*
 
-**eul_aid:** `fxc` · [HTML page](https://eulogikon.org/en/philip-ii-of-macedonia)
+**eul_aid:** `fxc` · [HTML page](https://eulogikon.org/authors/philip-ii-king-of-macedonia-fxc)
 
 Philip II of Macedon transformed his kingdom into dominant power of Greece. One surviving epistle is attributed to him. Free to download from the Greek archive.
 

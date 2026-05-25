@@ -2,7 +2,7 @@
 name: Aphthonius of Antioch
 name_greek: Ἀφθόνιος Ἀντιοχεὺς ὁ Σύρος
 eul_aid: txi
-canonical: "https://eulogikon.org/en/aphthonius-of-antioch"
+canonical: "https://eulogikon.org/authors/aphthonius-of-antioch-txi"
 period: Late Antique
 dialect: Atticizing Technical
 affiliation: Sophist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀφθόνιος Ἀντιοχεὺς ὁ Σύρος*
 
-**eul_aid:** `txi` · [HTML page](https://eulogikon.org/en/aphthonius-of-antioch)
+**eul_aid:** `txi` · [HTML page](https://eulogikon.org/authors/aphthonius-of-antioch-txi)
 
 Aphthonius of Antioch, a late antique sophist. His surviving works include orations and rhetorical exercises. Free to read and download from the Greek archive.
 

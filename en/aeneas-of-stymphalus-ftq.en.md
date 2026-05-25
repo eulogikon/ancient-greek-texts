@@ -2,7 +2,7 @@
 name: Aeneas of Stymphalus
 name_greek: Αἰνείας ὁ Στυμφάλιος
 eul_aid: ftq
-canonical: "https://eulogikon.org/en/aeneas-of-stymphalus"
+canonical: "https://eulogikon.org/authors/aeneas-of-stymphalus-ftq"
 period: Classical
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Αἰνείας ὁ Στυμφάλιος*
 
-**eul_aid:** `ftq` · [HTML page](https://eulogikon.org/en/aeneas-of-stymphalus)
+**eul_aid:** `ftq` · [HTML page](https://eulogikon.org/authors/aeneas-of-stymphalus-ftq)
 
 Aeneas of Stymphalus, 4th century BCE military writer. His treatise covers tactics and strategy. Free to read and download from the Greek library archive.
 

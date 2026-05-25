@@ -2,7 +2,7 @@
 name: Crinis the Stoic
 name_greek: Κρὶνις ὁ Στωϊκός
 eul_aid: lya
-canonical: "https://eulogikon.org/en/crinis-the-stoic"
+canonical: "https://eulogikon.org/authors/crinis-the-stoic-lya"
 period: Hellenistic
 dialect: Philosophical Koine
 affiliation: Stoic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κρὶνις ὁ Στωϊκός*
 
-**eul_aid:** `lya` · [HTML page](https://eulogikon.org/en/crinis-the-stoic)
+**eul_aid:** `lya` · [HTML page](https://eulogikon.org/authors/crinis-the-stoic-lya)
 
 Crinis was a Hellenistic Stoic philosopher and disciple of Chrysippus. Surviving works from this Stoic. Free to read and download from the Greek library.
 

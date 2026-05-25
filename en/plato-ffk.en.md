@@ -2,7 +2,7 @@
 name: Plato of Athens
 name_greek: Πλάτων ὁ Ἀθηναῖος
 eul_aid: ffk
-canonical: "https://eulogikon.org/en/plato"
+canonical: "https://eulogikon.org/authors/plato-of-athens-ffk"
 period: Classical
 dialect: Attic Philosophical
 affiliation: Platonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πλάτων ὁ Ἀθηναῖος*
 
-**eul_aid:** `ffk` · [HTML page](https://eulogikon.org/en/plato)
+**eul_aid:** `ffk` · [HTML page](https://eulogikon.org/authors/plato-of-athens-ffk)
 
 Plato, classical Athenian philosopher of the 4th century BCE. Dialogues include Republic and Symposium. Free to download from the Greek library archive.
 
@@ -24,8 +24,8 @@ Plato, classical Athenian philosopher of the 4th century BCE. Dialogues include 
 - [Alcibiades B](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-alcibiades-b-ffk-af.grc.md) — *Ἀλκιβιάδης βʹ* · `ffk-af`
 - [Apology of Socrates](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-apology-ffk-aa.grc.md) — *Ἀπολογία Σωκράτους* · `ffk-aa`
 - [Charmides](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-charmides-ffk-an.grc.md) — *Χαρμίδης* · `ffk-an`
-- [Clitophon](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-clitophon-ab-ffk-ab.grc.md) — *Κλειτοφῶν* · `ffk-ab`
 - [Clitophon](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-clitophon-ao-ffk-ao.grc.md) — *Κλειτοφῶν* · `ffk-ao`
+- [Clitophon](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-clitophon-ab-ffk-ab.grc.md) — *Κλειτοφῶν* · `ffk-ab`
 - [Cratylus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-cratylus-ffk-at.grc.md) — *Κρατύλος* · `ffk-at`
 - [Critias](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-critias-ffk-ba.grc.md) — *Κριτίας* · `ffk-ba`
 - [Crito](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-crito-ffk-bj.grc.md) — *Κρίτων* · `ffk-bj`

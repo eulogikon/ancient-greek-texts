@@ -2,7 +2,7 @@
 name: Idaeus of Himera
 name_greek: Ἰδαῖος ὁ Ἱμεραῖος
 eul_aid: czi
-canonical: "https://eulogikon.org/en/idaeus-of-himera"
+canonical: "https://eulogikon.org/authors/idaeus-of-himera-czi"
 period: Classical
 dialect: Ionic
 affiliation: Presocratic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἰδαῖος ὁ Ἱμεραῖος*
 
-**eul_aid:** `czi` · [HTML page](https://eulogikon.org/en/idaeus-of-himera)
+**eul_aid:** `czi` · [HTML page](https://eulogikon.org/authors/idaeus-of-himera-czi)
 
 Idaeus of Himera, a 5th century BCE Presocratic philosopher. His philosophical fragments are preserved. Free to download from the Greek library archive.
 

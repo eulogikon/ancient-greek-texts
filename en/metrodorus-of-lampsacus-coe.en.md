@@ -2,7 +2,7 @@
 name: Metrodorus of Lampsacus the Elder
 name_greek: Μητρόδωρος ὁ Λαμψακηνός
 eul_aid: coe
-canonical: "https://eulogikon.org/en/metrodorus-of-lampsacus"
+canonical: "https://eulogikon.org/authors/metrodorus-of-lampsacus-coe"
 period: Classical
 dialect: Ionic
 affiliation: Epicurean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μητρόδωρος ὁ Λαμψακηνός*
 
-**eul_aid:** `coe` · [HTML page](https://eulogikon.org/en/metrodorus-of-lampsacus)
+**eul_aid:** `coe` · [HTML page](https://eulogikon.org/authors/metrodorus-of-lampsacus-coe)
 
 Metrodorus of Lampsacus the Elder was a 5th century BCE Ionic philosopher. Read his surviving works. Free to read and download from the Greek library archive.
 

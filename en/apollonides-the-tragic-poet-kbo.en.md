@@ -2,7 +2,7 @@
 name: Apollonides the Tragic Poet
 name_greek: Ἀπολλωνίδης
 eul_aid: kbo
-canonical: "https://eulogikon.org/en/apollonides-the-tragic-poet"
+canonical: "https://eulogikon.org/authors/apollonides-the-tragic-poet-kbo"
 period: Hellenistic
 dialect: Attic Drama
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀπολλωνίδης*
 
-**eul_aid:** `kbo` · [HTML page](https://eulogikon.org/en/apollonides-the-tragic-poet)
+**eul_aid:** `kbo` · [HTML page](https://eulogikon.org/authors/apollonides-the-tragic-poet-kbo)
 
 Apollonides, a Hellenistic tragic poet of the 3rd century BCE. Works include dramatic fragments. Free to read and download from the Greek library archive.
 

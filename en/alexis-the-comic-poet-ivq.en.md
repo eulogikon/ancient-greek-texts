@@ -2,7 +2,7 @@
 name: Alexis the Comic Poet
 name_greek: Ἄλεξις ὁ κωμικός
 eul_aid: ivq
-canonical: "https://eulogikon.org/en/alexis-the-comic-poet"
+canonical: "https://eulogikon.org/authors/alexis-the-comic-poet-ivq"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἄλεξις ὁ κωμικός*
 
-**eul_aid:** `ivq` · [HTML page](https://eulogikon.org/en/alexis-the-comic-poet)
+**eul_aid:** `ivq` · [HTML page](https://eulogikon.org/authors/alexis-the-comic-poet-ivq)
 
 Alexis was a Hellenistic comic playwright from Thurii. Three surviving fragmentary works. Free to read and download from the Greek library archive.
 

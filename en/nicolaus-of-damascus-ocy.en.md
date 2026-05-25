@@ -2,7 +2,7 @@
 name: Nicolaus of Damascus
 name_greek: Νικόλαος ὁ Δαμασκηνός
 eul_aid: ocy
-canonical: "https://eulogikon.org/en/nicolaus-of-damascus"
+canonical: "https://eulogikon.org/authors/nicolaus-of-damascus-ocy"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Νικόλαος ὁ Δαμασκηνός*
 
-**eul_aid:** `ocy` · [HTML page](https://eulogikon.org/en/nicolaus-of-damascus)
+**eul_aid:** `ocy` · [HTML page](https://eulogikon.org/authors/nicolaus-of-damascus-ocy)
 
 Nicolaus of Damascus, a Roman era historian writing in Koine Greek. Surviving historical texts. Free to read and download from the Greek library archive.
 

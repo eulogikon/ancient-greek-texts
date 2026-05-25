@@ -2,7 +2,7 @@
 name: Alexander of Aphrodisias
 name_greek: Ἀλέξανδρος ὁ Ἀφροδισιεύς
 eul_aid: reo
-canonical: "https://eulogikon.org/en/alexander-of-aphrodisias"
+canonical: "https://eulogikon.org/authors/alexander-of-aphrodisias-reo"
 period: Roman
 dialect: Philosophical Koine
 affiliation: Aristotelian
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀλέξανδρος ὁ Ἀφροδισιεύς*
 
-**eul_aid:** `reo` · [HTML page](https://eulogikon.org/en/alexander-of-aphrodisias)
+**eul_aid:** `reo` · [HTML page](https://eulogikon.org/authors/alexander-of-aphrodisias-reo)
 
 Alexander of Aphrodisias, a leading Aristotelian philosopher. His surviving works include philosophical treatises. Free to download from the Greek archive.
 

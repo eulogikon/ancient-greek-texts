@@ -2,7 +2,7 @@
 name: Aeschylus of Alexandria
 name_greek: Αἰσχύλος ὁ Ἀλεξανδρεύς
 eul_aid: mjy
-canonical: "https://eulogikon.org/en/aeschylus-of-alexandria"
+canonical: "https://eulogikon.org/authors/aeschylus-of-alexandria-mjy"
 period: Hellenistic
 dialect: Epic (Homeric)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Αἰσχύλος ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `mjy` · [HTML page](https://eulogikon.org/en/aeschylus-of-alexandria)
+**eul_aid:** `mjy` · [HTML page](https://eulogikon.org/authors/aeschylus-of-alexandria-mjy)
 
 Aeschylus of Alexandria, a Hellenistic poet of the 2nd century BCE. Surviving works in Epic dialect. Free to read and download from the Greek library archive.
 

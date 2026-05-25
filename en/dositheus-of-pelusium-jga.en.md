@@ -2,7 +2,7 @@
 name: Dositheus of Pelusium
 name_greek: Δωσίθεος ὁ Πηλουσιώτης
 eul_aid: jga
-canonical: "https://eulogikon.org/en/dositheus-of-pelusium"
+canonical: "https://eulogikon.org/authors/dositheus-of-pelusium-jga"
 period: Hellenistic
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δωσίθεος ὁ Πηλουσιώτης*
 
-**eul_aid:** `jga` · [HTML page](https://eulogikon.org/en/dositheus-of-pelusium)
+**eul_aid:** `jga` · [HTML page](https://eulogikon.org/authors/dositheus-of-pelusium-jga)
 
 Dositheus of Pelusium, a Hellenistic historian of the 3rd century BCE. Surviving historical works. Free to read and download from the Greek library archive.
 

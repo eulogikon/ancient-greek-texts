@@ -2,7 +2,7 @@
 name: Critolaus of Phaselis philosopher
 name_greek: Κριτόλαος ὁ Φασηλίτης
 eul_aid: kuu
-canonical: "https://eulogikon.org/en/critolaus-of-phaselis-philosopher"
+canonical: "https://eulogikon.org/authors/critolaus-of-phaselis-phil-kuu"
 period: Hellenistic
 dialect: "Attic (phi, frg)"
 affiliation: Peripatetic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κριτόλαος ὁ Φασηλίτης*
 
-**eul_aid:** `kuu` · [HTML page](https://eulogikon.org/en/critolaus-of-phaselis-philosopher)
+**eul_aid:** `kuu` · [HTML page](https://eulogikon.org/authors/critolaus-of-phaselis-phil-kuu)
 
 Critolaus of Phaselis was a 2nd century BCE Peripatetic philosopher and head of Aristotle's school. Free to read and download from the Greek library archive.
 

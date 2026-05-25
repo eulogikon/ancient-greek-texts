@@ -2,7 +2,7 @@
 name: Megillus of Sparta
 name_greek: Μέγιλλος ὁ Λακεδαιμόνιος
 eul_aid: cia
-canonical: "https://eulogikon.org/en/megillus-of-sparta"
+canonical: "https://eulogikon.org/authors/megillus-of-sparta-cia"
 period: Classical
 dialect: Attic Philosophical
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μέγιλλος ὁ Λακεδαιμόνιος*
 
-**eul_aid:** `cia` · [HTML page](https://eulogikon.org/en/megillus-of-sparta)
+**eul_aid:** `cia` · [HTML page](https://eulogikon.org/authors/megillus-of-sparta-cia)
 
 Megillus of Sparta was a classical Greek philosophical figure. His surviving treatise is available. Free to read and download from the Greek library archive.
 

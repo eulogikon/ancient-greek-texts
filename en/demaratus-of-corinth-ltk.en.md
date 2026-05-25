@@ -2,7 +2,7 @@
 name: Demaratus of Corinth
 name_greek: Δημάρατος ὁ Κορίνθιος
 eul_aid: ltk
-canonical: "https://eulogikon.org/en/demaratus-of-corinth"
+canonical: "https://eulogikon.org/authors/demaratus-of-corinth-ltk"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δημάρατος ὁ Κορίνθιος*
 
-**eul_aid:** `ltk` · [HTML page](https://eulogikon.org/en/demaratus-of-corinth)
+**eul_aid:** `ltk` · [HTML page](https://eulogikon.org/authors/demaratus-of-corinth-ltk)
 
 Demaratus of Corinth, a 2nd century BCE Hellenistic historian. His surviving historical works are preserved as fragments. Free to download from Greek archive.
 

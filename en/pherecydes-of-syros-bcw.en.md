@@ -2,7 +2,7 @@
 name: Pherecydes of Syros
 name_greek: Φερεκύδης ὁ Σύριος
 eul_aid: bcw
-canonical: "https://eulogikon.org/en/pherecydes-of-syros"
+canonical: "https://eulogikon.org/authors/pherecydes-of-syros-bcw"
 period: Archaic
 dialect: Mixed Dialects (frg)
 affiliation: Presocratic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φερεκύδης ὁ Σύριος*
 
-**eul_aid:** `bcw` · [HTML page](https://eulogikon.org/en/pherecydes-of-syros)
+**eul_aid:** `bcw` · [HTML page](https://eulogikon.org/authors/pherecydes-of-syros-bcw)
 
 Pherecydes of Syros, a 6th century BCE thinker, wrote pioneering prose. Read his surviving fragments. Free to read and download from the Greek library archive.
 

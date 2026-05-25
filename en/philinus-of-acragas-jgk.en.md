@@ -2,7 +2,7 @@
 name: Philinus of Acragas the Historian
 name_greek: Φιλῖνος ὁ Ἀκραγαντῖνος
 eul_aid: jgk
-canonical: "https://eulogikon.org/en/philinus-of-acragas"
+canonical: "https://eulogikon.org/authors/philinus-of-acragas-jgk"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φιλῖνος ὁ Ἀκραγαντῖνος*
 
-**eul_aid:** `jgk` · [HTML page](https://eulogikon.org/en/philinus-of-acragas)
+**eul_aid:** `jgk` · [HTML page](https://eulogikon.org/authors/philinus-of-acragas-jgk)
 
 Philinus of Acragas, a Hellenistic historian of the 3rd century BCE. His surviving historical works. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Dio Cassius of Nicaea
 name_greek: Δίων ὁ Κάσσιος ὁ Κοκκηϊανός
 eul_aid: rhq
-canonical: "https://eulogikon.org/en/dio-cassius-of-nicaea"
+canonical: "https://eulogikon.org/authors/dio-cassius-of-nicaea-rhq"
 period: Roman
 dialect: Atticizing
 works_count: 17
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δίων ὁ Κάσσιος ὁ Κοκκηϊανός*
 
-**eul_aid:** `rhq` · [HTML page](https://eulogikon.org/en/dio-cassius-of-nicaea)
+**eul_aid:** `rhq` · [HTML page](https://eulogikon.org/authors/dio-cassius-of-nicaea-rhq)
 
 Dio Cassius, Roman historian of the 2nd-3rd century CE. Seventeen works from his Roman History. Free to read and download from the Greek library archive.
 

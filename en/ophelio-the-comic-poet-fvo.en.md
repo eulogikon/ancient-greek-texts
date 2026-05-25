@@ -2,7 +2,7 @@
 name: Ophelio Comicus
 name_greek: Ὀφελίων ὁ Κωμικός
 eul_aid: fvo
-canonical: "https://eulogikon.org/en/ophelio-the-comic-poet"
+canonical: "https://eulogikon.org/authors/ophelio-comicus-fvo"
 period: Classical
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ὀφελίων ὁ Κωμικός*
 
-**eul_aid:** `fvo` · [HTML page](https://eulogikon.org/en/ophelio-the-comic-poet)
+**eul_aid:** `fvo` · [HTML page](https://eulogikon.org/authors/ophelio-comicus-fvo)
 
 Ophelio Comicus, a 4th century BCE Attic comic poet. Surviving fragmentary works from ancient Greek comedy. Free to read and download from the Greek library.
 

@@ -2,7 +2,7 @@
 name: Seven Sages of Greece
 name_greek: Ἑπτὰ Σοφοί or Σεπτέμ Σαπιεντές
 eul_aid: ayq
-canonical: "https://eulogikon.org/en/seven-sages-of-greece"
+canonical: "https://eulogikon.org/authors/seven-sages-of-greece-ayq"
 period: Archaic
 dialect: Mixed Dialects
 affiliation: Presocratic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἑπτὰ Σοφοί or Σεπτέμ Σαπιεντές*
 
-**eul_aid:** `ayq` · [HTML page](https://eulogikon.org/en/seven-sages-of-greece)
+**eul_aid:** `ayq` · [HTML page](https://eulogikon.org/authors/seven-sages-of-greece-ayq)
 
 The Seven Sages were early Greek intellectuals and lawgivers. Works include treatises and maxims. Free to read and download from the Greek library archive.
 

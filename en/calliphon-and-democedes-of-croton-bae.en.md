@@ -2,7 +2,7 @@
 name: Calliphon and Democedes of Croton
 name_greek: Καλλιφῶν καὶ Δημοκήδης οἱ Κροτωνιᾶται
 eul_aid: bae
-canonical: "https://eulogikon.org/en/calliphon-and-democedes-of-croton"
+canonical: "https://eulogikon.org/authors/calliphon-and-democedes-bae"
 period: Archaic
 dialect: Doric
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Καλλιφῶν καὶ Δημοκήδης οἱ Κροτωνιᾶται*
 
-**eul_aid:** `bae` · [HTML page](https://eulogikon.org/en/calliphon-and-democedes-of-croton)
+**eul_aid:** `bae` · [HTML page](https://eulogikon.org/authors/calliphon-and-democedes-bae)
 
 Calliphon and Democedes of Croton were Archaic Greek physicians. Their medical works are preserved. Free to read and download from the Greek library archive.
 

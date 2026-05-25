@@ -2,7 +2,7 @@
 name: Barnabas Letters
 name_greek: Βαρνάβα Ἐπιστολή
 eul_aid: ohe
-canonical: "https://eulogikon.org/en/epistle-of-barnabas"
+canonical: "https://eulogikon.org/authors/barnabas-letters-ohe"
 period: Roman
 dialect: Christian Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Βαρνάβα Ἐπιστολή*
 
-**eul_aid:** `ohe` · [HTML page](https://eulogikon.org/en/epistle-of-barnabas)
+**eul_aid:** `ohe` · [HTML page](https://eulogikon.org/authors/barnabas-letters-ohe)
 
 Barnabas, an early Christian theological text. This surviving epistle explores doctrine. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Apollodorus of Damascus
 name_greek: Ἀπολλόδωρος ὁ Δαμασκηνός
 eul_aid: owo
-canonical: "https://eulogikon.org/en/apollodorus-of-damascus"
+canonical: "https://eulogikon.org/authors/apollodorus-of-damascus-owo"
 period: Roman
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀπολλόδωρος ὁ Δαμασκηνός*
 
-**eul_aid:** `owo` · [HTML page](https://eulogikon.org/en/apollodorus-of-damascus)
+**eul_aid:** `owo` · [HTML page](https://eulogikon.org/authors/apollodorus-of-damascus-owo)
 
 Apollodorus of Damascus, Roman era engineer and architect. Technical treatise on military engineering. Free to read and download from the Greek library archive.
 

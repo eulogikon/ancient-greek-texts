@@ -2,7 +2,7 @@
 name: Hesychius of Miletus the Illustrious
 name_greek: Ἡσύχιος ὁ Μιλήσιος ὁ Ἰλλουστρίος
 eul_aid: uws
-canonical: "https://eulogikon.org/en/hesychius-of-miletus"
+canonical: "https://eulogikon.org/authors/hesychius-of-miletus-uws"
 period: Late Antique
 dialect: Koine
 works_count: 4
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡσύχιος ὁ Μιλήσιος ὁ Ἰλλουστρίος*
 
-**eul_aid:** `uws` · [HTML page](https://eulogikon.org/en/hesychius-of-miletus)
+**eul_aid:** `uws` · [HTML page](https://eulogikon.org/authors/hesychius-of-miletus-uws)
 
 Hesychius of Miletus was a 6th century CE historian and biographer. Works include historical texts. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Semus of Delos
 name_greek: Σῆμος ὁ Δηλιεύς
 eul_aid: jlk
-canonical: "https://eulogikon.org/en/semus-of-delos"
+canonical: "https://eulogikon.org/authors/semus-of-delos-jlk"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σῆμος ὁ Δηλιεύς*
 
-**eul_aid:** `jlk` · [HTML page](https://eulogikon.org/en/semus-of-delos)
+**eul_aid:** `jlk` · [HTML page](https://eulogikon.org/authors/semus-of-delos-jlk)
 
 Semus of Delos was a Hellenistic grammarian writing in Koine Greek. His surviving grammatical treatise. Free to download from the Greek library archive.
 

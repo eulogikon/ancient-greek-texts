@@ -2,7 +2,7 @@
 name: Pytheas of Massalia
 name_greek: Πυθέας ὁ Μασσαλιώτης
 eul_aid: hqc
-canonical: "https://eulogikon.org/en/pytheas-of-massalia"
+canonical: "https://eulogikon.org/authors/pytheas-of-massalia-hqc"
 period: Hellenistic
 dialect: Ionic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πυθέας ὁ Μασσαλιώτης*
 
-**eul_aid:** `hqc` · [HTML page](https://eulogikon.org/en/pytheas-of-massalia)
+**eul_aid:** `hqc` · [HTML page](https://eulogikon.org/authors/pytheas-of-massalia-hqc)
 
 Pytheas of Massalia, Hellenistic explorer and geographer of the 4th century BCE. Fragments of his writings. Free to download from the Greek library archive.
 

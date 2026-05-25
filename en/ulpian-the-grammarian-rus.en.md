@@ -2,7 +2,7 @@
 name: Ulpian the Grammarian
 name_greek: Οὐλπιανὸς ὁ Γραμματικός
 eul_aid: rus
-canonical: "https://eulogikon.org/en/ulpian-the-grammarian"
+canonical: "https://eulogikon.org/authors/ulpian-the-grammarian-rus"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Οὐλπιανὸς ὁ Γραμματικός*
 
-**eul_aid:** `rus` · [HTML page](https://eulogikon.org/en/ulpian-the-grammarian)
+**eul_aid:** `rus` · [HTML page](https://eulogikon.org/authors/ulpian-the-grammarian-rus)
 
 Ulpian the Grammarian was a Roman era scholar of the 2nd to 3rd century CE. Works include grammatical texts. Free to download from the Greek library archive.
 

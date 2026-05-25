@@ -2,7 +2,7 @@
 name: Philostephanus of Cyrene
 name_greek: Φιλοστέφανος ὁ Κυρηναῖος
 eul_aid: hwq
-canonical: "https://eulogikon.org/en/philostephanus-of-cyrene"
+canonical: "https://eulogikon.org/authors/philostephanus-of-cyrene-hwq"
 period: Hellenistic
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φιλοστέφανος ὁ Κυρηναῖος*
 
-**eul_aid:** `hwq` · [HTML page](https://eulogikon.org/en/philostephanus-of-cyrene)
+**eul_aid:** `hwq` · [HTML page](https://eulogikon.org/authors/philostephanus-of-cyrene-hwq)
 
 Philostephanus of Cyrene was a Hellenistic historian of the 3rd century BCE. Two works survive as fragments. Free to read and download from the Greek library.
 

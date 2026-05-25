@@ -2,7 +2,7 @@
 name: Theano of Croton
 name_greek: ἡ Θεανώ ἡ Κροτωνιάτισσα
 eul_aid: bhc
-canonical: "https://eulogikon.org/en/theano-of-croton"
+canonical: "https://eulogikon.org/authors/theano-of-croton-bhc"
 period: Archaic
 dialect: Ionic (frg)
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *ἡ Θεανώ ἡ Κροτωνιάτισσα*
 
-**eul_aid:** `bhc` · [HTML page](https://eulogikon.org/en/theano-of-croton)
+**eul_aid:** `bhc` · [HTML page](https://eulogikon.org/authors/theano-of-croton-bhc)
 
 Theano of Croton, a 6th century BCE Pythagorean philosopher. Her surviving fragments and treatises. Free to read and download from the Greek library archive.
 

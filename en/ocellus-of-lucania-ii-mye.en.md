@@ -2,7 +2,7 @@
 name: Ocellus of Lucania II
 name_greek: Ὀκέλλος ὁ Λευκανός
 eul_aid: mye
-canonical: "https://eulogikon.org/en/ocellus-of-lucania-ii"
+canonical: "https://eulogikon.org/authors/ocellus-of-lucania-mye"
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ὀκέλλος ὁ Λευκανός*
 
-**eul_aid:** `mye` · [HTML page](https://eulogikon.org/en/ocellus-of-lucania-ii)
+**eul_aid:** `mye` · [HTML page](https://eulogikon.org/authors/ocellus-of-lucania-mye)
 
 Ocellus of Lucania, a Hellenistic Pythagorean philosopher. The surviving treatise explores the cosmos. Free to read and download from the Greek library archive.
 

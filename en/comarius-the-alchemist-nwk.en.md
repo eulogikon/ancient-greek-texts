@@ -2,7 +2,7 @@
 name: Comarius the Alchemist
 name_greek: Κομάριος ὁ ἀλχημιστής
 eul_aid: nwk
-canonical: "https://eulogikon.org/en/comarius-the-alchemist"
+canonical: "https://eulogikon.org/authors/comarius-the-alchemist-nwk"
 period: Roman
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κομάριος ὁ ἀλχημιστής*
 
-**eul_aid:** `nwk` · [HTML page](https://eulogikon.org/en/comarius-the-alchemist)
+**eul_aid:** `nwk` · [HTML page](https://eulogikon.org/authors/comarius-the-alchemist-nwk)
 
 Comarius the Alchemist, a legendary sage from Roman Egypt. His treatise on alchemy is preserved. Free to read and download from the Greek library archive.
 

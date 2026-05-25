@@ -2,7 +2,7 @@
 name: Nicander of Colophon
 name_greek: Νίκανδρος ὁ Κολοφώνιος
 eul_aid: lcw
-canonical: "https://eulogikon.org/en/nicander-of-colophon"
+canonical: "https://eulogikon.org/authors/nicander-of-colophon-lcw"
 period: Hellenistic
 dialect: Koine
 works_count: 5
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Νίκανδρος ὁ Κολοφώνιος*
 
-**eul_aid:** `lcw` · [HTML page](https://eulogikon.org/en/nicander-of-colophon)
+**eul_aid:** `lcw` · [HTML page](https://eulogikon.org/authors/nicander-of-colophon-lcw)
 
 Nicander of Colophon, Hellenistic poet of the 2nd century BCE. Didactic poems on toxicology and remedies. Free to read and download from the Greek archive.
 

@@ -2,7 +2,7 @@
 name: Dionysius of Sinope the Comic Poet
 name_greek: Διονύσιος ὁ Σινωπεύς
 eul_aid: fsc
-canonical: "https://eulogikon.org/en/dionysius-of-sinope"
+canonical: "https://eulogikon.org/authors/dionysius-of-sinope-fsc"
 period: Classical
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διονύσιος ὁ Σινωπεύς*
 
-**eul_aid:** `fsc` · [HTML page](https://eulogikon.org/en/dionysius-of-sinope)
+**eul_aid:** `fsc` · [HTML page](https://eulogikon.org/authors/dionysius-of-sinope-fsc)
 
 Dionysius of Sinope, 5th century BCE comic poet of Old Comedy. His surviving fragments are preserved. Free to read and download from the Greek library archive.
 

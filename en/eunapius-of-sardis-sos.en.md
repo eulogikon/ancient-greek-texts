@@ -2,7 +2,7 @@
 name: Eunapius of Sardis
 name_greek: Εὐνάπιος ὁ Σαρδιανός
 eul_aid: sos
-canonical: "https://eulogikon.org/en/eunapius-of-sardis"
+canonical: "https://eulogikon.org/authors/eunapius-of-sardis-sos"
 period: Late Antique
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Εὐνάπιος ὁ Σαρδιανός*
 
-**eul_aid:** `sos` · [HTML page](https://eulogikon.org/en/eunapius-of-sardis)
+**eul_aid:** `sos` · [HTML page](https://eulogikon.org/authors/eunapius-of-sardis-sos)
 
 Eunapius of Sardis was a Late Antique Greek historian. Works include Lives of the Philosophers. Free to read and download from the Greek library archive.
 

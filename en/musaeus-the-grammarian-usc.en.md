@@ -2,7 +2,7 @@
 name: Musaeus the Grammarian
 name_greek: Μουσαῖος ὁ Γραμματικός
 eul_aid: usc
-canonical: "https://eulogikon.org/en/musaeus-the-grammarian"
+canonical: "https://eulogikon.org/authors/musaeus-the-grammarian-usc"
 period: Late Antique
 dialect: Epic (Homeric)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μουσαῖος ὁ Γραμματικός*
 
-**eul_aid:** `usc` · [HTML page](https://eulogikon.org/en/musaeus-the-grammarian)
+**eul_aid:** `usc` · [HTML page](https://eulogikon.org/authors/musaeus-the-grammarian-usc)
 
 Musaeus the Grammarian, a late antique poet of the 6th century CE. His epic poem Hero and Leander. Free to read and download from the Greek library archive.
 

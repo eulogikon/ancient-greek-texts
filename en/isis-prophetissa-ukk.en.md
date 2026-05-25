@@ -2,7 +2,7 @@
 name: Isis Prophetissa
 name_greek: Ἡ Ἰσις ἡ Προφῆτις
 eul_aid: ukk
-canonical: "https://eulogikon.org/en/isis-prophetissa"
+canonical: "https://eulogikon.org/authors/isis-prophetissa-ukk"
 period: Late Antique
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡ Ἰσις ἡ Προφῆτις*
 
-**eul_aid:** `ukk` · [HTML page](https://eulogikon.org/en/isis-prophetissa)
+**eul_aid:** `ukk` · [HTML page](https://eulogikon.org/authors/isis-prophetissa-ukk)
 
 Isis Prophetissa is a pseudonymous author of late antique Greek alchemical texts. Two works survive. Free to read and download from the Greek library archive.
 

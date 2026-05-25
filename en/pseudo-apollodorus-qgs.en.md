@@ -2,7 +2,7 @@
 name: Pseudo-Apollodorus
 name_greek: Ψευδοαπολλόδωρος
 eul_aid: qgs
-canonical: "https://eulogikon.org/en/pseudo-apollodorus"
+canonical: "https://eulogikon.org/authors/ps-apollodorus-qgs"
 period: Roman
 dialect: Atticizing
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ψευδοαπολλόδωρος*
 
-**eul_aid:** `qgs` · [HTML page](https://eulogikon.org/en/pseudo-apollodorus)
+**eul_aid:** `qgs` · [HTML page](https://eulogikon.org/authors/ps-apollodorus-qgs)
 
 Pseudo-Apollodorus, Roman era author of Greek mythological compilations. Works include Bibliotheca. Free to read and download from the Greek library archive.
 

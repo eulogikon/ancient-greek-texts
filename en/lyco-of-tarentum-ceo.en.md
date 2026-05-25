@@ -2,7 +2,7 @@
 name: Lyco of Tarentum
 name_greek: Λύκων ὁ Ταραντῖνος
 eul_aid: ceo
-canonical: "https://eulogikon.org/en/lyco-of-tarentum"
+canonical: "https://eulogikon.org/authors/lyco-of-tarentum-ceo"
 period: Classical
 dialect: Attic Philosophical
 affiliation: Peripatetic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Λύκων ὁ Ταραντῖνος*
 
-**eul_aid:** `ceo` · [HTML page](https://eulogikon.org/en/lyco-of-tarentum)
+**eul_aid:** `ceo` · [HTML page](https://eulogikon.org/authors/lyco-of-tarentum-ceo)
 
 Lyco of Tarentum, 3rd century BCE Peripatetic philosopher and successor to Aristotle. All fragments. Free to read and download from the Greek library archive.
 

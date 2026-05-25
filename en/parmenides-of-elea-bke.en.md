@@ -2,7 +2,7 @@
 name: Parmenides of Elea
 name_greek: Παρμενίδης ὁ Ἐλεάτης
 eul_aid: bke
-canonical: "https://eulogikon.org/en/parmenides-of-elea"
+canonical: "https://eulogikon.org/authors/parmenides-of-elea-bke"
 period: Archaic
 dialect: Epic (Homeric) (frg)
 affiliation: Eleatic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Παρμενίδης ὁ Ἐλεάτης*
 
-**eul_aid:** `bke` · [HTML page](https://eulogikon.org/en/parmenides-of-elea)
+**eul_aid:** `bke` · [HTML page](https://eulogikon.org/authors/parmenides-of-elea-bke)
 
 Parmenides, pre-Socratic philosopher and founder of the Eleatic school. Surviving fragments of his poem. Free to download from the Greek library archive.
 

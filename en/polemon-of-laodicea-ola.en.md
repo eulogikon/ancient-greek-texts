@@ -2,7 +2,7 @@
 name: Polemon of Laodicea
 name_greek: Πολέμων ὁ Λαοδικεύς
 eul_aid: ola
-canonical: "https://eulogikon.org/en/polemon-of-laodicea"
+canonical: "https://eulogikon.org/authors/polemon-of-laodicea-ola"
 period: Roman
 dialect: Atticizing
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πολέμων ὁ Λαοδικεύς*
 
-**eul_aid:** `ola` · [HTML page](https://eulogikon.org/en/polemon-of-laodicea)
+**eul_aid:** `ola` · [HTML page](https://eulogikon.org/authors/polemon-of-laodicea-ola)
 
 Polemon of Laodicea, 2nd century CE Roman geographer. Surviving geographical treatises. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Anonymous Commentary on Aristotle
 name_greek: Ἀνώνυμος εἰς τὰς Κατηγορίας τοῦ Ἀριστοτέλους
 eul_aid: vnq
-canonical: "https://eulogikon.org/en/aristotle-commentary-anonymous"
+canonical: "https://eulogikon.org/authors/aristotle-commentary-anon-vnq"
 period: Late Antique
 dialect: Philosophical Koine
 affiliation: Aristotelian
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμος εἰς τὰς Κατηγορίας τοῦ Ἀριστοτέλους*
 
-**eul_aid:** `vnq` · [HTML page](https://eulogikon.org/en/aristotle-commentary-anonymous)
+**eul_aid:** `vnq` · [HTML page](https://eulogikon.org/authors/aristotle-commentary-anon-vnq)
 
 Anonymous commentator on Aristotle from the 4th to 6th century CE. Commentary on Aristotle's Categories. Free to download from the Greek library archive.
 

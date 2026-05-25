@@ -2,7 +2,7 @@
 name: Melanthius the Historian
 name_greek: Μελάνθιος ὁ Ἱστορικός
 eul_aid: ekg
-canonical: "https://eulogikon.org/en/melanthius-the-historian"
+canonical: "https://eulogikon.org/authors/melanthius-the-historian-ekg"
 period: Classical
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μελάνθιος ὁ Ἱστορικός*
 
-**eul_aid:** `ekg` · [HTML page](https://eulogikon.org/en/melanthius-the-historian)
+**eul_aid:** `ekg` · [HTML page](https://eulogikon.org/authors/melanthius-the-historian-ekg)
 
 Melanthius the Historian, a 4th century BCE Attic historian. Surviving works in original Greek. Free to read and download from the Greek library archive.
 

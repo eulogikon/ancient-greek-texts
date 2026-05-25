@@ -2,7 +2,7 @@
 name: Iccus of Tarentum
 name_greek: Ἴκκος ὁ Ταραντῖνος
 eul_aid: bwm
-canonical: "https://eulogikon.org/en/iccus-of-tarentum"
+canonical: "https://eulogikon.org/authors/iccus-of-tarentum-bwm"
 period: Classical
 dialect: Doric
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἴκκος ὁ Ταραντῖνος*
 
-**eul_aid:** `bwm` · [HTML page](https://eulogikon.org/en/iccus-of-tarentum)
+**eul_aid:** `bwm` · [HTML page](https://eulogikon.org/authors/iccus-of-tarentum-bwm)
 
 Iccus of Tarentum was a 5th century BCE Olympic athlete and Pythagorean philosopher. Read his texts. Free to read and download from the Greek library archive.
 

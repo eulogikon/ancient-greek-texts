@@ -2,7 +2,7 @@
 name: Laon the Comic Poet
 name_greek: Λάων ὁ κωμικός
 eul_aid: gmm
-canonical: "https://eulogikon.org/en/laon-the-comic-poet"
+canonical: "https://eulogikon.org/authors/laon-the-comic-poet-gmm"
 period: Classical
 dialect: Koine
 works_count: 2
@@ -13,14 +13,14 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Λάων ὁ κωμικός*
 
-**eul_aid:** `gmm` · [HTML page](https://eulogikon.org/en/laon-the-comic-poet)
+**eul_aid:** `gmm` · [HTML page](https://eulogikon.org/authors/laon-the-comic-poet-gmm)
 
 Laon was a Greek comic poet of the 4th or 3rd century BCE. Two surviving works are preserved. Free to read and download from the Greek library archive.
 
 ## Works
 
-- [On Boeotia and Character](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet-boeotia-character-aa-gmm-aa.grc.md) — *Ἀποσπάσματα* · `gmm-aa`
 - [On Boeotia and Character](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet-boeotia-character-ab-gmm-ab.grc.md) — *Ἀποσπάσματα* · `gmm-ab`
+- [On Boeotia and Character](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet-boeotia-character-aa-gmm-aa.grc.md) — *Ἀποσπάσματα* · `gmm-aa`
 
 ## License and provenance
 

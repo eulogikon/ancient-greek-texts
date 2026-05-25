@@ -2,7 +2,7 @@
 name: Hermias of Methymna
 name_greek: Ἑρμείας ὁ Μηθυμναῖος
 eul_aid: cdu
-canonical: "https://eulogikon.org/en/hermias-of-methymna"
+canonical: "https://eulogikon.org/authors/hermias-of-methymna-cdu"
 period: Classical
 dialect: Aeolic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἑρμείας ὁ Μηθυμναῖος*
 
-**eul_aid:** `cdu` · [HTML page](https://eulogikon.org/en/hermias-of-methymna)
+**eul_aid:** `cdu` · [HTML page](https://eulogikon.org/authors/hermias-of-methymna-cdu)
 
 Hermias of Methymna, a 4th century BCE Aeolic historian. His surviving historical fragments. Free to read and download from the Greek library archive.
 

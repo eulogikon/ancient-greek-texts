@@ -2,7 +2,7 @@
 name: Hermippus the Comic Poet
 name_greek: Ἕρμιππος ὁ κωμικός
 eul_aid: djs
-canonical: "https://eulogikon.org/en/hermippus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/hermippus-the-comic-poet-djs"
 period: Classical
 dialect: Attic Comedy
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἕρμιππος ὁ κωμικός*
 
-**eul_aid:** `djs` · [HTML page](https://eulogikon.org/en/hermippus-the-comic-poet)
+**eul_aid:** `djs` · [HTML page](https://eulogikon.org/authors/hermippus-the-comic-poet-djs)
 
 Hermippus was an Athenian comic poet of Old Comedy. Three surviving works are preserved as fragments. Free to read and download from the Greek library archive.
 

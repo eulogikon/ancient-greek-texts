@@ -2,7 +2,7 @@
 name: Pseudo-Maurice the Tactician
 name_greek: Ψευδο-Μαυρίκιος ὁ Τακτικός
 eul_aid: vvi
-canonical: "https://eulogikon.org/en/pseudo-maurice-the-tactician"
+canonical: "https://eulogikon.org/authors/ps-maurice-the-tactician-vvi"
 period: Late Antique
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ψευδο-Μαυρίκιος ὁ Τακτικός*
 
-**eul_aid:** `vvi` · [HTML page](https://eulogikon.org/en/pseudo-maurice-the-tactician)
+**eul_aid:** `vvi` · [HTML page](https://eulogikon.org/authors/ps-maurice-the-tactician-vvi)
 
 Pseudo-Maurice the Tactician, a 6th century CE military writer. Works include a treatise on strategy. Free to read and download from the Greek library archive.
 

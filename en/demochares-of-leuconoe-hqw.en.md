@@ -2,7 +2,7 @@
 name: Demochares of Leuconoe
 name_greek: Δημοχάρης ὁ Λευκονοεύς
 eul_aid: hqw
-canonical: "https://eulogikon.org/en/demochares-of-leuconoe"
+canonical: "https://eulogikon.org/authors/demochares-of-leuconoe-hqw"
 period: Hellenistic
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δημοχάρης ὁ Λευκονοεύς*
 
-**eul_aid:** `hqw` · [HTML page](https://eulogikon.org/en/demochares-of-leuconoe)
+**eul_aid:** `hqw` · [HTML page](https://eulogikon.org/authors/demochares-of-leuconoe-hqw)
 
 Demochares of Leuconoe, a Hellenistic historian writing in Attic Greek. His surviving historical works. Free to download from the Greek library archive.
 

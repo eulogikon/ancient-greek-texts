@@ -2,7 +2,7 @@
 name: Hesiod
 name_greek: Ἡσίοδος
 eul_aid: aau
-canonical: "https://eulogikon.org/en/hesiod"
+canonical: "https://eulogikon.org/authors/hesiod-aau"
 period: Archaic
 dialect: Epic (Homeric)
 works_count: 7
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡσίοδος*
 
-**eul_aid:** `aau` · [HTML page](https://eulogikon.org/en/hesiod)
+**eul_aid:** `aau` · [HTML page](https://eulogikon.org/authors/hesiod-aau)
 
 Hesiod, an early Greek poet from Boeotia around 700 BCE. Read his epic works Theogony and Works and Days. Free to read and download from the Greek archive.
 

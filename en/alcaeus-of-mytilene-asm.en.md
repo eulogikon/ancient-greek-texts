@@ -2,7 +2,7 @@
 name: Alcaeus of Mytilene
 name_greek: Ἀλκαῖος ὁ Μυτιληναῖος
 eul_aid: asm
-canonical: "https://eulogikon.org/en/alcaeus-of-mytilene"
+canonical: "https://eulogikon.org/authors/alcaeus-of-mytilene-asm"
 period: Archaic
 dialect: Aeolic
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀλκαῖος ὁ Μυτιληναῖος*
 
-**eul_aid:** `asm` · [HTML page](https://eulogikon.org/en/alcaeus-of-mytilene)
+**eul_aid:** `asm` · [HTML page](https://eulogikon.org/authors/alcaeus-of-mytilene-asm)
 
 Alcaeus was a lyric poet from Lesbos in the Archaic period. Works include his poetic fragments. Free to read and download from the Greek library archive.
 

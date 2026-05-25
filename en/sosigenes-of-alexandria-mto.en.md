@@ -2,7 +2,7 @@
 name: Sosigenes of Alexandria
 name_greek: Σωσιγένης ὁ Ἀλεξανδρεύς
 eul_aid: mto
-canonical: "https://eulogikon.org/en/sosigenes-of-alexandria"
+canonical: "https://eulogikon.org/authors/sosigenes-of-alexandria-mto"
 period: Hellenistic
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σωσιγένης ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `mto` · [HTML page](https://eulogikon.org/en/sosigenes-of-alexandria)
+**eul_aid:** `mto` · [HTML page](https://eulogikon.org/authors/sosigenes-of-alexandria-mto)
 
 Sosigenes of Alexandria was a Hellenistic astronomer and Peripatetic philosopher. Surviving astronomical texts. Free to download from the Greek library archive.
 

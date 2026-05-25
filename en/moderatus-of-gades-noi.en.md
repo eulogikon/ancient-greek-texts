@@ -2,7 +2,7 @@
 name: Moderatus of Gades
 name_greek: Μοδερᾶτος ὁ Γαδειτανός
 eul_aid: noi
-canonical: "https://eulogikon.org/en/moderatus-of-gades"
+canonical: "https://eulogikon.org/authors/moderatus-of-gades-noi"
 period: Roman
 dialect: "Koine (phi, frg)"
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μοδερᾶτος ὁ Γαδειτανός*
 
-**eul_aid:** `noi` · [HTML page](https://eulogikon.org/en/moderatus-of-gades)
+**eul_aid:** `noi` · [HTML page](https://eulogikon.org/authors/moderatus-of-gades-noi)
 
 Moderatus of Gades was a 1st century CE Neopythagorean. His treatise explores Pythagorean doctrine. Free to read and download from the Greek library archive.
 

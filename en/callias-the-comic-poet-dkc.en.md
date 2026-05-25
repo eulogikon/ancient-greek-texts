@@ -2,7 +2,7 @@
 name: Callias the Comic Poet
 name_greek: Καλλίας ὁ κωμικός
 eul_aid: dkc
-canonical: "https://eulogikon.org/en/callias-the-comic-poet"
+canonical: "https://eulogikon.org/authors/callias-the-comic-poet-dkc"
 period: Classical
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Καλλίας ὁ κωμικός*
 
-**eul_aid:** `dkc` · [HTML page](https://eulogikon.org/en/callias-the-comic-poet)
+**eul_aid:** `dkc` · [HTML page](https://eulogikon.org/authors/callias-the-comic-poet-dkc)
 
 Callias was an Athenian comic poet of the 5th century BCE. Fragments from his plays are preserved. Free to read and download from the Greek library archive.
 

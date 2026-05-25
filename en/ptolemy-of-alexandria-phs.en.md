@@ -2,7 +2,7 @@
 name: Ptolemy of Alexandria
 name_greek: Κλαύδιος Πτολεμαῖος
 eul_aid: phs
-canonical: "https://eulogikon.org/en/ptolemy-of-alexandria"
+canonical: "https://eulogikon.org/authors/ptolemy-of-alexandria-phs"
 period: Roman
 dialect: Technical Koine
 works_count: 13
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κλαύδιος Πτολεμαῖος*
 
-**eul_aid:** `phs` · [HTML page](https://eulogikon.org/en/ptolemy-of-alexandria)
+**eul_aid:** `phs` · [HTML page](https://eulogikon.org/authors/ptolemy-of-alexandria-phs)
 
 Ptolemy of Alexandria, a 2nd century CE mathematician and astronomer. Thirteen technical treatises. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Aëtius of Amida
 name_greek: Ἀέτιος ὁ Ἀμιδηνός
 eul_aid: vhc
-canonical: "https://eulogikon.org/en/aetius-of-amida"
+canonical: "https://eulogikon.org/authors/aetius-of-amida-vhc"
 period: Late Antique
 dialect: Technical Koine
 works_count: 14
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀέτιος ὁ Ἀμιδηνός*
 
-**eul_aid:** `vhc` · [HTML page](https://eulogikon.org/en/aetius-of-amida)
+**eul_aid:** `vhc` · [HTML page](https://eulogikon.org/authors/aetius-of-amida-vhc)
 
 Aëtius of Amida, a 6th century Byzantine physician and medical writer. His major compilation survives. Free to read and download from the Greek library archive.
 

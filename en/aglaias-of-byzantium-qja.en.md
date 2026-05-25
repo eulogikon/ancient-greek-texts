@@ -2,7 +2,7 @@
 name: Aglaias of Byzantium
 name_greek: Ἀγλαΐας ὁ Βυζάντιος
 eul_aid: qja
-canonical: "https://eulogikon.org/en/aglaias-of-byzantium"
+canonical: "https://eulogikon.org/authors/aglaias-of-byzantium-qja"
 period: Roman
 dialect: Koine (frg)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀγλαΐας ὁ Βυζάντιος*
 
-**eul_aid:** `qja` · [HTML page](https://eulogikon.org/en/aglaias-of-byzantium)
+**eul_aid:** `qja` · [HTML page](https://eulogikon.org/authors/aglaias-of-byzantium-qja)
 
 Aglaias of Byzantium was a 2nd century CE Roman era poet. Two fragmentary works survive in Koine Greek. Free to read and download from the Greek library.
 

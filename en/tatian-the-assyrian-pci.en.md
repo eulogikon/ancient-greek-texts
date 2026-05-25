@@ -2,7 +2,7 @@
 name: Tatian the Assyrian
 name_greek: Τατιανὸς ὁ Ἀσσύριος
 eul_aid: pci
-canonical: "https://eulogikon.org/en/tatian-the-assyrian"
+canonical: "https://eulogikon.org/authors/tatian-the-assyrian-pci"
 period: Roman
 dialect: Christian Koine
 affiliation: Christian
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τατιανὸς ὁ Ἀσσύριος*
 
-**eul_aid:** `pci` · [HTML page](https://eulogikon.org/en/tatian-the-assyrian)
+**eul_aid:** `pci` · [HTML page](https://eulogikon.org/authors/tatian-the-assyrian-pci)
 
 Tatian was a 2nd century Christian theologian. Two surviving works including Address to the Greeks. Free to read and download from the Greek library archive.
 

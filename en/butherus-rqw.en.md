@@ -2,7 +2,7 @@
 name: Butherus
 name_greek: Βούθηρος
 eul_aid: rqw
-canonical: "https://eulogikon.org/en/butherus"
+canonical: "https://eulogikon.org/authors/butherus-rqw"
 period: Roman
 dialect: Koine
 affiliation: Christian
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Βούθηρος*
 
-**eul_aid:** `rqw` · [HTML page](https://eulogikon.org/en/butherus)
+**eul_aid:** `rqw` · [HTML page](https://eulogikon.org/authors/butherus-rqw)
 
 Butherus, a Christian philosophical author of late antiquity. Explore his surviving treatise. Free to read and download from the Greek library archive.
 

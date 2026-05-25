@@ -2,7 +2,7 @@
 name: Pherecydes of Athens
 name_greek: Φερεκύδης ὁ Ἀθηναῖος
 eul_aid: bvi
-canonical: "https://eulogikon.org/en/pherecydes-of-athens"
+canonical: "https://eulogikon.org/authors/pherecydes-of-athens-bvi"
 period: Classical
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φερεκύδης ὁ Ἀθηναῖος*
 
-**eul_aid:** `bvi` · [HTML page](https://eulogikon.org/en/pherecydes-of-athens)
+**eul_aid:** `bvi` · [HTML page](https://eulogikon.org/authors/pherecydes-of-athens-bvi)
 
 Pherecydes of Athens was a 5th century BCE Attic historian. Fragments of his historical works. Free to read and download from the Greek library archive.
 

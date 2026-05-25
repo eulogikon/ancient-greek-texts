@@ -2,7 +2,7 @@
 name: Oenopides of Chios
 name_greek: Οἰνοπίδης ὁ Χῖος
 eul_aid: btu
-canonical: "https://eulogikon.org/en/oenopides-of-chios"
+canonical: "https://eulogikon.org/authors/oenopides-of-chios-btu"
 period: Classical
 dialect: Ionic (frg)
 affiliation: Presocratic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Οἰνοπίδης ὁ Χῖος*
 
-**eul_aid:** `btu` · [HTML page](https://eulogikon.org/en/oenopides-of-chios)
+**eul_aid:** `btu` · [HTML page](https://eulogikon.org/authors/oenopides-of-chios-btu)
 
 Oenopides of Chios was a 5th century BCE mathematician and astronomer. Surviving fragments. Free to read and download from the Greek library archive.
 

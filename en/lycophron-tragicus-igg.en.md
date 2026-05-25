@@ -2,7 +2,7 @@
 name: Lycophron Tragicus
 name_greek: Λυκόφρων ὁ Τραγικός
 eul_aid: igg
-canonical: "https://eulogikon.org/en/lycophron-tragicus"
+canonical: "https://eulogikon.org/authors/lycophron-tragicus-igg"
 period: Hellenistic
 dialect: Attic Drama
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Λυκόφρων ὁ Τραγικός*
 
-**eul_aid:** `igg` · [HTML page](https://eulogikon.org/en/lycophron-tragicus)
+**eul_aid:** `igg` · [HTML page](https://eulogikon.org/authors/lycophron-tragicus-igg)
 
 Lycophron Tragicus, a Hellenistic orator of the 4th century BCE. Surviving works of Attic drama. Free to read and download from the Greek library archive.
 

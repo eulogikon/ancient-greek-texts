@@ -2,7 +2,7 @@
 name: Lachares the Sophist
 name_greek: Λαχάρης ὁ σοφιστής
 eul_aid: ghw
-canonical: "https://eulogikon.org/en/lachares-the-sophist"
+canonical: "https://eulogikon.org/authors/lachares-the-sophist-ghw"
 period: Classical
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Λαχάρης ὁ σοφιστής*
 
-**eul_aid:** `ghw` · [HTML page](https://eulogikon.org/en/lachares-the-sophist)
+**eul_aid:** `ghw` · [HTML page](https://eulogikon.org/authors/lachares-the-sophist-ghw)
 
 Lachares was an Athenian orator and teacher of rhetoric in the 4th century BCE. One surviving oration. Free to read and download from the Greek library archive.
 

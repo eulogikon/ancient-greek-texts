@@ -2,7 +2,7 @@
 name: Callisthenes of Olynthus
 name_greek: Καλλισθένης ὁ Ὀλύνθιος
 eul_aid: fsw
-canonical: "https://eulogikon.org/en/callisthenes-of-olynthus"
+canonical: "https://eulogikon.org/authors/callisthenes-of-olynthus-fsw"
 period: Classical
 dialect: Attic (frg)
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Καλλισθένης ὁ Ὀλύνθιος*
 
-**eul_aid:** `fsw` · [HTML page](https://eulogikon.org/en/callisthenes-of-olynthus)
+**eul_aid:** `fsw` · [HTML page](https://eulogikon.org/authors/callisthenes-of-olynthus-fsw)
 
 Callisthenes of Olynthus, 4th century BCE Greek historian. Surviving fragments of his works. Free to read and download from the Greek library archive.
 

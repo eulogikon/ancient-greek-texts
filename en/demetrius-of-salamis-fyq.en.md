@@ -2,7 +2,7 @@
 name: Demetrius of Salamis
 name_greek: Δημήτριος ὁ Σαλαμίνιος
 eul_aid: fyq
-canonical: "https://eulogikon.org/en/demetrius-of-salamis"
+canonical: "https://eulogikon.org/authors/demetrius-of-salamis-fyq"
 period: Classical
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δημήτριος ὁ Σαλαμίνιος*
 
-**eul_aid:** `fyq` · [HTML page](https://eulogikon.org/en/demetrius-of-salamis)
+**eul_aid:** `fyq` · [HTML page](https://eulogikon.org/authors/demetrius-of-salamis-fyq)
 
 Demetrius of Salamis, a 3rd century BCE historian writing in Koine Greek. His surviving works. Free to read and download from the Greek library archive.
 

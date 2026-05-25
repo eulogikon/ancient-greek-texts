@@ -2,7 +2,7 @@
 name: Hicetas of Syracuse
 name_greek: Ἱκέτας ὁ Συρακόσιος
 eul_aid: ewy
-canonical: "https://eulogikon.org/en/hicetas-of-syracuse"
+canonical: "https://eulogikon.org/authors/hicetas-of-syracuse-ewy"
 period: Classical
 dialect: Attic Philosophical
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἱκέτας ὁ Συρακόσιος*
 
-**eul_aid:** `ewy` · [HTML page](https://eulogikon.org/en/hicetas-of-syracuse)
+**eul_aid:** `ewy` · [HTML page](https://eulogikon.org/authors/hicetas-of-syracuse-ewy)
 
 Hicetas of Syracuse, a 4th century BCE Pythagorean philosopher. Surviving philosophical fragments. Free to read and download from the Greek library archive.
 

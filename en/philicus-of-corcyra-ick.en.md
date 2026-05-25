@@ -2,7 +2,7 @@
 name: Philicus of Corcyra
 name_greek: Φιλικος ὁ Κερκυραῖος
 eul_aid: ick
-canonical: "https://eulogikon.org/en/philicus-of-corcyra"
+canonical: "https://eulogikon.org/authors/philicus-of-corcyra-ick"
 period: Hellenistic
 dialect: Literary Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φιλικος ὁ Κερκυραῖος*
 
-**eul_aid:** `ick` · [HTML page](https://eulogikon.org/en/philicus-of-corcyra)
+**eul_aid:** `ick` · [HTML page](https://eulogikon.org/authors/philicus-of-corcyra-ick)
 
 Philicus of Corcyra was a Hellenistic poet of the 3rd century BCE. Read his poetic fragments. Free to read and download from the Greek library archive.
 

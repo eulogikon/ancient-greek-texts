@@ -2,7 +2,7 @@
 name: Demonax of Cyprus
 name_greek: Δημώναξ ὁ Κύπριος
 eul_aid: ogu
-canonical: "https://eulogikon.org/en/demonax-of-cyprus"
+canonical: "https://eulogikon.org/authors/demonax-of-cyprus-ogu"
 period: Roman
 dialect: Atticizing
 affiliation: Cynic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δημώναξ ὁ Κύπριος*
 
-**eul_aid:** `ogu` · [HTML page](https://eulogikon.org/en/demonax-of-cyprus)
+**eul_aid:** `ogu` · [HTML page](https://eulogikon.org/authors/demonax-of-cyprus-ogu)
 
 Demonax, a 2nd century CE Cynic philosopher. Surviving works include philosophical treatises. Free to read and download from the Greek library archive.
 

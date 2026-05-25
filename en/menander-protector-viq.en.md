@@ -2,7 +2,7 @@
 name: Menander Protector
 name_greek: Μένανδρος ὁ Προτέκτωρ
 eul_aid: viq
-canonical: "https://eulogikon.org/en/menander-protector"
+canonical: "https://eulogikon.org/authors/menander-protector-viq"
 period: Late Antique
 dialect: Koine
 works_count: 4
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μένανδρος ὁ Προτέκτωρ*
 
-**eul_aid:** `viq` · [HTML page](https://eulogikon.org/en/menander-protector)
+**eul_aid:** `viq` · [HTML page](https://eulogikon.org/authors/menander-protector-viq)
 
 Menander Protector was a 6th century CE historian. His surviving works include historical fragments. Free to read and download from the Greek library archive.
 

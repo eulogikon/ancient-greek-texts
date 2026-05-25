@@ -2,7 +2,7 @@
 name: Historical Work  Anonymous
 name_greek: Ἄγνωστος ἱστορικός
 eul_aid: ubo
-canonical: "https://eulogikon.org/en/anonymous-historical-work"
+canonical: "https://eulogikon.org/authors/historical-work-anon-ubo"
 period: Late Antique
 dialect: Koine
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἄγνωστος ἱστορικός*
 
-**eul_aid:** `ubo` · [HTML page](https://eulogikon.org/en/anonymous-historical-work)
+**eul_aid:** `ubo` · [HTML page](https://eulogikon.org/authors/historical-work-anon-ubo)
 
 Anonymous historian of Late Antiquity writing in Koine Greek. Three surviving historical works from 3rd to 6th centuries. Free to download from Greek archive.
 

@@ -2,7 +2,7 @@
 name: Epic Work  Anonymous
 name_greek: Ἐπικά Ἀδέσποτα
 eul_aid: kjq
-canonical: "https://eulogikon.org/en/epic-fragments-anonymous"
+canonical: "https://eulogikon.org/authors/epic-work-anon-kjq"
 period: Hellenistic
 dialect: Epic (Homeric) (frg)
 works_count: 18
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἐπικά Ἀδέσποτα*
 
-**eul_aid:** `kjq` · [HTML page](https://eulogikon.org/en/epic-fragments-anonymous)
+**eul_aid:** `kjq` · [HTML page](https://eulogikon.org/authors/epic-work-anon-kjq)
 
 Anonymous fragments of Hellenistic Greek epic poetry in Homeric meter. Eighteen surviving works. Free to read and download from the Greek library archive.
 

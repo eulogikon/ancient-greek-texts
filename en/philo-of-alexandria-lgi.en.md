@@ -2,7 +2,7 @@
 name: Philo of Alexandria
 name_greek: Φίλων ὁ Ἀλεξανδρεύς
 eul_aid: lgi
-canonical: "https://eulogikon.org/en/philo-of-alexandria"
+canonical: "https://eulogikon.org/authors/philo-of-alexandria-lgi"
 period: Hellenistic
 dialect: Philosophical Koine
 affiliation: Jewish
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φίλων ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `lgi` · [HTML page](https://eulogikon.org/en/philo-of-alexandria)
+**eul_aid:** `lgi` · [HTML page](https://eulogikon.org/authors/philo-of-alexandria-lgi)
 
 Philo of Alexandria, Jewish philosopher and biblical commentator. Treatises on philosophy and scripture. Free to read and download from the Greek library.
 

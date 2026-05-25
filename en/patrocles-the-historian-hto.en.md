@@ -2,7 +2,7 @@
 name: Patrocles the Historian
 name_greek: Πάτροκλος ὁ ἱστορικός
 eul_aid: hto
-canonical: "https://eulogikon.org/en/patrocles-the-historian"
+canonical: "https://eulogikon.org/authors/patrocles-the-historian-hto"
 period: Hellenistic
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πάτροκλος ὁ ἱστορικός*
 
-**eul_aid:** `hto` · [HTML page](https://eulogikon.org/en/patrocles-the-historian)
+**eul_aid:** `hto` · [HTML page](https://eulogikon.org/authors/patrocles-the-historian-hto)
 
 Patrocles the Historian was a Hellenistic writer of the 4th century BCE. Historical fragments are preserved. Free to download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Menecrates of Syracuse
 name_greek: Μενεκράτης ὁ Συρακούσιος
 eul_aid: fws
-canonical: "https://eulogikon.org/en/menecrates-of-syracuse"
+canonical: "https://eulogikon.org/authors/menecrates-of-syracuse-fws"
 period: Classical
 dialect: Doric
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μενεκράτης ὁ Συρακούσιος*
 
-**eul_aid:** `fws` · [HTML page](https://eulogikon.org/en/menecrates-of-syracuse)
+**eul_aid:** `fws` · [HTML page](https://eulogikon.org/authors/menecrates-of-syracuse-fws)
 
 Menecrates of Syracuse, 4th century BCE physician to King Philip II. Medical treatises in Doric dialect. Free to download from the Greek library archive.
 

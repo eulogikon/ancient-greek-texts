@@ -2,7 +2,7 @@
 name: Melissa the Pythagorean
 name_greek: Μέλισσα
 eul_aid: jow
-canonical: "https://eulogikon.org/en/melissa-the-pythagorean"
+canonical: "https://eulogikon.org/authors/melissa-the-pythagorean-jow"
 period: Hellenistic
 dialect: Doric
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μέλισσα*
 
-**eul_aid:** `jow` · [HTML page](https://eulogikon.org/en/melissa-the-pythagorean)
+**eul_aid:** `jow` · [HTML page](https://eulogikon.org/authors/melissa-the-pythagorean-jow)
 
 Melissa, a Hellenistic Pythagorean philosopher of the 3rd century BCE. Her surviving work is a treatise. Free to download from the Greek library archive.
 

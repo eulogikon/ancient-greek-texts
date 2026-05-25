@@ -2,7 +2,7 @@
 name: Valerius Harpocration
 name_greek: Οὐαλέριος Ἁρποκρατίων
 eul_aid: pgo
-canonical: "https://eulogikon.org/en/valerius-harpocration"
+canonical: "https://eulogikon.org/authors/valerius-harpocration-pgo"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Οὐαλέριος Ἁρποκρατίων*
 
-**eul_aid:** `pgo` · [HTML page](https://eulogikon.org/en/valerius-harpocration)
+**eul_aid:** `pgo` · [HTML page](https://eulogikon.org/authors/valerius-harpocration-pgo)
 
 Valerius Harpocration, 2nd century CE Greek grammarian. His surviving lexicon of Attic orators. Free to read and download from the Greek library archive.
 

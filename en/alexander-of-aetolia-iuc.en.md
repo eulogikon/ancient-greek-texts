@@ -2,7 +2,7 @@
 name: Alexander of Aetolia
 name_greek: Ἀλέξανδρος ὁ Αἰτωλός
 eul_aid: iuc
-canonical: "https://eulogikon.org/en/alexander-of-aetolia"
+canonical: "https://eulogikon.org/authors/alexander-of-aetolia-iuc"
 period: Hellenistic
 dialect: Attic (frg)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀλέξανδρος ὁ Αἰτωλός*
 
-**eul_aid:** `iuc` · [HTML page](https://eulogikon.org/en/alexander-of-aetolia)
+**eul_aid:** `iuc` · [HTML page](https://eulogikon.org/authors/alexander-of-aetolia-iuc)
 
 Alexander of Aetolia, a Hellenistic poet of the 3rd century BCE. Surviving fragments of his verse. Free to read and download from the Greek library archive.
 

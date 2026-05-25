@@ -2,7 +2,7 @@
 name: Thrasyllus the Historian
 name_greek: Θράσυλλος ὁ Ἱστορικός
 eul_aid: egk
-canonical: "https://eulogikon.org/en/thrasyllus-the-historian"
+canonical: "https://eulogikon.org/authors/thrasyllus-the-historian-egk"
 period: Classical
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θράσυλλος ὁ Ἱστορικός*
 
-**eul_aid:** `egk` · [HTML page](https://eulogikon.org/en/thrasyllus-the-historian)
+**eul_aid:** `egk` · [HTML page](https://eulogikon.org/authors/thrasyllus-the-historian-egk)
 
 Thrasyllus the Historian, a 4th-3rd century BCE Greek historian. Historical fragments in Attic Greek prose. Free to read and download from the Greek archive.
 

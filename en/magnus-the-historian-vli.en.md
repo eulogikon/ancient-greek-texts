@@ -2,7 +2,7 @@
 name: Magnus the Historian
 name_greek: Μάγνος ὁ Ἱστορικός
 eul_aid: vli
-canonical: "https://eulogikon.org/en/magnus-the-historian"
+canonical: "https://eulogikon.org/authors/magnus-the-historian-vli"
 period: Late Antique
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μάγνος ὁ Ἱστορικός*
 
-**eul_aid:** `vli` · [HTML page](https://eulogikon.org/en/magnus-the-historian)
+**eul_aid:** `vli` · [HTML page](https://eulogikon.org/authors/magnus-the-historian-vli)
 
 Magnus the Historian, a 5th-6th century CE Greek historian. His surviving historical work is fragmentary. Free to download from the Greek library archive.
 

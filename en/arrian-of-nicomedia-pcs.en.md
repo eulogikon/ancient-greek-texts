@@ -2,7 +2,7 @@
 name: Arrian of Nicomedia
 name_greek: Ἀρριανός ὁ Νικομηδεύς
 eul_aid: pcs
-canonical: "https://eulogikon.org/en/arrian-of-nicomedia"
+canonical: "https://eulogikon.org/authors/arrian-of-nicomedia-pcs"
 period: Roman
 dialect: Atticizing
 affiliation: Stoic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρριανός ὁ Νικομηδεύς*
 
-**eul_aid:** `pcs` · [HTML page](https://eulogikon.org/en/arrian-of-nicomedia)
+**eul_aid:** `pcs` · [HTML page](https://eulogikon.org/authors/arrian-of-nicomedia-pcs)
 
 Arrian, a 2nd century CE Greek historian and Roman official. Historical and philosophical writings. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Agatharchides of Samos
 name_greek: Ἀγαθαρχίδης ὁ Σάμιος
 eul_aid: luy
-canonical: "https://eulogikon.org/en/agatharchides-of-samos"
+canonical: "https://eulogikon.org/authors/agatharchides-of-samos-luy"
 period: Hellenistic
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀγαθαρχίδης ὁ Σάμιος*
 
-**eul_aid:** `luy` · [HTML page](https://eulogikon.org/en/agatharchides-of-samos)
+**eul_aid:** `luy` · [HTML page](https://eulogikon.org/authors/agatharchides-of-samos-luy)
 
 Agatharchides of Samos, Hellenistic historian of the 2nd-1st century BCE. Fragments of his works. Free to read and download from the Greek library archive.
 

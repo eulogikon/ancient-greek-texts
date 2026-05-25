@@ -2,7 +2,7 @@
 name: Theocritus of Chios
 name_greek: Θεόκριτος ὁ Χῖος
 eul_aid: elk
-canonical: "https://eulogikon.org/en/theocritus-of-chios"
+canonical: "https://eulogikon.org/authors/theocritus-of-chios-elk"
 period: Classical
 dialect: Attic
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θεόκριτος ὁ Χῖος*
 
-**eul_aid:** `elk` · [HTML page](https://eulogikon.org/en/theocritus-of-chios)
+**eul_aid:** `elk` · [HTML page](https://eulogikon.org/authors/theocritus-of-chios-elk)
 
 Theocritus of Chios was a 4th century BCE orator. Two surviving orations are preserved. Free to read and download from the Greek library archive.
 

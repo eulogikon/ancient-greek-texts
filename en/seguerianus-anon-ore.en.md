@@ -2,7 +2,7 @@
 name: Seguerianus Anonymous
 name_greek: Ἀνώνυμος Σεγυεριανός
 eul_aid: ore
-canonical: "https://eulogikon.org/en/seguerianus-anon"
+canonical: "https://eulogikon.org/authors/seguerianus-anon-ore"
 period: Roman
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμος Σεγυεριανός*
 
-**eul_aid:** `ore` · [HTML page](https://eulogikon.org/en/seguerianus-anon)
+**eul_aid:** `ore` · [HTML page](https://eulogikon.org/authors/seguerianus-anon-ore)
 
 Anonymous Seguerianus, a Roman era orator of the 3rd century CE. Surviving oration on rhetoric. Free to read and download from the Greek library archive.
 

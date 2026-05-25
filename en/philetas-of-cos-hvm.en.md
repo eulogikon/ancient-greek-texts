@@ -2,7 +2,7 @@
 name: Philetas of Cos
 name_greek: Φιλίτας ὁ Κῷος
 eul_aid: hvm
-canonical: "https://eulogikon.org/en/philetas-of-cos"
+canonical: "https://eulogikon.org/authors/philetas-of-cos-hvm"
 period: Hellenistic
 dialect: Attic
 works_count: 4
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φιλίτας ὁ Κῷος*
 
-**eul_aid:** `hvm` · [HTML page](https://eulogikon.org/en/philetas-of-cos)
+**eul_aid:** `hvm` · [HTML page](https://eulogikon.org/authors/philetas-of-cos-hvm)
 
 Philetas of Cos, Hellenistic poet of the 4th to 3rd centuries BCE. Fragments of his elegiac poetry. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Hypereides the Orator
 name_greek: Ὑπερείδης ὁ ῥήτωρ
 eul_aid: fci
-canonical: "https://eulogikon.org/en/hypereides-the-orator"
+canonical: "https://eulogikon.org/authors/hypereides-the-orator-fci"
 period: Classical
 dialect: Attic
 works_count: 7
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ὑπερείδης ὁ ῥήτωρ*
 
-**eul_aid:** `fci` · [HTML page](https://eulogikon.org/en/hypereides-the-orator)
+**eul_aid:** `fci` · [HTML page](https://eulogikon.org/authors/hypereides-the-orator-fci)
 
 Hypereides, Athenian orator of the 4th century BCE. Seven of his orations survive as fragments. Free to read and download from the Greek library archive.
 

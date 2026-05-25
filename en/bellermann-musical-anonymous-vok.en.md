@@ -2,7 +2,7 @@
 name: Musical Work Bellermanniana Anonymous
 name_greek: Ἀνώνυμα περὶ Μουσικῆς Γραπτά Βελερμάννια
 eul_aid: vok
-canonical: "https://eulogikon.org/en/bellermann-musical-anonymous"
+canonical: "https://eulogikon.org/authors/musicbellermanniana-anon-vok"
 period: Late Antique
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμα περὶ Μουσικῆς Γραπτά Βελερμάννια*
 
-**eul_aid:** `vok` · [HTML page](https://eulogikon.org/en/bellermann-musical-anonymous)
+**eul_aid:** `vok` · [HTML page](https://eulogikon.org/authors/musicbellermanniana-anon-vok)
 
 Anonymous author of a late antique treatise on music from the 3rd to 6th century CE. One surviving work. Free to download from the Greek library archive.
 

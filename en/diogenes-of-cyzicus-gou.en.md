@@ -2,7 +2,7 @@
 name: Diogenes of Cyzicus
 name_greek: Διογένης ὁ Κυζικηνός
 eul_aid: gou
-canonical: "https://eulogikon.org/en/diogenes-of-cyzicus"
+canonical: "https://eulogikon.org/authors/diogenes-of-cyzicus-gou"
 period: Classical
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διογένης ὁ Κυζικηνός*
 
-**eul_aid:** `gou` · [HTML page](https://eulogikon.org/en/diogenes-of-cyzicus)
+**eul_aid:** `gou` · [HTML page](https://eulogikon.org/authors/diogenes-of-cyzicus-gou)
 
 Diogenes of Cyzicus was a 4th century BCE historian. His surviving works are preserved in fragments. Free to read and download from the Greek library archive.
 

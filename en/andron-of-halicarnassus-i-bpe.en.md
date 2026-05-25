@@ -2,7 +2,7 @@
 name: Andron of Halicarnassus I
 name_greek: Ἄνδρων ὁ Ἁλικαρνασσεύς
 eul_aid: bpe
-canonical: "https://eulogikon.org/en/andron-of-halicarnassus-i"
+canonical: "https://eulogikon.org/authors/andron-of-halicarnassus-bpe"
 period: Archaic
 dialect: Mixed Dialects (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἄνδρων ὁ Ἁλικαρνασσεύς*
 
-**eul_aid:** `bpe` · [HTML page](https://eulogikon.org/en/andron-of-halicarnassus-i)
+**eul_aid:** `bpe` · [HTML page](https://eulogikon.org/authors/andron-of-halicarnassus-bpe)
 
 Andron of Halicarnassus, a 4th century BCE historian. Surviving fragments of his historical work. Free to read and download from the Greek library archive.
 

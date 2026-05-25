@@ -2,7 +2,7 @@
 name: Lucius Licinius Lucullus
 name_greek: Λούκιος Λικίνιος Λουκούλλος
 eul_aid: mrg
-canonical: "https://eulogikon.org/en/lucius-licinius-lucullus"
+canonical: "https://eulogikon.org/authors/lucius-licinius-lucullus-mrg"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Λούκιος Λικίνιος Λουκούλλος*
 
-**eul_aid:** `mrg` · [HTML page](https://eulogikon.org/en/lucius-licinius-lucullus)
+**eul_aid:** `mrg` · [HTML page](https://eulogikon.org/authors/lucius-licinius-lucullus-mrg)
 
 Lucius Licinius Lucullus, Roman general and statesman. His historical work survives in fragments. Free to read and download from the Greek library archive.
 

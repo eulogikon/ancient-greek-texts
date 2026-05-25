@@ -2,7 +2,7 @@
 name: Theodosius of Bithynia
 name_greek: Θεοδόσιος ὁ Βιθυνικός
 eul_aid: lww
-canonical: "https://eulogikon.org/en/theodosius-of-bithynia"
+canonical: "https://eulogikon.org/authors/theodosius-of-bithynia-lww"
 period: Hellenistic
 dialect: Technical Koine
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θεοδόσιος ὁ Βιθυνικός*
 
-**eul_aid:** `lww` · [HTML page](https://eulogikon.org/en/theodosius-of-bithynia)
+**eul_aid:** `lww` · [HTML page](https://eulogikon.org/authors/theodosius-of-bithynia-lww)
 
 Theodosius of Bithynia, Hellenistic astronomer and mathematician. Works include spherical geometry. Free to read and download from the Greek library archive.
 

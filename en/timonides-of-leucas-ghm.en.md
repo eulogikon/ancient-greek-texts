@@ -2,7 +2,7 @@
 name: Timonides of Leucas
 name_greek: Τιμωνίδης ὁ Λευκάδιος
 eul_aid: ghm
-canonical: "https://eulogikon.org/en/timonides-of-leucas"
+canonical: "https://eulogikon.org/authors/timonides-of-leucas-ghm"
 period: Classical
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τιμωνίδης ὁ Λευκάδιος*
 
-**eul_aid:** `ghm` · [HTML page](https://eulogikon.org/en/timonides-of-leucas)
+**eul_aid:** `ghm` · [HTML page](https://eulogikon.org/authors/timonides-of-leucas-ghm)
 
 Timonides of Leucas was a 4th century BCE historian writing in Attic Greek. His surviving historical fragments preserved. Free to download from Greek archive.
 

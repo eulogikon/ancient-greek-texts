@@ -2,7 +2,7 @@
 name: Nonnosus the Historian
 name_greek: Νόννοσος ὁ Ἱστορικός
 eul_aid: vcw
-canonical: "https://eulogikon.org/en/nonnosus-the-historian"
+canonical: "https://eulogikon.org/authors/nonnosus-the-historian-vcw"
 period: Late Antique
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Νόννοσος ὁ Ἱστορικός*
 
-**eul_aid:** `vcw` · [HTML page](https://eulogikon.org/en/nonnosus-the-historian)
+**eul_aid:** `vcw` · [HTML page](https://eulogikon.org/authors/nonnosus-the-historian-vcw)
 
 Nonnosus the Historian, a 6th century CE Byzantine historian. Surviving historical works from Late Antiquity. Free to download from the Greek library archive.
 

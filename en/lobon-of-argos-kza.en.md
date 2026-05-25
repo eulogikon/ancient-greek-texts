@@ -2,7 +2,7 @@
 name: Lobon of Argos
 name_greek: Λόβων ὁ Ἀργεῖος
 eul_aid: kza
-canonical: "https://eulogikon.org/en/lobon-of-argos"
+canonical: "https://eulogikon.org/authors/lobon-of-argos-kza"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Λόβων ὁ Ἀργεῖος*
 
-**eul_aid:** `kza` · [HTML page](https://eulogikon.org/en/lobon-of-argos)
+**eul_aid:** `kza` · [HTML page](https://eulogikon.org/authors/lobon-of-argos-kza)
 
 Lobon of Argos was a Hellenistic poet of the 3rd century BCE. Surviving works include fragmentary verse. Free to download from the Greek library archive.
 

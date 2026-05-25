@@ -2,7 +2,7 @@
 name: Ptolemy the Gnostic
 name_greek: Πτολεμαῖος ὁ Γνωστικός
 eul_aid: ppa
-canonical: "https://eulogikon.org/en/ptolemy-the-gnostic"
+canonical: "https://eulogikon.org/authors/ptolemy-the-gnostic-ppa"
 period: Roman
 dialect: Christian Koine
 affiliation: Gnostic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πτολεμαῖος ὁ Γνωστικός*
 
-**eul_aid:** `ppa` · [HTML page](https://eulogikon.org/en/ptolemy-the-gnostic)
+**eul_aid:** `ppa` · [HTML page](https://eulogikon.org/authors/ptolemy-the-gnostic-ppa)
 
 Ptolemy the Gnostic was a second century Valentinian theologian. His surviving work is the Epistle to Flora. Free to download from the Greek library archive.
 

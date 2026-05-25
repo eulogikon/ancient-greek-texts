@@ -2,7 +2,7 @@
 name: Anacreontea
 name_greek: Ἀνακρεόντεια
 eul_aid: nfc
-canonical: "https://eulogikon.org/en/anacreontea"
+canonical: "https://eulogikon.org/authors/anacreontea-nfc"
 period: Hellenistic
 dialect: Mixed Dialects
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνακρεόντεια*
 
-**eul_aid:** `nfc` · [HTML page](https://eulogikon.org/en/anacreontea)
+**eul_aid:** `nfc` · [HTML page](https://eulogikon.org/authors/anacreontea-nfc)
 
 The Anacreontea is a Hellenistic collection of lyric poems. This anthology contains sixty short works. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Aristodemus of Nyssa
 name_greek: Ἀριστόδημος ὁ Νυσσαῖος
 eul_aid: mik
-canonical: "https://eulogikon.org/en/aristodemus-of-nyssa"
+canonical: "https://eulogikon.org/authors/aristodemus-of-nyssa-mik"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀριστόδημος ὁ Νυσσαῖος*
 
-**eul_aid:** `mik` · [HTML page](https://eulogikon.org/en/aristodemus-of-nyssa)
+**eul_aid:** `mik` · [HTML page](https://eulogikon.org/authors/aristodemus-of-nyssa-mik)
 
 Aristodemus of Nyssa, a 1st century BCE Hellenistic historian. Works preserved in fragments. Free to read and download from the Greek library archive.
 

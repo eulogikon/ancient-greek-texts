@@ -2,7 +2,7 @@
 name: Lollianus the Erotic Writer
 name_greek: Λολλιανός
 eul_aid: qek
-canonical: "https://eulogikon.org/en/lollianus-the-erotic-writer"
+canonical: "https://eulogikon.org/authors/lollianus-the-erotic-writer-qek"
 period: Roman
 dialect: Koine
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Λολλιανός*
 
-**eul_aid:** `qek` · [HTML page](https://eulogikon.org/en/lollianus-the-erotic-writer)
+**eul_aid:** `qek` · [HTML page](https://eulogikon.org/authors/lollianus-the-erotic-writer-qek)
 
 Lollianus, Greek author of prose fiction from the Roman Empire. Three surviving erotic fiction works. Free to read and download from the Greek library archive.
 

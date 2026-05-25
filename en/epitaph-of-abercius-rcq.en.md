@@ -2,7 +2,7 @@
 name: Epitaph of Abercius
 name_greek: Ἐπιτάφιον τοῦ Ἀβερκίου
 eul_aid: rcq
-canonical: "https://eulogikon.org/en/epitaph-of-abercius"
+canonical: "https://eulogikon.org/authors/epitaph-of-abercius-rcq"
 period: Roman
 dialect: Christian Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἐπιτάφιον τοῦ Ἀβερκίου*
 
-**eul_aid:** `rcq` · [HTML page](https://eulogikon.org/en/epitaph-of-abercius)
+**eul_aid:** `rcq` · [HTML page](https://eulogikon.org/authors/epitaph-of-abercius-rcq)
 
 Abercius, a 2nd century Christian bishop known for his poetic epitaph. Free to read and download from the Eulogikon Greek text library and archive.
 

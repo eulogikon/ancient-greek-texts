@@ -2,7 +2,7 @@
 name: Xenarchus the Comic Poet
 name_greek: Ξέναρχος ὁ κωμικός
 eul_aid: lli
-canonical: "https://eulogikon.org/en/xenarchus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/xenarchus-the-comic-poet-lli"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ξέναρχος ὁ κωμικός*
 
-**eul_aid:** `lli` · [HTML page](https://eulogikon.org/en/xenarchus-the-comic-poet)
+**eul_aid:** `lli` · [HTML page](https://eulogikon.org/authors/xenarchus-the-comic-poet-lli)
 
 Xenarchus, a 4th century BCE comic poet and son of Sophron. Surviving fragments from his comedies. Free to read and download from the Greek library archive.
 

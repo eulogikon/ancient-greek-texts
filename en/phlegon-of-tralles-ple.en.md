@@ -2,7 +2,7 @@
 name: Phlegon of Tralles
 name_greek: Φλέγων ὁ Τραλλιανός
 eul_aid: ple
-canonical: "https://eulogikon.org/en/phlegon-of-tralles"
+canonical: "https://eulogikon.org/authors/phlegon-of-tralles-ple"
 period: Roman
 dialect: Koine
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φλέγων ὁ Τραλλιανός*
 
-**eul_aid:** `ple` · [HTML page](https://eulogikon.org/en/phlegon-of-tralles)
+**eul_aid:** `ple` · [HTML page](https://eulogikon.org/authors/phlegon-of-tralles-ple)
 
 Phlegon of Tralles, 2nd century CE Roman historian. Surviving fragments of his historical works. Free to read and download from the Greek library archive.
 

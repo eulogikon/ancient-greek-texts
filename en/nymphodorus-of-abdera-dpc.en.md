@@ -2,7 +2,7 @@
 name: Nymphodorus of Abdera
 name_greek: Νυμφόδωρος ὁ Ἀβδηρίτης
 eul_aid: dpc
-canonical: "https://eulogikon.org/en/nymphodorus-of-abdera"
+canonical: "https://eulogikon.org/authors/nymphodorus-of-abdera-dpc"
 period: Classical
 dialect: Ionic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Νυμφόδωρος ὁ Ἀβδηρίτης*
 
-**eul_aid:** `dpc` · [HTML page](https://eulogikon.org/en/nymphodorus-of-abdera)
+**eul_aid:** `dpc` · [HTML page](https://eulogikon.org/authors/nymphodorus-of-abdera-dpc)
 
 Nymphodorus of Abdera, a 5th century BCE historian writing in Ionic. Surviving fragments of his works. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Antiphon of Rhamnus
 name_greek: Ἀντιφῶν ὁ Ῥαμνούσιος
 eul_aid: dbg
-canonical: "https://eulogikon.org/en/antiphon-of-rhamnus"
+canonical: "https://eulogikon.org/authors/antiphon-of-rhamnus-dbg"
 period: Classical
 dialect: Attic
 affiliation: Sophist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀντιφῶν ὁ Ῥαμνούσιος*
 
-**eul_aid:** `dbg` · [HTML page](https://eulogikon.org/en/antiphon-of-rhamnus)
+**eul_aid:** `dbg` · [HTML page](https://eulogikon.org/authors/antiphon-of-rhamnus-dbg)
 
 Antiphon of Rhamnus, Athenian orator and sophist. Forensic speeches and philosophical fragments. Free to read and download from the Greek library archive.
 

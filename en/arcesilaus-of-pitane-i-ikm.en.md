@@ -2,7 +2,7 @@
 name: Arcesilaus of Pitane I
 name_greek: Ἀρκεσίλαος ὁ Πιτανεύς
 eul_aid: ikm
-canonical: "https://eulogikon.org/en/arcesilaus-of-pitane-i"
+canonical: "https://eulogikon.org/authors/arcesilaus-of-pitane-ikm"
 period: Hellenistic
 dialect: Koine
 affiliation: Academic Skeptic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρκεσίλαος ὁ Πιτανεύς*
 
-**eul_aid:** `ikm` · [HTML page](https://eulogikon.org/en/arcesilaus-of-pitane-i)
+**eul_aid:** `ikm` · [HTML page](https://eulogikon.org/authors/arcesilaus-of-pitane-ikm)
 
 Arcesilaus of Pitane, Hellenistic philosopher and founder of Academic Skepticism. Epistles and fragments. Free to download from the Greek library archive.
 

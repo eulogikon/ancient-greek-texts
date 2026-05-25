@@ -2,7 +2,7 @@
 name: Tyrannion the Younger
 name_greek: Τυραννίων ὁ Νεώτερος
 eul_aid: nfw
-canonical: "https://eulogikon.org/en/tyrannion-the-younger"
+canonical: "https://eulogikon.org/authors/tyrannion-the-younger-nfw"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τυραννίων ὁ Νεώτερος*
 
-**eul_aid:** `nfw` · [HTML page](https://eulogikon.org/en/tyrannion-the-younger)
+**eul_aid:** `nfw` · [HTML page](https://eulogikon.org/authors/tyrannion-the-younger-nfw)
 
 Tyrannion the Younger was a Hellenistic grammarian in Rome. His surviving grammatical work is here. Free to read and download from the Greek library archive.
 

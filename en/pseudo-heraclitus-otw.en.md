@@ -2,7 +2,7 @@
 name: Pseudo-Heraclitus
 name_greek: Ψευδο-Ἡράκλειτος (Ἐπιστολαί)
 eul_aid: otw
-canonical: "https://eulogikon.org/en/pseudo-heraclitus"
+canonical: "https://eulogikon.org/authors/ps-heraclitus-otw"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ψευδο-Ἡράκλειτος (Ἐπιστολαί)*
 
-**eul_aid:** `otw` · [HTML page](https://eulogikon.org/en/pseudo-heraclitus)
+**eul_aid:** `otw` · [HTML page](https://eulogikon.org/authors/ps-heraclitus-otw)
 
 Pseudo-Heraclitus, a Roman era epistolographer. Pseudepigraphical epistles in Koine Greek. Free to read and download from the Greek library archive.
 

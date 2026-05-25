@@ -2,7 +2,7 @@
 name: Tryphon the Grammarian
 name_greek: Τρύφων ὁ γραμματικός ὁ νεώτερος
 eul_aid: ncu
-canonical: "https://eulogikon.org/en/tryphon-the-grammarian"
+canonical: "https://eulogikon.org/authors/tryphon-the-grammarian-ncu"
 period: Hellenistic
 dialect: Koine
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τρύφων ὁ γραμματικός ὁ νεώτερος*
 
-**eul_aid:** `ncu` · [HTML page](https://eulogikon.org/en/tryphon-the-grammarian)
+**eul_aid:** `ncu` · [HTML page](https://eulogikon.org/authors/tryphon-the-grammarian-ncu)
 
 Tryphon the Grammarian was a Hellenistic scholar. Three grammatical treatises are preserved. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Maximus of Tyre
 name_greek: Μάξιμος ὁ Τύριος
 eul_aid: pgy
-canonical: "https://eulogikon.org/en/maximus-of-tyre"
+canonical: "https://eulogikon.org/authors/maximus-of-tyre-pgy"
 period: Roman
 dialect: Atticizing
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μάξιμος ὁ Τύριος*
 
-**eul_aid:** `pgy` · [HTML page](https://eulogikon.org/en/maximus-of-tyre)
+**eul_aid:** `pgy` · [HTML page](https://eulogikon.org/authors/maximus-of-tyre-pgy)
 
 Maximus of Tyre, a 2nd century CE Greek philosopher. His surviving works explore philosophical themes. Free to read and download from the Greek library archive.
 

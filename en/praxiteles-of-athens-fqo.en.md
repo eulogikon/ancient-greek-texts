@@ -2,7 +2,7 @@
 name: Praxiteles of Athens
 name_greek: Πραξιτέλης ὁ Ἀθηναῖος
 eul_aid: fqo
-canonical: "https://eulogikon.org/en/praxiteles-of-athens"
+canonical: "https://eulogikon.org/authors/praxiteles-of-athens-fqo"
 period: Classical
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πραξιτέλης ὁ Ἀθηναῖος*
 
-**eul_aid:** `fqo` · [HTML page](https://eulogikon.org/en/praxiteles-of-athens)
+**eul_aid:** `fqo` · [HTML page](https://eulogikon.org/authors/praxiteles-of-athens-fqo)
 
 Praxiteles of Athens was a classical Attic poet of the 4th century BCE. Surviving works include his poetic fragments. Free to download from the Greek archive.
 

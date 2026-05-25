@@ -2,7 +2,7 @@
 name: Eugenius the Alchemist
 name_greek: Εὐγένιος ὁ Χημικός
 eul_aid: rsa
-canonical: "https://eulogikon.org/en/eugenius-the-alchemist"
+canonical: "https://eulogikon.org/authors/eugenius-the-alchemist-rsa"
 period: Roman
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Εὐγένιος ὁ Χημικός*
 
-**eul_aid:** `rsa` · [HTML page](https://eulogikon.org/en/eugenius-the-alchemist)
+**eul_aid:** `rsa` · [HTML page](https://eulogikon.org/authors/eugenius-the-alchemist-rsa)
 
 Eugenius the Alchemist, a Roman era Greco-Egyptian alchemist. Explore his surviving treatise on practical techniques. Free to download from the Greek archive.
 

@@ -2,7 +2,7 @@
 name: Xenagoras the Historian
 name_greek: Ξεναγόρας ὁ Ἱστορικός
 eul_aid: mhg
-canonical: "https://eulogikon.org/en/xenagoras-the-historian"
+canonical: "https://eulogikon.org/authors/xenagoras-the-historian-mhg"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ξεναγόρας ὁ Ἱστορικός*
 
-**eul_aid:** `mhg` · [HTML page](https://eulogikon.org/en/xenagoras-the-historian)
+**eul_aid:** `mhg` · [HTML page](https://eulogikon.org/authors/xenagoras-the-historian-mhg)
 
 Xenagoras the Historian, Hellenistic geographer of the 2nd century BCE. Geographical fragments. Free to read and download from the Greek library archive.
 

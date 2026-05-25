@@ -2,7 +2,7 @@
 name: Antimachus of Colophon
 name_greek: Ἀντίμαχος ὁ Κολοφώνιος
 eul_aid: ehe
-canonical: "https://eulogikon.org/en/antimachus-of-colophon"
+canonical: "https://eulogikon.org/authors/antimachus-of-colophon-ehe"
 period: Classical
 dialect: Epic (Homeric) (frg)
 works_count: 4
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀντίμαχος ὁ Κολοφώνιος*
 
-**eul_aid:** `ehe` · [HTML page](https://eulogikon.org/en/antimachus-of-colophon)
+**eul_aid:** `ehe` · [HTML page](https://eulogikon.org/authors/antimachus-of-colophon-ehe)
 
 Antimachus of Colophon, a 5th century BCE Greek poet. Read surviving fragments of his epic works. Free to read and download from the Greek library archive.
 

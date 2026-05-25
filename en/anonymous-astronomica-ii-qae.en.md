@@ -2,7 +2,7 @@
 name: Astronomical Work Anonymous II
 name_greek: Ἀστρονομικὸν σύνταγμα ἀνώνυμον
 eul_aid: qae
-canonical: "https://eulogikon.org/en/anonymous-astronomica-ii"
+canonical: "https://eulogikon.org/authors/astronomical-work-anon-qae"
 period: Roman
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀστρονομικὸν σύνταγμα ἀνώνυμον*
 
-**eul_aid:** `qae` · [HTML page](https://eulogikon.org/en/anonymous-astronomica-ii)
+**eul_aid:** `qae` · [HTML page](https://eulogikon.org/authors/astronomical-work-anon-qae)
 
 Anonymous astronomical author from the Roman era. Surviving technical treatise on celestial phenomena. Free to read and download from the Greek library archive.
 

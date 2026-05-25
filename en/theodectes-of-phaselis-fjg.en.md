@@ -2,7 +2,7 @@
 name: Theodectes of Phaselis
 name_greek: Θεοδέκτης ὁ Φασήλιτος
 eul_aid: fjg
-canonical: "https://eulogikon.org/en/theodectes-of-phaselis"
+canonical: "https://eulogikon.org/authors/theodectes-of-phaselis-fjg"
 period: Classical
 dialect: Attic Drama
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θεοδέκτης ὁ Φασήλιτος*
 
-**eul_aid:** `fjg` · [HTML page](https://eulogikon.org/en/theodectes-of-phaselis)
+**eul_aid:** `fjg` · [HTML page](https://eulogikon.org/authors/theodectes-of-phaselis-fjg)
 
 Theodectes of Phaselis, a 4th century BCE Attic tragic poet. Surviving works include fragments. Free to read and download from the Greek library archive.
 

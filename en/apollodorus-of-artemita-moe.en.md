@@ -2,7 +2,7 @@
 name: Apollodorus of Artemita
 name_greek: Ἀπολλόδωρος ὁ Ἀρτεμιτηνός
 eul_aid: moe
-canonical: "https://eulogikon.org/en/apollodorus-of-artemita"
+canonical: "https://eulogikon.org/authors/apollodorus-of-artemita-moe"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀπολλόδωρος ὁ Ἀρτεμιτηνός*
 
-**eul_aid:** `moe` · [HTML page](https://eulogikon.org/en/apollodorus-of-artemita)
+**eul_aid:** `moe` · [HTML page](https://eulogikon.org/authors/apollodorus-of-artemita-moe)
 
 Apollodorus of Artemita, a Hellenistic historian of the 1st century BCE. Fragments on Parthian history. Free to download from the Greek library archive.
 

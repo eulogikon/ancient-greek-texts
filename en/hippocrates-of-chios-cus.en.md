@@ -2,7 +2,7 @@
 name: Hippocrates of Chios
 name_greek: Ἱπποκράτης ὁ Χῖος
 eul_aid: cus
-canonical: "https://eulogikon.org/en/hippocrates-of-chios"
+canonical: "https://eulogikon.org/authors/hippocrates-of-chios-cus"
 period: Classical
 dialect: Ionic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἱπποκράτης ὁ Χῖος*
 
-**eul_aid:** `cus` · [HTML page](https://eulogikon.org/en/hippocrates-of-chios)
+**eul_aid:** `cus` · [HTML page](https://eulogikon.org/authors/hippocrates-of-chios-cus)
 
 Hippocrates of Chios, a 5th century BCE mathematician. Surviving mathematical works from the Classical era. Free to read and download from the Greek archive.
 

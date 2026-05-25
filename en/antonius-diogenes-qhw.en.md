@@ -2,7 +2,7 @@
 name: Antonius Diogenes the Erotic Writer
 name_greek: Ἀντώνιος Διογένης
 eul_aid: qhw
-canonical: "https://eulogikon.org/en/antonius-diogenes"
+canonical: "https://eulogikon.org/authors/antonius-diogenes-qhw"
 period: Roman
 dialect: Koine
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀντώνιος Διογένης*
 
-**eul_aid:** `qhw` · [HTML page](https://eulogikon.org/en/antonius-diogenes)
+**eul_aid:** `qhw` · [HTML page](https://eulogikon.org/authors/antonius-diogenes-qhw)
 
 Antonius Diogenes, Roman era writer of erotic fiction. Three surviving works of prose fiction. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Ptolemy of Megalopolis
 name_greek: Πτολεμαῖος ὁ Μεγαλοπολίτης
 eul_aid: kri
-canonical: "https://eulogikon.org/en/ptolemy-of-megalopolis"
+canonical: "https://eulogikon.org/authors/ptolemy-of-megalopolis-kri"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πτολεμαῖος ὁ Μεγαλοπολίτης*
 
-**eul_aid:** `kri` · [HTML page](https://eulogikon.org/en/ptolemy-of-megalopolis)
+**eul_aid:** `kri` · [HTML page](https://eulogikon.org/authors/ptolemy-of-megalopolis-kri)
 
 Ptolemy of Megalopolis, a Hellenistic historian of the 3rd–2nd century BCE. Historical fragments in Koine Greek. Free to download from the Greek archive.
 

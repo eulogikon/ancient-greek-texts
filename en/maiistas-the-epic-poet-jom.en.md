@@ -2,7 +2,7 @@
 name: Maiistas the Epic Poet
 name_greek: Μαϊΐστας ὁ ἐποποιός
 eul_aid: jom
-canonical: "https://eulogikon.org/en/maiistas-the-epic-poet"
+canonical: "https://eulogikon.org/authors/maiistas-the-epic-poet-jom"
 period: Hellenistic
 dialect: Epic (Homeric)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μαϊΐστας ὁ ἐποποιός*
 
-**eul_aid:** `jom` · [HTML page](https://eulogikon.org/en/maiistas-the-epic-poet)
+**eul_aid:** `jom` · [HTML page](https://eulogikon.org/authors/maiistas-the-epic-poet-jom)
 
 Maiistas was a Hellenistic epic poet of the 3rd to 2nd century BCE. Surviving works include epic verse. Free to read and download from the Greek archive.
 

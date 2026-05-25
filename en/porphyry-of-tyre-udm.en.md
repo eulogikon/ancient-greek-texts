@@ -2,7 +2,7 @@
 name: Porphyry of Tyre
 name_greek: Πορφύριος ὁ Τύριος
 eul_aid: udm
-canonical: "https://eulogikon.org/en/porphyry-of-tyre"
+canonical: "https://eulogikon.org/authors/porphyry-of-tyre-udm"
 period: Late Antique
 dialect: Philosophical Koine
 affiliation: Neoplatonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πορφύριος ὁ Τύριος*
 
-**eul_aid:** `udm` · [HTML page](https://eulogikon.org/en/porphyry-of-tyre)
+**eul_aid:** `udm` · [HTML page](https://eulogikon.org/authors/porphyry-of-tyre-udm)
 
 Porphyry of Tyre was a major Neoplatonic philosopher of the late Roman Empire. Twenty seven treatises. Free to read and download from the Greek library archive.
 

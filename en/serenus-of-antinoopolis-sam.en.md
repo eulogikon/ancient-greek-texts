@@ -2,7 +2,7 @@
 name: Serenus of Antinoöpolis
 name_greek: Σερῆνος ὁ Ἀντινόου
 eul_aid: sam
-canonical: "https://eulogikon.org/en/serenus-of-antinoopolis"
+canonical: "https://eulogikon.org/authors/serenus-of-antinoöpolis-sam"
 period: Late Antique
 dialect: Technical Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σερῆνος ὁ Ἀντινόου*
 
-**eul_aid:** `sam` · [HTML page](https://eulogikon.org/en/serenus-of-antinoopolis)
+**eul_aid:** `sam` · [HTML page](https://eulogikon.org/authors/serenus-of-antinoöpolis-sam)
 
 Serenus of Antinoöpolis, 4th century CE mathematician from Roman Egypt. Two works on conic sections. Free to read and download from the Greek library archive.
 

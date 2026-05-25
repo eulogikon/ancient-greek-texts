@@ -2,7 +2,7 @@
 name: Nostoi Anonymous
 name_greek: Ἄγνωστος Νόστοι
 eul_aid: axm
-canonical: "https://eulogikon.org/en/nostoi-anon"
+canonical: "https://eulogikon.org/authors/nostoi-anon-axm"
 period: Archaic
 dialect: Epic (Homeric)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἄγνωστος Νόστοι*
 
-**eul_aid:** `axm` · [HTML page](https://eulogikon.org/en/nostoi-anon)
+**eul_aid:** `axm` · [HTML page](https://eulogikon.org/authors/nostoi-anon-axm)
 
 Anonymous poet of the lost epic Nostoi from the Archaic period. Surviving fragments of the Returns. Free to read and download from the Greek library archive.
 

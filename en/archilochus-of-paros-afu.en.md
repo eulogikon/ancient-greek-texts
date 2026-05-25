@@ -2,7 +2,7 @@
 name: Archilochus of Paros
 name_greek: Ἀρχίλοχος ὁ Πάριος
 eul_aid: afu
-canonical: "https://eulogikon.org/en/archilochus-of-paros"
+canonical: "https://eulogikon.org/authors/archilochus-of-paros-afu"
 period: Archaic
 dialect: "Ionic (ia, frg)"
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρχίλοχος ὁ Πάριος*
 
-**eul_aid:** `afu` · [HTML page](https://eulogikon.org/en/archilochus-of-paros)
+**eul_aid:** `afu` · [HTML page](https://eulogikon.org/authors/archilochus-of-paros-afu)
 
 Archilochus of Paros, 7th century BCE iambic poet. Surviving fragments of his influential Ionic verse. Free to read and download from the Greek library archive.
 

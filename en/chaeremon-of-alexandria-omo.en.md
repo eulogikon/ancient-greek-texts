@@ -2,7 +2,7 @@
 name: Chaeremon of Alexandria
 name_greek: Χαιρήμων ὁ Ἀλεξανδρεύς
 eul_aid: omo
-canonical: "https://eulogikon.org/en/chaeremon-of-alexandria"
+canonical: "https://eulogikon.org/authors/chaeremon-of-alexandria-omo"
 period: Roman
 dialect: Koine
 affiliation: Stoic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Χαιρήμων ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `omo` · [HTML page](https://eulogikon.org/en/chaeremon-of-alexandria)
+**eul_aid:** `omo` · [HTML page](https://eulogikon.org/authors/chaeremon-of-alexandria-omo)
 
 Chaeremon of Alexandria was a first century Stoic philosopher. Surviving works include his treatises. Free to read and download from the Greek library archive.
 

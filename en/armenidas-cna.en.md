@@ -2,7 +2,7 @@
 name: Armenidas
 name_greek: Ἀρμενίδας
 eul_aid: cna
-canonical: "https://eulogikon.org/en/armenidas"
+canonical: "https://eulogikon.org/authors/armenidas-cna"
 period: Classical
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρμενίδας*
 
-**eul_aid:** `cna` · [HTML page](https://eulogikon.org/en/armenidas)
+**eul_aid:** `cna` · [HTML page](https://eulogikon.org/authors/armenidas-cna)
 
 Armenidas, a 4th century BCE Attic historian. Surviving fragments of his historical works. Free to read and download from the Greek library archive.
 

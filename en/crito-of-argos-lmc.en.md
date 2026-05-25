@@ -2,7 +2,7 @@
 name: Crito of Argos
 name_greek: Κρίτων ὁ Ἀργεῖος
 eul_aid: lmc
-canonical: "https://eulogikon.org/en/crito-of-argos"
+canonical: "https://eulogikon.org/authors/crito-of-argos-lmc"
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κρίτων ὁ Ἀργεῖος*
 
-**eul_aid:** `lmc` · [HTML page](https://eulogikon.org/en/crito-of-argos)
+**eul_aid:** `lmc` · [HTML page](https://eulogikon.org/authors/crito-of-argos-lmc)
 
 Crito of Argos, a 3rd century BCE Hellenistic philosopher. Surviving fragments of his treatise. Free to read and download from the Greek library archive.
 

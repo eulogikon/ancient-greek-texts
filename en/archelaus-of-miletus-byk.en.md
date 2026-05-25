@@ -2,7 +2,7 @@
 name: Archelaus of Miletus
 name_greek: Ἀρχέλαος ὁ Μιλήσιος ὁ Ἀθηναῖος
 eul_aid: byk
-canonical: "https://eulogikon.org/en/archelaus-of-miletus"
+canonical: "https://eulogikon.org/authors/archelaus-of-miletus-byk"
 period: Classical
 dialect: Ionic
 affiliation: Presocratic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρχέλαος ὁ Μιλήσιος ὁ Ἀθηναῖος*
 
-**eul_aid:** `byk` · [HTML page](https://eulogikon.org/en/archelaus-of-miletus)
+**eul_aid:** `byk` · [HTML page](https://eulogikon.org/authors/archelaus-of-miletus-byk)
 
 Archelaus, a 5th century BCE Ionic Presocratic philosopher. Two surviving verse works are preserved. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Didymus Chalcenterus
 name_greek: Δίδυμος ὁ Χαλκέντερος
 eul_aid: nam
-canonical: "https://eulogikon.org/en/didymus-chalcenterus"
+canonical: "https://eulogikon.org/authors/didymus-chalcenterus-nam"
 period: Hellenistic
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δίδυμος ὁ Χαλκέντερος*
 
-**eul_aid:** `nam` · [HTML page](https://eulogikon.org/en/didymus-chalcenterus)
+**eul_aid:** `nam` · [HTML page](https://eulogikon.org/authors/didymus-chalcenterus-nam)
 
 Didymus Chalcenterus, Alexandrian grammarian of the late Hellenistic period. Grammatical treatises. Free to read and download from the Greek library archive.
 

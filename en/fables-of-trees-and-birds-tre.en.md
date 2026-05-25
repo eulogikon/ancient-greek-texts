@@ -2,7 +2,7 @@
 name: Fables of Trees and Birds
 name_greek: Περὶ Δένδρων καὶ Ὀρνίθων Μῦθοι (Ἀνώνυμος)
 eul_aid: tre
-canonical: "https://eulogikon.org/en/fables-of-trees-and-birds"
+canonical: "https://eulogikon.org/authors/fables-of-trees-and-birds-tre"
 period: Late Antique
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Περὶ Δένδρων καὶ Ὀρνίθων Μῦθοι (Ἀνώνυμος)*
 
-**eul_aid:** `tre` · [HTML page](https://eulogikon.org/en/fables-of-trees-and-birds)
+**eul_aid:** `tre` · [HTML page](https://eulogikon.org/authors/fables-of-trees-and-birds-tre)
 
 Anonymous Late Antique poet of the 3rd to 5th century CE. Verse fables about trees and birds. Free to read and download from the Greek library archive.
 

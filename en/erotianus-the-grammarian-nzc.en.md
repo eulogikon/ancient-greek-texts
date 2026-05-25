@@ -2,7 +2,7 @@
 name: Erotianus the Grammarian
 name_greek: Ἐρωτιανός
 eul_aid: nzc
-canonical: "https://eulogikon.org/en/erotianus-the-grammarian"
+canonical: "https://eulogikon.org/authors/erotianus-the-grammarian-nzc"
 period: Roman
 dialect: Technical Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἐρωτιανός*
 
-**eul_aid:** `nzc` · [HTML page](https://eulogikon.org/en/erotianus-the-grammarian)
+**eul_aid:** `nzc` · [HTML page](https://eulogikon.org/authors/erotianus-the-grammarian-nzc)
 
 Erotianus, a 1st century CE grammarian of ancient medical vocabulary. Works on Hippocratic terms. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Voyage Round the Euxine Sea
 name_greek: Ὁ Περίπλους τοῦ Εὐξείνου Πόντου (ἀνώνυμος)
 eul_aid: ojm
-canonical: "https://eulogikon.org/en/periplus-of-the-euxine-sea-anonymous"
+canonical: "https://eulogikon.org/authors/voyage-round-the-euxine-sea-ojm"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ὁ Περίπλους τοῦ Εὐξείνου Πόντου (ἀνώνυμος)*
 
-**eul_aid:** `ojm` · [HTML page](https://eulogikon.org/en/periplus-of-the-euxine-sea-anonymous)
+**eul_aid:** `ojm` · [HTML page](https://eulogikon.org/authors/voyage-round-the-euxine-sea-ojm)
 
 Anonymous author of a 1st century BCE periplus of the Black Sea. A detailed coastal navigation guide. Free to read and download from the Greek library archive.
 

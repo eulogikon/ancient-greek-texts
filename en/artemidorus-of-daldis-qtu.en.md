@@ -2,7 +2,7 @@
 name: Artemidorus of Daldis
 name_greek: Ἀρτεμίδωρος ὁ Δαλδιανός
 eul_aid: qtu
-canonical: "https://eulogikon.org/en/artemidorus-of-daldis"
+canonical: "https://eulogikon.org/authors/artemidorus-of-daldis-qtu"
 period: Roman
 dialect: Atticizing Technical
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρτεμίδωρος ὁ Δαλδιανός*
 
-**eul_aid:** `qtu` · [HTML page](https://eulogikon.org/en/artemidorus-of-daldis)
+**eul_aid:** `qtu` · [HTML page](https://eulogikon.org/authors/artemidorus-of-daldis-qtu)
 
 Artemidorus of Daldis, a 2nd century CE author. Surviving works include the Oneirocritica on dreams. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Epigoni
 name_greek: Ἐπίγονοι
 eul_aid: abo
-canonical: "https://eulogikon.org/en/epigoni"
+canonical: "https://eulogikon.org/authors/epigoni-abo"
 period: Archaic
 dialect: Epic (Homeric)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἐπίγονοι*
 
-**eul_aid:** `abo` · [HTML page](https://eulogikon.org/en/epigoni)
+**eul_aid:** `abo` · [HTML page](https://eulogikon.org/authors/epigoni-abo)
 
 Epigoni, an Archaic period epic poet. Read surviving fragments of this lost Epic Cycle poem. Free to read and download from the Greek library archive.
 

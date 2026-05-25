@@ -2,7 +2,7 @@
 name: Hexameter Papyri Anonymous
 name_greek: Ἀδέσποτα Παπυράκεα Ἑξάμετρα
 eul_aid: jni
-canonical: "https://eulogikon.org/en/hexameter-papyri-anonymous"
+canonical: "https://eulogikon.org/authors/hexameter-papyri-anon-jni"
 period: Hellenistic
 dialect: Epic (Homeric) (frg)
 works_count: 4
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀδέσποτα Παπυράκεα Ἑξάμετρα*
 
-**eul_aid:** `jni` · [HTML page](https://eulogikon.org/en/hexameter-papyri-anonymous)
+**eul_aid:** `jni` · [HTML page](https://eulogikon.org/authors/hexameter-papyri-anon-jni)
 
 Anonymous hexameter papyri fragments from the Hellenistic era. Four works in Homeric epic dialect. Free to read and download from the Greek library archive.
 

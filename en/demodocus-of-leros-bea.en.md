@@ -2,7 +2,7 @@
 name: Demodocus of Leros
 name_greek: Δημόδοκος ὁ Λέριος
 eul_aid: bea
-canonical: "https://eulogikon.org/en/demodocus-of-leros"
+canonical: "https://eulogikon.org/authors/demodocus-of-leros-bea"
 period: Archaic
 dialect: Ionic Elegiac
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δημόδοκος ὁ Λέριος*
 
-**eul_aid:** `bea` · [HTML page](https://eulogikon.org/en/demodocus-of-leros)
+**eul_aid:** `bea` · [HTML page](https://eulogikon.org/authors/demodocus-of-leros-bea)
 
 Demodocus of Leros, 6th century BCE Ionic elegiac poet. Two surviving poetic fragments from the Archaic period. Free to download from the Greek library archive.
 

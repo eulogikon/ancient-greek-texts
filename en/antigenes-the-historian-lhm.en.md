@@ -2,7 +2,7 @@
 name: Antigenes the Historian
 name_greek: Ἀντιγένης
 eul_aid: lhm
-canonical: "https://eulogikon.org/en/antigenes-the-historian"
+canonical: "https://eulogikon.org/authors/antigenes-the-historian-lhm"
 period: Hellenistic
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀντιγένης*
 
-**eul_aid:** `lhm` · [HTML page](https://eulogikon.org/en/antigenes-the-historian)
+**eul_aid:** `lhm` · [HTML page](https://eulogikon.org/authors/antigenes-the-historian-lhm)
 
 Antigenes the Historian, a 4th century BCE Hellenistic historian. Surviving fragments of his works. Free to read and download from the Greek library archive.
 

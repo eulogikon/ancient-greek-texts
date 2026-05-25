@@ -2,7 +2,7 @@
 name: Eudoxus of Cnidus
 name_greek: Εὔδοξος ὁ Κνίδιος
 eul_aid: feq
-canonical: "https://eulogikon.org/en/eudoxus-cnidus"
+canonical: "https://eulogikon.org/authors/eudoxus-cnidus-feq"
 period: Classical
 dialect: Attic (frg)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Εὔδοξος ὁ Κνίδιος*
 
-**eul_aid:** `feq` · [HTML page](https://eulogikon.org/en/eudoxus-cnidus)
+**eul_aid:** `feq` · [HTML page](https://eulogikon.org/authors/eudoxus-cnidus-feq)
 
 Eudoxus of Cnidus, a classical Greek mathematician and astronomer. Surviving works include his treatises. Free to read and download from the Greek archive.
 

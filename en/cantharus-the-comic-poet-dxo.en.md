@@ -2,7 +2,7 @@
 name: Cantharus the Comic Poet
 name_greek: Κάνθαρος ὁ Κωμικός
 eul_aid: dxo
-canonical: "https://eulogikon.org/en/cantharus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/cantharus-the-comic-poet-dxo"
 period: Classical
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κάνθαρος ὁ Κωμικός*
 
-**eul_aid:** `dxo` · [HTML page](https://eulogikon.org/en/cantharus-the-comic-poet)
+**eul_aid:** `dxo` · [HTML page](https://eulogikon.org/authors/cantharus-the-comic-poet-dxo)
 
 Cantharus was an Athenian comic poet of 5th century BCE Old Comedy. Two fragmentary works survive. Free to read and download from the Greek library archive.
 

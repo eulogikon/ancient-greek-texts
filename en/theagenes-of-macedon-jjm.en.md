@@ -2,7 +2,7 @@
 name: Theagenes of Macedon
 name_greek: Θεαγένης ὁ Μακεδών
 eul_aid: jjm
-canonical: "https://eulogikon.org/en/theagenes-of-macedon"
+canonical: "https://eulogikon.org/authors/theagenes-of-macedon-jjm"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θεαγένης ὁ Μακεδών*
 
-**eul_aid:** `jjm` · [HTML page](https://eulogikon.org/en/theagenes-of-macedon)
+**eul_aid:** `jjm` · [HTML page](https://eulogikon.org/authors/theagenes-of-macedon-jjm)
 
 Theagenes of Macedon, a Hellenistic historian of the 3rd century BCE. Read his surviving works. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Magnes Comicus
 name_greek: Μάγνης ὁ κωμικός
 eul_aid: cxa
-canonical: "https://eulogikon.org/en/magnes-the-comic-poet"
+canonical: "https://eulogikon.org/authors/magnes-comicus-cxa"
 period: Classical
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μάγνης ὁ κωμικός*
 
-**eul_aid:** `cxa` · [HTML page](https://eulogikon.org/en/magnes-the-comic-poet)
+**eul_aid:** `cxa` · [HTML page](https://eulogikon.org/authors/magnes-comicus-cxa)
 
 Magnes was an Athenian comic poet of early Old Comedy. Two fragmentary works survive from this period. Free to read and download from the Greek library archive.
 

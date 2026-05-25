@@ -2,7 +2,7 @@
 name: Menander of Athens
 name_greek: Μένανδρος ὁ Ἀθηναῖος
 eul_aid: hps
-canonical: "https://eulogikon.org/en/menander-of-athens"
+canonical: "https://eulogikon.org/authors/menander-of-athens-hps"
 period: Hellenistic
 dialect: Attic Comedy
 works_count: 43
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μένανδρος ὁ Ἀθηναῖος*
 
-**eul_aid:** `hps` · [HTML page](https://eulogikon.org/en/menander-of-athens)
+**eul_aid:** `hps` · [HTML page](https://eulogikon.org/authors/menander-of-athens-hps)
 
 Menander, Athenian comic playwright of the Hellenistic period. Surviving comedies and fragments. Free to read and download from the Greek library archive.
 

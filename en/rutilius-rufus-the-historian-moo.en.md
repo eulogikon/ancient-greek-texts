@@ -2,7 +2,7 @@
 name: Rutilius Rufus the Historian
 name_greek: Ῥούφιος ὁ Ῥουτίλιος
 eul_aid: moo
-canonical: "https://eulogikon.org/en/rutilius-rufus-the-historian"
+canonical: "https://eulogikon.org/authors/rutilius-rufus-the-historian-moo"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ῥούφιος ὁ Ῥουτίλιος*
 
-**eul_aid:** `moo` · [HTML page](https://eulogikon.org/en/rutilius-rufus-the-historian)
+**eul_aid:** `moo` · [HTML page](https://eulogikon.org/authors/rutilius-rufus-the-historian-moo)
 
 Rutilius Rufus, a Hellenistic historian of the 2nd-1st centuries BCE. Surviving historical works. Free to read and download from the Greek library archive.
 

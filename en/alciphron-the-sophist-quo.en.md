@@ -2,7 +2,7 @@
 name: Alciphron the Sophist
 name_greek: Ἀλκίφρων ὁ Σοφιστής
 eul_aid: quo
-canonical: "https://eulogikon.org/en/alciphron-the-sophist"
+canonical: "https://eulogikon.org/authors/alciphron-the-sophist-quo"
 period: Roman
 dialect: Attic
 affiliation: Sophist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀλκίφρων ὁ Σοφιστής*
 
-**eul_aid:** `quo` · [HTML page](https://eulogikon.org/en/alciphron-the-sophist)
+**eul_aid:** `quo` · [HTML page](https://eulogikon.org/authors/alciphron-the-sophist-quo)
 
 Alciphron was a Greek sophist and epistolographer. His surviving works are fictional letters. Free to read and download from the Greek library archive.
 

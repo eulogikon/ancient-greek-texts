@@ -2,7 +2,7 @@
 name: Hadrian of Tyre the Sophist
 name_greek: Ἁδριανὸς ὁ Τύριος
 eul_aid: ras
-canonical: "https://eulogikon.org/en/hadrian-of-tyre"
+canonical: "https://eulogikon.org/authors/hadrian-of-tyre-the-sophist-ras"
 period: Roman
 dialect: Atticizing
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἁδριανὸς ὁ Τύριος*
 
-**eul_aid:** `ras` · [HTML page](https://eulogikon.org/en/hadrian-of-tyre)
+**eul_aid:** `ras` · [HTML page](https://eulogikon.org/authors/hadrian-of-tyre-the-sophist-ras)
 
 Hadrian of Tyre was a 2nd century CE Greek orator. His oration represents the Second Sophistic. Free to read and download from the Greek library archive.
 

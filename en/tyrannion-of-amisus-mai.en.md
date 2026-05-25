@@ -2,7 +2,7 @@
 name: Tyrannion of Amisus
 name_greek: Τυραννίων ὁ Ἀμισηνός
 eul_aid: mai
-canonical: "https://eulogikon.org/en/tyrannion-of-amisus"
+canonical: "https://eulogikon.org/authors/tyrannion-of-amisus-mai"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τυραννίων ὁ Ἀμισηνός*
 
-**eul_aid:** `mai` · [HTML page](https://eulogikon.org/en/tyrannion-of-amisus)
+**eul_aid:** `mai` · [HTML page](https://eulogikon.org/authors/tyrannion-of-amisus-mai)
 
 Tyrannion of Amisus was a 1st century BCE Hellenistic grammarian. Surviving grammatical treatises. Free to read and download from the Greek library archive.
 

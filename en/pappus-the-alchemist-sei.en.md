@@ -2,7 +2,7 @@
 name: Pappus the Alchemist
 name_greek: Πάππος ὁ Ἀλχημιστής
 eul_aid: sei
-canonical: "https://eulogikon.org/en/pappus-the-alchemist"
+canonical: "https://eulogikon.org/authors/pappus-the-alchemist-sei"
 period: Late Antique
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πάππος ὁ Ἀλχημιστής*
 
-**eul_aid:** `sei` · [HTML page](https://eulogikon.org/en/pappus-the-alchemist)
+**eul_aid:** `sei` · [HTML page](https://eulogikon.org/authors/pappus-the-alchemist-sei)
 
 Pappus the Alchemist, a late antique Greco-Egyptian alchemical writer. His treatise explores technical processes. Free to download from the Greek archive.
 

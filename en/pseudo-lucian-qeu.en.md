@@ -2,7 +2,7 @@
 name: Pseudo-Lucian
 name_greek: Ψευδο-Λουκιανός
 eul_aid: qeu
-canonical: "https://eulogikon.org/en/pseudo-lucian"
+canonical: "https://eulogikon.org/authors/ps-lucian-qeu"
 period: Roman
 dialect: Atticizing
 works_count: 10
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ψευδο-Λουκιανός*
 
-**eul_aid:** `qeu` · [HTML page](https://eulogikon.org/en/pseudo-lucian)
+**eul_aid:** `qeu` · [HTML page](https://eulogikon.org/authors/ps-lucian-qeu)
 
 Pseudo-Lucian, an Atticizing orator of the Roman period. Ten surviving orations by this author. Free to read and download from the Greek library archive.
 

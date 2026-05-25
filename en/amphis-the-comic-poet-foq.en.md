@@ -2,7 +2,7 @@
 name: Amphis Comicus
 name_greek: Ἄμφις ὁ Κωμικός
 eul_aid: foq
-canonical: "https://eulogikon.org/en/amphis-the-comic-poet"
+canonical: "https://eulogikon.org/authors/amphis-comicus-foq"
 period: Classical
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἄμφις ὁ Κωμικός*
 
-**eul_aid:** `foq` · [HTML page](https://eulogikon.org/en/amphis-the-comic-poet)
+**eul_aid:** `foq` · [HTML page](https://eulogikon.org/authors/amphis-comicus-foq)
 
 Amphis Comicus, a 4th century BCE Athenian comic poet. Surviving fragments from his comedies. Free to read and download from the Greek library archive.
 

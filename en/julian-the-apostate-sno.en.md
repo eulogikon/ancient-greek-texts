@@ -2,7 +2,7 @@
 name: Julian the Apostate
 name_greek: Ἰουλιανὸς ὁ Ἀποστάτης
 eul_aid: sno
-canonical: "https://eulogikon.org/en/julian-the-apostate"
+canonical: "https://eulogikon.org/authors/julian-the-apostate-sno"
 period: Late Antique
 dialect: Atticizing
 affiliation: Neoplatonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἰουλιανὸς ὁ Ἀποστάτης*
 
-**eul_aid:** `sno` · [HTML page](https://eulogikon.org/en/julian-the-apostate)
+**eul_aid:** `sno` · [HTML page](https://eulogikon.org/authors/julian-the-apostate-sno)
 
 Julian the Apostate, Roman Emperor and Neoplatonist. Surviving works include treatises and letters. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Hermarchus of Mytilene
 name_greek: Ἕρμαρχος ὁ Μυτιληναῖος
 eul_aid: jbk
-canonical: "https://eulogikon.org/en/hermarchus-of-mytilene"
+canonical: "https://eulogikon.org/authors/hermarchus-of-mytilene-jbk"
 period: Hellenistic
 dialect: Philosophical Koine
 affiliation: Epicurean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἕρμαρχος ὁ Μυτιληναῖος*
 
-**eul_aid:** `jbk` · [HTML page](https://eulogikon.org/en/hermarchus-of-mytilene)
+**eul_aid:** `jbk` · [HTML page](https://eulogikon.org/authors/hermarchus-of-mytilene-jbk)
 
 Hermarchus, Epicurean philosopher from Mytilene. Surviving philosophical treatises from the 4th-3rd centuries BCE. Free to download from the Greek library.
 

@@ -2,7 +2,7 @@
 name: Sallustius the Philosopher
 name_greek: Σαλούστιος ὁ φιλόσοφος
 eul_aid: sny
-canonical: "https://eulogikon.org/en/sallustius-the-philosopher"
+canonical: "https://eulogikon.org/authors/sallustius-the-philosopher-sny"
 period: Late Antique
 dialect: Koine
 affiliation: Neoplatonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σαλούστιος ὁ φιλόσοφος*
 
-**eul_aid:** `sny` · [HTML page](https://eulogikon.org/en/sallustius-the-philosopher)
+**eul_aid:** `sny` · [HTML page](https://eulogikon.org/authors/sallustius-the-philosopher-sny)
 
 Sallustius, a 4th century Neoplatonic philosopher. His treatise On the Gods and the World. Free to read and download from the Greek library archive.
 

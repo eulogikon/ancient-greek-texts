@@ -2,7 +2,7 @@
 name: Athenaeus the Mechanicus
 name_greek: Ἀθήναιος ὁ Μηχανικός
 eul_aid: nha
-canonical: "https://eulogikon.org/en/athenaeus-the-mechanicus"
+canonical: "https://eulogikon.org/authors/athenaeus-the-mechanicus-nha"
 period: Hellenistic
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀθήναιος ὁ Μηχανικός*
 
-**eul_aid:** `nha` · [HTML page](https://eulogikon.org/en/athenaeus-the-mechanicus)
+**eul_aid:** `nha` · [HTML page](https://eulogikon.org/authors/athenaeus-the-mechanicus-nha)
 
 Athenaeus the Mechanicus, a Hellenistic writer of the 1st century BCE. Treatise on military mechanics. Free to read and download from the Greek library archive.
 

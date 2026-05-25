@@ -2,7 +2,7 @@
 name: Aristarchus of Samos
 name_greek: Ἀρίσταρχος ὁ Σάμιος
 eul_aid: hzi
-canonical: "https://eulogikon.org/en/aristarchus-of-samos"
+canonical: "https://eulogikon.org/authors/aristarchus-of-samos-hzi"
 period: Hellenistic
 dialect: Ionic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρίσταρχος ὁ Σάμιος*
 
-**eul_aid:** `hzi` · [HTML page](https://eulogikon.org/en/aristarchus-of-samos)
+**eul_aid:** `hzi` · [HTML page](https://eulogikon.org/authors/aristarchus-of-samos-hzi)
 
 Aristarchus of Samos, Hellenistic astronomer of the 3rd century BCE. Author of the treatise On the Sizes. Free to read and download from the Greek archive.
 

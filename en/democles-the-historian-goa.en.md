@@ -2,7 +2,7 @@
 name: Democles the Historian
 name_greek: Δημοκλῆς ὁ ἱστορικός
 eul_aid: goa
-canonical: "https://eulogikon.org/en/democles-the-historian"
+canonical: "https://eulogikon.org/authors/democles-the-historian-goa"
 period: Classical
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δημοκλῆς ὁ ἱστορικός*
 
-**eul_aid:** `goa` · [HTML page](https://eulogikon.org/en/democles-the-historian)
+**eul_aid:** `goa` · [HTML page](https://eulogikon.org/authors/democles-the-historian-goa)
 
 Democles the Historian, a 4th century BCE Attic historian. Surviving works include historical fragments. Free to download from the Greek library archive.
 

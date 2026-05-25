@@ -2,7 +2,7 @@
 name: Thucydides Scholia
 name_greek: Θουκυδίδου Σχόλια
 eul_aid: tii
-canonical: "https://eulogikon.org/en/thucydides-scholia"
+canonical: "https://eulogikon.org/authors/thucydides-scholia-tii"
 period: Late Antique
 dialect: Byzantine Technical
 works_count: 7
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θουκυδίδου Σχόλια*
 
-**eul_aid:** `tii` · [HTML page](https://eulogikon.org/en/thucydides-scholia)
+**eul_aid:** `tii` · [HTML page](https://eulogikon.org/authors/thucydides-scholia-tii)
 
 The Thucydides Scholia are Byzantine grammatical annotations illuminating the text of Thucydides. Free to read and download from the Greek library archive.
 

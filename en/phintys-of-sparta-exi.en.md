@@ -2,7 +2,7 @@
 name: Phintys of Sparta
 name_greek: Φίντυς ἡ Σπαρτιᾶτις
 eul_aid: exi
-canonical: "https://eulogikon.org/en/phintys-of-sparta"
+canonical: "https://eulogikon.org/authors/phintys-of-sparta-exi"
 period: Classical
 dialect: "Doric (phi, frg)"
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φίντυς ἡ Σπαρτιᾶτις*
 
-**eul_aid:** `exi` · [HTML page](https://eulogikon.org/en/phintys-of-sparta)
+**eul_aid:** `exi` · [HTML page](https://eulogikon.org/authors/phintys-of-sparta-exi)
 
 Phintys was a Spartan Pythagorean philosopher of the 4th century BCE. Her treatise explores philosophical themes. Free to download from the Greek archive.
 

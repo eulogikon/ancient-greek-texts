@@ -2,7 +2,7 @@
 name: Aristonicus of Alexandria
 name_greek: Ἀριστόνικος ὁ Ἀλεξανδρεύς
 eul_aid: mia
-canonical: "https://eulogikon.org/en/aristonicus-of-alexandria"
+canonical: "https://eulogikon.org/authors/aristonicus-of-alexandria-mia"
 period: Hellenistic
 dialect: Technical Koine
 works_count: 4
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀριστόνικος ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `mia` · [HTML page](https://eulogikon.org/en/aristonicus-of-alexandria)
+**eul_aid:** `mia` · [HTML page](https://eulogikon.org/authors/aristonicus-of-alexandria-mia)
 
 Aristonicus of Alexandria, Hellenistic grammarian and scholar. Surviving works on Homeric criticism. Free to read and download from the Greek library archive.
 

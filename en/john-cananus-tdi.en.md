@@ -2,7 +2,7 @@
 name: John Cananus
 name_greek: Ἰωάννης ὁ Κανᾶνος
 eul_aid: tdi
-canonical: "https://eulogikon.org/en/john-cananus"
+canonical: "https://eulogikon.org/authors/john-cananus-tdi"
 period: Late Antique
 dialect: Byzantine Greek
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἰωάννης ὁ Κανᾶνος*
 
-**eul_aid:** `tdi` · [HTML page](https://eulogikon.org/en/john-cananus)
+**eul_aid:** `tdi` · [HTML page](https://eulogikon.org/authors/john-cananus-tdi)
 
 John Cananus, 15th century Byzantine historian. His work details the Ottoman siege of Constantinople. Free to read and download from the Greek library archive.
 

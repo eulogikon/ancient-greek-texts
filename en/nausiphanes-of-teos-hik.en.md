@@ -2,7 +2,7 @@
 name: Nausiphanes of Teos
 name_greek: Ναυσιφάνης ὁ Τήιος
 eul_aid: hik
-canonical: "https://eulogikon.org/en/nausiphanes-of-teos"
+canonical: "https://eulogikon.org/authors/nausiphanes-of-teos-hik"
 period: Classical
 dialect: Attic Philosophical
 affiliation: Democritean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ναυσιφάνης ὁ Τήιος*
 
-**eul_aid:** `hik` · [HTML page](https://eulogikon.org/en/nausiphanes-of-teos)
+**eul_aid:** `hik` · [HTML page](https://eulogikon.org/authors/nausiphanes-of-teos-hik)
 
 Nausiphanes of Teos was a 4th century BCE Democritean atomist. Two surviving works are available. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Paradoxographer Anonymous
 name_greek: Ἀνώνυμοι Παραδοξογράφοι
 eul_aid: jre
-canonical: "https://eulogikon.org/en/paradoxographer-anon"
+canonical: "https://eulogikon.org/authors/paradoxographer-anon-jre"
 period: Hellenistic
 dialect: Koine
 works_count: 7
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμοι Παραδοξογράφοι*
 
-**eul_aid:** `jre` · [HTML page](https://eulogikon.org/en/paradoxographer-anon)
+**eul_aid:** `jre` · [HTML page](https://eulogikon.org/authors/paradoxographer-anon-jre)
 
 Paradoxographer Anonymous, Hellenistic author of paradoxographical works. Seven texts of curiosities and marvels. Free to download from the Greek archive.
 

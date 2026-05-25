@@ -2,7 +2,7 @@
 name: Deimachus of Plataea II
 name_greek: Δηΐμαχος ὁ Πλαταιεύς
 eul_aid: ikc
-canonical: "https://eulogikon.org/en/deimachus-of-plataea-ii"
+canonical: "https://eulogikon.org/authors/deimachus-of-plataea-ikc"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δηΐμαχος ὁ Πλαταιεύς*
 
-**eul_aid:** `ikc` · [HTML page](https://eulogikon.org/en/deimachus-of-plataea-ii)
+**eul_aid:** `ikc` · [HTML page](https://eulogikon.org/authors/deimachus-of-plataea-ikc)
 
 Deimachus of Plataea, a Hellenistic historian of the 3rd century BCE. Historical fragments are preserved. Free to download from the Greek library archive.
 

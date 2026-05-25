@@ -2,7 +2,7 @@
 name: Antiphon the Sophist of Athens
 name_greek: Ἀντιφῶν ὁ Ἀθηναῖος (ὁ Σοφιστής)
 eul_aid: brc
-canonical: "https://eulogikon.org/en/antiphon-the-sophist"
+canonical: "https://eulogikon.org/authors/antiphon-the-sophist-of-athens-brc"
 period: Classical
 dialect: Attic
 affiliation: Sophist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀντιφῶν ὁ Ἀθηναῖος (ὁ Σοφιστής)*
 
-**eul_aid:** `brc` · [HTML page](https://eulogikon.org/en/antiphon-the-sophist)
+**eul_aid:** `brc` · [HTML page](https://eulogikon.org/authors/antiphon-the-sophist-of-athens-brc)
 
 Antiphon the Sophist, a classical Athenian intellectual. Surviving works include four major texts. Free to read and download from the Greek library archive.
 

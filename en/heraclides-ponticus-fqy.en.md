@@ -2,7 +2,7 @@
 name: Heraclides Ponticus
 name_greek: Ἡρακλείδης ὁ Ποντικός
 eul_aid: fqy
-canonical: "https://eulogikon.org/en/heraclides-ponticus"
+canonical: "https://eulogikon.org/authors/heraclides-ponticus-4-fqy"
 period: Classical
 dialect: Attic
 works_count: 2
@@ -13,14 +13,14 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡρακλείδης ὁ Ποντικός*
 
-**eul_aid:** `fqy` · [HTML page](https://eulogikon.org/en/heraclides-ponticus)
+**eul_aid:** `fqy` · [HTML page](https://eulogikon.org/authors/heraclides-ponticus-4-fqy)
 
 Heraclides Ponticus, a 4th century BCE Attic comedy poet. Surviving works include fragments of his verse. Free to download from the Greek library archive.
 
 ## Works
 
-- [On the Rooster of Philip](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-ponticus-rooster-philip-ab-fqy-ab.grc.md) — *Ἀπόσπασμα* · `fqy-ab`
 - [On the Rooster of Philip](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-ponticus-rooster-philip-aa-fqy-aa.grc.md) — *Ἀπόσπασμα* · `fqy-aa`
+- [On the Rooster of Philip](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-ponticus-rooster-philip-ab-fqy-ab.grc.md) — *Ἀπόσπασμα* · `fqy-ab`
 
 ## License and provenance
 

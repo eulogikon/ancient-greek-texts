@@ -2,7 +2,7 @@
 name: Herodorus of Heraclea
 name_greek: Ἡρόδωρος ὁ Ἡρακλεώτης
 eul_aid: evk
-canonical: "https://eulogikon.org/en/herodorus-of-heraclea"
+canonical: "https://eulogikon.org/authors/herodorus-of-heraclea-evk"
 period: Classical
 dialect: Ionic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡρόδωρος ὁ Ἡρακλεώτης*
 
-**eul_aid:** `evk` · [HTML page](https://eulogikon.org/en/herodorus-of-heraclea)
+**eul_aid:** `evk` · [HTML page](https://eulogikon.org/authors/herodorus-of-heraclea-evk)
 
 Herodorus of Heraclea was a classical historian writing in Ionic Greek. His surviving historical fragments are preserved. Free to download from Greek archive.
 

@@ -2,7 +2,7 @@
 name: Bion of Proconnesus
 name_greek: Βίων ὁ Προκοννήσιος
 eul_aid: bao
-canonical: "https://eulogikon.org/en/bion-of-proconnesus"
+canonical: "https://eulogikon.org/authors/bion-of-proconnesus-bao"
 period: Archaic
 dialect: Ionic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Βίων ὁ Προκοννήσιος*
 
-**eul_aid:** `bao` · [HTML page](https://eulogikon.org/en/bion-of-proconnesus)
+**eul_aid:** `bao` · [HTML page](https://eulogikon.org/authors/bion-of-proconnesus-bao)
 
 Bion of Proconnesus, a 6th century BCE Ionic historian. His surviving historical works are preserved. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Xenocles the Elder of Athens
 name_greek: Ξενοκλῆς ὁ πρεσβύτερος Ἀθηναῖος
 eul_aid: eba
-canonical: "https://eulogikon.org/en/xenocles-the-elder-of-athens"
+canonical: "https://eulogikon.org/authors/xenocles-the-elder-of-athens-eba"
 period: Classical
 dialect: Attic Drama
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ξενοκλῆς ὁ πρεσβύτερος Ἀθηναῖος*
 
-**eul_aid:** `eba` · [HTML page](https://eulogikon.org/en/xenocles-the-elder-of-athens)
+**eul_aid:** `eba` · [HTML page](https://eulogikon.org/authors/xenocles-the-elder-of-athens-eba)
 
 Xenocles the Elder was a 5th century BCE Athenian dramatist. Surviving works include play fragments. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Homer
 name_greek: Ὅμηρος
 eul_aid: abe
-canonical: "https://eulogikon.org/en/homer"
+canonical: "https://eulogikon.org/authors/homer-abe"
 period: Archaic
 dialect: Epic (Homeric)
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ὅμηρος*
 
-**eul_aid:** `abe` · [HTML page](https://eulogikon.org/en/homer)
+**eul_aid:** `abe` · [HTML page](https://eulogikon.org/authors/homer-abe)
 
 Homer, the traditional name for the poet of the foundational Greek epics the Iliad and the Odyssey. Free to read and download from the Greek library archive.
 

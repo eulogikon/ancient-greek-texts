@@ -2,7 +2,7 @@
 name: Nicocrates the Historian
 name_greek: Νικοκράτης ὁ ἱστορικός
 eul_aid: kim
-canonical: "https://eulogikon.org/en/nicocrates-the-historian"
+canonical: "https://eulogikon.org/authors/nicocrates-the-historian-kim"
 period: Hellenistic
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Νικοκράτης ὁ ἱστορικός*
 
-**eul_aid:** `kim` · [HTML page](https://eulogikon.org/en/nicocrates-the-historian)
+**eul_aid:** `kim` · [HTML page](https://eulogikon.org/authors/nicocrates-the-historian-kim)
 
 Nicocrates the Historian, a Hellenistic historian of the 4th-3rd century BCE. Surviving works in fragments. Free to read and download from the Greek archive.
 

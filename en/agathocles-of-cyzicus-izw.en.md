@@ -2,7 +2,7 @@
 name: Agathocles of Cyzicus
 name_greek: Ἀγαθοκλῆς ὁ Κυζικηνός
 eul_aid: izw
-canonical: "https://eulogikon.org/en/agathocles-of-cyzicus"
+canonical: "https://eulogikon.org/authors/agathocles-of-cyzicus-izw"
 period: Hellenistic
 dialect: Ionic (frg)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀγαθοκλῆς ὁ Κυζικηνός*
 
-**eul_aid:** `izw` · [HTML page](https://eulogikon.org/en/agathocles-of-cyzicus)
+**eul_aid:** `izw` · [HTML page](https://eulogikon.org/authors/agathocles-of-cyzicus-izw)
 
 Agathocles of Cyzicus was a Hellenistic historian. Two fragmentary historical works survive. Free to read and download from the Greek library archive.
 

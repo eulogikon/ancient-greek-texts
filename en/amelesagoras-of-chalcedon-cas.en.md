@@ -2,7 +2,7 @@
 name: Amelesagoras of Chalcedon
 name_greek: Ἀμελησαγόρας
 eul_aid: cas
-canonical: "https://eulogikon.org/en/amelesagoras-of-chalcedon"
+canonical: "https://eulogikon.org/authors/amelesagoras-of-chalcedon-cas"
 period: Classical
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀμελησαγόρας*
 
-**eul_aid:** `cas` · [HTML page](https://eulogikon.org/en/amelesagoras-of-chalcedon)
+**eul_aid:** `cas` · [HTML page](https://eulogikon.org/authors/amelesagoras-of-chalcedon-cas)
 
 Amelesagoras of Chalcedon was a 5th century BCE historian writing in Attic Greek. Historical fragments. Free to download from the Greek library archive.
 

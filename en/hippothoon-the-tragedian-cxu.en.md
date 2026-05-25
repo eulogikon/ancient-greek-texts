@@ -2,7 +2,7 @@
 name: Hippothoon the Tragedian
 name_greek: Ἱπποθόων ὁ τραγικός
 eul_aid: cxu
-canonical: "https://eulogikon.org/en/hippothoon-the-tragedian"
+canonical: "https://eulogikon.org/authors/hippothoon-the-tragedian-cxu"
 period: Classical
 dialect: Attic Drama
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἱπποθόων ὁ τραγικός*
 
-**eul_aid:** `cxu` · [HTML page](https://eulogikon.org/en/hippothoon-the-tragedian)
+**eul_aid:** `cxu` · [HTML page](https://eulogikon.org/authors/hippothoon-the-tragedian-cxu)
 
 Hippothoon the Tragedian, a 5th century BCE Attic dramatist. Surviving works from classical Greek theater. Free to read and download from the Greek library.
 

@@ -2,7 +2,7 @@
 name: Arius Didymus of Alexandria
 name_greek: Ἄρειος Δίδυμος
 eul_aid: nac
-canonical: "https://eulogikon.org/en/arius-didymus-of-alexandria"
+canonical: "https://eulogikon.org/authors/arius-didymus-of-alexandria-nac"
 period: Hellenistic
 dialect: Philosophical Koine
 affiliation: Stoic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἄρειος Δίδυμος*
 
-**eul_aid:** `nac` · [HTML page](https://eulogikon.org/en/arius-didymus-of-alexandria)
+**eul_aid:** `nac` · [HTML page](https://eulogikon.org/authors/arius-didymus-of-alexandria-nac)
 
 Arius Didymus, Stoic philosopher and advisor to Emperor Augustus. Two surviving philosophical works. Free to read and download from the Greek library archive.
 

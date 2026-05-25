@@ -2,7 +2,7 @@
 name: Iophon the Tragedian
 name_greek: Ἰοφῶν ὁ τραγῳδιοποιός
 eul_aid: dvg
-canonical: "https://eulogikon.org/en/iophon-the-tragedian"
+canonical: "https://eulogikon.org/authors/iophon-the-tragedian-dvg"
 period: Classical
 dialect: Attic Drama
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἰοφῶν ὁ τραγῳδιοποιός*
 
-**eul_aid:** `dvg` · [HTML page](https://eulogikon.org/en/iophon-the-tragedian)
+**eul_aid:** `dvg` · [HTML page](https://eulogikon.org/authors/iophon-the-tragedian-dvg)
 
 Iophon, 5th century BCE Athenian tragedian and son of Sophocles. Surviving fragments of his dramatic works. Free to download from the Greek library archive.
 

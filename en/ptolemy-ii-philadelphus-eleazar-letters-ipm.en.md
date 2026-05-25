@@ -2,7 +2,7 @@
 name: Ptolemy II Philadelphus Eleazar Letters
 name_greek: Πτολεμαίου τοῦ Φιλαδελφεῖ καὶ Ἐλεαζάρου τοῦ ἀρχιερέως Ἐπιστολαί
 eul_aid: ipm
-canonical: "https://eulogikon.org/en/ptolemy-ii-philadelphus-eleazar-letters"
+canonical: "https://eulogikon.org/authors/ptolemy-ii-philadelphusletters-ipm"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πτολεμαίου τοῦ Φιλαδελφεῖ καὶ Ἐλεαζάρου τοῦ ἀρχιερέως Ἐπιστολαί*
 
-**eul_aid:** `ipm` · [HTML page](https://eulogikon.org/en/ptolemy-ii-philadelphus-eleazar-letters)
+**eul_aid:** `ipm` · [HTML page](https://eulogikon.org/authors/ptolemy-ii-philadelphusletters-ipm)
 
 Letters between Ptolemy II Philadelphus and Eleazar the High Priest from the 3rd century BCE. Free to read and download from the Greek library archive.
 

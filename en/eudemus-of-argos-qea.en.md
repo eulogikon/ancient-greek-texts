@@ -2,7 +2,7 @@
 name: Eudemus of Argos
 name_greek: Εὔδημος ὁ Ἀργεῖος
 eul_aid: qea
-canonical: "https://eulogikon.org/en/eudemus-of-argos"
+canonical: "https://eulogikon.org/authors/eudemus-of-argos-qea"
 period: Roman
 dialect: Atticizing Technical
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Εὔδημος ὁ Ἀργεῖος*
 
-**eul_aid:** `qea` · [HTML page](https://eulogikon.org/en/eudemus-of-argos)
+**eul_aid:** `qea` · [HTML page](https://eulogikon.org/authors/eudemus-of-argos-qea)
 
 Eudemus of Argos was a 2nd century CE orator writing in Atticizing style. Read his surviving oration. Free to read and download from the Greek library archive.
 

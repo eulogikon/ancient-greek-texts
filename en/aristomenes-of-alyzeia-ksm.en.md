@@ -2,7 +2,7 @@
 name: Aristomenes of Alyzeia
 name_greek: Ἀριστομένης Ἀλυζιεύς
 eul_aid: ksm
-canonical: "https://eulogikon.org/en/aristomenes-of-alyzeia"
+canonical: "https://eulogikon.org/authors/aristomenes-of-alyzeia-ksm"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀριστομένης Ἀλυζιεύς*
 
-**eul_aid:** `ksm` · [HTML page](https://eulogikon.org/en/aristomenes-of-alyzeia)
+**eul_aid:** `ksm` · [HTML page](https://eulogikon.org/authors/aristomenes-of-alyzeia-ksm)
 
 Aristomenes of Alyzeia was a Hellenistic comic poet of the 3rd century BCE. Surviving fragments of his works. Free to download from the Greek library archive.
 

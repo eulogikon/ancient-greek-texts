@@ -2,7 +2,7 @@
 name: Manichaean Writers Anonymous
 name_greek: Ἀνώνυμοι Μανιχαῖοι
 eul_aid: tla
-canonical: "https://eulogikon.org/en/manichaean-writers-anonymous"
+canonical: "https://eulogikon.org/authors/manichaean-writers-anon-tla"
 period: Late Antique
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμοι Μανιχαῖοι*
 
-**eul_aid:** `tla` · [HTML page](https://eulogikon.org/en/manichaean-writers-anonymous)
+**eul_aid:** `tla` · [HTML page](https://eulogikon.org/authors/manichaean-writers-anon-tla)
 
 Anonymous Greek-speaking Manichaean writers of the 4th-5th centuries CE. Surviving works from this Gnostic tradition. Free to download from the Greek archive.
 

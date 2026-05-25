@@ -2,7 +2,7 @@
 name: Theognis of Megara
 name_greek: Θέογνις ὁ Μεγαρεύς
 eul_aid: bbs
-canonical: "https://eulogikon.org/en/theognis-of-megara"
+canonical: "https://eulogikon.org/authors/theognis-of-megara-bbs"
 period: Archaic
 dialect: Ionic Elegiac
 works_count: 4
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θέογνις ὁ Μεγαρεύς*
 
-**eul_aid:** `bbs` · [HTML page](https://eulogikon.org/en/theognis-of-megara)
+**eul_aid:** `bbs` · [HTML page](https://eulogikon.org/authors/theognis-of-megara-bbs)
 
 Theognis of Megara, 6th century BCE elegiac poet. Works include verses on history and society. Free to read and download from the Greek library archive.
 

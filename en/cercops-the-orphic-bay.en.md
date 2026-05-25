@@ -2,7 +2,7 @@
 name: Cercops the Orphic
 name_greek: Κέρκωψ ὁ Ὀρφικός
 eul_aid: bay
-canonical: "https://eulogikon.org/en/cercops-the-orphic"
+canonical: "https://eulogikon.org/authors/cercops-the-orphic-bay"
 period: Archaic
 dialect: Epic (Homeric)
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κέρκωψ ὁ Ὀρφικός*
 
-**eul_aid:** `bay` · [HTML page](https://eulogikon.org/en/cercops-the-orphic)
+**eul_aid:** `bay` · [HTML page](https://eulogikon.org/authors/cercops-the-orphic-bay)
 
 Cercops the Orphic, a sixth century BCE Pythagorean philosopher. Surviving works attributed to him. Free to read and download from the Greek library archive.
 

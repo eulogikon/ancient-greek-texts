@@ -2,7 +2,7 @@
 name: Timaeus of Locri
 name_greek: Τίμαιος ὁ Λοκρός
 eul_aid: eag
-canonical: "https://eulogikon.org/en/timaeus-of-locri"
+canonical: "https://eulogikon.org/authors/timaeus-of-locri-eag"
 period: Classical
 dialect: Doric
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τίμαιος ὁ Λοκρός*
 
-**eul_aid:** `eag` · [HTML page](https://eulogikon.org/en/timaeus-of-locri)
+**eul_aid:** `eag` · [HTML page](https://eulogikon.org/authors/timaeus-of-locri-eag)
 
 Timaeus of Locri, a 5th century BCE Pythagorean philosopher. Two surviving philosophical works. Free to read and download from the Greek library archive.
 

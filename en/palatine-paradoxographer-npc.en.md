@@ -2,7 +2,7 @@
 name: Palatine Paradoxographer
 name_greek: Παραδοξογράφος Παλατῖνος
 eul_aid: npc
-canonical: "https://eulogikon.org/en/palatine-paradoxographer"
+canonical: "https://eulogikon.org/authors/palatine-paradoxographer-npc"
 period: Roman
 dialect: Mixed Dialects
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Παραδοξογράφος Παλατῖνος*
 
-**eul_aid:** `npc` · [HTML page](https://eulogikon.org/en/palatine-paradoxographer)
+**eul_aid:** `npc` · [HTML page](https://eulogikon.org/authors/palatine-paradoxographer-npc)
 
 Anonymous Roman era Greek compiler of paradoxography from the 1st or 2nd century CE. Collects unusual phenomena. Free to download from the Greek archive.
 

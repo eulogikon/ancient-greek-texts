@@ -2,7 +2,7 @@
 name: Ptolemy of Ascalon
 name_greek: Πτολεμαῖος ὁ Ἀσκαλωνίτης
 eul_aid: oyc
-canonical: "https://eulogikon.org/en/ptolemy-of-ascalon"
+canonical: "https://eulogikon.org/authors/ptolemy-of-ascalon-oyc"
 period: Roman
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πτολεμαῖος ὁ Ἀσκαλωνίτης*
 
-**eul_aid:** `oyc` · [HTML page](https://eulogikon.org/en/ptolemy-of-ascalon)
+**eul_aid:** `oyc` · [HTML page](https://eulogikon.org/authors/ptolemy-of-ascalon-oyc)
 
 Ptolemy of Ascalon was a 2nd century BCE grammarian. Two grammatical treatises are preserved. Free to read and download from the Greek library archive.
 

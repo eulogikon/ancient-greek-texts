@@ -2,7 +2,7 @@
 name: Dius the Historian of Phoenicia
 name_greek: Δῖος ὁ Φοίνικος
 eul_aid: jxi
-canonical: "https://eulogikon.org/en/dius-of-phoenicia"
+canonical: "https://eulogikon.org/authors/dius-the-historian-jxi"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δῖος ὁ Φοίνικος*
 
-**eul_aid:** `jxi` · [HTML page](https://eulogikon.org/en/dius-of-phoenicia)
+**eul_aid:** `jxi` · [HTML page](https://eulogikon.org/authors/dius-the-historian-jxi)
 
 Dius the Historian, Hellenistic writer of the 3rd-2nd centuries BCE. Surviving fragments of history. Free to read and download from the Greek library archive.
 

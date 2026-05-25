@@ -2,7 +2,7 @@
 name: Pyrander the Historian
 name_greek: Πύρανδρος ὁ Ἱστορικός
 eul_aid: aim
-canonical: "https://eulogikon.org/en/pyrander-the-historian"
+canonical: "https://eulogikon.org/authors/pyrander-the-historian-aim"
 period: Archaic
 dialect: Mixed Dialects (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πύρανδρος ὁ Ἱστορικός*
 
-**eul_aid:** `aim` · [HTML page](https://eulogikon.org/en/pyrander-the-historian)
+**eul_aid:** `aim` · [HTML page](https://eulogikon.org/authors/pyrander-the-historian-aim)
 
 Pyrander was an early Greek historian of the 6th century BCE. Surviving fragments of his prose. Free to read and download from the Greek library archive.
 

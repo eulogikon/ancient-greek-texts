@@ -2,7 +2,7 @@
 name: Lesbonax the Rhetorician
 name_greek: Λεσβώναξ ὁ Μυτιληναῖος
 eul_aid: mbw
-canonical: "https://eulogikon.org/en/lesbonax-the-rhetorician"
+canonical: "https://eulogikon.org/authors/lesbonax-of-mytilene-mbw"
 period: Hellenistic
 dialect: Koine
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Λεσβώναξ ὁ Μυτιληναῖος*
 
-**eul_aid:** `mbw` · [HTML page](https://eulogikon.org/en/lesbonax-the-rhetorician)
+**eul_aid:** `mbw` · [HTML page](https://eulogikon.org/authors/lesbonax-of-mytilene-mbw)
 
 Lesbonax of Mytilene was a Hellenistic orator of the 1st century BCE. Surviving works include three orations. Free to read and download from the Greek library.
 

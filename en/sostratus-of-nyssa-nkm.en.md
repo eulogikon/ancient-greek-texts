@@ -2,7 +2,7 @@
 name: Sostratus of Nyssa
 name_greek: Σώστρατος ὁ Νύσσης
 eul_aid: nkm
-canonical: "https://eulogikon.org/en/sostratus-of-nyssa"
+canonical: "https://eulogikon.org/authors/sostratus-of-nyssa-nkm"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σώστρατος ὁ Νύσσης*
 
-**eul_aid:** `nkm` · [HTML page](https://eulogikon.org/en/sostratus-of-nyssa)
+**eul_aid:** `nkm` · [HTML page](https://eulogikon.org/authors/sostratus-of-nyssa-nkm)
 
 Sostratus of Nyssa was a Hellenistic grammarian of the 1st century BCE. His grammatical works are preserved. Free to read and download from the Greek archive.
 

@@ -2,7 +2,7 @@
 name: Cephalion the Historian
 name_greek: Κεφαλίων ὁ ἱστορικός
 eul_aid: qdq
-canonical: "https://eulogikon.org/en/cephalion-the-historian"
+canonical: "https://eulogikon.org/authors/cephalion-the-historian-qdq"
 period: Roman
 dialect: Ionic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κεφαλίων ὁ ἱστορικός*
 
-**eul_aid:** `qdq` · [HTML page](https://eulogikon.org/en/cephalion-the-historian)
+**eul_aid:** `qdq` · [HTML page](https://eulogikon.org/authors/cephalion-the-historian-qdq)
 
 Cephalion, a 2nd century CE Roman historian. Surviving historical works from the ancient world. Free to read and download from the Greek library archive.
 

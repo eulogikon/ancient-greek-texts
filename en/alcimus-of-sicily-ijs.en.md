@@ -2,7 +2,7 @@
 name: Alcimus of Sicily
 name_greek: Ἄλκιμος ὁ Σικελιώτης
 eul_aid: ijs
-canonical: "https://eulogikon.org/en/alcimus-of-sicily"
+canonical: "https://eulogikon.org/authors/alcimus-of-sicily-ijs"
 period: Hellenistic
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἄλκιμος ὁ Σικελιώτης*
 
-**eul_aid:** `ijs` · [HTML page](https://eulogikon.org/en/alcimus-of-sicily)
+**eul_aid:** `ijs` · [HTML page](https://eulogikon.org/authors/alcimus-of-sicily-ijs)
 
 Alcimus of Sicily, a 4th century BCE Hellenistic historian. His historical fragments survive in later sources. Free to read and download from the Greek archive.
 

@@ -2,7 +2,7 @@
 name: Archemachus of Euboea
 name_greek: Ἀρχέμαχος ὁ Εὐβοεύς
 eul_aid: lqi
-canonical: "https://eulogikon.org/en/archemachus-of-euboea"
+canonical: "https://eulogikon.org/authors/archemachus-of-euboea-lqi"
 period: Hellenistic
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρχέμαχος ὁ Εὐβοεύς*
 
-**eul_aid:** `lqi` · [HTML page](https://eulogikon.org/en/archemachus-of-euboea)
+**eul_aid:** `lqi` · [HTML page](https://eulogikon.org/authors/archemachus-of-euboea-lqi)
 
 Archemachus of Euboea, a Hellenistic historian. Surviving fragments of his historical works. Free to read and download from the Greek library archive.
 

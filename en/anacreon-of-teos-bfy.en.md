@@ -2,7 +2,7 @@
 name: Anacreon of Teos
 name_greek: Ἀνακρέων ὁ Τήϊος
 eul_aid: bfy
-canonical: "https://eulogikon.org/en/anacreon-of-teos"
+canonical: "https://eulogikon.org/authors/anacreon-of-teos-bfy"
 period: Archaic
 dialect: Ionic Elegiac
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνακρέων ὁ Τήϊος*
 
-**eul_aid:** `bfy` · [HTML page](https://eulogikon.org/en/anacreon-of-teos)
+**eul_aid:** `bfy` · [HTML page](https://eulogikon.org/authors/anacreon-of-teos-bfy)
 
 Anacreon was a 6th century BCE Ionic lyric poet from Teos. Surviving works include lyric poems. Free to read and download from the Greek library archive.
 

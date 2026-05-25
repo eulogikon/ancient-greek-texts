@@ -2,7 +2,7 @@
 name: Dialogue on Political Science Anonymous
 name_greek: Ἀνώνυμος διάλογος περὶ τῆς πολιτικῆς ἐπιστήμης
 eul_aid: vhm
-canonical: "https://eulogikon.org/en/anonymous-dialogue-on-political-science"
+canonical: "https://eulogikon.org/authors/on-political-science-anon-vhm"
 period: Late Antique
 dialect: Philosophical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμος διάλογος περὶ τῆς πολιτικῆς ἐπιστήμης*
 
-**eul_aid:** `vhm` · [HTML page](https://eulogikon.org/en/anonymous-dialogue-on-political-science)
+**eul_aid:** `vhm` · [HTML page](https://eulogikon.org/authors/on-political-science-anon-vhm)
 
 Anonymous 6th century CE dialogue on political science. This philosophical prose work is preserved. Free to read and download from the Greek library archive.
 

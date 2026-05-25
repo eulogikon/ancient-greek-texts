@@ -2,7 +2,7 @@
 name: Diyllus of Athens
 name_greek: Δίυλλος ὁ Ἀθηναῖος
 eul_aid: fyg
-canonical: "https://eulogikon.org/en/diyllus-of-athens"
+canonical: "https://eulogikon.org/authors/diyllus-of-athens-fyg"
 period: Classical
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δίυλλος ὁ Ἀθηναῖος*
 
-**eul_aid:** `fyg` · [HTML page](https://eulogikon.org/en/diyllus-of-athens)
+**eul_aid:** `fyg` · [HTML page](https://eulogikon.org/authors/diyllus-of-athens-fyg)
 
 Diyllus of Athens was a classical historian of the 4th century BCE. His historical works survive in fragments. Free to download from the Greek library archive.
 

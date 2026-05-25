@@ -2,7 +2,7 @@
 name: Homer Life-anonymous
 name_greek: Ὁμήρου Βίος-ἀνώνυμος
 eul_aid: jho
-canonical: "https://eulogikon.org/en/homer-life-anonymous"
+canonical: "https://eulogikon.org/authors/homer-life-anon-jho"
 period: Hellenistic
 dialect: Mixed Dialects
 works_count: 12
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ὁμήρου Βίος-ἀνώνυμος*
 
-**eul_aid:** `jho` · [HTML page](https://eulogikon.org/en/homer-life-anonymous)
+**eul_aid:** `jho` · [HTML page](https://eulogikon.org/authors/homer-life-anon-jho)
 
 Anonymous Hellenistic biography of Homer from the 1st century BCE. Twelve surviving prose works. Free to read and download from the Greek library archive.
 

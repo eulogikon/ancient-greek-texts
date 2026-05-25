@@ -2,7 +2,7 @@
 name: Dromo Comicus
 name_greek: Δρόμων
 eul_aid: gpo
-canonical: "https://eulogikon.org/en/dromo-comicus"
+canonical: "https://eulogikon.org/authors/dromo-comicus-gpo"
 period: Classical
 dialect: Attic Comedy
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δρόμων*
 
-**eul_aid:** `gpo` · [HTML page](https://eulogikon.org/en/dromo-comicus)
+**eul_aid:** `gpo` · [HTML page](https://eulogikon.org/authors/dromo-comicus-gpo)
 
 Dromo Comicus was a 4th century BCE Attic comic poet. Two surviving works attributed to this author. Free to read and download from the Greek library archive.
 

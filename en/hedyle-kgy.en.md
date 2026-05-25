@@ -2,7 +2,7 @@
 name: Hedyle
 name_greek: Ἥδυλη
 eul_aid: kgy
-canonical: "https://eulogikon.org/en/hedyle"
+canonical: "https://eulogikon.org/authors/hedyle-kgy"
 period: Hellenistic
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἥδυλη*
 
-**eul_aid:** `kgy` · [HTML page](https://eulogikon.org/en/hedyle)
+**eul_aid:** `kgy` · [HTML page](https://eulogikon.org/authors/hedyle-kgy)
 
 Hedyle was a Hellenistic poet writing in Attic Greek. Her surviving verse is preserved in fragments. Free to read and download from the Greek library archive.
 

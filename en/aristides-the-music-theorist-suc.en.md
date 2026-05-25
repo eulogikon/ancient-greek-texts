@@ -2,7 +2,7 @@
 name: Aristides the Music Theorist
 name_greek: Ἀριστείδης Κοϊντιλιανός
 eul_aid: suc
-canonical: "https://eulogikon.org/en/aristides-the-music-theorist"
+canonical: "https://eulogikon.org/authors/aristides-the-musicologist-suc"
 period: Late Antique
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀριστείδης Κοϊντιλιανός*
 
-**eul_aid:** `suc` · [HTML page](https://eulogikon.org/en/aristides-the-music-theorist)
+**eul_aid:** `suc` · [HTML page](https://eulogikon.org/authors/aristides-the-musicologist-suc)
 
 Aristides the Music Theorist, a late antique writer on harmonics. His treatise explores music theory. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Artemon of Clazomenae
 name_greek: Ἀρτέμων ὁ Κλαζομένιος
 eul_aid: guy
-canonical: "https://eulogikon.org/en/artemon-of-clazomenae"
+canonical: "https://eulogikon.org/authors/artemon-of-clazomenae-guy"
 period: Classical
 dialect: Ionic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρτέμων ὁ Κλαζομένιος*
 
-**eul_aid:** `guy` · [HTML page](https://eulogikon.org/en/artemon-of-clazomenae)
+**eul_aid:** `guy` · [HTML page](https://eulogikon.org/authors/artemon-of-clazomenae-guy)
 
 Artemon of Clazomenae was a 4th century BCE Ionic historian. Fragments of his historical works. Free to read and download from the Greek library archive.
 

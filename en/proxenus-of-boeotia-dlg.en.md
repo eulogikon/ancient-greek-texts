@@ -2,7 +2,7 @@
 name: Proxenus of Boeotia
 name_greek: Πρόξενος ὁ Βοιωτός
 eul_aid: dlg
-canonical: "https://eulogikon.org/en/proxenus-of-boeotia"
+canonical: "https://eulogikon.org/authors/proxenus-of-boeotia-dlg"
 period: Classical
 dialect: Ionic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πρόξενος ὁ Βοιωτός*
 
-**eul_aid:** `dlg` · [HTML page](https://eulogikon.org/en/proxenus-of-boeotia)
+**eul_aid:** `dlg` · [HTML page](https://eulogikon.org/authors/proxenus-of-boeotia-dlg)
 
 Proxenus of Boeotia was a 5th century BCE historian. His surviving works are preserved in fragments. Free to read and download from the Greek library archive.
 

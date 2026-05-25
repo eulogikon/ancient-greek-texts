@@ -2,7 +2,7 @@
 name: Macer Pompeius the Tragedian
 name_greek: Μάκερ Πομπήιος ὁ τραγικός
 eul_aid: nkw
-canonical: "https://eulogikon.org/en/macer-pompeius-the-tragedian"
+canonical: "https://eulogikon.org/authors/macer-pompeius-the-tragedian-nkw"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μάκερ Πομπήιος ὁ τραγικός*
 
-**eul_aid:** `nkw` · [HTML page](https://eulogikon.org/en/macer-pompeius-the-tragedian)
+**eul_aid:** `nkw` · [HTML page](https://eulogikon.org/authors/macer-pompeius-the-tragedian-nkw)
 
 Macer Pompeius was a Hellenistic tragedian writing in Koine Greek during the 1st century BCE. Free to read and download from the Greek library archive.
 

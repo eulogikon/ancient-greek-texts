@@ -2,7 +2,7 @@
 name: Antigonus of Carystus II
 name_greek: Ἀντίγονος ὁ Καρύστιος
 eul_aid: kku
-canonical: "https://eulogikon.org/en/antigonus-of-carystus-ii"
+canonical: "https://eulogikon.org/authors/antigonus-of-carystus-kku"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀντίγονος ὁ Καρύστιος*
 
-**eul_aid:** `kku` · [HTML page](https://eulogikon.org/en/antigonus-of-carystus-ii)
+**eul_aid:** `kku` · [HTML page](https://eulogikon.org/authors/antigonus-of-carystus-kku)
 
 Antigonus of Carystus, a 3rd century BCE Hellenistic biographer. His surviving works include biographical writings. Free to download from the Greek archive.
 

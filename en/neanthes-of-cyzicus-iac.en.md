@@ -2,7 +2,7 @@
 name: Neanthes of Cyzicus
 name_greek: Νεάνθης ὁ Κυζικηνός
 eul_aid: iac
-canonical: "https://eulogikon.org/en/neanthes-of-cyzicus"
+canonical: "https://eulogikon.org/authors/neanthes-of-cyzicus-iac"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Νεάνθης ὁ Κυζικηνός*
 
-**eul_aid:** `iac` · [HTML page](https://eulogikon.org/en/neanthes-of-cyzicus)
+**eul_aid:** `iac` · [HTML page](https://eulogikon.org/authors/neanthes-of-cyzicus-iac)
 
 Neanthes of Cyzicus was a Hellenistic historian of the 4th century BCE. Fragments of his works survive. Free to download from the Greek library archive.
 

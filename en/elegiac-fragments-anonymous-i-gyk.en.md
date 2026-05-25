@@ -2,7 +2,7 @@
 name: Elegiac Fragments Anonymous I
 name_greek: Ἐλεγειακὰ ἀνώνυμα
 eul_aid: gyk
-canonical: "https://eulogikon.org/en/elegiac-fragments-anonymous-i"
+canonical: "https://eulogikon.org/authors/elegiac-fragments-anon-gyk"
 period: Classical
 dialect: Mixed Dialects
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἐλεγειακὰ ἀνώνυμα*
 
-**eul_aid:** `gyk` · [HTML page](https://eulogikon.org/en/elegiac-fragments-anonymous-i)
+**eul_aid:** `gyk` · [HTML page](https://eulogikon.org/authors/elegiac-fragments-anon-gyk)
 
 Anonymous elegiac poet from the Classical period. Surviving fragments of Greek elegiac poetry. Free to read and download from the Greek library archive.
 

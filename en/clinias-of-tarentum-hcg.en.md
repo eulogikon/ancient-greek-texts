@@ -2,7 +2,7 @@
 name: Clinias of Tarentum
 name_greek: Κλεινίας ὁ Ταραντῖνος
 eul_aid: hcg
-canonical: "https://eulogikon.org/en/clinias-of-tarentum"
+canonical: "https://eulogikon.org/authors/clinias-of-tarentum-hcg"
 period: Classical
 dialect: "Doric (phi, frg)"
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κλεινίας ὁ Ταραντῖνος*
 
-**eul_aid:** `hcg` · [HTML page](https://eulogikon.org/en/clinias-of-tarentum)
+**eul_aid:** `hcg` · [HTML page](https://eulogikon.org/authors/clinias-of-tarentum-hcg)
 
 Clinias of Tarentum, a 5th-4th century BCE Pythagorean philosopher. Surviving fragments of his works. Free to read and download from the Greek library archive.
 

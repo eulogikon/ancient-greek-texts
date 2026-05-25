@@ -2,7 +2,7 @@
 name: Achilles Tatius of Alexandria
 name_greek: Ἀχιλλεὺς ὁ Τατίος ὁ Ἀλεξανδρεύς
 eul_aid: que
-canonical: "https://eulogikon.org/en/achilles-tatius-of-alexandria"
+canonical: "https://eulogikon.org/authors/achilles-tatius-of-alexandria-que"
 period: Roman
 dialect: Koine
 affiliation: Sophist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀχιλλεὺς ὁ Τατίος ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `que` · [HTML page](https://eulogikon.org/en/achilles-tatius-of-alexandria)
+**eul_aid:** `que` · [HTML page](https://eulogikon.org/authors/achilles-tatius-of-alexandria-que)
 
 Achilles Tatius was a 2nd century CE Alexandrian sophist. His romance is Leucippe and Clitophon. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Carystius of Pergamum
 name_greek: Καρύστιος ὁ τῆς Περγάμου
 eul_aid: mqw
-canonical: "https://eulogikon.org/en/carystius-of-pergamum"
+canonical: "https://eulogikon.org/authors/carystius-of-pergamum-mqw"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Καρύστιος ὁ τῆς Περγάμου*
 
-**eul_aid:** `mqw` · [HTML page](https://eulogikon.org/en/carystius-of-pergamum)
+**eul_aid:** `mqw` · [HTML page](https://eulogikon.org/authors/carystius-of-pergamum-mqw)
 
 Carystius of Pergamum, a 2nd century BCE historian. Surviving historical fragments in Koine Greek. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Parrhasius of Ephesus
 name_greek: Παρράσιος ὁ Ἐφέσιος
 eul_aid: ewe
-canonical: "https://eulogikon.org/en/parrhasius-of-ephesus"
+canonical: "https://eulogikon.org/authors/parrhasius-of-ephesus-ewe"
 period: Classical
 dialect: Ionic Elegiac
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Παρράσιος ὁ Ἐφέσιος*
 
-**eul_aid:** `ewe` · [HTML page](https://eulogikon.org/en/parrhasius-of-ephesus)
+**eul_aid:** `ewe` · [HTML page](https://eulogikon.org/authors/parrhasius-of-ephesus-ewe)
 
 Parrhasius of Ephesus was a classical Ionic elegiac poet of the late 5th century BCE. Poetic fragments. Free to read and download from the Greek archive.
 

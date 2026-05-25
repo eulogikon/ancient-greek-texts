@@ -2,7 +2,7 @@
 name: Thrasymachus of Chalcedon
 name_greek: Θρασύμαχος ὁ Χαλκηδώνιος
 eul_aid: dvq
-canonical: "https://eulogikon.org/en/thrasymachus-of-chalcedon"
+canonical: "https://eulogikon.org/authors/thrasymachus-of-chalcedon-dvq"
 period: Classical
 dialect: Attic
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θρασύμαχος ὁ Χαλκηδώνιος*
 
-**eul_aid:** `dvq` · [HTML page](https://eulogikon.org/en/thrasymachus-of-chalcedon)
+**eul_aid:** `dvq` · [HTML page](https://eulogikon.org/authors/thrasymachus-of-chalcedon-dvq)
 
 Thrasymachus, a classical sophist and teacher of rhetoric. Surviving works include oratory fragments. Free to read and download from the Greek library archive.
 

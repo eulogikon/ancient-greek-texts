@@ -2,7 +2,7 @@
 name: Phaenias of Eresus
 name_greek: Φαινίας ὁ Ἐρέσιος
 eul_aid: flo
-canonical: "https://eulogikon.org/en/phaenias-of-eresus"
+canonical: "https://eulogikon.org/authors/phaenias-of-eresus-flo"
 period: Classical
 dialect: Attic
 affiliation: Peripatetic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φαινίας ὁ Ἐρέσιος*
 
-**eul_aid:** `flo` · [HTML page](https://eulogikon.org/en/phaenias-of-eresus)
+**eul_aid:** `flo` · [HTML page](https://eulogikon.org/authors/phaenias-of-eresus-flo)
 
 Phaenias of Eresus, 4th century BCE Peripatetic philosopher. Surviving treatises and fragments. Free to read and download from the Greek library archive.
 

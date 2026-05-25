@@ -2,7 +2,7 @@
 name: Menesthenes the Historian
 name_greek: Μενεσθένης ὁ ἱστορικός
 eul_aid: gko
-canonical: "https://eulogikon.org/en/menesthenes-the-historian"
+canonical: "https://eulogikon.org/authors/menesthenes-the-historian-gko"
 period: Classical
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μενεσθένης ὁ ἱστορικός*
 
-**eul_aid:** `gko` · [HTML page](https://eulogikon.org/en/menesthenes-the-historian)
+**eul_aid:** `gko` · [HTML page](https://eulogikon.org/authors/menesthenes-the-historian-gko)
 
 Menesthenes, 4th century BCE Attic historian of Classical Greece. All surviving historical fragments. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Zaleucus of Locri
 name_greek: Ζάλευκος ὁ Λοκρός
 eul_aid: aeg
-canonical: "https://eulogikon.org/en/zaleucus-of-locri"
+canonical: "https://eulogikon.org/authors/zaleucus-of-locri-aeg"
 period: Archaic
 dialect: Doric
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ζάλευκος ὁ Λοκρός*
 
-**eul_aid:** `aeg` · [HTML page](https://eulogikon.org/en/zaleucus-of-locri)
+**eul_aid:** `aeg` · [HTML page](https://eulogikon.org/authors/zaleucus-of-locri-aeg)
 
 Zaleucus of Locri was an archaic lawgiver of the 7th century BCE. Fragments of his legal code survive. Free to read and download from the Greek library archive.
 

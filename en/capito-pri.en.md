@@ -2,7 +2,7 @@
 name: Capito
 name_greek: Καπίτων
 eul_aid: pri
-canonical: "https://eulogikon.org/en/capito"
+canonical: "https://eulogikon.org/authors/capito-pri"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Καπίτων*
 
-**eul_aid:** `pri` · [HTML page](https://eulogikon.org/en/capito)
+**eul_aid:** `pri` · [HTML page](https://eulogikon.org/authors/capito-pri)
 
 Capito, a Roman era historian writing in Koine Greek. Surviving historical prose works from antiquity. Free to read and download from the Greek library archive.
 

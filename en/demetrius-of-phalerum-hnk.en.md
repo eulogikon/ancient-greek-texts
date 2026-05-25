@@ -2,7 +2,7 @@
 name: Demetrius of Phalerum
 name_greek: Δημήτριος ὁ Φαληρεύς
 eul_aid: hnk
-canonical: "https://eulogikon.org/en/demetrius-of-phalerum"
+canonical: "https://eulogikon.org/authors/demetrius-of-phalerum-hnk"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δημήτριος ὁ Φαληρεύς*
 
-**eul_aid:** `hnk` · [HTML page](https://eulogikon.org/en/demetrius-of-phalerum)
+**eul_aid:** `hnk` · [HTML page](https://eulogikon.org/authors/demetrius-of-phalerum-hnk)
 
 Demetrius of Phalerum was an Athenian orator and statesman. Surviving works include his orations. Free to read and download from the Greek library archive.
 

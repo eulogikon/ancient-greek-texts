@@ -2,7 +2,7 @@
 name: Lamentation Song
 name_greek: Ὁ Θρῆνος (ἀνώνυμος)
 eul_aid: sck
-canonical: "https://eulogikon.org/en/lamentation-song"
+canonical: "https://eulogikon.org/authors/lamentation-song-sck"
 period: Late Antique
 dialect: Byzantine Greek
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ὁ Θρῆνος (ἀνώνυμος)*
 
-**eul_aid:** `sck` · [HTML page](https://eulogikon.org/en/lamentation-song)
+**eul_aid:** `sck` · [HTML page](https://eulogikon.org/authors/lamentation-song-sck)
 
 Anonymous Byzantine poet of the Late Antique period. The surviving verse lamentation is Ho Threnos. Free to read and download from the Greek library archive.
 

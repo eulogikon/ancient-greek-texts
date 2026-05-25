@@ -2,7 +2,7 @@
 name: Autocrates the Historian
 name_greek: Αὐτοκράτης ὁ Ἱστορικός
 eul_aid: knw
-canonical: "https://eulogikon.org/en/autocrates-the-historian"
+canonical: "https://eulogikon.org/authors/autocrates-the-historian-knw"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Αὐτοκράτης ὁ Ἱστορικός*
 
-**eul_aid:** `knw` · [HTML page](https://eulogikon.org/en/autocrates-the-historian)
+**eul_aid:** `knw` · [HTML page](https://eulogikon.org/authors/autocrates-the-historian-knw)
 
 Autocrates was a Hellenistic historian of the 3rd to 2nd century BCE. His surviving historical work is fragmentary. Free to download from the Greek archive.
 

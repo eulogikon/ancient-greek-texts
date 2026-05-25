@@ -2,7 +2,7 @@
 name: Rhinthon of Tarentum
 name_greek: Ῥίνθων ὁ Ταραντῖνος
 eul_aid: hpi
-canonical: "https://eulogikon.org/en/rhinthon-of-tarentum"
+canonical: "https://eulogikon.org/authors/rhinthon-of-tarentum-hpi"
 period: Hellenistic
 dialect: Doric
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ῥίνθων ὁ Ταραντῖνος*
 
-**eul_aid:** `hpi` · [HTML page](https://eulogikon.org/en/rhinthon-of-tarentum)
+**eul_aid:** `hpi` · [HTML page](https://eulogikon.org/authors/rhinthon-of-tarentum-hpi)
 
 Rhinthon of Tarentum, Hellenistic poet known for Doric comedy. Surviving fragments of his work. Free to read and download from the Greek library archive.
 

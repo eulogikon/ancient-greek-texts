@@ -2,7 +2,7 @@
 name: Nonnus of Panopolis
 name_greek: Νόννος ὁ Πανοπολίτης
 eul_aid: tns
-canonical: "https://eulogikon.org/en/nonnus-of-panopolis"
+canonical: "https://eulogikon.org/authors/nonnus-of-panopolis-tns"
 period: Late Antique
 dialect: Epic (Homeric)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Νόννος ὁ Πανοπολίτης*
 
-**eul_aid:** `tns` · [HTML page](https://eulogikon.org/en/nonnus-of-panopolis)
+**eul_aid:** `tns` · [HTML page](https://eulogikon.org/authors/nonnus-of-panopolis-tns)
 
 Nonnus of Panopolis, 5th century CE epic poet. Works include the Dionysiaca and a Gospel paraphrase. Free to read and download from the Greek library archive.
 

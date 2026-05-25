@@ -2,7 +2,7 @@
 name: Philoxenus of Alexandria
 name_greek: Φιλόξενος ὁ Ἀλεξανδρεύς
 eul_aid: nca
-canonical: "https://eulogikon.org/en/philoxenus-of-alexandria"
+canonical: "https://eulogikon.org/authors/philoxenus-of-alexandria-nca"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φιλόξενος ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `nca` · [HTML page](https://eulogikon.org/en/philoxenus-of-alexandria)
+**eul_aid:** `nca` · [HTML page](https://eulogikon.org/authors/philoxenus-of-alexandria-nca)
 
 Philoxenus of Alexandria was a Hellenistic grammarian of the 1st century BCE. His grammatical works. Free to read and download from the Greek library archive.
 

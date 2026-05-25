@@ -2,7 +2,7 @@
 name: Demosthenes Scholia
 name_greek: Δημοσθένους Σχόλια
 eul_aid: vky
-canonical: "https://eulogikon.org/en/demosthenes-scholia"
+canonical: "https://eulogikon.org/authors/demosthenes-scholia-vky"
 period: Late Antique
 dialect: Mixed Dialects
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δημοσθένους Σχόλια*
 
-**eul_aid:** `vky` · [HTML page](https://eulogikon.org/en/demosthenes-scholia)
+**eul_aid:** `vky` · [HTML page](https://eulogikon.org/authors/demosthenes-scholia-vky)
 
 Demosthenes Scholia are ancient explanatory notes by grammarians. Contains one surviving commentary. Free to read and download from the Greek library archive.
 

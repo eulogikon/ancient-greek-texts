@@ -2,7 +2,7 @@
 name: Hippasus of Metapontum
 name_greek: Ἵππασος ὁ Μεταποντῖνος
 eul_aid: bng
-canonical: "https://eulogikon.org/en/hippasus-of-metapontum"
+canonical: "https://eulogikon.org/authors/hippasus-of-metapontum-bng"
 period: Archaic
 dialect: Koine
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἵππασος ὁ Μεταποντῖνος*
 
-**eul_aid:** `bng` · [HTML page](https://eulogikon.org/en/hippasus-of-metapontum)
+**eul_aid:** `bng` · [HTML page](https://eulogikon.org/authors/hippasus-of-metapontum-bng)
 
 Hippasus of Metapontum was a 5th century BCE Pythagorean philosopher and mathematician. Free to read and download from the Greek library archive.
 

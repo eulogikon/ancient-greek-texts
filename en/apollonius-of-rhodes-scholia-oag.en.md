@@ -2,7 +2,7 @@
 name: Apollonius of Rhodes Scholia
 name_greek: Ἀπολλωνίου τοῦ Ῥοδίου Σχόλια
 eul_aid: oag
-canonical: "https://eulogikon.org/en/apollonius-of-rhodes-scholia"
+canonical: "https://eulogikon.org/authors/apollonius-of-rhodes-scholia-oag"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀπολλωνίου τοῦ Ῥοδίου Σχόλια*
 
-**eul_aid:** `oag` · [HTML page](https://eulogikon.org/en/apollonius-of-rhodes-scholia)
+**eul_aid:** `oag` · [HTML page](https://eulogikon.org/authors/apollonius-of-rhodes-scholia-oag)
 
 Ancient Greek poet and scholar, author of the epic Argonautica. Includes scholia and commentary. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Dosiadas of Crete
 name_greek: Δωσιάδας ὁ Κρής
 eul_aid: icu
-canonical: "https://eulogikon.org/en/dosiadas-of-crete"
+canonical: "https://eulogikon.org/authors/dosiadas-of-crete-icu"
 period: Hellenistic
 dialect: Doric (frg)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δωσιάδας ὁ Κρής*
 
-**eul_aid:** `icu` · [HTML page](https://eulogikon.org/en/dosiadas-of-crete)
+**eul_aid:** `icu` · [HTML page](https://eulogikon.org/authors/dosiadas-of-crete-icu)
 
 Dosiadas of Crete, a Hellenistic poet of the 3rd century BCE. Two surviving poetic fragments in Doric. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Tryphiodorus of Egypt
 name_greek: Τρυφιόδωρος ὁ Αἰγύπτιος
 eul_aid: uge
-canonical: "https://eulogikon.org/en/tryphiodorus-of-egypt"
+canonical: "https://eulogikon.org/authors/tryphiodorus-of-egypt-uge"
 period: Late Antique
 dialect: Epic (Homeric)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τρυφιόδωρος ὁ Αἰγύπτιος*
 
-**eul_aid:** `uge` · [HTML page](https://eulogikon.org/en/tryphiodorus-of-egypt)
+**eul_aid:** `uge` · [HTML page](https://eulogikon.org/authors/tryphiodorus-of-egypt-uge)
 
 Tryphiodorus of Egypt was a late antique epic poet. His surviving epic The Sack of Troy is preserved. Free to read and download from the Greek library archive.
 

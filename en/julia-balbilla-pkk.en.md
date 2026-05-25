@@ -2,7 +2,7 @@
 name: Julia Balbilla Princess of Commagene
 name_greek: Ἰουλία Βαλβίλλα
 eul_aid: pkk
-canonical: "https://eulogikon.org/en/julia-balbilla"
+canonical: "https://eulogikon.org/authors/julia-balbilla-pkk"
 period: Roman
 dialect: Aeolic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἰουλία Βαλβίλλα*
 
-**eul_aid:** `pkk` · [HTML page](https://eulogikon.org/en/julia-balbilla)
+**eul_aid:** `pkk` · [HTML page](https://eulogikon.org/authors/julia-balbilla-pkk)
 
 Julia Balbilla, a 2nd century CE Roman poet of Commagene. Her verse composed in the Aeolic dialect. Free to read and download from the Greek library archive.
 

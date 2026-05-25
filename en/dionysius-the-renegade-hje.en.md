@@ -2,7 +2,7 @@
 name: Dionysius the Renegade
 name_greek: Διονύσιος ὁ Μεταθέμενος
 eul_aid: hje
-canonical: "https://eulogikon.org/en/dionysius-the-renegade"
+canonical: "https://eulogikon.org/authors/dionysius-the-renegade-hje"
 period: Classical
 dialect: "Attic (phi, frg)"
 affiliation: Cyrenaic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διονύσιος ὁ Μεταθέμενος*
 
-**eul_aid:** `hje` · [HTML page](https://eulogikon.org/en/dionysius-the-renegade)
+**eul_aid:** `hje` · [HTML page](https://eulogikon.org/authors/dionysius-the-renegade-hje)
 
 Dionysius the Renegade, ancient Greek philosopher and Stoic author. One surviving work. Free to read and download from the Greek library archive.
 

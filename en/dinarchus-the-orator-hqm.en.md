@@ -2,7 +2,7 @@
 name: Dinarchus the Orator
 name_greek: Δείναρχος ὁ ῥήτωρ
 eul_aid: hqm
-canonical: "https://eulogikon.org/en/dinarchus-the-orator"
+canonical: "https://eulogikon.org/authors/dinarchus-the-orator-hqm"
 period: Hellenistic
 dialect: Attic
 works_count: 5
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δείναρχος ὁ ῥήτωρ*
 
-**eul_aid:** `hqm` · [HTML page](https://eulogikon.org/en/dinarchus-the-orator)
+**eul_aid:** `hqm` · [HTML page](https://eulogikon.org/authors/dinarchus-the-orator-hqm)
 
 Dinarchus was a professional speechwriter in late classical Athens. Five of his orations survive. Free to read and download from the Greek library archive.
 

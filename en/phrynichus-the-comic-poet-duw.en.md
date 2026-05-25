@@ -2,7 +2,7 @@
 name: Phrynichus the Comic Poet of Athens
 name_greek: Φρύνιχος ὁ κωμῳδιοποιός Ἀθηναῖος
 eul_aid: duw
-canonical: "https://eulogikon.org/en/phrynichus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/phrynichus-the-comic-poet-duw"
 period: Classical
 dialect: Attic Comedy
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φρύνιχος ὁ κωμῳδιοποιός Ἀθηναῖος*
 
-**eul_aid:** `duw` · [HTML page](https://eulogikon.org/en/phrynichus-the-comic-poet)
+**eul_aid:** `duw` · [HTML page](https://eulogikon.org/authors/phrynichus-the-comic-poet-duw)
 
 Phrynichus, an Athenian comic playwright of the late 5th century BCE. Read his surviving works. Free to read and download from the Greek library archive.
 

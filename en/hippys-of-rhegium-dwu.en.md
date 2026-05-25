@@ -2,7 +2,7 @@
 name: Hippys of Rhegium
 name_greek: Ἵππυς ὁ Ῥηγῖνος
 eul_aid: dwu
-canonical: "https://eulogikon.org/en/hippys-of-rhegium"
+canonical: "https://eulogikon.org/authors/hippys-of-rhegium-dwu"
 period: Classical
 dialect: Doric
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἵππυς ὁ Ῥηγῖνος*
 
-**eul_aid:** `dwu` · [HTML page](https://eulogikon.org/en/hippys-of-rhegium)
+**eul_aid:** `dwu` · [HTML page](https://eulogikon.org/authors/hippys-of-rhegium-dwu)
 
 Hippys of Rhegium, a 5th-4th century BCE Doric historian. Preserved historical fragments. Free to read and download from the Greek library archive.
 

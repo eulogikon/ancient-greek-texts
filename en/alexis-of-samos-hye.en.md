@@ -2,7 +2,7 @@
 name: Alexis of Samos
 name_greek: Ἀλέξις ὁ Σάμιος
 eul_aid: hye
-canonical: "https://eulogikon.org/en/alexis-of-samos"
+canonical: "https://eulogikon.org/authors/alexis-of-samos-hye"
 period: Hellenistic
 dialect: Ionic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀλέξις ὁ Σάμιος*
 
-**eul_aid:** `hye` · [HTML page](https://eulogikon.org/en/alexis-of-samos)
+**eul_aid:** `hye` · [HTML page](https://eulogikon.org/authors/alexis-of-samos-hye)
 
 Alexis of Samos, a Hellenistic historian of the 3rd century BCE. Fragments of his historical works. Free to read and download from the Greek library archive.
 

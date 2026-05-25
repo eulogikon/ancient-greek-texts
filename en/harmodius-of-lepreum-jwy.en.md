@@ -2,7 +2,7 @@
 name: Harmodius of Lepreum
 name_greek: Ἁρμόδιος ὁ Λεπρεάτης
 eul_aid: jwy
-canonical: "https://eulogikon.org/en/harmodius-of-lepreum"
+canonical: "https://eulogikon.org/authors/harmodius-of-lepreum-jwy"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἁρμόδιος ὁ Λεπρεάτης*
 
-**eul_aid:** `jwy` · [HTML page](https://eulogikon.org/en/harmodius-of-lepreum)
+**eul_aid:** `jwy` · [HTML page](https://eulogikon.org/authors/harmodius-of-lepreum-jwy)
 
 Harmodius of Lepreum, a 3rd century BCE Hellenistic historian. Surviving fragments of his works. Free to read and download from the Greek library archive.
 

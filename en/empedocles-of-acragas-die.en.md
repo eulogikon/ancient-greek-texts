@@ -2,7 +2,7 @@
 name: Empedocles of Acragas
 name_greek: Ἐμπεδοκλῆς ὁ Ἀκραγαντίνος
 eul_aid: die
-canonical: "https://eulogikon.org/en/empedocles-of-acragas"
+canonical: "https://eulogikon.org/authors/empedocles-of-acragas-die"
 period: Classical
 dialect: Doric
 affiliation: Presocratic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἐμπεδοκλῆς ὁ Ἀκραγαντίνος*
 
-**eul_aid:** `die` · [HTML page](https://eulogikon.org/en/empedocles-of-acragas)
+**eul_aid:** `die` · [HTML page](https://eulogikon.org/authors/empedocles-of-acragas-die)
 
 Empedocles, a presocratic philosopher from 5th century BCE Sicily. His surviving philosophical poems. Free to read and download from the Greek library archive.
 

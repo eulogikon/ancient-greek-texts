@@ -2,7 +2,7 @@
 name: Heliodorus the Alchemist and Poet
 name_greek: Ἡλιόδωρος ὁ Ἀλχημιστής καὶ Ποιητής
 eul_aid: sbq
-canonical: "https://eulogikon.org/en/heliodorus-the-alchemist"
+canonical: "https://eulogikon.org/authors/heliodorus-the-alchemist-sbq"
 period: Late Antique
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡλιόδωρος ὁ Ἀλχημιστής καὶ Ποιητής*
 
-**eul_aid:** `sbq` · [HTML page](https://eulogikon.org/en/heliodorus-the-alchemist)
+**eul_aid:** `sbq` · [HTML page](https://eulogikon.org/authors/heliodorus-the-alchemist-sbq)
 
 Heliodorus the Alchemist, a late antique writer of the 4th to 6th century CE. Alchemical poetic works. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Hippiatric Compilation Anonymous
 name_greek: Ἱππιατρικὰ τὰ ἀνώνυμα
 eul_aid: vjk
-canonical: "https://eulogikon.org/en/hippiatric-compilation-anonymous"
+canonical: "https://eulogikon.org/authors/hippiatric-compilation-anon-vjk"
 period: Late Antique
 dialect: Koine
 works_count: 10
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἱππιατρικὰ τὰ ἀνώνυμα*
 
-**eul_aid:** `vjk` · [HTML page](https://eulogikon.org/en/hippiatric-compilation-anonymous)
+**eul_aid:** `vjk` · [HTML page](https://eulogikon.org/authors/hippiatric-compilation-anon-vjk)
 
 Anonymous late antique compilation of veterinary medicine. Surviving works on horse care and treatment. Free to download from the Greek library archive.
 

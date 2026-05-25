@@ -2,7 +2,7 @@
 name: Epic Work Anonymous II
 name_greek: Ἐπικὸν ποίημα Ἄδηλον
 eul_aid: adm
-canonical: "https://eulogikon.org/en/epic-work-anonymous-ii"
+canonical: "https://eulogikon.org/authors/epic-work-anon-adm"
 period: Archaic
 dialect: Mixed Dialects
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἐπικὸν ποίημα Ἄδηλον*
 
-**eul_aid:** `adm` · [HTML page](https://eulogikon.org/en/epic-work-anonymous-ii)
+**eul_aid:** `adm` · [HTML page](https://eulogikon.org/authors/epic-work-anon-adm)
 
 Epic Work Anonymous II, an archaic Greek epic poem from the 8th to 4th centuries BCE. Read the surviving verses. Free to download from the Greek archive.
 

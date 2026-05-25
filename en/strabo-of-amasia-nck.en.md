@@ -2,7 +2,7 @@
 name: Strabo of Amasia
 name_greek: Στράβων ὁ Ἀμασεύς
 eul_aid: nck
-canonical: "https://eulogikon.org/en/strabo-of-amasia"
+canonical: "https://eulogikon.org/authors/strabo-of-amasia-nck"
 period: Hellenistic
 dialect: Koine
 works_count: 4
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Στράβων ὁ Ἀμασεύς*
 
-**eul_aid:** `nck` · [HTML page](https://eulogikon.org/en/strabo-of-amasia)
+**eul_aid:** `nck` · [HTML page](https://eulogikon.org/authors/strabo-of-amasia-nck)
 
 Strabo of Amasia, Hellenistic geographer. Surviving works include his extensive Geography. Free to read and download from the Greek library archive.
 

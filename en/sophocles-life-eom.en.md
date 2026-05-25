@@ -2,7 +2,7 @@
 name: Sophocles Life
 name_greek: Σοφοκλέους Βίος
 eul_aid: eom
-canonical: "https://eulogikon.org/en/sophocles-life"
+canonical: "https://eulogikon.org/authors/sophocles-life-eom"
 period: Classical
 dialect: Atticizing Literary
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σοφοκλέους Βίος*
 
-**eul_aid:** `eom` · [HTML page](https://eulogikon.org/en/sophocles-life)
+**eul_aid:** `eom` · [HTML page](https://eulogikon.org/authors/sophocles-life-eom)
 
 Sophocles, the great Athenian tragedian of the 5th century BCE. Works include Oedipus and Antigone. Free to read and download from the Greek library archive.
 

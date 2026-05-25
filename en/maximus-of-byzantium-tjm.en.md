@@ -2,7 +2,7 @@
 name: Maximus of Byzantium
 name_greek: Μάξιμος ὁ Βυζάντιος
 eul_aid: tjm
-canonical: "https://eulogikon.org/en/maximus-of-byzantium"
+canonical: "https://eulogikon.org/authors/maximus-of-byzantium-tjm"
 period: Late Antique
 dialect: Byzantine Greek
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μάξιμος ὁ Βυζάντιος*
 
-**eul_aid:** `tjm` · [HTML page](https://eulogikon.org/en/maximus-of-byzantium)
+**eul_aid:** `tjm` · [HTML page](https://eulogikon.org/authors/maximus-of-byzantium-tjm)
 
 Maximus of Byzantium Late Antique orator writing in Byzantine Greeksurviving oration is available in the original text. Free to read and download from Eulogikon
 

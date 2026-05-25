@@ -2,7 +2,7 @@
 name: Diodorus of Sinope
 name_greek: Διόδωρος ὁ Σινωπεύς
 eul_aid: jdi
-canonical: "https://eulogikon.org/en/diodorus-of-sinope"
+canonical: "https://eulogikon.org/authors/diodorus-of-sinope-jdi"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διόδωρος ὁ Σινωπεύς*
 
-**eul_aid:** `jdi` · [HTML page](https://eulogikon.org/en/diodorus-of-sinope)
+**eul_aid:** `jdi` · [HTML page](https://eulogikon.org/authors/diodorus-of-sinope-jdi)
 
 Diodorus of Sinope was a Hellenistic playwright of New Comedy. Two fragmentary works survive. Free to read and download from the Greek library archive.
 

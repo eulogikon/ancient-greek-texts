@@ -2,7 +2,7 @@
 name: Herodian of Antioch
 name_greek: Ἡρωδιανός ὁ Ἀντιοχεύς
 eul_aid: qzy
-canonical: "https://eulogikon.org/en/herodian-of-antioch"
+canonical: "https://eulogikon.org/authors/herodian-of-antioch-qzy"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡρωδιανός ὁ Ἀντιοχεύς*
 
-**eul_aid:** `qzy` · [HTML page](https://eulogikon.org/en/herodian-of-antioch)
+**eul_aid:** `qzy` · [HTML page](https://eulogikon.org/authors/herodian-of-antioch-qzy)
 
 Herodian of Antioch was a Roman historian of the 3rd century CE. His surviving work is a history of the Roman Empire. Free to download from the Greek archive.
 

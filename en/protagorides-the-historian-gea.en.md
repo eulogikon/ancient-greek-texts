@@ -2,7 +2,7 @@
 name: Protagorides the Historian
 name_greek: Προταγορίδης ὁ Ἱστορικός
 eul_aid: gea
-canonical: "https://eulogikon.org/en/protagorides-the-historian"
+canonical: "https://eulogikon.org/authors/protagorides-the-historian-gea"
 period: Classical
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Προταγορίδης ὁ Ἱστορικός*
 
-**eul_aid:** `gea` · [HTML page](https://eulogikon.org/en/protagorides-the-historian)
+**eul_aid:** `gea` · [HTML page](https://eulogikon.org/authors/protagorides-the-historian-gea)
 
 Protagorides the Historian, a 4th century BCE Attic historian. Surviving fragments of historical prose. Free to download from the Greek library archive.
 

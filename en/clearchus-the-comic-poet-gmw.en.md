@@ -2,7 +2,7 @@
 name: Clearchus the Comic Poet
 name_greek: Κλέαρχος ὁ Κωμικός
 eul_aid: gmw
-canonical: "https://eulogikon.org/en/clearchus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/clearchus-the-comic-poet-gmw"
 period: Classical
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,14 +13,14 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κλέαρχος ὁ Κωμικός*
 
-**eul_aid:** `gmw` · [HTML page](https://eulogikon.org/en/clearchus-the-comic-poet)
+**eul_aid:** `gmw` · [HTML page](https://eulogikon.org/authors/clearchus-the-comic-poet-gmw)
 
 Clearchus was a 4th century BCE Attic comic poet. Surviving fragments of his comedies are preserved. Free to read and download from the Greek library archive.
 
 ## Works
 
-- [Symposium and Drinking Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet-symposium-drinking-aa-gmw-aa.grc.md) — *Ἀποσπάσματα* · `gmw-aa`
 - [Symposium and Drinking Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet-symposium-drinking-ab-gmw-ab.grc.md) — *Ἀποσπάσματα* · `gmw-ab`
+- [Symposium and Drinking Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet-symposium-drinking-aa-gmw-aa.grc.md) — *Ἀποσπάσματα* · `gmw-aa`
 
 ## License and provenance
 

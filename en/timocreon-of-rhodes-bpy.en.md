@@ -2,7 +2,7 @@
 name: Timocreon of Rhodes
 name_greek: Τιμοκρέων ὁ Ῥόδιος
 eul_aid: bpy
-canonical: "https://eulogikon.org/en/timocreon-of-rhodes"
+canonical: "https://eulogikon.org/authors/timocreon-of-rhodes-bpy"
 period: Classical
 dialect: Doric (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τιμοκρέων ὁ Ῥόδιος*
 
-**eul_aid:** `bpy` · [HTML page](https://eulogikon.org/en/timocreon-of-rhodes)
+**eul_aid:** `bpy` · [HTML page](https://eulogikon.org/authors/timocreon-of-rhodes-bpy)
 
 Timocreon of Rhodes was a 5th century BCE lyric poet. His poetic fragments are preserved. Free to read and download from the Greek library archive.
 

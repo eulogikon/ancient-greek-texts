@@ -2,7 +2,7 @@
 name: Antiphon of Athens
 name_greek: Ἀντιφῶν ὁ Ἀθηναῖος
 eul_aid: bqs
-canonical: "https://eulogikon.org/en/antiphon-of-athens"
+canonical: "https://eulogikon.org/authors/antiphon-of-athens-bqs"
 period: Classical
 dialect: Attic
 affiliation: Sophist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀντιφῶν ὁ Ἀθηναῖος*
 
-**eul_aid:** `bqs` · [HTML page](https://eulogikon.org/en/antiphon-of-athens)
+**eul_aid:** `bqs` · [HTML page](https://eulogikon.org/authors/antiphon-of-athens-bqs)
 
 Antiphon, Athenian sophist and speechwriter of the 5th century BCE. Nine surviving legal orations. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Philippus of Theangela
 name_greek: Φίλιππος ὁ Θεαγγελεύς
 eul_aid: hoy
-canonical: "https://eulogikon.org/en/philippus-of-theangela"
+canonical: "https://eulogikon.org/authors/philippus-of-theangela-hoy"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φίλιππος ὁ Θεαγγελεύς*
 
-**eul_aid:** `hoy` · [HTML page](https://eulogikon.org/en/philippus-of-theangela)
+**eul_aid:** `hoy` · [HTML page](https://eulogikon.org/authors/philippus-of-theangela-hoy)
 
 Philippus of Theangela, a Hellenistic historian of the 4th-3rd century BCE. His historical work survives in fragments. Free to download from the Greek archive.
 

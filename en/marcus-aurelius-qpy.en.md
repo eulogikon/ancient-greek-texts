@@ -2,7 +2,7 @@
 name: Marcus Aurelius the Stoic Philosopher
 name_greek: Μᾶρκος Αὐρήλιος ὁ Στωϊκός
 eul_aid: qpy
-canonical: "https://eulogikon.org/en/marcus-aurelius"
+canonical: "https://eulogikon.org/authors/marcus-aurelius-emperor-qpy"
 period: Roman
 dialect: Philosophical Koine
 affiliation: Stoic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μᾶρκος Αὐρήλιος ὁ Στωϊκός*
 
-**eul_aid:** `qpy` · [HTML page](https://eulogikon.org/en/marcus-aurelius)
+**eul_aid:** `qpy` · [HTML page](https://eulogikon.org/authors/marcus-aurelius-emperor-qpy)
 
 Marcus Aurelius, Roman emperor and Stoic philosopher. His Meditations is a philosophical treatise. Free to read and download from the Greek library archive.
 

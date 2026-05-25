@@ -2,7 +2,7 @@
 name: Basilides of Alexandria
 name_greek: Βασιλείδης ὁ Ἀλεξανδρεύς
 eul_aid: pdw
-canonical: "https://eulogikon.org/en/basilides-of-alexandria"
+canonical: "https://eulogikon.org/authors/basilides-of-alexandria-pdw"
 period: Roman
 dialect: Christian Koine
 affiliation: Gnostic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Βασιλείδης ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `pdw` · [HTML page](https://eulogikon.org/en/basilides-of-alexandria)
+**eul_aid:** `pdw` · [HTML page](https://eulogikon.org/authors/basilides-of-alexandria-pdw)
 
 Basilides of Alexandria, a 2nd century Gnostic teacher. Surviving fragments of his teachings. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Myronianus of Amastris
 name_greek: Μυρωνιανός ὁ Ἀμαστριανός
 eul_aid: ova
-canonical: "https://eulogikon.org/en/myronianus-of-amastris"
+canonical: "https://eulogikon.org/authors/myronianus-of-amastris-ova"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μυρωνιανός ὁ Ἀμαστριανός*
 
-**eul_aid:** `ova` · [HTML page](https://eulogikon.org/en/myronianus-of-amastris)
+**eul_aid:** `ova` · [HTML page](https://eulogikon.org/authors/myronianus-of-amastris-ova)
 
 Myronianus of Amastris was a Roman era historian writing in Koine Greek. Surviving historical works. Free to read and download from the Greek library archive.
 

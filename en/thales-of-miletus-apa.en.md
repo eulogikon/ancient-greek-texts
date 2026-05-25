@@ -2,7 +2,7 @@
 name: Thales of Miletus
 name_greek: Θαλῆς ὁ Μιλήσιος
 eul_aid: apa
-canonical: "https://eulogikon.org/en/thales-of-miletus"
+canonical: "https://eulogikon.org/authors/thales-of-miletus-apa"
 period: Archaic
 dialect: Ionic
 affiliation: Milesian
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θαλῆς ὁ Μιλήσιος*
 
-**eul_aid:** `apa` · [HTML page](https://eulogikon.org/en/thales-of-miletus)
+**eul_aid:** `apa` · [HTML page](https://eulogikon.org/authors/thales-of-miletus-apa)
 
 Thales of Miletus, foundational Ionian philosopher and astronomer. Includes philosophical fragments. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Nicias of Athens
 name_greek: Νικίας ὁ Ἀθηναῖος
 eul_aid: dkw
-canonical: "https://eulogikon.org/en/nicias-of-athens"
+canonical: "https://eulogikon.org/authors/nicias-of-athens-dkw"
 period: Classical
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Νικίας ὁ Ἀθηναῖος*
 
-**eul_aid:** `dkw` · [HTML page](https://eulogikon.org/en/nicias-of-athens)
+**eul_aid:** `dkw` · [HTML page](https://eulogikon.org/authors/nicias-of-athens-dkw)
 
 Nicias, Athenian general and statesman of the 5th century BCE. Surviving works include an epistle. Free to read and download from the Greek library archive.
 

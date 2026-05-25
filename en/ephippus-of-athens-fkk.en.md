@@ -2,7 +2,7 @@
 name: Ephippus of Athens the Comic Poet
 name_greek: Ἔφιππος ὁ Ἀθηναῖος
 eul_aid: fkk
-canonical: "https://eulogikon.org/en/ephippus-of-athens"
+canonical: "https://eulogikon.org/authors/ephippus-of-athens-fkk"
 period: Classical
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἔφιππος ὁ Ἀθηναῖος*
 
-**eul_aid:** `fkk` · [HTML page](https://eulogikon.org/en/ephippus-of-athens)
+**eul_aid:** `fkk` · [HTML page](https://eulogikon.org/authors/ephippus-of-athens-fkk)
 
 Ephippus of Athens was a 4th century BCE Attic comic poet. Surviving fragments from his comedies. Free to read and download from the Greek library archive.
 

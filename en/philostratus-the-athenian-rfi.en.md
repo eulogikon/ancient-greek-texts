@@ -2,7 +2,7 @@
 name: Philostratus the Athenian
 name_greek: Φιλόστρατος ὁ Ἀθηναῖος
 eul_aid: rfi
-canonical: "https://eulogikon.org/en/philostratus-the-athenian"
+canonical: "https://eulogikon.org/authors/philostratus-the-athenian-rfi"
 period: Roman
 dialect: Atticizing Literary
 works_count: 7
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φιλόστρατος ὁ Ἀθηναῖος*
 
-**eul_aid:** `rfi` · [HTML page](https://eulogikon.org/en/philostratus-the-athenian)
+**eul_aid:** `rfi` · [HTML page](https://eulogikon.org/authors/philostratus-the-athenian-rfi)
 
 Philostratus the Athenian, a Greek orator of the Second Sophistic. Seven surviving works and letters. Free to read and download from the Greek library archive.
 

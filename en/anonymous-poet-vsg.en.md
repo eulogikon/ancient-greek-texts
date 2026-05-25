@@ -2,7 +2,7 @@
 name: Poet  Anonymous
 name_greek: Ἄγνωστος
 eul_aid: vsg
-canonical: "https://eulogikon.org/en/anonymous-poet"
+canonical: "https://eulogikon.org/authors/poet-anon-vsg"
 period: Late Antique
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἄγνωστος*
 
-**eul_aid:** `vsg` · [HTML page](https://eulogikon.org/en/anonymous-poet)
+**eul_aid:** `vsg` · [HTML page](https://eulogikon.org/authors/poet-anon-vsg)
 
 Anonymous poet from the Late Antique Byzantine period writing in Koine Greek. One surviving poetic work. Free to read and download from the Greek library.
 

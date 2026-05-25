@@ -2,7 +2,7 @@
 name: Aresas of Lucania
 name_greek: Ἀρέσας ὁ Λευκανός
 eul_aid: dck
-canonical: "https://eulogikon.org/en/aresas-of-lucania"
+canonical: "https://eulogikon.org/authors/aresas-of-lucania-dck"
 period: Classical
 dialect: "Doric (phi, frg)"
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρέσας ὁ Λευκανός*
 
-**eul_aid:** `dck` · [HTML page](https://eulogikon.org/en/aresas-of-lucania)
+**eul_aid:** `dck` · [HTML page](https://eulogikon.org/authors/aresas-of-lucania-dck)
 
 Aresas of Lucania was a 5th century BCE Pythagorean philosopher. Surviving fragments of his treatise. Free to read and download from the Greek library archive.
 

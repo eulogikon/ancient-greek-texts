@@ -2,7 +2,7 @@
 name: Biographer Anonymous
 name_greek: Ἄγνωστος Βιογράφος
 eul_aid: nti
-canonical: "https://eulogikon.org/en/anonymous-biographer"
+canonical: "https://eulogikon.org/authors/biographer-anon-nti"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἄγνωστος Βιογράφος*
 
-**eul_aid:** `nti` · [HTML page](https://eulogikon.org/en/anonymous-biographer)
+**eul_aid:** `nti` · [HTML page](https://eulogikon.org/authors/biographer-anon-nti)
 
 Anonymous Biographer, a Roman era writer of the 1st to 6th century CE. Koine Greek biographical prose. Free to read and download from the Greek library archive.
 

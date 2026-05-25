@@ -2,7 +2,7 @@
 name: Aristocreon the Historian
 name_greek: Ἀριστοκρέων ὁ ἱστορικός
 eul_aid: ere
-canonical: "https://eulogikon.org/en/aristocreon-the-historian"
+canonical: "https://eulogikon.org/authors/aristocreon-the-historian-ere"
 period: Classical
 dialect: Ionic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀριστοκρέων ὁ ἱστορικός*
 
-**eul_aid:** `ere` · [HTML page](https://eulogikon.org/en/aristocreon-the-historian)
+**eul_aid:** `ere` · [HTML page](https://eulogikon.org/authors/aristocreon-the-historian-ere)
 
 Aristocreon the Historian, a 5th century BCE Ionic historian. Surviving fragments of historical prose. Free to read and download from the Greek library archive.
 

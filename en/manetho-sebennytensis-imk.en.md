@@ -2,7 +2,7 @@
 name: Manetho Sebennytensis
 name_greek: Μανέθων ὁ Σεβεννυτηνός
 eul_aid: imk
-canonical: "https://eulogikon.org/en/manetho-sebennytensis"
+canonical: "https://eulogikon.org/authors/manetho-sebennytensis-imk"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μανέθων ὁ Σεβεννυτηνός*
 
-**eul_aid:** `imk` · [HTML page](https://eulogikon.org/en/manetho-sebennytensis)
+**eul_aid:** `imk` · [HTML page](https://eulogikon.org/authors/manetho-sebennytensis-imk)
 
 Manetho was an Egyptian priest and historian of the 3rd century BCE. His surviving work is the Aegyptiaca. Free to read and download from the Greek archive.
 

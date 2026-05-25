@@ -2,7 +2,7 @@
 name: Deiochus the Historian
 name_greek: Δηίοχος ὁ Ἱστορικός
 eul_aid: epq
-canonical: "https://eulogikon.org/en/deiochus-the-historian"
+canonical: "https://eulogikon.org/authors/deiochus-the-historian-epq"
 period: Classical
 dialect: Attic (frg)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δηίοχος ὁ Ἱστορικός*
 
-**eul_aid:** `epq` · [HTML page](https://eulogikon.org/en/deiochus-the-historian)
+**eul_aid:** `epq` · [HTML page](https://eulogikon.org/authors/deiochus-the-historian-epq)
 
 Deiochus, a 4th century BCE classical Greek historian. Surviving fragments of his historical works. Free to read and download from the Greek library archive.
 

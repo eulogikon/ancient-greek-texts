@@ -2,7 +2,7 @@
 name: Sotion of Alexandria
 name_greek: Σωτίων ὁ Ἀλεξανδρεύς
 eul_aid: kvy
-canonical: "https://eulogikon.org/en/sotion-of-alexandria"
+canonical: "https://eulogikon.org/authors/sotion-of-alexandria-kvy"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σωτίων ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `kvy` · [HTML page](https://eulogikon.org/en/sotion-of-alexandria)
+**eul_aid:** `kvy` · [HTML page](https://eulogikon.org/authors/sotion-of-alexandria-kvy)
 
 Sotion of Alexandria was a Hellenistic historian. His surviving works are preserved as fragments. Free to read and download from the Greek library archive.
 

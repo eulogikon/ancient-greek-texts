@@ -2,7 +2,7 @@
 name: Cleitarchus the Historian
 name_greek: Κλείταρχος ὁ ἱστορικός
 eul_aid: hyo
-canonical: "https://eulogikon.org/en/cleitarchus-the-historian"
+canonical: "https://eulogikon.org/authors/cleitarchus-the-historian-hyo"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κλείταρχος ὁ ἱστορικός*
 
-**eul_aid:** `hyo` · [HTML page](https://eulogikon.org/en/cleitarchus-the-historian)
+**eul_aid:** `hyo` · [HTML page](https://eulogikon.org/authors/cleitarchus-the-historian-hyo)
 
 Cleitarchus, a Hellenistic historian of 4th century BCE. Surviving historical works from the ancient Greek tradition. Free to download from the Greek archive.
 

@@ -2,7 +2,7 @@
 name: Marinus of Neapolis
 name_greek: Μαρῖνος ὁ Νεαπολίτης
 eul_aid: tsi
-canonical: "https://eulogikon.org/en/marinus-of-neapolis"
+canonical: "https://eulogikon.org/authors/marinus-of-neapolis-tsi"
 period: Late Antique
 dialect: Philosophical Koine
 affiliation: Neoplatonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μαρῖνος ὁ Νεαπολίτης*
 
-**eul_aid:** `tsi` · [HTML page](https://eulogikon.org/en/marinus-of-neapolis)
+**eul_aid:** `tsi` · [HTML page](https://eulogikon.org/authors/marinus-of-neapolis-tsi)
 
 Marinus of Neapolis, a 5th century Neoplatonic philosopher. Surviving treatise: Life of Proclus. Free to read and download from the Greek library archive.
 

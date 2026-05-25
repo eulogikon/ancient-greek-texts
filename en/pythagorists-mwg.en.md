@@ -2,7 +2,7 @@
 name: Pythagorist Philosophers
 name_greek: οἱ Πυθαγορισταί
 eul_aid: mwg
-canonical: "https://eulogikon.org/en/pythagorists"
+canonical: "https://eulogikon.org/authors/pythagorist-philosophers-mwg"
 period: Hellenistic
 dialect: Doric
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *οἱ Πυθαγορισταί*
 
-**eul_aid:** `mwg` · [HTML page](https://eulogikon.org/en/pythagorists)
+**eul_aid:** `mwg` · [HTML page](https://eulogikon.org/authors/pythagorist-philosophers-mwg)
 
 Pythagorist Philosophers were Hellenistic thinkers. Their surviving works include philosophical texts. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Carneiscus the Epicurean
 name_greek: Καρνεῖσκος ὁ Ἐπικούρειος
 eul_aid: ibg
-canonical: "https://eulogikon.org/en/carneiscus-the-epicurean"
+canonical: "https://eulogikon.org/authors/carneiscus-the-epicurean-ibg"
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 affiliation: Epicurean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Καρνεῖσκος ὁ Ἐπικούρειος*
 
-**eul_aid:** `ibg` · [HTML page](https://eulogikon.org/en/carneiscus-the-epicurean)
+**eul_aid:** `ibg` · [HTML page](https://eulogikon.org/authors/carneiscus-the-epicurean-ibg)
 
 Carneiscus, a 3rd century BCE Epicurean philosopher. Two surviving treatises are preserved. Free to read and download from the Greek library archive.
 

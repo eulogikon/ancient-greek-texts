@@ -2,7 +2,7 @@
 name: Crito of Pieria
 name_greek: Κρίτων ὁ Πιεριώτης
 eul_aid: lfe
-canonical: "https://eulogikon.org/en/crito-of-pieria"
+canonical: "https://eulogikon.org/authors/crito-of-pieria-lfe"
 period: Hellenistic
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κρίτων ὁ Πιεριώτης*
 
-**eul_aid:** `lfe` · [HTML page](https://eulogikon.org/en/crito-of-pieria)
+**eul_aid:** `lfe` · [HTML page](https://eulogikon.org/authors/crito-of-pieria-lfe)
 
 Crito of Pieria, a 5th century BCE historian. His surviving works are preserved in fragments. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Agathon of Athens
 name_greek: Ἀγάθων Ἀθηναῖος
 eul_aid: eaq
-canonical: "https://eulogikon.org/en/agathon-of-athens"
+canonical: "https://eulogikon.org/authors/agathon-of-athens-eaq"
 period: Classical
 dialect: Attic Drama
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀγάθων Ἀθηναῖος*
 
-**eul_aid:** `eaq` · [HTML page](https://eulogikon.org/en/agathon-of-athens)
+**eul_aid:** `eaq` · [HTML page](https://eulogikon.org/authors/agathon-of-athens-eaq)
 
 Agathon was a classical Athenian tragedian of the 5th century BCE. His dramatic fragments survive. Free to read and download from the Greek library archive.
 

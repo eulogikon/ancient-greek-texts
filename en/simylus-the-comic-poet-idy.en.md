@@ -2,7 +2,7 @@
 name: Simylus the Comic Poet
 name_greek: Σίμυλος ὁ Κωμικός
 eul_aid: idy
-canonical: "https://eulogikon.org/en/simylus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/simylus-the-comic-poet-idy"
 period: Hellenistic
 dialect: Attic Comedy
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σίμυλος ὁ Κωμικός*
 
-**eul_aid:** `idy` · [HTML page](https://eulogikon.org/en/simylus-the-comic-poet)
+**eul_aid:** `idy` · [HTML page](https://eulogikon.org/authors/simylus-the-comic-poet-idy)
 
 Simylus was a Hellenistic era poet of Attic comedy. Surviving fragments of his work are available. Free to read and download from the Greek library archive.
 

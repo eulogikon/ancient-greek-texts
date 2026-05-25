@@ -2,7 +2,7 @@
 name: Eurytus the Pythagorean
 name_greek: Εὔρυτος ὁ Πυθαγόρειος
 eul_aid: eyw
-canonical: "https://eulogikon.org/en/eurytus-the-pythagorean"
+canonical: "https://eulogikon.org/authors/eurytus-the-pythagorean-eyw"
 period: Classical
 dialect: Doric
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Εὔρυτος ὁ Πυθαγόρειος*
 
-**eul_aid:** `eyw` · [HTML page](https://eulogikon.org/en/eurytus-the-pythagorean)
+**eul_aid:** `eyw` · [HTML page](https://eulogikon.org/authors/eurytus-the-pythagorean-eyw)
 
 Eurytus was a 5th century BCE Pythagorean philosopher. Two surviving works from student of Philolaus. Free to read and download from the Greek library archive.
 

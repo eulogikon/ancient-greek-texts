@@ -2,7 +2,7 @@
 name: Damigeron the Magus
 name_greek: Δαμίγηρον ὁ Μάγος
 eul_aid: uka
-canonical: "https://eulogikon.org/en/damigeron-the-magus"
+canonical: "https://eulogikon.org/authors/damigeron-the-magus-uka"
 period: Late Antique
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δαμίγηρον ὁ Μάγος*
 
-**eul_aid:** `uka` · [HTML page](https://eulogikon.org/en/damigeron-the-magus)
+**eul_aid:** `uka` · [HTML page](https://eulogikon.org/authors/damigeron-the-magus-uka)
 
 Damigeron the Magus, a late antique writer on magical topics. Explores the properties of stones. Free to read and download from the Greek library archive.
 

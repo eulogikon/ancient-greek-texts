@@ -2,7 +2,7 @@
 name: Menander the Rhetorician of Laodicea
 name_greek: Μένανδρος ὁ Λαοδικεύς Ῥήτωρ
 eul_aid: ufu
-canonical: "https://eulogikon.org/en/menander-of-laodicea"
+canonical: "https://eulogikon.org/authors/menander-the-rhetorician-ufu"
 period: Late Antique
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μένανδρος ὁ Λαοδικεύς Ῥήτωρ*
 
-**eul_aid:** `ufu` · [HTML page](https://eulogikon.org/en/menander-of-laodicea)
+**eul_aid:** `ufu` · [HTML page](https://eulogikon.org/authors/menander-the-rhetorician-ufu)
 
 Menander the Rhetorician of Laodicea, a Late Antique orator of the 3rd–4th century. Two orations survive. Free to download from the Greek library archive.
 

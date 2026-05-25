@@ -2,7 +2,7 @@
 name: Dio Chrysostom of Prusa
 name_greek: Δίων ὁ Προυσαεύς ὁ Χρυσόστομος
 eul_aid: okq
-canonical: "https://eulogikon.org/en/dio-chrysostom"
+canonical: "https://eulogikon.org/authors/dio-chrysostom-of-prusa-okq"
 period: Roman
 dialect: Atticizing
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δίων ὁ Προυσαεύς ὁ Χρυσόστομος*
 
-**eul_aid:** `okq` · [HTML page](https://eulogikon.org/en/dio-chrysostom)
+**eul_aid:** `okq` · [HTML page](https://eulogikon.org/authors/dio-chrysostom-of-prusa-okq)
 
 Dio Chrysostom, Greek orator and philosopher. Surviving works include moral and political orations. Free to read and download from the Greek library archive.
 

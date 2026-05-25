@@ -2,7 +2,7 @@
 name: Crates of Thebes I
 name_greek: Κράτης ὁ Θηβαῖος
 eul_aid: gwc
-canonical: "https://eulogikon.org/en/crates-of-thebes-i"
+canonical: "https://eulogikon.org/authors/crates-of-thebes-gwc"
 period: Classical
 dialect: Koine
 affiliation: Cynic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κράτης ὁ Θηβαῖος*
 
-**eul_aid:** `gwc` · [HTML page](https://eulogikon.org/en/crates-of-thebes-i)
+**eul_aid:** `gwc` · [HTML page](https://eulogikon.org/authors/crates-of-thebes-gwc)
 
 Crates of Thebes, principal Cynic philosopher of the 4th century BCE. Surviving epistles and fragments. Free to read and download from the Greek library.
 

@@ -2,7 +2,7 @@
 name: Voyage of Hanno the Navigator
 name_greek: Ὁ περίπλους Ἁννῶνος τοῦ Ναυάρχου
 eul_aid: ens
-canonical: "https://eulogikon.org/en/hanno-the-navigator"
+canonical: "https://eulogikon.org/authors/voyage-of-hanno-the-navigator-ens"
 period: Classical
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ὁ περίπλους Ἁννῶνος τοῦ Ναυάρχου*
 
-**eul_aid:** `ens` · [HTML page](https://eulogikon.org/en/hanno-the-navigator)
+**eul_aid:** `ens` · [HTML page](https://eulogikon.org/authors/voyage-of-hanno-the-navigator-ens)
 
 Hanno the Navigator, Carthaginian explorer of the 5th century BCE. Author of the Periplus. Free to read and download from the Greek library archive.
 

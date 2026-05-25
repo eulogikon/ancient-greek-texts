@@ -2,7 +2,7 @@
 name: Telecleides Comicus
 name_greek: Τηλεκλείδης ὁ Κωμικός
 eul_aid: edi
-canonical: "https://eulogikon.org/en/telecleides-the-comic-poet"
+canonical: "https://eulogikon.org/authors/telecleides-comicus-edi"
 period: Classical
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τηλεκλείδης ὁ Κωμικός*
 
-**eul_aid:** `edi` · [HTML page](https://eulogikon.org/en/telecleides-the-comic-poet)
+**eul_aid:** `edi` · [HTML page](https://eulogikon.org/authors/telecleides-comicus-edi)
 
 Telecleides was an Athenian comic playwright of Old Comedy in the 5th century BCE. Fragments survive. Free to read and download from the Greek library archive.
 

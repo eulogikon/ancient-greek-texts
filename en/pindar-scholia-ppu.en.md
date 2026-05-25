@@ -2,7 +2,7 @@
 name: Pindar Commentary
 name_greek: Πινδαρικὴ ὑπόμνησις
 eul_aid: ppu
-canonical: "https://eulogikon.org/en/pindar-scholia"
+canonical: "https://eulogikon.org/authors/pindar-commentary-ppu"
 period: Roman
 dialect: Atticizing
 works_count: 7
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πινδαρικὴ ὑπόμνησις*
 
-**eul_aid:** `ppu` · [HTML page](https://eulogikon.org/en/pindar-scholia)
+**eul_aid:** `ppu` · [HTML page](https://eulogikon.org/authors/pindar-commentary-ppu)
 
 Ancient commentaries explaining Pindar's lyric poetry. Seven surviving works of grammatical analysis. Free to read and download from the Greek library archive.
 

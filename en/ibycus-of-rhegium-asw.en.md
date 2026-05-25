@@ -2,7 +2,7 @@
 name: Ibycus of Rhegium
 name_greek: Ἴβυκος ὁ Ῥηγῖνος
 eul_aid: asw
-canonical: "https://eulogikon.org/en/ibycus-of-rhegium"
+canonical: "https://eulogikon.org/authors/ibycus-of-rhegium-asw"
 period: Archaic
 dialect: Epic (Homeric) (frg)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἴβυκος ὁ Ῥηγῖνος*
 
-**eul_aid:** `asw` · [HTML page](https://eulogikon.org/en/ibycus-of-rhegium)
+**eul_aid:** `asw` · [HTML page](https://eulogikon.org/authors/ibycus-of-rhegium-asw)
 
 Ibycus of Rhegium, 6th century BCE Greek poet. Surviving poetic fragments in the Homeric epic dialect. Free to read and download from the Greek library archive.
 

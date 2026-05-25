@@ -2,7 +2,7 @@
 name: Dictys Cretensis
 name_greek: Δίκτυς ὁ Κρής
 eul_aid: otc
-canonical: "https://eulogikon.org/en/dictys-cretensis"
+canonical: "https://eulogikon.org/authors/dictys-cretensis-otc"
 period: Roman
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δίκτυς ὁ Κρής*
 
-**eul_aid:** `otc` · [HTML page](https://eulogikon.org/en/dictys-cretensis)
+**eul_aid:** `otc` · [HTML page](https://eulogikon.org/authors/dictys-cretensis-otc)
 
 Dictys Cretensis, a Roman era historian writing in Koine Greek. Two surviving historical works. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Heliodorus of Emesa
 name_greek: Ἡλιόδωρος ὁ Ἐμεσηνός
 eul_aid: sru
-canonical: "https://eulogikon.org/en/heliodorus-of-emesa"
+canonical: "https://eulogikon.org/authors/heliodorus-of-emesa-sru"
 period: Late Antique
 dialect: Atticizing Literary
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡλιόδωρος ὁ Ἐμεσηνός*
 
-**eul_aid:** `sru` · [HTML page](https://eulogikon.org/en/heliodorus-of-emesa)
+**eul_aid:** `sru` · [HTML page](https://eulogikon.org/authors/heliodorus-of-emesa-sru)
 
 Heliodorus of Emesa, a Late Antique author of the 3rd–4th century CE. Author of surviving Atticizing fiction. Free to download from the Greek library archive.
 

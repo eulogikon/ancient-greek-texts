@@ -2,7 +2,7 @@
 name: Pythaenetus the Historian
 name_greek: Πυθαίνετος ὁ ἱστορικός
 eul_aid: awi
-canonical: "https://eulogikon.org/en/pythaenetus-the-historian"
+canonical: "https://eulogikon.org/authors/pythaenetus-the-historian-awi"
 period: Archaic
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πυθαίνετος ὁ ἱστορικός*
 
-**eul_aid:** `awi` · [HTML page](https://eulogikon.org/en/pythaenetus-the-historian)
+**eul_aid:** `awi` · [HTML page](https://eulogikon.org/authors/pythaenetus-the-historian-awi)
 
 Pythaenetus the Historian, a 5th-4th century BCE Greek historian. Surviving fragments of his works. Free to read and download from the Greek library archive.
 

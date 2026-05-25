@@ -2,7 +2,7 @@
 name: Sopater of Athens
 name_greek: Σώπατρος ὁ Ἀθηναῖος
 eul_aid: spc
-canonical: "https://eulogikon.org/en/sopater-of-athens"
+canonical: "https://eulogikon.org/authors/sopater-of-athens-spc"
 period: Late Antique
 dialect: Atticizing
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σώπατρος ὁ Ἀθηναῖος*
 
-**eul_aid:** `spc` · [HTML page](https://eulogikon.org/en/sopater-of-athens)
+**eul_aid:** `spc` · [HTML page](https://eulogikon.org/authors/sopater-of-athens-spc)
 
 Sopater of Athens was a 4th century CE orator writing in Atticizing Greek. Three orations survive. Free to read and download from the Greek library archive.
 

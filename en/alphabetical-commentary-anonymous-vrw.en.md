@@ -2,7 +2,7 @@
 name: Alphabetical Commentary
 name_greek: Ἀλφαβητικὸν ὑπόμνημα
 eul_aid: vrw
-canonical: "https://eulogikon.org/en/alphabetical-commentary-anonymous"
+canonical: "https://eulogikon.org/authors/alphabetical-commentary-vrw"
 period: Late Antique
 dialect: Technical Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀλφαβητικὸν ὑπόμνημα*
 
-**eul_aid:** `vrw` · [HTML page](https://eulogikon.org/en/alphabetical-commentary-anonymous)
+**eul_aid:** `vrw` · [HTML page](https://eulogikon.org/authors/alphabetical-commentary-vrw)
 
 Alphabetical Commentary Late Antique grammarian writing in Technical Koine.Works include a grammatical treatise. Free to read and download from Eulogikon
 

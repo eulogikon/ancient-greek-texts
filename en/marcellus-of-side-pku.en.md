@@ -2,7 +2,7 @@
 name: Marcellus of Side
 name_greek: Μάρκελλος ὁ Σιδήτης
 eul_aid: pku
-canonical: "https://eulogikon.org/en/marcellus-of-side"
+canonical: "https://eulogikon.org/authors/marcellus-of-side-pku"
 period: Roman
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μάρκελλος ὁ Σιδήτης*
 
-**eul_aid:** `pku` · [HTML page](https://eulogikon.org/en/marcellus-of-side)
+**eul_aid:** `pku` · [HTML page](https://eulogikon.org/authors/marcellus-of-side-pku)
 
 Marcellus of Side, a 2nd century CE Roman era poet. Surviving works include fragmentary Greek verse. Free to read and download from the Greek library archive.
 

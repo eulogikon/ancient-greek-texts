@@ -2,7 +2,7 @@
 name: Gaius Acilius the Historian
 name_greek: Γάϊος Ἀκίλιος ὁ Ἱστορικός
 eul_aid: lyu
-canonical: "https://eulogikon.org/en/gaius-acilius-the-historian"
+canonical: "https://eulogikon.org/authors/gaius-acilius-the-historian-lyu"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Γάϊος Ἀκίλιος ὁ Ἱστορικός*
 
-**eul_aid:** `lyu` · [HTML page](https://eulogikon.org/en/gaius-acilius-the-historian)
+**eul_aid:** `lyu` · [HTML page](https://eulogikon.org/authors/gaius-acilius-the-historian-lyu)
 
 Gaius Acilius, a 2nd century BCE Hellenistic historian. Surviving works include historical treatises. Free to read and download from the Greek library archive.
 

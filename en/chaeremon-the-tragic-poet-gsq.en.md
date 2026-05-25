@@ -2,7 +2,7 @@
 name: Chaeremon the Tragic Poet
 name_greek: Χαιρήμων ὁ τραγικός
 eul_aid: gsq
-canonical: "https://eulogikon.org/en/chaeremon-the-tragic-poet"
+canonical: "https://eulogikon.org/authors/chaeremon-the-tragic-poet-gsq"
 period: Classical
 dialect: "Attic (dr, frg)"
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Χαιρήμων ὁ τραγικός*
 
-**eul_aid:** `gsq` · [HTML page](https://eulogikon.org/en/chaeremon-the-tragic-poet)
+**eul_aid:** `gsq` · [HTML page](https://eulogikon.org/authors/chaeremon-the-tragic-poet-gsq)
 
 Chaeremon, a 4th century BCE Athenian tragic poet. Surviving works include his dramatic fragments. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Nicomachus the Comic Poet
 name_greek: Νικόμαχος ὁ κωμικός
 eul_aid: jqk
-canonical: "https://eulogikon.org/en/nicomachus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/nicomachus-the-comic-poet-jqk"
 period: Hellenistic
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Νικόμαχος ὁ κωμικός*
 
-**eul_aid:** `jqk` · [HTML page](https://eulogikon.org/en/nicomachus-the-comic-poet)
+**eul_aid:** `jqk` · [HTML page](https://eulogikon.org/authors/nicomachus-the-comic-poet-jqk)
 
 Nicomachus the Comic Poet, a Hellenistic poet of the 3rd century BCE. Works include comedy fragments. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Nicander of Colophon II
 name_greek: Νίκανδρος ὁ Κολοφώνιος
 eul_aid: moy
-canonical: "https://eulogikon.org/en/nicander-of-colophon-ii"
+canonical: "https://eulogikon.org/authors/nicander-of-colophon-moy"
 period: Hellenistic
 dialect: Epic (Homeric)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Νίκανδρος ὁ Κολοφώνιος*
 
-**eul_aid:** `moy` · [HTML page](https://eulogikon.org/en/nicander-of-colophon-ii)
+**eul_aid:** `moy` · [HTML page](https://eulogikon.org/authors/nicander-of-colophon-moy)
 
 Nicander of Colophon, a Hellenistic historian writing in epic dialect. Historical works from the 2nd century BCE. Free to download from the Greek archive.
 

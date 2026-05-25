@@ -2,7 +2,7 @@
 name: Axionicus the Comic Poet
 name_greek: Ἀξιόνικος ὁ Κωμικός
 eul_aid: gta
-canonical: "https://eulogikon.org/en/axionicus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/axionicus-the-comic-poet-gta"
 period: Classical
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀξιόνικος ὁ Κωμικός*
 
-**eul_aid:** `gta` · [HTML page](https://eulogikon.org/en/axionicus-the-comic-poet)
+**eul_aid:** `gta` · [HTML page](https://eulogikon.org/authors/axionicus-the-comic-poet-gta)
 
 Axionicus was a 4th century BCE Attic comic poet. Read his surviving comedy fragments and works. Free to read and download from the Greek library archive.
 

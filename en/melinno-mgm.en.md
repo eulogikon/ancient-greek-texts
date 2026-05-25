@@ -2,7 +2,7 @@
 name: Melinno
 name_greek: Μελιννῶ
 eul_aid: mgm
-canonical: "https://eulogikon.org/en/melinno"
+canonical: "https://eulogikon.org/authors/melinno-mgm"
 period: Hellenistic
 dialect: Literary Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μελιννῶ*
 
-**eul_aid:** `mgm` · [HTML page](https://eulogikon.org/en/melinno)
+**eul_aid:** `mgm` · [HTML page](https://eulogikon.org/authors/melinno-mgm)
 
 Melinno was a Hellenistic poet known for her hymn to Rome. Read her surviving works in original Greek. Free to read and download from the Greek library archive.
 

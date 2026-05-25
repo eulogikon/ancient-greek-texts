@@ -2,7 +2,7 @@
 name: Mimnermus of Colophon II
 name_greek: Μίμνερμος ὁ Κολοφώνιος
 eul_aid: ami
-canonical: "https://eulogikon.org/en/mimnermus-of-colophon-ii"
+canonical: "https://eulogikon.org/authors/mimnermus-of-colophon-ami"
 period: Archaic
 dialect: Ionic Elegiac
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μίμνερμος ὁ Κολοφώνιος*
 
-**eul_aid:** `ami` · [HTML page](https://eulogikon.org/en/mimnermus-of-colophon-ii)
+**eul_aid:** `ami` · [HTML page](https://eulogikon.org/authors/mimnermus-of-colophon-ami)
 
 Mimnermus of Colophon, 7th century BCE Ionic elegiac poet. Surviving fragments of his poetic works. Free to read and download from the Greek library archive.
 

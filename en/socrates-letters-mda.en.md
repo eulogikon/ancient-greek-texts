@@ -2,7 +2,7 @@
 name: Socrates Letters
 name_greek: Σωκράτους Ἐπιστολαί
 eul_aid: mda
-canonical: "https://eulogikon.org/en/socrates-letters"
+canonical: "https://eulogikon.org/authors/socrates-letters-mda"
 period: Hellenistic
 dialect: Philosophical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σωκράτους Ἐπιστολαί*
 
-**eul_aid:** `mda` · [HTML page](https://eulogikon.org/en/socrates-letters)
+**eul_aid:** `mda` · [HTML page](https://eulogikon.org/authors/socrates-letters-mda)
 
 The Socrates Letters are a Hellenistic collection of philosophical epistles attributed to the philosopher. Free to download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Ariston of Chios
 name_greek: Ἀρίστων ὁ Χῖος
 eul_aid: jyw
-canonical: "https://eulogikon.org/en/ariston-of-chios"
+canonical: "https://eulogikon.org/authors/ariston-of-chios-jyw"
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 affiliation: Stoic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρίστων ὁ Χῖος*
 
-**eul_aid:** `jyw` · [HTML page](https://eulogikon.org/en/ariston-of-chios)
+**eul_aid:** `jyw` · [HTML page](https://eulogikon.org/authors/ariston-of-chios-jyw)
 
 Ariston of Chios was a Stoic philosopher and pupil of Zeno. His philosophical fragments are preserved. Free to read and download from the Greek library archive.
 

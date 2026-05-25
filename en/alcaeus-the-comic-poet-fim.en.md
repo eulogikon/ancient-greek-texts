@@ -2,7 +2,7 @@
 name: Alcaeus the Comic Poet
 name_greek: Ἀλκαῖος ὁ κωμικός
 eul_aid: fim
-canonical: "https://eulogikon.org/en/alcaeus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/alcaeus-the-comic-poet-fim"
 period: Classical
 dialect: "Attic (com, frg)"
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀλκαῖος ὁ κωμικός*
 
-**eul_aid:** `fim` · [HTML page](https://eulogikon.org/en/alcaeus-the-comic-poet)
+**eul_aid:** `fim` · [HTML page](https://eulogikon.org/authors/alcaeus-the-comic-poet-fim)
 
 Alcaeus was a 4th century BCE Athenian comic poet. Three fragmentary comedies survive from his works. Free to read and download from the Greek library archive.
 

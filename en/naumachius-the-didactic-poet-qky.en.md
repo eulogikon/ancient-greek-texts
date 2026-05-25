@@ -2,7 +2,7 @@
 name: Naumachius the Didactic Poet
 name_greek: Ναυμάχιος ὁ διδακτικός
 eul_aid: qky
-canonical: "https://eulogikon.org/en/naumachius-the-didactic-poet"
+canonical: "https://eulogikon.org/authors/naumachius-the-didactic-poet-qky"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ναυμάχιος ὁ διδακτικός*
 
-**eul_aid:** `qky` · [HTML page](https://eulogikon.org/en/naumachius-the-didactic-poet)
+**eul_aid:** `qky` · [HTML page](https://eulogikon.org/authors/naumachius-the-didactic-poet-qky)
 
 Naumachius, a Roman-era didactic poet writing in Greek. Surviving works include his didactic verse. Free to read and download from the Greek library archive.
 

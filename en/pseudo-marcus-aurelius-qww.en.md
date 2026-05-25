@@ -2,7 +2,7 @@
 name: Marcus Aurelius-pseudo Letters
 name_greek: Μάρκου Αὐρηλίου-Ψευδο
 eul_aid: qww
-canonical: "https://eulogikon.org/en/pseudo-marcus-aurelius"
+canonical: "https://eulogikon.org/authors/marcus-aurelius-ps-letters-qww"
 period: Byzantine
 dialect: Byzantine Greek
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μάρκου Αὐρηλίου-Ψευδο*
 
-**eul_aid:** `qww` · [HTML page](https://eulogikon.org/en/pseudo-marcus-aurelius)
+**eul_aid:** `qww` · [HTML page](https://eulogikon.org/authors/marcus-aurelius-ps-letters-qww)
 
 Anonymous 16th century author of a pseudepigraphon. One surviving theological epistle in Greek. Free to read and download from the Greek library archive.
 

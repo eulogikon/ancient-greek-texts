@@ -2,7 +2,7 @@
 name: Scamon of Mytilene
 name_greek: Σκάμων ὁ Μυτιληναῖος
 eul_aid: gek
-canonical: "https://eulogikon.org/en/scamon-of-mytilene"
+canonical: "https://eulogikon.org/authors/scamon-of-mytilene-gek"
 period: Classical
 dialect: Aeolic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σκάμων ὁ Μυτιληναῖος*
 
-**eul_aid:** `gek` · [HTML page](https://eulogikon.org/en/scamon-of-mytilene)
+**eul_aid:** `gek` · [HTML page](https://eulogikon.org/authors/scamon-of-mytilene-gek)
 
 Scamon of Mytilene was a classical Greek historian writing in the Aeolic dialect. His works survive in fragments. Free to download from the Greek archive.
 

@@ -2,7 +2,7 @@
 name: Araethus the Historian
 name_greek: Ἀραιθός ὁ ἱστορικός
 eul_aid: ela
-canonical: "https://eulogikon.org/en/araethus-the-historian"
+canonical: "https://eulogikon.org/authors/araethus-the-historian-ela"
 period: Classical
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀραιθός ὁ ἱστορικός*
 
-**eul_aid:** `ela` · [HTML page](https://eulogikon.org/en/araethus-the-historian)
+**eul_aid:** `ela` · [HTML page](https://eulogikon.org/authors/araethus-the-historian-ela)
 
 Araethus, a 4th century BCE Attic historian. Surviving fragmentary works in prose transmission. Free to read and download from the Greek library archive.
 

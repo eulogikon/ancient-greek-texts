@@ -2,7 +2,7 @@
 name: Phalaris of Acragas
 name_greek: Φάλαρις ὁ Ἀκραγαντῖνος
 eul_aid: auk
-canonical: "https://eulogikon.org/en/phalaris-of-acragas"
+canonical: "https://eulogikon.org/authors/phalaris-of-acragas-auk"
 period: Archaic
 dialect: Doric
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φάλαρις ὁ Ἀκραγαντῖνος*
 
-**eul_aid:** `auk` · [HTML page](https://eulogikon.org/en/phalaris-of-acragas)
+**eul_aid:** `auk` · [HTML page](https://eulogikon.org/authors/phalaris-of-acragas-auk)
 
 Phalaris of Acragas, 6th century BCE Doric tyrant of Sicily. Epistles attributed to the ruler. Free to read and download from the Greek library archive.
 

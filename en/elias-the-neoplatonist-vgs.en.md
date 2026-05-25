@@ -2,7 +2,7 @@
 name: Elias the Neoplatonist
 name_greek: Ἠλίας ὁ Νεοπλατωνικός
 eul_aid: vgs
-canonical: "https://eulogikon.org/en/elias-the-neoplatonist"
+canonical: "https://eulogikon.org/authors/elias-the-neoplatonist-vgs"
 period: Late Antique
 dialect: Philosophical Koine
 affiliation: Neoplatonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἠλίας ὁ Νεοπλατωνικός*
 
-**eul_aid:** `vgs` · [HTML page](https://eulogikon.org/en/elias-the-neoplatonist)
+**eul_aid:** `vgs` · [HTML page](https://eulogikon.org/authors/elias-the-neoplatonist-vgs)
 
 Elias, 6th century CE Neoplatonic philosopher. Three surviving treatises from late antiquity. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Parmeniscus the Philosopher
 name_greek: Παρηνίσκος ὁ φιλόσοφος
 eul_aid: lay
-canonical: "https://eulogikon.org/en/parmeniscus-the-philosopher"
+canonical: "https://eulogikon.org/authors/parmeniscus-the-philosopher-lay"
 period: Hellenistic
 dialect: Koine
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Παρηνίσκος ὁ φιλόσοφος*
 
-**eul_aid:** `lay` · [HTML page](https://eulogikon.org/en/parmeniscus-the-philosopher)
+**eul_aid:** `lay` · [HTML page](https://eulogikon.org/authors/parmeniscus-the-philosopher-lay)
 
 Parmeniscus, a 2nd century BCE Pythagorean philosopher. His surviving philosophical writings. Free to read and download from the Greek library archive.
 

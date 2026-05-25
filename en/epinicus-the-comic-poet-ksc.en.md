@@ -2,7 +2,7 @@
 name: Epinicus the Comic Poet
 name_greek: Ἐπίνικος ὁ κωμῳδιοποιός
 eul_aid: ksc
-canonical: "https://eulogikon.org/en/epinicus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/epinicus-the-comic-poet-ksc"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἐπίνικος ὁ κωμῳδιοποιός*
 
-**eul_aid:** `ksc` · [HTML page](https://eulogikon.org/en/epinicus-the-comic-poet)
+**eul_aid:** `ksc` · [HTML page](https://eulogikon.org/authors/epinicus-the-comic-poet-ksc)
 
 Epinicus was a Hellenistic comic poet of the 3rd century BCE. Two fragmentary works survive from his comedies. Free to read and download from the Greek archive.
 

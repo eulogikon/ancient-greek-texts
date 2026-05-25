@@ -2,7 +2,7 @@
 name: Salmanas the Alchemist
 name_greek: Σαλμανᾶς ὁ Χημικός
 eul_aid: tow
-canonical: "https://eulogikon.org/en/salmanas-the-alchemist"
+canonical: "https://eulogikon.org/authors/salmanas-the-alchemist-tow"
 period: Late Antique
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σαλμανᾶς ὁ Χημικός*
 
-**eul_aid:** `tow` · [HTML page](https://eulogikon.org/en/salmanas-the-alchemist)
+**eul_aid:** `tow` · [HTML page](https://eulogikon.org/authors/salmanas-the-alchemist-tow)
 
 Salmanas the Alchemist, a late antique Greco-Egyptian alchemist. His treatise explores alchemical science. Free to read and download from the Greek archive.
 

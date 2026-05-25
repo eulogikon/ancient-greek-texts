@@ -2,7 +2,7 @@
 name: Ptolemais of Cyrene
 name_greek: Πτολεμαῒς ἡ Κυρηναία
 eul_aid: jla
-canonical: "https://eulogikon.org/en/ptolemais-of-cyrene"
+canonical: "https://eulogikon.org/authors/ptolemais-of-cyrene-jla"
 period: Hellenistic
 dialect: Koine
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πτολεμαῒς ἡ Κυρηναία*
 
-**eul_aid:** `jla` · [HTML page](https://eulogikon.org/en/ptolemais-of-cyrene)
+**eul_aid:** `jla` · [HTML page](https://eulogikon.org/authors/ptolemais-of-cyrene-jla)
 
 Ptolemais of Cyrene was a Hellenistic Pythagorean philosopher. Her treatise explores Pythagorean musical theory. Free to download from the Greek archive.
 

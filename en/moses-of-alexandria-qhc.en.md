@@ -2,7 +2,7 @@
 name: Moses of Alexandria
 name_greek: Μωυσῆς ὁ Ἀλεξανδρεύς
 eul_aid: qhc
-canonical: "https://eulogikon.org/en/moses-of-alexandria"
+canonical: "https://eulogikon.org/authors/moses-of-alexandria-qhc"
 period: Roman
 dialect: Technical Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μωυσῆς ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `qhc` · [HTML page](https://eulogikon.org/en/moses-of-alexandria)
+**eul_aid:** `qhc` · [HTML page](https://eulogikon.org/authors/moses-of-alexandria-qhc)
 
 Moses of Alexandria, Roman era scientific writer. Two surviving technical treatises in Koine Greek. Free to read and download from the Greek library archive.
 

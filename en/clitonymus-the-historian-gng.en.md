@@ -2,7 +2,7 @@
 name: Clitonymus the Historian
 name_greek: Κλειτώνυμος ὁ ἱστορικός
 eul_aid: gng
-canonical: "https://eulogikon.org/en/clitonymus-the-historian"
+canonical: "https://eulogikon.org/authors/clitonymus-the-historian-gng"
 period: Classical
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κλειτώνυμος ὁ ἱστορικός*
 
-**eul_aid:** `gng` · [HTML page](https://eulogikon.org/en/clitonymus-the-historian)
+**eul_aid:** `gng` · [HTML page](https://eulogikon.org/authors/clitonymus-the-historian-gng)
 
 Clitonymus the Historian, a 4th century BCE Attic writer. Historical fragments from Classical period. Free to read and download from the Greek library archive.
 

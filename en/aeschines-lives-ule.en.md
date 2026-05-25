@@ -2,7 +2,7 @@
 name: Aeschines Lives
 name_greek: Ἀισχίνου Βίοι
 eul_aid: ule
-canonical: "https://eulogikon.org/en/aeschines-lives"
+canonical: "https://eulogikon.org/authors/aeschines-lives-ule"
 period: Late Antique
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀισχίνου Βίοι*
 
-**eul_aid:** `ule` · [HTML page](https://eulogikon.org/en/aeschines-lives)
+**eul_aid:** `ule` · [HTML page](https://eulogikon.org/authors/aeschines-lives-ule)
 
 Aeschines Lives, a Late Antique author of Greek biography. The surviving work is a collection of lives. Free to download from the Greek library archive.
 

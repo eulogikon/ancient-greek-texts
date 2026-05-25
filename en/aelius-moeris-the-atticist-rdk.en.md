@@ -2,7 +2,7 @@
 name: Aelius Moeris the Atticist
 name_greek: Αἴλιος Μοίρης ὁ Ἀττικιστής
 eul_aid: rdk
-canonical: "https://eulogikon.org/en/aelius-moeris-the-atticist"
+canonical: "https://eulogikon.org/authors/aelius-moeris-the-atticist-rdk"
 period: Roman
 dialect: Atticizing Technical
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Αἴλιος Μοίρης ὁ Ἀττικιστής*
 
-**eul_aid:** `rdk` · [HTML page](https://eulogikon.org/en/aelius-moeris-the-atticist)
+**eul_aid:** `rdk` · [HTML page](https://eulogikon.org/authors/aelius-moeris-the-atticist-rdk)
 
 Aelius Moeris, Roman-era Greek grammarian. His Atticist treatise compares Greek dialects. Free to read and download from the Greek library archive.
 

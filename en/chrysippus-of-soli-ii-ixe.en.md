@@ -2,7 +2,7 @@
 name: Chrysippus of Soli II
 name_greek: Χρύσιππος ὁ Σολεύς
 eul_aid: ixe
-canonical: "https://eulogikon.org/en/chrysippus-of-soli-ii"
+canonical: "https://eulogikon.org/authors/chrysippus-of-soli-ixe"
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 affiliation: Stoic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Χρύσιππος ὁ Σολεύς*
 
-**eul_aid:** `ixe` · [HTML page](https://eulogikon.org/en/chrysippus-of-soli-ii)
+**eul_aid:** `ixe` · [HTML page](https://eulogikon.org/authors/chrysippus-of-soli-ixe)
 
 Chrysippus of Soli was the third head of the Stoic school. Philosophical treatises and fragments. Free to read and download from the Greek library archive.
 

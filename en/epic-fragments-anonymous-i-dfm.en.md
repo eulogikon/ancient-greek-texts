@@ -2,7 +2,7 @@
 name: Epic Fragments Anonymous I
 name_greek: Ἐπικὰ Κεφάλαια Ἄδεσπονα
 eul_aid: dfm
-canonical: "https://eulogikon.org/en/epic-fragments-anonymous-i"
+canonical: "https://eulogikon.org/authors/epic-fragments-anon-dfm"
 period: Classical
 dialect: Mixed Dialects
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἐπικὰ Κεφάλαια Ἄδεσπονα*
 
-**eul_aid:** `dfm` · [HTML page](https://eulogikon.org/en/epic-fragments-anonymous-i)
+**eul_aid:** `dfm` · [HTML page](https://eulogikon.org/authors/epic-fragments-anon-dfm)
 
 Anonymous author of Greek epic fragments from the 8th to 4th centuries BCE. Surviving works of verse. Free to read and download from the Greek library archive.
 

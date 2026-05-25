@@ -2,7 +2,7 @@
 name: Aristombrotus the Philosopher
 name_greek: Ἀριστόμβροτος ὁ φιλόσοφος
 eul_aid: clc
-canonical: "https://eulogikon.org/en/aristombrotus-the-philosopher"
+canonical: "https://eulogikon.org/authors/aristombrotus-the-philosopher-clc"
 period: Classical
 dialect: Attic Philosophical
 affiliation: Peripatetic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀριστόμβροτος ὁ φιλόσοφος*
 
-**eul_aid:** `clc` · [HTML page](https://eulogikon.org/en/aristombrotus-the-philosopher)
+**eul_aid:** `clc` · [HTML page](https://eulogikon.org/authors/aristombrotus-the-philosopher-clc)
 
 Aristombrotus, a 4th-century BCE Peripatetic philosopher. One surviving philosophical treatise. Free to read and download from the Greek library archive.
 

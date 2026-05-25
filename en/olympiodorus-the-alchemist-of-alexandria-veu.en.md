@@ -2,7 +2,7 @@
 name: Olympiodorus the Alchemist of Alexandria
 name_greek: Ὀλυμπιόδωρος ὁ Ἀλεξανδρεύς
 eul_aid: veu
-canonical: "https://eulogikon.org/en/olympiodorus-the-alchemist-of-alexandria"
+canonical: "https://eulogikon.org/authors/olympiodorus-the-alchemist-veu"
 period: Late Antique
 dialect: Philosophical Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ὀλυμπιόδωρος ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `veu` · [HTML page](https://eulogikon.org/en/olympiodorus-the-alchemist-of-alexandria)
+**eul_aid:** `veu` · [HTML page](https://eulogikon.org/authors/olympiodorus-the-alchemist-veu)
 
 Olympiodorus the Alchemist was a 6th century CE Greek writer on alchemy. Two surviving works on alchemical processes. Free to download from the Greek archive.
 

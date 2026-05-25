@@ -2,7 +2,7 @@
 name: Apollonius the Grammarian
 name_greek: Ἀπολλώνιος ὁ Δύσκολος
 eul_aid: pjq
-canonical: "https://eulogikon.org/en/apollonius-the-grammarian"
+canonical: "https://eulogikon.org/authors/apollonius-the-grammarian-pjq"
 period: Roman
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀπολλώνιος ὁ Δύσκολος*
 
-**eul_aid:** `pjq` · [HTML page](https://eulogikon.org/en/apollonius-the-grammarian)
+**eul_aid:** `pjq` · [HTML page](https://eulogikon.org/authors/apollonius-the-grammarian-pjq)
 
 Apollonius Dyscolus, a 2nd century CE Alexandrian grammarian. Works include grammatical treatises. Free to read and download from the Greek library archive.
 

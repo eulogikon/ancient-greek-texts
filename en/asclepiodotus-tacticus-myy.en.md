@@ -2,7 +2,7 @@
 name: Asclepiodotus Tacticus
 name_greek: Ἀσκληπιόδοτος ὁ Τακτικός
 eul_aid: myy
-canonical: "https://eulogikon.org/en/asclepiodotus-tacticus"
+canonical: "https://eulogikon.org/authors/asclepiodotus-tacticus-myy"
 period: Hellenistic
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀσκληπιόδοτος ὁ Τακτικός*
 
-**eul_aid:** `myy` · [HTML page](https://eulogikon.org/en/asclepiodotus-tacticus)
+**eul_aid:** `myy` · [HTML page](https://eulogikon.org/authors/asclepiodotus-tacticus-myy)
 
 Asclepiodotus Tacticus, a Hellenistic writer of the 1st century BCE. Military tactics treatise. Free to read and download from the Greek library archive.
 

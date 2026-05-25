@@ -2,7 +2,7 @@
 name: Crantor of Soli
 name_greek: Κράντωρ ὁ Σολεύς
 eul_aid: hhq
-canonical: "https://eulogikon.org/en/crantor-of-soli"
+canonical: "https://eulogikon.org/authors/crantor-of-soli-hhq"
 period: Classical
 dialect: "Attic (phi, frg)"
 affiliation: Platonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κράντωρ ὁ Σολεύς*
 
-**eul_aid:** `hhq` · [HTML page](https://eulogikon.org/en/crantor-of-soli)
+**eul_aid:** `hhq` · [HTML page](https://eulogikon.org/authors/crantor-of-soli-hhq)
 
 Crantor of Soli was a Platonist philosopher of the early Academy. Fragments on grief and ethics. Free to read and download from the Greek library archive.
 

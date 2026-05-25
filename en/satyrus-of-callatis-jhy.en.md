@@ -2,7 +2,7 @@
 name: Satyrus of Callatis
 name_greek: Σάτυρος ὁ Καλλατίδης
 eul_aid: jhy
-canonical: "https://eulogikon.org/en/satyrus-of-callatis"
+canonical: "https://eulogikon.org/authors/satyrus-of-callatis-jhy"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σάτυρος ὁ Καλλατίδης*
 
-**eul_aid:** `jhy` · [HTML page](https://eulogikon.org/en/satyrus-of-callatis)
+**eul_aid:** `jhy` · [HTML page](https://eulogikon.org/authors/satyrus-of-callatis-jhy)
 
 Satyrus of Callatis was a Hellenistic historian of the 3rd century BCE. Contains fragments of his writings. Free to download from the Greek library archive.
 

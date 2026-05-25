@@ -2,7 +2,7 @@
 name: Metrodorus of Scepsis
 name_greek: Μητρόδωρος ὁ Σκήψιος
 eul_aid: mnu
-canonical: "https://eulogikon.org/en/metrodorus-of-scepsis"
+canonical: "https://eulogikon.org/authors/metrodorus-of-scepsis-mnu"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μητρόδωρος ὁ Σκήψιος*
 
-**eul_aid:** `mnu` · [HTML page](https://eulogikon.org/en/metrodorus-of-scepsis)
+**eul_aid:** `mnu` · [HTML page](https://eulogikon.org/authors/metrodorus-of-scepsis-mnu)
 
 Metrodorus of Scepsis, a Hellenistic historian. Surviving fragments of his historical works. Free to read and download from the Greek library archive.
 

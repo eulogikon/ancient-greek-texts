@@ -2,7 +2,7 @@
 name: Themison the Historian
 name_greek: Θεμίσων ὁ Ἱστορικός
 eul_aid: nra
-canonical: "https://eulogikon.org/en/themison-the-historian"
+canonical: "https://eulogikon.org/authors/themison-the-historian-nra"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θεμίσων ὁ Ἱστορικός*
 
-**eul_aid:** `nra` · [HTML page](https://eulogikon.org/en/themison-the-historian)
+**eul_aid:** `nra` · [HTML page](https://eulogikon.org/authors/themison-the-historian-nra)
 
 Themison was a 1st century CE historian in the Roman era. His surviving historical works are available. Free to download from the Greek library archive.
 

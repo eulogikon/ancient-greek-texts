@@ -2,7 +2,7 @@
 name: Comic Fragments Anonymous I
 name_greek: Κωμικὰ ἀποσπάσματα
 eul_aid: kfk
-canonical: "https://eulogikon.org/en/comic-fragments-anonymous-i"
+canonical: "https://eulogikon.org/authors/comic-fragments-anon-kfk"
 period: Hellenistic
 dialect: Mixed Dialects
 works_count: 4
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κωμικὰ ἀποσπάσματα*
 
-**eul_aid:** `kfk` · [HTML page](https://eulogikon.org/en/comic-fragments-anonymous-i)
+**eul_aid:** `kfk` · [HTML page](https://eulogikon.org/authors/comic-fragments-anon-kfk)
 
 Comic Fragments Anonymous I, Hellenistic poet from the 5th to 3rd centuries BCE. Four comic fragments. Free to read and download from the Greek library archive.
 

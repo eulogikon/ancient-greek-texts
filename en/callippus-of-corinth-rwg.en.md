@@ -2,7 +2,7 @@
 name: Callippus of Corinth
 name_greek: Κάλλιππος ὁ Κορίνθιος
 eul_aid: rwg
-canonical: "https://eulogikon.org/en/callippus-of-corinth"
+canonical: "https://eulogikon.org/authors/callippus-of-corinth-rwg"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κάλλιππος ὁ Κορίνθιος*
 
-**eul_aid:** `rwg` · [HTML page](https://eulogikon.org/en/callippus-of-corinth)
+**eul_aid:** `rwg` · [HTML page](https://eulogikon.org/authors/callippus-of-corinth-rwg)
 
 Callippus of Corinth was a 2nd century CE Roman historian. His works are preserved in fragments. Free to read and download from the Greek library archive.
 

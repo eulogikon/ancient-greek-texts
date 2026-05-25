@@ -2,7 +2,7 @@
 name: Panarces the Writer of Riddles
 name_greek: Πανάργης ὁ Γραφεύς Αἰνigmatῶν
 eul_aid: rty
-canonical: "https://eulogikon.org/en/panarces-the-riddler"
+canonical: "https://eulogikon.org/authors/panarces-the-writer-of-riddles-rty"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πανάργης ὁ Γραφεύς Αἰνigmatῶν*
 
-**eul_aid:** `rty` · [HTML page](https://eulogikon.org/en/panarces-the-riddler)
+**eul_aid:** `rty` · [HTML page](https://eulogikon.org/authors/panarces-the-writer-of-riddles-rty)
 
 Panarces, a Roman-era Greek poet of the 2nd-3rd century CE. Surviving works of verse riddle poetry. Free to read and download from the Greek library archive.
 

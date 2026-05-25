@@ -2,7 +2,7 @@
 name: Hymnic Collection Anonymous
 name_greek: Ὁμηρικοὶ Ὕμνοι
 eul_aid: upu
-canonical: "https://eulogikon.org/en/homeric-hymns-anonymous"
+canonical: "https://eulogikon.org/authors/hymnic-collection-anon-upu"
 period: Classical
 dialect: Epic (Homeric)
 works_count: 33
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ὁμηρικοὶ Ὕμνοι*
 
-**eul_aid:** `upu` · [HTML page](https://eulogikon.org/en/homeric-hymns-anonymous)
+**eul_aid:** `upu` · [HTML page](https://eulogikon.org/authors/hymnic-collection-anon-upu)
 
 Anonymous ancient Greek hymns composed over centuries. Thirty-three poems honoring gods and heroes. Free to read and download from the Greek library archive.
 

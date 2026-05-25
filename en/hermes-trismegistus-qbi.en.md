@@ -2,7 +2,7 @@
 name: Hermes Trismegistus the Alchemist
 name_greek: Ἑρμῆς ὁ Τρισμέγιστος
 eul_aid: qbi
-canonical: "https://eulogikon.org/en/hermes-trismegistus"
+canonical: "https://eulogikon.org/authors/hermes-trismegistus-qbi"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἑρμῆς ὁ Τρισμέγιστος*
 
-**eul_aid:** `qbi` · [HTML page](https://eulogikon.org/en/hermes-trismegistus)
+**eul_aid:** `qbi` · [HTML page](https://eulogikon.org/authors/hermes-trismegistus-qbi)
 
 Hermes Trismegistus, legendary alchemical author from Roman Egypt. Surviving works include treatises. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Anonymous Commentary on Aristotle
 name_greek: Ἀνώνυμος ἐν Ἠθικοῖς Νικομαχείοις
 eul_aid: uim
-canonical: "https://eulogikon.org/en/anonymous-commentary-on-aristotle"
+canonical: "https://eulogikon.org/authors/nicomachean-ethics-comm-anon-uim"
 period: Late Antique
 dialect: Philosophical Koine
 affiliation: Aristotelian
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμος ἐν Ἠθικοῖς Νικομαχείοις*
 
-**eul_aid:** `uim` · [HTML page](https://eulogikon.org/en/anonymous-commentary-on-aristotle)
+**eul_aid:** `uim` · [HTML page](https://eulogikon.org/authors/nicomachean-ethics-comm-anon-uim)
 
 Anonymous commentator on Aristotle from Late Antiquity. Three surviving philosophical treatises. Free to read and download from the Greek library archive.
 

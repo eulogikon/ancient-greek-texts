@@ -2,7 +2,7 @@
 name: Crates of Athens
 name_greek: Κράτης ὁ Ἀθηναῖος
 eul_aid: jec
-canonical: "https://eulogikon.org/en/crates-of-athens"
+canonical: "https://eulogikon.org/authors/crates-of-athens-jec"
 period: Hellenistic
 dialect: Attic Philosophical
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κράτης ὁ Ἀθηναῖος*
 
-**eul_aid:** `jec` · [HTML page](https://eulogikon.org/en/crates-of-athens)
+**eul_aid:** `jec` · [HTML page](https://eulogikon.org/authors/crates-of-athens-jec)
 
 Crates of Athens was a Hellenistic philosopher and third scholarch of the Peripatetic school. Free to read and download from the Greek library archive.
 

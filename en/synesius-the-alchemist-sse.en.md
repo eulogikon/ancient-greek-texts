@@ -2,7 +2,7 @@
 name: Synesius the Alchemist
 name_greek: Συνέσιος ὁ Χημικός
 eul_aid: sse
-canonical: "https://eulogikon.org/en/synesius-the-alchemist"
+canonical: "https://eulogikon.org/authors/synesius-the-alchemist-sse"
 period: Late Antique
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Συνέσιος ὁ Χημικός*
 
-**eul_aid:** `sse` · [HTML page](https://eulogikon.org/en/synesius-the-alchemist)
+**eul_aid:** `sse` · [HTML page](https://eulogikon.org/authors/synesius-the-alchemist-sse)
 
 Synesius the Alchemist, a late Roman writer on alchemy. His treatise details alchemical processes. Free to read and download from the Greek library archive.
 

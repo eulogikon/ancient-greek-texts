@@ -2,7 +2,7 @@
 name: Ion of Chios
 name_greek: Ἴων ὁ Χῖος
 eul_aid: ccg
-canonical: "https://eulogikon.org/en/ion-of-chios"
+canonical: "https://eulogikon.org/authors/ion-of-chios-ccg"
 period: Classical
 dialect: Ionic
 works_count: 7
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἴων ὁ Χῖος*
 
-**eul_aid:** `ccg` · [HTML page](https://eulogikon.org/en/ion-of-chios)
+**eul_aid:** `ccg` · [HTML page](https://eulogikon.org/authors/ion-of-chios-ccg)
 
 Ion of Chios, a 5th century BCE Ionic philosopher and poet. Seven works preserved in fragments. Free to read and download from the Greek library archive.
 

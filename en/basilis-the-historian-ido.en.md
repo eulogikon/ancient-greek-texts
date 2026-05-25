@@ -2,7 +2,7 @@
 name: Basilis the Historian
 name_greek: Βασιλίς ὁ Ἱστορικός
 eul_aid: ido
-canonical: "https://eulogikon.org/en/basilis-the-historian"
+canonical: "https://eulogikon.org/authors/basilis-the-historian-ido"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Βασιλίς ὁ Ἱστορικός*
 
-**eul_aid:** `ido` · [HTML page](https://eulogikon.org/en/basilis-the-historian)
+**eul_aid:** `ido` · [HTML page](https://eulogikon.org/authors/basilis-the-historian-ido)
 
 Basilis the Historian was a Hellenistic era historian writing in Koine Greek. Historical fragments survive. Free to download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Euagon the Historian
 name_greek: Εὐάγων ὁ ἱστορικός
 eul_aid: gpy
-canonical: "https://eulogikon.org/en/euagon-the-historian"
+canonical: "https://eulogikon.org/authors/euagon-the-historian-gpy"
 period: Classical
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Εὐάγων ὁ ἱστορικός*
 
-**eul_aid:** `gpy` · [HTML page](https://eulogikon.org/en/euagon-the-historian)
+**eul_aid:** `gpy` · [HTML page](https://eulogikon.org/authors/euagon-the-historian-gpy)
 
 Euagon was a 4th century BCE Attic historian. Fragments of his historical works are preserved. Free to read and download from the Greek library archive.
 

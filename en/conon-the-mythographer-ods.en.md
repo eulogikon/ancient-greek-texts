@@ -2,7 +2,7 @@
 name: Conon the Mythographer
 name_greek: Κόνων ὁ μυθογράφος
 eul_aid: ods
-canonical: "https://eulogikon.org/en/conon-the-mythographer"
+canonical: "https://eulogikon.org/authors/conon-the-mythographer-ods"
 period: Roman
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κόνων ὁ μυθογράφος*
 
-**eul_aid:** `ods` · [HTML page](https://eulogikon.org/en/conon-the-mythographer)
+**eul_aid:** `ods` · [HTML page](https://eulogikon.org/authors/conon-the-mythographer-ods)
 
 Conon the Mythographer, a Roman era historian. His surviving work is fifty mythological narratives. Free to read and download from the Greek library archive.
 

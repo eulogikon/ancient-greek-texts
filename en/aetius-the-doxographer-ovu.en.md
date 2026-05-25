@@ -2,7 +2,7 @@
 name: Aetius the Doxographer
 name_greek: Ἀέτιος ὁ Δοξογράφος
 eul_aid: ovu
-canonical: "https://eulogikon.org/en/aetius-the-doxographer"
+canonical: "https://eulogikon.org/authors/aetius-the-doxographer-ovu"
 period: Roman
 dialect: "Koine (phi, frg)"
 affiliation: Eclectic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀέτιος ὁ Δοξογράφος*
 
-**eul_aid:** `ovu` · [HTML page](https://eulogikon.org/en/aetius-the-doxographer)
+**eul_aid:** `ovu` · [HTML page](https://eulogikon.org/authors/aetius-the-doxographer-ovu)
 
 Aetius, a Roman period compiler of philosophical knowledge. Two surviving doxographies are preserved. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Chariton of Aphrodisias
 name_greek: Χαρίτων ὁ Ἀφροδισιεύς
 eul_aid: npw
-canonical: "https://eulogikon.org/en/chariton-of-aphrodisias"
+canonical: "https://eulogikon.org/authors/chariton-of-aphrodisias-npw"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Χαρίτων ὁ Ἀφροδισιεύς*
 
-**eul_aid:** `npw` · [HTML page](https://eulogikon.org/en/chariton-of-aphrodisias)
+**eul_aid:** `npw` · [HTML page](https://eulogikon.org/authors/chariton-of-aphrodisias-npw)
 
 Chariton of Aphrodisias was a Roman era Greek novelist. His surviving prose romance is Callirhoe. Free to read and download from the Greek library archive.
 

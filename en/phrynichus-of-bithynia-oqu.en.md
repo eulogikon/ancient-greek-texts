@@ -2,7 +2,7 @@
 name: Phrynichus of Bithynia
 name_greek: Φρύνιχος ὁ Βιθυνός
 eul_aid: oqu
-canonical: "https://eulogikon.org/en/phrynichus-of-bithynia"
+canonical: "https://eulogikon.org/authors/phrynichus-of-bithynia-oqu"
 period: Roman
 dialect: Atticizing
 works_count: 5
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φρύνιχος ὁ Βιθυνός*
 
-**eul_aid:** `oqu` · [HTML page](https://eulogikon.org/en/phrynichus-of-bithynia)
+**eul_aid:** `oqu` · [HTML page](https://eulogikon.org/authors/phrynichus-of-bithynia-oqu)
 
 Phrynichus of Bithynia was a Roman era grammarian. His works include treatises on Attic Greek usage. Free to read and download from the Greek library archive.
 

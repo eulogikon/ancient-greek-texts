@@ -2,7 +2,7 @@
 name: Speusippus of Athens
 name_greek: Σπεύσιππος ὁ Ἀθηναῖος
 eul_aid: ega
-canonical: "https://eulogikon.org/en/speusippus-of-athens"
+canonical: "https://eulogikon.org/authors/speusippus-of-athens-ega"
 period: Classical
 dialect: "Attic (phi, frg)"
 affiliation: Platonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σπεύσιππος ὁ Ἀθηναῖος*
 
-**eul_aid:** `ega` · [HTML page](https://eulogikon.org/en/speusippus-of-athens)
+**eul_aid:** `ega` · [HTML page](https://eulogikon.org/authors/speusippus-of-athens-ega)
 
 Speusippus succeeded Plato as head of the Academy. Surviving fragments include philosophical epistles. Free to read and download from the Greek library archive.
 

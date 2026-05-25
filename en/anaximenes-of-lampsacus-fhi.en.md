@@ -2,7 +2,7 @@
 name: Anaximenes of Lampsacus
 name_greek: Ἀναξιμένης ὁ Λαμψακηνός
 eul_aid: fhi
-canonical: "https://eulogikon.org/en/anaximenes-of-lampsacus"
+canonical: "https://eulogikon.org/authors/anaximenes-of-lampsacus-fhi"
 period: Classical
 dialect: Attic
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀναξιμένης ὁ Λαμψακηνός*
 
-**eul_aid:** `fhi` · [HTML page](https://eulogikon.org/en/anaximenes-of-lampsacus)
+**eul_aid:** `fhi` · [HTML page](https://eulogikon.org/authors/anaximenes-of-lampsacus-fhi)
 
 Anaximenes of Lampsacus, 4th century BCE historian and rhetorician. Historical and rhetorical texts. Free to read and download from the Greek library archive.
 

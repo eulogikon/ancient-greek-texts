@@ -2,7 +2,7 @@
 name: Arsenius the Paroemiographer
 name_greek: Ἀρσένιος ὁ Παροιμιογράφος
 eul_aid: vko
-canonical: "https://eulogikon.org/en/arsenius-the-paroemiographer"
+canonical: "https://eulogikon.org/authors/arsenius-the-paroemiographer-vko"
 period: Late Antique
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρσένιος ὁ Παροιμιογράφος*
 
-**eul_aid:** `vko` · [HTML page](https://eulogikon.org/en/arsenius-the-paroemiographer)
+**eul_aid:** `vko` · [HTML page](https://eulogikon.org/authors/arsenius-the-paroemiographer-vko)
 
 Arsenius the Paroemiographer, 5th-6th century CE grammarian. Surviving work is a proverb collection. Free to read and download from the Greek library archive.
 

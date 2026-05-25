@@ -2,7 +2,7 @@
 name: Simonides of Ceos
 name_greek: Σιμωνίδης ὁ Κεῖος
 eul_aid: big
-canonical: "https://eulogikon.org/en/simonides-of-ceos"
+canonical: "https://eulogikon.org/authors/simonides-of-ceos-big"
 period: Archaic
 dialect: Koine
 works_count: 5
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σιμωνίδης ὁ Κεῖος*
 
-**eul_aid:** `big` · [HTML page](https://eulogikon.org/en/simonides-of-ceos)
+**eul_aid:** `big` · [HTML page](https://eulogikon.org/authors/simonides-of-ceos-big)
 
 Simonides of Ceos was a professional lyric poet of the Archaic period. Surviving works include fragments. Free to download from the Greek library archive.
 

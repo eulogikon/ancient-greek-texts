@@ -2,7 +2,7 @@
 name: Hermias of Alexandria
 name_greek: Ἑρμείας ὁ Ἀλεξανδρεύς
 eul_aid: tce
-canonical: "https://eulogikon.org/en/hermias-of-alexandria"
+canonical: "https://eulogikon.org/authors/hermias-of-alexandria-tce"
 period: Late Antique
 dialect: Philosophical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἑρμείας ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `tce` · [HTML page](https://eulogikon.org/en/hermias-of-alexandria)
+**eul_aid:** `tce` · [HTML page](https://eulogikon.org/authors/hermias-of-alexandria-tce)
 
 Hermias of Alexandria was a 5th century CE poet writing in philosophical Koine. His surviving verse. Free to read and download from the Greek library archive.
 

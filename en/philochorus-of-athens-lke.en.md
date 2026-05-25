@@ -2,7 +2,7 @@
 name: Philochorus of Athens
 name_greek: Φιλόχορος ὁ Ἀθηναῖος
 eul_aid: lke
-canonical: "https://eulogikon.org/en/philochorus-of-athens"
+canonical: "https://eulogikon.org/authors/philochorus-of-athens-lke"
 period: Hellenistic
 dialect: Attic (frg)
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φιλόχορος ὁ Ἀθηναῖος*
 
-**eul_aid:** `lke` · [HTML page](https://eulogikon.org/en/philochorus-of-athens)
+**eul_aid:** `lke` · [HTML page](https://eulogikon.org/authors/philochorus-of-athens-lke)
 
 Philochorus was a Hellenistic Athenian historian and religious expert. His works are collected here. Free to read and download from the Greek library archive.
 

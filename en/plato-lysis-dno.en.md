@@ -2,7 +2,7 @@
 name: Plato Lysis
 name_greek: "Πλάτων, Λύσις"
 eul_aid: dno
-canonical: "https://eulogikon.org/en/plato-lysis"
+canonical: "https://eulogikon.org/authors/plato-lysis-dno"
 period: Classical
 dialect: Attic Philosophical
 affiliation: Platonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πλάτων, Λύσις*
 
-**eul_aid:** `dno` · [HTML page](https://eulogikon.org/en/plato-lysis)
+**eul_aid:** `dno` · [HTML page](https://eulogikon.org/authors/plato-lysis-dno)
 
 Lysis, a young Athenian in Plato's dialogues. Explore surviving works featuring this character. Free to read and download from the Greek library archive.
 

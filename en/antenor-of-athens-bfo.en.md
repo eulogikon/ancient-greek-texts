@@ -2,7 +2,7 @@
 name: Antenor of Athens
 name_greek: Ἀντήνωρ ὁ Ἀθηναῖος
 eul_aid: bfo
-canonical: "https://eulogikon.org/en/antenor-of-athens"
+canonical: "https://eulogikon.org/authors/antenor-of-athens-bfo"
 period: Archaic
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀντήνωρ ὁ Ἀθηναῖος*
 
-**eul_aid:** `bfo` · [HTML page](https://eulogikon.org/en/antenor-of-athens)
+**eul_aid:** `bfo` · [HTML page](https://eulogikon.org/authors/antenor-of-athens-bfo)
 
 Antenor of Athens, a 5th century BCE historian. Surviving historical works in the original Greek. Free to read and download from the Greek library archive.
 

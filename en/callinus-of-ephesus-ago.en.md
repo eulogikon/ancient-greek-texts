@@ -2,7 +2,7 @@
 name: Callinus of Ephesus
 name_greek: Καλλῖνος ὁ Ἐφέσιος
 eul_aid: ago
-canonical: "https://eulogikon.org/en/callinus-of-ephesus"
+canonical: "https://eulogikon.org/authors/callinus-of-ephesus-ago"
 period: Archaic
 dialect: "Ionic (el, frg)"
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Καλλῖνος ὁ Ἐφέσιος*
 
-**eul_aid:** `ago` · [HTML page](https://eulogikon.org/en/callinus-of-ephesus)
+**eul_aid:** `ago` · [HTML page](https://eulogikon.org/authors/callinus-of-ephesus-ago)
 
 Callinus of Ephesus, a 7th century BCE Ionic elegiac poet. Surviving fragments of martial verse. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Pythagoreans sayings
 name_greek: Αἱ Πυθαγορείων ἀποφθέγματα
 eul_aid: pza
-canonical: "https://eulogikon.org/en/pythagoreans-sayings"
+canonical: "https://eulogikon.org/authors/pythagoreans-sayings-pza"
 period: Roman
 dialect: Mixed Dialects
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Αἱ Πυθαγορείων ἀποφθέγματα*
 
-**eul_aid:** `pza` · [HTML page](https://eulogikon.org/en/pythagoreans-sayings)
+**eul_aid:** `pza` · [HTML page](https://eulogikon.org/authors/pythagoreans-sayings-pza)
 
 Anonymous collection of Pythagorean ethical maxims from the Roman Imperial period. Two surviving philosophical works. Free to download from the Greek archive.
 

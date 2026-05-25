@@ -2,7 +2,7 @@
 name: Ezechiel the Tragic Poet
 name_greek: Ἐζεκιὴλ ὁ Τραγικός
 eul_aid: nfm
-canonical: "https://eulogikon.org/en/ezechiel-the-tragic-poet"
+canonical: "https://eulogikon.org/authors/ezechiel-the-tragic-poet-nfm"
 period: Hellenistic
 dialect: "Attic (dr, frg)"
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἐζεκιὴλ ὁ Τραγικός*
 
-**eul_aid:** `nfm` · [HTML page](https://eulogikon.org/en/ezechiel-the-tragic-poet)
+**eul_aid:** `nfm` · [HTML page](https://eulogikon.org/authors/ezechiel-the-tragic-poet-nfm)
 
 Ezechiel the Tragic Poet, a Hellenistic dramatist. Fragments of his biblical tragedy Exagoge survive. Free to read and download from the Greek library archive.
 

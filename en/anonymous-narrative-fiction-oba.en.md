@@ -2,7 +2,7 @@
 name: Narrative Fiction Work Anonymous
 name_greek: "Ἄγνωστος [Διηγήματος] Ἔργον"
 eul_aid: oba
-canonical: "https://eulogikon.org/en/anonymous-narrative-fiction"
+canonical: "https://eulogikon.org/authors/narrative-fiction-work-anon-oba"
 period: Roman
 dialect: Koine
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἄγνωστος [Διηγήματος] Ἔργον*
 
-**eul_aid:** `oba` · [HTML page](https://eulogikon.org/en/anonymous-narrative-fiction)
+**eul_aid:** `oba` · [HTML page](https://eulogikon.org/authors/narrative-fiction-work-anon-oba)
 
 Anonymous author of Greek narrative fiction from the Hellenistic period. Three surviving prose works. Free to read and download from the Greek library archive.
 

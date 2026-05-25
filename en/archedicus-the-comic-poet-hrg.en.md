@@ -2,7 +2,7 @@
 name: Archedicus the Comic Poet
 name_greek: Ἀρχέδικος
 eul_aid: hrg
-canonical: "https://eulogikon.org/en/archedicus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/archedicus-the-comic-poet-hrg"
 period: Hellenistic
 dialect: Attic Comedy
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρχέδικος*
 
-**eul_aid:** `hrg` · [HTML page](https://eulogikon.org/en/archedicus-the-comic-poet)
+**eul_aid:** `hrg` · [HTML page](https://eulogikon.org/authors/archedicus-the-comic-poet-hrg)
 
 Archedicus was a 4th century BCE Hellenistic comic poet. Two surviving works survive as fragments. Free to read and download from the Greek library archive.
 

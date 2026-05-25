@@ -2,7 +2,7 @@
 name: Parodist  Anonymous
 name_greek: Ἀνώνυμος παρωδός (Βατραχομυομαχία)
 eul_aid: mje
-canonical: "https://eulogikon.org/en/parodist-anon"
+canonical: "https://eulogikon.org/authors/parodist-anon-mje"
 period: Hellenistic
 dialect: Epic (Homeric)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμος παρωδός (Βατραχομυομαχία)*
 
-**eul_aid:** `mje` · [HTML page](https://eulogikon.org/en/parodist-anon)
+**eul_aid:** `mje` · [HTML page](https://eulogikon.org/authors/parodist-anon-mje)
 
 Parodist Anonymous, Hellenistic poet of the 3rd-2nd century BCE. Works include the Batrachomyomachia. Free to read and download from the Greek library archive.
 

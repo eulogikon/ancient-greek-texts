@@ -2,7 +2,7 @@
 name: Erotic Narrative Anonymous
 name_greek: Ἐρωτικὰ Ἀδέσποτα
 eul_aid: skw
-canonical: "https://eulogikon.org/en/anonymous-erotic-narrative"
+canonical: "https://eulogikon.org/authors/erotic-narrative-anon-skw"
 period: Late Antique
 dialect: Koine
 works_count: 25
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἐρωτικὰ Ἀδέσποτα*
 
-**eul_aid:** `skw` · [HTML page](https://eulogikon.org/en/anonymous-erotic-narrative)
+**eul_aid:** `skw` · [HTML page](https://eulogikon.org/authors/erotic-narrative-anon-skw)
 
 Erotic Narrative Anonymous, Late Antique author of Koine prose fiction. Twenty five works preserved. Free to read and download from the Greek library archive.
 

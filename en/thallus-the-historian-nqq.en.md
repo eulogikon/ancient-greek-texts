@@ -2,7 +2,7 @@
 name: Thallus the Historian
 name_greek: Θαλλός ὁ ἱστορικός
 eul_aid: nqq
-canonical: "https://eulogikon.org/en/thallus-the-historian"
+canonical: "https://eulogikon.org/authors/thallus-the-historian-nqq"
 period: Roman
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θαλλός ὁ ἱστορικός*
 
-**eul_aid:** `nqq` · [HTML page](https://eulogikon.org/en/thallus-the-historian)
+**eul_aid:** `nqq` · [HTML page](https://eulogikon.org/authors/thallus-the-historian-nqq)
 
 Thallus the Historian, a 1st century CE Roman chronicler. Fragments of his historical writings. Free to read and download from the Greek library archive.
 

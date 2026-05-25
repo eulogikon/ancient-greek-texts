@@ -2,7 +2,7 @@
 name: Arimnestus the Philosopher
 name_greek: Ἀρίμνηστος
 eul_aid: ddo
-canonical: "https://eulogikon.org/en/arimnestus-the-philosopher"
+canonical: "https://eulogikon.org/authors/arimnestus-the-philosopher-ddo"
 period: Classical
 dialect: Attic
 affiliation: Platonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρίμνηστος*
 
-**eul_aid:** `ddo` · [HTML page](https://eulogikon.org/en/arimnestus-the-philosopher)
+**eul_aid:** `ddo` · [HTML page](https://eulogikon.org/authors/arimnestus-the-philosopher-ddo)
 
 Arimnestus was a Greek philosopher mentioned by Plato. His surviving treatise is preserved. Free to read and download from the Greek library archive.
 

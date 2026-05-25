@@ -2,7 +2,7 @@
 name: Androetas of Tenos
 name_greek: Ἀνδροέτας ὁ Τήνιος
 eul_aid: gue
-canonical: "https://eulogikon.org/en/androetas-of-tenos"
+canonical: "https://eulogikon.org/authors/androetas-of-tenos-gue"
 period: Classical
 dialect: Ionic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνδροέτας ὁ Τήνιος*
 
-**eul_aid:** `gue` · [HTML page](https://eulogikon.org/en/androetas-of-tenos)
+**eul_aid:** `gue` · [HTML page](https://eulogikon.org/authors/androetas-of-tenos-gue)
 
 Androetas of Tenos was a 4th century BCE historian writing in Ionic Greek. His surviving historical texts. Free to download from the Greek library archive.
 

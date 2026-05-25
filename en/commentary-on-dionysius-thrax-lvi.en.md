@@ -2,7 +2,7 @@
 name: Commentary on Dionysius Thrax
 name_greek: Διονύσιος ὁ Θρᾷξ Τέχνη Γραμματικὴ ὑπόμνησις
 eul_aid: lvi
-canonical: "https://eulogikon.org/en/commentary-on-dionysius-thrax"
+canonical: "https://eulogikon.org/authors/dionysius-thrax-commentary-lvi"
 period: Hellenistic
 dialect: Technical Koine
 works_count: 7
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διονύσιος ὁ Θρᾷξ Τέχνη Γραμματικὴ ὑπόμνησις*
 
-**eul_aid:** `lvi` · [HTML page](https://eulogikon.org/en/commentary-on-dionysius-thrax)
+**eul_aid:** `lvi` · [HTML page](https://eulogikon.org/authors/dionysius-thrax-commentary-lvi)
 
 Dionysius Thrax, Hellenistic grammarian. Commentary and seven grammatical works in Koine prose. Free to read and download from the Greek library archive.
 

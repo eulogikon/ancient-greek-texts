@@ -2,7 +2,7 @@
 name: John the Lydian
 name_greek: Ἰωάννης ὁ Λυδός
 eul_aid: vhw
-canonical: "https://eulogikon.org/en/john-the-lydian"
+canonical: "https://eulogikon.org/authors/john-the-lydian-vhw"
 period: Late Antique
 dialect: Koine
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἰωάννης ὁ Λυδός*
 
-**eul_aid:** `vhw` · [HTML page](https://eulogikon.org/en/john-the-lydian)
+**eul_aid:** `vhw` · [HTML page](https://eulogikon.org/authors/john-the-lydian-vhw)
 
 John the Lydian was a 6th century Byzantine historian. His surviving works include historical texts. Free to read and download from the Greek library archive.
 

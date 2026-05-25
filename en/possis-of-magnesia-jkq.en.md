@@ -2,7 +2,7 @@
 name: Possis of Magnesia
 name_greek: Ποσσὶς ὁ Μαγνής
 eul_aid: jkq
-canonical: "https://eulogikon.org/en/possis-of-magnesia"
+canonical: "https://eulogikon.org/authors/possis-of-magnesia-jkq"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ποσσὶς ὁ Μαγνής*
 
-**eul_aid:** `jkq` · [HTML page](https://eulogikon.org/en/possis-of-magnesia)
+**eul_aid:** `jkq` · [HTML page](https://eulogikon.org/authors/possis-of-magnesia-jkq)
 
 Possis of Magnesia, a 3rd century BCE Hellenistic historian. His surviving works are preserved in fragments. Free to read and download from the Greek library.
 

@@ -2,7 +2,7 @@
 name: Posidonius of Apameia and Rhodes
 name_greek: Ποσειδώνιος ὁ Ἀπαμεύς καὶ ὁ Ῥόδιος
 eul_aid: msa
-canonical: "https://eulogikon.org/en/posidonius-of-apameia-rhodes"
+canonical: "https://eulogikon.org/authors/posidonius-of-apameia-rhodes-msa"
 period: Hellenistic
 dialect: Philosophical Koine
 affiliation: Stoic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ποσειδώνιος ὁ Ἀπαμεύς καὶ ὁ Ῥόδιος*
 
-**eul_aid:** `msa` · [HTML page](https://eulogikon.org/en/posidonius-of-apameia-rhodes)
+**eul_aid:** `msa` · [HTML page](https://eulogikon.org/authors/posidonius-of-apameia-rhodes-msa)
 
 Posidonius, Stoic philosopher and scientist. Three surviving works in this collection. Free to read and download from the Greek text library archive.
 

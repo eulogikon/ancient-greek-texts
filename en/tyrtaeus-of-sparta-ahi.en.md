@@ -2,7 +2,7 @@
 name: Tyrtaeus of Sparta
 name_greek: Τυρταῖος ὁ Λακεδαιμόνιος
 eul_aid: ahi
-canonical: "https://eulogikon.org/en/tyrtaeus-of-sparta"
+canonical: "https://eulogikon.org/authors/tyrtaeus-of-sparta-ahi"
 period: Archaic
 dialect: Ionic Elegiac
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τυρταῖος ὁ Λακεδαιμόνιος*
 
-**eul_aid:** `ahi` · [HTML page](https://eulogikon.org/en/tyrtaeus-of-sparta)
+**eul_aid:** `ahi` · [HTML page](https://eulogikon.org/authors/tyrtaeus-of-sparta-ahi)
 
 Tyrtaeus, a 7th century BCE Spartan poet known for martial elegies. Read his surviving fragments. Free to read and download from the Greek library archive.
 

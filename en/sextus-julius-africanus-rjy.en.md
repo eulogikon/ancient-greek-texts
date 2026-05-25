@@ -2,7 +2,7 @@
 name: Sextus Julius Africanus
 name_greek: Σέξτος Ἰούλιος ὁ Ἀφρικανός
 eul_aid: rjy
-canonical: "https://eulogikon.org/en/sextus-julius-africanus"
+canonical: "https://eulogikon.org/authors/sextus-julius-africanus-rjy"
 period: Roman
 dialect: Christian Koine
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σέξτος Ἰούλιος ὁ Ἀφρικανός*
 
-**eul_aid:** `rjy` · [HTML page](https://eulogikon.org/en/sextus-julius-africanus)
+**eul_aid:** `rjy` · [HTML page](https://eulogikon.org/authors/sextus-julius-africanus-rjy)
 
 Sextus Julius Africanus, Christian historian of Rome. Works include epistles and chronicles. Free to read and download from the Greek library archive.
 

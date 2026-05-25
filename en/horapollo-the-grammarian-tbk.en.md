@@ -2,7 +2,7 @@
 name: Horapollo the Grammarian
 name_greek: Ὡραπόλλων ὁ γραμματικός
 eul_aid: tbk
-canonical: "https://eulogikon.org/en/horapollo-the-grammarian"
+canonical: "https://eulogikon.org/authors/horapollo-the-grammarian-tbk"
 period: Late Antique
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ὡραπόλλων ὁ γραμματικός*
 
-**eul_aid:** `tbk` · [HTML page](https://eulogikon.org/en/horapollo-the-grammarian)
+**eul_aid:** `tbk` · [HTML page](https://eulogikon.org/authors/horapollo-the-grammarian-tbk)
 
 Horapollo was a 5th century CE Alexandrian grammarian. Two grammatical treatises are preserved. Free to read and download from the Greek library archive.
 

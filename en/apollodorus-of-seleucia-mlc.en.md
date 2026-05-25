@@ -2,7 +2,7 @@
 name: Apollodorus of Seleucia
 name_greek: Ἀπολλόδωρος ὁ Σελευκεύς
 eul_aid: mlc
-canonical: "https://eulogikon.org/en/apollodorus-of-seleucia"
+canonical: "https://eulogikon.org/authors/apollodorus-of-seleucia-mlc"
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 affiliation: Stoic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀπολλόδωρος ὁ Σελευκεύς*
 
-**eul_aid:** `mlc` · [HTML page](https://eulogikon.org/en/apollodorus-of-seleucia)
+**eul_aid:** `mlc` · [HTML page](https://eulogikon.org/authors/apollodorus-of-seleucia-mlc)
 
 Apollodorus of Seleucia, a 2nd century BCE Stoic philosopher. Surviving fragments of his works. Free to read and download from the Greek library archive.
 

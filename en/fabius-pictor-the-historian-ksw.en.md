@@ -2,7 +2,7 @@
 name: Fabius Pictor the Historian
 name_greek: Φαβίος Πίκτωρ ὁ ἱστορικός
 eul_aid: ksw
-canonical: "https://eulogikon.org/en/fabius-pictor-the-historian"
+canonical: "https://eulogikon.org/authors/fabius-pictor-the-historian-ksw"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φαβίος Πίκτωρ ὁ ἱστορικός*
 
-**eul_aid:** `ksw` · [HTML page](https://eulogikon.org/en/fabius-pictor-the-historian)
+**eul_aid:** `ksw` · [HTML page](https://eulogikon.org/authors/fabius-pictor-the-historian-ksw)
 
 Fabius Pictor, Roman historian writing in Greek in the 3rd century BCE. Fragments on early Rome. Free to read and download from the Greek library archive.
 

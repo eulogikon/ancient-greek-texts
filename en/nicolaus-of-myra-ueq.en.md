@@ -2,7 +2,7 @@
 name: Nicolaus of Myra
 name_greek: Νικόλαος ὁ Μυρένσιος
 eul_aid: ueq
-canonical: "https://eulogikon.org/en/nicolaus-of-myra"
+canonical: "https://eulogikon.org/authors/nicolaus-of-myra-ueq"
 period: Late Antique
 dialect: Atticizing Technical
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Νικόλαος ὁ Μυρένσιος*
 
-**eul_aid:** `ueq` · [HTML page](https://eulogikon.org/en/nicolaus-of-myra)
+**eul_aid:** `ueq` · [HTML page](https://eulogikon.org/authors/nicolaus-of-myra-ueq)
 
 Nicolaus of Myra, a late antique Atticizing orator of the 5th-6th century CE. Three surviving orations. Free to download from the Greek library archive.
 

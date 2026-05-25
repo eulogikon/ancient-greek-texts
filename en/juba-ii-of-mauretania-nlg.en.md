@@ -2,7 +2,7 @@
 name: Juba II of Mauretania
 name_greek: Ἰοῦβας ὁ Μαυρουσίων βασιλεύς
 eul_aid: nlg
-canonical: "https://eulogikon.org/en/juba-ii-of-mauretania"
+canonical: "https://eulogikon.org/authors/juba-ii-of-mauretania-nlg"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἰοῦβας ὁ Μαυρουσίων βασιλεύς*
 
-**eul_aid:** `nlg` · [HTML page](https://eulogikon.org/en/juba-ii-of-mauretania)
+**eul_aid:** `nlg` · [HTML page](https://eulogikon.org/authors/juba-ii-of-mauretania-nlg)
 
 Juba II, Hellenistic king and scholar of the 1st century BCE. Works on geography and natural history. Free to read and download from the Greek library archive.
 

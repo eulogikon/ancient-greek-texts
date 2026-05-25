@@ -2,7 +2,7 @@
 name: Dioxippus the Comic Poet
 name_greek: Διώξιππος ὁ Κωμικός
 eul_aid: hrq
-canonical: "https://eulogikon.org/en/dioxippus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/dioxippus-the-comic-poet-hrq"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διώξιππος ὁ Κωμικός*
 
-**eul_aid:** `hrq` · [HTML page](https://eulogikon.org/en/dioxippus-the-comic-poet)
+**eul_aid:** `hrq` · [HTML page](https://eulogikon.org/authors/dioxippus-the-comic-poet-hrq)
 
 Dioxippus was a Hellenistic comic poet writing in Attic Greek. Surviving fragments from his comedies are preserved. Free to download from the Greek archive.
 

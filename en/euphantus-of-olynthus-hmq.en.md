@@ -2,7 +2,7 @@
 name: Euphantus of Olynthus
 name_greek: Εὔφαντος ὁ Ὀλύνθιος
 eul_aid: hmq
-canonical: "https://eulogikon.org/en/euphantus-of-olynthus"
+canonical: "https://eulogikon.org/authors/euphantus-of-olynthus-hmq"
 period: Hellenistic
 dialect: Attic
 affiliation: Megarian
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Εὔφαντος ὁ Ὀλύνθιος*
 
-**eul_aid:** `hmq` · [HTML page](https://eulogikon.org/en/euphantus-of-olynthus)
+**eul_aid:** `hmq` · [HTML page](https://eulogikon.org/authors/euphantus-of-olynthus-hmq)
 
 Euphantus of Olynthus was a Hellenistic philosopher. Surviving works include a treatise. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Dorotheus the Astrologer of Sidon
 name_greek: Δωρόθεος ὁ Σιδώνιος
 eul_aid: oho
-canonical: "https://eulogikon.org/en/dorotheus-the-astrologer-of-sidon"
+canonical: "https://eulogikon.org/authors/dorotheus-the-astrologer-oho"
 period: Roman
 dialect: Technical Koine
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δωρόθεος ὁ Σιδώνιος*
 
-**eul_aid:** `oho` · [HTML page](https://eulogikon.org/en/dorotheus-the-astrologer-of-sidon)
+**eul_aid:** `oho` · [HTML page](https://eulogikon.org/authors/dorotheus-the-astrologer-oho)
 
 Dorotheus the Astrologer of Sidon, 1st century CE writer. Works include his astrological treatise. Free to read and download from the Greek library archive.
 

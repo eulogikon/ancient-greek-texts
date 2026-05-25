@@ -2,7 +2,7 @@
 name: Magical Treatises Anonymous
 name_greek: Ἀνώνυμος μαγικὰ συγγράμματα
 eul_aid: smk
-canonical: "https://eulogikon.org/en/magical-treatises-anon"
+canonical: "https://eulogikon.org/authors/magical-treatises-anon-smk"
 period: Late Antique
 dialect: Technical Koine
 works_count: 4
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμος μαγικὰ συγγράμματα*
 
-**eul_aid:** `smk` · [HTML page](https://eulogikon.org/en/magical-treatises-anon)
+**eul_aid:** `smk` · [HTML page](https://eulogikon.org/authors/magical-treatises-anon-smk)
 
 Magical Treatises Anonymous, late antique writings from the 2nd to 4th centuries CE. Four works on magical science. Free to download from the Greek archive.
 

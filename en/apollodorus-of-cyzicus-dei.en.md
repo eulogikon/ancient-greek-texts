@@ -2,7 +2,7 @@
 name: Apollodorus of Cyzicus
 name_greek: Ἀπολλόδωρος ὁ Κυζικηνός
 eul_aid: dei
-canonical: "https://eulogikon.org/en/apollodorus-of-cyzicus"
+canonical: "https://eulogikon.org/authors/apollodorus-of-cyzicus-dei"
 period: Classical
 dialect: Attic (frg)
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀπολλόδωρος ὁ Κυζικηνός*
 
-**eul_aid:** `dei` · [HTML page](https://eulogikon.org/en/apollodorus-of-cyzicus)
+**eul_aid:** `dei` · [HTML page](https://eulogikon.org/authors/apollodorus-of-cyzicus-dei)
 
 Apollodorus of Cyzicus, a 5th century BCE Pythagorean philosopher. Surviving fragments of his works. Free to read and download from the Greek library archive.
 

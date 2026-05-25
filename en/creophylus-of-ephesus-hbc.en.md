@@ -2,7 +2,7 @@
 name: Creophylus of Ephesus
 name_greek: Κρεώφυλος ὁ Ἐφέσιος
 eul_aid: hbc
-canonical: "https://eulogikon.org/en/creophylus-of-ephesus"
+canonical: "https://eulogikon.org/authors/creophylus-of-ephesus-hbc"
 period: Classical
 dialect: Ionic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κρεώφυλος ὁ Ἐφέσιος*
 
-**eul_aid:** `hbc` · [HTML page](https://eulogikon.org/en/creophylus-of-ephesus)
+**eul_aid:** `hbc` · [HTML page](https://eulogikon.org/authors/creophylus-of-ephesus-hbc)
 
 Creophylus of Ephesus, 4th century BCE Ionic historian. Historical fragments from later sources. Free to read and download from the Greek library archive.
 

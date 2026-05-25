@@ -2,7 +2,7 @@
 name: Myron of Eleutherae
 name_greek: Μύρων ὁ Ἐλευθερεύς
 eul_aid: bqi
-canonical: "https://eulogikon.org/en/myron-of-eleutherae"
+canonical: "https://eulogikon.org/authors/myron-of-eleutherae-bqi"
 period: Classical
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μύρων ὁ Ἐλευθερεύς*
 
-**eul_aid:** `bqi` · [HTML page](https://eulogikon.org/en/myron-of-eleutherae)
+**eul_aid:** `bqi` · [HTML page](https://eulogikon.org/authors/myron-of-eleutherae-bqi)
 
 Myron of Eleutherae, a 5th century BCE Attic historian. Surviving works preserved in fragments. Free to read and download from the Greek library archive.
 

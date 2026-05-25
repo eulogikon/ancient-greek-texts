@@ -2,7 +2,7 @@
 name: Cebes of Thebes
 name_greek: Κέβης ὁ Θηβαῖος
 eul_aid: dyi
-canonical: "https://eulogikon.org/en/cebes-of-thebes"
+canonical: "https://eulogikon.org/authors/cebes-of-thebes-dyi"
 period: Classical
 dialect: Attic Philosophical
 affiliation: Socratic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κέβης ὁ Θηβαῖος*
 
-**eul_aid:** `dyi` · [HTML page](https://eulogikon.org/en/cebes-of-thebes)
+**eul_aid:** `dyi` · [HTML page](https://eulogikon.org/authors/cebes-of-thebes-dyi)
 
 Cebes of Thebes, a Socratic philosopher. His surviving treatise, the Pinax, is available. Free to read and download from the Greek library archive.
 

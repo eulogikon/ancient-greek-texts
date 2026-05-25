@@ -2,7 +2,7 @@
 name: Dionysius Letters
 name_greek: Διονυσίου Ἐπιστολαί
 eul_aid: mdk
-canonical: "https://eulogikon.org/en/dionysius-letters"
+canonical: "https://eulogikon.org/authors/dionysius-letters-mdk"
 period: Hellenistic
 dialect: Literary Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διονυσίου Ἐπιστολαί*
 
-**eul_aid:** `mdk` · [HTML page](https://eulogikon.org/en/dionysius-letters)
+**eul_aid:** `mdk` · [HTML page](https://eulogikon.org/authors/dionysius-letters-mdk)
 
 Dionysius Letters, Hellenistic rhetorical epistles. Surviving works include one letter. Free to read and download from the Greek library archive.
 

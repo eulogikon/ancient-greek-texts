@@ -2,7 +2,7 @@
 name: Aristophanes of Byzantium
 name_greek: Ἀριστοφάνης ὁ Βυζάντιος
 eul_aid: klo
-canonical: "https://eulogikon.org/en/aristophanes-of-byzantium"
+canonical: "https://eulogikon.org/authors/aristophanes-of-byzantium-klo"
 period: Hellenistic
 dialect: Technical Koine
 works_count: 11
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀριστοφάνης ὁ Βυζάντιος*
 
-**eul_aid:** `klo` · [HTML page](https://eulogikon.org/en/aristophanes-of-byzantium)
+**eul_aid:** `klo` · [HTML page](https://eulogikon.org/authors/aristophanes-of-byzantium-klo)
 
 Aristophanes of Byzantium, head of the Library of Alexandria. Eleven surviving grammatical treatises. Free to read and download from the Greek library archive.
 

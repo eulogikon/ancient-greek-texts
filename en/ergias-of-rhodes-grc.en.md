@@ -2,7 +2,7 @@
 name: Ergias of Rhodes
 name_greek: Ἐργίας ὁ Ῥόδιος
 eul_aid: grc
-canonical: "https://eulogikon.org/en/ergias-of-rhodes"
+canonical: "https://eulogikon.org/authors/ergias-of-rhodes-grc"
 period: Classical
 dialect: Doric (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἐργίας ὁ Ῥόδιος*
 
-**eul_aid:** `grc` · [HTML page](https://eulogikon.org/en/ergias-of-rhodes)
+**eul_aid:** `grc` · [HTML page](https://eulogikon.org/authors/ergias-of-rhodes-grc)
 
 Ergias of Rhodes was a 4th century BCE historian writing in Doric Greek. His historical fragments. Free to read and download from the Greek library archive.
 

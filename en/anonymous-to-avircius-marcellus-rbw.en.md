@@ -1,7 +1,7 @@
 ---
 name: Anonymous (To Avircius Marcellus)
 eul_aid: rbw
-canonical: "https://eulogikon.org/en/anonymous-to-avircius-marcellus"
+canonical: "https://eulogikon.org/authors/anonymous-avircius-marcellus-rbw"
 period: Uncertain
 works_count: 1
 license: "https://creativecommons.org/publicdomain/mark/1.0/"
@@ -9,7 +9,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 # Anonymous (To Avircius Marcellus)
 
-**eul_aid:** `rbw` · [HTML page](https://eulogikon.org/en/anonymous-to-avircius-marcellus)
+**eul_aid:** `rbw` · [HTML page](https://eulogikon.org/authors/anonymous-avircius-marcellus-rbw)
 
 ## Works
 

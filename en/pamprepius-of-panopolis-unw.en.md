@@ -2,7 +2,7 @@
 name: Pamprepius of Panopolis
 name_greek: Παμπρέπιος ὁ Πανοπολίτης
 eul_aid: unw
-canonical: "https://eulogikon.org/en/pamprepius-of-panopolis"
+canonical: "https://eulogikon.org/authors/pamprepius-of-panopolis-unw"
 period: Late Antique
 dialect: Epic (Homeric)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Παμπρέπιος ὁ Πανοπολίτης*
 
-**eul_aid:** `unw` · [HTML page](https://eulogikon.org/en/pamprepius-of-panopolis)
+**eul_aid:** `unw` · [HTML page](https://eulogikon.org/authors/pamprepius-of-panopolis-unw)
 
 Pamprepius of Panopolis, a 5th century CE poet in Homeric epic tradition. Surviving works include epic verse fragments. Free to download from the Greek archive.
 

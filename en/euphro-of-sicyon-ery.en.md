@@ -2,7 +2,7 @@
 name: Euphro of Sicyon the Comic Poet
 name_greek: Εὔφρων ὁ Σικυώνιος
 eul_aid: ery
-canonical: "https://eulogikon.org/en/euphro-of-sicyon"
+canonical: "https://eulogikon.org/authors/euphro-of-sicyon-ery"
 period: Classical
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Εὔφρων ὁ Σικυώνιος*
 
-**eul_aid:** `ery` · [HTML page](https://eulogikon.org/en/euphro-of-sicyon)
+**eul_aid:** `ery` · [HTML page](https://eulogikon.org/authors/euphro-of-sicyon-ery)
 
 Euphro of Sicyon, a 5th century BCE comic poet. Two surviving fragmentary works are preserved. Free to read and download from the Greek library archive.
 

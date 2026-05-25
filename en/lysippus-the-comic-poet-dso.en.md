@@ -2,7 +2,7 @@
 name: Lysippus the Comic Poet
 name_greek: Λύσιππος ὁ Κωμικός
 eul_aid: dso
-canonical: "https://eulogikon.org/en/lysippus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/lysippus-the-comic-poet-dso"
 period: Classical
 dialect: Attic Comedy
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Λύσιππος ὁ Κωμικός*
 
-**eul_aid:** `dso` · [HTML page](https://eulogikon.org/en/lysippus-the-comic-poet)
+**eul_aid:** `dso` · [HTML page](https://eulogikon.org/authors/lysippus-the-comic-poet-dso)
 
 Lysippus was an Athenian comic poet of Old Comedy. Two surviving works are preserved as fragments. Free to read and download from the Greek library archive.
 

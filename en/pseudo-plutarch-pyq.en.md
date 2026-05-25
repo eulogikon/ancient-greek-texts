@@ -2,7 +2,7 @@
 name: Pseudo-Plutarch
 name_greek: Ψευδοπλούταρχος
 eul_aid: pyq
-canonical: "https://eulogikon.org/en/pseudo-plutarch"
+canonical: "https://eulogikon.org/authors/ps-plutarch-pyq"
 period: Roman
 dialect: Philosophical Koine
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ψευδοπλούταρχος*
 
-**eul_aid:** `pyq` · [HTML page](https://eulogikon.org/en/pseudo-plutarch)
+**eul_aid:** `pyq` · [HTML page](https://eulogikon.org/authors/ps-plutarch-pyq)
 
 Pseudo-Plutarch, an unknown Roman era philosophical author. Three surviving philosophical works. Free to read and download from the Greek library archive.
 

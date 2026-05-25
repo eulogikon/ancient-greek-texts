@@ -2,7 +2,7 @@
 name: Lycus of Rhegium
 name_greek: Λύκος ὁ Ῥηγῖνος
 eul_aid: kgo
-canonical: "https://eulogikon.org/en/lycus-of-rhegium"
+canonical: "https://eulogikon.org/authors/lycus-of-rhegium-kgo"
 period: Hellenistic
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Λύκος ὁ Ῥηγῖνος*
 
-**eul_aid:** `kgo` · [HTML page](https://eulogikon.org/en/lycus-of-rhegium)
+**eul_aid:** `kgo` · [HTML page](https://eulogikon.org/authors/lycus-of-rhegium-kgo)
 
 Lycus of Rhegium was a Hellenistic historian of the 4th-3rd century BCE. Two historical works survive. Free to read and download from the Greek library archive.
 

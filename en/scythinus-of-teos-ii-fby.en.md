@@ -2,7 +2,7 @@
 name: Scythinus of Teos II
 name_greek: Σκυθῖνος ὁ Τήιος
 eul_aid: fby
-canonical: "https://eulogikon.org/en/scythinus-of-teos-ii"
+canonical: "https://eulogikon.org/authors/scythinus-of-teos-fby"
 period: Classical
 dialect: Ionic Iambic
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σκυθῖνος ὁ Τήιος*
 
-**eul_aid:** `fby` · [HTML page](https://eulogikon.org/en/scythinus-of-teos-ii)
+**eul_aid:** `fby` · [HTML page](https://eulogikon.org/authors/scythinus-of-teos-fby)
 
 Scythinus of Teos, a classical Greek poet of Ionic iambic verse. Three poetic fragments survive. Free to read and download from the Greek library archive.
 

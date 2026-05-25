@@ -2,7 +2,7 @@
 name: Theophrastus of Eresus
 name_greek: Θεόφραστος ὁ Ἐρέσιος
 eul_aid: ljk
-canonical: "https://eulogikon.org/en/theophrastus-of-eresus"
+canonical: "https://eulogikon.org/authors/theophrastus-of-eresus-ljk"
 period: Hellenistic
 dialect: Attic Philosophical
 affiliation: Peripatetic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θεόφραστος ὁ Ἐρέσιος*
 
-**eul_aid:** `ljk` · [HTML page](https://eulogikon.org/en/theophrastus-of-eresus)
+**eul_aid:** `ljk` · [HTML page](https://eulogikon.org/authors/theophrastus-of-eresus-ljk)
 
 Theophrastus, successor to Aristotle. Surviving treatises on plants, ethics, and metaphysics. Free to read and download from the Greek library archive.
 

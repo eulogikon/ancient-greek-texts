@@ -2,7 +2,7 @@
 name: Phanodicus
 name_greek: Φανόδικος
 eul_aid: jry
-canonical: "https://eulogikon.org/en/phanodicus"
+canonical: "https://eulogikon.org/authors/phanodicus-jry"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φανόδικος*
 
-**eul_aid:** `jry` · [HTML page](https://eulogikon.org/en/phanodicus)
+**eul_aid:** `jry` · [HTML page](https://eulogikon.org/authors/phanodicus-jry)
 
 Phanodicus was a Hellenistic historian of the 3rd century BCE. His works survive in fragments. Free to read and download from the Greek library archive.
 

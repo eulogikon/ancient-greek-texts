@@ -2,7 +2,7 @@
 name: Seniores Alexandrini
 name_greek: Σενιόρες Ἀλεξανδρινοί
 eul_aid: rnu
-canonical: "https://eulogikon.org/en/seniores-alexandrini"
+canonical: "https://eulogikon.org/authors/seniores-alexandrini-rnu"
 period: Roman
 dialect: Christian Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σενιόρες Ἀλεξανδρινοί*
 
-**eul_aid:** `rnu` · [HTML page](https://eulogikon.org/en/seniores-alexandrini)
+**eul_aid:** `rnu` · [HTML page](https://eulogikon.org/authors/seniores-alexandrini-rnu)
 
 The Seniores Alexandrini were anonymous Christian teachers. Their theological treatise is preserved. Free to read and download from the Greek library archive.
 

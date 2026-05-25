@@ -2,7 +2,7 @@
 name: Sotades of Maroneia Elder
 name_greek: Σωτάδης ὁ Μαρωνείτης ὁ Πρεσβύτερος
 eul_aid: iti
-canonical: "https://eulogikon.org/en/sotades-of-maroneia-elder"
+canonical: "https://eulogikon.org/authors/sotades-of-maroneia-elder-iti"
 period: Hellenistic
 dialect: "Ionic (ia, frg)"
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σωτάδης ὁ Μαρωνείτης ὁ Πρεσβύτερος*
 
-**eul_aid:** `iti` · [HTML page](https://eulogikon.org/en/sotades-of-maroneia-elder)
+**eul_aid:** `iti` · [HTML page](https://eulogikon.org/authors/sotades-of-maroneia-elder-iti)
 
 Sotades of Maroneia the Elder was a Hellenistic poet of comic Ionic verse. His fragments are preserved. Free to download from the Greek library archive.
 

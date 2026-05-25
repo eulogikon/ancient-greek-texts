@@ -2,7 +2,7 @@
 name: Diodorus of Tyre
 name_greek: Διόδωρος ὁ Τύριος
 eul_aid: mrq
-canonical: "https://eulogikon.org/en/diodorus-of-tyre"
+canonical: "https://eulogikon.org/authors/diodorus-of-tyre-mrq"
 period: Hellenistic
 dialect: Attic Philosophical
 affiliation: Peripatetic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διόδωρος ὁ Τύριος*
 
-**eul_aid:** `mrq` · [HTML page](https://eulogikon.org/en/diodorus-of-tyre)
+**eul_aid:** `mrq` · [HTML page](https://eulogikon.org/authors/diodorus-of-tyre-mrq)
 
 Diodorus of Tyre, a Hellenistic Peripatetic philosopher active around 110 BCE. Surviving philosophical texts. Free to download from the Greek library archive.
 

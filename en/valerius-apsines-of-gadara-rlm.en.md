@@ -2,7 +2,7 @@
 name: Valerius Apsines of Gadara
 name_greek: Οὐαλέριος Ἀψίνης ὁ Γαδαρεύς
 eul_aid: rlm
-canonical: "https://eulogikon.org/en/valerius-apsines-of-gadara"
+canonical: "https://eulogikon.org/authors/valerius-apsines-of-gadara-rlm"
 period: Roman
 dialect: Atticizing Technical
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Οὐαλέριος Ἀψίνης ὁ Γαδαρεύς*
 
-**eul_aid:** `rlm` · [HTML page](https://eulogikon.org/en/valerius-apsines-of-gadara)
+**eul_aid:** `rlm` · [HTML page](https://eulogikon.org/authors/valerius-apsines-of-gadara-rlm)
 
 Valerius Apsines, a 3rd century Greek rhetorician. Works on oratory and rhetorical technique. Free to read and download from the Greek library archive.
 

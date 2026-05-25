@@ -2,7 +2,7 @@
 name: Pancrates of Arcadia
 name_greek: Παγκράτης Ἀρκάς
 eul_aid: jqu
-canonical: "https://eulogikon.org/en/pancrates-of-arcadia"
+canonical: "https://eulogikon.org/authors/pancrates-of-arcadia-jqu"
 period: Hellenistic
 dialect: Epic (Homeric) (frg)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Παγκράτης Ἀρκάς*
 
-**eul_aid:** `jqu` · [HTML page](https://eulogikon.org/en/pancrates-of-arcadia)
+**eul_aid:** `jqu` · [HTML page](https://eulogikon.org/authors/pancrates-of-arcadia-jqu)
 
 Pancrates of Arcadia, a Hellenistic poet writing in Homeric epic dialect. Surviving poetic fragments. Free to read and download from the Greek library archive.
 

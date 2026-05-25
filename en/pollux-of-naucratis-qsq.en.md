@@ -2,7 +2,7 @@
 name: Pollux of Naucratis
 name_greek: Ἰούλιος Πολυδεύκης ὁ Ναυκρατίτης
 eul_aid: qsq
-canonical: "https://eulogikon.org/en/pollux-of-naucratis"
+canonical: "https://eulogikon.org/authors/pollux-of-naucratis-qsq"
 period: Roman
 dialect: Atticizing
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἰούλιος Πολυδεύκης ὁ Ναυκρατίτης*
 
-**eul_aid:** `qsq` · [HTML page](https://eulogikon.org/en/pollux-of-naucratis)
+**eul_aid:** `qsq` · [HTML page](https://eulogikon.org/authors/pollux-of-naucratis-qsq)
 
 Julius Pollux was a 2nd century CE Greek scholar from Egypt. His surviving work is the Onomasticon. Free to read and download from the Greek library archive.
 

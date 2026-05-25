@@ -2,7 +2,7 @@
 name: Elegiac Fragments Anonymous II
 name_greek: Ἐλεγεῖα ἄδεσποτα
 eul_aid: dfw
-canonical: "https://eulogikon.org/en/elegiac-fragments-anonymous-ii"
+canonical: "https://eulogikon.org/authors/elegiac-fragments-anon-dfw"
 period: Classical
 dialect: "Ionic (el, frg)"
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἐλεγεῖα ἄδεσποτα*
 
-**eul_aid:** `dfw` · [HTML page](https://eulogikon.org/en/elegiac-fragments-anonymous-ii)
+**eul_aid:** `dfw` · [HTML page](https://eulogikon.org/authors/elegiac-fragments-anon-dfw)
 
 Anonymous elegiac poet from the Classical period. Surviving fragments of elegiac poetry. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Trophonius the Oracle
 name_greek: Τροφώνιος ὁ Μαντεῖος
 eul_aid: cda
-canonical: "https://eulogikon.org/en/trophonius-the-oracle"
+canonical: "https://eulogikon.org/authors/trophonius-the-oracle-cda"
 period: Classical
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τροφώνιος ὁ Μαντεῖος*
 
-**eul_aid:** `cda` · [HTML page](https://eulogikon.org/en/trophonius-the-oracle)
+**eul_aid:** `cda` · [HTML page](https://eulogikon.org/authors/trophonius-the-oracle-cda)
 
 Trophonius the Oracle, a prophetic figure from the Classical period. Surviving oration in the Koine dialect. Free to read and download from the Greek library.
 

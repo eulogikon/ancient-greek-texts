@@ -2,7 +2,7 @@
 name: Aristides of Miletus the Novelist
 name_greek: Ἀριστείδης ὁ Μιλήσιος
 eul_aid: mlm
-canonical: "https://eulogikon.org/en/aristides-of-miletus"
+canonical: "https://eulogikon.org/authors/aristides-of-miletus-mlm"
 period: Hellenistic
 dialect: Ionic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀριστείδης ὁ Μιλήσιος*
 
-**eul_aid:** `mlm` · [HTML page](https://eulogikon.org/en/aristides-of-miletus)
+**eul_aid:** `mlm` · [HTML page](https://eulogikon.org/authors/aristides-of-miletus-mlm)
 
 Aristides of Miletus, Hellenistic novelist of the 2nd-1st century BCE. Milesian Tales in fragmentary prose. Free to read and download from the Greek archive.
 

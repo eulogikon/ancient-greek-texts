@@ -2,7 +2,7 @@
 name: Galen of Pergamon II
 name_greek: Γαληνὸς ὁ Περγαμηνός
 eul_aid: piw
-canonical: "https://eulogikon.org/en/galen-of-pergamon-ii"
+canonical: "https://eulogikon.org/authors/galen-of-pergamon-piw"
 period: Roman
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Γαληνὸς ὁ Περγαμηνός*
 
-**eul_aid:** `piw` · [HTML page](https://eulogikon.org/en/galen-of-pergamon-ii)
+**eul_aid:** `piw` · [HTML page](https://eulogikon.org/authors/galen-of-pergamon-piw)
 
 Galen of Pergamon II was a 2nd century CE Roman grammarian. Two grammatical texts survive in Koine Greek. Free to download from the Greek library archive.
 

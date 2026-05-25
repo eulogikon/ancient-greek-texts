@@ -2,7 +2,7 @@
 name: Aglaosthenes Naxius
 name_greek: Ἀγλαοσθένης ὁ Νάξιος
 eul_aid: hlm
-canonical: "https://eulogikon.org/en/aglaosthenes-naxius"
+canonical: "https://eulogikon.org/authors/aglaosthenes-naxius-hlm"
 period: Classical
 dialect: Ionic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀγλαοσθένης ὁ Νάξιος*
 
-**eul_aid:** `hlm` · [HTML page](https://eulogikon.org/en/aglaosthenes-naxius)
+**eul_aid:** `hlm` · [HTML page](https://eulogikon.org/authors/aglaosthenes-naxius-hlm)
 
 Aglaosthenes Naxius was a 4th century BCE historian from Naxos. His historical fragments are preserved. Free to read and download from the Greek archive.
 

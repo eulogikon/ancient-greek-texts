@@ -2,7 +2,7 @@
 name: Timaeus of Tauromenium
 name_greek: Τιμαῖος ὁ Ταυρομενίτης
 eul_aid: hxk
-canonical: "https://eulogikon.org/en/timaeus-of-tauromenium"
+canonical: "https://eulogikon.org/authors/timaeus-of-tauromenium-hxk"
 period: Hellenistic
 dialect: Koine
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τιμαῖος ὁ Ταυρομενίτης*
 
-**eul_aid:** `hxk` · [HTML page](https://eulogikon.org/en/timaeus-of-tauromenium)
+**eul_aid:** `hxk` · [HTML page](https://eulogikon.org/authors/timaeus-of-tauromenium-hxk)
 
 Timaeus of Tauromenium was a Hellenistic historian of the 4th-3rd centuries BCE. Works survive in fragments. Free to download from the Greek library archive.
 

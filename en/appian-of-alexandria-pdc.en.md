@@ -2,7 +2,7 @@
 name: Appian of Alexandria
 name_greek: Ἀππιανὸς Ἀλεξανδρεύς
 eul_aid: pdc
-canonical: "https://eulogikon.org/en/appian-of-alexandria"
+canonical: "https://eulogikon.org/authors/appian-of-alexandria-pdc"
 period: Roman
 dialect: Koine
 works_count: 18
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀππιανὸς Ἀλεξανδρεύς*
 
-**eul_aid:** `pdc` · [HTML page](https://eulogikon.org/en/appian-of-alexandria)
+**eul_aid:** `pdc` · [HTML page](https://eulogikon.org/authors/appian-of-alexandria-pdc)
 
 Appian of Alexandria, a 2nd century CE Roman historian. Surviving works include his Roman History. Free to read and download from the Greek library archive.
 

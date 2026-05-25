@@ -2,7 +2,7 @@
 name: Paean Collection Anonymous
 name_greek: "Παιάνας (Ἀνώνυμος, Αἰῶνος Ε΄ π.Χ.)"
 eul_aid: cqc
-canonical: "https://eulogikon.org/en/paean-collection-anonymous"
+canonical: "https://eulogikon.org/authors/paean-collection-anon-cqc"
 period: Classical
 dialect: Doric (frg)
 works_count: 5
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Παιάνας (Ἀνώνυμος, Αἰῶνος Ε΄ π.Χ.)*
 
-**eul_aid:** `cqc` · [HTML page](https://eulogikon.org/en/paean-collection-anonymous)
+**eul_aid:** `cqc` · [HTML page](https://eulogikon.org/authors/paean-collection-anon-cqc)
 
 Anonymous collection of Doric paeans from the 5th century BCE. Five surviving poetic fragments. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Nicostratus Son of Aristophanes
 name_greek: Νικόστρατος
 eul_aid: hsu
-canonical: "https://eulogikon.org/en/nicostratus-of-aristophanes"
+canonical: "https://eulogikon.org/authors/nicostratus-of-aristophanes-hsu"
 period: Hellenistic
 dialect: Attic Comedy
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Νικόστρατος*
 
-**eul_aid:** `hsu` · [HTML page](https://eulogikon.org/en/nicostratus-of-aristophanes)
+**eul_aid:** `hsu` · [HTML page](https://eulogikon.org/authors/nicostratus-of-aristophanes-hsu)
 
 Nicostratus, 4th century BCE comic poet and son of Aristophanes. Includes surviving comedy fragments. Free to read and download from the Greek library archive.
 

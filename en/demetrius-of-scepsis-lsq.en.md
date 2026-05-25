@@ -2,7 +2,7 @@
 name: Demetrius of Scepsis
 name_greek: Δημήτριος ὁ Σκήψιος
 eul_aid: lsq
-canonical: "https://eulogikon.org/en/demetrius-of-scepsis"
+canonical: "https://eulogikon.org/authors/demetrius-of-scepsis-lsq"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δημήτριος ὁ Σκήψιος*
 
-**eul_aid:** `lsq` · [HTML page](https://eulogikon.org/en/demetrius-of-scepsis)
+**eul_aid:** `lsq` · [HTML page](https://eulogikon.org/authors/demetrius-of-scepsis-lsq)
 
 Demetrius of Scepsis was a Hellenistic scholar and antiquarian. His grammatical treatise is preserved. Free to read and download from the Greek library archive.
 

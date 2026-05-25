@@ -2,7 +2,7 @@
 name: John of Gaza the Grammarian and Poet
 name_greek: Ἰωάννης ὁ Γαζαῖος
 eul_aid: vuy
-canonical: "https://eulogikon.org/en/john-of-gaza"
+canonical: "https://eulogikon.org/authors/john-of-gaza-vuy"
 period: Late Antique
 dialect: Christian Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἰωάννης ὁ Γαζαῖος*
 
-**eul_aid:** `vuy` · [HTML page](https://eulogikon.org/en/john-of-gaza)
+**eul_aid:** `vuy` · [HTML page](https://eulogikon.org/authors/john-of-gaza-vuy)
 
 John of Gaza, a late antique grammarian and poet. His surviving works include verse compositions. Free to read and download from the Greek library archive.
 

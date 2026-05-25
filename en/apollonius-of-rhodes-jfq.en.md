@@ -2,7 +2,7 @@
 name: Apollonius of Rhodes
 name_greek: Ἀπολλώνιος ὁ Ῥόδιος
 eul_aid: jfq
-canonical: "https://eulogikon.org/en/apollonius-of-rhodes"
+canonical: "https://eulogikon.org/authors/apollonius-of-rhodes-jfq"
 period: Hellenistic
 dialect: Epic (Homeric)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀπολλώνιος ὁ Ῥόδιος*
 
-**eul_aid:** `jfq` · [HTML page](https://eulogikon.org/en/apollonius-of-rhodes)
+**eul_aid:** `jfq` · [HTML page](https://eulogikon.org/authors/apollonius-of-rhodes-jfq)
 
 Apollonius of Rhodes, Hellenistic epic poet of the 3rd century BCE. Works include the Argonautica. Free to read and download from the Greek library archive.
 

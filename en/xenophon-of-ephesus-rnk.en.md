@@ -2,7 +2,7 @@
 name: Xenophon of Ephesus
 name_greek: Ξενοφῶν ὁ Ἐφέσιος
 eul_aid: rnk
-canonical: "https://eulogikon.org/en/xenophon-of-ephesus"
+canonical: "https://eulogikon.org/authors/xenophon-of-ephesus-rnk"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ξενοφῶν ὁ Ἐφέσιος*
 
-**eul_aid:** `rnk` · [HTML page](https://eulogikon.org/en/xenophon-of-ephesus)
+**eul_aid:** `rnk` · [HTML page](https://eulogikon.org/authors/xenophon-of-ephesus-rnk)
 
 Xenophon of Ephesus, 2nd century CE Greek novelist. Author of the surviving romance Ephesian Tale. Free to read and download from the Greek library archive.
 

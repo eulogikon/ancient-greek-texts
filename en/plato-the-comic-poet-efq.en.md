@@ -2,7 +2,7 @@
 name: Plato the Comic Poet
 name_greek: Πλάτων ὁ κωμῳδιοποιός (Ἀθηναῖος)
 eul_aid: efq
-canonical: "https://eulogikon.org/en/plato-the-comic-poet"
+canonical: "https://eulogikon.org/authors/plato-the-comic-poet-efq"
 period: Classical
 dialect: Attic Comedy
 works_count: 5
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πλάτων ὁ κωμῳδιοποιός (Ἀθηναῖος)*
 
-**eul_aid:** `efq` · [HTML page](https://eulogikon.org/en/plato-the-comic-poet)
+**eul_aid:** `efq` · [HTML page](https://eulogikon.org/authors/plato-the-comic-poet-efq)
 
 Plato the Comic Poet was an Athenian playwright of Old Comedy. Five comedies survive in fragments. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Heroic Verses Anonymous
 name_greek: Ἄνώνυμοι ἡρωικοὶ στίχοι
 eul_aid: jym
-canonical: "https://eulogikon.org/en/heroic-verses-anon"
+canonical: "https://eulogikon.org/authors/heroic-verses-anon-jym"
 period: Hellenistic
 dialect: Epic (Homeric) (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἄνώνυμοι ἡρωικοὶ στίχοι*
 
-**eul_aid:** `jym` · [HTML page](https://eulogikon.org/en/heroic-verses-anon)
+**eul_aid:** `jym` · [HTML page](https://eulogikon.org/authors/heroic-verses-anon-jym)
 
 Anonymous author of Hellenistic epic verses in Homeric dialect. Surviving fragments of heroic poetry. Free to read and download from the Greek library archive.
 

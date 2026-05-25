@@ -2,7 +2,7 @@
 name: Pherecrates the Comic Poet
 name_greek: Φερεκράτης ὁ Κωμικός
 eul_aid: dxy
-canonical: "https://eulogikon.org/en/pherecrates-the-comic-poet"
+canonical: "https://eulogikon.org/authors/pherecrates-the-comic-poet-dxy"
 period: Classical
 dialect: Attic Comedy
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φερεκράτης ὁ Κωμικός*
 
-**eul_aid:** `dxy` · [HTML page](https://eulogikon.org/en/pherecrates-the-comic-poet)
+**eul_aid:** `dxy` · [HTML page](https://eulogikon.org/authors/pherecrates-the-comic-poet-dxy)
 
 Pherecrates, Athenian comic poet of Old Comedy in the 5th century BCE. Surviving fragments from his plays. Free to download from the Greek library archive.
 

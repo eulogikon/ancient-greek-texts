@@ -2,7 +2,7 @@
 name: Melissus of Samos
 name_greek: Μέλισσος ὁ Σάμιος
 eul_aid: diy
-canonical: "https://eulogikon.org/en/melissus-of-samos"
+canonical: "https://eulogikon.org/authors/melissus-of-samos-diy"
 period: Classical
 dialect: Ionic (frg)
 affiliation: Eleatic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μέλισσος ὁ Σάμιος*
 
-**eul_aid:** `diy` · [HTML page](https://eulogikon.org/en/melissus-of-samos)
+**eul_aid:** `diy` · [HTML page](https://eulogikon.org/authors/melissus-of-samos-diy)
 
 Melissus of Samos, 5th century BCE Eleatic philosopher. Surviving fragments of his works. Free to read and download from the Greek library archive.
 

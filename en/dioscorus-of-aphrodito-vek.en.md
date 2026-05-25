@@ -2,7 +2,7 @@
 name: Dioscorus of Aphrodito
 name_greek: Διόσκορος ὁ Ἀφροδιτηνός
 eul_aid: vek
-canonical: "https://eulogikon.org/en/dioscorus-of-aphrodito"
+canonical: "https://eulogikon.org/authors/dioscorus-of-aphrodito-vek"
 period: Late Antique
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διόσκορος ὁ Ἀφροδιτηνός*
 
-**eul_aid:** `vek` · [HTML page](https://eulogikon.org/en/dioscorus-of-aphrodito)
+**eul_aid:** `vek` · [HTML page](https://eulogikon.org/authors/dioscorus-of-aphrodito-vek)
 
 Dioscorus of Aphrodito was a 6th century CE poet writing in Koine Greek. His surviving works are preserved. Free to download from the Greek library archive.
 

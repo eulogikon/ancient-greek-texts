@@ -2,7 +2,7 @@
 name: Zenodorus the Grammarian
 name_greek: Ζηνόδωρος ὁ Γραμματικός
 eul_aid: mee
-canonical: "https://eulogikon.org/en/zenodorus-the-grammarian"
+canonical: "https://eulogikon.org/authors/zenodorus-the-grammarian-mee"
 period: Hellenistic
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ζηνόδωρος ὁ Γραμματικός*
 
-**eul_aid:** `mee` · [HTML page](https://eulogikon.org/en/zenodorus-the-grammarian)
+**eul_aid:** `mee` · [HTML page](https://eulogikon.org/authors/zenodorus-the-grammarian-mee)
 
 Zenodorus was a Hellenistic grammarian of the 2nd century BCE. His treatise covers literary study. Free to read and download from the Greek library archive.
 

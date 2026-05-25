@@ -2,7 +2,7 @@
 name: Agamestor
 name_greek: Ἀγαμήστωρ
 eul_aid: dbq
-canonical: "https://eulogikon.org/en/agamestor"
+canonical: "https://eulogikon.org/authors/agamestor-dbq"
 period: Classical
 dialect: "Ionic (el, frg)"
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀγαμήστωρ*
 
-**eul_aid:** `dbq` · [HTML page](https://eulogikon.org/en/agamestor)
+**eul_aid:** `dbq` · [HTML page](https://eulogikon.org/authors/agamestor-dbq)
 
 Agamestor, a 5th century BCE Ionic poet. Surviving elegiac fragments from ancient sources. Free to read and download from the Greek library archive.
 

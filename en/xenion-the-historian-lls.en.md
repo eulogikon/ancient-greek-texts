@@ -2,7 +2,7 @@
 name: Xenion the Historian
 name_greek: Ξενίων ὁ ἱστορικός
 eul_aid: lls
-canonical: "https://eulogikon.org/en/xenion-the-historian"
+canonical: "https://eulogikon.org/authors/xenion-the-historian-lls"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ξενίων ὁ ἱστορικός*
 
-**eul_aid:** `lls` · [HTML page](https://eulogikon.org/en/xenion-the-historian)
+**eul_aid:** `lls` · [HTML page](https://eulogikon.org/authors/xenion-the-historian-lls)
 
 Xenion the Historian was a Hellenistic era writer. Surviving fragments of his historical works. Free to read and download from the Greek library archive.
 

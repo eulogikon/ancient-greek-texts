@@ -2,7 +2,7 @@
 name: Eutocius of Ascalon
 name_greek: Εὐτόκιος ὁ Ἀσκαλωνίτης
 eul_aid: uvy
-canonical: "https://eulogikon.org/en/eutocius-of-ascalon"
+canonical: "https://eulogikon.org/authors/eutocius-of-ascalon-uvy"
 period: Late Antique
 dialect: Technical Koine
 works_count: 4
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Εὐτόκιος ὁ Ἀσκαλωνίτης*
 
-**eul_aid:** `uvy` · [HTML page](https://eulogikon.org/en/eutocius-of-ascalon)
+**eul_aid:** `uvy` · [HTML page](https://eulogikon.org/authors/eutocius-of-ascalon-uvy)
 
 Eutocius of Ascalon was a 6th century mathematician. Works include treatises and commentaries. Free to read and download from the Greek library archive.
 

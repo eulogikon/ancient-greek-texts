@@ -2,7 +2,7 @@
 name: Medical Writer  Anonymous
 name_greek: Ἀνώνυμος ἰατρικός συγγραφεύς (ψευδο-Γαληνός)
 eul_aid: tqu
-canonical: "https://eulogikon.org/en/anonymous-medical-writer"
+canonical: "https://eulogikon.org/authors/medical-writer-anon-tqu"
 period: Late Antique
 dialect: Technical Koine
 works_count: 25
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμος ἰατρικός συγγραφεύς (ψευδο-Γαληνός)*
 
-**eul_aid:** `tqu` · [HTML page](https://eulogikon.org/en/anonymous-medical-writer)
+**eul_aid:** `tqu` · [HTML page](https://eulogikon.org/authors/medical-writer-anon-tqu)
 
 Anonymous medical writer of Late Antiquity, 2nd to 5th century CE. Twenty-five surviving medical works. Free to download from the Greek library archive.
 

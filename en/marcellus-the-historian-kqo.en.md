@@ -2,7 +2,7 @@
 name: Marcellus the Historian
 name_greek: Μάρκελλος ὁ ἱστορικός
 eul_aid: kqo
-canonical: "https://eulogikon.org/en/marcellus-the-historian"
+canonical: "https://eulogikon.org/authors/marcellus-the-historian-kqo"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μάρκελλος ὁ ἱστορικός*
 
-**eul_aid:** `kqo` · [HTML page](https://eulogikon.org/en/marcellus-the-historian)
+**eul_aid:** `kqo` · [HTML page](https://eulogikon.org/authors/marcellus-the-historian-kqo)
 
 Marcellus the Historian, a Hellenistic Greek historian of the 3rd century BCE. Fragments of his works. Free to read and download from the Greek library archive.
 

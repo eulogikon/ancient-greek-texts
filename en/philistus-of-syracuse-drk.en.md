@@ -2,7 +2,7 @@
 name: Philistus of Syracuse
 name_greek: Φίλιστος ὁ Συρακούσιος
 eul_aid: drk
-canonical: "https://eulogikon.org/en/philistus-of-syracuse"
+canonical: "https://eulogikon.org/authors/philistus-of-syracuse-drk"
 period: Classical
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φίλιστος ὁ Συρακούσιος*
 
-**eul_aid:** `drk` · [HTML page](https://eulogikon.org/en/philistus-of-syracuse)
+**eul_aid:** `drk` · [HTML page](https://eulogikon.org/authors/philistus-of-syracuse-drk)
 
 Philistus of Syracuse, a 5th-4th century BCE Greek historian. His surviving works are in fragments. Free to read and download from the Greek library archive.
 

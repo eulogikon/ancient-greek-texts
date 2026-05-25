@@ -2,7 +2,7 @@
 name: Libanius of Antioch
 name_greek: Λιβάνιος ὁ Ἀντιοχεύς
 eul_aid: swk
-canonical: "https://eulogikon.org/en/libanius-of-antioch"
+canonical: "https://eulogikon.org/authors/libanius-of-antioch-swk"
 period: Late Antique
 dialect: Atticizing
 works_count: 11
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Λιβάνιος ὁ Ἀντιοχεύς*
 
-**eul_aid:** `swk` · [HTML page](https://eulogikon.org/en/libanius-of-antioch)
+**eul_aid:** `swk` · [HTML page](https://eulogikon.org/authors/libanius-of-antioch-swk)
 
 Libanius, a 4th century CE Greek orator from Antioch. Works include orations and rhetorical exercises. Free to read and download from the Greek library archive.
 

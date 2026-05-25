@@ -2,7 +2,7 @@
 name: Dionysius of Halicarnassus
 name_greek: Διονύσιος ὁ Ἁλικαρνασσεύς
 eul_aid: ndy
-canonical: "https://eulogikon.org/en/dionysius-of-halicarnassus"
+canonical: "https://eulogikon.org/authors/dionysius-of-halicarnassus-ndy"
 period: Hellenistic
 dialect: Attic
 works_count: 18
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διονύσιος ὁ Ἁλικαρνασσεύς*
 
-**eul_aid:** `ndy` · [HTML page](https://eulogikon.org/en/dionysius-of-halicarnassus)
+**eul_aid:** `ndy` · [HTML page](https://eulogikon.org/authors/dionysius-of-halicarnassus-ndy)
 
 Dionysius of Halicarnassus, 1st century BCE historian. Works include historical orations and essays. Free to read and download from the Greek library archive.
 

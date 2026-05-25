@@ -2,7 +2,7 @@
 name: Damon the Historian
 name_greek: Δάμων ὁ Ἀθηναῖος (ὁ ἐξ Οἴης)
 eul_aid: eni
-canonical: "https://eulogikon.org/en/damon-the-historian"
+canonical: "https://eulogikon.org/authors/damon-of-athens-eni"
 period: Classical
 dialect: Attic (frg)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δάμων ὁ Ἀθηναῖος (ὁ ἐξ Οἴης)*
 
-**eul_aid:** `eni` · [HTML page](https://eulogikon.org/en/damon-the-historian)
+**eul_aid:** `eni` · [HTML page](https://eulogikon.org/authors/damon-of-athens-eni)
 
 Damon of Athens, 5th century BCE music theorist. Surviving fragments on harmonics and education. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Choerilus of Iasus
 name_greek: Χοιρίλος ὁ Ἰασεύς
 eul_aid: gwm
-canonical: "https://eulogikon.org/en/choerilus-of-iasus"
+canonical: "https://eulogikon.org/authors/choerilus-of-iasus-gwm"
 period: Classical
 dialect: Epic (Homeric)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Χοιρίλος ὁ Ἰασεύς*
 
-**eul_aid:** `gwm` · [HTML page](https://eulogikon.org/en/choerilus-of-iasus)
+**eul_aid:** `gwm` · [HTML page](https://eulogikon.org/authors/choerilus-of-iasus-gwm)
 
 Choerilus of Iasus, a 4th century BCE Greek epic poet. Surviving fragments of his Homeric-style verse. Free to read and download from the Greek library archive.
 

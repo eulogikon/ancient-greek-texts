@@ -2,7 +2,7 @@
 name: Hierocles the Stoic
 name_greek: Ἱεροκλῆς ὁ Στωϊκός
 eul_aid: pnw
-canonical: "https://eulogikon.org/en/hierocles-the-stoic"
+canonical: "https://eulogikon.org/authors/hierocles-the-stoic-pnw"
 period: Roman
 dialect: "Koine (phi, frg)"
 affiliation: Stoic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἱεροκλῆς ὁ Στωϊκός*
 
-**eul_aid:** `pnw` · [HTML page](https://eulogikon.org/en/hierocles-the-stoic)
+**eul_aid:** `pnw` · [HTML page](https://eulogikon.org/authors/hierocles-the-stoic-pnw)
 
 Hierocles, a 2nd century CE Stoic philosopher. Surviving works include ethical fragments and treatises. Free to download from the Greek library archive.
 

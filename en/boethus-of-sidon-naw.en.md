@@ -2,7 +2,7 @@
 name: Boethus of Sidon
 name_greek: Βοηθὸς ὁ Σιδώνιος
 eul_aid: naw
-canonical: "https://eulogikon.org/en/boethus-of-sidon"
+canonical: "https://eulogikon.org/authors/boethus-of-sidon-naw"
 period: Hellenistic
 dialect: Philosophical Koine
 affiliation: Peripatetic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Βοηθὸς ὁ Σιδώνιος*
 
-**eul_aid:** `naw` · [HTML page](https://eulogikon.org/en/boethus-of-sidon)
+**eul_aid:** `naw` · [HTML page](https://eulogikon.org/authors/boethus-of-sidon-naw)
 
 Boethus of Sidon, 1st century BCE Peripatetic philosopher. Surviving philosophical fragments. Free to read and download from the Greek library archive.
 

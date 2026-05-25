@@ -2,7 +2,7 @@
 name: Philo Byzantium
 name_greek: Φίλων ὁ Βυζάντιος
 eul_aid: jgu
-canonical: "https://eulogikon.org/en/philo-byzantium"
+canonical: "https://eulogikon.org/authors/philo-byzantium-jgu"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φίλων ὁ Βυζάντιος*
 
-**eul_aid:** `jgu` · [HTML page](https://eulogikon.org/en/philo-byzantium)
+**eul_aid:** `jgu` · [HTML page](https://eulogikon.org/authors/philo-byzantium-jgu)
 
 Philo Byzantium, Hellenistic engineer of the 3rd-2nd centuries BCE. Includes his treatise on mechanics. Free to read and download from the Greek archive.
 

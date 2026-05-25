@@ -2,7 +2,7 @@
 name: Medical Writers Anonymous
 name_greek: Ἀνώνυμοι Ἰατρικοί
 eul_aid: umi
-canonical: "https://eulogikon.org/en/medical-writers-anonymous"
+canonical: "https://eulogikon.org/authors/medical-writers-anon-umi"
 period: Late Antique
 dialect: Technical Koine
 works_count: 24
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμοι Ἰατρικοί*
 
-**eul_aid:** `umi` · [HTML page](https://eulogikon.org/en/medical-writers-anonymous)
+**eul_aid:** `umi` · [HTML page](https://eulogikon.org/authors/medical-writers-anon-umi)
 
 Medical Writers Anonymous, late antique Greek medical authors. Surviving works are medical treatises. Free to read and download from the Greek library archive.
 

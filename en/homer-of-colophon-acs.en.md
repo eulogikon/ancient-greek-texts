@@ -2,7 +2,7 @@
 name: Homer of Colophon
 name_greek: Ὅμηρος ὁ Κολοφώνιος
 eul_aid: acs
-canonical: "https://eulogikon.org/en/homer-of-colophon"
+canonical: "https://eulogikon.org/authors/homer-of-colophon-acs"
 period: Archaic
 dialect: Epic (Homeric)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ὅμηρος ὁ Κολοφώνιος*
 
-**eul_aid:** `acs` · [HTML page](https://eulogikon.org/en/homer-of-colophon)
+**eul_aid:** `acs` · [HTML page](https://eulogikon.org/authors/homer-of-colophon-acs)
 
 Homer of Colophon, a 7th century BCE Greek epic poet. Read his surviving epic verse for free. Free to read and download from the Greek library archive.
 

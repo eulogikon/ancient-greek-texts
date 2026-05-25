@@ -2,7 +2,7 @@
 name: Lynceus of Samos the Comic Poet
 name_greek: Λύγκευς ὁ Σάμιος
 eul_aid: iyi
-canonical: "https://eulogikon.org/en/lynceus-of-samos"
+canonical: "https://eulogikon.org/authors/lynceus-of-samos-iyi"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,14 +13,14 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Λύγκευς ὁ Σάμιος*
 
-**eul_aid:** `iyi` · [HTML page](https://eulogikon.org/en/lynceus-of-samos)
+**eul_aid:** `iyi` · [HTML page](https://eulogikon.org/authors/lynceus-of-samos-iyi)
 
 Lynceus of Samos was a Hellenistic comic poet of the 4th to 3rd century BCE. Two fragmentary works. Free to read and download from the Greek library archive.
 
 ## Works
 
-- [Fragments on Athenian Dining](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lynceus-of-samos-athenian-dining-ab-iyi-ab.grc.md) — *Ἀποσπάσματα περὶ Ἀθηναίων Δείπνων* · `iyi-ab`
 - [Fragments on Athenian Dining](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lynceus-of-samos-athenian-dining-aa-iyi-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀθηναίων Δείπνων* · `iyi-aa`
+- [Fragments on Athenian Dining](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lynceus-of-samos-athenian-dining-ab-iyi-ab.grc.md) — *Ἀποσπάσματα περὶ Ἀθηναίων Δείπνων* · `iyi-ab`
 
 ## License and provenance
 

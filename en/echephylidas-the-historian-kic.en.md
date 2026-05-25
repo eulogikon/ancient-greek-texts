@@ -2,7 +2,7 @@
 name: Echephylidas the Historian
 name_greek: Ἐχεφυλλίδας ὁ ἱστορικός
 eul_aid: kic
-canonical: "https://eulogikon.org/en/echephylidas-the-historian"
+canonical: "https://eulogikon.org/authors/echephylidas-the-historian-kic"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἐχεφυλλίδας ὁ ἱστορικός*
 
-**eul_aid:** `kic` · [HTML page](https://eulogikon.org/en/echephylidas-the-historian)
+**eul_aid:** `kic` · [HTML page](https://eulogikon.org/authors/echephylidas-the-historian-kic)
 
 Echephylidas, a Hellenistic historian of the 4th to 3rd centuries BCE. Surviving historical fragments. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Dinias of Argos
 name_greek: Δινίας ὁ Ἀργεῖος
 eul_aid: bta
-canonical: "https://eulogikon.org/en/dinias-of-argos"
+canonical: "https://eulogikon.org/authors/dinias-of-argos-bta"
 period: Classical
 dialect: Doric (frg)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δινίας ὁ Ἀργεῖος*
 
-**eul_aid:** `bta` · [HTML page](https://eulogikon.org/en/dinias-of-argos)
+**eul_aid:** `bta` · [HTML page](https://eulogikon.org/authors/dinias-of-argos-bta)
 
 Dinias of Argos, a 4th century BCE historian writing in Doric Greek. His surviving works are fragmentary. Free to read and download from the Greek archive.
 

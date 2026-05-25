@@ -2,7 +2,7 @@
 name: Antigonus Letters
 name_greek: Ἀντιγόνου Ἐπιστολή
 eul_aid: hty
-canonical: "https://eulogikon.org/en/antigonus-letters"
+canonical: "https://eulogikon.org/authors/antigonus-letters-hty"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀντιγόνου Ἐπιστολή*
 
-**eul_aid:** `hty` · [HTML page](https://eulogikon.org/en/antigonus-letters)
+**eul_aid:** `hty` · [HTML page](https://eulogikon.org/authors/antigonus-letters-hty)
 
 Antigonus, a Hellenistic author of the 3rd–2nd century BCE. Surviving epistles of rhetorical interest. Free to read and download from the Greek library archive.
 

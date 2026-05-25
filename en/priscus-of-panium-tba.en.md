@@ -2,7 +2,7 @@
 name: Priscus of Panium
 name_greek: Πρίσκος ὁ Πανίτης
 eul_aid: tba
-canonical: "https://eulogikon.org/en/priscus-of-panium"
+canonical: "https://eulogikon.org/authors/priscus-of-panium-tba"
 period: Late Antique
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πρίσκος ὁ Πανίτης*
 
-**eul_aid:** `tba` · [HTML page](https://eulogikon.org/en/priscus-of-panium)
+**eul_aid:** `tba` · [HTML page](https://eulogikon.org/authors/priscus-of-panium-tba)
 
 Priscus of Panium was a 5th century CE historian. Fragments of his historical works are preserved. Free to read and download from the Greek library archive.
 

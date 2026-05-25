@@ -2,7 +2,7 @@
 name: Zeno of Rhodes
 name_greek: Ζήνων ὁ Ῥόδιος
 eul_aid: lrw
-canonical: "https://eulogikon.org/en/zeno-of-rhodes"
+canonical: "https://eulogikon.org/authors/zeno-of-rhodes-lrw"
 period: Hellenistic
 dialect: Ionic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ζήνων ὁ Ῥόδιος*
 
-**eul_aid:** `lrw` · [HTML page](https://eulogikon.org/en/zeno-of-rhodes)
+**eul_aid:** `lrw` · [HTML page](https://eulogikon.org/authors/zeno-of-rhodes-lrw)
 
 Zeno of Rhodes was a Hellenistic historian of the 2nd century BCE. Fragments of his historical works. Free to read and download from the Greek library archive.
 

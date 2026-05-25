@@ -2,7 +2,7 @@
 name: Antipater of Sidon
 name_greek: Ἀντίπατρος ὁ Σιδώνιος
 eul_aid: lcc
-canonical: "https://eulogikon.org/en/antipater-of-sidon"
+canonical: "https://eulogikon.org/authors/antipater-of-sidon-lcc"
 period: Hellenistic
 dialect: Mixed Dialects
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀντίπατρος ὁ Σιδώνιος*
 
-**eul_aid:** `lcc` · [HTML page](https://eulogikon.org/en/antipater-of-sidon)
+**eul_aid:** `lcc` · [HTML page](https://eulogikon.org/authors/antipater-of-sidon-lcc)
 
 Antipater of Sidon, a Hellenistic poet of the 2nd to 1st century BCE. Surviving epigrams and works. Free to read and download from the Greek library archive.
 

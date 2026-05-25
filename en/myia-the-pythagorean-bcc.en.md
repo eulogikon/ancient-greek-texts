@@ -2,7 +2,7 @@
 name: Myia the Pythagorean
 name_greek: Μυῖα ἡ Πυθαγόρεια
 eul_aid: bcc
-canonical: "https://eulogikon.org/en/myia-the-pythagorean"
+canonical: "https://eulogikon.org/authors/myia-the-pythagorean-bcc"
 period: Archaic
 dialect: Koine
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μυῖα ἡ Πυθαγόρεια*
 
-**eul_aid:** `bcc` · [HTML page](https://eulogikon.org/en/myia-the-pythagorean)
+**eul_aid:** `bcc` · [HTML page](https://eulogikon.org/authors/myia-the-pythagorean-bcc)
 
 Myia was a philosopher of the Pythagorean school. Her surviving work is an epistle on harmony. Free to read and download from the Greek library archive.
 

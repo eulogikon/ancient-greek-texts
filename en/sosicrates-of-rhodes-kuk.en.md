@@ -2,7 +2,7 @@
 name: Sosicrates of Rhodes
 name_greek: Σωσικράτης ὁ Ῥόδιος
 eul_aid: kuk
-canonical: "https://eulogikon.org/en/sosicrates-of-rhodes"
+canonical: "https://eulogikon.org/authors/sosicrates-of-rhodes-kuk"
 period: Hellenistic
 dialect: Doric
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σωσικράτης ὁ Ῥόδιος*
 
-**eul_aid:** `kuk` · [HTML page](https://eulogikon.org/en/sosicrates-of-rhodes)
+**eul_aid:** `kuk` · [HTML page](https://eulogikon.org/authors/sosicrates-of-rhodes-kuk)
 
 Sosicrates of Rhodes, a 2nd century BCE Hellenistic historian. Surviving works preserved in fragments. Free to read and download from the Greek library archive.
 

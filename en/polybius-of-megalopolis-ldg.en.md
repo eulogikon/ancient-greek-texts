@@ -2,7 +2,7 @@
 name: Polybius of Megalopolis
 name_greek: Πολύβιος ὁ Μεγαλοπολίτης
 eul_aid: ldg
-canonical: "https://eulogikon.org/en/polybius-of-megalopolis"
+canonical: "https://eulogikon.org/authors/polybius-of-megalopolis-ldg"
 period: Hellenistic
 dialect: Koine
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πολύβιος ὁ Μεγαλοπολίτης*
 
-**eul_aid:** `ldg` · [HTML page](https://eulogikon.org/en/polybius-of-megalopolis)
+**eul_aid:** `ldg` · [HTML page](https://eulogikon.org/authors/polybius-of-megalopolis-ldg)
 
 Polybius, Hellenistic historian of the 3rd-2nd centuries BCE. Surviving works include The Histories. Free to read and download from the Greek library archive.
 

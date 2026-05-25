@@ -2,7 +2,7 @@
 name: Cleobulus of Lindos I
 name_greek: Κλεόβουλος ὁ Λίνδιος
 eul_aid: anw
-canonical: "https://eulogikon.org/en/cleobulus-of-lindos-i"
+canonical: "https://eulogikon.org/authors/cleobulus-of-lindos-anw"
 period: Archaic
 dialect: Koine
 affiliation: Presocratic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κλεόβουλος ὁ Λίνδιος*
 
-**eul_aid:** `anw` · [HTML page](https://eulogikon.org/en/cleobulus-of-lindos-i)
+**eul_aid:** `anw` · [HTML page](https://eulogikon.org/authors/cleobulus-of-lindos-anw)
 
 Cleobulus of Lindos, 6th century BCE Greek sage and ruler. Epistles and philosophical sayings. Free to read and download from the Greek library archive.
 

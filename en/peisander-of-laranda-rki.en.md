@@ -2,7 +2,7 @@
 name: Peisander of Laranda
 name_greek: Πείσανδρος ὁ Λαρανδινός
 eul_aid: rki
-canonical: "https://eulogikon.org/en/peisander-of-laranda"
+canonical: "https://eulogikon.org/authors/peisander-of-laranda-rki"
 period: Roman
 dialect: Epic (Homeric)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πείσανδρος ὁ Λαρανδινός*
 
-**eul_aid:** `rki` · [HTML page](https://eulogikon.org/en/peisander-of-laranda)
+**eul_aid:** `rki` · [HTML page](https://eulogikon.org/authors/peisander-of-laranda-rki)
 
 Peisander of Laranda, 3rd century CE epic poet in Homeric dialect. Surviving mythological epic poetry. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Philo of Alexandria the Elder
 name_greek: Φίλων ὁ Ἀλεξανδρεύς
 eul_aid: mcq
-canonical: "https://eulogikon.org/en/philo-of-alexandria-the-elder"
+canonical: "https://eulogikon.org/authors/philo-of-alexandria-the-elder-mcq"
 period: Hellenistic
 dialect: Philosophical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φίλων ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `mcq` · [HTML page](https://eulogikon.org/en/philo-of-alexandria-the-elder)
+**eul_aid:** `mcq` · [HTML page](https://eulogikon.org/authors/philo-of-alexandria-the-elder-mcq)
 
 Philo of Alexandria, a Hellenistic epic poet of the 1st century BCE. Works include his epic poetry. Free to read and download from the Greek library archive.
 

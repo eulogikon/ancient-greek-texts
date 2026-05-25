@@ -2,7 +2,7 @@
 name: Heraclitus the Paradoxographer
 name_greek: Ἡράκλειτος ὁ Παραδοξογράφος
 eul_aid: qfo
-canonical: "https://eulogikon.org/en/heraclitus-the-paradoxographer"
+canonical: "https://eulogikon.org/authors/heraclitus-the-paradoxographer-qfo"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡράκλειτος ὁ Παραδοξογράφος*
 
-**eul_aid:** `qfo` · [HTML page](https://eulogikon.org/en/heraclitus-the-paradoxographer)
+**eul_aid:** `qfo` · [HTML page](https://eulogikon.org/authors/heraclitus-the-paradoxographer-qfo)
 
 Heraclitus the Paradoxographer, Roman era writer of the 2nd century CE. Work On Unbelievable Things. Free to read and download from the Greek library archive.
 

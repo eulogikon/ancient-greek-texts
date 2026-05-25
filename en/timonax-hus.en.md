@@ -2,7 +2,7 @@
 name: Timonax
 name_greek: Τιμώναξ
 eul_aid: hus
-canonical: "https://eulogikon.org/en/timonax"
+canonical: "https://eulogikon.org/authors/timonax-hus"
 period: Hellenistic
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τιμώναξ*
 
-**eul_aid:** `hus` · [HTML page](https://eulogikon.org/en/timonax)
+**eul_aid:** `hus` · [HTML page](https://eulogikon.org/authors/timonax-hus)
 
 Timonax was a Hellenistic historian writing in Attic prose. His surviving historical work is here. Free to read and download from the Greek library archive.
 

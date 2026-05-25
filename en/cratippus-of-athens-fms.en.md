@@ -2,7 +2,7 @@
 name: Cratippus of Athens
 name_greek: Κράτιππος ὁ Ἀθηναῖος
 eul_aid: fms
-canonical: "https://eulogikon.org/en/cratippus-of-athens"
+canonical: "https://eulogikon.org/authors/cratippus-of-athens-fms"
 period: Classical
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κράτιππος ὁ Ἀθηναῖος*
 
-**eul_aid:** `fms` · [HTML page](https://eulogikon.org/en/cratippus-of-athens)
+**eul_aid:** `fms` · [HTML page](https://eulogikon.org/authors/cratippus-of-athens-fms)
 
 Cratippus of Athens, a 4th century BCE historian. His surviving historical work is preserved in fragments. Free to download from the Greek library archive.
 

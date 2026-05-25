@@ -2,7 +2,7 @@
 name: Phaedimus of Bisanthe
 name_greek: Φαίδιμος ὁ Βισανθηνός
 eul_aid: jro
-canonical: "https://eulogikon.org/en/phaedimus-of-bisanthe"
+canonical: "https://eulogikon.org/authors/phaedimus-of-bisanthe-jro"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φαίδιμος ὁ Βισανθηνός*
 
-**eul_aid:** `jro` · [HTML page](https://eulogikon.org/en/phaedimus-of-bisanthe)
+**eul_aid:** `jro` · [HTML page](https://eulogikon.org/authors/phaedimus-of-bisanthe-jro)
 
 Phaedimus of Bisanthe, Hellenistic poet of the 3rd century BCE. Surviving poetic works in Koine Greek. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Callimachus of Cyrene the Poet and Scholar
 name_greek: Καλλίμαχος ὁ Κυρηναῖος
 eul_aid: iso
-canonical: "https://eulogikon.org/en/callimachus-of-cyrene"
+canonical: "https://eulogikon.org/authors/callimachus-of-cyrene-iso"
 period: Hellenistic
 dialect: Literary Koine
 works_count: 18
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Καλλίμαχος ὁ Κυρηναῖος*
 
-**eul_aid:** `iso` · [HTML page](https://eulogikon.org/en/callimachus-of-cyrene)
+**eul_aid:** `iso` · [HTML page](https://eulogikon.org/authors/callimachus-of-cyrene-iso)
 
 Callimachus of Cyrene, Hellenistic poet and scholar. Works include poetry fragments and treatises. Free to read and download from the Greek library archive.
 

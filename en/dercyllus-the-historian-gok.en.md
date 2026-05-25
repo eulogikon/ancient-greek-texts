@@ -2,7 +2,7 @@
 name: Dercyllus the Historian
 name_greek: Δερκύλλος ὁ ἱστορικός
 eul_aid: gok
-canonical: "https://eulogikon.org/en/dercyllus-the-historian"
+canonical: "https://eulogikon.org/authors/dercyllus-the-historian-gok"
 period: Classical
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δερκύλλος ὁ ἱστορικός*
 
-**eul_aid:** `gok` · [HTML page](https://eulogikon.org/en/dercyllus-the-historian)
+**eul_aid:** `gok` · [HTML page](https://eulogikon.org/authors/dercyllus-the-historian-gok)
 
 Dercyllus the Historian, a 4th century BCE Attic prose writer. Historical fragments from antiquity. Free to read and download from the Greek library archive.
 

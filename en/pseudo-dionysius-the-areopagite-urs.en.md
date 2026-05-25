@@ -2,7 +2,7 @@
 name: Pseudo-Dionysius the Areopagite
 name_greek: Ψευδο-Διονύσιος ὁ Ἀρεοπαγίτης
 eul_aid: urs
-canonical: "https://eulogikon.org/en/pseudo-dionysius-the-areopagite"
+canonical: "https://eulogikon.org/authors/ps-dionysius-the-areopagite-urs"
 period: Late Antique
 dialect: Byzantine Christian
 affiliation: Neoplatonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ψευδο-Διονύσιος ὁ Ἀρεοπαγίτης*
 
-**eul_aid:** `urs` · [HTML page](https://eulogikon.org/en/pseudo-dionysius-the-areopagite)
+**eul_aid:** `urs` · [HTML page](https://eulogikon.org/authors/ps-dionysius-the-areopagite-urs)
 
 Pseudo-Dionysius the Areopagite, a late antique Christian theologian. Five theological treatises in Greek. Free to download from the Greek library archive.
 

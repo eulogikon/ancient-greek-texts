@@ -2,7 +2,7 @@
 name: Sappho and Alcaeus of Lesbos
 name_greek: Σαπφώ καὶ Ἀλκαῖος
 eul_aid: aqe
-canonical: "https://eulogikon.org/en/sappho-and-alcaeus-of-lesbos"
+canonical: "https://eulogikon.org/authors/sappho-and-alcaeus-of-lesbos-aqe"
 period: Archaic
 dialect: Aeolic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σαπφώ καὶ Ἀλκαῖος*
 
-**eul_aid:** `aqe` · [HTML page](https://eulogikon.org/en/sappho-and-alcaeus-of-lesbos)
+**eul_aid:** `aqe` · [HTML page](https://eulogikon.org/authors/sappho-and-alcaeus-of-lesbos-aqe)
 
 Sappho and Alcaeus were lyric poets from Lesbos. Their surviving Aeolic verse fragments. Free to read and download from the Greek library archive.
 

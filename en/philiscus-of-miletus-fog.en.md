@@ -2,7 +2,7 @@
 name: Philiscus of Miletus
 name_greek: Φιλίσκος ὁ Μιλήσιος
 eul_aid: fog
-canonical: "https://eulogikon.org/en/philiscus-of-miletus"
+canonical: "https://eulogikon.org/authors/philiscus-of-miletus-fog"
 period: Classical
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φιλίσκος ὁ Μιλήσιος*
 
-**eul_aid:** `fog` · [HTML page](https://eulogikon.org/en/philiscus-of-miletus)
+**eul_aid:** `fog` · [HTML page](https://eulogikon.org/authors/philiscus-of-miletus-fog)
 
 Philiscus of Miletus, a classical Attic orator. Surviving works include one oration. Free to read and download from the Greek text library archive.
 

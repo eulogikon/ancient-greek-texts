@@ -2,7 +2,7 @@
 name: Sositheus of Alexandria Troas
 name_greek: Σωσίθεος ὁ Ἀλεξανδρεὺς Τρωάδης
 eul_aid: iqg
-canonical: "https://eulogikon.org/en/sositheus-of-alexandria-troas"
+canonical: "https://eulogikon.org/authors/sositheus-of-alexandria-troas-iqg"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σωσίθεος ὁ Ἀλεξανδρεὺς Τρωάδης*
 
-**eul_aid:** `iqg` · [HTML page](https://eulogikon.org/en/sositheus-of-alexandria-troas)
+**eul_aid:** `iqg` · [HTML page](https://eulogikon.org/authors/sositheus-of-alexandria-troas-iqg)
 
 Sositheus of Alexandria Troas, 3rd century BCE dramatist. Surviving dramatic verse fragments. Free to read and download from the Greek library archive.
 

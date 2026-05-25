@@ -2,7 +2,7 @@
 name: Sophron of Syracuse
 name_greek: Σώφρων ὁ Συρακούσιος
 eul_aid: dru
-canonical: "https://eulogikon.org/en/sophron-of-syracuse"
+canonical: "https://eulogikon.org/authors/sophron-of-syracuse-dru"
 period: Classical
 dialect: Doric (frg)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σώφρων ὁ Συρακούσιος*
 
-**eul_aid:** `dru` · [HTML page](https://eulogikon.org/en/sophron-of-syracuse)
+**eul_aid:** `dru` · [HTML page](https://eulogikon.org/authors/sophron-of-syracuse-dru)
 
 Sophron of Syracuse, 5th century BCE writer of Doric mime. Surviving fragments of his works. Free to read and download from the Greek library archive.
 

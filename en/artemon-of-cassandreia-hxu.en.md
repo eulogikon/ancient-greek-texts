@@ -2,7 +2,7 @@
 name: Artemon of Cassandreia
 name_greek: Ἀρτέμων ὁ Κασσανδρεύς
 eul_aid: hxu
-canonical: "https://eulogikon.org/en/artemon-of-cassandreia"
+canonical: "https://eulogikon.org/authors/artemon-of-cassandreia-hxu"
 period: Hellenistic
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρτέμων ὁ Κασσανδρεύς*
 
-**eul_aid:** `hxu` · [HTML page](https://eulogikon.org/en/artemon-of-cassandreia)
+**eul_aid:** `hxu` · [HTML page](https://eulogikon.org/authors/artemon-of-cassandreia-hxu)
 
 Artemon of Cassandreia, Hellenistic grammarian of the 4th century BCE. Surviving grammatical treatise. Free to read and download from the Greek library archive.
 

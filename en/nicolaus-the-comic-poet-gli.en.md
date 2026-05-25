@@ -2,7 +2,7 @@
 name: Nicolaus the Comic Poet
 name_greek: Νικόλαος ὁ κωμικός
 eul_aid: gli
-canonical: "https://eulogikon.org/en/nicolaus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/nicolaus-the-comic-poet-gli"
 period: Classical
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Νικόλαος ὁ κωμικός*
 
-**eul_aid:** `gli` · [HTML page](https://eulogikon.org/en/nicolaus-the-comic-poet)
+**eul_aid:** `gli` · [HTML page](https://eulogikon.org/authors/nicolaus-the-comic-poet-gli)
 
 Nicolaus was a 4th century BCE Attic comic poet. Surviving fragments of his comedies are preserved. Free to read and download from the Greek library archive.
 

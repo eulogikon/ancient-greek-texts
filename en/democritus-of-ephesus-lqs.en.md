@@ -2,7 +2,7 @@
 name: Democritus of Ephesus
 name_greek: Δημόκριτος ὁ Ἐφέσιος
 eul_aid: lqs
-canonical: "https://eulogikon.org/en/democritus-of-ephesus"
+canonical: "https://eulogikon.org/authors/democritus-of-ephesus-lqs"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δημόκριτος ὁ Ἐφέσιος*
 
-**eul_aid:** `lqs` · [HTML page](https://eulogikon.org/en/democritus-of-ephesus)
+**eul_aid:** `lqs` · [HTML page](https://eulogikon.org/authors/democritus-of-ephesus-lqs)
 
 Democritus of Ephesus, a Hellenistic historian of the 3rd century BCE. His surviving historical works. Free to read and download from the Greek library archive.
 

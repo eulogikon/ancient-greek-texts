@@ -2,7 +2,7 @@
 name: Ocellus of Lucania
 name_greek: Ὄκελλος ὁ Λευκανός
 eul_aid: eoc
-canonical: "https://eulogikon.org/en/ocellus-of-lucania"
+canonical: "https://eulogikon.org/authors/ocellus-of-lucania-eoc"
 period: Classical
 dialect: Ionic
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ὄκελλος ὁ Λευκανός*
 
-**eul_aid:** `eoc` · [HTML page](https://eulogikon.org/en/ocellus-of-lucania)
+**eul_aid:** `eoc` · [HTML page](https://eulogikon.org/authors/ocellus-of-lucania-eoc)
 
 Ocellus of Lucania, an early Pythagorean philosopher from Italy. Surviving works from this tradition. Free to read and download from the Greek library archive.
 

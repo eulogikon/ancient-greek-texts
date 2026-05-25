@@ -2,7 +2,7 @@
 name: Menecrates of Elaea
 name_greek: Μενεκράτης ὁ Ἐλαιεύς
 eul_aid: gju
-canonical: "https://eulogikon.org/en/menecrates-of-elaea"
+canonical: "https://eulogikon.org/authors/menecrates-of-elaea-gju"
 period: Classical
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μενεκράτης ὁ Ἐλαιεύς*
 
-**eul_aid:** `gju` · [HTML page](https://eulogikon.org/en/menecrates-of-elaea)
+**eul_aid:** `gju` · [HTML page](https://eulogikon.org/authors/menecrates-of-elaea-gju)
 
 Menecrates of Elaea was a 4th century BCE historian writing in Attic Greek. His surviving historical fragments preserved. Free to download from Greek archive.
 

@@ -2,7 +2,7 @@
 name: Brutus Letters
 name_greek: Βρούτου Ἐπιστολαί
 eul_aid: mzs
-canonical: "https://eulogikon.org/en/brutus-letters"
+canonical: "https://eulogikon.org/authors/brutus-letters-mzs"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Βρούτου Ἐπιστολαί*
 
-**eul_aid:** `mzs` · [HTML page](https://eulogikon.org/en/brutus-letters)
+**eul_aid:** `mzs` · [HTML page](https://eulogikon.org/authors/brutus-letters-mzs)
 
 Brutus Letters, Hellenistic epistles from the 1st century BCE. Surviving historical correspondence. Free to read and download from the Greek library archive.
 

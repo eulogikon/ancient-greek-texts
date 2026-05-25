@@ -2,7 +2,7 @@
 name: Epic Work Anonymous
 name_greek: Ἄνακτος Ἔπος
 eul_aid: cyy
-canonical: "https://eulogikon.org/en/epic-work-anonymous"
+canonical: "https://eulogikon.org/authors/epic-work-anon-cyy"
 period: Classical
 dialect: Epic (Homeric) (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἄνακτος Ἔπος*
 
-**eul_aid:** `cyy` · [HTML page](https://eulogikon.org/en/epic-work-anonymous)
+**eul_aid:** `cyy` · [HTML page](https://eulogikon.org/authors/epic-work-anon-cyy)
 
 Anonymous Greek epic poet from the Classical period. Surviving fragmentary epic poem Anaktos Epos. Free to read and download from the Greek library archive.
 

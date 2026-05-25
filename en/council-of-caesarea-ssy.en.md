@@ -2,7 +2,7 @@
 name: Synodical Letter of the Council of Caesarea
 name_greek: Ἀπόσπασμα τῆς συνοδικῆς ἐπιστολῆς τῆς ἐν Καισαρείᾳ συνόδου
 eul_aid: ssy
-canonical: "https://eulogikon.org/en/council-of-caesarea"
+canonical: "https://eulogikon.org/authors/council-of-caesarea-fragment-ssy"
 period: Late Antique
 dialect: Christian Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀπόσπασμα τῆς συνοδικῆς ἐπιστολῆς τῆς ἐν Καισαρείᾳ συνόδου*
 
-**eul_aid:** `ssy` · [HTML page](https://eulogikon.org/en/council-of-caesarea)
+**eul_aid:** `ssy` · [HTML page](https://eulogikon.org/authors/council-of-caesarea-fragment-ssy)
 
 The Synodical Letter of the 4th century Council of Caesarea, a Christian theological document. Free to read and download from the Greek library archive.
 

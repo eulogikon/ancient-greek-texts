@@ -2,7 +2,7 @@
 name: Euphorion of Chalcis
 name_greek: Εὐφορίων ὁ Χαλκιδεύς
 eul_aid: kog
-canonical: "https://eulogikon.org/en/euphorion-of-chalcis"
+canonical: "https://eulogikon.org/authors/euphorion-of-chalcis-kog"
 period: Hellenistic
 dialect: Attic
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Εὐφορίων ὁ Χαλκιδεύς*
 
-**eul_aid:** `kog` · [HTML page](https://eulogikon.org/en/euphorion-of-chalcis)
+**eul_aid:** `kog` · [HTML page](https://eulogikon.org/authors/euphorion-of-chalcis-kog)
 
 Euphorion of ChalcisHellenistic epic poet of the 3rd century BCE. Surviving works include fragments of his verse. Free to read and download from Eulogikon
 

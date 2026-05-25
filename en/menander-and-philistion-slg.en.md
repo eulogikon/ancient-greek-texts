@@ -2,7 +2,7 @@
 name: Menander and Philistion Comparison
 name_greek: Μενάνδρου καὶ Φιλιστίωνος Γνῶμαι
 eul_aid: slg
-canonical: "https://eulogikon.org/en/menander-and-philistion"
+canonical: "https://eulogikon.org/authors/menander-philistion-compared-slg"
 period: Late Antique
 dialect: Mixed Dialects
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μενάνδρου καὶ Φιλιστίωνος Γνῶμαι*
 
-**eul_aid:** `slg` · [HTML page](https://eulogikon.org/en/menander-and-philistion)
+**eul_aid:** `slg` · [HTML page](https://eulogikon.org/authors/menander-philistion-compared-slg)
 
 Anonymous Late Antique dialogue comparing two figures. Two surviving works in mixed Greek dialects. Free to read and download from the Greek library archive.
 

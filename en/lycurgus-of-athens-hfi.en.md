@@ -2,7 +2,7 @@
 name: Lycurgus of Athens
 name_greek: Λυκοῦργος ὁ Ἀθηναῖος
 eul_aid: hfi
-canonical: "https://eulogikon.org/en/lycurgus-of-athens"
+canonical: "https://eulogikon.org/authors/lycurgus-of-athens-hfi"
 period: Classical
 dialect: Attic
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Λυκοῦργος ὁ Ἀθηναῖος*
 
-**eul_aid:** `hfi` · [HTML page](https://eulogikon.org/en/lycurgus-of-athens)
+**eul_aid:** `hfi` · [HTML page](https://eulogikon.org/authors/lycurgus-of-athens-hfi)
 
 Lycurgus was a 4th century BCE Athenian orator and statesman. Two of his forensic orations survive. Free to read and download from the Greek library archive.
 

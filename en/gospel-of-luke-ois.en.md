@@ -2,7 +2,7 @@
 name: Gospel of Luke
 name_greek: Κατὰ Λουκᾶν Εὐαγγέλιον
 eul_aid: ois
-canonical: "https://eulogikon.org/en/gospel-of-luke"
+canonical: "https://eulogikon.org/authors/gospel-of-luke-ois"
 period: Roman
 dialect: Christian Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κατὰ Λουκᾶν Εὐαγγέλιον*
 
-**eul_aid:** `ois` · [HTML page](https://eulogikon.org/en/gospel-of-luke)
+**eul_aid:** `ois` · [HTML page](https://eulogikon.org/authors/gospel-of-luke-ois)
 
 The Gospel of Luke is a 1st century CE Christian Koine text, a surviving ancient Greek work. Free to read and download from the Greek library archive.
 

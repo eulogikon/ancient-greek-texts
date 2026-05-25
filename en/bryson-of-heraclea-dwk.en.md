@@ -2,7 +2,7 @@
 name: Bryson of Heraclea
 name_greek: Βρύσων ὁ Ἡρακλεώτης
 eul_aid: dwk
-canonical: "https://eulogikon.org/en/bryson-of-heraclea"
+canonical: "https://eulogikon.org/authors/bryson-of-heraclea-dwk"
 period: Classical
 dialect: Attic
 affiliation: Sophist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Βρύσων ὁ Ἡρακλεώτης*
 
-**eul_aid:** `dwk` · [HTML page](https://eulogikon.org/en/bryson-of-heraclea)
+**eul_aid:** `dwk` · [HTML page](https://eulogikon.org/authors/bryson-of-heraclea-dwk)
 
 Bryson of Heraclea, 4th century BCE Greek sophist. Works include his treatise on wealth. Free to read and download from the Greek library archive.
 

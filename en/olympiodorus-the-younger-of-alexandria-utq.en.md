@@ -2,7 +2,7 @@
 name: Olympiodorus the Younger of Alexandria
 name_greek: Ὀλυμπιόδωρος ὁ Νεώτερος ὁ Ἀλεξανδρεύς
 eul_aid: utq
-canonical: "https://eulogikon.org/en/olympiodorus-the-younger-of-alexandria"
+canonical: "https://eulogikon.org/authors/olympiodorus-the-younger-utq"
 period: Late Antique
 dialect: Philosophical Koine
 affiliation: Neoplatonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ὀλυμπιόδωρος ὁ Νεώτερος ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `utq` · [HTML page](https://eulogikon.org/en/olympiodorus-the-younger-of-alexandria)
+**eul_aid:** `utq` · [HTML page](https://eulogikon.org/authors/olympiodorus-the-younger-utq)
 
 Olympiodorus the Younger, 6th century Neoplatonist. Seven surviving philosophical treatises. Free to read and download from the Greek library archive.
 

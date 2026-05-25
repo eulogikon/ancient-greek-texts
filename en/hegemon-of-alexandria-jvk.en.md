@@ -2,7 +2,7 @@
 name: Hegemon of Alexandria
 name_greek: Ἡγέμων ὁ Ἀλεξανδρεύς (ὁ Τρωάδος)
 eul_aid: jvk
-canonical: "https://eulogikon.org/en/hegemon-of-alexandria"
+canonical: "https://eulogikon.org/authors/hegemon-of-alexandria-jvk"
 period: Hellenistic
 dialect: Epic (Homeric)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡγέμων ὁ Ἀλεξανδρεύς (ὁ Τρωάδος)*
 
-**eul_aid:** `jvk` · [HTML page](https://eulogikon.org/en/hegemon-of-alexandria)
+**eul_aid:** `jvk` · [HTML page](https://eulogikon.org/authors/hegemon-of-alexandria-jvk)
 
 Hegemon of Alexandria, Hellenistic poet of the 3rd century BCE. Works include epic fragments. Free to read and download from the Greek library archive.
 

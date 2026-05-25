@@ -2,7 +2,7 @@
 name: Vettius Valens of Antioch
 name_greek: Οὐέτιος Βαλέντιος Ἀντιοχεύς
 eul_aid: pzu
-canonical: "https://eulogikon.org/en/vettius-valens-of-antioch"
+canonical: "https://eulogikon.org/authors/vettius-valens-of-antioch-pzu"
 period: Roman
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Οὐέτιος Βαλέντιος Ἀντιοχεύς*
 
-**eul_aid:** `pzu` · [HTML page](https://eulogikon.org/en/vettius-valens-of-antioch)
+**eul_aid:** `pzu` · [HTML page](https://eulogikon.org/authors/vettius-valens-of-antioch-pzu)
 
 Vettius Valens, 2nd century CE Roman astrologer. Surviving astrological treatise Anthologies. Free to read and download from the Greek library archive.
 

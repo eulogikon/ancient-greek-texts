@@ -2,7 +2,7 @@
 name: Ameipsias the Comic Poet
 name_greek: Ἀμειψίας
 eul_aid: dwa
-canonical: "https://eulogikon.org/en/ameipsias-the-comic-poet"
+canonical: "https://eulogikon.org/authors/ameipsias-the-comic-poet-dwa"
 period: Classical
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀμειψίας*
 
-**eul_aid:** `dwa` · [HTML page](https://eulogikon.org/en/ameipsias-the-comic-poet)
+**eul_aid:** `dwa` · [HTML page](https://eulogikon.org/authors/ameipsias-the-comic-poet-dwa)
 
 Ameipsias was an Athenian comic poet and rival of Aristophanes. Two surviving fragmentary works. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Aristophanes of Athens
 name_greek: Ἀριστοφάνης ὁ Ἀθηναῖος
 eul_aid: daw
-canonical: "https://eulogikon.org/en/aristophanes-of-athens"
+canonical: "https://eulogikon.org/authors/aristophanes-of-athens-daw"
 period: Classical
 dialect: Attic Comedy
 works_count: 18
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀριστοφάνης ὁ Ἀθηναῖος*
 
-**eul_aid:** `daw` · [HTML page](https://eulogikon.org/en/aristophanes-of-athens)
+**eul_aid:** `daw` · [HTML page](https://eulogikon.org/authors/aristophanes-of-athens-daw)
 
 Aristophanes, Athenian comic playwright of the 5th century BCE. Works include The Clouds and The Frogs. Free to download from the Greek library archive.
 

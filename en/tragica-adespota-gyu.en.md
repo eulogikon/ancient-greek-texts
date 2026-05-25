@@ -2,7 +2,7 @@
 name: Tragica Adespota
 name_greek: Τραγικὰ Ἀδέσποτα
 eul_aid: gyu
-canonical: "https://eulogikon.org/en/tragica-adespota"
+canonical: "https://eulogikon.org/authors/tragica-adespota-gyu"
 period: Classical
 dialect: Mixed Dialects (frg)
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τραγικὰ Ἀδέσποτα*
 
-**eul_aid:** `gyu` · [HTML page](https://eulogikon.org/en/tragica-adespota)
+**eul_aid:** `gyu` · [HTML page](https://eulogikon.org/authors/tragica-adespota-gyu)
 
 Tragica Adespota are anonymous fragments of Greek tragedy. Surviving unattributed tragic verse. Free to read and download from the Greek library archive.
 

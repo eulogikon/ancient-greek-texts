@@ -2,7 +2,7 @@
 name: Zeno of Citium
 name_greek: Ζήνων ο Κιτιεύς
 eul_aid: ies
-canonical: "https://eulogikon.org/en/zeno-of-citium"
+canonical: "https://eulogikon.org/authors/zeno-of-citium-ies"
 period: Hellenistic
 dialect: Ionic (frg)
 affiliation: Stoic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ζήνων ο Κιτιεύς*
 
-**eul_aid:** `ies` · [HTML page](https://eulogikon.org/en/zeno-of-citium)
+**eul_aid:** `ies` · [HTML page](https://eulogikon.org/authors/zeno-of-citium-ies)
 
 Zeno of Citium, founder of Stoic philosophy. Surviving fragments of his works are collected here. Free to read and download from the Greek library archive.
 

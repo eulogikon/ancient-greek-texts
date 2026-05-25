@@ -2,7 +2,7 @@
 name: Theages
 name_greek: Θεάγης
 eul_aid: crq
-canonical: "https://eulogikon.org/en/theages"
+canonical: "https://eulogikon.org/authors/theages-crq"
 period: Classical
 dialect: Attic Philosophical
 affiliation: Presocratic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θεάγης*
 
-**eul_aid:** `crq` · [HTML page](https://eulogikon.org/en/theages)
+**eul_aid:** `crq` · [HTML page](https://eulogikon.org/authors/theages-crq)
 
 Theages was a 5th century BCE Pythagorean philosopher. Surviving philosophical treatise. Free to read and download from the Greek library archive.
 

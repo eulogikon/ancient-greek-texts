@@ -2,7 +2,7 @@
 name: Aeschrion of Samos
 name_greek: Αἰσχρίων ὁ Σάμιος
 eul_aid: hvc
-canonical: "https://eulogikon.org/en/aeschrion-of-samos"
+canonical: "https://eulogikon.org/authors/aeschrion-of-samos-hvc"
 period: Hellenistic
 dialect: "Ionic (ia, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Αἰσχρίων ὁ Σάμιος*
 
-**eul_aid:** `hvc` · [HTML page](https://eulogikon.org/en/aeschrion-of-samos)
+**eul_aid:** `hvc` · [HTML page](https://eulogikon.org/authors/aeschrion-of-samos-hvc)
 
 Aeschrion of Samos was a Hellenistic poet writing in Ionic iambic verse. Fragments of his work. Free to read and download from the Greek library archive.
 

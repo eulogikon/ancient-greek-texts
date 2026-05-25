@@ -2,7 +2,7 @@
 name: Hephaestion of Alexandria
 name_greek: Ἡφαιστίων ὁ Ἀλεξανδρεύς
 eul_aid: oqa
-canonical: "https://eulogikon.org/en/hephaestion-of-alexandria"
+canonical: "https://eulogikon.org/authors/hephaestion-of-alexandria-oqa"
 period: Roman
 dialect: Technical Koine
 works_count: 5
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡφαιστίων ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `oqa` · [HTML page](https://eulogikon.org/en/hephaestion-of-alexandria)
+**eul_aid:** `oqa` · [HTML page](https://eulogikon.org/authors/hephaestion-of-alexandria-oqa)
 
 Hephaestion of Alexandria, 2nd century CE Greek grammarian. Five works on meter and grammar. Free to read and download from the Greek library archive.
 

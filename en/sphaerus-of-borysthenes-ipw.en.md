@@ -2,7 +2,7 @@
 name: Sphaerus of Borysthenes
 name_greek: Σφαῖρος ὁ Βορυσθενίτης
 eul_aid: ipw
-canonical: "https://eulogikon.org/en/sphaerus-of-borysthenes"
+canonical: "https://eulogikon.org/authors/sphaerus-of-borysthenes-ipw"
 period: Hellenistic
 dialect: Philosophical Koine
 affiliation: Stoic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σφαῖρος ὁ Βορυσθενίτης*
 
-**eul_aid:** `ipw` · [HTML page](https://eulogikon.org/en/sphaerus-of-borysthenes)
+**eul_aid:** `ipw` · [HTML page](https://eulogikon.org/authors/sphaerus-of-borysthenes-ipw)
 
 Sphaerus of Borysthenes, a 3rd century BCE Stoic philosopher. His surviving works are available here. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Diogenes of Apollonia
 name_greek: Διογένης ὁ Ἀπολλωνιάτης
 eul_aid: bze
-canonical: "https://eulogikon.org/en/diogenes-of-apollonia"
+canonical: "https://eulogikon.org/authors/diogenes-of-apollonia-bze"
 period: Classical
 dialect: Ionic
 affiliation: Presocratic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διογένης ὁ Ἀπολλωνιάτης*
 
-**eul_aid:** `bze` · [HTML page](https://eulogikon.org/en/diogenes-of-apollonia)
+**eul_aid:** `bze` · [HTML page](https://eulogikon.org/authors/diogenes-of-apollonia-bze)
 
 Diogenes of Apollonia, a 5th century BCE Presocratic philosopher. Two surviving philosophical works. Free to read and download from the Greek library archive.
 

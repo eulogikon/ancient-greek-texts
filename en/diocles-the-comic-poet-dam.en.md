@@ -2,7 +2,7 @@
 name: Diocles Comicus
 name_greek: Διοκλῆς ὁ Κωμικός
 eul_aid: dam
-canonical: "https://eulogikon.org/en/diocles-the-comic-poet"
+canonical: "https://eulogikon.org/authors/diocles-comicus-dam"
 period: Classical
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διοκλῆς ὁ Κωμικός*
 
-**eul_aid:** `dam` · [HTML page](https://eulogikon.org/en/diocles-the-comic-poet)
+**eul_aid:** `dam` · [HTML page](https://eulogikon.org/authors/diocles-comicus-dam)
 
 Diocles Comicus, Athenian comic poet of 5th century BCE. Surviving fragments from his comedies. Free to read and download from the Greek library archive.
 

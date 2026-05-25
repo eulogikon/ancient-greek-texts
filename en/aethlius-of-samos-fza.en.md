@@ -2,7 +2,7 @@
 name: Aethlius of Samos
 name_greek: Ἀέθλιος ὁ Σάμιος
 eul_aid: fza
-canonical: "https://eulogikon.org/en/aethlius-of-samos"
+canonical: "https://eulogikon.org/authors/aethlius-of-samos-fza"
 period: Classical
 dialect: Ionic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀέθλιος ὁ Σάμιος*
 
-**eul_aid:** `fza` · [HTML page](https://eulogikon.org/en/aethlius-of-samos)
+**eul_aid:** `fza` · [HTML page](https://eulogikon.org/authors/aethlius-of-samos-fza)
 
 Aethlius of Samos was a Hellenistic historian. His historical fragments are preserved. Free to read and download from the Greek text library archive.
 

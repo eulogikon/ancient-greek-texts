@@ -2,7 +2,7 @@
 name: Archigenes of Apamea
 name_greek: Ἀρχιγένης ὁ Ἀπαμεύς
 eul_aid: owe
-canonical: "https://eulogikon.org/en/archigenes-of-apamea"
+canonical: "https://eulogikon.org/authors/archigenes-of-apamea-owe"
 period: Roman
 dialect: Technical Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρχιγένης ὁ Ἀπαμεύς*
 
-**eul_aid:** `owe` · [HTML page](https://eulogikon.org/en/archigenes-of-apamea)
+**eul_aid:** `owe` · [HTML page](https://eulogikon.org/authors/archigenes-of-apamea-owe)
 
 Archigenes of Apamea was a Greek physician in Rome. Two surviving medical treatises are preserved. Free to read and download from the Greek library archive.
 

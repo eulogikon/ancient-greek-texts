@@ -2,7 +2,7 @@
 name: Isaeus the Orator
 name_greek: Ἰσαῖος ὁ ῥήτωρ
 eul_aid: fge
-canonical: "https://eulogikon.org/en/isaeus-the-orator"
+canonical: "https://eulogikon.org/authors/isaeus-the-orator-fge"
 period: Classical
 dialect: Attic
 works_count: 13
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἰσαῖος ὁ ῥήτωρ*
 
-**eul_aid:** `fge` · [HTML page](https://eulogikon.org/en/isaeus-the-orator)
+**eul_aid:** `fge` · [HTML page](https://eulogikon.org/authors/isaeus-the-orator-fge)
 
 Isaeus was a 4th century BCE Athenian speechwriter. Thirteen orations on inheritance and property. Free to read and download from the Greek library archive.
 

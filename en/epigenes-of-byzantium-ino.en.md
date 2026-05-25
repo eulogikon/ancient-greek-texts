@@ -2,7 +2,7 @@
 name: Epigenes of Byzantium
 name_greek: Ἐπιγένης ὁ Βυζάντιος
 eul_aid: ino
-canonical: "https://eulogikon.org/en/epigenes-of-byzantium"
+canonical: "https://eulogikon.org/authors/epigenes-of-byzantium-ino"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἐπιγένης ὁ Βυζάντιος*
 
-**eul_aid:** `ino` · [HTML page](https://eulogikon.org/en/epigenes-of-byzantium)
+**eul_aid:** `ino` · [HTML page](https://eulogikon.org/authors/epigenes-of-byzantium-ino)
 
 Epigenes of Byzantium was a Hellenistic comic poet. Two fragmentary works survive from the 3rd century BCE. Free to download from the Greek library archive.
 

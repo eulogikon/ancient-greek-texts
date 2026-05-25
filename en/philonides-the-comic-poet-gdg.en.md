@@ -2,7 +2,7 @@
 name: Philonides the Comic Poet
 name_greek: Φιλωνίδης ὁ Λαοδικεύς
 eul_aid: gdg
-canonical: "https://eulogikon.org/en/philonides-the-comic-poet"
+canonical: "https://eulogikon.org/authors/philonides-the-comic-poet-gdg"
 period: Classical
 dialect: Attic Comedy
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φιλωνίδης ὁ Λαοδικεύς*
 
-**eul_aid:** `gdg` · [HTML page](https://eulogikon.org/en/philonides-the-comic-poet)
+**eul_aid:** `gdg` · [HTML page](https://eulogikon.org/authors/philonides-the-comic-poet-gdg)
 
 Philonides, a 4th century BCE Athenian playwright of Attic comedy. Surviving fragments from his works. Free to read and download from the Greek library archive.
 

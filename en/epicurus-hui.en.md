@@ -2,7 +2,7 @@
 name: Epicurus the Philosopher
 name_greek: Ἐπίκουρος ὁ φιλόσοφος
 eul_aid: hui
-canonical: "https://eulogikon.org/en/epicurus"
+canonical: "https://eulogikon.org/authors/epicurus-the-philosopher-hui"
 period: Hellenistic
 dialect: Attic Philosophical
 affiliation: Epicurean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἐπίκουρος ὁ φιλόσοφος*
 
-**eul_aid:** `hui` · [HTML page](https://eulogikon.org/en/epicurus)
+**eul_aid:** `hui` · [HTML page](https://eulogikon.org/authors/epicurus-the-philosopher-hui)
 
 Epicurus, Hellenistic philosopher and founder of Epicureanism. Treatises on pleasure and nature. Free to read and download from the Greek library archive.
 

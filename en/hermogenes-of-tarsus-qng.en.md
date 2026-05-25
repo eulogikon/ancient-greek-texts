@@ -2,7 +2,7 @@
 name: Hermogenes of Tarsus
 name_greek: Ἑρμογένης ὁ Ταρσεύς
 eul_aid: qng
-canonical: "https://eulogikon.org/en/hermogenes-of-tarsus"
+canonical: "https://eulogikon.org/authors/hermogenes-of-tarsus-qng"
 period: Roman
 dialect: Atticizing Technical
 works_count: 6
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἑρμογένης ὁ Ταρσεύς*
 
-**eul_aid:** `qng` · [HTML page](https://eulogikon.org/en/hermogenes-of-tarsus)
+**eul_aid:** `qng` · [HTML page](https://eulogikon.org/authors/hermogenes-of-tarsus-qng)
 
 Hermogenes of Tarsus, 2nd century CE Greek rhetorician. Surviving treatises on style and invention. Free to read and download from the Greek library archive.
 

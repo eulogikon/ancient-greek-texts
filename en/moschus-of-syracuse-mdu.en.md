@@ -2,7 +2,7 @@
 name: Moschus of Syracuse
 name_greek: Μόσχος ὁ Συρακούσιος
 eul_aid: mdu
-canonical: "https://eulogikon.org/en/moschus-of-syracuse"
+canonical: "https://eulogikon.org/authors/moschus-of-syracuse-mdu"
 period: Hellenistic
 dialect: Doric Bucolic
 works_count: 6
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μόσχος ὁ Συρακούσιος*
 
-**eul_aid:** `mdu` · [HTML page](https://eulogikon.org/en/moschus-of-syracuse)
+**eul_aid:** `mdu` · [HTML page](https://eulogikon.org/authors/moschus-of-syracuse-mdu)
 
 Moschus of Syracuse, a Hellenistic poet of Doric bucolic verse. Six surviving works are preserved. Free to read and download from the Greek library archive.
 

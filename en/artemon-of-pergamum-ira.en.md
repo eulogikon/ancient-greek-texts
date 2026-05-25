@@ -2,7 +2,7 @@
 name: Artemon of Pergamum
 name_greek: Ἀρτέμων ὁ Περγαμηνός
 eul_aid: ira
-canonical: "https://eulogikon.org/en/artemon-of-pergamum"
+canonical: "https://eulogikon.org/authors/artemon-of-pergamum-ira"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρτέμων ὁ Περγαμηνός*
 
-**eul_aid:** `ira` · [HTML page](https://eulogikon.org/en/artemon-of-pergamum)
+**eul_aid:** `ira` · [HTML page](https://eulogikon.org/authors/artemon-of-pergamum-ira)
 
 Artemon of Pergamum, a Hellenistic historian of the 2nd century BCE. Historical fragments in later sources. Free to download from the Greek library archive.
 

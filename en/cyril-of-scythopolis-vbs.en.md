@@ -2,7 +2,7 @@
 name: Cyril of Scythopolis
 name_greek: Κύριλλος ὁ Σκυθοπολίτης
 eul_aid: vbs
-canonical: "https://eulogikon.org/en/cyril-of-scythopolis"
+canonical: "https://eulogikon.org/authors/cyril-of-scythopolis-vbs"
 period: Late Antique
 dialect: Christian Koine
 works_count: 8
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κύριλλος ὁ Σκυθοπολίτης*
 
-**eul_aid:** `vbs` · [HTML page](https://eulogikon.org/en/cyril-of-scythopolis)
+**eul_aid:** `vbs` · [HTML page](https://eulogikon.org/authors/cyril-of-scythopolis-vbs)
 
 Cyril of Scythopolis, a sixth century Christian monk and biographer. His works include eight monastic biographies. Free to download from the Greek archive.
 

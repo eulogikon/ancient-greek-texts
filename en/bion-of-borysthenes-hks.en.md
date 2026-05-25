@@ -2,7 +2,7 @@
 name: Bion of Borysthenes
 name_greek: Βίων ὁ Βορυσθενίτης
 eul_aid: hks
-canonical: "https://eulogikon.org/en/bion-of-borysthenes"
+canonical: "https://eulogikon.org/authors/bion-of-borysthenes-hks"
 period: Classical
 dialect: "Koine (phi, frg)"
 affiliation: Cynic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Βίων ὁ Βορυσθενίτης*
 
-**eul_aid:** `hks` · [HTML page](https://eulogikon.org/en/bion-of-borysthenes)
+**eul_aid:** `hks` · [HTML page](https://eulogikon.org/authors/bion-of-borysthenes-hks)
 
 Bion of Borysthenes, a 3rd century BCE Hellenistic Cynic philosopher. Surviving works and fragments. Free to read and download from the Greek library archive.
 

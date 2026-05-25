@@ -2,7 +2,7 @@
 name: Aristophanes Scholia
 name_greek: Ἀριστοφάνους Σχόλια
 eul_aid: mlw
-canonical: "https://eulogikon.org/en/aristophanes-scholia"
+canonical: "https://eulogikon.org/authors/aristophanes-scholia-mlw"
 period: Hellenistic
 dialect: Technical Koine
 works_count: 23
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀριστοφάνους Σχόλια*
 
-**eul_aid:** `mlw` · [HTML page](https://eulogikon.org/en/aristophanes-scholia)
+**eul_aid:** `mlw` · [HTML page](https://eulogikon.org/authors/aristophanes-scholia-mlw)
 
 Aristophanes Scholia are ancient grammatical commentaries from the Hellenistic era. Twenty three works. Free to download from the Greek library archive.
 

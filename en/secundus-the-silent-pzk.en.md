@@ -2,7 +2,7 @@
 name: Secundus the Silent
 name_greek: Σεκούνδος ὁ Σιωπηλός
 eul_aid: pzk
-canonical: "https://eulogikon.org/en/secundus-the-silent"
+canonical: "https://eulogikon.org/authors/secundus-the-silent-pzk"
 period: Roman
 dialect: Koine
 affiliation: Cynic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σεκούνδος ὁ Σιωπηλός*
 
-**eul_aid:** `pzk` · [HTML page](https://eulogikon.org/en/secundus-the-silent)
+**eul_aid:** `pzk` · [HTML page](https://eulogikon.org/authors/secundus-the-silent-pzk)
 
 Secundus the Silent was a Cynic philosopher of the 2nd century CE. Two surviving works are preserved. Free to read and download from the Greek library archive.
 

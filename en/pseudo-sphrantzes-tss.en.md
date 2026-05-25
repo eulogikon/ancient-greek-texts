@@ -2,7 +2,7 @@
 name: Pseudo-Sphrantzes
 name_greek: Ψευδοσφραντζῆς
 eul_aid: tss
-canonical: "https://eulogikon.org/en/pseudo-sphrantzes"
+canonical: "https://eulogikon.org/authors/ps-sphrantzes-tss"
 period: Late Antique
 dialect: Byzantine Greek
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ψευδοσφραντζῆς*
 
-**eul_aid:** `tss` · [HTML page](https://eulogikon.org/en/pseudo-sphrantzes)
+**eul_aid:** `tss` · [HTML page](https://eulogikon.org/authors/ps-sphrantzes-tss)
 
 Pseudo Sphrantzes is a 16th century Byzantine Greek historical writer. Two historical works survive. Free to read and download from the Greek library archive.
 

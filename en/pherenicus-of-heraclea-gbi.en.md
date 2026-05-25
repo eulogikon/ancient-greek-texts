@@ -2,7 +2,7 @@
 name: Pherenicus of Heraclea
 name_greek: Φερένικος ὁ Ἡρακλεώτης
 eul_aid: gbi
-canonical: "https://eulogikon.org/en/pherenicus-of-heraclea"
+canonical: "https://eulogikon.org/authors/pherenicus-of-heraclea-gbi"
 period: Classical
 dialect: Epic (Homeric) (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φερένικος ὁ Ἡρακλεώτης*
 
-**eul_aid:** `gbi` · [HTML page](https://eulogikon.org/en/pherenicus-of-heraclea)
+**eul_aid:** `gbi` · [HTML page](https://eulogikon.org/authors/pherenicus-of-heraclea-gbi)
 
 Pherenicus of Heraclea, a Hellenistic poet writing in Homeric style. His epic fragments are preserved. Free to read and download from the Greek library archive.
 

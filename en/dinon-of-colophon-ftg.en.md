@@ -2,7 +2,7 @@
 name: Dinon of Colophon
 name_greek: Δίνων ὁ Κολοφώνιος
 eul_aid: ftg
-canonical: "https://eulogikon.org/en/dinon-of-colophon"
+canonical: "https://eulogikon.org/authors/dinon-of-colophon-ftg"
 period: Classical
 dialect: Ionic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δίνων ὁ Κολοφώνιος*
 
-**eul_aid:** `ftg` · [HTML page](https://eulogikon.org/en/dinon-of-colophon)
+**eul_aid:** `ftg` · [HTML page](https://eulogikon.org/authors/dinon-of-colophon-ftg)
 
 Dinon of Colophon was a 4th century BCE Greek historian. His surviving fragments cover Persian history. Free to download from the Greek library archive.
 

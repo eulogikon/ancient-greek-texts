@@ -2,7 +2,7 @@
 name: Sosicrates the Comic Poet
 name_greek: Σωσικράτης ὁ Κωμικός
 eul_aid: kyq
-canonical: "https://eulogikon.org/en/sosicrates-the-comic-poet"
+canonical: "https://eulogikon.org/authors/sosicrates-the-comic-poet-kyq"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σωσικράτης ὁ Κωμικός*
 
-**eul_aid:** `kyq` · [HTML page](https://eulogikon.org/en/sosicrates-the-comic-poet)
+**eul_aid:** `kyq` · [HTML page](https://eulogikon.org/authors/sosicrates-the-comic-poet-kyq)
 
 Sosicrates was a Hellenistic comic poet of the 3rd century BCE. Two fragmentary works survive. Free to read and download from the Greek library archive.
 

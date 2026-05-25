@@ -2,7 +2,7 @@
 name: Bacchylides of Ceos
 name_greek: Βακχυλίδης ὁ Κεῖος
 eul_aid: brw
-canonical: "https://eulogikon.org/en/bacchylides-of-ceos"
+canonical: "https://eulogikon.org/authors/bacchylides-of-ceos-brw"
 period: Classical
 dialect: Doric
 works_count: 13
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Βακχυλίδης ὁ Κεῖος*
 
-**eul_aid:** `brw` · [HTML page](https://eulogikon.org/en/bacchylides-of-ceos)
+**eul_aid:** `brw` · [HTML page](https://eulogikon.org/authors/bacchylides-of-ceos-brw)
 
 Bacchylides of Ceos, a 5th century BCE lyric poet. Works include victory odes and dithyrambs. Free to read and download from the Greek library archive.
 

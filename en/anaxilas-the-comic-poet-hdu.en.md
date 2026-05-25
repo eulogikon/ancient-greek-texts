@@ -2,7 +2,7 @@
 name: Anaxilas the Comic Poet
 name_greek: Ἀναξίλας ὁ κωμικός (ὁ Ῥηγῖνος)
 eul_aid: hdu
-canonical: "https://eulogikon.org/en/anaxilas-the-comic-poet"
+canonical: "https://eulogikon.org/authors/anaxilas-the-comic-poet-hdu"
 period: Classical
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀναξίλας ὁ κωμικός (ὁ Ῥηγῖνος)*
 
-**eul_aid:** `hdu` · [HTML page](https://eulogikon.org/en/anaxilas-the-comic-poet)
+**eul_aid:** `hdu` · [HTML page](https://eulogikon.org/authors/anaxilas-the-comic-poet-hdu)
 
 Anaxilas was a 4th century BCE Athenian comic poet. Fragments from his comedies are preserved. Free to read and download from the Greek library archive.
 

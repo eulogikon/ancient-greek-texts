@@ -2,7 +2,7 @@
 name: Pausanias Periegete
 name_greek: Παυσανίας ὁ Περιηγητής
 eul_aid: qvs
-canonical: "https://eulogikon.org/en/pausanias-periegete"
+canonical: "https://eulogikon.org/authors/pausanias-periegete-qvs"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Παυσανίας ὁ Περιηγητής*
 
-**eul_aid:** `qvs` · [HTML page](https://eulogikon.org/en/pausanias-periegete)
+**eul_aid:** `qvs` · [HTML page](https://eulogikon.org/authors/pausanias-periegete-qvs)
 
 Pausanias Periegete, a 2nd century CE Greek traveler and geographer. His Description of Greece survives. Free to read and download from the Greek archive.
 

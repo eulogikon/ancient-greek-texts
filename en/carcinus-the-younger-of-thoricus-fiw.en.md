@@ -2,7 +2,7 @@
 name: Carcinus the Younger Tragedian of Thoricus
 name_greek: Καρκίνος ὁ νεώτερος ὁ Θορικιεύς
 eul_aid: fiw
-canonical: "https://eulogikon.org/en/carcinus-the-younger-of-thoricus"
+canonical: "https://eulogikon.org/authors/carcinus-the-younger-fiw"
 period: Classical
 dialect: Attic Drama
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Καρκίνος ὁ νεώτερος ὁ Θορικιεύς*
 
-**eul_aid:** `fiw` · [HTML page](https://eulogikon.org/en/carcinus-the-younger-of-thoricus)
+**eul_aid:** `fiw` · [HTML page](https://eulogikon.org/authors/carcinus-the-younger-fiw)
 
 Carcinus the Younger was a 4th century BCE tragedian from Thoricus. Surviving works include his dramatic verse. Free to download from the Greek library archive.
 

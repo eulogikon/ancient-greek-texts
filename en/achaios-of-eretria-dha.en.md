@@ -2,7 +2,7 @@
 name: Achaios of Eretria
 name_greek: Ἀχαιός ὁ Ἐρετριεύς
 eul_aid: dha
-canonical: "https://eulogikon.org/en/achaios-of-eretria"
+canonical: "https://eulogikon.org/authors/achaios-of-eretria-dha"
 period: Classical
 dialect: "Attic (dr, frg)"
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀχαιός ὁ Ἐρετριεύς*
 
-**eul_aid:** `dha` · [HTML page](https://eulogikon.org/en/achaios-of-eretria)
+**eul_aid:** `dha` · [HTML page](https://eulogikon.org/authors/achaios-of-eretria-dha)
 
 Achaios of Eretria was a 5th century BCE Athenian dramatist. Fragments of his works are preserved. Free to read and download from the Greek library archive.
 

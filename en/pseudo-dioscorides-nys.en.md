@@ -2,7 +2,7 @@
 name: Pseudo-Dioscorides
 name_greek: Ψευδο-Διοσκουρίδης
 eul_aid: nys
-canonical: "https://eulogikon.org/en/pseudo-dioscorides"
+canonical: "https://eulogikon.org/authors/ps-dioscorides-nys"
 period: Roman
 dialect: Technical Koine
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ψευδο-Διοσκουρίδης*
 
-**eul_aid:** `nys` · [HTML page](https://eulogikon.org/en/pseudo-dioscorides)
+**eul_aid:** `nys` · [HTML page](https://eulogikon.org/authors/ps-dioscorides-nys)
 
 Pseudo-Dioscorides, Roman era author of medical texts. Three surviving treatises on pharmacology. Free to read and download from the Greek library archive.
 

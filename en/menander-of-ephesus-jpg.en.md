@@ -2,7 +2,7 @@
 name: Menander of Ephesus
 name_greek: Μένανδρος ὁ Ἐφέσιος
 eul_aid: jpg
-canonical: "https://eulogikon.org/en/menander-of-ephesus"
+canonical: "https://eulogikon.org/authors/menander-of-ephesus-jpg"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μένανδρος ὁ Ἐφέσιος*
 
-**eul_aid:** `jpg` · [HTML page](https://eulogikon.org/en/menander-of-ephesus)
+**eul_aid:** `jpg` · [HTML page](https://eulogikon.org/authors/menander-of-ephesus-jpg)
 
 Menander of Ephesus was a Hellenistic historian of 3rd-2nd century BCE. His historical fragments are preserved here. Free to download from the Greek archive.
 

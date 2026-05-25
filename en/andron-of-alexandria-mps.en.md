@@ -2,7 +2,7 @@
 name: Andron of Alexandria
 name_greek: Ἄνδρων ὁ Ἀλεξανδρεύς
 eul_aid: mps
-canonical: "https://eulogikon.org/en/andron-of-alexandria"
+canonical: "https://eulogikon.org/authors/andron-of-alexandria-mps"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἄνδρων ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `mps` · [HTML page](https://eulogikon.org/en/andron-of-alexandria)
+**eul_aid:** `mps` · [HTML page](https://eulogikon.org/authors/andron-of-alexandria-mps)
 
 Andron of Alexandria, a Hellenistic historian of the 2nd-1st century BCE. His surviving historical works. Free to download from the Greek library archive.
 

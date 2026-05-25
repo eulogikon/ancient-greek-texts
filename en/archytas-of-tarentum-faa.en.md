@@ -2,7 +2,7 @@
 name: Archytas of Tarentum
 name_greek: Ἀρχύτας ὁ Ταραντῖνος
 eul_aid: faa
-canonical: "https://eulogikon.org/en/archytas-of-tarentum"
+canonical: "https://eulogikon.org/authors/archytas-of-tarentum-faa"
 period: Classical
 dialect: Doric (frg)
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρχύτας ὁ Ταραντῖνος*
 
-**eul_aid:** `faa` · [HTML page](https://eulogikon.org/en/archytas-of-tarentum)
+**eul_aid:** `faa` · [HTML page](https://eulogikon.org/authors/archytas-of-tarentum-faa)
 
 Archytas of Tarentum, 4th-century BCE Pythagorean philosopher and mathematician. Doric works survive. Free to read and download from the Greek library archive.
 

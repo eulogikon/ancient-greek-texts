@@ -2,7 +2,7 @@
 name: Corinna of Tanagra
 name_greek: Κόριννα ἡ Τανάγρας
 eul_aid: bnq
-canonical: "https://eulogikon.org/en/corinna-of-tanagra"
+canonical: "https://eulogikon.org/authors/corinna-of-tanagra-bnq"
 period: Archaic
 dialect: Aeolic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κόριννα ἡ Τανάγρας*
 
-**eul_aid:** `bnq` · [HTML page](https://eulogikon.org/en/corinna-of-tanagra)
+**eul_aid:** `bnq` · [HTML page](https://eulogikon.org/authors/corinna-of-tanagra-bnq)
 
 Corinna, Boeotian lyric poet and contemporary of Pindar. Her surviving poetic fragments are preserved. Free to read and download from the Greek library archive.
 

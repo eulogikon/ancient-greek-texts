@@ -2,7 +2,7 @@
 name: Metrodorus of Chios
 name_greek: Μητρόδωρος ὁ Χῖος
 eul_aid: dmk
-canonical: "https://eulogikon.org/en/metrodorus-of-chios"
+canonical: "https://eulogikon.org/authors/metrodorus-of-chios-dmk"
 period: Classical
 dialect: Attic Philosophical
 affiliation: Atomist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μητρόδωρος ὁ Χῖος*
 
-**eul_aid:** `dmk` · [HTML page](https://eulogikon.org/en/metrodorus-of-chios)
+**eul_aid:** `dmk` · [HTML page](https://eulogikon.org/authors/metrodorus-of-chios-dmk)
 
 Metrodorus of Chios, 4th century BCE atomist philosopher. Philosophical fragments on nature. Free to read and download from the Greek library archive.
 

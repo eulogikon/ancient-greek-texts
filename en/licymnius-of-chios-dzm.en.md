@@ -2,7 +2,7 @@
 name: Licymnius of Chios
 name_greek: Λικύμνιος ὁ Χῖος
 eul_aid: dzm
-canonical: "https://eulogikon.org/en/licymnius-of-chios"
+canonical: "https://eulogikon.org/authors/licymnius-of-chios-dzm"
 period: Classical
 dialect: Doric (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Λικύμνιος ὁ Χῖος*
 
-**eul_aid:** `dzm` · [HTML page](https://eulogikon.org/en/licymnius-of-chios)
+**eul_aid:** `dzm` · [HTML page](https://eulogikon.org/authors/licymnius-of-chios-dzm)
 
 Licymnius of Chios was a classical Greek poet of the 4th century BCE. Fragments of his Doric verse. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Glaucus of Rhegium
 name_greek: Γλαῦκος ὁ Ῥηγῖνος
 eul_aid: fbo
-canonical: "https://eulogikon.org/en/glaucus-of-rhegium"
+canonical: "https://eulogikon.org/authors/glaucus-of-rhegium-fbo"
 period: Classical
 dialect: Doric
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Γλαῦκος ὁ Ῥηγῖνος*
 
-**eul_aid:** `fbo` · [HTML page](https://eulogikon.org/en/glaucus-of-rhegium)
+**eul_aid:** `fbo` · [HTML page](https://eulogikon.org/authors/glaucus-of-rhegium-fbo)
 
 Glaucus of Rhegium was a 5th century BCE historian writing in Doric Greek prose. Works survive in fragments. Free to download from the Greek library archive.
 

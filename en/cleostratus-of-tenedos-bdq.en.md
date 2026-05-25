@@ -2,7 +2,7 @@
 name: Cleostratus of Tenedos
 name_greek: Κλεόστρατος ὁ Τενήδιος
 eul_aid: bdq
-canonical: "https://eulogikon.org/en/cleostratus-of-tenedos"
+canonical: "https://eulogikon.org/authors/cleostratus-of-tenedos-bdq"
 period: Archaic
 dialect: Aeolic (frg)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κλεόστρατος ὁ Τενήδιος*
 
-**eul_aid:** `bdq` · [HTML page](https://eulogikon.org/en/cleostratus-of-tenedos)
+**eul_aid:** `bdq` · [HTML page](https://eulogikon.org/authors/cleostratus-of-tenedos-bdq)
 
 Cleostratus of Tenedos, Greek philosopher of the 6th-5th century BCE. Surviving fragments of his work. Free to read and download from the Greek library archive.
 

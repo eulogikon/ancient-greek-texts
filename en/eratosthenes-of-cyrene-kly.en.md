@@ -2,7 +2,7 @@
 name: Eratosthenes of Cyrene
 name_greek: Ἐρατοσθένης ὁ Κυρηναῖος
 eul_aid: kly
-canonical: "https://eulogikon.org/en/eratosthenes-of-cyrene"
+canonical: "https://eulogikon.org/authors/eratosthenes-of-cyrene-kly"
 period: Hellenistic
 dialect: Koine
 works_count: 4
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἐρατοσθένης ὁ Κυρηναῖος*
 
-**eul_aid:** `kly` · [HTML page](https://eulogikon.org/en/eratosthenes-of-cyrene)
+**eul_aid:** `kly` · [HTML page](https://eulogikon.org/authors/eratosthenes-of-cyrene-kly)
 
 Eratosthenes of Cyrene, a Hellenistic polymath of the 3rd century BCE. Surviving philosophical works and treatises. Free to download from the Greek archive.
 

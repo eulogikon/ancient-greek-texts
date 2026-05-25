@@ -2,7 +2,7 @@
 name: Polycrates of Sparta
 name_greek: Πολυκράτης ὁ Λάκων
 eul_aid: ess
-canonical: "https://eulogikon.org/en/polycrates-of-sparta"
+canonical: "https://eulogikon.org/authors/polycrates-of-sparta-ess"
 period: Classical
 dialect: Doric
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πολυκράτης ὁ Λάκων*
 
-**eul_aid:** `ess` · [HTML page](https://eulogikon.org/en/polycrates-of-sparta)
+**eul_aid:** `ess` · [HTML page](https://eulogikon.org/authors/polycrates-of-sparta-ess)
 
 Polycrates of Sparta was a 5th century BCE historian. His surviving historical work is preserved in fragments. Free to download from the Greek library archive.
 

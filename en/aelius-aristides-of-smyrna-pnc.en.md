@@ -2,7 +2,7 @@
 name: Aelius Aristides of Smyrna
 name_greek: Πόπλιος Αἴλιος Ἀριστείδης Θεόδωρος
 eul_aid: pnc
-canonical: "https://eulogikon.org/en/aelius-aristides-of-smyrna"
+canonical: "https://eulogikon.org/authors/aelius-aristides-of-smyrna-pnc"
 period: Roman
 dialect: Attic
 affiliation: Sophist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πόπλιος Αἴλιος Ἀριστείδης Θεόδωρος*
 
-**eul_aid:** `pnc` · [HTML page](https://eulogikon.org/en/aelius-aristides-of-smyrna)
+**eul_aid:** `pnc` · [HTML page](https://eulogikon.org/authors/aelius-aristides-of-smyrna-pnc)
 
 Aelius Aristides, second century CE Greek orator. Surviving works include orations and treatises. Free to read and download from the Greek library archive.
 

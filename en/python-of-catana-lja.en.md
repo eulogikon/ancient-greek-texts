@@ -2,7 +2,7 @@
 name: Python of Catana
 name_greek: Πύθων ὁ Καταναῖος
 eul_aid: lja
-canonical: "https://eulogikon.org/en/python-of-catana"
+canonical: "https://eulogikon.org/authors/python-of-catana-lja"
 period: Hellenistic
 dialect: "Attic (dr, frg)"
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πύθων ὁ Καταναῖος*
 
-**eul_aid:** `lja` · [HTML page](https://eulogikon.org/en/python-of-catana)
+**eul_aid:** `lja` · [HTML page](https://eulogikon.org/authors/python-of-catana-lja)
 
 Python of Catana was a Hellenistic dramatist of the 4th century BCE. His works are preserved. Free to read and download from the Greek library archive.
 

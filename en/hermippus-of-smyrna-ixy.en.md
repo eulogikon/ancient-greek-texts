@@ -2,7 +2,7 @@
 name: Hermippus of Smyrna
 name_greek: Ἕρμιππος ὁ Σμυρναῖος
 eul_aid: ixy
-canonical: "https://eulogikon.org/en/hermippus-of-smyrna"
+canonical: "https://eulogikon.org/authors/hermippus-of-smyrna-ixy"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἕρμιππος ὁ Σμυρναῖος*
 
-**eul_aid:** `ixy` · [HTML page](https://eulogikon.org/en/hermippus-of-smyrna)
+**eul_aid:** `ixy` · [HTML page](https://eulogikon.org/authors/hermippus-of-smyrna-ixy)
 
 Hermippus of Smyrna, a 3rd century BCE Hellenistic scholar. Surviving fragments of his works. Free to read and download from the Greek library archive.
 

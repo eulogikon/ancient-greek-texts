@@ -2,7 +2,7 @@
 name: Aretades of Cnidus
 name_greek: Ἀρητάδης ὁ Κνίδιος
 eul_aid: gxq
-canonical: "https://eulogikon.org/en/aretades-of-cnidus"
+canonical: "https://eulogikon.org/authors/aretades-of-cnidus-gxq"
 period: Classical
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρητάδης ὁ Κνίδιος*
 
-**eul_aid:** `gxq` · [HTML page](https://eulogikon.org/en/aretades-of-cnidus)
+**eul_aid:** `gxq` · [HTML page](https://eulogikon.org/authors/aretades-of-cnidus-gxq)
 
 Aretades of Cnidus, a 4th to 2nd century BCE Greek historian. His surviving historical fragments. Free to read and download from the Greek library archive.
 

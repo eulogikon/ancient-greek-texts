@@ -2,7 +2,7 @@
 name: Cornutus the Stoic Philosopher
 name_greek: Κορνοῦτος ὁ Στωϊκός
 eul_aid: obu
-canonical: "https://eulogikon.org/en/cornutus-the-stoic"
+canonical: "https://eulogikon.org/authors/cornutus-the-stoic-philosopher-obu"
 period: Roman
 dialect: Philosophical Koine
 affiliation: Stoic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κορνοῦτος ὁ Στωϊκός*
 
-**eul_aid:** `obu` · [HTML page](https://eulogikon.org/en/cornutus-the-stoic)
+**eul_aid:** `obu` · [HTML page](https://eulogikon.org/authors/cornutus-the-stoic-philosopher-obu)
 
 Cornutus was a first century Stoic philosopher. His surviving treatise on Greek mythology. Free to read and download from the Greek library archive.
 

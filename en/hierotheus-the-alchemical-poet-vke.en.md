@@ -2,7 +2,7 @@
 name: Hierotheus the Alchemical Poet
 name_greek: Ἱερόθεος ὁ ποιητὴς τῆς ἀλχημείας
 eul_aid: vke
-canonical: "https://eulogikon.org/en/hierotheus-the-alchemical-poet"
+canonical: "https://eulogikon.org/authors/hierotheus-the-alchemical-poet-vke"
 period: Late Antique
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἱερόθεος ὁ ποιητὴς τῆς ἀλχημείας*
 
-**eul_aid:** `vke` · [HTML page](https://eulogikon.org/en/hierotheus-the-alchemical-poet)
+**eul_aid:** `vke` · [HTML page](https://eulogikon.org/authors/hierotheus-the-alchemical-poet-vke)
 
 Hierotheus the Alchemical Poet, a 5th-6th century CE Greek poet. Surviving alchemical verse works. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Pseudo-Ignatius of Antioch
 name_greek: Ψευδο-Ἰγνάτιος Ἀντιοχείας (Νόθα Ἐπιστολαί)
 eul_aid: sji
-canonical: "https://eulogikon.org/en/pseudo-ignatius-of-antioch"
+canonical: "https://eulogikon.org/authors/ps-ignatius-of-antioch-sji"
 period: Late Antique
 dialect: Christian Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ψευδο-Ἰγνάτιος Ἀντιοχείας (Νόθα Ἐπιστολαί)*
 
-**eul_aid:** `sji` · [HTML page](https://eulogikon.org/en/pseudo-ignatius-of-antioch)
+**eul_aid:** `sji` · [HTML page](https://eulogikon.org/authors/ps-ignatius-of-antioch-sji)
 
 Pseudo Ignatius of Antioch, 4th century CE forger of Christian epistles. Contains one surviving work. Free to read and download from the Greek library archive.
 

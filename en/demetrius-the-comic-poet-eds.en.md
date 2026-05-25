@@ -2,7 +2,7 @@
 name: Demetrius the Comic Poet
 name_greek: Δημήτριος ὁ κωμικός
 eul_aid: eds
-canonical: "https://eulogikon.org/en/demetrius-the-comic-poet"
+canonical: "https://eulogikon.org/authors/demetrius-the-comic-poet-eds"
 period: Classical
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δημήτριος ὁ κωμικός*
 
-**eul_aid:** `eds` · [HTML page](https://eulogikon.org/en/demetrius-the-comic-poet)
+**eul_aid:** `eds` · [HTML page](https://eulogikon.org/authors/demetrius-the-comic-poet-eds)
 
 Demetrius, a 5th century BCE Athenian poet of Old Comedy. Two fragmentary works survive. Free to read and download from the Greek library archive.
 

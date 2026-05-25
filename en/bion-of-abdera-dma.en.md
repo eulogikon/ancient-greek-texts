@@ -2,7 +2,7 @@
 name: Bion of Abdera
 name_greek: Βίων ὁ Ἀβδηρίτης
 eul_aid: dma
-canonical: "https://eulogikon.org/en/bion-of-abdera"
+canonical: "https://eulogikon.org/authors/bion-of-abdera-dma"
 period: Classical
 dialect: Ionic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Βίων ὁ Ἀβδηρίτης*
 
-**eul_aid:** `dma` · [HTML page](https://eulogikon.org/en/bion-of-abdera)
+**eul_aid:** `dma` · [HTML page](https://eulogikon.org/authors/bion-of-abdera-dma)
 
 Bion of Abdera, a 4th century BCE mathematician. Surviving mathematical works from the Classical period. Free to read and download from the Greek archive.
 

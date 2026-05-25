@@ -2,7 +2,7 @@
 name: Polykleitos of Argos
 name_greek: Πολύκλειτος ὁ Ἀργεῖος
 eul_aid: cqw
-canonical: "https://eulogikon.org/en/polykleitos-of-argos"
+canonical: "https://eulogikon.org/authors/polykleitos-of-argos-cqw"
 period: Classical
 dialect: Doric (frg)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πολύκλειτος ὁ Ἀργεῖος*
 
-**eul_aid:** `cqw` · [HTML page](https://eulogikon.org/en/polykleitos-of-argos)
+**eul_aid:** `cqw` · [HTML page](https://eulogikon.org/authors/polykleitos-of-argos-cqw)
 
 Polykleitos of Argos, a 5th century BCE philosopher writing in Doric Greek. Two surviving works. Free to read and download from the Greek library archive.
 

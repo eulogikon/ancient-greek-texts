@@ -2,7 +2,7 @@
 name: John Malalas of Antioch
 name_greek: Ἰωάννης ὁ Μαλάλας Ἀντιοχεύς
 eul_aid: vae
-canonical: "https://eulogikon.org/en/john-malalas-of-antioch"
+canonical: "https://eulogikon.org/authors/john-malalas-of-antioch-vae"
 period: Late Antique
 dialect: Koine
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἰωάννης ὁ Μαλάλας Ἀντιοχεύς*
 
-**eul_aid:** `vae` · [HTML page](https://eulogikon.org/en/john-malalas-of-antioch)
+**eul_aid:** `vae` · [HTML page](https://eulogikon.org/authors/john-malalas-of-antioch-vae)
 
 John Malalas was a 6th century CE historian from Antioch. His works include the Chronographia. Free to read and download from the Greek library archive.
 

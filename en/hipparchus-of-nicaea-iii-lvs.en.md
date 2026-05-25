@@ -2,7 +2,7 @@
 name: Hipparchus of Nicaea III
 name_greek: Ἵππαρχος ὁ Νικαεύς
 eul_aid: lvs
-canonical: "https://eulogikon.org/en/hipparchus-of-nicaea-iii"
+canonical: "https://eulogikon.org/authors/hipparchus-of-nicaea-lvs"
 period: Hellenistic
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἵππαρχος ὁ Νικαεύς*
 
-**eul_aid:** `lvs` · [HTML page](https://eulogikon.org/en/hipparchus-of-nicaea-iii)
+**eul_aid:** `lvs` · [HTML page](https://eulogikon.org/authors/hipparchus-of-nicaea-lvs)
 
 Hipparchus of Nicaea, Hellenistic poet of the 2nd century BCE. Surviving works in Technical Koine. Free to read and download from the Greek library archive.
 

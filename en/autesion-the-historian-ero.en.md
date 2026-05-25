@@ -2,7 +2,7 @@
 name: Autesion the Historian
 name_greek: Αὐτεσίων ὁ Ἱστορικός
 eul_aid: ero
-canonical: "https://eulogikon.org/en/autesion-the-historian"
+canonical: "https://eulogikon.org/authors/autesion-the-historian-ero"
 period: Classical
 dialect: Ionic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Αὐτεσίων ὁ Ἱστορικός*
 
-**eul_aid:** `ero` · [HTML page](https://eulogikon.org/en/autesion-the-historian)
+**eul_aid:** `ero` · [HTML page](https://eulogikon.org/authors/autesion-the-historian-ero)
 
 Autesion the Historian, a 5th century BCE Ionic historian. Historical fragments from later sources. Free to read and download from the Greek library archive.
 

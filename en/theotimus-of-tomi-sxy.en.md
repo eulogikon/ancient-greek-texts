@@ -2,7 +2,7 @@
 name: Theotimus of Tomi
 name_greek: Θεότιμος ὁ Τομέως
 eul_aid: sxy
-canonical: "https://eulogikon.org/en/theotimus-of-tomi"
+canonical: "https://eulogikon.org/authors/theotimus-of-tomi-sxy"
 period: Late Antique
 dialect: Christian Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θεότιμος ὁ Τομέως*
 
-**eul_aid:** `sxy` · [HTML page](https://eulogikon.org/en/theotimus-of-tomi)
+**eul_aid:** `sxy` · [HTML page](https://eulogikon.org/authors/theotimus-of-tomi-sxy)
 
 Theotimus of Tomi was a late antique historian. His surviving historical work is preserved in fragments. Free to download from the Greek library archive.
 

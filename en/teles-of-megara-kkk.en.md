@@ -2,7 +2,7 @@
 name: Teles of Megara
 name_greek: Τέλης ὁ Μεγαρεύς
 eul_aid: kkk
-canonical: "https://eulogikon.org/en/teles-of-megara"
+canonical: "https://eulogikon.org/authors/teles-of-megara-kkk"
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 affiliation: Cynic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τέλης ὁ Μεγαρεύς*
 
-**eul_aid:** `kkk` · [HTML page](https://eulogikon.org/en/teles-of-megara)
+**eul_aid:** `kkk` · [HTML page](https://eulogikon.org/authors/teles-of-megara-kkk)
 
 Teles of Megara was a Hellenistic Cynic philosopher. Surviving fragments of his diatribes. Free to read and download from the Greek library archive.
 

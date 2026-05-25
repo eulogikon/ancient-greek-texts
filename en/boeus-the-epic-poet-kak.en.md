@@ -2,7 +2,7 @@
 name: Boeus the Epic Poet
 name_greek: Βοῖος ὁ ἐποποιός
 eul_aid: kak
-canonical: "https://eulogikon.org/en/boeus-the-epic-poet"
+canonical: "https://eulogikon.org/authors/boeus-the-epic-poet-kak"
 period: Hellenistic
 dialect: Epic (Homeric)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Βοῖος ὁ ἐποποιός*
 
-**eul_aid:** `kak` · [HTML page](https://eulogikon.org/en/boeus-the-epic-poet)
+**eul_aid:** `kak` · [HTML page](https://eulogikon.org/authors/boeus-the-epic-poet-kak)
 
 Boeus was a Hellenistic poet writing epic verse in Homeric style. His surviving works are epic poetry. Free to read and download from the Greek library archive.
 

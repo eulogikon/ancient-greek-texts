@@ -2,7 +2,7 @@
 name: Hipponax of Ephesus
 name_greek: Ἱππῶναξ ὁ Ἐφέσιος
 eul_aid: bek
-canonical: "https://eulogikon.org/en/hipponax-of-ephesus"
+canonical: "https://eulogikon.org/authors/hipponax-of-ephesus-bek"
 period: Archaic
 dialect: Ionic Iambic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἱππῶναξ ὁ Ἐφέσιος*
 
-**eul_aid:** `bek` · [HTML page](https://eulogikon.org/en/hipponax-of-ephesus)
+**eul_aid:** `bek` · [HTML page](https://eulogikon.org/authors/hipponax-of-ephesus-bek)
 
 Hipponax of Ephesus, 6th century BCE iambic poet. Surviving fragments of his satirical Ionic verse. Free to read and download from the Greek library archive.
 

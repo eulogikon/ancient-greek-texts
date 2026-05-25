@@ -2,7 +2,7 @@
 name: Heraclides of Pontus
 name_greek: Ἡρακλείδης ὁ Ποντικός
 eul_aid: fdw
-canonical: "https://eulogikon.org/en/heraclides-of-pontus"
+canonical: "https://eulogikon.org/authors/heraclides-of-pontus-1-fdw"
 period: Classical
 dialect: Koine
 affiliation: Platonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡρακλείδης ὁ Ποντικός*
 
-**eul_aid:** `fdw` · [HTML page](https://eulogikon.org/en/heraclides-of-pontus)
+**eul_aid:** `fdw` · [HTML page](https://eulogikon.org/authors/heraclides-of-pontus-1-fdw)
 
 Heraclides Ponticus was a 4th century BCE Greek philosopher and astronomer. Two treatises survive. Free to read and download from the Greek library archive.
 

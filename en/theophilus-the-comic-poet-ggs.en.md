@@ -2,7 +2,7 @@
 name: Theophilus the Comic Poet
 name_greek: Θεόφιλος ὁ κωμικός
 eul_aid: ggs
-canonical: "https://eulogikon.org/en/theophilus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/theophilus-the-comic-poet-ggs"
 period: Classical
 dialect: Attic Comedy
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θεόφιλος ὁ κωμικός*
 
-**eul_aid:** `ggs` · [HTML page](https://eulogikon.org/en/theophilus-the-comic-poet)
+**eul_aid:** `ggs` · [HTML page](https://eulogikon.org/authors/theophilus-the-comic-poet-ggs)
 
 Theophilus, a 4th century BCE Attic comic poet. Two surviving works of ancient Greek comedy. Free to read and download from the Greek library archive.
 

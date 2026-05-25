@@ -2,7 +2,7 @@
 name: Philolaus of Croton
 name_greek: Φιλόλαος ὁ Κροτωνιάτης
 eul_aid: bue
-canonical: "https://eulogikon.org/en/philolaus-of-croton"
+canonical: "https://eulogikon.org/authors/philolaus-of-croton-bue"
 period: Classical
 dialect: Doric
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φιλόλαος ὁ Κροτωνιάτης*
 
-**eul_aid:** `bue` · [HTML page](https://eulogikon.org/en/philolaus-of-croton)
+**eul_aid:** `bue` · [HTML page](https://eulogikon.org/authors/philolaus-of-croton-bue)
 
 Philolaus was a Pythagorean philosopher. Three surviving fragments of his work are preserved. Free to read and download from the Greek library archive.
 

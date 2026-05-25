@@ -2,7 +2,7 @@
 name: Demetrius of Callatis
 name_greek: Δημήτριος ὁ Καλλατιανός
 eul_aid: iwk
-canonical: "https://eulogikon.org/en/demetrius-of-callatis"
+canonical: "https://eulogikon.org/authors/demetrius-of-callatis-iwk"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δημήτριος ὁ Καλλατιανός*
 
-**eul_aid:** `iwk` · [HTML page](https://eulogikon.org/en/demetrius-of-callatis)
+**eul_aid:** `iwk` · [HTML page](https://eulogikon.org/authors/demetrius-of-callatis-iwk)
 
 Demetrius of Callatis was a Hellenistic historian of the 3rd-2nd century BCE. His surviving historical works. Free to read and download from the Greek archive.
 

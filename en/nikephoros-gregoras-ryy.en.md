@@ -2,7 +2,7 @@
 name: Nikephoros Gregoras the Historian
 name_greek: Νικηφόρος Γρηγορᾶς ὁ Ἱστορικός
 eul_aid: ryy
-canonical: "https://eulogikon.org/en/nikephoros-gregoras"
+canonical: "https://eulogikon.org/authors/nikephoros-gregoras-ryy"
 period: Late Antique
 dialect: Byzantine Greek
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Νικηφόρος Γρηγορᾶς ὁ Ἱστορικός*
 
-**eul_aid:** `ryy` · [HTML page](https://eulogikon.org/en/nikephoros-gregoras)
+**eul_aid:** `ryy` · [HTML page](https://eulogikon.org/authors/nikephoros-gregoras-ryy)
 
 Nikephoros Gregoras was a 14th century Byzantine historian. His work chronicles the Palaiologan era. Free to read and download from the Greek library archive.
 

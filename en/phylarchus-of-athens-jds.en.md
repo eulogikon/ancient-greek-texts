@@ -2,7 +2,7 @@
 name: Phylarchus of Athens
 name_greek: Φύλαρχος ὁ Ἀθηναῖος
 eul_aid: jds
-canonical: "https://eulogikon.org/en/phylarchus-of-athens"
+canonical: "https://eulogikon.org/authors/phylarchus-of-athens-jds"
 period: Hellenistic
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φύλαρχος ὁ Ἀθηναῖος*
 
-**eul_aid:** `jds` · [HTML page](https://eulogikon.org/en/phylarchus-of-athens)
+**eul_aid:** `jds` · [HTML page](https://eulogikon.org/authors/phylarchus-of-athens-jds)
 
 Phylarchus of Athens, a 3rd century BCE Hellenistic historian. Works include historical fragments. Free to read and download from the Greek library archive.
 

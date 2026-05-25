@@ -2,7 +2,7 @@
 name: Ammonius the Grammarian
 name_greek: Ἀμμώνιος ὁ Γραμματικός
 eul_aid: swu
-canonical: "https://eulogikon.org/en/ammonius-the-grammarian"
+canonical: "https://eulogikon.org/authors/ammonius-the-grammarian-swu"
 period: Late Antique
 dialect: Atticizing Technical
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀμμώνιος ὁ Γραμματικός*
 
-**eul_aid:** `swu` · [HTML page](https://eulogikon.org/en/ammonius-the-grammarian)
+**eul_aid:** `swu` · [HTML page](https://eulogikon.org/authors/ammonius-the-grammarian-swu)
 
 Ammonius the Grammarian, 4th century CE Alexandrian scholar. Two surviving grammatical treatises. Free to read and download from the Greek library archive.
 

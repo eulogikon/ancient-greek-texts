@@ -2,7 +2,7 @@
 name: Gryllus of Athens
 name_greek: Γρύλλος ὁ Ἀθηναῖος
 eul_aid: cgw
-canonical: "https://eulogikon.org/en/gryllus-of-athens"
+canonical: "https://eulogikon.org/authors/gryllus-of-athens-cgw"
 period: Classical
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Γρύλλος ὁ Ἀθηναῖος*
 
-**eul_aid:** `cgw` · [HTML page](https://eulogikon.org/en/gryllus-of-athens)
+**eul_aid:** `cgw` · [HTML page](https://eulogikon.org/authors/gryllus-of-athens-cgw)
 
 Gryllus of Athens, a 4th century BCE Attic poet. Read his surviving poetic fragments and texts. Free to read and download from the Greek library archive.
 

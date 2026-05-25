@@ -2,7 +2,7 @@
 name: Aratus of Soli
 name_greek: Ἄρατος ὁ Σολεύς
 eul_aid: hte
-canonical: "https://eulogikon.org/en/aratus-of-soli"
+canonical: "https://eulogikon.org/authors/aratus-of-soli-hte"
 period: Hellenistic
 dialect: Epic (Homeric)
 works_count: 5
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἄρατος ὁ Σολεύς*
 
-**eul_aid:** `hte` · [HTML page](https://eulogikon.org/en/aratus-of-soli)
+**eul_aid:** `hte` · [HTML page](https://eulogikon.org/authors/aratus-of-soli-hte)
 
 Aratus of Soli, Hellenistic poet and scientist. Works include the astronomical poem Phaenomena. Free to read and download from the Greek library archive.
 

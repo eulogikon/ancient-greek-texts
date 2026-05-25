@@ -2,7 +2,7 @@
 name: Eudromus the Philosopher
 name_greek: Εὔδρομος
 eul_aid: nso
-canonical: "https://eulogikon.org/en/eudromus-the-philosopher"
+canonical: "https://eulogikon.org/authors/eudromus-the-philosopher-nso"
 period: Roman
 dialect: Koine
 affiliation: Platonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Εὔδρομος*
 
-**eul_aid:** `nso` · [HTML page](https://eulogikon.org/en/eudromus-the-philosopher)
+**eul_aid:** `nso` · [HTML page](https://eulogikon.org/authors/eudromus-the-philosopher-nso)
 
 Eudromus was a Roman era Platonist philosopher. His surviving philosophical works are in fragments. Free to read and download from the Greek library archive.
 

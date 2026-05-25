@@ -2,7 +2,7 @@
 name: Valentinus the Gnostic
 name_greek: Οὐαλεντῖνος ὁ Γνωστικός
 eul_aid: ply
-canonical: "https://eulogikon.org/en/valentinus-the-gnostic"
+canonical: "https://eulogikon.org/authors/valentinus-the-gnostic-ply"
 period: Roman
 dialect: Christian Koine
 affiliation: Gnostic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Οὐαλεντῖνος ὁ Γνωστικός*
 
-**eul_aid:** `ply` · [HTML page](https://eulogikon.org/en/valentinus-the-gnostic)
+**eul_aid:** `ply` · [HTML page](https://eulogikon.org/authors/valentinus-the-gnostic-ply)
 
 Valentinus, 2nd century Christian theologian and founder of Valentinianism. Read his theological texts. Free to download from the Greek library archive.
 

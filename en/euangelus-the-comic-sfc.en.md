@@ -2,7 +2,7 @@
 name: Euangelus the Comic
 name_greek: Εὐαγγέλος ὁ Κωμικός
 eul_aid: sfc
-canonical: "https://eulogikon.org/en/euangelus-the-comic"
+canonical: "https://eulogikon.org/authors/euangelus-the-comic-sfc"
 period: Late Antique
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Εὐαγγέλος ὁ Κωμικός*
 
-**eul_aid:** `sfc` · [HTML page](https://eulogikon.org/en/euangelus-the-comic)
+**eul_aid:** `sfc` · [HTML page](https://eulogikon.org/authors/euangelus-the-comic-sfc)
 
 Euangelus the Comic was a late antique Greek comedy writer. Two surviving works are preserved. Free to read and download from the Greek library archive.
 

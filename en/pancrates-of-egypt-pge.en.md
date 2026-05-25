@@ -2,7 +2,7 @@
 name: Pancrates of Egypt
 name_greek: Παγκράτης ὁ Αἰγύπτιος
 eul_aid: pge
-canonical: "https://eulogikon.org/en/pancrates-of-egypt"
+canonical: "https://eulogikon.org/authors/pancrates-of-egypt-pge"
 period: Roman
 dialect: Epic (Homeric)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Παγκράτης ὁ Αἰγύπτιος*
 
-**eul_aid:** `pge` · [HTML page](https://eulogikon.org/en/pancrates-of-egypt)
+**eul_aid:** `pge` · [HTML page](https://eulogikon.org/authors/pancrates-of-egypt-pge)
 
 Pancrates of Egypt was a 2nd century CE epic poet writing in Homeric Greek. Two works survive. Free to read and download from the Greek library archive.
 

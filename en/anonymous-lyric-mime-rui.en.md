@@ -2,7 +2,7 @@
 name: Lyric Mime Work Anonymous
 name_greek: Ἀνώνυμος Μίμος Λυρικός
 eul_aid: rui
-canonical: "https://eulogikon.org/en/anonymous-lyric-mime"
+canonical: "https://eulogikon.org/authors/lyric-mime-work-anon-rui"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμος Μίμος Λυρικός*
 
-**eul_aid:** `rui` · [HTML page](https://eulogikon.org/en/anonymous-lyric-mime)
+**eul_aid:** `rui` · [HTML page](https://eulogikon.org/authors/lyric-mime-work-anon-rui)
 
 Anonymous Lyric Mime, a Roman era poet from the 2nd–3rd century CE. One surviving work in Koine dialect. Free to download from the Greek library archive.
 

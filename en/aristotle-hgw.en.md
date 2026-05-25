@@ -2,7 +2,7 @@
 name: Aristotle
 name_greek: Ἀριστοτέλης
 eul_aid: hgw
-canonical: "https://eulogikon.org/en/aristotle"
+canonical: "https://eulogikon.org/authors/aristotle-and-corpus-hgw"
 period: Classical
 dialect: Attic
 affiliation: Aristotelian
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀριστοτέλης*
 
-**eul_aid:** `hgw` · [HTML page](https://eulogikon.org/en/aristotle)
+**eul_aid:** `hgw` · [HTML page](https://eulogikon.org/authors/aristotle-and-corpus-hgw)
 
 Aristotle, the classical Greek philosopher. Surviving works include treatises on logic and science. Free to read and download from the Greek library archive.
 

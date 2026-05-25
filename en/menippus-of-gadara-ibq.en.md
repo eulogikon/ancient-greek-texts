@@ -2,7 +2,7 @@
 name: Menippus of Gadara
 name_greek: Μένιππος ὁ Γαδαρεύς
 eul_aid: ibq
-canonical: "https://eulogikon.org/en/menippus-of-gadara"
+canonical: "https://eulogikon.org/authors/menippus-of-gadara-ibq"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μένιππος ὁ Γαδαρεύς*
 
-**eul_aid:** `ibq` · [HTML page](https://eulogikon.org/en/menippus-of-gadara)
+**eul_aid:** `ibq` · [HTML page](https://eulogikon.org/authors/menippus-of-gadara-ibq)
 
 Menippus of Gadara, a Hellenistic Cynic philosopher and satirist. Surviving works include his satirical epistles. Free to download from the Greek archive.
 

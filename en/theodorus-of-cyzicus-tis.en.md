@@ -2,7 +2,7 @@
 name: Theodorus of Cyzicus
 name_greek: Θεόδωρος ὁ Κυζικηνός
 eul_aid: tis
-canonical: "https://eulogikon.org/en/theodorus-of-cyzicus"
+canonical: "https://eulogikon.org/authors/theodorus-of-cyzicus-tis"
 period: Late Antique
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θεόδωρος ὁ Κυζικηνός*
 
-**eul_aid:** `tis` · [HTML page](https://eulogikon.org/en/theodorus-of-cyzicus)
+**eul_aid:** `tis` · [HTML page](https://eulogikon.org/authors/theodorus-of-cyzicus-tis)
 
 Theodorus of Cyzicus was a Late Antique Greek author of the 5th-6th century CE. His surviving epistle. Free to read and download from the Greek library archive.
 

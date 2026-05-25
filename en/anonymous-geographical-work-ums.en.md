@@ -2,7 +2,7 @@
 name: Geographical Work Anonymous
 name_greek: Ἄγνωστος Γεωγραφικός
 eul_aid: ums
-canonical: "https://eulogikon.org/en/anonymous-geographical-work"
+canonical: "https://eulogikon.org/authors/geographical-work-anon-ums"
 period: Late Antique
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἄγνωστος Γεωγραφικός*
 
-**eul_aid:** `ums` · [HTML page](https://eulogikon.org/en/anonymous-geographical-work)
+**eul_aid:** `ums` · [HTML page](https://eulogikon.org/authors/geographical-work-anon-ums)
 
 Anonymous author of the Late Antique sailing guide Stadiasmus Maris Magni. Details coastal navigation. Free to read and download from the Greek library archive.
 

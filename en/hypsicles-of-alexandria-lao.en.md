@@ -2,7 +2,7 @@
 name: Hypsicles of Alexandria
 name_greek: Ὑψικλῆς ὁ Ἀλεξανδρεύς
 eul_aid: lao
-canonical: "https://eulogikon.org/en/hypsicles-of-alexandria"
+canonical: "https://eulogikon.org/authors/hypsicles-of-alexandria-lao"
 period: Hellenistic
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ὑψικλῆς ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `lao` · [HTML page](https://eulogikon.org/en/hypsicles-of-alexandria)
+**eul_aid:** `lao` · [HTML page](https://eulogikon.org/authors/hypsicles-of-alexandria-lao)
 
 Hypsicles of Alexandria, a Hellenistic mathematician and astronomer. Includes his treatise on polyhedra. Free to download from the Greek library archive.
 

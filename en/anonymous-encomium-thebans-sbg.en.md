@@ -2,7 +2,7 @@
 name: Anonymous
 name_greek: Ἀνώνυμος
 eul_aid: sbg
-canonical: "https://eulogikon.org/en/anonymous-encomium-thebans"
+canonical: "https://eulogikon.org/authors/encomium-leader-thebans-anon-sbg"
 period: Late Antique
 dialect: Atticizing
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμος*
 
-**eul_aid:** `sbg` · [HTML page](https://eulogikon.org/en/anonymous-encomium-thebans)
+**eul_aid:** `sbg` · [HTML page](https://eulogikon.org/authors/encomium-leader-thebans-anon-sbg)
 
 Anonymous Atticizing orator from Late Antiquity. One surviving oration is preserved in the archive. Free to read and download from the Greek library archive.
 

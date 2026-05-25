@@ -2,7 +2,7 @@
 name: Uranius the Historian
 name_greek: Οὐράνιος ὁ ἱστορικός
 eul_aid: sfm
-canonical: "https://eulogikon.org/en/uranius-the-historian"
+canonical: "https://eulogikon.org/authors/uranius-the-historian-sfm"
 period: Late Antique
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Οὐράνιος ὁ ἱστορικός*
 
-**eul_aid:** `sfm` · [HTML page](https://eulogikon.org/en/uranius-the-historian)
+**eul_aid:** `sfm` · [HTML page](https://eulogikon.org/authors/uranius-the-historian-sfm)
 
 Uranius Historian, a late antique Greek historian of the 3rd-4th century CE. Surviving historical works in Koine Greek. Free to download from the Greek archive.
 

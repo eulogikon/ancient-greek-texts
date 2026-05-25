@@ -2,7 +2,7 @@
 name: Antileon the Historian
 name_greek: Ἀντιλέων ὁ Ἱστορικός
 eul_aid: mks
-canonical: "https://eulogikon.org/en/antileon-the-historian"
+canonical: "https://eulogikon.org/authors/antileon-the-historian-mks"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀντιλέων ὁ Ἱστορικός*
 
-**eul_aid:** `mks` · [HTML page](https://eulogikon.org/en/antileon-the-historian)
+**eul_aid:** `mks` · [HTML page](https://eulogikon.org/authors/antileon-the-historian-mks)
 
 Antileon the Historian, a Hellenistic historian of the 2nd-1st century BCE. Historical fragments in Koine Greek. Free to download from the Greek archive.
 

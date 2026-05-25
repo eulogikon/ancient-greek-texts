@@ -2,7 +2,7 @@
 name: Posidippus of Pella
 name_greek: Ποσείδιππος ὁ Πελλαῖος
 eul_aid: hwg
-canonical: "https://eulogikon.org/en/posidippus-of-pella"
+canonical: "https://eulogikon.org/authors/posidippus-of-pella-hwg"
 period: Hellenistic
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ποσείδιππος ὁ Πελλαῖος*
 
-**eul_aid:** `hwg` · [HTML page](https://eulogikon.org/en/posidippus-of-pella)
+**eul_aid:** `hwg` · [HTML page](https://eulogikon.org/authors/posidippus-of-pella-hwg)
 
 Posidippus of Pella was a Hellenistic poet of the 3rd century BCE. Surviving works include epigrams. Free to read and download from the Greek library archive.
 

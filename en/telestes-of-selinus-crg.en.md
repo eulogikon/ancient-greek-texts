@@ -2,7 +2,7 @@
 name: Telestes of Selinus
 name_greek: Τελέστης ὁ Σελινουντίος
 eul_aid: crg
-canonical: "https://eulogikon.org/en/telestes-of-selinus"
+canonical: "https://eulogikon.org/authors/telestes-of-selinus-crg"
 period: Classical
 dialect: Aeolic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τελέστης ὁ Σελινουντίος*
 
-**eul_aid:** `crg` · [HTML page](https://eulogikon.org/en/telestes-of-selinus)
+**eul_aid:** `crg` · [HTML page](https://eulogikon.org/authors/telestes-of-selinus-crg)
 
 Telestes of Selinus, a 5th century BCE poet writing in Aeolic dialect. Surviving poetic fragments. Free to read and download from the Greek library archive.
 

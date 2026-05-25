@@ -2,7 +2,7 @@
 name: Romanos the Melodist
 name_greek: Ῥωμανὸς ὁ Μελωδός
 eul_aid: uyq
-canonical: "https://eulogikon.org/en/romanos-the-melodist"
+canonical: "https://eulogikon.org/authors/romanos-the-melodist-uyq"
 period: Late Antique
 dialect: Christian Koine
 works_count: 4
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ῥωμανὸς ὁ Μελωδός*
 
-**eul_aid:** `uyq` · [HTML page](https://eulogikon.org/en/romanos-the-melodist)
+**eul_aid:** `uyq` · [HTML page](https://eulogikon.org/authors/romanos-the-melodist-uyq)
 
 Romanos the Melodist, a major sixth-century Byzantine hymnographer. Kontakia and liturgical poetry. Free to read and download from the Greek library archive.
 

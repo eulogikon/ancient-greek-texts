@@ -2,7 +2,7 @@
 name: Anthology  Anonymous
 name_greek: Ἀνώνυμος ἀνθολογία
 eul_aid: tpg
-canonical: "https://eulogikon.org/en/anthology-anon"
+canonical: "https://eulogikon.org/authors/anthology-anon-tpg"
 period: Late Antique
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμος ἀνθολογία*
 
-**eul_aid:** `tpg` · [HTML page](https://eulogikon.org/en/anthology-anon)
+**eul_aid:** `tpg` · [HTML page](https://eulogikon.org/authors/anthology-anon-tpg)
 
 Anonymous Anthology, a collection of Late Antique Koine poetry from the 4th to 5th century CE. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Diogenes of Athens
 name_greek: Διογένης ὁ Ἀθηναῖος
 eul_aid: cjy
-canonical: "https://eulogikon.org/en/diogenes-of-athens"
+canonical: "https://eulogikon.org/authors/diogenes-of-athens-cjy"
 period: Classical
 dialect: "Attic (dr, frg)"
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διογένης ὁ Ἀθηναῖος*
 
-**eul_aid:** `cjy` · [HTML page](https://eulogikon.org/en/diogenes-of-athens)
+**eul_aid:** `cjy` · [HTML page](https://eulogikon.org/authors/diogenes-of-athens-cjy)
 
 Diogenes of Athens was a classical Attic dramatist of the late 5th century BCE. Fragments are preserved. Free to download from the Greek library archive.
 

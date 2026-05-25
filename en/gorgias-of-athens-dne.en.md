@@ -2,7 +2,7 @@
 name: Gorgias of Athens
 name_greek: Γοργίας ὁ Ἀθηναῖος
 eul_aid: dne
-canonical: "https://eulogikon.org/en/gorgias-of-athens"
+canonical: "https://eulogikon.org/authors/gorgias-of-athens-dne"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Γοργίας ὁ Ἀθηναῖος*
 
-**eul_aid:** `dne` · [HTML page](https://eulogikon.org/en/gorgias-of-athens)
+**eul_aid:** `dne` · [HTML page](https://eulogikon.org/authors/gorgias-of-athens-dne)
 
 Gorgias of Athens, Imperial era historian from 1st century BCE. All surviving historical works. Free to read and download from the Greek library archive.
 

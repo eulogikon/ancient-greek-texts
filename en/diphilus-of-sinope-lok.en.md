@@ -2,7 +2,7 @@
 name: Diphilus the Comic Poet of Sinope
 name_greek: Δίφιλος ὁ Σινωπεύς
 eul_aid: lok
-canonical: "https://eulogikon.org/en/diphilus-of-sinope"
+canonical: "https://eulogikon.org/authors/diphilus-of-sinope-lok"
 period: Hellenistic
 dialect: Attic Comedy
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δίφιλος ὁ Σινωπεύς*
 
-**eul_aid:** `lok` · [HTML page](https://eulogikon.org/en/diphilus-of-sinope)
+**eul_aid:** `lok` · [HTML page](https://eulogikon.org/authors/diphilus-of-sinope-lok)
 
 Diphilus, Hellenistic comic playwright from Sinope and contemporary of Menander. His surviving comedy fragments. Free to download from the Greek archive.
 

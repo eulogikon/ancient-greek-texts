@@ -2,7 +2,7 @@
 name: Phanodemus of Athens
 name_greek: Φανόδημος ὁ Ἀθηναῖος
 eul_aid: fvy
-canonical: "https://eulogikon.org/en/phanodemus-of-athens"
+canonical: "https://eulogikon.org/authors/phanodemus-of-athens-fvy"
 period: Classical
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φανόδημος ὁ Ἀθηναῖος*
 
-**eul_aid:** `fvy` · [HTML page](https://eulogikon.org/en/phanodemus-of-athens)
+**eul_aid:** `fvy` · [HTML page](https://eulogikon.org/authors/phanodemus-of-athens-fvy)
 
 Phanodemus, a 4th century BCE Athenian historian and Atthidographer. Fragments of his detailed Attic history. Free to download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Bato of Sinope
 name_greek: Βάτων ὁ Σινωπεύς
 eul_aid: kws
-canonical: "https://eulogikon.org/en/bato-of-sinope"
+canonical: "https://eulogikon.org/authors/bato-of-sinope-kws"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Βάτων ὁ Σινωπεύς*
 
-**eul_aid:** `kws` · [HTML page](https://eulogikon.org/en/bato-of-sinope)
+**eul_aid:** `kws` · [HTML page](https://eulogikon.org/authors/bato-of-sinope-kws)
 
 Bato of Sinope, Hellenistic historian of the 2nd century BCE. Surviving historical works in Koine Greek. Free to download from the Greek library archive.
 

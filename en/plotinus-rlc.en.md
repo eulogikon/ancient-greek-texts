@@ -2,7 +2,7 @@
 name: Plotinus the Neoplatonist
 name_greek: Πλωτῖνος ὁ Νεοπλατωνικός
 eul_aid: rlc
-canonical: "https://eulogikon.org/en/plotinus"
+canonical: "https://eulogikon.org/authors/plotinus-the-neoplatonist-rlc"
 period: Roman
 dialect: Philosophical Koine
 affiliation: Neoplatonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πλωτῖνος ὁ Νεοπλατωνικός*
 
-**eul_aid:** `rlc` · [HTML page](https://eulogikon.org/en/plotinus)
+**eul_aid:** `rlc` · [HTML page](https://eulogikon.org/authors/plotinus-the-neoplatonist-rlc)
 
 Plotinus, Roman philosopher and founder of Neoplatonism. His works explore metaphysics and the soul. Free to read and download from the Greek library archive.
 

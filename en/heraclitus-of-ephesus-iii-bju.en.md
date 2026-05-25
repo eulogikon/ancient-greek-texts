@@ -2,7 +2,7 @@
 name: Heraclitus of Ephesus III
 name_greek: Ἡράκλειτος ὁ Ἐφέσιος
 eul_aid: bju
-canonical: "https://eulogikon.org/en/heraclitus-of-ephesus-iii"
+canonical: "https://eulogikon.org/authors/heraclitus-3-bju"
 period: Archaic
 dialect: Ionic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡράκλειτος ὁ Ἐφέσιος*
 
-**eul_aid:** `bju` · [HTML page](https://eulogikon.org/en/heraclitus-of-ephesus-iii)
+**eul_aid:** `bju` · [HTML page](https://eulogikon.org/authors/heraclitus-3-bju)
 
 Heraclitus of Ephesus, Archaic Ionic comedy author from the 6th-5th centuries BCE. Surviving works include an epistle. Free to download from the Greek archive.
 

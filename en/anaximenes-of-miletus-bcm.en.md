@@ -2,7 +2,7 @@
 name: Anaximenes of Miletus
 name_greek: Ἀναξιμένης ὁ Μιλήσιος
 eul_aid: bcm
-canonical: "https://eulogikon.org/en/anaximenes-of-miletus"
+canonical: "https://eulogikon.org/authors/anaximenes-of-miletus-bcm"
 period: Archaic
 dialect: Ionic
 affiliation: Presocratic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀναξιμένης ὁ Μιλήσιος*
 
-**eul_aid:** `bcm` · [HTML page](https://eulogikon.org/en/anaximenes-of-miletus)
+**eul_aid:** `bcm` · [HTML page](https://eulogikon.org/authors/anaximenes-of-miletus-bcm)
 
 Anaximenes of Miletus, 6th century BCE Ionian philosopher. Surviving fragments of his works. Free to read and download from the Greek library archive.
 

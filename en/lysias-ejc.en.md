@@ -2,7 +2,7 @@
 name: Lysias the Orator
 name_greek: Λυσίας ὁ λογογράφος
 eul_aid: ejc
-canonical: "https://eulogikon.org/en/lysias"
+canonical: "https://eulogikon.org/authors/lysias-the-orator-ejc"
 period: Classical
 dialect: Attic
 works_count: 36
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Λυσίας ὁ λογογράφος*
 
-**eul_aid:** `ejc` · [HTML page](https://eulogikon.org/en/lysias)
+**eul_aid:** `ejc` · [HTML page](https://eulogikon.org/authors/lysias-the-orator-ejc)
 
 Lysias was a professional speechwriter in classical Athens. Thirty-six surviving orations are attributed to him. Free to download from the Greek archive.
 

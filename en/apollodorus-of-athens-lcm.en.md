@@ -2,7 +2,7 @@
 name: Apollodorus of Athens
 name_greek: Ἀπολλόδωρος ὁ Ἀθηναῖος
 eul_aid: lcm
-canonical: "https://eulogikon.org/en/apollodorus-of-athens"
+canonical: "https://eulogikon.org/authors/apollodorus-of-athens-lcm"
 period: Hellenistic
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀπολλόδωρος ὁ Ἀθηναῖος*
 
-**eul_aid:** `lcm` · [HTML page](https://eulogikon.org/en/apollodorus-of-athens)
+**eul_aid:** `lcm` · [HTML page](https://eulogikon.org/authors/apollodorus-of-athens-lcm)
 
 Apollodorus of Athens, a Hellenistic historian of the 2nd century BCE. Surviving works are preserved. Free to read and download from the Greek library archive.
 

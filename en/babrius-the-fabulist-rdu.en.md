@@ -2,7 +2,7 @@
 name: Babrius the Fabulist
 name_greek: Βάβριος ὁ μυθολόγος
 eul_aid: rdu
-canonical: "https://eulogikon.org/en/babrius-the-fabulist"
+canonical: "https://eulogikon.org/authors/babrius-the-fabulist-rdu"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Βάβριος ὁ μυθολόγος*
 
-**eul_aid:** `rdu` · [HTML page](https://eulogikon.org/en/babrius-the-fabulist)
+**eul_aid:** `rdu` · [HTML page](https://eulogikon.org/authors/babrius-the-fabulist-rdu)
 
 Babrius, a Roman era fabulist writing in Koine Greek. His surviving works include Aesopic fables in verse. Free to download from the Greek library archive.
 

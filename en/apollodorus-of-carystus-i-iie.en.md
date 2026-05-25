@@ -2,7 +2,7 @@
 name: Apollodorus of Carystus I
 name_greek: Ἀπολλόδωρος ὁ Καρύστιος
 eul_aid: iie
-canonical: "https://eulogikon.org/en/apollodorus-of-carystus-i"
+canonical: "https://eulogikon.org/authors/apollodorus-of-carystus-iie"
 period: Hellenistic
 dialect: Attic Comedy
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀπολλόδωρος ὁ Καρύστιος*
 
-**eul_aid:** `iie` · [HTML page](https://eulogikon.org/en/apollodorus-of-carystus-i)
+**eul_aid:** `iie` · [HTML page](https://eulogikon.org/authors/apollodorus-of-carystus-iie)
 
 Apollodorus of Carystus, Hellenistic comic playwright of the 4th-3rd century BCE. Attic comedies. Free to read and download from the Greek library archive.
 

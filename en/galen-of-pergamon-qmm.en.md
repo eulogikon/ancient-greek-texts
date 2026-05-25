@@ -2,7 +2,7 @@
 name: Galen of Pergamon
 name_greek: Γαληνὸς ὁ Περγαμηνός
 eul_aid: qmm
-canonical: "https://eulogikon.org/en/galen-of-pergamon"
+canonical: "https://eulogikon.org/authors/galen-of-pergamon-qmm"
 period: Roman
 dialect: Atticizing Technical
 works_count: 110
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Γαληνὸς ὁ Περγαμηνός*
 
-**eul_aid:** `qmm` · [HTML page](https://eulogikon.org/en/galen-of-pergamon)
+**eul_aid:** `qmm` · [HTML page](https://eulogikon.org/authors/galen-of-pergamon-qmm)
 
 Galen was a Greek physician and philosopher. His surviving works include medical treatises. Free to read and download from the Greek library archive.
 

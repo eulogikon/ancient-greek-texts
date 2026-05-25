@@ -2,7 +2,7 @@
 name: Amyntas of Telmessos
 name_greek: Ἀμύντας ὁ Τελμησσεύς
 eul_aid: gxg
-canonical: "https://eulogikon.org/en/amyntas-of-telmessos"
+canonical: "https://eulogikon.org/authors/amyntas-of-telmessos-gxg"
 period: Classical
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀμύντας ὁ Τελμησσεύς*
 
-**eul_aid:** `gxg` · [HTML page](https://eulogikon.org/en/amyntas-of-telmessos)
+**eul_aid:** `gxg` · [HTML page](https://eulogikon.org/authors/amyntas-of-telmessos-gxg)
 
 Amyntas of Telmessos, a 4th century BCE Attic poet. Surviving works include his poetic verse. Free to read and download from the Greek library archive.
 

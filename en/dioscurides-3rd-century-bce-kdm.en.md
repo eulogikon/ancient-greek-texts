@@ -2,7 +2,7 @@
 name: Dioscurides of the 3rd c. BCE
 name_greek: Διοσκουρίδης
 eul_aid: kdm
-canonical: "https://eulogikon.org/en/dioscurides-3rd-century-bce"
+canonical: "https://eulogikon.org/authors/dioscurides-of-the-3rd-c.-bce-kdm"
 period: Hellenistic
 dialect: Mixed Dialects
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διοσκουρίδης*
 
-**eul_aid:** `kdm` · [HTML page](https://eulogikon.org/en/dioscurides-3rd-century-bce)
+**eul_aid:** `kdm` · [HTML page](https://eulogikon.org/authors/dioscurides-of-the-3rd-c.-bce-kdm)
 
 Dioscurides, a Hellenistic historian of the 3rd century BCE. Two surviving historical works in prose. Free to read and download from the Greek library archive.
 

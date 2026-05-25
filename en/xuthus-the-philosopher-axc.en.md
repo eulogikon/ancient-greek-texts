@@ -2,7 +2,7 @@
 name: Xuthus the Philosopher
 name_greek: Ξοῦθος ὁ Φιλόσοφος
 eul_aid: axc
-canonical: "https://eulogikon.org/en/xuthus-the-philosopher"
+canonical: "https://eulogikon.org/authors/xuthus-the-philosopher-axc"
 period: Archaic
 dialect: Attic
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ξοῦθος ὁ Φιλόσοφος*
 
-**eul_aid:** `axc` · [HTML page](https://eulogikon.org/en/xuthus-the-philosopher)
+**eul_aid:** `axc` · [HTML page](https://eulogikon.org/authors/xuthus-the-philosopher-axc)
 
 Xuthus was a Pythagorean philosopher from Rhegium. His surviving philosophical works are in fragments. Free to read and download from the Greek library archive.
 

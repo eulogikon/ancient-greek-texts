@@ -2,7 +2,7 @@
 name: Demades of Paeania
 name_greek: Δημάδης ὁ Παιανιεύς
 eul_aid: hlw
-canonical: "https://eulogikon.org/en/demades-of-paeania"
+canonical: "https://eulogikon.org/authors/demades-of-paeania-hlw"
 period: Classical
 dialect: Attic
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δημάδης ὁ Παιανιεύς*
 
-**eul_aid:** `hlw` · [HTML page](https://eulogikon.org/en/demades-of-paeania)
+**eul_aid:** `hlw` · [HTML page](https://eulogikon.org/authors/demades-of-paeania-hlw)
 
 Demades of Paeania, a 4th century BCE Athenian orator. Works include speeches and political fragments. Free to read and download from the Greek library archive.
 

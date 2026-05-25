@@ -2,7 +2,7 @@
 name: Apollonius of Perga
 name_greek: Ἀπολλώνιος ὁ Περγαῖος
 eul_aid: kle
-canonical: "https://eulogikon.org/en/apollonius-of-perga"
+canonical: "https://eulogikon.org/authors/apollonius-of-perga-kle"
 period: Hellenistic
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀπολλώνιος ὁ Περγαῖος*
 
-**eul_aid:** `kle` · [HTML page](https://eulogikon.org/en/apollonius-of-perga)
+**eul_aid:** `kle` · [HTML page](https://eulogikon.org/authors/apollonius-of-perga-kle)
 
 Apollonius of Perga was a Hellenistic mathematician and astronomer known for his treatise the Conics. Free to read and download from the Greek library archive.
 

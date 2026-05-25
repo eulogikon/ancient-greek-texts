@@ -2,7 +2,7 @@
 name: Maeandrius of Miletus
 name_greek: Μαίανδριος ὁ Μιλήσιος
 eul_aid: iam
-canonical: "https://eulogikon.org/en/maeandrius-of-miletus"
+canonical: "https://eulogikon.org/authors/maeandrius-of-miletus-iam"
 period: Hellenistic
 dialect: Ionic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μαίανδριος ὁ Μιλήσιος*
 
-**eul_aid:** `iam` · [HTML page](https://eulogikon.org/en/maeandrius-of-miletus)
+**eul_aid:** `iam` · [HTML page](https://eulogikon.org/authors/maeandrius-of-miletus-iam)
 
 Maeandrius of Miletus, a Hellenistic historian writing in Ionic Greek. His surviving historical works. Free to read and download from the Greek library archive.
 

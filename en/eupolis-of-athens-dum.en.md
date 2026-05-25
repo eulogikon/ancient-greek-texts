@@ -2,7 +2,7 @@
 name: Eupolis Atheniensis
 name_greek: Εὔπολις ὁ Ἀθηναῖος
 eul_aid: dum
-canonical: "https://eulogikon.org/en/eupolis-of-athens"
+canonical: "https://eulogikon.org/authors/eupolis-atheniensis-dum"
 period: Classical
 dialect: Attic Comedy
 works_count: 5
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Εὔπολις ὁ Ἀθηναῖος*
 
-**eul_aid:** `dum` · [HTML page](https://eulogikon.org/en/eupolis-of-athens)
+**eul_aid:** `dum` · [HTML page](https://eulogikon.org/authors/eupolis-atheniensis-dum)
 
 Eupolis was a leading Athenian comic playwright of Old Comedy. Surviving works include fragments. Free to read and download from the Greek library archive.
 

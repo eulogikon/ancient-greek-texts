@@ -2,7 +2,7 @@
 name: Isocrates of Athens
 name_greek: Ἰσοκράτης ὁ Ἀθηναῖος
 eul_aid: ffu
-canonical: "https://eulogikon.org/en/isocrates-of-athens"
+canonical: "https://eulogikon.org/authors/isocrates-of-athens-ffu"
 period: Classical
 dialect: Attic
 works_count: 31
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἰσοκράτης ὁ Ἀθηναῖος*
 
-**eul_aid:** `ffu` · [HTML page](https://eulogikon.org/en/isocrates-of-athens)
+**eul_aid:** `ffu` · [HTML page](https://eulogikon.org/authors/isocrates-of-athens-ffu)
 
 Isocrates was an Athenian orator and educator. His surviving works include influential orations. Free to read and download from the Greek library archive.
 

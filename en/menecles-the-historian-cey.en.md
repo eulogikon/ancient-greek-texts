@@ -2,7 +2,7 @@
 name: Menecles the Historian
 name_greek: Μενεκλῆς ὁ ἱστορικός
 eul_aid: cey
-canonical: "https://eulogikon.org/en/menecles-the-historian"
+canonical: "https://eulogikon.org/authors/menecles-the-historian-cey"
 period: Classical
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μενεκλῆς ὁ ἱστορικός*
 
-**eul_aid:** `cey` · [HTML page](https://eulogikon.org/en/menecles-the-historian)
+**eul_aid:** `cey` · [HTML page](https://eulogikon.org/authors/menecles-the-historian-cey)
 
 Menecles Historian was a 4th century BCE Greek historian. His surviving historical works are preserved as fragments. Free to download from the Greek archive.
 

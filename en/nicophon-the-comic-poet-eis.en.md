@@ -2,7 +2,7 @@
 name: Nicophon the Comic Poet
 name_greek: Νικοφῶν ὁ Θερωνίδης
 eul_aid: eis
-canonical: "https://eulogikon.org/en/nicophon-the-comic-poet"
+canonical: "https://eulogikon.org/authors/nicophon-the-comic-poet-eis"
 period: Classical
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Νικοφῶν ὁ Θερωνίδης*
 
-**eul_aid:** `eis` · [HTML page](https://eulogikon.org/en/nicophon-the-comic-poet)
+**eul_aid:** `eis` · [HTML page](https://eulogikon.org/authors/nicophon-the-comic-poet-eis)
 
 Nicophon was an Athenian comic poet of late 5th century BCE Old Comedy. Two fragmentary works survive. Free to read and download from the Greek library archive.
 

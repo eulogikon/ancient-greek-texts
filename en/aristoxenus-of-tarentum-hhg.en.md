@@ -2,7 +2,7 @@
 name: Aristoxenus of Tarentum
 name_greek: Ἀριστόξενος ὁ Ταραντῖνος
 eul_aid: hhg
-canonical: "https://eulogikon.org/en/aristoxenus-of-tarentum"
+canonical: "https://eulogikon.org/authors/aristoxenus-of-tarentum-hhg"
 period: Classical
 dialect: Attic
 works_count: 6
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀριστόξενος ὁ Ταραντῖνος*
 
-**eul_aid:** `hhg` · [HTML page](https://eulogikon.org/en/aristoxenus-of-tarentum)
+**eul_aid:** `hhg` · [HTML page](https://eulogikon.org/authors/aristoxenus-of-tarentum-hhg)
 
 Aristoxenus, 4th century BCE Greek philosopher and music theorist. Works on harmonics and rhythm. Free to read and download from the Greek library archive.
 

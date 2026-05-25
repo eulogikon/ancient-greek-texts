@@ -2,7 +2,7 @@
 name: Menecrates of Tralles
 name_greek: Μενεκράτης ὁ Τραλλιανός
 eul_aid: mxa
-canonical: "https://eulogikon.org/en/menecrates-of-tralles"
+canonical: "https://eulogikon.org/authors/menecrates-of-tralles-mxa"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μενεκράτης ὁ Τραλλιανός*
 
-**eul_aid:** `mxa` · [HTML page](https://eulogikon.org/en/menecrates-of-tralles)
+**eul_aid:** `mxa` · [HTML page](https://eulogikon.org/authors/menecrates-of-tralles-mxa)
 
 Menecrates of Tralles, a Hellenistic historian of 2nd-1st century BCE. Surviving historical works in Koine Greek prose. Free to download from the Greek archive.
 

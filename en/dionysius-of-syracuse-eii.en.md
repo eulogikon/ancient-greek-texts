@@ -2,7 +2,7 @@
 name: Dionysius of Syracuse the Elder
 name_greek: Διονύσιος ὁ Συρακόσιος ὁ Πρεσβύτερος
 eul_aid: eii
-canonical: "https://eulogikon.org/en/dionysius-of-syracuse"
+canonical: "https://eulogikon.org/authors/dionysius-of-syracuse-eii"
 period: Classical
 dialect: Attic Drama
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διονύσιος ὁ Συρακόσιος ὁ Πρεσβύτερος*
 
-**eul_aid:** `eii` · [HTML page](https://eulogikon.org/en/dionysius-of-syracuse)
+**eul_aid:** `eii` · [HTML page](https://eulogikon.org/authors/dionysius-of-syracuse-eii)
 
 Dionysius of Syracuse, 5th-4th century BCE Greek tyrant and dramatist. Surviving dramatic works. Free to read and download from the Greek library archive.
 

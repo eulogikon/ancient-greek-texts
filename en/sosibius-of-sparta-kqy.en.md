@@ -2,7 +2,7 @@
 name: Sosibius of Sparta
 name_greek: Σωσίβιος ὁ Σπαρτιάτης
 eul_aid: kqy
-canonical: "https://eulogikon.org/en/sosibius-of-sparta"
+canonical: "https://eulogikon.org/authors/sosibius-of-sparta-kqy"
 period: Hellenistic
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σωσίβιος ὁ Σπαρτιάτης*
 
-**eul_aid:** `kqy` · [HTML page](https://eulogikon.org/en/sosibius-of-sparta)
+**eul_aid:** `kqy` · [HTML page](https://eulogikon.org/authors/sosibius-of-sparta-kqy)
 
 Sosibius of Sparta was a Hellenistic grammarian of the 2nd century BCE. Two grammatical works survive. Free to read and download from the Greek library archive.
 

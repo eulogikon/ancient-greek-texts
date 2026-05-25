@@ -2,7 +2,7 @@
 name: Poliochus the Comic Poet
 name_greek: Πολιόχος ὁ κωμικός
 eul_aid: cfi
-canonical: "https://eulogikon.org/en/poliochus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/poliochus-the-comic-poet-cfi"
 period: Classical
 dialect: Attic Comedy
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πολιόχος ὁ κωμικός*
 
-**eul_aid:** `cfi` · [HTML page](https://eulogikon.org/en/poliochus-the-comic-poet)
+**eul_aid:** `cfi` · [HTML page](https://eulogikon.org/authors/poliochus-the-comic-poet-cfi)
 
 Poliochus, a 4th-3rd century BCE Athenian comic poet. Surviving fragments from his comedies. Free to read and download from the Greek library archive.
 

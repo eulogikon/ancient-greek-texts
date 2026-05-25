@@ -2,7 +2,7 @@
 name: Metrophanes Historicus
 name_greek: Μητροφάνης ὁ Ἱστορικός
 eul_aid: tzg
-canonical: "https://eulogikon.org/en/metrophanes-historicus"
+canonical: "https://eulogikon.org/authors/metrophanes-historicus-tzg"
 period: Late Antique
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μητροφάνης ὁ Ἱστορικός*
 
-**eul_aid:** `tzg` · [HTML page](https://eulogikon.org/en/metrophanes-historicus)
+**eul_aid:** `tzg` · [HTML page](https://eulogikon.org/authors/metrophanes-historicus-tzg)
 
 Metrophanes Historicus, a late antique historian of the 3rd–4th century CE. Historical fragments in Koine Greek. Free to download from the Greek archive.
 

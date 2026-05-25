@@ -2,7 +2,7 @@
 name: Antoninus Pius Letters
 name_greek: Ἀντωνίνου Πίου Ἐπιστολαί
 eul_aid: ppk
-canonical: "https://eulogikon.org/en/antoninus-pius"
+canonical: "https://eulogikon.org/authors/antoninus-pius-letters-ppk"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀντωνίνου Πίου Ἐπιστολαί*
 
-**eul_aid:** `ppk` · [HTML page](https://eulogikon.org/en/antoninus-pius)
+**eul_aid:** `ppk` · [HTML page](https://eulogikon.org/authors/antoninus-pius-letters-ppk)
 
 Antoninus Pius, Roman emperor of the 2nd century CE. Surviving letters and epistles in Koine Greek. Free to read and download from the Greek library archive.
 

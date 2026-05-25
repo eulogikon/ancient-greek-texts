@@ -2,7 +2,7 @@
 name: Apion Alexandrinus
 name_greek: Ἀπίων ὁ Ἀλεξανδρεύς
 eul_aid: nlq
-canonical: "https://eulogikon.org/en/apion-alexandrinus"
+canonical: "https://eulogikon.org/authors/apion-alexandrinus-nlq"
 period: Roman
 dialect: Koine
 affiliation: Sophist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀπίων ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `nlq` · [HTML page](https://eulogikon.org/en/apion-alexandrinus)
+**eul_aid:** `nlq` · [HTML page](https://eulogikon.org/authors/apion-alexandrinus-nlq)
 
 Apion was a first century CE Greek grammarian from Alexandria. Three treatises on grammar. Free to read and download from the Greek library archive.
 

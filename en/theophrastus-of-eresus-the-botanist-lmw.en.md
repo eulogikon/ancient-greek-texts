@@ -2,7 +2,7 @@
 name: Theophrastus of Eresus the Botanist
 name_greek: Θεόφραστος ὁ Ἐρέσιος
 eul_aid: lmw
-canonical: "https://eulogikon.org/en/theophrastus-of-eresus-the-botanist"
+canonical: "https://eulogikon.org/authors/theophrastus-eresus-botanist-lmw"
 period: Hellenistic
 dialect: Attic Philosophical
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θεόφραστος ὁ Ἐρέσιος*
 
-**eul_aid:** `lmw` · [HTML page](https://eulogikon.org/en/theophrastus-of-eresus-the-botanist)
+**eul_aid:** `lmw` · [HTML page](https://eulogikon.org/authors/theophrastus-eresus-botanist-lmw)
 
 Theophrastus of Eresus, Hellenistic philosopher and pioneering botanist. His surviving botanical texts. Free to download from the Greek library archive.
 

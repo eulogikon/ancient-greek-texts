@@ -2,7 +2,7 @@
 name: Sosipater the Comic Poet
 name_greek: Σωσίπατρος ὁ Κωμικός
 eul_aid: ilg
-canonical: "https://eulogikon.org/en/sosipater-the-comic-poet"
+canonical: "https://eulogikon.org/authors/sosipater-the-comic-poet-ilg"
 period: Hellenistic
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σωσίπατρος ὁ Κωμικός*
 
-**eul_aid:** `ilg` · [HTML page](https://eulogikon.org/en/sosipater-the-comic-poet)
+**eul_aid:** `ilg` · [HTML page](https://eulogikon.org/authors/sosipater-the-comic-poet-ilg)
 
 Sosipater was a Hellenistic Greek comic poet of the 2nd century BCE. Two surviving works are preserved as fragments. Free to download from the Greek archive.
 

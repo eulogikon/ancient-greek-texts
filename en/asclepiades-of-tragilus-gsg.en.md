@@ -2,7 +2,7 @@
 name: Asclepiades of Tragilus
 name_greek: Ἀσκληπιάδης ὁ Τραγίλου
 eul_aid: gsg
-canonical: "https://eulogikon.org/en/asclepiades-of-tragilus"
+canonical: "https://eulogikon.org/authors/asclepiades-of-tragilus-gsg"
 period: Classical
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀσκληπιάδης ὁ Τραγίλου*
 
-**eul_aid:** `gsg` · [HTML page](https://eulogikon.org/en/asclepiades-of-tragilus)
+**eul_aid:** `gsg` · [HTML page](https://eulogikon.org/authors/asclepiades-of-tragilus-gsg)
 
 Asclepiades of Tragilus, 4th century BCE mythographer. Works include fragments of mythographic prose. Free to read and download from the Greek library archive.
 

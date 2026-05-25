@@ -2,7 +2,7 @@
 name: Aristeas of Proconnesus
 name_greek: Ἀριστέας ὁ Προκοννήσιος
 eul_aid: adc
-canonical: "https://eulogikon.org/en/aristeas-of-proconnesus"
+canonical: "https://eulogikon.org/authors/aristeas-of-proconnesus-adc"
 period: Archaic
 dialect: Epic (Homeric) (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀριστέας ὁ Προκοννήσιος*
 
-**eul_aid:** `adc` · [HTML page](https://eulogikon.org/en/aristeas-of-proconnesus)
+**eul_aid:** `adc` · [HTML page](https://eulogikon.org/authors/aristeas-of-proconnesus-adc)
 
 Aristeas of Proconnesus, 7th century BCE epic poet. Fragments of his verse in Homeric dialect. Free to read and download from the Greek library archive.
 

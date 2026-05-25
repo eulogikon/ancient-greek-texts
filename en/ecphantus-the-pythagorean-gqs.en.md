@@ -2,7 +2,7 @@
 name: Ecphantus the Pythagorean
 name_greek: Ἔκφαντος ὁ Πυθαγόρειος
 eul_aid: gqs
-canonical: "https://eulogikon.org/en/ecphantus-the-pythagorean"
+canonical: "https://eulogikon.org/authors/ecphantus-the-pythagorean-gqs"
 period: Classical
 dialect: "Doric (phi, frg)"
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἔκφαντος ὁ Πυθαγόρειος*
 
-**eul_aid:** `gqs` · [HTML page](https://eulogikon.org/en/ecphantus-the-pythagorean)
+**eul_aid:** `gqs` · [HTML page](https://eulogikon.org/authors/ecphantus-the-pythagorean-gqs)
 
 Ecphantus was a 4th century BCE Pythagorean philosopher. Two surviving works are preserved in fragments. Free to download from the Greek library archive.
 

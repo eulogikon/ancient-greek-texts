@@ -2,7 +2,7 @@
 name: Lexicographical Work Anonymous I
 name_greek: Λεξικογραφικὸν ἔργον ἀνώνυμον
 eul_aid: vtu
-canonical: "https://eulogikon.org/en/lexicographical-anonymous-i"
+canonical: "https://eulogikon.org/authors/lexicographical-work-anon-vtu"
 period: Late Antique
 dialect: Mixed Dialects
 works_count: 6
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Λεξικογραφικὸν ἔργον ἀνώνυμον*
 
-**eul_aid:** `vtu` · [HTML page](https://eulogikon.org/en/lexicographical-anonymous-i)
+**eul_aid:** `vtu` · [HTML page](https://eulogikon.org/authors/lexicographical-work-anon-vtu)
 
 Anonymous lexicographer from Late Antiquity, 2nd to 6th century CE. Six grammatical works in mixed dialects. Free to read and download from the Greek archive.
 

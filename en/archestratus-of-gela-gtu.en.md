@@ -2,7 +2,7 @@
 name: Archestratus of Gela
 name_greek: Ἀρχέστρατος ὁ Γελῆς
 eul_aid: gtu
-canonical: "https://eulogikon.org/en/archestratus-of-gela"
+canonical: "https://eulogikon.org/authors/archestratus-of-gela-gtu"
 period: Classical
 dialect: Epic (Homeric) (frg)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρχέστρατος ὁ Γελῆς*
 
-**eul_aid:** `gtu` · [HTML page](https://eulogikon.org/en/archestratus-of-gela)
+**eul_aid:** `gtu` · [HTML page](https://eulogikon.org/authors/archestratus-of-gela-gtu)
 
 Archestratus of Gela, a 4th century BCE poet in Homeric style. Fragments of his gastronomic poetry. Free to read and download from the Greek library archive.
 

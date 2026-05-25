@@ -2,7 +2,7 @@
 name: Sosiphanes of Syracuse
 name_greek: Σωσιφάνης ὁ Συρακούσιος
 eul_aid: heo
-canonical: "https://eulogikon.org/en/sosiphanes-of-syracuse"
+canonical: "https://eulogikon.org/authors/sosiphanes-of-syracuse-heo"
 period: Classical
 dialect: Doric
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σωσιφάνης ὁ Συρακούσιος*
 
-**eul_aid:** `heo` · [HTML page](https://eulogikon.org/en/sosiphanes-of-syracuse)
+**eul_aid:** `heo` · [HTML page](https://eulogikon.org/authors/sosiphanes-of-syracuse-heo)
 
 Sosiphanes of Syracuse was a 4th century BCE Doric dramatist. Surviving works include one known play. Free to read and download from the Greek library archive.
 

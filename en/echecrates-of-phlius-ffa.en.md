@@ -2,7 +2,7 @@
 name: Echecrates of Phlius
 name_greek: Ἐχεκράτης ὁ Φλιάσιος
 eul_aid: ffa
-canonical: "https://eulogikon.org/en/echecrates-of-phlius"
+canonical: "https://eulogikon.org/authors/echecrates-of-phlius-ffa"
 period: Classical
 dialect: Attic Philosophical
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἐχεκράτης ὁ Φλιάσιος*
 
-**eul_aid:** `ffa` · [HTML page](https://eulogikon.org/en/echecrates-of-phlius)
+**eul_aid:** `ffa` · [HTML page](https://eulogikon.org/authors/echecrates-of-phlius-ffa)
 
 Echecrates of Phlius was a Pythagorean philosopher of the late 5th century BCE. Read his works. Free to read and download from the Greek library archive.
 

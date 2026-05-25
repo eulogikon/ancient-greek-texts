@@ -2,7 +2,7 @@
 name: Iambic Fragments Anonymous
 name_greek: Ἰαμβικὰ Ἀδέσποτα
 eul_aid: ajq
-canonical: "https://eulogikon.org/en/iambic-fragments-anon"
+canonical: "https://eulogikon.org/authors/iambic-fragments-anon-ajq"
 period: Archaic
 dialect: Mixed Dialects (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἰαμβικὰ Ἀδέσποτα*
 
-**eul_aid:** `ajq` · [HTML page](https://eulogikon.org/en/iambic-fragments-anon)
+**eul_aid:** `ajq` · [HTML page](https://eulogikon.org/authors/iambic-fragments-anon-ajq)
 
 Anonymous iambic fragments from Archaic Greek poetry. Surviving fragmentary works in mixed dialects. Free to read and download from the Greek library archive.
 

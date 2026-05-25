@@ -2,7 +2,7 @@
 name: Xenophon of Athens
 name_greek: Ξενοφῶν ὁ Ἀθηναῖος
 eul_aid: ezq
-canonical: "https://eulogikon.org/en/xenophon-of-athens"
+canonical: "https://eulogikon.org/authors/xenophon-of-athens-ezq"
 period: Classical
 dialect: Attic
 works_count: 15
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ξενοφῶν ὁ Ἀθηναῖος*
 
-**eul_aid:** `ezq` · [HTML page](https://eulogikon.org/en/xenophon-of-athens)
+**eul_aid:** `ezq` · [HTML page](https://eulogikon.org/authors/xenophon-of-athens-ezq)
 
 Xenophon of Athens, a classical historian and philosopher. Works include the Anabasis and Hellenica. Free to read and download from the Greek library archive.
 

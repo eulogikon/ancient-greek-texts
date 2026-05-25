@@ -2,7 +2,7 @@
 name: Philemon the Younger
 name_greek: Φιλήμων ὁ νεώτερος
 eul_aid: lig
-canonical: "https://eulogikon.org/en/philemon-the-younger"
+canonical: "https://eulogikon.org/authors/philemon-the-younger-lig"
 period: Hellenistic
 dialect: Attic Comedy
 works_count: 2
@@ -13,14 +13,14 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φιλήμων ὁ νεώτερος*
 
-**eul_aid:** `lig` · [HTML page](https://eulogikon.org/en/philemon-the-younger)
+**eul_aid:** `lig` · [HTML page](https://eulogikon.org/authors/philemon-the-younger-lig)
 
 Philemon the Younger was a Hellenistic Attic comic poet. Two surviving works are preserved. Free to read and download from the Greek library archive.
 
 ## Works
 
-- [Culinary and Medical Dialogues](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger-culinary-medical-dialogues-ab-lig-ab.grc.md) — *Ἀποσπάσματα* · `lig-ab`
 - [Culinary and Medical Dialogues](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger-culinary-medical-dialogues-aa-lig-aa.grc.md) — *Ἀποσπάσματα* · `lig-aa`
+- [Culinary and Medical Dialogues](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger-culinary-medical-dialogues-ab-lig-ab.grc.md) — *Ἀποσπάσματα* · `lig-ab`
 
 ## License and provenance
 

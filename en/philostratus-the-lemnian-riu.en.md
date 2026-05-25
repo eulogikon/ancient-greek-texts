@@ -2,7 +2,7 @@
 name: Philostratus the Lemnian
 name_greek: Φιλόστρατος ὁ Λήμνιος
 eul_aid: riu
-canonical: "https://eulogikon.org/en/philostratus-the-lemnian"
+canonical: "https://eulogikon.org/authors/philostratus-the-lemnian-riu"
 period: Roman
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φιλόστρατος ὁ Λήμνιος*
 
-**eul_aid:** `riu` · [HTML page](https://eulogikon.org/en/philostratus-the-lemnian)
+**eul_aid:** `riu` · [HTML page](https://eulogikon.org/authors/philostratus-the-lemnian-riu)
 
 Philostratus the Lemnian, a Roman era orator writing in Attic Greek. His surviving oration is preserved. Free to read and download from the Greek library.
 

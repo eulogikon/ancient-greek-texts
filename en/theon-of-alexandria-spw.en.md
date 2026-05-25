@@ -2,7 +2,7 @@
 name: Theon of Alexandria
 name_greek: Θέων ὁ Ἀλεξανδρεύς
 eul_aid: spw
-canonical: "https://eulogikon.org/en/theon-of-alexandria"
+canonical: "https://eulogikon.org/authors/theon-of-alexandria-spw"
 period: Late Antique
 dialect: Koine
 works_count: 5
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θέων ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `spw` · [HTML page](https://eulogikon.org/en/theon-of-alexandria)
+**eul_aid:** `spw` · [HTML page](https://eulogikon.org/authors/theon-of-alexandria-spw)
 
 Theon of Alexandria, a 4th century CE mathematician and astronomer. Surviving works include treatises. Free to read and download from the Greek library archive.
 

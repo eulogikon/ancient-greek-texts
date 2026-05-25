@@ -2,7 +2,7 @@
 name: Glaucus the Historian
 name_greek: Γλαῦκος ὁ Ἱστορικός
 eul_aid: mfs
-canonical: "https://eulogikon.org/en/glaucus-the-historian"
+canonical: "https://eulogikon.org/authors/glaucus-the-historian-mfs"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Γλαῦκος ὁ Ἱστορικός*
 
-**eul_aid:** `mfs` · [HTML page](https://eulogikon.org/en/glaucus-the-historian)
+**eul_aid:** `mfs` · [HTML page](https://eulogikon.org/authors/glaucus-the-historian-mfs)
 
 Glaucus Historian, a Hellenistic historian of the 2nd century BCE. Surviving works from the ancient Greek tradition. Free to download from the Greek archive.
 

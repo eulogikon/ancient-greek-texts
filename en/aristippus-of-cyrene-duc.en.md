@@ -2,7 +2,7 @@
 name: Aristippus of Cyrene
 name_greek: Ἀρίστιππος ὁ Κυρηναῖος
 eul_aid: duc
-canonical: "https://eulogikon.org/en/aristippus-of-cyrene"
+canonical: "https://eulogikon.org/authors/aristippus-of-cyrene-duc"
 period: Classical
 dialect: "Attic (phi, frg)"
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρίστιππος ὁ Κυρηναῖος*
 
-**eul_aid:** `duc` · [HTML page](https://eulogikon.org/en/aristippus-of-cyrene)
+**eul_aid:** `duc` · [HTML page](https://eulogikon.org/authors/aristippus-of-cyrene-duc)
 
 Aristippus of Cyrene, Greek philosopher and follower of Socrates. Surviving fragments of his ethical thought. Free to read and download from the Greek library.
 

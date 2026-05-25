@@ -2,7 +2,7 @@
 name: Archedemus of Tarsus
 name_greek: Ἀρχέδημος ὁ Ταρσεύς
 eul_aid: mnk
-canonical: "https://eulogikon.org/en/archedemus-of-tarsus"
+canonical: "https://eulogikon.org/authors/archedemus-of-tarsus-mnk"
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 affiliation: Stoic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρχέδημος ὁ Ταρσεύς*
 
-**eul_aid:** `mnk` · [HTML page](https://eulogikon.org/en/archedemus-of-tarsus)
+**eul_aid:** `mnk` · [HTML page](https://eulogikon.org/authors/archedemus-of-tarsus-mnk)
 
 Archedemus of Tarsus was a Stoic philosopher of the 2nd century BCE. His surviving philosophical works. Free to read and download from the Greek archive.
 
