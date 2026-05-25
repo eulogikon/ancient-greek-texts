@@ -5,4 +5,12 @@
 .env
 scripts/
 *.py
+__pycache__/
 wayback_progress.json
+# Internal backend material — never published.
+work-reports/
+_docs-staging/
+# AI assistant tooling — never published.
+.claude/
+docs/CLAUDE.md
+.githooks/
