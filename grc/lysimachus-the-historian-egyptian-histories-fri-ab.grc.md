@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Lysimachus the Historian
 eul_wid: fri-ab
 eul_aid: fri
-canonical: "https://eulogikon.org/grc/lysimachus-the-historian/egyptian-histories"
+canonical: "https://eulogikon.org/works/lysimachus-egyptian-histories-fri-ab"
 period: Classical
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lysimachus the Historian
 
-**eul_wid:** `fri-ab` · [HTML page](https://eulogikon.org/grc/lysimachus-the-historian/egyptian-histories)
+**eul_wid:** `fri-ab` · [HTML page](https://eulogikon.org/works/lysimachus-egyptian-histories-fri-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν παρὰ Δημοσθένει σχημάτων
 author: Tiberius the Rhetorician
 eul_wid: nny-aa
 eul_aid: nny
-canonical: "https://eulogikon.org/grc/tiberius-the-rhetorician/demosthenes-figures"
+canonical: "https://eulogikon.org/works/tiberius-rhetor-demosthenes-figures-nny-aa"
 period: Roman
 dialect: Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Tiberius the Rhetorician
 
-**eul_wid:** `nny-aa` · [HTML page](https://eulogikon.org/grc/tiberius-the-rhetorician/demosthenes-figures)
+**eul_wid:** `nny-aa` · [HTML page](https://eulogikon.org/works/tiberius-rhetor-demosthenes-figures-nny-aa)
 
 ## Text
 
@@ -202,7 +202,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 48
 
-καὶ ὁ Ἡρόδοτος· Κροῖσος ἦν Λυδὸς μὲν γένο ς , παῖς δὲ Ἀλυάττε ω , τύραννος δὲ ἐθνῶν τῶν ἐντὸς Ἅλυος ποταμο ῦ , ὃς ῥέων ἀπὸ μεσημβρίης μεταξὺ Σύρων καὶ Παφλαγόνων ἐξίει πρὸς βορέην ἄνεμον εἰς τὸν Εὔξεινον καλεόμενον πόντο ν. ἐνταῦθα παρεμβέβληται τὰ τοῦ ποταμοῦ. καὶ Εὐριπίδης· Δαναός, ὁ πεντήκοντα θυγατέρων πατήρ, Νείλου λιπὼν κάλλιστον †εὐκταίης† ὕδωρ, ὃς ἐκ μελαμβρότοιο πληροῦται ῥοὰς Αἰθιοπίδος γῆς, ἡνίκ’ ἂν τακῇ χιών, †τεθριππεύοντος† ἡλίου κατ’ αἰθέρα, ἐλθὼν κατ’ Ἄργος ᾤκις’ Ἰνάχου πόλιν. οἱ γὰρ τρεῖς περὶ τοῦ ποταμοῦ στίχοι περιττοί.
+καὶ ὁ Ἡρόδοτος· Κροῖσος ἦν Λυδὸς μὲν γένο ς , παῖς δὲ Ἀλυάττε ω , τύραννος δὲ ἐθνῶν τῶν ἐντὸς Ἅλυος ποταμο ῦ , ὃς ῥέων ἀπὸ μεσημβρίης μεταξὺ Σύρων καὶ Παφλαγόνων ἐξίει πρὸς βορέην ἄνεμον εἰς τὸν Εὔξεινον καλεόμενον πόντο ν. ἐνταῦθα παρεμβέβληται τὰ τοῦ ποταμοῦ. καὶ Εὐριπίδης· Δαναός, ὁ πεντήκοντα θυγατέρων πατήρ, Νείλου λιπὼν κάλλιστον εὐκταίης ὕδωρ, ὃς ἐκ μελαμβρότοιο πληροῦται ῥοὰς Αἰθιοπίδος γῆς, ἡνίκ’ ἂν τακῇ χιών, τεθριππεύοντος ἡλίου κατ’ αἰθέρα, ἐλθὼν κατ’ Ἄργος ᾤκις’ Ἰνάχου πόλιν. οἱ γὰρ τρεῖς περὶ τοῦ ποταμοῦ στίχοι περιττοί.
 
 ## License and provenance
 

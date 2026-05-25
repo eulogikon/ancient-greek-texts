@@ -4,7 +4,7 @@ title_greek: Ἐπιστολή
 author: Mithridates Letters
 eul_wid: oxs-aa
 eul_aid: oxs
-canonical: "https://eulogikon.org/grc/mithridates-letters/letter-composition"
+canonical: "https://eulogikon.org/works/mithridates-letters-letter-composition-oxs-aa"
 period: Roman
 dialect: Atticizing
 domain: Rhetoric
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Mithridates Letters
 
-**eul_wid:** `oxs-aa` · [HTML page](https://eulogikon.org/grc/mithridates-letters/letter-composition)
+**eul_wid:** `oxs-aa` · [HTML page](https://eulogikon.org/works/mithridates-letters-letter-composition-oxs-aa)
 
 ## Text
 

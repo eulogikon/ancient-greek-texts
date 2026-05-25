@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα τοῦ Ἥρωος
 author: Menander of Athens
 eul_wid: hps-aj
 eul_aid: hps
-canonical: "https://eulogikon.org/grc/menander-of-athens/hero-fragments"
+canonical: "https://eulogikon.org/works/menander-athens-hero-fragments-hps-aj"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander of Athens
 
-**eul_wid:** `hps-aj` · [HTML page](https://eulogikon.org/grc/menander-of-athens/hero-fragments)
+**eul_wid:** `hps-aj` · [HTML page](https://eulogikon.org/works/menander-athens-hero-fragments-hps-aj)
 
 ## Text
 

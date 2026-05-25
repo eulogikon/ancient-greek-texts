@@ -4,7 +4,7 @@ title_greek: Ἅλωσις Ἰλίου
 author: Tryphiodorus of Egypt
 eul_wid: uge-aa
 eul_aid: uge
-canonical: "https://eulogikon.org/grc/tryphiodorus-of-egypt/sack-of-ilium"
+canonical: "https://eulogikon.org/works/tryphiodorus-egypt-sack-of-ilium-uge-aa"
 period: Late Antique
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Tryphiodorus of Egypt
 
-**eul_wid:** `uge-aa` · [HTML page](https://eulogikon.org/grc/tryphiodorus-of-egypt/sack-of-ilium)
+**eul_wid:** `uge-aa` · [HTML page](https://eulogikon.org/works/tryphiodorus-egypt-sack-of-ilium-uge-aa)
 
 ## Text
 

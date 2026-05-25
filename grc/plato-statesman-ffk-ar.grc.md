@@ -4,7 +4,7 @@ title_greek: Πολιτικός
 author: Plato of Athens
 eul_wid: ffk-ar
 eul_aid: ffk
-canonical: "https://eulogikon.org/grc/plato/statesman"
+canonical: "https://eulogikon.org/works/plato-statesman-ffk-ar"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plato of Athens
 
-**eul_wid:** `ffk-ar` · [HTML page](https://eulogikon.org/grc/plato/statesman)
+**eul_wid:** `ffk-ar` · [HTML page](https://eulogikon.org/works/plato-statesman-ffk-ar)
 
 ## Text
 

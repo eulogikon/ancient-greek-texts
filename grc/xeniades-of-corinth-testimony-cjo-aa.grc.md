@@ -4,7 +4,7 @@ title_greek: Μαρτυρία
 author: Xeniades of Corinth
 eul_wid: cjo-aa
 eul_aid: cjo
-canonical: "https://eulogikon.org/grc/xeniades-of-corinth/testimony"
+canonical: "https://eulogikon.org/works/xeniades-corinth-testimony-cjo-aa"
 period: Classical
 dialect: Doric
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Xeniades of Corinth
 
-**eul_wid:** `cjo-aa` · [HTML page](https://eulogikon.org/grc/xeniades-of-corinth/testimony)
+**eul_wid:** `cjo-aa` · [HTML page](https://eulogikon.org/works/xeniades-corinth-testimony-cjo-aa)
 
 ## Text
 

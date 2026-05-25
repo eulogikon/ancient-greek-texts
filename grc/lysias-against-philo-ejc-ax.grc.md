@@ -4,7 +4,7 @@ title_greek: κατὰ Φίλωνος δοκιμασίας
 author: Lysias the Orator
 eul_wid: ejc-ax
 eul_aid: ejc
-canonical: "https://eulogikon.org/grc/lysias/against-philo"
+canonical: "https://eulogikon.org/works/lysias-against-philo-ejc-ax"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lysias the Orator
 
-**eul_wid:** `ejc-ax` · [HTML page](https://eulogikon.org/grc/lysias/against-philo)
+**eul_wid:** `ejc-ax` · [HTML page](https://eulogikon.org/works/lysias-against-philo-ejc-ax)
 
 ## Text
 

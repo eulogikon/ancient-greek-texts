@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα ἐκ Ὑπομνημάτων εἰς τὸ
 author: Origen of Alexandria
 eul_wid: uhs-ag
 eul_aid: uhs
-canonical: "https://eulogikon.org/grc/origen-of-alexandria/matthew-fragments"
+canonical: "https://eulogikon.org/works/origen-alexandria-matthew-fragments-uhs-ag"
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Origen of Alexandria
 
-**eul_wid:** `uhs-ag` · [HTML page](https://eulogikon.org/grc/origen-of-alexandria/matthew-fragments)
+**eul_wid:** `uhs-ag` · [HTML page](https://eulogikon.org/works/origen-alexandria-matthew-fragments-uhs-ag)
 
 ## Text
 

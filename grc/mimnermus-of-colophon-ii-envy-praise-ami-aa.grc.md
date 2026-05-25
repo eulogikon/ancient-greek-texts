@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Mimnermus of Colophon II
 eul_wid: ami-aa
 eul_aid: ami
-canonical: "https://eulogikon.org/grc/mimnermus-of-colophon-ii/envy-praise"
+canonical: "https://eulogikon.org/works/mimnermus-colophon-envy-praise-ami-aa"
 period: Archaic
 dialect: Ionic Elegiac
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Mimnermus of Colophon II
 
-**eul_wid:** `ami-aa` · [HTML page](https://eulogikon.org/grc/mimnermus-of-colophon-ii/envy-praise)
+**eul_wid:** `ami-aa` · [HTML page](https://eulogikon.org/works/mimnermus-colophon-envy-praise-ami-aa)
 
 ## Text
 

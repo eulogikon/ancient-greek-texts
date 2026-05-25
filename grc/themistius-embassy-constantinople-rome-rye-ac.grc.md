@@ -4,7 +4,7 @@ title_greek: Πρεσβευτικὸς ὑπὲρ Κωνσταντινουπόλ
 author: Themistius the Philosopher
 eul_wid: rye-ac
 eul_aid: rye
-canonical: "https://eulogikon.org/grc/themistius/embassy-constantinople-rome"
+canonical: "https://eulogikon.org/works/themistius-embassy-constantinople-rome-rye-ac"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Themistius the Philosopher
 
-**eul_wid:** `rye-ac` · [HTML page](https://eulogikon.org/grc/themistius/embassy-constantinople-rome)
+**eul_wid:** `rye-ac` · [HTML page](https://eulogikon.org/works/themistius-embassy-constantinople-rome-rye-ac)
 
 ## Text
 
@@ -28,7 +28,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 40 c
 
-καὶ γὰρ εἰ πάντα ὃν κέκτηται πλοῦτον προσάγοιμεν εἰς στεφάνους μετασκευάσαντες, οὐκ οἴκοθεν ποριζόμεθα † τὴν ἀρετήν †, ἀλλὰ μέρος πολλοστὸν ὧν εἰλήφαμεν ἀποφέρομεν τῷ δεδωκότι.
+καὶ γὰρ εἰ πάντα ὃν κέκτηται πλοῦτον προσάγοιμεν εἰς στεφάνους μετασκευάσαντες, οὐκ οἴκοθεν ποριζόμεθα τὴν ἀρετήν , ἀλλὰ μέρος πολλοστὸν ὧν εἰλήφαμεν ἀποφέρομεν τῷ δεδωκότι.
 
 ### 40 d
 

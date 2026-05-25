@@ -4,7 +4,7 @@ title_greek: Φυσιογνωμονικὸν Ἀπόσπασμα
 author: Polemon Laodicea
 eul_wid: ozg-aa
 eul_aid: ozg
-canonical: "https://eulogikon.org/grc/polemon-laodicea/physiognomic"
+canonical: "https://eulogikon.org/works/polemon-laodicea-physiognomic-ozg-aa"
 period: Roman
 dialect: Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Polemon Laodicea
 
-**eul_wid:** `ozg-aa` · [HTML page](https://eulogikon.org/grc/polemon-laodicea/physiognomic)
+**eul_wid:** `ozg-aa` · [HTML page](https://eulogikon.org/works/polemon-laodicea-physiognomic-ozg-aa)
 
 ## Text
 

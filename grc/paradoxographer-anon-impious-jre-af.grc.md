@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν ἀσεβῶν
 author: Paradoxographer Anonymous
 eul_wid: jre-af
 eul_aid: jre
-canonical: "https://eulogikon.org/grc/paradoxographer-anon/impious"
+canonical: "https://eulogikon.org/works/paradoxographer-anon-impious-jre-af"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Paradoxographer Anonymous
 
-**eul_wid:** `jre-af` · [HTML page](https://eulogikon.org/grc/paradoxographer-anon/impious)
+**eul_wid:** `jre-af` · [HTML page](https://eulogikon.org/works/paradoxographer-anon-impious-jre-af)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ διαίτης τῶν ὀξέων
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-ab
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/diet-acute-patients"
+canonical: "https://eulogikon.org/works/hippocrates-diet-acute-patients-bww-ab"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-ab` · [HTML page](https://eulogikon.org/grc/hippocrates/diet-acute-patients)
+**eul_wid:** `bww-ab` · [HTML page](https://eulogikon.org/works/hippocrates-diet-acute-patients-bww-ab)
 
 ## Text
 

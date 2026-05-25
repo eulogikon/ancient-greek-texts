@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Hicetas of Syracuse
 eul_wid: ewy-aa
 eul_aid: ewy
-canonical: "https://eulogikon.org/grc/hicetas-of-syracuse/testimonies"
+canonical: "https://eulogikon.org/works/hicetas-syracuse-testimonies-ewy-aa"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hicetas of Syracuse
 
-**eul_wid:** `ewy-aa` · [HTML page](https://eulogikon.org/grc/hicetas-of-syracuse/testimonies)
+**eul_wid:** `ewy-aa` · [HTML page](https://eulogikon.org/works/hicetas-syracuse-testimonies-ewy-aa)
 
 ## Text
 

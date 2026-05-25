@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Σπαρτιατικῶν Ἑορ
 author: "Polycrates of Sparta "
 eul_wid: ess-aa
 eul_aid: ess
-canonical: "https://eulogikon.org/grc/polycrates-of-sparta/festivals"
+canonical: "https://eulogikon.org/works/polycrates-sparta-festivals-ess-aa"
 period: Classical
 dialect: Doric
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Polycrates of Sparta 
 
-**eul_wid:** `ess-aa` · [HTML page](https://eulogikon.org/grc/polycrates-of-sparta/festivals)
+**eul_wid:** `ess-aa` · [HTML page](https://eulogikon.org/works/polycrates-sparta-festivals-ess-aa)
 
 ## Text
 

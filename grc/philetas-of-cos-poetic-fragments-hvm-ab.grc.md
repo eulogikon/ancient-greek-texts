@@ -4,7 +4,7 @@ title_greek: Ποιητικὰ Ἀποσπάσματα
 author: Philetas of Cos
 eul_wid: hvm-ab
 eul_aid: hvm
-canonical: "https://eulogikon.org/grc/philetas-of-cos/poetic-fragments"
+canonical: "https://eulogikon.org/works/philetas-cos-poetic-fragments-hvm-ab"
 period: Hellenistic
 dialect: Attic
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philetas of Cos
 
-**eul_wid:** `hvm-ab` · [HTML page](https://eulogikon.org/grc/philetas-of-cos/poetic-fragments)
+**eul_wid:** `hvm-ab` · [HTML page](https://eulogikon.org/works/philetas-cos-poetic-fragments-hvm-ab)
 
 ## Text
 
@@ -148,7 +148,7 @@ Incertae sedis poetica
 
 ### book 5.1
 
-βουγενέας †φάμενος
+βουγενέας φάμενος
 
 ### book 5.2
 

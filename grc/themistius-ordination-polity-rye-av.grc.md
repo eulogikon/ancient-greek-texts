@@ -4,7 +4,7 @@ title_greek: Ἐπὶ τῇ χειροτονίᾳ τῆς πολιαρχίας
 author: Themistius the Philosopher
 eul_wid: rye-av
 eul_aid: rye
-canonical: "https://eulogikon.org/grc/themistius/ordination-polity"
+canonical: "https://eulogikon.org/works/themistius-ordination-polity-rye-av"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Themistius the Philosopher
 
-**eul_wid:** `rye-av` · [HTML page](https://eulogikon.org/grc/themistius/ordination-polity)
+**eul_wid:** `rye-av` · [HTML page](https://eulogikon.org/works/themistius-ordination-polity-rye-av)
 
 ## Text
 

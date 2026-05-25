@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Thrasyllus the Historian
 eul_wid: egk-aa
 eul_aid: egk
-canonical: "https://eulogikon.org/grc/thrasyllus-the-historian/stones-rivers"
+canonical: "https://eulogikon.org/works/thrasyllus-stones-rivers-egk-aa"
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Thrasyllus the Historian
 
-**eul_wid:** `egk-aa` · [HTML page](https://eulogikon.org/grc/thrasyllus-the-historian/stones-rivers)
+**eul_wid:** `egk-aa` · [HTML page](https://eulogikon.org/works/thrasyllus-stones-rivers-egk-aa)
 
 ## Text
 

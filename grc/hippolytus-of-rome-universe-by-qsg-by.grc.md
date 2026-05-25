@@ -4,7 +4,7 @@ title_greek: Περὶ τοῦ Κόσμου
 author: Hippolytus of Rome
 eul_wid: qsg-by
 eul_aid: qsg
-canonical: "https://eulogikon.org/grc/hippolytus-of-rome/universe-by"
+canonical: "https://eulogikon.org/works/hippolytus-rome-universe-qsg-by"
 period: Roman
 dialect: Christian Koine
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippolytus of Rome
 
-**eul_wid:** `qsg-by` · [HTML page](https://eulogikon.org/grc/hippolytus-of-rome/universe-by)
+**eul_wid:** `qsg-by` · [HTML page](https://eulogikon.org/works/hippolytus-rome-universe-qsg-by)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ ἐπιχειρημάτων
 author: Minucianus the Younger Rhetorician
 eul_wid: rvm-aa
 eul_aid: rvm
-canonical: "https://eulogikon.org/grc/minucianus-the-younger/arguments"
+canonical: "https://eulogikon.org/works/minucianus-younger-arguments-rvm-aa"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Minucianus the Younger Rhetorician
 
-**eul_wid:** `rvm-aa` · [HTML page](https://eulogikon.org/grc/minucianus-the-younger/arguments)
+**eul_wid:** `rvm-aa` · [HTML page](https://eulogikon.org/works/minucianus-younger-arguments-rvm-aa)
 
 ## Text
 

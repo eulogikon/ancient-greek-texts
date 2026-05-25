@@ -4,7 +4,7 @@ title_greek: ὑπὲρ τοῦ στρατιωτοῦ
 author: Lysias the Orator
 eul_wid: ejc-bg
 eul_aid: ejc
-canonical: "https://eulogikon.org/grc/lysias/soldier"
+canonical: "https://eulogikon.org/works/lysias-soldier-ejc-bg"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lysias the Orator
 
-**eul_wid:** `ejc-bg` · [HTML page](https://eulogikon.org/grc/lysias/soldier)
+**eul_wid:** `ejc-bg` · [HTML page](https://eulogikon.org/works/lysias-soldier-ejc-bg)
 
 ## Text
 

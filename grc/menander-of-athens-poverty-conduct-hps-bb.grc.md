@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Πενίας καὶ Ἀγωγῆ
 author: Menander of Athens
 eul_wid: hps-bb
 eul_aid: hps
-canonical: "https://eulogikon.org/grc/menander-of-athens/poverty-conduct"
+canonical: "https://eulogikon.org/works/menander-athens-poverty-conduct-hps-bb"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander of Athens
 
-**eul_wid:** `hps-bb` · [HTML page](https://eulogikon.org/grc/menander-of-athens/poverty-conduct)
+**eul_wid:** `hps-bb` · [HTML page](https://eulogikon.org/works/menander-athens-poverty-conduct-hps-bb)
 
 ## Text
 

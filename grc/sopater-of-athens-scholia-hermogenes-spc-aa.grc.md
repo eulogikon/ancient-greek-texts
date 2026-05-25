@@ -4,7 +4,7 @@ title_greek: Σχόλια εἰς Ἑρμογένους Κατάστασιν ἢ
 author: Sopater of Athens
 eul_wid: spc-aa
 eul_aid: spc
-canonical: "https://eulogikon.org/grc/sopater-of-athens/scholia-hermogenes"
+canonical: "https://eulogikon.org/works/sopater-athens-scholia-hermogenes-spc-aa"
 period: Late Antique
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sopater of Athens
 
-**eul_wid:** `spc-aa` · [HTML page](https://eulogikon.org/grc/sopater-of-athens/scholia-hermogenes)
+**eul_wid:** `spc-aa` · [HTML page](https://eulogikon.org/works/sopater-athens-scholia-hermogenes-spc-aa)
 
 ## Text
 

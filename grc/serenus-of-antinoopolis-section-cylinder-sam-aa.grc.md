@@ -4,7 +4,7 @@ title_greek: Περὶ Κυλίνδρου Τομῆς
 author: Serenus of Antinoöpolis
 eul_wid: sam-aa
 eul_aid: sam
-canonical: "https://eulogikon.org/grc/serenus-of-antinoopolis/section-cylinder"
+canonical: "https://eulogikon.org/works/serenus-antinoopolis-section-cylinder-sam-aa"
 period: Late Antique
 dialect: Technical Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Serenus of Antinoöpolis
 
-**eul_wid:** `sam-aa` · [HTML page](https://eulogikon.org/grc/serenus-of-antinoopolis/section-cylinder)
+**eul_wid:** `sam-aa` · [HTML page](https://eulogikon.org/works/serenus-antinoopolis-section-cylinder-sam-aa)
 
 ## Text
 

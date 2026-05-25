@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα Παιᾶνος πρὸς Τίτον Φλαμι
 author: Paean Collection Anonymous
 eul_wid: cqc-ac
 eul_aid: cqc
-canonical: "https://eulogikon.org/grc/paean-collection-anonymous/titus-flamininus"
+canonical: "https://eulogikon.org/works/paean-collection-titus-flamininus-cqc-ac"
 period: Classical
 dialect: Doric (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Paean Collection Anonymous
 
-**eul_wid:** `cqc-ac` · [HTML page](https://eulogikon.org/grc/paean-collection-anonymous/titus-flamininus)
+**eul_wid:** `cqc-ac` · [HTML page](https://eulogikon.org/works/paean-collection-titus-flamininus-cqc-ac)
 
 ## Text
 

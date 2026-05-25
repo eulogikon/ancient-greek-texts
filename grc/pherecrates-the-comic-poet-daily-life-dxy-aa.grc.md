@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Βίου Καθημερινοῦ
 author: Pherecrates the Comic Poet
 eul_wid: dxy-aa
 eul_aid: dxy
-canonical: "https://eulogikon.org/grc/pherecrates-the-comic-poet/daily-life"
+canonical: "https://eulogikon.org/works/pherecrates-daily-life-dxy-aa"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pherecrates the Comic Poet
 
-**eul_wid:** `dxy-aa` · [HTML page](https://eulogikon.org/grc/pherecrates-the-comic-poet/daily-life)
+**eul_wid:** `dxy-aa` · [HTML page](https://eulogikon.org/works/pherecrates-daily-life-dxy-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Διονύσου
 author: Pherecydes of Athens
 eul_wid: bvi-aa
 eul_aid: bvi
-canonical: "https://eulogikon.org/grc/pherecydes-of-athens/dionysus"
+canonical: "https://eulogikon.org/works/pherecydes-athens-dionysus-bvi-aa"
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pherecydes of Athens
 
-**eul_wid:** `bvi-aa` · [HTML page](https://eulogikon.org/grc/pherecydes-of-athens/dionysus)
+**eul_wid:** `bvi-aa` · [HTML page](https://eulogikon.org/works/pherecydes-athens-dionysus-bvi-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἐπιστολαὶ Περίανδρου
 author: Periander of Corinth
 eul_wid: aoq-aa
 eul_aid: aoq
-canonical: "https://eulogikon.org/grc/periander-of-corinth/letters"
+canonical: "https://eulogikon.org/works/periander-corinth-letters-aoq-aa"
 period: Archaic
 dialect: Doric
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Periander of Corinth
 
-**eul_wid:** `aoq-aa` · [HTML page](https://eulogikon.org/grc/periander-of-corinth/letters)
+**eul_wid:** `aoq-aa` · [HTML page](https://eulogikon.org/works/periander-corinth-letters-aoq-aa)
 
 ## Text
 

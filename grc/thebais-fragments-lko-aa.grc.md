@@ -4,7 +4,7 @@ title_greek: Θηβαΐδος Ἀποσπάσματα
 author: "Thebaïs "
 eul_wid: lko-aa
 eul_aid: lko
-canonical: "https://eulogikon.org/grc/thebais/fragments"
+canonical: "https://eulogikon.org/works/thebais-fragments-lko-aa"
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Thebaïs 
 
-**eul_wid:** `lko-aa` · [HTML page](https://eulogikon.org/grc/thebais/fragments)
+**eul_wid:** `lko-aa` · [HTML page](https://eulogikon.org/works/thebais-fragments-lko-aa)
 
 ## Text
 

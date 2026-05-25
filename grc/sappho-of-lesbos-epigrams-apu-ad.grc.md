@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Sappho of Lesbos
 eul_wid: apu-ad
 eul_aid: apu
-canonical: "https://eulogikon.org/grc/sappho-of-lesbos/epigrams"
+canonical: "https://eulogikon.org/works/sappho-lesbos-epigrams-apu-ad"
 period: Archaic
 dialect: Aeolic
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sappho of Lesbos
 
-**eul_wid:** `apu-ad` · [HTML page](https://eulogikon.org/grc/sappho-of-lesbos/epigrams)
+**eul_wid:** `apu-ad` · [HTML page](https://eulogikon.org/works/sappho-lesbos-epigrams-apu-ad)
 
 ## Text
 

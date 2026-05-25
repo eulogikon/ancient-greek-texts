@@ -4,7 +4,7 @@ title_greek: Δύσκολος
 author: Menander of Athens
 eul_wid: hps-bm
 eul_aid: hps
-canonical: "https://eulogikon.org/grc/menander-of-athens/dyscolus"
+canonical: "https://eulogikon.org/works/menander-athens-dyscolus-hps-bm"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander of Athens
 
-**eul_wid:** `hps-bm` · [HTML page](https://eulogikon.org/grc/menander-of-athens/dyscolus)
+**eul_wid:** `hps-bm` · [HTML page](https://eulogikon.org/works/menander-athens-dyscolus-hps-bm)
 
 ## Text
 
@@ -184,7 +184,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 40.3
 
-ἥκο]ν̣τ’ ἐπὶ θήραν μετὰ κυνηγέτου τινὸς
+ἥκο]ντ’ ἐπὶ θήραν μετὰ κυνηγέτου τινὸς
 
 ### 40.4
 
@@ -208,7 +208,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 45.4
 
-τὸν ἐρῶντα τόν τε συγκ̣[υνηγέτη]ν̣ ἅμα,
+τὸν ἐρῶντα τόν τε συγκ[υνηγέτη]ν ἅμα,
 
 ### 45.5
 
@@ -460,7 +460,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 90.1
 
-τὴν οἰκίαν πρὸς ὅν μ’ ἔπεμπ̣[ες
+τὴν οἰκίαν πρὸς ὅν μ’ ἔπεμπ[ες
 
 ### 90.2
 
@@ -756,7 +756,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 145.5
 
-ἀπὸ τῆς θύρας. βέλτιον. ἀλλὰ κ̣[αὶ β]οᾶι μόνος βαδίζων. οὐχ ὑγιαίνειν μοι δοκεῖ.
+ἀπὸ τῆς θύρας. βέλτιον. ἀλλὰ κ[αὶ β]οᾶι μόνος βαδίζων. οὐχ ὑγιαίνειν μοι δοκεῖ.
 
 ### 145.6
 
@@ -992,7 +992,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 201.3
 
-τίς ἂν ἐμὲ σώσαι δ̣[αιμό]νων;
+τίς ἂν ἐμὲ σώσαι δ[αιμό]νων;
 
 ### 203.1
 
@@ -1212,7 +1212,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 245.3
 
-[ ]ν̣.
+[ ]ν.
 
 ### 247.1
 
@@ -1448,7 +1448,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 301.3
 
-εἰ τοῦτ’ ἀδίκημ’ ε̣[ἴρηκ]α̣ς, ἠδίκηκ’ ἴσως.
+εἰ τοῦτ’ ἀδίκημ’ ε[ἴρηκ]ας, ἠδίκηκ’ ἴσως.
 
 ### 301.4
 
@@ -1664,15 +1664,15 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 349.1
 
-(Γο) οὐκ ἂν λάβοις. [ ]υνα † συν〈α〉κολουθήσας ἐμοὶ
+(Γο) οὐκ ἂν λάβοις. [ ]υνα συν〈α〉κολουθήσας ἐμοὶ
 
 ### 349.2
 
-[ ]παρατης †· πλησίον γὰρ τὴν νάπην
+[ ]παρατης · πλησίον γὰρ τὴν νάπην
 
 ### 349.3
 
-ἐργάζε]θ̣’ ἡμῶν.
+ἐργάζε]θ’ ἡμῶν.
 
 ### 352
 
@@ -1964,7 +1964,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 406
 
-[Σι] † ἔρεισον ταῦτα δεῦρο.
+[Σι] ἔρεισον ταῦτα δεῦρο.
 
 ### 406.1
 
@@ -2432,7 +2432,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 495.5
 
-ἐγώ. πρόελθε, πατρίδιον· σὲ β[ούλομαι. Κν πάλιν αὖ σύ; (Σι) π̣[αῖ, τί το]ῦτ’; (Κν) ἐρεθίζεις μ’ ὡσπερεὶ
+ἐγώ. πρόελθε, πατρίδιον· σὲ β[ούλομαι. Κν πάλιν αὖ σύ; (Σι) π[αῖ, τί το]ῦτ’; (Κν) ἐρεθίζεις μ’ ὡσπερεὶ
 
 ### 495.6
 
@@ -3184,7 +3184,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 645.5
 
-κλάο]υ̣ς’ ἀποιμώζει τις. οὐδὲν τοῦτό γε
+κλάο]υς’ ἀποιμώζει τις. οὐδὲν τοῦτό γε
 
 ### 649
 
@@ -3200,7 +3200,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 655.2
 
-τὴν ὄψιν αὐτοῦ τ̣ι̣ν̣[
+τὴν ὄψιν αὐτοῦ τιν[
 
 ### 655.3
 
@@ -3356,7 +3356,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 692.2
 
-ὑμῖν ἐνοχλήσει τὸν ἐπίλοιπον γ̣ὰ̣[ρ χρόνον
+ὑμῖν ἐνοχλήσει τὸν ἐπίλοιπον γὰ[ρ χρόνον
 
 ### 692.3
 
@@ -3404,7 +3404,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 702
 
-(Κν) τί παρέστηκας ἐνταῦθ’, ἄθ̣λ̣ι̣[ε;
+(Κν) τί παρέστηκας ἐνταῦθ’, ἄθλι[ε;
 
 ### 702
 
@@ -3424,7 +3424,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 710.2
 
-οὐκ ἴσως̣ [....]ι̣ κ[.]ι̣[.]ν οὐδ’ ἂν εἷς δύναιτό με
+οὐκ ἴσως [....]ι κ[.]ι[.]ν οὐδ’ ἂν εἷς δύναιτό με
 
 ### 710.3
 
@@ -3540,7 +3540,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 740.3
 
-ὑπὲρ ἐ]μ̣οῦ γὰρ βούλομ’ εἰπεῖν ὀλίγα σοι καὶ τοῦ τρόπου—
+ὑπὲρ ἐ]μοῦ γὰρ βούλομ’ εἰπεῖν ὀλίγα σοι καὶ τοῦ τρόπου—
 
 ### 740.4
 
@@ -3608,11 +3608,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 755.1
 
-οὐ τρυφῶν οὐδ’ οἷος ἀργὸς περιπατεῖν τὴν ἡμέραν [ ].γ̣ενος ..[
+οὐ τρυφῶν οὐδ’ οἷος ἀργὸς περιπατεῖν τὴν ἡμέραν [ ].γενος ..[
 
 ### 755.2
 
-[ ]σ̣δίδου ποεῖ 〈τε〉 του[
+[ ]σδίδου ποεῖ 〈τε〉 του[
 
 ### 755.3
 
@@ -3648,7 +3648,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 761.3
 
-† ενεγκεινος δίκαιόν ἐστι π.[.]θη, Σώστρατε.
+ενεγκεινος δίκαιόν ἐστι π.[.]θη, Σώστρατε.
 
 ### 761.4
 
@@ -3672,7 +3672,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 765.5
 
-εὐπορῶν πένητι· καὶ γὰρ μεταβολὰς οὗτος τ̣ύ̣χ̣[ης
+εὐπορῶν πένητι· καὶ γὰρ μεταβολὰς οὗτος τύχ[ης
 
 ### 770.1
 
@@ -3684,7 +3684,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 771.1
 
-(Σω) πολὺ μὲν οὖν κρείττω̣[ν ἔτι.
+(Σω) πολὺ μὲν οὖν κρείττω[ν ἔτι.
 
 ### 771.2
 
@@ -3912,7 +3912,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 815.2
 
-φίλον δοκιμάσας· πρᾶττε τοῦτ’ ἀγαθῆι τύχηι. τί μοι λέγεις γνώμας; † πόριζε βάδιζε †
+φίλον δοκιμάσας· πρᾶττε τοῦτ’ ἀγαθῆι τύχηι. τί μοι λέγεις γνώμας; πόριζε βάδιζε
 
 ### 815.3
 
@@ -4036,7 +4036,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 840.1
 
-[ ]ς̣ ὑποδείκνυσιν εἷς σωτηρίαν.
+[ ]ς ὑποδείκνυσιν εἷς σωτηρίαν.
 
 ### 840.2
 
@@ -4092,7 +4092,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 849.2
 
-πάντες μεν̣[ το]ὺς γάμους
+πάντες μεν[ το]ὺς γάμους
 
 ### 849.3
 
@@ -4280,19 +4280,19 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 885.1
 
-τοῦτον δὲ θεραπεύσω τέως ἐγώ. πάλαι δ̣[έδοκται
+τοῦτον δὲ θεραπεύσω τέως ἐγώ. πάλαι δ[έδοκται
 
 ### 885.2
 
-τ[ούτο]υ̣ λαβεῖν τὸν καιρόν, ἀλλὰ διαπον̣[εῖν ἔδει με.
+τ[ούτο]υ λαβεῖν τὸν καιρόν, ἀλλὰ διαπον[εῖν ἔδει με.
 
 ### 885.3
 
-[ ]ετ̣ει καὶ τῶν β̣[
+[ ]ετει καὶ τῶν β[
 
 ### 885.4
 
-ο]ὔπω δυνησ̣[]ι̣, μάγειρε.
+ο]ὔπω δυνησ[]ι, μάγειρε.
 
 ### 885.5
 
@@ -4524,7 +4524,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 922.2
 
-χρήσα]τ̣ε.
+χρήσα]τε.
 
 ### 923
 
@@ -4608,11 +4608,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 935.1
 
-ἄκουε δ’ ἑξῆς πάντα γ̣α̣[ ]...[ ]τι̣σ̣[
+ἄκουε δ’ ἑξῆς πάντα γα[ ]...[ ]τισ[
 
 ### 935.2
 
-[ ]αγκας οὐδὲ τὴν[ ]ι̣
+[ ]αγκας οὐδὲ τὴν[ ]ι
 
 ### 935.3
 
@@ -4644,7 +4644,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 942.1
 
-(Σικ) 〈⏑–〉 βούλει παρεῖναι; πρόσ[εχε] καὶ τὰ λοιπά.
+(Σικ) 〈–〉 βούλει παρεῖναι; πρόσ[εχε] καὶ τὰ λοιπά.
 
 ### 942.2
 

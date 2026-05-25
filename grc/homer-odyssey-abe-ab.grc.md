@@ -4,7 +4,7 @@ title_greek: Ὀδύσσεια
 author: Homer
 eul_wid: abe-ab
 eul_aid: abe
-canonical: "https://eulogikon.org/grc/homer/odyssey"
+canonical: "https://eulogikon.org/works/homer-odyssey-abe-ab"
 period: Archaic
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Homer
 
-**eul_wid:** `abe-ab` · [HTML page](https://eulogikon.org/grc/homer/odyssey)
+**eul_wid:** `abe-ab` · [HTML page](https://eulogikon.org/works/homer-odyssey-abe-ab)
 
 ## Text
 

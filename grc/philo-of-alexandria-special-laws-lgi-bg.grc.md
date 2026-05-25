@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν Εἰδικῶν Νόμων
 author: Philo of Alexandria
 eul_wid: lgi-bg
 eul_aid: lgi
-canonical: "https://eulogikon.org/grc/philo-of-alexandria/special-laws"
+canonical: "https://eulogikon.org/works/philo-alexandria-special-laws-lgi-bg"
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philo of Alexandria
 
-**eul_wid:** `lgi-bg` · [HTML page](https://eulogikon.org/grc/philo-of-alexandria/special-laws)
+**eul_wid:** `lgi-bg` · [HTML page](https://eulogikon.org/works/philo-alexandria-special-laws-lgi-bg)
 
 ## Text
 

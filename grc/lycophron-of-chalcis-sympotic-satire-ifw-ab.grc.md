@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Lycophron of Chalcis
 eul_wid: ifw-ab
 eul_aid: ifw
-canonical: "https://eulogikon.org/grc/lycophron-of-chalcis/sympotic-satire"
+canonical: "https://eulogikon.org/works/lycophron-chalcis-sympotic-satire-ifw-ab"
 period: Hellenistic
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lycophron of Chalcis
 
-**eul_wid:** `ifw-ab` · [HTML page](https://eulogikon.org/grc/lycophron-of-chalcis/sympotic-satire)
+**eul_wid:** `ifw-ab` · [HTML page](https://eulogikon.org/works/lycophron-chalcis-sympotic-satire-ifw-ab)
 
 ## Text
 
@@ -60,7 +60,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.2
 
-συνόντας αὐτοὺς[ln_staging]ἐπὶ πλεῖον ὁ ὄρνις κατελάμβανε[ln_3]τὴν ἕω καλῶν 〈×–⏑–×〉 τοῖσι δ’ οὐδέπω κόρος
+συνόντας αὐτοὺς[ln_staging]ἐπὶ πλεῖον ὁ ὄρνις κατελάμβανε[ln_3]τὴν ἕω καλῶν 〈––〉 τοῖσι δ’ οὐδέπω κόρος
 
 ### book 5.1
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Timagenes of Alexandria
 eul_wid: nes-aa
 eul_aid: nes
-canonical: "https://eulogikon.org/grc/timagenes-of-alexandria/historical-fragments"
+canonical: "https://eulogikon.org/works/timagenes-alexandria-historical-fragments-nes-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Timagenes of Alexandria
 
-**eul_wid:** `nes-aa` · [HTML page](https://eulogikon.org/grc/timagenes-of-alexandria/historical-fragments)
+**eul_wid:** `nes-aa` · [HTML page](https://eulogikon.org/works/timagenes-alexandria-historical-fragments-nes-aa)
 
 ## Text
 

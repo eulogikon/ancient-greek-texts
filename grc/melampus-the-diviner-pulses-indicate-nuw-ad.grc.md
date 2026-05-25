@@ -4,7 +4,7 @@ title_greek: Περὶ παλμῶν τί σημαίνουσιν ἐν ἑκάσ
 author: Melampus the Diviner
 eul_wid: nuw-ad
 eul_aid: nuw
-canonical: "https://eulogikon.org/grc/melampus-the-diviner/pulses-indicate"
+canonical: "https://eulogikon.org/works/melampus-pulses-indicate-nuw-ad"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,11 +18,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Melampus the Diviner
 
-**eul_wid:** `nuw-ad` · [HTML page](https://eulogikon.org/grc/melampus-the-diviner/pulses-indicate)
+**eul_wid:** `nuw-ad` · [HTML page](https://eulogikon.org/works/melampus-pulses-indicate-nuw-ad)
 
 ## Text
 
-## † ΜΕΛΑΜΠΟΔΟΣ ΠΕΡΙ ΠΑΛΜΩΝ † ΤΙ ΣΗΜΑΙΝΟΥΣΙΝ ΕΝ ΕΚΑΣΤΩ ΜΕΡΕΙ. Κεφαλῆ τρίχες: ἐὰν σταθῶσιν ὀρθαί, ἐπιβουλὴν σημαίνει.
+## ΜΕΛΑΜΠΟΔΟΣ ΠΕΡΙ ΠΑΛΜΩΝ ΤΙ ΣΗΜΑΙΝΟΥΣΙΝ ΕΝ ΕΚΑΣΤΩ ΜΕΡΕΙ. Κεφαλῆ τρίχες: ἐὰν σταθῶσιν ὀρθαί, ἐπιβουλὴν σημαίνει.
 
 ### 2
 

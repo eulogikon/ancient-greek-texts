@@ -4,7 +4,7 @@ title_greek: Ἠλέκτρα
 author: Sophocles
 eul_wid: buo-aj
 eul_aid: buo
-canonical: "https://eulogikon.org/grc/sophocles/electra"
+canonical: "https://eulogikon.org/works/sophocles-electra-buo-aj"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sophocles
 
-**eul_wid:** `buo-aj` · [HTML page](https://eulogikon.org/grc/sophocles/electra)
+**eul_wid:** `buo-aj` · [HTML page](https://eulogikon.org/works/sophocles-electra-buo-aj)
 
 ## Text
 
@@ -2700,7 +2700,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 690.2
 
-† δρόμων, διαύλων, πένταθλ’ ἃ νομίζεται †,
+δρόμων, διαύλων, πένταθλ’ ἃ νομίζεται ,
 
 ### 690.3
 
@@ -4976,11 +4976,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1260.5
 
-ΟΡ.Τότ’ εἶδες, ὅτε θεοί μ’ ⏑ – ⏑ – ⏑ –
+ΟΡ.Τότ’ εἶδες, ὅτε θεοί μ’ – – –
 
 ### 1264
 
-⏑ – ⏑ – ⏑ – ⏑ ὤτρυναν μολεῖν.
+– – – ὤτρυναν μολεῖν.
 
 ### 1265.1
 
@@ -5660,15 +5660,15 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1426.3
 
-ΗΛ.⏑ – ⏑ – ⏑ –
+ΗΛ. – – –
 
 ### 1428
 
-⏑ – ⏑ – ⏑ – ⏑ – ⏑ – ⏑ –
+– – – – – –
 
 ### 1428
 
-ΟΡ.⏑ – ⏑ – ⏑ – ⏑ – ⏑ – ⏑ –
+ΟΡ. – – – – – –
 
 ### 1428
 
@@ -5676,7 +5676,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1429
 
-ΟΡ.⏑ – ⏑ – ⏑ – ⏑ – ⏑ – ⏑ –
+ΟΡ. – – – – – –
 
 ### 1430
 
@@ -5696,7 +5696,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1431.2
 
-χωρεῖ γεγηθὼς – ⏑ – ⏑ – ⏑ –
+χωρεῖ γεγηθὼς – – – –
 
 ### 1431.3
 

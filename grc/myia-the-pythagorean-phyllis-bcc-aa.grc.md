@@ -4,7 +4,7 @@ title_greek: Πρὸς Φυλλίδα Ἐπιστολή
 author: Myia the Pythagorean
 eul_wid: bcc-aa
 eul_aid: bcc
-canonical: "https://eulogikon.org/grc/myia-the-pythagorean/phyllis"
+canonical: "https://eulogikon.org/works/myia-phyllis-bcc-aa"
 period: Archaic
 dialect: Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Myia the Pythagorean
 
-**eul_wid:** `bcc-aa` · [HTML page](https://eulogikon.org/grc/myia-the-pythagorean/phyllis)
+**eul_wid:** `bcc-aa` · [HTML page](https://eulogikon.org/works/myia-phyllis-bcc-aa)
 
 ## Text
 

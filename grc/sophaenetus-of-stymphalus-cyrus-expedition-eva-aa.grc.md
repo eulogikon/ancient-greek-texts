@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα τῆς Κύρου Στρατείας
 author: Sophaenetus of Stymphalus
 eul_wid: eva-aa
 eul_aid: eva
-canonical: "https://eulogikon.org/grc/sophaenetus-of-stymphalus/cyrus-expedition"
+canonical: "https://eulogikon.org/works/sophaenetus-stymphalus-cyrus-expedition-eva-aa"
 period: Classical
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sophaenetus of Stymphalus
 
-**eul_wid:** `eva-aa` · [HTML page](https://eulogikon.org/grc/sophaenetus-of-stymphalus/cyrus-expedition)
+**eul_wid:** `eva-aa` · [HTML page](https://eulogikon.org/works/sophaenetus-stymphalus-cyrus-expedition-eva-aa)
 
 ## Text
 

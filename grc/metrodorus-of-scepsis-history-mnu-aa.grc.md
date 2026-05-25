@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἱστορίας
 author: Metrodorus of Scepsis
 eul_wid: mnu-aa
 eul_aid: mnu
-canonical: "https://eulogikon.org/grc/metrodorus-of-scepsis/history"
+canonical: "https://eulogikon.org/works/metrodorus-scepsis-history-mnu-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Metrodorus of Scepsis
 
-**eul_wid:** `mnu-aa` · [HTML page](https://eulogikon.org/grc/metrodorus-of-scepsis/history)
+**eul_wid:** `mnu-aa` · [HTML page](https://eulogikon.org/works/metrodorus-scepsis-history-mnu-aa)
 
 ## Text
 

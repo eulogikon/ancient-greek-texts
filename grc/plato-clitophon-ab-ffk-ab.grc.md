@@ -4,7 +4,7 @@ title_greek: Κλειτοφῶν
 author: Plato of Athens
 eul_wid: ffk-ab
 eul_aid: ffk
-canonical: "https://eulogikon.org/grc/plato/clitophon-ab"
+canonical: "https://eulogikon.org/works/plato-clitophon-ffk-ab"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plato of Athens
 
-**eul_wid:** `ffk-ab` · [HTML page](https://eulogikon.org/grc/plato/clitophon-ab)
+**eul_wid:** `ffk-ab` · [HTML page](https://eulogikon.org/works/plato-clitophon-ffk-ab)
 
 ## Text
 

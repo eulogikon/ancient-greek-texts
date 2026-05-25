@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Hippias of Elis
 eul_wid: dqg-ac
 eul_aid: dqg
-canonical: "https://eulogikon.org/grc/hippias-of-elis/compilation-knowledge"
+canonical: "https://eulogikon.org/works/hippias-elis-compilation-knowledge-dqg-ac"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippias of Elis
 
-**eul_wid:** `dqg-ac` · [HTML page](https://eulogikon.org/grc/hippias-of-elis/compilation-knowledge)
+**eul_wid:** `dqg-ac` · [HTML page](https://eulogikon.org/works/hippias-elis-compilation-knowledge-dqg-ac)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Παλματίου
 author: Hesychius of Miletus the Illustrious
 eul_wid: uws-ad
 eul_aid: uws
-canonical: "https://eulogikon.org/grc/hesychius-of-miletus/historical-fragments"
+canonical: "https://eulogikon.org/works/hesychius-miletus-historical-fragments-uws-ad"
 period: Late Antique
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hesychius of Miletus the Illustrious
 
-**eul_wid:** `uws-ad` · [HTML page](https://eulogikon.org/grc/hesychius-of-miletus/historical-fragments)
+**eul_wid:** `uws-ad` · [HTML page](https://eulogikon.org/works/hesychius-miletus-historical-fragments-uws-ad)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ Τροφῶν
 author: Medical Writers Anonymous
 eul_wid: umi-av
 eul_aid: umi
-canonical: "https://eulogikon.org/grc/medical-writers-anonymous/foods-av"
+canonical: "https://eulogikon.org/works/med-writers-anon-foods-umi-av"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Medical Writers Anonymous
 
-**eul_wid:** `umi-av` · [HTML page](https://eulogikon.org/grc/medical-writers-anonymous/foods-av)
+**eul_wid:** `umi-av` · [HTML page](https://eulogikon.org/works/med-writers-anon-foods-umi-av)
 
 ## Text
 

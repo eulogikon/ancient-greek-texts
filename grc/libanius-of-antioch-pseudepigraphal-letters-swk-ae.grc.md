@@ -4,7 +4,7 @@ title_greek: Ψευδεπίγραφα Ἐπιστολαί
 author: Libanius of Antioch
 eul_wid: swk-ae
 eul_aid: swk
-canonical: "https://eulogikon.org/grc/libanius-of-antioch/pseudepigraphal-letters"
+canonical: "https://eulogikon.org/works/libanius-antioch-pseudepigraphal-letters-swk-ae"
 period: Late Antique
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Libanius of Antioch
 
-**eul_wid:** `swk-ae` · [HTML page](https://eulogikon.org/grc/libanius-of-antioch/pseudepigraphal-letters)
+**eul_wid:** `swk-ae` · [HTML page](https://eulogikon.org/works/libanius-antioch-pseudepigraphal-letters-swk-ae)
 
 ## Text
 

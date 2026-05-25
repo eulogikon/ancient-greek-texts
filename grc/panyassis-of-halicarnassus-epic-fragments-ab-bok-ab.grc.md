@@ -4,7 +4,7 @@ title_greek: Ἡρωϊκὰ Ἀποσπάσματα
 author: Panyassis of Halicarnassus
 eul_wid: bok-ab
 eul_aid: bok
-canonical: "https://eulogikon.org/grc/panyassis-of-halicarnassus/epic-fragments-ab"
+canonical: "https://eulogikon.org/works/panyassis-halicarnassus-epic-fragments-bok-ab"
 period: Archaic
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Panyassis of Halicarnassus
 
-**eul_wid:** `bok-ab` · [HTML page](https://eulogikon.org/grc/panyassis-of-halicarnassus/epic-fragments-ab)
+**eul_wid:** `bok-ab` · [HTML page](https://eulogikon.org/works/panyassis-halicarnassus-epic-fragments-bok-ab)
 
 ## Text
 
@@ -124,7 +124,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 12.2
 
-φιλότητος. † ἐν δέ τε μὲν θήρης καὶ δυσφροσύνης ἀλεγεινῆς † τῷ σε
+φιλότητος. ἐν δέ τε μὲν θήρης καὶ δυσφροσύνης ἀλεγεινῆς τῷ σε
 
 ### book 12.3
 
@@ -200,7 +200,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 16
 
-τλῆ μὲν Δημήτηρ, τλῆ δὲ κλυτὸς Ἀμφιγυήεις, τλῆ δὲ Ποσειδάων, τλῆ δ’ ἀργυρότοξος Ἀπόλλων ἀνδρὶ παρὰ θνητῷ † θητευσέμεν εἰς ἐνιαυτόν, τλῆ δὲ καὶ ὀβριμόθυμος Ἄρης ὑπὸ πατρὸς ἀνάγκῃ
+τλῆ μὲν Δημήτηρ, τλῆ δὲ κλυτὸς Ἀμφιγυήεις, τλῆ δὲ Ποσειδάων, τλῆ δ’ ἀργυρότοξος Ἀπόλλων ἀνδρὶ παρὰ θνητῷ θητευσέμεν εἰς ἐνιαυτόν, τλῆ δὲ καὶ ὀβριμόθυμος Ἄρης ὑπὸ πατρὸς ἀνάγκῃ
 
 ### book 18.1
 
@@ -212,11 +212,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 18.3
 
-Πραξιδίκην καλέουσιν, Σίβρῳ ἐπ’ ἀργυρέῳ ποταμῷ † παρὰ δινήεντι· τῆς δ’ ὀλοοὶ παῖδες
+Πραξιδίκην καλέουσιν, Σίβρῳ ἐπ’ ἀργυρέῳ ποταμῷ παρὰ δινήεντι· τῆς δ’ ὀλοοὶ παῖδες
 
 ### book 18.4
 
-Τλῶος † Ξάνθος
+Τλῶος Ξάνθος
 
 ### book 18.5
 

@@ -4,7 +4,7 @@ title_greek: Ἀποτελέσματα
 author: Manetho Sebennytensis
 eul_wid: imk-aa
 eul_aid: imk
-canonical: "https://eulogikon.org/grc/manetho-sebennytensis/effects"
+canonical: "https://eulogikon.org/works/manetho-sebennytensis-effects-imk-aa"
 period: Hellenistic
 dialect: Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Manetho Sebennytensis
 
-**eul_wid:** `imk-aa` · [HTML page](https://eulogikon.org/grc/manetho-sebennytensis/effects)
+**eul_wid:** `imk-aa` · [HTML page](https://eulogikon.org/works/manetho-sebennytensis-effects-imk-aa)
 
 ## Text
 

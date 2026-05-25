@@ -4,7 +4,7 @@ title_greek: Φυσιογνωμονικά
 author: "Pseudo-Polemon "
 eul_wid: pwi-ab
 eul_aid: pwi
-canonical: "https://eulogikon.org/grc/pseudo-polemon/physiognomics-ab"
+canonical: "https://eulogikon.org/works/pseudo-polemon-physiognomics-pwi-ab"
 period: Roman
 dialect: Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pseudo-Polemon 
 
-**eul_wid:** `pwi-ab` · [HTML page](https://eulogikon.org/grc/pseudo-polemon/physiognomics-ab)
+**eul_wid:** `pwi-ab` · [HTML page](https://eulogikon.org/works/pseudo-polemon-physiognomics-pwi-ab)
 
 ## Text
 

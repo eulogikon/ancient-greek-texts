@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Timolaus of Cyzicus
 eul_wid: ewo-aa
 eul_aid: ewo
-canonical: "https://eulogikon.org/grc/timolaus-of-cyzicus/river-maeander"
+canonical: "https://eulogikon.org/works/timolaus-cyzicus-river-maeander-ewo-aa"
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Timolaus of Cyzicus
 
-**eul_wid:** `ewo-aa` · [HTML page](https://eulogikon.org/grc/timolaus-of-cyzicus/river-maeander)
+**eul_wid:** `ewo-aa` · [HTML page](https://eulogikon.org/works/timolaus-cyzicus-river-maeander-ewo-aa)
 
 ## Text
 

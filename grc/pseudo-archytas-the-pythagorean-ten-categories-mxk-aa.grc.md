@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Pseudo-Archytas the Pythagorean
 eul_wid: mxk-aa
 eul_aid: mxk
-canonical: "https://eulogikon.org/grc/pseudo-archytas-the-pythagorean/ten-categories"
+canonical: "https://eulogikon.org/works/pseudo-archytas-ten-categories-mxk-aa"
 period: Hellenistic
 dialect: Doric
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pseudo-Archytas the Pythagorean
 
-**eul_wid:** `mxk-aa` · [HTML page](https://eulogikon.org/grc/pseudo-archytas-the-pythagorean/ten-categories)
+**eul_wid:** `mxk-aa` · [HTML page](https://eulogikon.org/works/pseudo-archytas-ten-categories-mxk-aa)
 
 ## Text
 

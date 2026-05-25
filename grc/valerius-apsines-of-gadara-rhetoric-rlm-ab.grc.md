@@ -4,7 +4,7 @@ title_greek: Τέχνη Ῥητορική
 author: Valerius Apsines of Gadara
 eul_wid: rlm-ab
 eul_aid: rlm
-canonical: "https://eulogikon.org/grc/valerius-apsines-of-gadara/rhetoric"
+canonical: "https://eulogikon.org/works/valerius-apsines-gadara-rhetoric-rlm-ab"
 period: Roman
 dialect: Atticizing Technical
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Valerius Apsines of Gadara
 
-**eul_wid:** `rlm-ab` · [HTML page](https://eulogikon.org/grc/valerius-apsines-of-gadara/rhetoric)
+**eul_wid:** `rlm-ab` · [HTML page](https://eulogikon.org/works/valerius-apsines-gadara-rhetoric-rlm-ab)
 
 ## Text
 

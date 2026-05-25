@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἰταλίας
 author: Pythocles
 eul_wid: jjc-aa
 eul_aid: jjc
-canonical: "https://eulogikon.org/grc/pythocles/italy-fragments"
+canonical: "https://eulogikon.org/works/pythocles-italy-fragments-jjc-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pythocles
 
-**eul_wid:** `jjc-aa` · [HTML page](https://eulogikon.org/grc/pythocles/italy-fragments)
+**eul_wid:** `jjc-aa` · [HTML page](https://eulogikon.org/works/pythocles-italy-fragments-jjc-aa)
 
 ## Text
 

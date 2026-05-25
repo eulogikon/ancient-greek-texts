@@ -4,7 +4,7 @@ title_greek: κατὰ τῶν σιτοπωλῶν
 author: Lysias the Orator
 eul_wid: ejc-ba
 eul_aid: ejc
-canonical: "https://eulogikon.org/grc/lysias/grain-dealers"
+canonical: "https://eulogikon.org/works/lysias-grain-dealers-ejc-ba"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lysias the Orator
 
-**eul_wid:** `ejc-ba` · [HTML page](https://eulogikon.org/grc/lysias/grain-dealers)
+**eul_wid:** `ejc-ba` · [HTML page](https://eulogikon.org/works/lysias-grain-dealers-ejc-ba)
 
 ## Text
 

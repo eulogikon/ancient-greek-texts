@@ -4,7 +4,7 @@ title_greek: Κόλαξ
 author: Menander of Athens
 eul_wid: hps-bp
 eul_aid: hps
-canonical: "https://eulogikon.org/grc/menander-of-athens/colax"
+canonical: "https://eulogikon.org/works/menander-athens-colax-hps-bp"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander of Athens
 
-**eul_wid:** `hps-bp` · [HTML page](https://eulogikon.org/grc/menander-of-athens/colax)
+**eul_wid:** `hps-bp` · [HTML page](https://eulogikon.org/works/menander-athens-colax-hps-bp)
 
 ## Text
 
@@ -72,11 +72,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 10.3
 
-[ ] ἑστιάτωρ. δεσ̣[π]ότ̣η̣ς̣
+[ ] ἑστιάτωρ. δεσ[π]ότης
 
 ### 10.4
 
-[ ]δέχεσθ’· ε̣ἰ[πέ] μοι,
+[ ]δέχεσθ’· εἰ[πέ] μοι,
 
 ### 10.5
 
@@ -84,7 +84,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 15.1
 
-[ ]α δεῖ το..εντ̣[....
+[ ]α δεῖ το..εντ[....
 
 ### 15.2
 
@@ -108,7 +108,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 20
 
-[ θαρρεῖ]ν̣, Φειδία.
+[ θαρρεῖ]ν, Φειδία.
 
 ### 20.1
 
@@ -180,19 +180,19 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 35.1
 
-[ κακοδαι]μ̣[ο]νοῦντα πέρυσι[ν εἰ] λ̣έγ̣[εις
+[ κακοδαι]μ[ο]νοῦντα πέρυσι[ν εἰ] λέγ[εις
 
 ### 35.2
 
-[ ]ν διατριβὴν παρ[....]σ̣α̣ς̣
+[ ]ν διατριβὴν παρ[....]σας
 
 ### 35.3
 
-[ ]σκωπ̣[το]μένου[ ....]σπ[
+[ ]σκωπ[το]μένου[ ....]σπ[
 
 ### 35.4
 
-εὐ.[..... πεν]τ̣ήκ̣οντα παῖδες ἐχομε[ν
+εὐ.[..... πεν]τήκοντα παῖδες ἐχομε[ν
 
 ### 35.5
 
@@ -200,7 +200,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 40.1
 
-(?Γν) τ̣ι̣κ[ ] κατέπτηκέν ποθεν
+(?Γν) τικ[ ] κατέπτηκέν ποθεν
 
 ### 40.2
 
@@ -208,7 +208,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 40.3
 
-..[ ]ν̣εστι. δῆλός ἐστι.
+..[ ]νεστι. δῆλός ἐστι.
 
 ### 42.1
 
@@ -268,7 +268,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 55.2
 
-] καὶ πε̣π̣ρα̣κ̣’ ἄρα
+] καὶ πεπρακ’ ἄρα
 
 ### 55.3
 
@@ -276,7 +276,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 55.4
 
-]ε̣κ̣ε̣ι̣ν̣ου̣μ̣ε̣ν̣ω
+]εκεινουμενω
 
 ### 55.5
 
@@ -292,15 +292,15 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 60.3
 
-]ω̣ τὸν χρώμενον:
+]ω τὸν χρώμενον:
 
 ### 60.4
 
-ἐ]μβεβρόντησαι π̣ά̣λ̣α̣ι̣
+ἐ]μβεβρόντησαι πάλαι
 
 ### 60.5
 
-]κ̣λ̣ίνων μάτην
+]κλίνων μάτην
 
 ### 65.1
 
@@ -332,7 +332,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 82
 
-περανοῦμεν: ω̣[
+περανοῦμεν: ω[
 
 ### 82.1
 
@@ -364,7 +364,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 85.2
 
-ἄρδην. λέγω σ̣[......]ν· ὅσας ἀναστάτους
+ἄρδην. λέγω σ[......]ν· ὅσας ἀναστάτους
 
 ### 85.3
 
@@ -388,11 +388,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 90.4
 
-ἀπολωλότας—[νῦν τ]ο̣ῦ̣τ’ ἀνήιρηκεν μόνον,
+ἀπολωλότας—[νῦν τ]οῦτ’ ἀνήιρηκεν μόνον,
 
 ### 90.5
 
-οἱ κόλακες· οὗτ̣ο̣ι̣ δ’ εἰσὶν αὐτοῖς ἄθλιοι.
+οἱ κόλακες· οὗτοι δ’ εἰσὶν αὐτοῖς ἄθλιοι.
 
 ### 95.1
 
@@ -420,7 +420,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 98.2
 
-ἂν μὴ φυλάττηι τὸν σφόδρ’ ἰσχυρὸν [ [ ]θ̣εν ὑ̣ιον Ἀστυάνακτος ὑ[πτίου
+ἂν μὴ φυλάττηι τὸν σφόδρ’ ἰσχυρὸν [ [ ]θεν ὑιον Ἀστυάνακτος ὑ[πτίου
 
 ### 98.3
 
@@ -428,11 +428,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 98.4
 
-τὴν ῥῖνα συντριψαι μ[...] μ̣[........]α̣ν
+τὴν ῥῖνα συντριψαι μ[...] μ[........]αν
 
 ### 98.5
 
-ἀλλ’ οὐχ ὁ πέντε μναῖς κα̣τ̣ε̣σ̣[κ]ε̣υ̣α̣[σμένος
+ἀλλ’ οὐχ ὁ πέντε μναῖς κατεσ[κ]ευα[σμένος
 
 ### 98.6
 
@@ -460,11 +460,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 110.1
 
-φήσει]ς ὅτ̣ι̣ σ̣αυτοῦ τοὺς φίλους [
+φήσει]ς ὅτι σαυτοῦ τοὺς φίλους [
 
 ### 110.2
 
-ὅτ̣[ι] πρὸς βίαν με [
+ὅτ[ι] πρὸς βίαν με [
 
 ### 110.3
 
@@ -472,19 +472,19 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 110.4
 
-μεταπέμψεθ’ ἑτέρους [..]στρατ̣[
+μεταπέμψεθ’ ἑτέρους [..]στρατ[
 
 ### 110.5
 
-οὔ ς’ ἄρα φυλάξει. παῖδες. ἐκτρ̣ι̣β̣ή̣[σεται
+οὔ ς’ ἄρα φυλάξει. παῖδες. ἐκτριβή[σεται
 
 ### 115.1
 
-ἤτοι ποθ’ οὗτος ἢ σύ· πιστευθεὶς δ̣[
+ἤτοι ποθ’ οὗτος ἢ σύ· πιστευθεὶς δ[
 
 ### 115.2
 
-ὑπεναντίον τε μηθὲν ὧν ποε̣ῖ̣[ς ποεῖν
+ὑπεναντίον τε μηθὲν ὧν ποεῖ[ς ποεῖν
 
 ### 115.3
 
@@ -504,7 +504,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 120.1
 
-χ]οὖτ̣[ος ῥ]α̣χ̣ι̣σ̣τὴς φανερός; οὐ λιμοὶ [
+χ]οὖτ[ος ῥ]αχιστὴς φανερός; οὐ λιμοὶ [
 
 ### 120.2
 
@@ -512,7 +512,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 120.3
 
-ὧν ἔσ̣θ’ ὁ γείτων. ἀλλ’ ἐὰν αἴσθηθ’ ὅμ̣[ως
+ὧν ἔσθ’ ὁ γείτων. ἀλλ’ ἐὰν αἴσθηθ’ ὅμ[ως
 
 ### 120.4
 
@@ -528,7 +528,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 125.2
 
-[.....π]έπρακας πλεὸν ἔχοντι χρυσ̣ί̣ο̣[ν
+[.....π]έπρακας πλεὸν ἔχοντι χρυσίο[ν
 
 ### 125.3
 
@@ -548,7 +548,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 130.2
 
-ἐκ τῆς ὁ]δοῦ γὰρ ἁρπάσονθ’, ὅταν τύχηι, αὐτήν.] δικάσομαι, πράγμαθ’ ἕξω, μάρ̣τ̣[υρας
+ἐκ τῆς ὁ]δοῦ γὰρ ἁρπάσονθ’, ὅταν τύχηι, αὐτήν.] δικάσομαι, πράγμαθ’ ἕξω, μάρτ[υρας
 
 ## License and provenance
 

@@ -4,7 +4,7 @@ title_greek: Ὑπόμνημα εἰς Δανιήλ
 author: Hippolytus of Rome
 eul_wid: qsg-bj
 eul_aid: qsg
-canonical: "https://eulogikon.org/grc/hippolytus-of-rome/daniel"
+canonical: "https://eulogikon.org/works/hippolytus-rome-daniel-qsg-bj"
 period: Roman
 dialect: Christian Koine
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippolytus of Rome
 
-**eul_wid:** `qsg-bj` · [HTML page](https://eulogikon.org/grc/hippolytus-of-rome/daniel)
+**eul_wid:** `qsg-bj` · [HTML page](https://eulogikon.org/works/hippolytus-rome-daniel-qsg-bj)
 
 ## Text
 

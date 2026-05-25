@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Γάμου
 author: Philippides the Comic Poet
 eul_wid: hgc-aa
 eul_aid: hgc
-canonical: "https://eulogikon.org/grc/philippides-the-comic-poet/marriage-fragments"
+canonical: "https://eulogikon.org/works/philippides-marriage-fragments-hgc-aa"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philippides the Comic Poet
 
-**eul_wid:** `hgc-aa` · [HTML page](https://eulogikon.org/grc/philippides-the-comic-poet/marriage-fragments)
+**eul_wid:** `hgc-aa` · [HTML page](https://eulogikon.org/works/philippides-marriage-fragments-hgc-aa)
 
 ## Text
 

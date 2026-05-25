@@ -4,7 +4,7 @@ title_greek: Πρὸς τοὺς οὐκ ὀρθῶς ἐξηγουμένους 
 author: Themistius the Philosopher
 eul_wid: rye-ah
 eul_aid: rye
-canonical: "https://eulogikon.org/grc/themistius/interpreting-sophist"
+canonical: "https://eulogikon.org/works/themistius-interpreting-sophist-rye-ah"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Themistius the Philosopher
 
-**eul_wid:** `rye-ah` · [HTML page](https://eulogikon.org/grc/themistius/interpreting-sophist)
+**eul_wid:** `rye-ah` · [HTML page](https://eulogikon.org/works/themistius-interpreting-sophist-rye-ah)
 
 ## Text
 

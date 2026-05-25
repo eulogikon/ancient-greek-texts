@@ -4,7 +4,7 @@ title_greek: Μαρτυρία
 author: Pancrates of Egypt
 eul_wid: pge-ab
 eul_aid: pge
-canonical: "https://eulogikon.org/grc/pancrates-of-egypt/testimony"
+canonical: "https://eulogikon.org/works/pancrates-egypt-testimony-pge-ab"
 period: Roman
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pancrates of Egypt
 
-**eul_wid:** `pge-ab` · [HTML page](https://eulogikon.org/grc/pancrates-of-egypt/testimony)
+**eul_wid:** `pge-ab` · [HTML page](https://eulogikon.org/works/pancrates-egypt-testimony-pge-ab)
 
 ## Text
 

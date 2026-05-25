@@ -4,7 +4,7 @@ title_greek: Ὅρκος Μετρικός
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-bh
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/metrical-oath"
+canonical: "https://eulogikon.org/works/hippocrates-metrical-oath-bww-bh"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-bh` · [HTML page](https://eulogikon.org/grc/hippocrates/metrical-oath)
+**eul_wid:** `bww-bh` · [HTML page](https://eulogikon.org/works/hippocrates-metrical-oath-bww-bh)
 
 ## Text
 

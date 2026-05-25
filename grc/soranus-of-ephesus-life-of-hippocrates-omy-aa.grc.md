@@ -4,7 +4,7 @@ title_greek: Βίος Ἱπποκράτους κατὰ Σωρανόν
 author: Soranus of Ephesus
 eul_wid: omy-aa
 eul_aid: omy
-canonical: "https://eulogikon.org/grc/soranus-of-ephesus/life-of-hippocrates"
+canonical: "https://eulogikon.org/works/soranus-ephesus-life-of-hippocrates-omy-aa"
 period: Roman
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Soranus of Ephesus
 
-**eul_wid:** `omy-aa` · [HTML page](https://eulogikon.org/grc/soranus-of-ephesus/life-of-hippocrates)
+**eul_wid:** `omy-aa` · [HTML page](https://eulogikon.org/works/soranus-ephesus-life-of-hippocrates-omy-aa)
 
 ## Text
 

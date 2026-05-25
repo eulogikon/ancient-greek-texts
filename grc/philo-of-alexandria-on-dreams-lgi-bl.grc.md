@@ -4,7 +4,7 @@ title_greek: Περὶ Ἐνυπνίων
 author: Philo of Alexandria
 eul_wid: lgi-bl
 eul_aid: lgi
-canonical: "https://eulogikon.org/grc/philo-of-alexandria/on-dreams"
+canonical: "https://eulogikon.org/works/philo-alexandria-on-dreams-lgi-bl"
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philo of Alexandria
 
-**eul_wid:** `lgi-bl` · [HTML page](https://eulogikon.org/grc/philo-of-alexandria/on-dreams)
+**eul_wid:** `lgi-bl` · [HTML page](https://eulogikon.org/works/philo-alexandria-on-dreams-lgi-bl)
 
 ## Text
 

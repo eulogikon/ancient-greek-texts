@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ῥητορικῆς καὶ Δι
 author: Timocles B Comic Poet
 eul_wid: hcq-aa
 eul_aid: hcq
-canonical: "https://eulogikon.org/grc/timocles-the-comic-poet/rhetoric-corruption"
+canonical: "https://eulogikon.org/works/timocles-rhetoric-corruption-hcq-aa"
 period: Classical
 dialect: Mixed Dialects (frg)
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Timocles B Comic Poet
 
-**eul_wid:** `hcq-aa` · [HTML page](https://eulogikon.org/grc/timocles-the-comic-poet/rhetoric-corruption)
+**eul_wid:** `hcq-aa` · [HTML page](https://eulogikon.org/works/timocles-rhetoric-corruption-hcq-aa)
 
 ## Text
 

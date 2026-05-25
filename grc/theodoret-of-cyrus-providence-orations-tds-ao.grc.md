@@ -4,7 +4,7 @@ title_greek: Περὶ Προνοίας
 author: Theodoret of Cyrus
 eul_wid: tds-ao
 eul_aid: tds
-canonical: "https://eulogikon.org/grc/theodoret-of-cyrus/providence-orations"
+canonical: "https://eulogikon.org/works/theodoret-cyrus-providence-orations-tds-ao"
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theodoret of Cyrus
 
-**eul_wid:** `tds-ao` · [HTML page](https://eulogikon.org/grc/theodoret-of-cyrus/providence-orations)
+**eul_wid:** `tds-ao` · [HTML page](https://eulogikon.org/works/theodoret-cyrus-providence-orations-tds-ao)
 
 ## Text
 

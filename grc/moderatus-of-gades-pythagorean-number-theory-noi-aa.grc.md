@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Moderatus of Gades
 eul_wid: noi-aa
 eul_aid: noi
-canonical: "https://eulogikon.org/grc/moderatus-of-gades/pythagorean-number-theory"
+canonical: "https://eulogikon.org/works/moderatus-gades-pythagorean-number-theory-noi-aa"
 period: Roman
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Moderatus of Gades
 
-**eul_wid:** `noi-aa` · [HTML page](https://eulogikon.org/grc/moderatus-of-gades/pythagorean-number-theory)
+**eul_wid:** `noi-aa` · [HTML page](https://eulogikon.org/works/moderatus-gades-pythagorean-number-theory-noi-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Phlegon of Tralles
 eul_wid: ple-aa
 eul_aid: ple
-canonical: "https://eulogikon.org/grc/phlegon-of-tralles/testimonies"
+canonical: "https://eulogikon.org/works/phlegon-tralles-testimonies-ple-aa"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Phlegon of Tralles
 
-**eul_wid:** `ple-aa` · [HTML page](https://eulogikon.org/grc/phlegon-of-tralles/testimonies)
+**eul_wid:** `ple-aa` · [HTML page](https://eulogikon.org/works/phlegon-tralles-testimonies-ple-aa)
 
 ## Text
 

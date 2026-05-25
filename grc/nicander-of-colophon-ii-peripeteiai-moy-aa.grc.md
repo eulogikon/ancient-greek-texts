@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα τῶν Περιπετειῶν
 author: Nicander of Colophon II
 eul_wid: moy-aa
 eul_aid: moy
-canonical: "https://eulogikon.org/grc/nicander-of-colophon-ii/peripeteiai"
+canonical: "https://eulogikon.org/works/nicander-colophon-peripeteiai-moy-aa"
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nicander of Colophon II
 
-**eul_wid:** `moy-aa` · [HTML page](https://eulogikon.org/grc/nicander-of-colophon-ii/peripeteiai)
+**eul_wid:** `moy-aa` · [HTML page](https://eulogikon.org/works/nicander-colophon-peripeteiai-moy-aa)
 
 ## Text
 

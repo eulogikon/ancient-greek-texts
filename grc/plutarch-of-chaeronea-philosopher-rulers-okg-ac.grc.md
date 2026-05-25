@@ -4,7 +4,7 @@ title_greek: Περὶ τοῦ ὅτι μάλιστα τοῖς ἡγεμόσι 
 author: Plutarch of Chaeronea
 eul_wid: okg-ac
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/philosopher-rulers"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-philosopher-rulers-okg-ac"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-ac` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/philosopher-rulers)
+**eul_wid:** `okg-ac` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-philosopher-rulers-okg-ac)
 
 ## Text
 

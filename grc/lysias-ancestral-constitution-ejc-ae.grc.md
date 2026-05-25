@@ -4,7 +4,7 @@ title_greek: περὶ τοῦ μὴ καταλῦσαι τὴν πάτριον 
 author: Lysias the Orator
 eul_wid: ejc-ae
 eul_aid: ejc
-canonical: "https://eulogikon.org/grc/lysias/ancestral-constitution"
+canonical: "https://eulogikon.org/works/lysias-ancestral-constitution-ejc-ae"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lysias the Orator
 
-**eul_wid:** `ejc-ae` · [HTML page](https://eulogikon.org/grc/lysias/ancestral-constitution)
+**eul_wid:** `ejc-ae` · [HTML page](https://eulogikon.org/works/lysias-ancestral-constitution-ejc-ae)
 
 ## Text
 

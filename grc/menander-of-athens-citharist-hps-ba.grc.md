@@ -4,7 +4,7 @@ title_greek: Κιθαριστής
 author: Menander of Athens
 eul_wid: hps-ba
 eul_aid: hps
-canonical: "https://eulogikon.org/grc/menander-of-athens/citharist"
+canonical: "https://eulogikon.org/works/menander-athens-citharist-hps-ba"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander of Athens
 
-**eul_wid:** `hps-ba` · [HTML page](https://eulogikon.org/grc/menander-of-athens/citharist)
+**eul_wid:** `hps-ba` · [HTML page](https://eulogikon.org/works/menander-athens-citharist-hps-ba)
 
 ## Text
 
@@ -40,11 +40,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 37.1
 
-(Β) πάντ’ ἐγὼ [μ]ό̣ν̣ης
+(Β) πάντ’ ἐγὼ [μ]όνης
 
 ### 37.2
 
-ταύτης λογίζομαί τ’ ἐμα̣υ̣τ̣ο̣ῦ̣ τ̣ὴν̣ ἐμ̣ήν̣.
+ταύτης λογίζομαί τ’ ἐμαυτοῦ τὴν ἐμήν.
 
 ### 37.3
 
@@ -60,11 +60,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 40.3
 
-〈Α〉 τί δὴ τὸ λυποῦν ς’ ἐστιν .[...οὐ]κ̣ ἤγαγες
+〈Α〉 τί δὴ τὸ λυποῦν ς’ ἐστιν .[...οὐ]κ ἤγαγες
 
 ### 40.4
 
-ἐνταῦθα τὴν γυναῖκα κα[.........]ν̣;
+ἐνταῦθα τὴν γυναῖκα κα[.........]ν;
 
 ### 40.5
 
@@ -80,7 +80,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 45.2
 
-ἀτύχημα γεγονὸς ἢ περ̣ι̣[...]ζ̣ας.
+ἀτύχημα γεγονὸς ἢ περι[...]ζας.
 
 ### 47.1
 
@@ -140,7 +140,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 55.5
 
-οὐκ̣[......]γην· καὶ γὰρ αὐτὸς ἐγενόμην
+οὐκ[......]γην· καὶ γὰρ αὐτὸς ἐγενόμην
 
 ### 60.1
 
@@ -176,7 +176,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 66.2
 
-τὸ πρᾶ[γμα λαμ]β̣άνειν ὅλως οὐδ’ ὁντινοῦν.
+τὸ πρᾶ[γμα λαμ]βάνειν ὅλως οὐδ’ ὁντινοῦν.
 
 ### 66.3
 
@@ -196,11 +196,11 @@ uersuum xxii restant initia in hunc modum:
 
 ### 70.3
 
-προσμ̣ειν̣άτω τὸν [
+προσμεινάτω τὸν [
 
 ### 70.4
 
-ἐγὼ δὲ περὶ σοῦ. χα̣ῖ̣ρ[ε
+ἐγὼ δὲ περὶ σοῦ. χαῖρ[ε
 
 ### 70.5
 
@@ -216,7 +216,7 @@ uersuum xxii restant initia in hunc modum:
 
 ### 75.3
 
-τίνα λόγον ἀεὶ π̣ρ̣ο̣σ̣[
+τίνα λόγον ἀεὶ προσ[
 
 ### 75.4
 
@@ -224,15 +224,15 @@ uersuum xxii restant initia in hunc modum:
 
 ### 75.5
 
-γῆμαί με βούλει κ̣α̣[
+γῆμαί με βούλει κα[
 
 ### 80.1
 
-φρονήσεως γὰρ τ̣ο̣ῦτ̣[ο
+φρονήσεως γὰρ τοῦτ[ο
 
 ### 80.2
 
-〈Γ〉 ὦ Μοσχίων, ἄ̣λ̣λ̣η̣ν̣ μ̣[
+〈Γ〉 ὦ Μοσχίων, ἄλλην μ[
 
 ### 80.3
 
@@ -260,7 +260,7 @@ uersuum xxii restant initia in hunc modum:
 
 ### 85.4
 
-σύμβουλον ἂν καλ̣ή̣ι̣ς̣ [
+σύμβουλον ἂν καλήις [
 
 ### 85.5
 
@@ -276,7 +276,7 @@ uersuum xxii restant initia in hunc modum:
 
 ### 90.3
 
-〈Μο〉 τὰ δ’ ἄλλ’ ἄκουσον· σπ̣[
+〈Μο〉 τὰ δ’ ἄλλ’ ἄκουσον· σπ[
 
 ### 90.4
 

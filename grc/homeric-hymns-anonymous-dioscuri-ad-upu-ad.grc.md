@@ -4,7 +4,7 @@ title_greek: Ὕμνος εἰς τοὺς Διοσκούρους
 author: Hymnic Collection  Anonymous
 eul_wid: upu-ad
 eul_aid: upu
-canonical: "https://eulogikon.org/grc/homeric-hymns-anonymous/dioscuri-ad"
+canonical: "https://eulogikon.org/works/hymnic-anon-dioscuri-upu-ad"
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hymnic Collection  Anonymous
 
-**eul_wid:** `upu-ad` · [HTML page](https://eulogikon.org/grc/homeric-hymns-anonymous/dioscuri-ad)
+**eul_wid:** `upu-ad` · [HTML page](https://eulogikon.org/works/hymnic-anon-dioscuri-upu-ad)
 
 ## Text
 

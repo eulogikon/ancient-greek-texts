@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ὀλυμπιονικῶν
 author: Hippias of Elis
 eul_wid: dqg-ad
 eul_aid: dqg
-canonical: "https://eulogikon.org/grc/hippias-of-elis/olympic-victors"
+canonical: "https://eulogikon.org/works/hippias-elis-olympic-victors-dqg-ad"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippias of Elis
 
-**eul_wid:** `dqg-ad` · [HTML page](https://eulogikon.org/grc/hippias-of-elis/olympic-victors)
+**eul_wid:** `dqg-ad` · [HTML page](https://eulogikon.org/works/hippias-elis-olympic-victors-dqg-ad)
 
 ## Text
 

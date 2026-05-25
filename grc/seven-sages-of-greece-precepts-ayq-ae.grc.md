@@ -4,7 +4,7 @@ title_greek: Παραγγέλματα
 author: Seven Sages of Greece
 eul_wid: ayq-ae
 eul_aid: ayq
-canonical: "https://eulogikon.org/grc/seven-sages-of-greece/precepts"
+canonical: "https://eulogikon.org/works/seven-sages-precepts-ayq-ae"
 period: Archaic
 dialect: Mixed Dialects
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Seven Sages of Greece
 
-**eul_wid:** `ayq-ae` · [HTML page](https://eulogikon.org/grc/seven-sages-of-greece/precepts)
+**eul_wid:** `ayq-ae` · [HTML page](https://eulogikon.org/works/seven-sages-precepts-ayq-ae)
 
 ## Text
 

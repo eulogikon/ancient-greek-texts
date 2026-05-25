@@ -4,7 +4,7 @@ title_greek: Θαύματα
 author: Vatican Paradoxographer
 eul_wid: kwi-aa
 eul_aid: kwi
-canonical: "https://eulogikon.org/grc/vatican-paradoxographer/marvels"
+canonical: "https://eulogikon.org/works/vatican-paradoxographer-marvels-kwi-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Vatican Paradoxographer
 
-**eul_wid:** `kwi-aa` · [HTML page](https://eulogikon.org/grc/vatican-paradoxographer/marvels)
+**eul_wid:** `kwi-aa` · [HTML page](https://eulogikon.org/works/vatican-paradoxographer-marvels-kwi-aa)
 
 ## Text
 
@@ -46,7 +46,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 9
 
-Πολύκλειτος χελώνας γίνεσθαί φησιν κἂν τῷ Γάγγῃ, ὧν τὸ χελώνιον μεδίμνας χωρεῖν πέντε. ὁ Ἀγαθαρχίδης δὲ τοῖς χελωνίοις χρῆσθαι †πλήοις† ὡς ὀροφώμασι τῶν καλυβῶν. Ὁ Σκάμανδρος ξανθὰς ποιεῖ τὰς τρίχας· ὅθεν καὶ Ξάνθος παρ’ Ὁμήρῳ προσηγορεύθη.
+Πολύκλειτος χελώνας γίνεσθαί φησιν κἂν τῷ Γάγγῃ, ὧν τὸ χελώνιον μεδίμνας χωρεῖν πέντε. ὁ Ἀγαθαρχίδης δὲ τοῖς χελωνίοις χρῆσθαι πλήοις ὡς ὀροφώμασι τῶν καλυβῶν. Ὁ Σκάμανδρος ξανθὰς ποιεῖ τὰς τρίχας· ὅθεν καὶ Ξάνθος παρ’ Ὁμήρῳ προσηγορεύθη.
 
 ### 11
 
@@ -98,7 +98,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 34
 
-Περὶ τὴν Ἰνδικὴν ἔστι λίμνη, ἥτις πάντα †δέχεται† πλὴν χρυσοῦ καὶ ἀργύρου. Ἑλλάνικος ἐν Ἰνδοῖς εἶναί φησι κρήνην Σίλαν καλουμένην, ἐφ’ ἧς καὶ τὰ ἐλαφρότατα καταποντίζεται.
+Περὶ τὴν Ἰνδικὴν ἔστι λίμνη, ἥτις πάντα δέχεται πλὴν χρυσοῦ καὶ ἀργύρου. Ἑλλάνικος ἐν Ἰνδοῖς εἶναί φησι κρήνην Σίλαν καλουμένην, ἐφ’ ἧς καὶ τὰ ἐλαφρότατα καταποντίζεται.
 
 ### 36
 

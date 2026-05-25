@@ -4,7 +4,7 @@ title_greek: Ὑγιεινὰ παραγγέλματα
 author: Plutarch of Chaeronea
 eul_wid: okg-cn
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/hygienic-instructions"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-hygienic-instructions-okg-cn"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-cn` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/hygienic-instructions)
+**eul_wid:** `okg-cn` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-hygienic-instructions-okg-cn)
 
 ## Text
 

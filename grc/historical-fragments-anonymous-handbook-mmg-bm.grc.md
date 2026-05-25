@@ -4,7 +4,7 @@ title_greek: Ἐγχειρίδιον
 author: Historical Fragments  Anonymous
 eul_wid: mmg-bm
 eul_aid: mmg
-canonical: "https://eulogikon.org/grc/historical-fragments-anonymous/handbook"
+canonical: "https://eulogikon.org/works/anon-hist-frag-handbook-mmg-bm"
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Historical Fragments  Anonymous
 
-**eul_wid:** `mmg-bm` · [HTML page](https://eulogikon.org/grc/historical-fragments-anonymous/handbook)
+**eul_wid:** `mmg-bm` · [HTML page](https://eulogikon.org/works/anon-hist-frag-handbook-mmg-bm)
 
 ## Text
 

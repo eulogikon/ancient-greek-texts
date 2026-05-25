@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Θείας Γνώσεως
 author: Iophon the Tragedian
 eul_wid: dvg-aa
 eul_aid: dvg
-canonical: "https://eulogikon.org/grc/iophon-the-tragedian/divine-knowledge"
+canonical: "https://eulogikon.org/works/iophon-divine-knowledge-dvg-aa"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Iophon the Tragedian
 
-**eul_wid:** `dvg-aa` · [HTML page](https://eulogikon.org/grc/iophon-the-tragedian/divine-knowledge)
+**eul_wid:** `dvg-aa` · [HTML page](https://eulogikon.org/works/iophon-divine-knowledge-dvg-aa)
 
 ## Text
 
 ### book 1.1
 
-[ln_1]×–⏑–× καὶ γὰρ εἰσελήλυθεν
+[ln_1]–– καὶ γὰρ εἰσελήλυθεν
 
 ### book 1.2
 

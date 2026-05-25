@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Hippocrates of Chios
 eul_wid: cus-aa
 eul_aid: cus
-canonical: "https://eulogikon.org/grc/hippocrates-of-chios/testimonies"
+canonical: "https://eulogikon.org/works/hippocrates-chios-testimonies-cus-aa"
 period: Classical
 dialect: Ionic
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates of Chios
 
-**eul_wid:** `cus-aa` · [HTML page](https://eulogikon.org/grc/hippocrates-of-chios/testimonies)
+**eul_wid:** `cus-aa` · [HTML page](https://eulogikon.org/works/hippocrates-chios-testimonies-cus-aa)
 
 ## Text
 

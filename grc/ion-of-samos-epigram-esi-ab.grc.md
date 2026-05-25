@@ -4,7 +4,7 @@ title_greek: Ἐπίγραμμα
 author: "Ion of Samos "
 eul_wid: esi-ab
 eul_aid: esi
-canonical: "https://eulogikon.org/grc/ion-of-samos/epigram"
+canonical: "https://eulogikon.org/works/ion-samos-epigram-esi-ab"
 period: Classical
 dialect: Ionic Elegiac
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ion of Samos 
 
-**eul_wid:** `esi-ab` · [HTML page](https://eulogikon.org/grc/ion-of-samos/epigram)
+**eul_wid:** `esi-ab` · [HTML page](https://eulogikon.org/works/ion-samos-epigram-esi-ab)
 
 ## Text
 

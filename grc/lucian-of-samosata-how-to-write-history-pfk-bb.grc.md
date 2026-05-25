@@ -4,7 +4,7 @@ title_greek: Πῶς δεῖ Ἱστορίαν συγγράφειν
 author: Lucian of Samosata
 eul_wid: pfk-bb
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/how-to-write-history"
+canonical: "https://eulogikon.org/works/lucian-samosata-how-to-write-history-pfk-bb"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-bb` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/how-to-write-history)
+**eul_wid:** `pfk-bb` · [HTML page](https://eulogikon.org/works/lucian-samosata-how-to-write-history-pfk-bb)
 
 ## Text
 

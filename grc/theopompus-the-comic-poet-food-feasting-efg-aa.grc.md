@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Τροφῆς καὶ Εὐωχί
 author: Theopompus the Comic Poet
 eul_wid: efg-aa
 eul_aid: efg
-canonical: "https://eulogikon.org/grc/theopompus-the-comic-poet/food-feasting"
+canonical: "https://eulogikon.org/works/theopompus-comic-food-feasting-efg-aa"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theopompus the Comic Poet
 
-**eul_wid:** `efg-aa` · [HTML page](https://eulogikon.org/grc/theopompus-the-comic-poet/food-feasting)
+**eul_wid:** `efg-aa` · [HTML page](https://eulogikon.org/works/theopompus-comic-food-feasting-efg-aa)
 
 ## Text
 

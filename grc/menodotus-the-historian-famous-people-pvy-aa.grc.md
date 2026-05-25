@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Menodotus the Historian
 eul_wid: pvy-aa
 eul_aid: pvy
-canonical: "https://eulogikon.org/grc/menodotus-the-historian/famous-people"
+canonical: "https://eulogikon.org/works/menodotus-famous-people-pvy-aa"
 period: Roman
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menodotus the Historian
 
-**eul_wid:** `pvy-aa` · [HTML page](https://eulogikon.org/grc/menodotus-the-historian/famous-people)
+**eul_wid:** `pvy-aa` · [HTML page](https://eulogikon.org/works/menodotus-famous-people-pvy-aa)
 
 ## Text
 

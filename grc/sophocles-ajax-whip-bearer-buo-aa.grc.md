@@ -4,7 +4,7 @@ title_greek: Αἴας
 author: Sophocles
 eul_wid: buo-aa
 eul_aid: buo
-canonical: "https://eulogikon.org/grc/sophocles/ajax-whip-bearer"
+canonical: "https://eulogikon.org/works/sophocles-ajax-whip-bearer-buo-aa"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sophocles
 
-**eul_wid:** `buo-aa` · [HTML page](https://eulogikon.org/grc/sophocles/ajax-whip-bearer)
+**eul_wid:** `buo-aa` · [HTML page](https://eulogikon.org/works/sophocles-ajax-whip-bearer-buo-aa)
 
 ## Text
 

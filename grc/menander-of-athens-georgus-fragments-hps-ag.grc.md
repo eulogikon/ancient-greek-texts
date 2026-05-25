@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα τοῦ Γεωργοῦ
 author: Menander of Athens
 eul_wid: hps-ag
 eul_aid: hps
-canonical: "https://eulogikon.org/grc/menander-of-athens/georgus-fragments"
+canonical: "https://eulogikon.org/works/menander-athens-georgus-fragments-hps-ag"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander of Athens
 
-**eul_wid:** `hps-ag` · [HTML page](https://eulogikon.org/grc/menander-of-athens/georgus-fragments)
+**eul_wid:** `hps-ag` · [HTML page](https://eulogikon.org/works/menander-athens-georgus-fragments-hps-ag)
 
 ## Text
 

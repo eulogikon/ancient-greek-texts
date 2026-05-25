@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Sosipater the Comic Poet
 eul_wid: ilg-ab
 eul_aid: ilg
-canonical: "https://eulogikon.org/grc/sosipater-the-comic-poet/cooking"
+canonical: "https://eulogikon.org/works/sosipater-cooking-ilg-ab"
 period: Hellenistic
 dialect: Koine
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sosipater the Comic Poet
 
-**eul_wid:** `ilg-ab` · [HTML page](https://eulogikon.org/grc/sosipater-the-comic-poet/cooking)
+**eul_wid:** `ilg-ab` · [HTML page](https://eulogikon.org/works/sosipater-cooking-ilg-ab)
 
 ## Text
 

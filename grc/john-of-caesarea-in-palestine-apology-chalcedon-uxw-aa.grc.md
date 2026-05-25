@@ -4,7 +4,7 @@ title_greek: Ἀπολογία τῆς Συνόδου τῆς Χαλκηδόνο
 author: John of Caesarea in Palestine
 eul_wid: uxw-aa
 eul_aid: uxw
-canonical: "https://eulogikon.org/grc/john-of-caesarea-in-palestine/apology-chalcedon"
+canonical: "https://eulogikon.org/works/john-caesarea-palestine-apology-chalcedon-uxw-aa"
 period: Late Antique
 dialect: Christian Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** John of Caesarea in Palestine
 
-**eul_wid:** `uxw-aa` · [HTML page](https://eulogikon.org/grc/john-of-caesarea-in-palestine/apology-chalcedon)
+**eul_wid:** `uxw-aa` · [HTML page](https://eulogikon.org/works/john-caesarea-palestine-apology-chalcedon-uxw-aa)
 
 ## Text
 

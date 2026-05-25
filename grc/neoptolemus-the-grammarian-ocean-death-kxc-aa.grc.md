@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ὠκεανοῦ καὶ Θανά
 author: Neoptolemus the Grammarian
 eul_wid: kxc-aa
 eul_aid: kxc
-canonical: "https://eulogikon.org/grc/neoptolemus-the-grammarian/ocean-death"
+canonical: "https://eulogikon.org/works/neoptolemus-ocean-death-kxc-aa"
 period: Hellenistic
 dialect: Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Neoptolemus the Grammarian
 
-**eul_wid:** `kxc-aa` · [HTML page](https://eulogikon.org/grc/neoptolemus-the-grammarian/ocean-death)
+**eul_wid:** `kxc-aa` · [HTML page](https://eulogikon.org/works/neoptolemus-ocean-death-kxc-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ Καρδίας
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-bm
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/heart"
+canonical: "https://eulogikon.org/works/hippocrates-heart-bww-bm"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-bm` · [HTML page](https://eulogikon.org/grc/hippocrates/heart)
+**eul_wid:** `bww-bm` · [HTML page](https://eulogikon.org/works/hippocrates-heart-bww-bm)
 
 ## Text
 

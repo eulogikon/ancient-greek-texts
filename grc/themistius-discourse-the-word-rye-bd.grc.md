@@ -4,7 +4,7 @@ title_greek: Ἡ ἐπὶ τῷ λόγῳ διάλεξις
 author: Themistius the Philosopher
 eul_wid: rye-bd
 eul_aid: rye
-canonical: "https://eulogikon.org/grc/themistius/discourse-the-word"
+canonical: "https://eulogikon.org/works/themistius-discourse-the-word-rye-bd"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Themistius the Philosopher
 
-**eul_wid:** `rye-bd` · [HTML page](https://eulogikon.org/grc/themistius/discourse-the-word)
+**eul_wid:** `rye-bd` · [HTML page](https://eulogikon.org/works/themistius-discourse-the-word-rye-bd)
 
 ## Text
 

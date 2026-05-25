@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Hippon of Samos
 eul_wid: cui-aa
 eul_aid: cui
-canonical: "https://eulogikon.org/grc/hippon-of-samos/testimonies"
+canonical: "https://eulogikon.org/works/hippon-samos-testimonies-cui-aa"
 period: Classical
 dialect: Ionic (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippon of Samos
 
-**eul_wid:** `cui-aa` · [HTML page](https://eulogikon.org/grc/hippon-of-samos/testimonies)
+**eul_wid:** `cui-aa` · [HTML page](https://eulogikon.org/works/hippon-samos-testimonies-cui-aa)
 
 ## Text
 

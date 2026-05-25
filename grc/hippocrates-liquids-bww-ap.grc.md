@@ -4,7 +4,7 @@ title_greek: Περὶ χυλῶν χρήσεως
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-ap
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/liquids"
+canonical: "https://eulogikon.org/works/hippocrates-liquids-bww-ap"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-ap` · [HTML page](https://eulogikon.org/grc/hippocrates/liquids)
+**eul_wid:** `bww-ap` · [HTML page](https://eulogikon.org/works/hippocrates-liquids-bww-ap)
 
 ## Text
 

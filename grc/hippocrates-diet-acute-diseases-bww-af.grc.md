@@ -4,7 +4,7 @@ title_greek: Περὶ διαίτης ἐν τοῖς ὀξέσιν
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-af
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/diet-acute-diseases"
+canonical: "https://eulogikon.org/works/hippocrates-diet-acute-diseases-bww-af"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-af` · [HTML page](https://eulogikon.org/grc/hippocrates/diet-acute-diseases)
+**eul_wid:** `bww-af` · [HTML page](https://eulogikon.org/works/hippocrates-diet-acute-diseases-bww-af)
 
 ## Text
 

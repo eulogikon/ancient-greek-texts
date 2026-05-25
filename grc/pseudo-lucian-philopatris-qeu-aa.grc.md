@@ -4,7 +4,7 @@ title_greek: Φιλόπατρις ἢ Διδασκόμενος
 author: "Pseudo-Lucian "
 eul_wid: qeu-aa
 eul_aid: qeu
-canonical: "https://eulogikon.org/grc/pseudo-lucian/philopatris"
+canonical: "https://eulogikon.org/works/pseudo-lucian-philopatris-qeu-aa"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pseudo-Lucian 
 
-**eul_wid:** `qeu-aa` · [HTML page](https://eulogikon.org/grc/pseudo-lucian/philopatris)
+**eul_wid:** `qeu-aa` · [HTML page](https://eulogikon.org/works/pseudo-lucian-philopatris-qeu-aa)
 
 ## Text
 

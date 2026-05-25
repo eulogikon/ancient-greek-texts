@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν Ἑπτὰ Θαυμάτων τοῦ Κόσμου
 author: Philo Byzantium
 eul_wid: jgu-aa
 eul_aid: jgu
-canonical: "https://eulogikon.org/grc/philo-byzantium/seven-wonders"
+canonical: "https://eulogikon.org/works/philo-byzantium-seven-wonders-jgu-aa"
 period: Hellenistic
 dialect: Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philo Byzantium
 
-**eul_wid:** `jgu-aa` · [HTML page](https://eulogikon.org/grc/philo-byzantium/seven-wonders)
+**eul_wid:** `jgu-aa` · [HTML page](https://eulogikon.org/works/philo-byzantium-seven-wonders-jgu-aa)
 
 ## Text
 

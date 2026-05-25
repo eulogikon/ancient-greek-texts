@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Lycus of Rhegium
 eul_wid: kgo-ab
 eul_aid: kgo
-canonical: "https://eulogikon.org/grc/lycus-of-rhegium/alexander-italian-lore"
+canonical: "https://eulogikon.org/works/lycus-rhegium-alexander-italian-lore-kgo-ab"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lycus of Rhegium
 
-**eul_wid:** `kgo-ab` · [HTML page](https://eulogikon.org/grc/lycus-of-rhegium/alexander-italian-lore)
+**eul_wid:** `kgo-ab` · [HTML page](https://eulogikon.org/works/lycus-rhegium-alexander-italian-lore-kgo-ab)
 
 ## Text
 

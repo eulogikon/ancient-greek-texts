@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἀστραπῆς
 author: Milon the Philosopher
 eul_wid: nos-aa
 eul_aid: nos
-canonical: "https://eulogikon.org/grc/milon-the-philosopher/lightning-fragments"
+canonical: "https://eulogikon.org/works/milon-lightning-fragments-nos-aa"
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Milon the Philosopher
 
-**eul_wid:** `nos-aa` · [HTML page](https://eulogikon.org/grc/milon-the-philosopher/lightning-fragments)
+**eul_wid:** `nos-aa` · [HTML page](https://eulogikon.org/works/milon-lightning-fragments-nos-aa)
 
 ## Text
 

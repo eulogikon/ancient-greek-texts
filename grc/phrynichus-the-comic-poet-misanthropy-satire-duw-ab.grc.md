@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Μισανθρωπίας καὶ 
 author: Phrynichus the Comic Poet of Athens
 eul_wid: duw-ab
 eul_aid: duw
-canonical: "https://eulogikon.org/grc/phrynichus-the-comic-poet/misanthropy-satire"
+canonical: "https://eulogikon.org/works/phrynichus-athens-misanthropy-satire-duw-ab"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Phrynichus the Comic Poet of Athens
 
-**eul_wid:** `duw-ab` · [HTML page](https://eulogikon.org/grc/phrynichus-the-comic-poet/misanthropy-satire)
+**eul_wid:** `duw-ab` · [HTML page](https://eulogikon.org/works/phrynichus-athens-misanthropy-satire-duw-ab)
 
 ## Text
 

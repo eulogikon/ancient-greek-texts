@@ -4,7 +4,7 @@ title_greek: Φάντασμα
 author: Menander of Athens
 eul_wid: hps-av
 eul_aid: hps
-canonical: "https://eulogikon.org/grc/menander-of-athens/apparition"
+canonical: "https://eulogikon.org/works/menander-athens-apparition-hps-av"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander of Athens
 
-**eul_wid:** `hps-av` · [HTML page](https://eulogikon.org/grc/menander-of-athens/apparition)
+**eul_wid:** `hps-av` · [HTML page](https://eulogikon.org/works/menander-athens-apparition-hps-av)
 
 ## Text
 
@@ -52,7 +52,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 5.3
 
-[ ]α̣ σαυτοῦ μηδεμίαν. οὕτω πόει”, [ τ]οῦτο· τί γὰρ ἄν τις πάθοι;
+[ ]α σαυτοῦ μηδεμίαν. οὕτω πόει”, [ τ]οῦτο· τί γὰρ ἄν τις πάθοι;
 
 ### 5.4
 
@@ -60,7 +60,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 10.1
 
-ἐν οἰκίαι τα]χ̣θεῖσα τῆς γαμουμένης.
+ἐν οἰκίαι τα]χθεῖσα τῆς γαμουμένης.
 
 ### 10.2
 
@@ -148,11 +148,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 28.2
 
-εἰς τὴν ἀλήθειαν καταχρήσα̣[σθ’ ἔστ’ ἴσως.
+εἰς τὴν ἀλήθειαν καταχρήσα[σθ’ ἔστ’ ἴσως.
 
 ### 30.1
 
-ἂν τίμιοι, δακέτω ς’ ὑπὲρ ἐμ̣[οῦ τοῦτο τοῦ
+ἂν τίμιοι, δακέτω ς’ ὑπὲρ ἐμ[οῦ τοῦτο τοῦ
 
 ### 30.2
 
@@ -164,7 +164,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 30.4
 
-ἵνα μὴ ’πιθυμῆις τῶν ὑπὲρ σ̣[ὲ πραγμάτων.
+ἵνα μὴ ’πιθυμῆις τῶν ὑπὲρ σ[ὲ πραγμάτων.
 
 ### 30.5
 
@@ -176,7 +176,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 35.2
 
-εἰσῆλθες εὐθύς, ἂν κοπιάσηις τ̣[ὰ σκέλη·
+εἰσῆλθες εὐθύς, ἂν κοπιάσηις τ[ὰ σκέλη·
 
 ### 35.3
 
@@ -232,11 +232,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 45.3
 
-[Πα] ἀ̣σ̣θ̣ε̣νικόν ἐστι τἀνόητο[ν
+[Πα] ἀσθενικόν ἐστι τἀνόητο[ν
 
 ### 45.4
 
-[Φε] εἶἑν· πάνυ γὰρ ταυτὶ λελο̣[γισμένως λέγεις.
+[Φε] εἶἑν· πάνυ γὰρ ταυτὶ λελο[γισμένως λέγεις.
 
 ### 45.5
 
@@ -268,7 +268,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 55.3
 
-[ ]ν ὑπεμελαγχόλη[ς ⏑–
+[ ]ν ὑπεμελαγχόλη[ς –
 
 ### 55.4
 
@@ -280,7 +280,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 60.1
 
-[ ]εται τἄνδον̣ (?) Σύρε,
+[ ]εται τἄνδον (?) Σύρε,
 
 ### 60.2
 
@@ -328,7 +328,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 70.3
 
-[ ]ι̣ωνε[....] ἐμοί
+[ ]ιωνε[....] ἐμοί
 
 ### 70.4
 
@@ -352,7 +352,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 75.4
 
-[ ⏕⏑ ] νῦν ὄντων[
+[ ⏕ ] νῦν ὄντων[
 
 ### 75.5
 
@@ -364,15 +364,15 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 80.2
 
-τὸ παραχρῆμ’ ὀρθῶς ε[....]α παντοδαπὰ λε[–⏑–
+τὸ παραχρῆμ’ ὀρθῶς ε[....]α παντοδαπὰ λε[––
 
 ### 80.3
 
-οὐθὲν [...]υνθ... (?) κ[....]ν ἐμφρόνως ημ[–⏑–
+οὐθὲν [...]υνθ... (?) κ[....]ν ἐμφρόνως ημ[––
 
 ### 80.4
 
-ἐνέτυχεν. (?) τὸ πρᾶγμα [....ἐ]πινοῆσαί μοι δο[κε̣]ῖ
+ἐνέτυχεν. (?) τὸ πρᾶγμα [....ἐ]πινοῆσαί μοι δο[κε]ῖ
 
 ### 80.5
 
@@ -412,7 +412,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 90.4
 
-(Γ) [ ].υ τίς ἐστί; τίς καταισχ̣[ύνει ⏑⏓;
+(Γ) [ ].υ τίς ἐστί; τίς καταισχ[ύνει ;
 
 ### 90.5
 
@@ -436,7 +436,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 95.5
 
-[ μόν]η πλανηθεῖς’ ἡ τάλαι̣[ν [ ] ἐρωτήσεις τὰ προ[
+[ μόν]η πλανηθεῖς’ ἡ τάλαι[ν [ ] ἐρωτήσεις τὰ προ[
 
 ### 95.6
 
@@ -448,7 +448,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 95.8
 
-×–⏑ φίλ’] ἄνερ, γνώριμον τ[
+– φίλ’] ἄνερ, γνώριμον τ[
 
 ### 95.9
 
@@ -456,7 +456,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 105.1
 
-[ ]αιδ’ ἐνθαδὶ τὰ π[⏕⏑⏓
+[ ]αιδ’ ἐνθαδὶ τὰ π[⏕
 
 ### 105.2
 

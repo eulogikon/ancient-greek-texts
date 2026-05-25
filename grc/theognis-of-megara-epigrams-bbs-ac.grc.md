@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Theognis of Megara
 eul_wid: bbs-ac
 eul_aid: bbs
-canonical: "https://eulogikon.org/grc/theognis-of-megara/epigrams"
+canonical: "https://eulogikon.org/works/theognis-megara-epigrams-bbs-ac"
 period: Archaic
 dialect: Ionic Elegiac
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theognis of Megara
 
-**eul_wid:** `bbs-ac` · [HTML page](https://eulogikon.org/grc/theognis-of-megara/epigrams)
+**eul_wid:** `bbs-ac` · [HTML page](https://eulogikon.org/works/theognis-megara-epigrams-bbs-ac)
 
 ## Text
 

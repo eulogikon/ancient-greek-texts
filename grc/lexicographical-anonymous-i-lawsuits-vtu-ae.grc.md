@@ -4,7 +4,7 @@ title_greek: Δικῶν ὀνόματα
 author: Lexicographical Work Anonymous I
 eul_wid: vtu-ae
 eul_aid: vtu
-canonical: "https://eulogikon.org/grc/lexicographical-anonymous-i/lawsuits"
+canonical: "https://eulogikon.org/works/anon-lex-1-lawsuits-vtu-ae"
 period: Late Antique
 dialect: Mixed Dialects
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lexicographical Work Anonymous I
 
-**eul_wid:** `vtu-ae` · [HTML page](https://eulogikon.org/grc/lexicographical-anonymous-i/lawsuits)
+**eul_wid:** `vtu-ae` · [HTML page](https://eulogikon.org/works/anon-lex-1-lawsuits-vtu-ae)
 
 ## Text
 

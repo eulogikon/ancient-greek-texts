@@ -4,7 +4,7 @@ title_greek: Περὶ ἀδελφικῶν φίλων
 author: Paradoxographer Anonymous
 eul_wid: jre-ab
 eul_aid: jre
-canonical: "https://eulogikon.org/grc/paradoxographer-anon/brotherly-friends"
+canonical: "https://eulogikon.org/works/paradoxographer-anon-brotherly-friends-jre-ab"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Paradoxographer Anonymous
 
-**eul_wid:** `jre-ab` · [HTML page](https://eulogikon.org/grc/paradoxographer-anon/brotherly-friends)
+**eul_wid:** `jre-ab` · [HTML page](https://eulogikon.org/works/paradoxographer-anon-brotherly-friends-jre-ab)
 
 ## Text
 

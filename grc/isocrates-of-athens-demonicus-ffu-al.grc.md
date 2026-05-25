@@ -4,7 +4,7 @@ title_greek: Προς Δημονικόν
 author: Isocrates of Athens
 eul_wid: ffu-al
 eul_aid: ffu
-canonical: "https://eulogikon.org/grc/isocrates-of-athens/demonicus"
+canonical: "https://eulogikon.org/works/isocrates-athens-demonicus-ffu-al"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Isocrates of Athens
 
-**eul_wid:** `ffu-al` · [HTML page](https://eulogikon.org/grc/isocrates-of-athens/demonicus)
+**eul_wid:** `ffu-al` · [HTML page](https://eulogikon.org/works/isocrates-athens-demonicus-ffu-al)
 
 ## Text
 

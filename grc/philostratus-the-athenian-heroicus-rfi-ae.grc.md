@@ -4,7 +4,7 @@ title_greek: Ἡρωικός
 author: Philostratus the Athenian
 eul_wid: rfi-ae
 eul_aid: rfi
-canonical: "https://eulogikon.org/grc/philostratus-the-athenian/heroicus"
+canonical: "https://eulogikon.org/works/philostratus-athens-heroicus-rfi-ae"
 period: Roman
 dialect: Atticizing Literary
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philostratus the Athenian
 
-**eul_wid:** `rfi-ae` · [HTML page](https://eulogikon.org/grc/philostratus-the-athenian/heroicus)
+**eul_wid:** `rfi-ae` · [HTML page](https://eulogikon.org/works/philostratus-athens-heroicus-rfi-ae)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Menippus of Pergamon
 eul_wid: lzo-aa
 eul_aid: lzo
-canonical: "https://eulogikon.org/grc/menippus-of-pergamon/two-pontic-seas"
+canonical: "https://eulogikon.org/works/menippus-pergamon-two-pontic-seas-lzo-aa"
 period: Hellenistic
 dialect: Technical Koine
 domain: Geography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menippus of Pergamon
 
-**eul_wid:** `lzo-aa` · [HTML page](https://eulogikon.org/grc/menippus-of-pergamon/two-pontic-seas)
+**eul_wid:** `lzo-aa` · [HTML page](https://eulogikon.org/works/menippus-pergamon-two-pontic-seas-lzo-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ Ἀϊδιότητος Κόσμου
 author: Philo of Alexandria
 eul_wid: lgi-ae
 eul_aid: lgi
-canonical: "https://eulogikon.org/grc/philo-of-alexandria/surviving-works-of-philo-of-alexandria-ae"
+canonical: "https://eulogikon.org/works/philo-alexandria-surviving-works-of-philo-of-alexandria-lgi-ae"
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philo of Alexandria
 
-**eul_wid:** `lgi-ae` · [HTML page](https://eulogikon.org/grc/philo-of-alexandria/surviving-works-of-philo-of-alexandria-ae)
+**eul_wid:** `lgi-ae` · [HTML page](https://eulogikon.org/works/philo-alexandria-surviving-works-of-philo-of-alexandria-lgi-ae)
 
 ## Text
 

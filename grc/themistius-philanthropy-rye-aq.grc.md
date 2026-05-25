@@ -4,7 +4,7 @@ title_greek: Φιλάδελφοι ἢ περὶ φιλανθρωπίας
 author: Themistius the Philosopher
 eul_wid: rye-aq
 eul_aid: rye
-canonical: "https://eulogikon.org/grc/themistius/philanthropy"
+canonical: "https://eulogikon.org/works/themistius-philanthropy-rye-aq"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Themistius the Philosopher
 
-**eul_wid:** `rye-aq` · [HTML page](https://eulogikon.org/grc/themistius/philanthropy)
+**eul_wid:** `rye-aq` · [HTML page](https://eulogikon.org/works/themistius-philanthropy-rye-aq)
 
 ## Text
 

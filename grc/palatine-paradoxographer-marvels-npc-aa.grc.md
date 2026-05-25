@@ -4,7 +4,7 @@ title_greek: Θαύματα
 author: Palatine Paradoxographer
 eul_wid: npc-aa
 eul_aid: npc
-canonical: "https://eulogikon.org/grc/palatine-paradoxographer/marvels"
+canonical: "https://eulogikon.org/works/palatine-paradoxographer-marvels-npc-aa"
 period: Roman
 dialect: Mixed Dialects
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Palatine Paradoxographer
 
-**eul_wid:** `npc-aa` · [HTML page](https://eulogikon.org/grc/palatine-paradoxographer/marvels)
+**eul_wid:** `npc-aa` · [HTML page](https://eulogikon.org/works/palatine-paradoxographer-marvels-npc-aa)
 
 ## Text
 
@@ -38,7 +38,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 7
 
-τὸν δὲ γευσάμενον αὐτοῦ παραφρονεῖν. Ἐν †Περνίκῳ† λίθοι εὑρίσκονται ὀρυσσομένης τῆς γῆς, οὓς ἐπειδὰν διαθερμάνῃ ὁ ἥλιος ἐξανθρακοῦνται, ὥσ〈τε〉 καὶ κρέα ἕψειν καὶ ἄλλ’ ἅττα τοὺς ἐκεῖ χύτρας ἐπιτιθέντας.
+τὸν δὲ γευσάμενον αὐτοῦ παραφρονεῖν. Ἐν Περνίκῳ λίθοι εὑρίσκονται ὀρυσσομένης τῆς γῆς, οὓς ἐπειδὰν διαθερμάνῃ ὁ ἥλιος ἐξανθρακοῦνται, ὥσ〈τε〉 καὶ κρέα ἕψειν καὶ ἄλλ’ ἅττα τοὺς ἐκεῖ χύτρας ἐπιτιθέντας.
 
 ### 9
 

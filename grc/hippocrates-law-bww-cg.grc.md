@@ -4,7 +4,7 @@ title_greek: Νόμος
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-cg
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/law"
+canonical: "https://eulogikon.org/works/hippocrates-law-bww-cg"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-cg` · [HTML page](https://eulogikon.org/grc/hippocrates/law)
+**eul_wid:** `bww-cg` · [HTML page](https://eulogikon.org/works/hippocrates-law-bww-cg)
 
 ## Text
 

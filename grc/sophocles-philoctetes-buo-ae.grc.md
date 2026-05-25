@@ -4,7 +4,7 @@ title_greek: Φιλοκτήτης
 author: Sophocles
 eul_wid: buo-ae
 eul_aid: buo
-canonical: "https://eulogikon.org/grc/sophocles/philoctetes"
+canonical: "https://eulogikon.org/works/sophocles-philoctetes-buo-ae"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sophocles
 
-**eul_wid:** `buo-ae` · [HTML page](https://eulogikon.org/grc/sophocles/philoctetes)
+**eul_wid:** `buo-ae` · [HTML page](https://eulogikon.org/works/sophocles-philoctetes-buo-ae)
 
 ## Text
 

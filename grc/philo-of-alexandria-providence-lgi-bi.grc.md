@@ -4,7 +4,7 @@ title_greek: Περὶ Προνοίας
 author: Philo of Alexandria
 eul_wid: lgi-bi
 eul_aid: lgi
-canonical: "https://eulogikon.org/grc/philo-of-alexandria/providence"
+canonical: "https://eulogikon.org/works/philo-alexandria-providence-lgi-bi"
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philo of Alexandria
 
-**eul_wid:** `lgi-bi` · [HTML page](https://eulogikon.org/grc/philo-of-alexandria/providence)
+**eul_wid:** `lgi-bi` · [HTML page](https://eulogikon.org/works/philo-alexandria-providence-lgi-bi)
 
 ## Text
 

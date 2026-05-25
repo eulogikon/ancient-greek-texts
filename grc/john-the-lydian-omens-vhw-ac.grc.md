@@ -4,7 +4,7 @@ title_greek: Περὶ Οἰωνῶν
 author: John the Lydian
 eul_wid: vhw-ac
 eul_aid: vhw
-canonical: "https://eulogikon.org/grc/john-the-lydian/omens"
+canonical: "https://eulogikon.org/works/john-lydian-omens-vhw-ac"
 period: Late Antique
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** John the Lydian
 
-**eul_wid:** `vhw-ac` · [HTML page](https://eulogikon.org/grc/john-the-lydian/omens)
+**eul_wid:** `vhw-ac` · [HTML page](https://eulogikon.org/works/john-lydian-omens-vhw-ac)
 
 ## Text
 

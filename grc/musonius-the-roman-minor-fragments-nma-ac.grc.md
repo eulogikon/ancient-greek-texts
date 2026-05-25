@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Μικρά
 author: Musonius the Roman
 eul_wid: nma-ac
 eul_aid: nma
-canonical: "https://eulogikon.org/grc/musonius-the-roman/minor-fragments"
+canonical: "https://eulogikon.org/works/musonius-roman-minor-fragments-nma-ac"
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Musonius the Roman
 
-**eul_wid:** `nma-ac` · [HTML page](https://eulogikon.org/grc/musonius-the-roman/minor-fragments)
+**eul_wid:** `nma-ac` · [HTML page](https://eulogikon.org/works/musonius-roman-minor-fragments-nma-ac)
 
 ## Text
 

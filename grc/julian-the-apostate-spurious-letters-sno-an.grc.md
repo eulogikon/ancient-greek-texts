@@ -4,7 +4,7 @@ title_greek: Ἐπιστολαὶ Νόθαι
 author: Julian the Apostate
 eul_wid: sno-an
 eul_aid: sno
-canonical: "https://eulogikon.org/grc/julian-the-apostate/spurious-letters"
+canonical: "https://eulogikon.org/works/julian-apostate-spurious-letters-sno-an"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Julian the Apostate
 
-**eul_wid:** `sno-an` · [HTML page](https://eulogikon.org/grc/julian-the-apostate/spurious-letters)
+**eul_wid:** `sno-an` · [HTML page](https://eulogikon.org/works/julian-apostate-spurious-letters-sno-an)
 
 ## Text
 

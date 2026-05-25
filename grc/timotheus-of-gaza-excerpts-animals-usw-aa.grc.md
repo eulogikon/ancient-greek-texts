@@ -4,7 +4,7 @@ title_greek: Ἐκλογαὶ ἐκ Βιβλίων περὶ Ζῴων
 author: Timotheus of Gaza
 eul_wid: usw-aa
 eul_aid: usw
-canonical: "https://eulogikon.org/grc/timotheus-of-gaza/excerpts-animals"
+canonical: "https://eulogikon.org/works/timotheus-gaza-excerpts-animals-usw-aa"
 period: Late Antique
 dialect: Christian Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Timotheus of Gaza
 
-**eul_wid:** `usw-aa` · [HTML page](https://eulogikon.org/grc/timotheus-of-gaza/excerpts-animals)
+**eul_wid:** `usw-aa` · [HTML page](https://eulogikon.org/works/timotheus-gaza-excerpts-animals-usw-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ὀνομασίαι τῶν κατὰ ἄνθρωπον
 author: Medical Writers Anonymous
 eul_wid: umi-ai
 eul_aid: umi
-canonical: "https://eulogikon.org/grc/medical-writers-anonymous/human-parts"
+canonical: "https://eulogikon.org/works/med-writers-anon-human-parts-umi-ai"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Medical Writers Anonymous
 
-**eul_wid:** `umi-ai` · [HTML page](https://eulogikon.org/grc/medical-writers-anonymous/human-parts)
+**eul_wid:** `umi-ai` · [HTML page](https://eulogikon.org/works/med-writers-anon-human-parts-umi-ai)
 
 ## Text
 

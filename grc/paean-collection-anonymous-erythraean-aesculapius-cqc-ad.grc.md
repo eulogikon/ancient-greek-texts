@@ -4,7 +4,7 @@ title_greek: Ἐρυθραῖος Παιὰν πρὸς Ἀσκληπιόν
 author: Paean Collection Anonymous
 eul_wid: cqc-ad
 eul_aid: cqc
-canonical: "https://eulogikon.org/grc/paean-collection-anonymous/erythraean-aesculapius"
+canonical: "https://eulogikon.org/works/paean-collection-erythraean-aesculapius-cqc-ad"
 period: Classical
 dialect: Doric (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Paean Collection Anonymous
 
-**eul_wid:** `cqc-ad` · [HTML page](https://eulogikon.org/grc/paean-collection-anonymous/erythraean-aesculapius)
+**eul_wid:** `cqc-ad` · [HTML page](https://eulogikon.org/works/paean-collection-erythraean-aesculapius-cqc-ad)
 
 ## Text
 

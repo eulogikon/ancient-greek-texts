@@ -4,7 +4,7 @@ title_greek: Ζωσίμου περὶ ὀργάνων καὶ καμίνων
 author: Zosimus of Panopolis
 eul_wid: tyc-aw
 eul_aid: tyc
-canonical: "https://eulogikon.org/grc/zosimus-of-panopolis/instruments-furnaces-aw"
+canonical: "https://eulogikon.org/works/zosimus-panopolis-instruments-furnaces-tyc-aw"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Zosimus of Panopolis
 
-**eul_wid:** `tyc-aw` · [HTML page](https://eulogikon.org/grc/zosimus-of-panopolis/instruments-furnaces-aw)
+**eul_wid:** `tyc-aw` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-instruments-furnaces-tyc-aw)
 
 ## Text
 

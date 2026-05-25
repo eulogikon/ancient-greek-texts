@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τῶν Ἰβηρικῶν Μύθ
 author: Sosthenes of Cnidus
 eul_wid: gfy-aa
 eul_aid: gfy
-canonical: "https://eulogikon.org/grc/sosthenes-of-cnidus/iberian-myths"
+canonical: "https://eulogikon.org/works/sosthenes-cnidus-iberian-myths-gfy-aa"
 period: Classical
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sosthenes of Cnidus
 
-**eul_wid:** `gfy-aa` · [HTML page](https://eulogikon.org/grc/sosthenes-of-cnidus/iberian-myths)
+**eul_wid:** `gfy-aa` · [HTML page](https://eulogikon.org/works/sosthenes-cnidus-iberian-myths-gfy-aa)
 
 ## Text
 

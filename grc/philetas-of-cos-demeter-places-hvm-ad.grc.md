@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Δήμητρος καὶ Τόπω
 author: Philetas of Cos
 eul_wid: hvm-ad
 eul_aid: hvm
-canonical: "https://eulogikon.org/grc/philetas-of-cos/demeter-places"
+canonical: "https://eulogikon.org/works/philetas-cos-demeter-places-hvm-ad"
 period: Hellenistic
 dialect: Attic
 domain: Poetry
@@ -18,17 +18,17 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philetas of Cos
 
-**eul_wid:** `hvm-ad` · [HTML page](https://eulogikon.org/grc/philetas-of-cos/demeter-places)
+**eul_wid:** `hvm-ad` · [HTML page](https://eulogikon.org/works/philetas-cos-demeter-places-hvm-ad)
 
 ## Text
 
 ### book 673?
 
-[ln_1][ ]../ [ ] τ[ὸ] τ̣όξο̣ν κ(αὶ) Φιλί‐ τας? ἐν] Δ̣ήμητρι αυτα ε̣γε [ ].[.].. γ̣υμνὸν ἄεμμα[ln_5][ ].
+[ln_1][ ]../ [ ] τ[ὸ] τόξον κ(αὶ) Φιλί‐ τας? ἐν] Δήμητρι αυτα εγε [ ].[.].. γυμνὸν ἄεμμα[ln_5][ ].
 
 ### book 674
 
-⸤καί κεν Ἀθηναίης δολιχαόρου⸥ ἱερὸν ἄστυ καί κε[ν Ἐλευ]σῖνος θεῖον ἰδοι[..λό]φον
+καί κεν Ἀθηναίης δολιχαόρου ἱερὸν ἄστυ καί κε[ν Ἐλευ]σῖνος θεῖον ἰδοι[..λό]φον
 
 ### book 675A
 

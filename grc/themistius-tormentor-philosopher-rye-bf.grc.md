@@ -4,7 +4,7 @@ title_greek: Βασανιστὴς ἢ φιλόσοφος
 author: Themistius the Philosopher
 eul_wid: rye-bf
 eul_aid: rye
-canonical: "https://eulogikon.org/grc/themistius/tormentor-philosopher"
+canonical: "https://eulogikon.org/works/themistius-tormentor-philosopher-rye-bf"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Themistius the Philosopher
 
-**eul_wid:** `rye-bf` · [HTML page](https://eulogikon.org/grc/themistius/tormentor-philosopher)
+**eul_wid:** `rye-bf` · [HTML page](https://eulogikon.org/works/themistius-tormentor-philosopher-rye-bf)
 
 ## Text
 

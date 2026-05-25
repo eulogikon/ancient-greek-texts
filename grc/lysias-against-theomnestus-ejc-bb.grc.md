@@ -4,7 +4,7 @@ title_greek: "κατὰ θεομνήστου, Α"
 author: Lysias the Orator
 eul_wid: ejc-bb
 eul_aid: ejc
-canonical: "https://eulogikon.org/grc/lysias/against-theomnestus"
+canonical: "https://eulogikon.org/works/lysias-against-theomnestus-ejc-bb"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lysias the Orator
 
-**eul_wid:** `ejc-bb` · [HTML page](https://eulogikon.org/grc/lysias/against-theomnestus)
+**eul_wid:** `ejc-bb` · [HTML page](https://eulogikon.org/works/lysias-against-theomnestus-ejc-bb)
 
 ## Text
 

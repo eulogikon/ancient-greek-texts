@@ -4,7 +4,7 @@ title_greek: Περὶ διαφορᾶς λέξεων
 author: Ptolemy of Ascalon
 eul_wid: oyc-aa
 eul_aid: oyc
-canonical: "https://eulogikon.org/grc/ptolemy-of-ascalon/difference-words-element"
+canonical: "https://eulogikon.org/works/ptolemy-ascalon-difference-words-element-oyc-aa"
 period: Roman
 dialect: Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ptolemy of Ascalon
 
-**eul_wid:** `oyc-aa` · [HTML page](https://eulogikon.org/grc/ptolemy-of-ascalon/difference-words-element)
+**eul_wid:** `oyc-aa` · [HTML page](https://eulogikon.org/works/ptolemy-ascalon-difference-words-element-oyc-aa)
 
 ## Text
 

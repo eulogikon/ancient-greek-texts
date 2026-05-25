@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Zaleucus of Locri
 eul_wid: aeg-aa
 eul_aid: aeg
-canonical: "https://eulogikon.org/grc/zaleucus-of-locri/preamble-laws"
+canonical: "https://eulogikon.org/works/zaleucus-locri-preamble-laws-aeg-aa"
 period: Archaic
 dialect: Doric
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Zaleucus of Locri
 
-**eul_wid:** `aeg-aa` · [HTML page](https://eulogikon.org/grc/zaleucus-of-locri/preamble-laws)
+**eul_wid:** `aeg-aa` · [HTML page](https://eulogikon.org/works/zaleucus-locri-preamble-laws-aeg-aa)
 
 ## Text
 

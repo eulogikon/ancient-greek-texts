@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Mnesimachus of Phaselis
 eul_wid: ekq-aa
 eul_aid: ekq
-canonical: "https://eulogikon.org/grc/mnesimachus-of-phaselis/scythians-cosmology"
+canonical: "https://eulogikon.org/works/mnesimachus-phaselis-scythians-cosmology-ekq-aa"
 period: Classical
 dialect: Ionic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Mnesimachus of Phaselis
 
-**eul_wid:** `ekq-aa` · [HTML page](https://eulogikon.org/grc/mnesimachus-of-phaselis/scythians-cosmology)
+**eul_wid:** `ekq-aa` · [HTML page](https://eulogikon.org/works/mnesimachus-phaselis-scythians-cosmology-ekq-aa)
 
 ## Text
 

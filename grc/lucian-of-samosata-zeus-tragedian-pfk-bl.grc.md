@@ -4,7 +4,7 @@ title_greek: Ζεὺς Τραγῳδός
 author: Lucian of Samosata
 eul_wid: pfk-bl
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/zeus-tragedian"
+canonical: "https://eulogikon.org/works/lucian-samosata-zeus-tragedian-pfk-bl"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-bl` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/zeus-tragedian)
+**eul_wid:** `pfk-bl` · [HTML page](https://eulogikon.org/works/lucian-samosata-zeus-tragedian-pfk-bl)
 
 ## Text
 

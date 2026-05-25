@@ -4,7 +4,7 @@ title_greek: Ζωσίμου τοῦ Πανοπολίτου γνησία γραφ
 author: Zosimus of Panopolis
 eul_wid: tyc-aj
 eul_aid: tyc
-canonical: "https://eulogikon.org/grc/zosimus-of-panopolis/genuine-divine-art"
+canonical: "https://eulogikon.org/works/zosimus-panopolis-genuine-divine-art-tyc-aj"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Zosimus of Panopolis
 
-**eul_wid:** `tyc-aj` · [HTML page](https://eulogikon.org/grc/zosimus-of-panopolis/genuine-divine-art)
+**eul_wid:** `tyc-aj` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-genuine-divine-art-tyc-aj)
 
 ## Text
 

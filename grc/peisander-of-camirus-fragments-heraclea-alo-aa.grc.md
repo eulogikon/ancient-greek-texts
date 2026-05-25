@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Ἡρακλείας
 author: Peisander of Camirus
 eul_wid: alo-aa
 eul_aid: alo
-canonical: "https://eulogikon.org/grc/peisander-of-camirus/fragments-heraclea"
+canonical: "https://eulogikon.org/works/peisander-camirus-fragments-heraclea-alo-aa"
 period: Archaic
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Peisander of Camirus
 
-**eul_wid:** `alo-aa` · [HTML page](https://eulogikon.org/grc/peisander-of-camirus/fragments-heraclea)
+**eul_wid:** `alo-aa` · [HTML page](https://eulogikon.org/works/peisander-camirus-fragments-heraclea-alo-aa)
 
 ## Text
 

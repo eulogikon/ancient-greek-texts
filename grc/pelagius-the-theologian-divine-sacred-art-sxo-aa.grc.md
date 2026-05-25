@@ -4,7 +4,7 @@ title_greek: Πελαγίου φιλοσόφου περὶ τῆς θείας τ
 author: Pelagius the Theologian
 eul_wid: sxo-aa
 eul_aid: sxo
-canonical: "https://eulogikon.org/grc/pelagius-the-theologian/divine-sacred-art"
+canonical: "https://eulogikon.org/works/pelagius-divine-sacred-art-sxo-aa"
 period: Late Antique
 dialect: Christian Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pelagius the Theologian
 
-**eul_wid:** `sxo-aa` · [HTML page](https://eulogikon.org/grc/pelagius-the-theologian/divine-sacred-art)
+**eul_wid:** `sxo-aa` · [HTML page](https://eulogikon.org/works/pelagius-divine-sacred-art-sxo-aa)
 
 ## Text
 

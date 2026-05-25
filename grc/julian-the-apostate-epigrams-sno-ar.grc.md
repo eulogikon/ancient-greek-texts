@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Julian the Apostate
 eul_wid: sno-ar
 eul_aid: sno
-canonical: "https://eulogikon.org/grc/julian-the-apostate/epigrams"
+canonical: "https://eulogikon.org/works/julian-apostate-epigrams-sno-ar"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Julian the Apostate
 
-**eul_wid:** `sno-ar` · [HTML page](https://eulogikon.org/grc/julian-the-apostate/epigrams)
+**eul_wid:** `sno-ar` · [HTML page](https://eulogikon.org/works/julian-apostate-epigrams-sno-ar)
 
 ## Text
 

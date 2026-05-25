@@ -4,7 +4,7 @@ title_greek: Φορωνίς
 author: "Phoronis "
 eul_wid: axw-aa
 eul_aid: axw
-canonical: "https://eulogikon.org/grc/phoronis/fragments"
+canonical: "https://eulogikon.org/works/phoronis-fragments-axw-aa"
 period: Archaic
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Phoronis 
 
-**eul_wid:** `axw-aa` · [HTML page](https://eulogikon.org/grc/phoronis/fragments)
+**eul_wid:** `axw-aa` · [HTML page](https://eulogikon.org/works/phoronis-fragments-axw-aa)
 
 ## Text
 
@@ -68,7 +68,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 6
 
-οὐδ’ ἔτι κούρ[η] ἀρκέσει ἐγρεμάχη [δο]λιχάορος ἀ̣γρομέ[νοισιν]
+οὐδ’ ἔτι κούρ[η] ἀρκέσει ἐγρεμάχη [δο]λιχάορος ἀγρομέ[νοισιν]
 
 ## License and provenance
 

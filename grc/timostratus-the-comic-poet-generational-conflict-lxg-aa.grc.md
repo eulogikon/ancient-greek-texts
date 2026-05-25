@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Timostratus the Comic Poet
 eul_wid: lxg-aa
 eul_aid: lxg
-canonical: "https://eulogikon.org/grc/timostratus-the-comic-poet/generational-conflict"
+canonical: "https://eulogikon.org/works/timostratus-generational-conflict-lxg-aa"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Timostratus the Comic Poet
 
-**eul_wid:** `lxg-aa` · [HTML page](https://eulogikon.org/grc/timostratus-the-comic-poet/generational-conflict)
+**eul_wid:** `lxg-aa` · [HTML page](https://eulogikon.org/works/timostratus-generational-conflict-lxg-aa)
 
 ## Text
 

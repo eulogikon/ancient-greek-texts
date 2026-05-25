@@ -4,7 +4,7 @@ title_greek: Περὶ τροφῆς
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-bf
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/nourishment"
+canonical: "https://eulogikon.org/works/hippocrates-nourishment-bww-bf"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-bf` · [HTML page](https://eulogikon.org/grc/hippocrates/nourishment)
+**eul_wid:** `bww-bf` · [HTML page](https://eulogikon.org/works/hippocrates-nourishment-bww-bf)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Sophocles
 eul_wid: buo-af
 eul_aid: buo
-canonical: "https://eulogikon.org/grc/sophocles/euripides-love"
+canonical: "https://eulogikon.org/works/sophocles-euripides-love-buo-af"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sophocles
 
-**eul_wid:** `buo-af` · [HTML page](https://eulogikon.org/grc/sophocles/euripides-love)
+**eul_wid:** `buo-af` · [HTML page](https://eulogikon.org/works/sophocles-euripides-love-buo-af)
 
 ## Text
 
@@ -32,7 +32,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.2
 
-χλιαίνων [para]γυμνὸν ἐποίησεν· σοὶ δὲ φιλοῦντι †ἑταίραν Βορρᾶς ὡμίλησε. σὺ δ’ οὐ σοφός, ὃς τὸν Ἔρωτα, ἀλλοτρίαν
+χλιαίνων [para]γυμνὸν ἐποίησεν· σοὶ δὲ φιλοῦντι ἑταίραν Βορρᾶς ὡμίλησε. σὺ δ’ οὐ σοφός, ὃς τὸν Ἔρωτα, ἀλλοτρίαν
 
 ### book 4.3
 

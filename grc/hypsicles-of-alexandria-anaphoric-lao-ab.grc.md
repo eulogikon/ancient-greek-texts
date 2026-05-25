@@ -4,7 +4,7 @@ title_greek: Ἀναφορικός
 author: Hypsicles of Alexandria
 eul_wid: lao-ab
 eul_aid: lao
-canonical: "https://eulogikon.org/grc/hypsicles-of-alexandria/anaphoric"
+canonical: "https://eulogikon.org/works/hypsicles-alexandria-anaphoric-lao-ab"
 period: Hellenistic
 dialect: Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hypsicles of Alexandria
 
-**eul_wid:** `lao-ab` · [HTML page](https://eulogikon.org/grc/hypsicles-of-alexandria/anaphoric)
+**eul_wid:** `lao-ab` · [HTML page](https://eulogikon.org/works/hypsicles-alexandria-anaphoric-lao-ab)
 
 ## Text
 

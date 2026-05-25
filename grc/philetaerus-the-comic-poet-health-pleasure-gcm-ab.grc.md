@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ὑγιείας καὶ Ἡδον
 author: Philetaerus the Comic Poet
 eul_wid: gcm-ab
 eul_aid: gcm
-canonical: "https://eulogikon.org/grc/philetaerus-the-comic-poet/health-pleasure"
+canonical: "https://eulogikon.org/works/philetaerus-health-pleasure-gcm-ab"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philetaerus the Comic Poet
 
-**eul_wid:** `gcm-ab` · [HTML page](https://eulogikon.org/grc/philetaerus-the-comic-poet/health-pleasure)
+**eul_wid:** `gcm-ab` · [HTML page](https://eulogikon.org/works/philetaerus-health-pleasure-gcm-ab)
 
 ## Text
 

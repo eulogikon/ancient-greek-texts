@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα καὶ Ἀποσπάσματα
 author: Julian the Apostate
 eul_wid: sno-ai
 eul_aid: sno
-canonical: "https://eulogikon.org/grc/julian-the-apostate/short-poems"
+canonical: "https://eulogikon.org/works/julian-apostate-short-poems-sno-ai"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Julian the Apostate
 
-**eul_wid:** `sno-ai` · [HTML page](https://eulogikon.org/grc/julian-the-apostate/short-poems)
+**eul_wid:** `sno-ai` · [HTML page](https://eulogikon.org/works/julian-apostate-short-poems-sno-ai)
 
 ## Text
 

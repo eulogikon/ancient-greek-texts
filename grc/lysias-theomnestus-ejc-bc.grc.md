@@ -4,7 +4,7 @@ title_greek: κατὰ Θεομνήστου Β
 author: Lysias the Orator
 eul_wid: ejc-bc
 eul_aid: ejc
-canonical: "https://eulogikon.org/grc/lysias/theomnestus"
+canonical: "https://eulogikon.org/works/lysias-theomnestus-ejc-bc"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lysias the Orator
 
-**eul_wid:** `ejc-bc` · [HTML page](https://eulogikon.org/grc/lysias/theomnestus)
+**eul_wid:** `ejc-bc` · [HTML page](https://eulogikon.org/works/lysias-theomnestus-ejc-bc)
 
 ## Text
 

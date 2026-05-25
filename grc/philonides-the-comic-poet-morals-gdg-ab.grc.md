@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἠθικῶν
 author: Philonides the Comic Poet
 eul_wid: gdg-ab
 eul_aid: gdg
-canonical: "https://eulogikon.org/grc/philonides-the-comic-poet/morals"
+canonical: "https://eulogikon.org/works/philonides-comic-morals-gdg-ab"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philonides the Comic Poet
 
-**eul_wid:** `gdg-ab` · [HTML page](https://eulogikon.org/grc/philonides-the-comic-poet/morals)
+**eul_wid:** `gdg-ab` · [HTML page](https://eulogikon.org/works/philonides-comic-morals-gdg-ab)
 
 ## Text
 

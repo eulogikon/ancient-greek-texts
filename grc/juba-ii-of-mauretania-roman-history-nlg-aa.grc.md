@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Juba II of Mauretania
 eul_wid: nlg-aa
 eul_aid: nlg
-canonical: "https://eulogikon.org/grc/juba-ii-of-mauretania/roman-history"
+canonical: "https://eulogikon.org/works/juba-ii-mauretania-roman-history-nlg-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Juba II of Mauretania
 
-**eul_wid:** `nlg-aa` · [HTML page](https://eulogikon.org/grc/juba-ii-of-mauretania/roman-history)
+**eul_wid:** `nlg-aa` · [HTML page](https://eulogikon.org/works/juba-ii-mauretania-roman-history-nlg-aa)
 
 ## Text
 

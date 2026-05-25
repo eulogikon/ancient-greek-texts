@@ -4,7 +4,7 @@ title_greek: Ἑρμηνεία περὶ ἐνεργῶν λίθων
 author: Pseudo-Hippocrates
 eul_wid: oyw-ad
 eul_aid: oyw
-canonical: "https://eulogikon.org/grc/pseudo-hippocrates/interpretative-stones"
+canonical: "https://eulogikon.org/works/pseudo-hippocrates-interpretative-stones-oyw-ad"
 period: Roman
 dialect: Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pseudo-Hippocrates
 
-**eul_wid:** `oyw-ad` · [HTML page](https://eulogikon.org/grc/pseudo-hippocrates/interpretative-stones)
+**eul_wid:** `oyw-ad` · [HTML page](https://eulogikon.org/works/pseudo-hippocrates-interpretative-stones-oyw-ad)
 
 ## Text
 

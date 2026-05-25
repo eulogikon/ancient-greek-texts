@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Τροφῆς καὶ Γάμου
 author: Philippides the Comic Poet
 eul_wid: hgc-ab
 eul_aid: hgc
-canonical: "https://eulogikon.org/grc/philippides-the-comic-poet/food-marriage-fragments"
+canonical: "https://eulogikon.org/works/philippides-food-marriage-fragments-hgc-ab"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philippides the Comic Poet
 
-**eul_wid:** `hgc-ab` · [HTML page](https://eulogikon.org/grc/philippides-the-comic-poet/food-marriage-fragments)
+**eul_wid:** `hgc-ab` · [HTML page](https://eulogikon.org/works/philippides-food-marriage-fragments-hgc-ab)
 
 ## Text
 

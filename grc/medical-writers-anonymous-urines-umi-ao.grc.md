@@ -4,7 +4,7 @@ title_greek: Ὑπόμνημα εἰς Οὖρα
 author: Medical Writers Anonymous
 eul_wid: umi-ao
 eul_aid: umi
-canonical: "https://eulogikon.org/grc/medical-writers-anonymous/urines"
+canonical: "https://eulogikon.org/works/med-writers-anon-urines-umi-ao"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Medical Writers Anonymous
 
-**eul_wid:** `umi-ao` · [HTML page](https://eulogikon.org/grc/medical-writers-anonymous/urines)
+**eul_wid:** `umi-ao` · [HTML page](https://eulogikon.org/works/med-writers-anon-urines-umi-ao)
 
 ## Text
 

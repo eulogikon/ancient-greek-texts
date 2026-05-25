@@ -4,7 +4,7 @@ title_greek: Ἀλεξάνδρα
 author: Lycophron of Chalcis
 eul_wid: ifw-aa
 eul_aid: ifw
-canonical: "https://eulogikon.org/grc/lycophron-of-chalcis/alexandra"
+canonical: "https://eulogikon.org/works/lycophron-chalcis-alexandra-ifw-aa"
 period: Hellenistic
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lycophron of Chalcis
 
-**eul_wid:** `ifw-aa` · [HTML page](https://eulogikon.org/grc/lycophron-of-chalcis/alexandra)
+**eul_wid:** `ifw-aa` · [HTML page](https://eulogikon.org/works/lycophron-chalcis-alexandra-ifw-aa)
 
 ## Text
 

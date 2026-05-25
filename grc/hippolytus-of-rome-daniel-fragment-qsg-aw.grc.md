@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα περὶ Δανιήλ
 author: Hippolytus of Rome
 eul_wid: qsg-aw
 eul_aid: qsg
-canonical: "https://eulogikon.org/grc/hippolytus-of-rome/daniel-fragment"
+canonical: "https://eulogikon.org/works/hippolytus-rome-daniel-fragment-qsg-aw"
 period: Roman
 dialect: Christian Koine
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippolytus of Rome
 
-**eul_wid:** `qsg-aw` · [HTML page](https://eulogikon.org/grc/hippolytus-of-rome/daniel-fragment)
+**eul_wid:** `qsg-aw` · [HTML page](https://eulogikon.org/works/hippolytus-rome-daniel-fragment-qsg-aw)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Εὐρώπης
 author: Mnaseas of Patara
 eul_wid: kpu-aa
 eul_aid: kpu
-canonical: "https://eulogikon.org/grc/mnaseas-of-patara/europe"
+canonical: "https://eulogikon.org/works/mnaseas-patara-europe-kpu-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: Geography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Mnaseas of Patara
 
-**eul_wid:** `kpu-aa` · [HTML page](https://eulogikon.org/grc/mnaseas-of-patara/europe)
+**eul_wid:** `kpu-aa` · [HTML page](https://eulogikon.org/works/mnaseas-patara-europe-kpu-aa)
 
 ## Text
 

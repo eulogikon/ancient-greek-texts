@@ -4,7 +4,7 @@ title_greek: Ἰωσήπου βίος
 author: Josephus the Historian
 eul_wid: ofq-ac
 eul_aid: ofq
-canonical: "https://eulogikon.org/grc/josephus/josephus-life"
+canonical: "https://eulogikon.org/works/josephus-josephus-life-ofq-ac"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Josephus the Historian
 
-**eul_wid:** `ofq-ac` · [HTML page](https://eulogikon.org/grc/josephus/josephus-life)
+**eul_wid:** `ofq-ac` · [HTML page](https://eulogikon.org/works/josephus-josephus-life-ofq-ac)
 
 ## Text
 

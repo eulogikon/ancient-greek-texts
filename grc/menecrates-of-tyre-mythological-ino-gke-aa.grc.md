@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἰνοῦς
 author: Menecrates of Tyre
 eul_wid: gke-aa
 eul_aid: gke
-canonical: "https://eulogikon.org/grc/menecrates-of-tyre/mythological-ino"
+canonical: "https://eulogikon.org/works/menecrates-tyre-mythological-ino-gke-aa"
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menecrates of Tyre
 
-**eul_wid:** `gke-aa` · [HTML page](https://eulogikon.org/grc/menecrates-of-tyre/mythological-ino)
+**eul_wid:** `gke-aa` · [HTML page](https://eulogikon.org/works/menecrates-tyre-mythological-ino-gke-aa)
 
 ## Text
 

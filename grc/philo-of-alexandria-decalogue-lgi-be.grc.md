@@ -4,7 +4,7 @@ title_greek: Περὶ τοῦ Δεκαλόγου
 author: Philo of Alexandria
 eul_wid: lgi-be
 eul_aid: lgi
-canonical: "https://eulogikon.org/grc/philo-of-alexandria/decalogue"
+canonical: "https://eulogikon.org/works/philo-alexandria-decalogue-lgi-be"
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philo of Alexandria
 
-**eul_wid:** `lgi-be` · [HTML page](https://eulogikon.org/grc/philo-of-alexandria/decalogue)
+**eul_wid:** `lgi-be` · [HTML page](https://eulogikon.org/works/philo-alexandria-decalogue-lgi-be)
 
 ## Text
 

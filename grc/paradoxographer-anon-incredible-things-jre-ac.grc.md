@@ -4,7 +4,7 @@ title_greek: Περὶ ἀπίστων
 author: Paradoxographer Anonymous
 eul_wid: jre-ac
 eul_aid: jre
-canonical: "https://eulogikon.org/grc/paradoxographer-anon/incredible-things"
+canonical: "https://eulogikon.org/works/paradoxographer-anon-incredible-things-jre-ac"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Paradoxographer Anonymous
 
-**eul_wid:** `jre-ac` · [HTML page](https://eulogikon.org/grc/paradoxographer-anon/incredible-things)
+**eul_wid:** `jre-ac` · [HTML page](https://eulogikon.org/works/paradoxographer-anon-incredible-things-jre-ac)
 
 ## Text
 

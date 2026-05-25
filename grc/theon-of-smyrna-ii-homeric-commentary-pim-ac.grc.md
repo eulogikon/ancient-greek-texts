@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Theon of Smyrna II
 eul_wid: pim-ac
 eul_aid: pim
-canonical: "https://eulogikon.org/grc/theon-of-smyrna-ii/homeric-commentary"
+canonical: "https://eulogikon.org/works/theon-smyrna-homeric-commentary-pim-ac"
 period: Roman
 dialect: Atticizing Technical
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theon of Smyrna II
 
-**eul_wid:** `pim-ac` · [HTML page](https://eulogikon.org/grc/theon-of-smyrna-ii/homeric-commentary)
+**eul_wid:** `pim-ac` · [HTML page](https://eulogikon.org/works/theon-smyrna-homeric-commentary-pim-ac)
 
 ## Text
 

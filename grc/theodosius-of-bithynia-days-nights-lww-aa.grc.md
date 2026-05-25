@@ -4,7 +4,7 @@ title_greek: Περὶ ἡμερῶν καὶ νυκτῶν
 author: Theodosius of Bithynia
 eul_wid: lww-aa
 eul_aid: lww
-canonical: "https://eulogikon.org/grc/theodosius-of-bithynia/days-nights"
+canonical: "https://eulogikon.org/works/theodosius-bithynia-days-nights-lww-aa"
 period: Hellenistic
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theodosius of Bithynia
 
-**eul_wid:** `lww-aa` · [HTML page](https://eulogikon.org/grc/theodosius-of-bithynia/days-nights)
+**eul_wid:** `lww-aa` · [HTML page](https://eulogikon.org/works/theodosius-bithynia-days-nights-lww-aa)
 
 ## Text
 

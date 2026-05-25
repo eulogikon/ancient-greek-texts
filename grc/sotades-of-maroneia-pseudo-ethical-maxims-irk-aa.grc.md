@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἠθικῶν Γνωμῶν
 author: Sotades of Maroneia Pseudo
 eul_wid: irk-aa
 eul_aid: irk
-canonical: "https://eulogikon.org/grc/sotades-of-maroneia-pseudo/ethical-maxims"
+canonical: "https://eulogikon.org/works/sotades-maroneia-ethical-maxims-irk-aa"
 period: Hellenistic
 dialect: Ionic
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sotades of Maroneia Pseudo
 
-**eul_wid:** `irk-aa` · [HTML page](https://eulogikon.org/grc/sotades-of-maroneia-pseudo/ethical-maxims)
+**eul_wid:** `irk-aa` · [HTML page](https://eulogikon.org/works/sotades-maroneia-ethical-maxims-irk-aa)
 
 ## Text
 

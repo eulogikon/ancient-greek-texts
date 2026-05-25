@@ -4,7 +4,7 @@ title_greek: "Μαρτυρίαι Β'"
 author: Hippias of Elis
 eul_wid: dqg-ab
 eul_aid: dqg
-canonical: "https://eulogikon.org/grc/hippias-of-elis/testimonies-2"
+canonical: "https://eulogikon.org/works/hippias-elis-testimonies-2-dqg-ab"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippias of Elis
 
-**eul_wid:** `dqg-ab` · [HTML page](https://eulogikon.org/grc/hippias-of-elis/testimonies-2)
+**eul_wid:** `dqg-ab` · [HTML page](https://eulogikon.org/works/hippias-elis-testimonies-2-dqg-ab)
 
 ## Text
 

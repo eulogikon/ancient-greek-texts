@@ -4,7 +4,7 @@ title_greek: Ἐπιστολαὶ Ἀμφίβολοι
 author: Julian the Apostate
 eul_wid: sno-ao
 eul_aid: sno
-canonical: "https://eulogikon.org/grc/julian-the-apostate/dubious-letters"
+canonical: "https://eulogikon.org/works/julian-apostate-dubious-letters-sno-ao"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Julian the Apostate
 
-**eul_wid:** `sno-ao` · [HTML page](https://eulogikon.org/grc/julian-the-apostate/dubious-letters)
+**eul_wid:** `sno-ao` · [HTML page](https://eulogikon.org/works/julian-apostate-dubious-letters-sno-ao)
 
 ## Text
 

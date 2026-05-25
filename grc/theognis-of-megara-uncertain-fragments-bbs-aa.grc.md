@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα ἀδήλου θέσεως
 author: Theognis of Megara
 eul_wid: bbs-aa
 eul_aid: bbs
-canonical: "https://eulogikon.org/grc/theognis-of-megara/uncertain-fragments"
+canonical: "https://eulogikon.org/works/theognis-megara-uncertain-fragments-bbs-aa"
 period: Archaic
 dialect: Ionic Elegiac
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theognis of Megara
 
-**eul_wid:** `bbs-aa` · [HTML page](https://eulogikon.org/grc/theognis-of-megara/uncertain-fragments)
+**eul_wid:** `bbs-aa` · [HTML page](https://eulogikon.org/works/theognis-megara-uncertain-fragments-bbs-aa)
 
 ## Text
 

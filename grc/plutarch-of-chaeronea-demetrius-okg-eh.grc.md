@@ -4,7 +4,7 @@ title_greek: Δημήτριος
 author: Plutarch of Chaeronea
 eul_wid: okg-eh
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/demetrius"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-demetrius-okg-eh"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-eh` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/demetrius)
+**eul_wid:** `okg-eh` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-demetrius-okg-eh)
 
 ## Text
 
@@ -760,7 +760,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### Demetr 36 10
 
-φυλάττεσθαι γὰρ ὀκνῶν, ὡς μὴ κἀκεῖνον ἀντιφυλάττεσθαι διδάξῃ, παθὼν ἔφθασε, † δρᾶν μέλλοντος αὐτοῦ μὴ διαφυγεῖν ἐκεῖνον †, ὃ ἐμηχανᾶτο. κληθεὶς γὰρ ἐπὶ δεῖπνον ἦλθε πρὸς τὸν Δημήτριον.
+φυλάττεσθαι γὰρ ὀκνῶν, ὡς μὴ κἀκεῖνον ἀντιφυλάττεσθαι διδάξῃ, παθὼν ἔφθασε, δρᾶν μέλλοντος αὐτοῦ μὴ διαφυγεῖν ἐκεῖνον , ὃ ἐμηχανᾶτο. κληθεὶς γὰρ ἐπὶ δεῖπνον ἦλθε πρὸς τὸν Δημήτριον.
 
 ### Demetr 36 11
 

@@ -4,7 +4,7 @@ title_greek: Ολυμπιακός
 author: Lysias the Orator
 eul_wid: ejc-bj
 eul_aid: ejc
-canonical: "https://eulogikon.org/grc/lysias/olympic"
+canonical: "https://eulogikon.org/works/lysias-olympic-ejc-bj"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lysias the Orator
 
-**eul_wid:** `ejc-bj` · [HTML page](https://eulogikon.org/grc/lysias/olympic)
+**eul_wid:** `ejc-bj` · [HTML page](https://eulogikon.org/works/lysias-olympic-ejc-bj)
 
 ## Text
 

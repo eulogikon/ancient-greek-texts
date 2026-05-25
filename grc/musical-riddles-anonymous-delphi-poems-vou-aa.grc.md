@@ -4,7 +4,7 @@ title_greek: Ποιήματα ἐν Δελφοῖς εὑρεθέντα
 author: Collection of Musical Riddles Anonymous
 eul_wid: vou-aa
 eul_aid: vou
-canonical: "https://eulogikon.org/grc/musical-riddles-anonymous/delphi-poems"
+canonical: "https://eulogikon.org/works/anon-mus-riddles-delphi-poems-vou-aa"
 period: Late Antique
 dialect: Mixed Dialects
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Collection of Musical Riddles Anonymous
 
-**eul_wid:** `vou-aa` · [HTML page](https://eulogikon.org/grc/musical-riddles-anonymous/delphi-poems)
+**eul_wid:** `vou-aa` · [HTML page](https://eulogikon.org/works/anon-mus-riddles-delphi-poems-vou-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἐννεάδες
 author: Plotinus the Neoplatonist
 eul_wid: rlc-aa
 eul_aid: rlc
-canonical: "https://eulogikon.org/grc/plotinus/enneads"
+canonical: "https://eulogikon.org/works/plotinus-enneads-rlc-aa"
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plotinus the Neoplatonist
 
-**eul_wid:** `rlc-aa` · [HTML page](https://eulogikon.org/grc/plotinus/enneads)
+**eul_wid:** `rlc-aa` · [HTML page](https://eulogikon.org/works/plotinus-enneads-rlc-aa)
 
 ## Text
 

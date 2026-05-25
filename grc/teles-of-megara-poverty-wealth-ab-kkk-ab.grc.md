@@ -4,7 +4,7 @@ title_greek: Περὶ συγκρίσεως πενίας καὶ πλούτου
 author: Teles of Megara
 eul_wid: kkk-ab
 eul_aid: kkk
-canonical: "https://eulogikon.org/grc/teles-of-megara/poverty-wealth-ab"
+canonical: "https://eulogikon.org/works/teles-megara-poverty-wealth-kkk-ab"
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Teles of Megara
 
-**eul_wid:** `kkk-ab` · [HTML page](https://eulogikon.org/grc/teles-of-megara/poverty-wealth-ab)
+**eul_wid:** `kkk-ab` · [HTML page](https://eulogikon.org/works/teles-megara-poverty-wealth-kkk-ab)
 
 ## Text
 

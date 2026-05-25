@@ -4,7 +4,7 @@ title_greek: Πυρρώνειαι Ὑποτυπώσεις
 author: Sextus the Empiricist
 eul_wid: qou-ab
 eul_aid: qou
-canonical: "https://eulogikon.org/grc/sextus-empiricus/outlines-pyrrhonism"
+canonical: "https://eulogikon.org/works/sextus-empiricus-outlines-pyrrhonism-qou-ab"
 period: Roman
 dialect: Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sextus the Empiricist
 
-**eul_wid:** `qou-ab` · [HTML page](https://eulogikon.org/grc/sextus-empiricus/outlines-pyrrhonism)
+**eul_wid:** `qou-ab` · [HTML page](https://eulogikon.org/works/sextus-empiricus-outlines-pyrrhonism-qou-ab)
 
 ## Text
 

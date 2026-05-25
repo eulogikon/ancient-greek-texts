@@ -4,7 +4,7 @@ title_greek: Τιμολέων
 author: Plutarch of Chaeronea
 eul_wid: okg-ev
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/timoleon"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-timoleon-okg-ev"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-ev` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/timoleon)
+**eul_wid:** `okg-ev` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-timoleon-okg-ev)
 
 ## Text
 
@@ -572,7 +572,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### Tim 30 9
 
-ἀφικόμενοι δ’ εἰς Σικελίαν, ὅσας μὲν ἐκείνῳ συνηγωνίσαντο μάχας, πάσας ἐνίκων, τῶν δὲ πλείστων καὶ μεγίστων ἀγώνων τέλος ἐχόντων, ἐκπεμπόμενοι πρὸς ἑτέρας ὑπ’ αὐτοῦ βοηθείας ἀπώλοντο καὶ καταναλώθησαν, οὐχ ὁμοῦ πάντες, ἀλλὰ κατὰ μέρος τῆς δίκης αὐτοῖς † ἀπολογουμένης τῇ Τιμολέοντος εὐτυχίᾳ † ἐπιτιθεμένης, ὅπως μηδεμία τοῖς ἀγαθοῖς ἀπὸ τῆς τῶν κακῶν κολάσεως βλάβη γένηται.
+ἀφικόμενοι δ’ εἰς Σικελίαν, ὅσας μὲν ἐκείνῳ συνηγωνίσαντο μάχας, πάσας ἐνίκων, τῶν δὲ πλείστων καὶ μεγίστων ἀγώνων τέλος ἐχόντων, ἐκπεμπόμενοι πρὸς ἑτέρας ὑπ’ αὐτοῦ βοηθείας ἀπώλοντο καὶ καταναλώθησαν, οὐχ ὁμοῦ πάντες, ἀλλὰ κατὰ μέρος τῆς δίκης αὐτοῖς ἀπολογουμένης τῇ Τιμολέοντος εὐτυχίᾳ ἐπιτιθεμένης, ὅπως μηδεμία τοῖς ἀγαθοῖς ἀπὸ τῆς τῶν κακῶν κολάσεως βλάβη γένηται.
 
 ### Tim 30 10
 

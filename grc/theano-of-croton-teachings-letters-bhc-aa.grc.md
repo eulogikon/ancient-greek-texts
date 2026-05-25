@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: "Theano of Croton "
 eul_wid: bhc-aa
 eul_aid: bhc
-canonical: "https://eulogikon.org/grc/theano-of-croton/teachings-letters"
+canonical: "https://eulogikon.org/works/theano-croton-teachings-letters-bhc-aa"
 period: Archaic
 dialect: Ionic (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theano of Croton 
 
-**eul_wid:** `bhc-aa` · [HTML page](https://eulogikon.org/grc/theano-of-croton/teachings-letters)
+**eul_wid:** `bhc-aa` · [HTML page](https://eulogikon.org/works/theano-croton-teachings-letters-bhc-aa)
 
 ## Text
 

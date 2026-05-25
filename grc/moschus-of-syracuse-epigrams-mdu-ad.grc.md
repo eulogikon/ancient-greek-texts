@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Moschus of Syracuse
 eul_wid: mdu-ad
 eul_aid: mdu
-canonical: "https://eulogikon.org/grc/moschus-of-syracuse/epigrams"
+canonical: "https://eulogikon.org/works/moschus-syracuse-epigrams-mdu-ad"
 period: Hellenistic
 dialect: Doric Bucolic
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Moschus of Syracuse
 
-**eul_wid:** `mdu-ad` · [HTML page](https://eulogikon.org/grc/moschus-of-syracuse/epigrams)
+**eul_wid:** `mdu-ad` · [HTML page](https://eulogikon.org/works/moschus-syracuse-epigrams-mdu-ad)
 
 ## Text
 

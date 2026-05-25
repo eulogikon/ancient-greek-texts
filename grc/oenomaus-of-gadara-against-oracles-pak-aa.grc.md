@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Χρηστηρίων
 author: Oenomaus of Gadara
 eul_wid: pak-aa
 eul_aid: pak
-canonical: "https://eulogikon.org/grc/oenomaus-of-gadara/against-oracles"
+canonical: "https://eulogikon.org/works/oenomaus-gadara-against-oracles-pak-aa"
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Oenomaus of Gadara
 
-**eul_wid:** `pak-aa` · [HTML page](https://eulogikon.org/grc/oenomaus-of-gadara/against-oracles)
+**eul_wid:** `pak-aa` · [HTML page](https://eulogikon.org/works/oenomaus-gadara-against-oracles-pak-aa)
 
 ## Text
 

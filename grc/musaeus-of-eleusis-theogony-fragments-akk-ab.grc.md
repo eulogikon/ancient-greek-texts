@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Θεογονίας
 author: Musaeus of Eleusis
 eul_wid: akk-ab
 eul_aid: akk
-canonical: "https://eulogikon.org/grc/musaeus-of-eleusis/theogony-fragments"
+canonical: "https://eulogikon.org/works/musaeus-eleusis-theogony-fragments-akk-ab"
 period: Archaic
 dialect: Epic (Homeric)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Musaeus of Eleusis
 
-**eul_wid:** `akk-ab` · [HTML page](https://eulogikon.org/grc/musaeus-of-eleusis/theogony-fragments)
+**eul_wid:** `akk-ab` · [HTML page](https://eulogikon.org/works/musaeus-eleusis-theogony-fragments-akk-ab)
 
 ## Text
 

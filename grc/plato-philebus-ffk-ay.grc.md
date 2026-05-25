@@ -4,7 +4,7 @@ title_greek: Φίληβος
 author: Plato of Athens
 eul_wid: ffk-ay
 eul_aid: ffk
-canonical: "https://eulogikon.org/grc/plato/philebus"
+canonical: "https://eulogikon.org/works/plato-philebus-ffk-ay"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plato of Athens
 
-**eul_wid:** `ffk-ay` · [HTML page](https://eulogikon.org/grc/plato/philebus)
+**eul_wid:** `ffk-ay` · [HTML page](https://eulogikon.org/works/plato-philebus-ffk-ay)
 
 ## Text
 
@@ -6674,7 +6674,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **ΣΩ**
 
-Πάντῃ δὴ φήσεις, ὦ Πρώταρχε, ὑπό τε ἀγγέλων πέμπων καὶ παροῦσι φράζων, ὡς ἡδονὴ κτῆμα οὐκ ἔστι πρῶτον οὐδ’ αὖ δεύτερον, ἀλλὰ πρῶτον μέν πῃ περὶ μέτρον καὶ τὸ μέτριον καὶ καίριον καὶ πάντα ὁπόσα χρὴ τοιαῦτα νομίζειν, τὴν †ἀίδιον ᾑρῆσθαι.
+Πάντῃ δὴ φήσεις, ὦ Πρώταρχε, ὑπό τε ἀγγέλων πέμπων καὶ παροῦσι φράζων, ὡς ἡδονὴ κτῆμα οὐκ ἔστι πρῶτον οὐδ’ αὖ δεύτερον, ἀλλὰ πρῶτον μέν πῃ περὶ μέτρον καὶ τὸ μέτριον καὶ καίριον καὶ πάντα ὁπόσα χρὴ τοιαῦτα νομίζειν, τὴν ἀίδιον ᾑρῆσθαι.
 
 ### Phileb.66.b
 

@@ -4,7 +4,7 @@ title_greek: Εἰς τὴν μητέρα τῶν θεῶν
 author: Julian the Apostate
 eul_wid: sno-aj
 eul_aid: sno
-canonical: "https://eulogikon.org/grc/julian-the-apostate/mother-of-gods"
+canonical: "https://eulogikon.org/works/julian-apostate-mother-of-gods-sno-aj"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Julian the Apostate
 
-**eul_wid:** `sno-aj` · [HTML page](https://eulogikon.org/grc/julian-the-apostate/mother-of-gods)
+**eul_wid:** `sno-aj` · [HTML page](https://eulogikon.org/works/julian-apostate-mother-of-gods-sno-aj)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Philippus of Theangela
 eul_wid: hoy-aa
 eul_aid: hoy
-canonical: "https://eulogikon.org/grc/philippus-of-theangela/carians-leleges"
+canonical: "https://eulogikon.org/works/philippus-theangela-carians-leleges-hoy-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philippus of Theangela
 
-**eul_wid:** `hoy-aa` · [HTML page](https://eulogikon.org/grc/philippus-of-theangela/carians-leleges)
+**eul_wid:** `hoy-aa` · [HTML page](https://eulogikon.org/works/philippus-theangela-carians-leleges-hoy-aa)
 
 ## Text
 

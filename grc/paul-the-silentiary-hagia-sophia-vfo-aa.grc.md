@@ -4,7 +4,7 @@ title_greek: Περὶ τῆς Ἁγίας Σοφίας
 author: Paul the Silentiary
 eul_wid: vfo-aa
 eul_aid: vfo
-canonical: "https://eulogikon.org/grc/paul-the-silentiary/hagia-sophia"
+canonical: "https://eulogikon.org/works/paul-silentiary-hagia-sophia-vfo-aa"
 period: Late Antique
 dialect: Koine
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Paul the Silentiary
 
-**eul_wid:** `vfo-aa` · [HTML page](https://eulogikon.org/grc/paul-the-silentiary/hagia-sophia)
+**eul_wid:** `vfo-aa` · [HTML page](https://eulogikon.org/works/paul-silentiary-hagia-sophia-vfo-aa)
 
 ## Text
 

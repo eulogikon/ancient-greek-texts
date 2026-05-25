@@ -4,7 +4,7 @@ title_greek: Εἰς τὸν βασιλέα Ἥλιον πρὸς Σαλούστ
 author: Julian the Apostate
 eul_wid: sno-ag
 eul_aid: sno
-canonical: "https://eulogikon.org/grc/julian-the-apostate/helios-salustius"
+canonical: "https://eulogikon.org/works/julian-apostate-helios-salustius-sno-ag"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Julian the Apostate
 
-**eul_wid:** `sno-ag` · [HTML page](https://eulogikon.org/grc/julian-the-apostate/helios-salustius)
+**eul_wid:** `sno-ag` · [HTML page](https://eulogikon.org/works/julian-apostate-helios-salustius-sno-ag)
 
 ## Text
 

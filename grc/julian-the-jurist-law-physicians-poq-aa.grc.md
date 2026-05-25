@@ -4,7 +4,7 @@ title_greek: Νόμος περὶ Ἰατρῶν
 author: Julian the Jurist
 eul_wid: poq-aa
 eul_aid: poq
-canonical: "https://eulogikon.org/grc/julian-the-jurist/law-physicians"
+canonical: "https://eulogikon.org/works/julian-jurist-law-physicians-poq-aa"
 period: Roman
 dialect: Technical Koine
 domain: Law
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Julian the Jurist
 
-**eul_wid:** `poq-aa` · [HTML page](https://eulogikon.org/grc/julian-the-jurist/law-physicians)
+**eul_wid:** `poq-aa` · [HTML page](https://eulogikon.org/works/julian-jurist-law-physicians-poq-aa)
 
 ## Text
 

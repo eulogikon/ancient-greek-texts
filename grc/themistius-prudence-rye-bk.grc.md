@@ -4,7 +4,7 @@ title_greek: Περὶ φρονήσεως
 author: Themistius the Philosopher
 eul_wid: rye-bk
 eul_aid: rye
-canonical: "https://eulogikon.org/grc/themistius/prudence"
+canonical: "https://eulogikon.org/works/themistius-prudence-rye-bk"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Themistius the Philosopher
 
-**eul_wid:** `rye-bk` · [HTML page](https://eulogikon.org/grc/themistius/prudence)
+**eul_wid:** `rye-bk` · [HTML page](https://eulogikon.org/works/themistius-prudence-rye-bk)
 
 ## Text
 

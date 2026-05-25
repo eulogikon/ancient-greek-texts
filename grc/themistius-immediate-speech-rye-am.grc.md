@@ -4,7 +4,7 @@ title_greek: Πρὸς τὸν ἀξιώσαντα λέγειν ἐκ τοῦ π
 author: Themistius the Philosopher
 eul_wid: rye-am
 eul_aid: rye
-canonical: "https://eulogikon.org/grc/themistius/immediate-speech"
+canonical: "https://eulogikon.org/works/themistius-immediate-speech-rye-am"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Themistius the Philosopher
 
-**eul_wid:** `rye-am` · [HTML page](https://eulogikon.org/grc/themistius/immediate-speech)
+**eul_wid:** `rye-am` · [HTML page](https://eulogikon.org/works/themistius-immediate-speech-rye-am)
 
 ## Text
 

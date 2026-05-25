@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Sophilus the Comic Poet
 eul_wid: gfo-ab
 eul_aid: gfo
-canonical: "https://eulogikon.org/grc/sophilus-the-comic-poet/symposium-revelry"
+canonical: "https://eulogikon.org/works/sophilus-symposium-revelry-gfo-ab"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sophilus the Comic Poet
 
-**eul_wid:** `gfo-ab` · [HTML page](https://eulogikon.org/grc/sophilus-the-comic-poet/symposium-revelry)
+**eul_wid:** `gfo-ab` · [HTML page](https://eulogikon.org/works/sophilus-symposium-revelry-gfo-ab)
 
 ## Text
 

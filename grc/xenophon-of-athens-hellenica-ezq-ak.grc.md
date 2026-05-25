@@ -4,7 +4,7 @@ title_greek: Ἑλληνικά
 author: Xenophon of Athens
 eul_wid: ezq-ak
 eul_aid: ezq
-canonical: "https://eulogikon.org/grc/xenophon-of-athens/hellenica"
+canonical: "https://eulogikon.org/works/xenophon-athens-hellenica-ezq-ak"
 period: Classical
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Xenophon of Athens
 
-**eul_wid:** `ezq-ak` · [HTML page](https://eulogikon.org/grc/xenophon-of-athens/hellenica)
+**eul_wid:** `ezq-ak` · [HTML page](https://eulogikon.org/works/xenophon-athens-hellenica-ezq-ak)
 
 ## Text
 

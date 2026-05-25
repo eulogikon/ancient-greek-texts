@@ -4,7 +4,7 @@ title_greek: Εἰκόνες
 author: Lucian of Samosata
 eul_wid: pfk-cq
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/images-cq"
+canonical: "https://eulogikon.org/works/lucian-samosata-images-pfk-cq"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-cq` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/images-cq)
+**eul_wid:** `pfk-cq` · [HTML page](https://eulogikon.org/works/lucian-samosata-images-pfk-cq)
 
 ## Text
 

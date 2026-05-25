@@ -4,7 +4,7 @@ title_greek: Ἐρωταποκρίσεις πρὸς Ὀρθοδόξους
 author: Theodoret of Cyrus
 eul_wid: tds-ag
 eul_aid: tds
-canonical: "https://eulogikon.org/grc/theodoret-of-cyrus/questions-answers"
+canonical: "https://eulogikon.org/works/theodoret-cyrus-questions-answers-tds-ag"
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theodoret of Cyrus
 
-**eul_wid:** `tds-ag` · [HTML page](https://eulogikon.org/grc/theodoret-of-cyrus/questions-answers)
+**eul_wid:** `tds-ag` · [HTML page](https://eulogikon.org/works/theodoret-cyrus-questions-answers-tds-ag)
 
 ## Text
 

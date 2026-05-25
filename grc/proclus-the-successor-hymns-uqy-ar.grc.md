@@ -4,7 +4,7 @@ title_greek: "Ὕμνοι Α'-Ζ'"
 author: Proclus the Successor
 eul_wid: uqy-ar
 eul_aid: uqy
-canonical: "https://eulogikon.org/grc/proclus-the-successor/hymns"
+canonical: "https://eulogikon.org/works/proclus-hymns-uqy-ar"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Proclus the Successor
 
-**eul_wid:** `uqy-ar` · [HTML page](https://eulogikon.org/grc/proclus-the-successor/hymns)
+**eul_wid:** `uqy-ar` · [HTML page](https://eulogikon.org/works/proclus-hymns-uqy-ar)
 
 ## Text
 

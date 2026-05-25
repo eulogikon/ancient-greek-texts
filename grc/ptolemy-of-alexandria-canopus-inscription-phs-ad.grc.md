@@ -4,7 +4,7 @@ title_greek: Ἐπιγραφή τοῦ Κανώπου
 author: Ptolemy of Alexandria
 eul_wid: phs-ad
 eul_aid: phs
-canonical: "https://eulogikon.org/grc/ptolemy-of-alexandria/canopus-inscription"
+canonical: "https://eulogikon.org/works/ptolemy-alexandria-canopus-inscription-phs-ad"
 period: Roman
 dialect: Technical Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ptolemy of Alexandria
 
-**eul_wid:** `phs-ad` · [HTML page](https://eulogikon.org/grc/ptolemy-of-alexandria/canopus-inscription)
+**eul_wid:** `phs-ad` · [HTML page](https://eulogikon.org/works/ptolemy-alexandria-canopus-inscription-phs-ad)
 
 ## Text
 

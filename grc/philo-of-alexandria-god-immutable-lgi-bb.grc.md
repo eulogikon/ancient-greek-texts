@@ -4,7 +4,7 @@ title_greek: Ὅτι ὁ Θεὸς ἄτρεπτος ἐστίν
 author: Philo of Alexandria
 eul_wid: lgi-bb
 eul_aid: lgi
-canonical: "https://eulogikon.org/grc/philo-of-alexandria/god-immutable"
+canonical: "https://eulogikon.org/works/philo-alexandria-god-immutable-lgi-bb"
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philo of Alexandria
 
-**eul_wid:** `lgi-bb` · [HTML page](https://eulogikon.org/grc/philo-of-alexandria/god-immutable)
+**eul_wid:** `lgi-bb` · [HTML page](https://eulogikon.org/works/philo-alexandria-god-immutable-lgi-bb)
 
 ## Text
 

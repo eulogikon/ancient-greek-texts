@@ -4,7 +4,7 @@ title_greek: Ἐπιστολή
 author: Pittacus Letters
 eul_wid: lta-aa
 eul_aid: lta
-canonical: "https://eulogikon.org/grc/pittacus-letters/croesus"
+canonical: "https://eulogikon.org/works/pittacus-croesus-lta-aa"
 period: Hellenistic
 dialect: Koine
 domain: Rhetoric
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pittacus Letters
 
-**eul_wid:** `lta-aa` · [HTML page](https://eulogikon.org/grc/pittacus-letters/croesus)
+**eul_wid:** `lta-aa` · [HTML page](https://eulogikon.org/works/pittacus-croesus-lta-aa)
 
 ## Text
 

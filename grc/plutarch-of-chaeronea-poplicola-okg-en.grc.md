@@ -4,7 +4,7 @@ title_greek: Ποπλικόλας
 author: Plutarch of Chaeronea
 eul_wid: okg-en
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/poplicola"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-poplicola-okg-en"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-en` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/poplicola)
+**eul_wid:** `okg-en` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-poplicola-okg-en)
 
 ## Text
 
@@ -252,7 +252,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### Publ 11 7
 
-ἐτίθεντο δὲ καὶ παισὶν αὑτῶν Συΐλλους καὶ Βουβούλκους καὶ Καπραρίους ὀνόματα καὶ Πορκίους, κάπρας μὲν τὰς αἶγας, πόρκους δὲ τοὺς χοίρους ὀνομάζοντες. Οὕτω δὲ περὶ ταῦτα δημοτικὸς γενόμενος νομοθέτης καὶ μέτριος, ἐν τῷ † μετρίῳ τὴν τιμωρίαν ὑπερέτεινεν.
+ἐτίθεντο δὲ καὶ παισὶν αὑτῶν Συΐλλους καὶ Βουβούλκους καὶ Καπραρίους ὀνόματα καὶ Πορκίους, κάπρας μὲν τὰς αἶγας, πόρκους δὲ τοὺς χοίρους ὀνομάζοντες. Οὕτω δὲ περὶ ταῦτα δημοτικὸς γενόμενος νομοθέτης καὶ μέτριος, ἐν τῷ μετρίῳ τὴν τιμωρίαν ὑπερέτεινεν.
 
 ### Publ 12 1
 
@@ -352,7 +352,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### Publ 16 7
 
-ὁ δ’ Ὁράτιος τὸν Κόκλην ἐπωνύμιον ἔσχεν, ἐν πολέμῳ τῶν ὀμμάτων θάτερον ἐκκοπείς· ὡς δ’ ἕτεροι λέγουσι, διὰ σιμότητα τῆς ῥινὸς ἐνδεδυκυίας, ὥστε μηδὲν εἶναι τὸ διορίζον τὰ ὄμματα καὶ τὰς ὀφρῦς συγκεχύσθαι, Κύκλωπα βουλόμενοι καλεῖν αὐτὸν οἱ πολλοὶ τῆς γλώσσης ὀλισθανούσης † ἐκράτησαν ὑπὸ πλήθους † εἰς τὸ Κόκλην καλεῖσθαι.
+ὁ δ’ Ὁράτιος τὸν Κόκλην ἐπωνύμιον ἔσχεν, ἐν πολέμῳ τῶν ὀμμάτων θάτερον ἐκκοπείς· ὡς δ’ ἕτεροι λέγουσι, διὰ σιμότητα τῆς ῥινὸς ἐνδεδυκυίας, ὥστε μηδὲν εἶναι τὸ διορίζον τὰ ὄμματα καὶ τὰς ὀφρῦς συγκεχύσθαι, Κύκλωπα βουλόμενοι καλεῖν αὐτὸν οἱ πολλοὶ τῆς γλώσσης ὀλισθανούσης ἐκράτησαν ὑπὸ πλήθους εἰς τὸ Κόκλην καλεῖσθαι.
 
 ### Publ 16 8
 

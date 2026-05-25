@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν Ὁρίων τῆς Πόλεως
 author: Historical Fragments  Anonymous
 eul_wid: mmg-ah
 eul_aid: mmg
-canonical: "https://eulogikon.org/grc/historical-fragments-anonymous/boundaries-city"
+canonical: "https://eulogikon.org/works/anon-hist-frag-boundaries-city-mmg-ah"
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Historical Fragments  Anonymous
 
-**eul_wid:** `mmg-ah` · [HTML page](https://eulogikon.org/grc/historical-fragments-anonymous/boundaries-city)
+**eul_wid:** `mmg-ah` · [HTML page](https://eulogikon.org/works/anon-hist-frag-boundaries-city-mmg-ah)
 
 ## Text
 

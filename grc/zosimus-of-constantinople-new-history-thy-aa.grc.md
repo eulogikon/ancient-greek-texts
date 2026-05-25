@@ -4,7 +4,7 @@ title_greek: Νέα Ἱστορία
 author: Zosimus of Constantinople
 eul_wid: thy-aa
 eul_aid: thy
-canonical: "https://eulogikon.org/grc/zosimus-of-constantinople/new-history"
+canonical: "https://eulogikon.org/works/zosimus-constantinople-new-history-thy-aa"
 period: Late Antique
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Zosimus of Constantinople
 
-**eul_wid:** `thy-aa` · [HTML page](https://eulogikon.org/grc/zosimus-of-constantinople/new-history)
+**eul_wid:** `thy-aa` · [HTML page](https://eulogikon.org/works/zosimus-constantinople-new-history-thy-aa)
 
 ## Text
 

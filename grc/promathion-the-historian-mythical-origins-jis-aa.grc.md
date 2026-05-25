@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Μυθικῶν Ἀρχῶν
 author: Promathion the Historian
 eul_wid: jis-aa
 eul_aid: jis
-canonical: "https://eulogikon.org/grc/promathion-the-historian/mythical-origins"
+canonical: "https://eulogikon.org/works/promathion-mythical-origins-jis-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Promathion the Historian
 
-**eul_wid:** `jis-aa` · [HTML page](https://eulogikon.org/grc/promathion-the-historian/mythical-origins)
+**eul_wid:** `jis-aa` · [HTML page](https://eulogikon.org/works/promathion-mythical-origins-jis-aa)
 
 ## Text
 

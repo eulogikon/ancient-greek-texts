@@ -4,7 +4,7 @@ title_greek: Περὶ διαίτης
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-cd
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/diet"
+canonical: "https://eulogikon.org/works/hippocrates-diet-bww-cd"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-cd` · [HTML page](https://eulogikon.org/grc/hippocrates/diet)
+**eul_wid:** `bww-cd` · [HTML page](https://eulogikon.org/works/hippocrates-diet-bww-cd)
 
 ## Text
 

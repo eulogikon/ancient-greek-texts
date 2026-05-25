@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Telestes of Selinus
 eul_wid: crg-aa
 eul_aid: crg
-canonical: "https://eulogikon.org/grc/telestes-of-selinus/flute-rivalry"
+canonical: "https://eulogikon.org/works/telestes-selinus-flute-rivalry-crg-aa"
 period: Classical
 dialect: Aeolic (frg)
 domain: Poetry
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Telestes of Selinus
 
-**eul_wid:** `crg-aa` · [HTML page](https://eulogikon.org/grc/telestes-of-selinus/flute-rivalry)
+**eul_wid:** `crg-aa` · [HTML page](https://eulogikon.org/works/telestes-selinus-flute-rivalry-crg-aa)
 
 ## Text
 
 ### book 1a.1
 
-†ὃν† σοφὸν
+ὃν σοφὸν
 
 ### book 1a.2
 
@@ -84,7 +84,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2.2
 
-πρῶτος Δωρίδος ἀντίπαλον μούσας †νομοαίολον ὀρφναι† πνεύματος εὔπτερον αὔραν ἀμφιπλέκων καλάμοις.
+πρῶτος Δωρίδος ἀντίπαλον μούσας νομοαίολον ὀρφναι πνεύματος εὔπτερον αὔραν ἀμφιπλέκων καλάμοις.
 
 ### book 4.1
 

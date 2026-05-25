@@ -4,7 +4,7 @@ title_greek: Διηγήσεις καὶ Ἠθοποιΐαι
 author: Severus of Antioch
 eul_wid: uxm-aa
 eul_aid: uxm
-canonical: "https://eulogikon.org/grc/severus-of-antioch/narratives-ethopoeiae"
+canonical: "https://eulogikon.org/works/severus-antioch-narratives-ethopoeiae-uxm-aa"
 period: Late Antique
 dialect: Christian Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Severus of Antioch
 
-**eul_wid:** `uxm-aa` · [HTML page](https://eulogikon.org/grc/severus-of-antioch/narratives-ethopoeiae)
+**eul_wid:** `uxm-aa` · [HTML page](https://eulogikon.org/works/severus-antioch-narratives-ethopoeiae-uxm-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Γνῶμαι
 author: Secundus the Silent
 eul_wid: pzk-ab
 eul_aid: pzk
-canonical: "https://eulogikon.org/grc/secundus-the-silent/sentences"
+canonical: "https://eulogikon.org/works/secundus-sentences-pzk-ab"
 period: Roman
 dialect: Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Secundus the Silent
 
-**eul_wid:** `pzk-ab` · [HTML page](https://eulogikon.org/grc/secundus-the-silent/sentences)
+**eul_wid:** `pzk-ab` · [HTML page](https://eulogikon.org/works/secundus-sentences-pzk-ab)
 
 ## Text
 

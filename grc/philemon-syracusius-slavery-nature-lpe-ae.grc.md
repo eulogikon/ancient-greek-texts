@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Philemon Syracusius
 eul_wid: lpe-ae
 eul_aid: lpe
-canonical: "https://eulogikon.org/grc/philemon-syracusius/slavery-nature"
+canonical: "https://eulogikon.org/works/philemon-syracusius-slavery-nature-lpe-ae"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philemon Syracusius
 
-**eul_wid:** `lpe-ae` · [HTML page](https://eulogikon.org/grc/philemon-syracusius/slavery-nature)
+**eul_wid:** `lpe-ae` · [HTML page](https://eulogikon.org/works/philemon-syracusius-slavery-nature-lpe-ae)
 
 ## Text
 

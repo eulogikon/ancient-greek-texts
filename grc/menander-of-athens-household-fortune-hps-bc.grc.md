@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Οἴκου καὶ Τύχης
 author: Menander of Athens
 eul_wid: hps-bc
 eul_aid: hps
-canonical: "https://eulogikon.org/grc/menander-of-athens/household-fortune"
+canonical: "https://eulogikon.org/works/menander-athens-household-fortune-hps-bc"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander of Athens
 
-**eul_wid:** `hps-bc` · [HTML page](https://eulogikon.org/grc/menander-of-athens/household-fortune)
+**eul_wid:** `hps-bc` · [HTML page](https://eulogikon.org/works/menander-athens-household-fortune-hps-bc)
 
 ## Text
 
@@ -140,7 +140,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 18
 
-⏒– ἔφηβοc, μειράκιον, ἀνήρ, γέρων.
+– ἔφηβοc, μειράκιον, ἀνήρ, γέρων.
 
 ### book 20.1
 

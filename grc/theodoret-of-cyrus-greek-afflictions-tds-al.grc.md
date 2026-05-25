@@ -4,7 +4,7 @@ title_greek: Θεραπεία Ἑλληνικῶν Παθῶν
 author: Theodoret of Cyrus
 eul_wid: tds-al
 eul_aid: tds
-canonical: "https://eulogikon.org/grc/theodoret-of-cyrus/greek-afflictions"
+canonical: "https://eulogikon.org/works/theodoret-cyrus-greek-afflictions-tds-al"
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theodoret of Cyrus
 
-**eul_wid:** `tds-al` · [HTML page](https://eulogikon.org/grc/theodoret-of-cyrus/greek-afflictions)
+**eul_wid:** `tds-al` · [HTML page](https://eulogikon.org/works/theodoret-cyrus-greek-afflictions-tds-al)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Πρὸς τὴν Σύγκλητον Ἐπιστολή
 author: Marcus Aurelius-pseudo Letters
 eul_wid: qww-aa
 eul_aid: qww
-canonical: "https://eulogikon.org/grc/pseudo-marcus-aurelius/senate-christians-victory"
+canonical: "https://eulogikon.org/works/marcus-aurelius-pseudo-senate-christians-victory-qww-aa"
 period: Byzantine
 dialect: Byzantine Greek
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Marcus Aurelius-pseudo Letters
 
-**eul_wid:** `qww-aa` · [HTML page](https://eulogikon.org/grc/pseudo-marcus-aurelius/senate-christians-victory)
+**eul_wid:** `qww-aa` · [HTML page](https://eulogikon.org/works/marcus-aurelius-pseudo-senate-christians-victory-qww-aa)
 
 ## Text
 

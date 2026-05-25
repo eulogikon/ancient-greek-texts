@@ -4,7 +4,7 @@ title_greek: Χρηστομάθεια
 author: Proclus the Successor
 eul_wid: uqy-aq
 eul_aid: uqy
-canonical: "https://eulogikon.org/grc/proclus-the-successor/chrestomathy"
+canonical: "https://eulogikon.org/works/proclus-chrestomathy-uqy-aq"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Proclus the Successor
 
-**eul_wid:** `uqy-aq` · [HTML page](https://eulogikon.org/grc/proclus-the-successor/chrestomathy)
+**eul_wid:** `uqy-aq` · [HTML page](https://eulogikon.org/works/proclus-chrestomathy-uqy-aq)
 
 ## Text
 

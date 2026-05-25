@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Metrodorus of Chios
 eul_wid: dmk-ac
 eul_aid: dmk
-canonical: "https://eulogikon.org/grc/metrodorus-of-chios/nature-knowledge"
+canonical: "https://eulogikon.org/works/metrodorus-chios-nature-knowledge-dmk-ac"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Metrodorus of Chios
 
-**eul_wid:** `dmk-ac` · [HTML page](https://eulogikon.org/grc/metrodorus-of-chios/nature-knowledge)
+**eul_wid:** `dmk-ac` · [HTML page](https://eulogikon.org/works/metrodorus-chios-nature-knowledge-dmk-ac)
 
 ## Text
 

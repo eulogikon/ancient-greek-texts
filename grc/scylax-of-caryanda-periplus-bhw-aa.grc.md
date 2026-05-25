@@ -4,7 +4,7 @@ title_greek: Περίπλους Σκύλακος
 author: Scylax of Caryanda
 eul_wid: bhw-aa
 eul_aid: bhw
-canonical: "https://eulogikon.org/grc/scylax-of-caryanda/periplus"
+canonical: "https://eulogikon.org/works/scylax-caryanda-periplus-bhw-aa"
 period: Archaic
 dialect: Ionic
 domain: Geography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Scylax of Caryanda
 
-**eul_wid:** `bhw-aa` · [HTML page](https://eulogikon.org/grc/scylax-of-caryanda/periplus)
+**eul_wid:** `bhw-aa` · [HTML page](https://eulogikon.org/works/scylax-caryanda-periplus-bhw-aa)
 
 ## Text
 

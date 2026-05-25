@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Isigonus of Nicaea
 eul_wid: ovk-aa
 eul_aid: ovk
-canonical: "https://eulogikon.org/grc/isigonus-of-nicaea/marvelous-customs"
+canonical: "https://eulogikon.org/works/isigonus-nicaea-marvelous-customs-ovk-aa"
 period: Roman
 dialect: Technical Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Isigonus of Nicaea
 
-**eul_wid:** `ovk-aa` · [HTML page](https://eulogikon.org/grc/isigonus-of-nicaea/marvelous-customs)
+**eul_wid:** `ovk-aa` · [HTML page](https://eulogikon.org/works/isigonus-nicaea-marvelous-customs-ovk-aa)
 
 ## Text
 

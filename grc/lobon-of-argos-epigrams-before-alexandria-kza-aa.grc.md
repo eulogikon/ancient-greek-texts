@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα εἰς Ποιητὰς πρὸ τῆς Ἀ
 author: Lobon of Argos
 eul_wid: kza-aa
 eul_aid: kza
-canonical: "https://eulogikon.org/grc/lobon-of-argos/epigrams-before-alexandria"
+canonical: "https://eulogikon.org/works/lobon-argos-epigrams-before-alexandria-kza-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lobon of Argos
 
-**eul_wid:** `kza-aa` · [HTML page](https://eulogikon.org/grc/lobon-of-argos/epigrams-before-alexandria)
+**eul_wid:** `kza-aa` · [HTML page](https://eulogikon.org/works/lobon-argos-epigrams-before-alexandria-kza-aa)
 
 ## Text
 

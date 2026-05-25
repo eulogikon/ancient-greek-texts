@@ -4,7 +4,7 @@ title_greek: Σχόλια εἰς τὸ Ἑρμογένους περὶ στάσ
 author: "Syrianus, Sopater, and Marcellinus"
 eul_wid: tem-aa
 eul_aid: tem
-canonical: "https://eulogikon.org/grc/syrianus-sopater-marcellinus/scholia-hermogenes"
+canonical: "https://eulogikon.org/works/syrianus-sopater-marcellinus-scholia-hermogenes-tem-aa"
 period: Late Antique
 dialect: Atticizing
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Syrianus, Sopater, and Marcellinus
 
-**eul_wid:** `tem-aa` · [HTML page](https://eulogikon.org/grc/syrianus-sopater-marcellinus/scholia-hermogenes)
+**eul_wid:** `tem-aa` · [HTML page](https://eulogikon.org/works/syrianus-sopater-marcellinus-scholia-hermogenes-tem-aa)
 
 ## Text
 

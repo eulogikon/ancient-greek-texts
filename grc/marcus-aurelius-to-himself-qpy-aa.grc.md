@@ -4,7 +4,7 @@ title_greek: Τὰ εἰς ἑαυτόν
 author: Marcus Aurelius the Stoic Philosopher
 eul_wid: qpy-aa
 eul_aid: qpy
-canonical: "https://eulogikon.org/grc/marcus-aurelius/to-himself"
+canonical: "https://eulogikon.org/works/marcus-aurelius-to-himself-qpy-aa"
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Marcus Aurelius the Stoic Philosopher
 
-**eul_wid:** `qpy-aa` · [HTML page](https://eulogikon.org/grc/marcus-aurelius/to-himself)
+**eul_wid:** `qpy-aa` · [HTML page](https://eulogikon.org/works/marcus-aurelius-to-himself-qpy-aa)
 
 ## Text
 
@@ -292,7 +292,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 4.18
 
-Ὅσην εὐσχολίαν κερδαίνει ὁ μὴ βλέπων τί ὁ πλησίον εἶπεν ἢ ἔπραξεν ἢ διενοήθη, ἀλλὰ μόνον τί αὐτὸς ποιεῖ, ἵνα αὐτὸ τοῦτο δίκαιον ᾖ καὶ ὅσιον ἢ † κατὰ τὸν ἀγαθὸν· μὴ μέλαν ἦθος περιβλέπεσθαι, ἀλλʼ ἐπὶ τῆς γραμμῆς τρέχειν ὀρθόν, μὴ διερριμμένον.
+Ὅσην εὐσχολίαν κερδαίνει ὁ μὴ βλέπων τί ὁ πλησίον εἶπεν ἢ ἔπραξεν ἢ διενοήθη, ἀλλὰ μόνον τί αὐτὸς ποιεῖ, ἵνα αὐτὸ τοῦτο δίκαιον ᾖ καὶ ὅσιον ἢ κατὰ τὸν ἀγαθὸν· μὴ μέλαν ἦθος περιβλέπεσθαι, ἀλλʼ ἐπὶ τῆς γραμμῆς τρέχειν ὀρθόν, μὴ διερριμμένον.
 
 ### 4.19
 

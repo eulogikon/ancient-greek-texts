@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Μυθολογίας
 author: Possis of Magnesia
 eul_wid: jkq-aa
 eul_aid: jkq
-canonical: "https://eulogikon.org/grc/possis-of-magnesia/mythology"
+canonical: "https://eulogikon.org/works/possis-magnesia-mythology-jkq-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Possis of Magnesia
 
-**eul_wid:** `jkq-aa` · [HTML page](https://eulogikon.org/grc/possis-of-magnesia/mythology)
+**eul_wid:** `jkq-aa` · [HTML page](https://eulogikon.org/works/possis-magnesia-mythology-jkq-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Monimus of Syracuse
 eul_wid: fpu-aa
 eul_aid: fpu
-canonical: "https://eulogikon.org/grc/monimus-of-syracuse/maxims-sayings"
+canonical: "https://eulogikon.org/works/monimus-syracuse-maxims-sayings-fpu-aa"
 period: Classical
 dialect: "Attic (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Monimus of Syracuse
 
-**eul_wid:** `fpu-aa` · [HTML page](https://eulogikon.org/grc/monimus-of-syracuse/maxims-sayings)
+**eul_wid:** `fpu-aa` · [HTML page](https://eulogikon.org/works/monimus-syracuse-maxims-sayings-fpu-aa)
 
 ## Text
 

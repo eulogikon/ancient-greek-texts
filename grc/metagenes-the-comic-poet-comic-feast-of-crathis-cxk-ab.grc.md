@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Metagenes the Comic Poet
 eul_wid: cxk-ab
 eul_aid: cxk
-canonical: "https://eulogikon.org/grc/metagenes-the-comic-poet/comic-feast-of-crathis"
+canonical: "https://eulogikon.org/works/metagenes-comic-feast-of-crathis-cxk-ab"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Metagenes the Comic Poet
 
-**eul_wid:** `cxk-ab` · [HTML page](https://eulogikon.org/grc/metagenes-the-comic-poet/comic-feast-of-crathis)
+**eul_wid:** `cxk-ab` · [HTML page](https://eulogikon.org/works/metagenes-comic-feast-of-crathis-cxk-ab)
 
 ## Text
 

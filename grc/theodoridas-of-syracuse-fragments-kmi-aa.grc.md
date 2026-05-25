@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα καὶ Τίτλοι
 author: Theodoridas of Syracuse
 eul_wid: kmi-aa
 eul_aid: kmi
-canonical: "https://eulogikon.org/grc/theodoridas-of-syracuse/fragments"
+canonical: "https://eulogikon.org/works/theodoridas-syracuse-fragments-kmi-aa"
 period: Hellenistic
 dialect: Koine
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theodoridas of Syracuse
 
-**eul_wid:** `kmi-aa` · [HTML page](https://eulogikon.org/grc/theodoridas-of-syracuse/fragments)
+**eul_wid:** `kmi-aa` · [HTML page](https://eulogikon.org/works/theodoridas-syracuse-fragments-kmi-aa)
 
 ## Text
 
@@ -32,7 +32,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 743
 
-......]θαι. ὅτι δὲ ἡ Ἀφροδίτη [c. 12 litt.? [ ].ι̣ν Θεοδωρίδας ....[ [ ].υλ.....ε̣ιονουκ̣..[ [ ]..ιε̣ρε..[..]σουσ[..[..[ [ ].εον κρήδεμνον̣ ..[ [ ].ξ.σφιγγε.χρ...[ [ ].κ....υο̣π̣..[
+......]θαι. ὅτι δὲ ἡ Ἀφροδίτη [c. 12 litt.? [ ].ιν Θεοδωρίδας ....[ [ ].υλ.....ειονουκ..[ [ ]..ιερε..[..]σουσ[..[..[ [ ].εον κρήδεμνον ..[ [ ].ξ.σφιγγε.χρ...[ [ ].κ....υοπ..[
 
 ### book 744.1
 
@@ -40,7 +40,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 744.2
 
-τε †δὴ οἴστρησοντι† Γαδείρων δρόμον
+τε δὴ οἴστρησοντι Γαδείρων δρόμον
 
 ### book 745
 

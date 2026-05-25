@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Machon of Sinope
 eul_wid: kpk-ab
 eul_aid: kpk
-canonical: "https://eulogikon.org/grc/machon-of-sinope/culinary-comic-ab"
+canonical: "https://eulogikon.org/works/machon-sinope-culinary-comic-kpk-ab"
 period: Hellenistic
 dialect: Koine
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Machon of Sinope
 
-**eul_wid:** `kpk-ab` · [HTML page](https://eulogikon.org/grc/machon-of-sinope/culinary-comic-ab)
+**eul_wid:** `kpk-ab` · [HTML page](https://eulogikon.org/works/machon-sinope-culinary-comic-kpk-ab)
 
 ## Text
 

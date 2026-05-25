@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Xenophanes of Colophon
 eul_wid: beu-ad
 eul_aid: beu
-canonical: "https://eulogikon.org/grc/xenophanes-of-colophon/symposium-piety"
+canonical: "https://eulogikon.org/works/xenophanes-colophon-symposium-piety-beu-ad"
 period: Archaic
 dialect: Ionic (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Xenophanes of Colophon
 
-**eul_wid:** `beu-ad` · [HTML page](https://eulogikon.org/grc/xenophanes-of-colophon/symposium-piety)
+**eul_wid:** `beu-ad` · [HTML page](https://eulogikon.org/works/xenophanes-colophon-symposium-piety-beu-ad)
 
 ## Text
 

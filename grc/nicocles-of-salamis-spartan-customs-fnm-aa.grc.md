@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τῶν Λακωνικῶν Ἐθ
 author: Nicocles of Salamis
 eul_wid: fnm-aa
 eul_aid: fnm
-canonical: "https://eulogikon.org/grc/nicocles-of-salamis/spartan-customs"
+canonical: "https://eulogikon.org/works/nicocles-salamis-spartan-customs-fnm-aa"
 period: Classical
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nicocles of Salamis
 
-**eul_wid:** `fnm-aa` · [HTML page](https://eulogikon.org/grc/nicocles-of-salamis/spartan-customs)
+**eul_wid:** `fnm-aa` · [HTML page](https://eulogikon.org/works/nicocles-salamis-spartan-customs-fnm-aa)
 
 ## Text
 

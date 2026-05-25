@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Theon of Smyrna II
 eul_wid: pim-ab
 eul_aid: pim
-canonical: "https://eulogikon.org/grc/theon-of-smyrna-ii/testimonies"
+canonical: "https://eulogikon.org/works/theon-smyrna-testimonies-pim-ab"
 period: Roman
 dialect: Atticizing Technical
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theon of Smyrna II
 
-**eul_wid:** `pim-ab` · [HTML page](https://eulogikon.org/grc/theon-of-smyrna-ii/testimonies)
+**eul_wid:** `pim-ab` · [HTML page](https://eulogikon.org/works/theon-smyrna-testimonies-pim-ab)
 
 ## Text
 

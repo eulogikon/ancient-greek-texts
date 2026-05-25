@@ -4,7 +4,7 @@ title_greek: "περὶ τραύματος ἐκ προνοίας, ὑπὲρ ο
 author: Lysias the Orator
 eul_wid: ejc-af
 eul_aid: ejc
-canonical: "https://eulogikon.org/grc/lysias/wound-design-unknown"
+canonical: "https://eulogikon.org/works/lysias-wound-design-unknown-ejc-af"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lysias the Orator
 
-**eul_wid:** `ejc-af` · [HTML page](https://eulogikon.org/grc/lysias/wound-design-unknown)
+**eul_wid:** `ejc-af` · [HTML page](https://eulogikon.org/works/lysias-wound-design-unknown-ejc-af)
 
 ## Text
 

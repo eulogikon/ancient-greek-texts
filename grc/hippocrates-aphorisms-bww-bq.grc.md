@@ -4,7 +4,7 @@ title_greek: Ἀφορισμοί
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-bq
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/aphorisms"
+canonical: "https://eulogikon.org/works/hippocrates-aphorisms-bww-bq"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-bq` · [HTML page](https://eulogikon.org/grc/hippocrates/aphorisms)
+**eul_wid:** `bww-bq` · [HTML page](https://eulogikon.org/works/hippocrates-aphorisms-bww-bq)
 
 ## Text
 

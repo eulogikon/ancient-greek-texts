@@ -4,7 +4,7 @@ title_greek: Χρονογραφία
 author: John Malalas of Antioch
 eul_wid: vae-ab
 eul_aid: vae
-canonical: "https://eulogikon.org/grc/john-malalas-of-antioch/chronography-ab"
+canonical: "https://eulogikon.org/works/john-malalas-antioch-chronography-vae-ab"
 period: Late Antique
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** John Malalas of Antioch
 
-**eul_wid:** `vae-ab` · [HTML page](https://eulogikon.org/grc/john-malalas-of-antioch/chronography-ab)
+**eul_wid:** `vae-ab` · [HTML page](https://eulogikon.org/works/john-malalas-antioch-chronography-vae-ab)
 
 ## Text
 

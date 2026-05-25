@@ -4,7 +4,7 @@ title_greek: Περὶ σώματος μαγνησίας καὶ οἰκονομ
 author: Zosimus of Panopolis
 eul_wid: tyc-av
 eul_aid: tyc
-canonical: "https://eulogikon.org/grc/zosimus-of-panopolis/magnesia-economy"
+canonical: "https://eulogikon.org/works/zosimus-panopolis-magnesia-economy-tyc-av"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Zosimus of Panopolis
 
-**eul_wid:** `tyc-av` · [HTML page](https://eulogikon.org/grc/zosimus-of-panopolis/magnesia-economy)
+**eul_wid:** `tyc-av` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-magnesia-economy-tyc-av)
 
 ## Text
 

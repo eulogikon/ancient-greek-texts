@@ -4,7 +4,7 @@ title_greek: Περὶ ἀδένων
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-bt
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/glands"
+canonical: "https://eulogikon.org/works/hippocrates-glands-bww-bt"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-bt` · [HTML page](https://eulogikon.org/grc/hippocrates/glands)
+**eul_wid:** `bww-bt` · [HTML page](https://eulogikon.org/works/hippocrates-glands-bww-bt)
 
 ## Text
 

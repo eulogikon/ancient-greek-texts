@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Polemon of Laodicea
 eul_wid: ola-ab
 eul_aid: ola
-canonical: "https://eulogikon.org/grc/polemon-of-laodicea/athenian-acropolis"
+canonical: "https://eulogikon.org/works/polemon-lao-athenian-acropolis-ola-ab"
 period: Roman
 dialect: Atticizing
 domain: Geography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Polemon of Laodicea
 
-**eul_wid:** `ola-ab` · [HTML page](https://eulogikon.org/grc/polemon-of-laodicea/athenian-acropolis)
+**eul_wid:** `ola-ab` · [HTML page](https://eulogikon.org/works/polemon-lao-athenian-acropolis-ola-ab)
 
 ## Text
 

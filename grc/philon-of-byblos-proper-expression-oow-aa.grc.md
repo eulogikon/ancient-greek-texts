@@ -4,7 +4,7 @@ title_greek: Περὶ κυριολεξίας
 author: Philon of Byblos
 eul_wid: oow-aa
 eul_aid: oow
-canonical: "https://eulogikon.org/grc/philon-of-byblos/proper-expression"
+canonical: "https://eulogikon.org/works/philon-byblos-proper-expression-oow-aa"
 period: Roman
 dialect: Koine (frg)
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philon of Byblos
 
-**eul_wid:** `oow-aa` · [HTML page](https://eulogikon.org/grc/philon-of-byblos/proper-expression)
+**eul_wid:** `oow-aa` · [HTML page](https://eulogikon.org/works/philon-byblos-proper-expression-oow-aa)
 
 ## Text
 
@@ -80,7 +80,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 15
 
-ἐν Κυρήνῃ τοὺς ἐφήβους τριακατίους καλοῦσιν, ἐν δὲ Κρήτῃ ἀποδρόμους διὰ τὸ μὴ τῶν κοινῶν δρόμων μετέχειν. Ἀχαιοὶ κούρους, † δάκες † ἀγούρους.
+ἐν Κυρήνῃ τοὺς ἐφήβους τριακατίους καλοῦσιν, ἐν δὲ Κρήτῃ ἀποδρόμους διὰ τὸ μὴ τῶν κοινῶν δρόμων μετέχειν. Ἀχαιοὶ κούρους, δάκες ἀγούρους.
 
 ### 16
 

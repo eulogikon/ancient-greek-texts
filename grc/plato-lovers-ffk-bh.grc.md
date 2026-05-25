@@ -4,7 +4,7 @@ title_greek: Ἐρασταί
 author: Plato of Athens
 eul_wid: ffk-bh
 eul_aid: ffk
-canonical: "https://eulogikon.org/grc/plato/lovers"
+canonical: "https://eulogikon.org/works/plato-lovers-ffk-bh"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plato of Athens
 
-**eul_wid:** `ffk-bh` · [HTML page](https://eulogikon.org/grc/plato/lovers)
+**eul_wid:** `ffk-bh` · [HTML page](https://eulogikon.org/works/plato-lovers-ffk-bh)
 
 ## Text
 

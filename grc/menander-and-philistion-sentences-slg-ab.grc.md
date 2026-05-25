@@ -4,7 +4,7 @@ title_greek: Γνῶμαι Μενάνδρου καὶ Φιλίστιωνος
 author: "Menander and Philistion Comparison "
 eul_wid: slg-ab
 eul_aid: slg
-canonical: "https://eulogikon.org/grc/menander-and-philistion/sentences"
+canonical: "https://eulogikon.org/works/menander-philistion-sentences-slg-ab"
 period: Late Antique
 dialect: Mixed Dialects
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander and Philistion Comparison 
 
-**eul_wid:** `slg-ab` · [HTML page](https://eulogikon.org/grc/menander-and-philistion/sentences)
+**eul_wid:** `slg-ab` · [HTML page](https://eulogikon.org/works/menander-philistion-sentences-slg-ab)
 
 ## Text
 

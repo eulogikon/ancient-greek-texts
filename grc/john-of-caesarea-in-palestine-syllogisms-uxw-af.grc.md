@@ -4,7 +4,7 @@ title_greek: Συλλογισμοὶ τῶν Ἁγίων Πατέρων
 author: John of Caesarea in Palestine
 eul_wid: uxw-af
 eul_aid: uxw
-canonical: "https://eulogikon.org/grc/john-of-caesarea-in-palestine/syllogisms"
+canonical: "https://eulogikon.org/works/john-caesarea-palestine-syllogisms-uxw-af"
 period: Late Antique
 dialect: Christian Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** John of Caesarea in Palestine
 
-**eul_wid:** `uxw-af` · [HTML page](https://eulogikon.org/grc/john-of-caesarea-in-palestine/syllogisms)
+**eul_wid:** `uxw-af` · [HTML page](https://eulogikon.org/works/john-caesarea-palestine-syllogisms-uxw-af)
 
 ## Text
 

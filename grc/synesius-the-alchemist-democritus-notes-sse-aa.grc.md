@@ -4,7 +4,7 @@ title_greek: Συνεσίου φιλοσόφου πρὸς Διόσκορον ε
 author: Synesius the Alchemist
 eul_wid: sse-aa
 eul_aid: sse
-canonical: "https://eulogikon.org/grc/synesius-the-alchemist/democritus-notes"
+canonical: "https://eulogikon.org/works/synesius-democritus-notes-sse-aa"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Synesius the Alchemist
 
-**eul_wid:** `sse-aa` · [HTML page](https://eulogikon.org/grc/synesius-the-alchemist/democritus-notes)
+**eul_wid:** `sse-aa` · [HTML page](https://eulogikon.org/works/synesius-democritus-notes-sse-aa)
 
 ## Text
 

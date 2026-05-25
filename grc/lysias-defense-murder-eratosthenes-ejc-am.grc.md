@@ -4,7 +4,7 @@ title_greek: ὑπὲρ τοῦ Ἐρατοσθένους φόνου ἀπολο
 author: Lysias the Orator
 eul_wid: ejc-am
 eul_aid: ejc
-canonical: "https://eulogikon.org/grc/lysias/defense-murder-eratosthenes"
+canonical: "https://eulogikon.org/works/lysias-defense-murder-eratosthenes-ejc-am"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lysias the Orator
 
-**eul_wid:** `ejc-am` · [HTML page](https://eulogikon.org/grc/lysias/defense-murder-eratosthenes)
+**eul_wid:** `ejc-am` · [HTML page](https://eulogikon.org/works/lysias-defense-murder-eratosthenes-ejc-am)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἐκλογαί
 author: Phrynichus of Bithynia
 eul_wid: oqu-ad
 eul_aid: oqu
-canonical: "https://eulogikon.org/grc/phrynichus-of-bithynia/text-ad"
+canonical: "https://eulogikon.org/works/phrynichus-bithynia-text-oqu-ad"
 period: Roman
 dialect: Atticizing
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Phrynichus of Bithynia
 
-**eul_wid:** `oqu-ad` · [HTML page](https://eulogikon.org/grc/phrynichus-of-bithynia/text-ad)
+**eul_wid:** `oqu-ad` · [HTML page](https://eulogikon.org/works/phrynichus-bithynia-text-oqu-ad)
 
 ## Text
 

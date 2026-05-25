@@ -4,7 +4,7 @@ title_greek: Ἐπίγραμμα
 author: Xenophanes of Colophon
 eul_wid: beu-ae
 eul_aid: beu
-canonical: "https://eulogikon.org/grc/xenophanes-of-colophon/epigram"
+canonical: "https://eulogikon.org/works/xenophanes-colophon-epigram-beu-ae"
 period: Archaic
 dialect: Ionic (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Xenophanes of Colophon
 
-**eul_wid:** `beu-ae` · [HTML page](https://eulogikon.org/grc/xenophanes-of-colophon/epigram)
+**eul_wid:** `beu-ae` · [HTML page](https://eulogikon.org/works/xenophanes-colophon-epigram-beu-ae)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Κρητικῶν Ἐθῶν
 author: Sosicrates of Rhodes
 eul_wid: kuk-aa
 eul_aid: kuk
-canonical: "https://eulogikon.org/grc/sosicrates-of-rhodes/cretan-customs"
+canonical: "https://eulogikon.org/works/sosicrates-rhodes-cretan-customs-kuk-aa"
 period: Hellenistic
 dialect: Doric
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sosicrates of Rhodes
 
-**eul_wid:** `kuk-aa` · [HTML page](https://eulogikon.org/grc/sosicrates-of-rhodes/cretan-customs)
+**eul_wid:** `kuk-aa` · [HTML page](https://eulogikon.org/works/sosicrates-rhodes-cretan-customs-kuk-aa)
 
 ## Text
 

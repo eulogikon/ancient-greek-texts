@@ -4,7 +4,7 @@ title_greek: Εἰς τοὺς ἀπαιδεύτους κύνας
 author: Julian the Apostate
 eul_wid: sno-ak
 eul_aid: sno
-canonical: "https://eulogikon.org/grc/julian-the-apostate/uneducated-dogs"
+canonical: "https://eulogikon.org/works/julian-apostate-uneducated-dogs-sno-ak"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Julian the Apostate
 
-**eul_wid:** `sno-ak` · [HTML page](https://eulogikon.org/grc/julian-the-apostate/uneducated-dogs)
+**eul_wid:** `sno-ak` · [HTML page](https://eulogikon.org/works/julian-apostate-uneducated-dogs-sno-ak)
 
 ## Text
 

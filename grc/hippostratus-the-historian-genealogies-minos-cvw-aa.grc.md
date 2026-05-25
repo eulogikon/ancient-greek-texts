@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Hippostratus the Historian
 eul_wid: cvw-aa
 eul_aid: cvw
-canonical: "https://eulogikon.org/grc/hippostratus-the-historian/genealogies-minos"
+canonical: "https://eulogikon.org/works/hippostratus-genealogies-minos-cvw-aa"
 period: Classical
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippostratus the Historian
 
-**eul_wid:** `cvw-aa` · [HTML page](https://eulogikon.org/grc/hippostratus-the-historian/genealogies-minos)
+**eul_wid:** `cvw-aa` · [HTML page](https://eulogikon.org/works/hippostratus-genealogies-minos-cvw-aa)
 
 ## Text
 

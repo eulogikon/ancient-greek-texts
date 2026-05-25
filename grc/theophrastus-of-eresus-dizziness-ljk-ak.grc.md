@@ -4,7 +4,7 @@ title_greek: Περὶ τῆς Ἰλιγγιάδος
 author: Theophrastus of Eresus
 eul_wid: ljk-ak
 eul_aid: ljk
-canonical: "https://eulogikon.org/grc/theophrastus-of-eresus/dizziness"
+canonical: "https://eulogikon.org/works/theophrastus-eresus-dizziness-ljk-ak"
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theophrastus of Eresus
 
-**eul_wid:** `ljk-ak` · [HTML page](https://eulogikon.org/grc/theophrastus-of-eresus/dizziness)
+**eul_wid:** `ljk-ak` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-dizziness-ljk-ak)
 
 ## Text
 

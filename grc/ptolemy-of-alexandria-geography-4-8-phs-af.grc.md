@@ -4,7 +4,7 @@ title_greek: Γεωγραφία Βιβλία Δ΄-Η΄
 author: Ptolemy of Alexandria
 eul_wid: phs-af
 eul_aid: phs
-canonical: "https://eulogikon.org/grc/ptolemy-of-alexandria/geography-4-8"
+canonical: "https://eulogikon.org/works/ptolemy-alexandria-geography-4-8-phs-af"
 period: Roman
 dialect: Technical Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ptolemy of Alexandria
 
-**eul_wid:** `phs-af` · [HTML page](https://eulogikon.org/grc/ptolemy-of-alexandria/geography-4-8)
+**eul_wid:** `phs-af` · [HTML page](https://eulogikon.org/works/ptolemy-alexandria-geography-4-8-phs-af)
 
 ## Text
 

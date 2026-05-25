@@ -4,7 +4,7 @@ title_greek: Περὶ διαφόρων καὶ παντοίων τροφῶν
 author: Pseudo-Hippocrates
 eul_wid: oyw-ac
 eul_aid: oyw
-canonical: "https://eulogikon.org/grc/pseudo-hippocrates/foods"
+canonical: "https://eulogikon.org/works/pseudo-hippocrates-foods-oyw-ac"
 period: Roman
 dialect: Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pseudo-Hippocrates
 
-**eul_wid:** `oyw-ac` · [HTML page](https://eulogikon.org/grc/pseudo-hippocrates/foods)
+**eul_wid:** `oyw-ac` · [HTML page](https://eulogikon.org/works/pseudo-hippocrates-foods-oyw-ac)
 
 ## Text
 

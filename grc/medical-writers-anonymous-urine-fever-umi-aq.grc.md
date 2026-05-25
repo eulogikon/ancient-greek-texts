@@ -4,7 +4,7 @@ title_greek: Περὶ Οὖρων ἐν Πυρετοῖς
 author: Medical Writers Anonymous
 eul_wid: umi-aq
 eul_aid: umi
-canonical: "https://eulogikon.org/grc/medical-writers-anonymous/urine-fever"
+canonical: "https://eulogikon.org/works/med-writers-anon-urine-fever-umi-aq"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Medical Writers Anonymous
 
-**eul_wid:** `umi-aq` · [HTML page](https://eulogikon.org/grc/medical-writers-anonymous/urine-fever)
+**eul_wid:** `umi-aq` · [HTML page](https://eulogikon.org/works/med-writers-anon-urine-fever-umi-aq)
 
 ## Text
 

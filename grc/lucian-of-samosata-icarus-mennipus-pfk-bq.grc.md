@@ -4,7 +4,7 @@ title_greek: Ἰκαρομένιππος ἢ Ὑπερνέφελος
 author: Lucian of Samosata
 eul_wid: pfk-bq
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/icarus-mennipus"
+canonical: "https://eulogikon.org/works/lucian-samosata-icarus-mennipus-pfk-bq"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-bq` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/icarus-mennipus)
+**eul_wid:** `pfk-bq` · [HTML page](https://eulogikon.org/works/lucian-samosata-icarus-mennipus-pfk-bq)
 
 ## Text
 

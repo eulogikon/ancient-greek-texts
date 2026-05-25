@@ -4,7 +4,7 @@ title_greek: Ἐπιστολαί
 author: Philip II King of Macedonia
 eul_wid: fxc-aa
 eul_aid: fxc
-canonical: "https://eulogikon.org/grc/philip-ii-of-macedonia/diplomatic-letters"
+canonical: "https://eulogikon.org/works/philip-ii-macedonia-diplomatic-letters-fxc-aa"
 period: Classical
 dialect: Attic
 format: Epistle
@@ -17,7 +17,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philip II King of Macedonia
 
-**eul_wid:** `fxc-aa` · [HTML page](https://eulogikon.org/grc/philip-ii-of-macedonia/diplomatic-letters)
+**eul_wid:** `fxc-aa` · [HTML page](https://eulogikon.org/works/philip-ii-macedonia-diplomatic-letters-fxc-aa)
 
 ## Text
 

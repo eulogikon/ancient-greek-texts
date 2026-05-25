@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Marcus Lepidus the Historian
 eul_wid: mcg-aa
 eul_aid: mcg
-canonical: "https://eulogikon.org/grc/marcus-lepidus-the-historian/historical-epitome"
+canonical: "https://eulogikon.org/works/marcus-lepidus-historical-epitome-mcg-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Marcus Lepidus the Historian
 
-**eul_wid:** `mcg-aa` · [HTML page](https://eulogikon.org/grc/marcus-lepidus-the-historian/historical-epitome)
+**eul_wid:** `mcg-aa` · [HTML page](https://eulogikon.org/works/marcus-lepidus-historical-epitome-mcg-aa)
 
 ## Text
 

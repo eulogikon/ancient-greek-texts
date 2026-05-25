@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Nicias of Miletus
 eul_wid: khi-aa
 eul_aid: khi
-canonical: "https://eulogikon.org/grc/nicias-of-miletus/epigrams"
+canonical: "https://eulogikon.org/works/nicias-miletus-epigrams-khi-aa"
 period: Hellenistic
 dialect: Literary Koine
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nicias of Miletus
 
-**eul_wid:** `khi-aa` · [HTML page](https://eulogikon.org/grc/nicias-of-miletus/epigrams)
+**eul_wid:** `khi-aa` · [HTML page](https://eulogikon.org/works/nicias-miletus-epigrams-khi-aa)
 
 ## Text
 

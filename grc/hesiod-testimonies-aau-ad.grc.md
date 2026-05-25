@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Hesiod
 eul_wid: aau-ad
 eul_aid: aau
-canonical: "https://eulogikon.org/grc/hesiod/testimonies"
+canonical: "https://eulogikon.org/works/hesiod-testimonies-aau-ad"
 period: Archaic
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hesiod
 
-**eul_wid:** `aau-ad` · [HTML page](https://eulogikon.org/grc/hesiod/testimonies)
+**eul_wid:** `aau-ad` · [HTML page](https://eulogikon.org/works/hesiod-testimonies-aau-ad)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ῥητορικῆς καὶ Πό
 author: Philiscus of Athens
 eul_wid: gcw-ab
 eul_aid: gcw
-canonical: "https://eulogikon.org/grc/philiscus-of-athens/rhetoric-cities"
+canonical: "https://eulogikon.org/works/philiscus-athens-rhetoric-cities-gcw-ab"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philiscus of Athens
 
-**eul_wid:** `gcw-ab` · [HTML page](https://eulogikon.org/grc/philiscus-of-athens/rhetoric-cities)
+**eul_wid:** `gcw-ab` · [HTML page](https://eulogikon.org/works/philiscus-athens-rhetoric-cities-gcw-ab)
 
 ## Text
 

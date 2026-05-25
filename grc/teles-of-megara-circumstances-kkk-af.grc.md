@@ -4,7 +4,7 @@ title_greek: Περὶ περιστάσεων
 author: Teles of Megara
 eul_wid: kkk-af
 eul_aid: kkk
-canonical: "https://eulogikon.org/grc/teles-of-megara/circumstances"
+canonical: "https://eulogikon.org/works/teles-megara-circumstances-kkk-af"
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Teles of Megara
 
-**eul_wid:** `kkk-af` · [HTML page](https://eulogikon.org/grc/teles-of-megara/circumstances)
+**eul_wid:** `kkk-af` · [HTML page](https://eulogikon.org/works/teles-megara-circumstances-kkk-af)
 
 ## Text
 

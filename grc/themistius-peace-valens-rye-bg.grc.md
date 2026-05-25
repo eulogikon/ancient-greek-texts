@@ -4,7 +4,7 @@ title_greek: Ἐπὶ τῆς εἰρήνης Οὐάλεντι
 author: Themistius the Philosopher
 eul_wid: rye-bg
 eul_aid: rye
-canonical: "https://eulogikon.org/grc/themistius/peace-valens"
+canonical: "https://eulogikon.org/works/themistius-peace-valens-rye-bg"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Themistius the Philosopher
 
-**eul_wid:** `rye-bg` · [HTML page](https://eulogikon.org/grc/themistius/peace-valens)
+**eul_wid:** `rye-bg` · [HTML page](https://eulogikon.org/works/themistius-peace-valens-rye-bg)
 
 ## Text
 

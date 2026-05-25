@@ -4,7 +4,7 @@ title_greek: Ἀστρολογικὰ Ἀποσπάσματα
 author: Pythagoras of Samos
 eul_wid: bgs-aa
 eul_aid: bgs
-canonical: "https://eulogikon.org/grc/pythagoras-of-samos/astrology"
+canonical: "https://eulogikon.org/works/pythagoras-samos-astrology-bgs-aa"
 period: Archaic
 dialect: Ionic (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pythagoras of Samos
 
-**eul_wid:** `bgs-aa` · [HTML page](https://eulogikon.org/grc/pythagoras-of-samos/astrology)
+**eul_wid:** `bgs-aa` · [HTML page](https://eulogikon.org/works/pythagoras-samos-astrology-bgs-aa)
 
 ## Text
 

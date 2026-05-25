@@ -4,7 +4,7 @@ title_greek: Ἀπόκρυφη Ἱστορία
 author: Procopius of Caesarea
 eul_wid: unc-ab
 eul_aid: unc
-canonical: "https://eulogikon.org/grc/procopius-of-caesarea/secret-history"
+canonical: "https://eulogikon.org/works/procopius-caesarea-secret-history-unc-ab"
 period: Late Antique
 dialect: Atticizing
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Procopius of Caesarea
 
-**eul_wid:** `unc-ab` · [HTML page](https://eulogikon.org/grc/procopius-of-caesarea/secret-history)
+**eul_wid:** `unc-ab` · [HTML page](https://eulogikon.org/works/procopius-caesarea-secret-history-unc-ab)
 
 ## Text
 

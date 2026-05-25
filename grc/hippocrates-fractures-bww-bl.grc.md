@@ -4,7 +4,7 @@ title_greek: Περὶ ἀγμῶν
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-bl
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/fractures"
+canonical: "https://eulogikon.org/works/hippocrates-fractures-bww-bl"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-bl` · [HTML page](https://eulogikon.org/grc/hippocrates/fractures)
+**eul_wid:** `bww-bl` · [HTML page](https://eulogikon.org/works/hippocrates-fractures-bww-bl)
 
 ## Text
 

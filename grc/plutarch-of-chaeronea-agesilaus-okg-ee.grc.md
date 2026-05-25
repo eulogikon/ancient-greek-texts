@@ -4,7 +4,7 @@ title_greek: Ἀγησίλαος
 author: Plutarch of Chaeronea
 eul_wid: okg-ee
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/agesilaus"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-agesilaus-okg-ee"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-ee` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/agesilaus)
+**eul_wid:** `okg-ee` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-agesilaus-okg-ee)
 
 ## Text
 

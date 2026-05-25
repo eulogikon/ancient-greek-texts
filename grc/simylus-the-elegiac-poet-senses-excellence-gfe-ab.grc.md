@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Simylus the Elegiac Poet
 eul_wid: gfe-ab
 eul_aid: gfe
-canonical: "https://eulogikon.org/grc/simylus-the-elegiac-poet/senses-excellence"
+canonical: "https://eulogikon.org/works/simylus-senses-excellence-gfe-ab"
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Simylus the Elegiac Poet
 
-**eul_wid:** `gfe-ab` · [HTML page](https://eulogikon.org/grc/simylus-the-elegiac-poet/senses-excellence)
+**eul_wid:** `gfe-ab` · [HTML page](https://eulogikon.org/works/simylus-senses-excellence-gfe-ab)
 
 ## Text
 

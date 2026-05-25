@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα IG 4.950
 author: Isyllus of Epidaurus
 eul_wid: iei-aa
 eul_aid: iei
-canonical: "https://eulogikon.org/grc/isyllus-of-epidaurus/fragments-ig-4-950"
+canonical: "https://eulogikon.org/works/isyllus-epidaurus-fragments-ig-4-950-iei-aa"
 period: Hellenistic
 dialect: Doric
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Isyllus of Epidaurus
 
-**eul_wid:** `iei-aa` · [HTML page](https://eulogikon.org/grc/isyllus-of-epidaurus/fragments-ig-4-950)
+**eul_wid:** `iei-aa` · [HTML page](https://eulogikon.org/works/isyllus-epidaurus-fragments-ig-4-950-iei-aa)
 
 ## Text
 

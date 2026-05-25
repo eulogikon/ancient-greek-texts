@@ -4,7 +4,7 @@ title_greek: Περὶ κτισμάτων
 author: Procopius of Caesarea
 eul_wid: unc-ac
 eul_aid: unc
-canonical: "https://eulogikon.org/grc/procopius-of-caesarea/buildings"
+canonical: "https://eulogikon.org/works/procopius-caesarea-buildings-unc-ac"
 period: Late Antique
 dialect: Atticizing
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Procopius of Caesarea
 
-**eul_wid:** `unc-ac` · [HTML page](https://eulogikon.org/grc/procopius-of-caesarea/buildings)
+**eul_wid:** `unc-ac` · [HTML page](https://eulogikon.org/works/procopius-caesarea-buildings-unc-ac)
 
 ## Text
 

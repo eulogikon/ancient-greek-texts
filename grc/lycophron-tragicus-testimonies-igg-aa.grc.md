@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Lycophron Tragicus
 eul_wid: igg-aa
 eul_aid: igg
-canonical: "https://eulogikon.org/grc/lycophron-tragicus/testimonies"
+canonical: "https://eulogikon.org/works/lycophron-testimonies-igg-aa"
 period: Hellenistic
 dialect: Attic Drama
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lycophron Tragicus
 
-**eul_wid:** `igg-aa` · [HTML page](https://eulogikon.org/grc/lycophron-tragicus/testimonies)
+**eul_wid:** `igg-aa` · [HTML page](https://eulogikon.org/works/lycophron-testimonies-igg-aa)
 
 ## Text
 

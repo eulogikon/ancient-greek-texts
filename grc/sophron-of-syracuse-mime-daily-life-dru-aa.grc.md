@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Βίου Καθημερινοῦ
 author: Sophron of Syracuse
 eul_wid: dru-aa
 eul_aid: dru
-canonical: "https://eulogikon.org/grc/sophron-of-syracuse/mime-daily-life"
+canonical: "https://eulogikon.org/works/sophron-syracuse-mime-daily-life-dru-aa"
 period: Classical
 dialect: Doric (frg)
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sophron of Syracuse
 
-**eul_wid:** `dru-aa` · [HTML page](https://eulogikon.org/grc/sophron-of-syracuse/mime-daily-life)
+**eul_wid:** `dru-aa` · [HTML page](https://eulogikon.org/works/sophron-syracuse-mime-daily-life-dru-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἐπιστολή
 author: Pisistratus Letters
 eul_wid: nmk-aa
 eul_aid: nmk
-canonical: "https://eulogikon.org/grc/pisistratus-letters/defense-letter"
+canonical: "https://eulogikon.org/works/pisistratus-letters-defense-letter-nmk-aa"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pisistratus Letters
 
-**eul_wid:** `nmk-aa` · [HTML page](https://eulogikon.org/grc/pisistratus-letters/defense-letter)
+**eul_wid:** `nmk-aa` · [HTML page](https://eulogikon.org/works/pisistratus-letters-defense-letter-nmk-aa)
 
 ## Text
 

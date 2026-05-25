@@ -4,7 +4,7 @@ title_greek: Γεωγραφικὰ Ἀποσπάσματα
 author: Hipparchus of Nicaea
 eul_wid: lyk-ab
 eul_aid: lyk
-canonical: "https://eulogikon.org/grc/hipparchus-of-nicaea/geographical-fragments"
+canonical: "https://eulogikon.org/works/hipparchus-nicaea-geographical-fragments-lyk-ab"
 period: Hellenistic
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hipparchus of Nicaea
 
-**eul_wid:** `lyk-ab` · [HTML page](https://eulogikon.org/grc/hipparchus-of-nicaea/geographical-fragments)
+**eul_wid:** `lyk-ab` · [HTML page](https://eulogikon.org/works/hipparchus-nicaea-geographical-fragments-lyk-ab)
 
 ## Text
 

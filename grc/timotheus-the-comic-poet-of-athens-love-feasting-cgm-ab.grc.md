@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἔρωτος καὶ Εὐωχί
 author: Timotheus the Comic Poet of Athens
 eul_wid: cgm-ab
 eul_aid: cgm
-canonical: "https://eulogikon.org/grc/timotheus-the-comic-poet-of-athens/love-feasting"
+canonical: "https://eulogikon.org/works/timotheus-athens-love-feasting-cgm-ab"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Timotheus the Comic Poet of Athens
 
-**eul_wid:** `cgm-ab` · [HTML page](https://eulogikon.org/grc/timotheus-the-comic-poet-of-athens/love-feasting)
+**eul_wid:** `cgm-ab` · [HTML page](https://eulogikon.org/works/timotheus-athens-love-feasting-cgm-ab)
 
 ## Text
 

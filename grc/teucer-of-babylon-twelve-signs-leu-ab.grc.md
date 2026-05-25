@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν δώδεκα σημείων
 author: Teucer of Babylon
 eul_wid: leu-ab
 eul_aid: leu
-canonical: "https://eulogikon.org/grc/teucer-of-babylon/twelve-signs"
+canonical: "https://eulogikon.org/works/teucer-babylon-twelve-signs-leu-ab"
 period: Hellenistic
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Teucer of Babylon
 
-**eul_wid:** `leu-ab` · [HTML page](https://eulogikon.org/grc/teucer-of-babylon/twelve-signs)
+**eul_wid:** `leu-ab` · [HTML page](https://eulogikon.org/works/teucer-babylon-twelve-signs-leu-ab)
 
 ## Text
 

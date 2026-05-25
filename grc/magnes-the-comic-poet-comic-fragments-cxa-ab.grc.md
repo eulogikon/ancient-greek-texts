@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Βίου Καθημερινοῦ 
 author: Magnes Comicus
 eul_wid: cxa-ab
 eul_aid: cxa
-canonical: "https://eulogikon.org/grc/magnes-the-comic-poet/comic-fragments"
+canonical: "https://eulogikon.org/works/magnes-comic-fragments-cxa-ab"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Magnes Comicus
 
-**eul_wid:** `cxa-ab` · [HTML page](https://eulogikon.org/grc/magnes-the-comic-poet/comic-fragments)
+**eul_wid:** `cxa-ab` · [HTML page](https://eulogikon.org/works/magnes-comic-fragments-cxa-ab)
 
 ## Text
 

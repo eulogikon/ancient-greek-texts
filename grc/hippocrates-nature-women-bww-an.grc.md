@@ -4,7 +4,7 @@ title_greek: Περὶ φύσεως γυναικείας
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-an
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/nature-women"
+canonical: "https://eulogikon.org/works/hippocrates-nature-women-bww-an"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-an` · [HTML page](https://eulogikon.org/grc/hippocrates/nature-women)
+**eul_wid:** `bww-an` · [HTML page](https://eulogikon.org/works/hippocrates-nature-women-bww-an)
 
 ## Text
 

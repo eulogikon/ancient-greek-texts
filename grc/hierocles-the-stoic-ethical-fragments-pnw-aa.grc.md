@@ -4,7 +4,7 @@ title_greek: Ἠθικὰ Ἀποσπάσματα ἐκ Στοβαίου
 author: Hierocles the Stoic
 eul_wid: pnw-aa
 eul_aid: pnw
-canonical: "https://eulogikon.org/grc/hierocles-the-stoic/ethical-fragments"
+canonical: "https://eulogikon.org/works/hierocles-stoic-ethical-fragments-pnw-aa"
 period: Roman
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hierocles the Stoic
 
-**eul_wid:** `pnw-aa` · [HTML page](https://eulogikon.org/grc/hierocles-the-stoic/ethical-fragments)
+**eul_wid:** `pnw-aa` · [HTML page](https://eulogikon.org/works/hierocles-stoic-ethical-fragments-pnw-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Εἰσαγωγὴ εἰς τὴν τέχνην τῆς ῥητορ
 author: Trophonius the Oracle
 eul_wid: cda-aa
 eul_aid: cda
-canonical: "https://eulogikon.org/grc/trophonius-the-oracle/art-of-rhetoric"
+canonical: "https://eulogikon.org/works/trophonius-art-of-rhetoric-cda-aa"
 period: Classical
 dialect: Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Trophonius the Oracle
 
-**eul_wid:** `cda-aa` · [HTML page](https://eulogikon.org/grc/trophonius-the-oracle/art-of-rhetoric)
+**eul_wid:** `cda-aa` · [HTML page](https://eulogikon.org/works/trophonius-art-of-rhetoric-cda-aa)
 
 ## Text
 

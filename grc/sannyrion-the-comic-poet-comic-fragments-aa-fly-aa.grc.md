@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Θεῶν καὶ Βροτῶν
 author: Sannyrion the Comic Poet
 eul_wid: fly-aa
 eul_aid: fly
-canonical: "https://eulogikon.org/grc/sannyrion-the-comic-poet/comic-fragments-aa"
+canonical: "https://eulogikon.org/works/sannyrion-comic-fragments-fly-aa"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sannyrion the Comic Poet
 
-**eul_wid:** `fly-aa` · [HTML page](https://eulogikon.org/grc/sannyrion-the-comic-poet/comic-fragments-aa)
+**eul_wid:** `fly-aa` · [HTML page](https://eulogikon.org/works/sannyrion-comic-fragments-fly-aa)
 
 ## Text
 

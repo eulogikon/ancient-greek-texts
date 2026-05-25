@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: "Stesiclides "
 eul_wid: bya-aa
 eul_aid: bya
-canonical: "https://eulogikon.org/grc/stesiclides/athens-chronicles"
+canonical: "https://eulogikon.org/works/stesiclides-athens-chronicles-bya-aa"
 period: Classical
 dialect: Ionic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Stesiclides 
 
-**eul_wid:** `bya-aa` · [HTML page](https://eulogikon.org/grc/stesiclides/athens-chronicles)
+**eul_wid:** `bya-aa` · [HTML page](https://eulogikon.org/works/stesiclides-athens-chronicles-bya-aa)
 
 ## Text
 

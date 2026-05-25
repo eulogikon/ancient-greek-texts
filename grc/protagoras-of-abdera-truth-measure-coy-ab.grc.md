@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Protagoras of Abdera
 eul_wid: coy-ab
 eul_aid: coy
-canonical: "https://eulogikon.org/grc/protagoras-of-abdera/truth-measure"
+canonical: "https://eulogikon.org/works/protagoras-abdera-truth-measure-coy-ab"
 period: Classical
 dialect: Ionic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Protagoras of Abdera
 
-**eul_wid:** `coy-ab` · [HTML page](https://eulogikon.org/grc/protagoras-of-abdera/truth-measure)
+**eul_wid:** `coy-ab` · [HTML page](https://eulogikon.org/works/protagoras-abdera-truth-measure-coy-ab)
 
 ## Text
 

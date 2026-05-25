@@ -4,7 +4,7 @@ title_greek: Ἀπολογία
 author: Xenophon of Athens
 eul_wid: ezq-an
 eul_aid: ezq
-canonical: "https://eulogikon.org/grc/xenophon-of-athens/apology"
+canonical: "https://eulogikon.org/works/xenophon-athens-apology-ezq-an"
 period: Classical
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Xenophon of Athens
 
-**eul_wid:** `ezq-an` · [HTML page](https://eulogikon.org/grc/xenophon-of-athens/apology)
+**eul_wid:** `ezq-an` · [HTML page](https://eulogikon.org/works/xenophon-athens-apology-ezq-an)
 
 ## Text
 

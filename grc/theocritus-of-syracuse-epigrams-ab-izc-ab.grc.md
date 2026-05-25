@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Theocritus of Syracuse
 eul_wid: izc-ab
 eul_aid: izc
-canonical: "https://eulogikon.org/grc/theocritus-of-syracuse/epigrams-ab"
+canonical: "https://eulogikon.org/works/theocritus-syracuse-epigrams-izc-ab"
 period: Hellenistic
 dialect: Doric Bucolic
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theocritus of Syracuse
 
-**eul_wid:** `izc-ab` · [HTML page](https://eulogikon.org/grc/theocritus-of-syracuse/epigrams-ab)
+**eul_wid:** `izc-ab` · [HTML page](https://eulogikon.org/works/theocritus-syracuse-epigrams-izc-ab)
 
 ## Text
 

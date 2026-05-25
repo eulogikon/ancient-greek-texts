@@ -4,7 +4,7 @@ title_greek: τὰ μεθ᾿ Ὅμηρον
 author: Quintus of Smyrna
 eul_wid: ujg-aa
 eul_aid: ujg
-canonical: "https://eulogikon.org/grc/quintus-of-smyrna/post-homeric-poem"
+canonical: "https://eulogikon.org/works/quintus-smyrna-post-homeric-poem-ujg-aa"
 period: Late Antique
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Quintus of Smyrna
 
-**eul_wid:** `ujg-aa` · [HTML page](https://eulogikon.org/grc/quintus-of-smyrna/post-homeric-poem)
+**eul_wid:** `ujg-aa` · [HTML page](https://eulogikon.org/works/quintus-smyrna-post-homeric-poem-ujg-aa)
 
 ## Text
 
@@ -2968,7 +2968,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1.730.4
 
-Σχέτλιε, ποῦ νύ τοί ἐστι † περὶ † σθένος ἠδὲ νόημα;
+Σχέτλιε, ποῦ νύ τοί ἐστι περὶ σθένος ἠδὲ νόημα;
 
 ### book 1.730.5
 
@@ -4008,7 +4008,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2.160.4
 
-δαιτυμόνες· † τοῖς δέ σφιν † ἐπήλυθε νήδυμος ὕπνος.
+δαιτυμόνες· τοῖς δέ σφιν ἐπήλυθε νήδυμος ὕπνος.
 
 ### book 2.160.5
 
@@ -6288,7 +6288,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 3.65.3
 
-Ἀμφὶ δὲ παπτήνας ὀλοὸν καὶ † ἄκρατον † ὁμόκλα·
+Ἀμφὶ δὲ παπτήνας ὀλοὸν καὶ ἄκρατον ὁμόκλα·
 
 ### book 3.65.4
 
@@ -11220,7 +11220,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.1
 
-οὔατα δ’ ὠρθώσαντο καὶ † ἄμπυκα δεύεσαν ἀφρῷ. †
+οὔατα δ’ ὠρθώσαντο καὶ ἄμπυκα δεύεσαν ἀφρῷ.
 
 ### book 4.2
 
@@ -13044,7 +13044,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 5.370.1
 
-τῇ εἰκὼς οἴμησεν ὅπῃ † γε μὲν γυῖα † φέρεσκον.
+τῇ εἰκὼς οἴμησεν ὅπῃ γε μὲν γυῖα φέρεσκον.
 
 ### book 5.370.2
 
@@ -18752,7 +18752,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 7.475.1
 
-ἂμ πεδίον· τῇ † γάρ σφιν ἐπέπλετο † τεῖχος Ἀχαιῶν
+ἂμ πεδίον· τῇ γάρ σφιν ἐπέπλετο τεῖχος Ἀχαιῶν
 
 ### book 7.475.2
 
@@ -19980,7 +19980,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 8.41.3
 
-ἀνδρόμεον, πάντες δὲ περὶ † σθένος † ὁρμαίνοντες
+ἀνδρόμεον, πάντες δὲ περὶ σθένος ὁρμαίνοντες
 
 ### book 8
 
@@ -21160,7 +21160,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 8.335.3
 
-Τρωσὶν ἀμύνοντος, † ἐτίνυτο † δ’ ἄλλοθεν ἄλλον
+Τρωσὶν ἀμύνοντος, ἐτίνυτο δ’ ἄλλοθεν ἄλλον
 
 ### book 8.335.4
 
@@ -22436,7 +22436,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 9.1
 
-〈– ⏑ ⏑〉 Ἱππασίδην, ὃ δ’ ἀφ’ ἅρματος αἰψηροῖο
+〈– 〉 Ἱππασίδην, ὃ δ’ ἀφ’ ἅρματος αἰψηροῖο
 
 ### book 9.2
 
@@ -23280,7 +23280,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 9.360.1
 
-λευγαλέου· δὴ γάρ μιν † ἐπὴν ἕλε † λιμὸς ἀτερπής,
+λευγαλέου· δὴ γάρ μιν ἐπὴν ἕλε λιμὸς ἀτερπής,
 
 ### book 9.360.2
 
@@ -23764,7 +23764,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 9.475.4
 
-πᾶν δέμας αἶψ’ ἀνέθηλεν· † ἐυτρόχῳ δ’ ἐνὶ κοίλῃ †
+πᾶν δέμας αἶψ’ ἀνέθηλεν· ἐυτρόχῳ δ’ ἐνὶ κοίλῃ
 
 ### book 9.475.5
 
@@ -24204,7 +24204,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 10.2
 
-Εἰ δέ οἱ † ἂρ κἀκείνῳ † ἀπεχθόμενοι θανέωμεν,
+Εἰ δέ οἱ ἂρ κἀκείνῳ ἀπεχθόμενοι θανέωμεν,
 
 ### book 10.3
 
@@ -28568,7 +28568,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 12.130.5
 
-〈– ⏑ ⏑〉 ἄλλοθεν ἄλλος ὑποδρήσσοντες Ἐπειῷ·
+〈– 〉 ἄλλοθεν ἄλλος ὑποδρήσσοντες Ἐπειῷ·
 
 ### book 12.135.1
 
@@ -30072,7 +30072,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 12.510
 
-τείχεα καὶ πύργοι μεγάλ’ ἔκτυπον, † ὡς ἐτεόν περ †·
+τείχεα καὶ πύργοι μεγάλ’ ἔκτυπον, ὡς ἐτεόν περ ·
 
 ### book 12.1
 
@@ -31936,7 +31936,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 13.380.1
 
-σχέτλιοι, οἵ ποτε † κεῖνο † παρ’ ἐκ μέλαν αἷμα καὶ ἱρὰ
+σχέτλιοι, οἵ ποτε κεῖνο παρ’ ἐκ μέλαν αἷμα καὶ ἱρὰ
 
 ### book 13.380.2
 
@@ -35164,7 +35164,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 14.620
 
-Τοῦ δὲ Ποσειδάων μὲν ἐπέκλυεν· † ἄλλα † δὲ πόντος
+Τοῦ δὲ Ποσειδάων μὲν ἐπέκλυεν· ἄλλα δὲ πόντος
 
 ### book 14.620.1
 
@@ -35256,7 +35256,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 14.640.3
 
-† Καὶ τόσση † δὲ θάλασσα καὶ εἰσέτι . . . . . . . . . . . . . . .
+Καὶ τόσση δὲ θάλασσα καὶ εἰσέτι . . . . . . . . . . . . . . .
 
 ### book 14.642.1
 

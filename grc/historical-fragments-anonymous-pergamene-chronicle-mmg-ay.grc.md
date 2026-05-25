@@ -4,7 +4,7 @@ title_greek: Περγαμηνὴ Χρονική
 author: Historical Fragments  Anonymous
 eul_wid: mmg-ay
 eul_aid: mmg
-canonical: "https://eulogikon.org/grc/historical-fragments-anonymous/pergamene-chronicle"
+canonical: "https://eulogikon.org/works/anon-hist-frag-pergamene-chronicle-mmg-ay"
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Historical Fragments  Anonymous
 
-**eul_wid:** `mmg-ay` · [HTML page](https://eulogikon.org/grc/historical-fragments-anonymous/pergamene-chronicle)
+**eul_wid:** `mmg-ay` · [HTML page](https://eulogikon.org/works/anon-hist-frag-pergamene-chronicle-mmg-ay)
 
 ## Text
 

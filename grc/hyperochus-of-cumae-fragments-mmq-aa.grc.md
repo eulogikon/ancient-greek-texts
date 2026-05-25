@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Κύμης
 author: Hyperochus of Cumae
 eul_wid: mmq-aa
 eul_aid: mmq
-canonical: "https://eulogikon.org/grc/hyperochus-of-cumae/fragments"
+canonical: "https://eulogikon.org/works/hyperochus-cumae-fragments-mmq-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hyperochus of Cumae
 
-**eul_wid:** `mmq-aa` · [HTML page](https://eulogikon.org/grc/hyperochus-of-cumae/fragments)
+**eul_wid:** `mmq-aa` · [HTML page](https://eulogikon.org/works/hyperochus-cumae-fragments-mmq-aa)
 
 ## Text
 

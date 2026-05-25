@@ -4,7 +4,7 @@ title_greek: Κατάπλους
 author: Lucian of Samosata
 eul_wid: pfk-an
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/descent-underworld"
+canonical: "https://eulogikon.org/works/lucian-samosata-descent-underworld-pfk-an"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-an` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/descent-underworld)
+**eul_wid:** `pfk-an` · [HTML page](https://eulogikon.org/works/lucian-samosata-descent-underworld-pfk-an)
 
 ## Text
 

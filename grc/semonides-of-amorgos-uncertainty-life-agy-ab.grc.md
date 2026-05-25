@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Semonides of Amorgos
 eul_wid: agy-ab
 eul_aid: agy
-canonical: "https://eulogikon.org/grc/semonides-of-amorgos/uncertainty-life"
+canonical: "https://eulogikon.org/works/semonides-amorgos-uncertainty-life-agy-ab"
 period: Archaic
 dialect: "Ionic (ia, frg)"
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Semonides of Amorgos
 
-**eul_wid:** `agy-ab` · [HTML page](https://eulogikon.org/grc/semonides-of-amorgos/uncertainty-life)
+**eul_wid:** `agy-ab` · [HTML page](https://eulogikon.org/works/semonides-amorgos-uncertainty-life-agy-ab)
 
 ## Text
 
@@ -76,7 +76,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 3.3
 
-παῦρα †κακῶς ἔτ͜εα͜.
+παῦρα κακῶς ἔτ͜εα͜.
 
 ### book 4
 
@@ -164,11 +164,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 7.4
 
-τοιαύτη γυνὴ ὀργήν· φυὴν δὲ πόντος ἀλλοίην ἔχει. [para]τὴν δ’ ἔκ †τε
+τοιαύτη γυνὴ ὀργήν· φυὴν δὲ πόντος ἀλλοίην ἔχει. [para]τὴν δ’ ἔκ τε
 
 ### book 7.5
 
-σποδιῆς† καὶ παλιντριβ͜έο͜ς ὄνου, ἣ σύν τ’ ἀνάγκηι σύν τ’ ἐνιπῆισιν μόγις[ln_45]ἔστερξεν ὦν ἅπαντα κἀπονήσατο ἀρεστά· τόφρα δ’ ἐσθίει μὲν ἐν μυχῶι
+σποδιῆς καὶ παλιντριβ͜έο͜ς ὄνου, ἣ σύν τ’ ἀνάγκηι σύν τ’ ἐνιπῆισιν μόγις[ln_45]ἔστερξεν ὦν ἅπαντα κἀπονήσατο ἀρεστά· τόφρα δ’ ἐσθίει μὲν ἐν μυχῶι
 
 ### book 7.6
 
@@ -288,7 +288,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 7.6
 
-τι καὶ δοκ͜έω͜σιν ὠφελεῖν ἔχοντι, τῶι μάλιστα γίνεται κακόν· οὐ γάρ κοτ’ εὔφρων ἡμέρην διέρχεται ἅπασαν, ὅστις σὺν γυναικὶ †πέλεται, οὐδ’ αἶψα Λιμὸν οἰκίης ἀπώσεται, ἐχθρὸν
+τι καὶ δοκ͜έω͜σιν ὠφελεῖν ἔχοντι, τῶι μάλιστα γίνεται κακόν· οὐ γάρ κοτ’ εὔφρων ἡμέρην διέρχεται ἅπασαν, ὅστις σὺν γυναικὶ πέλεται, οὐδ’ αἶψα Λιμὸν οἰκίης ἀπώσεται, ἐχθρὸν
 
 ### book 7.7
 
@@ -340,7 +340,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 10
 
-τί ταῦτα †διὰ μακρῶν λόγων† ἀνέδραμον;
+τί ταῦτα διὰ μακρῶν λόγων ἀνέδραμον;
 
 ### book 10a.1
 
@@ -412,11 +412,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 17
 
-καὶ τῆς ὄπισθεν †ὀρσοθύρης ἠλσάμην.
+καὶ τῆς ὄπισθεν ὀρσοθύρης ἠλσάμην.
 
 ### book 18
 
-καὶ σαῦλα βαίνων ἵππος ὣς †κορωνίτης.
+καὶ σαῦλα βαίνων ἵππος ὣς κορωνίτης.
 
 ### book 19.1
 
@@ -492,7 +492,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 26.1
 
-ἀπὸ τράπεζαν εἷλε †νιν
+ἀπὸ τράπεζαν εἷλε νιν
 
 ### book 26.2
 
@@ -524,7 +524,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 41.1
 
-†ἐν εὐδετέω ὥσπερ† Λέσβιος
+ἐν εὐδετέω ὥσπερ Λέσβιος
 
 ### book 41.2
 

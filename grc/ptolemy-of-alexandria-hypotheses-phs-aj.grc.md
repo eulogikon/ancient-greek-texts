@@ -4,7 +4,7 @@ title_greek: Ὑποθέσεις
 author: Ptolemy of Alexandria
 eul_wid: phs-aj
 eul_aid: phs
-canonical: "https://eulogikon.org/grc/ptolemy-of-alexandria/hypotheses"
+canonical: "https://eulogikon.org/works/ptolemy-alexandria-hypotheses-phs-aj"
 period: Roman
 dialect: Technical Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ptolemy of Alexandria
 
-**eul_wid:** `phs-aj` · [HTML page](https://eulogikon.org/grc/ptolemy-of-alexandria/hypotheses)
+**eul_wid:** `phs-aj` · [HTML page](https://eulogikon.org/works/ptolemy-alexandria-hypotheses-phs-aj)
 
 ## Text
 

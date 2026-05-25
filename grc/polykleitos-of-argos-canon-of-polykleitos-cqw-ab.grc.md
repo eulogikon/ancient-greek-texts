@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Polykleitos of Argos
 eul_wid: cqw-ab
 eul_aid: cqw
-canonical: "https://eulogikon.org/grc/polykleitos-of-argos/canon-of-polykleitos"
+canonical: "https://eulogikon.org/works/polykleitos-argos-canon-of-polykleitos-cqw-ab"
 period: Classical
 dialect: Doric (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Polykleitos of Argos
 
-**eul_wid:** `cqw-ab` · [HTML page](https://eulogikon.org/grc/polykleitos-of-argos/canon-of-polykleitos)
+**eul_wid:** `cqw-ab` · [HTML page](https://eulogikon.org/works/polykleitos-argos-canon-of-polykleitos-cqw-ab)
 
 ## Text
 

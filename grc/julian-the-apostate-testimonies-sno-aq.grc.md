@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Julian the Apostate
 eul_wid: sno-aq
 eul_aid: sno
-canonical: "https://eulogikon.org/grc/julian-the-apostate/testimonies"
+canonical: "https://eulogikon.org/works/julian-apostate-testimonies-sno-aq"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Julian the Apostate
 
-**eul_wid:** `sno-aq` · [HTML page](https://eulogikon.org/grc/julian-the-apostate/testimonies)
+**eul_wid:** `sno-aq` · [HTML page](https://eulogikon.org/works/julian-apostate-testimonies-sno-aq)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Λόγος περὶ Βασιλείας
 author: Synesius of Cyrene
 eul_wid: sys-ac
 eul_aid: sys
-canonical: "https://eulogikon.org/grc/synesius-of-cyrene/kingdom"
+canonical: "https://eulogikon.org/works/synesius-cyrene-kingdom-sys-ac"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Synesius of Cyrene
 
-**eul_wid:** `sys-ac` · [HTML page](https://eulogikon.org/grc/synesius-of-cyrene/kingdom)
+**eul_wid:** `sys-ac` · [HTML page](https://eulogikon.org/works/synesius-cyrene-kingdom-sys-ac)
 
 ## Text
 

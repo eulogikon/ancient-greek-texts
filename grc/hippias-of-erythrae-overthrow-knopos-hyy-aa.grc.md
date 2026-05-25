@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Hippias of Erythrae
 eul_wid: hyy-aa
 eul_aid: hyy
-canonical: "https://eulogikon.org/grc/hippias-of-erythrae/overthrow-knopos"
+canonical: "https://eulogikon.org/works/hippias-erythrae-overthrow-knopos-hyy-aa"
 period: Hellenistic
 dialect: Ionic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippias of Erythrae
 
-**eul_wid:** `hyy-aa` · [HTML page](https://eulogikon.org/grc/hippias-of-erythrae/overthrow-knopos)
+**eul_wid:** `hyy-aa` · [HTML page](https://eulogikon.org/works/hippias-erythrae-overthrow-knopos-hyy-aa)
 
 ## Text
 

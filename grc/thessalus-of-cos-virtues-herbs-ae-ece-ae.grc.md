@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν ἀρετῶν τῶν βοτάνων
 author: Thessalus of Cos
 eul_wid: ece-ae
 eul_aid: ece
-canonical: "https://eulogikon.org/grc/thessalus-of-cos/virtues-herbs-ae"
+canonical: "https://eulogikon.org/works/thessalus-cos-virtues-herbs-ece-ae"
 period: Classical
 dialect: Ionic
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Thessalus of Cos
 
-**eul_wid:** `ece-ae` · [HTML page](https://eulogikon.org/grc/thessalus-of-cos/virtues-herbs-ae)
+**eul_wid:** `ece-ae` · [HTML page](https://eulogikon.org/works/thessalus-cos-virtues-herbs-ece-ae)
 
 ## Text
 

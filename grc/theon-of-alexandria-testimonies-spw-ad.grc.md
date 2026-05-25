@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Theon of Alexandria
 eul_wid: spw-ad
 eul_aid: spw
-canonical: "https://eulogikon.org/grc/theon-of-alexandria/testimonies"
+canonical: "https://eulogikon.org/works/theon-alexandria-testimonies-spw-ad"
 period: Late Antique
 dialect: Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theon of Alexandria
 
-**eul_wid:** `spw-ad` · [HTML page](https://eulogikon.org/grc/theon-of-alexandria/testimonies)
+**eul_wid:** `spw-ad` · [HTML page](https://eulogikon.org/works/theon-alexandria-testimonies-spw-ad)
 
 ## Text
 

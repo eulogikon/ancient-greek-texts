@@ -4,7 +4,7 @@ title_greek: Κυνηγετικός
 author: Xenophon of Athens
 eul_wid: ezq-ah
 eul_aid: ezq
-canonical: "https://eulogikon.org/grc/xenophon-of-athens/hunting"
+canonical: "https://eulogikon.org/works/xenophon-athens-hunting-ezq-ah"
 period: Classical
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Xenophon of Athens
 
-**eul_wid:** `ezq-ah` · [HTML page](https://eulogikon.org/grc/xenophon-of-athens/hunting)
+**eul_wid:** `ezq-ah` · [HTML page](https://eulogikon.org/works/xenophon-athens-hunting-ezq-ah)
 
 ## Text
 

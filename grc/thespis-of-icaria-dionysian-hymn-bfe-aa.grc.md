@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Διονυσιακοῦ Ὕμνου
 author: Thespis of Icaria
 eul_wid: bfe-aa
 eul_aid: bfe
-canonical: "https://eulogikon.org/grc/thespis-of-icaria/dionysian-hymn"
+canonical: "https://eulogikon.org/works/thespis-icaria-dionysian-hymn-bfe-aa"
 period: Archaic
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Thespis of Icaria
 
-**eul_wid:** `bfe-aa` · [HTML page](https://eulogikon.org/grc/thespis-of-icaria/dionysian-hymn)
+**eul_wid:** `bfe-aa` · [HTML page](https://eulogikon.org/works/thespis-icaria-dionysian-hymn-bfe-aa)
 
 ## Text
 

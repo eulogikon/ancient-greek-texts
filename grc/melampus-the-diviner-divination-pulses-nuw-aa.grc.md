@@ -4,7 +4,7 @@ title_greek: Περὶ παλμῶν μαντικὴ πρὸς Πτολεμαῖ
 author: Melampus the Diviner
 eul_wid: nuw-aa
 eul_aid: nuw
-canonical: "https://eulogikon.org/grc/melampus-the-diviner/divination-pulses"
+canonical: "https://eulogikon.org/works/melampus-divination-pulses-nuw-aa"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Melampus the Diviner
 
-**eul_wid:** `nuw-aa` · [HTML page](https://eulogikon.org/grc/melampus-the-diviner/divination-pulses)
+**eul_wid:** `nuw-aa` · [HTML page](https://eulogikon.org/works/melampus-divination-pulses-nuw-aa)
 
 ## Text
 

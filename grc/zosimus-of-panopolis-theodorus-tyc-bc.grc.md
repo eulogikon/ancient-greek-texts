@@ -4,7 +4,7 @@ title_greek: Ζωσίμου πρὸς Θεόδωρον κεφάλαια
 author: Zosimus of Panopolis
 eul_wid: tyc-bc
 eul_aid: tyc
-canonical: "https://eulogikon.org/grc/zosimus-of-panopolis/theodorus"
+canonical: "https://eulogikon.org/works/zosimus-panopolis-theodorus-tyc-bc"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Zosimus of Panopolis
 
-**eul_wid:** `tyc-bc` · [HTML page](https://eulogikon.org/grc/zosimus-of-panopolis/theodorus)
+**eul_wid:** `tyc-bc` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-theodorus-tyc-bc)
 
 ## Text
 

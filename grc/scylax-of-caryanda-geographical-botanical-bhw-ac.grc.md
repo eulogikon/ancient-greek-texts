@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Scylax of Caryanda
 eul_wid: bhw-ac
 eul_aid: bhw
-canonical: "https://eulogikon.org/grc/scylax-of-caryanda/geographical-botanical"
+canonical: "https://eulogikon.org/works/scylax-caryanda-geographical-botanical-bhw-ac"
 period: Archaic
 dialect: Ionic
 domain: Geography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Scylax of Caryanda
 
-**eul_wid:** `bhw-ac` · [HTML page](https://eulogikon.org/grc/scylax-of-caryanda/geographical-botanical)
+**eul_wid:** `bhw-ac` · [HTML page](https://eulogikon.org/works/scylax-caryanda-geographical-botanical-bhw-ac)
 
 ## Text
 

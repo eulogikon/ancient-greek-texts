@@ -4,7 +4,7 @@ title_greek: Περὶ χροιᾶς τοῦ αἵματος τοῦ ἀπὸ φ
 author: Medical Writers Anonymous
 eul_wid: umi-ab
 eul_aid: umi
-canonical: "https://eulogikon.org/grc/medical-writers-anonymous/blood-color-phlebotomy"
+canonical: "https://eulogikon.org/works/med-writers-anon-blood-color-phlebotomy-umi-ab"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Medical Writers Anonymous
 
-**eul_wid:** `umi-ab` · [HTML page](https://eulogikon.org/grc/medical-writers-anonymous/blood-color-phlebotomy)
+**eul_wid:** `umi-ab` · [HTML page](https://eulogikon.org/works/med-writers-anon-blood-color-phlebotomy-umi-ab)
 
 ## Text
 

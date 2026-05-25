@@ -4,7 +4,7 @@ title_greek: Δημώναξ
 author: Lucian of Samosata
 eul_wid: pfk-cn
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/demonax"
+canonical: "https://eulogikon.org/works/lucian-samosata-demonax-pfk-cn"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-cn` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/demonax)
+**eul_wid:** `pfk-cn` · [HTML page](https://eulogikon.org/works/lucian-samosata-demonax-pfk-cn)
 
 ## Text
 

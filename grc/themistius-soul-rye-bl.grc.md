@@ -4,7 +4,7 @@ title_greek: Περὶ ψυχῆς
 author: Themistius the Philosopher
 eul_wid: rye-bl
 eul_aid: rye
-canonical: "https://eulogikon.org/grc/themistius/soul"
+canonical: "https://eulogikon.org/works/themistius-soul-rye-bl"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Themistius the Philosopher
 
-**eul_wid:** `rye-bl` · [HTML page](https://eulogikon.org/grc/themistius/soul)
+**eul_wid:** `rye-bl` · [HTML page](https://eulogikon.org/works/themistius-soul-rye-bl)
 
 ## Text
 

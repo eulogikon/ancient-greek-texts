@@ -4,7 +4,7 @@ title_greek: Τὰ Φίλωνος Ἀλεξανδρέως
 author: Philo of Alexandria
 eul_wid: lgi-an
 eul_aid: lgi
-canonical: "https://eulogikon.org/grc/philo-of-alexandria/works-of-philo-of-alexandria-an"
+canonical: "https://eulogikon.org/works/philo-alexandria-works-of-philo-of-alexandria-lgi-an"
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philo of Alexandria
 
-**eul_wid:** `lgi-an` · [HTML page](https://eulogikon.org/grc/philo-of-alexandria/works-of-philo-of-alexandria-an)
+**eul_wid:** `lgi-an` · [HTML page](https://eulogikon.org/works/philo-alexandria-works-of-philo-of-alexandria-lgi-an)
 
 ## Text
 

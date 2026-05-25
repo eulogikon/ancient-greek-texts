@@ -4,7 +4,7 @@ title_greek: Περὶ σταθμῶν
 author: Zosimus of Panopolis
 eul_wid: tyc-ck
 eul_aid: tyc
-canonical: "https://eulogikon.org/grc/zosimus-of-panopolis/weights"
+canonical: "https://eulogikon.org/works/zosimus-panopolis-weights-tyc-ck"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Zosimus of Panopolis
 
-**eul_wid:** `tyc-ck` · [HTML page](https://eulogikon.org/grc/zosimus-of-panopolis/weights)
+**eul_wid:** `tyc-ck` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-weights-tyc-ck)
 
 ## Text
 

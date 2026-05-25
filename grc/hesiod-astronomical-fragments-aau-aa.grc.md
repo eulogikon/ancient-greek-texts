@@ -4,7 +4,7 @@ title_greek: Ἀστρονομικὰ Ἀποσπάσματα
 author: Hesiod
 eul_wid: aau-aa
 eul_aid: aau
-canonical: "https://eulogikon.org/grc/hesiod/astronomical-fragments"
+canonical: "https://eulogikon.org/works/hesiod-astronomical-fragments-aau-aa"
 period: Archaic
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hesiod
 
-**eul_wid:** `aau-aa` · [HTML page](https://eulogikon.org/grc/hesiod/astronomical-fragments)
+**eul_wid:** `aau-aa` · [HTML page](https://eulogikon.org/works/hesiod-astronomical-fragments-aau-aa)
 
 ## Text
 

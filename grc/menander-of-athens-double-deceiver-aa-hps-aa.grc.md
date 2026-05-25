@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα τοῦ Διπλοῦ Ἀπατεῶνος
 author: Menander of Athens
 eul_wid: hps-aa
 eul_aid: hps
-canonical: "https://eulogikon.org/grc/menander-of-athens/double-deceiver-aa"
+canonical: "https://eulogikon.org/works/menander-athens-double-deceiver-hps-aa"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander of Athens
 
-**eul_wid:** `hps-aa` · [HTML page](https://eulogikon.org/grc/menander-of-athens/double-deceiver-aa)
+**eul_wid:** `hps-aa` · [HTML page](https://eulogikon.org/works/menander-athens-double-deceiver-hps-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Συναγωγὴ Ἀττικῶν Λέξεων
 author: Oros of Alexandria
 eul_wid: tmo-ab
 eul_aid: tmo
-canonical: "https://eulogikon.org/grc/oros-of-alexandria/attic-words-ab"
+canonical: "https://eulogikon.org/works/oros-alexandria-attic-words-tmo-ab"
 period: Late Antique
 dialect: Attic
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Oros of Alexandria
 
-**eul_wid:** `tmo-ab` · [HTML page](https://eulogikon.org/grc/oros-of-alexandria/attic-words-ab)
+**eul_wid:** `tmo-ab` · [HTML page](https://eulogikon.org/works/oros-alexandria-attic-words-tmo-ab)
 
 ## Text
 
@@ -32,7 +32,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 4a
 
-.. οἱ δὲ μὴ δεῖν φάσκοντες Ἀθηναίας λέγεσθαι τὰς Ἀττικὰς καὶ τὴν ὁμωνυμίαν αἰτιῶνται, ἣν ἐπιδέχονται πρὸς τὴν θεόν (Ἀθηναία γὰρ ἡ θεὸς καλεῖται), ἀλλ’ ἀντὶ τοῦ Ἀθηναίας φασὶν ἀστὰς λέγεσθαι καὶ Ἀττικάς. {πλὴν πολλή γε ἡ χρῆσις τῆς φωνῆς ἐπὶ τῶν γυναικῶν παρὰ τοῖς ἀρχαίοις, ὡς οἵ τε προειρημένοι ποιηταὶ μαρτυροῦσι} καὶ Δίφιλος ἐν Ἀμάστριδι (fr. 10), καὶ Ἴων (Epidemiae fr. 1 Blumenthal = FGrHist 392f11) δὲ τὴν Θεμιστοκλέους θυγατέρα Ἀθηναίαν ξένην φησὶ καὶ Πίνδαρος ἐν † σχολίοις † (ad fr. 124a4 rettulit Snell, cf. Ind. Fontium. p. 226; oblocutus erat Reitzenstein). ὁ μέντοι Φρύνιχος (P.S. fr. 8) ἀνάττικόν φησιν εἶναι τὴν φωνὴν 〈καὶ〉 θαυμάζει, πῶς ὁ Φερεκράτης (fr. 34) ἀττικώτατος ὢν χρῆται τῇ λέξει. .
+.. οἱ δὲ μὴ δεῖν φάσκοντες Ἀθηναίας λέγεσθαι τὰς Ἀττικὰς καὶ τὴν ὁμωνυμίαν αἰτιῶνται, ἣν ἐπιδέχονται πρὸς τὴν θεόν (Ἀθηναία γὰρ ἡ θεὸς καλεῖται), ἀλλ’ ἀντὶ τοῦ Ἀθηναίας φασὶν ἀστὰς λέγεσθαι καὶ Ἀττικάς. {πλὴν πολλή γε ἡ χρῆσις τῆς φωνῆς ἐπὶ τῶν γυναικῶν παρὰ τοῖς ἀρχαίοις, ὡς οἵ τε προειρημένοι ποιηταὶ μαρτυροῦσι} καὶ Δίφιλος ἐν Ἀμάστριδι (fr. 10), καὶ Ἴων (Epidemiae fr. 1 Blumenthal = FGrHist 392f11) δὲ τὴν Θεμιστοκλέους θυγατέρα Ἀθηναίαν ξένην φησὶ καὶ Πίνδαρος ἐν σχολίοις (ad fr. 124a4 rettulit Snell, cf. Ind. Fontium. p. 226; oblocutus erat Reitzenstein). ὁ μέντοι Φρύνιχος (P.S. fr. 8) ἀνάττικόν φησιν εἶναι τὴν φωνὴν 〈καὶ〉 θαυμάζει, πῶς ὁ Φερεκράτης (fr. 34) ἀττικώτατος ὢν χρῆται τῇ λέξει. .
 
 ### 4b
 
@@ -96,7 +96,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 23
 
-Μένανδρος Ὑδρίᾳ (fr. 403)· „εὐθὺς † καταχρήσασθαι τὸν † ἀνορωρυγμένην ταύτην ἰδών“. ἀντάλλαγον · καλοῦσι τὸν ἀντὶ ἑτέρου ἠλλαγμένον, οὐχὶ ἄνταλλον.
+Μένανδρος Ὑδρίᾳ (fr. 403)· „εὐθὺς καταχρήσασθαι τὸν ἀνορωρυγμένην ταύτην ἰδών“. ἀντάλλαγον · καλοῦσι τὸν ἀντὶ ἑτέρου ἠλλαγμένον, οὐχὶ ἄνταλλον.
 
 ### 24
 
@@ -232,7 +232,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 77
 
-: 1. ᾔδη. 2. ᾔδησθα, ᾔδεισθα († ᾖσθα). 3. ᾔδει(ν) . Plur. : 1. ᾖσμεν, ᾔδεμεν. 2. ᾔστε, ᾔδετε. 3. ᾖσαν . Dual. : 3. ᾔστην . ἠπητὴν οὐδεὶς εἴρηκε τῶν Ἑλλήνων, 〈ἀλλ’ ἀκεστήν 〉.
+: 1. ᾔδη. 2. ᾔδησθα, ᾔδεισθα ( ᾖσθα). 3. ᾔδει(ν) . Plur. : 1. ᾖσμεν, ᾔδεμεν. 2. ᾔστε, ᾔδετε. 3. ᾖσαν . Dual. : 3. ᾔστην . ἠπητὴν οὐδεὶς εἴρηκε τῶν Ἑλλήνων, 〈ἀλλ’ ἀκεστήν 〉.
 
 ### 78
 

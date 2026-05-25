@@ -4,7 +4,7 @@ title_greek: Ἀνώνυμος Ἀντιαττικιστής
 author: Lexicographical Work Anonymous I
 eul_wid: vtu-ac
 eul_aid: vtu
-canonical: "https://eulogikon.org/grc/lexicographical-anonymous-i/anti-atticist"
+canonical: "https://eulogikon.org/works/anon-lex-1-anti-atticist-vtu-ac"
 period: Late Antique
 dialect: Mixed Dialects
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lexicographical Work Anonymous I
 
-**eul_wid:** `vtu-ac` · [HTML page](https://eulogikon.org/grc/lexicographical-anonymous-i/anti-atticist)
+**eul_wid:** `vtu-ac` · [HTML page](https://eulogikon.org/works/anon-lex-1-anti-atticist-vtu-ac)
 
 ## Text
 

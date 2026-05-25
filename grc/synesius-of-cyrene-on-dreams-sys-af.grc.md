@@ -4,7 +4,7 @@ title_greek: Περὶ Ἐνυπνίων
 author: Synesius of Cyrene
 eul_wid: sys-af
 eul_aid: sys
-canonical: "https://eulogikon.org/grc/synesius-of-cyrene/on-dreams"
+canonical: "https://eulogikon.org/works/synesius-cyrene-on-dreams-sys-af"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Synesius of Cyrene
 
-**eul_wid:** `sys-af` · [HTML page](https://eulogikon.org/grc/synesius-of-cyrene/on-dreams)
+**eul_wid:** `sys-af` · [HTML page](https://eulogikon.org/works/synesius-cyrene-on-dreams-sys-af)
 
 ## Text
 

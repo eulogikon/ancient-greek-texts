@@ -4,7 +4,7 @@ title_greek: Κρίτων
 author: Plato of Athens
 eul_wid: ffk-bj
 eul_aid: ffk
-canonical: "https://eulogikon.org/grc/plato/crito"
+canonical: "https://eulogikon.org/works/plato-crito-ffk-bj"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plato of Athens
 
-**eul_wid:** `ffk-bj` · [HTML page](https://eulogikon.org/grc/plato/crito)
+**eul_wid:** `ffk-bj` · [HTML page](https://eulogikon.org/works/plato-crito-ffk-bj)
 
 ## Text
 

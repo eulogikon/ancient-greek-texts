@@ -4,7 +4,7 @@ title_greek: Περὶ ἑπταμηνιαίου τόκου
 author: Pseudo-Hippocrates
 eul_wid: oyw-af
 eul_aid: oyw
-canonical: "https://eulogikon.org/grc/pseudo-hippocrates/seven-month-birth"
+canonical: "https://eulogikon.org/works/pseudo-hippocrates-seven-month-birth-oyw-af"
 period: Roman
 dialect: Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pseudo-Hippocrates
 
-**eul_wid:** `oyw-af` · [HTML page](https://eulogikon.org/grc/pseudo-hippocrates/seven-month-birth)
+**eul_wid:** `oyw-af` · [HTML page](https://eulogikon.org/works/pseudo-hippocrates-seven-month-birth-oyw-af)
 
 ## Text
 

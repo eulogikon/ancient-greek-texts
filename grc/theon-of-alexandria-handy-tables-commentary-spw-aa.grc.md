@@ -4,7 +4,7 @@ title_greek: Ὑπόμνημα εἰς τοὺς προχείρους Πτολε
 author: Theon of Alexandria
 eul_wid: spw-aa
 eul_aid: spw
-canonical: "https://eulogikon.org/grc/theon-of-alexandria/handy-tables-commentary"
+canonical: "https://eulogikon.org/works/theon-alexandria-handy-tables-commentary-spw-aa"
 period: Late Antique
 dialect: Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theon of Alexandria
 
-**eul_wid:** `spw-aa` · [HTML page](https://eulogikon.org/grc/theon-of-alexandria/handy-tables-commentary)
+**eul_wid:** `spw-aa` · [HTML page](https://eulogikon.org/works/theon-alexandria-handy-tables-commentary-spw-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Διάγραμμα
 author: Zosimus of Panopolis
 eul_wid: tyc-cn
 eul_aid: tyc
-canonical: "https://eulogikon.org/grc/zosimus-of-panopolis/diagram"
+canonical: "https://eulogikon.org/works/zosimus-panopolis-diagram-tyc-cn"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Zosimus of Panopolis
 
-**eul_wid:** `tyc-cn` · [HTML page](https://eulogikon.org/grc/zosimus-of-panopolis/diagram)
+**eul_wid:** `tyc-cn` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-diagram-tyc-cn)
 
 ## Text
 

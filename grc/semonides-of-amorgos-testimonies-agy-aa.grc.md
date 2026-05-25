@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Semonides of Amorgos
 eul_wid: agy-aa
 eul_aid: agy
-canonical: "https://eulogikon.org/grc/semonides-of-amorgos/testimonies"
+canonical: "https://eulogikon.org/works/semonides-amorgos-testimonies-agy-aa"
 period: Archaic
 dialect: "Ionic (ia, frg)"
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Semonides of Amorgos
 
-**eul_wid:** `agy-aa` · [HTML page](https://eulogikon.org/grc/semonides-of-amorgos/testimonies)
+**eul_wid:** `agy-aa` · [HTML page](https://eulogikon.org/works/semonides-amorgos-testimonies-agy-aa)
 
 ## Text
 

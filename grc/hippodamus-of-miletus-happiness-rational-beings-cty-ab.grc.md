@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Hippodamus of Miletus
 eul_wid: cty-ab
 eul_aid: cty
-canonical: "https://eulogikon.org/grc/hippodamus-of-miletus/happiness-rational-beings"
+canonical: "https://eulogikon.org/works/hippodamus-miletus-happiness-rational-beings-cty-ab"
 period: Classical
 dialect: Doric
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippodamus of Miletus
 
-**eul_wid:** `cty-ab` · [HTML page](https://eulogikon.org/grc/hippodamus-of-miletus/happiness-rational-beings)
+**eul_wid:** `cty-ab` · [HTML page](https://eulogikon.org/works/hippodamus-miletus-happiness-rational-beings-cty-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Μελέτη γ
 author: Libanius of Antioch
 eul_wid: swk-aa
 eul_aid: swk
-canonical: "https://eulogikon.org/grc/libanius-of-antioch/embassy-menelaus"
+canonical: "https://eulogikon.org/works/libanius-antioch-embassy-menelaus-swk-aa"
 period: Late Antique
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Libanius of Antioch
 
-**eul_wid:** `swk-aa` · [HTML page](https://eulogikon.org/grc/libanius-of-antioch/embassy-menelaus)
+**eul_wid:** `swk-aa` · [HTML page](https://eulogikon.org/works/libanius-antioch-embassy-menelaus-swk-aa)
 
 ## Text
 

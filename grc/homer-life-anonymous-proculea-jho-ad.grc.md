@@ -4,7 +4,7 @@ title_greek: Βίος Προκουλέας
 author: Homer Life-anonymous
 eul_wid: jho-ad
 eul_aid: jho
-canonical: "https://eulogikon.org/grc/homer-life-anonymous/proculea"
+canonical: "https://eulogikon.org/works/homer-proculea-jho-ad"
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Homer Life-anonymous
 
-**eul_wid:** `jho-ad` · [HTML page](https://eulogikon.org/grc/homer-life-anonymous/proculea)
+**eul_wid:** `jho-ad` · [HTML page](https://eulogikon.org/works/homer-proculea-jho-ad)
 
 ## Text
 

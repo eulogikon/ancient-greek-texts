@@ -4,7 +4,7 @@ title_greek: Περὶ τῆς τοῦ κόσμου δημιουργίας
 author: John Philoponus of Alexandria
 eul_wid: uxc-am
 eul_aid: uxc
-canonical: "https://eulogikon.org/grc/john-philoponus-of-alexandria/creation-world"
+canonical: "https://eulogikon.org/works/john-philoponus-alexandria-creation-world-uxc-am"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** John Philoponus of Alexandria
 
-**eul_wid:** `uxc-am` · [HTML page](https://eulogikon.org/grc/john-philoponus-of-alexandria/creation-world)
+**eul_wid:** `uxc-am` · [HTML page](https://eulogikon.org/works/john-philoponus-alexandria-creation-world-uxc-am)
 
 ## Text
 

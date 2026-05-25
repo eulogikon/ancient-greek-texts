@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Simylus the Comic Poet
 eul_wid: idy-aa
 eul_aid: idy
-canonical: "https://eulogikon.org/grc/simylus-the-comic-poet/tarpeia-fragments"
+canonical: "https://eulogikon.org/works/simylus-tarpeia-fragments-idy-aa"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Simylus the Comic Poet
 
-**eul_wid:** `idy-aa` · [HTML page](https://eulogikon.org/grc/simylus-the-comic-poet/tarpeia-fragments)
+**eul_wid:** `idy-aa` · [HTML page](https://eulogikon.org/works/simylus-tarpeia-fragments-idy-aa)
 
 ## Text
 

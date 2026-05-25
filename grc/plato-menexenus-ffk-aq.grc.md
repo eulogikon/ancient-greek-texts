@@ -4,7 +4,7 @@ title_greek: Μενέξενος
 author: Plato of Athens
 eul_wid: ffk-aq
 eul_aid: ffk
-canonical: "https://eulogikon.org/grc/plato/menexenus"
+canonical: "https://eulogikon.org/works/plato-menexenus-ffk-aq"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plato of Athens
 
-**eul_wid:** `ffk-aq` · [HTML page](https://eulogikon.org/grc/plato/menexenus)
+**eul_wid:** `ffk-aq` · [HTML page](https://eulogikon.org/works/plato-menexenus-ffk-aq)
 
 ## Text
 

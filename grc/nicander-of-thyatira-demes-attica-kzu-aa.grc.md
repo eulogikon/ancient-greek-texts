@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Nicander of Thyatira
 eul_wid: kzu-aa
 eul_aid: kzu
-canonical: "https://eulogikon.org/grc/nicander-of-thyatira/demes-attica"
+canonical: "https://eulogikon.org/works/nicander-thyatira-demes-attica-kzu-aa"
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nicander of Thyatira
 
-**eul_wid:** `kzu-aa` · [HTML page](https://eulogikon.org/grc/nicander-of-thyatira/demes-attica)
+**eul_wid:** `kzu-aa` · [HTML page](https://eulogikon.org/works/nicander-thyatira-demes-attica-kzu-aa)
 
 ## Text
 

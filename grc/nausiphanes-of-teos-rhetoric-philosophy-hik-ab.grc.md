@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Nausiphanes of Teos
 eul_wid: hik-ab
 eul_aid: hik
-canonical: "https://eulogikon.org/grc/nausiphanes-of-teos/rhetoric-philosophy"
+canonical: "https://eulogikon.org/works/nausiphanes-teos-rhetoric-philosophy-hik-ab"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nausiphanes of Teos
 
-**eul_wid:** `hik-ab` · [HTML page](https://eulogikon.org/grc/nausiphanes-of-teos/rhetoric-philosophy)
+**eul_wid:** `hik-ab` · [HTML page](https://eulogikon.org/works/nausiphanes-teos-rhetoric-philosophy-hik-ab)
 
 ## Text
 

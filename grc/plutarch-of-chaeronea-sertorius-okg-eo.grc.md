@@ -4,7 +4,7 @@ title_greek: Σερτώριος
 author: Plutarch of Chaeronea
 eul_wid: okg-eo
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/sertorius"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-sertorius-okg-eo"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-eo` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/sertorius)
+**eul_wid:** `okg-eo` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-sertorius-okg-eo)
 
 ## Text
 
@@ -524,7 +524,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### Sert 22 12
 
-διὸ καὶ πολλοῖς ἔδοξεν ἥμερος ἀνὴρ φύσει γεγονὼς καὶ πρὸς ἡσυχίαν ἔχων ἐπιεικῶς, † δι’ αἰτίας παρὰ γνώμην ταῖς στρατηγικαῖς ἀρχαῖς χρῆσθαι, καὶ μὴ τυγχάνων ἀδείας, ἀλλὰ συνελαυνόμενος ὑπὸ τῶν ἐχθρῶν εἰς τὰ ὅπλα, φρουρὰν ἀναγκαίαν τοῦ σώματος περιβάλλεσθαι τὸν πόλεμον. Ἦν δὲ καὶ τὰ πρὸς Μιθριδάτην αὐτοῦ πολιτεύματα μεγαλοφροσύνης.
+διὸ καὶ πολλοῖς ἔδοξεν ἥμερος ἀνὴρ φύσει γεγονὼς καὶ πρὸς ἡσυχίαν ἔχων ἐπιεικῶς, δι’ αἰτίας παρὰ γνώμην ταῖς στρατηγικαῖς ἀρχαῖς χρῆσθαι, καὶ μὴ τυγχάνων ἀδείας, ἀλλὰ συνελαυνόμενος ὑπὸ τῶν ἐχθρῶν εἰς τὰ ὅπλα, φρουρὰν ἀναγκαίαν τοῦ σώματος περιβάλλεσθαι τὸν πόλεμον. Ἦν δὲ καὶ τὰ πρὸς Μιθριδάτην αὐτοῦ πολιτεύματα μεγαλοφροσύνης.
 
 ### Sert 23 2
 

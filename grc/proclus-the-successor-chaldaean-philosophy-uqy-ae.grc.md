@@ -4,7 +4,7 @@ title_greek: Ἐκλογαὶ περὶ Χαλδαϊκῆς φιλοσοφίας
 author: Proclus the Successor
 eul_wid: uqy-ae
 eul_aid: uqy
-canonical: "https://eulogikon.org/grc/proclus-the-successor/chaldaean-philosophy"
+canonical: "https://eulogikon.org/works/proclus-chaldaean-philosophy-uqy-ae"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Proclus the Successor
 
-**eul_wid:** `uqy-ae` · [HTML page](https://eulogikon.org/grc/proclus-the-successor/chaldaean-philosophy)
+**eul_wid:** `uqy-ae` · [HTML page](https://eulogikon.org/works/proclus-chaldaean-philosophy-uqy-ae)
 
 ## Text
 

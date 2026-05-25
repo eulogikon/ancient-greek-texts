@@ -4,7 +4,7 @@ title_greek: περὶ τοῦ Πυθαγορικοῦ βίου λόγος
 author: Iamblichus of Chalcis
 eul_wid: udw-ab
 eul_aid: udw
-canonical: "https://eulogikon.org/grc/iamblichus-of-chalcis/pythagorean-life"
+canonical: "https://eulogikon.org/works/iamblichus-chalcis-pythagorean-life-udw-ab"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Iamblichus of Chalcis
 
-**eul_wid:** `udw-ab` · [HTML page](https://eulogikon.org/grc/iamblichus-of-chalcis/pythagorean-life)
+**eul_wid:** `udw-ab` · [HTML page](https://eulogikon.org/works/iamblichus-chalcis-pythagorean-life-udw-ab)
 
 ## Text
 

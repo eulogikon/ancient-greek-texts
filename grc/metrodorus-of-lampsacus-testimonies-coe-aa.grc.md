@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Metrodorus of Lampsacus the Elder
 eul_wid: coe-aa
 eul_aid: coe
-canonical: "https://eulogikon.org/grc/metrodorus-of-lampsacus/testimonies"
+canonical: "https://eulogikon.org/works/metrodorus-lampsacus-testimonies-coe-aa"
 period: Classical
 dialect: Ionic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Metrodorus of Lampsacus the Elder
 
-**eul_wid:** `coe-aa` · [HTML page](https://eulogikon.org/grc/metrodorus-of-lampsacus/testimonies)
+**eul_wid:** `coe-aa` · [HTML page](https://eulogikon.org/works/metrodorus-lampsacus-testimonies-coe-aa)
 
 ## Text
 

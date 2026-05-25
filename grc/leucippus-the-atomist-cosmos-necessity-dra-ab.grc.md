@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Leucippus the Atomist
 eul_wid: dra-ab
 eul_aid: dra
-canonical: "https://eulogikon.org/grc/leucippus-the-atomist/cosmos-necessity"
+canonical: "https://eulogikon.org/works/leucippus-cosmos-necessity-dra-ab"
 period: Classical
 dialect: Ionic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Leucippus the Atomist
 
-**eul_wid:** `dra-ab` · [HTML page](https://eulogikon.org/grc/leucippus-the-atomist/cosmos-necessity)
+**eul_wid:** `dra-ab` · [HTML page](https://eulogikon.org/works/leucippus-cosmos-necessity-dra-ab)
 
 ## Text
 

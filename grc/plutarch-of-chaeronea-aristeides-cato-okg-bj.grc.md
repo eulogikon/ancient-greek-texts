@@ -4,7 +4,7 @@ title_greek: Ἀριστείδου καὶ Κάτωνος σύγκρισις
 author: Plutarch of Chaeronea
 eul_wid: okg-bj
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/aristeides-cato"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-aristeides-cato-okg-bj"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-bj` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/aristeides-cato)
+**eul_wid:** `okg-bj` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-aristeides-cato-okg-bj)
 
 ## Text
 

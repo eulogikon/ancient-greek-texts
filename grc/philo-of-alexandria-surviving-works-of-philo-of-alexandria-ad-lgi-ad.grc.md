@@ -4,7 +4,7 @@ title_greek: Περὶ τοῦ Θεωρητικοῦ Βίου
 author: Philo of Alexandria
 eul_wid: lgi-ad
 eul_aid: lgi
-canonical: "https://eulogikon.org/grc/philo-of-alexandria/surviving-works-of-philo-of-alexandria-ad"
+canonical: "https://eulogikon.org/works/philo-alexandria-surviving-works-of-philo-of-alexandria-lgi-ad"
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philo of Alexandria
 
-**eul_wid:** `lgi-ad` · [HTML page](https://eulogikon.org/grc/philo-of-alexandria/surviving-works-of-philo-of-alexandria-ad)
+**eul_wid:** `lgi-ad` · [HTML page](https://eulogikon.org/works/philo-alexandria-surviving-works-of-philo-of-alexandria-lgi-ad)
 
 ## Text
 

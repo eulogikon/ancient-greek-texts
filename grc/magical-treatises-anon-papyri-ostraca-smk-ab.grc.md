@@ -4,7 +4,7 @@ title_greek: Μαγικὰ Πάπυροι
 author: Magical Treatises Anonymous
 eul_wid: smk-ab
 eul_aid: smk
-canonical: "https://eulogikon.org/grc/magical-treatises-anon/papyri-ostraca"
+canonical: "https://eulogikon.org/works/magical-treatises-anon-papyri-ostraca-smk-ab"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Magical Treatises Anonymous
 
-**eul_wid:** `smk-ab` · [HTML page](https://eulogikon.org/grc/magical-treatises-anon/papyri-ostraca)
+**eul_wid:** `smk-ab` · [HTML page](https://eulogikon.org/works/magical-treatises-anon-papyri-ostraca-smk-ab)
 
 ## Text
 

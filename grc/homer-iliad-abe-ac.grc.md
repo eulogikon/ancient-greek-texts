@@ -4,7 +4,7 @@ title_greek: Ἰλιάς
 author: Homer
 eul_wid: abe-ac
 eul_aid: abe
-canonical: "https://eulogikon.org/grc/homer/iliad"
+canonical: "https://eulogikon.org/works/homer-iliad-abe-ac"
 period: Archaic
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Homer
 
-**eul_wid:** `abe-ac` · [HTML page](https://eulogikon.org/grc/homer/iliad)
+**eul_wid:** `abe-ac` · [HTML page](https://eulogikon.org/works/homer-iliad-abe-ac)
 
 ## Text
 

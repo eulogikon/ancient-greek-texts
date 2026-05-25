@@ -4,7 +4,7 @@ title_greek: Περὶ τοῦ μὴ εἶναι τέλος ἡδονήν
 author: Teles of Megara
 eul_wid: kkk-ac
 eul_aid: kkk
-canonical: "https://eulogikon.org/grc/teles-of-megara/pleasure-not-end"
+canonical: "https://eulogikon.org/works/teles-megara-pleasure-not-end-kkk-ac"
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Teles of Megara
 
-**eul_wid:** `kkk-ac` · [HTML page](https://eulogikon.org/grc/teles-of-megara/pleasure-not-end)
+**eul_wid:** `kkk-ac` · [HTML page](https://eulogikon.org/works/teles-megara-pleasure-not-end-kkk-ac)
 
 ## Text
 

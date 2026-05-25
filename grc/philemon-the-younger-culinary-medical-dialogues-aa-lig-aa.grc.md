@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: "Philemon the Younger "
 eul_wid: lig-aa
 eul_aid: lig
-canonical: "https://eulogikon.org/grc/philemon-the-younger/culinary-medical-dialogues-aa"
+canonical: "https://eulogikon.org/works/philemon-younger-culinary-medical-dialogues-lig-aa"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philemon the Younger 
 
-**eul_wid:** `lig-aa` · [HTML page](https://eulogikon.org/grc/philemon-the-younger/culinary-medical-dialogues-aa)
+**eul_wid:** `lig-aa` · [HTML page](https://eulogikon.org/works/philemon-younger-culinary-medical-dialogues-lig-aa)
 
 ## Text
 

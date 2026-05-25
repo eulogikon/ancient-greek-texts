@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Semus of Delos
 eul_wid: jlk-aa
 eul_aid: jlk
-canonical: "https://eulogikon.org/grc/semus-of-delos/antiquities-customs"
+canonical: "https://eulogikon.org/works/semus-delos-antiquities-customs-jlk-aa"
 period: Hellenistic
 dialect: Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Semus of Delos
 
-**eul_wid:** `jlk-aa` · [HTML page](https://eulogikon.org/grc/semus-of-delos/antiquities-customs)
+**eul_wid:** `jlk-aa` · [HTML page](https://eulogikon.org/works/semus-delos-antiquities-customs-jlk-aa)
 
 ## Text
 

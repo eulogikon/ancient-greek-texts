@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Δικῶν
 author: Lysias the Orator
 eul_wid: ejc-bh
 eul_aid: ejc
-canonical: "https://eulogikon.org/grc/lysias/legal-disputes"
+canonical: "https://eulogikon.org/works/lysias-legal-disputes-ejc-bh"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lysias the Orator
 
-**eul_wid:** `ejc-bh` · [HTML page](https://eulogikon.org/grc/lysias/legal-disputes)
+**eul_wid:** `ejc-bh` · [HTML page](https://eulogikon.org/works/lysias-legal-disputes-ejc-bh)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Αποσπάσματα
 author: Moschus of Syracuse
 eul_wid: mdu-aa
 eul_aid: mdu
-canonical: "https://eulogikon.org/grc/moschus-of-syracuse/epitaph-bion"
+canonical: "https://eulogikon.org/works/moschus-syracuse-epitaph-bion-mdu-aa"
 period: Hellenistic
 dialect: Doric Bucolic
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Moschus of Syracuse
 
-**eul_wid:** `mdu-aa` · [HTML page](https://eulogikon.org/grc/moschus-of-syracuse/epitaph-bion)
+**eul_wid:** `mdu-aa` · [HTML page](https://eulogikon.org/works/moschus-syracuse-epitaph-bion-mdu-aa)
 
 ## Text
 
@@ -28,7 +28,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### unit_2
 
-καὶ γοεροῖς στομάτεσσι μελίσδετε πένθιμον ᾠδάν †οἵαν ὑμετέροις ποτὶ χείλεσι γῆρυς ἄειδεν.† εἴπατε δ’ αὖ κούραις Οἰαγρίσιν, εἴπατε πάσαις Βιστονίαις Νύμφαισιν, ‘ἀπώλετο Δώριος Ὀρφεύσ‘. ἄρχετε Σικελικαί, τῶ πένθεος ἄρχετε, Μοῖσαι. κεῖνος ὁ ταῖς ἀγέλαισιν ἐράσμιος οὐκέτι μέλπει, οὐκέτ’ ἐρημαίαισιν ὑπὸ δρυσὶν ἥμενος ᾄδει, ἀλλὰ παρὰ Πλουτῆι μέλος Ληθαῖον ἀείδει. ὤρεα δ’ ἐστὶν ἄφωνα, καὶ αἱ βόες αἱ ποτὶ ταύροις πλαζόμεναι γοάοντι καὶ οὐκ ἐθέλοντι νέμεσθαι.
+καὶ γοεροῖς στομάτεσσι μελίσδετε πένθιμον ᾠδάν οἵαν ὑμετέροις ποτὶ χείλεσι γῆρυς ἄειδεν. εἴπατε δ’ αὖ κούραις Οἰαγρίσιν, εἴπατε πάσαις Βιστονίαις Νύμφαισιν, ‘ἀπώλετο Δώριος Ὀρφεύσ‘. ἄρχετε Σικελικαί, τῶ πένθεος ἄρχετε, Μοῖσαι. κεῖνος ὁ ταῖς ἀγέλαισιν ἐράσμιος οὐκέτι μέλπει, οὐκέτ’ ἐρημαίαισιν ὑπὸ δρυσὶν ἥμενος ᾄδει, ἀλλὰ παρὰ Πλουτῆι μέλος Ληθαῖον ἀείδει. ὤρεα δ’ ἐστὶν ἄφωνα, καὶ αἱ βόες αἱ ποτὶ ταύροις πλαζόμεναι γοάοντι καὶ οὐκ ἐθέλοντι νέμεσθαι.
 
 ### unit_3
 

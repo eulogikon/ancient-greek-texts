@@ -4,7 +4,7 @@ title_greek: Περὶ Φύσεως Ὀστέων
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-am
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/nature-bones"
+canonical: "https://eulogikon.org/works/hippocrates-nature-bones-bww-am"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-am` · [HTML page](https://eulogikon.org/grc/hippocrates/nature-bones)
+**eul_wid:** `bww-am` · [HTML page](https://eulogikon.org/works/hippocrates-nature-bones-bww-am)
 
 ## Text
 

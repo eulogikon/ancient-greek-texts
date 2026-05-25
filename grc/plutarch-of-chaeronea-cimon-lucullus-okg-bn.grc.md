@@ -4,7 +4,7 @@ title_greek: Κίμωνος καὶ Λουκούλλος σύγκρισις
 author: Plutarch of Chaeronea
 eul_wid: okg-bn
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/cimon-lucullus"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-cimon-lucullus-okg-bn"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-bn` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/cimon-lucullus)
+**eul_wid:** `okg-bn` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-cimon-lucullus-okg-bn)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Κονεαζόμεναι
 author: Menander of Athens
 eul_wid: hps-ay
 eul_aid: hps
-canonical: "https://eulogikon.org/grc/menander-of-athens/coneazomenae"
+canonical: "https://eulogikon.org/works/menander-athens-coneazomenae-hps-ay"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander of Athens
 
-**eul_wid:** `hps-ay` · [HTML page](https://eulogikon.org/grc/menander-of-athens/coneazomenae)
+**eul_wid:** `hps-ay` · [HTML page](https://eulogikon.org/works/menander-athens-coneazomenae-hps-ay)
 
 ## Text
 
@@ -72,7 +72,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 7.3
 
-(Α) [ τίν]ι̣;
+(Α) [ τίν]ι;
 
 ### 9
 

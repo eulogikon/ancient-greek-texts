@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Melissus of Samos
 eul_wid: diy-aa
 eul_aid: diy
-canonical: "https://eulogikon.org/grc/melissus-of-samos/testimonies"
+canonical: "https://eulogikon.org/works/melissus-samos-testimonies-diy-aa"
 period: Classical
 dialect: Ionic (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Melissus of Samos
 
-**eul_wid:** `diy-aa` · [HTML page](https://eulogikon.org/grc/melissus-of-samos/testimonies)
+**eul_wid:** `diy-aa` · [HTML page](https://eulogikon.org/works/melissus-samos-testimonies-diy-aa)
 
 ## Text
 

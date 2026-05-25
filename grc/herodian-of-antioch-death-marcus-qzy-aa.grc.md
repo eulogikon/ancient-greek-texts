@@ -4,7 +4,7 @@ title_greek: Ἀπὸ τοῦ θανάτου τοῦ θεῖου Μάρκου
 author: Herodian of Antioch
 eul_wid: qzy-aa
 eul_aid: qzy
-canonical: "https://eulogikon.org/grc/herodian-of-antioch/death-marcus"
+canonical: "https://eulogikon.org/works/herodian-antioch-death-marcus-qzy-aa"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Herodian of Antioch
 
-**eul_wid:** `qzy-aa` · [HTML page](https://eulogikon.org/grc/herodian-of-antioch/death-marcus)
+**eul_wid:** `qzy-aa` · [HTML page](https://eulogikon.org/works/herodian-antioch-death-marcus-qzy-aa)
 
 ## Text
 

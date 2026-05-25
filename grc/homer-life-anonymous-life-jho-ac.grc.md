@@ -4,7 +4,7 @@ title_greek: Βίος Πλουτάρχου
 author: Homer Life-anonymous
 eul_wid: jho-ac
 eul_aid: jho
-canonical: "https://eulogikon.org/grc/homer-life-anonymous/life"
+canonical: "https://eulogikon.org/works/homer-life-jho-ac"
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Homer Life-anonymous
 
-**eul_wid:** `jho-ac` · [HTML page](https://eulogikon.org/grc/homer-life-anonymous/life)
+**eul_wid:** `jho-ac` · [HTML page](https://eulogikon.org/works/homer-life-jho-ac)
 
 ## Text
 

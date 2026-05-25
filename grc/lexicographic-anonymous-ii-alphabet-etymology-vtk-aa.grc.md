@@ -4,7 +4,7 @@ title_greek: Ἐτυμολογία τοῦ Ἀλφαβήτου
 author: Lexicographic Work Anonymous II
 eul_wid: vtk-aa
 eul_aid: vtk
-canonical: "https://eulogikon.org/grc/lexicographic-anonymous-ii/alphabet-etymology"
+canonical: "https://eulogikon.org/works/anon-lex-ii-alphabet-etymology-vtk-aa"
 period: Late Antique
 dialect: Mixed Dialects
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lexicographic Work Anonymous II
 
-**eul_wid:** `vtk-aa` · [HTML page](https://eulogikon.org/grc/lexicographic-anonymous-ii/alphabet-etymology)
+**eul_wid:** `vtk-aa` · [HTML page](https://eulogikon.org/works/anon-lex-ii-alphabet-etymology-vtk-aa)
 
 ## Text
 

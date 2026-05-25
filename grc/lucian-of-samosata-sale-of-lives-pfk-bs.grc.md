@@ -4,7 +4,7 @@ title_greek: Βίων Πρᾶσις
 author: Lucian of Samosata
 eul_wid: pfk-bs
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/sale-of-lives"
+canonical: "https://eulogikon.org/works/lucian-samosata-sale-of-lives-pfk-bs"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-bs` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/sale-of-lives)
+**eul_wid:** `pfk-bs` · [HTML page](https://eulogikon.org/works/lucian-samosata-sale-of-lives-pfk-bs)
 
 ## Text
 

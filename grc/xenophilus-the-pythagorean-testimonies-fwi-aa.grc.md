@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Xenophilus the Pythagorean
 eul_wid: fwi-aa
 eul_aid: fwi
-canonical: "https://eulogikon.org/grc/xenophilus-the-pythagorean/testimonies"
+canonical: "https://eulogikon.org/works/xenophilus-pythagorean-testimonies-fwi-aa"
 period: Classical
 dialect: "Attic (phi, frg)"
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Xenophilus the Pythagorean
 
-**eul_wid:** `fwi-aa` · [HTML page](https://eulogikon.org/grc/xenophilus-the-pythagorean/testimonies)
+**eul_wid:** `fwi-aa` · [HTML page](https://eulogikon.org/works/xenophilus-pythagorean-testimonies-fwi-aa)
 
 ## Text
 

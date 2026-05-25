@@ -4,7 +4,7 @@ title_greek: Ὕμνος εἰς Ἄρην
 author: Hymnic Collection  Anonymous
 eul_wid: upu-bf
 eul_aid: upu
-canonical: "https://eulogikon.org/grc/homeric-hymns-anonymous/ares"
+canonical: "https://eulogikon.org/works/hymnic-anon-ares-upu-bf"
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hymnic Collection  Anonymous
 
-**eul_wid:** `upu-bf` · [HTML page](https://eulogikon.org/grc/homeric-hymns-anonymous/ares)
+**eul_wid:** `upu-bf` · [HTML page](https://eulogikon.org/works/hymnic-anon-ares-upu-bf)
 
 ## Text
 

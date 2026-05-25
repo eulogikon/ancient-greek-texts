@@ -4,7 +4,7 @@ title_greek: Μελέται Αʹ–ΝΑʹ
 author: Libanius of Antioch
 eul_wid: swk-ag
 eul_aid: swk
-canonical: "https://eulogikon.org/grc/libanius-of-antioch/declamations-ag"
+canonical: "https://eulogikon.org/works/libanius-antioch-declamations-swk-ag"
 period: Late Antique
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Libanius of Antioch
 
-**eul_wid:** `swk-ag` · [HTML page](https://eulogikon.org/grc/libanius-of-antioch/declamations-ag)
+**eul_wid:** `swk-ag` · [HTML page](https://eulogikon.org/works/libanius-antioch-declamations-swk-ag)
 
 ## Text
 

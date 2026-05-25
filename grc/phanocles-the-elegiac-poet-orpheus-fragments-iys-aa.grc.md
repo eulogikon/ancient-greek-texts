@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ὀρφέως
 author: Phanocles the Elegiac Poet
 eul_wid: iys-aa
 eul_aid: iys
-canonical: "https://eulogikon.org/grc/phanocles-the-elegiac-poet/orpheus-fragments"
+canonical: "https://eulogikon.org/works/phanocles-orpheus-fragments-iys-aa"
 period: Hellenistic
 dialect: Epic (Homeric) (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Phanocles the Elegiac Poet
 
-**eul_wid:** `iys-aa` · [HTML page](https://eulogikon.org/grc/phanocles-the-elegiac-poet/orpheus-fragments)
+**eul_wid:** `iys-aa` · [HTML page](https://eulogikon.org/works/phanocles-orpheus-fragments-iys-aa)
 
 ## Text
 

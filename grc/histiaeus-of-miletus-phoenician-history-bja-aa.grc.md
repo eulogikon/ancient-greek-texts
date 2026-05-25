@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Histiaeus of Miletus
 eul_wid: bja-aa
 eul_aid: bja
-canonical: "https://eulogikon.org/grc/histiaeus-of-miletus/phoenician-history"
+canonical: "https://eulogikon.org/works/histiaeus-miletus-phoenician-history-bja-aa"
 period: Archaic
 dialect: Ionic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Histiaeus of Miletus
 
-**eul_wid:** `bja-aa` · [HTML page](https://eulogikon.org/grc/histiaeus-of-miletus/phoenician-history)
+**eul_wid:** `bja-aa` · [HTML page](https://eulogikon.org/works/histiaeus-miletus-phoenician-history-bja-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ Γνωμῶν
 author: "Menander Protector "
 eul_wid: viq-aa
 eul_aid: viq
-canonical: "https://eulogikon.org/grc/menander-protector/constantine-sentences"
+canonical: "https://eulogikon.org/works/menander-protector-constantine-sentences-viq-aa"
 period: Late Antique
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander Protector 
 
-**eul_wid:** `viq-aa` · [HTML page](https://eulogikon.org/grc/menander-protector/constantine-sentences)
+**eul_wid:** `viq-aa` · [HTML page](https://eulogikon.org/works/menander-protector-constantine-sentences-viq-aa)
 
 ## Text
 
@@ -142,7 +142,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 46
 
-.............α ὡς αὐτὸν Καλλίστρατος καὶ Ζαχαρίας καὶ ἐπαγώγοις χρησάμενοι ῥήμασιν ἐπειρῶντο ἀπάγειν τὸν ἄνδρα τῆς λύπης εω...σαν τ̣ε̣ κα̣ι̣ α̣υ̣ τ̣ο̣κρατορα...ασθαι αὐτόν. Ὅτι ὁ Θεόγνις εὑρηκὼς Ῥωμαίους ἀτρέμα διάγοντας τῷ τοὺς ἀρτιμαθεῖς τὰ πλεῖστα .
+.............α ὡς αὐτὸν Καλλίστρατος καὶ Ζαχαρίας καὶ ἐπαγώγοις χρησάμενοι ῥήμασιν ἐπειρῶντο ἀπάγειν τὸν ἄνδρα τῆς λύπης εω...σαν τε και αυ τοκρατορα...ασθαι αὐτόν. Ὅτι ὁ Θεόγνις εὑρηκὼς Ῥωμαίους ἀτρέμα διάγοντας τῷ τοὺς ἀρτιμαθεῖς τὰ πλεῖστα .
 
 ### 47
 

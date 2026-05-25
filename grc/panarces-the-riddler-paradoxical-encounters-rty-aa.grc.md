@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Panarces the Writer of Riddles
 eul_wid: rty-aa
 eul_aid: rty
-canonical: "https://eulogikon.org/grc/panarces-the-riddler/paradoxical-encounters"
+canonical: "https://eulogikon.org/works/panarces-riddles-paradoxical-encounters-rty-aa"
 period: Roman
 dialect: Koine
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Panarces the Writer of Riddles
 
-**eul_wid:** `rty-aa` · [HTML page](https://eulogikon.org/grc/panarces-the-riddler/paradoxical-encounters)
+**eul_wid:** `rty-aa` · [HTML page](https://eulogikon.org/works/panarces-riddles-paradoxical-encounters-rty-aa)
 
 ## Text
 
@@ -48,7 +48,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book b.1
 
-ἄνθρωπος οὐκ ἄνθρωπος, ἄνθρωπος δ’ ὅμως, ὄρνιθα κοὐκ ὄρνιθα, †ὄρνιθα δ’ ὅμως†, ἐπὶ ξύλου
+ἄνθρωπος οὐκ ἄνθρωπος, ἄνθρωπος δ’ ὅμως, ὄρνιθα κοὐκ ὄρνιθα, ὄρνιθα δ’ ὅμως, ἐπὶ ξύλου
 
 ### book b.2
 

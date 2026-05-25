@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἀννίβα
 author: Silenus of Caleacte
 eul_wid: ktq-aa
 eul_aid: ktq
-canonical: "https://eulogikon.org/grc/silenus-of-caleacte/historical-fragments-hannibal"
+canonical: "https://eulogikon.org/works/silenus-caleacte-historical-fragments-hannibal-ktq-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Silenus of Caleacte
 
-**eul_wid:** `ktq-aa` · [HTML page](https://eulogikon.org/grc/silenus-of-caleacte/historical-fragments-hannibal)
+**eul_wid:** `ktq-aa` · [HTML page](https://eulogikon.org/works/silenus-caleacte-historical-fragments-hannibal-ktq-aa)
 
 ## Text
 

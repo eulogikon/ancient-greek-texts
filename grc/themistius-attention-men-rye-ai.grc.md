@@ -4,7 +4,7 @@ title_greek: Περὶ τοῦ μὴ δεῖν τοῖς τόποις ἀλλὰ
 author: Themistius the Philosopher
 eul_wid: rye-ai
 eul_aid: rye
-canonical: "https://eulogikon.org/grc/themistius/attention-men"
+canonical: "https://eulogikon.org/works/themistius-attention-men-rye-ai"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Themistius the Philosopher
 
-**eul_wid:** `rye-ai` · [HTML page](https://eulogikon.org/grc/themistius/attention-men)
+**eul_wid:** `rye-ai` · [HTML page](https://eulogikon.org/works/themistius-attention-men-rye-ai)
 
 ## Text
 

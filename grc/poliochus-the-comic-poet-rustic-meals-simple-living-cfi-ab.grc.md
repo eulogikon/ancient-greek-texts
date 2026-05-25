@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Poliochus the Comic Poet
 eul_wid: cfi-ab
 eul_aid: cfi
-canonical: "https://eulogikon.org/grc/poliochus-the-comic-poet/rustic-meals-simple-living"
+canonical: "https://eulogikon.org/works/poliochus-rustic-meals-simple-living-cfi-ab"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Poliochus the Comic Poet
 
-**eul_wid:** `cfi-ab` · [HTML page](https://eulogikon.org/grc/poliochus-the-comic-poet/rustic-meals-simple-living)
+**eul_wid:** `cfi-ab` · [HTML page](https://eulogikon.org/works/poliochus-rustic-meals-simple-living-cfi-ab)
 
 ## Text
 

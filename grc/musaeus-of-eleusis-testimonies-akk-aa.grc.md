@@ -4,7 +4,7 @@ title_greek: "Τὰ καθ' Ἡρὼ καὶ Λέναδρον"
 author: Musaeus of Eleusis
 eul_wid: akk-aa
 eul_aid: akk
-canonical: "https://eulogikon.org/grc/musaeus-of-eleusis/testimonies"
+canonical: "https://eulogikon.org/works/musaeus-eleusis-testimonies-akk-aa"
 period: Archaic
 dialect: Epic (Homeric)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Musaeus of Eleusis
 
-**eul_wid:** `akk-aa` · [HTML page](https://eulogikon.org/grc/musaeus-of-eleusis/testimonies)
+**eul_wid:** `akk-aa` · [HTML page](https://eulogikon.org/works/musaeus-eleusis-testimonies-akk-aa)
 
 ## Text
 

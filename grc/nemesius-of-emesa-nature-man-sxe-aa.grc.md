@@ -4,7 +4,7 @@ title_greek: Περὶ φύσεως ἀνθρώπου
 author: Nemesius of Emesa
 eul_wid: sxe-aa
 eul_aid: sxe
-canonical: "https://eulogikon.org/grc/nemesius-of-emesa/nature-man"
+canonical: "https://eulogikon.org/works/nemesius-emesa-nature-man-sxe-aa"
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nemesius of Emesa
 
-**eul_wid:** `sxe-aa` · [HTML page](https://eulogikon.org/grc/nemesius-of-emesa/nature-man)
+**eul_wid:** `sxe-aa` · [HTML page](https://eulogikon.org/works/nemesius-emesa-nature-man-sxe-aa)
 
 ## Text
 

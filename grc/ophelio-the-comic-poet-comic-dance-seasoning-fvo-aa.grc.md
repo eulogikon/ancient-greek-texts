@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Ophelio Comicus
 eul_wid: fvo-aa
 eul_aid: fvo
-canonical: "https://eulogikon.org/grc/ophelio-the-comic-poet/comic-dance-seasoning"
+canonical: "https://eulogikon.org/works/ophelio-comic-dance-seasoning-fvo-aa"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ophelio Comicus
 
-**eul_wid:** `fvo-aa` · [HTML page](https://eulogikon.org/grc/ophelio-the-comic-poet/comic-dance-seasoning)
+**eul_wid:** `fvo-aa` · [HTML page](https://eulogikon.org/works/ophelio-comic-dance-seasoning-fvo-aa)
 
 ## Text
 

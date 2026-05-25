@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τῶν Ἐνάλων Ζῴων
 author: Nausicrates the Comic Poet
 eul_wid: fqe-ab
 eul_aid: fqe
-canonical: "https://eulogikon.org/grc/nausicrates-the-comic-poet/sea-creatures"
+canonical: "https://eulogikon.org/works/nausicrates-sea-creatures-fqe-ab"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nausicrates the Comic Poet
 
-**eul_wid:** `fqe-ab` · [HTML page](https://eulogikon.org/grc/nausicrates-the-comic-poet/sea-creatures)
+**eul_wid:** `fqe-ab` · [HTML page](https://eulogikon.org/works/nausicrates-sea-creatures-fqe-ab)
 
 ## Text
 

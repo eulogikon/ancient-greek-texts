@@ -4,7 +4,7 @@ title_greek: Τραχίνιαι
 author: Sophocles
 eul_wid: buo-ab
 eul_aid: buo
-canonical: "https://eulogikon.org/grc/sophocles/women-of-trachis"
+canonical: "https://eulogikon.org/works/sophocles-women-of-trachis-buo-ab"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sophocles
 
-**eul_wid:** `buo-ab` · [HTML page](https://eulogikon.org/grc/sophocles/women-of-trachis)
+**eul_wid:** `buo-ab` · [HTML page](https://eulogikon.org/works/sophocles-women-of-trachis-buo-ab)
 
 ## Text
 
@@ -4064,7 +4064,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1005.1
 
-ἐᾶτέ μ〈ε〉, –⏑–, ἐᾶτέ με δύσμορον
+ἐᾶτέ μ〈ε〉, ––, ἐᾶτέ με δύσμορον
 
 ### 1005.2
 
@@ -4112,11 +4112,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1016.1
 
-–⏑⏑–⏑–
+–––
 
 ### 1016.2
 
-–⏑⏑– μολὼν τοῦ στυγεροῦ; Φεῦ φεῦ.
+–– μολὼν τοῦ στυγεροῦ; Φεῦ φεῦ.
 
 ### 1017.1
 
@@ -4184,7 +4184,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1040
 
-αὕτως, ὧδ’ αὕτως, ὥς μ’ ὤλεσεν –⏑⏑––.
+αὕτως, ὧδ’ αὕτως, ὥς μ’ ὤλεσεν –––.
 
 ### 1040.1
 

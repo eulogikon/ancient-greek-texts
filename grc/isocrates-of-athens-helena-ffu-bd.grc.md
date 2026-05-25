@@ -4,7 +4,7 @@ title_greek: Ελένη
 author: Isocrates of Athens
 eul_wid: ffu-bd
 eul_aid: ffu
-canonical: "https://eulogikon.org/grc/isocrates-of-athens/helena"
+canonical: "https://eulogikon.org/works/isocrates-athens-helena-ffu-bd"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Isocrates of Athens
 
-**eul_wid:** `ffu-bd` · [HTML page](https://eulogikon.org/grc/isocrates-of-athens/helena)
+**eul_wid:** `ffu-bd` · [HTML page](https://eulogikon.org/works/isocrates-athens-helena-ffu-bd)
 
 ## Text
 
@@ -48,7 +48,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### Hel 14
 
-Διὸ καὶ τὸν γράψαντα περὶ τῆς Ἑλένης ἐπαινῶ μάλιστα τῶν εὖ λέγειν τι βουληθέντων, ὅτι περὶ τοιαύτης ἐμνήσθη γυναικὸς ἣ καὶ τῷ γένει καὶ τῷ κάλλει καὶ τῇ δόξῃ πολὺ διήνεγκεν. Οὐ μὴν ἀλλὰ καὶ τοῦτον μικρόν τι παρέλαθεν· φησὶ μὲν γὰρ ἐγκώμιον γεγραφέναι περὶ αὐτῆς, τυγχάνει δ’ ἀπολογίαν εἰρηκὼς ὑπὲρ τῶν ἐκείνῃ πεπραγμένων. Ἔστιν δ’ οὐκ ἐκ τῶν αὐτῶν ἰδεῶν οὐδὲ περὶ τῶν αὐτῶν † ἔργων ὁ λόγος, ἀλλὰ πᾶν τοὐναντίον· ἀπολογεῖσθαι μὲν γὰρ προσήκει περὶ τῶν ἀδικεῖν αἰτίαν ἐχόντων, ἐπαινεῖν δὲ τοὺς ἐπ’ ἀγαθῷ τινὶ διαφέροντας.
+Διὸ καὶ τὸν γράψαντα περὶ τῆς Ἑλένης ἐπαινῶ μάλιστα τῶν εὖ λέγειν τι βουληθέντων, ὅτι περὶ τοιαύτης ἐμνήσθη γυναικὸς ἣ καὶ τῷ γένει καὶ τῷ κάλλει καὶ τῇ δόξῃ πολὺ διήνεγκεν. Οὐ μὴν ἀλλὰ καὶ τοῦτον μικρόν τι παρέλαθεν· φησὶ μὲν γὰρ ἐγκώμιον γεγραφέναι περὶ αὐτῆς, τυγχάνει δ’ ἀπολογίαν εἰρηκὼς ὑπὲρ τῶν ἐκείνῃ πεπραγμένων. Ἔστιν δ’ οὐκ ἐκ τῶν αὐτῶν ἰδεῶν οὐδὲ περὶ τῶν αὐτῶν ἔργων ὁ λόγος, ἀλλὰ πᾶν τοὐναντίον· ἀπολογεῖσθαι μὲν γὰρ προσήκει περὶ τῶν ἀδικεῖν αἰτίαν ἐχόντων, ἐπαινεῖν δὲ τοὺς ἐπ’ ἀγαθῷ τινὶ διαφέροντας.
 
 ### Hel 15
 

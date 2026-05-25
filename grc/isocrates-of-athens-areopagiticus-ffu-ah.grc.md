@@ -4,7 +4,7 @@ title_greek: Ἀρεοπαγιτικός
 author: Isocrates of Athens
 eul_wid: ffu-ah
 eul_aid: ffu
-canonical: "https://eulogikon.org/grc/isocrates-of-athens/areopagiticus"
+canonical: "https://eulogikon.org/works/isocrates-athens-areopagiticus-ffu-ah"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Isocrates of Athens
 
-**eul_wid:** `ffu-ah` · [HTML page](https://eulogikon.org/grc/isocrates-of-athens/areopagiticus)
+**eul_wid:** `ffu-ah` · [HTML page](https://eulogikon.org/works/isocrates-athens-areopagiticus-ffu-ah)
 
 ## Text
 

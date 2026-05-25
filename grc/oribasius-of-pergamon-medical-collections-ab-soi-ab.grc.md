@@ -4,7 +4,7 @@ title_greek: Ἰατρικαὶ Συλλογαί
 author: Oribasius of Pergamon
 eul_wid: soi-ab
 eul_aid: soi
-canonical: "https://eulogikon.org/grc/oribasius-of-pergamon/medical-collections-ab"
+canonical: "https://eulogikon.org/works/oribasius-pergamon-medical-collections-soi-ab"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Oribasius of Pergamon
 
-**eul_wid:** `soi-ab` · [HTML page](https://eulogikon.org/grc/oribasius-of-pergamon/medical-collections-ab)
+**eul_wid:** `soi-ab` · [HTML page](https://eulogikon.org/works/oribasius-pergamon-medical-collections-soi-ab)
 
 ## Text
 

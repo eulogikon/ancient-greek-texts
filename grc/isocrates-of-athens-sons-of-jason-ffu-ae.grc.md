@@ -4,7 +4,7 @@ title_greek: τοῖς Ἰάσονος παισίν
 author: Isocrates of Athens
 eul_wid: ffu-ae
 eul_aid: ffu
-canonical: "https://eulogikon.org/grc/isocrates-of-athens/sons-of-jason"
+canonical: "https://eulogikon.org/works/isocrates-athens-sons-of-jason-ffu-ae"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Isocrates of Athens
 
-**eul_wid:** `ffu-ae` · [HTML page](https://eulogikon.org/grc/isocrates-of-athens/sons-of-jason)
+**eul_wid:** `ffu-ae` · [HTML page](https://eulogikon.org/works/isocrates-athens-sons-of-jason-ffu-ae)
 
 ## Text
 

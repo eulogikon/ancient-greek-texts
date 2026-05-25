@@ -4,7 +4,7 @@ title_greek: Περὶ κεφαλῆς τραυμάτων
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-bd
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/head-wounds"
+canonical: "https://eulogikon.org/works/hippocrates-head-wounds-bww-bd"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-bd` · [HTML page](https://eulogikon.org/grc/hippocrates/head-wounds)
+**eul_wid:** `bww-bd` · [HTML page](https://eulogikon.org/works/hippocrates-head-wounds-bww-bd)
 
 ## Text
 

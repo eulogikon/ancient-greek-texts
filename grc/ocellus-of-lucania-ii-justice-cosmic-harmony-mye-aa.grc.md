@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Ocellus of Lucania II
 eul_wid: mye-aa
 eul_aid: mye
-canonical: "https://eulogikon.org/grc/ocellus-of-lucania-ii/justice-cosmic-harmony"
+canonical: "https://eulogikon.org/works/ocellus-lucania-justice-cosmic-harmony-mye-aa"
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ocellus of Lucania II
 
-**eul_wid:** `mye-aa` · [HTML page](https://eulogikon.org/grc/ocellus-of-lucania-ii/justice-cosmic-harmony)
+**eul_wid:** `mye-aa` · [HTML page](https://eulogikon.org/works/ocellus-lucania-justice-cosmic-harmony-mye-aa)
 
 ## Text
 

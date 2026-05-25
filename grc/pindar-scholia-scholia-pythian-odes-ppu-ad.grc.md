@@ -4,7 +4,7 @@ title_greek: "Σχόλια εἰς Πυθιακὰ ᾨδὰς Ε'-Ζ'"
 author: Pindar Commentary
 eul_wid: ppu-ad
 eul_aid: ppu
-canonical: "https://eulogikon.org/grc/pindar-scholia/scholia-pythian-odes"
+canonical: "https://eulogikon.org/works/pindar-comm-scholia-pythian-odes-ppu-ad"
 period: Roman
 dialect: Atticizing
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pindar Commentary
 
-**eul_wid:** `ppu-ad` · [HTML page](https://eulogikon.org/grc/pindar-scholia/scholia-pythian-odes)
+**eul_wid:** `ppu-ad` · [HTML page](https://eulogikon.org/works/pindar-comm-scholia-pythian-odes-ppu-ad)
 
 ## Text
 

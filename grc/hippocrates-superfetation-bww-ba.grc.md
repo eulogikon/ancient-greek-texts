@@ -4,7 +4,7 @@ title_greek: Περὶ ἐπιφορήσεως
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-ba
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/superfetation"
+canonical: "https://eulogikon.org/works/hippocrates-superfetation-bww-ba"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-ba` · [HTML page](https://eulogikon.org/grc/hippocrates/superfetation)
+**eul_wid:** `bww-ba` · [HTML page](https://eulogikon.org/works/hippocrates-superfetation-bww-ba)
 
 ## Text
 

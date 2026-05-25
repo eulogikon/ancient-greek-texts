@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Rhianus of Crete
 eul_wid: izm-ae
 eul_aid: izm
-canonical: "https://eulogikon.org/grc/rhianus-of-crete/epigrams"
+canonical: "https://eulogikon.org/works/rhianus-crete-epigrams-izm-ae"
 period: Hellenistic
 dialect: Koine
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Rhianus of Crete
 
-**eul_wid:** `izm-ae` · [HTML page](https://eulogikon.org/grc/rhianus-of-crete/epigrams)
+**eul_wid:** `izm-ae` · [HTML page](https://eulogikon.org/works/rhianus-crete-epigrams-izm-ae)
 
 ## Text
 

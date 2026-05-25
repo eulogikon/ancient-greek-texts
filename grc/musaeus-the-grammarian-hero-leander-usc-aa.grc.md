@@ -4,7 +4,7 @@ title_greek: Ἡρῴ καὶ Λέανδρος
 author: Musaeus the Grammarian
 eul_wid: usc-aa
 eul_aid: usc
-canonical: "https://eulogikon.org/grc/musaeus-the-grammarian/hero-leander"
+canonical: "https://eulogikon.org/works/musaeus-grammarian-hero-leander-usc-aa"
 period: Late Antique
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Musaeus the Grammarian
 
-**eul_wid:** `usc-aa` · [HTML page](https://eulogikon.org/grc/musaeus-the-grammarian/hero-leander)
+**eul_wid:** `usc-aa` · [HTML page](https://eulogikon.org/works/musaeus-grammarian-hero-leander-usc-aa)
 
 ## Text
 

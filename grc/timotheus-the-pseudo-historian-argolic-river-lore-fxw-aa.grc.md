@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Timotheus Pseudo-Historian
 eul_wid: fxw-aa
 eul_aid: fxw
-canonical: "https://eulogikon.org/grc/timotheus-the-pseudo-historian/argolic-river-lore"
+canonical: "https://eulogikon.org/works/timotheus-pseudo-argolic-river-lore-fxw-aa"
 period: Classical
 dialect: Mixed Dialects (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Timotheus Pseudo-Historian
 
-**eul_wid:** `fxw-aa` · [HTML page](https://eulogikon.org/grc/timotheus-the-pseudo-historian/argolic-river-lore)
+**eul_wid:** `fxw-aa` · [HTML page](https://eulogikon.org/works/timotheus-pseudo-argolic-river-lore-fxw-aa)
 
 ## Text
 

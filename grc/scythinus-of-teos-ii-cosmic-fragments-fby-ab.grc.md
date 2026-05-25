@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἀπόλλωνος
 author: Scythinus of Teos II
 eul_wid: fby-ab
 eul_aid: fby
-canonical: "https://eulogikon.org/grc/scythinus-of-teos-ii/cosmic-fragments"
+canonical: "https://eulogikon.org/works/scythinus-teos-cosmic-fragments-fby-ab"
 period: Classical
 dialect: Ionic Iambic
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Scythinus of Teos II
 
-**eul_wid:** `fby-ab` · [HTML page](https://eulogikon.org/grc/scythinus-of-teos-ii/cosmic-fragments)
+**eul_wid:** `fby-ab` · [HTML page](https://eulogikon.org/works/scythinus-teos-cosmic-fragments-fby-ab)
 
 ## Text
 

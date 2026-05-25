@@ -4,7 +4,7 @@ title_greek: Αἰγητικὸς
 author: Isocrates of Athens
 eul_wid: ffu-ap
 eul_aid: ffu
-canonical: "https://eulogikon.org/grc/isocrates-of-athens/goat"
+canonical: "https://eulogikon.org/works/isocrates-athens-goat-ffu-ap"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Isocrates of Athens
 
-**eul_wid:** `ffu-ap` · [HTML page](https://eulogikon.org/grc/isocrates-of-athens/goat)
+**eul_wid:** `ffu-ap` · [HTML page](https://eulogikon.org/works/isocrates-athens-goat-ffu-ap)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Theodorus of Cyrene
 eul_wid: cpi-aa
 eul_aid: cpi
-canonical: "https://eulogikon.org/grc/theodorus-of-cyrene/testimonies"
+canonical: "https://eulogikon.org/works/theodorus-cyrene-testimonies-cpi-aa"
 period: Classical
 dialect: Attic
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theodorus of Cyrene
 
-**eul_wid:** `cpi-aa` · [HTML page](https://eulogikon.org/grc/theodorus-of-cyrene/testimonies)
+**eul_wid:** `cpi-aa` · [HTML page](https://eulogikon.org/works/theodorus-cyrene-testimonies-cpi-aa)
 
 ## Text
 

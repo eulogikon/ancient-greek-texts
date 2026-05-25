@@ -4,7 +4,7 @@ title_greek: Σχόλια εἰς Ἰλιάδα
 author: Homer Commentary
 eul_wid: vta-ah
 eul_aid: vta
-canonical: "https://eulogikon.org/grc/homer-commentary-anonymous/scholia-iliad-ah"
+canonical: "https://eulogikon.org/works/homer-comm-scholia-iliad-vta-ah"
 period: Late Antique
 dialect: Atticizing
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Homer Commentary
 
-**eul_wid:** `vta-ah` · [HTML page](https://eulogikon.org/grc/homer-commentary-anonymous/scholia-iliad-ah)
+**eul_wid:** `vta-ah` · [HTML page](https://eulogikon.org/works/homer-comm-scholia-iliad-vta-ah)
 
 ## Text
 
@@ -2744,7 +2744,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 2 107
 
-Ἀντὶ τοῦ, Θυέστης δὲ κατέλιπε θνήσκων Ἀγαμέμνονι τὸ σκῆπτρον. Ἀτρεὺς, βασιλεύων τῆς Πελοποννήσου, ἔχων ἐκ Κρεούσης τῆς † , ἢ, ὥς τινες, Ἀερόπης τῆς Ἀτρέως, Ἀγαμέμνονα καὶ Μενέλαον. Μέλλων δὲ τελευτᾷν τὸν βίον, σπεισάμενος πρὸς τὸν ἀδελφὸν τὴν ἔχθραν, παραδίδωσιν αὐτῷ τὴν βασιλείαν, ἵνα Ἀγαμέμνονι ἀνδρωθέντι ἀποδῷ. ὁ δὲ πιστῶς ποιήσας ἀποδίδωσι. Φορῆναι. Φέρειν, βαστάζειν. Πολλῇσι.
+Ἀντὶ τοῦ, Θυέστης δὲ κατέλιπε θνήσκων Ἀγαμέμνονι τὸ σκῆπτρον. Ἀτρεὺς, βασιλεύων τῆς Πελοποννήσου, ἔχων ἐκ Κρεούσης τῆς , ἢ, ὥς τινες, Ἀερόπης τῆς Ἀτρέως, Ἀγαμέμνονα καὶ Μενέλαον. Μέλλων δὲ τελευτᾷν τὸν βίον, σπεισάμενος πρὸς τὸν ἀδελφὸν τὴν ἔχθραν, παραδίδωσιν αὐτῷ τὴν βασιλείαν, ἵνα Ἀγαμέμνονι ἀνδρωθέντι ἀποδῷ. ὁ δὲ πιστῶς ποιήσας ἀποδίδωσι. Φορῆναι. Φέρειν, βαστάζειν. Πολλῇσι.
 
 ### 2 108
 
@@ -12934,7 +12934,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 Παρορμήσωμεν. Οἰόθεν οἶος.
 
-### 7 32
+### 7 32.2
 
 Μόνος πρὸς μόνον. Ἐπόρσειαν.
 
@@ -22854,7 +22854,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 Ἁπαλόν. Ὑψός’ ἔεργε. Εἰς ὕψος ἐβάσταζε. Ὃς ἀπὸ χθονὸς ὑψός’ ἔεργε. Ὃς αὐτοὺς οὐκ εἴα ἐπὶ γῆς θλίβεσθαι, ἀλλ’ ἀνεῖχε, καὶ ἀπεκώλυεν αὐτούς. Λεξάσθην.
 
-### 14 350
+### 14 350.2
 
 Κατεκοιμήθησαν. Στιλπναί.
 
@@ -27298,7 +27298,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 Πλανῶν. νῦν δὲ ἀνακόπτων, καὶ ἀνακρούων. Ἀνέεργον.
 
-### 17 752
+### 17 752.2
 
 Ἀνέστελλον. Ψαρῶν.
 
@@ -28246,7 +28246,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 Κοῖλον ὄρυγμα, τάφρον. Ἕρκος. Τειχίον. Ἔλασσεν. Ἐποίησεν εἰς μῆκος. Ἀταρπιτός.
 
-### 18 565
+### 18 565.2
 
 Ἀταρπὸς, ὁδός. Νείσσοντο.
 

@@ -4,7 +4,7 @@ title_greek: Σαμία
 author: Menander of Athens
 eul_wid: hps-at
 eul_aid: hps
-canonical: "https://eulogikon.org/grc/menander-of-athens/samian-woman"
+canonical: "https://eulogikon.org/works/menander-athens-samian-woman-hps-at"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander of Athens
 
-**eul_wid:** `hps-at` · [HTML page](https://eulogikon.org/grc/menander-of-athens/samian-woman)
+**eul_wid:** `hps-at` · [HTML page](https://eulogikon.org/works/menander-athens-samian-woman-hps-at)
 
 ## Text
 
@@ -60,11 +60,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 5.4
 
-ὢν παι]δ̣ίον, μεμνημένος σαφῶς ἐῶ·
+ὢν παι]δίον, μεμνημένος σαφῶς ἐῶ·
 
 ### 5.5
 
-εὐεργέ]τ̣ει γὰρ ταῦτά μ’ οὐ φρονοῦντά πω.
+εὐεργέ]τει γὰρ ταῦτά μ’ οὐ φρονοῦντά πω.
 
 ### 10.1
 
@@ -140,11 +140,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 25.4
 
-[...]ω λαβεῖν ταύτην τὸ μεν̣..[.]..π.[
+[...]ω λαβεῖν ταύτην τὸ μεν..[.]..π.[
 
 ### 25.5
 
-[...].ο̣σ̣ε̣.[.].[
+[...].οσε.[.].[
 
 ### 30.1
 
@@ -156,7 +156,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 30.3
 
-[ ]..τ̣ος προσετίθην πανταχοῦ
+[ ]..τος προσετίθην πανταχοῦ
 
 ### 30.4
 
@@ -172,7 +172,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 35.2
 
-Σαμί]α̣ν̣ διέκειθ’ ἡ τῆς κόρης μήτηρ, τά τε
+Σαμί]αν διέκειθ’ ἡ τῆς κόρης μήτηρ, τά τε
 
 ### 35.3
 
@@ -184,7 +184,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 35.5
 
-ὡς ἔτυ]χ̣[έ] γ’ εἰς Ἀδώνι’ αὐτὰς κατέλαβον
+ὡς ἔτυ]χ[έ] γ’ εἰς Ἀδώνι’ αὐτὰς κατέλαβον
 
 ### 40.1
 
@@ -248,7 +248,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 55.3
 
-[ ]ο̣νεου πάλαι
+[ ]ονεου πάλαι
 
 ### 55.4
 
@@ -264,7 +264,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 60.1
 
-ἐγὼ δ’ ἀναμείνας’ ὅ τι λέγους’ ἀ̣[κροάσομαι.
+ἐγὼ δ’ ἀναμείνας’ ὅ τι λέγους’ ἀ[κροάσομαι.
 
 ### 60.2
 
@@ -428,7 +428,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 90.1
 
-[ γ]ὰ̣ρ̣ ἀθλιώτερον
+[ γ]ὰρ ἀθλιώτερον
 
 ### 90.2
 
@@ -580,7 +580,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 118.2
 
-(Δη) [ ὀλ]ίγα σ̣τ̣[
+(Δη) [ ὀλ]ίγα στ[
 
 ### 119
 
@@ -596,15 +596,15 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 120.1
 
-[Μο] [ ]ν̣τ̣ο̣ ε̣ἰ καὶ δι.[ ].ν
+[Μο] [ ]ντο εἰ καὶ δι.[ ].ν
 
 ### 120.2
 
-ἐ]γὼ μελετήσας ὧν τό̣[τ’ ἐνόουν ..]..μαι.
+ἐ]γὼ μελετήσας ὧν τό[τ’ ἐνόουν ..]..μαι.
 
 ### 120.3
 
-ὡς ἐγενόμην γὰρ ἐκτ̣ὸ[ς ἄστεως μ]όνος,
+ὡς ἐγενόμην γὰρ ἐκτὸ[ς ἄστεως μ]όνος,
 
 ### 120.4
 
@@ -616,7 +616,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 125.1
 
-τὴν σησαμῆν διένεμον, η[......]ο̣τε
+τὴν σησαμῆν διένεμον, η[......]οτε
 
 ### 125.2
 
@@ -664,7 +664,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 131.4
 
-ἤ]δη̣ λαβ̣[ο]ῦ̣σα.
+ἤ]δη λαβ[ο]ῦσα.
 
 ### 134
 
@@ -716,7 +716,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 142a
 
-καὶ δοῦλοσ̣[
+καὶ δοῦλοσ[
 
 ### 142b
 
@@ -744,7 +744,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 142f
 
-σὺ ταῦτα συλ̣λ̣[
+σὺ ταῦτα συλλ[
 
 ### 142g
 
@@ -776,7 +776,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 142l
 
-κατ̣α̣[
+κατα[
 
 ### 142l
 
@@ -832,7 +832,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 155.2
 
-ποεῖν· τὰ παρ’ ἡμῶν γὰρ παρέσται ταῦ̣[
+ποεῖν· τὰ παρ’ ἡμῶν γὰρ παρέσται ταῦ[
 
 ### 155.3
 
@@ -892,7 +892,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 166.3
 
-[ δεῦ]ρ̣’ εἰς τὸ πρόσθεν δ[’ ἔ]ρ̣χ̣ομαι
+[ δεῦ]ρ’ εἰς τὸ πρόσθεν δ[’ ἔ]ρχομαι
 
 ### 166.4
 
@@ -936,7 +936,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 175
 
-[τήμ]ε̣ρ̣ον.
+[τήμ]ερον.
 
 ### 175.1
 
@@ -952,7 +952,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 175.4
 
-[ ]γ̣ειν.
+[ ]γειν.
 
 ### 178.1
 
@@ -964,7 +964,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 180.1
 
-[ ].ν· ἀλλὰ 〈δεῖ〉 τοδὶ λ̣έγειν·
+[ ].ν· ἀλλὰ 〈δεῖ〉 τοδὶ λέγειν·
 
 ### 180.2
 
@@ -1004,7 +1004,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 187.1
 
-(Δη) νοῦν [ἔχ]ε̣ις
+(Δη) νοῦν [ἔχ]εις
 
 ### 187.2
 
@@ -1032,7 +1032,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 190.3
 
-πριάμενος ἧ]κ̣ε.
+πριάμενος ἧ]κε.
 
 ### 192.1
 
@@ -1096,11 +1096,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 198.4
 
-μηδὲ χρόνον ἡ[μ]ᾶ̣ς. παῖ, διατρίβεις. οὐ δραμεῖ;
+μηδὲ χρόνον ἡ[μ]ᾶς. παῖ, διατρίβεις. οὐ δραμεῖ;
 
 ### 198.5
 
-[ ]ρ̣ος ἡ γυνὴ
+[ ]ρος ἡ γυνὴ
 
 ### 198.6
 
@@ -1148,15 +1148,15 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 210.5
 
-καλῶς ἔτ’· οὔκ, ἀλλ’ εἰς τὸ πρόσθεν π̣[ροάγομαι,
+καλῶς ἔτ’· οὔκ, ἀλλ’ εἰς τὸ πρόσθεν π[ροάγομαι,
 
 ### 215.1
 
-πληγ]ήν τιν’ ἀνυπέρβλητον ἐ̣ξ[αίφνης λαβών.
+πληγ]ήν τιν’ ἀνυπέρβλητον ἐξ[αίφνης λαβών.
 
 ### 215.2
 
-ἦ̣ ’στ[ὶ] πιθανόν; σκέψασθε πότερο[ν εὖ φρονῶ
+ἦ ’στ[ὶ] πιθανόν; σκέψασθε πότερο[ν εὖ φρονῶ
 
 ### 215.3
 
@@ -1280,7 +1280,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 245.3
 
-παιδίον ἐκείνου γέγονεν ἤ̣δ̣η καὶ τόδε
+παιδίον ἐκείνου γέγονεν ἤδη καὶ τόδε
 
 ### 248.1
 
@@ -1288,7 +1288,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 248.2
 
-[]α̣ καὶ, [γεγο]νέναι.”
+[]α καὶ, [γεγο]νέναι.”
 
 ### 248.3
 
@@ -1636,7 +1636,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 315
 
-(Πα) σόν, φ̣[ησιν].
+(Πα) σόν, φ[ησιν].
 
 ### 315
 
@@ -2356,7 +2356,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 445.5
 
-ἀλλὰ τὸν ὑμέναιον ἄιδειν εἰσανάγκασόν με σύ. [ ο]ὐκ̣ ἄριστ’ ἐγὼ 〈×〉 ὡς ἔχω νῦν. ἀλλὰ τί;
+ἀλλὰ τὸν ὑμέναιον ἄιδειν εἰσανάγκασόν με σύ. [ ο]ὐκ ἄριστ’ ἐγὼ 〈〉 ὡς ἔχω νῦν. ἀλλὰ τί;
 
 ### 445.6
 
@@ -2388,7 +2388,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 455.2
 
-τίς ὁ φλύ]α̣ρ̣ος; —δεινὸν ἤδη· συναδικεῖ μ’ οὗτος.
+τίς ὁ φλύ]αρος; —δεινὸν ἤδη· συναδικεῖ μ’ οὗτος.
 
 ### 456.1
 
@@ -2396,7 +2396,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 456.2
 
-(Δη) περιφα]νῶς· τί γὰρ προσέρχεθ’ ὑπὲρ ἐκείνης; ἀσ̣[μένωι
+(Δη) περιφα]νῶς· τί γὰρ προσέρχεθ’ ὑπὲρ ἐκείνης; ἀσ[μένωι
 
 ### 456.3
 
@@ -2412,7 +2412,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 459
 
-(Δη) .[.....]κ̣ω Μοσχίων
+(Δη) .[.....]κω Μοσχίων
 
 ### 460
 
@@ -2696,7 +2696,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 497.6
 
-πρότερον—εἰς κόλπον δέ φασι· τὴν Ἀδ̣[ράστειαν σέβω—
+πρότερον—εἰς κόλπον δέ φασι· τὴν Ἀδ[ράστειαν σέβω—
 
 ### 497.7
 
@@ -2720,11 +2720,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 506.2
 
-εἰ γὰρ ἐμὸν ἤι[σχυνε λέ]κ̣τρον, οὐκ ἂν εἰς ἄλλον ποτὲ
+εἰ γὰρ ἐμὸν ἤι[σχυνε λέ]κτρον, οὐκ ἂν εἰς ἄλλον ποτὲ
 
 ### 506.3
 
-ὕβρις’ οὐδ’ ἡ συ̣γ̣[κλ]ι̣θεῖσα· παλλακὴν δ’ ἂν αὔριον
+ὕβρις’ οὐδ’ ἡ συγ[κλ]ιθεῖσα· παλλακὴν δ’ ἂν αὔριον
 
 ### 506.4
 
@@ -3372,7 +3372,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 610.2
 
-〈Νι〉 ἐξ ἀνάγκης ἐστὶ τ̣αῦ[τ]α πομ̣[...]. μ̣[.]ι̣
+〈Νι〉 ἐξ ἀνάγκης ἐστὶ ταῦ[τ]α πομ[...]. μ[.]ι
 
 ### 611.1
 
@@ -3852,11 +3852,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 695.4
 
-εἰμὶ γὰρ πατήρ· ε̣[.......]αλαβών σε παιδίον
+εἰμὶ γὰρ πατήρ· ε[.......]αλαβών σε παιδίον
 
 ### 695.5
 
-ἐξέθρεψ’· εἰ ς..[......]ς̣ γέγονεν ἡδὺς τοῦ βίου, τοῦτόν εἰμ’ ὁ δοὺς [ἔγωγε], δι’ ὃν ἀνασχέσθαι ς’ ἔδει
+ἐξέθρεψ’· εἰ ς..[......]ς γέγονεν ἡδὺς τοῦ βίου, τοῦτόν εἰμ’ ὁ δοὺς [ἔγωγε], δι’ ὃν ἀνασχέσθαι ς’ ἔδει
 
 ### 695.6
 
@@ -3872,7 +3872,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 695.9
 
-εἴς γε τοὺς ἄλλους ἁμαρτὼν σοῦ πρόνοιαν ἡλ̣ίκ̣η̣[ν
+εἴς γε τοὺς ἄλλους ἁμαρτὼν σοῦ πρόνοιαν ἡλίκη[ν
 
 ### 705.1
 
@@ -4060,7 +4060,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 735.1
 
-πεμψ̣[α]τ’ εὐνοίας προφήτην Βακχίωι φίλον κρότον.
+πεμψ[α]τ’ εὐνοίας προφήτην Βακχίωι φίλον κρότον.
 
 ### 735.2
 

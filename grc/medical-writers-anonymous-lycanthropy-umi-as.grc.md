@@ -4,7 +4,7 @@ title_greek: Περὶ λυκανθρωπίας
 author: Medical Writers Anonymous
 eul_wid: umi-as
 eul_aid: umi
-canonical: "https://eulogikon.org/grc/medical-writers-anonymous/lycanthropy"
+canonical: "https://eulogikon.org/works/med-writers-anon-lycanthropy-umi-as"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Medical Writers Anonymous
 
-**eul_wid:** `umi-as` · [HTML page](https://eulogikon.org/grc/medical-writers-anonymous/lycanthropy)
+**eul_wid:** `umi-as` · [HTML page](https://eulogikon.org/works/med-writers-anon-lycanthropy-umi-as)
 
 ## Text
 

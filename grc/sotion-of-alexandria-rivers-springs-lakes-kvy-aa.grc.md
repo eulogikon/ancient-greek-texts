@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Sotion of Alexandria
 eul_wid: kvy-aa
 eul_aid: kvy
-canonical: "https://eulogikon.org/grc/sotion-of-alexandria/rivers-springs-lakes"
+canonical: "https://eulogikon.org/works/sotion-alexandria-rivers-springs-lakes-kvy-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sotion of Alexandria
 
-**eul_wid:** `kvy-aa` · [HTML page](https://eulogikon.org/grc/sotion-of-alexandria/rivers-springs-lakes)
+**eul_wid:** `kvy-aa` · [HTML page](https://eulogikon.org/works/sotion-alexandria-rivers-springs-lakes-kvy-aa)
 
 ## Text
 

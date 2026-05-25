@@ -4,7 +4,7 @@ title_greek: Εὐθύφρων
 author: Plato of Athens
 eul_wid: ffk-ap
 eul_aid: ffk
-canonical: "https://eulogikon.org/grc/plato/euthyphro"
+canonical: "https://eulogikon.org/works/plato-euthyphro-ffk-ap"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plato of Athens
 
-**eul_wid:** `ffk-ap` · [HTML page](https://eulogikon.org/grc/plato/euthyphro)
+**eul_wid:** `ffk-ap` · [HTML page](https://eulogikon.org/works/plato-euthyphro-ffk-ap)
 
 ## Text
 

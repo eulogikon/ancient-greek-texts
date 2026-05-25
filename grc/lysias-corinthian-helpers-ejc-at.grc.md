@@ -4,7 +4,7 @@ title_greek: Ἐπιτάφιος τοῖς Κορινθίων βοηθοῖς
 author: Lysias the Orator
 eul_wid: ejc-at
 eul_aid: ejc
-canonical: "https://eulogikon.org/grc/lysias/corinthian-helpers"
+canonical: "https://eulogikon.org/works/lysias-corinthian-helpers-ejc-at"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lysias the Orator
 
-**eul_wid:** `ejc-at` · [HTML page](https://eulogikon.org/grc/lysias/corinthian-helpers)
+**eul_wid:** `ejc-at` · [HTML page](https://eulogikon.org/works/lysias-corinthian-helpers-ejc-at)
 
 ## Text
 

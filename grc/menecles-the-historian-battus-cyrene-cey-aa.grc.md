@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Βάττου καὶ Κυρήνη
 author: Menecles the Historian
 eul_wid: cey-aa
 eul_aid: cey
-canonical: "https://eulogikon.org/grc/menecles-the-historian/battus-cyrene"
+canonical: "https://eulogikon.org/works/menecles-battus-cyrene-cey-aa"
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menecles the Historian
 
-**eul_wid:** `cey-aa` · [HTML page](https://eulogikon.org/grc/menecles-the-historian/battus-cyrene)
+**eul_wid:** `cey-aa` · [HTML page](https://eulogikon.org/works/menecles-battus-cyrene-cey-aa)
 
 ## Text
 

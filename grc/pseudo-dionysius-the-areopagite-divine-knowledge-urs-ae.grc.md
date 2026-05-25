@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Θείας Γνώσεως
 author: Pseudo-Dionysius the Areopagite
 eul_wid: urs-ae
 eul_aid: urs
-canonical: "https://eulogikon.org/grc/pseudo-dionysius-the-areopagite/divine-knowledge"
+canonical: "https://eulogikon.org/works/pseudo-dionysius-divine-knowledge-urs-ae"
 period: Late Antique
 dialect: Byzantine Christian
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pseudo-Dionysius the Areopagite
 
-**eul_wid:** `urs-ae` · [HTML page](https://eulogikon.org/grc/pseudo-dionysius-the-areopagite/divine-knowledge)
+**eul_wid:** `urs-ae` · [HTML page](https://eulogikon.org/works/pseudo-dionysius-divine-knowledge-urs-ae)
 
 ## Text
 

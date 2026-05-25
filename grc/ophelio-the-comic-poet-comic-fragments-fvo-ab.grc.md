@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Βίου Καθημερινοῦ 
 author: Ophelio Comicus
 eul_wid: fvo-ab
 eul_aid: fvo
-canonical: "https://eulogikon.org/grc/ophelio-the-comic-poet/comic-fragments"
+canonical: "https://eulogikon.org/works/ophelio-comic-fragments-fvo-ab"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ophelio Comicus
 
-**eul_wid:** `fvo-ab` · [HTML page](https://eulogikon.org/grc/ophelio-the-comic-poet/comic-fragments)
+**eul_wid:** `fvo-ab` · [HTML page](https://eulogikon.org/works/ophelio-comic-fragments-fvo-ab)
 
 ## Text
 

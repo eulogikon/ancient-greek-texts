@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Istros the Callimachean
 eul_wid: jbu-aa
 eul_aid: jbu
-canonical: "https://eulogikon.org/grc/istros-the-callimachean/attica-festivals"
+canonical: "https://eulogikon.org/works/istros-callimachean-attica-festivals-jbu-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Istros the Callimachean
 
-**eul_wid:** `jbu-aa` · [HTML page](https://eulogikon.org/grc/istros-the-callimachean/attica-festivals)
+**eul_wid:** `jbu-aa` · [HTML page](https://eulogikon.org/works/istros-callimachean-attica-festivals-jbu-aa)
 
 ## Text
 

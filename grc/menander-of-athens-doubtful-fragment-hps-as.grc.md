@@ -4,7 +4,7 @@ title_greek: Ἀμφίβολον Ἀπόσπασμα
 author: Menander of Athens
 eul_wid: hps-as
 eul_aid: hps
-canonical: "https://eulogikon.org/grc/menander-of-athens/doubtful-fragment"
+canonical: "https://eulogikon.org/works/menander-athens-doubtful-fragment-hps-as"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander of Athens
 
-**eul_wid:** `hps-as` · [HTML page](https://eulogikon.org/grc/menander-of-athens/doubtful-fragment)
+**eul_wid:** `hps-as` · [HTML page](https://eulogikon.org/works/menander-athens-doubtful-fragment-hps-as)
 
 ## Text
 
@@ -62,7 +62,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 7.1
 
-(Β) τὴν δὲ λοιπ[ὴν –⏑⏓
+(Β) τὴν δὲ λοιπ[ὴν –
 
 ### 7.2
 
@@ -86,7 +86,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 10.4
 
-γεγο]νότος· ο̣υ̣[ ?
+γεγο]νότος· ου[ ?
 
 ## License and provenance
 

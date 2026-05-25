@@ -4,7 +4,7 @@ title_greek: Περὶ προεδρίας εἰς τὴν σύγκλητον
 author: Themistius the Philosopher
 eul_wid: rye-aw
 eul_aid: rye
-canonical: "https://eulogikon.org/grc/themistius/presidency-senate"
+canonical: "https://eulogikon.org/works/themistius-presidency-senate-rye-aw"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Themistius the Philosopher
 
-**eul_wid:** `rye-aw` · [HTML page](https://eulogikon.org/grc/themistius/presidency-senate)
+**eul_wid:** `rye-aw` · [HTML page](https://eulogikon.org/works/themistius-presidency-senate-rye-aw)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ φιλίας
 author: Themistius the Philosopher
 eul_wid: rye-bj
 eul_aid: rye
-canonical: "https://eulogikon.org/grc/themistius/friendship"
+canonical: "https://eulogikon.org/works/themistius-friendship-rye-bj"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Themistius the Philosopher
 
-**eul_wid:** `rye-bj` · [HTML page](https://eulogikon.org/grc/themistius/friendship)
+**eul_wid:** `rye-bj` · [HTML page](https://eulogikon.org/works/themistius-friendship-rye-bj)
 
 ## Text
 
@@ -272,7 +272,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 281 a
 
-πολὺ δὲ ἀθόρυβος ἡσυχία καὶ εὐφροσύνη κατεῖχε τὸν τόπον, καί τινες ἐφαίνοντο ἄνθρωποι σφόδρα ὀλίγοι, προσιόντες τε καὶ ἀπιόντες μεθ’ ἡδονῆς τῷ αὐτῷ προσώπῳ. Καθῆστο δὲ ἐπ’ ἄκρας τῆς κορυφῆς παρθένος εὐειδὴς μὲν οὔ, ὡραία δέ, ἀληθινοῦ καὶ ἀρχαίου γέμουσα κάλλους, ὁποῖα τὰ ἀγάλματα τῆς παλαιᾶς τέχνης, ἃ χρόνου δεῖται εἰς τὸ θαυμάσαι καὶ ὀφθαλμῶν ἀκριβεστέρων. ἠμφίεστο δὲ λευκόν τινα κόσμον †ἰκέον† διαφανῶν καὶ λεπτῶν ἱματίων, ὥστε πολλαχῆ καὶ τοῦ σώματος διαφαίνειν.
+πολὺ δὲ ἀθόρυβος ἡσυχία καὶ εὐφροσύνη κατεῖχε τὸν τόπον, καί τινες ἐφαίνοντο ἄνθρωποι σφόδρα ὀλίγοι, προσιόντες τε καὶ ἀπιόντες μεθ’ ἡδονῆς τῷ αὐτῷ προσώπῳ. Καθῆστο δὲ ἐπ’ ἄκρας τῆς κορυφῆς παρθένος εὐειδὴς μὲν οὔ, ὡραία δέ, ἀληθινοῦ καὶ ἀρχαίου γέμουσα κάλλους, ὁποῖα τὰ ἀγάλματα τῆς παλαιᾶς τέχνης, ἃ χρόνου δεῖται εἰς τὸ θαυμάσαι καὶ ὀφθαλμῶν ἀκριβεστέρων. ἠμφίεστο δὲ λευκόν τινα κόσμον ἰκέον διαφανῶν καὶ λεπτῶν ἱματίων, ὥστε πολλαχῆ καὶ τοῦ σώματος διαφαίνειν.
 
 ### 281 b
 

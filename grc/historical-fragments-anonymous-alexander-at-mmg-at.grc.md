@@ -4,7 +4,7 @@ title_greek: Ἱστορία Ἀλεξάνδρου
 author: Historical Fragments  Anonymous
 eul_wid: mmg-at
 eul_aid: mmg
-canonical: "https://eulogikon.org/grc/historical-fragments-anonymous/alexander-at"
+canonical: "https://eulogikon.org/works/anon-hist-frag-alexander-mmg-at"
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Historical Fragments  Anonymous
 
-**eul_wid:** `mmg-at` · [HTML page](https://eulogikon.org/grc/historical-fragments-anonymous/alexander-at)
+**eul_wid:** `mmg-at` · [HTML page](https://eulogikon.org/works/anon-hist-frag-alexander-mmg-at)
 
 ## Text
 
 ### 55.(l1)
 
-Pap. Ox. 2081 g (vol 17, 1927, 81; Teil von Pap. Ox. 1798): [... Πελοπ]ο̣ννη[σ— ]|[ π]ε̣ρ̣ὶ συμ[ ]|[ μ]ελλοντ̣[ ]|[ ] ἐφπβε[ῖτο] [ ]|[ ]τῶι λογίω̣ι̣ [ ]|[ ]ιν ϊομ[]
+Pap. Ox. 2081 g (vol 17, 1927, 81; Teil von Pap. Ox. 1798): [... Πελοπ]οννη[σ— ]|[ π]ερὶ συμ[ ]|[ μ]ελλοντ[ ]|[ ] ἐφπβε[ῖτο] [ ]|[ ]τῶι λογίωι [ ]|[ ]ιν ϊομ[]
 
 ## License and provenance
 

@@ -4,7 +4,7 @@ title_greek: Τὰ κατὰ Ἀνθίαν καὶ Ἁβροκόμην
 author: Xenophon of Ephesus
 eul_wid: rnk-aa
 eul_aid: rnk
-canonical: "https://eulogikon.org/grc/xenophon-of-ephesus/story-of-anthia-and-habrocomes"
+canonical: "https://eulogikon.org/works/xenophon-ephesus-story-of-anthia-and-habrocomes-rnk-aa"
 period: Roman
 dialect: Koine
 domain: Fiction
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Xenophon of Ephesus
 
-**eul_wid:** `rnk-aa` · [HTML page](https://eulogikon.org/grc/xenophon-of-ephesus/story-of-anthia-and-habrocomes)
+**eul_wid:** `rnk-aa` · [HTML page](https://eulogikon.org/works/xenophon-ephesus-story-of-anthia-and-habrocomes-rnk-aa)
 
 ## Text
 

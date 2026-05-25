@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Αἰγυπτιακῶν Πόλε
 author: Parmenon the Iambic Poet
 eul_wid: gls-ab
 eul_aid: gls
-canonical: "https://eulogikon.org/grc/parmenon-the-iambic-poet/egyptian-cities"
+canonical: "https://eulogikon.org/works/parmenon-egyptian-cities-gls-ab"
 period: Classical
 dialect: "Ionic (ia, frg)"
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Parmenon the Iambic Poet
 
-**eul_wid:** `gls-ab` · [HTML page](https://eulogikon.org/grc/parmenon-the-iambic-poet/egyptian-cities)
+**eul_wid:** `gls-ab` · [HTML page](https://eulogikon.org/works/parmenon-egyptian-cities-gls-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Κατὰ τοῦ Σοφιστῶν
 author: Isocrates of Athens
 eul_wid: ffu-ad
 eul_aid: ffu
-canonical: "https://eulogikon.org/grc/isocrates-of-athens/against-sophists"
+canonical: "https://eulogikon.org/works/isocrates-athens-against-sophists-ffu-ad"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Isocrates of Athens
 
-**eul_wid:** `ffu-ad` · [HTML page](https://eulogikon.org/grc/isocrates-of-athens/against-sophists)
+**eul_wid:** `ffu-ad` · [HTML page](https://eulogikon.org/works/isocrates-athens-against-sophists-ffu-ad)
 
 ## Text
 

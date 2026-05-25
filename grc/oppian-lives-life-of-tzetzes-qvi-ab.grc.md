@@ -4,7 +4,7 @@ title_greek: Βίος Τζέτζου
 author: Oppian Lives
 eul_wid: qvi-ab
 eul_aid: qvi
-canonical: "https://eulogikon.org/grc/oppian-lives/life-of-tzetzes"
+canonical: "https://eulogikon.org/works/oppian-life-of-tzetzes-qvi-ab"
 period: Roman
 dialect: Mixed Dialects
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Oppian Lives
 
-**eul_wid:** `qvi-ab` · [HTML page](https://eulogikon.org/grc/oppian-lives/life-of-tzetzes)
+**eul_wid:** `qvi-ab` · [HTML page](https://eulogikon.org/works/oppian-life-of-tzetzes-qvi-ab)
 
 ## Text
 

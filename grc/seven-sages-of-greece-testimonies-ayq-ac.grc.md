@@ -4,7 +4,7 @@ title_greek: Τῶν ἑπτὰ σοφῶν
 author: Seven Sages of Greece
 eul_wid: ayq-ac
 eul_aid: ayq
-canonical: "https://eulogikon.org/grc/seven-sages-of-greece/testimonies"
+canonical: "https://eulogikon.org/works/seven-sages-testimonies-ayq-ac"
 period: Archaic
 dialect: Mixed Dialects
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Seven Sages of Greece
 
-**eul_wid:** `ayq-ac` · [HTML page](https://eulogikon.org/grc/seven-sages-of-greece/testimonies)
+**eul_wid:** `ayq-ac` · [HTML page](https://eulogikon.org/works/seven-sages-testimonies-ayq-ac)
 
 ## Text
 

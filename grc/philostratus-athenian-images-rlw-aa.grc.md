@@ -4,7 +4,7 @@ title_greek: Εἰκόνες
 author: Philostratus Athenian
 eul_wid: rlw-aa
 eul_aid: rlw
-canonical: "https://eulogikon.org/grc/philostratus-athenian/images"
+canonical: "https://eulogikon.org/works/philostratus-athenian-images-rlw-aa"
 period: Roman
 dialect: Koine
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philostratus Athenian
 
-**eul_wid:** `rlw-aa` · [HTML page](https://eulogikon.org/grc/philostratus-athenian/images)
+**eul_wid:** `rlw-aa` · [HTML page](https://eulogikon.org/works/philostratus-athenian-images-rlw-aa)
 
 ## Text
 

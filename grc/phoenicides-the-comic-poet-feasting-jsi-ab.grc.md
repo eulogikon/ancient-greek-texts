@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Εὐωχίας
 author: Phoenicides the Comic Poet
 eul_wid: jsi-ab
 eul_aid: jsi
-canonical: "https://eulogikon.org/grc/phoenicides-the-comic-poet/feasting"
+canonical: "https://eulogikon.org/works/phoenicides-feasting-jsi-ab"
 period: Hellenistic
 dialect: Koine
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Phoenicides the Comic Poet
 
-**eul_wid:** `jsi-ab` · [HTML page](https://eulogikon.org/grc/phoenicides-the-comic-poet/feasting)
+**eul_wid:** `jsi-ab` · [HTML page](https://eulogikon.org/works/phoenicides-feasting-jsi-ab)
 
 ## Text
 

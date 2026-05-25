@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Timocreon of Rhodes
 eul_wid: bpy-aa
 eul_aid: bpy
-canonical: "https://eulogikon.org/grc/timocreon-of-rhodes/invective"
+canonical: "https://eulogikon.org/works/timocreon-rhodes-invective-bpy-aa"
 period: Classical
 dialect: Doric (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Timocreon of Rhodes
 
-**eul_wid:** `bpy-aa` · [HTML page](https://eulogikon.org/grc/timocreon-of-rhodes/invective)
+**eul_wid:** `bpy-aa` · [HTML page](https://eulogikon.org/works/timocreon-rhodes-invective-bpy-aa)
 
 ## Text
 
@@ -88,11 +88,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.1
 
-λό[γ]ον δέ σοι λ̣ε̣[ |...].ον
+λό[γ]ον δέ σοι λε[ |...].ον
 
 ### book 4.2
 
-ταυτ̣α̣ σοι̣ π..[ |..τ]ῶν
+ταυτα σοι π..[ |..τ]ῶν
 
 ### book 4.3
 

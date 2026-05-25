@@ -4,7 +4,7 @@ title_greek: Ἐρυθραῖον Ἀπόσπασμα Παιᾶνος πρὸς 
 author: Paean Collection Anonymous
 eul_wid: cqc-ab
 eul_aid: cqc
-canonical: "https://eulogikon.org/grc/paean-collection-anonymous/erythraean-fragment"
+canonical: "https://eulogikon.org/works/paean-collection-erythraean-fragment-cqc-ab"
 period: Classical
 dialect: Doric (frg)
 domain: Poetry
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Paean Collection Anonymous
 
-**eul_wid:** `cqc-ab` · [HTML page](https://eulogikon.org/grc/paean-collection-anonymous/erythraean-fragment)
+**eul_wid:** `cqc-ab` · [HTML page](https://eulogikon.org/works/paean-collection-erythraean-fragment-cqc-ab)
 
 ## Text
 
 ### unit_1
 
-Ἰὴ Παιών, ὤ, ἰὴ Παιὼν (ter) [para][ὦ] ἄναξ Ἄπολλον φείδεο κούρων φείδ[εο [ ] .. [ ]ης [ ] [ ] Χοροὶ ἰὴ [ [ ] μάκαιρα [ [Πα]ι̣ὰν Ἀπόλλω[ν] [χ]ρ̣υσηλάκα[το [ ]ᾶ̣ι θ̣εᾶι, ἰὴ ἰὴ [ ]ος εὀκάρπου τε [ ]ο̣ι̣ δ̣έ σε Ὧραι τε [ [ ] αὀτίκα χερ[σὶν [ ] ἰὴ ἰὴ Παιὼν ἀνέ]τειλας Ἄπολ[λον [ Δ]ελφοῖς ἰὲ Παιάν.
+Ἰὴ Παιών, ὤ, ἰὴ Παιὼν (ter) [para][ὦ] ἄναξ Ἄπολλον φείδεο κούρων φείδ[εο [ ] .. [ ]ης [ ] [ ] Χοροὶ ἰὴ [ [ ] μάκαιρα [ [Πα]ιὰν Ἀπόλλω[ν] [χ]ρυσηλάκα[το [ ]ᾶι θεᾶι, ἰὴ ἰὴ [ ]ος εὀκάρπου τε [ ]οι δέ σε Ὧραι τε [ [ ] αὀτίκα χερ[σὶν [ ] ἰὴ ἰὴ Παιὼν ἀνέ]τειλας Ἄπολ[λον [ Δ]ελφοῖς ἰὲ Παιάν.
 
 ## License and provenance
 

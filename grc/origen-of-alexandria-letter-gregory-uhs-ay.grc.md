@@ -4,7 +4,7 @@ title_greek: Πρὸς Γρηγόριον τὸν Θαυματουργόν
 author: Origen of Alexandria
 eul_wid: uhs-ay
 eul_aid: uhs
-canonical: "https://eulogikon.org/grc/origen-of-alexandria/letter-gregory"
+canonical: "https://eulogikon.org/works/origen-alexandria-letter-gregory-uhs-ay"
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Origen of Alexandria
 
-**eul_wid:** `uhs-ay` · [HTML page](https://eulogikon.org/grc/origen-of-alexandria/letter-gregory)
+**eul_wid:** `uhs-ay` · [HTML page](https://eulogikon.org/works/origen-alexandria-letter-gregory-uhs-ay)
 
 ## Text
 

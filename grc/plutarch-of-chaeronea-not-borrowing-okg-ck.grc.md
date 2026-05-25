@@ -4,7 +4,7 @@ title_greek: Περὶ τοῦ μὴ δεῖν δανείζεσθαι
 author: Plutarch of Chaeronea
 eul_wid: okg-ck
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/not-borrowing"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-not-borrowing-okg-ck"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-ck` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/not-borrowing)
+**eul_wid:** `okg-ck` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-not-borrowing-okg-ck)
 
 ## Text
 

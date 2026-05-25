@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Zeno of Rhodes
 eul_wid: lrw-aa
 eul_aid: lrw
-canonical: "https://eulogikon.org/grc/zeno-of-rhodes/historical-fragments"
+canonical: "https://eulogikon.org/works/zeno-rhodes-historical-fragments-lrw-aa"
 period: Hellenistic
 dialect: Ionic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Zeno of Rhodes
 
-**eul_wid:** `lrw-aa` · [HTML page](https://eulogikon.org/grc/zeno-of-rhodes/historical-fragments)
+**eul_wid:** `lrw-aa` · [HTML page](https://eulogikon.org/works/zeno-rhodes-historical-fragments-lrw-aa)
 
 ## Text
 

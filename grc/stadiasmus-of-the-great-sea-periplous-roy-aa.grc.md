@@ -4,7 +4,7 @@ title_greek: Σταδιασμὸς τοῦ Μεγάλου Πελάγους
 author: Stadiasmus of the Great Sea
 eul_wid: roy-aa
 eul_aid: roy
-canonical: "https://eulogikon.org/grc/stadiasmus-of-the-great-sea/periplous"
+canonical: "https://eulogikon.org/works/stadiasmus-great-sea-periplous-roy-aa"
 period: Roman
 dialect: Technical Koine
 domain: Geography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Stadiasmus of the Great Sea
 
-**eul_wid:** `roy-aa` · [HTML page](https://eulogikon.org/grc/stadiasmus-of-the-great-sea/periplous)
+**eul_wid:** `roy-aa` · [HTML page](https://eulogikon.org/works/stadiasmus-great-sea-periplous-roy-aa)
 
 ## Text
 

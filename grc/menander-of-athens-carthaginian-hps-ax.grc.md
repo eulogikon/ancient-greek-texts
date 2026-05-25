@@ -4,7 +4,7 @@ title_greek: Καρχηδόνιος
 author: Menander of Athens
 eul_wid: hps-ax
 eul_aid: hps
-canonical: "https://eulogikon.org/grc/menander-of-athens/carthaginian"
+canonical: "https://eulogikon.org/works/menander-athens-carthaginian-hps-ax"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander of Athens
 
-**eul_wid:** `hps-ax` · [HTML page](https://eulogikon.org/grc/menander-of-athens/carthaginian)
+**eul_wid:** `hps-ax` · [HTML page](https://eulogikon.org/works/menander-athens-carthaginian-hps-ax)
 
 ## Text
 
@@ -28,7 +28,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 5.1
 
-[ ].η̣ν θῆτε· μηδὲν μηδέπω
+[ ].ην θῆτε· μηδὲν μηδέπω
 
 ### 5.2
 
@@ -68,7 +68,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 10.5
 
-] ἔπα̣θες; ὅ τι λέγεις λέγε
+] ἔπαθες; ὅ τι λέγεις λέγε
 
 ### 15.1
 

@@ -4,7 +4,7 @@ title_greek: Ἐπίγραμμα
 author: Philostratus the Athenian
 eul_wid: rfi-af
 eul_aid: rfi
-canonical: "https://eulogikon.org/grc/philostratus-the-athenian/epigram"
+canonical: "https://eulogikon.org/works/philostratus-athens-epigram-rfi-af"
 period: Roman
 dialect: Atticizing Literary
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philostratus the Athenian
 
-**eul_wid:** `rfi-af` · [HTML page](https://eulogikon.org/grc/philostratus-the-athenian/epigram)
+**eul_wid:** `rfi-af` · [HTML page](https://eulogikon.org/works/philostratus-athens-epigram-rfi-af)
 
 ## Text
 

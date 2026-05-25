@@ -4,7 +4,7 @@ title_greek: Σύγκρισις Δίωνος καὶ Βρούτου
 author: Plutarch of Chaeronea
 eul_wid: okg-bu
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/dion-brutus"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-dion-brutus-okg-bu"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-bu` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/dion-brutus)
+**eul_wid:** `okg-bu` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-dion-brutus-okg-bu)
 
 ## Text
 

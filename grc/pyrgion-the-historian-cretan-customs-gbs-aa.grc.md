@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Pyrgion the Historian
 eul_wid: gbs-aa
 eul_aid: gbs
-canonical: "https://eulogikon.org/grc/pyrgion-the-historian/cretan-customs"
+canonical: "https://eulogikon.org/works/pyrgion-cretan-customs-gbs-aa"
 period: Classical
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pyrgion the Historian
 
-**eul_wid:** `gbs-aa` · [HTML page](https://eulogikon.org/grc/pyrgion-the-historian/cretan-customs)
+**eul_wid:** `gbs-aa` · [HTML page](https://eulogikon.org/works/pyrgion-cretan-customs-gbs-aa)
 
 ## Text
 

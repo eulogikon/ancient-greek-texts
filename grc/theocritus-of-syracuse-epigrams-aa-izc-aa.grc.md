@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Theocritus of Syracuse
 eul_wid: izc-aa
 eul_aid: izc
-canonical: "https://eulogikon.org/grc/theocritus-of-syracuse/epigrams-aa"
+canonical: "https://eulogikon.org/works/theocritus-syracuse-epigrams-izc-aa"
 period: Hellenistic
 dialect: Doric Bucolic
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theocritus of Syracuse
 
-**eul_wid:** `izc-aa` · [HTML page](https://eulogikon.org/grc/theocritus-of-syracuse/epigrams-aa)
+**eul_wid:** `izc-aa` · [HTML page](https://eulogikon.org/works/theocritus-syracuse-epigrams-izc-aa)
 
 ## Text
 
@@ -32,7 +32,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 3
 
-Εὕδεις φυλλοστρῶτι πέδῳ, Δάφνι, σῶμα κεκμακός ἀμπαύων, στάλικες δ’ ἀρτιπαγεῖς ἀν’ ὄρη· ἀγρεύει δέ τυ Πὰν καὶ ὁ τὸν κροκόεντα Πρίηπος κισσὸν ἐφ’ ἱμερτῷ κρατὶ καθαπτόμενος, ἄντρον ἔσω στείχοντες ὁμόρροθοι. ἀλλὰ τὺ φεῦγε, φεῦγε μεθεὶς ὕπνου κῶμα † καταγρόμενον.
+Εὕδεις φυλλοστρῶτι πέδῳ, Δάφνι, σῶμα κεκμακός ἀμπαύων, στάλικες δ’ ἀρτιπαγεῖς ἀν’ ὄρη· ἀγρεύει δέ τυ Πὰν καὶ ὁ τὸν κροκόεντα Πρίηπος κισσὸν ἐφ’ ἱμερτῷ κρατὶ καθαπτόμενος, ἄντρον ἔσω στείχοντες ὁμόρροθοι. ἀλλὰ τὺ φεῦγε, φεῦγε μεθεὶς ὕπνου κῶμα καταγρόμενον.
 
 ### book 4
 
@@ -68,7 +68,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 11
 
-Εὐσθένεος τὸ μνῆμα· φυσιγνώμων † ὁ σοφιστής δεινὸς ἀπ’ ὀφθαλμοῦ καὶ τὸ νόημα μαθεῖν. εὖ μιν ἔθαψαν ἑταῖροι ἐπὶ ξείνης ξένον ὄντα, χὐμνοθέτης αὐτοῖς δαιμονίως φίλος ἦν. πάντων ὧν ἐπέοικε λάχεν τεθνεὼς ὁ σοφιστής· καίπερ ἄκικυς ἐὼν εἶχ’ ἄρα κηδεμόνας.
+Εὐσθένεος τὸ μνῆμα· φυσιγνώμων ὁ σοφιστής δεινὸς ἀπ’ ὀφθαλμοῦ καὶ τὸ νόημα μαθεῖν. εὖ μιν ἔθαψαν ἑταῖροι ἐπὶ ξείνης ξένον ὄντα, χὐμνοθέτης αὐτοῖς δαιμονίως φίλος ἦν. πάντων ὧν ἐπέοικε λάχεν τεθνεὼς ὁ σοφιστής· καίπερ ἄκικυς ἐὼν εἶχ’ ἄρα κηδεμόνας.
 
 ### book 12
 

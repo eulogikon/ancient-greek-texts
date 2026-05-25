@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἄργου καὶ Ὀλέθρο
 author: "Plato the Comic Poet "
 eul_wid: efq-ad
 eul_aid: efq
-canonical: "https://eulogikon.org/grc/plato-the-comic-poet/argus-destruction"
+canonical: "https://eulogikon.org/works/plato-comic-argus-destruction-efq-ad"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plato the Comic Poet 
 
-**eul_wid:** `efq-ad` · [HTML page](https://eulogikon.org/grc/plato-the-comic-poet/argus-destruction)
+**eul_wid:** `efq-ad` · [HTML page](https://eulogikon.org/works/plato-comic-argus-destruction-efq-ad)
 
 ## Text
 

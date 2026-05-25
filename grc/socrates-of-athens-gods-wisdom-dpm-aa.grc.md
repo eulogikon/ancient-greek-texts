@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Θεῶν καὶ Σοφίας
 author: Socrates of Athens
 eul_wid: dpm-aa
 eul_aid: dpm
-canonical: "https://eulogikon.org/grc/socrates-of-athens/gods-wisdom"
+canonical: "https://eulogikon.org/works/socrates-athens-gods-wisdom-dpm-aa"
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Socrates of Athens
 
-**eul_wid:** `dpm-aa` · [HTML page](https://eulogikon.org/grc/socrates-of-athens/gods-wisdom)
+**eul_wid:** `dpm-aa` · [HTML page](https://eulogikon.org/works/socrates-athens-gods-wisdom-dpm-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Lyco of Tarentum
 eul_wid: ceo-aa
 eul_aid: ceo
-canonical: "https://eulogikon.org/grc/lyco-of-tarentum/testimonies"
+canonical: "https://eulogikon.org/works/lyco-tarentum-testimonies-ceo-aa"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lyco of Tarentum
 
-**eul_wid:** `ceo-aa` · [HTML page](https://eulogikon.org/grc/lyco-of-tarentum/testimonies)
+**eul_wid:** `ceo-aa` · [HTML page](https://eulogikon.org/works/lyco-tarentum-testimonies-ceo-aa)
 
 ## Text
 

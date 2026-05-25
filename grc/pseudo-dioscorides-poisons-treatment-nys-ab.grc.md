@@ -4,7 +4,7 @@ title_greek: Περὶ δηλητηρίων καὶ τῆς προφυλάξεω
 author: Pseudo-Dioscorides
 eul_wid: nys-ab
 eul_aid: nys
-canonical: "https://eulogikon.org/grc/pseudo-dioscorides/poisons-treatment"
+canonical: "https://eulogikon.org/works/pseudo-dioscorides-poisons-treatment-nys-ab"
 period: Roman
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pseudo-Dioscorides
 
-**eul_wid:** `nys-ab` · [HTML page](https://eulogikon.org/grc/pseudo-dioscorides/poisons-treatment)
+**eul_wid:** `nys-ab` · [HTML page](https://eulogikon.org/works/pseudo-dioscorides-poisons-treatment-nys-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Straton Comicus
 eul_wid: evu-ab
 eul_aid: evu
-canonical: "https://eulogikon.org/grc/straton-comicus/confused-dinner-guest"
+canonical: "https://eulogikon.org/works/straton-comicus-confused-dinner-guest-evu-ab"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Straton Comicus
 
-**eul_wid:** `evu-ab` · [HTML page](https://eulogikon.org/grc/straton-comicus/confused-dinner-guest)
+**eul_wid:** `evu-ab` · [HTML page](https://eulogikon.org/works/straton-comicus-confused-dinner-guest-evu-ab)
 
 ## Text
 

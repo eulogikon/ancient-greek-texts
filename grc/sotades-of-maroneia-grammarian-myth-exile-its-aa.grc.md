@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Μύθου καὶ Φυγῆς
 author: Sotades of Maroneia Grammarian
 eul_wid: its-aa
 eul_aid: its
-canonical: "https://eulogikon.org/grc/sotades-of-maroneia-grammarian/myth-exile"
+canonical: "https://eulogikon.org/works/sotades-maroneia-myth-exile-its-aa"
 period: Hellenistic
 dialect: "Ionic (ia, frg)"
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sotades of Maroneia Grammarian
 
-**eul_wid:** `its-aa` · [HTML page](https://eulogikon.org/grc/sotades-of-maroneia-grammarian/myth-exile)
+**eul_wid:** `its-aa` · [HTML page](https://eulogikon.org/works/sotades-maroneia-myth-exile-its-aa)
 
 ## Text
 

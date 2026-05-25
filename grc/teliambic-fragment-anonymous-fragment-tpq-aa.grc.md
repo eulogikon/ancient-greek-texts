@@ -4,7 +4,7 @@ title_greek: Τηλιαμβικὸν Ἀπόσπασμα
 author: Teliambic Fragment Anonymous
 eul_wid: tpq-aa
 eul_aid: tpq
-canonical: "https://eulogikon.org/grc/teliambic-fragment-anonymous/fragment"
+canonical: "https://eulogikon.org/works/teliambic-anon-fragment-tpq-aa"
 period: Late Antique
 dialect: Koine
 domain: Poetry
@@ -18,17 +18,17 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Teliambic Fragment Anonymous
 
-**eul_wid:** `tpq-aa` · [HTML page](https://eulogikon.org/grc/teliambic-fragment-anonymous/fragment)
+**eul_wid:** `tpq-aa` · [HTML page](https://eulogikon.org/works/teliambic-anon-fragment-tpq-aa)
 
 ## Text
 
 ### 1
 
-[]στατον . [] []τ̣ον ἀνανομ̣ε̣[] []ουσι χιόνες []ον δ’ ὑπερέχειν []ν ἥσυχον αρης []υς οὔτε Νεμέσει []ι με νόμοι [] α σματα λύραι [δ]ένδρον ἐκόμα []ἐ̣λάμβανε νεα
+[]στατον . [] []τον ἀνανομε[] []ουσι χιόνες []ον δ’ ὑπερέχειν []ν ἥσυχον αρης []υς οὔτε Νεμέσει []ι με νόμοι [] α σματα λύραι [δ]ένδρον ἐκόμα []ἐλάμβανε νεα
 
 ### 2
 
-χαίρουσιν̣[] ποιμηναι[] καὶ ταύρων ἀ̣[γέ]λασ[] ἕρπει δ’ ἐκ μυχάδων ὠιδαῖς α̣[] αὔλει μοι. ψηφίζει τις ἀεὶ τὰ χρήμα[τ]α μὴ π̣[] οὐδεὶς ψηφίζει τὸ κακω[] χρήματα γὰρ καιρός τε φέρει κα[ὶ] εὑρεῖν δ’ οὐ δύναμαι τὴν σὴν̣[] αὔ[λει μοι.] ὦ φίλοι μέρο[πε]ς συν[] δεῦτε τρυφῶν ἀνομου[] τοῖς φυσικοῖς χρησασ[] τὰς̣ πρώτας κυ̣[ .. ]λ̣ας ε[] [αὔ]λει μ[οι.]
+χαίρουσιν[] ποιμηναι[] καὶ ταύρων ἀ[γέ]λασ[] ἕρπει δ’ ἐκ μυχάδων ὠιδαῖς α[] αὔλει μοι. ψηφίζει τις ἀεὶ τὰ χρήμα[τ]α μὴ π[] οὐδεὶς ψηφίζει τὸ κακω[] χρήματα γὰρ καιρός τε φέρει κα[ὶ] εὑρεῖν δ’ οὐ δύναμαι τὴν σὴν[] αὔ[λει μοι.] ὦ φίλοι μέρο[πε]ς συν[] δεῦτε τρυφῶν ἀνομου[] τοῖς φυσικοῖς χρησασ[] τὰς πρώτας κυ[ .. ]λας ε[] [αὔ]λει μ[οι.]
 
 ## License and provenance
 

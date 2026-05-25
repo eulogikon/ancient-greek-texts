@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τοῦ Ἀθηναϊκοῦ Βί
 author: Strattis the Comic Poet
 eul_wid: eco-aa
 eul_aid: eco
-canonical: "https://eulogikon.org/grc/strattis-the-comic-poet/athenian-life"
+canonical: "https://eulogikon.org/works/strattis-athenian-life-eco-aa"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Strattis the Comic Poet
 
-**eul_wid:** `eco-aa` · [HTML page](https://eulogikon.org/grc/strattis-the-comic-poet/athenian-life)
+**eul_wid:** `eco-aa` · [HTML page](https://eulogikon.org/works/strattis-athenian-life-eco-aa)
 
 ## Text
 

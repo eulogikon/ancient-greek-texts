@@ -4,7 +4,7 @@ title_greek: Περὶ ἑλκῶν
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-bw
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/ulcers"
+canonical: "https://eulogikon.org/works/hippocrates-ulcers-bww-bw"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-bw` · [HTML page](https://eulogikon.org/grc/hippocrates/ulcers)
+**eul_wid:** `bww-bw` · [HTML page](https://eulogikon.org/works/hippocrates-ulcers-bww-bw)
 
 ## Text
 

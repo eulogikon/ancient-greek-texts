@@ -4,7 +4,7 @@ title_greek: Περὶ τῆς Νικομάχου ἀριθμητικῆς εἰ
 author: Iamblichus of Chalcis
 eul_wid: udw-aa
 eul_aid: udw
-canonical: "https://eulogikon.org/grc/iamblichus-of-chalcis/nicomachus-arithmetic"
+canonical: "https://eulogikon.org/works/iamblichus-chalcis-nicomachus-arithmetic-udw-aa"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Iamblichus of Chalcis
 
-**eul_wid:** `udw-aa` · [HTML page](https://eulogikon.org/grc/iamblichus-of-chalcis/nicomachus-arithmetic)
+**eul_wid:** `udw-aa` · [HTML page](https://eulogikon.org/works/iamblichus-chalcis-nicomachus-arithmetic-udw-aa)
 
 ## Text
 

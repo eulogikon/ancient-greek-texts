@@ -4,7 +4,7 @@ title_greek: Ἰλίου Πέρσις Ἀποσπάσματα
 author: Sack of Ilium
 eul_wid: afk-aa
 eul_aid: afk
-canonical: "https://eulogikon.org/grc/sack-of-ilium/fragments"
+canonical: "https://eulogikon.org/works/sack-ili-fragments-afk-aa"
 period: Archaic
 dialect: Epic (Homeric) (frg)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sack of Ilium
 
-**eul_wid:** `afk-aa` · [HTML page](https://eulogikon.org/grc/sack-of-ilium/fragments)
+**eul_wid:** `afk-aa` · [HTML page](https://eulogikon.org/works/sack-ili-fragments-afk-aa)
 
 ## Text
 

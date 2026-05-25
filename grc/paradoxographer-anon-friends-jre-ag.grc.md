@@ -4,7 +4,7 @@ title_greek: Περὶ φίλων
 author: Paradoxographer Anonymous
 eul_wid: jre-ag
 eul_aid: jre
-canonical: "https://eulogikon.org/grc/paradoxographer-anon/friends"
+canonical: "https://eulogikon.org/works/paradoxographer-anon-friends-jre-ag"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Paradoxographer Anonymous
 
-**eul_wid:** `jre-ag` · [HTML page](https://eulogikon.org/grc/paradoxographer-anon/friends)
+**eul_wid:** `jre-ag` · [HTML page](https://eulogikon.org/works/paradoxographer-anon-friends-jre-ag)
 
 ## Text
 

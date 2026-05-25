@@ -4,7 +4,7 @@ title_greek: Ἐπίγραμμα
 author: Proclus the Successor
 eul_wid: uqy-at
 eul_aid: uqy
-canonical: "https://eulogikon.org/grc/proclus-the-successor/epigrams-at"
+canonical: "https://eulogikon.org/works/proclus-epigrams-uqy-at"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Proclus the Successor
 
-**eul_wid:** `uqy-at` · [HTML page](https://eulogikon.org/grc/proclus-the-successor/epigrams-at)
+**eul_wid:** `uqy-at` · [HTML page](https://eulogikon.org/works/proclus-epigrams-uqy-at)
 
 ## Text
 

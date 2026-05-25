@@ -4,7 +4,7 @@ title_greek: Περὶ γραμματικῆς
 author: "Theodosius of Alexandria "
 eul_wid: vdq-ag
 eul_aid: vdq
-canonical: "https://eulogikon.org/grc/theodosius-of-alexandria/grammar"
+canonical: "https://eulogikon.org/works/theodosius-alexandria-grammar-vdq-ag"
 period: Late Antique
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theodosius of Alexandria 
 
-**eul_wid:** `vdq-ag` · [HTML page](https://eulogikon.org/grc/theodosius-of-alexandria/grammar)
+**eul_wid:** `vdq-ag` · [HTML page](https://eulogikon.org/works/theodosius-alexandria-grammar-vdq-ag)
 
 ## Text
 

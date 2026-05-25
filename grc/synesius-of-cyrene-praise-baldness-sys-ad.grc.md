@@ -4,7 +4,7 @@ title_greek: Ἐγκώμιον τῆς Φαλάκρας
 author: Synesius of Cyrene
 eul_wid: sys-ad
 eul_aid: sys
-canonical: "https://eulogikon.org/grc/synesius-of-cyrene/praise-baldness"
+canonical: "https://eulogikon.org/works/synesius-cyrene-praise-baldness-sys-ad"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Synesius of Cyrene
 
-**eul_wid:** `sys-ad` · [HTML page](https://eulogikon.org/grc/synesius-of-cyrene/praise-baldness)
+**eul_wid:** `sys-ad` · [HTML page](https://eulogikon.org/works/synesius-cyrene-praise-baldness-sys-ad)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν ἀλύτων ἀντιθέσεων
 author: "Maximus of Byzantium "
 eul_wid: tjm-aa
 eul_aid: tjm
-canonical: "https://eulogikon.org/grc/maximus-of-byzantium/insoluble-contradictions"
+canonical: "https://eulogikon.org/works/maximus-byzantium-insoluble-contradictions-tjm-aa"
 period: Late Antique
 dialect: Byzantine Greek
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Maximus of Byzantium 
 
-**eul_wid:** `tjm-aa` · [HTML page](https://eulogikon.org/grc/maximus-of-byzantium/insoluble-contradictions)
+**eul_wid:** `tjm-aa` · [HTML page](https://eulogikon.org/works/maximus-byzantium-insoluble-contradictions-tjm-aa)
 
 ## Text
 

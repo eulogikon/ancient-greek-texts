@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Manetho of Sebennytos
 eul_wid: ima-aa
 eul_aid: ima
-canonical: "https://eulogikon.org/grc/manetho-of-sebennytos/egyptian-dynasties"
+canonical: "https://eulogikon.org/works/manetho-sebennytos-egyptian-dynasties-ima-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Manetho of Sebennytos
 
-**eul_wid:** `ima-aa` · [HTML page](https://eulogikon.org/grc/manetho-of-sebennytos/egyptian-dynasties)
+**eul_wid:** `ima-aa` · [HTML page](https://eulogikon.org/works/manetho-sebennytos-egyptian-dynasties-ima-aa)
 
 ## Text
 

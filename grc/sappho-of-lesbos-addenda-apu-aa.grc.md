@@ -4,7 +4,7 @@ title_greek: Προσθήκαι εἰς τὰ Ἀποσπάσματα
 author: Sappho of Lesbos
 eul_wid: apu-aa
 eul_aid: apu
-canonical: "https://eulogikon.org/grc/sappho-of-lesbos/addenda"
+canonical: "https://eulogikon.org/works/sappho-lesbos-addenda-apu-aa"
 period: Archaic
 dialect: Aeolic
 domain: Poetry
@@ -18,17 +18,17 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sappho of Lesbos
 
-**eul_wid:** `apu-aa` · [HTML page](https://eulogikon.org/grc/sappho-of-lesbos/addenda)
+**eul_wid:** `apu-aa` · [HTML page](https://eulogikon.org/works/sappho-lesbos-addenda-apu-aa)
 
 ## Text
 
 ### book 214(1)
 
-. . .[ln_1][ ]προλ[ [ ]φερην̣[ [ ].ιδεθελ[ [Ἀρ]χεάνασσα[[ln_5][ ]δήποτ’ ὀνα[ [ ]νασαμέν[ [ ]εν ἐπηρατ[ [ ]ν[ . . .
+. . .[ln_1][ ]προλ[ [ ]φερην[ [ ].ιδεθελ[ [Ἀρ]χεάνασσα[[ln_5][ ]δήποτ’ ὀνα[ [ ]νασαμέν[ [ ]εν ἐπηρατ[ [ ]ν[ . . .
 
 ### book 214(2)
 
-. . .[ln_1][]..[ [].αι’δεκό.[ [].ςπελ̣[.].[ [ ].[[ln_5]. . .
+. . .[ln_1][]..[ [].αι’δεκό.[ [].ςπελ[.].[ [ ].[[ln_5]. . .
 
 ### book 214(3)
 
@@ -36,15 +36,15 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 214(4)
 
-. . .[ln_1][ ]α.[ [ ἔ]κλυον ε̣[ [ Κ]ρ̣ανι̣ν̣α̣δες δ[ [πα]ρθενικαις.[[ln_5][ ].μ[ [ ].[ . . .
+. . .[ln_1][ ]α.[ [ ἔ]κλυον ε[ [ Κ]ρανιναδες δ[ [πα]ρθενικαις.[[ln_5][ ].μ[ [ ].[ . . .
 
 ### book 214(5)
 
-. . .[ln_1][ ]οη̣[ []νλ[ [ ]κα[ [ ]λυ̣.[[ln_5][ ]τ[ []με̣λ[ . . .
+. . .[ln_1][ ]οη[ []νλ[ [ ]κα[ [ ]λυ.[[ln_5][ ]τ[ []μελ[ . . .
 
 ### book 29(25)+24a
 
-[ ].[ ]ανάγα̣[ [ ].[ ]εμνάσεσθ’ ἀ[ κ]αὶ γὰρ ἄμμες ἐν νεο[ ⸏ταῦτ’ ἐπόημμεν.[ln_5]πόλλ[α μ]ὲν γὰρ καὶ κα[ ]...η̣.[ ]μεν, πόλι[ .]μμε̣[.]ο[.]είαισδ̣[ .]..[.]..[
+[ ].[ ]ανάγα[ [ ].[ ]εμνάσεσθ’ ἀ[ κ]αὶ γὰρ ἄμμες ἐν νεο[ ταῦτ’ ἐπόημμεν.[ln_5]πόλλ[α μ]ὲν γὰρ καὶ κα[ ]...η.[ ]μεν, πόλι[ .]μμε[.]ο[.]είαισδ[ .]..[.]..[
 
 ## License and provenance
 

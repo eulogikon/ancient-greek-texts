@@ -4,7 +4,7 @@ title_greek: Γάϊος Μάρκιος
 author: Plutarch of Chaeronea
 eul_wid: okg-dq
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/gaius-marcius"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-gaius-marcius-okg-dq"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-dq` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/gaius-marcius)
+**eul_wid:** `okg-dq` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-gaius-marcius-okg-dq)
 
 ## Text
 
@@ -696,7 +696,7 @@ fr. 85 D 5 )· „θυμῷ μάχεσθαι χαλεπόν· ὃ γὰρ ἂν 
 
 ### Cor 32 5
 
-λέγοντος γὰρ αὐτοῦ καὶ ἀναφωνοῦντος ἐπὶ ταῖς μεγάλαις πράξεσι καὶ παραλόγοις (Od. 21, 1) τῇ δ’ ἄρ’ ἐπὶ φρεσὶ θῆκε θεὰ γλαυκῶπις Ἀθήνη, καὶ τὸ (Il. 9, 459 sq.) ἀλλά τις ἀθανάτων τρέψεν φρένας, ὅς ῥ’ ἐνὶ θυμῷ δήμου θῆκε φάτιν, καὶ τὸ (Od. 9, 339) ἤ τι ὀισσάμενος ἢ καὶ θεὸς ὣς ἐκέλευε, καταφρονοῦσιν, ὡς ἀδυνάτοις πλάσμασι καὶ μυθεύμασιν ἀπίστοις τὸν ἑκάστου λογισμὸν τῆς προαιρέσεως † ἄπιστον καθιστάντος.
+λέγοντος γὰρ αὐτοῦ καὶ ἀναφωνοῦντος ἐπὶ ταῖς μεγάλαις πράξεσι καὶ παραλόγοις (Od. 21, 1) τῇ δ’ ἄρ’ ἐπὶ φρεσὶ θῆκε θεὰ γλαυκῶπις Ἀθήνη, καὶ τὸ (Il. 9, 459 sq.) ἀλλά τις ἀθανάτων τρέψεν φρένας, ὅς ῥ’ ἐνὶ θυμῷ δήμου θῆκε φάτιν, καὶ τὸ (Od. 9, 339) ἤ τι ὀισσάμενος ἢ καὶ θεὸς ὣς ἐκέλευε, καταφρονοῦσιν, ὡς ἀδυνάτοις πλάσμασι καὶ μυθεύμασιν ἀπίστοις τὸν ἑκάστου λογισμὸν τῆς προαιρέσεως ἄπιστον καθιστάντος.
 
 ### Cor 32 6
 

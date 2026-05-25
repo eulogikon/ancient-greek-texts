@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Βίου καὶ Ἔρωτος
 author: Praxilla of Sicyon
 eul_wid: ccq-aa
 eul_aid: ccq
-canonical: "https://eulogikon.org/grc/praxilla-of-sicyon/lyric-fragments"
+canonical: "https://eulogikon.org/works/praxilla-sicyon-lyric-fragments-ccq-aa"
 period: Classical
 dialect: Doric
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Praxilla of Sicyon
 
-**eul_wid:** `ccq-aa` · [HTML page](https://eulogikon.org/grc/praxilla-of-sicyon/lyric-fragments)
+**eul_wid:** `ccq-aa` · [HTML page](https://eulogikon.org/works/praxilla-sicyon-lyric-fragments-ccq-aa)
 
 ## Text
 

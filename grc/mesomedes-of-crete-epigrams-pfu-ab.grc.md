@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Mesomedes of Crete
 eul_wid: pfu-ab
 eul_aid: pfu
-canonical: "https://eulogikon.org/grc/mesomedes-of-crete/epigrams"
+canonical: "https://eulogikon.org/works/mesomedes-crete-epigrams-pfu-ab"
 period: Roman
 dialect: Literary Koine
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Mesomedes of Crete
 
-**eul_wid:** `pfu-ab` · [HTML page](https://eulogikon.org/grc/mesomedes-of-crete/epigrams)
+**eul_wid:** `pfu-ab` · [HTML page](https://eulogikon.org/works/mesomedes-crete-epigrams-pfu-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ὀνόματα τῶν ἰατρικῶν ἐργαλείων κα
 author: Medical Writers Anonymous
 eul_wid: umi-aa
 eul_aid: umi
-canonical: "https://eulogikon.org/grc/medical-writers-anonymous/instruments-by-element"
+canonical: "https://eulogikon.org/works/med-writers-anon-instruments-by-element-umi-aa"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Medical Writers Anonymous
 
-**eul_wid:** `umi-aa` · [HTML page](https://eulogikon.org/grc/medical-writers-anonymous/instruments-by-element)
+**eul_wid:** `umi-aa` · [HTML page](https://eulogikon.org/works/med-writers-anon-instruments-by-element-umi-aa)
 
 ## Text
 

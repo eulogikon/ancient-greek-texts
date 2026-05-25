@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Θρήνων Τραγικῶν
 author: "Tragica Adespota "
 eul_wid: gyu-aa
 eul_aid: gyu
-canonical: "https://eulogikon.org/grc/tragica-adespota/lament"
+canonical: "https://eulogikon.org/works/tragica-adespota-lament-gyu-aa"
 period: Classical
 dialect: Mixed Dialects (frg)
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Tragica Adespota 
 
-**eul_wid:** `gyu-aa` · [HTML page](https://eulogikon.org/grc/tragica-adespota/lament)
+**eul_wid:** `gyu-aa` · [HTML page](https://eulogikon.org/works/tragica-adespota-lament-gyu-aa)
 
 ## Text
 

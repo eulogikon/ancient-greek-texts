@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἀριθμῶν
 author: Megillus of Sparta
 eul_wid: cia-aa
 eul_aid: cia
-canonical: "https://eulogikon.org/grc/megillus-of-sparta/numbers"
+canonical: "https://eulogikon.org/works/megillus-sparta-numbers-cia-aa"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Megillus of Sparta
 
-**eul_wid:** `cia-aa` · [HTML page](https://eulogikon.org/grc/megillus-of-sparta/numbers)
+**eul_wid:** `cia-aa` · [HTML page](https://eulogikon.org/works/megillus-sparta-numbers-cia-aa)
 
 ## Text
 

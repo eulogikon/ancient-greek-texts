@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἱππιατρικῆς
 author: Simon of Athens
 eul_wid: bxq-ab
 eul_aid: bxq
-canonical: "https://eulogikon.org/grc/simon-of-athens/hippiatric-fragments"
+canonical: "https://eulogikon.org/works/simon-athens-hippiatric-fragments-bxq-ab"
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Simon of Athens
 
-**eul_wid:** `bxq-ab` · [HTML page](https://eulogikon.org/grc/simon-of-athens/hippiatric-fragments)
+**eul_wid:** `bxq-ab` · [HTML page](https://eulogikon.org/works/simon-athens-hippiatric-fragments-bxq-ab)
 
 ## Text
 

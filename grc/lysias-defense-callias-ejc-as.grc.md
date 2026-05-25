@@ -4,7 +4,7 @@ title_greek: ὑπὲρ Καλλίου ἱεροσυλίας ἀπολογία
 author: Lysias the Orator
 eul_wid: ejc-as
 eul_aid: ejc
-canonical: "https://eulogikon.org/grc/lysias/defense-callias"
+canonical: "https://eulogikon.org/works/lysias-defense-callias-ejc-as"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lysias the Orator
 
-**eul_wid:** `ejc-as` · [HTML page](https://eulogikon.org/grc/lysias/defense-callias)
+**eul_wid:** `ejc-as` · [HTML page](https://eulogikon.org/works/lysias-defense-callias-ejc-as)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ τόπων ἐν ἀνθρώπῳ
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-az
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/places-in-man"
+canonical: "https://eulogikon.org/works/hippocrates-places-in-man-bww-az"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-az` · [HTML page](https://eulogikon.org/grc/hippocrates/places-in-man)
+**eul_wid:** `bww-az` · [HTML page](https://eulogikon.org/works/hippocrates-places-in-man-bww-az)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Κατὰ Φλάκκου
 author: Philo of Alexandria
 eul_wid: lgi-bf
 eul_aid: lgi
-canonical: "https://eulogikon.org/grc/philo-of-alexandria/against-flaccus"
+canonical: "https://eulogikon.org/works/philo-alexandria-against-flaccus-lgi-bf"
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philo of Alexandria
 
-**eul_wid:** `lgi-bf` · [HTML page](https://eulogikon.org/grc/philo-of-alexandria/against-flaccus)
+**eul_wid:** `lgi-bf` · [HTML page](https://eulogikon.org/works/philo-alexandria-against-flaccus-lgi-bf)
 
 ## Text
 

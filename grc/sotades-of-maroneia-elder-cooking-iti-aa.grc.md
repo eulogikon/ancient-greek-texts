@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ὀψοποιίας
 author: Sotades of Maroneia Elder
 eul_wid: iti-aa
 eul_aid: iti
-canonical: "https://eulogikon.org/grc/sotades-of-maroneia-elder/cooking"
+canonical: "https://eulogikon.org/works/sotades-maroneia-cooking-iti-aa"
 period: Hellenistic
 dialect: "Ionic (ia, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sotades of Maroneia Elder
 
-**eul_wid:** `iti-aa` · [HTML page](https://eulogikon.org/grc/sotades-of-maroneia-elder/cooking)
+**eul_wid:** `iti-aa` · [HTML page](https://eulogikon.org/works/sotades-maroneia-cooking-iti-aa)
 
 ## Text
 

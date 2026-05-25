@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Lamprocles the Athenian
 eul_wid: bsg-aa
 eul_aid: bsg
-canonical: "https://eulogikon.org/grc/lamprocles-of-athens/hymnic-pallas"
+canonical: "https://eulogikon.org/works/lamprocles-athens-hymnic-pallas-bsg-aa"
 period: Classical
 dialect: Attic (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lamprocles the Athenian
 
-**eul_wid:** `bsg-aa` · [HTML page](https://eulogikon.org/grc/lamprocles-of-athens/hymnic-pallas)
+**eul_wid:** `bsg-aa` · [HTML page](https://eulogikon.org/works/lamprocles-athens-hymnic-pallas-bsg-aa)
 
 ## Text
 

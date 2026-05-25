@@ -4,7 +4,7 @@ title_greek: περὶ τῆς ι ἀνεκφωνήτου
 author: Oros of Alexandria
 eul_wid: tmo-aa
 eul_aid: tmo
-canonical: "https://eulogikon.org/grc/oros-of-alexandria/unpronounced-iota"
+canonical: "https://eulogikon.org/works/oros-alexandria-unpronounced-iota-tmo-aa"
 period: Late Antique
 dialect: Attic
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Oros of Alexandria
 
-**eul_wid:** `tmo-aa` · [HTML page](https://eulogikon.org/grc/oros-of-alexandria/unpronounced-iota)
+**eul_wid:** `tmo-aa` · [HTML page](https://eulogikon.org/works/oros-alexandria-unpronounced-iota-tmo-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἱστορία Κωνσταντινουπόλεως
 author: Hesychius of Miletus the Illustrious
 eul_wid: uws-ac
 eul_aid: uws
-canonical: "https://eulogikon.org/grc/hesychius-of-miletus/history-constantinople-ac"
+canonical: "https://eulogikon.org/works/hesychius-miletus-history-constantinople-uws-ac"
 period: Late Antique
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hesychius of Miletus the Illustrious
 
-**eul_wid:** `uws-ac` · [HTML page](https://eulogikon.org/grc/hesychius-of-miletus/history-constantinople-ac)
+**eul_wid:** `uws-ac` · [HTML page](https://eulogikon.org/works/hesychius-miletus-history-constantinople-uws-ac)
 
 ## Text
 

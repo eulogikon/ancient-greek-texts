@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Νικοχάρους Συμποτικά
 author: Nicochares the Comic Poet
 eul_wid: fcs-aa
 eul_aid: fcs
-canonical: "https://eulogikon.org/grc/nicochares-the-comic-poet/sympotic-fragments-aa"
+canonical: "https://eulogikon.org/works/nicochares-sympotic-fragments-fcs-aa"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nicochares the Comic Poet
 
-**eul_wid:** `fcs-aa` · [HTML page](https://eulogikon.org/grc/nicochares-the-comic-poet/sympotic-fragments-aa)
+**eul_wid:** `fcs-aa` · [HTML page](https://eulogikon.org/works/nicochares-sympotic-fragments-fcs-aa)
 
 ## Text
 

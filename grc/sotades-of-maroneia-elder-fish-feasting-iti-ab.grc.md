@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἰχθύων καὶ Εὐωχί
 author: Sotades of Maroneia Elder
 eul_wid: iti-ab
 eul_aid: iti
-canonical: "https://eulogikon.org/grc/sotades-of-maroneia-elder/fish-feasting"
+canonical: "https://eulogikon.org/works/sotades-maroneia-fish-feasting-iti-ab"
 period: Hellenistic
 dialect: "Ionic (ia, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sotades of Maroneia Elder
 
-**eul_wid:** `iti-ab` · [HTML page](https://eulogikon.org/grc/sotades-of-maroneia-elder/fish-feasting)
+**eul_wid:** `iti-ab` · [HTML page](https://eulogikon.org/works/sotades-maroneia-fish-feasting-iti-ab)
 
 ## Text
 

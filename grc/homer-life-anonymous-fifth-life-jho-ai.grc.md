@@ -4,7 +4,7 @@ title_greek: Πέμπτος Βίος
 author: Homer Life-anonymous
 eul_wid: jho-ai
 eul_aid: jho
-canonical: "https://eulogikon.org/grc/homer-life-anonymous/fifth-life"
+canonical: "https://eulogikon.org/works/homer-fifth-life-jho-ai"
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Homer Life-anonymous
 
-**eul_wid:** `jho-ai` · [HTML page](https://eulogikon.org/grc/homer-life-anonymous/fifth-life)
+**eul_wid:** `jho-ai` · [HTML page](https://eulogikon.org/works/homer-fifth-life-jho-ai)
 
 ## Text
 

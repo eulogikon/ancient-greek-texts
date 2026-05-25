@@ -4,7 +4,7 @@ title_greek: Ἐπιστολὴ πρὸς Ὠριγένην
 author: Sextus Julius Africanus
 eul_wid: rjy-ac
 eul_aid: rjy
-canonical: "https://eulogikon.org/grc/sextus-julius-africanus/letter-to-origen"
+canonical: "https://eulogikon.org/works/sextus-julius-africanus-letter-to-origen-rjy-ac"
 period: Roman
 dialect: Christian Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sextus Julius Africanus
 
-**eul_wid:** `rjy-ac` · [HTML page](https://eulogikon.org/grc/sextus-julius-africanus/letter-to-origen)
+**eul_wid:** `rjy-ac` · [HTML page](https://eulogikon.org/works/sextus-julius-africanus-letter-to-origen-rjy-ac)
 
 ## Text
 

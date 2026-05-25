@@ -4,7 +4,7 @@ title_greek: Περὶ Θείων Ὀνομάτων
 author: Pseudo-Dionysius the Areopagite
 eul_wid: urs-ad
 eul_aid: urs
-canonical: "https://eulogikon.org/grc/pseudo-dionysius-the-areopagite/divine-names"
+canonical: "https://eulogikon.org/works/pseudo-dionysius-divine-names-urs-ad"
 period: Late Antique
 dialect: Byzantine Christian
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pseudo-Dionysius the Areopagite
 
-**eul_wid:** `urs-ad` · [HTML page](https://eulogikon.org/grc/pseudo-dionysius-the-areopagite/divine-names)
+**eul_wid:** `urs-ad` · [HTML page](https://eulogikon.org/works/pseudo-dionysius-divine-names-urs-ad)
 
 ## Text
 

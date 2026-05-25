@@ -4,7 +4,7 @@ title_greek: Περὶ Μορφῆς καὶ Ἐκλογῆς Ἵππων
 author: Simon of Athens
 eul_wid: bxq-aa
 eul_aid: bxq
-canonical: "https://eulogikon.org/grc/simon-of-athens/horses-form-selection"
+canonical: "https://eulogikon.org/works/simon-athens-horses-form-selection-bxq-aa"
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Simon of Athens
 
-**eul_wid:** `bxq-aa` · [HTML page](https://eulogikon.org/grc/simon-of-athens/horses-form-selection)
+**eul_wid:** `bxq-aa` · [HTML page](https://eulogikon.org/works/simon-athens-horses-form-selection-bxq-aa)
 
 ## Text
 

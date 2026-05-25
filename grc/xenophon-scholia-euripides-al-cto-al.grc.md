@@ -4,7 +4,7 @@ title_greek: Βίοι Εὐριπίδου
 author: Xenophon Scholia
 eul_wid: cto-al
 eul_aid: cto
-canonical: "https://eulogikon.org/grc/xenophon-scholia/euripides-al"
+canonical: "https://eulogikon.org/works/xenophon-scholia-euripides-cto-al"
 period: Classical
 dialect: Mixed Dialects
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Xenophon Scholia
 
-**eul_wid:** `cto-al` · [HTML page](https://eulogikon.org/grc/xenophon-scholia/euripides-al)
+**eul_wid:** `cto-al` · [HTML page](https://eulogikon.org/works/xenophon-scholia-euripides-cto-al)
 
 ## Text
 

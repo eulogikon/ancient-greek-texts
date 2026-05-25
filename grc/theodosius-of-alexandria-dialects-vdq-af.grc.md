@@ -4,7 +4,7 @@ title_greek: Περὶ Διαλέκτων
 author: "Theodosius of Alexandria "
 eul_wid: vdq-af
 eul_aid: vdq
-canonical: "https://eulogikon.org/grc/theodosius-of-alexandria/dialects"
+canonical: "https://eulogikon.org/works/theodosius-alexandria-dialects-vdq-af"
 period: Late Antique
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theodosius of Alexandria 
 
-**eul_wid:** `vdq-af` · [HTML page](https://eulogikon.org/grc/theodosius-of-alexandria/dialects)
+**eul_wid:** `vdq-af` · [HTML page](https://eulogikon.org/works/theodosius-alexandria-dialects-vdq-af)
 
 ## Text
 

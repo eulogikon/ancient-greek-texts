@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Τιμοθέου τοῦ Γάζης
 author: Hippiatric Compilation Anonymous
 eul_wid: vjk-ae
 eul_aid: vjk
-canonical: "https://eulogikon.org/grc/hippiatric-compilation-anonymous/timotheus-gaza"
+canonical: "https://eulogikon.org/works/hippiatric-anon-timotheus-gaza-vjk-ae"
 period: Late Antique
 dialect: Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippiatric Compilation Anonymous
 
-**eul_wid:** `vjk-ae` · [HTML page](https://eulogikon.org/grc/hippiatric-compilation-anonymous/timotheus-gaza)
+**eul_wid:** `vjk-ae` · [HTML page](https://eulogikon.org/works/hippiatric-anon-timotheus-gaza-vjk-ae)
 
 ## Text
 
@@ -66,7 +66,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 19
 
-Ὑρκανοὶ ἐξόφθαλμοι, σκιρτητικοί, τὸν ἀναβάτην, εἰ πέσοι, περιμένοντες, ὑγροσκελεῖς, πολεμικοί, ἁμιλληθῆναι δυνάμενοι, χιλοσιτοῦσι δὲ μᾶλλον, κριθοφάγοι ἢ πυροφάγ〈οι οὔκ εἰσι, παντοφαγ〉οῦσιν, ὅ τι τῇ πόᾳ καὶ τῷ χόρτῳ πρόσεστιν. ὁ πῶλος πλήρης †ἀλγοί. γένοιντο δ’ ἄν τινες κάλλισται παιδοτρόφοι.
+Ὑρκανοὶ ἐξόφθαλμοι, σκιρτητικοί, τὸν ἀναβάτην, εἰ πέσοι, περιμένοντες, ὑγροσκελεῖς, πολεμικοί, ἁμιλληθῆναι δυνάμενοι, χιλοσιτοῦσι δὲ μᾶλλον, κριθοφάγοι ἢ πυροφάγ〈οι οὔκ εἰσι, παντοφαγ〉οῦσιν, ὅ τι τῇ πόᾳ καὶ τῷ χόρτῳ πρόσεστιν. ὁ πῶλος πλήρης ἀλγοί. γένοιντο δ’ ἄν τινες κάλλισται παιδοτρόφοι.
 
 ## License and provenance
 

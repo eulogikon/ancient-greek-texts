@@ -4,7 +4,7 @@ title_greek: Ἐκλογαὶ ἐκ τῆς Πλατωνικῆς Θεολογί
 author: Proclus the Successor
 eul_wid: uqy-ac
 eul_aid: uqy
-canonical: "https://eulogikon.org/grc/proclus-the-successor/platonic-theology"
+canonical: "https://eulogikon.org/works/proclus-platonic-theology-uqy-ac"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Proclus the Successor
 
-**eul_wid:** `uqy-ac` · [HTML page](https://eulogikon.org/grc/proclus-the-successor/platonic-theology)
+**eul_wid:** `uqy-ac` · [HTML page](https://eulogikon.org/works/proclus-platonic-theology-uqy-ac)
 
 ## Text
 

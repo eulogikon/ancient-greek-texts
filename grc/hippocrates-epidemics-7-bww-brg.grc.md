@@ -4,7 +4,7 @@ title_greek: Ἐπιδημίων Η
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-brg
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/epidemics-7"
+canonical: "https://eulogikon.org/works/hippocrates-epidemics-7-bww-brg"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-brg` · [HTML page](https://eulogikon.org/grc/hippocrates/epidemics-7)
+**eul_wid:** `bww-brg` · [HTML page](https://eulogikon.org/works/hippocrates-epidemics-7-bww-brg)
 
 ## Text
 

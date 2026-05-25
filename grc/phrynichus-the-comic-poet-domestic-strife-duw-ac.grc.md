@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Οἰκογενειακῆς Στ
 author: Phrynichus the Comic Poet of Athens
 eul_wid: duw-ac
 eul_aid: duw
-canonical: "https://eulogikon.org/grc/phrynichus-the-comic-poet/domestic-strife"
+canonical: "https://eulogikon.org/works/phrynichus-athens-domestic-strife-duw-ac"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Phrynichus the Comic Poet of Athens
 
-**eul_wid:** `duw-ac` · [HTML page](https://eulogikon.org/grc/phrynichus-the-comic-poet/domestic-strife)
+**eul_wid:** `duw-ac` · [HTML page](https://eulogikon.org/works/phrynichus-athens-domestic-strife-duw-ac)
 
 ## Text
 

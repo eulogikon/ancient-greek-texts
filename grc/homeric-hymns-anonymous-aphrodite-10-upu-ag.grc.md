@@ -4,7 +4,7 @@ title_greek: Ὕμνος εἰς Ἀφροδίτην
 author: Hymnic Collection  Anonymous
 eul_wid: upu-ag
 eul_aid: upu
-canonical: "https://eulogikon.org/grc/homeric-hymns-anonymous/aphrodite-10"
+canonical: "https://eulogikon.org/works/hymnic-anon-aphrodite-10-upu-ag"
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hymnic Collection  Anonymous
 
-**eul_wid:** `upu-ag` · [HTML page](https://eulogikon.org/grc/homeric-hymns-anonymous/aphrodite-10)
+**eul_wid:** `upu-ag` · [HTML page](https://eulogikon.org/works/hymnic-anon-aphrodite-10-upu-ag)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Priscus of Panium
 eul_wid: tba-aa
 eul_aid: tba
-canonical: "https://eulogikon.org/grc/priscus-of-panium/testimonies"
+canonical: "https://eulogikon.org/works/priscus-panium-testimonies-tba-aa"
 period: Late Antique
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Priscus of Panium
 
-**eul_wid:** `tba-aa` · [HTML page](https://eulogikon.org/grc/priscus-of-panium/testimonies)
+**eul_wid:** `tba-aa` · [HTML page](https://eulogikon.org/works/priscus-panium-testimonies-tba-aa)
 
 ## Text
 

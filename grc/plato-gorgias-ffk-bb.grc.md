@@ -4,7 +4,7 @@ title_greek: Γοργίας
 author: Plato of Athens
 eul_wid: ffk-bb
 eul_aid: ffk
-canonical: "https://eulogikon.org/grc/plato/gorgias"
+canonical: "https://eulogikon.org/works/plato-gorgias-ffk-bb"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plato of Athens
 
-**eul_wid:** `ffk-bb` · [HTML page](https://eulogikon.org/grc/plato/gorgias)
+**eul_wid:** `ffk-bb` · [HTML page](https://eulogikon.org/works/plato-gorgias-ffk-bb)
 
 ## Text
 

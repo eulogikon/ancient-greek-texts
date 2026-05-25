@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Solon of Athens
 eul_wid: ari-aa
 eul_aid: ari
-canonical: "https://eulogikon.org/grc/solon-of-athens/salamis-elegy"
+canonical: "https://eulogikon.org/works/solon-athens-salamis-elegy-ari-aa"
 period: Archaic
 dialect: Attic
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Solon of Athens
 
-**eul_wid:** `ari-aa` · [HTML page](https://eulogikon.org/grc/solon-of-athens/salamis-elegy)
+**eul_wid:** `ari-aa` · [HTML page](https://eulogikon.org/works/solon-athens-salamis-elegy-ari-aa)
 
 ## Text
 
@@ -28,7 +28,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1.2
 
-Σαλαμῖνος, [para]κόσμον ἐπ͜έω͜ν †ὠιδὴν ἀντ’ ἀγορῆς θέμενος.
+Σαλαμῖνος, [para]κόσμον ἐπ͜έω͜ν ὠιδὴν ἀντ’ ἀγορῆς θέμενος.
 
 ### book 2.1
 
@@ -164,11 +164,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4a.2
 
-φρενὸς ἔνδοθεν ἄλγεα κεῖται, [para]πρεσβυτάτην ἐσορῶν γαῖαν̣ [Ἰ]α̣ονίης κλινομένην,
+φρενὸς ἔνδοθεν ἄλγεα κεῖται, [para]πρεσβυτάτην ἐσορῶν γαῖαν [Ἰ]αονίης κλινομένην,
 
 ### book 4c.1
 
-ὑμεῖς δ’ ἡσυχάσ̣αντ̣ε̣ς̣ ἐνὶ φ̣ρεσὶ καρτερὸν ἦτορ, [para]οἳ πολλῶν ἀγαθῶν ἐς κόρον [ἠ]λ̣άσατε, ἐν μετρίοισι τί̣θ̣ε̣σ̣θ̣ε μέγαν νόον· οὔτε γὰρ ἡμεῖς
+ὑμεῖς δ’ ἡσυχάσαντες ἐνὶ φρεσὶ καρτερὸν ἦτορ, [para]οἳ πολλῶν ἀγαθῶν ἐς κόρον [ἠ]λάσατε, ἐν μετρίοισι τίθεσθε μέγαν νόον· οὔτε γὰρ ἡμεῖς
 
 ### book 4c.2
 
@@ -176,7 +176,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4c.3
 
-τα[ῦ]τ̣’ ἔσεται.
+τα[ῦ]τ’ ἔσεται.
 
 ### book 5
 
@@ -188,7 +188,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 6.2
 
-πολὺς ὄλβος ἕπηται [para]ἀνθρώποις ὁπ̣όσοις μὴ νόος ἄρτιος ἦι.
+πολὺς ὄλβος ἕπηται [para]ἀνθρώποις ὁπόσοις μὴ νόος ἄρτιος ἦι.
 
 ### book 7.1
 
@@ -580,7 +580,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 27.2
 
-πρῶτον ἐν ἕπτ’ ἔτεσιν. τοὺς δ’ ἑτέρους ὅτε δὴ τελέσηι θεὸς ἕπτ’ ἐνιαυτούς, [para]ἥβης †δὲ φάνει† σήματα γεινομένης.[ln_5]τῆι
+πρῶτον ἐν ἕπτ’ ἔτεσιν. τοὺς δ’ ἑτέρους ὅτε δὴ τελέσηι θεὸς ἕπτ’ ἐνιαυτούς, [para]ἥβης δὲ φάνει σήματα γεινομένης.[ln_5]τῆι
 
 ### book 27.3
 
@@ -644,11 +644,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 34.4
 
-χολούμενοι[ln_5]λοξὸν ὀφθαλμοῖς ὁρῶσι πάντες ὥστε δήϊον. οὐ χρεών· ἃ μὲν γὰρ εἶπα, σὺν θεοῖσιν ἤνυσα, ἄ⸤λλ⸥α δ’ οὐ μάτην ἔερδον, οὐδέ μοι
+χολούμενοι[ln_5]λοξὸν ὀφθαλμοῖς ὁρῶσι πάντες ὥστε δήϊον. οὐ χρεών· ἃ μὲν γὰρ εἶπα, σὺν θεοῖσιν ἤνυσα, ἄλλα δ’ οὐ μάτην ἔερδον, οὐδέ μοι
 
 ### book 34.5
 
-τυραννίδος ἁ̣ν̣δάν̣ει βίηι
+τυραννίδος ἁνδάνει βίηι
 
 ### book 34.6
 
@@ -672,7 +672,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 36.3
 
-τυχεῖ̣ν̣ ἐ̣παυσάμην; συμμαρτυροίη
+τυχεῖν ἐπαυσάμην; συμμαρτυροίη
 
 ### book 36.4
 
@@ -740,7 +740,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 37.1
 
-δήμωι μὲν εἰ χρὴ διαφάδην ὀνειδίσαι, ἃ̣ νῦν ἔχουσιν οὔποτ’ ὀφθα̣λ̣μοῖσιν ἂν εὕδοντες εἶδον ... ὅσοι δὲ μείζους καὶ βίην̣ ἀμείνονες,[ln_5]αἰνοῖεν ἄν με καὶ φίλον
+δήμωι μὲν εἰ χρὴ διαφάδην ὀνειδίσαι, ἃ νῦν ἔχουσιν οὔποτ’ ὀφθαλμοῖσιν ἂν εὕδοντες εἶδον ... ὅσοι δὲ μείζους καὶ βίην ἀμείνονες,[ln_5]αἰνοῖεν ἄν με καὶ φίλον
 
 ### book 37.2
 
@@ -768,7 +768,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 40
 
-†κόκκωνας δὲ† ἄλλος, †ἕτερος δὲ σήσαμα.
+κόκκωνας δὲ ἄλλος, ἕτερος δὲ σήσαμα.
 
 ### book 43
 

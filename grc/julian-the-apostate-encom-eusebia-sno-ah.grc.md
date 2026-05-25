@@ -4,7 +4,7 @@ title_greek: Εὐσεβίας τῆς βασιλίδος ἐγκώμιον
 author: Julian the Apostate
 eul_wid: sno-ah
 eul_aid: sno
-canonical: "https://eulogikon.org/grc/julian-the-apostate/encom-eusebia"
+canonical: "https://eulogikon.org/works/julian-apostate-encom-eusebia-sno-ah"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Julian the Apostate
 
-**eul_wid:** `sno-ah` · [HTML page](https://eulogikon.org/grc/julian-the-apostate/encom-eusebia)
+**eul_wid:** `sno-ah` · [HTML page](https://eulogikon.org/works/julian-apostate-encom-eusebia-sno-ah)
 
 ## Text
 

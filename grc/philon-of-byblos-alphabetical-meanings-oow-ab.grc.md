@@ -4,7 +4,7 @@ title_greek: Περὶ
 author: Philon of Byblos
 eul_wid: oow-ab
 eul_aid: oow
-canonical: "https://eulogikon.org/grc/philon-of-byblos/alphabetical-meanings"
+canonical: "https://eulogikon.org/works/philon-byblos-alphabetical-meanings-oow-ab"
 period: Roman
 dialect: Koine (frg)
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philon of Byblos
 
-**eul_wid:** `oow-ab` · [HTML page](https://eulogikon.org/grc/philon-of-byblos/alphabetical-meanings)
+**eul_wid:** `oow-ab` · [HTML page](https://eulogikon.org/works/philon-byblos-alphabetical-meanings-oow-ab)
 
 ## Text
 

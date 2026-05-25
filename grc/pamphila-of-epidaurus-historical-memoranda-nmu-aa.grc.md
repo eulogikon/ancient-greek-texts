@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Pamphila of Epidaurus
 eul_wid: nmu-aa
 eul_aid: nmu
-canonical: "https://eulogikon.org/grc/pamphila-of-epidaurus/historical-memoranda"
+canonical: "https://eulogikon.org/works/pamphila-epidaurus-historical-memoranda-nmu-aa"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pamphila of Epidaurus
 
-**eul_wid:** `nmu-aa` · [HTML page](https://eulogikon.org/grc/pamphila-of-epidaurus/historical-memoranda)
+**eul_wid:** `nmu-aa` · [HTML page](https://eulogikon.org/works/pamphila-epidaurus-historical-memoranda-nmu-aa)
 
 ## Text
 

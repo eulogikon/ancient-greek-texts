@@ -4,7 +4,7 @@ title_greek: Περὶ τοῦ χρηστέον στυπτηρίᾳ στρογγ
 author: Zosimus of Panopolis
 eul_wid: tyc-ao
 eul_aid: tyc
-canonical: "https://eulogikon.org/grc/zosimus-of-panopolis/round-alum-counterargument"
+canonical: "https://eulogikon.org/works/zosimus-panopolis-round-alum-counterargument-tyc-ao"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Zosimus of Panopolis
 
-**eul_wid:** `tyc-ao` · [HTML page](https://eulogikon.org/grc/zosimus-of-panopolis/round-alum-counterargument)
+**eul_wid:** `tyc-ao` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-round-alum-counterargument-tyc-ao)
 
 ## Text
 

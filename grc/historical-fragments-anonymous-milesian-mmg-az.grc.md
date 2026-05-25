@@ -4,7 +4,7 @@ title_greek: Ἀνώνυμος Μιλήσιος
 author: Historical Fragments  Anonymous
 eul_wid: mmg-az
 eul_aid: mmg
-canonical: "https://eulogikon.org/grc/historical-fragments-anonymous/milesian"
+canonical: "https://eulogikon.org/works/anon-hist-frag-milesian-mmg-az"
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Historical Fragments  Anonymous
 
-**eul_wid:** `mmg-az` · [HTML page](https://eulogikon.org/grc/historical-fragments-anonymous/milesian)
+**eul_wid:** `mmg-az` · [HTML page](https://eulogikon.org/works/anon-hist-frag-milesian-mmg-az)
 
 ## Text
 

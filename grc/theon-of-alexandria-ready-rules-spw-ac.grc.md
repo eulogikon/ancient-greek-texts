@@ -4,7 +4,7 @@ title_greek: Εἰς τοὺς προχείρους κανόνας
 author: Theon of Alexandria
 eul_wid: spw-ac
 eul_aid: spw
-canonical: "https://eulogikon.org/grc/theon-of-alexandria/ready-rules"
+canonical: "https://eulogikon.org/works/theon-alexandria-ready-rules-spw-ac"
 period: Late Antique
 dialect: Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theon of Alexandria
 
-**eul_wid:** `spw-ac` · [HTML page](https://eulogikon.org/grc/theon-of-alexandria/ready-rules)
+**eul_wid:** `spw-ac` · [HTML page](https://eulogikon.org/works/theon-alexandria-ready-rules-spw-ac)
 
 ## Text
 

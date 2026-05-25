@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Metrodorus of Chios
 eul_wid: dmk-aa
 eul_aid: dmk
-canonical: "https://eulogikon.org/grc/metrodorus-of-chios/testimonies"
+canonical: "https://eulogikon.org/works/metrodorus-chios-testimonies-dmk-aa"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Metrodorus of Chios
 
-**eul_wid:** `dmk-aa` · [HTML page](https://eulogikon.org/grc/metrodorus-of-chios/testimonies)
+**eul_wid:** `dmk-aa` · [HTML page](https://eulogikon.org/works/metrodorus-chios-testimonies-dmk-aa)
 
 ## Text
 
@@ -96,7 +96,7 @@ AËT. II 17, 1 (D. 346) Μ. ἅπαντας τοὺς ἀπλανεῖς ἀστ
 
 ### 18
 
-— —7, 3 (D. 375) Μ. ὑδατώδους ἀναθυμιάσεως διὰ τὴν ἡλιακὴν ἔκκαυσιν γίνεσθαι ὁρμὴν πνευμάτων † θείων· τοὺς δὲ ἐτησίας πνεῖν τοῦ πρὸς ταῖς ἄρκτοις παχυνθέντος ἀέρος ὑποχωροῦντι τῶι ἡλίωι κατὰ τὴν θερινὴν τροπὴν ἐπισυρρέοντος.
+— —7, 3 (D. 375) Μ. ὑδατώδους ἀναθυμιάσεως διὰ τὴν ἡλιακὴν ἔκκαυσιν γίνεσθαι ὁρμὴν πνευμάτων θείων· τοὺς δὲ ἐτησίας πνεῖν τοῦ πρὸς ταῖς ἄρκτοις παχυνθέντος ἀέρος ὑποχωροῦντι τῶι ἡλίωι κατὰ τὴν θερινὴν τροπὴν ἐπισυρρέοντος.
 
 ### 19
 

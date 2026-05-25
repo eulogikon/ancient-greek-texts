@@ -4,7 +4,7 @@ title_greek: Περὶ τοῦ λίθου τῆς φιλοσοφίας
 author: Zosimus of Panopolis
 eul_wid: tyc-bj
 eul_aid: tyc
-canonical: "https://eulogikon.org/grc/zosimus-of-panopolis/philosophers-stone"
+canonical: "https://eulogikon.org/works/zosimus-panopolis-philosophers-stone-tyc-bj"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Zosimus of Panopolis
 
-**eul_wid:** `tyc-bj` · [HTML page](https://eulogikon.org/grc/zosimus-of-panopolis/philosophers-stone)
+**eul_wid:** `tyc-bj` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-philosophers-stone-tyc-bj)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Nicanor of the 4th c. BCE
 eul_wid: gky-aa
 eul_aid: gky
-canonical: "https://eulogikon.org/grc/nicanor-4th-century-bce/geographical-nomenclature"
+canonical: "https://eulogikon.org/works/nicanor-4th-bce-geographical-nomenclature-gky-aa"
 period: Classical
 dialect: Attic
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nicanor of the 4th c. BCE
 
-**eul_wid:** `gky-aa` · [HTML page](https://eulogikon.org/grc/nicanor-4th-century-bce/geographical-nomenclature)
+**eul_wid:** `gky-aa` · [HTML page](https://eulogikon.org/works/nicanor-4th-bce-geographical-nomenclature-gky-aa)
 
 ## Text
 

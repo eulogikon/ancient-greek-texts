@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα τοῦ Φρέατος καὶ τοῦ Κυ
 author: Lysippus the Comic Poet
 eul_wid: dso-aa
 eul_aid: dso
-canonical: "https://eulogikon.org/grc/lysippus-the-comic-poet/well-dog"
+canonical: "https://eulogikon.org/works/lysippus-comic-well-dog-dso-aa"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lysippus the Comic Poet
 
-**eul_wid:** `dso-aa` · [HTML page](https://eulogikon.org/grc/lysippus-the-comic-poet/well-dog)
+**eul_wid:** `dso-aa` · [HTML page](https://eulogikon.org/works/lysippus-comic-well-dog-dso-aa)
 
 ## Text
 

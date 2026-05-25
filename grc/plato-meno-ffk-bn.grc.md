@@ -4,7 +4,7 @@ title_greek: Μένων
 author: Plato of Athens
 eul_wid: ffk-bn
 eul_aid: ffk
-canonical: "https://eulogikon.org/grc/plato/meno"
+canonical: "https://eulogikon.org/works/plato-meno-ffk-bn"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plato of Athens
 
-**eul_wid:** `ffk-bn` · [HTML page](https://eulogikon.org/grc/plato/meno)
+**eul_wid:** `ffk-bn` · [HTML page](https://eulogikon.org/works/plato-meno-ffk-bn)
 
 ## Text
 
@@ -3158,7 +3158,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **ΣΩ**
 
-Ἐπειδὴ τοίνυν οὐ μόνον δι’ ἐπιστήμην ἀγαθοὶ ἄνδρες ἂν εἶεν καὶ ὠφέλιμοι ταῖς πόλεσιν, εἴπερ εἶεν, ἀλλὰ καὶ δι’ ὀρθὴν δόξαν, τούτοιν δὲ οὐδέτερον φύσει ἐστὶν τοῖς ἀνθρώποις, οὔτε ἐπιστήμη οὔτε δόξα ἀληθής, †οὔτ’ ἐπίκτητα—ἢ δοκεῖ σοι φύσει ὁποτερονοῦν αὐτοῖν εἶναι;
+Ἐπειδὴ τοίνυν οὐ μόνον δι’ ἐπιστήμην ἀγαθοὶ ἄνδρες ἂν εἶεν καὶ ὠφέλιμοι ταῖς πόλεσιν, εἴπερ εἶεν, ἀλλὰ καὶ δι’ ὀρθὴν δόξαν, τούτοιν δὲ οὐδέτερον φύσει ἐστὶν τοῖς ἀνθρώποις, οὔτε ἐπιστήμη οὔτε δόξα ἀληθής, οὔτ’ ἐπίκτητα—ἢ δοκεῖ σοι φύσει ὁποτερονοῦν αὐτοῖν εἶναι;
 
 ### Men.98.d
 

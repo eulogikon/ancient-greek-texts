@@ -4,7 +4,7 @@ title_greek: Γλῶσσαι εἰς Εὐριπίδου Ῥῆσον
 author: Xenophon Scholia
 eul_wid: cto-ag
 eul_aid: cto
-canonical: "https://eulogikon.org/grc/xenophon-scholia/rhesus-glosses-ag"
+canonical: "https://eulogikon.org/works/xenophon-scholia-rhesus-glosses-cto-ag"
 period: Classical
 dialect: Mixed Dialects
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Xenophon Scholia
 
-**eul_wid:** `cto-ag` · [HTML page](https://eulogikon.org/grc/xenophon-scholia/rhesus-glosses-ag)
+**eul_wid:** `cto-ag` · [HTML page](https://eulogikon.org/works/xenophon-scholia-rhesus-glosses-cto-ag)
 
 ## Text
 

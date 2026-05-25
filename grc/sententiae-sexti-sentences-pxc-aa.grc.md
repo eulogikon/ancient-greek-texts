@@ -4,7 +4,7 @@ title_greek: Γνῶμαι Σέξτου
 author: Sententiae Sexti
 eul_wid: pxc-aa
 eul_aid: pxc
-canonical: "https://eulogikon.org/grc/sententiae-sexti/sentences"
+canonical: "https://eulogikon.org/works/sextus-sentences-pxc-aa"
 period: Roman
 dialect: Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sententiae Sexti
 
-**eul_wid:** `pxc-aa` · [HTML page](https://eulogikon.org/grc/sententiae-sexti/sentences)
+**eul_wid:** `pxc-aa` · [HTML page](https://eulogikon.org/works/sextus-sentences-pxc-aa)
 
 ## Text
 

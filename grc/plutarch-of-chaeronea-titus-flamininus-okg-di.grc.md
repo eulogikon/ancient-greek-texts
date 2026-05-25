@@ -4,7 +4,7 @@ title_greek: Τίτος Φλαμινῖνος
 author: Plutarch of Chaeronea
 eul_wid: okg-di
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/titus-flamininus"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-titus-flamininus-okg-di"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-di` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/titus-flamininus)
+**eul_wid:** `okg-di` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-titus-flamininus-okg-di)
 
 ## Text
 

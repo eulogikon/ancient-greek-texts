@@ -4,7 +4,7 @@ title_greek: Δελφικὸς Παιὰν Αʹ πρὸς Ἀπόλλωνα
 author: Paean Collection Anonymous
 eul_wid: cqc-ae
 eul_aid: cqc
-canonical: "https://eulogikon.org/grc/paean-collection-anonymous/delphic-i"
+canonical: "https://eulogikon.org/works/paean-collection-delphic-i-cqc-ae"
 period: Classical
 dialect: Doric (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Paean Collection Anonymous
 
-**eul_wid:** `cqc-ae` · [HTML page](https://eulogikon.org/grc/paean-collection-anonymous/delphic-i)
+**eul_wid:** `cqc-ae` · [HTML page](https://eulogikon.org/works/paean-collection-delphic-i-cqc-ae)
 
 ## Text
 
@@ -80,7 +80,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2.1
 
-α̣πε
+απε
 
 ### book 2.2
 
@@ -88,7 +88,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 3
 
-α̣ι̣ι̣ο̣ τ̣ιναο εν
+αιιο τιναο εν
 
 ## License and provenance
 

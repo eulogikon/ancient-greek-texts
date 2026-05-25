@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Little Song of the Disciples
 eul_wid: yew-aa
 eul_aid: yew
-canonical: "https://eulogikon.org/grc/little-song-of-the-disciples/prayer-wisdom"
+canonical: "https://eulogikon.org/works/mikron-hymn-prayer-wisdom-yew-aa"
 period: Byzantine
 dialect: Byzantine Christian
 domain: Poetry
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Little Song of the Disciples
 
-**eul_wid:** `yew-aa` · [HTML page](https://eulogikon.org/grc/little-song-of-the-disciples/prayer-wisdom)
+**eul_wid:** `yew-aa` · [HTML page](https://eulogikon.org/works/mikron-hymn-prayer-wisdom-yew-aa)
 
 ## Text
 
 ### unit_1
 
-[ ]...[] [ ]δι..[] ἑ̣[ται]ρ̣ικῆς [θ’ ἑορ]τῆς θαλύσιον κομίζω. ἐρῶ μὲν οὖν ἐς ἥβης τάχιστα μέτρον ἐλθεῖν διδασκάλου τ’ ἀκούων πολὺν χ[ρ]όνον βιῶναι. φυὴ δὲ [κοσμί]α τ̣ις σ̣οφό̣[ν τε νοῦ φρόνημα] γένοιτό μο̣ι̣ [μάθησιν] [κ]υ〈κ〉λουμένη[ν περῶντι·] μ̣ετάρσι[ος θέλοιμ’ ἄν] Διὸς δόμο[ις πελάσσαι] ..ε..σος.[]
+[ ]...[] [ ]δι..[] ἑ[ται]ρικῆς [θ’ ἑορ]τῆς θαλύσιον κομίζω. ἐρῶ μὲν οὖν ἐς ἥβης τάχιστα μέτρον ἐλθεῖν διδασκάλου τ’ ἀκούων πολὺν χ[ρ]όνον βιῶναι. φυὴ δὲ [κοσμί]α τις σοφό[ν τε νοῦ φρόνημα] γένοιτό μοι [μάθησιν] [κ]υ〈κ〉λουμένη[ν περῶντι·] μετάρσι[ος θέλοιμ’ ἄν] Διὸς δόμο[ις πελάσσαι] ..ε..σος.[]
 
 ## License and provenance
 

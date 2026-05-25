@@ -4,7 +4,7 @@ title_greek: Μωσέως δίπλωσις
 author: "Moses of Alexandria "
 eul_wid: qhc-ab
 eul_aid: qhc
-canonical: "https://eulogikon.org/grc/moses-of-alexandria/doubling"
+canonical: "https://eulogikon.org/works/moses-alexandria-doubling-qhc-ab"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Moses of Alexandria 
 
-**eul_wid:** `qhc-ab` · [HTML page](https://eulogikon.org/grc/moses-of-alexandria/doubling)
+**eul_wid:** `qhc-ab` · [HTML page](https://eulogikon.org/works/moses-alexandria-doubling-qhc-ab)
 
 ## Text
 

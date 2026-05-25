@@ -4,7 +4,7 @@ title_greek: Ἐπιστολαὶ πρὸς Φίλιππον
 author: Speusippus of Athens
 eul_wid: ega-ac
 eul_aid: ega
-canonical: "https://eulogikon.org/grc/speusippus-of-athens/letters-philip"
+canonical: "https://eulogikon.org/works/speusippus-athens-letters-philip-ega-ac"
 period: Classical
 dialect: "Attic (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Speusippus of Athens
 
-**eul_wid:** `ega-ac` · [HTML page](https://eulogikon.org/grc/speusippus-of-athens/letters-philip)
+**eul_wid:** `ega-ac` · [HTML page](https://eulogikon.org/works/speusippus-athens-letters-philip-ega-ac)
 
 ## Text
 

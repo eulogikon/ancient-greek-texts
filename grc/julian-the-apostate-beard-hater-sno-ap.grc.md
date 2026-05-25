@@ -4,7 +4,7 @@ title_greek: Μισοπώγων
 author: Julian the Apostate
 eul_wid: sno-ap
 eul_aid: sno
-canonical: "https://eulogikon.org/grc/julian-the-apostate/beard-hater"
+canonical: "https://eulogikon.org/works/julian-apostate-beard-hater-sno-ap"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Julian the Apostate
 
-**eul_wid:** `sno-ap` · [HTML page](https://eulogikon.org/grc/julian-the-apostate/beard-hater)
+**eul_wid:** `sno-ap` · [HTML page](https://eulogikon.org/works/julian-apostate-beard-hater-sno-ap)
 
 ## Text
 

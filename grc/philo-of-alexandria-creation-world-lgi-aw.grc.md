@@ -4,7 +4,7 @@ title_greek: Περὶ τῆς δημιουργίας τοῦ κόσμου
 author: Philo of Alexandria
 eul_wid: lgi-aw
 eul_aid: lgi
-canonical: "https://eulogikon.org/grc/philo-of-alexandria/creation-world"
+canonical: "https://eulogikon.org/works/philo-alexandria-creation-world-lgi-aw"
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philo of Alexandria
 
-**eul_wid:** `lgi-aw` · [HTML page](https://eulogikon.org/grc/philo-of-alexandria/creation-world)
+**eul_wid:** `lgi-aw` · [HTML page](https://eulogikon.org/works/philo-alexandria-creation-world-lgi-aw)
 
 ## Text
 

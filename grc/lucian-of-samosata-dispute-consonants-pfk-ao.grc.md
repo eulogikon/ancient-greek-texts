@@ -4,7 +4,7 @@ title_greek: Κατάπλους ἢ Τύραννος
 author: Lucian of Samosata
 eul_wid: pfk-ao
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/dispute-consonants"
+canonical: "https://eulogikon.org/works/lucian-samosata-dispute-consonants-pfk-ao"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-ao` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/dispute-consonants)
+**eul_wid:** `pfk-ao` · [HTML page](https://eulogikon.org/works/lucian-samosata-dispute-consonants-pfk-ao)
 
 ## Text
 

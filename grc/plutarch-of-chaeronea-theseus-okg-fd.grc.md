@@ -4,7 +4,7 @@ title_greek: Θησεύς
 author: Plutarch of Chaeronea
 eul_wid: okg-fd
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/theseus"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-theseus-okg-fd"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-fd` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/theseus)
+**eul_wid:** `okg-fd` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-theseus-okg-fd)
 
 ## Text
 
@@ -276,7 +276,7 @@ Erg. 370)· Μισθὸς δ’ ἀνδρὶ φίλῳ εἰρημένος ἄρ
 
 ### Thes 19 8
 
-Ἰδίως δέ πως καὶ περιττῶς ὁ Κλείδημος (FGrH 323 F 17) ἀπήγγειλε περὶ τούτων, ἄνωθέν ποθεν ἀρξάμενος ὅτι δόγμα κοινὸν ἦν Ἑλλήνων μηδεμίαν ἐκπλεῖν τριήρη μηδαμόθεν ἀνδρῶν † πέντε πλείονας δεχομένην· τὸν δ’ ἄρχοντα τῆς Ἀργοῦς Ἰάσονα μόνον ..... περιπλεῖν, ἐξείργοντα τῆς θαλάττης τὰ λῃστήρια. Δαιδάλου δὲ πλοίῳ φυγόντος εἰς Ἀθήνας, Μίνως παρὰ τὰ δόγματα μακραῖς ναυσὶ διώκων ὑπὸ χειμῶνος εἰς Σικελίαν ἀπηνέχθη, κἀκεῖ κατέστρεψε τὸν βίον.
+Ἰδίως δέ πως καὶ περιττῶς ὁ Κλείδημος (FGrH 323 F 17) ἀπήγγειλε περὶ τούτων, ἄνωθέν ποθεν ἀρξάμενος ὅτι δόγμα κοινὸν ἦν Ἑλλήνων μηδεμίαν ἐκπλεῖν τριήρη μηδαμόθεν ἀνδρῶν πέντε πλείονας δεχομένην· τὸν δ’ ἄρχοντα τῆς Ἀργοῦς Ἰάσονα μόνον ..... περιπλεῖν, ἐξείργοντα τῆς θαλάττης τὰ λῃστήρια. Δαιδάλου δὲ πλοίῳ φυγόντος εἰς Ἀθήνας, Μίνως παρὰ τὰ δόγματα μακραῖς ναυσὶ διώκων ὑπὸ χειμῶνος εἰς Σικελίαν ἀπηνέχθη, κἀκεῖ κατέστρεψε τὸν βίον.
 
 ### Thes 19 9
 

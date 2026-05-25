@@ -4,7 +4,7 @@ title_greek: Ὁμιλία εἰς τὴν Γέννησιν τοῦ Χριστο
 author: Hesychius of Miletus the Illustrious
 eul_wid: uws-ab
 eul_aid: uws
-canonical: "https://eulogikon.org/grc/hesychius-of-miletus/nativity-christ"
+canonical: "https://eulogikon.org/works/hesychius-miletus-nativity-christ-uws-ab"
 period: Late Antique
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hesychius of Miletus the Illustrious
 
-**eul_wid:** `uws-ab` · [HTML page](https://eulogikon.org/grc/hesychius-of-miletus/nativity-christ)
+**eul_wid:** `uws-ab` · [HTML page](https://eulogikon.org/works/hesychius-miletus-nativity-christ-uws-ab)
 
 ## Text
 

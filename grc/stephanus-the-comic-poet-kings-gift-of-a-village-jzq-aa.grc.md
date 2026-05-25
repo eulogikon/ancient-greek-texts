@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Stephanus the Comic Poet
 eul_wid: jzq-aa
 eul_aid: jzq
-canonical: "https://eulogikon.org/grc/stephanus-the-comic-poet/kings-gift-of-a-village"
+canonical: "https://eulogikon.org/works/stephanus-comic-kings-gift-of-a-village-jzq-aa"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Stephanus the Comic Poet
 
-**eul_wid:** `jzq-aa` · [HTML page](https://eulogikon.org/grc/stephanus-the-comic-poet/kings-gift-of-a-village)
+**eul_wid:** `jzq-aa` · [HTML page](https://eulogikon.org/works/stephanus-comic-kings-gift-of-a-village-jzq-aa)
 
 ## Text
 

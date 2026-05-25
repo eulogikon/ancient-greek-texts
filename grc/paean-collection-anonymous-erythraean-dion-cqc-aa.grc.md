@@ -4,7 +4,7 @@ title_greek: Ἐρυθραῖος Παιὰν εὑρεθεὶς ἐν Δίῳ
 author: Paean Collection Anonymous
 eul_wid: cqc-aa
 eul_aid: cqc
-canonical: "https://eulogikon.org/grc/paean-collection-anonymous/erythraean-dion"
+canonical: "https://eulogikon.org/works/paean-collection-erythraean-dion-cqc-aa"
 period: Classical
 dialect: Doric (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Paean Collection Anonymous
 
-**eul_wid:** `cqc-aa` · [HTML page](https://eulogikon.org/grc/paean-collection-anonymous/erythraean-dion)
+**eul_wid:** `cqc-aa` · [HTML page](https://eulogikon.org/works/paean-collection-erythraean-dion-cqc-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀσπίς
 author: Menander of Athens
 eul_wid: hps-bo
 eul_aid: hps
-canonical: "https://eulogikon.org/grc/menander-of-athens/shield"
+canonical: "https://eulogikon.org/works/menander-athens-shield-hps-bo"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander of Athens
 
-**eul_wid:** `hps-bo` · [HTML page](https://eulogikon.org/grc/menander-of-athens/shield)
+**eul_wid:** `hps-bo` · [HTML page](https://eulogikon.org/works/menander-athens-shield-hps-bo)
 
 ## Text
 
@@ -240,7 +240,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 48.2
 
-(Δα) ἄφνω γὰρ ἐπιπίπτουσιν αὐτοῖς μοι δοκεῖ. (Σμ) [..].....[...]....υ̣ς̣.. φα..[..].[
+(Δα) ἄφνω γὰρ ἐπιπίπτουσιν αὐτοῖς μοι δοκεῖ. (Σμ) [..].....[...]....υς.. φα..[..].[
 
 ### 48.3
 
@@ -488,7 +488,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 97.5
 
-ξένος ἄλλος ὡς .[...]τοκα̣ι̣[
+ξένος ἄλλος ὡς .[...]τοκαι[
 
 ### 97.6
 
@@ -888,19 +888,19 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 193.2
 
-σὸν δ’ εἴ με δω̣[
+σὸν δ’ εἴ με δω[
 
 ### 195.1
 
-πάντας θερά[ποντ]α̣ς̣ ἐ̣σ̣τ̣ι̣[
+πάντας θερά[ποντ]ας ἐστι[
 
 ### 195.2
 
-σώματα μεγ̣[...λ]αμβανοντ[
+σώματα μεγ[...λ]αμβανοντ[
 
 ### 195.3
 
-σημεῖ’ ἐπέστ̣[ ], συνήλλαξέν τισιν
+σημεῖ’ ἐπέστ[ ], συνήλλαξέν τισιν
 
 ### 195.4
 
@@ -1068,7 +1068,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 235
 
-Δα πρόαγε· τοῦτον οὐδ̣.[.].ς
+Δα πρόαγε· τοῦτον οὐδ.[.].ς
 
 ### 235.1
 
@@ -1080,7 +1080,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 235.3
 
-[ ]α̣ π̣ρῶτ̣[α ..]τα.
+[ ]α πρῶτ[α ..]τα.
 
 ### 237.1
 
@@ -1092,7 +1092,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 237.3
 
-τοιό]ν̣δ̣[ε π]εποηκώς, ἀπόπληκτε· χρυσίον
+τοιό]νδ[ε π]εποηκώς, ἀπόπληκτε· χρυσίον
 
 ### 240.1
 
@@ -1100,7 +1100,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 240.2
 
-ταῦτ’ ἀποκομίζων; κοὐκ ἀπέδρας; ποταπός π̣[οτ’ εἶ;
+ταῦτ’ ἀποκομίζων; κοὐκ ἀπέδρας; ποταπός π[οτ’ εἶ;
 
 ### 240.3
 
@@ -1280,15 +1280,15 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 275.1
 
-(Χα) τί χρὴ [ ]ε̣μ̣’ ἢ τί 〈ποτε〉 ποιεῖν μ’ ἔδει;
+(Χα) τί χρὴ [ ]εμ’ ἢ τί 〈ποτε〉 ποιεῖν μ’ ἔδει;
 
 ### 275.2
 
-(Σμ) [...]μ̣ε̣ν̣[
+(Σμ) [...]μεν[
 
 ### 275.3
 
-[..]ε̣σ̣τιν.
+[..]εστιν.
 
 ### 278.1
 
@@ -1296,7 +1296,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 278.2
 
-[.]εις σὲ μὲν λαβόντα ταύτη̣[ν
+[.]εις σὲ μὲν λαβόντα ταύτη[ν
 
 ### 280.1
 
@@ -1480,7 +1480,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 320
 
-ὥρμηκ[...] τ̣ωνδ’ ε[
+ὥρμηκ[...] τωνδ’ ε[
 
 ### 320.1
 
@@ -1492,11 +1492,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 320.3
 
-[ ]α̣υ̣τῶι τιν’ ἐλπίδ[
+[ ]αυτῶι τιν’ ἐλπίδ[
 
 ### 320.4
 
-[ ]. φερόμενον εὐθὺς ἐπ̣[
+[ ]. φερόμενον εὐθὺς ἐπ[
 
 ### 320.5
 
@@ -1676,7 +1676,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 360.2
 
-τηροῦν]τ̣ε̣ς̣ αὐτὸν μ̣ὴ̣ προσέλθηι· πολλ[α
+τηροῦν]τες αὐτὸν μὴ προσέλθηι· πολλ[α
 
 ### 361
 
@@ -1688,7 +1688,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 363.2
 
-[ ]υ πεῖραν ἔσται τ̣ι̣ν̣[
+[ ]υ πεῖραν ἔσται τιν[
 
 ### 365.1
 
@@ -1696,7 +1696,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 365.2
 
-[ ]τ̣ις γέγον’ ὀφείλων· εἴ τινι
+[ ]τις γέγον’ ὀφείλων· εἴ τινι
 
 ### 365.3
 
@@ -1708,7 +1708,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 365.5
 
-〈Δα〉 τιμωρί]α̣ν δὲ τοῦ πονηροῦ τίν’ ἂν ἔχοις
+〈Δα〉 τιμωρί]αν δὲ τοῦ πονηροῦ τίν’ ἂν ἔχοις
 
 ### 370
 
@@ -1720,7 +1720,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 370.2
 
-ὧν] μ̣’ ὠδύνηκε πώποτ’ ἀξίαν δίκην·
+ὧν] μ’ ὠδύνηκε πώποτ’ ἀξίαν δίκην·
 
 ### 370.3
 
@@ -1896,7 +1896,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 405.2
 
-ἅνθρωπος· ὑπ̣[
+ἅνθρωπος· ὑπ[
 
 ### 405.3
 
@@ -1908,7 +1908,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 405.5
 
-ἀπροσδοκήτου πράγματος κ̣α̣ὶ̣ ἀ[
+ἀπροσδοκήτου πράγματος καὶ ἀ[
 
 ### 410
 
@@ -1916,7 +1916,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 410.1
 
-[Δα] καὶ τ̣ο̣ῦ̣τ̣ό̣ π̣ο̣υ̣
+[Δα] καὶ τοῦτό που
 
 ### 410.2
 
@@ -2048,7 +2048,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 431.1
 
-[ΙΑΤΡΟΣ] –⏑×
+[ΙΑΤΡΟΣ] –
 
 ### 431.2
 
@@ -2084,7 +2084,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 440.1
 
-[ ]ι̣μ̣ε̣[..].δη φερομένωι
+[ ]ιμε[..].δη φερομένωι
 
 ### 440.2
 
@@ -2140,11 +2140,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 449.3
 
-[ ]εντ̣.[..] καὶ τοῖς ὄμμασι
+[ ]εντ.[..] καὶ τοῖς ὄμμασι
 
 ### 449.4
 
-[ ]υ̣κνον ἀναφρίζει τε καὶ
+[ ]υκνον ἀναφρίζει τε καὶ
 
 ### 449.5
 
@@ -2176,7 +2176,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 456.2
 
-(Ια) [ οὐ]κ̣ ἂν βιώιης τὼς τέως.
+(Ια) [ οὐ]κ ἂν βιώιης τὼς τέως.
 
 ### 456.3
 
@@ -2200,7 +2200,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 460.4
 
-[..].[.].[.] κ̣ε̣αλην ἀλλ’ ὑπέρχεταί τι τοι
+[..].[.].[.] κεαλην ἀλλ’ ὑπέρχεταί τι τοι
 
 ### 460.5
 
@@ -2224,7 +2224,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 467.2
 
-ἀλλ’ ὅπερ ἔ̣π̣ρ̣α̣τ̣τ̣ο̣ν̣ π̣ρ̣α̣τ̣[
+ἀλλ’ ὅπερ ἔπραττον πρατ[
 
 ### 468.1
 
@@ -2248,7 +2248,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 470.2
 
-Σμ † δεδρακιχ’. [
+Σμ δεδρακιχ’. [
 
 ### 471.1
 
@@ -2264,7 +2264,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 472.2
 
-ἁνὴρ ἀπολ̣[
+ἁνὴρ ἀπολ[
 
 ### 473.1
 
@@ -2312,7 +2312,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 480.1
 
-ον̣.[
+ον.[
 
 ### 480.2
 
@@ -2344,7 +2344,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 485.2
 
-ὑμῖν γενομεν̣[
+ὑμῖν γενομεν[
 
 ### 485.3
 
@@ -2380,7 +2380,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 491.4
 
-πάρειμι τῆι̣[
+πάρειμι τῆι[
 
 ### 495.1
 
@@ -2388,7 +2388,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 495.2
 
-εἰ δ’ αὖ διαπ̣[εσὼν
+εἰ δ’ αὖ διαπ[εσὼν
 
 ### 495.3
 
@@ -2448,7 +2448,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 508
 
-(Κλ) κατ̣[
+(Κλ) κατ[
 
 ### 508.1
 
@@ -2532,7 +2532,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 525.3
 
-[ νὴ τὸν Ἡρακ]λ̣έα, πρόσελθέ μοι
+[ νὴ τὸν Ἡρακ]λέα, πρόσελθέ μοι
 
 ### 525.4
 
@@ -2540,15 +2540,15 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 530.1
 
-[ ]ο̣σως Κλεόστρατος:
+[ ]οσως Κλεόστρατος:
 
 ### 530.2
 
-[ ]υ̣ν ὤιμην ἐγώ
+[ ]υν ὤιμην ἐγώ
 
 ### 530.3
 
-[ ]α̣ ποῦ ’στιν;: ἐνθαδί
+[ ]α ποῦ ’στιν;: ἐνθαδί
 
 ### 530.4
 
@@ -2560,7 +2560,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 535.1
 
-[ ]ο̣ν εὐωχίαν
+[ ]ον εὐωχίαν
 
 ### 535.2
 
@@ -2592,7 +2592,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 540.4
 
-[ ]γὰρ τήνδ’ ἐμὼ τὴν οὐσίαν [ ]μ̣οι παρενοχλουντος † :
+[ ]γὰρ τήνδ’ ἐμὼ τὴν οὐσίαν [ ]μοι παρενοχλουντος :
 
 ## License and provenance
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τοῦ Ἀληθινοῦ Στα
 author: "Menander Protector "
 eul_wid: viq-ad
 eul_aid: viq
-canonical: "https://eulogikon.org/grc/menander-protector/true-cross"
+canonical: "https://eulogikon.org/works/menander-protector-true-cross-viq-ad"
 period: Late Antique
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander Protector 
 
-**eul_wid:** `viq-ad` · [HTML page](https://eulogikon.org/grc/menander-protector/true-cross)
+**eul_wid:** `viq-ad` · [HTML page](https://eulogikon.org/works/menander-protector-true-cross-viq-ad)
 
 ## Text
 

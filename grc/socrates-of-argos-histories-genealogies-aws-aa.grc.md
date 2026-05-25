@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Socrates of Argos
 eul_wid: aws-aa
 eul_aid: aws
-canonical: "https://eulogikon.org/grc/socrates-of-argos/histories-genealogies"
+canonical: "https://eulogikon.org/works/socrates-argos-histories-genealogies-aws-aa"
 period: Archaic
 dialect: Doric
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Socrates of Argos
 
-**eul_wid:** `aws-aa` · [HTML page](https://eulogikon.org/grc/socrates-of-argos/histories-genealogies)
+**eul_wid:** `aws-aa` · [HTML page](https://eulogikon.org/works/socrates-argos-histories-genealogies-aws-aa)
 
 ## Text
 

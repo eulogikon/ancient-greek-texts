@@ -4,7 +4,7 @@ title_greek: Γεωγραφία Βιβλία Α΄-Γ΄
 author: Ptolemy of Alexandria
 eul_wid: phs-ae
 eul_aid: phs
-canonical: "https://eulogikon.org/grc/ptolemy-of-alexandria/geography-1-3"
+canonical: "https://eulogikon.org/works/ptolemy-alexandria-geography-1-3-phs-ae"
 period: Roman
 dialect: Technical Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ptolemy of Alexandria
 
-**eul_wid:** `phs-ae` · [HTML page](https://eulogikon.org/grc/ptolemy-of-alexandria/geography-1-3)
+**eul_wid:** `phs-ae` · [HTML page](https://eulogikon.org/works/ptolemy-alexandria-geography-1-3-phs-ae)
 
 ## Text
 

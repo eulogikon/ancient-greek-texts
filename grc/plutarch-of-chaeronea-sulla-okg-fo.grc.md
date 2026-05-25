@@ -4,7 +4,7 @@ title_greek: Σύλλας
 author: Plutarch of Chaeronea
 eul_wid: okg-fo
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/sulla"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-sulla-okg-fo"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-fo` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/sulla)
+**eul_wid:** `okg-fo` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-sulla-okg-fo)
 
 ## Text
 

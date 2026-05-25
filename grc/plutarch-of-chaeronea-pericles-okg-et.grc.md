@@ -4,7 +4,7 @@ title_greek: Περικλῆς
 author: Plutarch of Chaeronea
 eul_wid: okg-et
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/pericles"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-pericles-okg-et"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-et` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/pericles)
+**eul_wid:** `okg-et` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-pericles-okg-et)
 
 ## Text
 

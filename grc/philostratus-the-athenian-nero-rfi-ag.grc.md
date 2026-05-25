@@ -4,7 +4,7 @@ title_greek: Νέρων
 author: Philostratus the Athenian
 eul_wid: rfi-ag
 eul_aid: rfi
-canonical: "https://eulogikon.org/grc/philostratus-the-athenian/nero"
+canonical: "https://eulogikon.org/works/philostratus-athens-nero-rfi-ag"
 period: Roman
 dialect: Atticizing Literary
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philostratus the Athenian
 
-**eul_wid:** `rfi-ag` · [HTML page](https://eulogikon.org/grc/philostratus-the-athenian/nero)
+**eul_wid:** `rfi-ag` · [HTML page](https://eulogikon.org/works/philostratus-athens-nero-rfi-ag)
 
 ## Text
 

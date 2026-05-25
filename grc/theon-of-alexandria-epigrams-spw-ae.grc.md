@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Theon of Alexandria
 eul_wid: spw-ae
 eul_aid: spw
-canonical: "https://eulogikon.org/grc/theon-of-alexandria/epigrams"
+canonical: "https://eulogikon.org/works/theon-alexandria-epigrams-spw-ae"
 period: Late Antique
 dialect: Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theon of Alexandria
 
-**eul_wid:** `spw-ae` · [HTML page](https://eulogikon.org/grc/theon-of-alexandria/epigrams)
+**eul_wid:** `spw-ae` · [HTML page](https://eulogikon.org/works/theon-alexandria-epigrams-spw-ae)
 
 ## Text
 

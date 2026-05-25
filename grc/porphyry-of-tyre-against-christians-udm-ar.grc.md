@@ -4,7 +4,7 @@ title_greek: Κατὰ Χριστιανῶν
 author: Porphyry of Tyre
 eul_wid: udm-ar
 eul_aid: udm
-canonical: "https://eulogikon.org/grc/porphyry-of-tyre/against-christians"
+canonical: "https://eulogikon.org/works/porphyry-tyre-against-christians-udm-ar"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Porphyry of Tyre
 
-**eul_wid:** `udm-ar` · [HTML page](https://eulogikon.org/grc/porphyry-of-tyre/against-christians)
+**eul_wid:** `udm-ar` · [HTML page](https://eulogikon.org/works/porphyry-tyre-against-christians-udm-ar)
 
 ## Text
 

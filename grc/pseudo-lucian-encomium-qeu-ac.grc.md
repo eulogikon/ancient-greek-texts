@@ -4,7 +4,7 @@ title_greek: Δημοσθένους Ἐγκώμιον
 author: "Pseudo-Lucian "
 eul_wid: qeu-ac
 eul_aid: qeu
-canonical: "https://eulogikon.org/grc/pseudo-lucian/encomium"
+canonical: "https://eulogikon.org/works/pseudo-lucian-encomium-qeu-ac"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pseudo-Lucian 
 
-**eul_wid:** `qeu-ac` · [HTML page](https://eulogikon.org/grc/pseudo-lucian/encomium)
+**eul_wid:** `qeu-ac` · [HTML page](https://eulogikon.org/works/pseudo-lucian-encomium-qeu-ac)
 
 ## Text
 

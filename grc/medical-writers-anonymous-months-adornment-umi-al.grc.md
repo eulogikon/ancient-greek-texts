@@ -4,7 +4,7 @@ title_greek: Κόσμος Μηνῶν
 author: Medical Writers Anonymous
 eul_wid: umi-al
 eul_aid: umi
-canonical: "https://eulogikon.org/grc/medical-writers-anonymous/months-adornment"
+canonical: "https://eulogikon.org/works/med-writers-anon-months-adornment-umi-al"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Medical Writers Anonymous
 
-**eul_wid:** `umi-al` · [HTML page](https://eulogikon.org/grc/medical-writers-anonymous/months-adornment)
+**eul_wid:** `umi-al` · [HTML page](https://eulogikon.org/works/med-writers-anon-months-adornment-umi-al)
 
 ## Text
 

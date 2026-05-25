@@ -4,7 +4,7 @@ title_greek: Περὶ τοῦ θείου ὕδατος
 author: Zosimus of Panopolis
 eul_wid: tyc-bw
 eul_aid: tyc
-canonical: "https://eulogikon.org/grc/zosimus-of-panopolis/divine-water-bw"
+canonical: "https://eulogikon.org/works/zosimus-panopolis-divine-water-tyc-bw"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Zosimus of Panopolis
 
-**eul_wid:** `tyc-bw` · [HTML page](https://eulogikon.org/grc/zosimus-of-panopolis/divine-water-bw)
+**eul_wid:** `tyc-bw` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-divine-water-tyc-bw)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: "Theagenes of Macedon "
 eul_wid: jjm-aa
 eul_aid: jjm
-canonical: "https://eulogikon.org/grc/theagenes-of-macedon/historical-geography"
+canonical: "https://eulogikon.org/works/theagenes-macedon-historical-geography-jjm-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theagenes of Macedon 
 
-**eul_wid:** `jjm-aa` · [HTML page](https://eulogikon.org/grc/theagenes-of-macedon/historical-geography)
+**eul_wid:** `jjm-aa` · [HTML page](https://eulogikon.org/works/theagenes-macedon-historical-geography-jjm-aa)
 
 ## Text
 

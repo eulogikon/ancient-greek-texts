@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Melissus of Samos
 eul_wid: diy-ab
 eul_aid: diy
-canonical: "https://eulogikon.org/grc/melissus-of-samos/nature-being"
+canonical: "https://eulogikon.org/works/melissus-samos-nature-being-diy-ab"
 period: Classical
 dialect: Ionic (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Melissus of Samos
 
-**eul_wid:** `diy-ab` · [HTML page](https://eulogikon.org/grc/melissus-of-samos/nature-being)
+**eul_wid:** `diy-ab` · [HTML page](https://eulogikon.org/works/melissus-samos-nature-being-diy-ab)
 
 ## Text
 

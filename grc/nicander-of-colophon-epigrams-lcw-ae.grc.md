@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Nicander of Colophon
 eul_wid: lcw-ae
 eul_aid: lcw
-canonical: "https://eulogikon.org/grc/nicander-of-colophon/epigrams"
+canonical: "https://eulogikon.org/works/nicander-colophon-epigrams-lcw-ae"
 period: Hellenistic
 dialect: Koine
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nicander of Colophon
 
-**eul_wid:** `lcw-ae` · [HTML page](https://eulogikon.org/grc/nicander-of-colophon/epigrams)
+**eul_wid:** `lcw-ae` · [HTML page](https://eulogikon.org/works/nicander-colophon-epigrams-lcw-ae)
 
 ## Text
 

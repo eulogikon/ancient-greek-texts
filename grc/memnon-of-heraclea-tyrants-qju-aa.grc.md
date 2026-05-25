@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τῶν ἐν Ἡρακλείᾳ 
 author: Memnon of Heraclea
 eul_wid: qju-aa
 eul_aid: qju
-canonical: "https://eulogikon.org/grc/memnon-of-heraclea/tyrants"
+canonical: "https://eulogikon.org/works/memnon-heraclea-tyrants-qju-aa"
 period: Roman
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Memnon of Heraclea
 
-**eul_wid:** `qju-aa` · [HTML page](https://eulogikon.org/grc/memnon-of-heraclea/tyrants)
+**eul_wid:** `qju-aa` · [HTML page](https://eulogikon.org/works/memnon-heraclea-tyrants-qju-aa)
 
 ## Text
 

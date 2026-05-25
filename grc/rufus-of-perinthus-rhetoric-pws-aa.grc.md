@@ -4,7 +4,7 @@ title_greek: Ῥητορικὴ Τέχνη
 author: Rufus of Perinthus
 eul_wid: pws-aa
 eul_aid: pws
-canonical: "https://eulogikon.org/grc/rufus-of-perinthus/rhetoric"
+canonical: "https://eulogikon.org/works/rufus-perinthus-rhetoric-pws-aa"
 period: Roman
 dialect: Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Rufus of Perinthus
 
-**eul_wid:** `pws-aa` · [HTML page](https://eulogikon.org/grc/rufus-of-perinthus/rhetoric)
+**eul_wid:** `pws-aa` · [HTML page](https://eulogikon.org/works/rufus-perinthus-rhetoric-pws-aa)
 
 ## Text
 

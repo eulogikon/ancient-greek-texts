@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Parrhasius of Ephesus
 eul_wid: ewe-aa
 eul_aid: ewe
-canonical: "https://eulogikon.org/grc/parrhasius-of-ephesus/epigrams"
+canonical: "https://eulogikon.org/works/parrhasius-ephesus-epigrams-ewe-aa"
 period: Classical
 dialect: Ionic Elegiac
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Parrhasius of Ephesus
 
-**eul_wid:** `ewe-aa` · [HTML page](https://eulogikon.org/grc/parrhasius-of-ephesus/epigrams)
+**eul_wid:** `ewe-aa` · [HTML page](https://eulogikon.org/works/parrhasius-ephesus-epigrams-ewe-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ τοῦ Φιλοκτήμονος κλήρου
 author: Isaeus the Orator
 eul_wid: fge-ac
 eul_aid: fge
-canonical: "https://eulogikon.org/grc/isaeus-the-orator/lot-covetous"
+canonical: "https://eulogikon.org/works/isaeus-lot-covetous-fge-ac"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Isaeus the Orator
 
-**eul_wid:** `fge-ac` · [HTML page](https://eulogikon.org/grc/isaeus-the-orator/lot-covetous)
+**eul_wid:** `fge-ac` · [HTML page](https://eulogikon.org/works/isaeus-lot-covetous-fge-ac)
 
 ## Text
 

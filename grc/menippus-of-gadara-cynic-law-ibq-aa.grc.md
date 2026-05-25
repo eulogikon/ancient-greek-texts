@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα περὶ Κυνικοῦ Νόμου
 author: Menippus of Gadara
 eul_wid: ibq-aa
 eul_aid: ibq
-canonical: "https://eulogikon.org/grc/menippus-of-gadara/cynic-law"
+canonical: "https://eulogikon.org/works/menippus-gadara-cynic-law-ibq-aa"
 period: Hellenistic
 dialect: Koine
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menippus of Gadara
 
-**eul_wid:** `ibq-aa` · [HTML page](https://eulogikon.org/grc/menippus-of-gadara/cynic-law)
+**eul_wid:** `ibq-aa` · [HTML page](https://eulogikon.org/works/menippus-gadara-cynic-law-ibq-aa)
 
 ## Text
 

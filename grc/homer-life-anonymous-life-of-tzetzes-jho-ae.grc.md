@@ -4,7 +4,7 @@ title_greek: Βίος Τζέτζου
 author: Homer Life-anonymous
 eul_wid: jho-ae
 eul_aid: jho
-canonical: "https://eulogikon.org/grc/homer-life-anonymous/life-of-tzetzes"
+canonical: "https://eulogikon.org/works/homer-life-of-tzetzes-jho-ae"
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Homer Life-anonymous
 
-**eul_wid:** `jho-ae` · [HTML page](https://eulogikon.org/grc/homer-life-anonymous/life-of-tzetzes)
+**eul_wid:** `jho-ae` · [HTML page](https://eulogikon.org/works/homer-life-of-tzetzes-jho-ae)
 
 ## Text
 

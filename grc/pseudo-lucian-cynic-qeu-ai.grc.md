@@ -4,7 +4,7 @@ title_greek: Κυνικός
 author: "Pseudo-Lucian "
 eul_wid: qeu-ai
 eul_aid: qeu
-canonical: "https://eulogikon.org/grc/pseudo-lucian/cynic"
+canonical: "https://eulogikon.org/works/pseudo-lucian-cynic-qeu-ai"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pseudo-Lucian 
 
-**eul_wid:** `qeu-ai` · [HTML page](https://eulogikon.org/grc/pseudo-lucian/cynic)
+**eul_wid:** `qeu-ai` · [HTML page](https://eulogikon.org/works/pseudo-lucian-cynic-qeu-ai)
 
 ## Text
 

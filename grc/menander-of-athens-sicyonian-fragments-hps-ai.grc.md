@@ -4,7 +4,7 @@ title_greek: Σικυώνιος Ἀποσπάσματα
 author: Menander of Athens
 eul_wid: hps-ai
 eul_aid: hps
-canonical: "https://eulogikon.org/grc/menander-of-athens/sicyonian-fragments"
+canonical: "https://eulogikon.org/works/menander-athens-sicyonian-fragments-hps-ai"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander of Athens
 
-**eul_wid:** `hps-ai` · [HTML page](https://eulogikon.org/grc/menander-of-athens/sicyonian-fragments)
+**eul_wid:** `hps-ai` · [HTML page](https://eulogikon.org/works/menander-athens-sicyonian-fragments-hps-ai)
 
 ## Text
 

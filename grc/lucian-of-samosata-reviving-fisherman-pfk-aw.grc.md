@@ -4,7 +4,7 @@ title_greek: Ἀναβιοῦντες ἢ Ἁλιεύς
 author: Lucian of Samosata
 eul_wid: pfk-aw
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/reviving-fisherman"
+canonical: "https://eulogikon.org/works/lucian-samosata-reviving-fisherman-pfk-aw"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-aw` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/reviving-fisherman)
+**eul_wid:** `pfk-aw` · [HTML page](https://eulogikon.org/works/lucian-samosata-reviving-fisherman-pfk-aw)
 
 ## Text
 

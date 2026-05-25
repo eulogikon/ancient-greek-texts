@@ -4,7 +4,7 @@ title_greek: Θεοφορουμένη
 author: Menander of Athens
 eul_wid: hps-aw
 eul_aid: hps
-canonical: "https://eulogikon.org/grc/menander-of-athens/theophorumene"
+canonical: "https://eulogikon.org/works/menander-athens-theophorumene-hps-aw"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander of Athens
 
-**eul_wid:** `hps-aw` · [HTML page](https://eulogikon.org/grc/menander-of-athens/theophorumene)
+**eul_wid:** `hps-aw` · [HTML page](https://eulogikon.org/works/menander-athens-theophorumene-hps-aw)
 
 ## Text
 
 ### 1.1
 
-]ρ̣ετωι:
+]ρετωι:
 
 ### 1.2
 
@@ -32,7 +32,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1.3
 
-]ω̣
+]ω
 
 ### 1.4
 
@@ -48,7 +48,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 5.3
 
-]κ̣ι̣αν:
+]κιαν:
 
 ### 5.4
 
@@ -76,7 +76,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 15.1
 
-]ξ̣ιπ̣.σ̣τατο̣[
+]ξιπ.στατο[
 
 ### 15.2
 
@@ -84,11 +84,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 16.1
 
-ταχ̣[...] καταστάξαντες, οἶδ’, ἀπ’ ὀμμάτων
+ταχ[...] καταστάξαντες, οἶδ’, ἀπ’ ὀμμάτων
 
 ### 16.2
 
-ἔπλ̣η̣σ̣α. “τἀμὰ δῶρ’”, ἀκούεις; ἡ κόρη
+ἔπλησα. “τἀμὰ δῶρ’”, ἀκούεις; ἡ κόρη
 
 ### 16.3
 
@@ -100,7 +100,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 20.1
 
-πόθεν οἶσθα τοῦτον; τί δὲ νεανίσκο̣[ ;
+πόθεν οἶσθα τοῦτον; τί δὲ νεανίσκο[ ;
 
 ### 20.2
 
@@ -132,11 +132,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 25.2
 
-νῦν εἰς τὸ πρόσθεν ἐνθάδ’ ἐκπηδή̣[σεται.
+νῦν εἰς τὸ πρόσθεν ἐνθάδ’ ἐκπηδή[σεται.
 
 ### 25.3
 
-μητρὸς θεῶν, μᾶλλον δὲ κορυβάντ[ων ⏑ ×
+μητρὸς θεῶν, μᾶλλον δὲ κορυβάντ[ων
 
 ### 25.4
 

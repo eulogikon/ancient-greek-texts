@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Δικῶν
 author: Hypereides the Orator
 eul_wid: fci-af
 eul_aid: fci
-canonical: "https://eulogikon.org/grc/hypereides-the-orator/legal-cases"
+canonical: "https://eulogikon.org/works/hypereides-legal-cases-fci-af"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hypereides the Orator
 
-**eul_wid:** `fci-af` · [HTML page](https://eulogikon.org/grc/hypereides-the-orator/legal-cases)
+**eul_wid:** `fci-af` · [HTML page](https://eulogikon.org/works/hypereides-legal-cases-fci-af)
 
 ## Text
 

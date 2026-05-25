@@ -4,7 +4,7 @@ title_greek: Περὶ κυρίων καὶ ἐπιθέτων καὶ προση
 author: Herodian of Alexandria
 eul_wid: qnq-ad
 eul_aid: qnq
-canonical: "https://eulogikon.org/grc/herodian-of-alexandria/nouns-adjectives-appellatives"
+canonical: "https://eulogikon.org/works/herodian-alexandria-nouns-adjectives-appellatives-qnq-ad"
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Herodian of Alexandria
 
-**eul_wid:** `qnq-ad` · [HTML page](https://eulogikon.org/grc/herodian-of-alexandria/nouns-adjectives-appellatives)
+**eul_wid:** `qnq-ad` · [HTML page](https://eulogikon.org/works/herodian-alexandria-nouns-adjectives-appellatives-qnq-ad)
 
 ## Text
 

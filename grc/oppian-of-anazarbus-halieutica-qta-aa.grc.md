@@ -4,7 +4,7 @@ title_greek: Ἁλιευτικά
 author: Oppian of Anazarbus
 eul_wid: qta-aa
 eul_aid: qta
-canonical: "https://eulogikon.org/grc/oppian-of-anazarbus/halieutica"
+canonical: "https://eulogikon.org/works/oppian-anazarbus-halieutica-qta-aa"
 period: Roman
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Oppian of Anazarbus
 
-**eul_wid:** `qta-aa` · [HTML page](https://eulogikon.org/grc/oppian-of-anazarbus/halieutica)
+**eul_wid:** `qta-aa` · [HTML page](https://eulogikon.org/works/oppian-anazarbus-halieutica-qta-aa)
 
 ## Text
 

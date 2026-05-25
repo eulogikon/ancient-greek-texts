@@ -4,7 +4,7 @@ title_greek: Λεξικὸν τῆς Γραμματικῆς Τέχνης
 author: Lexicon of the Art of Grammar Anonymous
 eul_wid: voa-aa
 eul_aid: voa
-canonical: "https://eulogikon.org/grc/lexicon-of-grammar-anonymous/art"
+canonical: "https://eulogikon.org/works/lexicon-grammar-anon-art-voa-aa"
 period: Late Antique
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lexicon of the Art of Grammar Anonymous
 
-**eul_wid:** `voa-aa` · [HTML page](https://eulogikon.org/grc/lexicon-of-grammar-anonymous/art)
+**eul_wid:** `voa-aa` · [HTML page](https://eulogikon.org/works/lexicon-grammar-anon-art-voa-aa)
 
 ## Text
 

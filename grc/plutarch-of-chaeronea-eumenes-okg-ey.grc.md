@@ -4,7 +4,7 @@ title_greek: Εὐμένης
 author: Plutarch of Chaeronea
 eul_wid: okg-ey
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/eumenes"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-eumenes-okg-ey"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-ey` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/eumenes)
+**eul_wid:** `okg-ey` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-eumenes-okg-ey)
 
 ## Text
 

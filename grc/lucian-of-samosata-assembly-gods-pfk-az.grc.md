@@ -4,7 +4,7 @@ title_greek: Θεῶν Ἐκκλησία
 author: Lucian of Samosata
 eul_wid: pfk-az
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/assembly-gods"
+canonical: "https://eulogikon.org/works/lucian-samosata-assembly-gods-pfk-az"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-az` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/assembly-gods)
+**eul_wid:** `pfk-az` · [HTML page](https://eulogikon.org/works/lucian-samosata-assembly-gods-pfk-az)
 
 ## Text
 

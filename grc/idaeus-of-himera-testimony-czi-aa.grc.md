@@ -4,7 +4,7 @@ title_greek: Μαρτυρία
 author: Idaeus of Himera
 eul_wid: czi-aa
 eul_aid: czi
-canonical: "https://eulogikon.org/grc/idaeus-of-himera/testimony"
+canonical: "https://eulogikon.org/works/idaeus-himera-testimony-czi-aa"
 period: Classical
 dialect: Ionic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Idaeus of Himera
 
-**eul_wid:** `czi-aa` · [HTML page](https://eulogikon.org/grc/idaeus-of-himera/testimony)
+**eul_wid:** `czi-aa` · [HTML page](https://eulogikon.org/works/idaeus-himera-testimony-czi-aa)
 
 ## Text
 

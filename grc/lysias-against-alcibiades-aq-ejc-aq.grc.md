@@ -4,7 +4,7 @@ title_greek: κατὰ Ἀλκιβιάδου λιποταξίου
 author: Lysias the Orator
 eul_wid: ejc-aq
 eul_aid: ejc
-canonical: "https://eulogikon.org/grc/lysias/against-alcibiades-aq"
+canonical: "https://eulogikon.org/works/lysias-against-alcibiades-ejc-aq"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lysias the Orator
 
-**eul_wid:** `ejc-aq` · [HTML page](https://eulogikon.org/grc/lysias/against-alcibiades-aq)
+**eul_wid:** `ejc-aq` · [HTML page](https://eulogikon.org/works/lysias-against-alcibiades-ejc-aq)
 
 ## Text
 

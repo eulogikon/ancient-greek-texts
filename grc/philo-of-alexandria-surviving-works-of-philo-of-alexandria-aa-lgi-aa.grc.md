@@ -4,7 +4,7 @@ title_greek: Τὰ σωζόμενα Φίλωνος Ἀλεξανδρέως
 author: Philo of Alexandria
 eul_wid: lgi-aa
 eul_aid: lgi
-canonical: "https://eulogikon.org/grc/philo-of-alexandria/surviving-works-of-philo-of-alexandria-aa"
+canonical: "https://eulogikon.org/works/philo-alexandria-surviving-works-of-philo-of-alexandria-lgi-aa"
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philo of Alexandria
 
-**eul_wid:** `lgi-aa` · [HTML page](https://eulogikon.org/grc/philo-of-alexandria/surviving-works-of-philo-of-alexandria-aa)
+**eul_wid:** `lgi-aa` · [HTML page](https://eulogikon.org/works/philo-alexandria-surviving-works-of-philo-of-alexandria-lgi-aa)
 
 ## Text
 

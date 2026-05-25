@@ -4,7 +4,7 @@ title_greek: Εἰς Θεοδόσιον· τίς ἡ βασιλικωτάτη τ
 author: Themistius the Philosopher
 eul_wid: rye-ad
 eul_aid: rye
-canonical: "https://eulogikon.org/grc/themistius/to-theodosius-virtues"
+canonical: "https://eulogikon.org/works/themistius-to-theodosius-virtues-rye-ad"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Themistius the Philosopher
 
-**eul_wid:** `rye-ad` · [HTML page](https://eulogikon.org/grc/themistius/to-theodosius-virtues)
+**eul_wid:** `rye-ad` · [HTML page](https://eulogikon.org/works/themistius-to-theodosius-virtues-rye-ad)
 
 ## Text
 

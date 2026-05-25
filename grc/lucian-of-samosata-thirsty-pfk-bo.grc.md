@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν Διψάδων
 author: Lucian of Samosata
 eul_wid: pfk-bo
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/thirsty"
+canonical: "https://eulogikon.org/works/lucian-samosata-thirsty-pfk-bo"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-bo` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/thirsty)
+**eul_wid:** `pfk-bo` · [HTML page](https://eulogikon.org/works/lucian-samosata-thirsty-pfk-bo)
 
 ## Text
 

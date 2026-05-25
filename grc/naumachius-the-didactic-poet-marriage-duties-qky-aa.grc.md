@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Naumachius the Didactic Poet
 eul_wid: qky-aa
 eul_aid: qky
-canonical: "https://eulogikon.org/grc/naumachius-the-didactic-poet/marriage-duties"
+canonical: "https://eulogikon.org/works/naumachius-marriage-duties-qky-aa"
 period: Roman
 dialect: Koine
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Naumachius the Didactic Poet
 
-**eul_wid:** `qky-aa` · [HTML page](https://eulogikon.org/grc/naumachius-the-didactic-poet/marriage-duties)
+**eul_wid:** `qky-aa` · [HTML page](https://eulogikon.org/works/naumachius-marriage-duties-qky-aa)
 
 ## Text
 

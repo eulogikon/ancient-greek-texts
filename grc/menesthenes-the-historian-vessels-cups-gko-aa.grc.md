@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Menesthenes the Historian
 eul_wid: gko-aa
 eul_aid: gko
-canonical: "https://eulogikon.org/grc/menesthenes-the-historian/vessels-cups"
+canonical: "https://eulogikon.org/works/menesthenes-vessels-cups-gko-aa"
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menesthenes the Historian
 
-**eul_wid:** `gko-aa` · [HTML page](https://eulogikon.org/grc/menesthenes-the-historian/vessels-cups)
+**eul_wid:** `gko-aa` · [HTML page](https://eulogikon.org/works/menesthenes-vessels-cups-gko-aa)
 
 ## Text
 

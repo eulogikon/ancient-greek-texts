@@ -4,7 +4,7 @@ title_greek: Πόροι ἢ Περὶ Προσόδων
 author: Xenophon of Athens
 eul_wid: ezq-ae
 eul_aid: ezq
-canonical: "https://eulogikon.org/grc/xenophon-of-athens/ways-means"
+canonical: "https://eulogikon.org/works/xenophon-athens-ways-means-ezq-ae"
 period: Classical
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Xenophon of Athens
 
-**eul_wid:** `ezq-ae` · [HTML page](https://eulogikon.org/grc/xenophon-of-athens/ways-means)
+**eul_wid:** `ezq-ae` · [HTML page](https://eulogikon.org/works/xenophon-athens-ways-means-ezq-ae)
 
 ## Text
 

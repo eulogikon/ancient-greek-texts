@@ -4,7 +4,7 @@ title_greek: Ἠλέκτρον
 author: Lucian of Samosata
 eul_wid: pfk-ch
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/electrum"
+canonical: "https://eulogikon.org/works/lucian-samosata-electrum-pfk-ch"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-ch` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/electrum)
+**eul_wid:** `pfk-ch` · [HTML page](https://eulogikon.org/works/lucian-samosata-electrum-pfk-ch)
 
 ## Text
 

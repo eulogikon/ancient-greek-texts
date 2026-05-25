@@ -4,7 +4,7 @@ title_greek: Περὶ τῆς τοῦ κόσμου ἀϊδιότητος
 author: John Philoponus of Alexandria
 eul_wid: uxc-an
 eul_aid: uxc
-canonical: "https://eulogikon.org/grc/john-philoponus-of-alexandria/eternity-world"
+canonical: "https://eulogikon.org/works/john-philoponus-alexandria-eternity-world-uxc-an"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** John Philoponus of Alexandria
 
-**eul_wid:** `uxc-an` · [HTML page](https://eulogikon.org/grc/john-philoponus-of-alexandria/eternity-world)
+**eul_wid:** `uxc-an` · [HTML page](https://eulogikon.org/works/john-philoponus-alexandria-eternity-world-uxc-an)
 
 ## Text
 

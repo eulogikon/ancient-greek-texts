@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Socrates of Rhodes
 eul_wid: nbg-aa
 eul_aid: nbg
-canonical: "https://eulogikon.org/grc/socrates-of-rhodes/cleopatra-banquet"
+canonical: "https://eulogikon.org/works/socrates-rhodes-cleopatra-banquet-nbg-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Socrates of Rhodes
 
-**eul_wid:** `nbg-aa` · [HTML page](https://eulogikon.org/grc/socrates-of-rhodes/cleopatra-banquet)
+**eul_wid:** `nbg-aa` · [HTML page](https://eulogikon.org/works/socrates-rhodes-cleopatra-banquet-nbg-aa)
 
 ## Text
 

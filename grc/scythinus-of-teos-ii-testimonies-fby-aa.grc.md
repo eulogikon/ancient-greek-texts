@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Scythinus of Teos II
 eul_wid: fby-aa
 eul_aid: fby
-canonical: "https://eulogikon.org/grc/scythinus-of-teos-ii/testimonies"
+canonical: "https://eulogikon.org/works/scythinus-teos-testimonies-fby-aa"
 period: Classical
 dialect: Ionic Iambic
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Scythinus of Teos II
 
-**eul_wid:** `fby-aa` · [HTML page](https://eulogikon.org/grc/scythinus-of-teos-ii/testimonies)
+**eul_wid:** `fby-aa` · [HTML page](https://eulogikon.org/works/scythinus-teos-testimonies-fby-aa)
 
 ## Text
 

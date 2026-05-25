@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Nymphis of Heraclea Pontica
 eul_wid: iuw-aa
 eul_aid: iuw
-canonical: "https://eulogikon.org/grc/nymphis-of-heraclea-pontica/pontica"
+canonical: "https://eulogikon.org/works/nymphis-heraclea-pontica-iuw-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nymphis of Heraclea Pontica
 
-**eul_wid:** `iuw-aa` · [HTML page](https://eulogikon.org/grc/nymphis-of-heraclea-pontica/pontica)
+**eul_wid:** `iuw-aa` · [HTML page](https://eulogikon.org/works/nymphis-heraclea-pontica-iuw-aa)
 
 ## Text
 

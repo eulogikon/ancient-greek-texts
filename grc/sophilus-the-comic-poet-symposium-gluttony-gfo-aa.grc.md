@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Sophilus the Comic Poet
 eul_wid: gfo-aa
 eul_aid: gfo
-canonical: "https://eulogikon.org/grc/sophilus-the-comic-poet/symposium-gluttony"
+canonical: "https://eulogikon.org/works/sophilus-symposium-gluttony-gfo-aa"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sophilus the Comic Poet
 
-**eul_wid:** `gfo-aa` · [HTML page](https://eulogikon.org/grc/sophilus-the-comic-poet/symposium-gluttony)
+**eul_wid:** `gfo-aa` · [HTML page](https://eulogikon.org/works/sophilus-symposium-gluttony-gfo-aa)
 
 ## Text
 

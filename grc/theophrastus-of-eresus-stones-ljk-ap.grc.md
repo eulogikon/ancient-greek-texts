@@ -4,7 +4,7 @@ title_greek: Περὶ λίθων
 author: Theophrastus of Eresus
 eul_wid: ljk-ap
 eul_aid: ljk
-canonical: "https://eulogikon.org/grc/theophrastus-of-eresus/stones"
+canonical: "https://eulogikon.org/works/theophrastus-eresus-stones-ljk-ap"
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theophrastus of Eresus
 
-**eul_wid:** `ljk-ap` · [HTML page](https://eulogikon.org/grc/theophrastus-of-eresus/stones)
+**eul_wid:** `ljk-ap` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-stones-ljk-ap)
 
 ## Text
 

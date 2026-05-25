@@ -4,7 +4,7 @@ title_greek: Περὶ Δειλίας
 author: Theophrastus of Eresus
 eul_wid: ljk-ai
 eul_aid: ljk
-canonical: "https://eulogikon.org/grc/theophrastus-of-eresus/faintheartedness"
+canonical: "https://eulogikon.org/works/theophrastus-eresus-faintheartedness-ljk-ai"
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theophrastus of Eresus
 
-**eul_wid:** `ljk-ai` · [HTML page](https://eulogikon.org/grc/theophrastus-of-eresus/faintheartedness)
+**eul_wid:** `ljk-ai` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-faintheartedness-ljk-ai)
 
 ## Text
 

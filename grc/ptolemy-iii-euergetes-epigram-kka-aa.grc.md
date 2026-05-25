@@ -4,7 +4,7 @@ title_greek: Ἐπίγραμμα
 author: Ptolemy III Euergetes King of Egypt
 eul_wid: kka-aa
 eul_aid: kka
-canonical: "https://eulogikon.org/grc/ptolemy-iii-euergetes/epigram"
+canonical: "https://eulogikon.org/works/ptolemy-iii-epigram-kka-aa"
 period: Hellenistic
 dialect: Koine
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ptolemy III Euergetes King of Egypt
 
-**eul_wid:** `kka-aa` · [HTML page](https://eulogikon.org/grc/ptolemy-iii-euergetes/epigram)
+**eul_wid:** `kka-aa` · [HTML page](https://eulogikon.org/works/ptolemy-iii-epigram-kka-aa)
 
 ## Text
 
@@ -32,7 +32,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 712.3
 
-τείρεα καὶ πολλοὶ ταῦτα τὰ φαινόμενα βίβλοις ἐγκατέθεντο, †ἀπὸ σκοποῦ δ’ ἀφάμαρτον† ἀλλ’ ὅ γε λεπτολόγος
+τείρεα καὶ πολλοὶ ταῦτα τὰ φαινόμενα βίβλοις ἐγκατέθεντο, ἀπὸ σκοποῦ δ’ ἀφάμαρτον ἀλλ’ ὅ γε λεπτολόγος
 
 ### book 712.4
 

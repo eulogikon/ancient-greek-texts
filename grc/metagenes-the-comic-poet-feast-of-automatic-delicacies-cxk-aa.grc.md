@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Metagenes the Comic Poet
 eul_wid: cxk-aa
 eul_aid: cxk
-canonical: "https://eulogikon.org/grc/metagenes-the-comic-poet/feast-of-automatic-delicacies"
+canonical: "https://eulogikon.org/works/metagenes-feast-of-automatic-delicacies-cxk-aa"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Metagenes the Comic Poet
 
-**eul_wid:** `cxk-aa` · [HTML page](https://eulogikon.org/grc/metagenes-the-comic-poet/feast-of-automatic-delicacies)
+**eul_wid:** `cxk-aa` · [HTML page](https://eulogikon.org/works/metagenes-feast-of-automatic-delicacies-cxk-aa)
 
 ## Text
 

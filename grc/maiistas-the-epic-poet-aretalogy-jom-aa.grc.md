@@ -4,7 +4,7 @@ title_greek: Ἀρεταλογία
 author: Maiistas the Epic Poet
 eul_wid: jom-aa
 eul_aid: jom
-canonical: "https://eulogikon.org/grc/maiistas-the-epic-poet/aretalogy"
+canonical: "https://eulogikon.org/works/maiistas-aretalogy-jom-aa"
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Maiistas the Epic Poet
 
-**eul_wid:** `jom-aa` · [HTML page](https://eulogikon.org/grc/maiistas-the-epic-poet/aretalogy)
+**eul_wid:** `jom-aa` · [HTML page](https://eulogikon.org/works/maiistas-aretalogy-jom-aa)
 
 ## Text
 

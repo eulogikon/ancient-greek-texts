@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Διαδοχῆς Στωικῆς
 author: Zeno of Tarsus
 eul_wid: kve-aa
 eul_aid: kve
-canonical: "https://eulogikon.org/grc/zeno-of-tarsus/stoic-succession"
+canonical: "https://eulogikon.org/works/zeno-tarsus-stoic-succession-kve-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Zeno of Tarsus
 
-**eul_wid:** `kve-aa` · [HTML page](https://eulogikon.org/grc/zeno-of-tarsus/stoic-succession)
+**eul_wid:** `kve-aa` · [HTML page](https://eulogikon.org/works/zeno-tarsus-stoic-succession-kve-aa)
 
 ## Text
 

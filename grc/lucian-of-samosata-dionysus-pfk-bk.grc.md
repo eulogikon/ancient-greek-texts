@@ -4,7 +4,7 @@ title_greek: Προλαλιά. Διόνυσος
 author: Lucian of Samosata
 eul_wid: pfk-bk
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/dionysus"
+canonical: "https://eulogikon.org/works/lucian-samosata-dionysus-pfk-bk"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-bk` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/dionysus)
+**eul_wid:** `pfk-bk` · [HTML page](https://eulogikon.org/works/lucian-samosata-dionysus-pfk-bk)
 
 ## Text
 

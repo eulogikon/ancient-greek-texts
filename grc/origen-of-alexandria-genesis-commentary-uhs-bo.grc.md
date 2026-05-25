@@ -4,7 +4,7 @@ title_greek: Ὑπομνήματα εἰς Γένεσιν
 author: Origen of Alexandria
 eul_wid: uhs-bo
 eul_aid: uhs
-canonical: "https://eulogikon.org/grc/origen-of-alexandria/genesis-commentary"
+canonical: "https://eulogikon.org/works/origen-alexandria-genesis-commentary-uhs-bo"
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Origen of Alexandria
 
-**eul_wid:** `uhs-bo` · [HTML page](https://eulogikon.org/grc/origen-of-alexandria/genesis-commentary)
+**eul_wid:** `uhs-bo` · [HTML page](https://eulogikon.org/works/origen-alexandria-genesis-commentary-uhs-bo)
 
 ## Text
 

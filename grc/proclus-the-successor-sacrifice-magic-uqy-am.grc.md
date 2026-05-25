@@ -4,7 +4,7 @@ title_greek: Περὶ θυσίας καὶ μαγείας
 author: Proclus the Successor
 eul_wid: uqy-am
 eul_aid: uqy
-canonical: "https://eulogikon.org/grc/proclus-the-successor/sacrifice-magic"
+canonical: "https://eulogikon.org/works/proclus-sacrifice-magic-uqy-am"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Proclus the Successor
 
-**eul_wid:** `uqy-am` · [HTML page](https://eulogikon.org/grc/proclus-the-successor/sacrifice-magic)
+**eul_wid:** `uqy-am` · [HTML page](https://eulogikon.org/works/proclus-sacrifice-magic-uqy-am)
 
 ## Text
 

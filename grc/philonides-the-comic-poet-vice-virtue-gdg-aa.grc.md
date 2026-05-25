@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Κακίας καὶ Ἀρετῆ
 author: Philonides the Comic Poet
 eul_wid: gdg-aa
 eul_aid: gdg
-canonical: "https://eulogikon.org/grc/philonides-the-comic-poet/vice-virtue"
+canonical: "https://eulogikon.org/works/philonides-comic-vice-virtue-gdg-aa"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philonides the Comic Poet
 
-**eul_wid:** `gdg-aa` · [HTML page](https://eulogikon.org/grc/philonides-the-comic-poet/vice-virtue)
+**eul_wid:** `gdg-aa` · [HTML page](https://eulogikon.org/works/philonides-comic-vice-virtue-gdg-aa)
 
 ## Text
 

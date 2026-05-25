@@ -4,7 +4,7 @@ title_greek: Ὠκύπους
 author: "Pseudo-Lucian "
 eul_wid: qeu-ae
 eul_aid: qeu
-canonical: "https://eulogikon.org/grc/pseudo-lucian/swift-footed"
+canonical: "https://eulogikon.org/works/pseudo-lucian-swift-footed-qeu-ae"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pseudo-Lucian 
 
-**eul_wid:** `qeu-ae` · [HTML page](https://eulogikon.org/grc/pseudo-lucian/swift-footed)
+**eul_wid:** `qeu-ae` · [HTML page](https://eulogikon.org/works/pseudo-lucian-swift-footed-qeu-ae)
 
 ## Text
 

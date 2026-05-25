@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα ἐκ Ἀδήλων Λόγων
 author: Himerius the Sophist
 eul_wid: siy-aa
 eul_aid: siy
-canonical: "https://eulogikon.org/grc/himerius/uncertain-orations"
+canonical: "https://eulogikon.org/works/himerius-uncertain-orations-siy-aa"
 period: Late Antique
 dialect: Atticizing Literary
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Himerius the Sophist
 
-**eul_wid:** `siy-aa` · [HTML page](https://eulogikon.org/grc/himerius/uncertain-orations)
+**eul_wid:** `siy-aa` · [HTML page](https://eulogikon.org/works/himerius-uncertain-orations-siy-aa)
 
 ## Text
 

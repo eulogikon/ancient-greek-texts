@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Patrocles of Thurii
 eul_wid: gmc-aa
 eul_aid: gmc
-canonical: "https://eulogikon.org/grc/patrocles-of-thurii/vicissitudes-fate"
+canonical: "https://eulogikon.org/works/patrocles-thurii-vicissitudes-fate-gmc-aa"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Patrocles of Thurii
 
-**eul_wid:** `gmc-aa` · [HTML page](https://eulogikon.org/grc/patrocles-of-thurii/vicissitudes-fate)
+**eul_wid:** `gmc-aa` · [HTML page](https://eulogikon.org/works/patrocles-thurii-vicissitudes-fate-gmc-aa)
 
 ## Text
 

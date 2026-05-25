@@ -4,7 +4,7 @@ title_greek: περὶ ἀρχαιότητος Ἰουδαίων
 author: Josephus the Historian
 eul_wid: ofq-ab
 eul_aid: ofq
-canonical: "https://eulogikon.org/grc/josephus/antiquity-jews"
+canonical: "https://eulogikon.org/works/josephus-antiquity-jews-ofq-ab"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Josephus the Historian
 
-**eul_wid:** `ofq-ab` · [HTML page](https://eulogikon.org/grc/josephus/antiquity-jews)
+**eul_wid:** `ofq-ab` · [HTML page](https://eulogikon.org/works/josephus-antiquity-jews-ofq-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ οἰκονομίας τοῦ τῆς μαγνησίας 
 author: Zosimus of Panopolis
 eul_wid: tyc-bb
 eul_aid: tyc
-canonical: "https://eulogikon.org/grc/zosimus-of-panopolis/magnet-body"
+canonical: "https://eulogikon.org/works/zosimus-panopolis-magnet-body-tyc-bb"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Zosimus of Panopolis
 
-**eul_wid:** `tyc-bb` · [HTML page](https://eulogikon.org/grc/zosimus-of-panopolis/magnet-body)
+**eul_wid:** `tyc-bb` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-magnet-body-tyc-bb)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ θείων
 author: Zosimus of Panopolis
 eul_wid: tyc-cb
 eul_aid: tyc
-canonical: "https://eulogikon.org/grc/zosimus-of-panopolis/divine-matters"
+canonical: "https://eulogikon.org/works/zosimus-panopolis-divine-matters-tyc-cb"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Zosimus of Panopolis
 
-**eul_wid:** `tyc-cb` · [HTML page](https://eulogikon.org/grc/zosimus-of-panopolis/divine-matters)
+**eul_wid:** `tyc-cb` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-divine-matters-tyc-cb)
 
 ## Text
 

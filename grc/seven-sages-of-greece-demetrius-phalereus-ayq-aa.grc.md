@@ -4,7 +4,7 @@ title_greek: Γνῶμαι ἐκ τῆς Συλλογῆς Δημητρίου Φ
 author: Seven Sages of Greece
 eul_wid: ayq-aa
 eul_aid: ayq
-canonical: "https://eulogikon.org/grc/seven-sages-of-greece/demetrius-phalereus"
+canonical: "https://eulogikon.org/works/seven-sages-demetrius-phalereus-ayq-aa"
 period: Archaic
 dialect: Mixed Dialects
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Seven Sages of Greece
 
-**eul_wid:** `ayq-aa` · [HTML page](https://eulogikon.org/grc/seven-sages-of-greece/demetrius-phalereus)
+**eul_wid:** `ayq-aa` · [HTML page](https://eulogikon.org/works/seven-sages-demetrius-phalereus-ayq-aa)
 
 ## Text
 

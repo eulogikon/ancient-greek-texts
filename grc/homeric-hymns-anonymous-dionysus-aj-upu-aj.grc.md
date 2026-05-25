@@ -4,7 +4,7 @@ title_greek: Ὕμνος εἰς Διόνυσον
 author: Hymnic Collection  Anonymous
 eul_wid: upu-aj
 eul_aid: upu
-canonical: "https://eulogikon.org/grc/homeric-hymns-anonymous/dionysus-aj"
+canonical: "https://eulogikon.org/works/hymnic-anon-dionysus-upu-aj"
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hymnic Collection  Anonymous
 
-**eul_wid:** `upu-aj` · [HTML page](https://eulogikon.org/grc/homeric-hymns-anonymous/dionysus-aj)
+**eul_wid:** `upu-aj` · [HTML page](https://eulogikon.org/works/hymnic-anon-dionysus-upu-aj)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Θέσις εἰ γεωργητέον
 author: Themistius the Philosopher
 eul_wid: rye-be
 eul_aid: rye
-canonical: "https://eulogikon.org/grc/themistius/whether-to-farm"
+canonical: "https://eulogikon.org/works/themistius-whether-to-farm-rye-be"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Themistius the Philosopher
 
-**eul_wid:** `rye-be` · [HTML page](https://eulogikon.org/grc/themistius/whether-to-farm)
+**eul_wid:** `rye-be` · [HTML page](https://eulogikon.org/works/themistius-whether-to-farm-rye-be)
 
 ## Text
 

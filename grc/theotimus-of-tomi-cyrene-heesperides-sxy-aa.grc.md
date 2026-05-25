@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Theotimus of Tomi
 eul_wid: sxy-aa
 eul_aid: sxy
-canonical: "https://eulogikon.org/grc/theotimus-of-tomi/cyrene-heesperides"
+canonical: "https://eulogikon.org/works/theotimus-tomi-cyrene-heesperides-sxy-aa"
 period: Late Antique
 dialect: Christian Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theotimus of Tomi
 
-**eul_wid:** `sxy-aa` · [HTML page](https://eulogikon.org/grc/theotimus-of-tomi/cyrene-heesperides)
+**eul_wid:** `sxy-aa` · [HTML page](https://eulogikon.org/works/theotimus-tomi-cyrene-heesperides-sxy-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Πανηγητικός
 author: Isocrates of Athens
 eul_wid: ffu-ax
 eul_aid: ffu
-canonical: "https://eulogikon.org/grc/isocrates-of-athens/panegyric-ax"
+canonical: "https://eulogikon.org/works/isocrates-athens-panegyric-ffu-ax"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Isocrates of Athens
 
-**eul_wid:** `ffu-ax` · [HTML page](https://eulogikon.org/grc/isocrates-of-athens/panegyric-ax)
+**eul_wid:** `ffu-ax` · [HTML page](https://eulogikon.org/works/isocrates-athens-panegyric-ffu-ax)
 
 ## Text
 

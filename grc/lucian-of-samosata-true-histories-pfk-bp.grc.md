@@ -4,7 +4,7 @@ title_greek: Ἀληθεῖς Ἱστορίαι
 author: Lucian of Samosata
 eul_wid: pfk-bp
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/true-histories"
+canonical: "https://eulogikon.org/works/lucian-samosata-true-histories-pfk-bp"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-bp` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/true-histories)
+**eul_wid:** `pfk-bp` · [HTML page](https://eulogikon.org/works/lucian-samosata-true-histories-pfk-bp)
 
 ## Text
 

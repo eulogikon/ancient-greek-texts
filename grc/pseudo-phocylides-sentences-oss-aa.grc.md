@@ -4,7 +4,7 @@ title_greek: Γνῶμαι
 author: "Pseudo-Phocylides "
 eul_wid: oss-aa
 eul_aid: oss
-canonical: "https://eulogikon.org/grc/pseudo-phocylides/sentences"
+canonical: "https://eulogikon.org/works/pseudo-phocylides-sentences-oss-aa"
 period: Roman
 dialect: Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pseudo-Phocylides 
 
-**eul_wid:** `oss-aa` · [HTML page](https://eulogikon.org/grc/pseudo-phocylides/sentences)
+**eul_wid:** `oss-aa` · [HTML page](https://eulogikon.org/works/pseudo-phocylides-sentences-oss-aa)
 
 ## Text
 

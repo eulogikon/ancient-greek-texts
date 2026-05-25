@@ -4,7 +4,7 @@ title_greek: Ἡρωϊκὰ Ἀποσπάσματα
 author: Panyassis of Halicarnassus
 eul_wid: bok-aa
 eul_aid: bok
-canonical: "https://eulogikon.org/grc/panyassis-of-halicarnassus/epic-fragments-aa"
+canonical: "https://eulogikon.org/works/panyassis-halicarnassus-epic-fragments-bok-aa"
 period: Archaic
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Panyassis of Halicarnassus
 
-**eul_wid:** `bok-aa` · [HTML page](https://eulogikon.org/grc/panyassis-of-halicarnassus/epic-fragments-aa)
+**eul_wid:** `bok-aa` · [HTML page](https://eulogikon.org/works/panyassis-halicarnassus-epic-fragments-bok-aa)
 
 ## Text
 
@@ -252,7 +252,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 31dub
 
-πῷ[ς] δ’ ἐπορ[εύθ]η̣ς ῥεῦμ’ Ἀχ[ελω]ίου ἀργυ[ρο]δίνα Ὠκεανοῦ ποταμο[ῖο δι’] εὐρέος ὑγ[ρ]ὰ κέλευθα;
+πῷ[ς] δ’ ἐπορ[εύθ]ης ῥεῦμ’ Ἀχ[ελω]ίου ἀργυ[ρο]δίνα Ὠκεανοῦ ποταμο[ῖο δι’] εὐρέος ὑγ[ρ]ὰ κέλευθα;
 
 ### book 33dub.1
 

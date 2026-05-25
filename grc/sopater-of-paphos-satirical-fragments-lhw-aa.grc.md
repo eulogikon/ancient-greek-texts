@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Sopater of Paphos
 eul_wid: lhw-aa
 eul_aid: lhw
-canonical: "https://eulogikon.org/grc/sopater-of-paphos/satirical-fragments"
+canonical: "https://eulogikon.org/works/sopater-paphos-satirical-fragments-lhw-aa"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sopater of Paphos
 
-**eul_wid:** `lhw-aa` · [HTML page](https://eulogikon.org/grc/sopater-of-paphos/satirical-fragments)
+**eul_wid:** `lhw-aa` · [HTML page](https://eulogikon.org/works/sopater-paphos-satirical-fragments-lhw-aa)
 
 ## Text
 

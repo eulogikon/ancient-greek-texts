@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Κωμῳδίας
 author: Philemon Syracusius
 eul_wid: lpe-ac
 eul_aid: lpe
-canonical: "https://eulogikon.org/grc/philemon-syracusius/comedy-fragments"
+canonical: "https://eulogikon.org/works/philemon-syracusius-comedy-fragments-lpe-ac"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philemon Syracusius
 
-**eul_wid:** `lpe-ac` · [HTML page](https://eulogikon.org/grc/philemon-syracusius/comedy-fragments)
+**eul_wid:** `lpe-ac` · [HTML page](https://eulogikon.org/works/philemon-syracusius-comedy-fragments-lpe-ac)
 
 ## Text
 
@@ -64,7 +64,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1.11
 
-φεύγων ἐξέπεcον ἄλλῃ λ̣ά̣[θρ]ᾳ.
+φεύγων ἐξέπεcον ἄλλῃ λά[θρ]ᾳ.
 
 ### book 2
 
@@ -72,7 +72,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 3
 
-Εὐρι[πί]δηc πού [φη]cιν οὕτ〈ω〉c, [ὅc] μόνοc δύ[να]ται λ̣[έ]γ̣ε[ιν ...
+Εὐρι[πί]δηc πού [φη]cιν οὕτ〈ω〉c, [ὅc] μόνοc δύ[να]ται λ[έ]γε[ιν ...
 
 ## License and provenance
 

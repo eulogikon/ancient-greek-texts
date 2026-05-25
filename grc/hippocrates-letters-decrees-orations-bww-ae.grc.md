@@ -4,7 +4,7 @@ title_greek: "Ἐπιστολαί, Ψήφισμα, Λόγοι"
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-ae
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/letters-decrees-orations"
+canonical: "https://eulogikon.org/works/hippocrates-letters-decrees-orations-bww-ae"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-ae` · [HTML page](https://eulogikon.org/grc/hippocrates/letters-decrees-orations)
+**eul_wid:** `bww-ae` · [HTML page](https://eulogikon.org/works/hippocrates-letters-decrees-orations-bww-ae)
 
 ## Text
 

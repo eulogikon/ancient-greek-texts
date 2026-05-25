@@ -4,7 +4,7 @@ title_greek: Ἐπιστολὴ πρὸς Εὐλόγιον
 author: Hesychius the Alexandrian
 eul_wid: taq-aa
 eul_aid: taq
-canonical: "https://eulogikon.org/grc/hesychius-of-alexandria/letter-eulogius"
+canonical: "https://eulogikon.org/works/hesychius-alexandria-letter-eulogius-taq-aa"
 period: Late Antique
 dialect: Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hesychius the Alexandrian
 
-**eul_wid:** `taq-aa` · [HTML page](https://eulogikon.org/grc/hesychius-of-alexandria/letter-eulogius)
+**eul_wid:** `taq-aa` · [HTML page](https://eulogikon.org/works/hesychius-alexandria-letter-eulogius-taq-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Molpis of Elea
 eul_wid: aic-aa
 eul_aid: aic
-canonical: "https://eulogikon.org/grc/molpis-of-elea/sparta-cuisine"
+canonical: "https://eulogikon.org/works/molpis-elea-sparta-cuisine-aic-aa"
 period: Archaic
 dialect: Ionic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Molpis of Elea
 
-**eul_wid:** `aic-aa` · [HTML page](https://eulogikon.org/grc/molpis-of-elea/sparta-cuisine)
+**eul_wid:** `aic-aa` · [HTML page](https://eulogikon.org/works/molpis-elea-sparta-cuisine-aic-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Κωμικῶν Διαλόγων
 author: Polyzelus the Comic Poet
 eul_wid: eew-aa
 eul_aid: eew
-canonical: "https://eulogikon.org/grc/polyzelus-the-comic-poet/comic-dialogues"
+canonical: "https://eulogikon.org/works/polyzelus-comic-dialogues-eew-aa"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Polyzelus the Comic Poet
 
-**eul_wid:** `eew-aa` · [HTML page](https://eulogikon.org/grc/polyzelus-the-comic-poet/comic-dialogues)
+**eul_wid:** `eew-aa` · [HTML page](https://eulogikon.org/works/polyzelus-comic-dialogues-eew-aa)
 
 ## Text
 

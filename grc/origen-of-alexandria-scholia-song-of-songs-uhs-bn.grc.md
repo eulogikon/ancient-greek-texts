@@ -4,7 +4,7 @@ title_greek: Σχόλια εἰς Ἄσμα Ἀσμάτων
 author: Origen of Alexandria
 eul_wid: uhs-bn
 eul_aid: uhs
-canonical: "https://eulogikon.org/grc/origen-of-alexandria/scholia-song-of-songs"
+canonical: "https://eulogikon.org/works/origen-alexandria-scholia-song-of-songs-uhs-bn"
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Origen of Alexandria
 
-**eul_wid:** `uhs-bn` · [HTML page](https://eulogikon.org/grc/origen-of-alexandria/scholia-song-of-songs)
+**eul_wid:** `uhs-bn` · [HTML page](https://eulogikon.org/works/origen-alexandria-scholia-song-of-songs-uhs-bn)
 
 ## Text
 

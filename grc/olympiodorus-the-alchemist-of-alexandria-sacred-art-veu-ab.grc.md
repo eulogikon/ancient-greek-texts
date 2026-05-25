@@ -4,7 +4,7 @@ title_greek: Περὶ Ἱερᾶς Τέχνης
 author: Olympiodorus the Alchemist of Alexandria
 eul_wid: veu-ab
 eul_aid: veu
-canonical: "https://eulogikon.org/grc/olympiodorus-the-alchemist-of-alexandria/sacred-art"
+canonical: "https://eulogikon.org/works/olympiodorus-alexandria-sacred-art-veu-ab"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Olympiodorus the Alchemist of Alexandria
 
-**eul_wid:** `veu-ab` · [HTML page](https://eulogikon.org/grc/olympiodorus-the-alchemist-of-alexandria/sacred-art)
+**eul_wid:** `veu-ab` · [HTML page](https://eulogikon.org/works/olympiodorus-alexandria-sacred-art-veu-ab)
 
 ## Text
 

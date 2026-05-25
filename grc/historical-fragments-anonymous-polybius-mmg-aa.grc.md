@@ -4,7 +4,7 @@ title_greek: Ἀνώνυμος ἐκ τῶν Ἱστοριῶν Πολυβίου
 author: Historical Fragments  Anonymous
 eul_wid: mmg-aa
 eul_aid: mmg
-canonical: "https://eulogikon.org/grc/historical-fragments-anonymous/polybius"
+canonical: "https://eulogikon.org/works/anon-hist-frag-polybius-mmg-aa"
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Historical Fragments  Anonymous
 
-**eul_wid:** `mmg-aa` · [HTML page](https://eulogikon.org/grc/historical-fragments-anonymous/polybius)
+**eul_wid:** `mmg-aa` · [HTML page](https://eulogikon.org/works/anon-hist-frag-polybius-mmg-aa)
 
 ## Text
 

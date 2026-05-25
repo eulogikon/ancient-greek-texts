@@ -4,7 +4,7 @@ title_greek: Περὶ μεταμορφώσεων
 author: Paradoxographer Anonymous
 eul_wid: jre-ad
 eul_aid: jre
-canonical: "https://eulogikon.org/grc/paradoxographer-anon/transformations"
+canonical: "https://eulogikon.org/works/paradoxographer-anon-transformations-jre-ad"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Paradoxographer Anonymous
 
-**eul_wid:** `jre-ad` · [HTML page](https://eulogikon.org/grc/paradoxographer-anon/transformations)
+**eul_wid:** `jre-ad` · [HTML page](https://eulogikon.org/works/paradoxographer-anon-transformations-jre-ad)
 
 ## Text
 

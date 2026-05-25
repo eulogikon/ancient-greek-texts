@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἱερᾶς Διδασκαλία
 author: Pythagoras of Samos
 eul_wid: bgs-ae
 eul_aid: bgs
-canonical: "https://eulogikon.org/grc/pythagoras-of-samos/sacred-doctrine"
+canonical: "https://eulogikon.org/works/pythagoras-samos-sacred-doctrine-bgs-ae"
 period: Archaic
 dialect: Ionic (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pythagoras of Samos
 
-**eul_wid:** `bgs-ae` · [HTML page](https://eulogikon.org/grc/pythagoras-of-samos/sacred-doctrine)
+**eul_wid:** `bgs-ae` · [HTML page](https://eulogikon.org/works/pythagoras-samos-sacred-doctrine-bgs-ae)
 
 ## Text
 

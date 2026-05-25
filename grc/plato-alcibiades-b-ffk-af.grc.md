@@ -4,7 +4,7 @@ title_greek: Ἀλκιβιάδης βʹ
 author: Plato of Athens
 eul_wid: ffk-af
 eul_aid: ffk
-canonical: "https://eulogikon.org/grc/plato/alcibiades-b"
+canonical: "https://eulogikon.org/works/plato-alcibiades-b-ffk-af"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plato of Athens
 
-**eul_wid:** `ffk-af` · [HTML page](https://eulogikon.org/grc/plato/alcibiades-b)
+**eul_wid:** `ffk-af` · [HTML page](https://eulogikon.org/works/plato-alcibiades-b-ffk-af)
 
 ## Text
 

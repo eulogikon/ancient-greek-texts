@@ -4,7 +4,7 @@ title_greek: Ἐξήγησις εἰς τὰ Ἁλιευτικά τοῦ Ὀππ
 author: Oppian Commentary Anonymous
 eul_wid: tom-aa
 eul_aid: tom
-canonical: "https://eulogikon.org/grc/oppian-commentary-anonymous/exegesis-halieutica"
+canonical: "https://eulogikon.org/works/oppian-comm-anon-exegesis-halieutica-tom-aa"
 period: Late Antique
 dialect: Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Oppian Commentary Anonymous
 
-**eul_wid:** `tom-aa` · [HTML page](https://eulogikon.org/grc/oppian-commentary-anonymous/exegesis-halieutica)
+**eul_wid:** `tom-aa` · [HTML page](https://eulogikon.org/works/oppian-comm-anon-exegesis-halieutica-tom-aa)
 
 ## Text
 

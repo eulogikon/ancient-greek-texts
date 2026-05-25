@@ -4,7 +4,7 @@ title_greek: Τέχνη ῥητορική
 author: Seguerianus Anonymous
 eul_wid: ore-aa
 eul_aid: ore
-canonical: "https://eulogikon.org/grc/seguerianus-anon/rhetoric"
+canonical: "https://eulogikon.org/works/seguerianus-anon-rhetoric-ore-aa"
 period: Roman
 dialect: Technical Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Seguerianus Anonymous
 
-**eul_wid:** `ore-aa` · [HTML page](https://eulogikon.org/grc/seguerianus-anon/rhetoric)
+**eul_wid:** `ore-aa` · [HTML page](https://eulogikon.org/works/seguerianus-anon-rhetoric-ore-aa)
 
 ## Text
 

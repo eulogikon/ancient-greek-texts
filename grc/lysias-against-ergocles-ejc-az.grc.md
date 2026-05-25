@@ -4,7 +4,7 @@ title_greek: κατὰ Ἐργοκλέους ἐπίλογος
 author: Lysias the Orator
 eul_wid: ejc-az
 eul_aid: ejc
-canonical: "https://eulogikon.org/grc/lysias/against-ergocles"
+canonical: "https://eulogikon.org/works/lysias-against-ergocles-ejc-az"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lysias the Orator
 
-**eul_wid:** `ejc-az` · [HTML page](https://eulogikon.org/grc/lysias/against-ergocles)
+**eul_wid:** `ejc-az` · [HTML page](https://eulogikon.org/works/lysias-against-ergocles-ejc-az)
 
 ## Text
 

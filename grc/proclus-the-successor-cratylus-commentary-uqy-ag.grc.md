@@ -4,7 +4,7 @@ title_greek: Σχόλια εἰς τὸν Πλάτωνος Κρατύλον
 author: Proclus the Successor
 eul_wid: uqy-ag
 eul_aid: uqy
-canonical: "https://eulogikon.org/grc/proclus-the-successor/cratylus-commentary"
+canonical: "https://eulogikon.org/works/proclus-cratylus-commentary-uqy-ag"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Proclus the Successor
 
-**eul_wid:** `uqy-ag` · [HTML page](https://eulogikon.org/grc/proclus-the-successor/cratylus-commentary)
+**eul_wid:** `uqy-ag` · [HTML page](https://eulogikon.org/works/proclus-cratylus-commentary-uqy-ag)
 
 ## Text
 

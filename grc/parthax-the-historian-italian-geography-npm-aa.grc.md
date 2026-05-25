@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τῆς Ἰταλικῆς Γεω
 author: Parthax the Historian
 eul_wid: npm-aa
 eul_aid: npm
-canonical: "https://eulogikon.org/grc/parthax-the-historian/italian-geography"
+canonical: "https://eulogikon.org/works/parthax-italian-geography-npm-aa"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Parthax the Historian
 
-**eul_wid:** `npm-aa` · [HTML page](https://eulogikon.org/grc/parthax-the-historian/italian-geography)
+**eul_wid:** `npm-aa` · [HTML page](https://eulogikon.org/works/parthax-italian-geography-npm-aa)
 
 ## Text
 

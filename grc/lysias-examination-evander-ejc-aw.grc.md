@@ -4,7 +4,7 @@ title_greek: περὶ τῆς Εὐάνδρου δοκιμασίας
 author: Lysias the Orator
 eul_wid: ejc-aw
 eul_aid: ejc
-canonical: "https://eulogikon.org/grc/lysias/examination-evander"
+canonical: "https://eulogikon.org/works/lysias-examination-evander-ejc-aw"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lysias the Orator
 
-**eul_wid:** `ejc-aw` · [HTML page](https://eulogikon.org/grc/lysias/examination-evander)
+**eul_wid:** `ejc-aw` · [HTML page](https://eulogikon.org/works/lysias-examination-evander-ejc-aw)
 
 ## Text
 

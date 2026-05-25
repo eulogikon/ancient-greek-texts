@@ -4,7 +4,7 @@ title_greek: Ὕμνος εἰς Ἑστίαν
 author: Hymnic Collection  Anonymous
 eul_wid: upu-at
 eul_aid: upu
-canonical: "https://eulogikon.org/grc/homeric-hymns-anonymous/hestia-at"
+canonical: "https://eulogikon.org/works/hymnic-anon-hestia-upu-at"
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hymnic Collection  Anonymous
 
-**eul_wid:** `upu-at` · [HTML page](https://eulogikon.org/grc/homeric-hymns-anonymous/hestia-at)
+**eul_wid:** `upu-at` · [HTML page](https://eulogikon.org/works/hymnic-anon-hestia-upu-at)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: προς ευθύνουν
 author: Isocrates of Athens
 eul_wid: ffu-aq
 eul_aid: ffu
-canonical: "https://eulogikon.org/grc/isocrates-of-athens/euthynus"
+canonical: "https://eulogikon.org/works/isocrates-athens-euthynus-ffu-aq"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Isocrates of Athens
 
-**eul_wid:** `ffu-aq` · [HTML page](https://eulogikon.org/grc/isocrates-of-athens/euthynus)
+**eul_wid:** `ffu-aq` · [HTML page](https://eulogikon.org/works/isocrates-athens-euthynus-ffu-aq)
 
 ## Text
 
@@ -56,7 +56,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### In Euth 9
 
-Ὥστ’ οὐκ ἔστιν ἐφ’ ὅντινα ἂν ἧττον ἢ ἐπὶ τοῦτον ἦλθεν· ἐπεὶ ἔμοιγε δοκεῖ, εἰδότι τὴν τούτων οἰκειότητα, οὐδ’ ἂν Εὐθύνους Νικίαν ἀδικῆσαι, εἰ ἐξῆν ἄλλον τινὰ τοσαῦτα χρήματα ἀποστερῆσαι· Νῦν δ’ † ἀρχαιότερον ἦν αὐτοῖς τὸ πρᾶγμα· ἐγκαλεῖν μὲν γὰρ ἔξεστιν ἐξ ἁπάντων, ἐκλεξάμενον, ἀποστερεῖν δ’ οὐχ οἷόν τ’ ἄλλον ἢ τὸν παρακαταθέμενον.
+Ὥστ’ οὐκ ἔστιν ἐφ’ ὅντινα ἂν ἧττον ἢ ἐπὶ τοῦτον ἦλθεν· ἐπεὶ ἔμοιγε δοκεῖ, εἰδότι τὴν τούτων οἰκειότητα, οὐδ’ ἂν Εὐθύνους Νικίαν ἀδικῆσαι, εἰ ἐξῆν ἄλλον τινὰ τοσαῦτα χρήματα ἀποστερῆσαι· Νῦν δ’ ἀρχαιότερον ἦν αὐτοῖς τὸ πρᾶγμα· ἐγκαλεῖν μὲν γὰρ ἔξεστιν ἐξ ἁπάντων, ἐκλεξάμενον, ἀποστερεῖν δ’ οὐχ οἷόν τ’ ἄλλον ἢ τὸν παρακαταθέμενον.
 
 ### In Euth 10
 

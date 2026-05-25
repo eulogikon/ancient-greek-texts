@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Menecrates of Tralles
 eul_wid: mxa-aa
 eul_aid: mxa
-canonical: "https://eulogikon.org/grc/menecrates-of-tralles/foundation-nicaea"
+canonical: "https://eulogikon.org/works/menecrates-tralles-foundation-nicaea-mxa-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menecrates of Tralles
 
-**eul_wid:** `mxa-aa` · [HTML page](https://eulogikon.org/grc/menecrates-of-tralles/foundation-nicaea)
+**eul_wid:** `mxa-aa` · [HTML page](https://eulogikon.org/works/menecrates-tralles-foundation-nicaea-mxa-aa)
 
 ## Text
 

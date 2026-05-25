@@ -4,7 +4,7 @@ title_greek: Ἀλέξανδρος ἢ Ψευδόμαντις
 author: Lucian of Samosata
 eul_wid: pfk-ag
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/false-prophet"
+canonical: "https://eulogikon.org/works/lucian-samosata-false-prophet-pfk-ag"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-ag` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/false-prophet)
+**eul_wid:** `pfk-ag` · [HTML page](https://eulogikon.org/works/lucian-samosata-false-prophet-pfk-ag)
 
 ## Text
 

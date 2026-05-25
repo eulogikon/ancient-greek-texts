@@ -4,7 +4,7 @@ title_greek: Οἰδίπους Τύραννος
 author: Sophocles
 eul_wid: buo-ad
 eul_aid: buo
-canonical: "https://eulogikon.org/grc/sophocles/oedipus-king"
+canonical: "https://eulogikon.org/works/sophocles-oedipus-king-buo-ad"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sophocles
 
-**eul_wid:** `buo-ad` · [HTML page](https://eulogikon.org/grc/sophocles/oedipus-king)
+**eul_wid:** `buo-ad` · [HTML page](https://eulogikon.org/works/sophocles-oedipus-king-buo-ad)
 
 ## Text
 
@@ -888,7 +888,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 210.5
 
-ἀγλαῶπι – ⏑ –
+ἀγλαῶπι – –
 
 ### 215
 
@@ -2016,7 +2016,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 490.4
 
-ἔμαθον πρὸς ὅτου δὴ βασάνῳ – ⏑ ⏑ –
+ἔμαθον πρὸς ὅτου δὴ βασάνῳ – –
 
 ### 490.5
 

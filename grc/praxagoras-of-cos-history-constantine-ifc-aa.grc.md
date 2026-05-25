@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Praxagoras of Cos
 eul_wid: ifc-aa
 eul_aid: ifc
-canonical: "https://eulogikon.org/grc/praxagoras-of-cos/history-constantine"
+canonical: "https://eulogikon.org/works/praxagoras-cos-history-constantine-ifc-aa"
 period: Hellenistic
 dialect: Ionic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Praxagoras of Cos
 
-**eul_wid:** `ifc-aa` · [HTML page](https://eulogikon.org/grc/praxagoras-of-cos/history-constantine)
+**eul_wid:** `ifc-aa` · [HTML page](https://eulogikon.org/works/praxagoras-cos-history-constantine-ifc-aa)
 
 ## Text
 

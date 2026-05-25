@@ -4,7 +4,7 @@ title_greek: Μαρτυρία
 author: Polybius of Megalopolis
 eul_wid: ldg-ac
 eul_aid: ldg
-canonical: "https://eulogikon.org/grc/polybius-of-megalopolis/testimony"
+canonical: "https://eulogikon.org/works/polybius-megalopolis-testimony-ldg-ac"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Polybius of Megalopolis
 
-**eul_wid:** `ldg-ac` · [HTML page](https://eulogikon.org/grc/polybius-of-megalopolis/testimony)
+**eul_wid:** `ldg-ac` · [HTML page](https://eulogikon.org/works/polybius-megalopolis-testimony-ldg-ac)
 
 ## Text
 

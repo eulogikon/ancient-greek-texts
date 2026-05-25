@@ -4,7 +4,7 @@ title_greek: Περὶ ἀνατομῆς
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-bo
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/anatomy"
+canonical: "https://eulogikon.org/works/hippocrates-anatomy-bww-bo"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-bo` · [HTML page](https://eulogikon.org/grc/hippocrates/anatomy)
+**eul_wid:** `bww-bo` · [HTML page](https://eulogikon.org/works/hippocrates-anatomy-bww-bo)
 
 ## Text
 

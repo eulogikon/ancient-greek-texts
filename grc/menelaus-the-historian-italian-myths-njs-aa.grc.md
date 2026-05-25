@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἰταλικῶν Μύθων
 author: Menelaus the Historian
 eul_wid: njs-aa
 eul_aid: njs
-canonical: "https://eulogikon.org/grc/menelaus-the-historian/italian-myths"
+canonical: "https://eulogikon.org/works/menelaus-italian-myths-njs-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menelaus the Historian
 
-**eul_wid:** `njs-aa` · [HTML page](https://eulogikon.org/grc/menelaus-the-historian/italian-myths)
+**eul_wid:** `njs-aa` · [HTML page](https://eulogikon.org/works/menelaus-italian-myths-njs-aa)
 
 ## Text
 

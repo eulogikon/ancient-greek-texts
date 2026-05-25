@@ -4,7 +4,7 @@ title_greek: Κατὰ Μανιχαίων
 author: John of Caesarea in Palestine
 eul_wid: uxw-ae
 eul_aid: uxw
-canonical: "https://eulogikon.org/grc/john-of-caesarea-in-palestine/against-manichaeans-2"
+canonical: "https://eulogikon.org/works/john-caesarea-palestine-against-manichaeans-2-uxw-ae"
 period: Late Antique
 dialect: Christian Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** John of Caesarea in Palestine
 
-**eul_wid:** `uxw-ae` · [HTML page](https://eulogikon.org/grc/john-of-caesarea-in-palestine/against-manichaeans-2)
+**eul_wid:** `uxw-ae` · [HTML page](https://eulogikon.org/works/john-caesarea-palestine-against-manichaeans-2-uxw-ae)
 
 ## Text
 

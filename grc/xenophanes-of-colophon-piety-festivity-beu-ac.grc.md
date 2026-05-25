@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Xenophanes of Colophon
 eul_wid: beu-ac
 eul_aid: beu
-canonical: "https://eulogikon.org/grc/xenophanes-of-colophon/piety-festivity"
+canonical: "https://eulogikon.org/works/xenophanes-colophon-piety-festivity-beu-ac"
 period: Archaic
 dialect: Ionic (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Xenophanes of Colophon
 
-**eul_wid:** `beu-ac` · [HTML page](https://eulogikon.org/grc/xenophanes-of-colophon/piety-festivity)
+**eul_wid:** `beu-ac` · [HTML page](https://eulogikon.org/works/xenophanes-colophon-piety-festivity-beu-ac)
 
 ## Text
 
@@ -32,7 +32,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 3
 
-ἁβροσύνας δὲ μαθόντες ἀνωφελέας παρὰ Λυδῶν, ὄφρα τυραννίης ἦσαν ἄνευ στυγερῆς, ἤιεσαν εἰς ἀγορὴν παναλουργέα φάρε’ ἔχοντες, οὐ μείους ὥσπερ χείλιοι ὡς ἐπίπαν, αὐχαλέοι, χαίτηισιν †ἀγαλλομεν εὐπρεπέεσσιν, ἀσκητοῖς ὀδμὴν χρίμασι δευόμενοι.
+ἁβροσύνας δὲ μαθόντες ἀνωφελέας παρὰ Λυδῶν, ὄφρα τυραννίης ἦσαν ἄνευ στυγερῆς, ἤιεσαν εἰς ἀγορὴν παναλουργέα φάρε’ ἔχοντες, οὐ μείους ὥσπερ χείλιοι ὡς ἐπίπαν, αὐχαλέοι, χαίτηισιν ἀγαλλομεν εὐπρεπέεσσιν, ἀσκητοῖς ὀδμὴν χρίμασι δευόμενοι.
 
 ### 5
 

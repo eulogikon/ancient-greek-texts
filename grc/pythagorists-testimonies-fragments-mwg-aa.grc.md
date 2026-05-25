@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι καὶ Ἀποσπάσματα
 author: "Pythagorist Philosophers "
 eul_wid: mwg-aa
 eul_aid: mwg
-canonical: "https://eulogikon.org/grc/pythagorists/testimonies-fragments"
+canonical: "https://eulogikon.org/works/pythagorists-testimonies-fragments-mwg-aa"
 period: Hellenistic
 dialect: Doric
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pythagorist Philosophers 
 
-**eul_wid:** `mwg-aa` · [HTML page](https://eulogikon.org/grc/pythagorists/testimonies-fragments)
+**eul_wid:** `mwg-aa` · [HTML page](https://eulogikon.org/works/pythagorists-testimonies-fragments-mwg-aa)
 
 ## Text
 
@@ -112,7 +112,7 @@ EUDEM. fr. 83 (Porph. z. Ptol. Harm. I 7 p. 115, 4 Dür.) ἐν τῶι πρώτ
 
 ### b19
 
-PROCL. in Eucl. I 47 p. 426, 6 Fr. (ἐν τοῖς ὀρθογωνίοις τριγώνοις τὸ ἀπὸ τῆς τὴν ὀρθὴν γωνίαν ὑποτεινούσης πλευρᾶς τετράγωνον ἴσον ἐστὶ τοῖς ἀπὸ τῶν τὴν ὀρθὴν γωνίαν περιεχουσῶν πλευρῶν τετραγώνοις) † τῶν μὲν ἱστορεῖν τὰ ἀρχαῖα βουλομένων ἀκούοντας τὸ θεώρημα τοῦτο εἰς Πυθαγόραν ἀναπεμπόντων ἔστιν εὑρεῖν καὶ βουθυτεῖν λεγόντων αὐτὸν ἐπὶ τῆι εὑρέσει.
+PROCL. in Eucl. I 47 p. 426, 6 Fr. (ἐν τοῖς ὀρθογωνίοις τριγώνοις τὸ ἀπὸ τῆς τὴν ὀρθὴν γωνίαν ὑποτεινούσης πλευρᾶς τετράγωνον ἴσον ἐστὶ τοῖς ἀπὸ τῶν τὴν ὀρθὴν γωνίαν περιεχουσῶν πλευρῶν τετραγώνοις) τῶν μὲν ἱστορεῖν τὰ ἀρχαῖα βουλομένων ἀκούοντας τὸ θεώρημα τοῦτο εἰς Πυθαγόραν ἀναπεμπόντων ἔστιν εὑρεῖν καὶ βουθυτεῖν λεγόντων αὐτὸν ἐπὶ τῆι εὑρέσει.
 
 ### b20
 

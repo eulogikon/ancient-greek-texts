@@ -4,7 +4,7 @@ title_greek: Περὶ γυναικῶν
 author: Paradoxographer Anonymous
 eul_wid: jre-ae
 eul_aid: jre
-canonical: "https://eulogikon.org/grc/paradoxographer-anon/women"
+canonical: "https://eulogikon.org/works/paradoxographer-anon-women-jre-ae"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Paradoxographer Anonymous
 
-**eul_wid:** `jre-ae` · [HTML page](https://eulogikon.org/grc/paradoxographer-anon/women)
+**eul_wid:** `jre-ae` · [HTML page](https://eulogikon.org/works/paradoxographer-anon-women-jre-ae)
 
 ## Text
 

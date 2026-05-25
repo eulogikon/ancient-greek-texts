@@ -4,7 +4,7 @@ title_greek: Προλεγόμενα
 author: Olympiodorus the Younger of Alexandria
 eul_wid: utq-ag
 eul_aid: utq
-canonical: "https://eulogikon.org/grc/olympiodorus-the-younger-of-alexandria/introduction"
+canonical: "https://eulogikon.org/works/olympiodorus-alexandria-introduction-utq-ag"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Olympiodorus the Younger of Alexandria
 
-**eul_wid:** `utq-ag` · [HTML page](https://eulogikon.org/grc/olympiodorus-the-younger-of-alexandria/introduction)
+**eul_wid:** `utq-ag` · [HTML page](https://eulogikon.org/works/olympiodorus-alexandria-introduction-utq-ag)
 
 ## Text
 

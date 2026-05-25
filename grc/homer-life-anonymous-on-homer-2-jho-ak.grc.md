@@ -4,7 +4,7 @@ title_greek: "Περὶ Ὁμήρου Β'"
 author: Homer Life-anonymous
 eul_wid: jho-ak
 eul_aid: jho
-canonical: "https://eulogikon.org/grc/homer-life-anonymous/on-homer-2"
+canonical: "https://eulogikon.org/works/homer-on-homer-2-jho-ak"
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Homer Life-anonymous
 
-**eul_wid:** `jho-ak` · [HTML page](https://eulogikon.org/grc/homer-life-anonymous/on-homer-2)
+**eul_wid:** `jho-ak` · [HTML page](https://eulogikon.org/works/homer-on-homer-2-jho-ak)
 
 ## Text
 

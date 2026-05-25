@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ὑπερβορέων
 author: Pherenicus of Heraclea
 eul_wid: gbi-aa
 eul_aid: gbi
-canonical: "https://eulogikon.org/grc/pherenicus-of-heraclea/hyperboreans"
+canonical: "https://eulogikon.org/works/pherenicus-heraclea-hyperboreans-gbi-aa"
 period: Classical
 dialect: Epic (Homeric) (frg)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pherenicus of Heraclea
 
-**eul_wid:** `gbi-aa` · [HTML page](https://eulogikon.org/grc/pherenicus-of-heraclea/hyperboreans)
+**eul_wid:** `gbi-aa` · [HTML page](https://eulogikon.org/works/pherenicus-heraclea-hyperboreans-gbi-aa)
 
 ## Text
 

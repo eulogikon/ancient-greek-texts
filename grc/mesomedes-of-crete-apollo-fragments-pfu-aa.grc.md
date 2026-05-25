@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἀπόλλωνος
 author: Mesomedes of Crete
 eul_wid: pfu-aa
 eul_aid: pfu
-canonical: "https://eulogikon.org/grc/mesomedes-of-crete/apollo-fragments"
+canonical: "https://eulogikon.org/works/mesomedes-crete-apollo-fragments-pfu-aa"
 period: Roman
 dialect: Literary Koine
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Mesomedes of Crete
 
-**eul_wid:** `pfu-aa` · [HTML page](https://eulogikon.org/grc/mesomedes-of-crete/apollo-fragments)
+**eul_wid:** `pfu-aa` · [HTML page](https://eulogikon.org/works/mesomedes-crete-apollo-fragments-pfu-aa)
 
 ## Text
 
@@ -224,7 +224,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 6.3
 
-παγά ἢ πῶς τὸ πανόλβιον ὕδωρ[ln_5]χθονὶ μὴ περικείμενον ἵσταται; οὐ γὰρ βλέπετ’ ἔνθεν †ἀπωροφά, οὐ βουκόλος, οὐ γένος ὀρνέων, οὐ μηκάσι σύρισε
+παγά ἢ πῶς τὸ πανόλβιον ὕδωρ[ln_5]χθονὶ μὴ περικείμενον ἵσταται; οὐ γὰρ βλέπετ’ ἔνθεν ἀπωροφά, οὐ βουκόλος, οὐ γένος ὀρνέων, οὐ μηκάσι σύρισε
 
 ### book 6.4
 
@@ -344,7 +344,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 9.7
 
-πανείκελον †α δων† ἅτε κηρὸν Ὑμήττιον ἐκ
+πανείκελον α δων ἅτε κηρὸν Ὑμήττιον ἐκ
 
 ### book 9.8
 
@@ -360,7 +360,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 9.11
 
-σου κατὰ χιονέων μελῶν λύσῃ μετὰ νύκτα, γύναι καλά,[ln_15]κάματον †τῶν ἐρωτικῶν ὀμμάτων.
+σου κατὰ χιονέων μελῶν λύσῃ μετὰ νύκτα, γύναι καλά,[ln_15]κάματον τῶν ἐρωτικῶν ὀμμάτων.
 
 ### book 10.1
 
@@ -404,7 +404,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 13.1
 
-Τὰν ὕελον †ἐκόμιζε κόψας† ἐργάτας ἀνήρ, ἐς δὲ πῦρ ἔθηκε βῶλον ὡς σίδηρον εὐσθενῆ.[ln_5]ἁ δ’ ὕελος οἷα κηρός ἐξεχεῖτο
+Τὰν ὕελον ἐκόμιζε κόψας ἐργάτας ἀνήρ, ἐς δὲ πῦρ ἔθηκε βῶλον ὡς σίδηρον εὐσθενῆ.[ln_5]ἁ δ’ ὕελος οἷα κηρός ἐξεχεῖτο
 
 ### book 13.2
 

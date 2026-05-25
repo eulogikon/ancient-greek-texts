@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἡρακλέους
 author: Phrynichus the Tragic Poet
 eul_wid: bjk-aa
 eul_aid: bjk
-canonical: "https://eulogikon.org/grc/phrynichus-the-tragic-poet/heracles-fragments"
+canonical: "https://eulogikon.org/works/phrynichus-heracles-fragments-bjk-aa"
 period: Archaic
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Phrynichus the Tragic Poet
 
-**eul_wid:** `bjk-aa` · [HTML page](https://eulogikon.org/grc/phrynichus-the-tragic-poet/heracles-fragments)
+**eul_wid:** `bjk-aa` · [HTML page](https://eulogikon.org/works/phrynichus-heracles-fragments-bjk-aa)
 
 ## Text
 
@@ -84,7 +84,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 6.1
 
-〈–––⏑⏑––⏑⏑––〉 κρυερὸν γὰρ οὐκ [para]ἄλυξεν μόρον, ὠκεῖα δέ νιν
+〈–––––––〉 κρυερὸν γὰρ οὐκ [para]ἄλυξεν μόρον, ὠκεῖα δέ νιν
 
 ### book 6.2
 
@@ -120,7 +120,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 10a?
 
-–⏑–]ωτητι̣ δεείλην π̣λείο[νες ×μυρ]ίων ἄνδρες ἐκτείνοντο [–×–⏑]ην ἐς δ〈ε〉ιέλην
+––]ωτητι δεείλην πλείο[νες μυρ]ίων ἄνδρες ἐκτείνοντο [––]ην ἐς δ〈ε〉ιέλην
 
 ### book 11
 

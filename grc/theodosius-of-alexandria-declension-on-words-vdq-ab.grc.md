@@ -4,7 +4,7 @@ title_greek: Περὶ κλίσεως τῶν εἰς ων βαρυτόνων
 author: "Theodosius of Alexandria "
 eul_wid: vdq-ab
 eul_aid: vdq
-canonical: "https://eulogikon.org/grc/theodosius-of-alexandria/declension-on-words"
+canonical: "https://eulogikon.org/works/theodosius-alexandria-declension-on-words-vdq-ab"
 period: Late Antique
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theodosius of Alexandria 
 
-**eul_wid:** `vdq-ab` · [HTML page](https://eulogikon.org/grc/theodosius-of-alexandria/declension-on-words)
+**eul_wid:** `vdq-ab` · [HTML page](https://eulogikon.org/works/theodosius-alexandria-declension-on-words-vdq-ab)
 
 ## Text
 

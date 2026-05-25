@@ -4,7 +4,7 @@ title_greek: Ὕμνος Βαλεντίνου
 author: Valentinus the Gnostic
 eul_wid: ply-aa
 eul_aid: ply
-canonical: "https://eulogikon.org/grc/valentinus-the-gnostic/hymn"
+canonical: "https://eulogikon.org/works/valentinus-hymn-ply-aa"
 period: Roman
 dialect: Christian Koine
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Valentinus the Gnostic
 
-**eul_wid:** `ply-aa` · [HTML page](https://eulogikon.org/grc/valentinus-the-gnostic/hymn)
+**eul_wid:** `ply-aa` · [HTML page](https://eulogikon.org/works/valentinus-hymn-ply-aa)
 
 ## Text
 

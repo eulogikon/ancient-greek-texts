@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τῶν Διαδόχων
 author: Hieronymus of Cardia
 eul_wid: hoo-aa
 eul_aid: hoo
-canonical: "https://eulogikon.org/grc/hieronymus-of-cardia/diadochoi"
+canonical: "https://eulogikon.org/works/hieronymus-cardia-diadochoi-hoo-aa"
 period: Hellenistic
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hieronymus of Cardia
 
-**eul_wid:** `hoo-aa` · [HTML page](https://eulogikon.org/grc/hieronymus-of-cardia/diadochoi)
+**eul_wid:** `hoo-aa` · [HTML page](https://eulogikon.org/works/hieronymus-cardia-diadochoi-hoo-aa)
 
 ## Text
 

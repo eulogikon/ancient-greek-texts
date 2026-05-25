@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Philostephanus of Cyrene
 eul_wid: hwq-aa
 eul_aid: hwq
-canonical: "https://eulogikon.org/grc/philostephanus-of-cyrene/cities-asia"
+canonical: "https://eulogikon.org/works/philostephanus-cyrene-cities-asia-hwq-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philostephanus of Cyrene
 
-**eul_wid:** `hwq-aa` · [HTML page](https://eulogikon.org/grc/philostephanus-of-cyrene/cities-asia)
+**eul_wid:** `hwq-aa` · [HTML page](https://eulogikon.org/works/philostephanus-cyrene-cities-asia-hwq-aa)
 
 ## Text
 

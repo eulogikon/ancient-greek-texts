@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Licymnius of Chios
 eul_wid: dzm-aa
 eul_aid: dzm
-canonical: "https://eulogikon.org/grc/licymnius-of-chios/hymn-hygieia-sleep"
+canonical: "https://eulogikon.org/works/licymnius-chios-hymn-hygieia-sleep-dzm-aa"
 period: Classical
 dialect: Doric (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Licymnius of Chios
 
-**eul_wid:** `dzm-aa` · [HTML page](https://eulogikon.org/grc/licymnius-of-chios/hymn-hygieia-sleep)
+**eul_wid:** `dzm-aa` · [HTML page](https://eulogikon.org/works/licymnius-chios-hymn-hygieia-sleep-dzm-aa)
 
 ## Text
 

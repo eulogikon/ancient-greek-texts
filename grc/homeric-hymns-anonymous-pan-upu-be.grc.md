@@ -4,7 +4,7 @@ title_greek: Ὕμνος εἰς Πᾶνα
 author: Hymnic Collection  Anonymous
 eul_wid: upu-be
 eul_aid: upu
-canonical: "https://eulogikon.org/grc/homeric-hymns-anonymous/pan"
+canonical: "https://eulogikon.org/works/hymnic-anon-pan-upu-be"
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hymnic Collection  Anonymous
 
-**eul_wid:** `upu-be` · [HTML page](https://eulogikon.org/grc/homeric-hymns-anonymous/pan)
+**eul_wid:** `upu-be` · [HTML page](https://eulogikon.org/works/hymnic-anon-pan-upu-be)
 
 ## Text
 

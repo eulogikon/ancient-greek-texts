@@ -4,7 +4,7 @@ title_greek: Περὶ χρησιμότητος μαθηματικῶν
 author: Theon of Smyrna I
 eul_wid: pic-aa
 eul_aid: pic
-canonical: "https://eulogikon.org/grc/theon-of-smyrna-i/mathematics-usefulness"
+canonical: "https://eulogikon.org/works/theon-smyrna-mathematics-usefulness-pic-aa"
 period: Roman
 dialect: Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theon of Smyrna I
 
-**eul_wid:** `pic-aa` · [HTML page](https://eulogikon.org/grc/theon-of-smyrna-i/mathematics-usefulness)
+**eul_wid:** `pic-aa` · [HTML page](https://eulogikon.org/works/theon-smyrna-mathematics-usefulness-pic-aa)
 
 ## Text
 

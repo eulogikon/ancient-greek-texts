@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Iccus of Tarentum
 eul_wid: bwm-aa
 eul_aid: bwm
-canonical: "https://eulogikon.org/grc/iccus-of-tarentum/testimonies"
+canonical: "https://eulogikon.org/works/iccus-tarentum-testimonies-bwm-aa"
 period: Classical
 dialect: Doric
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Iccus of Tarentum
 
-**eul_wid:** `bwm-aa` · [HTML page](https://eulogikon.org/grc/iccus-of-tarentum/testimonies)
+**eul_wid:** `bwm-aa` · [HTML page](https://eulogikon.org/works/iccus-tarentum-testimonies-bwm-aa)
 
 ## Text
 

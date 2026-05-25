@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τῆς Ἰνδικῆς
 author: Patrocles the Historian
 eul_wid: hto-aa
 eul_aid: hto
-canonical: "https://eulogikon.org/grc/patrocles-the-historian/geographical-india"
+canonical: "https://eulogikon.org/works/patrocles-geographical-india-hto-aa"
 period: Hellenistic
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Patrocles the Historian
 
-**eul_wid:** `hto-aa` · [HTML page](https://eulogikon.org/grc/patrocles-the-historian/geographical-india)
+**eul_wid:** `hto-aa` · [HTML page](https://eulogikon.org/works/patrocles-geographical-india-hto-aa)
 
 ## Text
 

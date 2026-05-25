@@ -4,7 +4,7 @@ title_greek: "Περὶ Μέθης Β'"
 author: Philo of Alexandria
 eul_wid: lgi-bc
 eul_aid: lgi
-canonical: "https://eulogikon.org/grc/philo-of-alexandria/drunkenness-2"
+canonical: "https://eulogikon.org/works/philo-alexandria-drunkenness-2-lgi-bc"
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philo of Alexandria
 
-**eul_wid:** `lgi-bc` · [HTML page](https://eulogikon.org/grc/philo-of-alexandria/drunkenness-2)
+**eul_wid:** `lgi-bc` · [HTML page](https://eulogikon.org/works/philo-alexandria-drunkenness-2-lgi-bc)
 
 ## Text
 

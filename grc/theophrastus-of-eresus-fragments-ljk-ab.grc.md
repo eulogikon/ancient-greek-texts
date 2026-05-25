@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα διάφορα
 author: Theophrastus of Eresus
 eul_wid: ljk-ab
 eul_aid: ljk
-canonical: "https://eulogikon.org/grc/theophrastus-of-eresus/fragments"
+canonical: "https://eulogikon.org/works/theophrastus-eresus-fragments-ljk-ab"
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theophrastus of Eresus
 
-**eul_wid:** `ljk-ab` · [HTML page](https://eulogikon.org/grc/theophrastus-of-eresus/fragments)
+**eul_wid:** `ljk-ab` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-fragments-ljk-ab)
 
 ## Text
 

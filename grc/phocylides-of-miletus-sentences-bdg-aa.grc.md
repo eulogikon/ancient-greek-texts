@@ -4,7 +4,7 @@ title_greek: Γνῶμαι
 author: Phocylides of Miletus
 eul_wid: bdg-aa
 eul_aid: bdg
-canonical: "https://eulogikon.org/grc/phocylides-of-miletus/sentences"
+canonical: "https://eulogikon.org/works/phocylides-miletus-sentences-bdg-aa"
 period: Archaic
 dialect: Ionic Elegiac
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Phocylides of Miletus
 
-**eul_wid:** `bdg-aa` · [HTML page](https://eulogikon.org/grc/phocylides-of-miletus/sentences)
+**eul_wid:** `bdg-aa` · [HTML page](https://eulogikon.org/works/phocylides-miletus-sentences-bdg-aa)
 
 ## Text
 

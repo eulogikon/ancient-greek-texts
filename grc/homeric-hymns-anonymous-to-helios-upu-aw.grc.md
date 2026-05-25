@@ -4,7 +4,7 @@ title_greek: Ὕμνος πρὸς Ἥλιον
 author: Hymnic Collection  Anonymous
 eul_wid: upu-aw
 eul_aid: upu
-canonical: "https://eulogikon.org/grc/homeric-hymns-anonymous/to-helios"
+canonical: "https://eulogikon.org/works/hymnic-anon-to-helios-upu-aw"
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hymnic Collection  Anonymous
 
-**eul_wid:** `upu-aw` · [HTML page](https://eulogikon.org/grc/homeric-hymns-anonymous/to-helios)
+**eul_wid:** `upu-aw` · [HTML page](https://eulogikon.org/works/hymnic-anon-to-helios-upu-aw)
 
 ## Text
 

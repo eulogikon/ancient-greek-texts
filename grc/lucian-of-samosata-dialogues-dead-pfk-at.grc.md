@@ -4,7 +4,7 @@ title_greek: Νεκρικοὶ Διάλογοι
 author: Lucian of Samosata
 eul_wid: pfk-at
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/dialogues-dead"
+canonical: "https://eulogikon.org/works/lucian-samosata-dialogues-dead-pfk-at"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-at` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/dialogues-dead)
+**eul_wid:** `pfk-at` · [HTML page](https://eulogikon.org/works/lucian-samosata-dialogues-dead-pfk-at)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ Κώνου Τομῆς
 author: Serenus of Antinoöpolis
 eul_wid: sam-ab
 eul_aid: sam
-canonical: "https://eulogikon.org/grc/serenus-of-antinoopolis/section-cone"
+canonical: "https://eulogikon.org/works/serenus-antinoopolis-section-cone-sam-ab"
 period: Late Antique
 dialect: Technical Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Serenus of Antinoöpolis
 
-**eul_wid:** `sam-ab` · [HTML page](https://eulogikon.org/grc/serenus-of-antinoopolis/section-cone)
+**eul_wid:** `sam-ab` · [HTML page](https://eulogikon.org/works/serenus-antinoopolis-section-cone-sam-ab)
 
 ## Text
 

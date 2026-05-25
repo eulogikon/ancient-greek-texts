@@ -4,7 +4,7 @@ title_greek: Περὶ μεθόδου τροφῆς
 author: Herophilus the Anatomist
 eul_wid: ifm-ab
 eul_aid: ifm
-canonical: "https://eulogikon.org/grc/herophilus-the-anatomist/method-nourishment"
+canonical: "https://eulogikon.org/works/herophilus-method-nourishment-ifm-ab"
 period: Hellenistic
 dialect: Koine (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Herophilus the Anatomist
 
-**eul_wid:** `ifm-ab` · [HTML page](https://eulogikon.org/grc/herophilus-the-anatomist/method-nourishment)
+**eul_wid:** `ifm-ab` · [HTML page](https://eulogikon.org/works/herophilus-method-nourishment-ifm-ab)
 
 ## Text
 

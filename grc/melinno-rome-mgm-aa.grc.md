@@ -4,7 +4,7 @@ title_greek: Εἰς Ῥώμην
 author: Melinno
 eul_wid: mgm-aa
 eul_aid: mgm
-canonical: "https://eulogikon.org/grc/melinno/rome"
+canonical: "https://eulogikon.org/works/melinno-rome-mgm-aa"
 period: Hellenistic
 dialect: Literary Koine
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Melinno
 
-**eul_wid:** `mgm-aa` · [HTML page](https://eulogikon.org/grc/melinno/rome)
+**eul_wid:** `mgm-aa` · [HTML page](https://eulogikon.org/works/melinno-rome-mgm-aa)
 
 ## Text
 
@@ -28,7 +28,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 541.2
 
-σφίγγεται· σὺ δ’ ἀσφαλέως κυβερνᾷς [para]ἄστεα λαῶν. πάντα δὲ σφάλλων ὁ μέγιστος αἰὼν καὶ μεταπλάσσων βίον ἄλλοτ’ ἄλλως[ln_15]σοὶ μόνᾳ πλησίστιον οὖρον ἀρχᾶς [para]οὐ μεταβάλλει. ἦ γὰρ ἐκ πάντων σὺ μόνα κρατίστους ἄνδρας αἰχματὰς μεγάλους λοχεύεις εὔσταχυν Δάματρος ὅπως ἀνεῖσα[ln_20]καρπὸν †ἀπ’ ἀνδρῶν. *
+σφίγγεται· σὺ δ’ ἀσφαλέως κυβερνᾷς [para]ἄστεα λαῶν. πάντα δὲ σφάλλων ὁ μέγιστος αἰὼν καὶ μεταπλάσσων βίον ἄλλοτ’ ἄλλως[ln_15]σοὶ μόνᾳ πλησίστιον οὖρον ἀρχᾶς [para]οὐ μεταβάλλει. ἦ γὰρ ἐκ πάντων σὺ μόνα κρατίστους ἄνδρας αἰχματὰς μεγάλους λοχεύεις εὔσταχυν Δάματρος ὅπως ἀνεῖσα[ln_20]καρπὸν ἀπ’ ἀνδρῶν. *
 
 ## License and provenance
 

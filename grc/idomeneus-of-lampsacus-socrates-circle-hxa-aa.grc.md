@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Idomeneus of Lampsacus
 eul_wid: hxa-aa
 eul_aid: hxa
-canonical: "https://eulogikon.org/grc/idomeneus-of-lampsacus/socrates-circle"
+canonical: "https://eulogikon.org/works/idomeneus-lampsacus-socrates-circle-hxa-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Idomeneus of Lampsacus
 
-**eul_wid:** `hxa-aa` · [HTML page](https://eulogikon.org/grc/idomeneus-of-lampsacus/socrates-circle)
+**eul_wid:** `hxa-aa` · [HTML page](https://eulogikon.org/works/idomeneus-lampsacus-socrates-circle-hxa-aa)
 
 ## Text
 

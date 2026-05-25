@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἀντιοχείας
 author: Julian the Apostate
 eul_wid: sno-as
 eul_aid: sno
-canonical: "https://eulogikon.org/grc/julian-the-apostate/antioch-fragments"
+canonical: "https://eulogikon.org/works/julian-apostate-antioch-fragments-sno-as"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Julian the Apostate
 
-**eul_wid:** `sno-as` · [HTML page](https://eulogikon.org/grc/julian-the-apostate/antioch-fragments)
+**eul_wid:** `sno-as` · [HTML page](https://eulogikon.org/works/julian-apostate-antioch-fragments-sno-as)
 
 ## Text
 

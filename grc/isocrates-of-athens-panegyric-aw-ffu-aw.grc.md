@@ -4,7 +4,7 @@ title_greek: Πανηγυρικός
 author: Isocrates of Athens
 eul_wid: ffu-aw
 eul_aid: ffu
-canonical: "https://eulogikon.org/grc/isocrates-of-athens/panegyric-aw"
+canonical: "https://eulogikon.org/works/isocrates-athens-panegyric-ffu-aw"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Isocrates of Athens
 
-**eul_wid:** `ffu-aw` · [HTML page](https://eulogikon.org/grc/isocrates-of-athens/panegyric-aw)
+**eul_wid:** `ffu-aw` · [HTML page](https://eulogikon.org/works/isocrates-athens-panegyric-ffu-aw)
 
 ## Text
 

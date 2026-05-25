@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Lycon of Alexandria
 eul_wid: iwa-aa
 eul_aid: iwa
-canonical: "https://eulogikon.org/grc/lycon-of-alexandria/last-will-testament"
+canonical: "https://eulogikon.org/works/lycon-alexandria-last-will-testament-iwa-aa"
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lycon of Alexandria
 
-**eul_wid:** `iwa-aa` · [HTML page](https://eulogikon.org/grc/lycon-of-alexandria/last-will-testament)
+**eul_wid:** `iwa-aa` · [HTML page](https://eulogikon.org/works/lycon-alexandria-last-will-testament-iwa-aa)
 
 ## Text
 
@@ -32,7 +32,7 @@ Diogenes Laert. V 65: φραστικὸς ἀνήρ (sc. Λύκων) ..... τὸ
 
 ### 20
 
-XXI 129, 9: ναὶ μὴν Λύκων ὁ Περιπατητικὸς τὴν ἀληθινὴν χαρὰν τῆς ψυχῆς τέλος ἔλεγεν εἶναι, ὡς † Λεύκιμος † τὴν ἐπὶ τοῖς καλοῖς. Johannes Damascenus Florilegium II 140 (Joh.
+XXI 129, 9: ναὶ μὴν Λύκων ὁ Περιπατητικὸς τὴν ἀληθινὴν χαρὰν τῆς ψυχῆς τέλος ἔλεγεν εἶναι, ὡς Λεύκιμος τὴν ἐπὶ τοῖς καλοῖς. Johannes Damascenus Florilegium II 140 (Joh.
 
 ### 21
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: "Tryphon the Grammarian "
 eul_wid: ncu-ab
 eul_aid: ncu
-canonical: "https://eulogikon.org/grc/tryphon-the-grammarian/accents-breathings"
+canonical: "https://eulogikon.org/works/tryphon-grammarian-accents-breathings-ncu-ab"
 period: Hellenistic
 dialect: Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Tryphon the Grammarian 
 
-**eul_wid:** `ncu-ab` · [HTML page](https://eulogikon.org/grc/tryphon-the-grammarian/accents-breathings)
+**eul_wid:** `ncu-ab` · [HTML page](https://eulogikon.org/works/tryphon-grammarian-accents-breathings-ncu-ab)
 
 ## Text
 

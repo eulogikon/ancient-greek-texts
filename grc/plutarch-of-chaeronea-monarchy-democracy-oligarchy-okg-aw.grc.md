@@ -4,7 +4,7 @@ title_greek: Περὶ μοναρχίας καὶ δημοκρατίας καὶ
 author: Plutarch of Chaeronea
 eul_wid: okg-aw
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/monarchy-democracy-oligarchy"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-monarchy-democracy-oligarchy-okg-aw"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-aw` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/monarchy-democracy-oligarchy)
+**eul_wid:** `okg-aw` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-monarchy-democracy-oligarchy-okg-aw)
 
 ## Text
 

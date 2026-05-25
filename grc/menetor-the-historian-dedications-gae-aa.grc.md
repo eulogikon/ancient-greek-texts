@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἀναθημάτων
 author: Menetor the Historian
 eul_wid: gae-aa
 eul_aid: gae
-canonical: "https://eulogikon.org/grc/menetor-the-historian/dedications"
+canonical: "https://eulogikon.org/works/menetor-dedications-gae-aa"
 period: Classical
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menetor the Historian
 
-**eul_wid:** `gae-aa` · [HTML page](https://eulogikon.org/grc/menetor-the-historian/dedications)
+**eul_wid:** `gae-aa` · [HTML page](https://eulogikon.org/works/menetor-dedications-gae-aa)
 
 ## Text
 

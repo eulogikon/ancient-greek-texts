@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Theagenes of Rhegium
 eul_wid: eow-aa
 eul_aid: eow
-canonical: "https://eulogikon.org/grc/theagenes-of-rhegium/testimonies"
+canonical: "https://eulogikon.org/works/theagenes-rhegium-testimonies-eow-aa"
 period: Classical
 dialect: Doric
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theagenes of Rhegium
 
-**eul_wid:** `eow-aa` · [HTML page](https://eulogikon.org/grc/theagenes-of-rhegium/testimonies)
+**eul_wid:** `eow-aa` · [HTML page](https://eulogikon.org/works/theagenes-rhegium-testimonies-eow-aa)
 
 ## Text
 

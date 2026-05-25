@@ -4,7 +4,7 @@ title_greek: Ἐπιστολή
 author: Nicias of Athens
 eul_wid: dkw-aa
 eul_aid: dkw
-canonical: "https://eulogikon.org/grc/nicias-of-athens/expedition-syracuse"
+canonical: "https://eulogikon.org/works/nicias-athens-expedition-syracuse-dkw-aa"
 period: Classical
 dialect: Attic
 format: Epistle
@@ -17,7 +17,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nicias of Athens
 
-**eul_wid:** `dkw-aa` · [HTML page](https://eulogikon.org/grc/nicias-of-athens/expedition-syracuse)
+**eul_wid:** `dkw-aa` · [HTML page](https://eulogikon.org/works/nicias-athens-expedition-syracuse-dkw-aa)
 
 ## Text
 

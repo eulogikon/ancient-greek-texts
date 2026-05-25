@@ -4,7 +4,7 @@ title_greek: Ἄδηλος Μῦθος
 author: Menander of Athens
 eul_wid: hps-au
 eul_aid: hps
-canonical: "https://eulogikon.org/grc/menander-of-athens/uncertain-fable"
+canonical: "https://eulogikon.org/works/menander-athens-uncertain-fable-hps-au"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander of Athens
 
-**eul_wid:** `hps-au` · [HTML page](https://eulogikon.org/grc/menander-of-athens/uncertain-fable)
+**eul_wid:** `hps-au` · [HTML page](https://eulogikon.org/works/menander-athens-uncertain-fable-hps-au)
 
 ## Text
 
@@ -48,7 +48,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 5.3
 
-ἐπ’ ἄλ̣λ̣α̣ ς.[
+ἐπ’ ἄλλα ς.[
 
 ### 5.4
 
@@ -76,7 +76,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 11.2
 
-ἔτι γ̣άρ̣ [ς’ ἑ]τ[α]ῖρ[ον
+ἔτι γάρ [ς’ ἑ]τ[α]ῖρ[ον
 
 ### 11.3
 
@@ -120,7 +120,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 19
 
-(Λα) γενοῦ γάρ, ἱκετεύω [ς’] ἐ̣γ̣ώ—
+(Λα) γενοῦ γάρ, ἱκετεύω [ς’] ἐγώ—
 
 ### 20
 
@@ -136,11 +136,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 21.1
 
-(?Χαι) εὐκαιρότ̣[α〈τά〉 γ]ε νὴ Δία
+(?Χαι) εὐκαιρότ[α〈τά〉 γ]ε νὴ Δία
 
 ### 21.2
 
-[ ]ε̣με. τί ποήσω, Λάχης;
+[ ]εμε. τί ποήσω, Λάχης;
 
 ### 21.3
 

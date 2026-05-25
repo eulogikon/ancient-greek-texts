@@ -4,7 +4,7 @@ title_greek: Σύνοψις
 author: Paul of Alexandria the Astrologer
 eul_wid: sum-ab
 eul_aid: sum
-canonical: "https://eulogikon.org/grc/paul-of-alexandria/summary"
+canonical: "https://eulogikon.org/works/paul-alexandria-summary-sum-ab"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Paul of Alexandria the Astrologer
 
-**eul_wid:** `sum-ab` · [HTML page](https://eulogikon.org/grc/paul-of-alexandria/summary)
+**eul_wid:** `sum-ab` · [HTML page](https://eulogikon.org/works/paul-alexandria-summary-sum-ab)
 
 ## Text
 

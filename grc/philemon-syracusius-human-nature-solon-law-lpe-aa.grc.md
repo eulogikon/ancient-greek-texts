@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Philemon Syracusius
 eul_wid: lpe-aa
 eul_aid: lpe
-canonical: "https://eulogikon.org/grc/philemon-syracusius/human-nature-solon-law"
+canonical: "https://eulogikon.org/works/philemon-syracusius-human-nature-solon-law-lpe-aa"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philemon Syracusius
 
-**eul_wid:** `lpe-aa` · [HTML page](https://eulogikon.org/grc/philemon-syracusius/human-nature-solon-law)
+**eul_wid:** `lpe-aa` · [HTML page](https://eulogikon.org/works/philemon-syracusius-human-nature-solon-law-lpe-aa)
 
 ## Text
 
@@ -2172,7 +2172,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 209
 
-μεθύει, διαγραμμίζει, κυβεύει –⏑–.
+μεθύει, διαγραμμίζει, κυβεύει ––.
 
 ### book 210.1
 

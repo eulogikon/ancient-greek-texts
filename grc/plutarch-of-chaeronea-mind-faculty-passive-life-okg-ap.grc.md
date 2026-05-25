@@ -4,7 +4,7 @@ title_greek: Εἰ ἡ τοῦ νοῦ δύναμις παθητικὸς βίο
 author: Plutarch of Chaeronea
 eul_wid: okg-ap
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/mind-faculty-passive-life"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-mind-faculty-passive-life-okg-ap"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-ap` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/mind-faculty-passive-life)
+**eul_wid:** `okg-ap` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-mind-faculty-passive-life-okg-ap)
 
 ## Text
 

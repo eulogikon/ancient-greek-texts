@@ -4,7 +4,7 @@ title_greek: Θεολογικὴ Διδασκαλία
 author: Proclus the Successor
 eul_wid: uqy-al
 eul_aid: uqy
-canonical: "https://eulogikon.org/grc/proclus-the-successor/theological-instruction"
+canonical: "https://eulogikon.org/works/proclus-theological-instruction-uqy-al"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Proclus the Successor
 
-**eul_wid:** `uqy-al` · [HTML page](https://eulogikon.org/grc/proclus-the-successor/theological-instruction)
+**eul_wid:** `uqy-al` · [HTML page](https://eulogikon.org/works/proclus-theological-instruction-uqy-al)
 
 ## Text
 

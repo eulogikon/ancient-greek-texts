@@ -4,7 +4,7 @@ title_greek: Λόγος πρὸς τοὺς Ἕλληνας
 author: Tatian the Assyrian
 eul_wid: pci-aa
 eul_aid: pci
-canonical: "https://eulogikon.org/grc/tatian-the-assyrian/oration-greeks"
+canonical: "https://eulogikon.org/works/tatian-assyrian-oration-greeks-pci-aa"
 period: Roman
 dialect: Christian Koine
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Tatian the Assyrian
 
-**eul_wid:** `pci-aa` · [HTML page](https://eulogikon.org/grc/tatian-the-assyrian/oration-greeks)
+**eul_wid:** `pci-aa` · [HTML page](https://eulogikon.org/works/tatian-assyrian-oration-greeks-pci-aa)
 
 ## Text
 
