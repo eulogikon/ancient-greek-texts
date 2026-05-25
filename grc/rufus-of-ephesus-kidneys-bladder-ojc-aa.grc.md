@@ -4,7 +4,7 @@ title_greek: Περὶ Νεφρῶν καὶ Κύστεως Παθῶν
 author: Rufus of Ephesus
 eul_wid: ojc-aa
 eul_aid: ojc
-canonical: "https://eulogikon.org/grc/rufus-of-ephesus/kidneys-bladder"
+canonical: "https://eulogikon.org/works/rufus-ephesus-kidneys-bladder-ojc-aa"
 period: Roman
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Rufus of Ephesus
 
-**eul_wid:** `ojc-aa` · [HTML page](https://eulogikon.org/grc/rufus-of-ephesus/kidneys-bladder)
+**eul_wid:** `ojc-aa` · [HTML page](https://eulogikon.org/works/rufus-ephesus-kidneys-bladder-ojc-aa)
 
 ## Text
 

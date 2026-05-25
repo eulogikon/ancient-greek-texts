@@ -4,7 +4,7 @@ title_greek: Βίτα Ὀππιανοῦ (β)
 author: Oppian Lives
 eul_wid: qvi-ad
 eul_aid: qvi
-canonical: "https://eulogikon.org/grc/oppian-lives/life-ad"
+canonical: "https://eulogikon.org/works/oppian-life-qvi-ad"
 period: Roman
 dialect: Mixed Dialects
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Oppian Lives
 
-**eul_wid:** `qvi-ad` · [HTML page](https://eulogikon.org/grc/oppian-lives/life-ad)
+**eul_wid:** `qvi-ad` · [HTML page](https://eulogikon.org/works/oppian-life-qvi-ad)
 
 ## Text
 

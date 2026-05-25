@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Γενεαλογίας
 author: Simonides of Ceos
 eul_wid: big-ac
 eul_aid: big
-canonical: "https://eulogikon.org/grc/simonides-of-ceos/genealogy"
+canonical: "https://eulogikon.org/works/simonides-ceos-genealogy-big-ac"
 period: Archaic
 dialect: Koine
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Simonides of Ceos
 
-**eul_wid:** `big-ac` · [HTML page](https://eulogikon.org/grc/simonides-of-ceos/genealogy)
+**eul_wid:** `big-ac` · [HTML page](https://eulogikon.org/works/simonides-ceos-genealogy-big-ac)
 
 ## Text
 

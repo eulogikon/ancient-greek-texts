@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Σικελίας
 author: Philostephanus of Cyrene
 eul_wid: hwq-ab
 eul_aid: hwq
-canonical: "https://eulogikon.org/grc/philostephanus-of-cyrene/sicily"
+canonical: "https://eulogikon.org/works/philostephanus-cyrene-sicily-hwq-ab"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philostephanus of Cyrene
 
-**eul_wid:** `hwq-ab` · [HTML page](https://eulogikon.org/grc/philostephanus-of-cyrene/sicily)
+**eul_wid:** `hwq-ab` · [HTML page](https://eulogikon.org/works/philostephanus-cyrene-sicily-hwq-ab)
 
 ## Text
 
@@ -28,7 +28,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 693.(t)
 
-Dubium ... φ̣υ̣λά̣ττων ἅτερον κέστρον
+Dubium ... φυλάττων ἅτερον κέστρον
 
 ## License and provenance
 

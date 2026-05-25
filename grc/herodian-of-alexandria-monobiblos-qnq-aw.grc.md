@@ -4,7 +4,7 @@ title_greek: Μονόβιβλον περὶ τοῦ ἦν
 author: Herodian of Alexandria
 eul_wid: qnq-aw
 eul_aid: qnq
-canonical: "https://eulogikon.org/grc/herodian-of-alexandria/monobiblos"
+canonical: "https://eulogikon.org/works/herodian-alexandria-monobiblos-qnq-aw"
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Herodian of Alexandria
 
-**eul_wid:** `qnq-aw` · [HTML page](https://eulogikon.org/grc/herodian-of-alexandria/monobiblos)
+**eul_wid:** `qnq-aw` · [HTML page](https://eulogikon.org/works/herodian-alexandria-monobiblos-qnq-aw)
 
 ## Text
 

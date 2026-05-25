@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Nicias of Nicaea
 eul_wid: lpo-aa
 eul_aid: lpo
-canonical: "https://eulogikon.org/grc/nicias-of-nicaea/arcadian-beauty-contest"
+canonical: "https://eulogikon.org/works/nicias-nicaea-arcadian-beauty-contest-lpo-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nicias of Nicaea
 
-**eul_wid:** `lpo-aa` · [HTML page](https://eulogikon.org/grc/nicias-of-nicaea/arcadian-beauty-contest)
+**eul_wid:** `lpo-aa` · [HTML page](https://eulogikon.org/works/nicias-nicaea-arcadian-beauty-contest-lpo-aa)
 
 ## Text
 

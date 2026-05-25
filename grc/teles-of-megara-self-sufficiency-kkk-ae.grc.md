@@ -4,7 +4,7 @@ title_greek: Περὶ αὐταρκείας
 author: Teles of Megara
 eul_wid: kkk-ae
 eul_aid: kkk
-canonical: "https://eulogikon.org/grc/teles-of-megara/self-sufficiency"
+canonical: "https://eulogikon.org/works/teles-megara-self-sufficiency-kkk-ae"
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Teles of Megara
 
-**eul_wid:** `kkk-ae` · [HTML page](https://eulogikon.org/grc/teles-of-megara/self-sufficiency)
+**eul_wid:** `kkk-ae` · [HTML page](https://eulogikon.org/works/teles-megara-self-sufficiency-kkk-ae)
 
 ## Text
 

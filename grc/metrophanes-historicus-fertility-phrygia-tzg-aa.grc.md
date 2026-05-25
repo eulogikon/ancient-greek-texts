@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Metrophanes Historicus
 eul_wid: tzg-aa
 eul_aid: tzg
-canonical: "https://eulogikon.org/grc/metrophanes-historicus/fertility-phrygia"
+canonical: "https://eulogikon.org/works/metrophanes-fertility-phrygia-tzg-aa"
 period: Late Antique
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Metrophanes Historicus
 
-**eul_wid:** `tzg-aa` · [HTML page](https://eulogikon.org/grc/metrophanes-historicus/fertility-phrygia)
+**eul_wid:** `tzg-aa` · [HTML page](https://eulogikon.org/works/metrophanes-fertility-phrygia-tzg-aa)
 
 ## Text
 

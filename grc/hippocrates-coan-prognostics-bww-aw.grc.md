@@ -4,7 +4,7 @@ title_greek: Κῶα Προγνωστικά
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-aw
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/coan-prognostics"
+canonical: "https://eulogikon.org/works/hippocrates-coan-prognostics-bww-aw"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-aw` · [HTML page](https://eulogikon.org/grc/hippocrates/coan-prognostics)
+**eul_wid:** `bww-aw` · [HTML page](https://eulogikon.org/works/hippocrates-coan-prognostics-bww-aw)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ σταθμοῦ ξανθώσεως
 author: Zosimus of Panopolis
 eul_wid: tyc-bk
 eul_aid: tyc
-canonical: "https://eulogikon.org/grc/zosimus-of-panopolis/scale-blondness"
+canonical: "https://eulogikon.org/works/zosimus-panopolis-scale-blondness-tyc-bk"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Zosimus of Panopolis
 
-**eul_wid:** `tyc-bk` · [HTML page](https://eulogikon.org/grc/zosimus-of-panopolis/scale-blondness)
+**eul_wid:** `tyc-bk` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-scale-blondness-tyc-bk)
 
 ## Text
 

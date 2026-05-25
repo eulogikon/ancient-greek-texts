@@ -4,7 +4,7 @@ title_greek: Περὶ τοῦ ἀκούειν.
 author: Plutarch of Chaeronea
 eul_wid: okg-eb
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/hearing"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-hearing-okg-eb"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-eb` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/hearing)
+**eul_wid:** `okg-eb` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-hearing-okg-eb)
 
 ## Text
 

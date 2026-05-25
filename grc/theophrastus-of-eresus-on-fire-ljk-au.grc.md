@@ -4,7 +4,7 @@ title_greek: Περὶ πυρός
 author: Theophrastus of Eresus
 eul_wid: ljk-au
 eul_aid: ljk
-canonical: "https://eulogikon.org/grc/theophrastus-of-eresus/on-fire"
+canonical: "https://eulogikon.org/works/theophrastus-eresus-on-fire-ljk-au"
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theophrastus of Eresus
 
-**eul_wid:** `ljk-au` · [HTML page](https://eulogikon.org/grc/theophrastus-of-eresus/on-fire)
+**eul_wid:** `ljk-au` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-on-fire-ljk-au)
 
 ## Text
 

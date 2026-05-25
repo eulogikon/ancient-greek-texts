@@ -4,7 +4,7 @@ title_greek: Ὁμιλίαι
 author: Synesius of Cyrene
 eul_wid: sys-ag
 eul_aid: sys
-canonical: "https://eulogikon.org/grc/synesius-of-cyrene/homilies"
+canonical: "https://eulogikon.org/works/synesius-cyrene-homilies-sys-ag"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Synesius of Cyrene
 
-**eul_wid:** `sys-ag` · [HTML page](https://eulogikon.org/grc/synesius-of-cyrene/homilies)
+**eul_wid:** `sys-ag` · [HTML page](https://eulogikon.org/works/synesius-cyrene-homilies-sys-ag)
 
 ## Text
 

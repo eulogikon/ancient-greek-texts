@@ -4,7 +4,7 @@ title_greek: Ἐπιτάφιον
 author: Pectorius Epitaph Anonymous
 eul_wid: uic-aa
 eul_aid: uic
-canonical: "https://eulogikon.org/grc/pectorius-epitaph/text"
+canonical: "https://eulogikon.org/works/pectorius-epitaph-text-uic-aa"
 period: Late Antique
 dialect: Christian Koine
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pectorius Epitaph Anonymous
 
-**eul_wid:** `uic-aa` · [HTML page](https://eulogikon.org/grc/pectorius-epitaph/text)
+**eul_wid:** `uic-aa` · [HTML page](https://eulogikon.org/works/pectorius-epitaph-text-uic-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἡρωικοὶ Στίχοι
 author: Heroic Verses Anonymous
 eul_wid: jym-aa
 eul_aid: jym
-canonical: "https://eulogikon.org/grc/heroic-verses-anon/text"
+canonical: "https://eulogikon.org/works/heroic-verses-anon-text-jym-aa"
 period: Hellenistic
 dialect: Epic (Homeric) (frg)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Heroic Verses Anonymous
 
-**eul_wid:** `jym-aa` · [HTML page](https://eulogikon.org/grc/heroic-verses-anon/text)
+**eul_wid:** `jym-aa` · [HTML page](https://eulogikon.org/works/heroic-verses-anon-text-jym-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Tyrannion the Younger
 eul_wid: nfw-aa
 eul_aid: nfw
-canonical: "https://eulogikon.org/grc/tyrannion-the-younger/homeric-prosody"
+canonical: "https://eulogikon.org/works/tyrannion-younger-homeric-prosody-nfw-aa"
 period: Hellenistic
 dialect: Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Tyrannion the Younger
 
-**eul_wid:** `nfw-aa` · [HTML page](https://eulogikon.org/grc/tyrannion-the-younger/homeric-prosody)
+**eul_wid:** `nfw-aa` · [HTML page](https://eulogikon.org/works/tyrannion-younger-homeric-prosody-nfw-aa)
 
 ## Text
 

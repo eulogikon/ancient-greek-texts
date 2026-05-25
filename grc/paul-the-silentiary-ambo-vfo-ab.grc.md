@@ -4,7 +4,7 @@ title_greek: Περὶ τοῦ Ἄμβωνος
 author: Paul the Silentiary
 eul_wid: vfo-ab
 eul_aid: vfo
-canonical: "https://eulogikon.org/grc/paul-the-silentiary/ambo"
+canonical: "https://eulogikon.org/works/paul-silentiary-ambo-vfo-ab"
 period: Late Antique
 dialect: Koine
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Paul the Silentiary
 
-**eul_wid:** `vfo-ab` · [HTML page](https://eulogikon.org/grc/paul-the-silentiary/ambo)
+**eul_wid:** `vfo-ab` · [HTML page](https://eulogikon.org/works/paul-silentiary-ambo-vfo-ab)
 
 ## Text
 
@@ -36,7 +36,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### unit_4
 
-ψυχαίης ἐκάθηρεν ὅλην σμώδιγγα καλύπτρης· δεῦρο, χοροὺς στήσασθε καὶ εὐαγέεσσιν ἀοιδαῖς σύνθροον ἡμετέρηισι μέλος πλέξασθε χορείαις. ὑμέτερος γὰρ χῶρος ἀείδεται, ὁππόθι πολλὴ θεσπεσίαις βίβλοισιν ἀκήρατος ἔγρεται ἠχώ. Ἔστι τις εὐρυπόροιο κατ’ ἔνδια μέσσα μελάθρου ἁβρὸς ἰδεῖν καὶ μᾶλλον ἐς ἀντολίην τι νενευκὼς πύργος, ἀκηρασίοισιν ἀπόκριτος ἤθεσι βίβλων, †ὄρθιος βάθροις, διδυμάοσιν ἀμβατὸς οἴμοις, ὧν μία μὲν ποτὶ νύκτα τιταίνεται, ἡ δὲ πρὸς ἠῶ.
+ψυχαίης ἐκάθηρεν ὅλην σμώδιγγα καλύπτρης· δεῦρο, χοροὺς στήσασθε καὶ εὐαγέεσσιν ἀοιδαῖς σύνθροον ἡμετέρηισι μέλος πλέξασθε χορείαις. ὑμέτερος γὰρ χῶρος ἀείδεται, ὁππόθι πολλὴ θεσπεσίαις βίβλοισιν ἀκήρατος ἔγρεται ἠχώ. Ἔστι τις εὐρυπόροιο κατ’ ἔνδια μέσσα μελάθρου ἁβρὸς ἰδεῖν καὶ μᾶλλον ἐς ἀντολίην τι νενευκὼς πύργος, ἀκηρασίοισιν ἀπόκριτος ἤθεσι βίβλων, ὄρθιος βάθροις, διδυμάοσιν ἀμβατὸς οἴμοις, ὧν μία μὲν ποτὶ νύκτα τιταίνεται, ἡ δὲ πρὸς ἠῶ.
 
 ### unit_5
 

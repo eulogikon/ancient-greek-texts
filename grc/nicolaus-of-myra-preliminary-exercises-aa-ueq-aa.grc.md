@@ -4,7 +4,7 @@ title_greek: Προγυμνάσματα (κεφάλαιον περὶ συγκρ
 author: Nicolaus of Myra
 eul_wid: ueq-aa
 eul_aid: ueq
-canonical: "https://eulogikon.org/grc/nicolaus-of-myra/preliminary-exercises-aa"
+canonical: "https://eulogikon.org/works/nicolaus-myra-preliminary-exercises-ueq-aa"
 period: Late Antique
 dialect: Atticizing Technical
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nicolaus of Myra
 
-**eul_wid:** `ueq-aa` · [HTML page](https://eulogikon.org/grc/nicolaus-of-myra/preliminary-exercises-aa)
+**eul_wid:** `ueq-aa` · [HTML page](https://eulogikon.org/works/nicolaus-myra-preliminary-exercises-ueq-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἐκλογαὶ ἐκ Πολυαίνου
 author: Polyaenus of Macedonia
 eul_wid: qok-aa
 eul_aid: qok
-canonical: "https://eulogikon.org/grc/polyaenus-of-macedonia/excerpts"
+canonical: "https://eulogikon.org/works/polyaenus-macedonia-excerpts-qok-aa"
 period: Roman
 dialect: Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Polyaenus of Macedonia
 
-**eul_wid:** `qok-aa` · [HTML page](https://eulogikon.org/grc/polyaenus-of-macedonia/excerpts)
+**eul_wid:** `qok-aa` · [HTML page](https://eulogikon.org/works/polyaenus-macedonia-excerpts-qok-aa)
 
 ## Text
 

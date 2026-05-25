@@ -4,7 +4,7 @@ title_greek: Προπαρασκευαὶ καὶ πολιορκητικά
 author: "Philo of Byzantium "
 eul_wid: jhe-aa
 eul_aid: jhe
-canonical: "https://eulogikon.org/grc/philo-of-byzantium/preparations-siegecraft"
+canonical: "https://eulogikon.org/works/philo-byzantium-preparations-siegecraft-jhe-aa"
 period: Hellenistic
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philo of Byzantium 
 
-**eul_wid:** `jhe-aa` · [HTML page](https://eulogikon.org/grc/philo-of-byzantium/preparations-siegecraft)
+**eul_wid:** `jhe-aa` · [HTML page](https://eulogikon.org/works/philo-byzantium-preparations-siegecraft-jhe-aa)
 
 ## Text
 

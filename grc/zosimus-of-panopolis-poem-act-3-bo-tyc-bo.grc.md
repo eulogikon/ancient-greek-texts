@@ -4,7 +4,7 @@ title_greek: Ποίημα τοῦ Ζωσίμου (πρᾶξις γʹ)
 author: Zosimus of Panopolis
 eul_wid: tyc-bo
 eul_aid: tyc
-canonical: "https://eulogikon.org/grc/zosimus-of-panopolis/poem-act-3-bo"
+canonical: "https://eulogikon.org/works/zosimus-panopolis-poem-act-3-tyc-bo"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Zosimus of Panopolis
 
-**eul_wid:** `tyc-bo` · [HTML page](https://eulogikon.org/grc/zosimus-of-panopolis/poem-act-3-bo)
+**eul_wid:** `tyc-bo` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-poem-act-3-tyc-bo)
 
 ## Text
 

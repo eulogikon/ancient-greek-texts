@@ -4,7 +4,7 @@ title_greek: Σύνοψις Αἱρετικῶν Μύθων
 author: Theodoret of Cyrus
 eul_wid: tds-ai
 eul_aid: tds
-canonical: "https://eulogikon.org/grc/theodoret-of-cyrus/heretical-fables"
+canonical: "https://eulogikon.org/works/theodoret-cyrus-heretical-fables-tds-ai"
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theodoret of Cyrus
 
-**eul_wid:** `tds-ai` · [HTML page](https://eulogikon.org/grc/theodoret-of-cyrus/heretical-fables)
+**eul_wid:** `tds-ai` · [HTML page](https://eulogikon.org/works/theodoret-cyrus-heretical-fables-tds-ai)
 
 ## Text
 

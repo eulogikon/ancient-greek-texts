@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἀβραὰμ καὶ τῶν Π
 author: Philo of Alexandria the Elder
 eul_wid: mcq-aa
 eul_aid: mcq
-canonical: "https://eulogikon.org/grc/philo-of-alexandria-the-elder/abraham-patriarchs"
+canonical: "https://eulogikon.org/works/philo-alexandria-abraham-patriarchs-mcq-aa"
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philo of Alexandria the Elder
 
-**eul_wid:** `mcq-aa` · [HTML page](https://eulogikon.org/grc/philo-of-alexandria-the-elder/abraham-patriarchs)
+**eul_wid:** `mcq-aa` · [HTML page](https://eulogikon.org/works/philo-alexandria-abraham-patriarchs-mcq-aa)
 
 ## Text
 
@@ -40,11 +40,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 682.1
 
-†ἄρτι
+ἄρτι
 
 ### book 682.2
 
-χερὸς θνητοῖο ξιφηφόρον † ἐντύνοντος λήμματι καὶ σφαράγοιο
+χερὸς θνητοῖο ξιφηφόρον ἐντύνοντος λήμματι καὶ σφαράγοιο
 
 ### book 682.3
 

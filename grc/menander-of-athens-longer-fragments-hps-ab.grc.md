@@ -4,7 +4,7 @@ title_greek: Μακρότερα Ἀποσπάσματα
 author: Menander of Athens
 eul_wid: hps-ab
 eul_aid: hps
-canonical: "https://eulogikon.org/grc/menander-of-athens/longer-fragments"
+canonical: "https://eulogikon.org/works/menander-athens-longer-fragments-hps-ab"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander of Athens
 
-**eul_wid:** `hps-ab` · [HTML page](https://eulogikon.org/grc/menander-of-athens/longer-fragments)
+**eul_wid:** `hps-ab` · [HTML page](https://eulogikon.org/works/menander-athens-longer-fragments-hps-ab)
 
 ## Text
 
@@ -32,7 +32,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 59*.3
 
-πραγμάτων, οὐ Λιβυκὸν οὐδ’ Αἰγαῖον 〈οὐδ’ ×–⏑⏓〉, οὗ τῶν
+πραγμάτων, οὐ Λιβυκὸν οὐδ’ Αἰγαῖον 〈οὐδ’ –〉, οὗ τῶν
 
 ### book 59*.4
 
@@ -156,7 +156,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 210.6
 
-ταῦτ’ ὄργανα εὑρημέν’ ἀνθρώποις ἀναιδέσιν, Ῥόδη, εἰς καταγέλωτα † τῶι βίωι † πεπλασμένα.
+ταῦτ’ ὄργανα εὑρημέν’ ἀνθρώποις ἀναιδέσιν, Ῥόδη, εἰς καταγέλωτα τῶι βίωι πεπλασμένα.
 
 ### book 215.1
 
@@ -304,7 +304,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 286.2
 
-σεσῶσθαί μοι λέγεις;[ln_7]〈Α〉 ἔγωγε μὴν 〈τὴν〉 ναῦν ἐκείνην 〈ἣν〉 ἐποίησε Καλλικλῆς † τὸν καλούμενον †, Εὐφράνωρ 〈δ’〉 ἐκυβέρνα Θούριος.
+σεσῶσθαί μοι λέγεις;[ln_7]〈Α〉 ἔγωγε μὴν 〈τὴν〉 ναῦν ἐκείνην 〈ἣν〉 ἐποίησε Καλλικλῆς τὸν καλούμενον , Εὐφράνωρ 〈δ’〉 ἐκυβέρνα Θούριος.
 
 ### book 287.1
 
@@ -392,7 +392,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 333.1
 
-[ln_15]παιδισκάριον θεραπευτικὸν δὴ καὶ λόγου † τάχιον· ἀπαγέσθω δέ. τί γὰρ ἄν
+[ln_15]παιδισκάριον θεραπευτικὸν δὴ καὶ λόγου τάχιον· ἀπαγέσθω δέ. τί γὰρ ἄν
 
 ### book 333.2
 
@@ -412,7 +412,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 334
 
-[ln_2][spk_〈α〉]〈Α〉 κυρίαν τῆς οἰκίας καὶ τῶν ἀγρῶν καὶ † πάντων ἀντ’ ἐκείνης † ἔχομεν.
+[ln_2][spk_〈α〉]〈Α〉 κυρίαν τῆς οἰκίας καὶ τῶν ἀγρῶν καὶ πάντων ἀντ’ ἐκείνης ἔχομεν.
 
 ### book 334.1
 
@@ -580,7 +580,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 417.3
 
-πνεῦμα θεῖον εἴτε † νοῦς. τοῦτ’ ἔστι τὸ κυβερνῶν 〈ἅπαντα〉 καὶ στρέφον[ln_5]καὶ σῶιζον, ἡ πρόνοια δ’ ἡ θνητὴ καπνὸς καὶ φλήναφος. πείσθητε, κοὐ μέμψεσθέ με. πάνθ’ ὅσα νοοῦμεν ἢ λέγομεν ἢ πράττομεν, τύχη ’στιν, ἡμεῖς δ’ ἐσμὲν ἐπιγεγραμμένοι.
+πνεῦμα θεῖον εἴτε νοῦς. τοῦτ’ ἔστι τὸ κυβερνῶν 〈ἅπαντα〉 καὶ στρέφον[ln_5]καὶ σῶιζον, ἡ πρόνοια δ’ ἡ θνητὴ καπνὸς καὶ φλήναφος. πείσθητε, κοὐ μέμψεσθέ με. πάνθ’ ὅσα νοοῦμεν ἢ λέγομεν ἢ πράττομεν, τύχη ’στιν, ἡμεῖς δ’ ἐσμὲν ἐπιγεγραμμένοι.
 
 ### book 451
 
@@ -616,7 +616,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 451.2
 
-τοῦτο; παράθες † σημιαν. 〈Β〉 οὐκ ἔστι κανδύλους
+τοῦτο; παράθες σημιαν. 〈Β〉 οὐκ ἔστι κανδύλους
 
 ### book 451.3
 
@@ -684,7 +684,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 568.5
 
-ψυχῆς, ὁ πληγεὶς δ’ † εἴσω δὴ † τιτρώσκεται.
+ψυχῆς, ὁ πληγεὶς δ’ εἴσω δὴ τιτρώσκεται.
 
 ### book 581.1
 
@@ -764,7 +764,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 614.3
 
-χρησίμους εἶναι θεοὺς τἀργύριον ἡμῖν καὶ τὸ χρυσίον 〈⏑–〉[ln_5]ἱδρυσάμενος
+χρησίμους εἶναι θεοὺς τἀργύριον ἡμῖν καὶ τὸ χρυσίον 〈–〉[ln_5]ἱδρυσάμενος
 
 ### book 614.4
 
@@ -888,7 +888,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 714.8
 
-πεποημένοι † εἰπάντα τὴν ἑαυτῶν ἀβουλίαν ἐκτρίψαντες †[ln_10]ἀποφαίνουσι δαίμον’ αἴτιον καὶ κακὸν ἐκεῖνόν
+πεποημένοι εἰπάντα τὴν ἑαυτῶν ἀβουλίαν ἐκτρίψαντες [ln_10]ἀποφαίνουσι δαίμον’ αἴτιον καὶ κακὸν ἐκεῖνόν
 
 ### book 714.9
 

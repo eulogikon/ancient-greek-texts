@@ -4,7 +4,7 @@ title_greek: Σύνοψις τῶν Ἐθνικῶν
 author: Stephen of Byzantium
 eul_wid: uua-aa
 eul_aid: uua
-canonical: "https://eulogikon.org/grc/stephen-of-byzantium/ethnica-summary"
+canonical: "https://eulogikon.org/works/stephanus-byzantium-ethnica-summary-uua-aa"
 period: Late Antique
 dialect: Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Stephen of Byzantium
 
-**eul_wid:** `uua-aa` · [HTML page](https://eulogikon.org/grc/stephen-of-byzantium/ethnica-summary)
+**eul_wid:** `uua-aa` · [HTML page](https://eulogikon.org/works/stephanus-byzantium-ethnica-summary-uua-aa)
 
 ## Text
 

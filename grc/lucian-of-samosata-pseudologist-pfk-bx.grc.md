@@ -4,7 +4,7 @@ title_greek: Ψευδολογιστής
 author: Lucian of Samosata
 eul_wid: pfk-bx
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/pseudologist"
+canonical: "https://eulogikon.org/works/lucian-samosata-pseudologist-pfk-bx"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-bx` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/pseudologist)
+**eul_wid:** `pfk-bx` · [HTML page](https://eulogikon.org/works/lucian-samosata-pseudologist-pfk-bx)
 
 ## Text
 

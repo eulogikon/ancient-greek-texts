@@ -4,7 +4,7 @@ title_greek: Ἱππίας μείζων
 author: Plato of Athens
 eul_wid: ffk-ac
 eul_aid: ffk
-canonical: "https://eulogikon.org/grc/plato/hippias"
+canonical: "https://eulogikon.org/works/plato-hippias-ffk-ac"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plato of Athens
 
-**eul_wid:** `ffk-ac` · [HTML page](https://eulogikon.org/grc/plato/hippias)
+**eul_wid:** `ffk-ac` · [HTML page](https://eulogikon.org/works/plato-hippias-ffk-ac)
 
 ## Text
 

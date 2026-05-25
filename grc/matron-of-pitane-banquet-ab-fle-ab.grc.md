@@ -4,7 +4,7 @@ title_greek: Δεῖπνον Ἀττικόν
 author: Matron of Pitane
 eul_wid: fle-ab
 eul_aid: fle
-canonical: "https://eulogikon.org/grc/matron-of-pitane/banquet-ab"
+canonical: "https://eulogikon.org/works/matron-pitane-banquet-fle-ab"
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Matron of Pitane
 
-**eul_wid:** `fle-ab` · [HTML page](https://eulogikon.org/grc/matron-of-pitane/banquet-ab)
+**eul_wid:** `fle-ab` · [HTML page](https://eulogikon.org/works/matron-pitane-banquet-fle-ab)
 
 ## Text
 

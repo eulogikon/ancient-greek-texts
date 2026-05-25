@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Θείας Ὄψεως
 author: Menophilus the Poet
 eul_wid: gao-aa
 eul_aid: gao
-canonical: "https://eulogikon.org/grc/menophilus-the-poet/divine-vision"
+canonical: "https://eulogikon.org/works/menophilus-divine-vision-gao-aa"
 period: Classical
 dialect: Koine (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menophilus the Poet
 
-**eul_wid:** `gao-aa` · [HTML page](https://eulogikon.org/grc/menophilus-the-poet/divine-vision)
+**eul_wid:** `gao-aa` · [HTML page](https://eulogikon.org/works/menophilus-divine-vision-gao-aa)
 
 ## Text
 

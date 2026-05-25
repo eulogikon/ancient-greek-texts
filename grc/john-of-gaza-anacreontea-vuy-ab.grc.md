@@ -4,7 +4,7 @@ title_greek: Ἀνακρεόντεια
 author: John of Gaza the Grammarian and Poet
 eul_wid: vuy-ab
 eul_aid: vuy
-canonical: "https://eulogikon.org/grc/john-of-gaza/anacreontea"
+canonical: "https://eulogikon.org/works/john-gaza-anacreontea-vuy-ab"
 period: Late Antique
 dialect: Christian Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** John of Gaza the Grammarian and Poet
 
-**eul_wid:** `vuy-ab` · [HTML page](https://eulogikon.org/grc/john-of-gaza/anacreontea)
+**eul_wid:** `vuy-ab` · [HTML page](https://eulogikon.org/works/john-gaza-anacreontea-vuy-ab)
 
 ## Text
 

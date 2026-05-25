@@ -4,7 +4,7 @@ title_greek: Πρὸς τοὺς Ἀνέμους τῆς Ῥόδου
 author: Song of the Sailors
 eul_wid: puk-aa
 eul_aid: puk
-canonical: "https://eulogikon.org/grc/song-of-the-sailors/winds-rhodes"
+canonical: "https://eulogikon.org/works/song-sailors-winds-rhodes-puk-aa"
 period: Roman
 dialect: Koine
 domain: Poetry
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Song of the Sailors
 
-**eul_wid:** `puk-aa` · [HTML page](https://eulogikon.org/grc/song-of-the-sailors/winds-rhodes)
+**eul_wid:** `puk-aa` · [HTML page](https://eulogikon.org/works/song-sailors-winds-rhodes-puk-aa)
 
 ## Text
 
 ### unit_1
 
-Ῥοδίοις ἐκέλευον ἀνέμοις καὶ μέρεσι τ̣οῖς πελαγίοις, ὅτε πλέειν ἤθελον ἐγώ, ὅτε μένειν ἤθελον ἐκεῖ, ἔλεγον μέρε(σιν) πελαγίοις· μὴ τύπη〈τε〉 τὰ πελάγη, ἀλ〈λ〉’ ὑποτάξατε ναυσιβά[τ]αις· ὅλος 〈γ〉ὰρ ἄνεμος ἐπ〈ε〉ίγεται. ἀπόκλειε τὰ πνεύματα καί, Ν[ύ]ξ, δὸς τὰ [κύμ]α̣τ̣α εὔβατα.
+Ῥοδίοις ἐκέλευον ἀνέμοις καὶ μέρεσι τοῖς πελαγίοις, ὅτε πλέειν ἤθελον ἐγώ, ὅτε μένειν ἤθελον ἐκεῖ, ἔλεγον μέρε(σιν) πελαγίοις· μὴ τύπη〈τε〉 τὰ πελάγη, ἀλ〈λ〉’ ὑποτάξατε ναυσιβά[τ]αις· ὅλος 〈γ〉ὰρ ἄνεμος ἐπ〈ε〉ίγεται. ἀπόκλειε τὰ πνεύματα καί, Ν[ύ]ξ, δὸς τὰ [κύμ]ατα εὔβατα.
 
 ## License and provenance
 

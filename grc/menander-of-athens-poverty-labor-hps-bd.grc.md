@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Πενίας καὶ Πόνου
 author: Menander of Athens
 eul_wid: hps-bd
 eul_aid: hps
-canonical: "https://eulogikon.org/grc/menander-of-athens/poverty-labor"
+canonical: "https://eulogikon.org/works/menander-athens-poverty-labor-hps-bd"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander of Athens
 
-**eul_wid:** `hps-bd` · [HTML page](https://eulogikon.org/grc/menander-of-athens/poverty-labor)
+**eul_wid:** `hps-bd` · [HTML page](https://eulogikon.org/works/menander-athens-poverty-labor-hps-bd)
 
 ## Text
 
@@ -300,7 +300,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 47.1
 
-πλήσας † γὰρ ἔφθειρ’ ἐκ
+πλήσας γὰρ ἔφθειρ’ ἐκ
 
 ### book 47.2
 
@@ -828,7 +828,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 120.1
 
-τί φὴς ἰδὼν ἔνθεν γε πᾶς δ’ ἐλευθερῶν † ἀπῆλθες εὐθὺς ὡς
+τί φὴς ἰδὼν ἔνθεν γε πᾶς δ’ ἐλευθερῶν ἀπῆλθες εὐθὺς ὡς
 
 ### book 120.2
 
@@ -864,7 +864,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 125
 
-εὑρηκὸς κἀγὼ τούτου τέχνην †
+εὑρηκὸς κἀγὼ τούτου τέχνην
 
 ### book 127.1
 
@@ -1060,7 +1060,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 149.2
 
-τολμηρὰ τῶν ὄχλων † ἔχει ἐν
+τολμηρὰ τῶν ὄχλων ἔχει ἐν
 
 ### book 149.3
 
@@ -1228,7 +1228,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 177.1
 
-ἀλλὰ θεὸς οὐδεὶς εἰς τὸ προκόλπιον φέρει ἀργύριον, ἀλλ’ ἔδωκεν εὔνους γενόμενος πόρνης βουλὴν † ἔδειξεν εὐπορίας
+ἀλλὰ θεὸς οὐδεὶς εἰς τὸ προκόλπιον φέρει ἀργύριον, ἀλλ’ ἔδωκεν εὔνους γενόμενος πόρνης βουλὴν ἔδειξεν εὐπορίας
 
 ### book 177.2
 
@@ -1272,7 +1272,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 180.2
 
-παῖδα δ’ οὐ † δίδομεν, ἀλλ’ ἁρπάγην αὐτῷ κατασκευάζομεν.
+παῖδα δ’ οὐ δίδομεν, ἀλλ’ ἁρπάγην αὐτῷ κατασκευάζομεν.
 
 ### book 181.1
 
@@ -1772,7 +1772,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 242
 
-π̣α̣ρέσει ........... ἐγὼ παραλήψομ̣[αι.
+παρέσει ........... ἐγὼ παραλήψομ[αι.
 
 ### book 243
 
@@ -1856,7 +1856,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 253.1
 
-† εἰς τὴν
+εἰς τὴν
 
 ### book 253.2
 
@@ -1864,7 +1864,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 253.3
 
-ποτε ἀξιοῦσι πέρας. †
+ποτε ἀξιοῦσι πέρας.
 
 ### book 254
 
@@ -1968,7 +1968,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 269.2
 
-τοὺς κάδους 〈τοὺσ〉 στρογγύλους ὕδρευον ἀνδρειότατα † κ’ ἡ πόλις πάλιν. ἤντλουν λέγειν δεῖ, καὶ κάδους οὐ δεῖ λέγειν, ἀλλ’ ἀντλιαντλητῆρας.
+τοὺς κάδους 〈τοὺσ〉 στρογγύλους ὕδρευον ἀνδρειότατα κ’ ἡ πόλις πάλιν. ἤντλουν λέγειν δεῖ, καὶ κάδους οὐ δεῖ λέγειν, ἀλλ’ ἀντλιαντλητῆρας.
 
 ### book 270.1
 
@@ -2088,7 +2088,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 286.5
 
-σεσῶσθαί μοι λέγεις; Α. ἔγωγε μήν. τὴν ναῦν ἐκείνην ἣν ἐποίησε Καλλικλῆς τὸν καλούμενον †, Εὐφράνωρ 〈δ’〉 ἐκυβέρνα Θούριος;
+σεσῶσθαί μοι λέγεις; Α. ἔγωγε μήν. τὴν ναῦν ἐκείνην ἣν ἐποίησε Καλλικλῆς τὸν καλούμενον , Εὐφράνωρ 〈δ’〉 ἐκυβέρνα Θούριος;
 
 ### book 287.1
 
@@ -2200,7 +2200,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 302.2
 
-τε ἀλφάνει †
+τε ἀλφάνει
 
 ### book 303.1
 
@@ -2536,11 +2536,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 339.1
 
-† τὸ μὴ τὰς
+τὸ μὴ τὰς
 
 ### book 339.2
 
-τρίχας αἴρων καὶ τὸν ῥύπον διδοὺς † πιεῖν ἀνηδαξᾶτο ὥστε μὴ πιεῖν.
+τρίχας αἴρων καὶ τὸν ῥύπον διδοὺς πιεῖν ἀνηδαξᾶτο ὥστε μὴ πιεῖν.
 
 ### book 340.1
 
@@ -2672,7 +2672,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 358.2
 
-τοῦ ζῆν βούλεται † ...... τὸ δ’ ἀτυχεῖν ἢ τὸ μὴ θεὸς δίδωσιν, οὐ τρόπου ’σθ’ ἁμαρτία.
+τοῦ ζῆν βούλεται ...... τὸ δ’ ἀτυχεῖν ἢ τὸ μὴ θεὸς δίδωσιν, οὐ τρόπου ’σθ’ ἁμαρτία.
 
 ### book 359
 
@@ -3112,7 +3112,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 416b.4
 
-φημι, τοῦτον, τὴν ἐπιδημίαν ἄνω·[ln_10]ὄχλος, ἀγορά, κλέπται, κυβεῖαι, διατριβαί. † ἂν
+φημι, τοῦτον, τὴν ἐπιδημίαν ἄνω·[ln_10]ὄχλος, ἀγορά, κλέπται, κυβεῖαι, διατριβαί. ἂν
 
 ### book 416b.5
 
@@ -3236,7 +3236,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 435
 
-σιωπήσ〈ε〉ι πάλιν ἐ̣ν̣ τ̣ῷ̣ μ̣έρει.
+σιωπήσ〈ε〉ι πάλιν ἐν τῷ μέρει.
 
 ### book 436.1
 
@@ -3376,7 +3376,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 451.7
 
-σημίαν †. οὐκ ἔστι κανδύλους
+σημίαν . οὐκ ἔστι κανδύλους
 
 ### book 451.8
 
@@ -4056,7 +4056,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 532.3
 
-ταῦτα † ὅσα
+ταῦτα ὅσα
 
 ### book 532.4
 
@@ -4140,7 +4140,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 539
 
-οὐδὲν διαβολῆς ἐστιν ἐπιπονώτερον· τὴν ἐν ἑτέρῳ γὰρ κειμένην ἁμαρτίαν † ἀεὶ μέμψιν ἰδίαν αὐτὸν ἐπάναγκες λαβεῖν.
+οὐδὲν διαβολῆς ἐστιν ἐπιπονώτερον· τὴν ἐν ἑτέρῳ γὰρ κειμένην ἁμαρτίαν ἀεὶ μέμψιν ἰδίαν αὐτὸν ἐπάναγκες λαβεῖν.
 
 ### book 540.1
 
@@ -4188,7 +4188,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 543.1
 
-εἴπερ τὸν ἀδικοῦντα † μενως ἠμύνετο ἕκαστος ἡμῶν καὶ συνηγωνίζετο ἴσως, νομίζων ἴδιον εἶναι τὸ γεγονὸς ἀδίκημα, καὶ συνέπραττον ἀλλήλοις
+εἴπερ τὸν ἀδικοῦντα μενως ἠμύνετο ἕκαστος ἡμῶν καὶ συνηγωνίζετο ἴσως, νομίζων ἴδιον εἶναι τὸ γεγονὸς ἀδίκημα, καὶ συνέπραττον ἀλλήλοις
 
 ### book 543.2
 
@@ -4308,7 +4308,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 552.2
 
-τοὺς λόγους ἀνδρὸς † ἐρῶ.
+τοὺς λόγους ἀνδρὸς ἐρῶ.
 
 ### book 553.1
 
@@ -4964,7 +4964,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 617
 
-κρεῖττον ὀλίγ’ ἐστὶ χρήματ’ ἀνυπόπτως ἔχειν, ἢ πολλὰ φανερῶς † ἃ δὲ μετ’ ὀνείδους λαβεῖν.
+κρεῖττον ὀλίγ’ ἐστὶ χρήματ’ ἀνυπόπτως ἔχειν, ἢ πολλὰ φανερῶς ἃ δὲ μετ’ ὀνείδους λαβεῖν.
 
 ### book 618.1
 
@@ -5308,7 +5308,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 649
 
-ἐπὶ τοῦτ’ ἐγένοντο πάντες, ἔνθα † λήξομεν.
+ἐπὶ τοῦτ’ ἐγένοντο πάντες, ἔνθα λήξομεν.
 
 ### book 650
 
@@ -5496,7 +5496,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 672.1
 
-† ἀλλὰ προσέδωκας τάλαντον εἶναι
+ἀλλὰ προσέδωκας τάλαντον εἶναι
 
 ### book 672.2
 
@@ -5560,7 +5560,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 681.1
 
-ὁ γὰρ θεὸς 〈⏒〉 πᾶσι, τοῖς 〈τ’〉 ἐλευθέροις καὶ τοῖσ〈ι〉 δούλοις, ἐστίν, ἂν
+ὁ γὰρ θεὸς 〈〉 πᾶσι, τοῖς 〈τ’〉 ἐλευθέροις καὶ τοῖσ〈ι〉 δούλοις, ἐστίν, ἂν
 
 ### book 681.2
 
@@ -5840,7 +5840,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 715a
 
-⏑– ἀκμὴν ἐκεῖνος ἐνσκευάζετο.
+– ἀκμὴν ἐκεῖνος ἐνσκευάζετο.
 
 ### book 716
 
@@ -6152,7 +6152,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 747
 
-† δεινῶς ... οὐ πρᾶγμα νύμφης λέγεις.
+δεινῶς ... οὐ πρᾶγμα νύμφης λέγεις.
 
 ### book 748
 
@@ -6208,7 +6208,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 755
 
-† ἵν’ οὐχ ἑαυτῷ παρετράφην ἀλλὰ σοί.
+ἵν’ οὐχ ἑαυτῷ παρετράφην ἀλλὰ σοί.
 
 ### book 756.1
 
@@ -6272,7 +6272,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 764
 
-† παλαιὸν ἐντραγεῖν.
+παλαιὸν ἐντραγεῖν.
 
 ### book 765
 
@@ -6556,7 +6556,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 932.1
 
-ὦ δέσποτ’ ἄναξ † ἔστι
+ὦ δέσποτ’ ἄναξ ἔστι
 
 ### book 932.2
 
@@ -6644,11 +6644,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 948
 
-Γέ]τα καὶ Παρμέ̣ν̣ω[ν ]ος ἐστι καὶ βαρύς.
+Γέ]τα καὶ Παρμένω[ν ]ος ἐστι καὶ βαρύς.
 
 ### book 949
 
-πάν̣δ̣εινά το̣[ι πέπονθα
+πάνδεινά το[ι πέπονθα
 
 ### book 950.1
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἑλληνικῆς Τοπωνυ
 author: Teucer of Cyzicus
 eul_wid: myo-aa
 eul_aid: myo
-canonical: "https://eulogikon.org/grc/teucer-of-cyzicus/greek-toponymy"
+canonical: "https://eulogikon.org/works/teucer-cyzicus-greek-toponymy-myo-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Teucer of Cyzicus
 
-**eul_wid:** `myo-aa` · [HTML page](https://eulogikon.org/grc/teucer-of-cyzicus/greek-toponymy)
+**eul_wid:** `myo-aa` · [HTML page](https://eulogikon.org/works/teucer-cyzicus-greek-toponymy-myo-aa)
 
 ## Text
 

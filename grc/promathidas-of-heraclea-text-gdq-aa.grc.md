@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Promathidas of Heraclea
 eul_wid: gdq-aa
 eul_aid: gdq
-canonical: "https://eulogikon.org/grc/promathidas-of-heraclea/text"
+canonical: "https://eulogikon.org/works/promathidas-heraclea-text-gdq-aa"
 period: Classical
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Promathidas of Heraclea
 
-**eul_wid:** `gdq-aa` · [HTML page](https://eulogikon.org/grc/promathidas-of-heraclea/text)
+**eul_wid:** `gdq-aa` · [HTML page](https://eulogikon.org/works/promathidas-heraclea-text-gdq-aa)
 
 ## Text
 

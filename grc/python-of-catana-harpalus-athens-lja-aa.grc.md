@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἁρπάλου καὶ Ἀθην
 author: Python of Catana
 eul_wid: lja-aa
 eul_aid: lja
-canonical: "https://eulogikon.org/grc/python-of-catana/harpalus-athens"
+canonical: "https://eulogikon.org/works/python-catana-harpalus-athens-lja-aa"
 period: Hellenistic
 dialect: "Attic (dr, frg)"
 domain: Drama
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Python of Catana
 
-**eul_wid:** `lja-aa` · [HTML page](https://eulogikon.org/grc/python-of-catana/harpalus-athens)
+**eul_wid:** `lja-aa` · [HTML page](https://eulogikon.org/works/python-catana-harpalus-athens-lja-aa)
 
 ## Text
 
 ### book 1.1
 
-[ln_1]ἔστιν δ’ ὅπου μὲν ὁ κάλαμος πέφυχ’ ὅδε †φέτωμ’ ἄορνον, οὑξ ἀριστερᾶς δ’ ὅδε πόρνης ὁ κλεινὸς ναός, ὃν δὴ Παλλίδης
+[ln_1]ἔστιν δ’ ὅπου μὲν ὁ κάλαμος πέφυχ’ ὅδε φέτωμ’ ἄορνον, οὑξ ἀριστερᾶς δ’ ὅδε πόρνης ὁ κλεινὸς ναός, ὃν δὴ Παλλίδης
 
 ### book 1.2
 
@@ -56,7 +56,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1
 
-[ln_10][spk_β]τίνες τύχαι †καλοῦσιν ἢ πράττουσι τί. 〈Β〉 ὅτε μὲν ἔφασκον δοῦλον ἐκτῆσθαι βίον, ἱκανὸν ἐδείπνουν· νῦν δὲ τὸν χέδροπα μόνον καὶ τὸν μάραθον ἔσθουσι, πυροὺς δ’ οὐ μάλα. 〈Α〉 καὶ μὴν ἀκούω μυριάδας τὸν Ἅρπαλον[ln_15]αὐτοῖσι τῶν Ἀγῆνος οὐκ ἐλάττονας σίτου διαπέμψαι καὶ πολίτην γεγονέναι. 〈Β〉 Γλυκέρας ὁ σῖτος οὗτος ἦν, ἔσται δ’ ἴσως αὐτοῖσιν ὀλέθρου κοὐχ ἑταίρας ἀρραβών
+[ln_10][spk_β]τίνες τύχαι καλοῦσιν ἢ πράττουσι τί. 〈Β〉 ὅτε μὲν ἔφασκον δοῦλον ἐκτῆσθαι βίον, ἱκανὸν ἐδείπνουν· νῦν δὲ τὸν χέδροπα μόνον καὶ τὸν μάραθον ἔσθουσι, πυροὺς δ’ οὐ μάλα. 〈Α〉 καὶ μὴν ἀκούω μυριάδας τὸν Ἅρπαλον[ln_15]αὐτοῖσι τῶν Ἀγῆνος οὐκ ἐλάττονας σίτου διαπέμψαι καὶ πολίτην γεγονέναι. 〈Β〉 Γλυκέρας ὁ σῖτος οὗτος ἦν, ἔσται δ’ ἴσως αὐτοῖσιν ὀλέθρου κοὐχ ἑταίρας ἀρραβών
 
 ## License and provenance
 

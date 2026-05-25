@@ -4,7 +4,7 @@ title_greek: Μένιππος ἢ Νεκυομαντεία
 author: Lucian of Samosata
 eul_wid: pfk-aj
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/menippus-necromancy"
+canonical: "https://eulogikon.org/works/lucian-samosata-menippus-necromancy-pfk-aj"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-aj` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/menippus-necromancy)
+**eul_wid:** `pfk-aj` · [HTML page](https://eulogikon.org/works/lucian-samosata-menippus-necromancy-pfk-aj)
 
 ## Text
 

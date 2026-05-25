@@ -4,7 +4,7 @@ title_greek: Ἐγκώμιον Πατρίδος
 author: Lucian of Samosata
 eul_wid: pfk-ai
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/encom-fatherland"
+canonical: "https://eulogikon.org/works/lucian-samosata-encom-fatherland-pfk-ai"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-ai` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/encom-fatherland)
+**eul_wid:** `pfk-ai` · [HTML page](https://eulogikon.org/works/lucian-samosata-encom-fatherland-pfk-ai)
 
 ## Text
 

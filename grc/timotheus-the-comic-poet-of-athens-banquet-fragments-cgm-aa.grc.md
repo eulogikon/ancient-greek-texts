@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Συμποσίου
 author: Timotheus the Comic Poet of Athens
 eul_wid: cgm-aa
 eul_aid: cgm
-canonical: "https://eulogikon.org/grc/timotheus-the-comic-poet-of-athens/banquet-fragments"
+canonical: "https://eulogikon.org/works/timotheus-athens-banquet-fragments-cgm-aa"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Timotheus the Comic Poet of Athens
 
-**eul_wid:** `cgm-aa` · [HTML page](https://eulogikon.org/grc/timotheus-the-comic-poet-of-athens/banquet-fragments)
+**eul_wid:** `cgm-aa` · [HTML page](https://eulogikon.org/works/timotheus-athens-banquet-fragments-cgm-aa)
 
 ## Text
 

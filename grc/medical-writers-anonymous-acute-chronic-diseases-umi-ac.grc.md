@@ -4,7 +4,7 @@ title_greek: Διάγνωσις περὶ τῶν ὀξέων καὶ χρονί
 author: Medical Writers Anonymous
 eul_wid: umi-ac
 eul_aid: umi
-canonical: "https://eulogikon.org/grc/medical-writers-anonymous/acute-chronic-diseases"
+canonical: "https://eulogikon.org/works/med-writers-anon-acute-chronic-diseases-umi-ac"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Medical Writers Anonymous
 
-**eul_wid:** `umi-ac` · [HTML page](https://eulogikon.org/grc/medical-writers-anonymous/acute-chronic-diseases)
+**eul_wid:** `umi-ac` · [HTML page](https://eulogikon.org/works/med-writers-anon-acute-chronic-diseases-umi-ac)
 
 ## Text
 

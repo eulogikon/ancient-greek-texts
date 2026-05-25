@@ -4,7 +4,7 @@ title_greek: Περὶ Γενέσεως
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-by
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/birth"
+canonical: "https://eulogikon.org/works/hippocrates-birth-bww-by"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-by` · [HTML page](https://eulogikon.org/grc/hippocrates/birth)
+**eul_wid:** `bww-by` · [HTML page](https://eulogikon.org/works/hippocrates-birth-bww-by)
 
 ## Text
 

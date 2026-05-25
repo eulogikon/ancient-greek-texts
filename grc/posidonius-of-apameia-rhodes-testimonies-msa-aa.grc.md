@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Posidonius of Apameia and Rhodes
 eul_wid: msa-aa
 eul_aid: msa
-canonical: "https://eulogikon.org/grc/posidonius-of-apameia-rhodes/testimonies"
+canonical: "https://eulogikon.org/works/posidonius-apameia-rhodes-testimonies-msa-aa"
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Posidonius of Apameia and Rhodes
 
-**eul_wid:** `msa-aa` · [HTML page](https://eulogikon.org/grc/posidonius-of-apameia-rhodes/testimonies)
+**eul_wid:** `msa-aa` · [HTML page](https://eulogikon.org/works/posidonius-apameia-rhodes-testimonies-msa-aa)
 
 ## Text
 
@@ -104,7 +104,7 @@ STRABON VIII 1, 1: οἱ δ’ ἐν τῆι κοινῆι τῆς ἱστορί
 
 ### 1052 002.2a,87,T.16
 
-—X 3, 5: (Ephoros 70 T 18 a) ἡμεῖς δέ, φησί (sc. ὁ Πολύβιος), τὰ νῦν ὄντα δηλώσομεν καὶ περὶ θέσεως τόπων καὶ διαστημάτων· τοῦτο γάρ ἐστιν οἰκειότατον χωρογραφίαι. ἀλλὰ μὴν σύ γε, ὦ Πολύβιε, ὁ τὰς λαοδογματικὰς ἀποφάσεις περὶ τῶν διαστημάτων εἰσάγων οὐκ ἐν τοῖς ἔξω τῆς Ἑλλάδος μόνον, ἀλλὰ καὶ ἐν τοῖς Ἑλληνικοῖς † καὶ διαδοὺς εὐθύνας τὰς μὲν Ποσειδωνίωι, τὰς δ’ Ἀρτεμιδώρωι, τὰς δ’ ἄλλοις πλείοσι.
+—X 3, 5: (Ephoros 70 T 18 a) ἡμεῖς δέ, φησί (sc. ὁ Πολύβιος), τὰ νῦν ὄντα δηλώσομεν καὶ περὶ θέσεως τόπων καὶ διαστημάτων· τοῦτο γάρ ἐστιν οἰκειότατον χωρογραφίαι. ἀλλὰ μὴν σύ γε, ὦ Πολύβιε, ὁ τὰς λαοδογματικὰς ἀποφάσεις περὶ τῶν διαστημάτων εἰσάγων οὐκ ἐν τοῖς ἔξω τῆς Ἑλλάδος μόνον, ἀλλὰ καὶ ἐν τοῖς Ἑλληνικοῖς καὶ διαδοὺς εὐθύνας τὰς μὲν Ποσειδωνίωι, τὰς δ’ Ἀρτεμιδώρωι, τὰς δ’ ἄλλοις πλείοσι.
 
 ### 1052 002.2a,87,T.17a
 

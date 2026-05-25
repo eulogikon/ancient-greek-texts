@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Poliochus the Comic Poet
 eul_wid: cfi-aa
 eul_aid: cfi
-canonical: "https://eulogikon.org/grc/poliochus-the-comic-poet/simple-life"
+canonical: "https://eulogikon.org/works/poliochus-simple-life-cfi-aa"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Poliochus the Comic Poet
 
-**eul_wid:** `cfi-aa` · [HTML page](https://eulogikon.org/grc/poliochus-the-comic-poet/simple-life)
+**eul_wid:** `cfi-aa` · [HTML page](https://eulogikon.org/works/poliochus-simple-life-cfi-aa)
 
 ## Text
 

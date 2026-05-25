@@ -4,7 +4,7 @@ title_greek: Λεξικὸν (Π—Ω)
 author: Hesychius the Alexandrian
 eul_wid: taq-ac
 eul_aid: taq
-canonical: "https://eulogikon.org/grc/hesychius-of-alexandria/lexicon-ac"
+canonical: "https://eulogikon.org/works/hesychius-alexandria-lexicon-taq-ac"
 period: Late Antique
 dialect: Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hesychius the Alexandrian
 
-**eul_wid:** `taq-ac` · [HTML page](https://eulogikon.org/grc/hesychius-of-alexandria/lexicon-ac)
+**eul_wid:** `taq-ac` · [HTML page](https://eulogikon.org/works/hesychius-alexandria-lexicon-taq-ac)
 
 ## Text
 

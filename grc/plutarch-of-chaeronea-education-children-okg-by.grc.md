@@ -4,7 +4,7 @@ title_greek: Περὶ παίδων ἀγωγῆς
 author: Plutarch of Chaeronea
 eul_wid: okg-by
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/education-children"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-education-children-okg-by"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-by` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/education-children)
+**eul_wid:** `okg-by` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-education-children-okg-by)
 
 ## Text
 

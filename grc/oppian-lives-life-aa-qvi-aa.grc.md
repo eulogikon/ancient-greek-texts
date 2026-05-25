@@ -4,7 +4,7 @@ title_greek: Βίος Ὀππιανοῦ Ἀναζαρβοῦ
 author: Oppian Lives
 eul_wid: qvi-aa
 eul_aid: qvi
-canonical: "https://eulogikon.org/grc/oppian-lives/life-aa"
+canonical: "https://eulogikon.org/works/oppian-life-qvi-aa"
 period: Roman
 dialect: Mixed Dialects
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Oppian Lives
 
-**eul_wid:** `qvi-aa` · [HTML page](https://eulogikon.org/grc/oppian-lives/life-aa)
+**eul_wid:** `qvi-aa` · [HTML page](https://eulogikon.org/works/oppian-life-qvi-aa)
 
 ## Text
 

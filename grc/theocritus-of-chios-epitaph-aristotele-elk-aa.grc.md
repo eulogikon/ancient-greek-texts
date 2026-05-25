@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Theocritus of Chios
 eul_wid: elk-aa
 eul_aid: elk
-canonical: "https://eulogikon.org/grc/theocritus-of-chios/epitaph-aristotele"
+canonical: "https://eulogikon.org/works/theocritus-chios-epitaph-aristotele-elk-aa"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theocritus of Chios
 
-**eul_wid:** `elk-aa` · [HTML page](https://eulogikon.org/grc/theocritus-of-chios/epitaph-aristotele)
+**eul_wid:** `elk-aa` · [HTML page](https://eulogikon.org/works/theocritus-chios-epitaph-aristotele-elk-aa)
 
 ## Text
 
 ### 1
 
-[δούλου Ἑρμίο ⸤ υ ⸥ εὐ ⸤ νούχου τ ⸥ ε καὶ ⸤ Εὐβούλου τόδε ⸥ μνῆμα κ ⸤ ενὸν ⸥ κενό ⸤ φρων θῆκεν Ἀριστο ⸥ τέλης· ὃς διὰ τὴν ἀκρατῆ ⸤ γα ⸥ στρὸς ⸤ φύσιν εἵλετο ναί ⸥ ειν ἀ ⸤ ντ’ Ἀ ⸥ καδημείας Βορβ ⸤ όρου ἐν προχοαῖσ ⸥ .
+[δούλου Ἑρμίο υ εὐ νούχου τ ε καὶ Εὐβούλου τόδε μνῆμα κ ενὸν κενό φρων θῆκεν Ἀριστο τέλης· ὃς διὰ τὴν ἀκρατῆ γα στρὸς φύσιν εἵλετο ναί ειν ἀ ντ’ Ἀ καδημείας Βορβ όρου ἐν προχοαῖσ .
 
 ## License and provenance
 

@@ -4,7 +4,7 @@ title_greek: Μονόβιβλον περὶ τοῦ ὕδωρ
 author: Herodian of Alexandria
 eul_wid: qnq-av
 eul_aid: qnq
-canonical: "https://eulogikon.org/grc/herodian-of-alexandria/single-book"
+canonical: "https://eulogikon.org/works/herodian-alexandria-single-book-qnq-av"
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Herodian of Alexandria
 
-**eul_wid:** `qnq-av` · [HTML page](https://eulogikon.org/grc/herodian-of-alexandria/single-book)
+**eul_wid:** `qnq-av` · [HTML page](https://eulogikon.org/works/herodian-alexandria-single-book-qnq-av)
 
 ## Text
 

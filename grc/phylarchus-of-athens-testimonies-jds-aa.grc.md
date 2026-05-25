@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Phylarchus of Athens
 eul_wid: jds-aa
 eul_aid: jds
-canonical: "https://eulogikon.org/grc/phylarchus-of-athens/testimonies"
+canonical: "https://eulogikon.org/works/phylarchus-athens-testimonies-jds-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Phylarchus of Athens
 
-**eul_wid:** `jds-aa` · [HTML page](https://eulogikon.org/grc/phylarchus-of-athens/testimonies)
+**eul_wid:** `jds-aa` · [HTML page](https://eulogikon.org/works/phylarchus-athens-testimonies-jds-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Perictione I Mother of Plato
 eul_wid: cqm-aa
 eul_aid: cqm
-canonical: "https://eulogikon.org/grc/perictione-i-mother-of-plato/harmony-women"
+canonical: "https://eulogikon.org/works/perictione-harmony-women-cqm-aa"
 period: Classical
 dialect: Ionic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Perictione I Mother of Plato
 
-**eul_wid:** `cqm-aa` · [HTML page](https://eulogikon.org/grc/perictione-i-mother-of-plato/harmony-women)
+**eul_wid:** `cqm-aa` · [HTML page](https://eulogikon.org/works/perictione-harmony-women-cqm-aa)
 
 ## Text
 

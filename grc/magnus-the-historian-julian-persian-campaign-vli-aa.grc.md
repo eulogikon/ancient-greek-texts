@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Magnus the Historian
 eul_wid: vli-aa
 eul_aid: vli
-canonical: "https://eulogikon.org/grc/magnus-the-historian/julian-persian-campaign"
+canonical: "https://eulogikon.org/works/magnus-julian-persian-campaign-vli-aa"
 period: Late Antique
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Magnus the Historian
 
-**eul_wid:** `vli-aa` · [HTML page](https://eulogikon.org/grc/magnus-the-historian/julian-persian-campaign)
+**eul_wid:** `vli-aa` · [HTML page](https://eulogikon.org/works/magnus-julian-persian-campaign-vli-aa)
 
 ## Text
 

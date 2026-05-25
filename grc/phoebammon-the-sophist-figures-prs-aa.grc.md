@@ -4,7 +4,7 @@ title_greek: Περὶ Σχημάτων
 author: Phoebammon the Sophist
 eul_wid: prs-aa
 eul_aid: prs
-canonical: "https://eulogikon.org/grc/phoebammon-the-sophist/figures"
+canonical: "https://eulogikon.org/works/phoebammon-figures-prs-aa"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Phoebammon the Sophist
 
-**eul_wid:** `prs-aa` · [HTML page](https://eulogikon.org/grc/phoebammon-the-sophist/figures)
+**eul_wid:** `prs-aa` · [HTML page](https://eulogikon.org/works/phoebammon-figures-prs-aa)
 
 ## Text
 

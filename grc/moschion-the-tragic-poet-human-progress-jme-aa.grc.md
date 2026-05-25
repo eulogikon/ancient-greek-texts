@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Προκοπῆς Ἀνθρώπω
 author: Moschion the Tragic Poet
 eul_wid: jme-aa
 eul_aid: jme
-canonical: "https://eulogikon.org/grc/moschion-the-tragic-poet/human-progress"
+canonical: "https://eulogikon.org/works/moschion-human-progress-jme-aa"
 period: Hellenistic
 dialect: Atticizing
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Moschion the Tragic Poet
 
-**eul_wid:** `jme-aa` · [HTML page](https://eulogikon.org/grc/moschion-the-tragic-poet/human-progress)
+**eul_wid:** `jme-aa` · [HTML page](https://eulogikon.org/works/moschion-human-progress-jme-aa)
 
 ## Text
 
@@ -88,7 +88,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 6.5
 
-τροφός, οὐδ’ ἐργάτης σίδηρος εὐιώτιδος θάλλοντας οἴνης ὀρχάτους ἐτημέλει, ἀλλ’ ἦν ἀκύμων †κωφεύουσα ῥέουσα γῆ. βοραὶ δὲ σαρκοβρῶτες ἀλληλοκτόνους[ln_15]παρεῖχον αὐτοῖς δαῖτας· ἦν δ’ ὁ μὲν νόμος
+τροφός, οὐδ’ ἐργάτης σίδηρος εὐιώτιδος θάλλοντας οἴνης ὀρχάτους ἐτημέλει, ἀλλ’ ἦν ἀκύμων κωφεύουσα ῥέουσα γῆ. βοραὶ δὲ σαρκοβρῶτες ἀλληλοκτόνους[ln_15]παρεῖχον αὐτοῖς δαῖτας· ἦν δ’ ὁ μὲν νόμος
 
 ### book 6.6
 
@@ -184,7 +184,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 12
 
-ὦ μοῖρα δυσπάλαιστος ἀνθρώπ[οις ⏑–
+ὦ μοῖρα δυσπάλαιστος ἀνθρώπ[οις –
 
 ## License and provenance
 

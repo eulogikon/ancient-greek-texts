@@ -4,7 +4,7 @@ title_greek: Σχόλια εἰς Εὐριπίδου Ἑκάβην
 author: Xenophon Scholia
 eul_wid: cto-ah
 eul_aid: cto
-canonical: "https://eulogikon.org/grc/xenophon-scholia/hecuba"
+canonical: "https://eulogikon.org/works/xenophon-scholia-hecuba-cto-ah"
 period: Classical
 dialect: Mixed Dialects
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Xenophon Scholia
 
-**eul_wid:** `cto-ah` · [HTML page](https://eulogikon.org/grc/xenophon-scholia/hecuba)
+**eul_wid:** `cto-ah` · [HTML page](https://eulogikon.org/works/xenophon-scholia-hecuba-cto-ah)
 
 ## Text
 

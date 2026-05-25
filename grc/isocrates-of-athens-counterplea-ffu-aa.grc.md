@@ -4,7 +4,7 @@ title_greek: παράγραφος προς καλλίμαχον
 author: Isocrates of Athens
 eul_wid: ffu-aa
 eul_aid: ffu
-canonical: "https://eulogikon.org/grc/isocrates-of-athens/counterplea"
+canonical: "https://eulogikon.org/works/isocrates-athens-counterplea-ffu-aa"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Isocrates of Athens
 
-**eul_wid:** `ffu-aa` · [HTML page](https://eulogikon.org/grc/isocrates-of-athens/counterplea)
+**eul_wid:** `ffu-aa` · [HTML page](https://eulogikon.org/works/isocrates-athens-counterplea-ffu-aa)
 
 ## Text
 

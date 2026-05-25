@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Menestor the Philosopher
 eul_wid: cik-aa
 eul_aid: cik
-canonical: "https://eulogikon.org/grc/menestor-the-philosopher/testimonies"
+canonical: "https://eulogikon.org/works/menestor-testimonies-cik-aa"
 period: Classical
 dialect: "Attic (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menestor the Philosopher
 
-**eul_wid:** `cik-aa` · [HTML page](https://eulogikon.org/grc/menestor-the-philosopher/testimonies)
+**eul_wid:** `cik-aa` · [HTML page](https://eulogikon.org/works/menestor-testimonies-cik-aa)
 
 ## Text
 

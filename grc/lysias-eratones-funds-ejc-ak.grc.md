@@ -4,7 +4,7 @@ title_greek: "περὶ τῶν Ἐράτωνος χρημάτων: πρὸς τ
 author: Lysias the Orator
 eul_wid: ejc-ak
 eul_aid: ejc
-canonical: "https://eulogikon.org/grc/lysias/eratones-funds"
+canonical: "https://eulogikon.org/works/lysias-eratones-funds-ejc-ak"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lysias the Orator
 
-**eul_wid:** `ejc-ak` · [HTML page](https://eulogikon.org/grc/lysias/eratones-funds)
+**eul_wid:** `ejc-ak` · [HTML page](https://eulogikon.org/works/lysias-eratones-funds-ejc-ak)
 
 ## Text
 

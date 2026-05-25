@@ -4,7 +4,7 @@ title_greek: Βίοι Σοφιστῶν
 author: Philostratus the Athenian
 eul_wid: rfi-ab
 eul_aid: rfi
-canonical: "https://eulogikon.org/grc/philostratus-the-athenian/lives-sophists"
+canonical: "https://eulogikon.org/works/philostratus-athens-lives-sophists-rfi-ab"
 period: Roman
 dialect: Atticizing Literary
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philostratus the Athenian
 
-**eul_wid:** `rfi-ab` · [HTML page](https://eulogikon.org/grc/philostratus-the-athenian/lives-sophists)
+**eul_wid:** `rfi-ab` · [HTML page](https://eulogikon.org/works/philostratus-athens-lives-sophists-rfi-ab)
 
 ## Text
 

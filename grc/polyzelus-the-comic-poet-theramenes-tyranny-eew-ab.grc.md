@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Θηραμένους καὶ Τυ
 author: Polyzelus the Comic Poet
 eul_wid: eew-ab
 eul_aid: eew
-canonical: "https://eulogikon.org/grc/polyzelus-the-comic-poet/theramenes-tyranny"
+canonical: "https://eulogikon.org/works/polyzelus-theramenes-tyranny-eew-ab"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Polyzelus the Comic Poet
 
-**eul_wid:** `eew-ab` · [HTML page](https://eulogikon.org/grc/polyzelus-the-comic-poet/theramenes-tyranny)
+**eul_wid:** `eew-ab` · [HTML page](https://eulogikon.org/works/polyzelus-theramenes-tyranny-eew-ab)
 
 ## Text
 

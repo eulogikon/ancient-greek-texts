@@ -4,7 +4,7 @@ title_greek: Φυσικὴ Διδασκαλία
 author: Proclus the Successor
 eul_wid: uqy-ao
 eul_aid: uqy
-canonical: "https://eulogikon.org/grc/proclus-the-successor/physical-instruction"
+canonical: "https://eulogikon.org/works/proclus-physical-instruction-uqy-ao"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Proclus the Successor
 
-**eul_wid:** `uqy-ao` · [HTML page](https://eulogikon.org/grc/proclus-the-successor/physical-instruction)
+**eul_wid:** `uqy-ao` · [HTML page](https://eulogikon.org/works/proclus-physical-instruction-uqy-ao)
 
 ## Text
 

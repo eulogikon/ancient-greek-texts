@@ -4,7 +4,7 @@ title_greek: Περὶ βαρβαρισμοῦ καὶ σολοικισμοῦ
 author: Polybius of Sardis
 eul_wid: nno-aa
 eul_aid: nno
-canonical: "https://eulogikon.org/grc/polybius-of-sardis/barbarism-solecism"
+canonical: "https://eulogikon.org/works/polybius-sardis-barbarism-solecism-nno-aa"
 period: Roman
 dialect: Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Polybius of Sardis
 
-**eul_wid:** `nno-aa` · [HTML page](https://eulogikon.org/grc/polybius-of-sardis/barbarism-solecism)
+**eul_wid:** `nno-aa` · [HTML page](https://eulogikon.org/works/polybius-sardis-barbarism-solecism-nno-aa)
 
 ## Text
 

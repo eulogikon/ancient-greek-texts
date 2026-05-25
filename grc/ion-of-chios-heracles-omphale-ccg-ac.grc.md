@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἡρακλέους καὶ Ὀμ
 author: Ion of Chios
 eul_wid: ccg-ac
 eul_aid: ccg
-canonical: "https://eulogikon.org/grc/ion-of-chios/heracles-omphale"
+canonical: "https://eulogikon.org/works/ion-chios-heracles-omphale-ccg-ac"
 period: Classical
 dialect: Ionic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ion of Chios
 
-**eul_wid:** `ccg-ac` · [HTML page](https://eulogikon.org/grc/ion-of-chios/heracles-omphale)
+**eul_wid:** `ccg-ac` · [HTML page](https://eulogikon.org/works/ion-chios-heracles-omphale-ccg-ac)
 
 ## Text
 
@@ -92,7 +92,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 9.2
 
-παλαιὸν †ακις σάρον
+παλαιὸν ακις σάρον
 
 ### book 9a
 
@@ -132,7 +132,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 16
 
-†μελαγχετ(ον)
+μελαγχετ(ον)
 
 ### book 17
 
@@ -152,7 +152,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 18.1
 
-Εὐβοῖδα μὲν γῆν λεπτὸς Εὐρίπου κλύδων †Βοιωτίας ἀκτῆς ἐχώρισεν ἐκτέμνων
+Εὐβοῖδα μὲν γῆν λεπτὸς Εὐρίπου κλύδων Βοιωτίας ἀκτῆς ἐχώρισεν ἐκτέμνων
 
 ### book 18.2
 
@@ -160,7 +160,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 18.3
 
-πορθμόν†
+πορθμόν
 
 ### book 19.1
 
@@ -248,7 +248,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 33a?.1
 
-[ φη]σὶ δὲ [περὶ [? Ὀμφάλ]ης Ἴων[ [ ]λ̣η̣ν
+[ φη]σὶ δὲ [περὶ [? Ὀμφάλ]ης Ἴων[ [ ]λην
 
 ### book 33a?.2
 
@@ -360,7 +360,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 43c.2
 
-παρεφόβησεν †ἅβρα
+παρεφόβησεν ἅβρα
 
 ### book 44
 
@@ -468,7 +468,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 54.1
 
-ἐξῆλθον †οἱ μωνῆται καί τ’ ἡμῶν† τροφός
+ἐξῆλθον οἱ μωνῆται καί τ’ ἡμῶν τροφός
 
 ### book 54.2
 

@@ -4,7 +4,7 @@ title_greek: κατὰ Διογείτονος
 author: Lysias the Orator
 eul_wid: ejc-bd
 eul_aid: ejc
-canonical: "https://eulogikon.org/grc/lysias/against-diogeiton"
+canonical: "https://eulogikon.org/works/lysias-against-diogeiton-ejc-bd"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lysias the Orator
 
-**eul_wid:** `ejc-bd` · [HTML page](https://eulogikon.org/grc/lysias/against-diogeiton)
+**eul_wid:** `ejc-bd` · [HTML page](https://eulogikon.org/works/lysias-against-diogeiton-ejc-bd)
 
 ## Text
 

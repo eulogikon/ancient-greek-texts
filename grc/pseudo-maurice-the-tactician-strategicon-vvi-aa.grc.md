@@ -4,7 +4,7 @@ title_greek: Στρατηγικόν
 author: Pseudo-Maurice the Tactician
 eul_wid: vvi-aa
 eul_aid: vvi
-canonical: "https://eulogikon.org/grc/pseudo-maurice-the-tactician/strategicon"
+canonical: "https://eulogikon.org/works/pseudo-maurice-strategicon-vvi-aa"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pseudo-Maurice the Tactician
 
-**eul_wid:** `vvi-aa` · [HTML page](https://eulogikon.org/grc/pseudo-maurice-the-tactician/strategicon)
+**eul_wid:** `vvi-aa` · [HTML page](https://eulogikon.org/works/pseudo-maurice-strategicon-vvi-aa)
 
 ## Text
 
@@ -580,7 +580,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 3 5 t
 
-Πῶς δεῖ γυμνάζειν αὐτό; Τοῦ βάνδου συντεταγμένως ἱσταμένου δεῖ τὸν μανδάτορα παραγγέλλειν οὕτως· Silention! Nemo demittat, nemo anteceda bandum 〈,donec sequis inimicum〉! Si venias e recta facie, bandum capta! Ipso seque cum bando! Milix, talis est comodu miles barbatu! Si vero bandum demittes, eo modu non servies! Serva, milix, ordinem † pos deum ipsa te †! Serva et tu, bandifer, sive pugnas, sive seque inimicum! Si venias e recta facie, non forte minare, ut nec sparges tu suum ordinem! Ἔστι δὲ καὶ ἡ καθ’ ἑαυτὴν τοῦ τάγματος γυμνασία αὕτη· κινεῖν καὶ ἵστασθαι σημείῳ ἢ συντεταγμένως ἢ ἀπὸ δρόμου.
+Πῶς δεῖ γυμνάζειν αὐτό; Τοῦ βάνδου συντεταγμένως ἱσταμένου δεῖ τὸν μανδάτορα παραγγέλλειν οὕτως· Silention! Nemo demittat, nemo anteceda bandum 〈,donec sequis inimicum〉! Si venias e recta facie, bandum capta! Ipso seque cum bando! Milix, talis est comodu miles barbatu! Si vero bandum demittes, eo modu non servies! Serva, milix, ordinem pos deum ipsa te ! Serva et tu, bandifer, sive pugnas, sive seque inimicum! Si venias e recta facie, non forte minare, ut nec sparges tu suum ordinem! Ἔστι δὲ καὶ ἡ καθ’ ἑαυτὴν τοῦ τάγματος γυμνασία αὕτη· κινεῖν καὶ ἵστασθαι σημείῳ ἢ συντεταγμένως ἢ ἀπὸ δρόμου.
 
 ### 3 5 2
 
@@ -1508,7 +1508,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 8 2 84
 
-Μὴ προπετῶς δὲ χωρείτω κατὰ τῶν πολεμίων, μή τι παθῶν ἀθρόως συναπωλέσῃ τὸ στράτευμα. Ἐχομένῳ λόγῳ τὸν στρατηγὸν καὶ πανηγυρίζειν κατὰ τῶν πολεμίων, τοῖς ἡμετέροις πειθόμενος, μή ποτε τοίνυν ἡμᾶς † καταλίπητε ἐξ ἑτέρων ἑτέρους συμπλέκοντες καὶ τοῖς ἡμετέροις κοσμοῦντες δωρήμασιν.
+Μὴ προπετῶς δὲ χωρείτω κατὰ τῶν πολεμίων, μή τι παθῶν ἀθρόως συναπωλέσῃ τὸ στράτευμα. Ἐχομένῳ λόγῳ τὸν στρατηγὸν καὶ πανηγυρίζειν κατὰ τῶν πολεμίων, τοῖς ἡμετέροις πειθόμενος, μή ποτε τοίνυν ἡμᾶς καταλίπητε ἐξ ἑτέρων ἑτέρους συμπλέκοντες καὶ τοῖς ἡμετέροις κοσμοῦντες δωρήμασιν.
 
 ### 9 pin t
 

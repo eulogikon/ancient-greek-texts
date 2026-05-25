@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Xenagoras the Historian
 eul_wid: mhg-aa
 eul_aid: mhg
-canonical: "https://eulogikon.org/grc/xenagoras-the-historian/chronological-fragments"
+canonical: "https://eulogikon.org/works/xenagoras-chronological-fragments-mhg-aa"
 period: Hellenistic
 dialect: Koine
 domain: Geography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Xenagoras the Historian
 
-**eul_wid:** `mhg-aa` · [HTML page](https://eulogikon.org/grc/xenagoras-the-historian/chronological-fragments)
+**eul_wid:** `mhg-aa` · [HTML page](https://eulogikon.org/works/xenagoras-chronological-fragments-mhg-aa)
 
 ## Text
 

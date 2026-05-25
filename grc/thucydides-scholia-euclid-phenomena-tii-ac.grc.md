@@ -4,7 +4,7 @@ title_greek: Σχόλια εἰς Εὐκλείδου Φαινόμενα
 author: Thucydides Scholia
 eul_wid: tii-ac
 eul_aid: tii
-canonical: "https://eulogikon.org/grc/thucydides-scholia/euclid-phenomena"
+canonical: "https://eulogikon.org/works/thuc-scholia-euclid-phenomena-tii-ac"
 period: Late Antique
 dialect: Byzantine Technical
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Thucydides Scholia
 
-**eul_wid:** `tii-ac` · [HTML page](https://eulogikon.org/grc/thucydides-scholia/euclid-phenomena)
+**eul_wid:** `tii-ac` · [HTML page](https://eulogikon.org/works/thuc-scholia-euclid-phenomena-tii-ac)
 
 ## Text
 

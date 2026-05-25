@@ -4,7 +4,7 @@ title_greek: Σχόλια εἰς Παιᾶνας
 author: Pindar Commentary
 eul_wid: ppu-ae
 eul_aid: ppu
-canonical: "https://eulogikon.org/grc/pindar-scholia/scholia-paeans"
+canonical: "https://eulogikon.org/works/pindar-comm-scholia-paeans-ppu-ae"
 period: Roman
 dialect: Atticizing
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pindar Commentary
 
-**eul_wid:** `ppu-ae` · [HTML page](https://eulogikon.org/grc/pindar-scholia/scholia-paeans)
+**eul_wid:** `ppu-ae` · [HTML page](https://eulogikon.org/works/pindar-comm-scholia-paeans-ppu-ae)
 
 ## Text
 
@@ -324,11 +324,11 @@ schol. verstümmelt
 
 ### book 181
 
-Ἀρ(ιστοφά)ν(ης?) κ̣[...]|ο̣ιτ̣[...]
+Ἀρ(ιστοφά)ν(ης?) κ[...]|οιτ[...]
 
 ### book 182f
 
-τῶν ἀπὸ τῶν ἐ[νδί]κ̣ων (wenn κ richtig gelesen) und Ζη(νόδοτος) ἐν̣ν̣όμων̣ wo G—H ειλ̣ι̣ομα̣ν lasen
+τῶν ἀπὸ τῶν ἐ[νδί]κων (wenn κ richtig gelesen) und Ζη(νόδοτος) ἐννόμων wo G—H ειλιομαν lasen
 
 ### book 2
 

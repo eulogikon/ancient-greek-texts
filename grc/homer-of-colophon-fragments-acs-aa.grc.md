@@ -4,7 +4,7 @@ title_greek: Μαργίτου Ἀποσπάσματα
 author: Homer of Colophon
 eul_wid: acs-aa
 eul_aid: acs
-canonical: "https://eulogikon.org/grc/homer-of-colophon/fragments"
+canonical: "https://eulogikon.org/works/homer-colophon-fragments-acs-aa"
 period: Archaic
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Homer of Colophon
 
-**eul_wid:** `acs-aa` · [HTML page](https://eulogikon.org/grc/homer-of-colophon/fragments)
+**eul_wid:** `acs-aa` · [HTML page](https://eulogikon.org/works/homer-colophon-fragments-acs-aa)
 
 ## Text
 
@@ -52,15 +52,15 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 7.1
 
-[ ].σ̣τιν[, χ]ειρὶ δὲ μακρ̣ῆι [ ]τ̣εύχεα̣, [κ]αί ῥα ἔλασσε [ ἐν π]όνοι[σι]ν εἴχετο [ ]ν· ἐν δὲ [τ]͜ῆι ἀ͜μίδι[ln_5][ ]ἐξελεῖν δ’ ἀμήχανον [ κ]αί̣ ῥ’ ἐ̣ν̣ώμειξεν
+[ ].στιν[, χ]ειρὶ δὲ μακρῆι [ ]τεύχεα, [κ]αί ῥα ἔλασσε [ ἐν π]όνοι[σι]ν εἴχετο [ ]ν· ἐν δὲ [τ]͜ῆι ἀ͜μίδι[ln_5][ ]ἐξελεῖν δ’ ἀμήχανον [ κ]αί ῥ’ ἐνώμειξεν
 
 ### book 7.2
 
-ταχύ [ ]κ[...]ην ἐφράσσατο μῆτι̣[ν [ ἀνόρουσε ]λιπὼν ἄπο δέμνια [θερμά [ὤϊξε ]θύρας, ἐκ δ’ ἔδραμεν ἔξω[[ln_10][ ]ω̣ν διὰ νύκτα μέλα[ιναν [ ]ύσειε δὲ χεῖρα⟦σ⟧ [ δι]ὰ νύκτα μέλαιν[αν [ ]μ̣ενουδε
+ταχύ [ ]κ[...]ην ἐφράσσατο μῆτι[ν [ ἀνόρουσε ]λιπὼν ἄπο δέμνια [θερμά [ὤϊξε ]θύρας, ἐκ δ’ ἔδραμεν ἔξω[[ln_10][ ]ων διὰ νύκτα μέλα[ιναν [ ]ύσειε δὲ χεῖρα⟦σ⟧ [ δι]ὰ νύκτα μέλαιν[αν [ ]μενουδε
 
 ### book 7.3
 
-φαν̣ιο̣[ [ ]δύστηνον κα.[[ln_15][ ]εδόκεεν λιθ[ [ ]ω̣ι καὶ χειρὶ παχ[είηι [ έ]θηκεν ὀστρα[κ [ ].ρε[.].[.]μα[ [ ]κα[..].αυ[[ln_20][ ]σ̣[...]τ̣ω[ [ ]..κ[
+φανιο[ [ ]δύστηνον κα.[[ln_15][ ]εδόκεεν λιθ[ [ ]ωι καὶ χειρὶ παχ[είηι [ έ]θηκεν ὀστρα[κ [ ].ρε[.].[.]μα[ [ ]κα[..].αυ[[ln_20][ ]σ[...]τω[ [ ]..κ[
 
 ## License and provenance
 

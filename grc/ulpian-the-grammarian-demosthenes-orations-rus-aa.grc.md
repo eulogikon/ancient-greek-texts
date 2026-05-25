@@ -4,7 +4,7 @@ title_greek: Εἰσαγωγὴ εἰς τὰς Δημοσθένους Ὀλυν
 author: Ulpian the Grammarian
 eul_wid: rus-aa
 eul_aid: rus
-canonical: "https://eulogikon.org/grc/ulpian-the-grammarian/demosthenes-orations"
+canonical: "https://eulogikon.org/works/ulpian-demosthenes-orations-rus-aa"
 period: Roman
 dialect: Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ulpian the Grammarian
 
-**eul_wid:** `rus-aa` · [HTML page](https://eulogikon.org/grc/ulpian-the-grammarian/demosthenes-orations)
+**eul_wid:** `rus-aa` · [HTML page](https://eulogikon.org/works/ulpian-demosthenes-orations-rus-aa)
 
 ## Text
 

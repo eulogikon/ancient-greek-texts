@@ -4,7 +4,7 @@ title_greek: Μαρτυρία
 author: Sosigenes of Alexandria
 eul_wid: mto-aa
 eul_aid: mto
-canonical: "https://eulogikon.org/grc/sosigenes-of-alexandria/testimony"
+canonical: "https://eulogikon.org/works/sosigenes-alexandria-testimony-mto-aa"
 period: Hellenistic
 dialect: Technical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sosigenes of Alexandria
 
-**eul_wid:** `mto-aa` · [HTML page](https://eulogikon.org/grc/sosigenes-of-alexandria/testimony)
+**eul_wid:** `mto-aa` · [HTML page](https://eulogikon.org/works/sosigenes-alexandria-testimony-mto-aa)
 
 ## Text
 

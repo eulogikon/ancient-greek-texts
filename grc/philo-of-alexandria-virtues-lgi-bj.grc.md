@@ -4,7 +4,7 @@ title_greek: Περὶ Ἀρετῶν
 author: Philo of Alexandria
 eul_wid: lgi-bj
 eul_aid: lgi
-canonical: "https://eulogikon.org/grc/philo-of-alexandria/virtues"
+canonical: "https://eulogikon.org/works/philo-alexandria-virtues-lgi-bj"
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philo of Alexandria
 
-**eul_wid:** `lgi-bj` · [HTML page](https://eulogikon.org/grc/philo-of-alexandria/virtues)
+**eul_wid:** `lgi-bj` · [HTML page](https://eulogikon.org/works/philo-alexandria-virtues-lgi-bj)
 
 ## Text
 

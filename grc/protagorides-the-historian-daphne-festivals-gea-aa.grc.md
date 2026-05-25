@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Protagorides the Historian
 eul_wid: gea-aa
 eul_aid: gea
-canonical: "https://eulogikon.org/grc/protagorides-the-historian/daphne-festivals"
+canonical: "https://eulogikon.org/works/protagorides-daphne-festivals-gea-aa"
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Protagorides the Historian
 
-**eul_wid:** `gea-aa` · [HTML page](https://eulogikon.org/grc/protagorides-the-historian/daphne-festivals)
+**eul_wid:** `gea-aa` · [HTML page](https://eulogikon.org/works/protagorides-daphne-festivals-gea-aa)
 
 ## Text
 

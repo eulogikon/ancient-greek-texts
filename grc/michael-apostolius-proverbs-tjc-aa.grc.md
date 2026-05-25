@@ -4,7 +4,7 @@ title_greek: Συλλογὴ Παροιμιῶν
 author: Michael Apostolius the Proverb-Writer
 eul_wid: tjc-aa
 eul_aid: tjc
-canonical: "https://eulogikon.org/grc/michael-apostolius/proverbs"
+canonical: "https://eulogikon.org/works/apostolius-proverbs-tjc-aa"
 period: Late Antique
 dialect: Byzantine Greek
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Michael Apostolius the Proverb-Writer
 
-**eul_wid:** `tjc-aa` · [HTML page](https://eulogikon.org/grc/michael-apostolius/proverbs)
+**eul_wid:** `tjc-aa` · [HTML page](https://eulogikon.org/works/apostolius-proverbs-tjc-aa)
 
 ## Text
 

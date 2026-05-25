@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Staphylus of Naucratis
 eul_wid: rik-aa
 eul_aid: rik
-canonical: "https://eulogikon.org/grc/staphylus-of-naucratis/histories-myths"
+canonical: "https://eulogikon.org/works/staphylus-naucratis-histories-myths-rik-aa"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Staphylus of Naucratis
 
-**eul_wid:** `rik-aa` · [HTML page](https://eulogikon.org/grc/staphylus-of-naucratis/histories-myths)
+**eul_wid:** `rik-aa` · [HTML page](https://eulogikon.org/works/staphylus-naucratis-histories-myths-rik-aa)
 
 ## Text
 

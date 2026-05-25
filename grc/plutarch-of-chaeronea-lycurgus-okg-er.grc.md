@@ -4,7 +4,7 @@ title_greek: Λυκοῦργος
 author: Plutarch of Chaeronea
 eul_wid: okg-er
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/lycurgus"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-lycurgus-okg-er"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-er` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/lycurgus)
+**eul_wid:** `okg-er` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-lycurgus-okg-er)
 
 ## Text
 

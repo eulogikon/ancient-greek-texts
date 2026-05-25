@@ -4,7 +4,7 @@ title_greek: Μουσική
 author: Ptolemy of Alexandria
 eul_wid: phs-am
 eul_aid: phs
-canonical: "https://eulogikon.org/grc/ptolemy-of-alexandria/music"
+canonical: "https://eulogikon.org/works/ptolemy-alexandria-music-phs-am"
 period: Roman
 dialect: Technical Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ptolemy of Alexandria
 
-**eul_wid:** `phs-am` · [HTML page](https://eulogikon.org/grc/ptolemy-of-alexandria/music)
+**eul_wid:** `phs-am` · [HTML page](https://eulogikon.org/works/ptolemy-alexandria-music-phs-am)
 
 ## Text
 

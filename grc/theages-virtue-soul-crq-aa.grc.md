@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Theages
 eul_wid: crq-aa
 eul_aid: crq
-canonical: "https://eulogikon.org/grc/theages/virtue-soul"
+canonical: "https://eulogikon.org/works/theages-virtue-soul-crq-aa"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theages
 
-**eul_wid:** `crq-aa` · [HTML page](https://eulogikon.org/grc/theages/virtue-soul)
+**eul_wid:** `crq-aa` · [HTML page](https://eulogikon.org/works/theages-virtue-soul-crq-aa)
 
 ## Text
 

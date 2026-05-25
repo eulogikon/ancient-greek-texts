@@ -4,7 +4,7 @@ title_greek: Περὶ τόνου
 author: "Theodosius of Alexandria "
 eul_wid: vdq-ah
 eul_aid: vdq
-canonical: "https://eulogikon.org/grc/theodosius-of-alexandria/tone"
+canonical: "https://eulogikon.org/works/theodosius-alexandria-tone-vdq-ah"
 period: Late Antique
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theodosius of Alexandria 
 
-**eul_wid:** `vdq-ah` · [HTML page](https://eulogikon.org/grc/theodosius-of-alexandria/tone)
+**eul_wid:** `vdq-ah` · [HTML page](https://eulogikon.org/works/theodosius-alexandria-tone-vdq-ah)
 
 ## Text
 

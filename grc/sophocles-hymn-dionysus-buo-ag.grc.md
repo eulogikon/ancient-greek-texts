@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Sophocles
 eul_wid: buo-ag
 eul_aid: buo
-canonical: "https://eulogikon.org/grc/sophocles/hymn-dionysus"
+canonical: "https://eulogikon.org/works/sophocles-hymn-dionysus-buo-ag"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sophocles
 
-**eul_wid:** `buo-ag` · [HTML page](https://eulogikon.org/grc/sophocles/hymn-dionysus)
+**eul_wid:** `buo-ag` · [HTML page](https://eulogikon.org/works/sophocles-hymn-dionysus-buo-ag)
 
 ## Text
 
@@ -32,15 +32,15 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1b,i.2
 
-περιώνυμε μᾶτερ ἀλεξιπό[ν]ο[ιο] θεοῦ ₍.₎....].ς ἀκειρεκόμας.[.]ενάρξομα̣ι̣ [ὕμ]νον ἐγερσιβόαν ₍.₎.....]νεσι[.]ευεπ.[....].[...].[.]αν[...]οβοα [ ]συρίγμασι μιγνύ̣[μεν]ον[ln_5][]σι Κεκροπιδῶν [ἐπ]ιτάρροθον []. μόλοις
+περιώνυμε μᾶτερ ἀλεξιπό[ν]ο[ιο] θεοῦ ₍.₎....].ς ἀκειρεκόμας.[.]ενάρξομαι [ὕμ]νον ἐγερσιβόαν ₍.₎.....]νεσι[.]ευεπ.[....].[...].[.]αν[...]οβοα [ ]συρίγμασι μιγνύ[μεν]ον[ln_5][]σι Κεκροπιδῶν [ἐπ]ιτάρροθον []. μόλοις
 
 ### book 1b,i.3
 
-τον[.....]κομα[ []ν αὐτον̣[ ] [] [][ln_10][Ὀλύ]μπιον[ln_11-16](desunt vv. 6)[ln_17][]τερα ...
+τον[.....]κομα[ []ν αὐτον[ ] [] [][ln_10][Ὀλύ]μπιον[ln_11-16](desunt vv. 6)[ln_17][]τερα ...
 
 ### book 1b,ii
 
-...[ln_1]..[ πο[ εμ[ λυρ[[ln_5]ειλ[ κα̣τ̣[ δ[ ε[ ...
+...[ln_1]..[ πο[ εμ[ λυρ[[ln_5]ειλ[ κατ[ δ[ ε[ ...
 
 ## License and provenance
 

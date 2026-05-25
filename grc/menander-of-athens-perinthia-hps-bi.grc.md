@@ -4,7 +4,7 @@ title_greek: Περίνθια
 author: Menander of Athens
 eul_wid: hps-bi
 eul_aid: hps
-canonical: "https://eulogikon.org/grc/menander-of-athens/perinthia"
+canonical: "https://eulogikon.org/works/menander-athens-perinthia-hps-bi"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander of Athens
 
-**eul_wid:** `hps-bi` · [HTML page](https://eulogikon.org/grc/menander-of-athens/perinthia)
+**eul_wid:** `hps-bi` · [HTML page](https://eulogikon.org/works/menander-athens-perinthia-hps-bi)
 
 ## Text
 
@@ -48,7 +48,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 5.1
 
-σύν]δουλον ὄντα καὶ διασώσαι̣[τ’. ε]ὖ πάνυ
+σύν]δουλον ὄντα καὶ διασώσαι[τ’. ε]ὖ πάνυ
 
 ### 5.2
 
@@ -124,7 +124,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 16.3
 
-[ ]ο̣δ̣ων.
+[ ]οδων.
 
 ### 19
 
@@ -144,7 +144,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 20.3
 
-[ ]φερόμενος γὰρ κἀν κύκλωι [ ]ρ̣των τ’ ἐστὶ τὸ [
+[ ]φερόμενος γὰρ κἀν κύκλωι [ ]ρτων τ’ ἐστὶ τὸ [
 
 ## License and provenance
 

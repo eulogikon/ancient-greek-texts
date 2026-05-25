@@ -4,7 +4,7 @@ title_greek: Χρονικὸν ἢ Μέγα
 author: Pseudo-Sphrantzes
 eul_wid: tss-aa
 eul_aid: tss
-canonical: "https://eulogikon.org/grc/pseudo-sphrantzes/chronicle-additions"
+canonical: "https://eulogikon.org/works/pseudo-sphrantzes-chronicle-additions-tss-aa"
 period: Late Antique
 dialect: Byzantine Greek
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pseudo-Sphrantzes
 
-**eul_wid:** `tss-aa` · [HTML page](https://eulogikon.org/grc/pseudo-sphrantzes/chronicle-additions)
+**eul_wid:** `tss-aa` · [HTML page](https://eulogikon.org/works/pseudo-sphrantzes-chronicle-additions-tss-aa)
 
 ## Text
 

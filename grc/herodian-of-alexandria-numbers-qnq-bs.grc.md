@@ -4,7 +4,7 @@ title_greek: Περὶ ἀριθμῶν
 author: Herodian of Alexandria
 eul_wid: qnq-bs
 eul_aid: qnq
-canonical: "https://eulogikon.org/grc/herodian-of-alexandria/numbers"
+canonical: "https://eulogikon.org/works/herodian-alexandria-numbers-qnq-bs"
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Herodian of Alexandria
 
-**eul_wid:** `qnq-bs` · [HTML page](https://eulogikon.org/grc/herodian-of-alexandria/numbers)
+**eul_wid:** `qnq-bs` · [HTML page](https://eulogikon.org/works/herodian-alexandria-numbers-qnq-bs)
 
 ## Text
 

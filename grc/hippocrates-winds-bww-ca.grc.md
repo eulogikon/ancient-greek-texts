@@ -4,7 +4,7 @@ title_greek: Περὶ πνευμάτων
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-ca
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/winds"
+canonical: "https://eulogikon.org/works/hippocrates-winds-bww-ca"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-ca` · [HTML page](https://eulogikon.org/grc/hippocrates/winds)
+**eul_wid:** `bww-ca` · [HTML page](https://eulogikon.org/works/hippocrates-winds-bww-ca)
 
 ## Text
 

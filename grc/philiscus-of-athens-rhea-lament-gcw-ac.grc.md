@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Philiscus of Athens
 eul_wid: gcw-ac
 eul_aid: gcw
-canonical: "https://eulogikon.org/grc/philiscus-of-athens/rhea-lament"
+canonical: "https://eulogikon.org/works/philiscus-athens-rhea-lament-gcw-ac"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philiscus of Athens
 
-**eul_wid:** `gcw-ac` · [HTML page](https://eulogikon.org/grc/philiscus-of-athens/rhea-lament)
+**eul_wid:** `gcw-ac` · [HTML page](https://eulogikon.org/works/philiscus-athens-rhea-lament-gcw-ac)
 
 ## Text
 
 ### book 215.1
 
-[spk_(ῥεα)](ῬΕΑ) ‘τί οὖν ἐμοὶ τ̣ῶ̣ν̣ c̣[ῶν μέ]λει;‘ φαίη
+[spk_(ῥεα)](ῬΕΑ) ‘τί οὖν ἐμοὶ τῶν c[ῶν μέ]λει;‘ φαίη
 
 ### book 215.2
 

@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Thrasymachus of Chalcedon
 eul_wid: dvq-aa
 eul_aid: dvq
-canonical: "https://eulogikon.org/grc/thrasymachus-of-chalcedon/testimonies"
+canonical: "https://eulogikon.org/works/thrasymachus-chalcedon-testimonies-dvq-aa"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Thrasymachus of Chalcedon
 
-**eul_wid:** `dvq-aa` · [HTML page](https://eulogikon.org/grc/thrasymachus-of-chalcedon/testimonies)
+**eul_wid:** `dvq-aa` · [HTML page](https://eulogikon.org/works/thrasymachus-chalcedon-testimonies-dvq-aa)
 
 ## Text
 

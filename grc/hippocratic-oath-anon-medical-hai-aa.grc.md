@@ -4,7 +4,7 @@ title_greek: Ὅρκος Ἰατρικός
 author: Hippocratic Oath Anonymous
 eul_wid: hai-aa
 eul_aid: hai
-canonical: "https://eulogikon.org/grc/hippocratic-oath-anon/medical"
+canonical: "https://eulogikon.org/works/hippocratic-oath-anon-medical-hai-aa"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocratic Oath Anonymous
 
-**eul_wid:** `hai-aa` · [HTML page](https://eulogikon.org/grc/hippocratic-oath-anon/medical)
+**eul_wid:** `hai-aa` · [HTML page](https://eulogikon.org/works/hippocratic-oath-anon-medical-hai-aa)
 
 ## Text
 

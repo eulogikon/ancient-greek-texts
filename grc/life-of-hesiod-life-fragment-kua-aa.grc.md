@@ -4,7 +4,7 @@ title_greek: Βίος Ἡσιόδου Ἀπόσπασμα
 author: "Hesiod Life "
 eul_wid: kua-aa
 eul_aid: kua
-canonical: "https://eulogikon.org/grc/life-of-hesiod/life-fragment"
+canonical: "https://eulogikon.org/works/hesiod-life-fragment-kua-aa"
 period: Hellenistic
 dialect: Koine
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hesiod Life 
 
-**eul_wid:** `kua-aa` · [HTML page](https://eulogikon.org/grc/life-of-hesiod/life-fragment)
+**eul_wid:** `kua-aa` · [HTML page](https://eulogikon.org/works/hesiod-life-fragment-kua-aa)
 
 ## Text
 

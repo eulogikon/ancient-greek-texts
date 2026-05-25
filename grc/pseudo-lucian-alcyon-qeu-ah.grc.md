@@ -4,7 +4,7 @@ title_greek: Ἀλκυών
 author: "Pseudo-Lucian "
 eul_wid: qeu-ah
 eul_aid: qeu
-canonical: "https://eulogikon.org/grc/pseudo-lucian/alcyon"
+canonical: "https://eulogikon.org/works/pseudo-lucian-alcyon-qeu-ah"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pseudo-Lucian 
 
-**eul_wid:** `qeu-ah` · [HTML page](https://eulogikon.org/grc/pseudo-lucian/alcyon)
+**eul_wid:** `qeu-ah` · [HTML page](https://eulogikon.org/works/pseudo-lucian-alcyon-qeu-ah)
 
 ## Text
 

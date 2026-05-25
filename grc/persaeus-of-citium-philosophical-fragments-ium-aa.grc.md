@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Persaeus of Citium
 eul_wid: ium-aa
 eul_aid: ium
-canonical: "https://eulogikon.org/grc/persaeus-of-citium/philosophical-fragments"
+canonical: "https://eulogikon.org/works/persaeus-citium-philosophical-fragments-ium-aa"
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Persaeus of Citium
 
-**eul_wid:** `ium-aa` · [HTML page](https://eulogikon.org/grc/persaeus-of-citium/philosophical-fragments)
+**eul_wid:** `ium-aa` · [HTML page](https://eulogikon.org/works/persaeus-citium-philosophical-fragments-ium-aa)
 
 ## Text
 

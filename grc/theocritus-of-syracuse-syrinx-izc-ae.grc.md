@@ -4,7 +4,7 @@ title_greek: Σῦριγξ
 author: Theocritus of Syracuse
 eul_wid: izc-ae
 eul_aid: izc
-canonical: "https://eulogikon.org/grc/theocritus-of-syracuse/syrinx"
+canonical: "https://eulogikon.org/works/theocritus-syracuse-syrinx-izc-ae"
 period: Hellenistic
 dialect: Doric Bucolic
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theocritus of Syracuse
 
-**eul_wid:** `izc-ae` · [HTML page](https://eulogikon.org/grc/theocritus-of-syracuse/syrinx)
+**eul_wid:** `izc-ae` · [HTML page](https://eulogikon.org/works/theocritus-syracuse-syrinx-izc-ae)
 
 ## Text
 

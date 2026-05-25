@@ -4,7 +4,7 @@ title_greek: Περὶ τρόπων
 author: "Tryphon the Grammarian "
 eul_wid: ncu-ac
 eul_aid: ncu
-canonical: "https://eulogikon.org/grc/tryphon-the-grammarian/tropes"
+canonical: "https://eulogikon.org/works/tryphon-grammarian-tropes-ncu-ac"
 period: Hellenistic
 dialect: Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Tryphon the Grammarian 
 
-**eul_wid:** `ncu-ac` · [HTML page](https://eulogikon.org/grc/tryphon-the-grammarian/tropes)
+**eul_wid:** `ncu-ac` · [HTML page](https://eulogikon.org/works/tryphon-grammarian-tropes-ncu-ac)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: κατ᾽ Ἀνδοκίδου ἀσεβείας
 author: Lysias the Orator
 eul_wid: ejc-au
 eul_aid: ejc
-canonical: "https://eulogikon.org/grc/lysias/against-andocides"
+canonical: "https://eulogikon.org/works/lysias-against-andocides-ejc-au"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lysias the Orator
 
-**eul_wid:** `ejc-au` · [HTML page](https://eulogikon.org/grc/lysias/against-andocides)
+**eul_wid:** `ejc-au` · [HTML page](https://eulogikon.org/works/lysias-against-andocides-ejc-au)
 
 ## Text
 
@@ -120,7 +120,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### Or6 28
 
-ἔνθεν δὲ ἔπλευσεν ὡς Εὐαγόραν τὸν Κύπρου βασιλεύοντα, καὶ ἀδικήσας εἵρχθη. ἀποδρὰς δὲ καὶ τοῦτον ἔφευγε μὲν τοὺς ἐνθάδε θεούς, ἔφευγε δὲ τὴν ἑαυτοῦ πόλιν, ἔφευγε δὲ εἰς οὓς τὸ πρῶτον ἀφίκοιτο τόπους. καίτοι τίς χάρις τῷ βίῳ, κακοπαθεῖν μὲν πολλάκις, ἀναπαύσασθαι δὲ μηδέποτε; † καταπλεύσας δὲ ἐκεῖθεν δεῦρο εἰς δημοκρατίαν εἰς τὴν αὑτοῦ πόλιν † τοῖς μὲν πρυτάνεσιν ἔδωκε χρήματα, ἵνα αὐτὸν προσαγάγοιεν ἐνθάδε, ὑμεῖς δ’ αὐτὸν ἐξηλάσατε ἐκ τῆς πόλεως, τοῖς θεοῖς βεβαιοῦντες τοὺς νόμους οὓς ἐψηφίσασθε.
+ἔνθεν δὲ ἔπλευσεν ὡς Εὐαγόραν τὸν Κύπρου βασιλεύοντα, καὶ ἀδικήσας εἵρχθη. ἀποδρὰς δὲ καὶ τοῦτον ἔφευγε μὲν τοὺς ἐνθάδε θεούς, ἔφευγε δὲ τὴν ἑαυτοῦ πόλιν, ἔφευγε δὲ εἰς οὓς τὸ πρῶτον ἀφίκοιτο τόπους. καίτοι τίς χάρις τῷ βίῳ, κακοπαθεῖν μὲν πολλάκις, ἀναπαύσασθαι δὲ μηδέποτε; καταπλεύσας δὲ ἐκεῖθεν δεῦρο εἰς δημοκρατίαν εἰς τὴν αὑτοῦ πόλιν τοῖς μὲν πρυτάνεσιν ἔδωκε χρήματα, ἵνα αὐτὸν προσαγάγοιεν ἐνθάδε, ὑμεῖς δ’ αὐτὸν ἐξηλάσατε ἐκ τῆς πόλεως, τοῖς θεοῖς βεβαιοῦντες τοὺς νόμους οὓς ἐψηφίσασθε.
 
 ### Or6 30
 

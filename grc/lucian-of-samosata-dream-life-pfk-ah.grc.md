@@ -4,7 +4,7 @@ title_greek: Περὶ τοῦ Ἐνυπνίου ἤτοι Βίος Λουκια
 author: Lucian of Samosata
 eul_wid: pfk-ah
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/dream-life"
+canonical: "https://eulogikon.org/works/lucian-samosata-dream-life-pfk-ah"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-ah` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/dream-life)
+**eul_wid:** `pfk-ah` · [HTML page](https://eulogikon.org/works/lucian-samosata-dream-life-pfk-ah)
 
 ## Text
 

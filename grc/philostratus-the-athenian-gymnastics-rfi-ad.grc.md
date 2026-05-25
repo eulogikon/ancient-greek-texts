@@ -4,7 +4,7 @@ title_greek: Γυμναστικός
 author: Philostratus the Athenian
 eul_wid: rfi-ad
 eul_aid: rfi
-canonical: "https://eulogikon.org/grc/philostratus-the-athenian/gymnastics"
+canonical: "https://eulogikon.org/works/philostratus-athens-gymnastics-rfi-ad"
 period: Roman
 dialect: Atticizing Literary
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philostratus the Athenian
 
-**eul_wid:** `rfi-ad` · [HTML page](https://eulogikon.org/grc/philostratus-the-athenian/gymnastics)
+**eul_wid:** `rfi-ad` · [HTML page](https://eulogikon.org/works/philostratus-athens-gymnastics-rfi-ad)
 
 ## Text
 

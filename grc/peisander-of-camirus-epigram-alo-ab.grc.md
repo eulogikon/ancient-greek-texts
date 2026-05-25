@@ -4,7 +4,7 @@ title_greek: Ἐπίγραμμα
 author: Peisander of Camirus
 eul_wid: alo-ab
 eul_aid: alo
-canonical: "https://eulogikon.org/grc/peisander-of-camirus/epigram"
+canonical: "https://eulogikon.org/works/peisander-camirus-epigram-alo-ab"
 period: Archaic
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Peisander of Camirus
 
-**eul_wid:** `alo-ab` · [HTML page](https://eulogikon.org/grc/peisander-of-camirus/epigram)
+**eul_wid:** `alo-ab` · [HTML page](https://eulogikon.org/works/peisander-camirus-epigram-alo-ab)
 
 ## Text
 

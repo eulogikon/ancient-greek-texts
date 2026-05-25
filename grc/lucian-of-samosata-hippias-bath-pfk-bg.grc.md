@@ -4,7 +4,7 @@ title_greek: Ἱππίας ἢ Βαλανεῖον
 author: Lucian of Samosata
 eul_wid: pfk-bg
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/hippias-bath"
+canonical: "https://eulogikon.org/works/lucian-samosata-hippias-bath-pfk-bg"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-bg` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/hippias-bath)
+**eul_wid:** `pfk-bg` · [HTML page](https://eulogikon.org/works/lucian-samosata-hippias-bath-pfk-bg)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ τοῦ ἑαυτὸν ἐπαινεῖν ἀνεπιφθ
 author: Plutarch of Chaeronea
 eul_wid: okg-bq
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/praising-without-envy"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-praising-without-envy-okg-bq"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-bq` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/praising-without-envy)
+**eul_wid:** `okg-bq` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-praising-without-envy-okg-bq)
 
 ## Text
 

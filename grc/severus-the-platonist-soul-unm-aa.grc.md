@@ -4,7 +4,7 @@ title_greek: Περὶ ψυχῆς
 author: Severus the Platonist
 eul_wid: unm-aa
 eul_aid: unm
-canonical: "https://eulogikon.org/grc/severus-the-platonist/soul"
+canonical: "https://eulogikon.org/works/severus-platonist-soul-unm-aa"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Severus the Platonist
 
-**eul_wid:** `unm-aa` · [HTML page](https://eulogikon.org/grc/severus-the-platonist/soul)
+**eul_wid:** `unm-aa` · [HTML page](https://eulogikon.org/works/severus-platonist-soul-unm-aa)
 
 ## Text
 

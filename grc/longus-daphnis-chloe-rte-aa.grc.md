@@ -4,7 +4,7 @@ title_greek: Δάφνις καὶ Χλόη
 author: Longus the Novelist
 eul_wid: rte-aa
 eul_aid: rte
-canonical: "https://eulogikon.org/grc/longus/daphnis-chloe"
+canonical: "https://eulogikon.org/works/longus-daphnis-chloe-rte-aa"
 period: Roman
 dialect: Atticizing
 domain: Fiction
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Longus the Novelist
 
-**eul_wid:** `rte-aa` · [HTML page](https://eulogikon.org/grc/longus/daphnis-chloe)
+**eul_wid:** `rte-aa` · [HTML page](https://eulogikon.org/works/longus-daphnis-chloe-rte-aa)
 
 ## Text
 

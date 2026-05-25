@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: "Ptolemy VIII Euergetes II "
 eul_wid: luo-aa
 eul_aid: luo
-canonical: "https://eulogikon.org/grc/ptolemy-viii-euergetes/historical-fragments"
+canonical: "https://eulogikon.org/works/ptolemy-viii-historical-fragments-luo-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ptolemy VIII Euergetes II 
 
-**eul_wid:** `luo-aa` · [HTML page](https://eulogikon.org/grc/ptolemy-viii-euergetes/historical-fragments)
+**eul_wid:** `luo-aa` · [HTML page](https://eulogikon.org/works/ptolemy-viii-historical-fragments-luo-aa)
 
 ## Text
 

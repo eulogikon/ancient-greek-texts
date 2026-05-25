@@ -4,7 +4,7 @@ title_greek: Ὑπὲρ τῶν Πολέμων Λόγοι
 author: Procopius of Caesarea
 eul_wid: unc-aa
 eul_aid: unc
-canonical: "https://eulogikon.org/grc/procopius-of-caesarea/defense-wars"
+canonical: "https://eulogikon.org/works/procopius-caesarea-defense-wars-unc-aa"
 period: Late Antique
 dialect: Atticizing
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Procopius of Caesarea
 
-**eul_wid:** `unc-aa` · [HTML page](https://eulogikon.org/grc/procopius-of-caesarea/defense-wars)
+**eul_wid:** `unc-aa` · [HTML page](https://eulogikon.org/works/procopius-caesarea-defense-wars-unc-aa)
 
 ## Text
 

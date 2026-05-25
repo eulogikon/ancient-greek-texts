@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Hippasus of Metapontum
 eul_wid: bng-aa
 eul_aid: bng
-canonical: "https://eulogikon.org/grc/hippasus-of-metapontum/testimonies"
+canonical: "https://eulogikon.org/works/hippasus-metapontum-testimonies-bng-aa"
 period: Archaic
 dialect: Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippasus of Metapontum
 
-**eul_wid:** `bng-aa` · [HTML page](https://eulogikon.org/grc/hippasus-of-metapontum/testimonies)
+**eul_wid:** `bng-aa` · [HTML page](https://eulogikon.org/works/hippasus-metapontum-testimonies-bng-aa)
 
 ## Text
 

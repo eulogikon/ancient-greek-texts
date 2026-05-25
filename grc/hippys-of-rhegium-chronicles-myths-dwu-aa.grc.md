@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Hippys of Rhegium
 eul_wid: dwu-aa
 eul_aid: dwu
-canonical: "https://eulogikon.org/grc/hippys-of-rhegium/chronicles-myths"
+canonical: "https://eulogikon.org/works/hippys-rhegium-chronicles-myths-dwu-aa"
 period: Classical
 dialect: Doric
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippys of Rhegium
 
-**eul_wid:** `dwu-aa` · [HTML page](https://eulogikon.org/grc/hippys-of-rhegium/chronicles-myths)
+**eul_wid:** `dwu-aa` · [HTML page](https://eulogikon.org/works/hippys-rhegium-chronicles-myths-dwu-aa)
 
 ## Text
 

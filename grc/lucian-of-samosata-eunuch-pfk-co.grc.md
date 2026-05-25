@@ -4,7 +4,7 @@ title_greek: Εὐνοῦχος
 author: Lucian of Samosata
 eul_wid: pfk-co
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/eunuch"
+canonical: "https://eulogikon.org/works/lucian-samosata-eunuch-pfk-co"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-co` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/eunuch)
+**eul_wid:** `pfk-co` · [HTML page](https://eulogikon.org/works/lucian-samosata-eunuch-pfk-co)
 
 ## Text
 

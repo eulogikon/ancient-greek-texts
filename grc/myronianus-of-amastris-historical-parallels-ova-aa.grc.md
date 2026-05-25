@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Myronianus of Amastris
 eul_wid: ova-aa
 eul_aid: ova
-canonical: "https://eulogikon.org/grc/myronianus-of-amastris/historical-parallels"
+canonical: "https://eulogikon.org/works/myronianus-amastris-historical-parallels-ova-aa"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Myronianus of Amastris
 
-**eul_wid:** `ova-aa` · [HTML page](https://eulogikon.org/grc/myronianus-of-amastris/historical-parallels)
+**eul_wid:** `ova-aa` · [HTML page](https://eulogikon.org/works/myronianus-amastris-historical-parallels-ova-aa)
 
 ## Text
 

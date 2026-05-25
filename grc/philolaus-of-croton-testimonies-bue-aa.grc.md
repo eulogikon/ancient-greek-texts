@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Philolaus of Croton
 eul_wid: bue-aa
 eul_aid: bue
-canonical: "https://eulogikon.org/grc/philolaus-of-croton/testimonies"
+canonical: "https://eulogikon.org/works/philolaus-croton-testimonies-bue-aa"
 period: Classical
 dialect: Doric
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philolaus of Croton
 
-**eul_wid:** `bue-aa` · [HTML page](https://eulogikon.org/grc/philolaus-of-croton/testimonies)
+**eul_wid:** `bue-aa` · [HTML page](https://eulogikon.org/works/philolaus-croton-testimonies-bue-aa)
 
 ## Text
 

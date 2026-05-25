@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Oribasius of Pergamon
 eul_wid: soi-af
 eul_aid: soi
-canonical: "https://eulogikon.org/grc/oribasius-of-pergamon/testimonies"
+canonical: "https://eulogikon.org/works/oribasius-pergamon-testimonies-soi-af"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Oribasius of Pergamon
 
-**eul_wid:** `soi-af` · [HTML page](https://eulogikon.org/grc/oribasius-of-pergamon/testimonies)
+**eul_wid:** `soi-af` · [HTML page](https://eulogikon.org/works/oribasius-pergamon-testimonies-soi-af)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ τοῦ Βίου Μωυσέως
 author: Philo of Alexandria
 eul_wid: lgi-aj
 eul_aid: lgi
-canonical: "https://eulogikon.org/grc/philo-of-alexandria/life-of-moses"
+canonical: "https://eulogikon.org/works/philo-alexandria-life-of-moses-lgi-aj"
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philo of Alexandria
 
-**eul_wid:** `lgi-aj` · [HTML page](https://eulogikon.org/grc/philo-of-alexandria/life-of-moses)
+**eul_wid:** `lgi-aj` · [HTML page](https://eulogikon.org/works/philo-alexandria-life-of-moses-lgi-aj)
 
 ## Text
 

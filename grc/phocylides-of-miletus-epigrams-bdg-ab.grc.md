@@ -4,7 +4,7 @@ title_greek: Ἐπίγραμμα
 author: Phocylides of Miletus
 eul_wid: bdg-ab
 eul_aid: bdg
-canonical: "https://eulogikon.org/grc/phocylides-of-miletus/epigrams"
+canonical: "https://eulogikon.org/works/phocylides-miletus-epigrams-bdg-ab"
 period: Archaic
 dialect: Ionic Elegiac
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Phocylides of Miletus
 
-**eul_wid:** `bdg-ab` · [HTML page](https://eulogikon.org/grc/phocylides-of-miletus/epigrams)
+**eul_wid:** `bdg-ab` · [HTML page](https://eulogikon.org/works/phocylides-miletus-epigrams-bdg-ab)
 
 ## Text
 

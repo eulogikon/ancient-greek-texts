@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Nausiphanes of Teos
 eul_wid: hik-aa
 eul_aid: hik
-canonical: "https://eulogikon.org/grc/nausiphanes-of-teos/testimonies"
+canonical: "https://eulogikon.org/works/nausiphanes-teos-testimonies-hik-aa"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nausiphanes of Teos
 
-**eul_wid:** `hik-aa` · [HTML page](https://eulogikon.org/grc/nausiphanes-of-teos/testimonies)
+**eul_wid:** `hik-aa` · [HTML page](https://eulogikon.org/works/nausiphanes-teos-testimonies-hik-aa)
 
 ## Text
 

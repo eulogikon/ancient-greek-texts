@@ -4,7 +4,7 @@ title_greek: Περὶ Γενέσεως καὶ Σπέρματος
 author: Medical Writers Anonymous
 eul_wid: umi-am
 eul_aid: umi
-canonical: "https://eulogikon.org/grc/medical-writers-anonymous/generation-seed"
+canonical: "https://eulogikon.org/works/med-writers-anon-generation-seed-umi-am"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Medical Writers Anonymous
 
-**eul_wid:** `umi-am` · [HTML page](https://eulogikon.org/grc/medical-writers-anonymous/generation-seed)
+**eul_wid:** `umi-am` · [HTML page](https://eulogikon.org/works/med-writers-anon-generation-seed-umi-am)
 
 ## Text
 

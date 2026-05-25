@@ -4,7 +4,7 @@ title_greek: Σφαιρικά
 author: Theodosius of Bithynia
 eul_wid: lww-ac
 eul_aid: lww
-canonical: "https://eulogikon.org/grc/theodosius-of-bithynia/spherical"
+canonical: "https://eulogikon.org/works/theodosius-bithynia-spherical-lww-ac"
 period: Hellenistic
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theodosius of Bithynia
 
-**eul_wid:** `lww-ac` · [HTML page](https://eulogikon.org/grc/theodosius-of-bithynia/spherical)
+**eul_wid:** `lww-ac` · [HTML page](https://eulogikon.org/works/theodosius-bithynia-spherical-lww-ac)
 
 ## Text
 

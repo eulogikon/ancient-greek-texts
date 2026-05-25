@@ -4,7 +4,7 @@ title_greek: Φιλίππῳ β΄
 author: Isocrates of Athens
 eul_wid: ffu-an
 eul_aid: ffu
-canonical: "https://eulogikon.org/grc/isocrates-of-athens/philip-an"
+canonical: "https://eulogikon.org/works/isocrates-athens-philip-ffu-an"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Isocrates of Athens
 
-**eul_wid:** `ffu-an` · [HTML page](https://eulogikon.org/grc/isocrates-of-athens/philip-an)
+**eul_wid:** `ffu-an` · [HTML page](https://eulogikon.org/works/isocrates-athens-philip-ffu-an)
 
 ## Text
 

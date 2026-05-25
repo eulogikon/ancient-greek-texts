@@ -4,7 +4,7 @@ title_greek: Ἀλκιβιάδης
 author: Plutarch of Chaeronea
 eul_wid: okg-dy
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/alcibiades"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-alcibiades-okg-dy"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-dy` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/alcibiades)
+**eul_wid:** `okg-dy` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-alcibiades-okg-dy)
 
 ## Text
 

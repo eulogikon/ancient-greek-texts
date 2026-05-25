@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Πενίας καὶ Κοινων
 author: Menander of Athens
 eul_wid: hps-bg
 eul_aid: hps
-canonical: "https://eulogikon.org/grc/menander-of-athens/poverty-social-life"
+canonical: "https://eulogikon.org/works/menander-athens-poverty-social-life-hps-bg"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander of Athens
 
-**eul_wid:** `hps-bg` · [HTML page](https://eulogikon.org/grc/menander-of-athens/poverty-social-life)
+**eul_wid:** `hps-bg` · [HTML page](https://eulogikon.org/works/menander-athens-poverty-social-life-hps-bg)
 
 ## Text
 

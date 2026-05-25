@@ -4,7 +4,7 @@ title_greek: Σχόλια εἰς Κύρου Ἀνάβασιν
 author: Xenophon Commentary
 eul_wid: dlq-aa
 eul_aid: dlq
-canonical: "https://eulogikon.org/grc/xenophon-commentary/anabasis"
+canonical: "https://eulogikon.org/works/xenophon-comm-anabasis-dlq-aa"
 period: Classical
 dialect: Atticizing
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Xenophon Commentary
 
-**eul_wid:** `dlq-aa` · [HTML page](https://eulogikon.org/grc/xenophon-commentary/anabasis)
+**eul_wid:** `dlq-aa` · [HTML page](https://eulogikon.org/works/xenophon-comm-anabasis-dlq-aa)
 
 ## Text
 

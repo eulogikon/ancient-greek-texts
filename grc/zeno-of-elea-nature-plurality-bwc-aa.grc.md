@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Zeno of Elea
 eul_wid: bwc-aa
 eul_aid: bwc
-canonical: "https://eulogikon.org/grc/zeno-of-elea/nature-plurality"
+canonical: "https://eulogikon.org/works/zeno-elea-nature-plurality-bwc-aa"
 period: Classical
 dialect: Ionic (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Zeno of Elea
 
-**eul_wid:** `bwc-aa` · [HTML page](https://eulogikon.org/grc/zeno-of-elea/nature-plurality)
+**eul_wid:** `bwc-aa` · [HTML page](https://eulogikon.org/works/zeno-elea-nature-plurality-bwc-aa)
 
 ## Text
 

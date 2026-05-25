@@ -4,7 +4,7 @@ title_greek: Περὶ ἰατρεῖου
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-ag
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/doctors-workshop"
+canonical: "https://eulogikon.org/works/hippocrates-doctors-workshop-bww-ag"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-ag` · [HTML page](https://eulogikon.org/grc/hippocrates/doctors-workshop)
+**eul_wid:** `bww-ag` · [HTML page](https://eulogikon.org/works/hippocrates-doctors-workshop-bww-ag)
 
 ## Text
 

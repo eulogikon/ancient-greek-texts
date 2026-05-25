@@ -4,7 +4,7 @@ title_greek: Ἐπίγραμμα
 author: "Plato the Comic Poet "
 eul_wid: efq-ae
 eul_aid: efq
-canonical: "https://eulogikon.org/grc/plato-the-comic-poet/epigram"
+canonical: "https://eulogikon.org/works/plato-comic-epigram-efq-ae"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plato the Comic Poet 
 
-**eul_wid:** `efq-ae` · [HTML page](https://eulogikon.org/grc/plato-the-comic-poet/epigram)
+**eul_wid:** `efq-ae` · [HTML page](https://eulogikon.org/works/plato-comic-epigram-efq-ae)
 
 ## Text
 

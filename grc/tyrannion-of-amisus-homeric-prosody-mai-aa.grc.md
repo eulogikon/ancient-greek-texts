@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τῆς Ὁμηρικῆς Προ
 author: Tyrannion of Amisus
 eul_wid: mai-aa
 eul_aid: mai
-canonical: "https://eulogikon.org/grc/tyrannion-of-amisus/homeric-prosody"
+canonical: "https://eulogikon.org/works/tyrannion-amisus-homeric-prosody-mai-aa"
 period: Hellenistic
 dialect: Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Tyrannion of Amisus
 
-**eul_wid:** `mai-aa` · [HTML page](https://eulogikon.org/grc/tyrannion-of-amisus/homeric-prosody)
+**eul_wid:** `mai-aa` · [HTML page](https://eulogikon.org/works/tyrannion-amisus-homeric-prosody-mai-aa)
 
 ## Text
 
@@ -256,7 +256,7 @@ th. 52—3: ... χαλβάνη ἄκνηστίς τε καὶ ἡ πριόνεσ
 
 ### 61 (1n)
 
-Oxy. 2390, fr. 2, col. I, 2 (Alcm. fr. 5, p. 22 Page): [ ] .. ν οὐδ . [] [ ] παρασταθεῖσαν [ ] τ̣ὴν Ἀφροδίτην Θέων [ καὶ Τ]υραννίων ἀναγινώσκου[σι χρυσῶ] κατὰ γενικήν, ἵν’ ἦι· οὐδὲ εἷς [σε μέμ]ψεται πλησίον χρυσοῦ στᾶσαν οὐ[δὲ] ἐ̣[ξελ]έγξει σε χρυσός, ἀλλὰ διοίσεις αὐτόν. Sch.
+Oxy. 2390, fr. 2, col. I, 2 (Alcm. fr. 5, p. 22 Page): [ ] .. ν οὐδ . [] [ ] παρασταθεῖσαν [ ] τὴν Ἀφροδίτην Θέων [ καὶ Τ]υραννίων ἀναγινώσκου[σι χρυσῶ] κατὰ γενικήν, ἵν’ ἦι· οὐδὲ εἷς [σε μέμ]ψεται πλησίον χρυσοῦ στᾶσαν οὐ[δὲ] ἐ[ξελ]έγξει σε χρυσός, ἀλλὰ διοίσεις αὐτόν. Sch.
 
 ### 62
 

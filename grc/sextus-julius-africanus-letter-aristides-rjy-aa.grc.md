@@ -4,7 +4,7 @@ title_greek: Ἐπιστολὴ πρὸς Ἀριστείδην
 author: Sextus Julius Africanus
 eul_wid: rjy-aa
 eul_aid: rjy
-canonical: "https://eulogikon.org/grc/sextus-julius-africanus/letter-aristides"
+canonical: "https://eulogikon.org/works/sextus-julius-africanus-letter-aristides-rjy-aa"
 period: Roman
 dialect: Christian Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sextus Julius Africanus
 
-**eul_wid:** `rjy-aa` · [HTML page](https://eulogikon.org/grc/sextus-julius-africanus/letter-aristides)
+**eul_wid:** `rjy-aa` · [HTML page](https://eulogikon.org/works/sextus-julius-africanus-letter-aristides-rjy-aa)
 
 ## Text
 

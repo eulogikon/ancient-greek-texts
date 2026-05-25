@@ -4,7 +4,7 @@ title_greek: Περὶ αἱμοῤῥοίδων
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-be
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/hemorrhoids"
+canonical: "https://eulogikon.org/works/hippocrates-hemorrhoids-bww-be"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-be` · [HTML page](https://eulogikon.org/grc/hippocrates/hemorrhoids)
+**eul_wid:** `bww-be` · [HTML page](https://eulogikon.org/works/hippocrates-hemorrhoids-bww-be)
 
 ## Text
 

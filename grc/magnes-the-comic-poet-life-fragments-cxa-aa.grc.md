@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Βίου
 author: Magnes Comicus
 eul_wid: cxa-aa
 eul_aid: cxa
-canonical: "https://eulogikon.org/grc/magnes-the-comic-poet/life-fragments"
+canonical: "https://eulogikon.org/works/magnes-life-fragments-cxa-aa"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Magnes Comicus
 
-**eul_wid:** `cxa-aa` · [HTML page](https://eulogikon.org/grc/magnes-the-comic-poet/life-fragments)
+**eul_wid:** `cxa-aa` · [HTML page](https://eulogikon.org/works/magnes-life-fragments-cxa-aa)
 
 ## Text
 

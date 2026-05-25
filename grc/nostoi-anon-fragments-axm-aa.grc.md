@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Νόστων
 author: Nostoi Anonymous
 eul_wid: axm-aa
 eul_aid: axm
-canonical: "https://eulogikon.org/grc/nostoi-anon/fragments"
+canonical: "https://eulogikon.org/works/nostoi-anon-fragments-axm-aa"
 period: Archaic
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nostoi Anonymous
 
-**eul_wid:** `axm-aa` · [HTML page](https://eulogikon.org/grc/nostoi-anon/fragments)
+**eul_wid:** `axm-aa` · [HTML page](https://eulogikon.org/works/nostoi-anon-fragments-axm-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Εὐρώπης καὶ Ἰουδ
 author: Mnaseas of Patara
 eul_wid: kpu-ab
 eul_aid: kpu
-canonical: "https://eulogikon.org/grc/mnaseas-of-patara/europe-judea"
+canonical: "https://eulogikon.org/works/mnaseas-patara-europe-judea-kpu-ab"
 period: Hellenistic
 dialect: Koine (frg)
 domain: Geography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Mnaseas of Patara
 
-**eul_wid:** `kpu-ab` · [HTML page](https://eulogikon.org/grc/mnaseas-of-patara/europe-judea)
+**eul_wid:** `kpu-ab` · [HTML page](https://eulogikon.org/works/mnaseas-patara-europe-judea-kpu-ab)
 
 ## Text
 
@@ -40,7 +40,7 @@ JOSEPHOS Contra Apionem 2, 112—117 p. 67, 35 Niese: (112) rursumque tamquam pi
 
 ### 51.(l1)
 
-PAP. OX. 1611 fr. 2 col. 1 (s. 3 p.; vol. 13, 1919, 134f. 140): [..] ὁ ἐν τῆι Ἴωνο[ς Ὀμφ]ά̣ˈλ̣η〈ι〉 κατ’ ἀρχὴν λεγόμεˈ[ν]ο̣ς Ἡρακλέους βόρειος ˈ [ἵπ]πος οὕτως· (19 F 17 a Sn.) ‘Ὅρων μ̣ὲ̣ν ˈ [ἤ]δ̣η Πέλοπος ἐξελαύ[νο]μεν, Ἑρμῆ, βόρειον ˈ [ἵπ]π̣ον, ἄ ⟦ ι ⟧ νεται δ’ ὁδόσ‘.ˈ [διαλ]έλυκε δ’ αὐτὸ Μναˈ [ σέας ὁ ] Παταρ [ εὺς ἐ ]ν̣ τῶ̣ [ι ] ˈ [ Περὶ χ ]ρησμῶ̣ [ν.]
+PAP. OX. 1611 fr. 2 col. 1 (s. 3 p.; vol. 13, 1919, 134f. 140): [..] ὁ ἐν τῆι Ἴωνο[ς Ὀμφ]άˈλη〈ι〉 κατ’ ἀρχὴν λεγόμεˈ[ν]ος Ἡρακλέους βόρειος ˈ [ἵπ]πος οὕτως· (19 F 17 a Sn.) ‘Ὅρων μὲν ˈ [ἤ]δη Πέλοπος ἐξελαύ[νο]μεν, Ἑρμῆ, βόρειον ˈ [ἵπ]πον, ἄ ⟦ ι ⟧ νεται δ’ ὁδόσ‘.ˈ [διαλ]έλυκε δ’ αὐτὸ Μναˈ [ σέας ὁ ] Παταρ [ εὺς ἐ ]ν τῶ [ι ] ˈ [ Περὶ χ ]ρησμῶ [ν.]
 
 ## License and provenance
 

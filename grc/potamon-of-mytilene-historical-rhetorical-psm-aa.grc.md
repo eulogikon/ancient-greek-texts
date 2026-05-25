@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Potamon of Mytilene
 eul_wid: psm-aa
 eul_aid: psm
-canonical: "https://eulogikon.org/grc/potamon-of-mytilene/historical-rhetorical"
+canonical: "https://eulogikon.org/works/potamon-mytilene-historical-rhetorical-psm-aa"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Potamon of Mytilene
 
-**eul_wid:** `psm-aa` · [HTML page](https://eulogikon.org/grc/potamon-of-mytilene/historical-rhetorical)
+**eul_wid:** `psm-aa` · [HTML page](https://eulogikon.org/works/potamon-mytilene-historical-rhetorical-psm-aa)
 
 ## Text
 

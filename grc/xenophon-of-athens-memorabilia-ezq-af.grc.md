@@ -4,7 +4,7 @@ title_greek: Κύρου Ἀνάβασις
 author: Xenophon of Athens
 eul_wid: ezq-af
 eul_aid: ezq
-canonical: "https://eulogikon.org/grc/xenophon-of-athens/memorabilia"
+canonical: "https://eulogikon.org/works/xenophon-athens-memorabilia-ezq-af"
 period: Classical
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Xenophon of Athens
 
-**eul_wid:** `ezq-af` · [HTML page](https://eulogikon.org/grc/xenophon-of-athens/memorabilia)
+**eul_wid:** `ezq-af` · [HTML page](https://eulogikon.org/works/xenophon-athens-memorabilia-ezq-af)
 
 ## Text
 

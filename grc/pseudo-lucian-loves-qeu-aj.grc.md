@@ -4,7 +4,7 @@ title_greek: Ἔρωτες
 author: "Pseudo-Lucian "
 eul_wid: qeu-aj
 eul_aid: qeu
-canonical: "https://eulogikon.org/grc/pseudo-lucian/loves"
+canonical: "https://eulogikon.org/works/pseudo-lucian-loves-qeu-aj"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pseudo-Lucian 
 
-**eul_wid:** `qeu-aj` · [HTML page](https://eulogikon.org/grc/pseudo-lucian/loves)
+**eul_wid:** `qeu-aj` · [HTML page](https://eulogikon.org/works/pseudo-lucian-loves-qeu-aj)
 
 ## Text
 

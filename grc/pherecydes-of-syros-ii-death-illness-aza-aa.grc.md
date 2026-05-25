@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα περὶ Θανάτου καὶ Νόσου
 author: Pherecydes of Syros II
 eul_wid: aza-aa
 eul_aid: aza
-canonical: "https://eulogikon.org/grc/pherecydes-of-syros-ii/death-illness"
+canonical: "https://eulogikon.org/works/pherecydes-syros-death-illness-aza-aa"
 period: Archaic
 dialect: Ionic (frg)
 format: Epistle
@@ -17,7 +17,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pherecydes of Syros II
 
-**eul_wid:** `aza-aa` · [HTML page](https://eulogikon.org/grc/pherecydes-of-syros-ii/death-illness)
+**eul_wid:** `aza-aa` · [HTML page](https://eulogikon.org/works/pherecydes-syros-death-illness-aza-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Xanthus the Lydian Historian
 eul_wid: csk-aa
 eul_aid: csk
-canonical: "https://eulogikon.org/grc/xanthus-the-lydian/history-origins"
+canonical: "https://eulogikon.org/works/xanthus-lydia-history-origins-csk-aa"
 period: Classical
 dialect: Ionic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Xanthus the Lydian Historian
 
-**eul_wid:** `csk-aa` · [HTML page](https://eulogikon.org/grc/xanthus-the-lydian/history-origins)
+**eul_wid:** `csk-aa` · [HTML page](https://eulogikon.org/works/xanthus-lydia-history-origins-csk-aa)
 
 ## Text
 

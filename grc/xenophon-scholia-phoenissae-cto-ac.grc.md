@@ -4,7 +4,7 @@ title_greek: Σχόλια εἰς Εὐριπίδου Φοίνισσας
 author: Xenophon Scholia
 eul_wid: cto-ac
 eul_aid: cto
-canonical: "https://eulogikon.org/grc/xenophon-scholia/phoenissae"
+canonical: "https://eulogikon.org/works/xenophon-scholia-phoenissae-cto-ac"
 period: Classical
 dialect: Mixed Dialects
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Xenophon Scholia
 
-**eul_wid:** `cto-ac` · [HTML page](https://eulogikon.org/grc/xenophon-scholia/phoenissae)
+**eul_wid:** `cto-ac` · [HTML page](https://eulogikon.org/works/xenophon-scholia-phoenissae-cto-ac)
 
 ## Text
 

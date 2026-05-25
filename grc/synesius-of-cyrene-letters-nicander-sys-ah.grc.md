@@ -4,7 +4,7 @@ title_greek: Ἐπιστολαὶ πρὸς Νίκανδρον
 author: Synesius of Cyrene
 eul_wid: sys-ah
 eul_aid: sys
-canonical: "https://eulogikon.org/grc/synesius-of-cyrene/letters-nicander"
+canonical: "https://eulogikon.org/works/synesius-cyrene-letters-nicander-sys-ah"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Synesius of Cyrene
 
-**eul_wid:** `sys-ah` · [HTML page](https://eulogikon.org/grc/synesius-of-cyrene/letters-nicander)
+**eul_wid:** `sys-ah` · [HTML page](https://eulogikon.org/works/synesius-cyrene-letters-nicander-sys-ah)
 
 ## Text
 

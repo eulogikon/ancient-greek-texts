@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Pyrander the Historian
 eul_wid: aim-aa
 eul_aid: aim
-canonical: "https://eulogikon.org/grc/pyrander-the-historian/peloponnesian-histories"
+canonical: "https://eulogikon.org/works/pyrander-peloponnesian-histories-aim-aa"
 period: Archaic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pyrander the Historian
 
-**eul_wid:** `aim-aa` · [HTML page](https://eulogikon.org/grc/pyrander-the-historian/peloponnesian-histories)
+**eul_wid:** `aim-aa` · [HTML page](https://eulogikon.org/works/pyrander-peloponnesian-histories-aim-aa)
 
 ## Text
 

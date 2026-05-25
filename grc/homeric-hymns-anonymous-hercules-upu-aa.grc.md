@@ -4,7 +4,7 @@ title_greek: Ὕμνος εἰς Ἡρακλέα τὸν λέοντα
 author: Hymnic Collection  Anonymous
 eul_wid: upu-aa
 eul_aid: upu
-canonical: "https://eulogikon.org/grc/homeric-hymns-anonymous/hercules"
+canonical: "https://eulogikon.org/works/hymnic-anon-hercules-upu-aa"
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hymnic Collection  Anonymous
 
-**eul_wid:** `upu-aa` · [HTML page](https://eulogikon.org/grc/homeric-hymns-anonymous/hercules)
+**eul_wid:** `upu-aa` · [HTML page](https://eulogikon.org/works/hymnic-anon-hercules-upu-aa)
 
 ## Text
 

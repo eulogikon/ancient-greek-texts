@@ -4,7 +4,7 @@ title_greek: Ὕμνος εἰς Διόνυσον
 author: Hymnic Collection  Anonymous
 eul_wid: upu-ao
 eul_aid: upu
-canonical: "https://eulogikon.org/grc/homeric-hymns-anonymous/dionysus-ao"
+canonical: "https://eulogikon.org/works/hymnic-anon-dionysus-upu-ao"
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hymnic Collection  Anonymous
 
-**eul_wid:** `upu-ao` · [HTML page](https://eulogikon.org/grc/homeric-hymns-anonymous/dionysus-ao)
+**eul_wid:** `upu-ao` · [HTML page](https://eulogikon.org/works/hymnic-anon-dionysus-upu-ao)
 
 ## Text
 
@@ -36,7 +36,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### unit_4
 
-ἔσχεθε καί μιν ἔθηκε πανόλβιον εἶπέ τε μῦθον· Θάρσει † δῖ’ ἑκάτωρ τῷ ἐμῷ κεχαρισμένε θυμῷ· εἰμὶ δ’ ἐγὼ Διόνυσος ἐρίβρομος ὃν τέκε μήτηρ Καδμηῒς Σεμέλη Διὸς ἐν φιλότητι μιγεῖσα. Χαῖρε τέκος Σεμέλης εὐώπιδος· οὐδέ πῃ ἔστι σεῖό γε ληθόμενον γλυκερὴν κοσμῆσαι ἀοιδήν.
+ἔσχεθε καί μιν ἔθηκε πανόλβιον εἶπέ τε μῦθον· Θάρσει δῖ’ ἑκάτωρ τῷ ἐμῷ κεχαρισμένε θυμῷ· εἰμὶ δ’ ἐγὼ Διόνυσος ἐρίβρομος ὃν τέκε μήτηρ Καδμηῒς Σεμέλη Διὸς ἐν φιλότητι μιγεῖσα. Χαῖρε τέκος Σεμέλης εὐώπιδος· οὐδέ πῃ ἔστι σεῖό γε ληθόμενον γλυκερὴν κοσμῆσαι ἀοιδήν.
 
 ## License and provenance
 

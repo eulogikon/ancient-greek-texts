@@ -4,7 +4,7 @@ title_greek: Ἐπίγραμμα
 author: Praxiteles of Athens
 eul_wid: fqo-aa
 eul_aid: fqo
-canonical: "https://eulogikon.org/grc/praxiteles-of-athens/epigram"
+canonical: "https://eulogikon.org/works/praxiteles-athens-epigram-fqo-aa"
 period: Classical
 dialect: Attic
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Praxiteles of Athens
 
-**eul_wid:** `fqo-aa` · [HTML page](https://eulogikon.org/grc/praxiteles-of-athens/epigram)
+**eul_wid:** `fqo-aa` · [HTML page](https://eulogikon.org/works/praxiteles-athens-epigram-fqo-aa)
 
 ## Text
 

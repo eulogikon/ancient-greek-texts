@@ -4,7 +4,7 @@ title_greek: Σύνοψις περὶ Σφυγμῶν
 author: Rufus of Ephesus
 eul_wid: ojc-af
 eul_aid: ojc
-canonical: "https://eulogikon.org/grc/rufus-of-ephesus/pulses"
+canonical: "https://eulogikon.org/works/rufus-ephesus-pulses-ojc-af"
 period: Roman
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Rufus of Ephesus
 
-**eul_wid:** `ojc-af` · [HTML page](https://eulogikon.org/grc/rufus-of-ephesus/pulses)
+**eul_wid:** `ojc-af` · [HTML page](https://eulogikon.org/works/rufus-ephesus-pulses-ojc-af)
 
 ## Text
 

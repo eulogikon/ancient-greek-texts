@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Pratinas of Phlius
 eul_wid: bmc-aa
 eul_aid: bmc
-canonical: "https://eulogikon.org/grc/pratinas-of-phlius/against-aulos"
+canonical: "https://eulogikon.org/works/pratinas-phlius-against-aulos-bmc-aa"
 period: Archaic
 dialect: Doric (frg)
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pratinas of Phlius
 
-**eul_wid:** `bmc-aa` · [HTML page](https://eulogikon.org/grc/pratinas-of-phlius/against-aulos)
+**eul_wid:** `bmc-aa` · [HTML page](https://eulogikon.org/works/pratinas-phlius-against-aulos-bmc-aa)
 
 ## Text
 
@@ -64,7 +64,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 3.3
 
-πνοὰν ἔχοντα· φλέγε τὸν ὀλεσιαλοκάλαμον, λαλοβαρύοπα 〈πα〉ραμελορυθμοβάταν †θυπα
+πνοὰν ἔχοντα· φλέγε τὸν ὀλεσιαλοκάλαμον, λαλοβαρύοπα 〈πα〉ραμελορυθμοβάταν θυπα
 
 ### book 3.4
 

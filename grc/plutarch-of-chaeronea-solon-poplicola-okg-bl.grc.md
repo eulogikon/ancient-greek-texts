@@ -4,7 +4,7 @@ title_greek: Σόλωνος καὶ Ποπλικόλα σύγκρισις
 author: Plutarch of Chaeronea
 eul_wid: okg-bl
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/solon-poplicola"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-solon-poplicola-okg-bl"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-bl` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/solon-poplicola)
+**eul_wid:** `okg-bl` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-solon-poplicola-okg-bl)
 
 ## Text
 

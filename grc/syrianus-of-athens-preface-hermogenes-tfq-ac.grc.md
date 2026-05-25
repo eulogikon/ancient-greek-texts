@@ -4,7 +4,7 @@ title_greek: Περὶ ἰδεῶν
 author: Syrianus of Athens
 eul_wid: tfq-ac
 eul_aid: tfq
-canonical: "https://eulogikon.org/grc/syrianus-of-athens/preface-hermogenes"
+canonical: "https://eulogikon.org/works/syrianus-athens-preface-hermogenes-tfq-ac"
 period: Late Antique
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Syrianus of Athens
 
-**eul_wid:** `tfq-ac` · [HTML page](https://eulogikon.org/grc/syrianus-of-athens/preface-hermogenes)
+**eul_wid:** `tfq-ac` · [HTML page](https://eulogikon.org/works/syrianus-athens-preface-hermogenes-tfq-ac)
 
 ## Text
 

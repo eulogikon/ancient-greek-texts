@@ -4,7 +4,7 @@ title_greek: Περὶ λίθων
 author: "Orphic Poems "
 eul_wid: lea-ai
 eul_aid: lea
-canonical: "https://eulogikon.org/grc/orphic-poems/stones-ai"
+canonical: "https://eulogikon.org/works/orphic-poems-stones-lea-ai"
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Orphic Poems 
 
-**eul_wid:** `lea-ai` · [HTML page](https://eulogikon.org/grc/orphic-poems/stones-ai)
+**eul_wid:** `lea-ai` · [HTML page](https://eulogikon.org/works/orphic-poems-stones-lea-ai)
 
 ## Text
 

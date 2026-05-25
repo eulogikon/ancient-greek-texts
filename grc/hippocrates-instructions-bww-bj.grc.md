@@ -4,7 +4,7 @@ title_greek: Ὑποθῆκαι
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-bj
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/instructions"
+canonical: "https://eulogikon.org/works/hippocrates-instructions-bww-bj"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-bj` · [HTML page](https://eulogikon.org/grc/hippocrates/instructions)
+**eul_wid:** `bww-bj` · [HTML page](https://eulogikon.org/works/hippocrates-instructions-bww-bj)
 
 ## Text
 

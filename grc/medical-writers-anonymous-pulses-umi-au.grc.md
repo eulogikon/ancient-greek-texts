@@ -4,7 +4,7 @@ title_greek: Περὶ Σφυγμῶν
 author: Medical Writers Anonymous
 eul_wid: umi-au
 eul_aid: umi
-canonical: "https://eulogikon.org/grc/medical-writers-anonymous/pulses"
+canonical: "https://eulogikon.org/works/med-writers-anon-pulses-umi-au"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Medical Writers Anonymous
 
-**eul_wid:** `umi-au` · [HTML page](https://eulogikon.org/grc/medical-writers-anonymous/pulses)
+**eul_wid:** `umi-au` · [HTML page](https://eulogikon.org/works/med-writers-anon-pulses-umi-au)
 
 ## Text
 

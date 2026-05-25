@@ -4,7 +4,7 @@ title_greek: Περὶ παθῶν
 author: "Tryphon the Grammarian "
 eul_wid: ncu-aa
 eul_aid: ncu
-canonical: "https://eulogikon.org/grc/tryphon-the-grammarian/passions"
+canonical: "https://eulogikon.org/works/tryphon-grammarian-passions-ncu-aa"
 period: Hellenistic
 dialect: Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Tryphon the Grammarian 
 
-**eul_wid:** `ncu-aa` · [HTML page](https://eulogikon.org/grc/tryphon-the-grammarian/passions)
+**eul_wid:** `ncu-aa` · [HTML page](https://eulogikon.org/works/tryphon-grammarian-passions-ncu-aa)
 
 ## Text
 

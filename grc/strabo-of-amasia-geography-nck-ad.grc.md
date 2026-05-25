@@ -4,7 +4,7 @@ title_greek: Γεωγραφικά
 author: Strabo of Amasia
 eul_wid: nck-ad
 eul_aid: nck
-canonical: "https://eulogikon.org/grc/strabo-of-amasia/geography"
+canonical: "https://eulogikon.org/works/strabo-amasia-geography-nck-ad"
 period: Hellenistic
 dialect: Koine
 domain: Geography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Strabo of Amasia
 
-**eul_wid:** `nck-ad` · [HTML page](https://eulogikon.org/grc/strabo-of-amasia/geography)
+**eul_wid:** `nck-ad` · [HTML page](https://eulogikon.org/works/strabo-amasia-geography-nck-ad)
 
 ## Text
 

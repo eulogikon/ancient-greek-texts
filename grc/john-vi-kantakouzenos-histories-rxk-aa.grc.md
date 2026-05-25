@@ -4,7 +4,7 @@ title_greek: Ἱστορίαι
 author: John VI Kantakouzenos
 eul_wid: rxk-aa
 eul_aid: rxk
-canonical: "https://eulogikon.org/grc/john-vi-kantakouzenos/histories"
+canonical: "https://eulogikon.org/works/john-kantakouzenos-histories-rxk-aa"
 period: Late Antique
 dialect: Byzantine Greek
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** John VI Kantakouzenos
 
-**eul_wid:** `rxk-aa` · [HTML page](https://eulogikon.org/grc/john-vi-kantakouzenos/histories)
+**eul_wid:** `rxk-aa` · [HTML page](https://eulogikon.org/works/john-kantakouzenos-histories-rxk-aa)
 
 ## Text
 

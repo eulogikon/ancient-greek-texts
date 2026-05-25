@@ -4,7 +4,7 @@ title_greek: Ἐπιστολὴ πρὸς βασιλέα Πτολεμαῖον
 author: Pseudo-Hippocrates
 eul_wid: oyw-ae
 eul_aid: oyw
-canonical: "https://eulogikon.org/grc/pseudo-hippocrates/king-ptolemy"
+canonical: "https://eulogikon.org/works/pseudo-hippocrates-king-ptolemy-oyw-ae"
 period: Roman
 dialect: Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pseudo-Hippocrates
 
-**eul_wid:** `oyw-ae` · [HTML page](https://eulogikon.org/grc/pseudo-hippocrates/king-ptolemy)
+**eul_wid:** `oyw-ae` · [HTML page](https://eulogikon.org/works/pseudo-hippocrates-king-ptolemy-oyw-ae)
 
 ## Text
 

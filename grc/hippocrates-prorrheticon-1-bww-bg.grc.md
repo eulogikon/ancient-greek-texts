@@ -4,7 +4,7 @@ title_greek: "Προρρητικόν Α'"
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-bg
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/prorrheticon-1"
+canonical: "https://eulogikon.org/works/hippocrates-prorrheticon-1-bww-bg"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-bg` · [HTML page](https://eulogikon.org/grc/hippocrates/prorrheticon-1)
+**eul_wid:** `bww-bg` · [HTML page](https://eulogikon.org/works/hippocrates-prorrheticon-1-bww-bg)
 
 ## Text
 

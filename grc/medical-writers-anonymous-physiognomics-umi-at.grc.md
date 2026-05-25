@@ -4,7 +4,7 @@ title_greek: Φυσιογνωμονικά
 author: Medical Writers Anonymous
 eul_wid: umi-at
 eul_aid: umi
-canonical: "https://eulogikon.org/grc/medical-writers-anonymous/physiognomics"
+canonical: "https://eulogikon.org/works/med-writers-anon-physiognomics-umi-at"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Medical Writers Anonymous
 
-**eul_wid:** `umi-at` · [HTML page](https://eulogikon.org/grc/medical-writers-anonymous/physiognomics)
+**eul_wid:** `umi-at` · [HTML page](https://eulogikon.org/works/med-writers-anon-physiognomics-umi-at)
 
 ## Text
 

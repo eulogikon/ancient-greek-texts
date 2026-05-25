@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ὠκεανίου Ὑδρολογ
 author: Hippon of Samos
 eul_wid: cui-ab
 eul_aid: cui
-canonical: "https://eulogikon.org/grc/hippon-of-samos/oceanic-hydrology"
+canonical: "https://eulogikon.org/works/hippon-samos-oceanic-hydrology-cui-ab"
 period: Classical
 dialect: Ionic (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippon of Samos
 
-**eul_wid:** `cui-ab` · [HTML page](https://eulogikon.org/grc/hippon-of-samos/oceanic-hydrology)
+**eul_wid:** `cui-ab` · [HTML page](https://eulogikon.org/works/hippon-samos-oceanic-hydrology-cui-ab)
 
 ## Text
 

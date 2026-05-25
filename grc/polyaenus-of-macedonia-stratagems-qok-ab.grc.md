@@ -4,7 +4,7 @@ title_greek: Στρατηγήματα
 author: Polyaenus of Macedonia
 eul_wid: qok-ab
 eul_aid: qok
-canonical: "https://eulogikon.org/grc/polyaenus-of-macedonia/stratagems"
+canonical: "https://eulogikon.org/works/polyaenus-macedonia-stratagems-qok-ab"
 period: Roman
 dialect: Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Polyaenus of Macedonia
 
-**eul_wid:** `qok-ab` · [HTML page](https://eulogikon.org/grc/polyaenus-of-macedonia/stratagems)
+**eul_wid:** `qok-ab` · [HTML page](https://eulogikon.org/works/polyaenus-macedonia-stratagems-qok-ab)
 
 ## Text
 
@@ -824,7 +824,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 6.38
 
-Ὅτι Ἀννίβας ἐν πολέμῳ φονευθέντα † Φλαῦον, ἐπειδὴ τὸ σῶμα αὐτοῦ προσήνεγκαν οἱ Νομάδες καὶ συνεβούλευον αἰκίζε- σθαι, οὐκ ἐπέτρεψεν, ἀλλὰ τόν τε ἄνδρα ὡς ἀγαθὸν στρατηγὸν ἐπήνεσέν καὶ τὰ νενομισμένα τῇ ταφῇ ἐπιτελέσας πρὸς τὴν Ῥώμην ἀπέπεμψεν, ὅθεν καὶ πολλὴν εὔνοιαν παρὰ Ῥωμαίων ἐκτήσατο.
+Ὅτι Ἀννίβας ἐν πολέμῳ φονευθέντα Φλαῦον, ἐπειδὴ τὸ σῶμα αὐτοῦ προσήνεγκαν οἱ Νομάδες καὶ συνεβούλευον αἰκίζε- σθαι, οὐκ ἐπέτρεψεν, ἀλλὰ τόν τε ἄνδρα ὡς ἀγαθὸν στρατηγὸν ἐπήνεσέν καὶ τὰ νενομισμένα τῇ ταφῇ ἐπιτελέσας πρὸς τὴν Ῥώμην ἀπέπεμψεν, ὅθεν καὶ πολλὴν εὔνοιαν παρὰ Ῥωμαίων ἐκτήσατο.
 
 ### 6.41
 

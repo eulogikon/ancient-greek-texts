@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Isidorus the Tragedian
 eul_wid: mjo-aa
 eul_aid: mjo
-canonical: "https://eulogikon.org/grc/isidorus-the-tragedian/nature-of-evil"
+canonical: "https://eulogikon.org/works/isidorus-tragedian-nature-of-evil-mjo-aa"
 period: Hellenistic
 dialect: "Attic (dr, frg)"
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Isidorus the Tragedian
 
-**eul_wid:** `mjo-aa` · [HTML page](https://eulogikon.org/grc/isidorus-the-tragedian/nature-of-evil)
+**eul_wid:** `mjo-aa` · [HTML page](https://eulogikon.org/works/isidorus-tragedian-nature-of-evil-mjo-aa)
 
 ## Text
 

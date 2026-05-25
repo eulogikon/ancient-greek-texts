@@ -4,7 +4,7 @@ title_greek: Σοφιστικὴ Προπαρασκευή
 author: Phrynichus of Bithynia
 eul_wid: oqu-ab
 eul_aid: oqu
-canonical: "https://eulogikon.org/grc/phrynichus-of-bithynia/sophistic-preparation-ab"
+canonical: "https://eulogikon.org/works/phrynichus-bithynia-sophistic-preparation-oqu-ab"
 period: Roman
 dialect: Atticizing
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Phrynichus of Bithynia
 
-**eul_wid:** `oqu-ab` · [HTML page](https://eulogikon.org/grc/phrynichus-of-bithynia/sophistic-preparation-ab)
+**eul_wid:** `oqu-ab` · [HTML page](https://eulogikon.org/works/phrynichus-bithynia-sophistic-preparation-oqu-ab)
 
 ## Text
 

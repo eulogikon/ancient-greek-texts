@@ -4,7 +4,7 @@ title_greek: Ὑπομνήματα εἰς τὸ Βιβλίον περὶ Φύσ
 author: "John of Alexandria "
 eul_wid: vwc-aa
 eul_aid: vwc
-canonical: "https://eulogikon.org/grc/john-of-alexandria/nature-child"
+canonical: "https://eulogikon.org/works/john-alexandria-nature-child-vwc-aa"
 period: Late Antique
 dialect: Byzantine Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** John of Alexandria 
 
-**eul_wid:** `vwc-aa` · [HTML page](https://eulogikon.org/grc/john-of-alexandria/nature-child)
+**eul_wid:** `vwc-aa` · [HTML page](https://eulogikon.org/works/john-alexandria-nature-child-vwc-aa)
 
 ## Text
 

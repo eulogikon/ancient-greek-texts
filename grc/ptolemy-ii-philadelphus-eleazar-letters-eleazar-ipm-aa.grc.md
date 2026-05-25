@@ -4,7 +4,7 @@ title_greek: Ἐπιστολαί
 author: Ptolemy II Philadelphus Eleazar Letters
 eul_wid: ipm-aa
 eul_aid: ipm
-canonical: "https://eulogikon.org/grc/ptolemy-ii-philadelphus-eleazar-letters/eleazar"
+canonical: "https://eulogikon.org/works/ptolemy-ii-letters-eleazar-ipm-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ptolemy II Philadelphus Eleazar Letters
 
-**eul_wid:** `ipm-aa` · [HTML page](https://eulogikon.org/grc/ptolemy-ii-philadelphus-eleazar-letters/eleazar)
+**eul_wid:** `ipm-aa` · [HTML page](https://eulogikon.org/works/ptolemy-ii-letters-eleazar-ipm-aa)
 
 ## Text
 

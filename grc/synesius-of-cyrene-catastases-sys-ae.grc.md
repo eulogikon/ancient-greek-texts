@@ -4,7 +4,7 @@ title_greek: Καταστάσεις
 author: Synesius of Cyrene
 eul_wid: sys-ae
 eul_aid: sys
-canonical: "https://eulogikon.org/grc/synesius-of-cyrene/catastases"
+canonical: "https://eulogikon.org/works/synesius-cyrene-catastases-sys-ae"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Synesius of Cyrene
 
-**eul_wid:** `sys-ae` · [HTML page](https://eulogikon.org/grc/synesius-of-cyrene/catastases)
+**eul_wid:** `sys-ae` · [HTML page](https://eulogikon.org/works/synesius-cyrene-catastases-sys-ae)
 
 ## Text
 

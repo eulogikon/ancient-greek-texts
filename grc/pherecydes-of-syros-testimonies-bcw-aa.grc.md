@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Pherecydes of Syros
 eul_wid: bcw-aa
 eul_aid: bcw
-canonical: "https://eulogikon.org/grc/pherecydes-of-syros/testimonies"
+canonical: "https://eulogikon.org/works/pherecydes-syros-testimonies-bcw-aa"
 period: Archaic
 dialect: Mixed Dialects (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pherecydes of Syros
 
-**eul_wid:** `bcw-aa` · [HTML page](https://eulogikon.org/grc/pherecydes-of-syros/testimonies)
+**eul_wid:** `bcw-aa` · [HTML page](https://eulogikon.org/works/pherecydes-syros-testimonies-bcw-aa)
 
 ## Text
 

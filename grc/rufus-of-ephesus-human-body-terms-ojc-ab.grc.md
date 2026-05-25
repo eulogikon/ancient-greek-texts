@@ -4,7 +4,7 @@ title_greek: Περὶ Ὅρων τοῦ Ἀνθρωπίνου Σώματος
 author: Rufus of Ephesus
 eul_wid: ojc-ab
 eul_aid: ojc
-canonical: "https://eulogikon.org/grc/rufus-of-ephesus/human-body-terms"
+canonical: "https://eulogikon.org/works/rufus-ephesus-human-body-terms-ojc-ab"
 period: Roman
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Rufus of Ephesus
 
-**eul_wid:** `ojc-ab` · [HTML page](https://eulogikon.org/grc/rufus-of-ephesus/human-body-terms)
+**eul_wid:** `ojc-ab` · [HTML page](https://eulogikon.org/works/rufus-ephesus-human-body-terms-ojc-ab)
 
 ## Text
 

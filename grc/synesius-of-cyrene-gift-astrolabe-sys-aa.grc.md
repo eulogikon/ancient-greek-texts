@@ -4,7 +4,7 @@ title_greek: Πρὸς Παίωνιον περὶ Δώρου τοῦ Ἀστρο
 author: Synesius of Cyrene
 eul_wid: sys-aa
 eul_aid: sys
-canonical: "https://eulogikon.org/grc/synesius-of-cyrene/gift-astrolabe"
+canonical: "https://eulogikon.org/works/synesius-cyrene-gift-astrolabe-sys-aa"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Synesius of Cyrene
 
-**eul_wid:** `sys-aa` · [HTML page](https://eulogikon.org/grc/synesius-of-cyrene/gift-astrolabe)
+**eul_wid:** `sys-aa` · [HTML page](https://eulogikon.org/works/synesius-cyrene-gift-astrolabe-sys-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ ὀδοντοφυΐας
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-bk
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/dentition"
+canonical: "https://eulogikon.org/works/hippocrates-dentition-bww-bk"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-bk` · [HTML page](https://eulogikon.org/grc/hippocrates/dentition)
+**eul_wid:** `bww-bk` · [HTML page](https://eulogikon.org/works/hippocrates-dentition-bww-bk)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Nymphodorus of Abdera
 eul_wid: dpc-aa
 eul_aid: dpc
-canonical: "https://eulogikon.org/grc/nymphodorus-of-abdera/wonders-sicily"
+canonical: "https://eulogikon.org/works/nymphodorus-abdera-wonders-sicily-dpc-aa"
 period: Classical
 dialect: Ionic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nymphodorus of Abdera
 
-**eul_wid:** `dpc-aa` · [HTML page](https://eulogikon.org/grc/nymphodorus-of-abdera/wonders-sicily)
+**eul_wid:** `dpc-aa` · [HTML page](https://eulogikon.org/works/nymphodorus-abdera-wonders-sicily-dpc-aa)
 
 ## Text
 

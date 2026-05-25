@@ -4,7 +4,7 @@ title_greek: Ἥρως
 author: Menander of Athens
 eul_wid: hps-bq
 eul_aid: hps
-canonical: "https://eulogikon.org/grc/menander-of-athens/hero"
+canonical: "https://eulogikon.org/works/menander-athens-hero-hps-bq"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander of Athens
 
-**eul_wid:** `hps-bq` · [HTML page](https://eulogikon.org/grc/menander-of-athens/hero)
+**eul_wid:** `hps-bq` · [HTML page](https://eulogikon.org/works/menander-athens-hero-hps-bq)
 
 ## Text
 
@@ -32,7 +32,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1.2
 
-παμμέγεθες, εἶτα προσδοκῶν ἀγωνιᾶν̣
+παμμέγεθες, εἶτα προσδοκῶν ἀγωνιᾶν
 
 ### 1.3
 
@@ -64,11 +64,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 6.4
 
-σοὶ τυγχάν]ε̣ι̣ τ̣ι, τοῦτ’ ἐμοὶ δοῦναι τέως
+σοὶ τυγχάν]ει τι, τοῦτ’ ἐμοὶ δοῦναι τέως
 
 ### 10
 
-[ ]τ̣α̣ κατὰ σεαυτὸν πράγματα
+[ ]τα κατὰ σεαυτὸν πράγματα
 
 ### 10.1
 
@@ -76,7 +76,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 10.2
 
-[ ]η̣ρα̣.
+[ ]ηρα.
 
 ### 10.3
 
@@ -248,7 +248,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 40.4
 
-εἴρηχ’, ὑπέσχηταί τ’ ἐ̣μ̣ο̣ὶ̣ σ̣[υνοικιεῖν
+εἴρηχ’, ὑπέσχηταί τ’ ἐμοὶ σ[υνοικιεῖν
 
 ### 45.1
 
@@ -280,7 +280,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 45.6
 
-(?) πολυπ[ φρονεῖς· ἐγὼ γὰρ κλ̣ι̣[
+(?) πολυπ[ φρονεῖς· ἐγὼ γὰρ κλι[
 
 ### 45.7
 
@@ -292,11 +292,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 45.9
 
-[ ]ε̣λοιμ’ ω[
+[ ]ελοιμ’ ω[
 
 ### 45.10
 
-[ ]ι[..]σ̣ο̣ι̣ [...] τοῦτο τ[
+[ ]ι[..]σοι [...] τοῦτο τ[
 
 ### 54
 
@@ -312,11 +312,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 55.2
 
-[ ]δ̣ι̣δ̣ω̣μι νυμφ[
+[ ]διδωμι νυμφ[
 
 ### 55.3
 
-[ ]μ̣α̣[
+[ ]μα[
 
 ### 55.4
 
@@ -324,7 +324,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 60.1
 
-[ ]ε̣..[.] ἄσωτο[
+[ ]ε..[.] ἄσωτο[
 
 ### 60.2
 
@@ -340,7 +340,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 60.5
 
-[ ]ο̣ν̣κ̣[
+[ ]ονκ[
 
 ### 65.1
 
@@ -348,7 +348,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 65.2
 
-τούτωι. (?) πο̣[
+τούτωι. (?) πο[
 
 ### 65.3
 
@@ -396,7 +396,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 75.1
 
-[ ]ρ ἀνδρια̣[
+[ ]ρ ἀνδρια[
 
 ### 75.2
 
@@ -420,7 +420,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 80.1
 
-[?Λα] ὑπονοεῖς ὅσ̣τ̣[ις [ ]τ̣ι̣γ̣η̣μ̣
+[?Λα] ὑπονοεῖς ὅστ[ις [ ]τιγημ
 
 ### 80.2
 
@@ -436,7 +436,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 85.1
 
-(Α) .υ δῆτα· κ̣α̣ὶ̣ μ̣[
+(Α) .υ δῆτα· καὶ μ[
 
 ### 85.2
 
@@ -448,11 +448,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 85.4
 
-λαβεῖν ο̣δ̣ε̣[
+λαβεῖν οδε[
 
 ### 85.5
 
-.λθ̣[
+.λθ[
 
 ### 90.1
 
@@ -460,7 +460,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 90.2
 
-[]ς̣ ὅτι
+[]ς ὅτι
 
 ### 90.3
 
@@ -484,7 +484,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 95.2
 
-(Λα) [ ]ς̣ τὸ πρᾶγμα γίνεται. πῶς λανθάνει ὁ π]ρ[οσ]πεσών σε; πῶς δ’ ἀπε̣[...]ε; πηνίκα [
+(Λα) [ ]ς τὸ πρᾶγμα γίνεται. πῶς λανθάνει ὁ π]ρ[οσ]πεσών σε; πῶς δ’ ἀπε[...]ε; πηνίκα [
 
 ## License and provenance
 

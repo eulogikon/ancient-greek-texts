@@ -4,7 +4,7 @@ title_greek: Περὶ γυναικείων
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-cb
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/women"
+canonical: "https://eulogikon.org/works/hippocrates-women-bww-cb"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-cb` · [HTML page](https://eulogikon.org/grc/hippocrates/women)
+**eul_wid:** `bww-cb` · [HTML page](https://eulogikon.org/works/hippocrates-women-bww-cb)
 
 ## Text
 

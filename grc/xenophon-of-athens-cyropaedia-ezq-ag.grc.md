@@ -4,7 +4,7 @@ title_greek: Κύρου Παιδεία
 author: Xenophon of Athens
 eul_wid: ezq-ag
 eul_aid: ezq
-canonical: "https://eulogikon.org/grc/xenophon-of-athens/cyropaedia"
+canonical: "https://eulogikon.org/works/xenophon-athens-cyropaedia-ezq-ag"
 period: Classical
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Xenophon of Athens
 
-**eul_wid:** `ezq-ag` · [HTML page](https://eulogikon.org/grc/xenophon-of-athens/cyropaedia)
+**eul_wid:** `ezq-ag` · [HTML page](https://eulogikon.org/works/xenophon-athens-cyropaedia-ezq-ag)
 
 ## Text
 

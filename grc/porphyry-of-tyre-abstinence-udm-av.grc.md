@@ -4,7 +4,7 @@ title_greek: Περὶ Ἀποχῆς
 author: Porphyry of Tyre
 eul_wid: udm-av
 eul_aid: udm
-canonical: "https://eulogikon.org/grc/porphyry-of-tyre/abstinence"
+canonical: "https://eulogikon.org/works/porphyry-tyre-abstinence-udm-av"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Porphyry of Tyre
 
-**eul_wid:** `udm-av` · [HTML page](https://eulogikon.org/grc/porphyry-of-tyre/abstinence)
+**eul_wid:** `udm-av` · [HTML page](https://eulogikon.org/works/porphyry-tyre-abstinence-udm-av)
 
 ## Text
 

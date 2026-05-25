@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Polycharmus the Historian
 eul_wid: cfs-aa
 eul_aid: cfs
-canonical: "https://eulogikon.org/grc/polycharmus-the-historian/lycian-oracle"
+canonical: "https://eulogikon.org/works/polycharmus-lycian-oracle-cfs-aa"
 period: Classical
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Polycharmus the Historian
 
-**eul_wid:** `cfs-aa` · [HTML page](https://eulogikon.org/grc/polycharmus-the-historian/lycian-oracle)
+**eul_wid:** `cfs-aa` · [HTML page](https://eulogikon.org/works/polycharmus-lycian-oracle-cfs-aa)
 
 ## Text
 

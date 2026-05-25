@@ -4,7 +4,7 @@ title_greek: Νιγρίνου Φιλοσοφία
 author: Lucian of Samosata
 eul_wid: pfk-aq
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/nigrianus-philosophy"
+canonical: "https://eulogikon.org/works/lucian-samosata-nigrianus-philosophy-pfk-aq"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-aq` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/nigrianus-philosophy)
+**eul_wid:** `pfk-aq` · [HTML page](https://eulogikon.org/works/lucian-samosata-nigrianus-philosophy-pfk-aq)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Προβλήματα ἀριθμητικά
 author: Nicomachus of Gerasa
 eul_wid: owy-ad
 eul_aid: owy
-canonical: "https://eulogikon.org/grc/nicomachus-of-gerasa/arithmetic"
+canonical: "https://eulogikon.org/works/nicomachus-gerasa-arithmetic-owy-ad"
 period: Roman
 dialect: Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nicomachus of Gerasa
 
-**eul_wid:** `owy-ad` · [HTML page](https://eulogikon.org/grc/nicomachus-of-gerasa/arithmetic)
+**eul_wid:** `owy-ad` · [HTML page](https://eulogikon.org/works/nicomachus-gerasa-arithmetic-owy-ad)
 
 ## Text
 

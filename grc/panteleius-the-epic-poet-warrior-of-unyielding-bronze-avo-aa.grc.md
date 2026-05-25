@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Panteleius the Epic Poet
 eul_wid: avo-aa
 eul_aid: avo
-canonical: "https://eulogikon.org/grc/panteleius-the-epic-poet/warrior-of-unyielding-bronze"
+canonical: "https://eulogikon.org/works/panteleius-warrior-of-unyielding-bronze-avo-aa"
 period: Archaic
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Panteleius the Epic Poet
 
-**eul_wid:** `avo-aa` · [HTML page](https://eulogikon.org/grc/panteleius-the-epic-poet/warrior-of-unyielding-bronze)
+**eul_wid:** `avo-aa` · [HTML page](https://eulogikon.org/works/panteleius-warrior-of-unyielding-bronze-avo-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἱέρων
 author: Xenophon of Athens
 eul_wid: ezq-ao
 eul_aid: ezq
-canonical: "https://eulogikon.org/grc/xenophon-of-athens/hiero"
+canonical: "https://eulogikon.org/works/xenophon-athens-hiero-ezq-ao"
 period: Classical
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Xenophon of Athens
 
-**eul_wid:** `ezq-ao` · [HTML page](https://eulogikon.org/grc/xenophon-of-athens/hiero)
+**eul_wid:** `ezq-ao` · [HTML page](https://eulogikon.org/works/xenophon-athens-hiero-ezq-ao)
 
 ## Text
 

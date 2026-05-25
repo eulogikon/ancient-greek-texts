@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Nicolaus of Damascus
 eul_wid: ocy-aa
 eul_aid: ocy
-canonical: "https://eulogikon.org/grc/nicolaus-of-damascus/life-antipater"
+canonical: "https://eulogikon.org/works/nicolaus-damascus-life-antipater-ocy-aa"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nicolaus of Damascus
 
-**eul_wid:** `ocy-aa` · [HTML page](https://eulogikon.org/grc/nicolaus-of-damascus/life-antipater)
+**eul_wid:** `ocy-aa` · [HTML page](https://eulogikon.org/works/nicolaus-damascus-life-antipater-ocy-aa)
 
 ## Text
 

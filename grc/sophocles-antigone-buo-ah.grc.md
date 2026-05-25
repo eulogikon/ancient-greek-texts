@@ -4,7 +4,7 @@ title_greek: Ἀντιγόνη
 author: Sophocles
 eul_wid: buo-ah
 eul_aid: buo
-canonical: "https://eulogikon.org/grc/sophocles/antigone"
+canonical: "https://eulogikon.org/works/sophocles-antigone-buo-ah"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sophocles
 
-**eul_wid:** `buo-ah` · [HTML page](https://eulogikon.org/grc/sophocles/antigone)
+**eul_wid:** `buo-ah` · [HTML page](https://eulogikon.org/works/sophocles-antigone-buo-ah)
 
 ## Text
 

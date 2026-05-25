@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἰνδικῆς
 author: Megasthenes
 eul_wid: lng-aa
 eul_aid: lng
-canonical: "https://eulogikon.org/grc/megasthenes/india-fragments"
+canonical: "https://eulogikon.org/works/megasthenes-india-fragments-lng-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Megasthenes
 
-**eul_wid:** `lng-aa` · [HTML page](https://eulogikon.org/grc/megasthenes/india-fragments)
+**eul_wid:** `lng-aa` · [HTML page](https://eulogikon.org/works/megasthenes-india-fragments-lng-aa)
 
 ## Text
 

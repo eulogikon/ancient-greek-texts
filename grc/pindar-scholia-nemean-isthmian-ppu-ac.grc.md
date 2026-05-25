@@ -4,7 +4,7 @@ title_greek: Σχόλια εἰς Νεμεακὰ καὶ Ἰσθμιακά
 author: Pindar Commentary
 eul_wid: ppu-ac
 eul_aid: ppu
-canonical: "https://eulogikon.org/grc/pindar-scholia/nemean-isthmian"
+canonical: "https://eulogikon.org/works/pindar-comm-nemean-isthmian-ppu-ac"
 period: Roman
 dialect: Atticizing
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pindar Commentary
 
-**eul_wid:** `ppu-ac` · [HTML page](https://eulogikon.org/grc/pindar-scholia/nemean-isthmian)
+**eul_wid:** `ppu-ac` · [HTML page](https://eulogikon.org/works/pindar-comm-nemean-isthmian-ppu-ac)
 
 ## Text
 

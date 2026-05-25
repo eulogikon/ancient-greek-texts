@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Theophrastus of Eresus
 eul_wid: ljk-an
 eul_aid: ljk
-canonical: "https://eulogikon.org/grc/theophrastus-of-eresus/smells-odors"
+canonical: "https://eulogikon.org/works/theophrastus-eresus-smells-odors-ljk-an"
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theophrastus of Eresus
 
-**eul_wid:** `ljk-an` · [HTML page](https://eulogikon.org/grc/theophrastus-of-eresus/smells-odors)
+**eul_wid:** `ljk-an` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-smells-odors-ljk-an)
 
 ## Text
 

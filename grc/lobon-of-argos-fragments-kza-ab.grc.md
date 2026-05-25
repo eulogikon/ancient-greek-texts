@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα καὶ Τίτλος
 author: Lobon of Argos
 eul_wid: kza-ab
 eul_aid: kza
-canonical: "https://eulogikon.org/grc/lobon-of-argos/fragments"
+canonical: "https://eulogikon.org/works/lobon-argos-fragments-kza-ab"
 period: Hellenistic
 dialect: Koine (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lobon of Argos
 
-**eul_wid:** `kza-ab` · [HTML page](https://eulogikon.org/grc/lobon-of-argos/fragments)
+**eul_wid:** `kza-ab` · [HTML page](https://eulogikon.org/works/lobon-argos-fragments-kza-ab)
 
 ## Text
 

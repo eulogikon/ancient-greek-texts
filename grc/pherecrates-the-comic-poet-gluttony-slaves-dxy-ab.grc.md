@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Λαιμαργίας καὶ Δο
 author: Pherecrates the Comic Poet
 eul_wid: dxy-ab
 eul_aid: dxy
-canonical: "https://eulogikon.org/grc/pherecrates-the-comic-poet/gluttony-slaves"
+canonical: "https://eulogikon.org/works/pherecrates-gluttony-slaves-dxy-ab"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pherecrates the Comic Poet
 
-**eul_wid:** `dxy-ab` · [HTML page](https://eulogikon.org/grc/pherecrates-the-comic-poet/gluttony-slaves)
+**eul_wid:** `dxy-ab` · [HTML page](https://eulogikon.org/works/pherecrates-gluttony-slaves-dxy-ab)
 
 ## Text
 

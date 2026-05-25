@@ -4,7 +4,7 @@ title_greek: Ἀποκηρυττόμενος
 author: Lucian of Samosata
 eul_wid: pfk-bt
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/renounced"
+canonical: "https://eulogikon.org/works/lucian-samosata-renounced-pfk-bt"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-bt` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/renounced)
+**eul_wid:** `pfk-bt` · [HTML page](https://eulogikon.org/works/lucian-samosata-renounced-pfk-bt)
 
 ## Text
 

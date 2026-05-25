@@ -4,7 +4,7 @@ title_greek: Περὶ Διαφορᾶς Συγγενῶν Λέξεων
 author: Philon of Byblos
 eul_wid: oow-ac
 eul_aid: oow
-canonical: "https://eulogikon.org/grc/philon-of-byblos/difference-words"
+canonical: "https://eulogikon.org/works/philon-byblos-difference-words-oow-ac"
 period: Roman
 dialect: Koine (frg)
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philon of Byblos
 
-**eul_wid:** `oow-ac` · [HTML page](https://eulogikon.org/grc/philon-of-byblos/difference-words)
+**eul_wid:** `oow-ac` · [HTML page](https://eulogikon.org/works/philon-byblos-difference-words-oow-ac)
 
 ## Text
 
@@ -84,7 +84,7 @@ Egud. ἡσυχάζειν μὲν γὰρ τὸ ἠρεμεῖν καὶ ἀτρ
 
 ### 16
 
-θόλος τὸ οἰκοδόμημα ὃ νῦν καμάραν καλοῦσι· θολ{ι}ὸς τὸ μέλαν τῆς ση†τηό†ς. Eren. τὸ ἱππῆς τοῦ ἱππέας διαφέρει.
+θόλος τὸ οἰκοδόμημα ὃ νῦν καμάραν καλοῦσι· θολ{ι}ὸς τὸ μέλαν τῆς σητηός. Eren. τὸ ἱππῆς τοῦ ἱππέας διαφέρει.
 
 ### 17
 

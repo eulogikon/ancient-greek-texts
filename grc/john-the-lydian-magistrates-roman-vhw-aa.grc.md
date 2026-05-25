@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν Ἄρχοντων τοῦ Ῥωμαϊκοῦ Λα
 author: John the Lydian
 eul_wid: vhw-aa
 eul_aid: vhw
-canonical: "https://eulogikon.org/grc/john-the-lydian/magistrates-roman"
+canonical: "https://eulogikon.org/works/john-lydian-magistrates-roman-vhw-aa"
 period: Late Antique
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** John the Lydian
 
-**eul_wid:** `vhw-aa` · [HTML page](https://eulogikon.org/grc/john-the-lydian/magistrates-roman)
+**eul_wid:** `vhw-aa` · [HTML page](https://eulogikon.org/works/john-lydian-magistrates-roman-vhw-aa)
 
 ## Text
 

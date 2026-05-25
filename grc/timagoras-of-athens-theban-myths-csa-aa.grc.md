@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Timagoras of Athens
 eul_wid: csa-aa
 eul_aid: csa
-canonical: "https://eulogikon.org/grc/timagoras-of-athens/theban-myths"
+canonical: "https://eulogikon.org/works/timagoras-athens-theban-myths-csa-aa"
 period: Classical
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Timagoras of Athens
 
-**eul_wid:** `csa-aa` · [HTML page](https://eulogikon.org/grc/timagoras-of-athens/theban-myths)
+**eul_wid:** `csa-aa` · [HTML page](https://eulogikon.org/works/timagoras-athens-theban-myths-csa-aa)
 
 ## Text
 

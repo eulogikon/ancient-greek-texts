@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Lysanias of Mallos
 eul_wid: oaq-aa
 eul_aid: oaq
-canonical: "https://eulogikon.org/grc/lysanias-of-mallos/eretrian-expedition"
+canonical: "https://eulogikon.org/works/lysanias-mallos-eretrian-expedition-oaq-aa"
 period: Roman
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lysanias of Mallos
 
-**eul_wid:** `oaq-aa` · [HTML page](https://eulogikon.org/grc/lysanias-of-mallos/eretrian-expedition)
+**eul_wid:** `oaq-aa` · [HTML page](https://eulogikon.org/works/lysanias-mallos-eretrian-expedition-oaq-aa)
 
 ## Text
 

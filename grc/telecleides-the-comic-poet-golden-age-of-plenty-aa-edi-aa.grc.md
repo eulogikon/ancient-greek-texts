@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Telecleides Comicus
 eul_wid: edi-aa
 eul_aid: edi
-canonical: "https://eulogikon.org/grc/telecleides-the-comic-poet/golden-age-of-plenty-aa"
+canonical: "https://eulogikon.org/works/telecleides-golden-age-of-plenty-edi-aa"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Telecleides Comicus
 
-**eul_wid:** `edi-aa` · [HTML page](https://eulogikon.org/grc/telecleides-the-comic-poet/golden-age-of-plenty-aa)
+**eul_wid:** `edi-aa` · [HTML page](https://eulogikon.org/works/telecleides-golden-age-of-plenty-edi-aa)
 
 ## Text
 

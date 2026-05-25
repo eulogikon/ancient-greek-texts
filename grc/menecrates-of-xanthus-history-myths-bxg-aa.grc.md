@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Menecrates of Xanthus
 eul_wid: bxg-aa
 eul_aid: bxg
-canonical: "https://eulogikon.org/grc/menecrates-of-xanthus/history-myths"
+canonical: "https://eulogikon.org/works/menecrates-xanthus-history-myths-bxg-aa"
 period: Classical
 dialect: Ionic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menecrates of Xanthus
 
-**eul_wid:** `bxg-aa` · [HTML page](https://eulogikon.org/grc/menecrates-of-xanthus/history-myths)
+**eul_wid:** `bxg-aa` · [HTML page](https://eulogikon.org/works/menecrates-xanthus-history-myths-bxg-aa)
 
 ## Text
 

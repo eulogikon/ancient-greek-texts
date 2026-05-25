@@ -4,7 +4,7 @@ title_greek: Περὶ Ἀνέμων
 author: Theophrastus of Eresus
 eul_wid: ljk-at
 eul_aid: ljk
-canonical: "https://eulogikon.org/grc/theophrastus-of-eresus/winds"
+canonical: "https://eulogikon.org/works/theophrastus-eresus-winds-ljk-at"
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theophrastus of Eresus
 
-**eul_wid:** `ljk-at` · [HTML page](https://eulogikon.org/grc/theophrastus-of-eresus/winds)
+**eul_wid:** `ljk-at` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-winds-ljk-at)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Sosibius of Sparta
 eul_wid: kqy-ab
 eul_aid: kqy
-canonical: "https://eulogikon.org/grc/sosibius-of-sparta/iberian-people"
+canonical: "https://eulogikon.org/works/sosibius-sparta-iberian-people-kqy-ab"
 period: Hellenistic
 dialect: Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sosibius of Sparta
 
-**eul_wid:** `kqy-ab` · [HTML page](https://eulogikon.org/grc/sosibius-of-sparta/iberian-people)
+**eul_wid:** `kqy-ab` · [HTML page](https://eulogikon.org/works/sosibius-sparta-iberian-people-kqy-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Φιλέταιρος
 author: Herodian of Alexandria
 eul_wid: qnq-aa
 eul_aid: qnq
-canonical: "https://eulogikon.org/grc/herodian-of-alexandria/philetaerus"
+canonical: "https://eulogikon.org/works/herodian-alexandria-philetaerus-qnq-aa"
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Herodian of Alexandria
 
-**eul_wid:** `qnq-aa` · [HTML page](https://eulogikon.org/grc/herodian-of-alexandria/philetaerus)
+**eul_wid:** `qnq-aa` · [HTML page](https://eulogikon.org/works/herodian-alexandria-philetaerus-qnq-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Παρμενίδης
 author: Plato of Athens
 eul_wid: ffk-ak
 eul_aid: ffk
-canonical: "https://eulogikon.org/grc/plato/parmenides"
+canonical: "https://eulogikon.org/works/plato-parmenides-ffk-ak"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plato of Athens
 
-**eul_wid:** `ffk-ak` · [HTML page](https://eulogikon.org/grc/plato/parmenides)
+**eul_wid:** `ffk-ak` · [HTML page](https://eulogikon.org/works/plato-parmenides-ffk-ak)
 
 ## Text
 

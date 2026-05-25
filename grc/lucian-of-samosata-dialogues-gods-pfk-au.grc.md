@@ -4,7 +4,7 @@ title_greek: Θεῶν Διάλογοι
 author: Lucian of Samosata
 eul_wid: pfk-au
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/dialogues-gods"
+canonical: "https://eulogikon.org/works/lucian-samosata-dialogues-gods-pfk-au"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-au` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/dialogues-gods)
+**eul_wid:** `pfk-au` · [HTML page](https://eulogikon.org/works/lucian-samosata-dialogues-gods-pfk-au)
 
 ## Text
 

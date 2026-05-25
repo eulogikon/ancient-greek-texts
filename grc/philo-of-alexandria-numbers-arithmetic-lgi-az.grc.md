@@ -4,7 +4,7 @@ title_greek: Περὶ ἀριθμῶν Ἀριθμητικά
 author: Philo of Alexandria
 eul_wid: lgi-az
 eul_aid: lgi
-canonical: "https://eulogikon.org/grc/philo-of-alexandria/numbers-arithmetic"
+canonical: "https://eulogikon.org/works/philo-alexandria-numbers-arithmetic-lgi-az"
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philo of Alexandria
 
-**eul_wid:** `lgi-az` · [HTML page](https://eulogikon.org/grc/philo-of-alexandria/numbers-arithmetic)
+**eul_wid:** `lgi-az` · [HTML page](https://eulogikon.org/works/philo-alexandria-numbers-arithmetic-lgi-az)
 
 ## Text
 

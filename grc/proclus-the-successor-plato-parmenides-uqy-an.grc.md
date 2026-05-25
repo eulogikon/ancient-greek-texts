@@ -4,7 +4,7 @@ title_greek: Περὶ τοῦ Πλάτωνος Παρμενίδου
 author: Proclus the Successor
 eul_wid: uqy-an
 eul_aid: uqy
-canonical: "https://eulogikon.org/grc/proclus-the-successor/plato-parmenides"
+canonical: "https://eulogikon.org/works/proclus-plato-parmenides-uqy-an"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Proclus the Successor
 
-**eul_wid:** `uqy-an` · [HTML page](https://eulogikon.org/grc/proclus-the-successor/plato-parmenides)
+**eul_wid:** `uqy-an` · [HTML page](https://eulogikon.org/works/proclus-plato-parmenides-uqy-an)
 
 ## Text
 

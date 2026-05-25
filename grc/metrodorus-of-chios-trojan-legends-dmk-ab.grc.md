@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Τρωικῶν Μύθων
 author: Metrodorus of Chios
 eul_wid: dmk-ab
 eul_aid: dmk
-canonical: "https://eulogikon.org/grc/metrodorus-of-chios/trojan-legends"
+canonical: "https://eulogikon.org/works/metrodorus-chios-trojan-legends-dmk-ab"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Metrodorus of Chios
 
-**eul_wid:** `dmk-ab` · [HTML page](https://eulogikon.org/grc/metrodorus-of-chios/trojan-legends)
+**eul_wid:** `dmk-ab` · [HTML page](https://eulogikon.org/works/metrodorus-chios-trojan-legends-dmk-ab)
 
 ## Text
 

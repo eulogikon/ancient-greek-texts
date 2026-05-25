@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Sostratus of Nyssa
 eul_wid: nkm-aa
 eul_aid: nkm
-canonical: "https://eulogikon.org/grc/sostratus-of-nyssa/mythical-histories"
+canonical: "https://eulogikon.org/works/sostratus-nyssa-mythical-histories-nkm-aa"
 period: Hellenistic
 dialect: Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sostratus of Nyssa
 
-**eul_wid:** `nkm-aa` · [HTML page](https://eulogikon.org/grc/sostratus-of-nyssa/mythical-histories)
+**eul_wid:** `nkm-aa` · [HTML page](https://eulogikon.org/works/sostratus-nyssa-mythical-histories-nkm-aa)
 
 ## Text
 

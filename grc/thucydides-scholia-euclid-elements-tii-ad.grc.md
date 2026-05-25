@@ -4,7 +4,7 @@ title_greek: Σχόλια εἰς Εὐκλείδου Στοιχεῖα
 author: Thucydides Scholia
 eul_wid: tii-ad
 eul_aid: tii
-canonical: "https://eulogikon.org/grc/thucydides-scholia/euclid-elements"
+canonical: "https://eulogikon.org/works/thuc-scholia-euclid-elements-tii-ad"
 period: Late Antique
 dialect: Byzantine Technical
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Thucydides Scholia
 
-**eul_wid:** `tii-ad` · [HTML page](https://eulogikon.org/grc/thucydides-scholia/euclid-elements)
+**eul_wid:** `tii-ad` · [HTML page](https://eulogikon.org/works/thuc-scholia-euclid-elements-tii-ad)
 
 ## Text
 
@@ -32116,7 +32116,7 @@ p. 201, 11. 12] ἐπεὶ γάρ ἐστιν ὡς ἡ μονὰς πρὸς τ
 
 ### book 3col 4.15.5
 
-ἐλάττονα† κα‐
+ἐλάττονα κα‐
 
 ### book 3col 4.20.1
 

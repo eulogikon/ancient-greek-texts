@@ -4,7 +4,7 @@ title_greek: πρὸς Σίμωνα ἀπολογία
 author: Lysias the Orator
 eul_wid: ejc-be
 eul_aid: ejc
-canonical: "https://eulogikon.org/grc/lysias/simon-apology"
+canonical: "https://eulogikon.org/works/lysias-simon-apology-ejc-be"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lysias the Orator
 
-**eul_wid:** `ejc-be` · [HTML page](https://eulogikon.org/grc/lysias/simon-apology)
+**eul_wid:** `ejc-be` · [HTML page](https://eulogikon.org/works/lysias-simon-apology-ejc-be)
 
 ## Text
 

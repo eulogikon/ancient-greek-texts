@@ -4,7 +4,7 @@ title_greek: Περὶ πένθους
 author: Lucian of Samosata
 eul_wid: pfk-bz
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/mourning"
+canonical: "https://eulogikon.org/works/lucian-samosata-mourning-pfk-bz"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-bz` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/mourning)
+**eul_wid:** `pfk-bz` · [HTML page](https://eulogikon.org/works/lucian-samosata-mourning-pfk-bz)
 
 ## Text
 

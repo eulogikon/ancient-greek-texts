@@ -4,7 +4,7 @@ title_greek: Ὕμνος εἰς τὴν Μητέρα τῶν Θεῶν
 author: Hymnic Collection  Anonymous
 eul_wid: upu-ab
 eul_aid: upu
-canonical: "https://eulogikon.org/grc/homeric-hymns-anonymous/mother-gods"
+canonical: "https://eulogikon.org/works/hymnic-anon-mother-gods-upu-ab"
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hymnic Collection  Anonymous
 
-**eul_wid:** `upu-ab` · [HTML page](https://eulogikon.org/grc/homeric-hymns-anonymous/mother-gods)
+**eul_wid:** `upu-ab` · [HTML page](https://eulogikon.org/works/hymnic-anon-mother-gods-upu-ab)
 
 ## Text
 

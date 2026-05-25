@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα ἐπιστολῆς πρὸς Κλεαρέτα
 author: Melissa the Pythagorean
 eul_wid: jow-aa
 eul_aid: jow
-canonical: "https://eulogikon.org/grc/melissa-the-pythagorean/letter-cleareta"
+canonical: "https://eulogikon.org/works/melissa-pythagorean-letter-cleareta-jow-aa"
 period: Hellenistic
 dialect: Doric
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Melissa the Pythagorean
 
-**eul_wid:** `jow-aa` · [HTML page](https://eulogikon.org/grc/melissa-the-pythagorean/letter-cleareta)
+**eul_wid:** `jow-aa` · [HTML page](https://eulogikon.org/works/melissa-pythagorean-letter-cleareta-jow-aa)
 
 ## Text
 

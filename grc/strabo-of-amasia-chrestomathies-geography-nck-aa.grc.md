@@ -4,7 +4,7 @@ title_greek: Χρηστομάθειαι ἐκ τῶν Γεωγραφικῶν Σ
 author: Strabo of Amasia
 eul_wid: nck-aa
 eul_aid: nck
-canonical: "https://eulogikon.org/grc/strabo-of-amasia/chrestomathies-geography"
+canonical: "https://eulogikon.org/works/strabo-amasia-chrestomathies-geography-nck-aa"
 period: Hellenistic
 dialect: Koine
 domain: Geography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Strabo of Amasia
 
-**eul_wid:** `nck-aa` · [HTML page](https://eulogikon.org/grc/strabo-of-amasia/chrestomathies-geography)
+**eul_wid:** `nck-aa` · [HTML page](https://eulogikon.org/works/strabo-amasia-chrestomathies-geography-nck-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἐκ τῶν μετὰ τὰ φυσικά
 author: Theophrastus of Eresus
 eul_wid: ljk-af
 eul_aid: ljk
-canonical: "https://eulogikon.org/grc/theophrastus-of-eresus/metaphysics"
+canonical: "https://eulogikon.org/works/theophrastus-eresus-metaphysics-ljk-af"
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theophrastus of Eresus
 
-**eul_wid:** `ljk-af` · [HTML page](https://eulogikon.org/grc/theophrastus-of-eresus/metaphysics)
+**eul_wid:** `ljk-af` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-metaphysics-ljk-af)
 
 ## Text
 

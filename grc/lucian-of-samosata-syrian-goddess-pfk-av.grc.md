@@ -4,7 +4,7 @@ title_greek: Περὶ τῆς Συρίης Θεοῦ
 author: Lucian of Samosata
 eul_wid: pfk-av
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/syrian-goddess"
+canonical: "https://eulogikon.org/works/lucian-samosata-syrian-goddess-pfk-av"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-av` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/syrian-goddess)
+**eul_wid:** `pfk-av` · [HTML page](https://eulogikon.org/works/lucian-samosata-syrian-goddess-pfk-av)
 
 ## Text
 

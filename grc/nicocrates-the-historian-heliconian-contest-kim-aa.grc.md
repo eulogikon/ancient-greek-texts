@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Nicocrates the Historian
 eul_wid: kim-aa
 eul_aid: kim
-canonical: "https://eulogikon.org/grc/nicocrates-the-historian/heliconian-contest"
+canonical: "https://eulogikon.org/works/nicocrates-heliconian-contest-kim-aa"
 period: Hellenistic
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nicocrates the Historian
 
-**eul_wid:** `kim-aa` · [HTML page](https://eulogikon.org/grc/nicocrates-the-historian/heliconian-contest)
+**eul_wid:** `kim-aa` · [HTML page](https://eulogikon.org/works/nicocrates-heliconian-contest-kim-aa)
 
 ## Text
 

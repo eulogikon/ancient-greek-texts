@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Hippodamus of Miletus
 eul_wid: cty-aa
 eul_aid: cty
-canonical: "https://eulogikon.org/grc/hippodamus-of-miletus/testimonies"
+canonical: "https://eulogikon.org/works/hippodamus-miletus-testimonies-cty-aa"
 period: Classical
 dialect: Doric
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippodamus of Miletus
 
-**eul_wid:** `cty-aa` · [HTML page](https://eulogikon.org/grc/hippodamus-of-miletus/testimonies)
+**eul_wid:** `cty-aa` · [HTML page](https://eulogikon.org/works/hippodamus-miletus-testimonies-cty-aa)
 
 ## Text
 

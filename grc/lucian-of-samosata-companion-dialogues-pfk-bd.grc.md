@@ -4,7 +4,7 @@ title_greek: Ἑταιρικοὶ Διάλογοι
 author: Lucian of Samosata
 eul_wid: pfk-bd
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/companion-dialogues"
+canonical: "https://eulogikon.org/works/lucian-samosata-companion-dialogues-pfk-bd"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-bd` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/companion-dialogues)
+**eul_wid:** `pfk-bd` · [HTML page](https://eulogikon.org/works/lucian-samosata-companion-dialogues-pfk-bd)
 
 ## Text
 

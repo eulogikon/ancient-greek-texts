@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Βουκολικῆς Ποίησεως
 author: Moschus of Syracuse
 eul_wid: mdu-ac
 eul_aid: mdu
-canonical: "https://eulogikon.org/grc/moschus-of-syracuse/bucolic-fragments"
+canonical: "https://eulogikon.org/works/moschus-syracuse-bucolic-fragments-mdu-ac"
 period: Hellenistic
 dialect: Doric Bucolic
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Moschus of Syracuse
 
-**eul_wid:** `mdu-ac` · [HTML page](https://eulogikon.org/grc/moschus-of-syracuse/bucolic-fragments)
+**eul_wid:** `mdu-ac` · [HTML page](https://eulogikon.org/works/moschus-syracuse-bucolic-fragments-mdu-ac)
 
 ## Text
 

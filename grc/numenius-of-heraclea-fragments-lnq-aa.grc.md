@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα καὶ Τίτλοι
 author: Numenius of Heraclea
 eul_wid: lnq-aa
 eul_aid: lnq
-canonical: "https://eulogikon.org/grc/numenius-of-heraclea/fragments"
+canonical: "https://eulogikon.org/works/numenius-heraclea-fragments-lnq-aa"
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Numenius of Heraclea
 
-**eul_wid:** `lnq-aa` · [HTML page](https://eulogikon.org/grc/numenius-of-heraclea/fragments)
+**eul_wid:** `lnq-aa` · [HTML page](https://eulogikon.org/works/numenius-heraclea-fragments-lnq-aa)
 
 ## Text
 
@@ -128,7 +128,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 579.1
 
-†ἀκονίας κιγκάλους
+ἀκονίας κιγκάλους
 
 ### book 579.2
 
@@ -136,7 +136,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 579.3
 
-τράχουρον†
+τράχουρον
 
 ### book 580.1
 
@@ -180,7 +180,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 582.6
 
-σταφυλῖνον, †ῥάφιν τ’ ἔμπεδον† καὶ καυ〈κα〉λίδ’ ἀγροιῶτιν.
+σταφυλῖνον, ῥάφιν τ’ ἔμπεδον καὶ καυ〈κα〉λίδ’ ἀγροιῶτιν.
 
 ### book 583.1
 

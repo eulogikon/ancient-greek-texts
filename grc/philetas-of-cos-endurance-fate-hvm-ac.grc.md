@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Καρτερίας καὶ Μοίρας
 author: Philetas of Cos
 eul_wid: hvm-ac
 eul_aid: hvm
-canonical: "https://eulogikon.org/grc/philetas-of-cos/endurance-fate"
+canonical: "https://eulogikon.org/works/philetas-cos-endurance-fate-hvm-ac"
 period: Hellenistic
 dialect: Attic
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philetas of Cos
 
-**eul_wid:** `hvm-ac` · [HTML page](https://eulogikon.org/grc/philetas-of-cos/endurance-fate)
+**eul_wid:** `hvm-ac` · [HTML page](https://eulogikon.org/works/philetas-cos-endurance-fate-hvm-ac)
 
 ## Text
 
@@ -36,7 +36,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 3.1
 
-†Τω ου μοι
+Τω ου μοι
 
 ### book 3.2
 

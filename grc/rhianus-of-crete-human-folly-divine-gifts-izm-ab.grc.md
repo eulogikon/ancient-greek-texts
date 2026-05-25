@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Rhianus of Crete
 eul_wid: izm-ab
 eul_aid: izm
-canonical: "https://eulogikon.org/grc/rhianus-of-crete/human-folly-divine-gifts"
+canonical: "https://eulogikon.org/works/rhianus-crete-human-folly-divine-gifts-izm-ab"
 period: Hellenistic
 dialect: Koine
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Rhianus of Crete
 
-**eul_wid:** `izm-ab` · [HTML page](https://eulogikon.org/grc/rhianus-of-crete/human-folly-divine-gifts)
+**eul_wid:** `izm-ab` · [HTML page](https://eulogikon.org/works/rhianus-crete-human-folly-divine-gifts-izm-ab)
 
 ## Text
 

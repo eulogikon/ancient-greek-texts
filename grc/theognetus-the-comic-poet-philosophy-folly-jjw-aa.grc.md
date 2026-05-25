@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Φιλοσοφίας καὶ Μω
 author: Theognetus the Comic Poet
 eul_wid: jjw-aa
 eul_aid: jjw
-canonical: "https://eulogikon.org/grc/theognetus-the-comic-poet/philosophy-folly"
+canonical: "https://eulogikon.org/works/theognetus-philosophy-folly-jjw-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theognetus the Comic Poet
 
-**eul_wid:** `jjw-aa` · [HTML page](https://eulogikon.org/grc/theognetus-the-comic-poet/philosophy-folly)
+**eul_wid:** `jjw-aa` · [HTML page](https://eulogikon.org/works/theognetus-philosophy-folly-jjw-aa)
 
 ## Text
 

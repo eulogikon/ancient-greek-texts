@@ -4,7 +4,7 @@ title_greek: Περὶ τῆς χρήσεως καὶ κατασκευῆς το
 author: John Philoponus of Alexandria
 eul_wid: uxc-ae
 eul_aid: uxc
-canonical: "https://eulogikon.org/grc/john-philoponus-of-alexandria/astrolabe-use-construction"
+canonical: "https://eulogikon.org/works/john-philoponus-alexandria-astrolabe-use-construction-uxc-ae"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** John Philoponus of Alexandria
 
-**eul_wid:** `uxc-ae` · [HTML page](https://eulogikon.org/grc/john-philoponus-of-alexandria/astrolabe-use-construction)
+**eul_wid:** `uxc-ae` · [HTML page](https://eulogikon.org/works/john-philoponus-alexandria-astrolabe-use-construction-uxc-ae)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ὑποθέσεις εἰς Ἰλιάδα
 author: Homer Commentary
 eul_wid: vta-ac
 eul_aid: vta
-canonical: "https://eulogikon.org/grc/homer-commentary-anonymous/hypotheses-iliad"
+canonical: "https://eulogikon.org/works/homer-comm-hypotheses-iliad-vta-ac"
 period: Late Antique
 dialect: Atticizing
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Homer Commentary
 
-**eul_wid:** `vta-ac` · [HTML page](https://eulogikon.org/grc/homer-commentary-anonymous/hypotheses-iliad)
+**eul_wid:** `vta-ac` · [HTML page](https://eulogikon.org/works/homer-comm-hypotheses-iliad-vta-ac)
 
 ## Text
 

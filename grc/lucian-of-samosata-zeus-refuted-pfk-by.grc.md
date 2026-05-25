@@ -4,7 +4,7 @@ title_greek: Ζεὺς ἐλεγχόμενος
 author: Lucian of Samosata
 eul_wid: pfk-by
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/zeus-refuted"
+canonical: "https://eulogikon.org/works/lucian-samosata-zeus-refuted-pfk-by"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-by` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/zeus-refuted)
+**eul_wid:** `pfk-by` · [HTML page](https://eulogikon.org/works/lucian-samosata-zeus-refuted-pfk-by)
 
 ## Text
 

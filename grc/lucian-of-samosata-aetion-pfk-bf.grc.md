@@ -4,7 +4,7 @@ title_greek: Ἡρόδοτος ἢ Ἀετίων
 author: Lucian of Samosata
 eul_wid: pfk-bf
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/aetion"
+canonical: "https://eulogikon.org/works/lucian-samosata-aetion-pfk-bf"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-bf` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/aetion)
+**eul_wid:** `pfk-bf` · [HTML page](https://eulogikon.org/works/lucian-samosata-aetion-pfk-bf)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Parmenides of Elea
 eul_wid: bke-ab
 eul_aid: bke
-canonical: "https://eulogikon.org/grc/parmenides-of-elea/nature-being"
+canonical: "https://eulogikon.org/works/parmenides-elea-nature-being-bke-ab"
 period: Archaic
 dialect: Epic (Homeric) (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Parmenides of Elea
 
-**eul_wid:** `bke-ab` · [HTML page](https://eulogikon.org/grc/parmenides-of-elea/nature-being)
+**eul_wid:** `bke-ab` · [HTML page](https://eulogikon.org/works/parmenides-elea-nature-being-bke-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Laon the Comic Poet
 eul_wid: gmm-aa
 eul_aid: gmm
-canonical: "https://eulogikon.org/grc/laon-the-comic-poet/boeotia-character-aa"
+canonical: "https://eulogikon.org/works/laon-comic-boeotia-character-gmm-aa"
 period: Classical
 dialect: Koine
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Laon the Comic Poet
 
-**eul_wid:** `gmm-aa` · [HTML page](https://eulogikon.org/grc/laon-the-comic-poet/boeotia-character-aa)
+**eul_wid:** `gmm-aa` · [HTML page](https://eulogikon.org/works/laon-comic-boeotia-character-gmm-aa)
 
 ## Text
 

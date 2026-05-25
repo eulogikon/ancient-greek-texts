@@ -4,7 +4,7 @@ title_greek: Προχείρων κανόνων διάταξις καὶ ψηφο
 author: Ptolemy of Alexandria
 eul_wid: phs-ab
 eul_aid: phs
-canonical: "https://eulogikon.org/grc/ptolemy-of-alexandria/handy-rules"
+canonical: "https://eulogikon.org/works/ptolemy-alexandria-handy-rules-phs-ab"
 period: Roman
 dialect: Technical Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ptolemy of Alexandria
 
-**eul_wid:** `phs-ab` · [HTML page](https://eulogikon.org/grc/ptolemy-of-alexandria/handy-rules)
+**eul_wid:** `phs-ab` · [HTML page](https://eulogikon.org/works/ptolemy-alexandria-handy-rules-phs-ab)
 
 ## Text
 

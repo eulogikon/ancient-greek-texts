@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Τέχνης καὶ Τύχης
 author: Hipparchus the Comic Poet
 eul_wid: jns-ab
 eul_aid: jns
-canonical: "https://eulogikon.org/grc/hipparchus-the-comic-poet/craft-fortune"
+canonical: "https://eulogikon.org/works/hipparchus-comic-craft-fortune-jns-ab"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hipparchus the Comic Poet
 
-**eul_wid:** `jns-ab` · [HTML page](https://eulogikon.org/grc/hipparchus-the-comic-poet/craft-fortune)
+**eul_wid:** `jns-ab` · [HTML page](https://eulogikon.org/works/hipparchus-comic-craft-fortune-jns-ab)
 
 ## Text
 

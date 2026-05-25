@@ -4,7 +4,7 @@ title_greek: Ὕμνος εἰς Γῆν
 author: Hymnic Collection  Anonymous
 eul_wid: upu-ba
 eul_aid: upu
-canonical: "https://eulogikon.org/grc/homeric-hymns-anonymous/earth"
+canonical: "https://eulogikon.org/works/hymnic-anon-earth-upu-ba"
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hymnic Collection  Anonymous
 
-**eul_wid:** `upu-ba` · [HTML page](https://eulogikon.org/grc/homeric-hymns-anonymous/earth)
+**eul_wid:** `upu-ba` · [HTML page](https://eulogikon.org/works/hymnic-anon-earth-upu-ba)
 
 ## Text
 

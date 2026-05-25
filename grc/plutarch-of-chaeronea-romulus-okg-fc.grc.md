@@ -4,7 +4,7 @@ title_greek: Ῥωμύλος
 author: Plutarch of Chaeronea
 eul_wid: okg-fc
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/romulus"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-romulus-okg-fc"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-fc` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/romulus)
+**eul_wid:** `okg-fc` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-romulus-okg-fc)
 
 ## Text
 

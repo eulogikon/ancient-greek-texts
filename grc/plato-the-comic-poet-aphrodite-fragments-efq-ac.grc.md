@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα τῆς Κωμικῆς Ἀφροδίτης
 author: "Plato the Comic Poet "
 eul_wid: efq-ac
 eul_aid: efq
-canonical: "https://eulogikon.org/grc/plato-the-comic-poet/aphrodite-fragments"
+canonical: "https://eulogikon.org/works/plato-comic-aphrodite-fragments-efq-ac"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plato the Comic Poet 
 
-**eul_wid:** `efq-ac` · [HTML page](https://eulogikon.org/grc/plato-the-comic-poet/aphrodite-fragments)
+**eul_wid:** `efq-ac` · [HTML page](https://eulogikon.org/works/plato-comic-aphrodite-fragments-efq-ac)
 
 ## Text
 
@@ -140,7 +140,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 28.1
 
-Πλάτ]ωνοc·[ln_1][... γυναῖκα κρ]εῖccόν ἐcτ’ ἐν οἰκίαι [ἢ φαρμακίτα]c̣ τῶν
+Πλάτ]ωνοc·[ln_1][... γυναῖκα κρ]εῖccόν ἐcτ’ ἐν οἰκίαι [ἢ φαρμακίτα]c τῶν
 
 ### book 28.2
 

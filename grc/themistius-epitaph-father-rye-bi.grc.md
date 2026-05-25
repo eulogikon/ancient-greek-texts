@@ -4,7 +4,7 @@ title_greek: Ἐπιτάφιος ἐπὶ τῷ πατρί
 author: Themistius the Philosopher
 eul_wid: rye-bi
 eul_aid: rye
-canonical: "https://eulogikon.org/grc/themistius/epitaph-father"
+canonical: "https://eulogikon.org/works/themistius-epitaph-father-rye-bi"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Themistius the Philosopher
 
-**eul_wid:** `rye-bi` · [HTML page](https://eulogikon.org/grc/themistius/epitaph-father)
+**eul_wid:** `rye-bi` · [HTML page](https://eulogikon.org/works/themistius-epitaph-father-rye-bi)
 
 ## Text
 

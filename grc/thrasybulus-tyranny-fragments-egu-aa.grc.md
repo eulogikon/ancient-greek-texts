@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα περὶ Τυραννίδος
 author: "Thrasybulus "
 eul_wid: egu-aa
 eul_aid: egu
-canonical: "https://eulogikon.org/grc/thrasybulus/tyranny-fragments"
+canonical: "https://eulogikon.org/works/thrasybulus-tyranny-fragments-egu-aa"
 period: Classical
 dialect: Attic
 format: Epistle
@@ -17,7 +17,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Thrasybulus 
 
-**eul_wid:** `egu-aa` · [HTML page](https://eulogikon.org/grc/thrasybulus/tyranny-fragments)
+**eul_wid:** `egu-aa` · [HTML page](https://eulogikon.org/works/thrasybulus-tyranny-fragments-egu-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Mimnermus of Colophon
 eul_wid: aly-aa
 eul_aid: aly
-canonical: "https://eulogikon.org/grc/mimnermus-of-colophon/youth-old-age"
+canonical: "https://eulogikon.org/works/mimnermus-colophon-youth-old-age-aly-aa"
 period: Archaic
 dialect: Koine
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Mimnermus of Colophon
 
-**eul_wid:** `aly-aa` · [HTML page](https://eulogikon.org/grc/mimnermus-of-colophon/youth-old-age)
+**eul_wid:** `aly-aa` · [HTML page](https://eulogikon.org/works/mimnermus-colophon-youth-old-age-aly-aa)
 
 ## Text
 
@@ -144,7 +144,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 9.1
 
-Αἰπὺ 〈 〉 τε Πύλον Νηλήϊον ἄστυ λιπόντες [para]ἱμερτὴν Ἀσίην νηυσὶν ἀφικόμεθα, ἐς δ’ ἐρατὴν Κολοφῶνα βίην ὑπέροπλον ἔχοντες [para]ἑζόμεθ’, ἀργαλέης ὕβριος ἡγεμόνες·[ln_5]κεῖθεν †διαστήεντος ἀπορνύμενοι
+Αἰπὺ 〈 〉 τε Πύλον Νηλήϊον ἄστυ λιπόντες [para]ἱμερτὴν Ἀσίην νηυσὶν ἀφικόμεθα, ἐς δ’ ἐρατὴν Κολοφῶνα βίην ὑπέροπλον ἔχοντες [para]ἑζόμεθ’, ἀργαλέης ὕβριος ἡγεμόνες·[ln_5]κεῖθεν διαστήεντος ἀπορνύμενοι
 
 ### book 9.2
 
@@ -204,7 +204,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 13a.1
 
-ὣς οἳ πὰρ βασιλῆος, ἐπε[ί ῥ’] ἐ[ν]εδέξατο μῦθο̣ν̣, [para]ἤ[ϊξ]α̣ν κοίληι[ς ἀ]σπίσι
+ὣς οἳ πὰρ βασιλῆος, ἐπε[ί ῥ’] ἐ[ν]εδέξατο μῦθον, [para]ἤ[ϊξ]αν κοίληι[ς ἀ]σπίσι
 
 ### book 13a.2
 

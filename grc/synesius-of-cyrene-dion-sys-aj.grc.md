@@ -4,7 +4,7 @@ title_greek: Δίων
 author: Synesius of Cyrene
 eul_wid: sys-aj
 eul_aid: sys
-canonical: "https://eulogikon.org/grc/synesius-of-cyrene/dion"
+canonical: "https://eulogikon.org/works/synesius-cyrene-dion-sys-aj"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Synesius of Cyrene
 
-**eul_wid:** `sys-aj` · [HTML page](https://eulogikon.org/grc/synesius-of-cyrene/dion)
+**eul_wid:** `sys-aj` · [HTML page](https://eulogikon.org/works/synesius-cyrene-dion-sys-aj)
 
 ## Text
 

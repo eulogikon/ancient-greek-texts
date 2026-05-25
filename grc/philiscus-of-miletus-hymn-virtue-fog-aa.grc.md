@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: "Philiscus of Miletus "
 eul_wid: fog-aa
 eul_aid: fog
-canonical: "https://eulogikon.org/grc/philiscus-of-miletus/hymn-virtue"
+canonical: "https://eulogikon.org/works/philiscus-miletus-hymn-virtue-fog-aa"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philiscus of Miletus 
 
-**eul_wid:** `fog-aa` · [HTML page](https://eulogikon.org/grc/philiscus-of-miletus/hymn-virtue)
+**eul_wid:** `fog-aa` · [HTML page](https://eulogikon.org/works/philiscus-miletus-hymn-virtue-fog-aa)
 
 ## Text
 
@@ -28,7 +28,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 2
 
-δεῖ ς’ ἀρετῆς κήρυκα τεκεῖν τινα Λυσίαι ὕμνον †δόντα καταφθιμένων καὶ σοφῶι ἀθάνατον†, ὃς τό τ’ ἐμῆς ψυχῆς δείξει φιλέταιρον ἅπασιν καὶ τὴν τοῦ φθιμένου πᾶσι βροτοῖς ἀρετήν.
+δεῖ ς’ ἀρετῆς κήρυκα τεκεῖν τινα Λυσίαι ὕμνον δόντα καταφθιμένων καὶ σοφῶι ἀθάνατον, ὃς τό τ’ ἐμῆς ψυχῆς δείξει φιλέταιρον ἅπασιν καὶ τὴν τοῦ φθιμένου πᾶσι βροτοῖς ἀρετήν.
 
 ## License and provenance
 

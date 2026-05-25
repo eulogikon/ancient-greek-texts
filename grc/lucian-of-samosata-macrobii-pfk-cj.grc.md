@@ -4,7 +4,7 @@ title_greek: Μακρόβιοι
 author: Lucian of Samosata
 eul_wid: pfk-cj
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/macrobii"
+canonical: "https://eulogikon.org/works/lucian-samosata-macrobii-pfk-cj"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-cj` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/macrobii)
+**eul_wid:** `pfk-cj` · [HTML page](https://eulogikon.org/works/lucian-samosata-macrobii-pfk-cj)
 
 ## Text
 

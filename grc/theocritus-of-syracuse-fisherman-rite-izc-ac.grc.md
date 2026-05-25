@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Theocritus of Syracuse
 eul_wid: izc-ac
 eul_aid: izc
-canonical: "https://eulogikon.org/grc/theocritus-of-syracuse/fisherman-rite"
+canonical: "https://eulogikon.org/works/theocritus-syracuse-fisherman-rite-izc-ac"
 period: Hellenistic
 dialect: Doric Bucolic
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theocritus of Syracuse
 
-**eul_wid:** `izc-ac` · [HTML page](https://eulogikon.org/grc/theocritus-of-syracuse/fisherman-rite)
+**eul_wid:** `izc-ac` · [HTML page](https://eulogikon.org/works/theocritus-syracuse-fisherman-rite-izc-ac)
 
 ## Text
 

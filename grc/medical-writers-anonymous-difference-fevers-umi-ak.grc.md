@@ -4,7 +4,7 @@ title_greek: Περὶ τῆς τῶν πυρετῶν διαφορᾶς
 author: Medical Writers Anonymous
 eul_wid: umi-ak
 eul_aid: umi
-canonical: "https://eulogikon.org/grc/medical-writers-anonymous/difference-fevers"
+canonical: "https://eulogikon.org/works/med-writers-anon-difference-fevers-umi-ak"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Medical Writers Anonymous
 
-**eul_wid:** `umi-ak` · [HTML page](https://eulogikon.org/grc/medical-writers-anonymous/difference-fevers)
+**eul_wid:** `umi-ak` · [HTML page](https://eulogikon.org/works/med-writers-anon-difference-fevers-umi-ak)
 
 ## Text
 

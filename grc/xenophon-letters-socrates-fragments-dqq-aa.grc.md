@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Σωκράτους
 author: Xenophon Letters
 eul_wid: dqq-aa
 eul_aid: dqq
-canonical: "https://eulogikon.org/grc/xenophon-letters/socrates-fragments"
+canonical: "https://eulogikon.org/works/xenophon-socrates-fragments-dqq-aa"
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Xenophon Letters
 
-**eul_wid:** `dqq-aa` · [HTML page](https://eulogikon.org/grc/xenophon-letters/socrates-fragments)
+**eul_wid:** `dqq-aa` · [HTML page](https://eulogikon.org/works/xenophon-socrates-fragments-dqq-aa)
 
 ## Text
 

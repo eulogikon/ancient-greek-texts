@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Scamon of Mytilene
 eul_wid: gek-aa
 eul_aid: gek
-canonical: "https://eulogikon.org/grc/scamon-of-mytilene/inventions-discoveries"
+canonical: "https://eulogikon.org/works/scamon-mytilene-inventions-discoveries-gek-aa"
 period: Classical
 dialect: Aeolic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Scamon of Mytilene
 
-**eul_wid:** `gek-aa` · [HTML page](https://eulogikon.org/grc/scamon-of-mytilene/inventions-discoveries)
+**eul_wid:** `gek-aa` · [HTML page](https://eulogikon.org/works/scamon-mytilene-inventions-discoveries-gek-aa)
 
 ## Text
 

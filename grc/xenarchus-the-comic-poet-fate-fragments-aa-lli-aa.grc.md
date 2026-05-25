@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Εἱμαρμένης
 author: Xenarchus the Comic Poet
 eul_wid: lli-aa
 eul_aid: lli
-canonical: "https://eulogikon.org/grc/xenarchus-the-comic-poet/fate-fragments-aa"
+canonical: "https://eulogikon.org/works/xenarchus-fate-fragments-lli-aa"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Xenarchus the Comic Poet
 
-**eul_wid:** `lli-aa` · [HTML page](https://eulogikon.org/grc/xenarchus-the-comic-poet/fate-fragments-aa)
+**eul_wid:** `lli-aa` · [HTML page](https://eulogikon.org/works/xenarchus-fate-fragments-lli-aa)
 
 ## Text
 

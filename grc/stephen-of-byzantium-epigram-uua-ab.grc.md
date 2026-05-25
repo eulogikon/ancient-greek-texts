@@ -4,7 +4,7 @@ title_greek: Ἐπίγραμμα
 author: Stephen of Byzantium
 eul_wid: uua-ab
 eul_aid: uua
-canonical: "https://eulogikon.org/grc/stephen-of-byzantium/epigram"
+canonical: "https://eulogikon.org/works/stephanus-byzantium-epigram-uua-ab"
 period: Late Antique
 dialect: Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Stephen of Byzantium
 
-**eul_wid:** `uua-ab` · [HTML page](https://eulogikon.org/grc/stephen-of-byzantium/epigram)
+**eul_wid:** `uua-ab` · [HTML page](https://eulogikon.org/works/stephanus-byzantium-epigram-uua-ab)
 
 ## Text
 

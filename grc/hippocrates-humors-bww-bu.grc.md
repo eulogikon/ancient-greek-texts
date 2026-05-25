@@ -4,7 +4,7 @@ title_greek: Περὶ χυμῶν
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-bu
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/humors"
+canonical: "https://eulogikon.org/works/hippocrates-humors-bww-bu"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-bu` · [HTML page](https://eulogikon.org/grc/hippocrates/humors)
+**eul_wid:** `bww-bu` · [HTML page](https://eulogikon.org/works/hippocrates-humors-bww-bu)
 
 ## Text
 

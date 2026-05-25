@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τῶν Ἀθηναϊκῶν Πα
 author: Phanodemus of Athens
 eul_wid: fvy-aa
 eul_aid: fvy
-canonical: "https://eulogikon.org/grc/phanodemus-of-athens/atthid-lore"
+canonical: "https://eulogikon.org/works/phanodemus-athens-atthid-lore-fvy-aa"
 period: Classical
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Phanodemus of Athens
 
-**eul_wid:** `fvy-aa` · [HTML page](https://eulogikon.org/grc/phanodemus-of-athens/atthid-lore)
+**eul_wid:** `fvy-aa` · [HTML page](https://eulogikon.org/works/phanodemus-athens-atthid-lore-fvy-aa)
 
 ## Text
 

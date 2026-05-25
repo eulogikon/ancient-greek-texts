@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Sosipater the Comic Poet
 eul_wid: ilg-aa
 eul_aid: ilg
-canonical: "https://eulogikon.org/grc/sosipater-the-comic-poet/cooks-profession"
+canonical: "https://eulogikon.org/works/sosipater-cooks-profession-ilg-aa"
 period: Hellenistic
 dialect: Koine
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sosipater the Comic Poet
 
-**eul_wid:** `ilg-aa` · [HTML page](https://eulogikon.org/grc/sosipater-the-comic-poet/cooks-profession)
+**eul_wid:** `ilg-aa` · [HTML page](https://eulogikon.org/works/sosipater-cooks-profession-ilg-aa)
 
 ## Text
 

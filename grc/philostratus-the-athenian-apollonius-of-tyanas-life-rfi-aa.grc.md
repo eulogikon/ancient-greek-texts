@@ -4,7 +4,7 @@ title_greek: Τὰ ἐς τὸν Τυανέα Ἀπολλώνιον
 author: Philostratus the Athenian
 eul_wid: rfi-aa
 eul_aid: rfi
-canonical: "https://eulogikon.org/grc/philostratus-the-athenian/apollonius-of-tyanas-life"
+canonical: "https://eulogikon.org/works/philostratus-athens-apollonius-of-tyanas-life-rfi-aa"
 period: Roman
 dialect: Atticizing Literary
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philostratus the Athenian
 
-**eul_wid:** `rfi-aa` · [HTML page](https://eulogikon.org/grc/philostratus-the-athenian/apollonius-of-tyanas-life)
+**eul_wid:** `rfi-aa` · [HTML page](https://eulogikon.org/works/philostratus-athens-apollonius-of-tyanas-life-rfi-aa)
 
 ## Text
 

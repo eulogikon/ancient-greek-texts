@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Theognis of Rhodes
 eul_wid: fxm-aa
 eul_aid: fxm
-canonical: "https://eulogikon.org/grc/theognis-of-rhodes/swallow-festival"
+canonical: "https://eulogikon.org/works/theognis-rhodes-swallow-festival-fxm-aa"
 period: Classical
 dialect: Mixed Dialects (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theognis of Rhodes
 
-**eul_wid:** `fxm-aa` · [HTML page](https://eulogikon.org/grc/theognis-of-rhodes/swallow-festival)
+**eul_wid:** `fxm-aa` · [HTML page](https://eulogikon.org/works/theognis-rhodes-swallow-festival-fxm-aa)
 
 ## Text
 

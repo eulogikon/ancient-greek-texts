@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Theocritus of Chios
 eul_wid: elk-ab
 eul_aid: elk
-canonical: "https://eulogikon.org/grc/theocritus-of-chios/against-aristotle"
+canonical: "https://eulogikon.org/works/theocritus-chios-against-aristotle-elk-ab"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theocritus of Chios
 
-**eul_wid:** `elk-ab` · [HTML page](https://eulogikon.org/grc/theocritus-of-chios/against-aristotle)
+**eul_wid:** `elk-ab` · [HTML page](https://eulogikon.org/works/theocritus-chios-against-aristotle-elk-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ προνοίας
 author: Proclus the Successor
 eul_wid: uqy-aa
 eul_aid: uqy
-canonical: "https://eulogikon.org/grc/proclus-the-successor/providence-fate-theodorus"
+canonical: "https://eulogikon.org/works/proclus-providence-fate-theodorus-uqy-aa"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Proclus the Successor
 
-**eul_wid:** `uqy-aa` · [HTML page](https://eulogikon.org/grc/proclus-the-successor/providence-fate-theodorus)
+**eul_wid:** `uqy-aa` · [HTML page](https://eulogikon.org/works/proclus-providence-fate-theodorus-uqy-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Τραγικῆς Δίκης
 author: "Tragica Adespota "
 eul_wid: gyu-ab
 eul_aid: gyu
-canonical: "https://eulogikon.org/grc/tragica-adespota/justice-fragments"
+canonical: "https://eulogikon.org/works/tragica-adespota-justice-fragments-gyu-ab"
 period: Classical
 dialect: Mixed Dialects (frg)
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Tragica Adespota 
 
-**eul_wid:** `gyu-ab` · [HTML page](https://eulogikon.org/grc/tragica-adespota/justice-fragments)
+**eul_wid:** `gyu-ab` · [HTML page](https://eulogikon.org/works/tragica-adespota-justice-fragments-gyu-ab)
 
 ## Text
 
@@ -52,7 +52,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 21a.2
 
-Πελασ[γοὶ πρὸς] δέε⸥λον
+Πελασ[γοὶ πρὸς] δέελον
 
 ### book 27a
 
@@ -60,7 +60,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 34a
 
-×–⏑ νύκτωρ καὶ μεθ’ ἡμέραν ⏑–
+– νύκτωρ καὶ μεθ’ ἡμέραν –
 
 ### book 34b
 
@@ -72,7 +72,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 34d
 
-ἀλλήλους δ’ ἐλήϊσαν†
+ἀλλήλους δ’ ἐλήϊσαν
 
 ### book 34e
 
@@ -80,7 +80,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 37a
 
-×– τὸ χρυσόμαλλον Αἰήτου δέρος
+– τὸ χρυσόμαλλον Αἰήτου δέρος
 
 ### book 37b
 
@@ -240,11 +240,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 204a
 
-βᾶριν †ακέδα
+βᾶριν ακέδα
 
 ### book 210a
 
-×–⏑– οἳ δ’ ἀ〈μ〉φινίσονται Νέδαν ἐσκληκότα
+–– οἳ δ’ ἀ〈μ〉φινίσονται Νέδαν ἐσκληκότα
 
 ### book 225a
 
@@ -316,7 +316,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 279e.2
 
-σκηνωμάτων[ln_7][]υ. τὸν καθ’ αὑτὸν τύμβον .ς..υνει δόμος ⏑⏑?]ων ἀκοῶν ἀλλὰ τόδ’ εξω [συμ]φορὰ θεήλατον
+σκηνωμάτων[ln_7][]υ. τὸν καθ’ αὑτὸν τύμβον .ς..υνει δόμος ?]ων ἀκοῶν ἀλλὰ τόδ’ εξω [συμ]φορὰ θεήλατον
 
 ### book 279f
 
@@ -332,7 +332,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 290a
 
-⏑⏑? ἔλιπον γᾶν, βαίνω δ’ ἐς Ὄλυμπον ⏑––?
+? ἔλιπον γᾶν, βαίνω δ’ ἐς Ὄλυμπον ––?
 
 ### book 295a
 
@@ -340,7 +340,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 302a
 
-θεῶν βοηθῶν καὶ τύχης δεῖται ⏑–
+θεῶν βοηθῶν καὶ τύχης δεῖται –
 
 ### book 307a
 
@@ -356,7 +356,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 323a
 
-ἴσασιν {γὰρ} Ἀργείων 〈⏑〉 οἱ πεπλημένοι
+ἴσασιν {γὰρ} Ἀργείων 〈〉 οἱ πεπλημένοι
 
 ### book 323b
 
@@ -364,7 +364,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 323c
 
-Ζεὺς γὰρ Ἡρακλέα καὶ Τάντ̣αλον
+Ζεὺς γὰρ Ἡρακλέα καὶ Τάνταλον
 
 ### book 323d.1
 
@@ -372,7 +372,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 323d.2
 
-παῖς κατήντησ〈εν ⏑–〉
+παῖς κατήντησ〈εν –〉
 
 ### book 323e
 
@@ -468,11 +468,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 348e.1
 
-× Ζεὺς κυβερνᾶν θεῶν
+Ζεὺς κυβερνᾶν θεῶν
 
 ### book 348e.2
 
-τε κἀνθρώπων ⏑–
+τε κἀνθρώπων –
 
 ### book 365a.1
 
@@ -556,7 +556,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 456a.2
 
-χρεών **[ln_2]†ανδηρ̣ατ̣αρχευ
+χρεών **[ln_2]ανδηραταρχευ
 
 ### book 456a.3
 
@@ -588,7 +588,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 564b
 
-ὦ πλεῖον †ἵλως αἱμύλης ἀλώπεκος
+ὦ πλεῖον ἵλως αἱμύλης ἀλώπεκος
 
 ### book 564c
 
@@ -636,7 +636,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 587a
 
-β̣α̣ρ̣β̣α̣ρόστομε
+βαρβαρόστομε
 
 ### book 587b
 

@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Straton Comicus
 eul_wid: evu-aa
 eul_aid: evu
-canonical: "https://eulogikon.org/grc/straton-comicus/pretentious-dinner-guest"
+canonical: "https://eulogikon.org/works/straton-comicus-pretentious-dinner-guest-evu-aa"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Straton Comicus
 
-**eul_wid:** `evu-aa` · [HTML page](https://eulogikon.org/grc/straton-comicus/pretentious-dinner-guest)
+**eul_wid:** `evu-aa` · [HTML page](https://eulogikon.org/works/straton-comicus-pretentious-dinner-guest-evu-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν Μυστηρίων
 author: Iamblichus of Chalcis
 eul_wid: udw-ae
 eul_aid: udw
-canonical: "https://eulogikon.org/grc/iamblichus-of-chalcis/mysteries"
+canonical: "https://eulogikon.org/works/iamblichus-chalcis-mysteries-udw-ae"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Iamblichus of Chalcis
 
-**eul_wid:** `udw-ae` · [HTML page](https://eulogikon.org/grc/iamblichus-of-chalcis/mysteries)
+**eul_wid:** `udw-ae` · [HTML page](https://eulogikon.org/works/iamblichus-chalcis-mysteries-udw-ae)
 
 ## Text
 

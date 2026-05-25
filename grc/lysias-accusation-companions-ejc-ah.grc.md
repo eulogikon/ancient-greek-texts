@@ -4,7 +4,7 @@ title_greek: κατηγορία πρὸς τοὺς συνουσιαστὰς κ
 author: Lysias the Orator
 eul_wid: ejc-ah
 eul_aid: ejc
-canonical: "https://eulogikon.org/grc/lysias/accusation-companions"
+canonical: "https://eulogikon.org/works/lysias-accusation-companions-ejc-ah"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lysias the Orator
 
-**eul_wid:** `ejc-ah` · [HTML page](https://eulogikon.org/grc/lysias/accusation-companions)
+**eul_wid:** `ejc-ah` · [HTML page](https://eulogikon.org/works/lysias-accusation-companions-ejc-ah)
 
 ## Text
 

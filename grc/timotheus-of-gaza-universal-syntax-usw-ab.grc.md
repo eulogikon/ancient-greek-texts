@@ -4,7 +4,7 @@ title_greek: Κανόνες καθολικοὶ περὶ συντάξεως
 author: Timotheus of Gaza
 eul_wid: usw-ab
 eul_aid: usw
-canonical: "https://eulogikon.org/grc/timotheus-of-gaza/universal-syntax"
+canonical: "https://eulogikon.org/works/timotheus-gaza-universal-syntax-usw-ab"
 period: Late Antique
 dialect: Christian Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Timotheus of Gaza
 
-**eul_wid:** `usw-ab` · [HTML page](https://eulogikon.org/grc/timotheus-of-gaza/universal-syntax)
+**eul_wid:** `usw-ab` · [HTML page](https://eulogikon.org/works/timotheus-gaza-universal-syntax-usw-ab)
 
 ## Text
 

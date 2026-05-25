@@ -4,7 +4,7 @@ title_greek: Ἴων
 author: Plato of Athens
 eul_wid: ffk-bo
 eul_aid: ffk
-canonical: "https://eulogikon.org/grc/plato/ion"
+canonical: "https://eulogikon.org/works/plato-ion-ffk-bo"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plato of Athens
 
-**eul_wid:** `ffk-bo` · [HTML page](https://eulogikon.org/grc/plato/ion)
+**eul_wid:** `ffk-bo` · [HTML page](https://eulogikon.org/works/plato-ion-ffk-bo)
 
 ## Text
 

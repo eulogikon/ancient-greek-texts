@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἰχθύων καὶ Ἑρπετ
 author: Nausicrates the Comic Poet
 eul_wid: fqe-aa
 eul_aid: fqe
-canonical: "https://eulogikon.org/grc/nausicrates-the-comic-poet/fish-sea-creatures"
+canonical: "https://eulogikon.org/works/nausicrates-fish-sea-creatures-fqe-aa"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nausicrates the Comic Poet
 
-**eul_wid:** `fqe-aa` · [HTML page](https://eulogikon.org/grc/nausicrates-the-comic-poet/fish-sea-creatures)
+**eul_wid:** `fqe-aa` · [HTML page](https://eulogikon.org/works/nausicrates-fish-sea-creatures-fqe-aa)
 
 ## Text
 

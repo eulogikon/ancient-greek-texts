@@ -4,7 +4,7 @@ title_greek: Ὑδραργύρου ποίησις
 author: Zosimus of Panopolis
 eul_wid: tyc-bt
 eul_aid: tyc
-canonical: "https://eulogikon.org/grc/zosimus-of-panopolis/mercury-creation"
+canonical: "https://eulogikon.org/works/zosimus-panopolis-mercury-creation-tyc-bt"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Zosimus of Panopolis
 
-**eul_wid:** `tyc-bt` · [HTML page](https://eulogikon.org/grc/zosimus-of-panopolis/mercury-creation)
+**eul_wid:** `tyc-bt` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-mercury-creation-tyc-bt)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν Ἀθηναϊκῶν Ἱερῶν
 author: Historical Fragments  Anonymous
 eul_wid: mmg-aj
 eul_aid: mmg
-canonical: "https://eulogikon.org/grc/historical-fragments-anonymous/athenian-sacred-rites"
+canonical: "https://eulogikon.org/works/anon-hist-frag-athenian-sacred-rites-mmg-aj"
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Historical Fragments  Anonymous
 
-**eul_wid:** `mmg-aj` · [HTML page](https://eulogikon.org/grc/historical-fragments-anonymous/athenian-sacred-rites)
+**eul_wid:** `mmg-aj` · [HTML page](https://eulogikon.org/works/anon-hist-frag-athenian-sacred-rites-mmg-aj)
 
 ## Text
 
@@ -56,7 +56,7 @@ SERV. VERGIL. A. 6, 136: latet arbore opaca aureus] licet de hoc ramo hi qui De 
 
 ### 3b,368,F 8
 
-VARRO L. L. 5, 97: porcus .... nisi si a Graecis, quod Athenis in libris sacrorum scriptum est «†porcae porco».
+VARRO L. L. 5, 97: porcus .... nisi si a Graecis, quod Athenis in libris sacrorum scriptum est «porcae porco».
 
 ## License and provenance
 

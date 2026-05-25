@@ -4,7 +4,7 @@ title_greek: Περὶ φυτῶν ἱστορία
 author: Theophrastus of Eresus
 eul_wid: ljk-ag
 eul_aid: ljk
-canonical: "https://eulogikon.org/grc/theophrastus-of-eresus/enquiry-plants"
+canonical: "https://eulogikon.org/works/theophrastus-eresus-enquiry-plants-ljk-ag"
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theophrastus of Eresus
 
-**eul_wid:** `ljk-ag` · [HTML page](https://eulogikon.org/grc/theophrastus-of-eresus/enquiry-plants)
+**eul_wid:** `ljk-ag` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-enquiry-plants-ljk-ag)
 
 ## Text
 

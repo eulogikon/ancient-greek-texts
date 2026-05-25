@@ -4,7 +4,7 @@ title_greek: Ἐπιστολαί
 author: Phalaris of Acragas
 eul_wid: auk-aa
 eul_aid: auk
-canonical: "https://eulogikon.org/grc/phalaris-of-acragas/ethical-letters"
+canonical: "https://eulogikon.org/works/phalaris-acragas-ethical-letters-auk-aa"
 period: Archaic
 dialect: Doric
 format: Epistle
@@ -17,7 +17,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Phalaris of Acragas
 
-**eul_wid:** `auk-aa` · [HTML page](https://eulogikon.org/grc/phalaris-of-acragas/ethical-letters)
+**eul_wid:** `auk-aa` · [HTML page](https://eulogikon.org/works/phalaris-acragas-ethical-letters-auk-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ τῆς Ἀστρολογίας
 author: Lucian of Samosata
 eul_wid: pfk-bv
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/astrology"
+canonical: "https://eulogikon.org/works/lucian-samosata-astrology-pfk-bv"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-bv` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/astrology)
+**eul_wid:** `pfk-bv` · [HTML page](https://eulogikon.org/works/lucian-samosata-astrology-pfk-bv)
 
 ## Text
 

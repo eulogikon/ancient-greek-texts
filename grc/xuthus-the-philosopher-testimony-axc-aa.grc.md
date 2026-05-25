@@ -4,7 +4,7 @@ title_greek: Μαρτυρία
 author: Xuthus the Philosopher
 eul_wid: axc-aa
 eul_aid: axc
-canonical: "https://eulogikon.org/grc/xuthus-the-philosopher/testimony"
+canonical: "https://eulogikon.org/works/xuthus-testimony-axc-aa"
 period: Archaic
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Xuthus the Philosopher
 
-**eul_wid:** `axc-aa` · [HTML page](https://eulogikon.org/grc/xuthus-the-philosopher/testimony)
+**eul_wid:** `axc-aa` · [HTML page](https://eulogikon.org/works/xuthus-testimony-axc-aa)
 
 ## Text
 

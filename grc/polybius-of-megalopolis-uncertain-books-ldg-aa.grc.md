@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα ἐξ Ἀδήλων Βιβλίων
 author: Polybius of Megalopolis
 eul_wid: ldg-aa
 eul_aid: ldg
-canonical: "https://eulogikon.org/grc/polybius-of-megalopolis/uncertain-books"
+canonical: "https://eulogikon.org/works/polybius-megalopolis-uncertain-books-ldg-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Polybius of Megalopolis
 
-**eul_wid:** `ldg-aa` · [HTML page](https://eulogikon.org/grc/polybius-of-megalopolis/uncertain-books)
+**eul_wid:** `ldg-aa` · [HTML page](https://eulogikon.org/works/polybius-megalopolis-uncertain-books-ldg-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ζητήματα ἐν Γενέσει Ἀποσπάσματα
 author: Philo of Alexandria
 eul_wid: lgi-au
 eul_aid: lgi
-canonical: "https://eulogikon.org/grc/philo-of-alexandria/questions-genesis"
+canonical: "https://eulogikon.org/works/philo-alexandria-questions-genesis-lgi-au"
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philo of Alexandria
 
-**eul_wid:** `lgi-au` · [HTML page](https://eulogikon.org/grc/philo-of-alexandria/questions-genesis)
+**eul_wid:** `lgi-au` · [HTML page](https://eulogikon.org/works/philo-alexandria-questions-genesis-lgi-au)
 
 ## Text
 

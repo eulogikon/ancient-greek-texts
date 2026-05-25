@@ -4,7 +4,7 @@ title_greek: Προγυμνάσματα
 author: Nicolaus of Myra
 eul_wid: ueq-ab
 eul_aid: ueq
-canonical: "https://eulogikon.org/grc/nicolaus-of-myra/preliminary-exercises-ab"
+canonical: "https://eulogikon.org/works/nicolaus-myra-preliminary-exercises-ueq-ab"
 period: Late Antique
 dialect: Atticizing Technical
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nicolaus of Myra
 
-**eul_wid:** `ueq-ab` · [HTML page](https://eulogikon.org/grc/nicolaus-of-myra/preliminary-exercises-ab)
+**eul_wid:** `ueq-ab` · [HTML page](https://eulogikon.org/works/nicolaus-myra-preliminary-exercises-ueq-ab)
 
 ## Text
 

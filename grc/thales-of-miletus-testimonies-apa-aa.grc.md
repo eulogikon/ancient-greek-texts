@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Thales of Miletus
 eul_wid: apa-aa
 eul_aid: apa
-canonical: "https://eulogikon.org/grc/thales-of-miletus/testimonies"
+canonical: "https://eulogikon.org/works/thales-miletus-testimonies-apa-aa"
 period: Archaic
 dialect: Ionic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Thales of Miletus
 
-**eul_wid:** `apa-aa` · [HTML page](https://eulogikon.org/grc/thales-of-miletus/testimonies)
+**eul_wid:** `apa-aa` · [HTML page](https://eulogikon.org/works/thales-miletus-testimonies-apa-aa)
 
 ## Text
 

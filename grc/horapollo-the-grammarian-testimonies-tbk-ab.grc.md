@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Horapollo the Grammarian
 eul_wid: tbk-ab
 eul_aid: tbk
-canonical: "https://eulogikon.org/grc/horapollo-the-grammarian/testimonies"
+canonical: "https://eulogikon.org/works/horapollo-testimonies-tbk-ab"
 period: Late Antique
 dialect: Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Horapollo the Grammarian
 
-**eul_wid:** `tbk-ab` · [HTML page](https://eulogikon.org/grc/horapollo-the-grammarian/testimonies)
+**eul_wid:** `tbk-ab` · [HTML page](https://eulogikon.org/works/horapollo-testimonies-tbk-ab)
 
 ## Text
 

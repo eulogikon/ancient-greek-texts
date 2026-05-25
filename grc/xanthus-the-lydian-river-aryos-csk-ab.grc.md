@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Xanthus the Lydian Historian
 eul_wid: csk-ab
 eul_aid: csk
-canonical: "https://eulogikon.org/grc/xanthus-the-lydian/river-aryos"
+canonical: "https://eulogikon.org/works/xanthus-lydia-river-aryos-csk-ab"
 period: Classical
 dialect: Ionic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Xanthus the Lydian Historian
 
-**eul_wid:** `csk-ab` · [HTML page](https://eulogikon.org/grc/xanthus-the-lydian/river-aryos)
+**eul_wid:** `csk-ab` · [HTML page](https://eulogikon.org/works/xanthus-lydia-river-aryos-csk-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ Οὖρων κατὰ Σύρους
 author: Medical Writers Anonymous
 eul_wid: umi-ae
 eul_aid: umi
-canonical: "https://eulogikon.org/grc/medical-writers-anonymous/urine-syrians"
+canonical: "https://eulogikon.org/works/med-writers-anon-urine-syrians-umi-ae"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Medical Writers Anonymous
 
-**eul_wid:** `umi-ae` · [HTML page](https://eulogikon.org/grc/medical-writers-anonymous/urine-syrians)
+**eul_wid:** `umi-ae` · [HTML page](https://eulogikon.org/works/med-writers-anon-urine-syrians-umi-ae)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Πλοῖον ἢ Εὐχαί
 author: Lucian of Samosata
 eul_wid: pfk-bh
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/ship-or-prayers"
+canonical: "https://eulogikon.org/works/lucian-samosata-ship-or-prayers-pfk-bh"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-bh` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/ship-or-prayers)
+**eul_wid:** `pfk-bh` · [HTML page](https://eulogikon.org/works/lucian-samosata-ship-or-prayers-pfk-bh)
 
 ## Text
 

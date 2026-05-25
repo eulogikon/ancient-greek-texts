@@ -4,7 +4,7 @@ title_greek: Περὶ τῆς Ἁγίας Τριάδος
 author: Theodoret of Cyrus
 eul_wid: tds-av
 eul_aid: tds
-canonical: "https://eulogikon.org/grc/theodoret-of-cyrus/holy-trinity"
+canonical: "https://eulogikon.org/works/theodoret-cyrus-holy-trinity-tds-av"
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theodoret of Cyrus
 
-**eul_wid:** `tds-av` · [HTML page](https://eulogikon.org/grc/theodoret-of-cyrus/holy-trinity)
+**eul_wid:** `tds-av` · [HTML page](https://eulogikon.org/works/theodoret-cyrus-holy-trinity-tds-av)
 
 ## Text
 

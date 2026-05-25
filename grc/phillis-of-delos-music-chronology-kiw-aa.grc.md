@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: "Phillis of Delos "
 eul_wid: kiw-aa
 eul_aid: kiw
-canonical: "https://eulogikon.org/grc/phillis-of-delos/music-chronology"
+canonical: "https://eulogikon.org/works/phillis-delos-music-chronology-kiw-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Phillis of Delos 
 
-**eul_wid:** `kiw-aa` · [HTML page](https://eulogikon.org/grc/phillis-of-delos/music-chronology)
+**eul_wid:** `kiw-aa` · [HTML page](https://eulogikon.org/works/phillis-delos-music-chronology-kiw-aa)
 
 ## Text
 

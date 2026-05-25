@@ -4,7 +4,7 @@ title_greek: Ἐκκλησιαστικὴ Ἱστορία
 author: Socrates of Constantinople
 eul_wid: tga-aa
 eul_aid: tga
-canonical: "https://eulogikon.org/grc/socrates-of-constantinople/ecclesiastical-history"
+canonical: "https://eulogikon.org/works/socrates-constantinople-ecclesiastical-history-tga-aa"
 period: Late Antique
 dialect: Byzantine Christian
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Socrates of Constantinople
 
-**eul_wid:** `tga-aa` · [HTML page](https://eulogikon.org/grc/socrates-of-constantinople/ecclesiastical-history)
+**eul_wid:** `tga-aa` · [HTML page](https://eulogikon.org/works/socrates-constantinople-ecclesiastical-history-tga-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ῥωμαϊκὴ Ἱστορία
 author: Nikephoros Gregoras the Historian
 eul_wid: ryy-aa
 eul_aid: ryy
-canonical: "https://eulogikon.org/grc/nikephoros-gregoras/roman-history"
+canonical: "https://eulogikon.org/works/nikephoros-gregoras-roman-history-ryy-aa"
 period: Late Antique
 dialect: Byzantine Greek
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nikephoros Gregoras the Historian
 
-**eul_wid:** `ryy-aa` · [HTML page](https://eulogikon.org/grc/nikephoros-gregoras/roman-history)
+**eul_wid:** `ryy-aa` · [HTML page](https://eulogikon.org/works/nikephoros-gregoras-roman-history-ryy-aa)
 
 ## Text
 

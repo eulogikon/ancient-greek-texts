@@ -4,7 +4,7 @@ title_greek: Χρονικόν
 author: Hippolytus of Rome
 eul_wid: qsg-bp
 eul_aid: qsg
-canonical: "https://eulogikon.org/grc/hippolytus-of-rome/chronicle-fragment"
+canonical: "https://eulogikon.org/works/hippolytus-rome-chronicle-fragment-qsg-bp"
 period: Roman
 dialect: Christian Koine
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippolytus of Rome
 
-**eul_wid:** `qsg-bp` · [HTML page](https://eulogikon.org/grc/hippolytus-of-rome/chronicle-fragment)
+**eul_wid:** `qsg-bp` · [HTML page](https://eulogikon.org/works/hippolytus-rome-chronicle-fragment-qsg-bp)
 
 ## Text
 
@@ -32,15 +32,15 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### Verso
 
-[ ]σιν. Αρα [ε]ν γαρ τω [] Αραβια [ ] [ ] . α̣ι̣ [ ] []οι γεγονασιν [Ε]υρωπ̣[η] [ ] [] προσηγοριας [Α]ρ̣καδες. []ωνες. του [ ] Π̣οντικοι. [ ]ανες. [ Πα]μ̣φυλοι.
+[ ]σιν. Αρα [ε]ν γαρ τω [] Αραβια [ ] [ ] . αι [ ] []οι γεγονασιν [Ε]υρωπ[η] [ ] [] προσηγοριας [Α]ρκαδες. []ωνες. του [ ] Ποντικοι. [ ]ανες. [ Πα]μφυλοι.
 
 ### Verso
 
-[ ] [ ] .. α̣ι̣ .....
+[ ] [ ] .. αι .....
 
 ### Recto,col1.(21)
 
-........ ]ες ] ] ] ] ] ] ] . ν̣ ] ] . ] .. ] .. ] .
+........ ]ες ] ] ] ] ] ] ] . ν ] ] . ] .. ] .. ] .
 
 ### Recto,col1.(21)
 
@@ -52,7 +52,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### Recto,col2.(50)
 
-........ μβ Τεκτ̣ο̣σ̣[αγες μγ Γαλατ[αι μδ Παφλ[αγονες με Φρυγε[ς μϛ .... [ . [ . ]α̣ιαλ̣[ μζ Θετταλ[οι μη Μακαιδ[ονες μθ Θρακες [ ν Μυσοι [ να Βεσσοι [ νβ Δαρδαν[οι νγ Σαρ̣μ̣α̣[ται νδ Γρ[ νε Π[ [ νϛ Γ̣[ νζ Δ̣[ ........
+........ μβ Τεκτοσ[αγες μγ Γαλατ[αι μδ Παφλ[αγονες με Φρυγε[ς μϛ .... [ . [ . ]αιαλ[ μζ Θετταλ[οι μη Μακαιδ[ονες μθ Θρακες [ ν Μυσοι [ να Βεσσοι [ νβ Δαρδαν[οι νγ Σαρμα[ται νδ Γρ[ νε Π[ [ νϛ Γ[ νζ Δ[ ........
 
 ## License and provenance
 

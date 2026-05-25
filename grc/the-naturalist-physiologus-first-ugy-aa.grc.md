@@ -4,7 +4,7 @@ title_greek: Φυσιολόγος
 author: The Naturalist
 eul_wid: ugy-aa
 eul_aid: ugy
-canonical: "https://eulogikon.org/grc/the-naturalist/physiologus-first"
+canonical: "https://eulogikon.org/works/the-naturalist-physiologus-first-ugy-aa"
 period: Late Antique
 dialect: Christian Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** The Naturalist
 
-**eul_wid:** `ugy-aa` · [HTML page](https://eulogikon.org/grc/the-naturalist/physiologus-first)
+**eul_wid:** `ugy-aa` · [HTML page](https://eulogikon.org/works/the-naturalist-physiologus-first-ugy-aa)
 
 ## Text
 

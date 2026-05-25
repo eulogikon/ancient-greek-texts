@@ -4,7 +4,7 @@ title_greek: Δίων
 author: Plutarch of Chaeronea
 eul_wid: okg-fp
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/dion"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-dion-okg-fp"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-fp` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/dion)
+**eul_wid:** `okg-fp` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-dion-okg-fp)
 
 ## Text
 

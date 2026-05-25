@@ -4,7 +4,7 @@ title_greek: Ὕμνος πρὸς Σελήνην
 author: Hymnic Collection  Anonymous
 eul_wid: upu-ax
 eul_aid: upu
-canonical: "https://eulogikon.org/grc/homeric-hymns-anonymous/selene"
+canonical: "https://eulogikon.org/works/hymnic-anon-selene-upu-ax"
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hymnic Collection  Anonymous
 
-**eul_wid:** `upu-ax` · [HTML page](https://eulogikon.org/grc/homeric-hymns-anonymous/selene)
+**eul_wid:** `upu-ax` · [HTML page](https://eulogikon.org/works/hymnic-anon-selene-upu-ax)
 
 ## Text
 

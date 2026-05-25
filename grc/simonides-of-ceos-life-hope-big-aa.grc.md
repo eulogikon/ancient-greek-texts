@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Βίου καὶ Ἐλπίδος
 author: Simonides of Ceos
 eul_wid: big-aa
 eul_aid: big
-canonical: "https://eulogikon.org/grc/simonides-of-ceos/life-hope"
+canonical: "https://eulogikon.org/works/simonides-ceos-life-hope-big-aa"
 period: Archaic
 dialect: Koine
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Simonides of Ceos
 
-**eul_wid:** `big-aa` · [HTML page](https://eulogikon.org/grc/simonides-of-ceos/life-hope)
+**eul_wid:** `big-aa` · [HTML page](https://eulogikon.org/works/simonides-ceos-life-hope-big-aa)
 
 ## Text
 
@@ -148,7 +148,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 12
 
-ξεινοδόκων †δ’ ἄριστος ὁ χρυσὸς ἐν αἰθέρι λάμπων,
+ξεινοδόκων δ’ ἄριστος ὁ χρυσὸς ἐν αἰθέρι λάμπων,
 
 ### book 13.1
 

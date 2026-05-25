@@ -4,7 +4,7 @@ title_greek: Περὶ Σατυριάσεως καὶ Γονορροίας
 author: Rufus of Ephesus
 eul_wid: ojc-ac
 eul_aid: ojc
-canonical: "https://eulogikon.org/grc/rufus-of-ephesus/satyriasis-gonorrhea"
+canonical: "https://eulogikon.org/works/rufus-ephesus-satyriasis-gonorrhea-ojc-ac"
 period: Roman
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Rufus of Ephesus
 
-**eul_wid:** `ojc-ac` · [HTML page](https://eulogikon.org/grc/rufus-of-ephesus/satyriasis-gonorrhea)
+**eul_wid:** `ojc-ac` · [HTML page](https://eulogikon.org/works/rufus-ephesus-satyriasis-gonorrhea-ojc-ac)
 
 ## Text
 

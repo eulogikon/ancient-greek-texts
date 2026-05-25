@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Philon of Byblos
 eul_wid: oow-af
 eul_aid: oow
-canonical: "https://eulogikon.org/grc/philon-of-byblos/testimonies"
+canonical: "https://eulogikon.org/works/philon-byblos-testimonies-oow-af"
 period: Roman
 dialect: Koine (frg)
 domain: Grammar
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philon of Byblos
 
-**eul_wid:** `oow-af` · [HTML page](https://eulogikon.org/grc/philon-of-byblos/testimonies)
+**eul_wid:** `oow-af` · [HTML page](https://eulogikon.org/works/philon-byblos-testimonies-oow-af)
 
 ## Text
 
 ### 3c,790,T 1
 
-SUDA s.v. Φίλων Βύβλιος· γραμματικός. οὗτος γέγονεν ἐπὶ τῶν χρόνων τῶν ἐγγὺς Νέρωνος, καὶ παρέτεινεν εἰς μακρόν· ὕπατον γοῦν Σεβῆρον τὸν Ἐρέννιον χρηματίσαντα αὐτὸς εἶναί φησιν (F 54), ὅταν ἦγεν η καὶ ο ἔτος, ὀλυμπιάδι δὲ † κ καὶ διακοσιοστῆι. γέγραπται δὲ αὐτῶι Περὶ κτήσεως καὶ ἐκλογῆς βιβλίων βιβλία ιβ · Περὶ πόλεων καὶ οὓς ἑκάστη αὐτῶν ἐνδόξους ἤνεγκε βιβλία λ · Περὶ τῆς βασιλείας Ἀδριανοῦ (ἐφ’ οὗ καὶ ἦν ὁ Φίλων)· καὶ ἄλλα.
+SUDA s.v. Φίλων Βύβλιος· γραμματικός. οὗτος γέγονεν ἐπὶ τῶν χρόνων τῶν ἐγγὺς Νέρωνος, καὶ παρέτεινεν εἰς μακρόν· ὕπατον γοῦν Σεβῆρον τὸν Ἐρέννιον χρηματίσαντα αὐτὸς εἶναί φησιν (F 54), ὅταν ἦγεν η καὶ ο ἔτος, ὀλυμπιάδι δὲ κ καὶ διακοσιοστῆι. γέγραπται δὲ αὐτῶι Περὶ κτήσεως καὶ ἐκλογῆς βιβλίων βιβλία ιβ · Περὶ πόλεων καὶ οὓς ἑκάστη αὐτῶν ἐνδόξους ἤνεγκε βιβλία λ · Περὶ τῆς βασιλείας Ἀδριανοῦ (ἐφ’ οὗ καὶ ἦν ὁ Φίλων)· καὶ ἄλλα.
 
 ### 3c,790,T 2a
 

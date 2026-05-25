@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Αἰγυπτιακοῦ Βίου
 author: Hipparchus of Nicaea II
 eul_wid: lwc-aa
 eul_aid: lwc
-canonical: "https://eulogikon.org/grc/hipparchus-of-nicaea-ii/egyptian-life"
+canonical: "https://eulogikon.org/works/hipparchus-nicaea-egyptian-life-lwc-aa"
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hipparchus of Nicaea II
 
-**eul_wid:** `lwc-aa` · [HTML page](https://eulogikon.org/grc/hipparchus-of-nicaea-ii/egyptian-life)
+**eul_wid:** `lwc-aa` · [HTML page](https://eulogikon.org/works/hipparchus-nicaea-egyptian-life-lwc-aa)
 
 ## Text
 
@@ -28,7 +28,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 497
 
-οὐ〈δέ〉 μοι Αἰγυπτίων βίος ἤρεσεν οἷον ἔχουσι, χέννια τίλλοντες †καλκατιαδεισαλέοντα
+οὐ〈δέ〉 μοι Αἰγυπτίων βίος ἤρεσεν οἷον ἔχουσι, χέννια τίλλοντες καλκατιαδεισαλέοντα
 
 ## License and provenance
 

@@ -4,7 +4,7 @@ title_greek: Γνῶσις περὶ ἡλικιῶν
 author: Philon of Byblos
 eul_wid: oow-ae
 eul_aid: oow
-canonical: "https://eulogikon.org/grc/philon-of-byblos/knowledge-ages"
+canonical: "https://eulogikon.org/works/philon-byblos-knowledge-ages-oow-ae"
 period: Roman
 dialect: Koine (frg)
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philon of Byblos
 
-**eul_wid:** `oow-ae` · [HTML page](https://eulogikon.org/grc/philon-of-byblos/knowledge-ages)
+**eul_wid:** `oow-ae` · [HTML page](https://eulogikon.org/works/philon-byblos-knowledge-ages-oow-ae)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἑπτὰ καὶ Δέκα Κεφάλαια Κατὰ Μονοφυ
 author: John of Caesarea in Palestine
 eul_wid: uxw-ac
 eul_aid: uxw
-canonical: "https://eulogikon.org/grc/john-of-caesarea-in-palestine/seventeen-chapters"
+canonical: "https://eulogikon.org/works/john-caesarea-palestine-seventeen-chapters-uxw-ac"
 period: Late Antique
 dialect: Christian Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** John of Caesarea in Palestine
 
-**eul_wid:** `uxw-ac` · [HTML page](https://eulogikon.org/grc/john-of-caesarea-in-palestine/seventeen-chapters)
+**eul_wid:** `uxw-ac` · [HTML page](https://eulogikon.org/works/john-caesarea-palestine-seventeen-chapters-uxw-ac)
 
 ## Text
 

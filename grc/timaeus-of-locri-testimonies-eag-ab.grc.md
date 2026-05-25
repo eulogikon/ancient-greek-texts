@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Timaeus of Locri
 eul_wid: eag-ab
 eul_aid: eag
-canonical: "https://eulogikon.org/grc/timaeus-of-locri/testimonies"
+canonical: "https://eulogikon.org/works/timaeus-locri-testimonies-eag-ab"
 period: Classical
 dialect: Doric
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Timaeus of Locri
 
-**eul_wid:** `eag-ab` · [HTML page](https://eulogikon.org/grc/timaeus-of-locri/testimonies)
+**eul_wid:** `eag-ab` · [HTML page](https://eulogikon.org/works/timaeus-locri-testimonies-eag-ab)
 
 ## Text
 

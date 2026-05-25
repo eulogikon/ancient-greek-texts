@@ -4,7 +4,7 @@ title_greek: Ἐτυμολογικὸν Ἔργον
 author: Orion of Thebes
 eul_wid: tme-ac
 eul_aid: tme
-canonical: "https://eulogikon.org/grc/orion-of-thebes/etymology-ac"
+canonical: "https://eulogikon.org/works/orion-thebes-etymology-tme-ac"
 period: Late Antique
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Orion of Thebes
 
-**eul_wid:** `tme-ac` · [HTML page](https://eulogikon.org/grc/orion-of-thebes/etymology-ac)
+**eul_wid:** `tme-ac` · [HTML page](https://eulogikon.org/works/orion-thebes-etymology-tme-ac)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: "Pseudo-Lucian "
 eul_wid: qeu-af
 eul_aid: qeu
-canonical: "https://eulogikon.org/grc/pseudo-lucian/epigrams-af"
+canonical: "https://eulogikon.org/works/pseudo-lucian-epigrams-qeu-af"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pseudo-Lucian 
 
-**eul_wid:** `qeu-af` · [HTML page](https://eulogikon.org/grc/pseudo-lucian/epigrams-af)
+**eul_wid:** `qeu-af` · [HTML page](https://eulogikon.org/works/pseudo-lucian-epigrams-qeu-af)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ συνηθείας
 author: Zenodorus the Grammarian
 eul_wid: mee-aa
 eul_aid: mee
-canonical: "https://eulogikon.org/grc/zenodorus-the-grammarian/custom"
+canonical: "https://eulogikon.org/works/zenodorus-custom-mee-aa"
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Zenodorus the Grammarian
 
-**eul_wid:** `mee-aa` · [HTML page](https://eulogikon.org/grc/zenodorus-the-grammarian/custom)
+**eul_wid:** `mee-aa` · [HTML page](https://eulogikon.org/works/zenodorus-custom-mee-aa)
 
 ## Text
 

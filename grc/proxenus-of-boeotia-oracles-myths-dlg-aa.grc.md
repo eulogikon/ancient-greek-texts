@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Proxenus of Boeotia
 eul_wid: dlg-aa
 eul_aid: dlg
-canonical: "https://eulogikon.org/grc/proxenus-of-boeotia/oracles-myths"
+canonical: "https://eulogikon.org/works/proxenus-boeotia-oracles-myths-dlg-aa"
 period: Classical
 dialect: Ionic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Proxenus of Boeotia
 
-**eul_wid:** `dlg-aa` · [HTML page](https://eulogikon.org/grc/proxenus-of-boeotia/oracles-myths)
+**eul_wid:** `dlg-aa` · [HTML page](https://eulogikon.org/works/proxenus-boeotia-oracles-myths-dlg-aa)
 
 ## Text
 

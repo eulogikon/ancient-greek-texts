@@ -4,7 +4,7 @@ title_greek: Ἀλληλογραφία Βασιλείου καὶ Λιβανίο
 author: Libanius of Antioch
 eul_wid: swk-ab
 eul_aid: swk
-canonical: "https://eulogikon.org/grc/libanius-of-antioch/correspondence-basil"
+canonical: "https://eulogikon.org/works/libanius-antioch-correspondence-basil-swk-ab"
 period: Late Antique
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Libanius of Antioch
 
-**eul_wid:** `swk-ab` · [HTML page](https://eulogikon.org/grc/libanius-of-antioch/correspondence-basil)
+**eul_wid:** `swk-ab` · [HTML page](https://eulogikon.org/works/libanius-antioch-correspondence-basil-swk-ab)
 
 ## Text
 

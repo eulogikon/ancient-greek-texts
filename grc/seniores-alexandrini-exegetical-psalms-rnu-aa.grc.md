@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τῶν Ψαλμῶν
 author: Seniores Alexandrini
 eul_wid: rnu-aa
 eul_aid: rnu
-canonical: "https://eulogikon.org/grc/seniores-alexandrini/exegetical-psalms"
+canonical: "https://eulogikon.org/works/seniores-alexandrini-exegetical-psalms-rnu-aa"
 period: Roman
 dialect: Christian Koine
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Seniores Alexandrini
 
-**eul_wid:** `rnu-aa` · [HTML page](https://eulogikon.org/grc/seniores-alexandrini/exegetical-psalms)
+**eul_wid:** `rnu-aa` · [HTML page](https://eulogikon.org/works/seniores-alexandrini-exegetical-psalms-rnu-aa)
 
 ## Text
 

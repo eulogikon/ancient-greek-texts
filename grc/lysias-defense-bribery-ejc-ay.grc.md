@@ -4,7 +4,7 @@ title_greek: ἀπολογία δωροδοκίας ἀπαράσημος
 author: Lysias the Orator
 eul_wid: ejc-ay
 eul_aid: ejc
-canonical: "https://eulogikon.org/grc/lysias/defense-bribery"
+canonical: "https://eulogikon.org/works/lysias-defense-bribery-ejc-ay"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lysias the Orator
 
-**eul_wid:** `ejc-ay` · [HTML page](https://eulogikon.org/grc/lysias/defense-bribery)
+**eul_wid:** `ejc-ay` · [HTML page](https://eulogikon.org/works/lysias-defense-bribery-ejc-ay)
 
 ## Text
 

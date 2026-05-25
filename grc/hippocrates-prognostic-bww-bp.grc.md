@@ -4,7 +4,7 @@ title_greek: Προγνωστικόν
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-bp
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/prognostic"
+canonical: "https://eulogikon.org/works/hippocrates-prognostic-bww-bp"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-bp` · [HTML page](https://eulogikon.org/grc/hippocrates/prognostic)
+**eul_wid:** `bww-bp` · [HTML page](https://eulogikon.org/works/hippocrates-prognostic-bww-bp)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἐπιστολαὶ πρὸς Φιλοσόφους
 author: Thales of Miletus
 eul_wid: apa-ac
 eul_aid: apa
-canonical: "https://eulogikon.org/grc/thales-of-miletus/letters"
+canonical: "https://eulogikon.org/works/thales-miletus-letters-apa-ac"
 period: Archaic
 dialect: Ionic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Thales of Miletus
 
-**eul_wid:** `apa-ac` · [HTML page](https://eulogikon.org/grc/thales-of-miletus/letters)
+**eul_wid:** `apa-ac` · [HTML page](https://eulogikon.org/works/thales-miletus-letters-apa-ac)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ Μερῶν τοῦ Ἀνθρωπίνου Σώματος
 author: Rufus of Ephesus
 eul_wid: ojc-ad
 eul_aid: ojc
-canonical: "https://eulogikon.org/grc/rufus-of-ephesus/human-body"
+canonical: "https://eulogikon.org/works/rufus-ephesus-human-body-ojc-ad"
 period: Roman
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Rufus of Ephesus
 
-**eul_wid:** `ojc-ad` · [HTML page](https://eulogikon.org/grc/rufus-of-ephesus/human-body)
+**eul_wid:** `ojc-ad` · [HTML page](https://eulogikon.org/works/rufus-ephesus-human-body-ojc-ad)
 
 ## Text
 

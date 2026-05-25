@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Simylus the Elegiac Poet
 eul_wid: gfe-aa
 eul_aid: gfe
-canonical: "https://eulogikon.org/grc/simylus-the-elegiac-poet/nature-art-wisdom"
+canonical: "https://eulogikon.org/works/simylus-nature-art-wisdom-gfe-aa"
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Simylus the Elegiac Poet
 
-**eul_wid:** `gfe-aa` · [HTML page](https://eulogikon.org/grc/simylus-the-elegiac-poet/nature-art-wisdom)
+**eul_wid:** `gfe-aa` · [HTML page](https://eulogikon.org/works/simylus-nature-art-wisdom-gfe-aa)
 
 ## Text
 

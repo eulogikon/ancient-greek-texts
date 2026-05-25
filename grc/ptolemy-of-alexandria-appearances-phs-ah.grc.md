@@ -4,7 +4,7 @@ title_greek: Φαινόμενα
 author: Ptolemy of Alexandria
 eul_wid: phs-ah
 eul_aid: phs
-canonical: "https://eulogikon.org/grc/ptolemy-of-alexandria/appearances"
+canonical: "https://eulogikon.org/works/ptolemy-alexandria-appearances-phs-ah"
 period: Roman
 dialect: Technical Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ptolemy of Alexandria
 
-**eul_wid:** `phs-ah` · [HTML page](https://eulogikon.org/grc/ptolemy-of-alexandria/appearances)
+**eul_wid:** `phs-ah` · [HTML page](https://eulogikon.org/works/ptolemy-alexandria-appearances-phs-ah)
 
 ## Text
 

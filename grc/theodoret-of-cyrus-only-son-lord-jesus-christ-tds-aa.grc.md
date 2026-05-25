@@ -4,7 +4,7 @@ title_greek: Ὅτι ὁ Μονογενὴς Υἱὸς ἡμῶν Κύριος 
 author: Theodoret of Cyrus
 eul_wid: tds-aa
 eul_aid: tds
-canonical: "https://eulogikon.org/grc/theodoret-of-cyrus/only-son-lord-jesus-christ"
+canonical: "https://eulogikon.org/works/theodoret-cyrus-only-son-lord-jesus-christ-tds-aa"
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theodoret of Cyrus
 
-**eul_wid:** `tds-aa` · [HTML page](https://eulogikon.org/grc/theodoret-of-cyrus/only-son-lord-jesus-christ)
+**eul_wid:** `tds-aa` · [HTML page](https://eulogikon.org/works/theodoret-cyrus-only-son-lord-jesus-christ-tds-aa)
 
 ## Text
 

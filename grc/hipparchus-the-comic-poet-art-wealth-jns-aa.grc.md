@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Τέχνης καὶ Πλούτο
 author: Hipparchus the Comic Poet
 eul_wid: jns-aa
 eul_aid: jns
-canonical: "https://eulogikon.org/grc/hipparchus-the-comic-poet/art-wealth"
+canonical: "https://eulogikon.org/works/hipparchus-comic-art-wealth-jns-aa"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hipparchus the Comic Poet
 
-**eul_wid:** `jns-aa` · [HTML page](https://eulogikon.org/grc/hipparchus-the-comic-poet/art-wealth)
+**eul_wid:** `jns-aa` · [HTML page](https://eulogikon.org/works/hipparchus-comic-art-wealth-jns-aa)
 
 ## Text
 

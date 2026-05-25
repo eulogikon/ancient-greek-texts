@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τῆς τοῦ Ἡρακλέου
 author: Herodorus of Heraclea
 eul_wid: evk-aa
 eul_aid: evk
-canonical: "https://eulogikon.org/grc/herodorus-of-heraclea/ancestry"
+canonical: "https://eulogikon.org/works/herodorus-heraclea-ancestry-evk-aa"
 period: Classical
 dialect: Ionic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Herodorus of Heraclea
 
-**eul_wid:** `evk-aa` · [HTML page](https://eulogikon.org/grc/herodorus-of-heraclea/ancestry)
+**eul_wid:** `evk-aa` · [HTML page](https://eulogikon.org/works/herodorus-heraclea-ancestry-evk-aa)
 
 ## Text
 

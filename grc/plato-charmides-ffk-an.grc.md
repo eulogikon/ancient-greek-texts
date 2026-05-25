@@ -4,7 +4,7 @@ title_greek: Χαρμίδης
 author: Plato of Athens
 eul_wid: ffk-an
 eul_aid: ffk
-canonical: "https://eulogikon.org/grc/plato/charmides"
+canonical: "https://eulogikon.org/works/plato-charmides-ffk-an"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plato of Athens
 
-**eul_wid:** `ffk-an` · [HTML page](https://eulogikon.org/grc/plato/charmides)
+**eul_wid:** `ffk-an` · [HTML page](https://eulogikon.org/works/plato-charmides-ffk-an)
 
 ## Text
 

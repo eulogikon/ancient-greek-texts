@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Rutilius Rufus the Historian
 eul_wid: moo-aa
 eul_aid: moo
-canonical: "https://eulogikon.org/grc/rutilius-rufus-the-historian/historical-fragments"
+canonical: "https://eulogikon.org/works/rutilius-rufus-historical-fragments-moo-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Rutilius Rufus the Historian
 
-**eul_wid:** `moo-aa` · [HTML page](https://eulogikon.org/grc/rutilius-rufus-the-historian/historical-fragments)
+**eul_wid:** `moo-aa` · [HTML page](https://eulogikon.org/works/rutilius-rufus-historical-fragments-moo-aa)
 
 ## Text
 

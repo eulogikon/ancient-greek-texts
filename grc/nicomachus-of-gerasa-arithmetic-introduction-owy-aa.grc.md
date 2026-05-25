@@ -4,7 +4,7 @@ title_greek: Ἀριθμητικὴ εἰσαγωγή
 author: Nicomachus of Gerasa
 eul_wid: owy-aa
 eul_aid: owy
-canonical: "https://eulogikon.org/grc/nicomachus-of-gerasa/arithmetic-introduction"
+canonical: "https://eulogikon.org/works/nicomachus-gerasa-arithmetic-introduction-owy-aa"
 period: Roman
 dialect: Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nicomachus of Gerasa
 
-**eul_wid:** `owy-aa` · [HTML page](https://eulogikon.org/grc/nicomachus-of-gerasa/arithmetic-introduction)
+**eul_wid:** `owy-aa` · [HTML page](https://eulogikon.org/works/nicomachus-gerasa-arithmetic-introduction-owy-aa)
 
 ## Text
 

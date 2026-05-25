@@ -4,7 +4,7 @@ title_greek: Εὐπατριδῶν πάτρια
 author: Historical Fragments  Anonymous
 eul_wid: mmg-aw
 eul_aid: mmg
-canonical: "https://eulogikon.org/grc/historical-fragments-anonymous/eupatridae"
+canonical: "https://eulogikon.org/works/anon-hist-frag-eupatridae-mmg-aw"
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Historical Fragments  Anonymous
 
-**eul_wid:** `mmg-aw` · [HTML page](https://eulogikon.org/grc/historical-fragments-anonymous/eupatridae)
+**eul_wid:** `mmg-aw` · [HTML page](https://eulogikon.org/works/anon-hist-frag-eupatridae-mmg-aw)
 
 ## Text
 

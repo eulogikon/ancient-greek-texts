@@ -4,7 +4,7 @@ title_greek: Πολιτικός
 author: Lesbonax of Mytilene
 eul_wid: mbw-ac
 eul_aid: mbw
-canonical: "https://eulogikon.org/grc/lesbonax-the-rhetorician/statesman"
+canonical: "https://eulogikon.org/works/lesbonax-mytilene-statesman-mbw-ac"
 period: Hellenistic
 dialect: Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lesbonax of Mytilene
 
-**eul_wid:** `mbw-ac` · [HTML page](https://eulogikon.org/grc/lesbonax-the-rhetorician/statesman)
+**eul_wid:** `mbw-ac` · [HTML page](https://eulogikon.org/works/lesbonax-mytilene-statesman-mbw-ac)
 
 ## Text
 

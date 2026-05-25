@@ -4,7 +4,7 @@ title_greek: Ἀνωνύμου Περίπλους τοῦ Εὐξείνου Πό
 author: "Voyage Round the Euxine Sea "
 eul_wid: ojm-aa
 eul_aid: ojm
-canonical: "https://eulogikon.org/grc/periplus-of-the-euxine-sea-anonymous/black-sea"
+canonical: "https://eulogikon.org/works/voyage-euxine-sea-black-sea-ojm-aa"
 period: Roman
 dialect: Koine
 domain: Geography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Voyage Round the Euxine Sea 
 
-**eul_wid:** `ojm-aa` · [HTML page](https://eulogikon.org/grc/periplus-of-the-euxine-sea-anonymous/black-sea)
+**eul_wid:** `ojm-aa` · [HTML page](https://eulogikon.org/works/voyage-euxine-sea-black-sea-ojm-aa)
 
 ## Text
 

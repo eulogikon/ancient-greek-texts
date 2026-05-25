@@ -4,7 +4,7 @@ title_greek: Περὶ Ἰδρώτων
 author: Theophrastus of Eresus
 eul_wid: ljk-aq
 eul_aid: ljk
-canonical: "https://eulogikon.org/grc/theophrastus-of-eresus/on-sweats"
+canonical: "https://eulogikon.org/works/theophrastus-eresus-on-sweats-ljk-aq"
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theophrastus of Eresus
 
-**eul_wid:** `ljk-aq` · [HTML page](https://eulogikon.org/grc/theophrastus-of-eresus/on-sweats)
+**eul_wid:** `ljk-aq` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-on-sweats-ljk-aq)
 
 ## Text
 

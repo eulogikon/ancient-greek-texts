@@ -4,7 +4,7 @@ title_greek: Συναγωγή
 author: Pappus of Alexandria
 eul_wid: txs-ab
 eul_aid: txs
-canonical: "https://eulogikon.org/grc/pappus-of-alexandria/synagogue"
+canonical: "https://eulogikon.org/works/pappus-alexandria-synagogue-txs-ab"
 period: Late Antique
 dialect: Technical Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pappus of Alexandria
 
-**eul_wid:** `txs-ab` · [HTML page](https://eulogikon.org/grc/pappus-of-alexandria/synagogue)
+**eul_wid:** `txs-ab` · [HTML page](https://eulogikon.org/works/pappus-alexandria-synagogue-txs-ab)
 
 ## Text
 

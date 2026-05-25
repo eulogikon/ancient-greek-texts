@@ -4,7 +4,7 @@ title_greek: Κατὰ Λοχίτου
 author: Isocrates of Athens
 eul_wid: ffu-ag
 eul_aid: ffu
-canonical: "https://eulogikon.org/grc/isocrates-of-athens/against-lochites"
+canonical: "https://eulogikon.org/works/isocrates-athens-against-lochites-ffu-ag"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Isocrates of Athens
 
-**eul_wid:** `ffu-ag` · [HTML page](https://eulogikon.org/grc/isocrates-of-athens/against-lochites)
+**eul_wid:** `ffu-ag` · [HTML page](https://eulogikon.org/works/isocrates-athens-against-lochites-ffu-ag)
 
 ## Text
 

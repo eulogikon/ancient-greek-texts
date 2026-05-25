@@ -4,7 +4,7 @@ title_greek: Μαρτυρία
 author: Simonides of Ceos
 eul_wid: big-ad
 eul_aid: big
-canonical: "https://eulogikon.org/grc/simonides-of-ceos/testimony"
+canonical: "https://eulogikon.org/works/simonides-ceos-testimony-big-ad"
 period: Archaic
 dialect: Koine
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Simonides of Ceos
 
-**eul_wid:** `big-ad` · [HTML page](https://eulogikon.org/grc/simonides-of-ceos/testimony)
+**eul_wid:** `big-ad` · [HTML page](https://eulogikon.org/works/simonides-ceos-testimony-big-ad)
 
 ## Text
 

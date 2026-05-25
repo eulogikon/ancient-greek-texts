@@ -4,7 +4,7 @@ title_greek: Φιλοποίμην
 author: Plutarch of Chaeronea
 eul_wid: okg-dx
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/philopoemen"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-philopoemen-okg-dx"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-dx` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/philopoemen)
+**eul_wid:** `okg-dx` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-philopoemen-okg-dx)
 
 ## Text
 
@@ -148,7 +148,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### Phil 6 9
 
-τὸ μὲν οὖν πρῶτον ἐνσχεθεὶς ὥσπερ δεσμῷ, παντάπασιν ἀπόρως εἶχε. τὸ γὰρ ἔναμμα τῆς ἀγκύλης χαλεπὴν ἐποίει τοῦ ἀκοντίσματος ἀνελκομένου διὰ τῶν τραυμάτων τὴν πάροδον· ὡς δ’ ὤκνουν οἱ παρόντες ἅψασθαι, καὶ τῆς μάχης ἀκμὴν ὀξεῖαν ἐχούσης ἐσφάδαζεν ὑπὸ θυμοῦ καὶ φιλοτιμίας πρὸς τὸν ἀγῶνα, τῇ † παραβάσει καὶ τῇ παραλλάξει τῶν σκελῶν διὰ μέσου κλάσας τὸ ἀκόντισμα, χωρὶς ἐκέλευσεν ἑλκύσαι τῶν ἀγμάτων ἑκάτερον.
+τὸ μὲν οὖν πρῶτον ἐνσχεθεὶς ὥσπερ δεσμῷ, παντάπασιν ἀπόρως εἶχε. τὸ γὰρ ἔναμμα τῆς ἀγκύλης χαλεπὴν ἐποίει τοῦ ἀκοντίσματος ἀνελκομένου διὰ τῶν τραυμάτων τὴν πάροδον· ὡς δ’ ὤκνουν οἱ παρόντες ἅψασθαι, καὶ τῆς μάχης ἀκμὴν ὀξεῖαν ἐχούσης ἐσφάδαζεν ὑπὸ θυμοῦ καὶ φιλοτιμίας πρὸς τὸν ἀγῶνα, τῇ παραβάσει καὶ τῇ παραλλάξει τῶν σκελῶν διὰ μέσου κλάσας τὸ ἀκόντισμα, χωρὶς ἐκέλευσεν ἑλκύσαι τῶν ἀγμάτων ἑκάτερον.
 
 ### Phil 6 11
 

@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Macer Pompeius the Tragedian
 eul_wid: nkw-aa
 eul_aid: nkw
-canonical: "https://eulogikon.org/grc/macer-pompeius-the-tragedian/medeas-lament"
+canonical: "https://eulogikon.org/works/macer-pompeius-medeas-lament-nkw-aa"
 period: Hellenistic
 dialect: Koine
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Macer Pompeius the Tragedian
 
-**eul_wid:** `nkw-aa` · [HTML page](https://eulogikon.org/grc/macer-pompeius-the-tragedian/medeas-lament)
+**eul_wid:** `nkw-aa` · [HTML page](https://eulogikon.org/works/macer-pompeius-medeas-lament-nkw-aa)
 
 ## Text
 

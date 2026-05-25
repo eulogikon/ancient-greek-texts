@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τοῦ Ἀθηναϊκοῦ Βί
 author: Lysippus the Comic Poet
 eul_wid: dso-ab
 eul_aid: dso
-canonical: "https://eulogikon.org/grc/lysippus-the-comic-poet/athenian-life"
+canonical: "https://eulogikon.org/works/lysippus-comic-athenian-life-dso-ab"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lysippus the Comic Poet
 
-**eul_wid:** `dso-ab` · [HTML page](https://eulogikon.org/grc/lysippus-the-comic-poet/athenian-life)
+**eul_wid:** `dso-ab` · [HTML page](https://eulogikon.org/works/lysippus-comic-athenian-life-dso-ab)
 
 ## Text
 

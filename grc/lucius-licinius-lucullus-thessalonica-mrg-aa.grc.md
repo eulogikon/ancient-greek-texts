@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Lucius Licinius Lucullus
 eul_wid: mrg-aa
 eul_aid: mrg
-canonical: "https://eulogikon.org/grc/lucius-licinius-lucullus/thessalonica"
+canonical: "https://eulogikon.org/works/lucullus-thessalonica-mrg-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucius Licinius Lucullus
 
-**eul_wid:** `mrg-aa` · [HTML page](https://eulogikon.org/grc/lucius-licinius-lucullus/thessalonica)
+**eul_wid:** `mrg-aa` · [HTML page](https://eulogikon.org/works/lucullus-thessalonica-mrg-aa)
 
 ## Text
 

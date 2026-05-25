@@ -4,7 +4,7 @@ title_greek: Περὶ ὑγιεινῆς διαίτης
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-bc
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/healthy-diet"
+canonical: "https://eulogikon.org/works/hippocrates-healthy-diet-bww-bc"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-bc` · [HTML page](https://eulogikon.org/grc/hippocrates/healthy-diet)
+**eul_wid:** `bww-bc` · [HTML page](https://eulogikon.org/works/hippocrates-healthy-diet-bww-bc)
 
 ## Text
 

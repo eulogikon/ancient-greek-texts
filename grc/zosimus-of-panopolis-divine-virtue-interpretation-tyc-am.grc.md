@@ -4,7 +4,7 @@ title_greek: Ζωσίμου τοῦ θείου περὶ ἀρετῆς καὶ 
 author: Zosimus of Panopolis
 eul_wid: tyc-am
 eul_aid: tyc
-canonical: "https://eulogikon.org/grc/zosimus-of-panopolis/divine-virtue-interpretation"
+canonical: "https://eulogikon.org/works/zosimus-panopolis-divine-virtue-interpretation-tyc-am"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Zosimus of Panopolis
 
-**eul_wid:** `tyc-am` · [HTML page](https://eulogikon.org/grc/zosimus-of-panopolis/divine-virtue-interpretation)
+**eul_wid:** `tyc-am` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-divine-virtue-interpretation-tyc-am)
 
 ## Text
 

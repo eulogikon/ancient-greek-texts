@@ -4,7 +4,7 @@ title_greek: Περὶ γεωργίας
 author: Philo of Alexandria
 eul_wid: lgi-bh
 eul_aid: lgi
-canonical: "https://eulogikon.org/grc/philo-of-alexandria/agriculture"
+canonical: "https://eulogikon.org/works/philo-alexandria-agriculture-lgi-bh"
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philo of Alexandria
 
-**eul_wid:** `lgi-bh` · [HTML page](https://eulogikon.org/grc/philo-of-alexandria/agriculture)
+**eul_wid:** `lgi-bh` · [HTML page](https://eulogikon.org/works/philo-alexandria-agriculture-lgi-bh)
 
 ## Text
 

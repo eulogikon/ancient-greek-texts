@@ -4,7 +4,7 @@ title_greek: Λυκούργου καὶ Νομᾶ σύγκρισις
 author: Plutarch of Chaeronea
 eul_wid: okg-br
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/lycurgus-numa"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-lycurgus-numa-okg-br"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-br` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/lycurgus-numa)
+**eul_wid:** `okg-br` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-lycurgus-numa-okg-br)
 
 ## Text
 

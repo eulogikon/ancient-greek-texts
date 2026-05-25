@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Sphaerus of Borysthenes
 eul_wid: ipw-aa
 eul_aid: ipw
-canonical: "https://eulogikon.org/grc/sphaerus-of-borysthenes/stoic-fragments"
+canonical: "https://eulogikon.org/works/sphaerus-borysthenes-stoic-fragments-ipw-aa"
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sphaerus of Borysthenes
 
-**eul_wid:** `ipw-aa` · [HTML page](https://eulogikon.org/grc/sphaerus-of-borysthenes/stoic-fragments)
+**eul_wid:** `ipw-aa` · [HTML page](https://eulogikon.org/works/sphaerus-borysthenes-stoic-fragments-ipw-aa)
 
 ## Text
 

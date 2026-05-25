@@ -4,7 +4,7 @@ title_greek: κατὰ Φιλοκράτους ἐπίλογος
 author: Lysias the Orator
 eul_wid: ejc-av
 eul_aid: ejc
-canonical: "https://eulogikon.org/grc/lysias/against-philocrates"
+canonical: "https://eulogikon.org/works/lysias-against-philocrates-ejc-av"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lysias the Orator
 
-**eul_wid:** `ejc-av` · [HTML page](https://eulogikon.org/grc/lysias/against-philocrates)
+**eul_wid:** `ejc-av` · [HTML page](https://eulogikon.org/works/lysias-against-philocrates-ejc-av)
 
 ## Text
 
@@ -36,7 +36,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### Or29 3
 
-τίνα δὲ Ἐργοκλῆς περὶ πλείονος Φιλοκράτους ἐποιεῖτο, ἢ πρὸς τίν’ ἀνθρώπων διέκειτο οἰκειότερον; οὐ τῶν μὲν ὑμετέρων † πολιτῶν † αὐτὸν ἐξήγαγε, τῶν δ’ αὑτοῦ χρημάτων ταμίαν ἐποίησε, καὶ τὸ τελευταῖον τριήραρχον αὐτὸν κατέστησε; καίτοι δεινὸν εἰ οἱ μὲν τὰς οὐσίας ἔχοντες ὀλοφύρονται τριηραρχοῦντες, οὗτος δὲ οὐδὲν πρότερον κεκτημένος ἐν ἐκείνῳ τῷ χρόνῳ ἐθελοντὴς ὑπέστη ταύτην τὴν λῃτουργίαν.
+τίνα δὲ Ἐργοκλῆς περὶ πλείονος Φιλοκράτους ἐποιεῖτο, ἢ πρὸς τίν’ ἀνθρώπων διέκειτο οἰκειότερον; οὐ τῶν μὲν ὑμετέρων πολιτῶν αὐτὸν ἐξήγαγε, τῶν δ’ αὑτοῦ χρημάτων ταμίαν ἐποίησε, καὶ τὸ τελευταῖον τριήραρχον αὐτὸν κατέστησε; καίτοι δεινὸν εἰ οἱ μὲν τὰς οὐσίας ἔχοντες ὀλοφύρονται τριηραρχοῦντες, οὗτος δὲ οὐδὲν πρότερον κεκτημένος ἐν ἐκείνῳ τῷ χρόνῳ ἐθελοντὴς ὑπέστη ταύτην τὴν λῃτουργίαν.
 
 ### Or29 4
 

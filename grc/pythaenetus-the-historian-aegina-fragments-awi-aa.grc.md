@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Αἰγίνης
 author: Pythaenetus the Historian
 eul_wid: awi-aa
 eul_aid: awi
-canonical: "https://eulogikon.org/grc/pythaenetus-the-historian/aegina-fragments"
+canonical: "https://eulogikon.org/works/pythaenetus-aegina-fragments-awi-aa"
 period: Archaic
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pythaenetus the Historian
 
-**eul_wid:** `awi-aa` · [HTML page](https://eulogikon.org/grc/pythaenetus-the-historian/aegina-fragments)
+**eul_wid:** `awi-aa` · [HTML page](https://eulogikon.org/works/pythaenetus-aegina-fragments-awi-aa)
 
 ## Text
 

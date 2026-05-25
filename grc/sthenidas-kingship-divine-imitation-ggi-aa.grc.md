@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Sthenidas
 eul_wid: ggi-aa
 eul_aid: ggi
-canonical: "https://eulogikon.org/grc/sthenidas/kingship-divine-imitation"
+canonical: "https://eulogikon.org/works/sthenidas-kingship-divine-imitation-ggi-aa"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sthenidas
 
-**eul_wid:** `ggi-aa` · [HTML page](https://eulogikon.org/grc/sthenidas/kingship-divine-imitation)
+**eul_wid:** `ggi-aa` · [HTML page](https://eulogikon.org/works/sthenidas-kingship-divine-imitation-ggi-aa)
 
 ## Text
 

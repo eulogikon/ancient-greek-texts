@@ -4,7 +4,7 @@ title_greek: Τιμοθέῳ
 author: Isocrates of Athens
 eul_wid: ffu-au
 eul_aid: ffu
-canonical: "https://eulogikon.org/grc/isocrates-of-athens/timothy"
+canonical: "https://eulogikon.org/works/isocrates-athens-timothy-ffu-au"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Isocrates of Athens
 
-**eul_wid:** `ffu-au` · [HTML page](https://eulogikon.org/grc/isocrates-of-athens/timothy)
+**eul_wid:** `ffu-au` · [HTML page](https://eulogikon.org/works/isocrates-athens-timothy-ffu-au)
 
 ## Text
 

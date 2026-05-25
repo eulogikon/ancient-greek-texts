@@ -4,7 +4,7 @@ title_greek: "Μαρτυρίαι Β'"
 author: Ion of Chios
 eul_wid: ccg-ab
 eul_aid: ccg
-canonical: "https://eulogikon.org/grc/ion-of-chios/testimonies-2"
+canonical: "https://eulogikon.org/works/ion-chios-testimonies-2-ccg-ab"
 period: Classical
 dialect: Ionic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ion of Chios
 
-**eul_wid:** `ccg-ab` · [HTML page](https://eulogikon.org/grc/ion-of-chios/testimonies-2)
+**eul_wid:** `ccg-ab` · [HTML page](https://eulogikon.org/works/ion-chios-testimonies-2-ccg-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Βατραχομυομαχία
 author: Parodist  Anonymous
 eul_wid: mje-ab
 eul_aid: mje
-canonical: "https://eulogikon.org/grc/parodist-anon/frogs-mice-ab"
+canonical: "https://eulogikon.org/works/parodist-anon-frogs-mice-mje-ab"
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Parodist  Anonymous
 
-**eul_wid:** `mje-ab` · [HTML page](https://eulogikon.org/grc/parodist-anon/frogs-mice-ab)
+**eul_wid:** `mje-ab` · [HTML page](https://eulogikon.org/works/parodist-anon-frogs-mice-mje-ab)
 
 ## Text
 

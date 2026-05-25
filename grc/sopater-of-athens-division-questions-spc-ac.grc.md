@@ -4,7 +4,7 @@ title_greek: Διαίρεσις ζητημάτων
 author: Sopater of Athens
 eul_wid: spc-ac
 eul_aid: spc
-canonical: "https://eulogikon.org/grc/sopater-of-athens/division-questions"
+canonical: "https://eulogikon.org/works/sopater-athens-division-questions-spc-ac"
 period: Late Antique
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sopater of Athens
 
-**eul_wid:** `spc-ac` · [HTML page](https://eulogikon.org/grc/sopater-of-athens/division-questions)
+**eul_wid:** `spc-ac` · [HTML page](https://eulogikon.org/works/sopater-athens-division-questions-spc-ac)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Θεοῦ καὶ Εὐσεβεί
 author: "Pseudo-Heraclitus "
 eul_wid: otw-aa
 eul_aid: otw
-canonical: "https://eulogikon.org/grc/pseudo-heraclitus/god-piety"
+canonical: "https://eulogikon.org/works/pseudo-heraclitus-god-piety-otw-aa"
 period: Roman
 dialect: Koine
 format: Epistle
@@ -17,7 +17,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pseudo-Heraclitus 
 
-**eul_wid:** `otw-aa` · [HTML page](https://eulogikon.org/grc/pseudo-heraclitus/god-piety)
+**eul_wid:** `otw-aa` · [HTML page](https://eulogikon.org/works/pseudo-heraclitus-god-piety-otw-aa)
 
 ## Text
 

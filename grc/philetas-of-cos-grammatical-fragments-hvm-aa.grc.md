@@ -4,7 +4,7 @@ title_greek: Γραμματικὰ Ἀποσπάσματα
 author: Philetas of Cos
 eul_wid: hvm-aa
 eul_aid: hvm
-canonical: "https://eulogikon.org/grc/philetas-of-cos/grammatical-fragments"
+canonical: "https://eulogikon.org/works/philetas-cos-grammatical-fragments-hvm-aa"
 period: Hellenistic
 dialect: Attic
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philetas of Cos
 
-**eul_wid:** `hvm-aa` · [HTML page](https://eulogikon.org/grc/philetas-of-cos/grammatical-fragments)
+**eul_wid:** `hvm-aa` · [HTML page](https://eulogikon.org/works/philetas-cos-grammatical-fragments-hvm-aa)
 
 ## Text
 
@@ -264,7 +264,7 @@ Hesych. s. βαίβυκος· πελεκᾶνος
 
 ### book 19.2
 
-Φιλήτας. Ἀμερίας δὲ † βαυκάλας.
+Φιλήτας. Ἀμερίας δὲ βαυκάλας.
 
 ### book 20.1
 

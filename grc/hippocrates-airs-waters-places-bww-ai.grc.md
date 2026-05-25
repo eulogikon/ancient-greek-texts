@@ -4,7 +4,7 @@ title_greek: "Περὶ ἀέρων, ὑδάτων, τόπων"
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-ai
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/airs-waters-places"
+canonical: "https://eulogikon.org/works/hippocrates-airs-waters-places-bww-ai"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-ai` · [HTML page](https://eulogikon.org/grc/hippocrates/airs-waters-places)
+**eul_wid:** `bww-ai` · [HTML page](https://eulogikon.org/works/hippocrates-airs-waters-places-bww-ai)
 
 ## Text
 

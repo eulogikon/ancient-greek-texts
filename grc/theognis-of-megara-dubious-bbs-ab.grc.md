@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα ἀμφίβολα
 author: Theognis of Megara
 eul_wid: bbs-ab
 eul_aid: bbs
-canonical: "https://eulogikon.org/grc/theognis-of-megara/dubious"
+canonical: "https://eulogikon.org/works/theognis-megara-dubious-bbs-ab"
 period: Archaic
 dialect: Ionic Elegiac
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theognis of Megara
 
-**eul_wid:** `bbs-ab` · [HTML page](https://eulogikon.org/grc/theognis-of-megara/dubious)
+**eul_wid:** `bbs-ab` · [HTML page](https://eulogikon.org/works/theognis-megara-dubious-bbs-ab)
 
 ## Text
 
@@ -32,7 +32,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 3
 
-† βόμβων † ἐπαινήσω, 〈Πολυπαίδη〉 ...
+βόμβων ἐπαινήσω, 〈Πολυπαίδη〉 ...
 
 ### 4
 

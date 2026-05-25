@@ -4,7 +4,7 @@ title_greek: Περὶ τροφῶν δυνάμεως
 author: Medical Writers Anonymous
 eul_wid: umi-an
 eul_aid: umi
-canonical: "https://eulogikon.org/grc/medical-writers-anonymous/foods-power"
+canonical: "https://eulogikon.org/works/med-writers-anon-foods-power-umi-an"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Medical Writers Anonymous
 
-**eul_wid:** `umi-an` · [HTML page](https://eulogikon.org/grc/medical-writers-anonymous/foods-power)
+**eul_wid:** `umi-an` · [HTML page](https://eulogikon.org/works/med-writers-anon-foods-power-umi-an)
 
 ## Text
 

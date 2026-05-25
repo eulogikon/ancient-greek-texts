@@ -4,7 +4,7 @@ title_greek: Βίος Πυθαγόρου
 author: Porphyry of Tyre
 eul_wid: udm-as
 eul_aid: udm
-canonical: "https://eulogikon.org/grc/porphyry-of-tyre/life-pythagoras"
+canonical: "https://eulogikon.org/works/porphyry-tyre-life-pythagoras-udm-as"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Porphyry of Tyre
 
-**eul_wid:** `udm-as` · [HTML page](https://eulogikon.org/grc/porphyry-of-tyre/life-pythagoras)
+**eul_wid:** `udm-as` · [HTML page](https://eulogikon.org/works/porphyry-tyre-life-pythagoras-udm-as)
 
 ## Text
 

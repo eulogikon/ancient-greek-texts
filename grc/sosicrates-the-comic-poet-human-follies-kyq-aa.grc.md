@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἀνθρωπίνων Μωριῶ
 author: "Sosicrates the Comic Poet "
 eul_wid: kyq-aa
 eul_aid: kyq
-canonical: "https://eulogikon.org/grc/sosicrates-the-comic-poet/human-follies"
+canonical: "https://eulogikon.org/works/sosicrates-human-follies-kyq-aa"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sosicrates the Comic Poet 
 
-**eul_wid:** `kyq-aa` · [HTML page](https://eulogikon.org/grc/sosicrates-the-comic-poet/human-follies)
+**eul_wid:** `kyq-aa` · [HTML page](https://eulogikon.org/works/sosicrates-human-follies-kyq-aa)
 
 ## Text
 

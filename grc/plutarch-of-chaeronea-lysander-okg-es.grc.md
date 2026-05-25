@@ -4,7 +4,7 @@ title_greek: Λύσανδρος
 author: Plutarch of Chaeronea
 eul_wid: okg-es
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/lysander"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-lysander-okg-es"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-es` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/lysander)
+**eul_wid:** `okg-es` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-lysander-okg-es)
 
 ## Text
 

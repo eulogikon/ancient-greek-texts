@@ -4,7 +4,7 @@ title_greek: Ἀπολογία Σωκράτους
 author: Plato of Athens
 eul_wid: ffk-aa
 eul_aid: ffk
-canonical: "https://eulogikon.org/grc/plato/apology"
+canonical: "https://eulogikon.org/works/plato-apology-ffk-aa"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plato of Athens
 
-**eul_wid:** `ffk-aa` · [HTML page](https://eulogikon.org/grc/plato/apology)
+**eul_wid:** `ffk-aa` · [HTML page](https://eulogikon.org/works/plato-apology-ffk-aa)
 
 ## Text
 

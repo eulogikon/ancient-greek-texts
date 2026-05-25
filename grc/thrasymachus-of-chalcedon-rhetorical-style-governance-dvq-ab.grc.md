@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Thrasymachus of Chalcedon
 eul_wid: dvq-ab
 eul_aid: dvq
-canonical: "https://eulogikon.org/grc/thrasymachus-of-chalcedon/rhetorical-style-governance"
+canonical: "https://eulogikon.org/works/thrasymachus-chalcedon-rhetorical-style-governance-dvq-ab"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Thrasymachus of Chalcedon
 
-**eul_wid:** `dvq-ab` · [HTML page](https://eulogikon.org/grc/thrasymachus-of-chalcedon/rhetorical-style-governance)
+**eul_wid:** `dvq-ab` · [HTML page](https://eulogikon.org/works/thrasymachus-chalcedon-rhetorical-style-governance-dvq-ab)
 
 ## Text
 

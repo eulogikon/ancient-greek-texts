@@ -4,7 +4,7 @@ title_greek: Λάχης
 author: Plato of Athens
 eul_wid: ffk-bg
 eul_aid: ffk
-canonical: "https://eulogikon.org/grc/plato/laches"
+canonical: "https://eulogikon.org/works/plato-laches-ffk-bg"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plato of Athens
 
-**eul_wid:** `ffk-bg` · [HTML page](https://eulogikon.org/grc/plato/laches)
+**eul_wid:** `ffk-bg` · [HTML page](https://eulogikon.org/works/plato-laches-ffk-bg)
 
 ## Text
 
@@ -1076,7 +1076,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **ΝΙ**
 
-Ὅτι οἴεται τοὺς ἰατροὺς πλέον τι εἰδέναι περὶ τοὺς κάμνοντας ἢ τὸ ὑγιεινὸν †εἰπεῖν οἷόν τε καὶ νοσῶδες. οἱ δὲ δήπου τοσοῦτον μόνον ἴσασιν· εἰ δὲ δεινόν τῳ τοῦτό ἐστιν τὸ ὑγιαίνειν μᾶλλον ἢ τὸ κάμνειν, ἡγῇ σὺ τουτί, ὦ Λάχης, τοὺς ἰατροὺς ἐπίστασθαι; ἢ οὐ πολλοῖς οἴει ἐκ τῆς νόσου ἄμεινον εἶναι μὴ ἀναστῆναι ἢ ἀναστῆναι; τοῦτο γὰρ εἰπέ· σὺ πᾶσι φῂς ἄμεινον εἶναι ζῆν καὶ οὐ πολλοῖς κρεῖττον τεθνάναι;
+Ὅτι οἴεται τοὺς ἰατροὺς πλέον τι εἰδέναι περὶ τοὺς κάμνοντας ἢ τὸ ὑγιεινὸν εἰπεῖν οἷόν τε καὶ νοσῶδες. οἱ δὲ δήπου τοσοῦτον μόνον ἴσασιν· εἰ δὲ δεινόν τῳ τοῦτό ἐστιν τὸ ὑγιαίνειν μᾶλλον ἢ τὸ κάμνειν, ἡγῇ σὺ τουτί, ὦ Λάχης, τοὺς ἰατροὺς ἐπίστασθαι; ἢ οὐ πολλοῖς οἴει ἐκ τῆς νόσου ἄμεινον εἶναι μὴ ἀναστῆναι ἢ ἀναστῆναι; τοῦτο γὰρ εἰπέ· σὺ πᾶσι φῂς ἄμεινον εἶναι ζῆν καὶ οὐ πολλοῖς κρεῖττον τεθνάναι;
 
 ### Lach.195.d
 

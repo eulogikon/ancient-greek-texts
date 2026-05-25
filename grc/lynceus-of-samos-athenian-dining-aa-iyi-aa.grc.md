@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἀθηναίων Δείπνων
 author: Lynceus of Samos the Comic Poet
 eul_wid: iyi-aa
 eul_aid: iyi
-canonical: "https://eulogikon.org/grc/lynceus-of-samos/athenian-dining-aa"
+canonical: "https://eulogikon.org/works/lynceus-samos-athenian-dining-iyi-aa"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lynceus of Samos the Comic Poet
 
-**eul_wid:** `iyi-aa` · [HTML page](https://eulogikon.org/grc/lynceus-of-samos/athenian-dining-aa)
+**eul_wid:** `iyi-aa` · [HTML page](https://eulogikon.org/works/lynceus-samos-athenian-dining-iyi-aa)
 
 ## Text
 

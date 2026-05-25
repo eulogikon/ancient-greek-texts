@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Pyrrhus of Epirus
 eul_wid: ikw-aa
 eul_aid: ikw
-canonical: "https://eulogikon.org/grc/pyrrhus-of-epirus/royal-memoirs"
+canonical: "https://eulogikon.org/works/pyrrhus-epirus-royal-memoirs-ikw-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pyrrhus of Epirus
 
-**eul_wid:** `ikw-aa` · [HTML page](https://eulogikon.org/grc/pyrrhus-of-epirus/royal-memoirs)
+**eul_wid:** `ikw-aa` · [HTML page](https://eulogikon.org/works/pyrrhus-epirus-royal-memoirs-ikw-aa)
 
 ## Text
 

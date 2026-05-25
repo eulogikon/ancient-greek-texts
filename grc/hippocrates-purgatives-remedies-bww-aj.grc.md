@@ -4,7 +4,7 @@ title_greek: Περὶ Καθαρτικῶν
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-aj
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/purgatives-remedies"
+canonical: "https://eulogikon.org/works/hippocrates-purgatives-remedies-bww-aj"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-aj` · [HTML page](https://eulogikon.org/grc/hippocrates/purgatives-remedies)
+**eul_wid:** `bww-aj` · [HTML page](https://eulogikon.org/works/hippocrates-purgatives-remedies-bww-aj)
 
 ## Text
 

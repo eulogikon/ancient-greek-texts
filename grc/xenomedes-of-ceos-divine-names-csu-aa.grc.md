@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Θείων Ὀνομάτων
 author: Xenomedes of Ceos
 eul_wid: csu-aa
 eul_aid: csu
-canonical: "https://eulogikon.org/grc/xenomedes-of-ceos/divine-names"
+canonical: "https://eulogikon.org/works/xenomedes-ceos-divine-names-csu-aa"
 period: Classical
 dialect: Ionic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Xenomedes of Ceos
 
-**eul_wid:** `csu-aa` · [HTML page](https://eulogikon.org/grc/xenomedes-of-ceos/divine-names)
+**eul_wid:** `csu-aa` · [HTML page](https://eulogikon.org/works/xenomedes-ceos-divine-names-csu-aa)
 
 ## Text
 

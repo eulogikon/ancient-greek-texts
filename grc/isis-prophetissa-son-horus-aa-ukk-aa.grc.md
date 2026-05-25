@@ -4,7 +4,7 @@ title_greek: Ἴσις προφῆτις τῷ υἱῷ Ὥρῳ
 author: Isis Prophetissa
 eul_wid: ukk-aa
 eul_aid: ukk
-canonical: "https://eulogikon.org/grc/isis-prophetissa/son-horus-aa"
+canonical: "https://eulogikon.org/works/isis-prophetissa-son-horus-ukk-aa"
 period: Late Antique
 dialect: Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Isis Prophetissa
 
-**eul_wid:** `ukk-aa` · [HTML page](https://eulogikon.org/grc/isis-prophetissa/son-horus-aa)
+**eul_wid:** `ukk-aa` · [HTML page](https://eulogikon.org/works/isis-prophetissa-son-horus-ukk-aa)
 
 ## Text
 

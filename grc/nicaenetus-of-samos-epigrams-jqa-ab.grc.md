@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Nicaenetus of Samos
 eul_wid: jqa-ab
 eul_aid: jqa
-canonical: "https://eulogikon.org/grc/nicaenetus-of-samos/epigrams"
+canonical: "https://eulogikon.org/works/nicaenetus-samos-epigrams-jqa-ab"
 period: Hellenistic
 dialect: Koine
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nicaenetus of Samos
 
-**eul_wid:** `jqa-ab` · [HTML page](https://eulogikon.org/grc/nicaenetus-of-samos/epigrams)
+**eul_wid:** `jqa-ab` · [HTML page](https://eulogikon.org/works/nicaenetus-samos-epigrams-jqa-ab)
 
 ## Text
 

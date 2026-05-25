@@ -4,7 +4,7 @@ title_greek: Περὶ παθῶν
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-bi
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/affections"
+canonical: "https://eulogikon.org/works/hippocrates-affections-bww-bi"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-bi` · [HTML page](https://eulogikon.org/grc/hippocrates/affections)
+**eul_wid:** `bww-bi` · [HTML page](https://eulogikon.org/works/hippocrates-affections-bww-bi)
 
 ## Text
 

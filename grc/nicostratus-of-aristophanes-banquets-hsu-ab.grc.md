@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Συμποσίων
 author: Nicostratus Son of Aristophanes
 eul_wid: hsu-ab
 eul_aid: hsu
-canonical: "https://eulogikon.org/grc/nicostratus-of-aristophanes/banquets"
+canonical: "https://eulogikon.org/works/nicostratus-aristophanes-banquets-hsu-ab"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nicostratus Son of Aristophanes
 
-**eul_wid:** `hsu-ab` · [HTML page](https://eulogikon.org/grc/nicostratus-of-aristophanes/banquets)
+**eul_wid:** `hsu-ab` · [HTML page](https://eulogikon.org/works/nicostratus-aristophanes-banquets-hsu-ab)
 
 ## Text
 

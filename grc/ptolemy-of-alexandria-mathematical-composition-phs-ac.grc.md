@@ -4,7 +4,7 @@ title_greek: Μαθηματικὴ Σύνταξις
 author: Ptolemy of Alexandria
 eul_wid: phs-ac
 eul_aid: phs
-canonical: "https://eulogikon.org/grc/ptolemy-of-alexandria/mathematical-composition"
+canonical: "https://eulogikon.org/works/ptolemy-alexandria-mathematical-composition-phs-ac"
 period: Roman
 dialect: Technical Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ptolemy of Alexandria
 
-**eul_wid:** `phs-ac` · [HTML page](https://eulogikon.org/grc/ptolemy-of-alexandria/mathematical-composition)
+**eul_wid:** `phs-ac` · [HTML page](https://eulogikon.org/works/ptolemy-alexandria-mathematical-composition-phs-ac)
 
 ## Text
 

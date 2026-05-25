@@ -4,7 +4,7 @@ title_greek: Ὑπόμνημα εἰς τὸ Κατὰ Ματθαῖον Εὐα
 author: Origen of Alexandria
 eul_wid: uhs-ai
 eul_aid: uhs
-canonical: "https://eulogikon.org/grc/origen-of-alexandria/matthew-12-17"
+canonical: "https://eulogikon.org/works/origen-alexandria-matthew-12-17-uhs-ai"
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Origen of Alexandria
 
-**eul_wid:** `uhs-ai` · [HTML page](https://eulogikon.org/grc/origen-of-alexandria/matthew-12-17)
+**eul_wid:** `uhs-ai` · [HTML page](https://eulogikon.org/works/origen-alexandria-matthew-12-17-uhs-ai)
 
 ## Text
 

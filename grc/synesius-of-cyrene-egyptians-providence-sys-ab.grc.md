@@ -4,7 +4,7 @@ title_greek: Αἰγύπτιοι ἢ Περὶ Προνοίας
 author: Synesius of Cyrene
 eul_wid: sys-ab
 eul_aid: sys
-canonical: "https://eulogikon.org/grc/synesius-of-cyrene/egyptians-providence"
+canonical: "https://eulogikon.org/works/synesius-cyrene-egyptians-providence-sys-ab"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Synesius of Cyrene
 
-**eul_wid:** `sys-ab` · [HTML page](https://eulogikon.org/grc/synesius-of-cyrene/egyptians-providence)
+**eul_wid:** `sys-ab` · [HTML page](https://eulogikon.org/works/synesius-cyrene-egyptians-providence-sys-ab)
 
 ## Text
 

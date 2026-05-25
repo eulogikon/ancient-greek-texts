@@ -4,7 +4,7 @@ title_greek: Τετράβιβλος
 author: Ptolemy of Alexandria
 eul_wid: phs-ai
 eul_aid: phs
-canonical: "https://eulogikon.org/grc/ptolemy-of-alexandria/tetrabiblos"
+canonical: "https://eulogikon.org/works/ptolemy-alexandria-tetrabiblos-phs-ai"
 period: Roman
 dialect: Technical Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ptolemy of Alexandria
 
-**eul_wid:** `phs-ai` · [HTML page](https://eulogikon.org/grc/ptolemy-of-alexandria/tetrabiblos)
+**eul_wid:** `phs-ai` · [HTML page](https://eulogikon.org/works/ptolemy-alexandria-tetrabiblos-phs-ai)
 
 ## Text
 

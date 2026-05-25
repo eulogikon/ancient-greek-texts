@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Nicochares the Comic Poet
 eul_wid: fcs-ab
 eul_aid: fcs
-canonical: "https://eulogikon.org/grc/nicochares-the-comic-poet/sympotic-fragments-ab"
+canonical: "https://eulogikon.org/works/nicochares-sympotic-fragments-fcs-ab"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nicochares the Comic Poet
 
-**eul_wid:** `fcs-ab` · [HTML page](https://eulogikon.org/grc/nicochares-the-comic-poet/sympotic-fragments-ab)
+**eul_wid:** `fcs-ab` · [HTML page](https://eulogikon.org/works/nicochares-sympotic-fragments-fcs-ab)
 
 ## Text
 

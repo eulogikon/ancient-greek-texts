@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Parmenides of Elea
 eul_wid: bke-aa
 eul_aid: bke
-canonical: "https://eulogikon.org/grc/parmenides-of-elea/testimonies"
+canonical: "https://eulogikon.org/works/parmenides-elea-testimonies-bke-aa"
 period: Archaic
 dialect: Epic (Homeric) (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Parmenides of Elea
 
-**eul_wid:** `bke-aa` · [HTML page](https://eulogikon.org/grc/parmenides-of-elea/testimonies)
+**eul_wid:** `bke-aa` · [HTML page](https://eulogikon.org/works/parmenides-elea-testimonies-bke-aa)
 
 ## Text
 
@@ -244,7 +244,7 @@ AËT. IV 9, 14 (D. 398) Π., Ἐμπεδοκλῆς ἐλλείψει τροφ�
 
 ### 51
 
-CENSORIN. 4, 7. 8 Empedocles ... tale quiddam confirmat. primo membra singula ex terra quasi praegnate passim edita, deinde coisse et effecisse solidi hominis materiam igni simul et umori permixtam ... haec eadem opinio etiam in Parmenide Veliensi fuit pauculis exceptis ab Empedocle † dissensis.
+CENSORIN. 4, 7. 8 Empedocles ... tale quiddam confirmat. primo membra singula ex terra quasi praegnate passim edita, deinde coisse et effecisse solidi hominis materiam igni simul et umori permixtam ... haec eadem opinio etiam in Parmenide Veliensi fuit pauculis exceptis ab Empedocle dissensis.
 
 ### 52
 

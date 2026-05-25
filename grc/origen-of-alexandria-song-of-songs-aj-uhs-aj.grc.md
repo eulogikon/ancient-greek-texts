@@ -4,7 +4,7 @@ title_greek: Περὶ Ἄσματος Ἀσμάτων
 author: Origen of Alexandria
 eul_wid: uhs-aj
 eul_aid: uhs
-canonical: "https://eulogikon.org/grc/origen-of-alexandria/song-of-songs-aj"
+canonical: "https://eulogikon.org/works/origen-alexandria-song-of-songs-uhs-aj"
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Origen of Alexandria
 
-**eul_wid:** `uhs-aj` · [HTML page](https://eulogikon.org/grc/origen-of-alexandria/song-of-songs-aj)
+**eul_wid:** `uhs-aj` · [HTML page](https://eulogikon.org/works/origen-alexandria-song-of-songs-uhs-aj)
 
 ## Text
 

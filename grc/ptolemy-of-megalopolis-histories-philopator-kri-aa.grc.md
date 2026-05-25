@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Ptolemy of Megalopolis
 eul_wid: kri-aa
 eul_aid: kri
-canonical: "https://eulogikon.org/grc/ptolemy-of-megalopolis/histories-philopator"
+canonical: "https://eulogikon.org/works/ptolemy-megalopolis-histories-philopator-kri-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ptolemy of Megalopolis
 
-**eul_wid:** `kri-aa` · [HTML page](https://eulogikon.org/grc/ptolemy-of-megalopolis/histories-philopator)
+**eul_wid:** `kri-aa` · [HTML page](https://eulogikon.org/works/ptolemy-megalopolis-histories-philopator-kri-aa)
 
 ## Text
 

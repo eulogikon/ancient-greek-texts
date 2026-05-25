@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Hippothoon the Tragedian
 eul_wid: cxu-aa
 eul_aid: cxu
-canonical: "https://eulogikon.org/grc/hippothoon-the-tragedian/maxims-fortune"
+canonical: "https://eulogikon.org/works/hippothoon-maxims-fortune-cxu-aa"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippothoon the Tragedian
 
-**eul_wid:** `cxu-aa` · [HTML page](https://eulogikon.org/grc/hippothoon-the-tragedian/maxims-fortune)
+**eul_wid:** `cxu-aa` · [HTML page](https://eulogikon.org/works/hippothoon-maxims-fortune-cxu-aa)
 
 ## Text
 

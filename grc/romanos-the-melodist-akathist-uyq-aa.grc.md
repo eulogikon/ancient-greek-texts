@@ -4,7 +4,7 @@ title_greek: Ἀκάθιστος ὕμνος
 author: Romanos the Melodist
 eul_wid: uyq-aa
 eul_aid: uyq
-canonical: "https://eulogikon.org/grc/romanos-the-melodist/akathist"
+canonical: "https://eulogikon.org/works/romanos-melodist-akathist-uyq-aa"
 period: Late Antique
 dialect: Christian Koine
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Romanos the Melodist
 
-**eul_wid:** `uyq-aa` · [HTML page](https://eulogikon.org/grc/romanos-the-melodist/akathist)
+**eul_wid:** `uyq-aa` · [HTML page](https://eulogikon.org/works/romanos-melodist-akathist-uyq-aa)
 
 ## Text
 

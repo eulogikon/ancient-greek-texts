@@ -4,7 +4,7 @@ title_greek: Περὶ σκευασίας ὤχρας
 author: Zosimus of Panopolis
 eul_wid: tyc-bi
 eul_aid: tyc
-canonical: "https://eulogikon.org/grc/zosimus-of-panopolis/preparation-ochre"
+canonical: "https://eulogikon.org/works/zosimus-panopolis-preparation-ochre-tyc-bi"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Zosimus of Panopolis
 
-**eul_wid:** `tyc-bi` · [HTML page](https://eulogikon.org/grc/zosimus-of-panopolis/preparation-ochre)
+**eul_wid:** `tyc-bi` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-preparation-ochre-tyc-bi)
 
 ## Text
 

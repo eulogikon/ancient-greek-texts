@@ -4,7 +4,7 @@ title_greek: Σύνοψις τῶν ἀστρονομικῶν θέσεων
 author: Proclus the Successor
 eul_wid: uqy-af
 eul_aid: uqy
-canonical: "https://eulogikon.org/grc/proclus-the-successor/astronomical-positions"
+canonical: "https://eulogikon.org/works/proclus-astronomical-positions-uqy-af"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Proclus the Successor
 
-**eul_wid:** `uqy-af` · [HTML page](https://eulogikon.org/grc/proclus-the-successor/astronomical-positions)
+**eul_wid:** `uqy-af` · [HTML page](https://eulogikon.org/works/proclus-astronomical-positions-uqy-af)
 
 ## Text
 

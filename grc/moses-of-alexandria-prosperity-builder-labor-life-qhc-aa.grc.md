@@ -4,7 +4,7 @@ title_greek: Εὐποία καὶ εὐτυχία τοῦ κτισαμένου 
 author: "Moses of Alexandria "
 eul_wid: qhc-aa
 eul_aid: qhc
-canonical: "https://eulogikon.org/grc/moses-of-alexandria/prosperity-builder-labor-life"
+canonical: "https://eulogikon.org/works/moses-alexandria-prosperity-builder-labor-life-qhc-aa"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Moses of Alexandria 
 
-**eul_wid:** `qhc-aa` · [HTML page](https://eulogikon.org/grc/moses-of-alexandria/prosperity-builder-labor-life)
+**eul_wid:** `qhc-aa` · [HTML page](https://eulogikon.org/works/moses-alexandria-prosperity-builder-labor-life-qhc-aa)
 
 ## Text
 

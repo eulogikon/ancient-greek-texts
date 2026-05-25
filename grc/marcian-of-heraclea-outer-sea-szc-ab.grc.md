@@ -4,7 +4,7 @@ title_greek: Περίπλους τοῦ Ἐξωτερικοῦ Πελάγους
 author: Marcian of Heraclea
 eul_wid: szc-ab
 eul_aid: szc
-canonical: "https://eulogikon.org/grc/marcian-of-heraclea/outer-sea"
+canonical: "https://eulogikon.org/works/marcian-heraclea-outer-sea-szc-ab"
 period: Late Antique
 dialect: Technical Koine
 domain: Geography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Marcian of Heraclea
 
-**eul_wid:** `szc-ab` · [HTML page](https://eulogikon.org/grc/marcian-of-heraclea/outer-sea)
+**eul_wid:** `szc-ab` · [HTML page](https://eulogikon.org/works/marcian-heraclea-outer-sea-szc-ab)
 
 ## Text
 

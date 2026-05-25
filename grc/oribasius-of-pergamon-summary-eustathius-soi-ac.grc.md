@@ -4,7 +4,7 @@ title_greek: Σύνοψις πρὸς Εὐστάθιον τὸν Υἱόν
 author: Oribasius of Pergamon
 eul_wid: soi-ac
 eul_aid: soi
-canonical: "https://eulogikon.org/grc/oribasius-of-pergamon/summary-eustathius"
+canonical: "https://eulogikon.org/works/oribasius-pergamon-summary-eustathius-soi-ac"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Oribasius of Pergamon
 
-**eul_wid:** `soi-ac` · [HTML page](https://eulogikon.org/grc/oribasius-of-pergamon/summary-eustathius)
+**eul_wid:** `soi-ac` · [HTML page](https://eulogikon.org/works/oribasius-pergamon-summary-eustathius-soi-ac)
 
 ## Text
 
@@ -3524,7 +3524,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 3 209 3
 
-καὶ κροκύδι δ’ † ἀνάλατος παρεντίθεται· φῦσαι γὰρ ὑπεξίασιν ἱκαναὶ πάνυ καὶ κουφίζουσαι. Ῥούφου ἱερά.
+καὶ κροκύδι δ’ ἀνάλατος παρεντίθεται· φῦσαι γὰρ ὑπεξίασιν ἱκαναὶ πάνυ καὶ κουφίζουσαι. Ῥούφου ἱερά.
 
 ### 3 210 1
 

@@ -4,7 +4,7 @@ title_greek: Λείψανα Ποιήσεως
 author: Parthenius of Nicaea the Elegist
 eul_wid: oec-ab
 eul_aid: oec
-canonical: "https://eulogikon.org/grc/parthenius-of-nicaea/remains-poetry"
+canonical: "https://eulogikon.org/works/parthenius-nicaea-remains-poetry-oec-ab"
 period: Roman
 dialect: Literary Koine
 domain: Fiction
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Parthenius of Nicaea the Elegist
 
-**eul_wid:** `oec-ab` · [HTML page](https://eulogikon.org/grc/parthenius-of-nicaea/remains-poetry)
+**eul_wid:** `oec-ab` · [HTML page](https://eulogikon.org/works/parthenius-nicaea-remains-poetry-oec-ab)
 
 ## Text
 

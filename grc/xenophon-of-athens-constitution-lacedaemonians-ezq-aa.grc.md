@@ -4,7 +4,7 @@ title_greek: Λακεδαιμονίων Πολιτεία
 author: Xenophon of Athens
 eul_wid: ezq-aa
 eul_aid: ezq
-canonical: "https://eulogikon.org/grc/xenophon-of-athens/constitution-lacedaemonians"
+canonical: "https://eulogikon.org/works/xenophon-athens-constitution-lacedaemonians-ezq-aa"
 period: Classical
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Xenophon of Athens
 
-**eul_wid:** `ezq-aa` · [HTML page](https://eulogikon.org/grc/xenophon-of-athens/constitution-lacedaemonians)
+**eul_wid:** `ezq-aa` · [HTML page](https://eulogikon.org/works/xenophon-athens-constitution-lacedaemonians-ezq-aa)
 
 ## Text
 

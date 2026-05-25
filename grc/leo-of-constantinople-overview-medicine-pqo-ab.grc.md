@@ -4,7 +4,7 @@ title_greek: Σύνοψις Ἰατρικῆς
 author: "Leo of Constantinople "
 eul_wid: pqo-ab
 eul_aid: pqo
-canonical: "https://eulogikon.org/grc/leo-of-constantinople/overview-medicine"
+canonical: "https://eulogikon.org/works/leo-constantinople-overview-medicine-pqo-ab"
 period: Roman
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Leo of Constantinople 
 
-**eul_wid:** `pqo-ab` · [HTML page](https://eulogikon.org/grc/leo-of-constantinople/overview-medicine)
+**eul_wid:** `pqo-ab` · [HTML page](https://eulogikon.org/works/leo-constantinople-overview-medicine-pqo-ab)
 
 ## Text
 

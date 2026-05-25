@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Μυθικῶν Προσώπων
 author: Peisander of Laranda
 eul_wid: rki-aa
 eul_aid: rki
-canonical: "https://eulogikon.org/grc/peisander-of-laranda/mythological-figures"
+canonical: "https://eulogikon.org/works/peisander-laranda-mythological-figures-rki-aa"
 period: Roman
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Peisander of Laranda
 
-**eul_wid:** `rki-aa` · [HTML page](https://eulogikon.org/grc/peisander-of-laranda/mythological-figures)
+**eul_wid:** `rki-aa` · [HTML page](https://eulogikon.org/works/peisander-laranda-mythological-figures-rki-aa)
 
 ## Text
 

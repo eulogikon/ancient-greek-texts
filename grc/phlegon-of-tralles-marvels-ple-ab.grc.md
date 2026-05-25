@@ -4,7 +4,7 @@ title_greek: Περὶ θαυμάτων
 author: Phlegon of Tralles
 eul_wid: ple-ab
 eul_aid: ple
-canonical: "https://eulogikon.org/grc/phlegon-of-tralles/marvels"
+canonical: "https://eulogikon.org/works/phlegon-tralles-marvels-ple-ab"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Phlegon of Tralles
 
-**eul_wid:** `ple-ab` · [HTML page](https://eulogikon.org/grc/phlegon-of-tralles/marvels)
+**eul_wid:** `ple-ab` · [HTML page](https://eulogikon.org/works/phlegon-tralles-marvels-ple-ab)
 
 ## Text
 

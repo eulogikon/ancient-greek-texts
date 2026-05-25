@@ -4,7 +4,7 @@ title_greek: Πύρρος
 author: Plutarch of Chaeronea
 eul_wid: okg-fb
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/pyrrhus"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-pyrrhus-okg-fb"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-fb` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/pyrrhus)
+**eul_wid:** `okg-fb` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-pyrrhus-okg-fb)
 
 ## Text
 
@@ -80,7 +80,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### Pyrrh 3 2
 
-ὁ δ’ † ἦν ἐπὶ γνώμης, Κάσσανδρον δεδοικὼς ἐχθρὸν ὄντα τοῦ Αἰακίδου, καὶ σιωπὴν εἶχε πολὺν χρόνον βουλευόμενος.
+ὁ δ’ ἦν ἐπὶ γνώμης, Κάσσανδρον δεδοικὼς ἐχθρὸν ὄντα τοῦ Αἰακίδου, καὶ σιωπὴν εἶχε πολὺν χρόνον βουλευόμενος.
 
 ### Pyrrh 3 3
 

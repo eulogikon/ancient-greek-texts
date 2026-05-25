@@ -4,7 +4,7 @@ title_greek: Ὕμνος εἰς Ἥραν
 author: Hymnic Collection  Anonymous
 eul_wid: upu-bc
 eul_aid: upu
-canonical: "https://eulogikon.org/grc/homeric-hymns-anonymous/hymn-12-hera"
+canonical: "https://eulogikon.org/works/hymnic-anon-hymn-12-hera-upu-bc"
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hymnic Collection  Anonymous
 
-**eul_wid:** `upu-bc` · [HTML page](https://eulogikon.org/grc/homeric-hymns-anonymous/hymn-12-hera)
+**eul_wid:** `upu-bc` · [HTML page](https://eulogikon.org/works/hymnic-anon-hymn-12-hera-upu-bc)
 
 ## Text
 

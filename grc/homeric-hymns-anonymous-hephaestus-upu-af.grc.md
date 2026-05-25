@@ -4,7 +4,7 @@ title_greek: Ὕμνος εἰς Ἥφαιστον
 author: Hymnic Collection  Anonymous
 eul_wid: upu-af
 eul_aid: upu
-canonical: "https://eulogikon.org/grc/homeric-hymns-anonymous/hephaestus"
+canonical: "https://eulogikon.org/works/hymnic-anon-hephaestus-upu-af"
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hymnic Collection  Anonymous
 
-**eul_wid:** `upu-af` · [HTML page](https://eulogikon.org/grc/homeric-hymns-anonymous/hephaestus)
+**eul_wid:** `upu-af` · [HTML page](https://eulogikon.org/works/hymnic-anon-hephaestus-upu-af)
 
 ## Text
 

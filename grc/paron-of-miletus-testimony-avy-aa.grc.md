@@ -4,7 +4,7 @@ title_greek: Μαρτυρία
 author: Paron of Miletus
 eul_wid: avy-aa
 eul_aid: avy
-canonical: "https://eulogikon.org/grc/paron-of-miletus/testimony"
+canonical: "https://eulogikon.org/works/paron-miletus-testimony-avy-aa"
 period: Archaic
 dialect: Ionic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Paron of Miletus
 
-**eul_wid:** `avy-aa` · [HTML page](https://eulogikon.org/grc/paron-of-miletus/testimony)
+**eul_wid:** `avy-aa` · [HTML page](https://eulogikon.org/works/paron-miletus-testimony-avy-aa)
 
 ## Text
 

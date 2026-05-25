@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Δίωνος
 author: Timonides of Leucas
 eul_wid: ghm-aa
 eul_aid: ghm
-canonical: "https://eulogikon.org/grc/timonides-of-leucas/historical-fragments-dion"
+canonical: "https://eulogikon.org/works/timonides-leucas-historical-fragments-dion-ghm-aa"
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Timonides of Leucas
 
-**eul_wid:** `ghm-aa` · [HTML page](https://eulogikon.org/grc/timonides-of-leucas/historical-fragments-dion)
+**eul_wid:** `ghm-aa` · [HTML page](https://eulogikon.org/works/timonides-leucas-historical-fragments-dion-ghm-aa)
 
 ## Text
 

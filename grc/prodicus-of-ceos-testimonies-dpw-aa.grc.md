@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Prodicus of Ceos
 eul_wid: dpw-aa
 eul_aid: dpw
-canonical: "https://eulogikon.org/grc/prodicus-of-ceos/testimonies"
+canonical: "https://eulogikon.org/works/prodicus-ceos-testimonies-dpw-aa"
 period: Classical
 dialect: "Attic (phi, frg)"
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Prodicus of Ceos
 
-**eul_wid:** `dpw-aa` · [HTML page](https://eulogikon.org/grc/prodicus-of-ceos/testimonies)
+**eul_wid:** `dpw-aa` · [HTML page](https://eulogikon.org/works/prodicus-ceos-testimonies-dpw-aa)
 
 ## Text
 

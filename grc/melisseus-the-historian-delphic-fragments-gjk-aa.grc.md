@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Melisseus the Historian
 eul_wid: gjk-aa
 eul_aid: gjk
-canonical: "https://eulogikon.org/grc/melisseus-the-historian/delphic-fragments"
+canonical: "https://eulogikon.org/works/melisseus-delphic-fragments-gjk-aa"
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Melisseus the Historian
 
-**eul_wid:** `gjk-aa` · [HTML page](https://eulogikon.org/grc/melisseus-the-historian/delphic-fragments)
+**eul_wid:** `gjk-aa` · [HTML page](https://eulogikon.org/works/melisseus-delphic-fragments-gjk-aa)
 
 ## Text
 

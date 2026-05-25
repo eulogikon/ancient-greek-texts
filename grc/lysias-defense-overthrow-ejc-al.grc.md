@@ -4,7 +4,7 @@ title_greek: δήμου καταλύσεως ἀπολογία
 author: Lysias the Orator
 eul_wid: ejc-al
 eul_aid: ejc
-canonical: "https://eulogikon.org/grc/lysias/defense-overthrow"
+canonical: "https://eulogikon.org/works/lysias-defense-overthrow-ejc-al"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lysias the Orator
 
-**eul_wid:** `ejc-al` · [HTML page](https://eulogikon.org/grc/lysias/defense-overthrow)
+**eul_wid:** `ejc-al` · [HTML page](https://eulogikon.org/works/lysias-defense-overthrow-ejc-al)
 
 ## Text
 

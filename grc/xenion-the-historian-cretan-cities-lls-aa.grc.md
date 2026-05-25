@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Κρητικῶν Πόλεων
 author: Xenion the Historian
 eul_wid: lls-aa
 eul_aid: lls
-canonical: "https://eulogikon.org/grc/xenion-the-historian/cretan-cities"
+canonical: "https://eulogikon.org/works/xenion-cretan-cities-lls-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Xenion the Historian
 
-**eul_wid:** `lls-aa` · [HTML page](https://eulogikon.org/grc/xenion-the-historian/cretan-cities)
+**eul_wid:** `lls-aa` · [HTML page](https://eulogikon.org/works/xenion-cretan-cities-lls-aa)
 
 ## Text
 

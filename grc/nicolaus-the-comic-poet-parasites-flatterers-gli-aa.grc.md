@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Nicolaus the Comic Poet
 eul_wid: gli-aa
 eul_aid: gli
-canonical: "https://eulogikon.org/grc/nicolaus-the-comic-poet/parasites-flatterers"
+canonical: "https://eulogikon.org/works/nicolaus-comic-parasites-flatterers-gli-aa"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nicolaus the Comic Poet
 
-**eul_wid:** `gli-aa` · [HTML page](https://eulogikon.org/grc/nicolaus-the-comic-poet/parasites-flatterers)
+**eul_wid:** `gli-aa` · [HTML page](https://eulogikon.org/works/nicolaus-comic-parasites-flatterers-gli-aa)
 
 ## Text
 

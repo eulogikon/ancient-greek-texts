@@ -4,7 +4,7 @@ title_greek: Σχόλια εἰς Εὐκλείδου Ὀπτικά
 author: Thucydides Scholia
 eul_wid: tii-ae
 eul_aid: tii
-canonical: "https://eulogikon.org/grc/thucydides-scholia/optics-ae"
+canonical: "https://eulogikon.org/works/thuc-scholia-optics-tii-ae"
 period: Late Antique
 dialect: Byzantine Technical
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Thucydides Scholia
 
-**eul_wid:** `tii-ae` · [HTML page](https://eulogikon.org/grc/thucydides-scholia/optics-ae)
+**eul_wid:** `tii-ae` · [HTML page](https://eulogikon.org/works/thuc-scholia-optics-tii-ae)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἐπιστολή
 author: Zeno Letters
 eul_wid: jfg-aa
 eul_aid: jfg
-canonical: "https://eulogikon.org/grc/zeno-letters/king-antigonus"
+canonical: "https://eulogikon.org/works/zeno-letters-king-antigonus-jfg-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Zeno Letters
 
-**eul_wid:** `jfg-aa` · [HTML page](https://eulogikon.org/grc/zeno-letters/king-antigonus)
+**eul_wid:** `jfg-aa` · [HTML page](https://eulogikon.org/works/zeno-letters-king-antigonus-jfg-aa)
 
 ## Text
 

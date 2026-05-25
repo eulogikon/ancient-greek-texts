@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Theodoridas of Syracuse
 eul_wid: kmi-ab
 eul_aid: kmi
-canonical: "https://eulogikon.org/grc/theodoridas-of-syracuse/epigrams"
+canonical: "https://eulogikon.org/works/theodoridas-syracuse-epigrams-kmi-ab"
 period: Hellenistic
 dialect: Koine
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theodoridas of Syracuse
 
-**eul_wid:** `kmi-ab` · [HTML page](https://eulogikon.org/grc/theodoridas-of-syracuse/epigrams)
+**eul_wid:** `kmi-ab` · [HTML page](https://eulogikon.org/works/theodoridas-syracuse-epigrams-kmi-ab)
 
 ## Text
 

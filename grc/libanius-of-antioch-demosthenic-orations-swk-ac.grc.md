@@ -4,7 +4,7 @@ title_greek: Προοίμια Δημοσθένους Λόγων
 author: Libanius of Antioch
 eul_wid: swk-ac
 eul_aid: swk
-canonical: "https://eulogikon.org/grc/libanius-of-antioch/demosthenic-orations"
+canonical: "https://eulogikon.org/works/libanius-antioch-demosthenic-orations-swk-ac"
 period: Late Antique
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Libanius of Antioch
 
-**eul_wid:** `swk-ac` · [HTML page](https://eulogikon.org/grc/libanius-of-antioch/demosthenic-orations)
+**eul_wid:** `swk-ac` · [HTML page](https://eulogikon.org/works/libanius-antioch-demosthenic-orations-swk-ac)
 
 ## Text
 

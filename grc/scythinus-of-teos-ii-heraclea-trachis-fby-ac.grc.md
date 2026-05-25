@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Scythinus of Teos II
 eul_wid: fby-ac
 eul_aid: fby
-canonical: "https://eulogikon.org/grc/scythinus-of-teos-ii/heraclea-trachis"
+canonical: "https://eulogikon.org/works/scythinus-teos-heraclea-trachis-fby-ac"
 period: Classical
 dialect: Ionic Iambic
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Scythinus of Teos II
 
-**eul_wid:** `fby-ac` · [HTML page](https://eulogikon.org/grc/scythinus-of-teos-ii/heraclea-trachis)
+**eul_wid:** `fby-ac` · [HTML page](https://eulogikon.org/works/scythinus-teos-heraclea-trachis-fby-ac)
 
 ## Text
 

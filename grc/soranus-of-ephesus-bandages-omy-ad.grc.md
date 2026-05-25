@@ -4,7 +4,7 @@ title_greek: Περὶ Ἐπιδέσμων
 author: Soranus of Ephesus
 eul_wid: omy-ad
 eul_aid: omy
-canonical: "https://eulogikon.org/grc/soranus-of-ephesus/bandages"
+canonical: "https://eulogikon.org/works/soranus-ephesus-bandages-omy-ad"
 period: Roman
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Soranus of Ephesus
 
-**eul_wid:** `omy-ad` · [HTML page](https://eulogikon.org/grc/soranus-of-ephesus/bandages)
+**eul_wid:** `omy-ad` · [HTML page](https://eulogikon.org/works/soranus-ephesus-bandages-omy-ad)
 
 ## Text
 

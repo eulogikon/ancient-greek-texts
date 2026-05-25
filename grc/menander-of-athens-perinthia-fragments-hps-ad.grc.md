@@ -4,7 +4,7 @@ title_greek: Περίνθια Ἀποσπάσματα
 author: Menander of Athens
 eul_wid: hps-ad
 eul_aid: hps
-canonical: "https://eulogikon.org/grc/menander-of-athens/perinthia-fragments"
+canonical: "https://eulogikon.org/works/menander-athens-perinthia-fragments-hps-ad"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander of Athens
 
-**eul_wid:** `hps-ad` · [HTML page](https://eulogikon.org/grc/menander-of-athens/perinthia-fragments)
+**eul_wid:** `hps-ad` · [HTML page](https://eulogikon.org/works/menander-athens-perinthia-fragments-hps-ad)
 
 ## Text
 

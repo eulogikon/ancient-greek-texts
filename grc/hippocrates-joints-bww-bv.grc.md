@@ -4,7 +4,7 @@ title_greek: Περὶ ἄρθρων
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-bv
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/joints"
+canonical: "https://eulogikon.org/works/hippocrates-joints-bww-bv"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-bv` · [HTML page](https://eulogikon.org/grc/hippocrates/joints)
+**eul_wid:** `bww-bv` · [HTML page](https://eulogikon.org/works/hippocrates-joints-bww-bv)
 
 ## Text
 

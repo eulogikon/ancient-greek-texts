@@ -4,7 +4,7 @@ title_greek: Ἐπιστολαί. Διαλέξεις.
 author: Philostratus the Athenian
 eul_wid: rfi-ac
 eul_aid: rfi
-canonical: "https://eulogikon.org/grc/philostratus-the-athenian/letters-lectures"
+canonical: "https://eulogikon.org/works/philostratus-athens-letters-lectures-rfi-ac"
 period: Roman
 dialect: Atticizing Literary
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philostratus the Athenian
 
-**eul_wid:** `rfi-ac` · [HTML page](https://eulogikon.org/grc/philostratus-the-athenian/letters-lectures)
+**eul_wid:** `rfi-ac` · [HTML page](https://eulogikon.org/works/philostratus-athens-letters-lectures-rfi-ac)
 
 ## Text
 

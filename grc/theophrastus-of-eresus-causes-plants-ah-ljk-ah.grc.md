@@ -4,7 +4,7 @@ title_greek: Περὶ φυτῶν αἰτιῶν
 author: Theophrastus of Eresus
 eul_wid: ljk-ah
 eul_aid: ljk
-canonical: "https://eulogikon.org/grc/theophrastus-of-eresus/causes-plants-ah"
+canonical: "https://eulogikon.org/works/theophrastus-eresus-causes-plants-ljk-ah"
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theophrastus of Eresus
 
-**eul_wid:** `ljk-ah` · [HTML page](https://eulogikon.org/grc/theophrastus-of-eresus/causes-plants-ah)
+**eul_wid:** `ljk-ah` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-causes-plants-ljk-ah)
 
 ## Text
 

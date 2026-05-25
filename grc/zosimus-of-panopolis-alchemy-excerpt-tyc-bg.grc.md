@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα περὶ τῶν μερῶν τῆς ἀλχη
 author: Zosimus of Panopolis
 eul_wid: tyc-bg
 eul_aid: tyc
-canonical: "https://eulogikon.org/grc/zosimus-of-panopolis/alchemy-excerpt"
+canonical: "https://eulogikon.org/works/zosimus-panopolis-alchemy-excerpt-tyc-bg"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Zosimus of Panopolis
 
-**eul_wid:** `tyc-bg` · [HTML page](https://eulogikon.org/grc/zosimus-of-panopolis/alchemy-excerpt)
+**eul_wid:** `tyc-bg` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-alchemy-excerpt-tyc-bg)
 
 ## Text
 

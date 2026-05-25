@@ -4,7 +4,7 @@ title_greek: Ὕμνος εἰς Ἀπόλλωνα
 author: Hymnic Collection  Anonymous
 eul_wid: upu-az
 eul_aid: upu
-canonical: "https://eulogikon.org/grc/homeric-hymns-anonymous/apollo-az"
+canonical: "https://eulogikon.org/works/hymnic-anon-apollo-upu-az"
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hymnic Collection  Anonymous
 
-**eul_wid:** `upu-az` · [HTML page](https://eulogikon.org/grc/homeric-hymns-anonymous/apollo-az)
+**eul_wid:** `upu-az` · [HTML page](https://eulogikon.org/works/hymnic-anon-apollo-upu-az)
 
 ## Text
 

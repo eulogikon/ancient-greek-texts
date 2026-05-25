@@ -4,7 +4,7 @@ title_greek: Εἰς τὸν αὐτοκράτορα Κωνστάντιον
 author: Themistius the Philosopher
 eul_wid: rye-bh
 eul_aid: rye
-canonical: "https://eulogikon.org/grc/themistius/constantius"
+canonical: "https://eulogikon.org/works/themistius-constantius-rye-bh"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Themistius the Philosopher
 
-**eul_wid:** `rye-bh` · [HTML page](https://eulogikon.org/grc/themistius/constantius)
+**eul_wid:** `rye-bh` · [HTML page](https://eulogikon.org/works/themistius-constantius-rye-bh)
 
 ## Text
 

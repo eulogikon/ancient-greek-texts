@@ -4,7 +4,7 @@ title_greek: Μισούμενος
 author: Menander of Athens
 eul_wid: hps-bh
 eul_aid: hps
-canonical: "https://eulogikon.org/grc/menander-of-athens/misumenus"
+canonical: "https://eulogikon.org/works/menander-athens-misumenus-hps-bh"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander of Athens
 
-**eul_wid:** `hps-bh` · [HTML page](https://eulogikon.org/grc/menander-of-athens/misumenus)
+**eul_wid:** `hps-bh` · [HTML page](https://eulogikon.org/works/menander-athens-misumenus-hps-bh)
 
 ## Text
 
@@ -52,7 +52,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### a7
 
-[ ]ν̣ω· περιπατῶ τ’ ἄνω κάτω
+[ ]νω· περιπατῶ τ’ ἄνω κάτω
 
 ### a8
 
@@ -72,7 +72,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### a12
 
-ἐρῶν τις, οὐ ποιῶ δ’· ὑπαιθρί[ωι] δ̣έ μοι
+ἐρῶν τις, οὐ ποιῶ δ’· ὑπαιθρί[ωι] δέ μοι
 
 ### a13
 
@@ -84,7 +84,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### a15
 
-[ ]ενον· οὐκ ἀ̣γ̣ν̣[οῶ] μὰ τοὺς θεούς
+[ ]ενον· οὐκ ἀγν[οῶ] μὰ τοὺς θεούς
 
 ### a16
 
@@ -112,7 +112,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 15.2
 
-]α̣..ηχ̣έν γε μοι
+]α..ηχέν γε μοι
 
 ### 15.3
 
@@ -120,7 +120,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 15.4
 
-δε]ῦ̣ρ’ ἄγω
+δε]ῦρ’ ἄγω
 
 ### 15.5
 
@@ -180,7 +180,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 32
 
-ἐγώ; παρὰ̣ [Κύπρου.
+ἐγώ; παρὰ [Κύπρου.
 
 ### 32.1
 
@@ -188,7 +188,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 32.2
 
-ἥκεις σ̣υ[ ;]
+ἥκεις συ[ ;]
 
 ### 33.1
 
@@ -200,7 +200,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 35
 
-ζητοῦσι μ̣[]..νύεται. αὕτη δὲ π[]φήις;
+ζητοῦσι μ[]..νύεται. αὕτη δὲ π[]φήις;
 
 ### 36.1
 
@@ -264,7 +264,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 45.1
 
-ὦ Ζεῦ τ̣ρ̣ο̣π̣[αῖε
+ὦ Ζεῦ τροπ[αῖε
 
 ### 45.2
 
@@ -280,7 +280,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 65.2
 
-τρο̣.[..] δύ’ ἑκατέρωθε[
+τρο.[..] δύ’ ἑκατέρωθε[
 
 ### 66.1
 
@@ -288,7 +288,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 66.2
 
-καὶ τοῦτο φοβερὸν ἐκπ̣[
+καὶ τοῦτο φοβερὸν ἐκπ[
 
 ### 67.1
 
@@ -304,7 +304,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 70
 
-εἴσω λαβόν̣τ̣α̣· τουτονὶ δ.[
+εἴσω λαβόντα· τουτονὶ δ.[
 
 ### 70.1
 
@@ -316,7 +316,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 70.3
 
-ὅπου ’στι μηδὲ τόνδ’ ἐα̣[
+ὅπου ’στι μηδὲ τόνδ’ ἐα[
 
 ### 70.4
 
@@ -348,7 +348,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 75.4
 
-αὐτὴν γυναῖκα̣ π̣[..]δ̣ρ̣[
+αὐτὴν γυναῖκα π[..]δρ[
 
 ### 78
 
@@ -376,7 +376,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 135.2
 
-[..]τ̣ης̣; 〈:〉 ἄ[μει]ν̣ο̣ν̣ οἶδε τά γ’ ἑαυτῆ[ς τιν]ος
+[..]της; 〈:〉 ἄ[μει]νον οἶδε τά γ’ ἑαυτῆ[ς τιν]ος
 
 ### 135.3
 
@@ -384,7 +384,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 135.4
 
-[] τ̣ὸ καθήμενον.
+[] τὸ καθήμενον.
 
 ### 135.5
 
@@ -424,7 +424,7 @@ tum uersus xviii laceri inter quos haec uerba restant:
 
 ### 155.1
 
-ὃ] καὶ θεοὶ θέλ[οιεν.]. ΡΥ ἀπίω[μεν] θ̣ύ̣ρ̣α̣ς̣
+ὃ] καὶ θεοὶ θέλ[οιεν.]. ΡΥ ἀπίω[μεν] θύρας
 
 ### 155.2
 
@@ -440,11 +440,11 @@ tum uersus xviii laceri inter quos haec uerba restant:
 
 ### 160.3
 
-τὰ γύναι’ ἵν’ ἔξωθεν θεωρε̣[ῖν
+τὰ γύναι’ ἵν’ ἔξωθεν θεωρε[ῖν
 
 ### 160.4
 
-ἆρ’ οὗτός ἐστι † δοῦλος καὶ λυω[
+ἆρ’ οὗτός ἐστι δοῦλος καὶ λυω[
 
 ### 160.5
 
@@ -456,11 +456,11 @@ tum uersus xviii laceri inter quos haec uerba restant:
 
 ### 165.2
 
-ἐπὶ πᾶσιν [ὄν]τ̣ως, τοῦτο δὴ τὸ τοῦ λόγου,
+ἐπὶ πᾶσιν [ὄν]τως, τοῦτο δὴ τὸ τοῦ λόγου,
 
 ### 165.3
 
-πίνων δικαίοις ἦισεν ἀνθρώπω̣ν̣ [
+πίνων δικαίοις ἦισεν ἀνθρώπων [
 
 ### 165.4
 
@@ -528,15 +528,15 @@ tum uersus xviii laceri inter quos haec uerba restant:
 
 ### 183
 
-[Δη] δεῖξο̣[ν].
+[Δη] δεῖξο[ν].
 
 ### 183
 
-Γρ αυτ.σθ̣ησ̣[
+Γρ αυτ.σθησ[
 
 ### 185
 
-[ ].μ̣ι..ις.
+[ ].μι..ις.
 
 ### 185.1
 
@@ -564,7 +564,7 @@ tum uersus xviii laceri inter quos haec uerba restant:
 
 ### 190.1
 
-[ λά]β’· ἀ̣π̣ο̣τρέχω. δέδειχά σοι
+[ λά]β’· ἀποτρέχω. δέδειχά σοι
 
 ### 190.2
 
@@ -580,11 +580,11 @@ tum uersus xviii laceri inter quos haec uerba restant:
 
 ### 190.5
 
-(?Γρ) [ κ]όψει τὴν θύραν· κόψας δ̣’ ἔτι
+(?Γρ) [ κ]όψει τὴν θύραν· κόψας δ’ ἔτι
 
 ### 194b
 
-[ ]σα.ην ἔγωγέ φη̣[μι....]θ’. ως
+[ ]σα.ην ἔγωγέ φη[μι....]θ’. ως
 
 ### 195
 
@@ -600,7 +600,7 @@ tum uersus xviii laceri inter quos haec uerba restant:
 
 ### 205.2
 
-π]ρ̣ὸς [....]τ̣ω· παῖ, παῖδες. ἐπανάξω· ψοφεῖ
+π]ρὸς [....]τω· παῖ, παῖδες. ἐπανάξω· ψοφεῖ
 
 ### 205.3
 
@@ -684,7 +684,7 @@ tum uersus xviii laceri inter quos haec uerba restant:
 
 ### 220.3
 
-Κρ οὑμὸς πατήρ, Γέτ̣α̣, π̣[
+Κρ οὑμὸς πατήρ, Γέτα, π[
 
 ### 220.4
 
@@ -720,7 +720,7 @@ tum uersus xviii laceri inter quos haec uerba restant:
 
 ### 227.3
 
-κ̣α̣λεῖς. πόθεν, βέλτιστε, [
+καλεῖς. πόθεν, βέλτιστε, [
 
 ### 230
 
@@ -776,11 +776,11 @@ tum uersus xviii laceri inter quos haec uerba restant:
 
 ### 245.1
 
-[ ]η̣μεν: οτετηλ̣[
+[ ]ημεν: οτετηλ[
 
 ### 245.2
 
-εἰ] δ̣’ οὐκ[έτ’ ἐ]στι τίς λέγει σοι τὸν λόγον;
+εἰ] δ’ οὐκ[έτ’ ἐ]στι τίς λέγει σοι τὸν λόγον;
 
 ### 245.3
 
@@ -788,7 +788,7 @@ tum uersus xviii laceri inter quos haec uerba restant:
 
 ### 247.1
 
-(Κρ) οἴμοι τάλ̣αινα τῆς ἐμῆς
+(Κρ) οἴμοι τάλαινα τῆς ἐμῆς
 
 ### 247.2
 
@@ -800,15 +800,15 @@ tum uersus xviii laceri inter quos haec uerba restant:
 
 ### 249.1
 
-Δη ὑφ’ οὗ γ’ ἥκιστ’ ἐχρῆν. [Κρ] οἶσθας σὺ τοῦτον; [Δη] οἶδα· καὶ συν.[ [?Κρ] ἁλοῦς’ ἅμιλ̣λ̣α̣ [τ’] οὖσα τοῦ [
+Δη ὑφ’ οὗ γ’ ἥκιστ’ ἐχρῆν. [Κρ] οἶσθας σὺ τοῦτον; [Δη] οἶδα· καὶ συν.[ [?Κρ] ἁλοῦς’ ἅμιλλα [τ’] οὖσα τοῦ [
 
 ### 249.2
 
-[Δη] διὰ τί, Κράτεια, φ[.]ρ̣[
+[Δη] διὰ τί, Κράτεια, φ[.]ρ[
 
 ### 249.3
 
-[?Κρ] ὁ τοῦτο πράξας ἑ̣[
+[?Κρ] ὁ τοῦτο πράξας ἑ[
 
 ### 249.4
 
@@ -872,7 +872,7 @@ tum uersus xviii laceri inter quos haec uerba restant:
 
 ### 265.4
 
-δέδοικα. βέλτιον δ’ ἁπαξά̣π̣[αντα τ]ῆς
+δέδοικα. βέλτιον δ’ ἁπαξάπ[αντα τ]ῆς
 
 ### 265.5
 
@@ -936,7 +936,7 @@ tum uersus xviii laceri inter quos haec uerba restant:
 
 ### 280.3
 
-εὔδηλος̣ ε̣ἶ. ψοφεῖν [δὲ προ]ϊὼν φαίνεται
+εὔδηλος εἶ. ψοφεῖν [δὲ προ]ϊὼν φαίνεται
 
 ### 280.4
 
@@ -996,7 +996,7 @@ tum uersus xviii laceri inter quos haec uerba restant:
 
 ### 291.3
 
-[ ]αὐτὸς, [ὡς] ὁ̣ρᾶις, ἐγώ,
+[ ]αὐτὸς, [ὡς] ὁρᾶις, ἐγώ,
 
 ### 291.4
 
@@ -1036,7 +1036,7 @@ tum uersus xviii laceri inter quos haec uerba restant:
 
 ### 305.1
 
-ἀ[φορ]ᾶι λ̣έ̣γ̣ο̣ν̣τος “ἀντιβολῶ, Κράτεια, σέ,
+ἀ[φορ]ᾶι λέγοντος “ἀντιβολῶ, Κράτεια, σέ,
 
 ### 305.2
 
@@ -1068,7 +1068,7 @@ tum uersus xviii laceri inter quos haec uerba restant:
 
 ### 311.2
 
-αν̣[
+αν[
 
 ### 312.1
 
@@ -1108,15 +1108,15 @@ tum uersus xviii laceri inter quos haec uerba restant:
 
 ### 320.1
 
-δ̣ο̣.. βοήσεται δὲ καὶ βουλεύσεται
+δο.. βοήσεται δὲ καὶ βουλεύσεται
 
 ### 320.2
 
-κ̣[τ]ανεῖν ἑαυτὸν στάς· βλέπει δὲ πῦρ ἅμα
+κ[τ]ανεῖν ἑαυτὸν στάς· βλέπει δὲ πῦρ ἅμα
 
 ### 320.3
 
-ο̣υ.....κει.α̣ι̣ δράττεταί 〈τε〉 τῶν τριχῶν. Κλ ἄνθρωπε, κατακόψεις με.
+ου.....κει.αι δράττεταί 〈τε〉 τῶν τριχῶν. Κλ ἄνθρωπε, κατακόψεις με.
 
 ### 323.1
 
@@ -1144,7 +1144,7 @@ tum uersus xviii laceri inter quos haec uerba restant:
 
 ### 360.1
 
-ἔσ̣τ̣ω̣ στ̣[έγ]ειν με καὶ λ̣ί[θο]ν̣ ψ̣υχὴν φ[έρειν
+ἔστω στ[έγ]ειν με καὶ λί[θο]ν ψυχὴν φ[έρειν
 
 ### 360.2
 
@@ -1176,7 +1176,7 @@ tum uersus xviii laceri inter quos haec uerba restant:
 
 ### 388.2
 
-[.].ε....ἐμοὶ ταυ[........].υτον μ̣ο̣ι̣ λέγε.
+[.].ε....ἐμοὶ ταυ[........].υτον μοι λέγε.
 
 ### 390.1
 
@@ -1228,7 +1228,7 @@ tum uersus xviii laceri inter quos haec uerba restant:
 
 ### 395.8
 
-τὸν τἀγάθ’ αὐτῆι δόντα· πῶς [οὖ]ν̣ ἐ[σ]τί μοι [
+τὸν τἀγάθ’ αὐτῆι δόντα· πῶς [οὖ]ν ἐ[σ]τί μοι [
 
 ### 403
 
@@ -1248,7 +1248,7 @@ tum uersus xviii laceri inter quos haec uerba restant:
 
 ### 420.1
 
-τιτανα̣[
+τιτανα[
 
 ### 420.2
 
@@ -1260,11 +1260,11 @@ tum uersus xviii laceri inter quos haec uerba restant:
 
 ### 420.4
 
-ζηλοτυπ̣[ο
+ζηλοτυπ[ο
 
 ### 420.5
 
-ἃ νῦν λε̣[γ
+ἃ νῦν λε[γ
 
 ### 425.1
 
@@ -1296,7 +1296,7 @@ tum uersus xviii laceri inter quos haec uerba restant:
 
 ### 430.2
 
-(Γε) διδόασί σοι γυνα̣ῖκα ..[
+(Γε) διδόασί σοι γυναῖκα ..[
 
 ### 430.3
 
@@ -1324,7 +1324,7 @@ tum uersus xviii laceri inter quos haec uerba restant:
 
 ### 435.3
 
-λέγων τάχα τ̣ρ̣έχει [
+λέγων τάχα τρέχει [
 
 ### 435.4
 
@@ -1336,11 +1336,11 @@ tum uersus xviii laceri inter quos haec uerba restant:
 
 ### 440.1
 
-ἤκους’· ἃ δ’ ἤκουσα .ε̣[
+ἤκους’· ἃ δ’ ἤκουσα .ε[
 
 ### 440.2
 
-ἔκπλεα γελῶσ̣ά̣ γ’ ηπ[
+ἔκπλεα γελῶσά γ’ ηπ[
 
 ### 440.3
 
@@ -1384,11 +1384,11 @@ tum uersus xviii laceri inter quos haec uerba restant:
 
 ### 447.2
 
-πάντας γ̣ὰ̣ρ̣ ἀντ[
+πάντας γὰρ ἀντ[
 
 ### 447.3
 
-ἀπὸ ταὐτομάτου [ δεῖπνον ξένια κ̣[
+ἀπὸ ταὐτομάτου [ δεῖπνον ξένια κ[
 
 ### 447.4
 
@@ -1400,7 +1400,7 @@ tum uersus xviii laceri inter quos haec uerba restant:
 
 ### 458.1
 
-εἶ[ἑ]ν̣, μετέμελ’ αὐτ[
+εἶ[ἑ]ν, μετέμελ’ αὐτ[
 
 ### 458.2
 
@@ -1408,11 +1408,11 @@ tum uersus xviii laceri inter quos haec uerba restant:
 
 ### 460.1
 
-στεφάνους τ’ ἔ[χ]ο̣ν̣τ̣ε̣[ς
+στεφάνους τ’ ἔ[χ]οντε[ς
 
 ### 460.2
 
-καὶ μηδέπω δεῖπ̣ν̣[
+καὶ μηδέπω δεῖπν[
 
 ### 460.3
 
@@ -1424,7 +1424,7 @@ tum uersus xviii laceri inter quos haec uerba restant:
 
 ### 460.5
 
-ἄνδρες πρε̣π̣όν̣τ̣ω̣ς̣ πά[ντες ἐπικροτήσατε·
+ἄνδρες πρεπόντως πά[ντες ἐπικροτήσατε·
 
 ### 465
 

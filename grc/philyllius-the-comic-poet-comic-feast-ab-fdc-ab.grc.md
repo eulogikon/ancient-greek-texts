@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Συμποσίου Κωμικοῦ
 author: Philyllius the Comic Poet
 eul_wid: fdc-ab
 eul_aid: fdc
-canonical: "https://eulogikon.org/grc/philyllius-the-comic-poet/comic-feast-ab"
+canonical: "https://eulogikon.org/works/philyllius-comic-feast-fdc-ab"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philyllius the Comic Poet
 
-**eul_wid:** `fdc-ab` · [HTML page](https://eulogikon.org/grc/philyllius-the-comic-poet/comic-feast-ab)
+**eul_wid:** `fdc-ab` · [HTML page](https://eulogikon.org/works/philyllius-comic-feast-fdc-ab)
 
 ## Text
 

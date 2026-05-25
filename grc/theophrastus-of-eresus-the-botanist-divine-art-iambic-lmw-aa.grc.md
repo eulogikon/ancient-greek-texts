@@ -4,7 +4,7 @@ title_greek: Χαρακτῆρες
 author: Theophrastus of Eresus the Botanist
 eul_wid: lmw-aa
 eul_aid: lmw
-canonical: "https://eulogikon.org/grc/theophrastus-of-eresus-the-botanist/divine-art-iambic"
+canonical: "https://eulogikon.org/works/theophrastus-eresus-divine-art-iambic-lmw-aa"
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theophrastus of Eresus the Botanist
 
-**eul_wid:** `lmw-aa` · [HTML page](https://eulogikon.org/grc/theophrastus-of-eresus-the-botanist/divine-art-iambic)
+**eul_wid:** `lmw-aa` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-divine-art-iambic-lmw-aa)
 
 ## Text
 

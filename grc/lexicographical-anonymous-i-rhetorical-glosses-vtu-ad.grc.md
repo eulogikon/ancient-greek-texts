@@ -4,7 +4,7 @@ title_greek: Γλωσσῶν Ῥητορικῶν
 author: Lexicographical Work Anonymous I
 eul_wid: vtu-ad
 eul_aid: vtu
-canonical: "https://eulogikon.org/grc/lexicographical-anonymous-i/rhetorical-glosses"
+canonical: "https://eulogikon.org/works/anon-lex-1-rhetorical-glosses-vtu-ad"
 period: Late Antique
 dialect: Mixed Dialects
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lexicographical Work Anonymous I
 
-**eul_wid:** `vtu-ad` · [HTML page](https://eulogikon.org/grc/lexicographical-anonymous-i/rhetorical-glosses)
+**eul_wid:** `vtu-ad` · [HTML page](https://eulogikon.org/works/anon-lex-1-rhetorical-glosses-vtu-ad)
 
 ## Text
 

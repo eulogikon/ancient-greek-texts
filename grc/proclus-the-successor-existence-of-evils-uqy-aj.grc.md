@@ -4,7 +4,7 @@ title_greek: Περὶ τοῦ εἶναι τὰ κακά
 author: Proclus the Successor
 eul_wid: uqy-aj
 eul_aid: uqy
-canonical: "https://eulogikon.org/grc/proclus-the-successor/existence-of-evils"
+canonical: "https://eulogikon.org/works/proclus-existence-of-evils-uqy-aj"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Proclus the Successor
 
-**eul_wid:** `uqy-aj` · [HTML page](https://eulogikon.org/grc/proclus-the-successor/existence-of-evils)
+**eul_wid:** `uqy-aj` · [HTML page](https://eulogikon.org/works/proclus-existence-of-evils-uqy-aj)
 
 ## Text
 

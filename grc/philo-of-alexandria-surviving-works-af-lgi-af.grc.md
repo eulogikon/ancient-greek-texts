@@ -4,7 +4,7 @@ title_greek: Ὅτι Πᾶς Ἀγαθὸς Ἐλεύθερος
 author: Philo of Alexandria
 eul_wid: lgi-af
 eul_aid: lgi
-canonical: "https://eulogikon.org/grc/philo-of-alexandria/surviving-works-af"
+canonical: "https://eulogikon.org/works/philo-alexandria-surviving-works-lgi-af"
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philo of Alexandria
 
-**eul_wid:** `lgi-af` · [HTML page](https://eulogikon.org/grc/philo-of-alexandria/surviving-works-af)
+**eul_wid:** `lgi-af` · [HTML page](https://eulogikon.org/works/philo-alexandria-surviving-works-lgi-af)
 
 ## Text
 

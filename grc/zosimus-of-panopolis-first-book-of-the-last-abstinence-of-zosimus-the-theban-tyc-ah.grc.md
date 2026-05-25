@@ -4,7 +4,7 @@ title_greek: Τὸ πρῶτον βιβλίον τῆς τελευταίας ἀ
 author: Zosimus of Panopolis
 eul_wid: tyc-ah
 eul_aid: tyc
-canonical: "https://eulogikon.org/grc/zosimus-of-panopolis/first-book-of-the-last-abstinence-of-zosimus-the-theban"
+canonical: "https://eulogikon.org/works/zosimus-panopolis-first-book-of-the-last-abstinence-of-zosimus-the-theban-tyc-ah"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Zosimus of Panopolis
 
-**eul_wid:** `tyc-ah` · [HTML page](https://eulogikon.org/grc/zosimus-of-panopolis/first-book-of-the-last-abstinence-of-zosimus-the-theban)
+**eul_wid:** `tyc-ah` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-first-book-of-the-last-abstinence-of-zosimus-the-theban-tyc-ah)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Stesimbrotus of Thasos the Historian
 eul_wid: dti-aa
 eul_aid: dti
-canonical: "https://eulogikon.org/grc/stesimbrotus-of-thasos/athenian-statesmen"
+canonical: "https://eulogikon.org/works/stesimbrotus-thasos-athenian-statesmen-dti-aa"
 period: Classical
 dialect: Mixed Dialects (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Stesimbrotus of Thasos the Historian
 
-**eul_wid:** `dti-aa` · [HTML page](https://eulogikon.org/grc/stesimbrotus-of-thasos/athenian-statesmen)
+**eul_wid:** `dti-aa` · [HTML page](https://eulogikon.org/works/stesimbrotus-thasos-athenian-statesmen-dti-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ὕμνος εἰς Ἀσκληπιόν
 author: Hymnic Collection  Anonymous
 eul_wid: upu-ah
 eul_aid: upu
-canonical: "https://eulogikon.org/grc/homeric-hymns-anonymous/asclepius"
+canonical: "https://eulogikon.org/works/hymnic-anon-asclepius-upu-ah"
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hymnic Collection  Anonymous
 
-**eul_wid:** `upu-ah` · [HTML page](https://eulogikon.org/grc/homeric-hymns-anonymous/asclepius)
+**eul_wid:** `upu-ah` · [HTML page](https://eulogikon.org/works/hymnic-anon-asclepius-upu-ah)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ εὐσεβείας
 author: Theophrastus of Eresus
 eul_wid: ljk-ar
 eul_aid: ljk
-canonical: "https://eulogikon.org/grc/theophrastus-of-eresus/piety"
+canonical: "https://eulogikon.org/works/theophrastus-eresus-piety-ljk-ar"
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theophrastus of Eresus
 
-**eul_wid:** `ljk-ar` · [HTML page](https://eulogikon.org/grc/theophrastus-of-eresus/piety)
+**eul_wid:** `ljk-ar` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-piety-ljk-ar)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἀραβίας
 author: Uranius the Historian
 eul_wid: sfm-aa
 eul_aid: sfm
-canonical: "https://eulogikon.org/grc/uranius-the-historian/arabia"
+canonical: "https://eulogikon.org/works/uranius-arabia-sfm-aa"
 period: Late Antique
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Uranius the Historian
 
-**eul_wid:** `sfm-aa` · [HTML page](https://eulogikon.org/grc/uranius-the-historian/arabia)
+**eul_wid:** `sfm-aa` · [HTML page](https://eulogikon.org/works/uranius-arabia-sfm-aa)
 
 ## Text
 

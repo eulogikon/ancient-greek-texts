@@ -4,7 +4,7 @@ title_greek: Λούκουλλος
 author: Plutarch of Chaeronea
 eul_wid: okg-eq
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/lucullus"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-lucullus-okg-eq"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-eq` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/lucullus)
+**eul_wid:** `okg-eq` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-lucullus-okg-eq)
 
 ## Text
 
@@ -272,7 +272,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### Luc 12 2
 
-εὐθὺς οὖν ἀναχθείς, τούτους μὲν εἷλε καὶ τὸν στρατηγὸν αὐτῶν Ἰσίδωρον ἀπέκτεινεν, ἐπὶ δὲ τοὺς ἄλλους ἔπλει † πρωρέας.
+εὐθὺς οὖν ἀναχθείς, τούτους μὲν εἷλε καὶ τὸν στρατηγὸν αὐτῶν Ἰσίδωρον ἀπέκτεινεν, ἐπὶ δὲ τοὺς ἄλλους ἔπλει πρωρέας.
 
 ### Luc 12 3
 

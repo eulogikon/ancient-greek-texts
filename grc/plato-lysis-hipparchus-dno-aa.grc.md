@@ -4,7 +4,7 @@ title_greek: Ἐπιστολὴ πρὸς Ἵππαρχον
 author: Plato Lysis
 eul_wid: dno-aa
 eul_aid: dno
-canonical: "https://eulogikon.org/grc/plato-lysis/hipparchus"
+canonical: "https://eulogikon.org/works/plato-lysis-hipparchus-dno-aa"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plato Lysis
 
-**eul_wid:** `dno-aa` · [HTML page](https://eulogikon.org/grc/plato-lysis/hipparchus)
+**eul_wid:** `dno-aa` · [HTML page](https://eulogikon.org/works/plato-lysis-hipparchus-dno-aa)
 
 ## Text
 

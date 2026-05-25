@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Sotades of Maroneia Elder
 eul_wid: iti-ac
 eul_aid: iti
-canonical: "https://eulogikon.org/grc/sotades-of-maroneia-elder/learning-suffering"
+canonical: "https://eulogikon.org/works/sotades-maroneia-learning-suffering-iti-ac"
 period: Hellenistic
 dialect: "Ionic (ia, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sotades of Maroneia Elder
 
-**eul_wid:** `iti-ac` · [HTML page](https://eulogikon.org/grc/sotades-of-maroneia-elder/learning-suffering)
+**eul_wid:** `iti-ac` · [HTML page](https://eulogikon.org/works/sotades-maroneia-learning-suffering-iti-ac)
 
 ## Text
 

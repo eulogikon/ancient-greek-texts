@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Thales of Miletus
 eul_wid: apa-ab
 eul_aid: apa
-canonical: "https://eulogikon.org/grc/thales-of-miletus/nautical-astronomy"
+canonical: "https://eulogikon.org/works/thales-miletus-nautical-astronomy-apa-ab"
 period: Archaic
 dialect: Ionic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Thales of Miletus
 
-**eul_wid:** `apa-ab` · [HTML page](https://eulogikon.org/grc/thales-of-miletus/nautical-astronomy)
+**eul_wid:** `apa-ab` · [HTML page](https://eulogikon.org/works/thales-miletus-nautical-astronomy-apa-ab)
 
 ## Text
 

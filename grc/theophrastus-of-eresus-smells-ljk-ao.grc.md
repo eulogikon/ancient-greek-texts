@@ -4,7 +4,7 @@ title_greek: Περὶ Ὀσμῶν
 author: Theophrastus of Eresus
 eul_wid: ljk-ao
 eul_aid: ljk
-canonical: "https://eulogikon.org/grc/theophrastus-of-eresus/smells"
+canonical: "https://eulogikon.org/works/theophrastus-eresus-smells-ljk-ao"
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theophrastus of Eresus
 
-**eul_wid:** `ljk-ao` · [HTML page](https://eulogikon.org/grc/theophrastus-of-eresus/smells)
+**eul_wid:** `ljk-ao` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-smells-ljk-ao)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Χρονολογίας
 author: Sosibius of Sparta
 eul_wid: kqy-aa
 eul_aid: kqy
-canonical: "https://eulogikon.org/grc/sosibius-of-sparta/chronology"
+canonical: "https://eulogikon.org/works/sosibius-sparta-chronology-kqy-aa"
 period: Hellenistic
 dialect: Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sosibius of Sparta
 
-**eul_wid:** `kqy-aa` · [HTML page](https://eulogikon.org/grc/sosibius-of-sparta/chronology)
+**eul_wid:** `kqy-aa` · [HTML page](https://eulogikon.org/works/sosibius-sparta-chronology-kqy-aa)
 
 ## Text
 

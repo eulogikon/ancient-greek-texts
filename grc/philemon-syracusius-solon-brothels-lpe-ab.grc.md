@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Philemon Syracusius
 eul_wid: lpe-ab
 eul_aid: lpe
-canonical: "https://eulogikon.org/grc/philemon-syracusius/solon-brothels"
+canonical: "https://eulogikon.org/works/philemon-syracusius-solon-brothels-lpe-ab"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philemon Syracusius
 
-**eul_wid:** `lpe-ab` · [HTML page](https://eulogikon.org/grc/philemon-syracusius/solon-brothels)
+**eul_wid:** `lpe-ab` · [HTML page](https://eulogikon.org/works/philemon-syracusius-solon-brothels-lpe-ab)
 
 ## Text
 

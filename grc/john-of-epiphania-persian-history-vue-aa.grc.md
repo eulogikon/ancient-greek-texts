@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τῆς Περσικῆς Ἱστ
 author: John of Epiphania
 eul_wid: vue-aa
 eul_aid: vue
-canonical: "https://eulogikon.org/grc/john-of-epiphania/persian-history"
+canonical: "https://eulogikon.org/works/john-epiphania-persian-history-vue-aa"
 period: Late Antique
 dialect: Literary Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** John of Epiphania
 
-**eul_wid:** `vue-aa` · [HTML page](https://eulogikon.org/grc/john-of-epiphania/persian-history)
+**eul_wid:** `vue-aa` · [HTML page](https://eulogikon.org/works/john-epiphania-persian-history-vue-aa)
 
 ## Text
 

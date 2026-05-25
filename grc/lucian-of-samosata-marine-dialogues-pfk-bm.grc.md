@@ -4,7 +4,7 @@ title_greek: Ἐνάλιοι Διάλογοι
 author: Lucian of Samosata
 eul_wid: pfk-bm
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/marine-dialogues"
+canonical: "https://eulogikon.org/works/lucian-samosata-marine-dialogues-pfk-bm"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-bm` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/marine-dialogues)
+**eul_wid:** `pfk-bm` · [HTML page](https://eulogikon.org/works/lucian-samosata-marine-dialogues-pfk-bm)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: "Περὶ νόσων Α'-Γ'"
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-av
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/diseases"
+canonical: "https://eulogikon.org/works/hippocrates-diseases-bww-av"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-av` · [HTML page](https://eulogikon.org/grc/hippocrates/diseases)
+**eul_wid:** `bww-av` · [HTML page](https://eulogikon.org/works/hippocrates-diseases-bww-av)
 
 ## Text
 

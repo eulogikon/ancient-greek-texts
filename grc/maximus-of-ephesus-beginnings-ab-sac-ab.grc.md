@@ -4,7 +4,7 @@ title_greek: Περὶ καταρχῶν
 author: Maximus of Ephesus
 eul_wid: sac-ab
 eul_aid: sac
-canonical: "https://eulogikon.org/grc/maximus-of-ephesus/beginnings-ab"
+canonical: "https://eulogikon.org/works/maximus-ephesus-beginnings-sac-ab"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Maximus of Ephesus
 
-**eul_wid:** `sac-ab` · [HTML page](https://eulogikon.org/grc/maximus-of-ephesus/beginnings-ab)
+**eul_wid:** `sac-ab` · [HTML page](https://eulogikon.org/works/maximus-ephesus-beginnings-sac-ab)
 
 ## Text
 

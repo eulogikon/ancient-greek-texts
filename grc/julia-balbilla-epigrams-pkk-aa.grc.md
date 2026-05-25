@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Julia Balbilla Princess of Commagene
 eul_wid: pkk-aa
 eul_aid: pkk
-canonical: "https://eulogikon.org/grc/julia-balbilla/epigrams"
+canonical: "https://eulogikon.org/works/julia-balbilla-epigrams-pkk-aa"
 period: Roman
 dialect: Aeolic
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Julia Balbilla Princess of Commagene
 
-**eul_wid:** `pkk-aa` · [HTML page](https://eulogikon.org/grc/julia-balbilla/epigrams)
+**eul_wid:** `pkk-aa` · [HTML page](https://eulogikon.org/works/julia-balbilla-epigrams-pkk-aa)
 
 ## Text
 

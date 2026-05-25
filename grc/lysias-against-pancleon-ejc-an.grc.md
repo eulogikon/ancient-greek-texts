@@ -4,7 +4,7 @@ title_greek: κατὰ Παγκλέωνος ὅτι οὐκ ἦν Πλαταιε
 author: Lysias the Orator
 eul_wid: ejc-an
 eul_aid: ejc
-canonical: "https://eulogikon.org/grc/lysias/against-pancleon"
+canonical: "https://eulogikon.org/works/lysias-against-pancleon-ejc-an"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lysias the Orator
 
-**eul_wid:** `ejc-an` · [HTML page](https://eulogikon.org/grc/lysias/against-pancleon)
+**eul_wid:** `ejc-an` · [HTML page](https://eulogikon.org/works/lysias-against-pancleon-ejc-an)
 
 ## Text
 

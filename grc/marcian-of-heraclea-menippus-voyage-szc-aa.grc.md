@@ -4,7 +4,7 @@ title_greek: Μένιππος Περίπλους τοῦ Ἐσωτερικοῦ 
 author: Marcian of Heraclea
 eul_wid: szc-aa
 eul_aid: szc
-canonical: "https://eulogikon.org/grc/marcian-of-heraclea/menippus-voyage"
+canonical: "https://eulogikon.org/works/marcian-heraclea-menippus-voyage-szc-aa"
 period: Late Antique
 dialect: Technical Koine
 domain: Geography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Marcian of Heraclea
 
-**eul_wid:** `szc-aa` · [HTML page](https://eulogikon.org/grc/marcian-of-heraclea/menippus-voyage)
+**eul_wid:** `szc-aa` · [HTML page](https://eulogikon.org/works/marcian-heraclea-menippus-voyage-szc-aa)
 
 ## Text
 

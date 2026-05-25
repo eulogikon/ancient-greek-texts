@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Thrasyalces the Sophist
 eul_wid: etc-aa
 eul_aid: etc
-canonical: "https://eulogikon.org/grc/thrasyalces-the-sophist/testimonies"
+canonical: "https://eulogikon.org/works/thrasyalces-testimonies-etc-aa"
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Thrasyalces the Sophist
 
-**eul_wid:** `etc-aa` · [HTML page](https://eulogikon.org/grc/thrasyalces-the-sophist/testimonies)
+**eul_wid:** `etc-aa` · [HTML page](https://eulogikon.org/works/thrasyalces-testimonies-etc-aa)
 
 ## Text
 

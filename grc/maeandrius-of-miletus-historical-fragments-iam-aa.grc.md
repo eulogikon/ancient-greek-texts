@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Μιλήτου
 author: Maeandrius of Miletus
 eul_wid: iam-aa
 eul_aid: iam
-canonical: "https://eulogikon.org/grc/maeandrius-of-miletus/historical-fragments"
+canonical: "https://eulogikon.org/works/maeandrius-miletus-historical-fragments-iam-aa"
 period: Hellenistic
 dialect: Ionic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Maeandrius of Miletus
 
-**eul_wid:** `iam-aa` · [HTML page](https://eulogikon.org/grc/maeandrius-of-miletus/historical-fragments)
+**eul_wid:** `iam-aa` · [HTML page](https://eulogikon.org/works/maeandrius-miletus-historical-fragments-iam-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Πῶς ἄν τις ἀπ ἐχθρῶν ὠφελοῖτο
 author: Plutarch of Chaeronea
 eul_wid: okg-bh
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/benefit-from-enemies"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-benefit-from-enemies-okg-bh"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-bh` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/benefit-from-enemies)
+**eul_wid:** `okg-bh` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-benefit-from-enemies-okg-bh)
 
 ## Text
 

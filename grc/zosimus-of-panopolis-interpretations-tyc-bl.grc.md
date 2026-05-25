@@ -4,7 +4,7 @@ title_greek: Ἑρμηνεία περὶ τῶν φώτων
 author: Zosimus of Panopolis
 eul_wid: tyc-bl
 eul_aid: tyc
-canonical: "https://eulogikon.org/grc/zosimus-of-panopolis/interpretations"
+canonical: "https://eulogikon.org/works/zosimus-panopolis-interpretations-tyc-bl"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Zosimus of Panopolis
 
-**eul_wid:** `tyc-bl` · [HTML page](https://eulogikon.org/grc/zosimus-of-panopolis/interpretations)
+**eul_wid:** `tyc-bl` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-interpretations-tyc-bl)
 
 ## Text
 

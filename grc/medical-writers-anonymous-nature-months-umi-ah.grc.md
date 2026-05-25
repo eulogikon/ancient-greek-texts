@@ -4,7 +4,7 @@ title_greek: Περὶ Φύσεως Δώδεκα Μηνῶν
 author: Medical Writers Anonymous
 eul_wid: umi-ah
 eul_aid: umi
-canonical: "https://eulogikon.org/grc/medical-writers-anonymous/nature-months"
+canonical: "https://eulogikon.org/works/med-writers-anon-nature-months-umi-ah"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Medical Writers Anonymous
 
-**eul_wid:** `umi-ah` · [HTML page](https://eulogikon.org/grc/medical-writers-anonymous/nature-months)
+**eul_wid:** `umi-ah` · [HTML page](https://eulogikon.org/works/med-writers-anon-nature-months-umi-ah)
 
 ## Text
 

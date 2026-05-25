@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Thearidas the Early Greek Philosopher
 eul_wid: aka-aa
 eul_aid: aka
-canonical: "https://eulogikon.org/grc/thearidas-the-philosopher/nature-being"
+canonical: "https://eulogikon.org/works/thearidas-nature-being-aka-aa"
 period: Archaic
 dialect: Ionic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Thearidas the Early Greek Philosopher
 
-**eul_wid:** `aka-aa` · [HTML page](https://eulogikon.org/grc/thearidas-the-philosopher/nature-being)
+**eul_wid:** `aka-aa` · [HTML page](https://eulogikon.org/works/thearidas-nature-being-aka-aa)
 
 ## Text
 

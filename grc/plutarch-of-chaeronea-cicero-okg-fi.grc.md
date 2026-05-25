@@ -4,7 +4,7 @@ title_greek: Κικέρων
 author: Plutarch of Chaeronea
 eul_wid: okg-fi
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/cicero"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-cicero-okg-fi"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-fi` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/cicero)
+**eul_wid:** `okg-fi` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-cicero-okg-fi)
 
 ## Text
 
@@ -760,7 +760,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### Cic 38 6
 
-† Μορίκκου δέ τινος ἥκοντος ἐξ Ἰταλίας νεωστὶ καὶ λέγοντος ἐν Ῥώμῃ φήμην ἐπικρατεῖν, ὡς πολιορκοῖτο Πομπήιος, „εἶτ’ ἐξέπλευσασ“ εἶπεν „ἵνα τοῦτο πιστεύσῃς αὐτὸς θεασάμενος;“ μετὰ δὲ τὴν ἧτταν Νωνίου μὲν εἰπόντος ὅτι δεῖ χρηστὰς ἐλπίδας ἔχειν, ἑπτὰ γὰρ ἀετοὺς ἐν τῷ στρατοπέδῳ τοῦ Πομπηίου λελεῖφθαι, „καλῶς ἄν“ ἔφη „παρῄνεις, εἰ κολοιοῖς ἐπολεμοῦμεν“.
+Μορίκκου δέ τινος ἥκοντος ἐξ Ἰταλίας νεωστὶ καὶ λέγοντος ἐν Ῥώμῃ φήμην ἐπικρατεῖν, ὡς πολιορκοῖτο Πομπήιος, „εἶτ’ ἐξέπλευσασ“ εἶπεν „ἵνα τοῦτο πιστεύσῃς αὐτὸς θεασάμενος;“ μετὰ δὲ τὴν ἧτταν Νωνίου μὲν εἰπόντος ὅτι δεῖ χρηστὰς ἐλπίδας ἔχειν, ἑπτὰ γὰρ ἀετοὺς ἐν τῷ στρατοπέδῳ τοῦ Πομπηίου λελεῖφθαι, „καλῶς ἄν“ ἔφη „παρῄνεις, εἰ κολοιοῖς ἐπολεμοῦμεν“.
 
 ### Cic 38 8
 

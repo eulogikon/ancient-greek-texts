@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Τυραννίδος
 author: Solon Letters
 eul_wid: anm-aa
 eul_aid: anm
-canonical: "https://eulogikon.org/grc/solon-letters/tyranny-fragments"
+canonical: "https://eulogikon.org/works/solon-tyranny-fragments-anm-aa"
 period: Archaic
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Solon Letters
 
-**eul_wid:** `anm-aa` · [HTML page](https://eulogikon.org/grc/solon-letters/tyranny-fragments)
+**eul_wid:** `anm-aa` · [HTML page](https://eulogikon.org/works/solon-tyranny-fragments-anm-aa)
 
 ## Text
 

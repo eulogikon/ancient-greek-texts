@@ -4,7 +4,7 @@ title_greek: Ἐπιστολαί
 author: Theodorus of Cyzicus
 eul_wid: tis-aa
 eul_aid: tis
-canonical: "https://eulogikon.org/grc/theodorus-of-cyzicus/imperial-ecclesiastical-letters"
+canonical: "https://eulogikon.org/works/theodorus-cyzicus-imperial-ecclesiastical-letters-tis-aa"
 period: Late Antique
 dialect: Koine
 format: Epistle
@@ -17,7 +17,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theodorus of Cyzicus
 
-**eul_wid:** `tis-aa` · [HTML page](https://eulogikon.org/grc/theodorus-of-cyzicus/imperial-ecclesiastical-letters)
+**eul_wid:** `tis-aa` · [HTML page](https://eulogikon.org/works/theodorus-cyzicus-imperial-ecclesiastical-letters-tis-aa)
 
 ## Text
 

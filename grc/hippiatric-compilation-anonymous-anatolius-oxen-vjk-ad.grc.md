@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Ἀνατολίου περὶ βοῶν
 author: Hippiatric Compilation Anonymous
 eul_wid: vjk-ad
 eul_aid: vjk
-canonical: "https://eulogikon.org/grc/hippiatric-compilation-anonymous/anatolius-oxen"
+canonical: "https://eulogikon.org/works/hippiatric-anon-anatolius-oxen-vjk-ad"
 period: Late Antique
 dialect: Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippiatric Compilation Anonymous
 
-**eul_wid:** `vjk-ad` · [HTML page](https://eulogikon.org/grc/hippiatric-compilation-anonymous/anatolius-oxen)
+**eul_wid:** `vjk-ad` · [HTML page](https://eulogikon.org/works/hippiatric-anon-anatolius-oxen-vjk-ad)
 
 ## Text
 

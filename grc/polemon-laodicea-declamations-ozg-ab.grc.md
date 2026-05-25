@@ -4,7 +4,7 @@ title_greek: Μελέται
 author: Polemon Laodicea
 eul_wid: ozg-ab
 eul_aid: ozg
-canonical: "https://eulogikon.org/grc/polemon-laodicea/declamations"
+canonical: "https://eulogikon.org/works/polemon-laodicea-declamations-ozg-ab"
 period: Roman
 dialect: Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Polemon Laodicea
 
-**eul_wid:** `ozg-ab` · [HTML page](https://eulogikon.org/grc/polemon-laodicea/declamations)
+**eul_wid:** `ozg-ab` · [HTML page](https://eulogikon.org/works/polemon-laodicea-declamations-ozg-ab)
 
 ## Text
 

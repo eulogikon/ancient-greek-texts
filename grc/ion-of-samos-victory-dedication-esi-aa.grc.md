@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: "Ion of Samos "
 eul_wid: esi-aa
 eul_aid: esi
-canonical: "https://eulogikon.org/grc/ion-of-samos/victory-dedication"
+canonical: "https://eulogikon.org/works/ion-samos-victory-dedication-esi-aa"
 period: Classical
 dialect: Ionic Elegiac
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ion of Samos 
 
-**eul_wid:** `esi-aa` · [HTML page](https://eulogikon.org/grc/ion-of-samos/victory-dedication)
+**eul_wid:** `esi-aa` · [HTML page](https://eulogikon.org/works/ion-samos-victory-dedication-esi-aa)
 
 ## Text
 

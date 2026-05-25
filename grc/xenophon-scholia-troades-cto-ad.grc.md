@@ -4,7 +4,7 @@ title_greek: Γλῶσσαι εἰς Εὐριπίδου Τρωάδας
 author: Xenophon Scholia
 eul_wid: cto-ad
 eul_aid: cto
-canonical: "https://eulogikon.org/grc/xenophon-scholia/troades"
+canonical: "https://eulogikon.org/works/xenophon-scholia-troades-cto-ad"
 period: Classical
 dialect: Mixed Dialects
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Xenophon Scholia
 
-**eul_wid:** `cto-ad` · [HTML page](https://eulogikon.org/grc/xenophon-scholia/troades)
+**eul_wid:** `cto-ad` · [HTML page](https://eulogikon.org/works/xenophon-scholia-troades-cto-ad)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Π. Ὄσλο Ἰνβ. ͵αυοηʹ
 author: Himerius the Sophist
 eul_wid: siy-ab
 eul_aid: siy
-canonical: "https://eulogikon.org/grc/himerius/fragments-p-oslo-1478"
+canonical: "https://eulogikon.org/works/himerius-fragments-p-oslo-1478-siy-ab"
 period: Late Antique
 dialect: Atticizing Literary
 domain: Oratory
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Himerius the Sophist
 
-**eul_wid:** `siy-ab` · [HTML page](https://eulogikon.org/grc/himerius/fragments-p-oslo-1478)
+**eul_wid:** `siy-ab` · [HTML page](https://eulogikon.org/works/himerius-fragments-p-oslo-1478-siy-ab)
 
 ## Text
 
 ### f.(112)
 
-— — — — — — — ] . μ̣αι̣[ ]υ̣ ην̣[ ] . αι μ . [ ]ν̣αι .. [ — — — — — — — — — — — — — — ]ε̣ι .. κ[ ]την . [ ]ν̣ ε̣λ̣θ̣[ ] .. [ — — — — — — — — — — — — — — ] .... ]ποιμένω(ν) ] . [ ] . δεδρα] . νομο] . ἅπαντες ] . μετὰ ω ]ν̣ χε[ . ]ν̣ ] . κε̣ιω μ(?)]έλο̣υς ]Λέσβος ]π̣ .... ]αιω ]μ̣υρια ]μενοι ] . οι τῃ πο] . μετέρω(ν) ὀ]φείλω τῇ ο — — — — — — — .. [ . ομ̣[ . α . [ τουτ̣[ οτε[ κ̣α̣ι̣[ ει̣ .. [ [ . ] . υ[ τ̣ .. [ ω . [ ἑμὲ . [ πις μ̣[ νος ε[ ηκετ . [ καν .. [ τῷ ἰδί̣[ῳ διδω[ δὲ ἄλλο[
+— — — — — — — ] . μαι[ ]υ ην[ ] . αι μ . [ ]ναι .. [ — — — — — — — — — — — — — — ]ει .. κ[ ]την . [ ]ν ελθ[ ] .. [ — — — — — — — — — — — — — — ] .... ]ποιμένω(ν) ] . [ ] . δεδρα] . νομο] . ἅπαντες ] . μετὰ ω ]ν χε[ . ]ν ] . κειω μ(?)]έλους ]Λέσβος ]π .... ]αιω ]μυρια ]μενοι ] . οι τῃ πο] . μετέρω(ν) ὀ]φείλω τῇ ο — — — — — — — .. [ . ομ[ . α . [ τουτ[ οτε[ και[ ει .. [ [ . ] . υ[ τ .. [ ω . [ ἑμὲ . [ πις μ[ νος ε[ ηκετ . [ καν .. [ τῷ ἰδί[ῳ διδω[ δὲ ἄλλο[
 
 ## License and provenance
 

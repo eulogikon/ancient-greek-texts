@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Lyceas of Naucratis
 eul_wid: giq-aa
 eul_aid: giq
-canonical: "https://eulogikon.org/grc/lyceas-of-naucratis/egyptian-affairs"
+canonical: "https://eulogikon.org/works/lyceas-naucratis-egyptian-affairs-giq-aa"
 period: Classical
 dialect: Ionic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lyceas of Naucratis
 
-**eul_wid:** `giq-aa` · [HTML page](https://eulogikon.org/grc/lyceas-of-naucratis/egyptian-affairs)
+**eul_wid:** `giq-aa` · [HTML page](https://eulogikon.org/works/lyceas-naucratis-egyptian-affairs-giq-aa)
 
 ## Text
 

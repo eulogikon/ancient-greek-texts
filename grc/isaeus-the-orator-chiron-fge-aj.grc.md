@@ -4,7 +4,7 @@ title_greek: Περὶ τοῦ Κίρωνος κλήρου
 author: Isaeus the Orator
 eul_wid: fge-aj
 eul_aid: fge
-canonical: "https://eulogikon.org/grc/isaeus-the-orator/chiron"
+canonical: "https://eulogikon.org/works/isaeus-chiron-fge-aj"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Isaeus the Orator
 
-**eul_wid:** `fge-aj` · [HTML page](https://eulogikon.org/grc/isaeus-the-orator/chiron)
+**eul_wid:** `fge-aj` · [HTML page](https://eulogikon.org/works/isaeus-chiron-fge-aj)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Μίνως
 author: Plato of Athens
 eul_wid: ffk-bl
 eul_aid: ffk
-canonical: "https://eulogikon.org/grc/plato/minos"
+canonical: "https://eulogikon.org/works/plato-minos-ffk-bl"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plato of Athens
 
-**eul_wid:** `ffk-bl` · [HTML page](https://eulogikon.org/grc/plato/minos)
+**eul_wid:** `ffk-bl` · [HTML page](https://eulogikon.org/works/plato-minos-ffk-bl)
 
 ## Text
 

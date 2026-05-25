@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Nicomachus the Comic Poet
 eul_wid: jqk-ab
 eul_aid: jqk
-canonical: "https://eulogikon.org/grc/nicomachus-the-comic-poet/comic-chefs-art"
+canonical: "https://eulogikon.org/works/nicomachus-comic-comic-chefs-art-jqk-ab"
 period: Hellenistic
 dialect: Koine
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nicomachus the Comic Poet
 
-**eul_wid:** `jqk-ab` · [HTML page](https://eulogikon.org/grc/nicomachus-the-comic-poet/comic-chefs-art)
+**eul_wid:** `jqk-ab` · [HTML page](https://eulogikon.org/works/nicomachus-comic-comic-chefs-art-jqk-ab)
 
 ## Text
 

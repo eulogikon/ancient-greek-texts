@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα τῶν Νηρηίδων
 author: Nicochares the Comic Poet
 eul_wid: fcs-ac
 eul_aid: fcs
-canonical: "https://eulogikon.org/grc/nicochares-the-comic-poet/nereids-fragments"
+canonical: "https://eulogikon.org/works/nicochares-nereids-fragments-fcs-ac"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nicochares the Comic Poet
 
-**eul_wid:** `fcs-ac` · [HTML page](https://eulogikon.org/grc/nicochares-the-comic-poet/nereids-fragments)
+**eul_wid:** `fcs-ac` · [HTML page](https://eulogikon.org/works/nicochares-nereids-fragments-fcs-ac)
 
 ## Text
 

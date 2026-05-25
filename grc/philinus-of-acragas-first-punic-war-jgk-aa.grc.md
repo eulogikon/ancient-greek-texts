@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τοῦ Πρώτου Πολεμι
 author: Philinus of Acragas the Historian
 eul_wid: jgk-aa
 eul_aid: jgk
-canonical: "https://eulogikon.org/grc/philinus-of-acragas/first-punic-war"
+canonical: "https://eulogikon.org/works/philinus-acragas-first-punic-war-jgk-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philinus of Acragas the Historian
 
-**eul_wid:** `jgk-aa` · [HTML page](https://eulogikon.org/grc/philinus-of-acragas/first-punic-war)
+**eul_wid:** `jgk-aa` · [HTML page](https://eulogikon.org/works/philinus-acragas-first-punic-war-jgk-aa)
 
 ## Text
 

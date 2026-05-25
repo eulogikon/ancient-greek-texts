@@ -4,7 +4,7 @@ title_greek: Περὶ Μεταβολῆς Ὀνομάτων
 author: Philo of Alexandria
 eul_wid: lgi-ba
 eul_aid: lgi
-canonical: "https://eulogikon.org/grc/philo-of-alexandria/change-names"
+canonical: "https://eulogikon.org/works/philo-alexandria-change-names-lgi-ba"
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philo of Alexandria
 
-**eul_wid:** `lgi-ba` · [HTML page](https://eulogikon.org/grc/philo-of-alexandria/change-names)
+**eul_wid:** `lgi-ba` · [HTML page](https://eulogikon.org/works/philo-alexandria-change-names-lgi-ba)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἵππαρχος
 author: Plato of Athens
 eul_wid: ffk-aj
 eul_aid: ffk
-canonical: "https://eulogikon.org/grc/plato/hipparchus"
+canonical: "https://eulogikon.org/works/plato-hipparchus-ffk-aj"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plato of Athens
 
-**eul_wid:** `ffk-aj` · [HTML page](https://eulogikon.org/grc/plato/hipparchus)
+**eul_wid:** `ffk-aj` · [HTML page](https://eulogikon.org/works/plato-hipparchus-ffk-aj)
 
 ## Text
 

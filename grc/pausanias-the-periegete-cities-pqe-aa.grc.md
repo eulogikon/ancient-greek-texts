@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Πόλεων
 author: Pausanias the Periegete
 eul_wid: pqe-aa
 eul_aid: pqe
-canonical: "https://eulogikon.org/grc/pausanias-the-periegete/cities"
+canonical: "https://eulogikon.org/works/pausanias-cities-pqe-aa"
 period: Roman
 dialect: Atticizing
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pausanias the Periegete
 
-**eul_wid:** `pqe-aa` · [HTML page](https://eulogikon.org/grc/pausanias-the-periegete/cities)
+**eul_wid:** `pqe-aa` · [HTML page](https://eulogikon.org/works/pausanias-cities-pqe-aa)
 
 ## Text
 

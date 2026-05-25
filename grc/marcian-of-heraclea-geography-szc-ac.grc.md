@@ -4,7 +4,7 @@ title_greek: Γεωγραφία Ἀρτεμιδώρου
 author: Marcian of Heraclea
 eul_wid: szc-ac
 eul_aid: szc
-canonical: "https://eulogikon.org/grc/marcian-of-heraclea/geography"
+canonical: "https://eulogikon.org/works/marcian-heraclea-geography-szc-ac"
 period: Late Antique
 dialect: Technical Koine
 domain: Geography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Marcian of Heraclea
 
-**eul_wid:** `szc-ac` · [HTML page](https://eulogikon.org/grc/marcian-of-heraclea/geography)
+**eul_wid:** `szc-ac` · [HTML page](https://eulogikon.org/works/marcian-heraclea-geography-szc-ac)
 
 ## Text
 

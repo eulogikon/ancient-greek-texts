@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα ἐκ Σοῦδας
 author: Hierocles the Stoic
 eul_wid: pnw-ab
 eul_aid: pnw
-canonical: "https://eulogikon.org/grc/hierocles-the-stoic/fragments"
+canonical: "https://eulogikon.org/works/hierocles-stoic-fragments-pnw-ab"
 period: Roman
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hierocles the Stoic
 
-**eul_wid:** `pnw-ab` · [HTML page](https://eulogikon.org/grc/hierocles-the-stoic/fragments)
+**eul_wid:** `pnw-ab` · [HTML page](https://eulogikon.org/works/hierocles-stoic-fragments-pnw-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν ὑπαρχόντων βιβλίων μουσικ
 author: Philodemus of Gadara
 eul_wid: msu-aa
 eul_aid: msu
-canonical: "https://eulogikon.org/grc/philodemus-of-gadara/existing-music-books"
+canonical: "https://eulogikon.org/works/philodemus-gadara-existing-music-books-msu-aa"
 period: Hellenistic
 dialect: Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philodemus of Gadara
 
-**eul_wid:** `msu-aa` · [HTML page](https://eulogikon.org/grc/philodemus-of-gadara/existing-music-books)
+**eul_wid:** `msu-aa` · [HTML page](https://eulogikon.org/works/philodemus-gadara-existing-music-books-msu-aa)
 
 ## Text
 

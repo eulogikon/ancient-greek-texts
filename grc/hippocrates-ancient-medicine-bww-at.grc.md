@@ -4,7 +4,7 @@ title_greek: Περὶ ἀρχαίας ἰατρικῆς
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-at
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/ancient-medicine"
+canonical: "https://eulogikon.org/works/hippocrates-ancient-medicine-bww-at"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-at` · [HTML page](https://eulogikon.org/grc/hippocrates/ancient-medicine)
+**eul_wid:** `bww-at` · [HTML page](https://eulogikon.org/works/hippocrates-ancient-medicine-bww-at)
 
 ## Text
 

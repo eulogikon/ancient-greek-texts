@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Simus the Philosopher
 eul_wid: gcc-aa
 eul_aid: gcc
-canonical: "https://eulogikon.org/grc/simus-the-philosopher/testimonies"
+canonical: "https://eulogikon.org/works/simus-testimonies-gcc-aa"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Simus the Philosopher
 
-**eul_wid:** `gcc-aa` · [HTML page](https://eulogikon.org/grc/simus-the-philosopher/testimonies)
+**eul_wid:** `gcc-aa` · [HTML page](https://eulogikon.org/works/simus-testimonies-gcc-aa)
 
 ## Text
 

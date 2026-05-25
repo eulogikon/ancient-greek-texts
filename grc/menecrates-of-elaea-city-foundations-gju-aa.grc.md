@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Κτισμάτων Πόλεων
 author: Menecrates of Elaea
 eul_wid: gju-aa
 eul_aid: gju
-canonical: "https://eulogikon.org/grc/menecrates-of-elaea/city-foundations"
+canonical: "https://eulogikon.org/works/menecrates-elaea-city-foundations-gju-aa"
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menecrates of Elaea
 
-**eul_wid:** `gju-aa` · [HTML page](https://eulogikon.org/grc/menecrates-of-elaea/city-foundations)
+**eul_wid:** `gju-aa` · [HTML page](https://eulogikon.org/works/menecrates-elaea-city-foundations-gju-aa)
 
 ## Text
 

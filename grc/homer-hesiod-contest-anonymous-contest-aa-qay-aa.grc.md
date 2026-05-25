@@ -4,7 +4,7 @@ title_greek: Ἀγὼν Ὁμήρου καὶ Ἡσιόδου
 author: Homer and Hesiod Contets Anonymous
 eul_wid: qay-aa
 eul_aid: qay
-canonical: "https://eulogikon.org/grc/homer-hesiod-contest-anonymous/contest-aa"
+canonical: "https://eulogikon.org/works/homer-hesiod-contest-anon-contest-qay-aa"
 period: Roman
 dialect: Koine
 domain: Fiction
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Homer and Hesiod Contets Anonymous
 
-**eul_wid:** `qay-aa` · [HTML page](https://eulogikon.org/grc/homer-hesiod-contest-anonymous/contest-aa)
+**eul_wid:** `qay-aa` · [HTML page](https://eulogikon.org/works/homer-hesiod-contest-anon-contest-qay-aa)
 
 ## Text
 

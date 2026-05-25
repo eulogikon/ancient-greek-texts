@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Porphyry of Tyre
 eul_wid: udm-aw
 eul_aid: udm
-canonical: "https://eulogikon.org/grc/porphyry-of-tyre/testimonies"
+canonical: "https://eulogikon.org/works/porphyry-tyre-testimonies-udm-aw"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Porphyry of Tyre
 
-**eul_wid:** `udm-aw` · [HTML page](https://eulogikon.org/grc/porphyry-of-tyre/testimonies)
+**eul_wid:** `udm-aw` · [HTML page](https://eulogikon.org/works/porphyry-tyre-testimonies-udm-aw)
 
 ## Text
 

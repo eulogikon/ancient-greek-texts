@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Βρώσεως καὶ Λαιμα
 author: Nicophon the Comic Poet
 eul_wid: eis-aa
 eul_aid: eis
-canonical: "https://eulogikon.org/grc/nicophon-the-comic-poet/food-gluttony"
+canonical: "https://eulogikon.org/works/nicophon-food-gluttony-eis-aa"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nicophon the Comic Poet
 
-**eul_wid:** `eis-aa` · [HTML page](https://eulogikon.org/grc/nicophon-the-comic-poet/food-gluttony)
+**eul_wid:** `eis-aa` · [HTML page](https://eulogikon.org/works/nicophon-food-gluttony-eis-aa)
 
 ## Text
 

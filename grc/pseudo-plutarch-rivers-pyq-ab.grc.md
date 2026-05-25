@@ -4,7 +4,7 @@ title_greek: Περὶ ποταμῶν
 author: "Pseudo-Plutarch "
 eul_wid: pyq-ab
 eul_aid: pyq
-canonical: "https://eulogikon.org/grc/pseudo-plutarch/rivers"
+canonical: "https://eulogikon.org/works/pseudo-plutarch-rivers-pyq-ab"
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pseudo-Plutarch 
 
-**eul_wid:** `pyq-ab` · [HTML page](https://eulogikon.org/grc/pseudo-plutarch/rivers)
+**eul_wid:** `pyq-ab` · [HTML page](https://eulogikon.org/works/pseudo-plutarch-rivers-pyq-ab)
 
 ## Text
 

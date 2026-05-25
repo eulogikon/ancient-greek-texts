@@ -4,7 +4,7 @@ title_greek: Θησέως καὶ Ῥωμύλου σύγκρισις
 author: Plutarch of Chaeronea
 eul_wid: okg-bm
 eul_aid: okg
-canonical: "https://eulogikon.org/grc/plutarch-of-chaeronea/theseus-romulus"
+canonical: "https://eulogikon.org/works/plutarch-chaeronea-theseus-romulus-okg-bm"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plutarch of Chaeronea
 
-**eul_wid:** `okg-bm` · [HTML page](https://eulogikon.org/grc/plutarch-of-chaeronea/theseus-romulus)
+**eul_wid:** `okg-bm` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-theseus-romulus-okg-bm)
 
 ## Text
 

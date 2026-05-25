@@ -4,7 +4,7 @@ title_greek: Παναθηναϊκός
 author: Isocrates of Athens
 eul_wid: ffu-ay
 eul_aid: ffu
-canonical: "https://eulogikon.org/grc/isocrates-of-athens/plataikos"
+canonical: "https://eulogikon.org/works/isocrates-athens-plataikos-ffu-ay"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Isocrates of Athens
 
-**eul_wid:** `ffu-ay` · [HTML page](https://eulogikon.org/grc/isocrates-of-athens/plataikos)
+**eul_wid:** `ffu-ay` · [HTML page](https://eulogikon.org/works/isocrates-athens-plataikos-ffu-ay)
 
 ## Text
 

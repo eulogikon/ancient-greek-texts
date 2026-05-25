@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Phaedimus of Bisanthe
 eul_wid: jro-aa
 eul_aid: jro
-canonical: "https://eulogikon.org/grc/phaedimus-of-bisanthe/epigrams"
+canonical: "https://eulogikon.org/works/phaedimus-bisanthe-epigrams-jro-aa"
 period: Hellenistic
 dialect: Koine
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Phaedimus of Bisanthe
 
-**eul_wid:** `jro-aa` · [HTML page](https://eulogikon.org/grc/phaedimus-of-bisanthe/epigrams)
+**eul_wid:** `jro-aa` · [HTML page](https://eulogikon.org/works/phaedimus-bisanthe-epigrams-jro-aa)
 
 ## Text
 

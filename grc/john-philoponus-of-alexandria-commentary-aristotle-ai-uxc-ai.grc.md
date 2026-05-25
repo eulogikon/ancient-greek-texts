@@ -4,7 +4,7 @@ title_greek: Σχόλια εἰς τὰς κατηγορίας Ἀριστοτέ
 author: John Philoponus of Alexandria
 eul_wid: uxc-ai
 eul_aid: uxc
-canonical: "https://eulogikon.org/grc/john-philoponus-of-alexandria/commentary-aristotle-ai"
+canonical: "https://eulogikon.org/works/john-philoponus-alexandria-commentary-aristotle-uxc-ai"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** John Philoponus of Alexandria
 
-**eul_wid:** `uxc-ai` · [HTML page](https://eulogikon.org/grc/john-philoponus-of-alexandria/commentary-aristotle-ai)
+**eul_wid:** `uxc-ai` · [HTML page](https://eulogikon.org/works/john-philoponus-alexandria-commentary-aristotle-uxc-ai)
 
 ## Text
 

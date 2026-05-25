@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Scythinus of Teos I
 eul_wid: has-aa
 eul_aid: has
-canonical: "https://eulogikon.org/grc/scythinus-of-teos-i/epigrams"
+canonical: "https://eulogikon.org/works/scythinus-teos-epigrams-has-aa"
 period: Classical
 dialect: Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Scythinus of Teos I
 
-**eul_wid:** `has-aa` · [HTML page](https://eulogikon.org/grc/scythinus-of-teos-i/epigrams)
+**eul_wid:** `has-aa` · [HTML page](https://eulogikon.org/works/scythinus-teos-epigrams-has-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ ἀπαθείας
 author: Teles of Megara
 eul_wid: kkk-ag
 eul_aid: kkk
-canonical: "https://eulogikon.org/grc/teles-of-megara/impassibility"
+canonical: "https://eulogikon.org/works/teles-megara-impassibility-kkk-ag"
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Teles of Megara
 
-**eul_wid:** `kkk-ag` · [HTML page](https://eulogikon.org/grc/teles-of-megara/impassibility)
+**eul_wid:** `kkk-ag` · [HTML page](https://eulogikon.org/works/teles-megara-impassibility-kkk-ag)
 
 ## Text
 

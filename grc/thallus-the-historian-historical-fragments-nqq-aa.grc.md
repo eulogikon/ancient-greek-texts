@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Κρόνου
 author: Thallus the Historian
 eul_wid: nqq-aa
 eul_aid: nqq
-canonical: "https://eulogikon.org/grc/thallus-the-historian/historical-fragments"
+canonical: "https://eulogikon.org/works/thallus-historical-fragments-nqq-aa"
 period: Roman
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Thallus the Historian
 
-**eul_wid:** `nqq-aa` · [HTML page](https://eulogikon.org/grc/thallus-the-historian/historical-fragments)
+**eul_wid:** `nqq-aa` · [HTML page](https://eulogikon.org/works/thallus-historical-fragments-nqq-aa)
 
 ## Text
 

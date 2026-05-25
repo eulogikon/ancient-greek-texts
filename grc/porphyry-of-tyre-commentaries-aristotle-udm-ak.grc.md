@@ -4,7 +4,7 @@ title_greek: Ὑπομνήματα εἰς Ἀριστοτέλην Ἑλληνι
 author: Porphyry of Tyre
 eul_wid: udm-ak
 eul_aid: udm
-canonical: "https://eulogikon.org/grc/porphyry-of-tyre/commentaries-aristotle"
+canonical: "https://eulogikon.org/works/porphyry-tyre-commentaries-aristotle-udm-ak"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Porphyry of Tyre
 
-**eul_wid:** `udm-ak` · [HTML page](https://eulogikon.org/grc/porphyry-of-tyre/commentaries-aristotle)
+**eul_wid:** `udm-ak` · [HTML page](https://eulogikon.org/works/porphyry-tyre-commentaries-aristotle-udm-ak)
 
 ## Text
 

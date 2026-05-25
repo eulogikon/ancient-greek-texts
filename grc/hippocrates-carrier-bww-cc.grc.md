@@ -4,7 +4,7 @@ title_greek: Φορεύς
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-cc
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/carrier"
+canonical: "https://eulogikon.org/works/hippocrates-carrier-bww-cc"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-cc` · [HTML page](https://eulogikon.org/grc/hippocrates/carrier)
+**eul_wid:** `bww-cc` · [HTML page](https://eulogikon.org/works/hippocrates-carrier-bww-cc)
 
 ## Text
 

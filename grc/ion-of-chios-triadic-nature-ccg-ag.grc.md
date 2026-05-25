@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Ion of Chios
 eul_wid: ccg-ag
 eul_aid: ccg
-canonical: "https://eulogikon.org/grc/ion-of-chios/triadic-nature"
+canonical: "https://eulogikon.org/works/ion-chios-triadic-nature-ccg-ag"
 period: Classical
 dialect: Ionic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ion of Chios
 
-**eul_wid:** `ccg-ag` · [HTML page](https://eulogikon.org/grc/ion-of-chios/triadic-nature)
+**eul_wid:** `ccg-ag` · [HTML page](https://eulogikon.org/works/ion-chios-triadic-nature-ccg-ag)
 
 ## Text
 

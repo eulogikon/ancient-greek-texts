@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Strabo of Amasia
 eul_wid: nck-ab
 eul_aid: nck
-canonical: "https://eulogikon.org/grc/strabo-of-amasia/testimonies"
+canonical: "https://eulogikon.org/works/strabo-amasia-testimonies-nck-ab"
 period: Hellenistic
 dialect: Koine
 domain: Geography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Strabo of Amasia
 
-**eul_wid:** `nck-ab` · [HTML page](https://eulogikon.org/grc/strabo-of-amasia/testimonies)
+**eul_wid:** `nck-ab` · [HTML page](https://eulogikon.org/works/strabo-amasia-testimonies-nck-ab)
 
 ## Text
 

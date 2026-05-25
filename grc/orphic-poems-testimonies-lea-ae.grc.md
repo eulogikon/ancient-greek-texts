@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: "Orphic Poems "
 eul_wid: lea-ae
 eul_aid: lea
-canonical: "https://eulogikon.org/grc/orphic-poems/testimonies"
+canonical: "https://eulogikon.org/works/orphic-poems-testimonies-lea-ae"
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Orphic Poems 
 
-**eul_wid:** `lea-ae` · [HTML page](https://eulogikon.org/grc/orphic-poems/testimonies)
+**eul_wid:** `lea-ae` · [HTML page](https://eulogikon.org/works/orphic-poems-testimonies-lea-ae)
 
 ## Text
 

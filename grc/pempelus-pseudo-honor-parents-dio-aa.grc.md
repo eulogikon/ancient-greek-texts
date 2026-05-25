@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Pempelus Pseudo
 eul_wid: dio-aa
 eul_aid: dio
-canonical: "https://eulogikon.org/grc/pempelus-pseudo/honor-parents"
+canonical: "https://eulogikon.org/works/pempelus-honor-parents-dio-aa"
 period: Classical
 dialect: Mixed Dialects (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pempelus Pseudo
 
-**eul_wid:** `dio-aa` · [HTML page](https://eulogikon.org/grc/pempelus-pseudo/honor-parents)
+**eul_wid:** `dio-aa` · [HTML page](https://eulogikon.org/works/pempelus-honor-parents-dio-aa)
 
 ## Text
 

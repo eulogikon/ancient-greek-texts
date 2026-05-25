@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν ὑποστάτων καὶ τῶν δʹ σωμά
 author: Zosimus of Panopolis
 eul_wid: tyc-af
 eul_aid: tyc
-canonical: "https://eulogikon.org/grc/zosimus-of-panopolis/substances-four-bodies"
+canonical: "https://eulogikon.org/works/zosimus-panopolis-substances-four-bodies-tyc-af"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Zosimus of Panopolis
 
-**eul_wid:** `tyc-af` · [HTML page](https://eulogikon.org/grc/zosimus-of-panopolis/substances-four-bodies)
+**eul_wid:** `tyc-af` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-substances-four-bodies-tyc-af)
 
 ## Text
 

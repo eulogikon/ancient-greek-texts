@@ -4,7 +4,7 @@ title_greek: Πρὸς Φλώραν Ἐπιστολή
 author: Ptolemy the Gnostic
 eul_wid: ppa-aa
 eul_aid: ppa
-canonical: "https://eulogikon.org/grc/ptolemy-the-gnostic/flora"
+canonical: "https://eulogikon.org/works/ptolemy-gnostic-flora-ppa-aa"
 period: Roman
 dialect: Christian Koine
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ptolemy the Gnostic
 
-**eul_wid:** `ppa-aa` · [HTML page](https://eulogikon.org/grc/ptolemy-the-gnostic/flora)
+**eul_wid:** `ppa-aa` · [HTML page](https://eulogikon.org/works/ptolemy-gnostic-flora-ppa-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Χίου
 author: Hypermenes the Historian
 eul_wid: puu-aa
 eul_aid: puu
-canonical: "https://eulogikon.org/grc/hypermenes-the-historian/chios-fragments"
+canonical: "https://eulogikon.org/works/hypermenes-chios-fragments-puu-aa"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hypermenes the Historian
 
-**eul_wid:** `puu-aa` · [HTML page](https://eulogikon.org/grc/hypermenes-the-historian/chios-fragments)
+**eul_wid:** `puu-aa` · [HTML page](https://eulogikon.org/works/hypermenes-chios-fragments-puu-aa)
 
 ## Text
 

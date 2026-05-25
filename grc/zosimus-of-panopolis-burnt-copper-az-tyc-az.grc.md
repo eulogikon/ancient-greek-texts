@@ -4,7 +4,7 @@ title_greek: Περὶ διαφορᾶς χαλκοῦ κεκαυμένου
 author: Zosimus of Panopolis
 eul_wid: tyc-az
 eul_aid: tyc
-canonical: "https://eulogikon.org/grc/zosimus-of-panopolis/burnt-copper-az"
+canonical: "https://eulogikon.org/works/zosimus-panopolis-burnt-copper-tyc-az"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Zosimus of Panopolis
 
-**eul_wid:** `tyc-az` · [HTML page](https://eulogikon.org/grc/zosimus-of-panopolis/burnt-copper-az)
+**eul_wid:** `tyc-az` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-burnt-copper-tyc-az)
 
 ## Text
 

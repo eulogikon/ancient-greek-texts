@@ -4,7 +4,7 @@ title_greek: Περὶ φύσεως ἀνθρώπου
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-as
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/nature-man"
+canonical: "https://eulogikon.org/works/hippocrates-nature-man-bww-as"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-as` · [HTML page](https://eulogikon.org/grc/hippocrates/nature-man)
+**eul_wid:** `bww-as` · [HTML page](https://eulogikon.org/works/hippocrates-nature-man-bww-as)
 
 ## Text
 

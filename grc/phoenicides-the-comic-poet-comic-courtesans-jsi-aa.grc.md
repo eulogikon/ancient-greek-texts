@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Ἑταιρῶν Κωμικῶν
 author: Phoenicides the Comic Poet
 eul_wid: jsi-aa
 eul_aid: jsi
-canonical: "https://eulogikon.org/grc/phoenicides-the-comic-poet/comic-courtesans"
+canonical: "https://eulogikon.org/works/phoenicides-comic-courtesans-jsi-aa"
 period: Hellenistic
 dialect: Koine
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Phoenicides the Comic Poet
 
-**eul_wid:** `jsi-aa` · [HTML page](https://eulogikon.org/grc/phoenicides-the-comic-poet/comic-courtesans)
+**eul_wid:** `jsi-aa` · [HTML page](https://eulogikon.org/works/phoenicides-comic-courtesans-jsi-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Καθαρσίων
 author: Sophron of Syracuse
 eul_wid: dru-ab
 eul_aid: dru
-canonical: "https://eulogikon.org/grc/sophron-of-syracuse/purification-rituals"
+canonical: "https://eulogikon.org/works/sophron-syracuse-purification-rituals-dru-ab"
 period: Classical
 dialect: Doric (frg)
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sophron of Syracuse
 
-**eul_wid:** `dru-ab` · [HTML page](https://eulogikon.org/grc/sophron-of-syracuse/purification-rituals)
+**eul_wid:** `dru-ab` · [HTML page](https://eulogikon.org/works/sophron-syracuse-purification-rituals-dru-ab)
 
 ## Text
 

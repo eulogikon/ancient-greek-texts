@@ -4,7 +4,7 @@ title_greek: Προτρεπτικὸς Α
 author: Lesbonax of Mytilene
 eul_wid: mbw-aa
 eul_aid: mbw
-canonical: "https://eulogikon.org/grc/lesbonax-the-rhetorician/exhortation"
+canonical: "https://eulogikon.org/works/lesbonax-mytilene-exhortation-mbw-aa"
 period: Hellenistic
 dialect: Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lesbonax of Mytilene
 
-**eul_wid:** `mbw-aa` · [HTML page](https://eulogikon.org/grc/lesbonax-the-rhetorician/exhortation)
+**eul_wid:** `mbw-aa` · [HTML page](https://eulogikon.org/works/lesbonax-mytilene-exhortation-mbw-aa)
 
 ## Text
 

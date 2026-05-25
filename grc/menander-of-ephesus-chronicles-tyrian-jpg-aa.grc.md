@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Menander of Ephesus
 eul_wid: jpg-aa
 eul_aid: jpg
-canonical: "https://eulogikon.org/grc/menander-of-ephesus/chronicles-tyrian"
+canonical: "https://eulogikon.org/works/menander-ephesus-chronicles-tyrian-jpg-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander of Ephesus
 
-**eul_wid:** `jpg-aa` · [HTML page](https://eulogikon.org/grc/menander-of-ephesus/chronicles-tyrian)
+**eul_wid:** `jpg-aa` · [HTML page](https://eulogikon.org/works/menander-ephesus-chronicles-tyrian-jpg-aa)
 
 ## Text
 

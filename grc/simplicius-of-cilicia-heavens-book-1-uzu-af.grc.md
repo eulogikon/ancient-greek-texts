@@ -4,7 +4,7 @@ title_greek: "Περὶ οὐρανοῦ, Βιβλίον Αʹ"
 author: Simplicius of Cilicia
 eul_wid: uzu-af
 eul_aid: uzu
-canonical: "https://eulogikon.org/grc/simplicius-of-cilicia/heavens-book-1"
+canonical: "https://eulogikon.org/works/simplicius-cilicia-heavens-book-1-uzu-af"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Simplicius of Cilicia
 
-**eul_wid:** `uzu-af` · [HTML page](https://eulogikon.org/grc/simplicius-of-cilicia/heavens-book-1)
+**eul_wid:** `uzu-af` · [HTML page](https://eulogikon.org/works/simplicius-cilicia-heavens-book-1-uzu-af)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Leucippus the Atomist
 eul_wid: dra-aa
 eul_aid: dra
-canonical: "https://eulogikon.org/grc/leucippus-the-atomist/testimonies"
+canonical: "https://eulogikon.org/works/leucippus-testimonies-dra-aa"
 period: Classical
 dialect: Ionic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Leucippus the Atomist
 
-**eul_wid:** `dra-aa` · [HTML page](https://eulogikon.org/grc/leucippus-the-atomist/testimonies)
+**eul_wid:** `dra-aa` · [HTML page](https://eulogikon.org/works/leucippus-testimonies-dra-aa)
 
 ## Text
 

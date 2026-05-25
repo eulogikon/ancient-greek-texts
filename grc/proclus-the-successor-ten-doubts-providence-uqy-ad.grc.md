@@ -4,7 +4,7 @@ title_greek: Περὶ δέκα ἀποριῶν περὶ προνοίας
 author: Proclus the Successor
 eul_wid: uqy-ad
 eul_aid: uqy
-canonical: "https://eulogikon.org/grc/proclus-the-successor/ten-doubts-providence"
+canonical: "https://eulogikon.org/works/proclus-ten-doubts-providence-uqy-ad"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Proclus the Successor
 
-**eul_wid:** `uqy-ad` · [HTML page](https://eulogikon.org/grc/proclus-the-successor/ten-doubts-providence)
+**eul_wid:** `uqy-ad` · [HTML page](https://eulogikon.org/works/proclus-ten-doubts-providence-uqy-ad)
 
 ## Text
 

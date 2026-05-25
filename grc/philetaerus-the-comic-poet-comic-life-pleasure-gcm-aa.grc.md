@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Βίου καὶ Ἡδονῆς
 author: Philetaerus the Comic Poet
 eul_wid: gcm-aa
 eul_aid: gcm
-canonical: "https://eulogikon.org/grc/philetaerus-the-comic-poet/comic-life-pleasure"
+canonical: "https://eulogikon.org/works/philetaerus-comic-life-pleasure-gcm-aa"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philetaerus the Comic Poet
 
-**eul_wid:** `gcm-aa` · [HTML page](https://eulogikon.org/grc/philetaerus-the-comic-poet/comic-life-pleasure)
+**eul_wid:** `gcm-aa` · [HTML page](https://eulogikon.org/works/philetaerus-comic-life-pleasure-gcm-aa)
 
 ## Text
 

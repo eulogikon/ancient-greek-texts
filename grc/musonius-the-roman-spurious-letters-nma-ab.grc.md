@@ -4,7 +4,7 @@ title_greek: Νόθαι Ἐπιστολαί
 author: Musonius the Roman
 eul_wid: nma-ab
 eul_aid: nma
-canonical: "https://eulogikon.org/grc/musonius-the-roman/spurious-letters"
+canonical: "https://eulogikon.org/works/musonius-roman-spurious-letters-nma-ab"
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Musonius the Roman
 
-**eul_wid:** `nma-ab` · [HTML page](https://eulogikon.org/grc/musonius-the-roman/spurious-letters)
+**eul_wid:** `nma-ab` · [HTML page](https://eulogikon.org/works/musonius-roman-spurious-letters-nma-ab)
 
 ## Text
 

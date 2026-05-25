@@ -4,7 +4,7 @@ title_greek: Περὶ λίθων
 author: Pseudo-Dioscorides
 eul_wid: nys-ac
 eul_aid: nys
-canonical: "https://eulogikon.org/grc/pseudo-dioscorides/stones"
+canonical: "https://eulogikon.org/works/pseudo-dioscorides-stones-nys-ac"
 period: Roman
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pseudo-Dioscorides
 
-**eul_wid:** `nys-ac` · [HTML page](https://eulogikon.org/grc/pseudo-dioscorides/stones)
+**eul_wid:** `nys-ac` · [HTML page](https://eulogikon.org/works/pseudo-dioscorides-stones-nys-ac)
 
 ## Text
 

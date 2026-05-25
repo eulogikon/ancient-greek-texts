@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Μελετῶν
 author: Libanius of Antioch
 eul_wid: swk-ad
 eul_aid: swk
-canonical: "https://eulogikon.org/grc/libanius-of-antioch/declamations-ad"
+canonical: "https://eulogikon.org/works/libanius-antioch-declamations-swk-ad"
 period: Late Antique
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Libanius of Antioch
 
-**eul_wid:** `swk-ad` · [HTML page](https://eulogikon.org/grc/libanius-of-antioch/declamations-ad)
+**eul_wid:** `swk-ad` · [HTML page](https://eulogikon.org/works/libanius-antioch-declamations-swk-ad)
 
 ## Text
 

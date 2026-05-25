@@ -4,7 +4,7 @@ title_greek: Περὶ Ἁννίβα
 author: Historical Fragments  Anonymous
 eul_wid: mmg-bi
 eul_aid: mmg
-canonical: "https://eulogikon.org/grc/historical-fragments-anonymous/hannibal"
+canonical: "https://eulogikon.org/works/anon-hist-frag-hannibal-mmg-bi"
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Historical Fragments  Anonymous
 
-**eul_wid:** `mmg-bi` · [HTML page](https://eulogikon.org/grc/historical-fragments-anonymous/hannibal)
+**eul_wid:** `mmg-bi` · [HTML page](https://eulogikon.org/works/anon-hist-frag-hannibal-mmg-bi)
 
 ## Text
 

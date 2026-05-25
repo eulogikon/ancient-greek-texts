@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Philiscus of Athens
 eul_wid: gcw-aa
 eul_aid: gcw
-canonical: "https://eulogikon.org/grc/philiscus-of-athens/aphorisms"
+canonical: "https://eulogikon.org/works/philiscus-athens-aphorisms-gcw-aa"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philiscus of Athens
 
-**eul_wid:** `gcw-aa` · [HTML page](https://eulogikon.org/grc/philiscus-of-athens/aphorisms)
+**eul_wid:** `gcw-aa` · [HTML page](https://eulogikon.org/works/philiscus-athens-aphorisms-gcw-aa)
 
 ## Text
 

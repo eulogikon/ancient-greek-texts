@@ -4,7 +4,7 @@ title_greek: Ἐπιμερισμοί
 author: Herodian of Alexandria
 eul_wid: qnq-ae
 eul_aid: qnq
-canonical: "https://eulogikon.org/grc/herodian-of-alexandria/paris-codices"
+canonical: "https://eulogikon.org/works/herodian-alexandria-paris-codices-qnq-ae"
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Herodian of Alexandria
 
-**eul_wid:** `qnq-ae` · [HTML page](https://eulogikon.org/grc/herodian-of-alexandria/paris-codices)
+**eul_wid:** `qnq-ae` · [HTML page](https://eulogikon.org/works/herodian-alexandria-paris-codices-qnq-ae)
 
 ## Text
 

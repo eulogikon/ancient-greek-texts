@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Pratinas of Phlius
 eul_wid: bmc-ab
 eul_aid: bmc
-canonical: "https://eulogikon.org/grc/pratinas-of-phlius/dithyramb-dance"
+canonical: "https://eulogikon.org/works/pratinas-phlius-dithyramb-dance-bmc-ab"
 period: Archaic
 dialect: Doric (frg)
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pratinas of Phlius
 
-**eul_wid:** `bmc-ab` · [HTML page](https://eulogikon.org/grc/pratinas-of-phlius/dithyramb-dance)
+**eul_wid:** `bmc-ab` · [HTML page](https://eulogikon.org/works/pratinas-phlius-dithyramb-dance-bmc-ab)
 
 ## Text
 

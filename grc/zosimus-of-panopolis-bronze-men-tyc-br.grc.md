@@ -4,7 +4,7 @@ title_greek: περὶ χαλκανθρώπων
 author: Zosimus of Panopolis
 eul_wid: tyc-br
 eul_aid: tyc
-canonical: "https://eulogikon.org/grc/zosimus-of-panopolis/bronze-men"
+canonical: "https://eulogikon.org/works/zosimus-panopolis-bronze-men-tyc-br"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Zosimus of Panopolis
 
-**eul_wid:** `tyc-br` · [HTML page](https://eulogikon.org/grc/zosimus-of-panopolis/bronze-men)
+**eul_wid:** `tyc-br` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-bronze-men-tyc-br)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Διπλοῦς Ἀπατεών
 author: Menander of Athens
 eul_wid: hps-ar
 eul_aid: hps
-canonical: "https://eulogikon.org/grc/menander-of-athens/double-deceiver-ar"
+canonical: "https://eulogikon.org/works/menander-athens-double-deceiver-hps-ar"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander of Athens
 
-**eul_wid:** `hps-ar` · [HTML page](https://eulogikon.org/grc/menander-of-athens/double-deceiver-ar)
+**eul_wid:** `hps-ar` · [HTML page](https://eulogikon.org/works/menander-athens-double-deceiver-hps-ar)
 
 ## Text
 
@@ -32,11 +32,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 11.2
 
-[ ]ν̣, νουθέτει δ’ ἐναν[τίον
+[ ]ν, νουθέτει δ’ ἐναν[τίον
 
 ### 11.3
 
-αὐτόν τε σῶσον, οἰκίαν θ̣’ ὅ̣λην φί̣λ̣ω̣ν̣.
+αὐτόν τε σῶσον, οἰκίαν θ’ ὅλην φίλων.
 
 ### 11.4
 
@@ -56,7 +56,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 15.2
 
-χρῆσαι πικρῶς, ἔλαυν’ ἐκεῖνον τὸν ἀ̣κ̣ρα[τῆ.
+χρῆσαι πικρῶς, ἔλαυν’ ἐκεῖνον τὸν ἀκρα[τῆ.
 
 ### 15.3
 
@@ -88,7 +88,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 20.4
 
-κακὴ κακῶς τοίνυν—ἐ[π]ά̣ν̣[αγε, Σ]ώστρατε·
+κακὴ κακῶς τοίνυν—ἐ[π]άν[αγε, Σ]ώστρατε·
 
 ### 20.5
 
@@ -104,7 +104,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 25.3
 
-τὸ χ]ρ̣υ̣σίον· πιθαν[ευομέν]η γὰρ παύσεται
+τὸ χ]ρυσίον· πιθαν[ευομέν]η γὰρ παύσεται
 
 ### 25.4
 
@@ -136,7 +136,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 47.5
 
-(Σω) [ π]αρ’ [ἡ]μῶν· μὴ πρόσεχ’ ἐκείνωι λόγ̣ω̣ι̣.
+(Σω) [ π]αρ’ [ἡ]μῶν· μὴ πρόσεχ’ ἐκείνωι λόγωι.
 
 ### 47.6
 
@@ -156,7 +156,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 57.1
 
-(Σ.π) χρηστὸ̣ς̣ σφόδρα·
+(Σ.π) χρηστὸς σφόδρα·
 
 ### 57.2
 
@@ -184,7 +184,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 60.3
 
-ὡς̣ [δεῖ] κέχρησαι· πρὶν λαβεῖν μάχομαί τι σοι;
+ὡς [δεῖ] κέχρησαι· πρὶν λαβεῖν μάχομαί τι σοι;
 
 ### 60.4
 
@@ -212,11 +212,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 90.2
 
-Σω κα]ὶ̣ μ̣[ὴν δο]κῶ μοι τὴν καλήν τε κἀγαθὴν
+Σω κα]ὶ μ[ὴν δο]κῶ μοι τὴν καλήν τε κἀγαθὴν
 
 ### 90.3
 
-ἰδεῖν ἐρωμένην ἂν ἡ̣δ̣[έ]ως̣ κενὸς
+ἰδεῖν ἐρωμένην ἂν ἡδ[έ]ως κενὸς
 
 ### 90.4
 
@@ -280,7 +280,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 105.3
 
-(Μο) εἶτ̣’ οὐ [λέ]γεις;
+(Μο) εἶτ’ οὐ [λέ]γεις;
 
 ### 107
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Σάτιρας Φιλοσόφου
 author: Theognetus the Comic Poet
 eul_wid: jjw-ab
 eul_aid: jjw
-canonical: "https://eulogikon.org/grc/theognetus-the-comic-poet/philosophical-satire"
+canonical: "https://eulogikon.org/works/theognetus-philosophical-satire-jjw-ab"
 period: Hellenistic
 dialect: Koine (frg)
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theognetus the Comic Poet
 
-**eul_wid:** `jjw-ab` · [HTML page](https://eulogikon.org/grc/theognetus-the-comic-poet/philosophical-satire)
+**eul_wid:** `jjw-ab` · [HTML page](https://eulogikon.org/works/theognetus-philosophical-satire-jjw-ab)
 
 ## Text
 

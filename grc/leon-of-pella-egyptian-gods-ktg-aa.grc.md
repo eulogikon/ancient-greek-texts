@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Leon of Pella
 eul_wid: ktg-aa
 eul_aid: ktg
-canonical: "https://eulogikon.org/grc/leon-of-pella/egyptian-gods"
+canonical: "https://eulogikon.org/works/leon-pella-egyptian-gods-ktg-aa"
 period: Hellenistic
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Leon of Pella
 
-**eul_wid:** `ktg-aa` · [HTML page](https://eulogikon.org/grc/leon-of-pella/egyptian-gods)
+**eul_wid:** `ktg-aa` · [HTML page](https://eulogikon.org/works/leon-pella-egyptian-gods-ktg-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Pythermus of Ephesus
 eul_wid: age-aa
 eul_aid: age
-canonical: "https://eulogikon.org/grc/pythermus-of-ephesus/historical-fragments"
+canonical: "https://eulogikon.org/works/pythermus-ephesus-historical-fragments-age-aa"
 period: Archaic
 dialect: Ionic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pythermus of Ephesus
 
-**eul_wid:** `age-aa` · [HTML page](https://eulogikon.org/grc/pythermus-of-ephesus/historical-fragments)
+**eul_wid:** `age-aa` · [HTML page](https://eulogikon.org/works/pythermus-ephesus-historical-fragments-age-aa)
 
 ## Text
 

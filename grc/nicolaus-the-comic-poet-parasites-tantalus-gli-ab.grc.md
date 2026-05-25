@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Nicolaus the Comic Poet
 eul_wid: gli-ab
 eul_aid: gli
-canonical: "https://eulogikon.org/grc/nicolaus-the-comic-poet/parasites-tantalus"
+canonical: "https://eulogikon.org/works/nicolaus-comic-parasites-tantalus-gli-ab"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nicolaus the Comic Poet
 
-**eul_wid:** `gli-ab` · [HTML page](https://eulogikon.org/grc/nicolaus-the-comic-poet/parasites-tantalus)
+**eul_wid:** `gli-ab` · [HTML page](https://eulogikon.org/works/nicolaus-comic-parasites-tantalus-gli-ab)
 
 ## Text
 

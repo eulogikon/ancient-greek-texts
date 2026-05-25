@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Parmeniscus the Philosopher
 eul_wid: lay-aa
 eul_aid: lay
-canonical: "https://eulogikon.org/grc/parmeniscus-the-philosopher/testimonies"
+canonical: "https://eulogikon.org/works/parmeniscus-testimonies-lay-aa"
 period: Hellenistic
 dialect: Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Parmeniscus the Philosopher
 
-**eul_wid:** `lay-aa` · [HTML page](https://eulogikon.org/grc/parmeniscus-the-philosopher/testimonies)
+**eul_wid:** `lay-aa` · [HTML page](https://eulogikon.org/works/parmeniscus-testimonies-lay-aa)
 
 ## Text
 

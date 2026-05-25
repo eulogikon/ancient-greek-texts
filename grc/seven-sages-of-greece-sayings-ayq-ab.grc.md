@@ -4,7 +4,7 @@ title_greek: Γνῶμαι Πλειόνων Συγγραφέων
 author: Seven Sages of Greece
 eul_wid: ayq-ab
 eul_aid: ayq
-canonical: "https://eulogikon.org/grc/seven-sages-of-greece/sayings"
+canonical: "https://eulogikon.org/works/seven-sages-sayings-ayq-ab"
 period: Archaic
 dialect: Mixed Dialects
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Seven Sages of Greece
 
-**eul_wid:** `ayq-ab` · [HTML page](https://eulogikon.org/grc/seven-sages-of-greece/sayings)
+**eul_wid:** `ayq-ab` · [HTML page](https://eulogikon.org/works/seven-sages-sayings-ayq-ab)
 
 ## Text
 

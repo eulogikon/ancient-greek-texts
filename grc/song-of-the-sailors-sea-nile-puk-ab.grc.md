@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Θαλάσσης καὶ Νείλ
 author: Song of the Sailors
 eul_wid: puk-ab
 eul_aid: puk
-canonical: "https://eulogikon.org/grc/song-of-the-sailors/sea-nile"
+canonical: "https://eulogikon.org/works/song-sailors-sea-nile-puk-ab"
 period: Roman
 dialect: Koine
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Song of the Sailors
 
-**eul_wid:** `puk-ab` · [HTML page](https://eulogikon.org/grc/song-of-the-sailors/sea-nile)
+**eul_wid:** `puk-ab` · [HTML page](https://eulogikon.org/works/song-sailors-sea-nile-puk-ab)
 
 ## Text
 

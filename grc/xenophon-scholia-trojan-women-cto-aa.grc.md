@@ -4,7 +4,7 @@ title_greek: Σχόλια εἰς Εὐριπίδου Τρωάδας
 author: Xenophon Scholia
 eul_wid: cto-aa
 eul_aid: cto
-canonical: "https://eulogikon.org/grc/xenophon-scholia/trojan-women"
+canonical: "https://eulogikon.org/works/xenophon-scholia-trojan-women-cto-aa"
 period: Classical
 dialect: Mixed Dialects
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Xenophon Scholia
 
-**eul_wid:** `cto-aa` · [HTML page](https://eulogikon.org/grc/xenophon-scholia/trojan-women)
+**eul_wid:** `cto-aa` · [HTML page](https://eulogikon.org/works/xenophon-scholia-trojan-women-cto-aa)
 
 ## Text
 

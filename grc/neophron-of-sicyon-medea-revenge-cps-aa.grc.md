@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Neophron of Sicyon
 eul_wid: cps-aa
 eul_aid: cps
-canonical: "https://eulogikon.org/grc/neophron-of-sicyon/medea-revenge"
+canonical: "https://eulogikon.org/works/neophron-sicyon-medea-revenge-cps-aa"
 period: Classical
 dialect: "Attic (dr, frg)"
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Neophron of Sicyon
 
-**eul_wid:** `cps-aa` · [HTML page](https://eulogikon.org/grc/neophron-of-sicyon/medea-revenge)
+**eul_wid:** `cps-aa` · [HTML page](https://eulogikon.org/works/neophron-sicyon-medea-revenge-cps-aa)
 
 ## Text
 

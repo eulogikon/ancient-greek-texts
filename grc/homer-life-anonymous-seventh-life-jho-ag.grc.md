@@ -4,7 +4,7 @@ title_greek: Ἕβδομος Βίος
 author: Homer Life-anonymous
 eul_wid: jho-ag
 eul_aid: jho
-canonical: "https://eulogikon.org/grc/homer-life-anonymous/seventh-life"
+canonical: "https://eulogikon.org/works/homer-seventh-life-jho-ag"
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Homer Life-anonymous
 
-**eul_wid:** `jho-ag` · [HTML page](https://eulogikon.org/grc/homer-life-anonymous/seventh-life)
+**eul_wid:** `jho-ag` · [HTML page](https://eulogikon.org/works/homer-seventh-life-jho-ag)
 
 ## Text
 

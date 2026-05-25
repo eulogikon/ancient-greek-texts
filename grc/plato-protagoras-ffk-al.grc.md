@@ -4,7 +4,7 @@ title_greek: Πρωταγόρας
 author: Plato of Athens
 eul_wid: ffk-al
 eul_aid: ffk
-canonical: "https://eulogikon.org/grc/plato/protagoras"
+canonical: "https://eulogikon.org/works/plato-protagoras-ffk-al"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plato of Athens
 
-**eul_wid:** `ffk-al` · [HTML page](https://eulogikon.org/grc/plato/protagoras)
+**eul_wid:** `ffk-al` · [HTML page](https://eulogikon.org/works/plato-protagoras-ffk-al)
 
 ## Text
 

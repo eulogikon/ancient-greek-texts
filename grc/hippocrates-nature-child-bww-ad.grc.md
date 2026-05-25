@@ -4,7 +4,7 @@ title_greek: Περὶ τῆς φύσεως τοῦ παιδίου
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-ad
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/nature-child"
+canonical: "https://eulogikon.org/works/hippocrates-nature-child-bww-ad"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-ad` · [HTML page](https://eulogikon.org/grc/hippocrates/nature-child)
+**eul_wid:** `bww-ad` · [HTML page](https://eulogikon.org/works/hippocrates-nature-child-bww-ad)
 
 ## Text
 

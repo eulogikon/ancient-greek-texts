@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Rhianus of Crete
 eul_wid: izm-aa
 eul_aid: izm
-canonical: "https://eulogikon.org/grc/rhianus-of-crete/testimonies"
+canonical: "https://eulogikon.org/works/rhianus-crete-testimonies-izm-aa"
 period: Hellenistic
 dialect: Koine
 domain: Epic
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Rhianus of Crete
 
-**eul_wid:** `izm-aa` · [HTML page](https://eulogikon.org/grc/rhianus-of-crete/testimonies)
+**eul_wid:** `izm-aa` · [HTML page](https://eulogikon.org/works/rhianus-crete-testimonies-izm-aa)
 
 ## Text
 
 ### 3a,265,T 1a
 
-SUDA s. Ῥιανός· ὁ καὶ Κρής (F 45), ὢν Βηναῖος (F 42)· Βήνη δὲ πόλις Κρήτης. τινὲς δὲ Κεραίτην, ἄλλοι δὲ Ἰθώμης τῆς Μεσσήνης αὐτὸν ἱστόρησαν. οὗτος δὲ ἦν τῆς παλαίστρας πρότερον φύλαξ καὶ δοῦλος, ὕστερον δὲ παιδευθεὶς ἐγένετο γραμματικός. σύγχρονος Ἐρατοσθένους. ἔγραψεν ἐμμέτρως †ποιήματα, Ἡρακλειάδα ἐν βιβλίοις 〈ι〉δ .
+SUDA s. Ῥιανός· ὁ καὶ Κρής (F 45), ὢν Βηναῖος (F 42)· Βήνη δὲ πόλις Κρήτης. τινὲς δὲ Κεραίτην, ἄλλοι δὲ Ἰθώμης τῆς Μεσσήνης αὐτὸν ἱστόρησαν. οὗτος δὲ ἦν τῆς παλαίστρας πρότερον φύλαξ καὶ δοῦλος, ὕστερον δὲ παιδευθεὶς ἐγένετο γραμματικός. σύγχρονος Ἐρατοσθένους. ἔγραψεν ἐμμέτρως ποιήματα, Ἡρακλειάδα ἐν βιβλίοις 〈ι〉δ .
 
 ### 3a,265,T 1b
 

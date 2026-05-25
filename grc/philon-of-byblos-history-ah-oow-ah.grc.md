@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Philon of Byblos
 eul_wid: oow-ah
 eul_aid: oow
-canonical: "https://eulogikon.org/grc/philon-of-byblos/history-ah"
+canonical: "https://eulogikon.org/works/philon-byblos-history-oow-ah"
 period: Roman
 dialect: Koine (frg)
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philon of Byblos
 
-**eul_wid:** `oow-ah` · [HTML page](https://eulogikon.org/grc/philon-of-byblos/history-ah)
+**eul_wid:** `oow-ah` · [HTML page](https://eulogikon.org/works/philon-byblos-history-oow-ah)
 
 ## Text
 

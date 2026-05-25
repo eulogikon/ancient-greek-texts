@@ -4,7 +4,7 @@ title_greek: Μισούμενος Ἀποσπάσματα
 author: Menander of Athens
 eul_wid: hps-aq
 eul_aid: hps
-canonical: "https://eulogikon.org/grc/menander-of-athens/misumenus-fragments"
+canonical: "https://eulogikon.org/works/menander-athens-misumenus-fragments-hps-aq"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander of Athens
 
-**eul_wid:** `hps-aq` · [HTML page](https://eulogikon.org/grc/menander-of-athens/misumenus-fragments)
+**eul_wid:** `hps-aq` · [HTML page](https://eulogikon.org/works/menander-athens-misumenus-fragments-hps-aq)
 
 ## Text
 
@@ -76,7 +76,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 9
 
-† πάτερ μὲν Θράσωνι, ἀπεκτάγκασι δ’ οὔ.
+πάτερ μὲν Θράσωνι, ἀπεκτάγκασι δ’ οὔ.
 
 ### book 10
 

@@ -4,7 +4,7 @@ title_greek: Κυνηγετικά
 author: Oppian of Apamea
 eul_wid: rje-aa
 eul_aid: rje
-canonical: "https://eulogikon.org/grc/oppian-of-apamea/hunting"
+canonical: "https://eulogikon.org/works/oppian-apamea-hunting-rje-aa"
 period: Roman
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Oppian of Apamea
 
-**eul_wid:** `rje-aa` · [HTML page](https://eulogikon.org/grc/oppian-of-apamea/hunting)
+**eul_wid:** `rje-aa` · [HTML page](https://eulogikon.org/works/oppian-apamea-hunting-rje-aa)
 
 ## Text
 

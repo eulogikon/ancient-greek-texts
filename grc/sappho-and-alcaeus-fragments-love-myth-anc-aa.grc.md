@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἔρωτος καὶ Μύθων
 author: Fragments of Sappho and Alcaeus
 eul_wid: anc-aa
 eul_aid: anc
-canonical: "https://eulogikon.org/grc/sappho-and-alcaeus-fragments/love-myth"
+canonical: "https://eulogikon.org/works/sappho-alcaeus-fragments-love-myth-anc-aa"
 period: Archaic
 dialect: Aeolic
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Fragments of Sappho and Alcaeus
 
-**eul_wid:** `anc-aa` · [HTML page](https://eulogikon.org/grc/sappho-and-alcaeus-fragments/love-myth)
+**eul_wid:** `anc-aa` · [HTML page](https://eulogikon.org/works/sappho-alcaeus-fragments-love-myth-anc-aa)
 
 ## Text
 
@@ -28,7 +28,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2
 
-†αἰτιάο† τὰ μέτερρα
+αἰτιάο τὰ μέτερρα
 
 ### book 3
 
@@ -40,11 +40,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 5
 
-†δ’ ἀλλ’ ἄν μοι† μεγαλύννεο δακτυλίωι πέρι ἄλλαν †μὴ καμετέραν† φρένα ἄβρα· †δεῦτε πάσχης πάλαι† ἀλλόμαν
+δ’ ἀλλ’ ἄν μοι μεγαλύννεο δακτυλίωι πέρι ἄλλαν μὴ καμετέραν φρένα ἄβρα· δεῦτε πάσχης πάλαι ἀλλόμαν
 
 ### book 6
 
-Ἄρευ †ὁ φόβος διακτὴρ
+Ἄρευ ὁ φόβος διακτὴρ
 
 ### book 7
 
@@ -64,7 +64,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 12
 
-ἴδρως †ἀμφότερα
+ἴδρως ἀμφότερα
 
 ### book 13.1
 
@@ -116,7 +116,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 24
 
-† † ὐμήναον ὦ τὸν Ἀδώνιον
+ὐμήναον ὦ τὸν Ἀδώνιον
 
 ### book 25.1
 
@@ -132,11 +132,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 26
 
-. . .[ln_1][]ρηον θαλάμω τ̣ωδεσ̣[ [ ]ι̣ς εὔποδα νύμφαν ἀβ̣[ [ ].νυνδ[ [ ]ν μοι·[[ln_5][ ]ας γε̣.[ . . .
+. . .[ln_1][]ρηον θαλάμω τωδεσ[ [ ]ις εὔποδα νύμφαν ἀβ[ [ ].νυνδ[ [ ]ν μοι·[[ln_5][ ]ας γε.[ . . .
 
 ### book 27(1)
 
-[κ]α̣δδέκεται μέλαινα̣[ [ ]ων ἀχέων ἐπαύσθη[ [ ]...ϊ̣δ̣αι.λεεοι.[
+[κ]αδδέκεται μέλαινα[ [ ]ων ἀχέων ἐπαύσθη[ [ ]...ϊδαι.λεεοι.[
 
 ### book 27(2)
 
@@ -144,7 +144,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 27(3)
 
-[]α̣ι̣σοεμα.σ̣θ.τερυ[ []τ̣ονοημα [ ]μ̀ενα̇φικέτα[ [ ].ο̣υ̣ς̣.ε[
+[]αισοεμα.σθ.τερυ[ []τονοημα [ ]μ̀ενα̇φικέτα[ [ ].ους.ε[
 
 ## License and provenance
 

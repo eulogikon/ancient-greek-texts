@@ -4,7 +4,7 @@ title_greek: Διαλέξεις
 author: Maximus of Tyre
 eul_wid: pgy-aa
 eul_aid: pgy
-canonical: "https://eulogikon.org/grc/maximus-of-tyre/conversations"
+canonical: "https://eulogikon.org/works/maximus-tyre-conversations-pgy-aa"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Maximus of Tyre
 
-**eul_wid:** `pgy-aa` · [HTML page](https://eulogikon.org/grc/maximus-of-tyre/conversations)
+**eul_wid:** `pgy-aa` · [HTML page](https://eulogikon.org/works/maximus-tyre-conversations-pgy-aa)
 
 ## Text
 

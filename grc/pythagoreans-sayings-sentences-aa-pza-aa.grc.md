@@ -4,7 +4,7 @@ title_greek: Γνῶμαι Πυθαγορείων
 author: Pythagoreans sayings
 eul_wid: pza-aa
 eul_aid: pza
-canonical: "https://eulogikon.org/grc/pythagoreans-sayings/sentences-aa"
+canonical: "https://eulogikon.org/works/pythagoreans-sentences-pza-aa"
 period: Roman
 dialect: Mixed Dialects
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pythagoreans sayings
 
-**eul_wid:** `pza-aa` · [HTML page](https://eulogikon.org/grc/pythagoreans-sayings/sentences-aa)
+**eul_wid:** `pza-aa` · [HTML page](https://eulogikon.org/works/pythagoreans-sentences-pza-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ τῆς τοῦ βασιλέως φιληκοΐας
 author: Themistius the Philosopher
 eul_wid: rye-ba
 eul_aid: rye
-canonical: "https://eulogikon.org/grc/themistius/kings-praise"
+canonical: "https://eulogikon.org/works/themistius-kings-praise-rye-ba"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Themistius the Philosopher
 
-**eul_wid:** `rye-ba` · [HTML page](https://eulogikon.org/grc/themistius/kings-praise)
+**eul_wid:** `rye-ba` · [HTML page](https://eulogikon.org/works/themistius-kings-praise-rye-ba)
 
 ## Text
 

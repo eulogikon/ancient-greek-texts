@@ -4,7 +4,7 @@ title_greek: Περὶ τοῦ Γεωμέτρου Συρίας
 author: Historical Fragments  Anonymous
 eul_wid: mmg-ak
 eul_aid: mmg
-canonical: "https://eulogikon.org/grc/historical-fragments-anonymous/surveyor-syria"
+canonical: "https://eulogikon.org/works/anon-hist-frag-surveyor-syria-mmg-ak"
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Historical Fragments  Anonymous
 
-**eul_wid:** `mmg-ak` · [HTML page](https://eulogikon.org/grc/historical-fragments-anonymous/surveyor-syria)
+**eul_wid:** `mmg-ak` · [HTML page](https://eulogikon.org/works/anon-hist-frag-surveyor-syria-mmg-ak)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Τέταρτος Βίος
 author: Homer Life-anonymous
 eul_wid: jho-ah
 eul_aid: jho
-canonical: "https://eulogikon.org/grc/homer-life-anonymous/fourth-life"
+canonical: "https://eulogikon.org/works/homer-fourth-life-jho-ah"
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Homer Life-anonymous
 
-**eul_wid:** `jho-ah` · [HTML page](https://eulogikon.org/grc/homer-life-anonymous/fourth-life)
+**eul_wid:** `jho-ah` · [HTML page](https://eulogikon.org/works/homer-fourth-life-jho-ah)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα τῆς Διαιτησίας
 author: Menander of Athens
 eul_wid: hps-ao
 eul_aid: hps
-canonical: "https://eulogikon.org/grc/menander-of-athens/arbitration-ao"
+canonical: "https://eulogikon.org/works/menander-athens-arbitration-hps-ao"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander of Athens
 
-**eul_wid:** `hps-ao` · [HTML page](https://eulogikon.org/grc/menander-of-athens/arbitration-ao)
+**eul_wid:** `hps-ao` · [HTML page](https://eulogikon.org/works/menander-athens-arbitration-hps-ao)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: κατὰ Ἀγοράτου ἐνδείξεως
 author: Lysias the Orator
 eul_wid: ejc-ar
 eul_aid: ejc
-canonical: "https://eulogikon.org/grc/lysias/agoratus"
+canonical: "https://eulogikon.org/works/lysias-agoratus-ejc-ar"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lysias the Orator
 
-**eul_wid:** `ejc-ar` · [HTML page](https://eulogikon.org/grc/lysias/agoratus)
+**eul_wid:** `ejc-ar` · [HTML page](https://eulogikon.org/works/lysias-agoratus-ejc-ar)
 
 ## Text
 

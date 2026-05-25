@@ -4,7 +4,7 @@ title_greek: Φιλοψευδὴς ἢ Ἀπιστῶν
 author: Lucian of Samosata
 eul_wid: pfk-af
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/philopseudes"
+canonical: "https://eulogikon.org/works/lucian-samosata-philopseudes-pfk-af"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-af` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/philopseudes)
+**eul_wid:** `pfk-af` · [HTML page](https://eulogikon.org/works/lucian-samosata-philopseudes-pfk-af)
 
 ## Text
 

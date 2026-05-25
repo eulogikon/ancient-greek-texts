@@ -4,7 +4,7 @@ title_greek: Ἱερογλυφικά
 author: Horapollo the Grammarian
 eul_wid: tbk-aa
 eul_aid: tbk
-canonical: "https://eulogikon.org/grc/horapollo-the-grammarian/hieroglyphics"
+canonical: "https://eulogikon.org/works/horapollo-hieroglyphics-tbk-aa"
 period: Late Antique
 dialect: Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Horapollo the Grammarian
 
-**eul_wid:** `tbk-aa` · [HTML page](https://eulogikon.org/grc/horapollo-the-grammarian/hieroglyphics)
+**eul_wid:** `tbk-aa` · [HTML page](https://eulogikon.org/works/horapollo-hieroglyphics-tbk-aa)
 
 ## Text
 

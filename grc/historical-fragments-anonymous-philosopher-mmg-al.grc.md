@@ -4,7 +4,7 @@ title_greek: Ἀνώνυμος Φιλόσοφος
 author: Historical Fragments  Anonymous
 eul_wid: mmg-al
 eul_aid: mmg
-canonical: "https://eulogikon.org/grc/historical-fragments-anonymous/philosopher"
+canonical: "https://eulogikon.org/works/anon-hist-frag-philosopher-mmg-al"
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Historical Fragments  Anonymous
 
-**eul_wid:** `mmg-al` · [HTML page](https://eulogikon.org/grc/historical-fragments-anonymous/philosopher)
+**eul_wid:** `mmg-al` · [HTML page](https://eulogikon.org/works/anon-hist-frag-philosopher-mmg-al)
 
 ## Text
 

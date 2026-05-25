@@ -4,7 +4,7 @@ title_greek: Περὶ Μυστικῆς Θεολογίας
 author: Pseudo-Dionysius the Areopagite
 eul_wid: urs-ac
 eul_aid: urs
-canonical: "https://eulogikon.org/grc/pseudo-dionysius-the-areopagite/mystical-theology"
+canonical: "https://eulogikon.org/works/pseudo-dionysius-mystical-theology-urs-ac"
 period: Late Antique
 dialect: Byzantine Christian
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pseudo-Dionysius the Areopagite
 
-**eul_wid:** `urs-ac` · [HTML page](https://eulogikon.org/grc/pseudo-dionysius-the-areopagite/mystical-theology)
+**eul_wid:** `urs-ac` · [HTML page](https://eulogikon.org/works/pseudo-dionysius-mystical-theology-urs-ac)
 
 ## Text
 

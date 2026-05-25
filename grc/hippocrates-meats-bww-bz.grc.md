@@ -4,7 +4,7 @@ title_greek: Περὶ κρεῶν
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-bz
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/meats"
+canonical: "https://eulogikon.org/works/hippocrates-meats-bww-bz"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-bz` · [HTML page](https://eulogikon.org/grc/hippocrates/meats)
+**eul_wid:** `bww-bz` · [HTML page](https://eulogikon.org/works/hippocrates-meats-bww-bz)
 
 ## Text
 

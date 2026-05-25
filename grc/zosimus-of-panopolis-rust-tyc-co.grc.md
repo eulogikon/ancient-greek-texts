@@ -4,7 +4,7 @@ title_greek: Περὶ ἰοῦ
 author: Zosimus of Panopolis
 eul_wid: tyc-co
 eul_aid: tyc
-canonical: "https://eulogikon.org/grc/zosimus-of-panopolis/rust"
+canonical: "https://eulogikon.org/works/zosimus-panopolis-rust-tyc-co"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Zosimus of Panopolis
 
-**eul_wid:** `tyc-co` · [HTML page](https://eulogikon.org/grc/zosimus-of-panopolis/rust)
+**eul_wid:** `tyc-co` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-rust-tyc-co)
 
 ## Text
 

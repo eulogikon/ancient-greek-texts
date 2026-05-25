@@ -4,7 +4,7 @@ title_greek: Περὶ Συντάξεως
 author: Lexicographical Work Anonymous I
 eul_wid: vtu-af
 eul_aid: vtu
-canonical: "https://eulogikon.org/grc/lexicographical-anonymous-i/syntax"
+canonical: "https://eulogikon.org/works/anon-lex-1-syntax-vtu-af"
 period: Late Antique
 dialect: Mixed Dialects
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lexicographical Work Anonymous I
 
-**eul_wid:** `vtu-af` · [HTML page](https://eulogikon.org/grc/lexicographical-anonymous-i/syntax)
+**eul_wid:** `vtu-af` · [HTML page](https://eulogikon.org/works/anon-lex-1-syntax-vtu-af)
 
 ## Text
 

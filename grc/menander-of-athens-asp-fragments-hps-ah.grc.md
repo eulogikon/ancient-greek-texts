@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα τῆς Ἀσπίδος
 author: Menander of Athens
 eul_wid: hps-ah
 eul_aid: hps
-canonical: "https://eulogikon.org/grc/menander-of-athens/asp-fragments"
+canonical: "https://eulogikon.org/works/menander-athens-asp-fragments-hps-ah"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander of Athens
 
-**eul_wid:** `hps-ah` · [HTML page](https://eulogikon.org/grc/menander-of-athens/asp-fragments)
+**eul_wid:** `hps-ah` · [HTML page](https://eulogikon.org/works/menander-athens-asp-fragments-hps-ah)
 
 ## Text
 
 ### book 1.1
 
-ὢ τρισάθλιοι, † τί πλέον ἔχουσι τῶν ἄλλων; βίον ὡς οἰκτρὸν ἐξαντλοῦσιν οἱ τὰ φρούρια
+ὢ τρισάθλιοι, τί πλέον ἔχουσι τῶν ἄλλων; βίον ὡς οἰκτρὸν ἐξαντλοῦσιν οἱ τὰ φρούρια
 
 ### book 1.2
 

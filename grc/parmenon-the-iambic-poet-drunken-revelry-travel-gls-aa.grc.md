@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Parmenon the Iambic Poet
 eul_wid: gls-aa
 eul_aid: gls
-canonical: "https://eulogikon.org/grc/parmenon-the-iambic-poet/drunken-revelry-travel"
+canonical: "https://eulogikon.org/works/parmenon-drunken-revelry-travel-gls-aa"
 period: Classical
 dialect: "Ionic (ia, frg)"
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Parmenon the Iambic Poet
 
-**eul_wid:** `gls-aa` · [HTML page](https://eulogikon.org/grc/parmenon-the-iambic-poet/drunken-revelry-travel)
+**eul_wid:** `gls-aa` · [HTML page](https://eulogikon.org/works/parmenon-drunken-revelry-travel-gls-aa)
 
 ## Text
 

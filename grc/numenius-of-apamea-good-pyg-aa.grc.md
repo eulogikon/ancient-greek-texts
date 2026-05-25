@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Numenius of Apamea
 eul_wid: pyg-aa
 eul_aid: pyg
-canonical: "https://eulogikon.org/grc/numenius-of-apamea/good"
+canonical: "https://eulogikon.org/works/numenius-apamea-good-pyg-aa"
 period: Roman
 dialect: Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Numenius of Apamea
 
-**eul_wid:** `pyg-aa` · [HTML page](https://eulogikon.org/grc/numenius-of-apamea/good)
+**eul_wid:** `pyg-aa` · [HTML page](https://eulogikon.org/works/numenius-apamea-good-pyg-aa)
 
 ## Text
 

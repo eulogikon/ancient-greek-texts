@@ -4,7 +4,7 @@ title_greek: Φιλοκαλία ἢ Ἐπιλογὴ ἐκ τῶν Ἀρίστω
 author: Origen of Alexandria
 eul_wid: uhs-aq
 eul_aid: uhs
-canonical: "https://eulogikon.org/grc/origen-of-alexandria/philocalia-23-25-27"
+canonical: "https://eulogikon.org/works/origen-alexandria-philocalia-23-25-27-uhs-aq"
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Origen of Alexandria
 
-**eul_wid:** `uhs-aq` · [HTML page](https://eulogikon.org/grc/origen-of-alexandria/philocalia-23-25-27)
+**eul_wid:** `uhs-aq` · [HTML page](https://eulogikon.org/works/origen-alexandria-philocalia-23-25-27-uhs-aq)
 
 ## Text
 

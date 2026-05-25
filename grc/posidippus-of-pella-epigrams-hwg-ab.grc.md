@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Posidippus of Pella
 eul_wid: hwg-ab
 eul_aid: hwg
-canonical: "https://eulogikon.org/grc/posidippus-of-pella/epigrams"
+canonical: "https://eulogikon.org/works/posidippus-pella-epigrams-hwg-ab"
 period: Hellenistic
 dialect: Koine
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Posidippus of Pella
 
-**eul_wid:** `hwg-ab` · [HTML page](https://eulogikon.org/grc/posidippus-of-pella/epigrams)
+**eul_wid:** `hwg-ab` · [HTML page](https://eulogikon.org/works/posidippus-pella-epigrams-hwg-ab)
 
 ## Text
 
@@ -380,7 +380,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 168
 
-νήφοντ’, οἰνωθέντ’ οὐχὶ † λίην ἄχαριν.
+νήφοντ’, οἰνωθέντ’ οὐχὶ λίην ἄχαριν.
 
 ### book 68.1
 

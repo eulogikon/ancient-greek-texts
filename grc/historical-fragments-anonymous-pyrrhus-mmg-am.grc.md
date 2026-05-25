@@ -4,7 +4,7 @@ title_greek: Περὶ Πύρρου
 author: Historical Fragments  Anonymous
 eul_wid: mmg-am
 eul_aid: mmg
-canonical: "https://eulogikon.org/grc/historical-fragments-anonymous/pyrrhus"
+canonical: "https://eulogikon.org/works/anon-hist-frag-pyrrhus-mmg-am"
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Historical Fragments  Anonymous
 
-**eul_wid:** `mmg-am` · [HTML page](https://eulogikon.org/grc/historical-fragments-anonymous/pyrrhus)
+**eul_wid:** `mmg-am` · [HTML page](https://eulogikon.org/works/anon-hist-frag-pyrrhus-mmg-am)
 
 ## Text
 

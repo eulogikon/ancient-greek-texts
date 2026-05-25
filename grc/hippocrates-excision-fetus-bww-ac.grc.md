@@ -4,7 +4,7 @@ title_greek: Περὶ ἐκτομῆς ἐμβρύου
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-ac
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/excision-fetus"
+canonical: "https://eulogikon.org/works/hippocrates-excision-fetus-bww-ac"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-ac` · [HTML page](https://eulogikon.org/grc/hippocrates/excision-fetus)
+**eul_wid:** `bww-ac` · [HTML page](https://eulogikon.org/works/hippocrates-excision-fetus-bww-ac)
 
 ## Text
 

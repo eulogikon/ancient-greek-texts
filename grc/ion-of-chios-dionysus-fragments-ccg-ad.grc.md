@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Διονύσου
 author: Ion of Chios
 eul_wid: ccg-ad
 eul_aid: ccg
-canonical: "https://eulogikon.org/grc/ion-of-chios/dionysus-fragments"
+canonical: "https://eulogikon.org/works/ion-chios-dionysus-fragments-ccg-ad"
 period: Classical
 dialect: Ionic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ion of Chios
 
-**eul_wid:** `ccg-ad` · [HTML page](https://eulogikon.org/grc/ion-of-chios/dionysus-fragments)
+**eul_wid:** `ccg-ad` · [HTML page](https://eulogikon.org/works/ion-chios-dionysus-fragments-ccg-ad)
 
 ## Text
 
@@ -28,7 +28,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 27
 
-χαιρέτω ἡμέτερος βασιλεὺς σωτήρ τε πατήρ τε· ἡμῖν δὲ κρητῆρ’ οἰνοχόοι θέραπες κιρνάντων προχύταισιν ἐν ἀργυρέοις· †ὁ δὲ χρυσὸς οἶνον ἔχων χειρῶν νιζέτω εἰς ἔδαφος.† σπένδοντες δ’ ἁγνῶς Ἡρακλεῖ τ’ Ἀλκμήνηι τε, Προκλεῖ Περσείδαις τ’ ἐκ Διὸς ἀρχόμενοι πίνωμεν, παίζωμεν· ἴτω διὰ νυκτὸς ἀοιδή, ὀρχείσθω τις· ἑκὼν δ’ ἄρχε φιλοφροσύνης. ὅντινα δ’ εὐειδὴς μίμνει θήλεια πάρευνος, κεῖνος τῶν ἄλλων κυδρότερον πίεται.
+χαιρέτω ἡμέτερος βασιλεὺς σωτήρ τε πατήρ τε· ἡμῖν δὲ κρητῆρ’ οἰνοχόοι θέραπες κιρνάντων προχύταισιν ἐν ἀργυρέοις· ὁ δὲ χρυσὸς οἶνον ἔχων χειρῶν νιζέτω εἰς ἔδαφος. σπένδοντες δ’ ἁγνῶς Ἡρακλεῖ τ’ Ἀλκμήνηι τε, Προκλεῖ Περσείδαις τ’ ἐκ Διὸς ἀρχόμενοι πίνωμεν, παίζωμεν· ἴτω διὰ νυκτὸς ἀοιδή, ὀρχείσθω τις· ἑκὼν δ’ ἄρχε φιλοφροσύνης. ὅντινα δ’ εὐειδὴς μίμνει θήλεια πάρευνος, κεῖνος τῶν ἄλλων κυδρότερον πίεται.
 
 ### 28
 
@@ -44,7 +44,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 32
 
-ἑνδεκάχορδε λύρα, δεκαβάμονα τάξιν ἔχουσα †τὰς συμφωνούσας ἁρμονίας τριόδους· πρὶν μέν ς’ ἑπτάτονον ψάλλον διὰ τέσσαρα πάντες Ἕλληνες, σπανίαν μοῦσαν ἀειράμενοι.
+ἑνδεκάχορδε λύρα, δεκαβάμονα τάξιν ἔχουσα τὰς συμφωνούσας ἁρμονίας τριόδους· πρὶν μέν ς’ ἑπτάτονον ψάλλον διὰ τέσσαρα πάντες Ἕλληνες, σπανίαν μοῦσαν ἀειράμενοι.
 
 ## License and provenance
 

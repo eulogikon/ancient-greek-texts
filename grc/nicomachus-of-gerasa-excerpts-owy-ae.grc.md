@@ -4,7 +4,7 @@ title_greek: Ἐκλογαί
 author: Nicomachus of Gerasa
 eul_wid: owy-ae
 eul_aid: owy
-canonical: "https://eulogikon.org/grc/nicomachus-of-gerasa/excerpts"
+canonical: "https://eulogikon.org/works/nicomachus-gerasa-excerpts-owy-ae"
 period: Roman
 dialect: Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nicomachus of Gerasa
 
-**eul_wid:** `owy-ae` · [HTML page](https://eulogikon.org/grc/nicomachus-of-gerasa/excerpts)
+**eul_wid:** `owy-ae` · [HTML page](https://eulogikon.org/works/nicomachus-gerasa-excerpts-owy-ae)
 
 ## Text
 

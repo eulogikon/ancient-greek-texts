@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Κοσμολογίας
 author: Pherecydes of Syros
 eul_wid: bcw-ab
 eul_aid: bcw
-canonical: "https://eulogikon.org/grc/pherecydes-of-syros/cosmology"
+canonical: "https://eulogikon.org/works/pherecydes-syros-cosmology-bcw-ab"
 period: Archaic
 dialect: Mixed Dialects (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pherecydes of Syros
 
-**eul_wid:** `bcw-ab` · [HTML page](https://eulogikon.org/grc/pherecydes-of-syros/cosmology)
+**eul_wid:** `bcw-ab` · [HTML page](https://eulogikon.org/works/pherecydes-syros-cosmology-bcw-ab)
 
 ## Text
 

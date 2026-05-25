@@ -4,7 +4,7 @@ title_greek: Ἀλχημικὸν ἀπόσπασμα
 author: Zosimus of Panopolis
 eul_wid: tyc-bz
 eul_aid: tyc
-canonical: "https://eulogikon.org/grc/zosimus-of-panopolis/alchemical-excerpt-bz"
+canonical: "https://eulogikon.org/works/zosimus-panopolis-alchemical-excerpt-tyc-bz"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Zosimus of Panopolis
 
-**eul_wid:** `tyc-bz` · [HTML page](https://eulogikon.org/grc/zosimus-of-panopolis/alchemical-excerpt-bz)
+**eul_wid:** `tyc-bz` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-alchemical-excerpt-tyc-bz)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Timagetus Historian
 eul_wid: ldq-aa
 eul_aid: ldq
-canonical: "https://eulogikon.org/grc/timagetus-the-historian/harbors-rivers"
+canonical: "https://eulogikon.org/works/timagetus-harbors-rivers-ldq-aa"
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Timagetus Historian
 
-**eul_wid:** `ldq-aa` · [HTML page](https://eulogikon.org/grc/timagetus-the-historian/harbors-rivers)
+**eul_wid:** `ldq-aa` · [HTML page](https://eulogikon.org/works/timagetus-harbors-rivers-ldq-aa)
 
 ## Text
 

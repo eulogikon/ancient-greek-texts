@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ σχημάτων
 author: Polybius of Sardis
 eul_wid: nno-ab
 eul_aid: nno
-canonical: "https://eulogikon.org/grc/polybius-of-sardis/fragments-figures"
+canonical: "https://eulogikon.org/works/polybius-sardis-fragments-figures-nno-ab"
 period: Roman
 dialect: Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Polybius of Sardis
 
-**eul_wid:** `nno-ab` · [HTML page](https://eulogikon.org/grc/polybius-of-sardis/fragments-figures)
+**eul_wid:** `nno-ab` · [HTML page](https://eulogikon.org/works/polybius-sardis-fragments-figures-nno-ab)
 
 ## Text
 

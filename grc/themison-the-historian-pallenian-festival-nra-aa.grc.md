@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Themison the Historian
 eul_wid: nra-aa
 eul_aid: nra
-canonical: "https://eulogikon.org/grc/themison-the-historian/pallenian-festival"
+canonical: "https://eulogikon.org/works/themison-pallenian-festival-nra-aa"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Themison the Historian
 
-**eul_wid:** `nra-aa` · [HTML page](https://eulogikon.org/grc/themison-the-historian/pallenian-festival)
+**eul_wid:** `nra-aa` · [HTML page](https://eulogikon.org/works/themison-pallenian-festival-nra-aa)
 
 ## Text
 

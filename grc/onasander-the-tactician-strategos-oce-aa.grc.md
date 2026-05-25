@@ -4,7 +4,7 @@ title_greek: Στρατηγικός
 author: Onasander the Tactician
 eul_wid: oce-aa
 eul_aid: oce
-canonical: "https://eulogikon.org/grc/onasander-the-tactician/strategos"
+canonical: "https://eulogikon.org/works/onasander-strategos-oce-aa"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Onasander the Tactician
 
-**eul_wid:** `oce-aa` · [HTML page](https://eulogikon.org/grc/onasander-the-tactician/strategos)
+**eul_wid:** `oce-aa` · [HTML page](https://eulogikon.org/works/onasander-strategos-oce-aa)
 
 ## Text
 

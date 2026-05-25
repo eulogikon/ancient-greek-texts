@@ -4,7 +4,7 @@ title_greek: Ἐπίγραμμα
 author: Thucydides
 eul_wid: dny-ab
 eul_aid: dny
-canonical: "https://eulogikon.org/grc/thucydides/epigram"
+canonical: "https://eulogikon.org/works/thucydides-epigram-dny-ab"
 period: Classical
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Thucydides
 
-**eul_wid:** `dny-ab` · [HTML page](https://eulogikon.org/grc/thucydides/epigram)
+**eul_wid:** `dny-ab` · [HTML page](https://eulogikon.org/works/thucydides-epigram-dny-ab)
 
 ## Text
 

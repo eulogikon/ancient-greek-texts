@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Διονύσου Κωμικά
 author: Rhinthon of Tarentum
 eul_wid: hpi-aa
 eul_aid: hpi
-canonical: "https://eulogikon.org/grc/rhinthon-of-tarentum/dionysus-fragments"
+canonical: "https://eulogikon.org/works/rhinthon-tarentum-dionysus-fragments-hpi-aa"
 period: Hellenistic
 dialect: Doric
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Rhinthon of Tarentum
 
-**eul_wid:** `hpi-aa` · [HTML page](https://eulogikon.org/grc/rhinthon-of-tarentum/dionysus-fragments)
+**eul_wid:** `hpi-aa` · [HTML page](https://eulogikon.org/works/rhinthon-tarentum-dionysus-fragments-hpi-aa)
 
 ## Text
 

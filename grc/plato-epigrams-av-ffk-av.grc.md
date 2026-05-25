@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Plato of Athens
 eul_wid: ffk-av
 eul_aid: ffk
-canonical: "https://eulogikon.org/grc/plato/epigrams-av"
+canonical: "https://eulogikon.org/works/plato-epigrams-ffk-av"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plato of Athens
 
-**eul_wid:** `ffk-av` · [HTML page](https://eulogikon.org/grc/plato/epigrams-av)
+**eul_wid:** `ffk-av` · [HTML page](https://eulogikon.org/works/plato-epigrams-ffk-av)
 
 ## Text
 

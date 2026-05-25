@@ -4,7 +4,7 @@ title_greek: Γεωργός
 author: Menander of Athens
 eul_wid: hps-bn
 eul_aid: hps
-canonical: "https://eulogikon.org/grc/menander-of-athens/georgus"
+canonical: "https://eulogikon.org/works/menander-athens-georgus-hps-bn"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander of Athens
 
-**eul_wid:** `hps-bn` · [HTML page](https://eulogikon.org/grc/menander-of-athens/georgus)
+**eul_wid:** `hps-bn` · [HTML page](https://eulogikon.org/works/menander-athens-georgus-hps-bn)
 
 ## Text
 
 ### 1.1
 
-(ΝΕΑΝΙΣΚΟΣ) []προσιὼν † πράττων
+(ΝΕΑΝΙΣΚΟΣ) []προσιὼν πράττων
 
 ### 1.2
 
@@ -36,7 +36,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1.4
 
-[ ]ε̣ ὁ μειρακίσκος ἐν ἀγρῶι διετέλει,
+[ ]ε ὁ μειρακίσκος ἐν ἀγρῶι διετέλει,
 
 ### 5.1
 
@@ -44,7 +44,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 5.2
 
-ἀπόδη]μ̣ον εἰς Κόρινθον ἐπὶ πρᾶξίν τινα·
+ἀπόδη]μον εἰς Κόρινθον ἐπὶ πρᾶξίν τινα·
 
 ### 5.3
 
@@ -80,11 +80,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 15.1
 
-[ ]λ̣[ι]πὼν δὲ τὸν γάμον τὴν φιλτάτην
+[ ]λ[ι]πὼν δὲ τὸν γάμον τὴν φιλτάτην
 
 ### 15.2
 
-[...]α̣ν ἀδικήσαιμ’ ἄν· οὐ γὰρ εὐσεβές.
+[...]αν ἀδικήσαιμ’ ἄν· οὐ γὰρ εὐσεβές.
 
 ### 15.3
 
@@ -160,7 +160,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 30.4
 
-.[..]ι̣ μεταστῶμεν.
+.[..]ι μεταστῶμεν.
 
 ### 33.1
 
@@ -216,7 +216,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 45.1
 
-θέλωσι, γ[εῦσ]αι καὶ φθάσαι πρῶτο̣[ς φράσας.
+θέλωσι, γ[εῦσ]αι καὶ φθάσαι πρῶτο[ς φράσας.
 
 ### 45.2
 
@@ -284,7 +284,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 60.2
 
-δ[ό]ξ̣[α]ν̣τ’ ἀνέστης’ αὐτὸν ἐπιμελούμενος.
+δ[ό]ξ[α]ντ’ ἀνέστης’ αὐτὸν ἐπιμελούμενος.
 
 ### 60.3
 
@@ -296,7 +296,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 63.2
 
-ἀναλ]α̣〈μ〉β〈άν〉ων γὰρ αὑτὸν ἔνδον, καὶ σχολὴν
+ἀναλ]α〈μ〉β〈άν〉ων γὰρ αὑτὸν ἔνδον, καὶ σχολὴν
 
 ### 65.1
 
@@ -348,7 +348,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 75.3
 
-αὐτὴ]ν̣ λαβών. παύσεσθε πενίαι μαχόμενοι,
+αὐτὴ]ν λαβών. παύσεσθε πενίαι μαχόμενοι,
 
 ### 75.4
 
@@ -420,7 +420,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 99.2
 
-τοῦτ’ ε̣[
+τοῦτ’ ε[
 
 ### 99.3
 
@@ -428,7 +428,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 99.4
 
-αὐτῶν ἰδ̣ω̣[
+αὐτῶν ἰδω[
 
 ### 103.1
 
@@ -460,7 +460,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 105.5
 
-(Φι) μὰ τὼ θεώ, τέκν̣[ον
+(Φι) μὰ τὼ θεώ, τέκν[ον
 
 ### 109
 
@@ -476,7 +476,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 110.2
 
-ἐγ̣ γειτόνων ὄντ[
+ἐγ γειτόνων ὄντ[
 
 ### 110.3
 
@@ -488,7 +488,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 112.2
 
-(Γο) ἐγὼ καλῶ π̣[
+(Γο) ἐγὼ καλῶ π[
 
 ### 112.3
 
@@ -496,7 +496,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 115
 
-ἢ πῶς μαλακ̣[
+ἢ πῶς μαλακ[
 
 ### 115.1
 
@@ -508,7 +508,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 115.3
 
-τί ταῦτά τις [.]ε̣[
+τί ταῦτά τις [.]ε[
 
 ### 115.4
 
@@ -516,7 +516,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 115.5
 
-παρρησίαν τ’ ην̣[
+παρρησίαν τ’ ην[
 
 ### 120.1
 
@@ -540,11 +540,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 125.1
 
-ἅπασι κα̣ὶ̣ τ̣[
+ἅπασι καὶ τ[
 
 ### 125.2
 
-ἐχ̣...α̣[
+ἐχ...α[
 
 ### 125.3
 

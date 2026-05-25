@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τῆς Ἀλεξανδρείας
 author: Lycus of Rhegium
 eul_wid: kgo-aa
 eul_aid: kgo
-canonical: "https://eulogikon.org/grc/lycus-of-rhegium/alexandrian-prosody"
+canonical: "https://eulogikon.org/works/lycus-rhegium-alexandrian-prosody-kgo-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lycus of Rhegium
 
-**eul_wid:** `kgo-aa` · [HTML page](https://eulogikon.org/grc/lycus-of-rhegium/alexandrian-prosody)
+**eul_wid:** `kgo-aa` · [HTML page](https://eulogikon.org/works/lycus-rhegium-alexandrian-prosody-kgo-aa)
 
 ## Text
 

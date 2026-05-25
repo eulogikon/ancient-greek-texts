@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Posidonius of Olbia
 eul_wid: lzy-aa
 eul_aid: lzy
-canonical: "https://eulogikon.org/grc/posidonius-of-olbia/historical-account"
+canonical: "https://eulogikon.org/works/posidonius-olbia-historical-account-lzy-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Posidonius of Olbia
 
-**eul_wid:** `lzy-aa` · [HTML page](https://eulogikon.org/grc/posidonius-of-olbia/historical-account)
+**eul_wid:** `lzy-aa` · [HTML page](https://eulogikon.org/works/posidonius-olbia-historical-account-lzy-aa)
 
 ## Text
 

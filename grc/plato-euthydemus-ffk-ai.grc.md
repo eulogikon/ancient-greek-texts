@@ -4,7 +4,7 @@ title_greek: Εὐθύδημος
 author: Plato of Athens
 eul_wid: ffk-ai
 eul_aid: ffk
-canonical: "https://eulogikon.org/grc/plato/euthydemus"
+canonical: "https://eulogikon.org/works/plato-euthydemus-ffk-ai"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plato of Athens
 
-**eul_wid:** `ffk-ai` · [HTML page](https://eulogikon.org/grc/plato/euthydemus)
+**eul_wid:** `ffk-ai` · [HTML page](https://eulogikon.org/works/plato-euthydemus-ffk-ai)
 
 ## Text
 

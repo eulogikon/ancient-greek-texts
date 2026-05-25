@@ -4,7 +4,7 @@ title_greek: Ἱστορίαι
 author: Herodotus of Halicarnassus
 eul_wid: elu-aa
 eul_aid: elu
-canonical: "https://eulogikon.org/grc/herodotus-of-halicarnassus/histories"
+canonical: "https://eulogikon.org/works/herodotus-halicarnassus-histories-elu-aa"
 period: Classical
 dialect: Ionic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Herodotus of Halicarnassus
 
-**eul_wid:** `elu-aa` · [HTML page](https://eulogikon.org/grc/herodotus-of-halicarnassus/histories)
+**eul_wid:** `elu-aa` · [HTML page](https://eulogikon.org/works/herodotus-halicarnassus-histories-elu-aa)
 
 ## Text
 

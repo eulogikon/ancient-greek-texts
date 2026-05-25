@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Μουσικῆς
 author: Ptolemais of Cyrene
 eul_wid: jla-aa
 eul_aid: jla
-canonical: "https://eulogikon.org/grc/ptolemais-of-cyrene/music"
+canonical: "https://eulogikon.org/works/ptolemais-cyrene-music-jla-aa"
 period: Hellenistic
 dialect: Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ptolemais of Cyrene
 
-**eul_wid:** `jla-aa` · [HTML page](https://eulogikon.org/grc/ptolemais-of-cyrene/music)
+**eul_wid:** `jla-aa` · [HTML page](https://eulogikon.org/works/ptolemais-cyrene-music-jla-aa)
 
 ## Text
 

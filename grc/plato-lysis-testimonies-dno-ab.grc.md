@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Plato Lysis
 eul_wid: dno-ab
 eul_aid: dno
-canonical: "https://eulogikon.org/grc/plato-lysis/testimonies"
+canonical: "https://eulogikon.org/works/plato-lysis-testimonies-dno-ab"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Plato Lysis
 
-**eul_wid:** `dno-ab` · [HTML page](https://eulogikon.org/grc/plato-lysis/testimonies)
+**eul_wid:** `dno-ab` · [HTML page](https://eulogikon.org/works/plato-lysis-testimonies-dno-ab)
 
 ## Text
 

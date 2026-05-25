@@ -4,7 +4,7 @@ title_greek: Οἰδίπους ἐπὶ Κολωνῷ
 author: Sophocles
 eul_wid: buo-ac
 eul_aid: buo
-canonical: "https://eulogikon.org/grc/sophocles/oedipus-colonus"
+canonical: "https://eulogikon.org/works/sophocles-oedipus-colonus-buo-ac"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sophocles
 
-**eul_wid:** `buo-ac` · [HTML page](https://eulogikon.org/grc/sophocles/oedipus-colonus)
+**eul_wid:** `buo-ac` · [HTML page](https://eulogikon.org/works/sophocles-oedipus-colonus-buo-ac)
 
 ## Text
 
@@ -760,15 +760,15 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 183
 
-⏑⏑⏑ –⏑⏑– ⏑–
+–– –
 
 ### 183
 
-–– –⏑⏑– ⏑–
+–– –– –
 
 ### 183.1
 
-ΟΙ.–– –⏑⏑– ⏓
+ΟΙ.–– ––
 
 ### 183.2
 
@@ -6272,7 +6272,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1490.1
 
-ΧΟ.Ἰὼ 〈ἰώ〉, παῖ, βᾶθι, βᾶθ’, ⏓ – – ⏑ –Ant. 2.
+ΧΟ.Ἰὼ 〈ἰώ〉, παῖ, βᾶθι, βᾶθ’, – – –Ant. 2.
 
 ### 1490.2
 
@@ -7212,11 +7212,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1715.4
 
-⏑ – ⏑ – ⏑ – ⏑ –
+– – – –
 
 ### 1715.5
 
-– ⏑ ⏑ – ⏑ – –
+– – – –
 
 ### 1720.1
 
@@ -7296,7 +7296,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1734
 
-ΑΝ.– – ⏑ – ⏑
+ΑΝ.– – –
 
 ### 1734
 

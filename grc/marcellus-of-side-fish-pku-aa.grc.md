@@ -4,7 +4,7 @@ title_greek: Περὶ Ἰχθύων
 author: Marcellus of Side
 eul_wid: pku-aa
 eul_aid: pku
-canonical: "https://eulogikon.org/grc/marcellus-of-side/fish"
+canonical: "https://eulogikon.org/works/marcellus-side-fish-pku-aa"
 period: Roman
 dialect: Koine (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Marcellus of Side
 
-**eul_wid:** `pku-aa` · [HTML page](https://eulogikon.org/grc/marcellus-of-side/fish)
+**eul_wid:** `pku-aa` · [HTML page](https://eulogikon.org/works/marcellus-side-fish-pku-aa)
 
 ## Text
 

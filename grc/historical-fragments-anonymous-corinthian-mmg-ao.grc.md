@@ -4,7 +4,7 @@ title_greek: Ἀνώνυμος Κορίνθιος
 author: Historical Fragments  Anonymous
 eul_wid: mmg-ao
 eul_aid: mmg
-canonical: "https://eulogikon.org/grc/historical-fragments-anonymous/corinthian"
+canonical: "https://eulogikon.org/works/anon-hist-frag-corinthian-mmg-ao"
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Historical Fragments  Anonymous
 
-**eul_wid:** `mmg-ao` · [HTML page](https://eulogikon.org/grc/historical-fragments-anonymous/corinthian)
+**eul_wid:** `mmg-ao` · [HTML page](https://eulogikon.org/works/anon-hist-frag-corinthian-mmg-ao)
 
 ## Text
 

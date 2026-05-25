@@ -4,7 +4,7 @@ title_greek: Χρονικά
 author: Porphyry of Tyre
 eul_wid: udm-ay
 eul_aid: udm
-canonical: "https://eulogikon.org/grc/porphyry-of-tyre/chronicles"
+canonical: "https://eulogikon.org/works/porphyry-tyre-chronicles-udm-ay"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Porphyry of Tyre
 
-**eul_wid:** `udm-ay` · [HTML page](https://eulogikon.org/grc/porphyry-of-tyre/chronicles)
+**eul_wid:** `udm-ay` · [HTML page](https://eulogikon.org/works/porphyry-tyre-chronicles-udm-ay)
 
 ## Text
 

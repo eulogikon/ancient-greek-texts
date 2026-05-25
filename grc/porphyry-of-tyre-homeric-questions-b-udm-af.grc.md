@@ -4,7 +4,7 @@ title_greek: Βιβλίον Αʹ Ὁμηρικῶν ζητημάτων ἔκδο
 author: Porphyry of Tyre
 eul_wid: udm-af
 eul_aid: udm
-canonical: "https://eulogikon.org/grc/porphyry-of-tyre/homeric-questions-b"
+canonical: "https://eulogikon.org/works/porphyry-tyre-homeric-questions-b-udm-af"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Porphyry of Tyre
 
-**eul_wid:** `udm-af` · [HTML page](https://eulogikon.org/grc/porphyry-of-tyre/homeric-questions-b)
+**eul_wid:** `udm-af` · [HTML page](https://eulogikon.org/works/porphyry-tyre-homeric-questions-b-udm-af)
 
 ## Text
 

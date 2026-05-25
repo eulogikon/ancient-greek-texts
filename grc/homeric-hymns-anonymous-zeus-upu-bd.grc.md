@@ -4,7 +4,7 @@ title_greek: Ὕμνος εἰς Δία
 author: Hymnic Collection  Anonymous
 eul_wid: upu-bd
 eul_aid: upu
-canonical: "https://eulogikon.org/grc/homeric-hymns-anonymous/zeus"
+canonical: "https://eulogikon.org/works/hymnic-anon-zeus-upu-bd"
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hymnic Collection  Anonymous
 
-**eul_wid:** `upu-bd` · [HTML page](https://eulogikon.org/grc/homeric-hymns-anonymous/zeus)
+**eul_wid:** `upu-bd` · [HTML page](https://eulogikon.org/works/hymnic-anon-zeus-upu-bd)
 
 ## Text
 

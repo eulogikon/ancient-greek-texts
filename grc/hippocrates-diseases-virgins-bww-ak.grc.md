@@ -4,7 +4,7 @@ title_greek: Περὶ παρθενικῶν νόσων
 author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-ak
 eul_aid: bww
-canonical: "https://eulogikon.org/grc/hippocrates/diseases-virgins"
+canonical: "https://eulogikon.org/works/hippocrates-diseases-virgins-bww-ak"
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hippocrates and the Hippocratic Corpus
 
-**eul_wid:** `bww-ak` · [HTML page](https://eulogikon.org/grc/hippocrates/diseases-virgins)
+**eul_wid:** `bww-ak` · [HTML page](https://eulogikon.org/works/hippocrates-diseases-virgins-bww-ak)
 
 ## Text
 

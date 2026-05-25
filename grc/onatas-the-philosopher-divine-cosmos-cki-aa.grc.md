@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Onatas the Philosopher
 eul_wid: cki-aa
 eul_aid: cki
-canonical: "https://eulogikon.org/grc/onatas-the-philosopher/divine-cosmos"
+canonical: "https://eulogikon.org/works/onatas-divine-cosmos-cki-aa"
 period: Classical
 dialect: "Doric (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Onatas the Philosopher
 
-**eul_wid:** `cki-aa` · [HTML page](https://eulogikon.org/grc/onatas-the-philosopher/divine-cosmos)
+**eul_wid:** `cki-aa` · [HTML page](https://eulogikon.org/works/onatas-divine-cosmos-cki-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Χαρακτῆρες
 author: Theophrastus of Eresus
 eul_wid: ljk-am
 eul_aid: ljk
-canonical: "https://eulogikon.org/grc/theophrastus-of-eresus/characters"
+canonical: "https://eulogikon.org/works/theophrastus-eresus-characters-ljk-am"
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Theophrastus of Eresus
 
-**eul_wid:** `ljk-am` · [HTML page](https://eulogikon.org/grc/theophrastus-of-eresus/characters)
+**eul_wid:** `ljk-am` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-characters-ljk-am)
 
 ## Text
 
@@ -316,7 +316,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### Char 14 12
 
-καὶ ὕοντος τοῦ Διὸς εἰπεῖν· † ἡδύ γε τῶν ἄστρων νομίζει, ὅτι δὴ καὶ οἱ ἄλλοι λέγουσι πίσσης † καὶ λέγοντός τινος· Πόσους οἴει κατὰ τὰς Ἱερὰς πύλας ἐξενηνέχθαι νεκρούς; πρὸς τοῦτον εἰπεῖν· Ὅσοι ἐμοὶ καὶ σοὶ γένοιντο.
+καὶ ὕοντος τοῦ Διὸς εἰπεῖν· ἡδύ γε τῶν ἄστρων νομίζει, ὅτι δὴ καὶ οἱ ἄλλοι λέγουσι πίσσης καὶ λέγοντός τινος· Πόσους οἴει κατὰ τὰς Ἱερὰς πύλας ἐξενηνέχθαι νεκρούς; πρὸς τοῦτον εἰπεῖν· Ὅσοι ἐμοὶ καὶ σοὶ γένοιντο.
 
 ### Char 15 t
 

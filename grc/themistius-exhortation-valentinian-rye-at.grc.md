@@ -4,7 +4,7 @@ title_greek: Προτρεπτικὸς Οὐαλεντινιανῷ νέῳ
 author: Themistius the Philosopher
 eul_wid: rye-at
 eul_aid: rye
-canonical: "https://eulogikon.org/grc/themistius/exhortation-valentinian"
+canonical: "https://eulogikon.org/works/themistius-exhortation-valentinian-rye-at"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Themistius the Philosopher
 
-**eul_wid:** `rye-at` · [HTML page](https://eulogikon.org/grc/themistius/exhortation-valentinian)
+**eul_wid:** `rye-at` · [HTML page](https://eulogikon.org/works/themistius-exhortation-valentinian-rye-at)
 
 ## Text
 

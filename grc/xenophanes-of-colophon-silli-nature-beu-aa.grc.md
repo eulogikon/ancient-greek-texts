@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Σίλλοι καὶ Περὶ φύσεως
 author: Xenophanes of Colophon
 eul_wid: beu-aa
 eul_aid: beu
-canonical: "https://eulogikon.org/grc/xenophanes-of-colophon/silli-nature"
+canonical: "https://eulogikon.org/works/xenophanes-colophon-silli-nature-beu-aa"
 period: Archaic
 dialect: Ionic (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Xenophanes of Colophon
 
-**eul_wid:** `beu-aa` · [HTML page](https://eulogikon.org/grc/xenophanes-of-colophon/silli-nature)
+**eul_wid:** `beu-aa` · [HTML page](https://eulogikon.org/works/xenophanes-colophon-silli-nature-beu-aa)
 
 ## Text
 

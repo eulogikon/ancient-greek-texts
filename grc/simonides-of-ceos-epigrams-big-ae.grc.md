@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Simonides of Ceos
 eul_wid: big-ae
 eul_aid: big
-canonical: "https://eulogikon.org/grc/simonides-of-ceos/epigrams"
+canonical: "https://eulogikon.org/works/simonides-ceos-epigrams-big-ae"
 period: Archaic
 dialect: Koine
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Simonides of Ceos
 
-**eul_wid:** `big-ae` · [HTML page](https://eulogikon.org/grc/simonides-of-ceos/epigrams)
+**eul_wid:** `big-ae` · [HTML page](https://eulogikon.org/works/simonides-ceos-epigrams-big-ae)
 
 ## Text
 

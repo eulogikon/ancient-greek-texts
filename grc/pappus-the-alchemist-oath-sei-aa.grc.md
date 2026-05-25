@@ -4,7 +4,7 @@ title_greek: Πάππου φιλοσόφου ὅρκος
 author: Pappus the Alchemist
 eul_wid: sei-aa
 eul_aid: sei
-canonical: "https://eulogikon.org/grc/pappus-the-alchemist/oath"
+canonical: "https://eulogikon.org/works/pappus-oath-sei-aa"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pappus the Alchemist
 
-**eul_wid:** `sei-aa` · [HTML page](https://eulogikon.org/grc/pappus-the-alchemist/oath)
+**eul_wid:** `sei-aa` · [HTML page](https://eulogikon.org/works/pappus-oath-sei-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Κληρονομικῶν Ἀμφ
 author: Isaeus the Orator
 eul_wid: fge-am
 eul_aid: fge
-canonical: "https://eulogikon.org/grc/isaeus-the-orator/inheritance-disputes"
+canonical: "https://eulogikon.org/works/isaeus-inheritance-disputes-fge-am"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Isaeus the Orator
 
-**eul_wid:** `fge-am` · [HTML page](https://eulogikon.org/grc/isaeus-the-orator/inheritance-disputes)
+**eul_wid:** `fge-am` · [HTML page](https://eulogikon.org/works/isaeus-inheritance-disputes-fge-am)
 
 ## Text
 

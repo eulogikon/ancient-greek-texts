@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Susarion of Megara
 eul_wid: atg-aa
 eul_aid: atg
-canonical: "https://eulogikon.org/grc/susarion-of-megara/nature-women"
+canonical: "https://eulogikon.org/works/susarion-megara-nature-women-atg-aa"
 period: Archaic
 dialect: Doric (frg)
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Susarion of Megara
 
-**eul_wid:** `atg-aa` · [HTML page](https://eulogikon.org/grc/susarion-of-megara/nature-women)
+**eul_wid:** `atg-aa` · [HTML page](https://eulogikon.org/works/susarion-megara-nature-women-atg-aa)
 
 ## Text
 

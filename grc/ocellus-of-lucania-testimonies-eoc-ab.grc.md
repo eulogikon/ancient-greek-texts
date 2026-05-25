@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Ocellus of Lucania
 eul_wid: eoc-ab
 eul_aid: eoc
-canonical: "https://eulogikon.org/grc/ocellus-of-lucania/testimonies"
+canonical: "https://eulogikon.org/works/ocellus-lucania-testimonies-eoc-ab"
 period: Classical
 dialect: Ionic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ocellus of Lucania
 
-**eul_wid:** `eoc-ab` · [HTML page](https://eulogikon.org/grc/ocellus-of-lucania/testimonies)
+**eul_wid:** `eoc-ab` · [HTML page](https://eulogikon.org/works/ocellus-lucania-testimonies-eoc-ab)
 
 ## Text
 

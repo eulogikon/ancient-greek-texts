@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Κόλακος
 author: Menander of Athens
 eul_wid: hps-ak
 eul_aid: hps
-canonical: "https://eulogikon.org/grc/menander-of-athens/colax-fragments"
+canonical: "https://eulogikon.org/works/menander-athens-colax-fragments-hps-ak"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander of Athens
 
-**eul_wid:** `hps-ak` · [HTML page](https://eulogikon.org/grc/menander-of-athens/colax-fragments)
+**eul_wid:** `hps-ak` · [HTML page](https://eulogikon.org/works/menander-athens-colax-fragments-hps-ak)
 
 ## Text
 

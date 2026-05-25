@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Καρχηδονίων
 author: Menander of Athens
 eul_wid: hps-ac
 eul_aid: hps
-canonical: "https://eulogikon.org/grc/menander-of-athens/carthaginians-fragments"
+canonical: "https://eulogikon.org/works/menander-athens-carthaginians-fragments-hps-ac"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander of Athens
 
-**eul_wid:** `hps-ac` · [HTML page](https://eulogikon.org/grc/menander-of-athens/carthaginians-fragments)
+**eul_wid:** `hps-ac` · [HTML page](https://eulogikon.org/works/menander-athens-carthaginians-fragments-hps-ac)
 
 ## Text
 

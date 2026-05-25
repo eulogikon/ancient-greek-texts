@@ -4,7 +4,7 @@ title_greek: Πλατωνικὸν Λεξικόν
 author: Timaeus the Sophist
 eul_wid: slq-aa
 eul_aid: slq
-canonical: "https://eulogikon.org/grc/timaeus-the-sophist/lexicon"
+canonical: "https://eulogikon.org/works/timaeus-sophist-lexicon-slq-aa"
 period: Late Antique
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Timaeus the Sophist
 
-**eul_wid:** `slq-aa` · [HTML page](https://eulogikon.org/grc/timaeus-the-sophist/lexicon)
+**eul_wid:** `slq-aa` · [HTML page](https://eulogikon.org/works/timaeus-sophist-lexicon-slq-aa)
 
 ## Text
 

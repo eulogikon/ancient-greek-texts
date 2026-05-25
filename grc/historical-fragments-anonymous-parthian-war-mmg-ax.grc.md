@@ -4,7 +4,7 @@ title_greek: Περὶ τοῦ Παρθικοῦ Πολέμου
 author: Historical Fragments  Anonymous
 eul_wid: mmg-ax
 eul_aid: mmg
-canonical: "https://eulogikon.org/grc/historical-fragments-anonymous/parthian-war"
+canonical: "https://eulogikon.org/works/anon-hist-frag-parthian-war-mmg-ax"
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Historical Fragments  Anonymous
 
-**eul_wid:** `mmg-ax` · [HTML page](https://eulogikon.org/grc/historical-fragments-anonymous/parthian-war)
+**eul_wid:** `mmg-ax` · [HTML page](https://eulogikon.org/works/anon-hist-frag-parthian-war-mmg-ax)
 
 ## Text
 
@@ -76,7 +76,7 @@ LUKIAN. Quom. hist. conscr. 18:
 
 ### 2b,203,F 2g
 
-ἔτι ὁ αὐτὸς οὗτος περὶ τῆς Σεουηριανοῦ τελευτῆς ἔγραψεν, ὡς οἱ μὲν ἄλλοι ἅπαντες ἐξηπάτηνται οἰόμενοι ξίφει τεθνάναι αὐτόν, ἀποθάνοι δὲ ὁ ἀνὴρ σιτίων ἀποσχόμενος· τοῦτον γὰρ αὐτῶι ἀλυπότατον δόξαι τὸν θάνατον—οὐκ εἰδὼς ὅτι τὸ μὲν πάθος ἐκεῖνο πᾶν τριῶν̣ οἶμαι ἡμερῶν ἐγένετο, ἀπόσιτοι δὲ καὶ ἐς ἑβδόμην διαρκοῦσιν οἱ πολλοί· ἐκτὸς εἰ μὴ τοῦθ’ ὑπολάβοι τις, ὡς Ὀσρόης [τις] εἱστήκει περιμένων, ἔστ’ ἂν Σεουηριανὸς λιμῶι ἀπόληται, καὶ διὰ τοῦτο οὐκ ἐπῆγε διὰ τῆς ἑβδόμης.
+ἔτι ὁ αὐτὸς οὗτος περὶ τῆς Σεουηριανοῦ τελευτῆς ἔγραψεν, ὡς οἱ μὲν ἄλλοι ἅπαντες ἐξηπάτηνται οἰόμενοι ξίφει τεθνάναι αὐτόν, ἀποθάνοι δὲ ὁ ἀνὴρ σιτίων ἀποσχόμενος· τοῦτον γὰρ αὐτῶι ἀλυπότατον δόξαι τὸν θάνατον—οὐκ εἰδὼς ὅτι τὸ μὲν πάθος ἐκεῖνο πᾶν τριῶν οἶμαι ἡμερῶν ἐγένετο, ἀπόσιτοι δὲ καὶ ἐς ἑβδόμην διαρκοῦσιν οἱ πολλοί· ἐκτὸς εἰ μὴ τοῦθ’ ὑπολάβοι τις, ὡς Ὀσρόης [τις] εἱστήκει περιμένων, ἔστ’ ἂν Σεουηριανὸς λιμῶι ἀπόληται, καὶ διὰ τοῦτο οὐκ ἐπῆγε διὰ τῆς ἑβδόμης.
 
 ### 2b,203,F 3
 

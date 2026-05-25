@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἡρακλέους
 author: Timaeus of Tauromenium
 eul_wid: hxk-ac
 eul_aid: hxk
-canonical: "https://eulogikon.org/grc/timaeus-of-tauromenium/heracles-fragments"
+canonical: "https://eulogikon.org/works/timaeus-tauromenium-heracles-fragments-hxk-ac"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Timaeus of Tauromenium
 
-**eul_wid:** `hxk-ac` · [HTML page](https://eulogikon.org/grc/timaeus-of-tauromenium/heracles-fragments)
+**eul_wid:** `hxk-ac` · [HTML page](https://eulogikon.org/works/timaeus-tauromenium-heracles-fragments-hxk-ac)
 
 ## Text
 

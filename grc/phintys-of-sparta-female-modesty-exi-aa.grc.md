@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Phintys of Sparta
 eul_wid: exi-aa
 eul_aid: exi
-canonical: "https://eulogikon.org/grc/phintys-of-sparta/female-modesty"
+canonical: "https://eulogikon.org/works/phintys-sparta-female-modesty-exi-aa"
 period: Classical
 dialect: "Doric (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Phintys of Sparta
 
-**eul_wid:** `exi-aa` · [HTML page](https://eulogikon.org/grc/phintys-of-sparta/female-modesty)
+**eul_wid:** `exi-aa` · [HTML page](https://eulogikon.org/works/phintys-sparta-female-modesty-exi-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἄλλα Ἀποσπάσματα περὶ Ἀρχῶν
 author: Origen of Alexandria
 eul_wid: uhs-be
 eul_aid: uhs
-canonical: "https://eulogikon.org/grc/origen-of-alexandria/other-fragments"
+canonical: "https://eulogikon.org/works/origen-alexandria-other-fragments-uhs-be"
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Origen of Alexandria
 
-**eul_wid:** `uhs-be` · [HTML page](https://eulogikon.org/grc/origen-of-alexandria/other-fragments)
+**eul_wid:** `uhs-be` · [HTML page](https://eulogikon.org/works/origen-alexandria-other-fragments-uhs-be)
 
 ## Text
 

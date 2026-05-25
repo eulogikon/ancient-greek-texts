@@ -4,7 +4,7 @@ title_greek: Ἐγχειρίδιον ἁρμονικῆς
 author: Nicomachus of Gerasa
 eul_wid: owy-ac
 eul_aid: owy
-canonical: "https://eulogikon.org/grc/nicomachus-of-gerasa/handbook-harmonics"
+canonical: "https://eulogikon.org/works/nicomachus-gerasa-handbook-harmonics-owy-ac"
 period: Roman
 dialect: Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nicomachus of Gerasa
 
-**eul_wid:** `owy-ac` · [HTML page](https://eulogikon.org/grc/nicomachus-of-gerasa/handbook-harmonics)
+**eul_wid:** `owy-ac` · [HTML page](https://eulogikon.org/works/nicomachus-gerasa-handbook-harmonics-owy-ac)
 
 ## Text
 

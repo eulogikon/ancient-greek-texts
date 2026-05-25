@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Pancrates of Arcadia
 eul_wid: jqu-ab
 eul_aid: jqu
-canonical: "https://eulogikon.org/grc/pancrates-of-arcadia/epigrams"
+canonical: "https://eulogikon.org/works/pancrates-arcadia-epigrams-jqu-ab"
 period: Hellenistic
 dialect: Epic (Homeric) (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pancrates of Arcadia
 
-**eul_wid:** `jqu-ab` · [HTML page](https://eulogikon.org/grc/pancrates-of-arcadia/epigrams)
+**eul_wid:** `jqu-ab` · [HTML page](https://eulogikon.org/works/pancrates-arcadia-epigrams-jqu-ab)
 
 ## Text
 

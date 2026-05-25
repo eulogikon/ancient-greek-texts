@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Hipparchus of Nicaea III
 eul_wid: lvs-aa
 eul_aid: lvs
-canonical: "https://eulogikon.org/grc/hipparchus-of-nicaea-iii/tranquility-life"
+canonical: "https://eulogikon.org/works/hipparchus-nicaea-tranquility-life-lvs-aa"
 period: Hellenistic
 dialect: Technical Koine
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hipparchus of Nicaea III
 
-**eul_wid:** `lvs-aa` · [HTML page](https://eulogikon.org/grc/hipparchus-of-nicaea-iii/tranquility-life)
+**eul_wid:** `lvs-aa` · [HTML page](https://eulogikon.org/works/hipparchus-nicaea-tranquility-life-lvs-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Θεοφορουμένης
 author: Menander of Athens
 eul_wid: hps-ae
 eul_aid: hps
-canonical: "https://eulogikon.org/grc/menander-of-athens/theophorumenae-fragments"
+canonical: "https://eulogikon.org/works/menander-athens-theophorumenae-fragments-hps-ae"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menander of Athens
 
-**eul_wid:** `hps-ae` · [HTML page](https://eulogikon.org/grc/menander-of-athens/theophorumenae-fragments)
+**eul_wid:** `hps-ae` · [HTML page](https://eulogikon.org/works/menander-athens-theophorumenae-fragments-hps-ae)
 
 ## Text
 

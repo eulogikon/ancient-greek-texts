@@ -4,7 +4,7 @@ title_greek: Περὶ Θεῶν καὶ Κόσμου
 author: Sallustius the Philosopher
 eul_wid: sny-aa
 eul_aid: sny
-canonical: "https://eulogikon.org/grc/sallustius-the-philosopher/gods-world"
+canonical: "https://eulogikon.org/works/sallustius-gods-world-sny-aa"
 period: Late Antique
 dialect: Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sallustius the Philosopher
 
-**eul_wid:** `sny-aa` · [HTML page](https://eulogikon.org/grc/sallustius-the-philosopher/gods-world)
+**eul_wid:** `sny-aa` · [HTML page](https://eulogikon.org/works/sallustius-gods-world-sny-aa)
 
 ## Text
 

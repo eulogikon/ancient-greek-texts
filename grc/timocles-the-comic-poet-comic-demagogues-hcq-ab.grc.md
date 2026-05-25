@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Δημαγωγῶν
 author: Timocles B Comic Poet
 eul_wid: hcq-ab
 eul_aid: hcq
-canonical: "https://eulogikon.org/grc/timocles-the-comic-poet/comic-demagogues"
+canonical: "https://eulogikon.org/works/timocles-comic-demagogues-hcq-ab"
 period: Classical
 dialect: Mixed Dialects (frg)
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Timocles B Comic Poet
 
-**eul_wid:** `hcq-ab` · [HTML page](https://eulogikon.org/grc/timocles-the-comic-poet/comic-demagogues)
+**eul_wid:** `hcq-ab` · [HTML page](https://eulogikon.org/works/timocles-comic-demagogues-hcq-ab)
 
 ## Text
 

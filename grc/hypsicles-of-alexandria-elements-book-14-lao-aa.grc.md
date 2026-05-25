@@ -4,7 +4,7 @@ title_greek: Βιβλίον Ὑψικλέους ἢ Στοιχεῖα Βιβλί
 author: Hypsicles of Alexandria
 eul_wid: lao-aa
 eul_aid: lao
-canonical: "https://eulogikon.org/grc/hypsicles-of-alexandria/elements-book-14"
+canonical: "https://eulogikon.org/works/hypsicles-alexandria-elements-book-14-lao-aa"
 period: Hellenistic
 dialect: Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hypsicles of Alexandria
 
-**eul_wid:** `lao-aa` · [HTML page](https://eulogikon.org/grc/hypsicles-of-alexandria/elements-book-14)
+**eul_wid:** `lao-aa` · [HTML page](https://eulogikon.org/works/hypsicles-alexandria-elements-book-14-lao-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Εἰς ξένους
 author: Hymnic Collection  Anonymous
 eul_wid: upu-bg
 eul_aid: upu
-canonical: "https://eulogikon.org/grc/homeric-hymns-anonymous/foreigners"
+canonical: "https://eulogikon.org/works/hymnic-anon-foreigners-upu-bg"
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hymnic Collection  Anonymous
 
-**eul_wid:** `upu-bg` · [HTML page](https://eulogikon.org/grc/homeric-hymns-anonymous/foreigners)
+**eul_wid:** `upu-bg` · [HTML page](https://eulogikon.org/works/hymnic-anon-foreigners-upu-bg)
 
 ## Text
 

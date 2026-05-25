@@ -4,7 +4,7 @@ title_greek: Χρονολογικόν
 author: John Malalas of Antioch
 eul_wid: vae-aa
 eul_aid: vae
-canonical: "https://eulogikon.org/grc/john-malalas-of-antioch/chronicle"
+canonical: "https://eulogikon.org/works/john-malalas-antioch-chronicle-vae-aa"
 period: Late Antique
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** John Malalas of Antioch
 
-**eul_wid:** `vae-aa` · [HTML page](https://eulogikon.org/grc/john-malalas-of-antioch/chronicle)
+**eul_wid:** `vae-aa` · [HTML page](https://eulogikon.org/works/john-malalas-antioch-chronicle-vae-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Εἰσαγωγὴ εἰς Ἀριστείδην
 author: Sopater of Athens
 eul_wid: spc-ab
 eul_aid: spc
-canonical: "https://eulogikon.org/grc/sopater-of-athens/introduction"
+canonical: "https://eulogikon.org/works/sopater-athens-introduction-spc-ab"
 period: Late Antique
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Sopater of Athens
 
-**eul_wid:** `spc-ab` · [HTML page](https://eulogikon.org/grc/sopater-of-athens/introduction)
+**eul_wid:** `spc-ab` · [HTML page](https://eulogikon.org/works/sopater-athens-introduction-spc-ab)
 
 ## Text
 

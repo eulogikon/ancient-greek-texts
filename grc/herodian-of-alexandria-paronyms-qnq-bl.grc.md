@@ -4,7 +4,7 @@ title_greek: Περὶ παρωνύμων
 author: Herodian of Alexandria
 eul_wid: qnq-bl
 eul_aid: qnq
-canonical: "https://eulogikon.org/grc/herodian-of-alexandria/paronyms"
+canonical: "https://eulogikon.org/works/herodian-alexandria-paronyms-qnq-bl"
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Herodian of Alexandria
 
-**eul_wid:** `qnq-bl` · [HTML page](https://eulogikon.org/grc/herodian-of-alexandria/paronyms)
+**eul_wid:** `qnq-bl` · [HTML page](https://eulogikon.org/works/herodian-alexandria-paronyms-qnq-bl)
 
 ## Text
 

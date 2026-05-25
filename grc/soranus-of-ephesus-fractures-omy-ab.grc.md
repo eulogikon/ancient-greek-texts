@@ -4,7 +4,7 @@ title_greek: Περὶ Σημείων Καταγμάτων
 author: Soranus of Ephesus
 eul_wid: omy-ab
 eul_aid: omy
-canonical: "https://eulogikon.org/grc/soranus-of-ephesus/fractures"
+canonical: "https://eulogikon.org/works/soranus-ephesus-fractures-omy-ab"
 period: Roman
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Soranus of Ephesus
 
-**eul_wid:** `omy-ab` · [HTML page](https://eulogikon.org/grc/soranus-of-ephesus/fractures)
+**eul_wid:** `omy-ab` · [HTML page](https://eulogikon.org/works/soranus-ephesus-fractures-omy-ab)
 
 ## Text
 

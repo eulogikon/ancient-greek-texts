@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Moero of Byzantium
 eul_wid: ica-ab
 eul_aid: ica
-canonical: "https://eulogikon.org/grc/moero-of-byzantium/epigrams"
+canonical: "https://eulogikon.org/works/moero-byzantium-epigrams-ica-ab"
 period: Hellenistic
 dialect: Koine
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Moero of Byzantium
 
-**eul_wid:** `ica-ab` · [HTML page](https://eulogikon.org/grc/moero-of-byzantium/epigrams)
+**eul_wid:** `ica-ab` · [HTML page](https://eulogikon.org/works/moero-byzantium-epigrams-ica-ab)
 
 ## Text
 

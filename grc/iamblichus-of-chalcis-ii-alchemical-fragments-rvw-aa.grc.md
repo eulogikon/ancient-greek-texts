@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Ἀλχημικά
 author: Iamblichus of Chalcis II
 eul_wid: rvw-aa
 eul_aid: rvw
-canonical: "https://eulogikon.org/grc/iamblichus-of-chalcis-ii/alchemical-fragments"
+canonical: "https://eulogikon.org/works/iamblichus-chalcis-alchemical-fragments-rvw-aa"
 period: Roman
 dialect: Mixed Dialects (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Iamblichus of Chalcis II
 
-**eul_wid:** `rvw-aa` · [HTML page](https://eulogikon.org/grc/iamblichus-of-chalcis-ii/alchemical-fragments)
+**eul_wid:** `rvw-aa` · [HTML page](https://eulogikon.org/works/iamblichus-chalcis-alchemical-fragments-rvw-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀστρολογικὸν Ἀπόσπασμα
 author: "Orphic Poems "
 eul_wid: lea-ab
 eul_aid: lea
-canonical: "https://eulogikon.org/grc/orphic-poems/astrological-fragment"
+canonical: "https://eulogikon.org/works/orphic-poems-astrological-fragment-lea-ab"
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Orphic Poems 
 
-**eul_wid:** `lea-ab` · [HTML page](https://eulogikon.org/grc/orphic-poems/astrological-fragment)
+**eul_wid:** `lea-ab` · [HTML page](https://eulogikon.org/works/orphic-poems-astrological-fragment-lea-ab)
 
 ## Text
 

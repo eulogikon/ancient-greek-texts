@@ -4,7 +4,7 @@ title_greek: Σχόλια εἰς Εὐριπίδου Ὀρέστην
 author: Xenophon Scholia
 eul_wid: cto-ae
 eul_aid: cto
-canonical: "https://eulogikon.org/grc/xenophon-scholia/orestes"
+canonical: "https://eulogikon.org/works/xenophon-scholia-orestes-cto-ae"
 period: Classical
 dialect: Mixed Dialects
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Xenophon Scholia
 
-**eul_wid:** `cto-ae` · [HTML page](https://eulogikon.org/grc/xenophon-scholia/orestes)
+**eul_wid:** `cto-ae` · [HTML page](https://eulogikon.org/works/xenophon-scholia-orestes-cto-ae)
 
 ## Text
 

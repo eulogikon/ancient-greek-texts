@@ -4,7 +4,7 @@ title_greek: Ἀντιλογία πρὸς Μανιχαῖον
 author: John of Caesarea in Palestine
 eul_wid: uxw-ag
 eul_aid: uxw
-canonical: "https://eulogikon.org/grc/john-of-caesarea-in-palestine/disputation-manichaean"
+canonical: "https://eulogikon.org/works/john-caesarea-palestine-disputation-manichaean-uxw-ag"
 period: Late Antique
 dialect: Christian Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** John of Caesarea in Palestine
 
-**eul_wid:** `uxw-ag` · [HTML page](https://eulogikon.org/grc/john-of-caesarea-in-palestine/disputation-manichaean)
+**eul_wid:** `uxw-ag` · [HTML page](https://eulogikon.org/works/john-caesarea-palestine-disputation-manichaean-uxw-ag)
 
 ## Text
 

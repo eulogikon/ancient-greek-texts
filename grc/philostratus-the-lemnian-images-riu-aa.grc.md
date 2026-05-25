@@ -4,7 +4,7 @@ title_greek: Εἰκόνες
 author: Philostratus the Lemnian
 eul_wid: riu-aa
 eul_aid: riu
-canonical: "https://eulogikon.org/grc/philostratus-the-lemnian/images"
+canonical: "https://eulogikon.org/works/philostratus-lemnian-images-riu-aa"
 period: Roman
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Philostratus the Lemnian
 
-**eul_wid:** `riu-aa` · [HTML page](https://eulogikon.org/grc/philostratus-the-lemnian/images)
+**eul_wid:** `riu-aa` · [HTML page](https://eulogikon.org/works/philostratus-lemnian-images-riu-aa)
 
 ## Text
 

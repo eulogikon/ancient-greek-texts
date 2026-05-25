@@ -4,7 +4,7 @@ title_greek: Ἐπιστολαὶ Παυσανίου καὶ Ξέρξου
 author: Pausanias and Xerxes Letters
 eul_wid: eqk-aa
 eul_aid: eqk
-canonical: "https://eulogikon.org/grc/pausanias-and-xerxes-letters/correspondence"
+canonical: "https://eulogikon.org/works/pausanias-xerxes-letters-correspondence-eqk-aa"
 period: Classical
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Pausanias and Xerxes Letters
 
-**eul_wid:** `eqk-aa` · [HTML page](https://eulogikon.org/grc/pausanias-and-xerxes-letters/correspondence)
+**eul_wid:** `eqk-aa` · [HTML page](https://eulogikon.org/works/pausanias-xerxes-letters-correspondence-eqk-aa)
 
 ## Text
 

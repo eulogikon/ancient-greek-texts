@@ -4,7 +4,7 @@ title_greek: Ἀλεξάνδρῳ
 author: Isocrates of Athens
 eul_wid: ffu-aj
 eul_aid: ffu
-canonical: "https://eulogikon.org/grc/isocrates-of-athens/alexander"
+canonical: "https://eulogikon.org/works/isocrates-athens-alexander-ffu-aj"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Isocrates of Athens
 
-**eul_wid:** `ffu-aj` · [HTML page](https://eulogikon.org/grc/isocrates-of-athens/alexander)
+**eul_wid:** `ffu-aj` · [HTML page](https://eulogikon.org/works/isocrates-athens-alexander-ffu-aj)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: κατὰ Ἀλκιβιάδου ἀστρατείας
 author: Lysias the Orator
 eul_wid: ejc-aj
 eul_aid: ejc
-canonical: "https://eulogikon.org/grc/lysias/against-alcibiades-aj"
+canonical: "https://eulogikon.org/works/lysias-against-alcibiades-ejc-aj"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lysias the Orator
 
-**eul_wid:** `ejc-aj` · [HTML page](https://eulogikon.org/grc/lysias/against-alcibiades-aj)
+**eul_wid:** `ejc-aj` · [HTML page](https://eulogikon.org/works/lysias-against-alcibiades-ejc-aj)
 
 ## Text
 

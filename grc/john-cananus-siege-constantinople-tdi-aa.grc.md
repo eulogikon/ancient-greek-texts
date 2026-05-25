@@ -4,7 +4,7 @@ title_greek: Περὶ τῆς Πολιορκίας τῆς Κωνσταντιν
 author: John Cananus
 eul_wid: tdi-aa
 eul_aid: tdi
-canonical: "https://eulogikon.org/grc/john-cananus/siege-constantinople"
+canonical: "https://eulogikon.org/works/john-can-siege-constantinople-tdi-aa"
 period: Late Antique
 dialect: Byzantine Greek
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** John Cananus
 
-**eul_wid:** `tdi-aa` · [HTML page](https://eulogikon.org/grc/john-cananus/siege-constantinople)
+**eul_wid:** `tdi-aa` · [HTML page](https://eulogikon.org/works/john-can-siege-constantinople-tdi-aa)
 
 ## Text
 

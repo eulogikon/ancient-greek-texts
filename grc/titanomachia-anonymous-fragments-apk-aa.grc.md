@@ -4,7 +4,7 @@ title_greek: Τιτανομαχίας Ἀποσπάσματα
 author: "Epic: Titanomachia Anonymous"
 eul_wid: apk-aa
 eul_aid: apk
-canonical: "https://eulogikon.org/grc/titanomachia-anonymous/fragments"
+canonical: "https://eulogikon.org/works/epic-titanomachia-fragments-apk-aa"
 period: Archaic
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Epic: Titanomachia Anonymous
 
-**eul_wid:** `apk-aa` · [HTML page](https://eulogikon.org/grc/titanomachia-anonymous/fragments)
+**eul_wid:** `apk-aa` · [HTML page](https://eulogikon.org/works/epic-titanomachia-fragments-apk-aa)
 
 ## Text
 
@@ -36,15 +36,15 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 5.1
 
-[ ]νεκ[ ].ο.[] [ ]ς νεφεληγε[ρέτα Ζεύς] [ ]. Τιτῆνα μέ[γιστον] [ ]βαλέοντι ἐο[ικώς.][ln_5][ἔχαιρ]ε μέγα̣ φρεσὶ[ν ἧισιν] [ ]ντορα
+[ ]νεκ[ ].ο.[] [ ]ς νεφεληγε[ρέτα Ζεύς] [ ]. Τιτῆνα μέ[γιστον] [ ]βαλέοντι ἐο[ικώς.][ln_5][ἔχαιρ]ε μέγα φρεσὶ[ν ἧισιν] [ ]ντορα
 
 ### book 5.2
 
-Φοῖβον[] [ π]ροσέφη.ευ[] [ ]φ̣α οὗ κράτος [] [ ]ς θ’ ἵσταται.[][ln_10][ δρι]μὺν χόλον[] [ ]τα γε
+Φοῖβον[] [ π]ροσέφη.ευ[] [ ]φα οὗ κράτος [] [ ]ς θ’ ἵσταται.[][ln_10][ δρι]μὺν χόλον[] [ ]τα γε
 
 ### book 5.3
 
-σθεν.[] [ ]ενει.απε.[] [ ]ες ἔργον δ’ α̣[] [ ]π̣άντες δ̣[][ln_15][ ]αντη[] [ ]νωνυ[] [ ].γαπα[] [ ]σπλη[] [ ]ν ἀδικο[][ln_20][ ]σεν.[] [ ].ανα̣[ ]
+σθεν.[] [ ]ενει.απε.[] [ ]ες ἔργον δ’ α[] [ ]πάντες δ[][ln_15][ ]αντη[] [ ]νωνυ[] [ ].γαπα[] [ ]σπλη[] [ ]ν ἀδικο[][ln_20][ ]σεν.[] [ ].ανα[ ]
 
 ### book 6.1
 

@@ -4,7 +4,7 @@ title_greek: Προμηθεύς
 author: Lucian of Samosata
 eul_wid: pfk-ce
 eul_aid: pfk
-canonical: "https://eulogikon.org/grc/lucian-of-samosata/prometheus"
+canonical: "https://eulogikon.org/works/lucian-samosata-prometheus-pfk-ce"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lucian of Samosata
 
-**eul_wid:** `pfk-ce` · [HTML page](https://eulogikon.org/grc/lucian-of-samosata/prometheus)
+**eul_wid:** `pfk-ce` · [HTML page](https://eulogikon.org/works/lucian-samosata-prometheus-pfk-ce)
 
 ## Text
 

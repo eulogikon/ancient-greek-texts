@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τῶν Δηλίων Μύθων
 author: Phanodicus
 eul_wid: jry-aa
 eul_aid: jry
-canonical: "https://eulogikon.org/grc/phanodicus/delian-legends"
+canonical: "https://eulogikon.org/works/phanodicus-delian-legends-jry-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Phanodicus
 
-**eul_wid:** `jry-aa` · [HTML page](https://eulogikon.org/grc/phanodicus/delian-legends)
+**eul_wid:** `jry-aa` · [HTML page](https://eulogikon.org/works/phanodicus-delian-legends-jry-aa)
 
 ## Text
 

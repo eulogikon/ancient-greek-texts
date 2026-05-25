@@ -4,7 +4,7 @@ title_greek: Μενεκράτης ὁ Ἰατρός
 author: Menecrates of Syracuse
 eul_wid: fws-aa
 eul_aid: fws
-canonical: "https://eulogikon.org/grc/menecrates-of-syracuse/physician"
+canonical: "https://eulogikon.org/works/menecrates-syracuse-physician-fws-aa"
 period: Classical
 dialect: Doric
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Menecrates of Syracuse
 
-**eul_wid:** `fws-aa` · [HTML page](https://eulogikon.org/grc/menecrates-of-syracuse/physician)
+**eul_wid:** `fws-aa` · [HTML page](https://eulogikon.org/works/menecrates-syracuse-physician-fws-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Nessos of Chios
 eul_wid: coo-aa
 eul_aid: coo
-canonical: "https://eulogikon.org/grc/nessos-of-chios/testimonies"
+canonical: "https://eulogikon.org/works/nessos-chios-testimonies-coo-aa"
 period: Classical
 dialect: Ionic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Nessos of Chios
 
-**eul_wid:** `coo-aa` · [HTML page](https://eulogikon.org/grc/nessos-of-chios/testimonies)
+**eul_wid:** `coo-aa` · [HTML page](https://eulogikon.org/works/nessos-chios-testimonies-coo-aa)
 
 ## Text
 
