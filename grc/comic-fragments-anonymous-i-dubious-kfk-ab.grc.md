@@ -4,7 +4,7 @@ title_greek: Ἀμφίβολα Ἀνώνυμα Ἔργα
 author: Comic Fragments Anonymous I
 eul_wid: kfk-ab
 eul_aid: kfk
-canonical: "https://eulogikon.org/grc/comic-fragments-anonymous-i/dubious"
+canonical: "https://eulogikon.org/works/anon-comic-fragments-dubious-kfk-ab"
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Comic Fragments Anonymous I
 
-**eul_wid:** `kfk-ab` · [HTML page](https://eulogikon.org/grc/comic-fragments-anonymous-i/dubious)
+**eul_wid:** `kfk-ab` · [HTML page](https://eulogikon.org/works/anon-comic-fragments-dubious-kfk-ab)
 
 ## Text
 

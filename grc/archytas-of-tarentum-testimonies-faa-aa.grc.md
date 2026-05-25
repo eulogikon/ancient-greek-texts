@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Archytas of Tarentum
 eul_wid: faa-aa
 eul_aid: faa
-canonical: "https://eulogikon.org/grc/archytas-of-tarentum/testimonies"
+canonical: "https://eulogikon.org/works/archytas-tarentum-testimonies-faa-aa"
 period: Classical
 dialect: Doric (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Archytas of Tarentum
 
-**eul_wid:** `faa-aa` · [HTML page](https://eulogikon.org/grc/archytas-of-tarentum/testimonies)
+**eul_wid:** `faa-aa` · [HTML page](https://eulogikon.org/works/archytas-tarentum-testimonies-faa-aa)
 
 ## Text
 

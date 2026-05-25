@@ -4,7 +4,7 @@ title_greek: Ἱστορίαι Ῥωμαϊκαί
 author: Dio Cassius of Nicaea
 eul_wid: rhq-aj
 eul_aid: rhq
-canonical: "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-2-3"
+canonical: "https://eulogikon.org/works/dio-cassius-nicaea-roman-histories-2-3-rhq-aj"
 period: Roman
 dialect: Atticizing
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dio Cassius of Nicaea
 
-**eul_wid:** `rhq-aj` · [HTML page](https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-2-3)
+**eul_wid:** `rhq-aj` · [HTML page](https://eulogikon.org/works/dio-cassius-nicaea-roman-histories-2-3-rhq-aj)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Λόγοι ἐν ταῖς Γραφαῖς περὶ Γεννήσε
 author: Lexicographical Work Anonymous II
 eul_wid: uhi-aa
 eul_aid: uhi
-canonical: "https://eulogikon.org/grc/anonymous-lexicographer-ii/scriptures-christ-birth"
+canonical: "https://eulogikon.org/works/anon-lexicographer-ii-scriptures-christ-birth-uhi-aa"
 period: Late Antique
 dialect: Mixed Dialects
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lexicographical Work Anonymous II
 
-**eul_wid:** `uhi-aa` · [HTML page](https://eulogikon.org/grc/anonymous-lexicographer-ii/scriptures-christ-birth)
+**eul_wid:** `uhi-aa` · [HTML page](https://eulogikon.org/works/anon-lexicographer-ii-scriptures-christ-birth-uhi-aa)
 
 ## Text
 

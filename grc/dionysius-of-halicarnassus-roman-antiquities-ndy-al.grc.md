@@ -4,7 +4,7 @@ title_greek: Ῥωμαϊκὴ Ἀρχαιολογία
 author: Dionysius of Halicarnassus
 eul_wid: ndy-al
 eul_aid: ndy
-canonical: "https://eulogikon.org/grc/dionysius-of-halicarnassus/roman-antiquities"
+canonical: "https://eulogikon.org/works/dionysius-halicarnassus-roman-antiquities-ndy-al"
 period: Hellenistic
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dionysius of Halicarnassus
 
-**eul_wid:** `ndy-al` · [HTML page](https://eulogikon.org/grc/dionysius-of-halicarnassus/roman-antiquities)
+**eul_wid:** `ndy-al` · [HTML page](https://eulogikon.org/works/dionysius-halicarnassus-roman-antiquities-ndy-al)
 
 ## Text
 

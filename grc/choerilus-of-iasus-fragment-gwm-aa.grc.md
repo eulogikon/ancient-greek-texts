@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα καὶ Τίτλος
 author: Choerilus of Iasus
 eul_wid: gwm-aa
 eul_aid: gwm
-canonical: "https://eulogikon.org/grc/choerilus-of-iasus/fragment"
+canonical: "https://eulogikon.org/works/choerilus-iasus-fragment-gwm-aa"
 period: Classical
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Choerilus of Iasus
 
-**eul_wid:** `gwm-aa` · [HTML page](https://eulogikon.org/grc/choerilus-of-iasus/fragment)
+**eul_wid:** `gwm-aa` · [HTML page](https://eulogikon.org/works/choerilus-iasus-fragment-gwm-aa)
 
 ## Text
 

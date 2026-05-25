@@ -4,7 +4,7 @@ title_greek: Πλοῦτος
 author: Aristophanes of Athens
 eul_wid: daw-ao
 eul_aid: daw
-canonical: "https://eulogikon.org/grc/aristophanes-of-athens/wealth"
+canonical: "https://eulogikon.org/works/aristophanes-athens-wealth-daw-ao"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristophanes of Athens
 
-**eul_wid:** `daw-ao` · [HTML page](https://eulogikon.org/grc/aristophanes-of-athens/wealth)
+**eul_wid:** `daw-ao` · [HTML page](https://eulogikon.org/works/aristophanes-athens-wealth-daw-ao)
 
 ## Text
 

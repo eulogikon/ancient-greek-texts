@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Demodocus of Leros
 eul_wid: bea-aa
 eul_aid: bea
-canonical: "https://eulogikon.org/grc/demodocus-of-leros/satirical-epigrams"
+canonical: "https://eulogikon.org/works/demodocus-leros-satirical-epigrams-bea-aa"
 period: Archaic
 dialect: Ionic Elegiac
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demodocus of Leros
 
-**eul_wid:** `bea-aa` · [HTML page](https://eulogikon.org/grc/demodocus-of-leros/satirical-epigrams)
+**eul_wid:** `bea-aa` · [HTML page](https://eulogikon.org/works/demodocus-leros-satirical-epigrams-bea-aa)
 
 ## Text
 
@@ -64,7 +64,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 6.1
 
-ἢν τύχηις †τήνων δικάζ͜εο͜ τὴν
+ἢν τύχηις τήνων δικάζ͜εο͜ τὴν
 
 ### book 6.2
 

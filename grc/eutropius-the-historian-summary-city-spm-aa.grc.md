@@ -4,7 +4,7 @@ title_greek: Σύνοψις ἀπὸ τῆς Κτίσεως τῆς Πόλεως
 author: Eutropius the Historian
 eul_wid: spm-aa
 eul_aid: spm
-canonical: "https://eulogikon.org/grc/eutropius-the-historian/summary-city"
+canonical: "https://eulogikon.org/works/eutropius-summary-city-spm-aa"
 period: Late Antique
 dialect: Mixed Dialects
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Eutropius the Historian
 
-**eul_wid:** `spm-aa` · [HTML page](https://eulogikon.org/grc/eutropius-the-historian/summary-city)
+**eul_wid:** `spm-aa` · [HTML page](https://eulogikon.org/works/eutropius-summary-city-spm-aa)
 
 ## Text
 

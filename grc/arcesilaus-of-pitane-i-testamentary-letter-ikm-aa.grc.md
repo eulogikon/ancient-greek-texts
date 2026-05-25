@@ -4,7 +4,7 @@ title_greek: Ἐπιστολή
 author: Arcesilaus of Pitane I
 eul_wid: ikm-aa
 eul_aid: ikm
-canonical: "https://eulogikon.org/grc/arcesilaus-of-pitane-i/testamentary-letter"
+canonical: "https://eulogikon.org/works/arcesilaus-pitane-testamentary-letter-ikm-aa"
 period: Hellenistic
 dialect: Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Arcesilaus of Pitane I
 
-**eul_wid:** `ikm-aa` · [HTML page](https://eulogikon.org/grc/arcesilaus-of-pitane-i/testamentary-letter)
+**eul_wid:** `ikm-aa` · [HTML page](https://eulogikon.org/works/arcesilaus-pitane-testamentary-letter-ikm-aa)
 
 ## Text
 

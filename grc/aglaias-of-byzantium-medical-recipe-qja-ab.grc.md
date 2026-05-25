@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Aglaias of Byzantium
 eul_wid: qja-ab
 eul_aid: qja
-canonical: "https://eulogikon.org/grc/aglaias-of-byzantium/medical-recipe"
+canonical: "https://eulogikon.org/works/aglaias-byzantium-medical-recipe-qja-ab"
 period: Roman
 dialect: Koine (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aglaias of Byzantium
 
-**eul_wid:** `qja-ab` · [HTML page](https://eulogikon.org/grc/aglaias-of-byzantium/medical-recipe)
+**eul_wid:** `qja-ab` · [HTML page](https://eulogikon.org/works/aglaias-byzantium-medical-recipe-qja-ab)
 
 ## Text
 
@@ -60,7 +60,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 18.5
 
-ψευδωνύμου ἔστω, [para]ὃς γῆμαι δμωῆς υἱέϊ δῶκε κόρην. στῆσον δ’ αὖ †ἀλόϊον ἓν ἥμισυ
+ψευδωνύμου ἔστω, [para]ὃς γῆμαι δμωῆς υἱέϊ δῶκε κόρην. στῆσον δ’ αὖ ἀλόϊον ἓν ἥμισυ
 
 ### book 18.6
 
@@ -76,7 +76,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 18.9
 
-πηγὸς ἁλός. καὶ †Ζακορίσου Μούσαις ἰσάριθμον ὄπισμα [para]δραχμόθεν ἔστω
+πηγὸς ἁλός. καὶ Ζακορίσου Μούσαις ἰσάριθμον ὄπισμα [para]δραχμόθεν ἔστω
 
 ### book 18.10
 

@@ -4,7 +4,7 @@ title_greek: Περὶ Βαρῶν καὶ Μέτρων
 author: Medical Writer  Anonymous
 eul_wid: tqu-an
 eul_aid: tqu
-canonical: "https://eulogikon.org/grc/anonymous-medical-writer/weights-measures"
+canonical: "https://eulogikon.org/works/med-writer-anon-weights-measures-tqu-an"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Medical Writer  Anonymous
 
-**eul_wid:** `tqu-an` · [HTML page](https://eulogikon.org/grc/anonymous-medical-writer/weights-measures)
+**eul_wid:** `tqu-an` · [HTML page](https://eulogikon.org/works/med-writer-anon-weights-measures-tqu-an)
 
 ## Text
 
@@ -264,7 +264,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 58 13
 
-Τὸ μέγα † λείτρον οὐγγίαν αʹ. Ἡ οὐγγία cτάγια ἕξ.
+Τὸ μέγα λείτρον οὐγγίαν αʹ. Ἡ οὐγγία cτάγια ἕξ.
 
 ### 58 15
 
@@ -420,7 +420,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 60 28
 
-Ὁ χοῖνιξ ἔχει μέτρῳ μὲν κοτύλαc Ἀττικὰc τρεῖc, cταθμῷ δὲ 𐅻 ρπʹ. — — — Ἐν δὲ τοῖc γεωργικοῖc εὗρον τὴν κοτύλην † τρίτον ἢ τέταρτον ξέcτου· τὸν δὲ χοῦν ξεcτῶν θʹ, κοτυλῶν δὲ ιβʹ· καὶ τὸν ἀμφορέα ξεcτῶν λϛʹ, κοτυλῶν μηʹ· τὸν δὲ μετρητὴν ξεcτῶν οβʹ, κοτυλῶν Ϟϛʹ· τὸν δὲ μέδιμνον ξεcτῶν ρβʹ, κοτυλῶν ρλϛʹ.
+Ὁ χοῖνιξ ἔχει μέτρῳ μὲν κοτύλαc Ἀττικὰc τρεῖc, cταθμῷ δὲ 𐅻 ρπʹ. — — — Ἐν δὲ τοῖc γεωργικοῖc εὗρον τὴν κοτύλην τρίτον ἢ τέταρτον ξέcτου· τὸν δὲ χοῦν ξεcτῶν θʹ, κοτυλῶν δὲ ιβʹ· καὶ τὸν ἀμφορέα ξεcτῶν λϛʹ, κοτυλῶν μηʹ· τὸν δὲ μετρητὴν ξεcτῶν οβʹ, κοτυλῶν Ϟϛʹ· τὸν δὲ μέδιμνον ξεcτῶν ρβʹ, κοτυλῶν ρλϛʹ.
 
 ### 60 30
 

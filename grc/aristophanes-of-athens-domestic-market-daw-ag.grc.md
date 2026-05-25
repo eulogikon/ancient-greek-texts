@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Aristophanes of Athens
 eul_wid: daw-ag
 eul_aid: daw
-canonical: "https://eulogikon.org/grc/aristophanes-of-athens/domestic-market"
+canonical: "https://eulogikon.org/works/aristophanes-athens-domestic-market-daw-ag"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristophanes of Athens
 
-**eul_wid:** `daw-ag` · [HTML page](https://eulogikon.org/grc/aristophanes-of-athens/domestic-market)
+**eul_wid:** `daw-ag` · [HTML page](https://eulogikon.org/works/aristophanes-athens-domestic-market-daw-ag)
 
 ## Text
 

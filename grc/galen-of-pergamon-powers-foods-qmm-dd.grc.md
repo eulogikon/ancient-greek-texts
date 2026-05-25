@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν ἐν ταῖς τροφαῖς δυνάμεων
 author: Galen of Pergamon
 eul_wid: qmm-dd
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/powers-foods"
+canonical: "https://eulogikon.org/works/galen-pergamon-powers-foods-qmm-dd"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-dd` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/powers-foods)
+**eul_wid:** `qmm-dd` · [HTML page](https://eulogikon.org/works/galen-pergamon-powers-foods-qmm-dd)
 
 ## Text
 

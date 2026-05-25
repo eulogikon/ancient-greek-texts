@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Heniochus the Comic Poet
 eul_wid: fdm-ab
 eul_aid: fdm
-canonical: "https://eulogikon.org/grc/heniochus-the-comic-poet/symposium"
+canonical: "https://eulogikon.org/works/heniochus-symposium-fdm-ab"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Heniochus the Comic Poet
 
-**eul_wid:** `fdm-ab` · [HTML page](https://eulogikon.org/grc/heniochus-the-comic-poet/symposium)
+**eul_wid:** `fdm-ab` · [HTML page](https://eulogikon.org/works/heniochus-symposium-fdm-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Στοιχεῖα Εὐκλείδου
 author: Disciple of Isidore of Miletus Anonymous
 eul_wid: upk-aa
 eul_aid: upk
-canonical: "https://eulogikon.org/grc/anonymous-disciple-of-isidore-of-miletus/elements-book-15"
+canonical: "https://eulogikon.org/works/anon-isidore-miletus-elements-book-15-upk-aa"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Disciple of Isidore of Miletus Anonymous
 
-**eul_wid:** `upk-aa` · [HTML page](https://eulogikon.org/grc/anonymous-disciple-of-isidore-of-miletus/elements-book-15)
+**eul_wid:** `upk-aa` · [HTML page](https://eulogikon.org/works/anon-isidore-miletus-elements-book-15-upk-aa)
 
 ## Text
 

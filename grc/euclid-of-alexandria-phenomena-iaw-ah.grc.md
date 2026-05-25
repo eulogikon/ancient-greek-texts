@@ -4,7 +4,7 @@ title_greek: Φαινόμενα
 author: Euclid of Alexandria
 eul_wid: iaw-ah
 eul_aid: iaw
-canonical: "https://eulogikon.org/grc/euclid-of-alexandria/phenomena"
+canonical: "https://eulogikon.org/works/euclid-alexandria-phenomena-iaw-ah"
 period: Hellenistic
 dialect: Technical Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euclid of Alexandria
 
-**eul_wid:** `iaw-ah` · [HTML page](https://eulogikon.org/grc/euclid-of-alexandria/phenomena)
+**eul_wid:** `iaw-ah` · [HTML page](https://eulogikon.org/works/euclid-alexandria-phenomena-iaw-ah)
 
 ## Text
 

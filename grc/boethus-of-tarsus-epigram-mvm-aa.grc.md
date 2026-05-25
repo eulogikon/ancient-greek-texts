@@ -4,7 +4,7 @@ title_greek: Ἐπίγραμμα
 author: Boethus of Tarsus
 eul_wid: mvm-aa
 eul_aid: mvm
-canonical: "https://eulogikon.org/grc/boethus-of-tarsus/epigram"
+canonical: "https://eulogikon.org/works/boethus-tarsus-epigram-mvm-aa"
 period: Hellenistic
 dialect: Koine
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Boethus of Tarsus
 
-**eul_wid:** `mvm-aa` · [HTML page](https://eulogikon.org/grc/boethus-of-tarsus/epigram)
+**eul_wid:** `mvm-aa` · [HTML page](https://eulogikon.org/works/boethus-tarsus-epigram-mvm-aa)
 
 ## Text
 

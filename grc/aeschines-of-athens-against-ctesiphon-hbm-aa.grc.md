@@ -4,7 +4,7 @@ title_greek: Κατά Κτησιφώντος
 author: Aeschines of Athens
 eul_wid: hbm-aa
 eul_aid: hbm
-canonical: "https://eulogikon.org/grc/aeschines-of-athens/against-ctesiphon"
+canonical: "https://eulogikon.org/works/aeschines-athens-against-ctesiphon-hbm-aa"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aeschines of Athens
 
-**eul_wid:** `hbm-aa` · [HTML page](https://eulogikon.org/grc/aeschines-of-athens/against-ctesiphon)
+**eul_wid:** `hbm-aa` · [HTML page](https://eulogikon.org/works/aeschines-athens-against-ctesiphon-hbm-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Diogenes of Sinope
 eul_wid: fak-aa
 eul_aid: fak
-canonical: "https://eulogikon.org/grc/diogenes-of-sinope/maxims-virtue-fortune"
+canonical: "https://eulogikon.org/works/diogenes-sinope-maxims-virtue-fortune-fak-aa"
 period: Classical
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Diogenes of Sinope
 
-**eul_wid:** `fak-aa` · [HTML page](https://eulogikon.org/grc/diogenes-of-sinope/maxims-virtue-fortune)
+**eul_wid:** `fak-aa` · [HTML page](https://eulogikon.org/works/diogenes-sinope-maxims-virtue-fortune-fak-aa)
 
 ## Text
 
 ### 3
 
-ΑΤΡΕΥΣ ΑΧΙΛΛΕΥΣ ΕΛΕΝΗ ΗΡΑΚΛΗΣ ΘΥΕΣΤΗΣ ΜΗΔΕΙΑ ΟΙΔΙΠΟΥΣ ΧΡΥΣΙΠΠΟΣ οἱ τῆς ἀνάνδρου καὶ διεσκατωμένης τρυφῆς ὑφ’ ἡδοναῖσι σαχθέντες κέαρ πονεῖν θέλοντες οὐδὲ βαιά –⏑– θέλω τύχης σταλαγμὸν ἢ φρενῶν πίθον, ἧς μὴ παρούσης δυστυχοῦσιν αἱ φρένες DUBIA
+ΑΤΡΕΥΣ ΑΧΙΛΛΕΥΣ ΕΛΕΝΗ ΗΡΑΚΛΗΣ ΘΥΕΣΤΗΣ ΜΗΔΕΙΑ ΟΙΔΙΠΟΥΣ ΧΡΥΣΙΠΠΟΣ οἱ τῆς ἀνάνδρου καὶ διεσκατωμένης τρυφῆς ὑφ’ ἡδοναῖσι σαχθέντες κέαρ πονεῖν θέλοντες οὐδὲ βαιά –– θέλω τύχης σταλαγμὸν ἢ φρενῶν πίθον, ἧς μὴ παρούσης δυστυχοῦσιν αἱ φρένες DUBIA
 
 ### 7
 

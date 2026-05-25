@@ -4,7 +4,7 @@ title_greek: Οἰκονομία τῆς ἀσβέστου
 author: Alchemist I
 eul_wid: rrg-ce
 eul_aid: rrg
-canonical: "https://eulogikon.org/grc/alchemist-i/lime-management"
+canonical: "https://eulogikon.org/works/alchemist-i-lime-management-rrg-ce"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alchemist I
 
-**eul_wid:** `rrg-ce` · [HTML page](https://eulogikon.org/grc/alchemist-i/lime-management)
+**eul_wid:** `rrg-ce` · [HTML page](https://eulogikon.org/works/alchemist-i-lime-management-rrg-ce)
 
 ## Text
 

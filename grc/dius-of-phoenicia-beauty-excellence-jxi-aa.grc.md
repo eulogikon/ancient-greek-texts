@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Dius the Historian of Phoenicia
 eul_wid: jxi-aa
 eul_aid: jxi
-canonical: "https://eulogikon.org/grc/dius-of-phoenicia/beauty-excellence"
+canonical: "https://eulogikon.org/works/dius-phoenicia-beauty-excellence-jxi-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dius the Historian of Phoenicia
 
-**eul_wid:** `jxi-aa` · [HTML page](https://eulogikon.org/grc/dius-of-phoenicia/beauty-excellence)
+**eul_wid:** `jxi-aa` · [HTML page](https://eulogikon.org/works/dius-phoenicia-beauty-excellence-jxi-aa)
 
 ## Text
 

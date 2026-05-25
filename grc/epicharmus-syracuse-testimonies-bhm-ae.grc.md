@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Epicharmus of Syracuse
 eul_wid: bhm-ae
 eul_aid: bhm
-canonical: "https://eulogikon.org/grc/epicharmus-syracuse/testimonies"
+canonical: "https://eulogikon.org/works/epicharmus-syracuse-testimonies-bhm-ae"
 period: Archaic
 dialect: Doric
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Epicharmus of Syracuse
 
-**eul_wid:** `bhm-ae` · [HTML page](https://eulogikon.org/grc/epicharmus-syracuse/testimonies)
+**eul_wid:** `bhm-ae` · [HTML page](https://eulogikon.org/works/epicharmus-syracuse-testimonies-bhm-ae)
 
 ## Text
 

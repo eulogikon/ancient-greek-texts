@@ -4,7 +4,7 @@ title_greek: Ἱστορίαι
 author: Agathias the Scholastic
 eul_wid: vig-aa
 eul_aid: vig
-canonical: "https://eulogikon.org/grc/agathias-the-scholastic/histories"
+canonical: "https://eulogikon.org/works/agathias-histories-vig-aa"
 period: Late Antique
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Agathias the Scholastic
 
-**eul_wid:** `vig-aa` · [HTML page](https://eulogikon.org/grc/agathias-the-scholastic/histories)
+**eul_wid:** `vig-aa` · [HTML page](https://eulogikon.org/works/agathias-histories-vig-aa)
 
 ## Text
 

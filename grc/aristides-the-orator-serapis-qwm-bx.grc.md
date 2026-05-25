@@ -4,7 +4,7 @@ title_greek: Εἰς τὸν Σάραπιν
 author: Aristides the Orator
 eul_wid: qwm-bx
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/serapis"
+canonical: "https://eulogikon.org/works/aristides-orator-serapis-qwm-bx"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-bx` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/serapis)
+**eul_wid:** `qwm-bx` · [HTML page](https://eulogikon.org/works/aristides-orator-serapis-qwm-bx)
 
 ## Text
 

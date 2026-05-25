@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Πέλοπος καὶ Ταντά
 author: Autesion the Historian
 eul_wid: ero-aa
 eul_aid: ero
-canonical: "https://eulogikon.org/grc/autesion-the-historian/pelops-tantalus"
+canonical: "https://eulogikon.org/works/autesion-pelops-tantalus-ero-aa"
 period: Classical
 dialect: Ionic (frg)
 domain: History
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Autesion the Historian
 
-**eul_wid:** `ero-aa` · [HTML page](https://eulogikon.org/grc/autesion-the-historian/pelops-tantalus)
+**eul_wid:** `ero-aa` · [HTML page](https://eulogikon.org/works/autesion-pelops-tantalus-ero-aa)
 
 ## Text
 
 ### 2a.(l1)
 
-PAP. OX. 2442 fr. 39, 7 Schol. (s. 3 p.; vol. 26, 1961, 57f. [Taf. 4]; Schol. Pind. Pai. 22, 7 p. 65 Snell—Mähler [1975]):‘Κρονίου Πέλοπος ...‘] ‘Κρόνιο(σ)‘ ὅτι ἀπὸ Διός· ἢ ὅτ̣ι ὤ〈ι〉κη(σεν) [τ̣ὸ Κρό]ˈνιο(ν) ὄρος ἐν τῶι Ὀλυμπ〈ικ〉ῶι, [καθὼς] Ἴ̣[σ̣τ̣ρος ἐν . ]ˈ Ἠλια̣κῶ(ν) (334 F 41 bis): ἢ ὅτι Τάνταλο(ς) Πλου̣[το(ῦς) υ̣ἱὸ]ς τῆς̣ Κ̣ρ̣[ό]ˈνου, ὡς Α̣ὐ̣ [ τ̣εσίω̣ν ̣ ] ἐν [ Λ ̣ ]υ [ δ̣ιακοῖ ς].
+PAP. OX. 2442 fr. 39, 7 Schol. (s. 3 p.; vol. 26, 1961, 57f. [Taf. 4]; Schol. Pind. Pai. 22, 7 p. 65 Snell—Mähler [1975]):‘Κρονίου Πέλοπος ...‘] ‘Κρόνιο(σ)‘ ὅτι ἀπὸ Διός· ἢ ὅτι ὤ〈ι〉κη(σεν) [τὸ Κρό]ˈνιο(ν) ὄρος ἐν τῶι Ὀλυμπ〈ικ〉ῶι, [καθὼς] Ἴ[στρος ἐν . ]ˈ Ἠλιακῶ(ν) (334 F 41 bis): ἢ ὅτι Τάνταλο(ς) Πλου[το(ῦς) υἱὸ]ς τῆς Κρ[ό]ˈνου, ὡς Αὐ [ τεσίων ] ἐν [ Λ ]υ [ διακοῖ ς].
 
 ### 2b
 

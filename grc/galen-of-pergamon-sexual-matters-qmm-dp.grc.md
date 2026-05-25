@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν ἀφροδισίων
 author: Galen of Pergamon
 eul_wid: qmm-dp
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/sexual-matters"
+canonical: "https://eulogikon.org/works/galen-pergamon-sexual-matters-qmm-dp"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-dp` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/sexual-matters)
+**eul_wid:** `qmm-dp` · [HTML page](https://eulogikon.org/works/galen-pergamon-sexual-matters-qmm-dp)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα καὶ Τίτλοι
 author: Archestratus of Gela
 eul_wid: gtu-aa
 eul_aid: gtu
-canonical: "https://eulogikon.org/grc/archestratus-of-gela/fragments"
+canonical: "https://eulogikon.org/works/archestratus-gela-fragments-gtu-aa"
 period: Classical
 dialect: Epic (Homeric) (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Archestratus of Gela
 
-**eul_wid:** `gtu-aa` · [HTML page](https://eulogikon.org/grc/archestratus-of-gela/fragments)
+**eul_wid:** `gtu-aa` · [HTML page](https://eulogikon.org/works/archestratus-gela-fragments-gtu-aa)
 
 ## Text
 
@@ -260,7 +260,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 146.3
 
-χείρεσσιν ἔχοντες εἰώθασι δονεῖν ψήφους †αἴθωνι λογισμῷ ἄρθρων μηλείων ἐπὶ γῆν δωρήματα βάλλειν.
+χείρεσσιν ἔχοντες εἰώθασι δονεῖν ψήφους αἴθωνι λογισμῷ ἄρθρων μηλείων ἐπὶ γῆν δωρήματα βάλλειν.
 
 ### book 147.1
 
@@ -408,7 +408,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 154.7
 
-πλευρώμασιν ἕψῃς, μήθ’ †ὕδατος
+πλευρώμασιν ἕψῃς, μήθ’ ὕδατος
 
 ### book 154.8
 
@@ -500,7 +500,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 157
 
-Σειρίου ἀντέλλοντος 〈 〉 φάγρον 〈 〉 Δήλῳ τ’ Εἰρετρίῃ τε κατ’ εὐλιμένους ἁλὸς οἴκους. τὴν κεφαλὴν δ’ αὐτοῦ μόνον ὠνοῦ καὶ μετ’ ἐκείνης οὐραῖον· τὰ δὲ λοιπὰ δόμον †μηδ’ εἰσενέγκῃς.
+Σειρίου ἀντέλλοντος 〈 〉 φάγρον 〈 〉 Δήλῳ τ’ Εἰρετρίῃ τε κατ’ εὐλιμένους ἁλὸς οἴκους. τὴν κεφαλὴν δ’ αὐτοῦ μόνον ὠνοῦ καὶ μετ’ ἐκείνης οὐραῖον· τὰ δὲ λοιπὰ δόμον μηδ’ εἰσενέγκῃς.
 
 ### book 158.1
 
@@ -536,7 +536,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 162.1
 
-κίθαρον δὲ κελεύω ἂν μὲν λευκὸς ἔῃ †στερεός
+κίθαρον δὲ κελεύω ἂν μὲν λευκὸς ἔῃ στερεός
 
 ### book 162.2
 

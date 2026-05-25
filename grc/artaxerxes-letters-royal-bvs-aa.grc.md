@@ -4,7 +4,7 @@ title_greek: Ἐπιστολαί
 author: Artaxerxes Letters
 eul_wid: bvs-aa
 eul_aid: bvs
-canonical: "https://eulogikon.org/grc/artaxerxes-letters/royal"
+canonical: "https://eulogikon.org/works/artaxerxes-letters-royal-bvs-aa"
 period: Classical
 dialect: Christian Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Artaxerxes Letters
 
-**eul_wid:** `bvs-aa` · [HTML page](https://eulogikon.org/grc/artaxerxes-letters/royal)
+**eul_wid:** `bvs-aa` · [HTML page](https://eulogikon.org/works/artaxerxes-letters-royal-bvs-aa)
 
 ## Text
 

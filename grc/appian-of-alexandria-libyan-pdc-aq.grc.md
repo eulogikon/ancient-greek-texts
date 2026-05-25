@@ -4,7 +4,7 @@ title_greek: Λιβυκή
 author: Appian of Alexandria
 eul_wid: pdc-aq
 eul_aid: pdc
-canonical: "https://eulogikon.org/grc/appian-of-alexandria/libyan"
+canonical: "https://eulogikon.org/works/appian-alexandria-libyan-pdc-aq"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Appian of Alexandria
 
-**eul_wid:** `pdc-aq` · [HTML page](https://eulogikon.org/grc/appian-of-alexandria/libyan)
+**eul_wid:** `pdc-aq` · [HTML page](https://eulogikon.org/works/appian-alexandria-libyan-pdc-aq)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: ὑπὲρ Μεγαλοπολιτῶν
 author: Demosthenes of Athens
 eul_wid: fsm-bk
 eul_aid: fsm
-canonical: "https://eulogikon.org/grc/demosthenes-of-athens/megalopolitans"
+canonical: "https://eulogikon.org/works/demosthenes-athens-megalopolitans-fsm-bk"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demosthenes of Athens
 
-**eul_wid:** `fsm-bk` · [HTML page](https://eulogikon.org/grc/demosthenes-of-athens/megalopolitans)
+**eul_wid:** `fsm-bk` · [HTML page](https://eulogikon.org/works/demosthenes-athens-megalopolitans-fsm-bk)
 
 ## Text
 

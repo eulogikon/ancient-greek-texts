@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Crantor of Soli
 eul_wid: hhq-ab
 eul_aid: hhq
-canonical: "https://eulogikon.org/grc/crantor-of-soli/atlantis-commentary"
+canonical: "https://eulogikon.org/works/crantor-soli-atlantis-commentary-hhq-ab"
 period: Classical
 dialect: "Attic (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Crantor of Soli
 
-**eul_wid:** `hhq-ab` · [HTML page](https://eulogikon.org/grc/crantor-of-soli/atlantis-commentary)
+**eul_wid:** `hhq-ab` · [HTML page](https://eulogikon.org/works/crantor-soli-atlantis-commentary-hhq-ab)
 
 ## Text
 

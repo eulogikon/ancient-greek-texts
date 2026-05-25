@@ -4,7 +4,7 @@ title_greek: Περὶ τοῦ χορευτοῦ
 author: "Antiphon of Athens "
 eul_wid: bqs-ac
 eul_aid: bqs
-canonical: "https://eulogikon.org/grc/antiphon-of-athens/dancer"
+canonical: "https://eulogikon.org/works/antiphon-athens-dancer-bqs-ac"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Antiphon of Athens 
 
-**eul_wid:** `bqs-ac` · [HTML page](https://eulogikon.org/grc/antiphon-of-athens/dancer)
+**eul_wid:** `bqs-ac` · [HTML page](https://eulogikon.org/works/antiphon-athens-dancer-bqs-ac)
 
 ## Text
 

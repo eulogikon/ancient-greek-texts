@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Eumelus of Corinth
 eul_wid: aaa-ac
 eul_aid: aaa
-canonical: "https://eulogikon.org/grc/eumelus-of-corinth/testimonies"
+canonical: "https://eulogikon.org/works/eumelus-corinth-testimonies-aaa-ac"
 period: Archaic
 dialect: Epic (Homeric) (frg)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Eumelus of Corinth
 
-**eul_wid:** `aaa-ac` · [HTML page](https://eulogikon.org/grc/eumelus-of-corinth/testimonies)
+**eul_wid:** `aaa-ac` · [HTML page](https://eulogikon.org/works/eumelus-corinth-testimonies-aaa-ac)
 
 ## Text
 

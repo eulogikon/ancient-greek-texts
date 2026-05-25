@@ -4,7 +4,7 @@ title_greek: Περὶ Φλεβοτομίας
 author: Medical Writer  Anonymous
 eul_wid: tqu-av
 eul_aid: tqu
-canonical: "https://eulogikon.org/grc/anonymous-medical-writer/venesection"
+canonical: "https://eulogikon.org/works/med-writer-anon-venesection-tqu-av"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Medical Writer  Anonymous
 
-**eul_wid:** `tqu-av` · [HTML page](https://eulogikon.org/grc/anonymous-medical-writer/venesection)
+**eul_wid:** `tqu-av` · [HTML page](https://eulogikon.org/works/med-writer-anon-venesection-tqu-av)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: παραγραφὴ πρὸς Ναυσίμακον καὶ Ξενο
 author: Demosthenes of Athens
 eul_wid: fsm-ad
 eul_aid: fsm
-canonical: "https://eulogikon.org/grc/demosthenes-of-athens/counterplea-nausimachus-xenopithes"
+canonical: "https://eulogikon.org/works/demosthenes-athens-counterplea-nausimachus-xenopithes-fsm-ad"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demosthenes of Athens
 
-**eul_wid:** `fsm-ad` · [HTML page](https://eulogikon.org/grc/demosthenes-of-athens/counterplea-nausimachus-xenopithes)
+**eul_wid:** `fsm-ad` · [HTML page](https://eulogikon.org/works/demosthenes-athens-counterplea-nausimachus-xenopithes-fsm-ad)
 
 ## Text
 

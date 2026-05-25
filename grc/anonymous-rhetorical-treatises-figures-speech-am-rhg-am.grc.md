@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν τοῦ λόγου σχημάτων
 author: Rhetorical Treatise Anonymous
 eul_wid: rhg-am
 eul_aid: rhg
-canonical: "https://eulogikon.org/grc/anonymous-rhetorical-treatises/figures-speech-am"
+canonical: "https://eulogikon.org/works/anon-rhet-treatise-figures-speech-rhg-am"
 period: Roman
 dialect: Technical Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Rhetorical Treatise Anonymous
 
-**eul_wid:** `rhg-am` · [HTML page](https://eulogikon.org/grc/anonymous-rhetorical-treatises/figures-speech-am)
+**eul_wid:** `rhg-am` · [HTML page](https://eulogikon.org/works/anon-rhet-treatise-figures-speech-rhg-am)
 
 ## Text
 

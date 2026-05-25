@@ -4,7 +4,7 @@ title_greek: Ἐξαγωγή
 author: Ezechiel the Tragic Poet
 eul_wid: nfm-aa
 eul_aid: nfm
-canonical: "https://eulogikon.org/grc/ezechiel-the-tragic-poet/extraction"
+canonical: "https://eulogikon.org/works/ezechiel-tragic-extraction-nfm-aa"
 period: Hellenistic
 dialect: "Attic (dr, frg)"
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ezechiel the Tragic Poet
 
-**eul_wid:** `nfm-aa` · [HTML page](https://eulogikon.org/grc/ezechiel-the-tragic-poet/extraction)
+**eul_wid:** `nfm-aa` · [HTML page](https://eulogikon.org/works/ezechiel-tragic-extraction-nfm-aa)
 
 ## Text
 
@@ -172,7 +172,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 35.5
 
-ἐπεὶ δὲ πλήρης †κόλπος ἡμερῶν παρῆν,
+ἐπεὶ δὲ πλήρης κόλπος ἡμερῶν παρῆν,
 
 ### 40.1
 
@@ -564,11 +564,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 135
 
-βατράχων τε πλῆθος 〈–⏑–×–⏑–
+βατράχων τε πλῆθος 〈––––
 
 ### 135a
 
-×–⏑–〉 καὶ σκνῖπας ἐμβαλῶ χθονί.
+––〉 καὶ σκνῖπας ἐμβαλῶ χθονί.
 
 ### 136.1
 
@@ -676,7 +676,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 160.5
 
-σκεύη †κόσμον τε πάνθ’, ὃν ἄνθρωπος φέρει,
+σκεύη κόσμον τε πάνθ’, ὃν ἄνθρωπος φέρει,
 
 ### 165.1
 
@@ -868,7 +868,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 210.3
 
-†φωνὴν πρὸς αἰθέρα τ’ ἐστάθησαν† ἀθρόοι,
+φωνὴν πρὸς αἰθέρα τ’ ἐστάθησαν ἀθρόοι,
 
 ### 210.4
 
@@ -1036,7 +1036,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 255.1
 
-θαυμαστόν, οἷον οὐδέπω †ὥρακέ τις.
+θαυμαστόν, οἷον οὐδέπω ὥρακέ τις.
 
 ### 255.2
 

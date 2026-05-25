@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Heraclides of Pontus II
 eul_wid: fve-aa
 eul_aid: fve
-canonical: "https://eulogikon.org/grc/heraclides-of-pontus-ii/persian-customs"
+canonical: "https://eulogikon.org/works/heraclides-pontus-persian-customs-fve-aa"
 period: Classical
 dialect: Mixed Dialects (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Heraclides of Pontus II
 
-**eul_wid:** `fve-aa` · [HTML page](https://eulogikon.org/grc/heraclides-of-pontus-ii/persian-customs)
+**eul_wid:** `fve-aa` · [HTML page](https://eulogikon.org/works/heraclides-pontus-persian-customs-fve-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Στάκτης ποίησις
 author: Alchemist I
 eul_wid: rrg-cm
 eul_aid: rrg
-canonical: "https://eulogikon.org/grc/alchemist-i/ash-making"
+canonical: "https://eulogikon.org/works/alchemist-i-ash-making-rrg-cm"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alchemist I
 
-**eul_wid:** `rrg-cm` · [HTML page](https://eulogikon.org/grc/alchemist-i/ash-making)
+**eul_wid:** `rrg-cm` · [HTML page](https://eulogikon.org/works/alchemist-i-ash-making-rrg-cm)
 
 ## Text
 

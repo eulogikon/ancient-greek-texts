@@ -4,7 +4,7 @@ title_greek: Περί φυσικῶν δυνάμεων
 author: Galen of Pergamon
 eul_wid: qmm-dg
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/natural-faculties"
+canonical: "https://eulogikon.org/works/galen-pergamon-natural-faculties-qmm-dg"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-dg` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/natural-faculties)
+**eul_wid:** `qmm-dg` · [HTML page](https://eulogikon.org/works/galen-pergamon-natural-faculties-qmm-dg)
 
 ## Text
 

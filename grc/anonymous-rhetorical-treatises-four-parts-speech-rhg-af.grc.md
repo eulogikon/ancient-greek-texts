@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν τεσσάρων μερῶν τοῦ τελείο
 author: Rhetorical Treatise Anonymous
 eul_wid: rhg-af
 eul_aid: rhg
-canonical: "https://eulogikon.org/grc/anonymous-rhetorical-treatises/four-parts-speech"
+canonical: "https://eulogikon.org/works/anon-rhet-treatise-four-parts-speech-rhg-af"
 period: Roman
 dialect: Technical Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Rhetorical Treatise Anonymous
 
-**eul_wid:** `rhg-af` · [HTML page](https://eulogikon.org/grc/anonymous-rhetorical-treatises/four-parts-speech)
+**eul_wid:** `rhg-af` · [HTML page](https://eulogikon.org/works/anon-rhet-treatise-four-parts-speech-rhg-af)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Dionysius of Corinth
 eul_wid: qrw-aa
 eul_aid: qrw
-canonical: "https://eulogikon.org/grc/dionysius-of-corinth/christian-charity"
+canonical: "https://eulogikon.org/works/dionysius-corinth-christian-charity-qrw-aa"
 period: Roman
 dialect: Christian Koine
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dionysius of Corinth
 
-**eul_wid:** `qrw-aa` · [HTML page](https://eulogikon.org/grc/dionysius-of-corinth/christian-charity)
+**eul_wid:** `qrw-aa` · [HTML page](https://eulogikon.org/works/dionysius-corinth-christian-charity-qrw-aa)
 
 ## Text
 

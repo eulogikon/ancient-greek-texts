@@ -4,7 +4,7 @@ title_greek: Μεθόδιος
 author: Historical Work  Anonymous
 eul_wid: ubo-ac
 eul_aid: ubo
-canonical: "https://eulogikon.org/grc/anonymous-historical-work/methodius"
+canonical: "https://eulogikon.org/works/hist-anon-methodius-ubo-ac"
 period: Late Antique
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Historical Work  Anonymous
 
-**eul_wid:** `ubo-ac` · [HTML page](https://eulogikon.org/grc/anonymous-historical-work/methodius)
+**eul_wid:** `ubo-ac` · [HTML page](https://eulogikon.org/works/hist-anon-methodius-ubo-ac)
 
 ## Text
 

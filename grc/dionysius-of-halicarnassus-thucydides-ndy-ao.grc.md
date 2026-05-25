@@ -4,7 +4,7 @@ title_greek: Περὶ Θουκιδίδου
 author: Dionysius of Halicarnassus
 eul_wid: ndy-ao
 eul_aid: ndy
-canonical: "https://eulogikon.org/grc/dionysius-of-halicarnassus/thucydides"
+canonical: "https://eulogikon.org/works/dionysius-halicarnassus-thucydides-ndy-ao"
 period: Hellenistic
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dionysius of Halicarnassus
 
-**eul_wid:** `ndy-ao` · [HTML page](https://eulogikon.org/grc/dionysius-of-halicarnassus/thucydides)
+**eul_wid:** `ndy-ao` · [HTML page](https://eulogikon.org/works/dionysius-halicarnassus-thucydides-ndy-ao)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Μαρτυρία
 author: Boïdas the Philologist
 eul_wid: niy-aa
 eul_aid: niy
-canonical: "https://eulogikon.org/grc/boidas-the-philologist/testimony"
+canonical: "https://eulogikon.org/works/boidas-testimony-niy-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Boïdas the Philologist
 
-**eul_wid:** `niy-aa` · [HTML page](https://eulogikon.org/grc/boidas-the-philologist/testimony)
+**eul_wid:** `niy-aa` · [HTML page](https://eulogikon.org/works/boidas-testimony-niy-aa)
 
 ## Text
 

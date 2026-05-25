@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Hereas of Megara
 eul_wid: fku-aa
 eul_aid: fku
-canonical: "https://eulogikon.org/grc/hereas-of-megara/historical-fragments"
+canonical: "https://eulogikon.org/works/hereas-megara-historical-fragments-fku-aa"
 period: Classical
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hereas of Megara
 
-**eul_wid:** `fku-aa` · [HTML page](https://eulogikon.org/grc/hereas-of-megara/historical-fragments)
+**eul_wid:** `fku-aa` · [HTML page](https://eulogikon.org/works/hereas-megara-historical-fragments-fku-aa)
 
 ## Text
 

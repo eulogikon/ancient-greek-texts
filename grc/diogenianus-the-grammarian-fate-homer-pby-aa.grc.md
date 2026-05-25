@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Εἱμαρμένης καὶ Ὁ
 author: Diogenianus the Grammarian
 eul_wid: pby-aa
 eul_aid: pby
-canonical: "https://eulogikon.org/grc/diogenianus-the-grammarian/fate-homer"
+canonical: "https://eulogikon.org/works/diogenianus-fate-homer-pby-aa"
 period: Roman
 dialect: Technical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Diogenianus the Grammarian
 
-**eul_wid:** `pby-aa` · [HTML page](https://eulogikon.org/grc/diogenianus-the-grammarian/fate-homer)
+**eul_wid:** `pby-aa` · [HTML page](https://eulogikon.org/works/diogenianus-fate-homer-pby-aa)
 
 ## Text
 

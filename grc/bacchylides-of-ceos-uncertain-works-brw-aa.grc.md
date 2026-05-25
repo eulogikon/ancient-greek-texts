@@ -4,7 +4,7 @@ title_greek: Αποσπάσματα
 author: Bacchylides of Ceos
 eul_wid: brw-aa
 eul_aid: brw
-canonical: "https://eulogikon.org/grc/bacchylides-of-ceos/uncertain-works"
+canonical: "https://eulogikon.org/works/bacchylides-ceos-uncertain-works-brw-aa"
 period: Classical
 dialect: Doric
 domain: Poetry
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Bacchylides of Ceos
 
-**eul_wid:** `brw-aa` · [HTML page](https://eulogikon.org/grc/bacchylides-of-ceos/uncertain-works)
+**eul_wid:** `brw-aa` · [HTML page](https://eulogikon.org/works/bacchylides-ceos-uncertain-works-brw-aa)
 
 ## Text
 
 ### book 1
 
-οἱ μὲν ἀδμῆτες ἀεικελιᾶν †νούσων εἰσὶ καὶ† ἄνατοι, οὐδὲν ἀνθρώποις ἴκελοι
+οἱ μὲν ἀδμῆτες ἀεικελιᾶν νούσων εἰσὶ καὶ ἄνατοι, οὐδὲν ἀνθρώποις ἴκελοι
 
 ### book 2.1
 
@@ -56,7 +56,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.3
 
-φωνάεντα λόγον †ἔσται λόγος† σοφία
+φωνάεντα λόγον ἔσται λόγος σοφία
 
 ### book 5
 

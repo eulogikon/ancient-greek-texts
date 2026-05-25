@@ -4,7 +4,7 @@ title_greek: Παλινῳδία ἐπὶ Σμύρνῃ καὶ τῷ ταύτη
 author: Aristides the Orator
 eul_wid: qwm-ai
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/palinode-smyrna"
+canonical: "https://eulogikon.org/works/aristides-orator-palinode-smyrna-qwm-ai"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-ai` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/palinode-smyrna)
+**eul_wid:** `qwm-ai` · [HTML page](https://eulogikon.org/works/aristides-orator-palinode-smyrna-qwm-ai)
 
 ## Text
 

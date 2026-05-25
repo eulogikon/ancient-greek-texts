@@ -4,7 +4,7 @@ title_greek: Βίος Μαρκιανοῦ
 author: Aristotle Lives
 eul_wid: tuq-aa
 eul_aid: tuq
-canonical: "https://eulogikon.org/grc/aristotle-lives/marcian"
+canonical: "https://eulogikon.org/works/aristotle-marcian-tuq-aa"
 period: Late Antique
 dialect: Koine
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristotle Lives
 
-**eul_wid:** `tuq-aa` · [HTML page](https://eulogikon.org/grc/aristotle-lives/marcian)
+**eul_wid:** `tuq-aa` · [HTML page](https://eulogikon.org/works/aristotle-marcian-tuq-aa)
 
 ## Text
 

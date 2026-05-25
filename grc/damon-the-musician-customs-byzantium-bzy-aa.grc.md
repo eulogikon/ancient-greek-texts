@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Damon of Athens
 eul_wid: bzy-aa
 eul_aid: bzy
-canonical: "https://eulogikon.org/grc/damon-the-musician/customs-byzantium"
+canonical: "https://eulogikon.org/works/damon-athens-customs-byzantium-bzy-aa"
 period: Classical
 dialect: Mixed Dialects (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Damon of Athens
 
-**eul_wid:** `bzy-aa` · [HTML page](https://eulogikon.org/grc/damon-the-musician/customs-byzantium)
+**eul_wid:** `bzy-aa` · [HTML page](https://eulogikon.org/works/damon-athens-customs-byzantium-bzy-aa)
 
 ## Text
 

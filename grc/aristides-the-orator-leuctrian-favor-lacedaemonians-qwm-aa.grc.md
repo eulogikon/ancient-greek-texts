@@ -4,7 +4,7 @@ title_greek: Λευκτρικὸς Γ.
 author: Aristides the Orator
 eul_wid: qwm-aa
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/leuctrian-favor-lacedaemonians"
+canonical: "https://eulogikon.org/works/aristides-orator-leuctrian-favor-lacedaemonians-qwm-aa"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-aa` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/leuctrian-favor-lacedaemonians)
+**eul_wid:** `qwm-aa` · [HTML page](https://eulogikon.org/works/aristides-orator-leuctrian-favor-lacedaemonians-qwm-aa)
 
 ## Text
 

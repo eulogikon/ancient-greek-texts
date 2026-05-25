@@ -4,7 +4,7 @@ title_greek: Περὶ ἀπλῶν φαρμάκων
 author: Dioscorides of Anazarbus
 eul_wid: nyi-ad
 eul_aid: nyi
-canonical: "https://eulogikon.org/grc/dioscorides-of-anazarbus/simple-medicines"
+canonical: "https://eulogikon.org/works/dioscorides-anazarbus-simple-medicines-nyi-ad"
 period: Roman
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dioscorides of Anazarbus
 
-**eul_wid:** `nyi-ad` · [HTML page](https://eulogikon.org/grc/dioscorides-of-anazarbus/simple-medicines)
+**eul_wid:** `nyi-ad` · [HTML page](https://eulogikon.org/works/dioscorides-anazarbus-simple-medicines-nyi-ad)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Μελέτη
 author: Hadrian of Tyre the Sophist
 eul_wid: ras-aa
 eul_aid: ras
-canonical: "https://eulogikon.org/grc/hadrian-of-tyre/declamation"
+canonical: "https://eulogikon.org/works/hadrian-tyre-declamation-ras-aa"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hadrian of Tyre the Sophist
 
-**eul_wid:** `ras-aa` · [HTML page](https://eulogikon.org/grc/hadrian-of-tyre/declamation)
+**eul_wid:** `ras-aa` · [HTML page](https://eulogikon.org/works/hadrian-tyre-declamation-ras-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Hecataeus of Miletus the Historian
 eul_wid: bli-aa
 eul_aid: bli
-canonical: "https://eulogikon.org/grc/hecataeus-of-miletus/testimonies"
+canonical: "https://eulogikon.org/works/hecataeus-miletus-testimonies-bli-aa"
 period: Archaic
 dialect: Ionic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hecataeus of Miletus the Historian
 
-**eul_wid:** `bli-aa` · [HTML page](https://eulogikon.org/grc/hecataeus-of-miletus/testimonies)
+**eul_wid:** `bli-aa` · [HTML page](https://eulogikon.org/works/hecataeus-miletus-testimonies-bli-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἀνθρωπίνων Μωριῶ
 author: Comic Fragments Anonymous III
 eul_wid: kge-ab
 eul_aid: kge
-canonical: "https://eulogikon.org/grc/comic-fragments-anonymous-iii/human-follies"
+canonical: "https://eulogikon.org/works/comic-fragments-anon-iii-human-follies-kge-ab"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Comic Fragments Anonymous III
 
-**eul_wid:** `kge-ab` · [HTML page](https://eulogikon.org/grc/comic-fragments-anonymous-iii/human-follies)
+**eul_wid:** `kge-ab` · [HTML page](https://eulogikon.org/works/comic-fragments-anon-iii-human-follies-kge-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Σχόλια εἰς Ἴαμβον
 author: Callimachus Scholia
 eul_wid: vmw-ar
 eul_aid: vmw
-canonical: "https://eulogikon.org/grc/callimachus-scholia/iambos-ar"
+canonical: "https://eulogikon.org/works/callimachus-scholia-iambos-vmw-ar"
 period: Late Antique
 dialect: Koine
 domain: Grammar
@@ -18,21 +18,21 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Callimachus Scholia
 
-**eul_wid:** `vmw-ar` · [HTML page](https://eulogikon.org/grc/callimachus-scholia/iambos-ar)
+**eul_wid:** `vmw-ar` · [HTML page](https://eulogikon.org/works/callimachus-scholia-iambos-vmw-ar)
 
 ## Text
 
 ### book 2-3
 
-in marg. sinistro []..ομο|[].απ̣α( )|α̣τ̣...
+in marg. sinistro []..ομο|[].απα( )|ατ...
 
 ### book 2-3bis
 
-in marg. dextero .... [Ἄ]ιδ(ου) .[] |ας.[]|[....].[.]ν̣τ̣α̣.[]
+in marg. dextero .... [Ἄ]ιδ(ου) .[] |ας.[]|[....].[.]ντα.[]
 
 ### book 27-8
 
-in marg. sin. πιθαν̣ῶ̣ς̣ τ̣ὸ̣, | ἐπισ̣φαχθέ̣ν̣τ̣α̣
+in marg. sin. πιθανῶς τὸ, | ἐπισφαχθέντα
 
 ### book 31-2
 
@@ -40,7 +40,7 @@ in marg. dext. ...ο.[]|....[]|....[]|
 
 ### book 42-3
 
-...υ[.].[]|τ̣ε̣ρ̣ι̣..ν̣.[]|ερα γ̣ὰρ λ̣ω.[]|σ̣υ̣ρ.[]
+...υ[.].[]|τερι..ν.[]|ερα γὰρ λω.[]|συρ.[]
 
 ### book 56
 
@@ -56,19 +56,19 @@ in marg. dext. ...ο.[]|....[]|....[]|
 
 ### book 9
 
-ἐπικεχείρ|ηται τ̣(ὴν) ῥῆσιν̣ | ὡς̣ τ̣ὸ π̣αρ... []|.α̣ι̣[..]α̣σ̣[]
+ἐπικεχείρ|ηται τ(ὴν) ῥῆσιν | ὡς τὸ παρ... []|.αι[..]ασ[]
 
 ### book 24.1
 
-.´..παρ..φ....ως σ[....]..α ἐπισ[...]εται δ(ὲ) κυρίως ἡ μὲν ἐπὶ τῶν καλῶς |[]....[..]ο̣δ̣[.]....[....] δ’ ἐ[π]ὶ τῶν ἀναγκαζομένων ὃ ἄλλως
+.´..παρ..φ....ως σ[....]..α ἐπισ[...]εται δ(ὲ) κυρίως ἡ μὲν ἐπὶ τῶν καλῶς |[]....[..]οδ[.]....[....] δ’ ἐ[π]ὶ τῶν ἀναγκαζομένων ὃ ἄλλως
 
 ### book 24.2
 
-φαρμα|[κευομέν]ω̣ν
+φαρμα|[κευομέν]ων
 
 ### book 2-5
 
-[...]ξ.......ι̣| τ̣ι̣ν̣(ῶν?) ...ρο̣..τ̣ρ̣ι̣τ̣() |.ν̣α̣λ̣ . [.]...[...]|......[]|.....[]|...
+[...]ξ.......ι| τιν(ῶν?) ...ρο..τριτ() |.ναλ . [.]...[...]|......[]|.....[]|...
 
 ### book 22
 

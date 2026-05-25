@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Μακεδονικῶν Πόλεων
 author: Balagrus the Historian
 eul_wid: qfe-aa
 eul_aid: qfe
-canonical: "https://eulogikon.org/grc/balagrus-the-historian/macedonian-cities"
+canonical: "https://eulogikon.org/works/balagrus-macedonian-cities-qfe-aa"
 period: Roman
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Balagrus the Historian
 
-**eul_wid:** `qfe-aa` · [HTML page](https://eulogikon.org/grc/balagrus-the-historian/macedonian-cities)
+**eul_wid:** `qfe-aa` · [HTML page](https://eulogikon.org/works/balagrus-macedonian-cities-qfe-aa)
 
 ## Text
 

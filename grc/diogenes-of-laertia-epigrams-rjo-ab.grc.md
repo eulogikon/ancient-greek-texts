@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Diogenes of Laertia
 eul_wid: rjo-ab
 eul_aid: rjo
-canonical: "https://eulogikon.org/grc/diogenes-of-laertia/epigrams"
+canonical: "https://eulogikon.org/works/diogenes-laertia-epigrams-rjo-ab"
 period: Roman
 dialect: Atticizing
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Diogenes of Laertia
 
-**eul_wid:** `rjo-ab` · [HTML page](https://eulogikon.org/grc/diogenes-of-laertia/epigrams)
+**eul_wid:** `rjo-ab` · [HTML page](https://eulogikon.org/works/diogenes-laertia-epigrams-rjo-ab)
 
 ## Text
 

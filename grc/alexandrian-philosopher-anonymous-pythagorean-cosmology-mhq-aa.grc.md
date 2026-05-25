@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Alexandrian Philosopher Anonymous
 eul_wid: mhq-aa
 eul_aid: mhq
-canonical: "https://eulogikon.org/grc/alexandrian-philosopher-anonymous/pythagorean-cosmology"
+canonical: "https://eulogikon.org/works/alexandrian-anon-pythagorean-cosmology-mhq-aa"
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alexandrian Philosopher Anonymous
 
-**eul_wid:** `mhq-aa` · [HTML page](https://eulogikon.org/grc/alexandrian-philosopher-anonymous/pythagorean-cosmology)
+**eul_wid:** `mhq-aa` · [HTML page](https://eulogikon.org/works/alexandrian-anon-pythagorean-cosmology-mhq-aa)
 
 ## Text
 

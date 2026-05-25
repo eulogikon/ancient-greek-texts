@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Aratus of Soli
 eul_wid: hte-ac
 eul_aid: hte
-canonical: "https://eulogikon.org/grc/aratus-of-soli/epigrams"
+canonical: "https://eulogikon.org/works/aratus-soli-epigrams-hte-ac"
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aratus of Soli
 
-**eul_wid:** `hte-ac` · [HTML page](https://eulogikon.org/grc/aratus-of-soli/epigrams)
+**eul_wid:** `hte-ac` · [HTML page](https://eulogikon.org/works/aratus-soli-epigrams-hte-ac)
 
 ## Text
 

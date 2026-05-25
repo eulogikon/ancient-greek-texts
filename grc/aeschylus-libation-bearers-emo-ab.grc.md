@@ -4,7 +4,7 @@ title_greek: Χοηφόροι
 author: Aeschylus the Tragedian
 eul_wid: emo-ab
 eul_aid: emo
-canonical: "https://eulogikon.org/grc/aeschylus/libation-bearers"
+canonical: "https://eulogikon.org/works/aeschylus-libation-bearers-emo-ab"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aeschylus the Tragedian
 
-**eul_wid:** `emo-ab` · [HTML page](https://eulogikon.org/grc/aeschylus/libation-bearers)
+**eul_wid:** `emo-ab` · [HTML page](https://eulogikon.org/works/aeschylus-libation-bearers-emo-ab)
 
 ## Text
 
@@ -276,7 +276,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 60.5
 
-† μένει χρονίζοντ’ ἄχη βρύει †
+μένει χρονίζοντ’ ἄχη βρύει
 
 ### 65
 
@@ -312,7 +312,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 70.4
 
-† βαίνοντες τὸν χερομυσῆ
+βαίνοντες τὸν χερομυσῆ
 
 ### 70.5
 
@@ -336,11 +336,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 75.5
 
-† πρέποντ’ ἀρχὰς βίου,
+πρέποντ’ ἀρχὰς βίου,
 
 ### 80.1
 
-βίᾳ φερομένων, † αἰνέσαι, πικρὸν φρενῶν
+βίᾳ φερομένων, αἰνέσαι, πικρὸν φρενῶν
 
 ### 80.2
 
@@ -1256,7 +1256,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 305
 
-θήλεια γὰρ φρήν· † εἰ δὲ μή, τάχ’ εἴσεται.
+θήλεια γὰρ φρήν· εἰ δὲ μή, τάχ’ εἴσεται.
 
 ### 305.1
 
@@ -1324,7 +1324,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 320.3
 
-† προσθοδόμοις Ἀτρείδαις.
+προσθοδόμοις Ἀτρείδαις.
 
 ### 324
 
@@ -1540,7 +1540,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 375.4
 
-χέρες οὐχ ὅσιαι † στυγερῶν τούτων·
+χέρες οὐχ ὅσιαι στυγερῶν τούτων·
 
 ### 375.5
 
@@ -1588,7 +1588,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 386.4
 
-θω † φρενὸς θεῖον ἔμπας †
+θω φρενὸς θεῖον ἔμπας
 
 ### 390.1
 
@@ -1672,7 +1672,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 410.2
 
-τόνδε † κλύουσαν οἶκτον.
+τόνδε κλύουσαν οἶκτον.
 
 ### 410.3
 
@@ -1696,7 +1696,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### unit_125.1
 
-† πρὸς τὸ φανεῖσθαι † μοι καλῶς.
+πρὸς τὸ φανεῖσθαι μοι καλῶς.
 
 ### unit_125.2
 
@@ -1952,7 +1952,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### unit_151.1
 
-† φυγεῖν μέγαν προσθεῖσαν Αἰγίσθῳ † . . .
+φυγεῖν μέγαν προσθεῖσαν Αἰγίσθῳ . . .
 
 ### unit_151.2
 
@@ -2200,7 +2200,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 540.5
 
-οὕφις ἐπ’ ἀμὰ σπάργαν’ † ἠπλείζετο,
+οὕφις ἐπ’ ἀμὰ σπάργαν’ ἠπλείζετο,
 
 ### 545.1
 
@@ -2432,7 +2432,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 602.1
 
-φροντίσιν † δαεὶς
+φροντίσιν δαεὶς
 
 ### 602.2
 
@@ -2520,7 +2520,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 622.2
 
-πόνων—† ἀκαίρως δὲ δυσφιλὲς γαμή‐
+πόνων— ἀκαίρως δὲ δυσφιλὲς γαμή‐
 
 ### 625.1
 
@@ -2536,7 +2536,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 625.4
 
-ἐπ’ ἀνδρὶ δῄοις ἐπικότω σέβας †
+ἐπ’ ἀνδρὶ δῄοις ἐπικότω σέβας
 
 ### 625.5
 
@@ -2676,7 +2676,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 660.5
 
-γυνὴ † τόπαρχος—ἄνδρα δ’ εὐπρεπέστερον·
+γυνὴ τόπαρχος—ἄνδρα δ’ εὐπρεπέστερον·
 
 ### 665.1
 
@@ -2816,11 +2816,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 695.4
 
-νῦν δ’ ἥπερ ἐν δόμοισι † βακχίας καλῆς
+νῦν δ’ ἥπερ ἐν δόμοισι βακχίας καλῆς
 
 ### 695.5
 
-ἰατρὸς ἐλπὶς ἦν, παροῦσαν ἐγγράφει. †
+ἰατρὸς ἐλπὶς ἦν, παροῦσαν ἐγγράφει.
 
 ### unit_215.1
 
@@ -2868,7 +2868,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 710.2
 
-μακρᾶς κελεύθου τυγχάνειν † τὰ πρόσφορα.
+μακρᾶς κελεύθου τυγχάνειν τὰ πρόσφορα.
 
 ### 710.3
 
@@ -3316,7 +3316,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 818
 
-καὶ τότ’ ἤδη † πλοῦτον[στρ. γ.
+καὶ τότ’ ἤδη πλοῦτον[στρ. γ.
 
 ### 820.1
 
@@ -3328,7 +3328,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 820.3
 
-† ὁμοῦ κρεκτὸν γοήτων νόμον
+ὁμοῦ κρεκτὸν γοήτων νόμον
 
 ### 824
 
@@ -3548,7 +3548,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 875.1
 
-οἴμοι, πανοίμοι δεσπότου † τελουμένου·
+οἴμοι, πανοίμοι δεσπότου τελουμένου·
 
 ### 875.2
 
@@ -3584,7 +3584,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 881.3
 
-ἔοικε νῦν αὐτῆς † ἐπὶ ξυροῦ πέλας
+ἔοικε νῦν αὐτῆς ἐπὶ ξυροῦ πέλας
 
 ### 881.4
 
@@ -3876,11 +3876,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 955.1
 
-ξεν ἀδόλως † δολίας
+ξεν ἀδόλως δολίας
 
 ### 955.2
 
-† βλαπτομέναν ἐγχρονισθεῖσαν ἐποίχεται,
+βλαπτομέναν ἐγχρονισθεῖσαν ἐποίχεται,
 
 ### 958.1
 

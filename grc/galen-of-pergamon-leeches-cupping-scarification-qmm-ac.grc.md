@@ -4,7 +4,7 @@ title_greek: Περὶ βδελλῶν
 author: Galen of Pergamon
 eul_wid: qmm-ac
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/leeches-cupping-scarification"
+canonical: "https://eulogikon.org/works/galen-pergamon-leeches-cupping-scarification-qmm-ac"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-ac` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/leeches-cupping-scarification)
+**eul_wid:** `qmm-ac` · [HTML page](https://eulogikon.org/works/galen-pergamon-leeches-cupping-scarification-qmm-ac)
 
 ## Text
 

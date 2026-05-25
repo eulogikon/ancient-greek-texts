@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Diodorus of Sardis
 eul_wid: nji-aa
 eul_aid: nji
-canonical: "https://eulogikon.org/grc/diodorus-of-sardis/epigrams"
+canonical: "https://eulogikon.org/works/diodorus-sardis-epigrams-nji-aa"
 period: Hellenistic
 dialect: Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Diodorus of Sardis
 
-**eul_wid:** `nji-aa` · [HTML page](https://eulogikon.org/grc/diodorus-of-sardis/epigrams)
+**eul_wid:** `nji-aa` · [HTML page](https://eulogikon.org/works/diodorus-sardis-epigrams-nji-aa)
 
 ## Text
 

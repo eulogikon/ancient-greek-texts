@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Παλλήνης
 author: Hegesippus of Mecyberna
 eul_wid: ihk-aa
 eul_aid: ihk
-canonical: "https://eulogikon.org/grc/hegesippus-of-mecyberna/pallene"
+canonical: "https://eulogikon.org/works/hegesippus-mecyberna-pallene-ihk-aa"
 period: Hellenistic
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hegesippus of Mecyberna
 
-**eul_wid:** `ihk-aa` · [HTML page](https://eulogikon.org/grc/hegesippus-of-mecyberna/pallene)
+**eul_wid:** `ihk-aa` · [HTML page](https://eulogikon.org/works/hegesippus-mecyberna-pallene-ihk-aa)
 
 ## Text
 

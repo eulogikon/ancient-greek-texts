@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Demades of Paeania
 eul_wid: hlw-ac
 eul_aid: hlw
-canonical: "https://eulogikon.org/grc/demades-of-paeania/abduction-persephone"
+canonical: "https://eulogikon.org/works/demades-paeania-abduction-persephone-hlw-ac"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demades of Paeania
 
-**eul_wid:** `hlw-ac` · [HTML page](https://eulogikon.org/grc/demades-of-paeania/abduction-persephone)
+**eul_wid:** `hlw-ac` · [HTML page](https://eulogikon.org/works/demades-paeania-abduction-persephone-hlw-ac)
 
 ## Text
 

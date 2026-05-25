@@ -4,7 +4,7 @@ title_greek: Περὶ ἀνισοῦ ἀκρασίας
 author: Galen of Pergamon
 eul_wid: qmm-da
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/unequal-intemperance"
+canonical: "https://eulogikon.org/works/galen-pergamon-unequal-intemperance-qmm-da"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-da` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/unequal-intemperance)
+**eul_wid:** `qmm-da` · [HTML page](https://eulogikon.org/works/galen-pergamon-unequal-intemperance-qmm-da)
 
 ## Text
 

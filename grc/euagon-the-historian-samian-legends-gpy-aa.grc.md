@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Σαμίων Μύθων
 author: Euagon the Historian
 eul_wid: gpy-aa
 eul_aid: gpy
-canonical: "https://eulogikon.org/grc/euagon-the-historian/samian-legends"
+canonical: "https://eulogikon.org/works/euagon-samian-legends-gpy-aa"
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euagon the Historian
 
-**eul_wid:** `gpy-aa` · [HTML page](https://eulogikon.org/grc/euagon-the-historian/samian-legends)
+**eul_wid:** `gpy-aa` · [HTML page](https://eulogikon.org/works/euagon-samian-legends-gpy-aa)
 
 ## Text
 

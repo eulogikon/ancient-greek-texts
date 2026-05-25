@@ -4,7 +4,7 @@ title_greek: Ἐπιχείρημα καὶ Ἐνδιάμεσοι Γλῶσσαι
 author: Aeschylus Scholia
 eul_wid: tro-aa
 eul_aid: tro
-canonical: "https://eulogikon.org/grc/aeschylus-scholia/persians-glosses"
+canonical: "https://eulogikon.org/works/aeschylus-scholia-persians-glosses-tro-aa"
 period: Late Antique
 dialect: Byzantine Greek
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aeschylus Scholia
 
-**eul_wid:** `tro-aa` · [HTML page](https://eulogikon.org/grc/aeschylus-scholia/persians-glosses)
+**eul_wid:** `tro-aa` · [HTML page](https://eulogikon.org/works/aeschylus-scholia-persians-glosses-tro-aa)
 
 ## Text
 

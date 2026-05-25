@@ -4,7 +4,7 @@ title_greek: Περὶ ποιημάτων
 author: Hephaestion of Alexandria
 eul_wid: oqa-ad
 eul_aid: oqa
-canonical: "https://eulogikon.org/grc/hephaestion-of-alexandria/on-poems"
+canonical: "https://eulogikon.org/works/hephaestion-alexandria-on-poems-oqa-ad"
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hephaestion of Alexandria
 
-**eul_wid:** `oqa-ad` · [HTML page](https://eulogikon.org/grc/hephaestion-of-alexandria/on-poems)
+**eul_wid:** `oqa-ad` · [HTML page](https://eulogikon.org/works/hephaestion-alexandria-on-poems-oqa-ad)
 
 ## Text
 

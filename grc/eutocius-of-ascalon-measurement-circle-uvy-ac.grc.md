@@ -4,7 +4,7 @@ title_greek: Ὑπόμνημα εἰς τὴν μέτρησιν τοῦ κύκλ
 author: Eutocius of Ascalon
 eul_wid: uvy-ac
 eul_aid: uvy
-canonical: "https://eulogikon.org/grc/eutocius-of-ascalon/measurement-circle"
+canonical: "https://eulogikon.org/works/eutocius-ascalon-measurement-circle-uvy-ac"
 period: Late Antique
 dialect: Technical Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Eutocius of Ascalon
 
-**eul_wid:** `uvy-ac` · [HTML page](https://eulogikon.org/grc/eutocius-of-ascalon/measurement-circle)
+**eul_wid:** `uvy-ac` · [HTML page](https://eulogikon.org/works/eutocius-ascalon-measurement-circle-uvy-ac)
 
 ## Text
 

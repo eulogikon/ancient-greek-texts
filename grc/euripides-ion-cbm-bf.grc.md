@@ -4,7 +4,7 @@ title_greek: Ἴων
 author: Euripides
 eul_wid: cbm-bf
 eul_aid: cbm
-canonical: "https://eulogikon.org/grc/euripides/ion"
+canonical: "https://eulogikon.org/works/euripides-ion-cbm-bf"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euripides
 
-**eul_wid:** `cbm-bf` · [HTML page](https://eulogikon.org/grc/euripides/ion)
+**eul_wid:** `cbm-bf` · [HTML page](https://eulogikon.org/works/euripides-ion-cbm-bf)
 
 ## Text
 
@@ -476,7 +476,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 115.4
 
-†τὰν† ἀέναον
+τὰν ἀέναον
 
 ### 115.5
 
@@ -820,7 +820,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 205.4
 
-— †ὧδε δερκόμεσθ’, ὦ φίλαι.†
+— ὧδε δερκόμεσθ’, ὦ φίλαι.
 
 ### 205.5
 
@@ -880,7 +880,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 221.2
 
-— †οὐδ’ ἂν ἐκ σέθεν ἂν πυθοίμαν αὐδάν;†
+— οὐδ’ ἂν ἐκ σέθεν ἂν πυθοίμαν αὐδάν;
 
 ### 221.3
 
@@ -1160,11 +1160,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 285.1
 
-Ιων τιμᾶι σφε †Πύθιος† ἀστραπαί τε Πύθιαι.
+Ιων τιμᾶι σφε Πύθιος ἀστραπαί τε Πύθιαι.
 
 ### 285.2
 
-Κρ. †τιμᾶ τιμᾶ†· ὡς μήποτ’ ὤφελόν σφ’ ἰδεῖν.
+Κρ. τιμᾶ τιμᾶ· ὡς μήποτ’ ὤφελόν σφ’ ἰδεῖν.
 
 ### 285.3
 
@@ -1564,7 +1564,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 390.1
 
-†ἀλλ’ ἐᾶν χρὴ τάδ’†, εἰ πρὸς τοῦ θεοῦ
+ἀλλ’ ἐᾶν χρὴ τάδ’, εἰ πρὸς τοῦ θεοῦ
 
 ### 390.2
 
@@ -1816,7 +1816,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 455.2
 
-κορυφᾶς Διός, ὦ †μάκαιρα† Νίκα,
+κορυφᾶς Διός, ὦ μάκαιρα Νίκα,
 
 ### 455.3
 
@@ -1856,7 +1856,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 465.3
 
-κασίγνηται †σεμναὶ Φοίβου†.
+κασίγνηται σεμναὶ Φοίβου.
 
 ### 465.4
 
@@ -1936,7 +1936,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 485.3
 
-†τροφαὶ κήδειοι κεδνῶν γε τέκνων†.
+τροφαὶ κήδειοι κεδνῶν γε τέκνων.
 
 ### 485.4
 
@@ -1984,7 +1984,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 495.5
 
-ὑπ’ αἰόλας ἰαχᾶς †ὕμνων† ὅτ’ ἀναλίοις
+ὑπ’ αἰόλας ἰαχᾶς ὕμνων ὅτ’ ἀναλίοις
 
 ### 495.6
 
@@ -2360,7 +2360,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 590.5
 
-†μηδὲν καὶ οὐδὲν ὢν† κεκλήσομαι.
+μηδὲν καὶ οὐδὲν ὢν κεκλήσομαι.
 
 ### 595.1
 
@@ -2384,7 +2384,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 595.6
 
-τῶν δ’ †αὖ λογίων τε† χρωμένων τε τῆι πόλει
+τῶν δ’ αὖ λογίων τε χρωμένων τε τῆι πόλει
 
 ### 595.7
 
@@ -2740,11 +2740,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 695.3
 
-†πόσιν ἐν ὧι τὰ πάντ’ ἔχους’ ἐλπίδων
+πόσιν ἐν ὧι τὰ πάντ’ ἔχους’ ἐλπίδων
 
 ### 695.4
 
-μέτοχος ἦν τλάμων†;
+μέτοχος ἦν τλάμων;
 
 ### 695.5
 
@@ -2828,7 +2828,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 723.1
 
-†ἁλίσας† ὁ πάρος ἀρχαγὸς ὢν
+ἁλίσας ὁ πάρος ἀρχαγὸς ὢν
 
 ### 723.2
 
@@ -3068,7 +3068,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 783.1
 
-Κρ. πῶς φήις; †ἄφατον ἄφατον† ἀναύδητον
+Κρ. πῶς φήις; ἄφατον ἄφατον ἀναύδητον
 
 ### 783.2
 
@@ -3236,7 +3236,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 825.4
 
-†ἐλθὼν δὲ καὶ τὸν χρόνον ἀμύνεσθαι θέλων†
+ἐλθὼν δὲ καὶ τὸν χρόνον ἀμύνεσθαι θέλων
 
 ### 825.5
 
@@ -3476,7 +3476,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 890.1
 
-†ἀνθίζειν† χρυσανταυγῆ·
+ἀνθίζειν χρυσανταυγῆ·
 
 ### 890.2
 
@@ -3548,7 +3548,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 905.5
 
-†πρὸς χρυσέους θάκους†
+πρὸς χρυσέους θάκους
 
 ### 910.1
 
@@ -3572,7 +3572,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 915.2
 
-ὁ δ’ ἐμὸς γενέτας καὶ σὸς †ἀμαθὴς†
+ὁ δ’ ἐμὸς γενέτας καὶ σὸς ἀμαθὴς
 
 ### 915.3
 
@@ -3908,7 +3908,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 998.4
 
-Πρ. τί χρῆμα; †μέλλον† γάρ τι προσφέρεις ἔπος.
+Πρ. τί χρῆμα; μέλλον γάρ τι προσφέρεις ἔπος.
 
 ### 998.5
 
@@ -4212,11 +4212,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1080.3
 
-†Νηρέος αἱ κατὰ πόντον
+Νηρέος αἱ κατὰ πόντον
 
 ### 1080.4
 
-ἀεναῶν τε ποταμῶν†
+ἀεναῶν τε ποταμῶν
 
 ### 1080.5
 
@@ -4272,11 +4272,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1095.4
 
-†δυσκέλαδος ἀμφὶ λέκτρων.
+δυσκέλαδος ἀμφὶ λέκτρων.
 
 ### 1095.5
 
-δείκνυσι γὰρ ὁ Διὸς ἐκ παίδων† ἀμνημοσύναν,
+δείκνυσι γὰρ ὁ Διὸς ἐκ παίδων ἀμνημοσύναν,
 
 ### 1095.6
 
@@ -4788,7 +4788,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1230.3
 
-†σπονδὰς ἐκ Διονύσου
+σπονδὰς ἐκ Διονύσου
 
 ### 1230.4
 
@@ -4796,7 +4796,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1230.5
 
-σταγόσι μειγνυμένας φόνωι†.
+σταγόσι μειγνυμένας φόνωι.
 
 ### 1235.1
 
@@ -5004,7 +5004,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1285.4
 
-Ιων †ἀλλ’ ἐγενόμεσθα, πατρὸς δ’ οὐσίαν λέγω†.
+Ιων ἀλλ’ ἐγενόμεσθα, πατρὸς δ’ οὐσίαν λέγω.
 
 ### 1285.5
 
@@ -5060,7 +5060,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1304
 
-Ιων ἡμῖν †δέ γ’ ἀλλὰ πατρὶ† γῆς οὐκ ἦν μέρος;
+Ιων ἡμῖν δέ γ’ ἀλλὰ πατρὶ γῆς οὐκ ἦν μέρος;
 
 ### 1305.1
 
@@ -5280,7 +5280,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1360.1
 
-†σῶσαί θ’· ὅτου δ’ ἐβούλεθ’ οὕνεκ’ οὐκ ἔχω λέγειν†.
+σῶσαί θ’· ὅτου δ’ ἐβούλεθ’ οὕνεκ’ οὐκ ἔχω λέγειν.
 
 ### 1360.2
 
@@ -5524,7 +5524,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1424
 
-τόδ’ ἔσθ’ ὕφασμα †θέσφαθ’ ὡς εὑρίσκομεν†.
+τόδ’ ἔσθ’ ὕφασμα θέσφαθ’ ὡς εὑρίσκομεν.
 
 ### 1425.1
 
@@ -5772,7 +5772,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1485.4
 
-Ιων ὦ φίλτατ’ εἰποῦς’, εἰ λέγεις ἐτήτυμα. Κρ. παρθένια δ’ †ἐμᾶς ματέρος†
+Ιων ὦ φίλτατ’ εἰποῦς’, εἰ λέγεις ἐτήτυμα. Κρ. παρθένια δ’ ἐμᾶς ματέρος
 
 ### 1490.1
 
@@ -5812,7 +5812,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1495.5
 
-ἔκτεινά ς’ ἄκους’. Ιων †ἐξ ἐμοῦ τ’ οὐχ ὅσι’ ἔθνηισκες†.
+ἔκτεινά ς’ ἄκους’. Ιων ἐξ ἐμοῦ τ’ οὐχ ὅσι’ ἔθνηισκες.
 
 ### 1502
 
@@ -6244,7 +6244,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1610.5
 
-Αθ. ἤινες’ οὕνεκ’ εὐλογεῖς θεὸν μεταβαλοῦς’ †ἀεί που†
+Αθ. ἤινες’ οὕνεκ’ εὐλογεῖς θεὸν μεταβαλοῦς’ ἀεί που
 
 ### 1615.1
 

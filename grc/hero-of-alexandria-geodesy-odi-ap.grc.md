@@ -4,7 +4,7 @@ title_greek: Γεωδαισία
 author: "Hero of Alexandria "
 eul_wid: odi-ap
 eul_aid: odi
-canonical: "https://eulogikon.org/grc/hero-of-alexandria/geodesy"
+canonical: "https://eulogikon.org/works/hero-alexandria-geodesy-odi-ap"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hero of Alexandria 
 
-**eul_wid:** `odi-ap` · [HTML page](https://eulogikon.org/grc/hero-of-alexandria/geodesy)
+**eul_wid:** `odi-ap` · [HTML page](https://eulogikon.org/works/hero-alexandria-geodesy-odi-ap)
 
 ## Text
 

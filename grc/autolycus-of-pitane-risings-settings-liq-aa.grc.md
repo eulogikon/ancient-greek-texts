@@ -4,7 +4,7 @@ title_greek: Περὶ Ἀνατολῶν καὶ Δύσεων
 author: Autolycus of Pitane
 eul_wid: liq-aa
 eul_aid: liq
-canonical: "https://eulogikon.org/grc/autolycus-of-pitane/risings-settings"
+canonical: "https://eulogikon.org/works/autolycus-pitane-risings-settings-liq-aa"
 period: Hellenistic
 dialect: Attic
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Autolycus of Pitane
 
-**eul_wid:** `liq-aa` · [HTML page](https://eulogikon.org/grc/autolycus-of-pitane/risings-settings)
+**eul_wid:** `liq-aa` · [HTML page](https://eulogikon.org/works/autolycus-pitane-risings-settings-liq-aa)
 
 ## Text
 

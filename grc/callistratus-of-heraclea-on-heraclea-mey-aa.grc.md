@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Callistratus of Heraclea Pontica
 eul_wid: mey-aa
 eul_aid: mey
-canonical: "https://eulogikon.org/grc/callistratus-of-heraclea/on-heraclea"
+canonical: "https://eulogikon.org/works/callistratus-heraclea-on-heraclea-mey-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Callistratus of Heraclea Pontica
 
-**eul_wid:** `mey-aa` · [HTML page](https://eulogikon.org/grc/callistratus-of-heraclea/on-heraclea)
+**eul_wid:** `mey-aa` · [HTML page](https://eulogikon.org/works/callistratus-heraclea-on-heraclea-mey-aa)
 
 ## Text
 

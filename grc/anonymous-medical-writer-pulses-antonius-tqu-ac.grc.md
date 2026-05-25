@@ -4,7 +4,7 @@ title_greek: Περὶ Σφυγμῶν πρὸς Ἀντώνιον Μαθητὴ
 author: Medical Writer  Anonymous
 eul_wid: tqu-ac
 eul_aid: tqu
-canonical: "https://eulogikon.org/grc/anonymous-medical-writer/pulses-antonius"
+canonical: "https://eulogikon.org/works/med-writer-anon-pulses-antonius-tqu-ac"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Medical Writer  Anonymous
 
-**eul_wid:** `tqu-ac` · [HTML page](https://eulogikon.org/grc/anonymous-medical-writer/pulses-antonius)
+**eul_wid:** `tqu-ac` · [HTML page](https://eulogikon.org/works/med-writer-anon-pulses-antonius-tqu-ac)
 
 ## Text
 

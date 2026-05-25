@@ -4,7 +4,7 @@ title_greek: Περὶ Ὑλῆς Ἰατρικῆς
 author: Dioscorides of Anazarbus
 eul_wid: nyi-ac
 eul_aid: nyi
-canonical: "https://eulogikon.org/grc/dioscorides-of-anazarbus/medical-material-ac"
+canonical: "https://eulogikon.org/works/dioscorides-anazarbus-medical-material-nyi-ac"
 period: Roman
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dioscorides of Anazarbus
 
-**eul_wid:** `nyi-ac` · [HTML page](https://eulogikon.org/grc/dioscorides-of-anazarbus/medical-material-ac)
+**eul_wid:** `nyi-ac` · [HTML page](https://eulogikon.org/works/dioscorides-anazarbus-medical-material-nyi-ac)
 
 ## Text
 

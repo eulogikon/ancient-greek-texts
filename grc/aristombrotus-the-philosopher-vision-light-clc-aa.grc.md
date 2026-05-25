@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Aristombrotus the Philosopher
 eul_wid: clc-aa
 eul_aid: clc
-canonical: "https://eulogikon.org/grc/aristombrotus-the-philosopher/vision-light"
+canonical: "https://eulogikon.org/works/aristombrotus-vision-light-clc-aa"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristombrotus the Philosopher
 
-**eul_wid:** `clc-aa` · [HTML page](https://eulogikon.org/grc/aristombrotus-the-philosopher/vision-light)
+**eul_wid:** `clc-aa` · [HTML page](https://eulogikon.org/works/aristombrotus-vision-light-clc-aa)
 
 ## Text
 

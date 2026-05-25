@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τῆς Ποσειδῶνος Ἀ
 author: Hermonax the Epic Poet
 eul_wid: cee-aa
 eul_aid: cee
-canonical: "https://eulogikon.org/grc/hermonax-the-epic-poet/poseidon-dominion"
+canonical: "https://eulogikon.org/works/hermonax-poseidon-dominion-cee-aa"
 period: Classical
 dialect: Epic (Homeric) (frg)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hermonax the Epic Poet
 
-**eul_wid:** `cee-aa` · [HTML page](https://eulogikon.org/grc/hermonax-the-epic-poet/poseidon-dominion)
+**eul_wid:** `cee-aa` · [HTML page](https://eulogikon.org/works/hermonax-poseidon-dominion-cee-aa)
 
 ## Text
 

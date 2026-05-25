@@ -4,7 +4,7 @@ title_greek: Σχόλια εἰς Λυσιστράτην
 author: Aristophanes Scholia
 eul_wid: mlw-af
 eul_aid: mlw
-canonical: "https://eulogikon.org/grc/aristophanes-scholia/lysistrata"
+canonical: "https://eulogikon.org/works/aristophanes-scholia-lysistrata-mlw-af"
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristophanes Scholia
 
-**eul_wid:** `mlw-af` · [HTML page](https://eulogikon.org/grc/aristophanes-scholia/lysistrata)
+**eul_wid:** `mlw-af` · [HTML page](https://eulogikon.org/works/aristophanes-scholia-lysistrata-mlw-af)
 
 ## Text
 

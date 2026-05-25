@@ -4,7 +4,7 @@ title_greek: Ἀλληγορίαι ἢ Ὁμηρικαὶ Ζητήσεις
 author: Heraclitus of Ephesus II
 eul_wid: bko-aa
 eul_aid: bko
-canonical: "https://eulogikon.org/grc/heraclitus-of-ephesus-ii/allegories-homeric"
+canonical: "https://eulogikon.org/works/heraclitus-ephesus-allegories-homeric-bko-aa"
 period: Archaic
 dialect: Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Heraclitus of Ephesus II
 
-**eul_wid:** `bko-aa` · [HTML page](https://eulogikon.org/grc/heraclitus-of-ephesus-ii/allegories-homeric)
+**eul_wid:** `bko-aa` · [HTML page](https://eulogikon.org/works/heraclitus-ephesus-allegories-homeric-bko-aa)
 
 ## Text
 

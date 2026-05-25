@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν ὑπόπτων λέξεων παρὰ τοῖς 
 author: Aristophanes of Byzantium
 eul_wid: klo-ad
 eul_aid: klo
-canonical: "https://eulogikon.org/grc/aristophanes-of-byzantium/suspect-words"
+canonical: "https://eulogikon.org/works/aristophanes-byzantium-suspect-words-klo-ad"
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristophanes of Byzantium
 
-**eul_wid:** `klo-ad` · [HTML page](https://eulogikon.org/grc/aristophanes-of-byzantium/suspect-words)
+**eul_wid:** `klo-ad` · [HTML page](https://eulogikon.org/works/aristophanes-byzantium-suspect-words-klo-ad)
 
 ## Text
 

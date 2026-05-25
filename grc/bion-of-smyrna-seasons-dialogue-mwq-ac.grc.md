@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Bion of Smyrna
 eul_wid: mwq-ac
 eul_aid: mwq
-canonical: "https://eulogikon.org/grc/bion-of-smyrna/seasons-dialogue"
+canonical: "https://eulogikon.org/works/bion-smyrna-seasons-dialogue-mwq-ac"
 period: Hellenistic
 dialect: Doric Bucolic
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Bion of Smyrna
 
-**eul_wid:** `mwq-ac` · [HTML page](https://eulogikon.org/grc/bion-of-smyrna/seasons-dialogue)
+**eul_wid:** `mwq-ac` · [HTML page](https://eulogikon.org/works/bion-smyrna-seasons-dialogue-mwq-ac)
 
 ## Text
 
@@ -112,7 +112,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 6.1
 
-Μηδὲ λίπῃς μ’ ἀγέραστον, †ἐπὴν χὠ Φοῖβος ἀείδειν μισθὸν ἔδωκε†. τιμὰ δὲ τὰ πράγματα κρέσσονα
+Μηδὲ λίπῃς μ’ ἀγέραστον, ἐπὴν χὠ Φοῖβος ἀείδειν μισθὸν ἔδωκε. τιμὰ δὲ τὰ πράγματα κρέσσονα
 
 ### book 6.2
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Παρθίας
 author: Apollodorus of Artemita
 eul_wid: moe-aa
 eul_aid: moe
-canonical: "https://eulogikon.org/grc/apollodorus-of-artemita/historical-parthia"
+canonical: "https://eulogikon.org/works/apollodorus-artemita-historical-parthia-moe-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Apollodorus of Artemita
 
-**eul_wid:** `moe-aa` · [HTML page](https://eulogikon.org/grc/apollodorus-of-artemita/historical-parthia)
+**eul_wid:** `moe-aa` · [HTML page](https://eulogikon.org/works/apollodorus-artemita-historical-parthia-moe-aa)
 
 ## Text
 

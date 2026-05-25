@@ -4,7 +4,7 @@ title_greek: Κωμικοὶ Ἀγῶνες
 author: Comic Fragments Anonymous II
 eul_wid: kfu-af
 eul_aid: kfu
-canonical: "https://eulogikon.org/grc/comic-fragments-anonymous-ii/arguments"
+canonical: "https://eulogikon.org/works/anon-comic-fragments-ii-arguments-kfu-af"
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Comedy
@@ -18,25 +18,25 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Comic Fragments Anonymous II
 
-**eul_wid:** `kfu-af` · [HTML page](https://eulogikon.org/grc/comic-fragments-anonymous-ii/arguments)
+**eul_wid:** `kfu-af` · [HTML page](https://eulogikon.org/works/anon-comic-fragments-ii-arguments-kfu-af)
 
 ## Text
 
 ### book 340.1
 
-— — — — — — — — — — — — — —[ln_1]..........]...[...].κηc̣ αὐτὸ̣[c] τηλι‐ κοῦτοc ἐξέρ]χεται ἐπαναcυρόμενοc .....]αλ.[.]c τοὺc δ̣[εc]πόταc αὐ̣τ̣οῦ μέμ‐ φετ]αι καὶ καθάπαξ [ἐ]ξέρχεται λέγων·[ln_5]‘ἡμι]όλιον ὑμῶν δ[ί]δ̣ω̣μι‘ καὶ ἐκβάλ‐ λ]ε̣ι̣ ὅcα ἔχει ἐπιτ̣ή̣δεια οὐδὲ εἷc τῶν ἔν‐ δον ..]c̣ει, καθάπαξ δὲ ἐξέρχεται λέγων· ‘πλείο]υ̣c οὐκ ἔχω‘· ἐπιγνοὺc δὲ ὅτι
+— — — — — — — — — — — — — —[ln_1]..........]...[...].κηc αὐτὸ[c] τηλι‐ κοῦτοc ἐξέρ]χεται ἐπαναcυρόμενοc .....]αλ.[.]c τοὺc δ[εc]πόταc αὐτοῦ μέμ‐ φετ]αι καὶ καθάπαξ [ἐ]ξέρχεται λέγων·[ln_5]‘ἡμι]όλιον ὑμῶν δ[ί]δωμι‘ καὶ ἐκβάλ‐ λ]ει ὅcα ἔχει ἐπιτήδεια οὐδὲ εἷc τῶν ἔν‐ δον ..]cει, καθάπαξ δὲ ἐξέρχεται λέγων· ‘πλείο]υc οὐκ ἔχω‘· ἐπιγνοὺc δὲ ὅτι
 
 ### book 340.2
 
-τοῦτ’ οὐκ ἤρ]εcκε ἄλληι αὐτὰ παρέθετο οἰόμε‐[ln_10]νοc κ]ελεύcε[ι]ν καὶ [ἁ]ρπαcθῆναι ἀπ’ αὐτ(..) ......].δ[....]λ̣ι̣π̣[....]κιαcουc.[...]c μ̣ι̣μ̣ ]α..[..]ι̣α̣. ἐπὶ ἀc.[...].λλοντ[[ln_12]— — — — — — — — — — — —
+τοῦτ’ οὐκ ἤρ]εcκε ἄλληι αὐτὰ παρέθετο οἰόμε‐[ln_10]νοc κ]ελεύcε[ι]ν καὶ [ἁ]ρπαcθῆναι ἀπ’ αὐτ(..) ......].δ[....]λιπ[....]κιαcουc.[...]c μιμ ]α..[..]ια. ἐπὶ ἀc.[...].λλοντ[[ln_12]— — — — — — — — — — — —
 
 ### book 341.1
 
-].[... [para]]πων [para]].οcπρ. ]α̣ναυ̣τα[ln_5]]γαρου ]αθεc ]..ταcεγ̣[...]το κλι ]η̣ται
+].[... [para]]πων [para]].οcπρ. ]αναυτα[ln_5]]γαρου ]αθεc ]..ταcεγ[...]το κλι ]ηται
 
 ### book 341.2
 
-πολλῶν δ̣εο [para]].ε̣ν
+πολλῶν δεο [para]].εν
 
 ### book 341.3
 
@@ -44,7 +44,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 341.4
 
-περιουcία ]αυτον ἔχει ]ραπαμ [para]]α̣τ̣η θυγα ]η
+περιουcία ]αυτον ἔχει ]ραπαμ [para]]ατη θυγα ]η
 
 ### book 341.5
 
@@ -52,7 +52,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 341.6
 
-χρυcία ]λωμ̣α̣τ̣ι̣ ]cκα̣[.].. ]ο̣c̣π̣ρεc̣[ln_20]].cκε̣υ̣α̣ ].κακ̣ι̣ ]ρ̣ο̣cανα ]τ̣εεκ ]νπρ̣οι[ln_25]].ιβο ]
+χρυcία ]λωματι ]cκα[.].. ]οcπρεc[ln_20]].cκευα ].κακι ]ροcανα ]τεεκ ]νπροι[ln_25]].ιβο ]
 
 ## License and provenance
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Aristotle
 eul_wid: hgw-bs
 eul_aid: hgw
-canonical: "https://eulogikon.org/grc/aristotle/good-happy-life"
+canonical: "https://eulogikon.org/works/aristotle-good-happy-life-hgw-bs"
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristotle
 
-**eul_wid:** `hgw-bs` · [HTML page](https://eulogikon.org/grc/aristotle/good-happy-life)
+**eul_wid:** `hgw-bs` · [HTML page](https://eulogikon.org/works/aristotle-good-happy-life-hgw-bs)
 
 ## Text
 

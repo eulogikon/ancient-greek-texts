@@ -4,7 +4,7 @@ title_greek: Διόπτρα
 author: "Hero of Alexandria "
 eul_wid: odi-ao
 eul_aid: odi
-canonical: "https://eulogikon.org/grc/hero-of-alexandria/dioptra"
+canonical: "https://eulogikon.org/works/hero-alexandria-dioptra-odi-ao"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hero of Alexandria 
 
-**eul_wid:** `odi-ao` · [HTML page](https://eulogikon.org/grc/hero-of-alexandria/dioptra)
+**eul_wid:** `odi-ao` · [HTML page](https://eulogikon.org/works/hero-alexandria-dioptra-odi-ao)
 
 ## Text
 

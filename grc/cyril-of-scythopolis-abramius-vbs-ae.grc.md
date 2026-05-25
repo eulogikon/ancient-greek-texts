@@ -4,7 +4,7 @@ title_greek: Βίος Ἀβραμίου
 author: Cyril of Scythopolis
 eul_wid: vbs-ae
 eul_aid: vbs
-canonical: "https://eulogikon.org/grc/cyril-of-scythopolis/abramius"
+canonical: "https://eulogikon.org/works/cyril-scythopolis-abramius-vbs-ae"
 period: Late Antique
 dialect: Christian Koine
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cyril of Scythopolis
 
-**eul_wid:** `vbs-ae` · [HTML page](https://eulogikon.org/grc/cyril-of-scythopolis/abramius)
+**eul_wid:** `vbs-ae` · [HTML page](https://eulogikon.org/works/cyril-scythopolis-abramius-vbs-ae)
 
 ## Text
 

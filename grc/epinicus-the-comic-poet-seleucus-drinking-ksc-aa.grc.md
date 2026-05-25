@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Σελεύκου καὶ Ποτο
 author: Epinicus the Comic Poet
 eul_wid: ksc-aa
 eul_aid: ksc
-canonical: "https://eulogikon.org/grc/epinicus-the-comic-poet/seleucus-drinking"
+canonical: "https://eulogikon.org/works/epinicus-seleucus-drinking-ksc-aa"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Epinicus the Comic Poet
 
-**eul_wid:** `ksc-aa` · [HTML page](https://eulogikon.org/grc/epinicus-the-comic-poet/seleucus-drinking)
+**eul_wid:** `ksc-aa` · [HTML page](https://eulogikon.org/works/epinicus-seleucus-drinking-ksc-aa)
 
 ## Text
 

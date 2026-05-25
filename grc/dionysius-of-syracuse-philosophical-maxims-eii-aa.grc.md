@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα φιλοσοφικῶν γνωμῶν
 author: Dionysius of Syracuse the Elder
 eul_wid: eii-aa
 eul_aid: eii
-canonical: "https://eulogikon.org/grc/dionysius-of-syracuse/philosophical-maxims"
+canonical: "https://eulogikon.org/works/dionysius-syracuse-philosophical-maxims-eii-aa"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dionysius of Syracuse the Elder
 
-**eul_wid:** `eii-aa` · [HTML page](https://eulogikon.org/grc/dionysius-of-syracuse/philosophical-maxims)
+**eul_wid:** `eii-aa` · [HTML page](https://eulogikon.org/works/dionysius-syracuse-philosophical-maxims-eii-aa)
 
 ## Text
 
 ### book 1
 
-[ln_1]νυμφῶν ὑπὸ σπήλυγγα †τὸν αὐτόστεγον σύαγρον ἐκβόλειον †εὔθηρον κλύειν ὁπλάς τ’ ἀπαρχὰς ἀκροθινιάζομαι
+[ln_1]νυμφῶν ὑπὸ σπήλυγγα τὸν αὐτόστεγον σύαγρον ἐκβόλειον εὔθηρον κλύειν ὁπλάς τ’ ἀπαρχὰς ἀκροθινιάζομαι
 
 ### book 2.1
 
@@ -36,7 +36,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2.3
 
-ποτε †μηδὲν ἔσεσθαι, μακαρίως ἔχεις
+ποτε μηδὲν ἔσεσθαι, μακαρίως ἔχεις
 
 ### book 2.4
 
@@ -108,7 +108,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 9
 
-†Δωρικὸν ἧκεν ἡ Διονυσίου γυνή
+Δωρικὸν ἧκεν ἡ Διονυσίου γυνή
 
 ### book 10.1
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Aristophanes of Boeotia
 eul_wid: guo-aa
 eul_aid: guo
-canonical: "https://eulogikon.org/grc/aristophanes-of-boeotia/histories-legends"
+canonical: "https://eulogikon.org/works/aristophanes-boeotia-histories-legends-guo-aa"
 period: Classical
 dialect: Aeolic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristophanes of Boeotia
 
-**eul_wid:** `guo-aa` · [HTML page](https://eulogikon.org/grc/aristophanes-of-boeotia/histories-legends)
+**eul_wid:** `guo-aa` · [HTML page](https://eulogikon.org/works/aristophanes-boeotia-histories-legends-guo-aa)
 
 ## Text
 

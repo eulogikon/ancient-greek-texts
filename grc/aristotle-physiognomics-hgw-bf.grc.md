@@ -4,7 +4,7 @@ title_greek: Φυσιογνωμονικά
 author: Aristotle
 eul_wid: hgw-bf
 eul_aid: hgw
-canonical: "https://eulogikon.org/grc/aristotle/physiognomics"
+canonical: "https://eulogikon.org/works/aristotle-physiognomics-hgw-bf"
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristotle
 
-**eul_wid:** `hgw-bf` · [HTML page](https://eulogikon.org/grc/aristotle/physiognomics)
+**eul_wid:** `hgw-bf` · [HTML page](https://eulogikon.org/works/aristotle-physiognomics-hgw-bf)
 
 ## Text
 

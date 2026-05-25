@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Archigenes of Apamea
 eul_wid: owe-ab
 eul_aid: owe
-canonical: "https://eulogikon.org/grc/archigenes-of-apamea/spleen-inflammation"
+canonical: "https://eulogikon.org/works/archigenes-apamea-spleen-inflammation-owe-ab"
 period: Roman
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Archigenes of Apamea
 
-**eul_wid:** `owe-ab` · [HTML page](https://eulogikon.org/grc/archigenes-of-apamea/spleen-inflammation)
+**eul_wid:** `owe-ab` · [HTML page](https://eulogikon.org/works/archigenes-apamea-spleen-inflammation-owe-ab)
 
 ## Text
 

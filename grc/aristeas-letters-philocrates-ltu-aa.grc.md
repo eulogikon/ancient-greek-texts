@@ -4,7 +4,7 @@ title_greek: Ἐπιστολὴ Ἀριστέου πρὸς Φιλοκράτην
 author: Aristeas Letters
 eul_wid: ltu-aa
 eul_aid: ltu
-canonical: "https://eulogikon.org/grc/aristeas-letters/philocrates"
+canonical: "https://eulogikon.org/works/aristeas-letters-philocrates-ltu-aa"
 period: Hellenistic
 dialect: Koine
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristeas Letters
 
-**eul_wid:** `ltu-aa` · [HTML page](https://eulogikon.org/grc/aristeas-letters/philocrates)
+**eul_wid:** `ltu-aa` · [HTML page](https://eulogikon.org/works/aristeas-letters-philocrates-ltu-aa)
 
 ## Text
 

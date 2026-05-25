@@ -4,7 +4,7 @@ title_greek: Προγυμνάσματα
 author: Hermogenes of Tarsus
 eul_wid: qng-ab
 eul_aid: qng
-canonical: "https://eulogikon.org/grc/hermogenes-of-tarsus/preliminary-exercises"
+canonical: "https://eulogikon.org/works/hermogenes-tarsus-preliminary-exercises-qng-ab"
 period: Roman
 dialect: Atticizing Technical
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hermogenes of Tarsus
 
-**eul_wid:** `qng-ab` · [HTML page](https://eulogikon.org/grc/hermogenes-of-tarsus/preliminary-exercises)
+**eul_wid:** `qng-ab` · [HTML page](https://eulogikon.org/works/hermogenes-tarsus-preliminary-exercises-qng-ab)
 
 ## Text
 

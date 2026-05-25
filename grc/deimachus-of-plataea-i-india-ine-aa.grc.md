@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Deimachus of Plataea I
 eul_wid: ine-aa
 eul_aid: ine
-canonical: "https://eulogikon.org/grc/deimachus-of-plataea-i/india"
+canonical: "https://eulogikon.org/works/deimachus-plataea-india-ine-aa"
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Deimachus of Plataea I
 
-**eul_wid:** `ine-aa` · [HTML page](https://eulogikon.org/grc/deimachus-of-plataea-i/india)
+**eul_wid:** `ine-aa` · [HTML page](https://eulogikon.org/works/deimachus-plataea-india-ine-aa)
 
 ## Text
 

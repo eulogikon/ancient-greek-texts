@@ -4,7 +4,7 @@ title_greek: Μῦθοι Λιβανίου
 author: Aesop the Fabulist
 eul_wid: aqo-ak
 eul_aid: aqo
-canonical: "https://eulogikon.org/grc/aesop/fables-ak"
+canonical: "https://eulogikon.org/works/aesop-fables-aqo-ak"
 period: Archaic
 dialect: Mixed Dialects
 domain: Fiction
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aesop the Fabulist
 
-**eul_wid:** `aqo-ak` · [HTML page](https://eulogikon.org/grc/aesop/fables-ak)
+**eul_wid:** `aqo-ak` · [HTML page](https://eulogikon.org/works/aesop-fables-aqo-ak)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Φύσεως
 author: Alcmaeon of Croton
 eul_wid: bmw-ab
 eul_aid: bmw
-canonical: "https://eulogikon.org/grc/alcmaeon-of-croton/nature"
+canonical: "https://eulogikon.org/works/alcmaeon-croton-nature-bmw-ab"
 period: Archaic
 dialect: Ionic (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alcmaeon of Croton
 
-**eul_wid:** `bmw-ab` · [HTML page](https://eulogikon.org/grc/alcmaeon-of-croton/nature)
+**eul_wid:** `bmw-ab` · [HTML page](https://eulogikon.org/works/alcmaeon-croton-nature-bmw-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Asclepiades of Myrlea
 eul_wid: mus-aa
 eul_aid: mus
-canonical: "https://eulogikon.org/grc/asclepiades-of-myrlea/historical-fragments"
+canonical: "https://eulogikon.org/works/asclepiades-myrlea-historical-fragments-mus-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Asclepiades of Myrlea
 
-**eul_wid:** `mus-aa` · [HTML page](https://eulogikon.org/grc/asclepiades-of-myrlea/historical-fragments)
+**eul_wid:** `mus-aa` · [HTML page](https://eulogikon.org/works/asclepiades-myrlea-historical-fragments-mus-aa)
 
 ## Text
 

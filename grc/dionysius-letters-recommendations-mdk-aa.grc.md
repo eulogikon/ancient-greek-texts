@@ -4,7 +4,7 @@ title_greek: Ἐπιστολαὶ περὶ Συστατικῶν
 author: Dionysius Letters
 eul_wid: mdk-aa
 eul_aid: mdk
-canonical: "https://eulogikon.org/grc/dionysius-letters/recommendations"
+canonical: "https://eulogikon.org/works/dionysius-letters-recommendations-mdk-aa"
 period: Hellenistic
 dialect: Literary Koine
 domain: Rhetoric
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dionysius Letters
 
-**eul_wid:** `mdk-aa` · [HTML page](https://eulogikon.org/grc/dionysius-letters/recommendations)
+**eul_wid:** `mdk-aa` · [HTML page](https://eulogikon.org/works/dionysius-letters-recommendations-mdk-aa)
 
 ## Text
 

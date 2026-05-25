@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν αἱρέσεων τοῖς εἰσαγομένο
 author: Galen of Pergamon
 eul_wid: qmm-dc
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/sects-beginners"
+canonical: "https://eulogikon.org/works/galen-pergamon-sects-beginners-qmm-dc"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-dc` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/sects-beginners)
+**eul_wid:** `qmm-dc` · [HTML page](https://eulogikon.org/works/galen-pergamon-sects-beginners-qmm-dc)
 
 ## Text
 

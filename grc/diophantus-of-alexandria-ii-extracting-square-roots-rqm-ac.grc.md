@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Diophantus of Alexandria II
 eul_wid: rqm-ac
 eul_aid: rqm
-canonical: "https://eulogikon.org/grc/diophantus-of-alexandria-ii/extracting-square-roots"
+canonical: "https://eulogikon.org/works/diophantus-alexandria-extracting-square-roots-rqm-ac"
 period: Roman
 dialect: Technical Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Diophantus of Alexandria II
 
-**eul_wid:** `rqm-ac` · [HTML page](https://eulogikon.org/grc/diophantus-of-alexandria-ii/extracting-square-roots)
+**eul_wid:** `rqm-ac` · [HTML page](https://eulogikon.org/works/diophantus-alexandria-extracting-square-roots-rqm-ac)
 
 ## Text
 

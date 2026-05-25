@@ -4,7 +4,7 @@ title_greek: Λευκτρικὸς Α.
 author: Aristides the Orator
 eul_wid: qwm-ab
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/leuctrian-lacedaemonians"
+canonical: "https://eulogikon.org/works/aristides-orator-leuctrian-lacedaemonians-qwm-ab"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-ab` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/leuctrian-lacedaemonians)
+**eul_wid:** `qwm-ab` · [HTML page](https://eulogikon.org/works/aristides-orator-leuctrian-lacedaemonians-qwm-ab)
 
 ## Text
 

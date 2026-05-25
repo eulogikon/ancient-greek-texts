@@ -4,7 +4,7 @@ title_greek: Ἀνθολογία
 author: "Greek Anthology "
 eul_wid: ajg-aa
 eul_aid: ajg
-canonical: "https://eulogikon.org/grc/greek-anthology/volume-5"
+canonical: "https://eulogikon.org/works/greek-anthology-volume-5-ajg-aa"
 period: Archaic
 dialect: Mixed Dialects
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Greek Anthology 
 
-**eul_wid:** `ajg-aa` · [HTML page](https://eulogikon.org/grc/greek-anthology/volume-5)
+**eul_wid:** `ajg-aa` · [HTML page](https://eulogikon.org/works/greek-anthology-volume-5-ajg-aa)
 
 ## Text
 
@@ -8364,7 +8364,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 181.1.1
 
-Τῶν καρύων ἡμῖν λάβε † κώλακας (ἀλλά ποθ’ ἥξει;)
+Τῶν καρύων ἡμῖν λάβε κώλακας (ἀλλά ποθ’ ἥξει;)
 
 ### book 181.1.2
 
@@ -14536,7 +14536,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 112.1.3
 
-ἃς ἕλον ἐξ ἵππων † γυγερῷ χέρε Δαΐλοχός τε
+ἃς ἕλον ἐξ ἵππων γυγερῷ χέρε Δαΐλοχός τε
 
 ### book 112.1.4
 
@@ -15912,7 +15912,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 186.1.3
 
-† δικτυβόλει τούτῳ δὲ παρ’ ἠιόνων κροκάλαισιν,
+δικτυβόλει τούτῳ δὲ παρ’ ἠιόνων κροκάλαισιν,
 
 ### book 186.1.4
 
@@ -22340,7 +22340,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 132
 
-ἀλλ’ οὐ τιτρῶσκον, † ὢν δὲ γλυκὺ κνῆσμα.
+ἀλλ’ οὐ τιτρῶσκον, ὢν δὲ γλυκὺ κνῆσμα.
 
 ### book 133.1.1
 
@@ -23756,7 +23756,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 201.1.4
 
-παιδὸς † ἀπηιθέου χεὶρ ἀναπεπταμένα.
+παιδὸς ἀπηιθέου χεὶρ ἀναπεπταμένα.
 
 ### book 202.1.1
 
@@ -24084,7 +24084,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 215
 
-κεῖμαι δὲ † ῥαδινὰν τάνδε παρ’ ἠιόνα.
+κεῖμαι δὲ ῥαδινὰν τάνδε παρ’ ἠιόνα.
 
 ### book 216.1.1
 
@@ -26780,7 +26780,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 363.1.1
 
-† Τετμενάνης ὅδε τύμβος ἐυγλύπτοιο μετάλλου
+Τετμενάνης ὅδε τύμβος ἐυγλύπτοιο μετάλλου
 
 ### book 363.1.2
 
@@ -50372,7 +50372,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 503.1.1
 
-Οὐκ ἀλόγως ἐν † διζύφοις δύναμίν τινα θείαν
+Οὐκ ἀλόγως ἐν διζύφοις δύναμίν τινα θείαν
 
 ### book 503.1.2
 
@@ -57712,7 +57712,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 83.1.2
 
-† ζώνη ποικίλη καὶ κολάκων ἀνάγκη.
+ζώνη ποικίλη καὶ κολάκων ἀνάγκη.
 
 ### book 84.1.1
 
@@ -66048,7 +66048,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 438.1
 
-Κορινθίῳ † πίστευε καὶ μὴ χρῶ φίλῳ.
+Κορινθίῳ πίστευε καὶ μὴ χρῶ φίλῳ.
 
 ### book 439.1
 
@@ -69360,7 +69360,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 161.1.3
 
-ἵμερον ἀστράπτουσα κατ’ ὄμματος, † ἠδ’ ὑπὲρ ὤμων
+ἵμερον ἀστράπτουσα κατ’ ὄμματος, ἠδ’ ὑπὲρ ὤμων
 
 ### book 161.1.4
 
@@ -69500,7 +69500,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 168
 
-νήφοντ’, οἰνωθέντ’ οὐχὶ † λίην ἄχαριν.
+νήφοντ’, οἰνωθέντ’ οὐχὶ λίην ἄχαριν.
 
 ### book 169.1.1
 
@@ -75556,7 +75556,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 27.10.3
 
-ἴχνει θενὼν 〈⏑–⏑〉ταν παναίολον Πιερίδων μονόδουπον αὐδάν,
+ἴχνει θενὼν 〈–〉ταν παναίολον Πιερίδων μονόδουπον αὐδάν,
 
 ### book 27.10.4
 

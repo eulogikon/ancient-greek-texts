@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Abydenus the Historian
 eul_wid: jlu-aa
 eul_aid: jlu
-canonical: "https://eulogikon.org/grc/abydenus-the-historian/assyrian-median-history"
+canonical: "https://eulogikon.org/works/abydenus-assyrian-median-history-jlu-aa"
 period: Hellenistic
 dialect: Ionic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Abydenus the Historian
 
-**eul_wid:** `jlu-aa` · [HTML page](https://eulogikon.org/grc/abydenus-the-historian/assyrian-median-history)
+**eul_wid:** `jlu-aa` · [HTML page](https://eulogikon.org/works/abydenus-assyrian-median-history-jlu-aa)
 
 ## Text
 

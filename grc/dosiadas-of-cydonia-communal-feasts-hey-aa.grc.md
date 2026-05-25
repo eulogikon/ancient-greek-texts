@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Dosiadas of Cydonia
 eul_wid: hey-aa
 eul_aid: hey
-canonical: "https://eulogikon.org/grc/dosiadas-of-cydonia/communal-feasts"
+canonical: "https://eulogikon.org/works/dosiadas-cydonia-communal-feasts-hey-aa"
 period: Classical
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dosiadas of Cydonia
 
-**eul_wid:** `hey-aa` · [HTML page](https://eulogikon.org/grc/dosiadas-of-cydonia/communal-feasts)
+**eul_wid:** `hey-aa` · [HTML page](https://eulogikon.org/works/dosiadas-cydonia-communal-feasts-hey-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποτελεσματικῶν
 author: Dorotheus the Astrologer of Sidon
 eul_wid: oho-aa
 eul_aid: oho
-canonical: "https://eulogikon.org/grc/dorotheus-the-astrologer-of-sidon/hephaestion-fragments"
+canonical: "https://eulogikon.org/works/dorotheus-sidon-hephaestion-fragments-oho-aa"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dorotheus the Astrologer of Sidon
 
-**eul_wid:** `oho-aa` · [HTML page](https://eulogikon.org/grc/dorotheus-the-astrologer-of-sidon/hephaestion-fragments)
+**eul_wid:** `oho-aa` · [HTML page](https://eulogikon.org/works/dorotheus-sidon-hephaestion-fragments-oho-aa)
 
 ## Text
 

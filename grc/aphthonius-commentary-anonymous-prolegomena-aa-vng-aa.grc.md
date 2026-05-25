@@ -4,7 +4,7 @@ title_greek: Προλεγόμενα εἰς Προγυμνάσματα ὑπὸ 
 author: Anonymous Commentary on Aphthonius
 eul_wid: vng-aa
 eul_aid: vng
-canonical: "https://eulogikon.org/grc/aphthonius-commentary-anonymous/prolegomena-aa"
+canonical: "https://eulogikon.org/works/anon-comm-aphthonius-prolegomena-vng-aa"
 period: Late Antique
 dialect: Technical Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Anonymous Commentary on Aphthonius
 
-**eul_wid:** `vng-aa` · [HTML page](https://eulogikon.org/grc/aphthonius-commentary-anonymous/prolegomena-aa)
+**eul_wid:** `vng-aa` · [HTML page](https://eulogikon.org/works/anon-comm-aphthonius-prolegomena-vng-aa)
 
 ## Text
 

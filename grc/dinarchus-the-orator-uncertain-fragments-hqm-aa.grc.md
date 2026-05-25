@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα ἀδήλου θέσεως
 author: Dinarchus the Orator
 eul_wid: hqm-aa
 eul_aid: hqm
-canonical: "https://eulogikon.org/grc/dinarchus-the-orator/uncertain-fragments"
+canonical: "https://eulogikon.org/works/dinarchus-uncertain-fragments-hqm-aa"
 period: Hellenistic
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dinarchus the Orator
 
-**eul_wid:** `hqm-aa` · [HTML page](https://eulogikon.org/grc/dinarchus-the-orator/uncertain-fragments)
+**eul_wid:** `hqm-aa` · [HTML page](https://eulogikon.org/works/dinarchus-uncertain-fragments-hqm-aa)
 
 ## Text
 
@@ -30,7 +30,7 @@ Rhet. Graeci, I/II ed C. Hammer p. 316, 10: Τὰ μέντοι δεινὰ τὰ
 
 ### 4
 
-Antinoopolis, nr. 62 (= vol. 2 [1960], p. 42—43) [Κατ’ Ἀριστονίκου vel Καθ’ Ἁγνωνίδου?] [ ... ]ἀ̣δυ̣ν̣α̣τ̣ . [ .. ] . [ [ ... ] κ̣αταισχῦναι τὴν [ δ ι ]καί̣ [α ]ν κρίσιν μ̣η[ δ ὲ ] τ̣ὴν τοῦ δήμου κα[ τα χ ]ε̣ιροτονί̣α̣ν ̣ , ἣν κα[ ταχ ε ]ιροτονήσας αὐ[ τοῦ πα ρ ]έδωκεν ὑμῖ ν · [ ὥστ ε ] δ̣εῖξαι πᾶσιν [ ὅτι π ]ολὺν χρόνον δ [ι ][α ]π̣ε̣φευγότες ὄντε [ς ] [π ]ονηρο ί , καὶ διαφ [ ε ύ ][ ξ ε ]σ̣θ̣α̣ι̣ νομίζοντ [ ε ς] Pollux 8, 24 Δείναρχος 〈καὶ〉 ἀδίκημα καὶ ἀδικί α.
+Antinoopolis, nr. 62 (= vol. 2 [1960], p. 42—43) [Κατ’ Ἀριστονίκου vel Καθ’ Ἁγνωνίδου?] [ ... ]ἀδυνατ . [ .. ] . [ [ ... ] καταισχῦναι τὴν [ δ ι ]καί [α ]ν κρίσιν μη[ δ ὲ ] τὴν τοῦ δήμου κα[ τα χ ]ειροτονίαν , ἣν κα[ ταχ ε ]ιροτονήσας αὐ[ τοῦ πα ρ ]έδωκεν ὑμῖ ν · [ ὥστ ε ] δεῖξαι πᾶσιν [ ὅτι π ]ολὺν χρόνον δ [ι ][α ]πεφευγότες ὄντε [ς ] [π ]ονηρο ί , καὶ διαφ [ ε ύ ][ ξ ε ]σθαι νομίζοντ [ ε ς] Pollux 8, 24 Δείναρχος 〈καὶ〉 ἀδίκημα καὶ ἀδικί α.
 
 ### 6
 

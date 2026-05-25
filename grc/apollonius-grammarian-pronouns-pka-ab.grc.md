@@ -4,7 +4,7 @@ title_greek: Περὶ ἀντωνυμίας
 author: "Apollonius Grammarian "
 eul_wid: pka-ab
 eul_aid: pka
-canonical: "https://eulogikon.org/grc/apollonius-grammarian/pronouns"
+canonical: "https://eulogikon.org/works/apollonius-grammarian-pronouns-pka-ab"
 period: Roman
 dialect: Atticizing Technical
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Apollonius Grammarian 
 
-**eul_wid:** `pka-ab` · [HTML page](https://eulogikon.org/grc/apollonius-grammarian/pronouns)
+**eul_wid:** `pka-ab` · [HTML page](https://eulogikon.org/works/apollonius-grammarian-pronouns-pka-ab)
 
 ## Text
 

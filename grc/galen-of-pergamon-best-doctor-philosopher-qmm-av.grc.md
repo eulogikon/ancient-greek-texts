@@ -4,7 +4,7 @@ title_greek: Ὅτι ὁ ἄριστος ἰατρὸς καὶ φιλόσοφο
 author: Galen of Pergamon
 eul_wid: qmm-av
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/best-doctor-philosopher"
+canonical: "https://eulogikon.org/works/galen-pergamon-best-doctor-philosopher-qmm-av"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-av` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/best-doctor-philosopher)
+**eul_wid:** `qmm-av` · [HTML page](https://eulogikon.org/works/galen-pergamon-best-doctor-philosopher-qmm-av)
 
 ## Text
 

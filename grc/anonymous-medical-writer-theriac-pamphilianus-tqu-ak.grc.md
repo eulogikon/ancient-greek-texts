@@ -4,7 +4,7 @@ title_greek: Περὶ Θηριακῆς πρὸς Παμφιλιανόν
 author: Medical Writer  Anonymous
 eul_wid: tqu-ak
 eul_aid: tqu
-canonical: "https://eulogikon.org/grc/anonymous-medical-writer/theriac-pamphilianus"
+canonical: "https://eulogikon.org/works/med-writer-anon-theriac-pamphilianus-tqu-ak"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Medical Writer  Anonymous
 
-**eul_wid:** `tqu-ak` · [HTML page](https://eulogikon.org/grc/anonymous-medical-writer/theriac-pamphilianus)
+**eul_wid:** `tqu-ak` · [HTML page](https://eulogikon.org/works/med-writer-anon-theriac-pamphilianus-tqu-ak)
 
 ## Text
 

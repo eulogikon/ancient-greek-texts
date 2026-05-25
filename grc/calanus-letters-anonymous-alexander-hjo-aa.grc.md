@@ -4,7 +4,7 @@ title_greek: Ἐπιστολή
 author: Letters of Calanus Anonymous
 eul_wid: hjo-aa
 eul_aid: hjo
-canonical: "https://eulogikon.org/grc/calanus-letters-anonymous/alexander"
+canonical: "https://eulogikon.org/works/calanus-letters-alexander-hjo-aa"
 period: Late Antique
 dialect: Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Letters of Calanus Anonymous
 
-**eul_wid:** `hjo-aa` · [HTML page](https://eulogikon.org/grc/calanus-letters-anonymous/alexander)
+**eul_wid:** `hjo-aa` · [HTML page](https://eulogikon.org/works/calanus-letters-alexander-hjo-aa)
 
 ## Text
 

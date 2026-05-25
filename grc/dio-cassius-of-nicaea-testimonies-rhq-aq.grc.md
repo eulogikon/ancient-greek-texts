@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Dio Cassius of Nicaea
 eul_wid: rhq-aq
 eul_aid: rhq
-canonical: "https://eulogikon.org/grc/dio-cassius-of-nicaea/testimonies"
+canonical: "https://eulogikon.org/works/dio-cassius-nicaea-testimonies-rhq-aq"
 period: Roman
 dialect: Atticizing
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dio Cassius of Nicaea
 
-**eul_wid:** `rhq-aq` · [HTML page](https://eulogikon.org/grc/dio-cassius-of-nicaea/testimonies)
+**eul_wid:** `rhq-aq` · [HTML page](https://eulogikon.org/works/dio-cassius-nicaea-testimonies-rhq-aq)
 
 ## Text
 

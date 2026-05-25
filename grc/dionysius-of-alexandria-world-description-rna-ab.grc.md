@@ -4,7 +4,7 @@ title_greek: Περιγραφὴ τοῦ Κόσμου
 author: "Dionysius of Alexandria "
 eul_wid: rna-ab
 eul_aid: rna
-canonical: "https://eulogikon.org/grc/dionysius-of-alexandria/world-description"
+canonical: "https://eulogikon.org/works/dionysius-alexandria-world-description-rna-ab"
 period: Roman
 dialect: Christian Koine
 domain: Geography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dionysius of Alexandria 
 
-**eul_wid:** `rna-ab` · [HTML page](https://eulogikon.org/grc/dionysius-of-alexandria/world-description)
+**eul_wid:** `rna-ab` · [HTML page](https://eulogikon.org/works/dionysius-alexandria-world-description-rna-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Καρίας
 author: Apollonius of Aphrodisias
 eul_wid: kdw-aa
 eul_aid: kdw
-canonical: "https://eulogikon.org/grc/apollonius-of-aphrodisias/geographical-caria"
+canonical: "https://eulogikon.org/works/apollonius-aphrodisias-geographical-caria-kdw-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Apollonius of Aphrodisias
 
-**eul_wid:** `kdw-aa` · [HTML page](https://eulogikon.org/grc/apollonius-of-aphrodisias/geographical-caria)
+**eul_wid:** `kdw-aa` · [HTML page](https://eulogikon.org/works/apollonius-aphrodisias-geographical-caria-kdw-aa)
 
 ## Text
 

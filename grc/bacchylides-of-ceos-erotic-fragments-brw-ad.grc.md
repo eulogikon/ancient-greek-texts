@@ -4,7 +4,7 @@ title_greek: Ἐρωτικὰ Ἀποσπάσματα
 author: Bacchylides of Ceos
 eul_wid: brw-ad
 eul_aid: brw
-canonical: "https://eulogikon.org/grc/bacchylides-of-ceos/erotic-fragments"
+canonical: "https://eulogikon.org/works/bacchylides-ceos-erotic-fragments-brw-ad"
 period: Classical
 dialect: Doric
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Bacchylides of Ceos
 
-**eul_wid:** `brw-ad` · [HTML page](https://eulogikon.org/grc/bacchylides-of-ceos/erotic-fragments)
+**eul_wid:** `brw-ad` · [HTML page](https://eulogikon.org/works/bacchylides-ceos-erotic-fragments-brw-ad)
 
 ## Text
 
@@ -40,19 +40,19 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 3.1
 
-[⸤Σὺ δὲ⸥ σ]ὺν
+[Σὺ δὲ σ]ὺν
 
 ### book 3.2
 
-χιτῶνι μούνῳ ⸤παρὰ τ⸥ὴν φίλην γυναῖκα
+χιτῶνι μούνῳ παρὰ τὴν φίλην γυναῖκα
 
 ### book 3.3
 
-φεύγ⸤ε⸥ις. [ ].μάχαις [][ln_5][ ]ο..[.].[ ]ς [.....]απ̣ατ[η]ς καὶ ψίθυ[ρος] [....ἐπ]ίορκος. [⸤Σὺ δὲ⸥ σὺ]ν
+φεύγεις. [ ].μάχαις [][ln_5][ ]ο..[.].[ ]ς [.....]απατ[η]ς καὶ ψίθυ[ρος] [....ἐπ]ίορκος. [Σὺ δὲ σὺ]ν
 
 ### book 3.4
 
-χιτῶνι μούν⸤ῳ⸥ ⸤παρὰ τ⸥ὴν φίλην γυ⸤ναῖκ⸥α
+χιτῶνι μούνῳ παρὰ τὴν φίλην γυναῖκα
 
 ### book 3.5
 

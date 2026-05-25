@@ -4,7 +4,7 @@ title_greek: Βελοποιικά
 author: "Hero of Alexandria "
 eul_wid: odi-ad
 eul_aid: odi
-canonical: "https://eulogikon.org/grc/hero-of-alexandria/war-machines"
+canonical: "https://eulogikon.org/works/hero-alexandria-war-machines-odi-ad"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hero of Alexandria 
 
-**eul_wid:** `odi-ad` · [HTML page](https://eulogikon.org/grc/hero-of-alexandria/war-machines)
+**eul_wid:** `odi-ad` · [HTML page](https://eulogikon.org/works/hero-alexandria-war-machines-odi-ad)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Προμηθεὺς Δεσμώτης
 author: Aeschylus the Tragedian
 eul_wid: emo-ac
 eul_aid: emo
-canonical: "https://eulogikon.org/grc/aeschylus/prometheus-bound"
+canonical: "https://eulogikon.org/works/aeschylus-prometheus-bound-emo-ac"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aeschylus the Tragedian
 
-**eul_wid:** `emo-ac` · [HTML page](https://eulogikon.org/grc/aeschylus/prometheus-bound)
+**eul_wid:** `emo-ac` · [HTML page](https://eulogikon.org/works/aeschylus-prometheus-bound-emo-ac)
 
 ## Text
 
@@ -1412,7 +1412,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### unit_107.1
 
-† πάντων μετασχὼν καὶ τετολμηκὼς ἐμοί. †
+πάντων μετασχὼν καὶ τετολμηκὼς ἐμοί.
 
 ### unit_107.2
 
@@ -1504,7 +1504,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### unit_111.5
 
-† Τυφῶνα θοῦρον. ὃς πᾶσιν ἀντέστη θεοῖς,
+Τυφῶνα θοῦρον. ὃς πᾶσιν ἀντέστη θεοῖς,
 
 ### 355.1
 
@@ -1728,7 +1728,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### unit_128.3
 
-οπρεπῆ –⏑⏑– στένουσι τὰν σὰν
+οπρεπῆ –– στένουσι τὰν σὰν
 
 ### 410.1
 
@@ -1792,7 +1792,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 425.1
 
-† μόνον δὴ πρόσθεν ἄλλον ἐν πόνοις
+μόνον δὴ πρόσθεν ἄλλον ἐν πόνοις
 
 ### 425.2
 
@@ -1812,7 +1812,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 430
 
-νώτοις ὑποστενάζει. †
+νώτοις ὑποστενάζει.
 
 ### 430.1
 
@@ -2248,7 +2248,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 540.2
 
-μυρίοις μόχθοις διακναιόμενον ––⏑–.
+μυρίοις μόχθοις διακναιόμενον –––.
 
 ### 540.3
 
@@ -2356,7 +2356,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 566.2
 
-εἴδωλον Ἄργου γηγενοῦς· † ἄλευ’, ἆ δᾶ· φοβοῦμαι,
+εἴδωλον Ἄργου γηγενοῦς· ἄλευ’, ἆ δᾶ· φοβοῦμαι,
 
 ### 566.3
 
@@ -2816,7 +2816,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 680.1
 
-ἀπροσδόκητος δ’ αὐτὸν † αἰφνίδιος μόρος
+ἀπροσδόκητος δ’ αὐτὸν αἰφνίδιος μόρος
 
 ### 680.2
 

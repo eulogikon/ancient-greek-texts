@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Creophylus of Ephesus
 eul_wid: hbc-aa
 eul_aid: hbc
-canonical: "https://eulogikon.org/grc/creophylus-of-ephesus/foundation-of-ephesus"
+canonical: "https://eulogikon.org/works/creophylus-ephesus-foundation-of-ephesus-hbc-aa"
 period: Classical
 dialect: Ionic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Creophylus of Ephesus
 
-**eul_wid:** `hbc-aa` · [HTML page](https://eulogikon.org/grc/creophylus-of-ephesus/foundation-of-ephesus)
+**eul_wid:** `hbc-aa` · [HTML page](https://eulogikon.org/works/creophylus-ephesus-foundation-of-ephesus-hbc-aa)
 
 ## Text
 

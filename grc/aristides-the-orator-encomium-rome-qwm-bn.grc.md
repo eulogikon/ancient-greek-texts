@@ -4,7 +4,7 @@ title_greek: Ῥώμης ἐγκώμιον
 author: Aristides the Orator
 eul_wid: qwm-bn
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/encomium-rome"
+canonical: "https://eulogikon.org/works/aristides-orator-encomium-rome-qwm-bn"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-bn` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/encomium-rome)
+**eul_wid:** `qwm-bn` · [HTML page](https://eulogikon.org/works/aristides-orator-encomium-rome-qwm-bn)
 
 ## Text
 

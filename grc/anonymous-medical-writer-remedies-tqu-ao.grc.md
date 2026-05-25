@@ -4,7 +4,7 @@ title_greek: Περὶ Παρασκευαστῶν Θεραπευμάτων
 author: Medical Writer  Anonymous
 eul_wid: tqu-ao
 eul_aid: tqu
-canonical: "https://eulogikon.org/grc/anonymous-medical-writer/remedies"
+canonical: "https://eulogikon.org/works/med-writer-anon-remedies-tqu-ao"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Medical Writer  Anonymous
 
-**eul_wid:** `tqu-ao` · [HTML page](https://eulogikon.org/grc/anonymous-medical-writer/remedies)
+**eul_wid:** `tqu-ao` · [HTML page](https://eulogikon.org/works/med-writer-anon-remedies-tqu-ao)
 
 ## Text
 

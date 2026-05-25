@@ -4,7 +4,7 @@ title_greek: Περὶ κινήσεως μυῶν
 author: Galen of Pergamon
 eul_wid: qmm-cn
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/movement-muscles"
+canonical: "https://eulogikon.org/works/galen-pergamon-movement-muscles-qmm-cn"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-cn` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/movement-muscles)
+**eul_wid:** `qmm-cn` · [HTML page](https://eulogikon.org/works/galen-pergamon-movement-muscles-qmm-cn)
 
 ## Text
 

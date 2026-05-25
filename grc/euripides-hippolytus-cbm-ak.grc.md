@@ -4,7 +4,7 @@ title_greek: Ἱππόλυτος
 author: Euripides
 eul_wid: cbm-ak
 eul_aid: cbm
-canonical: "https://eulogikon.org/grc/euripides/hippolytus"
+canonical: "https://eulogikon.org/works/euripides-hippolytus-cbm-ak"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euripides
 
-**eul_wid:** `cbm-ak` · [HTML page](https://eulogikon.org/grc/euripides/hippolytus)
+**eul_wid:** `cbm-ak` · [HTML page](https://eulogikon.org/works/euripides-hippolytus-cbm-ak)
 
 ## Text
 
@@ -556,7 +556,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 140.2
 
-†σὺ γὰρ† ἔνθεος, ὦ κούρα,
+σὺ γὰρ ἔνθεος, ὦ κούρα,
 
 ### 140.3
 
@@ -572,7 +572,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 145.1
 
-†σὺ δ’† ἀμφὶ τὰν πολύθη‐
+σὺ δ’ ἀμφὶ τὰν πολύθη‐
 
 ### 145.2
 
@@ -2448,7 +2448,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 645.5
 
-νῦν δ’ †αἱ μὲν ἔνδον δρῶσιν αἱ κακαὶ† κακὰ βουλεύματ’, ἔξω δ’ ἐκφέρουσι πρόσπολοι.
+νῦν δ’ αἱ μὲν ἔνδον δρῶσιν αἱ κακαὶ κακὰ βουλεύματ’, ἔξω δ’ ἐκφέρουσι πρόσπολοι.
 
 ### 645.6
 
@@ -2696,7 +2696,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 715.1
 
-Φα. καλῶς ἐλέξαθ’· ἓν δὲ †προτρέπους’ ἐγὼ†
+Φα. καλῶς ἐλέξαθ’· ἓν δὲ προτρέπους’ ἐγὼ
 
 ### 715.2
 
@@ -2984,7 +2984,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 790.2
 
-†ἠχὼ βαρεῖα προσπόλων† ἀφίκετο;
+ἠχὼ βαρεῖα προσπόλων ἀφίκετο;
 
 ### 790.3
 
@@ -3168,7 +3168,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 840.1
 
-†τίνος κλύω† πόθεν θανάσιμος τύχα,
+τίνος κλύω πόθεν θανάσιμος τύχα,
 
 ### 840.2
 
@@ -3272,11 +3272,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 865.3
 
-ἐπεισφρεῖ θεὸς κακόν· †ἐμοὶ [μὲν οὖν ἀβίοτος βίου]
+ἐπεισφρεῖ θεὸς κακόν· ἐμοὶ [μὲν οὖν ἀβίοτος βίου]
 
 ### 865.4
 
-τύχα πρὸς τὸ κρανθὲν εἴη τυχεῖν·†
+τύχα πρὸς τὸ κρανθὲν εἴη τυχεῖν·
 
 ### 865.5
 
@@ -3832,7 +3832,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1010.4
 
-†ἥκιστά γ’, εἰ μὴ† τὰς φρένας διέφθορεν
+ἥκιστά γ’, εἰ μὴ τὰς φρένας διέφθορεν
 
 ### 1015.1
 
@@ -5192,11 +5192,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1370.5
 
-†προσαπόλλυτέ μ’ ὄλλυτε τὸν δυσδαί‐
+προσαπόλλυτέ μ’ ὄλλυτε τὸν δυσδαί‐
 
 ### 1375.1
 
-μονα·† ἀμφιτόμου λόγχας ἔραμαι,
+μονα· ἀμφιτόμου λόγχας ἔραμαι,
 
 ### 1375.2
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τῆς Ἰουλιανοῦ Στ
 author: Eutychianus the Historian
 eul_wid: smu-aa
 eul_aid: smu
-canonical: "https://eulogikon.org/grc/eutychianus-the-historian/julian-campaign"
+canonical: "https://eulogikon.org/works/eutychianus-julian-campaign-smu-aa"
 period: Late Antique
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Eutychianus the Historian
 
-**eul_wid:** `smu-aa` · [HTML page](https://eulogikon.org/grc/eutychianus-the-historian/julian-campaign)
+**eul_wid:** `smu-aa` · [HTML page](https://eulogikon.org/works/eutychianus-julian-campaign-smu-aa)
 
 ## Text
 

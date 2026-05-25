@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Antisthenes of Athens I
 eul_wid: frs-aa
 eul_aid: frs
-canonical: "https://eulogikon.org/grc/antisthenes-of-athens-i/testimonies"
+canonical: "https://eulogikon.org/works/antisthenes-athens-testimonies-frs-aa"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Antisthenes of Athens I
 
-**eul_wid:** `frs-aa` · [HTML page](https://eulogikon.org/grc/antisthenes-of-athens-i/testimonies)
+**eul_wid:** `frs-aa` · [HTML page](https://eulogikon.org/works/antisthenes-athens-testimonies-frs-aa)
 
 ## Text
 

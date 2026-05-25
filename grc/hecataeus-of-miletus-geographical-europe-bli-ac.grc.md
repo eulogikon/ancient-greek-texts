@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τῆς Εὐρώπης
 author: Hecataeus of Miletus the Historian
 eul_wid: bli-ac
 eul_aid: bli
-canonical: "https://eulogikon.org/grc/hecataeus-of-miletus/geographical-europe"
+canonical: "https://eulogikon.org/works/hecataeus-miletus-geographical-europe-bli-ac"
 period: Archaic
 dialect: Ionic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hecataeus of Miletus the Historian
 
-**eul_wid:** `bli-ac` · [HTML page](https://eulogikon.org/grc/hecataeus-of-miletus/geographical-europe)
+**eul_wid:** `bli-ac` · [HTML page](https://eulogikon.org/works/hecataeus-miletus-geographical-europe-bli-ac)
 
 ## Text
 

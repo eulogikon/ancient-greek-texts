@@ -4,7 +4,7 @@ title_greek: Ὀρέστης
 author: Euripides
 eul_wid: cbm-ay
 eul_aid: cbm
-canonical: "https://eulogikon.org/grc/euripides/orestes"
+canonical: "https://eulogikon.org/works/euripides-orestes-cbm-ay"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euripides
 
-**eul_wid:** `cbm-ay` · [HTML page](https://eulogikon.org/grc/euripides/orestes)
+**eul_wid:** `cbm-ay` · [HTML page](https://eulogikon.org/works/euripides-orestes-cbm-ay)
 
 ## Text
 
@@ -152,11 +152,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 30.4
 
-ἐντεῦθεν ἀγρίαι συντακεὶς †νόσωι νοσεῖ
+ἐντεῦθεν ἀγρίαι συντακεὶς νόσωι νοσεῖ
 
 ### 35.1
 
-τλήμων Ὀρέστης ὅδε πεσὼν ἐν δεμνίοις†
+τλήμων Ὀρέστης ὅδε πεσὼν ἐν δεμνίοις
 
 ### 35.2
 
@@ -768,7 +768,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 205.2
 
-ἄγαμος †ἐπὶ δ’ ἄτεκνος ἅτε βίοτον† ἁ
+ἄγαμος ἐπὶ δ’ ἄτεκνος ἅτε βίοτον ἁ
 
 ### 205.3
 
@@ -932,7 +932,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 245.4
 
-εἰ δ’ ἄλοχον ἄγεται, κακὸν ἔχων ἥκει μέγα. Ηλ. ἐπίσημον ἔτεκε Τυνδάρεως †εἰς τὸν ψόγον† γένος θυγατέρων δυσκλεές τ’ ἀν’ Ἑλλάδα.
+εἰ δ’ ἄλοχον ἄγεται, κακὸν ἔχων ἥκει μέγα. Ηλ. ἐπίσημον ἔτεκε Τυνδάρεως εἰς τὸν ψόγον γένος θυγατέρων δυσκλεές τ’ ἀν’ Ἑλλάδα.
 
 ### 245.5
 
@@ -1080,7 +1080,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 285.2
 
-ὅστις μ’ ἐπάρας †ἔργον ἀνοσιώτατον†
+ὅστις μ’ ἐπάρας ἔργον ἀνοσιώτατον
 
 ### 285.3
 
@@ -1592,7 +1592,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 420.5
 
-Ορ. †οὐ σοφός, ἀληθὴς δ’ ἐς φίλους ἔφυς κακός.†
+Ορ. οὐ σοφός, ἀληθὴς δ’ ἐς φίλους ἔφυς κακός.
 
 ### 425.1
 
@@ -1636,7 +1636,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 435.1
 
-Με. τίς δ’ ἄλλος; ἦ που †τῶν ἀπ’† Αἰγίσθου φίλων;
+Με. τίς δ’ ἄλλος; ἦ που τῶν ἀπ’ Αἰγίσθου φίλων;
 
 ### 435.2
 
@@ -1848,7 +1848,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 490.2
 
-Τυ. †πρὸς τόνδ’ ἀγών τις σοφίας ἥκει πέρι.†
+Τυ. πρὸς τόνδ’ ἀγών τις σοφίας ἥκει πέρι.
 
 ### 490.3
 
@@ -2612,7 +2612,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 690.4
 
-[σμικροῖσι †μὲν γὰρ τὰ† μεγάλα πῶς ἕλοι τις ἂν
+[σμικροῖσι μὲν γὰρ τὰ μεγάλα πῶς ἕλοι τις ἂν
 
 ### 695.1
 
@@ -3036,7 +3036,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 795.7
 
-οὐδὲν αἰσχυνθεὶς ὀχήσω. ποῦ γὰρ ὢν δείξω φίλος, εἴ †σε μὴ ’ν δειναῖσιν ὄντα† συμφοραῖς ἐπαρκέσω;
+οὐδὲν αἰσχυνθεὶς ὀχήσω. ποῦ γὰρ ὢν δείξω φίλος, εἴ σε μὴ ’ν δειναῖσιν ὄντα συμφοραῖς ἐπαρκέσω;
 
 ### 795.8
 
@@ -3076,7 +3076,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 810.4
 
-νὸς †ἤλυθε† Τανταλίδαις
+νὸς ἤλυθε Τανταλίδαις
 
 ### 810.5
 
@@ -3640,7 +3640,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 960.5
 
-νερτέρων †Περσέφασσα καλλίπαις θεά†.
+νερτέρων Περσέφασσα καλλίπαις θεά.
 
 ### 965
 
@@ -3804,7 +3804,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 999b.1
 
-τε γένετο τέρας †ὀλοὸν Ἀτρέως ἱπποβότα†·
+τε γένετο τέρας ὀλοὸν Ἀτρέως ἱπποβότα·
 
 ### 999b.2
 
@@ -3820,11 +3820,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1004a
 
-οὐρανοῦ †προσαρμόσας
+οὐρανοῦ προσαρμόσας
 
 ### 1004b
 
-μονόπωλον ἐς Ἀῶ†,
+μονόπωλον ἐς Ἀῶ,
 
 ### 1005.1
 
@@ -3836,7 +3836,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1005.3
 
-†τῶιδέ τ’ ἀμείβει† θανάτους θανά‐
+τῶιδέ τ’ ἀμείβει θανάτους θανά‐
 
 ### 1005.4
 
@@ -3876,7 +3876,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1015.2
 
-†ἰθύνων νοσερὸν κῶλον Ὀρέστου†,
+ἰθύνων νοσερὸν κῶλον Ὀρέστου,
 
 ### 1015.3
 
@@ -3988,7 +3988,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1045.2
 
-†τῆς σῆς ἀδελφῆς ὄνομα† καὶ ψυχὴν μίαν.
+τῆς σῆς ἀδελφῆς ὄνομα καὶ ψυχὴν μίαν.
 
 ### 1045.3
 
@@ -4212,7 +4212,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1105.2
 
-Ορ. πῶς; †τὸ γὰρ ἕτοιμόν ἐστιν, εἴ γ’ ἔσται καλῶς†.
+Ορ. πῶς; τὸ γὰρ ἕτοιμόν ἐστιν, εἴ γ’ ἔσται καλῶς.
 
 ### 1105.3
 
@@ -4824,7 +4824,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1268-1269
 
-Χο. ὅδε τις ἐν τρίβωι †προσέρχεται†· τίς ὅδ’ ἄρ’ ἀμ‐
+Χο. ὅδε τις ἐν τρίβωι προσέρχεται· τίς ὅδ’ ἄρ’ ἀμ‐
 
 ### 1270.1
 
@@ -5268,11 +5268,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1385.1
 
-βαρβάρωι βοᾶι †διὰ τὸ τᾶς ὀρνιθόγονον
+βαρβάρωι βοᾶι διὰ τὸ τᾶς ὀρνιθόγονον
 
 ### 1385.2
 
-ὄμμα κυκνόπτερον καλλοσύνας† Λήδας
+ὄμμα κυκνόπτερον καλλοσύνας Λήδας
 
 ### 1385.3
 
@@ -5536,11 +5536,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1446b
 
-†ἰὼν κακὸς Φωκεύς†·
+ἰὼν κακὸς Φωκεύς·
 
 ### 1447
 
-Οὐκ ἐκποδὼν ἴτ’; †ἀλλ’ ἀεὶ† κακοὶ Φρύγες.
+Οὐκ ἐκποδὼν ἴτ’; ἀλλ’ ἀεὶ κακοὶ Φρύγες.
 
 ### 1448a
 
@@ -5632,7 +5632,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1465.2
 
-λευκὸν δ’ ἐμβαλοῦσα πῆχυν στέρνοις †κτύπησε κρᾶτα† μέλεον πλαγάν,
+λευκὸν δ’ ἐμβαλοῦσα πῆχυν στέρνοις κτύπησε κρᾶτα μέλεον πλαγάν,
 
 ### 1465.3
 
@@ -5712,7 +5712,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1481.4
 
-†ἐγένοντο Φρύγες ὅσον Ἄρεος ἀλκὰν†
+ἐγένοντο Φρύγες ὅσον Ἄρεος ἀλκὰν
 
 ### 1485.1
 
@@ -5756,7 +5756,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1493a
 
-†δραμόντε βάκχαι σκύμνον ἐν χεροῖν†
+δραμόντε βάκχαι σκύμνον ἐν χεροῖν
 
 ### 1493b
 

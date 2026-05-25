@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Γενεαλογιῶν Ἡρώω
 author: Choerilus of Athens
 eul_wid: epg-aa
 eul_aid: epg
-canonical: "https://eulogikon.org/grc/choerilus-of-athens/genealogical-heroes"
+canonical: "https://eulogikon.org/works/choerilus-athens-genealogical-heroes-epg-aa"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Choerilus of Athens
 
-**eul_wid:** `epg-aa` · [HTML page](https://eulogikon.org/grc/choerilus-of-athens/genealogical-heroes)
+**eul_wid:** `epg-aa` · [HTML page](https://eulogikon.org/works/choerilus-athens-genealogical-heroes-epg-aa)
 
 ## Text
 

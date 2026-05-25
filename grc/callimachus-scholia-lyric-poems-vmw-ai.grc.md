@@ -4,7 +4,7 @@ title_greek: Σχόλια εἰς Λυρικὰ Ποιήματα
 author: Callimachus Scholia
 eul_wid: vmw-ai
 eul_aid: vmw
-canonical: "https://eulogikon.org/grc/callimachus-scholia/lyric-poems"
+canonical: "https://eulogikon.org/works/callimachus-scholia-lyric-poems-vmw-ai"
 period: Late Antique
 dialect: Koine
 domain: Grammar
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Callimachus Scholia
 
-**eul_wid:** `vmw-ai` · [HTML page](https://eulogikon.org/grc/callimachus-scholia/lyric-poems)
+**eul_wid:** `vmw-ai` · [HTML page](https://eulogikon.org/works/callimachus-scholia-lyric-poems-vmw-ai)
 
 ## Text
 
 ### book 1
 
-in marg. sup. []φοισ̣[] in marg. dext. τὸ μ(ὲν) μέτρ(ον) Ἀρχεβούλ(ειον) λογαοιδ̣(ικὸν) καλ(εῖται)· | πεντάμετρον· ἡ α´ ἐπιδέχετ(αι) ἀνάπαιστ(ον) | σπονδεῖ(ον) ἴαμβ(ον), αἱ ἑξῆς ἀναπαίστ(ους), | ἡ ἐσχάτ(η) βακχεῖον κ(αὶ) ἀμφίβραχυν, | ἐπεὶ ἀδιάφορ(ος)[ln_5]ἡ τελευτ(αία) συλλαβή.
+in marg. sup. []φοισ[] in marg. dext. τὸ μ(ὲν) μέτρ(ον) Ἀρχεβούλ(ειον) λογαοιδ(ικὸν) καλ(εῖται)· | πεντάμετρον· ἡ α´ ἐπιδέχετ(αι) ἀνάπαιστ(ον) | σπονδεῖ(ον) ἴαμβ(ον), αἱ ἑξῆς ἀναπαίστ(ους), | ἡ ἐσχάτ(η) βακχεῖον κ(αὶ) ἀμφίβραχυν, | ἐπεὶ ἀδιάφορ(ος)[ln_5]ἡ τελευτ(αία) συλλαβή.
 
 ### book 4.1
 
@@ -56,11 +56,11 @@ in marg. sup. []φοισ̣[] in marg. dext. τὸ μ(ὲν) μέτρ(ον) Ἀρ
 
 ### book 11
 
-ἡ δὲ ἐσπαρμένη κ(αὶ) σ̣[]
+ἡ δὲ ἐσπαρμένη κ(αὶ) σ[]
 
 ### book 12
 
-ἀν(τὶ τοῦ) τὰ κακ(ά)—γ̣[]
+ἀν(τὶ τοῦ) τὰ κακ(ά)—γ[]
 
 ### book 13
 
@@ -80,11 +80,11 @@ in marg. sup. []φοισ̣[] in marg. dext. τὸ μ(ὲν) μέτρ(ον) Ἀρ
 
 ### book 21
 
-τοῦτ(ο) π̣ε̣λειπτ[]
+τοῦτ(ο) πελειπτ[]
 
 ### book 22
 
-οὐ κατῄσχυνε δ̣[]
+οὐ κατῄσχυνε δ[]
 
 ### book 23
 
@@ -92,7 +92,7 @@ in marg. sup. []φοισ̣[] in marg. dext. τὸ μ(ὲν) μέτρ(ον) Ἀρ
 
 ### book 24
 
-κλισίαν (εἶναι) τ(ῆς) καθ̣[]
+κλισίαν (εἶναι) τ(ῆς) καθ[]
 
 ### book 26
 
@@ -104,7 +104,7 @@ in marg. sup. []φοισ̣[] in marg. dext. τὸ μ(ὲν) μέτρ(ον) Ἀρ
 
 ### book 29
 
-ν̣[]
+ν[]
 
 ### book 32
 
@@ -116,7 +116,7 @@ in marg. sup. []φοισ̣[] in marg. dext. τὸ μ(ὲν) μέτρ(ον) Ἀρ
 
 ### book 35
 
-εἴ̣γε̣ πάντ̣α καθαίρ[ει]
+εἴγε πάντα καθαίρ[ει]
 
 ### book 37
 
@@ -124,11 +124,11 @@ in marg. sup. []φοισ̣[] in marg. dext. τὸ μ(ὲν) μέτρ(ον) Ἀρ
 
 ### book 38
 
-τὸν βωμ(ὸν) λέγου[σι] in marg. inferiore [ὑ]πὸ τῶν Διοσκ[ούρων ἡρ]πάσθαι· ἐγένοντ(ο) δ.[]|[]. ὁ δ(ὲ) Πτολεμαῖο[ς κ(αὶ) θυγατ(έ)[ρ(ες) ἡ μ(ὲν) ἐξ Εὐρυδίκη[ς] | τῷ Φιλα‐[ln_5]δέλ[φῳ .....]θαι· τῆς̣ τετάρτησ̣[]
+τὸν βωμ(ὸν) λέγου[σι] in marg. inferiore [ὑ]πὸ τῶν Διοσκ[ούρων ἡρ]πάσθαι· ἐγένοντ(ο) δ.[]|[]. ὁ δ(ὲ) Πτολεμαῖο[ς κ(αὶ) θυγατ(έ)[ρ(ες) ἡ μ(ὲν) ἐξ Εὐρυδίκη[ς] | τῷ Φιλα‐[ln_5]δέλ[φῳ .....]θαι· τῆς τετάρτησ[]
 
 ### book 43
 
-πολ(ις) [το]υ̣ τ̣ριοπο̣υ
+πολ(ις) [το]υ τριοπου
 
 ### book 45
 

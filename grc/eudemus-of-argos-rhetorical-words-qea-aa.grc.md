@@ -4,7 +4,7 @@ title_greek: Περὶ λέξεων ῥητορικῶν
 author: Eudemus of Argos
 eul_wid: qea-aa
 eul_aid: qea
-canonical: "https://eulogikon.org/grc/eudemus-of-argos/rhetorical-words"
+canonical: "https://eulogikon.org/works/eudemus-argos-rhetorical-words-qea-aa"
 period: Roman
 dialect: Atticizing Technical
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Eudemus of Argos
 
-**eul_wid:** `qea-aa` · [HTML page](https://eulogikon.org/grc/eudemus-of-argos/rhetorical-words)
+**eul_wid:** `qea-aa` · [HTML page](https://eulogikon.org/works/eudemus-argos-rhetorical-words-qea-aa)
 
 ## Text
 

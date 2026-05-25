@@ -4,7 +4,7 @@ title_greek: Περὶ Οὖρων ἐκ Ἱπποκράτους
 author: Medical Writer  Anonymous
 eul_wid: tqu-aa
 eul_aid: tqu
-canonical: "https://eulogikon.org/grc/anonymous-medical-writer/urine-aa"
+canonical: "https://eulogikon.org/works/med-writer-anon-urine-tqu-aa"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Medical Writer  Anonymous
 
-**eul_wid:** `tqu-aa` · [HTML page](https://eulogikon.org/grc/anonymous-medical-writer/urine-aa)
+**eul_wid:** `tqu-aa` · [HTML page](https://eulogikon.org/works/med-writer-anon-urine-tqu-aa)
 
 ## Text
 

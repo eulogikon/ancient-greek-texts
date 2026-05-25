@@ -4,7 +4,7 @@ title_greek: Φοίνισσαι
 author: Euripides
 eul_wid: cbm-af
 eul_aid: cbm
-canonical: "https://eulogikon.org/grc/euripides/phoenician-women"
+canonical: "https://eulogikon.org/works/euripides-phoenician-women-cbm-af"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euripides
 
-**eul_wid:** `cbm-af` · [HTML page](https://eulogikon.org/grc/euripides/phoenician-women)
+**eul_wid:** `cbm-af` · [HTML page](https://eulogikon.org/works/euripides-phoenician-women-cbm-af)
 
 ## Text
 
@@ -108,7 +108,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 20.3
 
-ἔπειρεν ἡμῖν παῖδα, καὶ σπείρας †βρέφος†
+ἔπειρεν ἡμῖν παῖδα, καὶ σπείρας βρέφος
 
 ### 20.4
 
@@ -460,7 +460,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 110.4
 
-πολλοῖς μὲν ἵπποις, μυρίοις δ’ ὅπλοις βρέμων. Αν. ἆρα †πύλαι κλήιθροις χαλκόδετά τ’ ἔμβολα†
+πολλοῖς μὲν ἵπποις, μυρίοις δ’ ὅπλοις βρέμων. Αν. ἆρα πύλαι κλήιθροις χαλκόδετά τ’ ἔμβολα
 
 ### 115.1
 
@@ -688,19 +688,19 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 175.1
 
-Αν. ὦ λιπαροζώνου θύγατερ †Ἀελίου
+Αν. ὦ λιπαροζώνου θύγατερ Ἀελίου
 
 ### 175.2
 
-Σελαναία χρυσεόκυκλον φέγγος†,
+Σελαναία χρυσεόκυκλον φέγγος,
 
 ### 175.3
 
-ὡς ἀτρεμαῖα κέντρα †καὶ σώφρονα
+ὡς ἀτρεμαῖα κέντρα καὶ σώφρονα
 
 ### 175.4
 
-πώλοις μεταφέρων ἰθύνει†.
+πώλοις μεταφέρων ἰθύνει.
 
 ### 175.5
 
@@ -732,7 +732,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 185.2
 
-ὃς δορὶ Θηβαίας †Μυκήνηισι
+ὃς δορὶ Θηβαίας Μυκήνηισι
 
 ### 185.3
 
@@ -744,7 +744,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 185.5
 
-ὕδασι δουλείαν περιβαλών†.
+ὕδασι δουλείαν περιβαλών.
 
 ### 190.1
 
@@ -1164,7 +1164,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 295.5
 
-Ιο. †Φοίνισσαν βοὰν κλύουσα
+Ιο. Φοίνισσαν βοὰν κλύουσα
 
 ### 295.6
 
@@ -1172,7 +1172,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 295.7
 
-ἕλκω ποδὸς βάσιν.†
+ἕλκω ποδὸς βάσιν.
 
 ### 295.8
 
@@ -1392,7 +1392,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 360.2
 
-οὕτω δὲ †τάρβους† ἐς φόβον τ’ ἀφικόμην
+οὕτω δὲ τάρβους ἐς φόβον τ’ ἀφικόμην
 
 ### 360.3
 
@@ -1820,7 +1820,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 470.4
 
-ἐγὼ δὲ †πατρὸς δωμάτων† προυσκεψάμην
+ἐγὼ δὲ πατρὸς δωμάτων προυσκεψάμην
 
 ### 470.5
 
@@ -1936,7 +1936,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 495.8
 
-ἄστρων ἂν ἔλθοιμ’ †ἡλίου† πρὸς ἀντολὰς
+ἄστρων ἂν ἔλθοιμ’ ἡλίου πρὸς ἀντολὰς
 
 ### 505.1
 
@@ -2500,7 +2500,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 640.5
 
-πυροφόρα †δόμων ἔχρησε†,
+πυροφόρα δόμων ἔχρησε,
 
 ### 645.1
 
@@ -2508,15 +2508,15 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 645.2
 
-νοτὶς ἐπέρχεται †γυίας Δίρκας χλοηφόρους
+νοτὶς ἐπέρχεται γυίας Δίρκας χλοηφόρους
 
 ### 645.3
 
-καὶ βαθυσπόρους γυίας†·
+καὶ βαθυσπόρους γυίας·
 
 ### 645.4
 
-Βρόμιον ἔνθα τέκετο †μάτηρ Διὸς γάμοισι†,
+Βρόμιον ἔνθα τέκετο μάτηρ Διὸς γάμοισι,
 
 ### 645.5
 
@@ -2580,7 +2580,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 665.1
 
-ὠλένας †δικὼν† βολαῖς·
+ὠλένας δικὼν βολαῖς·
 
 ### 665.2
 
@@ -2588,7 +2588,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 665.3
 
-†Παλλάδος φραδαῖσι†
+Παλλάδος φραδαῖσι
 
 ### 665.4
 
@@ -2640,11 +2640,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 675.5
 
-†ἐκάλες’ ἐκάλεσα βαρβάρωι βοᾶι,
+ἐκάλες’ ἐκάλεσα βαρβάρωι βοᾶι,
 
 ### 680.1
 
-ἰώ, βαρβάροις λιταῖς†·
+ἰώ, βαρβάροις λιταῖς·
 
 ### 680.2
 
@@ -2712,7 +2712,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 697.1
 
-ἦ πόλλ’ †ἐπῆλθον† εἰσιδεῖν χρήιζων ς’, ἄναξ
+ἦ πόλλ’ ἐπῆλθον εἰσιδεῖν χρήιζων ς’, ἄναξ
 
 ### 697.2
 
@@ -2756,11 +2756,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 710.1
 
-Κρ. †μέλλειν πέριξ πύργοισι Καδμείων πόλιν
+Κρ. μέλλειν πέριξ πύργοισι Καδμείων πόλιν
 
 ### 710.2
 
-ὅπλοις ἑλίξειν αὐτίκ’ Ἀργείων στρατόν.†
+ὅπλοις ἑλίξειν αὐτίκ’ Ἀργείων στρατόν.
 
 ### 710.3
 
@@ -2904,7 +2904,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 745.4
 
-Ετ. ἔσται τάδ’· ἐλθὼν ἑπτάπυργον ἐς †πόλιν†
+Ετ. ἔσται τάδ’· ἐλθὼν ἑπτάπυργον ἐς πόλιν
 
 ### 745.5
 
@@ -3060,11 +3060,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 785.5
 
-ἀλλὰ σὺν ὁπλοφόροις στρατὸν Ἀργείων †ἐπιπνεύσας
+ἀλλὰ σὺν ὁπλοφόροις στρατὸν Ἀργείων ἐπιπνεύσας
 
 ### 790a
 
-αἵματι Θήβας†
+αἵματι Θήβας
 
 ### 790b
 
@@ -3072,11 +3072,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 791.1
 
-οὐδ’ ὑπὸ θυρσομανεῖ νεβρίδων μέτα †δινεύεις
+οὐδ’ ὑπὸ θυρσομανεῖ νεβρίδων μέτα δινεύεις
 
 ### 791.2
 
-ἅρμασι καὶ ψαλίων τετραβάμοσι μώνυχα πώλων†
+ἅρμασι καὶ ψαλίων τετραβάμοσι μώνυχα πώλων
 
 ### 791.3
 
@@ -3096,7 +3096,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 795.2
 
-ἀσπιδοφέρμονα †θίασον ἔνοπλον†
+ἀσπιδοφέρμονα θίασον ἔνοπλον
 
 ### 797a
 
@@ -3152,7 +3152,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 810
 
-†γένναν, ἃν† ὁ κατὰ χθονὸς Ἅιδας
+γένναν, ἃν ὁ κατὰ χθονὸς Ἅιδας
 
 ### 811a
 
@@ -3176,11 +3176,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 815.1
 
-†οὐδ’ οἱ μὴ νόμιμοι παῖδες ματρὶ λόχευμα μίασμα πατρός·
+οὐδ’ οἱ μὴ νόμιμοι παῖδες ματρὶ λόχευμα μίασμα πατρός·
 
 ### 815.2
 
-ἡ δὲ συναίμονος εἰς λέχος ἦλθεν.†
+ἡ δὲ συναίμονος εἰς λέχος ἦλθεν.
 
 ### 815.3
 
@@ -5396,7 +5396,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1395.3
 
-ὁ πρόσθε τρωθεὶς †στέρνα Πολυνείκους βίαι†
+ὁ πρόσθε τρωθεὶς στέρνα Πολυνείκους βίαι
 
 ### 1395.4
 
@@ -5516,7 +5516,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1425.5
 
-ἐν τῶιδε μήτηρ ἡ τάλαινα †προσπίτνει†
+ἐν τῶιδε μήτηρ ἡ τάλαινα προσπίτνει
 
 ### 1430.1
 
@@ -5548,7 +5548,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1435.4
 
-φύσημ’ ἀνεὶς †δύστλητον† Ἐτεοκλῆς ἄναξ
+φύσημ’ ἀνεὶς δύστλητον Ἐτεοκλῆς ἄναξ
 
 ### 1435.5
 
@@ -5776,7 +5776,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1498.1
 
-†τίνα προσωιδὸν†
+τίνα προσωιδὸν
 
 ### 1498.2
 
@@ -5788,7 +5788,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1498.4
 
-τρισσὰ φέρουσα †τάδε σώματα† σύγγονα,
+τρισσὰ φέρουσα τάδε σώματα σύγγονα,
 
 ### 1498.5
 
@@ -5832,7 +5832,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1510.5
 
-†τάλαιν’ ὡς ἐλελίζει†;
+τάλαιν’ ὡς ἐλελίζει;
 
 ### 1515.1
 
@@ -5904,7 +5904,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1530.5
 
-†δώμασιν ἀέριον σκότον† ὄμμασι
+δώμασιν ἀέριον σκότον ὄμμασι
 
 ### 1535.1
 
@@ -5968,7 +5968,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1551-1552
 
-Οι. ὤμοι ἐγὼ παθέων· πάρα γὰρ †στενάχειν τάδ’ ἀυτεῖν†.
+Οι. ὤμοι ἐγὼ παθέων· πάρα γὰρ στενάχειν τάδ’ ἀυτεῖν.
 
 ### 1553.1
 
@@ -6176,7 +6176,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1605.2
 
-ὅς μ’ οὐ διώλες’ ἀλλὰ δουλεῦσαί †τέ μοι†
+ὅς μ’ οὐ διώλες’ ἀλλὰ δουλεῦσαί τέ μοι
 
 ### 1605.3
 
@@ -6644,7 +6644,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1730.1
 
-†παρθένου κόρας†
+παρθένου κόρας
 
 ### 1730.2
 

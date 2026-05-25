@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Antiphon the Sophist of Athens
 eul_wid: brc-aa
 eul_aid: brc
-canonical: "https://eulogikon.org/grc/antiphon-the-sophist/testimonies"
+canonical: "https://eulogikon.org/works/antiphon-athens-testimonies-brc-aa"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Antiphon the Sophist of Athens
 
-**eul_wid:** `brc-aa` · [HTML page](https://eulogikon.org/grc/antiphon-the-sophist/testimonies)
+**eul_wid:** `brc-aa` · [HTML page](https://eulogikon.org/works/antiphon-athens-testimonies-brc-aa)
 
 ## Text
 

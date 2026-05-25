@@ -4,7 +4,7 @@ title_greek: Ἀττικὸν Λεξικόν
 author: Aelius Moeris the Atticist
 eul_wid: rdk-aa
 eul_aid: rdk
-canonical: "https://eulogikon.org/grc/aelius-moeris-the-atticist/attic-lexicon"
+canonical: "https://eulogikon.org/works/aelius-moeris-attic-lexicon-rdk-aa"
 period: Roman
 dialect: Atticizing Technical
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aelius Moeris the Atticist
 
-**eul_wid:** `rdk-aa` · [HTML page](https://eulogikon.org/grc/aelius-moeris-the-atticist/attic-lexicon)
+**eul_wid:** `rdk-aa` · [HTML page](https://eulogikon.org/works/aelius-moeris-attic-lexicon-rdk-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἡδονῆς καὶ Φιλοσ
 author: Bato the Comic Poet
 eul_wid: ivg-aa
 eul_aid: ivg
-canonical: "https://eulogikon.org/grc/bato-the-comic-poet/hedonism-philosophy"
+canonical: "https://eulogikon.org/works/bato-hedonism-philosophy-ivg-aa"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Bato the Comic Poet
 
-**eul_wid:** `ivg-aa` · [HTML page](https://eulogikon.org/grc/bato-the-comic-poet/hedonism-philosophy)
+**eul_wid:** `ivg-aa` · [HTML page](https://eulogikon.org/works/bato-hedonism-philosophy-ivg-aa)
 
 ## Text
 

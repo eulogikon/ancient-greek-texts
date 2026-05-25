@@ -4,7 +4,7 @@ title_greek: Ὀνόματα Ἐποχῶν Ἀποσπάσματα
 author: Aristophanes of Byzantium
 eul_wid: klo-ag
 eul_aid: klo
-canonical: "https://eulogikon.org/grc/aristophanes-of-byzantium/ages-fragments"
+canonical: "https://eulogikon.org/works/aristophanes-byzantium-ages-fragments-klo-ag"
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristophanes of Byzantium
 
-**eul_wid:** `klo-ag` · [HTML page](https://eulogikon.org/grc/aristophanes-of-byzantium/ages-fragments)
+**eul_wid:** `klo-ag` · [HTML page](https://eulogikon.org/works/aristophanes-byzantium-ages-fragments-klo-ag)
 
 ## Text
 

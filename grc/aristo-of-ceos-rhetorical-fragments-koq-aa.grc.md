@@ -4,7 +4,7 @@ title_greek: Ῥητορικὰ Ἀποσπάσματα
 author: Aristo of Ceos
 eul_wid: koq-aa
 eul_aid: koq
-canonical: "https://eulogikon.org/grc/aristo-of-ceos/rhetorical-fragments"
+canonical: "https://eulogikon.org/works/aristo-ceos-rhetorical-fragments-koq-aa"
 period: Hellenistic
 dialect: "Attic (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristo of Ceos
 
-**eul_wid:** `koq-aa` · [HTML page](https://eulogikon.org/grc/aristo-of-ceos/rhetorical-fragments)
+**eul_wid:** `koq-aa` · [HTML page](https://eulogikon.org/works/aristo-ceos-rhetorical-fragments-koq-aa)
 
 ## Text
 
@@ -32,7 +32,7 @@ Sudhaus I 328 fr. XII, cf. A. Mayer, Philologus Suppl. XI (1908) 522. 597. .....
 
 ### 4
 
-LXXI, cf. A. Mayer, Philologus Suppl. XI (1908) 598: τούτου πλέον ἢ προσ[ῆ‐] κον ἴσως ἦν ἀπελαύσαμεν, εἰ καὶ μεμήκυντ[αι] τὸ βιβλίον ζ , Ἀρίστωνος. ε[ .. ]το[ .. ]υν[ . ]ουτο καθόσον δ̣ήπ̣οτε συμφέρον, τὰ ε̣ω̣λ̣ ἐξετασθέντων ἀποθεωρήσομεν πρότερον ἐπισημαινόμενοι τ[ὸ] μηδὲ τούτοις ενη[ ...... ] τοῦ μὴ φιλορήτ[ορας γί‐] νεσθαι.
+LXXI, cf. A. Mayer, Philologus Suppl. XI (1908) 598: τούτου πλέον ἢ προσ[ῆ‐] κον ἴσως ἦν ἀπελαύσαμεν, εἰ καὶ μεμήκυντ[αι] τὸ βιβλίον ζ , Ἀρίστωνος. ε[ .. ]το[ .. ]υν[ . ]ουτο καθόσον δήποτε συμφέρον, τὰ εωλ ἐξετασθέντων ἀποθεωρήσομεν πρότερον ἐπισημαινόμενοι τ[ὸ] μηδὲ τούτοις ενη[ ...... ] τοῦ μὴ φιλορήτ[ορας γί‐] νεσθαι.
 
 ## License and provenance
 

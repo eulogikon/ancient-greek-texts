@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν χρόνων τῶν νόσων
 author: Galen of Pergamon
 eul_wid: qmm-cx
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/diseases-times"
+canonical: "https://eulogikon.org/works/galen-pergamon-diseases-times-qmm-cx"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-cx` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/diseases-times)
+**eul_wid:** `qmm-cx` · [HTML page](https://eulogikon.org/works/galen-pergamon-diseases-times-qmm-cx)
 
 ## Text
 

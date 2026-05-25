@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἔρωτος καὶ Εὐσχη
 author: Crates the Comic Poet
 eul_wid: dac-ac
 eul_aid: dac
-canonical: "https://eulogikon.org/grc/crates-the-comic-poet/love-decorum"
+canonical: "https://eulogikon.org/works/crates-comic-love-decorum-dac-ac"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Crates the Comic Poet
 
-**eul_wid:** `dac-ac` · [HTML page](https://eulogikon.org/grc/crates-the-comic-poet/love-decorum)
+**eul_wid:** `dac-ac` · [HTML page](https://eulogikon.org/works/crates-comic-love-decorum-dac-ac)
 
 ## Text
 
@@ -28,7 +28,7 @@ cὲ δὲ χρὴ cιγᾶν μηδ’ ἀναγρύζειν.
 
 ### book 2
 
-⏑–⏑⏑–⏑ καὶ μάλιcτ’ ἀφροδιcίοιc ἀθύρμαcιν· ἡδὺ γὰρ κἀκεῖνο τὸ δρᾶν, λέγε‐[ln_5]cθαι δ’ οὐ καλόν 〈ἐcτιν〉.
+–– καὶ μάλιcτ’ ἀφροδιcίοιc ἀθύρμαcιν· ἡδὺ γὰρ κἀκεῖνο τὸ δρᾶν, λέγε‐[ln_5]cθαι δ’ οὐ καλόν 〈ἐcτιν〉.
 
 ### book 3.1
 

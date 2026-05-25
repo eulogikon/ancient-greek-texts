@@ -4,7 +4,7 @@ title_greek: Γνωμολόγιον Βατικανὸν Ἐπικούρειον
 author: Epicurus the Philosopher
 eul_wid: hui-ab
 eul_aid: hui
-canonical: "https://eulogikon.org/grc/epicurus/vatican-gnomology"
+canonical: "https://eulogikon.org/works/epicurus-vatican-gnomology-hui-ab"
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Epicurus the Philosopher
 
-**eul_wid:** `hui-ab` · [HTML page](https://eulogikon.org/grc/epicurus/vatican-gnomology)
+**eul_wid:** `hui-ab` · [HTML page](https://eulogikon.org/works/epicurus-vatican-gnomology-hui-ab)
 
 ## Text
 

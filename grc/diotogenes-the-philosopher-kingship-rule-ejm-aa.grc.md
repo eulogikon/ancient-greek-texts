@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Diotogenes the Philosopher
 eul_wid: ejm-aa
 eul_aid: ejm
-canonical: "https://eulogikon.org/grc/diotogenes-the-philosopher/kingship-rule"
+canonical: "https://eulogikon.org/works/diotogenes-kingship-rule-ejm-aa"
 period: Classical
 dialect: "Doric (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Diotogenes the Philosopher
 
-**eul_wid:** `ejm-aa` · [HTML page](https://eulogikon.org/grc/diotogenes-the-philosopher/kingship-rule)
+**eul_wid:** `ejm-aa` · [HTML page](https://eulogikon.org/works/diotogenes-kingship-rule-ejm-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Τετραλογία Β΄
 author: "Antiphon of Athens "
 eul_wid: bqs-ae
 eul_aid: bqs
-canonical: "https://eulogikon.org/grc/antiphon-of-athens/tetralogy-b"
+canonical: "https://eulogikon.org/works/antiphon-athens-tetralogy-b-bqs-ae"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Antiphon of Athens 
 
-**eul_wid:** `bqs-ae` · [HTML page](https://eulogikon.org/grc/antiphon-of-athens/tetralogy-b)
+**eul_wid:** `bqs-ae` · [HTML page](https://eulogikon.org/works/antiphon-athens-tetralogy-b-bqs-ae)
 
 ## Text
 

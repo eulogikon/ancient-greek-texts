@@ -4,7 +4,7 @@ title_greek: Γνῶμαι
 author: Cleitarchus the Historian
 eul_wid: hyo-aa
 eul_aid: hyo
-canonical: "https://eulogikon.org/grc/cleitarchus-the-historian/text"
+canonical: "https://eulogikon.org/works/cleitarchus-text-hyo-aa"
 period: Hellenistic
 dialect: Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cleitarchus the Historian
 
-**eul_wid:** `hyo-aa` · [HTML page](https://eulogikon.org/grc/cleitarchus-the-historian/text)
+**eul_wid:** `hyo-aa` · [HTML page](https://eulogikon.org/works/cleitarchus-text-hyo-aa)
 
 ## Text
 

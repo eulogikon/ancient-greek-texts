@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Atticus the Philosopher
 eul_wid: rai-aa
 eul_aid: rai
-canonical: "https://eulogikon.org/grc/atticus-the-philosopher/divisions-philosophy"
+canonical: "https://eulogikon.org/works/atticus-divisions-philosophy-rai-aa"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Atticus the Philosopher
 
-**eul_wid:** `rai-aa` · [HTML page](https://eulogikon.org/grc/atticus-the-philosopher/divisions-philosophy)
+**eul_wid:** `rai-aa` · [HTML page](https://eulogikon.org/works/atticus-divisions-philosophy-rai-aa)
 
 ## Text
 

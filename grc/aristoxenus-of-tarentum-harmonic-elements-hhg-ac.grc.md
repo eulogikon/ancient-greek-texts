@@ -4,7 +4,7 @@ title_greek: Ἁρμονικὰ στοιχεῖα
 author: Aristoxenus of Tarentum
 eul_wid: hhg-ac
 eul_aid: hhg
-canonical: "https://eulogikon.org/grc/aristoxenus-of-tarentum/harmonic-elements"
+canonical: "https://eulogikon.org/works/aristoxenus-tarentum-harmonic-elements-hhg-ac"
 period: Classical
 dialect: Attic
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristoxenus of Tarentum
 
-**eul_wid:** `hhg-ac` · [HTML page](https://eulogikon.org/grc/aristoxenus-of-tarentum/harmonic-elements)
+**eul_wid:** `hhg-ac` · [HTML page](https://eulogikon.org/works/aristoxenus-tarentum-harmonic-elements-hhg-ac)
 
 ## Text
 

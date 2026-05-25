@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν αἰτιῶν τῶν συμπτωμάτων
 author: Galen of Pergamon
 eul_wid: qmm-cs
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/causes-symptoms"
+canonical: "https://eulogikon.org/works/galen-pergamon-causes-symptoms-qmm-cs"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-cs` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/causes-symptoms)
+**eul_wid:** `qmm-cs` · [HTML page](https://eulogikon.org/works/galen-pergamon-causes-symptoms-qmm-cs)
 
 ## Text
 

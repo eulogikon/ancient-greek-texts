@@ -4,7 +4,7 @@ title_greek: Περὶ τῆς παραπρεσβείας
 author: Aeschines of Athens
 eul_wid: hbm-ac
 eul_aid: hbm
-canonical: "https://eulogikon.org/grc/aeschines-of-athens/embassy"
+canonical: "https://eulogikon.org/works/aeschines-athens-embassy-hbm-ac"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aeschines of Athens
 
-**eul_wid:** `hbm-ac` · [HTML page](https://eulogikon.org/grc/aeschines-of-athens/embassy)
+**eul_wid:** `hbm-ac` · [HTML page](https://eulogikon.org/works/aeschines-athens-embassy-hbm-ac)
 
 ## Text
 

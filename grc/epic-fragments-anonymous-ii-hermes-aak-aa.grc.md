@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἑρμοῦ
 author: Epic Fragments Anonymous II
 eul_wid: aak-aa
 eul_aid: aak
-canonical: "https://eulogikon.org/grc/epic-fragments-anonymous-ii/hermes"
+canonical: "https://eulogikon.org/works/epic-fragments-anon-ii-hermes-aak-aa"
 period: Archaic
 dialect: Literary Koine
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Epic Fragments Anonymous II
 
-**eul_wid:** `aak-aa` · [HTML page](https://eulogikon.org/grc/epic-fragments-anonymous-ii/hermes)
+**eul_wid:** `aak-aa` · [HTML page](https://eulogikon.org/works/epic-fragments-anon-ii-hermes-aak-aa)
 
 ## Text
 

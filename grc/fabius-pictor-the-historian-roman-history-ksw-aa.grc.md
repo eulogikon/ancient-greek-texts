@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Fabius Pictor the Historian
 eul_wid: ksw-aa
 eul_aid: ksw
-canonical: "https://eulogikon.org/grc/fabius-pictor-the-historian/roman-history"
+canonical: "https://eulogikon.org/works/fabius-pictor-roman-history-ksw-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Fabius Pictor the Historian
 
-**eul_wid:** `ksw-aa` · [HTML page](https://eulogikon.org/grc/fabius-pictor-the-historian/roman-history)
+**eul_wid:** `ksw-aa` · [HTML page](https://eulogikon.org/works/fabius-pictor-roman-history-ksw-aa)
 
 ## Text
 

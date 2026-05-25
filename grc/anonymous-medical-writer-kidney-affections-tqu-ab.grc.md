@@ -4,7 +4,7 @@ title_greek: Περὶ Διαγνώσεως καὶ Θεραπείας Παθῶ
 author: Medical Writer  Anonymous
 eul_wid: tqu-ab
 eul_aid: tqu
-canonical: "https://eulogikon.org/grc/anonymous-medical-writer/kidney-affections"
+canonical: "https://eulogikon.org/works/med-writer-anon-kidney-affections-tqu-ab"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Medical Writer  Anonymous
 
-**eul_wid:** `tqu-ab` · [HTML page](https://eulogikon.org/grc/anonymous-medical-writer/kidney-affections)
+**eul_wid:** `tqu-ab` · [HTML page](https://eulogikon.org/works/med-writer-anon-kidney-affections-tqu-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἀχιλλέως καὶ Ἔρω
 author: Aristarchus of Tegea
 eul_wid: ddy-aa
 eul_aid: ddy
-canonical: "https://eulogikon.org/grc/aristarchus-of-tegea/achilles-love"
+canonical: "https://eulogikon.org/works/aristarchus-tegea-achilles-love-ddy-aa"
 period: Classical
 dialect: "Attic (dr, frg)"
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristarchus of Tegea
 
-**eul_wid:** `ddy-aa` · [HTML page](https://eulogikon.org/grc/aristarchus-of-tegea/achilles-love)
+**eul_wid:** `ddy-aa` · [HTML page](https://eulogikon.org/works/aristarchus-tegea-achilles-love-ddy-aa)
 
 ## Text
 
@@ -32,7 +32,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1a.3
 
-τε̣ ὃ̣ς̣ πλάσατο [para][ ]νονι καὶ τὸν ἄριστον[ln_5][ ]ησαμενος
+τε ὃς πλάσατο [para][ ]νονι καὶ τὸν ἄριστον[ln_5][ ]ησαμενος
 
 ### book 1b.1
 

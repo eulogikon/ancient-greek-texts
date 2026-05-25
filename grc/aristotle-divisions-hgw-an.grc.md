@@ -4,7 +4,7 @@ title_greek: Διαιρέσεις Ἀριστοτελικαί
 author: Aristotle
 eul_wid: hgw-an
 eul_aid: hgw
-canonical: "https://eulogikon.org/grc/aristotle/divisions"
+canonical: "https://eulogikon.org/works/aristotle-divisions-hgw-an"
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristotle
 
-**eul_wid:** `hgw-an` · [HTML page](https://eulogikon.org/grc/aristotle/divisions)
+**eul_wid:** `hgw-an` · [HTML page](https://eulogikon.org/works/aristotle-divisions-hgw-an)
 
 ## Text
 

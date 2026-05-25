@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Μακρῶν Χωρῶν
 author: Amometus the Historian
 eul_wid: cnk-aa
 eul_aid: cnk
-canonical: "https://eulogikon.org/grc/amometus-the-historian/distant-lands"
+canonical: "https://eulogikon.org/works/amometus-distant-lands-cnk-aa"
 period: Classical
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Amometus the Historian
 
-**eul_wid:** `cnk-aa` · [HTML page](https://eulogikon.org/grc/amometus-the-historian/distant-lands)
+**eul_wid:** `cnk-aa` · [HTML page](https://eulogikon.org/works/amometus-distant-lands-cnk-aa)
 
 ## Text
 

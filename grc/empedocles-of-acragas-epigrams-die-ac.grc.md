@@ -4,7 +4,7 @@ title_greek: Ἐπίγραμμα
 author: Empedocles of Acragas
 eul_wid: die-ac
 eul_aid: die
-canonical: "https://eulogikon.org/grc/empedocles-of-acragas/epigrams"
+canonical: "https://eulogikon.org/works/empedocles-acragas-epigrams-die-ac"
 period: Classical
 dialect: Doric
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Empedocles of Acragas
 
-**eul_wid:** `die-ac` · [HTML page](https://eulogikon.org/grc/empedocles-of-acragas/epigrams)
+**eul_wid:** `die-ac` · [HTML page](https://eulogikon.org/works/empedocles-acragas-epigrams-die-ac)
 
 ## Text
 

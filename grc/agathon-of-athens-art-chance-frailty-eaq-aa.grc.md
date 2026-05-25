@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Agathon of Athens
 eul_wid: eaq-aa
 eul_aid: eaq
-canonical: "https://eulogikon.org/grc/agathon-of-athens/art-chance-frailty"
+canonical: "https://eulogikon.org/works/agathon-athens-art-chance-frailty-eaq-aa"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Agathon of Athens
 
-**eul_wid:** `eaq-aa` · [HTML page](https://eulogikon.org/grc/agathon-of-athens/art-chance-frailty)
+**eul_wid:** `eaq-aa` · [HTML page](https://eulogikon.org/works/agathon-athens-art-chance-frailty-eaq-aa)
 
 ## Text
 
@@ -76,7 +76,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.6
 
-τε κανόνος ἦσαν {ἐζυγωμένοι} 〈–×–〉 δύο· ὅπερ δὲ τὸ τρίτον, ἦν {καὶ} τελευταῖον πάλιν
+τε κανόνος ἦσαν {ἐζυγωμένοι} 〈––〉 δύο· ὅπερ δὲ τὸ τρίτον, ἦν {καὶ} τελευταῖον πάλιν
 
 ### book 5.1
 
@@ -160,7 +160,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 14.1
 
-×– γυνή το〈ι〉 σώμα〈τοσ〉 δι’ ἀργίαν
+– γυνή το〈ι〉 σώμα〈τοσ〉 δι’ ἀργίαν
 
 ### book 14.2
 
@@ -192,11 +192,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 18.1
 
-οὐ πώποτ’ ἠξίωσα †χρήσασθαι
+οὐ πώποτ’ ἠξίωσα χρήσασθαι
 
 ### book 18.2
 
-τρόποις†
+τρόποις
 
 ### book 19?.1
 
@@ -288,11 +288,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 31?.1
 
-ὕβριν ἢ 〈Κύ〉πριν †μισθῷ ποθὲν ἢ μόχθον
+ὕβριν ἢ 〈Κύ〉πριν μισθῷ ποθὲν ἢ μόχθον
 
 ### book 31?.2
 
-πατρίδων†
+πατρίδων
 
 ### book 32?.1
 
@@ -300,7 +300,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 32?.2
 
-τοῦ τροχηλάτου 〈⏑–〉
+τοῦ τροχηλάτου 〈–〉
 
 ### book 34?.1
 

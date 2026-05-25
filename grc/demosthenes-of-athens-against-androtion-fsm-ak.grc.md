@@ -4,7 +4,7 @@ title_greek: κατὰ Ἀνδροτίωνος παρανόμων
 author: Demosthenes of Athens
 eul_wid: fsm-ak
 eul_aid: fsm
-canonical: "https://eulogikon.org/grc/demosthenes-of-athens/against-androtion"
+canonical: "https://eulogikon.org/works/demosthenes-athens-against-androtion-fsm-ak"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demosthenes of Athens
 
-**eul_wid:** `fsm-ak` · [HTML page](https://eulogikon.org/grc/demosthenes-of-athens/against-androtion)
+**eul_wid:** `fsm-ak` · [HTML page](https://eulogikon.org/works/demosthenes-athens-against-androtion-fsm-ak)
 
 ## Text
 

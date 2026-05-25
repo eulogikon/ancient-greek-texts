@@ -4,7 +4,7 @@ title_greek: Ἱππῆς
 author: Aristophanes of Athens
 eul_wid: daw-am
 eul_aid: daw
-canonical: "https://eulogikon.org/grc/aristophanes-of-athens/knights"
+canonical: "https://eulogikon.org/works/aristophanes-athens-knights-daw-am"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristophanes of Athens
 
-**eul_wid:** `daw-am` · [HTML page](https://eulogikon.org/grc/aristophanes-of-athens/knights)
+**eul_wid:** `daw-am` · [HTML page](https://eulogikon.org/works/aristophanes-athens-knights-daw-am)
 
 ## Text
 

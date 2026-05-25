@@ -4,7 +4,7 @@ title_greek: Ἐγχειρίδιον
 author: Epictetus the Stoic
 eul_wid: ojw-af
 eul_aid: ojw
-canonical: "https://eulogikon.org/grc/epictetus/handbook"
+canonical: "https://eulogikon.org/works/epictetus-handbook-ojw-af"
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Epictetus the Stoic
 
-**eul_wid:** `ojw-af` · [HTML page](https://eulogikon.org/grc/epictetus/handbook)
+**eul_wid:** `ojw-af` · [HTML page](https://eulogikon.org/works/epictetus-handbook-ojw-af)
 
 ## Text
 

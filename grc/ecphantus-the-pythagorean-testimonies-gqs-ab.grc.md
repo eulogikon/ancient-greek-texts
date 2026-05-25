@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Ecphantus the Pythagorean
 eul_wid: gqs-ab
 eul_aid: gqs
-canonical: "https://eulogikon.org/grc/ecphantus-the-pythagorean/testimonies"
+canonical: "https://eulogikon.org/works/ecphantus-pythagorean-testimonies-gqs-ab"
 period: Classical
 dialect: "Doric (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ecphantus the Pythagorean
 
-**eul_wid:** `gqs-ab` · [HTML page](https://eulogikon.org/grc/ecphantus-the-pythagorean/testimonies)
+**eul_wid:** `gqs-ab` · [HTML page](https://eulogikon.org/works/ecphantus-pythagorean-testimonies-gqs-ab)
 
 ## Text
 

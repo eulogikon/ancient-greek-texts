@@ -4,7 +4,7 @@ title_greek: Ἀνδρομάχη
 author: Euripides
 eul_wid: cbm-aj
 eul_aid: cbm
-canonical: "https://eulogikon.org/grc/euripides/andromache"
+canonical: "https://eulogikon.org/works/euripides-andromache-cbm-aj"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euripides
 
-**eul_wid:** `cbm-aj` · [HTML page](https://eulogikon.org/grc/euripides/andromache)
+**eul_wid:** `cbm-aj` · [HTML page](https://eulogikon.org/works/euripides-andromache-cbm-aj)
 
 ## Text
 
@@ -784,7 +784,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 195.1
 
-†τύχηι θ’ ὑπερθεῖ† κἄμ’ ἐλευθέραν ὁρᾶις;
+τύχηι θ’ ὑπερθεῖ κἄμ’ ἐλευθέραν ὁρᾶις;
 
 ### 195.2
 
@@ -924,7 +924,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 230.3
 
-Χο. δέσποιν’, ὅσον σοι ῥαιδίως †προσίσταται†,
+Χο. δέσποιν’, ὅσον σοι ῥαιδίως προσίσταται,
 
 ### 230.4
 
@@ -1196,7 +1196,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 305.1
 
-†μόχθους οὓς ἀμφὶ Τροίαν†
+μόχθους οὓς ἀμφὶ Τροίαν
 
 ### 305.2
 
@@ -1816,19 +1816,19 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 466.2
 
-†ἔριδας† οἴκων δυσμενεῖς τε λύπας·
+ἔριδας οἴκων δυσμενεῖς τε λύπας·
 
 ### 466.3
 
-μίαν μοι στεργέτω πόσις †γάμοις
+μίαν μοι στεργέτω πόσις γάμοις
 
 ### 470.1
 
-ἀκοινώνητον ἀνδρὸς† εὐνάν.
+ἀκοινώνητον ἀνδρὸς εὐνάν.
 
 ### 470.2
 
-†οὐδὲ γὰρ ἐν† πόλεσι δίπτυχοι τυραννίδες
+οὐδὲ γὰρ ἐν πόλεσι δίπτυχοι τυραννίδες
 
 ### 474
 
@@ -2272,7 +2272,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 590.3
 
-ἄκληιστ’ †ἄδουλα δώμαθ’ ἑστίας† λιπών,
+ἄκληιστ’ ἄδουλα δώμαθ’ ἑστίας λιπών,
 
 ### 590.4
 
@@ -2976,7 +2976,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 785
 
-ταύταν ἤινεσα ταύταν καὶ †φέρομαι† βιοτάν,
+ταύταν ἤινεσα ταύταν καὶ φέρομαι βιοτάν,
 
 ### 787.1
 
@@ -4440,11 +4440,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1179
 
-ὦ σχέτλιος παθέων ἐγώ· †εἰς τίνα
+ὦ σχέτλιος παθέων ἐγώ· εἰς τίνα
 
 ### 1180.1
 
-δὴ φίλον αὐγὰς βαλὼν τέρψομαι;†
+δὴ φίλον αὐγὰς βαλὼν τέρψομαι;
 
 ### 1180.2
 
@@ -4476,7 +4476,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1185.5
 
-†μήποτε σῶν λεχέων τὸ δυσώνυμον
+μήποτε σῶν λεχέων τὸ δυσώνυμον
 
 ### 1190.1
 
@@ -4488,7 +4488,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1190.3
 
-Ἑρμιόνας Ἀίδαν ἐπὶ σοί, τέκνον,†
+Ἑρμιόνας Ἀίδαν ἐπὶ σοί, τέκνον,
 
 ### 1190.4
 

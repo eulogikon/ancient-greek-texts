@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Aristomenes of Alyzeia
 eul_wid: ksm-aa
 eul_aid: ksm
-canonical: "https://eulogikon.org/grc/aristomenes-of-alyzeia/sympotic-culinary"
+canonical: "https://eulogikon.org/works/aristomenes-alyzeia-sympotic-culinary-ksm-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristomenes of Alyzeia
 
-**eul_wid:** `ksm-aa` · [HTML page](https://eulogikon.org/grc/aristomenes-of-alyzeia/sympotic-culinary)
+**eul_wid:** `ksm-aa` · [HTML page](https://eulogikon.org/works/aristomenes-alyzeia-sympotic-culinary-ksm-aa)
 
 ## Text
 

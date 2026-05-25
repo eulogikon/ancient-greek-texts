@@ -4,7 +4,7 @@ title_greek: Σχόλια εἰς Θεσμοφοριάζουσας
 author: Aristophanes Scholia
 eul_wid: mlw-aa
 eul_aid: mlw
-canonical: "https://eulogikon.org/grc/aristophanes-scholia/thesmophoriazusae"
+canonical: "https://eulogikon.org/works/aristophanes-scholia-thesmophoriazusae-mlw-aa"
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristophanes Scholia
 
-**eul_wid:** `mlw-aa` · [HTML page](https://eulogikon.org/grc/aristophanes-scholia/thesmophoriazusae)
+**eul_wid:** `mlw-aa` · [HTML page](https://eulogikon.org/works/aristophanes-scholia-thesmophoriazusae-mlw-aa)
 
 ## Text
 

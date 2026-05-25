@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Aeschylus the Tragedian
 eul_wid: emo-ai
 eul_aid: emo
-canonical: "https://eulogikon.org/grc/aeschylus/epigrams"
+canonical: "https://eulogikon.org/works/aeschylus-epigrams-emo-ai"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aeschylus the Tragedian
 
-**eul_wid:** `emo-ai` · [HTML page](https://eulogikon.org/grc/aeschylus/epigrams)
+**eul_wid:** `emo-ai` · [HTML page](https://eulogikon.org/works/aeschylus-epigrams-emo-ai)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἐπίγραμμα
 author: Antimachus of Colophon
 eul_wid: ehe-ad
 eul_aid: ehe
-canonical: "https://eulogikon.org/grc/antimachus-of-colophon/epigram"
+canonical: "https://eulogikon.org/works/antimachus-colophon-epigram-ehe-ad"
 period: Classical
 dialect: Epic (Homeric) (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Antimachus of Colophon
 
-**eul_wid:** `ehe-ad` · [HTML page](https://eulogikon.org/grc/antimachus-of-colophon/epigram)
+**eul_wid:** `ehe-ad` · [HTML page](https://eulogikon.org/works/antimachus-colophon-epigram-ehe-ad)
 
 ## Text
 

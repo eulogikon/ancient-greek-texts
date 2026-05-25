@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Anacreon of Teos
 eul_wid: bfy-ac
 eul_aid: bfy
-canonical: "https://eulogikon.org/grc/anacreon-of-teos/epigrams"
+canonical: "https://eulogikon.org/works/anacreon-teos-epigrams-bfy-ac"
 period: Archaic
 dialect: Ionic Elegiac
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Anacreon of Teos
 
-**eul_wid:** `bfy-ac` · [HTML page](https://eulogikon.org/grc/anacreon-of-teos/epigrams)
+**eul_wid:** `bfy-ac` · [HTML page](https://eulogikon.org/works/anacreon-teos-epigrams-bfy-ac)
 
 ## Text
 

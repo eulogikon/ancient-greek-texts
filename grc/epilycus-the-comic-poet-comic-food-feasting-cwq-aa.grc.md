@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Τροφῆς καὶ Εὐωχί
 author: Epilycus the Comic Poet
 eul_wid: cwq-aa
 eul_aid: cwq
-canonical: "https://eulogikon.org/grc/epilycus-the-comic-poet/comic-food-feasting"
+canonical: "https://eulogikon.org/works/epilycus-comic-food-feasting-cwq-aa"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Epilycus the Comic Poet
 
-**eul_wid:** `cwq-aa` · [HTML page](https://eulogikon.org/grc/epilycus-the-comic-poet/comic-food-feasting)
+**eul_wid:** `cwq-aa` · [HTML page](https://eulogikon.org/works/epilycus-comic-food-feasting-cwq-aa)
 
 ## Text
 

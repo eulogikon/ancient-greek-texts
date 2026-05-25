@@ -4,7 +4,7 @@ title_greek: Περὶ τοῦ Ζῳδιακοῦ
 author: "Aratus Lives "
 eul_wid: iru-am
 eul_aid: iru
-canonical: "https://eulogikon.org/grc/aratus-lives/zodiac"
+canonical: "https://eulogikon.org/works/aratus-zodiac-iru-am"
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aratus Lives 
 
-**eul_wid:** `iru-am` · [HTML page](https://eulogikon.org/grc/aratus-lives/zodiac)
+**eul_wid:** `iru-am` · [HTML page](https://eulogikon.org/works/aratus-zodiac-iru-am)
 
 ## Text
 

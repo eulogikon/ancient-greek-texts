@@ -4,7 +4,7 @@ title_greek: Αἰγίμιος
 author: "Aegimius "
 eul_wid: ayg-aa
 eul_aid: ayg
-canonical: "https://eulogikon.org/grc/aegimius/text"
+canonical: "https://eulogikon.org/works/aegimius-text-ayg-aa"
 period: Archaic
 dialect: Epic (Homeric) (frg)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aegimius 
 
-**eul_wid:** `ayg-aa` · [HTML page](https://eulogikon.org/grc/aegimius/text)
+**eul_wid:** `ayg-aa` · [HTML page](https://eulogikon.org/works/aegimius-text-ayg-aa)
 
 ## Text
 

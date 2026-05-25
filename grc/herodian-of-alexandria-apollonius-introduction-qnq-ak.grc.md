@@ -4,7 +4,7 @@ title_greek: Εἰς τὴν Ἀπολλωνίου εἰσαγωγήν
 author: Herodian of Alexandria
 eul_wid: qnq-ak
 eul_aid: qnq
-canonical: "https://eulogikon.org/grc/herodian-of-alexandria/apollonius-introduction"
+canonical: "https://eulogikon.org/works/herodian-alexandria-apollonius-introduction-qnq-ak"
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Herodian of Alexandria
 
-**eul_wid:** `qnq-ak` · [HTML page](https://eulogikon.org/grc/herodian-of-alexandria/apollonius-introduction)
+**eul_wid:** `qnq-ak` · [HTML page](https://eulogikon.org/works/herodian-alexandria-apollonius-introduction-qnq-ak)
 
 ## Text
 

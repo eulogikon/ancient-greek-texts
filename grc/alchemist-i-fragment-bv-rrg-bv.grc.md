@@ -4,7 +4,7 @@ title_greek: Ἀλχημικὸν Ἀπόσπασμα
 author: Alchemist I
 eul_wid: rrg-bv
 eul_aid: rrg
-canonical: "https://eulogikon.org/grc/alchemist-i/fragment-bv"
+canonical: "https://eulogikon.org/works/alchemist-i-fragment-rrg-bv"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alchemist I
 
-**eul_wid:** `rrg-bv` · [HTML page](https://eulogikon.org/grc/alchemist-i/fragment-bv)
+**eul_wid:** `rrg-bv` · [HTML page](https://eulogikon.org/works/alchemist-i-fragment-rrg-bv)
 
 ## Text
 

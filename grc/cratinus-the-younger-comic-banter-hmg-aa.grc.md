@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα κωμικῆς σκώψεως
 author: Cratinus the Younger
 eul_wid: hmg-aa
 eul_aid: hmg
-canonical: "https://eulogikon.org/grc/cratinus-the-younger/comic-banter"
+canonical: "https://eulogikon.org/works/cratinus-minor-comic-banter-hmg-aa"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cratinus the Younger
 
-**eul_wid:** `hmg-aa` · [HTML page](https://eulogikon.org/grc/cratinus-the-younger/comic-banter)
+**eul_wid:** `hmg-aa` · [HTML page](https://eulogikon.org/works/cratinus-minor-comic-banter-hmg-aa)
 
 ## Text
 

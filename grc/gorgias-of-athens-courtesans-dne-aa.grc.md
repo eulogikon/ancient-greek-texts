@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Gorgias of Athens
 eul_wid: dne-aa
 eul_aid: dne
-canonical: "https://eulogikon.org/grc/gorgias-of-athens/courtesans"
+canonical: "https://eulogikon.org/works/gorgias-athens-courtesans-dne-aa"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Gorgias of Athens
 
-**eul_wid:** `dne-aa` · [HTML page](https://eulogikon.org/grc/gorgias-of-athens/courtesans)
+**eul_wid:** `dne-aa` · [HTML page](https://eulogikon.org/works/gorgias-athens-courtesans-dne-aa)
 
 ## Text
 

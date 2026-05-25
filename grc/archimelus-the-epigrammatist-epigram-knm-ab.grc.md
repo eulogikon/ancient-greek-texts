@@ -4,7 +4,7 @@ title_greek: Ἐπίγραμμα
 author: Archimelus the Epigrammatist
 eul_wid: knm-ab
 eul_aid: knm
-canonical: "https://eulogikon.org/grc/archimelus-the-epigrammatist/epigram"
+canonical: "https://eulogikon.org/works/archimelus-epigram-knm-ab"
 period: Hellenistic
 dialect: Koine
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Archimelus the Epigrammatist
 
-**eul_wid:** `knm-ab` · [HTML page](https://eulogikon.org/grc/archimelus-the-epigrammatist/epigram)
+**eul_wid:** `knm-ab` · [HTML page](https://eulogikon.org/works/archimelus-epigram-knm-ab)
 
 ## Text
 

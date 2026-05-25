@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Παρθικῶν
 author: Arrian of Nicomedia
 eul_wid: pcs-aa
 eul_aid: pcs
-canonical: "https://eulogikon.org/grc/arrian-of-nicomedia/parthica-fragments-aa"
+canonical: "https://eulogikon.org/works/arrian-nicomedia-parthica-fragments-pcs-aa"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Arrian of Nicomedia
 
-**eul_wid:** `pcs-aa` · [HTML page](https://eulogikon.org/grc/arrian-of-nicomedia/parthica-fragments-aa)
+**eul_wid:** `pcs-aa` · [HTML page](https://eulogikon.org/works/arrian-nicomedia-parthica-fragments-pcs-aa)
 
 ## Text
 

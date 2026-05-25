@@ -4,7 +4,7 @@ title_greek: Κατὰ Πορφυρίου
 author: Historical Work  Anonymous
 eul_wid: ubo-ab
 eul_aid: ubo
-canonical: "https://eulogikon.org/grc/anonymous-historical-work/against-porphyry"
+canonical: "https://eulogikon.org/works/hist-anon-against-porphyry-ubo-ab"
 period: Late Antique
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Historical Work  Anonymous
 
-**eul_wid:** `ubo-ab` · [HTML page](https://eulogikon.org/grc/anonymous-historical-work/against-porphyry)
+**eul_wid:** `ubo-ab` · [HTML page](https://eulogikon.org/works/hist-anon-against-porphyry-ubo-ab)
 
 ## Text
 
@@ -32,7 +32,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1.3
 
-τούτου γὰρ ἕνεκα καὶ σάρκα ἐφόρεσεν ὁ κύριος Ἰησοῦς, καὶ ἄνθρωπος ἐγέν·ετο καὶ προσηλώθη τῷ σταυρῶ̣ οἰκονομούμενος, ὅπως δι' ἡς σαρκὸς οἱ δαίμονες ἀναδεῖξαι θεοὺς ἠλαζονεύσαντο, πρὸς θάνατον τὰς ψυχὰς μεθόδοις ἀπάτης ἀγκιστρευσάμενοι, διὰ ταύτης ἀνατραπέντες κατοπτευθῶσιν οὐκ ὄντες θεοί.
+τούτου γὰρ ἕνεκα καὶ σάρκα ἐφόρεσεν ὁ κύριος Ἰησοῦς, καὶ ἄνθρωπος ἐγέν·ετο καὶ προσηλώθη τῷ σταυρῶ οἰκονομούμενος, ὅπως δι' ἡς σαρκὸς οἱ δαίμονες ἀναδεῖξαι θεοὺς ἠλαζονεύσαντο, πρὸς θάνατον τὰς ψυχὰς μεθόδοις ἀπάτης ἀγκιστρευσάμενοι, διὰ ταύτης ἀνατραπέντες κατοπτευθῶσιν οὐκ ὄντες θεοί.
 
 ### 1.4
 
@@ -72,7 +72,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1.3
 
-τούτου γὰρ ἕνεκα καὶ σάρκα ἐφόρεσεν ὁ κύριος Ἰησοῦς, καὶ ἄνθρωπος ἐγέν·ετο καὶ προσηλώθη τῷ σταυρῶ̣ οἰκονομούμενος, ὅπως δι' ἡς σαρκὸς οἱ δαίμονες ἀναδεῖξαι θεοὺς ἠλαζονεύσαντο, πρὸς θάνατον τὰς ψυχὰς μεθόδοις ἀπάτης ἀγκιστρευσάμενοι, διὰ ταύτης ἀνατραπέντες κατοπτευθῶσιν οὐκ ὄντες θεοί.
+τούτου γὰρ ἕνεκα καὶ σάρκα ἐφόρεσεν ὁ κύριος Ἰησοῦς, καὶ ἄνθρωπος ἐγέν·ετο καὶ προσηλώθη τῷ σταυρῶ οἰκονομούμενος, ὅπως δι' ἡς σαρκὸς οἱ δαίμονες ἀναδεῖξαι θεοὺς ἠλαζονεύσαντο, πρὸς θάνατον τὰς ψυχὰς μεθόδοις ἀπάτης ἀγκιστρευσάμενοι, διὰ ταύτης ἀνατραπέντες κατοπτευθῶσιν οὐκ ὄντες θεοί.
 
 ### 1.4
 

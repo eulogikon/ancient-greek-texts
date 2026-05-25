@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Euripides
 eul_wid: cbm-ar
 eul_aid: cbm
-canonical: "https://eulogikon.org/grc/euripides/epigrams"
+canonical: "https://eulogikon.org/works/euripides-epigrams-cbm-ar"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euripides
 
-**eul_wid:** `cbm-ar` · [HTML page](https://eulogikon.org/grc/euripides/epigrams)
+**eul_wid:** `cbm-ar` · [HTML page](https://eulogikon.org/works/euripides-epigrams-cbm-ar)
 
 ## Text
 

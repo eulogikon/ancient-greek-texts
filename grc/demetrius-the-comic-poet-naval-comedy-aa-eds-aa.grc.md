@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Ναυτικῆς Κωμῳδίας
 author: Demetrius the Comic Poet
 eul_wid: eds-aa
 eul_aid: eds
-canonical: "https://eulogikon.org/grc/demetrius-the-comic-poet/naval-comedy-aa"
+canonical: "https://eulogikon.org/works/demetrius-comic-naval-comedy-eds-aa"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demetrius the Comic Poet
 
-**eul_wid:** `eds-aa` · [HTML page](https://eulogikon.org/grc/demetrius-the-comic-poet/naval-comedy-aa)
+**eul_wid:** `eds-aa` · [HTML page](https://eulogikon.org/works/demetrius-comic-naval-comedy-eds-aa)
 
 ## Text
 

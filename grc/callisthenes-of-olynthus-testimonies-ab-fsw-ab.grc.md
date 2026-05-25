@@ -4,7 +4,7 @@ title_greek: "Μαρτυρίαι Α'"
 author: Callisthenes of Olynthus
 eul_wid: fsw-ab
 eul_aid: fsw
-canonical: "https://eulogikon.org/grc/callisthenes-of-olynthus/testimonies-ab"
+canonical: "https://eulogikon.org/works/callisthenes-olynthus-testimonies-fsw-ab"
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Callisthenes of Olynthus
 
-**eul_wid:** `fsw-ab` · [HTML page](https://eulogikon.org/grc/callisthenes-of-olynthus/testimonies-ab)
+**eul_wid:** `fsw-ab` · [HTML page](https://eulogikon.org/works/callisthenes-olynthus-testimonies-fsw-ab)
 
 ## Text
 
@@ -200,7 +200,7 @@ PORPHYR. b. EUSEB. PE X 3 p. 464 B: καὶ τί γὰρ Ἐφόρου (70 T 17)
 
 ### 3b,124,T 33bis
 
-ZENON PAP. (ed. W. L. Westermann u.a.) II, 1940, no. 60: ]α κατηνέχθη [Ἐ]φαρμόστωι βυβλία· Συναγωγὴ τῶν π̣ρο [ξενιῶν(?)] Καλλισθένου̣ς [καὶ τῶν π]ρ̣εσβειῶν [ .... ( . )]πο̣πα̣ς .. α.
+ZENON PAP. (ed. W. L. Westermann u.a.) II, 1940, no. 60: ]α κατηνέχθη [Ἐ]φαρμόστωι βυβλία· Συναγωγὴ τῶν προ [ξενιῶν(?)] Καλλισθένους [καὶ τῶν π]ρεσβειῶν [ .... ( . )]ποπας .. α.
 
 ### 2b,124,T 34
 

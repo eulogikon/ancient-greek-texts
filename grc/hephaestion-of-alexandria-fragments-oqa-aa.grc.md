@@ -4,7 +4,7 @@ title_greek: Ἡφαιστίωνος Ἀποσπάσματα
 author: Hephaestion of Alexandria
 eul_wid: oqa-aa
 eul_aid: oqa
-canonical: "https://eulogikon.org/grc/hephaestion-of-alexandria/fragments"
+canonical: "https://eulogikon.org/works/hephaestion-alexandria-fragments-oqa-aa"
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hephaestion of Alexandria
 
-**eul_wid:** `oqa-aa` · [HTML page](https://eulogikon.org/grc/hephaestion-of-alexandria/fragments)
+**eul_wid:** `oqa-aa` · [HTML page](https://eulogikon.org/works/hephaestion-alexandria-fragments-oqa-aa)
 
 ## Text
 
@@ -36,7 +36,7 @@ schol. in Hermog. Rh G VII 936, 26 ἰστέον ὅτι Ἡφαι στίων φ
 
 ### 78
 
-schol. in Hermog. Rh G VII 982, 15 ὁ τροχαῖος τρο χαλὸν ποιεῖ τὸν λόγον, διὸ τροχαῖος καλεῖται ὁ τῶν τρεχόντων ῥυθμός, ὥς φησιν Λογγῖνος ὁ φιλολόγος, † ὅθεν καὶ ἴαμβος καλεῖται ἀπὸ τοῦ ἰαμβίζειν, ὅ ἐστι λοιδορεῖν· τοῦτο δὲ ποιοῦσιν οἱ κωμικοὶ οἱ τῷ ἰάμβῳ χρησάμενοι. (ἐπεὶ οὖν καὶ οἱ τρέχοντες καὶ ὑβρίζοντες σπουδῇ τοῦτο ποιοῦσιν, οὐ δεῖ ἐν σεμνότητι χρῆσθαι τούτοις τροχαίῳ καὶ τῷ συγγενεῖ αὐτῷ ἰωνικῷ οὐδὲ ἰαμβικῷ ἐπιπολύ).
+schol. in Hermog. Rh G VII 982, 15 ὁ τροχαῖος τρο χαλὸν ποιεῖ τὸν λόγον, διὸ τροχαῖος καλεῖται ὁ τῶν τρεχόντων ῥυθμός, ὥς φησιν Λογγῖνος ὁ φιλολόγος, ὅθεν καὶ ἴαμβος καλεῖται ἀπὸ τοῦ ἰαμβίζειν, ὅ ἐστι λοιδορεῖν· τοῦτο δὲ ποιοῦσιν οἱ κωμικοὶ οἱ τῷ ἰάμβῳ χρησάμενοι. (ἐπεὶ οὖν καὶ οἱ τρέχοντες καὶ ὑβρίζοντες σπουδῇ τοῦτο ποιοῦσιν, οὐ δεῖ ἐν σεμνότητι χρῆσθαι τούτοις τροχαίῳ καὶ τῷ συγγενεῖ αὐτῷ ἰωνικῷ οὐδὲ ἰαμβικῷ ἐπιπολύ).
 
 ### 78
 

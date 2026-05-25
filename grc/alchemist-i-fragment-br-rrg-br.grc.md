@@ -4,7 +4,7 @@ title_greek: Χημικὸν Ἀπόσπασμα
 author: Alchemist I
 eul_wid: rrg-br
 eul_aid: rrg
-canonical: "https://eulogikon.org/grc/alchemist-i/fragment-br"
+canonical: "https://eulogikon.org/works/alchemist-i-fragment-rrg-br"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alchemist I
 
-**eul_wid:** `rrg-br` · [HTML page](https://eulogikon.org/grc/alchemist-i/fragment-br)
+**eul_wid:** `rrg-br` · [HTML page](https://eulogikon.org/works/alchemist-i-fragment-rrg-br)
 
 ## Text
 
 ### 1
 
-[..........]χρῄσῃ [......... σ]ειρικοῦ μέρος αʹ [...... φύκ]ους μέρος αʹ λει̣ά [νας .......] ʽ Δ̣ ξ̣ήρανο[ν] [......... ἀ]γγείῳ [ τ]ῷ σ[η]ρικῷ μότ[ῳ] [ ἐ]π̣ιχέων τὸ [..........]. τοῦ φύκους [..........]ὡς εὔχρουν [.....χρῶ κ]αθαρείως [........ κιν]ναβάρεως [...... αἱμα]τ̣ίτιδος [......... κ]ν̣ει̣κου μέρη βʹ [.........]ος μέρος 𐅀 ὁ̣μ̣(οίως) τ̣ῇ̣ [......... χ]ρῶ ἐ̣[ ] [Break in Text (point at which text breaks off for an unknown length)]
+[..........]χρῄσῃ [......... σ]ειρικοῦ μέρος αʹ [...... φύκ]ους μέρος αʹ λειά [νας .......] ʽ Δ ξήρανο[ν] [......... ἀ]γγείῳ [ τ]ῷ σ[η]ρικῷ μότ[ῳ] [ ἐ]πιχέων τὸ [..........]. τοῦ φύκους [..........]ὡς εὔχρουν [.....χρῶ κ]αθαρείως [........ κιν]ναβάρεως [...... αἱμα]τίτιδος [......... κ]νεικου μέρη βʹ [.........]ος μέρος 𐅀 ὁμ(οίως) τῇ [......... χ]ρῶ ἐ[ ] [Break in Text (point at which text breaks off for an unknown length)]
 
 ## License and provenance
 

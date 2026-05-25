@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Dictys Cretensis
 eul_wid: otc-aa
 eul_aid: otc
-canonical: "https://eulogikon.org/grc/dictys-cretensis/testimonies"
+canonical: "https://eulogikon.org/works/dictys-cretensis-testimonies-otc-aa"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dictys Cretensis
 
-**eul_wid:** `otc-aa` · [HTML page](https://eulogikon.org/grc/dictys-cretensis/testimonies)
+**eul_wid:** `otc-aa` · [HTML page](https://eulogikon.org/works/dictys-cretensis-testimonies-otc-aa)
 
 ## Text
 

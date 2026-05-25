@@ -4,7 +4,7 @@ title_greek: Ἑκάβη
 author: Euripides
 eul_wid: cbm-ba
 eul_aid: cbm
-canonical: "https://eulogikon.org/grc/euripides/hecuba"
+canonical: "https://eulogikon.org/works/euripides-hecuba-cbm-ba"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euripides
 
-**eul_wid:** `cbm-ba` · [HTML page](https://eulogikon.org/grc/euripides/hecuba)
+**eul_wid:** `cbm-ba` · [HTML page](https://eulogikon.org/works/euripides-hecuba-cbm-ba)
 
 ## Text
 
@@ -312,7 +312,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 77.1
 
-†εἶδον γὰρ φοβερὰν ὄψιν ἔμαθον ἐδάην†].
+εἶδον γὰρ φοβερὰν ὄψιν ἔμαθον ἐδάην].
 
 ### 77.2
 
@@ -664,11 +664,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 170.4
 
-†δυστανοτάτας ματέρος, ἔξελθ’
+δυστανοτάτας ματέρος, ἔξελθ’
 
 ### 170.5
 
-ἔξελθ’ οἴκων, ἄιε ματέρος αὐδάν.†
+ἔξελθ’ οἴκων, ἄιε ματέρος αὐδάν.
 
 ### 175.1
 
@@ -772,11 +772,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 195.5
 
-οἵαν οἵαν αὖ σοι λώβαν †ἐχθίσταν ἀρρήταν τ’
+οἵαν οἵαν αὖ σοι λώβαν ἐχθίσταν ἀρρήταν τ’
 
 ### 195.6
 
-ὦρσέν τις δαίμων†. οὐκέτι σοι παῖς ἅδ’ οὐκέτι δὴ
+ὦρσέν τις δαίμων. οὐκέτι σοι παῖς ἅδ’ οὐκέτι δὴ
 
 ### 195.7
 
@@ -916,7 +916,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 235.2
 
-ἐξιστορῆσαι, †σοὶ μὲν εἰρῆσθαι† χρεών,
+ἐξιστορῆσαι, σοὶ μὲν εἰρῆσθαι χρεών,
 
 ### 235.3
 
@@ -2060,7 +2060,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 540.1
 
-νεῶν δὸς ἡμῖν †πρευμενοῦς† τ’ ἀπ’ Ἰλίου
+νεῶν δὸς ἡμῖν πρευμενοῦς τ’ ἀπ’ Ἰλίου
 
 ### 540.2
 
@@ -4748,7 +4748,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1270.1
 
-Εκ. θανοῦσα δ’ ἢ ζῶς’ ἐνθάδ’ ἐκπλήσω †βιον†;
+Εκ. θανοῦσα δ’ ἢ ζῶς’ ἐνθάδ’ ἐκπλήσω βιον;
 
 ### 1270.2
 

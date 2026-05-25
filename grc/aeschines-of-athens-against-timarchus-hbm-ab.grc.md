@@ -4,7 +4,7 @@ title_greek: Κατὰ Τιμάρχου
 author: Aeschines of Athens
 eul_wid: hbm-ab
 eul_aid: hbm
-canonical: "https://eulogikon.org/grc/aeschines-of-athens/against-timarchus"
+canonical: "https://eulogikon.org/works/aeschines-athens-against-timarchus-hbm-ab"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aeschines of Athens
 
-**eul_wid:** `hbm-ab` · [HTML page](https://eulogikon.org/grc/aeschines-of-athens/against-timarchus)
+**eul_wid:** `hbm-ab` · [HTML page](https://eulogikon.org/works/aeschines-athens-against-timarchus-hbm-ab)
 
 ## Text
 

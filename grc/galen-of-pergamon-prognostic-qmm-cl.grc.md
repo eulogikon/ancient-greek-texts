@@ -4,7 +4,7 @@ title_greek: Περὶ Ἱπποκράτους Προγνωστικοῦ
 author: Galen of Pergamon
 eul_wid: qmm-cl
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/prognostic"
+canonical: "https://eulogikon.org/works/galen-pergamon-prognostic-qmm-cl"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-cl` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/prognostic)
+**eul_wid:** `qmm-cl` · [HTML page](https://eulogikon.org/works/galen-pergamon-prognostic-qmm-cl)
 
 ## Text
 

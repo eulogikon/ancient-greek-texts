@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Πλεονεξίας καὶ Κτ
 author: Apollodorus of Gela
 eul_wid: hee-aa
 eul_aid: hee
-canonical: "https://eulogikon.org/grc/apollodorus-of-gela/greed-possessions"
+canonical: "https://eulogikon.org/works/apollodorus-gela-greed-possessions-hee-aa"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Apollodorus of Gela
 
-**eul_wid:** `hee-aa` · [HTML page](https://eulogikon.org/grc/apollodorus-of-gela/greed-possessions)
+**eul_wid:** `hee-aa` · [HTML page](https://eulogikon.org/works/apollodorus-gela-greed-possessions-hee-aa)
 
 ## Text
 

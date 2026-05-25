@@ -4,7 +4,7 @@ title_greek: Περὶ μέλαινας χολῆς
 author: Galen of Pergamon
 eul_wid: qmm-dv
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/black-bile"
+canonical: "https://eulogikon.org/works/galen-pergamon-black-bile-qmm-dv"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-dv` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/black-bile)
+**eul_wid:** `qmm-dv` · [HTML page](https://eulogikon.org/works/galen-pergamon-black-bile-qmm-dv)
 
 ## Text
 

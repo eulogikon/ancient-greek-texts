@@ -4,7 +4,7 @@ title_greek: Μαρτυρία
 author: Cercops the Orphic
 eul_wid: bay-aa
 eul_aid: bay
-canonical: "https://eulogikon.org/grc/cercops-the-orphic/testimony"
+canonical: "https://eulogikon.org/works/cercops-orphic-testimony-bay-aa"
 period: Archaic
 dialect: Epic (Homeric)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cercops the Orphic
 
-**eul_wid:** `bay-aa` · [HTML page](https://eulogikon.org/grc/cercops-the-orphic/testimony)
+**eul_wid:** `bay-aa` · [HTML page](https://eulogikon.org/works/cercops-orphic-testimony-bay-aa)
 
 ## Text
 

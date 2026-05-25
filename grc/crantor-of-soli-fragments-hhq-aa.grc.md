@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα καὶ Τίτλος
 author: Crantor of Soli
 eul_wid: hhq-aa
 eul_aid: hhq
-canonical: "https://eulogikon.org/grc/crantor-of-soli/fragments"
+canonical: "https://eulogikon.org/works/crantor-soli-fragments-hhq-aa"
 period: Classical
 dialect: "Attic (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Crantor of Soli
 
-**eul_wid:** `hhq-aa` · [HTML page](https://eulogikon.org/grc/crantor-of-soli/fragments)
+**eul_wid:** `hhq-aa` · [HTML page](https://eulogikon.org/works/crantor-soli-fragments-hhq-aa)
 
 ## Text
 

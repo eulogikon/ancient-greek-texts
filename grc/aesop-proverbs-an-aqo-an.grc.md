@@ -4,7 +4,7 @@ title_greek: Παροιμίαι
 author: Aesop the Fabulist
 eul_wid: aqo-an
 eul_aid: aqo
-canonical: "https://eulogikon.org/grc/aesop/proverbs-an"
+canonical: "https://eulogikon.org/works/aesop-proverbs-aqo-an"
 period: Archaic
 dialect: Mixed Dialects
 domain: Fiction
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aesop the Fabulist
 
-**eul_wid:** `aqo-an` · [HTML page](https://eulogikon.org/grc/aesop/proverbs-an)
+**eul_wid:** `aqo-an` · [HTML page](https://eulogikon.org/works/aesop-proverbs-aqo-an)
 
 ## Text
 
@@ -340,7 +340,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 82
 
-Ἀκρότητες ἰσότητες. Ἑρμηνεία. Πλοῦτος ὁ πολὺς καὶ πεν̣ί̣α̣ με〈γάλη〉 Ἀνάπαυσιν ἴσην φροντί〈δων ἔχουσι. 〉 Ἀπαντήσει σοι γρα〈ῦς .......... 〉α Ἑρμηνεία. Εἰς πτῶμα πεσεῖται κ〈αὶ ὁ σοφὸς ἀνὴ〉ρ Οὐ κωλύων τὰ ὦτα φληνάφων λόγων.
+Ἀκρότητες ἰσότητες. Ἑρμηνεία. Πλοῦτος ὁ πολὺς καὶ πενία με〈γάλη〉 Ἀνάπαυσιν ἴσην φροντί〈δων ἔχουσι. 〉 Ἀπαντήσει σοι γρα〈ῦς .......... 〉α Ἑρμηνεία. Εἰς πτῶμα πεσεῖται κ〈αὶ ὁ σοφὸς ἀνὴ〉ρ Οὐ κωλύων τὰ ὦτα φληνάφων λόγων.
 
 ### 83
 

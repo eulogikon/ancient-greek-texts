@@ -4,7 +4,7 @@ title_greek: Λέξεις βοτανῶν
 author: Medical Writer  Anonymous
 eul_wid: tqu-at
 eul_aid: tqu
-canonical: "https://eulogikon.org/grc/anonymous-medical-writer/plants"
+canonical: "https://eulogikon.org/works/med-writer-anon-plants-tqu-at"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Medical Writer  Anonymous
 
-**eul_wid:** `tqu-at` · [HTML page](https://eulogikon.org/grc/anonymous-medical-writer/plants)
+**eul_wid:** `tqu-at` · [HTML page](https://eulogikon.org/works/med-writer-anon-plants-tqu-at)
 
 ## Text
 

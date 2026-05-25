@@ -4,7 +4,7 @@ title_greek: "Ἀπόσπασμα περὶ τοῦ πλοίου Ἱέρωνος
 author: Archimelus the Epigrammatist
 eul_wid: knm-aa
 eul_aid: knm
-canonical: "https://eulogikon.org/grc/archimelus-the-epigrammatist/ship-hiero-ii"
+canonical: "https://eulogikon.org/works/archimelus-ship-hiero-ii-knm-aa"
 period: Hellenistic
 dialect: Koine
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Archimelus the Epigrammatist
 
-**eul_wid:** `knm-aa` · [HTML page](https://eulogikon.org/grc/archimelus-the-epigrammatist/ship-hiero-ii)
+**eul_wid:** `knm-aa` · [HTML page](https://eulogikon.org/works/archimelus-ship-hiero-ii-knm-aa)
 
 ## Text
 

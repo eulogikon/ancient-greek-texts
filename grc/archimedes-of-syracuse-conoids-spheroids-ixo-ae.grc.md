@@ -4,7 +4,7 @@ title_greek: Περὶ Κωνοειδῶν καὶ Σφαιροειδῶν
 author: Archimedes of Syracuse
 eul_wid: ixo-ae
 eul_aid: ixo
-canonical: "https://eulogikon.org/grc/archimedes-of-syracuse/conoids-spheroids"
+canonical: "https://eulogikon.org/works/archimedes-syracuse-conoids-spheroids-ixo-ae"
 period: Hellenistic
 dialect: Doric
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Archimedes of Syracuse
 
-**eul_wid:** `ixo-ae` · [HTML page](https://eulogikon.org/grc/archimedes-of-syracuse/conoids-spheroids)
+**eul_wid:** `ixo-ae` · [HTML page](https://eulogikon.org/works/archimedes-syracuse-conoids-spheroids-ixo-ae)
 
 ## Text
 

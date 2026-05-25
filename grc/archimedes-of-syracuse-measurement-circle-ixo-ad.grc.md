@@ -4,7 +4,7 @@ title_greek: Κύκλου Μέτρησις
 author: Archimedes of Syracuse
 eul_wid: ixo-ad
 eul_aid: ixo
-canonical: "https://eulogikon.org/grc/archimedes-of-syracuse/measurement-circle"
+canonical: "https://eulogikon.org/works/archimedes-syracuse-measurement-circle-ixo-ad"
 period: Hellenistic
 dialect: Doric
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Archimedes of Syracuse
 
-**eul_wid:** `ixo-ad` · [HTML page](https://eulogikon.org/grc/archimedes-of-syracuse/measurement-circle)
+**eul_wid:** `ixo-ad` · [HTML page](https://eulogikon.org/works/archimedes-syracuse-measurement-circle-ixo-ad)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Dionysius the Brazen
 eul_wid: cwg-aa
 eul_aid: cwg
-canonical: "https://eulogikon.org/grc/dionysius-the-brazen/sympotic-verses"
+canonical: "https://eulogikon.org/works/dionysius-brazen-sympotic-verses-cwg-aa"
 period: Classical
 dialect: Attic
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dionysius the Brazen
 
-**eul_wid:** `cwg-aa` · [HTML page](https://eulogikon.org/grc/dionysius-the-brazen/sympotic-verses)
+**eul_wid:** `cwg-aa` · [HTML page](https://eulogikon.org/works/dionysius-brazen-sympotic-verses-cwg-aa)
 
 ## Text
 

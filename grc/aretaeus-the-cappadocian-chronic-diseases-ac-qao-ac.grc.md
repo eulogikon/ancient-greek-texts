@@ -4,7 +4,7 @@ title_greek: Χρονίων νούσων θεραπευτικών
 author: Aretaeus the Cappadocian
 eul_wid: qao-ac
 eul_aid: qao
-canonical: "https://eulogikon.org/grc/aretaeus-the-cappadocian/chronic-diseases-ac"
+canonical: "https://eulogikon.org/works/aretaeus-cappadocian-chronic-diseases-qao-ac"
 period: Roman
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aretaeus the Cappadocian
 
-**eul_wid:** `qao-ac` · [HTML page](https://eulogikon.org/grc/aretaeus-the-cappadocian/chronic-diseases-ac)
+**eul_wid:** `qao-ac` · [HTML page](https://eulogikon.org/works/aretaeus-cappadocian-chronic-diseases-qao-ac)
 
 ## Text
 

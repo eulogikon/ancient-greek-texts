@@ -4,7 +4,7 @@ title_greek: Περί χρωμάτων
 author: Aristotle
 eul_wid: hgw-bv
 eul_aid: hgw
-canonical: "https://eulogikon.org/grc/aristotle/colors"
+canonical: "https://eulogikon.org/works/aristotle-colors-hgw-bv"
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristotle
 
-**eul_wid:** `hgw-bv` · [HTML page](https://eulogikon.org/grc/aristotle/colors)
+**eul_wid:** `hgw-bv` · [HTML page](https://eulogikon.org/works/aristotle-colors-hgw-bv)
 
 ## Text
 

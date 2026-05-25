@@ -4,7 +4,7 @@ title_greek: Προγυμνάσματα
 author: Aphthonius of Antioch
 eul_wid: txi-aa
 eul_aid: txi
-canonical: "https://eulogikon.org/grc/aphthonius-of-antioch/preliminary-exercises"
+canonical: "https://eulogikon.org/works/aphthonius-antioch-preliminary-exercises-txi-aa"
 period: Late Antique
 dialect: Atticizing Technical
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aphthonius of Antioch
 
-**eul_wid:** `txi-aa` · [HTML page](https://eulogikon.org/grc/aphthonius-of-antioch/preliminary-exercises)
+**eul_wid:** `txi-aa` · [HTML page](https://eulogikon.org/works/aphthonius-antioch-preliminary-exercises-txi-aa)
 
 ## Text
 

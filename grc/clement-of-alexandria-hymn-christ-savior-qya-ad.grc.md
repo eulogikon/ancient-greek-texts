@@ -4,7 +4,7 @@ title_greek: Ὕμνος Χριστοῦ τοῦ Σωτῆρος
 author: Clement of Alexandria
 eul_wid: qya-ad
 eul_aid: qya
-canonical: "https://eulogikon.org/grc/clement-of-alexandria/hymn-christ-savior"
+canonical: "https://eulogikon.org/works/clement-alexandria-hymn-christ-savior-qya-ad"
 period: Roman
 dialect: Christian Koine
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Clement of Alexandria
 
-**eul_wid:** `qya-ad` · [HTML page](https://eulogikon.org/grc/clement-of-alexandria/hymn-christ-savior)
+**eul_wid:** `qya-ad` · [HTML page](https://eulogikon.org/works/clement-alexandria-hymn-christ-savior-qya-ad)
 
 ## Text
 

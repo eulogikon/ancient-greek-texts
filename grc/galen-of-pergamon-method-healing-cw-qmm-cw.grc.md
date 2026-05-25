@@ -4,7 +4,7 @@ title_greek: Περὶ τῆς μεθόδου θεραπείας
 author: Galen of Pergamon
 eul_wid: qmm-cw
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/method-healing-cw"
+canonical: "https://eulogikon.org/works/galen-pergamon-method-healing-qmm-cw"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-cw` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/method-healing-cw)
+**eul_wid:** `qmm-cw` · [HTML page](https://eulogikon.org/works/galen-pergamon-method-healing-qmm-cw)
 
 ## Text
 

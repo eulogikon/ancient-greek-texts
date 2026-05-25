@@ -4,7 +4,7 @@ title_greek: πρὸς τὴν Λάκριτον παραγραφὴν
 author: Demosthenes of Athens
 eul_wid: fsm-bc
 eul_aid: fsm
-canonical: "https://eulogikon.org/grc/demosthenes-of-athens/counterplea"
+canonical: "https://eulogikon.org/works/demosthenes-athens-counterplea-fsm-bc"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demosthenes of Athens
 
-**eul_wid:** `fsm-bc` · [HTML page](https://eulogikon.org/grc/demosthenes-of-athens/counterplea)
+**eul_wid:** `fsm-bc` · [HTML page](https://eulogikon.org/works/demosthenes-athens-counterplea-fsm-bc)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Σοφίας
 author: Crito of Argos
 eul_wid: lmc-aa
 eul_aid: lmc
-canonical: "https://eulogikon.org/grc/crito-of-argos/wisdom-fragments"
+canonical: "https://eulogikon.org/works/crito-argos-wisdom-fragments-lmc-aa"
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Crito of Argos
 
-**eul_wid:** `lmc-aa` · [HTML page](https://eulogikon.org/grc/crito-of-argos/wisdom-fragments)
+**eul_wid:** `lmc-aa` · [HTML page](https://eulogikon.org/works/crito-argos-wisdom-fragments-lmc-aa)
 
 ## Text
 

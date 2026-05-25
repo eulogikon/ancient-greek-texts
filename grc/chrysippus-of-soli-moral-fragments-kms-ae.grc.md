@@ -4,7 +4,7 @@ title_greek: Ἠθικὰ Ἀποσπάσματα
 author: Chrysippus of Soli
 eul_wid: kms-ae
 eul_aid: kms
-canonical: "https://eulogikon.org/grc/chrysippus-of-soli/moral-fragments"
+canonical: "https://eulogikon.org/works/chrysippus-soli-moral-fragments-kms-ae"
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Chrysippus of Soli
 
-**eul_wid:** `kms-ae` · [HTML page](https://eulogikon.org/grc/chrysippus-of-soli/moral-fragments)
+**eul_wid:** `kms-ae` · [HTML page](https://eulogikon.org/works/chrysippus-soli-moral-fragments-kms-ae)
 
 ## Text
 
@@ -2040,7 +2040,7 @@ Catius Epicureus fuit, qui scripsit quattuor libros de rerum natura et de summo 
 
 *Philodemus περὶ ὀργῆς Col. I (p. 17 Gomp.).*
 
-εἰ μὲν οὖν ἐπετίμα τοῖς ψέγουσι μόνον, ἄλλο δὲ μηδὲ ἓν ποιοῦσιν ἢ † βα .. λως † Βίων ἐν τῷ περὶ τῆς ὀργῆς καὶ Χρύσιππος ἐν τ (ῶ )ι πε ( ρ ὶ ) παθῶν ( θ ε )ρ (α )πευ ( τ ι )κ ῷ, κἂν μετρίως ἵστατο.
+εἰ μὲν οὖν ἐπετίμα τοῖς ψέγουσι μόνον, ἄλλο δὲ μηδὲ ἓν ποιοῦσιν ἢ βα .. λως Βίων ἐν τῷ περὶ τῆς ὀργῆς καὶ Χρύσιππος ἐν τ (ῶ )ι πε ( ρ ὶ ) παθῶν ( θ ε )ρ (α )πευ ( τ ι )κ ῷ, κἂν μετρίως ἵστατο.
 
 ### 471
 

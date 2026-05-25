@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Βίου Ἀγροικοῦ
 author: Eupolis Atheniensis
 eul_wid: dum-aa
 eul_aid: dum
-canonical: "https://eulogikon.org/grc/eupolis-of-athens/comic-rural-life"
+canonical: "https://eulogikon.org/works/eupolis-athens-comic-rural-life-dum-aa"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Eupolis Atheniensis
 
-**eul_wid:** `dum-aa` · [HTML page](https://eulogikon.org/grc/eupolis-of-athens/comic-rural-life)
+**eul_wid:** `dum-aa` · [HTML page](https://eulogikon.org/works/eupolis-athens-comic-rural-life-dum-aa)
 
 ## Text
 

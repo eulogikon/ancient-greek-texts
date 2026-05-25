@@ -4,7 +4,7 @@ title_greek: Ποικίλη ἱστορία
 author: Aelian of Praeneste
 eul_wid: ria-ac
 eul_aid: ria
-canonical: "https://eulogikon.org/grc/aelian-of-praeneste/varied-history"
+canonical: "https://eulogikon.org/works/aelian-praeneste-varied-history-ria-ac"
 period: Roman
 dialect: Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aelian of Praeneste
 
-**eul_wid:** `ria-ac` · [HTML page](https://eulogikon.org/grc/aelian-of-praeneste/varied-history)
+**eul_wid:** `ria-ac` · [HTML page](https://eulogikon.org/works/aelian-praeneste-varied-history-ria-ac)
 
 ## Text
 

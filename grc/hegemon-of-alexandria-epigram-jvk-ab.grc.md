@@ -4,7 +4,7 @@ title_greek: Ἐπίγραμμα
 author: "Hegemon of Alexandria "
 eul_wid: jvk-ab
 eul_aid: jvk
-canonical: "https://eulogikon.org/grc/hegemon-of-alexandria/epigram"
+canonical: "https://eulogikon.org/works/hegemon-alexandria-epigram-jvk-ab"
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hegemon of Alexandria 
 
-**eul_wid:** `jvk-ab` · [HTML page](https://eulogikon.org/grc/hegemon-of-alexandria/epigram)
+**eul_wid:** `jvk-ab` · [HTML page](https://eulogikon.org/works/hegemon-alexandria-epigram-jvk-ab)
 
 ## Text
 

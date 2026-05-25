@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Κυζίκου
 author: Deiochus the Historian
 eul_wid: epq-aa
 eul_aid: epq
-canonical: "https://eulogikon.org/grc/deiochus-the-historian/cyzicus-fragments"
+canonical: "https://eulogikon.org/works/deiochus-cyzicus-fragments-epq-aa"
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Deiochus the Historian
 
-**eul_wid:** `epq-aa` · [HTML page](https://eulogikon.org/grc/deiochus-the-historian/cyzicus-fragments)
+**eul_wid:** `epq-aa` · [HTML page](https://eulogikon.org/works/deiochus-cyzicus-fragments-epq-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Δαιτὸς Λιχνείας
 author: Dioxippus the Comic Poet
 eul_wid: hrq-aa
 eul_aid: hrq
-canonical: "https://eulogikon.org/grc/dioxippus-the-comic-poet/gourmet-feasting"
+canonical: "https://eulogikon.org/works/dioxippus-gourmet-feasting-hrq-aa"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dioxippus the Comic Poet
 
-**eul_wid:** `hrq-aa` · [HTML page](https://eulogikon.org/grc/dioxippus-the-comic-poet/gourmet-feasting)
+**eul_wid:** `hrq-aa` · [HTML page](https://eulogikon.org/works/dioxippus-gourmet-feasting-hrq-aa)
 
 ## Text
 

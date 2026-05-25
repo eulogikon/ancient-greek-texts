@@ -4,7 +4,7 @@ title_greek: Περὶ Νεότητος καὶ Γήρως
 author: Aristotle
 eul_wid: hgw-ab
 eul_aid: hgw
-canonical: "https://eulogikon.org/grc/aristotle/youth-old-age-life-death"
+canonical: "https://eulogikon.org/works/aristotle-youth-old-age-life-death-hgw-ab"
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristotle
 
-**eul_wid:** `hgw-ab` · [HTML page](https://eulogikon.org/grc/aristotle/youth-old-age-life-death)
+**eul_wid:** `hgw-ab` · [HTML page](https://eulogikon.org/works/aristotle-youth-old-age-life-death-hgw-ab)
 
 ## Text
 

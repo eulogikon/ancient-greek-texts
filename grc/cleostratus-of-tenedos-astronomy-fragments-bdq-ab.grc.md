@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἀστρονομίας
 author: Cleostratus of Tenedos
 eul_wid: bdq-ab
 eul_aid: bdq
-canonical: "https://eulogikon.org/grc/cleostratus-of-tenedos/astronomy-fragments"
+canonical: "https://eulogikon.org/works/cleostratus-tenedos-astronomy-fragments-bdq-ab"
 period: Archaic
 dialect: Aeolic (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cleostratus of Tenedos
 
-**eul_wid:** `bdq-ab` · [HTML page](https://eulogikon.org/grc/cleostratus-of-tenedos/astronomy-fragments)
+**eul_wid:** `bdq-ab` · [HTML page](https://eulogikon.org/works/cleostratus-tenedos-astronomy-fragments-bdq-ab)
 
 ## Text
 

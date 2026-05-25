@@ -4,7 +4,7 @@ title_greek: Περὶ συντάξεως
 author: "Apollonius Grammarian "
 eul_wid: pka-ad
 eul_aid: pka
-canonical: "https://eulogikon.org/grc/apollonius-grammarian/syntax"
+canonical: "https://eulogikon.org/works/apollonius-grammarian-syntax-pka-ad"
 period: Roman
 dialect: Atticizing Technical
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Apollonius Grammarian 
 
-**eul_wid:** `pka-ad` · [HTML page](https://eulogikon.org/grc/apollonius-grammarian/syntax)
+**eul_wid:** `pka-ad` · [HTML page](https://eulogikon.org/works/apollonius-grammarian-syntax-pka-ad)
 
 ## Text
 

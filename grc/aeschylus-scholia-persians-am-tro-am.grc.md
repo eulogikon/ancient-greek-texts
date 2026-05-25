@@ -4,7 +4,7 @@ title_greek: Σχόλια εἰς Πέρσας
 author: Aeschylus Scholia
 eul_wid: tro-am
 eul_aid: tro
-canonical: "https://eulogikon.org/grc/aeschylus-scholia/persians-am"
+canonical: "https://eulogikon.org/works/aeschylus-scholia-persians-tro-am"
 period: Late Antique
 dialect: Byzantine Greek
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aeschylus Scholia
 
-**eul_wid:** `tro-am` · [HTML page](https://eulogikon.org/grc/aeschylus-scholia/persians-am)
+**eul_wid:** `tro-am` · [HTML page](https://eulogikon.org/works/aeschylus-scholia-persians-tro-am)
 
 ## Text
 

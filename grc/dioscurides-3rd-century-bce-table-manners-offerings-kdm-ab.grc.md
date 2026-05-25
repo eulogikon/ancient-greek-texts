@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Dioscurides of the 3rd c. BCE
 eul_wid: kdm-ab
 eul_aid: kdm
-canonical: "https://eulogikon.org/grc/dioscurides-3rd-century-bce/table-manners-offerings"
+canonical: "https://eulogikon.org/works/dioscurides-3rd-bce-table-manners-offerings-kdm-ab"
 period: Hellenistic
 dialect: Mixed Dialects
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dioscurides of the 3rd c. BCE
 
-**eul_wid:** `kdm-ab` · [HTML page](https://eulogikon.org/grc/dioscurides-3rd-century-bce/table-manners-offerings)
+**eul_wid:** `kdm-ab` · [HTML page](https://eulogikon.org/works/dioscurides-3rd-bce-table-manners-offerings-kdm-ab)
 
 ## Text
 

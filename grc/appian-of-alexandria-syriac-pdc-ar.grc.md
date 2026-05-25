@@ -4,7 +4,7 @@ title_greek: Συριακή
 author: Appian of Alexandria
 eul_wid: pdc-ar
 eul_aid: pdc
-canonical: "https://eulogikon.org/grc/appian-of-alexandria/syriac"
+canonical: "https://eulogikon.org/works/appian-alexandria-syriac-pdc-ar"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Appian of Alexandria
 
-**eul_wid:** `pdc-ar` · [HTML page](https://eulogikon.org/grc/appian-of-alexandria/syriac)
+**eul_wid:** `pdc-ar` · [HTML page](https://eulogikon.org/works/appian-alexandria-syriac-pdc-ar)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ βαρβαρισμοῦ καὶ σολοικισμοῦ
 author: Barbarism and Solecism Treatise
 eul_wid: vsq-ab
 eul_aid: vsq
-canonical: "https://eulogikon.org/grc/barbarism-and-solecism-anonymous/text-ab"
+canonical: "https://eulogikon.org/works/barbarism-solecism-text-vsq-ab"
 period: Late Antique
 dialect: Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Barbarism and Solecism Treatise
 
-**eul_wid:** `vsq-ab` · [HTML page](https://eulogikon.org/grc/barbarism-and-solecism-anonymous/text-ab)
+**eul_wid:** `vsq-ab` · [HTML page](https://eulogikon.org/works/barbarism-solecism-text-vsq-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα καὶ Τίτλοι
 author: Aeschrion of Samos
 eul_wid: hvc-aa
 eul_aid: hvc
-canonical: "https://eulogikon.org/grc/aeschrion-of-samos/fragments"
+canonical: "https://eulogikon.org/works/aeschrion-samos-fragments-hvc-aa"
 period: Hellenistic
 dialect: "Ionic (ia, frg)"
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aeschrion of Samos
 
-**eul_wid:** `hvc-aa` · [HTML page](https://eulogikon.org/grc/aeschrion-of-samos/fragments)
+**eul_wid:** `hvc-aa` · [HTML page](https://eulogikon.org/works/aeschrion-samos-fragments-hvc-aa)
 
 ## Text
 

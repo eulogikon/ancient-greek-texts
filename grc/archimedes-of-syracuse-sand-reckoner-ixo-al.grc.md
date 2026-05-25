@@ -4,7 +4,7 @@ title_greek: Ψαμμίτης
 author: Archimedes of Syracuse
 eul_wid: ixo-al
 eul_aid: ixo
-canonical: "https://eulogikon.org/grc/archimedes-of-syracuse/sand-reckoner"
+canonical: "https://eulogikon.org/works/archimedes-syracuse-sand-reckoner-ixo-al"
 period: Hellenistic
 dialect: Doric
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Archimedes of Syracuse
 
-**eul_wid:** `ixo-al` · [HTML page](https://eulogikon.org/grc/archimedes-of-syracuse/sand-reckoner)
+**eul_wid:** `ixo-al` · [HTML page](https://eulogikon.org/works/archimedes-syracuse-sand-reckoner-ixo-al)
 
 ## Text
 

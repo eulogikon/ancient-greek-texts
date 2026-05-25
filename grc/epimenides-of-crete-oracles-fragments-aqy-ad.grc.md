@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Epimenides of Crete
 eul_wid: aqy-ad
 eul_aid: aqy
-canonical: "https://eulogikon.org/grc/epimenides-of-crete/oracles-fragments"
+canonical: "https://eulogikon.org/works/epimenides-crete-oracles-fragments-aqy-ad"
 period: Archaic
 dialect: Epic (Homeric)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Epimenides of Crete
 
-**eul_wid:** `aqy-ad` · [HTML page](https://eulogikon.org/grc/epimenides-of-crete/oracles-fragments)
+**eul_wid:** `aqy-ad` · [HTML page](https://eulogikon.org/works/epimenides-crete-oracles-fragments-aqy-ad)
 
 ## Text
 

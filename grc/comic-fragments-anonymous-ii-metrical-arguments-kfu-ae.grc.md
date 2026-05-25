@@ -4,7 +4,7 @@ title_greek: Μετρικοὶ Ἀγῶνες
 author: Comic Fragments Anonymous II
 eul_wid: kfu-ae
 eul_aid: kfu
-canonical: "https://eulogikon.org/grc/comic-fragments-anonymous-ii/metrical-arguments"
+canonical: "https://eulogikon.org/works/anon-comic-fragments-ii-metrical-arguments-kfu-ae"
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Comic Fragments Anonymous II
 
-**eul_wid:** `kfu-ae` · [HTML page](https://eulogikon.org/grc/comic-fragments-anonymous-ii/metrical-arguments)
+**eul_wid:** `kfu-ae` · [HTML page](https://eulogikon.org/works/anon-comic-fragments-ii-metrical-arguments-kfu-ae)
 
 ## Text
 
@@ -44,7 +44,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 339b.1
 
-ἱερὸc ὁ δῆμοc· ἡ λέγουc’ ἐγὼ Κύπ[ρ]ιc ἐν τῶι τόπωι δὴ τῶιδε δι’ ἐμοῦ π[ρᾶγμά τι γεγονόc, δι’ ἧc ἅπαντα γίνεται κα[λ]ά̣, ἥκω
+ἱερὸc ὁ δῆμοc· ἡ λέγουc’ ἐγὼ Κύπ[ρ]ιc ἐν τῶι τόπωι δὴ τῶιδε δι’ ἐμοῦ π[ρᾶγμά τι γεγονόc, δι’ ἧc ἅπαντα γίνεται κα[λ]ά, ἥκω
 
 ### book 339b.2
 
@@ -56,11 +56,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 339b.4
 
-χρηcόμεθα. τῶν ἐπῶγ γὰρ ὧμ μέλλ[ο]μ̣[ε]ν̣ [ἐρεῖν, ἕκαcτον ἀπὸ τῶγ γραμμάτων ῥη̣[θήcεται, ἃ δὴ νόμωι cτοιχεῖα
+χρηcόμεθα. τῶν ἐπῶγ γὰρ ὧμ μέλλ[ο]μ[ε]ν [ἐρεῖν, ἕκαcτον ἀπὸ τῶγ γραμμάτων ῥη[θήcεται, ἃ δὴ νόμωι cτοιχεῖα
 
 ### book 339b.5
 
-προcαγορεύομ[ε]ν,[ln_10]ἓν ἀφ’ ἑνὸ[c ἑ]ξῆc κατὰ φύc[ι]γ γεγρα[μ]μ[ένα ἀκόλουθα καὶ cύμφωνα· [δι]ατρ[ι]βὴν δ[ὲ μὴ ἔχωμεν, ἀπὸ τοῦ δ’ ἄλφα [πρ]ῶ[το]ν [ἄ[ρ]ξο[μαι. ‵—′Αὐτῶν ἑταῖροι φ.cτ[]δ[ Β...]τη̣ν[. μ]ιcθωcάμεν[ο]ι[[ln_15]Γ...]..[.... ]ἠκουc[.]τ[ Δ............]η..[ Ε κτλ.][ln_17]— — —
+προcαγορεύομ[ε]ν,[ln_10]ἓν ἀφ’ ἑνὸ[c ἑ]ξῆc κατὰ φύc[ι]γ γεγρα[μ]μ[ένα ἀκόλουθα καὶ cύμφωνα· [δι]ατρ[ι]βὴν δ[ὲ μὴ ἔχωμεν, ἀπὸ τοῦ δ’ ἄλφα [πρ]ῶ[το]ν [ἄ[ρ]ξο[μαι. ‵—′Αὐτῶν ἑταῖροι φ.cτ[]δ[ Β...]την[. μ]ιcθωcάμεν[ο]ι[[ln_15]Γ...]..[.... ]ἠκουc[.]τ[ Δ............]η..[ Ε κτλ.][ln_17]— — —
 
 ## License and provenance
 

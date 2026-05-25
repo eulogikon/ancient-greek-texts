@@ -4,7 +4,7 @@ title_greek: Περὶ Φιλήβου
 author: Damascius of Damascus
 eul_wid: uyg-ae
 eul_aid: uyg
-canonical: "https://eulogikon.org/grc/damascius-of-damascus/philebus"
+canonical: "https://eulogikon.org/works/damascius-damascus-philebus-uyg-ae"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Damascius of Damascus
 
-**eul_wid:** `uyg-ae` · [HTML page](https://eulogikon.org/grc/damascius-of-damascus/philebus)
+**eul_wid:** `uyg-ae` · [HTML page](https://eulogikon.org/works/damascius-damascus-philebus-uyg-ae)
 
 ## Text
 
@@ -466,7 +466,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 111
 
-Πῶς ἀριθμὸς καὶ †οὐσία† πέρατα; ἔνεστι γὰρ καὶ τούτοις ἀπειρία· καὶ τὸ μᾶλλον καὶ ἧττον ἔχει τι πέρας, ὅτι τὸ μὲν μᾶλλον, τὸ δὲ ἧττον. ἢ πανταχοῦ μὲν ἑκάτερον, διαφαίνεται δὲ τὸ μὲν ἐν ἄλλοις, τὸ δὲ ἐν ἄλλοις· οὕτω γοῦν καὶ ἐν τοῖς νοητοῖς ἀμφότερα. ριʹ.
+Πῶς ἀριθμὸς καὶ οὐσία πέρατα; ἔνεστι γὰρ καὶ τούτοις ἀπειρία· καὶ τὸ μᾶλλον καὶ ἧττον ἔχει τι πέρας, ὅτι τὸ μὲν μᾶλλον, τὸ δὲ ἧττον. ἢ πανταχοῦ μὲν ἑκάτερον, διαφαίνεται δὲ τὸ μὲν ἐν ἄλλοις, τὸ δὲ ἐν ἄλλοις· οὕτω γοῦν καὶ ἐν τοῖς νοητοῖς ἀμφότερα. ριʹ.
 
 ### 112
 
@@ -746,7 +746,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 181
 
-Διὰ τί ‘ἀεὶ γέμομεν ἐλπίδων‘; ἢ ὅτι μεστοί ἐσμεν τοῦ ἐνδεχομένου. Ἢ τὸ ἀληθέστερον, ἐπειδὴ τοῦ ἀγαθοῦ ἀπεσπάσθημεν ἐν τῷ πολλῷ μερισμῷ, ἵνα ἐχώμεθά πως αὐτοῦ τῇ ἐλπίδι καὶ μὴ τελέως ἀποπέσωμεν ἀπὸ μόνης αὐτοῦ τῆς ἐλπίδος †ἀποστρεφόμενοι†. ροθʹ.
+Διὰ τί ‘ἀεὶ γέμομεν ἐλπίδων‘; ἢ ὅτι μεστοί ἐσμεν τοῦ ἐνδεχομένου. Ἢ τὸ ἀληθέστερον, ἐπειδὴ τοῦ ἀγαθοῦ ἀπεσπάσθημεν ἐν τῷ πολλῷ μερισμῷ, ἵνα ἐχώμεθά πως αὐτοῦ τῇ ἐλπίδι καὶ μὴ τελέως ἀποπέσωμεν ἀπὸ μόνης αὐτοῦ τῆς ἐλπίδος ἀποστρεφόμενοι. ροθʹ.
 
 ### 182
 

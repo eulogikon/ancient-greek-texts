@@ -4,7 +4,7 @@ title_greek: Κατάλογος Μύθων
 author: Aeschylus Scholia
 eul_wid: tro-ak
 eul_aid: tro
-canonical: "https://eulogikon.org/grc/aeschylus-scholia/catalogue-fables"
+canonical: "https://eulogikon.org/works/aeschylus-scholia-catalogue-fables-tro-ak"
 period: Late Antique
 dialect: Byzantine Greek
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aeschylus Scholia
 
-**eul_wid:** `tro-ak` · [HTML page](https://eulogikon.org/grc/aeschylus-scholia/catalogue-fables)
+**eul_wid:** `tro-ak` · [HTML page](https://eulogikon.org/works/aeschylus-scholia-catalogue-fables-tro-ak)
 
 ## Text
 

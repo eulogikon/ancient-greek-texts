@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ξένων Ἱερῶν
 author: Diogenes of Athens
 eul_wid: cjy-aa
 eul_aid: cjy
-canonical: "https://eulogikon.org/grc/diogenes-of-athens/foreign-rites"
+canonical: "https://eulogikon.org/works/diogenes-athens-foreign-rites-cjy-aa"
 period: Classical
 dialect: "Attic (dr, frg)"
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Diogenes of Athens
 
-**eul_wid:** `cjy-aa` · [HTML page](https://eulogikon.org/grc/diogenes-of-athens/foreign-rites)
+**eul_wid:** `cjy-aa` · [HTML page](https://eulogikon.org/works/diogenes-athens-foreign-rites-cjy-aa)
 
 ## Text
 

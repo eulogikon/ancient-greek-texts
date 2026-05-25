@@ -4,7 +4,7 @@ title_greek: Ἐξ ἑτέρων σχολίων εἰσαγωγή
 author: "Aratus Lives "
 eul_wid: iru-ae
 eul_aid: iru
-canonical: "https://eulogikon.org/grc/aratus-lives/commentaries-introduction"
+canonical: "https://eulogikon.org/works/aratus-commentaries-introduction-iru-ae"
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aratus Lives 
 
-**eul_wid:** `iru-ae` · [HTML page](https://eulogikon.org/grc/aratus-lives/commentaries-introduction)
+**eul_wid:** `iru-ae` · [HTML page](https://eulogikon.org/works/aratus-commentaries-introduction-iru-ae)
 
 ## Text
 

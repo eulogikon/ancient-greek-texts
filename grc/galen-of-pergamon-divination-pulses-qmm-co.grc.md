@@ -4,7 +4,7 @@ title_greek: Περὶ τῆς μαντικῆς ἐκ τῶν σφυγμῶν
 author: Galen of Pergamon
 eul_wid: qmm-co
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/divination-pulses"
+canonical: "https://eulogikon.org/works/galen-pergamon-divination-pulses-qmm-co"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-co` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/divination-pulses)
+**eul_wid:** `qmm-co` · [HTML page](https://eulogikon.org/works/galen-pergamon-divination-pulses-qmm-co)
 
 ## Text
 

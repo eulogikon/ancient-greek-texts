@@ -4,7 +4,7 @@ title_greek: Ἠλέκτρα
 author: Euripides
 eul_wid: cbm-ax
 eul_aid: cbm
-canonical: "https://eulogikon.org/grc/euripides/electra"
+canonical: "https://eulogikon.org/works/euripides-electra-cbm-ax"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euripides
 
-**eul_wid:** `cbm-ax` · [HTML page](https://eulogikon.org/grc/euripides/electra)
+**eul_wid:** `cbm-ax` · [HTML page](https://eulogikon.org/works/euripides-electra-cbm-ax)
 
 ## Text
 
@@ -28,7 +28,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1.1
 
-Ὦ γῆς †παλαιὸν Ἄργος†, Ἰνάχου ῥοαί,
+Ὦ γῆς παλαιὸν Ἄργος, Ἰνάχου ῥοαί,
 
 ### 1.2
 
@@ -576,11 +576,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 140.4
 
-†ἰαχὰν ἀοιδὰν μέλος
+ἰαχὰν ἀοιδὰν μέλος
 
 ### 143.1
 
-Ἀίδα, πάτερ, σοὶ†
+Ἀίδα, πάτερ, σοὶ
 
 ### 143.2
 
@@ -648,11 +648,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 160.2
 
-σᾶς, πάτερ, πικρᾶς δ’ †ἐκ
+σᾶς, πάτερ, πικρᾶς δ’ ἐκ
 
 ### 161.1
 
-Τροίας ὅδου βουλᾶς†.
+Τροίας ὅδου βουλᾶς.
 
 ### 161.2
 
@@ -1092,7 +1092,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 275.3
 
-Ηλ. τολμῶν ὑπ’ ἐχθρῶν οἷ’ ἐτολμήθη †πατήρ†.
+Ηλ. τολμῶν ὑπ’ ἐχθρῶν οἷ’ ἐτολμήθη πατήρ.
 
 ### 275.4
 
@@ -1624,7 +1624,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 410.4
 
-κέλευε δ’ †αὐτὸν τόνδ’ ἐς δόμους ἀφιγμένον†
+κέλευε δ’ αὐτὸν τόνδ’ ἐς δόμους ἀφιγμένον
 
 ### 410.5
 
@@ -1760,7 +1760,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 445.4
 
-†κόρας μάτευσ’† ἔνθα πατὴρ
+κόρας μάτευσ’ ἔνθα πατὴρ
 
 ### 445.5
 
@@ -1788,11 +1788,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 455.2
 
-τοιάδε σήματα †δείματα
+τοιάδε σήματα δείματα
 
 ### 455.3
 
-Φρύγια† τετύχθαι·
+Φρύγια τετύχθαι·
 
 ### 455.4
 
@@ -1828,11 +1828,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 465.3
 
-Πλειάδες Ὑάδες, †Ἕκτορος
+Πλειάδες Ὑάδες, Ἕκτορος
 
 ### 465.4
 
-ὄμμασι† τροπαῖοι·
+ὄμμασι τροπαῖοι·
 
 ### 470.1
 
@@ -2124,7 +2124,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 545.2
 
-†ἐκείρατ’ ἢ τῆσδε σκοποὺς λαβὼν χθονός†. Πρ. οἱ δὲ ξένοι ποῦ; βούλομαι γὰρ εἰσιδὼν
+ἐκείρατ’ ἢ τῆσδε σκοποὺς λαβὼν χθονός. Πρ. οἱ δὲ ξένοι ποῦ; βούλομαι γὰρ εἰσιδὼν
 
 ### 545.3
 
@@ -2552,7 +2552,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 655.3
 
-Πρ. πόθεν; †τί δ’† αὐτῆι σοῦ μέλειν δοκεῖς, τέκνον;
+Πρ. πόθεν; τί δ’ αὐτῆι σοῦ μέλειν δοκεῖς, τέκνον;
 
 ### 655.4
 
@@ -2716,7 +2716,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 695.4
 
-Χο. ἀταλᾶς ὑπὸ †ματέρος Ἀργείων† ὀρέων ποτὲ κληδὼν
+Χο. ἀταλᾶς ὑπὸ ματέρος Ἀργείων ὀρέων ποτὲ κληδὼν
 
 ### 695.5
 
@@ -2760,11 +2760,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 710.2
 
-φάσματα †δείματα.
+φάσματα δείματα.
 
 ### 710.3
 
-χοροὶ δ’† Ἀτρειδῶν ἐγέραιρον οἴκους.
+χοροὶ δ’ Ἀτρειδῶν ἐγέραιρον οἴκους.
 
 ### 710.4
 
@@ -2792,7 +2792,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 715.5
 
-χρυσέας ἀρνὸς †ἐπίλογοι†
+χρυσέας ἀρνὸς ἐπίλογοι
 
 ### 720.1
 
@@ -3452,11 +3452,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 890.5
 
-Αἴγισθον· †ὡς δὲ τῶι σάφ’ εἰδέναι τάδε
+Αἴγισθον· ὡς δὲ τῶι σάφ’ εἰδέναι τάδε
 
 ### 895.1
 
-προσθῶμεν†, αὐτὸν τὸν θανόντα σοι φέρω,
+προσθῶμεν, αὐτὸν τὸν θανόντα σοι φέρω,
 
 ### 895.2
 
@@ -3796,7 +3796,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 980.5
 
-ὧι καὶ πόσιν καθεῖλεν †Αἴγισθον κτανών†;
+ὧι καὶ πόσιν καθεῖλεν Αἴγισθον κτανών;
 
 ### 985.1
 
@@ -3848,7 +3848,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 995.2
 
-τὰς σὰς δὲ τύχας θεραπεύεσθαι †καιρός, ὦ βασίλεια†.
+τὰς σὰς δὲ τύχας θεραπεύεσθαι καιρός, ὦ βασίλεια.
 
 ### 995.3
 
@@ -4092,7 +4092,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1055.5
 
-Κλ. †οὐκ ἔστι, τῆι σῆι δ’ ἡδὺ προσθήσω φρενί†.
+Κλ. οὐκ ἔστι, τῆι σῆι δ’ ἡδὺ προσθήσω φρενί.
 
 ### 1060.1
 
@@ -4476,7 +4476,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1155.5
 
-ξυθήκτωι †βέλους ἔκανεν† αὐτόχειρ,
+ξυθήκτωι βέλους ἔκανεν αὐτόχειρ,
 
 ### 1160.1
 
@@ -4564,7 +4564,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1180.1
 
-†χθονὶ κείμενα πλαγᾶι†
+χθονὶ κείμενα πλαγᾶι
 
 ### 1180.2
 
@@ -4592,11 +4592,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1185.1
 
-〈Χο.〉 ἰὼ τύχας †σᾶς τύχας
+〈Χο.〉 ἰὼ τύχας σᾶς τύχας
 
 ### 1185.2
 
-μᾶτερ τεκοῦσ’† ἄλαστα μέλεα καὶ πέρα
+μᾶτερ τεκοῦσ’ ἄλαστα μέλεα καὶ πέρα
 
 ### 1185.3
 

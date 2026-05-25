@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ὡροσκοπίων
 author: "Hero of Alexandria "
 eul_wid: odi-ab
 eul_aid: odi
-canonical: "https://eulogikon.org/grc/hero-of-alexandria/horoscopes"
+canonical: "https://eulogikon.org/works/hero-alexandria-horoscopes-odi-ab"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hero of Alexandria 
 
-**eul_wid:** `odi-ab` · [HTML page](https://eulogikon.org/grc/hero-of-alexandria/horoscopes)
+**eul_wid:** `odi-ab` · [HTML page](https://eulogikon.org/works/hero-alexandria-horoscopes-odi-ab)
 
 ## Text
 

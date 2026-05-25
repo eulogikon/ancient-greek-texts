@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Anaxippus the Comic Poet
 eul_wid: hvw-ab
 eul_aid: hvw
-canonical: "https://eulogikon.org/grc/anaxippus-the-comic-poet/cooks-art-and-death"
+canonical: "https://eulogikon.org/works/anaxippus-cooks-art-and-death-hvw-ab"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Anaxippus the Comic Poet
 
-**eul_wid:** `hvw-ab` · [HTML page](https://eulogikon.org/grc/anaxippus-the-comic-poet/cooks-art-and-death)
+**eul_wid:** `hvw-ab` · [HTML page](https://eulogikon.org/works/anaxippus-cooks-art-and-death-hvw-ab)
 
 ## Text
 

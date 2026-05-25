@@ -4,7 +4,7 @@ title_greek: Περὶ Παρθενίας
 author: Basil of Ancyra
 eul_wid: sha-aa
 eul_aid: sha
-canonical: "https://eulogikon.org/grc/basil-of-ancyra/virginity"
+canonical: "https://eulogikon.org/works/basil-ancyra-virginity-sha-aa"
 period: Late Antique
 dialect: Christian Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Basil of Ancyra
 
-**eul_wid:** `sha-aa` · [HTML page](https://eulogikon.org/grc/basil-of-ancyra/virginity)
+**eul_wid:** `sha-aa` · [HTML page](https://eulogikon.org/works/basil-ancyra-virginity-sha-aa)
 
 ## Text
 

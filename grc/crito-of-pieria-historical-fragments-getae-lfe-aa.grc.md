@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Γετῶν
 author: Crito of Pieria
 eul_wid: lfe-aa
 eul_aid: lfe
-canonical: "https://eulogikon.org/grc/crito-of-pieria/historical-fragments-getae"
+canonical: "https://eulogikon.org/works/crito-pieria-historical-fragments-getae-lfe-aa"
 period: Hellenistic
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Crito of Pieria
 
-**eul_wid:** `lfe-aa` · [HTML page](https://eulogikon.org/grc/crito-of-pieria/historical-fragments-getae)
+**eul_wid:** `lfe-aa` · [HTML page](https://eulogikon.org/works/crito-pieria-historical-fragments-getae-lfe-aa)
 
 ## Text
 

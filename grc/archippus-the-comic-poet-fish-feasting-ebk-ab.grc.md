@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἰχθύων καὶ Εὐωχί
 author: Archippus the Comic Poet
 eul_wid: ebk-ab
 eul_aid: ebk
-canonical: "https://eulogikon.org/grc/archippus-the-comic-poet/fish-feasting"
+canonical: "https://eulogikon.org/works/archippus-fish-feasting-ebk-ab"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Archippus the Comic Poet
 
-**eul_wid:** `ebk-ab` · [HTML page](https://eulogikon.org/grc/archippus-the-comic-poet/fish-feasting)
+**eul_wid:** `ebk-ab` · [HTML page](https://eulogikon.org/works/archippus-fish-feasting-ebk-ab)
 
 ## Text
 

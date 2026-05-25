@@ -4,7 +4,7 @@ title_greek: Χρησμοί
 author: Chaldean Oracular Poet Anonymous
 eul_wid: qpo-aa
 eul_aid: qpo
-canonical: "https://eulogikon.org/grc/chaldean-oracles/text"
+canonical: "https://eulogikon.org/works/chaldean-oracles-text-qpo-aa"
 period: Roman
 dialect: "Koine (phi, frg)"
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Chaldean Oracular Poet Anonymous
 
-**eul_wid:** `qpo-aa` · [HTML page](https://eulogikon.org/grc/chaldean-oracles/text)
+**eul_wid:** `qpo-aa` · [HTML page](https://eulogikon.org/works/chaldean-oracles-text-qpo-aa)
 
 ## Text
 
@@ -156,7 +156,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 32
 
-Ἐργάτις, ἐκδότις ἐστὶ πυρὸς ζωηφόρου 〈αὕτη〉, καὶ τὸν ζῳογόνον πληροῦς’ Ἑκάτης ⏑ ⏑ κόλπον ............... ἐπιρρεῖ τοῖς συνοχεῦσιν ἀλκὴν ζειδώροιο πυρὸς μέγα δυναμένοιο.
+Ἐργάτις, ἐκδότις ἐστὶ πυρὸς ζωηφόρου 〈αὕτη〉, καὶ τὸν ζῳογόνον πληροῦς’ Ἑκάτης κόλπον ............... ἐπιρρεῖ τοῖς συνοχεῦσιν ἀλκὴν ζειδώροιο πυρὸς μέγα δυναμένοιο.
 
 ### 33
 

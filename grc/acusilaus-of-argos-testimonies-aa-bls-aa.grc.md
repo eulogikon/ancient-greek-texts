@@ -4,7 +4,7 @@ title_greek: "Μαρτυρίαι Α'"
 author: Acusilaus of Argos
 eul_wid: bls-aa
 eul_aid: bls
-canonical: "https://eulogikon.org/grc/acusilaus-of-argos/testimonies-aa"
+canonical: "https://eulogikon.org/works/acusilaus-argos-testimonies-bls-aa"
 period: Archaic
 dialect: Ionic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Acusilaus of Argos
 
-**eul_wid:** `bls-aa` · [HTML page](https://eulogikon.org/grc/acusilaus-of-argos/testimonies-aa)
+**eul_wid:** `bls-aa` · [HTML page](https://eulogikon.org/works/acusilaus-argos-testimonies-bls-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Παρθικαὶ Στάσεις
 author: Geographical Work Anonymous
 eul_wid: ums-aa
 eul_aid: ums
-canonical: "https://eulogikon.org/grc/anonymous-geographical-work/parthian-stations"
+canonical: "https://eulogikon.org/works/anon-geographica-parthian-stations-ums-aa"
 period: Late Antique
 dialect: Koine
 domain: Geography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Geographical Work Anonymous
 
-**eul_wid:** `ums-aa` · [HTML page](https://eulogikon.org/grc/anonymous-geographical-work/parthian-stations)
+**eul_wid:** `ums-aa` · [HTML page](https://eulogikon.org/works/anon-geographica-parthian-stations-ums-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Αἰθιοπίας
 author: Bion of Phlossa near Smyrna
 eul_wid: mvw-aa
 eul_aid: mvw
-canonical: "https://eulogikon.org/grc/bion-of-phlossa/geographical-ethiopia"
+canonical: "https://eulogikon.org/works/bion-phlossa-geographical-ethiopia-mvw-aa"
 period: Hellenistic
 dialect: Doric Bucolic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Bion of Phlossa near Smyrna
 
-**eul_wid:** `mvw-aa` · [HTML page](https://eulogikon.org/grc/bion-of-phlossa/geographical-ethiopia)
+**eul_wid:** `mvw-aa` · [HTML page](https://eulogikon.org/works/bion-phlossa-geographical-ethiopia-mvw-aa)
 
 ## Text
 

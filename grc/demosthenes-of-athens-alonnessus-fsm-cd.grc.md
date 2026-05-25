@@ -4,7 +4,7 @@ title_greek: περὶ Ἀλοννήσου
 author: Demosthenes of Athens
 eul_wid: fsm-cd
 eul_aid: fsm
-canonical: "https://eulogikon.org/grc/demosthenes-of-athens/alonnessus"
+canonical: "https://eulogikon.org/works/demosthenes-athens-alonnessus-fsm-cd"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demosthenes of Athens
 
-**eul_wid:** `fsm-cd` · [HTML page](https://eulogikon.org/grc/demosthenes-of-athens/alonnessus)
+**eul_wid:** `fsm-cd` · [HTML page](https://eulogikon.org/works/demosthenes-athens-alonnessus-fsm-cd)
 
 ## Text
 
@@ -148,7 +148,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### Or7 40
 
-ἔστι δὲ τουτί· Τόνδε καθιδρύσαντο θεῷ περικαλλέα βωμὸν Λευκῆς καὶ Πτελεοῦ μέσσον ὅρον θέμενοι ἐνναέται, †χώρης σημήϊον· ἀμμορίης δὲ† αὐτὸς ἄναξ μακάρων ἐστὶ μέσος Κρονίδης. ταύτην μέντοι τὴν χώραν, τοσαύτην οὖσαν ὅσην οἱ πολλοὶ ὑμῶν ἴσασιν, ὡς ἑαυτοῦ οὖσαν τὴν μὲν αὐτὸς καρποῦται, τὴν δ’ ἄλλοις δωρειὰν δέδωκε, καὶ ἅπαντα τὰ κτήματα τὰ ὑμέτερα ὑφ’ αὑτῷ ποιεῖται.
+ἔστι δὲ τουτί· Τόνδε καθιδρύσαντο θεῷ περικαλλέα βωμὸν Λευκῆς καὶ Πτελεοῦ μέσσον ὅρον θέμενοι ἐνναέται, χώρης σημήϊον· ἀμμορίης δὲ αὐτὸς ἄναξ μακάρων ἐστὶ μέσος Κρονίδης. ταύτην μέντοι τὴν χώραν, τοσαύτην οὖσαν ὅσην οἱ πολλοὶ ὑμῶν ἴσασιν, ὡς ἑαυτοῦ οὖσαν τὴν μὲν αὐτὸς καρποῦται, τὴν δ’ ἄλλοις δωρειὰν δέδωκε, καὶ ἅπαντα τὰ κτήματα τὰ ὑμέτερα ὑφ’ αὑτῷ ποιεῖται.
 
 ### Or7 41
 

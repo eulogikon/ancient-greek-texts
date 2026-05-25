@@ -4,7 +4,7 @@ title_greek: Ἐπίγραμμα
 author: Athenaeus the Epigrammatist
 eul_wid: kcs-ab
 eul_aid: kcs
-canonical: "https://eulogikon.org/grc/athenaeus-the-epigrammatist/epigram"
+canonical: "https://eulogikon.org/works/athenaeus-epigrammatist-epigram-kcs-ab"
 period: Hellenistic
 dialect: Koine
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Athenaeus the Epigrammatist
 
-**eul_wid:** `kcs-ab` · [HTML page](https://eulogikon.org/grc/athenaeus-the-epigrammatist/epigram)
+**eul_wid:** `kcs-ab` · [HTML page](https://eulogikon.org/works/athenaeus-epigrammatist-epigram-kcs-ab)
 
 ## Text
 

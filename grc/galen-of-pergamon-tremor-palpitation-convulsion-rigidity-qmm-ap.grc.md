@@ -4,7 +4,7 @@ title_greek: Περὶ τρόμου
 author: Galen of Pergamon
 eul_wid: qmm-ap
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/tremor-palpitation-convulsion-rigidity"
+canonical: "https://eulogikon.org/works/galen-pergamon-tremor-palpitation-convulsion-rigidity-qmm-ap"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-ap` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/tremor-palpitation-convulsion-rigidity)
+**eul_wid:** `qmm-ap` · [HTML page](https://eulogikon.org/works/galen-pergamon-tremor-palpitation-convulsion-rigidity-qmm-ap)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Μιθριδάτειος
 author: Appian of Alexandria
 eul_wid: pdc-ak
 eul_aid: pdc
-canonical: "https://eulogikon.org/grc/appian-of-alexandria/mithridatic"
+canonical: "https://eulogikon.org/works/appian-alexandria-mithridatic-pdc-ak"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Appian of Alexandria
 
-**eul_wid:** `pdc-ak` · [HTML page](https://eulogikon.org/grc/appian-of-alexandria/mithridatic)
+**eul_wid:** `pdc-ak` · [HTML page](https://eulogikon.org/works/appian-alexandria-mithridatic-pdc-ak)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἀθηναίων Γυναικῶ
 author: Cantharus the Comic Poet
 eul_wid: dxo-aa
 eul_aid: dxo
-canonical: "https://eulogikon.org/grc/cantharus-the-comic-poet/athenian-women"
+canonical: "https://eulogikon.org/works/cantharus-athenian-women-dxo-aa"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cantharus the Comic Poet
 
-**eul_wid:** `dxo-aa` · [HTML page](https://eulogikon.org/grc/cantharus-the-comic-poet/athenian-women)
+**eul_wid:** `dxo-aa` · [HTML page](https://eulogikon.org/works/cantharus-athenian-women-dxo-aa)
 
 ## Text
 

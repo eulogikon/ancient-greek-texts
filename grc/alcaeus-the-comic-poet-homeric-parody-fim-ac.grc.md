@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Alcaeus the Comic Poet
 eul_wid: fim-ac
 eul_aid: fim
-canonical: "https://eulogikon.org/grc/alcaeus-the-comic-poet/homeric-parody"
+canonical: "https://eulogikon.org/works/alcaeus-comic-homeric-parody-fim-ac"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alcaeus the Comic Poet
 
-**eul_wid:** `fim-ac` · [HTML page](https://eulogikon.org/grc/alcaeus-the-comic-poet/homeric-parody)
+**eul_wid:** `fim-ac` · [HTML page](https://eulogikon.org/works/alcaeus-comic-homeric-parody-fim-ac)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Τέχνης Παρασιτισμ
 author: Antidotus the Comic Poet
 eul_wid: cks-ab
 eul_aid: cks
-canonical: "https://eulogikon.org/grc/antidotus-the-comic-poet/art-parasitism"
+canonical: "https://eulogikon.org/works/antidotus-comic-art-parasitism-cks-ab"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Antidotus the Comic Poet
 
-**eul_wid:** `cks-ab` · [HTML page](https://eulogikon.org/grc/antidotus-the-comic-poet/art-parasitism)
+**eul_wid:** `cks-ab` · [HTML page](https://eulogikon.org/works/antidotus-comic-art-parasitism-cks-ab)
 
 ## Text
 

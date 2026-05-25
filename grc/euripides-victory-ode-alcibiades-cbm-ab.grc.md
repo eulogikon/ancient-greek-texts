@@ -4,7 +4,7 @@ title_greek: Νικητήριος ᾠδὴ ἐπὶ Ἀλκιβιάδῃ
 author: Euripides
 eul_wid: cbm-ab
 eul_aid: cbm
-canonical: "https://eulogikon.org/grc/euripides/victory-ode-alcibiades"
+canonical: "https://eulogikon.org/works/euripides-victory-ode-alcibiades-cbm-ab"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euripides
 
-**eul_wid:** `cbm-ab` · [HTML page](https://eulogikon.org/grc/euripides/victory-ode-alcibiades)
+**eul_wid:** `cbm-ab` · [HTML page](https://eulogikon.org/works/euripides-victory-ode-alcibiades-cbm-ab)
 
 ## Text
 

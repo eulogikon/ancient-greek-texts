@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Hegesianax of Alexandria Troas
 eul_wid: kqe-ac
 eul_aid: kqe
-canonical: "https://eulogikon.org/grc/hegesianax-of-alexandria-troas/trojan-legends"
+canonical: "https://eulogikon.org/works/hegesianax-alexandria-troas-trojan-legends-kqe-ac"
 period: Hellenistic
 dialect: Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hegesianax of Alexandria Troas
 
-**eul_wid:** `kqe-ac` · [HTML page](https://eulogikon.org/grc/hegesianax-of-alexandria-troas/trojan-legends)
+**eul_wid:** `kqe-ac` · [HTML page](https://eulogikon.org/works/hegesianax-alexandria-troas-trojan-legends-kqe-ac)
 
 ## Text
 

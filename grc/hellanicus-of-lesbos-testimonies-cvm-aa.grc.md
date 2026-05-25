@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Hellanicus of Lesbos
 eul_wid: cvm-aa
 eul_aid: cvm
-canonical: "https://eulogikon.org/grc/hellanicus-of-lesbos/testimonies"
+canonical: "https://eulogikon.org/works/hellanicus-lesbos-testimonies-cvm-aa"
 period: Classical
 dialect: Aeolic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hellanicus of Lesbos
 
-**eul_wid:** `cvm-aa` · [HTML page](https://eulogikon.org/grc/hellanicus-of-lesbos/testimonies)
+**eul_wid:** `cvm-aa` · [HTML page](https://eulogikon.org/works/hellanicus-lesbos-testimonies-cvm-aa)
 
 ## Text
 

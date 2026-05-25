@@ -4,7 +4,7 @@ title_greek: Ἐπιστολαὶ πρὸς Μάτριν
 author: Chion Heraclea Letters
 eul_wid: otm-aa
 eul_aid: otm
-canonical: "https://eulogikon.org/grc/chion-of-heraclea/matris"
+canonical: "https://eulogikon.org/works/chion-heraclea-matris-otm-aa"
 period: Roman
 dialect: Koine
 domain: Fiction
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Chion Heraclea Letters
 
-**eul_wid:** `otm-aa` · [HTML page](https://eulogikon.org/grc/chion-of-heraclea/matris)
+**eul_wid:** `otm-aa` · [HTML page](https://eulogikon.org/works/chion-heraclea-matris-otm-aa)
 
 ## Text
 

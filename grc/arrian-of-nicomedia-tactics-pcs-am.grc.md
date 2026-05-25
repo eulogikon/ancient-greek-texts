@@ -4,7 +4,7 @@ title_greek: Τέχνη τακτική
 author: Arrian of Nicomedia
 eul_wid: pcs-am
 eul_aid: pcs
-canonical: "https://eulogikon.org/grc/arrian-of-nicomedia/tactics"
+canonical: "https://eulogikon.org/works/arrian-nicomedia-tactics-pcs-am"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Arrian of Nicomedia
 
-**eul_wid:** `pcs-am` · [HTML page](https://eulogikon.org/grc/arrian-of-nicomedia/tactics)
+**eul_wid:** `pcs-am` · [HTML page](https://eulogikon.org/works/arrian-nicomedia-tactics-pcs-am)
 
 ## Text
 

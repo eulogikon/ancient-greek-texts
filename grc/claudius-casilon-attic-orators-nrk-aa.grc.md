@@ -4,7 +4,7 @@ title_greek: Παρὰ τοῖς Ἀττικοῖς ῥήτορσι ζητούμ
 author: Claudius Casilon the Grammarian
 eul_wid: nrk-aa
 eul_aid: nrk
-canonical: "https://eulogikon.org/grc/claudius-casilon/attic-orators"
+canonical: "https://eulogikon.org/works/claudius-casilon-attic-orators-nrk-aa"
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Claudius Casilon the Grammarian
 
-**eul_wid:** `nrk-aa` · [HTML page](https://eulogikon.org/grc/claudius-casilon/attic-orators)
+**eul_wid:** `nrk-aa` · [HTML page](https://eulogikon.org/works/claudius-casilon-attic-orators-nrk-aa)
 
 ## Text
 

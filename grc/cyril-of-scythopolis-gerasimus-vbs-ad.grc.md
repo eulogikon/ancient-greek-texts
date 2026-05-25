@@ -4,7 +4,7 @@ title_greek: Βίος Γερασίμου
 author: Cyril of Scythopolis
 eul_wid: vbs-ad
 eul_aid: vbs
-canonical: "https://eulogikon.org/grc/cyril-of-scythopolis/gerasimus"
+canonical: "https://eulogikon.org/works/cyril-scythopolis-gerasimus-vbs-ad"
 period: Late Antique
 dialect: Christian Koine
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cyril of Scythopolis
 
-**eul_wid:** `vbs-ad` · [HTML page](https://eulogikon.org/grc/cyril-of-scythopolis/gerasimus)
+**eul_wid:** `vbs-ad` · [HTML page](https://eulogikon.org/works/cyril-scythopolis-gerasimus-vbs-ad)
 
 ## Text
 

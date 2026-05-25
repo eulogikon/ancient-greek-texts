@@ -4,7 +4,7 @@ title_greek: Διάλογος
 author: "Hermetica "
 eul_wid: oqk-as
 eul_aid: oqk
-canonical: "https://eulogikon.org/grc/hermetica/dialogue"
+canonical: "https://eulogikon.org/works/hermetica-dialogue-oqk-as"
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hermetica 
 
-**eul_wid:** `oqk-as` · [HTML page](https://eulogikon.org/grc/hermetica/dialogue)
+**eul_wid:** `oqk-as` · [HTML page](https://eulogikon.org/works/hermetica-dialogue-oqk-as)
 
 ## Text
 

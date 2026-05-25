@@ -4,7 +4,7 @@ title_greek: Ἡμερολόγιον
 author: Geminus of Rhodes
 eul_wid: nwa-ac
 eul_aid: nwa
-canonical: "https://eulogikon.org/grc/geminus-of-rhodes/calendar"
+canonical: "https://eulogikon.org/works/geminus-rhodes-calendar-nwa-ac"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Geminus of Rhodes
 
-**eul_wid:** `nwa-ac` · [HTML page](https://eulogikon.org/grc/geminus-of-rhodes/calendar)
+**eul_wid:** `nwa-ac` · [HTML page](https://eulogikon.org/works/geminus-rhodes-calendar-nwa-ac)
 
 ## Text
 

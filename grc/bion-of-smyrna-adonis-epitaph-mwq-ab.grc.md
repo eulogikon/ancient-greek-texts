@@ -4,7 +4,7 @@ title_greek: Αδώνιδος επιτάφιος
 author: Bion of Smyrna
 eul_wid: mwq-ab
 eul_aid: mwq
-canonical: "https://eulogikon.org/grc/bion-of-smyrna/adonis-epitaph"
+canonical: "https://eulogikon.org/works/bion-smyrna-adonis-epitaph-mwq-ab"
 period: Hellenistic
 dialect: Doric Bucolic
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Bion of Smyrna
 
-**eul_wid:** `mwq-ab` · [HTML page](https://eulogikon.org/grc/bion-of-smyrna/adonis-epitaph)
+**eul_wid:** `mwq-ab` · [HTML page](https://eulogikon.org/works/bion-smyrna-adonis-epitaph-mwq-ab)
 
 ## Text
 

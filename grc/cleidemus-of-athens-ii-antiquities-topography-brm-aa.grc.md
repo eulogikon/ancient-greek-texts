@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Cleidemus of Athens II
 eul_wid: brm-aa
 eul_aid: brm
-canonical: "https://eulogikon.org/grc/cleidemus-of-athens-ii/antiquities-topography"
+canonical: "https://eulogikon.org/works/cleidemus-athens-antiquities-topography-brm-aa"
 period: Classical
 dialect: Mixed Dialects (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cleidemus of Athens II
 
-**eul_wid:** `brm-aa` · [HTML page](https://eulogikon.org/grc/cleidemus-of-athens-ii/antiquities-topography)
+**eul_wid:** `brm-aa` · [HTML page](https://eulogikon.org/works/cleidemus-athens-antiquities-topography-brm-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Demonax of Cyprus
 eul_wid: ogu-aa
 eul_aid: ogu
-canonical: "https://eulogikon.org/grc/demonax-of-cyprus/ethical-maxims"
+canonical: "https://eulogikon.org/works/demonax-cyprus-ethical-maxims-ogu-aa"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demonax of Cyprus
 
-**eul_wid:** `ogu-aa` · [HTML page](https://eulogikon.org/grc/demonax-of-cyprus/ethical-maxims)
+**eul_wid:** `ogu-aa` · [HTML page](https://eulogikon.org/works/demonax-cyprus-ethical-maxims-ogu-aa)
 
 ## Text
 

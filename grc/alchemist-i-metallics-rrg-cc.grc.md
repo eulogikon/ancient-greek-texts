@@ -4,7 +4,7 @@ title_greek: Ἐκ τῶν μεταλλικῶν
 author: Alchemist I
 eul_wid: rrg-cc
 eul_aid: rrg
-canonical: "https://eulogikon.org/grc/alchemist-i/metallics"
+canonical: "https://eulogikon.org/works/alchemist-i-metallics-rrg-cc"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alchemist I
 
-**eul_wid:** `rrg-cc` · [HTML page](https://eulogikon.org/grc/alchemist-i/metallics)
+**eul_wid:** `rrg-cc` · [HTML page](https://eulogikon.org/works/alchemist-i-metallics-rrg-cc)
 
 ## Text
 

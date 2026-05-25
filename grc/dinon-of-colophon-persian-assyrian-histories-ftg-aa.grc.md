@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Dinon of Colophon
 eul_wid: ftg-aa
 eul_aid: ftg
-canonical: "https://eulogikon.org/grc/dinon-of-colophon/persian-assyrian-histories"
+canonical: "https://eulogikon.org/works/dinon-colophon-persian-assyrian-histories-ftg-aa"
 period: Classical
 dialect: Ionic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dinon of Colophon
 
-**eul_wid:** `ftg-aa` · [HTML page](https://eulogikon.org/grc/dinon-of-colophon/persian-assyrian-histories)
+**eul_wid:** `ftg-aa` · [HTML page](https://eulogikon.org/works/dinon-colophon-persian-assyrian-histories-ftg-aa)
 
 ## Text
 

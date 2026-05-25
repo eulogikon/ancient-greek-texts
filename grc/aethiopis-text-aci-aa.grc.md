@@ -4,7 +4,7 @@ title_greek: Αἰθιοπίς
 author: "Aethiopis "
 eul_wid: aci-aa
 eul_aid: aci
-canonical: "https://eulogikon.org/grc/aethiopis/text"
+canonical: "https://eulogikon.org/works/aethiopis-text-aci-aa"
 period: Archaic
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aethiopis 
 
-**eul_wid:** `aci-aa` · [HTML page](https://eulogikon.org/grc/aethiopis/text)
+**eul_wid:** `aci-aa` · [HTML page](https://eulogikon.org/works/aethiopis-text-aci-aa)
 
 ## Text
 
@@ -28,11 +28,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1.2
 
-Πενθεσί̣λ〈ε〉ια.
+Πενθεσίλ〈ε〉ια.
 
 ### book 2
 
-[καὶ] σύ, γύναι, τίνος ἔκγον[ος] ε̣ὔ̣χ̣[ε]αι εἶ̣ναι̣;
+[καὶ] σύ, γύναι, τίνος ἔκγον[ος] εὔχ[ε]αι εἶναι;
 
 ## License and provenance
 

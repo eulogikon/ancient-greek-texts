@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Κωμικῶν Διαλόγων
 author: Hermippus the Comic Poet
 eul_wid: djs-ab
 eul_aid: djs
-canonical: "https://eulogikon.org/grc/hermippus-the-comic-poet/comic-dialogues"
+canonical: "https://eulogikon.org/works/hermippus-comic-dialogues-djs-ab"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hermippus the Comic Poet
 
-**eul_wid:** `djs-ab` · [HTML page](https://eulogikon.org/grc/hermippus-the-comic-poet/comic-dialogues)
+**eul_wid:** `djs-ab` · [HTML page](https://eulogikon.org/works/hermippus-comic-dialogues-djs-ab)
 
 ## Text
 

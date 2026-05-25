@@ -4,7 +4,7 @@ title_greek: Περὶ τῆς τῶν μυῶν ἀνατομῆς πρὸς τ
 author: Galen of Pergamon
 eul_wid: qmm-au
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/dissection-muscles"
+canonical: "https://eulogikon.org/works/galen-pergamon-dissection-muscles-qmm-au"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-au` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/dissection-muscles)
+**eul_wid:** `qmm-au` · [HTML page](https://eulogikon.org/works/galen-pergamon-dissection-muscles-qmm-au)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Τρῳάδες
 author: Euripides
 eul_wid: cbm-ag
 eul_aid: cbm
-canonical: "https://eulogikon.org/grc/euripides/trojan-women"
+canonical: "https://eulogikon.org/works/euripides-trojan-women-cbm-ag"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euripides
 
-**eul_wid:** `cbm-ag` · [HTML page](https://eulogikon.org/grc/euripides/trojan-women)
+**eul_wid:** `cbm-ag` · [HTML page](https://eulogikon.org/works/euripides-trojan-women-cbm-ag)
 
 ## Text
 
@@ -520,11 +520,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 125.4
 
-βαίνουσαι †πλεκτὰν Αἰγύπτου
+βαίνουσαι πλεκτὰν Αἰγύπτου
 
 ### 125.5
 
-παιδείαν ἐξηρτήσασθ’†,
+παιδείαν ἐξηρτήσασθ’,
 
 ### 130.1
 
@@ -548,7 +548,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 135.1
 
-τὸν πεντήκοντ’ ἀροτῆρα τέκνων †Πρίαμον, ἐμέ τε μελέαν Ἑκάβαν†
+τὸν πεντήκοντ’ ἀροτῆρα τέκνων Πρίαμον, ἐμέ τε μελέαν Ἑκάβαν
 
 ### 135.2
 
@@ -584,7 +584,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 144
 
-†καὶ κόραι δύσνυμφαι†,
+καὶ κόραι δύσνυμφαι,
 
 ### 145.1
 
@@ -596,11 +596,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 145.3
 
-†ὄρνισιν ὅπως ἐξάρξω ’γὼ
+ὄρνισιν ὅπως ἐξάρξω ’γὼ
 
 ### 145.4
 
-μολπὰν οὐ τὰν αὐτὰν†
+μολπὰν οὐ τὰν αὐτὰν
 
 ### 145.5
 
@@ -928,7 +928,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 225.1
 
-†Ἰονίωι ναύται πόντωι†,
+Ἰονίωι ναύται πόντωι,
 
 ### 225.2
 
@@ -984,7 +984,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 235.5
 
-Εκ. †τόδε τόδε φίλαι γυναῖκες† ὃ φόβος ἦν πάλαι.
+Εκ. τόδε τόδε φίλαι γυναῖκες ὃ φόβος ἦν πάλαι.
 
 ### 240.1
 
@@ -1072,7 +1072,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 260.2
 
-†ποῦ μοι†;
+ποῦ μοι;
 
 ### 260.3
 
@@ -1176,11 +1176,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 285.4
 
-†γοᾶσθ’, ὦ Τρωιάδες, με.
+γοᾶσθ’, ὦ Τρωιάδες, με.
 
 ### 290.1
 
-βέβακα δύσποτμος οἴχομαι ἁ†
+βέβακα δύσποτμος οἴχομαι ἁ
 
 ### 290.2
 
@@ -1280,7 +1280,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 315.1
 
-ἐπεὶ σύ, μᾶτερ, †ἐπὶ δάκρυσι καὶ†
+ἐπεὶ σύ, μᾶτερ, ἐπὶ δάκρυσι καὶ
 
 ### 315.2
 
@@ -1748,7 +1748,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 435.1
 
-†οὗ δὴ στενὸν δίαυλον ὤικισται πέτρας†
+οὗ δὴ στενὸν δίαυλον ὤικισται πέτρας
 
 ### 435.2
 
@@ -2164,7 +2164,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 545.4
 
-δόμοις δὲ παμφαὲς σέλας πυρὸς μέλαιναν αἴγλαν †ἔδωκεν ὕπνωι†.
+δόμοις δὲ παμφαὲς σέλας πυρὸς μέλαιναν αἴγλαν ἔδωκεν ὕπνωι.
 
 ### 545.5
 
@@ -2328,7 +2328,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 590.2
 
-Αν. †σύ τ’†, ὦ λῦμ’ Ἀχαιῶν
+Αν. σύ τ’, ὦ λῦμ’ Ἀχαιῶν
 
 ### 590.3
 
@@ -2376,7 +2376,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 595.9
 
-†οἷος ἰάλεμος οἷά τε πένθη†
+οἷος ἰάλεμος οἷά τε πένθη
 
 ### 605
 
@@ -2508,7 +2508,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 635.4
 
-†ἀλγεῖ γὰρ οὐδὲν τῶν κακῶν ἠισθημένος·†
+ἀλγεῖ γὰρ οὐδὲν τῶν κακῶν ἠισθημένος·
 
 ### 635.5
 
@@ -4184,7 +4184,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1090.1
 
-δάκρυσι †κατάορα στένει† βοᾶι βοᾶι
+δάκρυσι κατάορα στένει βοᾶι βοᾶι
 
 ### 1090.2
 
@@ -4224,7 +4224,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1095.7
 
-†αἰγαίου† κεραυνοφαὲς πῦρ,
+αἰγαίου κεραυνοφαὲς πῦρ,
 
 ### 1105.1
 
@@ -4608,7 +4608,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1205.2
 
-πηδῶσι, †κοὐδεὶς αὐτὸς εὐτυχεῖ ποτε†.
+πηδῶσι, κοὐδεὶς αὐτὸς εὐτυχεῖ ποτε.
 
 ### 1205.3
 
@@ -4628,7 +4628,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1210.2
 
-τιμῶσιν †οὐκ ἐς πλησμονὰς θηρώμενοι†,
+τιμῶσιν οὐκ ἐς πλησμονὰς θηρώμενοι,
 
 ### 1210.3
 
@@ -4740,11 +4740,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1235.5
 
-Χο. †Ἑκάβη, σὰς† ἔνεπε· τίνα θροεῖς αὐδάν;
+Χο. Ἑκάβη, σὰς ἔνεπε· τίνα θροεῖς αὐδάν;
 
 ### 1240.1
 
-Εκ. †οὐκ ἦν ἄρ’ ἐν θεοῖσι† πλὴν οὑμοὶ πόνοι
+Εκ. οὐκ ἦν ἄρ’ ἐν θεοῖσι πλὴν οὑμοὶ πόνοι
 
 ### 1240.2
 
@@ -4932,7 +4932,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1285.5
 
-†πάτερ ἀνάξια τῆς Δαρδανίου†
+πάτερ ἀνάξια τῆς Δαρδανίου
 
 ### 1290.1
 
@@ -4952,7 +4952,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1295.1
 
-†λέλαμπεν Ἴλιος, Περ‐
+λέλαμπεν Ἴλιος, Περ‐
 
 ### 1295.2
 
@@ -4960,7 +4960,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1295.3
 
-καὶ πόλις ἄκρα τε τειχέων†.
+καὶ πόλις ἄκρα τε τειχέων.
 
 ### 1295.4
 

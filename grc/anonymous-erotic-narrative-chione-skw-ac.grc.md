@@ -4,7 +4,7 @@ title_greek: Χιόνη
 author: Erotic Narrative Anonymous
 eul_wid: skw-ac
 eul_aid: skw
-canonical: "https://eulogikon.org/grc/anonymous-erotic-narrative/chione"
+canonical: "https://eulogikon.org/works/erotica-anon-chione-skw-ac"
 period: Late Antique
 dialect: Koine
 domain: Fiction
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Erotic Narrative Anonymous
 
-**eul_wid:** `skw-ac` · [HTML page](https://eulogikon.org/grc/anonymous-erotic-narrative/chione)
+**eul_wid:** `skw-ac` · [HTML page](https://eulogikon.org/works/erotica-anon-chione-skw-ac)
 
 ## Text
 
@@ -32,7 +32,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### col3
 
-αἰτίαν δ’ οὐδεμίαν παρέσχηκέ σοι Μεγαμήδης ἵνα ἀπολίπῃς αὐτόν. ὥστε διαλογίζου τι δραστέον ἡμῖν. ἐγὼ μὲν γὰρ ἀπορῶ.” ἡ δὲ Χιόνη, “οὐδ’ ἐγὼ μέν,” φησιν, “εἰς σωτηρίαν τι εὑρίσκω. ἓν δὲ τοῦτό σοι λέγω, εἰ μὴ δυνάμεθα ζῆν μετ’ ἀλλήλων, προστάξαντες τουτω .... ἐπ̣ω̣δυνω ............ ........ τὸ γὰρ τελευταῖον ἡμῖν ἀπολείπεται. χρὴ δὲ οὐδὲν [4—8 letters] καὶ ὅπως εὐσχημόνως γενηθῇ σκοπεῖν· λεληθότας γὰρ ἡμῖν το [1 line was left untranscribed]
+αἰτίαν δ’ οὐδεμίαν παρέσχηκέ σοι Μεγαμήδης ἵνα ἀπολίπῃς αὐτόν. ὥστε διαλογίζου τι δραστέον ἡμῖν. ἐγὼ μὲν γὰρ ἀπορῶ.” ἡ δὲ Χιόνη, “οὐδ’ ἐγὼ μέν,” φησιν, “εἰς σωτηρίαν τι εὑρίσκω. ἓν δὲ τοῦτό σοι λέγω, εἰ μὴ δυνάμεθα ζῆν μετ’ ἀλλήλων, προστάξαντες τουτω .... ἐπωδυνω ............ ........ τὸ γὰρ τελευταῖον ἡμῖν ἀπολείπεται. χρὴ δὲ οὐδὲν [4—8 letters] καὶ ὅπως εὐσχημόνως γενηθῇ σκοπεῖν· λεληθότας γὰρ ἡμῖν το [1 line was left untranscribed]
 
 ## License and provenance
 

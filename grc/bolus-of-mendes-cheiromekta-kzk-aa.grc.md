@@ -4,7 +4,7 @@ title_greek: Χειρόμηκτα
 author: Bolus of Mendes
 eul_wid: kzk-aa
 eul_aid: kzk
-canonical: "https://eulogikon.org/grc/bolus-of-mendes/cheiromekta"
+canonical: "https://eulogikon.org/works/bolus-mendes-cheiromekta-kzk-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Bolus of Mendes
 
-**eul_wid:** `kzk-aa` · [HTML page](https://eulogikon.org/grc/bolus-of-mendes/cheiromekta)
+**eul_wid:** `kzk-aa` · [HTML page](https://eulogikon.org/works/bolus-mendes-cheiromekta-kzk-aa)
 
 ## Text
 

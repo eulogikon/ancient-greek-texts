@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Κίμωνος καὶ Φυσικ
 author: "Archelaus of Miletus "
 eul_wid: byk-ab
 eul_aid: byk
-canonical: "https://eulogikon.org/grc/archelaus-of-miletus/cimon-physics"
+canonical: "https://eulogikon.org/works/archelaus-miletus-cimon-physics-byk-ab"
 period: Classical
 dialect: Ionic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Archelaus of Miletus 
 
-**eul_wid:** `byk-ab` · [HTML page](https://eulogikon.org/grc/archelaus-of-miletus/cimon-physics)
+**eul_wid:** `byk-ab` · [HTML page](https://eulogikon.org/works/archelaus-miletus-cimon-physics-byk-ab)
 
 ## Text
 
@@ -76,7 +76,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1a.1
 
-[ln_1]PLUT. de primo frig. 21. 954F ὅθεν οὐ κατὰ χώραν μόνον ἐξ ἕδρας ἀκίνητον οὖσαν αὐτὴν (τὴν γῆν), ἀλλὰ καὶ κατ’ οὐσίαν ἀμετάβλητον, Ἑστίαν ἅτε δὴ ‘μένουσαν ἐν θεῶν οἴκωι‘ † κλίτα
+[ln_1]PLUT. de primo frig. 21. 954F ὅθεν οὐ κατὰ χώραν μόνον ἐξ ἕδρας ἀκίνητον οὖσαν αὐτὴν (τὴν γῆν), ἀλλὰ καὶ κατ’ οὐσίαν ἀμετάβλητον, Ἑστίαν ἅτε δὴ ‘μένουσαν ἐν θεῶν οἴκωι‘ κλίτα
 
 ### book 1a.2
 

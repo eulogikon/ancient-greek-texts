@@ -4,7 +4,7 @@ title_greek: Λυσιστράτη
 author: Aristophanes of Athens
 eul_wid: daw-ad
 eul_aid: daw
-canonical: "https://eulogikon.org/grc/aristophanes-of-athens/lysistrata"
+canonical: "https://eulogikon.org/works/aristophanes-athens-lysistrata-daw-ad"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristophanes of Athens
 
-**eul_wid:** `daw-ad` · [HTML page](https://eulogikon.org/grc/aristophanes-of-athens/lysistrata)
+**eul_wid:** `daw-ad` · [HTML page](https://eulogikon.org/works/aristophanes-athens-lysistrata-daw-ad)
 
 ## Text
 

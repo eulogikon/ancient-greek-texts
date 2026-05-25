@@ -4,7 +4,7 @@ title_greek: Περὶ τῆς διαγνώσεως τῶν σφυγμῶν
 author: Galen of Pergamon
 eul_wid: qmm-df
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/diagnosing-pulses"
+canonical: "https://eulogikon.org/works/galen-pergamon-diagnosing-pulses-qmm-df"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-df` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/diagnosing-pulses)
+**eul_wid:** `qmm-df` · [HTML page](https://eulogikon.org/works/galen-pergamon-diagnosing-pulses-qmm-df)
 
 ## Text
 

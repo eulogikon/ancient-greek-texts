@@ -4,7 +4,7 @@ title_greek: Πρεσβευτικὸς πρὸς Ἀχιλλέα
 author: Aristides the Orator
 eul_wid: qwm-bc
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/embassy"
+canonical: "https://eulogikon.org/works/aristides-orator-embassy-qwm-bc"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-bc` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/embassy)
+**eul_wid:** `qwm-bc` · [HTML page](https://eulogikon.org/works/aristides-orator-embassy-qwm-bc)
 
 ## Text
 

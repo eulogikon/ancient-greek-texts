@@ -4,7 +4,7 @@ title_greek: Μετρικὴ εἰσαγωγή
 author: Hephaestion of Alexandria
 eul_wid: oqa-ab
 eul_aid: oqa
-canonical: "https://eulogikon.org/grc/hephaestion-of-alexandria/metric-introduction"
+canonical: "https://eulogikon.org/works/hephaestion-alexandria-metric-introduction-oqa-ab"
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hephaestion of Alexandria
 
-**eul_wid:** `oqa-ab` · [HTML page](https://eulogikon.org/grc/hephaestion-of-alexandria/metric-introduction)
+**eul_wid:** `oqa-ab` · [HTML page](https://eulogikon.org/works/hephaestion-alexandria-metric-introduction-oqa-ab)
 
 ## Text
 

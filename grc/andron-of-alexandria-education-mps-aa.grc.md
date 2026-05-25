@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τῆς Ἀλεξανδρείας
 author: Andron of Alexandria
 eul_wid: mps-aa
 eul_aid: mps
-canonical: "https://eulogikon.org/grc/andron-of-alexandria/education"
+canonical: "https://eulogikon.org/works/andron-alexandria-education-mps-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Andron of Alexandria
 
-**eul_wid:** `mps-aa` · [HTML page](https://eulogikon.org/grc/andron-of-alexandria/education)
+**eul_wid:** `mps-aa` · [HTML page](https://eulogikon.org/works/andron-alexandria-education-mps-aa)
 
 ## Text
 

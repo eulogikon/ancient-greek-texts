@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: "Antiphon of Athens "
 eul_wid: bqs-ag
 eul_aid: bqs
-canonical: "https://eulogikon.org/grc/antiphon-of-athens/samothracian-tribute"
+canonical: "https://eulogikon.org/works/antiphon-athens-samothracian-tribute-bqs-ag"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Antiphon of Athens 
 
-**eul_wid:** `bqs-ag` · [HTML page](https://eulogikon.org/grc/antiphon-of-athens/samothracian-tribute)
+**eul_wid:** `bqs-ag` · [HTML page](https://eulogikon.org/works/antiphon-athens-samothracian-tribute-bqs-ag)
 
 ## Text
 

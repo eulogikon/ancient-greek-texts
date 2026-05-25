@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα πολιτικῶν λόγων
 author: Andocides
 eul_wid: eym-ae
 eul_aid: eym
-canonical: "https://eulogikon.org/grc/andocides/political-speeches"
+canonical: "https://eulogikon.org/works/andocides-political-speeches-eym-ae"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Andocides
 
-**eul_wid:** `eym-ae` · [HTML page](https://eulogikon.org/grc/andocides/political-speeches)
+**eul_wid:** `eym-ae` · [HTML page](https://eulogikon.org/works/andocides-political-speeches-eym-ae)
 
 ## Text
 

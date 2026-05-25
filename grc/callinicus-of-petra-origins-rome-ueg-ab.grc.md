@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Callinicus of Petra
 eul_wid: ueg-ab
 eul_aid: ueg
-canonical: "https://eulogikon.org/grc/callinicus-of-petra/origins-rome"
+canonical: "https://eulogikon.org/works/callinicus-petra-origins-rome-ueg-ab"
 period: Late Antique
 dialect: Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Callinicus of Petra
 
-**eul_wid:** `ueg-ab` · [HTML page](https://eulogikon.org/grc/callinicus-of-petra/origins-rome)
+**eul_wid:** `ueg-ab` · [HTML page](https://eulogikon.org/works/callinicus-petra-origins-rome-ueg-ab)
 
 ## Text
 

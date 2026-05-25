@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Cleanthes of Assos
 eul_wid: jew-ab
 eul_aid: jew
-canonical: "https://eulogikon.org/grc/cleanthes-of-assos/hymn-zeus"
+canonical: "https://eulogikon.org/works/cleanthes-assos-hymn-zeus-jew-ab"
 period: Hellenistic
 dialect: "Attic (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cleanthes of Assos
 
-**eul_wid:** `jew-ab` · [HTML page](https://eulogikon.org/grc/cleanthes-of-assos/hymn-zeus)
+**eul_wid:** `jew-ab` · [HTML page](https://eulogikon.org/works/cleanthes-assos-hymn-zeus-jew-ab)
 
 ## Text
 

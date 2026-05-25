@@ -4,7 +4,7 @@ title_greek: Κύπρια
 author: Epic Work Anonymous II
 eul_wid: adm-aa
 eul_aid: adm
-canonical: "https://eulogikon.org/grc/epic-work-anonymous-ii/cypria"
+canonical: "https://eulogikon.org/works/epic-anon-ii-cypria-adm-aa"
 period: Archaic
 dialect: Mixed Dialects
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Epic Work Anonymous II
 
-**eul_wid:** `adm-aa` · [HTML page](https://eulogikon.org/grc/epic-work-anonymous-ii/cypria)
+**eul_wid:** `adm-aa` · [HTML page](https://eulogikon.org/works/epic-anon-ii-cypria-adm-aa)
 
 ## Text
 
@@ -196,7 +196,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 15.9
 
-στὰς μεγάλην δρῦν 〈–⏑⏑–⏓〉
+στὰς μεγάλην δρῦν 〈––〉
 
 ### book 16.1
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Euphantus of Olynthus
 eul_wid: hmq-aa
 eul_aid: hmq
-canonical: "https://eulogikon.org/grc/euphantus-of-olynthus/historical-fragments"
+canonical: "https://eulogikon.org/works/euphantus-olynthus-historical-fragments-hmq-aa"
 period: Hellenistic
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euphantus of Olynthus
 
-**eul_wid:** `hmq-aa` · [HTML page](https://eulogikon.org/grc/euphantus-of-olynthus/historical-fragments)
+**eul_wid:** `hmq-aa` · [HTML page](https://eulogikon.org/works/euphantus-olynthus-historical-fragments-hmq-aa)
 
 ## Text
 

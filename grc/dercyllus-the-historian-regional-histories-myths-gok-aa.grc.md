@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Dercyllus the Historian
 eul_wid: gok-aa
 eul_aid: gok
-canonical: "https://eulogikon.org/grc/dercyllus-the-historian/regional-histories-myths"
+canonical: "https://eulogikon.org/works/dercyllus-regional-histories-myths-gok-aa"
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dercyllus the Historian
 
-**eul_wid:** `gok-aa` · [HTML page](https://eulogikon.org/grc/dercyllus-the-historian/regional-histories-myths)
+**eul_wid:** `gok-aa` · [HTML page](https://eulogikon.org/works/dercyllus-regional-histories-myths-gok-aa)
 
 ## Text
 

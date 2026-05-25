@@ -4,7 +4,7 @@ title_greek: Γνωμολόγιον Ἐπικτήτου
 author: Epictetus the Stoic
 eul_wid: ojw-ad
 eul_aid: ojw
-canonical: "https://eulogikon.org/grc/epictetus/gnomology-ad"
+canonical: "https://eulogikon.org/works/epictetus-gnomology-ojw-ad"
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Epictetus the Stoic
 
-**eul_wid:** `ojw-ad` · [HTML page](https://eulogikon.org/grc/epictetus/gnomology-ad)
+**eul_wid:** `ojw-ad` · [HTML page](https://eulogikon.org/works/epictetus-gnomology-ojw-ad)
 
 ## Text
 

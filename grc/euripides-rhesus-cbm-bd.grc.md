@@ -4,7 +4,7 @@ title_greek: Ῥῆσος
 author: Euripides
 eul_wid: cbm-bd
 eul_aid: cbm
-canonical: "https://eulogikon.org/grc/euripides/rhesus"
+canonical: "https://eulogikon.org/works/euripides-rhesus-cbm-bd"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euripides
 
-**eul_wid:** `cbm-bd` · [HTML page](https://eulogikon.org/grc/euripides/rhesus)
+**eul_wid:** `cbm-bd` · [HTML page](https://eulogikon.org/works/euripides-rhesus-cbm-bd)
 
 ## Text
 
@@ -92,11 +92,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 15.3
 
-†μῶν τις λόχος ἐκ νυκτῶν; Χο. οὐκ ἔστι. Εκ. τί
+μῶν τις λόχος ἐκ νυκτῶν; Χο. οὐκ ἔστι. Εκ. τί
 
 ### 17.1
 
-σὺ γὰρ†
+σὺ γὰρ
 
 ### 17.2
 
@@ -252,7 +252,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 55.5
 
-εἰ γὰρ φαεννοὶ μὴ †ξυνέσχον† ἡλίου
+εἰ γὰρ φαεννοὶ μὴ ξυνέσχον ἡλίου
 
 ### 60.1
 
@@ -1748,7 +1748,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 445.6
 
-ἐγὼ γὰρ †ἕξεω† τοὺς μέγ’ αὐχοῦντας δορὶ
+ἐγὼ γὰρ ἕξεω τοὺς μέγ’ αὐχοῦντας δορὶ
 
 ### 445.7
 
@@ -2140,7 +2140,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 560.2
 
-διόλωλε; †τάχ’ ἂν εἴη† φοβερόν μοι.
+διόλωλε; τάχ’ ἂν εἴη φοβερόν μοι.
 
 ### 560.3
 
@@ -2628,7 +2628,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 685.1
 
-Οδ. †ἵστω θάρσει. Χο. πέλας ἴθι παῖε πᾶς.†
+Οδ. ἵστω θάρσει. Χο. πέλας ἴθι παῖε πᾶς.
 
 ### 685.2
 
@@ -3164,11 +3164,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 820.2
 
-†μέγας ἐμοὶ μέγας ὦ πολίοχον κράτος
+μέγας ἐμοὶ μέγας ὦ πολίοχον κράτος
 
 ### 820.3
 
-τότ’ ἄρ’ ἔμολον ὅτε σοι†
+τότ’ ἄρ’ ἔμολον ὅτε σοι
 
 ### 820.4
 
@@ -3192,7 +3192,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 825.4
 
-†ἔγωγε πάντων†.
+ἔγωγε πάντων.
 
 ### 825.5
 
@@ -3260,7 +3260,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 845.3
 
-τίς οὖν τέτρωται, τίς τέθνηκε †συμμάχων†
+τίς οὖν τέτρωται, τίς τέθνηκε συμμάχων
 
 ### 845.4
 
@@ -3364,7 +3364,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 875.1
 
-Ην. ὄλοιθ’ ὁ δράσας· οὐ γὰρ †εἰς σὲ τείνεται†
+Ην. ὄλοιθ’ ὁ δράσας· οὐ γὰρ εἰς σὲ τείνεται
 
 ### 875.2
 
@@ -3508,7 +3508,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 910.3
 
-†ὑπ’ Ἰλίωι ὤλεσε† μὲν ς’ ἕκατι Τροίας,
+ὑπ’ Ἰλίωι ὤλεσε μὲν ς’ ἕκατι Τροίας,
 
 ### 910.4
 

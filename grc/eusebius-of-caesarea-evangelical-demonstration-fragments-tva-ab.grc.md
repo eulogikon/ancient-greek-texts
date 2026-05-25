@@ -4,7 +4,7 @@ title_greek: "Ἐπίδειξις Εὐαγγελική, Ἀποσπάσματα
 author: Eusebius of Caesarea
 eul_wid: tva-ab
 eul_aid: tva
-canonical: "https://eulogikon.org/grc/eusebius-of-caesarea/evangelical-demonstration-fragments"
+canonical: "https://eulogikon.org/works/eusebius-caesarea-evangelical-demonstration-fragments-tva-ab"
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Eusebius of Caesarea
 
-**eul_wid:** `tva-ab` · [HTML page](https://eulogikon.org/grc/eusebius-of-caesarea/evangelical-demonstration-fragments)
+**eul_wid:** `tva-ab` · [HTML page](https://eulogikon.org/works/eusebius-caesarea-evangelical-demonstration-fragments-tva-ab)
 
 ## Text
 

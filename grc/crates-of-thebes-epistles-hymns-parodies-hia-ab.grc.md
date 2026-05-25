@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Crates of Thebes II
 eul_wid: hia-ab
 eul_aid: hia
-canonical: "https://eulogikon.org/grc/crates-of-thebes-epistles/hymns-parodies"
+canonical: "https://eulogikon.org/works/crates-thebes-hymns-parodies-hia-ab"
 period: Classical
 dialect: Koine
 format: Treatise
@@ -17,7 +17,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Crates of Thebes II
 
-**eul_wid:** `hia-ab` · [HTML page](https://eulogikon.org/grc/crates-of-thebes-epistles/hymns-parodies)
+**eul_wid:** `hia-ab` · [HTML page](https://eulogikon.org/works/crates-thebes-hymns-parodies-hia-ab)
 
 ## Text
 

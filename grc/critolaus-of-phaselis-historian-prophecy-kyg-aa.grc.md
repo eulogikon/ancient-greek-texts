@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Προφητείας
 author: Critolaus of Phaselis Historian
 eul_wid: kyg-aa
 eul_aid: kyg
-canonical: "https://eulogikon.org/grc/critolaus-of-phaselis-historian/prophecy"
+canonical: "https://eulogikon.org/works/critolaus-phaselis-prophecy-kyg-aa"
 period: Hellenistic
 dialect: "Attic (phi, frg)"
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Critolaus of Phaselis Historian
 
-**eul_wid:** `kyg-aa` · [HTML page](https://eulogikon.org/grc/critolaus-of-phaselis-historian/prophecy)
+**eul_wid:** `kyg-aa` · [HTML page](https://eulogikon.org/works/critolaus-phaselis-prophecy-kyg-aa)
 
 ## Text
 

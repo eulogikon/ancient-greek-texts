@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Crates of Thebes II
 eul_wid: hia-ac
 eul_aid: hia
-canonical: "https://eulogikon.org/grc/crates-of-thebes-epistles/epigrams"
+canonical: "https://eulogikon.org/works/crates-thebes-epigrams-hia-ac"
 period: Classical
 dialect: Koine
 format: Epistle
@@ -17,7 +17,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Crates of Thebes II
 
-**eul_wid:** `hia-ac` · [HTML page](https://eulogikon.org/grc/crates-of-thebes-epistles/epigrams)
+**eul_wid:** `hia-ac` · [HTML page](https://eulogikon.org/works/crates-thebes-epigrams-hia-ac)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Aratus of Soli
 eul_wid: hte-ad
 eul_aid: hte
-canonical: "https://eulogikon.org/grc/aratus-of-soli/solar-transits"
+canonical: "https://eulogikon.org/works/aratus-soli-solar-transits-hte-ad"
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aratus of Soli
 
-**eul_wid:** `hte-ad` · [HTML page](https://eulogikon.org/grc/aratus-of-soli/solar-transits)
+**eul_wid:** `hte-ad` · [HTML page](https://eulogikon.org/works/aratus-soli-solar-transits-hte-ad)
 
 ## Text
 

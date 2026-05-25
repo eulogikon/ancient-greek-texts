@@ -4,7 +4,7 @@ title_greek: Πρὸς Φίλους
 author: Fronto the Rhetorician
 eul_wid: pmi-ad
 eul_aid: pmi
-canonical: "https://eulogikon.org/grc/fronto-the-rhetorician/friends"
+canonical: "https://eulogikon.org/works/fronto-friends-pmi-ad"
 period: Roman
 dialect: Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Fronto the Rhetorician
 
-**eul_wid:** `pmi-ad` · [HTML page](https://eulogikon.org/grc/fronto-the-rhetorician/friends)
+**eul_wid:** `pmi-ad` · [HTML page](https://eulogikon.org/works/fronto-friends-pmi-ad)
 
 ## Text
 

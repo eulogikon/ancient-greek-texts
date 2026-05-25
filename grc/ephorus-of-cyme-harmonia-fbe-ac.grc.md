@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἁρμονίας
 author: Ephorus of Cyme
 eul_wid: fbe-ac
 eul_aid: fbe
-canonical: "https://eulogikon.org/grc/ephorus-of-cyme/harmonia"
+canonical: "https://eulogikon.org/works/ephorus-cyme-harmonia-fbe-ac"
 period: Classical
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ephorus of Cyme
 
-**eul_wid:** `fbe-ac` · [HTML page](https://eulogikon.org/grc/ephorus-of-cyme/harmonia)
+**eul_wid:** `fbe-ac` · [HTML page](https://eulogikon.org/works/ephorus-cyme-harmonia-fbe-ac)
 
 ## Text
 

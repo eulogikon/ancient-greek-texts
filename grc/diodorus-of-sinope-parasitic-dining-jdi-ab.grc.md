@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Diodorus of Sinope
 eul_wid: jdi-ab
 eul_aid: jdi
-canonical: "https://eulogikon.org/grc/diodorus-of-sinope/parasitic-dining"
+canonical: "https://eulogikon.org/works/diodorus-sinope-parasitic-dining-jdi-ab"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Diodorus of Sinope
 
-**eul_wid:** `jdi-ab` · [HTML page](https://eulogikon.org/grc/diodorus-of-sinope/parasitic-dining)
+**eul_wid:** `jdi-ab` · [HTML page](https://eulogikon.org/works/diodorus-sinope-parasitic-dining-jdi-ab)
 
 ## Text
 

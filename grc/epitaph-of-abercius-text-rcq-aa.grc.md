@@ -4,7 +4,7 @@ title_greek: Ἐπιτάφιον
 author: Epitaph of Abercius
 eul_wid: rcq-aa
 eul_aid: rcq
-canonical: "https://eulogikon.org/grc/epitaph-of-abercius/text"
+canonical: "https://eulogikon.org/works/epitaph-abercius-text-rcq-aa"
 period: Roman
 dialect: Christian Koine
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Epitaph of Abercius
 
-**eul_wid:** `rcq-aa` · [HTML page](https://eulogikon.org/grc/epitaph-of-abercius/text)
+**eul_wid:** `rcq-aa` · [HTML page](https://eulogikon.org/works/epitaph-abercius-text-rcq-aa)
 
 ## Text
 

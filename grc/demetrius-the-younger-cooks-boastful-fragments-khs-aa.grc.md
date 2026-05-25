@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: "Demetrius the Younger "
 eul_wid: khs-aa
 eul_aid: khs
-canonical: "https://eulogikon.org/grc/demetrius-the-younger/cooks-boastful-fragments"
+canonical: "https://eulogikon.org/works/demetrius-younger-cooks-boastful-fragments-khs-aa"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demetrius the Younger 
 
-**eul_wid:** `khs-aa` · [HTML page](https://eulogikon.org/grc/demetrius-the-younger/cooks-boastful-fragments)
+**eul_wid:** `khs-aa` · [HTML page](https://eulogikon.org/works/demetrius-younger-cooks-boastful-fragments-khs-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Βίου καὶ Ἡδονῆς
 author: Amphis Comicus
 eul_wid: foq-ab
 eul_aid: foq
-canonical: "https://eulogikon.org/grc/amphis-the-comic-poet/life-pleasure"
+canonical: "https://eulogikon.org/works/amphis-life-pleasure-foq-ab"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Amphis Comicus
 
-**eul_wid:** `foq-ab` · [HTML page](https://eulogikon.org/grc/amphis-the-comic-poet/life-pleasure)
+**eul_wid:** `foq-ab` · [HTML page](https://eulogikon.org/works/amphis-life-pleasure-foq-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: των κατά Μαρκέλλου
 author: Eusebius of Caesarea
 eul_wid: tva-bh
 eul_aid: tva
-canonical: "https://eulogikon.org/grc/eusebius-of-caesarea/against-marcellus"
+canonical: "https://eulogikon.org/works/eusebius-caesarea-against-marcellus-tva-bh"
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Eusebius of Caesarea
 
-**eul_wid:** `tva-bh` · [HTML page](https://eulogikon.org/grc/eusebius-of-caesarea/against-marcellus)
+**eul_wid:** `tva-bh` · [HTML page](https://eulogikon.org/works/eusebius-caesarea-against-marcellus-tva-bh)
 
 ## Text
 

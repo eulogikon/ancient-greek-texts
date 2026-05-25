@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Dionysius of Miletus
 eul_wid: cvc-aa
 eul_aid: cvc
-canonical: "https://eulogikon.org/grc/dionysius-of-miletus/alphabet-history"
+canonical: "https://eulogikon.org/works/dionysius-miletus-alphabet-history-cvc-aa"
 period: Classical
 dialect: Ionic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dionysius of Miletus
 
-**eul_wid:** `cvc-aa` · [HTML page](https://eulogikon.org/grc/dionysius-of-miletus/alphabet-history)
+**eul_wid:** `cvc-aa` · [HTML page](https://eulogikon.org/works/dionysius-miletus-alphabet-history-cvc-aa)
 
 ## Text
 

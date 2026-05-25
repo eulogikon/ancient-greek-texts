@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἰάσεως
 author: Antidotus the Comic Poet
 eul_wid: cks-aa
 eul_aid: cks
-canonical: "https://eulogikon.org/grc/antidotus-the-comic-poet/healing"
+canonical: "https://eulogikon.org/works/antidotus-comic-healing-cks-aa"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Antidotus the Comic Poet
 
-**eul_wid:** `cks-aa` · [HTML page](https://eulogikon.org/grc/antidotus-the-comic-poet/healing)
+**eul_wid:** `cks-aa` · [HTML page](https://eulogikon.org/works/antidotus-comic-healing-cks-aa)
 
 ## Text
 

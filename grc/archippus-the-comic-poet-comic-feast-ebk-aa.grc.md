@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Συμποσίου Κωμικοῦ
 author: Archippus the Comic Poet
 eul_wid: ebk-aa
 eul_aid: ebk
-canonical: "https://eulogikon.org/grc/archippus-the-comic-poet/comic-feast"
+canonical: "https://eulogikon.org/works/archippus-comic-feast-ebk-aa"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Archippus the Comic Poet
 
-**eul_wid:** `ebk-aa` · [HTML page](https://eulogikon.org/grc/archippus-the-comic-poet/comic-feast)
+**eul_wid:** `ebk-aa` · [HTML page](https://eulogikon.org/works/archippus-comic-feast-ebk-aa)
 
 ## Text
 

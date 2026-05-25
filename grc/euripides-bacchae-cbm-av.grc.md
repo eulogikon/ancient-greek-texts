@@ -4,7 +4,7 @@ title_greek: Βάκχαι
 author: Euripides
 eul_wid: cbm-av
 eul_aid: cbm
-canonical: "https://eulogikon.org/grc/euripides/bacchae"
+canonical: "https://eulogikon.org/works/euripides-bacchae-cbm-av"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euripides
 
-**eul_wid:** `cbm-av` · [HTML page](https://eulogikon.org/grc/euripides/bacchae)
+**eul_wid:** `cbm-av` · [HTML page](https://eulogikon.org/works/euripides-bacchae-cbm-av)
 
 ## Text
 
@@ -568,7 +568,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 141a
 
-†ὁ δ’ ἔξαρχος† Βρόμιος·
+ὁ δ’ ἔξαρχος Βρόμιος·
 
 ### 141b
 
@@ -612,7 +612,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 149.2
 
-†ἅμα δ’ ἐπ’ εὐάσμασιν ἐπιβρέμει τοιάδ’·†
+ἅμα δ’ ἐπ’ εὐάσμασιν ἐπιβρέμει τοιάδ’·
 
 ### 149.3
 
@@ -1640,11 +1640,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 427-428
 
-†σοφὰν δ’ ἀπέχειν πραπίδα φρένα τε
+σοφὰν δ’ ἀπέχειν πραπίδα φρένα τε
 
 ### 429
 
-περισσῶν παρὰ φωτῶν†.
+περισσῶν παρὰ φωτῶν.
 
 ### 430
 
@@ -1936,7 +1936,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 505.2
 
-Δι. οὐκ οἶσθ’ †ὅτι ζῆς† οὐδ’ ὃ δρᾶις οὐδ’ ὅστις εἶ.
+Δι. οὐκ οἶσθ’ ὅτι ζῆς οὐδ’ ὃ δρᾶις οὐδ’ ὅστις εἶ.
 
 ### 505.3
 
@@ -2308,7 +2308,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 605.2
 
-διατινάξαντος †δῶμα Πενθέως· ἀλλ’ ἐξανίστατε†
+διατινάξαντος δῶμα Πενθέως· ἀλλ’ ἐξανίστατε
 
 ### 605.3
 
@@ -2912,7 +2912,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 757a
 
-οὐ χαλκός, οὐ σίδηρος 〈–×–⏑–〉,
+οὐ χαλκός, οὐ σίδηρος 〈–––〉,
 
 ### 762.1
 
@@ -3220,11 +3220,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 843a
 
-Δι. ἐλθόντ’ ἐς οἴκους 〈–⏑– ×–⏑–.
+Δι. ἐλθόντ’ ἐς οἴκους 〈–– ––.
 
 ### 843b
 
-Πε. ×–⏑– ×〉 ἃν δοκῆι βουλεύσομαι.
+Πε. –– 〉 ἃν δοκῆι βουλεύσομαι.
 
 ### 844
 
@@ -3356,7 +3356,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 875.3
 
-†τί τὸ σοφόν, ἢ τί τὸ κάλλιον†
+τί τὸ σοφόν, ἢ τί τὸ κάλλιον
 
 ### 875.4
 
@@ -3436,7 +3436,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 895.3
 
-†τί τὸ σοφόν, ἢ τί τὸ κάλλιον†
+τί τὸ σοφόν, ἢ τί τὸ κάλλιον
 
 ### 895.4
 
@@ -3772,7 +3772,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 980.4
 
-†ἢ σκόλοπος† ὄψεται δοκεύοντα, μαινάσιν δ’ ἀπύσει·
+ἢ σκόλοπος ὄψεται δοκεύοντα, μαινάσιν δ’ ἀπύσει·
 
 ### 985.1
 
@@ -3824,7 +3824,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 995.4
 
-†περὶ βάκχι’ ὄργια ματρός τε σᾶς†
+περὶ βάκχι’ ὄργια ματρός τε σᾶς
 
 ### 995.5
 
@@ -3836,7 +3836,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 995.7
 
-†γνώμαν σώφρονα θάνατος ἀπροφάσιστος
+γνώμαν σώφρονα θάνατος ἀπροφάσιστος
 
 ### 995.8
 
@@ -3852,7 +3852,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1005.2
 
-σα τὰ δ’ ἕτερα μεγάλα φανερὰ τῶν ἀεὶ ἐπὶ τὰ καλὰ βίον,†
+σα τὰ δ’ ἕτερα μεγάλα φανερὰ τῶν ἀεὶ ἐπὶ τὰ καλὰ βίον,
 
 ### 1005.3
 
@@ -3944,7 +3944,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1030.2
 
-Χο. †ὦναξ Βρόμιε, θεὸς φαίνηι μέγας.†
+Χο. ὦναξ Βρόμιε, θεὸς φαίνηι μέγας.
 
 ### 1030.3
 
@@ -3964,11 +3964,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1035.2
 
-Αγ. Θήβας δ’ ἀνάνδρους ὧδ’ ἄγεις 〈×–⏑–
+Αγ. Θήβας δ’ ἀνάνδρους ὧδ’ ἄγεις 〈––
 
 ### 1036.1
 
-×–⏑– ×–⏑– ×–⏑–〉;
+–– –– ––〉;
 
 ### 1036.2
 
@@ -4428,7 +4428,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1155.3
 
-νάρθηκά τε †πιστὸν Ἅιδα†
+νάρθηκά τε πιστὸν Ἅιδα
 
 ### 1155.4
 
@@ -4452,11 +4452,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1160.4
 
-καλὸς ἀγὼν †ἐν αἵματι στάζουσαν
+καλὸς ἀγὼν ἐν αἵματι στάζουσαν
 
 ### 1160.5
 
-χέρα περιβαλεῖν τέκνου†.
+χέρα περιβαλεῖν τέκνου.
 
 ### 1165.1
 
@@ -4500,7 +4500,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1170.5
 
-〈×–⏑–⏑⏑–〉 νέον ἶνιν,
+〈–––〉 νέον ἶνιν,
 
 ### 1175.1
 
@@ -4808,7 +4808,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1245.9
 
-†ὅτ’ ἐν† νεανίαισι Θηβαίοις ἅμα
+ὅτ’ ἐν νεανίαισι Θηβαίοις ἅμα
 
 ### 1255.1
 
@@ -5280,15 +5280,15 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1372.1
 
-Αγ. στένομαί σε, πάτερ. Κα. †κἀγώ, τέκνον,
+Αγ. στένομαί σε, πάτερ. Κα. κἀγώ, τέκνον,
 
 ### 1372.2
 
-καὶ σὰς ἐδάκρυσα κασιγνήτας.†
+καὶ σὰς ἐδάκρυσα κασιγνήτας.
 
 ### 1372.3
 
-Αγ. †δεινῶς γὰρ τάνδ’ αἰκίαν
+Αγ. δεινῶς γὰρ τάνδ’ αἰκίαν
 
 ### 1375.1
 
@@ -5296,7 +5296,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1375.2
 
-τοὺς σοὺς εἰς οἴκους ἔφερε.†
+τοὺς σοὺς εἰς οἴκους ἔφερε.
 
 ### 1375.3
 
@@ -5324,7 +5324,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1380.5
 
-μήτε Κιθαιρὼν 〈⏑⏑–〉 μιαρὸς
+μήτε Κιθαιρὼν 〈–〉 μιαρὸς
 
 ### 1385.1
 

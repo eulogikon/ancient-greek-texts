@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Aresas of Lucania
 eul_wid: dck-aa
 eul_aid: dck
-canonical: "https://eulogikon.org/grc/aresas-of-lucania/human-nature"
+canonical: "https://eulogikon.org/works/aresas-lucania-human-nature-dck-aa"
 period: Classical
 dialect: "Doric (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aresas of Lucania
 
-**eul_wid:** `dck-aa` · [HTML page](https://eulogikon.org/grc/aresas-of-lucania/human-nature)
+**eul_wid:** `dck-aa` · [HTML page](https://eulogikon.org/works/aresas-lucania-human-nature-dck-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Athenodorus of Tarsus Cordylion
 eul_wid: mty-aa
 eul_aid: mty
-canonical: "https://eulogikon.org/grc/athenodorus-of-tarsus/historical-figures"
+canonical: "https://eulogikon.org/works/athenodorus-tarsus-historical-figures-mty-aa"
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Athenodorus of Tarsus Cordylion
 
-**eul_wid:** `mty-aa` · [HTML page](https://eulogikon.org/grc/athenodorus-of-tarsus/historical-figures)
+**eul_wid:** `mty-aa` · [HTML page](https://eulogikon.org/works/athenodorus-tarsus-historical-figures-mty-aa)
 
 ## Text
 

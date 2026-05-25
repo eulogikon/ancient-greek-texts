@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τῆς τοῦ Ἀχιλλέως
 author: Agamestor
 eul_wid: dbq-aa
 eul_aid: dbq
-canonical: "https://eulogikon.org/grc/agamestor/achilles-naming"
+canonical: "https://eulogikon.org/works/agamestor-achilles-naming-dbq-aa"
 period: Classical
 dialect: "Ionic (el, frg)"
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Agamestor
 
-**eul_wid:** `dbq-aa` · [HTML page](https://eulogikon.org/grc/agamestor/achilles-naming)
+**eul_wid:** `dbq-aa` · [HTML page](https://eulogikon.org/works/agamestor-achilles-naming-dbq-aa)
 
 ## Text
 

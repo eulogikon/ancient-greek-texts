@@ -4,7 +4,7 @@ title_greek: Ἐπίγραμμα
 author: Euclid of Alexandria
 eul_wid: iaw-ao
 eul_aid: iaw
-canonical: "https://eulogikon.org/grc/euclid-of-alexandria/epigram"
+canonical: "https://eulogikon.org/works/euclid-alexandria-epigram-iaw-ao"
 period: Hellenistic
 dialect: Technical Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euclid of Alexandria
 
-**eul_wid:** `iaw-ao` · [HTML page](https://eulogikon.org/grc/euclid-of-alexandria/epigram)
+**eul_wid:** `iaw-ao` · [HTML page](https://eulogikon.org/works/euclid-alexandria-epigram-iaw-ao)
 
 ## Text
 

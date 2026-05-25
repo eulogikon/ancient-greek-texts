@@ -4,7 +4,7 @@ title_greek: Περὶ Ἀναπνοῆς
 author: Aristotle
 eul_wid: hgw-bc
 eul_aid: hgw
-canonical: "https://eulogikon.org/grc/aristotle/respiration"
+canonical: "https://eulogikon.org/works/aristotle-respiration-hgw-bc"
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristotle
 
-**eul_wid:** `hgw-bc` · [HTML page](https://eulogikon.org/grc/aristotle/respiration)
+**eul_wid:** `hgw-bc` · [HTML page](https://eulogikon.org/works/aristotle-respiration-hgw-bc)
 
 ## Text
 

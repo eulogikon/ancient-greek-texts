@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἰκάρου καὶ Οἴνου
 author: Eparchides of Oineis
 eul_wid: cmq-aa
 eul_aid: cmq
-canonical: "https://eulogikon.org/grc/eparchides-of-oineis/icarus-wine"
+canonical: "https://eulogikon.org/works/eparchides-oineis-icarus-wine-cmq-aa"
 period: Classical
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Eparchides of Oineis
 
-**eul_wid:** `cmq-aa` · [HTML page](https://eulogikon.org/grc/eparchides-of-oineis/icarus-wine)
+**eul_wid:** `cmq-aa` · [HTML page](https://eulogikon.org/works/eparchides-oineis-icarus-wine-cmq-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Στοιχεῖα
 author: Euclid of Alexandria
 eul_wid: iaw-am
 eul_aid: iaw
-canonical: "https://eulogikon.org/grc/euclid-of-alexandria/elements-am"
+canonical: "https://eulogikon.org/works/euclid-alexandria-elements-iaw-am"
 period: Hellenistic
 dialect: Technical Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euclid of Alexandria
 
-**eul_wid:** `iaw-am` · [HTML page](https://eulogikon.org/grc/euclid-of-alexandria/elements-am)
+**eul_wid:** `iaw-am` · [HTML page](https://eulogikon.org/works/euclid-alexandria-elements-iaw-am)
 
 ## Text
 

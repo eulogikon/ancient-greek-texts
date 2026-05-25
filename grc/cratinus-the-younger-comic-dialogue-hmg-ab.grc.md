@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Κωμικοῦ Διαλόγου
 author: Cratinus the Younger
 eul_wid: hmg-ab
 eul_aid: hmg
-canonical: "https://eulogikon.org/grc/cratinus-the-younger/comic-dialogue"
+canonical: "https://eulogikon.org/works/cratinus-minor-comic-dialogue-hmg-ab"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cratinus the Younger
 
-**eul_wid:** `hmg-ab` · [HTML page](https://eulogikon.org/grc/cratinus-the-younger/comic-dialogue)
+**eul_wid:** `hmg-ab` · [HTML page](https://eulogikon.org/works/cratinus-minor-comic-dialogue-hmg-ab)
 
 ## Text
 

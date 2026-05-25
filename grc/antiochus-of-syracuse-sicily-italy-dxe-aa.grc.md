@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Antiochus of Syracuse
 eul_wid: dxe-aa
 eul_aid: dxe
-canonical: "https://eulogikon.org/grc/antiochus-of-syracuse/sicily-italy"
+canonical: "https://eulogikon.org/works/antiochus-syracuse-sicily-italy-dxe-aa"
 period: Classical
 dialect: Ionic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Antiochus of Syracuse
 
-**eul_wid:** `dxe-aa` · [HTML page](https://eulogikon.org/grc/antiochus-of-syracuse/sicily-italy)
+**eul_wid:** `dxe-aa` · [HTML page](https://eulogikon.org/works/antiochus-syracuse-sicily-italy-dxe-aa)
 
 ## Text
 

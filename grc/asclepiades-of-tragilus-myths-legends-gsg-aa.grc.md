@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Asclepiades of Tragilus
 eul_wid: gsg-aa
 eul_aid: gsg
-canonical: "https://eulogikon.org/grc/asclepiades-of-tragilus/myths-legends"
+canonical: "https://eulogikon.org/works/asclepiades-tragilus-myths-legends-gsg-aa"
 period: Classical
 dialect: Attic (frg)
 domain: Fiction
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Asclepiades of Tragilus
 
-**eul_wid:** `gsg-aa` · [HTML page](https://eulogikon.org/grc/asclepiades-of-tragilus/myths-legends)
+**eul_wid:** `gsg-aa` · [HTML page](https://eulogikon.org/works/asclepiades-tragilus-myths-legends-gsg-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Erotic Narrative Anonymous
 eul_wid: skw-av
 eul_aid: skw
-canonical: "https://eulogikon.org/grc/anonymous-erotic-narrative/eleusinian-mysteries"
+canonical: "https://eulogikon.org/works/erotica-anon-eleusinian-mysteries-skw-av"
 period: Late Antique
 dialect: Koine
 domain: Fiction
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Erotic Narrative Anonymous
 
-**eul_wid:** `skw-av` · [HTML page](https://eulogikon.org/grc/anonymous-erotic-narrative/eleusinian-mysteries)
+**eul_wid:** `skw-av` · [HTML page](https://eulogikon.org/works/erotica-anon-eleusinian-mysteries-skw-av)
 
 ## Text
 
 ### 1
 
-[Break in Text (point at which text breaks off for an unknown length)] [ ] . λειμ̣ .. [] [μ]υρρίνην εἱλετ[] [ ]ην· ὦ Τριπτόλεμε σ[] [ ]υ̣ σοι νῦν μεμυηκ[] [ ] τὴν Κόρην εἶδον η[] [μ]ένην, οὐδὲ τὴν Δ[ήμητρα] [λ]ελυπημένην· αλ[] [ν]ικηφόρους βα[] [ ]ν μυστικὸν τ̣[]
+[Break in Text (point at which text breaks off for an unknown length)] [ ] . λειμ .. [] [μ]υρρίνην εἱλετ[] [ ]ην· ὦ Τριπτόλεμε σ[] [ ]υ σοι νῦν μεμυηκ[] [ ] τὴν Κόρην εἶδον η[] [μ]ένην, οὐδὲ τὴν Δ[ήμητρα] [λ]ελυπημένην· αλ[] [ν]ικηφόρους βα[] [ ]ν μυστικὸν τ[]
 
 ## License and provenance
 

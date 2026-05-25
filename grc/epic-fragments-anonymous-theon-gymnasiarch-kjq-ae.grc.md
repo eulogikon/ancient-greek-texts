@@ -4,7 +4,7 @@ title_greek: Ἐγκώμια Θεῶνος τοῦ Γυμνασιάρχου
 author: Epic Work  Anonymous
 eul_wid: kjq-ae
 eul_aid: kjq
-canonical: "https://eulogikon.org/grc/epic-fragments-anonymous/theon-gymnasiarch"
+canonical: "https://eulogikon.org/works/epic-anon-theon-gymnasiarch-kjq-ae"
 period: Hellenistic
 dialect: Epic (Homeric) (frg)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Epic Work  Anonymous
 
-**eul_wid:** `kjq-ae` · [HTML page](https://eulogikon.org/grc/epic-fragments-anonymous/theon-gymnasiarch)
+**eul_wid:** `kjq-ae` · [HTML page](https://eulogikon.org/works/epic-anon-theon-gymnasiarch-kjq-ae)
 
 ## Text
 

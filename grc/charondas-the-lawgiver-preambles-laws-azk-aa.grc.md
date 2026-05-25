@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Charondas the Lawgiver
 eul_wid: azk-aa
 eul_aid: azk
-canonical: "https://eulogikon.org/grc/charondas-the-lawgiver/preambles-laws"
+canonical: "https://eulogikon.org/works/charondas-preambles-laws-azk-aa"
 period: Archaic
 dialect: Ionic (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Charondas the Lawgiver
 
-**eul_wid:** `azk-aa` · [HTML page](https://eulogikon.org/grc/charondas-the-lawgiver/preambles-laws)
+**eul_wid:** `azk-aa` · [HTML page](https://eulogikon.org/works/charondas-preambles-laws-azk-aa)
 
 ## Text
 

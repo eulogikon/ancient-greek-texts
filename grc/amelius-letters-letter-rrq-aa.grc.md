@@ -4,7 +4,7 @@ title_greek: Ἐπιστολὴ Ἀμελίου
 author: Amelius Letters
 eul_wid: rrq-aa
 eul_aid: rrq
-canonical: "https://eulogikon.org/grc/amelius-letters/letter"
+canonical: "https://eulogikon.org/works/amelius-letters-letter-rrq-aa"
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Amelius Letters
 
-**eul_wid:** `rrq-aa` · [HTML page](https://eulogikon.org/grc/amelius-letters/letter)
+**eul_wid:** `rrq-aa` · [HTML page](https://eulogikon.org/works/amelius-letters-letter-rrq-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ ποιήσεως ἀσήμου
 author: Alchemist I
 eul_wid: rrg-av
 eul_aid: rrg
-canonical: "https://eulogikon.org/grc/alchemist-i/creation-unmarked"
+canonical: "https://eulogikon.org/works/alchemist-i-creation-unmarked-rrg-av"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alchemist I
 
-**eul_wid:** `rrg-av` · [HTML page](https://eulogikon.org/grc/alchemist-i/creation-unmarked)
+**eul_wid:** `rrg-av` · [HTML page](https://eulogikon.org/works/alchemist-i-creation-unmarked-rrg-av)
 
 ## Text
 

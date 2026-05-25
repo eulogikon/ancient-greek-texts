@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Σωκράτους Κωμικά
 author: Ameipsias the Comic Poet
 eul_wid: dwa-ab
 eul_aid: dwa
-canonical: "https://eulogikon.org/grc/ameipsias-the-comic-poet/comic-fragments"
+canonical: "https://eulogikon.org/works/ameipsias-comic-fragments-dwa-ab"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ameipsias the Comic Poet
 
-**eul_wid:** `dwa-ab` · [HTML page](https://eulogikon.org/grc/ameipsias-the-comic-poet/comic-fragments)
+**eul_wid:** `dwa-ab` · [HTML page](https://eulogikon.org/works/ameipsias-comic-fragments-dwa-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ Ἀρχῶν
 author: Damascius of Damascus
 eul_wid: uyg-ad
 eul_aid: uyg
-canonical: "https://eulogikon.org/grc/damascius-of-damascus/principles"
+canonical: "https://eulogikon.org/works/damascius-damascus-principles-uyg-ad"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Damascius of Damascus
 
-**eul_wid:** `uyg-ad` · [HTML page](https://eulogikon.org/grc/damascius-of-damascus/principles)
+**eul_wid:** `uyg-ad` · [HTML page](https://eulogikon.org/works/damascius-damascus-principles-uyg-ad)
 
 ## Text
 

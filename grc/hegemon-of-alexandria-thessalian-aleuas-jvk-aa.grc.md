@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Θεσσαλοῦ Ἀλεύου
 author: "Hegemon of Alexandria "
 eul_wid: jvk-aa
 eul_aid: jvk
-canonical: "https://eulogikon.org/grc/hegemon-of-alexandria/thessalian-aleuas"
+canonical: "https://eulogikon.org/works/hegemon-alexandria-thessalian-aleuas-jvk-aa"
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hegemon of Alexandria 
 
-**eul_wid:** `jvk-aa` · [HTML page](https://eulogikon.org/grc/hegemon-of-alexandria/thessalian-aleuas)
+**eul_wid:** `jvk-aa` · [HTML page](https://eulogikon.org/works/hegemon-alexandria-thessalian-aleuas-jvk-aa)
 
 ## Text
 

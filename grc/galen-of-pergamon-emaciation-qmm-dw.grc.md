@@ -4,7 +4,7 @@ title_greek: Περὶ μαρασμοῦ
 author: Galen of Pergamon
 eul_wid: qmm-dw
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/emaciation"
+canonical: "https://eulogikon.org/works/galen-pergamon-emaciation-qmm-dw"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-dw` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/emaciation)
+**eul_wid:** `qmm-dw` · [HTML page](https://eulogikon.org/works/galen-pergamon-emaciation-qmm-dw)
 
 ## Text
 

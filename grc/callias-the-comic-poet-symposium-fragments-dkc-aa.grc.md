@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Callias the Comic Poet
 eul_wid: dkc-aa
 eul_aid: dkc
-canonical: "https://eulogikon.org/grc/callias-the-comic-poet/symposium-fragments"
+canonical: "https://eulogikon.org/works/callias-comic-symposium-fragments-dkc-aa"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Callias the Comic Poet
 
-**eul_wid:** `dkc-aa` · [HTML page](https://eulogikon.org/grc/callias-the-comic-poet/symposium-fragments)
+**eul_wid:** `dkc-aa` · [HTML page](https://eulogikon.org/works/callias-comic-symposium-fragments-dkc-aa)
 
 ## Text
 

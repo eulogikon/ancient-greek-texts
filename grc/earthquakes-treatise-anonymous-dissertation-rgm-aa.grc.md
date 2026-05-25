@@ -4,7 +4,7 @@ title_greek: Ἀνωνύμου πραγματεία περὶ σεισμῶν
 author: Earthquakes Treatise
 eul_wid: rgm-aa
 eul_aid: rgm
-canonical: "https://eulogikon.org/grc/earthquakes-treatise/anonymous-dissertation"
+canonical: "https://eulogikon.org/works/earthquakes-treatise-anonymous-dissertation-rgm-aa"
 period: Roman
 dialect: Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Earthquakes Treatise
 
-**eul_wid:** `rgm-aa` · [HTML page](https://eulogikon.org/grc/earthquakes-treatise/anonymous-dissertation)
+**eul_wid:** `rgm-aa` · [HTML page](https://eulogikon.org/works/earthquakes-treatise-anonymous-dissertation-rgm-aa)
 
 ## Text
 

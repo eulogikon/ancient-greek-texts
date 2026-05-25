@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Δημοσθένους
 author: Demochares of Leuconoe
 eul_wid: hqw-aa
 eul_aid: hqw
-canonical: "https://eulogikon.org/grc/demochares-of-leuconoe/historical-fragments"
+canonical: "https://eulogikon.org/works/demochares-leuconoe-historical-fragments-hqw-aa"
 period: Hellenistic
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demochares of Leuconoe
 
-**eul_wid:** `hqw-aa` · [HTML page](https://eulogikon.org/grc/demochares-of-leuconoe/historical-fragments)
+**eul_wid:** `hqw-aa` · [HTML page](https://eulogikon.org/works/demochares-leuconoe-historical-fragments-hqw-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Πρὸς Ἀβίρκιον Μάρκελλον κατὰ Καταφ
 author: Anonymous
 eul_wid: rbw-aa
 eul_aid: rbw
-canonical: "https://eulogikon.org/grc/anonymous-to-avircius-marcellus/treatise"
+canonical: "https://eulogikon.org/works/anon-avircius-marcellus-cataphrygians-rbw-aa"
 period: Uncertain
 license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ---
@@ -15,7 +15,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Anonymous
 
-**eul_wid:** `rbw-aa` · [HTML page](https://eulogikon.org/grc/anonymous-to-avircius-marcellus/treatise)
+**eul_wid:** `rbw-aa` · [HTML page](https://eulogikon.org/works/anon-avircius-marcellus-cataphrygians-rbw-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Alcmaeon of Croton
 eul_wid: bmw-aa
 eul_aid: bmw
-canonical: "https://eulogikon.org/grc/alcmaeon-of-croton/testimonies"
+canonical: "https://eulogikon.org/works/alcmaeon-croton-testimonies-bmw-aa"
 period: Archaic
 dialect: Ionic (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alcmaeon of Croton
 
-**eul_wid:** `bmw-aa` · [HTML page](https://eulogikon.org/grc/alcmaeon-of-croton/testimonies)
+**eul_wid:** `bmw-aa` · [HTML page](https://eulogikon.org/works/alcmaeon-croton-testimonies-bmw-aa)
 
 ## Text
 

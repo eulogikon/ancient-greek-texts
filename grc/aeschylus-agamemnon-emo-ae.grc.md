@@ -4,7 +4,7 @@ title_greek: Ἀγαμέμνων
 author: Aeschylus the Tragedian
 eul_wid: emo-ae
 eul_aid: emo
-canonical: "https://eulogikon.org/grc/aeschylus/agamemnon"
+canonical: "https://eulogikon.org/works/aeschylus-agamemnon-emo-ae"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aeschylus the Tragedian
 
-**eul_wid:** `emo-ae` · [HTML page](https://eulogikon.org/grc/aeschylus/agamemnon)
+**eul_wid:** `emo-ae` · [HTML page](https://eulogikon.org/works/aeschylus-agamemnon-emo-ae)
 
 ## Text
 
@@ -436,7 +436,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### unit_26.4
 
-† τὴν θυμοφθόρον λύπης φρένα. †
+τὴν θυμοφθόρον λύπης φρένα.
 
 ### 103
 
@@ -568,7 +568,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 145.1
 
-δεξιὰ μὲν κατάμομφα δὲ φάσματα † στρουθῶν.
+δεξιὰ μὲν κατάμομφα δὲ φάσματα στρουθῶν.
 
 ### 145.2
 
@@ -1260,7 +1260,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 320.4
 
-διχοστατοῦντ’ ἂν οὐ φίλως † προσεννέποις.
+διχοστατοῦντ’ ἂν οὐ φίλως προσεννέποις.
 
 ### 320.5
 
@@ -1540,7 +1540,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 396.2
 
-† τὸν δ’ ἐπίστροφον τῶν[δε]
+τὸν δ’ ἐπίστροφον τῶν[δε]
 
 ### 396.3
 
@@ -1600,7 +1600,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### unit_136.2
 
-† πάρεστι σιγᾶς ἄτιμος † ἀλοίδορος
+πάρεστι σιγᾶς ἄτιμος ἀλοίδορος
 
 ### unit_136.3
 
@@ -2100,7 +2100,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 535.5
 
-Κη.χαίρω, † τεθνᾶναι δ’ οὐκέτ’ ἀντερῶ θεοῖς. †
+Κη.χαίρω, τεθνᾶναι δ’ οὐκέτ’ ἀντερῶ θεοῖς.
 
 ### 540.1
 
@@ -2188,7 +2188,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 560.2
 
-† δρόσοι κατεψάκαζον, ἔμπεδον σίνος
+δρόσοι κατεψάκαζον, ἔμπεδον σίνος
 
 ### 560.3
 
@@ -2408,7 +2408,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 615.2
 
-† τοροῖσιν ἑρμηνεῦσιν εὐπρεπῶς λόγον.
+τοροῖσιν ἑρμηνεῦσιν εὐπρεπῶς λόγον.
 
 ### 615.3
 
@@ -3116,7 +3116,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 795.3
 
-† τὰ δοκοῦντ’ εὔφρονος ἐκ διανοίας
+τὰ δοκοῦντ’ εὔφρονος ἐκ διανοίας
 
 ### 795.4
 
@@ -3868,7 +3868,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 982.2
 
-χρόνος δ’ † ἐπεὶ
+χρόνος δ’ ἐπεὶ
 
 ### 982.3
 
@@ -3876,7 +3876,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 985.1
 
-ψαμμίας ἀκάτα † παρή‐
+ψαμμίας ἀκάτα παρή‐
 
 ### 985.2
 
@@ -3944,7 +3944,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### unit_303.1
 
-μάλα † γάρ τοι τᾶς πολλᾶς †[στρ. β.
+μάλα γάρ τοι τᾶς πολλᾶς [στρ. β.
 
 ### unit_303.2
 
@@ -4096,7 +4096,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1040.2
 
-πραθέντα τλῆναι, † δουλίας μάζης βίᾳ.
+πραθέντα τλῆναι, δουλίας μάζης βίᾳ.
 
 ### 1040.3
 
@@ -4300,7 +4300,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1090.2
 
-αὐτόφονα, † κακὰ καρτάναι †
+αὐτόφονα, κακὰ καρτάναι
 
 ### 1090.3
 
@@ -4328,7 +4328,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1095.4
 
-Χο.† ἦ μὴν κλέος σοῦ μαντικὸν πεπυσμένοι
+Χο. ἦ μὴν κλέος σοῦ μαντικὸν πεπυσμένοι
 
 ### 1095.5
 
@@ -4884,7 +4884,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1235.1
 
-† θύουσαν Ἅιδου μητέρ’ † ἄσπονδόν τ’ Ἄρη
+θύουσαν Ἅιδου μητέρ’ ἄσπονδόν τ’ Ἄρη
 
 ### 1235.2
 
@@ -5028,7 +5028,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1270.2
 
-κἀν τοῖσδε κόσμοις καταγελωμένην † μετὰ
+κἀν τοῖσδε κόσμοις καταγελωμένην μετὰ
 
 ### 1270.3
 
@@ -5140,7 +5140,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### unit_388.2
 
-Κα.οὐκ ἔστ’ ἄλυξις, οὔ, ξένοι, † χρόνῳ πλέῳ.
+Κα.οὐκ ἔστ’ ἄλυξις, οὔ, ξένοι, χρόνῳ πλέῳ.
 
 ### unit_389.1
 
@@ -5428,7 +5428,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1370.2
 
-τρανῶς Ἀτρείδην † εἰδέναι κυροῦνθ’ ὅπως.
+τρανῶς Ἀτρείδην εἰδέναι κυροῦνθ’ ὅπως.
 
 ### 1371
 
@@ -5740,7 +5740,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1445.2
 
-κεῖται † φιλήτως τοῦδ’, ἐμοὶ δ’ ἐπήγαγεν
+κεῖται φιλήτως τοῦδ’, ἐμοὶ δ’ ἐπήγαγεν
 
 ### 1445.3
 
@@ -6056,7 +6056,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1525.2
 
-† τὴν πολύκλαυτόν τ’ Ἰφιγενείαν,
+τὴν πολύκλαυτόν τ’ Ἰφιγενείαν,
 
 ### 1525.3
 

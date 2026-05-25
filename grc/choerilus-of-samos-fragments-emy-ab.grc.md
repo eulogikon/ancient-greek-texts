@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα καὶ Τίτλοι
 author: Choerilus of Samos
 eul_wid: emy-ab
 eul_aid: emy
-canonical: "https://eulogikon.org/grc/choerilus-of-samos/fragments"
+canonical: "https://eulogikon.org/works/choerilus-samos-fragments-emy-ab"
 period: Classical
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Choerilus of Samos
 
-**eul_wid:** `emy-ab` · [HTML page](https://eulogikon.org/grc/choerilus-of-samos/fragments)
+**eul_wid:** `emy-ab` · [HTML page](https://eulogikon.org/works/choerilus-samos-fragments-emy-ab)
 
 ## Text
 
@@ -28,7 +28,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 314-23.2
 
-ποιηματα βαρβαρικα· μηδικ̣ περσ[ικα
+ποιηματα βαρβαρικα· μηδικ περσ[ικα
 
 ### book 316
 

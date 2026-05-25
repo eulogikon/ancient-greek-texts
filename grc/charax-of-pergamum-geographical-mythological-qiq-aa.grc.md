@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Charax of Pergamum
 eul_wid: qiq-aa
 eul_aid: qiq
-canonical: "https://eulogikon.org/grc/charax-of-pergamum/geographical-mythological"
+canonical: "https://eulogikon.org/works/charax-pergamum-geographical-mythological-qiq-aa"
 period: Roman
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Charax of Pergamum
 
-**eul_wid:** `qiq-aa` · [HTML page](https://eulogikon.org/grc/charax-of-pergamum/geographical-mythological)
+**eul_wid:** `qiq-aa` · [HTML page](https://eulogikon.org/works/charax-pergamum-geographical-mythological-qiq-aa)
 
 ## Text
 

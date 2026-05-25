@@ -4,7 +4,7 @@ title_greek: Ἰξευτικόν ἢ Περὶ Κυνηγεσίας
 author: "Dionysius of Alexandria "
 eul_wid: rna-aa
 eul_aid: rna
-canonical: "https://eulogikon.org/grc/dionysius-of-alexandria/ixeuticon-hunting"
+canonical: "https://eulogikon.org/works/dionysius-alexandria-ixeuticon-hunting-rna-aa"
 period: Roman
 dialect: Christian Koine
 domain: Geography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dionysius of Alexandria 
 
-**eul_wid:** `rna-aa` · [HTML page](https://eulogikon.org/grc/dionysius-of-alexandria/ixeuticon-hunting)
+**eul_wid:** `rna-aa` · [HTML page](https://eulogikon.org/works/dionysius-alexandria-ixeuticon-hunting-rna-aa)
 
 ## Text
 

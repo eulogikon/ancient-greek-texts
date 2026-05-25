@@ -4,7 +4,7 @@ title_greek: Περὶ Ἀπίστων
 author: Heraclitus the Paradoxographer
 eul_wid: qfo-aa
 eul_aid: qfo
-canonical: "https://eulogikon.org/grc/heraclitus-the-paradoxographer/incredible-things"
+canonical: "https://eulogikon.org/works/heraclitus-paradoxographer-incredible-things-qfo-aa"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Heraclitus the Paradoxographer
 
-**eul_wid:** `qfo-aa` · [HTML page](https://eulogikon.org/grc/heraclitus-the-paradoxographer/incredible-things)
+**eul_wid:** `qfo-aa` · [HTML page](https://eulogikon.org/works/heraclitus-paradoxographer-incredible-things-qfo-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ θηριακῆς πρὸς Πείσωνα
 author: Galen of Pergamon
 eul_wid: qmm-dn
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/theriac-piso"
+canonical: "https://eulogikon.org/works/galen-pergamon-theriac-piso-qmm-dn"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-dn` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/theriac-piso)
+**eul_wid:** `qmm-dn` · [HTML page](https://eulogikon.org/works/galen-pergamon-theriac-piso-qmm-dn)
 
 ## Text
 

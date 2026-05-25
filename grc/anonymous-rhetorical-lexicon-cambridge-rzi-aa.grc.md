@@ -4,7 +4,7 @@ title_greek: Κέμπριτζ Λεξικὸν Ῥητορικόν
 author: Rhetorical Lexicon  Anonymous
 eul_wid: rzi-aa
 eul_aid: rzi
-canonical: "https://eulogikon.org/grc/anonymous-rhetorical-lexicon/cambridge"
+canonical: "https://eulogikon.org/works/anon-rhet-lex-cambridge-rzi-aa"
 period: Late Antique
 dialect: Byzantine Technical
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Rhetorical Lexicon  Anonymous
 
-**eul_wid:** `rzi-aa` · [HTML page](https://eulogikon.org/grc/anonymous-rhetorical-lexicon/cambridge)
+**eul_wid:** `rzi-aa` · [HTML page](https://eulogikon.org/works/anon-rhet-lex-cambridge-rzi-aa)
 
 ## Text
 

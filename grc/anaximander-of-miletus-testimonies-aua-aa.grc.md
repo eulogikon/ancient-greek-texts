@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Anaximander of Miletus
 eul_wid: aua-aa
 eul_aid: aua
-canonical: "https://eulogikon.org/grc/anaximander-of-miletus/testimonies"
+canonical: "https://eulogikon.org/works/anaximander-miletus-testimonies-aua-aa"
 period: Archaic
 dialect: Ionic (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Anaximander of Miletus
 
-**eul_wid:** `aua-aa` · [HTML page](https://eulogikon.org/grc/anaximander-of-miletus/testimonies)
+**eul_wid:** `aua-aa` · [HTML page](https://eulogikon.org/works/anaximander-miletus-testimonies-aua-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Apollodorus of Carystus I
 eul_wid: iie-ac
 eul_aid: iie
-canonical: "https://eulogikon.org/grc/apollodorus-of-carystus-i/household-harmony"
+canonical: "https://eulogikon.org/works/apollodorus-carystus-household-harmony-iie-ac"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Apollodorus of Carystus I
 
-**eul_wid:** `iie-ac` · [HTML page](https://eulogikon.org/grc/apollodorus-of-carystus-i/household-harmony)
+**eul_wid:** `iie-ac` · [HTML page](https://eulogikon.org/works/apollodorus-carystus-household-harmony-iie-ac)
 
 ## Text
 
@@ -28,11 +28,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 10.2
 
-πλοῦτ[ο]ν, ὦ Κλ̣[ ἀνδρὸc [ὁ]μόνοι[α]ν καὶ γυναικὸc .[ ἐκ τ̣ο̣ῦ̣ [..]λειν θ[.]α̣υτ[.]c ὁμονο[ι[ln_5]ἐ̣π̣ὰν ὁ μὲν θ̣λ̣[ιβό]μενοc οἴκαδ’ [εἰcφέρηι πάνθ’, ἡ [γ]υ[νὴ δὲ] μηθαμοῦ τα[....].[.]ι̣ ἀ̣λ̣λην̣ ὁ̣μ̣ό̣τ[ιμ]οc εἰc τὸ κοιν̣[........]c̣ κατά[μα]θε τ[ὴ]ν μέλιτταν, ὡ[c οὐδὲν
+πλοῦτ[ο]ν, ὦ Κλ[ ἀνδρὸc [ὁ]μόνοι[α]ν καὶ γυναικὸc .[ ἐκ τοῦ [..]λειν θ[.]αυτ[.]c ὁμονο[ι[ln_5]ἐπὰν ὁ μὲν θλ[ιβό]μενοc οἴκαδ’ [εἰcφέρηι πάνθ’, ἡ [γ]υ[νὴ δὲ] μηθαμοῦ τα[....].[.]ι ἀλλην ὁμότ[ιμ]οc εἰc τὸ κοιν[........]c κατά[μα]θε τ[ὴ]ν μέλιτταν, ὡ[c οὐδὲν
 
 ### book 10.3
 
-πον]εῖ ἔξωθεν, ἀλλ’ [ἐc] ταὐτὸ ταχὺ δ[[ln_10]πολύ· [τ]ὸ γὰρ ε[ἰc]ενεχθὲν α̣θ̣[....]ζ[ ἐπὰν δ’ ἀναγκαcθέντεc ἀν[θρ]ώ̣π̣ω̣[ cυνζῶ[cιν α]ὑτοῖc ἑκάτεροc .[..]...[..].. ποία[ν] κ̣[α]τ̣[ὰ λό]γ̣ον οὐcίαν cώcειεν ἄν; τοδο̣.[......].α̣c̣υτετ̣α̣.αγω̣c̣μ̣εcτι[[ln_14]‵—′
+πον]εῖ ἔξωθεν, ἀλλ’ [ἐc] ταὐτὸ ταχὺ δ[[ln_10]πολύ· [τ]ὸ γὰρ ε[ἰc]ενεχθὲν αθ[....]ζ[ ἐπὰν δ’ ἀναγκαcθέντεc ἀν[θρ]ώπω[ cυνζῶ[cιν α]ὑτοῖc ἑκάτεροc .[..]...[..].. ποία[ν] κ[α]τ[ὰ λό]γον οὐcίαν cώcειεν ἄν; τοδο.[......].αcυτετα.αγωcμεcτι[[ln_14]‵—′
 
 ## License and provenance
 

@@ -4,7 +4,7 @@ title_greek: Προλεγόμενα τῆς φιλοσοφίας
 author: David the Invincible
 eul_wid: vcm-ab
 eul_aid: vcm
-canonical: "https://eulogikon.org/grc/david-the-invincible/prolegomena"
+canonical: "https://eulogikon.org/works/david-invincible-prolegomena-vcm-ab"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** David the Invincible
 
-**eul_wid:** `vcm-ab` · [HTML page](https://eulogikon.org/grc/david-the-invincible/prolegomena)
+**eul_wid:** `vcm-ab` · [HTML page](https://eulogikon.org/works/david-invincible-prolegomena-vcm-ab)
 
 ## Text
 

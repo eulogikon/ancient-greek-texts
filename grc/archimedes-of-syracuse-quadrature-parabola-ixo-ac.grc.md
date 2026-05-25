@@ -4,7 +4,7 @@ title_greek: Παραβολῆς Τετραγωνισμός
 author: Archimedes of Syracuse
 eul_wid: ixo-ac
 eul_aid: ixo
-canonical: "https://eulogikon.org/grc/archimedes-of-syracuse/quadrature-parabola"
+canonical: "https://eulogikon.org/works/archimedes-syracuse-quadrature-parabola-ixo-ac"
 period: Hellenistic
 dialect: Doric
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Archimedes of Syracuse
 
-**eul_wid:** `ixo-ac` · [HTML page](https://eulogikon.org/grc/archimedes-of-syracuse/quadrature-parabola)
+**eul_wid:** `ixo-ac` · [HTML page](https://eulogikon.org/works/archimedes-syracuse-quadrature-parabola-ixo-ac)
 
 ## Text
 

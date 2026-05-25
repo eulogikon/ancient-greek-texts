@@ -4,7 +4,7 @@ title_greek: Περὶ Γενέσεως καὶ Φθορᾶς
 author: Aristotle
 eul_wid: hgw-ae
 eul_aid: hgw
-canonical: "https://eulogikon.org/grc/aristotle/generation-corruption"
+canonical: "https://eulogikon.org/works/aristotle-generation-corruption-hgw-ae"
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristotle
 
-**eul_wid:** `hgw-ae` · [HTML page](https://eulogikon.org/grc/aristotle/generation-corruption)
+**eul_wid:** `hgw-ae` · [HTML page](https://eulogikon.org/works/aristotle-generation-corruption-hgw-ae)
 
 ## Text
 

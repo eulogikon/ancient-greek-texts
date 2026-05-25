@@ -4,7 +4,7 @@ title_greek: Περὶ Μακροβιότητος καὶ Βραχυβιότητ
 author: Aristotle
 eul_wid: hgw-ac
 eul_aid: hgw
-canonical: "https://eulogikon.org/grc/aristotle/length-life"
+canonical: "https://eulogikon.org/works/aristotle-length-life-hgw-ac"
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristotle
 
-**eul_wid:** `hgw-ac` · [HTML page](https://eulogikon.org/grc/aristotle/length-life)
+**eul_wid:** `hgw-ac` · [HTML page](https://eulogikon.org/works/aristotle-length-life-hgw-ac)
 
 ## Text
 

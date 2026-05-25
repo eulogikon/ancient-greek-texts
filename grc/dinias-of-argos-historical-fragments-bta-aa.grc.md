@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Dinias of Argos
 eul_wid: bta-aa
 eul_aid: bta
-canonical: "https://eulogikon.org/grc/dinias-of-argos/historical-fragments"
+canonical: "https://eulogikon.org/works/dinias-argos-historical-fragments-bta-aa"
 period: Classical
 dialect: Doric (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dinias of Argos
 
-**eul_wid:** `bta-aa` · [HTML page](https://eulogikon.org/grc/dinias-of-argos/historical-fragments)
+**eul_wid:** `bta-aa` · [HTML page](https://eulogikon.org/works/dinias-argos-historical-fragments-bta-aa)
 
 ## Text
 

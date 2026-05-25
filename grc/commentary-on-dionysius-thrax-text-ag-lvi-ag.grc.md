@@ -4,7 +4,7 @@ title_greek: Ὑπόμνημα
 author: Commentary on Dionysius Thrax
 eul_wid: lvi-ag
 eul_aid: lvi
-canonical: "https://eulogikon.org/grc/commentary-on-dionysius-thrax/text-ag"
+canonical: "https://eulogikon.org/works/comm-dionysius-thrax-text-lvi-ag"
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Commentary on Dionysius Thrax
 
-**eul_wid:** `lvi-ag` · [HTML page](https://eulogikon.org/grc/commentary-on-dionysius-thrax/text-ag)
+**eul_wid:** `lvi-ag` · [HTML page](https://eulogikon.org/works/comm-dionysius-thrax-text-lvi-ag)
 
 ## Text
 

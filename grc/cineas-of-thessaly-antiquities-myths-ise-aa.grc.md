@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Cineas of Thessaly
 eul_wid: ise-aa
 eul_aid: ise
-canonical: "https://eulogikon.org/grc/cineas-of-thessaly/antiquities-myths"
+canonical: "https://eulogikon.org/works/cineas-thessaly-antiquities-myths-ise-aa"
 period: Hellenistic
 dialect: Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cineas of Thessaly
 
-**eul_wid:** `ise-aa` · [HTML page](https://eulogikon.org/grc/cineas-of-thessaly/antiquities-myths)
+**eul_wid:** `ise-aa` · [HTML page](https://eulogikon.org/works/cineas-thessaly-antiquities-myths-ise-aa)
 
 ## Text
 

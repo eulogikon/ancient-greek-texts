@@ -4,7 +4,7 @@ title_greek: Στοιχεῖα Ἀστρονομίας
 author: Geminus of Rhodes
 eul_wid: nwa-aa
 eul_aid: nwa
-canonical: "https://eulogikon.org/grc/geminus-of-rhodes/astronomy"
+canonical: "https://eulogikon.org/works/geminus-rhodes-astronomy-nwa-aa"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Geminus of Rhodes
 
-**eul_wid:** `nwa-aa` · [HTML page](https://eulogikon.org/grc/geminus-of-rhodes/astronomy)
+**eul_wid:** `nwa-aa` · [HTML page](https://eulogikon.org/works/geminus-rhodes-astronomy-nwa-aa)
 
 ## Text
 

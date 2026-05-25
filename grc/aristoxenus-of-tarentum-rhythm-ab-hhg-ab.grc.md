@@ -4,7 +4,7 @@ title_greek: Στοιχεῖα Ῥυθμικὰ
 author: Aristoxenus of Tarentum
 eul_wid: hhg-ab
 eul_aid: hhg
-canonical: "https://eulogikon.org/grc/aristoxenus-of-tarentum/rhythm-ab"
+canonical: "https://eulogikon.org/works/aristoxenus-tarentum-rhythm-hhg-ab"
 period: Classical
 dialect: Attic
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristoxenus of Tarentum
 
-**eul_wid:** `hhg-ab` · [HTML page](https://eulogikon.org/grc/aristoxenus-of-tarentum/rhythm-ab)
+**eul_wid:** `hhg-ab` · [HTML page](https://eulogikon.org/works/aristoxenus-tarentum-rhythm-hhg-ab)
 
 ## Text
 

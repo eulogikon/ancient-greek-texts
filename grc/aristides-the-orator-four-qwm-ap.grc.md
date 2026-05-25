@@ -4,7 +4,7 @@ title_greek: Πρὸς Πλάτωνα ὑπὲρ τῶν τεττάρων
 author: Aristides the Orator
 eul_wid: qwm-ap
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/four"
+canonical: "https://eulogikon.org/works/aristides-orator-four-qwm-ap"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-ap` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/four)
+**eul_wid:** `qwm-ap` · [HTML page](https://eulogikon.org/works/aristides-orator-four-qwm-ap)
 
 ## Text
 

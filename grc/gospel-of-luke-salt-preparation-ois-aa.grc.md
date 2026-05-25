@@ -4,7 +4,7 @@ title_greek: Σκευασία ἁλατίου
 author: Gospel of Luke
 eul_wid: ois-aa
 eul_aid: ois
-canonical: "https://eulogikon.org/grc/gospel-of-luke/salt-preparation"
+canonical: "https://eulogikon.org/works/luke-salt-preparation-ois-aa"
 period: Roman
 dialect: Christian Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Gospel of Luke
 
-**eul_wid:** `ois-aa` · [HTML page](https://eulogikon.org/grc/gospel-of-luke/salt-preparation)
+**eul_wid:** `ois-aa` · [HTML page](https://eulogikon.org/works/luke-salt-preparation-ois-aa)
 
 ## Text
 

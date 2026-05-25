@@ -4,7 +4,7 @@ title_greek: Κοινὸς Βίος
 author: Aristotle Lives
 eul_wid: tuq-ab
 eul_aid: tuq
-canonical: "https://eulogikon.org/grc/aristotle-lives/common-life"
+canonical: "https://eulogikon.org/works/aristotle-common-life-tuq-ab"
 period: Late Antique
 dialect: Koine
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristotle Lives
 
-**eul_wid:** `tuq-ab` · [HTML page](https://eulogikon.org/grc/aristotle-lives/common-life)
+**eul_wid:** `tuq-ab` · [HTML page](https://eulogikon.org/works/aristotle-common-life-tuq-ab)
 
 ## Text
 

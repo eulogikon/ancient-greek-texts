@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Hegesippos the Comic Poet
 eul_wid: jtw-ab
 eul_aid: jtw
-canonical: "https://eulogikon.org/grc/hegesippos-the-comic-poet/culinary-boast"
+canonical: "https://eulogikon.org/works/hegesippos-culinary-boast-jtw-ab"
 period: Hellenistic
 dialect: Koine
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hegesippos the Comic Poet
 
-**eul_wid:** `jtw-ab` · [HTML page](https://eulogikon.org/grc/hegesippos-the-comic-poet/culinary-boast)
+**eul_wid:** `jtw-ab` · [HTML page](https://eulogikon.org/works/hegesippos-culinary-boast-jtw-ab)
 
 ## Text
 

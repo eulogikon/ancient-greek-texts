@@ -4,7 +4,7 @@ title_greek: Βάτραχοι
 author: Aristophanes of Athens
 eul_wid: daw-aq
 eul_aid: daw
-canonical: "https://eulogikon.org/grc/aristophanes-of-athens/frogs"
+canonical: "https://eulogikon.org/works/aristophanes-athens-frogs-daw-aq"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristophanes of Athens
 
-**eul_wid:** `daw-aq` · [HTML page](https://eulogikon.org/grc/aristophanes-of-athens/frogs)
+**eul_wid:** `daw-aq` · [HTML page](https://eulogikon.org/works/aristophanes-athens-frogs-daw-aq)
 
 ## Text
 

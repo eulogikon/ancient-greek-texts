@@ -4,7 +4,7 @@ title_greek: πρὸς Καλλικλέα περὶ χωρίου βλάβης
 author: Demosthenes of Athens
 eul_wid: fsm-ba
 eul_aid: fsm
-canonical: "https://eulogikon.org/grc/demosthenes-of-athens/callicles-land-damage"
+canonical: "https://eulogikon.org/works/demosthenes-athens-callicles-land-damage-fsm-ba"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demosthenes of Athens
 
-**eul_wid:** `fsm-ba` · [HTML page](https://eulogikon.org/grc/demosthenes-of-athens/callicles-land-damage)
+**eul_wid:** `fsm-ba` · [HTML page](https://eulogikon.org/works/demosthenes-athens-callicles-land-damage-fsm-ba)
 
 ## Text
 

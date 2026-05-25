@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Ὕμνων
 author: Bacchylides of Ceos
 eul_wid: brw-af
 eul_aid: brw
-canonical: "https://eulogikon.org/grc/bacchylides-of-ceos/hymns-fragments"
+canonical: "https://eulogikon.org/works/bacchylides-ceos-hymns-fragments-brw-af"
 period: Classical
 dialect: Doric
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Bacchylides of Ceos
 
-**eul_wid:** `brw-af` · [HTML page](https://eulogikon.org/grc/bacchylides-of-ceos/hymns-fragments)
+**eul_wid:** `brw-af` · [HTML page](https://eulogikon.org/works/bacchylides-ceos-hymns-fragments-brw-af)
 
 ## Text
 
@@ -28,7 +28,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2
 
-[ln_1]Ἑκάτα[ ⸤δαϊδοφόρε⸥] ταν ἱε[ρ] Νυκ⸤τὸς μεγαλοκόλπου θύγατερ⸥ σὺ κα[ ][ln_5]βα.[ ]
+[ln_1]Ἑκάτα[ δαϊδοφόρε] ταν ἱε[ρ] Νυκτὸς μεγαλοκόλπου θύγατερ σὺ κα[ ][ln_5]βα.[ ]
 
 ### book 3
 

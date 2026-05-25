@@ -4,7 +4,7 @@ title_greek: Βίος Εὐθυμίου
 author: Cyril of Scythopolis
 eul_wid: vbs-ac
 eul_aid: vbs
-canonical: "https://eulogikon.org/grc/cyril-of-scythopolis/life-euthymius"
+canonical: "https://eulogikon.org/works/cyril-scythopolis-life-euthymius-vbs-ac"
 period: Late Antique
 dialect: Christian Koine
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cyril of Scythopolis
 
-**eul_wid:** `vbs-ac` · [HTML page](https://eulogikon.org/grc/cyril-of-scythopolis/life-euthymius)
+**eul_wid:** `vbs-ac` · [HTML page](https://eulogikon.org/works/cyril-scythopolis-life-euthymius-vbs-ac)
 
 ## Text
 

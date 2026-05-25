@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Dromo Comicus
 eul_wid: gpo-ab
 eul_aid: gpo
-canonical: "https://eulogikon.org/grc/dromo-comicus/parasites-shame"
+canonical: "https://eulogikon.org/works/dromo-parasites-shame-gpo-ab"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dromo Comicus
 
-**eul_wid:** `gpo-ab` · [HTML page](https://eulogikon.org/grc/dromo-comicus/parasites-shame)
+**eul_wid:** `gpo-ab` · [HTML page](https://eulogikon.org/works/dromo-parasites-shame-gpo-ab)
 
 ## Text
 

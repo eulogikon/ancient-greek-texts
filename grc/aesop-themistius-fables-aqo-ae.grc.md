@@ -4,7 +4,7 @@ title_greek: Μῦθοι Θεμιστίου τοῦ Ῥήτορος
 author: Aesop the Fabulist
 eul_wid: aqo-ae
 eul_aid: aqo
-canonical: "https://eulogikon.org/grc/aesop/themistius-fables"
+canonical: "https://eulogikon.org/works/aesop-themistius-fables-aqo-ae"
 period: Archaic
 dialect: Mixed Dialects
 domain: Fiction
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aesop the Fabulist
 
-**eul_wid:** `aqo-ae` · [HTML page](https://eulogikon.org/grc/aesop/themistius-fables)
+**eul_wid:** `aqo-ae` · [HTML page](https://eulogikon.org/works/aesop-themistius-fables-aqo-ae)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Archestratus of Gela
 eul_wid: gtu-ab
 eul_aid: gtu
-canonical: "https://eulogikon.org/grc/archestratus-of-gela/gastronomic-journey"
+canonical: "https://eulogikon.org/works/archestratus-gela-gastronomic-journey-gtu-ab"
 period: Classical
 dialect: Epic (Homeric) (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Archestratus of Gela
 
-**eul_wid:** `gtu-ab` · [HTML page](https://eulogikon.org/grc/archestratus-of-gela/gastronomic-journey)
+**eul_wid:** `gtu-ab` · [HTML page](https://eulogikon.org/works/archestratus-gela-gastronomic-journey-gtu-ab)
 
 ## Text
 

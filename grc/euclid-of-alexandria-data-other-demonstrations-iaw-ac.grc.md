@@ -4,7 +4,7 @@ title_greek: Δεδομένα καὶ Ἄλλαι Ἀποδείξεις
 author: Euclid of Alexandria
 eul_wid: iaw-ac
 eul_aid: iaw
-canonical: "https://eulogikon.org/grc/euclid-of-alexandria/data-other-demonstrations"
+canonical: "https://eulogikon.org/works/euclid-alexandria-data-other-demonstrations-iaw-ac"
 period: Hellenistic
 dialect: Technical Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euclid of Alexandria
 
-**eul_wid:** `iaw-ac` · [HTML page](https://eulogikon.org/grc/euclid-of-alexandria/data-other-demonstrations)
+**eul_wid:** `iaw-ac` · [HTML page](https://eulogikon.org/works/euclid-alexandria-data-other-demonstrations-iaw-ac)
 
 ## Text
 

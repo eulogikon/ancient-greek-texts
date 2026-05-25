@@ -4,7 +4,7 @@ title_greek: Περὶ δεκάδος καὶ τῶν ἐντὸς αὐτῆς 
 author: Anatolius of Alexandria
 eul_wid: uak-aa
 eul_aid: uak
-canonical: "https://eulogikon.org/grc/anatolius-of-alexandria/decade-numbers"
+canonical: "https://eulogikon.org/works/anatolius-alexandria-decade-numbers-uak-aa"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Anatolius of Alexandria
 
-**eul_wid:** `uak-aa` · [HTML page](https://eulogikon.org/grc/anatolius-of-alexandria/decade-numbers)
+**eul_wid:** `uak-aa` · [HTML page](https://eulogikon.org/works/anatolius-alexandria-decade-numbers-uak-aa)
 
 ## Text
 

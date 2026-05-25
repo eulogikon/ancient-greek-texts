@@ -4,7 +4,7 @@ title_greek: Περὶ Πυρετῶν
 author: Alexander of Aphrodisias
 eul_wid: reo-an
 eul_aid: reo
-canonical: "https://eulogikon.org/grc/alexander-of-aphrodisias/fevers"
+canonical: "https://eulogikon.org/works/alexander-aphrodisias-fevers-reo-an"
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alexander of Aphrodisias
 
-**eul_wid:** `reo-an` · [HTML page](https://eulogikon.org/grc/alexander-of-aphrodisias/fevers)
+**eul_wid:** `reo-an` · [HTML page](https://eulogikon.org/works/alexander-aphrodisias-fevers-reo-an)
 
 ## Text
 

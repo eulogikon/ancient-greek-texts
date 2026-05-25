@@ -4,7 +4,7 @@ title_greek: Ἐπιστολή
 author: Demetrius of Phaleron
 eul_wid: hjy-aa
 eul_aid: hjy
-canonical: "https://eulogikon.org/grc/demetrius-of-phaleron/jewish-law"
+canonical: "https://eulogikon.org/works/demetrius-phaleron-jewish-law-hjy-aa"
 period: Classical
 dialect: Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demetrius of Phaleron
 
-**eul_wid:** `hjy-aa` · [HTML page](https://eulogikon.org/grc/demetrius-of-phaleron/jewish-law)
+**eul_wid:** `hjy-aa` · [HTML page](https://eulogikon.org/works/demetrius-phaleron-jewish-law-hjy-aa)
 
 ## Text
 

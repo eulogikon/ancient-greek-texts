@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Ἀδήλου Κωμῳδίας
 author: Comic Fragments Anonymous I
 eul_wid: kfk-aa
 eul_aid: kfk
-canonical: "https://eulogikon.org/grc/comic-fragments-anonymous-i/uncertain"
+canonical: "https://eulogikon.org/works/anon-comic-fragments-uncertain-kfk-aa"
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Comic Fragments Anonymous I
 
-**eul_wid:** `kfk-aa` · [HTML page](https://eulogikon.org/grc/comic-fragments-anonymous-i/uncertain)
+**eul_wid:** `kfk-aa` · [HTML page](https://eulogikon.org/works/anon-comic-fragments-uncertain-kfk-aa)
 
 ## Text
 
@@ -72,11 +72,11 @@ cκιὰ τὰ θνητῶν
 
 ### 39
 
-] . cε̣ . [ ..... ] τ̣ά̣δ[ε ]τρέχειν ἐκ γειτ̣[ον ]τ̣ι̣ λυπήcαc τυχω̣[ ]τα πειθαρχοῦντα [ ] τρόπον προcιό[ντ ] τινι λαλεῖc [ ]ιαν Νουμήνιε [ ]ε̣ροc· εἰνεγ̣μαι μ[ μὰ τ]οὺc δώδεκα θε̣[οὺc
+] . cε . [ ..... ] τάδ[ε ]τρέχειν ἐκ γειτ[ον ]τι λυπήcαc τυχω[ ]τα πειθαρχοῦντα [ ] τρόπον προcιό[ντ ] τινι λαλεῖc [ ]ιαν Νουμήνιε [ ]εροc· εἰνεγμαι μ[ μὰ τ]οὺc δώδεκα θε[οὺc
 
 ### 40
 
-. . . . . . . . ] .. [ ]δη μου̣[ ...... ]η̣λ̣υc̣[ ] . τοιc ἐνο̣ . [ .. ]ροιc θεοῖc ] . κωc οὐκ ἂν ἐβίων οὐδ’ ἅπαξ ]η μοι τῆc πόλεωc πλεῖcτον πολὺ ]α̣μο̣ι̣ διαφθείρουcι νῦν Ἀλέξαν]δροί τε καὶ Πάριδεc ὁμοῦ ] τῶν ἐνθάδε· ] παρέλειπον πρὸ τ[ο]ῦ̣ ] . εἰc ἀνάκριcιν [ Sequuntur vestigia 3 versuum.
+. . . . . . . . ] .. [ ]δη μου[ ...... ]ηλυc[ ] . τοιc ἐνο . [ .. ]ροιc θεοῖc ] . κωc οὐκ ἂν ἐβίων οὐδ’ ἅπαξ ]η μοι τῆc πόλεωc πλεῖcτον πολὺ ]αμοι διαφθείρουcι νῦν Ἀλέξαν]δροί τε καὶ Πάριδεc ὁμοῦ ] τῶν ἐνθάδε· ] παρέλειπον πρὸ τ[ο]ῦ ] . εἰc ἀνάκριcιν [ Sequuntur vestigia 3 versuum.
 
 ### 41
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Aristobulus of Cassandreia
 eul_wid: hiu-aa
 eul_aid: hiu
-canonical: "https://eulogikon.org/grc/aristobulus-of-cassandreia/historical-natural-fragments"
+canonical: "https://eulogikon.org/works/aristobulus-cassandreia-historical-natural-fragments-hiu-aa"
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristobulus of Cassandreia
 
-**eul_wid:** `hiu-aa` · [HTML page](https://eulogikon.org/grc/aristobulus-of-cassandreia/historical-natural-fragments)
+**eul_wid:** `hiu-aa` · [HTML page](https://eulogikon.org/works/aristobulus-cassandreia-historical-natural-fragments-hiu-aa)
 
 ## Text
 

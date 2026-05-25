@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Apollodorus of Athens
 eul_wid: lcm-ab
 eul_aid: lcm
-canonical: "https://eulogikon.org/grc/apollodorus-of-athens/gods"
+canonical: "https://eulogikon.org/works/apollodorus-athens-gods-lcm-ab"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Apollodorus of Athens
 
-**eul_wid:** `lcm-ab` · [HTML page](https://eulogikon.org/grc/apollodorus-of-athens/gods)
+**eul_wid:** `lcm-ab` · [HTML page](https://eulogikon.org/works/apollodorus-athens-gods-lcm-ab)
 
 ## Text
 

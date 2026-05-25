@@ -4,7 +4,7 @@ title_greek: Διδασκαλικὸς τῶν Πλάτωνος δογμάτων
 author: Albinus the Platonist
 eul_wid: qhm-ab
 eul_aid: qhm
-canonical: "https://eulogikon.org/grc/albinus-the-platonist/plato-doctrines"
+canonical: "https://eulogikon.org/works/albinus-plato-doctrines-qhm-ab"
 period: Roman
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Albinus the Platonist
 
-**eul_wid:** `qhm-ab` · [HTML page](https://eulogikon.org/grc/albinus-the-platonist/plato-doctrines)
+**eul_wid:** `qhm-ab` · [HTML page](https://eulogikon.org/works/albinus-plato-doctrines-qhm-ab)
 
 ## Text
 

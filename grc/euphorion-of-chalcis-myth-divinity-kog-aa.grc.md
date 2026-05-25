@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Μύθου καὶ Θειότητ
 author: Euphorion of Chalcis
 eul_wid: kog-aa
 eul_aid: kog
-canonical: "https://eulogikon.org/grc/euphorion-of-chalcis/myth-divinity"
+canonical: "https://eulogikon.org/works/euphorion-chalcis-myth-divinity-kog-aa"
 period: Hellenistic
 dialect: Attic
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euphorion of Chalcis
 
-**eul_wid:** `kog-aa` · [HTML page](https://eulogikon.org/grc/euphorion-of-chalcis/myth-divinity)
+**eul_wid:** `kog-aa` · [HTML page](https://eulogikon.org/works/euphorion-chalcis-myth-divinity-kog-aa)
 
 ## Text
 
@@ -60,7 +60,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 9.1
 
-[...] ὄπισθε [...]α φέροιτο [ ...]θι κάππεσε λύχνου [ ]α κατὰ Γλαυκώπιον Ἕρσῃ,[ln_5][οὕνεκ’ Ἀθ]ηναίης ἱερὴν ἀνελύσατο κίστην [δεσποίν]ης. Ἢ ὅσσον ὁδοιπόροι ἐρρήσσοντο, [Σκε]ίρων ἔνθα πόδεσσι̣ν̣ ἀεικέα μήδετο χύτλα [ο]ὐ̣κ ἐπὶ δήν· Αἴθρης γὰρ ἀλοιηθεὶς ὑπὸ παιδὶ νωιτέρης χέλυος πύματος ἐλιπήνατο λαιμόν.[ln_10]Ἢ καί νιν
+[...] ὄπισθε [...]α φέροιτο [ ...]θι κάππεσε λύχνου [ ]α κατὰ Γλαυκώπιον Ἕρσῃ,[ln_5][οὕνεκ’ Ἀθ]ηναίης ἱερὴν ἀνελύσατο κίστην [δεσποίν]ης. Ἢ ὅσσον ὁδοιπόροι ἐρρήσσοντο, [Σκε]ίρων ἔνθα πόδεσσιν ἀεικέα μήδετο χύτλα [ο]ὐκ ἐπὶ δήν· Αἴθρης γὰρ ἀλοιηθεὶς ὑπὸ παιδὶ νωιτέρης χέλυος πύματος ἐλιπήνατο λαιμόν.[ln_10]Ἢ καί νιν
 
 ### book 9.2
 
@@ -272,7 +272,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 50.1
 
-Τῆς μὲν †τῶν, ὅσσα φύει εὐδείελος αἶα, ἢ φυτὸν ἢ ποίην, ὅτεῳ ἐχρίμψατο λύθρον, ὡς
+Τῆς μὲν τῶν, ὅσσα φύει εὐδείελος αἶα, ἢ φυτὸν ἢ ποίην, ὅτεῳ ἐχρίμψατο λύθρον, ὡς
 
 ### book 50.2
 
@@ -284,7 +284,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 51.1
 
-Αι̣π̣[... ξανθὸς δ̣[... καί οἱ δειμαίνοντ̣[ι ... ταρφέες ἀφλοισμῷ δ̣ι̣ [..[ln_5]Οἱ δ’ ὄπιθεν λασίῃ ὑπὸ γαστέρι
+Αιπ[... ξανθὸς δ[... καί οἱ δειμαίνοντ[ι ... ταρφέες ἀφλοισμῷ δι [..[ln_5]Οἱ δ’ ὄπιθεν λασίῃ ὑπὸ γαστέρι
 
 ### book 51.2
 
@@ -292,7 +292,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 51.3
 
-περὶ πλευρῇσι δρ̣ά̣[κοντες,] ἐν καί οἱ βλεφάροις κυάνῳ ἠστράπτετ̣ο̣ν̣ [ὄσσε. Ἦ που θερμάστραις ἤ που Μελιγουνίδι
+περὶ πλευρῇσι δρά[κοντες,] ἐν καί οἱ βλεφάροις κυάνῳ ἠστράπτετον [ὄσσε. Ἦ που θερμάστραις ἤ που Μελιγουνίδι
 
 ### book 51.4
 

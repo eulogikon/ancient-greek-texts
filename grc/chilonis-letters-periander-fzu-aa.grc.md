@@ -4,7 +4,7 @@ title_greek: Ἐπιστολή
 author: Chilonis Letters
 eul_wid: fzu-aa
 eul_aid: fzu
-canonical: "https://eulogikon.org/grc/chilonis-letters/periander"
+canonical: "https://eulogikon.org/works/chilonis-letters-periander-fzu-aa"
 period: Classical
 dialect: Attic
 domain: Rhetoric
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Chilonis Letters
 
-**eul_wid:** `fzu-aa` · [HTML page](https://eulogikon.org/grc/chilonis-letters/periander)
+**eul_wid:** `fzu-aa` · [HTML page](https://eulogikon.org/works/chilonis-letters-periander-fzu-aa)
 
 ## Text
 

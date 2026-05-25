@@ -4,7 +4,7 @@ title_greek: Ἑλληνικὰ Ἀποσπάσματα
 author: Dorotheus the Astrologer of Sidon
 eul_wid: oho-ac
 eul_aid: oho
-canonical: "https://eulogikon.org/grc/dorotheus-the-astrologer-of-sidon/fragments"
+canonical: "https://eulogikon.org/works/dorotheus-sidon-fragments-oho-ac"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dorotheus the Astrologer of Sidon
 
-**eul_wid:** `oho-ac` · [HTML page](https://eulogikon.org/grc/dorotheus-the-astrologer-of-sidon/fragments)
+**eul_wid:** `oho-ac` · [HTML page](https://eulogikon.org/works/dorotheus-sidon-fragments-oho-ac)
 
 ## Text
 

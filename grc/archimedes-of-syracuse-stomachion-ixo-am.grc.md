@@ -4,7 +4,7 @@ title_greek: Στομάχιον
 author: Archimedes of Syracuse
 eul_wid: ixo-am
 eul_aid: ixo
-canonical: "https://eulogikon.org/grc/archimedes-of-syracuse/stomachion"
+canonical: "https://eulogikon.org/works/archimedes-syracuse-stomachion-ixo-am"
 period: Hellenistic
 dialect: Doric
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Archimedes of Syracuse
 
-**eul_wid:** `ixo-am` · [HTML page](https://eulogikon.org/grc/archimedes-of-syracuse/stomachion)
+**eul_wid:** `ixo-am` · [HTML page](https://eulogikon.org/works/archimedes-syracuse-stomachion-ixo-am)
 
 ## Text
 

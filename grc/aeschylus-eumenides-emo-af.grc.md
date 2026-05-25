@@ -4,7 +4,7 @@ title_greek: Εὐμενίδες
 author: Aeschylus the Tragedian
 eul_wid: emo-af
 eul_aid: emo
-canonical: "https://eulogikon.org/grc/aeschylus/eumenides"
+canonical: "https://eulogikon.org/works/aeschylus-eumenides-emo-af"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aeschylus the Tragedian
 
-**eul_wid:** `emo-af` · [HTML page](https://eulogikon.org/grc/aeschylus/eumenides)
+**eul_wid:** `emo-af` · [HTML page](https://eulogikon.org/works/aeschylus-eumenides-emo-af)
 
 ## Text
 
@@ -516,7 +516,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 117.3
 
-† φίλοις γάρ εἰσιν οὐκ ἐμοῖς προσίκτορες.
+φίλοις γάρ εἰσιν οὐκ ἐμοῖς προσίκτορες.
 
 ### 120.1
 
@@ -1428,7 +1428,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### unit_106.2
 
-παλλεύκων δὲ πέπλων † ἄμοιρος ἄκληρος ἐτύχθην.
+παλλεύκων δὲ πέπλων ἄμοιρος ἄκληρος ἐτύχθην.
 
 ### unit_106.3
 
@@ -1460,7 +1460,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 360
 
-—† σπεύδομεν αἵδ’ ἀφελεῖν τινὰ τᾶσδε μερί‐[ἀντ. β.
+— σπεύδομεν αἵδ’ ἀφελεῖν τινὰ τᾶσδε μερί‐[ἀντ. β.
 
 ### 360.1
 
@@ -1468,7 +1468,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 360.2
 
-† θεῶν δ’ ἀτέλειαν ἐμαῖσι λιταῖς ἐπικραίνειν,
+θεῶν δ’ ἀτέλειαν ἐμαῖσι λιταῖς ἐπικραίνειν,
 
 ### 363
 
@@ -1992,7 +1992,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 480.2
 
-πέμπειν τε, † δυσπήματ’ ἀμηχάνως ἐμοί. †
+πέμπειν τε, δυσπήματ’ ἀμηχάνως ἐμοί.
 
 ### 480.3
 
@@ -2324,7 +2324,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 565.2
 
-† ἥ τ’ οὖν διάτορος † Τυρσηνικὴ
+ἥ τ’ οὖν διάτορος Τυρσηνικὴ
 
 ### 565.3
 
@@ -2468,7 +2468,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### unit_189.4
 
-Χο.† τοιγὰρ σὺ μὲν ζῇς, ἡ δ’ ἐλευθέρα φόνου.
+Χο. τοιγὰρ σὺ μὲν ζῇς, ἡ δ’ ἐλευθέρα φόνου.
 
 ### unit_189.5
 
@@ -2612,7 +2612,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 635.4
 
-† ταύτην τοιαύτην εἶπον, ὡς δηχθῇ λεώς,
+ταύτην τοιαύτην εἶπον, ὡς δηχθῇ λεώς,
 
 ### 635.5
 
@@ -2804,7 +2804,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 685.1
 
-πάγον δ’ † Ἄρειον τόνδ’, Ἀμαζόνων ἕδραν
+πάγον δ’ Ἄρειον τόνδ’, Ἀμαζόνων ἕδραν
 
 ### 685.2
 
@@ -3140,7 +3140,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 765.5
 
-ἀμηχάνοισι † πράξομεν δυσπραξίαις,
+ἀμηχάνοισι πράξομεν δυσπραξίαις,
 
 ### 770.1
 
@@ -3744,7 +3744,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 925
 
-γαίας † ἐξαμβρόσαι
+γαίας ἐξαμβρόσαι
 
 ### unit_279.1
 
@@ -4228,7 +4228,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1043
 
-† σπονδαὶ δ’ ἐς τὸ πᾶν ἔνδαιδες οἴκων †[ἀντ. β.
+σπονδαὶ δ’ ἐς τὸ πᾶν ἔνδαιδες οἴκων [ἀντ. β.
 
 ### 1045.1
 

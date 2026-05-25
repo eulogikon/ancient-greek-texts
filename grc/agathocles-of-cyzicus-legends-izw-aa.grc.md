@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Agathocles of Cyzicus
 eul_wid: izw-aa
 eul_aid: izw
-canonical: "https://eulogikon.org/grc/agathocles-of-cyzicus/legends"
+canonical: "https://eulogikon.org/works/agathocles-cyzicus-legends-izw-aa"
 period: Hellenistic
 dialect: Ionic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Agathocles of Cyzicus
 
-**eul_wid:** `izw-aa` · [HTML page](https://eulogikon.org/grc/agathocles-of-cyzicus/legends)
+**eul_wid:** `izw-aa` · [HTML page](https://eulogikon.org/works/agathocles-cyzicus-legends-izw-aa)
 
 ## Text
 

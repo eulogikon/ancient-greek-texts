@@ -4,7 +4,7 @@ title_greek: "Λεύκωσις ὕδατος, δι’ οὗ λευκαίνετα
 author: Alchemist I
 eul_wid: rrg-ab
 eul_aid: rrg
-canonical: "https://eulogikon.org/grc/alchemist-i/whitening-arsenic-sandarac"
+canonical: "https://eulogikon.org/works/alchemist-i-whitening-arsenic-sandarac-rrg-ab"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alchemist I
 
-**eul_wid:** `rrg-ab` · [HTML page](https://eulogikon.org/grc/alchemist-i/whitening-arsenic-sandarac)
+**eul_wid:** `rrg-ab` · [HTML page](https://eulogikon.org/works/alchemist-i-whitening-arsenic-sandarac-rrg-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Μέθοδος πρὸς Ἐρατοσθένην
 author: Archimedes of Syracuse
 eul_wid: ixo-af
 eul_aid: ixo
-canonical: "https://eulogikon.org/grc/archimedes-of-syracuse/method-eratosthenes"
+canonical: "https://eulogikon.org/works/archimedes-syracuse-method-eratosthenes-ixo-af"
 period: Hellenistic
 dialect: Doric
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Archimedes of Syracuse
 
-**eul_wid:** `ixo-af` · [HTML page](https://eulogikon.org/grc/archimedes-of-syracuse/method-eratosthenes)
+**eul_wid:** `ixo-af` · [HTML page](https://eulogikon.org/works/archimedes-syracuse-method-eratosthenes-ixo-af)
 
 ## Text
 

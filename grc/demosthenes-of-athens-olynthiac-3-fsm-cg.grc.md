@@ -4,7 +4,7 @@ title_greek: Ὀλυνθιακὸς γ΄
 author: Demosthenes of Athens
 eul_wid: fsm-cg
 eul_aid: fsm
-canonical: "https://eulogikon.org/grc/demosthenes-of-athens/olynthiac-3"
+canonical: "https://eulogikon.org/works/demosthenes-athens-olynthiac-3-fsm-cg"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demosthenes of Athens
 
-**eul_wid:** `fsm-cg` · [HTML page](https://eulogikon.org/grc/demosthenes-of-athens/olynthiac-3)
+**eul_wid:** `fsm-cg` · [HTML page](https://eulogikon.org/works/demosthenes-athens-olynthiac-3-fsm-cg)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ τῆς ἰατρικῆς ἐμπειρίας
 author: Galen of Pergamon
 eul_wid: qmm-de
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/medical-experience"
+canonical: "https://eulogikon.org/works/galen-pergamon-medical-experience-qmm-de"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-de` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/medical-experience)
+**eul_wid:** `qmm-de` · [HTML page](https://eulogikon.org/works/galen-pergamon-medical-experience-qmm-de)
 
 ## Text
 

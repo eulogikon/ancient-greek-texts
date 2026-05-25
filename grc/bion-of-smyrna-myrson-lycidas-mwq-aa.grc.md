@@ -4,7 +4,7 @@ title_greek: Μύρσων καὶ Λυκίδας
 author: Bion of Smyrna
 eul_wid: mwq-aa
 eul_aid: mwq
-canonical: "https://eulogikon.org/grc/bion-of-smyrna/myrson-lycidas"
+canonical: "https://eulogikon.org/works/bion-smyrna-myrson-lycidas-mwq-aa"
 period: Hellenistic
 dialect: Doric Bucolic
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Bion of Smyrna
 
-**eul_wid:** `mwq-aa` · [HTML page](https://eulogikon.org/grc/bion-of-smyrna/myrson-lycidas)
+**eul_wid:** `mwq-aa` · [HTML page](https://eulogikon.org/works/bion-smyrna-myrson-lycidas-mwq-aa)
 
 ## Text
 
@@ -56,7 +56,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 5.3
 
-χὤπως ἐν κώραις Λυκομηδίσιν †ἅπαλέγοισαι
+χὤπως ἐν κώραις Λυκομηδίσιν ἅπαλέγοισαι
 
 ### 5.4
 
@@ -148,7 +148,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 30.2
 
-†νύσσα† δολία με κακῶς ἀπὸ σεῖο μερίσδει. οὐ γὰρ ἐγὼ σέο .....
+νύσσα δολία με κακῶς ἀπὸ σεῖο μερίσδει. οὐ γὰρ ἐγὼ σέο .....
 
 ## License and provenance
 

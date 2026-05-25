@@ -4,7 +4,7 @@ title_greek: Περὶ ἀντιδότων
 author: Galen of Pergamon
 eul_wid: qmm-dy
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/antidotes"
+canonical: "https://eulogikon.org/works/galen-pergamon-antidotes-qmm-dy"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-dy` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/antidotes)
+**eul_wid:** `qmm-dy` · [HTML page](https://eulogikon.org/works/galen-pergamon-antidotes-qmm-dy)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Eurytus the Pythagorean
 eul_wid: eyw-aa
 eul_aid: eyw
-canonical: "https://eulogikon.org/grc/eurytus-the-pythagorean/testimonies"
+canonical: "https://eulogikon.org/works/eurytus-pythagorean-testimonies-eyw-aa"
 period: Classical
 dialect: Doric
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Eurytus the Pythagorean
 
-**eul_wid:** `eyw-aa` · [HTML page](https://eulogikon.org/grc/eurytus-the-pythagorean/testimonies)
+**eul_wid:** `eyw-aa` · [HTML page](https://eulogikon.org/works/eurytus-pythagorean-testimonies-eyw-aa)
 
 ## Text
 

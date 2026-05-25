@@ -4,7 +4,7 @@ title_greek: Περὶ Ψυχῆς
 author: Alexander of Aphrodisias
 eul_wid: reo-ak
 eul_aid: reo
-canonical: "https://eulogikon.org/grc/alexander-of-aphrodisias/soul"
+canonical: "https://eulogikon.org/works/alexander-aphrodisias-soul-reo-ak"
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alexander of Aphrodisias
 
-**eul_wid:** `reo-ak` · [HTML page](https://eulogikon.org/grc/alexander-of-aphrodisias/soul)
+**eul_wid:** `reo-ak` · [HTML page](https://eulogikon.org/works/alexander-aphrodisias-soul-reo-ak)
 
 ## Text
 

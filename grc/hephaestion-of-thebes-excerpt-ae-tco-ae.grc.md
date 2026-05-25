@@ -4,7 +4,7 @@ title_greek: Ἐκλογή
 author: Hephaestion of Thebes
 eul_wid: tco-ae
 eul_aid: tco
-canonical: "https://eulogikon.org/grc/hephaestion-of-thebes/excerpt-ae"
+canonical: "https://eulogikon.org/works/hephaestion-thebes-excerpt-tco-ae"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hephaestion of Thebes
 
-**eul_wid:** `tco-ae` · [HTML page](https://eulogikon.org/grc/hephaestion-of-thebes/excerpt-ae)
+**eul_wid:** `tco-ae` · [HTML page](https://eulogikon.org/works/hephaestion-thebes-excerpt-tco-ae)
 
 ## Text
 

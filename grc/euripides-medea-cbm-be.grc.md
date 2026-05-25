@@ -4,7 +4,7 @@ title_greek: Μήδεια
 author: Euripides
 eul_wid: cbm-be
 eul_aid: cbm
-canonical: "https://eulogikon.org/grc/euripides/medea"
+canonical: "https://eulogikon.org/works/euripides-medea-cbm-be"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euripides
 
-**eul_wid:** `cbm-be` · [HTML page](https://eulogikon.org/grc/euripides/medea)
+**eul_wid:** `cbm-be` · [HTML page](https://eulogikon.org/works/euripides-medea-cbm-be)
 
 ## Text
 
@@ -72,7 +72,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 10.3
 
-†φυγῆι πολιτῶν† ὧν ἀφίκετο χθόνα
+φυγῆι πολιτῶν ὧν ἀφίκετο χθόνα
 
 ### 10.4
 
@@ -1312,7 +1312,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 330.5
 
-Μη. †πονοῦμεν ἡμεῖς κοὐ πόνων κεχρήμεθα.†
+Μη. πονοῦμεν ἡμεῖς κοὐ πόνων κεχρήμεθα.
 
 ### 335.1
 
@@ -2944,7 +2944,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 775.3
 
-†ὡς καὶ δοκεῖ μοι ταῦτα καὶ καλῶς ἔχει†
+ὡς καὶ δοκεῖ μοι ταῦτα καὶ καλῶς ἔχει
 
 ### 775.4
 
@@ -3212,11 +3212,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 855.2
 
-πόθεν θράσος †ἢ φρενὸς ἢ
+πόθεν θράσος ἢ φρενὸς ἢ
 
 ### 855.3
 
-χειρὶ τέκνων σέθεν†
+χειρὶ τέκνων σέθεν
 
 ### 855.4
 
@@ -3416,7 +3416,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 910.1
 
-†γάμους παρεμπολῶντος ἀλλοίους πόσει†.
+γάμους παρεμπολῶντος ἀλλοίους πόσει.
 
 ### 910.2
 
@@ -4052,7 +4052,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1075.3
 
-οἵα τε †πρὸς ὑμᾶς† ἀλλὰ νικῶμαι κακοῖς.
+οἵα τε πρὸς ὑμᾶς ἀλλὰ νικῶμαι κακοῖς.
 
 ### 1075.4
 
@@ -4744,7 +4744,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1260.1
 
-ναν φονίαν τ’ Ἐρινὺν †ὑπ’ ἀλαστόρων†.
+ναν φονίαν τ’ Ἐρινὺν ὑπ’ ἀλαστόρων.
 
 ### 1260.2
 
@@ -4780,7 +4780,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1265.5
 
-σματ’ †ἐπὶ γαῖαν† αὐτοφόνταις ξυνωι‐
+σματ’ ἐπὶ γαῖαν αὐτοφόνταις ξυνωι‐
 
 ### 1270
 

@@ -4,7 +4,7 @@ title_greek: Περὶ Ἱπποκράτους περὶ τοῦ ἰατροῦ 
 author: Galen of Pergamon
 eul_wid: qmm-ba
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/on-hippocrates-workshop"
+canonical: "https://eulogikon.org/works/galen-pergamon-on-hippocrates-workshop-qmm-ba"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-ba` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/on-hippocrates-workshop)
+**eul_wid:** `qmm-ba` · [HTML page](https://eulogikon.org/works/galen-pergamon-on-hippocrates-workshop-qmm-ba)
 
 ## Text
 

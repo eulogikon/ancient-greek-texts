@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν σφυγμῶν πρὸς νεοφύτους
 author: Galen of Pergamon
 eul_wid: qmm-cy
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/pulses-beginners"
+canonical: "https://eulogikon.org/works/galen-pergamon-pulses-beginners-qmm-cy"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-cy` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/pulses-beginners)
+**eul_wid:** `qmm-cy` · [HTML page](https://eulogikon.org/works/galen-pergamon-pulses-beginners-qmm-cy)
 
 ## Text
 

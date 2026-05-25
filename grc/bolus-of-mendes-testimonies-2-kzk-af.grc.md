@@ -4,7 +4,7 @@ title_greek: "Μαρτυρίαι Β'"
 author: Bolus of Mendes
 eul_wid: kzk-af
 eul_aid: kzk
-canonical: "https://eulogikon.org/grc/bolus-of-mendes/testimonies-2"
+canonical: "https://eulogikon.org/works/bolus-mendes-testimonies-2-kzk-af"
 period: Hellenistic
 dialect: Koine (frg)
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Bolus of Mendes
 
-**eul_wid:** `kzk-af` · [HTML page](https://eulogikon.org/grc/bolus-of-mendes/testimonies-2)
+**eul_wid:** `kzk-af` · [HTML page](https://eulogikon.org/works/bolus-mendes-testimonies-2-kzk-af)
 
 ## Text
 

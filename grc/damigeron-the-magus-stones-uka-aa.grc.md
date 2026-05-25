@@ -4,7 +4,7 @@ title_greek: Περὶ Λίθων
 author: Damigeron the Magus
 eul_wid: uka-aa
 eul_aid: uka
-canonical: "https://eulogikon.org/grc/damigeron-the-magus/stones"
+canonical: "https://eulogikon.org/works/damigeron-stones-uka-aa"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Damigeron the Magus
 
-**eul_wid:** `uka-aa` · [HTML page](https://eulogikon.org/grc/damigeron-the-magus/stones)
+**eul_wid:** `uka-aa` · [HTML page](https://eulogikon.org/works/damigeron-stones-uka-aa)
 
 ## Text
 

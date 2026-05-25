@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ὀψοποιίας
 author: Anaxippus the Comic Poet
 eul_wid: hvw-aa
 eul_aid: hvw
-canonical: "https://eulogikon.org/grc/anaxippus-the-comic-poet/cooking-fragments"
+canonical: "https://eulogikon.org/works/anaxippus-cooking-fragments-hvw-aa"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Anaxippus the Comic Poet
 
-**eul_wid:** `hvw-aa` · [HTML page](https://eulogikon.org/grc/anaxippus-the-comic-poet/cooking-fragments)
+**eul_wid:** `hvw-aa` · [HTML page](https://eulogikon.org/works/anaxippus-cooking-fragments-hvw-aa)
 
 ## Text
 

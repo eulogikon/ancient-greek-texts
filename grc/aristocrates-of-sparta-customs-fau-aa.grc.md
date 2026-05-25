@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τῶν Λακωνικῶν Ἐθ
 author: Aristocrates of Sparta
 eul_wid: fau-aa
 eul_aid: fau
-canonical: "https://eulogikon.org/grc/aristocrates-of-sparta/customs"
+canonical: "https://eulogikon.org/works/aristocrates-sparta-customs-fau-aa"
 period: Classical
 dialect: Doric (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristocrates of Sparta
 
-**eul_wid:** `fau-aa` · [HTML page](https://eulogikon.org/grc/aristocrates-of-sparta/customs)
+**eul_wid:** `fau-aa` · [HTML page](https://eulogikon.org/works/aristocrates-sparta-customs-fau-aa)
 
 ## Text
 

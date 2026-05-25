@@ -4,7 +4,7 @@ title_greek: Ἐπιστολαί
 author: Amasis Letters
 eul_wid: etw-aa
 eul_aid: etw
-canonical: "https://eulogikon.org/grc/amasis-letters/fortune-rule"
+canonical: "https://eulogikon.org/works/amasis-letters-fortune-rule-etw-aa"
 period: Classical
 dialect: Koine
 domain: Rhetoric
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Amasis Letters
 
-**eul_wid:** `etw-aa` · [HTML page](https://eulogikon.org/grc/amasis-letters/fortune-rule)
+**eul_wid:** `etw-aa` · [HTML page](https://eulogikon.org/works/amasis-letters-fortune-rule-etw-aa)
 
 ## Text
 

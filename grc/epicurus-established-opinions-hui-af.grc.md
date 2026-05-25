@@ -4,7 +4,7 @@ title_greek: Κύριαι Δόξαι
 author: Epicurus the Philosopher
 eul_wid: hui-af
 eul_aid: hui
-canonical: "https://eulogikon.org/grc/epicurus/established-opinions"
+canonical: "https://eulogikon.org/works/epicurus-established-opinions-hui-af"
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Epicurus the Philosopher
 
-**eul_wid:** `hui-af` · [HTML page](https://eulogikon.org/grc/epicurus/established-opinions)
+**eul_wid:** `hui-af` · [HTML page](https://eulogikon.org/works/epicurus-established-opinions-hui-af)
 
 ## Text
 

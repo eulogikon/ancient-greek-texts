@@ -4,7 +4,7 @@ title_greek: Ἡρακλεῖδαι
 author: Euripides
 eul_wid: cbm-ah
 eul_aid: cbm
-canonical: "https://eulogikon.org/grc/euripides/heraclidae"
+canonical: "https://eulogikon.org/works/euripides-heraclidae-cbm-ah"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euripides
 
-**eul_wid:** `cbm-ah` · [HTML page](https://eulogikon.org/grc/euripides/heraclidae)
+**eul_wid:** `cbm-ah` · [HTML page](https://eulogikon.org/works/euripides-heraclidae-cbm-ah)
 
 ## Text
 
@@ -708,7 +708,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 165.5
 
-†ἐρεῖς τὸ λῶιστον ἐλπίδ’ εὑρήσειν μόνον†·
+ἐρεῖς τὸ λῶιστον ἐλπίδ’ εὑρήσειν μόνον·
 
 ### 170.1
 
@@ -1584,7 +1584,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 395.2
 
-ποίαι προσάξει στρατόπεδον †τὰ νῦν δορὸς†
+ποίαι προσάξει στρατόπεδον τὰ νῦν δορὸς
 
 ### 395.3
 
@@ -2092,7 +2092,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 525.5
 
-καὶ στεμματοῦτε καὶ †κατάρχεσθ’ εἰ δοκεῖ†·
+καὶ στεμματοῦτε καὶ κατάρχεσθ’ εἰ δοκεῖ·
 
 ### 530.1
 
@@ -2200,7 +2200,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 555.4
 
-Πα. σοφῶς †κελεύεις†· μὴ τρέσηις μιάσματος
+Πα. σοφῶς κελεύεις· μὴ τρέσηις μιάσματος
 
 ### 555.5
 
@@ -2412,7 +2412,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 610.5
 
-τὸν δ’ †ἀλήταν† εὐδαίμονα τεύχει.
+τὸν δ’ ἀλήταν εὐδαίμονα τεύχει.
 
 ### 615.1
 
@@ -3076,11 +3076,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 784
 
-δέσποινα, μύθους σοί τε †συντομωτάτους
+δέσποινα, μύθους σοί τε συντομωτάτους
 
 ### 785.1
 
-κλύειν ἐμοί τε τῶιδε καλλίστους φέρω†·
+κλύειν ἐμοί τε τῶιδε καλλίστους φέρω·
 
 ### 785.2
 
@@ -3092,7 +3092,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 785.4
 
-Αλ. ὦ φίλταθ’, ἥδε ς’ ἡμέρα †διήλασεν†·
+Αλ. ὦ φίλταθ’, ἥδε ς’ ἡμέρα διήλασεν·
 
 ### 785.5
 
@@ -3112,7 +3112,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 790.4
 
-Αλ. ὁ μὲν γέρων †οὐκ ἔστιν Ἰόλεως ὅδε†;
+Αλ. ὁ μὲν γέρων οὐκ ἔστιν Ἰόλεως ὅδε;
 
 ### 790.5
 
@@ -3292,7 +3292,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 835.4
 
-πολλοὶ δ’ ἔπιπτον. ἦν δὲ †τοῦ κελεύσματος†
+πολλοὶ δ’ ἔπιπτον. ἦν δὲ τοῦ κελεύσματος
 
 ### 835.5
 
@@ -3468,7 +3468,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 880.5
 
-†κρατοῦντα† καὶ σῆι δεσποτούμενον χερί.
+κρατοῦντα καὶ σῆι δεσποτούμενον χερί.
 
 ### 885.1
 
@@ -3500,7 +3500,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 890.3
 
-τοῦ χάρις †ἐνὶ δαΐ†·
+τοῦ χάρις ἐνὶ δαΐ·
 
 ### 890.4
 
@@ -3780,7 +3780,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 965.5
 
-Αλ. χρῆν τόνδε μὴ ζῆν μηδ’ †ὁρᾶν φάος ἔτι†.
+Αλ. χρῆν τόνδε μὴ ζῆν μηδ’ ὁρᾶν φάος ἔτι.
 
 ### 970.1
 
@@ -3900,7 +3900,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 995.5
 
-ἀκούσεταί †γ’ ἐσθλὰ† χρηστὸς ὢν ἀνήρ. κείνου δ’ ἀπαλλαχθέντος οὐκ ἐχρῆν μ’ ἄρα,
+ἀκούσεταί γ’ ἐσθλὰ χρηστὸς ὢν ἀνήρ. κείνου δ’ ἀπαλλαχθέντος οὐκ ἐχρῆν μ’ ἄρα,
 
 ### 995.6
 
@@ -3956,7 +3956,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1015.1
 
-τὸν προστρόπαιον †τόν τε γενναῖον† καλεῖν.
+τὸν προστρόπαιον τόν τε γενναῖον καλεῖν.
 
 ### 1015.2
 

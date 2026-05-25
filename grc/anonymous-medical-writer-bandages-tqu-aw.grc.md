@@ -4,7 +4,7 @@ title_greek: Περὶ Ἐπιδέσμων
 author: Medical Writer  Anonymous
 eul_wid: tqu-aw
 eul_aid: tqu
-canonical: "https://eulogikon.org/grc/anonymous-medical-writer/bandages"
+canonical: "https://eulogikon.org/works/med-writer-anon-bandages-tqu-aw"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Medical Writer  Anonymous
 
-**eul_wid:** `tqu-aw` · [HTML page](https://eulogikon.org/grc/anonymous-medical-writer/bandages)
+**eul_wid:** `tqu-aw` · [HTML page](https://eulogikon.org/works/med-writer-anon-bandages-tqu-aw)
 
 ## Text
 

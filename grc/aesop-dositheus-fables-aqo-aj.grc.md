@@ -4,7 +4,7 @@ title_greek: Μῦθοι Δοσιθέου
 author: Aesop the Fabulist
 eul_wid: aqo-aj
 eul_aid: aqo
-canonical: "https://eulogikon.org/grc/aesop/dositheus-fables"
+canonical: "https://eulogikon.org/works/aesop-dositheus-fables-aqo-aj"
 period: Archaic
 dialect: Mixed Dialects
 domain: Fiction
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aesop the Fabulist
 
-**eul_wid:** `aqo-aj` · [HTML page](https://eulogikon.org/grc/aesop/dositheus-fables)
+**eul_wid:** `aqo-aj` · [HTML page](https://eulogikon.org/works/aesop-dositheus-fables-aqo-aj)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Προλεγόμενα Βοσσιανά
 author: Commentary on Dionysius Thrax
 eul_wid: lvi-ab
 eul_aid: lvi
-canonical: "https://eulogikon.org/grc/commentary-on-dionysius-thrax/prolegomena-vossiana"
+canonical: "https://eulogikon.org/works/comm-dionysius-thrax-prolegomena-vossiana-lvi-ab"
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Commentary on Dionysius Thrax
 
-**eul_wid:** `lvi-ab` · [HTML page](https://eulogikon.org/grc/commentary-on-dionysius-thrax/prolegomena-vossiana)
+**eul_wid:** `lvi-ab` · [HTML page](https://eulogikon.org/works/comm-dionysius-thrax-prolegomena-vossiana-lvi-ab)
 
 ## Text
 

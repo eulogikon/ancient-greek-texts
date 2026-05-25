@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Dexippus of Athens
 eul_wid: rpi-aa
 eul_aid: rpi
-canonical: "https://eulogikon.org/grc/dexippus-of-athens/successors"
+canonical: "https://eulogikon.org/works/dexippus-athens-successors-rpi-aa"
 period: Roman
 dialect: Atticizing
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dexippus of Athens
 
-**eul_wid:** `rpi-aa` · [HTML page](https://eulogikon.org/grc/dexippus-of-athens/successors)
+**eul_wid:** `rpi-aa` · [HTML page](https://eulogikon.org/works/dexippus-athens-successors-rpi-aa)
 
 ## Text
 

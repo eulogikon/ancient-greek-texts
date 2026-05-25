@@ -4,7 +4,7 @@ title_greek: ἐκ τῆς Σαυνιτικῆς
 author: Appian of Alexandria
 eul_wid: pdc-ae
 eul_aid: pdc
-canonical: "https://eulogikon.org/grc/appian-of-alexandria/saunitic"
+canonical: "https://eulogikon.org/works/appian-alexandria-saunitic-pdc-ae"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Appian of Alexandria
 
-**eul_wid:** `pdc-ae` · [HTML page](https://eulogikon.org/grc/appian-of-alexandria/saunitic)
+**eul_wid:** `pdc-ae` · [HTML page](https://eulogikon.org/works/appian-alexandria-saunitic-pdc-ae)
 
 ## Text
 

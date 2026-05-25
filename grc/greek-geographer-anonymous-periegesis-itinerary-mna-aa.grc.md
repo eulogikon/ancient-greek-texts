@@ -4,7 +4,7 @@ title_greek: Περιήγησις Σκύμνου Χίου
 author: Greek Geographer  Anonymous
 eul_wid: mna-aa
 eul_aid: mna
-canonical: "https://eulogikon.org/grc/greek-geographer-anonymous/periegesis-itinerary"
+canonical: "https://eulogikon.org/works/anon-geographer-periegesis-itinerary-mna-aa"
 period: Hellenistic
 dialect: Koine
 domain: Geography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Greek Geographer  Anonymous
 
-**eul_wid:** `mna-aa` · [HTML page](https://eulogikon.org/grc/greek-geographer-anonymous/periegesis-itinerary)
+**eul_wid:** `mna-aa` · [HTML page](https://eulogikon.org/works/anon-geographer-periegesis-itinerary-mna-aa)
 
 ## Text
 

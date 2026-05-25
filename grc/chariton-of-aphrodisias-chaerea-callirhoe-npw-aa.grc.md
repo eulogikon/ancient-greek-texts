@@ -4,7 +4,7 @@ title_greek: Περὶ Χαιρέου καὶ Καλλιρρόης
 author: Chariton of Aphrodisias
 eul_wid: npw-aa
 eul_aid: npw
-canonical: "https://eulogikon.org/grc/chariton-of-aphrodisias/chaerea-callirhoe"
+canonical: "https://eulogikon.org/works/chariton-aphrodisias-chaerea-callirhoe-npw-aa"
 period: Roman
 dialect: Koine
 domain: Fiction
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Chariton of Aphrodisias
 
-**eul_wid:** `npw-aa` · [HTML page](https://eulogikon.org/grc/chariton-of-aphrodisias/chaerea-callirhoe)
+**eul_wid:** `npw-aa` · [HTML page](https://eulogikon.org/works/chariton-aphrodisias-chaerea-callirhoe-npw-aa)
 
 ## Text
 

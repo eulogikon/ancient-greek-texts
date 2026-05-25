@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τῆς Ἰσαυρίας
 author: "Capito "
 eul_wid: pri-aa
 eul_aid: pri
-canonical: "https://eulogikon.org/grc/capito/geographical-isauria"
+canonical: "https://eulogikon.org/works/capito-geographical-isauria-pri-aa"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Capito 
 
-**eul_wid:** `pri-aa` · [HTML page](https://eulogikon.org/grc/capito/geographical-isauria)
+**eul_wid:** `pri-aa` · [HTML page](https://eulogikon.org/works/capito-geographical-isauria-pri-aa)
 
 ## Text
 

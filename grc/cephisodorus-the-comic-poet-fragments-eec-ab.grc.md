@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Κωμῳδίας
 author: Cephisodorus the Comic Poet
 eul_wid: eec-ab
 eul_aid: eec
-canonical: "https://eulogikon.org/grc/cephisodorus-the-comic-poet/fragments"
+canonical: "https://eulogikon.org/works/cephisodorus-comic-fragments-eec-ab"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cephisodorus the Comic Poet
 
-**eul_wid:** `eec-ab` · [HTML page](https://eulogikon.org/grc/cephisodorus-the-comic-poet/fragments)
+**eul_wid:** `eec-ab` · [HTML page](https://eulogikon.org/works/cephisodorus-comic-fragments-eec-ab)
 
 ## Text
 

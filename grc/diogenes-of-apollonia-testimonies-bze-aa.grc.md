@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Diogenes of Apollonia
 eul_wid: bze-aa
 eul_aid: bze
-canonical: "https://eulogikon.org/grc/diogenes-of-apollonia/testimonies"
+canonical: "https://eulogikon.org/works/diogenes-apollonia-testimonies-bze-aa"
 period: Classical
 dialect: Ionic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Diogenes of Apollonia
 
-**eul_wid:** `bze-aa` · [HTML page](https://eulogikon.org/grc/diogenes-of-apollonia/testimonies)
+**eul_wid:** `bze-aa` · [HTML page](https://eulogikon.org/works/diogenes-apollonia-testimonies-bze-aa)
 
 ## Text
 

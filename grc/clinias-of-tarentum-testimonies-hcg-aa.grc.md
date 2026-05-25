@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Clinias of Tarentum
 eul_wid: hcg-aa
 eul_aid: hcg
-canonical: "https://eulogikon.org/grc/clinias-of-tarentum/testimonies"
+canonical: "https://eulogikon.org/works/clinias-tarentum-testimonies-hcg-aa"
 period: Classical
 dialect: "Doric (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Clinias of Tarentum
 
-**eul_wid:** `hcg-aa` · [HTML page](https://eulogikon.org/grc/clinias-of-tarentum/testimonies)
+**eul_wid:** `hcg-aa` · [HTML page](https://eulogikon.org/works/clinias-tarentum-testimonies-hcg-aa)
 
 ## Text
 

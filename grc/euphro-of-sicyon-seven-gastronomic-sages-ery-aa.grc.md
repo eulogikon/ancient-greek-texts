@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Euphro of Sicyon the Comic Poet
 eul_wid: ery-aa
 eul_aid: ery
-canonical: "https://eulogikon.org/grc/euphro-of-sicyon/seven-gastronomic-sages"
+canonical: "https://eulogikon.org/works/euphro-sicyon-seven-gastronomic-sages-ery-aa"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euphro of Sicyon the Comic Poet
 
-**eul_wid:** `ery-aa` · [HTML page](https://eulogikon.org/grc/euphro-of-sicyon/seven-gastronomic-sages)
+**eul_wid:** `ery-aa` · [HTML page](https://eulogikon.org/works/euphro-sicyon-seven-gastronomic-sages-ery-aa)
 
 ## Text
 

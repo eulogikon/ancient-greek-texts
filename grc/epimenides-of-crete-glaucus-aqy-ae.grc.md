@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Γλαύκου
 author: Epimenides of Crete
 eul_wid: aqy-ae
 eul_aid: aqy
-canonical: "https://eulogikon.org/grc/epimenides-of-crete/glaucus"
+canonical: "https://eulogikon.org/works/epimenides-crete-glaucus-aqy-ae"
 period: Archaic
 dialect: Epic (Homeric)
 domain: Philosophy
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Epimenides of Crete
 
-**eul_wid:** `aqy-ae` · [HTML page](https://eulogikon.org/grc/epimenides-of-crete/glaucus)
+**eul_wid:** `aqy-ae` · [HTML page](https://eulogikon.org/works/epimenides-crete-glaucus-aqy-ae)
 
 ## Text
 
 ### 2bis (l1)
 
-PAP. OX. 2442 fr. 29, 5f. (s. 3 p.; vol. 26, 1961, 49f. [Taf. 3]; Schol. Pind. Pai. 8 p. 43 Snell—Mähler [1975]) ... Ἐπιμε ν ]ί̣δ̣η̣ς ̣ ] ˈ δ ̣ ’ ἐ̣ν̣ ξ Γε̣ [ νεαλο γ ]ι̣ῶν ὑπὸ Γλαύκου ἐρίσαντα (scil. Κλύμενον ἀναιρεθῆναι) τῶι ζ̣εύγει τ’ [...
+PAP. OX. 2442 fr. 29, 5f. (s. 3 p.; vol. 26, 1961, 49f. [Taf. 3]; Schol. Pind. Pai. 8 p. 43 Snell—Mähler [1975]) ... Ἐπιμε ν ]ίδης ] ˈ δ ’ ἐν ξ Γε [ νεαλο γ ]ιῶν ὑπὸ Γλαύκου ἐρίσαντα (scil. Κλύμενον ἀναιρεθῆναι) τῶι ζεύγει τ’ [...
 
 ## License and provenance
 

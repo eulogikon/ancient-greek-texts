@@ -4,7 +4,7 @@ title_greek: Ἐπιστολαὶ Ἀπολλωνίου
 author: Apollonius of Tyana
 eul_wid: nxe-ab
 eul_aid: nxe
-canonical: "https://eulogikon.org/grc/apollonius-of-tyana/letters"
+canonical: "https://eulogikon.org/works/apollonius-tyana-letters-nxe-ab"
 period: Roman
 dialect: Koine
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Apollonius of Tyana
 
-**eul_wid:** `nxe-ab` · [HTML page](https://eulogikon.org/grc/apollonius-of-tyana/letters)
+**eul_wid:** `nxe-ab` · [HTML page](https://eulogikon.org/works/apollonius-tyana-letters-nxe-ab)
 
 ## Text
 

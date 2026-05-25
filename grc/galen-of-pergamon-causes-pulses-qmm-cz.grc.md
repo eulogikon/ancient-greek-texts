@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν αἰτιῶν τῶν σφυγμῶν
 author: Galen of Pergamon
 eul_wid: qmm-cz
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/causes-pulses"
+canonical: "https://eulogikon.org/works/galen-pergamon-causes-pulses-qmm-cz"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-cz` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/causes-pulses)
+**eul_wid:** `qmm-cz` · [HTML page](https://eulogikon.org/works/galen-pergamon-causes-pulses-qmm-cz)
 
 ## Text
 

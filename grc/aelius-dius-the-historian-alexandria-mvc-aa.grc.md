@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἀλεξανδρείας
 author: Aelius Dius the Historian
 eul_wid: mvc-aa
 eul_aid: mvc
-canonical: "https://eulogikon.org/grc/aelius-dius-the-historian/alexandria"
+canonical: "https://eulogikon.org/works/aelius-dius-alexandria-mvc-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aelius Dius the Historian
 
-**eul_wid:** `mvc-aa` · [HTML page](https://eulogikon.org/grc/aelius-dius-the-historian/alexandria)
+**eul_wid:** `mvc-aa` · [HTML page](https://eulogikon.org/works/aelius-dius-alexandria-mvc-aa)
 
 ## Text
 

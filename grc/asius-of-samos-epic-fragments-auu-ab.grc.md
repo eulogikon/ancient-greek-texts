@@ -4,7 +4,7 @@ title_greek: Ἐπικὰ Ἀποσπάσματα
 author: Asius of Samos
 eul_wid: auu-ab
 eul_aid: auu
-canonical: "https://eulogikon.org/grc/asius-of-samos/epic-fragments"
+canonical: "https://eulogikon.org/works/asius-samos-epic-fragments-auu-ab"
 period: Archaic
 dialect: Epic (Homeric) (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Asius of Samos
 
-**eul_wid:** `auu-ab` · [HTML page](https://eulogikon.org/grc/asius-of-samos/epic-fragments)
+**eul_wid:** `auu-ab` · [HTML page](https://eulogikon.org/works/asius-samos-epic-fragments-auu-ab)
 
 ## Text
 

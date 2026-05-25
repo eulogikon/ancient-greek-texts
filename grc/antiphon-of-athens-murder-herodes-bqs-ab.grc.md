@@ -4,7 +4,7 @@ title_greek: Περὶ τοῦ Ἡρῷδου φόνου
 author: "Antiphon of Athens "
 eul_wid: bqs-ab
 eul_aid: bqs
-canonical: "https://eulogikon.org/grc/antiphon-of-athens/murder-herodes"
+canonical: "https://eulogikon.org/works/antiphon-athens-murder-herodes-bqs-ab"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Antiphon of Athens 
 
-**eul_wid:** `bqs-ab` · [HTML page](https://eulogikon.org/grc/antiphon-of-athens/murder-herodes)
+**eul_wid:** `bqs-ab` · [HTML page](https://eulogikon.org/works/antiphon-athens-murder-herodes-bqs-ab)
 
 ## Text
 

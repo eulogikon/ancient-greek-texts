@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Echecrates of Phlius
 eul_wid: ffa-aa
 eul_aid: ffa
-canonical: "https://eulogikon.org/grc/echecrates-of-phlius/testimonies"
+canonical: "https://eulogikon.org/works/echecrates-phlius-testimonies-ffa-aa"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Echecrates of Phlius
 
-**eul_wid:** `ffa-aa` · [HTML page](https://eulogikon.org/grc/echecrates-of-phlius/testimonies)
+**eul_wid:** `ffa-aa` · [HTML page](https://eulogikon.org/works/echecrates-phlius-testimonies-ffa-aa)
 
 ## Text
 

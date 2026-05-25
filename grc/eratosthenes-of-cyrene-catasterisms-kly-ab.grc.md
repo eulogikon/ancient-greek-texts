@@ -4,7 +4,7 @@ title_greek: Καταστερισμοί
 author: Eratosthenes of Cyrene
 eul_wid: kly-ab
 eul_aid: kly
-canonical: "https://eulogikon.org/grc/eratosthenes-of-cyrene/catasterisms"
+canonical: "https://eulogikon.org/works/eratosthenes-cyrene-catasterisms-kly-ab"
 period: Hellenistic
 dialect: Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Eratosthenes of Cyrene
 
-**eul_wid:** `kly-ab` · [HTML page](https://eulogikon.org/grc/eratosthenes-of-cyrene/catasterisms)
+**eul_wid:** `kly-ab` · [HTML page](https://eulogikon.org/works/eratosthenes-cyrene-catasterisms-kly-ab)
 
 ## Text
 

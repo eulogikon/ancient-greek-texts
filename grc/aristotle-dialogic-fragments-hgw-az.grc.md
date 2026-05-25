@@ -4,7 +4,7 @@ title_greek: Διάφορα Ἀποσπάσματα
 author: Aristotle
 eul_wid: hgw-az
 eul_aid: hgw
-canonical: "https://eulogikon.org/grc/aristotle/dialogic-fragments"
+canonical: "https://eulogikon.org/works/aristotle-dialogic-fragments-hgw-az"
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristotle
 
-**eul_wid:** `hgw-az` · [HTML page](https://eulogikon.org/grc/aristotle/dialogic-fragments)
+**eul_wid:** `hgw-az` · [HTML page](https://eulogikon.org/works/aristotle-dialogic-fragments-hgw-az)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἱεροὶ λόγοι πρῶτος
 author: Aristides the Orator
 eul_wid: qwm-bh
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/sacred-words-bh"
+canonical: "https://eulogikon.org/works/aristides-orator-sacred-words-qwm-bh"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-bh` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/sacred-words-bh)
+**eul_wid:** `qwm-bh` · [HTML page](https://eulogikon.org/works/aristides-orator-sacred-words-qwm-bh)
 
 ## Text
 

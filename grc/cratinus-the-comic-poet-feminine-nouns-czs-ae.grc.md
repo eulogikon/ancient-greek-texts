@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Cratinus the Comic Poet
 eul_wid: czs-ae
 eul_aid: czs
-canonical: "https://eulogikon.org/grc/cratinus-the-comic-poet/feminine-nouns"
+canonical: "https://eulogikon.org/works/cratinus-feminine-nouns-czs-ae"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cratinus the Comic Poet
 
-**eul_wid:** `czs-ae` · [HTML page](https://eulogikon.org/grc/cratinus-the-comic-poet/feminine-nouns)
+**eul_wid:** `czs-ae` · [HTML page](https://eulogikon.org/works/cratinus-feminine-nouns-czs-ae)
 
 ## Text
 

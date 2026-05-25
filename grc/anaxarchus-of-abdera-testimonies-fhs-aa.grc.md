@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Anaxarchus of Abdera
 eul_wid: fhs-aa
 eul_aid: fhs
-canonical: "https://eulogikon.org/grc/anaxarchus-of-abdera/testimonies"
+canonical: "https://eulogikon.org/works/anaxarchus-abdera-testimonies-fhs-aa"
 period: Classical
 dialect: "Attic (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Anaxarchus of Abdera
 
-**eul_wid:** `fhs-aa` · [HTML page](https://eulogikon.org/grc/anaxarchus-of-abdera/testimonies)
+**eul_wid:** `fhs-aa` · [HTML page](https://eulogikon.org/works/anaxarchus-abdera-testimonies-fhs-aa)
 
 ## Text
 

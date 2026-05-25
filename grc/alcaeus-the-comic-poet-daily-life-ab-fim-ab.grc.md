@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Βίου Καθημερινοῦ 
 author: Alcaeus the Comic Poet
 eul_wid: fim-ab
 eul_aid: fim
-canonical: "https://eulogikon.org/grc/alcaeus-the-comic-poet/daily-life-ab"
+canonical: "https://eulogikon.org/works/alcaeus-comic-daily-life-fim-ab"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alcaeus the Comic Poet
 
-**eul_wid:** `fim-ab` · [HTML page](https://eulogikon.org/grc/alcaeus-the-comic-poet/daily-life-ab)
+**eul_wid:** `fim-ab` · [HTML page](https://eulogikon.org/works/alcaeus-comic-daily-life-fim-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν τόπων τῶν πεπονθότων
 author: Galen of Pergamon
 eul_wid: qmm-dm
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/affected-places"
+canonical: "https://eulogikon.org/works/galen-pergamon-affected-places-qmm-dm"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-dm` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/affected-places)
+**eul_wid:** `qmm-dm` · [HTML page](https://eulogikon.org/works/galen-pergamon-affected-places-qmm-dm)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Βωμός
 author: Dosiadas of Crete
 eul_wid: icu-ab
 eul_aid: icu
-canonical: "https://eulogikon.org/grc/dosiadas-of-crete/altar"
+canonical: "https://eulogikon.org/works/dosiadas-crete-altar-icu-ab"
 period: Hellenistic
 dialect: Doric (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dosiadas of Crete
 
-**eul_wid:** `icu-ab` · [HTML page](https://eulogikon.org/grc/dosiadas-of-crete/altar)
+**eul_wid:** `icu-ab` · [HTML page](https://eulogikon.org/works/dosiadas-crete-altar-icu-ab)
 
 ## Text
 

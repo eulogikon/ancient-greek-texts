@@ -4,7 +4,7 @@ title_greek: Ὀλυνθιακὸς β΄
 author: Demosthenes of Athens
 eul_wid: fsm-cf
 eul_aid: fsm
-canonical: "https://eulogikon.org/grc/demosthenes-of-athens/olynthiac-2"
+canonical: "https://eulogikon.org/works/demosthenes-athens-olynthiac-2-fsm-cf"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demosthenes of Athens
 
-**eul_wid:** `fsm-cf` · [HTML page](https://eulogikon.org/grc/demosthenes-of-athens/olynthiac-2)
+**eul_wid:** `fsm-cf` · [HTML page](https://eulogikon.org/works/demosthenes-athens-olynthiac-2-fsm-cf)
 
 ## Text
 

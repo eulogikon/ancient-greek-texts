@@ -4,7 +4,7 @@ title_greek: Σφῆκες
 author: Aristophanes of Athens
 eul_wid: daw-al
 eul_aid: daw
-canonical: "https://eulogikon.org/grc/aristophanes-of-athens/wasps"
+canonical: "https://eulogikon.org/works/aristophanes-athens-wasps-daw-al"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristophanes of Athens
 
-**eul_wid:** `daw-al` · [HTML page](https://eulogikon.org/grc/aristophanes-of-athens/wasps)
+**eul_wid:** `daw-al` · [HTML page](https://eulogikon.org/works/aristophanes-athens-wasps-daw-al)
 
 ## Text
 

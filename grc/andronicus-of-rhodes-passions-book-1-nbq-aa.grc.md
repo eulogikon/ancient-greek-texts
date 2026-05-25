@@ -4,7 +4,7 @@ title_greek: Περὶ παθῶν
 author: "Andronicus of Rhodes "
 eul_wid: nbq-aa
 eul_aid: nbq
-canonical: "https://eulogikon.org/grc/andronicus-of-rhodes/passions-book-1"
+canonical: "https://eulogikon.org/works/andronicus-rhodes-passions-book-1-nbq-aa"
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Andronicus of Rhodes 
 
-**eul_wid:** `nbq-aa` · [HTML page](https://eulogikon.org/grc/andronicus-of-rhodes/passions-book-1)
+**eul_wid:** `nbq-aa` · [HTML page](https://eulogikon.org/works/andronicus-rhodes-passions-book-1-nbq-aa)
 
 ## Text
 

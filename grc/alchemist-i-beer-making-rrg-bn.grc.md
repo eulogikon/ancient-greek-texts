@@ -4,7 +4,7 @@ title_greek: Περὶ ζύθων ποιήσεως
 author: Alchemist I
 eul_wid: rrg-bn
 eul_aid: rrg
-canonical: "https://eulogikon.org/grc/alchemist-i/beer-making"
+canonical: "https://eulogikon.org/works/alchemist-i-beer-making-rrg-bn"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alchemist I
 
-**eul_wid:** `rrg-bn` · [HTML page](https://eulogikon.org/grc/alchemist-i/beer-making)
+**eul_wid:** `rrg-bn` · [HTML page](https://eulogikon.org/works/alchemist-i-beer-making-rrg-bn)
 
 ## Text
 

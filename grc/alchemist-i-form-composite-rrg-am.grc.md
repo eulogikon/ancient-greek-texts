@@ -4,7 +4,7 @@ title_greek: Ὅτι σύνθετον καὶ οὐχ ἁπλοῦν τὸ εἶ
 author: Alchemist I
 eul_wid: rrg-am
 eul_aid: rrg
-canonical: "https://eulogikon.org/grc/alchemist-i/form-composite"
+canonical: "https://eulogikon.org/works/alchemist-i-form-composite-rrg-am"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alchemist I
 
-**eul_wid:** `rrg-am` · [HTML page](https://eulogikon.org/grc/alchemist-i/form-composite)
+**eul_wid:** `rrg-am` · [HTML page](https://eulogikon.org/works/alchemist-i-form-composite-rrg-am)
 
 ## Text
 

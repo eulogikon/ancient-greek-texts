@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Eurytus the Pythagorean
 eul_wid: eyw-ab
 eul_aid: eyw
-canonical: "https://eulogikon.org/grc/eurytus-the-pythagorean/chance-spontaneous-events"
+canonical: "https://eulogikon.org/works/eurytus-pythagorean-chance-spontaneous-events-eyw-ab"
 period: Classical
 dialect: Doric
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Eurytus the Pythagorean
 
-**eul_wid:** `eyw-ab` · [HTML page](https://eulogikon.org/grc/eurytus-the-pythagorean/chance-spontaneous-events)
+**eul_wid:** `eyw-ab` · [HTML page](https://eulogikon.org/works/eurytus-pythagorean-chance-spontaneous-events-eyw-ab)
 
 ## Text
 

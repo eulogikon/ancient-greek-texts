@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Aristonicus of Alexandria
 eul_wid: mia-ad
 eul_aid: mia
-canonical: "https://eulogikon.org/grc/aristonicus-of-alexandria/tragic-dance"
+canonical: "https://eulogikon.org/works/aristonicus-alexandria-tragic-dance-mia-ad"
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristonicus of Alexandria
 
-**eul_wid:** `mia-ad` · [HTML page](https://eulogikon.org/grc/aristonicus-of-alexandria/tragic-dance)
+**eul_wid:** `mia-ad` · [HTML page](https://eulogikon.org/works/aristonicus-alexandria-tragic-dance-mia-ad)
 
 ## Text
 

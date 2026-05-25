@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: "Damon of Athens "
 eul_wid: eni-aa
 eul_aid: eni
-canonical: "https://eulogikon.org/grc/damon-the-historian/testimonies"
+canonical: "https://eulogikon.org/works/damon-athens-testimonies-eni-aa"
 period: Classical
 dialect: Attic (frg)
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Damon of Athens 
 
-**eul_wid:** `eni-aa` · [HTML page](https://eulogikon.org/grc/damon-the-historian/testimonies)
+**eul_wid:** `eni-aa` · [HTML page](https://eulogikon.org/works/damon-athens-testimonies-eni-aa)
 
 ## Text
 

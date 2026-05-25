@@ -4,7 +4,7 @@ title_greek: Ἰσθμικὸς εἰς Ποσειδῶνα
 author: Aristides the Orator
 eul_wid: qwm-ay
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/isthmian-poseidon"
+canonical: "https://eulogikon.org/works/aristides-orator-isthmian-poseidon-qwm-ay"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-ay` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/isthmian-poseidon)
+**eul_wid:** `qwm-ay` · [HTML page](https://eulogikon.org/works/aristides-orator-isthmian-poseidon-qwm-ay)
 
 ## Text
 

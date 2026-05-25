@@ -4,7 +4,7 @@ title_greek: Περὶ Μαντικῆς κατὰ Ὕπνον
 author: Aristotle
 eul_wid: hgw-ao
 eul_aid: hgw
-canonical: "https://eulogikon.org/grc/aristotle/divination-sleep"
+canonical: "https://eulogikon.org/works/aristotle-divination-sleep-hgw-ao"
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristotle
 
-**eul_wid:** `hgw-ao` · [HTML page](https://eulogikon.org/grc/aristotle/divination-sleep)
+**eul_wid:** `hgw-ao` · [HTML page](https://eulogikon.org/works/aristotle-divination-sleep-hgw-ao)
 
 ## Text
 

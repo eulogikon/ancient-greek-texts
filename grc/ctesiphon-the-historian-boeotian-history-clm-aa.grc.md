@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τῆς Βοιωτικῆς Ἱσ
 author: Ctesiphon Historicus
 eul_wid: clm-aa
 eul_aid: clm
-canonical: "https://eulogikon.org/grc/ctesiphon-the-historian/boeotian-history"
+canonical: "https://eulogikon.org/works/ctesiphon-boeotian-history-clm-aa"
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ctesiphon Historicus
 
-**eul_wid:** `clm-aa` · [HTML page](https://eulogikon.org/grc/ctesiphon-the-historian/boeotian-history)
+**eul_wid:** `clm-aa` · [HTML page](https://eulogikon.org/works/ctesiphon-boeotian-history-clm-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Θαλασσῶν Πυρίνων
 author: Hegesianax of Alexandria Troas
 eul_wid: kqe-ab
 eul_aid: kqe
-canonical: "https://eulogikon.org/grc/hegesianax-of-alexandria-troas/fiery-seas"
+canonical: "https://eulogikon.org/works/hegesianax-alexandria-troas-fiery-seas-kqe-ab"
 period: Hellenistic
 dialect: Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hegesianax of Alexandria Troas
 
-**eul_wid:** `kqe-ab` · [HTML page](https://eulogikon.org/grc/hegesianax-of-alexandria-troas/fiery-seas)
+**eul_wid:** `kqe-ab` · [HTML page](https://eulogikon.org/works/hegesianax-alexandria-troas-fiery-seas-kqe-ab)
 
 ## Text
 

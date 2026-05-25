@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Τροφῆς καὶ Ποτοῦ
 author: Dioxippus the Comic Poet
 eul_wid: hrq-ab
 eul_aid: hrq
-canonical: "https://eulogikon.org/grc/dioxippus-the-comic-poet/food-drink"
+canonical: "https://eulogikon.org/works/dioxippus-food-drink-hrq-ab"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dioxippus the Comic Poet
 
-**eul_wid:** `hrq-ab` · [HTML page](https://eulogikon.org/grc/dioxippus-the-comic-poet/food-drink)
+**eul_wid:** `hrq-ab` · [HTML page](https://eulogikon.org/works/dioxippus-food-drink-hrq-ab)
 
 ## Text
 

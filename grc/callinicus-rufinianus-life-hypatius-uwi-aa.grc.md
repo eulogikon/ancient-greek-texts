@@ -4,7 +4,7 @@ title_greek: Βίος τοῦ Ἁγίου Ὑπατίου
 author: Callinicus Rufinianus
 eul_wid: uwi-aa
 eul_aid: uwi
-canonical: "https://eulogikon.org/grc/callinicus-rufinianus/life-hypatius"
+canonical: "https://eulogikon.org/works/callinicus-rufinianus-life-hypatius-uwi-aa"
 period: Roman
 dialect: Koine
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Callinicus Rufinianus
 
-**eul_wid:** `uwi-aa` · [HTML page](https://eulogikon.org/grc/callinicus-rufinianus/life-hypatius)
+**eul_wid:** `uwi-aa` · [HTML page](https://eulogikon.org/works/callinicus-rufinianus-life-hypatius-uwi-aa)
 
 ## Text
 

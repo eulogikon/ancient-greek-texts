@@ -4,7 +4,7 @@ title_greek: Δημοσθένους ἐπιστολαὶ
 author: Demosthenes of Athens
 eul_wid: fsm-bl
 eul_aid: fsm
-canonical: "https://eulogikon.org/grc/demosthenes-of-athens/letters"
+canonical: "https://eulogikon.org/works/demosthenes-athens-letters-fsm-bl"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demosthenes of Athens
 
-**eul_wid:** `fsm-bl` · [HTML page](https://eulogikon.org/grc/demosthenes-of-athens/letters)
+**eul_wid:** `fsm-bl` · [HTML page](https://eulogikon.org/works/demosthenes-athens-letters-fsm-bl)
 
 ## Text
 

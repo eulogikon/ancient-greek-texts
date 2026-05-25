@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Μυθολογίας
 author: Aristonicus of Tarentum
 eul_wid: lae-aa
 eul_aid: lae
-canonical: "https://eulogikon.org/grc/aristonicus-of-tarentum/mythology"
+canonical: "https://eulogikon.org/works/aristonicus-tarentum-mythology-lae-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristonicus of Tarentum
 
-**eul_wid:** `lae-aa` · [HTML page](https://eulogikon.org/grc/aristonicus-of-tarentum/mythology)
+**eul_wid:** `lae-aa` · [HTML page](https://eulogikon.org/works/aristonicus-tarentum-mythology-lae-aa)
 
 ## Text
 

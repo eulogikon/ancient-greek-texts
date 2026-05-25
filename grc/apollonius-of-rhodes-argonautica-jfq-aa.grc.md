@@ -4,7 +4,7 @@ title_greek: Ἀργοναυτικά
 author: Apollonius of Rhodes
 eul_wid: jfq-aa
 eul_aid: jfq
-canonical: "https://eulogikon.org/grc/apollonius-of-rhodes/argonautica"
+canonical: "https://eulogikon.org/works/apollonius-rhodes-argonautica-jfq-aa"
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Apollonius of Rhodes
 
-**eul_wid:** `jfq-aa` · [HTML page](https://eulogikon.org/grc/apollonius-of-rhodes/argonautica)
+**eul_wid:** `jfq-aa` · [HTML page](https://eulogikon.org/works/apollonius-rhodes-argonautica-jfq-aa)
 
 ## Text
 
@@ -256,7 +256,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1.55.5
 
-Καινέα γὰρ ζωόν †περ ἔτι κλείουσιν ἀοιδοί†
+Καινέα γὰρ ζωόν περ ἔτι κλείουσιν ἀοιδοί
 
 ### book 1.60.1
 
@@ -532,7 +532,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1.125.4
 
-τὸν μὲν ἐνὶ πρώτοισι Μυκηνάων †ἀγορῇσι
+τὸν μὲν ἐνὶ πρώτοισι Μυκηνάων ἀγορῇσι
 
 ### book 1.125.5
 
@@ -964,7 +964,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1.235.1
 
-ὅσσα περ ἐντύνονται †ἐπαρτέα ἔνδοθι νῆες,
+ὅσσα περ ἐντύνονται ἐπαρτέα ἔνδοθι νῆες,
 
 ### book 1.235.2
 
@@ -1072,7 +1072,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1.2
 
-μήτηρ τ’ ἀμφασίῃ βεβολημένη, ὀξὺ δ’ †ἑκάστην
+μήτηρ τ’ ἀμφασίῃ βεβολημένη, ὀξὺ δ’ ἑκάστην
 
 ### book 1.3
 
@@ -1144,7 +1144,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1.280.1
 
-αὐτίκ’ †ἀπὸ ψυχὴν μεθέμεν κηδέων τε λαθέσθαι,
+αὐτίκ’ ἀπὸ ψυχὴν μεθέμεν κηδέων τε λαθέσθαι,
 
 ### book 1.280.2
 
@@ -1508,11 +1508,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1.370.2
 
-σκάπτον δ’ αἶψα κατ’ εὖρος ὅσον †περιβάλλεται χῶρος†,
+σκάπτον δ’ αἶψα κατ’ εὖρος ὅσον περιβάλλεται χῶρος,
 
 ### book 1.370.3
 
-†ἠδὲ κατὰ πρώειραν ἔσω ἁλὸς ὁσσάτιόν περ
+ἠδὲ κατὰ πρώειραν ἔσω ἁλὸς ὁσσάτιόν περ
 
 ### book 1.370.4
 
@@ -1640,7 +1640,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1.5
 
-Ἀκτί̣ου Ἐμβασίοιό τ’ ἐπώνυμον· ὦκα δὲ τοίγε
+Ἀκτίου Ἐμβασίοιό τ’ ἐπώνυμον· ὦκα δὲ τοίγε
 
 ### book 1.405.1
 
@@ -2000,7 +2000,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1.490.5
 
-αὐτός τ’ Αἰσονίδης κατερήτυεν· †ἂν δὲ καὶ† Ὀρφεύς,
+αὐτός τ’ Αἰσονίδης κατερήτυεν· ἂν δὲ καὶ Ὀρφεύς,
 
 ### book 1.495.1
 
@@ -2088,7 +2088,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1.515.2
 
-οὐδ’ †ἐπὶ δὴν μετέπειτα κερασσάμενοι Διὶ λοιβάς,
+οὐδ’ ἐπὶ δὴν μετέπειτα κερασσάμενοι Διὶ λοιβάς,
 
 ### book 1.515.3
 
@@ -2396,7 +2396,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1.590.4
 
-ἀκτήν τ’ αἰγιαλόν τε δυσήνεμον †εἰσορόωντες·
+ἀκτήν τ’ αἰγιαλόν τε δυσήνεμον εἰσορόωντες·
 
 ### book 1.590.5
 
@@ -3328,7 +3328,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1.825.2
 
-Θρηικίης ἄροσιν χιονώδεα †ναιετάουσιν.
+Θρηικίης ἄροσιν χιονώδεα ναιετάουσιν.
 
 ### book 1.825.3
 
@@ -3792,7 +3792,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1.940.3
 
-καὶ τὸ μὲν ὑβρισταί τε καὶ ἄγριοι †ναιετάουσιν
+καὶ τὸ μὲν ὑβρισταί τε καὶ ἄγριοι ναιετάουσιν
 
 ### book 1.940.4
 
@@ -4308,7 +4308,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1.1070.2
 
-ἀνδράσι τ’ ἐκ Διὸς ἦμαρ ἐπήλυθεν· οὐδὲ †γὰρ αὐτῶν†
+ἀνδράσι τ’ ἐκ Διὸς ἦμαρ ἐπήλυθεν· οὐδὲ γὰρ αὐτῶν
 
 ### book 1.1070.3
 
@@ -4888,7 +4888,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1.1215.2
 
-Θειοδάμας †ἀνίῃ βεβολημένος· αὐτὰρ ὁ τόνγε
+Θειοδάμας ἀνίῃ βεβολημένος· αὐτὰρ ὁ τόνγε
 
 ### book 1.1215.3
 
@@ -5356,7 +5356,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1.1330.4
 
-εἴ τί περ ἀασάμην, πέρι γάρ μ’ ἄχος †εἷλεν ἐνισπεῖν
+εἴ τί περ ἀασάμην, πέρι γάρ μ’ ἄχος εἷλεν ἐνισπεῖν
 
 ### book 1.1330.5
 
@@ -5468,7 +5468,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1.1360.2
 
-ἀκτὴν ἐκ κόλποιο μάλ’ †εὐρεῖαν ἐσιδέσθαι
+ἀκτὴν ἐκ κόλποιο μάλ’ εὐρεῖαν ἐσιδέσθαι
 
 ### book 1
 
@@ -5948,7 +5948,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2.115.5
 
-αἶψα †μέλαν τεταγὼν πέλεκυν μέγαν ἠδὲ κελαινόν
+αἶψα μέλαν τεταγὼν πέλεκυν μέγαν ἠδὲ κελαινόν
 
 ### book 2.120.1
 
@@ -6152,7 +6152,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2.170.1
 
-ἀμφέρεται προπάροιθεν ἐπαΐσσοντι †ἐοικός,
+ἀμφέρεται προπάροιθεν ἐπαΐσσοντι ἐοικός,
 
 ### book 2.170.2
 
@@ -6164,7 +6164,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2.170.4
 
-λάβρον ἐπικρέμαται †ὑπὲρ νέφεος†, ἀλλὰ τόγ’ ἔμπης
+λάβρον ἐπικρέμαται ὑπὲρ νέφεος, ἀλλὰ τόγ’ ἔμπης
 
 ### book 2.170.5
 
@@ -6368,7 +6368,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2.220.5
 
-ἔκποθεν ἀφράστοιο καταΐσσουσαι †ὀλέθρου,
+ἔκποθεν ἀφράστοιο καταΐσσουσαι ὀλέθρου,
 
 ### book 2.225.1
 
@@ -6404,7 +6404,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2.230.4
 
-μίμνειν, †καὶ μίμνοντα κακῇ† ἐν γαστέρι θέσθαι.
+μίμνειν, καὶ μίμνοντα κακῇ ἐν γαστέρι θέσθαι.
 
 ### book 2.230.5
 
@@ -6512,7 +6512,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2.260.1
 
-δαίμονες, οἳ †μηδ’ ὧδε θανόντι περ εὐμενέοιεν,
+δαίμονες, οἳ μηδ’ ὧδε θανόντι περ εὐμενέοιεν,
 
 ### book 2.260.2
 
@@ -6880,7 +6880,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2.3
 
-γῆν Μαριανδυνῶν ἐπικέλσετε †νοστήσαντες,
+γῆν Μαριανδυνῶν ἐπικέλσετε νοστήσαντες,
 
 ### book 2.4
 
@@ -6996,7 +6996,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2.380.2
 
-δουρατέοις †πύργοισιν ἐν οἰκία τεκτήναντες
+δουρατέοις πύργοισιν ἐν οἰκία τεκτήναντες
 
 ### book 2.381A
 
@@ -7124,7 +7124,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2.410.2
 
-“Ὦ γέρον, ἤδη μέν τε διίκεο πείρατ’ †ἀέθλων
+“Ὦ γέρον, ἤδη μέν τε διίκεο πείρατ’ ἀέθλων
 
 ### book 2.410.3
 
@@ -7276,7 +7276,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2
 
-αὐτίκα δ’ οὐ μετὰ δηρὸν †ἀμειβομένων ἐφαάνθη
+αὐτίκα δ’ οὐ μετὰ δηρὸν ἀμειβομένων ἐφαάνθη
 
 ### book 2.1
 
@@ -7348,7 +7348,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2.465.3
 
-μειλιχίως †ἐρέτῃσιν ὁμηγερέεσσι μετηύδα·
+μειλιχίως ἐρέτῃσιν ὁμηγερέεσσι μετηύδα·
 
 ### book 2.465.4
 
@@ -7688,7 +7688,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2.3
 
-νῆα ῥόος, πολλὸν δὲ †φόβῳ προτέρωσε νέοντο.
+νῆα ῥόος, πολλὸν δὲ φόβῳ προτέρωσε νέοντο.
 
 ### book 2.4
 
@@ -7780,7 +7780,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2.575.1
 
-ἄνδιχα. τοὺς δ’ ἐλάοντας ἔχεν τρόμος, ὄφρα †μιν αὖτις†
+ἄνδιχα. τοὺς δ’ ἐλάοντας ἔχεν τρόμος, ὄφρα μιν αὖτις
 
 ### book 2.575.2
 
@@ -7904,7 +7904,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2.605.2
 
-ἐκ μακάρων, εὖτ’ ἄν τις †ἰδὼν διὰ νηὶ περάσσῃ.
+ἐκ μακάρων, εὖτ’ ἄν τις ἰδὼν διὰ νηὶ περάσσῃ.
 
 ### book 2.605.3
 
@@ -7924,7 +7924,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2.610.2
 
-“Ἔλπομαι αὐτῇ νηὶ †τόγ’ ἔμπεδον ἐξαλέασθαι
+“Ἔλπομαι αὐτῇ νηὶ τόγ’ ἔμπεδον ἐξαλέασθαι
 
 ### book 2.610.3
 
@@ -7992,7 +7992,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2.625.4
 
-†ἄγκειμαι, στυγέων μὲν ἁλὸς κρυόεντα κέλευθα
+ἄγκειμαι, στυγέων μὲν ἁλὸς κρυόεντα κέλευθα
 
 ### book 2.625.5
 
@@ -8460,7 +8460,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2.745.1
 
-†ἠοίην, κοίλη δὲ φάραγξ κατάγει μιν ἄνωθεν.
+ἠοίην, κοίλη δὲ φάραγξ κατάγει μιν ἄνωθεν.
 
 ### book 2.745.2
 
@@ -9020,7 +9020,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2.885.1
 
-Τὸν δ’ αὖτ’ Αἴσονος υἱὸς †ἀμηχανέων προσέειπεν·
+Τὸν δ’ αὖτ’ Αἴσονος υἱὸς ἀμηχανέων προσέειπεν·
 
 ### book 2.885.2
 
@@ -9220,7 +9220,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2.935.1
 
-†ῥιπήν, εὐκήλοισιν ἐνευδιόων πτερύγεσσιν.
+ῥιπήν, εὐκήλοισιν ἐνευδιόων πτερύγεσσιν.
 
 ### book 2.935.2
 
@@ -9512,7 +9512,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2.1005.4
 
-λιγνύι καὶ καπνῷ †κάματον βαρὺν ὀτλεύουσιν.
+λιγνύι καὶ καπνῷ κάματον βαρὺν ὀτλεύουσιν.
 
 ### book 2.1005.5
 
@@ -10172,7 +10172,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2.3
 
-ἱερός, ᾧ †ποτε πᾶσαι† Ἀμαζόνες εὐχετόωντο·
+ἱερός, ᾧ ποτε πᾶσαι Ἀμαζόνες εὐχετόωντο·
 
 ### book 2.4
 
@@ -10200,7 +10200,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2.1180.1
 
-λήθομεν ἔμπεδον οἵ τε θεουδέες †οὐδὲ δίκαιοι.†
+λήθομεν ἔμπεδον οἵ τε θεουδέες οὐδὲ δίκαιοι.
 
 ### book 2.1180.2
 
@@ -10332,7 +10332,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2.1210.4
 
-θερμὸν ἀπὸ κρατὸς στάξαι φόνον· ἵκετο δ’ †αὔτως
+θερμὸν ἀπὸ κρατὸς στάξαι φόνον· ἵκετο δ’ αὔτως
 
 ### book 2.1210.5
 
@@ -10480,7 +10480,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2.1
 
-αἰετὸν ἥπατι φέρβε παλιμπετὲς †ἀίσσοντα·
+αἰετὸν ἥπατι φέρβε παλιμπετὲς ἀίσσοντα·
 
 ### book 2.2
 
@@ -10728,7 +10728,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 3.25.4
 
-θέλξαι †ὀιστεύσας ἐπ’ Ἰήσονι· τὸν δ’ ἂν ὀίω
+θέλξαι ὀιστεύσας ἐπ’ Ἰήσονι· τὸν δ’ ἂν ὀίω
 
 ### book 3.25.5
 
@@ -10792,7 +10792,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 3
 
-ἧστο δόμῳ δινωτὸν †ἀνὰ θρόνον ἄντα θυράων,
+ἧστο δόμῳ δινωτὸν ἀνὰ θρόνον ἄντα θυράων,
 
 ### book 3.45.1
 
@@ -11516,7 +11516,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 3.225.1
 
-ἡ δ’ ἄρ’ ὕδωρ προρέεσκε, τὸ μέν †ποθι δυομένῃσιν
+ἡ δ’ ἄρ’ ὕδωρ προρέεσκε, τὸ μέν ποθι δυομένῃσιν
 
 ### book 3.225.2
 
@@ -11792,7 +11792,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 3.290.5
 
-ἄγχι μάλ’ †ἐγρομένη· τὸ δ’ ἀθέσφατον ἐξ ὀλίγοιο
+ἄγχι μάλ’ ἐγρομένη· τὸ δ’ ἀθέσφατον ἐξ ὀλίγοιο
 
 ### book 3.295.1
 
@@ -11924,7 +11924,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 3.325.3
 
-νηὸς ἑῆς προτέρῳ ἐνὶ ἤματι· καί σφ’ †ἀπέρυκεν
+νηὸς ἑῆς προτέρῳ ἐνὶ ἤματι· καί σφ’ ἀπέρυκεν
 
 ### book 3.325.4
 
@@ -12160,7 +12160,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 3.385.2
 
-“Αἰήτη, σχέο μοι· τῷδε στόλῳ οὔ τι †γὰρ αὔτως
+“Αἰήτη, σχέο μοι· τῷδε στόλῳ οὔ τι γὰρ αὔτως
 
 ### book 3.385.3
 
@@ -12288,7 +12288,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 3.415.4
 
-παύομαι ἀμήτοιο. σὺ δ’ εἰ †τάδε τοῖα τελέσσεις,
+παύομαι ἀμήτοιο. σὺ δ’ εἰ τάδε τοῖα τελέσσεις,
 
 ### book 3
 
@@ -12604,7 +12604,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 3.495.3
 
-τετράγυον δ’ †ἐπὶ τοῖσιν ἐφίετο νειὸν ἀρόσσαι·
+τετράγυον δ’ ἐπὶ τοῖσιν ἐφίετο νειὸν ἀρόσσαι·
 
 ### book 3.495.4
 
@@ -13020,7 +13020,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 3.2
 
-τῶ καὶ †ἐελδομένους πέμπεν† ἐς Ἀχαιίδα γαῖαν
+τῶ καὶ ἐελδομένους πέμπεν ἐς Ἀχαιίδα γαῖαν
 
 ### book 3.3
 
@@ -13356,7 +13356,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 3.685.1
 
-πολλάκι δ’ ἱμερόεν μὲν †ἀνὰ στόμα θυῖεν ἐνισπεῖν,
+πολλάκι δ’ ἱμερόεν μὲν ἀνὰ στόμα θυῖεν ἐνισπεῖν,
 
 ### book 3.685.2
 
@@ -14184,7 +14184,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 3.2
 
-†μὴ ἴμεν ἀλλοδαποῖσι μετ’† ἀνδράσιν, οἵ τ’ ἐπὶ γαῖαν
+μὴ ἴμεν ἀλλοδαποῖσι μετ’ ἀνδράσιν, οἵ τ’ ἐπὶ γαῖαν
 
 ### book 3.3
 
@@ -14432,7 +14432,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 3.5
 
-ἦ θαμὰ δὴ †στηθέων ἐάγη† κέαρ, ὁππότε δοῦπον
+ἦ θαμὰ δὴ στηθέων ἐάγη κέαρ, ὁππότε δοῦπον
 
 ### book 3.955.1
 
@@ -14688,7 +14688,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 3.1015.4
 
-στράπτεν ἔρως ἡδεῖαν †ἀπὸ φλόγα, τῆς δ’ ἀμαρυγάς
+στράπτεν ἔρως ἡδεῖαν ἀπὸ φλόγα, τῆς δ’ ἀμαρυγάς
 
 ### book 3.1015.5
 
@@ -15304,7 +15304,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 3.1170.3
 
-†εὔκηλοι μέλλοντο περὶ σφίσιν†· αὐτὰρ ἅμ’ ἠοῖ
+εὔκηλοι μέλλοντο περὶ σφίσιν· αὐτὰρ ἅμ’ ἠοῖ
 
 ### book 3.1170.4
 
@@ -15468,7 +15468,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 3.1210.4
 
-κευθμῶν ἐξ †ὑπάτων δεινὴ θεὸς ἀντεβόλησεν
+κευθμῶν ἐξ ὑπάτων δεινὴ θεὸς ἀντεβόλησεν
 
 ### book 3.1210.5
 
@@ -15784,7 +15784,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 3.1267*
 
-ἐκ νεφέων, †ὅτ’ ἔπειτα† μελάντατον ὄμβρον ἄγωνται·
+ἐκ νεφέων, ὅτ’ ἔπειτα μελάντατον ὄμβρον ἄγωνται·
 
 ### book 3.1293.1
 
@@ -15920,7 +15920,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 3.1325.2
 
-οἱ δ’ ἤτοι †εἵως μὲν περιώσια† θυμαίνεσκον,
+οἱ δ’ ἤτοι εἵως μὲν περιώσια θυμαίνεσκον,
 
 ### book 3.1325.3
 
@@ -16188,7 +16188,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 3.1390.4
 
-πῖπτον δ’ οἱ μὲν ὀδὰξ τετρηχότα βῶλον †ὀδοῦσιν
+πῖπτον δ’ οἱ μὲν ὀδὰξ τετρηχότα βῶλον ὀδοῦσιν
 
 ### book 3
 
@@ -16384,7 +16384,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.35.1
 
-οἵη δ’ ἀφνειοῖο †διειλυσθεῖσα δόμοιο
+οἵη δ’ ἀφνειοῖο διειλυσθεῖσα δόμοιο
 
 ### book 4.35.2
 
@@ -16412,7 +16412,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.40.3
 
-†ὠκείαις ἄψορροι ἀναθρῴσκοντες ἀοιδαῖς.
+ὠκείαις ἄψορροι ἀναθρῴσκοντες ἀοιδαῖς.
 
 ### book 4.40.4
 
@@ -16824,7 +16824,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.145.1
 
-τοῖο δ’ ἑλισσομένοιο κατ’ †ὄμματος εἴσατο† κούρη,
+τοῖο δ’ ἑλισσομένοιο κατ’ ὄμματος εἴσατο κούρη,
 
 ### book 4.145.2
 
@@ -16916,7 +16916,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.165.4
 
-ὑψόθεν †ἀνέχουσαν ὑπωρόφιον θαλάμοιο
+ὑψόθεν ἀνέχουσαν ὑπωρόφιον θαλάμοιο
 
 ### book 4.165.5
 
@@ -16948,7 +16948,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.175.2
 
-†τόσσον ἔην πάντη χρύσεον ἐφύπερθεν ἄωτον†
+τόσσον ἔην πάντη χρύσεον ἐφύπερθεν ἄωτον
 
 ### book 4.175.3
 
@@ -17192,7 +17192,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.235.3
 
-νῆάς τ’ εἰρύσσαντο †καὶ ἄρμενα νηυσὶ† βάλοντο,
+νῆάς τ’ εἰρύσσαντο καὶ ἄρμενα νηυσὶ βάλοντο,
 
 ### book 4.235.4
 
@@ -17360,7 +17360,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.275.4
 
-τῶνδ’ ἀνδρῶν οὓς †ὅγε καθίσσατο ναιέμεν Αἶαν·
+τῶνδ’ ἀνδρῶν οὓς ὅγε καθίσσατο ναιέμεν Αἶαν·
 
 ### book 4.275.5
 
@@ -17404,11 +17404,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.285.5
 
-ἔνθα διχῇ, τὸ μὲν †ἔνθα μεθ’ ἡμετέρην ἅλα βάλλει
+ἔνθα διχῇ, τὸ μὲν ἔνθα μεθ’ ἡμετέρην ἅλα βάλλει
 
 ### book 4.290
 
-τῇδ’ ὕδωρ, τὸ δ’ ὄπισθε βαθὺν †διὰ κόλπον ἵησιν
+τῇδ’ ὕδωρ, τὸ δ’ ὄπισθε βαθὺν διὰ κόλπον ἵησιν
 
 ### book 4.1
 
@@ -17564,7 +17564,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.325.5
 
-οἱ δ’ ὄπιθεν ποταμοῖο κατήλυθον, †ἐκ δ’ ἐπέρησαν†
+οἱ δ’ ὄπιθεν ποταμοῖο κατήλυθον, ἐκ δ’ ἐπέρησαν
 
 ### book 4.330.1
 
@@ -17580,7 +17580,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.330.4
 
-βαῖνον· ἐπεὶ †κείνας πολέων λίπον ἔνδοθι νήσους†
+βαῖνον· ἐπεὶ κείνας πολέων λίπον ἔνδοθι νήσους
 
 ### book 4.330.5
 
@@ -17592,7 +17592,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.335.2
 
-ὧς δὲ καὶ εἰς ἀκτὰς †πληθὺν λίπεν ἀγχόθι νήσους†
+ὧς δὲ καὶ εἰς ἀκτὰς πληθὺν λίπεν ἀγχόθι νήσους
 
 ### book 4.335.3
 
@@ -17628,7 +17628,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.345.1
 
-αὐτὰρ Μήδειαν (†τὸ γὰρ πέλεν ἀμφήριστον)
+αὐτὰρ Μήδειαν (τὸ γὰρ πέλεν ἀμφήριστον)
 
 ### book 4.345.2
 
@@ -17752,7 +17752,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.375.2
 
-σχέτλιε· †εἴ κέν με κασιγνήτοιο δικάσσῃ
+σχέτλιε· εἴ κέν με κασιγνήτοιο δικάσσῃ
 
 ### book 4.375.3
 
@@ -17816,7 +17816,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.390.3
 
-νῆα καταφλέξαι διά τ’ †ἔμπεδα πάντα κεάσσαι,
+νῆα καταφλέξαι διά τ’ ἔμπεδα πάντα κεάσσαι,
 
 ### book 4.390.4
 
@@ -17916,7 +17916,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.415.3
 
-εἴ κέν πως †κήρυκας ἀπερχομένους πεπίθοιμι†
+εἴ κέν πως κήρυκας ἀπερχομένους πεπίθοιμι
 
 ### book 4.415.4
 
@@ -18548,7 +18548,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.1
 
-ἀμφ’ αὐτοῖς Ζηνός †τε μέγαν χόλον ἐφράσαθ’ Ἥρη,
+ἀμφ’ αὐτοῖς Ζηνός τε μέγαν χόλον ἐφράσαθ’ Ἥρη,
 
 ### book 4.2
 
@@ -18576,7 +18576,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.580.5
 
-τοὺς δ’ ὀλοὸν †μεσσηγὺ δέος λάβεν εἰσαΐοντας
+τοὺς δ’ ὀλοὸν μεσσηγὺ δέος λάβεν εἰσαΐοντας
 
 ### book 4.585.1
 
@@ -18656,7 +18656,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.3
 
-Ἡλιάδες ταναῇσιν †ἀείμεναι αἰγείροισιν
+Ἡλιάδες ταναῇσιν ἀείμεναι αἰγείροισιν
 
 ### book 4.605.1
 
@@ -18740,7 +18740,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.625.1
 
-Ἡλιάδων λιγέως· τὰ δὲ δάκρυα †μυρομένῃσιν
+Ἡλιάδων λιγέως· τὰ δὲ δάκρυα μυρομένῃσιν
 
 ### book 4.625.2
 
@@ -19388,7 +19388,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.785.2
 
-†οἵη τέ σφ’ ἐσάωσα† διὰ Πλαγκτὰς περόωντας
+οἵη τέ σφ’ ἐσάωσα διὰ Πλαγκτὰς περόωντας
 
 ### book 4.785.3
 
@@ -19400,7 +19400,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.785.5
 
-†νῦν δὲ παρὰ Σκύλλης σκόπελον μέγαν ἠδὲ Χάρυβδιν
+νῦν δὲ παρὰ Σκύλλης σκόπελον μέγαν ἠδὲ Χάρυβδιν
 
 ### book 4.790.1
 
@@ -19540,7 +19540,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.820.5
 
-μοῦνον, ἅ κεν †τρέψαιο κασιγνήτῃσι σὺν ἄλλαις·
+μοῦνον, ἅ κεν τρέψαιο κασιγνήτῃσι σὺν ἄλλαις·
 
 ### book 4.825.1
 
@@ -20044,7 +20044,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.1
 
-σφαίρῃ ἀθύρουσιν περιηγέι· †ἡ μὲν ἔπειτα†
+σφαίρῃ ἀθύρουσιν περιηγέι· ἡ μὲν ἔπειτα
 
 ### book 4.2
 
@@ -20272,7 +20272,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.1005.3
 
-αὖθί τε καὶ μετέπειτα σὺν Αἰήταο †κελεύθῳ·
+αὖθί τε καὶ μετέπειτα σὺν Αἰήταο κελεύθῳ·
 
 ### book 4.1
 
@@ -20712,7 +20712,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.1115.3
 
-λίσσεσθαι, τὸ γὰρ αὐτὸς †ἰὼν Κόλχοισι δικάσσει·
+λίσσεσθαι, τὸ γὰρ αὐτὸς ἰὼν Κόλχοισι δικάσσει·
 
 ### book 4.1115.4
 
@@ -21156,7 +21156,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.1225.4
 
-ἤδη μὲν †ποτὶ κόλπον ἐπώνυμον Ἀμβρακιήων,
+ἤδη μὲν ποτὶ κόλπον ἐπώνυμον Ἀμβρακιήων,
 
 ### book 4.1225.5
 
@@ -21164,7 +21164,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.1230.1
 
-λαίφεσι καὶ †στεινὰς αὐταῖς σὺν Ἐχινάσι νήσους
+λαίφεσι καὶ στεινὰς αὐταῖς σὺν Ἐχινάσι νήσους
 
 ### book 4.1230.2
 
@@ -21216,7 +21216,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.1240.4
 
-λάβρον ἐποιχόμενον) μυχάτῃ ἐνέωσε †τάχιστα
+λάβρον ἐποιχόμενον) μυχάτῃ ἐνέωσε τάχιστα
 
 ### book 4.1240.5
 
@@ -21448,7 +21448,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.2
 
-κύκνοι †κινήσουσιν ἑὸν μέλος, ἀμφὶ δὲ λειμών
+κύκνοι κινήσουσιν ἑὸν μέλος, ἀμφὶ δὲ λειμών
 
 ### book 4.3
 
@@ -21792,7 +21792,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.1385.3
 
-ἤμαθ’ ὁμοῦ νύκτας τε. δύην γε μὲν †ἢ καὶ ὀιζύν
+ἤμαθ’ ὁμοῦ νύκτας τε. δύην γε μὲν ἢ καὶ ὀιζύν
 
 ### book 4.1
 
@@ -21868,7 +21868,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.1405.2
 
-ἀγχοῦ δ’ Ἑσπερίδες, κεφαλαῖς ἔπι †χεῖρας ἔχουσαι
+ἀγχοῦ δ’ Ἑσπερίδες, κεφαλαῖς ἔπι χεῖρας ἔχουσαι
 
 ### book 4.1
 
@@ -21900,7 +21900,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.1410.5
 
-†νύμφαι· ἴτ’ ὦ† νύμφαι, ἱερὸν γένος Ὠκεανοῖο,
+νύμφαι· ἴτ’ ὦ νύμφαι, ἱερὸν γένος Ὠκεανοῖο,
 
 ### book 4.1415.1
 
@@ -22244,7 +22244,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4
 
-†πυθόμενοι Μινύαι, γαίῃ δ’ ἐνὶ ταρχύσαντο
+πυθόμενοι Μινύαι, γαίῃ δ’ ἐνὶ ταρχύσαντο
 
 ### book 4.1
 
@@ -22792,7 +22792,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.1635.3
 
-Κρήτην, ἥ τ’ ἄλλων †ὑπερέπλετο εἰν ἁλὶ νήσων·
+Κρήτην, ἥ τ’ ἄλλων ὑπερέπλετο εἰν ἁλὶ νήσων·
 
 ### book 4.1635.4
 
@@ -22908,11 +22908,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.1665.2
 
-θυμοβόρους, Ἀίδαο θοὰς κύνας, αἳ †περὶ πᾶσαν†
+θυμοβόρους, Ἀίδαο θοὰς κύνας, αἳ περὶ πᾶσαν
 
 ### book 4.1665.3
 
-†ἠέρα δινεύουσαι ἐπὶ ζωοῖσιν †ἄγονται.
+ἠέρα δινεύουσαι ἐπὶ ζωοῖσιν ἄγονται.
 
 ### book 4.1665.4
 

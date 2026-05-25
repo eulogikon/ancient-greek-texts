@@ -4,7 +4,7 @@ title_greek: Ἐπικὰ Ἀποσπάσματα
 author: Aristeas of Proconnesus
 eul_wid: adc-aa
 eul_aid: adc
-canonical: "https://eulogikon.org/grc/aristeas-of-proconnesus/fragments"
+canonical: "https://eulogikon.org/works/aristeas-proconnesus-fragments-adc-aa"
 period: Archaic
 dialect: Epic (Homeric) (frg)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristeas of Proconnesus
 
-**eul_wid:** `adc-aa` · [HTML page](https://eulogikon.org/grc/aristeas-of-proconnesus/fragments)
+**eul_wid:** `adc-aa` · [HTML page](https://eulogikon.org/works/aristeas-proconnesus-fragments-adc-aa)
 
 ## Text
 

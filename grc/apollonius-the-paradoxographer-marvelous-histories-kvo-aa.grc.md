@@ -4,7 +4,7 @@ title_greek: Θαυμασίαι Ἱστορίαι
 author: Apollonius the Paradoxographer
 eul_wid: kvo-aa
 eul_aid: kvo
-canonical: "https://eulogikon.org/grc/apollonius-the-paradoxographer/marvelous-histories"
+canonical: "https://eulogikon.org/works/apollonius-paradoxographer-marvelous-histories-kvo-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Apollonius the Paradoxographer
 
-**eul_wid:** `kvo-aa` · [HTML page](https://eulogikon.org/grc/apollonius-the-paradoxographer/marvelous-histories)
+**eul_wid:** `kvo-aa` · [HTML page](https://eulogikon.org/works/apollonius-paradoxographer-marvelous-histories-kvo-aa)
 
 ## Text
 
@@ -204,7 +204,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 49 1
 
-Ἄξια δ’ ἐστὶν ἐπιστάσεως [τὰ εἰρημένα.] 〈ἃ〉 Θεόφραστος ἐν τῷ περὶ ἐνθουσιασμοῦ ἐξεῖπεν. φησὶ γὰρ ἐκεῖνος τὴν μουσικὴν πολλὰ τῶν ἐπὶ ψυχὴν καὶ τὸ σῶμα γιγνομένων παθῶν ἰατρεύειν, καθάπερ λιποθυμίαν, φόβους καὶ τὰς ἐπὶ μακρὸν γιγνομένας τῆς διανοίας ἐκστάσεις. ἰᾶται γάρ, φησίν, ἡ καταύλησις καὶ ἰσχιάδα καὶ ἐπιληψίαν· καθάπερ πρὸς Ἀριστόξενον τὸν μουσικὸν ἐλθόντα—χρήσασθαι αὐτὸν † τοῦ μαντίου τοῦ τῆς Πασιφίλης δαμωτι ἀδελφῆς † —λέγεται [τὸν μουσικὸν] καταστῆναί τινα ἐξιστάμενον ἐν Θήβαις ὑπὸ τὴν τῆς σάλπιγγος φωνήν· ἐπὶ τοσοῦτον γὰρ ἐβόησεν ἀκούων, ὥστε ἀσχημονεῖν· εἰ δέ ποτε καὶ πολεμικὸν σαλπίσειέ τις, πολὺ χεῖρον πάσχειν μαινόμενον.
+Ἄξια δ’ ἐστὶν ἐπιστάσεως [τὰ εἰρημένα.] 〈ἃ〉 Θεόφραστος ἐν τῷ περὶ ἐνθουσιασμοῦ ἐξεῖπεν. φησὶ γὰρ ἐκεῖνος τὴν μουσικὴν πολλὰ τῶν ἐπὶ ψυχὴν καὶ τὸ σῶμα γιγνομένων παθῶν ἰατρεύειν, καθάπερ λιποθυμίαν, φόβους καὶ τὰς ἐπὶ μακρὸν γιγνομένας τῆς διανοίας ἐκστάσεις. ἰᾶται γάρ, φησίν, ἡ καταύλησις καὶ ἰσχιάδα καὶ ἐπιληψίαν· καθάπερ πρὸς Ἀριστόξενον τὸν μουσικὸν ἐλθόντα—χρήσασθαι αὐτὸν τοῦ μαντίου τοῦ τῆς Πασιφίλης δαμωτι ἀδελφῆς —λέγεται [τὸν μουσικὸν] καταστῆναί τινα ἐξιστάμενον ἐν Θήβαις ὑπὸ τὴν τῆς σάλπιγγος φωνήν· ἐπὶ τοσοῦτον γὰρ ἐβόησεν ἀκούων, ὥστε ἀσχημονεῖν· εἰ δέ ποτε καὶ πολεμικὸν σαλπίσειέ τις, πολὺ χεῖρον πάσχειν μαινόμενον.
 
 ### 49 3
 

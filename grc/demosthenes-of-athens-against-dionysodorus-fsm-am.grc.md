@@ -4,7 +4,7 @@ title_greek: κατὰ Διονυσοδώρου βλάβης
 author: Demosthenes of Athens
 eul_wid: fsm-am
 eul_aid: fsm
-canonical: "https://eulogikon.org/grc/demosthenes-of-athens/against-dionysodorus"
+canonical: "https://eulogikon.org/works/demosthenes-athens-against-dionysodorus-fsm-am"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demosthenes of Athens
 
-**eul_wid:** `fsm-am` · [HTML page](https://eulogikon.org/grc/demosthenes-of-athens/against-dionysodorus)
+**eul_wid:** `fsm-am` · [HTML page](https://eulogikon.org/works/demosthenes-athens-against-dionysodorus-fsm-am)
 
 ## Text
 

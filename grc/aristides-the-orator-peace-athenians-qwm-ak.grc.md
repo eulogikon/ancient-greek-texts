@@ -4,7 +4,7 @@ title_greek: Ὑπὲρ τῆς πρὸς Ἀθηναίους εἰρήνης
 author: Aristides the Orator
 eul_wid: qwm-ak
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/peace-athenians"
+canonical: "https://eulogikon.org/works/aristides-orator-peace-athenians-qwm-ak"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-ak` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/peace-athenians)
+**eul_wid:** `qwm-ak` · [HTML page](https://eulogikon.org/works/aristides-orator-peace-athenians-qwm-ak)
 
 ## Text
 

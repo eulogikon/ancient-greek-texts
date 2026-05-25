@@ -4,7 +4,7 @@ title_greek: Δευτέρα Ἐπιστολὴ πρὸς Πυθόκλεα
 author: Epicurus the Philosopher
 eul_wid: hui-ac
 eul_aid: hui
-canonical: "https://eulogikon.org/grc/epicurus/letter-pythocles"
+canonical: "https://eulogikon.org/works/epicurus-letter-pythocles-hui-ac"
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Epicurus the Philosopher
 
-**eul_wid:** `hui-ac` · [HTML page](https://eulogikon.org/grc/epicurus/letter-pythocles)
+**eul_wid:** `hui-ac` · [HTML page](https://eulogikon.org/works/epicurus-letter-pythocles-hui-ac)
 
 ## Text
 

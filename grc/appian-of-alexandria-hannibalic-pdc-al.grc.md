@@ -4,7 +4,7 @@ title_greek: Ἀννιβαϊκή
 author: Appian of Alexandria
 eul_wid: pdc-al
 eul_aid: pdc
-canonical: "https://eulogikon.org/grc/appian-of-alexandria/hannibalic"
+canonical: "https://eulogikon.org/works/appian-alexandria-hannibalic-pdc-al"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Appian of Alexandria
 
-**eul_wid:** `pdc-al` · [HTML page](https://eulogikon.org/grc/appian-of-alexandria/hannibalic)
+**eul_wid:** `pdc-al` · [HTML page](https://eulogikon.org/works/appian-alexandria-hannibalic-pdc-al)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Λεξικὸν Ὁμηρικόν
 author: "Apollonius the Grammarian "
 eul_wid: pjq-aa
 eul_aid: pjq
-canonical: "https://eulogikon.org/grc/apollonius-the-grammarian/lexicon"
+canonical: "https://eulogikon.org/works/apollonius-grammarian-lexicon-pjq-aa"
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Apollonius the Grammarian 
 
-**eul_wid:** `pjq-aa` · [HTML page](https://eulogikon.org/grc/apollonius-the-grammarian/lexicon)
+**eul_wid:** `pjq-aa` · [HTML page](https://eulogikon.org/works/apollonius-grammarian-lexicon-pjq-aa)
 
 ## Text
 

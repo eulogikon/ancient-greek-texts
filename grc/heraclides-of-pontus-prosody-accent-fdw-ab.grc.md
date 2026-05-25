@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Heraclides of Pontus
 eul_wid: fdw-ab
 eul_aid: fdw
-canonical: "https://eulogikon.org/grc/heraclides-of-pontus/prosody-accent"
+canonical: "https://eulogikon.org/works/heraclides-pontus-prosody-accent-fdw-ab"
 period: Classical
 dialect: Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Heraclides of Pontus
 
-**eul_wid:** `fdw-ab` · [HTML page](https://eulogikon.org/grc/heraclides-of-pontus/prosody-accent)
+**eul_wid:** `fdw-ab` · [HTML page](https://eulogikon.org/works/heraclides-pontus-prosody-accent-fdw-ab)
 
 ## Text
 

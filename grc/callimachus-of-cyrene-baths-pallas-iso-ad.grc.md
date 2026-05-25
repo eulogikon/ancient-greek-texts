@@ -4,7 +4,7 @@ title_greek: εἰς Λουτρά τῆς Παλλάδος
 author: Callimachus of Cyrene the Poet and Scholar
 eul_wid: iso-ad
 eul_aid: iso
-canonical: "https://eulogikon.org/grc/callimachus-of-cyrene/baths-pallas"
+canonical: "https://eulogikon.org/works/callimachus-cyrene-baths-pallas-iso-ad"
 period: Hellenistic
 dialect: Literary Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Callimachus of Cyrene the Poet and Scholar
 
-**eul_wid:** `iso-ad` · [HTML page](https://eulogikon.org/grc/callimachus-of-cyrene/baths-pallas)
+**eul_wid:** `iso-ad` · [HTML page](https://eulogikon.org/works/callimachus-cyrene-baths-pallas-iso-ad)
 
 ## Text
 
@@ -36,7 +36,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### (50)
 
-πότνι’ Ἀθαναία, σὺ μὲν ἔξιθι· μέσφα δ’ ἐγώ τι ταῖσδ’ ἐρέω· μῦθος δ’ οὐκ ἐμός, ἀλλ’ ἑτέρων. παῖδες, Ἀθαναία νύμφαν μίαν ἔν ποκα Θήβαις πουλύ τι καὶ πέρι δὴ φίλατο τᾶν ἑταρᾶν, ματέρα Τειρεσίαο, καὶ οὔποκα χωρὶς ἔγεντο· ἀλλὰ καὶ ἀρχαίων εὖτ’ ἐπὶ Θεσπιέων –⏑⏑–⏑⏑–⏑ ἢ εἰς Ἁλίαρτον ἐλαύνοι ἵππως, Βοιωτῶν ἔργα διερχομένα, ἢ ’πὶ Κορωνείας, ἵνα οἱ τεθυωμένον ἄλσος καὶ βωμοὶ ποταμῷ κεῖντ’ ἐπὶ Κουραλίῳ, πολλάκις ἁ δαίμων νιν ἑῶ ἐπεβάσατο δίφρω, οὐδ’ ὄαροι νυμφᾶν οὐδὲ χοροστασίαι ἁδεῖαι τελέθεσκον, ὅκ’ οὐχ ἁγεῖτο Χαρικλώ· ἀλλ’ ἔτι καὶ τήναν δάκρυα πόλλ’ ἔμενε, καίπερ Ἀθαναίᾳ καταθύμιον ἔσσαν ἑταίραν.
+πότνι’ Ἀθαναία, σὺ μὲν ἔξιθι· μέσφα δ’ ἐγώ τι ταῖσδ’ ἐρέω· μῦθος δ’ οὐκ ἐμός, ἀλλ’ ἑτέρων. παῖδες, Ἀθαναία νύμφαν μίαν ἔν ποκα Θήβαις πουλύ τι καὶ πέρι δὴ φίλατο τᾶν ἑταρᾶν, ματέρα Τειρεσίαο, καὶ οὔποκα χωρὶς ἔγεντο· ἀλλὰ καὶ ἀρχαίων εὖτ’ ἐπὶ Θεσπιέων ––– ἢ εἰς Ἁλίαρτον ἐλαύνοι ἵππως, Βοιωτῶν ἔργα διερχομένα, ἢ ’πὶ Κορωνείας, ἵνα οἱ τεθυωμένον ἄλσος καὶ βωμοὶ ποταμῷ κεῖντ’ ἐπὶ Κουραλίῳ, πολλάκις ἁ δαίμων νιν ἑῶ ἐπεβάσατο δίφρω, οὐδ’ ὄαροι νυμφᾶν οὐδὲ χοροστασίαι ἁδεῖαι τελέθεσκον, ὅκ’ οὐχ ἁγεῖτο Χαρικλώ· ἀλλ’ ἔτι καὶ τήναν δάκρυα πόλλ’ ἔμενε, καίπερ Ἀθαναίᾳ καταθύμιον ἔσσαν ἑταίραν.
 
 ### (50)
 

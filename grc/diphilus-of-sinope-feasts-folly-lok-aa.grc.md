@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἑορτῶν καὶ Μωρία
 author: Diphilus the Comic Poet of Sinope
 eul_wid: lok-aa
 eul_aid: lok
-canonical: "https://eulogikon.org/grc/diphilus-of-sinope/feasts-folly"
+canonical: "https://eulogikon.org/works/diphilus-sinope-feasts-folly-lok-aa"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Diphilus the Comic Poet of Sinope
 
-**eul_wid:** `lok-aa` · [HTML page](https://eulogikon.org/grc/diphilus-of-sinope/feasts-folly)
+**eul_wid:** `lok-aa` · [HTML page](https://eulogikon.org/works/diphilus-sinope-feasts-folly-lok-aa)
 
 ## Text
 

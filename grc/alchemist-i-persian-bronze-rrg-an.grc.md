@@ -4,7 +4,7 @@ title_greek: Βαφὴ τοῦ παρὰ Πέρσαις ἐξευρημένου 
 author: Alchemist I
 eul_wid: rrg-an
 eul_aid: rrg
-canonical: "https://eulogikon.org/grc/alchemist-i/persian-bronze"
+canonical: "https://eulogikon.org/works/alchemist-i-persian-bronze-rrg-an"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alchemist I
 
-**eul_wid:** `rrg-an` · [HTML page](https://eulogikon.org/grc/alchemist-i/persian-bronze)
+**eul_wid:** `rrg-an` · [HTML page](https://eulogikon.org/works/alchemist-i-persian-bronze-rrg-an)
 
 ## Text
 

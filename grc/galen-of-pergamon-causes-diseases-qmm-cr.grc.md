@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν αἰτιῶν τῶν νόσων
 author: Galen of Pergamon
 eul_wid: qmm-cr
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/causes-diseases"
+canonical: "https://eulogikon.org/works/galen-pergamon-causes-diseases-qmm-cr"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-cr` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/causes-diseases)
+**eul_wid:** `qmm-cr` · [HTML page](https://eulogikon.org/works/galen-pergamon-causes-diseases-qmm-cr)
 
 ## Text
 

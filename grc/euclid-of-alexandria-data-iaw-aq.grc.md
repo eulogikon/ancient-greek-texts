@@ -4,7 +4,7 @@ title_greek: Δεδομένα
 author: Euclid of Alexandria
 eul_wid: iaw-aq
 eul_aid: iaw
-canonical: "https://eulogikon.org/grc/euclid-of-alexandria/data"
+canonical: "https://eulogikon.org/works/euclid-alexandria-data-iaw-aq"
 period: Hellenistic
 dialect: Technical Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euclid of Alexandria
 
-**eul_wid:** `iaw-aq` · [HTML page](https://eulogikon.org/grc/euclid-of-alexandria/data)
+**eul_wid:** `iaw-aq` · [HTML page](https://eulogikon.org/works/euclid-alexandria-data-iaw-aq)
 
 ## Text
 

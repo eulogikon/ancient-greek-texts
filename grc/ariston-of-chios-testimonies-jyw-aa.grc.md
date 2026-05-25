@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι καὶ Ἀποσπάσματα
 author: Ariston of Chios
 eul_wid: jyw-aa
 eul_aid: jyw
-canonical: "https://eulogikon.org/grc/ariston-of-chios/testimonies"
+canonical: "https://eulogikon.org/works/ariston-chios-testimonies-jyw-aa"
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ariston of Chios
 
-**eul_wid:** `jyw-aa` · [HTML page](https://eulogikon.org/grc/ariston-of-chios/testimonies)
+**eul_wid:** `jyw-aa` · [HTML page](https://eulogikon.org/works/ariston-chios-testimonies-jyw-aa)
 
 ## Text
 

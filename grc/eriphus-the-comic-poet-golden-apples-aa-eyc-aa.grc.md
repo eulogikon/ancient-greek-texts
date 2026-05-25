@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Χρυσῶν Μήλων
 author: Eriphus the Comic Poet
 eul_wid: eyc-aa
 eul_aid: eyc
-canonical: "https://eulogikon.org/grc/eriphus-the-comic-poet/golden-apples-aa"
+canonical: "https://eulogikon.org/works/eriphus-golden-apples-eyc-aa"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Eriphus the Comic Poet
 
-**eul_wid:** `eyc-aa` · [HTML page](https://eulogikon.org/grc/eriphus-the-comic-poet/golden-apples-aa)
+**eul_wid:** `eyc-aa` · [HTML page](https://eulogikon.org/works/eriphus-golden-apples-eyc-aa)
 
 ## Text
 

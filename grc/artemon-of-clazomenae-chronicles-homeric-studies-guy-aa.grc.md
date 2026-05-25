@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Artemon of Clazomenae
 eul_wid: guy-aa
 eul_aid: guy
-canonical: "https://eulogikon.org/grc/artemon-of-clazomenae/chronicles-homeric-studies"
+canonical: "https://eulogikon.org/works/artemon-clazomenae-chronicles-homeric-studies-guy-aa"
 period: Classical
 dialect: Ionic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Artemon of Clazomenae
 
-**eul_wid:** `guy-aa` · [HTML page](https://eulogikon.org/grc/artemon-of-clazomenae/chronicles-homeric-studies)
+**eul_wid:** `guy-aa` · [HTML page](https://eulogikon.org/works/artemon-clazomenae-chronicles-homeric-studies-guy-aa)
 
 ## Text
 

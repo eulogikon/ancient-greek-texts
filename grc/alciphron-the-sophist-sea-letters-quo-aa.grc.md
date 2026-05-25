@@ -4,7 +4,7 @@ title_greek: Ἐπιστολαί
 author: Alciphron the Sophist
 eul_wid: quo-aa
 eul_aid: quo
-canonical: "https://eulogikon.org/grc/alciphron-the-sophist/sea-letters"
+canonical: "https://eulogikon.org/works/alciphron-sea-letters-quo-aa"
 period: Roman
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alciphron the Sophist
 
-**eul_wid:** `quo-aa` · [HTML page](https://eulogikon.org/grc/alciphron-the-sophist/sea-letters)
+**eul_wid:** `quo-aa` · [HTML page](https://eulogikon.org/works/alciphron-sea-letters-quo-aa)
 
 ## Text
 

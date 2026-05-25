@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Ἀδήλου Θέσεως
 author: Epicurus the Philosopher
 eul_wid: hui-aa
 eul_aid: hui
-canonical: "https://eulogikon.org/grc/epicurus/uncertain-fragments"
+canonical: "https://eulogikon.org/works/epicurus-uncertain-fragments-hui-aa"
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Epicurus the Philosopher
 
-**eul_wid:** `hui-aa` · [HTML page](https://eulogikon.org/grc/epicurus/uncertain-fragments)
+**eul_wid:** `hui-aa` · [HTML page](https://eulogikon.org/works/epicurus-uncertain-fragments-hui-aa)
 
 ## Text
 
@@ -36,7 +36,7 @@ XII 547a κἀν ἄλλοις δέ φησι· προσπτύω τῷ καλῷ 
 
 ### 137 (1l)
 
-Πραγματεῖαι XXIX DIANO φέρων τὴν ἐπιστολὴν παρὰ σο[ῦ] καὶ τὸν διαλογισμὸν ὃν ἐπεπόησο περὶ τῶν ἀνθρώπ̣ων, ὅσοι μήτε τὴν ἀναλογίαν τὴν κατὰ τὰ φαινόμεν[α ἐ]ν τοῖς ἀοράτοις ο[ὖσ]αν ἠδύναντο συνιδεῖν μήτε τὴν συμφωνίαν τὴν ταῖς αἰσθήσεσιν ὑπάρχουσαν πρὸς τὰ ἀόρατ̣α καὶ πάλι[ν] ἀντιμ[α]ρτύρ[η]σιν.
+Πραγματεῖαι XXIX DIANO φέρων τὴν ἐπιστολὴν παρὰ σο[ῦ] καὶ τὸν διαλογισμὸν ὃν ἐπεπόησο περὶ τῶν ἀνθρώπων, ὅσοι μήτε τὴν ἀναλογίαν τὴν κατὰ τὰ φαινόμεν[α ἐ]ν τοῖς ἀοράτοις ο[ὖσ]αν ἠδύναντο συνιδεῖν μήτε τὴν συμφωνίαν τὴν ταῖς αἰσθήσεσιν ὑπάρχουσαν πρὸς τὰ ἀόρατα καὶ πάλι[ν] ἀντιμ[α]ρτύρ[η]σιν.
 
 ## License and provenance
 

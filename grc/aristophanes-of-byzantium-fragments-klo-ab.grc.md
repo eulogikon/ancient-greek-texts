@@ -4,7 +4,7 @@ title_greek: Ἄλλα Βιβλία Ἀριστοφάνους
 author: Aristophanes of Byzantium
 eul_wid: klo-ab
 eul_aid: klo
-canonical: "https://eulogikon.org/grc/aristophanes-of-byzantium/fragments"
+canonical: "https://eulogikon.org/works/aristophanes-byzantium-fragments-klo-ab"
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristophanes of Byzantium
 
-**eul_wid:** `klo-ab` · [HTML page](https://eulogikon.org/grc/aristophanes-of-byzantium/fragments)
+**eul_wid:** `klo-ab` · [HTML page](https://eulogikon.org/works/aristophanes-byzantium-fragments-klo-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Aristocles the Paradoxographer
 eul_wid: kci-ab
 eul_aid: kci
-canonical: "https://eulogikon.org/grc/aristocles-the-paradoxographer/hymn-demeter-hermione"
+canonical: "https://eulogikon.org/works/aristocles-paradoxographer-hymn-demeter-hermione-kci-ab"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristocles the Paradoxographer
 
-**eul_wid:** `kci-ab` · [HTML page](https://eulogikon.org/grc/aristocles-the-paradoxographer/hymn-demeter-hermione)
+**eul_wid:** `kci-ab` · [HTML page](https://eulogikon.org/works/aristocles-paradoxographer-hymn-demeter-hermione-kci-ab)
 
 ## Text
 

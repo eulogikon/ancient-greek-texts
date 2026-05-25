@@ -4,7 +4,7 @@ title_greek: Ἐπιστολὴ πρὸς Πομπήιον
 author: Dionysius of Halicarnassus
 eul_wid: ndy-aj
 eul_aid: ndy
-canonical: "https://eulogikon.org/grc/dionysius-of-halicarnassus/pompeius"
+canonical: "https://eulogikon.org/works/dionysius-halicarnassus-pompeius-ndy-aj"
 period: Hellenistic
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dionysius of Halicarnassus
 
-**eul_wid:** `ndy-aj` · [HTML page](https://eulogikon.org/grc/dionysius-of-halicarnassus/pompeius)
+**eul_wid:** `ndy-aj` · [HTML page](https://eulogikon.org/works/dionysius-halicarnassus-pompeius-ndy-aj)
 
 ## Text
 

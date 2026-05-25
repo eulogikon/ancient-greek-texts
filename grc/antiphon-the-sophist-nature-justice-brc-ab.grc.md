@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Antiphon the Sophist of Athens
 eul_wid: brc-ab
 eul_aid: brc
-canonical: "https://eulogikon.org/grc/antiphon-the-sophist/nature-justice"
+canonical: "https://eulogikon.org/works/antiphon-athens-nature-justice-brc-ab"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Antiphon the Sophist of Athens
 
-**eul_wid:** `brc-ab` · [HTML page](https://eulogikon.org/grc/antiphon-the-sophist/nature-justice)
+**eul_wid:** `brc-ab` · [HTML page](https://eulogikon.org/works/antiphon-athens-nature-justice-brc-ab)
 
 ## Text
 

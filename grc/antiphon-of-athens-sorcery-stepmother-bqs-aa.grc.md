@@ -4,7 +4,7 @@ title_greek: Φαρμακείας κατὰ τῆς μητρυιᾶς
 author: "Antiphon of Athens "
 eul_wid: bqs-aa
 eul_aid: bqs
-canonical: "https://eulogikon.org/grc/antiphon-of-athens/sorcery-stepmother"
+canonical: "https://eulogikon.org/works/antiphon-athens-sorcery-stepmother-bqs-aa"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Antiphon of Athens 
 
-**eul_wid:** `bqs-aa` · [HTML page](https://eulogikon.org/grc/antiphon-of-athens/sorcery-stepmother)
+**eul_wid:** `bqs-aa` · [HTML page](https://eulogikon.org/works/antiphon-athens-sorcery-stepmother-bqs-aa)
 
 ## Text
 

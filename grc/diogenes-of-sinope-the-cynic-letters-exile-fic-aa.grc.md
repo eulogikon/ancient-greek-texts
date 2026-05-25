@@ -4,7 +4,7 @@ title_greek: Ἐπιστολαὶ περὶ Φυγῆς
 author: Diogenes of Sinope the Cynic
 eul_wid: fic-aa
 eul_aid: fic
-canonical: "https://eulogikon.org/grc/diogenes-of-sinope-the-cynic/letters-exile"
+canonical: "https://eulogikon.org/works/diogenes-sinope-letters-exile-fic-aa"
 period: Classical
 dialect: Attic
 format: Epistle
@@ -17,7 +17,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Diogenes of Sinope the Cynic
 
-**eul_wid:** `fic-aa` · [HTML page](https://eulogikon.org/grc/diogenes-of-sinope-the-cynic/letters-exile)
+**eul_wid:** `fic-aa` · [HTML page](https://eulogikon.org/works/diogenes-sinope-letters-exile-fic-aa)
 
 ## Text
 

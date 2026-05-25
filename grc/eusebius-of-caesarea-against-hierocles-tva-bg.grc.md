@@ -4,7 +4,7 @@ title_greek: Κατὰ Ἱεροκλέους
 author: Eusebius of Caesarea
 eul_wid: tva-bg
 eul_aid: tva
-canonical: "https://eulogikon.org/grc/eusebius-of-caesarea/against-hierocles"
+canonical: "https://eulogikon.org/works/eusebius-caesarea-against-hierocles-tva-bg"
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Eusebius of Caesarea
 
-**eul_wid:** `tva-bg` · [HTML page](https://eulogikon.org/grc/eusebius-of-caesarea/against-hierocles)
+**eul_wid:** `tva-bg` · [HTML page](https://eulogikon.org/works/eusebius-caesarea-against-hierocles-tva-bg)
 
 ## Text
 

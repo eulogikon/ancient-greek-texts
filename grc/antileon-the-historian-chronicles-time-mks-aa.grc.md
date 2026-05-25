@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Antileon the Historian
 eul_wid: mks-aa
 eul_aid: mks
-canonical: "https://eulogikon.org/grc/antileon-the-historian/chronicles-time"
+canonical: "https://eulogikon.org/works/antileon-chronicles-time-mks-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Antileon the Historian
 
-**eul_wid:** `mks-aa` · [HTML page](https://eulogikon.org/grc/antileon-the-historian/chronicles-time)
+**eul_wid:** `mks-aa` · [HTML page](https://eulogikon.org/works/antileon-chronicles-time-mks-aa)
 
 ## Text
 

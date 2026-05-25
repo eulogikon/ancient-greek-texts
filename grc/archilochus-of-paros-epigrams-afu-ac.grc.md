@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Archilochus of Paros
 eul_wid: afu-ac
 eul_aid: afu
-canonical: "https://eulogikon.org/grc/archilochus-of-paros/epigrams"
+canonical: "https://eulogikon.org/works/archilochus-paros-epigrams-afu-ac"
 period: Archaic
 dialect: "Ionic (ia, frg)"
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Archilochus of Paros
 
-**eul_wid:** `afu-ac` · [HTML page](https://eulogikon.org/grc/archilochus-of-paros/epigrams)
+**eul_wid:** `afu-ac` · [HTML page](https://eulogikon.org/works/archilochus-paros-epigrams-afu-ac)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Βοιωτῶν Ἡρώων
 author: Aristophanes of Boeotia
 eul_wid: guo-ab
 eul_aid: guo
-canonical: "https://eulogikon.org/grc/aristophanes-of-boeotia/fragments-heroes"
+canonical: "https://eulogikon.org/works/aristophanes-boeotia-fragments-heroes-guo-ab"
 period: Classical
 dialect: Aeolic (frg)
 domain: History
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristophanes of Boeotia
 
-**eul_wid:** `guo-ab` · [HTML page](https://eulogikon.org/grc/aristophanes-of-boeotia/fragments-heroes)
+**eul_wid:** `guo-ab` · [HTML page](https://eulogikon.org/works/aristophanes-boeotia-fragments-heroes-guo-ab)
 
 ## Text
 
 ### 2bis.(l1)
 
-PAP. OX. 2463, 14—32 s. 2 i 3 p. (vol. 27, 1962, 104—110 [Taf. 10]): Ἀριστοφάνης [δ’ ἐν]ˈ τῆι α πρώτη〈ι〉 τῶν Βοιω[τι]ˈκῶν ὑπὸ τοῦ πατρὸ[ς Ποι]ˈμάνδρου τελευτῆσα[ί φη]ˈσιν τὸν Ἔφιππον τ[άφρ(ον)] ˈ ὑπερ[αλ]όμενον κ[αθά]ˈπερ ἡ πολλὴ δόξα—κ[αὶ] ˈ Τοξέα φησὶν ὑπὸ το[ῦ πα]ˈτρὸς Οἰνέως ἐπὶ τοῖς [αὐ]ˈτοῖς τελευτῆσαι—, γ[ρ̣άφων] ˈ οὕτως· ‘.. . τὸν γὰρ Πο [ ίμα ν ]ˈδρόν φησιν ( wer ?) , ὡς τὴ [ ν τάφρο ν ]ˈ τῆ〈ι〉 πόλει περιεβά [ λλετ ο ] ˈ —παῖδα αὐτοῦ τὸν Ἔφ [ ιππο ν ] ˈ φάσκειν ῥαιδίως ὐ̣ [ πε ρ ]ˈαλεῖσθαι τὴν τάφ [ ρο ν , μ ὴ ] ˈ φάσκοντος δὲ τοῦ Π [ οιμά ν ]ˈδρου τὸν μὲν Ἔφι [ ππο ν ] ˈ διαπηδᾶ ν , τὸν δὲ [.. . ‘. ]
+PAP. OX. 2463, 14—32 s. 2 i 3 p. (vol. 27, 1962, 104—110 [Taf. 10]): Ἀριστοφάνης [δ’ ἐν]ˈ τῆι α πρώτη〈ι〉 τῶν Βοιω[τι]ˈκῶν ὑπὸ τοῦ πατρὸ[ς Ποι]ˈμάνδρου τελευτῆσα[ί φη]ˈσιν τὸν Ἔφιππον τ[άφρ(ον)] ˈ ὑπερ[αλ]όμενον κ[αθά]ˈπερ ἡ πολλὴ δόξα—κ[αὶ] ˈ Τοξέα φησὶν ὑπὸ το[ῦ πα]ˈτρὸς Οἰνέως ἐπὶ τοῖς [αὐ]ˈτοῖς τελευτῆσαι—, γ[ράφων] ˈ οὕτως· ‘.. . τὸν γὰρ Πο [ ίμα ν ]ˈδρόν φησιν ( wer ?) , ὡς τὴ [ ν τάφρο ν ]ˈ τῆ〈ι〉 πόλει περιεβά [ λλετ ο ] ˈ —παῖδα αὐτοῦ τὸν Ἔφ [ ιππο ν ] ˈ φάσκειν ῥαιδίως ὐ [ πε ρ ]ˈαλεῖσθαι τὴν τάφ [ ρο ν , μ ὴ ] ˈ φάσκοντος δὲ τοῦ Π [ οιμά ν ]ˈδρου τὸν μὲν Ἔφι [ ππο ν ] ˈ διαπηδᾶ ν , τὸν δὲ [.. . ‘. ]
 
 ## License and provenance
 

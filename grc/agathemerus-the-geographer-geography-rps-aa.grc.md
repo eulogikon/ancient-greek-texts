@@ -4,7 +4,7 @@ title_greek: Πληροφορίαι περὶ γεωγραφίας
 author: Agathemerus the Geographer
 eul_wid: rps-aa
 eul_aid: rps
-canonical: "https://eulogikon.org/grc/agathemerus-the-geographer/geography"
+canonical: "https://eulogikon.org/works/agathemerus-geography-rps-aa"
 period: Roman
 dialect: Technical Koine
 domain: Geography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Agathemerus the Geographer
 
-**eul_wid:** `rps-aa` · [HTML page](https://eulogikon.org/grc/agathemerus-the-geographer/geography)
+**eul_wid:** `rps-aa` · [HTML page](https://eulogikon.org/works/agathemerus-geography-rps-aa)
 
 ## Text
 

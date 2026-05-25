@@ -4,7 +4,7 @@ title_greek: Πρὸς Λεύκιππον
 author: Bolus of Mendes
 eul_wid: kzk-ac
 eul_aid: kzk
-canonical: "https://eulogikon.org/grc/bolus-of-mendes/leucippus"
+canonical: "https://eulogikon.org/works/bolus-mendes-leucippus-kzk-ac"
 period: Hellenistic
 dialect: Koine (frg)
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Bolus of Mendes
 
-**eul_wid:** `kzk-ac` · [HTML page](https://eulogikon.org/grc/bolus-of-mendes/leucippus)
+**eul_wid:** `kzk-ac` · [HTML page](https://eulogikon.org/works/bolus-mendes-leucippus-kzk-ac)
 
 ## Text
 

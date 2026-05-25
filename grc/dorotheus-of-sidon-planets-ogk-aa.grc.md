@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Πλανητῶν
 author: Dorotheus of Sidon
 eul_wid: ogk-aa
 eul_aid: ogk
-canonical: "https://eulogikon.org/grc/dorotheus-of-sidon/planets"
+canonical: "https://eulogikon.org/works/dorotheus-sidon-planets-ogk-aa"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dorotheus of Sidon
 
-**eul_wid:** `ogk-aa` · [HTML page](https://eulogikon.org/grc/dorotheus-of-sidon/planets)
+**eul_wid:** `ogk-aa` · [HTML page](https://eulogikon.org/works/dorotheus-sidon-planets-ogk-aa)
 
 ## Text
 
 ### 1
 
-Ἑπτὰ πολυπλανέες κατ’ Ὀλύμπιον ἀστέρες οὐδόν εἱλεῦνται, μετὰ †τοῖσιν ἀεὶ δ’ ἐπινήσεται† αἰών· νυκτιφανὴς Μήνη, στυγνὸς Κρόνος, Ἥλιος ἡδύς, παστοφόρος Παφίη, θρασὺς Ἄρης, εὔπτερος Ἑρμῆς, καὶ Ζεὺς ἀρχιγένεθλος, ἀφ’ οὗ φύσις ἐβλάστησεν. οἱ δ’ αὐτοὶ μερόπων ἔλαχον γένος, ἔστι δ’ ἐν ἡμῖν Μήνη Ζεὺς Ἄρης Παφίη Κρόνος Ἥλιος Ἑρμῆς· τοὔνεκ’ ἀπ’ αἰθερίου μεμερίσμεθα πνεύματος ἕλκειν δάκρυ γέλωτα χόλον γένεσιν λόγον ὕπνον ὄρεξιν.
+Ἑπτὰ πολυπλανέες κατ’ Ὀλύμπιον ἀστέρες οὐδόν εἱλεῦνται, μετὰ τοῖσιν ἀεὶ δ’ ἐπινήσεται αἰών· νυκτιφανὴς Μήνη, στυγνὸς Κρόνος, Ἥλιος ἡδύς, παστοφόρος Παφίη, θρασὺς Ἄρης, εὔπτερος Ἑρμῆς, καὶ Ζεὺς ἀρχιγένεθλος, ἀφ’ οὗ φύσις ἐβλάστησεν. οἱ δ’ αὐτοὶ μερόπων ἔλαχον γένος, ἔστι δ’ ἐν ἡμῖν Μήνη Ζεὺς Ἄρης Παφίη Κρόνος Ἥλιος Ἑρμῆς· τοὔνεκ’ ἀπ’ αἰθερίου μεμερίσμεθα πνεύματος ἕλκειν δάκρυ γέλωτα χόλον γένεσιν λόγον ὕπνον ὄρεξιν.
 
 ### 2
 

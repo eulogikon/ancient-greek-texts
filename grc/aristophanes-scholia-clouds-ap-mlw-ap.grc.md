@@ -4,7 +4,7 @@ title_greek: Σχόλια εἰς Νεφέλας
 author: Aristophanes Scholia
 eul_wid: mlw-ap
 eul_aid: mlw
-canonical: "https://eulogikon.org/grc/aristophanes-scholia/clouds-ap"
+canonical: "https://eulogikon.org/works/aristophanes-scholia-clouds-mlw-ap"
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristophanes Scholia
 
-**eul_wid:** `mlw-ap` · [HTML page](https://eulogikon.org/grc/aristophanes-scholia/clouds-ap)
+**eul_wid:** `mlw-ap` · [HTML page](https://eulogikon.org/works/aristophanes-scholia-clouds-mlw-ap)
 
 ## Text
 
@@ -508,7 +508,7 @@ post sch.vet. 448f: τινὲς δὲ “κίναδος” ζῷον μικρὸ
 
 ### book 448d
 
-post sch.vet. 448h (ult. 21, εὔστομος ὡς τρύπανον): “τρύμη” οὖν τρύπανον, ὡς πάντων περιγενόμενος· ἢ †τριὸς† καὶ ταλαίπωρος· ἢ τρυμαλία.
+post sch.vet. 448h (ult. 21, εὔστομος ὡς τρύπανον): “τρύμη” οὖν τρύπανον, ὡς πάντων περιγενόμενος· ἢ τριὸς καὶ ταλαίπωρος· ἢ τρυμαλία.
 
 ### book 449
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα καὶ Τίτλος
 author: Alexander the Ephesian Poet
 eul_wid: lfy-aa
 eul_aid: lfy
-canonical: "https://eulogikon.org/grc/alexander-of-ephesus-poet/fragments"
+canonical: "https://eulogikon.org/works/alexander-ephesian-fragments-lfy-aa"
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alexander the Ephesian Poet
 
-**eul_wid:** `lfy-aa` · [HTML page](https://eulogikon.org/grc/alexander-of-ephesus-poet/fragments)
+**eul_wid:** `lfy-aa` · [HTML page](https://eulogikon.org/works/alexander-ephesian-fragments-lfy-aa)
 
 ## Text
 
@@ -32,7 +32,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 38
 
-Ἀσία καὶ Λιβύη †οἱ δὲ κάτω Πελασγίδα Χαονίην† χαλκείῳ δὲ λέβητι μέγαν διενήξατο πόντον
+Ἀσία καὶ Λιβύη οἱ δὲ κάτω Πελασγίδα Χαονίην χαλκείῳ δὲ λέβητι μέγαν διενήξατο πόντον
 
 ## License and provenance
 

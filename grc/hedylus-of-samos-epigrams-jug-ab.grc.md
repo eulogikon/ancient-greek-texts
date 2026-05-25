@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Hedylus of Samos
 eul_wid: jug-ab
 eul_aid: jug
-canonical: "https://eulogikon.org/grc/hedylus-of-samos/epigrams"
+canonical: "https://eulogikon.org/works/hedylus-samos-epigrams-jug-ab"
 period: Hellenistic
 dialect: Koine
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hedylus of Samos
 
-**eul_wid:** `jug-ab` · [HTML page](https://eulogikon.org/grc/hedylus-of-samos/epigrams)
+**eul_wid:** `jug-ab` · [HTML page](https://eulogikon.org/works/hedylus-samos-epigrams-jug-ab)
 
 ## Text
 

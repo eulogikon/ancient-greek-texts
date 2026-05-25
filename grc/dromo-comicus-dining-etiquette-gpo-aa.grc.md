@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Συμποσιακῆς Ἀγωγ
 author: Dromo Comicus
 eul_wid: gpo-aa
 eul_aid: gpo
-canonical: "https://eulogikon.org/grc/dromo-comicus/dining-etiquette"
+canonical: "https://eulogikon.org/works/dromo-dining-etiquette-gpo-aa"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dromo Comicus
 
-**eul_wid:** `gpo-aa` · [HTML page](https://eulogikon.org/grc/dromo-comicus/dining-etiquette)
+**eul_wid:** `gpo-aa` · [HTML page](https://eulogikon.org/works/dromo-dining-etiquette-gpo-aa)
 
 ## Text
 

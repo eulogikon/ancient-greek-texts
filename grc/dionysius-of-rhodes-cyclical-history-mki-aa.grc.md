@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Dionysius of Rhodes the Historian
 eul_wid: mki-aa
 eul_aid: mki
-canonical: "https://eulogikon.org/grc/dionysius-of-rhodes/cyclical-history"
+canonical: "https://eulogikon.org/works/dionysius-rhodes-cyclical-history-mki-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dionysius of Rhodes the Historian
 
-**eul_wid:** `mki-aa` · [HTML page](https://eulogikon.org/grc/dionysius-of-rhodes/cyclical-history)
+**eul_wid:** `mki-aa` · [HTML page](https://eulogikon.org/works/dionysius-rhodes-cyclical-history-mki-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Συνοπτικὴ ἔκθεσις γεωγραφίας
 author: Compendium of Geography Anonymous
 eul_wid: the-aa
 eul_aid: the
-canonical: "https://eulogikon.org/grc/compendium-of-geography-anon/exposition"
+canonical: "https://eulogikon.org/works/compendium-geography-anon-exposition-the-aa"
 period: Late Antique
 dialect: Koine
 domain: Geography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Compendium of Geography Anonymous
 
-**eul_wid:** `the-aa` · [HTML page](https://eulogikon.org/grc/compendium-of-geography-anon/exposition)
+**eul_wid:** `the-aa` · [HTML page](https://eulogikon.org/works/compendium-geography-anon-exposition-the-aa)
 
 ## Text
 

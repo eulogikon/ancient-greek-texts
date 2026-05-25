@@ -4,7 +4,7 @@ title_greek: Ὀξέων νούσων θεραπευτικόν
 author: Aretaeus the Cappadocian
 eul_wid: qao-ad
 eul_aid: qao
-canonical: "https://eulogikon.org/grc/aretaeus-the-cappadocian/acute-diseases-ad"
+canonical: "https://eulogikon.org/works/aretaeus-cappadocian-acute-diseases-qao-ad"
 period: Roman
 dialect: Ionic
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aretaeus the Cappadocian
 
-**eul_wid:** `qao-ad` · [HTML page](https://eulogikon.org/grc/aretaeus-the-cappadocian/acute-diseases-ad)
+**eul_wid:** `qao-ad` · [HTML page](https://eulogikon.org/works/aretaeus-cappadocian-acute-diseases-qao-ad)
 
 ## Text
 

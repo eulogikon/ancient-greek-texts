@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Cleobulina Scriptor Aenigmatum
 eul_wid: atq-aa
 eul_aid: atq
-canonical: "https://eulogikon.org/grc/cleobulina/riddles-paradoxes"
+canonical: "https://eulogikon.org/works/cleobulina-riddles-paradoxes-atq-aa"
 period: Archaic
 dialect: Ionic Elegiac
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cleobulina Scriptor Aenigmatum
 
-**eul_wid:** `atq-aa` · [HTML page](https://eulogikon.org/grc/cleobulina/riddles-paradoxes)
+**eul_wid:** `atq-aa` · [HTML page](https://eulogikon.org/works/cleobulina-riddles-paradoxes-atq-aa)
 
 ## Text
 

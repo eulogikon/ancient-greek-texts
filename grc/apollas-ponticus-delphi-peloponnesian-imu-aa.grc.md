@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Apollas Ponticus
 eul_wid: imu-aa
 eul_aid: imu
-canonical: "https://eulogikon.org/grc/apollas-ponticus/delphi-peloponnesian"
+canonical: "https://eulogikon.org/works/apollas-ponticus-delphi-peloponnesian-imu-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Apollas Ponticus
 
-**eul_wid:** `imu-aa` · [HTML page](https://eulogikon.org/grc/apollas-ponticus/delphi-peloponnesian)
+**eul_wid:** `imu-aa` · [HTML page](https://eulogikon.org/works/apollas-ponticus-delphi-peloponnesian-imu-aa)
 
 ## Text
 

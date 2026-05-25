@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἠθικῶν Γνωμῶν
 author: Eusebius of Myndus
 eul_wid: sio-aa
 eul_aid: sio
-canonical: "https://eulogikon.org/grc/eusebius-of-myndus/ethical-maxims"
+canonical: "https://eulogikon.org/works/eusebius-myndus-ethical-maxims-sio-aa"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Eusebius of Myndus
 
-**eul_wid:** `sio-aa` · [HTML page](https://eulogikon.org/grc/eusebius-of-myndus/ethical-maxims)
+**eul_wid:** `sio-aa` · [HTML page](https://eulogikon.org/works/eusebius-myndus-ethical-maxims-sio-aa)
 
 ## Text
 

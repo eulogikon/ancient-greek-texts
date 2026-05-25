@@ -4,7 +4,7 @@ title_greek: περὶ τοῦ Στεφάνου τῆς τριηραρκίας
 author: Demosthenes of Athens
 eul_wid: fsm-ao
 eul_aid: fsm
-canonical: "https://eulogikon.org/grc/demosthenes-of-athens/crown-trierarchy"
+canonical: "https://eulogikon.org/works/demosthenes-athens-crown-trierarchy-fsm-ao"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demosthenes of Athens
 
-**eul_wid:** `fsm-ao` · [HTML page](https://eulogikon.org/grc/demosthenes-of-athens/crown-trierarchy)
+**eul_wid:** `fsm-ao` · [HTML page](https://eulogikon.org/works/demosthenes-athens-crown-trierarchy-fsm-ao)
 
 ## Text
 

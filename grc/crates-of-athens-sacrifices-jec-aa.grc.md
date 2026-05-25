@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Crates of Athens
 eul_wid: jec-aa
 eul_aid: jec
-canonical: "https://eulogikon.org/grc/crates-of-athens/sacrifices"
+canonical: "https://eulogikon.org/works/crates-athens-sacrifices-jec-aa"
 period: Hellenistic
 dialect: Attic Philosophical
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Crates of Athens
 
-**eul_wid:** `jec-aa` · [HTML page](https://eulogikon.org/grc/crates-of-athens/sacrifices)
+**eul_wid:** `jec-aa` · [HTML page](https://eulogikon.org/works/crates-athens-sacrifices-jec-aa)
 
 ## Text
 

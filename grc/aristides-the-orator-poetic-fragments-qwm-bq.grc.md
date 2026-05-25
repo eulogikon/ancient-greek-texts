@@ -4,7 +4,7 @@ title_greek: Ποιητικὰ Ἀποσπάσματα
 author: Aristides the Orator
 eul_wid: qwm-bq
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/poetic-fragments"
+canonical: "https://eulogikon.org/works/aristides-orator-poetic-fragments-qwm-bq"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-bq` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/poetic-fragments)
+**eul_wid:** `qwm-bq` · [HTML page](https://eulogikon.org/works/aristides-orator-poetic-fragments-qwm-bq)
 
 ## Text
 

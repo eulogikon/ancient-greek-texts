@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Herillus of Carthage
 eul_wid: jtc-aa
 eul_aid: jtc
-canonical: "https://eulogikon.org/grc/herillus-of-carthage/ethical-fragments"
+canonical: "https://eulogikon.org/works/herillus-carthage-ethical-fragments-jtc-aa"
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Herillus of Carthage
 
-**eul_wid:** `jtc-aa` · [HTML page](https://eulogikon.org/grc/herillus-of-carthage/ethical-fragments)
+**eul_wid:** `jtc-aa` · [HTML page](https://eulogikon.org/works/herillus-carthage-ethical-fragments-jtc-aa)
 
 ## Text
 

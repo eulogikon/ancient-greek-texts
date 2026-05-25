@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Alcimus of Sicily
 eul_wid: ijs-aa
 eul_aid: ijs
-canonical: "https://eulogikon.org/grc/alcimus-of-sicily/italian-antiquities"
+canonical: "https://eulogikon.org/works/alcimus-sicily-italian-antiquities-ijs-aa"
 period: Hellenistic
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alcimus of Sicily
 
-**eul_wid:** `ijs-aa` · [HTML page](https://eulogikon.org/grc/alcimus-of-sicily/italian-antiquities)
+**eul_wid:** `ijs-aa` · [HTML page](https://eulogikon.org/works/alcimus-sicily-italian-antiquities-ijs-aa)
 
 ## Text
 

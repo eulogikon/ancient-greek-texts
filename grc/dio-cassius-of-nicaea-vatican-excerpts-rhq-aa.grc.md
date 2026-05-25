@@ -4,7 +4,7 @@ title_greek: Ἱστορίαι Ῥωμαϊκαί
 author: Dio Cassius of Nicaea
 eul_wid: rhq-aa
 eul_aid: rhq
-canonical: "https://eulogikon.org/grc/dio-cassius-of-nicaea/vatican-excerpts"
+canonical: "https://eulogikon.org/works/dio-cassius-nicaea-vatican-excerpts-rhq-aa"
 period: Roman
 dialect: Atticizing
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dio Cassius of Nicaea
 
-**eul_wid:** `rhq-aa` · [HTML page](https://eulogikon.org/grc/dio-cassius-of-nicaea/vatican-excerpts)
+**eul_wid:** `rhq-aa` · [HTML page](https://eulogikon.org/works/dio-cassius-nicaea-vatican-excerpts-rhq-aa)
 
 ## Text
 

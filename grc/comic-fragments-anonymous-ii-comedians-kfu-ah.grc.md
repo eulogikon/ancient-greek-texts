@@ -4,7 +4,7 @@ title_greek: Κωμῳδούμενοι
 author: Comic Fragments Anonymous II
 eul_wid: kfu-ah
 eul_aid: kfu
-canonical: "https://eulogikon.org/grc/comic-fragments-anonymous-ii/comedians"
+canonical: "https://eulogikon.org/works/anon-comic-fragments-ii-comedians-kfu-ah"
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Comic Fragments Anonymous II
 
-**eul_wid:** `kfu-ah` · [HTML page](https://eulogikon.org/grc/comic-fragments-anonymous-ii/comedians)
+**eul_wid:** `kfu-ah` · [HTML page](https://eulogikon.org/works/anon-comic-fragments-ii-comedians-kfu-ah)
 
 ## Text
 

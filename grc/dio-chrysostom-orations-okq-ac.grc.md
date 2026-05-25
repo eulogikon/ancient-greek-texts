@@ -4,7 +4,7 @@ title_greek: Λόγοι
 author: Dio Chrysostom of Prusa
 eul_wid: okq-ac
 eul_aid: okq
-canonical: "https://eulogikon.org/grc/dio-chrysostom/orations"
+canonical: "https://eulogikon.org/works/dio-chrysostom-orations-okq-ac"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dio Chrysostom of Prusa
 
-**eul_wid:** `okq-ac` · [HTML page](https://eulogikon.org/grc/dio-chrysostom/orations)
+**eul_wid:** `okq-ac` · [HTML page](https://eulogikon.org/works/dio-chrysostom-orations-okq-ac)
 
 ## Text
 

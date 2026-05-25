@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Heliodorus of Athens
 eul_wid: mgc-aa
 eul_aid: mgc
-canonical: "https://eulogikon.org/grc/heliodorus-of-athens/acropolis"
+canonical: "https://eulogikon.org/works/heliodorus-athens-acropolis-mgc-aa"
 period: Hellenistic
 dialect: Attic
 domain: Geography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Heliodorus of Athens
 
-**eul_wid:** `mgc-aa` · [HTML page](https://eulogikon.org/grc/heliodorus-of-athens/acropolis)
+**eul_wid:** `mgc-aa` · [HTML page](https://eulogikon.org/works/heliodorus-athens-acropolis-mgc-aa)
 
 ## Text
 

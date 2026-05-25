@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Demetrius of Salamis
 eul_wid: fyq-aa
 eul_aid: fyq
-canonical: "https://eulogikon.org/grc/demetrius-of-salamis/histories-travels"
+canonical: "https://eulogikon.org/works/demetrius-salamis-histories-travels-fyq-aa"
 period: Classical
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demetrius of Salamis
 
-**eul_wid:** `fyq-aa` · [HTML page](https://eulogikon.org/grc/demetrius-of-salamis/histories-travels)
+**eul_wid:** `fyq-aa` · [HTML page](https://eulogikon.org/works/demetrius-salamis-histories-travels-fyq-aa)
 
 ## Text
 

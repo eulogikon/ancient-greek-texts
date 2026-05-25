@@ -4,7 +4,7 @@ title_greek: Μονῳδία ἐπὶ Σμύρνῃ
 author: Aristides the Orator
 eul_wid: qwm-bp
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/monody-smyrna"
+canonical: "https://eulogikon.org/works/aristides-orator-monody-smyrna-qwm-bp"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-bp` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/monody-smyrna)
+**eul_wid:** `qwm-bp` · [HTML page](https://eulogikon.org/works/aristides-orator-monody-smyrna-qwm-bp)
 
 ## Text
 

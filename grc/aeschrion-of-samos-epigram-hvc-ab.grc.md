@@ -4,7 +4,7 @@ title_greek: Ἐπίγραμμα
 author: Aeschrion of Samos
 eul_wid: hvc-ab
 eul_aid: hvc
-canonical: "https://eulogikon.org/grc/aeschrion-of-samos/epigram"
+canonical: "https://eulogikon.org/works/aeschrion-samos-epigram-hvc-ab"
 period: Hellenistic
 dialect: "Ionic (ia, frg)"
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aeschrion of Samos
 
-**eul_wid:** `hvc-ab` · [HTML page](https://eulogikon.org/grc/aeschrion-of-samos/epigram)
+**eul_wid:** `hvc-ab` · [HTML page](https://eulogikon.org/works/aeschrion-samos-epigram-hvc-ab)
 
 ## Text
 

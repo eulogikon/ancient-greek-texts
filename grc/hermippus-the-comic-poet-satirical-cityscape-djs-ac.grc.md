@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Hermippus the Comic Poet
 eul_wid: djs-ac
 eul_aid: djs
-canonical: "https://eulogikon.org/grc/hermippus-the-comic-poet/satirical-cityscape"
+canonical: "https://eulogikon.org/works/hermippus-satirical-cityscape-djs-ac"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hermippus the Comic Poet
 
-**eul_wid:** `djs-ac` · [HTML page](https://eulogikon.org/grc/hermippus-the-comic-poet/satirical-cityscape)
+**eul_wid:** `djs-ac` · [HTML page](https://eulogikon.org/works/hermippus-satirical-cityscape-djs-ac)
 
 ## Text
 
@@ -28,11 +28,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 3.1
 
-ξύνεστι γὰρ δὴ δεσμ〈ί〉ωι μὲν οὐδενί, †τοῖσι δ’ ὑπαγωγεῦσι
+ξύνεστι γὰρ δὴ δεσμ〈ί〉ωι μὲν οὐδενί, τοῖσι δ’ ὑπαγωγεῦσι
 
 ### book 3.2
 
-τοῖς ἑαυτοῦ τρόποις†.
+τοῖς ἑαυτοῦ τρόποις.
 
 ### book 4.1
 
@@ -44,15 +44,15 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 5.1
 
-ὕστερον δ’ †αὐτὸν
+ὕστερον δ’ αὐτὸν
 
 ### book 5.2
 
-στρατηγὸν οὓς ἀνειλωτημένην† καὶ κασαλβάζουσαν εἶδον καὶ σεσαλακωνισμένην.
+στρατηγὸν οὓς ἀνειλωτημένην καὶ κασαλβάζουσαν εἶδον καὶ σεσαλακωνισμένην.
 
 ### book 6.1
 
-καὶ Θεμιστοκλέους †τὸν
+καὶ Θεμιστοκλέους τὸν
 
 ### book 6.2
 
@@ -60,7 +60,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 6.3
 
-τις ὢν†
+τις ὢν
 
 ## License and provenance
 

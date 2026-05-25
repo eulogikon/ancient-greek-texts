@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Οἰκονομίας
 author: Apollodorus of Gela
 eul_wid: hee-ab
 eul_aid: hee
-canonical: "https://eulogikon.org/grc/apollodorus-of-gela/household-management"
+canonical: "https://eulogikon.org/works/apollodorus-gela-household-management-hee-ab"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Apollodorus of Gela
 
-**eul_wid:** `hee-ab` · [HTML page](https://eulogikon.org/grc/apollodorus-of-gela/household-management)
+**eul_wid:** `hee-ab` · [HTML page](https://eulogikon.org/works/apollodorus-gela-household-management-hee-ab)
 
 ## Text
 

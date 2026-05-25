@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Οἴνου καὶ Ἔρωτος
 author: Anacreon of Teos
 eul_wid: bfy-aa
 eul_aid: bfy
-canonical: "https://eulogikon.org/grc/anacreon-of-teos/wine-love"
+canonical: "https://eulogikon.org/works/anacreon-teos-wine-love-bfy-aa"
 period: Archaic
 dialect: Ionic Elegiac
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Anacreon of Teos
 
-**eul_wid:** `bfy-aa` · [HTML page](https://eulogikon.org/grc/anacreon-of-teos/wine-love)
+**eul_wid:** `bfy-aa` · [HTML page](https://eulogikon.org/works/anacreon-teos-wine-love-bfy-aa)
 
 ## Text
 
@@ -48,7 +48,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 3
 
-τί μοι (φησί) τῶν ἀγκυλοτόξων †φιλοκιμέρων καὶ Σκυθέων† μέλει;
+τί μοι (φησί) τῶν ἀγκυλοτόξων φιλοκιμέρων καὶ Σκυθέων μέλει;
 
 ### book 4
 
@@ -100,7 +100,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 7
 
-–⏑⏑ καὶ θάλαμος οὗ κεῖνος οὐκ ἔγημεν ἀλλ’ ἐγήματο.
+– καὶ θάλαμος οὗ κεῖνος οὐκ ἔγημεν ἀλλ’ ἐγήματο.
 
 ## License and provenance
 

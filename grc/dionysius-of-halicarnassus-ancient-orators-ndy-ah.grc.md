@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν ἀρχαίων ῥητόρων
 author: Dionysius of Halicarnassus
 eul_wid: ndy-ah
 eul_aid: ndy
-canonical: "https://eulogikon.org/grc/dionysius-of-halicarnassus/ancient-orators"
+canonical: "https://eulogikon.org/works/dionysius-halicarnassus-ancient-orators-ndy-ah"
 period: Hellenistic
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dionysius of Halicarnassus
 
-**eul_wid:** `ndy-ah` · [HTML page](https://eulogikon.org/grc/dionysius-of-halicarnassus/ancient-orators)
+**eul_wid:** `ndy-ah` · [HTML page](https://eulogikon.org/works/dionysius-halicarnassus-ancient-orators-ndy-ah)
 
 ## Text
 

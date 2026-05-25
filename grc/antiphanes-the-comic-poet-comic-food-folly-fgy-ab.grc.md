@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Σίτων καὶ Μωρίας
 author: Antiphanes the Comic Poet
 eul_wid: fgy-ab
 eul_aid: fgy
-canonical: "https://eulogikon.org/grc/antiphanes-the-comic-poet/comic-food-folly"
+canonical: "https://eulogikon.org/works/antiphanes-comic-food-folly-fgy-ab"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Antiphanes the Comic Poet
 
-**eul_wid:** `fgy-ab` · [HTML page](https://eulogikon.org/grc/antiphanes-the-comic-poet/comic-food-folly)
+**eul_wid:** `fgy-ab` · [HTML page](https://eulogikon.org/works/antiphanes-comic-food-folly-fgy-ab)
 
 ## Text
 

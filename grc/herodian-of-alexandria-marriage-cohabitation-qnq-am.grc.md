@@ -4,7 +4,7 @@ title_greek: Περὶ γάμου καὶ συμβιώσεως
 author: Herodian of Alexandria
 eul_wid: qnq-am
 eul_aid: qnq
-canonical: "https://eulogikon.org/grc/herodian-of-alexandria/marriage-cohabitation"
+canonical: "https://eulogikon.org/works/herodian-alexandria-marriage-cohabitation-qnq-am"
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Herodian of Alexandria
 
-**eul_wid:** `qnq-am` · [HTML page](https://eulogikon.org/grc/herodian-of-alexandria/marriage-cohabitation)
+**eul_wid:** `qnq-am` · [HTML page](https://eulogikon.org/works/herodian-alexandria-marriage-cohabitation-qnq-am)
 
 ## Text
 

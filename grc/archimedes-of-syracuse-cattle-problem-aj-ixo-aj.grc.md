@@ -4,7 +4,7 @@ title_greek: Βοῦς Πρόβλημα
 author: Archimedes of Syracuse
 eul_wid: ixo-aj
 eul_aid: ixo
-canonical: "https://eulogikon.org/grc/archimedes-of-syracuse/cattle-problem-aj"
+canonical: "https://eulogikon.org/works/archimedes-syracuse-cattle-problem-ixo-aj"
 period: Hellenistic
 dialect: Doric
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Archimedes of Syracuse
 
-**eul_wid:** `ixo-aj` · [HTML page](https://eulogikon.org/grc/archimedes-of-syracuse/cattle-problem-aj)
+**eul_wid:** `ixo-aj` · [HTML page](https://eulogikon.org/works/archimedes-syracuse-cattle-problem-ixo-aj)
 
 ## Text
 

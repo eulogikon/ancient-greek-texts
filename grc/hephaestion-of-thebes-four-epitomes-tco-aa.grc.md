@@ -4,7 +4,7 @@ title_greek: Ἐπιπτώσεις
 author: Hephaestion of Thebes
 eul_wid: tco-aa
 eul_aid: tco
-canonical: "https://eulogikon.org/grc/hephaestion-of-thebes/four-epitomes"
+canonical: "https://eulogikon.org/works/hephaestion-thebes-four-epitomes-tco-aa"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hephaestion of Thebes
 
-**eul_wid:** `tco-aa` · [HTML page](https://eulogikon.org/grc/hephaestion-of-thebes/four-epitomes)
+**eul_wid:** `tco-aa` · [HTML page](https://eulogikon.org/works/hephaestion-thebes-four-epitomes-tco-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Δηλίων Παρασίτων
 author: "Crito of Alopece "
 eul_wid: lrc-ab
 eul_aid: lrc
-canonical: "https://eulogikon.org/grc/crito-of-alopece/delian-parasites"
+canonical: "https://eulogikon.org/works/crito-alopece-delian-parasites-lrc-ab"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Crito of Alopece 
 
-**eul_wid:** `lrc-ab` · [HTML page](https://eulogikon.org/grc/crito-of-alopece/delian-parasites)
+**eul_wid:** `lrc-ab` · [HTML page](https://eulogikon.org/works/crito-alopece-delian-parasites-lrc-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Heraclitus of Ephesus
 eul_wid: bky-aa
 eul_aid: bky
-canonical: "https://eulogikon.org/grc/heraclitus-of-ephesus/testimonies"
+canonical: "https://eulogikon.org/works/heraclitus-ephesus-testimonies-bky-aa"
 period: Archaic
 dialect: Mixed Dialects (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Heraclitus of Ephesus
 
-**eul_wid:** `bky-aa` · [HTML page](https://eulogikon.org/grc/heraclitus-of-ephesus/testimonies)
+**eul_wid:** `bky-aa` · [HTML page](https://eulogikon.org/works/heraclitus-ephesus-testimonies-bky-aa)
 
 ## Text
 

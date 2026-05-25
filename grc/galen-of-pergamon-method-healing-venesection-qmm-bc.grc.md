@@ -4,7 +4,7 @@ title_greek: Περὶ τῆς θεραπευτικῆς μεθόδου διὰ 
 author: Galen of Pergamon
 eul_wid: qmm-bc
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/method-healing-venesection"
+canonical: "https://eulogikon.org/works/galen-pergamon-method-healing-venesection-qmm-bc"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-bc` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/method-healing-venesection)
+**eul_wid:** `qmm-bc` · [HTML page](https://eulogikon.org/works/galen-pergamon-method-healing-venesection-qmm-bc)
 
 ## Text
 

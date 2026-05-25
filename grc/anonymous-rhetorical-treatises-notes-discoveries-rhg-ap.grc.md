@@ -4,7 +4,7 @@ title_greek: Σημειῶδες εἰς τὰς εὑρέσεις
 author: Rhetorical Treatise Anonymous
 eul_wid: rhg-ap
 eul_aid: rhg
-canonical: "https://eulogikon.org/grc/anonymous-rhetorical-treatises/notes-discoveries"
+canonical: "https://eulogikon.org/works/anon-rhet-treatise-notes-discoveries-rhg-ap"
 period: Roman
 dialect: Technical Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Rhetorical Treatise Anonymous
 
-**eul_wid:** `rhg-ap` · [HTML page](https://eulogikon.org/grc/anonymous-rhetorical-treatises/notes-discoveries)
+**eul_wid:** `rhg-ap` · [HTML page](https://eulogikon.org/works/anon-rhet-treatise-notes-discoveries-rhg-ap)
 
 ## Text
 

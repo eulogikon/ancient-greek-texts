@@ -4,7 +4,7 @@ title_greek: Περὶ Πολυγωνικῶν Ἀριθμῶν
 author: Diophantus of Alexandria II
 eul_wid: rqm-ab
 eul_aid: rqm
-canonical: "https://eulogikon.org/grc/diophantus-of-alexandria-ii/polygonal-numbers"
+canonical: "https://eulogikon.org/works/diophantus-alexandria-polygonal-numbers-rqm-ab"
 period: Roman
 dialect: Technical Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Diophantus of Alexandria II
 
-**eul_wid:** `rqm-ab` · [HTML page](https://eulogikon.org/grc/diophantus-of-alexandria-ii/polygonal-numbers)
+**eul_wid:** `rqm-ab` · [HTML page](https://eulogikon.org/works/diophantus-alexandria-polygonal-numbers-rqm-ab)
 
 ## Text
 

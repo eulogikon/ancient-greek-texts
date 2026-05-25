@@ -4,7 +4,7 @@ title_greek: Βίος Ἀράτου
 author: "Aratus Lives "
 eul_wid: iru-ab
 eul_aid: iru
-canonical: "https://eulogikon.org/grc/aratus-lives/life-ab"
+canonical: "https://eulogikon.org/works/aratus-life-iru-ab"
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aratus Lives 
 
-**eul_wid:** `iru-ab` · [HTML page](https://eulogikon.org/grc/aratus-lives/life-ab)
+**eul_wid:** `iru-ab` · [HTML page](https://eulogikon.org/works/aratus-life-iru-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Γλώσσης καὶ Ποίησ
 author: Cratinus the Comic Poet
 eul_wid: czs-ac
 eul_aid: czs
-canonical: "https://eulogikon.org/grc/cratinus-the-comic-poet/language-poetry"
+canonical: "https://eulogikon.org/works/cratinus-language-poetry-czs-ac"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cratinus the Comic Poet
 
-**eul_wid:** `czs-ac` · [HTML page](https://eulogikon.org/grc/cratinus-the-comic-poet/language-poetry)
+**eul_wid:** `czs-ac` · [HTML page](https://eulogikon.org/works/cratinus-language-poetry-czs-ac)
 
 ## Text
 
@@ -28,7 +28,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2
 
-–⏑⏑ εἶτ’ ἀμφιετηριζομέναιc ὥραιc τε καὶ χρόνῳ μακρῷ.
+– εἶτ’ ἀμφιετηριζομέναιc ὥραιc τε καὶ χρόνῳ μακρῷ.
 
 ### book 3.1
 
@@ -148,7 +148,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 29
 
-⏑–⏑ τὸν θεὸν δ’ ἐμοῦ κλύων cέβε, ὡc ὄντα –⏒ μάντιν ἀψευδέcτατον.
+– τὸν θεὸν δ’ ἐμοῦ κλύων cέβε, ὡc ὄντα – μάντιν ἀψευδέcτατον.
 
 ## License and provenance
 

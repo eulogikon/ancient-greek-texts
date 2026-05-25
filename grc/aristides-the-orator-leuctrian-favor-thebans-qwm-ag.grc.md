@@ -4,7 +4,7 @@ title_greek: Λευκτρικὸς Δ.
 author: Aristides the Orator
 eul_wid: qwm-ag
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/leuctrian-favor-thebans"
+canonical: "https://eulogikon.org/works/aristides-orator-leuctrian-favor-thebans-qwm-ag"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-ag` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/leuctrian-favor-thebans)
+**eul_wid:** `qwm-ag` · [HTML page](https://eulogikon.org/works/aristides-orator-leuctrian-favor-thebans-qwm-ag)
 
 ## Text
 

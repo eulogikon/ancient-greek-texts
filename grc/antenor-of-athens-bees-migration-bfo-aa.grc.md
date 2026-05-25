@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Antenor of Athens
 eul_wid: bfo-aa
 eul_aid: bfo
-canonical: "https://eulogikon.org/grc/antenor-of-athens/bees-migration"
+canonical: "https://eulogikon.org/works/antenor-athens-bees-migration-bfo-aa"
 period: Archaic
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Antenor of Athens
 
-**eul_wid:** `bfo-aa` · [HTML page](https://eulogikon.org/grc/antenor-of-athens/bees-migration)
+**eul_wid:** `bfo-aa` · [HTML page](https://eulogikon.org/works/antenor-athens-bees-migration-bfo-aa)
 
 ## Text
 

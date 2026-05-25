@@ -4,7 +4,7 @@ title_greek: Περὶ ὡρῶν ἡμέρας καὶ νυκτός
 author: Apollonius of Tyana
 eul_wid: nxe-aa
 eul_aid: nxe
-canonical: "https://eulogikon.org/grc/apollonius-of-tyana/hours-day-night"
+canonical: "https://eulogikon.org/works/apollonius-tyana-hours-day-night-nxe-aa"
 period: Roman
 dialect: Koine
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Apollonius of Tyana
 
-**eul_wid:** `nxe-aa` · [HTML page](https://eulogikon.org/grc/apollonius-of-tyana/hours-day-night)
+**eul_wid:** `nxe-aa` · [HTML page](https://eulogikon.org/works/apollonius-tyana-hours-day-night-nxe-aa)
 
 ## Text
 

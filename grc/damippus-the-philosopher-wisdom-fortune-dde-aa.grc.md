@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Damippus the Philosopher
 eul_wid: dde-aa
 eul_aid: dde
-canonical: "https://eulogikon.org/grc/damippus-the-philosopher/wisdom-fortune"
+canonical: "https://eulogikon.org/works/damippus-wisdom-fortune-dde-aa"
 period: Classical
 dialect: "Attic (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Damippus the Philosopher
 
-**eul_wid:** `dde-aa` · [HTML page](https://eulogikon.org/grc/damippus-the-philosopher/wisdom-fortune)
+**eul_wid:** `dde-aa` · [HTML page](https://eulogikon.org/works/damippus-wisdom-fortune-dde-aa)
 
 ## Text
 

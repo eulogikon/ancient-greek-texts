@@ -4,7 +4,7 @@ title_greek: Τέχνη τακτική
 author: Asclepiodotus Tacticus
 eul_wid: myy-aa
 eul_aid: myy
-canonical: "https://eulogikon.org/grc/asclepiodotus-tacticus/art"
+canonical: "https://eulogikon.org/works/asclepiodotus-tacticus-art-myy-aa"
 period: Hellenistic
 dialect: Attic
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Asclepiodotus Tacticus
 
-**eul_wid:** `myy-aa` · [HTML page](https://eulogikon.org/grc/asclepiodotus-tacticus/art)
+**eul_wid:** `myy-aa` · [HTML page](https://eulogikon.org/works/asclepiodotus-tacticus-art-myy-aa)
 
 ## Text
 

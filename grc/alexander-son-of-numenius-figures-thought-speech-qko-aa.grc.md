@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν τῆς διανοίας καὶ τῆς λέξε
 author: Alexander Son of Numenius
 eul_wid: qko-aa
 eul_aid: qko
-canonical: "https://eulogikon.org/grc/alexander-son-of-numenius/figures-thought-speech"
+canonical: "https://eulogikon.org/works/alexander-numenius-figures-thought-speech-qko-aa"
 period: Roman
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alexander Son of Numenius
 
-**eul_wid:** `qko-aa` · [HTML page](https://eulogikon.org/grc/alexander-son-of-numenius/figures-thought-speech)
+**eul_wid:** `qko-aa` · [HTML page](https://eulogikon.org/works/alexander-numenius-figures-thought-speech-qko-aa)
 
 ## Text
 

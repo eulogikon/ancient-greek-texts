@@ -4,7 +4,7 @@ title_greek: Χρονικόν
 author: "Ephraem of Aenus "
 eul_wid: uza-aa
 eul_aid: uza
-canonical: "https://eulogikon.org/grc/ephraem-of-aenus/chronicle"
+canonical: "https://eulogikon.org/works/ephraem-aenus-chronicle-uza-aa"
 period: Late Antique
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ephraem of Aenus 
 
-**eul_wid:** `uza-aa` · [HTML page](https://eulogikon.org/grc/ephraem-of-aenus/chronicle)
+**eul_wid:** `uza-aa` · [HTML page](https://eulogikon.org/works/ephraem-aenus-chronicle-uza-aa)
 
 ## Text
 

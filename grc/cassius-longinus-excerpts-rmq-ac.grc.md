@@ -4,7 +4,7 @@ title_greek: Ἐκλογαί
 author: Cassius Longinus the Philosopher
 eul_wid: rmq-ac
 eul_aid: rmq
-canonical: "https://eulogikon.org/grc/cassius-longinus/excerpts"
+canonical: "https://eulogikon.org/works/cassius-longinus-excerpts-rmq-ac"
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cassius Longinus the Philosopher
 
-**eul_wid:** `rmq-ac` · [HTML page](https://eulogikon.org/grc/cassius-longinus/excerpts)
+**eul_wid:** `rmq-ac` · [HTML page](https://eulogikon.org/works/cassius-longinus-excerpts-rmq-ac)
 
 ## Text
 

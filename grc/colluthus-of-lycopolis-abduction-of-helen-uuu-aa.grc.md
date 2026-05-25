@@ -4,7 +4,7 @@ title_greek: Ἁρπαγὴ Ἑλένης
 author: Colluthus of Lycopolis
 eul_wid: uuu-aa
 eul_aid: uuu
-canonical: "https://eulogikon.org/grc/colluthus-of-lycopolis/abduction-of-helen"
+canonical: "https://eulogikon.org/works/colluthus-lycopolis-abduction-of-helen-uuu-aa"
 period: Late Antique
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Colluthus of Lycopolis
 
-**eul_wid:** `uuu-aa` · [HTML page](https://eulogikon.org/grc/colluthus-of-lycopolis/abduction-of-helen)
+**eul_wid:** `uuu-aa` · [HTML page](https://eulogikon.org/works/colluthus-lycopolis-abduction-of-helen-uuu-aa)
 
 ## Text
 

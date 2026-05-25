@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἐρατοσθένους
 author: Crates the Comic Poet
 eul_wid: dac-ad
 eul_aid: dac
-canonical: "https://eulogikon.org/grc/crates-the-comic-poet/eratosthenes-fragments"
+canonical: "https://eulogikon.org/works/crates-comic-eratosthenes-fragments-dac-ad"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Crates the Comic Poet
 
-**eul_wid:** `dac-ad` · [HTML page](https://eulogikon.org/grc/crates-the-comic-poet/eratosthenes-fragments)
+**eul_wid:** `dac-ad` · [HTML page](https://eulogikon.org/works/crates-comic-eratosthenes-fragments-dac-ad)
 
 ## Text
 

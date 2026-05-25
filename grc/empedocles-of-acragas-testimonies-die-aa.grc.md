@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Empedocles of Acragas
 eul_wid: die-aa
 eul_aid: die
-canonical: "https://eulogikon.org/grc/empedocles-of-acragas/testimonies"
+canonical: "https://eulogikon.org/works/empedocles-acragas-testimonies-die-aa"
 period: Classical
 dialect: Doric
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Empedocles of Acragas
 
-**eul_wid:** `die-aa` · [HTML page](https://eulogikon.org/grc/empedocles-of-acragas/testimonies)
+**eul_wid:** `die-aa` · [HTML page](https://eulogikon.org/works/empedocles-acragas-testimonies-die-aa)
 
 ## Text
 

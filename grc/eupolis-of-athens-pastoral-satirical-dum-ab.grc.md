@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Eupolis Atheniensis
 eul_wid: dum-ab
 eul_aid: dum
-canonical: "https://eulogikon.org/grc/eupolis-of-athens/pastoral-satirical"
+canonical: "https://eulogikon.org/works/eupolis-athens-pastoral-satirical-dum-ab"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Eupolis Atheniensis
 
-**eul_wid:** `dum-ab` · [HTML page](https://eulogikon.org/grc/eupolis-of-athens/pastoral-satirical)
+**eul_wid:** `dum-ab` · [HTML page](https://eulogikon.org/works/eupolis-athens-pastoral-satirical-dum-ab)
 
 ## Text
 

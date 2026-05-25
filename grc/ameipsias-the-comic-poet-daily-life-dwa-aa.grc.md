@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Βίου Καθημερινοῦ
 author: Ameipsias the Comic Poet
 eul_wid: dwa-aa
 eul_aid: dwa
-canonical: "https://eulogikon.org/grc/ameipsias-the-comic-poet/daily-life"
+canonical: "https://eulogikon.org/works/ameipsias-daily-life-dwa-aa"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ameipsias the Comic Poet
 
-**eul_wid:** `dwa-aa` · [HTML page](https://eulogikon.org/grc/ameipsias-the-comic-poet/daily-life)
+**eul_wid:** `dwa-aa` · [HTML page](https://eulogikon.org/works/ameipsias-daily-life-dwa-aa)
 
 ## Text
 

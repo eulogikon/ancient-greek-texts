@@ -4,7 +4,7 @@ title_greek: "Ὑπὲρ Παλαμήδους ἀπολογία Β'"
 author: Gorgias of Leontini
 eul_wid: eme-aa
 eul_aid: eme
-canonical: "https://eulogikon.org/grc/gorgias-of-leontini/testimonies-2"
+canonical: "https://eulogikon.org/works/gorgias-leontini-testimonies-2-eme-aa"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Gorgias of Leontini
 
-**eul_wid:** `eme-aa` · [HTML page](https://eulogikon.org/grc/gorgias-of-leontini/testimonies-2)
+**eul_wid:** `eme-aa` · [HTML page](https://eulogikon.org/works/gorgias-leontini-testimonies-2-eme-aa)
 
 ## Text
 

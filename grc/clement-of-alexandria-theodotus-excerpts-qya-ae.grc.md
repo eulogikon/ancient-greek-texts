@@ -4,7 +4,7 @@ title_greek: Ἐκλογαὶ ἐκ Θεοδότου
 author: Clement of Alexandria
 eul_wid: qya-ae
 eul_aid: qya
-canonical: "https://eulogikon.org/grc/clement-of-alexandria/theodotus-excerpts"
+canonical: "https://eulogikon.org/works/clement-alexandria-theodotus-excerpts-qya-ae"
 period: Roman
 dialect: Christian Koine
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Clement of Alexandria
 
-**eul_wid:** `qya-ae` · [HTML page](https://eulogikon.org/grc/clement-of-alexandria/theodotus-excerpts)
+**eul_wid:** `qya-ae` · [HTML page](https://eulogikon.org/works/clement-alexandria-theodotus-excerpts-qya-ae)
 
 ## Text
 

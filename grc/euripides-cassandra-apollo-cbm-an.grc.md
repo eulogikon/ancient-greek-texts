@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Euripides
 eul_wid: cbm-an
 eul_aid: cbm
-canonical: "https://eulogikon.org/grc/euripides/cassandra-apollo"
+canonical: "https://eulogikon.org/works/euripides-cassandra-apollo-cbm-an"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euripides
 
-**eul_wid:** `cbm-an` · [HTML page](https://eulogikon.org/grc/euripides/cassandra-apollo)
+**eul_wid:** `cbm-an` · [HTML page](https://eulogikon.org/works/euripides-cassandra-apollo-cbm-an)
 
 ## Text
 
@@ -32,11 +32,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 11c
 
-ἄγ⸤ωνο⸥ν ἀθλήσαντα
+ἄγωνον ἀθλήσαντα
 
 ### book 13a
 
-[ln_1]Ἦ δεινὰ καὶ δύσγνωστα βουλεύ⸤ει θεόσ⸥
+[ln_1]Ἦ δεινὰ καὶ δύσγνωστα βουλεύει θεόσ
 
 ### book 42a*.1
 
@@ -44,7 +44,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 42a*.2
 
-Τρῶες –×–⏑–
+Τρῶες –––
 
 ### book 42b**.1
 
@@ -80,7 +80,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 78a.1
 
-[spk_〈—〉]〈—〉 ὡς †αμπελον, ὦ δύστηνε, σῶμ’ ἔχεις σέθεν. 〈—〉 ἐν
+[spk_〈—〉]〈—〉 ὡς αμπελον, ὦ δύστηνε, σῶμ’ ἔχεις σέθεν. 〈—〉 ἐν
 
 ### book 78a.2
 
@@ -156,7 +156,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 264a*.1
 
-×–⏑ Ἀλέου
+– Ἀλέου
 
 ### book 264a*.2
 
@@ -184,7 +184,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 312a*.3
 
-τοὐπο⸥νείδιστ⸤ον βροτοῖς ⸤οὐκ οἶδε Λαμίας τῆς Λιβυστικῆς γένος;⸥
+τοὐπονείδιστον βροτοῖς οὐκ οἶδε Λαμίας τῆς Λιβυστικῆς γένος;
 
 ### book 330a
 
@@ -212,7 +212,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 379a.1
 
-[ln_1]βάσκανον †μέγιστον
+[ln_1]βάσκανον μέγιστον
 
 ### book 379a.2
 
@@ -220,7 +220,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 386a
 
-[ln_1]†καὐτῷ δ’ ἔπεισι νυκτὸς ἀμβλωπὸν σέλας
+[ln_1]καὐτῷ δ’ ἔπεισι νυκτὸς ἀμβλωπὸν σέλας
 
 ### book 397a
 
@@ -252,11 +252,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 539a.1
 
-Φοί⸥βου
+Φοίβου
 
 ### book 539a.2
 
-ποτε̣ ο̣ὐ̣κ̣ ⸤ἐῶντος ἔσπειρεν⸥ τ̣έκ̣ν̣[ο]ν̣
+ποτε οὐκ ἐῶντος ἔσπειρεν τέκν[ο]ν
 
 ### book 554a.1
 
@@ -308,7 +308,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 646a
 
-[ln_1][spk_〈ερμης?〉]〈ΕΡΜΗΣ?〉 ×– ἕπου δὲ †μοῦνον ἀμπρεύοντί μοι
+[ln_1][spk_〈ερμης?〉]〈ΕΡΜΗΣ?〉 – ἕπου δὲ μοῦνον ἀμπρεύοντί μοι
 
 ### book 660a
 
@@ -332,7 +332,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 674a
 
-Ἑρμῆ{ι}, σὺ γὰρ δὴ [–⏑–×–] ἔχεις
+Ἑρμῆ{ι}, σὺ γὰρ δὴ [–––] ἔχεις
 
 ### book 681a.1
 
@@ -340,7 +340,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 681a.2
 
-παῖ Λάκαινα [–⏑–
+παῖ Λάκαινα [––
 
 ### book 683a*.1
 
@@ -364,7 +364,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 741a
 
-......].ω[.]ως ἀ̣ρε[ί]φατος̣ τ̣ι̣σ̣[
+......].ω[.]ως ἀρε[ί]φατος τισ[
 
 ### book 751a
 
@@ -400,11 +400,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 845a.1
 
-×–⏑–×–⏑–]ωνος
+––––]ωνος
 
 ### book 845a.2
 
-σθέν̣ο̣[ς
+σθένο[ς
 
 ### book 860
 
@@ -424,7 +424,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 908a.1
 
-×– ἔμοιγε νῦν
+– ἔμοιγε νῦν
 
 ### book 908a.2
 
@@ -468,7 +468,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 920a.1
 
-φιμώσ̣[ατ’ α]ὐ̣τοῦ κἀποκλείσ̣α[τε
+φιμώσ[ατ’ α]ὐτοῦ κἀποκλείσα[τε
 
 ### book 920a.2
 
@@ -492,7 +492,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 926a.1
 
-×–⏑ ᾔδη
+– ᾔδη
 
 ### book 926a.2
 
@@ -508,7 +508,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 941a*
 
-×– ὅμως τἀληθὲς οὐ προδώσομεν εἴξαντες ὄκνῳ
+– ὅμως τἀληθὲς οὐ προδώσομεν εἴξαντες ὄκνῳ
 
 ### book 942a
 
@@ -608,7 +608,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1007e.1
 
-[ ]οδ..ης|.....υστ̣.τ̣α.|.... χ]ρεών καὶ] τ̣[ῷ] τεκόν[τι] πατρὶ δυσμενέστατοι. δόμων γὰρ ἄρχειν εἰς ἔρωτ’ ἀφιγμένοι
+[ ]οδ..ης|.....υστ.τα.|.... χ]ρεών καὶ] τ[ῷ] τεκόν[τι] πατρὶ δυσμενέστατοι. δόμων γὰρ ἄρχειν εἰς ἔρωτ’ ἀφιγμένοι
 
 ### book 1007e.2
 
@@ -644,7 +644,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1007g?.3
 
-παρθέν[ος] χ̣οροῦ τρι[...]ι̣ τις κή[λησι]ν ἐξηῦ[ρεν] π̣οδός. ἅπα]ς δ’ ἄτιμος [ὅς γε] μὴ κείνῳ [συνῇ
+παρθέν[ος] χοροῦ τρι[...]ι τις κή[λησι]ν ἐξηῦ[ρεν] ποδός. ἅπα]ς δ’ ἄτιμος [ὅς γε] μὴ κείνῳ [συνῇ
 
 ### book 1009a.1
 
@@ -656,7 +656,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1024.1
 
-ἔπειτα χ̣ρ̣ῆσθαι [ ὅσοι δοκοῦσιν ε̣ἰ̣δ̣[έναι εἰδὼς ὁθούνεκ’ ἀ̣[ φθείρουσιν ἤθ̣⸤η
+ἔπειτα χρῆσθαι [ ὅσοι δοκοῦσιν εἰδ[έναι εἰδὼς ὁθούνεκ’ ἀ[ φθείρουσιν ἤθη
 
 ### book 1024.2
 

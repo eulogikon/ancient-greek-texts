@@ -4,7 +4,7 @@ title_greek: Περὶ Μνήμης καὶ Ἀναμνήσεως
 author: Aristotle
 eul_wid: hgw-ai
 eul_aid: hgw
-canonical: "https://eulogikon.org/grc/aristotle/memory-recollection"
+canonical: "https://eulogikon.org/works/aristotle-memory-recollection-hgw-ai"
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristotle
 
-**eul_wid:** `hgw-ai` · [HTML page](https://eulogikon.org/grc/aristotle/memory-recollection)
+**eul_wid:** `hgw-ai` · [HTML page](https://eulogikon.org/works/aristotle-memory-recollection-hgw-ai)
 
 ## Text
 

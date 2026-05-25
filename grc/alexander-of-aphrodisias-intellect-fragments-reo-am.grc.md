@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τοῦ Ἀριστοτελικο
 author: Alexander of Aphrodisias
 eul_wid: reo-am
 eul_aid: reo
-canonical: "https://eulogikon.org/grc/alexander-of-aphrodisias/intellect-fragments"
+canonical: "https://eulogikon.org/works/alexander-aphrodisias-intellect-fragments-reo-am"
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alexander of Aphrodisias
 
-**eul_wid:** `reo-am` · [HTML page](https://eulogikon.org/grc/alexander-of-aphrodisias/intellect-fragments)
+**eul_wid:** `reo-am` · [HTML page](https://eulogikon.org/works/alexander-aphrodisias-intellect-fragments-reo-am)
 
 ## Text
 

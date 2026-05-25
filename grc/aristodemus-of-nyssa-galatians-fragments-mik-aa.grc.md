@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Γαλατῶν
 author: Aristodemus of Nyssa
 eul_wid: mik-aa
 eul_aid: mik
-canonical: "https://eulogikon.org/grc/aristodemus-of-nyssa/galatians-fragments"
+canonical: "https://eulogikon.org/works/aristodemus-nyssa-galatians-fragments-mik-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristodemus of Nyssa
 
-**eul_wid:** `mik-aa` · [HTML page](https://eulogikon.org/grc/aristodemus-of-nyssa/galatians-fragments)
+**eul_wid:** `mik-aa` · [HTML page](https://eulogikon.org/works/aristodemus-nyssa-galatians-fragments-mik-aa)
 
 ## Text
 

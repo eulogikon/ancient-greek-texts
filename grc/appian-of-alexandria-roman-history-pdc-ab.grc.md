@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Ῥωμαϊκῆς Ἱστορίας
 author: Appian of Alexandria
 eul_wid: pdc-ab
 eul_aid: pdc
-canonical: "https://eulogikon.org/grc/appian-of-alexandria/roman-history"
+canonical: "https://eulogikon.org/works/appian-alexandria-roman-history-pdc-ab"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Appian of Alexandria
 
-**eul_wid:** `pdc-ab` · [HTML page](https://eulogikon.org/grc/appian-of-alexandria/roman-history)
+**eul_wid:** `pdc-ab` · [HTML page](https://eulogikon.org/works/appian-alexandria-roman-history-pdc-ab)
 
 ## Text
 

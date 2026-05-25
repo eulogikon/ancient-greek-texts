@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Anaxandridas the Historian
 eul_wid: eug-aa
 eul_aid: eug
-canonical: "https://eulogikon.org/grc/anaxandridas-the-historian/delphic-oracle"
+canonical: "https://eulogikon.org/works/anaxandridas-delphic-oracle-eug-aa"
 period: Classical
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Anaxandridas the Historian
 
-**eul_wid:** `eug-aa` · [HTML page](https://eulogikon.org/grc/anaxandridas-the-historian/delphic-oracle)
+**eul_wid:** `eug-aa` · [HTML page](https://eulogikon.org/works/anaxandridas-delphic-oracle-eug-aa)
 
 ## Text
 

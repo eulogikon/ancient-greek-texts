@@ -4,7 +4,7 @@ title_greek: Περὶ θαυμασίων ἀκουσμάτων
 author: Aristotle
 eul_wid: hgw-ax
 eul_aid: hgw
-canonical: "https://eulogikon.org/grc/aristotle/marvelous-tales"
+canonical: "https://eulogikon.org/works/aristotle-marvelous-tales-hgw-ax"
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristotle
 
-**eul_wid:** `hgw-ax` · [HTML page](https://eulogikon.org/grc/aristotle/marvelous-tales)
+**eul_wid:** `hgw-ax` · [HTML page](https://eulogikon.org/works/aristotle-marvelous-tales-hgw-ax)
 
 ## Text
 

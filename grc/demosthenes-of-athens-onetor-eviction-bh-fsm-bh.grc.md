@@ -4,7 +4,7 @@ title_greek: πρὸς Ὀνήτορα ἐξούλης α΄
 author: Demosthenes of Athens
 eul_wid: fsm-bh
 eul_aid: fsm
-canonical: "https://eulogikon.org/grc/demosthenes-of-athens/onetor-eviction-bh"
+canonical: "https://eulogikon.org/works/demosthenes-athens-onetor-eviction-fsm-bh"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demosthenes of Athens
 
-**eul_wid:** `fsm-bh` · [HTML page](https://eulogikon.org/grc/demosthenes-of-athens/onetor-eviction-bh)
+**eul_wid:** `fsm-bh` · [HTML page](https://eulogikon.org/works/demosthenes-athens-onetor-eviction-fsm-bh)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Βίος Σάβα
 author: Cyril of Scythopolis
 eul_wid: vbs-ah
 eul_aid: vbs
-canonical: "https://eulogikon.org/grc/cyril-of-scythopolis/saba"
+canonical: "https://eulogikon.org/works/cyril-scythopolis-saba-vbs-ah"
 period: Late Antique
 dialect: Christian Koine
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cyril of Scythopolis
 
-**eul_wid:** `vbs-ah` · [HTML page](https://eulogikon.org/grc/cyril-of-scythopolis/saba)
+**eul_wid:** `vbs-ah` · [HTML page](https://eulogikon.org/works/cyril-scythopolis-saba-vbs-ah)
 
 ## Text
 

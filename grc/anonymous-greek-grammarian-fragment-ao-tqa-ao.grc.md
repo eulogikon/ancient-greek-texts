@@ -4,7 +4,7 @@ title_greek: Γραμματικὸν Ἀπόσπασμα
 author: Greek Grammarian Anonymous
 eul_wid: tqa-ao
 eul_aid: tqa
-canonical: "https://eulogikon.org/grc/anonymous-greek-grammarian/fragment-ao"
+canonical: "https://eulogikon.org/works/anon-grammarian-fragment-tqa-ao"
 period: Late Antique
 dialect: Koine (frg)
 domain: Grammar
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Greek Grammarian Anonymous
 
-**eul_wid:** `tqa-ao` · [HTML page](https://eulogikon.org/grc/anonymous-greek-grammarian/fragment-ao)
+**eul_wid:** `tqa-ao` · [HTML page](https://eulogikon.org/works/anon-grammarian-fragment-tqa-ao)
 
 ## Text
 
 ### 1
 
-τῆς ἐ[γγραμμάτου φωνῆς ] στοιχεῖ̣ά [ἐστιν κδ . τούτων τὰ] μέν ἐστι φ[ωνήεντα, τὰ δὲ σύμ]φωνα . ὧ̣[ν φωνήεντα μέν] ἐστιν ζ , [ α , ε , η , ι , ο , υ , ω , σύμφωνα] δὲ τὰ λοι[πὰ ιζ , β , γ , δ , ζ , θ , κ , λ , μ , ν ,] ξ , π , ρ , ς , τ , φ̣ , χ̣ , [ ψ . τῶν δὲ φωνη]έντων β̣[ραχέα μέν ἐστι β ,] [ ε ] καὶ ο, μ̣[ακρὰ β , η καὶ ω , δί] [χ]ρον[α γ , α , ι , υ , ἅπερ καὶ ἀμ][φ]ίβ[ολα καλεῖται ] [ . ]ρθ[ ] [ . ]ε[ ] [Break in Text (point at which text breaks off for an unknown length)]
+τῆς ἐ[γγραμμάτου φωνῆς ] στοιχεῖά [ἐστιν κδ . τούτων τὰ] μέν ἐστι φ[ωνήεντα, τὰ δὲ σύμ]φωνα . ὧ[ν φωνήεντα μέν] ἐστιν ζ , [ α , ε , η , ι , ο , υ , ω , σύμφωνα] δὲ τὰ λοι[πὰ ιζ , β , γ , δ , ζ , θ , κ , λ , μ , ν ,] ξ , π , ρ , ς , τ , φ , χ , [ ψ . τῶν δὲ φωνη]έντων β[ραχέα μέν ἐστι β ,] [ ε ] καὶ ο, μ[ακρὰ β , η καὶ ω , δί] [χ]ρον[α γ , α , ι , υ , ἅπερ καὶ ἀμ][φ]ίβ[ολα καλεῖται ] [ . ]ρθ[ ] [ . ]ε[ ] [Break in Text (point at which text breaks off for an unknown length)]
 
 ## License and provenance
 

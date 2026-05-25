@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Δούλων καὶ Δεσποτ
 author: Alexis the Comic Poet
 eul_wid: ivq-ac
 eul_aid: ivq
-canonical: "https://eulogikon.org/grc/alexis-the-comic-poet/servants-masters"
+canonical: "https://eulogikon.org/works/alexis-servants-masters-ivq-ac"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alexis the Comic Poet
 
-**eul_wid:** `ivq-ac` · [HTML page](https://eulogikon.org/grc/alexis-the-comic-poet/servants-masters)
+**eul_wid:** `ivq-ac` · [HTML page](https://eulogikon.org/works/alexis-servants-masters-ivq-ac)
 
 ## Text
 

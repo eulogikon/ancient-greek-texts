@@ -4,7 +4,7 @@ title_greek: Περὶ συμπαθειῶν καὶ ἀντιπαθειῶν
 author: Bolus of Mendes
 eul_wid: kzk-ab
 eul_aid: kzk
-canonical: "https://eulogikon.org/grc/bolus-of-mendes/sympathies-antipathies"
+canonical: "https://eulogikon.org/works/bolus-mendes-sympathies-antipathies-kzk-ab"
 period: Hellenistic
 dialect: Koine (frg)
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Bolus of Mendes
 
-**eul_wid:** `kzk-ab` · [HTML page](https://eulogikon.org/grc/bolus-of-mendes/sympathies-antipathies)
+**eul_wid:** `kzk-ab` · [HTML page](https://eulogikon.org/works/bolus-mendes-sympathies-antipathies-kzk-ab)
 
 ## Text
 

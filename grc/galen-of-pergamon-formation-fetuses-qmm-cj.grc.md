@@ -4,7 +4,7 @@ title_greek: Περὶ τῆς τῶν ἐμβρύων διαπλάσεως
 author: Galen of Pergamon
 eul_wid: qmm-cj
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/formation-fetuses"
+canonical: "https://eulogikon.org/works/galen-pergamon-formation-fetuses-qmm-cj"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-cj` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/formation-fetuses)
+**eul_wid:** `qmm-cj` · [HTML page](https://eulogikon.org/works/galen-pergamon-formation-fetuses-qmm-cj)
 
 ## Text
 

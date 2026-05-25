@@ -4,7 +4,7 @@ title_greek: Γραμματικὸν ἀπόσπασμα ἀρχόμενον ἀ
 author: Herodian of Alexandria
 eul_wid: qnq-ab
 eul_aid: qnq
-canonical: "https://eulogikon.org/grc/herodian-of-alexandria/ares-fragment"
+canonical: "https://eulogikon.org/works/herodian-alexandria-ares-fragment-qnq-ab"
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Herodian of Alexandria
 
-**eul_wid:** `qnq-ab` · [HTML page](https://eulogikon.org/grc/herodian-of-alexandria/ares-fragment)
+**eul_wid:** `qnq-ab` · [HTML page](https://eulogikon.org/works/herodian-alexandria-ares-fragment-qnq-ab)
 
 ## Text
 

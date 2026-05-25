@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Ἀδήλων Ἔργων
 author: Parodica Anonyma
 eul_wid: rto-aa
 eul_aid: rto
-canonical: "https://eulogikon.org/grc/anonymous-parodica/uncertain-fragments"
+canonical: "https://eulogikon.org/works/parodica-anon-uncertain-fragments-rto-aa"
 period: Roman
 dialect: Atticizing Literary
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Parodica Anonyma
 
-**eul_wid:** `rto-aa` · [HTML page](https://eulogikon.org/grc/anonymous-parodica/uncertain-fragments)
+**eul_wid:** `rto-aa` · [HTML page](https://eulogikon.org/works/parodica-anon-uncertain-fragments-rto-aa)
 
 ## Text
 

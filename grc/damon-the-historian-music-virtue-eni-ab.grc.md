@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Μουσικῆς καὶ Ἀρε
 author: "Damon of Athens "
 eul_wid: eni-ab
 eul_aid: eni
-canonical: "https://eulogikon.org/grc/damon-the-historian/music-virtue"
+canonical: "https://eulogikon.org/works/damon-athens-music-virtue-eni-ab"
 period: Classical
 dialect: Attic (frg)
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Damon of Athens 
 
-**eul_wid:** `eni-ab` · [HTML page](https://eulogikon.org/grc/damon-the-historian/music-virtue)
+**eul_wid:** `eni-ab` · [HTML page](https://eulogikon.org/works/damon-athens-music-virtue-eni-ab)
 
 ## Text
 

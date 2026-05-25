@@ -4,7 +4,7 @@ title_greek: Χειροβαλλίστρας κατασκευὴ καὶ συμμ
 author: "Hero of Alexandria "
 eul_wid: odi-aa
 eul_aid: odi
-canonical: "https://eulogikon.org/grc/hero-of-alexandria/hand-ballista"
+canonical: "https://eulogikon.org/works/hero-alexandria-hand-ballista-odi-aa"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hero of Alexandria 
 
-**eul_wid:** `odi-aa` · [HTML page](https://eulogikon.org/grc/hero-of-alexandria/hand-ballista)
+**eul_wid:** `odi-aa` · [HTML page](https://eulogikon.org/works/hero-alexandria-hand-ballista-odi-aa)
 
 ## Text
 
@@ -96,7 +96,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 4 8
 
-Ἔτι δὲ μὴν καθηλώσθωσαν τῷ ΛΝ κανόνι καὶ τῷ ΟΡ τὰ ⏑ ⏑ , ἐφ’ ἑκάτερα τοῦ ΤΥ διαπήγματος, μῆκος ἔχοντα δακτύλων ΙΓ , πλάτος δὲ δάκτυλον ἕνα, πάχος δὲ σύμμετρον. καὶ τετρήσθωσαν κατὰ τὸ μέσον, ἀπεχέτωσαν δὲ ἀπ’ ἀλλήλων δακτύλους δύο Σ. [ΚΩΝΟΕΙΔΩΝ ΚΑΤΑΣΚΕΥΗ.
+Ἔτι δὲ μὴν καθηλώσθωσαν τῷ ΛΝ κανόνι καὶ τῷ ΟΡ τὰ , ἐφ’ ἑκάτερα τοῦ ΤΥ διαπήγματος, μῆκος ἔχοντα δακτύλων ΙΓ , πλάτος δὲ δάκτυλον ἕνα, πάχος δὲ σύμμετρον. καὶ τετρήσθωσαν κατὰ τὸ μέσον, ἀπεχέτωσαν δὲ ἀπ’ ἀλλήλων δακτύλους δύο Σ. [ΚΩΝΟΕΙΔΩΝ ΚΑΤΑΣΚΕΥΗ.
 
 ### 5 t
 

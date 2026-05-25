@@ -4,7 +4,7 @@ title_greek: εἰς Δία
 author: Callimachus of Cyrene the Poet and Scholar
 eul_wid: iso-ao
 eul_aid: iso
-canonical: "https://eulogikon.org/grc/callimachus-of-cyrene/to-zeus"
+canonical: "https://eulogikon.org/works/callimachus-cyrene-to-zeus-iso-ao"
 period: Hellenistic
 dialect: Literary Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Callimachus of Cyrene the Poet and Scholar
 
-**eul_wid:** `iso-ao` · [HTML page](https://eulogikon.org/grc/callimachus-of-cyrene/to-zeus)
+**eul_wid:** `iso-ao` · [HTML page](https://eulogikon.org/works/callimachus-cyrene-to-zeus-iso-ao)
 
 ## Text
 

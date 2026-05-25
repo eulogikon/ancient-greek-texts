@@ -4,7 +4,7 @@ title_greek: Περίπλους Ἄννωνος
 author: Voyage of Hanno the Navigator
 eul_wid: ens-aa
 eul_aid: ens
-canonical: "https://eulogikon.org/grc/hanno-the-navigator/periplus"
+canonical: "https://eulogikon.org/works/hanno-navigator-periplus-ens-aa"
 period: Classical
 dialect: Technical Koine
 domain: Geography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Voyage of Hanno the Navigator
 
-**eul_wid:** `ens-aa` · [HTML page](https://eulogikon.org/grc/hanno-the-navigator/periplus)
+**eul_wid:** `ens-aa` · [HTML page](https://eulogikon.org/works/hanno-navigator-periplus-ens-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα πρὸς Σοφιστάς
 author: Hermias of Cyrene
 eul_wid: jva-aa
 eul_aid: jva
-canonical: "https://eulogikon.org/grc/hermias-of-cyrene/against-sophists"
+canonical: "https://eulogikon.org/works/hermias-cyrene-against-sophists-jva-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hermias of Cyrene
 
-**eul_wid:** `jva-aa` · [HTML page](https://eulogikon.org/grc/hermias-of-cyrene/against-sophists)
+**eul_wid:** `jva-aa` · [HTML page](https://eulogikon.org/works/hermias-cyrene-against-sophists-jva-aa)
 
 ## Text
 

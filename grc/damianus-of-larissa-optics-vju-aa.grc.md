@@ -4,7 +4,7 @@ title_greek: Ὀπτικά
 author: Damianus of Larissa
 eul_wid: vju-aa
 eul_aid: vju
-canonical: "https://eulogikon.org/grc/damianus-of-larissa/optics"
+canonical: "https://eulogikon.org/works/damianus-larissa-optics-vju-aa"
 period: Late Antique
 dialect: Technical Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Damianus of Larissa
 
-**eul_wid:** `vju-aa` · [HTML page](https://eulogikon.org/grc/damianus-of-larissa/optics)
+**eul_wid:** `vju-aa` · [HTML page](https://eulogikon.org/works/damianus-larissa-optics-vju-aa)
 
 ## Text
 

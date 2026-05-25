@@ -4,7 +4,7 @@ title_greek: ἐκ τῆς Κελτῖκης
 author: Appian of Alexandria
 eul_wid: pdc-ai
 eul_aid: pdc
-canonical: "https://eulogikon.org/grc/appian-of-alexandria/celtic"
+canonical: "https://eulogikon.org/works/appian-alexandria-celtic-pdc-ai"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Appian of Alexandria
 
-**eul_wid:** `pdc-ai` · [HTML page](https://eulogikon.org/grc/appian-of-alexandria/celtic)
+**eul_wid:** `pdc-ai` · [HTML page](https://eulogikon.org/works/appian-alexandria-celtic-pdc-ai)
 
 ## Text
 

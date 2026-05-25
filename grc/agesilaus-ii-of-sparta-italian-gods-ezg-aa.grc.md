@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Agesilaus II of Sparta
 eul_wid: ezg-aa
 eul_aid: ezg
-canonical: "https://eulogikon.org/grc/agesilaus-ii-of-sparta/italian-gods"
+canonical: "https://eulogikon.org/works/agesilaus-sparta-italian-gods-ezg-aa"
 period: Classical
 dialect: Doric
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Agesilaus II of Sparta
 
-**eul_wid:** `ezg-aa` · [HTML page](https://eulogikon.org/grc/agesilaus-ii-of-sparta/italian-gods)
+**eul_wid:** `ezg-aa` · [HTML page](https://eulogikon.org/works/agesilaus-sparta-italian-gods-ezg-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Βίου Καθημερινοῦ
 author: Aristophanes of Athens
 eul_wid: daw-ae
 eul_aid: daw
-canonical: "https://eulogikon.org/grc/aristophanes-of-athens/daily-life"
+canonical: "https://eulogikon.org/works/aristophanes-athens-daily-life-daw-ae"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristophanes of Athens
 
-**eul_wid:** `daw-ae` · [HTML page](https://eulogikon.org/grc/aristophanes-of-athens/daily-life)
+**eul_wid:** `daw-ae` · [HTML page](https://eulogikon.org/works/aristophanes-athens-daily-life-daw-ae)
 
 ## Text
 
@@ -504,7 +504,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 106
 
-καχέτας † καὶ Μεγακλέας καὶ Λαμάχους.
+καχέτας καὶ Μεγακλέας καὶ Λαμάχους.
 
 ### book 107.1
 
@@ -784,7 +784,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 141,2,a
 
-⸢εἰ παιδαρίοις ἀκολου⸣|θε⸢ῖν δεῖ σφαῖραν καὶ στλεγγίδ’ ἔ⸣|χο⸢ντα⸣
+εἰ παιδαρίοις ἀκολου|θεῖν δεῖ σφαῖραν καὶ στλεγγίδ’ ἔ|χοντα
 
 ### book 141,2,b
 
@@ -1184,7 +1184,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 201
 
-εἰ † μὴ μεταλάβῃ τοὐπίπεμπτον, κλαέτω.
+εἰ μὴ μεταλάβῃ τοὐπίπεμπτον, κλαέτω.
 
 ### book 202.1
 
@@ -2780,7 +2780,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 505
 
-δεῦρο δ’ ἂν οὐκ ἀπέδραμεν †
+δεῦρο δ’ ἂν οὐκ ἀπέδραμεν
 
 ### book 506.1
 
@@ -3660,7 +3660,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 673a
 
-οὐ φθερεῖ κάθαρμα, εἶπε †, κἀκποδὼν ἡμῖν ἄπει;
+οὐ φθερεῖ κάθαρμα, εἶπε , κἀκποδὼν ἡμῖν ἄπει;
 
 ### book 674
 
@@ -3988,7 +3988,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 902b.1
 
-σὺ δ’ ἐκ † ποίου
+σὺ δ’ ἐκ ποίου
 
 ### book 902b.2
 
@@ -3996,7 +3996,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 902b.3
 
-τοῦ δαπέδου †;
+τοῦ δαπέδου ;
 
 ### book 903.1
 

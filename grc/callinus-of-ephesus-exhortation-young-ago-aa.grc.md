@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Callinus of Ephesus
 eul_wid: ago-aa
 eul_aid: ago
-canonical: "https://eulogikon.org/grc/callinus-of-ephesus/exhortation-young"
+canonical: "https://eulogikon.org/works/callinus-ephesus-exhortation-young-ago-aa"
 period: Archaic
 dialect: "Ionic (el, frg)"
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Callinus of Ephesus
 
-**eul_wid:** `ago-aa` · [HTML page](https://eulogikon.org/grc/callinus-of-ephesus/exhortation-young)
+**eul_wid:** `ago-aa` · [HTML page](https://eulogikon.org/works/callinus-ephesus-exhortation-young-ago-aa)
 
 ## Text
 

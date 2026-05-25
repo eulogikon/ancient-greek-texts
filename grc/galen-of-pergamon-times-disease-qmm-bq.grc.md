@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν χρόνων τοῦ ὅλου νόσου
 author: Galen of Pergamon
 eul_wid: qmm-bq
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/times-disease"
+canonical: "https://eulogikon.org/works/galen-pergamon-times-disease-qmm-bq"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-bq` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/times-disease)
+**eul_wid:** `qmm-bq` · [HTML page](https://eulogikon.org/works/galen-pergamon-times-disease-qmm-bq)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ Ἰσορροπίας Ἐπιπέδων
 author: Archimedes of Syracuse
 eul_wid: ixo-aa
 eul_aid: ixo
-canonical: "https://eulogikon.org/grc/archimedes-of-syracuse/equilibrium-planes"
+canonical: "https://eulogikon.org/works/archimedes-syracuse-equilibrium-planes-ixo-aa"
 period: Hellenistic
 dialect: Doric
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Archimedes of Syracuse
 
-**eul_wid:** `ixo-aa` · [HTML page](https://eulogikon.org/grc/archimedes-of-syracuse/equilibrium-planes)
+**eul_wid:** `ixo-aa` · [HTML page](https://eulogikon.org/works/archimedes-syracuse-equilibrium-planes-ixo-aa)
 
 ## Text
 

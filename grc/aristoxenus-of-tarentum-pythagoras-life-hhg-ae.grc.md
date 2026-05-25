@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τοῦ Πυθαγόρου Βίο
 author: Aristoxenus of Tarentum
 eul_wid: hhg-ae
 eul_aid: hhg
-canonical: "https://eulogikon.org/grc/aristoxenus-of-tarentum/pythagoras-life"
+canonical: "https://eulogikon.org/works/aristoxenus-tarentum-pythagoras-life-hhg-ae"
 period: Classical
 dialect: Attic
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristoxenus of Tarentum
 
-**eul_wid:** `hhg-ae` · [HTML page](https://eulogikon.org/grc/aristoxenus-of-tarentum/pythagoras-life)
+**eul_wid:** `hhg-ae` · [HTML page](https://eulogikon.org/works/aristoxenus-tarentum-pythagoras-life-hhg-ae)
 
 ## Text
 
@@ -76,7 +76,7 @@ Diogenes Laert. VIII 46: τελευταῖοι γὰρ ἐγένοντο τῶν
 
 ### 22
 
-Papyrus Herculanens. 1508 (W. Crönert, Kolotes und Menedemos 1906 p. 131): ...... οὕτω [δ]ὴ̣ ἅπαντ’ εἰς ..... καταναλώσ[ας] ...... εὗρε καὶ ἠδυνή[θη καὶ] ἄλλα πειρώμ[ενος ἀνύ]τειν ὑπὲρ τού[των ...... ] ἀπιθανώτερο[ν ...... ] Ἀρι[στόξενον ...... ] καὶ δεῖ γο .... [τὸ]ν ἰατρ[ὸ]ν τὴν ...... οὐχ ὁπόθεν ........ ν, ἀλλὰ κ̣ιν ...... ὧτ’ ἐπεκθέ[ειν] ...... φύσιν. πάλιν ..... ρικ .. ς, ἀλλὰ κ ...... [μετ]αξ̣ὺ̣ ὄντες ἀπα ..... αχ .. ναντως ..... ως Ἄκρω[ν] .... μ[ᾶ]λλον δὲ κα[ὶ] ....... [Ἀρι]στόξεν[ος] ..... εκατᾳ ....... Πολύμ[ναστος ...... ] ...... ο̣ντωνι̣ ..... δι̣κον Εὐρυφῶν.
+Papyrus Herculanens. 1508 (W. Crönert, Kolotes und Menedemos 1906 p. 131): ...... οὕτω [δ]ὴ ἅπαντ’ εἰς ..... καταναλώσ[ας] ...... εὗρε καὶ ἠδυνή[θη καὶ] ἄλλα πειρώμ[ενος ἀνύ]τειν ὑπὲρ τού[των ...... ] ἀπιθανώτερο[ν ...... ] Ἀρι[στόξενον ...... ] καὶ δεῖ γο .... [τὸ]ν ἰατρ[ὸ]ν τὴν ...... οὐχ ὁπόθεν ........ ν, ἀλλὰ κιν ...... ὧτ’ ἐπεκθέ[ειν] ...... φύσιν. πάλιν ..... ρικ .. ς, ἀλλὰ κ ...... [μετ]αξὺ ὄντες ἀπα ..... αχ .. ναντως ..... ως Ἄκρω[ν] .... μ[ᾶ]λλον δὲ κα[ὶ] ....... [Ἀρι]στόξεν[ος] ..... εκατᾳ ....... Πολύμ[ναστος ...... ] ...... οντωνι ..... δικον Εὐρυφῶν.
 
 ### 23
 

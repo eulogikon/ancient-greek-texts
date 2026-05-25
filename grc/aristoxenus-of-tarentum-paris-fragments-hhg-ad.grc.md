@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Παρισινά
 author: Aristoxenus of Tarentum
 eul_wid: hhg-ad
 eul_aid: hhg
-canonical: "https://eulogikon.org/grc/aristoxenus-of-tarentum/paris-fragments"
+canonical: "https://eulogikon.org/works/aristoxenus-tarentum-paris-fragments-hhg-ad"
 period: Classical
 dialect: Attic
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristoxenus of Tarentum
 
-**eul_wid:** `hhg-ad` · [HTML page](https://eulogikon.org/grc/aristoxenus-of-tarentum/paris-fragments)
+**eul_wid:** `hhg-ad` · [HTML page](https://eulogikon.org/works/aristoxenus-tarentum-paris-fragments-hhg-ad)
 
 ## Text
 

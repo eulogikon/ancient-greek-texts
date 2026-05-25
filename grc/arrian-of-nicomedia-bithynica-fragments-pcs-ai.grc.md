@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Βιθυνικῶν
 author: Arrian of Nicomedia
 eul_wid: pcs-ai
 eul_aid: pcs
-canonical: "https://eulogikon.org/grc/arrian-of-nicomedia/bithynica-fragments"
+canonical: "https://eulogikon.org/works/arrian-nicomedia-bithynica-fragments-pcs-ai"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Arrian of Nicomedia
 
-**eul_wid:** `pcs-ai` · [HTML page](https://eulogikon.org/grc/arrian-of-nicomedia/bithynica-fragments)
+**eul_wid:** `pcs-ai` · [HTML page](https://eulogikon.org/works/arrian-nicomedia-bithynica-fragments-pcs-ai)
 
 ## Text
 

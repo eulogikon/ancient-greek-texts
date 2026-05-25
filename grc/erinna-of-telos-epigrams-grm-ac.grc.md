@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Erinna of Telos
 eul_wid: grm-ac
 eul_aid: grm
-canonical: "https://eulogikon.org/grc/erinna-of-telos/epigrams"
+canonical: "https://eulogikon.org/works/erinna-telos-epigrams-grm-ac"
 period: Classical
 dialect: Doric (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Erinna of Telos
 
-**eul_wid:** `grm-ac` · [HTML page](https://eulogikon.org/grc/erinna-of-telos/epigrams)
+**eul_wid:** `grm-ac` · [HTML page](https://eulogikon.org/works/erinna-telos-epigrams-grm-ac)
 
 ## Text
 

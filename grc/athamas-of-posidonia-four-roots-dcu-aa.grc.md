@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Athamas of Posidonia
 eul_wid: dcu-aa
 eul_aid: dcu
-canonical: "https://eulogikon.org/grc/athamas-of-posidonia/four-roots"
+canonical: "https://eulogikon.org/works/athamas-posidonia-four-roots-dcu-aa"
 period: Classical
 dialect: "Doric (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Athamas of Posidonia
 
-**eul_wid:** `dcu-aa` · [HTML page](https://eulogikon.org/grc/athamas-of-posidonia/four-roots)
+**eul_wid:** `dcu-aa` · [HTML page](https://eulogikon.org/works/athamas-posidonia-four-roots-dcu-aa)
 
 ## Text
 

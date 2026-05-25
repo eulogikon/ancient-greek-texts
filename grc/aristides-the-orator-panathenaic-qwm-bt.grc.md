@@ -4,7 +4,7 @@ title_greek: Παναθηναϊκός
 author: Aristides the Orator
 eul_wid: qwm-bt
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/panathenaic"
+canonical: "https://eulogikon.org/works/aristides-orator-panathenaic-qwm-bt"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-bt` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/panathenaic)
+**eul_wid:** `qwm-bt` · [HTML page](https://eulogikon.org/works/aristides-orator-panathenaic-qwm-bt)
 
 ## Text
 

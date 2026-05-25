@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Athenaeus of Naucratis
 eul_wid: rda-ac
 eul_aid: rda
-canonical: "https://eulogikon.org/grc/athenaeus-of-naucratis/syrian-kings"
+canonical: "https://eulogikon.org/works/athenaeus-naucratis-syrian-kings-rda-ac"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Athenaeus of Naucratis
 
-**eul_wid:** `rda-ac` · [HTML page](https://eulogikon.org/grc/athenaeus-of-naucratis/syrian-kings)
+**eul_wid:** `rda-ac` · [HTML page](https://eulogikon.org/works/athenaeus-naucratis-syrian-kings-rda-ac)
 
 ## Text
 

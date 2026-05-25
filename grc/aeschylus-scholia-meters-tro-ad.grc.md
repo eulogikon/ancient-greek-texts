@@ -4,7 +4,7 @@ title_greek: Σχόλια εἰς τοὺς Μέτρους τοῦ Αἰσχύλ
 author: Aeschylus Scholia
 eul_wid: tro-ad
 eul_aid: tro
-canonical: "https://eulogikon.org/grc/aeschylus-scholia/meters"
+canonical: "https://eulogikon.org/works/aeschylus-scholia-meters-tro-ad"
 period: Late Antique
 dialect: Byzantine Greek
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aeschylus Scholia
 
-**eul_wid:** `tro-ad` · [HTML page](https://eulogikon.org/grc/aeschylus-scholia/meters)
+**eul_wid:** `tro-ad` · [HTML page](https://eulogikon.org/works/aeschylus-scholia-meters-tro-ad)
 
 ## Text
 

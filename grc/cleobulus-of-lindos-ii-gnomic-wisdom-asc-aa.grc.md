@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Γνωμικῆς Σοφίας
 author: Cleobulus of Lindos II
 eul_wid: asc-aa
 eul_aid: asc
-canonical: "https://eulogikon.org/grc/cleobulus-of-lindos-ii/gnomic-wisdom"
+canonical: "https://eulogikon.org/works/cleobulus-lindos-gnomic-wisdom-asc-aa"
 period: Archaic
 dialect: Doric (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cleobulus of Lindos II
 
-**eul_wid:** `asc-aa` · [HTML page](https://eulogikon.org/grc/cleobulus-of-lindos-ii/gnomic-wisdom)
+**eul_wid:** `asc-aa` · [HTML page](https://eulogikon.org/works/cleobulus-lindos-gnomic-wisdom-asc-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ ῥητορικῶν ἀφορμῶν
 author: Alexander Son of Numenius
 eul_wid: qko-ab
 eul_aid: qko
-canonical: "https://eulogikon.org/grc/alexander-son-of-numenius/rhetorical-topics"
+canonical: "https://eulogikon.org/works/alexander-numenius-rhetorical-topics-qko-ab"
 period: Roman
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alexander Son of Numenius
 
-**eul_wid:** `qko-ab` · [HTML page](https://eulogikon.org/grc/alexander-son-of-numenius/rhetorical-topics)
+**eul_wid:** `qko-ab` · [HTML page](https://eulogikon.org/works/alexander-numenius-rhetorical-topics-qko-ab)
 
 ## Text
 

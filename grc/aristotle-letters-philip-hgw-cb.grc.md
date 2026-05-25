@@ -4,7 +4,7 @@ title_greek: Ἐπιστολαὶ πρὸς Φίλιππον
 author: Aristotle
 eul_wid: hgw-cb
 eul_aid: hgw
-canonical: "https://eulogikon.org/grc/aristotle/letters-philip"
+canonical: "https://eulogikon.org/works/aristotle-letters-philip-hgw-cb"
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristotle
 
-**eul_wid:** `hgw-cb` · [HTML page](https://eulogikon.org/grc/aristotle/letters-philip)
+**eul_wid:** `hgw-cb` · [HTML page](https://eulogikon.org/works/aristotle-letters-philip-hgw-cb)
 
 ## Text
 

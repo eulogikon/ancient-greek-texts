@@ -4,7 +4,7 @@ title_greek: Περὶ συνεκδοχῆς
 author: Rhetorical Treatise Anonymous
 eul_wid: rhg-at
 eul_aid: rhg
-canonical: "https://eulogikon.org/grc/anonymous-rhetorical-treatises/synecdoche"
+canonical: "https://eulogikon.org/works/anon-rhet-treatise-synecdoche-rhg-at"
 period: Roman
 dialect: Technical Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Rhetorical Treatise Anonymous
 
-**eul_wid:** `rhg-at` · [HTML page](https://eulogikon.org/grc/anonymous-rhetorical-treatises/synecdoche)
+**eul_wid:** `rhg-at` · [HTML page](https://eulogikon.org/works/anon-rhet-treatise-synecdoche-rhg-at)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Βίος Αἰσχίνου
 author: Apollonius of Tyana II
 eul_wid: nwu-aa
 eul_aid: nwu
-canonical: "https://eulogikon.org/grc/apollonius-of-tyana-ii/life-aeschines"
+canonical: "https://eulogikon.org/works/apollonius-tyana-life-aeschines-nwu-aa"
 period: Roman
 dialect: Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Apollonius of Tyana II
 
-**eul_wid:** `nwu-aa` · [HTML page](https://eulogikon.org/grc/apollonius-of-tyana-ii/life-aeschines)
+**eul_wid:** `nwu-aa` · [HTML page](https://eulogikon.org/works/apollonius-tyana-life-aeschines-nwu-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Γεωγραφίας
 author: Andron of Halicarnassus II
 eul_wid: cte-aa
 eul_aid: cte
-canonical: "https://eulogikon.org/grc/andron-of-halicarnassus-ii/geography-fragments"
+canonical: "https://eulogikon.org/works/andron-halicarnassus-ii-geography-fragments-cte-aa"
 period: Classical
 dialect: Ionic (frg)
 domain: Geography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Andron of Halicarnassus II
 
-**eul_wid:** `cte-aa` · [HTML page](https://eulogikon.org/grc/andron-of-halicarnassus-ii/geography-fragments)
+**eul_wid:** `cte-aa` · [HTML page](https://eulogikon.org/works/andron-halicarnassus-ii-geography-fragments-cte-aa)
 
 ## Text
 

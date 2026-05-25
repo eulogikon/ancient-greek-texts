@@ -4,7 +4,7 @@ title_greek: Ὕμνος πρὸς Ἑστίαν
 author: Aristonous of Corinth
 eul_wid: lou-ab
 eul_aid: lou
-canonical: "https://eulogikon.org/grc/aristonous-of-corinth/hymn-vesta"
+canonical: "https://eulogikon.org/works/aristonous-corinth-hymn-vesta-lou-ab"
 period: Hellenistic
 dialect: Literary Doric
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristonous of Corinth
 
-**eul_wid:** `lou-ab` · [HTML page](https://eulogikon.org/grc/aristonous-of-corinth/hymn-vesta)
+**eul_wid:** `lou-ab` · [HTML page](https://eulogikon.org/works/aristonous-corinth-hymn-vesta-lou-ab)
 
 ## Text
 

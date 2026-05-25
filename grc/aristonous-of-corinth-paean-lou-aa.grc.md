@@ -4,7 +4,7 @@ title_greek: Παιὰν πρὸς Ἀπόλλωνα
 author: Aristonous of Corinth
 eul_wid: lou-aa
 eul_aid: lou
-canonical: "https://eulogikon.org/grc/aristonous-of-corinth/paean"
+canonical: "https://eulogikon.org/works/aristonous-corinth-paean-lou-aa"
 period: Hellenistic
 dialect: Literary Doric
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristonous of Corinth
 
-**eul_wid:** `lou-aa` · [HTML page](https://eulogikon.org/grc/aristonous-of-corinth/paean)
+**eul_wid:** `lou-aa` · [HTML page](https://eulogikon.org/works/aristonous-corinth-paean-lou-aa)
 
 ## Text
 

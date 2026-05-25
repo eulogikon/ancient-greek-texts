@@ -4,7 +4,7 @@ title_greek: Ἐπιστολή
 author: Cleobulus of Lindos I
 eul_wid: anw-aa
 eul_aid: anw
-canonical: "https://eulogikon.org/grc/cleobulus-of-lindos-i/letter-to-solon"
+canonical: "https://eulogikon.org/works/cleobulus-lindos-letter-to-solon-anw-aa"
 period: Archaic
 dialect: Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cleobulus of Lindos I
 
-**eul_wid:** `anw-aa` · [HTML page](https://eulogikon.org/grc/cleobulus-of-lindos-i/letter-to-solon)
+**eul_wid:** `anw-aa` · [HTML page](https://eulogikon.org/works/cleobulus-lindos-letter-to-solon-anw-aa)
 
 ## Text
 

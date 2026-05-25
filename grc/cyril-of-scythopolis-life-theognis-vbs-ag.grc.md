@@ -4,7 +4,7 @@ title_greek: Βίος Θεόγνιδος
 author: Cyril of Scythopolis
 eul_wid: vbs-ag
 eul_aid: vbs
-canonical: "https://eulogikon.org/grc/cyril-of-scythopolis/life-theognis"
+canonical: "https://eulogikon.org/works/cyril-scythopolis-life-theognis-vbs-ag"
 period: Late Antique
 dialect: Christian Koine
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cyril of Scythopolis
 
-**eul_wid:** `vbs-ag` · [HTML page](https://eulogikon.org/grc/cyril-of-scythopolis/life-theognis)
+**eul_wid:** `vbs-ag` · [HTML page](https://eulogikon.org/works/cyril-scythopolis-life-theognis-vbs-ag)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Aristippus of Cyrene
 eul_wid: duc-aa
 eul_aid: duc
-canonical: "https://eulogikon.org/grc/aristippus-of-cyrene/antiquities-myths"
+canonical: "https://eulogikon.org/works/aristippus-cyrene-antiquities-myths-duc-aa"
 period: Classical
 dialect: "Attic (phi, frg)"
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristippus of Cyrene
 
-**eul_wid:** `duc-aa` · [HTML page](https://eulogikon.org/grc/aristippus-of-cyrene/antiquities-myths)
+**eul_wid:** `duc-aa` · [HTML page](https://eulogikon.org/works/aristippus-cyrene-antiquities-myths-duc-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: "Demaratus of Corinth "
 eul_wid: ltk-aa
 eul_aid: ltk
-canonical: "https://eulogikon.org/grc/demaratus-of-corinth/arcadian-phrygian-histories"
+canonical: "https://eulogikon.org/works/demaratus-corinth-arcadian-phrygian-histories-ltk-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demaratus of Corinth 
 
-**eul_wid:** `ltk-aa` · [HTML page](https://eulogikon.org/grc/demaratus-of-corinth/arcadian-phrygian-histories)
+**eul_wid:** `ltk-aa` · [HTML page](https://eulogikon.org/works/demaratus-corinth-arcadian-phrygian-histories-ltk-aa)
 
 ## Text
 

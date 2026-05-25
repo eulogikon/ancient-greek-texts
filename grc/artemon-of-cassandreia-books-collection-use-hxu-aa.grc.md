@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Artemon of Cassandreia
 eul_wid: hxu-aa
 eul_aid: hxu
-canonical: "https://eulogikon.org/grc/artemon-of-cassandreia/books-collection-use"
+canonical: "https://eulogikon.org/works/artemon-cassandreia-books-collection-use-hxu-aa"
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Artemon of Cassandreia
 
-**eul_wid:** `hxu-aa` · [HTML page](https://eulogikon.org/grc/artemon-of-cassandreia/books-collection-use)
+**eul_wid:** `hxu-aa` · [HTML page](https://eulogikon.org/works/artemon-cassandreia-books-collection-use-hxu-aa)
 
 ## Text
 

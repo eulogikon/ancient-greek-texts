@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Araethus the Historian
 eul_wid: ela-aa
 eul_aid: ela
-canonical: "https://eulogikon.org/grc/araethus-the-historian/historical-fragments"
+canonical: "https://eulogikon.org/works/araethus-historical-fragments-ela-aa"
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Araethus the Historian
 
-**eul_wid:** `ela-aa` · [HTML page](https://eulogikon.org/grc/araethus-the-historian/historical-fragments)
+**eul_wid:** `ela-aa` · [HTML page](https://eulogikon.org/works/araethus-historical-fragments-ela-aa)
 
 ## Text
 

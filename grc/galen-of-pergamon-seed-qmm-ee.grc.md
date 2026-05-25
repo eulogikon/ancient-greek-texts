@@ -4,7 +4,7 @@ title_greek: Περὶ σπέρματος
 author: Galen of Pergamon
 eul_wid: qmm-ee
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/seed"
+canonical: "https://eulogikon.org/works/galen-pergamon-seed-qmm-ee"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-ee` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/seed)
+**eul_wid:** `qmm-ee` · [HTML page](https://eulogikon.org/works/galen-pergamon-seed-qmm-ee)
 
 ## Text
 

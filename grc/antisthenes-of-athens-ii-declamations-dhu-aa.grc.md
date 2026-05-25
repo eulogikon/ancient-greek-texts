@@ -4,7 +4,7 @@ title_greek: Αἴας ἢ Αἴαντος λόγος
 author: Antisthenes of Athens II
 eul_wid: dhu-aa
 eul_aid: dhu
-canonical: "https://eulogikon.org/grc/antisthenes-of-athens-ii/declamations"
+canonical: "https://eulogikon.org/works/antisthenes-athens-declamations-dhu-aa"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Antisthenes of Athens II
 
-**eul_wid:** `dhu-aa` · [HTML page](https://eulogikon.org/grc/antisthenes-of-athens-ii/declamations)
+**eul_wid:** `dhu-aa` · [HTML page](https://eulogikon.org/works/antisthenes-athens-declamations-dhu-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ Σφαίρας καὶ Κυλίνδρου
 author: Archimedes of Syracuse
 eul_wid: ixo-ab
 eul_aid: ixo
-canonical: "https://eulogikon.org/grc/archimedes-of-syracuse/sphere-cylinder"
+canonical: "https://eulogikon.org/works/archimedes-syracuse-sphere-cylinder-ixo-ab"
 period: Hellenistic
 dialect: Doric
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Archimedes of Syracuse
 
-**eul_wid:** `ixo-ab` · [HTML page](https://eulogikon.org/grc/archimedes-of-syracuse/sphere-cylinder)
+**eul_wid:** `ixo-ab` · [HTML page](https://eulogikon.org/works/archimedes-syracuse-sphere-cylinder-ixo-ab)
 
 ## Text
 

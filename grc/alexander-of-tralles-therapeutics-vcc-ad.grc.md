@@ -4,7 +4,7 @@ title_greek: Θεραπευτικά
 author: Alexander of Tralles
 eul_wid: vcc-ad
 eul_aid: vcc
-canonical: "https://eulogikon.org/grc/alexander-of-tralles/therapeutics"
+canonical: "https://eulogikon.org/works/alexander-tralleis-therapeutics-vcc-ad"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alexander of Tralles
 
-**eul_wid:** `vcc-ad` · [HTML page](https://eulogikon.org/grc/alexander-of-tralles/therapeutics)
+**eul_wid:** `vcc-ad` · [HTML page](https://eulogikon.org/works/alexander-tralleis-therapeutics-vcc-ad)
 
 ## Text
 

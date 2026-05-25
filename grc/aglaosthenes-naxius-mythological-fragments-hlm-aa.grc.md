@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Aglaosthenes Naxius
 eul_wid: hlm-aa
 eul_aid: hlm
-canonical: "https://eulogikon.org/grc/aglaosthenes-naxius/mythological-fragments"
+canonical: "https://eulogikon.org/works/aglaosthenes-naxius-mythological-fragments-hlm-aa"
 period: Classical
 dialect: Ionic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aglaosthenes Naxius
 
-**eul_wid:** `hlm-aa` · [HTML page](https://eulogikon.org/grc/aglaosthenes-naxius/mythological-fragments)
+**eul_wid:** `hlm-aa` · [HTML page](https://eulogikon.org/works/aglaosthenes-naxius-mythological-fragments-hlm-aa)
 
 ## Text
 

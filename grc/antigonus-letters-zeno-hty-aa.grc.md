@@ -4,7 +4,7 @@ title_greek: Ἐπιστολή
 author: Antigonus Letters
 eul_wid: hty-aa
 eul_aid: hty
-canonical: "https://eulogikon.org/grc/antigonus-letters/zeno"
+canonical: "https://eulogikon.org/works/antigonus-letters-zeno-hty-aa"
 period: Hellenistic
 dialect: Koine
 domain: Rhetoric
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Antigonus Letters
 
-**eul_wid:** `hty-aa` · [HTML page](https://eulogikon.org/grc/antigonus-letters/zeno)
+**eul_wid:** `hty-aa` · [HTML page](https://eulogikon.org/works/antigonus-letters-zeno-hty-aa)
 
 ## Text
 

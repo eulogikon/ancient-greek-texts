@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Anaximenes of Miletus
 eul_wid: bcm-aa
 eul_aid: bcm
-canonical: "https://eulogikon.org/grc/anaximenes-of-miletus/testimonies"
+canonical: "https://eulogikon.org/works/anaximenes-miletus-testimonies-bcm-aa"
 period: Archaic
 dialect: Ionic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Anaximenes of Miletus
 
-**eul_wid:** `bcm-aa` · [HTML page](https://eulogikon.org/grc/anaximenes-of-miletus/testimonies)
+**eul_wid:** `bcm-aa` · [HTML page](https://eulogikon.org/works/anaximenes-miletus-testimonies-bcm-aa)
 
 ## Text
 

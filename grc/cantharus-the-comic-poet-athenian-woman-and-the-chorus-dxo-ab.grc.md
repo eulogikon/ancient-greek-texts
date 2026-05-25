@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Cantharus the Comic Poet
 eul_wid: dxo-ab
 eul_aid: dxo
-canonical: "https://eulogikon.org/grc/cantharus-the-comic-poet/athenian-woman-and-the-chorus"
+canonical: "https://eulogikon.org/works/cantharus-athenian-woman-and-the-chorus-dxo-ab"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cantharus the Comic Poet
 
-**eul_wid:** `dxo-ab` · [HTML page](https://eulogikon.org/grc/cantharus-the-comic-poet/athenian-woman-and-the-chorus)
+**eul_wid:** `dxo-ab` · [HTML page](https://eulogikon.org/works/cantharus-athenian-woman-and-the-chorus-dxo-ab)
 
 ## Text
 

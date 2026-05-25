@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: "Dialexeis "
 eul_wid: cje-aa
 eul_aid: cje
-canonical: "https://eulogikon.org/grc/dialexeis/good-evil"
+canonical: "https://eulogikon.org/works/dialexeis-good-evil-cje-aa"
 period: Classical
 dialect: Literary Doric
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dialexeis 
 
-**eul_wid:** `cje-aa` · [HTML page](https://eulogikon.org/grc/dialexeis/good-evil)
+**eul_wid:** `cje-aa` · [HTML page](https://eulogikon.org/works/dialexeis-good-evil-cje-aa)
 
 ## Text
 

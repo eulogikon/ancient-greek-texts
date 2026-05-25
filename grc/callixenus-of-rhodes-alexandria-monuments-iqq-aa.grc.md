@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Callixenus of Rhodes
 eul_wid: iqq-aa
 eul_aid: iqq
-canonical: "https://eulogikon.org/grc/callixenus-of-rhodes/alexandria-monuments"
+canonical: "https://eulogikon.org/works/callixenus-rhodes-alexandria-monuments-iqq-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Callixenus of Rhodes
 
-**eul_wid:** `iqq-aa` · [HTML page](https://eulogikon.org/grc/callixenus-of-rhodes/alexandria-monuments)
+**eul_wid:** `iqq-aa` · [HTML page](https://eulogikon.org/works/callixenus-rhodes-alexandria-monuments-iqq-aa)
 
 ## Text
 

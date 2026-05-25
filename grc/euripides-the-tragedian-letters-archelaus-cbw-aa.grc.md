@@ -4,7 +4,7 @@ title_greek: Ἐπιστολαὶ πρὸς Ἀρχέλαον
 author: Euripides the Tragedian
 eul_wid: cbw-aa
 eul_aid: cbw
-canonical: "https://eulogikon.org/grc/euripides-the-tragedian/letters-archelaus"
+canonical: "https://eulogikon.org/works/euripides-letters-archelaus-cbw-aa"
 period: Classical
 dialect: Attic Drama
 format: Epistle
@@ -17,7 +17,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euripides the Tragedian
 
-**eul_wid:** `cbw-aa` · [HTML page](https://eulogikon.org/grc/euripides-the-tragedian/letters-archelaus)
+**eul_wid:** `cbw-aa` · [HTML page](https://eulogikon.org/works/euripides-letters-archelaus-cbw-aa)
 
 ## Text
 

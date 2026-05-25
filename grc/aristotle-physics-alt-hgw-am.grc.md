@@ -4,7 +4,7 @@ title_greek: Φυσικὴ Ἀκρόασις
 author: Aristotle
 eul_wid: hgw-am
 eul_aid: hgw
-canonical: "https://eulogikon.org/grc/aristotle/physics-alt"
+canonical: "https://eulogikon.org/works/aristotle-physics-alt-hgw-am"
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristotle
 
-**eul_wid:** `hgw-am` · [HTML page](https://eulogikon.org/grc/aristotle/physics-alt)
+**eul_wid:** `hgw-am` · [HTML page](https://eulogikon.org/works/aristotle-physics-alt-hgw-am)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Εὐωχίας καὶ Εὐφρ
 author: "Apollophanes of Athens "
 eul_wid: eem-aa
 eul_aid: eem
-canonical: "https://eulogikon.org/grc/apollophanes-of-athens/feasting-merriment"
+canonical: "https://eulogikon.org/works/apollophanes-athens-feasting-merriment-eem-aa"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Apollophanes of Athens 
 
-**eul_wid:** `eem-aa` · [HTML page](https://eulogikon.org/grc/apollophanes-of-athens/feasting-merriment)
+**eul_wid:** `eem-aa` · [HTML page](https://eulogikon.org/works/apollophanes-athens-feasting-merriment-eem-aa)
 
 ## Text
 

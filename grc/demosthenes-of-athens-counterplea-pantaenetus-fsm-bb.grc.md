@@ -4,7 +4,7 @@ title_greek: παραγραφὴ πρὸς Πανταίνετον
 author: Demosthenes of Athens
 eul_wid: fsm-bb
 eul_aid: fsm
-canonical: "https://eulogikon.org/grc/demosthenes-of-athens/counterplea-pantaenetus"
+canonical: "https://eulogikon.org/works/demosthenes-athens-counterplea-pantaenetus-fsm-bb"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demosthenes of Athens
 
-**eul_wid:** `fsm-bb` · [HTML page](https://eulogikon.org/grc/demosthenes-of-athens/counterplea-pantaenetus)
+**eul_wid:** `fsm-bb` · [HTML page](https://eulogikon.org/works/demosthenes-athens-counterplea-pantaenetus-fsm-bb)
 
 ## Text
 

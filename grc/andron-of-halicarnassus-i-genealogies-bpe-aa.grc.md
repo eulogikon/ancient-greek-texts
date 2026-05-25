@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Γενεαλογιῶν
 author: Andron of Halicarnassus I
 eul_wid: bpe-aa
 eul_aid: bpe
-canonical: "https://eulogikon.org/grc/andron-of-halicarnassus-i/genealogies"
+canonical: "https://eulogikon.org/works/andron-halicarnassus-genealogies-bpe-aa"
 period: Archaic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Andron of Halicarnassus I
 
-**eul_wid:** `bpe-aa` · [HTML page](https://eulogikon.org/grc/andron-of-halicarnassus-i/genealogies)
+**eul_wid:** `bpe-aa` · [HTML page](https://eulogikon.org/works/andron-halicarnassus-genealogies-bpe-aa)
 
 ## Text
 

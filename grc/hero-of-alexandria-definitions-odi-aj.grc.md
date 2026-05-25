@@ -4,7 +4,7 @@ title_greek: Ὅροι
 author: "Hero of Alexandria "
 eul_wid: odi-aj
 eul_aid: odi
-canonical: "https://eulogikon.org/grc/hero-of-alexandria/definitions"
+canonical: "https://eulogikon.org/works/hero-alexandria-definitions-odi-aj"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hero of Alexandria 
 
-**eul_wid:** `odi-aj` · [HTML page](https://eulogikon.org/grc/hero-of-alexandria/definitions)
+**eul_wid:** `odi-aj` · [HTML page](https://eulogikon.org/works/hero-alexandria-definitions-odi-aj)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Φαινόμενα (Ἀποδείξεις Ἀναθεωρήσεως
 author: Euclid of Alexandria
 eul_wid: iaw-aa
 eul_aid: iaw
-canonical: "https://eulogikon.org/grc/euclid-of-alexandria/phenomena-demonstrations-b"
+canonical: "https://eulogikon.org/works/euclid-alexandria-phenomena-demonstrations-b-iaw-aa"
 period: Hellenistic
 dialect: Technical Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euclid of Alexandria
 
-**eul_wid:** `iaw-aa` · [HTML page](https://eulogikon.org/grc/euclid-of-alexandria/phenomena-demonstrations-b)
+**eul_wid:** `iaw-aa` · [HTML page](https://eulogikon.org/works/euclid-alexandria-phenomena-demonstrations-b-iaw-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Euphorion of Chalcis
 eul_wid: kog-ac
 eul_aid: kog
-canonical: "https://eulogikon.org/grc/euphorion-of-chalcis/epigrams"
+canonical: "https://eulogikon.org/works/euphorion-chalcis-epigrams-kog-ac"
 period: Hellenistic
 dialect: Attic
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euphorion of Chalcis
 
-**eul_wid:** `kog-ac` · [HTML page](https://eulogikon.org/grc/euphorion-of-chalcis/epigrams)
+**eul_wid:** `kog-ac` · [HTML page](https://eulogikon.org/works/euphorion-chalcis-epigrams-kog-ac)
 
 ## Text
 

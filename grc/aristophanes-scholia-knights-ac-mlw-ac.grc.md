@@ -4,7 +4,7 @@ title_greek: Προοίμιον εἰς Ἱππεῖς
 author: Aristophanes Scholia
 eul_wid: mlw-ac
 eul_aid: mlw
-canonical: "https://eulogikon.org/grc/aristophanes-scholia/knights-ac"
+canonical: "https://eulogikon.org/works/aristophanes-scholia-knights-mlw-ac"
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristophanes Scholia
 
-**eul_wid:** `mlw-ac` · [HTML page](https://eulogikon.org/grc/aristophanes-scholia/knights-ac)
+**eul_wid:** `mlw-ac` · [HTML page](https://eulogikon.org/works/aristophanes-scholia-knights-mlw-ac)
 
 ## Text
 

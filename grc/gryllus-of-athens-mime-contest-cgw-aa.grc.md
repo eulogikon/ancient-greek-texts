@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Gryllus of Athens
 eul_wid: cgw-aa
 eul_aid: cgw
-canonical: "https://eulogikon.org/grc/gryllus-of-athens/mime-contest"
+canonical: "https://eulogikon.org/works/gryllus-athens-mime-contest-cgw-aa"
 period: Classical
 dialect: Attic
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Gryllus of Athens
 
-**eul_wid:** `cgw-aa` · [HTML page](https://eulogikon.org/grc/gryllus-of-athens/mime-contest)
+**eul_wid:** `cgw-aa` · [HTML page](https://eulogikon.org/works/gryllus-athens-mime-contest-cgw-aa)
 
 ## Text
 
@@ -28,7 +28,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1.1
 
-[ ]κ. []δ̣α̣ι
+[ ]κ. []δαι
 
 ### 1.2
 
@@ -36,7 +36,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1.3
 
-[ ]υ̣σιν
+[ ]υσιν
 
 ### 5.1
 
@@ -44,11 +44,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 5.2
 
-[]α̣νακτω
+[]ανακτω
 
 ### 5.3
 
-[ ]π̣αι
+[ ]παι
 
 ### 5.4
 
@@ -60,11 +60,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 8.2
 
-〈μῖμος·〉 ⏔––]θ̣εναρ[.(.)] πάντοτε γρύλλῳ
+〈μῖμος·〉 ⏔––]θεναρ[.(.)] πάντοτε γρύλλῳ
 
 ### 10.1
 
-π]ε[ρὶ] ἄθλων ἐρίσας̣ 〈τ〉ὸ̣ περικάθαρμα.
+π]ε[ρὶ] ἄθλων ἐρίσας 〈τ〉ὸ περικάθαρμα.
 
 ### 10.2
 
@@ -76,11 +76,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 10.4
 
-.....δ[.] †προσεμαγοε[.]ιν ὁ τρισέληνος.
+.....δ[.] προσεμαγοε[.]ιν ὁ τρισέληνος.
 
 ### 10.5
 
-⏔–] μ̣η̣δὲν ὅλως τρέσας λαλήσω·
+⏔–] μηδὲν ὅλως τρέσας λαλήσω·
 
 ### 15.1
 
@@ -88,7 +88,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 15.2
 
-ποῖον πρῶτον †οπεποιηκας ἆθλον εἶπον.
+ποῖον πρῶτον οπεποιηκας ἆθλον εἶπον.
 
 ### 15.3
 
@@ -100,7 +100,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 17.2
 
-〈Ἡρακλῆς·〉 ἐγὸ πρῶτον Νεμέῃ λέοντα̣ [μάρψας
+〈Ἡρακλῆς·〉 ἐγὸ πρῶτον Νεμέῃ λέοντα [μάρψας
 
 ### 17.3
 

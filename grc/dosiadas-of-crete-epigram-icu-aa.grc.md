@@ -4,7 +4,7 @@ title_greek: Ἐπίγραμμα
 author: Dosiadas of Crete
 eul_wid: icu-aa
 eul_aid: icu
-canonical: "https://eulogikon.org/grc/dosiadas-of-crete/epigram"
+canonical: "https://eulogikon.org/works/dosiadas-crete-epigram-icu-aa"
 period: Hellenistic
 dialect: Doric (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dosiadas of Crete
 
-**eul_wid:** `icu-aa` · [HTML page](https://eulogikon.org/grc/dosiadas-of-crete/epigram)
+**eul_wid:** `icu-aa` · [HTML page](https://eulogikon.org/works/dosiadas-crete-epigram-icu-aa)
 
 ## Text
 

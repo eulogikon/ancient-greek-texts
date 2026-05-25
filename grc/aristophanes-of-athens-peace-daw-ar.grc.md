@@ -4,7 +4,7 @@ title_greek: Εἰρήνη
 author: Aristophanes of Athens
 eul_wid: daw-ar
 eul_aid: daw
-canonical: "https://eulogikon.org/grc/aristophanes-of-athens/peace"
+canonical: "https://eulogikon.org/works/aristophanes-athens-peace-daw-ar"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristophanes of Athens
 
-**eul_wid:** `daw-ar` · [HTML page](https://eulogikon.org/grc/aristophanes-of-athens/peace)
+**eul_wid:** `daw-ar` · [HTML page](https://eulogikon.org/works/aristophanes-athens-peace-daw-ar)
 
 ## Text
 

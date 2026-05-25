@@ -4,7 +4,7 @@ title_greek: Συμμαχικὸς Α.
 author: Aristides the Orator
 eul_wid: qwm-by
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/allied"
+canonical: "https://eulogikon.org/works/aristides-orator-allied-qwm-by"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-by` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/allied)
+**eul_wid:** `qwm-by` · [HTML page](https://eulogikon.org/works/aristides-orator-allied-qwm-by)
 
 ## Text
 

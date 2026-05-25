@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Hermesianax of Cyprus
 eul_wid: iiy-aa
 eul_aid: iiy
-canonical: "https://eulogikon.org/grc/hermesianax-of-cyprus/histories-myths"
+canonical: "https://eulogikon.org/works/hermesianax-cyprus-histories-myths-iiy-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hermesianax of Cyprus
 
-**eul_wid:** `iiy-aa` · [HTML page](https://eulogikon.org/grc/hermesianax-of-cyprus/histories-myths)
+**eul_wid:** `iiy-aa` · [HTML page](https://eulogikon.org/works/hermesianax-cyprus-histories-myths-iiy-aa)
 
 ## Text
 

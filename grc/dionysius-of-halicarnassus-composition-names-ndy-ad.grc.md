@@ -4,7 +4,7 @@ title_greek: Περὶ συνθέσεως ὀνομάτων
 author: Dionysius of Halicarnassus
 eul_wid: ndy-ad
 eul_aid: ndy
-canonical: "https://eulogikon.org/grc/dionysius-of-halicarnassus/composition-names"
+canonical: "https://eulogikon.org/works/dionysius-halicarnassus-composition-names-ndy-ad"
 period: Hellenistic
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dionysius of Halicarnassus
 
-**eul_wid:** `ndy-ad` · [HTML page](https://eulogikon.org/grc/dionysius-of-halicarnassus/composition-names)
+**eul_wid:** `ndy-ad` · [HTML page](https://eulogikon.org/works/dionysius-halicarnassus-composition-names-ndy-ad)
 
 ## Text
 
