@@ -4,7 +4,7 @@ title_greek: Γλῶσσαι εἰς Πλοῦτον
 author: Aristophanes Scholia
 eul_wid: mlw-an
 eul_aid: mlw
-canonical: "https://eulogikon.org/grc/aristophanes-scholia/plutus"
+canonical: "https://eulogikon.org/works/aristophanes-scholia-plutus-mlw-an"
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristophanes Scholia
 
-**eul_wid:** `mlw-an` · [HTML page](https://eulogikon.org/grc/aristophanes-scholia/plutus)
+**eul_wid:** `mlw-an` · [HTML page](https://eulogikon.org/works/aristophanes-scholia-plutus-mlw-an)
 
 ## Text
 
@@ -100,7 +100,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 11a
 
-ἰατρὸς] ⏓ – suprascr. ad ἰα– Amb
+ἰατρὸς] – suprascr. ad ἰα– Amb
 
 ### book 11b
 
@@ -640,15 +640,15 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 129
 
-δυνάμενον] ⏑⏑ suprascr. ad δυνά– Amb
+δυνάμενον] suprascr. ad δυνά– Amb
 
 ### book 130a
 
-αὐτίκα γὰρ] ⏑⏑⏑ suprascr. ad –τίκα γὰρ Amb
+αὐτίκα γὰρ] suprascr. ad –τίκα γὰρ Amb
 
 ### book 130b
 
-διὰ τίν’] ⏑⏑⏑ suprascr. ad διὰ τίν’ Amb
+διὰ τίν’] suprascr. ad διὰ τίν’ Amb
 
 ### book 131a
 
@@ -660,7 +660,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 131c
 
-τἀργύριον] ⏑⏑ suprascr. ad –γύρι– Amb
+τἀργύριον] suprascr. ad –γύρι– Amb
 
 ### book 132a
 
@@ -672,11 +672,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 133a
 
-διὰ τίν’] ⏑⏑⏑ suprascr. ad διὰ τίν’ Amb
+διὰ τίν’] suprascr. ad διὰ τίν’ Amb
 
 ### book 133b
 
-οὐ διὰ] ⏑⏑ suprascr. ad διὰ Amb
+οὐ διὰ] suprascr. ad διὰ Amb
 
 ### book 133c
 
@@ -724,7 +724,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 148
 
-ἴσως] ⏒ suprascr. ad ἴ– Amb
+ἴσως] suprascr. ad ἴ– Amb
 
 ### book 149
 
@@ -1144,7 +1144,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 256a
 
-ἀλλ’ ἔστ’ ἐπ’ αὐ–:] ––⏑– suprascr. Amb
+ἀλλ’ ἔστ’ ἐπ’ αὐ–:] ––– suprascr. Amb
 
 ### book 256b
 
@@ -1156,7 +1156,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 256d
 
-ᾗ δεῖ παρόν.] ––⏑– suprascr. Amb
+ᾗ δεῖ παρόν.] ––– suprascr. Amb
 
 ### book 256e
 
@@ -1164,7 +1164,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 256f
 
-–τας ἀμύνειν] ἰωνικὸς ἐλάσσων. Super –τας ἀμυ– signa ⏑⏑– Amb
+–τας ἀμύνειν] ἰωνικὸς ἐλάσσων. Super –τας ἀμυ– signa – Amb
 
 ### book 257a
 
@@ -1172,7 +1172,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 257b
 
-προθύμως] συντόμως U. ⏑–– suprascr. Amb
+προθύμως] συντόμως U. –– suprascr. Amb
 
 ### book 258a
 
@@ -1180,7 +1180,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 258b
 
-–στι γέροντας:] παιὼν τρίτος. Super –ροντας signa –⏑ Amb
+–στι γέροντας:] παιὼν τρίτος. Super –ροντας signa – Amb
 
 ### book 258c
 
@@ -1208,7 +1208,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 259d
 
-πρὶν ταῦτα καὶ:] ––⏑– Suprascr. Amb
+πρὶν ταῦτα καὶ:] ––– Suprascr. Amb
 
 ### book 259e
 
@@ -1216,7 +1216,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 260
 
-χάριν] ⏑– suprascr. Amb
+χάριν] – suprascr. Amb
 
 ### book 261a
 
@@ -1316,7 +1316,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 271c
 
-φενακίσας] παιὼν δʹ. Suprascr. ⏑⏑⏑– Amb
+φενακίσας] παιὼν δʹ. Suprascr. – Amb
 
 ### book 271d
 
@@ -1372,7 +1372,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 276b
 
-χοίνικας] κλάπας U. super –νικας signa ⏑– Amb
+χοίνικας] κλάπας U. super –νικας signa – Amb
 
 ### book 276c
 
@@ -1496,7 +1496,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 291d
 
-παρασαλεύων] ὀρχούμενος U. (παρ)εν(σαλεύων) Amb. Super παρασα– signa ⏑⏑⏑ Amb
+παρασαλεύων] ὀρχούμενος U. (παρ)εν(σαλεύων) Amb. Super παρασα– signa Amb
 
 ### book 292a
 
@@ -1508,7 +1508,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 292c
 
-εἴα] super α signa ⏓ Amb
+εἴα] super α signa Amb
 
 ### book 292d
 
@@ -1516,7 +1516,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 292e
 
-–·κνα θάμ’ ἀνα·–] παιὼν αʹ. Super –κνα signa ⏓ Amb
+–·κνα θάμ’ ἀνα·–] παιὼν αʹ. Super –κνα signa Amb
 
 ### book 292f
 
@@ -1568,15 +1568,15 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 298b
 
-λάχανα] signa ⏑⏑⏑ suprascr. Amb
+λάχανα] signa suprascr. Amb
 
 ### book 298c
 
-ἄγρια] super –ια signa ⏑⏑ Amb
+ἄγρια] super –ια signa Amb
 
 ### book 298d
 
-κραιπαλῶντα] ἐκ μέθης ἀτακτοῦντα U. Super –πα– et –τα signa ⏑⏑ Amb
+κραιπαλῶντα] ἐκ μέθης ἀτακτοῦντα U. Super –πα– et –τα signa Amb
 
 ### book 299a
 
@@ -1600,7 +1600,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 300c
 
-καταδαρθέντα] κοιμηθέντα U Lut. Super καταδαρ– signa ⏑⏑⏑ Amb
+καταδαρθέντα] κοιμηθέντα U Lut. Super καταδαρ– signa Amb
 
 ### book 300d
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Claudius Iolaus the Historian
 eul_wid: nxy-aa
 eul_aid: nxy
-canonical: "https://eulogikon.org/grc/claudius-iolaus/phoenician-history"
+canonical: "https://eulogikon.org/works/claudius-iolaus-phoenician-history-nxy-aa"
 period: Roman
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Claudius Iolaus the Historian
 
-**eul_wid:** `nxy-aa` · [HTML page](https://eulogikon.org/grc/claudius-iolaus/phoenician-history)
+**eul_wid:** `nxy-aa` · [HTML page](https://eulogikon.org/works/claudius-iolaus-phoenician-history-nxy-aa)
 
 ## Text
 

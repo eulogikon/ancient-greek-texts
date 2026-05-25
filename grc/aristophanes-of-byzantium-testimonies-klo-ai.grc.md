@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Aristophanes of Byzantium
 eul_wid: klo-ai
 eul_aid: klo
-canonical: "https://eulogikon.org/grc/aristophanes-of-byzantium/testimonies"
+canonical: "https://eulogikon.org/works/aristophanes-byzantium-testimonies-klo-ai"
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristophanes of Byzantium
 
-**eul_wid:** `klo-ai` · [HTML page](https://eulogikon.org/grc/aristophanes-of-byzantium/testimonies)
+**eul_wid:** `klo-ai` · [HTML page](https://eulogikon.org/works/aristophanes-byzantium-testimonies-klo-ai)
 
 ## Text
 

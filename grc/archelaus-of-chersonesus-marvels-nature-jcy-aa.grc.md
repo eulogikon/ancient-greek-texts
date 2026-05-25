@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Archelaus of Chersonesus in Egypt
 eul_wid: jcy-aa
 eul_aid: jcy
-canonical: "https://eulogikon.org/grc/archelaus-of-chersonesus/marvels-nature"
+canonical: "https://eulogikon.org/works/archelaus-chersonesus-marvels-nature-jcy-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Archelaus of Chersonesus in Egypt
 
-**eul_wid:** `jcy-aa` · [HTML page](https://eulogikon.org/grc/archelaus-of-chersonesus/marvels-nature)
+**eul_wid:** `jcy-aa` · [HTML page](https://eulogikon.org/works/archelaus-chersonesus-marvels-nature-jcy-aa)
 
 ## Text
 
@@ -32,7 +32,7 @@ Archelai Epigrammata (de mirabilibus) εἰς ὑμᾶς κροκόδειλον 
 
 ### 129
 
-βοὸς φθιμένης πεπλανημένα τέκνα ἵππω〈ν〉 μὲν σφῆκες γενεά, μόσχων δὲ μέλισσαι πάντα δι’ ἀλλήλων ὁ πολὺς σφραγίζεται αἰών· ἀνδρὸς γὰρ κοίλης ἐκ μυελοῦ ῥάχεως δεινὸς γίνετ’ ὄφις νέκυος δειλοῖο σαπέντος, ὃς νέον ἐκ τούτου πνεῦμα λάβῃ τέραος †τεθνεότος ζωὴν ἕλκων φύσιν· εἰ δὲ τόδ’ ἔστιν, οὐ θαῦμα βλαστεῖν τὸν διφυῆ Κέκροπα. *
+βοὸς φθιμένης πεπλανημένα τέκνα ἵππω〈ν〉 μὲν σφῆκες γενεά, μόσχων δὲ μέλισσαι πάντα δι’ ἀλλήλων ὁ πολὺς σφραγίζεται αἰών· ἀνδρὸς γὰρ κοίλης ἐκ μυελοῦ ῥάχεως δεινὸς γίνετ’ ὄφις νέκυος δειλοῖο σαπέντος, ὃς νέον ἐκ τούτου πνεῦμα λάβῃ τέραος τεθνεότος ζωὴν ἕλκων φύσιν· εἰ δὲ τόδ’ ἔστιν, οὐ θαῦμα βλαστεῖν τὸν διφυῆ Κέκροπα. *
 
 ## License and provenance
 

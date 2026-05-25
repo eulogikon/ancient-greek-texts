@@ -4,7 +4,7 @@ title_greek: Προγυμνάσματα
 author: Aelius Theon the Sophist
 eul_wid: nxo-aa
 eul_aid: nxo
-canonical: "https://eulogikon.org/grc/aelius-theon-the-sophist/preliminary-exercises"
+canonical: "https://eulogikon.org/works/aelius-theon-preliminary-exercises-nxo-aa"
 period: Roman
 dialect: Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aelius Theon the Sophist
 
-**eul_wid:** `nxo-aa` · [HTML page](https://eulogikon.org/grc/aelius-theon-the-sophist/preliminary-exercises)
+**eul_wid:** `nxo-aa` · [HTML page](https://eulogikon.org/works/aelius-theon-preliminary-exercises-nxo-aa)
 
 ## Text
 

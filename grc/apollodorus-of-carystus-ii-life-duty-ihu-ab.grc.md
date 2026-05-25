@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Βίου καὶ Καθήκοντ
 author: Apollodorus of Carystus II
 eul_wid: ihu-ab
 eul_aid: ihu
-canonical: "https://eulogikon.org/grc/apollodorus-of-carystus-ii/life-duty"
+canonical: "https://eulogikon.org/works/apollodorus-carystus-ii-life-duty-ihu-ab"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Apollodorus of Carystus II
 
-**eul_wid:** `ihu-ab` · [HTML page](https://eulogikon.org/grc/apollodorus-of-carystus-ii/life-duty)
+**eul_wid:** `ihu-ab` · [HTML page](https://eulogikon.org/works/apollodorus-carystus-ii-life-duty-ihu-ab)
 
 ## Text
 

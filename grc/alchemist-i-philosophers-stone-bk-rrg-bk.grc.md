@@ -4,7 +4,7 @@ title_greek: Ὁ λίθος τῆς φιλοσοφίας
 author: Alchemist I
 eul_wid: rrg-bk
 eul_aid: rrg
-canonical: "https://eulogikon.org/grc/alchemist-i/philosophers-stone-bk"
+canonical: "https://eulogikon.org/works/alchemist-i-philosophers-stone-rrg-bk"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alchemist I
 
-**eul_wid:** `rrg-bk` · [HTML page](https://eulogikon.org/grc/alchemist-i/philosophers-stone-bk)
+**eul_wid:** `rrg-bk` · [HTML page](https://eulogikon.org/works/alchemist-i-philosophers-stone-rrg-bk)
 
 ## Text
 

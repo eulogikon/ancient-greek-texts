@@ -4,7 +4,7 @@ title_greek: Ἐκλογαὶ περὶ Πολιτειῶν
 author: Heraclides Lembus the Historian
 eul_wid: lbs-aa
 eul_aid: lbs
-canonical: "https://eulogikon.org/grc/heraclides-lembus/constitutions"
+canonical: "https://eulogikon.org/works/heraclides-lembus-constitutions-lbs-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Heraclides Lembus the Historian
 
-**eul_wid:** `lbs-aa` · [HTML page](https://eulogikon.org/grc/heraclides-lembus/constitutions)
+**eul_wid:** `lbs-aa` · [HTML page](https://eulogikon.org/works/heraclides-lembus-constitutions-lbs-aa)
 
 ## Text
 

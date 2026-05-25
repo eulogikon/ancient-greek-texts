@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Archemachus of Euboea
 eul_wid: lqi-aa
 eul_aid: lqi
-canonical: "https://eulogikon.org/grc/archemachus-of-euboea/history-customs"
+canonical: "https://eulogikon.org/works/archemachus-euboea-history-customs-lqi-aa"
 period: Hellenistic
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Archemachus of Euboea
 
-**eul_wid:** `lqi-aa` · [HTML page](https://eulogikon.org/grc/archemachus-of-euboea/history-customs)
+**eul_wid:** `lqi-aa` · [HTML page](https://eulogikon.org/works/archemachus-euboea-history-customs-lqi-aa)
 
 ## Text
 

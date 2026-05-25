@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Callinicus of Petra
 eul_wid: ueg-aa
 eul_aid: ueg
-canonical: "https://eulogikon.org/grc/callinicus-of-petra/testimonies"
+canonical: "https://eulogikon.org/works/callinicus-petra-testimonies-ueg-aa"
 period: Late Antique
 dialect: Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Callinicus of Petra
 
-**eul_wid:** `ueg-aa` · [HTML page](https://eulogikon.org/grc/callinicus-of-petra/testimonies)
+**eul_wid:** `ueg-aa` · [HTML page](https://eulogikon.org/works/callinicus-petra-testimonies-ueg-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἐθνῶν
 author: Damastes of Sigeum
 eul_wid: dji-aa
 eul_aid: dji
-canonical: "https://eulogikon.org/grc/damastes-of-sigeum/peoples"
+canonical: "https://eulogikon.org/works/damastes-sigeum-peoples-dji-aa"
 period: Classical
 dialect: Ionic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Damastes of Sigeum
 
-**eul_wid:** `dji-aa` · [HTML page](https://eulogikon.org/grc/damastes-of-sigeum/peoples)
+**eul_wid:** `dji-aa` · [HTML page](https://eulogikon.org/works/damastes-sigeum-peoples-dji-aa)
 
 ## Text
 

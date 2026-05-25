@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Dionysius the Thracian
 eul_wid: mui-ad
 eul_aid: mui
-canonical: "https://eulogikon.org/grc/dionysius-the-thracian/foundation-tarsus"
+canonical: "https://eulogikon.org/works/dionysius-thrace-foundation-tarsus-mui-ad"
 period: Hellenistic
 dialect: Attic
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dionysius the Thracian
 
-**eul_wid:** `mui-ad` · [HTML page](https://eulogikon.org/grc/dionysius-the-thracian/foundation-tarsus)
+**eul_wid:** `mui-ad` · [HTML page](https://eulogikon.org/works/dionysius-thrace-foundation-tarsus-mui-ad)
 
 ## Text
 

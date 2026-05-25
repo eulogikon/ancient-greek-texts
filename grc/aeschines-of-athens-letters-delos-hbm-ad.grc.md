@@ -4,7 +4,7 @@ title_greek: Ἐπιστολαὶ ἐκ Δήλου
 author: Aeschines of Athens
 eul_wid: hbm-ad
 eul_aid: hbm
-canonical: "https://eulogikon.org/grc/aeschines-of-athens/letters-delos"
+canonical: "https://eulogikon.org/works/aeschines-athens-letters-delos-hbm-ad"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aeschines of Athens
 
-**eul_wid:** `hbm-ad` · [HTML page](https://eulogikon.org/grc/aeschines-of-athens/letters-delos)
+**eul_wid:** `hbm-ad` · [HTML page](https://eulogikon.org/works/aeschines-athens-letters-delos-hbm-ad)
 
 ## Text
 

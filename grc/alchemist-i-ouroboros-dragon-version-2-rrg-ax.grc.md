@@ -4,7 +4,7 @@ title_greek: Ὁ οὐροβόρος δράκων
 author: Alchemist I
 eul_wid: rrg-ax
 eul_aid: rrg
-canonical: "https://eulogikon.org/grc/alchemist-i/ouroboros-dragon-version-2"
+canonical: "https://eulogikon.org/works/alchemist-i-ouroboros-dragon-version-2-rrg-ax"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alchemist I
 
-**eul_wid:** `rrg-ax` · [HTML page](https://eulogikon.org/grc/alchemist-i/ouroboros-dragon-version-2)
+**eul_wid:** `rrg-ax` · [HTML page](https://eulogikon.org/works/alchemist-i-ouroboros-dragon-version-2-rrg-ax)
 
 ## Text
 

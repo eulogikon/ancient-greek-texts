@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Euenus of Paros
 eul_wid: cbc-aa
 eul_aid: cbc
-canonical: "https://eulogikon.org/grc/euenus-of-paros/wisdom-moderation"
+canonical: "https://eulogikon.org/works/euenus-paros-wisdom-moderation-cbc-aa"
 period: Classical
 dialect: Attic
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euenus of Paros
 
-**eul_wid:** `cbc-aa` · [HTML page](https://eulogikon.org/grc/euenus-of-paros/wisdom-moderation)
+**eul_wid:** `cbc-aa` · [HTML page](https://eulogikon.org/works/euenus-paros-wisdom-moderation-cbc-aa)
 
 ## Text
 
@@ -80,7 +80,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 5
 
-πολλάκις ἀνθρώπων ὀργὴ νόον ἐξεκάλυψεν [para]κρυπτόμενον· μανίης †πολὺ χειρότερον.
+πολλάκις ἀνθρώπων ὀργὴ νόον ἐξεκάλυψεν [para]κρυπτόμενον· μανίης πολὺ χειρότερον.
 
 ### book 6.1
 

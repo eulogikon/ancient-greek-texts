@@ -4,7 +4,7 @@ title_greek: Περὶ τῆς διγνώσεως ἐξ ἐνυπνίων
 author: Galen of Pergamon
 eul_wid: qmm-cu
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/diagnosis-dreams"
+canonical: "https://eulogikon.org/works/galen-pergamon-diagnosis-dreams-qmm-cu"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-cu` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/diagnosis-dreams)
+**eul_wid:** `qmm-cu` · [HTML page](https://eulogikon.org/works/galen-pergamon-diagnosis-dreams-qmm-cu)
 
 ## Text
 

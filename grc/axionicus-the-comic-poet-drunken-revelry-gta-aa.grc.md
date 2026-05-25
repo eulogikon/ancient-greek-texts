@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Μέθης
 author: Axionicus the Comic Poet
 eul_wid: gta-aa
 eul_aid: gta
-canonical: "https://eulogikon.org/grc/axionicus-the-comic-poet/drunken-revelry"
+canonical: "https://eulogikon.org/works/axionicus-drunken-revelry-gta-aa"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Axionicus the Comic Poet
 
-**eul_wid:** `gta-aa` · [HTML page](https://eulogikon.org/grc/axionicus-the-comic-poet/drunken-revelry)
+**eul_wid:** `gta-aa` · [HTML page](https://eulogikon.org/works/axionicus-drunken-revelry-gta-aa)
 
 ## Text
 

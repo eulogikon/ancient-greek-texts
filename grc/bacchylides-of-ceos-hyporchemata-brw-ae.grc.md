@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Ὑπορχημάτων
 author: Bacchylides of Ceos
 eul_wid: brw-ae
 eul_aid: brw
-canonical: "https://eulogikon.org/grc/bacchylides-of-ceos/hyporchemata"
+canonical: "https://eulogikon.org/works/bacchylides-ceos-hyporchemata-brw-ae"
 period: Classical
 dialect: Doric
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Bacchylides of Ceos
 
-**eul_wid:** `brw-ae` · [HTML page](https://eulogikon.org/grc/bacchylides-of-ceos/hyporchemata)
+**eul_wid:** `brw-ae` · [HTML page](https://eulogikon.org/works/bacchylides-ceos-hyporchemata-brw-ae)
 
 ## Text
 
@@ -48,7 +48,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2.3
 
-τι δεῖξαι 〈⏑–〉
+τι δεῖξαι 〈–〉
 
 ### book 3
 

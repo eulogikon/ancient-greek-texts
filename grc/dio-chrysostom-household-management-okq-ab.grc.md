@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Οἰκονομίας
 author: Dio Chrysostom of Prusa
 eul_wid: okq-ab
 eul_aid: okq
-canonical: "https://eulogikon.org/grc/dio-chrysostom/household-management"
+canonical: "https://eulogikon.org/works/dio-chrysostom-household-management-okq-ab"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dio Chrysostom of Prusa
 
-**eul_wid:** `okq-ab` · [HTML page](https://eulogikon.org/grc/dio-chrysostom/household-management)
+**eul_wid:** `okq-ab` · [HTML page](https://eulogikon.org/works/dio-chrysostom-household-management-okq-ab)
 
 ## Text
 

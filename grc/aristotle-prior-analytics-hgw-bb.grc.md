@@ -4,7 +4,7 @@ title_greek: Ἀναλυτικὰ Πρότερα
 author: Aristotle
 eul_wid: hgw-bb
 eul_aid: hgw
-canonical: "https://eulogikon.org/grc/aristotle/prior-analytics"
+canonical: "https://eulogikon.org/works/aristotle-prior-analytics-hgw-bb"
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristotle
 
-**eul_wid:** `hgw-bb` · [HTML page](https://eulogikon.org/grc/aristotle/prior-analytics)
+**eul_wid:** `hgw-bb` · [HTML page](https://eulogikon.org/works/aristotle-prior-analytics-hgw-bb)
 
 ## Text
 

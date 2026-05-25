@@ -4,7 +4,7 @@ title_greek: Ἡρακλῆς
 author: Euripides
 eul_wid: cbm-as
 eul_aid: cbm
-canonical: "https://eulogikon.org/grc/euripides/hercules"
+canonical: "https://eulogikon.org/works/euripides-hercules-cbm-as"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euripides
 
-**eul_wid:** `cbm-as` · [HTML page](https://eulogikon.org/grc/euripides/hercules)
+**eul_wid:** `cbm-as` · [HTML page](https://eulogikon.org/works/euripides-hercules-cbm-as)
 
 ## Text
 
@@ -484,7 +484,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 115.5
 
-†μὴ προκάμητε πόδα† βαρύ τε κῶ‐
+μὴ προκάμητε πόδα βαρύ τε κῶ‐
 
 ### 120.1
 
@@ -492,11 +492,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 120.2
 
-λέπας †ζυγηφόρον πῶλον
+λέπας ζυγηφόρον πῶλον
 
 ### 120.3
 
-ἀνέντες ὡς βάρος φέρον τροχηλάτοιο πώλου†.
+ἀνέντες ὡς βάρος φέρον τροχηλάτοιο πώλου.
 
 ### 120.4
 
@@ -904,7 +904,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 225.2
 
-χέρσου τ’ ἀμοιβὰς ὧν †ἐμόχθησας χάριν†.
+χέρσου τ’ ἀμοιβὰς ὧν ἐμόχθησας χάριν.
 
 ### 225.3
 
@@ -1640,11 +1640,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 410.4
 
-κόρας Ἀρείας †πέπλων
+κόρας Ἀρείας πέπλων
 
 ### 410.5
 
-χρυσεόστολον φάρος†
+χρυσεόστολον φάρος
 
 ### 415.1
 
@@ -1768,7 +1768,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 445.2
 
-†ὑπὸ σειραίοις ποσὶν† ἕλκουσαν
+ὑπὸ σειραίοις ποσὶν ἕλκουσαν
 
 ### 445.3
 
@@ -2960,7 +2960,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 755.5
 
-†οὐρανίων μακάρων† κατέβαλ’ ὡς ἄρ’ οὐ
+οὐρανίων μακάρων κατέβαλ’ ὡς ἄρ’ οὐ
 
 ### 760
 
@@ -3040,7 +3040,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 775.3
 
-†χρόνου γὰρ οὔτις ἔτλα τὸ πάλιν εἰσορᾶν†·
+χρόνου γὰρ οὔτις ἔτλα τὸ πάλιν εἰσορᾶν·
 
 ### 775.4
 
@@ -3296,7 +3296,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 845.1
 
-†τιμάς τ’ ἔχω τάσδ’ οὐκ ἀγασθῆναι φίλοις†
+τιμάς τ’ ἔχω τάσδ’ οὐκ ἀγασθῆναι φίλοις
 
 ### 845.2
 
@@ -3904,7 +3904,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 995.8
 
-Παλλάς, κραδαίνους’ ἔγχος †ἐπὶ λόφω κέαρ†,
+Παλλάς, κραδαίνους’ ἔγχος ἐπὶ λόφω κέαρ,
 
 ### 995.9
 
@@ -4424,7 +4424,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1140.3
 
-Ηρ. ἦ γὰρ συνήραξ’ οἶκον †ἢ βάκχευς’ ἐμόν†;
+Ηρ. ἦ γὰρ συνήραξ’ οἶκον ἢ βάκχευς’ ἐμόν;
 
 ### 1140.4
 
@@ -4452,7 +4452,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1145.6
 
-ἢ σάρκα †τὴν ἐμὴν† ἐμπρήσας πυρὶ
+ἢ σάρκα τὴν ἐμὴν ἐμπρήσας πυρὶ
 
 ### 1145.7
 
@@ -4728,7 +4728,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1225.4
 
-φέρει †τὰ τῶν θεῶν γε† πτώματ’ οὐδ’ ἀναίνεται.
+φέρει τὰ τῶν θεῶν γε πτώματ’ οὐδ’ ἀναίνεται.
 
 ### 1225.5
 
@@ -4964,7 +4964,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1285.4
 
-γλώσσης πικροῖς κέντροισι †κληιδουχούμενοι†·
+γλώσσης πικροῖς κέντροισι κληιδουχούμενοι·
 
 ### 1285.5
 
@@ -5020,7 +5020,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1295.8
 
-†κρόους’ Ὀλυμπίου Ζηνὸς ἀρβύληι πόδα†.
+κρόους’ Ὀλυμπίου Ζηνὸς ἀρβύληι πόδα.
 
 ### 1305.1
 
@@ -5456,7 +5456,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1415.3
 
-Ηρ. πῶς οὖν †ἔτ’ εἴπης† ὅτι συνέσταλμαι κακοῖς;
+Ηρ. πῶς οὖν ἔτ’ εἴπης ὅτι συνέσταλμαι κακοῖς;
 
 ### 1415.4
 
@@ -5468,7 +5468,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1420.1
 
-Ηρ. ἐγώ. Αμ. πότ’ ἐλθών; Ηρ. ἡνίκ’ ἂν †θάψηις τέκνα†.
+Ηρ. ἐγώ. Αμ. πότ’ ἐλθών; Ηρ. ἡνίκ’ ἂν θάψηις τέκνα.
 
 ### 1420.2
 

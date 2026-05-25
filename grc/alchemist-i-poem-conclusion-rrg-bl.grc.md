@@ -4,7 +4,7 @@ title_greek: Συμπέρασμα τῆς ποιήσεως
 author: Alchemist I
 eul_wid: rrg-bl
 eul_aid: rrg
-canonical: "https://eulogikon.org/grc/alchemist-i/poem-conclusion"
+canonical: "https://eulogikon.org/works/alchemist-i-poem-conclusion-rrg-bl"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alchemist I
 
-**eul_wid:** `rrg-bl` · [HTML page](https://eulogikon.org/grc/alchemist-i/poem-conclusion)
+**eul_wid:** `rrg-bl` · [HTML page](https://eulogikon.org/works/alchemist-i-poem-conclusion-rrg-bl)
 
 ## Text
 

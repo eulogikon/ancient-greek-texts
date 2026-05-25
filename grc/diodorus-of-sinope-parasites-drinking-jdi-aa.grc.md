@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Diodorus of Sinope
 eul_wid: jdi-aa
 eul_aid: jdi
-canonical: "https://eulogikon.org/grc/diodorus-of-sinope/parasites-drinking"
+canonical: "https://eulogikon.org/works/diodorus-sinope-parasites-drinking-jdi-aa"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Diodorus of Sinope
 
-**eul_wid:** `jdi-aa` · [HTML page](https://eulogikon.org/grc/diodorus-of-sinope/parasites-drinking)
+**eul_wid:** `jdi-aa` · [HTML page](https://eulogikon.org/works/diodorus-sinope-parasites-drinking-jdi-aa)
 
 ## Text
 

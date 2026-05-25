@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Heraclides Ponticus
 eul_wid: fqy-ab
 eul_aid: fqy
-canonical: "https://eulogikon.org/grc/heraclides-ponticus/rooster-philip-ab"
+canonical: "https://eulogikon.org/works/heraclides-ponticus-rooster-philip-fqy-ab"
 period: Classical
 dialect: Attic
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Heraclides Ponticus
 
-**eul_wid:** `fqy-ab` · [HTML page](https://eulogikon.org/grc/heraclides-ponticus/rooster-philip-ab)
+**eul_wid:** `fqy-ab` · [HTML page](https://eulogikon.org/works/heraclides-ponticus-rooster-philip-fqy-ab)
 
 ## Text
 

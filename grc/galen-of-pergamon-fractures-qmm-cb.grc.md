@@ -4,7 +4,7 @@ title_greek: Περὶ Ἱπποκράτους περὶ καταγμάτων
 author: Galen of Pergamon
 eul_wid: qmm-cb
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/fractures"
+canonical: "https://eulogikon.org/works/galen-pergamon-fractures-qmm-cb"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-cb` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/fractures)
+**eul_wid:** `qmm-cb` · [HTML page](https://eulogikon.org/works/galen-pergamon-fractures-qmm-cb)
 
 ## Text
 

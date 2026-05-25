@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Βίου Καθημερινοῦ
 author: "Anaxilas the Comic Poet "
 eul_wid: hdu-ab
 eul_aid: hdu
-canonical: "https://eulogikon.org/grc/anaxilas-the-comic-poet/comic-fragments"
+canonical: "https://eulogikon.org/works/anaxilas-comic-fragments-hdu-ab"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Anaxilas the Comic Poet 
 
-**eul_wid:** `hdu-ab` · [HTML page](https://eulogikon.org/grc/anaxilas-the-comic-poet/comic-fragments)
+**eul_wid:** `hdu-ab` · [HTML page](https://eulogikon.org/works/anaxilas-comic-fragments-hdu-ab)
 
 ## Text
 

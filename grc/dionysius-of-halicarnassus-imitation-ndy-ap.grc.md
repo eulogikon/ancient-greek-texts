@@ -4,7 +4,7 @@ title_greek: Περὶ Μιμήσεως
 author: Dionysius of Halicarnassus
 eul_wid: ndy-ap
 eul_aid: ndy
-canonical: "https://eulogikon.org/grc/dionysius-of-halicarnassus/imitation"
+canonical: "https://eulogikon.org/works/dionysius-halicarnassus-imitation-ndy-ap"
 period: Hellenistic
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dionysius of Halicarnassus
 
-**eul_wid:** `ndy-ap` · [HTML page](https://eulogikon.org/grc/dionysius-of-halicarnassus/imitation)
+**eul_wid:** `ndy-ap` · [HTML page](https://eulogikon.org/works/dionysius-halicarnassus-imitation-ndy-ap)
 
 ## Text
 

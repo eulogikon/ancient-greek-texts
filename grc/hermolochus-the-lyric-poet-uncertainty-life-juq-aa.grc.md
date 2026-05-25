@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Hermolochus the Lyric Poet
 eul_wid: juq-aa
 eul_aid: juq
-canonical: "https://eulogikon.org/grc/hermolochus-the-lyric-poet/uncertainty-life"
+canonical: "https://eulogikon.org/works/hermolochus-lyric-uncertainty-life-juq-aa"
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: Poetry
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hermolochus the Lyric Poet
 
-**eul_wid:** `juq-aa` · [HTML page](https://eulogikon.org/grc/hermolochus-the-lyric-poet/uncertainty-life)
+**eul_wid:** `juq-aa` · [HTML page](https://eulogikon.org/works/hermolochus-lyric-uncertainty-life-juq-aa)
 
 ## Text
 
 ### unit_1
 
-ἀτέκμαρτος ὁ πᾶς βίος οὐδὲν ἔχων πιστὸν πλανᾶται συντυχίαις· ἐλπὶς δὲ φρένας παραθαρσύνει· τὸ δὲ μέλλον ἀκριβῶς οἶδεν οὐδεὶς θνατὸς ὅπαι φέρεται· θεὸς δὲ πάντας †ἐν κινδύνοις θνατοὺς† κυβερνᾶι· ἀντιπνεῖ δὲ πολλάκις εὐτυχίαι δεινά τις αὔρα.
+ἀτέκμαρτος ὁ πᾶς βίος οὐδὲν ἔχων πιστὸν πλανᾶται συντυχίαις· ἐλπὶς δὲ φρένας παραθαρσύνει· τὸ δὲ μέλλον ἀκριβῶς οἶδεν οὐδεὶς θνατὸς ὅπαι φέρεται· θεὸς δὲ πάντας ἐν κινδύνοις θνατοὺς κυβερνᾶι· ἀντιπνεῖ δὲ πολλάκις εὐτυχίαι δεινά τις αὔρα.
 
 ## License and provenance
 

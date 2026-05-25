@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Antagoras of Rhodes
 eul_wid: jco-aa
 eul_aid: jco
-canonical: "https://eulogikon.org/grc/antagoras-of-rhodes/epigrams-aa"
+canonical: "https://eulogikon.org/works/antagoras-rhodes-epigrams-jco-aa"
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Antagoras of Rhodes
 
-**eul_wid:** `jco-aa` · [HTML page](https://eulogikon.org/grc/antagoras-of-rhodes/epigrams-aa)
+**eul_wid:** `jco-aa` · [HTML page](https://eulogikon.org/works/antagoras-rhodes-epigrams-jco-aa)
 
 ## Text
 

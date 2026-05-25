@@ -4,7 +4,7 @@ title_greek: ἐκ τῆς Ἰταλικῆς
 author: Appian of Alexandria
 eul_wid: pdc-af
 eul_aid: pdc
-canonical: "https://eulogikon.org/grc/appian-of-alexandria/italian"
+canonical: "https://eulogikon.org/works/appian-alexandria-italian-pdc-af"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Appian of Alexandria
 
-**eul_wid:** `pdc-af` · [HTML page](https://eulogikon.org/grc/appian-of-alexandria/italian)
+**eul_wid:** `pdc-af` · [HTML page](https://eulogikon.org/works/appian-alexandria-italian-pdc-af)
 
 ## Text
 

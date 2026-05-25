@@ -4,7 +4,7 @@ title_greek: Ἠθοποιία
 author: Epic Work  Anonymous
 eul_wid: kjq-am
 eul_aid: kjq
-canonical: "https://eulogikon.org/grc/epic-fragments-anonymous/ethopoeia-am"
+canonical: "https://eulogikon.org/works/epic-anon-ethopoeia-kjq-am"
 period: Hellenistic
 dialect: Epic (Homeric) (frg)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Epic Work  Anonymous
 
-**eul_wid:** `kjq-am` · [HTML page](https://eulogikon.org/grc/epic-fragments-anonymous/ethopoeia-am)
+**eul_wid:** `kjq-am` · [HTML page](https://eulogikon.org/works/epic-anon-ethopoeia-kjq-am)
 
 ## Text
 

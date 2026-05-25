@@ -4,7 +4,7 @@ title_greek: Παροιμίαι
 author: Aristophanes of Byzantium
 eul_wid: klo-ah
 eul_aid: klo
-canonical: "https://eulogikon.org/grc/aristophanes-of-byzantium/proverbs"
+canonical: "https://eulogikon.org/works/aristophanes-byzantium-proverbs-klo-ah"
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristophanes of Byzantium
 
-**eul_wid:** `klo-ah` · [HTML page](https://eulogikon.org/grc/aristophanes-of-byzantium/proverbs)
+**eul_wid:** `klo-ah` · [HTML page](https://eulogikon.org/works/aristophanes-byzantium-proverbs-klo-ah)
 
 ## Text
 

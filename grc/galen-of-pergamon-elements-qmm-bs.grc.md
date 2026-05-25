@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν στοιχείων ἐξ Ἱπποκράτους
 author: Galen of Pergamon
 eul_wid: qmm-bs
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/elements"
+canonical: "https://eulogikon.org/works/galen-pergamon-elements-qmm-bs"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-bs` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/elements)
+**eul_wid:** `qmm-bs` · [HTML page](https://eulogikon.org/works/galen-pergamon-elements-qmm-bs)
 
 ## Text
 

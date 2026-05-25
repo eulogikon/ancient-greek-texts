@@ -4,7 +4,7 @@ title_greek: Ἐπιστολαὶ περὶ Φιλοσόφων
 author: Anaximenes-pseudo Miletus Letters
 eul_wid: etm-aa
 eul_aid: etm
-canonical: "https://eulogikon.org/grc/anaximenes-pseudo-miletus-letters/letters-philosophers"
+canonical: "https://eulogikon.org/works/anaximenes-miletus-letters-philosophers-etm-aa"
 period: Classical
 dialect: Ionic
 domain: Rhetoric
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Anaximenes-pseudo Miletus Letters
 
-**eul_wid:** `etm-aa` · [HTML page](https://eulogikon.org/grc/anaximenes-pseudo-miletus-letters/letters-philosophers)
+**eul_wid:** `etm-aa` · [HTML page](https://eulogikon.org/works/anaximenes-miletus-letters-philosophers-etm-aa)
 
 ## Text
 

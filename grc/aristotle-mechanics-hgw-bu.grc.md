@@ -4,7 +4,7 @@ title_greek: Μηχανικά
 author: Aristotle
 eul_wid: hgw-bu
 eul_aid: hgw
-canonical: "https://eulogikon.org/grc/aristotle/mechanics"
+canonical: "https://eulogikon.org/works/aristotle-mechanics-hgw-bu"
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristotle
 
-**eul_wid:** `hgw-bu` · [HTML page](https://eulogikon.org/grc/aristotle/mechanics)
+**eul_wid:** `hgw-bu` · [HTML page](https://eulogikon.org/works/aristotle-mechanics-hgw-bu)
 
 ## Text
 

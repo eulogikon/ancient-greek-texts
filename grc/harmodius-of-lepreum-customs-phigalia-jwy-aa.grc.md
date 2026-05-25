@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Harmodius of Lepreum
 eul_wid: jwy-aa
 eul_aid: jwy
-canonical: "https://eulogikon.org/grc/harmodius-of-lepreum/customs-phigalia"
+canonical: "https://eulogikon.org/works/harmodius-lepreum-customs-phigalia-jwy-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Harmodius of Lepreum
 
-**eul_wid:** `jwy-aa` · [HTML page](https://eulogikon.org/grc/harmodius-of-lepreum/customs-phigalia)
+**eul_wid:** `jwy-aa` · [HTML page](https://eulogikon.org/works/harmodius-lepreum-customs-phigalia-jwy-aa)
 
 ## Text
 

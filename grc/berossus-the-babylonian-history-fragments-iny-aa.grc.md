@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τῆς Βαβυλωνιακῆς
 author: Berossus the Babylonian
 eul_wid: iny-aa
 eul_aid: iny
-canonical: "https://eulogikon.org/grc/berossus-the-babylonian/history-fragments"
+canonical: "https://eulogikon.org/works/berossus-babylonian-history-fragments-iny-aa"
 period: Hellenistic
 dialect: Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Berossus the Babylonian
 
-**eul_wid:** `iny-aa` · [HTML page](https://eulogikon.org/grc/berossus-the-babylonian/history-fragments)
+**eul_wid:** `iny-aa` · [HTML page](https://eulogikon.org/works/berossus-babylonian-history-fragments-iny-aa)
 
 ## Text
 

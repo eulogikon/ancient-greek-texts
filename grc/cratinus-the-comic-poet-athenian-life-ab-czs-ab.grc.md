@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τοῦ Ἀθηναϊκοῦ Βί
 author: Cratinus the Comic Poet
 eul_wid: czs-ab
 eul_aid: czs
-canonical: "https://eulogikon.org/grc/cratinus-the-comic-poet/athenian-life-ab"
+canonical: "https://eulogikon.org/works/cratinus-athenian-life-czs-ab"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cratinus the Comic Poet
 
-**eul_wid:** `czs-ab` · [HTML page](https://eulogikon.org/grc/cratinus-the-comic-poet/athenian-life-ab)
+**eul_wid:** `czs-ab` · [HTML page](https://eulogikon.org/works/cratinus-athenian-life-czs-ab)
 
 ## Text
 

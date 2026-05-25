@@ -4,7 +4,7 @@ title_greek: Ὅτι μέγιστον κακὸν ἐν ἀνθρώποις ἡ 
 author: "Hermetica "
 eul_wid: oqk-ac
 eul_aid: oqk
-canonical: "https://eulogikon.org/grc/hermetica/greatest-evil-ignorance"
+canonical: "https://eulogikon.org/works/hermetica-greatest-evil-ignorance-oqk-ac"
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hermetica 
 
-**eul_wid:** `oqk-ac` · [HTML page](https://eulogikon.org/grc/hermetica/greatest-evil-ignorance)
+**eul_wid:** `oqk-ac` · [HTML page](https://eulogikon.org/works/hermetica-greatest-evil-ignorance-oqk-ac)
 
 ## Text
 

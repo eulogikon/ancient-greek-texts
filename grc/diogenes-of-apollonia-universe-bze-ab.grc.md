@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Diogenes of Apollonia
 eul_wid: bze-ab
 eul_aid: bze
-canonical: "https://eulogikon.org/grc/diogenes-of-apollonia/universe"
+canonical: "https://eulogikon.org/works/diogenes-apollonia-universe-bze-ab"
 period: Classical
 dialect: Ionic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Diogenes of Apollonia
 
-**eul_wid:** `bze-ab` · [HTML page](https://eulogikon.org/grc/diogenes-of-apollonia/universe)
+**eul_wid:** `bze-ab` · [HTML page](https://eulogikon.org/works/diogenes-apollonia-universe-bze-ab)
 
 ## Text
 

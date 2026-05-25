@@ -4,7 +4,7 @@ title_greek: Περὶ ποιήσεως κινναβάρεως
 author: Alchemist I
 eul_wid: rrg-be
 eul_aid: rrg
-canonical: "https://eulogikon.org/grc/alchemist-i/cinnabar-be"
+canonical: "https://eulogikon.org/works/alchemist-i-cinnabar-rrg-be"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alchemist I
 
-**eul_wid:** `rrg-be` · [HTML page](https://eulogikon.org/grc/alchemist-i/cinnabar-be)
+**eul_wid:** `rrg-be` · [HTML page](https://eulogikon.org/works/alchemist-i-cinnabar-rrg-be)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ τῆς ἀρίστης διδασκαλίας
 author: Galen of Pergamon
 eul_wid: qmm-dj
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/best-doctrine"
+canonical: "https://eulogikon.org/works/galen-pergamon-best-doctrine-qmm-dj"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-dj` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/best-doctrine)
+**eul_wid:** `qmm-dj` · [HTML page](https://eulogikon.org/works/galen-pergamon-best-doctrine-qmm-dj)
 
 ## Text
 

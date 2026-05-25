@@ -4,7 +4,7 @@ title_greek: Προσφωνητικός Σμυρναϊκός
 author: Aristides the Orator
 eul_wid: qwm-bk
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/smyrna"
+canonical: "https://eulogikon.org/works/aristides-orator-smyrna-qwm-bk"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-bk` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/smyrna)
+**eul_wid:** `qwm-bk` · [HTML page](https://eulogikon.org/works/aristides-orator-smyrna-qwm-bk)
 
 ## Text
 

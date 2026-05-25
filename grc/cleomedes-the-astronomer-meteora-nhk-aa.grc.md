@@ -4,7 +4,7 @@ title_greek: Μετέωρα
 author: Cleomedes the Astronomer
 eul_wid: nhk-aa
 eul_aid: nhk
-canonical: "https://eulogikon.org/grc/cleomedes-the-astronomer/meteora"
+canonical: "https://eulogikon.org/works/cleomedes-meteora-nhk-aa"
 period: Hellenistic
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cleomedes the Astronomer
 
-**eul_wid:** `nhk-aa` · [HTML page](https://eulogikon.org/grc/cleomedes-the-astronomer/meteora)
+**eul_wid:** `nhk-aa` · [HTML page](https://eulogikon.org/works/cleomedes-meteora-nhk-aa)
 
 ## Text
 

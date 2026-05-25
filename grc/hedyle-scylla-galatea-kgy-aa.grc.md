@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Σκύλλης καὶ Γαλατ
 author: Hedyle
 eul_wid: kgy-aa
 eul_aid: kgy
-canonical: "https://eulogikon.org/grc/hedyle/scylla-galatea"
+canonical: "https://eulogikon.org/works/hedyle-scylla-galatea-kgy-aa"
 period: Hellenistic
 dialect: Attic
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hedyle
 
-**eul_wid:** `kgy-aa` · [HTML page](https://eulogikon.org/grc/hedyle/scylla-galatea)
+**eul_wid:** `kgy-aa` · [HTML page](https://eulogikon.org/works/hedyle-scylla-galatea-kgy-aa)
 
 ## Text
 

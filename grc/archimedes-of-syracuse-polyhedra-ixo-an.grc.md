@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Archimedes of Syracuse
 eul_wid: ixo-an
 eul_aid: ixo
-canonical: "https://eulogikon.org/grc/archimedes-of-syracuse/polyhedra"
+canonical: "https://eulogikon.org/works/archimedes-syracuse-polyhedra-ixo-an"
 period: Hellenistic
 dialect: Doric
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Archimedes of Syracuse
 
-**eul_wid:** `ixo-an` · [HTML page](https://eulogikon.org/grc/archimedes-of-syracuse/polyhedra)
+**eul_wid:** `ixo-an` · [HTML page](https://eulogikon.org/works/archimedes-syracuse-polyhedra-ixo-an)
 
 ## Text
 

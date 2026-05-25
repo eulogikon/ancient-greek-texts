@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Apollodorus of Cyzicus
 eul_wid: dei-aa
 eul_aid: dei
-canonical: "https://eulogikon.org/grc/apollodorus-of-cyzicus/testimonies"
+canonical: "https://eulogikon.org/works/apollodorus-cyzicus-testimonies-dei-aa"
 period: Classical
 dialect: Attic (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Apollodorus of Cyzicus
 
-**eul_wid:** `dei-aa` · [HTML page](https://eulogikon.org/grc/apollodorus-of-cyzicus/testimonies)
+**eul_wid:** `dei-aa` · [HTML page](https://eulogikon.org/works/apollodorus-cyzicus-testimonies-dei-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ ἐπιρρημάτων
 author: "Apollonius Grammarian "
 eul_wid: pka-ac
 eul_aid: pka
-canonical: "https://eulogikon.org/grc/apollonius-grammarian/adverbs"
+canonical: "https://eulogikon.org/works/apollonius-grammarian-adverbs-pka-ac"
 period: Roman
 dialect: Atticizing Technical
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Apollonius Grammarian 
 
-**eul_wid:** `pka-ac` · [HTML page](https://eulogikon.org/grc/apollonius-grammarian/adverbs)
+**eul_wid:** `pka-ac` · [HTML page](https://eulogikon.org/works/apollonius-grammarian-adverbs-pka-ac)
 
 ## Text
 

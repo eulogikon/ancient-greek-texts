@@ -4,7 +4,7 @@ title_greek: Ἐπίγραμμα
 author: Archelaus of Chersonesus in Egypt
 eul_wid: jcy-ab
 eul_aid: jcy
-canonical: "https://eulogikon.org/grc/archelaus-of-chersonesus/epigram"
+canonical: "https://eulogikon.org/works/archelaus-chersonesus-epigram-jcy-ab"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Archelaus of Chersonesus in Egypt
 
-**eul_wid:** `jcy-ab` · [HTML page](https://eulogikon.org/grc/archelaus-of-chersonesus/epigram)
+**eul_wid:** `jcy-ab` · [HTML page](https://eulogikon.org/works/archelaus-chersonesus-epigram-jcy-ab)
 
 ## Text
 

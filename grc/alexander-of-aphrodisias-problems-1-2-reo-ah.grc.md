@@ -4,7 +4,7 @@ title_greek: Προβλήματα
 author: Alexander of Aphrodisias
 eul_wid: reo-ah
 eul_aid: reo
-canonical: "https://eulogikon.org/grc/alexander-of-aphrodisias/problems-1-2"
+canonical: "https://eulogikon.org/works/alexander-aphrodisias-problems-1-2-reo-ah"
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alexander of Aphrodisias
 
-**eul_wid:** `reo-ah` · [HTML page](https://eulogikon.org/grc/alexander-of-aphrodisias/problems-1-2)
+**eul_wid:** `reo-ah` · [HTML page](https://eulogikon.org/works/alexander-aphrodisias-problems-1-2-reo-ah)
 
 ## Text
 

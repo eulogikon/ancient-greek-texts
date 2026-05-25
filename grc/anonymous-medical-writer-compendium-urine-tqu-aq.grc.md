@@ -4,7 +4,7 @@ title_greek: Σύνοψις Περὶ Οὖρων
 author: Medical Writer  Anonymous
 eul_wid: tqu-aq
 eul_aid: tqu
-canonical: "https://eulogikon.org/grc/anonymous-medical-writer/compendium-urine"
+canonical: "https://eulogikon.org/works/med-writer-anon-compendium-urine-tqu-aq"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Medical Writer  Anonymous
 
-**eul_wid:** `tqu-aq` · [HTML page](https://eulogikon.org/grc/anonymous-medical-writer/compendium-urine)
+**eul_wid:** `tqu-aq` · [HTML page](https://eulogikon.org/works/med-writer-anon-compendium-urine-tqu-aq)
 
 ## Text
 

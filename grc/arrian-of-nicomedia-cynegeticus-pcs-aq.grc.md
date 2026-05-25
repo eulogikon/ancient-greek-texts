@@ -4,7 +4,7 @@ title_greek: Κυνηγετικός
 author: Arrian of Nicomedia
 eul_wid: pcs-aq
 eul_aid: pcs
-canonical: "https://eulogikon.org/grc/arrian-of-nicomedia/cynegeticus"
+canonical: "https://eulogikon.org/works/arrian-nicomedia-cynegeticus-pcs-aq"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Arrian of Nicomedia
 
-**eul_wid:** `pcs-aq` · [HTML page](https://eulogikon.org/grc/arrian-of-nicomedia/cynegeticus)
+**eul_wid:** `pcs-aq` · [HTML page](https://eulogikon.org/works/arrian-nicomedia-cynegeticus-pcs-aq)
 
 ## Text
 
@@ -460,7 +460,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 32 2
 
-καὶ ὅτι αἱ θήλειαι μὲν ἀγαπητὸν εἰ καὶ ἐς πέμπτον ἔτος διαφυλάξειαν τὸ ὠκύ, ἄρρενες δὲ καὶ ἐς δέκατον διαφυλάττουσιν. ὥστε μέγα μοι δοκεῖ τὸ κτῆμα ἄρρην κύων τῇ ἀληθείᾳ γενναῖος καὶ οὐκ ἄνευ θεῶν του εὐμενείας παραγίγνεσθαι ἀνδρὶ κυνηγετικῷ. ἀλλὰ χρὴ θύειν Ἀρτέμιδι Ἀγροτέρᾳ ἐπὶ τῷδε τῷ κτήματι· θύειν δὲ χρὴ καὶ ἐπὶ θήρᾳ εὖ πράξαντα, καὶ ἀνατιθέναι ἀπαρχὰς τῶν ἁλισκομένων τῇ θεῷ, †γε ἀποκαθαίρειν τὰς κύνας καὶ τοὺς κυνηγέτας, κατὰ τὰ πάτρια, ὡς νόμος.
+καὶ ὅτι αἱ θήλειαι μὲν ἀγαπητὸν εἰ καὶ ἐς πέμπτον ἔτος διαφυλάξειαν τὸ ὠκύ, ἄρρενες δὲ καὶ ἐς δέκατον διαφυλάττουσιν. ὥστε μέγα μοι δοκεῖ τὸ κτῆμα ἄρρην κύων τῇ ἀληθείᾳ γενναῖος καὶ οὐκ ἄνευ θεῶν του εὐμενείας παραγίγνεσθαι ἀνδρὶ κυνηγετικῷ. ἀλλὰ χρὴ θύειν Ἀρτέμιδι Ἀγροτέρᾳ ἐπὶ τῷδε τῷ κτήματι· θύειν δὲ χρὴ καὶ ἐπὶ θήρᾳ εὖ πράξαντα, καὶ ἀνατιθέναι ἀπαρχὰς τῶν ἁλισκομένων τῇ θεῷ, γε ἀποκαθαίρειν τὰς κύνας καὶ τοὺς κυνηγέτας, κατὰ τὰ πάτρια, ὡς νόμος.
 
 ### 34 1
 

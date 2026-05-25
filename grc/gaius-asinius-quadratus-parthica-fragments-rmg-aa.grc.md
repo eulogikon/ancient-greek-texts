@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα τῆς Παρθικῆς
 author: Gaius Asinius Quadratus the Historian
 eul_wid: rmg-aa
 eul_aid: rmg
-canonical: "https://eulogikon.org/grc/gaius-asinius-quadratus/parthica-fragments"
+canonical: "https://eulogikon.org/works/quadratus-parthica-fragments-rmg-aa"
 period: Roman
 dialect: Ionic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Gaius Asinius Quadratus the Historian
 
-**eul_wid:** `rmg-aa` · [HTML page](https://eulogikon.org/grc/gaius-asinius-quadratus/parthica-fragments)
+**eul_wid:** `rmg-aa` · [HTML page](https://eulogikon.org/works/quadratus-parthica-fragments-rmg-aa)
 
 ## Text
 

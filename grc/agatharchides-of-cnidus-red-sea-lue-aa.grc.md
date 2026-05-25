@@ -4,7 +4,7 @@ title_greek: Ἐκλογαὶ Ἀγαθαρχίδου περὶ Ἐρυθρᾶς
 author: Agatharchides of Cnidus
 eul_wid: lue-aa
 eul_aid: lue
-canonical: "https://eulogikon.org/grc/agatharchides-of-cnidus/red-sea"
+canonical: "https://eulogikon.org/works/agatharchides-cnidus-red-sea-lue-aa"
 period: Hellenistic
 dialect: Attic
 domain: Geography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Agatharchides of Cnidus
 
-**eul_wid:** `lue-aa` · [HTML page](https://eulogikon.org/grc/agatharchides-of-cnidus/red-sea)
+**eul_wid:** `lue-aa` · [HTML page](https://eulogikon.org/works/agatharchides-cnidus-red-sea-lue-aa)
 
 ## Text
 

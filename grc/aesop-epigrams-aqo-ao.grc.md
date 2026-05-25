@@ -4,7 +4,7 @@ title_greek: Ἐπίγραμμα
 author: Aesop the Fabulist
 eul_wid: aqo-ao
 eul_aid: aqo
-canonical: "https://eulogikon.org/grc/aesop/epigrams"
+canonical: "https://eulogikon.org/works/aesop-epigrams-aqo-ao"
 period: Archaic
 dialect: Mixed Dialects
 domain: Fiction
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aesop the Fabulist
 
-**eul_wid:** `aqo-ao` · [HTML page](https://eulogikon.org/grc/aesop/epigrams)
+**eul_wid:** `aqo-ao` · [HTML page](https://eulogikon.org/works/aesop-epigrams-aqo-ao)
 
 ## Text
 

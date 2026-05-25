@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Πρὸς τὴν Προσωδίαν
 author: Bacchylides of Ceos
 eul_wid: brw-ah
 eul_aid: brw
-canonical: "https://eulogikon.org/grc/bacchylides-of-ceos/prosody"
+canonical: "https://eulogikon.org/works/bacchylides-ceos-prosody-brw-ah"
 period: Classical
 dialect: Doric
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Bacchylides of Ceos
 
-**eul_wid:** `brw-ah` · [HTML page](https://eulogikon.org/grc/bacchylides-of-ceos/prosody)
+**eul_wid:** `brw-ah` · [HTML page](https://eulogikon.org/works/bacchylides-ceos-prosody-brw-ah)
 
 ## Text
 

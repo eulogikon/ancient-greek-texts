@@ -4,7 +4,7 @@ title_greek: Ἱστορία τῶν Διαδόχων Ἀλεξάνδρου
 author: Arrian of Nicomedia
 eul_wid: pcs-ab
 eul_aid: pcs
-canonical: "https://eulogikon.org/grc/arrian-of-nicomedia/alexander-successors-ab"
+canonical: "https://eulogikon.org/works/arrian-nicomedia-alexander-successors-pcs-ab"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Arrian of Nicomedia
 
-**eul_wid:** `pcs-ab` · [HTML page](https://eulogikon.org/grc/arrian-of-nicomedia/alexander-successors-ab)
+**eul_wid:** `pcs-ab` · [HTML page](https://eulogikon.org/works/arrian-nicomedia-alexander-successors-pcs-ab)
 
 ## Text
 

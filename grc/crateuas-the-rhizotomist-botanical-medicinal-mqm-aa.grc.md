@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Crateuas the Rhizotomist
 eul_wid: mqm-aa
 eul_aid: mqm
-canonical: "https://eulogikon.org/grc/crateuas-the-rhizotomist/botanical-medicinal"
+canonical: "https://eulogikon.org/works/crateuas-rhizotomist-botanical-medicinal-mqm-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Crateuas the Rhizotomist
 
-**eul_wid:** `mqm-aa` · [HTML page](https://eulogikon.org/grc/crateuas-the-rhizotomist/botanical-medicinal)
+**eul_wid:** `mqm-aa` · [HTML page](https://eulogikon.org/works/crateuas-rhizotomist-botanical-medicinal-mqm-aa)
 
 ## Text
 

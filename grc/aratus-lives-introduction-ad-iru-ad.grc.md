@@ -4,7 +4,7 @@ title_greek: Περὶ ἐξηγήσεως
 author: "Aratus Lives "
 eul_wid: iru-ad
 eul_aid: iru
-canonical: "https://eulogikon.org/grc/aratus-lives/introduction-ad"
+canonical: "https://eulogikon.org/works/aratus-introduction-iru-ad"
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aratus Lives 
 
-**eul_wid:** `iru-ad` · [HTML page](https://eulogikon.org/grc/aratus-lives/introduction-ad)
+**eul_wid:** `iru-ad` · [HTML page](https://eulogikon.org/works/aratus-introduction-iru-ad)
 
 ## Text
 

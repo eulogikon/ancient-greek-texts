@@ -4,7 +4,7 @@ title_greek: Παροιμιῶν Παράρτημα
 author: Appendix of Proverbs
 eul_wid: psc-aa
 eul_aid: psc
-canonical: "https://eulogikon.org/grc/appendix-of-proverbs/text"
+canonical: "https://eulogikon.org/works/appendix-proverbs-text-psc-aa"
 period: Roman
 dialect: Byzantine Greek
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Appendix of Proverbs
 
-**eul_wid:** `psc-aa` · [HTML page](https://eulogikon.org/grc/appendix-of-proverbs/text)
+**eul_wid:** `psc-aa` · [HTML page](https://eulogikon.org/works/appendix-proverbs-text-psc-aa)
 
 ## Text
 
@@ -432,7 +432,7 @@ Mantissa Proverbiorum. Ἀδύνατα θηρᾷ ς : ἐπὶ τῶν ἐγχε
 
 ### 2 75
 
-Πυῤῥίχην ἐνόπλιον ἐκπονεῖ ς : ἐπὶ τῶν γυμναζομένων. τὴν δὲ πυῤῥίχην πρῶτος εὗρε Πύῤῥιχος Κυδωνιάτης, Κρὴς τὸ γένος. ἐκ τούτου καὶ πυῤῥίχιος ποῦς συγκείμενος ἐκ δύο βραχειῶν, ⏑ ⏑, οἷον, λόγος· ἄλλοι δέ φασιν ἀπὸ τοῦ Πύῤῥου τοῦ Ἀχιλλέως υἱοῦ, ὃς πρῶτος ἐκ τοῦ δορείου ἵππου ἐπήδησε καὶ ἐπὶ τῇ νίκῃ ὕμνος αὐτῷ ἐτέθη τοιούτῳ τρόπῳ. Ῥαμνουσία Νέμεσι ς : αὕτη πρῶτον ἀφίδρυτο ἐν Ἀφροδίτης σχήματι· διὸ καὶ κλάδον εἶχε μηλέας.
+Πυῤῥίχην ἐνόπλιον ἐκπονεῖ ς : ἐπὶ τῶν γυμναζομένων. τὴν δὲ πυῤῥίχην πρῶτος εὗρε Πύῤῥιχος Κυδωνιάτης, Κρὴς τὸ γένος. ἐκ τούτου καὶ πυῤῥίχιος ποῦς συγκείμενος ἐκ δύο βραχειῶν, , οἷον, λόγος· ἄλλοι δέ φασιν ἀπὸ τοῦ Πύῤῥου τοῦ Ἀχιλλέως υἱοῦ, ὃς πρῶτος ἐκ τοῦ δορείου ἵππου ἐπήδησε καὶ ἐπὶ τῇ νίκῃ ὕμνος αὐτῷ ἐτέθη τοιούτῳ τρόπῳ. Ῥαμνουσία Νέμεσι ς : αὕτη πρῶτον ἀφίδρυτο ἐν Ἀφροδίτης σχήματι· διὸ καὶ κλάδον εἶχε μηλέας.
 
 ### 2 76
 

@@ -4,7 +4,7 @@ title_greek: Ἐπισκόπησις Ὀπτικῶν ὑπὸ Θεωνος
 author: Euclid of Alexandria
 eul_wid: iaw-ad
 eul_aid: iaw
-canonical: "https://eulogikon.org/grc/euclid-of-alexandria/review-optics"
+canonical: "https://eulogikon.org/works/euclid-alexandria-review-optics-iaw-ad"
 period: Hellenistic
 dialect: Technical Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euclid of Alexandria
 
-**eul_wid:** `iaw-ad` · [HTML page](https://eulogikon.org/grc/euclid-of-alexandria/review-optics)
+**eul_wid:** `iaw-ad` · [HTML page](https://eulogikon.org/works/euclid-alexandria-review-optics-iaw-ad)
 
 ## Text
 

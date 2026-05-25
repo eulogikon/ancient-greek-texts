@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν τύπων
 author: Galen of Pergamon
 eul_wid: qmm-ed
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/types"
+canonical: "https://eulogikon.org/works/galen-pergamon-types-qmm-ed"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-ed` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/types)
+**eul_wid:** `qmm-ed` · [HTML page](https://eulogikon.org/works/galen-pergamon-types-qmm-ed)
 
 ## Text
 

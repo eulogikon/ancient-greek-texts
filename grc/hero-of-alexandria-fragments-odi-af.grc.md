@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Ἡρωνιακά
 author: "Hero of Alexandria "
 eul_wid: odi-af
 eul_aid: odi
-canonical: "https://eulogikon.org/grc/hero-of-alexandria/fragments"
+canonical: "https://eulogikon.org/works/hero-alexandria-fragments-odi-af"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hero of Alexandria 
 
-**eul_wid:** `odi-af` · [HTML page](https://eulogikon.org/grc/hero-of-alexandria/fragments)
+**eul_wid:** `odi-af` · [HTML page](https://eulogikon.org/works/hero-alexandria-fragments-odi-af)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν δογμάτων Ἱπποκράτους καὶ 
 author: Galen of Pergamon
 eul_wid: qmm-az
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/doctrines-hippocrates-plato"
+canonical: "https://eulogikon.org/works/galen-pergamon-doctrines-hippocrates-plato-qmm-az"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-az` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/doctrines-hippocrates-plato)
+**eul_wid:** `qmm-az` · [HTML page](https://eulogikon.org/works/galen-pergamon-doctrines-hippocrates-plato-qmm-az)
 
 ## Text
 

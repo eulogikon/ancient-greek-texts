@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Anaxagoras of Clazomenae
 eul_wid: btk-ab
 eul_aid: btk
-canonical: "https://eulogikon.org/grc/anaxagoras-of-clazomenae/nature"
+canonical: "https://eulogikon.org/works/anaxagoras-clazomenae-nature-btk-ab"
 period: Classical
 dialect: Ionic (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Anaxagoras of Clazomenae
 
-**eul_wid:** `btk-ab` · [HTML page](https://eulogikon.org/grc/anaxagoras-of-clazomenae/nature)
+**eul_wid:** `btk-ab` · [HTML page](https://eulogikon.org/works/anaxagoras-clazomenae-nature-btk-ab)
 
 ## Text
 
@@ -112,7 +112,7 @@ SEXT. VII 140 Διότιμος [c. 76, 3] δὲ τρία κατ’ αὐτὸν 
 
 ### 21b
 
-PLUT. de fort. 3 p. 98F ἀλλ’ ἐν πᾶσι τούτοις ἀτυχέστεροι τῶν θηρίων ἐσμέν, ἐμπειρίαι δὲ καὶ μνήμηι καὶ σοφίαι καὶ τέχνηι κατὰ Ἀναξαγόραν † σφῶν τε αὐτῶν χρώμεθα καὶ βλίττομεν καὶ ἀμέλγομεν καὶ φέρομεν καὶ ἄγομεν συλλαμβάνοντες.
+PLUT. de fort. 3 p. 98F ἀλλ’ ἐν πᾶσι τούτοις ἀτυχέστεροι τῶν θηρίων ἐσμέν, ἐμπειρίαι δὲ καὶ μνήμηι καὶ σοφίαι καὶ τέχνηι κατὰ Ἀναξαγόραν σφῶν τε αὐτῶν χρώμεθα καὶ βλίττομεν καὶ ἀμέλγομεν καὶ φέρομεν καὶ ἄγομεν συλλαμβάνοντες.
 
 ### 22
 

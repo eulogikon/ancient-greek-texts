@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Apion Alexandrinus
 eul_wid: nlq-ac
 eul_aid: nlq
-canonical: "https://eulogikon.org/grc/apion-alexandrinus/egyptian-histories"
+canonical: "https://eulogikon.org/works/apion-alexandrinus-egyptian-histories-nlq-ac"
 period: Roman
 dialect: Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Apion Alexandrinus
 
-**eul_wid:** `nlq-ac` · [HTML page](https://eulogikon.org/grc/apion-alexandrinus/egyptian-histories)
+**eul_wid:** `nlq-ac` · [HTML page](https://eulogikon.org/works/apion-alexandrinus-egyptian-histories-nlq-ac)
 
 ## Text
 

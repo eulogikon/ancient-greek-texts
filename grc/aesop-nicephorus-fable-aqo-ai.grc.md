@@ -4,7 +4,7 @@ title_greek: Μῦθος Νικηφόρου
 author: Aesop the Fabulist
 eul_wid: aqo-ai
 eul_aid: aqo
-canonical: "https://eulogikon.org/grc/aesop/nicephorus-fable"
+canonical: "https://eulogikon.org/works/aesop-nicephorus-fable-aqo-ai"
 period: Archaic
 dialect: Mixed Dialects
 domain: Fiction
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aesop the Fabulist
 
-**eul_wid:** `aqo-ai` · [HTML page](https://eulogikon.org/grc/aesop/nicephorus-fable)
+**eul_wid:** `aqo-ai` · [HTML page](https://eulogikon.org/works/aesop-nicephorus-fable-aqo-ai)
 
 ## Text
 

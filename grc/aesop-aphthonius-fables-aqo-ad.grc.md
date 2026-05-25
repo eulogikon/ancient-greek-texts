@@ -4,7 +4,7 @@ title_greek: Μῦθοι Ἀφθονίου τοῦ Ῥήτορος
 author: Aesop the Fabulist
 eul_wid: aqo-ad
 eul_aid: aqo
-canonical: "https://eulogikon.org/grc/aesop/aphthonius-fables"
+canonical: "https://eulogikon.org/works/aesop-aphthonius-fables-aqo-ad"
 period: Archaic
 dialect: Mixed Dialects
 domain: Fiction
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aesop the Fabulist
 
-**eul_wid:** `aqo-ad` · [HTML page](https://eulogikon.org/grc/aesop/aphthonius-fables)
+**eul_wid:** `aqo-ad` · [HTML page](https://eulogikon.org/works/aesop-aphthonius-fables-aqo-ad)
 
 ## Text
 
@@ -64,7 +64,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 9 (1t)
 
-κατοκνούντων δὲ τῶν πολλῶν μόνος ὁ λύκος ὑπισχνεῖτο τὴν ἴασιν καὶ τοῖς ὀδοῦσιν ἐξαιρεῖται † τοῦ πάθους. ὁ δὲ τῷ σωθέντι ποδὶ τὸν ἰασάμενον ἔπληττεν. οὕτως οἱ πονηροὶ χάριτος ἀμοιβὰς ἀντεισφέρονται βλάβας. ΜΥΘΟΣ Ο ΤΟΥ ΟΝΟΥ ΠΑΡΑΙΝΩΝ ΜΗ ΠΛΕΙΟΝΩΝ ΕΡΑΝ ὄνος ἐπεθύμει λέων εἶναι δοκεῖν.
+κατοκνούντων δὲ τῶν πολλῶν μόνος ὁ λύκος ὑπισχνεῖτο τὴν ἴασιν καὶ τοῖς ὀδοῦσιν ἐξαιρεῖται τοῦ πάθους. ὁ δὲ τῷ σωθέντι ποδὶ τὸν ἰασάμενον ἔπληττεν. οὕτως οἱ πονηροὶ χάριτος ἀμοιβὰς ἀντεισφέρονται βλάβας. ΜΥΘΟΣ Ο ΤΟΥ ΟΝΟΥ ΠΑΡΑΙΝΩΝ ΜΗ ΠΛΕΙΟΝΩΝ ΕΡΑΝ ὄνος ἐπεθύμει λέων εἶναι δοκεῖν.
 
 ### 10 (1t)
 

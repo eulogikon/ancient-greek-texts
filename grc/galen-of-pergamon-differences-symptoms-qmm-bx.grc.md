@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν διαφορῶν τῶν συμπτωμάτων
 author: Galen of Pergamon
 eul_wid: qmm-bx
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/differences-symptoms"
+canonical: "https://eulogikon.org/works/galen-pergamon-differences-symptoms-qmm-bx"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-bx` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/differences-symptoms)
+**eul_wid:** `qmm-bx` · [HTML page](https://eulogikon.org/works/galen-pergamon-differences-symptoms-qmm-bx)
 
 ## Text
 

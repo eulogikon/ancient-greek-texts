@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Θαυμασίων Φύσεως
 author: Antigonus of Carystus
 eul_wid: knc-ab
 eul_aid: knc
-canonical: "https://eulogikon.org/grc/antigonus-of-carystus/natural-wonders"
+canonical: "https://eulogikon.org/works/antigonus-carystus-natural-wonders-knc-ab"
 period: Hellenistic
 dialect: Koine
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Antigonus of Carystus
 
-**eul_wid:** `knc-ab` · [HTML page](https://eulogikon.org/grc/antigonus-of-carystus/natural-wonders)
+**eul_wid:** `knc-ab` · [HTML page](https://eulogikon.org/works/antigonus-carystus-natural-wonders-knc-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: τὰ κατὰ Λευκίππην καὶ Κλειτοφῶντα
 author: Achilles Tatius of Alexandria
 eul_wid: que-aa
 eul_aid: que
-canonical: "https://eulogikon.org/grc/achilles-tatius-of-alexandria/adventures-of-leucippe-and-clitophon"
+canonical: "https://eulogikon.org/works/achilles-tatius-alexandria-adventures-of-leucippe-and-clitophon-que-aa"
 period: Roman
 dialect: Koine
 domain: Fiction
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Achilles Tatius of Alexandria
 
-**eul_wid:** `que-aa` · [HTML page](https://eulogikon.org/grc/achilles-tatius-of-alexandria/adventures-of-leucippe-and-clitophon)
+**eul_wid:** `que-aa` · [HTML page](https://eulogikon.org/works/achilles-tatius-alexandria-adventures-of-leucippe-and-clitophon-que-aa)
 
 ## Text
 

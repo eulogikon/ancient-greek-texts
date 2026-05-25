@@ -4,7 +4,7 @@ title_greek: Ἱκέτιδες
 author: Aeschylus the Tragedian
 eul_wid: emo-ad
 eul_aid: emo
-canonical: "https://eulogikon.org/grc/aeschylus/supplicants"
+canonical: "https://eulogikon.org/works/aeschylus-supplicants-emo-ad"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aeschylus the Tragedian
 
-**eul_wid:** `emo-ad` · [HTML page](https://eulogikon.org/grc/aeschylus/supplicants)
+**eul_wid:** `emo-ad` · [HTML page](https://eulogikon.org/works/aeschylus-supplicants-emo-ad)
 
 ## Text
 
@@ -256,7 +256,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 60.2
 
-† Μήτιδος οἰκτρᾶς ἀλόχου,
+Μήτιδος οἰκτρᾶς ἀλόχου,
 
 ### 60.3
 
@@ -348,7 +348,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 85.1
 
-† εἴθ’ εἴη Διὸς εὖ παναληθῶς[στρ. δ.
+εἴθ’ εἴη Διὸς εὖ παναληθῶς[στρ. δ.
 
 ### 85.2
 
@@ -572,7 +572,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 145.4
 
-† διωγμοῖσι δ’ ἀσφαλέας
+διωγμοῖσι δ’ ἀσφαλέας
 
 ### 145.5
 
@@ -800,7 +800,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 195.4
 
-τὸ μὴ μάταιον δ’ ἐκ † μετώ πω σωφρονῶν
+τὸ μὴ μάταιον δ’ ἐκ μετώ πω σωφρονῶν
 
 ### 195.5
 
@@ -988,7 +988,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 240.5
 
-† καὶ τἄλλα πόλλ’ ἐπεικάσαι δίκαιον ἦν,
+καὶ τἄλλα πόλλ’ ἐπεικάσαι δίκαιον ἦν,
 
 ### 245.1
 
@@ -1076,7 +1076,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 265.2
 
-χρανθεῖς’ ἀνῆκε γαῖα † μηνεῖται ἄκη
+χρανθεῖς’ ἀνῆκε γαῖα μηνεῖται ἄκη
 
 ### 265.3
 
@@ -1448,11 +1448,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 360.3
 
-ποτιτρόπαιον αἰδόμενος † οὖνπερ
+ποτιτρόπαιον αἰδόμενος οὖνπερ
 
 ### 360.4
 
-ἱεροδόκα † ...
+ἱεροδόκα ...
 
 ### 360.5
 
@@ -1984,7 +1984,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 490.5
 
-βωμοὺς προνάους καὶ † πολισσούχων ἕδρας
+βωμοὺς προνάους καὶ πολισσούχων ἕδρας
 
 ### 495.1
 
@@ -2064,7 +2064,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 510.5
 
-Βα.ἀεὶ δ’ † ἀνάκτων ἐστι δεῖμ’ ἐξαίσιον.
+Βα.ἀεὶ δ’ ἀνάκτων ἐστι δεῖμ’ ἐξαίσιον.
 
 ### 515.1
 
@@ -2220,7 +2220,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### unit_190.4
 
-† τὰν ποταμοὺς [δ’] ἀενάους
+τὰν ποταμοὺς [δ’] ἀενάους
 
 ### unit_190.5
 
@@ -2232,7 +2232,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 555
 
-† ἱκνεῖται δ’ εἰσικνουμένου βέλει[στρ. γ.
+ἱκνεῖται δ’ εἰσικνουμένου βέλει[στρ. γ.
 
 ### unit_193.1
 
@@ -2396,7 +2396,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 595.2
 
-† τὸ μεῖον κρεῖσσον ὢν κρατύνει,
+τὸ μεῖον κρεῖσσον ὢν κρατύνει,
 
 ### 595.3
 
@@ -3064,7 +3064,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 760.3
 
-〈Χο.〉† ὡς καὶ ματαίων ἀνοσίων τε κνωδάλων
+〈Χο.〉 ὡς καὶ ματαίων ἀνοσίων τε κνωδάλων
 
 ### 760.4
 
@@ -3168,7 +3168,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 788-789
 
-βρόχου τυχεῖν † ἐν σαργάναις †,
+βρόχου τυχεῖν ἐν σαργάναις ,
 
 ### 790.1
 
@@ -3256,7 +3256,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 810.2
 
-λύσιμα † μάχιμα δ’· ἔπιδε, πάτερ,
+λύσιμα μάχιμα δ’· ἔπιδε, πάτερ,
 
 ### 812-813
 
@@ -3276,11 +3276,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 816.1
 
-† γένος γὰρ Αἰγύπτιον ὕβριν[ἀντ. γ.
+γένος γὰρ Αἰγύπτιον ὕβριν[ἀντ. γ.
 
 ### 816.2
 
-δύσφορον ἀρσενογενὲς †
+δύσφορον ἀρσενογενὲς
 
 ### unit_286
 
@@ -3324,15 +3324,15 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 825.4
 
-† ἰόφ.. ὀμ.. αὖθι κάββας νυ..
+ἰόφ.. ὀμ.. αὖθι κάββας νυ..
 
 ### 825.5
 
-δυΐαν βοὰν ἀμφαίνω. †
+δυΐαν βοὰν ἀμφαίνω.
 
 ### 830.1
 
-ὁρῶ τάδε φροίμια † πράξαν πόνων
+ὁρῶ τάδε φροίμια πράξαν πόνων
 
 ### 830.2
 
@@ -3344,7 +3344,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 830.4
 
-† βλοσυρόφρονα χλιδᾷ ...
+βλοσυρόφρονα χλιδᾷ ...
 
 ### 830.5
 
@@ -3352,7 +3352,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 835
 
-γάι’ ἄναξ προτάσσου. †
+γάι’ ἄναξ προτάσσου.
 
 ### 835.1
 
@@ -3380,7 +3380,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 840.3
 
-σοῦσθε σοῦσθ’ † ὀλύμεναι ὀλόμεν’ ἐπ’ ἀμάδα.
+σοῦσθε σοῦσθ’ ὀλύμεναι ὀλόμεν’ ἐπ’ ἀμάδα.
 
 ### 842.1
 
@@ -3400,11 +3400,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 846.1
 
-〈Αιγ.〉† αἵμον’ ἕσω ς’ ἐπ’ ἀμάδα·
+〈Αιγ.〉 αἵμον’ ἕσω ς’ ἐπ’ ἀμάδα·
 
 ### 846.2
 
-ἦ σὺ δουπια τάπιτα; †
+ἦ σὺ δουπια τάπιτα;
 
 ### 846.3
 
@@ -3412,11 +3412,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### unit_298.1
 
-† ἴχαρ φρενί τ’ ἄταν.
+ἴχαρ φρενί τ’ ἄταν.
 
 ### unit_298.2
 
-ἰὼ ἰόν †.
+ἰὼ ἰόν .
 
 ### unit_298.3
 
@@ -3444,11 +3444,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 859
 
-〈Αιγ.〉† ἄγειος ἐγὼ βαθυχαῖος
+〈Αιγ.〉 ἄγειος ἐγὼ βαθυχαῖος
 
 ### 860.1
 
-βαθρείας βαθρείας γέρον. †
+βαθρείας βαθρείας γέρον.
 
 ### 860.2
 
@@ -3464,7 +3464,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 860.5
 
-† βάτεαι βαθυμιτροκακὰ παθῶν †
+βάτεαι βαθυμιτροκακὰ παθῶν
 
 ### 865
 
@@ -3512,7 +3512,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 875
 
-† βόα, πικρότερ’ ἀχέων οἰζύος ὄνομ’ ἔχων. †
+βόα, πικρότερ’ ἀχέων οἰζύος ὄνομ’ ἔχων.
 
 ### 875.1
 
@@ -3524,7 +3524,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### unit_311.1
 
-† περιχαμπτὰ βρυάζεις·
+περιχαμπτὰ βρυάζεις·
 
 ### unit_311.2
 
@@ -3976,7 +3976,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 990.1
 
-χάριν σέβεσθαι τιμιωτέραν † ἐμοῦ.
+χάριν σέβεσθαι τιμιωτέραν ἐμοῦ.
 
 ### 990.2
 
@@ -4020,11 +4020,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### unit_346.2
 
-† καρπώματα στάζοντα κηρύσσει Κύπρις
+καρπώματα στάζοντα κηρύσσει Κύπρις
 
 ### unit_346.3
 
-κάλωρα κωλύουσαν θωσμένειν ἔρῳ, †
+κάλωρα κωλύουσαν θωσμένειν ἔρῳ,
 
 ### unit_346.4
 

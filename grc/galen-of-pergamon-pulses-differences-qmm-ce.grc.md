@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν διαφορῶν τῶν σφυγμῶν
 author: Galen of Pergamon
 eul_wid: qmm-ce
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/pulses-differences"
+canonical: "https://eulogikon.org/works/galen-pergamon-pulses-differences-qmm-ce"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-ce` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/pulses-differences)
+**eul_wid:** `qmm-ce` · [HTML page](https://eulogikon.org/works/galen-pergamon-pulses-differences-qmm-ce)
 
 ## Text
 

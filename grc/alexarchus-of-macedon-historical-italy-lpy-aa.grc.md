@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τῆς Ἰταλίας
 author: Alexarchus of Macedon
 eul_wid: lpy-aa
 eul_aid: lpy
-canonical: "https://eulogikon.org/grc/alexarchus-of-macedon/historical-italy"
+canonical: "https://eulogikon.org/works/alexarchus-macedon-historical-italy-lpy-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alexarchus of Macedon
 
-**eul_wid:** `lpy-aa` · [HTML page](https://eulogikon.org/grc/alexarchus-of-macedon/historical-italy)
+**eul_wid:** `lpy-aa` · [HTML page](https://eulogikon.org/works/alexarchus-macedon-historical-italy-lpy-aa)
 
 ## Text
 

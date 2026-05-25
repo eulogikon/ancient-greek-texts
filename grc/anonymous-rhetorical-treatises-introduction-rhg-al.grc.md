@@ -4,7 +4,7 @@ title_greek: Εἰσαγωγὴ εἰς τὴν εὕρεσιν
 author: Rhetorical Treatise Anonymous
 eul_wid: rhg-al
 eul_aid: rhg
-canonical: "https://eulogikon.org/grc/anonymous-rhetorical-treatises/introduction"
+canonical: "https://eulogikon.org/works/anon-rhet-treatise-introduction-rhg-al"
 period: Roman
 dialect: Technical Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Rhetorical Treatise Anonymous
 
-**eul_wid:** `rhg-al` · [HTML page](https://eulogikon.org/grc/anonymous-rhetorical-treatises/introduction)
+**eul_wid:** `rhg-al` · [HTML page](https://eulogikon.org/works/anon-rhet-treatise-introduction-rhg-al)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Christodorus of Coptus
 eul_wid: utg-ab
 eul_aid: utg
-canonical: "https://eulogikon.org/grc/christodorus-of-coptus/epigrams"
+canonical: "https://eulogikon.org/works/christodorus-coptus-epigrams-utg-ab"
 period: Late Antique
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Christodorus of Coptus
 
-**eul_wid:** `utg-ab` · [HTML page](https://eulogikon.org/grc/christodorus-of-coptus/epigrams)
+**eul_wid:** `utg-ab` · [HTML page](https://eulogikon.org/works/christodorus-coptus-epigrams-utg-ab)
 
 ## Text
 

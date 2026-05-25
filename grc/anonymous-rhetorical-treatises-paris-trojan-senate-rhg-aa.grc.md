@@ -4,7 +4,7 @@ title_greek: Διατριβὴ Πάριδος πρὸς τὴν Τρωικὴν 
 author: Rhetorical Treatise Anonymous
 eul_wid: rhg-aa
 eul_aid: rhg
-canonical: "https://eulogikon.org/grc/anonymous-rhetorical-treatises/paris-trojan-senate"
+canonical: "https://eulogikon.org/works/anon-rhet-treatise-paris-trojan-senate-rhg-aa"
 period: Roman
 dialect: Technical Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Rhetorical Treatise Anonymous
 
-**eul_wid:** `rhg-aa` · [HTML page](https://eulogikon.org/grc/anonymous-rhetorical-treatises/paris-trojan-senate)
+**eul_wid:** `rhg-aa` · [HTML page](https://eulogikon.org/works/anon-rhet-treatise-paris-trojan-senate-rhg-aa)
 
 ## Text
 

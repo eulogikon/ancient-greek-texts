@@ -4,7 +4,7 @@ title_greek: Περὶ διαφορᾶς στάσεως
 author: Cyrus the Rhetorician
 eul_wid: pve-aa
 eul_aid: pve
-canonical: "https://eulogikon.org/grc/cyrus-the-rhetorician/difference-stance"
+canonical: "https://eulogikon.org/works/cyrus-rhetorician-difference-stance-pve-aa"
 period: Roman
 dialect: Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cyrus the Rhetorician
 
-**eul_wid:** `pve-aa` · [HTML page](https://eulogikon.org/grc/cyrus-the-rhetorician/difference-stance)
+**eul_wid:** `pve-aa` · [HTML page](https://eulogikon.org/works/cyrus-rhetorician-difference-stance-pve-aa)
 
 ## Text
 

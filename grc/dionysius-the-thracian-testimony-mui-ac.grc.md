@@ -4,7 +4,7 @@ title_greek: Μαρτυρία
 author: Dionysius the Thracian
 eul_wid: mui-ac
 eul_aid: mui
-canonical: "https://eulogikon.org/grc/dionysius-the-thracian/testimony"
+canonical: "https://eulogikon.org/works/dionysius-thrace-testimony-mui-ac"
 period: Hellenistic
 dialect: Attic
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dionysius the Thracian
 
-**eul_wid:** `mui-ac` · [HTML page](https://eulogikon.org/grc/dionysius-the-thracian/testimony)
+**eul_wid:** `mui-ac` · [HTML page](https://eulogikon.org/works/dionysius-thrace-testimony-mui-ac)
 
 ## Text
 

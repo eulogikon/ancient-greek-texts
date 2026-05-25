@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Heraclitus of Ephesus
 eul_wid: bky-ab
 eul_aid: bky
-canonical: "https://eulogikon.org/grc/heraclitus-of-ephesus/nature-universe"
+canonical: "https://eulogikon.org/works/heraclitus-ephesus-nature-universe-bky-ab"
 period: Archaic
 dialect: Mixed Dialects (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Heraclitus of Ephesus
 
-**eul_wid:** `bky-ab` · [HTML page](https://eulogikon.org/grc/heraclitus-of-ephesus/nature-universe)
+**eul_wid:** `bky-ab` · [HTML page](https://eulogikon.org/works/heraclitus-ephesus-nature-universe-bky-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἐπιστολαὶ πρὸς Ἀριστοτέλην καὶ Δα
 author: Alexander the Great Letters
 eul_wid: hgm-aa
 eul_aid: hgm
-canonical: "https://eulogikon.org/grc/alexander-the-great-letters/aristotle-darius"
+canonical: "https://eulogikon.org/works/alexander-letters-aristotle-darius-hgm-aa"
 period: Classical
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alexander the Great Letters
 
-**eul_wid:** `hgm-aa` · [HTML page](https://eulogikon.org/grc/alexander-the-great-letters/aristotle-darius)
+**eul_wid:** `hgm-aa` · [HTML page](https://eulogikon.org/works/alexander-letters-aristotle-darius-hgm-aa)
 
 ## Text
 

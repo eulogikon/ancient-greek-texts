@@ -4,7 +4,7 @@ title_greek: Περὶ τοῦ ποιῆσαι τυρόκολλαν
 author: Alchemist I
 eul_wid: rrg-bm
 eul_aid: rrg
-canonical: "https://eulogikon.org/grc/alchemist-i/cheese-glue"
+canonical: "https://eulogikon.org/works/alchemist-i-cheese-glue-rrg-bm"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alchemist I
 
-**eul_wid:** `rrg-bm` · [HTML page](https://eulogikon.org/grc/alchemist-i/cheese-glue)
+**eul_wid:** `rrg-bm` · [HTML page](https://eulogikon.org/works/alchemist-i-cheese-glue-rrg-bm)
 
 ## Text
 

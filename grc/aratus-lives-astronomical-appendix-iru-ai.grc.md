@@ -4,7 +4,7 @@ title_greek: Ἀστρονομικά
 author: "Aratus Lives "
 eul_wid: iru-ai
 eul_aid: iru
-canonical: "https://eulogikon.org/grc/aratus-lives/astronomical-appendix"
+canonical: "https://eulogikon.org/works/aratus-astronomical-appendix-iru-ai"
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aratus Lives 
 
-**eul_wid:** `iru-ai` · [HTML page](https://eulogikon.org/grc/aratus-lives/astronomical-appendix)
+**eul_wid:** `iru-ai` · [HTML page](https://eulogikon.org/works/aratus-astronomical-appendix-iru-ai)
 
 ## Text
 

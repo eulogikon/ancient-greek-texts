@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἱερῶν Τελετῶν
 author: Erotic Narrative Anonymous
 eul_wid: skw-au
 eul_aid: skw
-canonical: "https://eulogikon.org/grc/anonymous-erotic-narrative/sacred-rites"
+canonical: "https://eulogikon.org/works/erotica-anon-sacred-rites-skw-au"
 period: Late Antique
 dialect: Koine
 domain: Fiction
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Erotic Narrative Anonymous
 
-**eul_wid:** `skw-au` · [HTML page](https://eulogikon.org/grc/anonymous-erotic-narrative/sacred-rites)
+**eul_wid:** `skw-au` · [HTML page](https://eulogikon.org/works/erotica-anon-sacred-rites-skw-au)
 
 ## Text
 
 ### col2
 
-[Break in Text (point at which text breaks off for an unknown length)] [ ...... ]χ[ . ]ρων̣ τετ[αγμένων] [ ...... ] εὐσύμβολα μυ[κή]μα[τα ... ]α̣ν̣ σ̣φάδᾳσμα εὔτακτον [ ..... ε]ὐχροοῦν σπλάγχνον [ ..... ]ο̣ι̣ πῦρ ἀίδιον καο̣ν̣ .. [ ..... ] . [ . ] εὐθυφερης εὐχὰς [ ..... ] . καὶ πανδήμους εσ[ .... ἐ]π̣ὶ̣ ἀκοὰς ἀπλανεῖς [προαγο]ρ̣εύων· “ἀνῴδιον δ’,” ἔ [φη, “ἐπιτ]ή̣δειον ἐπὶ ἱεροῖς τε[λείοις ἐ]πιφέρωμεν οὐκ ἄση[μον· .. κ]α̣ὶ τρητοῦ δόνακος [καὶ καλ]άμου φθόγγῳ προσσυμ[βάλωμε]ν κρουμάτων ἐμμέ [λειαν κα]ὶ ἀγωγὴν πνεύματος [ ....... ]μένου, ἀλλὰ γλώττῃ [Break in Text (point at which text breaks off for an unknown length)] [ ... ] .. [] ... α̣ν̣[] πρα̣γ̣ . [] προχει̣[] αξε .. [] ... [] επιθ̣[] ρ̣επι̣ .. [] κν̣ ... [] εὐσυμ̣β[] τ̣ητα δε[] εν̣θ̣α̣ .. [] θειον̣ .. [] τοστ̣ ... [] μα .... []
+[Break in Text (point at which text breaks off for an unknown length)] [ ...... ]χ[ . ]ρων τετ[αγμένων] [ ...... ] εὐσύμβολα μυ[κή]μα[τα ... ]αν σφάδᾳσμα εὔτακτον [ ..... ε]ὐχροοῦν σπλάγχνον [ ..... ]οι πῦρ ἀίδιον καον .. [ ..... ] . [ . ] εὐθυφερης εὐχὰς [ ..... ] . καὶ πανδήμους εσ[ .... ἐ]πὶ ἀκοὰς ἀπλανεῖς [προαγο]ρεύων· “ἀνῴδιον δ’,” ἔ [φη, “ἐπιτ]ήδειον ἐπὶ ἱεροῖς τε[λείοις ἐ]πιφέρωμεν οὐκ ἄση[μον· .. κ]αὶ τρητοῦ δόνακος [καὶ καλ]άμου φθόγγῳ προσσυμ[βάλωμε]ν κρουμάτων ἐμμέ [λειαν κα]ὶ ἀγωγὴν πνεύματος [ ....... ]μένου, ἀλλὰ γλώττῃ [Break in Text (point at which text breaks off for an unknown length)] [ ... ] .. [] ... αν[] πραγ . [] προχει[] αξε .. [] ... [] επιθ[] ρεπι .. [] κν ... [] εὐσυμβ[] τητα δε[] ενθα .. [] θειον .. [] τοστ ... [] μα .... []
 
 ## License and provenance
 

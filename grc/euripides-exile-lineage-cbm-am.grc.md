@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Φυγῆς καὶ Γένους
 author: Euripides
 eul_wid: cbm-am
 eul_aid: cbm
-canonical: "https://eulogikon.org/grc/euripides/exile-lineage"
+canonical: "https://eulogikon.org/works/euripides-exile-lineage-cbm-am"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euripides
 
-**eul_wid:** `cbm-am` · [HTML page](https://eulogikon.org/grc/euripides/exile-lineage)
+**eul_wid:** `cbm-am` · [HTML page](https://eulogikon.org/works/euripides-exile-lineage-cbm-am)
 
 ## Text
 
@@ -7640,7 +7640,7 @@ Ar. Thesm. 1029—1041[ln_1029]ὁρᾷς; οὐ χοροῖσιν[ln_1030]οὐ
 
 ### book 773.1
 
-[spk_χορ]ΧΟΡ. . . . . . . .[ln_20]. . . . . κατὰ γᾶν .δειλα..α̣.κ̣υ̣..μ̣α̣ι̣ . . . . . . . . μέλπει δ’ ἐν δένδρεσι λεπτὰν ἀηδὼν ἁρμονίαν[ln_25]ὀρθρευομένα γόοις Ἴτυν Ἴτυν
+[spk_χορ]ΧΟΡ. . . . . . . .[ln_20]. . . . . κατὰ γᾶν .δειλα..α.κυ..μαι . . . . . . . . μέλπει δ’ ἐν δένδρεσι λεπτὰν ἀηδὼν ἁρμονίαν[ln_25]ὀρθρευομένα γόοις Ἴτυν Ἴτυν
 
 ### book 773.2
 

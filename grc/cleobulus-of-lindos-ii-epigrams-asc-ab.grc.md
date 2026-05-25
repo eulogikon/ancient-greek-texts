@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Cleobulus of Lindos II
 eul_wid: asc-ab
 eul_aid: asc
-canonical: "https://eulogikon.org/grc/cleobulus-of-lindos-ii/epigrams"
+canonical: "https://eulogikon.org/works/cleobulus-lindos-epigrams-asc-ab"
 period: Archaic
 dialect: Doric (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cleobulus of Lindos II
 
-**eul_wid:** `asc-ab` · [HTML page](https://eulogikon.org/grc/cleobulus-of-lindos-ii/epigrams)
+**eul_wid:** `asc-ab` · [HTML page](https://eulogikon.org/works/cleobulus-lindos-epigrams-asc-ab)
 
 ## Text
 

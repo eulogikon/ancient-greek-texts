@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Hermogenes of Tarsus
 eul_wid: qng-af
 eul_aid: qng
-canonical: "https://eulogikon.org/grc/hermogenes-of-tarsus/testimonies"
+canonical: "https://eulogikon.org/works/hermogenes-tarsus-testimonies-qng-af"
 period: Roman
 dialect: Atticizing Technical
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hermogenes of Tarsus
 
-**eul_wid:** `qng-af` · [HTML page](https://eulogikon.org/grc/hermogenes-of-tarsus/testimonies)
+**eul_wid:** `qng-af` · [HTML page](https://eulogikon.org/works/hermogenes-tarsus-testimonies-qng-af)
 
 ## Text
 

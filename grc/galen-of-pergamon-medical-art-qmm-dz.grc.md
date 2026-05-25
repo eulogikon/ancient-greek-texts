@@ -4,7 +4,7 @@ title_greek: Ἰατρικὴ Τέχνη
 author: Galen of Pergamon
 eul_wid: qmm-dz
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/medical-art"
+canonical: "https://eulogikon.org/works/galen-pergamon-medical-art-qmm-dz"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-dz` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/medical-art)
+**eul_wid:** `qmm-dz` · [HTML page](https://eulogikon.org/works/galen-pergamon-medical-art-qmm-dz)
 
 ## Text
 

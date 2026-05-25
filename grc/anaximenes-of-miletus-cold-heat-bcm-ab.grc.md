@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ψύχους καὶ Θέρμης
 author: Anaximenes of Miletus
 eul_wid: bcm-ab
 eul_aid: bcm
-canonical: "https://eulogikon.org/grc/anaximenes-of-miletus/cold-heat"
+canonical: "https://eulogikon.org/works/anaximenes-miletus-cold-heat-bcm-ab"
 period: Archaic
 dialect: Ionic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Anaximenes of Miletus
 
-**eul_wid:** `bcm-ab` · [HTML page](https://eulogikon.org/grc/anaximenes-of-miletus/cold-heat)
+**eul_wid:** `bcm-ab` · [HTML page](https://eulogikon.org/works/anaximenes-miletus-cold-heat-bcm-ab)
 
 ## Text
 

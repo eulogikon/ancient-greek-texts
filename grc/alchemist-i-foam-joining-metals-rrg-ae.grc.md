@@ -4,7 +4,7 @@ title_greek: Σκευασία ἀφρονίτρου τοῦ ζητουμένου
 author: Alchemist I
 eul_wid: rrg-ae
 eul_aid: rrg
-canonical: "https://eulogikon.org/grc/alchemist-i/foam-joining-metals"
+canonical: "https://eulogikon.org/works/alchemist-i-foam-joining-metals-rrg-ae"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alchemist I
 
-**eul_wid:** `rrg-ae` · [HTML page](https://eulogikon.org/grc/alchemist-i/foam-joining-metals)
+**eul_wid:** `rrg-ae` · [HTML page](https://eulogikon.org/works/alchemist-i-foam-joining-metals-rrg-ae)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Epinicus the Comic Poet
 eul_wid: ksc-ab
 eul_aid: ksc
-canonical: "https://eulogikon.org/grc/epinicus-the-comic-poet/symposium-satirical"
+canonical: "https://eulogikon.org/works/epinicus-symposium-satirical-ksc-ab"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Epinicus the Comic Poet
 
-**eul_wid:** `ksc-ab` · [HTML page](https://eulogikon.org/grc/epinicus-the-comic-poet/symposium-satirical)
+**eul_wid:** `ksc-ab` · [HTML page](https://eulogikon.org/works/epinicus-symposium-satirical-ksc-ab)
 
 ## Text
 

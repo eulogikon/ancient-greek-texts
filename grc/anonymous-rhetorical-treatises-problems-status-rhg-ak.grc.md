@@ -4,7 +4,7 @@ title_greek: Προβλήματα ῥητορικὰ ἐν στάσει
 author: Rhetorical Treatise Anonymous
 eul_wid: rhg-ak
 eul_aid: rhg
-canonical: "https://eulogikon.org/grc/anonymous-rhetorical-treatises/problems-status"
+canonical: "https://eulogikon.org/works/anon-rhet-treatise-problems-status-rhg-ak"
 period: Roman
 dialect: Technical Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Rhetorical Treatise Anonymous
 
-**eul_wid:** `rhg-ak` · [HTML page](https://eulogikon.org/grc/anonymous-rhetorical-treatises/problems-status)
+**eul_wid:** `rhg-ak` · [HTML page](https://eulogikon.org/works/anon-rhet-treatise-problems-status-rhg-ak)
 
 ## Text
 

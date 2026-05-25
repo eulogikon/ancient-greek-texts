@@ -4,7 +4,7 @@ title_greek: Ἐλεγειακὸν Ἀπόσπασμα
 author: Asius of Samos
 eul_wid: auu-aa
 eul_aid: auu
-canonical: "https://eulogikon.org/grc/asius-of-samos/elegiac-fragment"
+canonical: "https://eulogikon.org/works/asius-samos-elegiac-fragment-auu-aa"
 period: Archaic
 dialect: Epic (Homeric) (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Asius of Samos
 
-**eul_wid:** `auu-aa` · [HTML page](https://eulogikon.org/grc/asius-of-samos/elegiac-fragment)
+**eul_wid:** `auu-aa` · [HTML page](https://eulogikon.org/works/asius-samos-elegiac-fragment-auu-aa)
 
 ## Text
 

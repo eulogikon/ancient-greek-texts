@@ -4,7 +4,7 @@ title_greek: ἐκ τῆς Νομαδικῆς
 author: Appian of Alexandria
 eul_wid: pdc-ag
 eul_aid: pdc
-canonical: "https://eulogikon.org/grc/appian-of-alexandria/nomadic"
+canonical: "https://eulogikon.org/works/appian-alexandria-nomadic-pdc-ag"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Appian of Alexandria
 
-**eul_wid:** `pdc-ag` · [HTML page](https://eulogikon.org/grc/appian-of-alexandria/nomadic)
+**eul_wid:** `pdc-ag` · [HTML page](https://eulogikon.org/works/appian-alexandria-nomadic-pdc-ag)
 
 ## Text
 

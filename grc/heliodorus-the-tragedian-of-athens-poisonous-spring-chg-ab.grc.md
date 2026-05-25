@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τῆς Ἰοβόλου Πηγῆ
 author: Heliodorus the Tragedian of Athens
 eul_wid: chg-ab
 eul_aid: chg
-canonical: "https://eulogikon.org/grc/heliodorus-the-tragedian-of-athens/poisonous-spring"
+canonical: "https://eulogikon.org/works/heliodorus-athens-poisonous-spring-chg-ab"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Heliodorus the Tragedian of Athens
 
-**eul_wid:** `chg-ab` · [HTML page](https://eulogikon.org/grc/heliodorus-the-tragedian-of-athens/poisonous-spring)
+**eul_wid:** `chg-ab` · [HTML page](https://eulogikon.org/works/heliodorus-athens-poisonous-spring-chg-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ποιητικὰ Ἀποσπάσματα
 author: Chrysippus of Soli
 eul_wid: kms-ad
 eul_aid: kms
-canonical: "https://eulogikon.org/grc/chrysippus-of-soli/poetic-fragments"
+canonical: "https://eulogikon.org/works/chrysippus-soli-poetic-fragments-kms-ad"
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Chrysippus of Soli
 
-**eul_wid:** `kms-ad` · [HTML page](https://eulogikon.org/grc/chrysippus-of-soli/poetic-fragments)
+**eul_wid:** `kms-ad` · [HTML page](https://eulogikon.org/works/chrysippus-soli-poetic-fragments-kms-ad)
 
 ## Text
 

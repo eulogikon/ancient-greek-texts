@@ -4,7 +4,7 @@ title_greek: Ψευδεπιχάρμου Ἀποσπάσματα
 author: Epicharmus of Syracuse
 eul_wid: bhm-aa
 eul_aid: bhm
-canonical: "https://eulogikon.org/grc/epicharmus-syracuse/pseudepicharmea-aa"
+canonical: "https://eulogikon.org/works/epicharmus-syracuse-pseudepicharmea-bhm-aa"
 period: Archaic
 dialect: Doric
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Epicharmus of Syracuse
 
-**eul_wid:** `bhm-aa` · [HTML page](https://eulogikon.org/grc/epicharmus-syracuse/pseudepicharmea-aa)
+**eul_wid:** `bhm-aa` · [HTML page](https://eulogikon.org/works/epicharmus-syracuse-pseudepicharmea-bhm-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: περὶ τῆς Ἀτελείας πρὸς Λεπτίνην
 author: Demosthenes of Athens
 eul_wid: fsm-az
 eul_aid: fsm
-canonical: "https://eulogikon.org/grc/demosthenes-of-athens/leptines"
+canonical: "https://eulogikon.org/works/demosthenes-athens-leptines-fsm-az"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demosthenes of Athens
 
-**eul_wid:** `fsm-az` · [HTML page](https://eulogikon.org/grc/demosthenes-of-athens/leptines)
+**eul_wid:** `fsm-az` · [HTML page](https://eulogikon.org/works/demosthenes-athens-leptines-fsm-az)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Γεωγραφίας
 author: "Eudoxus of Rhodes "
 eul_wid: jwo-aa
 eul_aid: jwo
-canonical: "https://eulogikon.org/grc/eudoxus-of-rhodes/geography"
+canonical: "https://eulogikon.org/works/eudoxus-rhodes-geography-jwo-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Eudoxus of Rhodes 
 
-**eul_wid:** `jwo-aa` · [HTML page](https://eulogikon.org/grc/eudoxus-of-rhodes/geography)
+**eul_wid:** `jwo-aa` · [HTML page](https://eulogikon.org/works/eudoxus-rhodes-geography-jwo-aa)
 
 ## Text
 

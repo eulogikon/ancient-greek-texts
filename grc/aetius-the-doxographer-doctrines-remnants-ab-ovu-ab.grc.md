@@ -4,7 +4,7 @@ title_greek: Περὶ Δογμάτων Ἀπολείμματα
 author: Aetius the Doxographer
 eul_wid: ovu-ab
 eul_aid: ovu
-canonical: "https://eulogikon.org/grc/aetius-the-doxographer/doctrines-remnants-ab"
+canonical: "https://eulogikon.org/works/aetius-doctrines-remnants-ovu-ab"
 period: Roman
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aetius the Doxographer
 
-**eul_wid:** `ovu-ab` · [HTML page](https://eulogikon.org/grc/aetius-the-doxographer/doctrines-remnants-ab)
+**eul_wid:** `ovu-ab` · [HTML page](https://eulogikon.org/works/aetius-doctrines-remnants-ovu-ab)
 
 ## Text
 

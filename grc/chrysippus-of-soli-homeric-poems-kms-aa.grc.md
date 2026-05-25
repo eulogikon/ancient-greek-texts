@@ -4,7 +4,7 @@ title_greek: Χρυσίππου Ἀποσπάσματα εἰς Ὁμηρικὰ
 author: Chrysippus of Soli
 eul_wid: kms-aa
 eul_aid: kms
-canonical: "https://eulogikon.org/grc/chrysippus-of-soli/homeric-poems"
+canonical: "https://eulogikon.org/works/chrysippus-soli-homeric-poems-kms-aa"
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Chrysippus of Soli
 
-**eul_wid:** `kms-aa` · [HTML page](https://eulogikon.org/grc/chrysippus-of-soli/homeric-poems)
+**eul_wid:** `kms-aa` · [HTML page](https://eulogikon.org/works/chrysippus-soli-homeric-poems-kms-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Callicratidas the Spartan Navarch
 eul_wid: eho-aa
 eul_aid: eho
-canonical: "https://eulogikon.org/grc/callicratidas-the-spartan/household-happiness"
+canonical: "https://eulogikon.org/works/callicratidas-spartan-household-happiness-eho-aa"
 period: Classical
 dialect: Doric
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Callicratidas the Spartan Navarch
 
-**eul_wid:** `eho-aa` · [HTML page](https://eulogikon.org/grc/callicratidas-the-spartan/household-happiness)
+**eul_wid:** `eho-aa` · [HTML page](https://eulogikon.org/works/callicratidas-spartan-household-happiness-eho-aa)
 
 ## Text
 

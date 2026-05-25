@@ -4,7 +4,7 @@ title_greek: Τέχνη Ῥητορική
 author: Cassius Longinus the Philosopher
 eul_wid: rmq-ab
 eul_aid: rmq
-canonical: "https://eulogikon.org/grc/cassius-longinus/rhetoric"
+canonical: "https://eulogikon.org/works/cassius-longinus-rhetoric-rmq-ab"
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cassius Longinus the Philosopher
 
-**eul_wid:** `rmq-ab` · [HTML page](https://eulogikon.org/grc/cassius-longinus/rhetoric)
+**eul_wid:** `rmq-ab` · [HTML page](https://eulogikon.org/works/cassius-longinus-rhetoric-rmq-ab)
 
 ## Text
 

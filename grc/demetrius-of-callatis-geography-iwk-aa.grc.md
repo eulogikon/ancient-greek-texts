@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Γεωγραφίας
 author: Demetrius of Callatis
 eul_wid: iwk-aa
 eul_aid: iwk
-canonical: "https://eulogikon.org/grc/demetrius-of-callatis/geography"
+canonical: "https://eulogikon.org/works/demetrius-callatis-geography-iwk-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demetrius of Callatis
 
-**eul_wid:** `iwk-aa` · [HTML page](https://eulogikon.org/grc/demetrius-of-callatis/geography)
+**eul_wid:** `iwk-aa` · [HTML page](https://eulogikon.org/works/demetrius-callatis-geography-iwk-aa)
 
 ## Text
 

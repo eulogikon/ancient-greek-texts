@@ -4,7 +4,7 @@ title_greek: Περὶ λέξεως τῶν στίχων
 author: Herodian of Alexandria
 eul_wid: qnq-an
 eul_aid: qnq
-canonical: "https://eulogikon.org/grc/herodian-of-alexandria/expression-verses"
+canonical: "https://eulogikon.org/works/herodian-alexandria-expression-verses-qnq-an"
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Herodian of Alexandria
 
-**eul_wid:** `qnq-an` · [HTML page](https://eulogikon.org/grc/herodian-of-alexandria/expression-verses)
+**eul_wid:** `qnq-an` · [HTML page](https://eulogikon.org/works/herodian-alexandria-expression-verses-qnq-an)
 
 ## Text
 

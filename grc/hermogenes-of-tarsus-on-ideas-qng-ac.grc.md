@@ -4,7 +4,7 @@ title_greek: Περὶ ἰδεῶν λόγου
 author: Hermogenes of Tarsus
 eul_wid: qng-ac
 eul_aid: qng
-canonical: "https://eulogikon.org/grc/hermogenes-of-tarsus/on-ideas"
+canonical: "https://eulogikon.org/works/hermogenes-tarsus-on-ideas-qng-ac"
 period: Roman
 dialect: Atticizing Technical
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hermogenes of Tarsus
 
-**eul_wid:** `qng-ac` · [HTML page](https://eulogikon.org/grc/hermogenes-of-tarsus/on-ideas)
+**eul_wid:** `qng-ac` · [HTML page](https://eulogikon.org/works/hermogenes-tarsus-on-ideas-qng-ac)
 
 ## Text
 

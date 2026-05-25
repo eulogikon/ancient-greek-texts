@@ -4,7 +4,7 @@ title_greek: Μαθηματικὸν Ἀπόσπασμα ἐκ Βοβίου
 author: Anthemius of Tralles
 eul_wid: vdg-aa
 eul_aid: vdg
-canonical: "https://eulogikon.org/grc/anthemius-of-tralles/mathematical-fragment"
+canonical: "https://eulogikon.org/works/anthemius-tralles-mathematical-fragment-vdg-aa"
 period: Late Antique
 dialect: Technical Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Anthemius of Tralles
 
-**eul_wid:** `vdg-aa` · [HTML page](https://eulogikon.org/grc/anthemius-of-tralles/mathematical-fragment)
+**eul_wid:** `vdg-aa` · [HTML page](https://eulogikon.org/works/anthemius-tralles-mathematical-fragment-vdg-aa)
 
 ## Text
 

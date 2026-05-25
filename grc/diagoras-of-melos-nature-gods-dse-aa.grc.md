@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Diagoras of Melos
 eul_wid: dse-aa
 eul_aid: dse
-canonical: "https://eulogikon.org/grc/diagoras-of-melos/nature-gods"
+canonical: "https://eulogikon.org/works/diagoras-melos-nature-gods-dse-aa"
 period: Classical
 dialect: Doric
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Diagoras of Melos
 
-**eul_wid:** `dse-aa` · [HTML page](https://eulogikon.org/grc/diagoras-of-melos/nature-gods)
+**eul_wid:** `dse-aa` · [HTML page](https://eulogikon.org/works/diagoras-melos-nature-gods-dse-aa)
 
 ## Text
 

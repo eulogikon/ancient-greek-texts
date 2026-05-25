@@ -4,7 +4,7 @@ title_greek: Ὑπόμνημα εἰς Καλλιμάχου Πίνακας
 author: Aristophanes of Byzantium
 eul_wid: klo-aa
 eul_aid: klo
-canonical: "https://eulogikon.org/grc/aristophanes-of-byzantium/callimachus-pinakes"
+canonical: "https://eulogikon.org/works/aristophanes-byzantium-callimachus-pinakes-klo-aa"
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristophanes of Byzantium
 
-**eul_wid:** `klo-aa` · [HTML page](https://eulogikon.org/grc/aristophanes-of-byzantium/callimachus-pinakes)
+**eul_wid:** `klo-aa` · [HTML page](https://eulogikon.org/works/aristophanes-byzantium-callimachus-pinakes-klo-aa)
 
 ## Text
 

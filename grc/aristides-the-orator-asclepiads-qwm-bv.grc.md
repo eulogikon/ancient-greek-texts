@@ -4,7 +4,7 @@ title_greek: Ἀσκληπιάδαι
 author: Aristides the Orator
 eul_wid: qwm-bv
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/asclepiads"
+canonical: "https://eulogikon.org/works/aristides-orator-asclepiads-qwm-bv"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-bv` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/asclepiads)
+**eul_wid:** `qwm-bv` · [HTML page](https://eulogikon.org/works/aristides-orator-asclepiads-qwm-bv)
 
 ## Text
 

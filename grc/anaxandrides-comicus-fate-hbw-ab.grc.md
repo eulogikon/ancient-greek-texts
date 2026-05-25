@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Εἱμαρμένης
 author: Anaxandrides Comicus
 eul_wid: hbw-ab
 eul_aid: hbw
-canonical: "https://eulogikon.org/grc/anaxandrides-comicus/fate"
+canonical: "https://eulogikon.org/works/anaxandrides-fate-hbw-ab"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Anaxandrides Comicus
 
-**eul_wid:** `hbw-ab` · [HTML page](https://eulogikon.org/grc/anaxandrides-comicus/fate)
+**eul_wid:** `hbw-ab` · [HTML page](https://eulogikon.org/works/anaxandrides-fate-hbw-ab)
 
 ## Text
 

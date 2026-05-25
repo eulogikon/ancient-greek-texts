@@ -4,7 +4,7 @@ title_greek: Πέρσαι
 author: Aeschylus the Tragedian
 eul_wid: emo-aj
 eul_aid: emo
-canonical: "https://eulogikon.org/grc/aeschylus/persians"
+canonical: "https://eulogikon.org/works/aeschylus-persians-emo-aj"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aeschylus the Tragedian
 
-**eul_wid:** `emo-aj` · [HTML page](https://eulogikon.org/grc/aeschylus/persians)
+**eul_wid:** `emo-aj` · [HTML page](https://eulogikon.org/works/aeschylus-persians-emo-aj)
 
 ## Text
 
@@ -700,7 +700,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### unit_53.2
 
-μήτ’ ἔπος μήτ’ ἔργον ὧν ἂν † δύναμις ἡγεῖσθαι θέλῃ·
+μήτ’ ἔπος μήτ’ ἔργον ὧν ἂν δύναμις ἡγεῖσθαι θέλῃ·
 
 ### 175
 
@@ -948,7 +948,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 235.2
 
-Χο.† καὶ στρατὸς τοιοῦτος †, ἔρξας πολλὰ δὴ Μήδους κακά.
+Χο. καὶ στρατὸς τοιοῦτος , ἔρξας πολλὰ δὴ Μήδους κακά.
 
 ### 235.3
 
@@ -1132,7 +1132,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 280.4
 
-† ἔθεσαν· αἰαῖ, στρατοῦ φθαρέντος.
+ἔθεσαν· αἰαῖ, στρατοῦ φθαρέντος.
 
 ### 283
 
@@ -1248,7 +1248,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 310.3
 
-Ἀρκτεύς, Ἀδεύης, καὶ † φρεσεύης τρίτος
+Ἀρκτεύς, Ἀδεύης, καὶ φρεσεύης τρίτος
 
 ### 310.4
 
@@ -1552,7 +1552,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 385.4
 
-πρῶτον μὲν † ἠχῇ κέλαδος Ἑλλήνων πάρα
+πρῶτον μὲν ἠχῇ κέλαδος Ἑλλήνων πάρα
 
 ### 385.5
 
@@ -2936,7 +2936,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 730.3
 
-Βα.Βακτρίων δ’ ἔρρει πανώλης δῆμος † οὐδέ τις γέρων.
+Βα.Βακτρίων δ’ ἔρρει πανώλης δῆμος οὐδέ τις γέρων.
 
 ### 730.4
 
@@ -3344,7 +3344,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 830.5
 
-λαβοῦς’ ὑπαντίαζε παιδί. † πάντα γὰρ
+λαβοῦς’ ὑπαντίαζε παιδί. πάντα γὰρ
 
 ### 835.1
 
@@ -3408,7 +3408,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### unit_248.1
 
-ὑπαντιάζειν † ἐμῷ παιδὶ πειράσομαι. †
+ὑπαντιάζειν ἐμῷ παιδὶ πειράσομαι.
 
 ### unit_248.2
 
@@ -3564,7 +3564,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### unit_271
 
-Ἑλλάνων ἐκράτυνε † σφετέραις φρεσίν.
+Ἑλλάνων ἐκράτυνε σφετέραις φρεσίν.
 
 ### 901-902
 
@@ -3656,7 +3656,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 921.3
 
-σάκτορι Περσᾶν· † ἀγδαβάται γὰρ
+σάκτορι Περσᾶν· ἀγδαβάται γὰρ
 
 ### 925.1
 

@@ -4,7 +4,7 @@ title_greek: Ἐπίγραμμα
 author: Antigonus of Carystus
 eul_wid: knc-ac
 eul_aid: knc
-canonical: "https://eulogikon.org/grc/antigonus-of-carystus/epigram"
+canonical: "https://eulogikon.org/works/antigonus-carystus-epigram-knc-ac"
 period: Hellenistic
 dialect: Koine
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Antigonus of Carystus
 
-**eul_wid:** `knc-ac` · [HTML page](https://eulogikon.org/grc/antigonus-of-carystus/epigram)
+**eul_wid:** `knc-ac` · [HTML page](https://eulogikon.org/works/antigonus-carystus-epigram-knc-ac)
 
 ## Text
 

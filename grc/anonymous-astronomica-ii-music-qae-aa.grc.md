@@ -4,7 +4,7 @@ title_greek: Εἰσαγωγὴ εἰς τὴν Μουσικήν
 author: Astronomical Work Anonymous II
 eul_wid: qae-aa
 eul_aid: qae
-canonical: "https://eulogikon.org/grc/anonymous-astronomica-ii/music"
+canonical: "https://eulogikon.org/works/anon-astronomica-ii-music-qae-aa"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Astronomical Work Anonymous II
 
-**eul_wid:** `qae-aa` · [HTML page](https://eulogikon.org/grc/anonymous-astronomica-ii/music)
+**eul_wid:** `qae-aa` · [HTML page](https://eulogikon.org/works/anon-astronomica-ii-music-qae-aa)
 
 ## Text
 

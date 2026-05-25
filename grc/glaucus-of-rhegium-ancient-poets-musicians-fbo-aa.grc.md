@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Glaucus of Rhegium
 eul_wid: fbo-aa
 eul_aid: fbo
-canonical: "https://eulogikon.org/grc/glaucus-of-rhegium/ancient-poets-musicians"
+canonical: "https://eulogikon.org/works/glaucus-rhegium-ancient-poets-musicians-fbo-aa"
 period: Classical
 dialect: Doric
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Glaucus of Rhegium
 
-**eul_wid:** `fbo-aa` · [HTML page](https://eulogikon.org/grc/glaucus-of-rhegium/ancient-poets-musicians)
+**eul_wid:** `fbo-aa` · [HTML page](https://eulogikon.org/works/glaucus-rhegium-ancient-poets-musicians-fbo-aa)
 
 ## Text
 

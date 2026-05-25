@@ -4,7 +4,7 @@ title_greek: Ἐπιστολὴ Ἀππιανοῦ πρὸς Φρόντωνα
 author: Appian of Alexandria
 eul_wid: pdc-ac
 eul_aid: pdc
-canonical: "https://eulogikon.org/grc/appian-of-alexandria/letter-fronto"
+canonical: "https://eulogikon.org/works/appian-alexandria-letter-fronto-pdc-ac"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Appian of Alexandria
 
-**eul_wid:** `pdc-ac` · [HTML page](https://eulogikon.org/grc/appian-of-alexandria/letter-fronto)
+**eul_wid:** `pdc-ac` · [HTML page](https://eulogikon.org/works/appian-alexandria-letter-fronto-pdc-ac)
 
 ## Text
 
@@ -40,7 +40,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### ad Front 5
 
-ἀλλ’ οὐκ εἰσὶ ταῦτα βαρύτερα λαμβάνειν; τί γάρ ἐστι φιλίας καὶ τιμῆς βαρύτερον, ὧν οὐδ’ ἴσως γ’ ἄρειον οὐδέν ἐστιν; τί δὲ καὶ βαρὺ ἦν ὅλως ἢ τί ἂν ἐγὼ βαρὺ ἔχοιμι; οὐδ’ ἂν μὲν ἐργασαίμην οὐδὲν οὐδὲ πριαίμην οὐδέποτε, † δέον τινὰ μισθὸν ἴσον † ἐξ οἴκου, φασίν, ἐς οἶκον μετελθεῖν.
+ἀλλ’ οὐκ εἰσὶ ταῦτα βαρύτερα λαμβάνειν; τί γάρ ἐστι φιλίας καὶ τιμῆς βαρύτερον, ὧν οὐδ’ ἴσως γ’ ἄρειον οὐδέν ἐστιν; τί δὲ καὶ βαρὺ ἦν ὅλως ἢ τί ἂν ἐγὼ βαρὺ ἔχοιμι; οὐδ’ ἂν μὲν ἐργασαίμην οὐδὲν οὐδὲ πριαίμην οὐδέποτε, δέον τινὰ μισθὸν ἴσον ἐξ οἴκου, φασίν, ἐς οἶκον μετελθεῖν.
 
 ### ad Front 6
 

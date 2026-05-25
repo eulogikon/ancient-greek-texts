@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Hegesander Delphicus
 eul_wid: jwe-aa
 eul_aid: jwe
-canonical: "https://eulogikon.org/grc/hegesander-delphicus/plato-character"
+canonical: "https://eulogikon.org/works/hegesander-delphicus-plato-character-jwe-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hegesander Delphicus
 
-**eul_wid:** `jwe-aa` · [HTML page](https://eulogikon.org/grc/hegesander-delphicus/plato-character)
+**eul_wid:** `jwe-aa` · [HTML page](https://eulogikon.org/works/hegesander-delphicus-plato-character-jwe-aa)
 
 ## Text
 

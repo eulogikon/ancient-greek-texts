@@ -4,7 +4,7 @@ title_greek: Ἰσοκρατης Ἀθηναῖος
 author: Dionysius of Halicarnassus
 eul_wid: ndy-ag
 eul_aid: ndy
-canonical: "https://eulogikon.org/grc/dionysius-of-halicarnassus/isocrates"
+canonical: "https://eulogikon.org/works/dionysius-halicarnassus-isocrates-ndy-ag"
 period: Hellenistic
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dionysius of Halicarnassus
 
-**eul_wid:** `ndy-ag` · [HTML page](https://eulogikon.org/grc/dionysius-of-halicarnassus/isocrates)
+**eul_wid:** `ndy-ag` · [HTML page](https://eulogikon.org/works/dionysius-halicarnassus-isocrates-ndy-ag)
 
 ## Text
 

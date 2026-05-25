@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Βίου Καθημερινοῦ
 author: Callias the Comic Poet
 eul_wid: dkc-ab
 eul_aid: dkc
-canonical: "https://eulogikon.org/grc/callias-the-comic-poet/daily-life"
+canonical: "https://eulogikon.org/works/callias-comic-daily-life-dkc-ab"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Callias the Comic Poet
 
-**eul_wid:** `dkc-ab` · [HTML page](https://eulogikon.org/grc/callias-the-comic-poet/daily-life)
+**eul_wid:** `dkc-ab` · [HTML page](https://eulogikon.org/works/callias-comic-daily-life-dkc-ab)
 
 ## Text
 

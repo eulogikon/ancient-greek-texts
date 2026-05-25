@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα καὶ Τίτλοι
 author: Aratus of Soli
 eul_wid: hte-aa
 eul_aid: hte
-canonical: "https://eulogikon.org/grc/aratus-of-soli/fragments"
+canonical: "https://eulogikon.org/works/aratus-soli-fragments-hte-aa"
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aratus of Soli
 
-**eul_wid:** `hte-aa` · [HTML page](https://eulogikon.org/grc/aratus-of-soli/fragments)
+**eul_wid:** `hte-aa` · [HTML page](https://eulogikon.org/works/aratus-soli-fragments-hte-aa)
 
 ## Text
 

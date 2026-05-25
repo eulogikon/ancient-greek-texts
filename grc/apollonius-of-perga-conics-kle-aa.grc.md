@@ -4,7 +4,7 @@ title_greek: Κωνικά
 author: Apollonius of Perga
 eul_wid: kle-aa
 eul_aid: kle
-canonical: "https://eulogikon.org/grc/apollonius-of-perga/conics"
+canonical: "https://eulogikon.org/works/apollonius-perga-conics-kle-aa"
 period: Hellenistic
 dialect: Technical Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Apollonius of Perga
 
-**eul_wid:** `kle-aa` · [HTML page](https://eulogikon.org/grc/apollonius-of-perga/conics)
+**eul_wid:** `kle-aa` · [HTML page](https://eulogikon.org/works/apollonius-perga-conics-kle-aa)
 
 ## Text
 

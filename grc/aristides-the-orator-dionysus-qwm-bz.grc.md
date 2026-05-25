@@ -4,7 +4,7 @@ title_greek: Διόνυσος
 author: Aristides the Orator
 eul_wid: qwm-bz
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/dionysus"
+canonical: "https://eulogikon.org/works/aristides-orator-dionysus-qwm-bz"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-bz` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/dionysus)
+**eul_wid:** `qwm-bz` · [HTML page](https://eulogikon.org/works/aristides-orator-dionysus-qwm-bz)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: "Demetrius the Younger "
 eul_wid: khs-ab
 eul_aid: khs
-canonical: "https://eulogikon.org/grc/demetrius-the-younger/tyrant-art"
+canonical: "https://eulogikon.org/works/demetrius-younger-tyrant-art-khs-ab"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demetrius the Younger 
 
-**eul_wid:** `khs-ab` · [HTML page](https://eulogikon.org/grc/demetrius-the-younger/tyrant-art)
+**eul_wid:** `khs-ab` · [HTML page](https://eulogikon.org/works/demetrius-younger-tyrant-art-khs-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: ἐκ τῆς βασιλικῆς
 author: Appian of Alexandria
 eul_wid: pdc-aj
 eul_aid: pdc
-canonical: "https://eulogikon.org/grc/appian-of-alexandria/from-royal"
+canonical: "https://eulogikon.org/works/appian-alexandria-from-royal-pdc-aj"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Appian of Alexandria
 
-**eul_wid:** `pdc-aj` · [HTML page](https://eulogikon.org/grc/appian-of-alexandria/from-royal)
+**eul_wid:** `pdc-aj` · [HTML page](https://eulogikon.org/works/appian-alexandria-from-royal-pdc-aj)
 
 ## Text
 

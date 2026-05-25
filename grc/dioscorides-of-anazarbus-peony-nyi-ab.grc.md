@@ -4,7 +4,7 @@ title_greek: Περὶ παιωνίας καὶ ὅσα ποιεῖν δύνατ
 author: Dioscorides of Anazarbus
 eul_wid: nyi-ab
 eul_aid: nyi
-canonical: "https://eulogikon.org/grc/dioscorides-of-anazarbus/peony"
+canonical: "https://eulogikon.org/works/dioscorides-anazarbus-peony-nyi-ab"
 period: Roman
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dioscorides of Anazarbus
 
-**eul_wid:** `nyi-ab` · [HTML page](https://eulogikon.org/grc/dioscorides-of-anazarbus/peony)
+**eul_wid:** `nyi-ab` · [HTML page](https://eulogikon.org/works/dioscorides-anazarbus-peony-nyi-ab)
 
 ## Text
 

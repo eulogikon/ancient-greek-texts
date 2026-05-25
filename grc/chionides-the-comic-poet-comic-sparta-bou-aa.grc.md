@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τοῦ Σπαρτιατικοῦ
 author: Chionides the Comic Poet
 eul_wid: bou-aa
 eul_aid: bou
-canonical: "https://eulogikon.org/grc/chionides-the-comic-poet/comic-sparta"
+canonical: "https://eulogikon.org/works/chionides-comic-sparta-bou-aa"
 period: Archaic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Chionides the Comic Poet
 
-**eul_wid:** `bou-aa` · [HTML page](https://eulogikon.org/grc/chionides-the-comic-poet/comic-sparta)
+**eul_wid:** `bou-aa` · [HTML page](https://eulogikon.org/works/chionides-comic-sparta-bou-aa)
 
 ## Text
 

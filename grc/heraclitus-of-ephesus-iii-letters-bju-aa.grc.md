@@ -4,7 +4,7 @@ title_greek: Ἐπιστολαὶ πρὸς Ἡράκλειτον
 author: Heraclitus of Ephesus III
 eul_wid: bju-aa
 eul_aid: bju
-canonical: "https://eulogikon.org/grc/heraclitus-of-ephesus-iii/letters"
+canonical: "https://eulogikon.org/works/heraclitus-ephesus-letters-bju-aa"
 period: Archaic
 dialect: Ionic (frg)
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Heraclitus of Ephesus III
 
-**eul_wid:** `bju-aa` · [HTML page](https://eulogikon.org/grc/heraclitus-of-ephesus-iii/letters)
+**eul_wid:** `bju-aa` · [HTML page](https://eulogikon.org/works/heraclitus-ephesus-letters-bju-aa)
 
 ## Text
 

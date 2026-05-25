@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Archinus the Historian
 eul_wid: cnu-aa
 eul_aid: cnu
-canonical: "https://eulogikon.org/grc/archinus-the-historian/geography-myths"
+canonical: "https://eulogikon.org/works/archinus-geography-myths-cnu-aa"
 period: Classical
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Archinus the Historian
 
-**eul_wid:** `cnu-aa` · [HTML page](https://eulogikon.org/grc/archinus-the-historian/geography-myths)
+**eul_wid:** `cnu-aa` · [HTML page](https://eulogikon.org/works/archinus-geography-myths-cnu-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ Ἀπίστων
 author: Antonius Diogenes the Erotic Writer
 eul_wid: qhw-ac
 eul_aid: qhw
-canonical: "https://eulogikon.org/grc/antonius-diogenes/incredible-things-ac"
+canonical: "https://eulogikon.org/works/antonius-diogenes-incredible-things-qhw-ac"
 period: Roman
 dialect: Koine
 domain: Fiction
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Antonius Diogenes the Erotic Writer
 
-**eul_wid:** `qhw-ac` · [HTML page](https://eulogikon.org/grc/antonius-diogenes/incredible-things-ac)
+**eul_wid:** `qhw-ac` · [HTML page](https://eulogikon.org/works/antonius-diogenes-incredible-things-qhw-ac)
 
 ## Text
 
 ### 1
 
-“ἡ μὲν ἐπιστολὴ ταῦτα ἐδήλ̣ου. ἐγὼ δὲ πῶς ἄ[ν σ]ο̣ι̣, ὦ Δεινία, τὸ̣ μέ̣[γ]α̣ λέξ̣α[ιμ]ι̣,” ἔ̣ φη̣ [ἡ Δ]ερκυ̣[λλίς, “τί] ν̣α [καρ]δίαν̣ λα[βοῦ] σ̣[α] τ̣ί̣ν̣α φωνὴ[ν οὕ] τω γενναίαν· προεῖμαι ἤδη τοῖς ἐμαυ τῆς̣ κακ̣[οῖ]ς π .. [] . τ̣[ .. ]τ̣ε̣, [ἐ]ὰν̣ [μ]έ̣νω̣[μ]εν []ν ε̣ὐθὺς κατε[] . σπουδῆι βου[] ... [ . ] ..
+“ἡ μὲν ἐπιστολὴ ταῦτα ἐδήλου. ἐγὼ δὲ πῶς ἄ[ν σ]οι, ὦ Δεινία, τὸ μέ[γ]α λέξα[ιμ]ι,” ἔ φη [ἡ Δ]ερκυ[λλίς, “τί] να [καρ]δίαν λα[βοῦ] σ[α] τίνα φωνὴ[ν οὕ] τω γενναίαν· προεῖμαι ἤδη τοῖς ἐμαυ τῆς κακ[οῖ]ς π .. [] . τ[ .. ]τε, [ἐ]ὰν [μ]ένω[μ]εν []ν εὐθὺς κατε[] . σπουδῆι βου[] ... [ . ] ..
 
 ### 2
 

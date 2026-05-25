@@ -4,7 +4,7 @@ title_greek: Περὶ κλίσεως ὀνομάτων
 author: Herodian of Alexandria
 eul_wid: qnq-at
 eul_aid: qnq
-canonical: "https://eulogikon.org/grc/herodian-of-alexandria/declension-names"
+canonical: "https://eulogikon.org/works/herodian-alexandria-declension-names-qnq-at"
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Herodian of Alexandria
 
-**eul_wid:** `qnq-at` · [HTML page](https://eulogikon.org/grc/herodian-of-alexandria/declension-names)
+**eul_wid:** `qnq-at` · [HTML page](https://eulogikon.org/works/herodian-alexandria-declension-names-qnq-at)
 
 ## Text
 

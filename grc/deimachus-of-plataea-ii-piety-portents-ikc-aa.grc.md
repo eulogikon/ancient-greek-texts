@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Deimachus of Plataea II
 eul_wid: ikc-aa
 eul_aid: ikc
-canonical: "https://eulogikon.org/grc/deimachus-of-plataea-ii/piety-portents"
+canonical: "https://eulogikon.org/works/deimachus-plataea-piety-portents-ikc-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Deimachus of Plataea II
 
-**eul_wid:** `ikc-aa` · [HTML page](https://eulogikon.org/grc/deimachus-of-plataea-ii/piety-portents)
+**eul_wid:** `ikc-aa` · [HTML page](https://eulogikon.org/works/deimachus-plataea-piety-portents-ikc-aa)
 
 ## Text
 

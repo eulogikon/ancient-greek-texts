@@ -4,7 +4,7 @@ title_greek: Περὶ Ζῴων Κινήσεως
 author: Aristotle
 eul_wid: hgw-ak
 eul_aid: hgw
-canonical: "https://eulogikon.org/grc/aristotle/movement-animals"
+canonical: "https://eulogikon.org/works/aristotle-movement-animals-hgw-ak"
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristotle
 
-**eul_wid:** `hgw-ak` · [HTML page](https://eulogikon.org/grc/aristotle/movement-animals)
+**eul_wid:** `hgw-ak` · [HTML page](https://eulogikon.org/works/aristotle-movement-animals-hgw-ak)
 
 ## Text
 

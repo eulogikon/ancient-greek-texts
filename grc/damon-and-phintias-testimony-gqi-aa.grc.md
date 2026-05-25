@@ -4,7 +4,7 @@ title_greek: Μαρτυρία
 author: Damon and Phintias
 eul_wid: gqi-aa
 eul_aid: gqi
-canonical: "https://eulogikon.org/grc/damon-and-phintias/testimony"
+canonical: "https://eulogikon.org/works/damon-phintias-testimony-gqi-aa"
 period: Classical
 dialect: Doric
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Damon and Phintias
 
-**eul_wid:** `gqi-aa` · [HTML page](https://eulogikon.org/grc/damon-and-phintias/testimony)
+**eul_wid:** `gqi-aa` · [HTML page](https://eulogikon.org/works/damon-phintias-testimony-gqi-aa)
 
 ## Text
 

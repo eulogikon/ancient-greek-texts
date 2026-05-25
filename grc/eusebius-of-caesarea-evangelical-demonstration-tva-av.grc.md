@@ -4,7 +4,7 @@ title_greek: Ἐπίδειξις Εὐαγγελική
 author: Eusebius of Caesarea
 eul_wid: tva-av
 eul_aid: tva
-canonical: "https://eulogikon.org/grc/eusebius-of-caesarea/evangelical-demonstration"
+canonical: "https://eulogikon.org/works/eusebius-caesarea-evangelical-demonstration-tva-av"
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Eusebius of Caesarea
 
-**eul_wid:** `tva-av` · [HTML page](https://eulogikon.org/grc/eusebius-of-caesarea/evangelical-demonstration)
+**eul_wid:** `tva-av` · [HTML page](https://eulogikon.org/works/eusebius-caesarea-evangelical-demonstration-tva-av)
 
 ## Text
 
@@ -80,7 +80,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 2.3
 
-‟Τάδε λέγει κύριος, στῆτε ἐν ταῖς ὁδοῖς, ἴδετε, καὶ ἐρωτήσατε τρίβους κυρίου αἰωνίους, καὶ ἴδετε ποία ἐστὶν ἡ ὁδὸς ἡ ἀγαθὴ καὶ βαδίζετε ἐν αὐτῆ̣, καὶ εὑρήσετε ἁγνισμὸν ταῖς ψυχαῖς ὑμῶν· καὶ εἶπαν, οὐ πορευσόμεθα. καθέστακα ἐφ’ ὑμὰς σκοποῦς, ἀκούσατε τῆς φωνῆς τῆς σάλπιγγος καὶ εἶπαν, οὐκ ἀκουσόμεθα. διὰ τοῦτο ἥκουσαν τὰ ἔθνη, καὶ οἱ ποιμαίνοντες τὰ ποίμνια ἐν αὐτοῖς.”
+‟Τάδε λέγει κύριος, στῆτε ἐν ταῖς ὁδοῖς, ἴδετε, καὶ ἐρωτήσατε τρίβους κυρίου αἰωνίους, καὶ ἴδετε ποία ἐστὶν ἡ ὁδὸς ἡ ἀγαθὴ καὶ βαδίζετε ἐν αὐτῆ, καὶ εὑρήσετε ἁγνισμὸν ταῖς ψυχαῖς ὑμῶν· καὶ εἶπαν, οὐ πορευσόμεθα. καθέστακα ἐφ’ ὑμὰς σκοποῦς, ἀκούσατε τῆς φωνῆς τῆς σάλπιγγος καὶ εἶπαν, οὐκ ἀκουσόμεθα. διὰ τοῦτο ἥκουσαν τὰ ἔθνη, καὶ οἱ ποιμαίνοντες τὰ ποίμνια ἐν αὐτοῖς.”
 
 ### 3.praef
 

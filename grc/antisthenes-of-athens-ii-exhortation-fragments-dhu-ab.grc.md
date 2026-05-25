@@ -4,7 +4,7 @@ title_greek: Ὀδυσσεὺς ἢ Ὀδυσσέως λόγος
 author: Antisthenes of Athens II
 eul_wid: dhu-ab
 eul_aid: dhu
-canonical: "https://eulogikon.org/grc/antisthenes-of-athens-ii/exhortation-fragments"
+canonical: "https://eulogikon.org/works/antisthenes-athens-exhortation-fragments-dhu-ab"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Antisthenes of Athens II
 
-**eul_wid:** `dhu-ab` · [HTML page](https://eulogikon.org/grc/antisthenes-of-athens-ii/exhortation-fragments)
+**eul_wid:** `dhu-ab` · [HTML page](https://eulogikon.org/works/antisthenes-athens-exhortation-fragments-dhu-ab)
 
 ## Text
 
@@ -464,7 +464,7 @@ XENOPHON symp. IV, 56—64. Ὁμολογησώμεθα πρῶτον ποῖά 
 
 ### 107 (50)
 
-δύνασθαι φίλας ποιεῖν καὶ γάμους ἐπιτηδείους συνάγειν, καὶ πολλοῦ ἂν ἄξιος εἶναι καὶ † πόλεσι καὶ φίλοις καὶ συμμάχοις † κεκτῆσθαι. σὺ δὲ ὡς κακῶς ἀκούσας ὅτι ἀγαθόν σε ἔφην προαγωγὸν εἶναι, ὠργίσθης. Ἀλλὰ μὰ Δί’, ἔφη, οὐ νῦν. ἐὰν γὰρ ταῦτα δύνωμαι, σεσαγμένος δὴ παντάπασι πλούτου τὴν ψυχὴν ἔσομαι.
+δύνασθαι φίλας ποιεῖν καὶ γάμους ἐπιτηδείους συνάγειν, καὶ πολλοῦ ἂν ἄξιος εἶναι καὶ πόλεσι καὶ φίλοις καὶ συμμάχοις κεκτῆσθαι. σὺ δὲ ὡς κακῶς ἀκούσας ὅτι ἀγαθόν σε ἔφην προαγωγὸν εἶναι, ὠργίσθης. Ἀλλὰ μὰ Δί’, ἔφη, οὐ νῦν. ἐὰν γὰρ ταῦτα δύνωμαι, σεσαγμένος δὴ παντάπασι πλούτου τὴν ψυχὴν ἔσομαι.
 
 ### 108a
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Σιτίων καὶ Ποτῶν
 author: Heniochus the Comic Poet
 eul_wid: fdm-aa
 eul_aid: fdm
-canonical: "https://eulogikon.org/grc/heniochus-the-comic-poet/comic-food-drink"
+canonical: "https://eulogikon.org/works/heniochus-comic-food-drink-fdm-aa"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Heniochus the Comic Poet
 
-**eul_wid:** `fdm-aa` · [HTML page](https://eulogikon.org/grc/heniochus-the-comic-poet/comic-food-drink)
+**eul_wid:** `fdm-aa` · [HTML page](https://eulogikon.org/works/heniochus-comic-food-drink-fdm-aa)
 
 ## Text
 

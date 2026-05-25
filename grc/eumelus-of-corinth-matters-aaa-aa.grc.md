@@ -4,7 +4,7 @@ title_greek: Κορινθιακὰ Πράγματα
 author: Eumelus of Corinth
 eul_wid: aaa-aa
 eul_aid: aaa
-canonical: "https://eulogikon.org/grc/eumelus-of-corinth/matters"
+canonical: "https://eulogikon.org/works/eumelus-corinth-matters-aaa-aa"
 period: Archaic
 dialect: Epic (Homeric) (frg)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Eumelus of Corinth
 
-**eul_wid:** `aaa-aa` · [HTML page](https://eulogikon.org/grc/eumelus-of-corinth/matters)
+**eul_wid:** `aaa-aa` · [HTML page](https://eulogikon.org/works/eumelus-corinth-matters-aaa-aa)
 
 ## Text
 

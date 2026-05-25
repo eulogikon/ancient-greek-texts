@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Diotimus of Adramyttium
 eul_wid: jxs-aa
 eul_aid: jxs
-canonical: "https://eulogikon.org/grc/diotimus-of-adramyttium/epigrams"
+canonical: "https://eulogikon.org/works/diotimus-adramyttium-epigrams-jxs-aa"
 period: Hellenistic
 dialect: Epic (Homeric) (frg)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Diotimus of Adramyttium
 
-**eul_wid:** `jxs-aa` · [HTML page](https://eulogikon.org/grc/diotimus-of-adramyttium/epigrams)
+**eul_wid:** `jxs-aa` · [HTML page](https://eulogikon.org/works/diotimus-adramyttium-epigrams-jxs-aa)
 
 ## Text
 

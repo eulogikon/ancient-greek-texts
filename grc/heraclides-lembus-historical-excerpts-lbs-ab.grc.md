@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Heraclides Lembus the Historian
 eul_wid: lbs-ab
 eul_aid: lbs
-canonical: "https://eulogikon.org/grc/heraclides-lembus/historical-excerpts"
+canonical: "https://eulogikon.org/works/heraclides-lembus-historical-excerpts-lbs-ab"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Heraclides Lembus the Historian
 
-**eul_wid:** `lbs-ab` · [HTML page](https://eulogikon.org/grc/heraclides-lembus/historical-excerpts)
+**eul_wid:** `lbs-ab` · [HTML page](https://eulogikon.org/works/heraclides-lembus-historical-excerpts-lbs-ab)
 
 ## Text
 

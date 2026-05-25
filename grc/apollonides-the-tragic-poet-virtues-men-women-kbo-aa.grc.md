@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Apollonides the Tragic Poet
 eul_wid: kbo-aa
 eul_aid: kbo
-canonical: "https://eulogikon.org/grc/apollonides-the-tragic-poet/virtues-men-women"
+canonical: "https://eulogikon.org/works/apollonides-virtues-men-women-kbo-aa"
 period: Hellenistic
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Apollonides the Tragic Poet
 
-**eul_wid:** `kbo-aa` · [HTML page](https://eulogikon.org/grc/apollonides-the-tragic-poet/virtues-men-women)
+**eul_wid:** `kbo-aa` · [HTML page](https://eulogikon.org/works/apollonides-virtues-men-women-kbo-aa)
 
 ## Text
 

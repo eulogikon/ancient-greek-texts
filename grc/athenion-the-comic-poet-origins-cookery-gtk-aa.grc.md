@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Athenion the Comic Poet
 eul_wid: gtk-aa
 eul_aid: gtk
-canonical: "https://eulogikon.org/grc/athenion-the-comic-poet/origins-cookery"
+canonical: "https://eulogikon.org/works/athenion-origins-cookery-gtk-aa"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Athenion the Comic Poet
 
-**eul_wid:** `gtk-aa` · [HTML page](https://eulogikon.org/grc/athenion-the-comic-poet/origins-cookery)
+**eul_wid:** `gtk-aa` · [HTML page](https://eulogikon.org/works/athenion-origins-cookery-gtk-aa)
 
 ## Text
 

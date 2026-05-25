@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Δικαιοσύνης
 author: Aristophanes of Athens
 eul_wid: daw-ah
 eul_aid: daw
-canonical: "https://eulogikon.org/grc/aristophanes-of-athens/justice-fragments"
+canonical: "https://eulogikon.org/works/aristophanes-athens-justice-fragments-daw-ah"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristophanes of Athens
 
-**eul_wid:** `daw-ah` · [HTML page](https://eulogikon.org/grc/aristophanes-of-athens/justice-fragments)
+**eul_wid:** `daw-ah` · [HTML page](https://eulogikon.org/works/aristophanes-athens-justice-fragments-daw-ah)
 
 ## Text
 
@@ -112,7 +112,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 19.1
 
-⏓–⏑ ‚ὡc πικρόν‛ τιc ἀνέκραγ’ [–⏑⏓ ‚[οὐ δή]ποτ’ ἄλλοc ἐcτὶν ἀντὶ Φ[ιλοκλέουc]. c[υ]ν[ε]χῶc αὐτὸν
+– ‚ὡc πικρόν‛ τιc ἀνέκραγ’ [– ‚[οὐ δή]ποτ’ ἄλλοc ἐcτὶν ἀντὶ Φ[ιλοκλέουc]. c[υ]ν[ε]χῶc αὐτὸν
 
 ### book 19.2
 
@@ -120,7 +120,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 20
 
-ο̣ὐκ ἐτόc
+οὐκ ἐτόc
 
 ### book 21.1
 
@@ -136,7 +136,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 22.2
 
-πελεκᾶc πλατυγ̣ίζω̣ν·
+πελεκᾶc πλατυγίζων·
 
 ### book 23.1
 
@@ -148,7 +148,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 24
 
-οἴμοι τῆc ἁλέα̣c, ἣν ἅνθρωπόc μ’ ἀποδύcαc φεύγε̣[ι] cυγκύψαc—
+οἴμοι τῆc ἁλέαc, ἣν ἅνθρωπόc μ’ ἀποδύcαc φεύγε[ι] cυγκύψαc—
 
 ### book 25.1
 
@@ -160,7 +160,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 26
 
-φέρε νῦν ἐγ̣[ὼ τ]ὴ̣ν δαίμον’ ἣν ἀνήγαγον, ἐc τὴν [ἀγο]ρ̣ὰν ἄγων ἱδρύcωμαι βοΐ.
+φέρε νῦν ἐγ[ὼ τ]ὴν δαίμον’ ἣν ἀνήγαγον, ἐc τὴν [ἀγο]ρὰν ἄγων ἱδρύcωμαι βοΐ.
 
 ### book 27
 
@@ -172,7 +172,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 28.2
 
-ταχέωc ὑπακ̣ούειν·
+ταχέωc ὑπακούειν·
 
 ### book 29
 
@@ -180,7 +180,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 30.1
 
-ἔκυcα νῦν ἐνταῦθ’ ἐγ̣ὼ τ̣αύτην δοκῶν
+ἔκυcα νῦν ἐνταῦθ’ ἐγὼ ταύτην δοκῶν
 
 ### book 30.2
 
@@ -200,7 +200,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 33a
 
-δι’ ἧc τὰ λ̣[επ]τ̣ὰ ῥήματ’ [ἐξεc]μήχετο.
+δι’ ἧc τὰ λ[επ]τὰ ῥήματ’ [ἐξεc]μήχετο.
 
 ### book 33b
 

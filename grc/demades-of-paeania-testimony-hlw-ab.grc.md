@@ -4,7 +4,7 @@ title_greek: Μαρτυρία
 author: Demades of Paeania
 eul_wid: hlw-ab
 eul_aid: hlw
-canonical: "https://eulogikon.org/grc/demades-of-paeania/testimony"
+canonical: "https://eulogikon.org/works/demades-paeania-testimony-hlw-ab"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demades of Paeania
 
-**eul_wid:** `hlw-ab` · [HTML page](https://eulogikon.org/grc/demades-of-paeania/testimony)
+**eul_wid:** `hlw-ab` · [HTML page](https://eulogikon.org/works/demades-paeania-testimony-hlw-ab)
 
 ## Text
 

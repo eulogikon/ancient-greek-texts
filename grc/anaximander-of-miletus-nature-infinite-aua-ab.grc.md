@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Anaximander of Miletus
 eul_wid: aua-ab
 eul_aid: aua
-canonical: "https://eulogikon.org/grc/anaximander-of-miletus/nature-infinite"
+canonical: "https://eulogikon.org/works/anaximander-miletus-nature-infinite-aua-ab"
 period: Archaic
 dialect: Ionic (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Anaximander of Miletus
 
-**eul_wid:** `aua-ab` · [HTML page](https://eulogikon.org/grc/anaximander-of-miletus/nature-infinite)
+**eul_wid:** `aua-ab` · [HTML page](https://eulogikon.org/works/anaximander-miletus-nature-infinite-aua-ab)
 
 ## Text
 

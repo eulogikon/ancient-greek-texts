@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Basilides of Alexandria
 eul_wid: pdw-aa
 eul_aid: pdw
-canonical: "https://eulogikon.org/grc/basilides-of-alexandria/incorporeal"
+canonical: "https://eulogikon.org/works/basilides-alexandria-incorporeal-pdw-aa"
 period: Roman
 dialect: Christian Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Basilides of Alexandria
 
-**eul_wid:** `pdw-aa` · [HTML page](https://eulogikon.org/grc/basilides-of-alexandria/incorporeal)
+**eul_wid:** `pdw-aa` · [HTML page](https://eulogikon.org/works/basilides-alexandria-incorporeal-pdw-aa)
 
 ## Text
 

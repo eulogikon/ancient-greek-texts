@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Hecataeus of Abdera
 eul_wid: hoe-ad
 eul_aid: hoe
-canonical: "https://eulogikon.org/grc/hecataeus-of-abdera/hyperboreans"
+canonical: "https://eulogikon.org/works/hecataeus-abdera-hyperboreans-hoe-ad"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hecataeus of Abdera
 
-**eul_wid:** `hoe-ad` · [HTML page](https://eulogikon.org/grc/hecataeus-of-abdera/hyperboreans)
+**eul_wid:** `hoe-ad` · [HTML page](https://eulogikon.org/works/hecataeus-abdera-hyperboreans-hoe-ad)
 
 ## Text
 

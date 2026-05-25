@@ -4,7 +4,7 @@ title_greek: Ἄλκηστις
 author: Euripides
 eul_wid: cbm-aq
 eul_aid: cbm
-canonical: "https://eulogikon.org/grc/euripides/alcestis"
+canonical: "https://eulogikon.org/works/euripides-alcestis-cbm-aq"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euripides
 
-**eul_wid:** `cbm-aq` · [HTML page](https://eulogikon.org/grc/euripides/alcestis)
+**eul_wid:** `cbm-aq` · [HTML page](https://eulogikon.org/works/euripides-alcestis-cbm-aq)
 
 ## Text
 
@@ -388,7 +388,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 90.4
 
-—οὔ τἂν φθιμένας γ’ ἐσιώπων. —†οὐ γὰρ δὴ φροῦδός γ’ ἐξ οἴκων νέκυς ἤδη.†
+—οὔ τἂν φθιμένας γ’ ἐσιώπων. —οὐ γὰρ δὴ φροῦδός γ’ ἐξ οἴκων νέκυς ἤδη.
 
 ### 95.1
 
@@ -416,11 +416,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 95.7
 
-τομαῖος, †ἃ δὴ νεκύων
+τομαῖος, ἃ δὴ νεκύων
 
 ### 95.8
 
-πένθει πίτνει, οὐδὲ νεολαία†
+πένθει πίτνει, οὐδὲ νεολαία
 
 ### 95.9
 
@@ -432,7 +432,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 105.2
 
-—†τί τόδ’ αὐδᾶις;†
+—τί τόδ’ αὐδᾶις;
 
 ### 105.3
 
@@ -468,7 +468,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 115.2
 
-†Ἀμμωνιάδας ἕδρας†,
+Ἀμμωνιάδας ἕδρας,
 
 ### 115.3
 
@@ -524,7 +524,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 132.1
 
-[πάντα γὰρ ἤδη †τετέλεσται βασιλεῦσιν†,
+[πάντα γὰρ ἤδη τετέλεσται βασιλεῦσιν,
 
 ### 132.2
 
@@ -856,7 +856,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 215.1
 
-†ἔξεισί τις† ἢ τέμω τρίχα
+ἔξεισί τις ἢ τέμω τρίχα
 
 ### 215.2
 
@@ -892,7 +892,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 220.4
 
-†τοῦδ’ ἐφεῦρες† καὶ νῦν
+τοῦδ’ ἐφεῦρες καὶ νῦν
 
 ### 220.5
 
@@ -1304,7 +1304,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 320.1
 
-δεῖ γὰρ θανεῖν με· καὶ τόδ’ οὐκ ἐς αὔριον οὐδ’ ἐς τρίτην μοι †μηνὸς† ἔρχεται κακόν,
+δεῖ γὰρ θανεῖν με· καὶ τόδ’ οὐκ ἐς αὔριον οὐδ’ ἐς τρίτην μοι μηνὸς ἔρχεται κακόν,
 
 ### 320.2
 
@@ -1608,7 +1608,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 398.1
 
-†ἴδε γὰρ ἴδε βλέφαρον καὶ†
+ἴδε γὰρ ἴδε βλέφαρον καὶ
 
 ### 398.2
 
@@ -1620,7 +1620,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 398.4
 
-†καλοῦμαι ὁ σὸς ποτὶ σοῖσι πίτ‐ νων† στόμασιν νεοσσός.
+καλοῦμαι ὁ σὸς ποτὶ σοῖσι πίτ‐ νων στόμασιν νεοσσός.
 
 ### 398.5
 
@@ -2368,7 +2368,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 590.4
 
-ἱππόστασιν †αἰθέρα τὰν† Μολοσ‐
+ἱππόστασιν αἰθέρα τὰν Μολοσ‐
 
 ### 590.5
 
@@ -3000,7 +3000,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 755.2
 
-ποτῆρα δ’ †ἐν χείρεσσι† κίσσινον λαβὼν
+ποτῆρα δ’ ἐν χείρεσσι κίσσινον λαβὼν
 
 ### 755.3
 
@@ -3092,7 +3092,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 780.1
 
-τὰ θνητὰ πράγματ’ †οἶδας† ἣν ἔχει φύσιν;
+τὰ θνητὰ πράγματ’ οἶδας ἣν ἔχει φύσιν;
 
 ### 780.2
 

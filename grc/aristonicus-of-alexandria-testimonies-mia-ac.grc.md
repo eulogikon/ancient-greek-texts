@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Aristonicus of Alexandria
 eul_wid: mia-ac
 eul_aid: mia
-canonical: "https://eulogikon.org/grc/aristonicus-of-alexandria/testimonies"
+canonical: "https://eulogikon.org/works/aristonicus-alexandria-testimonies-mia-ac"
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristonicus of Alexandria
 
-**eul_wid:** `mia-ac` · [HTML page](https://eulogikon.org/grc/aristonicus-of-alexandria/testimonies)
+**eul_wid:** `mia-ac` · [HTML page](https://eulogikon.org/works/aristonicus-alexandria-testimonies-mia-ac)
 
 ## Text
 

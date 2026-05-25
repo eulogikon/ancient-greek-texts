@@ -4,7 +4,7 @@ title_greek: Περὶ Ζῴων Πορείας
 author: Aristotle
 eul_wid: hgw-aq
 eul_aid: hgw
-canonical: "https://eulogikon.org/grc/aristotle/gait-animals"
+canonical: "https://eulogikon.org/works/aristotle-gait-animals-hgw-aq"
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristotle
 
-**eul_wid:** `hgw-aq` · [HTML page](https://eulogikon.org/grc/aristotle/gait-animals)
+**eul_wid:** `hgw-aq` · [HTML page](https://eulogikon.org/works/aristotle-gait-animals-hgw-aq)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀχαρνῆς
 author: Aristophanes of Athens
 eul_wid: daw-ac
 eul_aid: daw
-canonical: "https://eulogikon.org/grc/aristophanes-of-athens/acharnians"
+canonical: "https://eulogikon.org/works/aristophanes-athens-acharnians-daw-ac"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristophanes of Athens
 
-**eul_wid:** `daw-ac` · [HTML page](https://eulogikon.org/grc/aristophanes-of-athens/acharnians)
+**eul_wid:** `daw-ac` · [HTML page](https://eulogikon.org/works/aristophanes-athens-acharnians-daw-ac)
 
 ## Text
 

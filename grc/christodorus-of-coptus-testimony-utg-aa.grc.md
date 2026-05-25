@@ -4,7 +4,7 @@ title_greek: Μαρτυρία
 author: Christodorus of Coptus
 eul_wid: utg-aa
 eul_aid: utg
-canonical: "https://eulogikon.org/grc/christodorus-of-coptus/testimony"
+canonical: "https://eulogikon.org/works/christodorus-coptus-testimony-utg-aa"
 period: Late Antique
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Christodorus of Coptus
 
-**eul_wid:** `utg-aa` · [HTML page](https://eulogikon.org/grc/christodorus-of-coptus/testimony)
+**eul_wid:** `utg-aa` · [HTML page](https://eulogikon.org/works/christodorus-coptus-testimony-utg-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἰνδικῆς καὶ Μερό
 author: Basilis the Historian
 eul_wid: ido-aa
 eul_aid: ido
-canonical: "https://eulogikon.org/grc/basilis-the-historian/india-meroe"
+canonical: "https://eulogikon.org/works/basilis-india-meroe-ido-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Basilis the Historian
 
-**eul_wid:** `ido-aa` · [HTML page](https://eulogikon.org/grc/basilis-the-historian/india-meroe)
+**eul_wid:** `ido-aa` · [HTML page](https://eulogikon.org/works/basilis-india-meroe-ido-aa)
 
 ## Text
 

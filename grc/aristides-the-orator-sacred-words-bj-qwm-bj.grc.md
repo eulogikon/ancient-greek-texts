@@ -4,7 +4,7 @@ title_greek: Ἱεροὶ λόγοι τρίτος
 author: Aristides the Orator
 eul_wid: qwm-bj
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/sacred-words-bj"
+canonical: "https://eulogikon.org/works/aristides-orator-sacred-words-qwm-bj"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-bj` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/sacred-words-bj)
+**eul_wid:** `qwm-bj` · [HTML page](https://eulogikon.org/works/aristides-orator-sacred-words-qwm-bj)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἰταλίας
 author: Conon the Mythographer
 eul_wid: ods-aa
 eul_aid: ods
-canonical: "https://eulogikon.org/grc/conon-the-mythographer/italy"
+canonical: "https://eulogikon.org/works/conon-mythographer-italy-ods-aa"
 period: Roman
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Conon the Mythographer
 
-**eul_wid:** `ods-aa` · [HTML page](https://eulogikon.org/grc/conon-the-mythographer/italy)
+**eul_wid:** `ods-aa` · [HTML page](https://eulogikon.org/works/conon-mythographer-italy-ods-aa)
 
 ## Text
 

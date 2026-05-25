@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τῆς Ἰταλίας
 author: Dositheus of Pelusium
 eul_wid: jga-aa
 eul_aid: jga
-canonical: "https://eulogikon.org/grc/dositheus-of-pelusium/historical-italy"
+canonical: "https://eulogikon.org/works/dositheus-pelusium-historical-italy-jga-aa"
 period: Hellenistic
 dialect: Technical Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dositheus of Pelusium
 
-**eul_wid:** `jga-aa` · [HTML page](https://eulogikon.org/grc/dositheus-of-pelusium/historical-italy)
+**eul_wid:** `jga-aa` · [HTML page](https://eulogikon.org/works/dositheus-pelusium-historical-italy-jga-aa)
 
 ## Text
 

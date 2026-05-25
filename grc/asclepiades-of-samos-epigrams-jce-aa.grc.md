@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Asclepiades of Samos
 eul_wid: jce-aa
 eul_aid: jce
-canonical: "https://eulogikon.org/grc/asclepiades-of-samos/epigrams"
+canonical: "https://eulogikon.org/works/asclepiades-samos-epigrams-jce-aa"
 period: Hellenistic
 dialect: Koine
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Asclepiades of Samos
 
-**eul_wid:** `jce-aa` · [HTML page](https://eulogikon.org/grc/asclepiades-of-samos/epigrams)
+**eul_wid:** `jce-aa` · [HTML page](https://eulogikon.org/works/asclepiades-samos-epigrams-jce-aa)
 
 ## Text
 
@@ -248,7 +248,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 181.1.1
 
-Τῶν καρύων ἡμῖν λάβε † κώλακας (ἀλλά ποθ’ ἥξει;)
+Τῶν καρύων ἡμῖν λάβε κώλακας (ἀλλά ποθ’ ἥξει;)
 
 ### book 181.1.2
 
@@ -776,7 +776,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 161.1.3
 
-ἵμερον ἀστράπτουσα κατ’ ὄμματος, † ἠδ’ ὑπὲρ ὤμων
+ἵμερον ἀστράπτουσα κατ’ ὄμματος, ἠδ’ ὑπὲρ ὤμων
 
 ### book 161.1.4
 

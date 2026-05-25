@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Κοσμογονίας
 author: Acusilaus of Argos
 eul_wid: bls-ad
 eul_aid: bls
-canonical: "https://eulogikon.org/grc/acusilaus-of-argos/cosmogony"
+canonical: "https://eulogikon.org/works/acusilaus-argos-cosmogony-bls-ad"
 period: Archaic
 dialect: Ionic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Acusilaus of Argos
 
-**eul_wid:** `bls-ad` · [HTML page](https://eulogikon.org/grc/acusilaus-of-argos/cosmogony)
+**eul_wid:** `bls-ad` · [HTML page](https://eulogikon.org/works/acusilaus-argos-cosmogony-bls-ad)
 
 ## Text
 
@@ -96,7 +96,7 @@ PHILOD. de piet. 92, 12 p. 43 G. Ὅμηρος [B 26] μὲν γὰρ οὐ μό
 
 ### 17
 
-— —III 133 Μενέλαος μὲν οὖν ἐξ Ἑλένης Ἑρμιόνην ἐγέννησε καὶ κατά τινας [Hesiod. fr. 99] Νικόστρατον, ἐκ δούλης † Πιερίδος γένος Αἰτωλίδος, ἢ καθάπερ Ἀ. φησι Τηρηίδο ς , Μεγαπένθ η .
+— —III 133 Μενέλαος μὲν οὖν ἐξ Ἑλένης Ἑρμιόνην ἐγέννησε καὶ κατά τινας [Hesiod. fr. 99] Νικόστρατον, ἐκ δούλης Πιερίδος γένος Αἰτωλίδος, ἢ καθάπερ Ἀ. φησι Τηρηίδο ς , Μεγαπένθ η .
 
 ### 18
 
@@ -196,7 +196,7 @@ PAP. OXYRHYNCH. 1611, fr. 1, 38—85 [ Oxyrh. Pap. ed. Grenfell u. Hunt vol. XII
 
 ### 41
 
-SCHOL. PIND. O. VII 42a ἔοικε δὲ ὁ Πίνδαρος ἐντετυχηκέναι τῶι †ἀχαιῶι ἱστοριογράφωι· ἐκεῖνος γὰρ οὕτως γενεαλογεῖ· Ὑπερόχης Εὐρύπυλος, οὗ Ὄρμενος, οὗ Φέρης, οὗ Ἀμύντωρ, οὗ Ἀστυδάμεια ἡ Τληπολέμου μήτηρ· καὶ αὐτὸς δὲ Ἀμύντωρ εἰς Δία τὸ γένος ἀνάγει.
+SCHOL. PIND. O. VII 42a ἔοικε δὲ ὁ Πίνδαρος ἐντετυχηκέναι τῶι ἀχαιῶι ἱστοριογράφωι· ἐκεῖνος γὰρ οὕτως γενεαλογεῖ· Ὑπερόχης Εὐρύπυλος, οὗ Ὄρμενος, οὗ Φέρης, οὗ Ἀμύντωρ, οὗ Ἀστυδάμεια ἡ Τληπολέμου μήτηρ· καὶ αὐτὸς δὲ Ἀμύντωρ εἰς Δία τὸ γένος ἀνάγει.
 
 ## License and provenance
 

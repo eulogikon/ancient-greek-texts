@@ -4,7 +4,7 @@ title_greek: "Μαρτυρία καὶ Ἀπόσπασμα Β'"
 author: Callisthenes of Olynthus
 eul_wid: fsw-aa
 eul_aid: fsw
-canonical: "https://eulogikon.org/grc/callisthenes-of-olynthus/testimonies-aa"
+canonical: "https://eulogikon.org/works/callisthenes-olynthus-testimonies-fsw-aa"
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Callisthenes of Olynthus
 
-**eul_wid:** `fsw-aa` · [HTML page](https://eulogikon.org/grc/callisthenes-of-olynthus/testimonies-aa)
+**eul_wid:** `fsw-aa` · [HTML page](https://eulogikon.org/works/callisthenes-olynthus-testimonies-fsw-aa)
 
 ## Text
 
 ### 37,t
 
-ANON. PAP. MICHIG. 1316 v ,37 ed. Jeffrey S. Rusten:[...] α̣ὐτὸν πρὸς τὴν ἀνάγνωˈ[σιν ἐ]ν̣ τῶι Πρὸς Καλλισθένην ˈ [ γεγ]ραμμένων βιβλίων ...
+ANON. PAP. MICHIG. 1316 v ,37 ed. Jeffrey S. Rusten:[...] αὐτὸν πρὸς τὴν ἀνάγνωˈ[σιν ἐ]ν τῶι Πρὸς Καλλισθένην ˈ [ γεγ]ραμμένων βιβλίων ...
 
 ### 32bis,f.(l1)
 

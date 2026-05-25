@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἁλιείας
 author: Epic Fragments Anonymous II
 eul_wid: aak-ab
 eul_aid: aak
-canonical: "https://eulogikon.org/grc/epic-fragments-anonymous-ii/fishing"
+canonical: "https://eulogikon.org/works/epic-fragments-anon-ii-fishing-aak-ab"
 period: Archaic
 dialect: Literary Koine
 domain: Epic
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Epic Fragments Anonymous II
 
-**eul_wid:** `aak-ab` · [HTML page](https://eulogikon.org/grc/epic-fragments-anonymous-ii/fishing)
+**eul_wid:** `aak-ab` · [HTML page](https://eulogikon.org/works/epic-fragments-anon-ii-fishing-aak-ab)
 
 ## Text
 
 ### unit_1
 
-Ὡς δ’ ἁλιεὺς ἀκτῇ ἐν ἁλιρράντῳ ἐπὶ πέτρῃ ἀγ(κ)ίστρου δ’ ἕλικος δελεουχίδα μάστακ’ ἀείρα̣ς, ὧ̣δ’ ..... ο̣ὔ̣[ρ]α̣χος (?) ἐγ̣ λ̣ο[φιῆς ἁ]πα̣λ̣ὴ̣ν τρίχα [– ⏑ ⏑] π̣ῶ̣υ̣.
+Ὡς δ’ ἁλιεὺς ἀκτῇ ἐν ἁλιρράντῳ ἐπὶ πέτρῃ ἀγ(κ)ίστρου δ’ ἕλικος δελεουχίδα μάστακ’ ἀείρας, ὧδ’ ..... οὔ[ρ]αχος (?) ἐγ λο[φιῆς ἁ]παλὴν τρίχα [– ] πῶυ.
 
 ## License and provenance
 

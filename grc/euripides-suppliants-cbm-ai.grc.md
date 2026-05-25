@@ -4,7 +4,7 @@ title_greek: Ἱκέτιδες
 author: Euripides
 eul_wid: cbm-ai
 eul_aid: cbm
-canonical: "https://eulogikon.org/grc/euripides/suppliants"
+canonical: "https://eulogikon.org/works/euripides-suppliants-cbm-ai"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euripides
 
-**eul_wid:** `cbm-ai` · [HTML page](https://eulogikon.org/grc/euripides/suppliants)
+**eul_wid:** `cbm-ai` · [HTML page](https://eulogikon.org/works/euripides-suppliants-cbm-ai)
 
 ## Text
 
@@ -200,7 +200,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 42.3
 
-†ἄνομοι τέκνα λῦσαι φθιμένων νεκύων οἳ†
+ἄνομοι τέκνα λῦσαι φθιμένων νεκύων οἳ
 
 ### 45.1
 
@@ -324,7 +324,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 80.3
 
-ἄπαυστος αἰεὶ †γόων†.
+ἄπαυστος αἰεὶ γόων.
 
 ### 80.4
 
@@ -980,7 +980,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 245.5
 
-†αὐτὸς πιέζειν τὴν τύχην ἡμᾶς λίαν†. Χο. ἥμαρτεν· ἐν νέοισι δ’ ἀνθρώπων τόδε
+αὐτὸς πιέζειν τὴν τύχην ἡμᾶς λίαν. Χο. ἥμαρτεν· ἐν νέοισι δ’ ἀνθρώπων τόδε
 
 ### 245.6
 
@@ -1080,7 +1080,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 275.1
 
-[ἰώ μοι· λάβετε φέρετε πέμπετε †κρίνετε†
+[ἰώ μοι· λάβετε φέρετε πέμπετε κρίνετε
 
 ### 275.2
 
@@ -1096,7 +1096,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 280.1
 
-οἴκτισαι ἀμφὶ τέκνων †μ’ ἱκέταν ἤ τιν’ ἀλάταν†
+οἴκτισαι ἀμφὶ τέκνων μ’ ἱκέταν ἤ τιν’ ἀλάταν
 
 ### 280.2
 
@@ -2280,7 +2280,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 585.2
 
-μοναμπύκων τε φάλαρα κινεῖσθαι †στόμα†
+μοναμπύκων τε φάλαρα κινεῖσθαι στόμα
 
 ### 585.3
 
@@ -2328,7 +2328,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 595.4
 
-ὥς μοι ὑφ’ ἥπατι †χλωρὸν δεῖμα ταράσσει† — τίν’ αὐδὰν τάνδε προσφέρεις νέαν;
+ὥς μοι ὑφ’ ἥπατι χλωρὸν δεῖμα ταράσσει — τίν’ αὐδὰν τάνδε προσφέρεις νέαν;
 
 ### 595.5
 
@@ -2556,7 +2556,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 655.5
 
-†αὐτὸν† δὲ Πάραλον ἐστολισμένον δορὶ
+αὐτὸν δὲ Πάραλον ἐστολισμένον δορὶ
 
 ### 660.1
 
@@ -2892,7 +2892,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 745.1
 
-†οἳ τόξον ἐντείνοντες τοῦ καιροῦ πέρα†
+οἳ τόξον ἐντείνοντες τοῦ καιροῦ πέρα
 
 ### 745.2
 
@@ -3244,11 +3244,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 838.1
 
-Θη. μέλλων ς’ ἐρωτᾶν †ἡνίκ’ ἐξήντλεις στρατῶι
+Θη. μέλλων ς’ ἐρωτᾶν ἡνίκ’ ἐξήντλεις στρατῶι
 
 ### 838.2
 
-γόους ἀφήσω† τοὺς ἐκεῖ μὲν ἐκλιπὼν
+γόους ἀφήσω τοὺς ἐκεῖ μὲν ἐκλιπὼν
 
 ### 840.1
 
@@ -3476,7 +3476,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 895.5
 
-πολλοὺς δ’ ἐραστὰς κἀπὸ θηλειῶν †ὅσας† ἔχων ἐφρούρει μηδὲν ἐξαμαρτάνειν.
+πολλοὺς δ’ ἐραστὰς κἀπὸ θηλειῶν ὅσας ἔχων ἐφρούρει μηδὲν ἐξαμαρτάνειν.
 
 ### 895.6
 
@@ -3732,11 +3732,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 965.4
 
-†οὔτ’ ἐν φθιμένοισιν
+οὔτ’ ἐν φθιμένοισιν
 
 ### 965.5
 
-οὔτ’ ἐν ζωοῖσιν ἀριθμουμένη†,
+οὔτ’ ἐν ζωοῖσιν ἀριθμουμένη,
 
 ### 970.1
 
@@ -3836,7 +3836,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 990.4
 
-†λαμπάδ’ ἵν’ ὠκυθόαι νύμφαι ἱππεύουσι δι’ ὀρφναίας†,
+λαμπάδ’ ἵν’ ὠκυθόαι νύμφαι ἱππεύουσι δι’ ὀρφναίας,
 
 ### 995.1
 
@@ -3916,7 +3916,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1015.1
 
-†εὐκλείας χάριν ἔνθεν ὁρ‐
+εὐκλείας χάριν ἔνθεν ὁρ‐
 
 ### 1015.2
 
@@ -3924,7 +3924,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1018.1
 
-πηδήσασα πυρὸς ἔσω†
+πηδήσασα πυρὸς ἔσω
 
 ### 1018.2
 
@@ -3956,7 +3956,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1025.2
 
-†εἴθε τινὲς εὐναὶ†
+εἴθε τινὲς εὐναὶ
 
 ### 1025.3
 
@@ -3968,11 +3968,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1028
 
-†φανῶσι τέκνοισιν
+φανῶσι τέκνοισιν
 
 ### 1028.1
 
-ὁ σὸς δ’† εὐναῖος γαμέτας
+ὁ σὸς δ’ εὐναῖος γαμέτας
 
 ### 1028.2
 
@@ -4224,7 +4224,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1085.5
 
-εἰ δ’ ἐς τόδ’ ἦλθον κἀξεπειράθην †τέκνων†
+εἰ δ’ ἐς τόδ’ ἦλθον κἀξεπειράθην τέκνων
 
 ### 1090.1
 
@@ -4448,7 +4448,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1140.3
 
-〈Πα.〉 πάτερ, †σὺ μὲν σῶν† κλύεις τέκνων γόους;
+〈Πα.〉 πάτερ, σὺ μὲν σῶν κλύεις τέκνων γόους;
 
 ### 1140.4
 
@@ -4456,7 +4456,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1140.5
 
-σὸν φόνον; εἰ γὰρ γένοιτο †τέκνον†.
+σὸν φόνον; εἰ γὰρ γένοιτο τέκνον.
 
 ### 1145.1
 
@@ -4608,7 +4608,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1183.2
 
-ἃ χρή σε δρᾶσαι, δρῶντα δ’ ὠφελεῖν †τάδε†.
+ἃ χρή σε δρᾶσαι, δρῶντα δ’ ὠφελεῖν τάδε.
 
 ### 1185.1
 

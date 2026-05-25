@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Glaucus the Historian
 eul_wid: mfs-aa
 eul_aid: mfs
-canonical: "https://eulogikon.org/grc/glaucus-the-historian/geography-antiquities"
+canonical: "https://eulogikon.org/works/glaucus-geography-antiquities-mfs-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Glaucus the Historian
 
-**eul_wid:** `mfs-aa` · [HTML page](https://eulogikon.org/grc/glaucus-the-historian/geography-antiquities)
+**eul_wid:** `mfs-aa` · [HTML page](https://eulogikon.org/works/glaucus-geography-antiquities-mfs-aa)
 
 ## Text
 

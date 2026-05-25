@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Archedemus of Tarsus
 eul_wid: mnk-aa
 eul_aid: mnk
-canonical: "https://eulogikon.org/grc/archedemus-of-tarsus/stoic-fragments"
+canonical: "https://eulogikon.org/works/archedemus-tarsus-stoic-fragments-mnk-aa"
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Archedemus of Tarsus
 
-**eul_wid:** `mnk-aa` · [HTML page](https://eulogikon.org/grc/archedemus-of-tarsus/stoic-fragments)
+**eul_wid:** `mnk-aa` · [HTML page](https://eulogikon.org/works/archedemus-tarsus-stoic-fragments-mnk-aa)
 
 ## Text
 

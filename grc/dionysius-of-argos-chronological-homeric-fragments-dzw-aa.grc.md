@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Dionysius of Argos
 eul_wid: dzw-aa
 eul_aid: dzw
-canonical: "https://eulogikon.org/grc/dionysius-of-argos/chronological-homeric-fragments"
+canonical: "https://eulogikon.org/works/dionysius-argos-chronological-homeric-fragments-dzw-aa"
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dionysius of Argos
 
-**eul_wid:** `dzw-aa` · [HTML page](https://eulogikon.org/grc/dionysius-of-argos/chronological-homeric-fragments)
+**eul_wid:** `dzw-aa` · [HTML page](https://eulogikon.org/works/dionysius-argos-chronological-homeric-fragments-dzw-aa)
 
 ## Text
 

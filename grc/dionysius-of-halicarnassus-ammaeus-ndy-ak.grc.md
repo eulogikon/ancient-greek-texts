@@ -4,7 +4,7 @@ title_greek: Ἐπιστολὴ πρὸς Ἀμμαῖον
 author: Dionysius of Halicarnassus
 eul_wid: ndy-ak
 eul_aid: ndy
-canonical: "https://eulogikon.org/grc/dionysius-of-halicarnassus/ammaeus"
+canonical: "https://eulogikon.org/works/dionysius-halicarnassus-ammaeus-ndy-ak"
 period: Hellenistic
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dionysius of Halicarnassus
 
-**eul_wid:** `ndy-ak` · [HTML page](https://eulogikon.org/grc/dionysius-of-halicarnassus/ammaeus)
+**eul_wid:** `ndy-ak` · [HTML page](https://eulogikon.org/works/dionysius-halicarnassus-ammaeus-ndy-ak)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: κατὰ Ἀριστοκράτους
 author: Demosthenes of Athens
 eul_wid: fsm-bn
 eul_aid: fsm
-canonical: "https://eulogikon.org/grc/demosthenes-of-athens/against-aristocrates"
+canonical: "https://eulogikon.org/works/demosthenes-athens-against-aristocrates-fsm-bn"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demosthenes of Athens
 
-**eul_wid:** `fsm-bn` · [HTML page](https://eulogikon.org/grc/demosthenes-of-athens/against-aristocrates)
+**eul_wid:** `fsm-bn` · [HTML page](https://eulogikon.org/works/demosthenes-athens-against-aristocrates-fsm-bn)
 
 ## Text
 
@@ -296,7 +296,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### Or23 72
 
-τί οὖν ὁ νόμος κελεύει; τὸν ἁλόντ’ ἐπ’ ἀκουσίῳ φόνῳ ἔν τισιν εἰρημένοις χρόνοις ἀπελθεῖν τακτὴν ὁδόν, καὶ φεύγειν ἕως ἂν †αἰδέσηταί τινα† τῶν ἐν γένει τοῦ πεπονθότος. τηνικαῦτα δ’ ἥκειν δέδωκεν ἔστιν ὃν τρόπον, οὐχ ὃν ἂν τύχῃ, ἀλλὰ καὶ θῦσαι καὶ καθαρθῆναι καὶ ἄλλ’ ἄττα διείρηκεν ἃ χρὴ ποιῆσαι, ὀρθῶς, ὦ ἄνδρες Ἀθηναῖοι, πάντα ταῦτα λέγων ὁ νόμος.
+τί οὖν ὁ νόμος κελεύει; τὸν ἁλόντ’ ἐπ’ ἀκουσίῳ φόνῳ ἔν τισιν εἰρημένοις χρόνοις ἀπελθεῖν τακτὴν ὁδόν, καὶ φεύγειν ἕως ἂν αἰδέσηταί τινα τῶν ἐν γένει τοῦ πεπονθότος. τηνικαῦτα δ’ ἥκειν δέδωκεν ἔστιν ὃν τρόπον, οὐχ ὃν ἂν τύχῃ, ἀλλὰ καὶ θῦσαι καὶ καθαρθῆναι καὶ ἄλλ’ ἄττα διείρηκεν ἃ χρὴ ποιῆσαι, ὀρθῶς, ὦ ἄνδρες Ἀθηναῖοι, πάντα ταῦτα λέγων ὁ νόμος.
 
 ### Or23 73
 

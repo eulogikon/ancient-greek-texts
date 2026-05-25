@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Dieuchidas of Megara
 eul_wid: cmg-aa
 eul_aid: cmg
-canonical: "https://eulogikon.org/grc/dieuchidas-of-megara/local-history"
+canonical: "https://eulogikon.org/works/dieuchidas-megara-local-history-cmg-aa"
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dieuchidas of Megara
 
-**eul_wid:** `cmg-aa` · [HTML page](https://eulogikon.org/grc/dieuchidas-of-megara/local-history)
+**eul_wid:** `cmg-aa` · [HTML page](https://eulogikon.org/works/dieuchidas-megara-local-history-cmg-aa)
 
 ## Text
 

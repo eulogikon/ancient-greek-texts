@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τοῦ Ἑρμαϊκοῦ Πρά
 author: Cratippus of Athens
 eul_wid: fms-aa
 eul_aid: fms
-canonical: "https://eulogikon.org/grc/cratippus-of-athens/hermae-affair"
+canonical: "https://eulogikon.org/works/cratippus-athens-hermae-affair-fms-aa"
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cratippus of Athens
 
-**eul_wid:** `fms-aa` · [HTML page](https://eulogikon.org/grc/cratippus-of-athens/hermae-affair)
+**eul_wid:** `fms-aa` · [HTML page](https://eulogikon.org/works/cratippus-athens-hermae-affair-fms-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Μιλήτου καὶ τῶν Μ
 author: Aristocritus of Miletus
 eul_wid: kby-aa
 eul_aid: kby
-canonical: "https://eulogikon.org/grc/aristocritus-of-miletus/myths"
+canonical: "https://eulogikon.org/works/aristocritus-miletus-myths-kby-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristocritus of Miletus
 
-**eul_wid:** `kby-aa` · [HTML page](https://eulogikon.org/grc/aristocritus-of-miletus/myths)
+**eul_wid:** `kby-aa` · [HTML page](https://eulogikon.org/works/aristocritus-miletus-myths-kby-aa)
 
 ## Text
 

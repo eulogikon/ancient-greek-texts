@@ -4,7 +4,7 @@ title_greek: Μαρτυρία
 author: Appian of Alexandria
 eul_wid: pdc-am
 eul_aid: pdc
-canonical: "https://eulogikon.org/grc/appian-of-alexandria/testimony"
+canonical: "https://eulogikon.org/works/appian-alexandria-testimony-pdc-am"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Appian of Alexandria
 
-**eul_wid:** `pdc-am` · [HTML page](https://eulogikon.org/grc/appian-of-alexandria/testimony)
+**eul_wid:** `pdc-am` · [HTML page](https://eulogikon.org/works/appian-alexandria-testimony-pdc-am)
 
 ## Text
 

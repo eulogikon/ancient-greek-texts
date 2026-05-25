@@ -4,7 +4,7 @@ title_greek: Περὶ Ἱπποκράτους περὶ ἄρθρων
 author: Galen of Pergamon
 eul_wid: qmm-cq
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/joints"
+canonical: "https://eulogikon.org/works/galen-pergamon-joints-qmm-cq"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-cq` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/joints)
+**eul_wid:** `qmm-cq` · [HTML page](https://eulogikon.org/works/galen-pergamon-joints-qmm-cq)
 
 ## Text
 

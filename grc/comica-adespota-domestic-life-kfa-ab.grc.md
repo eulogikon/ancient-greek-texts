@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Βίου Οἰκιακοῦ
 author: "Comica Adespota "
 eul_wid: kfa-ab
 eul_aid: kfa
-canonical: "https://eulogikon.org/grc/comica-adespota/domestic-life"
+canonical: "https://eulogikon.org/works/comica-adespota-domestic-life-kfa-ab"
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Comica Adespota 
 
-**eul_wid:** `kfa-ab` · [HTML page](https://eulogikon.org/grc/comica-adespota/domestic-life)
+**eul_wid:** `kfa-ab` · [HTML page](https://eulogikon.org/works/comica-adespota-domestic-life-kfa-ab)
 
 ## Text
 

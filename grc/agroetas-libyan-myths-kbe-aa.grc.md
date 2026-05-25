@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Agroetas
 eul_wid: kbe-aa
 eul_aid: kbe
-canonical: "https://eulogikon.org/grc/agroetas/libyan-myths"
+canonical: "https://eulogikon.org/works/agroetas-libyan-myths-kbe-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Agroetas
 
-**eul_wid:** `kbe-aa` · [HTML page](https://eulogikon.org/grc/agroetas/libyan-myths)
+**eul_wid:** `kbe-aa` · [HTML page](https://eulogikon.org/works/agroetas-libyan-myths-kbe-aa)
 
 ## Text
 

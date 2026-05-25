@@ -4,7 +4,7 @@ title_greek: Ἀδημοσίευτα Ἀποσπάσματα
 author: Archigenes of Apamea
 eul_wid: owe-aa
 eul_aid: owe
-canonical: "https://eulogikon.org/grc/archigenes-of-apamea/unpublished-fragments"
+canonical: "https://eulogikon.org/works/archigenes-apamea-unpublished-fragments-owe-aa"
 period: Roman
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Archigenes of Apamea
 
-**eul_wid:** `owe-aa` · [HTML page](https://eulogikon.org/grc/archigenes-of-apamea/unpublished-fragments)
+**eul_wid:** `owe-aa` · [HTML page](https://eulogikon.org/works/archigenes-apamea-unpublished-fragments-owe-aa)
 
 ## Text
 

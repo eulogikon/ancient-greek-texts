@@ -4,7 +4,7 @@ title_greek: Περὶ τρόπων
 author: Rhetorical Treatise Anonymous
 eul_wid: rhg-av
 eul_aid: rhg
-canonical: "https://eulogikon.org/grc/anonymous-rhetorical-treatises/modes"
+canonical: "https://eulogikon.org/works/anon-rhet-treatise-modes-rhg-av"
 period: Roman
 dialect: Technical Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Rhetorical Treatise Anonymous
 
-**eul_wid:** `rhg-av` · [HTML page](https://eulogikon.org/grc/anonymous-rhetorical-treatises/modes)
+**eul_wid:** `rhg-av` · [HTML page](https://eulogikon.org/works/anon-rhet-treatise-modes-rhg-av)
 
 ## Text
 

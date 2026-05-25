@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: "Butherus "
 eul_wid: rqw-aa
 eul_aid: rqw
-canonical: "https://eulogikon.org/grc/butherus/nature-numbers"
+canonical: "https://eulogikon.org/works/butherus-nature-numbers-rqw-aa"
 period: Roman
 dialect: Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Butherus 
 
-**eul_wid:** `rqw-aa` · [HTML page](https://eulogikon.org/grc/butherus/nature-numbers)
+**eul_wid:** `rqw-aa` · [HTML page](https://eulogikon.org/works/butherus-nature-numbers-rqw-aa)
 
 ## Text
 

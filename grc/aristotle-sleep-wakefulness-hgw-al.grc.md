@@ -4,7 +4,7 @@ title_greek: Περὶ Ὕπνου καὶ Ἐγρηγόρσεως
 author: Aristotle
 eul_wid: hgw-al
 eul_aid: hgw
-canonical: "https://eulogikon.org/grc/aristotle/sleep-wakefulness"
+canonical: "https://eulogikon.org/works/aristotle-sleep-wakefulness-hgw-al"
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristotle
 
-**eul_wid:** `hgw-al` · [HTML page](https://eulogikon.org/grc/aristotle/sleep-wakefulness)
+**eul_wid:** `hgw-al` · [HTML page](https://eulogikon.org/works/aristotle-sleep-wakefulness-hgw-al)
 
 ## Text
 

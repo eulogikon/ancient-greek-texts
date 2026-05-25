@@ -4,7 +4,7 @@ title_greek: Μῦθοι Συντίπα τοῦ Φιλοσόφου
 author: Aesop the Fabulist
 eul_wid: aqo-ag
 eul_aid: aqo
-canonical: "https://eulogikon.org/grc/aesop/syntipas-fables"
+canonical: "https://eulogikon.org/works/aesop-syntipas-fables-aqo-ag"
 period: Archaic
 dialect: Mixed Dialects
 domain: Fiction
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aesop the Fabulist
 
-**eul_wid:** `aqo-ag` · [HTML page](https://eulogikon.org/grc/aesop/syntipas-fables)
+**eul_wid:** `aqo-ag` · [HTML page](https://eulogikon.org/works/aesop-syntipas-fables-aqo-ag)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ ὁμονοίας ταῖς πόλεσιν
 author: Aristides the Orator
 eul_wid: qwm-av
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/concord-cities"
+canonical: "https://eulogikon.org/works/aristides-orator-concord-cities-qwm-av"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-av` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/concord-cities)
+**eul_wid:** `qwm-av` · [HTML page](https://eulogikon.org/works/aristides-orator-concord-cities-qwm-av)
 
 ## Text
 

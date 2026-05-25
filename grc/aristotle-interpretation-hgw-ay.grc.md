@@ -4,7 +4,7 @@ title_greek: Περὶ Ἑρμηνείας
 author: Aristotle
 eul_wid: hgw-ay
 eul_aid: hgw
-canonical: "https://eulogikon.org/grc/aristotle/interpretation"
+canonical: "https://eulogikon.org/works/aristotle-interpretation-hgw-ay"
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristotle
 
-**eul_wid:** `hgw-ay` · [HTML page](https://eulogikon.org/grc/aristotle/interpretation)
+**eul_wid:** `hgw-ay` · [HTML page](https://eulogikon.org/works/aristotle-interpretation-hgw-ay)
 
 ## Text
 

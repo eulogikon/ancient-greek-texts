@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἀλεξιφαρμάκων
 author: Eudemus of Rhodes II
 eul_wid: fuu-aa
 eul_aid: fuu
-canonical: "https://eulogikon.org/grc/eudemus-of-rhodes-ii/antidotes"
+canonical: "https://eulogikon.org/works/eudemus-rhodes-ii-antidotes-fuu-aa"
 period: Classical
 dialect: "Attic (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Eudemus of Rhodes II
 
-**eul_wid:** `fuu-aa` · [HTML page](https://eulogikon.org/grc/eudemus-of-rhodes-ii/antidotes)
+**eul_wid:** `fuu-aa` · [HTML page](https://eulogikon.org/works/eudemus-rhodes-ii-antidotes-fuu-aa)
 
 ## Text
 

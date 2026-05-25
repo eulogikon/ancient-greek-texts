@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Alexis of Samos
 eul_wid: hye-aa
 eul_aid: hye
-canonical: "https://eulogikon.org/grc/alexis-of-samos/chronicles-customs"
+canonical: "https://eulogikon.org/works/alexis-samos-chronicles-customs-hye-aa"
 period: Hellenistic
 dialect: Ionic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alexis of Samos
 
-**eul_wid:** `hye-aa` · [HTML page](https://eulogikon.org/grc/alexis-of-samos/chronicles-customs)
+**eul_wid:** `hye-aa` · [HTML page](https://eulogikon.org/works/alexis-samos-chronicles-customs-hye-aa)
 
 ## Text
 

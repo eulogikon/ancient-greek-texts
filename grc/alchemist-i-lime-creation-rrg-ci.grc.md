@@ -4,7 +4,7 @@ title_greek: Ποίησις ἀσβέστου
 author: Alchemist I
 eul_wid: rrg-ci
 eul_aid: rrg
-canonical: "https://eulogikon.org/grc/alchemist-i/lime-creation"
+canonical: "https://eulogikon.org/works/alchemist-i-lime-creation-rrg-ci"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alchemist I
 
-**eul_wid:** `rrg-ci` · [HTML page](https://eulogikon.org/grc/alchemist-i/lime-creation)
+**eul_wid:** `rrg-ci` · [HTML page](https://eulogikon.org/works/alchemist-i-lime-creation-rrg-ci)
 
 ## Text
 

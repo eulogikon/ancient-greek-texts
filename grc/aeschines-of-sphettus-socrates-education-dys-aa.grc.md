@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Σωκράτους καὶ Παι
 author: Aeschines of Sphettus
 eul_wid: dys-aa
 eul_aid: dys
-canonical: "https://eulogikon.org/grc/aeschines-of-sphettus/socrates-education"
+canonical: "https://eulogikon.org/works/aeschines-sphettus-socrates-education-dys-aa"
 period: Classical
 dialect: "Attic (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aeschines of Sphettus
 
-**eul_wid:** `dys-aa` · [HTML page](https://eulogikon.org/grc/aeschines-of-sphettus/socrates-education)
+**eul_wid:** `dys-aa` · [HTML page](https://eulogikon.org/works/aeschines-sphettus-socrates-education-dys-aa)
 
 ## Text
 
@@ -512,7 +512,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 48
 
-Πολλαχῆ μέντοι καὶ ἐπαμφοτερίζουσιν † οἷς ἐοικέναι εἴ τις ἐθέλοι καὶ ψόγους [εἰ καὶ ὁ ψόγους εἶναι θέλοι τις]· παράδειγμα τὸ τοῦ Αἰσχίνου τὸ ἐπὶ τοῦ Τηλαύγου ς· πᾶσα γὰρ σχεδὸν ἡ περὶ τὸν Τηλαύγη διήγησις ἀπορίαν πα‐
+Πολλαχῆ μέντοι καὶ ἐπαμφοτερίζουσιν οἷς ἐοικέναι εἴ τις ἐθέλοι καὶ ψόγους [εἰ καὶ ὁ ψόγους εἶναι θέλοι τις]· παράδειγμα τὸ τοῦ Αἰσχίνου τὸ ἐπὶ τοῦ Τηλαύγου ς· πᾶσα γὰρ σχεδὸν ἡ περὶ τὸν Τηλαύγη διήγησις ἀπορίαν πα‐
 
 ### 5
 

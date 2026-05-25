@@ -4,7 +4,7 @@ title_greek: Περὶ τῆς κατασκευῆς τῆς ἰατρικῆς 
 author: Galen of Pergamon
 eul_wid: qmm-af
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/medical-art-constitution"
+canonical: "https://eulogikon.org/works/galen-pergamon-medical-art-constitution-qmm-af"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-af` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/medical-art-constitution)
+**eul_wid:** `qmm-af` · [HTML page](https://eulogikon.org/works/galen-pergamon-medical-art-constitution-qmm-af)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ διχρόνων
 author: Herodian of Alexandria
 eul_wid: qnq-bi
 eul_aid: qnq
-canonical: "https://eulogikon.org/grc/herodian-of-alexandria/dichronous"
+canonical: "https://eulogikon.org/works/herodian-alexandria-dichronous-qnq-bi"
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Herodian of Alexandria
 
-**eul_wid:** `qnq-bi` · [HTML page](https://eulogikon.org/grc/herodian-of-alexandria/dichronous)
+**eul_wid:** `qnq-bi` · [HTML page](https://eulogikon.org/works/herodian-alexandria-dichronous-qnq-bi)
 
 ## Text
 

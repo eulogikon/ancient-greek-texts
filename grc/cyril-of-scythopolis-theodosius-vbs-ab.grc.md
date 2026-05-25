@@ -4,7 +4,7 @@ title_greek: Βίος Θεοδοσίου
 author: Cyril of Scythopolis
 eul_wid: vbs-ab
 eul_aid: vbs
-canonical: "https://eulogikon.org/grc/cyril-of-scythopolis/theodosius"
+canonical: "https://eulogikon.org/works/cyril-scythopolis-theodosius-vbs-ab"
 period: Late Antique
 dialect: Christian Koine
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cyril of Scythopolis
 
-**eul_wid:** `vbs-ab` · [HTML page](https://eulogikon.org/grc/cyril-of-scythopolis/theodosius)
+**eul_wid:** `vbs-ab` · [HTML page](https://eulogikon.org/works/cyril-scythopolis-theodosius-vbs-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Διονυσιακῆς Τραγῳδίας
 author: Chaeremon the Tragic Poet
 eul_wid: gsq-aa
 eul_aid: gsq
-canonical: "https://eulogikon.org/grc/chaeremon-the-tragic-poet/dionysian-tragedy"
+canonical: "https://eulogikon.org/works/chaeremon-dionysian-tragedy-gsq-aa"
 period: Classical
 dialect: "Attic (dr, frg)"
 domain: Drama
@@ -18,17 +18,17 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Chaeremon the Tragic Poet
 
-**eul_wid:** `gsq-aa` · [HTML page](https://eulogikon.org/grc/chaeremon-the-tragic-poet/dionysian-tragedy)
+**eul_wid:** `gsq-aa` · [HTML page](https://eulogikon.org/works/chaeremon-dionysian-tragedy-gsq-aa)
 
 ## Text
 
 ### book 1.1
 
-[ln_1]καὶ σώματος μὲν †ὄψεις κατειργάζετο
+[ln_1]καὶ σώματος μὲν ὄψεις κατειργάζετο
 
 ### book 1.2
 
-στίλβοντα λευκῷ †χρώματι διαπρεπῆ. αἰδὼς δ’ ἐπερρύθμιζεν ἠπιώτατον ἐρύθημα λαμπρῷ προστιθεῖσα
+στίλβοντα λευκῷ χρώματι διαπρεπῆ. αἰδὼς δ’ ἐπερρύθμιζεν ἠπιώτατον ἐρύθημα λαμπρῷ προστιθεῖσα
 
 ### book 1.3
 
@@ -100,7 +100,7 @@ dramatis personae: (ΠΑΝ, ΠΟΙΝΑ, ΑΘΑΝΑ, ΕΡΜΑΣ) ΑΧΙΛΛΕΥΣ
 
 ### book 10.2
 
-στρατόν ἀνθέων ἄλογχον ἐστράτευσαν, ἡδοναῖς θηρώμεν〈αι ×〉οντα λειμώνων τέκνα
+στρατόν ἀνθέων ἄλογχον ἐστράτευσαν, ἡδοναῖς θηρώμεν〈αι 〉οντα λειμώνων τέκνα
 
 ### book 11.1
 
@@ -184,15 +184,15 @@ dramatis personae: (ΠΑΝ, ΠΟΙΝΑ, ΑΘΑΝΑ, ΕΡΜΑΣ) ΑΧΙΛΛΕΥΣ
 
 ### book 14b.1
 
-Χρὴ τιμᾶν θ[⏑⏑– ... Ἀρχὴ γὰρ θνητ[οῖς Ἱμείρου πάση[ς[ln_5]Ῥώμην
+Χρὴ τιμᾶν θ[– ... Ἀρχὴ γὰρ θνητ[οῖς Ἱμείρου πάση[ς[ln_5]Ῥώμην
 
 ### book 14b.2
 
-τιμῶ̣μεν μ[ Ἦθος ἔχειν ὅσιον ζη̣[ Μὴ πᾶν κέρδος ὅρα [ .[..]ν̣[.].κ̣ιαν
+τιμῶμεν μ[ Ἦθος ἔχειν ὅσιον ζη[ Μὴ πᾶν κέρδος ὅρα [ .[..]ν[.].κιαν
 
 ### book 14b.3
 
-σαυτ̣[ ...
+σαυτ[ ...
 
 ### book 16,15.1
 
@@ -340,7 +340,7 @@ dramatis personae: (ΠΑΝ, ΠΟΙΝΑ, ΑΘΑΝΑ, ΕΡΜΑΣ) ΑΧΙΛΛΕΥΣ
 
 ### book 36.1
 
-πλοῦτος δὲ πρὸς μὲν †τὰς ὅλας
+πλοῦτος δὲ πρὸς μὲν τὰς ὅλας
 
 ### book 36.2
 
@@ -348,7 +348,7 @@ dramatis personae: (ΠΑΝ, ΠΟΙΝΑ, ΑΘΑΝΑ, ΕΡΜΑΣ) ΑΧΙΛΛΕΥΣ
 
 ### book 36.3
 
-τυχεῖν, ἀλλ’ ἔστ’ ἄσεμνος· ἐν δὲ †δόσει βροτῶν ἡδὺς
+τυχεῖν, ἀλλ’ ἔστ’ ἄσεμνος· ἐν δὲ δόσει βροτῶν ἡδὺς
 
 ### book 36.4
 
@@ -380,7 +380,7 @@ dramatis personae: (ΠΑΝ, ΠΟΙΝΑ, ΑΘΑΝΑ, ΕΡΜΑΣ) ΑΧΙΛΛΕΥΣ
 
 ### book 41?.1
 
-†ἔαρος ἡ νύμφη τέκνον
+ἔαρος ἡ νύμφη τέκνον
 
 ### book 41?.2
 
@@ -388,7 +388,7 @@ dramatis personae: (ΠΑΝ, ΠΟΙΝΑ, ΑΘΑΝΑ, ΕΡΜΑΣ) ΑΧΙΛΛΕΥΣ
 
 ### book 41?.3
 
-χειμῶνι δ’ οἴχεται σὺν τῷ ἀνέμῳ κεκαρμένη†
+χειμῶνι δ’ οἴχεται σὺν τῷ ἀνέμῳ κεκαρμένη
 
 ### book 42.1
 

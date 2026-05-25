@@ -4,7 +4,7 @@ title_greek: Ἀλεξάνδρου Ἀνάβασις
 author: Arrian of Nicomedia
 eul_wid: pcs-ak
 eul_aid: pcs
-canonical: "https://eulogikon.org/grc/arrian-of-nicomedia/anabasis"
+canonical: "https://eulogikon.org/works/arrian-nicomedia-anabasis-pcs-ak"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Arrian of Nicomedia
 
-**eul_wid:** `pcs-ak` · [HTML page](https://eulogikon.org/grc/arrian-of-nicomedia/anabasis)
+**eul_wid:** `pcs-ak` · [HTML page](https://eulogikon.org/works/arrian-nicomedia-anabasis-pcs-ak)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Andriscus the Pretender
 eul_wid: lze-aa
 eul_aid: lze
-canonical: "https://eulogikon.org/grc/andriscus-the-pretender/naxian-tales-of-polycrite"
+canonical: "https://eulogikon.org/works/andriscus-naxian-tales-of-polycrite-lze-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Andriscus the Pretender
 
-**eul_wid:** `lze-aa` · [HTML page](https://eulogikon.org/grc/andriscus-the-pretender/naxian-tales-of-polycrite)
+**eul_wid:** `lze-aa` · [HTML page](https://eulogikon.org/works/andriscus-naxian-tales-of-polycrite-lze-aa)
 
 ## Text
 

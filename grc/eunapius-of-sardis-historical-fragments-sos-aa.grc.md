@@ -4,7 +4,7 @@ title_greek: Ἱστορικὰ Ἀποσπάσματα
 author: Eunapius of Sardis
 eul_wid: sos-aa
 eul_aid: sos
-canonical: "https://eulogikon.org/grc/eunapius-of-sardis/historical-fragments"
+canonical: "https://eulogikon.org/works/eunapius-sardis-historical-fragments-sos-aa"
 period: Late Antique
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Eunapius of Sardis
 
-**eul_wid:** `sos-aa` · [HTML page](https://eulogikon.org/grc/eunapius-of-sardis/historical-fragments)
+**eul_wid:** `sos-aa` · [HTML page](https://eulogikon.org/works/eunapius-sardis-historical-fragments-sos-aa)
 
 ## Text
 

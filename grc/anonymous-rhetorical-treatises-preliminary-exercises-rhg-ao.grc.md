@@ -4,7 +4,7 @@ title_greek: Προγυμνάσματα
 author: Rhetorical Treatise Anonymous
 eul_wid: rhg-ao
 eul_aid: rhg
-canonical: "https://eulogikon.org/grc/anonymous-rhetorical-treatises/preliminary-exercises"
+canonical: "https://eulogikon.org/works/anon-rhet-treatise-preliminary-exercises-rhg-ao"
 period: Roman
 dialect: Technical Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Rhetorical Treatise Anonymous
 
-**eul_wid:** `rhg-ao` · [HTML page](https://eulogikon.org/grc/anonymous-rhetorical-treatises/preliminary-exercises)
+**eul_wid:** `rhg-ao` · [HTML page](https://eulogikon.org/works/anon-rhet-treatise-preliminary-exercises-rhg-ao)
 
 ## Text
 

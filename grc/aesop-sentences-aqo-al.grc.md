@@ -4,7 +4,7 @@ title_greek: Γνῶμαι
 author: Aesop the Fabulist
 eul_wid: aqo-al
 eul_aid: aqo
-canonical: "https://eulogikon.org/grc/aesop/sentences"
+canonical: "https://eulogikon.org/works/aesop-sentences-aqo-al"
 period: Archaic
 dialect: Mixed Dialects
 domain: Fiction
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aesop the Fabulist
 
-**eul_wid:** `aqo-al` · [HTML page](https://eulogikon.org/grc/aesop/sentences)
+**eul_wid:** `aqo-al` · [HTML page](https://eulogikon.org/works/aesop-sentences-aqo-al)
 
 ## Text
 

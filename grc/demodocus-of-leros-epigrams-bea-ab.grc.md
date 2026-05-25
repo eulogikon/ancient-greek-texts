@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Demodocus of Leros
 eul_wid: bea-ab
 eul_aid: bea
-canonical: "https://eulogikon.org/grc/demodocus-of-leros/epigrams"
+canonical: "https://eulogikon.org/works/demodocus-leros-epigrams-bea-ab"
 period: Archaic
 dialect: Ionic Elegiac
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demodocus of Leros
 
-**eul_wid:** `bea-ab` · [HTML page](https://eulogikon.org/grc/demodocus-of-leros/epigrams)
+**eul_wid:** `bea-ab` · [HTML page](https://eulogikon.org/works/demodocus-leros-epigrams-bea-ab)
 
 ## Text
 

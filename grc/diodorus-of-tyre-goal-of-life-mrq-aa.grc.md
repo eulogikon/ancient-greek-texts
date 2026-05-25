@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Diodorus of Tyre
 eul_wid: mrq-aa
 eul_aid: mrq
-canonical: "https://eulogikon.org/grc/diodorus-of-tyre/goal-of-life"
+canonical: "https://eulogikon.org/works/diodorus-tyre-goal-of-life-mrq-aa"
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Diodorus of Tyre
 
-**eul_wid:** `mrq-aa` · [HTML page](https://eulogikon.org/grc/diodorus-of-tyre/goal-of-life)
+**eul_wid:** `mrq-aa` · [HTML page](https://eulogikon.org/works/diodorus-tyre-goal-of-life-mrq-aa)
 
 ## Text
 

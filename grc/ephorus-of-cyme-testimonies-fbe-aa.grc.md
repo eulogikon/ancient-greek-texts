@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Ephorus of Cyme
 eul_wid: fbe-aa
 eul_aid: fbe
-canonical: "https://eulogikon.org/grc/ephorus-of-cyme/testimonies"
+canonical: "https://eulogikon.org/works/ephorus-cyme-testimonies-fbe-aa"
 period: Classical
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ephorus of Cyme
 
-**eul_wid:** `fbe-aa` · [HTML page](https://eulogikon.org/grc/ephorus-of-cyme/testimonies)
+**eul_wid:** `fbe-aa` · [HTML page](https://eulogikon.org/works/ephorus-cyme-testimonies-fbe-aa)
 
 ## Text
 
@@ -80,7 +80,7 @@ ATHEN. VI 22 p. 232 D: Ἔφορος δὲ ἢ Δημόφιλος ὁ υἱὸς
 
 ### 2a,70,T 10
 
-—XVI 76, 5: τῶν δὲ συγγραφέων Ἔφορος μὲν ὁ Κυμαῖος τὴν ἱστορίαν ἐνθάδε κατέστροφεν εἰς τὴν Περίνθου πολιορκίαν· περιείληφε δὲ τῆι γραφῆι πράξεις τάς τε τῶν Ἑλλήνων καὶ βαρβάρων ἀρξάμενος ἀπὸ τῆς τῶν Ἡρακλειδῶν καθόδου· χρόνον δὲ περιέλαβε σχεδὸν ἐτῶν ἑπτακοσίων καὶ † πεντήκοντα, καὶ βίβλους γέγραφε τριάκοντα, προοίμιον ἑκάστηι προθείς.
+—XVI 76, 5: τῶν δὲ συγγραφέων Ἔφορος μὲν ὁ Κυμαῖος τὴν ἱστορίαν ἐνθάδε κατέστροφεν εἰς τὴν Περίνθου πολιορκίαν· περιείληφε δὲ τῆι γραφῆι πράξεις τάς τε τῶν Ἑλλήνων καὶ βαρβάρων ἀρξάμενος ἀπὸ τῆς τῶν Ἡρακλειδῶν καθόδου· χρόνον δὲ περιέλαβε σχεδὸν ἐτῶν ἑπτακοσίων καὶ πεντήκοντα, καὶ βίβλους γέγραφε τριάκοντα, προοίμιον ἑκάστηι προθείς.
 
 ### 2a,70,T 11
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Anaxarchus of Abdera
 eul_wid: fhs-ab
 eul_aid: fhs
-canonical: "https://eulogikon.org/grc/anaxarchus-of-abdera/kingship-wisdom"
+canonical: "https://eulogikon.org/works/anaxarchus-abdera-kingship-wisdom-fhs-ab"
 period: Classical
 dialect: "Attic (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Anaxarchus of Abdera
 
-**eul_wid:** `fhs-ab` · [HTML page](https://eulogikon.org/grc/anaxarchus-of-abdera/kingship-wisdom)
+**eul_wid:** `fhs-ab` · [HTML page](https://eulogikon.org/works/anaxarchus-abdera-kingship-wisdom-fhs-ab)
 
 ## Text
 

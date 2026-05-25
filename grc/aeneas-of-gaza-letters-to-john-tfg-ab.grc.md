@@ -4,7 +4,7 @@ title_greek: Ἐπιστολαὶ πρὸς Ἰωάννην
 author: Aeneas of Gaza
 eul_wid: tfg-ab
 eul_aid: tfg
-canonical: "https://eulogikon.org/grc/aeneas-of-gaza/letters-to-john"
+canonical: "https://eulogikon.org/works/aeneas-gaza-letters-to-john-tfg-ab"
 period: Late Antique
 dialect: Christian Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aeneas of Gaza
 
-**eul_wid:** `tfg-ab` · [HTML page](https://eulogikon.org/grc/aeneas-of-gaza/letters-to-john)
+**eul_wid:** `tfg-ab` · [HTML page](https://eulogikon.org/works/aeneas-gaza-letters-to-john-tfg-ab)
 
 ## Text
 

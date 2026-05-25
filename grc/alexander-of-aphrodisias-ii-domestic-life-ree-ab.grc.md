@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Οἰκιακοῦ Βίου
 author: Alexander of Aphrodisias II
 eul_wid: ree-ab
 eul_aid: ree
-canonical: "https://eulogikon.org/grc/alexander-of-aphrodisias-ii/domestic-life"
+canonical: "https://eulogikon.org/works/alexander-aphrodisias-domestic-life-ree-ab"
 period: Roman
 dialect: Mixed Dialects (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alexander of Aphrodisias II
 
-**eul_wid:** `ree-ab` · [HTML page](https://eulogikon.org/grc/alexander-of-aphrodisias-ii/domestic-life)
+**eul_wid:** `ree-ab` · [HTML page](https://eulogikon.org/works/alexander-aphrodisias-domestic-life-ree-ab)
 
 ## Text
 

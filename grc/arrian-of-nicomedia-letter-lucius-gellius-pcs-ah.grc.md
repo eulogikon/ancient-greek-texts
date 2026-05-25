@@ -4,7 +4,7 @@ title_greek: Ἐπιστολὴ πρὸς Λούκιον Γέλλιον
 author: Arrian of Nicomedia
 eul_wid: pcs-ah
 eul_aid: pcs
-canonical: "https://eulogikon.org/grc/arrian-of-nicomedia/letter-lucius-gellius"
+canonical: "https://eulogikon.org/works/arrian-nicomedia-letter-lucius-gellius-pcs-ah"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Arrian of Nicomedia
 
-**eul_wid:** `pcs-ah` · [HTML page](https://eulogikon.org/grc/arrian-of-nicomedia/letter-lucius-gellius)
+**eul_wid:** `pcs-ah` · [HTML page](https://eulogikon.org/works/arrian-nicomedia-letter-lucius-gellius-pcs-ah)
 
 ## Text
 

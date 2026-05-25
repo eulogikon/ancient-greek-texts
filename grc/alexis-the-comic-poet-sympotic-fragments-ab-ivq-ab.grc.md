@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Συμποτικὰ Ἀλεξίδος
 author: Alexis the Comic Poet
 eul_wid: ivq-ab
 eul_aid: ivq
-canonical: "https://eulogikon.org/grc/alexis-the-comic-poet/sympotic-fragments-ab"
+canonical: "https://eulogikon.org/works/alexis-sympotic-fragments-ivq-ab"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alexis the Comic Poet
 
-**eul_wid:** `ivq-ab` · [HTML page](https://eulogikon.org/grc/alexis-the-comic-poet/sympotic-fragments-ab)
+**eul_wid:** `ivq-ab` · [HTML page](https://eulogikon.org/works/alexis-sympotic-fragments-ivq-ab)
 
 ## Text
 

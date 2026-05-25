@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Aratus of Sicyon
 eul_wid: jba-aa
 eul_aid: jba
-canonical: "https://eulogikon.org/grc/aratus-of-sicyon/historical-commentary"
+canonical: "https://eulogikon.org/works/aratus-sicyon-historical-commentary-jba-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aratus of Sicyon
 
-**eul_wid:** `jba-aa` · [HTML page](https://eulogikon.org/grc/aratus-of-sicyon/historical-commentary)
+**eul_wid:** `jba-aa` · [HTML page](https://eulogikon.org/works/aratus-sicyon-historical-commentary-jba-aa)
 
 ## Text
 

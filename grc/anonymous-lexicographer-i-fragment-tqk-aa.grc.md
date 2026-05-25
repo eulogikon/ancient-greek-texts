@@ -4,7 +4,7 @@ title_greek: Λεξικοῦ Ἀπόσπασμα
 author: Lexicographic Work Anonymous I
 eul_wid: tqk-aa
 eul_aid: tqk
-canonical: "https://eulogikon.org/grc/anonymous-lexicographer-i/fragment"
+canonical: "https://eulogikon.org/works/anon-lexicographer-i-fragment-tqk-aa"
 period: Late Antique
 dialect: Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lexicographic Work Anonymous I
 
-**eul_wid:** `tqk-aa` · [HTML page](https://eulogikon.org/grc/anonymous-lexicographer-i/fragment)
+**eul_wid:** `tqk-aa` · [HTML page](https://eulogikon.org/works/anon-lexicographer-i-fragment-tqk-aa)
 
 ## Text
 

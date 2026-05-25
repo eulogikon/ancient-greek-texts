@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἑταιρῶν καὶ Βίου
 author: Amphis Comicus
 eul_wid: foq-aa
 eul_aid: foq
-canonical: "https://eulogikon.org/grc/amphis-the-comic-poet/courtesans-life"
+canonical: "https://eulogikon.org/works/amphis-courtesans-life-foq-aa"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Amphis Comicus
 
-**eul_wid:** `foq-aa` · [HTML page](https://eulogikon.org/grc/amphis-the-comic-poet/courtesans-life)
+**eul_wid:** `foq-aa` · [HTML page](https://eulogikon.org/works/amphis-courtesans-life-foq-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Clytus the Historian
 eul_wid: gnq-aa
 eul_aid: gnq
-canonical: "https://eulogikon.org/grc/clytus-the-historian/birds-leros"
+canonical: "https://eulogikon.org/works/clytus-birds-leros-gnq-aa"
 period: Classical
 dialect: Ionic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Clytus the Historian
 
-**eul_wid:** `gnq-aa` · [HTML page](https://eulogikon.org/grc/clytus-the-historian/birds-leros)
+**eul_wid:** `gnq-aa` · [HTML page](https://eulogikon.org/works/clytus-birds-leros-gnq-aa)
 
 ## Text
 

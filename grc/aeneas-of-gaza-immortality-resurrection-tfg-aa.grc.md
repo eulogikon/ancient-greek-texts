@@ -4,7 +4,7 @@ title_greek: Θεόφραστος ἢ Περὶ Ἀθανασίας Ψυχῶν 
 author: Aeneas of Gaza
 eul_wid: tfg-aa
 eul_aid: tfg
-canonical: "https://eulogikon.org/grc/aeneas-of-gaza/immortality-resurrection"
+canonical: "https://eulogikon.org/works/aeneas-gaza-immortality-resurrection-tfg-aa"
 period: Late Antique
 dialect: Christian Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aeneas of Gaza
 
-**eul_wid:** `tfg-aa` · [HTML page](https://eulogikon.org/grc/aeneas-of-gaza/immortality-resurrection)
+**eul_wid:** `tfg-aa` · [HTML page](https://eulogikon.org/works/aeneas-gaza-immortality-resurrection-tfg-aa)
 
 ## Text
 

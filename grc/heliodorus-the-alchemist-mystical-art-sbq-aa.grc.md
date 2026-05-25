@@ -4,7 +4,7 @@ title_greek: Ἡλιοδώρου φιλοσόφου πρὸς Θεοδόσιον
 author: Heliodorus the Alchemist and Poet
 eul_wid: sbq-aa
 eul_aid: sbq
-canonical: "https://eulogikon.org/grc/heliodorus-the-alchemist/mystical-art"
+canonical: "https://eulogikon.org/works/heliodorus-mystical-art-sbq-aa"
 period: Late Antique
 dialect: Koine
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Heliodorus the Alchemist and Poet
 
-**eul_wid:** `sbq-aa` · [HTML page](https://eulogikon.org/grc/heliodorus-the-alchemist/mystical-art)
+**eul_wid:** `sbq-aa` · [HTML page](https://eulogikon.org/works/heliodorus-mystical-art-sbq-aa)
 
 ## Text
 

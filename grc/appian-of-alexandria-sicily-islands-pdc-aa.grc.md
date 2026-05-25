@@ -4,7 +4,7 @@ title_greek: ἐκ τῆς Σικελῖκης καὶ νησιωτικής
 author: Appian of Alexandria
 eul_wid: pdc-aa
 eul_aid: pdc
-canonical: "https://eulogikon.org/grc/appian-of-alexandria/sicily-islands"
+canonical: "https://eulogikon.org/works/appian-alexandria-sicily-islands-pdc-aa"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Appian of Alexandria
 
-**eul_wid:** `pdc-aa` · [HTML page](https://eulogikon.org/grc/appian-of-alexandria/sicily-islands)
+**eul_wid:** `pdc-aa` · [HTML page](https://eulogikon.org/works/appian-alexandria-sicily-islands-pdc-aa)
 
 ## Text
 

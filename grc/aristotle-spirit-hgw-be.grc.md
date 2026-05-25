@@ -4,7 +4,7 @@ title_greek: Περὶ Πνεύματος
 author: Aristotle
 eul_wid: hgw-be
 eul_aid: hgw
-canonical: "https://eulogikon.org/grc/aristotle/spirit"
+canonical: "https://eulogikon.org/works/aristotle-spirit-hgw-be"
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristotle
 
-**eul_wid:** `hgw-be` · [HTML page](https://eulogikon.org/grc/aristotle/spirit)
+**eul_wid:** `hgw-be` · [HTML page](https://eulogikon.org/works/aristotle-spirit-hgw-be)
 
 ## Text
 

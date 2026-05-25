@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Diyllus of Athens
 eul_wid: fyg-aa
 eul_aid: fyg
-canonical: "https://eulogikon.org/grc/diyllus-of-athens/historical-fragments"
+canonical: "https://eulogikon.org/works/diyllus-athens-historical-fragments-fyg-aa"
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Diyllus of Athens
 
-**eul_wid:** `fyg-aa` · [HTML page](https://eulogikon.org/grc/diyllus-of-athens/historical-fragments)
+**eul_wid:** `fyg-aa` · [HTML page](https://eulogikon.org/works/diyllus-athens-historical-fragments-fyg-aa)
 
 ## Text
 

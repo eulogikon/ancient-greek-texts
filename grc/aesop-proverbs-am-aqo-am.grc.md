@@ -4,7 +4,7 @@ title_greek: Μῦθοι
 author: Aesop the Fabulist
 eul_wid: aqo-am
 eul_aid: aqo
-canonical: "https://eulogikon.org/grc/aesop/proverbs-am"
+canonical: "https://eulogikon.org/works/aesop-proverbs-aqo-am"
 period: Archaic
 dialect: Mixed Dialects
 domain: Fiction
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aesop the Fabulist
 
-**eul_wid:** `aqo-am` · [HTML page](https://eulogikon.org/grc/aesop/proverbs-am)
+**eul_wid:** `aqo-am` · [HTML page](https://eulogikon.org/works/aesop-proverbs-aqo-am)
 
 ## Text
 

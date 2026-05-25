@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν κράσεων
 author: Galen of Pergamon
 eul_wid: qmm-dt
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/temperaments"
+canonical: "https://eulogikon.org/works/galen-pergamon-temperaments-qmm-dt"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-dt` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/temperaments)
+**eul_wid:** `qmm-dt` · [HTML page](https://eulogikon.org/works/galen-pergamon-temperaments-qmm-dt)
 
 ## Text
 

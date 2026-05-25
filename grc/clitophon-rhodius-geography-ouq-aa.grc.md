@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Γεωγραφίας
 author: Clitophon Rhodius
 eul_wid: ouq-aa
 eul_aid: ouq
-canonical: "https://eulogikon.org/grc/clitophon-rhodius/geography"
+canonical: "https://eulogikon.org/works/clitophon-rhodius-geography-ouq-aa"
 period: Roman
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Clitophon Rhodius
 
-**eul_wid:** `ouq-aa` · [HTML page](https://eulogikon.org/grc/clitophon-rhodius/geography)
+**eul_wid:** `ouq-aa` · [HTML page](https://eulogikon.org/works/clitophon-rhodius-geography-ouq-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Βαρνάβα ἐπιστολή
 author: Barnabas Letters
 eul_wid: ohe-aa
 eul_aid: ohe
-canonical: "https://eulogikon.org/grc/epistle-of-barnabas/letter"
+canonical: "https://eulogikon.org/works/barnabas-letter-ohe-aa"
 period: Roman
 dialect: Christian Koine
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Barnabas Letters
 
-**eul_wid:** `ohe-aa` · [HTML page](https://eulogikon.org/grc/epistle-of-barnabas/letter)
+**eul_wid:** `ohe-aa` · [HTML page](https://eulogikon.org/works/barnabas-letter-ohe-aa)
 
 ## Text
 

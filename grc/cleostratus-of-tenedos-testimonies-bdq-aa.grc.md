@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Cleostratus of Tenedos
 eul_wid: bdq-aa
 eul_aid: bdq
-canonical: "https://eulogikon.org/grc/cleostratus-of-tenedos/testimonies"
+canonical: "https://eulogikon.org/works/cleostratus-tenedos-testimonies-bdq-aa"
 period: Archaic
 dialect: Aeolic (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cleostratus of Tenedos
 
-**eul_wid:** `bdq-aa` · [HTML page](https://eulogikon.org/grc/cleostratus-of-tenedos/testimonies)
+**eul_wid:** `bdq-aa` · [HTML page](https://eulogikon.org/works/cleostratus-tenedos-testimonies-bdq-aa)
 
 ## Text
 

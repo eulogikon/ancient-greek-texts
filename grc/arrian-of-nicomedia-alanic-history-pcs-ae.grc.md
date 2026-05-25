@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Ἀλανικῆς Ἱστορίας
 author: Arrian of Nicomedia
 eul_wid: pcs-ae
 eul_aid: pcs
-canonical: "https://eulogikon.org/grc/arrian-of-nicomedia/alanic-history"
+canonical: "https://eulogikon.org/works/arrian-nicomedia-alanic-history-pcs-ae"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Arrian of Nicomedia
 
-**eul_wid:** `pcs-ae` · [HTML page](https://eulogikon.org/grc/arrian-of-nicomedia/alanic-history)
+**eul_wid:** `pcs-ae` · [HTML page](https://eulogikon.org/works/arrian-nicomedia-alanic-history-pcs-ae)
 
 ## Text
 

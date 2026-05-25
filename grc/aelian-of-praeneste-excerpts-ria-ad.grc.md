@@ -4,7 +4,7 @@ title_greek: Ἀποσπασμάτια
 author: Aelian of Praeneste
 eul_wid: ria-ad
 eul_aid: ria
-canonical: "https://eulogikon.org/grc/aelian-of-praeneste/excerpts"
+canonical: "https://eulogikon.org/works/aelian-praeneste-excerpts-ria-ad"
 period: Roman
 dialect: Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aelian of Praeneste
 
-**eul_wid:** `ria-ad` · [HTML page](https://eulogikon.org/grc/aelian-of-praeneste/excerpts)
+**eul_wid:** `ria-ad` · [HTML page](https://eulogikon.org/works/aelian-praeneste-excerpts-ria-ad)
 
 ## Text
 

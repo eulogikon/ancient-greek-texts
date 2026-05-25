@@ -4,7 +4,7 @@ title_greek: Περὶ βασιλείας
 author: Ecphantus the Pythagorean
 eul_wid: gqs-aa
 eul_aid: gqs
-canonical: "https://eulogikon.org/grc/ecphantus-the-pythagorean/kingship"
+canonical: "https://eulogikon.org/works/ecphantus-pythagorean-kingship-gqs-aa"
 period: Classical
 dialect: "Doric (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ecphantus the Pythagorean
 
-**eul_wid:** `gqs-aa` · [HTML page](https://eulogikon.org/grc/ecphantus-the-pythagorean/kingship)
+**eul_wid:** `gqs-aa` · [HTML page](https://eulogikon.org/works/ecphantus-pythagorean-kingship-gqs-aa)
 
 ## Text
 

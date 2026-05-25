@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Diophantus of Alexandria II
 eul_wid: rqm-ad
 eul_aid: rqm
-canonical: "https://eulogikon.org/grc/diophantus-of-alexandria-ii/astronomical-methods"
+canonical: "https://eulogikon.org/works/diophantus-alexandria-astronomical-methods-rqm-ad"
 period: Roman
 dialect: Technical Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Diophantus of Alexandria II
 
-**eul_wid:** `rqm-ad` · [HTML page](https://eulogikon.org/grc/diophantus-of-alexandria-ii/astronomical-methods)
+**eul_wid:** `rqm-ad` · [HTML page](https://eulogikon.org/works/diophantus-alexandria-astronomical-methods-rqm-ad)
 
 ## Text
 

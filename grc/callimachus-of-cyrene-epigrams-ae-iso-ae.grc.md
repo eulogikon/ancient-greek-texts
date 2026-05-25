@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Ἐπιγραμμάτων
 author: Callimachus of Cyrene the Poet and Scholar
 eul_wid: iso-ae
 eul_aid: iso
-canonical: "https://eulogikon.org/grc/callimachus-of-cyrene/epigrams-ae"
+canonical: "https://eulogikon.org/works/callimachus-cyrene-epigrams-iso-ae"
 period: Hellenistic
 dialect: Literary Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Callimachus of Cyrene the Poet and Scholar
 
-**eul_wid:** `iso-ae` · [HTML page](https://eulogikon.org/grc/callimachus-of-cyrene/epigrams-ae)
+**eul_wid:** `iso-ae` · [HTML page](https://eulogikon.org/works/callimachus-cyrene-epigrams-iso-ae)
 
 ## Text
 

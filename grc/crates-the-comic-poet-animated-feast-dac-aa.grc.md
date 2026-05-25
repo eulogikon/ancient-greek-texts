@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Crates the Comic Poet
 eul_wid: dac-aa
 eul_aid: dac
-canonical: "https://eulogikon.org/grc/crates-the-comic-poet/animated-feast"
+canonical: "https://eulogikon.org/works/crates-comic-animated-feast-dac-aa"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Crates the Comic Poet
 
-**eul_wid:** `dac-aa` · [HTML page](https://eulogikon.org/grc/crates-the-comic-poet/animated-feast)
+**eul_wid:** `dac-aa` · [HTML page](https://eulogikon.org/works/crates-comic-animated-feast-dac-aa)
 
 ## Text
 

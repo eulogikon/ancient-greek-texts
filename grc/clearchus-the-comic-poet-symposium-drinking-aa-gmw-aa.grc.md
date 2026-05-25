@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Clearchus the Comic Poet
 eul_wid: gmw-aa
 eul_aid: gmw
-canonical: "https://eulogikon.org/grc/clearchus-the-comic-poet/symposium-drinking-aa"
+canonical: "https://eulogikon.org/works/clearchus-comic-symposium-drinking-gmw-aa"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Clearchus the Comic Poet
 
-**eul_wid:** `gmw-aa` · [HTML page](https://eulogikon.org/grc/clearchus-the-comic-poet/symposium-drinking-aa)
+**eul_wid:** `gmw-aa` · [HTML page](https://eulogikon.org/works/clearchus-comic-symposium-drinking-gmw-aa)
 
 ## Text
 

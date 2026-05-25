@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Δήμητρος καὶ Φερσ
 author: Carcinus the Younger Tragedian of Thoricus
 eul_wid: fiw-aa
 eul_aid: fiw
-canonical: "https://eulogikon.org/grc/carcinus-the-younger-of-thoricus/demeter-persephone"
+canonical: "https://eulogikon.org/works/carcinus-thoricus-demeter-persephone-fiw-aa"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Carcinus the Younger Tragedian of Thoricus
 
-**eul_wid:** `fiw-aa` · [HTML page](https://eulogikon.org/grc/carcinus-the-younger-of-thoricus/demeter-persephone)
+**eul_wid:** `fiw-aa` · [HTML page](https://eulogikon.org/works/carcinus-thoricus-demeter-persephone-fiw-aa)
 
 ## Text
 
@@ -100,7 +100,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 6.1
 
-†οὐ κεῖνος ἐξέστησε· τὰς γὰρ ἐμφύτους ὀρθῶς
+οὐ κεῖνος ἐξέστησε· τὰς γὰρ ἐμφύτους ὀρθῶς
 
 ### book 6.2
 
@@ -128,7 +128,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 8.3
 
-ποιεῖ φθόνος· λυπεῖ γὰρ †αὐτὸ τὸ κτῆμα
+ποιεῖ φθόνος· λυπεῖ γὰρ αὐτὸ τὸ κτῆμα
 
 ### book 8.4
 
@@ -136,11 +136,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 9?
 
-–⏑ δειλόν ἐσθ’ ὁ πλοῦτος καὶ φιλόψυχον κακόν
+– δειλόν ἐσθ’ ὁ πλοῦτος καὶ φιλόψυχον κακόν
 
 ### book 10
 
-†ὦ πολλὰ πλοῦτος δυστυχέστατος κυρῶν ὅμως μέγιστον ζῆλον ἐν βροτοῖς ἔχει
+ὦ πολλὰ πλοῦτος δυστυχέστατος κυρῶν ὅμως μέγιστον ζῆλον ἐν βροτοῖς ἔχει
 
 ## License and provenance
 

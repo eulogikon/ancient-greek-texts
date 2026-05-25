@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Βίου καὶ Ἡδονῆς
 author: Apollodorus of Carystus I
 eul_wid: iie-ab
 eul_aid: iie
-canonical: "https://eulogikon.org/grc/apollodorus-of-carystus-i/life-pleasure"
+canonical: "https://eulogikon.org/works/apollodorus-carystus-life-pleasure-iie-ab"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Apollodorus of Carystus I
 
-**eul_wid:** `iie-ab` · [HTML page](https://eulogikon.org/grc/apollodorus-of-carystus-i/life-pleasure)
+**eul_wid:** `iie-ab` · [HTML page](https://eulogikon.org/works/apollodorus-carystus-life-pleasure-iie-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Hermaeus of Paropamisadae
 eul_wid: mzi-aa
 eul_aid: mzi
-canonical: "https://eulogikon.org/grc/hermaeus-paropamisadae/egyptian-deities"
+canonical: "https://eulogikon.org/works/hermaeus-paropamisadae-egyptian-deities-mzi-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hermaeus of Paropamisadae
 
-**eul_wid:** `mzi-aa` · [HTML page](https://eulogikon.org/grc/hermaeus-paropamisadae/egyptian-deities)
+**eul_wid:** `mzi-aa` · [HTML page](https://eulogikon.org/works/hermaeus-paropamisadae-egyptian-deities-mzi-aa)
 
 ## Text
 

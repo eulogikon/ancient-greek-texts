@@ -4,7 +4,7 @@ title_greek: Περὶ Λίθων
 author: "Dionysius of Alexandria "
 eul_wid: rna-ac
 eul_aid: rna
-canonical: "https://eulogikon.org/grc/dionysius-of-alexandria/lithica"
+canonical: "https://eulogikon.org/works/dionysius-alexandria-lithica-rna-ac"
 period: Roman
 dialect: Christian Koine
 domain: Geography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dionysius of Alexandria 
 
-**eul_wid:** `rna-ac` · [HTML page](https://eulogikon.org/grc/dionysius-of-alexandria/lithica)
+**eul_wid:** `rna-ac` · [HTML page](https://eulogikon.org/works/dionysius-alexandria-lithica-rna-ac)
 
 ## Text
 

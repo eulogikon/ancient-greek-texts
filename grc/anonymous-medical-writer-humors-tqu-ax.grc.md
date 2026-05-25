@@ -4,7 +4,7 @@ title_greek: Περὶ Χυμῶν
 author: Medical Writer  Anonymous
 eul_wid: tqu-ax
 eul_aid: tqu
-canonical: "https://eulogikon.org/grc/anonymous-medical-writer/humors"
+canonical: "https://eulogikon.org/works/med-writer-anon-humors-tqu-ax"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Medical Writer  Anonymous
 
-**eul_wid:** `tqu-ax` · [HTML page](https://eulogikon.org/grc/anonymous-medical-writer/humors)
+**eul_wid:** `tqu-ax` · [HTML page](https://eulogikon.org/works/med-writer-anon-humors-tqu-ax)
 
 ## Text
 

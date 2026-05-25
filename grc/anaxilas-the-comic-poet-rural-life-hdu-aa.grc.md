@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Βίου Ἀγροικοῦ
 author: "Anaxilas the Comic Poet "
 eul_wid: hdu-aa
 eul_aid: hdu
-canonical: "https://eulogikon.org/grc/anaxilas-the-comic-poet/rural-life"
+canonical: "https://eulogikon.org/works/anaxilas-rural-life-hdu-aa"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Anaxilas the Comic Poet 
 
-**eul_wid:** `hdu-aa` · [HTML page](https://eulogikon.org/grc/anaxilas-the-comic-poet/rural-life)
+**eul_wid:** `hdu-aa` · [HTML page](https://eulogikon.org/works/anaxilas-rural-life-hdu-aa)
 
 ## Text
 

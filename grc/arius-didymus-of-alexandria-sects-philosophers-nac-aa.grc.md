@@ -4,7 +4,7 @@ title_greek: Περὶ Αἱρέσεων Φιλοσόφων
 author: Arius Didymus of Alexandria
 eul_wid: nac-aa
 eul_aid: nac
-canonical: "https://eulogikon.org/grc/arius-didymus-of-alexandria/sects-philosophers"
+canonical: "https://eulogikon.org/works/arius-didymus-alexandria-sects-philosophers-nac-aa"
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Arius Didymus of Alexandria
 
-**eul_wid:** `nac-aa` · [HTML page](https://eulogikon.org/grc/arius-didymus-of-alexandria/sects-philosophers)
+**eul_wid:** `nac-aa` · [HTML page](https://eulogikon.org/works/arius-didymus-alexandria-sects-philosophers-nac-aa)
 
 ## Text
 

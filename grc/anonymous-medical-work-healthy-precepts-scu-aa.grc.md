@@ -4,7 +4,7 @@ title_greek: Ὑγιειναὶ Παραγγελίαι
 author: Medical Work  Anonymous
 eul_wid: scu-aa
 eul_aid: scu
-canonical: "https://eulogikon.org/grc/anonymous-medical-work/healthy-precepts"
+canonical: "https://eulogikon.org/works/medica-anon-healthy-precepts-scu-aa"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Medical Work  Anonymous
 
-**eul_wid:** `scu-aa` · [HTML page](https://eulogikon.org/grc/anonymous-medical-work/healthy-precepts)
+**eul_wid:** `scu-aa` · [HTML page](https://eulogikon.org/works/medica-anon-healthy-precepts-scu-aa)
 
 ## Text
 

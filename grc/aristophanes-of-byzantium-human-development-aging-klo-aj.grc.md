@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Aristophanes of Byzantium
 eul_wid: klo-aj
 eul_aid: klo
-canonical: "https://eulogikon.org/grc/aristophanes-of-byzantium/human-development-aging"
+canonical: "https://eulogikon.org/works/aristophanes-byzantium-human-development-aging-klo-aj"
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristophanes of Byzantium
 
-**eul_wid:** `klo-aj` · [HTML page](https://eulogikon.org/grc/aristophanes-of-byzantium/human-development-aging)
+**eul_wid:** `klo-aj` · [HTML page](https://eulogikon.org/works/aristophanes-byzantium-human-development-aging-klo-aj)
 
 ## Text
 

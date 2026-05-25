@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Dionysius of Chalcis
 eul_wid: gpe-aa
 eul_aid: gpe
-canonical: "https://eulogikon.org/grc/dionysius-of-chalcis/foundations-cities"
+canonical: "https://eulogikon.org/works/dionysius-chalcis-foundations-cities-gpe-aa"
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dionysius of Chalcis
 
-**eul_wid:** `gpe-aa` · [HTML page](https://eulogikon.org/grc/dionysius-of-chalcis/foundations-cities)
+**eul_wid:** `gpe-aa` · [HTML page](https://eulogikon.org/works/dionysius-chalcis-foundations-cities-gpe-aa)
 
 ## Text
 

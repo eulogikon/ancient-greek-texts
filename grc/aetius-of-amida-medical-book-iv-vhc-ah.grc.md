@@ -4,7 +4,7 @@ title_greek: Ἰατρικὸν Βιβλίον Δʹ
 author: Aëtius of Amida
 eul_wid: vhc-ah
 eul_aid: vhc
-canonical: "https://eulogikon.org/grc/aetius-of-amida/medical-book-iv"
+canonical: "https://eulogikon.org/works/aetius-amida-medical-book-iv-vhc-ah"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aëtius of Amida
 
-**eul_wid:** `vhc-ah` · [HTML page](https://eulogikon.org/grc/aetius-of-amida/medical-book-iv)
+**eul_wid:** `vhc-ah` · [HTML page](https://eulogikon.org/works/aetius-amida-medical-book-iv-vhc-ah)
 
 ## Text
 

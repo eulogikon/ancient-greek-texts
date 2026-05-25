@@ -4,7 +4,7 @@ title_greek: Περὶ Συνθέσεως Λέξεων
 author: Dionysius of Halicarnassus
 eul_wid: ndy-ae
 eul_aid: ndy
-canonical: "https://eulogikon.org/grc/dionysius-of-halicarnassus/composition-words"
+canonical: "https://eulogikon.org/works/dionysius-halicarnassus-composition-words-ndy-ae"
 period: Hellenistic
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dionysius of Halicarnassus
 
-**eul_wid:** `ndy-ae` · [HTML page](https://eulogikon.org/grc/dionysius-of-halicarnassus/composition-words)
+**eul_wid:** `ndy-ae` · [HTML page](https://eulogikon.org/works/dionysius-halicarnassus-composition-words-ndy-ae)
 
 ## Text
 

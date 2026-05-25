@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ποτηρίων
 author: Epigenes of Byzantium
 eul_wid: ino-aa
 eul_aid: ino
-canonical: "https://eulogikon.org/grc/epigenes-of-byzantium/drinking-vessels"
+canonical: "https://eulogikon.org/works/epigenes-byzantium-drinking-vessels-ino-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Epigenes of Byzantium
 
-**eul_wid:** `ino-aa` · [HTML page](https://eulogikon.org/grc/epigenes-of-byzantium/drinking-vessels)
+**eul_wid:** `ino-aa` · [HTML page](https://eulogikon.org/works/epigenes-byzantium-drinking-vessels-ino-aa)
 
 ## Text
 

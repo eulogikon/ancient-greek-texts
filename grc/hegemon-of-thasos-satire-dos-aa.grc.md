@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Hegemon of Thasos
 eul_wid: dos-aa
 eul_aid: dos
-canonical: "https://eulogikon.org/grc/hegemon-of-thasos/satire"
+canonical: "https://eulogikon.org/works/hegemon-thasos-satire-dos-aa"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hegemon of Thasos
 
-**eul_wid:** `dos-aa` · [HTML page](https://eulogikon.org/grc/hegemon-of-thasos/satire)
+**eul_wid:** `dos-aa` · [HTML page](https://eulogikon.org/works/hegemon-thasos-satire-dos-aa)
 
 ## Text
 

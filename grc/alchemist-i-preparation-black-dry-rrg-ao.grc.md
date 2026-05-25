@@ -4,7 +4,7 @@ title_greek: Τίς ἡ τοῦ μέλανος ξηρίου κατασκευή
 author: Alchemist I
 eul_wid: rrg-ao
 eul_aid: rrg
-canonical: "https://eulogikon.org/grc/alchemist-i/preparation-black-dry"
+canonical: "https://eulogikon.org/works/alchemist-i-preparation-black-dry-rrg-ao"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alchemist I
 
-**eul_wid:** `rrg-ao` · [HTML page](https://eulogikon.org/grc/alchemist-i/preparation-black-dry)
+**eul_wid:** `rrg-ao` · [HTML page](https://eulogikon.org/works/alchemist-i-preparation-black-dry-rrg-ao)
 
 ## Text
 

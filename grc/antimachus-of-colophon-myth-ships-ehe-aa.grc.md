@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Μύθων καὶ Νεῶν
 author: Antimachus of Colophon
 eul_wid: ehe-aa
 eul_aid: ehe
-canonical: "https://eulogikon.org/grc/antimachus-of-colophon/myth-ships"
+canonical: "https://eulogikon.org/works/antimachus-colophon-myth-ships-ehe-aa"
 period: Classical
 dialect: Epic (Homeric) (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Antimachus of Colophon
 
-**eul_wid:** `ehe-aa` · [HTML page](https://eulogikon.org/grc/antimachus-of-colophon/myth-ships)
+**eul_wid:** `ehe-aa` · [HTML page](https://eulogikon.org/works/antimachus-colophon-myth-ships-ehe-aa)
 
 ## Text
 
@@ -44,7 +44,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 67
 
-†γενεᾷ Καβάρνους θῆκεν ἀβακλέας ὀργειῶνας.
+γενεᾷ Καβάρνους θῆκεν ἀβακλέας ὀργειῶνας.
 
 ### book 70.1
 
@@ -80,7 +80,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 102
 
-[ εἶ‐ τά τε [Ἀφροδίτην ἀν]αισ[χύντως ἐρᾶν ἀνθρώ[πων, ὡς Ἀδώ‐[ln_5]νιδο[ς, φασὶν Καλλίμα‐ χος καὶ Π̣[ανύασσις καὶ Ἡ̣σ̣ίοδ̣[ος καὶ πλείους ἄλ[λοι
+[ εἶ‐ τά τε [Ἀφροδίτην ἀν]αισ[χύντως ἐρᾶν ἀνθρώ[πων, ὡς Ἀδώ‐[ln_5]νιδο[ς, φασὶν Καλλίμα‐ χος καὶ Π[ανύασσις καὶ Ἡσίοδ[ος καὶ πλείους ἄλ[λοι
 
 ### book 191
 

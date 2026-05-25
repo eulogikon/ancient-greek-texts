@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Φυσικῆς καὶ Αἰσθ
 author: Apollophanes the Stoic
 eul_wid: jzg-aa
 eul_aid: jzg
-canonical: "https://eulogikon.org/grc/apollophanes-the-stoic/physics-perception"
+canonical: "https://eulogikon.org/works/apollophanes-stoic-physics-perception-jzg-aa"
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Apollophanes the Stoic
 
-**eul_wid:** `jzg-aa` · [HTML page](https://eulogikon.org/grc/apollophanes-the-stoic/physics-perception)
+**eul_wid:** `jzg-aa` · [HTML page](https://eulogikon.org/works/apollophanes-stoic-physics-perception-jzg-aa)
 
 ## Text
 
@@ -36,7 +36,7 @@ Diogenes Laërt. VII 92. ὁ μὲν γὰρ Ἀπολλοφάνης μίαν λ
 
 ### 407
 
-Fragmenta Herculanensia ed. Scott p. 271 (Pap. 19—698 Scriptor incertus περὶ αἰσθήσεως col. 15) ——χρόνοις, τὴν δ’ αἴσθη σιν τὰ καθ’ ἕνα κ(ρι)νεῖν ἢ μνήμης μεθέξειν. (ὁ δ’) Ἀπολλοφάνη ς, ὑπὸ τοῦ πιθανοῦ ἀπ̣α̣τ̣ηθείς, τὸ μὲν καὶ μνήμην αὐ ταῖς περιάπτειν κατῃ δέσθη, τὸ δ’ ἀναλογίας μετέχειν προσ(ε)δέξα τ̣ο̣, ὅπως καὶ τοῦ μηκέ τ’ ὄντος ἀποδῷ διαίς θησιν αὐτ(αῖς, ὥ)σπερ ἵνα σώσωμεν ἐνάργειαν ἄλλας δέον ἐπ̣ι̣βάλλειν ἐναργείας.
+Fragmenta Herculanensia ed. Scott p. 271 (Pap. 19—698 Scriptor incertus περὶ αἰσθήσεως col. 15) ——χρόνοις, τὴν δ’ αἴσθη σιν τὰ καθ’ ἕνα κ(ρι)νεῖν ἢ μνήμης μεθέξειν. (ὁ δ’) Ἀπολλοφάνη ς, ὑπὸ τοῦ πιθανοῦ ἀπατηθείς, τὸ μὲν καὶ μνήμην αὐ ταῖς περιάπτειν κατῃ δέσθη, τὸ δ’ ἀναλογίας μετέχειν προσ(ε)δέξα το, ὅπως καὶ τοῦ μηκέ τ’ ὄντος ἀποδῷ διαίς θησιν αὐτ(αῖς, ὥ)σπερ ἵνα σώσωμεν ἐνάργειαν ἄλλας δέον ἐπιβάλλειν ἐναργείας.
 
 ### 408
 

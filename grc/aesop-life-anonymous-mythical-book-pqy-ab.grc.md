@@ -4,7 +4,7 @@ title_greek: Βιβλίον μυθικὸν τοῦ Αἰσώπου
 author: Aesop Life-anonymous
 eul_wid: pqy-ab
 eul_aid: pqy
-canonical: "https://eulogikon.org/grc/aesop-life-anonymous/mythical-book"
+canonical: "https://eulogikon.org/works/aesop-mythical-book-pqy-ab"
 period: Roman
 dialect: Koine
 domain: Fiction
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aesop Life-anonymous
 
-**eul_wid:** `pqy-ab` · [HTML page](https://eulogikon.org/grc/aesop-life-anonymous/mythical-book)
+**eul_wid:** `pqy-ab` · [HTML page](https://eulogikon.org/works/aesop-mythical-book-pqy-ab)
 
 ## Text
 

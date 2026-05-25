@@ -4,7 +4,7 @@ title_greek: Πρὸς Πλάτωνα περὶ ῥητορικῆς
 author: Aristides the Orator
 eul_wid: qwm-az
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/plato-rhetoric"
+canonical: "https://eulogikon.org/works/aristides-orator-plato-rhetoric-qwm-az"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-az` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/plato-rhetoric)
+**eul_wid:** `qwm-az` · [HTML page](https://eulogikon.org/works/aristides-orator-plato-rhetoric-qwm-az)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι καὶ Ἀποσπάσματα
 author: Hermodorus of Ephesus
 eul_wid: exs-aa
 eul_aid: exs
-canonical: "https://eulogikon.org/grc/hermodorus-of-ephesus/testimonies-fragments"
+canonical: "https://eulogikon.org/works/hermodorus-ephesus-testimonies-fragments-exs-aa"
 period: Classical
 dialect: Ionic
 domain: Philosophy
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hermodorus of Ephesus
 
-**eul_wid:** `exs-aa` · [HTML page](https://eulogikon.org/grc/hermodorus-of-ephesus/testimonies-fragments)
+**eul_wid:** `exs-aa` · [HTML page](https://eulogikon.org/works/hermodorus-ephesus-testimonies-fragments-exs-aa)
 
 ## Text
 
 ### 1
 
-Ἑρ μ[όδ]ωρος Συρακόσιος ὁ καὶ πε ρὶ α[ὐ]τοῦ γράψας καὶ τοὺς λό γο̣υς ε̣ἰς Σικελίαν [μετ]αφέ [ρω]ν̣.
+Ἑρ μ[όδ]ωρος Συρακόσιος ὁ καὶ πε ρὶ α[ὐ]τοῦ γράψας καὶ τοὺς λό γους εἰς Σικελίαν [μετ]αφέ [ρω]ν.
 
 ### 2
 

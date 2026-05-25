@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Diotimus of Tyre
 eul_wid: dmu-aa
 eul_aid: dmu
-canonical: "https://eulogikon.org/grc/diotimus-of-tyre/testimonies"
+canonical: "https://eulogikon.org/works/diotimus-tyre-testimonies-dmu-aa"
 period: Classical
 dialect: "Attic (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Diotimus of Tyre
 
-**eul_wid:** `dmu-aa` · [HTML page](https://eulogikon.org/grc/diotimus-of-tyre/testimonies)
+**eul_wid:** `dmu-aa` · [HTML page](https://eulogikon.org/works/diotimus-tyre-testimonies-dmu-aa)
 
 ## Text
 

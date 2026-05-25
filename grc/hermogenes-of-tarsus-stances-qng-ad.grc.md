@@ -4,7 +4,7 @@ title_greek: Περὶ στάσεων
 author: Hermogenes of Tarsus
 eul_wid: qng-ad
 eul_aid: qng
-canonical: "https://eulogikon.org/grc/hermogenes-of-tarsus/stances"
+canonical: "https://eulogikon.org/works/hermogenes-tarsus-stances-qng-ad"
 period: Roman
 dialect: Atticizing Technical
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hermogenes of Tarsus
 
-**eul_wid:** `qng-ad` · [HTML page](https://eulogikon.org/grc/hermogenes-of-tarsus/stances)
+**eul_wid:** `qng-ad` · [HTML page](https://eulogikon.org/works/hermogenes-tarsus-stances-qng-ad)
 
 ## Text
 

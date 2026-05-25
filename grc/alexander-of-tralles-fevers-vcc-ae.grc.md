@@ -4,7 +4,7 @@ title_greek: Περὶ πυρετῶν
 author: Alexander of Tralles
 eul_wid: vcc-ae
 eul_aid: vcc
-canonical: "https://eulogikon.org/grc/alexander-of-tralles/fevers"
+canonical: "https://eulogikon.org/works/alexander-tralleis-fevers-vcc-ae"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alexander of Tralles
 
-**eul_wid:** `vcc-ae` · [HTML page](https://eulogikon.org/grc/alexander-of-tralles/fevers)
+**eul_wid:** `vcc-ae` · [HTML page](https://eulogikon.org/works/alexander-tralleis-fevers-vcc-ae)
 
 ## Text
 

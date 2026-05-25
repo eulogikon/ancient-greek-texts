@@ -4,7 +4,7 @@ title_greek: Ἐπίγονοι
 author: Epigoni
 eul_wid: abo-aa
 eul_aid: abo
-canonical: "https://eulogikon.org/grc/epigoni/text"
+canonical: "https://eulogikon.org/works/epigoni-text-abo-aa"
 period: Archaic
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Epigoni
 
-**eul_wid:** `abo-aa` · [HTML page](https://eulogikon.org/grc/epigoni/text)
+**eul_wid:** `abo-aa` · [HTML page](https://eulogikon.org/works/epigoni-text-abo-aa)
 
 ## Text
 
@@ -44,7 +44,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 7.2
 
-πεπαυμένοι 〈–⏑⏑–⏓〉 πύργων δ’ ἐξεχέοντο, βοὴ δ’ ἄσβεστος ὀρώρει.
+πεπαυμένοι 〈––〉 πύργων δ’ ἐξεχέοντο, βοὴ δ’ ἄσβεστος ὀρώρει.
 
 ### book 8.1
 

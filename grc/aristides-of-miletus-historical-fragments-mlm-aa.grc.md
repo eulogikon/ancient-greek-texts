@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Aristides of Miletus the Novelist
 eul_wid: mlm-aa
 eul_aid: mlm
-canonical: "https://eulogikon.org/grc/aristides-of-miletus/historical-fragments"
+canonical: "https://eulogikon.org/works/aristides-miletus-historical-fragments-mlm-aa"
 period: Hellenistic
 dialect: Ionic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides of Miletus the Novelist
 
-**eul_wid:** `mlm-aa` · [HTML page](https://eulogikon.org/grc/aristides-of-miletus/historical-fragments)
+**eul_wid:** `mlm-aa` · [HTML page](https://eulogikon.org/works/aristides-miletus-historical-fragments-mlm-aa)
 
 ## Text
 

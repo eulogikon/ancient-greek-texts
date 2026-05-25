@@ -4,7 +4,7 @@ title_greek: Πρὸς τὴν Ἀσίαν Κοινότητα
 author: Antoninus Pius Letters
 eul_wid: ppk-aa
 eul_aid: ppk
-canonical: "https://eulogikon.org/grc/antoninus-pius/asia-letter"
+canonical: "https://eulogikon.org/works/antoninus-pius-asia-letter-ppk-aa"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Antoninus Pius Letters
 
-**eul_wid:** `ppk-aa` · [HTML page](https://eulogikon.org/grc/antoninus-pius/asia-letter)
+**eul_wid:** `ppk-aa` · [HTML page](https://eulogikon.org/works/antoninus-pius-asia-letter-ppk-aa)
 
 ## Text
 

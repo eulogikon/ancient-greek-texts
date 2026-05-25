@@ -4,7 +4,7 @@ title_greek: Ἐγκώμιον εἰς Μαρκιανὸν Ἐπίσκοπον
 author: Choricius the Sophist of Gaza
 eul_wid: uvo-aa
 eul_aid: uvo
-canonical: "https://eulogikon.org/grc/choricius-of-gaza/encomium-marcian"
+canonical: "https://eulogikon.org/works/choricius-gaza-encomium-marcian-uvo-aa"
 period: Late Antique
 dialect: Christian Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Choricius the Sophist of Gaza
 
-**eul_wid:** `uvo-aa` · [HTML page](https://eulogikon.org/grc/choricius-of-gaza/encomium-marcian)
+**eul_wid:** `uvo-aa` · [HTML page](https://eulogikon.org/works/choricius-gaza-encomium-marcian-uvo-aa)
 
 ## Text
 

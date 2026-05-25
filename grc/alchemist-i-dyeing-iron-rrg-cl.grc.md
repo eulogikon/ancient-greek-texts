@@ -4,7 +4,7 @@ title_greek: Περὶ βαφῆς σιδήρου
 author: Alchemist I
 eul_wid: rrg-cl
 eul_aid: rrg
-canonical: "https://eulogikon.org/grc/alchemist-i/dyeing-iron"
+canonical: "https://eulogikon.org/works/alchemist-i-dyeing-iron-rrg-cl"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alchemist I
 
-**eul_wid:** `rrg-cl` · [HTML page](https://eulogikon.org/grc/alchemist-i/dyeing-iron)
+**eul_wid:** `rrg-cl` · [HTML page](https://eulogikon.org/works/alchemist-i-dyeing-iron-rrg-cl)
 
 ## Text
 

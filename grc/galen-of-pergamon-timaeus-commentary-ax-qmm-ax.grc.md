@@ -4,7 +4,7 @@ title_greek: Ὑπομνήματα εἰς τὰ τοῦ Πλάτωνος Τιμ
 author: Galen of Pergamon
 eul_wid: qmm-ax
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/timaeus-commentary-ax"
+canonical: "https://eulogikon.org/works/galen-pergamon-timaeus-commentary-qmm-ax"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-ax` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/timaeus-commentary-ax)
+**eul_wid:** `qmm-ax` · [HTML page](https://eulogikon.org/works/galen-pergamon-timaeus-commentary-qmm-ax)
 
 ## Text
 

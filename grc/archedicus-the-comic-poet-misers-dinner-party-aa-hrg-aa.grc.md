@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Archedicus the Comic Poet
 eul_wid: hrg-aa
 eul_aid: hrg
-canonical: "https://eulogikon.org/grc/archedicus-the-comic-poet/misers-dinner-party-aa"
+canonical: "https://eulogikon.org/works/archedicus-misers-dinner-party-hrg-aa"
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Archedicus the Comic Poet
 
-**eul_wid:** `hrg-aa` · [HTML page](https://eulogikon.org/grc/archedicus-the-comic-poet/misers-dinner-party-aa)
+**eul_wid:** `hrg-aa` · [HTML page](https://eulogikon.org/works/archedicus-misers-dinner-party-hrg-aa)
 
 ## Text
 

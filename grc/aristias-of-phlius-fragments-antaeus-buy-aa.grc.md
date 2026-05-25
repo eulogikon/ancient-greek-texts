@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Ἀνταίου
 author: Aristias of Phlius
 eul_wid: buy-aa
 eul_aid: buy
-canonical: "https://eulogikon.org/grc/aristias-of-phlius/fragments-antaeus"
+canonical: "https://eulogikon.org/works/aristias-phlius-fragments-antaeus-buy-aa"
 period: Classical
 dialect: "Attic (dr, frg)"
 domain: Drama
@@ -18,17 +18,17 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristias of Phlius
 
-**eul_wid:** `buy-aa` · [HTML page](https://eulogikon.org/grc/aristias-of-phlius/fragments-antaeus)
+**eul_wid:** `buy-aa` · [HTML page](https://eulogikon.org/works/aristias-phlius-fragments-antaeus-buy-aa)
 
 ## Text
 
 ### book 1.1
 
-[ln_1][spk_ανταιος]ΑΝΤΑΙΟΣ·[ln_1]?–⏑〉 Αἰγαίου
+[ln_1][spk_ανταιος]ΑΝΤΑΙΟΣ·[ln_1]?–〉 Αἰγαίου
 
 ### book 1.2
 
-Ποσειδῶ παῖς, πατὴρ δ’ ἐμὸς 〈⏑–?
+Ποσειδῶ παῖς, πατὴρ δ’ ἐμὸς 〈–?
 
 ### book 2.1
 

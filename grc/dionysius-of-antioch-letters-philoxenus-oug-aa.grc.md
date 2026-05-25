@@ -4,7 +4,7 @@ title_greek: Ἐπιστολαὶ πρὸς Φιλόξενον
 author: Dionysius of Antioch
 eul_wid: oug-aa
 eul_aid: oug
-canonical: "https://eulogikon.org/grc/dionysius-of-antioch/letters-philoxenus"
+canonical: "https://eulogikon.org/works/dionysius-antioch-letters-philoxenus-oug-aa"
 period: Roman
 dialect: Byzantine Greek
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dionysius of Antioch
 
-**eul_wid:** `oug-aa` · [HTML page](https://eulogikon.org/grc/dionysius-of-antioch/letters-philoxenus)
+**eul_wid:** `oug-aa` · [HTML page](https://eulogikon.org/works/dionysius-antioch-letters-philoxenus-oug-aa)
 
 ## Text
 

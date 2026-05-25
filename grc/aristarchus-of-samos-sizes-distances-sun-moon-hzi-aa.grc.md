@@ -4,7 +4,7 @@ title_greek: Περὶ Μεγεθῶν καὶ Ἀποστάσεων Ἡλίου
 author: Aristarchus of Samos
 eul_wid: hzi-aa
 eul_aid: hzi
-canonical: "https://eulogikon.org/grc/aristarchus-of-samos/sizes-distances-sun-moon"
+canonical: "https://eulogikon.org/works/aristarchus-samos-sizes-distances-sun-moon-hzi-aa"
 period: Hellenistic
 dialect: Ionic
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristarchus of Samos
 
-**eul_wid:** `hzi-aa` · [HTML page](https://eulogikon.org/grc/aristarchus-of-samos/sizes-distances-sun-moon)
+**eul_wid:** `hzi-aa` · [HTML page](https://eulogikon.org/works/aristarchus-samos-sizes-distances-sun-moon-hzi-aa)
 
 ## Text
 

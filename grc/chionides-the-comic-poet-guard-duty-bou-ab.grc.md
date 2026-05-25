@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Φυλακῆς Κωμικά
 author: Chionides the Comic Poet
 eul_wid: bou-ab
 eul_aid: bou
-canonical: "https://eulogikon.org/grc/chionides-the-comic-poet/guard-duty"
+canonical: "https://eulogikon.org/works/chionides-guard-duty-bou-ab"
 period: Archaic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Chionides the Comic Poet
 
-**eul_wid:** `bou-ab` · [HTML page](https://eulogikon.org/grc/chionides-the-comic-poet/guard-duty)
+**eul_wid:** `bou-ab` · [HTML page](https://eulogikon.org/works/chionides-guard-duty-bou-ab)
 
 ## Text
 

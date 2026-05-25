@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν τεσσάρων στοιχείων
 author: Alchemist I
 eul_wid: rrg-bp
 eul_aid: rrg
-canonical: "https://eulogikon.org/grc/alchemist-i/four-elements"
+canonical: "https://eulogikon.org/works/alchemist-i-four-elements-rrg-bp"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alchemist I
 
-**eul_wid:** `rrg-bp` · [HTML page](https://eulogikon.org/grc/alchemist-i/four-elements)
+**eul_wid:** `rrg-bp` · [HTML page](https://eulogikon.org/works/alchemist-i-four-elements-rrg-bp)
 
 ## Text
 

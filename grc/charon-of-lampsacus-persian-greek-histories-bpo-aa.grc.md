@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Charon of Lampsacus
 eul_wid: bpo-aa
 eul_aid: bpo
-canonical: "https://eulogikon.org/grc/charon-of-lampsacus/persian-greek-histories"
+canonical: "https://eulogikon.org/works/charon-lampsacus-persian-greek-histories-bpo-aa"
 period: Archaic
 dialect: Ionic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Charon of Lampsacus
 
-**eul_wid:** `bpo-aa` · [HTML page](https://eulogikon.org/grc/charon-of-lampsacus/persian-greek-histories)
+**eul_wid:** `bpo-aa` · [HTML page](https://eulogikon.org/works/charon-lampsacus-persian-greek-histories-bpo-aa)
 
 ## Text
 

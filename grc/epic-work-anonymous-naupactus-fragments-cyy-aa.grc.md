@@ -4,7 +4,7 @@ title_greek: Ναυπάκτια Ἀποσπάσματα
 author: Epic Work Anonymous
 eul_wid: cyy-aa
 eul_aid: cyy
-canonical: "https://eulogikon.org/grc/epic-work-anonymous/naupactus-fragments"
+canonical: "https://eulogikon.org/works/anon-epic-naupactus-fragments-cyy-aa"
 period: Classical
 dialect: Epic (Homeric) (frg)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Epic Work Anonymous
 
-**eul_wid:** `cyy-aa` · [HTML page](https://eulogikon.org/grc/epic-work-anonymous/naupactus-fragments)
+**eul_wid:** `cyy-aa` · [HTML page](https://eulogikon.org/works/anon-epic-naupactus-fragments-cyy-aa)
 
 ## Text
 

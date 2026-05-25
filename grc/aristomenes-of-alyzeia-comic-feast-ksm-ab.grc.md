@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Συμποσίου Κωμικοῦ
 author: Aristomenes of Alyzeia
 eul_wid: ksm-ab
 eul_aid: ksm
-canonical: "https://eulogikon.org/grc/aristomenes-of-alyzeia/comic-feast"
+canonical: "https://eulogikon.org/works/aristomenes-alyzeia-comic-feast-ksm-ab"
 period: Hellenistic
 dialect: Koine (frg)
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristomenes of Alyzeia
 
-**eul_wid:** `ksm-ab` · [HTML page](https://eulogikon.org/grc/aristomenes-of-alyzeia/comic-feast)
+**eul_wid:** `ksm-ab` · [HTML page](https://eulogikon.org/works/aristomenes-alyzeia-comic-feast-ksm-ab)
 
 ## Text
 

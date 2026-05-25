@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Alexander of Aetolia
 eul_wid: iuc-ab
 eul_aid: iuc
-canonical: "https://eulogikon.org/grc/alexander-of-aetolia/epigrams"
+canonical: "https://eulogikon.org/works/alexander-aetolia-epigrams-iuc-ab"
 period: Hellenistic
 dialect: Attic (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alexander of Aetolia
 
-**eul_wid:** `iuc-ab` · [HTML page](https://eulogikon.org/grc/alexander-of-aetolia/epigrams)
+**eul_wid:** `iuc-ab` · [HTML page](https://eulogikon.org/works/alexander-aetolia-epigrams-iuc-ab)
 
 ## Text
 

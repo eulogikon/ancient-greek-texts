@@ -4,7 +4,7 @@ title_greek: Ἐλεγειακῆς Ποιήσεως Ἀποσπάσματα
 author: "Amyntas of Telmessos "
 eul_wid: gxg-aa
 eul_aid: gxg
-canonical: "https://eulogikon.org/grc/amyntas-of-telmessos/elegiac-fragments"
+canonical: "https://eulogikon.org/works/amyntas-telmessos-elegiac-fragments-gxg-aa"
 period: Classical
 dialect: Attic
 domain: Poetry
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Amyntas of Telmessos 
 
-**eul_wid:** `gxg-aa` · [HTML page](https://eulogikon.org/grc/amyntas-of-telmessos/elegiac-fragments)
+**eul_wid:** `gxg-aa` · [HTML page](https://eulogikon.org/works/amyntas-telmessos-elegiac-fragments-gxg-aa)
 
 ## Text
 
 ### book 42.1
 
-Ἀμύντου[ln_1]α̣υχμα.....[...].ον ὑπ’ ὀφρύος ἄνθεσι δάκρυ μ[ ]λωνενβ̣ρ..ς̣...ρ̣[..].ρ..π.ς
+Ἀμύντου[ln_1]αυχμα.....[...].ον ὑπ’ ὀφρύος ἄνθεσι δάκρυ μ[ ]λωνενβρ..ς...ρ[..].ρ..π.ς
 
 ### book 42.2
 
@@ -32,7 +32,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 43.1
 
-〈 〉[ln_1]φράζε, γύναι, τίς ἐοῦσα κ[α]ὶ̣ ἐκ τίνος, εἰπέ τε πάτρην, καὶ ποίας ἔθανες νούσου ὑπ’ ἀργαλέης. οὔνομα μὲν
+〈 〉[ln_1]φράζε, γύναι, τίς ἐοῦσα κ[α]ὶ ἐκ τίνος, εἰπέ τε πάτρην, καὶ ποίας ἔθανες νούσου ὑπ’ ἀργαλέης. οὔνομα μὲν
 
 ### book 43.2
 
@@ -52,19 +52,19 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 44.1
 
-Ἀμύντου[ln_1]†τασπ.σαρος ἄτρεστον Λακεδαίμονα, τᾶς χέρα μούνας
+Ἀμύντου[ln_1]τασπ.σαρος ἄτρεστον Λακεδαίμονα, τᾶς χέρα μούνας
 
 ### book 44.2
 
-πολλάκισανπο̣..σ̣ι δ̣[ῆ]ριν ἔφριξεν Ἄρης, νῦν ὑπ’ ἀνικάτωι
+πολλάκισανπο..σι δ[ῆ]ριν ἔφριξεν Ἄρης, νῦν ὑπ’ ἀνικάτωι
 
 ### book 44.3
 
-Φιλοποίμενι δουρί τ’ Ἀχα̣ι̣ῶ̣ν̣ πρηνὴς ἐκ
+Φιλοποίμενι δουρί τ’ Ἀχαιῶν πρηνὴς ἐκ
 
 ### book 44.4
 
-τρισσᾶν ἤριπε μυριάδων,[ln_5]ἄσκεπος. οἰωνοὶ δὲ περισμυχηρὸν ἰδόντες μύρονται, πεδίον δ’ οὐκ ἐπίασι βόες. κ]απνὸν δ’ ἐκθρώσ̣[κοντα] π̣α̣ρ̣’ Ε̣ὐ̣[ρ]ώ̣τ̣α̣ο̣ λοετροῖς Ἑλ]λ̣ὰ̣ς δερκομένα [μύρεται ἀ]κρό̣πο̣[λιν. *
+τρισσᾶν ἤριπε μυριάδων,[ln_5]ἄσκεπος. οἰωνοὶ δὲ περισμυχηρὸν ἰδόντες μύρονται, πεδίον δ’ οὐκ ἐπίασι βόες. κ]απνὸν δ’ ἐκθρώσ[κοντα] παρ’ Εὐ[ρ]ώταο λοετροῖς Ἑλ]λὰς δερκομένα [μύρεται ἀ]κρόπο[λιν. *
 
 ## License and provenance
 

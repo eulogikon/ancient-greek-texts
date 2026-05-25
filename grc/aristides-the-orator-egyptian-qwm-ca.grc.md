@@ -4,7 +4,7 @@ title_greek: Αἰγύπτιος
 author: Aristides the Orator
 eul_wid: qwm-ca
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/egyptian"
+canonical: "https://eulogikon.org/works/aristides-orator-egyptian-qwm-ca"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-ca` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/egyptian)
+**eul_wid:** `qwm-ca` · [HTML page](https://eulogikon.org/works/aristides-orator-egyptian-qwm-ca)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: "Ἐκ τῶν Ὀρέστου Στασίμων Α'"
 author: Astronomical Work Anonymous I
 eul_wid: oxi-aa
 eul_aid: oxi
-canonical: "https://eulogikon.org/grc/anonymous-astronomical-i/orestes-stasimon"
+canonical: "https://eulogikon.org/works/anon-astronomical-i-orestes-stasimon-oxi-aa"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Astronomical Work Anonymous I
 
-**eul_wid:** `oxi-aa` · [HTML page](https://eulogikon.org/grc/anonymous-astronomical-i/orestes-stasimon)
+**eul_wid:** `oxi-aa` · [HTML page](https://eulogikon.org/works/anon-astronomical-i-orestes-stasimon-oxi-aa)
 
 ## Text
 

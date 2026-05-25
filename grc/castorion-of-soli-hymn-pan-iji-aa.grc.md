@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Castorion of Soli
 eul_wid: iji-aa
 eul_aid: iji
-canonical: "https://eulogikon.org/grc/castorion-of-soli/hymn-pan"
+canonical: "https://eulogikon.org/works/castorion-soli-hymn-pan-iji-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Castorion of Soli
 
-**eul_wid:** `iji-aa` · [HTML page](https://eulogikon.org/grc/castorion-of-soli/hymn-pan)
+**eul_wid:** `iji-aa` · [HTML page](https://eulogikon.org/works/castorion-soli-hymn-pan-iji-aa)
 
 ## Text
 

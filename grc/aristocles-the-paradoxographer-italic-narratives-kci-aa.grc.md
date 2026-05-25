@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Aristocles the Paradoxographer
 eul_wid: kci-aa
 eul_aid: kci
-canonical: "https://eulogikon.org/grc/aristocles-the-paradoxographer/italic-narratives"
+canonical: "https://eulogikon.org/works/aristocles-paradoxographer-italic-narratives-kci-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristocles the Paradoxographer
 
-**eul_wid:** `kci-aa` · [HTML page](https://eulogikon.org/grc/aristocles-the-paradoxographer/italic-narratives)
+**eul_wid:** `kci-aa` · [HTML page](https://eulogikon.org/works/aristocles-paradoxographer-italic-narratives-kci-aa)
 
 ## Text
 

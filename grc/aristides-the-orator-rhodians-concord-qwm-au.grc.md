@@ -4,7 +4,7 @@ title_greek: Ῥοδίοις περὶ ὁμονοίας
 author: Aristides the Orator
 eul_wid: qwm-au
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/rhodians-concord"
+canonical: "https://eulogikon.org/works/aristides-orator-rhodians-concord-qwm-au"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-au` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/rhodians-concord)
+**eul_wid:** `qwm-au` · [HTML page](https://eulogikon.org/works/aristides-orator-rhodians-concord-qwm-au)
 
 ## Text
 

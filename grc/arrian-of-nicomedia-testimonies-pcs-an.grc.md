@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Arrian of Nicomedia
 eul_wid: pcs-an
 eul_aid: pcs
-canonical: "https://eulogikon.org/grc/arrian-of-nicomedia/testimonies"
+canonical: "https://eulogikon.org/works/arrian-nicomedia-testimonies-pcs-an"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Arrian of Nicomedia
 
-**eul_wid:** `pcs-an` · [HTML page](https://eulogikon.org/grc/arrian-of-nicomedia/testimonies)
+**eul_wid:** `pcs-an` · [HTML page](https://eulogikon.org/works/arrian-nicomedia-testimonies-pcs-an)
 
 ## Text
 

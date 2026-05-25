@@ -4,7 +4,7 @@ title_greek: Ἄτθις Ψευδὲς Ἀπόσπασμα
 author: Hegesinus the Epic Poet
 eul_wid: lek-aa
 eul_aid: lek
-canonical: "https://eulogikon.org/grc/hegesinus-the-epic-poet/atthis-fragment"
+canonical: "https://eulogikon.org/works/hegesinus-atthis-fragment-lek-aa"
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hegesinus the Epic Poet
 
-**eul_wid:** `lek-aa` · [HTML page](https://eulogikon.org/grc/hegesinus-the-epic-poet/atthis-fragment)
+**eul_wid:** `lek-aa` · [HTML page](https://eulogikon.org/works/hegesinus-atthis-fragment-lek-aa)
 
 ## Text
 

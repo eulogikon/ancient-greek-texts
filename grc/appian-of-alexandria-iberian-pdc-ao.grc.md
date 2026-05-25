@@ -4,7 +4,7 @@ title_greek: Ιβηρική
 author: Appian of Alexandria
 eul_wid: pdc-ao
 eul_aid: pdc
-canonical: "https://eulogikon.org/grc/appian-of-alexandria/iberian"
+canonical: "https://eulogikon.org/works/appian-alexandria-iberian-pdc-ao"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Appian of Alexandria
 
-**eul_wid:** `pdc-ao` · [HTML page](https://eulogikon.org/grc/appian-of-alexandria/iberian)
+**eul_wid:** `pdc-ao` · [HTML page](https://eulogikon.org/works/appian-alexandria-iberian-pdc-ao)
 
 ## Text
 
@@ -312,7 +312,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### Iber 94
 
-Καρχηδονίων δ’ οἱ στρατηγοί, δύο ὄντε λοιπὼ καὶ δύο Ἀσρούβα, ὁ μὲν τοῦ Ἀμίλχαρος πορρωτάτω παρὰ Κελτίβηρσιν ἐξενολόγει, ὁ δὲ τοῦ Γέσκωνος ἐς μὲν τὰς πόλεις τὰς ἔτι βεβαίους περιέπεμπεν, ἀξιῶν Καρχηδονίοις ἐμμένειν ὡς στρατιᾶς ἐλευσομένης αὐτίκα ἀπείρου τὸ πλῆθος, Μάγωνα δ’ ἕτερον ἐς τὰ πλησίον περιέπεμπεν ξενολογεῖν, ὁπόθεν δυνηθείη, καὶ αὐτὸς ἐς τὴν Λέρσα γῆν † τῶν ἀφισταμένων ἐνέβαλεν καί τινα αὐτῶν πόλιν ἔμελλεν πολιορκήσειν.
+Καρχηδονίων δ’ οἱ στρατηγοί, δύο ὄντε λοιπὼ καὶ δύο Ἀσρούβα, ὁ μὲν τοῦ Ἀμίλχαρος πορρωτάτω παρὰ Κελτίβηρσιν ἐξενολόγει, ὁ δὲ τοῦ Γέσκωνος ἐς μὲν τὰς πόλεις τὰς ἔτι βεβαίους περιέπεμπεν, ἀξιῶν Καρχηδονίοις ἐμμένειν ὡς στρατιᾶς ἐλευσομένης αὐτίκα ἀπείρου τὸ πλῆθος, Μάγωνα δ’ ἕτερον ἐς τὰ πλησίον περιέπεμπεν ξενολογεῖν, ὁπόθεν δυνηθείη, καὶ αὐτὸς ἐς τὴν Λέρσα γῆν τῶν ἀφισταμένων ἐνέβαλεν καί τινα αὐτῶν πόλιν ἔμελλεν πολιορκήσειν.
 
 ### Iber 95
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Ἀδήλου Θέσεως
 author: Diodorus of Sicily
 eul_wid: nde-aa
 eul_aid: nde
-canonical: "https://eulogikon.org/grc/diodorus-of-sicily/uncertain-fragments"
+canonical: "https://eulogikon.org/works/diodorus-sicily-uncertain-fragments-nde-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Diodorus of Sicily
 
-**eul_wid:** `nde-aa` · [HTML page](https://eulogikon.org/grc/diodorus-of-sicily/uncertain-fragments)
+**eul_wid:** `nde-aa` · [HTML page](https://eulogikon.org/works/diodorus-sicily-uncertain-fragments-nde-aa)
 
 ## Text
 

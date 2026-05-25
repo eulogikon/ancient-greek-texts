@@ -4,7 +4,7 @@ title_greek: Ἐπὶ Ἀλεξάνδρῳ ἐπιτάφιος
 author: Aristides the Orator
 eul_wid: qwm-ar
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/funeral-orati"
+canonical: "https://eulogikon.org/works/aristides-orator-funeral-orati-qwm-ar"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-ar` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/funeral-orati)
+**eul_wid:** `qwm-ar` · [HTML page](https://eulogikon.org/works/aristides-orator-funeral-orati-qwm-ar)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Calliphon and Democedes of Croton
 eul_wid: bae-aa
 eul_aid: bae
-canonical: "https://eulogikon.org/grc/calliphon-and-democedes-of-croton/testimonies"
+canonical: "https://eulogikon.org/works/calliphon-democrates-croton-testimonies-bae-aa"
 period: Archaic
 dialect: Doric
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Calliphon and Democedes of Croton
 
-**eul_wid:** `bae-aa` · [HTML page](https://eulogikon.org/grc/calliphon-and-democedes-of-croton/testimonies)
+**eul_wid:** `bae-aa` · [HTML page](https://eulogikon.org/works/calliphon-democrates-croton-testimonies-bae-aa)
 
 ## Text
 

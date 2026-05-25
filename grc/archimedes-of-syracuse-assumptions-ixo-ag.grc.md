@@ -4,7 +4,7 @@ title_greek: Βιβλίον Ὑποθέσεων
 author: Archimedes of Syracuse
 eul_wid: ixo-ag
 eul_aid: ixo
-canonical: "https://eulogikon.org/grc/archimedes-of-syracuse/assumptions"
+canonical: "https://eulogikon.org/works/archimedes-syracuse-assumptions-ixo-ag"
 period: Hellenistic
 dialect: Doric
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Archimedes of Syracuse
 
-**eul_wid:** `ixo-ag` · [HTML page](https://eulogikon.org/grc/archimedes-of-syracuse/assumptions)
+**eul_wid:** `ixo-ag` · [HTML page](https://eulogikon.org/works/archimedes-syracuse-assumptions-ixo-ag)
 
 ## Text
 

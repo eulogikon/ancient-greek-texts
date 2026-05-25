@@ -4,7 +4,7 @@ title_greek: Φιλοσοφικὰ Ἀποσπάσματα
 author: Aelius Aristides of Smyrna
 eul_wid: pnc-aa
 eul_aid: pnc
-canonical: "https://eulogikon.org/grc/aelius-aristides-of-smyrna/philosophical-fragments"
+canonical: "https://eulogikon.org/works/aelius-aristides-smyrna-philosophical-fragments-pnc-aa"
 period: Roman
 dialect: Attic
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aelius Aristides of Smyrna
 
-**eul_wid:** `pnc-aa` · [HTML page](https://eulogikon.org/grc/aelius-aristides-of-smyrna/philosophical-fragments)
+**eul_wid:** `pnc-aa` · [HTML page](https://eulogikon.org/works/aelius-aristides-smyrna-philosophical-fragments-pnc-aa)
 
 ## Text
 
@@ -28,7 +28,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### fol2,v
 
-6 lines lost μιαιρος ζοντες την τω[ν] α[νε] μων πνοην θν ειναι [πλανω]νται φανερα [γαρ] εστιν ημιν οτι [δο]υλευει ετερω ποτε [μεν γαρ] α̣[υ]ξ̣ε[ι ποτε] δε ληγει ουκουν αναγ [κα]ζεται ϋπο τινος . [ ...... ] . [ .. ] .. [ . ] ξ̣ε̣ι̣ . [ ...... ] ν̣ω̣ν̣α̣ .. [ . ] α̣ . [ ...... ]λ̣ ... [ . ] .. 4 lines lost [ ....... ] . ε̣λ ... ι̣ [ ...... ] ν̣των τ̣ων [ ....... ] νων̣τ [ . ] [ση]μ[ε]ιου εις σημειον καθ’ ημεραν φερομε νον δυνοντα τε και ανατελλοντα του θερμαινειν τα βλα στα και τα φυτα εις την χρησιν των αν θρωπων επει και[]με ρισμους εχ[οντα μ]ε τα των λο[ιπων ασ]τε ρων και ε[λαττον]α οντα του [ουρανου] π[ο]λου αυ[ξει δε και] μειουται [και εκλιψις] εχει και μ[ηδεμιαν] αυτοκρ[ατειαν εχον] τα διο ου ν[ενομισται] [το]ν ηλιον [ειναι θν ]
+6 lines lost μιαιρος ζοντες την τω[ν] α[νε] μων πνοην θν ειναι [πλανω]νται φανερα [γαρ] εστιν ημιν οτι [δο]υλευει ετερω ποτε [μεν γαρ] α[υ]ξε[ι ποτε] δε ληγει ουκουν αναγ [κα]ζεται ϋπο τινος . [ ...... ] . [ .. ] .. [ . ] ξει . [ ...... ] νωνα .. [ . ] α . [ ...... ]λ ... [ . ] .. 4 lines lost [ ....... ] . ελ ... ι [ ...... ] ντων των [ ....... ] νωντ [ . ] [ση]μ[ε]ιου εις σημειον καθ’ ημεραν φερομε νον δυνοντα τε και ανατελλοντα του θερμαινειν τα βλα στα και τα φυτα εις την χρησιν των αν θρωπων επει και[]με ρισμους εχ[οντα μ]ε τα των λο[ιπων ασ]τε ρων και ε[λαττον]α οντα του [ουρανου] π[ο]λου αυ[ξει δε και] μειουται [και εκλιψις] εχει και μ[ηδεμιαν] αυτοκρ[ατειαν εχον] τα διο ου ν[ενομισται] [το]ν ηλιον [ειναι θν ]
 
 ## License and provenance
 

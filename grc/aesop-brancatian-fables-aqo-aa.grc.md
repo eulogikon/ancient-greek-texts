@@ -4,7 +4,7 @@ title_greek: Μῦθοι τοῦ Ἀνωνύμου Βρανκατιανοῦ Ῥ
 author: Aesop the Fabulist
 eul_wid: aqo-aa
 eul_aid: aqo
-canonical: "https://eulogikon.org/grc/aesop/brancatian-fables"
+canonical: "https://eulogikon.org/works/aesop-brancatian-fables-aqo-aa"
 period: Archaic
 dialect: Mixed Dialects
 domain: Fiction
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aesop the Fabulist
 
-**eul_wid:** `aqo-aa` · [HTML page](https://eulogikon.org/grc/aesop/brancatian-fables)
+**eul_wid:** `aqo-aa` · [HTML page](https://eulogikon.org/works/aesop-brancatian-fables-aqo-aa)
 
 ## Text
 

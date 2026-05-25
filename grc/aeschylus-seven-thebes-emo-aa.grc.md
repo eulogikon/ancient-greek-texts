@@ -4,7 +4,7 @@ title_greek: Ἑπτὰ ἐπὶ Θήβας
 author: Aeschylus the Tragedian
 eul_wid: emo-aa
 eul_aid: emo
-canonical: "https://eulogikon.org/grc/aeschylus/seven-thebes"
+canonical: "https://eulogikon.org/works/aeschylus-seven-thebes-emo-aa"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aeschylus the Tragedian
 
-**eul_wid:** `emo-aa` · [HTML page](https://eulogikon.org/grc/aeschylus/seven-thebes)
+**eul_wid:** `emo-aa` · [HTML page](https://eulogikon.org/works/aeschylus-seven-thebes-emo-aa)
 
 ## Text
 
@@ -860,7 +860,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 220.2
 
-ἀστυδρομουμέναν πόλιν καὶ † στράτευμ’
+ἀστυδρομουμέναν πόλιν καὶ στράτευμ’
 
 ### 220.3
 
@@ -1312,7 +1312,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 332
 
-κλαυτὸν δ’ † ἀρτιδρόποις ὠμοδρόπων †[ἀντ. β.
+κλαυτὸν δ’ ἀρτιδρόποις ὠμοδρόπων [ἀντ. β.
 
 ### unit_119
 
@@ -1412,7 +1412,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 356.1
 
-εἰκάσαι † λόγος πάρα;
+εἰκάσαι λόγος πάρα;
 
 ### 356.2
 
@@ -1444,11 +1444,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 360.4
 
-δμωίδες δὲ καινοπήμονες † νέαι
+δμωίδες δὲ καινοπήμονες νέαι
 
 ### 360.5
 
-τλήμονες εὐνὰν αἰχμάλωτον †
+τλήμονες εὐνὰν αἰχμάλωτον
 
 ### 365.1
 
@@ -1712,7 +1712,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 425.5
 
-† Ἔριν πέδοι σκήψασαν ἐμποδὼν σχεθεῖν
+Ἔριν πέδοι σκήψασαν ἐμποδὼν σχεθεῖν
 
 ### 430.1
 
@@ -2300,7 +2300,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 575.2
 
-καὶ τὸν σὸν αὖθις † πρὸς μόραν ἀδελφεόν, †
+καὶ τὸν σὸν αὖθις πρὸς μόραν ἀδελφεόν,
 
 ### 575.3
 
@@ -2796,7 +2796,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### unit_227.1
 
-† εἶσι δόμων Ἐρινύς, ὅταν ἐκ χερῶν
+εἶσι δόμων Ἐρινύς, ὅταν ἐκ χερῶν
 
 ### unit_227.2
 
@@ -3136,7 +3136,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 780.5
 
-† κρεισσοτέκνων [δ’ ἀπ’] ὀμμάτων ἐπλάγχθη· †
+κρεισσοτέκνων [δ’ ἀπ’] ὀμμάτων ἐπλάγχθη·
 
 ### 785.1
 
@@ -3300,7 +3300,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 822.3
 
-† τούσδε ῥύεσθε·
+τούσδε ῥύεσθε·
 
 ### 825.1
 
@@ -3308,7 +3308,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 825.2
 
-πόλεως ἀσινεῖ † σωτῆρι ...
+πόλεως ἀσινεῖ σωτῆρι ...
 
 ### 825.3
 
@@ -3656,7 +3656,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 915
 
-Χο.† δόμων μάλ’ ἀχάεσσα τοὺς †
+Χο. δόμων μάλ’ ἀχάεσσα τοὺς
 
 ### 915.1
 
@@ -3892,11 +3892,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 970.4
 
-Αν.† ἀχέων τοίων τάδ’ ἐγγύθεν.
+Αν. ἀχέων τοίων τάδ’ ἐγγύθεν.
 
 ### unit_339
 
-Ις.πέλας δ’ αἵδ’ ἀδελφαὶ ἀδελφεῶν. †
+Ις.πέλας δ’ αἵδ’ ἀδελφαὶ ἀδελφεῶν.
 
 ### 975.1
 
@@ -3940,11 +3940,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 984
 
-Αν.† δύστονα κήδε’ ὁμώνυμα.
+Αν. δύστονα κήδε’ ὁμώνυμα.
 
 ### 985
 
-Ις.δίυγρα τριπάλτων πημάτων. †
+Ις.δίυγρα τριπάλτων πημάτων.
 
 ### 985.1
 
@@ -4204,7 +4204,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1045.3
 
-Αν.† ἤδη τὰ τοῦδ’ οὐ διατετίμηται θεοῖς.
+Αν. ἤδη τὰ τοῦδ’ οὐ διατετίμηται θεοῖς.
 
 ### 1045.4
 

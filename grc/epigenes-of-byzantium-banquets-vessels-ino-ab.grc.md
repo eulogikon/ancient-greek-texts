@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Συμποσίων καὶ Σκε
 author: Epigenes of Byzantium
 eul_wid: ino-ab
 eul_aid: ino
-canonical: "https://eulogikon.org/grc/epigenes-of-byzantium/banquets-vessels"
+canonical: "https://eulogikon.org/works/epigenes-byzantium-banquets-vessels-ino-ab"
 period: Hellenistic
 dialect: Koine (frg)
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Epigenes of Byzantium
 
-**eul_wid:** `ino-ab` · [HTML page](https://eulogikon.org/grc/epigenes-of-byzantium/banquets-vessels)
+**eul_wid:** `ino-ab` · [HTML page](https://eulogikon.org/works/epigenes-byzantium-banquets-vessels-ino-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Βίου Καθημερινοῦ 
 author: Araros Son of Aristophanes
 eul_wid: fgo-aa
 eul_aid: fgo
-canonical: "https://eulogikon.org/grc/araros-son-of-aristophanes/comic-daily-life"
+canonical: "https://eulogikon.org/works/araros-comic-daily-life-fgo-aa"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Araros Son of Aristophanes
 
-**eul_wid:** `fgo-aa` · [HTML page](https://eulogikon.org/grc/araros-son-of-aristophanes/comic-daily-life)
+**eul_wid:** `fgo-aa` · [HTML page](https://eulogikon.org/works/araros-comic-daily-life-fgo-aa)
 
 ## Text
 

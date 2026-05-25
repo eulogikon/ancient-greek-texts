@@ -4,7 +4,7 @@ title_greek: σχόλια εἰς ὕμνους
 author: Callimachus Scholia
 eul_wid: vmw-au
 eul_aid: vmw
-canonical: "https://eulogikon.org/grc/callimachus-scholia/hymns-au"
+canonical: "https://eulogikon.org/works/callimachus-scholia-hymns-vmw-au"
 period: Late Antique
 dialect: Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Callimachus Scholia
 
-**eul_wid:** `vmw-au` · [HTML page](https://eulogikon.org/grc/callimachus-scholia/hymns-au)
+**eul_wid:** `vmw-au` · [HTML page](https://eulogikon.org/works/callimachus-scholia-hymns-vmw-au)
 
 ## Text
 
@@ -84,7 +84,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 12-13
 
-οὔτε ἑρπετὸν οὔτε γυνὴ χρῄζουσα τοῦ τεκεῖν ἐπιμίσγεται. ἢ οὕτως †οἷον χρῄζειν† Εἰλειθυίας τουτέστι γεννήσεως. ὅτι πᾶν ζῷον εἰσιὸν ἐκεῖ μεμολυσμένον ἄγονον ἐγίνετο καὶ σκιὰν τὸ σῶμα αὐτοῦ οὐκέτι ἐποίει.
+οὔτε ἑρπετὸν οὔτε γυνὴ χρῄζουσα τοῦ τεκεῖν ἐπιμίσγεται. ἢ οὕτως οἷον χρῄζειν Εἰλειθυίας τουτέστι γεννήσεως. ὅτι πᾶν ζῷον εἰσιὸν ἐκεῖ μεμολυσμένον ἄγονον ἐγίνετο καὶ σκιὰν τὸ σῶμα αὐτοῦ οὐκέτι ἐποίει.
 
 ### book 14
 
@@ -232,7 +232,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 52a
 
-〈οὖλα:〉 †κατὰ κλῆρον, ὑγιῶς.
+〈οὖλα:〉 κατὰ κλῆρον, ὑγιῶς.
 
 ### book 52b
 
@@ -428,7 +428,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 21
 
-〈ἱὴ παιῆον:〉 πρόσφθεγμα καταφρ̣ο̣νοῦντος.
+〈ἱὴ παιῆον:〉 πρόσφθεγμα καταφρονοῦντος.
 
 ### book 22a
 
@@ -780,7 +780,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 79
 
-ἀλώπηξ: πάθος περὶ τὴν κεφαλὴν γινόμενον, ἀπὸ μεταφορᾶς τοῦ ζῴου· †τὸ γὰρ ζῷον τοῦτο λέγεται† ἔνθα ἂν οὐρήσῃ, ἄγονος ὁ τόπος τῷ ἔτει ἐκείνῳ γίνεται.
+ἀλώπηξ: πάθος περὶ τὴν κεφαλὴν γινόμενον, ἀπὸ μεταφορᾶς τοῦ ζῴου· τὸ γὰρ ζῷον τοῦτο λέγεται ἔνθα ἂν οὐρήσῃ, ἄγονος ὁ τόπος τῷ ἔτει ἐκείνῳ γίνεται.
 
 ### book 81
 
@@ -944,7 +944,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 171
 
-〈Ἰνωποῖο:〉 Ἰνωπὸς ποταμὸς Δήλου. Αἰγύπτιος δὲ διὰ τὸν Νεῖλον, ὅτι καὶ αὐτὸς †ἐκεῖ† πλημυρεῖ. ἢ ὅτι λέγεται ἐκ τοῦ ὕδατος τοῦ Νείλου μετέχειν λαθραίως.
+〈Ἰνωποῖο:〉 Ἰνωπὸς ποταμὸς Δήλου. Αἰγύπτιος δὲ διὰ τὸν Νεῖλον, ὅτι καὶ αὐτὸς ἐκεῖ πλημυρεῖ. ἢ ὅτι λέγεται ἐκ τοῦ ὕδατος τοῦ Νείλου μετέχειν λαθραίως.
 
 ### book 172a
 
@@ -1152,7 +1152,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 19
 
-〈Κύρνος:〉 ἡ νῦν †Τύρος† καλουμένη.
+〈Κύρνος:〉 ἡ νῦν Τύρος καλουμένη.
 
 ### book 20a
 
@@ -1592,7 +1592,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 295
 
-†〈εὔμοιροι:〉 εὔφημοι†.
+〈εὔμοιροι:〉 εὔφημοι.
 
 ### book 296
 
@@ -1884,7 +1884,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 22
 
-τὸ ἑξῆς· κάλλιον τὰ δράγματα †ἐδειν† ἵνα καί τις ὑπερβασίας ἀλέηται.
+τὸ ἑξῆς· κάλλιον τὰ δράγματα ἐδειν ἵνα καί τις ὑπερβασίας ἀλέηται.
 
 ### book 24
 
@@ -1900,7 +1900,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 30
 
-Ἐλευσὶς †καὶ Ἔννα† δῆμοι τῆς Ἀττικῆς.
+Ἐλευσὶς καὶ Ἔννα δῆμοι τῆς Ἀττικῆς.
 
 ### book 38
 

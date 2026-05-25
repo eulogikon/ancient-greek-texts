@@ -4,7 +4,7 @@ title_greek: Περὶ Ψυχῆς
 author: Aristotle
 eul_wid: hgw-bm
 eul_aid: hgw
-canonical: "https://eulogikon.org/grc/aristotle/soul-bm"
+canonical: "https://eulogikon.org/works/aristotle-soul-hgw-bm"
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristotle
 
-**eul_wid:** `hgw-bm` · [HTML page](https://eulogikon.org/grc/aristotle/soul-bm)
+**eul_wid:** `hgw-bm` · [HTML page](https://eulogikon.org/works/aristotle-soul-hgw-bm)
 
 ## Text
 

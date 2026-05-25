@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Hegesippos the Comic Poet
 eul_wid: jtw-aa
 eul_aid: jtw
-canonical: "https://eulogikon.org/grc/hegesippos-the-comic-poet/art-of-cooking"
+canonical: "https://eulogikon.org/works/hegesippos-art-of-cooking-jtw-aa"
 period: Hellenistic
 dialect: Koine
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hegesippos the Comic Poet
 
-**eul_wid:** `jtw-aa` · [HTML page](https://eulogikon.org/grc/hegesippos-the-comic-poet/art-of-cooking)
+**eul_wid:** `jtw-aa` · [HTML page](https://eulogikon.org/works/hegesippos-art-of-cooking-jtw-aa)
 
 ## Text
 

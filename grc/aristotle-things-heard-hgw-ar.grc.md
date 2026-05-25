@@ -4,7 +4,7 @@ title_greek: Ἐκ τοῦ περὶ ἀκουστῶν
 author: Aristotle
 eul_wid: hgw-ar
 eul_aid: hgw
-canonical: "https://eulogikon.org/grc/aristotle/things-heard"
+canonical: "https://eulogikon.org/works/aristotle-things-heard-hgw-ar"
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristotle
 
-**eul_wid:** `hgw-ar` · [HTML page](https://eulogikon.org/grc/aristotle/things-heard)
+**eul_wid:** `hgw-ar` · [HTML page](https://eulogikon.org/works/aristotle-things-heard-hgw-ar)
 
 ## Text
 

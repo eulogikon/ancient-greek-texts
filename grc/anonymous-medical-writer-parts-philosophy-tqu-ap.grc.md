@@ -4,7 +4,7 @@ title_greek: Περὶ Μερῶν Φιλοσοφίας
 author: Medical Writer  Anonymous
 eul_wid: tqu-ap
 eul_aid: tqu
-canonical: "https://eulogikon.org/grc/anonymous-medical-writer/parts-philosophy"
+canonical: "https://eulogikon.org/works/med-writer-anon-parts-philosophy-tqu-ap"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Medical Writer  Anonymous
 
-**eul_wid:** `tqu-ap` · [HTML page](https://eulogikon.org/grc/anonymous-medical-writer/parts-philosophy)
+**eul_wid:** `tqu-ap` · [HTML page](https://eulogikon.org/works/med-writer-anon-parts-philosophy-tqu-ap)
 
 ## Text
 

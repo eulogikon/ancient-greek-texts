@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Craterus the Macedonian Historian
 eul_wid: hsk-aa
 eul_aid: hsk
-canonical: "https://eulogikon.org/grc/craterus-the-macedonian/decrees"
+canonical: "https://eulogikon.org/works/craterus-macedonian-decrees-hsk-aa"
 period: Hellenistic
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Craterus the Macedonian Historian
 
-**eul_wid:** `hsk-aa` · [HTML page](https://eulogikon.org/grc/craterus-the-macedonian/decrees)
+**eul_wid:** `hsk-aa` · [HTML page](https://eulogikon.org/works/craterus-macedonian-decrees-hsk-aa)
 
 ## Text
 

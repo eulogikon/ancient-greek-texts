@@ -4,7 +4,7 @@ title_greek: Ἰσαῖος Ἀθηναῖος
 author: Dionysius of Halicarnassus
 eul_wid: ndy-ai
 eul_aid: ndy
-canonical: "https://eulogikon.org/grc/dionysius-of-halicarnassus/isaeus"
+canonical: "https://eulogikon.org/works/dionysius-halicarnassus-isaeus-ndy-ai"
 period: Hellenistic
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dionysius of Halicarnassus
 
-**eul_wid:** `ndy-ai` · [HTML page](https://eulogikon.org/grc/dionysius-of-halicarnassus/isaeus)
+**eul_wid:** `ndy-ai` · [HTML page](https://eulogikon.org/works/dionysius-halicarnassus-isaeus-ndy-ai)
 
 ## Text
 

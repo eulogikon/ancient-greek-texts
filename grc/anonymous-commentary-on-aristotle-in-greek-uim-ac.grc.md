@@ -4,7 +4,7 @@ title_greek: Σχόλια εἰς τὰ Ἠθικὰ Νικομάχεια
 author: Anonymous Commentary on Aristotle
 eul_wid: uim-ac
 eul_aid: uim
-canonical: "https://eulogikon.org/grc/anonymous-commentary-on-aristotle/in-greek"
+canonical: "https://eulogikon.org/works/anon-comm-aristotle-in-greek-uim-ac"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Anonymous Commentary on Aristotle
 
-**eul_wid:** `uim-ac` · [HTML page](https://eulogikon.org/grc/anonymous-commentary-on-aristotle/in-greek)
+**eul_wid:** `uim-ac` · [HTML page](https://eulogikon.org/works/anon-comm-aristotle-in-greek-uim-ac)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Γαμήλιον Ἄσμα
 author: Epic Work  Anonymous
 eul_wid: kjq-aq
 eul_aid: kjq
-canonical: "https://eulogikon.org/grc/epic-fragments-anonymous/wedding-song"
+canonical: "https://eulogikon.org/works/epic-anon-wedding-song-kjq-aq"
 period: Hellenistic
 dialect: Epic (Homeric) (frg)
 domain: Epic
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Epic Work  Anonymous
 
-**eul_wid:** `kjq-aq` · [HTML page](https://eulogikon.org/grc/epic-fragments-anonymous/wedding-song)
+**eul_wid:** `kjq-aq` · [HTML page](https://eulogikon.org/works/epic-anon-wedding-song-kjq-aq)
 
 ## Text
 
 ### unit_1
 
-Νυμφίε, σοὶ χάριτες γλυκεραὶ καὶ κῦδος ὀπηδ[ε]ῖ, ἁρμονίη χαρίεσσα, γάμοις γέρας ἐγγυάλιξε. νύμφα φίλη, μέγα χαῖρε διαμπερές· ἄξιον εὗρες νυμφίον, ἄξιον εὗρες, ὁμοφροσύνην δ’ ὀπάσ̣ε̣[ιε]ν̣ ἤδη που θεὸς ὔμμι καὶ αὐτίκα τέκνα γενέ[σ]θ̣α̣ι̣ καὶ πα[ί]δων παῖδας καὶ ἐς βαθὺ γῆρας ἱκέσθ[αι.]
+Νυμφίε, σοὶ χάριτες γλυκεραὶ καὶ κῦδος ὀπηδ[ε]ῖ, ἁρμονίη χαρίεσσα, γάμοις γέρας ἐγγυάλιξε. νύμφα φίλη, μέγα χαῖρε διαμπερές· ἄξιον εὗρες νυμφίον, ἄξιον εὗρες, ὁμοφροσύνην δ’ ὀπάσε[ιε]ν ἤδη που θεὸς ὔμμι καὶ αὐτίκα τέκνα γενέ[σ]θαι καὶ πα[ί]δων παῖδας καὶ ἐς βαθὺ γῆρας ἱκέσθ[αι.]
 
 ## License and provenance
 

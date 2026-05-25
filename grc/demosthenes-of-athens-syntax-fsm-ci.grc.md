@@ -4,7 +4,7 @@ title_greek: περὶ συντάξεως
 author: Demosthenes of Athens
 eul_wid: fsm-ci
 eul_aid: fsm
-canonical: "https://eulogikon.org/grc/demosthenes-of-athens/syntax"
+canonical: "https://eulogikon.org/works/demosthenes-athens-syntax-fsm-ci"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demosthenes of Athens
 
-**eul_wid:** `fsm-ci` · [HTML page](https://eulogikon.org/grc/demosthenes-of-athens/syntax)
+**eul_wid:** `fsm-ci` · [HTML page](https://eulogikon.org/works/demosthenes-athens-syntax-fsm-ci)
 
 ## Text
 

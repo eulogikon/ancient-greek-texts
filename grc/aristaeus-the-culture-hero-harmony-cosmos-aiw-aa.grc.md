@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Aristaeus the Culture Hero
 eul_wid: aiw-aa
 eul_aid: aiw
-canonical: "https://eulogikon.org/grc/aristaeus-the-culture-hero/harmony-cosmos"
+canonical: "https://eulogikon.org/works/aristaeus-harmony-cosmos-aiw-aa"
 period: Archaic
 dialect: Epic (Homeric)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristaeus the Culture Hero
 
-**eul_wid:** `aiw-aa` · [HTML page](https://eulogikon.org/grc/aristaeus-the-culture-hero/harmony-cosmos)
+**eul_wid:** `aiw-aa` · [HTML page](https://eulogikon.org/works/aristaeus-harmony-cosmos-aiw-aa)
 
 ## Text
 

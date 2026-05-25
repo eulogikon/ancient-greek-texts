@@ -4,7 +4,7 @@ title_greek: Ἰθυφάλλοι
 author: Hermocles of Cyzicus
 eul_wid: hzs-aa
 eul_aid: hzs
-canonical: "https://eulogikon.org/grc/hermocles-of-cyzicus/ithyphalli"
+canonical: "https://eulogikon.org/works/hermocles-cyzicus-ithyphalli-hzs-aa"
 period: Hellenistic
 dialect: Koine
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hermocles of Cyzicus
 
-**eul_wid:** `hzs-aa` · [HTML page](https://eulogikon.org/grc/hermocles-of-cyzicus/ithyphalli)
+**eul_wid:** `hzs-aa` · [HTML page](https://eulogikon.org/works/hermocles-cyzicus-ithyphalli-hzs-aa)
 
 ## Text
 

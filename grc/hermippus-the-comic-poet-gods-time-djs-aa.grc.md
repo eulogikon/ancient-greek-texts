@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Θεῶν καὶ Χρόνου
 author: Hermippus the Comic Poet
 eul_wid: djs-aa
 eul_aid: djs
-canonical: "https://eulogikon.org/grc/hermippus-the-comic-poet/gods-time"
+canonical: "https://eulogikon.org/works/hermippus-gods-time-djs-aa"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hermippus the Comic Poet
 
-**eul_wid:** `djs-aa` · [HTML page](https://eulogikon.org/grc/hermippus-the-comic-poet/gods-time)
+**eul_wid:** `djs-aa` · [HTML page](https://eulogikon.org/works/hermippus-gods-time-djs-aa)
 
 ## Text
 

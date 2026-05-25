@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Δούριδος
 author: Duris of Samos
 eul_wid: lju-ab
 eul_aid: lju
-canonical: "https://eulogikon.org/grc/duris-of-samos/historical-fragments"
+canonical: "https://eulogikon.org/works/duris-samos-historical-fragments-lju-ab"
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Duris of Samos
 
-**eul_wid:** `lju-ab` · [HTML page](https://eulogikon.org/grc/duris-of-samos/historical-fragments)
+**eul_wid:** `lju-ab` · [HTML page](https://eulogikon.org/works/duris-samos-historical-fragments-lju-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Andron of Ephesus the Historian
 eul_wid: fmi-aa
 eul_aid: fmi
-canonical: "https://eulogikon.org/grc/andron-of-ephesus/seven-sages-pythagoras"
+canonical: "https://eulogikon.org/works/andron-ephesus-seven-sages-pythagoras-fmi-aa"
 period: Classical
 dialect: Ionic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Andron of Ephesus the Historian
 
-**eul_wid:** `fmi-aa` · [HTML page](https://eulogikon.org/grc/andron-of-ephesus/seven-sages-pythagoras)
+**eul_wid:** `fmi-aa` · [HTML page](https://eulogikon.org/works/andron-ephesus-seven-sages-pythagoras-fmi-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Ἀβέβαια
 author: Arrian of Nicomedia
 eul_wid: pcs-al
 eul_aid: pcs
-canonical: "https://eulogikon.org/grc/arrian-of-nicomedia/uncertain-fragments"
+canonical: "https://eulogikon.org/works/arrian-nicomedia-uncertain-fragments-pcs-al"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Arrian of Nicomedia
 
-**eul_wid:** `pcs-al` · [HTML page](https://eulogikon.org/grc/arrian-of-nicomedia/uncertain-fragments)
+**eul_wid:** `pcs-al` · [HTML page](https://eulogikon.org/works/arrian-nicomedia-uncertain-fragments-pcs-al)
 
 ## Text
 

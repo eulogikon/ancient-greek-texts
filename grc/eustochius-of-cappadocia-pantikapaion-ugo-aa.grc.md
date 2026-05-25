@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Eustochius of Cappadocia
 eul_wid: ugo-aa
 eul_aid: ugo
-canonical: "https://eulogikon.org/grc/eustochius-of-cappadocia/pantikapaion"
+canonical: "https://eulogikon.org/works/eustochius-cappadocia-pantikapaion-ugo-aa"
 period: Late Antique
 dialect: Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Eustochius of Cappadocia
 
-**eul_wid:** `ugo-aa` · [HTML page](https://eulogikon.org/grc/eustochius-of-cappadocia/pantikapaion)
+**eul_wid:** `ugo-aa` · [HTML page](https://eulogikon.org/works/eustochius-cappadocia-pantikapaion-ugo-aa)
 
 ## Text
 

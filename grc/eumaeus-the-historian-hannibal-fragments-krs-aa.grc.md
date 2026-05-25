@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἀννίβου
 author: Eumaeus the Historian
 eul_wid: krs-aa
 eul_aid: krs
-canonical: "https://eulogikon.org/grc/eumaeus-the-historian/hannibal-fragments"
+canonical: "https://eulogikon.org/works/eumaeus-hannibal-fragments-krs-aa"
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Eumaeus the Historian
 
-**eul_wid:** `krs-aa` · [HTML page](https://eulogikon.org/grc/eumaeus-the-historian/hannibal-fragments)
+**eul_wid:** `krs-aa` · [HTML page](https://eulogikon.org/works/eumaeus-hannibal-fragments-krs-aa)
 
 ## Text
 

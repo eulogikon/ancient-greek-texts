@@ -4,7 +4,7 @@ title_greek: Ἰατρικὸν Βιβλίον ΙΑʹ
 author: Aëtius of Amida
 eul_wid: vhc-ak
 eul_aid: vhc
-canonical: "https://eulogikon.org/grc/aetius-of-amida/medical-book-xi"
+canonical: "https://eulogikon.org/works/aetius-amida-medical-book-xi-vhc-ak"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aëtius of Amida
 
-**eul_wid:** `vhc-ak` · [HTML page](https://eulogikon.org/grc/aetius-of-amida/medical-book-xi)
+**eul_wid:** `vhc-ak` · [HTML page](https://eulogikon.org/works/aetius-amida-medical-book-xi-vhc-ak)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Προοίμιον
 author: Appian of Alexandria
 eul_wid: pdc-ap
 eul_aid: pdc
-canonical: "https://eulogikon.org/grc/appian-of-alexandria/preface"
+canonical: "https://eulogikon.org/works/appian-alexandria-preface-pdc-ap"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Appian of Alexandria
 
-**eul_wid:** `pdc-ap` · [HTML page](https://eulogikon.org/grc/appian-of-alexandria/preface)
+**eul_wid:** `pdc-ap` · [HTML page](https://eulogikon.org/works/appian-alexandria-preface-pdc-ap)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ὀπτικὰ Ἀποσπάσματα
 author: Geminus of Rhodes
 eul_wid: nwa-ab
 eul_aid: nwa
-canonical: "https://eulogikon.org/grc/geminus-of-rhodes/optical-fragments"
+canonical: "https://eulogikon.org/works/geminus-rhodes-optical-fragments-nwa-ab"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Geminus of Rhodes
 
-**eul_wid:** `nwa-ab` · [HTML page](https://eulogikon.org/grc/geminus-of-rhodes/optical-fragments)
+**eul_wid:** `nwa-ab` · [HTML page](https://eulogikon.org/works/geminus-rhodes-optical-fragments-nwa-ab)
 
 ## Text
 

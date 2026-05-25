@@ -4,7 +4,7 @@ title_greek: Περὶ Θεοφανείας
 author: Eusebius of Caesarea
 eul_wid: tva-bm
 eul_aid: tva
-canonical: "https://eulogikon.org/grc/eusebius-of-caesarea/theophany"
+canonical: "https://eulogikon.org/works/eusebius-caesarea-theophany-tva-bm"
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Eusebius of Caesarea
 
-**eul_wid:** `tva-bm` · [HTML page](https://eulogikon.org/grc/eusebius-of-caesarea/theophany)
+**eul_wid:** `tva-bm` · [HTML page](https://eulogikon.org/works/eusebius-caesarea-theophany-tva-bm)
 
 ## Text
 

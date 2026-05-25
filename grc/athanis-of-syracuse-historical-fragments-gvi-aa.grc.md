@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Athanis of Syracuse
 eul_wid: gvi-aa
 eul_aid: gvi
-canonical: "https://eulogikon.org/grc/athanis-of-syracuse/historical-fragments"
+canonical: "https://eulogikon.org/works/athanis-syracuse-historical-fragments-gvi-aa"
 period: Classical
 dialect: Doric (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Athanis of Syracuse
 
-**eul_wid:** `gvi-aa` · [HTML page](https://eulogikon.org/grc/athanis-of-syracuse/historical-fragments)
+**eul_wid:** `gvi-aa` · [HTML page](https://eulogikon.org/works/athanis-syracuse-historical-fragments-gvi-aa)
 
 ## Text
 

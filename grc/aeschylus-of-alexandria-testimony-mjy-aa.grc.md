@@ -4,7 +4,7 @@ title_greek: Μαρτυρία
 author: "Aeschylus of Alexandria "
 eul_wid: mjy-aa
 eul_aid: mjy
-canonical: "https://eulogikon.org/grc/aeschylus-of-alexandria/testimony"
+canonical: "https://eulogikon.org/works/aeschylus-alexandria-testimony-mjy-aa"
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aeschylus of Alexandria 
 
-**eul_wid:** `mjy-aa` · [HTML page](https://eulogikon.org/grc/aeschylus-of-alexandria/testimony)
+**eul_wid:** `mjy-aa` · [HTML page](https://eulogikon.org/works/aeschylus-alexandria-testimony-mjy-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ Ἑλίκων Γραμμῶν
 author: Archimedes of Syracuse
 eul_wid: ixo-ai
 eul_aid: ixo
-canonical: "https://eulogikon.org/grc/archimedes-of-syracuse/spirals"
+canonical: "https://eulogikon.org/works/archimedes-syracuse-spirals-ixo-ai"
 period: Hellenistic
 dialect: Doric
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Archimedes of Syracuse
 
-**eul_wid:** `ixo-ai` · [HTML page](https://eulogikon.org/grc/archimedes-of-syracuse/spirals)
+**eul_wid:** `ixo-ai` · [HTML page](https://eulogikon.org/works/archimedes-syracuse-spirals-ixo-ai)
 
 ## Text
 

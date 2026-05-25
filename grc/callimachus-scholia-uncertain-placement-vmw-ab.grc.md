@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Σχολίων ἀδήλου θέσεως
 author: Callimachus Scholia
 eul_wid: vmw-ab
 eul_aid: vmw
-canonical: "https://eulogikon.org/grc/callimachus-scholia/uncertain-placement"
+canonical: "https://eulogikon.org/works/callimachus-scholia-uncertain-placement-vmw-ab"
 period: Late Antique
 dialect: Koine
 domain: Grammar
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Callimachus Scholia
 
-**eul_wid:** `vmw-ab` · [HTML page](https://eulogikon.org/grc/callimachus-scholia/uncertain-placement)
+**eul_wid:** `vmw-ab` · [HTML page](https://eulogikon.org/works/callimachus-scholia-uncertain-placement-vmw-ab)
 
 ## Text
 
 ### 725c.ver
 
-[]ι̣ Καμαρ̣ιν( )[] [ ]θη . [] [ ]ης . [] [Break in Text (point at which text breaks off for an unknown length)] [Break in Text (point at which text breaks off for an unknown length)] [ ] [] [γυ]ναικὶ κατ[] [ ]α . [ . ]ο̣ .. απ̣[] [ ]ης . [] [ ]ασ[] [Break in Text (point at which text breaks off for an unknown length)] [Break in Text (point at which text breaks off for an unknown length)] [ ] . να̣[] [] ... ενο̣[] [ ] δ̣ωνο̣ [] [] π̣η(ς) : ο̣[] [ ]υρρην[] [] . ι̣σ̣θηνα̣[] [ ]αρχο̣ο̣ . [] [ ] [] [ ] [] [ ] ... μ̣ [Partial Letter] [] [ ] α̣[] [ ] [] [Break in Text (point at which text breaks off for an unknown length)] [Break in Text (point at which text breaks off for an unknown length)] [ ]οτου̣ [] [ ]ατικ̣ . [ ] . α̣ [] [] ..... ρ̣ιαοιομουητοι [] [] . σ̣ματος ἤ τινος ἐγ̣γρα̣[] [ ] . ρι̣ μέλλοντε̣σ[] [ ] .. [ ] . [] [Break in Text (point at which text breaks off for an unknown length)] [] γ .. [ ] . [] [] φ[ . ]ματος .. [] [] .. τι παρανομω . [] [ ]τ̣ . γ̣ὰ̣ρ̣ το̣ῦ προσώπο̣[υ] [ ] ... [ . ] .. κ̣ . μ̣ο[] [ ] . []
+[]ι Καμαριν( )[] [ ]θη . [] [ ]ης . [] [Break in Text (point at which text breaks off for an unknown length)] [Break in Text (point at which text breaks off for an unknown length)] [ ] [] [γυ]ναικὶ κατ[] [ ]α . [ . ]ο .. απ[] [ ]ης . [] [ ]ασ[] [Break in Text (point at which text breaks off for an unknown length)] [Break in Text (point at which text breaks off for an unknown length)] [ ] . να[] [] ... ενο[] [ ] δωνο [] [] πη(ς) : ο[] [ ]υρρην[] [] . ισθηνα[] [ ]αρχοο . [] [ ] [] [ ] [] [ ] ... μ [Partial Letter] [] [ ] α[] [ ] [] [Break in Text (point at which text breaks off for an unknown length)] [Break in Text (point at which text breaks off for an unknown length)] [ ]οτου [] [ ]ατικ . [ ] . α [] [] ..... ριαοιομουητοι [] [] . σματος ἤ τινος ἐγγρα[] [ ] . ρι μέλλοντεσ[] [ ] .. [ ] . [] [Break in Text (point at which text breaks off for an unknown length)] [] γ .. [ ] . [] [] φ[ . ]ματος .. [] [] .. τι παρανομω . [] [ ]τ . γὰρ τοῦ προσώπο[υ] [ ] ... [ . ] .. κ . μο[] [ ] . []
 
 ## License and provenance
 

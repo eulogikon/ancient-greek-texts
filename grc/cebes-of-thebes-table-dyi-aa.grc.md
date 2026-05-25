@@ -4,7 +4,7 @@ title_greek: Πίναξ Κέβητος
 author: Cebes of Thebes
 eul_wid: dyi-aa
 eul_aid: dyi
-canonical: "https://eulogikon.org/grc/cebes-of-thebes/table"
+canonical: "https://eulogikon.org/works/cebes-thebes-table-dyi-aa"
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cebes of Thebes
 
-**eul_wid:** `dyi-aa` · [HTML page](https://eulogikon.org/grc/cebes-of-thebes/table)
+**eul_wid:** `dyi-aa` · [HTML page](https://eulogikon.org/works/cebes-thebes-table-dyi-aa)
 
 ## Text
 

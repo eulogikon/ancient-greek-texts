@@ -4,7 +4,7 @@ title_greek: Βίος Κυριακοῦ
 author: Cyril of Scythopolis
 eul_wid: vbs-af
 eul_aid: vbs
-canonical: "https://eulogikon.org/grc/cyril-of-scythopolis/life-cyriacus"
+canonical: "https://eulogikon.org/works/cyril-scythopolis-life-cyriacus-vbs-af"
 period: Late Antique
 dialect: Christian Koine
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cyril of Scythopolis
 
-**eul_wid:** `vbs-af` · [HTML page](https://eulogikon.org/grc/cyril-of-scythopolis/life-cyriacus)
+**eul_wid:** `vbs-af` · [HTML page](https://eulogikon.org/works/cyril-scythopolis-life-cyriacus-vbs-af)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Σύνοψις τῆς ῥητορικῆς τέχνης
 author: Rhetorical Treatise Anonymous
 eul_wid: rhg-ai
 eul_aid: rhg
-canonical: "https://eulogikon.org/grc/anonymous-rhetorical-treatises/summary-art-ai"
+canonical: "https://eulogikon.org/works/anon-rhet-treatise-summary-art-rhg-ai"
 period: Roman
 dialect: Technical Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Rhetorical Treatise Anonymous
 
-**eul_wid:** `rhg-ai` · [HTML page](https://eulogikon.org/grc/anonymous-rhetorical-treatises/summary-art-ai)
+**eul_wid:** `rhg-ai` · [HTML page](https://eulogikon.org/works/anon-rhet-treatise-summary-art-rhg-ai)
 
 ## Text
 

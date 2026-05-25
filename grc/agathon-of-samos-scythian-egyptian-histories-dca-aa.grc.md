@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Agathon of Samos
 eul_wid: dca-aa
 eul_aid: dca
-canonical: "https://eulogikon.org/grc/agathon-of-samos/scythian-egyptian-histories"
+canonical: "https://eulogikon.org/works/agathon-samos-scythian-egyptian-histories-dca-aa"
 period: Classical
 dialect: Ionic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Agathon of Samos
 
-**eul_wid:** `dca-aa` · [HTML page](https://eulogikon.org/grc/agathon-of-samos/scythian-egyptian-histories)
+**eul_wid:** `dca-aa` · [HTML page](https://eulogikon.org/works/agathon-samos-scythian-egyptian-histories-dca-aa)
 
 ## Text
 

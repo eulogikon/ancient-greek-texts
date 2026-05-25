@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Σαμοθρᾴκης
 author: Deiochus the Historian
 eul_wid: epq-ab
 eul_aid: epq
-canonical: "https://eulogikon.org/grc/deiochus-the-historian/samothrace-fragments"
+canonical: "https://eulogikon.org/works/deiochus-samothrace-fragments-epq-ab"
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Deiochus the Historian
 
-**eul_wid:** `epq-ab` · [HTML page](https://eulogikon.org/grc/deiochus-the-historian/samothrace-fragments)
+**eul_wid:** `epq-ab` · [HTML page](https://eulogikon.org/works/deiochus-samothrace-fragments-epq-ab)
 
 ## Text
 

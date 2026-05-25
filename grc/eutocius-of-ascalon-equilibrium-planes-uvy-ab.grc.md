@@ -4,7 +4,7 @@ title_greek: Ὑπόμνημα εἰς τὰ περὶ ἰσορροπίας ἐ
 author: Eutocius of Ascalon
 eul_wid: uvy-ab
 eul_aid: uvy
-canonical: "https://eulogikon.org/grc/eutocius-of-ascalon/equilibrium-planes"
+canonical: "https://eulogikon.org/works/eutocius-ascalon-equilibrium-planes-uvy-ab"
 period: Late Antique
 dialect: Technical Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Eutocius of Ascalon
 
-**eul_wid:** `uvy-ab` · [HTML page](https://eulogikon.org/grc/eutocius-of-ascalon/equilibrium-planes)
+**eul_wid:** `uvy-ab` · [HTML page](https://eulogikon.org/works/eutocius-ascalon-equilibrium-planes-uvy-ab)
 
 ## Text
 

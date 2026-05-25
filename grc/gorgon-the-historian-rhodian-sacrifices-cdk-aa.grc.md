@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Gorgon the Historian
 eul_wid: cdk-aa
 eul_aid: cdk
-canonical: "https://eulogikon.org/grc/gorgon-the-historian/rhodian-sacrifices"
+canonical: "https://eulogikon.org/works/gorgon-rhodian-sacrifices-cdk-aa"
 period: Classical
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Gorgon the Historian
 
-**eul_wid:** `cdk-aa` · [HTML page](https://eulogikon.org/grc/gorgon-the-historian/rhodian-sacrifices)
+**eul_wid:** `cdk-aa` · [HTML page](https://eulogikon.org/works/gorgon-rhodian-sacrifices-cdk-aa)
 
 ## Text
 

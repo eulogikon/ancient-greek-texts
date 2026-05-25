@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Κώμων καὶ Ἑταιρῶ
 author: Aristagoras the Comic Poet
 eul_wid: equ-aa
 eul_aid: equ
-canonical: "https://eulogikon.org/grc/aristagoras-the-comic-poet/revelry-courtesans"
+canonical: "https://eulogikon.org/works/aristagoras-comic-revelry-courtesans-equ-aa"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristagoras the Comic Poet
 
-**eul_wid:** `equ-aa` · [HTML page](https://eulogikon.org/grc/aristagoras-the-comic-poet/revelry-courtesans)
+**eul_wid:** `equ-aa` · [HTML page](https://eulogikon.org/works/aristagoras-comic-revelry-courtesans-equ-aa)
 
 ## Text
 

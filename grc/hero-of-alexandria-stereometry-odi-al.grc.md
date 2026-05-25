@@ -4,7 +4,7 @@ title_greek: Στερεομετρικά
 author: "Hero of Alexandria "
 eul_wid: odi-al
 eul_aid: odi
-canonical: "https://eulogikon.org/grc/hero-of-alexandria/stereometry"
+canonical: "https://eulogikon.org/works/hero-alexandria-stereometry-odi-al"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hero of Alexandria 
 
-**eul_wid:** `odi-al` · [HTML page](https://eulogikon.org/grc/hero-of-alexandria/stereometry)
+**eul_wid:** `odi-al` · [HTML page](https://eulogikon.org/works/hero-alexandria-stereometry-odi-al)
 
 ## Text
 

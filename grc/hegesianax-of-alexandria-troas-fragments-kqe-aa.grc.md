@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα καὶ Τίτλος
 author: Hegesianax of Alexandria Troas
 eul_wid: kqe-aa
 eul_aid: kqe
-canonical: "https://eulogikon.org/grc/hegesianax-of-alexandria-troas/fragments"
+canonical: "https://eulogikon.org/works/hegesianax-alexandria-troas-fragments-kqe-aa"
 period: Hellenistic
 dialect: Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hegesianax of Alexandria Troas
 
-**eul_wid:** `kqe-aa` · [HTML page](https://eulogikon.org/grc/hegesianax-of-alexandria-troas/fragments)
+**eul_wid:** `kqe-aa` · [HTML page](https://eulogikon.org/works/hegesianax-alexandria-troas-fragments-kqe-aa)
 
 ## Text
 

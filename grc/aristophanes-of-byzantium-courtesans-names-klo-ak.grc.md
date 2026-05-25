@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Aristophanes of Byzantium
 eul_wid: klo-ak
 eul_aid: klo
-canonical: "https://eulogikon.org/grc/aristophanes-of-byzantium/courtesans-names"
+canonical: "https://eulogikon.org/works/aristophanes-byzantium-courtesans-names-klo-ak"
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristophanes of Byzantium
 
-**eul_wid:** `klo-ak` · [HTML page](https://eulogikon.org/grc/aristophanes-of-byzantium/courtesans-names)
+**eul_wid:** `klo-ak` · [HTML page](https://eulogikon.org/works/aristophanes-byzantium-courtesans-names-klo-ak)
 
 ## Text
 

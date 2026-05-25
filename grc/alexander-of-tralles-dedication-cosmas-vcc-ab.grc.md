@@ -4,7 +4,7 @@ title_greek: Ἀφιέρωσις πρὸς Κοσμᾶν
 author: Alexander of Tralles
 eul_wid: vcc-ab
 eul_aid: vcc
-canonical: "https://eulogikon.org/grc/alexander-of-tralles/dedication-cosmas"
+canonical: "https://eulogikon.org/works/alexander-tralleis-dedication-cosmas-vcc-ab"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alexander of Tralles
 
-**eul_wid:** `vcc-ab` · [HTML page](https://eulogikon.org/grc/alexander-of-tralles/dedication-cosmas)
+**eul_wid:** `vcc-ab` · [HTML page](https://eulogikon.org/works/alexander-tralleis-dedication-cosmas-vcc-ab)
 
 ## Text
 

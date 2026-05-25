@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Agathocles of Cyzicus
 eul_wid: izw-ab
 eul_aid: izw
-canonical: "https://eulogikon.org/grc/agathocles-of-cyzicus/pontus-river"
+canonical: "https://eulogikon.org/works/agathocles-cyzicus-pontus-river-izw-ab"
 period: Hellenistic
 dialect: Ionic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Agathocles of Cyzicus
 
-**eul_wid:** `izw-ab` · [HTML page](https://eulogikon.org/grc/agathocles-of-cyzicus/pontus-river)
+**eul_wid:** `izw-ab` · [HTML page](https://eulogikon.org/works/agathocles-cyzicus-pontus-river-izw-ab)
 
 ## Text
 

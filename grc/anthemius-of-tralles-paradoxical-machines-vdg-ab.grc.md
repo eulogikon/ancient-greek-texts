@@ -4,7 +4,7 @@ title_greek: Περὶ παραδόξων μηχανημάτων
 author: Anthemius of Tralles
 eul_wid: vdg-ab
 eul_aid: vdg
-canonical: "https://eulogikon.org/grc/anthemius-of-tralles/paradoxical-machines"
+canonical: "https://eulogikon.org/works/anthemius-tralles-paradoxical-machines-vdg-ab"
 period: Late Antique
 dialect: Technical Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Anthemius of Tralles
 
-**eul_wid:** `vdg-ab` · [HTML page](https://eulogikon.org/grc/anthemius-of-tralles/paradoxical-machines)
+**eul_wid:** `vdg-ab` · [HTML page](https://eulogikon.org/works/anthemius-tralles-paradoxical-machines-vdg-ab)
 
 ## Text
 

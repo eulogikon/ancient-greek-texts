@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν μυστηρίων
 author: Andocides
 eul_wid: eym-ad
 eul_aid: eym
-canonical: "https://eulogikon.org/grc/andocides/mysteries"
+canonical: "https://eulogikon.org/works/andocides-mysteries-eym-ad"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Andocides
 
-**eul_wid:** `eym-ad` · [HTML page](https://eulogikon.org/grc/andocides/mysteries)
+**eul_wid:** `eym-ad` · [HTML page](https://eulogikon.org/works/andocides-mysteries-eym-ad)
 
 ## Text
 

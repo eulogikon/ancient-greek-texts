@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Brontinus of Metapontum
 eul_wid: azu-aa
 eul_aid: azu
-canonical: "https://eulogikon.org/grc/brontinus-of-metapontum/testimonies"
+canonical: "https://eulogikon.org/works/brontinus-metapontum-testimonies-azu-aa"
 period: Archaic
 dialect: "Doric (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Brontinus of Metapontum
 
-**eul_wid:** `azu-aa` · [HTML page](https://eulogikon.org/grc/brontinus-of-metapontum/testimonies)
+**eul_wid:** `azu-aa` · [HTML page](https://eulogikon.org/works/brontinus-metapontum-testimonies-azu-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: "Μαρτυρίαι Β'"
 author: Hecataeus of Abdera
 eul_wid: hoe-ab
 eul_aid: hoe
-canonical: "https://eulogikon.org/grc/hecataeus-of-abdera/testimonies-2"
+canonical: "https://eulogikon.org/works/hecataeus-abdera-testimonies-2-hoe-ab"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hecataeus of Abdera
 
-**eul_wid:** `hoe-ab` · [HTML page](https://eulogikon.org/grc/hecataeus-of-abdera/testimonies-2)
+**eul_wid:** `hoe-ab` · [HTML page](https://eulogikon.org/works/hecataeus-abdera-testimonies-2-hoe-ab)
 
 ## Text
 

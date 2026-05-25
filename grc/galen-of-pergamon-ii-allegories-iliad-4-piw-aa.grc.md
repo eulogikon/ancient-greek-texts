@@ -4,7 +4,7 @@ title_greek: Ἀλληγορίαι εἰς τὴν Ἰλιάδα τοῦ Ὁμή
 author: Galen of Pergamon II
 eul_wid: piw-aa
 eul_aid: piw
-canonical: "https://eulogikon.org/grc/galen-of-pergamon-ii/allegories-iliad-4"
+canonical: "https://eulogikon.org/works/galen-pergamon-allegories-iliad-4-piw-aa"
 period: Roman
 dialect: Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon II
 
-**eul_wid:** `piw-aa` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon-ii/allegories-iliad-4)
+**eul_wid:** `piw-aa` · [HTML page](https://eulogikon.org/works/galen-pergamon-allegories-iliad-4-piw-aa)
 
 ## Text
 

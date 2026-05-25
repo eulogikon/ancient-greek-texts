@@ -4,7 +4,7 @@ title_greek: Θρασύβουλος ἢ πότερον ἰατρικῇ ἢ γυ
 author: Galen of Pergamon
 eul_wid: qmm-ab
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/thrasybulus-hygiene"
+canonical: "https://eulogikon.org/works/galen-pergamon-thrasybulus-hygiene-qmm-ab"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-ab` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/thrasybulus-hygiene)
+**eul_wid:** `qmm-ab` · [HTML page](https://eulogikon.org/works/galen-pergamon-thrasybulus-hygiene-qmm-ab)
 
 ## Text
 

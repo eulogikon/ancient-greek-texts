@@ -4,7 +4,7 @@ title_greek: Αποσπάσματα
 author: Bion of Borysthenes
 eul_wid: hks-ab
 eul_aid: hks
-canonical: "https://eulogikon.org/grc/bion-of-borysthenes/archytas-fragments"
+canonical: "https://eulogikon.org/works/bion-borysthenes-archytas-fragments-hks-ab"
 period: Classical
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Bion of Borysthenes
 
-**eul_wid:** `hks-ab` · [HTML page](https://eulogikon.org/grc/bion-of-borysthenes/archytas-fragments)
+**eul_wid:** `hks-ab` · [HTML page](https://eulogikon.org/works/bion-borysthenes-archytas-fragments-hks-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Demonicus the Comic Poet
 eul_wid: gzy-aa
 eul_aid: gzy
-canonical: "https://eulogikon.org/grc/demonicus-the-comic-poet/boeotian-banquet-aa"
+canonical: "https://eulogikon.org/works/demonicus-boeotian-banquet-gzy-aa"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demonicus the Comic Poet
 
-**eul_wid:** `gzy-aa` · [HTML page](https://eulogikon.org/grc/demonicus-the-comic-poet/boeotian-banquet-aa)
+**eul_wid:** `gzy-aa` · [HTML page](https://eulogikon.org/works/demonicus-boeotian-banquet-gzy-aa)
 
 ## Text
 

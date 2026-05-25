@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Βίου
 author: Euryphamus the Philosopher
 eul_wid: szw-aa
 eul_aid: szw
-canonical: "https://eulogikon.org/grc/euryphamus-the-philosopher/life"
+canonical: "https://eulogikon.org/works/euryphamus-life-szw-aa"
 period: Late Antique
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euryphamus the Philosopher
 
-**eul_wid:** `szw-aa` · [HTML page](https://eulogikon.org/grc/euryphamus-the-philosopher/life)
+**eul_wid:** `szw-aa` · [HTML page](https://eulogikon.org/works/euryphamus-life-szw-aa)
 
 ## Text
 

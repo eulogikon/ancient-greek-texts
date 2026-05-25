@@ -4,7 +4,7 @@ title_greek: Χρῆσις Ἰουστινιανοῦ βασιλέως
 author: Alchemist I
 eul_wid: rrg-bf
 eul_aid: rrg
-canonical: "https://eulogikon.org/grc/alchemist-i/justinian"
+canonical: "https://eulogikon.org/works/alchemist-i-justinian-rrg-bf"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alchemist I
 
-**eul_wid:** `rrg-bf` · [HTML page](https://eulogikon.org/grc/alchemist-i/justinian)
+**eul_wid:** `rrg-bf` · [HTML page](https://eulogikon.org/works/alchemist-i-justinian-rrg-bf)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἔρωτος καὶ Οἰκία
 author: Dicaeogenes
 eul_wid: grw-aa
 eul_aid: grw
-canonical: "https://eulogikon.org/grc/dicaeogenes/love-family"
+canonical: "https://eulogikon.org/works/dicaeogenes-love-family-grw-aa"
 period: Classical
 dialect: "Attic (dr, frg)"
 domain: Drama
@@ -18,17 +18,17 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dicaeogenes
 
-**eul_wid:** `grw-aa` · [HTML page](https://eulogikon.org/grc/dicaeogenes/love-family)
+**eul_wid:** `grw-aa` · [HTML page](https://eulogikon.org/works/dicaeogenes-love-family-grw-aa)
 
 ## Text
 
 ### book 1b.1
 
-ὅταν δ’ ἔρωτος ἐνδεθῶμεν ἄρκυσιν θᾶσσον θυραίοις †τὴν χάριν
+ὅταν δ’ ἔρωτος ἐνδεθῶμεν ἄρκυσιν θᾶσσον θυραίοις τὴν χάριν
 
 ### book 1b.2
 
-ποιούμεθα ἢ τοῖς †ἀνάγκης ἐν γένει
+ποιούμεθα ἢ τοῖς ἀνάγκης ἐν γένει
 
 ### book 1b.3
 

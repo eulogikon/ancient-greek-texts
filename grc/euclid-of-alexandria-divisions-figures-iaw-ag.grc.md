@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Euclid of Alexandria
 eul_wid: iaw-ag
 eul_aid: iaw
-canonical: "https://eulogikon.org/grc/euclid-of-alexandria/divisions-figures"
+canonical: "https://eulogikon.org/works/euclid-alexandria-divisions-figures-iaw-ag"
 period: Hellenistic
 dialect: Technical Koine
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euclid of Alexandria
 
-**eul_wid:** `iaw-ag` · [HTML page](https://eulogikon.org/grc/euclid-of-alexandria/divisions-figures)
+**eul_wid:** `iaw-ag` · [HTML page](https://eulogikon.org/works/euclid-alexandria-divisions-figures-iaw-ag)
 
 ## Text
 

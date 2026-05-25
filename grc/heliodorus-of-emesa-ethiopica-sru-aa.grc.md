@@ -4,7 +4,7 @@ title_greek: Αἰθιοπικά
 author: Heliodorus of Emesa
 eul_wid: sru-aa
 eul_aid: sru
-canonical: "https://eulogikon.org/grc/heliodorus-of-emesa/ethiopica"
+canonical: "https://eulogikon.org/works/heliodorus-emesa-ethiopica-sru-aa"
 period: Late Antique
 dialect: Atticizing Literary
 domain: Fiction
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Heliodorus of Emesa
 
-**eul_wid:** `sru-aa` · [HTML page](https://eulogikon.org/grc/heliodorus-of-emesa/ethiopica)
+**eul_wid:** `sru-aa` · [HTML page](https://eulogikon.org/works/heliodorus-emesa-ethiopica-sru-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Anaxicrates Historicus
 eul_wid: iio-aa
 eul_aid: iio
-canonical: "https://eulogikon.org/grc/anaxicrates-historicus/argolic-histories"
+canonical: "https://eulogikon.org/works/anaxicrates-argolic-histories-iio-aa"
 period: Hellenistic
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Anaxicrates Historicus
 
-**eul_wid:** `iio-aa` · [HTML page](https://eulogikon.org/grc/anaxicrates-historicus/argolic-histories)
+**eul_wid:** `iio-aa` · [HTML page](https://eulogikon.org/works/anaxicrates-argolic-histories-iio-aa)
 
 ## Text
 

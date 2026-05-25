@@ -4,7 +4,7 @@ title_greek: Περὶ τῆς δυνάμεως τῶν καθαρτικῶν φ
 author: Galen of Pergamon
 eul_wid: qmm-bm
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/purgative-medicines-bm"
+canonical: "https://eulogikon.org/works/galen-pergamon-purgative-medicines-qmm-bm"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-bm` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/purgative-medicines-bm)
+**eul_wid:** `qmm-bm` · [HTML page](https://eulogikon.org/works/galen-pergamon-purgative-medicines-qmm-bm)
 
 ## Text
 

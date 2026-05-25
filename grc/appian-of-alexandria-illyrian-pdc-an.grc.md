@@ -4,7 +4,7 @@ title_greek: Ἰλλυρική
 author: Appian of Alexandria
 eul_wid: pdc-an
 eul_aid: pdc
-canonical: "https://eulogikon.org/grc/appian-of-alexandria/illyrian"
+canonical: "https://eulogikon.org/works/appian-alexandria-illyrian-pdc-an"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Appian of Alexandria
 
-**eul_wid:** `pdc-an` · [HTML page](https://eulogikon.org/grc/appian-of-alexandria/illyrian)
+**eul_wid:** `pdc-an` · [HTML page](https://eulogikon.org/works/appian-alexandria-illyrian-pdc-an)
 
 ## Text
 

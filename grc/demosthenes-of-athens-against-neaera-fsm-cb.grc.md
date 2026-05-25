@@ -4,7 +4,7 @@ title_greek: κατὰ Νεαίρας
 author: Demosthenes of Athens
 eul_wid: fsm-cb
 eul_aid: fsm
-canonical: "https://eulogikon.org/grc/demosthenes-of-athens/against-neaera"
+canonical: "https://eulogikon.org/works/demosthenes-athens-against-neaera-fsm-cb"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demosthenes of Athens
 
-**eul_wid:** `fsm-cb` · [HTML page](https://eulogikon.org/grc/demosthenes-of-athens/against-neaera)
+**eul_wid:** `fsm-cb` · [HTML page](https://eulogikon.org/works/demosthenes-athens-against-neaera-fsm-cb)
 
 ## Text
 

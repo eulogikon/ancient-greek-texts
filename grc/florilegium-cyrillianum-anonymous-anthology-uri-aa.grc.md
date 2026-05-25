@@ -4,7 +4,7 @@ title_greek: Κυρίλλειος Ἀνθολογία
 author: Florilegium Cyrillianum Anonymous
 eul_wid: uri-aa
 eul_aid: uri
-canonical: "https://eulogikon.org/grc/florilegium-cyrillianum-anonymous/anthology"
+canonical: "https://eulogikon.org/works/florilegium-cyrillianum-anthology-uri-aa"
 period: Late Antique
 dialect: Byzantine Greek
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Florilegium Cyrillianum Anonymous
 
-**eul_wid:** `uri-aa` · [HTML page](https://eulogikon.org/grc/florilegium-cyrillianum-anonymous/anthology)
+**eul_wid:** `uri-aa` · [HTML page](https://eulogikon.org/works/florilegium-cyrillianum-anthology-uri-aa)
 
 ## Text
 

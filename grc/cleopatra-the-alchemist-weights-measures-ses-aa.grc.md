@@ -4,7 +4,7 @@ title_greek: Περὶ Μέτρων καὶ Σταθμῶν
 author: Cleopatra the Alchemist
 eul_wid: ses-aa
 eul_aid: ses
-canonical: "https://eulogikon.org/grc/cleopatra-the-alchemist/weights-measures"
+canonical: "https://eulogikon.org/works/cleopatra-alchemist-weights-measures-ses-aa"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cleopatra the Alchemist
 
-**eul_wid:** `ses-aa` · [HTML page](https://eulogikon.org/grc/cleopatra-the-alchemist/weights-measures)
+**eul_wid:** `ses-aa` · [HTML page](https://eulogikon.org/works/cleopatra-alchemist-weights-measures-ses-aa)
 
 ## Text
 
@@ -92,11 +92,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 79 2
 
-†καὶ ἡμιοβολίου τὸ δʹʹ πέμπτον τὸ ϛʹʹ ἔχει Ἀττικοῦ β χαλκοῦ καὶ χαλκ.. βʹ πέμπτα. [καὶ τὸ διπλούνδιον ὁμοίως ἄγει δραχμὰς δʹ.] Ἡ 𐆄 ἔχει 𐅻 ηʹ.
+καὶ ἡμιοβολίου τὸ δʹʹ πέμπτον τὸ ϛʹʹ ἔχει Ἀττικοῦ β χαλκοῦ καὶ χαλκ.. βʹ πέμπτα. [καὶ τὸ διπλούνδιον ὁμοίως ἄγει δραχμὰς δʹ.] Ἡ 𐆄 ἔχει 𐅻 ηʹ.
 
 ### 79 3
 
-ἡ 𐅻 ἔχει 𐆄 τὸ †δʹʹ ... ὀξύβαφα βʹ. τὸ δὲ ὀξύβαφον κυάθους γʹ. Ὁ κύαθος ἔχει μύστρα μικρὰ βʹ.
+ἡ 𐅻 ἔχει 𐆄 τὸ δʹʹ ... ὀξύβαφα βʹ. τὸ δὲ ὀξύβαφον κυάθους γʹ. Ὁ κύαθος ἔχει μύστρα μικρὰ βʹ.
 
 ### 79 5
 
@@ -112,7 +112,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 79 10
 
-†καὶ ἔχει ὁλκὰς ϙʹ. Τὸ δηνάριον ἔχει γράμματα δʹ.
+καὶ ἔχει ὁλκὰς ϙʹ. Τὸ δηνάριον ἔχει γράμματα δʹ.
 
 ### 80 1
 
@@ -128,7 +128,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 80 6
 
-τὸ γὰρ ἀργύριον ἔχει νομίσματα ιʹ Λ̸ δʹ 𐆄 βʹ· ἅπερ ἔλαβεν ὁ Ἰούδας. Τὸ σάτον ἐστὶ μόδιος †κούμουλος.
+τὸ γὰρ ἀργύριον ἔχει νομίσματα ιʹ Λ̸ δʹ 𐆄 βʹ· ἅπερ ἔλαβεν ὁ Ἰούδας. Τὸ σάτον ἐστὶ μόδιος κούμουλος.
 
 ### 80 7
 

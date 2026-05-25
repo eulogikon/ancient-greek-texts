@@ -4,7 +4,7 @@ title_greek: Ἐπιστολικὰ Σχήματα
 author: Demetrius On Style
 eul_wid: nvg-aa
 eul_aid: nvg
-canonical: "https://eulogikon.org/grc/demetrius-on-style/epistolary-forms-aa"
+canonical: "https://eulogikon.org/works/demetrius-style-epistolary-forms-nvg-aa"
 period: Roman
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demetrius On Style
 
-**eul_wid:** `nvg-aa` · [HTML page](https://eulogikon.org/grc/demetrius-on-style/epistolary-forms-aa)
+**eul_wid:** `nvg-aa` · [HTML page](https://eulogikon.org/works/demetrius-style-epistolary-forms-nvg-aa)
 
 ## Text
 

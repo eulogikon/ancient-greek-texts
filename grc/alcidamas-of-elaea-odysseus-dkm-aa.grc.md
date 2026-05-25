@@ -4,7 +4,7 @@ title_greek: Ὀδυσσεύς
 author: Alcidamas of Elaea
 eul_wid: dkm-aa
 eul_aid: dkm
-canonical: "https://eulogikon.org/grc/alcidamas-of-elaea/odysseus"
+canonical: "https://eulogikon.org/works/alcidamas-elaea-odysseus-dkm-aa"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alcidamas of Elaea
 
-**eul_wid:** `dkm-aa` · [HTML page](https://eulogikon.org/grc/alcidamas-of-elaea/odysseus)
+**eul_wid:** `dkm-aa` · [HTML page](https://eulogikon.org/works/alcidamas-elaea-odysseus-dkm-aa)
 
 ## Text
 
@@ -204,7 +204,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 16 25
 
-ἀριθμούς γε μὴν Μουσαῖος ὁ τῶν Εὐμολπιδῶν, Ἀθηναῖος, ὡς καὶ τὰ ποιήματα αὐτοῦ δηλοῖ· ὄρθιον ἑξαμερὲς τετόρων καὶ εἴκοσι μέτρων.— ὡς δεκάτην γενεὴν ἑκατὸν βιοτευέμεν ἄνδρας. νομίσματα δὲ οὐ Φοίνικες ἐξηῦρον, λογιώτατοι καὶ δεινότατοι ὄντες τῶν βαρβάρων; ἐξ ὁλοσφύρου γὰρ ἴσον μερισμὸν διείλοντο, καὶ πρῶτοι χαρακτῆρα ἔβαλον, † εἰς τὸν σταθμὸν τὸ πλέον καὶ τὸ ἔλαττον.
+ἀριθμούς γε μὴν Μουσαῖος ὁ τῶν Εὐμολπιδῶν, Ἀθηναῖος, ὡς καὶ τὰ ποιήματα αὐτοῦ δηλοῖ· ὄρθιον ἑξαμερὲς τετόρων καὶ εἴκοσι μέτρων.— ὡς δεκάτην γενεὴν ἑκατὸν βιοτευέμεν ἄνδρας. νομίσματα δὲ οὐ Φοίνικες ἐξηῦρον, λογιώτατοι καὶ δεινότατοι ὄντες τῶν βαρβάρων; ἐξ ὁλοσφύρου γὰρ ἴσον μερισμὸν διείλοντο, καὶ πρῶτοι χαρακτῆρα ἔβαλον, εἰς τὸν σταθμὸν τὸ πλέον καὶ τὸ ἔλαττον.
 
 ### 16 26
 

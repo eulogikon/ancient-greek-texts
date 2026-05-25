@@ -4,7 +4,7 @@ title_greek: Ἐπιστολαὶ περὶ Φιλοσοφίας
 author: Crates of Thebes I
 eul_wid: gwc-aa
 eul_aid: gwc
-canonical: "https://eulogikon.org/grc/crates-of-thebes-i/letters-philosophy"
+canonical: "https://eulogikon.org/works/crates-thebes-letters-philosophy-gwc-aa"
 period: Classical
 dialect: Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Crates of Thebes I
 
-**eul_wid:** `gwc-aa` · [HTML page](https://eulogikon.org/grc/crates-of-thebes-i/letters-philosophy)
+**eul_wid:** `gwc-aa` · [HTML page](https://eulogikon.org/works/crates-thebes-letters-philosophy-gwc-aa)
 
 ## Text
 

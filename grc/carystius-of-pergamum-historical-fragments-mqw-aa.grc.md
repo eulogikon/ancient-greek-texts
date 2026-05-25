@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Carystius of Pergamum
 eul_wid: mqw-aa
 eul_aid: mqw
-canonical: "https://eulogikon.org/grc/carystius-of-pergamum/historical-fragments"
+canonical: "https://eulogikon.org/works/carystius-pergamum-historical-fragments-mqw-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Carystius of Pergamum
 
-**eul_wid:** `mqw-aa` · [HTML page](https://eulogikon.org/grc/carystius-of-pergamum/historical-fragments)
+**eul_wid:** `mqw-aa` · [HTML page](https://eulogikon.org/works/carystius-pergamum-historical-fragments-mqw-aa)
 
 ## Text
 

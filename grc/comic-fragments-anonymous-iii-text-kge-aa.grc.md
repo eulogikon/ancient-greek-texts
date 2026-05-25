@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα ἀνωνύμων κωμῳδῶν
 author: Comic Fragments Anonymous III
 eul_wid: kge-aa
 eul_aid: kge
-canonical: "https://eulogikon.org/grc/comic-fragments-anonymous-iii/text"
+canonical: "https://eulogikon.org/works/comic-fragments-anon-iii-text-kge-aa"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Comic Fragments Anonymous III
 
-**eul_wid:** `kge-aa` · [HTML page](https://eulogikon.org/grc/comic-fragments-anonymous-iii/text)
+**eul_wid:** `kge-aa` · [HTML page](https://eulogikon.org/works/comic-fragments-anon-iii-text-kge-aa)
 
 ## Text
 

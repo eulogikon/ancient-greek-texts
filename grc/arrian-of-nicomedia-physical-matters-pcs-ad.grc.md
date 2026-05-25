@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Φυσικῶν
 author: Arrian of Nicomedia
 eul_wid: pcs-ad
 eul_aid: pcs
-canonical: "https://eulogikon.org/grc/arrian-of-nicomedia/physical-matters"
+canonical: "https://eulogikon.org/works/arrian-nicomedia-physical-matters-pcs-ad"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Arrian of Nicomedia
 
-**eul_wid:** `pcs-ad` · [HTML page](https://eulogikon.org/grc/arrian-of-nicomedia/physical-matters)
+**eul_wid:** `pcs-ad` · [HTML page](https://eulogikon.org/works/arrian-nicomedia-physical-matters-pcs-ad)
 
 ## Text
 

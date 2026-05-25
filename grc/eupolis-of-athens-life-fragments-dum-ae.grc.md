@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Eupolis Atheniensis
 eul_wid: dum-ae
 eul_aid: dum
-canonical: "https://eulogikon.org/grc/eupolis-of-athens/life-fragments"
+canonical: "https://eulogikon.org/works/eupolis-athens-life-fragments-dum-ae"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Eupolis Atheniensis
 
-**eul_wid:** `dum-ae` · [HTML page](https://eulogikon.org/grc/eupolis-of-athens/life-fragments)
+**eul_wid:** `dum-ae` · [HTML page](https://eulogikon.org/works/eupolis-athens-life-fragments-dum-ae)
 
 ## Text
 

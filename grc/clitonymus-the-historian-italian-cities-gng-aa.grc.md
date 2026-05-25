@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἰταλικῶν Πόλεων
 author: Clitonymus the Historian
 eul_wid: gng-aa
 eul_aid: gng
-canonical: "https://eulogikon.org/grc/clitonymus-the-historian/italian-cities"
+canonical: "https://eulogikon.org/works/clitonymus-italian-cities-gng-aa"
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Clitonymus the Historian
 
-**eul_wid:** `gng-aa` · [HTML page](https://eulogikon.org/grc/clitonymus-the-historian/italian-cities)
+**eul_wid:** `gng-aa` · [HTML page](https://eulogikon.org/works/clitonymus-italian-cities-gng-aa)
 
 ## Text
 

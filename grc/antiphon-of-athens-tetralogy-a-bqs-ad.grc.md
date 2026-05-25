@@ -4,7 +4,7 @@ title_greek: Τετραλογία Α΄
 author: "Antiphon of Athens "
 eul_wid: bqs-ad
 eul_aid: bqs
-canonical: "https://eulogikon.org/grc/antiphon-of-athens/tetralogy-a"
+canonical: "https://eulogikon.org/works/antiphon-athens-tetralogy-a-bqs-ad"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Antiphon of Athens 
 
-**eul_wid:** `bqs-ad` · [HTML page](https://eulogikon.org/grc/antiphon-of-athens/tetralogy-a)
+**eul_wid:** `bqs-ad` · [HTML page](https://eulogikon.org/works/antiphon-athens-tetralogy-a-bqs-ad)
 
 ## Text
 

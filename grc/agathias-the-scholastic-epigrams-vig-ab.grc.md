@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Agathias the Scholastic
 eul_wid: vig-ab
 eul_aid: vig
-canonical: "https://eulogikon.org/grc/agathias-the-scholastic/epigrams"
+canonical: "https://eulogikon.org/works/agathias-epigrams-vig-ab"
 period: Late Antique
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Agathias the Scholastic
 
-**eul_wid:** `vig-ab` · [HTML page](https://eulogikon.org/grc/agathias-the-scholastic/epigrams)
+**eul_wid:** `vig-ab` · [HTML page](https://eulogikon.org/works/agathias-epigrams-vig-ab)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Aethlius of Samos
 eul_wid: fza-aa
 eul_aid: fza
-canonical: "https://eulogikon.org/grc/aethlius-of-samos/seasons"
+canonical: "https://eulogikon.org/works/aethlius-samos-seasons-fza-aa"
 period: Classical
 dialect: Ionic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aethlius of Samos
 
-**eul_wid:** `fza-aa` · [HTML page](https://eulogikon.org/grc/aethlius-of-samos/seasons)
+**eul_wid:** `fza-aa` · [HTML page](https://eulogikon.org/works/aethlius-samos-seasons-fza-aa)
 
 ## Text
 

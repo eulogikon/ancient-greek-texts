@@ -4,7 +4,7 @@ title_greek: Χρησμοί
 author: Astrampsychus the Magician
 eul_wid: ptg-aa
 eul_aid: ptg
-canonical: "https://eulogikon.org/grc/astrampsychus-the-magician/oracles-aa"
+canonical: "https://eulogikon.org/works/astrampsychus-oracles-ptg-aa"
 period: Roman
 dialect: Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Astrampsychus the Magician
 
-**eul_wid:** `ptg-aa` · [HTML page](https://eulogikon.org/grc/astrampsychus-the-magician/oracles-aa)
+**eul_wid:** `ptg-aa` · [HTML page](https://eulogikon.org/works/astrampsychus-oracles-ptg-aa)
 
 ## Text
 

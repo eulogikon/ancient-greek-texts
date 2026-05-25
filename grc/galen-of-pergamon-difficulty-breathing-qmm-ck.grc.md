@@ -4,7 +4,7 @@ title_greek: Περὶ δυσπνοίας
 author: Galen of Pergamon
 eul_wid: qmm-ck
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/difficulty-breathing"
+canonical: "https://eulogikon.org/works/galen-pergamon-difficulty-breathing-qmm-ck"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-ck` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/difficulty-breathing)
+**eul_wid:** `qmm-ck` · [HTML page](https://eulogikon.org/works/galen-pergamon-difficulty-breathing-qmm-ck)
 
 ## Text
 

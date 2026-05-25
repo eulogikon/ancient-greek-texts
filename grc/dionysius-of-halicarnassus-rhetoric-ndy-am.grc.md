@@ -4,7 +4,7 @@ title_greek: Ῥητορικὴ Τέχνη
 author: Dionysius of Halicarnassus
 eul_wid: ndy-am
 eul_aid: ndy
-canonical: "https://eulogikon.org/grc/dionysius-of-halicarnassus/rhetoric"
+canonical: "https://eulogikon.org/works/dionysius-halicarnassus-rhetoric-ndy-am"
 period: Hellenistic
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dionysius of Halicarnassus
 
-**eul_wid:** `ndy-am` · [HTML page](https://eulogikon.org/grc/dionysius-of-halicarnassus/rhetoric)
+**eul_wid:** `ndy-am` · [HTML page](https://eulogikon.org/works/dionysius-halicarnassus-rhetoric-ndy-am)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Σχόλια εἰς Ἄρατον
 author: Aratus Scholia
 eul_wid: ngq-ab
 eul_aid: ngq
-canonical: "https://eulogikon.org/grc/aratus-scholia/text-ab"
+canonical: "https://eulogikon.org/works/aratus-scholia-text-ngq-ab"
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aratus Scholia
 
-**eul_wid:** `ngq-ab` · [HTML page](https://eulogikon.org/grc/aratus-scholia/text-ab)
+**eul_wid:** `ngq-ab` · [HTML page](https://eulogikon.org/works/aratus-scholia-text-ngq-ab)
 
 ## Text
 

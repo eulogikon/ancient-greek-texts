@@ -4,7 +4,7 @@ title_greek: Ἀλκμαίωνος Ἀποσπάσματα
 author: Epic Work Anonymous I
 eul_wid: bsq-aa
 eul_aid: bsq
-canonical: "https://eulogikon.org/grc/epic-anonymous-i/alcmaeon"
+canonical: "https://eulogikon.org/works/epic-anon-i-alcmaeon-bsq-aa"
 period: Classical
 dialect: Mixed Dialects
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Epic Work Anonymous I
 
-**eul_wid:** `bsq-aa` · [HTML page](https://eulogikon.org/grc/epic-anonymous-i/alcmaeon)
+**eul_wid:** `bsq-aa` · [HTML page](https://eulogikon.org/works/epic-anon-i-alcmaeon-bsq-aa)
 
 ## Text
 
@@ -40,7 +40,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2.1
 
-〈–⏕–⏑〉 νέκυς δὲ χαμαιστρώτου ἔπι
+〈–⏕–〉 νέκυς δὲ χαμαιστρώτου ἔπι
 
 ### book 2.2
 

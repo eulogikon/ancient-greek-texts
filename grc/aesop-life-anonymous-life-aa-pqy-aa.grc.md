@@ -4,7 +4,7 @@ title_greek: Βίος Αἰσώπου Πλ ἢ Ἀκκουρσιανός
 author: Aesop Life-anonymous
 eul_wid: pqy-aa
 eul_aid: pqy
-canonical: "https://eulogikon.org/grc/aesop-life-anonymous/life-aa"
+canonical: "https://eulogikon.org/works/aesop-life-pqy-aa"
 period: Roman
 dialect: Koine
 domain: Fiction
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aesop Life-anonymous
 
-**eul_wid:** `pqy-aa` · [HTML page](https://eulogikon.org/grc/aesop-life-anonymous/life-aa)
+**eul_wid:** `pqy-aa` · [HTML page](https://eulogikon.org/works/aesop-life-pqy-aa)
 
 ## Text
 

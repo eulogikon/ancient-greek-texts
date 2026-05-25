@@ -4,7 +4,7 @@ title_greek: Περὶ συνδέσμων
 author: "Apollonius Grammarian "
 eul_wid: pka-aa
 eul_aid: pka
-canonical: "https://eulogikon.org/grc/apollonius-grammarian/conjunctions"
+canonical: "https://eulogikon.org/works/apollonius-grammarian-conjunctions-pka-aa"
 period: Roman
 dialect: Atticizing Technical
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Apollonius Grammarian 
 
-**eul_wid:** `pka-aa` · [HTML page](https://eulogikon.org/grc/apollonius-grammarian/conjunctions)
+**eul_wid:** `pka-aa` · [HTML page](https://eulogikon.org/works/apollonius-grammarian-conjunctions-pka-aa)
 
 ## Text
 

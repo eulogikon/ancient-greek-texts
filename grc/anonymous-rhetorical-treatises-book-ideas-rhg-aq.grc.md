@@ -4,7 +4,7 @@ title_greek: περὶ ἰδεῶν
 author: Rhetorical Treatise Anonymous
 eul_wid: rhg-aq
 eul_aid: rhg
-canonical: "https://eulogikon.org/grc/anonymous-rhetorical-treatises/book-ideas"
+canonical: "https://eulogikon.org/works/anon-rhet-treatise-book-ideas-rhg-aq"
 period: Roman
 dialect: Technical Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Rhetorical Treatise Anonymous
 
-**eul_wid:** `rhg-aq` · [HTML page](https://eulogikon.org/grc/anonymous-rhetorical-treatises/book-ideas)
+**eul_wid:** `rhg-aq` · [HTML page](https://eulogikon.org/works/anon-rhet-treatise-book-ideas-rhg-aq)
 
 ## Text
 

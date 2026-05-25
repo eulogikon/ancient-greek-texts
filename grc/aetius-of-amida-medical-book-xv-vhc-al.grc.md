@@ -4,7 +4,7 @@ title_greek: Ἰατρικὸν Βιβλίον ΙΕʹ
 author: Aëtius of Amida
 eul_wid: vhc-al
 eul_aid: vhc
-canonical: "https://eulogikon.org/grc/aetius-of-amida/medical-book-xv"
+canonical: "https://eulogikon.org/works/aetius-amida-medical-book-xv-vhc-al"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aëtius of Amida
 
-**eul_wid:** `vhc-al` · [HTML page](https://eulogikon.org/grc/aetius-of-amida/medical-book-xv)
+**eul_wid:** `vhc-al` · [HTML page](https://eulogikon.org/works/aetius-amida-medical-book-xv-vhc-al)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Democritus of Ephesus
 eul_wid: lqs-aa
 eul_aid: lqs
-canonical: "https://eulogikon.org/grc/democritus-of-ephesus/temple"
+canonical: "https://eulogikon.org/works/democritus-ephesus-temple-lqs-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Democritus of Ephesus
 
-**eul_wid:** `lqs-aa` · [HTML page](https://eulogikon.org/grc/democritus-of-ephesus/temple)
+**eul_wid:** `lqs-aa` · [HTML page](https://eulogikon.org/works/democritus-ephesus-temple-lqs-aa)
 
 ## Text
 

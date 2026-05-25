@@ -4,7 +4,7 @@ title_greek: "Ἑλένης ἐγκώμιον Α'"
 author: Gorgias of Leontini
 eul_wid: eme-ac
 eul_aid: eme
-canonical: "https://eulogikon.org/grc/gorgias-of-leontini/testimonies"
+canonical: "https://eulogikon.org/works/gorgias-leontini-testimonies-eme-ac"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Gorgias of Leontini
 
-**eul_wid:** `eme-ac` · [HTML page](https://eulogikon.org/grc/gorgias-of-leontini/testimonies)
+**eul_wid:** `eme-ac` · [HTML page](https://eulogikon.org/works/gorgias-leontini-testimonies-eme-ac)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Εἰς βασιλέα
 author: Aristides the Orator
 eul_wid: qwm-bu
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/king"
+canonical: "https://eulogikon.org/works/aristides-orator-king-qwm-bu"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-bu` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/king)
+**eul_wid:** `qwm-bu` · [HTML page](https://eulogikon.org/works/aristides-orator-king-qwm-bu)
 
 ## Text
 

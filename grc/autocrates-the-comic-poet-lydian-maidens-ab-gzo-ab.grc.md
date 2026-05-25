@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Λυδῶν Κορῶν
 author: Autocrates the Comic Poet
 eul_wid: gzo-ab
 eul_aid: gzo
-canonical: "https://eulogikon.org/grc/autocrates-the-comic-poet/lydian-maidens-ab"
+canonical: "https://eulogikon.org/works/autocrates-lydian-maidens-gzo-ab"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Autocrates the Comic Poet
 
-**eul_wid:** `gzo-ab` · [HTML page](https://eulogikon.org/grc/autocrates-the-comic-poet/lydian-maidens-ab)
+**eul_wid:** `gzo-ab` · [HTML page](https://eulogikon.org/works/autocrates-lydian-maidens-gzo-ab)
 
 ## Text
 

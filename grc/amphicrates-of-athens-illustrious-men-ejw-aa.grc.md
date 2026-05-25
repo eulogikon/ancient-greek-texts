@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Amphicrates Atheniensis
 eul_wid: ejw-aa
 eul_aid: ejw
-canonical: "https://eulogikon.org/grc/amphicrates-of-athens/illustrious-men"
+canonical: "https://eulogikon.org/works/amphicrates-athens-illustrious-men-ejw-aa"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Amphicrates Atheniensis
 
-**eul_wid:** `ejw-aa` · [HTML page](https://eulogikon.org/grc/amphicrates-of-athens/illustrious-men)
+**eul_wid:** `ejw-aa` · [HTML page](https://eulogikon.org/works/amphicrates-athens-illustrious-men-ejw-aa)
 
 ## Text
 

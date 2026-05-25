@@ -4,7 +4,7 @@ title_greek: Εἰσαγωγὴ εἰς τὰ Ἁρμονικά
 author: Astronomical Work  Anonymous
 eul_wid: vpe-aa
 eul_aid: vpe
-canonical: "https://eulogikon.org/grc/astronomical-anonymous/harmonics"
+canonical: "https://eulogikon.org/works/anon-astronomical-harmonics-vpe-aa"
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Astronomical Work  Anonymous
 
-**eul_wid:** `vpe-aa` · [HTML page](https://eulogikon.org/grc/astronomical-anonymous/harmonics)
+**eul_wid:** `vpe-aa` · [HTML page](https://eulogikon.org/works/anon-astronomical-harmonics-vpe-aa)
 
 ## Text
 

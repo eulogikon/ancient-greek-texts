@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: "Archelaus of Miletus "
 eul_wid: byk-aa
 eul_aid: byk
-canonical: "https://eulogikon.org/grc/archelaus-of-miletus/testimonies"
+canonical: "https://eulogikon.org/works/archelaus-miletus-testimonies-byk-aa"
 period: Classical
 dialect: Ionic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Archelaus of Miletus 
 
-**eul_wid:** `byk-aa` · [HTML page](https://eulogikon.org/grc/archelaus-of-miletus/testimonies)
+**eul_wid:** `byk-aa` · [HTML page](https://eulogikon.org/works/archelaus-miletus-testimonies-byk-aa)
 
 ## Text
 

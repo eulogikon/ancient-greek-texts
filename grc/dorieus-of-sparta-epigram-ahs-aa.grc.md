@@ -4,7 +4,7 @@ title_greek: Ἐπίγραμμα
 author: Dorieus of Sparta
 eul_wid: ahs-aa
 eul_aid: ahs
-canonical: "https://eulogikon.org/grc/dorieus-of-sparta/epigram"
+canonical: "https://eulogikon.org/works/dorieus-sparta-epigram-ahs-aa"
 period: Archaic
 dialect: Doric
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dorieus of Sparta
 
-**eul_wid:** `ahs-aa` · [HTML page](https://eulogikon.org/grc/dorieus-of-sparta/epigram)
+**eul_wid:** `ahs-aa` · [HTML page](https://eulogikon.org/works/dorieus-sparta-epigram-ahs-aa)
 
 ## Text
 

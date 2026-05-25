@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Bion of Abdera
 eul_wid: dma-aa
 eul_aid: dma
-canonical: "https://eulogikon.org/grc/bion-of-abdera/testimonies"
+canonical: "https://eulogikon.org/works/bion-abdera-testimonies-dma-aa"
 period: Classical
 dialect: Ionic
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Bion of Abdera
 
-**eul_wid:** `dma-aa` · [HTML page](https://eulogikon.org/grc/bion-of-abdera/testimonies)
+**eul_wid:** `dma-aa` · [HTML page](https://eulogikon.org/works/bion-abdera-testimonies-dma-aa)
 
 ## Text
 

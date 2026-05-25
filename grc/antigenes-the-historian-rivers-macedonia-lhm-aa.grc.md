@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Antigenes the Historian
 eul_wid: lhm-aa
 eul_aid: lhm
-canonical: "https://eulogikon.org/grc/antigenes-the-historian/rivers-macedonia"
+canonical: "https://eulogikon.org/works/antigenes-rivers-macedonia-lhm-aa"
 period: Hellenistic
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Antigenes the Historian
 
-**eul_wid:** `lhm-aa` · [HTML page](https://eulogikon.org/grc/antigenes-the-historian/rivers-macedonia)
+**eul_wid:** `lhm-aa` · [HTML page](https://eulogikon.org/works/antigenes-rivers-macedonia-lhm-aa)
 
 ## Text
 
@@ -28,7 +28,7 @@ HERODIANOS Καθολικὴ προσωιδία, Cod. Vindob. Hist. Gr. 10 fol. 
 
 ### 3.(l1)
 
-27: ... ‘Κα̣υ̣ν̣ὸσ‘ ποταμὸς Μακεδονίας· Ἀντιγένης Περὶ τῶν Μακε δονίων ποταμῶν α .
+27: ... ‘Καυνὸσ‘ ποταμὸς Μακεδονίας· Ἀντιγένης Περὶ τῶν Μακε δονίων ποταμῶν α .
 
 ## License and provenance
 

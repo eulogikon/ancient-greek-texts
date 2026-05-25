@@ -4,7 +4,7 @@ title_greek: Παράφρασις εἰς τὰ Κυνηγετικά τοῦ Ὀ
 author: Eutecnius the Paraphrast
 eul_wid: sma-aa
 eul_aid: sma
-canonical: "https://eulogikon.org/grc/eutecnius-the-paraphrast/oppian-cynegetica"
+canonical: "https://eulogikon.org/works/eutecnius-paraphrast-oppian-cynegetica-sma-aa"
 period: Late Antique
 dialect: Technical Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Eutecnius the Paraphrast
 
-**eul_wid:** `sma-aa` · [HTML page](https://eulogikon.org/grc/eutecnius-the-paraphrast/oppian-cynegetica)
+**eul_wid:** `sma-aa` · [HTML page](https://eulogikon.org/works/eutecnius-paraphrast-oppian-cynegetica-sma-aa)
 
 ## Text
 

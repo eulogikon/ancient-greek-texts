@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Cleidemus of Athens I
 eul_wid: dfc-aa
 eul_aid: dfc
-canonical: "https://eulogikon.org/grc/cleidemus-of-athens-i/testimonies"
+canonical: "https://eulogikon.org/works/cleidemus-athens-testimonies-dfc-aa"
 period: Classical
 dialect: Attic (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cleidemus of Athens I
 
-**eul_wid:** `dfc-aa` · [HTML page](https://eulogikon.org/grc/cleidemus-of-athens-i/testimonies)
+**eul_wid:** `dfc-aa` · [HTML page](https://eulogikon.org/works/cleidemus-athens-testimonies-dfc-aa)
 
 ## Text
 

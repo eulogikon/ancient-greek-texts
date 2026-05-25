@@ -4,7 +4,7 @@ title_greek: Εἰσαγωγὴ εἰς τὸν Ἄρατον
 author: "Aratus Lives "
 eul_wid: iru-ah
 eul_aid: iru
-canonical: "https://eulogikon.org/grc/aratus-lives/introduction-ah"
+canonical: "https://eulogikon.org/works/aratus-introduction-iru-ah"
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Biography
@@ -18,11 +18,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aratus Lives 
 
-**eul_wid:** `iru-ah` · [HTML page](https://eulogikon.org/grc/aratus-lives/introduction-ah)
+**eul_wid:** `iru-ah` · [HTML page](https://eulogikon.org/works/aratus-introduction-iru-ah)
 
 ## Text
 
-## PROLEGOMENA IN PARISINO SUPPL. GR. 607A SERVATA Περὶ τῶν οὐρανίων σφαῖρά ἐστι σχῆμα †ἐπίπεδον ἐπιφανείας† πρὸς ἣν ἀπό τινος σημείου τῶν ἐντὸς τῆς σφαίρας κειμένων πᾶσαι αἱ πρὸς τὴν ἐπιφάνειαν προσπίπτουσαι εὐθεῖαι ἴσαι ἀλλήλαις εἰσίν.
+## PROLEGOMENA IN PARISINO SUPPL. GR. 607A SERVATA Περὶ τῶν οὐρανίων σφαῖρά ἐστι σχῆμα ἐπίπεδον ἐπιφανείας πρὸς ἣν ἀπό τινος σημείου τῶν ἐντὸς τῆς σφαίρας κειμένων πᾶσαι αἱ πρὸς τὴν ἐπιφάνειαν προσπίπτουσαι εὐθεῖαι ἴσαι ἀλλήλαις εἰσίν.
 
 ### 1 (t)
 

@@ -4,7 +4,7 @@ title_greek: Πρὸς Μάρκον Καῖσαρα καὶ Ἀλλήλους
 author: Fronto the Rhetorician
 eul_wid: pmi-ab
 eul_aid: pmi
-canonical: "https://eulogikon.org/grc/fronto-the-rhetorician/marcus-caesar-ab"
+canonical: "https://eulogikon.org/works/fronto-marcus-caesar-pmi-ab"
 period: Roman
 dialect: Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Fronto the Rhetorician
 
-**eul_wid:** `pmi-ab` · [HTML page](https://eulogikon.org/grc/fronto-the-rhetorician/marcus-caesar-ab)
+**eul_wid:** `pmi-ab` · [HTML page](https://eulogikon.org/works/fronto-marcus-caesar-pmi-ab)
 
 ## Text
 

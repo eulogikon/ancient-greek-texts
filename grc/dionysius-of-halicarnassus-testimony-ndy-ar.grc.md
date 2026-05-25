@@ -4,7 +4,7 @@ title_greek: Μαρτυρία
 author: Dionysius of Halicarnassus
 eul_wid: ndy-ar
 eul_aid: ndy
-canonical: "https://eulogikon.org/grc/dionysius-of-halicarnassus/testimony"
+canonical: "https://eulogikon.org/works/dionysius-halicarnassus-testimony-ndy-ar"
 period: Hellenistic
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dionysius of Halicarnassus
 
-**eul_wid:** `ndy-ar` · [HTML page](https://eulogikon.org/grc/dionysius-of-halicarnassus/testimony)
+**eul_wid:** `ndy-ar` · [HTML page](https://eulogikon.org/works/dionysius-halicarnassus-testimony-ndy-ar)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ὄρνιθες
 author: Aristophanes of Athens
 eul_wid: daw-ap
 eul_aid: daw
-canonical: "https://eulogikon.org/grc/aristophanes-of-athens/birds"
+canonical: "https://eulogikon.org/works/aristophanes-athens-birds-daw-ap"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristophanes of Athens
 
-**eul_wid:** `daw-ap` · [HTML page](https://eulogikon.org/grc/aristophanes-of-athens/birds)
+**eul_wid:** `daw-ap` · [HTML page](https://eulogikon.org/works/aristophanes-athens-birds-daw-ap)
 
 ## Text
 

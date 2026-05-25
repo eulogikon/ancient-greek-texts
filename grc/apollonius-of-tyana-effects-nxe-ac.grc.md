@@ -4,7 +4,7 @@ title_greek: Ἐπιδράσεις
 author: Apollonius of Tyana
 eul_wid: nxe-ac
 eul_aid: nxe
-canonical: "https://eulogikon.org/grc/apollonius-of-tyana/effects"
+canonical: "https://eulogikon.org/works/apollonius-tyana-effects-nxe-ac"
 period: Roman
 dialect: Koine
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Apollonius of Tyana
 
-**eul_wid:** `nxe-ac` · [HTML page](https://eulogikon.org/grc/apollonius-of-tyana/effects)
+**eul_wid:** `nxe-ac` · [HTML page](https://eulogikon.org/works/apollonius-tyana-effects-nxe-ac)
 
 ## Text
 

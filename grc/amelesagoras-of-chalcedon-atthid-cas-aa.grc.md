@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Amelesagoras of Chalcedon
 eul_wid: cas-aa
 eul_aid: cas
-canonical: "https://eulogikon.org/grc/amelesagoras-of-chalcedon/atthid"
+canonical: "https://eulogikon.org/works/amelesagoras-chalcedon-atthid-cas-aa"
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Amelesagoras of Chalcedon
 
-**eul_wid:** `cas-aa` · [HTML page](https://eulogikon.org/grc/amelesagoras-of-chalcedon/atthid)
+**eul_wid:** `cas-aa` · [HTML page](https://eulogikon.org/works/amelesagoras-chalcedon-atthid-cas-aa)
 
 ## Text
 

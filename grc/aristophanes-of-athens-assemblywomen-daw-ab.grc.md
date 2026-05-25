@@ -4,7 +4,7 @@ title_greek: Ἐκκλησιάζουσαι
 author: Aristophanes of Athens
 eul_wid: daw-ab
 eul_aid: daw
-canonical: "https://eulogikon.org/grc/aristophanes-of-athens/assemblywomen"
+canonical: "https://eulogikon.org/works/aristophanes-athens-assemblywomen-daw-ab"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristophanes of Athens
 
-**eul_wid:** `daw-ab` · [HTML page](https://eulogikon.org/grc/aristophanes-of-athens/assemblywomen)
+**eul_wid:** `daw-ab` · [HTML page](https://eulogikon.org/works/aristophanes-athens-assemblywomen-daw-ab)
 
 ## Text
 

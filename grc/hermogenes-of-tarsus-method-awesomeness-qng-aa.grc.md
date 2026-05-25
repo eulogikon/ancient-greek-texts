@@ -4,7 +4,7 @@ title_greek: Περὶ μεθόδου δεινότητος
 author: Hermogenes of Tarsus
 eul_wid: qng-aa
 eul_aid: qng
-canonical: "https://eulogikon.org/grc/hermogenes-of-tarsus/method-awesomeness"
+canonical: "https://eulogikon.org/works/hermogenes-tarsus-method-awesomeness-qng-aa"
 period: Roman
 dialect: Atticizing Technical
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hermogenes of Tarsus
 
-**eul_wid:** `qng-aa` · [HTML page](https://eulogikon.org/grc/hermogenes-of-tarsus/method-awesomeness)
+**eul_wid:** `qng-aa` · [HTML page](https://eulogikon.org/works/hermogenes-tarsus-method-awesomeness-qng-aa)
 
 ## Text
 

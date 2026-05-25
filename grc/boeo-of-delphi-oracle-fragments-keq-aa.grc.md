@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Boeo of Delphi
 eul_wid: keq-aa
 eul_aid: keq
-canonical: "https://eulogikon.org/grc/boeo-of-delphi/oracle-fragments"
+canonical: "https://eulogikon.org/works/boeo-delphi-oracle-fragments-keq-aa"
 period: Hellenistic
 dialect: Epic (Homeric) (frg)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Boeo of Delphi
 
-**eul_wid:** `keq-aa` · [HTML page](https://eulogikon.org/grc/boeo-of-delphi/oracle-fragments)
+**eul_wid:** `keq-aa` · [HTML page](https://eulogikon.org/works/boeo-delphi-oracle-fragments-keq-aa)
 
 ## Text
 

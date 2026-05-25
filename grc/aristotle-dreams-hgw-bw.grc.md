@@ -4,7 +4,7 @@ title_greek: Περὶ Ἐνυπνίων
 author: Aristotle
 eul_wid: hgw-bw
 eul_aid: hgw
-canonical: "https://eulogikon.org/grc/aristotle/dreams"
+canonical: "https://eulogikon.org/works/aristotle-dreams-hgw-bw"
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristotle
 
-**eul_wid:** `hgw-bw` · [HTML page](https://eulogikon.org/grc/aristotle/dreams)
+**eul_wid:** `hgw-bw` · [HTML page](https://eulogikon.org/works/aristotle-dreams-hgw-bw)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ὕμνοι
 author: Callimachus of Cyrene the Poet and Scholar
 eul_wid: iso-am
 eul_aid: iso
-canonical: "https://eulogikon.org/grc/callimachus-of-cyrene/epigrams-am"
+canonical: "https://eulogikon.org/works/callimachus-cyrene-epigrams-iso-am"
 period: Hellenistic
 dialect: Literary Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Callimachus of Cyrene the Poet and Scholar
 
-**eul_wid:** `iso-am` · [HTML page](https://eulogikon.org/grc/callimachus-of-cyrene/epigrams-am)
+**eul_wid:** `iso-am` · [HTML page](https://eulogikon.org/works/callimachus-cyrene-epigrams-iso-am)
 
 ## Text
 

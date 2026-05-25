@@ -4,7 +4,7 @@ title_greek: Προγνωστικὰ ἐκ τῆς Μαθηματικῆς Ἐπ
 author: Medical Writer  Anonymous
 eul_wid: tqu-ad
 eul_aid: tqu
-canonical: "https://eulogikon.org/grc/anonymous-medical-writer/prognostics-lying-down"
+canonical: "https://eulogikon.org/works/med-writer-anon-prognostics-lying-down-tqu-ad"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Medical Writer  Anonymous
 
-**eul_wid:** `tqu-ad` · [HTML page](https://eulogikon.org/grc/anonymous-medical-writer/prognostics-lying-down)
+**eul_wid:** `tqu-ad` · [HTML page](https://eulogikon.org/works/med-writer-anon-prognostics-lying-down-tqu-ad)
 
 ## Text
 

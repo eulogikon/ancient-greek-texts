@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Σικελικῶν Πόλεων
 author: Andreas the Historian
 eul_wid: saw-aa
 eul_aid: saw
-canonical: "https://eulogikon.org/grc/andreas-the-historian/sicilian-cities"
+canonical: "https://eulogikon.org/works/andreas-sicilian-cities-saw-aa"
 period: Late Antique
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Andreas the Historian
 
-**eul_wid:** `saw-aa` · [HTML page](https://eulogikon.org/grc/andreas-the-historian/sicilian-cities)
+**eul_wid:** `saw-aa` · [HTML page](https://eulogikon.org/works/andreas-sicilian-cities-saw-aa)
 
 ## Text
 

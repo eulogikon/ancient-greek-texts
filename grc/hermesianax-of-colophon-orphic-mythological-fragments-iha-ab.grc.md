@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Hermesianax of Colophon
 eul_wid: iha-ab
 eul_aid: iha
-canonical: "https://eulogikon.org/grc/hermesianax-of-colophon/orphic-mythological-fragments"
+canonical: "https://eulogikon.org/works/hermesianax-colophon-orphic-mythological-fragments-iha-ab"
 period: Hellenistic
 dialect: Ionic Elegiac
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hermesianax of Colophon
 
-**eul_wid:** `iha-ab` · [HTML page](https://eulogikon.org/grc/hermesianax-of-colophon/orphic-mythological-fragments)
+**eul_wid:** `iha-ab` · [HTML page](https://eulogikon.org/works/hermesianax-colophon-orphic-mythological-fragments-iha-ab)
 
 ## Text
 
@@ -120,7 +120,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 7.9
 
-ποταμοῦ· †δαρδανη δὲ θανοῦσαν ὑπὸ ξηρὴν θέτο γαῖαν [para]κλαίων, αιζαον† δ’ ἦλθεν ἀποπρολιπὼν[ln_45]ἄκρην ἐς Κολοφῶνα, γόων δ’ ἐνεπλήσατο βίβλους [para]ἱράς, ἐκ
+ποταμοῦ· δαρδανη δὲ θανοῦσαν ὑπὸ ξηρὴν θέτο γαῖαν [para]κλαίων, αιζαον δ’ ἦλθεν ἀποπρολιπὼν[ln_45]ἄκρην ἐς Κολοφῶνα, γόων δ’ ἐνεπλήσατο βίβλους [para]ἱράς, ἐκ
 
 ### book 7.10
 
@@ -168,11 +168,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 7.2
 
-Σοφοκλεῖ. Φημὶ δὲ κἀκεῖνον τὸν ἀεὶ πεφυλαγμένον ἄνδρα [para]καὶ πάντων μῖσος κτώμενον ἐκ †συνοχῶν πάσας ἀμφὶ γυναῖκας, ὑπὸ σκολιοῖο
+Σοφοκλεῖ. Φημὶ δὲ κἀκεῖνον τὸν ἀεὶ πεφυλαγμένον ἄνδρα [para]καὶ πάντων μῖσος κτώμενον ἐκ συνοχῶν πάσας ἀμφὶ γυναῖκας, ὑπὸ σκολιοῖο
 
 ### book 7.3
 
-τυπέντα [para]τόξου νυκτερινὰς οὐκ ἀποθέσθ’ ὀδύνας·[ln_65]ἀλλὰ Μακηδονίης πάσας κατενίσατο λαύρας [para]†αιγειων, μέθεπεν δ’ Ἀρχέλεω
+τυπέντα [para]τόξου νυκτερινὰς οὐκ ἀποθέσθ’ ὀδύνας·[ln_65]ἀλλὰ Μακηδονίης πάσας κατενίσατο λαύρας [para]αιγειων, μέθεπεν δ’ Ἀρχέλεω
 
 ### book 7.4
 
@@ -264,7 +264,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 7.2
 
-φεύγων, †ουδαμενον εξεφορησεβιωι.
+φεύγων, ουδαμενον εξεφορησεβιωι.
 
 ## License and provenance
 

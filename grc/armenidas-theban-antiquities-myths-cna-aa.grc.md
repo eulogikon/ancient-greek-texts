@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Armenidas
 eul_wid: cna-aa
 eul_aid: cna
-canonical: "https://eulogikon.org/grc/armenidas/theban-antiquities-myths"
+canonical: "https://eulogikon.org/works/armenidas-theban-antiquities-myths-cna-aa"
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Armenidas
 
-**eul_wid:** `cna-aa` · [HTML page](https://eulogikon.org/grc/armenidas/theban-antiquities-myths)
+**eul_wid:** `cna-aa` · [HTML page](https://eulogikon.org/works/armenidas-theban-antiquities-myths-cna-aa)
 
 ## Text
 

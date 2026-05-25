@@ -4,7 +4,7 @@ title_greek: Περίπλους τοῦ Εὐξείνου Πόντου
 author: Arrian of Nicomedia
 eul_wid: pcs-af
 eul_aid: pcs
-canonical: "https://eulogikon.org/grc/arrian-of-nicomedia/black-sea"
+canonical: "https://eulogikon.org/works/arrian-nicomedia-black-sea-pcs-af"
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Arrian of Nicomedia
 
-**eul_wid:** `pcs-af` · [HTML page](https://eulogikon.org/grc/arrian-of-nicomedia/black-sea)
+**eul_wid:** `pcs-af` · [HTML page](https://eulogikon.org/works/arrian-nicomedia-black-sea-pcs-af)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Aelius Aristides of Smyrna
 eul_wid: pnc-ac
 eul_aid: pnc
-canonical: "https://eulogikon.org/grc/aelius-aristides-of-smyrna/nature-god-humanity"
+canonical: "https://eulogikon.org/works/aelius-aristides-smyrna-nature-god-humanity-pnc-ac"
 period: Roman
 dialect: Attic
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aelius Aristides of Smyrna
 
-**eul_wid:** `pnc-ac` · [HTML page](https://eulogikon.org/grc/aelius-aristides-of-smyrna/nature-god-humanity)
+**eul_wid:** `pnc-ac` · [HTML page](https://eulogikon.org/works/aelius-aristides-smyrna-nature-god-humanity-pnc-ac)
 
 ## Text
 

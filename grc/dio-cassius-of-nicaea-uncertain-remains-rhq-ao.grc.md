@@ -4,7 +4,7 @@ title_greek: Λείψανα Ἀβέβαιου Θέσεως
 author: Dio Cassius of Nicaea
 eul_wid: rhq-ao
 eul_aid: rhq
-canonical: "https://eulogikon.org/grc/dio-cassius-of-nicaea/uncertain-remains"
+canonical: "https://eulogikon.org/works/dio-cassius-nicaea-uncertain-remains-rhq-ao"
 period: Roman
 dialect: Atticizing
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dio Cassius of Nicaea
 
-**eul_wid:** `rhq-ao` · [HTML page](https://eulogikon.org/grc/dio-cassius-of-nicaea/uncertain-remains)
+**eul_wid:** `rhq-ao` · [HTML page](https://eulogikon.org/works/dio-cassius-nicaea-uncertain-remains-rhq-ao)
 
 ## Text
 

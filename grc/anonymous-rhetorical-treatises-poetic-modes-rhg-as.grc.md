@@ -4,7 +4,7 @@ title_greek: Περὶ ποιητικῶν τρόπων
 author: Rhetorical Treatise Anonymous
 eul_wid: rhg-as
 eul_aid: rhg
-canonical: "https://eulogikon.org/grc/anonymous-rhetorical-treatises/poetic-modes"
+canonical: "https://eulogikon.org/works/anon-rhet-treatise-poetic-modes-rhg-as"
 period: Roman
 dialect: Technical Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Rhetorical Treatise Anonymous
 
-**eul_wid:** `rhg-as` · [HTML page](https://eulogikon.org/grc/anonymous-rhetorical-treatises/poetic-modes)
+**eul_wid:** `rhg-as` · [HTML page](https://eulogikon.org/works/anon-rhet-treatise-poetic-modes-rhg-as)
 
 ## Text
 

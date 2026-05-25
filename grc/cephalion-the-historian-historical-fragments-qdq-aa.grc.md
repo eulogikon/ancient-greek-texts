@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Cephalion the Historian
 eul_wid: qdq-aa
 eul_aid: qdq
-canonical: "https://eulogikon.org/grc/cephalion-the-historian/historical-fragments"
+canonical: "https://eulogikon.org/works/cephalion-historical-fragments-qdq-aa"
 period: Roman
 dialect: Ionic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cephalion the Historian
 
-**eul_wid:** `qdq-aa` · [HTML page](https://eulogikon.org/grc/cephalion-the-historian/historical-fragments)
+**eul_wid:** `qdq-aa` · [HTML page](https://eulogikon.org/works/cephalion-historical-fragments-qdq-aa)
 
 ## Text
 

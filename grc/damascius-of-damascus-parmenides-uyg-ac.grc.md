@@ -4,7 +4,7 @@ title_greek: Περὶ Παρμενίδου
 author: Damascius of Damascus
 eul_wid: uyg-ac
 eul_aid: uyg
-canonical: "https://eulogikon.org/grc/damascius-of-damascus/parmenides"
+canonical: "https://eulogikon.org/works/damascius-damascus-parmenides-uyg-ac"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Damascius of Damascus
 
-**eul_wid:** `uyg-ac` · [HTML page](https://eulogikon.org/grc/damascius-of-damascus/parmenides)
+**eul_wid:** `uyg-ac` · [HTML page](https://eulogikon.org/works/damascius-damascus-parmenides-uyg-ac)
 
 ## Text
 

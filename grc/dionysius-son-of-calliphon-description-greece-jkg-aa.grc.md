@@ -4,7 +4,7 @@ title_greek: Περιγραφὴ τῆς Ἑλλάδος Διονυσίου το
 author: "Dionysius son of Calliphon "
 eul_wid: jkg-aa
 eul_aid: jkg
-canonical: "https://eulogikon.org/grc/dionysius-son-of-calliphon/description-greece"
+canonical: "https://eulogikon.org/works/dionysius-calliphon-description-greece-jkg-aa"
 period: Hellenistic
 dialect: Attic
 domain: Geography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dionysius son of Calliphon 
 
-**eul_wid:** `jkg-aa` · [HTML page](https://eulogikon.org/grc/dionysius-son-of-calliphon/description-greece)
+**eul_wid:** `jkg-aa` · [HTML page](https://eulogikon.org/works/dionysius-calliphon-description-greece-jkg-aa)
 
 ## Text
 

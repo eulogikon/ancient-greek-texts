@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Θείας Κρίσεως
 author: Araros Son of Aristophanes
 eul_wid: fgo-ab
 eul_aid: fgo
-canonical: "https://eulogikon.org/grc/araros-son-of-aristophanes/divine-judgment"
+canonical: "https://eulogikon.org/works/araros-divine-judgment-fgo-ab"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Araros Son of Aristophanes
 
-**eul_wid:** `fgo-ab` · [HTML page](https://eulogikon.org/grc/araros-son-of-aristophanes/divine-judgment)
+**eul_wid:** `fgo-ab` · [HTML page](https://eulogikon.org/works/araros-divine-judgment-fgo-ab)
 
 ## Text
 

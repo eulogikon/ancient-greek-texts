@@ -4,7 +4,7 @@ title_greek: Σχόλια εἰς Ὕμνον Γ΄
 author: Callimachus Scholia
 eul_wid: vmw-al
 eul_aid: vmw
-canonical: "https://eulogikon.org/grc/callimachus-scholia/hymn-iii-al"
+canonical: "https://eulogikon.org/works/callimachus-scholia-hymn-iii-vmw-al"
 period: Late Antique
 dialect: Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Callimachus Scholia
 
-**eul_wid:** `vmw-al` · [HTML page](https://eulogikon.org/grc/callimachus-scholia/hymn-iii-al)
+**eul_wid:** `vmw-al` · [HTML page](https://eulogikon.org/works/callimachus-scholia-hymn-iii-vmw-al)
 
 ## Text
 
@@ -32,7 +32,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 52
 
-〈πρηόσιν Ὀσσαίοισιν:〉 Ὄσσα Θεσσαλ̣[ί]α̣ς̣ | ὄρο(ς) ὑψη‐ λότατ(ον)|· πρηόνες οἱ ὑψηλό̣|τατοι κ(αὶ) πε‐ τρώ|δεις τ(ῶν) ὀρῶ(ν)| λ̣ό̣φ̣οι
+〈πρηόσιν Ὀσσαίοισιν:〉 Ὄσσα Θεσσαλ[ί]ας | ὄρο(ς) ὑψη‐ λότατ(ον)|· πρηόνες οἱ ὑψηλό|τατοι κ(αὶ) πε‐ τρώ|δεις τ(ῶν) ὀρῶ(ν)| λόφοι
 
 ## License and provenance
 

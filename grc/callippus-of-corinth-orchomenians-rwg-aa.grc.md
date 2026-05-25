@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Callippus of Corinth
 eul_wid: rwg-aa
 eul_aid: rwg
-canonical: "https://eulogikon.org/grc/callippus-of-corinth/orchomenians"
+canonical: "https://eulogikon.org/works/callippus-corinth-orchomenians-rwg-aa"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Callippus of Corinth
 
-**eul_wid:** `rwg-aa` · [HTML page](https://eulogikon.org/grc/callippus-of-corinth/orchomenians)
+**eul_wid:** `rwg-aa` · [HTML page](https://eulogikon.org/works/callippus-corinth-orchomenians-rwg-aa)
 
 ## Text
 

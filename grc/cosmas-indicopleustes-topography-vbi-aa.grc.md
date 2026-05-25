@@ -4,7 +4,7 @@ title_greek: Χριστιανικὴ Τοπογραφία
 author: Cosmas Indicopleustes
 eul_wid: vbi-aa
 eul_aid: vbi
-canonical: "https://eulogikon.org/grc/cosmas-indicopleustes/topography"
+canonical: "https://eulogikon.org/works/cosmas-indicopleustes-topography-vbi-aa"
 period: Late Antique
 dialect: Christian Koine
 domain: Geography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cosmas Indicopleustes
 
-**eul_wid:** `vbi-aa` · [HTML page](https://eulogikon.org/grc/cosmas-indicopleustes/topography)
+**eul_wid:** `vbi-aa` · [HTML page](https://eulogikon.org/works/cosmas-indicopleustes-topography-vbi-aa)
 
 ## Text
 

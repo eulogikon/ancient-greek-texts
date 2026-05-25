@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἡδονῶν
 author: Ananius the Iambic Poet
 eul_wid: eqa-aa
 eul_aid: eqa
-canonical: "https://eulogikon.org/grc/ananius-the-iambic-poet/pleasures"
+canonical: "https://eulogikon.org/works/ananius-pleasures-eqa-aa"
 period: Classical
 dialect: "Ionic (ia, frg)"
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ananius the Iambic Poet
 
-**eul_wid:** `eqa-aa` · [HTML page](https://eulogikon.org/grc/ananius-the-iambic-poet/pleasures)
+**eul_wid:** `eqa-aa` · [HTML page](https://eulogikon.org/works/ananius-pleasures-eqa-aa)
 
 ## Text
 
@@ -28,7 +28,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1.2
 
-που Δῆλον ἢ Πυθῶν’ ἔχεις ἢ Νάξον ἢ Μίλητον ἢ θείην Κλάρον, ἵκ͜εο͜ †καθ’ ἱέρ’ ἢ† Σκύθας ἀφίξεαι.
+που Δῆλον ἢ Πυθῶν’ ἔχεις ἢ Νάξον ἢ Μίλητον ἢ θείην Κλάρον, ἵκ͜εο͜ καθ’ ἱέρ’ ἢ Σκύθας ἀφίξεαι.
 
 ### book 2
 
@@ -68,7 +68,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 5.4
 
-χιμαίρης †φθινοπωρισμῶι κρέας· δέλφακος δ’ ὅταν
+χιμαίρης φθινοπωρισμῶι κρέας· δέλφακος δ’ ὅταν
 
 ### book 5.5
 

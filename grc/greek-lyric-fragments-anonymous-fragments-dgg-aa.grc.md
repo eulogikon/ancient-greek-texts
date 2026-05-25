@@ -4,7 +4,7 @@ title_greek: Ἀνώνυμα Ἀποσπάσματα ἐκ Συγγραφέων
 author: Greek Lyric Fragments Anonymous
 eul_wid: dgg-aa
 eul_aid: dgg
-canonical: "https://eulogikon.org/grc/greek-lyric-fragments-anonymous/fragments"
+canonical: "https://eulogikon.org/works/anon-greek-lyric-fragments-dgg-aa"
 period: Classical
 dialect: Mixed Dialects (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Greek Lyric Fragments Anonymous
 
-**eul_wid:** `dgg-aa` · [HTML page](https://eulogikon.org/grc/greek-lyric-fragments-anonymous/fragments)
+**eul_wid:** `dgg-aa` · [HTML page](https://eulogikon.org/works/anon-greek-lyric-fragments-dgg-aa)
 
 ## Text
 
@@ -56,7 +56,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1008
 
-ἔνθ’ ἵνα †ἐς κακόν ἐστιν
+ἔνθ’ ἵνα ἐς κακόν ἐστιν
 
 ### 1009
 
@@ -148,7 +148,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1032
 
-†ἐπηετανοῖο ποτισμοῖο παρείκοντες†
+ἐπηετανοῖο ποτισμοῖο παρείκοντες
 
 ### 1033
 
@@ -160,7 +160,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1036
 
-†ὅταν μ’ ἰνάσσατο
+ὅταν μ’ ἰνάσσατο
 
 ### 1037
 
@@ -184,7 +184,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1042
 
-πάντες †φαυροφόροι πόκτοισι φέρον
+πάντες φαυροφόροι πόκτοισι φέρον
 
 ### 1043
 
@@ -244,11 +244,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1060
 
-〈–⏑⏑〉 Μιμνέρμου τοῦ Κολοφωνιακοῦ
+〈–〉 Μιμνέρμου τοῦ Κολοφωνιακοῦ
 
 ### 1061
 
-ὕ]δ̣α̣σ̣ι̣ ποιμαίνοντο †περίπληθοι δὲ ἄρουραι
+ὕ]δασι ποιμαίνοντο περίπληθοι δὲ ἄρουραι
 
 ### 1062
 
@@ -276,7 +276,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1069
 
-†ἀπνίγμον κνώδοντος
+ἀπνίγμον κνώδοντος
 
 ### 1070
 
@@ -292,7 +292,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1073
 
-ἀφ’ οὗ †γνωμηστος
+ἀφ’ οὗ γνωμηστος
 
 ### 1074
 
@@ -404,7 +404,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1102
 
-ποτὶ †κῶρρον
+ποτὶ κῶρρον
 
 ### 1103
 
@@ -496,7 +496,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1128
 
-ἀλλ’ ἐτεὸν μὲν †ἀεικότες
+ἀλλ’ ἐτεὸν μὲν ἀεικότες
 
 ### 1129
 
@@ -508,7 +508,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1131
 
-ξεῖνε, τὸν †Ἀρχεβρου τάφον
+ξεῖνε, τὸν Ἀρχεβρου τάφον
 
 ### 1131A
 
@@ -600,7 +600,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1149
 
-ἀζαλέῳ γήρᾳ †κατανθιδῶν κήδῃ
+ἀζαλέῳ γήρᾳ κατανθιδῶν κήδῃ
 
 ### 1150
 
@@ -724,7 +724,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1180
 
-〈–⏑〉 ἀφύσσεσθαι καθαρὸν γάνος Ἠριδανοῖο
+〈–〉 ἀφύσσεσθαι καθαρὸν γάνος Ἠριδανοῖο
 
 ### 1181
 

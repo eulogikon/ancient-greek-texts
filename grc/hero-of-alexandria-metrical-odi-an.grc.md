@@ -4,7 +4,7 @@ title_greek: Μετρικά
 author: "Hero of Alexandria "
 eul_wid: odi-an
 eul_aid: odi
-canonical: "https://eulogikon.org/grc/hero-of-alexandria/metrical"
+canonical: "https://eulogikon.org/works/hero-alexandria-metrical-odi-an"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hero of Alexandria 
 
-**eul_wid:** `odi-an` · [HTML page](https://eulogikon.org/grc/hero-of-alexandria/metrical)
+**eul_wid:** `odi-an` · [HTML page](https://eulogikon.org/works/hero-alexandria-metrical-odi-an)
 
 ## Text
 

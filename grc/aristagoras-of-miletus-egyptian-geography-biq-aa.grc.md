@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Aristagoras the Tyrant of Miletus
 eul_wid: biq-aa
 eul_aid: biq
-canonical: "https://eulogikon.org/grc/aristagoras-of-miletus/egyptian-geography"
+canonical: "https://eulogikon.org/works/aristagoras-miletus-egyptian-geography-biq-aa"
 period: Archaic
 dialect: Ionic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristagoras the Tyrant of Miletus
 
-**eul_wid:** `biq-aa` · [HTML page](https://eulogikon.org/grc/aristagoras-of-miletus/egyptian-geography)
+**eul_wid:** `biq-aa` · [HTML page](https://eulogikon.org/works/aristagoras-miletus-egyptian-geography-biq-aa)
 
 ## Text
 

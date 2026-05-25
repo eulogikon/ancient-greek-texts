@@ -4,7 +4,7 @@ title_greek: Ἀνώνυμα Ἰαμβικὰ Ἀποσπάσματα
 author: Iambic Work Anonymous
 eul_wid: lmm-aa
 eul_aid: lmm
-canonical: "https://eulogikon.org/grc/anonymous-iambic-works/fragments"
+canonical: "https://eulogikon.org/works/anon-iambic-fragments-lmm-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Iambic Work Anonymous
 
-**eul_wid:** `lmm-aa` · [HTML page](https://eulogikon.org/grc/anonymous-iambic-works/fragments)
+**eul_wid:** `lmm-aa` · [HTML page](https://eulogikon.org/works/anon-iambic-fragments-lmm-aa)
 
 ## Text
 
@@ -108,7 +108,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 11.1
 
-⏒–⏑ δῶρα καὶ θεοὺς
+– δῶρα καὶ θεοὺς
 
 ### book 11.2
 
@@ -136,7 +136,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 16a.1
 
-†ἀγνοεῖ† δ’ ἀράχνη
+ἀγνοεῖ δ’ ἀράχνη
 
 ### book 16a.2
 

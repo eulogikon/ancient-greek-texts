@@ -4,7 +4,7 @@ title_greek: Βιβλιοθήκη Ἱστορική
 author: Diodorus of Sicily
 eul_wid: nde-ab
 eul_aid: nde
-canonical: "https://eulogikon.org/grc/diodorus-of-sicily/historical-library-18-20"
+canonical: "https://eulogikon.org/works/diodorus-sicily-historical-library-18-20-nde-ab"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Diodorus of Sicily
 
-**eul_wid:** `nde-ab` · [HTML page](https://eulogikon.org/grc/diodorus-of-sicily/historical-library-18-20)
+**eul_wid:** `nde-ab` · [HTML page](https://eulogikon.org/works/diodorus-sicily-historical-library-18-20-nde-ab)
 
 ## Text
 

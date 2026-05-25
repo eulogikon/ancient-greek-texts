@@ -4,7 +4,7 @@ title_greek: Εὐγενίου δίπλωσις
 author: Eugenius the Alchemist
 eul_wid: rsa-aa
 eul_aid: rsa
-canonical: "https://eulogikon.org/grc/eugenius-the-alchemist/doubling"
+canonical: "https://eulogikon.org/works/eugenius-alchemist-doubling-rsa-aa"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Eugenius the Alchemist
 
-**eul_wid:** `rsa-aa` · [HTML page](https://eulogikon.org/grc/eugenius-the-alchemist/doubling)
+**eul_wid:** `rsa-aa` · [HTML page](https://eulogikon.org/works/eugenius-alchemist-doubling-rsa-aa)
 
 ## Text
 

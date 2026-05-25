@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Arcesilaus of Pitane II
 eul_wid: jem-aa
 eul_aid: jem
-canonical: "https://eulogikon.org/grc/arcesilaus-of-pitane-ii/epitaphs-dedications"
+canonical: "https://eulogikon.org/works/arcesilaus-pitane-epitaphs-dedications-jem-aa"
 period: Hellenistic
 dialect: "Attic (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Arcesilaus of Pitane II
 
-**eul_wid:** `jem-aa` · [HTML page](https://eulogikon.org/grc/arcesilaus-of-pitane-ii/epitaphs-dedications)
+**eul_wid:** `jem-aa` · [HTML page](https://eulogikon.org/works/arcesilaus-pitane-epitaphs-dedications-jem-aa)
 
 ## Text
 

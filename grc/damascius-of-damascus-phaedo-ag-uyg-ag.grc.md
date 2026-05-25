@@ -4,7 +4,7 @@ title_greek: Περὶ Φαίδωνος
 author: Damascius of Damascus
 eul_wid: uyg-ag
 eul_aid: uyg
-canonical: "https://eulogikon.org/grc/damascius-of-damascus/phaedo-ag"
+canonical: "https://eulogikon.org/works/damascius-damascus-phaedo-uyg-ag"
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Damascius of Damascus
 
-**eul_wid:** `uyg-ag` · [HTML page](https://eulogikon.org/grc/damascius-of-damascus/phaedo-ag)
+**eul_wid:** `uyg-ag` · [HTML page](https://eulogikon.org/works/damascius-damascus-phaedo-uyg-ag)
 
 ## Text
 

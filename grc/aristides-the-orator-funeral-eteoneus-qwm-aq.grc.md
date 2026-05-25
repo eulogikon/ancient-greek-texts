@@ -4,7 +4,7 @@ title_greek: εἰς Ἐτεωνέα ἐπικήδειος
 author: Aristides the Orator
 eul_wid: qwm-aq
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/funeral-eteoneus"
+canonical: "https://eulogikon.org/works/aristides-orator-funeral-eteoneus-qwm-aq"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-aq` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/funeral-eteoneus)
+**eul_wid:** `qwm-aq` · [HTML page](https://eulogikon.org/works/aristides-orator-funeral-eteoneus-qwm-aq)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Σικελικῶν Ἐθῶν
 author: Hermias of Methymna
 eul_wid: cdu-aa
 eul_aid: cdu
-canonical: "https://eulogikon.org/grc/hermias-of-methymna/sicilian-customs"
+canonical: "https://eulogikon.org/works/hermias-methymna-sicilian-customs-cdu-aa"
 period: Classical
 dialect: Aeolic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hermias of Methymna
 
-**eul_wid:** `cdu-aa` · [HTML page](https://eulogikon.org/grc/hermias-of-methymna/sicilian-customs)
+**eul_wid:** `cdu-aa` · [HTML page](https://eulogikon.org/works/hermias-methymna-sicilian-customs-cdu-aa)
 
 ## Text
 

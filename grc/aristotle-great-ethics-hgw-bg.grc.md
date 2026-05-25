@@ -4,7 +4,7 @@ title_greek: Μεγάλα Ἠθικά
 author: Aristotle
 eul_wid: hgw-bg
 eul_aid: hgw
-canonical: "https://eulogikon.org/grc/aristotle/great-ethics"
+canonical: "https://eulogikon.org/works/aristotle-great-ethics-hgw-bg"
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristotle
 
-**eul_wid:** `hgw-bg` · [HTML page](https://eulogikon.org/grc/aristotle/great-ethics)
+**eul_wid:** `hgw-bg` · [HTML page](https://eulogikon.org/works/aristotle-great-ethics-hgw-bg)
 
 ## Text
 

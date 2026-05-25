@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ῥόδου
 author: Ergias of Rhodes
 eul_wid: grc-aa
 eul_aid: grc
-canonical: "https://eulogikon.org/grc/ergias-of-rhodes/fragments"
+canonical: "https://eulogikon.org/works/ergias-rhodes-fragments-grc-aa"
 period: Classical
 dialect: Doric (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ergias of Rhodes
 
-**eul_wid:** `grc-aa` · [HTML page](https://eulogikon.org/grc/ergias-of-rhodes/fragments)
+**eul_wid:** `grc-aa` · [HTML page](https://eulogikon.org/works/ergias-rhodes-fragments-grc-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἀθλητῶν καὶ Σατύ
 author: Achaios of Eretria
 eul_wid: dha-aa
 eul_aid: dha
-canonical: "https://eulogikon.org/grc/achaios-of-eretria/athletes-satyrs"
+canonical: "https://eulogikon.org/works/achaios-eretria-athletes-satyrs-dha-aa"
 period: Classical
 dialect: "Attic (dr, frg)"
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Achaios of Eretria
 
-**eul_wid:** `dha-aa` · [HTML page](https://eulogikon.org/grc/achaios-of-eretria/athletes-satyrs)
+**eul_wid:** `dha-aa` · [HTML page](https://eulogikon.org/works/achaios-eretria-athletes-satyrs-dha-aa)
 
 ## Text
 

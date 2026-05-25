@@ -4,7 +4,7 @@ title_greek: Περὶ τῶν αἰτιῶν τῆς ἀναπνοῆς
 author: Galen of Pergamon
 eul_wid: qmm-cc
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/causes-respiration"
+canonical: "https://eulogikon.org/works/galen-pergamon-causes-respiration-qmm-cc"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-cc` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/causes-respiration)
+**eul_wid:** `qmm-cc` · [HTML page](https://eulogikon.org/works/galen-pergamon-causes-respiration-qmm-cc)
 
 ## Text
 

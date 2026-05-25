@@ -4,7 +4,7 @@ title_greek: Εἰς τὸ φρέαρ τοῦ Ἀσκληπιοῦ
 author: Aristides the Orator
 eul_wid: qwm-aw
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/well-asclepius"
+canonical: "https://eulogikon.org/works/aristides-orator-well-asclepius-qwm-aw"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-aw` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/well-asclepius)
+**eul_wid:** `qwm-aw` · [HTML page](https://eulogikon.org/works/aristides-orator-well-asclepius-qwm-aw)
 
 ## Text
 

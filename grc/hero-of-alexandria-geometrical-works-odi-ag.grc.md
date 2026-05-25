@@ -4,7 +4,7 @@ title_greek: Γεωμετρικά
 author: "Hero of Alexandria "
 eul_wid: odi-ag
 eul_aid: odi
-canonical: "https://eulogikon.org/grc/hero-of-alexandria/geometrical-works"
+canonical: "https://eulogikon.org/works/hero-alexandria-geometrical-works-odi-ag"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hero of Alexandria 
 
-**eul_wid:** `odi-ag` · [HTML page](https://eulogikon.org/grc/hero-of-alexandria/geometrical-works)
+**eul_wid:** `odi-ag` · [HTML page](https://eulogikon.org/works/hero-alexandria-geometrical-works-odi-ag)
 
 ## Text
 

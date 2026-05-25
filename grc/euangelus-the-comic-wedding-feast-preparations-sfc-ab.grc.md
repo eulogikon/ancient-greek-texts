@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Euangelus the Comic
 eul_wid: sfc-ab
 eul_aid: sfc
-canonical: "https://eulogikon.org/grc/euangelus-the-comic/wedding-feast-preparations"
+canonical: "https://eulogikon.org/works/euangelus-wedding-feast-preparations-sfc-ab"
 period: Late Antique
 dialect: Koine
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euangelus the Comic
 
-**eul_wid:** `sfc-ab` · [HTML page](https://eulogikon.org/grc/euangelus-the-comic/wedding-feast-preparations)
+**eul_wid:** `sfc-ab` · [HTML page](https://eulogikon.org/works/euangelus-wedding-feast-preparations-sfc-ab)
 
 ## Text
 

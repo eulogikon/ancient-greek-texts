@@ -4,7 +4,7 @@ title_greek: Περὶ τῆς Πορφυρίου Εἰσαγωγῆς
 author: Elias the Neoplatonist
 eul_wid: vgs-ac
 eul_aid: vgs
-canonical: "https://eulogikon.org/grc/elias-the-neoplatonist/porphyry-isagoge"
+canonical: "https://eulogikon.org/works/elias-neoplatonist-porphyry-isagoge-vgs-ac"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Elias the Neoplatonist
 
-**eul_wid:** `vgs-ac` · [HTML page](https://eulogikon.org/grc/elias-the-neoplatonist/porphyry-isagoge)
+**eul_wid:** `vgs-ac` · [HTML page](https://eulogikon.org/works/elias-neoplatonist-porphyry-isagoge-vgs-ac)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Dionysius Scytobrachion of Mytilene
 eul_wid: kau-ab
 eul_aid: kau
-canonical: "https://eulogikon.org/grc/dionysius-of-mytilene/argonautica"
+canonical: "https://eulogikon.org/works/dionysius-mytilene-argonautica-kau-ab"
 period: Hellenistic
 dialect: Aeolic
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dionysius Scytobrachion of Mytilene
 
-**eul_wid:** `kau-ab` · [HTML page](https://eulogikon.org/grc/dionysius-of-mytilene/argonautica)
+**eul_wid:** `kau-ab` · [HTML page](https://eulogikon.org/works/dionysius-mytilene-argonautica-kau-ab)
 
 ## Text
 

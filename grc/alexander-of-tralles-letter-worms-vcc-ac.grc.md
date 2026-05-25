@@ -4,7 +4,7 @@ title_greek: Ἐπιστολὴ περὶ σκωλήκων
 author: Alexander of Tralles
 eul_wid: vcc-ac
 eul_aid: vcc
-canonical: "https://eulogikon.org/grc/alexander-of-tralles/letter-worms"
+canonical: "https://eulogikon.org/works/alexander-tralleis-letter-worms-vcc-ac"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alexander of Tralles
 
-**eul_wid:** `vcc-ac` · [HTML page](https://eulogikon.org/grc/alexander-of-tralles/letter-worms)
+**eul_wid:** `vcc-ac` · [HTML page](https://eulogikon.org/works/alexander-tralleis-letter-worms-vcc-ac)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἱεροὶ λόγοι πέμπτος
 author: Aristides the Orator
 eul_wid: qwm-bg
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/sacred-words-bg"
+canonical: "https://eulogikon.org/works/aristides-orator-sacred-words-qwm-bg"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-bg` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/sacred-words-bg)
+**eul_wid:** `qwm-bg` · [HTML page](https://eulogikon.org/works/aristides-orator-sacred-words-qwm-bg)
 
 ## Text
 

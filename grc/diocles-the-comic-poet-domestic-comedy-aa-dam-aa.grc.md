@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Diocles Comicus
 eul_wid: dam-aa
 eul_aid: dam
-canonical: "https://eulogikon.org/grc/diocles-the-comic-poet/domestic-comedy-aa"
+canonical: "https://eulogikon.org/works/diocles-domestic-comedy-dam-aa"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Diocles Comicus
 
-**eul_wid:** `dam-aa` · [HTML page](https://eulogikon.org/grc/diocles-the-comic-poet/domestic-comedy-aa)
+**eul_wid:** `dam-aa` · [HTML page](https://eulogikon.org/works/diocles-domestic-comedy-dam-aa)
 
 ## Text
 

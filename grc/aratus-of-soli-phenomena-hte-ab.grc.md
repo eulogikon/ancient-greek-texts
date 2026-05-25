@@ -4,7 +4,7 @@ title_greek: Φαινόμενα
 author: Aratus of Soli
 eul_wid: hte-ab
 eul_aid: hte
-canonical: "https://eulogikon.org/grc/aratus-of-soli/phenomena"
+canonical: "https://eulogikon.org/works/aratus-soli-phenomena-hte-ab"
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aratus of Soli
 
-**eul_wid:** `hte-ab` · [HTML page](https://eulogikon.org/grc/aratus-of-soli/phenomena)
+**eul_wid:** `hte-ab` · [HTML page](https://eulogikon.org/works/aratus-soli-phenomena-hte-ab)
 
 ## Text
 

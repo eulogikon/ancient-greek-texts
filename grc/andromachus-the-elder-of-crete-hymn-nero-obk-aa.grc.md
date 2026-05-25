@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Andromachus the Elder Physician of Crete
 eul_wid: obk-aa
 eul_aid: obk
-canonical: "https://eulogikon.org/grc/andromachus-the-elder-of-crete/hymn-nero"
+canonical: "https://eulogikon.org/works/andromachus-crete-hymn-nero-obk-aa"
 period: Roman
 dialect: Technical Koine
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Andromachus the Elder Physician of Crete
 
-**eul_wid:** `obk-aa` · [HTML page](https://eulogikon.org/grc/andromachus-the-elder-of-crete/hymn-nero)
+**eul_wid:** `obk-aa` · [HTML page](https://eulogikon.org/works/andromachus-crete-hymn-nero-obk-aa)
 
 ## Text
 
@@ -28,7 +28,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### unit_2
 
-οὐ μὲν †απεχθομενος και δρυας† ἀντιάσειε [para]καὶ κατὰ φωλειὸν θερμὸς ἔνερθε μένοι· οὐκ ἀλέγοι δρυίναο, ἀναίμακτον δ’ ἔχει ἰόν [para]αἱμοροῒς τοίῳ δαμναμένη πόματι. οὐ μὲν ἀπεχθήεντα φαλάγγια σίνεται οὕτως ἀνέρα, φρικαλέον δ’ ἄχθος ἔθηκε πόνων. οὐχ ὕδρος οὐδ’ ἐπὶ χέρσον, ὅθ’ ὕδατα καρκίνος αἴθει, [para]βοσκόμενος, θερμῆς 〈τ’〉 ἤρξατο πρῶτον ἄλης, χέρσυδρος θανάτῳ πεπαλαγμένα χείλεα σύρων [para]ἀντόμενος γλυκεροῦ τέρμα φέροι βιότου.
+οὐ μὲν απεχθομενος και δρυας ἀντιάσειε [para]καὶ κατὰ φωλειὸν θερμὸς ἔνερθε μένοι· οὐκ ἀλέγοι δρυίναο, ἀναίμακτον δ’ ἔχει ἰόν [para]αἱμοροῒς τοίῳ δαμναμένη πόματι. οὐ μὲν ἀπεχθήεντα φαλάγγια σίνεται οὕτως ἀνέρα, φρικαλέον δ’ ἄχθος ἔθηκε πόνων. οὐχ ὕδρος οὐδ’ ἐπὶ χέρσον, ὅθ’ ὕδατα καρκίνος αἴθει, [para]βοσκόμενος, θερμῆς 〈τ’〉 ἤρξατο πρῶτον ἄλης, χέρσυδρος θανάτῳ πεπαλαγμένα χείλεα σύρων [para]ἀντόμενος γλυκεροῦ τέρμα φέροι βιότου.
 
 ### unit_3
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Diodorus the Periegete
 eul_wid: loa-aa
 eul_aid: loa
-canonical: "https://eulogikon.org/grc/diodorus-the-periegete/monuments-tombs"
+canonical: "https://eulogikon.org/works/diodorus-periegete-monuments-tombs-loa-aa"
 period: Hellenistic
 dialect: Attic
 domain: Geography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Diodorus the Periegete
 
-**eul_wid:** `loa-aa` · [HTML page](https://eulogikon.org/grc/diodorus-the-periegete/monuments-tombs)
+**eul_wid:** `loa-aa` · [HTML page](https://eulogikon.org/works/diodorus-periegete-monuments-tombs-loa-aa)
 
 ## Text
 

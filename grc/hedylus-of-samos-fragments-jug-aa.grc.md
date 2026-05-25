@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα καὶ Τίτλος
 author: Hedylus of Samos
 eul_wid: jug-aa
 eul_aid: jug
-canonical: "https://eulogikon.org/grc/hedylus-of-samos/fragments"
+canonical: "https://eulogikon.org/works/hedylus-samos-fragments-jug-aa"
 period: Hellenistic
 dialect: Koine
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hedylus of Samos
 
-**eul_wid:** `jug-aa` · [HTML page](https://eulogikon.org/grc/hedylus-of-samos/fragments)
+**eul_wid:** `jug-aa` · [HTML page](https://eulogikon.org/works/hedylus-samos-fragments-jug-aa)
 
 ## Text
 
@@ -28,7 +28,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 459.2
 
-φυγεῖν ἔλαφοι[ln_2]〈–⏑⏑〉 Κωρυκίης ἀπὸ δειράδος, ἐκ δὲ Κιλίσσης [para]ᾐόνος εἰς ἀκτὰς 〈–⏑⏑〉 Κουριάδας[ln_5]μυρίον ἀνδράσι θαῦμα νοεῖν πάρα, πῶς ἀνόδευτον
+φυγεῖν ἔλαφοι[ln_2]〈–〉 Κωρυκίης ἀπὸ δειράδος, ἐκ δὲ Κιλίσσης [para]ᾐόνος εἰς ἀκτὰς 〈–〉 Κουριάδας[ln_5]μυρίον ἀνδράσι θαῦμα νοεῖν πάρα, πῶς ἀνόδευτον
 
 ### book 459.3
 

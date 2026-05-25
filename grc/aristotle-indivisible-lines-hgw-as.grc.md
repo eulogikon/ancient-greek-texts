@@ -4,7 +4,7 @@ title_greek: Περὶ ἀτόμων γραμμῶν
 author: Aristotle
 eul_wid: hgw-as
 eul_aid: hgw
-canonical: "https://eulogikon.org/grc/aristotle/indivisible-lines"
+canonical: "https://eulogikon.org/works/aristotle-indivisible-lines-hgw-as"
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristotle
 
-**eul_wid:** `hgw-as` · [HTML page](https://eulogikon.org/grc/aristotle/indivisible-lines)
+**eul_wid:** `hgw-as` · [HTML page](https://eulogikon.org/works/aristotle-indivisible-lines-hgw-as)
 
 ## Text
 

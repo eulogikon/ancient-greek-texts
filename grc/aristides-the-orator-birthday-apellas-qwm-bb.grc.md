@@ -4,7 +4,7 @@ title_greek: Ἀπελλᾶ γενεθλιακός
 author: Aristides the Orator
 eul_wid: qwm-bb
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/birthday-apellas"
+canonical: "https://eulogikon.org/works/aristides-orator-birthday-apellas-qwm-bb"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-bb` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/birthday-apellas)
+**eul_wid:** `qwm-bb` · [HTML page](https://eulogikon.org/works/aristides-orator-birthday-apellas-qwm-bb)
 
 ## Text
 

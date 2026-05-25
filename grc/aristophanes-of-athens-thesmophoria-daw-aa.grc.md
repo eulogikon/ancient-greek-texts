@@ -4,7 +4,7 @@ title_greek: Θεσμοφοριάζουσαι
 author: Aristophanes of Athens
 eul_wid: daw-aa
 eul_aid: daw
-canonical: "https://eulogikon.org/grc/aristophanes-of-athens/thesmophoria"
+canonical: "https://eulogikon.org/works/aristophanes-athens-thesmophoria-daw-aa"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristophanes of Athens
 
-**eul_wid:** `daw-aa` · [HTML page](https://eulogikon.org/grc/aristophanes-of-athens/thesmophoria)
+**eul_wid:** `daw-aa` · [HTML page](https://eulogikon.org/works/aristophanes-athens-thesmophoria-daw-aa)
 
 ## Text
 

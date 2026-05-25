@@ -4,7 +4,7 @@ title_greek: Περὶ τῆς ἑαυτοῦ καθόδου
 author: Andocides
 eul_wid: eym-ac
 eul_aid: eym
-canonical: "https://eulogikon.org/grc/andocides/descent"
+canonical: "https://eulogikon.org/works/andocides-descent-eym-ac"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Andocides
 
-**eul_wid:** `eym-ac` · [HTML page](https://eulogikon.org/grc/andocides/descent)
+**eul_wid:** `eym-ac` · [HTML page](https://eulogikon.org/works/andocides-descent-eym-ac)
 
 ## Text
 

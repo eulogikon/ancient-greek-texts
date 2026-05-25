@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τῆς Ἀθηναίων Ἱστ
 author: "Demon of Athens "
 eul_wid: clw-aa
 eul_aid: clw
-canonical: "https://eulogikon.org/grc/demon-of-athens/fragments-history"
+canonical: "https://eulogikon.org/works/demon-athens-fragments-history-clw-aa"
 period: Classical
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demon of Athens 
 
-**eul_wid:** `clw-aa` · [HTML page](https://eulogikon.org/grc/demon-of-athens/fragments-history)
+**eul_wid:** `clw-aa` · [HTML page](https://eulogikon.org/works/demon-athens-fragments-history-clw-aa)
 
 ## Text
 

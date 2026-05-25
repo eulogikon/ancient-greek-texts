@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Bato of Sinope
 eul_wid: kws-aa
 eul_aid: kws
-canonical: "https://eulogikon.org/grc/bato-of-sinope/tyrants-ephesus"
+canonical: "https://eulogikon.org/works/bato-sinope-tyrants-ephesus-kws-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Bato of Sinope
 
-**eul_wid:** `kws-aa` · [HTML page](https://eulogikon.org/grc/bato-of-sinope/tyrants-ephesus)
+**eul_wid:** `kws-aa` · [HTML page](https://eulogikon.org/works/bato-sinope-tyrants-ephesus-kws-aa)
 
 ## Text
 

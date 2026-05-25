@@ -4,7 +4,7 @@ title_greek: Ἰατρικὸν Βιβλίον Ζʹ
 author: Aëtius of Amida
 eul_wid: vhc-ad
 eul_aid: vhc
-canonical: "https://eulogikon.org/grc/aetius-of-amida/medical-book-vii"
+canonical: "https://eulogikon.org/works/aetius-amida-medical-book-vii-vhc-ad"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aëtius of Amida
 
-**eul_wid:** `vhc-ad` · [HTML page](https://eulogikon.org/grc/aetius-of-amida/medical-book-vii)
+**eul_wid:** `vhc-ad` · [HTML page](https://eulogikon.org/works/aetius-amida-medical-book-vii-vhc-ad)
 
 ## Text
 

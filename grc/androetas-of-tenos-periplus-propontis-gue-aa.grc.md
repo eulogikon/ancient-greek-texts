@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Androetas of Tenos
 eul_wid: gue-aa
 eul_aid: gue
-canonical: "https://eulogikon.org/grc/androetas-of-tenos/periplus-propontis"
+canonical: "https://eulogikon.org/works/androetas-tenos-periplus-propontis-gue-aa"
 period: Classical
 dialect: Ionic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Androetas of Tenos
 
-**eul_wid:** `gue-aa` · [HTML page](https://eulogikon.org/grc/androetas-of-tenos/periplus-propontis)
+**eul_wid:** `gue-aa` · [HTML page](https://eulogikon.org/works/androetas-tenos-periplus-propontis-gue-aa)
 
 ## Text
 

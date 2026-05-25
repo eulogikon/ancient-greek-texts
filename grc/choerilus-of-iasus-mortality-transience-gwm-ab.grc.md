@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Choerilus of Iasus
 eul_wid: gwm-ab
 eul_aid: gwm
-canonical: "https://eulogikon.org/grc/choerilus-of-iasus/mortality-transience"
+canonical: "https://eulogikon.org/works/choerilus-iasus-mortality-transience-gwm-ab"
 period: Classical
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Choerilus of Iasus
 
-**eul_wid:** `gwm-ab` · [HTML page](https://eulogikon.org/grc/choerilus-of-iasus/mortality-transience)
+**eul_wid:** `gwm-ab` · [HTML page](https://eulogikon.org/works/choerilus-iasus-mortality-transience-gwm-ab)
 
 ## Text
 

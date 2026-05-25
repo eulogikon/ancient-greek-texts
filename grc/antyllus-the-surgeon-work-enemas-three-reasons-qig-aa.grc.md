@@ -4,7 +4,7 @@ title_greek: Ἐκ τοῦ περὶ κλυσμῶν ὅτι διὰ τρεῖς
 author: Antyllus the Surgeon
 eul_wid: qig-aa
 eul_aid: qig
-canonical: "https://eulogikon.org/grc/antyllus-the-surgeon/work-enemas-three-reasons"
+canonical: "https://eulogikon.org/works/antyllus-work-enemas-three-reasons-qig-aa"
 period: Roman
 dialect: Koine (frg)
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Antyllus the Surgeon
 
-**eul_wid:** `qig-aa` · [HTML page](https://eulogikon.org/grc/antyllus-the-surgeon/work-enemas-three-reasons)
+**eul_wid:** `qig-aa` · [HTML page](https://eulogikon.org/works/antyllus-work-enemas-three-reasons-qig-aa)
 
 ## Text
 

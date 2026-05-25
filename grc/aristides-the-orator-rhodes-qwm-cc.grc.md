@@ -4,7 +4,7 @@ title_greek: Ῥοδιακός
 author: Aristides the Orator
 eul_wid: qwm-cc
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/rhodes"
+canonical: "https://eulogikon.org/works/aristides-orator-rhodes-qwm-cc"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-cc` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/rhodes)
+**eul_wid:** `qwm-cc` · [HTML page](https://eulogikon.org/works/aristides-orator-rhodes-qwm-cc)
 
 ## Text
 

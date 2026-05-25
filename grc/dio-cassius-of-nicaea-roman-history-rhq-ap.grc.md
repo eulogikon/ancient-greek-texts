@@ -4,7 +4,7 @@ title_greek: Ῥωμαϊκὴ Ἱστορία
 author: Dio Cassius of Nicaea
 eul_wid: rhq-ap
 eul_aid: rhq
-canonical: "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-history"
+canonical: "https://eulogikon.org/works/dio-cassius-nicaea-roman-history-rhq-ap"
 period: Roman
 dialect: Atticizing
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dio Cassius of Nicaea
 
-**eul_wid:** `rhq-ap` · [HTML page](https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-history)
+**eul_wid:** `rhq-ap` · [HTML page](https://eulogikon.org/works/dio-cassius-nicaea-roman-history-rhq-ap)
 
 ## Text
 

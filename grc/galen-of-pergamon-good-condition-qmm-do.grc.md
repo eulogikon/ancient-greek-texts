@@ -4,7 +4,7 @@ title_greek: Περὶ τοῦ ἀγαθοῦ ἕξεως
 author: Galen of Pergamon
 eul_wid: qmm-do
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/good-condition"
+canonical: "https://eulogikon.org/works/galen-pergamon-good-condition-qmm-do"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-do` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/good-condition)
+**eul_wid:** `qmm-do` · [HTML page](https://eulogikon.org/works/galen-pergamon-good-condition-qmm-do)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα περὶ Δύο Ἀνδρῶν
 author: Diodorus the Rhetorician
 eul_wid: nse-aa
 eul_aid: nse
-canonical: "https://eulogikon.org/grc/diodorus-the-rhetorician/two-men"
+canonical: "https://eulogikon.org/works/diodorus-rhetor-two-men-nse-aa"
 period: Roman
 dialect: Koine (frg)
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Diodorus the Rhetorician
 
-**eul_wid:** `nse-aa` · [HTML page](https://eulogikon.org/grc/diodorus-the-rhetorician/two-men)
+**eul_wid:** `nse-aa` · [HTML page](https://eulogikon.org/works/diodorus-rhetor-two-men-nse-aa)
 
 ## Text
 

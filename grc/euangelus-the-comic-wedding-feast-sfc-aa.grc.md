@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Euangelus the Comic
 eul_wid: sfc-aa
 eul_aid: sfc
-canonical: "https://eulogikon.org/grc/euangelus-the-comic/wedding-feast"
+canonical: "https://eulogikon.org/works/euangelus-wedding-feast-sfc-aa"
 period: Late Antique
 dialect: Koine
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euangelus the Comic
 
-**eul_wid:** `sfc-aa` · [HTML page](https://eulogikon.org/grc/euangelus-the-comic/wedding-feast)
+**eul_wid:** `sfc-aa` · [HTML page](https://eulogikon.org/works/euangelus-wedding-feast-sfc-aa)
 
 ## Text
 

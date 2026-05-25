@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ὀνομάτων Κυρίων
 author: Echephylidas the Historian
 eul_wid: kic-aa
 eul_aid: kic
-canonical: "https://eulogikon.org/grc/echephylidas-the-historian/proper-names"
+canonical: "https://eulogikon.org/works/echephylidas-proper-names-kic-aa"
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Echephylidas the Historian
 
-**eul_wid:** `kic-aa` · [HTML page](https://eulogikon.org/grc/echephylidas-the-historian/proper-names)
+**eul_wid:** `kic-aa` · [HTML page](https://eulogikon.org/works/echephylidas-proper-names-kic-aa)
 
 ## Text
 

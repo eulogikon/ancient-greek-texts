@@ -4,7 +4,7 @@ title_greek: Τακτικά
 author: Aelian the Tactician
 eul_wid: opg-aa
 eul_aid: opg
-canonical: "https://eulogikon.org/grc/aelian-the-tactician/tactics"
+canonical: "https://eulogikon.org/works/aelian-tactician-tactics-opg-aa"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aelian the Tactician
 
-**eul_wid:** `opg-aa` · [HTML page](https://eulogikon.org/grc/aelian-the-tactician/tactics)
+**eul_wid:** `opg-aa` · [HTML page](https://eulogikon.org/works/aelian-tactician-tactics-opg-aa)
 
 ## Text
 

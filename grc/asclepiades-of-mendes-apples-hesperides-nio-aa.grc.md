@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Asclepiades of Mendes
 eul_wid: nio-aa
 eul_aid: nio
-canonical: "https://eulogikon.org/grc/asclepiades-of-mendes/apples-hesperides"
+canonical: "https://eulogikon.org/works/asclepiades-mendes-apples-hesperides-nio-aa"
 period: Hellenistic
 dialect: Koine
 domain: Grammar
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Asclepiades of Mendes
 
-**eul_wid:** `nio-aa` · [HTML page](https://eulogikon.org/grc/asclepiades-of-mendes/apples-hesperides)
+**eul_wid:** `nio-aa` · [HTML page](https://eulogikon.org/works/asclepiades-mendes-apples-hesperides-nio-aa)
 
 ## Text
 

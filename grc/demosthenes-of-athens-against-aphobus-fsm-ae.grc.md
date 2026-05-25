@@ -4,7 +4,7 @@ title_greek: κατὰ Ἀφόβου ἐπιτροπῆς α΄
 author: Demosthenes of Athens
 eul_wid: fsm-ae
 eul_aid: fsm
-canonical: "https://eulogikon.org/grc/demosthenes-of-athens/against-aphobus"
+canonical: "https://eulogikon.org/works/demosthenes-athens-against-aphobus-fsm-ae"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demosthenes of Athens
 
-**eul_wid:** `fsm-ae` · [HTML page](https://eulogikon.org/grc/demosthenes-of-athens/against-aphobus)
+**eul_wid:** `fsm-ae` · [HTML page](https://eulogikon.org/works/demosthenes-athens-against-aphobus-fsm-ae)
 
 ## Text
 

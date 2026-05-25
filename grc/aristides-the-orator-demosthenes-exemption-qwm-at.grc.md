@@ -4,7 +4,7 @@ title_greek: Πρὸς Δημοσθένη περὶ ἀτελείας
 author: Aristides the Orator
 eul_wid: qwm-at
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/demosthenes-exemption"
+canonical: "https://eulogikon.org/works/aristides-orator-demosthenes-exemption-qwm-at"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-at` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/demosthenes-exemption)
+**eul_wid:** `qwm-at` · [HTML page](https://eulogikon.org/works/aristides-orator-demosthenes-exemption-qwm-at)
 
 ## Text
 

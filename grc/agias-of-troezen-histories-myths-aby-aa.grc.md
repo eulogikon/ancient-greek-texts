@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Agias of Troezen
 eul_wid: aby-aa
 eul_aid: aby
-canonical: "https://eulogikon.org/grc/agias-of-troezen/histories-myths"
+canonical: "https://eulogikon.org/works/agias-troezen-histories-myths-aby-aa"
 period: Archaic
 dialect: Epic (Homeric)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Agias of Troezen
 
-**eul_wid:** `aby-aa` · [HTML page](https://eulogikon.org/grc/agias-of-troezen/histories-myths)
+**eul_wid:** `aby-aa` · [HTML page](https://eulogikon.org/works/agias-troezen-histories-myths-aby-aa)
 
 ## Text
 

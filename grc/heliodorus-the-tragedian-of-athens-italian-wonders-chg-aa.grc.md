@@ -4,7 +4,7 @@ title_greek: Ἰταλικὰ θαύματα
 author: Heliodorus the Tragedian of Athens
 eul_wid: chg-aa
 eul_aid: chg
-canonical: "https://eulogikon.org/grc/heliodorus-the-tragedian-of-athens/italian-wonders"
+canonical: "https://eulogikon.org/works/heliodorus-athens-italian-wonders-chg-aa"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Heliodorus the Tragedian of Athens
 
-**eul_wid:** `chg-aa` · [HTML page](https://eulogikon.org/grc/heliodorus-the-tragedian-of-athens/italian-wonders)
+**eul_wid:** `chg-aa` · [HTML page](https://eulogikon.org/works/heliodorus-athens-italian-wonders-chg-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα Ἐπιστολῆς
 author: Synodical Letter of the Council of Caesarea
 eul_wid: ssy-aa
 eul_aid: ssy
-canonical: "https://eulogikon.org/grc/council-of-caesarea/fragment"
+canonical: "https://eulogikon.org/works/synodical-letter-caesarea-fragment-ssy-aa"
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Synodical Letter of the Council of Caesarea
 
-**eul_wid:** `ssy-aa` · [HTML page](https://eulogikon.org/grc/council-of-caesarea/fragment)
+**eul_wid:** `ssy-aa` · [HTML page](https://eulogikon.org/works/synodical-letter-caesarea-fragment-ssy-aa)
 
 ## Text
 

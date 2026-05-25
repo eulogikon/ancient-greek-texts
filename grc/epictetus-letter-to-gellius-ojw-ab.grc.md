@@ -4,7 +4,7 @@ title_greek: Ἐπιστολὴ Ἀρριανοῦ πρὸς Λούκιον Γέ
 author: Epictetus the Stoic
 eul_wid: ojw-ab
 eul_aid: ojw
-canonical: "https://eulogikon.org/grc/epictetus/letter-to-gellius"
+canonical: "https://eulogikon.org/works/epictetus-letter-to-gellius-ojw-ab"
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Epictetus the Stoic
 
-**eul_wid:** `ojw-ab` · [HTML page](https://eulogikon.org/grc/epictetus/letter-to-gellius)
+**eul_wid:** `ojw-ab` · [HTML page](https://eulogikon.org/works/epictetus-letter-to-gellius-ojw-ab)
 
 ## Text
 

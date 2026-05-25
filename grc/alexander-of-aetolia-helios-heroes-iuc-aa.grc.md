@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἡλίου καὶ Ἡρώων
 author: Alexander of Aetolia
 eul_wid: iuc-aa
 eul_aid: iuc
-canonical: "https://eulogikon.org/grc/alexander-of-aetolia/helios-heroes"
+canonical: "https://eulogikon.org/works/alexander-aetolia-helios-heroes-iuc-aa"
 period: Hellenistic
 dialect: Attic (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alexander of Aetolia
 
-**eul_wid:** `iuc-aa` · [HTML page](https://eulogikon.org/grc/alexander-of-aetolia/helios-heroes)
+**eul_wid:** `iuc-aa` · [HTML page](https://eulogikon.org/works/alexander-aetolia-helios-heroes-iuc-aa)
 
 ## Text
 
@@ -96,7 +96,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4.2
 
-πευθόμενος πάγχυ Γραικοῖσι μέλεσθαι [para]Τιμόθεον, κιθάρης ἴδμονα καὶ μελέων, υἱὸν Θερσάνδρου †τὸν ᾔνεσεν ἀνέρα σίγλων [para]χρυσείων ἱερὴν δὴ τότε
+πευθόμενος πάγχυ Γραικοῖσι μέλεσθαι [para]Τιμόθεον, κιθάρης ἴδμονα καὶ μελέων, υἱὸν Θερσάνδρου τὸν ᾔνεσεν ἀνέρα σίγλων [para]χρυσείων ἱερὴν δὴ τότε
 
 ### book 4.3
 
@@ -120,11 +120,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 5.3
 
-προγόνων, εἰδὼς ἐκ νεότητος ἀεὶ ξείνοισιν ὁμιλεῖν [para]ξεῖνος, Μιμνέρμου δ’ †εἰς ἔπος ἄκρον ἰὼν[ln_5]παιδομανεῖ σὺν ἔρωτι
+προγόνων, εἰδὼς ἐκ νεότητος ἀεὶ ξείνοισιν ὁμιλεῖν [para]ξεῖνος, Μιμνέρμου δ’ εἰς ἔπος ἄκρον ἰὼν[ln_5]παιδομανεῖ σὺν ἔρωτι
 
 ### book 5.4
 
-ποτὴν ἴσον†· ἔγραφε δ’ ὡνὴρ [para]εὖ παρ’ Ὁμηρείην ἀγλαΐην ἐπέων
+ποτὴν ἴσον· ἔγραφε δ’ ὡνὴρ [para]εὖ παρ’ Ὁμηρείην ἀγλαΐην ἐπέων
 
 ### book 5.5
 

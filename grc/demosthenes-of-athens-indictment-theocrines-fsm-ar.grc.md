@@ -4,7 +4,7 @@ title_greek: ἔνδειξις κατὰ Θεοκρίνου
 author: Demosthenes of Athens
 eul_wid: fsm-ar
 eul_aid: fsm
-canonical: "https://eulogikon.org/grc/demosthenes-of-athens/indictment-theocrines"
+canonical: "https://eulogikon.org/works/demosthenes-athens-indictment-theocrines-fsm-ar"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demosthenes of Athens
 
-**eul_wid:** `fsm-ar` · [HTML page](https://eulogikon.org/grc/demosthenes-of-athens/indictment-theocrines)
+**eul_wid:** `fsm-ar` · [HTML page](https://eulogikon.org/works/demosthenes-athens-indictment-theocrines-fsm-ar)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Ariphron of Sicyon
 eul_wid: gze-aa
 eul_aid: gze
-canonical: "https://eulogikon.org/grc/ariphron-of-sicyon/hymn-health"
+canonical: "https://eulogikon.org/works/ariphron-sicyon-hymn-health-gze-aa"
 period: Classical
 dialect: Doric (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Ariphron of Sicyon
 
-**eul_wid:** `gze-aa` · [HTML page](https://eulogikon.org/grc/ariphron-of-sicyon/hymn-health)
+**eul_wid:** `gze-aa` · [HTML page](https://eulogikon.org/works/ariphron-sicyon-hymn-health-gze-aa)
 
 ## Text
 

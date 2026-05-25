@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Diogenes of Cyzicus
 eul_wid: gou-aa
 eul_aid: gou
-canonical: "https://eulogikon.org/grc/diogenes-of-cyzicus/persian-customs"
+canonical: "https://eulogikon.org/works/diogenes-cyzicus-persian-customs-gou-aa"
 period: Classical
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Diogenes of Cyzicus
 
-**eul_wid:** `gou-aa` · [HTML page](https://eulogikon.org/grc/diogenes-of-cyzicus/persian-customs)
+**eul_wid:** `gou-aa` · [HTML page](https://eulogikon.org/works/diogenes-cyzicus-persian-customs-gou-aa)
 
 ## Text
 

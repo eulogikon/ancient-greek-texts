@@ -4,7 +4,7 @@ title_greek: Πρὸς τὰς ἀρχομένας ὑποχύσεις
 author: Aglaias of Byzantium
 eul_wid: qja-aa
 eul_aid: qja
-canonical: "https://eulogikon.org/grc/aglaias-of-byzantium/initial-discharges"
+canonical: "https://eulogikon.org/works/aglaias-byzantium-initial-discharges-qja-aa"
 period: Roman
 dialect: Koine (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aglaias of Byzantium
 
-**eul_wid:** `qja-aa` · [HTML page](https://eulogikon.org/grc/aglaias-of-byzantium/initial-discharges)
+**eul_wid:** `qja-aa` · [HTML page](https://eulogikon.org/works/aglaias-byzantium-initial-discharges-qja-aa)
 
 ## Text
 

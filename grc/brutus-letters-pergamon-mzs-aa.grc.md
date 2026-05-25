@@ -4,7 +4,7 @@ title_greek: Ἐπιστολαὶ πρὸς Πέργαμον
 author: Brutus Letters
 eul_wid: mzs-aa
 eul_aid: mzs
-canonical: "https://eulogikon.org/grc/brutus-letters/pergamon"
+canonical: "https://eulogikon.org/works/brutus-pergamon-mzs-aa"
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Brutus Letters
 
-**eul_wid:** `mzs-aa` · [HTML page](https://eulogikon.org/grc/brutus-letters/pergamon)
+**eul_wid:** `mzs-aa` · [HTML page](https://eulogikon.org/works/brutus-pergamon-mzs-aa)
 
 ## Text
 

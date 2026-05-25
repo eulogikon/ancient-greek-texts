@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Aristophanes of Athens
 eul_wid: daw-af
 eul_aid: daw
-canonical: "https://eulogikon.org/grc/aristophanes-of-athens/marketplace-domestic"
+canonical: "https://eulogikon.org/works/aristophanes-athens-marketplace-domestic-daw-af"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristophanes of Athens
 
-**eul_wid:** `daw-af` · [HTML page](https://eulogikon.org/grc/aristophanes-of-athens/marketplace-domestic)
+**eul_wid:** `daw-af` · [HTML page](https://eulogikon.org/works/aristophanes-athens-marketplace-domestic-daw-af)
 
 ## Text
 
@@ -3772,7 +3772,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 650
 
-μεσέγγυον τὴν μείρακα ⏑– καταθέσθαι.
+μεσέγγυον τὴν μείρακα – καταθέσθαι.
 
 ### book 651
 

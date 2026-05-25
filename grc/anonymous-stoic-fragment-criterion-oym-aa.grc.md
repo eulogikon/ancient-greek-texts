@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Stoic Fragment Anonymous
 eul_wid: oym-aa
 eul_aid: oym
-canonical: "https://eulogikon.org/grc/anonymous-stoic-fragment/criterion"
+canonical: "https://eulogikon.org/works/stoic-frag-anon-criterion-oym-aa"
 period: Roman
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Stoic Fragment Anonymous
 
-**eul_wid:** `oym-aa` · [HTML page](https://eulogikon.org/grc/anonymous-stoic-fragment/criterion)
+**eul_wid:** `oym-aa` · [HTML page](https://eulogikon.org/works/stoic-frag-anon-criterion-oym-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: ἐκ τῶν Αἰλιανοῦ ἀγροικικῶν ἐπιστ
 author: Aelian of Praeneste
 eul_wid: ria-aa
 eul_aid: ria
-canonical: "https://eulogikon.org/grc/aelian-of-praeneste/rustic-letters"
+canonical: "https://eulogikon.org/works/aelian-praeneste-rustic-letters-ria-aa"
 period: Roman
 dialect: Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aelian of Praeneste
 
-**eul_wid:** `ria-aa` · [HTML page](https://eulogikon.org/grc/aelian-of-praeneste/rustic-letters)
+**eul_wid:** `ria-aa` · [HTML page](https://eulogikon.org/works/aelian-praeneste-rustic-letters-ria-aa)
 
 ## Text
 

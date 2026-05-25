@@ -4,7 +4,7 @@ title_greek: Κύκλωψ
 author: Euripides
 eul_wid: cbm-aw
 eul_aid: cbm
-canonical: "https://eulogikon.org/grc/euripides/cyclops"
+canonical: "https://eulogikon.org/works/euripides-cyclops-cbm-aw"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euripides
 
-**eul_wid:** `cbm-aw` · [HTML page](https://eulogikon.org/grc/euripides/cyclops)
+**eul_wid:** `cbm-aw` · [HTML page](https://eulogikon.org/works/euripides-cyclops-cbm-aw)
 
 ## Text
 
@@ -256,7 +256,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 60.1
 
-εἰς αὐλὰν πότ’ †ἀμφιβαίνεις†
+εἰς αὐλὰν πότ’ ἀμφιβαίνεις
 
 ### 60.2
 
@@ -308,7 +308,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 70.4
 
-†ὦ φίλος ὦ φίλε Βακχεῖε
+ὦ φίλος ὦ φίλε Βακχεῖε
 
 ### 70.5
 
@@ -316,7 +316,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 75.1
 
-ξανθὰν χαίταν σείεις;†
+ξανθὰν χαίταν σείεις;
 
 ### 75.2
 
@@ -688,7 +688,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 170.1
 
-μαστοῦ τε δραγμὸς καὶ †παρεσκευασμένου†
+μαστοῦ τε δραγμὸς καὶ παρεσκευασμένου
 
 ### 170.2
 
@@ -1172,7 +1172,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 295.2
 
-†δύσφρον’ ὀνείδη† Φρυξὶν οὐκ ἐδώκαμεν.
+δύσφρον’ ὀνείδη Φρυξὶν οὐκ ἐδώκαμεν.
 
 ### 295.3
 
@@ -1444,7 +1444,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 365.1
 
-ἀποβώμιος †ἃν ἔχει θυσίαν†
+ἀποβώμιος ἃν ἔχει θυσίαν
 
 ### 365.2
 
@@ -1456,7 +1456,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 365.4
 
-†νηλὴς ὦ τλᾶμον ὅστις δωμάτων†
+νηλὴς ὦ τλᾶμον ὅστις δωμάτων
 
 ### 371
 
@@ -1504,7 +1504,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 380.3
 
-Οδ. ἐπεὶ πετραίαν τήνδ’ ἐσήλθομεν †χθόνα†,
+Οδ. ἐπεὶ πετραίαν τήνδ’ ἐσήλθομεν χθόνα,
 
 ### 380.4
 
@@ -1556,7 +1556,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 395.1
 
-†Αἰτναῖά τε σφαγεῖα πελέκεων γνάθοις†.
+Αἰτναῖά τε σφαγεῖα πελέκεων γνάθοις.
 
 ### 395.2
 
@@ -1580,7 +1580,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### post 399.2
 
-ἐγκέφαλον ἐξέρρανε· καὶ †καθαρπάσας†
+ἐγκέφαλον ἐξέρρανε· καὶ καθαρπάσας
 
 ### post 399.3
 
@@ -1724,11 +1724,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 435.5
 
-ὡς διὰ μακροῦ γε †τὸν σίφωνα τὸν φίλον
+ὡς διὰ μακροῦ γε τὸν σίφωνα τὸν φίλον
 
 ### 440.1
 
-χηρεύομεν τόνδ’ οὐκ ἔχομεν καταφαγεῖν.†
+χηρεύομεν τόνδ’ οὐκ ἔχομεν καταφαγεῖν.
 
 ### 440.2
 
@@ -1952,7 +1952,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 495.5
 
-ἐπὶ δεμνίοις τε †ξανθὸν† χλιδανᾶς ἔχων ἑταίρας
+ἐπὶ δεμνίοις τε ξανθὸν χλιδανᾶς ἔχων ἑταίρας
 
 ### 495.6
 
@@ -2008,11 +2008,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 510.5
 
-λύχνα δ’ †ἀμμένει δαΐα σὸν
+λύχνα δ’ ἀμμένει δαΐα σὸν
 
 ### 515.1
 
-χρόα χὡς† τέρεινα νύμφα
+χρόα χὡς τέρεινα νύμφα
 
 ### 515.2
 
@@ -2312,7 +2312,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 590.4
 
-δαλὸς δ’ ἔσωθεν αὐλίων †ὠθεῖ† καπνὸν
+δαλὸς δ’ ἔσωθεν αὐλίων ὠθεῖ καπνὸν
 
 ### 590.5
 
@@ -2604,7 +2604,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 670.5
 
-Κυ. †ὣς δὴ σύ†. Χο. καὶ πῶς ς’ οὔτις ἂν θείη τυφλόν;
+Κυ. ὣς δὴ σύ. Χο. καὶ πῶς ς’ οὔτις ἂν θείη τυφλόν;
 
 ### 675
 

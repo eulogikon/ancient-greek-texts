@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Bacchylides of Ceos
 eul_wid: brw-al
 eul_aid: brw
-canonical: "https://eulogikon.org/grc/bacchylides-of-ceos/epigrams"
+canonical: "https://eulogikon.org/works/bacchylides-ceos-epigrams-brw-al"
 period: Classical
 dialect: Doric
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Bacchylides of Ceos
 
-**eul_wid:** `brw-al` · [HTML page](https://eulogikon.org/grc/bacchylides-of-ceos/epigrams)
+**eul_wid:** `brw-al` · [HTML page](https://eulogikon.org/works/bacchylides-ceos-epigrams-brw-al)
 
 ## Text
 

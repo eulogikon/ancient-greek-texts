@@ -4,7 +4,7 @@ title_greek: "Μαρτυρίαι Β'"
 author: Epimenides of Crete
 eul_wid: aqy-ab
 eul_aid: aqy
-canonical: "https://eulogikon.org/grc/epimenides-of-crete/testimonies-2"
+canonical: "https://eulogikon.org/works/epimenides-crete-testimonies-2-aqy-ab"
 period: Archaic
 dialect: Epic (Homeric)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Epimenides of Crete
 
-**eul_wid:** `aqy-ab` · [HTML page](https://eulogikon.org/grc/epimenides-of-crete/testimonies-2)
+**eul_wid:** `aqy-ab` · [HTML page](https://eulogikon.org/works/epimenides-crete-testimonies-2-aqy-ab)
 
 ## Text
 

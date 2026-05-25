@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα τοῦ Πανδάρεω Μύθου
 author: Boeus the Epic Poet
 eul_wid: kak-aa
 eul_aid: kak
-canonical: "https://eulogikon.org/grc/boeus-the-epic-poet/pandareus-myth"
+canonical: "https://eulogikon.org/works/boeus-pandareus-myth-kak-aa"
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Boeus the Epic Poet
 
-**eul_wid:** `kak-aa` · [HTML page](https://eulogikon.org/grc/boeus-the-epic-poet/pandareus-myth)
+**eul_wid:** `kak-aa` · [HTML page](https://eulogikon.org/works/boeus-pandareus-myth-kak-aa)
 
 ## Text
 

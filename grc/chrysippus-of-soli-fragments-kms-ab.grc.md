@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα πρὸς ἕκαστον βιβλίον
 author: Chrysippus of Soli
 eul_wid: kms-ab
 eul_aid: kms
-canonical: "https://eulogikon.org/grc/chrysippus-of-soli/fragments"
+canonical: "https://eulogikon.org/works/chrysippus-soli-fragments-kms-ab"
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Chrysippus of Soli
 
-**eul_wid:** `kms-ab` · [HTML page](https://eulogikon.org/grc/chrysippus-of-soli/fragments)
+**eul_wid:** `kms-ab` · [HTML page](https://eulogikon.org/works/chrysippus-soli-fragments-kms-ab)
 
 ## Text
 

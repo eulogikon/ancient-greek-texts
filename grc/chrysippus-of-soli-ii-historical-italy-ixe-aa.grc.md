@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Ἰταλίας
 author: Chrysippus of Soli II
 eul_wid: ixe-aa
 eul_aid: ixe
-canonical: "https://eulogikon.org/grc/chrysippus-of-soli-ii/historical-italy"
+canonical: "https://eulogikon.org/works/chrysippus-soli-historical-italy-ixe-aa"
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Chrysippus of Soli II
 
-**eul_wid:** `ixe-aa` · [HTML page](https://eulogikon.org/grc/chrysippus-of-soli-ii/historical-italy)
+**eul_wid:** `ixe-aa` · [HTML page](https://eulogikon.org/works/chrysippus-soli-historical-italy-ixe-aa)
 
 ## Text
 

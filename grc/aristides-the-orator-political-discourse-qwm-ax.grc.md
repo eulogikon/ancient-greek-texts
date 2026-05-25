@@ -4,7 +4,7 @@ title_greek: Περὶ πολιτικοῦ λόγου
 author: Aristides the Orator
 eul_wid: qwm-ax
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/political-discourse"
+canonical: "https://eulogikon.org/works/aristides-orator-political-discourse-qwm-ax"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-ax` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/political-discourse)
+**eul_wid:** `qwm-ax` · [HTML page](https://eulogikon.org/works/aristides-orator-political-discourse-qwm-ax)
 
 ## Text
 

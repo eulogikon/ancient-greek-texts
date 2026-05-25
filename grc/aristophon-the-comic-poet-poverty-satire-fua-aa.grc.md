@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Πενίας καὶ Σάτιρα
 author: Aristophon the Comic Poet
 eul_wid: fua-aa
 eul_aid: fua
-canonical: "https://eulogikon.org/grc/aristophon-the-comic-poet/poverty-satire"
+canonical: "https://eulogikon.org/works/aristophon-comic-poverty-satire-fua-aa"
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristophon the Comic Poet
 
-**eul_wid:** `fua-aa` · [HTML page](https://eulogikon.org/grc/aristophon-the-comic-poet/poverty-satire)
+**eul_wid:** `fua-aa` · [HTML page](https://eulogikon.org/works/aristophon-comic-poverty-satire-fua-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Fronto the Rhetorician
 eul_wid: pmi-ae
 eul_aid: pmi
-canonical: "https://eulogikon.org/grc/fronto-the-rhetorician/epigrams"
+canonical: "https://eulogikon.org/works/fronto-epigrams-pmi-ae"
 period: Roman
 dialect: Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Fronto the Rhetorician
 
-**eul_wid:** `pmi-ae` · [HTML page](https://eulogikon.org/grc/fronto-the-rhetorician/epigrams)
+**eul_wid:** `pmi-ae` · [HTML page](https://eulogikon.org/works/fronto-epigrams-pmi-ae)
 
 ## Text
 

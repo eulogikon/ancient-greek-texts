@@ -4,7 +4,7 @@ title_greek: Λευκτρικὸς Β.
 author: Aristides the Orator
 eul_wid: qwm-ah
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/leuctrian-b-thebans-first"
+canonical: "https://eulogikon.org/works/aristides-orator-leuctrian-b-thebans-first-qwm-ah"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-ah` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/leuctrian-b-thebans-first)
+**eul_wid:** `qwm-ah` · [HTML page](https://eulogikon.org/works/aristides-orator-leuctrian-b-thebans-first-qwm-ah)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Εἰς τὸ Αἰγαῖον πέλαγος
 author: Aristides the Orator
 eul_wid: qwm-bm
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/aegean-sea"
+canonical: "https://eulogikon.org/works/aristides-orator-aegean-sea-qwm-bm"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-bm` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/aegean-sea)
+**eul_wid:** `qwm-bm` · [HTML page](https://eulogikon.org/works/aristides-orator-aegean-sea-qwm-bm)
 
 ## Text
 

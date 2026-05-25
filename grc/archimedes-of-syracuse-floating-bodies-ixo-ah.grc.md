@@ -4,7 +4,7 @@ title_greek: Περὶ Τῶν Ἐπιπλεόντων Σωμάτων
 author: Archimedes of Syracuse
 eul_wid: ixo-ah
 eul_aid: ixo
-canonical: "https://eulogikon.org/grc/archimedes-of-syracuse/floating-bodies"
+canonical: "https://eulogikon.org/works/archimedes-syracuse-floating-bodies-ixo-ah"
 period: Hellenistic
 dialect: Doric
 domain: Mathematics
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Archimedes of Syracuse
 
-**eul_wid:** `ixo-ah` · [HTML page](https://eulogikon.org/grc/archimedes-of-syracuse/floating-bodies)
+**eul_wid:** `ixo-ah` · [HTML page](https://eulogikon.org/works/archimedes-syracuse-floating-bodies-ixo-ah)
 
 ## Text
 

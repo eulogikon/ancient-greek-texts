@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Critias of Athens
 eul_wid: bzo-ab
 eul_aid: bzo
-canonical: "https://eulogikon.org/grc/critias-of-athens/testimonies"
+canonical: "https://eulogikon.org/works/critias-athens-testimonies-bzo-ab"
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Critias of Athens
 
-**eul_wid:** `bzo-ab` · [HTML page](https://eulogikon.org/grc/critias-of-athens/testimonies)
+**eul_wid:** `bzo-ab` · [HTML page](https://eulogikon.org/works/critias-athens-testimonies-bzo-ab)
 
 ## Text
 

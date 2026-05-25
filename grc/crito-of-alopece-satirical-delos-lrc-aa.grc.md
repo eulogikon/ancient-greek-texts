@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Σατυρικὰ περὶ Δήλου
 author: "Crito of Alopece "
 eul_wid: lrc-aa
 eul_aid: lrc
-canonical: "https://eulogikon.org/grc/crito-of-alopece/satirical-delos"
+canonical: "https://eulogikon.org/works/crito-alopece-satirical-delos-lrc-aa"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Crito of Alopece 
 
-**eul_wid:** `lrc-aa` · [HTML page](https://eulogikon.org/grc/crito-of-alopece/satirical-delos)
+**eul_wid:** `lrc-aa` · [HTML page](https://eulogikon.org/works/crito-alopece-satirical-delos-lrc-aa)
 
 ## Text
 

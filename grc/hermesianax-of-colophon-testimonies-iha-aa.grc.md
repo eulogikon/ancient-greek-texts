@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Hermesianax of Colophon
 eul_wid: iha-aa
 eul_aid: iha
-canonical: "https://eulogikon.org/grc/hermesianax-of-colophon/testimonies"
+canonical: "https://eulogikon.org/works/hermesianax-colophon-testimonies-iha-aa"
 period: Hellenistic
 dialect: Ionic Elegiac
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hermesianax of Colophon
 
-**eul_wid:** `iha-aa` · [HTML page](https://eulogikon.org/grc/hermesianax-of-colophon/testimonies)
+**eul_wid:** `iha-aa` · [HTML page](https://eulogikon.org/works/hermesianax-colophon-testimonies-iha-aa)
 
 ## Text
 

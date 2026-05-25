@@ -4,7 +4,7 @@ title_greek: Ἀγαθοδαίμων εἰς τὸν χρησμὸν Ὀρφέω
 author: Agathodaemon of Alexandria
 eul_wid: pua-aa
 eul_aid: pua
-canonical: "https://eulogikon.org/grc/agathodaemon-of-alexandria/oracle"
+canonical: "https://eulogikon.org/works/agathodaemon-alexandria-oracle-pua-aa"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Agathodaemon of Alexandria
 
-**eul_wid:** `pua-aa` · [HTML page](https://eulogikon.org/grc/agathodaemon-of-alexandria/oracle)
+**eul_wid:** `pua-aa` · [HTML page](https://eulogikon.org/works/agathodaemon-alexandria-oracle-pua-aa)
 
 ## Text
 

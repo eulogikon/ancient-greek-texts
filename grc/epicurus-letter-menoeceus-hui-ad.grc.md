@@ -4,7 +4,7 @@ title_greek: Τρίτη Ἐπιστολὴ πρὸς Μενοικέα
 author: Epicurus the Philosopher
 eul_wid: hui-ad
 eul_aid: hui
-canonical: "https://eulogikon.org/grc/epicurus/letter-menoeceus"
+canonical: "https://eulogikon.org/works/epicurus-letter-menoeceus-hui-ad"
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Epicurus the Philosopher
 
-**eul_wid:** `hui-ad` · [HTML page](https://eulogikon.org/grc/epicurus/letter-menoeceus)
+**eul_wid:** `hui-ad` · [HTML page](https://eulogikon.org/works/epicurus-letter-menoeceus-hui-ad)
 
 ## Text
 

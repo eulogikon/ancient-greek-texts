@@ -4,7 +4,7 @@ title_greek: Ὀνόματα τῶν χρυσοποιητῶν
 author: Alchemist I
 eul_wid: rrg-ca
 eul_aid: rrg
-canonical: "https://eulogikon.org/grc/alchemist-i/goldsmiths"
+canonical: "https://eulogikon.org/works/alchemist-i-goldsmiths-rrg-ca"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alchemist I
 
-**eul_wid:** `rrg-ca` · [HTML page](https://eulogikon.org/grc/alchemist-i/goldsmiths)
+**eul_wid:** `rrg-ca` · [HTML page](https://eulogikon.org/works/alchemist-i-goldsmiths-rrg-ca)
 
 ## Text
 

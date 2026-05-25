@@ -4,7 +4,7 @@ title_greek: Ἐπικὰ Ἀποσπάσματα
 author: Eumelus of Corinth
 eul_wid: aaa-ab
 eul_aid: aaa
-canonical: "https://eulogikon.org/grc/eumelus-of-corinth/epic-fragments"
+canonical: "https://eulogikon.org/works/eumelus-corinth-epic-fragments-aaa-ab"
 period: Archaic
 dialect: Epic (Homeric) (frg)
 domain: Epic
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Eumelus of Corinth
 
-**eul_wid:** `aaa-ab` · [HTML page](https://eulogikon.org/grc/eumelus-of-corinth/epic-fragments)
+**eul_wid:** `aaa-ab` · [HTML page](https://eulogikon.org/works/eumelus-corinth-epic-fragments-aaa-ab)
 
 ## Text
 

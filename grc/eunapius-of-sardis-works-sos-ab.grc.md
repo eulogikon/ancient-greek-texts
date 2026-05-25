@@ -4,7 +4,7 @@ title_greek: Λιβανίου Ἔργα
 author: Eunapius of Sardis
 eul_wid: sos-ab
 eul_aid: sos
-canonical: "https://eulogikon.org/grc/eunapius-of-sardis/works"
+canonical: "https://eulogikon.org/works/eunapius-sardis-works-sos-ab"
 period: Late Antique
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Eunapius of Sardis
 
-**eul_wid:** `sos-ab` · [HTML page](https://eulogikon.org/grc/eunapius-of-sardis/works)
+**eul_wid:** `sos-ab` · [HTML page](https://eulogikon.org/works/eunapius-sardis-works-sos-ab)
 
 ## Text
 

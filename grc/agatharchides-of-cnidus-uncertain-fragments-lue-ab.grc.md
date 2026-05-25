@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Ἀδήλου Θέσεως
 author: Agatharchides of Cnidus
 eul_wid: lue-ab
 eul_aid: lue
-canonical: "https://eulogikon.org/grc/agatharchides-of-cnidus/uncertain-fragments"
+canonical: "https://eulogikon.org/works/agatharchides-cnidus-uncertain-fragments-lue-ab"
 period: Hellenistic
 dialect: Attic
 domain: Geography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Agatharchides of Cnidus
 
-**eul_wid:** `lue-ab` · [HTML page](https://eulogikon.org/grc/agatharchides-of-cnidus/uncertain-fragments)
+**eul_wid:** `lue-ab` · [HTML page](https://eulogikon.org/works/agatharchides-cnidus-uncertain-fragments-lue-ab)
 
 ## Text
 

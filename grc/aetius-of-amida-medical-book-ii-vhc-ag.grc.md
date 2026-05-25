@@ -4,7 +4,7 @@ title_greek: Ἰατρικὸν Βιβλίον Βʹ
 author: Aëtius of Amida
 eul_wid: vhc-ag
 eul_aid: vhc
-canonical: "https://eulogikon.org/grc/aetius-of-amida/medical-book-ii"
+canonical: "https://eulogikon.org/works/aetius-amida-medical-book-ii-vhc-ag"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aëtius of Amida
 
-**eul_wid:** `vhc-ag` · [HTML page](https://eulogikon.org/grc/aetius-of-amida/medical-book-ii)
+**eul_wid:** `vhc-ag` · [HTML page](https://eulogikon.org/works/aetius-amida-medical-book-ii-vhc-ag)
 
 ## Text
 

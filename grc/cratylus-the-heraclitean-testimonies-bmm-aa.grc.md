@@ -4,7 +4,7 @@ title_greek: Μαρτυρίαι
 author: Cratylus the Heraclitean
 eul_wid: bmm-aa
 eul_aid: bmm
-canonical: "https://eulogikon.org/grc/cratylus-the-heraclitean/testimonies"
+canonical: "https://eulogikon.org/works/cratylus-heraclitean-testimonies-bmm-aa"
 period: Archaic
 dialect: "Attic (phi, frg)"
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Cratylus the Heraclitean
 
-**eul_wid:** `bmm-aa` · [HTML page](https://eulogikon.org/grc/cratylus-the-heraclitean/testimonies)
+**eul_wid:** `bmm-aa` · [HTML page](https://eulogikon.org/works/cratylus-heraclitean-testimonies-bmm-aa)
 
 ## Text
 

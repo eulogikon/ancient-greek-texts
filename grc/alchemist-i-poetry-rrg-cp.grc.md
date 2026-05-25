@@ -4,7 +4,7 @@ title_greek: Ἡ ποίησις
 author: Alchemist I
 eul_wid: rrg-cp
 eul_aid: rrg
-canonical: "https://eulogikon.org/grc/alchemist-i/poetry"
+canonical: "https://eulogikon.org/works/alchemist-i-poetry-rrg-cp"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alchemist I
 
-**eul_wid:** `rrg-cp` · [HTML page](https://eulogikon.org/grc/alchemist-i/poetry)
+**eul_wid:** `rrg-cp` · [HTML page](https://eulogikon.org/works/alchemist-i-poetry-rrg-cp)
 
 ## Text
 

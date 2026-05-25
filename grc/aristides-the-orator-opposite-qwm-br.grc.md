@@ -4,7 +4,7 @@ title_greek: Εἰς τὸ ἐναντίον
 author: Aristides the Orator
 eul_wid: qwm-br
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/opposite"
+canonical: "https://eulogikon.org/works/aristides-orator-opposite-qwm-br"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-br` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/opposite)
+**eul_wid:** `qwm-br` · [HTML page](https://eulogikon.org/works/aristides-orator-opposite-qwm-br)
 
 ## Text
 

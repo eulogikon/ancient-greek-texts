@@ -4,7 +4,7 @@ title_greek: Ἰατρικὸν Βιβλίον Ηʹ
 author: Aëtius of Amida
 eul_wid: vhc-aa
 eul_aid: vhc
-canonical: "https://eulogikon.org/grc/aetius-of-amida/medical-book-viii"
+canonical: "https://eulogikon.org/works/aetius-amida-medical-book-viii-vhc-aa"
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aëtius of Amida
 
-**eul_wid:** `vhc-aa` · [HTML page](https://eulogikon.org/grc/aetius-of-amida/medical-book-viii)
+**eul_wid:** `vhc-aa` · [HTML page](https://eulogikon.org/works/aetius-amida-medical-book-viii-vhc-aa)
 
 ## Text
 

@@ -4,7 +4,7 @@ title_greek: Περὶ ζῴων ἰδιότητος
 author: Aelian of Praeneste
 eul_wid: ria-ab
 eul_aid: ria
-canonical: "https://eulogikon.org/grc/aelian-of-praeneste/nature-animals"
+canonical: "https://eulogikon.org/works/aelian-praeneste-nature-animals-ria-ab"
 period: Roman
 dialect: Koine
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aelian of Praeneste
 
-**eul_wid:** `ria-ab` · [HTML page](https://eulogikon.org/grc/aelian-of-praeneste/nature-animals)
+**eul_wid:** `ria-ab` · [HTML page](https://eulogikon.org/works/aelian-praeneste-nature-animals-ria-ab)
 
 ## Text
 

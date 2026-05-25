@@ -4,7 +4,7 @@ title_greek: Περὶ Μετρήσεων
 author: "Hero of Alexandria "
 eul_wid: odi-ai
 eul_aid: odi
-canonical: "https://eulogikon.org/grc/hero-of-alexandria/measurements"
+canonical: "https://eulogikon.org/works/hero-alexandria-measurements-odi-ai"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hero of Alexandria 
 
-**eul_wid:** `odi-ai` · [HTML page](https://eulogikon.org/grc/hero-of-alexandria/measurements)
+**eul_wid:** `odi-ai` · [HTML page](https://eulogikon.org/works/hero-alexandria-measurements-odi-ai)
 
 ## Text
 

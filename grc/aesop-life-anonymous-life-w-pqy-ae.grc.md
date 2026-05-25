@@ -4,7 +4,7 @@ title_greek: Βίος
 author: Aesop Life-anonymous
 eul_wid: pqy-ae
 eul_aid: pqy
-canonical: "https://eulogikon.org/grc/aesop-life-anonymous/life-w"
+canonical: "https://eulogikon.org/works/aesop-life-w-pqy-ae"
 period: Roman
 dialect: Koine
 domain: Fiction
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aesop Life-anonymous
 
-**eul_wid:** `pqy-ae` · [HTML page](https://eulogikon.org/grc/aesop-life-anonymous/life-w)
+**eul_wid:** `pqy-ae` · [HTML page](https://eulogikon.org/works/aesop-life-w-pqy-ae)
 
 ## Text
 

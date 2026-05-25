@@ -4,7 +4,7 @@ title_greek: Περὶ Μετοχῶν
 author: Greek Grammarian Anonymous
 eul_wid: tqa-au
 eul_aid: tqa
-canonical: "https://eulogikon.org/grc/anonymous-greek-grammarian/participles"
+canonical: "https://eulogikon.org/works/anon-grammarian-participles-tqa-au"
 period: Late Antique
 dialect: Koine (frg)
 domain: Grammar
@@ -18,13 +18,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Greek Grammarian Anonymous
 
-**eul_wid:** `tqa-au` · [HTML page](https://eulogikon.org/grc/anonymous-greek-grammarian/participles)
+**eul_wid:** `tqa-au` · [HTML page](https://eulogikon.org/works/anon-grammarian-participles-tqa-au)
 
 ## Text
 
 ### 1
 
-[Break in Text (point at which text breaks off for an unknown length)] [λε]χ̣θ̣ε̣ν̣[τ ] [ .. ]πρω̣το[ ...... ] καὶ [τὰ] ὁμοῖα . ἡ̣ [δὲ] μετοχὴ̣ παθητικὴ̣ ἀ̣ρρενικὴ̣ [ἢ] μέση, ἐ̣π̣ὶ̣ γεν̣ικῆς [εἰς] μ̣ὲν ο[ς ] λήγο[υ]σα, πλη[θυν]τικὴ [γ]ίνεται ἀμο̣[ι][βῇ] τοῦ ο εἰς τὸ ε , εἰς δὲ̣ [ ου , τρ]ο̣πῆι τοῦ [ υ ] εἰς τὸ [ ι . καὶ] τ̣οῦ μὲν [πρ]ώ̣του [λεχθ]έντ[ο]ς̣ σεση[μάγκαμεν?], [τοῦ δ]ὲ δευτέρ̣[ου λεγο][μέν]ου, λελεγμ̣ένου, [λεχθ]ησομένου, λεξο [μέν]ου καὶ τὰ ὁ[μοῖα] α[ὐ][τοῖς . ἡ] παθ[η]τικ[ὴ] δ̣ὲ [θήλεια] ἢ μέση πληθυν[τικὴ λήγει εἰς αι ] [Break in Text (point at which text breaks off for an unknown length)]
+[Break in Text (point at which text breaks off for an unknown length)] [λε]χθεν[τ ] [ .. ]πρωτο[ ...... ] καὶ [τὰ] ὁμοῖα . ἡ [δὲ] μετοχὴ παθητικὴ ἀρρενικὴ [ἢ] μέση, ἐπὶ γενικῆς [εἰς] μὲν ο[ς ] λήγο[υ]σα, πλη[θυν]τικὴ [γ]ίνεται ἀμο[ι][βῇ] τοῦ ο εἰς τὸ ε , εἰς δὲ [ ου , τρ]οπῆι τοῦ [ υ ] εἰς τὸ [ ι . καὶ] τοῦ μὲν [πρ]ώτου [λεχθ]έντ[ο]ς σεση[μάγκαμεν?], [τοῦ δ]ὲ δευτέρ[ου λεγο][μέν]ου, λελεγμένου, [λεχθ]ησομένου, λεξο [μέν]ου καὶ τὰ ὁ[μοῖα] α[ὐ][τοῖς . ἡ] παθ[η]τικ[ὴ] δὲ [θήλεια] ἢ μέση πληθυν[τικὴ λήγει εἰς αι ] [Break in Text (point at which text breaks off for an unknown length)]
 
 ## License and provenance
 

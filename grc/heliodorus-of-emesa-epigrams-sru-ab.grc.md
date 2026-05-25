@@ -4,7 +4,7 @@ title_greek: Ἐπιγράμματα
 author: Heliodorus of Emesa
 eul_wid: sru-ab
 eul_aid: sru
-canonical: "https://eulogikon.org/grc/heliodorus-of-emesa/epigrams"
+canonical: "https://eulogikon.org/works/heliodorus-emesa-epigrams-sru-ab"
 period: Late Antique
 dialect: Atticizing Literary
 domain: Fiction
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Heliodorus of Emesa
 
-**eul_wid:** `sru-ab` · [HTML page](https://eulogikon.org/grc/heliodorus-of-emesa/epigrams)
+**eul_wid:** `sru-ab` · [HTML page](https://eulogikon.org/works/heliodorus-emesa-epigrams-sru-ab)
 
 ## Text
 

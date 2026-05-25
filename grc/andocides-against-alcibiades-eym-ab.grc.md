@@ -4,7 +4,7 @@ title_greek: Κατὰ Ἀλκιβιάδου
 author: Andocides
 eul_wid: eym-ab
 eul_aid: eym
-canonical: "https://eulogikon.org/grc/andocides/against-alcibiades"
+canonical: "https://eulogikon.org/works/andocides-against-alcibiades-eym-ab"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Andocides
 
-**eul_wid:** `eym-ab` · [HTML page](https://eulogikon.org/grc/andocides/against-alcibiades)
+**eul_wid:** `eym-ab` · [HTML page](https://eulogikon.org/works/andocides-against-alcibiades-eym-ab)
 
 ## Text
 

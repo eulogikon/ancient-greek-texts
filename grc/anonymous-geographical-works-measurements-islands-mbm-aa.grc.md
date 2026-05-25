@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Geographical Works Anonymous
 eul_wid: mbm-aa
 eul_aid: mbm
-canonical: "https://eulogikon.org/grc/anonymous-geographical-works/measurements-islands"
+canonical: "https://eulogikon.org/works/anon-geographica-measurements-islands-mbm-aa"
 period: Hellenistic
 dialect: Koine
 domain: Geography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Geographical Works Anonymous
 
-**eul_wid:** `mbm-aa` · [HTML page](https://eulogikon.org/grc/anonymous-geographical-works/measurements-islands)
+**eul_wid:** `mbm-aa` · [HTML page](https://eulogikon.org/works/anon-geographica-measurements-islands-mbm-aa)
 
 ## Text
 

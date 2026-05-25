@@ -4,7 +4,7 @@ title_greek: Ἐλευσίνιος
 author: Aristides the Orator
 eul_wid: qwm-bw
 eul_aid: qwm
-canonical: "https://eulogikon.org/grc/aristides-the-orator/eleusinian"
+canonical: "https://eulogikon.org/works/aristides-orator-eleusinian-qwm-bw"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aristides the Orator
 
-**eul_wid:** `qwm-bw` · [HTML page](https://eulogikon.org/grc/aristides-the-orator/eleusinian)
+**eul_wid:** `qwm-bw` · [HTML page](https://eulogikon.org/works/aristides-orator-eleusinian-qwm-bw)
 
 ## Text
 

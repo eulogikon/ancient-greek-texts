@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Οἰκονομικῶν
 author: Bryson of Heraclea
 eul_wid: dwk-aa
 eul_aid: dwk
-canonical: "https://eulogikon.org/grc/bryson-of-heraclea/economics"
+canonical: "https://eulogikon.org/works/bryson-heraclea-economics-dwk-aa"
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Bryson of Heraclea
 
-**eul_wid:** `dwk-aa` · [HTML page](https://eulogikon.org/grc/bryson-of-heraclea/economics)
+**eul_wid:** `dwk-aa` · [HTML page](https://eulogikon.org/works/bryson-heraclea-economics-dwk-aa)
 
 ## Text
 

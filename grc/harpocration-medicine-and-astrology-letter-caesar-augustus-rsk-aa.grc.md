@@ -4,7 +4,7 @@ title_greek: Ἐπιστολή
 author: Harpocration Medicine and Astrology Letters
 eul_wid: rsk-aa
 eul_aid: rsk
-canonical: "https://eulogikon.org/grc/harpocration-medicine-and-astrology/letter-caesar-augustus"
+canonical: "https://eulogikon.org/works/harpocration-medicine-astrology-letter-caesar-augustus-rsk-aa"
 period: Roman
 dialect: Technical Koine
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Harpocration Medicine and Astrology Letters
 
-**eul_wid:** `rsk-aa` · [HTML page](https://eulogikon.org/grc/harpocration-medicine-and-astrology/letter-caesar-augustus)
+**eul_wid:** `rsk-aa` · [HTML page](https://eulogikon.org/works/harpocration-medicine-astrology-letter-caesar-augustus-rsk-aa)
 
 ## Text
 

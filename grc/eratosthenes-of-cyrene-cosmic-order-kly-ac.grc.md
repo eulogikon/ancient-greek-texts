@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Κόσμου Διατάξεως
 author: Eratosthenes of Cyrene
 eul_wid: kly-ac
 eul_aid: kly
-canonical: "https://eulogikon.org/grc/eratosthenes-of-cyrene/cosmic-order"
+canonical: "https://eulogikon.org/works/eratosthenes-cyrene-cosmic-order-kly-ac"
 period: Hellenistic
 dialect: Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Eratosthenes of Cyrene
 
-**eul_wid:** `kly-ac` · [HTML page](https://eulogikon.org/grc/eratosthenes-of-cyrene/cosmic-order)
+**eul_wid:** `kly-ac` · [HTML page](https://eulogikon.org/works/eratosthenes-cyrene-cosmic-order-kly-ac)
 
 ## Text
 

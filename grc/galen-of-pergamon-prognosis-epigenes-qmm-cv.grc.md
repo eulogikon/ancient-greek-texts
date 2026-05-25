@@ -4,7 +4,7 @@ title_greek: Περὶ προγνώσεως πρὸς Ἐπιγένη
 author: Galen of Pergamon
 eul_wid: qmm-cv
 eul_aid: qmm
-canonical: "https://eulogikon.org/grc/galen-of-pergamon/prognosis-epigenes"
+canonical: "https://eulogikon.org/works/galen-pergamon-prognosis-epigenes-qmm-cv"
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Galen of Pergamon
 
-**eul_wid:** `qmm-cv` · [HTML page](https://eulogikon.org/grc/galen-of-pergamon/prognosis-epigenes)
+**eul_wid:** `qmm-cv` · [HTML page](https://eulogikon.org/works/galen-pergamon-prognosis-epigenes-qmm-cv)
 
 ## Text
 

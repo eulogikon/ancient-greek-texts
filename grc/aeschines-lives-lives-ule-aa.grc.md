@@ -4,7 +4,7 @@ title_greek: Βίοι Αἰσχίνου
 author: Aeschines Lives
 eul_wid: ule-aa
 eul_aid: ule
-canonical: "https://eulogikon.org/grc/aeschines-lives/lives"
+canonical: "https://eulogikon.org/works/aeschines-lives-ule-aa"
 period: Late Antique
 dialect: Koine
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Aeschines Lives
 
-**eul_wid:** `ule-aa` · [HTML page](https://eulogikon.org/grc/aeschines-lives/lives)
+**eul_wid:** `ule-aa` · [HTML page](https://eulogikon.org/works/aeschines-lives-ule-aa)
 
 ## Text
 

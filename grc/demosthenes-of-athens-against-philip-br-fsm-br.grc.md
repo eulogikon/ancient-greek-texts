@@ -4,7 +4,7 @@ title_greek: κατὰ Φιλίππου γ΄
 author: Demosthenes of Athens
 eul_wid: fsm-br
 eul_aid: fsm
-canonical: "https://eulogikon.org/grc/demosthenes-of-athens/against-philip-br"
+canonical: "https://eulogikon.org/works/demosthenes-athens-against-philip-fsm-br"
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Demosthenes of Athens
 
-**eul_wid:** `fsm-br` · [HTML page](https://eulogikon.org/grc/demosthenes-of-athens/against-philip-br)
+**eul_wid:** `fsm-br` · [HTML page](https://eulogikon.org/works/demosthenes-athens-against-philip-fsm-br)
 
 ## Text
 

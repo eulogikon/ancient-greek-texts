@@ -4,7 +4,7 @@ title_greek: Φρίξος
 author: Euripides
 eul_wid: cbm-az
 eul_aid: cbm
-canonical: "https://eulogikon.org/grc/euripides/phrixus"
+canonical: "https://eulogikon.org/works/euripides-phrixus-cbm-az"
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Euripides
 
-**eul_wid:** `cbm-az` · [HTML page](https://eulogikon.org/grc/euripides/phrixus)
+**eul_wid:** `cbm-az` · [HTML page](https://eulogikon.org/works/euripides-phrixus-cbm-az)
 
 ## Text
 
@@ -40,7 +40,7 @@ EURIPIDES, PHRIXUS
 
 ### 5
 
-δότε δ’ εἰς θαλά̣μ̣[ου]ς̣
+δότε δ’ εἰς θαλάμ[ου]ς
 
 ### 5
 
@@ -112,11 +112,11 @@ EURIPIDES, PHRIXUS
 
 ### 13
 
-δμῶε̣ς [
+δμῶες [
 
 ### 15
 
-βασίλεια δες̣
+βασίλεια δες
 
 ### 25
 
@@ -172,11 +172,11 @@ EURIPIDES, PHRIXUS
 
 ### 38
 
-τάδ’ οὖν πατήρ μοι Κά̣δμ̣ο̣[ς
+τάδ’ οὖν πατήρ μοι Κάδμο[ς
 
 ### unknown
 
-ψ̣υ̣χὴν̣ [
+ψυχὴν [
 
 ### 40
 
@@ -196,7 +196,7 @@ EURIPIDES, PHRIXUS
 
 ### 7
 
-γύναι, τ̣[
+γύναι, τ[
 
 ### 45
 
@@ -208,7 +208,7 @@ EURIPIDES, PHRIXUS
 
 ### 9
 
-φεύγειν π̣[ρ]ο̣δοῦσα|νοτ
+φεύγειν π[ρ]οδοῦσα|νοτ
 
 ### 48
 
@@ -220,23 +220,23 @@ EURIPIDES, PHRIXUS
 
 ### 10
 
-γυνὴ γὰρ ἐ[ν] κακ[οῖ]|σ̣ι καὶ ν̣ό̣[σοις πόσει
+γυνὴ γὰρ ἐ[ν] κακ[οῖ]|σι καὶ νό[σοις πόσει
 
 ### 51
 
-ἥδι[σ]τόν ἐ[σ]τι δώ|μ̣ατ’ ἢ̣[ν οἰκῇ καλῶς
+ἥδι[σ]τόν ἐ[σ]τι δώ|ματ’ ἢ[ν οἰκῇ καλῶς
 
 ### 52
 
-ὀργήν τε π̣ρ̣α̣ΰνου[σα] | κ̣α̣ὶ̣ [δυσθυμίας
+ὀργήν τε πραΰνου[σα] | καὶ [δυσθυμίας
 
 ### 53
 
-ψυχὴν με̣θ̣ιστᾶ[ς’· ἡδὺ κἀπάται φίλων·
+ψυχὴν μεθιστᾶ[ς’· ἡδὺ κἀπάται φίλων·
 
 ### 15
 
-τὸ κτῆμα· κα̣ὶ γὰρ α[
+τὸ κτῆμα· καὶ γὰρ α[
 
 ### 55
 
@@ -244,7 +244,7 @@ EURIPIDES, PHRIXUS
 
 ### 56
 
-τέρψιν παρα̣σχο
+τέρψιν παρασχο
 
 ### 57
 
@@ -260,7 +260,7 @@ EURIPIDES, PHRIXUS
 
 ### 60
 
-ἐγὼ δ’ ὁμοίω̣ς̣ ωσα [
+ἐγὼ δ’ ὁμοίως ωσα [
 
 ### 61
 
@@ -400,7 +400,7 @@ EURIPIDES, PHRIXUS
 
 ### 95
 
-[ ]κεκ̣[
+[ ]κεκ[
 
 ### unknown
 
@@ -412,7 +412,7 @@ EURIPIDES, PHRIXUS
 
 ### 98
 
-λ̣α̣[
+λα[
 
 ## License and provenance
 

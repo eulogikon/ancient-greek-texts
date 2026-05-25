@@ -4,7 +4,7 @@ title_greek: Διαφοραὶ μολίβδου καὶ χρυσοπετάλου
 author: Alchemist I
 eul_wid: rrg-aq
 eul_aid: rrg
-canonical: "https://eulogikon.org/grc/alchemist-i/lead-gold"
+canonical: "https://eulogikon.org/works/alchemist-i-lead-gold-rrg-aq"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Alchemist I
 
-**eul_wid:** `rrg-aq` · [HTML page](https://eulogikon.org/grc/alchemist-i/lead-gold)
+**eul_wid:** `rrg-aq` · [HTML page](https://eulogikon.org/works/alchemist-i-lead-gold-rrg-aq)
 
 ## Text
 

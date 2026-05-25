@@ -4,7 +4,7 @@ title_greek: περὶ τῆς ἐκκλησιαστικῆς θεολογίας
 author: Eusebius of Caesarea
 eul_wid: tva-at
 eul_aid: tva
-canonical: "https://eulogikon.org/grc/eusebius-of-caesarea/ecclesiastical-theology"
+canonical: "https://eulogikon.org/works/eusebius-caesarea-ecclesiastical-theology-tva-at"
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Eusebius of Caesarea
 
-**eul_wid:** `tva-at` · [HTML page](https://eulogikon.org/grc/eusebius-of-caesarea/ecclesiastical-theology)
+**eul_wid:** `tva-at` · [HTML page](https://eulogikon.org/works/eusebius-caesarea-ecclesiastical-theology-tva-at)
 
 ## Text
 

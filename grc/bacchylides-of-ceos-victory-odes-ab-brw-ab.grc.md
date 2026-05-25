@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα Νικῶν Ὠδῶν
 author: Bacchylides of Ceos
 eul_wid: brw-ab
 eul_aid: brw
-canonical: "https://eulogikon.org/grc/bacchylides-of-ceos/victory-odes-ab"
+canonical: "https://eulogikon.org/works/bacchylides-ceos-victory-odes-brw-ab"
 period: Classical
 dialect: Doric
 domain: Poetry
@@ -18,25 +18,25 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Bacchylides of Ceos
 
-**eul_wid:** `brw-ab` · [HTML page](https://eulogikon.org/grc/bacchylides-of-ceos/victory-odes-ab)
+**eul_wid:** `brw-ab` · [HTML page](https://eulogikon.org/works/bacchylides-ceos-victory-odes-brw-ab)
 
 ## Text
 
 ### book 1.1
 
-⸤Ποσει⸥δάνιον ὡ⸤σ⸥ ⸤Μαντ⸥ινέες
+Ποσειδάνιον ὡσ Μαντινέες
 
 ### book 1.2
 
-τριό⸤δοντα
+τριόδοντα
 
 ### book 1.3
 
-χαλκοδαιδάλοισιν ἐν⸥ ⸤ἀσπίσι⸥ν
+χαλκοδαιδάλοισιν ἐν ἀσπίσιν
 
 ### book 1.4
 
-φορεῦν⸤τες...⸥ [......]οφευγε[ ]
+φορεῦντες... [......]οφευγε[ ]
 
 ### book 2
 

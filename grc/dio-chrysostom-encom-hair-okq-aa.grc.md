@@ -4,7 +4,7 @@ title_greek: Ἐγκώμιον εἰς τὴν κόμην
 author: Dio Chrysostom of Prusa
 eul_wid: okq-aa
 eul_aid: okq
-canonical: "https://eulogikon.org/grc/dio-chrysostom/encom-hair"
+canonical: "https://eulogikon.org/works/dio-chrysostom-encom-hair-okq-aa"
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dio Chrysostom of Prusa
 
-**eul_wid:** `okq-aa` · [HTML page](https://eulogikon.org/grc/dio-chrysostom/encom-hair)
+**eul_wid:** `okq-aa` · [HTML page](https://eulogikon.org/works/dio-chrysostom-encom-hair-okq-aa)
 
 ## Text
 

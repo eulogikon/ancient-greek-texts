@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα
 author: Chrysermos of Corinth
 eul_wid: gvs-aa
 eul_aid: gvs
-canonical: "https://eulogikon.org/grc/chrysermos-of-corinth/historical-fragments"
+canonical: "https://eulogikon.org/works/chrysermos-corinth-historical-fragments-gvs-aa"
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Chrysermos of Corinth
 
-**eul_wid:** `gvs-aa` · [HTML page](https://eulogikon.org/grc/chrysermos-of-corinth/historical-fragments)
+**eul_wid:** `gvs-aa` · [HTML page](https://eulogikon.org/works/chrysermos-corinth-historical-fragments-gvs-aa)
 
 ## Text
 

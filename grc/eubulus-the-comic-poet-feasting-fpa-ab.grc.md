@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ Εὐωχίας
 author: Eubulus the Comic Poet
 eul_wid: fpa-ab
 eul_aid: fpa
-canonical: "https://eulogikon.org/grc/eubulus-the-comic-poet/feasting"
+canonical: "https://eulogikon.org/works/eubulus-feasting-fpa-ab"
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Eubulus the Comic Poet
 
-**eul_wid:** `fpa-ab` · [HTML page](https://eulogikon.org/grc/eubulus-the-comic-poet/feasting)
+**eul_wid:** `fpa-ab` · [HTML page](https://eulogikon.org/works/eubulus-feasting-fpa-ab)
 
 ## Text
 

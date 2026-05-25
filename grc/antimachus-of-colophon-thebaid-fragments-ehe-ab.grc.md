@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα τῆς Θηβαΐδος
 author: Antimachus of Colophon
 eul_wid: ehe-ab
 eul_aid: ehe
-canonical: "https://eulogikon.org/grc/antimachus-of-colophon/thebaid-fragments"
+canonical: "https://eulogikon.org/works/antimachus-colophon-thebaid-fragments-ehe-ab"
 period: Classical
 dialect: Epic (Homeric) (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Antimachus of Colophon
 
-**eul_wid:** `ehe-ab` · [HTML page](https://eulogikon.org/grc/antimachus-of-colophon/thebaid-fragments)
+**eul_wid:** `ehe-ab` · [HTML page](https://eulogikon.org/works/antimachus-colophon-thebaid-fragments-ehe-ab)
 
 ## Text
 
@@ -32,7 +32,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2.2
 
-τις ἠνεμόεις ὀλίγος λόφος (–⏑⏑ –⏑)
+τις ἠνεμόεις ὀλίγος λόφος (– –)
 
 ### book 3.1
 
@@ -64,7 +64,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 6
 
-Τύδης τ’ Οἰνείδης (⏑⏑ –⏑⏑ –⏑⏑ –⏑)
+Τύδης τ’ Οἰνείδης ( – – –)
 
 ### book 7.1
 
@@ -80,11 +80,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 9
 
-ἀσπασίως τέ σφω’ ἄγεν οἴκαδε (–⏑⏑ –⏑)
+ἀσπασίως τέ σφω’ ἄγεν οἴκαδε (– –)
 
 ### book 10
 
-(–⏑⏑) οἷοι ἔσαν βασιλεύτορες Αἰγιαλήων
+(–) οἷοι ἔσαν βασιλεύτορες Αἰγιαλήων
 
 ### book 11
 
@@ -92,7 +92,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 15
 
-(–⏑⏑ –⏑⏑ –⏑) τὸ καί σφω γείνατο μήτηρ
+(– – –) τὸ καί σφω γείνατο μήτηρ
 
 ### book 19.1
 
@@ -148,11 +148,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 24
 
-(–⏑⏑ –) ἀτὰρ ἀμφίθετον κελέβειον ἑλόντες ἔμπλειον μέλιτος, τὸ ῥά οἱ προφερέστερον ἦεν
+(– –) ἀτὰρ ἀμφίθετον κελέβειον ἑλόντες ἔμπλειον μέλιτος, τὸ ῥά οἱ προφερέστερον ἦεν
 
 ### book 25
 
-(–⏑⏑ –) πλῆσεν δ’ ἄρ’ ἐπιστέψασ〈α〉 δέπαστρον
+(– –) πλῆσεν δ’ ἄρ’ ἐπιστέψασ〈α〉 δέπαστρον
 
 ### book 27.1
 
@@ -260,7 +260,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 43.2
 
-στρατός (– ⏔ – ⏒)
+στρατός (– ⏔ – )
 
 ### book 44.1
 
@@ -284,7 +284,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 46.1
 
-–⏑⏑ Ἡφαίστου
+– Ἡφαίστου
 
 ### book 46.2
 
@@ -296,7 +296,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 47.1
 
-–⏑⏑ –⏑⏑ –⏑⏑ –⏑⏑ οὐδ’ ἔτι δηρόν θυμὸν ἀναπνείων
+– – – – οὐδ’ ἔτι δηρόν θυμὸν ἀναπνείων
 
 ### book 47.2
 
@@ -312,7 +312,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 49
 
-–⏑⏑ –⏑⏑ – βοῦς ὀστρίμου ἐξήλασσεν.
+– – – βοῦς ὀστρίμου ἐξήλασσεν.
 
 ### book 50
 
@@ -368,7 +368,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 66
 
-[ln_1]–⏑⏑ – τότε δὴ χρυσέωι ἐν δέπαϊ Ἠέλιον πόμπευεν ἀγακλυμένη Ἐρύθεια.
+[ln_1]– – τότε δὴ χρυσέωι ἐν δέπαϊ Ἠέλιον πόμπευεν ἀγακλυμένη Ἐρύθεια.
 
 ### book 67
 
@@ -388,7 +388,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 71.2
 
-τις καύηξ δύπτηι ⏑⏑ –⏑⏑ –⏑ [para]ἁλμυρὸν ἐς πέλαγος
+τις καύηξ δύπτηι – – [para]ἁλμυρὸν ἐς πέλαγος
 
 ### book 72
 
@@ -396,7 +396,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 73
 
-†οἷον† τῶν μεγάλων ἕρκτορές εἰσι κακῶν
+οἷον τῶν μεγάλων ἕρκτορές εἰσι κακῶν
 
 ### book 74.1
 
@@ -444,11 +444,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 85
 
-κισσοῦ τε κλυμένοιο καὶ ἀμπελίνης ⏑⏑ –⏑
+κισσοῦ τε κλυμένοιο καὶ ἀμπελίνης –
 
 ### book 86
 
-πολλὰ δὲ μῆλα, τά περ ἀφνήμονας ἄνδρας ⏑ –⏑
+πολλὰ δὲ μῆλα, τά περ ἀφνήμονας ἄνδρας –
 
 ### book 87
 
@@ -484,7 +484,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 93
 
-–⏑⏑ –⏑⏑ –⏑⏑ Τήνου τ’ ὀφιοέσσης
+– – – Τήνου τ’ ὀφιοέσσης
 
 ### book 94
 
@@ -492,7 +492,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 96.1
 
-–⏑⏑ Δήμητρός
+– Δήμητρός
 
 ### book 96.2
 
@@ -504,7 +504,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 99.1
 
-† καδδε † Πύδην
+καδδε Πύδην
 
 ### book 99.2
 
@@ -564,7 +564,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 111
 
-(–⏑⏑ –) ληχμὸν δ’ ἐμπάζεσθαι ἀλεείνων
+(– –) ληχμὸν δ’ ἐμπάζεσθαι ἀλεείνων
 
 ### book 112
 
@@ -592,7 +592,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 116
 
-–⏑⏑ –⏑⏑ –⏑⏑ – Γαιηίδα 〈Φοίβην〉
+– – – – Γαιηίδα 〈Φοίβην〉
 
 ### book 117
 
@@ -604,11 +604,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 119
 
-ἀεὶ φάρεος †χατεύουσιν ἔχων†
+ἀεὶ φάρεος χατεύουσιν ἔχων
 
 ### book 120
 
-†η οἰκέτην θέσκε† κάρηαρ
+η οἰκέτην θέσκε κάρηαρ
 
 ### book 121
 
@@ -644,19 +644,19 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 151.1
 
-[] .[.].α[..]α̣λ̣.[.].[ [–⏑⏑ –⏑⏑ ] ἥ τε καὶ ἐς
+[] .[.].α[..]αλ.[.].[ [– – ] ἥ τε καὶ ἐς
 
 ### book 151.2
 
-Ταλαῶο δ[ ⏑ –⏑ [–⏑⏑ – Στ]ύμφηλον ἀποπρολ[ιποῦσα ⏑ –⏑ [ ἧι ἔνι ναιετ]άασκε· πάροιθε δέ ὁι̣[ ⏑⏑ –⏑[ln_5][–⏑⏑ –⏑⏑ ]σων ἀλαβώδεος ε̣νδο̣[ ⏑ –⏑ [–⏑⏑ – ..]η ἡ μήτηρ θάλαμον δὲ μο̣[λοῦσα [–⏑⏑ –⏑⏑ ]ητι̣ καταδράθοι ὡς τὸ πά̣[ρος
+Ταλαῶο δ[ – [– – Στ]ύμφηλον ἀποπρολ[ιποῦσα – [ ἧι ἔνι ναιετ]άασκε· πάροιθε δέ ὁι[ –[ln_5][– – ]σων ἀλαβώδεος ενδο[ – [– – ..]η ἡ μήτηρ θάλαμον δὲ μο[λοῦσα [– – ]ητι καταδράθοι ὡς τὸ πά[ρος
 
 ### book 151.3
 
-περ [–⏑⏑ –⏑⏑ ]αι̣σι
+περ [– – ]αισι
 
 ### book 151.4
 
-πελέσκετο ἔργου ον̣[ –⏑
+πελέσκετο ἔργου ον[ –
 
 ### book 152
 
@@ -688,15 +688,15 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 158.1
 
-πιπὼ] π̣αιπαλέη τῆι
+πιπὼ] παιπαλέη τῆι
 
 ### book 158.2
 
-τε πτερὰ [–⏑⏑] α̣σ̣ι̣
+τε πτερὰ [–] ασι
 
 ### book 159
 
-[ ]εφανη.[ [ ]π̣τερὰ ἠιωροῦντο .[ [ ] ἐνεσείσατο δέ σφιν δε [...].α̣.[
+[ ]εφανη.[ [ ]πτερὰ ἠιωροῦντο .[ [ ] ἐνεσείσατο δέ σφιν δε [...].α.[
 
 ## License and provenance
 

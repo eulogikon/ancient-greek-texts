@@ -4,7 +4,7 @@ title_greek: Ἀσκληπιῷ εὖ φρονεῖν
 author: "Hermetica "
 eul_wid: oqk-af
 eul_aid: oqk
-canonical: "https://eulogikon.org/grc/hermetica/to-asclepius-af"
+canonical: "https://eulogikon.org/works/hermetica-to-asclepius-oqk-af"
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Hermetica 
 
-**eul_wid:** `oqk-af` · [HTML page](https://eulogikon.org/grc/hermetica/to-asclepius-af)
+**eul_wid:** `oqk-af` · [HTML page](https://eulogikon.org/works/hermetica-to-asclepius-oqk-af)
 
 ## Text
 

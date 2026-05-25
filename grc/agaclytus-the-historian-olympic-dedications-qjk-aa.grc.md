@@ -4,7 +4,7 @@ title_greek: Ἀπόσπασμα
 author: Agaclytus the Historian
 eul_wid: qjk-aa
 eul_aid: qjk
-canonical: "https://eulogikon.org/grc/agaclytus-the-historian/olympic-dedications"
+canonical: "https://eulogikon.org/works/agaclytus-olympic-dedications-qjk-aa"
 period: Roman
 dialect: Koine
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Agaclytus the Historian
 
-**eul_wid:** `qjk-aa` · [HTML page](https://eulogikon.org/grc/agaclytus-the-historian/olympic-dedications)
+**eul_wid:** `qjk-aa` · [HTML page](https://eulogikon.org/works/agaclytus-olympic-dedications-qjk-aa)
 
 ## Text
 

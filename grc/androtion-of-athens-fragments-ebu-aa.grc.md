@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα περὶ τῆς Ἀθηναίων Ἱστ
 author: Androtion Atheniensis
 eul_wid: ebu-aa
 eul_aid: ebu
-canonical: "https://eulogikon.org/grc/androtion-of-athens/fragments"
+canonical: "https://eulogikon.org/works/androtion-athens-fragments-ebu-aa"
 period: Classical
 dialect: Attic
 domain: History
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Androtion Atheniensis
 
-**eul_wid:** `ebu-aa` · [HTML page](https://eulogikon.org/grc/androtion-of-athens/fragments)
+**eul_wid:** `ebu-aa` · [HTML page](https://eulogikon.org/works/androtion-athens-fragments-ebu-aa)
 
 ## Text
 

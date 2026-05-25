@@ -4,7 +4,7 @@ title_greek: Σχόλια εἰς τὸ πρῶτον βιβλίον τῶν Ἀ
 author: Anonymous Commentary on Aristotle
 eul_wid: xum-aa
 eul_aid: xum
-canonical: "https://eulogikon.org/grc/anonymous-commentary-on-aristotle-posterior-analytics-1/commentary"
+canonical: "https://eulogikon.org/works/anon-comm-aristotle-first-book-posterior-analytics-xum-aa"
 period: Uncertain
 license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ---
@@ -15,7 +15,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Anonymous Commentary on Aristotle
 
-**eul_wid:** `xum-aa` · [HTML page](https://eulogikon.org/grc/anonymous-commentary-on-aristotle-posterior-analytics-1/commentary)
+**eul_wid:** `xum-aa` · [HTML page](https://eulogikon.org/works/anon-comm-aristotle-first-book-posterior-analytics-xum-aa)
 
 ## Text
 
