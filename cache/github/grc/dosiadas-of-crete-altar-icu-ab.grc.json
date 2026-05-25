@@ -1,0 +1,215 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "icu-ab",
+  "eul_aid": "icu",
+  "author_slug": "dosiadas-of-crete",
+  "work_slug": "altar",
+  "url_slug": "dosiadas-of-crete-altar-icu-ab",
+  "author": {
+    "english": "Dosiadas of Crete",
+    "ancient_greek": "Δωσιάδας ὁ Κρής"
+  },
+  "title": {
+    "english": "Altar",
+    "ancient_greek": "Βωμός"
+  },
+  "seo": {
+    "browser_title": "The Altar Pattern Poem by Dosiadas of Crete on Eulogikon",
+    "meta_title": "The Classical Altar by Dosiadas of Crete in Ancient Greek",
+    "meta_description": "The Altar is a pattern poem by Dosiadas of Crete shaped as its subject. A technopaegnion of visual form. Read in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric (frg)",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Altar</strong> is a short pattern poem, or <strong>technopaegnion</strong>, by Dosiadas of Crete. Its ten lines of varying length are arranged on the page to form the visual shape of an altar, making it a canonical example of the Hellenistic tradition of <strong>carmina figurata</strong>, where visual arrangement is integral to meaning. The text is a dedicatory epigram spoken in the voice of the altar itself, declaring it was dedicated to Apollo by a &quot;son of Cleobulus,&quot; a likely literary fiction alluding to the sage known for riddles, which aligns with the poem&#x27;s playful and self-referential nature. Primary themes include the fusion of literary text and visual design, religious dedication, and poetic virtuosity. The poem survives complete within the manuscript tradition of the <strong>Greek Anthology</strong>, specifically in its fifteenth book dedicated to miscellaneous epigrams and pattern poems. As a significant work of Alexandrian literary experimentation, Dosiadas&#x27;s <strong>Altar</strong> demonstrates the period&#x27;s interest in formal innovation and significantly influenced later European traditions of shaped verse.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "unit_1",
+      "text": "Εἱμαρσένος με στήτας πόσις Μέροψ δίσαβος τεῦξ’, οὐ σποδεύνας ἶνις Ἐμπούσας, μόρος Τεύκροιο βούτα καὶ κυνὸς τεκνώματος, Χρύσας δ’ ἀΐτας, ἆμος ἑψάνδρα τὸν γυιόχαλκον οὖρον ἔρραισεν, [para]ὃν ὡπάτωρ δίσευνος [para]μόγησε ματρόριπτος. [para]Ἐμὸν δὲ τεῦγμ’ ἀθρήσας Θεοκρίτοιο κτάντας Τριεσπέροιο καύστας θώυξεν αἴν’ ἰύξας, χάλεψε γάρ νιν ἰῷ σύργαστρος ἐκδυγήρας· τὸν δ’ αἰλινεῦντ’ ἐν ἀμφικλύστῳ [para]Πανός τε ματρὸς εὐνέτας, φὼρ δίζῳος, ἶνίς τ’ ἀνδροβρῶτος, Ἰλοραιστᾶν ἦρ’ ἀρδίων ἐς Τευκρίδ’ ἄγαγον τρίπορθον.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "icu-aa",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "dosiadas-of-crete-epigram-icu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dosiadas-of-crete/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dosiadas-of-crete-epigram-icu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dosiadas-of-crete-epigram-icu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dosiadas-of-crete-epigram-icu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dosiadas-of-crete-epigram-icu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dosiadas-of-crete/epigram.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "mje-aa",
+      "title": {
+        "english": "Battle of Frogs and Mice, Byzantine Prosody",
+        "ancient_greek": "Βατραχομυομαχία"
+      },
+      "url_slug": "parodist-anon-frogs-mice-aa-mje-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/parodist-anon/frogs-mice-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-aa-mje-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-aa-mje-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-aa-mje-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-aa-mje-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon/frogs-mice-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "vsg-aa",
+      "title": {
+        "english": "Ecclesiastical History",
+        "ancient_greek": "Ἐκκλησιαστικὴ Ἱστορία"
+      },
+      "url_slug": "anonymous-poet-history-vsg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-poet/history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-poet-history-vsg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-poet-history-vsg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-poet-history-vsg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-poet-history-vsg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-poet/history.epub"
+      }
+    },
+    {
+      "eul_wid": "jni-ac",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "hexameter-papyri-anonymous-epigrams-jni-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hexameter-papyri-anonymous/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-epigrams-jni-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-epigrams-jni-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-epigrams-jni-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-epigrams-jni-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "cyo-aa",
+      "title": {
+        "english": "Fragments on Apollo and Bacchus",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀπόλλωνος καὶ Βάκχου"
+      },
+      "url_slug": "lyrica-adespota-apollo-bacchus-cyo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lyrica-adespota/apollo-bacchus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyrica-adespota-apollo-bacchus-cyo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyrica-adespota-apollo-bacchus-cyo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyrica-adespota-apollo-bacchus-cyo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyrica-adespota-apollo-bacchus-cyo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyrica-adespota/apollo-bacchus.epub"
+      }
+    },
+    {
+      "eul_wid": "ehe-ac",
+      "title": {
+        "english": "Fragments on Thebes and Titans",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θηβῶν καὶ Τιτάνων"
+      },
+      "url_slug": "antimachus-of-colophon-thebes-titans-ehe-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/antimachus-of-colophon/thebes-titans",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon-thebes-titans-ehe-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon-thebes-titans-ehe-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon-thebes-titans-ehe-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon-thebes-titans-ehe-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon/thebes-titans.epub"
+      }
+    },
+    {
+      "eul_wid": "upu-ba",
+      "title": {
+        "english": "Hymn 30 To Earth",
+        "ancient_greek": "Ὕμνος εἰς Γῆν"
+      },
+      "url_slug": "homeric-hymns-anonymous-earth-upu-ba",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/earth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-earth-upu-ba.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-earth-upu-ba.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-earth-upu-ba.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-earth-upu-ba.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/earth.epub"
+      }
+    },
+    {
+      "eul_wid": "iha-ab",
+      "title": {
+        "english": "Orphic and Mythological Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hermesianax-of-colophon-orphic-mythological-fragments-iha-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermesianax-of-colophon/orphic-mythological-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon-orphic-mythological-fragments-iha-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon-orphic-mythological-fragments-iha-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon-orphic-mythological-fragments-iha-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon-orphic-mythological-fragments-iha-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/orphic-mythological-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "brw-ak",
+      "title": {
+        "english": "encoms",
+        "ancient_greek": "Ἐγκώμια"
+      },
+      "url_slug": "bacchylides-of-ceos-encoms-brw-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/encoms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-encoms-brw-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-encoms-brw-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-encoms-brw-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-encoms-brw-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/encoms.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/dosiadas-of-crete/altar",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dosiadas-of-crete-altar-icu-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dosiadas-of-crete-altar-icu-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dosiadas-of-crete-altar-icu-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dosiadas-of-crete-altar-icu-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dosiadas-of-crete/altar.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

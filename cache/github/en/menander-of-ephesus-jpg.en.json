@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "jpg",
+  "auth_slug": "menander-of-ephesus",
+  "name": {
+    "english": "Menander of Ephesus",
+    "ancient_greek": "Μένανδρος ὁ Ἐφέσιος"
+  },
+  "seo_h1": "Menander of Ephesus and the Chronicles of Tyrian Kings",
+  "seo": {
+    "browser_title": "Menander of Ephesus Ancient Greek Works on Eulogikon Archive",
+    "meta_title": "Menander of Ephesus Ancient Greek Historical Works",
+    "meta_description": "Menander of Ephesus was a Hellenistic historian of 3rd-2nd century BCE. His historical fragments are preserved here. Free to download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Menander of Ephesus was a Hellenistic historian of the 3rd–2nd century BCE. He is known solely through citations by the Jewish historian Josephus, who identifies him as the translator of the Tyrian archives from Phoenician into Greek. This indicates Menander worked with official records in Tyre, though his name associates him with Ephesus.</p>\n<p class=\"research-text\">His only known work is The History of Tyre, also called the Tyrian Annals, which is now lost. Surviving fragments, preserved by Josephus, contained a chronological king list of Tyre and recorded events such as the building of the Temple in Jerusalem during the reign of King Hiram, a contemporary of Solomon.</p>\n<p class=\"research-text\">Menander’s significance lies in his role as an external source for Phoenician history and chronology. Josephus employed his work to corroborate biblical chronology, presenting Menander as a neutral Greek authority validating Hebrew scripture. He represents the Hellenistic practice of preserving local Near Eastern histories for a Greek audience.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "jpg-aa",
+      "title": {
+        "english": "Chronicles of Tyrian Kings",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "menander-of-ephesus-chronicles-tyrian-jpg-aa",
+      "passages": 11,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-ephesus/chronicles-tyrian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-ephesus-chronicles-tyrian-jpg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-ephesus-chronicles-tyrian-jpg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-ephesus-chronicles-tyrian-jpg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-ephesus-chronicles-tyrian-jpg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-ephesus/chronicles-tyrian.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/menander-of-ephesus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/menander-of-ephesus-jpg.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/menander-of-ephesus-jpg.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/menander-of-ephesus-jpg.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/menander-of-ephesus-jpg.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

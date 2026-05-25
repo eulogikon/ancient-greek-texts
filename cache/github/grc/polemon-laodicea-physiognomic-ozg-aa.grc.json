@@ -1,0 +1,221 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ozg-aa",
+  "eul_aid": "ozg",
+  "author_slug": "polemon-laodicea",
+  "work_slug": "physiognomic",
+  "url_slug": "polemon-laodicea-physiognomic-ozg-aa",
+  "author": {
+    "english": "Polemon Laodicea",
+    "ancient_greek": "Πολέμων ὁ Λαοδικεύς"
+  },
+  "title": {
+    "english": "Physiognomic Fragment",
+    "ancient_greek": "Φυσιογνωμονικὸν Ἀπόσπασμα"
+  },
+  "seo": {
+    "browser_title": "Physiognomic Fragment by Polemon Laodicea on Eulogikon",
+    "meta_title": "Physiognomic Fragment by Polemon Laodicea in Greek",
+    "meta_description": "Polemon of Laodicea examines physical features to reveal character traits in this fragmentary physiognomic treatise Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Sophist",
+      "href": "/affiliations/sophist"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Physiognomic Fragment is a surviving excerpt from a lost treatise by the Greek orator Polemon of Laodicea, who flourished in the early second century CE. It belongs to the ancient discipline of physiognomics, which sought to deduce an individual&#x27;s character and moral disposition from their physical appearance. Polemon&#x27;s work provides detailed correlations between specific bodily features—such as the eyes, eyebrows, nose, and overall posture—and corresponding ethical qualities, presenting these observations as a practical system for character assessment.</p>\n<p class=\"research-text\">The original Greek treatise is no longer extant. The primary text survives through a circuitous transmission: a ninth- or tenth-century Arabic adaptation, which was itself translated from a lost Syriac version of the Greek original. Additional excerpts are preserved in later Roman compilations, notably the fourth-century physiognomic handbook of Adamantius, who cites Polemon as a major source. This fragmentary preservation obscures the complete structure and full scope of the original work.</p>\n<p class=\"research-text\">Polemon was a prominent sophist of the Second Sophistic, a period marked by a revival of Greek rhetorical culture under the Roman Empire. His physiognomic writings are interpreted by modern scholars as a professional tool for orators, offering a method to construct convincing character sketches for use in judicial or ceremonial oratory. The fragment exemplifies widespread ancient beliefs that the body served as a legible indicator of the soul and underscores Polemon&#x27;s considerable influence on the physiognomic tradition, which extended from late antiquity into the medieval Islamic world.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "255.(14)",
+      "text": "Ὥσπερ ἐν ὀφθαλμῷ καὶ ὀφρύων καὶ ῥινὸς σχή ματος χαρακτῆρες τινὲς ἐγκάθηνται τοῦ τῆς ψυχῆς ἰδιώματος· ὀφθαλμοὶ γάρ φησιν ὁ Πολέμων “ὑγροὶ λάμποντες ὡς λιβάδες, ἤθη χρηστὰ ἐκφαίνουσιν.”",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ozg-ab",
+      "title": {
+        "english": "Declamations",
+        "ancient_greek": "Μελέται"
+      },
+      "url_slug": "polemon-laodicea-declamations-ozg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/polemon-laodicea/declamations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-declamations-ozg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-declamations-ozg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-declamations-ozg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-declamations-ozg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea/declamations.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "udm-af",
+      "title": {
+        "english": "Book I of Homeric Questions Version B",
+        "ancient_greek": "Βιβλίον Αʹ Ὁμηρικῶν ζητημάτων ἔκδοσις Β"
+      },
+      "url_slug": "porphyry-of-tyre-homeric-questions-b-udm-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/homeric-questions-b",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-b-udm-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-b-udm-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-b-udm-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-b-udm-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-b.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-fh",
+      "title": {
+        "english": "Caesar",
+        "ancient_greek": "Καῖσαρ"
+      },
+      "url_slug": "plutarch-of-chaeronea-caesar-okg-fh",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/caesar",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-caesar-okg-fh.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-caesar-okg-fh.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-caesar-okg-fh.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-caesar-okg-fh.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/caesar.epub"
+      }
+    },
+    {
+      "eul_wid": "ojw-ad",
+      "title": {
+        "english": "Gnomology (Short)",
+        "ancient_greek": "Γνωμολόγιον Ἐπικτήτου"
+      },
+      "url_slug": "epictetus-gnomology-ad-ojw-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/epictetus/gnomology-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ad-ojw-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ad-ojw-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ad-ojw-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ad-ojw-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/gnomology-ad.epub"
+      }
+    },
+    {
+      "eul_wid": "ffk-bl",
+      "title": {
+        "english": "Minos",
+        "ancient_greek": "Μίνως"
+      },
+      "url_slug": "plato-minos-ffk-bl",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/minos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-minos-ffk-bl.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-minos-ffk-bl.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-minos-ffk-bl.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-minos-ffk-bl.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/minos.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-dp",
+      "title": {
+        "english": "On Tranquility",
+        "ancient_greek": "Περὶ εὐθυμίας"
+      },
+      "url_slug": "plutarch-of-chaeronea-tranquility-okg-dp",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/tranquility",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-tranquility-okg-dp.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-tranquility-okg-dp.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-tranquility-okg-dp.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-tranquility-okg-dp.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/tranquility.epub"
+      }
+    },
+    {
+      "eul_wid": "pxc-aa",
+      "title": {
+        "english": "Sentences of Sextus",
+        "ancient_greek": "Γνῶμαι Σέξτου"
+      },
+      "url_slug": "sententiae-sexti-sentences-pxc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sententiae-sexti/sentences",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sententiae-sexti-sentences-pxc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sententiae-sexti-sentences-pxc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sententiae-sexti-sentences-pxc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sententiae-sexti-sentences-pxc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sententiae-sexti/sentences.epub"
+      }
+    },
+    {
+      "eul_wid": "eow-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "theagenes-of-rhegium-testimonies-eow-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theagenes-of-rhegium/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theagenes-of-rhegium-testimonies-eow-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theagenes-of-rhegium-testimonies-eow-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theagenes-of-rhegium-testimonies-eow-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theagenes-of-rhegium-testimonies-eow-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theagenes-of-rhegium/testimonies.epub"
+      }
+    },
+    {
+      "eul_wid": "ccg-ab",
+      "title": {
+        "english": "Testimonies 2",
+        "ancient_greek": "Μαρτυρίαι Β'"
+      },
+      "url_slug": "ion-of-chios-testimonies-2-ccg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/ion-of-chios/testimonies-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-testimonies-2-ccg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-testimonies-2-ccg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-testimonies-2-ccg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-testimonies-2-ccg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/testimonies-2.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/polemon-laodicea/physiognomic",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-physiognomic-ozg-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-physiognomic-ozg-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-physiognomic-ozg-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-physiognomic-ozg-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea/physiognomic.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

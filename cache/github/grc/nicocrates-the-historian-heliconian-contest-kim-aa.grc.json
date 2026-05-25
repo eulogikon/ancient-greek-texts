@@ -1,0 +1,219 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "kim-aa",
+  "eul_aid": "kim",
+  "author_slug": "nicocrates-the-historian",
+  "work_slug": "heliconian-contest",
+  "url_slug": "nicocrates-the-historian-heliconian-contest-kim-aa",
+  "author": {
+    "english": "Nicocrates the Historian",
+    "ancient_greek": "Νικοκράτης ὁ ἱστορικός"
+  },
+  "title": {
+    "english": "On the Heliconian Contest",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "On the Heliconian Contest by Nicocrates on Eulogikon",
+    "meta_title": "Ancient On the Heliconian Contest by Nicocrates in Greek",
+    "meta_description": "Fragments of Nicocrates the Historian's work on the Heliconian Contest. A historical prose text. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The work <strong>On the Heliconian Contest</strong>, attributed to the otherwise unknown historian Nicocrates, is preserved only by its title and a handful of fragments. Its subject was likely a musical or poetic competition held at the Valley of the Muses on Mount Helicon in Boeotia, a major cult center for the Muses and the site of the <strong>Mouseia</strong> festival. An alternative title, <strong>Extracts</strong>, indicates that the surviving remnants are quotations preserved by later authors. Based on its title and the genre of local history, the work probably addressed the religious cult and sanctuaries of the Muses, the history and conduct of Greek musical and poetic competitions, and Boeotian topography and festival rituals. The work is known solely from an entry in the tenth-century Byzantine encyclopedia, the <strong>Suda</strong>. The few surviving passages represent fragments quoted in lost intermediary sources, with no independent manuscript tradition. Its primary importance lies as a trace of lost Boeotian local history, serving as a source for the reception of the Heliconian festival and exemplifying the antiquarian interests of Hellenistic historians.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t",
+      "text": "ΠΕΡΙ ΤΟΥ ΕΝ ΕΛΙΚΩΝΙ ΑΓΩΝΟΣ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Schol. ad Hom. Il. ν, 21: Ἐν Αἰγαῖς τῆς Εὐβοίας παράδοξα πολλὰ γίνεται. Κατὰ γὰρ τὰς ἐτησίους τοῦ Διονύσου τελετὰς, ὀργιαζουσῶν τῶν μυστίδων γυναικῶν, βλαστάνουσιν αἱ καλούμεναι ἐφήμεροι ἄμπε λοι, αἵτινες ἕωθεν μὲν τὰς τῶν καρπῶν ἐκβολὰς ποιοῦνται, εἶτ’ αὖ πάλιν βότρυας βαρυτάτους (καὶ τοὺς) πρὸ μεσημβρίας πεπαίνουσι, ὥστε πρὸς τὴν ἑσπέραν δρεπόμενοι ἄκρατον χορηγεῖν δαψιλὲς ταῖς ἀπὸ τοῦ χοροῦ παρθένοις. Οὐδεμία δὲ ἔνδεια γίνεται ὑπ’ αὐτοῦ κατ’ ἐχομένην τὴν ἡμέραν, ἀλλ’ ὁσάκις ἀναλίσκεται, τοσαυτάκις δαψιλεύεται. Νικοκράτης δὲ ἐν τῷ Περὶ τοῦ ἐν Ἑλικῶνι ἀγῶνος οὐ ταύτας φησὶ τὰς Αἰγὰς λέγειν τὸν ποιητὴν, ἀλλ’ ἑτέραν τινὰ νῆσον ἐν τῷ Αἰγαίῳ πελάγει, περὶ ἣν καὶ παραδοξολογία τις εἶναι μυθεύεται· τοὺς γὰρ προσορμίζοντας τῇ νήσῳ νυκτὸς ἅπαντας ἀφανεῖς γίνεσθαι, διὸ μηδὲ προσπελάζειν τινά.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Schol. Apoll. Rh. I, 831: Νικοκράτης δέ φησιν, ὅτι ἀπὸ Αἰγέως κατακρημνίσαντος ἑαυτὸν ἀπὸ τῆς ἀκροπόλεως εἰς τὴν θάλασσαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Stephan. Byz. v. Βοιωτία: Νικοκράτης δέ φησιν ὅτι Ποσειδῶνος καὶ Ἄρνης ἦν παῖς (sc. Βοιωτός).",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "ela-aa",
+      "title": {
+        "english": "Arcadian Historical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "araethus-the-historian-historical-fragments-ela-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/araethus-the-historian/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/araethus-the-historian-historical-fragments-ela-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/araethus-the-historian-historical-fragments-ela-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/araethus-the-historian-historical-fragments-ela-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/araethus-the-historian-historical-fragments-ela-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/araethus-the-historian/historical-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "fbe-ac",
+      "title": {
+        "english": "Fragments on Harmonia",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἁρμονίας"
+      },
+      "url_slug": "ephorus-of-cyme-harmonia-fbe-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/ephorus-of-cyme/harmonia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme-harmonia-fbe-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme-harmonia-fbe-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme-harmonia-fbe-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme-harmonia-fbe-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme/harmonia.epub"
+      }
+    },
+    {
+      "eul_wid": "otc-ab",
+      "title": {
+        "english": "Fragments on the Trojan War",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Τρωικοῦ Πολέμου"
+      },
+      "url_slug": "dictys-cretensis-trojan-war-otc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/dictys-cretensis/trojan-war",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dictys-cretensis-trojan-war-otc-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dictys-cretensis-trojan-war-otc-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dictys-cretensis-trojan-war-otc-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dictys-cretensis-trojan-war-otc-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dictys-cretensis/trojan-war.epub"
+      }
+    },
+    {
+      "eul_wid": "kdm-ab",
+      "title": {
+        "english": "On Table Manners and Offerings",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "dioscurides-3rd-century-bce-table-manners-offerings-kdm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/dioscurides-3rd-century-bce/table-manners-offerings",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce-table-manners-offerings-kdm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce-table-manners-offerings-kdm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce-table-manners-offerings-kdm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce-table-manners-offerings-kdm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce/table-manners-offerings.epub"
+      }
+    },
+    {
+      "eul_wid": "rhq-ac",
+      "title": {
+        "english": "Roman Histories, Constantinian Excerpts with Dion's Words",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-roman-histories-ac-rhq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-roman-histories-ac-rhq-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-roman-histories-ac-rhq-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-roman-histories-ac-rhq-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-roman-histories-ac-rhq-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "rhq-ah",
+      "title": {
+        "english": "Roman Histories, Version 2 in Volume 1",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-roman-histories-v2-v1-rhq-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-v2-v1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-roman-histories-v2-v1-rhq-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-roman-histories-v2-v1-rhq-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-roman-histories-v2-v1-rhq-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-roman-histories-v2-v1-rhq-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-v2-v1.epub"
+      }
+    },
+    {
+      "eul_wid": "pdc-ar",
+      "title": {
+        "english": "Syriac",
+        "ancient_greek": "Συριακή"
+      },
+      "url_slug": "appian-of-alexandria-syriac-pdc-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/syriac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-syriac-pdc-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-syriac-pdc-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-syriac-pdc-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-syriac-pdc-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/syriac.epub"
+      }
+    },
+    {
+      "eul_wid": "ezq-ae",
+      "title": {
+        "english": "Ways and Means",
+        "ancient_greek": "Πόροι ἢ Περὶ Προσόδων"
+      },
+      "url_slug": "xenophon-of-athens-ways-means-ezq-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/ways-means",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-ways-means-ezq-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-ways-means-ezq-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-ways-means-ezq-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-ways-means-ezq-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/ways-means.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/nicocrates-the-historian/heliconian-contest",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicocrates-the-historian-heliconian-contest-kim-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicocrates-the-historian-heliconian-contest-kim-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicocrates-the-historian-heliconian-contest-kim-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicocrates-the-historian-heliconian-contest-kim-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicocrates-the-historian/heliconian-contest.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

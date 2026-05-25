@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ilq",
+  "auth_slug": "hieronymus-of-rhodes",
+  "name": {
+    "english": "Hieronymus of Rhodes",
+    "ancient_greek": "Ἱερώνυμος ὁ Ῥόδιος"
+  },
+  "seo_h1": "Hieronymus of Rhodes on the Supreme Good",
+  "seo": {
+    "browser_title": "Hieronymus of Rhodes on Eulogikon Greek Text Archive",
+    "meta_title": "Hieronymus of Rhodes Ancient Greek Philosophical Works",
+    "meta_description": "Hieronymus of Rhodes, 3rd century BCE Peripatetic philosopher. Aristotelian tradition treatises. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ φιλοσοφική",
+      "english": "Philosophical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Peripatetic",
+      "href": "/affiliations/peripatetic"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Hieronymus of Rhodes was a philosopher of the 3rd century BCE during the Hellenistic period. A member of the Peripatetic school founded by Aristotle, he was a contemporary of figures like Arcesilaus and Lyco, with the height of his activity falling around the 270s and 260s BCE.</p>\n<p class=\"research-text\">None of his writings survive intact; they are known only through fragments and references in later authors. Modern scholarship indicates he wrote on a range of subjects. One significant work was <strong>On Suspense of Judgement</strong>, which engaged with major epistemological debates of his time. He also wrote on ethical topics, with a work titled <strong>On Lack of Anger</strong>.</p>\n<p class=\"research-text\">His philosophical views reflect the influence of contemporary debates. He defined the highest good as &quot;freedom from disturbance and pain,&quot; a view that marks a notable shift from Aristotle’s teachings and aligns more closely with other Hellenistic schools of thought. Some fragments also suggest he wrote biographical or historical notes.</p>\n<p class=\"research-text\">Hieronymus is historically important for illustrating the diversity and adaptation within the Peripatetic school after Aristotle. His engagement with Skeptic and Epicurean ideas demonstrates the active cross-pollination between philosophical traditions in the Hellenistic era. The surviving fragments of his work provide crucial evidence for this dynamic period in ancient thought.</p>\n</div>",
+  "affiliation_label": "Peripatetic",
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ilq-aa",
+      "title": {
+        "english": "On the Supreme Good and Happiness",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hieronymus-of-rhodes-supreme-good-happiness-ilq-aa",
+      "passages": 36,
+      "links": {
+        "html": "https://eulogikon.org/grc/hieronymus-of-rhodes/supreme-good-happiness",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hieronymus-of-rhodes-supreme-good-happiness-ilq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hieronymus-of-rhodes-supreme-good-happiness-ilq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hieronymus-of-rhodes-supreme-good-happiness-ilq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hieronymus-of-rhodes-supreme-good-happiness-ilq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hieronymus-of-rhodes/supreme-good-happiness.epub"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "lue",
+      "name": {
+        "english": "Agatharchides of Cnidus",
+        "ancient_greek": "Ἀγαθαρχίδης ὁ Κνίδιος"
+      },
+      "work_count": 4,
+      "links": {
+        "html": "https://eulogikon.org/en/agatharchides-of-cnidus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agatharchides-of-cnidus-lue.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agatharchides-of-cnidus-lue.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agatharchides-of-cnidus-lue.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agatharchides-of-cnidus-lue.en.json"
+      }
+    },
+    {
+      "eul_aid": "ree",
+      "name": {
+        "english": "Alexander of Aphrodisias II",
+        "ancient_greek": "Ἀλέξανδρος ὁ Ἀφροδισιεύς"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/alexander-of-aphrodisias-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-aphrodisias-ii-ree.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-aphrodisias-ii-ree.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-aphrodisias-ii-ree.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-aphrodisias-ii-ree.en.json"
+      }
+    },
+    {
+      "eul_aid": "nbq",
+      "name": {
+        "english": "Andronicus of Rhodes",
+        "ancient_greek": "Ἀνδρόνικος ὁ Ῥόδιος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/andronicus-of-rhodes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/andronicus-of-rhodes-nbq.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/andronicus-of-rhodes-nbq.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/andronicus-of-rhodes-nbq.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/andronicus-of-rhodes-nbq.en.json"
+      }
+    },
+    {
+      "eul_aid": "koq",
+      "name": {
+        "english": "Aristo of Ceos",
+        "ancient_greek": "Ἀρίστων ὁ Κεῖος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/aristo-of-ceos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristo-of-ceos-koq.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristo-of-ceos-koq.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristo-of-ceos-koq.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristo-of-ceos-koq.en.json"
+      }
+    },
+    {
+      "eul_aid": "lbi",
+      "name": {
+        "english": "Aristobulus the Jewish Philosopher",
+        "ancient_greek": "Ἀριστόβουλος ὁ Ἰουδαῖος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/aristobulus-the-jewish-philosopher",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristobulus-the-jewish-philosopher-lbi.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristobulus-the-jewish-philosopher-lbi.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristobulus-the-jewish-philosopher-lbi.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristobulus-the-jewish-philosopher-lbi.en.json"
+      }
+    },
+    {
+      "eul_aid": "lfo",
+      "name": {
+        "english": "Aristocles of Messene",
+        "ancient_greek": "Ἀριστοκλῆς ὁ Μεσσήνιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/aristocles-of-messene",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristocles-of-messene-lfo.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristocles-of-messene-lfo.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristocles-of-messene-lfo.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristocles-of-messene-lfo.en.json"
+      }
+    },
+    {
+      "eul_aid": "clc",
+      "name": {
+        "english": "Aristombrotus the Philosopher",
+        "ancient_greek": "Ἀριστόμβροτος ὁ φιλόσοφος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/aristombrotus-the-philosopher",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristombrotus-the-philosopher-clc.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristombrotus-the-philosopher-clc.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristombrotus-the-philosopher-clc.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristombrotus-the-philosopher-clc.en.json"
+      }
+    },
+    {
+      "eul_aid": "kpa",
+      "name": {
+        "english": "Ariston of Ceos",
+        "ancient_greek": "Ἀρίστων ὁ Κεῖος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/ariston-of-ceos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-ceos-kpa.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-ceos-kpa.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-ceos-kpa.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-ceos-kpa.en.json"
+      }
+    },
+    {
+      "eul_aid": "pms",
+      "name": {
+        "english": "Aspasius the Peripatetic",
+        "ancient_greek": "Ἀσπάσιος ὁ Περιπατητικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/aspasius-the-peripatetic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aspasius-the-peripatetic-pms.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aspasius-the-peripatetic-pms.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aspasius-the-peripatetic-pms.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aspasius-the-peripatetic-pms.en.json"
+      }
+    },
+    {
+      "eul_aid": "naw",
+      "name": {
+        "english": "Boethus of Sidon",
+        "ancient_greek": "Βοηθὸς ὁ Σιδώνιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/boethus-of-sidon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/boethus-of-sidon-naw.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/boethus-of-sidon-naw.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/boethus-of-sidon-naw.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/boethus-of-sidon-naw.en.json"
+      }
+    },
+    {
+      "eul_aid": "gww",
+      "name": {
+        "english": "Chamaeleon of Heraclea Pontica",
+        "ancient_greek": "Χαμαιλέων ὁ Ἡρακλεώτης"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/chamaeleon-of-heraclea-pontica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chamaeleon-of-heraclea-pontica-gww.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chamaeleon-of-heraclea-pontica-gww.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chamaeleon-of-heraclea-pontica-gww.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chamaeleon-of-heraclea-pontica-gww.en.json"
+      }
+    },
+    {
+      "eul_aid": "hki",
+      "name": {
+        "english": "Clearchus of Soli",
+        "ancient_greek": "Κλέαρχος ὁ Σολεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/clearchus-of-soli",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clearchus-of-soli-hki.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clearchus-of-soli-hki.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clearchus-of-soli-hki.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clearchus-of-soli-hki.en.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/hieronymus-of-rhodes",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hieronymus-of-rhodes-ilq.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hieronymus-of-rhodes-ilq.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hieronymus-of-rhodes-ilq.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hieronymus-of-rhodes-ilq.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

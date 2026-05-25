@@ -1,0 +1,240 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "vls",
+  "auth_slug": "sophistical-refutations-anonymous",
+  "name": {
+    "english": "Sophistical Refutations Anonymous",
+    "ancient_greek": "Ἀνώνυμος Ἀριστοτέλους Σοφιστικῶν Ἐλέγχων"
+  },
+  "seo_h1": "Sophistical Refutations and the Anonymous Aristotelian Commentators",
+  "seo": {
+    "browser_title": "Sophistical Refutations Anonymous on Eulogikon Greek Archive",
+    "meta_title": "Sophistical Refutations Anonymous Ancient Greek Works",
+    "meta_description": "Anonymous commentator on Aristotle's Sophistical Refutations. Philosophical commentary in verse. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ φιλοσοφική",
+      "english": "Philosophical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Aristotelian",
+      "href": "/affiliations/aristotelian"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The anonymous author of a commentary on Aristotle&#x27;s <strong>Sophistical Refutations</strong> was a philosopher likely active in the late antique or early Byzantine period, around the 5th or 6th century CE. This era was characterized by intense scholarly efforts to preserve and explain classical texts, particularly within schools following Aristotelian and Neoplatonic traditions. The author&#x27;s identity is entirely unknown, a common fate for commentators whose works were transmitted without attribution.</p>\n<p class=\"research-text\">The author&#x27;s sole known work is a commentary on Aristotle&#x27;s <strong>Sophistical Refutations</strong>, a logical treatise analyzing fallacious arguments. According to the available information, this commentary was composed in verse. This format is highly unusual, as philosophical commentaries from this period were almost exclusively written in prose. No other specific titles or details of the author&#x27;s reported six works are attested in standard scholarly sources.</p>\n<p class=\"research-text\">The historical significance of this figure stems from this unique formal choice. A verse commentary on a technical work of logic would represent a rare fusion of poetic and philosophical writing in the late antique scholarly world. More broadly, commentators from this period played a crucial role as teachers and interpreters, helping to systematize Aristotle&#x27;s logic and ensure its transmission to later Byzantine, Arabic, and Latin traditions. This anonymous author would be part of that broad effort of preservation and explanation, though the alleged verse format would distinguish the work from the mainstream.</p>\n</div>",
+  "affiliation_label": "Aristotelian",
+  "works_count": 6,
+  "works": [
+    {
+      "eul_wid": "vls-af",
+      "title": {
+        "english": "Commentary-Aristotle in Greek",
+        "ancient_greek": "Ὑπόμνημα εἰς τὸν Ἀριστοτέλη Ἑλληνιστί"
+      },
+      "url_slug": "sophistical-refutations-anonymous-commentary-aristotle-vls-af",
+      "passages": 140,
+      "links": {
+        "html": "https://eulogikon.org/grc/sophistical-refutations-anonymous/commentary-aristotle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-commentary-aristotle-vls-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-commentary-aristotle-vls-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-commentary-aristotle-vls-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-commentary-aristotle-vls-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous/commentary-aristotle.epub"
+      }
+    },
+    {
+      "eul_wid": "vls-ab",
+      "title": {
+        "english": "Commentary-Sophistical Refutations",
+        "ancient_greek": "Ὑπόμνημα εἰς τὰ Σοφιστικὰ Ἐλέγχη"
+      },
+      "url_slug": "sophistical-refutations-anonymous-commentary-vls-ab",
+      "passages": 16,
+      "links": {
+        "html": "https://eulogikon.org/grc/sophistical-refutations-anonymous/commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-commentary-vls-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-commentary-vls-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-commentary-vls-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-commentary-vls-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous/commentary.epub"
+      }
+    },
+    {
+      "eul_wid": "vls-aa",
+      "title": {
+        "english": "Concise Tradition of Modes of Sophistic Importunities",
+        "ancient_greek": "Σύντομος Παράδοσις τῶν τρόπων τῶν σοφιστικῶν"
+      },
+      "url_slug": "sophistical-refutations-anonymous-modes-importunities-vls-aa",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/sophistical-refutations-anonymous/modes-importunities",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-modes-importunities-vls-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-modes-importunities-vls-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-modes-importunities-vls-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-modes-importunities-vls-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous/modes-importunities.epub"
+      }
+    },
+    {
+      "eul_wid": "vls-ac",
+      "title": {
+        "english": "Scholia on Sophistical Refutations (Recension A)",
+        "ancient_greek": "Σχόλια εἰς τὰ Σοφιστικὰ Ἐλέγχη"
+      },
+      "url_slug": "sophistical-refutations-anonymous-scholia-ac-vls-ac",
+      "passages": 73,
+      "links": {
+        "html": "https://eulogikon.org/grc/sophistical-refutations-anonymous/scholia-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ac-vls-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ac-vls-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ac-vls-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ac-vls-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous/scholia-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "vls-ad",
+      "title": {
+        "english": "Scholia on Sophistical Refutations (Recension B)",
+        "ancient_greek": "Σχόλια εἰς τὰ Σοφιστικὰ Ἐλέγχη"
+      },
+      "url_slug": "sophistical-refutations-anonymous-scholia-ad-vls-ad",
+      "passages": 58,
+      "links": {
+        "html": "https://eulogikon.org/grc/sophistical-refutations-anonymous/scholia-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ad-vls-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ad-vls-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ad-vls-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ad-vls-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous/scholia-ad.epub"
+      }
+    },
+    {
+      "eul_wid": "vls-ae",
+      "title": {
+        "english": "Scholia on Sophistical Refutations (Recension C)",
+        "ancient_greek": "Σχόλια εἰς τὰ Σοφιστικὰ Ἐλέγχη"
+      },
+      "url_slug": "sophistical-refutations-anonymous-scholia-ae-vls-ae",
+      "passages": 211,
+      "links": {
+        "html": "https://eulogikon.org/grc/sophistical-refutations-anonymous/scholia-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ae-vls-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ae-vls-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ae-vls-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ae-vls-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous/scholia-ae.epub"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "reo",
+      "name": {
+        "english": "Alexander of Aphrodisias",
+        "ancient_greek": "Ἀλέξανδρος ὁ Ἀφροδισιεύς"
+      },
+      "work_count": 16,
+      "links": {
+        "html": "https://eulogikon.org/en/alexander-of-aphrodisias",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-aphrodisias-reo.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-aphrodisias-reo.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-aphrodisias-reo.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-aphrodisias-reo.en.json"
+      }
+    },
+    {
+      "eul_aid": "uim",
+      "name": {
+        "english": "Anonymous Commentary on Aristotle",
+        "ancient_greek": "Ἀνώνυμος ἐν Ἠθικοῖς Νικομαχείοις"
+      },
+      "work_count": 3,
+      "links": {
+        "html": "https://eulogikon.org/en/anonymous-commentary-on-aristotle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-commentary-on-aristotle-uim.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-commentary-on-aristotle-uim.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-commentary-on-aristotle-uim.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-commentary-on-aristotle-uim.en.json"
+      }
+    },
+    {
+      "eul_aid": "vnq",
+      "name": {
+        "english": "Anonymous Commentary on Aristotle",
+        "ancient_greek": "Ἀνώνυμος εἰς τὰς Κατηγορίας τοῦ Ἀριστοτέλους"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/aristotle-commentary-anonymous",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristotle-commentary-anonymous-vnq.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristotle-commentary-anonymous-vnq.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristotle-commentary-anonymous-vnq.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristotle-commentary-anonymous-vnq.en.json"
+      }
+    },
+    {
+      "eul_aid": "kdw",
+      "name": {
+        "english": "Apollonius of Aphrodisias",
+        "ancient_greek": "Ἀπολλώνιος ὁ Ἀφροδισιεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/apollonius-of-aphrodisias",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-aphrodisias-kdw.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-aphrodisias-kdw.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-aphrodisias-kdw.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-aphrodisias-kdw.en.json"
+      }
+    },
+    {
+      "eul_aid": "hgw",
+      "name": {
+        "english": "Aristotle",
+        "ancient_greek": "Ἀριστοτέλης"
+      },
+      "work_count": 56,
+      "links": {
+        "html": "https://eulogikon.org/en/aristotle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristotle-hgw.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristotle-hgw.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristotle-hgw.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristotle-hgw.en.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/sophistical-refutations-anonymous",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sophistical-refutations-anonymous-vls.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sophistical-refutations-anonymous-vls.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sophistical-refutations-anonymous-vls.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sophistical-refutations-anonymous-vls.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

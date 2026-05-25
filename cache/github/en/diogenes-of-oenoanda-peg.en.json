@@ -1,0 +1,185 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "peg",
+  "auth_slug": "diogenes-of-oenoanda",
+  "name": {
+    "english": "Diogenes of Oenoanda",
+    "ancient_greek": "Διογένης ὁ Οἰνοανδεύς"
+  },
+  "seo_h1": "Diogenes of Oenoanda on Sensation, Nature, and Epicurean Life",
+  "seo": {
+    "browser_title": "Diogenes of Oenoanda Epicurean on Eulogikon Greek Archive",
+    "meta_title": "Diogenes of Oenoanda Ancient Greek Epicurean Works",
+    "meta_description": "Diogenes of Oenoanda, 2nd century CE Epicurean philosopher. His inscription covers ethics and physics. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ φιλοσοφική",
+      "english": "Philosophical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Epicurean",
+      "href": "/affiliations/epicurean"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Diogenes of Oenoanda was an Epicurean philosopher who lived in the 2nd century CE, during the Roman Empire. He was a resident of Oenoanda, a small city in the mountainous region of Lycia in Asia Minor, which is modern-day Turkey. He is known only from a single, monumental work: a large philosophical inscription he commissioned for public display.</p>\n<p class=\"research-text\">Diogenes appears to have been a wealthy individual, as financing such a project required significant resources. In the text itself, he states that he was advanced in age and motivated by a philanthropic desire to share the benefits of Epicurean philosophy with his fellow citizens and visitors. This act reflects a common practice of civic benefaction among the elite in Greek cities under Roman rule, though its content as a public philosophy lesson is unique.</p>\n<p class=\"research-text\">His work, often called the &quot;Great Inscription&quot; or the &quot;Wall of Philosophy,&quot; was carved onto a portico wall. It presented a comprehensive summary of Epicurean teachings, including sections on physics, ethics, and how to acquire knowledge. The inscription also contained letters and maxims. The structure is fragmentary, with many pieces discovered and reconstructed by archaeologists since the 19th century.</p>\n<p class=\"research-text\">Diogenes is historically important because his inscription is the most extensive surviving source of Epicurean philosophy from the Roman Imperial era. It provides crucial evidence for the continued vitality of Epicurean teachings centuries after the school&#x27;s founding. According to modern scholars, the inscription confirms the persistence of core doctrines, such as atomic theory and the pursuit of tranquility, and illustrates how philosophical ideas were adapted for public, non-specialist audiences in the ancient world.</p>\n</div>",
+  "affiliation_label": "Epicurean",
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "peg-aa",
+      "title": {
+        "english": "On Sensation and Nature",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "diogenes-of-oenoanda-sensation-nature-peg-aa",
+      "passages": 297,
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-oenoanda/sensation-nature",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-oenoanda-sensation-nature-peg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-oenoanda-sensation-nature-peg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-oenoanda-sensation-nature-peg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-oenoanda-sensation-nature-peg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-oenoanda/sensation-nature.epub"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "ibg",
+      "name": {
+        "english": "Carneiscus the Epicurean",
+        "ancient_greek": "Καρνεῖσκος ὁ Ἐπικούρειος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/carneiscus-the-epicurean",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/carneiscus-the-epicurean-ibg.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/carneiscus-the-epicurean-ibg.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/carneiscus-the-epicurean-ibg.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/carneiscus-the-epicurean-ibg.en.json"
+      }
+    },
+    {
+      "eul_aid": "jtm",
+      "name": {
+        "english": "Epicurean Anonymous",
+        "ancient_greek": "Ἀνώνυμος Ἐπικούρειος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/epicurean-anon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicurean-anon-jtm.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicurean-anon-jtm.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicurean-anon-jtm.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicurean-anon-jtm.en.json"
+      }
+    },
+    {
+      "eul_aid": "hui",
+      "name": {
+        "english": "Epicurus the Philosopher",
+        "ancient_greek": "Ἐπίκουρος ὁ φιλόσοφος"
+      },
+      "work_count": 8,
+      "links": {
+        "html": "https://eulogikon.org/en/epicurus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicurus-hui.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicurus-hui.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicurus-hui.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicurus-hui.en.json"
+      }
+    },
+    {
+      "eul_aid": "jbk",
+      "name": {
+        "english": "Hermarchus of Mytilene",
+        "ancient_greek": "Ἕρμαρχος ὁ Μυτιληναῖος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/hermarchus-of-mytilene",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermarchus-of-mytilene-jbk.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermarchus-of-mytilene-jbk.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermarchus-of-mytilene-jbk.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermarchus-of-mytilene-jbk.en.json"
+      }
+    },
+    {
+      "eul_aid": "coe",
+      "name": {
+        "english": "Metrodorus of Lampsacus the Elder",
+        "ancient_greek": "Μητρόδωρος ὁ Λαμψακηνός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/metrodorus-of-lampsacus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/metrodorus-of-lampsacus-coe.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/metrodorus-of-lampsacus-coe.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/metrodorus-of-lampsacus-coe.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/metrodorus-of-lampsacus-coe.en.json"
+      }
+    },
+    {
+      "eul_aid": "msu",
+      "name": {
+        "english": "Philodemus of Gadara",
+        "ancient_greek": "Φιλόδημος ὁ Γαδαρεύς"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/philodemus-of-gadara",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philodemus-of-gadara-msu.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philodemus-of-gadara-msu.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philodemus-of-gadara-msu.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philodemus-of-gadara-msu.en.json"
+      }
+    },
+    {
+      "eul_aid": "jss",
+      "name": {
+        "english": "Polystratus the Epicurean",
+        "ancient_greek": "Πολύστρατος ὁ Ἐπικούρειος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/polystratus-the-epicurean",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/polystratus-the-epicurean-jss.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/polystratus-the-epicurean-jss.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/polystratus-the-epicurean-jss.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/polystratus-the-epicurean-jss.en.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/diogenes-of-oenoanda",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-oenoanda-peg.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-oenoanda-peg.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-oenoanda-peg.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-oenoanda-peg.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

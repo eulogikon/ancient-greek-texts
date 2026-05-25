@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "vtk",
+  "auth_slug": "lexicographic-anonymous-ii",
+  "name": {
+    "english": "Lexicographic Work Anonymous II",
+    "ancient_greek": "Λεξικογραφικὸν ἔργον ἀνώνυμον"
+  },
+  "seo_h1": "Lexicographic Work Anonymous II on the Etymology of the Alphabet",
+  "seo": {
+    "browser_title": "Anonymous Lexicographer II on Eulogikon Greek Archive",
+    "meta_title": "The Anonymous Lexicographer II Ancient Greek Works",
+    "meta_description": "Anonymous lexicographic work from late antiquity, 2nd-6th centuries CE. A practical scholastic text. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">This text is an anonymous lexicographic work from late antiquity, dated broadly between the 2nd and 6th centuries CE. It was compiled by an unknown author or authors, a common feature for practical scholarly texts from this period. The compilers were likely teachers or scholars working within the tradition of grammatikē—the study of language and literature—possibly based in major educational centers like Alexandria or Constantinople.</p>\n<p class=\"research-text\">The work is a lexicon or glossary written in prose. While its specific contents and sources are not detailed in available records, it represents a genre of texts created to catalog and explain Greek vocabulary. According to modern scholars, such compilations often mixed words from different Greek dialects, serving as reference tools to help students and readers understand classical and Hellenistic literature.</p>\n<p class=\"research-text\">These anonymous works are historically important because they acted as bridges in the tradition of Greek scholarship. They preserved explanations, definitions, and citations from many earlier writers, some of whose works are now lost. By doing so, they connected the scholarly methods of the Hellenistic period with later Byzantine encyclopedic projects, providing crucial insight into the educational practices and linguistic studies of the late ancient world.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "vtk-aa",
+      "title": {
+        "english": "Etymology of the Alphabet",
+        "ancient_greek": "Ἐτυμολογία τοῦ Ἀλφαβήτου"
+      },
+      "url_slug": "lexicographic-anonymous-ii-alphabet-etymology-vtk-aa",
+      "passages": 6,
+      "links": {
+        "html": "https://eulogikon.org/grc/lexicographic-anonymous-ii/alphabet-etymology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographic-anonymous-ii-alphabet-etymology-vtk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographic-anonymous-ii-alphabet-etymology-vtk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographic-anonymous-ii-alphabet-etymology-vtk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographic-anonymous-ii-alphabet-etymology-vtk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographic-anonymous-ii/alphabet-etymology.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/lexicographic-anonymous-ii",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lexicographic-anonymous-ii-vtk.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lexicographic-anonymous-ii-vtk.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lexicographic-anonymous-ii-vtk.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lexicographic-anonymous-ii-vtk.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

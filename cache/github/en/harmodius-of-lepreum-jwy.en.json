@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "jwy",
+  "auth_slug": "harmodius-of-lepreum",
+  "name": {
+    "english": "Harmodius of Lepreum",
+    "ancient_greek": "Ἁρμόδιος ὁ Λεπρεάτης"
+  },
+  "seo_h1": "Harmodius of Lepreum on the Customs of Phigalia",
+  "seo": {
+    "browser_title": "Harmodius of Lepreum on Eulogikon Greek Archive Library",
+    "meta_title": "Harmodius of Lepreum Ancient Greek Historical Works",
+    "meta_description": "Harmodius of Lepreum, a 3rd century BCE Hellenistic historian. Surviving fragments of his works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Harmodius of Lepreum was a Hellenistic historian of the 3rd century BCE from Lepreum in Triphylia. No details of his life survive beyond his name and origin. His existence is attested solely by a citation in Strabo’s Geography.</p>\n<p class=\"research-text\">His only known work, On the Affairs of the Peloponnese, is lost. It survives only as a title and a single fragment preserved by Strabo, which locates the tomb of the mythological figure Iardanus in Triphylia.</p>\n<p class=\"research-text\">Harmodius represents the numerous local historians who documented regional myths and antiquities during the Hellenistic period. His fragment provides minor evidence for the historiographical activity and local traditions of the northwestern Peloponnese.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "jwy-aa",
+      "title": {
+        "english": "On the Customs of Phigalia",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "harmodius-of-lepreum-customs-phigalia-jwy-aa",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/harmodius-of-lepreum/customs-phigalia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/harmodius-of-lepreum-customs-phigalia-jwy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/harmodius-of-lepreum-customs-phigalia-jwy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/harmodius-of-lepreum-customs-phigalia-jwy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/harmodius-of-lepreum-customs-phigalia-jwy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/harmodius-of-lepreum/customs-phigalia.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/harmodius-of-lepreum",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/harmodius-of-lepreum-jwy.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/harmodius-of-lepreum-jwy.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/harmodius-of-lepreum-jwy.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/harmodius-of-lepreum-jwy.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

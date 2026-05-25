@@ -1,0 +1,471 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "aeq-aa",
+  "eul_aid": "aeq",
+  "author_slug": "lyric-work-anonymous",
+  "work_slug": "swallow-song",
+  "url_slug": "lyric-work-anonymous-swallow-song-aeq-aa",
+  "author": {
+    "english": "Lyric Work Anonymous",
+    "ancient_greek": "Καρμίνα Ποπυλάρια (PMG)"
+  },
+  "title": {
+    "english": "Fragments of the Swallow Song",
+    "ancient_greek": "Ἀποσπάσματα τοῦ Χελιδονίου ᾨδοῦ"
+  },
+  "seo": {
+    "browser_title": "Fragments of the Swallow Song by Anonymous on Eulogikon",
+    "meta_title": "Fragments of the Swallow Song by Anonymous in Greek",
+    "meta_description": "Surviving fragments of the ancient Greek lyric Swallow Song. Anonymous poetry from antiquity. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects (frg)",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Fragments of the Swallow Song refer to the surviving passages of an ancient Greek ritual folk song, traditionally performed to welcome the return of swallows in spring. Ancient sources describe it as a popular custom in which children, sometimes carrying a model of a swallow, would go from door to door singing the song and soliciting gifts of food, such as cakes, wine, and cheese. The song itself celebrates the arrival of the swallow as a herald of the fair season and good years, describing the bird&#x27;s distinctive white belly and dark back. The lyrics contain a playful, demanding tone, with the singers threatening to take a door, lintel, or even the woman sitting inside the house if no gift is given, while also insisting they are merely children. The performance is framed as an offering to a god, likely Dionysus, with references to making space for the deity to pass through. The textual fragments that survive emphasize novelty and purity in the hymn, invoking traditional spring flowers and herbs like roses, violets, and celery.</p>\n<p class=\"research-text\">The song is not preserved as a complete, unified literary work but is known through descriptions and quotations in later authors, most notably in Athenaeus’s <strong>Deipnosophistae</strong>, which cites the lyric poet Alcman and the philosopher Clearchus of Soli as sources. Consequently, its transmission is entirely indirect, surviving as a proverbial example of a recurring folk ritual rather than a fixed poetic text. The Swallow Song tradition remained a recognizable cultural reference for centuries, and its basic structure of a seasonal processional song performed by children is considered a precursor to later, and even modern, Greek spring festivals, demonstrating the remarkable continuity of ancient celebratory practices within folk culture.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "ἀχαΐνην στέατος ἔμπλεων τράγον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "ἦλθ’ ἦλθε χελιδὼν καλὰς ὥρας ἄγουσα, καλοὺς ἐνιαυτούς, ἐπὶ γαστέρα λευκά, ἐπὶ νῶτα μέλαινα. παλάθαν σὺ προκύκλει ἐκ πίονος οἴκου οἴνου τε δέπαστρον τυροῦ τε κάνυστρον· καὶ πύρνα χελιδὼν καὶ λεκιθίταν οὐκ ἀπωθεῖται· πότερ’ ἀπίωμες ἢ λαβώμεθα; εἰ μέν τι δώσεις· εἰ δὲ μή, οὐκ ἐάσομες· ἢ τὰν θύραν φέρωμες ἢ τὸ ὑπέρθυρον ἢ τὰν γυναῖκα τὰν ἔσω καθημέναν· μικρὰ μέν ἐστι, ῥαιδίως νιν οἴσομες. ἂν δὴ †φέρηις τι, μέγα δή τι† φέροις· ἄνοιγ’ ἄνοιγε τὰν θύραν χελιδόνι· οὐ γὰρ γέροντές ἐσμεν, ἀλλὰ παιδία.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "πλεῖστον οὖλον ἵει, ἴουλον ἵει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "μακραὶ δρύες, ὦ Μέναλκα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5a",
+      "text": "ἀνάγετ’, εὐρυχωρίαν τῶι θεῶι ποιεῖτε· θέλει γὰρ ὁ θεὸς ὀρθὸς ἐσφυδωμένος διὰ μέσου βαδίζειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5b",
+      "text": "σοί, Βάκχε, τάνδε Μοῦσαν ἀγλαΐζομεν, ἁπλοῦν ῥυθμὸν χέοντες αἰόλωι μέλει, καινὰν ἀπαρθένευτον, οὔ τι ταῖς πάρος κεχρημέναν ὠιδαῖσιν, ἀλλ’ ἀκήρατον κατάρχομεν τὸν ὕμνον·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "ποῦ μοι τὰ ῥόδα, ποῦ μοι τὰ ἴα, ποῦ μοι τὰ καλὰ σέλινα; ταδὶ τὰ ῥόδα, ταδὶ τὰ ἴα, ταδὶ τὰ καλὰ σέλινα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "ὢ τί πάσχεις; μὴ προδῶις ἄμμ’, ἱκετεύω· πρὶν καὶ μολεῖν κεῖνον, ἀνίστω, μὴ κακόν 〈σε〉 μέγα ποιήσηι κἀμὲ τὰν δειλάκραν. ἁμέρα καὶ ἤδη· τὸ φῶς διὰ τᾶς θυρίδος οὐκ εἰσορῆις;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "ὗσον ὗσον ὦ φίλε Ζεῦ κατὰ τῆς ἀρούρας †τῆς Ἀθηναίων καὶ τῶν πεδίων.†",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "ἔφυγον κακόν, εὗρον ἄμεινον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "ἄγετ’ ὦ Σπάρτας εὐάνδρου κοῦροι πατέρων πολιητᾶν, λαιᾶι μὲν ἴτυν προβάλεσθε, δόρυ δ’ εὐτόλμως πάλλοντες, μὴ φειδόμενοι τᾶς ζωᾶς οὐ γὰρ πάτριον τᾶι Σπάρται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "ἄγετ’ ὦ Σπάρτας ἔνοπλοι κοῦροι ποτὶ τὰν Ἄρεως κίνασιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12 (7)",
+      "text": "τ̣ὺ̣ δε̣π̣α[ πέφατ̣αι παν̣[ με̣τάδ̣ος π̣ω̣ .. ρασκ[ ἵει νυν οὖ̣ρον ἐπ̣α̣γ̣ρ̣[ πολε̣μ̣ .. μ̣ο̣νον . [ [ [ [ αρη[ λια̣ρὸν̣ ῥη̣έθροις Εὐρο̣[ Εὖ̣ρ’ ὦ σωτὴρ τᾶς Σπάρτας κατὰ πάντα μόλοις μετὰ νίκας· ⸏ ἰὲ Παιὰν ἰήιε Παιάν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14",
+      "text": "ἥλιος Ἀπόλλων, ὁ δέ γ’ Ἀπόλλων ἥλιος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "ἐξάγω χωλὸν τραγίσκον,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16",
+      "text": "ἱερὸν ἔτεκε πότνια κοῦρον Βριμὼ βριμόν,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17",
+      "text": "ἄρχει μὲν ἀγών, τῶν καλλίστων ἄθλων ταμίας, καιρὸς δὲ καλεῖ μηκέτι μέλλειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19",
+      "text": "λήγει μὲν ἀγὼν τῶν καλλίστων ἄθλων ταμίας, καιρὸς δὲ καλεῖ μηκέτι μέλλειν·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20",
+      "text": "βαλβῖδα† ποδὸς θέτε πόδα παρὰ πόδα,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "21",
+      "text": "τὸν Ἑλλάδος ἀγαθέας στραταγὸν ἀπ’ εὐρυχόρου Σπάρτας ὑμνήσομεν, ὢ ἰὲ Παιάν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "22",
+      "text": "ἴωμεν εἰς Ἀθάνας·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "23",
+      "text": "ἄλει μύλα ἄλει· καὶ γὰρ Πιττακὸς ἄλει μεγάλας Μυτιλήνας βασιλεύων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "24",
+      "text": "ἁμές ποκ’ ἦμες ἄλκιμοι νεανίαι, εἶτα ὁ τῶν ἀκμαζόντων ἀνδρῶν ἀμειβόμενος ⟦ ἔλεγεν ⟧ · ἁμὲς δέ γ’ εἰμές· αἰ δὲ λῆις, αὐγάσδεο. ὁ δὲ τρίτος ὁ τῶν παίδων· ἁμὲς δέ γ’ ἐσσόμεσθα πολλῶι κάρρονες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25",
+      "text": "ἐλθεῖν ἥρω Διόνυσε Ἀλείων ἐς ναὸν ἁγνὸν σὺν Χαρίτεσσιν ἐς ναὸν τῶι βοέωι ποδὶ δύων, ἄξιε ταῦρε, ἄξιε ταῦρε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "26",
+      "text": "ἀνάβαλλ’ ἄνω τὸ γῆρας, ὦ καλὰ Ἀφροδίτα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "27",
+      "text": "ὦ παῖδες 〈ὅσ〉οι Χαρίτων τε καὶ πατέρων λάχετ’ ἐσθλῶν μὴ φθονεῖθ’ ὥρας ἀγαθοῖσιν ὁμιλεῖν· σὺν γὰρ ἀνδρείαι καὶ ὁ λυσιμελὴς Ἔρως ἐνὶ Χαλκιδέων θάλλει πόλεσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "28",
+      "text": "σῖτον ἐν πηλῶι φύτευε, τὴν δὲ κριθὴν ἐν κόνει;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "29",
+      "text": "τίς τὴν χύτραν; ἀναζεῖ· τίς περὶ χύτραν; ἐγὼ Μίδας·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30a",
+      "text": "χαλκῆν μυῖαν θηράσω, θηράσεις, ἀλλ’ οὐ λήψει,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30b",
+      "text": "ἔξεχ’ ὦ φίλ’ ἥλιε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30c",
+      "text": "χελιχελώνη, τί ποΐεις ἐν τῶι μέσωι; μαρύομ’ ἔρια καὶ κρόκην Μιλησίαν. ὁ δ’ ἔκγονός σου τί ποΐων ἀπώλετο; λευκᾶν ἀφ’ ἵππων εἰς θάλασσαν ἅλατο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "31",
+      "text": "†πθ ε ι κόρη γέφυραν ὅσον οὔπω· τριπόλεον δέ†",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "32",
+      "text": "αὐλεῖ Μαριανδυνοῖς καλάμοις κρούων Ἰαστί,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "33a",
+      "text": "καλεῖτε θεόν· Σεμελήι’ Ἴακχε πλουτοδότα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "33b",
+      "text": "τίς τῆιδε; πολλοὶ κἀγαθοί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "33c",
+      "text": "ἐκκέχυται· κάλει θεόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "34",
+      "text": "†ὦ Λίνε θεοῖσι τετιμημένε, σοὶ γὰρ πρώτωι μέλος ἔδωκαν ἀθάνατοι ἀνθρώποισι φωναῖς λιγυραῖς ἀεῖσαι· Φοῖβος δέ σε κότωι ἀναιρεῖ, Μοῦσαι δέ σε θρηνέουσιν.†",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "35b",
+      "text": "ἐκκορὶ κορὶ κορώνη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "36",
+      "text": "δέξαι τὰν ἀγαθὰν τύχαν, δέξαι τὰν ὑγίειαν, ἃν φέρομες παρὰ τᾶς θεοῦ, ἃν †ἐκλελάσκετο† τήνα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "37",
+      "text": "θύραζε Κᾶρες, οὐκέτ’ Ἀνθεστήρια.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "auu-ab",
+      "title": {
+        "english": "Epic Fragments",
+        "ancient_greek": "Ἐπικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "asius-of-samos-epic-fragments-auu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/asius-of-samos/epic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-of-samos-epic-fragments-auu-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-of-samos-epic-fragments-auu-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-of-samos-epic-fragments-auu-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-of-samos-epic-fragments-auu-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-of-samos/epic-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "gay-aa",
+      "title": {
+        "english": "Fragments of a Maenadic Plea",
+        "ancient_greek": "Ἀποσπάσματα Μαινάδος Ἐντεύξεως"
+      },
+      "url_slug": "peirazomene-anon-maenadic-plea-gay-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/peirazomene-anon/maenadic-plea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peirazomene-anon-maenadic-plea-gay-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peirazomene-anon-maenadic-plea-gay-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peirazomene-anon-maenadic-plea-gay-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peirazomene-anon-maenadic-plea-gay-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peirazomene-anon/maenadic-plea.epub"
+      }
+    },
+    {
+      "eul_wid": "bfy-ab",
+      "title": {
+        "english": "Fragments on Desire and Festivity",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἐπιθυμίας καὶ Ἑορτῆς"
+      },
+      "url_slug": "anacreon-of-teos-desire-festivity-bfy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/anacreon-of-teos/desire-festivity",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-desire-festivity-bfy-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-desire-festivity-bfy-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-desire-festivity-bfy-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-desire-festivity-bfy-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos/desire-festivity.epub"
+      }
+    },
+    {
+      "eul_wid": "ajq-aa",
+      "title": {
+        "english": "Fragments on Geography",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γεωγραφίας"
+      },
+      "url_slug": "iambic-fragments-anon-geography-ajq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/iambic-fragments-anon/geography",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iambic-fragments-anon-geography-ajq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iambic-fragments-anon-geography-ajq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iambic-fragments-anon-geography-ajq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iambic-fragments-anon-geography-ajq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iambic-fragments-anon/geography.epub"
+      }
+    },
+    {
+      "eul_wid": "upu-am",
+      "title": {
+        "english": "Hymn 1 to Dionysus",
+        "ancient_greek": "Ὕμνος εἰς Διόνυσον"
+      },
+      "url_slug": "homeric-hymns-anonymous-dionysus-1-upu-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/dionysus-1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-dionysus-1-upu-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-dionysus-1-upu-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-dionysus-1-upu-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-dionysus-1-upu-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dionysus-1.epub"
+      }
+    },
+    {
+      "eul_wid": "upu-ao",
+      "title": {
+        "english": "Hymn 7 To Dionysus",
+        "ancient_greek": "Ὕμνος εἰς Διόνυσον"
+      },
+      "url_slug": "homeric-hymns-anonymous-dionysus-ao-upu-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/dionysus-ao",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-dionysus-ao-upu-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-dionysus-ao-upu-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-dionysus-ao-upu-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-dionysus-ao-upu-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dionysus-ao.epub"
+      }
+    },
+    {
+      "eul_wid": "sck-aa",
+      "title": {
+        "english": "Lament for a Lost Son",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "lamentation-song-lost-son-sck-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lamentation-song/lost-son",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lamentation-song-lost-son-sck-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lamentation-song-lost-son-sck-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lamentation-song-lost-son-sck-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lamentation-song-lost-son-sck-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lamentation-song/lost-son.epub"
+      }
+    },
+    {
+      "eul_wid": "gya-aa",
+      "title": {
+        "english": "Lyric Fragments",
+        "ancient_greek": "Λυρικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "lyric-poets-anonymous-fragments-gya-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lyric-poets-anonymous/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poets-anonymous-fragments-gya-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poets-anonymous-fragments-gya-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poets-anonymous-fragments-gya-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poets-anonymous-fragments-gya-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poets-anonymous/fragments.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/lyric-work-anonymous/swallow-song",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-work-anonymous-swallow-song-aeq-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-work-anonymous-swallow-song-aeq-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-work-anonymous-swallow-song-aeq-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-work-anonymous-swallow-song-aeq-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-work-anonymous/swallow-song.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

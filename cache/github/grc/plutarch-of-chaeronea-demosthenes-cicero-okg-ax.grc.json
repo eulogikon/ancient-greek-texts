@@ -1,0 +1,481 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "okg-ax",
+  "eul_aid": "okg",
+  "author_slug": "plutarch-of-chaeronea",
+  "work_slug": "demosthenes-cicero",
+  "url_slug": "plutarch-of-chaeronea-demosthenes-cicero-okg-ax",
+  "author": {
+    "english": "Plutarch of Chaeronea",
+    "ancient_greek": "Πλούταρχος ὁ Χαιρωνεύς"
+  },
+  "title": {
+    "english": "Comparison of Demosthenes and Cicero",
+    "ancient_greek": "Σύγκρισις Δημοσθένους καὶ Κικέρωνος"
+  },
+  "seo": {
+    "browser_title": "Comparison Demosthenes and Cicero by Plutarch on Eulogikon",
+    "meta_title": "Plutarch's Comparison of Demosthenes and Cicero in Greek",
+    "meta_description": "Plutarch examines the lives and oratorical techniques of Athens' greatest statesman and Rome's finest speaker, Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Platonist",
+      "href": "/affiliations/platonist"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Comparison of Demosthenes and Cicero</strong> is a concise Greek prose essay by the biographer Plutarch, composed circa 100–120 CE. It functions as the concluding epilogue to his paired biographies of the Athenian orator Demosthenes and the Roman statesman Cicero within his monumental series, <strong>Parallel Lives</strong>. The essay systematically compares the two men across a series of thematic points, evaluating their innate characters, oratorical techniques, political careers, and the circumstances of their deaths. Plutarch contrasts their natural talents, their differing use of wit and preparation in oratory, their conduct during periods of exile, and the ethical implications of their final moments.</p>\n<p class=\"research-text\">Transmitted within the manuscript tradition of the <strong>Lives</strong> as an integral part of the Demosthenes-Cicero book pair, the essay survives in its entirety. It exemplifies Plutarch&#x27;s overarching aim in the <strong>Parallel Lives</strong>, which was not strict historiography but rather ethical inquiry through the comparative study of eminent Greek and Roman figures. Modern scholarship regards this specific comparison as a quintessential demonstration of his method, using the two celebrated orators to probe enduring themes such as political virtue, the caprices of fortune, and the qualities of leadership. Composed for a literate, Greco-Roman audience during the High Roman Empire, the work reflects a cultural milieu in which Greek intellectuals actively engaged with Roman history and power. Its influence has been profound, establishing a durable framework for comparing Demosthenes and Cicero that shaped Western perceptions from the Renaissance onward.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1 1",
+      "text": "Ἃ μὲν οὖν ἄξια μνήμης τῶν περὶ Δημοσθένους καὶ Κικέρωνος ἱστορουμένων εἰς τὴν ἡμετέραν ἀφῖκται γνῶσιν, ταῦτ’ ἐστίν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 2",
+      "text": "ἀφεικὼς δὲ τὸ συγκρίνειν τὴν ἐν τοῖς λόγοις ἕξιν αὐτῶν, ἐκεῖνό μοι δοκῶ μὴ παρήσειν ἄρρητον, ὅτι Δημοσθένης μὲν εἰς τὸ ῥητορικὸν ἐνέτεινε πᾶν ὅσον εἶχεν ἐκ φύσεως ἢ ἀσκήσεως λόγιον, ὑπερβαλλόμενος ἐναργείᾳ μὲν καὶ δεινότητι τοὺς ἐπὶ τῶν ἀγώνων καὶ τῶν δικῶν συνεξεταζομένους, ὄγκῳ δὲ καὶ μεγαλοπρεπείᾳ τοὺς ἐπιδεικτικούς, ἀκριβείᾳ δὲ καὶ τέχνῃ τοὺς σοφιστάς· Κικέρων δὲ καὶ πολυμαθὴς καὶ ποικίλος τῇ περὶ τοὺς λόγους σπουδῇ γενόμενος, συντάξεις μὲν ἰδίας φιλοσόφους ἀπολέλοιπεν οὐκ ὀλίγας εἰς τὸν Ἀκαδημαϊκὸν τρόπον, οὐ μὴν ἀλλὰ καὶ διὰ τῶν πρὸς τὰς δίκας καὶ τοὺς ἀγῶνας γραφομένων λόγων δῆλός ἐστιν ἐμπειρίαν τινὰ γραμμάτων παρενδείκνυσθαι βουλόμενος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 4",
+      "text": "ἔστι δέ τις καὶ τοῦ ἤθους ἐν τοῖς λόγοις ἑκατέρου δίοψις. ὁ μὲν γὰρ Δημοσθενικὸς ἔξω παντὸς ὡραϊσμοῦ καὶ παιδιᾶς εἰς δεινότητα καὶ σπουδὴν συνηγμένος οὐκ ἐλλυχνίων ὄδωδεν, ὥσπερ ὁ Πυθέας ἔσκωπτεν, ἀλλ’ ὑδροποσίας καὶ φροντίδων καὶ τῆς λεγομένης πικρίας τοῦ τρόπου καὶ στυγνότητος· Κικέρων δὲ πολλαχοῦ τῷ σκωπτικῷ πρὸς τὸ βωμολόχον ἐκφερόμενος, καὶ πράγματα σπουδῆς ἄξια γέλωτι καὶ παιδιᾷ κατειρωνευόμενος ἐν ταῖς δίκαις εἰς τὸ χρειῶδες, ἠφείδει τοῦ πρέποντος, ὥσπερ ἐν τῇ Καιλίου συνηγορίᾳ (17, 41) μηδὲν ἄτοπον 〈φήσασ〉 ποιεῖν αὐτὸν ἐν τοσαύτῃ τρυφῇ καὶ πολυτελείᾳ ταῖς ἡδοναῖς χρώμενον· τὸ γὰρ ὧν ἔξεστι μὴ μετέχειν μανικὸν εἶναι, καὶ ταῦτ’ ἐν ἡδονῇ τὸ εὐδαιμονοῦν τῶν ἐπιφανεστάτων φιλοσόφων τιθεμένων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 5",
+      "text": "λέγεται δὲ καὶ Κάτωνος Μουρήναν διώκοντος ὑπατεύων ἀπολογεῖσθαι καὶ πολλὰ διὰ τὸν Κάτωνα κωμῳδεῖν τὴν Στωικὴν αἵρεσιν ἐπὶ ταῖς ἀτοπίαις τῶν παραδόξων λεγομένων δογμάτων· γέλωτος δὲ λαμπροῦ κατιόντος ἐκ τῶν περιεστώτων εἰς τοὺς δικαστάς, ἡσυχῇ διαμειδιάσας 〈ὁ Κάτων〉 πρὸς τοὺς παρακαθημένους εἰπεῖν· „ὡς γελοῖον ὦ ἄνδρες ἔχομεν ὕπατον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 6",
+      "text": "“ δοκεῖ δὲ καὶ γέλωτος οἰκεῖος ὁ Κικέρων γεγονέναι καὶ φιλοσκώπτης, τό τε πρόσωπον αὐτοῦ μειδίαμα καὶ γαλήνη κατεῖχε· τῷ δὲ Δημοσθένους ἀεί τις ἐπῆν σπουδή, καὶ τὸ πεφροντικὸς τοῦτο καὶ σύννουν οὐ ῥᾳδίως ἀπέλειπεν· ὅθεν καὶ δύσκολον αὐτὸν οἱ ἐχθροὶ καὶ δύστροπον, ὡς αὐτὸς εἴρηκεν (Phil. 2, 30), ἀπεκάλουν προδήλως. Ἔτι τοίνυν ἐν τοῖς συγγράμμασι κατιδεῖν ἔστι τὸν μὲν ἐμμελῶς καὶ ἀνεπαχθῶς τῶν εἰς ἑαυτὸν ἁπτόμενον ἐγκωμίων, ὅτε τούτου δεήσαι πρὸς ἕτερόν τι μεῖζον, τἆλλα δ’ εὐλαβῆ καὶ μέτριον· ἡ δὲ Κικέρωνος ἐν τοῖς λόγοις ἀμετρία τῆς περιαυτολογίας ἀκρασίαν τινὰ κατηγόρει πρὸς δόξαν, βοῶντος ὡς τὰ ὅπλα δεῖ τῇ τηβέννῳ καὶ τῇ γλώττῃ τὴν θριαμβικὴν ὑπείκειν δάφνην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 1",
+      "text": "τελευτῶν δ’ οὐ τὰ ἔργα καὶ τὰς πράξεις μόνον, ἀλλὰ καὶ τοὺς λόγους ἐπῄνει τοὺς εἰρημένους ὑφ’ αὑτοῦ καὶ γεγραμμένους, ὥσπερ Ἰσοκράτει καὶ Ἀναξιμένει τοῖς σοφισταῖς διαμειρακιευόμενος, οὐ τὸν Ῥωμαίων δῆμον ἄγειν ἀξιῶν καὶ ὀρθοῦν, βριθύν, ὁπλιτοπάλαν, δάιον ἀντιπάλοις (Aeschyl. fr. 4 D.). ἰσχύειν μὲν γὰρ διὰ λόγου τὸν πολιτευόμενον ἀναγκαῖον, ἀγαπᾶν δ’ ἀγεννὲς καὶ λιχνεύειν τὴν ἀπὸ τοῦ λόγου δόξαν. ὅθεν ἐμβριθέστερος ταύτῃ καὶ μεγαλοπρεπέστερος ὁ Δημοσθένης, τὴν μὲν αὑτοῦ δύναμιν ἐμπειρίαν τινὰ πολλῆς δεομένην τῆς παρὰ τῶν ἀκροωμένων εὐνοίας ἀποφαινόμενος (18, 277), ἀνελευθέρους δὲ καὶ βαναύσους, ὥσπερ εἰσί, τοὺς ἐπὶ τούτῳ φυσωμένους ἡγούμενος. Ἡ μὲν οὖν ἐν τῷ δημηγορεῖν καὶ πολιτεύεσθαι δύναμις ὁμαλῶς ἀμφοτέροις ὑπῆρξεν, ὥστε καὶ τοὺς τῶν ὅπλων καὶ στρατοπέδων κυρίους δεῖσθαι, Δημοσθένους μὲν Χάρητα καὶ Διοπείθη καὶ Λεωσθένην, Κικέρωνος δὲ Πομπήιον καὶ Καίσαρα τὸν νέον, ὡς αὐτὸς ὁ Καῖσαρ ἐν τοῖς πρὸς Ἀγρίππαν καὶ Μαικήναν ὑπομνήμασιν εἴρηκεν (HRR II 56).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 2",
+      "text": "ὃ δὲ δοκεῖ μάλιστα καὶ λέγεται τρόπον ἀνδρὸς ἐπιδεικνύναι καὶ βασανίζειν, ἐξουσία καὶ ἀρχὴ πᾶν πάθος κινοῦσα καὶ πᾶσαν ἀποκαλύπτουσα κακίαν, Δημοσθένει μὲν οὐχ ὑπῆρξεν, οὐδ’ ἔδωκε τοιαύτην διάπειραν αὑτοῦ, μηδεμίαν ἀρχὴν τῶν ἐπιφανῶν ἄρξας, ὃς οὐδὲ τῆς ὑφ’ αὑτοῦ συντεταγμένης ἐπὶ Φίλιππον ἐστρατήγησε δυνάμεως· Κικέρων δὲ ταμίας εἰς Σικελίαν καὶ ἀνθύπατος εἰς Κιλικίαν καὶ Καππαδοκίαν ἀποσταλείς, ἐν ᾧ καιρῷ τῆς φιλοπλουτίας ἀκμαζούσης καὶ τῶν πεμπομένων στρατηγῶν καὶ ἡγεμόνων, ὡς τοῦ κλέπτειν ἀγεννοῦς ὄντος, ἐπὶ τὸ ἁρπάζειν τρεπομένων, οὐ τὸ λαμβάνειν ἐδόκει δεινόν, ἀλλ’ ὁ μετρίως τοῦτο ποιῶν ἠγαπᾶτο, πολλὴν μὲν ἐπίδειξιν ὑπεροψίας χρημάτων ἐποιήσατο, πολλὴν δὲ φιλανθρωπίας καὶ χρηστότητος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 4",
+      "text": "ἐν αὐτῇ δὲ τῇ Ῥώμῃ λόγῳ μὲν ἀποδειχθεὶς ὕπατος, ἐξουσίαν δὲ λαβὼν αὐτοκράτορος καὶ δικτάτορος ἐπὶ τοὺς περὶ Κατιλίναν, ἐμαρτύρησε τῷ Πλάτωνι (resp. 473d) μαντευομένῳ παῦλαν ἕξειν κακῶν τὰς πόλεις, ὅταν εἰς ταὐτὸ δύναμίς τε μεγάλη καὶ φρόνησις ἔκ τινος τύχης χρηστῆς ἀπαντήσῃ μετὰ δικαιοσύνης. Χρηματίσασθαι τοίνυν ἀπὸ τοῦ λόγου Δημοσθένης μὲν ἐπιψόγως λέγεται, λογογραφῶν κρύφα τοῖς περὶ Φορμίωνα καὶ Ἀπολλόδωρον ἀντιδίκοις, καὶ διαβληθεὶς μὲν ἐπὶ τοῖς βασιλικοῖς χρήμασιν, ὀφλὼν δὲ τῶν Ἁρπαλείων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 6",
+      "text": "εἰ δὲ ταῦτα τοὺς γράφοντας (οὐκ ὀλίγοι δ’ εἰσὶν οὗτοι) ψεύδεσθαι φαίημεν, ἀλλ’ ὅτι γε πρὸς δωρεὰς βασιλέων σὺν χάριτι καὶ τιμῇ διδομένας ἀντιβλέψαι Δημοσθένης οὐκ ἂν ἐτόλμησεν (οὐδ’ ἦν τοῦτ’ ἔργον ἀνθρώπου δανείζοντος ἐπὶ ναυτικοῖς), ἀμήχανον ἀντειπεῖν· περὶ δὲ Κικέρωνος, ὅτι καὶ Σικελιωτῶν ἀγορανομοῦντι καὶ βασιλέως τοῦ Καππαδοκῶν ἀνθυπατεύοντι καὶ τῶν ἐν Ῥώμῃ φίλων, ὅτε τῆς πόλεως ἐξέπιπτε, δωρουμένων πολλὰ καὶ δεομένων λαβεῖν ἀντέσχεν, εἴρηται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4 1",
+      "text": "Καὶ μὴν ἥ γε φυγὴ τῷ μὲν αἰσχρὰ κλοπῆς ἁλόντι συνέπεσε, τῷ δὲ διὰ κάλλιστον ἔργον, ἀνθρώπους ἀλιτηρίους τῆς πατρίδος ἐκκόψαντι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4 2",
+      "text": "διὸ τοῦ μὲν οὐδεὶς λόγος ἐκπίπτοντος, ἐφ’ ᾧ δ’ ἡ σύγκλητος ἐσθῆτά τε διήλλαξε καὶ πένθος ἔσχε καὶ γνώμην ὑπὲρ οὐδενὸς εἰπεῖν ἐπείσθη πρότερον ἢ Κικέρωνι κάθοδον ψηφίσασθαι. τὴν μέντοι φυγὴν ἀργῶς ὁ Κικέρων διήνεγκεν ἐν Μακεδονίᾳ καθήμενος, τῷ δὲ Δημοσθένει καὶ ἡ φυγὴ μέρος μέγα τῆς πολιτείας γέγονε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4 3",
+      "text": "συναγωνιζόμενος γὰρ ὡς εἴρηται τοῖς Ἕλλησι καὶ τοὺς Μακεδόνων πρέσβεις ἐξελαύνων ἐπήρχετο τὰς πόλεις, πολὺ βελτίων Θεμιστοκλέους καὶ Ἀλκιβιάδου παρὰ τὰς αὐτὰς τύχας διαφανεὶς πολίτης· καὶ μέντοι καὶ κατελθὼν αὖθις αὑτὸν ἐπέδωκεν εἰς τὴν αὐτὴν ταύτην πολιτείαν, καὶ διετέλει πολεμῶν πρὸς Ἀντίπατρον καὶ Μακεδόνας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4 4",
+      "text": "Κικέρωνα δ’ ὠνείδισεν ἐν τῇ βουλῇ Λαίλιος, αἰτουμένου Καίσαρος ὑπατείαν μετιέναι παρὰ νόμον οὔπω γενειῶντος, σιωπῇ καθήμενον. ἔγραφε δὲ καὶ Βροῦτος (Brut. 1, 16) ἐγκαλῶν ὡς μείζονα καὶ βαρυτέραν πεπαιδοτριβηκότι τυραννίδα τῆς ὑφ’ αὑτοῦ καταλυθείσης. Ἐπὶ πᾶσι δὲ τῆς τελευτῆς τὸν μὲν οἰκτίσαι τις 〈ἄν〉, ἄνδρα πρεσβύτην δι’ ἀγέννειαν ὑπ’ οἰκετῶν ἄνω καὶ κάτω περιφερόμενον καὶ φεύγοντα τὸν θάνατον καὶ ἀποκρυπτόμενον τοὺς οὐ πολὺ πρὸ τῆς φύσεως ἥκοντας ἐπ’ αὐτόν, εἶτ’ ἀποσφαγέντα· τοῦ δ’, εἰ καὶ μικρὰ πρὸς τὴν ἱκεσίαν ἐνέδωκεν, ἀγαστὴ μὲν ἡ παρασκευὴ τοῦ φαρμάκου καὶ τήρησις, ἀγαστὴ δ’ ἡ χρῆσις, ὅτι τοῦ θεοῦ μὴ παρέχοντος αὐτῷ τὴν ἀσυλίαν, ὥσπερ ἐπὶ μείζονα βωμὸν καταφυγών, ἐκ τῶν ὅπλων καὶ τῶν δορυφόρων λαβὼν ἑαυτὸν ᾤχετο, τῆς Ἀντιπάτρου καταγελάσας ὠμότητος.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "okg-dj",
+      "title": {
+        "english": "Aemilius Paulus",
+        "ancient_greek": "Αἰμίλιος Παῦλος"
+      },
+      "url_slug": "plutarch-of-chaeronea-aemilius-paulus-okg-dj",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/aemilius-paulus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-aemilius-paulus-okg-dj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-aemilius-paulus-okg-dj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-aemilius-paulus-okg-dj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-aemilius-paulus-okg-dj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aemilius-paulus.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-ee",
+      "title": {
+        "english": "Agesilaus",
+        "ancient_greek": "Ἀγησίλαος"
+      },
+      "url_slug": "plutarch-of-chaeronea-agesilaus-okg-ee",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/agesilaus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agesilaus-okg-ee.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agesilaus-okg-ee.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agesilaus-okg-ee.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agesilaus-okg-ee.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agesilaus.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-cs",
+      "title": {
+        "english": "Agis and Cleomenes",
+        "ancient_greek": "Ἄγις καὶ Κλεομένης"
+      },
+      "url_slug": "plutarch-of-chaeronea-agis-cleomenes-okg-cs",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/agis-cleomenes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agis-cleomenes-okg-cs.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agis-cleomenes-okg-cs.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agis-cleomenes-okg-cs.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agis-cleomenes-okg-cs.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agis-cleomenes.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-dy",
+      "title": {
+        "english": "Alcibiades",
+        "ancient_greek": "Ἀλκιβιάδης"
+      },
+      "url_slug": "plutarch-of-chaeronea-alcibiades-okg-dy",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/alcibiades",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-alcibiades-okg-dy.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-alcibiades-okg-dy.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-alcibiades-okg-dy.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-alcibiades-okg-dy.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alcibiades.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-ef",
+      "title": {
+        "english": "Alexander",
+        "ancient_greek": "Ἀλέξανδρος"
+      },
+      "url_slug": "plutarch-of-chaeronea-alexander-okg-ef",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/alexander",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-alexander-okg-ef.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-alexander-okg-ef.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-alexander-okg-ef.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-alexander-okg-ef.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alexander.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-ew",
+      "title": {
+        "english": "Amatory",
+        "ancient_greek": "Ἐρωτικός"
+      },
+      "url_slug": "plutarch-of-chaeronea-amatory-okg-ew",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/amatory",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-amatory-okg-ew.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-amatory-okg-ew.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-amatory-okg-ew.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-amatory-okg-ew.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-ct",
+      "title": {
+        "english": "Amatory Narratives",
+        "ancient_greek": "Ἐρωτικαὶ διγηήσεις"
+      },
+      "url_slug": "plutarch-of-chaeronea-amatory-narratives-okg-ct",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/amatory-narratives",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-amatory-narratives-okg-ct.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-amatory-narratives-okg-ct.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-amatory-narratives-okg-ct.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-amatory-narratives-okg-ct.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory-narratives.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-fe",
+      "title": {
+        "english": "Antony",
+        "ancient_greek": "Ἀντώνιος"
+      },
+      "url_slug": "plutarch-of-chaeronea-antony-okg-fe",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/antony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-antony-okg-fe.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-antony-okg-fe.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-antony-okg-fe.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-antony-okg-fe.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/antony.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-bi",
+      "title": {
+        "english": "Apophthegms of Kings and Generals",
+        "ancient_greek": "Ἀποφθέγματα βασιλέων καὶ στρατηγῶν"
+      },
+      "url_slug": "plutarch-of-chaeronea-kings-generals-okg-bi",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/kings-generals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-kings-generals-okg-bi.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-kings-generals-okg-bi.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-kings-generals-okg-bi.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-kings-generals-okg-bi.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/kings-generals.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-ff",
+      "title": {
+        "english": "Aratus",
+        "ancient_greek": "Ἄρατος"
+      },
+      "url_slug": "plutarch-of-chaeronea-aratus-okg-ff",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/aratus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-aratus-okg-ff.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-aratus-okg-ff.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-aratus-okg-ff.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-aratus-okg-ff.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aratus.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-eg",
+      "title": {
+        "english": "Aristides",
+        "ancient_greek": "Ἀριστείδης"
+      },
+      "url_slug": "plutarch-of-chaeronea-aristides-okg-eg",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/aristides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-aristides-okg-eg.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-aristides-okg-eg.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-aristides-okg-eg.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-aristides-okg-eg.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aristides.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-dz",
+      "title": {
+        "english": "Artaxerxes",
+        "ancient_greek": "Ἀρταξέρξης"
+      },
+      "url_slug": "plutarch-of-chaeronea-artaxerxes-okg-dz",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/artaxerxes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-artaxerxes-okg-dz.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-artaxerxes-okg-dz.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-artaxerxes-okg-dz.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-artaxerxes-okg-dz.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/artaxerxes.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "fak-aa",
+      "title": {
+        "english": "Cynic Maxims on Virtue and Fortune",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "diogenes-of-sinope-maxims-virtue-fortune-fak-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-sinope/maxims-virtue-fortune",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-sinope-maxims-virtue-fortune-fak-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-sinope-maxims-virtue-fortune-fak-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-sinope-maxims-virtue-fortune-fak-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-sinope-maxims-virtue-fortune-fak-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-sinope/maxims-virtue-fortune.epub"
+      }
+    },
+    {
+      "eul_wid": "kms-ac",
+      "title": {
+        "english": "Fragments Logical and Physical",
+        "ancient_greek": "Λογικὰ καὶ Φυσικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "chrysippus-of-soli-logical-physical-kms-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/chrysippus-of-soli/logical-physical",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-logical-physical-kms-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-logical-physical-kms-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-logical-physical-kms-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-logical-physical-kms-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/logical-physical.epub"
+      }
+    },
+    {
+      "eul_wid": "jtm-ab",
+      "title": {
+        "english": "Fragments on Pythocles and Nature",
+        "ancient_greek": "Ἀποσπάσματα περὶ Πυθοκλέους καὶ Φύσεως"
+      },
+      "url_slug": "epicurean-anon-pythocles-nature-jtm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicurean-anon/pythocles-nature",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon-pythocles-nature-jtm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon-pythocles-nature-jtm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon-pythocles-nature-jtm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon-pythocles-nature-jtm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon/pythocles-nature.epub"
+      }
+    },
+    {
+      "eul_wid": "azu-ab",
+      "title": {
+        "english": "On Mind and Thought",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "brontinus-of-metapontum-mind-thought-azu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/brontinus-of-metapontum/mind-thought",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum-mind-thought-azu-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum-mind-thought-azu-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum-mind-thought-azu-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum-mind-thought-azu-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum/mind-thought.epub"
+      }
+    },
+    {
+      "eul_wid": "msu-aa",
+      "title": {
+        "english": "On the Existing Books of Music",
+        "ancient_greek": "Περὶ τῶν ὑπαρχόντων βιβλίων μουσικῆς"
+      },
+      "url_slug": "philodemus-of-gadara-existing-music-books-msu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philodemus-of-gadara/existing-music-books",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodemus-of-gadara-existing-music-books-msu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodemus-of-gadara-existing-music-books-msu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodemus-of-gadara-existing-music-books-msu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodemus-of-gadara-existing-music-books-msu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodemus-of-gadara/existing-music-books.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-bm",
+      "title": {
+        "english": "On the Soul (Excerpts)",
+        "ancient_greek": "Περὶ Ψυχῆς"
+      },
+      "url_slug": "aristotle-soul-bm-hgw-bm",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/soul-bm",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-soul-bm-hgw-bm.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-soul-bm-hgw-bm.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-soul-bm-hgw-bm.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-soul-bm-hgw-bm.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/soul-bm.epub"
+      }
+    },
+    {
+      "eul_wid": "cik-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "menestor-the-philosopher-testimonies-cik-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/menestor-the-philosopher/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menestor-the-philosopher-testimonies-cik-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menestor-the-philosopher-testimonies-cik-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menestor-the-philosopher-testimonies-cik-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menestor-the-philosopher-testimonies-cik-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menestor-the-philosopher/testimonies.epub"
+      }
+    },
+    {
+      "eul_wid": "hui-ad",
+      "title": {
+        "english": "Third Letter to Menoeceus",
+        "ancient_greek": "Τρίτη Ἐπιστολὴ πρὸς Μενοικέα"
+      },
+      "url_slug": "epicurus-letter-menoeceus-hui-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicurus/letter-menoeceus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-letter-menoeceus-hui-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-letter-menoeceus-hui-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-letter-menoeceus-hui-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-letter-menoeceus-hui-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/letter-menoeceus.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/demosthenes-cicero",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demosthenes-cicero-okg-ax.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demosthenes-cicero-okg-ax.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demosthenes-cicero-okg-ax.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demosthenes-cicero-okg-ax.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/demosthenes-cicero.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

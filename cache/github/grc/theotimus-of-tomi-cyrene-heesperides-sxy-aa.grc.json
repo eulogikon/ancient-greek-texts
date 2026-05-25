@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "sxy-aa",
+  "eul_aid": "sxy",
+  "author_slug": "theotimus-of-tomi",
+  "work_slug": "cyrene-heesperides",
+  "url_slug": "theotimus-of-tomi-cyrene-heesperides-sxy-aa",
+  "author": {
+    "english": "Theotimus of Tomi",
+    "ancient_greek": "Θεότιμος ὁ Τομέως"
+  },
+  "title": {
+    "english": "On Cyrene and the Hesperides",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Ancient Fragments of Theotimus of Tomi on Eulogikon",
+    "meta_title": "On Cyrene and the Hesperides by Theotimus in Greek",
+    "meta_description": "Theotimus of Tomi preserves rare historical fragments about Cyrene and the Hesperides in this late antique prose Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ Χριστιανική",
+      "english": "Christian Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The work <strong>On Cyrene and the Hesperides</strong>, also known by the alternative title <strong>Apospasmata</strong> or &quot;Extracts,&quot; is a fragmentary prose mythography by the Hellenistic author Theotimus of Tomi. It survives only through six brief passages quoted within the ancient scholia, or explanatory commentaries, on Apollonius of Rhodes&#x27;s epic poem the <strong>Argonautica</strong>. The extant fragments focus on two primary mythological subjects: the origins and parentage of the nymph Cyrene, and detailed information concerning the Hesperides, including their number, names, location, and a description of their famed orchard of golden apples. The text is transmitted exclusively through this scholarly tradition on the <strong>Argonautica</strong>, which served as the sole conduit for these excerpts, and it is not cited in other major surviving bibliographies. Theotimus&#x27;s compilation represents a characteristic product of Hellenistic mythographical scholarship, systematically collecting and presenting variant traditions and geographical details. Its preservation within the <strong>Argonautica</strong> scholia granted it an indirect but lasting influence, ensuring that his specific mythological versions were passed down to later Byzantine and Renaissance readers.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-3",
+      "text": "ΠΕΡΙ ΚΥΡΗΝΗΣ. E LIBRO PRIMO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 (t)",
+      "text": "Schol. Pindar. Pyth. V, 33: Κάρρωτος, ὄνομα κύριον, περὶ οὗ μέμνηται πρὸς τὸν Ἀρκεσίλαον· οἱ δὲ τὸν ἡνίοχον τούτου, ὅν φησιν ὁ Πίνδαρος (scr. Δίδυμος) τῆς Πυθιακῆς νίκης αἴτιον γενέσθαι τῷ Ἀρκεσιλάῳ, κατάγειν δὲ αὐτῷ καὶ στρατιωτικὸν ἀπὸ τῆς Ἑλλάδος ἀθροίσαντα. Ταῦτα δὲ πιστοῦται παρατιθέμενος τὰ Θεοτίμου ἐκ τοῦ πρώτου Περὶ Κυρήνης ἔχοντα οὕτως· «Διαπίπτουσαν δὲ τὴν πρᾶξιν αἰσθόμενος ὁ Ἀρκεσίλαος καὶ βουλόμενος δι’ αὐτοῦ τὰς Ἑσπερίδας οἰκίσαι, πέμπει μὲν εἰς τὰς πανηγύρεις ἵππους ἀθλήσοντας Εὔφημον ἄγοντα, νικήσας δὲ τὰ Πύθια καὶ τὴν ἑαυτοῦ πατρίδα ἐστεφάνωσε καὶ ἐποίκους εἰς τὰς Ἑσπερίδας συνέλεγεν. Εὔφημος μὲν οὖν ἐτελεύτα· Κάρρωτος δὲ τῆς Ἀρκεσιλάου γυναικὸς ἀδελφὸς διεδέξατο τὴν τῶν ἐποίκων ἡγεμονίαν.» Ὁ τοίνυν Πίνδαρος τοῖς ἑταίροις καθομιλῶν τὸ καταπραχθὲν τῷ Εὐφήμῳ τῷ Καρρώτῳ προσῆψε. Idem ad Pyth.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "IV, 61: Κυβερνήτης ὁ Εὔφημος ἦν καὶ πρωρεύς· τοῦτο γὰρ ἱστορεῖν ἴσμεν Θεότιμον. Pindarus Ol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "VII, 33: Θεότιμος δὲ ἐν τῷ περὶ τοῦ Νείλου ὅρου ἱστοριῶν διὰ τοῦ υ γράφει εὔβολον, καὶ οὕτω προσαγορεύεσθαι διὰ τὸ ἐν καλῷ τόπῳ κεῖσθαι τὴν νῆσον. ΙΤΑΛΙΚΑ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "t4",
+      "text": "E LIBRO SECUNDO. Plutarch.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Par. M. c. 8: Πορσίνας, Τούσκων βασιλεὺς, πέραν Θύμβριος ποταμοῦ στρατεύσας ἐπολέμησε Ῥωμαίοις, καὶ τὴν ἀπὸ σιτίων φερομένην εὐθηνίαν μέσην λαβὼν, λιμῷ τοὺς προειρημένους ἔτρυχεν. Ὁράτιος δὲ Κάτλος, στρατηγὸς χειροτονηθεὶς, τὴν ξυλίνην κατελάβετο γέφυραν, καὶ τὸ πλῆθος τῶν βαρβάρων διαβῆναι βουλόμενον ἐπεῖχε. Πλεονεκτούμενος δὲ ὑπὸ τῶν πολεμίων, προσέταξε τοῖς ὑποτεταγμένοις κόπτειν τὴν γέφυραν, καὶ τὸ πλῆθος τῶν βαρβάρων διαβῆναι βουλόμενον ἐκώλυσε. Βέλει δὲ τὸν ὀφθαλμὸν πληγεὶς, ῥίψας ἑαυτὸν εἰς τὸν ποταμὸν, διενήξατο εἰς τοὺς οἰκείους· ὡς Θεότιμος δευτέρῳ Ἰταλικῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "puu-aa",
+      "title": {
+        "english": "Fragments on Chios",
+        "ancient_greek": "Ἀποσπάσματα περὶ Χίου"
+      },
+      "url_slug": "hypermenes-the-historian-chios-fragments-puu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hypermenes-the-historian/chios-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypermenes-the-historian-chios-fragments-puu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypermenes-the-historian-chios-fragments-puu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypermenes-the-historian-chios-fragments-puu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypermenes-the-historian-chios-fragments-puu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypermenes-the-historian/chios-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "ods-aa",
+      "title": {
+        "english": "Fragments on Italy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἰταλίας"
+      },
+      "url_slug": "conon-the-mythographer-italy-ods-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/conon-the-mythographer/italy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/conon-the-mythographer-italy-ods-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/conon-the-mythographer-italy-ods-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/conon-the-mythographer-italy-ods-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/conon-the-mythographer-italy-ods-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/conon-the-mythographer/italy.epub"
+      }
+    },
+    {
+      "eul_wid": "ira-aa",
+      "title": {
+        "english": "Fragments on Pindar's Odes",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Πινδάρου Ἐπινίκων"
+      },
+      "url_slug": "artemon-of-pergamum-pindar-fragments-ira-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/artemon-of-pergamum/pindar-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemon-of-pergamum-pindar-fragments-ira-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemon-of-pergamum-pindar-fragments-ira-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemon-of-pergamum-pindar-fragments-ira-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemon-of-pergamum-pindar-fragments-ira-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemon-of-pergamum/pindar-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "nie-aa",
+      "title": {
+        "english": "Fragments on the Battle of Salamis",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς ἐν Σαλαμῖνι Ναυμαχίας"
+      },
+      "url_slug": "aristodemus-the-historian-battle-salamis-nie-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristodemus-the-historian/battle-salamis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristodemus-the-historian-battle-salamis-nie-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristodemus-the-historian-battle-salamis-nie-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristodemus-the-historian-battle-salamis-nie-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristodemus-the-historian-battle-salamis-nie-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristodemus-the-historian/battle-salamis.epub"
+      }
+    },
+    {
+      "eul_wid": "fyg-aa",
+      "title": {
+        "english": "Historical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "diyllus-of-athens-historical-fragments-fyg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/diyllus-of-athens/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diyllus-of-athens-historical-fragments-fyg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diyllus-of-athens-historical-fragments-fyg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diyllus-of-athens-historical-fragments-fyg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diyllus-of-athens-historical-fragments-fyg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diyllus-of-athens/historical-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "mmg-bl",
+      "title": {
+        "english": "On Lesbos",
+        "ancient_greek": "Περὶ Λέσβου"
+      },
+      "url_slug": "historical-fragments-anonymous-lesbos-mmg-bl",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/lesbos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-lesbos-mmg-bl.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-lesbos-mmg-bl.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-lesbos-mmg-bl.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-lesbos-mmg-bl.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/lesbos.epub"
+      }
+    },
+    {
+      "eul_wid": "hoe-ad",
+      "title": {
+        "english": "On the Hyperboreans",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hecataeus-of-abdera-hyperboreans-hoe-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/hecataeus-of-abdera/hyperboreans",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-hyperboreans-hoe-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-hyperboreans-hoe-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-hyperboreans-hoe-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-hyperboreans-hoe-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera/hyperboreans.epub"
+      }
+    },
+    {
+      "eul_wid": "fbe-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "ephorus-of-cyme-testimonies-fbe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ephorus-of-cyme/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme-testimonies-fbe-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme-testimonies-fbe-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme-testimonies-fbe-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme-testimonies-fbe-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme/testimonies.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/theotimus-of-tomi/cyrene-heesperides",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theotimus-of-tomi-cyrene-heesperides-sxy-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theotimus-of-tomi-cyrene-heesperides-sxy-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theotimus-of-tomi-cyrene-heesperides-sxy-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theotimus-of-tomi-cyrene-heesperides-sxy-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theotimus-of-tomi/cyrene-heesperides.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

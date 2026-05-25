@@ -1,0 +1,302 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "jre-aa",
+  "eul_aid": "jre",
+  "author_slug": "paradoxographer-anon",
+  "work_slug": "ruined-houses",
+  "url_slug": "paradoxographer-anon-ruined-houses-jre-aa",
+  "author": {
+    "english": "Paradoxographer Anonymous",
+    "ancient_greek": "Ἀνώνυμοι Παραδοξογράφοι"
+  },
+  "title": {
+    "english": "Which Houses Were Ruined by Women",
+    "ancient_greek": "Τίνες οἶκοι ἀνάστατοι διὰ γυναῖκας ἐγένοντο"
+  },
+  "seo": {
+    "browser_title": "Which Houses Were Ruined by Women by Anonymous on Eulogikon",
+    "meta_title": "Which Houses Were Ruined by Women by Anonymous in Greek",
+    "meta_description": "Paradoxographical text on households ruined by female agency. Anonymous Greek historical anecdote. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The work <strong>Which Houses Were Ruined by Women</strong> is a brief paradoxographical text, a genre dedicated to collecting wondrous or paradoxical phenomena from history and mythology. It catalogues instances from Greek legend where royal dynasties or powerful households were destroyed due to the actions of women. The text presents a concise list, naming the houses of Heracles, Eurytus, Theseus, Athamas, Jason, Tereus, Agamemnon, Priam, and Amphiaraus, each linked to a specific woman whose involvement precipitated ruin. It is preserved within medieval manuscripts containing collections of minor anonymous paradoxographical works, and the two extant passages likely represent the complete compiled list as intended by the anonymous author. As a minor work, its direct influence is untraceable, but it exemplifies the paradoxographical genre. It illustrates how anecdotes concerning women and power were curated and transmitted as historical curiosities, serving as a source for understanding the reception of women in ancient literature.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "ΤΙΝΕΣ ΟΙΚΟΙ ΑΝΑΣΤΑΤΟΙ ΔΙΑ ΓΥΝΑΙ ΚΑΣ ΕΓΕΝΟΝΤΟ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Ὁ μὲν Ἡρακλέους διὰ τὴν ἐπιγαμίαν Ἰόλης, τῆς Εἰρύτου θυγατρός, καὶ ὁ Εὐρύτου διὰ τὴν θυγατέρα. ὁ Θησέως διὰ τὸν ἐφ’ Ἱππολύτῳ Φαίδρας ἔρωτα. ὁ Ἀθάμαντος διὰ τὴν Θεμιστοῦς τῆς Ὑψέως ἐπιγαμίαν. ὁ δὲ Ἰάσονος διὰ Γλαύκην τὴν Κρέοντος. ὁ Τηρέως διὰ τὴν Φιλομήλας φθοράν. ὁ Ἀγαμέμνονος διὰ τὴν Κλυταιμνήστραν. ὁ Πριάμου διὰ τὴν Ἑλένης παρουσίαν. ὁ Ἀμ φιαρέω διὰ τὴν Ἐριφίλην.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "jre-ab",
+      "title": {
+        "english": "On Brotherly Friends",
+        "ancient_greek": "Περὶ ἀδελφικῶν φίλων"
+      },
+      "url_slug": "paradoxographer-anon-brotherly-friends-jre-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/paradoxographer-anon/brotherly-friends",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-brotherly-friends-jre-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-brotherly-friends-jre-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-brotherly-friends-jre-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-brotherly-friends-jre-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/brotherly-friends.epub"
+      }
+    },
+    {
+      "eul_wid": "jre-ag",
+      "title": {
+        "english": "On Friends",
+        "ancient_greek": "Περὶ φίλων"
+      },
+      "url_slug": "paradoxographer-anon-friends-jre-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/paradoxographer-anon/friends",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-friends-jre-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-friends-jre-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-friends-jre-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-friends-jre-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/friends.epub"
+      }
+    },
+    {
+      "eul_wid": "jre-ac",
+      "title": {
+        "english": "On Incredible Things",
+        "ancient_greek": "Περὶ ἀπίστων"
+      },
+      "url_slug": "paradoxographer-anon-incredible-things-jre-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/paradoxographer-anon/incredible-things",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-incredible-things-jre-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-incredible-things-jre-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-incredible-things-jre-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-incredible-things-jre-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/incredible-things.epub"
+      }
+    },
+    {
+      "eul_wid": "jre-ad",
+      "title": {
+        "english": "On Transformations",
+        "ancient_greek": "Περὶ μεταμορφώσεων"
+      },
+      "url_slug": "paradoxographer-anon-transformations-jre-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/paradoxographer-anon/transformations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-transformations-jre-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-transformations-jre-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-transformations-jre-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-transformations-jre-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/transformations.epub"
+      }
+    },
+    {
+      "eul_wid": "jre-af",
+      "title": {
+        "english": "On the Impious",
+        "ancient_greek": "Περὶ τῶν ἀσεβῶν"
+      },
+      "url_slug": "paradoxographer-anon-impious-jre-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/paradoxographer-anon/impious",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-impious-jre-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-impious-jre-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-impious-jre-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-impious-jre-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/impious.epub"
+      }
+    },
+    {
+      "eul_wid": "jre-ae",
+      "title": {
+        "english": "Treatise-Women",
+        "ancient_greek": "Περὶ γυναικῶν"
+      },
+      "url_slug": "paradoxographer-anon-women-jre-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/paradoxographer-anon/women",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-women-jre-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-women-jre-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-women-jre-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-women-jre-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/women.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "biq-aa",
+      "title": {
+        "english": "Egyptian Geographical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aristagoras-of-miletus-egyptian-geography-biq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristagoras-of-miletus/egyptian-geography",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-of-miletus-egyptian-geography-biq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-of-miletus-egyptian-geography-biq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-of-miletus-egyptian-geography-biq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-of-miletus-egyptian-geography-biq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-of-miletus/egyptian-geography.epub"
+      }
+    },
+    {
+      "eul_wid": "luy-aa",
+      "title": {
+        "english": "Fragments on Persian Wars",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Περσικῶν Πολέμων"
+      },
+      "url_slug": "agatharchides-of-samos-persian-wars-luy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/agatharchides-of-samos/persian-wars",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-samos-persian-wars-luy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-samos-persian-wars-luy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-samos-persian-wars-luy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-samos-persian-wars-luy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-samos/persian-wars.epub"
+      }
+    },
+    {
+      "eul_wid": "pdc-ag",
+      "title": {
+        "english": "From the Nomadic",
+        "ancient_greek": "ἐκ τῆς Νομαδικῆς"
+      },
+      "url_slug": "appian-of-alexandria-nomadic-pdc-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/nomadic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-nomadic-pdc-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-nomadic-pdc-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-nomadic-pdc-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-nomadic-pdc-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/nomadic.epub"
+      }
+    },
+    {
+      "eul_wid": "pdc-al",
+      "title": {
+        "english": "Hannibalic",
+        "ancient_greek": "Ἀννιβαϊκή"
+      },
+      "url_slug": "appian-of-alexandria-hannibalic-pdc-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/hannibalic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-hannibalic-pdc-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-hannibalic-pdc-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-hannibalic-pdc-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-hannibalic-pdc-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/hannibalic.epub"
+      }
+    },
+    {
+      "eul_wid": "fyg-aa",
+      "title": {
+        "english": "Historical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "diyllus-of-athens-historical-fragments-fyg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/diyllus-of-athens/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diyllus-of-athens-historical-fragments-fyg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diyllus-of-athens-historical-fragments-fyg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diyllus-of-athens-historical-fragments-fyg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diyllus-of-athens-historical-fragments-fyg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diyllus-of-athens/historical-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "ofq-ac",
+      "title": {
+        "english": "Josephus' Life",
+        "ancient_greek": "Ἰωσήπου βίος"
+      },
+      "url_slug": "josephus-josephus-life-ofq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/josephus/josephus-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus-josephus-life-ofq-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus-josephus-life-ofq-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus-josephus-life-ofq-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus-josephus-life-ofq-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/josephus-life.epub"
+      }
+    },
+    {
+      "eul_wid": "viq-aa",
+      "title": {
+        "english": "On Sentences, In Constantine Porphyrogenitus'-Sentences",
+        "ancient_greek": "Περὶ Γνωμῶν"
+      },
+      "url_slug": "menander-protector-constantine-sentences-viq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-protector/constantine-sentences",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-protector-constantine-sentences-viq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-protector-constantine-sentences-viq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-protector-constantine-sentences-viq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-protector-constantine-sentences-viq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-protector/constantine-sentences.epub"
+      }
+    },
+    {
+      "eul_wid": "unc-ab",
+      "title": {
+        "english": "Secret History",
+        "ancient_greek": "Ἀπόκρυφη Ἱστορία"
+      },
+      "url_slug": "procopius-of-caesarea-secret-history-unc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/procopius-of-caesarea/secret-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/procopius-of-caesarea-secret-history-unc-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/procopius-of-caesarea-secret-history-unc-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/procopius-of-caesarea-secret-history-unc-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/procopius-of-caesarea-secret-history-unc-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/procopius-of-caesarea/secret-history.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/paradoxographer-anon/ruined-houses",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-ruined-houses-jre-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-ruined-houses-jre-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-ruined-houses-jre-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-ruined-houses-jre-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/ruined-houses.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

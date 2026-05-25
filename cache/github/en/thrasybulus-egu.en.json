@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "egu",
+  "auth_slug": "thrasybulus",
+  "name": {
+    "english": "Thrasybulus",
+    "ancient_greek": "Θρασύβουλος"
+  },
+  "seo_h1": "Thrasybulus on Tyranny",
+  "seo": {
+    "browser_title": "Thrasybulus the Athenian Orator on Eulogikon Greek Archive",
+    "meta_title": "Classical Thrasybulus Ancient Greek Orations and Epistles",
+    "meta_description": "Thrasybulus, a 4th-century BCE Athenian orator. Surviving works include orations and epistles. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The name Thrasybulus is associated with notable Athenian historical figures, not a known epistolary author from the 4th–3rd century BCE. The most prominent is Thrasybulus, son of Lycus, a general and democratic leader instrumental in overthrowing the Thirty Tyrants and restoring Athenian democracy in 403 BCE. Another is Thrasybulus of Calydon, a general active in the early 4th century BCE. Neither is attested as an author of epistles.</p>\n<p class=\"research-text\">No epistolary works are attributed to a Thrasybulus from this period in authoritative sources. The extant records concerning individuals named Thrasybulus document political and military actions, not literary production.</p>\n<p class=\"research-text\">The historical significance of the name lies entirely in the political-military history of classical Athens, particularly the restoration of democracy. While metadata suggests an epistolary author, no such figure or corpus is verified by standard scholarly sources on classical antiquity.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "egu-aa",
+      "title": {
+        "english": "Fragments on Tyranny",
+        "ancient_greek": "Ἀπόσπασμα περὶ Τυραννίδος"
+      },
+      "url_slug": "thrasybulus-tyranny-fragments-egu-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/thrasybulus/tyranny-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasybulus-tyranny-fragments-egu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasybulus-tyranny-fragments-egu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasybulus-tyranny-fragments-egu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasybulus-tyranny-fragments-egu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasybulus/tyranny-fragments.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/thrasybulus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/thrasybulus-egu.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/thrasybulus-egu.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/thrasybulus-egu.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/thrasybulus-egu.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

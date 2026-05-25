@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "gmm",
+  "auth_slug": "laon-the-comic-poet",
+  "name": {
+    "english": "Laon the Comic Poet",
+    "ancient_greek": "Λάων ὁ κωμικός"
+  },
+  "seo_h1": "Laon the Comic Poet on Boeotia and Character",
+  "seo": {
+    "browser_title": "Laon the Comic Poet on Eulogikon Greek Archive and Library",
+    "meta_title": "Laon the Comic Poet Ancient Greek Comedy Fragments",
+    "meta_description": "Laon was a Greek comic poet of the 4th or 3rd century BCE. Two surviving works are preserved. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Laon was a Greek comic poet who lived during the 4th or early 3rd century BCE, a period that saw the evolution of comedy from the Middle to the New style. Beyond this, no details of his life are known. He is an obscure figure, documented only through later quotations, and his work survives only in fragments.</p>\n<p class=\"research-text\">According to the 2nd–3rd century CE writer Athenaeus, Laon wrote two comedies: <strong>The Centaur</strong> and <strong>The Phrygian</strong>. These titles suggest plays that may have involved mythological parody or ethnic humor, common themes of the time. The surviving fragments from these lost works merely mention specific foods, like a type of cake and a dish made of brains.</p>\n<p class=\"research-text\">Laon’s historical importance is as a representative of the many comic poets whose works did not survive antiquity. He is a fragmentary data point, showing how later scholars preserved minor authors by citing interesting details of daily life and language. His existence helps modern scholars understand the breadth and fragmentary nature of the Greek comic tradition beyond its most famous names.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "gmm-aa",
+      "title": {
+        "english": "On Boeotia and Character",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "laon-the-comic-poet-boeotia-character-aa-gmm-aa",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/laon-the-comic-poet/boeotia-character-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet-boeotia-character-aa-gmm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet-boeotia-character-aa-gmm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet-boeotia-character-aa-gmm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet-boeotia-character-aa-gmm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet/boeotia-character-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "gmm-ab",
+      "title": {
+        "english": "On Boeotia and Character",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "laon-the-comic-poet-boeotia-character-ab-gmm-ab",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/laon-the-comic-poet/boeotia-character-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet-boeotia-character-ab-gmm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet-boeotia-character-ab-gmm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet-boeotia-character-ab-gmm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet-boeotia-character-ab-gmm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet/boeotia-character-ab.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/laon-the-comic-poet",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/laon-the-comic-poet-gmm.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/laon-the-comic-poet-gmm.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/laon-the-comic-poet-gmm.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/laon-the-comic-poet-gmm.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

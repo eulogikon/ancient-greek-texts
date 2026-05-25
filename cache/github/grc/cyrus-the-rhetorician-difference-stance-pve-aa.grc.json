@@ -1,0 +1,401 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "pve-aa",
+  "eul_aid": "pve",
+  "author_slug": "cyrus-the-rhetorician",
+  "work_slug": "difference-stance",
+  "url_slug": "cyrus-the-rhetorician-difference-stance-pve-aa",
+  "author": {
+    "english": "Cyrus the Rhetorician",
+    "ancient_greek": "Κῦρος ὁ Ῥητορικός"
+  },
+  "title": {
+    "english": "On the Difference of Stance",
+    "ancient_greek": "Περὶ διαφορᾶς στάσεως"
+  },
+  "seo": {
+    "browser_title": "On Difference Stance by Cyrus the Rhetorician on Eulogikon",
+    "meta_title": "On Difference of Stance by Cyrus the Rhetorician in Greek",
+    "meta_description": "Cyrus the Rhetorician analyzes how speakers adopt different stances to address legal and political questions. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">_On the Difference of Stance_ is a rhetorical treatise attributed to Cyrus the Rhetorician, structured in the form of an oration comprising thirty passages. The work is dedicated to the doctrine of stasis, the foundational rhetorical system for determining the central point of dispute in a forensic or deliberative speech, which in turn dictates the appropriate argumentative strategy. Its content, as indicated by the title and the surviving introductory portion, systematically explores the theory and classification of stasis, methods for identifying the core issue in a legal case, and the specific argumentative approaches corresponding to each type of stance. The treatise illustrates its principles with hypothetical legal scenarios, such as a complex case concerning a guardian accused of circumventing a law that forbids marriage to a ward, focusing the inquiry on the defendant&#x27;s intent. The transmission history of the work is undocumented, and its attribution to Cyrus suggests it may survive within broader manuscript collections of rhetorical texts, though its current state of preservation is unverified. While the specific influence of this treatise is unattested, the doctrine of stasis it explicates was a cornerstone of Greco-Roman rhetorical education and judicial practice, as demonstrated by its treatment in the works of later theorists like Cicero and Quintilian.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t",
+      "text": "ΚΥΡΟΥ ΠΕΡΙ ΔΙΑΦΟΡΑΣ ΣΤΑΣΕΩΣ. ΠΕΡΙ ΚΑΤΑΣΟΦΙΣΜΟΥ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 (t)",
+      "text": "Τὰς τοῦ κατασοφισμοῦ ζητήσεις στοχαστικὰς ὡς ἐπὶ τὸ πλεῖστον εἶναι πάντες ἀπεφήναντο· οὐ γὰρ ζητοῦμεν, φασὶν, ἐν αὐταῖς τί ἐστιν τὸ κατασοφίσασθαι, ἵνα γένωνται οἱ ὅροι, ἀλλ’ ὁμολογουμένου τούτου, τοῦ ὅτι κατασοφίσασθαί ἐστι τὸ ὅτῳ δὴ τρόπῳ ποιῆσαι τὸ κεκωλυμένον, ἡ ζήτησις πᾶσά ἐστι περὶ τοῦ εἰ ἑκὼν ἢ ἄκων ἐποίησε. Προκείσθω δὲ παραδείγματος ἕνεκεν ἐκεῖνο τὸ ζήτημα· νόμος τὴν ὀρφανὴν μήτε τὸν ἐπίτροπον γαμεῖν, μήτε τὸν τοῦ ἐπιτρόπου παῖδα. ἐπίτροπος τὸν υἱὸν ἀπεκήρυξεν, ἐκεῖνος ἐβιάσατο τὴν κόρην· εἵλετο αὐτοῦ τὸν γάμον ἡ παῖς· ἀνέλαβεν αὐτὸν μετὰ ταῦτα ὁ πατήρ· καὶ κρίνεται κατασοφισμοῦ· ὅτι μὲν γὰρ [οὐ] κεκώλυκεν ὁ νομοθέτης μὴ γαμεῖν τὸν υἱὸν τοῦ ἐπιτρόπου, γέγονεν· ἐκ τῆς τέχνης δῆλόν ἐστι, ζητεῖται δὲ εἰ ταῦτα γνώμῃ τοῦ ἐπιτρόπου γέγονε. καὶ πᾶσα ἡ διαίρεσις ἔσται στοχαστική· καὶ τοῖς τοῦ στοχασμοῦ κεφαλαίοις τεμοῦμεν ζήτημα πλὴν τῆς τῶν ἐλέγχων ἀπαιτήσεως· ἐν γὰρ τοῖς γνωμικοῖς στοχασμοῖς τὸ κεφάλαιον τοῦτο ἐκλείπει· ὡς ἐπὶ τὸ πλεῖστον μὲν οὖν στοχαστικαί εἰσιν, ὡς ἔφαμεν, αἱ τοῦ κατασοφισμοῦ ζητήσεις· ἔσονται δέ ποτε καὶ ἀντιληπτικαὶ, ὡς ἐπ’ ἐκείνου τοῦ ζητήματος· ἐξῆν καὶ ἐκ δούλης παιδοποιεῖσθαι, ἔχων τις γνήσιον ἔσχεν καὶ ἐκ δούλης παῖδα· νόμου κελεύοντος, διανέμειν μὲν τὸν πρεσβύτερον, αἱρεῖσθαι δὲ τὸν νεώτερον, διένειμεν ὁ γνήσιος ἀντιτιθεὶς τῇ λοιπῇ οὐσίᾳ τὴν μητέρα τοῦ ἀδελφοῦ· ἐκεῖνος εἵλετο τὴν μητέρα καὶ κρίνει τὸν νείμαντα κατασοφισμοῦ· οὐκ ἀρνεῖται ἐνταῦθα ὁ νείμας, ἀλλά φησιν, ὅτι καὶ κατ’ ἐξουσίαν διένειμα, καὶ δίκαιος ἡ διανομή· μητέρα γὰρ ἀντέθηκα τοῖς κτήμασιν· καὶ ὅλως εὔηθες τὴν ζήτησιν οἴεσθαι εἶναι περὶ τὴν γνώμην τοῦ νείμαντος· πότερον ἑκὼν ἐποίησεν ἢ ἄκων· ὁμολογῶν γὰρ ἐκεῖνος τὸ πεποιηκέναι, τὸ κατ’ ἐξουσίαν προβάλλεσθαι· ἔσονται δέ ποτε καὶ συλλογιστικοὶ κατασοφισμοί· οἷον νόμος ἐκώλυεν ὀνομαστὶ μὴ κωμῳδεῖν τὰ πρόσωπα· τὶς αὐτὰ εἰσάγει· καὶ κρίνεται κατασοφισμοῦ· δῆλος μὲν γὰρ κατασοφισμὸς, ὅτι ἑτέρῳ τρόπῳ πεποίηκε τὸ κεκωλυμένον· διαιρεῖται δὲ τοῖς τοῦ συλλογισμοῦ κεφαλαίοις, τοῦ μὲν κρινομένου λέγοντος, μὴ εἶναι ἑαυτὸν ὑπεύθυνον τῷ ῥητῷ· μὴ γὰρ πρὸς ὄνομα κεκωμῳδηκέναι, τοῦ κατηγόρου λέγοντος, ὅτι ἴσον ἐστὶ τῷ κεκωλυμένῳ· ἐγὼ δὲ σὲ οὐ παρανομῶν κρίνω, ἀλλ’ ὅτι κατεσοφίσω αὐτὸ ποιῶν· τοῦτο δὲ ἄλλος ὅρον εἴρηκεν, οὕτως ὁριζόμενος· νόμος πρὸς ὄνομα μὴ κωμῳδεῖν· κωμῳδουμένου τινὸς, ὁ δῆμος ἀνεβόησεν οὐ δεῖν κωμῳδεῖν· ἔσονταί ποτε καὶ ἀντιστατικοὶ σοφισμοὶ, ὅταν ἐπὶ συμφέροντί τις κατασεσοφίσθαι λέγῃ· καθόλου τοίνυν ἰστέον ὅτι οἱ κατασοφισμοὶ ὡς ἐπὶ τὸ πλεῖστον στοχαστικοὶ ἔσονται, ἐνίοτε δὲ καὶ ἀντιστατικοὶ καὶ συλλογιστικοὶ, οὐ μὴν ὅροι. ΠΕΡΙ ΔΗΜΟΥ ΑΠΑΤΗΣ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 (t)",
+      "text": "Αἱ τῆς ἀπάτης ζητήσεις ὡς ἐπὶ τὸ πλεῖστον μὲν καὶ αὗται στοχαστικαὶ ἔσονται ζητούντων εἰ ἑκὼν ἠπάτησεν ἢ ἄκων· οὐ μὴν ἀλλὰ καὶ ὅροι· καὶ πολλάκις εὑρεθήσονται, ὅταν ζητῶμεν, ὅτι ἐστὶ τὸ ἀπατᾷν· δύνανται δὲ καὶ ἀντιστατικαὶ γίνεσθαι, ἂν λέγῃ φεύγων, ἐξηπάτησε μὲν, ἀλλ’ ἐπὶ συμφέροντι· ὡς οἱ ἰατροὶ καὶ οἱ κυβερνῆται, εὐθυμίας ἕνεκα τῶν ὑποτεταγμένων· πρὸς δὲ καὶ οἱ στρατηγοί· ἔσονται δέ ποτε καὶ ἀντεγκληματικαί, ὅταν ὁ φεύγων ἀντεγκαλῇ τῷ διώκοντι ὡς ἀξίῳ ὄντι ἀπατηθῆναι· οἷός ἐστι, φησὶν, ὁ Θεμιστοκλῆς ὁ ἀπάτης ὑπὸ τῶν Λακεδαιμονίων ἐπὶ τῷ τειχισμῷ κρινόμενος· καθόλου τοίνυν ἰστέον, ὅτι οἱ τῆς ἀπάτης κρινόμενοι ἢ στοχαστικὰς ἢ ὁρικὰς ἢ ἀντεγκληματικὰς ἢ συγγνωμονικὰς τὰς ζητήσεις ποιήσουσι. ΠΕΡΙ ΚΑΚΩΣΕΩΣ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 (t)",
+      "text": "Αἱ τῆς κακώσεως δίκαι ὡς ἐπὶ τὸ πλεῖστον ἀντιληπτικαὶ ἔσονται, ἔχουσαι μὲν τύπῳ παραγραφικῷ τὸ ὁριστικὸν προκείμενον· οἷον ἐπ’ ἄλλοις ἡ κάκωσις ἐπὶ τὴν γυναῖκα ὑβρίζειν· ἢ προόδους αὐτῇ κωλύειν, ἢ τὴν προῖκα διαφθείρειν, ἢ ἄλλην ἐπεισάγειν γυναῖκα· ἀντιληπτικαὶ δὲ οὖσαι μᾶλλον διὰ τὸ ἔχειν αὐτὸν τὴν ἐξουσίαν προβάλλεσθαι· οἷον ἐπεισάγων τις τοῖς παισὶ μητρυιὰν ἀπεκήρυξεν αὐτοὺς, καὶ κρίνεται ὑπ’ αὐτῶν κακώσεως, μετὰ τὰ προειρημένα ἐρεῖ ὁτὲ καὶ ἐξῆν· ἑξῆς καὶ εἰς τὸν νόμον ἡ ζήτησις· ὅπου γὰρ ἐπιλαμβάνεται νόμου, ἢ ἁπλῶς ἐγγράφου, ῥητὸν καὶ διάνοια ἀκολουθεῖ· ὅτι φόβου ἕνεκα νόμος κεῖται καὶ οὐκ ἀληθείας. εἰ δὲ καὶ πάντως οὐ παρανομῶν σε κρίνω, ἀλλ’ ὅτι τὴν γυναῖκα λελύπηκας. ΠΕΡΙ ΚΑΚΟΥ ΒΙΟΥ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4 (t)",
+      "text": "Αἱ τοῦ κακοῦ βίου ζητήσεις ἔχουσι μὲν καὶ αὗται προηγούμενον τὸ ὁριστικὸν, ζητούντων ἡμῶν, τίς ὁ κακὸς βίος· εἰσὶ δ’, ὅταν μὲν ἐφ’ οἷς τις αὐτὸς πεποίηκε κρίνηται, ἀντιληπτικαὶ, ὅταν δὲ ἐφ’ οἷς πεποίηκε, στοχαστικαί. παραδείγματα ἀμφοτέρων· ἀναιρεῖ τις τοὺς φυγάδας κατιόντας, καὶ τούτῳ χρώμενος κακοῦ βίου κρίνεται· προηγουμένων τῶν παραγραφικῶν, ὅτι οὐκ ἀφ’ ἑνὸς δεῖ κρίνεσθαι, ἀλλὰ πολλῶν καὶ τῶν καθ’ ἑκάστην ἡλικίαν πεπραγμένων, ἕπεται τῷ ἀντιληπτικῷ, ὅτι ἐξῆν ἀναιρεῖν τοὺς φυγάδας· τοῦ δὲ στοχαστικοῦ παράδειγμα· συνεχῶς τις κηρυττόμενος κακοῦ βίου κρίνεται· τοῦτο γὰρ τοῖς τοῦ στοχασμοῦ κεφαλαίοις διαιρεῖται· γένοιντο δ’ ἄν ποτε καὶ συγγνωμονικαί· οἷον ἐρασθέντι τῷ προγόνῳ μητρυιᾶς συνεχώρησεν ὁ πατὴρ καὶ κρίνονται οἱ τρεῖς κακοῦ βίου· ἰστέον οὖν ὅτι καθόλου ἡ ἀντίληψις· καὶ ἔσονται ἢ τινὲς τῶν δικαιολογικῶν ἢ στοχαστικαὶ ἢ συγγνωμονικαί. ΠΕΡΙ ΚΑΚΟΥ ΕΘΟΥΣ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5 (t)",
+      "text": "Αἱ τοῦ κακοῦ ἔθους ἀντιλήψεις εἰσί· ζητεῖται γὰρ ἐν αὐταῖς θετικῶς, εἰ καλῶς ταῦτα ἔπραξεν, ἢ οὔ· ἄτοπον δέ φησι τὸ προστιθέναι, ὅτι ἐπ’ ἄλλοις τὸ κακὸν ἔθος ἤδη προχωρήσει· αὔξεται δὲ ἀπὸ τῆς ἐξουσίας· καὶ ἀντιλήψεις μέν εἰσι τὸ μὴ παρὰ τοῦ μέλλοντος εἶναι ζήτησιν ἁπλῶς, ἀλλὰ κρίσιν τοῦ φανέντος ἤδη· ὅπερ ἐπὶ ταῖς δικαιολογικαῖς ὑπάρχει· πάλιν αὐτῶν τῶν δικαιολογικῶν ταύτῃ διαφέρουσιν· ἀντιλήψεις γίγνονται ὅτι ἐν ἐκείναις μὲν ὁμολογεῖται τὸ ἀδίκημα, ἐν ταύτῃ δὲ ζητεῖται εἰ κακόν ἐστιν ἢ οὔ. ΠΕΡΙ ΑΧΑΡΙΣΤΕΙΑΣ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 (t)",
+      "text": "Αἱ τῆς ἀχαριστείας γραφαὶ ἔχουσι καὶ τὸ πῶς ἀχάριστος· ὅπερ ἐστὶν ὁριστικόν· εἰσὶ δὲ καὶ ἀντιλήψεις καὶ ἀντιστάσεις· ἀντιλήψεις μὲν, οἷον ἀποκηρύκτων ἐξῆλθεν ἡ μήτηρ· ἐκεῖνος μισθοφορεῖ καὶ κρίνεται ὑπὸ τῆς μητρὸς ἀχαριστείας· ἄλλοι δέ φασι, συνεμπίπτειν μὲν τῇ ἀντιλήψει τὰς τῆς ἀχαριστείας γραφὰς, μὴ χρῆναι δεῖν αὐτὰς, ἄλλως τε γὰρ μᾶλλόν φησιν ὁ κρινόμενος, ἐν οἷς ἐξῆν αὐτὸν μὴ διαλῦσαι τὴν χάριν· ἄμεινον οὖν ἐν ταῖς τοιαύταις γραφαῖς ἐπὶ τὰς ἄλλας τὰς δικαιολογικὰς καταφεύγειν ἀντιστάσεις, ἀντεγκλήματα, συγγνώμας· ἄλλος δέ τίς φησιν, ὁριστικὴν μὲν εἶναι τὴν ἀχαριστείαν· ἂν γὰρ ὁρίσηται ὁ ἕτερος ὅτι ἀχαριστίας ἐστὶ τὸ δυνάμενόν τινα μὴ ἐκτῖσαι χάριν, οὐδὲν ἔχειν εἰπεῖν τὸν ἕτερον, ἀντιληπτικὴν δὲ οὐχὶ τὴν ἐξουσίαν ἀντιθέτως ἀλλὰ λέγοντος, ὅτι οὐ δικαίαν με χάριν ἀπαιτεῖ· καὶ τῆς ζητήσεως οὔσης περὶ τὸ δίκαιον. ΠΕΡΙ ΠΛΡΑΝΟΙΑΣ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7 (t)",
+      "text": "Αἱ τῆς παρανοίας γραφαὶ ἀντιλήψεις εἰσὶν, ἔχουσαι καὶ αὗται τύπῳ παραγραφικῷ τὸ ὁριστικόν· παράδειγμα δὲ νόμος, καὶ ἐπὶ μητρὶ μοιχὸν καταλαβόντα ἀναιρεῖν· καταλαβὼν ὁ παῖς ἐπὶ τῇ μητρὶ ἀπέκτεινεν ἀμφοτέρους· ἐγράψατο αὐτὸν ὁ πατὴρ φόνου· οὐχ εἷλε, καὶ κρίνεται ὑπ’ αὐτοῦ παρανοίας. ἐρεῖ γὰρ ὅτι ἐξῆν μοι γράφεσθαι· εἶτα ἐπὶ τέλει θήσει τὸ ἀντιστατικὸν, ὅτι καὶ ὑπὲρ σοῦ· ἄλλος τις σφοδρότερον κατηγορήσει καὶ πάλιν ἐπικειμένου τοῦ ζητήματος· τρεῖς τις εἶχε παῖδας, ὁ πρεσβύτερος ἑταίρας ἐρῶν ἀπήγξατο· ὁ δεύτερος τῆς αὐτῆς ἐρᾷ· οὐκ ἀποκηρύσσει αὐτὸν ὁ πατὴρ καὶ κρίνεται ὑπὸ τοῦ τρίτου παρανοίας· ἐρεῖ γὰρ ὅτι ἐξῆν μοι καὶ ἀποκηρύσσειν καὶ μή. ΠΕΡΙ ΑΓΡΑΦΟΥ ΑΔΙΚΗΜΑΤΟΣ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8 (t)",
+      "text": "Αἱ τοῦ ἀγράφου ἀδικήματος ζητήσεις ἀντιληπτικαί εἰσιν, ἔχουσαι τύπῳ παραγραφικῷ τὸ ὁριστικόν· ἐπιπλέκεται δὲ αὐταῖς καὶ ἀντιστατικόν· οἷον μανέντι τῷ πένητι καὶ ἀποκτείναντι τοὺς παῖδας ἔδωκεν ὁ πλούσιος σωφροσύνης φάρμακον, καὶ κρίνεται αὐτὸν ἀγράφου ἀδικήματος· ἐνταῦθα γὰρ μετὰ τὸ εἰπεῖν τὸν κατήγορον, ὅτι ἄγραφόν ἐστι τὸ ἀδίκημα, τὸ ἐν μὲν τῷ νόμῳ μὴ γεγραμμένον, τοῖς δὲ ἔργοις γιγνόμενον, ἐρεῖ ὁ φεύγων, ὅτι ἐξῆν μοι σῶσαί τινα, εἶτα ἐπιπλέξει καὶ τὸ ἀντιστατικὸν, ὅτι καὶ ὑπὲρ τοῦ δήμου ἐποίησα· ὁ γὰρ τοὺς παῖδας φονεύσας οὐκ ἂν οὐδὲ τῶν ἔξω ἐφείσατο. ΠΕΡΙ ΑΔΙΚΟΥ ΑΠΟΠΟΜΠΗΣ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9 (t)",
+      "text": "Αἱ τῆς ἀδίκου ἀποπομπῆς γραφαὶ ἢ ἀδίκου ἐπιτροπαὶ ἢ ἀδίκου ἀπολείψεως ταράξουσι μὲν τοῖς ὀνόμασιν· εὑρεθήσεται, φησὶν, ἐν ταῖς δικαιολογικαῖς πλὴν τῆς ἀντιλήψεως· πλὴν γὰρ ἐξουσίαν ὁ νόμος ἀναιρεῖ· τὰ πολλὰ δὲ ἀντεγκληματικὰ ἔσονται· δεῖ δὲ, φησὶν, ἐν αὐταῖς ζητεῖν, μή τι παραγραφικὸν ἐμπίπτοι, ὥσπερ ἐν ταῖς τοῦ κακοῦ βίου γραφαῖς· ὅτι μηδεὶς ὀφείλει ἐφ’ ἑνὶ δι’ εὐθυνῶν εἶναι τοῦ βίου παντὸς, ἀλλὰ καὶ ἐπὶ πολλοῖς, καὶ ὅλως τῷ βίῳ. ΠΕΡΙ ΑΙΤΗΣΕΩΣ ΔΩΡΕΑΣ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10 (t)",
+      "text": "Αἱ τῶν δωρεῶν αἰτήσεις, ἐὰν περὶ τοῦ τρόπου τῆς δωρεᾶς ζήτησιν ἔχωσι, πραγματικῆς εἰσι στάσεως· ἐὰν δὲ περὶ τοῦ δεῖν ὅλως τιμηθῆναι, ὁριστικῆς ἔσται, φησὶ, καὶ κατὰ ῥητὸν καὶ διάνοιαν· παράδειγμα τούτων πραγματικῆς μὲν, ἑταίρα τύραννον ἀποκτείνασα αἰτήσει γέρας ἀριστεῖ γαμηθῆναι· περὶ γὰρ τοῦ τρόπου τῆς δωρεᾶς καὶ ἡ ζήτησις· ὁριστικῆς δὲ, ἀριστεὺς ᾔτησεν ἀλλοτρίαν γυναῖκα, ἔλαβεν, ἀπῆγξεν ἑαυτὴν ἡ γυνή· ἄλλην αἰτεῖ δωρεάν· περὶ γὰρ τοῦ εἰ ὅλως δεῖ λαβεῖν ἡ ζήτησις· ῥητοῦ δὲ καὶ διανοίας· δορυφόρος ἀποκτείνει τύραννον· ὁ μὲν γὰρ τῷ ῥητῷ χρῆται, ὁ δὲ τῇ διανοίᾳ, λέγων, ἐπὶ τοῖς ἀνευθύνοις τὴν δωρεὰν αἰτεῖσθαι· ἔσται δέ ποτε καὶ συνεζευγμένη ἐκ πραγματικῆς, ἢ ὁριστικῆς, ἢ νομικῆς· οἷον τὸν τρεῖς κλέπτας ἐλέγξαντα δωρεὰν λαμβάνειν· δύο τις ἐλέγξας ἤλεγξε τρίτον ἑαυτὸν, καὶ αἰτεῖ εἰς τὸ γέρας σωθῆναι· πρώτη γὰρ ἡ πραγματικὴ λεγόντων ἡμῶν, εἰ καὶ ἔξεστί σοι γέρας λαβεῖν· ἀλλ’ οὐ τοῦτο ὅπερ ἡ πραγματικὴ, νῦν δὲ οὐκ ἔξεστί σοι· οὐ γὰρ ἄλλον ἤλεγξας, ἀλλὰ σεαυτὸν, καὶ οὐδ’ ἤλεγξας, ἀλλ’ ὡμολόγησας· τοῦτο ῥητὸν καὶ διάνοια καὶ ὅρος· ἐὰν δὲ ἐναλλὰξ εἴποις, οὐκ ἔξεστί σοι προσλαβεῖν. εἰ δὲ καὶ ἔξεστιν, οὐ τοῦτο ἐν τῷ οὐκ ἔξεστιν ἀνασκευάσεις τὸ ἤδη προκατεσκευασμένον. ΠΕΡΙ ΠΡΟΣΑΓΓΕΛΙΩΝ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11 (t)",
+      "text": "Αἱ προσαγγελίαι, ἐὰν μὲν οἰκέτην τις προσάγῃ, ἀντιληπτικαὶ ἔσονται, ὡς ὁ ἀττικίζων οἰκέτης, καὶ προσαγόμενος ἦν, ἥ τις τῷ δικαιολογικῷ, ἐὰν δὲ αὐτόν τις προσαγγέλῃ, πραγματικῆς ἔσονται στάσεως. ΠΕΡΙ ΤΙΜΗΣΕΩΝ ΚΑΙ ΑΝΘΥΠΟΤΙΜΗΣΕΩΝ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12 (t)",
+      "text": "Αἱ τιμήσεις καὶ ἀνθυποτιμήσεις πραγματικαί εἰσι· δῆλον γὰρ ὅτι προκατενεχθείσης ἑτέρας ψήφου ἡ ζήτησις, πότερον ταύτης ἐστὶ τῆς τιμωρίας, ἢ ἑτέρας ἄξιος. ΠΕΡΙ ΑΠΟΚΗΡΥΞΕΩΝ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13 (t)",
+      "text": "Αἱ ἀποκηρύξεις ποτὲ μὲν συγγνωμονικαὶ ἔσονται ὡς ἐπὶ τοῦ ἐρῶντος καὶ ἀποκηρυσσομένου, ποτὲ δὲ ἀντιληπτικαὶ, ὡς ἐπὶ τοῦ συνεχῶς ἀποδημοῦντος καὶ ἀποκηρυσσομένου, ποτὲ δὲ ἀντιστατικαὶ, ὡς ἐπὶ τοῦ φυγάδος ὄντος τοῦ πατρὸς, ἐπὶ τοῖς ὁρίοις φαινομένου μετὰ ξίφους, καὶ μετὰ τὴν κάθοδον ἀποκηρυσσομένου, καὶ ὅλως ὑπόκεινται, φησὶ, ταῖς δικαιολογικαῖς· ἔσονται δὲ πραγματικαί· οἷον ἀπεκήρυξέ τις τὸν παῖδα μανέντα, ἀνέλαβε σωφρονήσαντα, πάλιν ἀπεκήρυξεν. ἐνταῦθα γὰρ μὴ εἶναι κατηγορίαν, οὐδ’ εἰ ἠδίκησε ζητεῖσθαι, ἀλλὰ πραγματικῶς, εἰ τὸν ἅπαξ ἀναληφθέντα οὐκ ἔτι δεῖ ἀνακηρύττεσθαι· ἐὰν ἄλλο μὴ ᾖ καινὸν ἔγκλημα, ἢ οὐκ ἀποκηρύττει, ἀλλ’ ἀποδίδωσι τὴν προτέραν ἀποκήρυξιν· καὶ τὸ μὲν ἀδικεῖν τότε ἐκρίθη· ἀκόλουθον δὲ σώζειν τὰ κεκριμένα, ἢ ἔλυσεν αὐτὰ τοῦ κελεῦσαι· ἐνταῦθα γὰρ οὐκ ἔστιν ὡς ἐπ’ ἀδικήματι κατηγορία· οὐδὲ τοῦ εἰ ἀδικεῖ ζήτησις, ἀλλ’ ἐπὶ τοῖς οὕτω πεπραγμένοις τι ποιητέον ἐστίν. ΠΕΡΙ ΔΟΚΙΜΑΣΙΑΣ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14 (t)",
+      "text": "Αἱ δοκιμασίαι, ἐὰν μὲν ἐκ ῥητοῦ ὦσι, πραγματικαί εἰσι, καὶ διαιροῦνται τοῖς τοῦ ἐγκωμίου κεφαλαίοις· οἷον μετὰ τὰ κατὰ Κύζικον Ἀλκιβιάδης δᾳδουχεῖν δοκιμάζεται· ἐὰν δὲ μετὰ ῥητοῦ, ὁριστικαί· οἷον, νόμος τὸν ὁλόκληρον ἱερᾶσθαι· οὐ γελᾷ τις καὶ δοκιμάζεται. ΠΕΡΙ ΒΟΥΛΗΣ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15 (t)",
+      "text": "Αἱ τοῦ βουλεύεσθαι ζητήσεις οὐκ ἀεὶ πραγματικαί εἰσιν, ἀλλ’ ἔσονταί ποτε καὶ ἄλλης στάσεως· οἷον ἐν λιμῷ καὶ πολιορκίᾳ ἐψηφίσαντο τοὺς ἀχρήστους ἀποκτεῖναι. ἠρίστευσέ τις τῶν χειρῶν ἀφῃρημένος, καὶ βουλεύονται· ἀπὸ γὰρ τοῦ ῥητοῦ ἡ ζήτησίς ἐστι, πότερον τοὺς γέροντας καὶ τὰς γυναῖκας μόνας ἀνῃρῆσθαι δεῖ, ἢ καὶ τοὺς ἄνδρας, ἂν ὦσιν ἄχρηστοι· εἶτα τὸ ὁριστικόν· εἰ μηδὲ ἄχρηστος οὗτος. ΠΕΡΙ ΤΩΝ ΑΜΦΙΣΒΗΤΗΣΕΩΝ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16 (t)",
+      "text": "Αἱ ἀμφισβητήσεις, ἐὰν μὲν περὶ τοῦ τῆς ἐπιτηδειότητος, εἴ τις μᾶλλον ἄξιος, ἢ ὅλως τὰς ζητήσεις περὶ μέλλοντος ἔχουσι, πραγματικαί εἰσιν, ὡς ἐπὶ τούτου· ἔδοξε βασιλεύεσθαι τὴν Ἑλλάδα· Ἀρχίδαμος καὶ Περικλῆς ἀμφισβητοῦσι, καὶ διαιρεθήσονται τοῖς τῶν προσώπων τόποις· ὅταν δὲ περὶ τοῦ τί ἐστιν ἀμφισβητῶσι, καὶ περὶ παρεληλυθότος ἐστὶ χρόνου ἡ ζήτησις, τότε ὁριστικαὶ ἔσονται· οἷον τύραννος ἐρῶν γυναικὸς σχηματίσας δορυφόρον καὶ καταλιπὼν ἐπὶ τῆς ἀκροπόλεως κατῆλθεν αὐτὸς πρὸς τὴν γυναῖκα· κατὰ τὸν αὐτὸν χρόνον καὶ ὁ τῆς γυναικὸς ἀνὴρ εὑρὼν ἐκεῖνον ἐπὶ τῆς οἰκίας κτείνει, καὶ ἕτερος ἐλθὼν ἐπὶ τῆς ἀκροπόλεως ἀπέκτεινε τὸν δορυφόρον ὡς τύραννον, καὶ περὶ τοῦ γέρως ἀμφισβητοῦσιν· ἐνταῦθα γὰρ περὶ τοῦ τίς ὁ τὸν τύραννον ἀποκτείνας οὐ τίς ἐπιτηδειότερος ζητοῦσι· καὶ τῶν μὲν ἑκατέρων, πῆ μὲν πέπρακται, τῷ δὲ λείπει· τοῖς δὲ ὁλόκληρά ἐστι τὰ πεπραγμένα. ΜΕΘΟΔΟΣ ΕΠΙ ΤΑΣ ΕΥΡΕΣΕΙΣ ΤΩΝ ΣΤΑΣΕΩΝ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17a (t)",
+      "text": "Στοχασμός. Ἐὰν ὁ κρινόμενος πάντη ἀρνῆται, καὶ ἡ ζήτησις ἡ περὶ τοῦ εἰ γέγονε τὸ πρᾶγμα ἢ ἔσται, καὶ μὴ συμφωνῇ τὸ σημεῖον τῷ ἐγκαλουμένῳ, ἢ τὸ κρινόμενον ἀφανές ἐστι, στοχασμὸς ἔσται. Ὅρος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17b (t)",
+      "text": "Ἐὰν δὲ τὰ μὲν ὁμολογῇ ὁ κατήγορος, τὰ δὲ ἀρνῆται, καὶ ἡ ζήτησις ᾖ περὶ τοῦ, εἰ τοῦτό ἐστιν, ἢ ἐκεῖνο, καὶ τὰ μὲν πεπραγμένα ᾖ, τὰ δὲ λείποντα, ἡ ζήτησις ἔσται ὁρική. Ἀντίληψις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17c (t)",
+      "text": "Ἐὰν μὲν τὸ πεπραγμένον ᾖ εἰρημένον αὐτὸ καθ’ ἑαυτὸ ἀδίκημα, ἢ ἔθος, ἢ τέχνην ἀναφέρηται· ἀπὸ δὲ τῆς περιστάσεως ἐλέγχηται καὶ ἄλλο ἀπ’ ἄλλου κρίνηται, οὐχ ὥσπερ ἐν στοχασμῷ σημεῖον ἡμῶν, ἢ τὸ λεχθὲν, τοῦ ἐγκαλουμένου ποιουμένων, ἀλλὰ τὸ μὲν πραχθὲν, ἢ τὸ λεχθὲν ἐν αὐτῷ μεμφομένων, ὄνομα δὲ αὐτῷ ἕτερον τιθεμένων, ἀντιληπτικὴ γίνεται ἡ ζήτησις. Μετάστασις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17d (t)",
+      "text": "Ἐὰν ὁμολογῇ μὲν ὁ φεύγων τὸ ἀδίκημα, μεθιστῇ δὲ εἰς ἕτερον πρᾶγμα ἢ πρόσωπον τὸ κεκωλυκὸς δυνάμενον εὐθύνας δοῦναι, μεταστατικὴν ποιεῖ τὴν στάσιν. Ἀντίθεσις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17e (t)",
+      "text": "Ἐὰν ὁμολογῆται μὲν τὸ ἀδίκημα, καὶ εὐεργέτημά τι ἀποδεικνύῃ, ἀντιστατικὴν ποιεῖ τὴν στάσιν. Συγγνώμη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17f (t)",
+      "text": "Ἐὰν ἀδίκημα μὲν ᾖ γεγονὸς ὁμολογούμενον, λέγῃ δὲ ὁ φεύγων ἄκων αὐτὸ πεποιηκέναι, ἢ μεταφέρῃ εἰς πρόσωπον, μὴ δυνάμενον δὲ εὐθύνας δοῦναι τῆς αἰτίας, συγγνωμονικὴν ποιεῖ τὴν στάσιν. Πραγματική.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17g (t)",
+      "text": "Ἐὰν περὶ μέλλοντος ἡ ζήτησις ᾖ, ἡ δοκιμασία ἄνευ ῥητοῦ, ἡ ἀξίωσις ὡρισμένη, ἢ νόμου εἰσφορὰ, ἢ προσαγγελία, ἑαυτόν τινος προσαγγείλαντος, ἢ ὅλως σκέψις μελλόντων πραγμάτων οὐχ ὡς ἐν στοχασμῷ περὶ τοῦ εἰ ἔστιν, ἀλλὰ περὶ τοῦ, ποῖά τινα ἔστι, πραγματικὴν ποιήσει τὴν στάσιν. Ῥητὸν καὶ διάνοια.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17h (t)",
+      "text": "Ἐὰν εἷς ὁ νόμος, ἢ ψήφισμα, ἢ διαθήκη ἢ ἄλλο ἐν ῥητοῖς κείμενον, καὶ ὁ μὲν κατήγορος τῷ ῥητῷ χρῷτο, ὁ δὲ φεύγων ταῖς διανοίαις, ῥητὸν καὶ διάνοια ἔσται ἡ στάσις. Συλλογισμός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17i (t)",
+      "text": "Ἐὰν τῷ κεκωλυμένῳ ὑπὸ νόμου καὶ τῷ ἐγγράφῳ τὸ ἄγραφον καὶ μὴ κεκωλυμένον ὁ κατήγορος ἔξωθεν ἀποδεικνύῃ ὅμοιον, συλλογιστικὴ ἔσται ἡ στάσις. Ἀντινομία.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17l (t)",
+      "text": "Ἐὰν δὲ δύο ὦσιν νόμοι, ἢ δύο ψηφίσματα, ἢ ὅλως δύο ῥητὰ, ἢ ἓν εἰς δύο τμηθῇ, καὶ τῷ μὲν ὁ ἕτερος χρῷτο, τῷ δὲ ὁ ἕτερος, μὴ φύσει ὄντων ἐναντίων τῶν ῥητῶν, ἀλλ’ ἐκ τῆς περιστάσεως μαχομένων, ἀντινομία ἔσται ἡ στάσις. Ἀμφιβολία.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17m (t)",
+      "text": "Ἐὰν ᾖ ῥητὸν, καὶ ὁ μὲν οὕτως αὐτὸ ἐκδέχηται, ὁ δὲ οὕτως, ἀμφιβολία ἔσται ἡ στάσις. Μετάληψις ἔγγραφος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17n (t)",
+      "text": "Ἐὰν ἡ ζήτησις περὶ τοῦ πότερον δεῖ εἰσελθεῖν τὴν δίκην ἢ οὒ, καὶ περὶ τοῦ πότερον ἐν τούτῳ τῷ δικαστηρίῳ, ἢ ἐν ἐκείνῳ, καὶ περὶ τοῦ πότερον ὑπ’ αὐτοῦ, ἢ ὑπ’ ἄλλων, μετάληψις ἔγγραφος ἔσται. Ἄγραφος μετάληψις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17o (t) [8t]",
+      "text": "Ἐὰν ὁ κατήγορος συγχωρῇ μὲν τὸ πεπραγμένον, λαμβάνῃ δὲ ἢ τόπον ἢ χρόνον, ἢ αἰτίαν, μετάληψις ἔσται ἄγραφος. Εἰσὶ δὲ καὶ τοῦ φεύγοντος μεταλήψεις· καὶ γνωστέον δὲ αὐτὰς ἐκ τοῦ τὸν μὲν κατήγορον τὸ πρᾶγμα αἰτιᾶσθαι, τὸν δὲ φεύγοντα μεταλαμβάνειν ἢ τόπον ἢ τρόπον ἢ πρόσωπον ἢ χρόνον ἢ αἰτίαν. Τέλος Κύρου περὶ διαφορᾶς στάσεως.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "swk-ab",
+      "title": {
+        "english": "Correspondence of Basil and Libanius",
+        "ancient_greek": "Ἀλληλογραφία Βασιλείου καὶ Λιβανίου"
+      },
+      "url_slug": "libanius-of-antioch-correspondence-basil-swk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/libanius-of-antioch/correspondence-basil",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch-correspondence-basil-swk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch-correspondence-basil-swk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch-correspondence-basil-swk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch-correspondence-basil-swk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/correspondence-basil.epub"
+      }
+    },
+    {
+      "eul_wid": "pfk-ao",
+      "title": {
+        "english": "Dispute of the Consonants",
+        "ancient_greek": "Κατάπλους ἢ Τύραννος"
+      },
+      "url_slug": "lucian-of-samosata-dispute-consonants-pfk-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/dispute-consonants",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-dispute-consonants-pfk-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-dispute-consonants-pfk-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-dispute-consonants-pfk-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-dispute-consonants-pfk-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dispute-consonants.epub"
+      }
+    },
+    {
+      "eul_wid": "qwm-ae",
+      "title": {
+        "english": "Festival Speech-the Water in Pergamum",
+        "ancient_greek": "Πανηγυρικὸς ἐπὶ τῷ ὕδατι ἐν Περγάμῳ"
+      },
+      "url_slug": "aristides-the-orator-water-pergamum-qwm-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/water-pergamum",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-water-pergamum-qwm-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-water-pergamum-qwm-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-water-pergamum-qwm-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-water-pergamum-qwm-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/water-pergamum.epub"
+      }
+    },
+    {
+      "eul_wid": "qwm-ay",
+      "title": {
+        "english": "Isthmian to Poseidon",
+        "ancient_greek": "Ἰσθμικὸς εἰς Ποσειδῶνα"
+      },
+      "url_slug": "aristides-the-orator-isthmian-poseidon-qwm-ay",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/isthmian-poseidon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-isthmian-poseidon-qwm-ay.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-isthmian-poseidon-qwm-ay.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-isthmian-poseidon-qwm-ay.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-isthmian-poseidon-qwm-ay.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/isthmian-poseidon.epub"
+      }
+    },
+    {
+      "eul_wid": "qwm-as",
+      "title": {
+        "english": "Political Speech for Smyrna",
+        "ancient_greek": "Σμυρναϊκὸς πολιτικός"
+      },
+      "url_slug": "aristides-the-orator-smyrna-speech-qwm-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/smyrna-speech",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-smyrna-speech-qwm-as.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-smyrna-speech-qwm-as.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-smyrna-speech-qwm-as.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-smyrna-speech-qwm-as.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/smyrna-speech.epub"
+      }
+    },
+    {
+      "eul_wid": "ueq-ac",
+      "title": {
+        "english": "Preliminary Exercises (Selected Chapters)",
+        "ancient_greek": "Προγυμνάσματα (κεφάλαια περὶ συγκρίσεως, περὶ ἠθοποιίας, περὶ ἐκφράσεως, περὶ θέσεως, περὶ νόμου)"
+      },
+      "url_slug": "nicolaus-of-myra-preliminary-exercises-ac-ueq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicolaus-of-myra/preliminary-exercises-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra-preliminary-exercises-ac-ueq-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra-preliminary-exercises-ac-ueq-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra-preliminary-exercises-ac-ueq-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra-preliminary-exercises-ac-ueq-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra/preliminary-exercises-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "qwm-au",
+      "title": {
+        "english": "To the Rhodians-Concord",
+        "ancient_greek": "Ῥοδίοις περὶ ὁμονοίας"
+      },
+      "url_slug": "aristides-the-orator-rhodians-concord-qwm-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/rhodians-concord",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-rhodians-concord-qwm-au.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-rhodians-concord-qwm-au.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-rhodians-concord-qwm-au.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-rhodians-concord-qwm-au.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/rhodians-concord.epub"
+      }
+    },
+    {
+      "eul_wid": "pfk-ca",
+      "title": {
+        "english": "Tyrannicide",
+        "ancient_greek": "Τυραννοκτόνος"
+      },
+      "url_slug": "lucian-of-samosata-tyrannicide-pfk-ca",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/tyrannicide",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-tyrannicide-pfk-ca.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-tyrannicide-pfk-ca.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-tyrannicide-pfk-ca.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-tyrannicide-pfk-ca.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/tyrannicide.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/cyrus-the-rhetorician/difference-stance",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyrus-the-rhetorician-difference-stance-pve-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyrus-the-rhetorician-difference-stance-pve-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyrus-the-rhetorician-difference-stance-pve-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyrus-the-rhetorician-difference-stance-pve-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyrus-the-rhetorician/difference-stance.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

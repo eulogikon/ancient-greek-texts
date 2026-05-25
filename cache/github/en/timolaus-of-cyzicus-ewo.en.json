@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ewo",
+  "auth_slug": "timolaus-of-cyzicus",
+  "name": {
+    "english": "Timolaus of Cyzicus",
+    "ancient_greek": "Τιμόλαος ὁ Κυζικηνός"
+  },
+  "seo_h1": "Timolaus of Cyzicus on the River Maeander",
+  "seo": {
+    "browser_title": "Timolaus of Cyzicus on Eulogikon Greek Archive Collection",
+    "meta_title": "Timolaus of Cyzicus Ancient Greek Historical Works",
+    "meta_description": "Timolaus of Cyzicus, a 4th century BCE historian. His historical fragments survive in later sources. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Timolaus of Cyzicus was a historian from the city of Cyzicus, a Greek colony on the Sea of Marmara. He lived during the 4th century BCE, though no specific biographical details about his life or education survive.</p>\n<p class=\"research-text\">He is known solely for a lost history titled Persica. The work is preserved only in fragmentary citations by later authors, such as Diodorus Siculus and Athenaeus, and dealt with Persian history and customs.</p>\n<p class=\"research-text\">Timolaus represents a minor contributor to the Greek genre of Persian history. His Persica forms part of the Hellenistic historiographical tradition that documented the Achaemenid Empire for a Greek audience, and his fragments are occasionally cited as sources for Persian matters.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ewo-aa",
+      "title": {
+        "english": "On the River Maeander",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "timolaus-of-cyzicus-river-maeander-ewo-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/timolaus-of-cyzicus/river-maeander",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timolaus-of-cyzicus-river-maeander-ewo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timolaus-of-cyzicus-river-maeander-ewo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timolaus-of-cyzicus-river-maeander-ewo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timolaus-of-cyzicus-river-maeander-ewo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timolaus-of-cyzicus/river-maeander.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/timolaus-of-cyzicus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timolaus-of-cyzicus-ewo.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timolaus-of-cyzicus-ewo.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timolaus-of-cyzicus-ewo.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timolaus-of-cyzicus-ewo.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "qtu",
+  "auth_slug": "artemidorus-of-daldis",
+  "name": {
+    "english": "Artemidorus of Daldis",
+    "ancient_greek": "Ἀρτεμίδωρος ὁ Δαλδιανός"
+  },
+  "seo_h1": "Dream Interpretation in the Oneirocritica of Artemidorus of Daldis",
+  "seo": {
+    "browser_title": "Artemidorus of Daldis on Eulogikon Greek Text Archive",
+    "meta_title": "Artemidorus of Daldis Ancient Greek Treatise Works",
+    "meta_description": "Artemidorus of Daldis, a 2nd century CE author. Surviving works include the Oneirocritica on dreams. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα τεχνική",
+      "english": "Atticizing Technical",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Artemidorus of Daldis was a professional diviner of the 2nd century CE. Born in Daldis in Lydia, he practiced primarily in Ephesus. He traveled extensively through Greece, Italy, and Asia to collect dream narratives and their outcomes from both personal inquiry and existing archives. His work reflects the syncretic, divination-focused culture of the Roman Empire in this period.</p>\n<p class=\"research-text\">His sole surviving work is the <strong>Oneirocritica</strong> (On the Interpretation of Dreams), a five-book treatise on dream interpretation that survives complete. Artemidorus is significant as the author of the most extensive and systematic ancient manual on the subject. The <strong>Oneirocritica</strong> is a practical guide for professionals, categorizing dreams and providing allegorical interpretations. This makes it a unique source for understanding ancient popular belief, divinatory practice, and social history. It became the standard reference on dream interpretation in later antiquity.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "qtu-aa",
+      "title": {
+        "english": "Interpretation of Dreams",
+        "ancient_greek": "Ονειροκριτικά"
+      },
+      "url_slug": "artemidorus-of-daldis-dreams-qtu-aa",
+      "passages": 429,
+      "links": {
+        "html": "https://eulogikon.org/grc/artemidorus-of-daldis/dreams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemidorus-of-daldis-dreams-qtu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemidorus-of-daldis-dreams-qtu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemidorus-of-daldis-dreams-qtu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemidorus-of-daldis-dreams-qtu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemidorus-of-daldis/dreams.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/artemidorus-of-daldis",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/artemidorus-of-daldis-qtu.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/artemidorus-of-daldis-qtu.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/artemidorus-of-daldis-qtu.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/artemidorus-of-daldis-qtu.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

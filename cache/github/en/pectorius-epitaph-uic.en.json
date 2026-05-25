@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "uic",
+  "auth_slug": "pectorius-epitaph",
+  "name": {
+    "english": "Pectorius Epitaph Anonymous",
+    "ancient_greek": "Ἐπιτάφιος τοῦ Πεκτορίου"
+  },
+  "seo_h1": "Epitaph of Pectorius, Anonymous Christian Inscription",
+  "seo": {
+    "browser_title": "Pectorius Epitaph Anonymous on Eulogikon Greek Archive",
+    "meta_title": "Classical Pectorius Epitaph Anonymous Ancient Greek Verse",
+    "meta_description": "Anonymous author of a Late Antique Christian Koine verse epitaph. A poetic funerary inscription. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ Χριστιανική",
+      "english": "Christian Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The author of the Pectorius epitaph is anonymous. This Christian funerary inscription was discovered in Autun, France, the ancient Augustodunum, and is dated on paleographic grounds to the late third or early fourth century CE. Its discovery in Gaul indicates the author belonged to an early Christian community in that Roman province.</p>\n<p class=\"research-text\">The sole surviving work is the Epitaph of Pectorius, a poem inscribed on stone. It survives in its original epigraphic form and is a significant early example of Christian poetry composed in Greek within the Latin West.</p>\n<p class=\"research-text\">The epitaph is a notable monument of early Christian literature and epigraphy. Composed in dactylic hexameter, it adapts classical form for Christian theology, featuring rich sacramental imagery such as the fish acrostic for Christ and references to the Eucharist. It provides valuable evidence for early Christian beliefs and poetic practice in the pre- or post-Constantinian period.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "uic-aa",
+      "title": {
+        "english": "Epitaph",
+        "ancient_greek": "Ἐπιτάφιον"
+      },
+      "url_slug": "pectorius-epitaph-text-uic-aa",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/pectorius-epitaph/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pectorius-epitaph-text-uic-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pectorius-epitaph-text-uic-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pectorius-epitaph-text-uic-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pectorius-epitaph-text-uic-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pectorius-epitaph/text.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/pectorius-epitaph",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pectorius-epitaph-uic.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pectorius-epitaph-uic.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pectorius-epitaph-uic.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pectorius-epitaph-uic.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

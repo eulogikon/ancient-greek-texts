@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "keg",
+  "auth_slug": "choliambica-adespota",
+  "name": {
+    "english": "Choliambica Adespota",
+    "ancient_greek": "Χολιαμβικὰ Ἀδέσποτα"
+  },
+  "seo_h1": "Choliambica Adespota and Anonymous Iambic Verse",
+  "seo": {
+    "browser_title": "Choliambica Adespota Anonymous on Eulogikon Greek Archive",
+    "meta_title": "The Choliambica Adespota Ancient Greek Verse Works",
+    "meta_description": "Anonymous choliambic verse from the Hellenistic to Roman period. Two surviving works of scazon poetry. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Choliambica Adespota is not an author but a collective designation for anonymous choliambic poems. The term &quot;adespota&quot; means &quot;authorless.&quot; The poems date from the Hellenistic to Roman period, from the 3rd century BCE to the 2nd century CE, when the choliambic meter was in active use. Their anonymous nature precludes any biographical reconstruction.</p>\n<p class=\"research-text\">The works are anonymous fragments preserved on papyri. Two significant examples are P. Oxy. 3014, containing anonymous choliambic verses, and the Cologne Epode, a 47-line invective poem discussing wealth and morality. The fragments are incomplete, and their original titles are lost.</p>\n<p class=\"research-text\">These anonymous fragments demonstrate the continued vitality of the choliambic form beyond major poets like Hipponax or Herodas. They provide crucial evidence for the themes and style of popular poetry within the iambic tradition, often featuring satire and moralizing. Their preservation is essential for the study of Hellenistic poetry and meter.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "keg-aa",
+      "title": {
+        "english": "Anonymous-Shameful Profit",
+        "ancient_greek": "Ἄδηλον Περὶ Αἰσχροκερδείας"
+      },
+      "url_slug": "choliambica-adespota-shameful-profit-keg-aa",
+      "passages": 6,
+      "links": {
+        "html": "https://eulogikon.org/grc/choliambica-adespota/shameful-profit",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choliambica-adespota-shameful-profit-keg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choliambica-adespota-shameful-profit-keg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choliambica-adespota-shameful-profit-keg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choliambica-adespota-shameful-profit-keg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choliambica-adespota/shameful-profit.epub"
+      }
+    },
+    {
+      "eul_wid": "keg-ab",
+      "title": {
+        "english": "Choliambic Fragments",
+        "ancient_greek": "Χολιάμβων Ἀποσπάσματα"
+      },
+      "url_slug": "choliambica-adespota-fragments-keg-ab",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/choliambica-adespota/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choliambica-adespota-fragments-keg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choliambica-adespota-fragments-keg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choliambica-adespota-fragments-keg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choliambica-adespota-fragments-keg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choliambica-adespota/fragments.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/choliambica-adespota",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/choliambica-adespota-keg.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/choliambica-adespota-keg.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/choliambica-adespota-keg.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/choliambica-adespota-keg.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

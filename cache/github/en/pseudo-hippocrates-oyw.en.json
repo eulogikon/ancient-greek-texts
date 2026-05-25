@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "oyw",
+  "auth_slug": "pseudo-hippocrates",
+  "name": {
+    "english": "Pseudo-Hippocrates",
+    "ancient_greek": "Ψευδο-Ἱπποκράτης"
+  },
+  "seo_h1": "Medical Texts Preserved Under the Name Pseudo-Hippocrates",
+  "seo": {
+    "browser_title": "Pseudo-Hippocrates Medical Texts on Eulogikon Greek Archive",
+    "meta_title": "The Pseudo-Hippocrates Ancient Greek Medical Works",
+    "meta_description": "Pseudo-Hippocrates refers to unknown authors of medical texts. Six surviving treatises. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Pseudo-Hippocrates is the modern designation for the various unknown authors of medical texts attributed to the renowned Greek physician Hippocrates of Cos. These works were composed over an extensive period, likely from the late 5th century BCE through the 2nd century CE. The authors originated from diverse backgrounds across the Greek and Roman world, writing to contribute to the established tradition of Hippocratic medicine. Attaching the revered name of Hippocrates to their work was a common practice to lend it authority and ensure its preservation.</p>\n<p class=\"research-text\">These anonymous writings constitute the majority of the Hippocratic Corpus, a collection of approximately 60 treatises. Major examples include On the Sacred Disease, which argues that epilepsy has natural causes; On the Nature of Man, which introduces the theory of the four bodily humors; and Airs, Waters, Places, concerning environmental effects on health. Other significant texts are On Regimen, On the Diseases of Women, and the famous ethical code known as The Hippocratic Oath. Modern scholars agree that the historical Hippocrates did not author most of these works.</p>\n<p class=\"research-text\">The significance of the Pseudo-Hippocratic writings is foundational. Collectively, they established the core principles of Western medicine for centuries, promoting it as a rational practice based on observation rather than superstition. Key concepts like the humoral theory and the importance of prognosis were developed in these texts. By writing under the Hippocratic name, these anonymous authors ensured their ideas were preserved, studied, and formed the basis of medical education for nearly two millennia, permanently shaping the identity of the medical profession.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 6,
+  "works": [
+    {
+      "eul_wid": "oyw-ad",
+      "title": {
+        "english": "InterpretatiActive Stones",
+        "ancient_greek": "Ἑρμηνεία περὶ ἐνεργῶν λίθων"
+      },
+      "url_slug": "pseudo-hippocrates-interpretative-stones-oyw-ad",
+      "passages": 31,
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-hippocrates/interpretative-stones",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-interpretative-stones-oyw-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-interpretative-stones-oyw-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-interpretative-stones-oyw-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-interpretative-stones-oyw-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/interpretative-stones.epub"
+      }
+    },
+    {
+      "eul_wid": "oyw-ae",
+      "title": {
+        "english": "Letter to King Ptolemy",
+        "ancient_greek": "Ἐπιστολὴ πρὸς βασιλέα Πτολεμαῖον"
+      },
+      "url_slug": "pseudo-hippocrates-king-ptolemy-oyw-ae",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-hippocrates/king-ptolemy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-king-ptolemy-oyw-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-king-ptolemy-oyw-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-king-ptolemy-oyw-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-king-ptolemy-oyw-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/king-ptolemy.epub"
+      }
+    },
+    {
+      "eul_wid": "oyw-aa",
+      "title": {
+        "english": "Letter to King Ptolemy-the Fabric of Man",
+        "ancient_greek": "Ἐπιστολὴ πρὸς βασιλέα Πτολεμαῖον περὶ κατασκευῆς"
+      },
+      "url_slug": "pseudo-hippocrates-letter-ptolemy-fabric-man-oyw-aa",
+      "passages": 11,
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-hippocrates/letter-ptolemy-fabric-man",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-letter-ptolemy-fabric-man-oyw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-letter-ptolemy-fabric-man-oyw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-letter-ptolemy-fabric-man-oyw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-letter-ptolemy-fabric-man-oyw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/letter-ptolemy-fabric-man.epub"
+      }
+    },
+    {
+      "eul_wid": "oyw-ac",
+      "title": {
+        "english": "On Foods",
+        "ancient_greek": "Περὶ διαφόρων καὶ παντοίων τροφῶν"
+      },
+      "url_slug": "pseudo-hippocrates-foods-oyw-ac",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-hippocrates/foods",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-foods-oyw-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-foods-oyw-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-foods-oyw-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-foods-oyw-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/foods.epub"
+      }
+    },
+    {
+      "eul_wid": "oyw-af",
+      "title": {
+        "english": "On Seven-Month Birth",
+        "ancient_greek": "Περὶ ἑπταμηνιαίου τόκου"
+      },
+      "url_slug": "pseudo-hippocrates-seven-month-birth-oyw-af",
+      "passages": 9,
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-hippocrates/seven-month-birth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-seven-month-birth-oyw-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-seven-month-birth-oyw-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-seven-month-birth-oyw-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-seven-month-birth-oyw-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/seven-month-birth.epub"
+      }
+    },
+    {
+      "eul_wid": "oyw-ab",
+      "title": {
+        "english": "On the Difference of Foods to Ptolemy",
+        "ancient_greek": "Περὶ διαφορᾶς τροφῶν πρὸς Πτολεμαῖον"
+      },
+      "url_slug": "pseudo-hippocrates-foods-difference-oyw-ab",
+      "passages": 17,
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-hippocrates/foods-difference",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-foods-difference-oyw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-foods-difference-oyw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-foods-difference-oyw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-foods-difference-oyw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/foods-difference.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/pseudo-hippocrates",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pseudo-hippocrates-oyw.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pseudo-hippocrates-oyw.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pseudo-hippocrates-oyw.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pseudo-hippocrates-oyw.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "bao",
+  "auth_slug": "bion-of-proconnesus",
+  "name": {
+    "english": "Bion of Proconnesus",
+    "ancient_greek": "Βίων ὁ Προκοννήσιος"
+  },
+  "seo_h1": "Fragments on Theseus and Amazons by Bion of Proconnesus",
+  "seo": {
+    "browser_title": "Bion of Proconnesus on Eulogikon Greek Archive and Library",
+    "meta_title": "Bion of Proconnesus Ancient Greek Historical Works",
+    "meta_description": "Bion of Proconnesus, a 6th century BCE Ionic historian. His surviving historical works are preserved. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Bion of Proconnesus was a Greek historian of the 6th century BCE, originating from the island of Proconnesus in the Propontis. His floruit places him within the Archaic period, but no further biographical details survive.</p>\n<p class=\"research-text\">His only attested work is a lost history of Ethiopia, which is referenced by later sources but from which no fragments are preserved. Bion represents an early stage in Greek historiography and ethnography, preceding Herodotus. As an Ionian logographer, his focus on Ethiopia reflects the contemporary Greek interest in distant lands and contributes to the formative development of prose historical inquiry.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "bao-aa",
+      "title": {
+        "english": "Fragments on Theseus and Amazons",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θησέως καὶ Ἀμαζόνων"
+      },
+      "url_slug": "bion-of-proconnesus-theseus-amazons-bao-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/bion-of-proconnesus/theseus-amazons",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-proconnesus-theseus-amazons-bao-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-proconnesus-theseus-amazons-bao-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-proconnesus-theseus-amazons-bao-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-proconnesus-theseus-amazons-bao-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-proconnesus/theseus-amazons.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/bion-of-proconnesus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/bion-of-proconnesus-bao.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/bion-of-proconnesus-bao.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/bion-of-proconnesus-bao.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/bion-of-proconnesus-bao.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

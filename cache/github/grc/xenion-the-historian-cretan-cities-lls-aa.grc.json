@@ -1,0 +1,296 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "lls-aa",
+  "eul_aid": "lls",
+  "author_slug": "xenion-the-historian",
+  "work_slug": "cretan-cities",
+  "url_slug": "xenion-the-historian-cretan-cities-lls-aa",
+  "author": {
+    "english": "Xenion the Historian",
+    "ancient_greek": "Ξενίων ὁ ἱστορικός"
+  },
+  "title": {
+    "english": "Fragments on Cretan Cities",
+    "ancient_greek": "Ἀποσπάσματα περὶ Κρητικῶν Πόλεων"
+  },
+  "seo": {
+    "browser_title": "The Fragments of Xenion on Cretan Cities on Eulogikon",
+    "meta_title": "Fragments on Cretan Cities by Xenion in Ancient Greek",
+    "meta_description": "Surviving fragments from Xenion's work on Cretan cities. A geographical and historical account. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Fragments on Cretan Cities is a collection of prose fragments attributed to Xenion, a historian of Crete. Preserved solely through later quotations, primarily in the works of the geographer Strabo and the Byzantine scholar Stephanus of Byzantium, the work represents a local history focusing on the island&#x27;s city-states. Its content is geographical and historical, detailing city foundations, mythological genealogies, and local institutions to articulate a distinct Cretan identity within the Hellenistic world. The extant fragments address the mythical origins of Cretan cities, such as Gortyn&#x27;s founding by Gortys, son of Tegeates. They also explore connections between Cretan cities and pan-Hellenic heroes, including Agamemnon&#x27;s association with Cydonia, and describe distinctive local customs and traditions. There is no independent manuscript tradition for the work; the fragments are reconstructed in modern scholarly collections. Xenion&#x27;s fragments provided later geographers with authoritative material on Crete, thereby influencing classical geographical knowledge. The work exemplifies the Hellenistic genre of local historiography, which supplied the raw data for broader syntheses in the Roman period.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-14",
+      "text": "ΚΡΗΤΙΚΑ. Tzetzes ad Lyc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "1214: Καὶ Ξενίων δὲ ἐν τῷ Περὶ Κρήτης τὰς ἑκατὸν πόλεις τῆς Κρήτης κατ’ ὄνομα λέγει. Etym.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "M.: Ἀρκέσιον· οὕτω καλούμενον ἄντρον τῆς Κρητικῆς Ἴδης, παρὰ τὸ ἀρκέσα ι , τὸ βοηθῆσαι. Φασὶν αὐτὸ ὑπὸ τῶν Κουρήτων ὀνομασθῆναι, ὅτι τὸν Κρόνον αὐτοῖς φεύγουσι καὶ εἰς αὐτὸ καταδῦσι καὶ κρυπτομένοις ἐπήρκεσεν Οὕτω Ξενίων ἐν τοῖς Περὶ Κρήτης. Stephanus Byz.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": ": Ἀρκάδες, πόλις Κρήτης, ὡς Ξενίων ἐν Κρητικοῖς. Οἱ πολῖται ὁμοίως Ἀρκάδες. Δημήτριος δὲ οὐκ Ἀρκάδες τὴν πόλιν, ἀλλ’ Ἀρκαδίαν φησίν. Idem: Δραγμὸς, πόλις Κρήτης, ὡς Ξενίων ἐν τοῖς Κρητικοῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Τὸ ἐθνικὸν Δράγμιος ἢ Δραγμίτης, ὅπερ ἄμεινον. Idem: Εἴνατος, πόλις Κρήτης, ὡς Ξενίων φησί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "Τὸ ἐθνικὸν Εἰνάτιος. Τινὲς δὲ ὄρος καὶ ποταμὸν, ἐν ᾧ τιμᾶσθαι τὴν Εἰλείθυιαν Εἰνατίην. Idem: Ἔλυρος, πόλις Κρήτης, ὡς Ξενίων ἐν Κρήτῃ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "Ὁ πολίτης Ἐλύριος. Idem: Καμάρα, πόλις Κρήτης· καὶ ὁ πολίτης Καμαραῖος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "Ξενίων ἐν Κρητικοῖς φησί· «Καὶ Λατὼ ἐλέγετο.» Idem: Κάντανος, πόλις Κρήτης, ὡς Ξενίων, ἐν περιορίου Κρητικοῦ τόπῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "Τὸ ἐθνικὸν Καντάνιος. Idem: Λάμπη, πόλις Κρήτης, Ἀγαμέμνονος κτίσμα, ἀπὸ Λάμπου τοῦ Ταρραίου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "Τὸ ἐθνικὸν Λαμπαῖος. Κλαύδιος δὲ Ἰούλιος Λαμπέας αὐτούς φησιν. Ἔστι καὶ δευτέρα τῆς Ἀκαρνανίας, καὶ τρίτη τῆς Ἀργολίδος, ὡς Φίλων. Ξενίων δὲ ἐν Κρητικοῖς διὰ (δύο) ππ γράφει τὴν πόλιν τὴν Κρητικὴν, καὶ διὰ (δύο) αα καὶ διὰ τοῦ η. Idem: Ὄαξος, πόλις Κρήτης, Ἐλευθέρνης οὐ πόρρω, καθὰ Ξενίων, ἀπὸ Ὀάξου τοῦ Ἀκακάλλιδος, τῆς θυγατρὸς τοῦ Μίνω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "Τινὲς δὲ διὰ τὸ κατὰ γῆν εἶναι τὸν τόπον· καλοῦσι γὰρ τοὺς τοιούτους τόπους ἄξους, καθάπερ καὶ ἡμεῖς ἀγμούς. Ὁ πολίτης Ὀάξιος. Idem: Ὀλοῦς, πόλις Κρήτης, Ξενίων ἐν τοῖς Κρητικοῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "Ὁ πολίτης Ὀλούντιος. Idem: Ὑδραμία, πόλις Κρήτης, ὡς Ξενίων ὁ τὰ Κρητικὰ γράψας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12",
+      "text": "Οἱ πολῖται Ὑδραμιεῖς, ὡς Μεγαρεῖς. Idem: Φαλάσαρνα, πόλις Κρήτης, ἀπὸ Φαλασάρνης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13",
+      "text": "Ὁ πολίτης Φαλασάρνιος, ὡς Ξενίων φησίν. Idem: Ὤλερος, Κρητικὴ πόλις, περὶ ἧς Ξενίων ἐν Κρητικοῖς φησι· «Πορρωτέρω δὲ τῆς Ἱεραπύτνης Ὤλερος ἦν πόλις, ἐφ’ ὑψηλοῦ μὲν ᾠκισμένη τόπου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14",
+      "text": "» Ὁ πολίτης Ὠλέριος, καὶ Ὠλερία Ἀθηνᾶ. Τὸ οὐδέτερον Ὠλέριον· φησὶ γὰρ οὕτω· «Τῇ δὲ θεῷ ταύτῃ ἑορτὴν ἄγουσιν Ἱεραπύτνιοι, τὴν δὲ ἑορτὴν Ὠλέρια προσαγορεύουσιν.»",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "ess-aa",
+      "title": {
+        "english": "Fragments on Spartan Festivals",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σπαρτιατικῶν Ἑορτῶν"
+      },
+      "url_slug": "polycrates-of-sparta-festivals-ess-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/polycrates-of-sparta/festivals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycrates-of-sparta-festivals-ess-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycrates-of-sparta-festivals-ess-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycrates-of-sparta-festivals-ess-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycrates-of-sparta-festivals-ess-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycrates-of-sparta/festivals.epub"
+      }
+    },
+    {
+      "eul_wid": "uws-ab",
+      "title": {
+        "english": "Homily-the Nativity of Christ, Possibly Part of Roman and Universal History",
+        "ancient_greek": "Ὁμιλία εἰς τὴν Γέννησιν τοῦ Χριστοῦ"
+      },
+      "url_slug": "hesychius-of-miletus-nativity-christ-uws-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hesychius-of-miletus/nativity-christ",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus-nativity-christ-uws-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus-nativity-christ-uws-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus-nativity-christ-uws-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus-nativity-christ-uws-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus/nativity-christ.epub"
+      }
+    },
+    {
+      "eul_wid": "bfo-aa",
+      "title": {
+        "english": "On Cretan Bees and Migration",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "antenor-of-athens-bees-migration-bfo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/antenor-of-athens/bees-migration",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antenor-of-athens-bees-migration-bfo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antenor-of-athens-bees-migration-bfo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antenor-of-athens-bees-migration-bfo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antenor-of-athens-bees-migration-bfo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antenor-of-athens/bees-migration.epub"
+      }
+    },
+    {
+      "eul_wid": "gdq-aa",
+      "title": {
+        "english": "On Heraclea",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "promathidas-of-heraclea-text-gdq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/promathidas-of-heraclea/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/promathidas-of-heraclea-text-gdq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/promathidas-of-heraclea-text-gdq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/promathidas-of-heraclea-text-gdq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/promathidas-of-heraclea-text-gdq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/promathidas-of-heraclea/text.epub"
+      }
+    },
+    {
+      "eul_wid": "ikc-aa",
+      "title": {
+        "english": "On Piety and Celestial Portents",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "deimachus-of-plataea-ii-piety-portents-ikc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/deimachus-of-plataea-ii/piety-portents",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deimachus-of-plataea-ii-piety-portents-ikc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deimachus-of-plataea-ii-piety-portents-ikc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deimachus-of-plataea-ii-piety-portents-ikc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deimachus-of-plataea-ii-piety-portents-ikc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deimachus-of-plataea-ii/piety-portents.epub"
+      }
+    },
+    {
+      "eul_wid": "gvi-aa",
+      "title": {
+        "english": "Sicilian Historical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "athanis-of-syracuse-historical-fragments-gvi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/athanis-of-syracuse/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athanis-of-syracuse-historical-fragments-gvi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athanis-of-syracuse-historical-fragments-gvi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athanis-of-syracuse-historical-fragments-gvi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athanis-of-syracuse-historical-fragments-gvi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athanis-of-syracuse/historical-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "fbe-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "ephorus-of-cyme-testimonies-fbe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ephorus-of-cyme/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme-testimonies-fbe-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme-testimonies-fbe-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme-testimonies-fbe-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme-testimonies-fbe-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme/testimonies.epub"
+      }
+    },
+    {
+      "eul_wid": "jre-ae",
+      "title": {
+        "english": "Treatise-Women",
+        "ancient_greek": "Περὶ γυναικῶν"
+      },
+      "url_slug": "paradoxographer-anon-women-jre-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/paradoxographer-anon/women",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-women-jre-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-women-jre-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-women-jre-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-women-jre-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/women.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/xenion-the-historian/cretan-cities",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenion-the-historian-cretan-cities-lls-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenion-the-historian-cretan-cities-lls-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenion-the-historian-cretan-cities-lls-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenion-the-historian-cretan-cities-lls-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenion-the-historian/cretan-cities.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "dpm-aa",
+  "eul_aid": "dpm",
+  "author_slug": "socrates-of-athens",
+  "work_slug": "gods-wisdom",
+  "url_slug": "socrates-of-athens-gods-wisdom-dpm-aa",
+  "author": {
+    "english": "Socrates of Athens",
+    "ancient_greek": "Σωκράτης ὁ Ἀθηναῖος"
+  },
+  "title": {
+    "english": "Fragments on Gods and Wisdom",
+    "ancient_greek": "Ἀποσπάσματα περὶ Θεῶν καὶ Σοφίας"
+  },
+  "seo": {
+    "browser_title": "Fragments on Gods and Wisdom by Socrates Athens on Eulogikon",
+    "meta_title": "Fragments on Gods and Wisdom by Socrates in Ancient Greek",
+    "meta_description": "Surviving fragments attributed to Socrates of Athens concerning divine nature and wisdom. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Fragments on Gods and Wisdom is a modern descriptive title for which there is no corresponding ancient work attributed to Socrates of Athens. Socrates himself, active in the late 5th century BCE, wrote nothing, and his philosophical ideas are known exclusively through the writings of others, chiefly his student Plato, the historian Xenophon, and the comic playwright Aristophanes. The themes suggested by the title, however, align with Socrates&#x27;s enduring philosophical concerns as reported in these sources. These include the rigorous examination of concepts like piety and the nature of the divine, the proposition that virtue is a form of knowledge, and the primacy of the examined life and self-knowledge as the true aim of wisdom. His method of dialectical questioning, or elenchus, was central to these investigations. No independent compilation of Socratic sayings under this name exists; all fragments of his thought are testimonia embedded within the works of later authors. Socrates&#x27;s historical significance is profound but entirely mediated through this literary tradition, particularly Plato&#x27;s dialogues, which established the foundation for much of Western philosophy. His trial and execution on charges of impiety and corrupting the youth further cemented his legacy as a seminal figure in ethics and a symbol of the philosophical life in tension with civic authority.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Δήλι’ Ἄπολλον χαῖρε καὶ Ἄρτεμι, παῖδε κλεεινώ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Αἴσωπός ποτ’ ἔλεξε Κορίνθιον ἄστυ νέμουσιν μὴ κρίνειν ἀρετὴν λαοδίκωι σοφίηι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "οἳ δὲ χοροῖς κάλλιστα θεοὺς τιμῶσιν, ἄριστοι ἐν πολέμωι.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "ffk-af",
+      "title": {
+        "english": "Alcibiades B",
+        "ancient_greek": "Ἀλκιβιάδης βʹ"
+      },
+      "url_slug": "plato-alcibiades-b-ffk-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/alcibiades-b",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-alcibiades-b-ffk-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-alcibiades-b-ffk-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-alcibiades-b-ffk-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-alcibiades-b-ffk-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/alcibiades-b.epub"
+      }
+    },
+    {
+      "eul_wid": "oqk-an",
+      "title": {
+        "english": "Asclepius Greek Words Only",
+        "ancient_greek": "Ἑρμοῦ τρισμεγίστου βίβλος ἱερὰ πρὸς Ἀσκληπιὸν"
+      },
+      "url_slug": "hermetica-asclepius-words-oqk-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/asclepius-words",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-asclepius-words-oqk-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-asclepius-words-oqk-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-asclepius-words-oqk-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-asclepius-words-oqk-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/asclepius-words.epub"
+      }
+    },
+    {
+      "eul_wid": "ffk-av",
+      "title": {
+        "english": "Epigrams (with Anacreontea)",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "plato-epigrams-av-ffk-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/epigrams-av",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-epigrams-av-ffk-av.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-epigrams-av-ffk-av.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-epigrams-av-ffk-av.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-epigrams-av-ffk-av.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/epigrams-av.epub"
+      }
+    },
+    {
+      "eul_wid": "reo-aa",
+      "title": {
+        "english": "On Aristotle's Prior Analytics Book I. Commentary",
+        "ancient_greek": "Εἰς τὸ Πρῶτον Βιβλίον Ἀναλυτικῶν Προτέρων"
+      },
+      "url_slug": "alexander-of-aphrodisias-prior-analytics-commentary-reo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-aphrodisias/prior-analytics-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-prior-analytics-commentary-reo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-prior-analytics-commentary-reo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-prior-analytics-commentary-reo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-prior-analytics-commentary-reo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/prior-analytics-commentary.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-cr",
+      "title": {
+        "english": "On Many Friendships",
+        "ancient_greek": "Περὶ πολυφιλίας"
+      },
+      "url_slug": "plutarch-of-chaeronea-many-friendships-okg-cr",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/many-friendships",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-many-friendships-okg-cr.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-many-friendships-okg-cr.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-many-friendships-okg-cr.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-many-friendships-okg-cr.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/many-friendships.epub"
+      }
+    },
+    {
+      "eul_wid": "eoc-aa",
+      "title": {
+        "english": "On the Nature of the Universe",
+        "ancient_greek": "Περὶ φύσεως τοῦ κόσμου"
+      },
+      "url_slug": "ocellus-of-lucania-nature-universe-eoc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ocellus-of-lucania/nature-universe",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-nature-universe-eoc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-nature-universe-eoc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-nature-universe-eoc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-nature-universe-eoc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania/nature-universe.epub"
+      }
+    },
+    {
+      "eul_wid": "ffk-bf",
+      "title": {
+        "english": "Timaeus",
+        "ancient_greek": "Τίμαιος"
+      },
+      "url_slug": "plato-timaeus-ffk-bf",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/timaeus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-timaeus-ffk-bf.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-timaeus-ffk-bf.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-timaeus-ffk-bf.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-timaeus-ffk-bf.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/timaeus.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-cq",
+      "title": {
+        "english": "Virtues of Women",
+        "ancient_greek": "Γυναικῶν ἀρεταί"
+      },
+      "url_slug": "plutarch-of-chaeronea-virtues-of-women-okg-cq",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/virtues-of-women",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-virtues-of-women-okg-cq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-virtues-of-women-okg-cq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-virtues-of-women-okg-cq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-virtues-of-women-okg-cq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/virtues-of-women.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/socrates-of-athens/gods-wisdom",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-athens-gods-wisdom-dpm-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-athens-gods-wisdom-dpm-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-athens-gods-wisdom-dpm-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-athens-gods-wisdom-dpm-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-athens/gods-wisdom.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

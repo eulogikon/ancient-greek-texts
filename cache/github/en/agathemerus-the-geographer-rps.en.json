@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "rps",
+  "auth_slug": "agathemerus-the-geographer",
+  "name": {
+    "english": "Agathemerus the Geographer",
+    "ancient_greek": "Ἀγαθήμερος ὁ γεωγράφος"
+  },
+  "seo_h1": "Agathemerus the Geographer on the Known World",
+  "seo": {
+    "browser_title": "Agathemerus the Geographer on Eulogikon Greek Archive",
+    "meta_title": "Classical Agathemerus Ancient Greek Geography and Works",
+    "meta_description": "Agathemerus was a Greek geographer of the Roman period. His treatise outlines ancient world knowledge. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γεωγραφία",
+      "english": "Geography",
+      "href": "/domains/geography"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Agathemerus was a Greek geographer who lived during the Roman Empire. The exact date of his life is uncertain, but he is generally placed in the 3rd century CE because his only known work mentions a Roman emperor from that period. Nothing is known about his personal life or background; he is identified solely through his surviving geographical writing.</p>\n<p class=\"research-text\">He is the author of a short work titled Hypotyposis Geographias, or &quot;Sketch of Geography.&quot; This prose treatise is a compact summary of the ancient world&#x27;s geographical knowledge. It survives in a single manuscript. According to modern scholars, the work is not an original study but a compilation that draws heavily on earlier, and now often lost, geographers like Eratosthenes and Artemidorus.</p>\n<p class=\"research-text\">The treatise is divided into two main parts. The first provides a brief history of geography from the poet Homer onward. The second part systematically describes the inhabited world, outlining the three known continents—Europe, Asia, and Libya (Africa)—along with major seas and islands.</p>\n<p class=\"research-text\">His historical importance lies in this role as a compiler. While not a major innovator, his work is a valuable witness to how Greek geographical science was condensed and transmitted in later antiquity. It preserves summaries of theories and data from earlier sources, making it a useful resource for understanding the history of ancient geography.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "rps-aa",
+      "title": {
+        "english": "InformatiGeography",
+        "ancient_greek": "Πληροφορίαι περὶ γεωγραφίας"
+      },
+      "url_slug": "agathemerus-the-geographer-geography-rps-aa",
+      "passages": 26,
+      "links": {
+        "html": "https://eulogikon.org/grc/agathemerus-the-geographer/geography",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathemerus-the-geographer-geography-rps-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathemerus-the-geographer-geography-rps-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathemerus-the-geographer-geography-rps-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathemerus-the-geographer-geography-rps-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathemerus-the-geographer/geography.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/agathemerus-the-geographer",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agathemerus-the-geographer-rps.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agathemerus-the-geographer-rps.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agathemerus-the-geographer-rps.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agathemerus-the-geographer-rps.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "jba",
+  "auth_slug": "aratus-of-sicyon",
+  "name": {
+    "english": "Aratus of Sicyon",
+    "ancient_greek": "Ἄρατος ὁ Σικυώνιος"
+  },
+  "seo_h1": "Aratus of Sicyon and the Achaean League",
+  "seo": {
+    "browser_title": "Aratus of Sicyon: Historian on Eulogikon Greek Archive",
+    "meta_title": "Classical Aratus of Sicyon Ancient Greek Historical Works",
+    "meta_description": "Aratus of Sicyon, a Hellenistic historian of the 3rd century BCE. His work is preserved in fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Aratus of Sicyon was a prominent Greek statesman and general of the 3rd century BCE. Born in 271 BCE, he fled to Argos after his father&#x27;s murder and later liberated Sicyon from the tyrant Nicocles in 251 BCE. He secured the city&#x27;s entry into the Achaean League, becoming its leading strategos from 245 BCE until his death in 213 BCE.</p>\n<p class=\"research-text\">His career was defined by opposition to Macedonian influence, exemplified by his capture of the fortress of Acrocorinth in 243 BCE, though he later formed a necessary alliance with Macedon against Sparta. Aratus was pivotal in transforming the Achaean League into the dominant Peloponnesian power.</p>\n<p class=\"research-text\">His only known work is the lost <strong>Memoirs</strong>, a historical account covering the period from 251 to 213 BCE. This text served as the primary source for Polybius’s history of the Achaean League and for Plutarch’s <strong>Life of Aratus</strong>. Through these historians, his political and military strategies, which significantly shaped the Hellenistic geopolitical landscape, are preserved.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "jba-aa",
+      "title": {
+        "english": "Historical Commentary Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aratus-of-sicyon-historical-commentary-jba-aa",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-of-sicyon/historical-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-of-sicyon-historical-commentary-jba-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-of-sicyon-historical-commentary-jba-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-of-sicyon-historical-commentary-jba-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-of-sicyon-historical-commentary-jba-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-of-sicyon/historical-commentary.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/aratus-of-sicyon",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aratus-of-sicyon-jba.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aratus-of-sicyon-jba.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aratus-of-sicyon-jba.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aratus-of-sicyon-jba.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

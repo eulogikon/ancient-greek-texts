@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "nes",
+  "auth_slug": "timagenes-of-alexandria",
+  "name": {
+    "english": "Timagenes of Alexandria",
+    "ancient_greek": "Τιμαγένης ὁ Ἀλεξανδρεύς"
+  },
+  "seo_h1": "Timagenes of Alexandria and the Historical Fragments",
+  "seo": {
+    "browser_title": "Timagenes of Alexandria on Eulogikon Greek Archive",
+    "meta_title": "Timagenes of Alexandria Ancient Greek Historical Works",
+    "meta_description": "Timagenes of Alexandria, a Hellenistic historian of the 1st century BCE. Historical fragments and testimonia. Free to read and download from the Greek library."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Timagenes of Alexandria was a Greek historian of the 1st century BCE. Captured by the Romans and brought to Rome as a slave, he was later freed and became a teacher of rhetoric and a writer in the circle of Gaius Asinius Pollio.</p>\n<p class=\"research-text\">Though initially a friend, he was permanently estranged from Augustus after making critical remarks about the imperial family. He subsequently lived with Pollio until his death. His major work was a universal history titled <strong>On Kings</strong>, which is now lost and survives only in fragments.</p>\n<p class=\"research-text\">Timagenes provides a significant Greek intellectual perspective on Rome from one who experienced capture and enslavement. His work was used as a source by later historians like Pompeius Trogus and Josephus. His relationship with Augustus exemplifies the complex dynamics between Roman power and Greek cultural figures, and his surviving fragments suggest he offered critical viewpoints on Roman history.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "nes-aa",
+      "title": {
+        "english": "Historical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "timagenes-of-alexandria-historical-fragments-nes-aa",
+      "passages": 12,
+      "links": {
+        "html": "https://eulogikon.org/grc/timagenes-of-alexandria/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timagenes-of-alexandria-historical-fragments-nes-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timagenes-of-alexandria-historical-fragments-nes-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timagenes-of-alexandria-historical-fragments-nes-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timagenes-of-alexandria-historical-fragments-nes-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timagenes-of-alexandria/historical-fragments.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/timagenes-of-alexandria",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timagenes-of-alexandria-nes.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timagenes-of-alexandria-nes.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timagenes-of-alexandria-nes.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timagenes-of-alexandria-nes.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

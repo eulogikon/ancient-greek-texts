@@ -1,0 +1,457 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "afa-aa",
+  "eul_aid": "afa",
+  "author_slug": "little-iliad",
+  "work_slug": "fragments",
+  "url_slug": "little-iliad-fragments-afa-aa",
+  "author": {
+    "english": "Little Iliad ",
+    "ancient_greek": "Ἰλιὰς μικρά"
+  },
+  "title": {
+    "english": "Little Iliad Fragments",
+    "ancient_greek": "Ἰλιὰς Μικρὰ Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Little Iliad Fragments by Lesches of Mytilene on Eulogikon",
+    "meta_title": "Little Iliad Fragments by Lesches in Ancient Greek",
+    "meta_description": "Surviving fragments of the lost epic Little Iliad from the Trojan Cycle. Attributed to Lesches. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Little Iliad</strong> was a lost epic poem from ancient Greece, forming part of the Epic Cycle that narrated the complete story of the Trojan War. Traditionally ascribed to the poet Lesches, though this attribution remains uncertain, it was composed during the Archaic period, likely in the 7th or 6th century BCE. Written in the dactylic hexameter verse characteristic of epic poetry and in the Epic Greek dialect, it began its narrative after the death of Achilles, covering the concluding episodes of the conflict. Its major events included the contest between Odysseus and Ajax for the armor of Achilles, the retrieval of the archer Philoctetes, the theft of the sacred Palladium statue from Troy, and the deception of the Wooden Horse that ultimately caused the city&#x27;s downfall. The poem concluded with the sack of Troy and the departure of the Greek fleet. Modern scholarship interprets the Epic Cycle, including this work, as providing a continuous mythological narrative for audiences already deeply familiar with the Homeric epics.</p>\n<p class=\"research-text\">The complete text of the <strong>Little Iliad</strong> has not survived antiquity. It is known today only through approximately thirty-eight fragmentary passages preserved in quotations by later Greek authors and a prose summary written by the 5th-century CE scholar Proclus. This summary has been crucial for reconstructing the poem&#x27;s plot structure, which ancient critics observed was more episodic and less tightly focused than the narratives of Homer. Despite its fragmentary state, the <strong>Little Iliad</strong> exerted significant influence on later literature, establishing the canonical versions of these myths that were subsequently adapted by Greek tragedians and by Roman poets such as Virgil.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Μοῦσά μοι ἔννεπε ἔργα, τὰ μήτ’ ἐγένοντο πάροιθε μήτ’ ἔσται μετόπισθεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Αἴας μὲν γὰρ ἄειρε καὶ ἔκφερε δηϊοτῆτος ἥρω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "Πηλεΐδην, οὐδ’ ἤθελε δῖος Ὀδυσσεύς.[ln_2]* πῶς ἐπεφωνήσω; πῶς οὐ κατὰ κόσμον ἔειπες; 〈καί κε γυνὴ φέροι ἄχθος, ἐπεί κεν ἀνὴρ ἀναθείη,[ln_5]ἀλλ’ οὐκ ἂν μαχέσαιτο.〉",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.1",
+      "text": "ἀμφὶ δὲ πόρκης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.2",
+      "text": "χρύσεος ἀστράπτει καὶ ἐπ’ αὐτῶι δίκροος αἰχμή.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.1",
+      "text": "νὺξ μὲν ἔην μεσάτη, λαμπρὴ δ’ ἐπέτελλε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.2",
+      "text": "σελήνη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 21.1",
+      "text": "αὐτὰρ Ἀχιλλῆος μεγαθύμου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 21.2",
+      "text": "φαίδιμος υἱὸς Ἑκτορέην ἄλοχον κάταγεν κοΐλας ἐπὶ νῆας. παῖδα δ’ ἑλὼν ἐκ κόλπου ἐυπλοκάμοιο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 21.3",
+      "text": "τιθήνης ῥῖψε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 21.4",
+      "text": "ποδὸς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 21.5",
+      "text": "τεταγὼν ἀπὸ πύργου, τὸν δὲ πεσόντα[ln_5]ἔλλαβε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 21.6",
+      "text": "πορφύρεος θάνατος καὶ μοῖρα κραταιή. {ἐκ δ’ ἕλετ’ Ἀνδρομάχην, ἠύζωνον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 21.7",
+      "text": "παράκοιτιν Ἕκτορος, ἥν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 21.8",
+      "text": "τε οἱ αὐτῶι ἀριστῆες",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 21.9",
+      "text": "Παναχαιῶν δῶκαν ἔχειν ἐπίηρον ἀμειβόμενοι γέρας ἀνδρί, αὐτόν τ’ Ἀγχίσαο κλυτὸν γόνον ἱπποδάμοιο[ln_10]Αἰνείαν ἐν νηυσὶν ἐβήσατο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 21.10",
+      "text": "ποντοπόροισιν ἐκ πάντων Δαναῶν ἀγέμεν γέρας ἔξοχον ἄλλων.}",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 23.1",
+      "text": "ὡς δ’ ὅτ’ ἀέξηται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 23.2",
+      "text": "σικυὸς δροσερῶι ἐνὶ χώρωι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 24.1",
+      "text": "Πηλεΐδην δ’ Ἀχιλῆα φέρε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 24.2",
+      "text": "Σκῦρόνδε θύελλα, ἔνθ’ ὅ γ’ ἐς ἀργαλέον λιμέν’ ἵκετο νυκτὸς ἐκείνης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 26.1",
+      "text": "ἔνθ’ ἄλλοι μὲν πάντες ἀκὴν ἔσαν υἷες Ἀχαιῶν, Ἄντικλος δὲ σέ γ’ οἶος ἀμείψασθαι ἐπέεσσιν ἤθελεν· ἀλλ’ Ὀδυσεὺς ἐπὶ μάστακα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 26.2",
+      "text": "χερσὶ πίεζε νωλεμέως κρατερῆισι, σάωσε δὲ πάντας Ἀχαιούς,[ln_5]τόφρα δ’ ἔχ’ ὄφρα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 26.3",
+      "text": "σε νόσφιν ἀπήγαγε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 26.4",
+      "text": "Παλλὰς Ἀθήνη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 27.1",
+      "text": "φήμη δ’ εἰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 27.2",
+      "text": "στρατὸν ἦλθε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 28",
+      "text": "Ἴλιον ἀείδω καὶ Δαρδανίην ἐύπωλον, ἧς πέρι πόλλ’ ἔπαθον Δαναοί, θεράποντες Ἄρηος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 29.1",
+      "text": "ἄμπελον ἣν Κρονίδης ἔπορεν οὗ παιδὸς ἄποινα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 29.2",
+      "text": "χρυσείην, φύλλοισιν ἀγαυοῖσιν κομόωσαν βότρυσί θ’ οὓς Ἥφαιστος ἐπασκήσας Διὶ πατρὶ δῶχ’, ὃ δὲ Λαομέδοντι πόρεν Γανυμήδεος ἀντί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 32.1",
+      "text": "[ ].ε̣σ̣ο[.]π..[.]ν κατ̣[.].[.]..[] [ἐς μακάρων ν]ή̣σ̣ους τ̣.[.].ι̣νπομ̣[.] Ὠ̣κεαν[] [ πέ]μψωσ[ι]ν, ὅ̣θι ξα̣ν̣θὸς ‘Ραδάμ[ανθυς.‘] [ὣς ἄρα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 32.2",
+      "text": "φωνήσ]ας ἀπ̣έ̣βη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 32.3",
+      "text": "πρὸς μ̣ακρὸν Ὄλυμπο̣[ν.][ln_5][ συν]άϊξ̣αν ἐυκν̣ή̣μ̣ιδες Ἀχαι[οί.] [ὡς δ’ εἴδοντ’ Ἀχιλῆ]α νέκυν αἴρον[τ]α̣ς Ἀχ̣αιού̣ς, [ ]ί̣ης κεκορυθμένοι, οἳ δ’ ἅ〈μα〉 πάντ̣ε̣[ς] [ ]ἀ̣μφὶ νέκυ[ν̣] κατατεθν〈ε〉ιῶτα μ[άχεσθαι.] [δὴ τότε Λαρτ]ι̣άδης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 32.4",
+      "text": "προσέφη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 32.5",
+      "text": "Τελαμώνιον υ̣[ἱόν·][ln_10][‘Αἶαν διογενές,] Τ̣ελαμώνιε, κοίρανε λαῶν, [ ἅ]μα καὶ νώτοισι̣ νέκυν οἴσωμ̣[εν,] [ ]ουσι κατὰ φρέ̣να ν[.]ν̣δ[.]ρ..[] [ἕως ἐγὼ ν]ώ̣τ̣οι̣σ̣ι φέρω, σὺ δὲ ν̣.[ ]ε̣[.]ε̣τ̣[‘] [ μετὰ] Τ̣ρῶας κα〈ὶ〉 Ἀχ̣α̣[ι]οὺς ο..[]",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 32.1",
+      "text": "[ln_15][ Ἀχι]λῆα, νέκυν ε̣[.].θ..κ̣[] [ ]..υ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 32.2",
+      "text": "χθόν’ ἀ̣π’ ο[ὐ]ρ̣[α]νόθ̣[εν] [ ].ψεν ἐπὶ χθό̣ν̣α̣ π̣[ουλυβότειραν.] [ κα]θύπερθεν εη.[ ]...[] [ ]κατ’ ἄσθματι̣.αρ̣.[][ln_20][ ]ε̣.ν δεῦ̣ε̣ν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 32.3",
+      "text": "χθόν̣α.[] [ Ὀδ]υσ〈σ〉εὺς βά̣σ̣ταζ̣[ε] ν̣έ̣[κυν]",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "alo-ab",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "peisander-of-camirus-epigram-alo-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/peisander-of-camirus/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus-epigram-alo-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus-epigram-alo-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus-epigram-alo-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus-epigram-alo-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus/epigram.epub"
+      }
+    },
+    {
+      "eul_wid": "jxs-aa",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "diotimus-of-adramyttium-epigrams-jxs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/diotimus-of-adramyttium/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-adramyttium-epigrams-jxs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-adramyttium-epigrams-jxs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-adramyttium-epigrams-jxs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-adramyttium-epigrams-jxs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-adramyttium/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "ica-ab",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "moero-of-byzantium-epigrams-ica-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/moero-of-byzantium/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium-epigrams-ica-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium-epigrams-ica-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium-epigrams-ica-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium-epigrams-ica-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "kjq-ak",
+      "title": {
+        "english": "Ethopoeic Exercises",
+        "ancient_greek": "Ἠθοποιίαι"
+      },
+      "url_slug": "epic-fragments-anonymous-ethopoeia-ak-kjq-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/ethopoeia-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-ethopoeia-ak-kjq-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-ethopoeia-ak-kjq-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-ethopoeia-ak-kjq-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-ethopoeia-ak-kjq-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeia-ak.epub"
+      }
+    },
+    {
+      "eul_wid": "aaa-ad",
+      "title": {
+        "english": "Fragments on Corinthian Genealogy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κορινθιακῆς Γενεαλογίας"
+      },
+      "url_slug": "eumelus-of-corinth-genealogy-aaa-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/eumelus-of-corinth/genealogy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth-genealogy-aaa-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth-genealogy-aaa-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth-genealogy-aaa-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth-genealogy-aaa-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth/genealogy.epub"
+      }
+    },
+    {
+      "eul_wid": "jvk-aa",
+      "title": {
+        "english": "Fragments on Thessalian Aleuas",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θεσσαλοῦ Ἀλεύου"
+      },
+      "url_slug": "hegemon-of-alexandria-thessalian-aleuas-jvk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hegemon-of-alexandria/thessalian-aleuas",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegemon-of-alexandria-thessalian-aleuas-jvk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegemon-of-alexandria-thessalian-aleuas-jvk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegemon-of-alexandria-thessalian-aleuas-jvk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegemon-of-alexandria-thessalian-aleuas-jvk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegemon-of-alexandria/thessalian-aleuas.epub"
+      }
+    },
+    {
+      "eul_wid": "kjq-ag",
+      "title": {
+        "english": "Historical Epic Fragment A",
+        "ancient_greek": "Ἱστορικὸν Ἐπικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "epic-fragments-anonymous-historical-fragment-ag-kjq-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/historical-fragment-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-historical-fragment-ag-kjq-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-historical-fragment-ag-kjq-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-historical-fragment-ag-kjq-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-historical-fragment-ag-kjq-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/historical-fragment-ag.epub"
+      }
+    },
+    {
+      "eul_wid": "qky-aa",
+      "title": {
+        "english": "On Marriage and Wifely Duties",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "naumachius-the-didactic-poet-marriage-duties-qky-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/naumachius-the-didactic-poet/marriage-duties",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/naumachius-the-didactic-poet-marriage-duties-qky-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/naumachius-the-didactic-poet-marriage-duties-qky-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/naumachius-the-didactic-poet-marriage-duties-qky-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/naumachius-the-didactic-poet-marriage-duties-qky-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/naumachius-the-didactic-poet/marriage-duties.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/little-iliad/fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/little-iliad-fragments-afa-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/little-iliad-fragments-afa-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/little-iliad-fragments-afa-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/little-iliad-fragments-afa-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/little-iliad/fragments.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

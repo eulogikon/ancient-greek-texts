@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "sie",
+  "auth_slug": "dositheus-the-grammarian",
+  "name": {
+    "english": "Dositheus the Grammarian",
+    "ancient_greek": "Δωσίθεος ὁ γραμματικός"
+  },
+  "seo_h1": "Dositheus the Grammarian and the Grammatical Art",
+  "seo": {
+    "browser_title": "Dositheus the Grammarian on Eulogikon Greek Archive",
+    "meta_title": "Classical Dositheus the Grammarian Ancient Greek Treatise",
+    "meta_description": "Dositheus the Grammarian was a 4th century CE scholar of technical Koine. His grammatical treatise. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Dositheus the Grammarian was a Greek grammarian active in the 4th century CE. His career belongs to the late antique period, when grammatical education remained central to Greco-Roman paideia. The 10th-century Byzantine encyclopedia, the Suda, mentions a grammarian of this name who authored a work on the eight parts of speech, though this attribution is not certain.</p>\n<p class=\"research-text\">His sole definitive work is a bilingual Ars Grammatica, a grammatical manual presented in parallel Greek and Latin columns. It systematically covers the parts of speech, morphology, and syntax, functioning as a school text for language learners in the bilingual context of the later Roman Empire.</p>\n<p class=\"research-text\">Dositheus’s manual is a crucial artifact of late antique education. It provides direct comparative evidence for contemporary Greek and Latin grammatical structures and terminology. Its format makes it a key source for understanding pedagogical methods, linguistic contact, and the history of grammar in the 4th-century Roman world.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "sie-aa",
+      "title": {
+        "english": "Grammatical Art",
+        "ancient_greek": "Γραμματικὴ Τέχνη"
+      },
+      "url_slug": "dositheus-the-grammarian-art-sie-aa",
+      "passages": 101,
+      "links": {
+        "html": "https://eulogikon.org/grc/dositheus-the-grammarian/art",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dositheus-the-grammarian-art-sie-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dositheus-the-grammarian-art-sie-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dositheus-the-grammarian-art-sie-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dositheus-the-grammarian-art-sie-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dositheus-the-grammarian/art.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/dositheus-the-grammarian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dositheus-the-grammarian-sie.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dositheus-the-grammarian-sie.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dositheus-the-grammarian-sie.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dositheus-the-grammarian-sie.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

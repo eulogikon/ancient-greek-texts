@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "cqw",
+  "auth_slug": "polykleitos-of-argos",
+  "name": {
+    "english": "Polykleitos of Argos",
+    "ancient_greek": "Πολύκλειτος ὁ Ἀργεῖος"
+  },
+  "seo_h1": "The Canon of Polykleitos of Argos",
+  "seo": {
+    "browser_title": "Polykleitos of Argos on Eulogikon Greek Archive Library",
+    "meta_title": "Polykleitos of Argos Ancient Greek Philosophical Works",
+    "meta_description": "Polykleitos of Argos, a 5th century BCE philosopher writing in Doric Greek. Two surviving works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric (frg)",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Polykleitos of Argos was a renowned Greek sculptor of the 5th century BCE, a contemporary of Pheidias. Born in Argos, he was a student of the sculptor Ageladas and was celebrated for his work primarily in bronze, as well as gold, ivory, and marble. His career peaked during the High Classical period.</p>\n<p class=\"research-text\">Ancient sources record his creation of a victorious Amazon statue for Ephesus and a chryselephantine statue of Hera for the Argive Heraion. His major works include the Diadoumenos (Youth Tying a Fillet) and the Doryphoros (Spear-Bearer), both known through Roman copies. He also authored the Kanon, a lost treatise on artistic theory and proportion.</p>\n<p class=\"research-text\">Polykleitos was a central figure in Classical art, famed for his mastery of the male form. His greatest significance lies in the Kanon, which systematically defined ideal proportions, making his art a theoretical foundation for sculpture; the Doryphoros was its embodiment. His principles of balanced contrapposto and mathematical harmony profoundly influenced subsequent Greek and Roman art.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "cqw-ab",
+      "title": {
+        "english": "Canon of Polykleitos",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "polykleitos-of-argos-canon-of-polykleitos-cqw-ab",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/polykleitos-of-argos/canon-of-polykleitos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polykleitos-of-argos-canon-of-polykleitos-cqw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polykleitos-of-argos-canon-of-polykleitos-cqw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polykleitos-of-argos-canon-of-polykleitos-cqw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polykleitos-of-argos-canon-of-polykleitos-cqw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polykleitos-of-argos/canon-of-polykleitos.epub"
+      }
+    },
+    {
+      "eul_wid": "cqw-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "polykleitos-of-argos-testimonies-cqw-aa",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/polykleitos-of-argos/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polykleitos-of-argos-testimonies-cqw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polykleitos-of-argos-testimonies-cqw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polykleitos-of-argos-testimonies-cqw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polykleitos-of-argos-testimonies-cqw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polykleitos-of-argos/testimonies.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/polykleitos-of-argos",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/polykleitos-of-argos-cqw.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/polykleitos-of-argos-cqw.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/polykleitos-of-argos-cqw.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/polykleitos-of-argos-cqw.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

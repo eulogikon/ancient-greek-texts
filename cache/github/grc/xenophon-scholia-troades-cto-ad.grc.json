@@ -1,0 +1,403 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "cto-ad",
+  "eul_aid": "cto",
+  "author_slug": "xenophon-scholia",
+  "work_slug": "troades",
+  "url_slug": "xenophon-scholia-troades-cto-ad",
+  "author": {
+    "english": "Xenophon Scholia",
+    "ancient_greek": "Ξενοφῶντος Σχόλια"
+  },
+  "title": {
+    "english": "Glosses-Euripides' Troades",
+    "ancient_greek": "Γλῶσσαι εἰς Εὐριπίδου Τρωάδας"
+  },
+  "seo": {
+    "browser_title": "Glosses on Euripides Trojan Women by Xenophon on Eulogikon",
+    "meta_title": "Glosses on Euripides Trojan Women by Xenophon in Greek",
+    "meta_description": "Ancient grammatical glosses by Xenophon explaining vocabulary in Euripides tragedy Trojan Women. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Glosses on Euripides&#x27; Trojan Women</strong> is a lost grammatical work attributed to Xenophon, a minor grammarian distinct from the historian of the same name. Known only from a brief entry in the tenth-century Byzantine encyclopedia known as the <strong>Suda</strong>, the work is described as comprising five passages that functioned as a glossary. Its purpose was to provide explanatory notes on difficult, obscure, or archaic vocabulary found within Euripides&#x27; tragedy <strong>Troades</strong>. As was typical of ancient scholia, these glosses likely served a dual function, offering not only basic lexicographical definitions but also engaging in textual and literary exegesis. This could have included commentary on variant manuscript readings, explanations of mythological references, or analysis of poetic devices. The work itself is not preserved, surviving only as a title in the historical record. It represents a minor but characteristic product of the ancient and Byzantine scholarly tradition dedicated to preserving and elucidating classical texts. Such grammatical tools were essential for making older literature accessible to students and scholars, thereby contributing to the broader transmission and study of Euripides&#x27; dramatic works.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "γράφεται καὶ ἀγάλματα τὸ ἑξῆς· ἐγὼ δὲ λείπω ταῖς παρακλήσεσιν Ἥρας καὶ Ἀθηνᾶς ὡς καὶ τῆς Ἑλένης σὺν 〈ταῖσ〉 αἰχμαλώτοις κειμένης ἀντὶ τοῦ ἧς γράφεται οἰκτρ ά, ὃ καὶ ἄμεινον τὸ ὅσιον τὸν πλησιάζοντα τῷ πατρὶ κατὰ τὸ γένος τὴν κατὰ τῶν Τρώων ἔχθραν φιλονεικεῖ ὁ Ποσειδῶν σῴζειν τὴν Ἴλιον, ἐπεὶ ᾠκοδόμησεν αὐτήν τοὺς τρόπους σοὶ καὶ ἐμαυτῇ μὴ οὖν ἐφ’ ᾗ νῦν ἐσμεν μεταβαλοῦσα διὰ τί, φησὶν, οὕτω μεταβαίνεις τοὺς ἀνέμους καὶ τὰ πνεύματα τὰ σφοδρά αἱ ἀπὸ τῆς Δήλου τραχεῖαι πέτραι ἐκπέμπῃ τὰ σχοινία ἀντὶ τοῦ· φεῦ τῆς ἀνακλίσεως τῶν μελῶν, ὡς διάκειμαι δυσχορεύτους τὸν ἀδελφὸν τῆς Ἑλένης ἀντὶ τοῦ σφάζεσθαι ποιεῖ αὕτη μὲν ἔξω τῆς σκηνῆς ἦν, ὁ δὲ χορὸς ἔσω τῇ διὰ ξυροῦ ἐκκαρθείσῃ πυρπολεῖται Ἴλιος, δι’ ὃ θρηνοῦμεν ἀνύμνουν ταῖς ναυσὶν ἀπάξουσιν ἐκβακχευομένην οἱ αἰχμαλωτισθέντες τὸ λοιπὸν ἡμιχόριον ἐξῆλθεν ταῦτα ἐπερωτῶν ὁ χορὸς λέγει περὶ ἑαυτοῦ ἐν ἐρωτήσει καὶ ταῦτα ἐγγὺς εἶ τοῦ κληρωθῆναι γράφεται πόρρω περιπαθῶς τὸ πρόσω Τροίας ἢ λέκτροις πλησιάσασα τῶν Ἑλλήνων τῆς πηγῆς τὸ ἑξῆς· ἢ λέκτροις πλαθεῖς’ Ἑλλάνων ἢ Πειρήνης ὑδάτων ταῦτα ὑποθεραπεύων τοὺς Ἀθηναίους λέγει γένωμαι ἐκεῖσε, ἀπαντήσω δούλη Μενελάου οὖσα τῇ θάλλειν ποιούσῃ τὴν Σικελίαν Φοινίκης, τῆς Καρχηδόνος· ἵνα λέγῃ τὴν τῶν Λιβυφοινίκων χώραν: — πυρσεύων τῆς Ἑλληνικῆς κεκλήρωσθε ᾗτινι ὁ Ἀπόλλων τὴν παρθενίαν τῆς μαντικῆς ἱέρεια γὰρ ἦν τοῦ Ἀπόλλωνος τὸ νεωστὶ ἁρπαγέν τίνι ταύτην ὁ κλῆρος ἔζευξε καὶ ἀπένειμεν τύχη λείπει ἡ διά, διὰ τὸ γηραιὸν κάρα, ὡς τὸ [Ε 875]· ‘σοὶ πάντες μαχόμε〈σ〉θα‘, ἀντὶ τοῦ διὰ σέ τὸ κεκαρμένον ἐχθρῷ τῆς δίκης καὶ θηρίῳ παρανόμῳ δέσποινα πορεύεσθε ἐπὶ Κασάνδραν ἐκ μεταφορᾶς τῶν ὑποζυγίων ὁ ἀνὴρ ὁ ἄγων με ἀντὶ τοῦ καταστένεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "317",
+      "text": "Ἀττικὸν τὸ σχῆμα ὡς νόμος ἐστί, ὥσπερ καὶ τὸ [Β 73 et passim]· ‘ᾗ θέμις ἐστί‘, ἀντὶ τοῦ· ὡς θέμις ἐστίν ὥσπερ εἴωθε ἐπὶ τοῦ πατρὸς χορεύειν μετὰ δαφνῶν χορεύω ἀντὶ τοῦ· μετὰ ποδῶν ἐμέθεν ἐμὲ τὴν νύμφην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "337",
+      "text": "ἰαχαῖς δὲ λέγει νῦν ἐπίσης τῷ ἠχήμασι ταῦτά τινες τῷ Ταλθυβίῳ, τινὲς δὲ τῷ χορῷ ἐπιμερίζουσιν οὐκ ἤλπιζόν σε γαμεῖσθαι αἰχμαλωτισθεῖσαν κἂν ἐγὼ μὴ βούλωμαι ἐξελθεῖν, σύ με ὤθει ὅ ἐστι· εἰ σῴζεται ἡ μαντική ἀντικτανθῆναι ποιήσω ἀπὸ κοινοῦ τὸ ἐάσ ω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "363",
+      "text": "λέγει δὲ τὸν Ὀρέστην πόρθησιν τὴν Τροίαν ὁ Ἀγαμέμνων ὑπὲρ Μενελάου οἱ Ἕλληνες οὐχ ὑπὲρ ὁρίων γῆς μαχόμενοι οὐκ ἐτάφησαν ὑπὸ τῶν ἰδίων γυναικῶν οἱ Τρῶες ὑπὲρ γῆς ἔθνῃσκον, ὅπερ ἐστὶ τὸ κάλλιστον κλέος τὰ δοκοῦντά σοι λυπηρά ἀτιμωρητί τῶν εὐτελῶν ἠράσθη τοὺς ἐπαίνους ἐν εἰρωνείᾳ ταῦτα λέγει τῆς Πηνελόπης οἵτινες οἱ δι’ ἐμοῦ ἑρμηνευόμενοι ὅτι εἰς κύνα μέλλει μεταβληθῆναι ἀποστρέφει εἰς τὸν Ὀδυσσέα τὰ ἑξῆς τῷ Ὀδυσσεῖ ὡς ἐν τῷ Λιγυστικῷ οἰκούσης τῆς Κίρκης τοὺς μνηστῆρας πρὸς ἑαυτὴν ταῦτα λέγει ὥστε ὑπὸ θηρῶν διαφθαρῆναι οὐχ ἁπλῶς πλῆθος, ἀλλὰ καὶ πολλοὺς καὶ ἀγαθούς τῷ βωμῷ καὶ ἐν πέδῳ ἀναγκάσουσι κοιμᾶσθαι ἐν ῥυσοῖς νώτοις ἔχουσαν ῥάκη γηραιοῖς σχίσματα ἀνάξια βασιλεῦσιν διὰ τὸ μαντεύεσθαι τὴν παρθενίαν βούλεται τὴν ἀρχὴν λέγειν πῶς τὸ Ἴλιον ἐπορθήθη ὅτι τὸ ἑξῆς· ἔλιπον Ἀχαιοί ὁ Τρωικός τίς, φησὶν, οὐκ ἐξῆλθεν πρὸς τὸ θεάσασθαι τὸν ἵππον τῇ ὀρεινῇ πεύκῃ οὕτως ὥστε πληρῶσαι καὶ τὸν αἰθέρα τὴν εὔφρονα μολπήν, ἤγουν τὴν εὐφραντικήν τὴν ὀρεσίτροφον τὰς ἕδρας τῶν Περγάμων βοὴ κατεῖχεν τὰ βρέφη, φησὶν, ἔσω ἔφυγε τῶν πέπλων τῶν μητέρων τοῦ ἵππου ὅπερ ἦν ἔργον τῆς Ἀθηνᾶς τῇ συζυγίᾳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1332",
+      "text": "ἀπὸ μεταφορᾶς τῶν ἐρεσσόντων τοῖς πλάτεσι τῆς ἀπήνης οἷστισιν ὅπλοις ὁ τοῦ Ἀχιλλέως παῖς στέφει τοὺς ναοὺς τῆς Φθίας Ἀνδρομάχη πρὸς Ἑκάβην ἀμοιβαῖα τὸ ἑξῆς· μόλοις, ὦ πόσι μοι, σᾶς δάμαρτος ἄλκαρ, ὅ ἐστιν ἐμοῦ ἐπικουρία βοήθεια σύ τε, ὦ Πρίαμε, λῦμα γεγονὼς τοῖς Ἕλλησι ἃ ποθεῖτε, μεγάλα ἐστίν, ἡ μὲν Ἕκτορα, ἡ δὲ Πρίαμον κακοβουλίαις πρόκειται, φησὶ, τὰ σώματα τοῖς γυψί τῇ δὲ Τροίᾳ ὁ Ἀλέξανδρος δουλεῖα ζυγὰ ἤνυσεν ἀπὸ κοινοῦ τὸ καταλειπομένην σε δακρύω ἡδύ ἐστι τὰ δάκρυα τοῖς ἀτυχοῦσι καὶ ἡ Μοῦσα ἣ λύπας ἔχει τὸ ἑξῆς· ὦ μῆτερ ἀνδρὸς Ἕκτορος ὑψοῦσι λεία ὄντες ἀγόμεθα ἕτερον ἕτερον διαδέχεται αἴνιγμά ἐστι λόγος οὐ σαφῶς λεγόμενος παραμυθίαν τὸ ὅλως μὴ γεννηθῆναι οὐκ αἰσθάνεται τῶν κακῶν ὁ νεκρός λέγουσιν ὅτι μία νὺξ λύει τὴν δυσμένειαν τῇ φιλίᾳ ἀλλ’ οὐδὲ πῶλος, εἰ διαχωρισθείη τῆς συντραφείσης, ῥᾳδίως τὸν ζυγόν ἐμοὶ δηλονότι καὶ ἡμᾶς τὸν Ἀστυάνακτα περιλάμβανε ὅτι τούτων ἡ αἰτία αὐτοῖς γέγονεν ἡ Ἑλένη πάσῃ σπουδῇ τῆς τρεφούσης μελίσσας· τίμιον γὰρ τὸ ζῷον τὴν Ἀττικὴν λέγει τὰ ναύδετα λέγει τὰ πρυμνήσια τὰ τόξα λέγει τὰς κατασκευὰς, τὰ τείχη πίτυλον λέγει τὴν συνεχῆ τῶν κωπῶν φοράν, νῦν δὲ τὴν ὁρμήν οὓς ἡμεῖς λέγομεν σκύφους, οἷς τὸν οἶνον ἀρύονται, ἢ κυάθους ἐν οἰνοχόαις πεπόρθηνται πολλὰ εἴρηται περὶ τοῦ Διὸς, οὐκέτι ἐρῶ οὐδὲ ὀνειδίσω τῷ Διί τὰ δὲ τῶν θεῶν φίλτρα ἀφανῆ νῦν εἰσιν μοχθήσαντες ἐκράτησαν λείπει τὸ 〈εἰσίν〉· ποῖαί εἰσιν περὶ ἐμοῦ ἕνεκα ταῖς σειραῖς τοῖς σχοινίοις ὁ Δηίφοβος ὦ Ἑκάβη τῆς Ἑλένης ἐμελέτας τῇ σωφροσύνῃ πρὸς αὐτὴν ἀποτείνεται ὡς ἂν καὶ κοσμηθεῖσαν ἐρειπίοις τοῖς ῥάκεσι μεταφορικῶς ἀπὸ τῶν κατερηριμμένων οἴκων πρὸς τὰς ψυχὰς τῶν ἐρώντων τῶν πεμμάτων τῶν πλακούντων ἐν γὰρ τῇ Ἴδῃ ἐτιμᾶτο ὁ Ζεὺς πολλῇ ὑφ’ ἧς οἱ ποταμοὶ πληροῦνται ἀντὶ τοῦ· αἱ περὶ ὀψίαν τοῖς θεοῖς παννυχίδες μέλει μοι εἰ φρονεῖς τῆς πόλεως καταλυομένης ἐν τοῖς νεκροῖς διατρίβεις ἄλουστος· λούουσι γὰρ τοὺς νεκροὺς οἱ νομίμως θάπτοντες οὕτως καλεῖται τὸ κατὰ Πελοπόννησον Ἄργος κατήορα λείπει ἡ εἰς· εἰς Σαλαμῖνα διὰ τὸ εἰς δύο θαλάσσας τὸν Ἰσθμὸν διῃρῆσθαι διῄρηται γάρ ἡ Πελοπόννησος εἶδος πλοίου δουλεῦσαι μέλλουσαν Ἑλλάδι πόλις Λακεδαιμονίων ἡ Πιτάνη ἀντὶ τοῦ Τρωσίν τὸ ἑξῆς· ἰὼ συντυχίαι ἐπιχέοντες τὴν ναῦν ἀπήλλαξά σε μόχθου διὰ τὸ λελουκέναι αὐτόν ὅστις μὴ μετὰ λογισμοῦ φοβεῖται φύλακες γάρ εἰσι καὶ οἱ φρουροῦντες ἀνεπιλήστων τὰς ὁρμὰς τῶν χειρῶν οὐδέν ἁπτούσας οὐκέτι γὰρ ὀνομασθήσῃ μαίνῃ ὑπὸ τῶν κακῶν ὦ Ζεῦ φύλαξ ὡς ἄπολις ὄλωλεν τὰ στέγη ἀνήκοος εἶ τῆς ἐμῆς ἄτης τὸ δὲ ὄνομα τῆς πόλεως ἄλλο ἀλλαχοῦ φροῦδον πορευθήσεται κίνησις ἐπισείσει τρόμῳ φέρεται τὸ ἐμὸν ἴχνος τὰς ναῦς",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "cto-af",
+      "title": {
+        "english": "Glosses on Euripides' Rhesus (Long)",
+        "ancient_greek": "Γλῶσσαι εἰς Εὐριπίδου Ῥῆσον"
+      },
+      "url_slug": "xenophon-scholia-rhesus-glosses-af-cto-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-scholia/rhesus-glosses-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-rhesus-glosses-af-cto-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-rhesus-glosses-af-cto-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-rhesus-glosses-af-cto-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-rhesus-glosses-af-cto-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/rhesus-glosses-af.epub"
+      }
+    },
+    {
+      "eul_wid": "cto-ag",
+      "title": {
+        "english": "Glosses on Euripides' Rhesus (Short)",
+        "ancient_greek": "Γλῶσσαι εἰς Εὐριπίδου Ῥῆσον"
+      },
+      "url_slug": "xenophon-scholia-rhesus-glosses-ag-cto-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-scholia/rhesus-glosses-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-rhesus-glosses-ag-cto-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-rhesus-glosses-ag-cto-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-rhesus-glosses-ag-cto-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-rhesus-glosses-ag-cto-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/rhesus-glosses-ag.epub"
+      }
+    },
+    {
+      "eul_wid": "cto-al",
+      "title": {
+        "english": "Lives of Euripides",
+        "ancient_greek": "Βίοι Εὐριπίδου"
+      },
+      "url_slug": "xenophon-scholia-euripides-al-cto-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-scholia/euripides-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-euripides-al-cto-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-euripides-al-cto-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-euripides-al-cto-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-euripides-al-cto-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/euripides-al.epub"
+      }
+    },
+    {
+      "eul_wid": "cto-aj",
+      "title": {
+        "english": "Scholia on Euripides",
+        "ancient_greek": "Σχόλια εἰς Εὐριπίδην"
+      },
+      "url_slug": "xenophon-scholia-euripides-aj-cto-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-scholia/euripides-aj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-euripides-aj-cto-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-euripides-aj-cto-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-euripides-aj-cto-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-euripides-aj-cto-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/euripides-aj.epub"
+      }
+    },
+    {
+      "eul_wid": "cto-ak",
+      "title": {
+        "english": "Scholia on Euripides (Glosses)",
+        "ancient_greek": "Σχόλια εἰς Εὐριπίδην"
+      },
+      "url_slug": "xenophon-scholia-euripides-ak-cto-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-scholia/euripides-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-euripides-ak-cto-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-euripides-ak-cto-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-euripides-ak-cto-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-euripides-ak-cto-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/euripides-ak.epub"
+      }
+    },
+    {
+      "eul_wid": "cto-ah",
+      "title": {
+        "english": "Scholia-Euripides' Hecuba",
+        "ancient_greek": "Σχόλια εἰς Εὐριπίδου Ἑκάβην"
+      },
+      "url_slug": "xenophon-scholia-hecuba-cto-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-scholia/hecuba",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-hecuba-cto-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-hecuba-cto-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-hecuba-cto-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-hecuba-cto-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/hecuba.epub"
+      }
+    },
+    {
+      "eul_wid": "cto-ab",
+      "title": {
+        "english": "Scholia-Euripides' Hippolytus",
+        "ancient_greek": "Σχόλια εἰς Εὐριπίδου Ἱππόλυτον"
+      },
+      "url_slug": "xenophon-scholia-hippolytus-cto-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-scholia/hippolytus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-hippolytus-cto-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-hippolytus-cto-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-hippolytus-cto-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-hippolytus-cto-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/hippolytus.epub"
+      }
+    },
+    {
+      "eul_wid": "cto-ae",
+      "title": {
+        "english": "Scholia-Euripides' Orestes",
+        "ancient_greek": "Σχόλια εἰς Εὐριπίδου Ὀρέστην"
+      },
+      "url_slug": "xenophon-scholia-orestes-cto-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-scholia/orestes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-orestes-cto-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-orestes-cto-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-orestes-cto-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-orestes-cto-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/orestes.epub"
+      }
+    },
+    {
+      "eul_wid": "cto-ac",
+      "title": {
+        "english": "Scholia-Euripides' Phoenissae",
+        "ancient_greek": "Σχόλια εἰς Εὐριπίδου Φοίνισσας"
+      },
+      "url_slug": "xenophon-scholia-phoenissae-cto-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-scholia/phoenissae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-phoenissae-cto-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-phoenissae-cto-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-phoenissae-cto-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-phoenissae-cto-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/phoenissae.epub"
+      }
+    },
+    {
+      "eul_wid": "cto-ai",
+      "title": {
+        "english": "Scholia-Euripides' Rhesus",
+        "ancient_greek": "Σχόλια εἰς Εὐριπίδου Ῥῆσον"
+      },
+      "url_slug": "xenophon-scholia-rhesus-cto-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-scholia/rhesus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-rhesus-cto-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-rhesus-cto-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-rhesus-cto-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-rhesus-cto-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/rhesus.epub"
+      }
+    },
+    {
+      "eul_wid": "cto-aa",
+      "title": {
+        "english": "Scholia-Euripides' Trojan Women",
+        "ancient_greek": "Σχόλια εἰς Εὐριπίδου Τρωάδας"
+      },
+      "url_slug": "xenophon-scholia-trojan-women-cto-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-scholia/trojan-women",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-trojan-women-cto-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-trojan-women-cto-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-trojan-women-cto-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-trojan-women-cto-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/trojan-women.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "mlw-ap",
+      "title": {
+        "english": "Aldine Scholia on Clouds",
+        "ancient_greek": "Σχόλια εἰς Νεφέλας"
+      },
+      "url_slug": "aristophanes-scholia-clouds-ap-mlw-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/clouds-ap",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-ap-mlw-ap.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-ap-mlw-ap.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-ap-mlw-ap.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-ap-mlw-ap.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/clouds-ap.epub"
+      }
+    },
+    {
+      "eul_wid": "kau-ac",
+      "title": {
+        "english": "Fragments on the Trojan War",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Τρωικοῦ Πολέμου"
+      },
+      "url_slug": "dionysius-of-mytilene-trojan-war-fragments-kau-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-mytilene/trojan-war-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-mytilene-trojan-war-fragments-kau-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-mytilene-trojan-war-fragments-kau-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-mytilene-trojan-war-fragments-kau-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-mytilene-trojan-war-fragments-kau-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-mytilene/trojan-war-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "vdq-af",
+      "title": {
+        "english": "On Dialects",
+        "ancient_greek": "Περὶ Διαλέκτων"
+      },
+      "url_slug": "theodosius-of-alexandria-dialects-vdq-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/theodosius-of-alexandria/dialects",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-dialects-vdq-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-dialects-vdq-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-dialects-vdq-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-dialects-vdq-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/dialects.epub"
+      }
+    },
+    {
+      "eul_wid": "oqa-ad",
+      "title": {
+        "english": "On Poems",
+        "ancient_greek": "Περὶ ποιημάτων"
+      },
+      "url_slug": "hephaestion-of-alexandria-on-poems-oqa-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/hephaestion-of-alexandria/on-poems",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria-on-poems-oqa-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria-on-poems-oqa-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria-on-poems-oqa-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria-on-poems-oqa-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/on-poems.epub"
+      }
+    },
+    {
+      "eul_wid": "qnq-an",
+      "title": {
+        "english": "On the Expression of Verses",
+        "ancient_greek": "Περὶ λέξεως τῶν στίχων"
+      },
+      "url_slug": "herodian-of-alexandria-expression-verses-qnq-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/expression-verses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-expression-verses-qnq-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-expression-verses-qnq-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-expression-verses-qnq-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-expression-verses-qnq-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/expression-verses.epub"
+      }
+    },
+    {
+      "eul_wid": "qnq-bj",
+      "title": {
+        "english": "On the Living",
+        "ancient_greek": "Περὶ τοῦ ζώς"
+      },
+      "url_slug": "herodian-of-alexandria-living-qnq-bj",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/living",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-living-qnq-bj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-living-qnq-bj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-living-qnq-bj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-living-qnq-bj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/living.epub"
+      }
+    },
+    {
+      "eul_wid": "qnq-aq",
+      "title": {
+        "english": "On the Odyssean Prosody",
+        "ancient_greek": "Περὶ Ὀδυσσειακῆς προσῳδίας"
+      },
+      "url_slug": "herodian-of-alexandria-odyssean-prosody-qnq-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/odyssean-prosody",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-odyssean-prosody-qnq-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-odyssean-prosody-qnq-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-odyssean-prosody-qnq-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-odyssean-prosody-qnq-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/odyssean-prosody.epub"
+      }
+    },
+    {
+      "eul_wid": "ppu-ad",
+      "title": {
+        "english": "Scholia-Pythian Odes V–VII",
+        "ancient_greek": "Σχόλια εἰς Πυθιακὰ ᾨδὰς Ε'-Ζ'"
+      },
+      "url_slug": "pindar-scholia-scholia-pythian-odes-ppu-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/pindar-scholia/scholia-pythian-odes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-pythian-odes-ppu-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-pythian-odes-ppu-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-pythian-odes-ppu-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-pythian-odes-ppu-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia/scholia-pythian-odes.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/xenophon-scholia/troades",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-troades-cto-ad.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-troades-cto-ad.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-troades-cto-ad.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-troades-cto-ad.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/troades.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

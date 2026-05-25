@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "bea",
+  "auth_slug": "demodocus-of-leros",
+  "name": {
+    "english": "Demodocus of Leros",
+    "ancient_greek": "Δημόδοκος ὁ Λέριος"
+  },
+  "seo_h1": "Demodocus of Leros and the Satirical Epigram",
+  "seo": {
+    "browser_title": "Demodocus of Leros Ancient Poet on Eulogikon Greek Archive",
+    "meta_title": "Classical Demodocus of Leros Ancient Greek Elegiac Poetry",
+    "meta_description": "Demodocus of Leros, 6th century BCE Ionic elegiac poet. Two surviving poetic fragments from the Archaic period. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνικὴ Ἐλεγειακή",
+      "english": "Ionic Elegiac",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Demodocus of Leros was a Greek iambic and elegiac poet from the island of Leros, traditionally dated to the 6th century BCE. He is mentioned by the biographer Diogenes Laertius and recorded as an iambic poet in the Suda, a 10th-century Byzantine encyclopedia. His placement links him to the Archaic iambic tradition of poets like Archilochus.</p>\n<p class=\"research-text\">Two works are attributed to him from surviving fragments. <strong>Against the Lacedaemonians</strong> is a political poem, a few lines of which are cited by the orator Aeschines. He is also noted for composing fables in iambic verse; a two-line fragment is preserved in the Palatine Anthology.</p>\n<p class=\"research-text\">Demodocus represents a minor but attested figure in the early iambic tradition, indicating the geographical spread of the genre. His fragments show engagement with both political themes and the popular genre of fable, adapted into poetic meter.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "bea-ab",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "demodocus-of-leros-epigrams-bea-ab",
+      "passages": 12,
+      "links": {
+        "html": "https://eulogikon.org/grc/demodocus-of-leros/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demodocus-of-leros-epigrams-bea-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demodocus-of-leros-epigrams-bea-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demodocus-of-leros-epigrams-bea-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demodocus-of-leros-epigrams-bea-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demodocus-of-leros/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "bea-aa",
+      "title": {
+        "english": "Satirical Epigrams on Peoples",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "demodocus-of-leros-satirical-epigrams-bea-aa",
+      "passages": 12,
+      "links": {
+        "html": "https://eulogikon.org/grc/demodocus-of-leros/satirical-epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demodocus-of-leros-satirical-epigrams-bea-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demodocus-of-leros-satirical-epigrams-bea-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demodocus-of-leros-satirical-epigrams-bea-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demodocus-of-leros-satirical-epigrams-bea-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demodocus-of-leros/satirical-epigrams.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/demodocus-of-leros",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demodocus-of-leros-bea.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demodocus-of-leros-bea.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demodocus-of-leros-bea.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demodocus-of-leros-bea.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

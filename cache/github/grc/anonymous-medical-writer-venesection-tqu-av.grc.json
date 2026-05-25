@@ -1,0 +1,454 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "tqu-av",
+  "eul_aid": "tqu",
+  "author_slug": "anonymous-medical-writer",
+  "work_slug": "venesection",
+  "url_slug": "anonymous-medical-writer-venesection-tqu-av",
+  "author": {
+    "english": "Medical Writer  Anonymous",
+    "ancient_greek": "Ἀνώνυμος ἰατρικός συγγραφεύς (ψευδο-Γαληνός)"
+  },
+  "title": {
+    "english": "On Venesection",
+    "ancient_greek": "Περὶ Φλεβοτομίας"
+  },
+  "seo": {
+    "browser_title": "On Venesection by Medical Writer Anonymous on Eulogikon",
+    "meta_title": "On Venesection in Ancient Greek by Anonymous Medical Writer",
+    "meta_description": "This late antique medical treatise examines the therapeutic practice of venesection, offering diagnostic criteria Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">On Venesection is a concise, anonymous medical treatise preserved within the Hippocratic corpus. This practical instructional manual focuses on the procedure of therapeutic bloodletting, offering guidance across ten brief passages. The text details the technical execution of phlebotomy, including the optimal timing for the procedure—such as during the remission of a fever&#x27;s paroxysm or, in non-febrile cases like severe eye inflammation, when pain begins to subside. It advises on patient preparation, recommending morning procedures after a period of wakefulness, sometimes preceded by bathing or walking. Crucially, the work grounds the practice within the framework of classical humoral theory, instructing the physician to assess the patient&#x27;s natural constitution and strength to determine the appropriate quantity of blood to be removed. It recommends a more vigorous evacuation for those with dark veins and a lean, but not overly pale or soft, physique, while advocating caution for patients of the opposite constitution. Transmitted through the medieval manuscripts that carried the larger Hippocratic collection, this technical manual exemplifies the perpetuation of specific surgical knowledge within the Hippocratic-Galenic tradition, contributing to the enduring practice of bloodletting in Western medicine from antiquity through the Renaissance.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "19 519 (t)",
+      "text": "ΓΑΛΗΝΟΥ ΠΕΡΙ ΦΛΕΒΟΤΟΜΙΑΣ. Ἐν πάσῃ ἡμέρᾳ καὶ νυκτὸς ὥρᾳ χρείας κατεπειγούσης φλεβοτομήσεις σκοπὸν ἔχων ἐπὶ μὲν τῶν πυρεττόντων τὴν παρακμὴν τοῦ παροξυσμοῦ, ἐπὶ δὲ τῶν εἴτε δι’ ὀφθαλμίαν ἢ δι’ ἄλλο τι τοιοῦτον χωρὶς πυρετοῦ δεομένων φλεβοτομίας, τὸ μέγεθος σκόπει τῆς ὀδύνης ἢ τῆς φλεγμονῆς. ἐν ᾗ γὰρ ἂν ὥρᾳ θεάσῃ τὴν ὀδύνην πραϋνομένην φλεβοτομήσεις. μηδενὸς τοιούτου κατεπείγοντος, ἄμεινόν ἐστιν ἕωθεν φλεβοτομεῖν· οὐκ εὐθέως ἅμα τῷ τὸν ὕπνον ἐξαναστῆναι, ἀλλὰ προεγρηγορήσαντες χρόνῳ ὥρας μιᾶς. καὶ προλούειν δέ τινας ἄμεινον καὶ προπεριπατήσαντας ἐνίους. ἐφ’ ὧν δὲ προφυλακῆς χάριν φλεβοτομοῦμεν, ἐγχωρεῖ καὶ μετὰ τὸ πρᾶξαί τινα τῶν συνήθων ἔργων φλεβοτομεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19 520",
+      "text": "μέγεθος δὲ νοσήματος καὶ ῥώμη δυνάμεως οἱ πρῶτοι σκοποὶ τῆς φλεβοτομίας. ἐπισκέπτεσθαι οὖν χρὴ ἐφεξῆς ὁποία τις ἡ φυσικὴ κρᾶσίς ἐστι τοῦ ἀνθρώπου. καὶ τοὺς μὲν μελαίνας ἔχοντας φλέβας καὶ ἰσχνοὺς μετρίως καὶ μηδὲ λευκοὺς μηδὲ ἁπαλοσάρκους ἀφειδέστερον κενώσεις· τοὺς δ’ ἐναντίως φειδομένως· αἷμα μὲν ὀλίγον ἔχουσιν, εὐδιαφόρητόν τε τὴν σάρκα. κατὰ τοῦτον οὖν τὸν λόγον οὐδὲ τοὺς παῖδας φλεβοτομήσεις, ἄχρι τεσσαρεσκαιδεκαετοῦς ἡλικίας ἐν δὲ ταῖς μεγίσταις φλεγμοναῖς καὶ ταῖς ἰσχυροτάταις ὀδύναις, οὐδὲν οἶδα μεῖζον βοήθημα τοῦ ἄχρι λειποθυμίας ἐκκενῶσαι προσέχειν μέντοι καλῶς ἐν τῇ καθάρσει τοῦ σφυγμοῦ ἐφαπτόμενον αὐτὸν ἔτι ῥέοντος τοῦ αἵματος. ὥσπερ καὶ ἐπὶ τῶν ἄλλων τῶν φλεβοτομουμένων· εἶθ’ ἃ πράττειν ὅπως μήποτε λάθῃς ἀντὶ λειποθυμίας θάνατον ἐργασάμενος, ἐὰν δὲ ὥρα ἐαρινὴ καὶ τὸ χωρίον εὔκρατον φύσει καὶ ἡ τοῦ παιδὸς φύσις εὔαρμος, ἀφαιρήσεις αἷμα· καὶ μᾶλλον ὅπου οἱ κίνδυνοι ἐφεδρεύοιεν περιπνευμονίης ἢ συνάγχης ἢ πλευρίτιδος, ἤ τινος ἄλλου ὀξέος καὶ σφοδροῦ νοσήματος φλεβοτομεῖν, ὡς εἴρηται, σφυγμοῦ παρόντος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19 521",
+      "text": "πᾶν γὰρ τὸ πληγὲν μέρος οὐ προσέξεις τῷ ἀριθμῷ μόνῳ τῶν ἐτῶν, ἀλλὰ τῇ τοῦ σώματος ἕξει. χρὴ δὲ ἐπὶ τῶν ψυχρῶν ὡρῶν εὐλαβεῖσθαι κένωσιν δαψιλῆ, διὰ τὴν ἑπομένην κατάψυξιν. οὐχ οἷόν τε διὰ γραφῆς ἑκάστῳ τῶν ἀνθρώπων ἀφορίσαι κενώσεως μέτρον, οἶδα γὰρ ἐπ’ ἐνίων αὐτάρκως ἀφελὼν ἓξ λίτρας αἵματος, τὸν πυρετὸν αὐτίκα σβεσθῆναί τε καὶ μηδεμίαν ἀκολουθῆσαι τῆς δυνάμεως κένωσιν· ἐπ’ ἐνίων δὲ ἡμίσειαν ἄνευ τοῦ παραβλάψαι, ἐφ’ ὧν εἰ δύο τις ἐκένωσεν, ἐσχάτως ἂν ἔβλαψε. καὶ τοῦτο οὖν οἶδα καὶ μίαν ἀφῄρηκεν, ἐνίοτέ ἐστιν ὠφελῆσαι καὶ αὐτῆς ἔλαττον, ἀντισπάσεως ἕνεκα. τὰς γὰρ κατ’ εὐθεῖαν τῶν πασχόντων φλέβας τέμνων, ἐν τάχει θεάσῃ σαφῆ τὴν ὠφέλειαν. εἰ δέ τις κατὰ τὸν παράμεσον δάκτυλον φλέβα διαιρῶν, ἔνιοι δὲ τὴν μεταξὺ τοῦ τε μέσου καὶ παραμέσου δακτύλου φλέβα καὶ συγχωρήσαντες ῥεῖν τῷ αἵματι μέχρι περ ἂν αὐτομάτως στῇ, τὸν σπλῆνα ὠφελεῖσθαι, ὡς καὶ τὴν ἐν ἀγκῶνι φλέβα τέμνειν τὴν ἔνδον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19 522",
+      "text": "ὠφελεῖ γὰρ ἱκανῶς σπλῆνα κακοπραγοῦντα κένωσις αἵματος, ἐξ ἀριστερᾶς χειρός· καὶ μέντοι κἀπὶ τῶν πλευριτικῶν ἡ κατ’ εὐθὺ τοῦ πάσχοντος φλεβοτομία τὴν ὠφέλειαν ἐναργεστάτην ἐπεδείξατο πολλάκις· ἡ δὲ ἐκ τῆς ἀντικειμένης χειρὸς ἢ πάντως ἀμυδρὰν ἢ μεταχρόνιον. ὀδύνας δὲ ἰσχυροτάτας ὀφθαλμῶν, εἴτε ὠμιαία καλουμένη φλὲψ ἢ ἡ ἀπ’ αὐτῆς ἀποσχιζομένη κατ’ ἀγκῶνα τμηθεῖσα. ἐπὶ δὲ πλευρᾶς πεπονθυίας ἢ πνεύμονος ἢ διαφράγματος ἢ σπληνὸς ἢ ἥπατός τε καὶ γαστρὸς τὴν διὰ μασχάλης ἐπὶ τὴν κατ’ ἀγκῶνα διάρθρωσιν ἀφικνουμένην. τέμνειν μὲν δεῖ μάλιστα ἀποσχιζομένην εἰς τὴν καμπὴν τῆς διαρθρώσεως, ἣν ἴστε δήπου τῆς ὠμιαίας φλεβὸς ἀποσχιζομένης συναπιοῦσαν. τρεῖς γὰρ οὗτοι τρόποι τῆς κατ’ ἀγκῶνα φλεβοτομίας εἰσὶν, ἥ τε ἔξω καὶ ἡ ἔσω καὶ ἡ μέση· ἡ μὲν οὖν ἔνδον ἐπὶ τῶν κάτω τοῦ τραχήλου πεπονθότων ὠφέλιμος, ἡ δ’ ἐκτὸς ἢ κατὰ τὸ πρόσωπον ἢ κατὰ τὴν κεφαλήν· ὁ δὲ μέσος τόπος ἐνίοτε μὲν ἀμφοτέρας ἔχει τὰς ἀποσχιζομένας φλέβας κατὰ τὸ πρόσω τῆς χειρὸς ἐκτεινομένας, εἶτα ἐνταῦθα συναπτομένας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19 523",
+      "text": "ἐνίοτε δὲ διὰ τάχεος εἰς αὐτὰς ἀλλήλαις οὔσας ἐπὶ τὴν καμπὴν τῆς διαρθρώσεως. ὅταν οὖν ἀφανεστέρας οὔσης τῆς οἰκείας τῷ πάσχοντι μορίῳ φλεβὸς, ἐπί τινα τῶν μέσων ἥκειν νίκην πυρῶν τὴν ἀποσχιζομένην τῆς οἰκείας τέμνειν μᾶλλον. ἔστι δ’ ὅτε καὶ τῆς κατωτέρω τῆς κατ’ ἀγκῶνα διαρθρώσεως, αἱ κατὰ τὸν πῆχύν εἰσιν, ἃς διαιρεῖν οὐδὲν κωλύει μὴ φαινομένων τῶν κατ’ ἀγκῶνα. ὥσπερ δὲ τὰ εἰρημένα πάντα μόρια ταῖς κατ’ ἀγκῶνα φλεβοτομίαις ὠφελεῖται, οὕτω καὶ κατωτέρω τούτων ἐστὶν ὅσαι ταῖς ἐπιγύναις τε καὶ σφυρά. ἔστι δὲ τῶν εἰρημένων τά τε κατ’ ἰσχίον καὶ κύστιν καὶ μήτραν καὶ νεφροὺς ἐπαμφοτερίζεται. διὸ καὶ ταῖς ἀπ’ ἀγκῶνος ἐνίοτε φλεβοτομίαις ὑπακούουσιν, ὅταν ἡ φλεγμονὴ πρόσφατος ᾖ καὶ πλῆθος αἵματος. ἢν δὲ ἡ διάθεσίς ἐστιν ἣν ἰδίως καλοῦμεν νεφρῖτιν, τὴν κατ’ ἰγνὺν χρὴ τέμνειν καὶ τὰς κατὰ τὰ σφυρὰ φλέβας. αἱ δὲ ἐν ταῖς μήτραις φλεγμοναὶ τῶν ἐν ταῖς σκέλεσι φλεβῶν τεμνομένων, ὄφελος οὐ μικρόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19 524",
+      "text": "ταῖς γὰρ ἀπ’ ἀγκώνων κενώσεσι καὶ ἄλλο τι πρόσεστι μοχθηρὸν καὶ φυλακτέον ψῦχος καὶ τροφὴν σύμμετρον διδόναι ἐπὶ τρεῖς ἢ τέσσαρας ἡμέρας. λοιμοῦ δέ ποτε κατασχόντος ἰσχυροῦ τὴν Ἀσίαν, ὑφ’ οὗ πολλοὶ διεφθάρησαν, ὅθεν κᾀγὼ τῇ νόσῳ κατὰ τὴν δευτέραν ἡμέραν, ἀνέσεως μὴ γενομένης κατακνήσας τὸ σκέλος διὰ δυοῖν λιτρῶν κένωσιν ἔασα γενέσθαι καὶ διὰ τοῦτο τὸν κίνδυνον ἀπέφυγον. πολλοὶ δ’ ἄλλοι χρησάμενοι τῷ βοηθήματι διεσώθησαν καὶ μάλιστα οἳ δαψιλῶς τὸ αἷμα ἐκκένουν. ἔτι δὲ κεφαλαλγίας συμμέτρους ἀναιρεῖ καὶ παρισθμίων φλεγμονάς. τὰ δὲ χρονιώτερα τῶν τοιούτων συμπτωμάτων ταῖς τομαῖς καὶ ἐγχαράξεσι διαλυόμενα. καὶ δὴ καὶ τοὺς ἐκ νόσων δυσχερῶς εἰς τὴν κατὰ φύσιν ἕξιν ἑαυτοὺς ἀφικνουμένους, οὐδὲν οὕτως ἐπὶ τὴν προσήκουσαν εὐστροφίαν ἄγει, ὡς ἡ δι’ ἐγχαράξεις ἀποκένωσις τοῦ αἵματος. ἐν τῷ μεταξὺ δὲ τοῦ λιχάνου καὶ μεγάλου δακτύλου τμηθεῖσα φλὲψ καὶ ῥεύσας μέχρις ἂν αὐτομάτως παύσηται, χρόνιον ἄλγημα καὶ μᾶλλον εἰ κατ’ ἐκεῖνο τὸ μέρος ἔρειδον ἰάσαιτο. τῶν δὲ καθαιρομένων καὶ πλείω τοῦ μέτρου κενούντων καὶ ψυχόντων καὶ ἐκλυομένων καὶ σπωμένων καταπαύειν τὴν κάθαρσιν χρὴ καὶ ὕδωρ χλιαρὸν διδόντες, ἐμεῖν προτρέπομεν· ἄμεινον δὲ χρῖσαι θερμῷ ἐλαίῳ χεῖρας καὶ πόδας· ἵστησι δὲ οὐδενὸς ἧττον καὶ ὕπνου καὶ λουτροῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19 525",
+      "text": "τῶν δὲ μὴ ἱκανῶς καθαρθέντων αἱ ἀλουσίαι συμφερώτεραι, ἐπικαθαίρονται γὰρ νύκτωρ· ἐνδεέστερον δὲ τούτους χρὴ διαιτᾶν· τῶν δὲ ἀσφαλῶς καθαρθέντων, ὠά τε καὶ χόνδρον καὶ ῥοφήματα καὶ οἶνον γλυκὺν, ὡς παρακινεῖν τὸ ἔντερον ἐν τῇ καθάρσει διὰ ξεσμόν· ἁρμόξει δὲ καὶ τῇ ὑστεραίᾳ γάλα πίνειν μετὰ νάματος θυγατέρων ταύρων ἢ γλυκέος, οὕτω γὰρ τὰς ἐπιῤῥεούσας συντήξεις κατακλύζων ἀποδείξῃ παντελῶς τὴν κάθαρσιν. ΠΑΥΛΟ Υ . Περὶ τῆς ἐν τῇ φλεβοτομίᾳ ἐπισκέψεως. Ἐπισκέπτεσθαι δὲ χρὴ τὸν μέλλοντα φλεβοτομεῖν, μὴ κόπρου πολύ τις ἐπίσχεσις ἐν τοῖς ἐντέροις ἐστί. κενοῦμεν αὐτὴν διὰ μαλακοῦ κλύσματος, ἵνα μὴ αἱ φλέβες ἀπὸ τῶν ἐντέρων ἕλξωσί τινα σηπεδονώδη τῶν περιττωμάτων οὐσίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19 526",
+      "text": "τοὺς μὲν οὖν διὰ νούσου παρούσης χρῄζοντας τῆς αἵματος ἀφαιρέσεως ἐν ἅπαντι καιρῷ φλεβοτομήσομεν, τὴν ἀκμὴν καὶ μόνην ἐν πυρετοῖς, τὸν μερικὸν φυλαττόμενοι παροξυσμόν. εἰ δὲ συνεχὴς πυρετὸς εἴη, πάντως ἑωθινὸς καιρός ἐστιν ἐπιτηδειότερος, ὅσοι δὲ μὴ νόσου παρούσης, ἀλλὰ προφυλακῆς ἕνεκα τὴν τοῦ αἵματος ἐπιζητοῦσι κένωσιν, τούτοις τὸ ἔαρ ἐπιτήδειον. ἐν δὲ ταῖς ἡλικίαις ἄχρι τεσσαρεσκαίδεκα ἐτῶν ἡ κένωσις παραιτητέα. ὥσπερ αὖ καὶ μετὰ τῶν ἑξήκοντα ἐνιαυτῶν, εἰ μή τις ἀπαραίτητος ἀνάγκη ἡμᾶς βιάζοιτο καὶ καθόλου τοὺς ἀσθενεστέρως ἔχοντας, τὴν δύναμιν παραφυλακτέον καὶ τὰς ὑπὸ τῇ γλώσσῃ δὲ φλέβας, ὡς ἐπὶ συναγχικοῦ πάθους, ἐγκαρσίως ἐκτέμνομεν φυλαττόμενοι τὴν σφίγξιν. τινὲς δὲ καὶ τὰς ἐν τοῖς μεγάλοις κανθοῖς διαφανεῖς φλέβας, ὡς ἐπὶ τῶν ἐν τῇ κεφαλῇ ἢ τοῖς ὀφθαλμοῖς χρονίων νοσημάτων ὁμοιοτρόπως διαιροῦσιν. ἐν δὲ τῷ ποδὶ καθάπερ ἐπὶ ἰσχιαδικῶν ἢ κατὰ τὴν ὑστέραν τῇ ἀνωτέρω τοῦ ἔνδοθεν ἀστραγάλου τέμνουσιν ἐς ὠφέλειαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19 527",
+      "text": "ΕΞ ΙΠΠΟΚΡΑΤΟΥ Σ . Τὰ δὲ ὀξέα πάθη φλεβοτομήσεις, ἢν ἰσχυρὸν φαίνηται τὸ νόσημα καὶ οἱ ἄγοντες τὴν ἀκμάζουσαν ἡλικίαν καὶ ῥώμη παρῇ αὐτέοισιν. ἢν μὲν οὖν σύναγχος ᾖ, ἐκλεκτῷ ἀνακάθαιρε εἴτ’ ἄλλο τι τῶν πλευριτικῶν. ἢν δὲ ἀσθενέστεροι φαίνωνται, ἢν καὶ πλέον τοῦ αἵματος ἀφέλοις κλυσμῷ κατὰ τὴν κοιλίαν χρέεσθαι διὰ τρίτης ἡμέρας, ἕως ἐν ἀσφαλείῃ γένηται ὁ νοσέων καὶ λιμοῦ χρῄζοι. φλεβοτομέειν οὖν τὸν βραχίονα χρὴ τὸν δεξιὸν τὴν ἔσω φλέβα· καὶ ἀφαιρέειν τοῦ αἵματος κατὰ τὴν ἕξιν καὶ τὴν ἡλικίην διαλογιζόμενος τὸ πλέον καὶ τὸ ἔλασσον. ξυμπίπτει δὲ τοῖσι πλείστοισιν αὐτῶν τοιάδε. ἐρυθήματα προσώπου καὶ ὀμμάτων στάσιες καὶ διαστάσιες χειρῶν, πρισμοὶ ὀδόντων, σφυγμοὶ, σιαγόνων συναγωγὴ καὶ κατάψυξις ἀκρωτηρίων, πνευμάτων ἀπολήψιες ἀνὰ τὰς φλέβας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19 528",
+      "text": "φλεβοτομέειν ἐν ἀρχῇσιν εὐθέως, μετεώρων ἐόντων πάντων τῶν λυπεόντων πνευμάτων καὶ ῥευμάτων, εὐβοηθητότερον γάρ ἐστι.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "tqu-aq",
+      "title": {
+        "english": "A Compendium-Urine",
+        "ancient_greek": "Σύνοψις Περὶ Οὖρων"
+      },
+      "url_slug": "anonymous-medical-writer-compendium-urine-tqu-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/compendium-urine",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-compendium-urine-tqu-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-compendium-urine-tqu-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-compendium-urine-tqu-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-compendium-urine-tqu-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/compendium-urine.epub"
+      }
+    },
+    {
+      "eul_wid": "tqu-af",
+      "title": {
+        "english": "Entirely True and Experienced Prediction",
+        "ancient_greek": "Παντελῶς Ἀληθὴς καὶ Ἐμπειρικὴ Προγνώσις"
+      },
+      "url_slug": "anonymous-medical-writer-true-prediction-tqu-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/true-prediction",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-true-prediction-tqu-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-true-prediction-tqu-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-true-prediction-tqu-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-true-prediction-tqu-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/true-prediction.epub"
+      }
+    },
+    {
+      "eul_wid": "tqu-al",
+      "title": {
+        "english": "Introduction or Physician",
+        "ancient_greek": "Εἰσαγωγὴ ἢ Ἰατρός"
+      },
+      "url_slug": "anonymous-medical-writer-introduction-tqu-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/introduction",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-introduction-tqu-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-introduction-tqu-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-introduction-tqu-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-introduction-tqu-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/introduction.epub"
+      }
+    },
+    {
+      "eul_wid": "tqu-ar",
+      "title": {
+        "english": "Medical Definitions",
+        "ancient_greek": "Ἰατρικαὶ Ὁρισμοί"
+      },
+      "url_slug": "anonymous-medical-writer-definitions-tqu-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/definitions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-definitions-tqu-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-definitions-tqu-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-definitions-tqu-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-definitions-tqu-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/definitions.epub"
+      }
+    },
+    {
+      "eul_wid": "tqu-aw",
+      "title": {
+        "english": "On Bandages",
+        "ancient_greek": "Περὶ Ἐπιδέσμων"
+      },
+      "url_slug": "anonymous-medical-writer-bandages-tqu-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/bandages",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-bandages-tqu-aw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-bandages-tqu-aw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-bandages-tqu-aw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-bandages-tqu-aw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/bandages.epub"
+      }
+    },
+    {
+      "eul_wid": "tqu-ae",
+      "title": {
+        "english": "On Diet in Acute Diseases According to Hippocrates",
+        "ancient_greek": "Περὶ Διαιτῆς ἐν Ὀξέσι Κατὰ Ἱπποκράτην"
+      },
+      "url_slug": "anonymous-medical-writer-acute-diseases-diet-tqu-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/acute-diseases-diet",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-acute-diseases-diet-tqu-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-acute-diseases-diet-tqu-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-acute-diseases-diet-tqu-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-acute-diseases-diet-tqu-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/acute-diseases-diet.epub"
+      }
+    },
+    {
+      "eul_wid": "tqu-ax",
+      "title": {
+        "english": "On Humors",
+        "ancient_greek": "Περὶ Χυμῶν"
+      },
+      "url_slug": "anonymous-medical-writer-humors-tqu-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/humors",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-humors-tqu-ax.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-humors-tqu-ax.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-humors-tqu-ax.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-humors-tqu-ax.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/humors.epub"
+      }
+    },
+    {
+      "eul_wid": "tqu-ao",
+      "title": {
+        "english": "On Obtainable Remedies",
+        "ancient_greek": "Περὶ Παρασκευαστῶν Θεραπευμάτων"
+      },
+      "url_slug": "anonymous-medical-writer-remedies-tqu-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/remedies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-remedies-tqu-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-remedies-tqu-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-remedies-tqu-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-remedies-tqu-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/remedies.epub"
+      }
+    },
+    {
+      "eul_wid": "tqu-ap",
+      "title": {
+        "english": "On Parts of Philosophy",
+        "ancient_greek": "Περὶ Μερῶν Φιλοσοφίας"
+      },
+      "url_slug": "anonymous-medical-writer-parts-philosophy-tqu-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/parts-philosophy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-parts-philosophy-tqu-ap.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-parts-philosophy-tqu-ap.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-parts-philosophy-tqu-ap.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-parts-philosophy-tqu-ap.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/parts-philosophy.epub"
+      }
+    },
+    {
+      "eul_wid": "tqu-am",
+      "title": {
+        "english": "On Philosophical History",
+        "ancient_greek": "Περὶ Φιλοσοφικῆς Ἱστορίας"
+      },
+      "url_slug": "anonymous-medical-writer-philosophical-history-tqu-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/philosophical-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-philosophical-history-tqu-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-philosophical-history-tqu-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-philosophical-history-tqu-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-philosophical-history-tqu-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/philosophical-history.epub"
+      }
+    },
+    {
+      "eul_wid": "tqu-ac",
+      "title": {
+        "english": "On Pulses to Antonius, Student of Discipline and Philosopher",
+        "ancient_greek": "Περὶ Σφυγμῶν πρὸς Ἀντώνιον Μαθητὴν καὶ Φιλόσοφον"
+      },
+      "url_slug": "anonymous-medical-writer-pulses-antonius-tqu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/pulses-antonius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-pulses-antonius-tqu-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-pulses-antonius-tqu-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-pulses-antonius-tqu-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-pulses-antonius-tqu-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/pulses-antonius.epub"
+      }
+    },
+    {
+      "eul_wid": "tqu-as",
+      "title": {
+        "english": "On Signs from Urine",
+        "ancient_greek": "Περὶ Σημείων ἐξ Οὖρων"
+      },
+      "url_slug": "anonymous-medical-writer-urine-signs-tqu-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/urine-signs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-urine-signs-tqu-as.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-urine-signs-tqu-as.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-urine-signs-tqu-as.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-urine-signs-tqu-as.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/urine-signs.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "bww-bj",
+      "title": {
+        "english": "Instructions",
+        "ancient_greek": "Ὑποθῆκαι"
+      },
+      "url_slug": "hippocrates-instructions-bww-bj",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/instructions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-instructions-bww-bj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-instructions-bww-bj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-instructions-bww-bj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-instructions-bww-bj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/instructions.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-dm",
+      "title": {
+        "english": "On Affected Places",
+        "ancient_greek": "Περὶ τῶν τόπων τῶν πεπονθότων"
+      },
+      "url_slug": "galen-of-pergamon-affected-places-qmm-dm",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/affected-places",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-affected-places-qmm-dm.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-affected-places-qmm-dm.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-affected-places-qmm-dm.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-affected-places-qmm-dm.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/affected-places.epub"
+      }
+    },
+    {
+      "eul_wid": "bww-ax",
+      "title": {
+        "english": "On Critical Days",
+        "ancient_greek": "Περὶ Κρίσιμων Ἡμερῶν"
+      },
+      "url_slug": "hippocrates-critical-days-bww-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/critical-days",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-critical-days-bww-ax.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-critical-days-bww-ax.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-critical-days-bww-ax.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-critical-days-bww-ax.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/critical-days.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-do",
+      "title": {
+        "english": "On Good Condition",
+        "ancient_greek": "Περὶ τοῦ ἀγαθοῦ ἕξεως"
+      },
+      "url_slug": "galen-of-pergamon-good-condition-qmm-do",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/good-condition",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-good-condition-qmm-do.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-good-condition-qmm-do.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-good-condition-qmm-do.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-good-condition-qmm-do.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/good-condition.epub"
+      }
+    },
+    {
+      "eul_wid": "bww-al",
+      "title": {
+        "english": "On Internal Affections",
+        "ancient_greek": "Περὶ ἐντὸς παθῶν"
+      },
+      "url_slug": "hippocrates-internal-affections-bww-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/internal-affections",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-internal-affections-bww-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-internal-affections-bww-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-internal-affections-bww-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-internal-affections-bww-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/internal-affections.epub"
+      }
+    },
+    {
+      "eul_wid": "ojc-ad",
+      "title": {
+        "english": "On Parts of the Human Body",
+        "ancient_greek": "Περὶ Μερῶν τοῦ Ἀνθρωπίνου Σώματος"
+      },
+      "url_slug": "rufus-of-ephesus-human-body-ojc-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/rufus-of-ephesus/human-body",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-human-body-ojc-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-human-body-ojc-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-human-body-ojc-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-human-body-ojc-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/human-body.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-af",
+      "title": {
+        "english": "On the Constitution of the Medical Art to Patrophilus",
+        "ancient_greek": "Περὶ τῆς κατασκευῆς τῆς ἰατρικῆς τέχνης πρὸς"
+      },
+      "url_slug": "galen-of-pergamon-medical-art-constitution-qmm-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/medical-art-constitution",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-medical-art-constitution-qmm-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-medical-art-constitution-qmm-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-medical-art-constitution-qmm-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-medical-art-constitution-qmm-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/medical-art-constitution.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-bb",
+      "title": {
+        "english": "On the Dissection of Veins and Arteries",
+        "ancient_greek": "Περὶ τῆς φλεβῶν καὶ ἀρτηριῶν τομῆς"
+      },
+      "url_slug": "galen-of-pergamon-dissection-veins-arteries-qmm-bb",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/dissection-veins-arteries",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-dissection-veins-arteries-qmm-bb.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-dissection-veins-arteries-qmm-bb.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-dissection-veins-arteries-qmm-bb.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-dissection-veins-arteries-qmm-bb.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/dissection-veins-arteries.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/anonymous-medical-writer/venesection",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-venesection-tqu-av.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-venesection-tqu-av.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-venesection-tqu-av.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-venesection-tqu-av.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/venesection.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

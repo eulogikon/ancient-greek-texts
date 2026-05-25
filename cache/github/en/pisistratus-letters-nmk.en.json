@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "nmk",
+  "auth_slug": "pisistratus-letters",
+  "name": {
+    "english": "Pisistratus Letters",
+    "ancient_greek": "Πεισιστράτου Ἐπιστολή"
+  },
+  "seo_h1": "Pisistratus Letters and the Defense of an Athenian Tyrant",
+  "seo": {
+    "browser_title": "Pisistratus Letters on Eulogikon Greek Archive Library",
+    "meta_title": "Classical Pisistratus Letters Ancient Greek Epistles Works",
+    "meta_description": "Pisistratus Letters, a Roman era historical text from the 1st-2nd century CE. Surviving epistles in Koine Greek. Free to download from the Greek library."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">No biographical information exists for an author named Pisistratus from the 1st or 2nd century CE. The name is solely associated with the 6th-century BCE Athenian tyrant. Major reference works discuss only this historical figure and contain no mention of a later epistolary work attributed to him.</p>\n<p class=\"research-text\">A single work titled <strong>Pisistratus Letters</strong> is indicated. This would be a pseudepigraphical text from the Roman era, but its existence and content are unattested in standard sources for classical literature.</p>\n<p class=\"research-text\">If genuine, such a pseudepigraphical collection would belong to the literary culture of the Second Sophistic, illustrating the Roman-era reception and rhetorical reinvention of archaic Athenian history. Its absence from authoritative catalogs suggests it is either lost, extremely obscure, or a misattribution.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "nmk-aa",
+      "title": {
+        "english": "Pisistratus's Defense Letter",
+        "ancient_greek": "Ἐπιστολή"
+      },
+      "url_slug": "pisistratus-letters-defense-letter-nmk-aa",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/pisistratus-letters/defense-letter",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pisistratus-letters-defense-letter-nmk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pisistratus-letters-defense-letter-nmk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pisistratus-letters-defense-letter-nmk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pisistratus-letters-defense-letter-nmk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pisistratus-letters/defense-letter.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/pisistratus-letters",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pisistratus-letters-nmk.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pisistratus-letters-nmk.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pisistratus-letters-nmk.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pisistratus-letters-nmk.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

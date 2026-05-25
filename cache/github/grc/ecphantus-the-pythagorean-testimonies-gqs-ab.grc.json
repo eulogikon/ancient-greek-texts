@@ -1,0 +1,249 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "gqs-ab",
+  "eul_aid": "gqs",
+  "author_slug": "ecphantus-the-pythagorean",
+  "work_slug": "testimonies",
+  "url_slug": "ecphantus-the-pythagorean-testimonies-gqs-ab",
+  "author": {
+    "english": "Ecphantus the Pythagorean",
+    "ancient_greek": "Ἔκφαντος ὁ Πυθαγόρειος"
+  },
+  "title": {
+    "english": "Testimonies",
+    "ancient_greek": "Μαρτυρίαι"
+  },
+  "seo": {
+    "browser_title": "Testimonies by Ecphantus the Pythagorean on Eulogikon",
+    "meta_title": "Ancient Testimonies by Ecphantus the Pythagorean in Greek",
+    "meta_description": "Testimonies of Ecphantus the Pythagorean, a collection of philosophical fragments and sayings. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric (phi, frg)",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Pythagorean",
+      "href": "/affiliations/pythagorean"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Testimonies</strong> attributed to Ecphantus the Pythagorean is a collection of five philosophical fragments preserved in later doxographical sources. These passages record the core doctrines of this obscure Syracusan thinker, who represents a syncretic development within later Pythagoreanism. His philosophy is characterized by a cosmology that attempts to reconcile Pythagorean principles with a form of atomistic physics and a teleological divine principle. Ecphantus proposed that physical reality is constituted from indivisible bodies, a concept that blends Pythagorean monadism with Democritean atomism by interpreting the Pythagorean monads as corporeal units. These bodies are set in motion not by mechanical forces like weight or impact, but by a divine power, which he identifies with intelligence and soul. Consequently, the cosmos itself is understood as a single, living, and intelligent being, governed by this divine reason or providence. In his astronomical views, he maintained that the Earth and the celestial bodies are spherical, with the Earth rotating on its axis at the center of the cosmos. The work is not extant as an independent text; its testimonies survive solely as quotations in later compilations, primarily the pseudo-Plutarchian <strong>Placita Philosophorum</strong> and Hippolytus&#x27;s <strong>Refutation of All Heresies</strong>, from which they were later collected and numbered by modern scholars. Ecphantus is significant as a case study in the Hellenistic period&#x27;s engagement with and reinterpretation of earlier philosophical traditions, demonstrating Pythagoreanism&#x27;s adaptation to contemporary debates involving atomism and emerging Platonic ideas.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "HIPPOL. Refut. I 15 (D. 566, W. 18): Ἔκφαντός τις Συρακούσιος ἔφη μὴ εἶναι ἀληθινὴν τῶν ὄντων λαβεῖν γνῶσιν, ὁρίζειν δὲ ὡς νομίζειν. τὰ μὲν πρῶτα ἀδιαίρετα εἶναι σώματα καὶ παραλλαγὰς αὐτῶν τρεῖς ὑπάρχειν, μέγεθος σχῆμα δύναμιν, ἐξ ὧν τὰ αἰσθητὰ γίνεσθαι. εἶναι δὲ τὸ πλῆθος αὐτῶν ὡρισμένον καὶ τοῦτο [?] ἄπειρον. κινεῖσθαι δὲ τὰ σώματα μήτε ὑπὸ βάρους μήτε πληγῆς, ἀλλ’ ὑπὸ θείας δυνάμεως, ἣν νοῦν καὶ ψυχὴν προσαγορεύει. τούτου μὲν οὖν τὸν κόσμον εἶναι ἰδέαν, δι’ ὃ καὶ σφαιροειδῆ ὑπὸ θείας δυνάμεως γεγονέναι. τὴν δὲ γῆν μέσον κόσμου κινεῖσθαι περὶ τὸ αὑτῆς κέντρον ὡς πρὸς ἀνατολήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "AËT. I 3, 19 (D. 286) Ἔκφαντος Συρακούσιος, εἷς τῶν Πυθαγορείων, πάντων τὰ ἀδιαίρετα σώματα καὶ τὸ κενόν [ἀρχὰς εἶναι]· τὰς γὰρ Πυθαγορικὰς μονάδας οὗτος πρῶτος ἀπεφήνατο σωματικάς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "—II 1, 2 (D. 327) Θαλῆς Πυθαγόρας Ἐμπεδοκλῆς Ἔκφαντος Παρμενίδης ... ἕνα τὸν κόσμον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "—II 3, 3 (D. 330) Ἔ. ἐκ μὲν ἀτόμων συνεστάναι τὸν κόσμον, διοικεῖσθαι δὲ ὑπὸ προνοίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "—III 13, 3 (D. 378) Ἡρακλείδης ὁ Ποντικὸς καὶ Ἔκφαντος ὁ Πυθαγόρειος κινοῦσι μὲν τὴν γῆν, οὐ μήν γε μεταβατικῶς, ἀλλὰ τρεπτικῶς τροχοῦ δίκην ἐνηξονισμένην, ἀπὸ δυσμῶν ἐπ’ ἀνατολὰς περὶ τὸ ἴδιον αὑτῆς κέντρον.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "gqs-aa",
+      "title": {
+        "english": "On Kingship",
+        "ancient_greek": "Περὶ βασιλείας"
+      },
+      "url_slug": "ecphantus-the-pythagorean-kingship-gqs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ecphantus-the-pythagorean/kingship",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ecphantus-the-pythagorean-kingship-gqs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ecphantus-the-pythagorean-kingship-gqs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ecphantus-the-pythagorean-kingship-gqs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ecphantus-the-pythagorean-kingship-gqs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ecphantus-the-pythagorean/kingship.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "tni-aa",
+      "title": {
+        "english": "Anthologium",
+        "ancient_greek": "Ἀνθολόγιον"
+      },
+      "url_slug": "john-stobaeus-anthologium-tni-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-stobaeus/anthologium",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-stobaeus-anthologium-tni-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-stobaeus-anthologium-tni-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-stobaeus-anthologium-tni-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-stobaeus-anthologium-tni-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-stobaeus/anthologium.epub"
+      }
+    },
+    {
+      "eul_wid": "hks-ab",
+      "title": {
+        "english": "Fragments on Archytas",
+        "ancient_greek": "Αποσπάσματα"
+      },
+      "url_slug": "bion-of-borysthenes-archytas-fragments-hks-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/bion-of-borysthenes/archytas-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-borysthenes-archytas-fragments-hks-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-borysthenes-archytas-fragments-hks-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-borysthenes-archytas-fragments-hks-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-borysthenes-archytas-fragments-hks-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-borysthenes/archytas-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-ar",
+      "title": {
+        "english": "From-Things Heard",
+        "ancient_greek": "Ἐκ τοῦ περὶ ἀκουστῶν"
+      },
+      "url_slug": "aristotle-things-heard-hgw-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/things-heard",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-things-heard-hgw-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-things-heard-hgw-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-things-heard-hgw-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-things-heard-hgw-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/things-heard.epub"
+      }
+    },
+    {
+      "eul_wid": "ifm-aa",
+      "title": {
+        "english": "How a Man Ought to Live Each Month",
+        "ancient_greek": "Πῶς ὀφείλει διαιτᾶσθαι ἄνθρωπος ἐφ ἑκάστῳ μηνί"
+      },
+      "url_slug": "herophilus-the-anatomist-monthly-living-ifm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/herophilus-the-anatomist/monthly-living",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist-monthly-living-ifm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist-monthly-living-ifm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist-monthly-living-ifm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist-monthly-living-ifm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist/monthly-living.epub"
+      }
+    },
+    {
+      "eul_wid": "ega-ac",
+      "title": {
+        "english": "Letters to Philip",
+        "ancient_greek": "Ἐπιστολαὶ πρὸς Φίλιππον"
+      },
+      "url_slug": "speusippus-of-athens-letters-philip-ega-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/speusippus-of-athens/letters-philip",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens-letters-philip-ega-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens-letters-philip-ega-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens-letters-philip-ega-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens-letters-philip-ega-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens/letters-philip.epub"
+      }
+    },
+    {
+      "eul_wid": "pdw-aa",
+      "title": {
+        "english": "On the Incorporeal",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "basilides-of-alexandria-incorporeal-pdw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/basilides-of-alexandria/incorporeal",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/basilides-of-alexandria-incorporeal-pdw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/basilides-of-alexandria-incorporeal-pdw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/basilides-of-alexandria-incorporeal-pdw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/basilides-of-alexandria-incorporeal-pdw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/basilides-of-alexandria/incorporeal.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-am",
+      "title": {
+        "english": "Physics, Alternate Text",
+        "ancient_greek": "Φυσικὴ Ἀκρόασις"
+      },
+      "url_slug": "aristotle-physics-alt-hgw-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/physics-alt",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-physics-alt-hgw-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-physics-alt-hgw-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-physics-alt-hgw-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-physics-alt-hgw-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/physics-alt.epub"
+      }
+    },
+    {
+      "eul_wid": "hcg-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "clinias-of-tarentum-testimonies-hcg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/clinias-of-tarentum/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum-testimonies-hcg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum-testimonies-hcg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum-testimonies-hcg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum-testimonies-hcg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum/testimonies.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/ecphantus-the-pythagorean/testimonies",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ecphantus-the-pythagorean-testimonies-gqs-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ecphantus-the-pythagorean-testimonies-gqs-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ecphantus-the-pythagorean-testimonies-gqs-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ecphantus-the-pythagorean-testimonies-gqs-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ecphantus-the-pythagorean/testimonies.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

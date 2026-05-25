@@ -1,0 +1,398 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "brw-al",
+  "eul_aid": "brw",
+  "author_slug": "bacchylides-of-ceos",
+  "work_slug": "epigrams",
+  "url_slug": "bacchylides-of-ceos-epigrams-brw-al",
+  "author": {
+    "english": "Bacchylides of Ceos",
+    "ancient_greek": "Βακχυλίδης ὁ Κεῖος"
+  },
+  "title": {
+    "english": "Epigrams",
+    "ancient_greek": "Ἐπιγράμματα"
+  },
+  "seo": {
+    "browser_title": "Ancient Epigrams by Bacchylides of Ceos on Eulogikon",
+    "meta_title": "Classical Epigrams by Bacchylides of Ceos in Ancient Greek",
+    "meta_description": "Two short inscribed poems by Bacchylides. These epigrams differ from his choral victory odes. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Epigrams are two brief inscribed poems attributed to the 5th-century BCE lyric poet Bacchylides. These works stand apart from his celebrated choral victory odes, representing instead the concise, occasional nature of the epigram form. The first is a two-line dedication for a statue of Hermes, while the second is a four-line funerary inscription commemorating a warrior named Aleximachus. Both poems exemplify the pointed style of the genre, focusing on themes of piety and memorial honor. These two passages do not survive in the major papyrus manuscript that preserved Bacchylides&#x27; principal works but were transmitted through quotations by later authors such as Diodorus Siculus and Harpocration, who explicitly attribute them to the poet. Modern scholarship views these epigrams as evidence of the poet&#x27;s versatility, demonstrating that a master of large-scale lyric composition also produced commissioned verses for practical purposes like temple dedications and grave markers.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Κούρα Πάλλαντος πολυώνυμε, πότνια Νίκα, [para]πρόφρων Κρανναίων ἱμερόεντα χορὸν αἰὲν ἐποπτεύοις, πολέας δ’ ἐν ἀθύρμασι Μουσᾶν [para]Κηΐῳ ἀμφιτίθει Βακχυλίδῃ στεφάνους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "Εὔδημος τὸν νηὸν ἐπ’ ἀγροῦ τόνδ’ ἀνέθηκεν [para]τῷ πάντων ἀνέμων πιοτάτῳ Ζεφύρῳ. Εὐξαμένῳ γάρ οἱ ἦλθε βοηθόος, ὄφρα τάχιστα λικμήσῃ πεπόνων καρπὸν ἀπ’ ἀσταχύων.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "brw-aj",
+      "title": {
+        "english": "Dithyrambs",
+        "ancient_greek": "Διθύραμβοι"
+      },
+      "url_slug": "bacchylides-of-ceos-dithyrambs-aj-brw-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/dithyrambs-aj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-dithyrambs-aj-brw-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-dithyrambs-aj-brw-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-dithyrambs-aj-brw-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-dithyrambs-aj-brw-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/dithyrambs-aj.epub"
+      }
+    },
+    {
+      "eul_wid": "brw-ag",
+      "title": {
+        "english": "Dubious Fragments",
+        "ancient_greek": "Ἀμφίβολα Ἀποσπάσματα"
+      },
+      "url_slug": "bacchylides-of-ceos-dubious-fragments-brw-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/dubious-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-dubious-fragments-brw-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-dubious-fragments-brw-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-dubious-fragments-brw-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-dubious-fragments-brw-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/dubious-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "brw-ad",
+      "title": {
+        "english": "Erotic Works Fragments",
+        "ancient_greek": "Ἐρωτικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "bacchylides-of-ceos-erotic-fragments-brw-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/erotic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-erotic-fragments-brw-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-erotic-fragments-brw-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-erotic-fragments-brw-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-erotic-fragments-brw-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/erotic-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "brw-aa",
+      "title": {
+        "english": "Fragments from Uncertain Works",
+        "ancient_greek": "Αποσπάσματα"
+      },
+      "url_slug": "bacchylides-of-ceos-uncertain-works-brw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/uncertain-works",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-uncertain-works-brw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-uncertain-works-brw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-uncertain-works-brw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-uncertain-works-brw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/uncertain-works.epub"
+      }
+    },
+    {
+      "eul_wid": "brw-ac",
+      "title": {
+        "english": "Fragments of Dithyrambs",
+        "ancient_greek": "Ἀποσπάσματα Διθυράμβων"
+      },
+      "url_slug": "bacchylides-of-ceos-dithyrambs-ac-brw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/dithyrambs-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-dithyrambs-ac-brw-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-dithyrambs-ac-brw-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-dithyrambs-ac-brw-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-dithyrambs-ac-brw-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/dithyrambs-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "brw-af",
+      "title": {
+        "english": "Fragments of Hymns",
+        "ancient_greek": "Ἀποσπάσματα Ὕμνων"
+      },
+      "url_slug": "bacchylides-of-ceos-hymns-fragments-brw-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/hymns-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-hymns-fragments-brw-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-hymns-fragments-brw-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-hymns-fragments-brw-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-hymns-fragments-brw-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/hymns-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "brw-ab",
+      "title": {
+        "english": "Fragments of Victory Odes",
+        "ancient_greek": "Ἀποσπάσματα Νικῶν Ὠδῶν"
+      },
+      "url_slug": "bacchylides-of-ceos-victory-odes-ab-brw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/victory-odes-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-victory-odes-ab-brw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-victory-odes-ab-brw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-victory-odes-ab-brw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-victory-odes-ab-brw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/victory-odes-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "brw-ae",
+      "title": {
+        "english": "Hyporchemata Fragments",
+        "ancient_greek": "Ἀποσπάσματα Ὑπορχημάτων"
+      },
+      "url_slug": "bacchylides-of-ceos-hyporchemata-brw-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/hyporchemata",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-hyporchemata-brw-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-hyporchemata-brw-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-hyporchemata-brw-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-hyporchemata-brw-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/hyporchemata.epub"
+      }
+    },
+    {
+      "eul_wid": "brw-am",
+      "title": {
+        "english": "Paeans",
+        "ancient_greek": "Παιᾶνες"
+      },
+      "url_slug": "bacchylides-of-ceos-paeans-brw-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/paeans",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-paeans-brw-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-paeans-brw-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-paeans-brw-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-paeans-brw-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/paeans.epub"
+      }
+    },
+    {
+      "eul_wid": "brw-ah",
+      "title": {
+        "english": "Prosody Fragments",
+        "ancient_greek": "Ἀποσπάσματα Πρὸς τὴν Προσωδίαν"
+      },
+      "url_slug": "bacchylides-of-ceos-prosody-brw-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/prosody",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-prosody-brw-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-prosody-brw-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-prosody-brw-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-prosody-brw-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/prosody.epub"
+      }
+    },
+    {
+      "eul_wid": "brw-ai",
+      "title": {
+        "english": "Victory Odes",
+        "ancient_greek": "Νίκαι Ὠδαί"
+      },
+      "url_slug": "bacchylides-of-ceos-victory-odes-ai-brw-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/victory-odes-ai",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-victory-odes-ai-brw-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-victory-odes-ai-brw-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-victory-odes-ai-brw-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-victory-odes-ai-brw-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/victory-odes-ai.epub"
+      }
+    },
+    {
+      "eul_wid": "brw-ak",
+      "title": {
+        "english": "encoms",
+        "ancient_greek": "Ἐγκώμια"
+      },
+      "url_slug": "bacchylides-of-ceos-encoms-brw-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/encoms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-encoms-brw-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-encoms-brw-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-encoms-brw-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-encoms-brw-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/encoms.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "fzk-aa",
+      "title": {
+        "english": "Anonymous Aulody",
+        "ancient_greek": "Ἀνώνυμον Αὐλωδία"
+      },
+      "url_slug": "aulodia-anon-text-fzk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aulodia-anon/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aulodia-anon-text-fzk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aulodia-anon-text-fzk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aulodia-anon-text-fzk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aulodia-anon-text-fzk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aulodia-anon/text.epub"
+      }
+    },
+    {
+      "eul_wid": "ajg-aa",
+      "title": {
+        "english": "Anthology, Volume V",
+        "ancient_greek": "Ἀνθολογία"
+      },
+      "url_slug": "greek-anthology-volume-5-ajg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/greek-anthology/volume-5",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-anthology-volume-5-ajg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-anthology-volume-5-ajg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-anthology-volume-5-ajg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-anthology-volume-5-ajg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-anthology/volume-5.epub"
+      }
+    },
+    {
+      "eul_wid": "apu-ad",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "sappho-of-lesbos-epigrams-apu-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/sappho-of-lesbos/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-epigrams-apu-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-epigrams-apu-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-epigrams-apu-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-epigrams-apu-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "cqc-ac",
+      "title": {
+        "english": "Fragment of a Paean to Titus Flamininus",
+        "ancient_greek": "Ἀπόσπασμα Παιᾶνος πρὸς Τίτον Φλαμινῖνον"
+      },
+      "url_slug": "paean-collection-anonymous-titus-flamininus-cqc-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/paean-collection-anonymous/titus-flamininus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-titus-flamininus-cqc-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-titus-flamininus-cqc-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-titus-flamininus-cqc-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-titus-flamininus-cqc-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/titus-flamininus.epub"
+      }
+    },
+    {
+      "eul_wid": "bnq-aa",
+      "title": {
+        "english": "Fragments on the Birth of Zeus",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς τοῦ Διὸς Γενέσεως"
+      },
+      "url_slug": "corinna-of-tanagra-birth-of-zeus-bnq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/corinna-of-tanagra/birth-of-zeus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/corinna-of-tanagra-birth-of-zeus-bnq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/corinna-of-tanagra-birth-of-zeus-bnq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/corinna-of-tanagra-birth-of-zeus-bnq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/corinna-of-tanagra-birth-of-zeus-bnq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/corinna-of-tanagra/birth-of-zeus.epub"
+      }
+    },
+    {
+      "eul_wid": "jni-ab",
+      "title": {
+        "english": "Hexameters",
+        "ancient_greek": "Ἑξάμετροι"
+      },
+      "url_slug": "hexameter-papyri-anonymous-text-jni-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hexameter-papyri-anonymous/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-text-jni-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-text-jni-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-text-jni-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous-text-jni-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous/text.epub"
+      }
+    },
+    {
+      "eul_wid": "upu-ac",
+      "title": {
+        "english": "Hymn 25 To the Muses and Apollo",
+        "ancient_greek": "Ὕμνος εἰς τὰς Μούσας καὶ Ἀπόλλωνα"
+      },
+      "url_slug": "homeric-hymns-anonymous-muses-apollo-upu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/muses-apollo",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-muses-apollo-upu-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-muses-apollo-upu-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-muses-apollo-upu-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-muses-apollo-upu-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/muses-apollo.epub"
+      }
+    },
+    {
+      "eul_wid": "qja-aa",
+      "title": {
+        "english": "To the Initial Discharges",
+        "ancient_greek": "Πρὸς τὰς ἀρχομένας ὑποχύσεις"
+      },
+      "url_slug": "aglaias-of-byzantium-initial-discharges-qja-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aglaias-of-byzantium/initial-discharges",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium-initial-discharges-qja-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium-initial-discharges-qja-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium-initial-discharges-qja-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium-initial-discharges-qja-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium/initial-discharges.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/bacchylides-of-ceos/epigrams",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-epigrams-brw-al.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-epigrams-brw-al.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-epigrams-brw-al.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-epigrams-brw-al.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/epigrams.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,240 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "lyu-aa",
+  "eul_aid": "lyu",
+  "author_slug": "gaius-acilius-the-historian",
+  "work_slug": "early-roman-history",
+  "url_slug": "gaius-acilius-the-historian-early-roman-history-lyu-aa",
+  "author": {
+    "english": "Gaius Acilius the Historian",
+    "ancient_greek": "Γάϊος Ἀκίλιος ὁ Ἱστορικός"
+  },
+  "title": {
+    "english": "Fragments on Early Roman History",
+    "ancient_greek": "Ἀποσπάσματα περὶ τῆς πρώτης Ῥωμαϊκῆς ἱστορίας"
+  },
+  "seo": {
+    "browser_title": "Fragments of Gaius Acilius the Historian on Eulogikon",
+    "meta_title": "Historical Fragments of Gaius Acilius in Ancient Greek",
+    "meta_description": "Surviving fragments of Gaius Acilius on early Roman history and foundation legends. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Early Roman History</strong> is a historical treatise composed in Greek by the Roman senator Gaius Acilius around the middle of the second century BCE. The work is entirely lost, surviving only through seven fragmentary passages preserved in the writings of later ancient authors, most notably the historian Dionysius of Halicarnassus and the biographer Plutarch. These citations indicate that the treatise covered Rome’s foundational myths and early history, including accounts of Romulus and Remus, the mysterious death and subsequent deification of Romulus, and details regarding early Roman infrastructure. Acilius wrote in Greek, a common practice among early Roman historians, aiming to present Rome’s origins and its rise to power to a Hellenistic audience. Modern scholarship interprets the work as part of a broader cultural and political project to situate Roman history within established Greek literary traditions, a effort that followed Rome’s military expansion into the Greek world. The treatise was likely intended not merely to inform but also to explain and justify Roman customs and institutions to a Greek-speaking readership.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "De origin. gent. Rom. c. 10, 2: Et postquam ad classem rediit, repperitque mortuam ( Prochytam), in insula proxima sepelisse, quae nunc quoque eodem est nomine, ut scribunt Vulcatius Acilius et Piso. Plutarchus Romul.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "c. 21: Γάϊος δὲ Ἀκίλιος ἱστορεῖ, πρὸ τῆς κτίσεως τὰ θρέμματα τῶν περὶ τὸν Ῥωμύλον ἀφανῆ γενέσθαι· τοὺς δὲ τῷ Φαύνῳ προσευξαμένους ἐκδραμεῖν γυμνοὺς ἐπὶ τὴν ζήτησιν, ὅπως ὑπὸ τοῦ ἱδρῶτος μὴ ἐνοχλοῖντο, καὶ διὰ τοῦτο γυμνοὺς περιτρέχειν τοὺς Λουπέρκους. Dionysius Hal.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "A R. III, 67: Ἔγωγ’ οὖν ἐν τρισὶ τοῖς μεγαλοπρεπεστάτοις κατασκευάσμασι τῆς Ῥώμης, ἐξ ὧν μάλιστα τὸ τῆς ἡγεμονίας ἐμφαίνεται μέγιστον, τάς τε τῶν ὑδάτων ἀγωγὰς τίθεμαι καὶ τὰς τῶν ὁδῶν στρώσεις καὶ τὰς τῶν ὑπονόμων ἐργασίας, οὐ μόνον εἰς τὸ χρήσιμον τῆς κατασκευῆς τὴν διάνοιαν φέρων· ὑπὲρ οὗ κατὰ τὸν οἰκεῖον καιρὸν ἐρῶ· ἀλλὰ καὶ εἰς τὴν τῶν ἀναλωμάτων πολυτέλειαν, ἣν ἐξ ἑνὸς ἔργου τεκμήραιτ’ ἄν τις, Γάϊον Ἀκύλιον ποιησάμενος τοῦ μέλλοντος λέγεσθαι βεβαιωτὴν, ὅς φησιν ἀμεληθεισῶν ποτε τῶν τάφρων καὶ μηκέτι διαρρεομένων, τοὺς τιμητὰς τὴν ἀνακάθαρσιν αὐτῶν καὶ τὴν ἐπισκευὴν χιλίων μισθῶσαι ταλάντων. Cicero De off.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "III, 32: Ut laudandus Regulus in conservando iureiurando, sic decem illi, quos post Cannensem pugnam iuratos ad senatum misit Hannibal, se in castra redituros ea, quorum erant potiti Poeni, nisi de redimendis captivis impetravissent, si non redierunt, vituperandi. De quibus non omnes uno modo. Nam Polybius ( IV, 56) etc. ... Acilius autem, qui graece scripsit historiam, plures ait fuisse, qui in castra revertissent eadem fraude, ut jurejurando liberarentur, eosque a censoribus omnibus ignominiis notatos. E CLAUDIO TRANSLATORE.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "Livius XXV, 39: Ita nocte ac die bina castra hostium expugnata ductu L. Marcii. Ad triginta septem millia hostium caesa, auctor est Claudius, qui annales Acilianos ex Graeco in Latinum sermonem vertit, captos ad mille octingenta triginta: praedam ingentem partam: in ea fuisse clipeum argenteum pondo centum triginta octo, cum imagine Barcini Hasdrubalis. Valerius Antias una castra Magonis capta tradit, septem millia caesa hostium: altero proelio, eruptione pugnatum cum Hasdrubale: decem millia occisa, quattuor millia trecentos triginta captos. Piso quinque millia hominum, quum Mago cedentes nostros effuse sequeretur, caesa ex insidiis scribit. Apud omnes magnum nomen Marcii ducis est. Livius XXXV, 14: Villius, quum Pisidiae bello occupatum esse regem ( Antiochum) audisset, Ephesum profectus, dum paucos ibi moratur dies, dedit operam, ut cum Hannibale, qui tum ibi forte erat, saepe congrederetur; ut animum ejus et tentaret, si qua posset, et metum demeret periculi ei quicquam ab Romanis esse.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "His colloquiis aliud quidem actum nihil est; secutum tamen sua sponte est, velut consilio petitum esset, ut vilior ob ea regi Hannibal et suspectior ad omnia fieret. Claudius, secutus Graecos Acilianos libros, P. Africanum in ea fuisse legatione tradit, eumque Ephesi collocutum cum Hannibale. Et sermonem etiam unum refert, quo quaerenti Africano, quem fuisse maximum imperatorem Hannibal crederet, respondisse, Alexandrum Macedonum regem; quod parva manu innumerabiles exercitus fudisset, quodque ultimas oras, quas visere supra spem humanam esset, peragrasset. Quaerenti deinde, quem secundum poneret, Pyrrhum dixisse. Castra metari primum docuisse: ad hoc neminem elegantius loca cepisse, praesidia disposuisse; artem quoque conciliandi sibi homines eam habuisse, ut Italicae gentes regis externi, quam populi Romani, tam diu principis in ea terra, imperium esse mallent. Exsequenti, quem tertium duceret, haud dubie semet ipsum dixisse. Tum risum subortum Scipioni et subiecisse: Quidnam tu diceres, si me vicisses? Tum me vero, inquit, et ante Alexandrum et ante Pyrrhum et ante omnes alios imperatores esse. Et perplexum Punico astu responsum et improvisum assentationis genus Scipionem movisse, quod e grege se imperatorum velut inaestimabilem secrevisset. Livii Epitom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "lib. LIII: A Q. Fabio proconsule pars magna Lusitaniae, expugnatis aliquot urbibus, recepta est. C. Julius senator Graece res Romanas scribit.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "oqk-ao",
+      "title": {
+        "english": "Hermes Trismegistus Key",
+        "ancient_greek": "Κλείς"
+      },
+      "url_slug": "hermetica-key-oqk-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/key",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-key-oqk-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-key-oqk-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-key-oqk-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-key-oqk-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/key.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-av",
+      "title": {
+        "english": "History of Animals",
+        "ancient_greek": "Περὶ Τὰ Ζῷα Ἱστορίαι"
+      },
+      "url_slug": "aristotle-history-animals-hgw-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/history-animals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-history-animals-hgw-av.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-history-animals-hgw-av.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-history-animals-hgw-av.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-history-animals-hgw-av.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/history-animals.epub"
+      }
+    },
+    {
+      "eul_wid": "ikm-aa",
+      "title": {
+        "english": "Letter with Testamentary Instructions",
+        "ancient_greek": "Ἐπιστολή"
+      },
+      "url_slug": "arcesilaus-of-pitane-i-testamentary-letter-ikm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/arcesilaus-of-pitane-i/testamentary-letter",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcesilaus-of-pitane-i-testamentary-letter-ikm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcesilaus-of-pitane-i-testamentary-letter-ikm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcesilaus-of-pitane-i-testamentary-letter-ikm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcesilaus-of-pitane-i-testamentary-letter-ikm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcesilaus-of-pitane-i/testamentary-letter.epub"
+      }
+    },
+    {
+      "eul_wid": "uqy-ad",
+      "title": {
+        "english": "On Ten Doubts Concerning Providence",
+        "ancient_greek": "Περὶ δέκα ἀποριῶν περὶ προνοίας"
+      },
+      "url_slug": "proclus-the-successor-ten-doubts-providence-uqy-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/proclus-the-successor/ten-doubts-providence",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-ten-doubts-providence-uqy-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-ten-doubts-providence-uqy-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-ten-doubts-providence-uqy-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-ten-doubts-providence-uqy-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/ten-doubts-providence.epub"
+      }
+    },
+    {
+      "eul_wid": "reo-ak",
+      "title": {
+        "english": "On the Soul",
+        "ancient_greek": "Περὶ Ψυχῆς"
+      },
+      "url_slug": "alexander-of-aphrodisias-soul-reo-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-aphrodisias/soul",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-soul-reo-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-soul-reo-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-soul-reo-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-soul-reo-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/soul.epub"
+      }
+    },
+    {
+      "eul_wid": "ovu-ab",
+      "title": {
+        "english": "Opinions (Theodoret Tradition)",
+        "ancient_greek": "Περὶ Δογμάτων Ἀπολείμματα"
+      },
+      "url_slug": "aetius-the-doxographer-doctrines-remnants-ab-ovu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aetius-the-doxographer/doctrines-remnants-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-ab-ovu-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-ab-ovu-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-ab-ovu-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-ab-ovu-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer/doctrines-remnants-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "pwi-aa",
+      "title": {
+        "english": "Physiognomics, Adamantian Epitome",
+        "ancient_greek": "Φυσιογνωμονικά"
+      },
+      "url_slug": "pseudo-polemon-physiognomics-aa-pwi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-polemon/physiognomics-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-polemon-physiognomics-aa-pwi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-polemon-physiognomics-aa-pwi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-polemon-physiognomics-aa-pwi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-polemon-physiognomics-aa-pwi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-polemon/physiognomics-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-ae",
+      "title": {
+        "english": "Themistius's Commentary on Aristotle's Prior Analytics, Book I",
+        "ancient_greek": "Ἡ φερομένη εἰς τὸν Ἀριστοτέλους Ἀναλυτικῶν"
+      },
+      "url_slug": "themistius-commentary-prior-analytics-1-rye-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/commentary-prior-analytics-1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-commentary-prior-analytics-1-rye-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-commentary-prior-analytics-1-rye-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-commentary-prior-analytics-1-rye-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-commentary-prior-analytics-1-rye-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/commentary-prior-analytics-1.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/gaius-acilius-the-historian/early-roman-history",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-acilius-the-historian-early-roman-history-lyu-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-acilius-the-historian-early-roman-history-lyu-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-acilius-the-historian-early-roman-history-lyu-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-acilius-the-historian-early-roman-history-lyu-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-acilius-the-historian/early-roman-history.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

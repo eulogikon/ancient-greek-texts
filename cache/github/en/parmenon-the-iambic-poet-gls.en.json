@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "gls",
+  "auth_slug": "parmenon-the-iambic-poet",
+  "name": {
+    "english": "Parmenon the Iambic Poet",
+    "ancient_greek": "Παρημένων ὁ ἰαμβογράφος"
+  },
+  "seo_h1": "Parmenon the Iambic Poet on Egyptian Cities",
+  "seo": {
+    "browser_title": "Parmenon the Iambic Poet on Eulogikon Greek Archive",
+    "meta_title": "The Parmenon Ancient Greek Iambic Poetry and Works",
+    "meta_description": "Parmenon, a 4th century BCE iambic poet in Ionic dialect. Two surviving fragments are preserved. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (ia, frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Parmenon the Iambic Poet was a 4th-century BCE author. The 10th-century Byzantine encyclopedia, the Suda, identifies him as an iambic poet and grammarian from either Byzantium or Heraclea.</p>\n<p class=\"research-text\">The Suda records two lost works: a collection titled Iambs and a grammatical treatise, On the Ionic Dialect. Parmenon represents a later practitioner of the iambic tradition who also engaged in scholarly study of the Ionic dialect, the very medium of his poetry.</p>\n<p class=\"research-text\">His preserved entry in the Suda secures his place, however minor, in the history of Greek literature and Byzantine scholarship.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "gls-aa",
+      "title": {
+        "english": "Drunken Revelry and Travel",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "parmenon-the-iambic-poet-drunken-revelry-travel-gls-aa",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/parmenon-the-iambic-poet/drunken-revelry-travel",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenon-the-iambic-poet-drunken-revelry-travel-gls-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenon-the-iambic-poet-drunken-revelry-travel-gls-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenon-the-iambic-poet-drunken-revelry-travel-gls-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenon-the-iambic-poet-drunken-revelry-travel-gls-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenon-the-iambic-poet/drunken-revelry-travel.epub"
+      }
+    },
+    {
+      "eul_wid": "gls-ab",
+      "title": {
+        "english": "Fragments on Egyptian Cities",
+        "ancient_greek": "Ἀποσπάσματα περὶ Αἰγυπτιακῶν Πόλεων"
+      },
+      "url_slug": "parmenon-the-iambic-poet-egyptian-cities-gls-ab",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/parmenon-the-iambic-poet/egyptian-cities",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenon-the-iambic-poet-egyptian-cities-gls-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenon-the-iambic-poet-egyptian-cities-gls-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenon-the-iambic-poet-egyptian-cities-gls-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenon-the-iambic-poet-egyptian-cities-gls-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenon-the-iambic-poet/egyptian-cities.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/parmenon-the-iambic-poet",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/parmenon-the-iambic-poet-gls.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/parmenon-the-iambic-poet-gls.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/parmenon-the-iambic-poet-gls.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/parmenon-the-iambic-poet-gls.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

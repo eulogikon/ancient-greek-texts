@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "hia",
+  "auth_slug": "crates-of-thebes-epistles",
+  "name": {
+    "english": "Crates of Thebes II",
+    "ancient_greek": "Κράτης ὁ Θηβαῖος (Ἐπιστολαί)"
+  },
+  "seo_h1": "Crates of Thebes on the Cynic Life in Verse",
+  "seo": {
+    "browser_title": "Crates of Thebes Philosopher on Eulogikon Greek Archive",
+    "meta_title": "Crates of Thebes Ancient Greek Philosophical Works",
+    "meta_description": "Crates of Thebes was a 4th century BCE Cynic philosopher. Read his surviving treatises on ethics. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Crates of Thebes was a Cynic philosopher who lived in Greece during the late 4th century BCE. Born into a wealthy family, he famously gave up his fortune to live a life of deliberate poverty, embodying the Cynic ideal of simplicity. He was a direct student of Diogenes of Sinope and, significantly, the teacher of Zeno of Citium, who would later found Stoicism. This makes Crates a crucial link between the Cynic and Stoic schools of thought.</p>\n<p class=\"research-text\">He was married to Hipparchia of Maroneia, and their partnership was presented as a model of a shared philosophical life based on mutual agreement and ascetic values. In Athens, Crates was a well-known public figure. Ancient sources describe him as gentle and charitable, earning the nickname &quot;the Door-Opener&quot; for entering homes to offer advice and mediate disputes. His philosophy was often expressed through performance, satire, and poetry designed to challenge social conventions about wealth, status, and pleasure.</p>\n<p class=\"research-text\">None of Crates’s own writings survive intact. His ideas are known through fragments and reports by later authors. He is credited with writing philosophical poems, including one called &quot;The Wallet,&quot; and tragicomedies. A collection of letters survives under his name, but modern scholars generally believe these &quot;Cynic Epistles&quot; were composed later, in the Hellenistic or Roman period, though they may reflect his teachings.</p>\n<p class=\"research-text\">Crates’s historical importance lies in his role as a transmitter of Cynic thought to Stoicism. Through his teaching of Zeno, he directly influenced early Stoic ethics. His life, and his marriage to Hipparchia, became legendary examples of living out philosophical principles. His reputation also helped shape the later image of the Cynic as a philanthropic and gentle sage, complementing the more abrasive style associated with Diogenes.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 3,
+  "works": [
+    {
+      "eul_wid": "hia-ab",
+      "title": {
+        "english": "Cynic Hymns and Parodies",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "crates-of-thebes-epistles-hymns-parodies-hia-ab",
+      "passages": 24,
+      "links": {
+        "html": "https://eulogikon.org/grc/crates-of-thebes-epistles/hymns-parodies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-of-thebes-epistles-hymns-parodies-hia-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-of-thebes-epistles-hymns-parodies-hia-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-of-thebes-epistles-hymns-parodies-hia-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-of-thebes-epistles-hymns-parodies-hia-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-of-thebes-epistles/hymns-parodies.epub"
+      }
+    },
+    {
+      "eul_wid": "hia-ac",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "crates-of-thebes-epistles-epigrams-hia-ac",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/crates-of-thebes-epistles/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-of-thebes-epistles-epigrams-hia-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-of-thebes-epistles-epigrams-hia-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-of-thebes-epistles-epigrams-hia-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-of-thebes-epistles-epigrams-hia-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-of-thebes-epistles/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "hia-aa",
+      "title": {
+        "english": "Fragments and Title",
+        "ancient_greek": "Ἀποσπάσματα καὶ Τίτλος"
+      },
+      "url_slug": "crates-of-thebes-epistles-fragments-hia-aa",
+      "passages": 14,
+      "links": {
+        "html": "https://eulogikon.org/grc/crates-of-thebes-epistles/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-of-thebes-epistles-fragments-hia-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-of-thebes-epistles-fragments-hia-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-of-thebes-epistles-fragments-hia-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-of-thebes-epistles-fragments-hia-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-of-thebes-epistles/fragments.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/crates-of-thebes-epistles",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crates-of-thebes-epistles-hia.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crates-of-thebes-epistles-hia.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crates-of-thebes-epistles-hia.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crates-of-thebes-epistles-hia.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

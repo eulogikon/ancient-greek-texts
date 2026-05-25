@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "grw",
+  "auth_slug": "dicaeogenes",
+  "name": {
+    "english": "Dicaeogenes",
+    "ancient_greek": "Δικαίογνης"
+  },
+  "seo_h1": "Love and Family in the Tragedies of Dicaeogenes",
+  "seo": {
+    "browser_title": "Dicaeogenes the Dramatist on Eulogikon Greek Archive",
+    "meta_title": "Dicaeogenes Ancient Greek Dramatic Works and Fragments",
+    "meta_description": "Dicaeogenes was a 4th century BCE Attic dramatist. Surviving fragments of his works are preserved. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (dr, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Δρᾶμα",
+      "english": "Drama",
+      "href": "/domains/drama"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Dicaeogenes was an Athenian tragic poet of the 4th century BCE, a contemporary of Demosthenes. The Suda records that he competed in dramatic festivals and wrote both tragedies and comedies, though he is remembered as a tragedian distinct from a comic poet of the same name. No further biographical details survive.</p>\n<p class=\"research-text\">He is credited with several tragedies, of which only fragments and titles remain. Known works include Cyprians, Medea, Oedipus, and Thyestes. The Suda attributes eight plays to him, but all are lost except for fragments.</p>\n<p class=\"research-text\">Dicaeogenes represents the post-classical generation of tragedians following Sophocles and Euripides, illustrating the continued vitality of tragic competition in 4th-century Athens. His engagement with canonical mythological subjects places him within the traditional tragic repertoire. His fragmentary record contributes to our understanding of Athenian drama in this less-documented period.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "grw-aa",
+      "title": {
+        "english": "Fragments on Love and Family",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἔρωτος καὶ Οἰκίας"
+      },
+      "url_slug": "dicaeogenes-love-family-grw-aa",
+      "passages": 12,
+      "links": {
+        "html": "https://eulogikon.org/grc/dicaeogenes/love-family",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dicaeogenes-love-family-grw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dicaeogenes-love-family-grw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dicaeogenes-love-family-grw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dicaeogenes-love-family-grw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dicaeogenes/love-family.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/dicaeogenes",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dicaeogenes-grw.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dicaeogenes-grw.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dicaeogenes-grw.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dicaeogenes-grw.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

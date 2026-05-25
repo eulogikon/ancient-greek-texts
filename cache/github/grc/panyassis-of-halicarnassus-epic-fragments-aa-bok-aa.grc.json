@@ -1,0 +1,635 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "bok-aa",
+  "eul_aid": "bok",
+  "author_slug": "panyassis-of-halicarnassus",
+  "work_slug": "epic-fragments-aa",
+  "url_slug": "panyassis-of-halicarnassus-epic-fragments-aa-bok-aa",
+  "author": {
+    "english": "Panyassis of Halicarnassus",
+    "ancient_greek": "Πανύασις ὁ Ἁλικαρνασσεύς"
+  },
+  "title": {
+    "english": "Epic Fragments",
+    "ancient_greek": "Ἡρωϊκὰ Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Fragments by Panyassis of Halicarnassus on Eulogikon",
+    "meta_title": "Classical Epic Fragments by Panyassis in Ancient Greek Text",
+    "meta_description": "Surviving fragments of epic poetry by Panyassis of Halicarnassus, a 5th century BCE poet. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Epic Fragments represent the scant surviving verses of Panyassis of Halicarnassus, a Greek epic poet of the early fifth century BCE. A relative of the historian Herodotus, Panyassis is chiefly remembered for his major composition, the <strong>Heraclea</strong>, a fourteen-book epic in dactylic hexameter detailing the life and labors of Heracles. A smaller, regionally focused epic, the <strong>Ionica</strong>, which treated Ionian foundation myths, is also attested. Of this substantial body of work, only minute portions remain: sixty-one fragments comprising approximately seventy lines, preserved solely as quotations in the works of later authors. Given that the original <strong>Heraclea</strong> spanned an estimated nine thousand lines, these fragments provide merely a fleeting impression of its narrative scope and poetic style. Composed in Halicarnassus during a period marked by Persian hegemony and Ionian revolt, Panyassis’s career ended with his reported execution by a local tyrant for political reasons. His poetry belongs to a later phase of the epic tradition, following the Homeric model. Modern scholarship often views the <strong>Heraclea</strong> as crafted for a broad, Panhellenic audience, whereas the <strong>Ionica</strong> likely functioned to reinforce a distinct Ionian cultural identity. In antiquity, Panyassis was held in high esteem, counted among the five canonical epic poets by the scholars of Alexandria. However, the near-total loss of his texts obscures any direct assessment of his influence on subsequent literature.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "Παρνησσὸν νιφόεντα θοοῖς διὰ ποσσὶ περήσας ἵκετο Κασταλίης Ἀχελωΐδος ἄμβροτον ὕδωρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "τλῆ μὲν Δημήτηρ, τλῆ δὲ κλυτὸς ἀμφιγυήεις, τλῆ δὲ Ποσειδάων, τλῆ δ’ ἀργυρότοξος Ἀπόλλων ἀνδρὶ παρὰ θνητῶι θητευσέμεν εἰς ἐνιαυτόν, τλῆ δὲ 〈καὶ〉 ὀβριμόθυμος Ἄρης ὑπὸ πατρὸς ἀνάγκης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.1",
+      "text": "δέρμα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.2",
+      "text": "τε θήρειον Βεμβινήταο λέοντος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.1",
+      "text": "καὶ Βεμβινήταο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.2",
+      "text": "πελώρου δέρμα λέοντος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.1",
+      "text": "τοῦ κεράσας κρητῆρα μέγαν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.2",
+      "text": "χρυσοῖο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.3",
+      "text": "φαεινὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.4",
+      "text": "σκύπφους αἰνύμενος θαμέας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.5",
+      "text": "ποτὸν ἡδὺν ἔπινεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.1",
+      "text": "καί ῥ’ ὁ μὲν ἐκ κόλποιο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.2",
+      "text": "τροφοῦ θόρε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.3",
+      "text": "ποσσὶ Θυώνης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15.1",
+      "text": "ὣς ἄρα μιν εἰπόντα κατασ[τέγασε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15.2",
+      "text": "Στυγὸς] ὕδωρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16.1",
+      "text": "ξεῖν’ ἄγε δὴ καὶ πῖν’, ἀρετή νύ τις ἔστι καὶ αὐτή, ὅς κ’ ἀνδρῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16.2",
+      "text": "πολὺ πλεῖστον ἐν εἰλαπίνηι μέθυ πίνηι εὖ καὶ ἐπισταμένως, ἅμα τ’ ἄλλον φῶτα κελεύηι. ἶσον δ’ ὅς τ’ ἐν δαιτὶ καὶ ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16.3",
+      "text": "πολέμωι θοὸς ἀνὴρ[ln_5]ὑσμίνας διέπων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16.4",
+      "text": "ταλαπενθέας, ἔνθα δὲ παῦροι θαρσαλέοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16.5",
+      "text": "τελέθουσι μένουσί τε θοῦρον Ἄρηα. τοῦ κεν ἐγὼ θείμην ἶσον κλέος, ὅς τ’ ἐνὶ δαιτὶ τέρπηται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16.6",
+      "text": "παρεὼν ἅμα τ’ ἄλλον λαὸν ἀνώγηι. οὐ γάρ μοι ζώειν γε δοκεῖ βροτὸς οὐδὲ βιῶναι[ln_10]ἀνθρώποιο βίον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16.7",
+      "text": "ταλασίφρονος, ὅστις ἀπ’ οἴνου θυμὸν ἐρητύσας μείνηι πότον, ἀλλ’ ἐνεόφρων. οἶνος γὰρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16.8",
+      "text": "πυρὶ ἶσον ἐπιχθονίοισιν ὄνειαρ ἐσθλόν, ἀλεξίκακον, πάσης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16.9",
+      "text": "συνοπηδὸν ἀοιδῆς. ἐν μὲν γὰρ θαλίης ἐρατὸν μέρος ἀγλαΐης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16.10",
+      "text": "τε,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16.1",
+      "text": "[ln_15]ἐν δὲ χοροιτυπίης, ἐν δ’ ἱμερτῆς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16.2",
+      "text": "φιλότητος, ἐν δέ τε μενθήρης καὶ δυσφροσύνης ἀλεωρή. τῶι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16.3",
+      "text": "σε χρὴ παρὰ δαιτὶ δεδεγμένον εὔφρονι θυμῶι πίνειν, μηδὲ βορῆς κεκορημένον ἠύτε γῦπα ἧσθαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16.4",
+      "text": "πλημύροντα, λελησμένον εὐφροσυνάων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17.1",
+      "text": "πρῶται μὲν Χάριτές τ’ ἔλαχον καὶ ἐύφρονες Ὧραι μοῖραν καὶ Διόνυσος ἐρίβρομος, οὗπερ ἔτευξαν. τοῖς δ’ ἔπι Κυπρογένεια θεὰ λάχε καὶ Διόνυσος. ἔνθα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17.2",
+      "text": "τε κάλλιστος πότος ἀνδράσι γίνεται οἴνου·[ln_5]εἴ τις 〈δίσ〉 γε πίοι καὶ ὑπότροπος οἴκαδ’ ἀπέλθοι δαιτὸς ἀπὸ γλυκερῆς, οὐκ ἄν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17.3",
+      "text": "ποτε πήματι κύρσαι· ἀλλ’ ὅτε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17.4",
+      "text": "τις μοίρης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17.5",
+      "text": "τριτάτης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17.6",
+      "text": "πρὸς μέτρον ἐλαύνοι πίνων ἀβλεμέως, τότε δ’ Ὕβριος αἶσα καὶ Ἄτης γίνεται ἀργαλέη, κακὰ δ’ ἀνθρώποισιν ὀπάζει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17.1",
+      "text": "[ln_10]ἀλλὰ πέπον—μέτρον γὰρ ἔχεις γλυκεροῖο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17.2",
+      "text": "ποτοῖο— στεῖχε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17.3",
+      "text": "παρὰ μνηστὴν ἄλοχον, κοίμιζε δ’ ἑταίρους· δείδια γὰρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17.4",
+      "text": "τριτάτης μοίρης μελιηδέος οἴνου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17.5",
+      "text": "πινομένης, μή ς’ Ὕβρις ἐνὶ φρεσὶ θυμὸν ἀέρσηι, ἐσθλοῖς δὲ ξενίοισι κακὴν ἐπιθῆισι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17.6",
+      "text": "τελευτήν.[ln_15]ἀλλὰ πιθοῦ καὶ παῦε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17.7",
+      "text": "πολὺν πότον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.1",
+      "text": "ἐκ γάρ οἱ Ἄτης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.2",
+      "text": "τε καὶ Ὕβριος αἶς’ 〈ἅμ’〉 ὀπηδεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 19",
+      "text": "ὡς οἶνος θνητοῖσι θεῶν πάρα δῶρον ἄριστον ἀγλαός· ὧι πᾶσαι μὲν ἐφαρμόζουσιν ἀοιδαί, πάντες δ’ ὀρχηθμοί, πᾶσαι δ’ ἐραταὶ φιλότητες. πάσας δ’ ἐκ κραδίης ἀνίας ἀνδρῶν ἀλαπάζει[ln_5]πινόμενος κατὰ μέτρον, ὑπὲρ μέτρον δὲ χερείων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 23.1",
+      "text": "ἔνθα δ’ ἔναιε μέγας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 23.2",
+      "text": "Τρεμίλης καί ῥ’ ἤγαγε κούρην, νύμφην Ὠγυγίην, ἣν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 23.3",
+      "text": "Πρηξιδίκην καλέουσι, Σίβρωι ἐπ’ ἀργυρέωι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 23.4",
+      "text": "ποταμῶι βαθυδινήεντι· τῆς δ’ ὀλοοὶ παῖδες",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 23.5",
+      "text": "Τλῶος ξανθὸς Πίναρός",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 23.6",
+      "text": "τε[ln_5]καὶ Κράγος, ὃς κρατέων πάσας ληΐζετ’ ἀρούρας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 24",
+      "text": "ἐν Πύλωι ἠμαθόεντι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 28",
+      "text": "Ἠοίην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 29",
+      "text": "βηλά",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 30.1",
+      "text": "διχθάδιός",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 30.2",
+      "text": "ποτε μῦθος· ἄναξ μετεμέμβλετο λαῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 31dub",
+      "text": "πῷ[ς] δ’ ἐπορ[εύθ]η̣ς ῥεῦμ’ Ἀχ[ελω]ίου ἀργυ[ρο]δίνα Ὠκεανοῦ ποταμο[ῖο δι’] εὐρέος ὑγ[ρ]ὰ κέλευθα;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 33dub.1",
+      "text": "φολὶς δ’ ἀπέλαμπε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 33dub.2",
+      "text": "φαεινή. ἄλλοτε μὲν κυάνου, τοτὲ δ’ ἄνθεσιν εἴσατο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 33dub.3",
+      "text": "χαλκοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "bok-ab",
+      "title": {
+        "english": "Epic Fragments",
+        "ancient_greek": "Ἡρωϊκὰ Ἀποσπάσματα"
+      },
+      "url_slug": "panyassis-of-halicarnassus-epic-fragments-ab-bok-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/panyassis-of-halicarnassus/epic-fragments-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-of-halicarnassus-epic-fragments-ab-bok-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-of-halicarnassus-epic-fragments-ab-bok-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-of-halicarnassus-epic-fragments-ab-bok-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-of-halicarnassus-epic-fragments-ab-bok-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-of-halicarnassus/epic-fragments-ab.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "tns-ab",
+      "title": {
+        "english": "Dionysiaca",
+        "ancient_greek": "Διονυσιακά"
+      },
+      "url_slug": "nonnus-of-panopolis-dionysiaca-tns-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/nonnus-of-panopolis/dionysiaca",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnus-of-panopolis-dionysiaca-tns-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnus-of-panopolis-dionysiaca-tns-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnus-of-panopolis-dionysiaca-tns-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnus-of-panopolis-dionysiaca-tns-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnus-of-panopolis/dionysiaca.epub"
+      }
+    },
+    {
+      "eul_wid": "abo-aa",
+      "title": {
+        "english": "Epigoni",
+        "ancient_greek": "Ἐπίγονοι"
+      },
+      "url_slug": "epigoni-text-abo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epigoni/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigoni-text-abo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigoni-text-abo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigoni-text-abo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigoni-text-abo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigoni/text.epub"
+      }
+    },
+    {
+      "eul_wid": "pge-aa",
+      "title": {
+        "english": "Fragments on Antinous and Hadrian",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀντινόου καὶ Ἁδριανοῦ"
+      },
+      "url_slug": "pancrates-of-egypt-antinous-hadrian-pge-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pancrates-of-egypt/antinous-hadrian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt-antinous-hadrian-pge-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt-antinous-hadrian-pge-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt-antinous-hadrian-pge-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt-antinous-hadrian-pge-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt/antinous-hadrian.epub"
+      }
+    },
+    {
+      "eul_wid": "afa-aa",
+      "title": {
+        "english": "Little Iliad Fragments",
+        "ancient_greek": "Ἰλιὰς Μικρὰ Ἀποσπάσματα"
+      },
+      "url_slug": "little-iliad-fragments-afa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/little-iliad/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/little-iliad-fragments-afa-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/little-iliad-fragments-afa-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/little-iliad-fragments-afa-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/little-iliad-fragments-afa-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/little-iliad/fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "qrw-aa",
+      "title": {
+        "english": "On Christian Charity and Tradition",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dionysius-of-corinth-christian-charity-qrw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-corinth/christian-charity",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-corinth-christian-charity-qrw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-corinth-christian-charity-qrw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-corinth-christian-charity-qrw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-corinth-christian-charity-qrw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-corinth/christian-charity.epub"
+      }
+    },
+    {
+      "eul_wid": "aaa-ac",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "eumelus-of-corinth-testimonies-aaa-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/eumelus-of-corinth/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth-testimonies-aaa-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth-testimonies-aaa-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth-testimonies-aaa-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth-testimonies-aaa-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth/testimonies.epub"
+      }
+    },
+    {
+      "eul_wid": "aau-ac",
+      "title": {
+        "english": "Works and Days",
+        "ancient_greek": "Ἔργα καὶ Ἡμέραι"
+      },
+      "url_slug": "hesiod-works-days-aau-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hesiod/works-days",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod-works-days-aau-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod-works-days-aau-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod-works-days-aau-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod-works-days-aau-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/works-days.epub"
+      }
+    },
+    {
+      "eul_wid": "kjq-ar",
+      "title": {
+        "english": "encom",
+        "ancient_greek": "Ἐγκώμιον"
+      },
+      "url_slug": "epic-fragments-anonymous-encom-kjq-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/encom",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-encom-kjq-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-encom-kjq-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-encom-kjq-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-encom-kjq-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/encom.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/panyassis-of-halicarnassus/epic-fragments-aa",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-of-halicarnassus-epic-fragments-aa-bok-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-of-halicarnassus-epic-fragments-aa-bok-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-of-halicarnassus-epic-fragments-aa-bok-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-of-halicarnassus-epic-fragments-aa-bok-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-of-halicarnassus/epic-fragments-aa.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

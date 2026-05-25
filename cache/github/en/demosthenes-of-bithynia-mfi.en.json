@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "mfi",
+  "auth_slug": "demosthenes-of-bithynia",
+  "name": {
+    "english": "Demosthenes of Bithynia",
+    "ancient_greek": "Δημοσθένης ὁ Βιθυνός"
+  },
+  "seo_h1": "Demosthenes of Bithynia on the Geography of Bithynia",
+  "seo": {
+    "browser_title": "Demosthenes of Bithynia on Eulogikon Greek Archive",
+    "meta_title": "Demosthenes of Bithynia Ancient Greek Epic Fragments",
+    "meta_description": "Demosthenes of Bithynia, a 2nd century BCE epic poet. Surviving fragments of his Homeric verse. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric) (frg)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Demosthenes of Bithynia was a Hellenistic epic poet active in the 2nd century BCE. He is distinguished from the Athenian orator of the same name by his ethnic designation, which indicates his origin from Bithynia in northwestern Asia Minor. His floruit places him within the vibrant literary culture of the Hellenistic period.</p>\n<p class=\"research-text\">Two epic poems are attributed to him, both now lost and known only through later references. The <strong>Bithyniaca</strong> concerned the history and mythology of Bithynia and is cited by the geographer Strabo. His second work was <strong>The Story of Troy</strong>, an epic on the Trojan War cycle.</p>\n<p class=\"research-text\">Demosthenes is a minor but illustrative figure, representing the continuation and adaptation of the epic tradition to local histories and panhellenic myths in the Hellenistic era. The <strong>Bithyniaca</strong> is of particular note as a piece of local historiography in verse form, contributing to the literary expression of regional identity.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "mfi-ab",
+      "title": {
+        "english": "Geographical Fragments of Bithynia",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Βιθυνίας"
+      },
+      "url_slug": "demosthenes-of-bithynia-geographical-fragments-ab-mfi-ab",
+      "passages": 47,
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-bithynia/geographical-fragments-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-bithynia-geographical-fragments-ab-mfi-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-bithynia-geographical-fragments-ab-mfi-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-bithynia-geographical-fragments-ab-mfi-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-bithynia-geographical-fragments-ab-mfi-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-bithynia/geographical-fragments-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "mfi-aa",
+      "title": {
+        "english": "Geographical Fragments on Bithynia",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βιθυνίας Γεωγραφικά"
+      },
+      "url_slug": "demosthenes-of-bithynia-geographical-fragments-aa-mfi-aa",
+      "passages": 10,
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-bithynia/geographical-fragments-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-bithynia-geographical-fragments-aa-mfi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-bithynia-geographical-fragments-aa-mfi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-bithynia-geographical-fragments-aa-mfi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-bithynia-geographical-fragments-aa-mfi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-bithynia/geographical-fragments-aa.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/demosthenes-of-bithynia",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demosthenes-of-bithynia-mfi.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demosthenes-of-bithynia-mfi.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demosthenes-of-bithynia-mfi.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demosthenes-of-bithynia-mfi.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

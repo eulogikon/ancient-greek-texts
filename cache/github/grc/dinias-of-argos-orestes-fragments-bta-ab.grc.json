@@ -1,0 +1,222 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "bta-ab",
+  "eul_aid": "bta",
+  "author_slug": "dinias-of-argos",
+  "work_slug": "orestes-fragments",
+  "url_slug": "dinias-of-argos-orestes-fragments-bta-ab",
+  "author": {
+    "english": "Dinias of Argos",
+    "ancient_greek": "Δινίας ὁ Ἀργεῖος"
+  },
+  "title": {
+    "english": "Fragments on the Orestes Myth",
+    "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Μύθου Ὀρέστου"
+  },
+  "seo": {
+    "browser_title": "Historical Fragments of Dinias of Argos on Eulogikon",
+    "meta_title": "Classical Fragments of Dinias of Argos in Ancient Greek",
+    "meta_description": "Surviving fragments of Dinias of Argos on the Orestes myth. Argive historical prose. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric (frg)",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Fragments on the Orestes Myth is a lost prose work by Dinias of Argos, a local historian or mythographer. The text is known only through two brief fragments preserved by later authors, which offer glimpses into Argive traditions concerning the hero Orestes. The first fragment, recorded by the travel writer Pausanias in his Description of Greece, recounts an Argive ritual. It states that after Orestes was purified of his matricide in Athens, he cut his hair as an offering at a spring in Argos known as Kallirrhoe or the Waters of Freedom. According to the tradition preserved by Dinias, a lock of this hair was subsequently kept in the temple of Hera Antheia. The second fragment survives in the grammatical treatise of Herodian, On Peculiar Diction. It provides an etymological explanation for an Argive epithet of Orestes, Aletes, interpreting it to mean Wanderer. These fragments indicate that Dinias compiled local Argive legends and etymologies connected to the myth of Orestes. As a work of Argive local history, it represents a regional variant within the broader Panhellenic Orestes cycle, asserting the city&#x27;s own claims and prestige in the story. Though the original text is lost, its details entered wider antiquarian and grammatical scholarship through the quotations in Pausanias and Herodian, illustrating the rich diversity of Greek mythological tradition as maintained by local historians. The fragments are cataloged under number 306 in Felix Jacoby&#x27;s definitive collection, <strong>Die Fragmente der griechischen Historiker</strong>.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "3bis.(l1)",
+      "text": "HERODIANOS Καθολικὴ προσωιδία, Cod. Vindob. Hist. Gr. 10 fol. 25 r ., 3 ed. H. Hunger, Jahrb. Österr. Byz. Gesellsch. 16, 1967, 11.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3bis.(l1)",
+      "text": "28f.: τὰ εἰς ‘—νοσ‘ λήγοντα ὑπὲρ δύο συλλαβὰς ἔχοντα ..., εἰ μὴ παρασχηματίζοιτο εἰς θηλυκὸν γένος, προπαροξύνεσθαι θέλει ... (Z. 8) ‘Ἄγανοσ‘, φημὶ τὸ κύριον. υἱὸν δὲ Ἀλεξάνδρου καὶ Ἑλένης γεγενῆσθαί φησι Λυσίμαχος ἐν ια 〈τῶν〉 ἐπιγραφομένων {τῶν} Νόστων (382 F 12b). τὸ δὲ αὐτό φησι καὶ Δεινίας ὁ Ἀργολικὸς ἐν β τῆς ἐπιγραφομένης Ὀρεστεία ς.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "bta-aa",
+      "title": {
+        "english": "Argive Historical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dinias-of-argos-historical-fragments-bta-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dinias-of-argos/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos-historical-fragments-bta-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos-historical-fragments-bta-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos-historical-fragments-bta-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos-historical-fragments-bta-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos/historical-fragments.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "fxw-aa",
+      "title": {
+        "english": "Argolic and River Lore Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "timotheus-the-pseudo-historian-argolic-river-lore-fxw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/timotheus-the-pseudo-historian/argolic-river-lore",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-pseudo-historian-argolic-river-lore-fxw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-pseudo-historian-argolic-river-lore-fxw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-pseudo-historian-argolic-river-lore-fxw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-pseudo-historian-argolic-river-lore-fxw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-pseudo-historian/argolic-river-lore.epub"
+      }
+    },
+    {
+      "eul_wid": "vae-ab",
+      "title": {
+        "english": "Chronography, Selections",
+        "ancient_greek": "Χρονογραφία"
+      },
+      "url_slug": "john-malalas-of-antioch-chronography-ab-vae-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-malalas-of-antioch/chronography-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch-chronography-ab-vae-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch-chronography-ab-vae-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch-chronography-ab-vae-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch-chronography-ab-vae-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch/chronography-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "mps-aa",
+      "title": {
+        "english": "Fragments on Alexandrian Education",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἀλεξανδρείας Παιδείας"
+      },
+      "url_slug": "andron-of-alexandria-education-mps-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/andron-of-alexandria/education",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-alexandria-education-mps-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-alexandria-education-mps-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-alexandria-education-mps-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-alexandria-education-mps-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-alexandria/education.epub"
+      }
+    },
+    {
+      "eul_wid": "gdq-aa",
+      "title": {
+        "english": "On Heraclea",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "promathidas-of-heraclea-text-gdq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/promathidas-of-heraclea/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/promathidas-of-heraclea-text-gdq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/promathidas-of-heraclea-text-gdq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/promathidas-of-heraclea-text-gdq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/promathidas-of-heraclea-text-gdq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/promathidas-of-heraclea/text.epub"
+      }
+    },
+    {
+      "eul_wid": "egk-aa",
+      "title": {
+        "english": "On Stones and Rivers",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "thrasyllus-the-historian-stones-rivers-egk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/thrasyllus-the-historian/stones-rivers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasyllus-the-historian-stones-rivers-egk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasyllus-the-historian-stones-rivers-egk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasyllus-the-historian-stones-rivers-egk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasyllus-the-historian-stones-rivers-egk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasyllus-the-historian/stones-rivers.epub"
+      }
+    },
+    {
+      "eul_wid": "ezq-ad",
+      "title": {
+        "english": "On the Cavalry Commander",
+        "ancient_greek": "Περὶ Ἱππαρχίας"
+      },
+      "url_slug": "xenophon-of-athens-cavalry-commander-ezq-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/cavalry-commander",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-cavalry-commander-ezq-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-cavalry-commander-ezq-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-cavalry-commander-ezq-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-cavalry-commander-ezq-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/cavalry-commander.epub"
+      }
+    },
+    {
+      "eul_wid": "fza-aa",
+      "title": {
+        "english": "On the Seasons of Samos",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aethlius-of-samos-seasons-fza-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aethlius-of-samos/seasons",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aethlius-of-samos-seasons-fza-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aethlius-of-samos-seasons-fza-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aethlius-of-samos-seasons-fza-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aethlius-of-samos-seasons-fza-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aethlius-of-samos/seasons.epub"
+      }
+    },
+    {
+      "eul_wid": "ndy-aa",
+      "title": {
+        "english": "Remains of the Second Book-Ancient Orators",
+        "ancient_greek": "Λείψανα Βιβλίου Δευτέρου περὶ ἀρχαίων ῥητόρων"
+      },
+      "url_slug": "dionysius-of-halicarnassus-second-book-orators-ndy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/second-book-orators",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-second-book-orators-ndy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-second-book-orators-ndy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-second-book-orators-ndy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-second-book-orators-ndy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/second-book-orators.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/dinias-of-argos/orestes-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos-orestes-fragments-bta-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos-orestes-fragments-bta-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos-orestes-fragments-bta-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos-orestes-fragments-bta-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos/orestes-fragments.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

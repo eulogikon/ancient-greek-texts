@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "taq",
+  "auth_slug": "hesychius-of-alexandria",
+  "name": {
+    "english": "Hesychius the Alexandrian",
+    "ancient_greek": "Ἡσύχιος ὁ Ἀλεξανδρεύς"
+  },
+  "seo_h1": "The Greek Lexicon of Hesychius the Alexandrian",
+  "seo": {
+    "browser_title": "Hesychius the Alexandrian on Eulogikon Greek Archive",
+    "meta_title": "Classical Hesychius the Alexandrian Ancient Greek Lexicon",
+    "meta_description": "Hesychius the Alexandrian was a 5th-6th century CE grammarian. His monumental Greek lexicon survives. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Hesychius of Alexandria was a Greek grammarian and lexicographer who lived during the 5th or 6th century CE. No reliable biographical details about his personal life or education survive.</p>\n<p class=\"research-text\">His sole surviving work is the Lexicon, a comprehensive Greek dictionary. It is preserved only in a single, damaged 15th-century manuscript.</p>\n<p class=\"research-text\">Hesychius’s lexicon is a crucial source for ancient Greek language and literature. This alphabetical dictionary preserves countless rare, dialectal, and obscure terms, drawing extensively on now-lost lexicographical works and scholarly commentaries. It serves as an invaluable repository for fragments of lost Greek texts and is particularly important for the study of Homeric glosses, Attic comedy, and Greek dialects.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 3,
+  "works": [
+    {
+      "eul_wid": "taq-aa",
+      "title": {
+        "english": "Letter to Eulogius",
+        "ancient_greek": "Ἐπιστολὴ πρὸς Εὐλόγιον"
+      },
+      "url_slug": "hesychius-of-alexandria-letter-eulogius-taq-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/hesychius-of-alexandria/letter-eulogius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-alexandria-letter-eulogius-taq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-alexandria-letter-eulogius-taq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-alexandria-letter-eulogius-taq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-alexandria-letter-eulogius-taq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-alexandria/letter-eulogius.epub"
+      }
+    },
+    {
+      "eul_wid": "taq-ab",
+      "title": {
+        "english": "Lexicon Α–Ο",
+        "ancient_greek": "Λεξικὸν (Α—Ο)"
+      },
+      "url_slug": "hesychius-of-alexandria-lexicon-ab-taq-ab",
+      "passages": 15714,
+      "links": {
+        "html": "https://eulogikon.org/grc/hesychius-of-alexandria/lexicon-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-alexandria-lexicon-ab-taq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-alexandria-lexicon-ab-taq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-alexandria-lexicon-ab-taq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-alexandria-lexicon-ab-taq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-alexandria/lexicon-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "taq-ac",
+      "title": {
+        "english": "Lexicon Π–Ω",
+        "ancient_greek": "Λεξικὸν (Π—Ω)"
+      },
+      "url_slug": "hesychius-of-alexandria-lexicon-ac-taq-ac",
+      "passages": 3876,
+      "links": {
+        "html": "https://eulogikon.org/grc/hesychius-of-alexandria/lexicon-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-alexandria-lexicon-ac-taq-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-alexandria-lexicon-ac-taq-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-alexandria-lexicon-ac-taq-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-alexandria-lexicon-ac-taq-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-alexandria/lexicon-ac.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/hesychius-of-alexandria",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hesychius-of-alexandria-taq.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hesychius-of-alexandria-taq.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hesychius-of-alexandria-taq.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hesychius-of-alexandria-taq.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

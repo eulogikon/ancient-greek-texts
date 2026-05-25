@@ -1,0 +1,247 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "abo-aa",
+  "eul_aid": "abo",
+  "author_slug": "epigoni",
+  "work_slug": "text",
+  "url_slug": "epigoni-text-abo-aa",
+  "author": {
+    "english": "Epigoni",
+    "ancient_greek": "Ἐπίγονοι"
+  },
+  "title": {
+    "english": "Epigoni",
+    "ancient_greek": "Ἐπίγονοι"
+  },
+  "seo": {
+    "browser_title": "The Epic Poem Epigoni by the Poet Epigoni on Eulogikon",
+    "meta_title": "The Classical Epic Poem Epigoni by Epigoni in Ancient Greek",
+    "meta_description": "The lost epic Epigoni continues the Theban cycle, following the sons of the Seven against Thebes. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Epigoni is a lost epic poem belonging to the ancient Greek Epic Cycle, serving as a direct sequel to the Thebaid. It recounts the successful expedition mounted by the sons of the Seven against Thebes, undertaken a generation later to avenge their fathers&#x27; catastrophic failure. While some ancient authorities attributed the work to Homer, other traditions named Antimachus of Teos or an anonymous poet as its author. Composed during the Archaic period, likely in the seventh or sixth century BCE, the poem&#x27;s narrative is now known principally from a prose summary compiled by the fifth-century CE scholar Proclus.</p>\n<p class=\"research-text\">According to this summary, the epic opened with the mustering of the Epigoni army. The plot encompassed the death of the renowned Theban seer Teiresias, the subsequent capture and sack of the city of Thebes, and the division of the spoils. A notable element involved the dedication of Teiresias&#x27;s daughter, Manto, as an offering to Apollo at Delphi. No continuous text of the epic survives; our knowledge depends entirely on Proclus&#x27;s summary and on scattered fragments and references in later authors such as Pausanias and Strabo.</p>\n<p class=\"research-text\">The poem held significant cultural importance as it completed a major cycle of Theban legend, cementing central themes of intergenerational vengeance and heroic destiny. Its story proved highly influential, providing source material for later Athenian tragedians including Sophocles and Euripides. For modern scholarship, the summary preserved by Proclus remains a crucial narrative link, offering essential insight into the structure and content of the broader Epic Cycle.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Νῦν αὖθ’ ὁπλοτέρων ἀνδρῶν ἀρχώμεθα, Μοῦσαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.1",
+      "text": "ἐκ γὰρ δώρων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.2",
+      "text": "πολλὰ κάκ’ ἀνθρώποισι πέλονται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6",
+      "text": "ὣς οἱ μὲν δαίνυντο βοῶν κρέα, καὐχένας ἵππων ἔκλυον ἱδρώοντας, ἐπεὶ πολέμοιο κορέσθην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.1",
+      "text": "θωρήσσοντ’ ἄρ’ ἔπειτα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.2",
+      "text": "πεπαυμένοι 〈–⏑⏑–⏓〉 πύργων δ’ ἐξεχέοντο, βοὴ δ’ ἄσβεστος ὀρώρει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.1",
+      "text": "ἐκ μὲν Ἐριχθονίου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.2",
+      "text": "ποτιμάστιον ἔσχεθε κοῦρον Αὐτόλυκον, πολέων κτεάνων σίνιν Ἄργεϊ κοίλωι.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "uuu-aa",
+      "title": {
+        "english": "Abduction of Helen",
+        "ancient_greek": "Ἁρπαγὴ Ἑλένης"
+      },
+      "url_slug": "colluthus-of-lycopolis-abduction-of-helen-uuu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/colluthus-of-lycopolis/abduction-of-helen",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/colluthus-of-lycopolis-abduction-of-helen-uuu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/colluthus-of-lycopolis-abduction-of-helen-uuu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/colluthus-of-lycopolis-abduction-of-helen-uuu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/colluthus-of-lycopolis-abduction-of-helen-uuu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/colluthus-of-lycopolis/abduction-of-helen.epub"
+      }
+    },
+    {
+      "eul_wid": "lek-aa",
+      "title": {
+        "english": "Atthis Spurious Fragment",
+        "ancient_greek": "Ἄτθις Ψευδὲς Ἀπόσπασμα"
+      },
+      "url_slug": "hegesinus-the-epic-poet-atthis-fragment-lek-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hegesinus-the-epic-poet/atthis-fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesinus-the-epic-poet-atthis-fragment-lek-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesinus-the-epic-poet-atthis-fragment-lek-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesinus-the-epic-poet-atthis-fragment-lek-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesinus-the-epic-poet-atthis-fragment-lek-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesinus-the-epic-poet/atthis-fragment.epub"
+      }
+    },
+    {
+      "eul_wid": "utg-ac",
+      "title": {
+        "english": "Fragments on Lydian Genealogy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Λυδικῆς Γενεαλογίας"
+      },
+      "url_slug": "christodorus-of-coptus-lydia-genealogy-utg-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/christodorus-of-coptus/lydia-genealogy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus-lydia-genealogy-utg-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus-lydia-genealogy-utg-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus-lydia-genealogy-utg-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus-lydia-genealogy-utg-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus/lydia-genealogy.epub"
+      }
+    },
+    {
+      "eul_wid": "rki-aa",
+      "title": {
+        "english": "Fragments on Mythological Figures",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μυθικῶν Προσώπων"
+      },
+      "url_slug": "peisander-of-laranda-mythological-figures-rki-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/peisander-of-laranda/mythological-figures",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-laranda-mythological-figures-rki-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-laranda-mythological-figures-rki-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-laranda-mythological-figures-rki-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-laranda-mythological-figures-rki-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-laranda/mythological-figures.epub"
+      }
+    },
+    {
+      "eul_wid": "aau-ae",
+      "title": {
+        "english": "Fragments on Women",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γυναικῶν"
+      },
+      "url_slug": "hesiod-women-aau-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/hesiod/women",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod-women-aau-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod-women-aau-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod-women-aau-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod-women-aau-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/women.epub"
+      }
+    },
+    {
+      "eul_wid": "kjq-an",
+      "title": {
+        "english": "Inaugural Speech",
+        "ancient_greek": "Λόγος ἐπιβατήριος"
+      },
+      "url_slug": "epic-fragments-anonymous-inaugural-speech-kjq-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/inaugural-speech",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-inaugural-speech-kjq-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-inaugural-speech-kjq-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-inaugural-speech-kjq-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-inaugural-speech-kjq-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/inaugural-speech.epub"
+      }
+    },
+    {
+      "eul_wid": "cyy-aa",
+      "title": {
+        "english": "Poem of Naupactus, Fragments",
+        "ancient_greek": "Ναυπάκτια Ἀποσπάσματα"
+      },
+      "url_slug": "epic-work-anonymous-naupactus-fragments-cyy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-work-anonymous/naupactus-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-work-anonymous-naupactus-fragments-cyy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-work-anonymous-naupactus-fragments-cyy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-work-anonymous-naupactus-fragments-cyy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-work-anonymous-naupactus-fragments-cyy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-work-anonymous/naupactus-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "kjq-aq",
+      "title": {
+        "english": "Wedding Song",
+        "ancient_greek": "Γαμήλιον Ἄσμα"
+      },
+      "url_slug": "epic-fragments-anonymous-wedding-song-kjq-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/wedding-song",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-wedding-song-kjq-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-wedding-song-kjq-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-wedding-song-kjq-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-wedding-song-kjq-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/wedding-song.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/epigoni/text",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigoni-text-abo-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigoni-text-abo-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigoni-text-abo-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigoni-text-abo-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigoni/text.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

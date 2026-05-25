@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ine",
+  "auth_slug": "deimachus-of-plataea-i",
+  "name": {
+    "english": "Deimachus of Plataea I",
+    "ancient_greek": "Δείμαχος ὁ Πλαταιεύς"
+  },
+  "seo_h1": "Deimachus of Plataea on India",
+  "seo": {
+    "browser_title": "Deimachus of Plataea on Eulogikon Greek Texts Archive",
+    "meta_title": "Deimachus of Plataea Ancient Greek Historical Works",
+    "meta_description": "Deimachus of Plataea, Hellenistic historian of the 3rd century BCE. Surviving fragments of his work. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects (frg)",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Deimachus of Plataea was a Hellenistic historian of the 3rd century BCE. He served as a diplomat, having been a member of a Seleucid embassy sent by King Antiochus I Soter to the court of the Mauryan emperor Bindusara in India around the mid-3rd century BCE. No further biographical details are recorded.</p>\n<p class=\"research-text\">Deimachus authored a work on India, now lost and surviving only in fragments cited by later authors like Strabo and Pliny the Elder. Strabo references him alongside other early writers on India but is critical of his account&#x27;s reliability. The original title of the work is not preserved.</p>\n<p class=\"research-text\">Deimachus is significant as one of the earliest Greek historians to write about India, contributing to the Hellenistic world&#x27;s knowledge during the period of Seleucid-Mauryan contact. Though his work was considered less credible by ancient authorities like Strabo, it provided later geographers and historians with material on Indian geography, customs, and natural history. He remains a minor but notable source in the tradition of Greek historiography on India.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ine-aa",
+      "title": {
+        "english": "On India",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "deimachus-of-plataea-i-india-ine-aa",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/deimachus-of-plataea-i/india",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deimachus-of-plataea-i-india-ine-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deimachus-of-plataea-i-india-ine-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deimachus-of-plataea-i-india-ine-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deimachus-of-plataea-i-india-ine-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deimachus-of-plataea-i/india.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/deimachus-of-plataea-i",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/deimachus-of-plataea-i-ine.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/deimachus-of-plataea-i-ine.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/deimachus-of-plataea-i-ine.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/deimachus-of-plataea-i-ine.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

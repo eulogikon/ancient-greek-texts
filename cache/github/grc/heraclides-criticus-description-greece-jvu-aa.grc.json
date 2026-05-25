@@ -1,0 +1,464 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "jvu-aa",
+  "eul_aid": "jvu",
+  "author_slug": "heraclides-criticus",
+  "work_slug": "description-greece",
+  "url_slug": "heraclides-criticus-description-greece-jvu-aa",
+  "author": {
+    "english": "Heraclides Criticus",
+    "ancient_greek": "Ἡρακλείδης ὁ Κριτικός"
+  },
+  "title": {
+    "english": "Description of Greece",
+    "ancient_greek": "Περιήγησις τῆς Ἑλλάδος Δικαίαρχου ἢ Ἀθηναίου"
+  },
+  "seo": {
+    "browser_title": "Description of Greece by Heraclides Criticus on Eulogikon",
+    "meta_title": "Description of Greece by Heraclides Criticus in Greek",
+    "meta_description": "A Hellenistic travelogue in fragments with geographical and cultural observations. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γεωγραφία",
+      "english": "Geography",
+      "href": "/domains/geography"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Description of Greece</strong> is a Hellenistic-era travelogue composed in Attic Greek prose by Heraclides Criticus, an obscure author of the 3rd century BCE. The work survives only in fragments, transmitted through quotations by later authors such as the geographer Strabo and the lexicographer Athenaeus. Structured as a first-person narrative, it traces a journey from the border of Attica through Athens and across the Peloponnese to Sparta. Eschewing the mythological digressions common to later periegetic literature, the account concentrates on practical and ethnographic observation. The extant passages offer descriptions of landscapes, urban topography, local customs, and economic conditions, frequently including the author&#x27;s subjective critiques of the character of the various Greek peoples he encounters. This pragmatic focus, interpreted by modern scholars as reflective of Hellenistic-era interests, suggests the work was intended for a practical audience of travelers, merchants, or officials. Approximately thirty-nine fragments have been collected by modern editors, providing a valuable, though incomplete, snapshot of contemporary Greek life. The original scope and full content of the work remain uncertain.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "T 1",
+      "text": "[ΔΙΚΑΙΑΡΧΟΥ, ΩΣ ΦΕΡΕΤΑΙ, ΜΑΛΛΟΝ ΔΕ ΑΘΗΝΑΙΟΥ ΠΕΡΙΗΓΗΣΕΩΣ ΕΛΛΑΔΟΣ ΑΠΟΣΠΑΣΜΑΤΑ ΤΡΙΑ.] (ΑΘΗΝΑΙΟΥ ΠΟΛΕΩΝ ΣΚΩΜΜΑΤΑ ΚΑΙ ΟΔΟΙ ΚΑΙ ΠΕΡΙΠΛΟΥΣ.) Ἐντεῦθεν εἰς τὸ Ἀθηναίων ἔπεισιν * ἄστυ· ὁδὸς δὲ ἡδεῖα, γεωργουμένη πᾶσα, ἔχουσά [τι] τῇ ὄψει φιλάνθρωπον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 1",
+      "text": "Ἡ δὲ πόλις ξηρὰ πᾶσα, οὐκ εὔυδρος, κακῶς ἐρρυμοτομημένη διὰ τὴν ἀρχαιότητα. Αἱ μὲν πολλαὶ τῶν οἰκιῶν εὐτελεῖς, ὀλίγαι δὲ χρήσιμαι. Ἀπιστηθείη δ’ ἂν ἐξαίφνης ὑπὸ τῶν ξένων θεωρουμένη, εἰ αὐτή ἐστιν ἡ προσαγορευομένη τῶν Ἀθηναίων πόλις· μετ’ οὐ πολὺ δὲ πιστεύσειεν ἄν τις. Ὠδεῖον τῶν ἐν τῇ οἰκουμένῃ κάλλιστον· θέατρον ἀξιόλογον, μέγα καὶ θαυμαστόν· Ἀθηνᾶς ἱερὸν πολυτελὲς, ἀπόψιον, ἄξιον θεᾶς, ὁ καλούμενος Παρθενὼν, ὑπερκείμενον τοῦ θεάτρου· μεγάλην κατάπληξιν ποιεῖ τοῖς θεωροῦσιν· Ὀλύμπιον, ἡμιτελὲς μὲν, κατάπληξιν δ’ ἔχον τὴν τῆς οἰκοδομίας ὑπογραφὴν, γενόμενον δ’ ἂν βέλτιστον, εἴπερ συνετελέσθη· γυμνάσια τρία, Ἀκαδημία, Λύκειον, Κυνόσαργες, πάντα κατάδενδρά τε καὶ τοῖς ἐδάφεσι ποώδη, χόρτοι παντοθαλεῖς φιλοσόφων παντοδαπῶν, ψυχῆς ἀπάται καὶ ἀναπαύσεις· σχολαὶ πολλαὶ, θέαι συνεχεῖς. Τὰ γινόμενα ἐκ τῆς γῆς πάντα ἀτίμητα καὶ πρῶτα τῇ γεύσει, μικρῷ δὲ σπανιώτερα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 2",
+      "text": "** Ἀλλ’ ἡ τῶν ξένων ἑκάστοις συνοικειουμένη ταῖς ἐπιθυμίαις εὐάρμοστος διατριβὴ περισπῶσα τὴν διάνοιαν ἐπὶ τὸ ἀρέσκον λήθην τῆς δουλείας ἐργάζεται. Ἔστι δὲ ταῖς μὲν θέαις (ἡ πόλις) καὶ σχολαῖς τοῖς δημοτικοῖς ἀνεπαίσθητος [ὁ] λιμὸς, λήθην ἐμποιούσαις τῆς τῶν σίτων προσφορᾶς· ἐφόδια δὲ ἔχουσιν οὐδεμία τοιαύτη πρὸς ἡδονήν .... Καὶ ἕτερα δὲ ἡ πόλις ἡδέα ἔχει καὶ πολλά. Καὶ γὰρ αἱ σύνεγγυς αὐτῆς πόλεις προάστεια τῶν Ἀθηναίων εἰσίν .... Ἀγαθοὶ δὲ οἱ κατοικοῦντες αὐτὴν παντὶ τεχνίτῃ περιποιῆσαι δόξαν μεγάλην, ἐπὶ τοῖς εὖ τετεχνημένοις ἐκβάλλοντες τὰς εὐημερίας, [ὡς] θαυμαστὸν τὴν πόλιν λιθίνων ζώων [εἶναι] διδασκαλεῖον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 4",
+      "text": "Τῶν δ’ ἐνοικούντων οἱ μὲν αὐτῶν Ἀττικοὶ, οἱ δ’ Ἀθηναῖοι. Οἱ μὲν Ἀττικοὶ περίεργοι ταῖς λαλιαῖς, ὕπουλοι, συκοφαντώδεις, παρατηρηταὶ τῶν ξενικῶν βίων· οἱ δ’ Ἀθηναῖοι μεγαλόψυχοι, ἁπλοῖ τοῖς τρόποις, φιλίας γνήσιοι φύλακες. Διατρέχουσι δέ τινες ἐν τῇ πόλει λογογράφοι, σείοντες τοὺς παρεπιδημοῦντας καὶ εὐπόρους τῶν ξένων· οὓς ὅταν ὁ δῆμος λάβῃ, σκληραῖς περιβάλλει ζημίαις. Οἱ δὲ εἰλικρινεῖς Ἀθηναῖοι δριμεῖς τῶν τεχνῶν ἀκροαταὶ καὶ θεαταὶ συνεχεῖς. Τὸ καθόλου δ’ ὅσον αἱ λοιπαὶ πόλεις πρός τε ἡδονὴν καὶ βίου διόρθωσιν τῶν ἀγρῶν διαφέρουσι, τοσοῦτον τῶν λοιπῶν πόλεων ἡ τῶν Ἀθηναίων παραλλάττει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 5",
+      "text": "Φυλακτέον δ’ ὡς ἔνι μάλιστα τὰς ἑταίρας, μὴ λάθῃ τις ἡδέως ἀπολόμενος. Ὁ στίχος Λυσίππου· Εἰ μὴ τεθέασαι τὰς Ἀθήνας, στέλεχος εἶ· εἰ δὲ τεθέασαι, μὴ τεθήρευσαι δ’, ὄνος· εἰ δ’ εὐαρεστῶν ἀποτρέχεις, κανθήλιος. Αὕτη πόλις ἔσθ’ Ἑλληνὶς ἡ ῥόδοις ἴσην εὐωδίαν ἔχουσα χἄμ’ ἀηδίαν. Τὰ γὰρ ἁλίεια τὰ μεγάλ’ εἰς σχολὴν ἄγει, τὸ δ’ ἁλιακὸν ἔτος με μαίνεσθαι ποιεῖ. Ὅταν δὲ τὴν λεύκην τις αὐτῶν πρᾳέως ἁλιακὸν εἶναι στέφανον εἴπῃ, πνίγομαι οὕτως ἐπ’ αὐτοῖς, ὥστε μᾶλλον ἂν θέλειν ἀποκαρτερεῖν, ἢ ταῦτ’ ἀκούων καρτερεῖν. Τοιοῦτο τῶν ξένων τι καταχεῖται σκότος. Ἐντεῦθεν εἰς Ὠρωπὸν δι’ Ἀφιδνῶν καὶ τοῦ Ἀμφιαράου Διὸς ἱεροῦ ὁδὸν ἐλευθέρῳ βαδίζοντι σχεδὸν ἡμέρας προσάντη [πάντα]· ἀλλ’ ἡ τῶν καταλύσεων πολυπλήθεια τὰ πρὸς τὸν βίον ἔχουσα ἄφθονα καὶ ἀναπαύσεις κωλύει κόπον ἐγγίνεσθαι τοῖς ὁδοιποροῦσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 7",
+      "text": "Ἡ δὲ πόλις τῶν Ὠρωπίων [συν]οικία θητῶν ἐστὶ, μεταβόλων ἐργασία, τελωνῶν ἀνυπέρβλητος πλεονεξία, ἐκ πολλῶν χρόνων ἀνεπιθέτῳ (τῇ) πονηρίᾳ συντεθραμμένη· τελωνοῦσι γὰρ καὶ τὰ μέλλοντα πρὸς αὐτοὺς εἰσάγεσθαι. Οἱ πολλοὶ αὐτῶν τραχεῖς ἐν ταῖς ὁμιλίαις, τοὺς συνετοὺς ἐπανελόμενοι. Ἀρνούμενοι τοὺς Βοιωτοὺς Ἀθηναῖοί εἰσι Βοιωτοί. Οἱ στίχοι Ξένωνος· Πάντες τελῶναι, πάντες εἰσὶν ἅρπαγες. Κακὸν τέλος γένοιτο τοῖς Ὠρωπίοις. Ἐντεῦθεν εἰς Τάναγραν στάδια ρλʹ· ὁδὸς δι’ ἐλαιοφύτου καὶ συνδένδρου χώρας, παντὸς καθαρεύουσα τοῦ ἀπὸ τῶν κλώπων φόβου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 8",
+      "text": "Ἡ δὲ πόλις τραχεῖα μὲν καὶ μετέωρος, λευκὴ δὲ τῇ ἐπιφανείᾳ καὶ ἀργιλλώδης· τοῖς δὲ τῶν οἰκιῶν προθύροις καὶ ἐγκαύμασιν ἀναθεματικοῖς κάλλιστα κατεσκευασμένη. Καρποῖς δὲ τοῖς ἐκ τῆς χώρας σιτικοῖς οὐ λίαν ἄφθονος, οἴνῳ δὲ τῷ γινομένῳ κατὰ τὴν Βοιωτίαν πρωτεύουσα. Οἱ δ’ ἐνοικοῦντες ταῖς μὲν οἰσίαις λαμπροὶ, τοῖς δὲ βίοις λιτοί· πάντες γεωργοὶ, οὐκ ἐργάται· δικαιοσύνην, πίστιν, ξενίαν ἀγαθοὶ διαφυλάξαι· τοῖς δεομένοις τῶν πολιτῶν καὶ τοῖς στιχοπλανήταις τῶν ἀποδημητικῶν ἀφ’ ὧν ἔχουσιν ἀπαρχόμενοί τε καὶ ἐλευθέρως μεταδιδόντες, ἀλλότριοι πάσης ἀδίκου πλεονεξίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 9",
+      "text": "Καὶ ἐνδιατρῖψαι δὲ ξένοις ἀσφαλεστάτη ἡ πόλις τῶν κατὰ τὴν Βοιωτίαν· ὕπεστι γὰρ αὐθέκαστός τε καὶ παραύστηρος μισοπονηρία διὰ τὴν τῶν κατοικούντων αὐτάρκειάν τε καὶ φιλεργίαν. Προσπάθειαν γὰρ πρός τι γένος ἀκρασίας ἥκιστα ἐν ταύτῃ τῇ πόλει κατενόησα, δι’ ἣν ὡς ἐπὶ τὸ πολὺ τὰ μέγιστα γίνεται ἐν τοῖς ἀνθρώποις ἀδικήματα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 10",
+      "text": "Οὗ γὰρ βίος ἐστὶν ἱκανὸς, προσπάθεια πρὸς κέρδος οὐ φύεται· χαλεπὸν ἄρα τούτοις ἐγγίνεσθαι πονηρίαν. Ἐντεῦθεν εἰς Πλαταιὰς στάδια σʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 11",
+      "text": "Ὁδὸς ἡσυχῆ μὲν ἔρημος καὶ λιθώδης, ἀνατείνουσα δὲ πρὸς τὸν Κιθαιρῶνα, οὐ λίαν δὲ ἐπισφαλής. Ἡ δὲ πόλις κατὰ τὸν κωμῳδιῶν ποιητὴν Ποσείδιππον ναοὶ δύ’ εἰσὶ καὶ στοὰ καὶ τοὔνομα, καὶ τὸ βαλανεῖον καὶ τὸ Σηράμβου κλέος, τὸ πολὺ μὲν ἀκτὴ, τοῖς δ’ Ἐλευθερίοις πόλις. Οἱ δὲ πολῖται οὐδὲν ἕτερον ἔχουσι λέγειν, ἢ ὅτι Ἀθηναίων εἰσὶν ἄποικοι καὶ ὅτι τῶν Ἑλλήνων καὶ Περσῶν παρ’ αὐτοῖς ἡ μάχη ἐγένετο. Εἰσὶ δὲ Ἀθηναῖοι Βοιωτοί. Ἐντεῦθεν εἰς Θήβας στάδια πʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 12",
+      "text": "Ὁδὸς λεία πᾶσα καὶ ἐπίπεδος. Ἡ δὲ πόλις ἐν μέσῳ μὲν τῆς τῶν Βοιωτῶν κεῖται χώρας, τὴν περίμετρον ἔχουσα σταδίων οʹ· πᾶσα δ’ ὁμαλή· στρογγύλη μὲν τῷ σχήματι, τῇ χρόᾳ δὲ μελάγγειος· ἀρχαία μὲν οὖσα, καινῶς δ’ ἐρρυμοτομημένη διὰ τὸ τρὶς ἤδη, ὥς φασιν αἱ ἱστορίαι, κατεσκάφθαι διὰ τὸ βάρος καὶ τὴν ὑπερηφανίαν τῶν κατοικούντων. Καὶ ἱπποτρόφος δὲ ἀγαθή, κάθυδρος πᾶσα, χλωρά τε καὶ γεώλοφος, κηπεύματα ἔχουσα πλεῖστα τῶν ἐν τῇ Ἑλλάδι πόλεων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 13",
+      "text": "Καὶ γὰρ ποταμοὶ ῥέουσι δι’ αὐτῆς δύο τὸ ὑποκείμενον τῇ πόλει πεδίον πᾶν ἀρδεύοντες. Φέρεται δὲ καὶ ἀπὸ τῆς Καδμείας ὕδωρ ἀφανὲς διὰ σωλήνων ἀγόμενον ὑπὸ Κάδμου τὸ παλαιὸν, ὡς λέγουσι, κατεσκευασμένον. Ἡ μὲν οὖν πόλις τοιαύτη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 14",
+      "text": "Οἱ δ’ ἐνοικοῦντες μεγαλόψυχοι καὶ θαυμαστοὶ ταῖς κατὰ τὸν βίον εὐελπιστίαις· θρασεῖς δὲ καὶ ὑβρισταὶ καὶ ὑπερήφανοι, πλῆκταί τε καὶ ἀδιάφοροι πρὸς πάντα ξένον καὶ δημότην καὶ κατανωτισταὶ παντὸς δικαίου· πρὸς τὰ ἀμφισβητούμενα τῶν συναλλαγμάτων οὐ λόγῳ συνιστάμενοι, τὴν δ’ ἐκ τοῦ θράσους καὶ τῶν χειρῶν προσάγοντες βίαν, τὰ ἐν τοῖς γυμνικοῖς ἀγῶσι γινόμενα πρὸς αὑτοὺς τοῖς ἀθληταῖς βίαια εἰς τὴν δικαιολογίαν μεταφέροντες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 16",
+      "text": "Διὸ καὶ αἱ δίκαι παρ’ αὐτοῖς δι’ ἐτῶν τοὐλάχιστον εἰσάγονται τριάκοντα. Ὁ γὰρ μνησθεὶς ἐν τῷ πλήθει περί τινος τοιούτου καὶ μὴ εὐθέως ἀπάρας ἐκ τῆς Βοιωτίας, ἀλλὰ τὸν ἐλάχιστον μείνας ἐν τῇ πόλει χρόνον, μετ’ οὐ πολὺ παρατηρηθεὶς νυκτὸς ὑπὸ τῶν οὐ βουλομένων τὰς δίκας συντελεῖσθαι θανάτῳ βιαίῳ ζημιοῦται. Φόνοι δὲ παρ’ αὐτοῖς διὰ τὰς τυχούσας γίγνονται αἰτίας. Τοὺς μὲν οὖν ἄνδρας συμβαίνει τοιούτους εἶναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 17",
+      "text": "Διατρέχουσι δέ τινες ἐν αὐτοῖς ἀξιόλογοι, μεγαλόψυχοι, πάσης ἄξιοι φιλίας. Αἱ δὲ γυναῖκες αὐτῶν τοῖς μεγέθεσι, πορείαις, ῥυθμοῖς εὐσχημονέσταταί τε καὶ εὐπρεπέσταται τῶν ἐν τῇ Ἑλλάδι γυναικῶν. Μαρτυρεῖ Σοφοκλῆς· Θήβας λέγεις μοὶ τὰς πύλας ἑπταστόμους, οὗ δὴ μόνον τίκτουσιν αἱ θνηταὶ θεούς. Τὸ τῶν ἱματίων ἐπὶ τῆς κεφαλῆς κάλυμμα τοιοῦτόν ἐστιν, ὥστε προσωπιδίῳ δοκεῖν πᾶν τὸ πρόσωπον κατειλῆφθαι· οἱ γὰρ ὀφθαλμοὶ διαφαίνονται μόνον, τὰ δὲ λοιπὰ μέρη τοῦ προσώπου πάντα κατέχεται τοῖς ἱματίοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 18",
+      "text": "Φοροῦσι δ’ αὐτὰ πᾶσαι λευκά. Τὸ δὲ τρίχωμα ξανθὸν, ἀναδεδεμένον μέχρι τῆς κορυφῆς· ὃ δὴ καλεῖται ὑπὸ τῶν ἐγχωρίων λαμπάδιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 19",
+      "text": "Ὑπόδημα λιτὸν, οὐ βαθὺ, φοινικοῦν δὲ τῇ χροιᾷ καὶ ταπεινὸν, ὑσκλωτὸν δ’, ὥστε γυμνοὺς σχεδὸν ἐκφαίνεσθαι τοὺς πόδας. Εἰσὶ δὲ καὶ ταῖς ὁμιλίαις οὐ λίαν Βοιώτιαι, μᾶλλον δὲ Σικυώνιαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 20",
+      "text": "Καὶ ἡ φωνὴ δ’ αὐτῶν ἐστὶν ἐπίχαρις· τῶν δ’ ἀνθρώπων ἀτερπὴς καὶ βαρεῖα. Ἐνθερίσαι μὲν ἡ πόλις οἵα βελτίστη· τό τε γὰρ ὕδωρ πολὺ ἔχει καὶ ψυχρὸν καὶ κήπους· ἔτι δ’ εὐήνεμός ἐστι καὶ χλωρὰν ἔχουσα τὴν πρόσοψιν, ἐχόπωρός τε καὶ τοῖς θερινοῖς ὠνίοις ἄφθονος· ἄξυλος δὲ καὶ ἐγχειμάσαι οἵα χειρίστη διά τε τοὺς ποταμοὺς καὶ τὰ πνεύματα· καὶ γὰρ νίφεται καὶ πηλὸν ἔχει πολύν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 22",
+      "text": "Οἱ στίχοι Λάωνος (γράφει δ’ ἐπαινῶν αὐτοὺς καὶ οὐ λέγων τὴν ἀλήθειαν· μοιχὸς γὰρ ἁλοὺς ἀφείθη μικροῦ διαφόρου τὸν ἀδικηθέντα ἐξαγοράσας)· Βοιωτὸν ἄνδρα στέργε, τὴν Βοιωτίαν μὴ φεῦγ’· ὁ μὲν γὰρ χρηστὸς, ἡ δ’ ἐφίμερος. Ἐντεῦθεν εἰς Ἀνθηδόνα στάδια ρξʹ· ὁδὸς πλαγία· ἁμαξήλατος δι’ ἀγρῶν πορεία.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 23",
+      "text": "Ἡ δὲ πόλις οὐ μεγάλη τῷ μεγέθει, ἐπ’ αὐτῆς τῆς Εὐβοϊκῆς κειμένη θαλάττης· τὴν μὲν ἀγορὰν ἔχουσα κατάδενδρον πᾶσαν, στοαῖς ἀνειλημμένην διτταῖς. Αὕτη δὲ εὔοινος, εὔοψος, σίτων σπανίζουσα διὰ τὸ τὴν χώραν εἶναι λυπράν. Οἱ δ’ ἐνοικοῦντες σχεδὸν πάντες ἁλιεῖς, ἀπ’ ἀγκίστρων καὶ ἰχθύων, ἔτι δὲ καὶ πορφύρας καὶ σπόγγων τὸν βίον ἔχοντες, ἐν αἰγιαλοῖς τε καὶ φύκει καὶ καλύβαις καταγεγηρακότες· πυρροὶ ταῖς ὄψεσι πάντες τε λεπτοὶ, τὰ δ’ ἄκρα τῶν ὀνύχων καταβεβρωμένοι, ταῖς κατὰ θάλατταν ἐργασίαις προσπεπονθότες, πορθμεῖς οἱ πλεῖστοι καὶ ναυπηγοὶ, τὴν δὲ χώραν οὐχ οἷον ἐργαζόμενοι, ἀλλ’ οὐδὲ ἔχοντες, αὑτοὺς φάσκοντες ἀπογόνους εἶναι Γλαύκου τοῦ θαλασσίου, ὃς ἁλιεὺς ἦν ὁμολογουμένως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 25",
+      "text": "Ἡ μὲν οὖν Βοιωτία τοιαύτη· αἱ γὰρ Θεσπιαὶ φιλοτιμίαν (μὲν) ἔχουσι μόνον ἀνδρῶν καὶ ἀνδριάντας εὖ πεποιημένους, ἄλλο οὐδέν. Ἱστοροῦσι δ’ οἱ Βοιωτοὶ τὰ κατ’ αὐτοὺς ὑπάρχοντα ἴδια ἀκληρήματα λέγοντες ταῦτα· τὴν μὲν αἰσχροκέρδειαν κατοικεῖν ἐν Ὠρωπῷ, τὸν δὲ φθόνον ἐν Τανάγρᾳ, τὴν φιλονεικίαν ἐν Θεσπιαῖς, τὴν ὕβριν ἐν Θήβαις, τὴν πλεονεξίαν ἐν Ἀνθηδόνι, τὴν περιεργίαν ἐν Κορωνείᾳ, ἐν Πλαταιαῖς τὴν ἀλαζονείαν, τὸν πυρετὸν ἐν Ὀγχηστῷ, τὴν ἀναισθησίαν ἐν Ἁλιάρτῳ. Τάδ’ ἐκ πάσης τῆς Ἑλλάδος ἀκληρήματα εἰς τὰς τῆς Βοιωτίας πόλεις κατερρύη. Ὁ στίχος Φερεκράτους· Ἄνπερ φρονῇς εὖ, φεῦγε τὴν Βοιωτίαν. Ἡ μὲν οὖν τῶν Βοιωτῶν χώρα τοιαύτη. Ἐξ Ἀνθηδόνος εἰς Χαλκίδα στάδια οʹ· μέχρι τοῦ Σαλγανέως ὁδὸς παρὰ τὸν αἰγιαλὸν λεία τε πᾶσα καὶ μαλακή· τῇ μὲν καθήκουσα εἰς θάλατταν, τῇ δὲ ὄρος οὐχ ὑψηλὸν μὲν ἔχουσα, λάσιον δὲ καὶ ὕδασι πηγαίοις κατάρρυτον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 27",
+      "text": "Ἡ δὲ τῶν Χαλκιδέων πόλις ἐστὶ μὲν σταδίων οʹ, μείζων τῆς ἐξ Ἀνθηδόνος εἰς αὐτὴν φερούσης ὁδοῦ· γεώλοφος δὲ πᾶσα καὶ σύσκιος, ὕδατα ἔχουσα τὰ μὲν πολλὰ ἁλυκὰ, ἓν δ’ ἡσυχῆ μὲν ὑπόπλατυ, τῇ δὲ χρείᾳ ὑγιεινὸν καὶ ψυχρὸν, τὰ ἀπὸ τῆς κρήνης τῆς καλουμένης Ἀρεθούσης ῥέον ἱκανὸν, ὡς δυναμένης παρέχειν τὸ ἀπὸ τῆς πηγῆς νᾶμα πᾶσι τοῖς τὴν πόλιν κατοικοῦσι. Καὶ τοῖς κοινοῖς δὲ ἡ πόλις διαφόρως κατεσκεύασται γυμνασίοις, στοαῖς, ἱεροῖς, θεάτροις, γραφαῖς, ἀνδριάσι, τῇ ἀγορᾷ κειμένῃ πρὸς τὰς τῶν ἐργασιῶν χρείας ἀνυπερβλήτως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 29",
+      "text": "Ὁ γὰρ ἀπὸ τοῦ τῆς Βοιωτίας Σαλγανέως καὶ τῆς τῶν Εὐβοέων θαλάττης ῥοῦς εἰς τὸ αὐτὸ συμβάλλων κατὰ τὸν Εὔριπον φέρεται παρ’ αὐτὰ τὰ τοῦ λιμένος τείχη, καθ’ ὃ συμβαίνει τὴν κατὰ τὸ ἐμπόριον εἶναι πύλην, ταύτης δ’ ἔχεσθαι τὴν ἀγορὰν πλατεῖάν τε οὖσαν καὶ στοαῖς τρισὶ συνειλημμένην. Σύνεγγυς οὖν κειμένου τῆς ἀγορᾶς τοῦ λιμένος καὶ ταχείας τῆς ἐκ τῶν πλοίων γινομένης τῶν φορτίων ἐκκομιδῆς, πολὺς ὁ καταπλέων ἐστὶν εἰς τὸ ἐμπόριον. Καὶ γὰρ ὁ Εὔριπος δισσὸν ἔχων τὸν εἴσπλουν ἐφέλκεται τὸν ἔμπορον εἰς τὴν πόλιν. Ἡ δὲ χώρα πᾶσα αὐτῶν ἐλαιόφυτος, ἀγαθὴ δὲ καὶ ἡ θάλαττα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 30",
+      "text": "Οἱ δ’ ἐνοικοῦντες Ἕλληνες οὐ τῷ γένει μόνον, ἀλλὰ καὶ τῇ φωνῇ· τῶν μαθημάτων ἐντός· φιλαπόδημοι· γραμματικοί· τὰ προσπίπτοντα ἐκ τῆς πατρίδος δυσχερῆ γενναίως φέροντες· δουλεύοντες γὰρ πολὺν ἤδη χρόνον, τοῖς δὲ τρόποις ὄντες ἐλεύθεροι, μεγάλην εἰλήφασιν ἕξιν τοῦ φέρειν ῥᾳθύμως τὰ προσπίπτοντα. Ὁ στίχος Φιλίσκου· Χρηστῶν σφόδρ’ ἐστὶ Χαλκὶς Ἑλλήνων πόλις. Ὅτι τὸ καλούμενον Πήλιον ὄρος μέγα τ’ ἐστὶ καὶ ὑλῶδες, δένδρα ἔχον τοσαῦτα καρποφόρα, ὅσα καὶ τὰς τῶν γεωργουμένων συμβαίνει χώρας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 1",
+      "text": "Τοῦ δ’ ὄρους ἡ μεγίστη καὶ λασιωτάτη ῥίζα τῆς πόλεως κατὰ μὲν πλοῦν ζʹ ἀπέχει στάδια, πεζῇ δὲ κʹ. Πᾶν δ’ ἐστὶ τὸ ὄρος μαλακὸν, γεώλοφόν τε καὶ πάμφορον· ὕλης δ’ ἐν αὐτῷ πᾶν φύεται γένος· πλείστην δ’ ὀξύην ἔχει καὶ ἐλάτην, σφένδαμνόν τε καὶ ζυγίαν, ἔτι δὲ κυπάρισσον καὶ κέδρον· ἔστι δ’ ἐν αὐτῷ καὶ ἄνθη, τά τε ἄγρια καλούμενα λείρια καὶ λυχνῖδες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 3",
+      "text": "Γίνεται δ’ ἐν αὐτῷ καὶ βοτάνη ἐν τοῖς χερσώδεσι μάλιστα χωρίοις καὶ ῥίζα δένδρου, ἥτις τῶν ὄφεων δήγματα δοκεῖ ἀπέχειν ἐπικίνδυνα· τοὺς μὲν ἐκ τῆς χώρας ἐν ᾗ πέφυκε τῇ ὀσμῇ μακρὰν ἀπελαύνει, τοὺς δ’ ἐγγίσαντας ἀχρειοῖ, κάρον καταχέουσα, τοὺς δ’ ἁψαμένους αὐτῆς ἀναιρεῖ τῇ ὀσμῇ· τοιαύτην τὴν δύναμιν ἔχει, τοῖς δ’ ἀνθρώποις ἡδεῖα καταφαίνεται· τῇ τοῦ θύμου γάρ ἐστιν ἀνθοῦντος ὀσμῇ παραπλησία, τοὺς δὲ δηχθέντας ὑφ’ οὑποτοῦν ὄφεως ἐν οἴνῳ δοθεῖσα ὑγιάζει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 5",
+      "text": "Φύεται δ’ ἐν τῷ ὄρει καὶ καρπὸς ἀκάνθης, ταῖς λευκαῖς παραπλήσιος μύρτοις· ὃν ὅταν τις τρίψας ἐλαίῳ καταχρίσαι τὸ σῶμα, τοῦ μεγίστου χειμῶνος οὐ λαμβάνει τὴν ἐπαίσθησιν ἢ πάνυ βραχεῖαν, οὐδὲ ἐν τῷ θέρει τοῦ καύματος, κωλύοντος τοῦ φαρμάκου τῇ αὐτοῦ πυκνώσει τὸν ἔξωθεν ἀέρα (καταμάθοις) διϊκνεῖσθαι τοῦ σώματος. Σπάνιος δ’ ἐστὶν ὁ καρπὸς οὗτος καὶ ἐν φάραγξι καὶ ἐν τόποις φυόμενος ἀποκρήμνοις, ὥστε μόλις μὲν εὑρεῖν, ἂν δ’ εὕρῃ τις, μὴ εὐχερῶς δύνασθαι λαβεῖν, ἂν δ’ ἐπιχειρῇ λαμβάνειν, κινδυνεύειν ἀπὸ τῶν πετρῶν κατακυλισθέντα διαφθαρῆναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 6",
+      "text": "Μένει δ’ ἡ δύναμις ἕως ἐνιαυτοῦ, χρονισθεῖσα δ’ ἀπόλλυσι τὴν ἑαυτῆς ἐνέργειαν. Ποταμοὶ δὲ διὰ τοῦ ὄρους ῥέουσι δύο, Κραυσίνδων τε καλούμενος καὶ Βρύχων· ὁ μὲν τοὺς ὑπὸ ταῖς τοῦ Πηλίου * (γεωργουμένους) κειμένους ἀρδεύων ἀγροὺς, ὁ δὲ παραρρέων μὲν τὸ τῆς Πηλαίας ἄλσος, ἐκβάλλων δὲ εἰς θάλασσαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 8",
+      "text": "Ἐπ’ ἄκρας δὲ τῆς τοῦ ὄρους κορυφῆς σπηλαῖόν ἐστι τὸ καλούμενον Χειρώνιον, καὶ Διὸς ἀκραίου ἱερὸν, ἐφ’ ὃ κατὰ κυνὸς ἀνατολὴν κατὰ τὸ ἀκμαιότατον καῦμα ἀναβαίνουσι τῶν πολιτῶν οἱ ἐπιφανέστατοι καὶ ταῖς ἡλικίαις ἀκμάζοντες, ἐπιλεχθέντες ἐπὶ τοῦ ἱερέως, ἐνεζωσμένοι κώδια τρίποκα καινά· τοιοῦτον συμβαίνει ἐπὶ τοῦ ὄρους τὸ ψῦχος εἶναι. Τοῦ δὲ ὄρους ἡ μὲν μία πλευρὰ παρά τε τὴν Μαγνησίαν καὶ τὴν Θεσσαλίαν παρήκει, πρός τε ζέφυρον καὶ ἡλίου δύσιν ἐστραμμένη· ἡ δ’ ἐπὶ τὸν Ἄθω καὶ τὸν Μακεδονικὸν ἐπικεκλημένον κόλπον, πλαγίαν ἔχουσα πᾶσαν καὶ τραχεῖαν τὴν εἰς τὴν Θεσσαλίαν ἐστραμμένην χώραν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 10",
+      "text": "Τὸ δὲ ὄρος πολυφάρμακόν τέ ἐστι καὶ πολλὰς ἔχον καὶ παντοδαπὰς δυνάμεις τάς τε ὄψεις αὐτῶν γινώσκουσι καὶ χρῆσθαι δυναμένοις· μίαν δέ τινα [ἥτις] ἔχει [ἄλλας] καὶ ἄλλας δυνάμεις (ἀνομοίους). Φύεται δὲ τὸ δένδρον τῷ μεγέθει μὲν οὐ πλέον ἢ πήχεος τοῦ ὑπὲρ γῆς φαινομένου, τῇ δὲ χρόᾳ μέλαν· ἡ δὲ ῥίζα ἕτερον τοσοῦτόν ἐστι κατὰ γῆς πεφυκυῖα. Τούτου δὲ ἡ μὲν ῥίζα τριφθεῖσα λεῖα καὶ καταπλασθεῖσα τῶν ποδαγρώντων τοὺς πόνους ἀφίστησι καὶ κωλύει τὰ νεῦρα φλεγμαίνειν· ὁ δὲ φλοιὸς λειανθεὶς καὶ μετ’ οἴνου ποθεὶς τοὺς κοιλιακοὺς ὑγιαίνει· τὰ δὲ φύλλα τριφθέντα καὶ ἐγχρισθέντα εἰς ὀθόνιον, τῶν ὀφθαλμιώντων καὶ ὑπὸ τοῦ ῥεύματος κατατεινομένων καὶ κινδυνευόντων ῥαγῆναι τὴν ὄψιν τὴν ἐπιφορὰν τοῦ ῥεύματος ἀναστέλλει πρᾳέως καὶ ὡσανεὶ παραιτούμενα μηκέτι ἐπὶ τοὺς ὀφθαλμοὺς φέρεσθαι τὸ ῥεῦμα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 12",
+      "text": "Ταύτην δὲ τὴν δύναμιν ἓν τῶν πολιτῶν οἶδε γένος· ὃ δὴ λέγεται Χείρωνος ἀπόγονον εἶναι· παραδίδωσι δὲ καὶ δείκνυσι πατὴρ υἱῷ, καὶ οὕτως ἡ δύναμις φυλάσσεται, ὡς οὐδεὶς ἄλλος οἶδε τῶν πολιτῶν· οὐχ ὅσιον δὲ τοὺς ἐπισταμένους τὰ φάρμακα μισθοῦ τοῖς κάμνουσι βοηθεῖν, ἀλλὰ προῖκα. Τὸ μὲν οὖν Πήλιον καὶ τὴν Δημητριάδα συμβέβηκε τοιαύτην εἶναι. Ὅτι ἡ μὲν Ἑλλὰς ἀπὸ Πελοποννήσου τὴν ἀρχὴν λαμβάνει, [ἣν] μέχρι τοῦ Μαγνήτων ἀφορίζω στάμπου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 13",
+      "text": "Τάχα δὲ κτλ. Τὴν μὲν οὖν Ἑλλάδα ἀπὸ Πελοποννήσου τὴν ἀρχὴν λαβὼν μέχρι τοῦ Μαγνήτων ἀφορίζω [Ὁμολίου καὶ τῶν Θετταλῶν] στάμπου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 1",
+      "text": "Τάχα δὲ φήσουσί τινες ἡμᾶς ἀγνοεῖν τὴν Θετταλίαν τῆς Ἑλλάδος καταριθμοῦντας, ἄπειροι τῆς τῶν πραγμάτων ὄντες ἀληθείας. Ἡ γὰρ Ἑλλὰς τὸ παλαιὸν οὖσά ποτε πόλις ἀφ’ Ἕλληνος τοῦ Αἰόλου ἐκλήθη τε καὶ ἐκτίσθη, τῆς τῶν Θετταλῶν οὖσα χώρας, ἀναμέσον Φαρσάλου τε κειμένη καὶ τῆς τῶν Μελιταιέων πόλεως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 2",
+      "text": "Ἕλληνες μὲν γάρ εἰσι τῷ γένει, καὶ ταῖς φωναῖς ἑλληνίζουσιν οἱ ἀφ’ Ἕλληνος· Ἀθηναῖοι δὲ οἱ τὴν Ἀττικὴν κατοικοῦντες Ἀττικοὶ μέν εἰσι τῷ γένει, ταῖς δὲ διαλέκτοις ἀττικίζουσιν, ὥσπερ Δωριεῖς μὲν οἱ ἀπὸ Δώρου τῇ φωνῇ δωρίζουσιν· αἰολίζουσι δὲ οἱ ἀπὸ Αἰόλου, ἰάζουσι δὲ οἱ ἀπὸ Ἴωνος τοῦ Ξούθου φύντες. Ἡ οὖν Ἑλλὰς ἐν Θετταλίᾳ ἦν, ὅτε ποτὲ ἦν, οὐκ ἐν τῇ Ἀττικῇ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 2bis",
+      "text": "Ὁ γοῦν ποιητής φησι· Μυρμιδόνες δὲ καλεῦντο καὶ Ἕλληνες καὶ Ἀχαιοί, Μυρμιδόνας μὲν λέγων εἶναι τοὺς περὶ τὴν Θετταλίας Φθίαν κατοικοῦντας, Ἕλληνας δὲ τοὺς μικρῷ πρότερον ῥηθέντας, Ἀχαιοὺς δὲ τοὺς καὶ νῦν ἔτι κατοικοῦντας Μελίταιάν τε καὶ Λάρισσαν τὴν Κρεμαστὴν καλουμένην καὶ Θήβας τὰς Ἀχαΐδας πρότερον Φυλάκην καλουμένην, ὅθεν ἦν καὶ Πρωτεσίλαος ὁ στρατεύσας εἰς Ἴλιον. Ἔστιν οὖν ἡ Ἑλλὰς ὑφ’ Ἕλληνος οἰκισθεῖσα πόλις τε καὶ χώρα. Μαρτυρεῖ δὲ καὶ Εὐριπίδης· Ἕλλην γὰρ, ὡς λέγουσι, γίγνεται Διὸς, τοῦ δ’ Αἴολος παῖς· Αἰόλου δὲ Σίσυφος, Ἀθάμας τε Κρηθεύς θ’, ὅς τ’ ἐπ’ Ἀλφειοῦ ῥοαῖς θεοῦ μανεὶς ἔρριψε Σαλμωνεὺς φλόγα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 4",
+      "text": "Ἑλλὰς μὲν οὖν ἐστὶ, ὥσπερ μικρῷ πρότερον εἰρήκαμεν, ἣν ὁ Διὸς Ἕλλην ἔκτισεν, ἀφ’ οὗ καὶ τὸ ἑλληνίζειν τὴν προσηγορίαν εἴληφεν· Ἕλληνες δ’ οἱ ἀφ’ Ἕλληνος. Οὗτοι δὲ εἰσὶν Αἴολος καὶ Σίσυφος, ἔτι δὲ Ἀθάμας καὶ Σαλμωνεὺς καὶ οἱ τούτων φύντες ἔκγονοι. Ἡ δὲ καλουμένη νῦν Ἑλλὰς λέγεται μὲν, οὐ μέντοι ἐστί· τὸ γὰρ ἑλληνίζειν ἐγὼ εἶναί φημι οὐκ ἐν τῷ διαλέγεσθαι ὀρθῶς, ἀλλ’ ἐν τῷ γένει τῆς φωνῆς· αὕτη δ’ ἐστὶν ἀφ’ Ἕλληνος· ἡ δὲ Ἑλλὰς ἐν Θετταλίᾳ κεῖται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 5",
+      "text": "Ἐκείνους οὖν ἐροῦμεν τὴν Ἑλλάδα κατοικεῖν καὶ ταῖς φωναῖς ἑλληνίζειν. Εἰ δὲ καὶ κατὰ τὸ ἴδιον τοῦ γένους τῆς Θετταλίας ἡ Ἑλλάς ἐστι, δίκαιον καὶ κατὰ τὸ κοινὸν, ὡς νῦν ὀνομάζονται Ἕλληνες, τῆς Ἑλλάδος αὐτὴν εἶναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 7",
+      "text": "Ὅτι δὲ πᾶσα ἣν κατηριθμήμεθα Ἑλλάς ἐστι, μαρτυρεῖ ἡμῖν ὁ τῶν κωμῳδιῶν ποιητὴς Ποσείδιππος, μεμφόμενος Ἀθηναίοις, ὅτι τὴν αὑτῶν φωνὴν καὶ τὴν πόλιν φασὶ τῆς Ἑλλάδος εἶναι, λέγων οὕτως· Ἑλλὰς μέν ἐστι μία, πόλεις δὲ πλείονες. Σὺ μὲν ἀττικίζεις, ἡνίκ’ ἂν φωνὴν λέγῃς αὑτοῦ τιν’· οἱ δ’ Ἕλληνες ἑλληνίζομεν. Τί προσδιατρίβων συλλαβαῖς καὶ γράμμασιν τὴν εὐτραπελίαν εἰς ἀηδίαν ἄγεις; Πρὸς μὲν τοὺς οὐχ ὑπολαμβάνοντας εἶναι τὴν Θετταλίαν τῆς Ἑλλάδος οὐδὲ τοὺς Θετταλοὺς Ἕλληνος ἀπογόνους ὄντας ἑλληνίζειν ἐπὶ τοσοῦτον εἰρήσθω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 8",
+      "text": "Τὴν δὲ Ἑλλάδα ἀφορίσαντες ἕως τῶν Θετταλῶν στομίου * καὶ τοῦ Μαγνήτων Ὁμολίου, τὴν διήγησιν πεποιημένοι, καταπαύομεν τὸν λόγον.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "nck-aa",
+      "title": {
+        "english": "Chrestomathies from Strabo's Geographical Books",
+        "ancient_greek": "Χρηστομάθειαι ἐκ τῶν Γεωγραφικῶν Στράβωνος"
+      },
+      "url_slug": "strabo-of-amasia-chrestomathies-geography-nck-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/strabo-of-amasia/chrestomathies-geography",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia-chrestomathies-geography-nck-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia-chrestomathies-geography-nck-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia-chrestomathies-geography-nck-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia-chrestomathies-geography-nck-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia/chrestomathies-geography.epub"
+      }
+    },
+    {
+      "eul_wid": "vbi-aa",
+      "title": {
+        "english": "Christian Topography",
+        "ancient_greek": "Χριστιανικὴ Τοπογραφία"
+      },
+      "url_slug": "cosmas-indicopleustes-topography-vbi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cosmas-indicopleustes/topography",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cosmas-indicopleustes-topography-vbi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cosmas-indicopleustes-topography-vbi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cosmas-indicopleustes-topography-vbi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cosmas-indicopleustes-topography-vbi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cosmas-indicopleustes/topography.epub"
+      }
+    },
+    {
+      "eul_wid": "rna-ab",
+      "title": {
+        "english": "Description of the World",
+        "ancient_greek": "Περιγραφὴ τοῦ Κόσμου"
+      },
+      "url_slug": "dionysius-of-alexandria-world-description-rna-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-alexandria/world-description",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-alexandria-world-description-rna-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-alexandria-world-description-rna-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-alexandria-world-description-rna-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-alexandria-world-description-rna-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-alexandria/world-description.epub"
+      }
+    },
+    {
+      "eul_wid": "lue-aa",
+      "title": {
+        "english": "Excerpts from Agatharchides-the Red Sea",
+        "ancient_greek": "Ἐκλογαὶ Ἀγαθαρχίδου περὶ Ἐρυθρᾶς Θαλάσσης"
+      },
+      "url_slug": "agatharchides-of-cnidus-red-sea-lue-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/agatharchides-of-cnidus/red-sea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-cnidus-red-sea-lue-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-cnidus-red-sea-lue-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-cnidus-red-sea-lue-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-cnidus-red-sea-lue-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-cnidus/red-sea.epub"
+      }
+    },
+    {
+      "eul_wid": "lue-ad",
+      "title": {
+        "english": "Fragments on Asia and Egypt",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀσίας καὶ Αἰγύπτου"
+      },
+      "url_slug": "agatharchides-of-cnidus-asia-egypt-fragments-lue-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/agatharchides-of-cnidus/asia-egypt-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-cnidus-asia-egypt-fragments-lue-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-cnidus-asia-egypt-fragments-lue-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-cnidus-asia-egypt-fragments-lue-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-cnidus-asia-egypt-fragments-lue-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-cnidus/asia-egypt-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "kpu-aa",
+      "title": {
+        "english": "Fragments on Europe",
+        "ancient_greek": "Ἀποσπάσματα περὶ Εὐρώπης"
+      },
+      "url_slug": "mnaseas-of-patara-europe-kpu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/mnaseas-of-patara/europe",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnaseas-of-patara-europe-kpu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnaseas-of-patara-europe-kpu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnaseas-of-patara-europe-kpu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnaseas-of-patara-europe-kpu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnaseas-of-patara/europe.epub"
+      }
+    },
+    {
+      "eul_wid": "qtk-aa",
+      "title": {
+        "english": "On the Navigation of the Bosporus",
+        "ancient_greek": "Περὶ τῆς Πλοηγίας τοῦ Βοσπόρου"
+      },
+      "url_slug": "dionysius-of-byzantium-navigation-bosporus-qtk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-byzantium/navigation-bosporus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-byzantium-navigation-bosporus-qtk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-byzantium-navigation-bosporus-qtk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-byzantium-navigation-bosporus-qtk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-byzantium-navigation-bosporus-qtk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-byzantium/navigation-bosporus.epub"
+      }
+    },
+    {
+      "eul_wid": "ums-aa",
+      "title": {
+        "english": "Parthian Stations",
+        "ancient_greek": "Παρθικαὶ Στάσεις"
+      },
+      "url_slug": "anonymous-geographical-work-parthian-stations-ums-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-geographical-work/parthian-stations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-geographical-work-parthian-stations-ums-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-geographical-work-parthian-stations-ums-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-geographical-work-parthian-stations-ums-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-geographical-work-parthian-stations-ums-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-geographical-work/parthian-stations.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/heraclides-criticus/description-greece",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-criticus-description-greece-jvu-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-criticus-description-greece-jvu-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-criticus-description-greece-jvu-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-criticus-description-greece-jvu-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-criticus/description-greece.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

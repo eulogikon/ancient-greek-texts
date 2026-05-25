@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ebk",
+  "auth_slug": "archippus-the-comic-poet",
+  "name": {
+    "english": "Archippus the Comic Poet",
+    "ancient_greek": "Ἄρχιππος ὁ Κωμικός"
+  },
+  "seo_h1": "Fish, Feasts, and the Comic Fragments of Archippus",
+  "seo": {
+    "browser_title": "Archippus the Comic Poet on Eulogikon Greek Archive",
+    "meta_title": "Archippus Ancient Greek Comedy and Fragments Works",
+    "meta_description": "Archippus was an Athenian comic poet of Old Comedy, a rival to Aristophanes. Surviving fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Archippus was an Athenian comic poet active in the late 5th century BCE during the period of Old Comedy. He was a contemporary and rival of the more famous playwright Aristophanes. An ancient Byzantine source identifies him as the son of a man named Aristophanes, though this was not the renowned dramatist. Archippus won first prize in the comic competition at the City Dionysia at least once, in 415 BCE, placing his career during the Peloponnesian War.</p>\n<p class=\"research-text\">His works survive only in fragments. Three comedies are most securely attributed to him: <strong>Fishes</strong>, which featured a fantastical chorus of fish; <strong>Amphitryon</strong>; and <strong>Heracles&#x27; Marriage</strong>. The latter two were mythological parodies. An ancient encyclopedia claims he wrote six plays, but modern scholars consider this number uncertain and base their understanding on the three core titles.</p>\n<p class=\"research-text\">Archippus is significant as one of the lesser-known poets of Old Comedy, illustrating the genre&#x27;s diversity beyond the complete plays of Aristophanes. His work, especially the imaginative <strong>Fishes</strong>, shows the range of subjects and absurd humor employed by comic playwrights of his time. According to modern scholars, his career helps trace the evolution of Athenian comedy from its peak of political satire toward later styles.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 3,
+  "works": [
+    {
+      "eul_wid": "ebk-aa",
+      "title": {
+        "english": "Fragments of a Comic Feast",
+        "ancient_greek": "Ἀποσπάσματα Συμποσίου Κωμικοῦ"
+      },
+      "url_slug": "archippus-the-comic-poet-comic-feast-ebk-aa",
+      "passages": 83,
+      "links": {
+        "html": "https://eulogikon.org/grc/archippus-the-comic-poet/comic-feast",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet-comic-feast-ebk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet-comic-feast-ebk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet-comic-feast-ebk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet-comic-feast-ebk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet/comic-feast.epub"
+      }
+    },
+    {
+      "eul_wid": "ebk-ab",
+      "title": {
+        "english": "Fragments on Fish and Feasting",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἰχθύων καὶ Εὐωχίας"
+      },
+      "url_slug": "archippus-the-comic-poet-fish-feasting-ebk-ab",
+      "passages": 53,
+      "links": {
+        "html": "https://eulogikon.org/grc/archippus-the-comic-poet/fish-feasting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet-fish-feasting-ebk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet-fish-feasting-ebk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet-fish-feasting-ebk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet-fish-feasting-ebk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet/fish-feasting.epub"
+      }
+    },
+    {
+      "eul_wid": "ebk-ac",
+      "title": {
+        "english": "Fragments on Love and Persuasion",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἔρωτος καὶ Πειθοῦς"
+      },
+      "url_slug": "archippus-the-comic-poet-love-persuasion-ebk-ac",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/archippus-the-comic-poet/love-persuasion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet-love-persuasion-ebk-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet-love-persuasion-ebk-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet-love-persuasion-ebk-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet-love-persuasion-ebk-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet/love-persuasion.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/archippus-the-comic-poet",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archippus-the-comic-poet-ebk.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archippus-the-comic-poet-ebk.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archippus-the-comic-poet-ebk.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archippus-the-comic-poet-ebk.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

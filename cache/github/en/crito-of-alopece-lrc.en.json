@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "lrc",
+  "auth_slug": "crito-of-alopece",
+  "name": {
+    "english": "Crito of Alopece",
+    "ancient_greek": "Κρίτων Ἀλωπεκῆθεν ὁ κωμικός"
+  },
+  "seo_h1": "Delian Parasites in the Comedies of Crito of Alopece",
+  "seo": {
+    "browser_title": "Crito of Alopece Comic Poet on Eulogikon Greek Archive",
+    "meta_title": "The Crito of Alopece Ancient Greek Comic Fragments",
+    "meta_description": "Crito of Alopece was a Hellenistic comic poet. Read surviving fragments of his Attic comedies. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Crito of Alopece was a Hellenistic comic poet of the 2nd century BCE. An Athenian from the deme of Alopece, he is known only as a minor figure listed among comic poets in the Suda, which provides no further biographical details. Two titles of his lost comedies survive: Pseudostigmatias and Pharmakopōlēs. The Suda notes he wrote other, unspecified comedies.</p>\n<p class=\"research-text\">Fragments of his work are preserved only through later lexicographical citations, such as those in Athenaeus, which quote lines for their unusual vocabulary. His significance is primarily philological. The fragments contribute to the study of Attic dialect and comic language, and he represents the vast, poorly documented tradition of Middle or New Comedy after Menander. The play titles suggest typical comic themes of trickery and trade.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "lrc-ab",
+      "title": {
+        "english": "Fragments on Delian Parasites",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δηλίων Παρασίτων"
+      },
+      "url_slug": "crito-of-alopece-delian-parasites-lrc-ab",
+      "passages": 8,
+      "links": {
+        "html": "https://eulogikon.org/grc/crito-of-alopece/delian-parasites",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-alopece-delian-parasites-lrc-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-alopece-delian-parasites-lrc-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-alopece-delian-parasites-lrc-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-alopece-delian-parasites-lrc-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-alopece/delian-parasites.epub"
+      }
+    },
+    {
+      "eul_wid": "lrc-aa",
+      "title": {
+        "english": "Satirical Fragments on Delos",
+        "ancient_greek": "Ἀποσπάσματα Σατυρικὰ περὶ Δήλου"
+      },
+      "url_slug": "crito-of-alopece-satirical-delos-lrc-aa",
+      "passages": 9,
+      "links": {
+        "html": "https://eulogikon.org/grc/crito-of-alopece/satirical-delos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-alopece-satirical-delos-lrc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-alopece-satirical-delos-lrc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-alopece-satirical-delos-lrc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-alopece-satirical-delos-lrc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-alopece/satirical-delos.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/crito-of-alopece",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crito-of-alopece-lrc.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crito-of-alopece-lrc.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crito-of-alopece-lrc.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crito-of-alopece-lrc.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

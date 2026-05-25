@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "cgm",
+  "auth_slug": "timotheus-the-comic-poet-of-athens",
+  "name": {
+    "english": "Timotheus the Comic Poet of Athens",
+    "ancient_greek": "Τιμόθεος ὁ Ἀθηναῖος κωμῳδιοποιός"
+  },
+  "seo_h1": "Banquet and Love in the Comedies of Timotheus of Athens",
+  "seo": {
+    "browser_title": "Timotheus Comic Poet of Athens on Eulogikon Greek Archive",
+    "meta_title": "Classical Timotheus the Comic Poet Ancient Greek Comedy",
+    "meta_description": "Timotheus was a 4th century BCE Athenian comic poet. Two surviving works of Attic comedy are preserved. Free to read and download from the Greek library."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Timotheus was an Athenian comic poet active in the 4th century BCE. He is known only from limited ancient references. The Suda lexicon identifies him as a contemporary of the orator Demosthenes, placing his floruit in the mid-to-late 4th century. He is distinguished from other figures named Timotheus, such as the dithyrambic poet from Miletus, by his Athenian origin and genre.</p>\n<p class=\"research-text\">Two play titles are attributed to him: Dionysus and The Heroes. Both works are lost, and no fragments are preserved in extant sources.</p>\n<p class=\"research-text\">Timotheus represents one of the many minor comic poets of 4th-century Athens. His attestation illustrates the breadth of Attic comic production during the era following Old Comedy and overlapping with the development of Middle and New Comedy. While his specific content is unknown, his recorded activity contributes to the historical record of Athenian drama during a period of significant political change.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "cgm-aa",
+      "title": {
+        "english": "Fragments on a Banquet",
+        "ancient_greek": "Ἀποσπάσματα περὶ Συμποσίου"
+      },
+      "url_slug": "timotheus-the-comic-poet-of-athens-banquet-fragments-cgm-aa",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/timotheus-the-comic-poet-of-athens/banquet-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens-banquet-fragments-cgm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens-banquet-fragments-cgm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens-banquet-fragments-cgm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens-banquet-fragments-cgm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens/banquet-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "cgm-ab",
+      "title": {
+        "english": "Fragments on Love and Feasting",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἔρωτος καὶ Εὐωχίας"
+      },
+      "url_slug": "timotheus-the-comic-poet-of-athens-love-feasting-cgm-ab",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/timotheus-the-comic-poet-of-athens/love-feasting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens-love-feasting-cgm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens-love-feasting-cgm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens-love-feasting-cgm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens-love-feasting-cgm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens/love-feasting.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/timotheus-the-comic-poet-of-athens",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timotheus-the-comic-poet-of-athens-cgm.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timotheus-the-comic-poet-of-athens-cgm.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timotheus-the-comic-poet-of-athens-cgm.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timotheus-the-comic-poet-of-athens-cgm.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

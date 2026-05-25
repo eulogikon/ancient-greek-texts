@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "gju-aa",
+  "eul_aid": "gju",
+  "author_slug": "menecrates-of-elaea",
+  "work_slug": "city-foundations",
+  "url_slug": "menecrates-of-elaea-city-foundations-gju-aa",
+  "author": {
+    "english": "Menecrates of Elaea",
+    "ancient_greek": "Μενεκράτης ὁ Ἐλαιεύς"
+  },
+  "title": {
+    "english": "Fragments on City Foundations",
+    "ancient_greek": "Ἀποσπάσματα περὶ Κτισμάτων Πόλεων"
+  },
+  "seo": {
+    "browser_title": "Fragments Menecrates of Elaea City Foundations on Eulogikon",
+    "meta_title": "Classical Fragments of Menecrates of Elaea in Ancient Greek",
+    "meta_description": "Fragments of Menecrates of Elaea on city foundations. Historical prose on Greek colonization. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Fragments on City Foundations is a lost prose work of historical geography by the Hellenistic author Menecrates of Elaea. It belongs to the genre of <strong>ktiseis</strong>, or foundation stories, which detailed the mythical and historical origins of cities. The work survives only through three brief fragments quoted by the geographer Strabo in his <strong>Geographica</strong>. These excerpts focus on northwestern Asia Minor, offering etymological and mythological explanations for place names that connect local geography to Panhellenic heroic cycles. One fragment discusses the foundation of Cius in Bithynia by Mycenaean heroes and its naming for a companion of Heracles. Another mentions the river and plain of Ascanius in Bithynia or Phrygia. A third recounts the origin of the author&#x27;s own city, Elaea, said to be named for the olive trees discovered there by the Argonauts. The work has no independent manuscript tradition and is preserved solely within Strabo&#x27;s text, a testament to its value for later compilers of geographical lore. These fragments exemplify the Hellenistic practice of systematizing local histories to integrate regional landscapes into a shared Greek mythological past. Through their preservation in Strabo, they contributed to the broader tradition of ancient historical geography and remain a valuable source for understanding Greek colonization myths and the intersection of landscape with collective memory.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-2",
+      "text": "ΚΤΙΣΕΙΣ. Strabo XIII: Μενεκράτης ὁ Ἐλαΐτης ἐν τοῖς Περὶ κτίσεων φησὶ τὴν παραλίαν τὴν νῦν Ἰωνικὴν πᾶσαν, ἀπὸ Μυκάλης ἀρξαμένην, ὑπὸ Πελασγῶν οἰκεῖσθαι πρότερον καὶ τὰς πλησίον νήσους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Strabo XII: Τοὺς Μυσοὺς οἱ μὲν Θρᾷκας, οἱ δὲ Λυδοὺς εἰρήκασι, κατ’ αἰτίαν παλαιὰν ἱστοροῦντες, ἣν Ξάνθος ὁ Λυδὸς γράφει καὶ Μενεκράτης ὁ Ἐλαΐτης· ἐτυμολογοῦντες καὶ τὸ ὄνομα τὸ τῶν Μυσῶν, ὅτι τὴν ὀξύην οὕτως ὀνομάζουσιν οἱ Λυδοί· πολλὴ δ’ ἡ ὀξύη κατὰ τὸν Ὄλυμπον, ὅπου ἐκτεθῆναί φασι τοὺς δεκατευθέντας· ἐκείνων δὲ ἀπογόνους εἶναι τοὺς ὕστερον Μυσοὺς, ἀπὸ τῆς ὀξύης οὕτω προσαγορευθέντας· μαρτυρεῖν δὲ καὶ τὴν διάλεκτον· μιξολύδιον γάρ πως εἶναι καὶ μιξοφρύγιον· τέως μὲν γὰρ οἰκεῖν αὐτοὺς περὶ τὸν Ὄλυμπον. Τῶν δὲ Φρυγῶν ἐκ τῆς Θρᾴκης περαιωθέντων, εἵλοντο τόν τε τῆς Τροίας ἄρχοντα καὶ τῆς πλησίον γῆς. Ἐκείνους μὲν ἐνταῦθα οἰκῆσαι· τοὺς δὲ Μυσοὺς ὑπὲρ τὰς τοῦ Καΐκου πηγὰς πλησίον Λυδῶν. ΠΕΡΙΟΔΟΣ ΕΛΛΗΣΠΟΝΤΙΑΚΗ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Strabo XII: Αὐτὰρ Ἁλιζώνων Ὀδίος καὶ Ἐπίστροφος ἦρχον, τηλόθεν ἐξ Ἀλύβης, ὅθεν ἀργύρου ἐστὶ γενεθλή. Ἐπαινεῖ δὲ μάλιστα (sc. Δημήτριος ὁ Σκήψιος) τὴν Ἑκαταίου τοῦ Μιλησίου καὶ Μενεκράτους τοῦ Ἐλαΐτου, τῶν Ξενοκράτους γνωρίμων ἀνδρὸς, δόξαν καὶ τὴν Παλαιφάτου ... Ὁ δὲ Μενεκράτης ἐν τῇ Ἑλλησποντιακῇ περιόδῳ ὑπερκεῖσθαι λέγει τῶν ὑπὲρ τὴν Μύρλειαν τόπων ὀρεινὴν συνεχῆ, ἣν κατῴκει τὸ τῶν Ἁλιζώνων ἔθνος· δεῖ δὲ, φησὶ, γράφειν ἐν τοῖς λλ, τὸν δὲ ποιητὴν ἐν τῷ ἑνὶ γράφειν διὰ τὸ μέτρον. Ὁ δὲ Παλαίφατός φησιν, ἐξ Ἀμαζόνων τῶν ἐν τῇ Ἀλόπῃ οἰκούντων, νῦν δ’ ἐν Ζελείᾳ, τὸν Ὁδίον καὶ τὸν Ἐπίστροφον στρατεῦσαι.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "ecy-ac",
+      "title": {
+        "english": "Florentine Fragments",
+        "ancient_greek": "Φλωρεντινὰ Ἀποσπάσματα"
+      },
+      "url_slug": "hellenica-anon-florentine-fragments-ecy-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hellenica-anon/florentine-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-florentine-fragments-ecy-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-florentine-fragments-ecy-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-florentine-fragments-ecy-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-florentine-fragments-ecy-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon/florentine-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "gpe-aa",
+      "title": {
+        "english": "Foundations of Cities",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dionysius-of-chalcis-foundations-cities-gpe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-chalcis/foundations-cities",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-chalcis-foundations-cities-gpe-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-chalcis-foundations-cities-gpe-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-chalcis-foundations-cities-gpe-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-chalcis-foundations-cities-gpe-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-chalcis/foundations-cities.epub"
+      }
+    },
+    {
+      "eul_wid": "ktq-aa",
+      "title": {
+        "english": "Historical Fragments on Hannibal",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀννίβα"
+      },
+      "url_slug": "silenus-of-caleacte-historical-fragments-hannibal-ktq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/silenus-of-caleacte/historical-fragments-hannibal",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/silenus-of-caleacte-historical-fragments-hannibal-ktq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/silenus-of-caleacte-historical-fragments-hannibal-ktq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/silenus-of-caleacte-historical-fragments-hannibal-ktq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/silenus-of-caleacte-historical-fragments-hannibal-ktq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/silenus-of-caleacte/historical-fragments-hannibal.epub"
+      }
+    },
+    {
+      "eul_wid": "kri-aa",
+      "title": {
+        "english": "Histories Concerning Philopator",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "ptolemy-of-megalopolis-histories-philopator-kri-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-megalopolis/histories-philopator",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-megalopolis-histories-philopator-kri-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-megalopolis-histories-philopator-kri-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-megalopolis-histories-philopator-kri-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-megalopolis-histories-philopator-kri-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-megalopolis/histories-philopator.epub"
+      }
+    },
+    {
+      "eul_wid": "kiw-aa",
+      "title": {
+        "english": "On Music and Chronology",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "phillis-of-delos-music-chronology-kiw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/phillis-of-delos/music-chronology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phillis-of-delos-music-chronology-kiw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phillis-of-delos-music-chronology-kiw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phillis-of-delos-music-chronology-kiw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phillis-of-delos-music-chronology-kiw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phillis-of-delos/music-chronology.epub"
+      }
+    },
+    {
+      "eul_wid": "dpc-aa",
+      "title": {
+        "english": "On the Wonders of Sicily",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "nymphodorus-of-abdera-wonders-sicily-dpc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/nymphodorus-of-abdera/wonders-sicily",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphodorus-of-abdera-wonders-sicily-dpc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphodorus-of-abdera-wonders-sicily-dpc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphodorus-of-abdera-wonders-sicily-dpc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphodorus-of-abdera-wonders-sicily-dpc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphodorus-of-abdera/wonders-sicily.epub"
+      }
+    },
+    {
+      "eul_wid": "ijs-aa",
+      "title": {
+        "english": "Sicilian and Italian Antiquities",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "alcimus-of-sicily-italian-antiquities-ijs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/alcimus-of-sicily/italian-antiquities",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcimus-of-sicily-italian-antiquities-ijs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcimus-of-sicily-italian-antiquities-ijs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcimus-of-sicily-italian-antiquities-ijs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcimus-of-sicily-italian-antiquities-ijs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcimus-of-sicily/italian-antiquities.epub"
+      }
+    },
+    {
+      "eul_wid": "ezq-al",
+      "title": {
+        "english": "Symposium",
+        "ancient_greek": "Συμπόσιον"
+      },
+      "url_slug": "xenophon-of-athens-symposium-ezq-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/symposium",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-symposium-ezq-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-symposium-ezq-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-symposium-ezq-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-symposium-ezq-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/symposium.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/menecrates-of-elaea/city-foundations",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-elaea-city-foundations-gju-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-elaea-city-foundations-gju-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-elaea-city-foundations-gju-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-elaea-city-foundations-gju-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-elaea/city-foundations.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

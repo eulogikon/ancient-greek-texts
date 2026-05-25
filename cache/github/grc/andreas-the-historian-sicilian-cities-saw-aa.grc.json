@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "saw-aa",
+  "eul_aid": "saw",
+  "author_slug": "andreas-the-historian",
+  "work_slug": "sicilian-cities",
+  "url_slug": "andreas-the-historian-sicilian-cities-saw-aa",
+  "author": {
+    "english": "Andreas the Historian",
+    "ancient_greek": "Ἀνδρέας ὁ ἱστορικός"
+  },
+  "title": {
+    "english": "Fragments on Sicilian Cities",
+    "ancient_greek": "Ἀποσπάσματα περὶ Σικελικῶν Πόλεων"
+  },
+  "seo": {
+    "browser_title": "Ancient Fragments of Andreas the Historian on Eulogikon",
+    "meta_title": "Ancient Fragments on Sicilian Cities by Andreas in Greek",
+    "meta_description": "Andreas the Historian preserves valuable accounts of Sicilian urban centers in these late antique fragments. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Sicelica</strong>, attributed to Andreas the Historian, is a lost historical or geographical treatise concerning the cities of Sicily. The work survives only through two brief fragments preserved by later grammarians, offering a glimpse into its content and scholarly use. One fragment, transmitted by Stephanus of Byzantium in his sixth-century CE geographical lexicon, the <strong>Ethnica</strong>, cites Andreas in relation to the city of Tauromenium. A second fragment is preserved by the second-century CE grammarian Herodian, who references Andreas’s authority on the correct accentuation of the ethnic name for the people of Acragas. These citations indicate the work focused on Sicilian toponymy and ethnography, detailing the names, proper pronunciation, and likely the local history and geography of Sicilian city-states. Having no independent manuscript tradition, the <strong>Sicelica</strong> was transmitted solely through such indirect quotations. Its significance lies in its role as a minor source for later lexicographical and grammatical scholarship, contributing to the preservation of Sicilian nomenclature. Its citation by authoritative figures like Herodian and Stephanus confirms it was regarded within technical academic circles as a reliable reference on Sicilian subjects.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t1",
+      "text": "ΣΙΚΕΛΙΚΑ ΚΑΤΑ ΠΟΛΙΝ. E LIBRO XXXIII.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Athenaeus XIV: Καλεῖται δέ τι καὶ τῶν πολιορκητικῶν ὀργάνων σαμβύκη, οὗ τό τε σχῆμα καὶ τὴν κατασκευὴν ἀποδείκνυσι Βίτων ἐν τῷ πρὸς Ἄτταλον Περὶ ὀργάνων. Καὶ Ἀνδρέας ὁ Πανορμίτης ἐν τῷ τριακοστῷ τρίτῳ τῶν Σικελικῶν τῶν κατὰ πόλιν, ὡς ἀπὸ δύο ὄνων προσάγοιτο τοῖς τῶν ἐναντίων τείχεσι· καλεῖσθαί τε σαμβύκην, ἐπειδὴ, ὅταν ἐξαρθῇ, γίνεται σχῆμα νεὼς καὶ κλίμακος ἑνοποιού μενον, ὅμοιον δέ τί ἐστι καὶ τὸ τῆς σαμβύκης.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "jwo-aa",
+      "title": {
+        "english": "Fragments on Geography",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γεωγραφίας"
+      },
+      "url_slug": "eudoxus-of-rhodes-geography-jwo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/eudoxus-of-rhodes/geography",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudoxus-of-rhodes-geography-jwo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudoxus-of-rhodes-geography-jwo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudoxus-of-rhodes-geography-jwo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudoxus-of-rhodes-geography-jwo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudoxus-of-rhodes/geography.epub"
+      }
+    },
+    {
+      "eul_wid": "nhu-aa",
+      "title": {
+        "english": "Fragments on Mythological Genealogy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μυθολογικῆς Γενεαλογίας"
+      },
+      "url_slug": "akesandros-the-historian-mythological-genealogy-nhu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/akesandros-the-historian/mythological-genealogy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/akesandros-the-historian-mythological-genealogy-nhu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/akesandros-the-historian-mythological-genealogy-nhu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/akesandros-the-historian-mythological-genealogy-nhu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/akesandros-the-historian-mythological-genealogy-nhu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/akesandros-the-historian/mythological-genealogy.epub"
+      }
+    },
+    {
+      "eul_wid": "nde-ac",
+      "title": {
+        "english": "Historical Library, Books 21-40",
+        "ancient_greek": "Βιβλιοθήκη Ἱστορική"
+      },
+      "url_slug": "diodorus-of-sicily-historical-library-21-40-nde-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/diodorus-of-sicily/historical-library-21-40",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sicily-historical-library-21-40-nde-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sicily-historical-library-21-40-nde-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sicily-historical-library-21-40-nde-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sicily-historical-library-21-40-nde-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sicily/historical-library-21-40.epub"
+      }
+    },
+    {
+      "eul_wid": "ubo-ac",
+      "title": {
+        "english": "Methodius",
+        "ancient_greek": "Μεθόδιος"
+      },
+      "url_slug": "anonymous-historical-work-methodius-ubo-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-historical-work/methodius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work-methodius-ubo-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work-methodius-ubo-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work-methodius-ubo-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work-methodius-ubo-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/methodius.epub"
+      }
+    },
+    {
+      "eul_wid": "jre-ab",
+      "title": {
+        "english": "On Brotherly Friends",
+        "ancient_greek": "Περὶ ἀδελφικῶν φίλων"
+      },
+      "url_slug": "paradoxographer-anon-brotherly-friends-jre-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/paradoxographer-anon/brotherly-friends",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-brotherly-friends-jre-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-brotherly-friends-jre-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-brotherly-friends-jre-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-brotherly-friends-jre-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/brotherly-friends.epub"
+      }
+    },
+    {
+      "eul_wid": "viq-ab",
+      "title": {
+        "english": "On Embassies of Nations to the Romans",
+        "ancient_greek": "Περὶ Πρεσβειῶν Ἐθνῶν πρὸς Ῥωμαίους"
+      },
+      "url_slug": "menander-protector-embassies-romans-viq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-protector/embassies-romans",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-protector-embassies-romans-viq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-protector-embassies-romans-viq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-protector-embassies-romans-viq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-protector-embassies-romans-viq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-protector/embassies-romans.epub"
+      }
+    },
+    {
+      "eul_wid": "vhw-ab",
+      "title": {
+        "english": "On the Months",
+        "ancient_greek": "Περὶ Μηνῶν"
+      },
+      "url_slug": "john-the-lydian-months-vhw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-the-lydian/months",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-the-lydian-months-vhw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-the-lydian-months-vhw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-the-lydian-months-vhw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-the-lydian-months-vhw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-the-lydian/months.epub"
+      }
+    },
+    {
+      "eul_wid": "bli-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "hecataeus-of-miletus-testimonies-bli-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hecataeus-of-miletus/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-testimonies-bli-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-testimonies-bli-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-testimonies-bli-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-testimonies-bli-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus/testimonies.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/andreas-the-historian/sicilian-cities",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andreas-the-historian-sicilian-cities-saw-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andreas-the-historian-sicilian-cities-saw-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andreas-the-historian-sicilian-cities-saw-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andreas-the-historian-sicilian-cities-saw-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andreas-the-historian/sicilian-cities.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

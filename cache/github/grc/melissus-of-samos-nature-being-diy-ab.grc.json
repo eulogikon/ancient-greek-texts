@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "diy-ab",
+  "eul_aid": "diy",
+  "author_slug": "melissus-of-samos",
+  "work_slug": "nature-being",
+  "url_slug": "melissus-of-samos-nature-being-diy-ab",
+  "author": {
+    "english": "Melissus of Samos",
+    "ancient_greek": "Μέλισσος ὁ Σάμιος"
+  },
+  "title": {
+    "english": "On Nature or On Being",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "On Nature or On Being by Melissus of Samos on Eulogikon",
+    "meta_title": "Classical On Nature by Melissus of Samos in Ancient Greek",
+    "meta_description": "Fragments of the Eleatic treatise On Nature by Melissus. Arguments on unity and eternity of being. Read free and download in original Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Eleatic",
+      "href": "/affiliations/eleatic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On Nature</strong> or <strong>On Being</strong> is a philosophical treatise composed in the fifth century BCE by Melissus of Samos, a later adherent of the Eleatic school founded by Parmenides. Written in clear, argumentative Ionic Greek prose, the work presents a systematic defense of Eleatic monism, contending that true reality—designated as &quot;what is&quot;—must be singular, eternal, unchanging, infinite in extent, and entirely uniform. The complete text has not survived independently; what remains are fragments preserved through quotation by later ancient commentators, most notably Simplicius. These fragments, traditionally organized into about a dozen passages, form a chain of logical deductions. Melissus begins from the premise that what exists is ungenerated and indestructible. He then argues that it must consequently be unlimited in both time and space, without internal division or void, and utterly motionless. This leads to the conclusion that the everyday world of plurality, change, and motion is illusory. Modern scholarship interprets the treatise as a rigorous consolidation of Parmenidean doctrine, stripping away its original poetic form to present a stark logical challenge to the emerging physical theories of the period, such as atomism.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "tit,1-10",
+      "text": "ΜΕΛΛΙΣΟΥ ΠΕΡΙ ΦΥΣΕΩΣ Η ΠΕΡΙ ΤΟΥ ΟΝΤΟΣ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "SIMPL. Phys. 162, 24 καὶ Μ. δὲ τὸ ἀγένητον τοῦ ὄντος ἔδειξε τῶι κοινῶι τούτωι χρησάμενος ἀξιώματι· γράφει δὲ οὕτως· ‘ ἀεὶ ἦν ὅ τι ἦν καὶ ἀεὶ ἔστα ι . εἰ γὰρ ἐγένετ ο , ἀναγκαῖόν ἐστι πρὶν γενέσθαι εἶναι μηδέ ν · εἰ τοίνυν μηδὲν ἦ ν , οὐδαμὰ ἂν γένοιτο οὐδὲν ἐκ μηδενόσ ‘ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "— —29, 22. 109, 20 ‘ ὅτε τοίνυν οὐκ ἐγένετ ο , ἔστι τε καὶ ἀεὶ ἦν καὶ ἀεὶ ἔσται καὶ ἀρχὴν οὐκ ἔχει οὐδὲ τελευτή ν , ἀλ λ ’ ἄπειρόν ἐστι ν . εἰ μὲν γὰρ ἐγένετ ο , ἀρχὴν ἂν εἶχεν ( ἤρξατο γὰρ ἄν ποτε γενόμενο ν ) καὶ τελευτήν ( ἐτελεύτησε γὰρ ἄν ποτε γενόμενο ν) · ὅτε δὲ μήτε ἤρξατο μήτε ἐτελεύτησε ν , ἀεί τε ἦν καὶ ἀεὶ ἔσται 〈καὶ〉 οὐκ ἔχει ἀρχὴν οὐδὲ τελευτή ν · οὐ γὰρ ἀεὶ εἶναι ἀνυστό ν , ὅ τι μὴ πᾶν ἔστι ‘ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "— —109, 29 ὅτι δὲ ὥσπερ τὸ ‘ ποτὲ γενόμενον ‘ [B 2] πεπερασμένον τῆι οὐσίαι φησίν, οὕτω καὶ τὸ ‘ἀεὶ ὂν‘ ἄπειρον λέγει τῆι οὐσίαι, σαφὲς πεποίηκεν εἰπών· ‘ ἀλ λ ’ ὥσπερ ἔστιν ἀε ί , οὕτω καὶ τὸ μέγεθος ἄπειρον ἀεὶ χρὴ εἶναι ‘. μέγεθος δὲ οὐ τὸ διάστατόν φησι [vgl. B 10].",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "— —110, 2 καὶ ἐφεξῆς δὲ τῶι ἀιδίωι τὸ ἄπειρον κατὰ τὴν οὐσίαν συνέταξεν εἰπών· ‘ ἀρχήν τε καὶ τέλος ἔχον οὐδὲν οὔτε ἀίδιον οὔτε ἄπειρόν ἐστιν ‘, ὥστε τὸ μὴ ἔχον ἄπειρόν ἐστιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "— —110, 5 ἀπὸ δὲ τοῦ ἀπείρου τὸ ἓν συνελογίσατο ἐκ τοῦ ‘ εἰ μὴ ἓν εἴ η , περανεῖ πρὸς ἄλλο ‘. τοῦτο δὲ αἰτιᾶται Εὔδημος [fr. 9 Sp.] ὡς ἀδιορίστως λεγόμενον γράφων οὕτως ‘εἰ δὲ δὴ συγχωρήσειέ τις ἄπειρον εἶναι τὸ ὄν, διὰ τί καὶ ἕν ἐστιν; οὐ γὰρ δὴ διότι πλείονα, περανεῖ πηι πρὸς ἄλληλα. δοκεῖ γὰρ ὁ παρεληλυθὼς χρόνος ἄπειρος εἶναι περαίνων πρὸς τὸν παρόντα. πάντηι μὲν οὖν ἄπειρα τὰ πλείω τάχα οὐκ ἂν εἴη, ἐπὶ θάτερα δὲ φανεῖται ἐνδέχεσθαι. χρὴ οὖν διορίσαι, πῶς ἄπειρα οὐκ ἂν εἴη, εἰ πλείω‘",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "SIMPL. de caelo 557, 14 τοῦ γὰρ αἰσθητοῦ ἐναργῶς εἶναι δοκοῦντος, εἰ ἓν τὸ ὄν ἐστιν, οὐκ ἂν εἴη ἄλλο παρὰ τοῦτο. λέγει δὲ Μ. μὲν ‘ εἰ γὰρ 〈ἄπειρον〉 εἴ η , ἓν εἴη ἄ ν · εἰ γὰρ δύο εἴ η , οὐκ ἂν δύναιτο ἄπειρα εἶνα ι , ἀλ λ ’ ἔχοι ἂν πείρατα πρὸς ἄλληλα ‘, Παρμενίδης δὲ ‘οὖλον ... ἀγένητον‘ [28 B 8, 4].",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "—Phys. 111, 18 λέγει δ’ οὖν Μ. οὕτως τὰ πρότερον εἰρημένα συμπεραινόμενος καὶ οὕτως τὰ περὶ τῆς κινήσεως ἐπάγων· (1) ‘ οὕτως οὖν ἀίδιόν ἐστι καὶ ἄπειρον καὶ ἓν καὶ ὅμοιον πᾶ ν . (2 ) καὶ οὔ τ ’ ἂν ἀπόλοιτο οὔτε μεῖζον γίνοιτο οὔτε μετακοσμέοιτο οὔτε ἀλγεῖ οὔτε ἀνιᾶτα ι · εἰ γάρ τι τούτων πάσχο ι , οὐκ ἂν ἔτι ἓν εἴ η . εἰ γὰρ ἑτεροιοῦτα ι , ἀνάγκη τὸ ἐὸν μὴ ὁμοῖον εἶνα ι , ἀλλὰ ἀπόλλυσθαι τὸ πρόσθεν ἐό ν , τὸ δὲ οὐκ ἐὸν γίνεσθα ι . εἰ τοίνυν τριχὶ μιῆι μυρίοις ἔτεσιν ἑτεροῖον γίνοιτ ο , ὀλεῖται πᾶν ἐν τῶι παντὶ χρόνω ι . (3 ) ἀλ λ ’ οὐδὲ μετακοσμηθῆναι ἀνυστό ν · ὁ γὰρ κόσμος ὁ πρόσθεν ἐὼν οὐκ ἀπόλλυται οὔτε ὁ μὴ ἐὼν γίνετα ι . ὅτε δὲ μήτε προσγίνεται μηδὲν μήτε ἀπόλλυται μήτε ἑτεροιοῦτα ι , πῶς ἂν μετακοσμηθὲν τῶν ἐόντων εἴ η ; εἰ μὲν γάρ τι ἐγίνετο ἑτεροῖο ν , ἤδη ἂν καὶ μετακοσμηθεί η . (4 ) οὐδὲ ἀλγε ῖ · οὐ γὰρ ἂν πᾶν εἴη ἀλγέο ν · οὐ γὰρ ἂν δύναιτο ἀεὶ εἶναι χρῆμα ἀλγέο ν · οὐδὲ ἔχει ἴσην δύναμιν τῶι ὑγιε ῖ · οὐ δ ’ ἂν ὁμοῖον εἴ η , εἰ ἀλγέο ι · ἀπογινομένου γάρ τευ ἂν ἀλγέοι ἢ προσγινομένο υ , κοὐκ ἂν ἔτι ὁμοῖον εἴ η . (5 ) οὐ δ ’ ἂν τὸ ὑγιὲς ἀλγῆσαι δύναιτ ο · ἀπὸ γὰρ ἂν ὄλοιτο τὸ ὑγιὲς καὶ τὸ ἐό ν , τὸ δὲ οὐκ ἐὸν γένοιτ ο . (6 ) καὶ περὶ τοῦ ἀνιᾶσθαι ὡυτὸς λόγος τῶι ἀλγέοντ ι . (7 ) οὐδὲ κενεόν ἐστιν οὐδέ ν · τὸ γὰρ κενεὸν οὐδέν ἐστι ν · οὐκ ἂν οὖν εἴη τό γε μηδέ ν . οὐδὲ κινεῖτα ι · ὑποχωρῆσαι γὰρ οὐκ ἔχει οὐδαμῆ ι , ἀλλὰ πλέων ἐστί ν . εἰ μὲν γὰρ κενεὸν ἦ ν , ὑπεχώρει ἂν εἰς τὸ κενό ν · κενοῦ δὲ μὴ ἐόντος οὐκ ἔχει ὅκηι ὑποχωρήσε ι . (8 ) πυκνὸν δὲ καὶ ἀραιὸν οὐκ ἂν εἴ η . τὸ γὰρ ἀραιὸν οὐκ ἀνυστὸν πλέων εἶναι ὁμοίως τῶι πυκνῶ ι , ἀλ λ ’ ἤδη τὸ ἀραιόν γε κενεώτερον γίνεται τοῦ πυκνο ῦ . (9 ) κρίσιν δὲ ταύτην χρὴ ποιήσασθαι τοῦ πλέω καὶ τοῦ μὴ πλέ ω · εἰ μὲν οὖν χωρεῖ τι ἢ εἰσδέχετα ι , οὐ πλέω ν · εἰ δὲ μήτε χωρεῖ μήτε εἰσδέχετα ι , πλέω ν . ( 1 0 ) ἀνάγκη τοίνυν πλέων εἶνα ι , εἰ κενὸν μὴ ἔστι ν . εἰ τοίνυν πλέων ἐστί ν , οὐ κινεῖτα ι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "SIMPL. de caelo 558, 19 [vgl. A 14] εἰπὼν γὰρ περὶ τοῦ ὄντος ὅτι ἕν ἐστι καὶ ἀγένητον καὶ ἀκίνητον καὶ μηδενὶ κενῶι διειλημμένον, ἀλλ’ ὅλον ἑαυτοῦ πλῆρες, ἐπάγει· (1) ‘ μέγιστον μὲν οὖν σημεῖον οὗτος ὁ λόγο ς , ὅτι ἓν μόνον ἔστι ν · ἀτὰρ καὶ τάδε σημεῖ α . (2 ) εἰ γὰρ ἦν πολλ ά , τοιαῦτα χρὴ αὐτὰ εἶνα ι , οἷόν περ ἐγώ φημι τὸ ἓν εἶνα ι . εἰ γὰρ ἔστι γῆ καὶ ὕδωρ καὶ ἀὴρ καὶ πῦρ καὶ σίδηρος καὶ χρυσό ς , καὶ τὸ μὲν ζῶον τὸ δὲ τεθνηκό ς , καὶ μέλαν καὶ λευκὸν καὶ τὰ ἄλλ α , ὅσα φασὶν οἱ ἄνθρωποι εἶναι ἀληθ ῆ , εἰ δὴ ταῦτα ἔστ ι , καὶ ἡμεῖς ὀρθῶς ὁρῶμεν καὶ ἀκούομε ν , εἶναι χρὴ ἕκαστον τοιοῦτο ν , οἷόν περ τὸ πρῶτον ἔδοξεν ἡμῖ ν , καὶ μὴ μεταπίπτειν μηδὲ γίνεσθαι ἑτεροῖο ν , ἀλλὰ ἀεὶ εἶναι ἕκαστο ν , οἷόν πέρ ἐστι ν . νῦν δέ φαμεν ὀρθῶς ὁρᾶν καὶ ἀκούειν καὶ συνιένα ι · (3 ) δοκεῖ δὲ ἡμῖν τό τε θερμὸν ψυχρὸν γίνεσθαι καὶ τὸ ψυχρὸν θερμὸν καὶ τὸ σκληρὸν μαλθακὸν καὶ τὸ μαλθακὸν σκληρὸν καὶ τὸ ζῶον ἀποθνήισκειν καὶ ἐκ μὴ ζῶντος γίνεσθα ι , καὶ ταῦτα πάντα ἑτεροιοῦσθα ι , καὶ ὅ τι ἦν τε καὶ ὃ νῦν οὐδὲν ὁμοῖον εἶνα ι , ἀλ λ ’ ὅ τε σίδηρος σκληρὸς ἐὼν τῶι δακτύλωι κατατρίβεσθαι ὁμουρέω ν , καὶ χρυσὸς καὶ λίθος καὶ ἄλλο ὅ τι ἰσχυρὸν δοκεῖ εἶναι πᾶ ν , ἐξ ὕδατός τε γῆ καὶ λίθος γίνεσθα ι · ὥστε συμβαίνει μήτε ὁρᾶν μήτε τὰ ὄντα γινώσκει ν . (4 ) οὐ τοίνυν ταῦτα ἀλλήλοις ὁμολογε ῖ . φαμένοις γὰρ εἶναι πολλὰ καὶ ἀίδια (? ) καὶ εἴδη τε καὶ ἰσχὺν ἔχοντ α , πάντα ἑτεροιοῦσθαι ἡμῖν δοκεῖ καὶ μεταπίπτειν ἐκ τοῦ ἑκάστοτε ὁρωμένο υ . (5 ) δῆλον τοίνυ ν , ὅτι οὐκ ὀρθῶς ἑωρῶμεν οὐδὲ ἐκεῖνα πολλὰ ὀρθῶς δοκεῖ εἶνα ι · οὐ γὰρ ἂν μετέπιπτε ν , εἰ ἀληθῆ ἦ ν · ἀλ λ ’ ἦν οἷόν περ ἐδόκει ἕκαστον τοιοῦτο ν . τοῦ γὰρ ἐόντος ἀληθινοῦ κρεῖσσον οὐδέ ν . (6 ) ἢν δὲ μεταπέση ι , τὸ μὲν ἐὸν ἀπώλετ ο , τὸ δὲ οὐκ ἐὸν γέγονε ν . οὕτως οὖ ν , εἰ πολλὰ εἴ η , τοιαῦτα χρὴ εἶνα ι , οἷόν περ τὸ ἕ ν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "SIMPL. Phys. 87, 6 ὅτι γὰρ ἀσώματον εἶναι βούλεται τὸ ὄν [Mel.], ἐδήλωσεν εἰπών· ‘ εἰ μὲν οὖν εἴ η , δεῖ αὐτὸ ἓν εἶνα ι · ἓν δ ’ ἐὸν δεῖ αὐτὸ σῶμα μὴ ἔχει ν . εἰ δὲ ἔχοι πάχο ς , ἔχοι ἂν μόρι α , καὶ οὐκέτι ἓν εἴ η.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "— —109, 32 μέγεθος δὲ οὐ τὸ διαστατόν φησιν· αὐτὸς γὰρ ἀδιαίρετον τὸ ὂν δείκνυσιν· ‘ εἰ γὰρ διήιρητα ι , φησ ί , τὸ ἐό ν , κινεῖτα ι · κινούμενον δὲ οὐκ ἂν εἴη ‘. ἀλλὰ μέγεθος τὸ δίαρμα αὐτὸ λέγει τῆς ὑποστάσεως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "PALAEPHAT. de incredib. p. 22, 1 Festa ἀεὶ δὲ ἔγωγε ἐπαινῶ τοὺς συγγραφέας Μέλισσον καὶ Λαμίσκον τὸν Σάμιον ἐν ἀρχῆι λέγοντας· ‘ ἔστιν ἃ ἐγένετο νῦν καὶ 〈ἀεὶ〉 ἔσται ‘.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "diy-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "melissus-of-samos-testimonies-diy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/melissus-of-samos/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissus-of-samos-testimonies-diy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissus-of-samos-testimonies-diy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissus-of-samos-testimonies-diy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissus-of-samos-testimonies-diy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissus-of-samos/testimonies.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "dys-ab",
+      "title": {
+        "english": "Fragments on Socrates and Education",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σωκράτους καὶ Παιδείας"
+      },
+      "url_slug": "aeschines-of-sphettus-fragments-education-dys-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschines-of-sphettus/fragments-education",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-sphettus-fragments-education-dys-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-sphettus-fragments-education-dys-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-sphettus-fragments-education-dys-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-sphettus-fragments-education-dys-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-sphettus/fragments-education.epub"
+      }
+    },
+    {
+      "eul_wid": "lya-aa",
+      "title": {
+        "english": "Fragments on Stoic Logic",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Στωικῆς Λογικῆς"
+      },
+      "url_slug": "crinis-the-stoic-logic-fragments-lya-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/crinis-the-stoic/logic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic-logic-fragments-lya-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic-logic-fragments-lya-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic-logic-fragments-lya-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic-logic-fragments-lya-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic/logic-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-es",
+      "title": {
+        "english": "Lysander",
+        "ancient_greek": "Λύσανδρος"
+      },
+      "url_slug": "plutarch-of-chaeronea-lysander-okg-es",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/lysander",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lysander-okg-es.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lysander-okg-es.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lysander-okg-es.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lysander-okg-es.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/lysander.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-cc",
+      "title": {
+        "english": "On Flesh-Eating Discourse A",
+        "ancient_greek": "Περὶ σαρκοφαγίας λόγος α′"
+      },
+      "url_slug": "plutarch-of-chaeronea-flesh-eating-cc-okg-cc",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/flesh-eating-cc",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cc-okg-cc.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cc-okg-cc.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cc-okg-cc.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cc-okg-cc.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/flesh-eating-cc.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-ai",
+      "title": {
+        "english": "On Memory and Recollection",
+        "ancient_greek": "Περὶ Μνήμης καὶ Ἀναμνήσεως"
+      },
+      "url_slug": "aristotle-memory-recollection-hgw-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/memory-recollection",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-memory-recollection-hgw-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-memory-recollection-hgw-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-memory-recollection-hgw-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-memory-recollection-hgw-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/memory-recollection.epub"
+      }
+    },
+    {
+      "eul_wid": "beu-ac",
+      "title": {
+        "english": "On Piety and Festivity",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "xenophanes-of-colophon-piety-festivity-beu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophanes-of-colophon/piety-festivity",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-piety-festivity-beu-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-piety-festivity-beu-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-piety-festivity-beu-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-piety-festivity-beu-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/piety-festivity.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-dm",
+      "title": {
+        "english": "On the Departed",
+        "ancient_greek": "Περὶ τῶν ἐκλελοιπότων"
+      },
+      "url_slug": "plutarch-of-chaeronea-departed-okg-dm",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/departed",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-departed-okg-dm.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-departed-okg-dm.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-departed-okg-dm.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-departed-okg-dm.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/departed.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-bd",
+      "title": {
+        "english": "On the Heavens",
+        "ancient_greek": "Περὶ Οὐρανοῦ"
+      },
+      "url_slug": "aristotle-heavens-hgw-bd",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/heavens",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-heavens-hgw-bd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-heavens-hgw-bd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-heavens-hgw-bd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-heavens-hgw-bd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/heavens.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/melissus-of-samos/nature-being",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissus-of-samos-nature-being-diy-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissus-of-samos-nature-being-diy-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissus-of-samos-nature-being-diy-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissus-of-samos-nature-being-diy-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissus-of-samos/nature-being.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

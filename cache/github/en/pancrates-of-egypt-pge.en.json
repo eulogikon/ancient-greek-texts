@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "pge",
+  "auth_slug": "pancrates-of-egypt",
+  "name": {
+    "english": "Pancrates of Egypt",
+    "ancient_greek": "Παγκράτης ὁ Αἰγύπτιος"
+  },
+  "seo_h1": "Pancrates of Egypt on Antinous and Hadrian",
+  "seo": {
+    "browser_title": "Pancrates of Egypt Epic Poet on Eulogikon Greek Archive",
+    "meta_title": "Pancrates of Egypt Ancient Greek Epic Poetry Works",
+    "meta_description": "Pancrates of Egypt was a 2nd century CE epic poet writing in Homeric Greek. Two works survive. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Pancrates of Egypt was a Greek epic poet from Alexandria active during the reign of Emperor Hadrian in the 2nd century CE. According to the Byzantine encyclopedia Suda, he was also a priest and a grammarian, and a contemporary of the sophist Hadrian of Tyre.</p>\n<p class=\"research-text\">His known works are two lost epic poems composed in the Homeric dialect. The first was the &quot;Thalassia&quot; or &quot;Sea-poem,&quot; a hexameter work on marine themes that survives in a few fragments cited by authors such as Athenaeus. The second was the &quot;Works of Heracles,&quot; which is known only by its title.</p>\n<p class=\"research-text\">Pancrates is a representative figure of the Second Sophistic, participating in its archaizing revival of classical Greek epic forms. His surviving fragments contribute to the understanding of Greek poetry within the imperial Roman cultural milieu.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "pge-aa",
+      "title": {
+        "english": "Fragments on Antinous and Hadrian",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀντινόου καὶ Ἁδριανοῦ"
+      },
+      "url_slug": "pancrates-of-egypt-antinous-hadrian-pge-aa",
+      "passages": 31,
+      "links": {
+        "html": "https://eulogikon.org/grc/pancrates-of-egypt/antinous-hadrian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt-antinous-hadrian-pge-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt-antinous-hadrian-pge-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt-antinous-hadrian-pge-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt-antinous-hadrian-pge-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt/antinous-hadrian.epub"
+      }
+    },
+    {
+      "eul_wid": "pge-ab",
+      "title": {
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
+      },
+      "url_slug": "pancrates-of-egypt-testimony-pge-ab",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/pancrates-of-egypt/testimony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt-testimony-pge-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt-testimony-pge-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt-testimony-pge-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt-testimony-pge-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt/testimony.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/pancrates-of-egypt",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pancrates-of-egypt-pge.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pancrates-of-egypt-pge.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pancrates-of-egypt-pge.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pancrates-of-egypt-pge.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

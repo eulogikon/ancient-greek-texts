@@ -1,0 +1,371 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "lea-af",
+  "eul_aid": "lea",
+  "author_slug": "orphic-poems",
+  "work_slug": "medicinal-herbs",
+  "url_slug": "orphic-poems-medicinal-herbs-lea-af",
+  "author": {
+    "english": "Orphic Poems ",
+    "ancient_greek": "Ὀρφικὰ ποιήματα"
+  },
+  "title": {
+    "english": "Fragments on Medicinal Herbs",
+    "ancient_greek": "Ἀποσπάσματα περὶ Βοτανῶν Ἰατρικῶν"
+  },
+  "seo": {
+    "browser_title": "Fragments of Orphic Poems on Medicinal Herbs on Eulogikon",
+    "meta_title": "Classical Orphic Poems on Medicinal Herbs in Ancient Greek",
+    "meta_description": "Ancient Greek fragments on medicinal herbs from the Orphic tradition. Explore botanical and medical knowledge. Read in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Fragments on Medicinal Herbs is a collection of pseudepigraphic verses attributed to the mythical poet Orpheus, representing a specialized branch of the broader Orphic literary corpus. These fragments, which survive only through quotations in later authors such as Pliny the Elder and the medical compiler Aetius of Amida, consist of didactic hexameter poetry detailing the therapeutic properties of various plants. The work integrates practical botanical and pharmacological knowledge within a religious framework, presenting herbal lore as a form of divinely revealed wisdom. Its descriptions often blend empirical observation with a ritualistic or magical understanding of healing, as seen in instructions for preparing salves and poultices to treat burns or headaches. The attribution of such material to Orpheus exemplifies the expansion of his legendary authority from theology and cosmology into the domain of natural philosophy. As a modern scholarly reconstruction from scattered references, the collection has no continuous manuscript tradition. Its significance lies in illustrating the intersection of ritual, magic, and proto-scientific inquiry in antiquity, seeking to anchor contemporary medical practices in the prestige of ancient divine revelation. While its direct influence is difficult to trace, the fragments belong to the pervasive Orphic tradition that contributed to the development of later Greek philosophical and esoteric thought.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t",
+      "text": "Ἰδιοφυῆ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "test1",
+      "text": "Plin. index XXVIII (de medicinis ex animalibus): Orpheo qui Ἰδιοφυῆ scripsit.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "fr1",
+      "text": "Plin. XXV 12: primus autem omnium, quos memoria nouit, Orpheus de herbis curiosius aliqua prodidit etc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "fr2",
+      "text": "Plin. XX 32: Orpheus amatorium inesse staphylino dixit etc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "fr3",
+      "text": "Aetius, Libr. medicinal. I 10 f. 13 b 2 ss. (Ald. 1534): 1. Ὀρφεὺς δέ φησιν ὅτι ὁ χυλὸς αὐτῆς (sc. τῆς καλαμίνθης) σὺν ἴσῳ ῥοδίνῳ μετὰ ψιμυθίου λειωθεὶς ὡς γλοιοῦ ἔχει πάχος καὶ ἐπιχριόμενος τὰ πυρίκαυστα θεραπεύει. τὸ δὲ παράδοξον ὅτι οὐδὲ οὐλὴ φαίνεται καὶ τριχοφυεῖ ὁ τόπος. 2. σὺν κιμωλίᾳ δὲ καὶ ἀλόῃ ἴσοις λειώσας τὸν χυλὸν καὶ ἐπιχρίσας μέτωπον καὶ κροτάφους παύσεις παραχρῆμα κεφαλῆς ὀδύνας.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "lea-ad",
+      "title": {
+        "english": "Argonautica",
+        "ancient_greek": "Ἀργοναυτικά"
+      },
+      "url_slug": "orphic-poems-argonautica-lea-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/orphic-poems/argonautica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-argonautica-lea-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-argonautica-lea-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-argonautica-lea-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-argonautica-lea-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/argonautica.epub"
+      }
+    },
+    {
+      "eul_wid": "lea-ab",
+      "title": {
+        "english": "Astrological Fragment",
+        "ancient_greek": "Ἀστρολογικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "orphic-poems-astrological-fragment-lea-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/orphic-poems/astrological-fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-astrological-fragment-lea-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-astrological-fragment-lea-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-astrological-fragment-lea-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-astrological-fragment-lea-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/astrological-fragment.epub"
+      }
+    },
+    {
+      "eul_wid": "lea-ac",
+      "title": {
+        "english": "Fragments P. Derveni",
+        "ancient_greek": "Ἀποσπάσματα Π. Δερβενίου"
+      },
+      "url_slug": "orphic-poems-derveni-lea-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/orphic-poems/derveni",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-derveni-lea-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-derveni-lea-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-derveni-lea-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-derveni-lea-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/derveni.epub"
+      }
+    },
+    {
+      "eul_wid": "lea-aj",
+      "title": {
+        "english": "Hymns",
+        "ancient_greek": "Ὕμνοι"
+      },
+      "url_slug": "orphic-poems-hymns-lea-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/orphic-poems/hymns",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-hymns-lea-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-hymns-lea-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-hymns-lea-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-hymns-lea-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/hymns.epub"
+      }
+    },
+    {
+      "eul_wid": "lea-ah",
+      "title": {
+        "english": "On Stones",
+        "ancient_greek": "Περὶ λίθων"
+      },
+      "url_slug": "orphic-poems-stones-ah-lea-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/orphic-poems/stones-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ah-lea-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ah-lea-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ah-lea-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ah-lea-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/stones-ah.epub"
+      }
+    },
+    {
+      "eul_wid": "lea-ai",
+      "title": {
+        "english": "On Stones",
+        "ancient_greek": "Περὶ λίθων"
+      },
+      "url_slug": "orphic-poems-stones-ai-lea-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/orphic-poems/stones-ai",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ai-lea-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ai-lea-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ai-lea-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ai-lea-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/stones-ai.epub"
+      }
+    },
+    {
+      "eul_wid": "lea-ag",
+      "title": {
+        "english": "Orphic Cosmogony and Soul Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "orphic-poems-cosmogony-soul-lea-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/orphic-poems/cosmogony-soul",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-cosmogony-soul-lea-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-cosmogony-soul-lea-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-cosmogony-soul-lea-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-cosmogony-soul-lea-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/cosmogony-soul.epub"
+      }
+    },
+    {
+      "eul_wid": "lea-aa",
+      "title": {
+        "english": "Proclamations-Stones",
+        "ancient_greek": "Προκηρύξεις περὶ λίθων"
+      },
+      "url_slug": "orphic-poems-proclamations-stones-lea-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/orphic-poems/proclamations-stones",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-proclamations-stones-lea-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-proclamations-stones-lea-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-proclamations-stones-lea-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-proclamations-stones-lea-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/proclamations-stones.epub"
+      }
+    },
+    {
+      "eul_wid": "lea-ae",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "orphic-poems-testimonies-lea-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/orphic-poems/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-testimonies-lea-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-testimonies-lea-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-testimonies-lea-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-testimonies-lea-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/testimonies.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "utq-af",
+      "title": {
+        "english": "Commentary-Plato's Phaedo",
+        "ancient_greek": "Σχόλια εἰς τὸν Φαίδωνα Πλάτωνος"
+      },
+      "url_slug": "olympiodorus-the-younger-of-alexandria-phaedo-commentary-utq-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/olympiodorus-the-younger-of-alexandria/phaedo-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-phaedo-commentary-utq-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-phaedo-commentary-utq-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-phaedo-commentary-utq-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-phaedo-commentary-utq-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/phaedo-commentary.epub"
+      }
+    },
+    {
+      "eul_wid": "sno-as",
+      "title": {
+        "english": "Fragments on Antioch",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀντιοχείας"
+      },
+      "url_slug": "julian-the-apostate-antioch-fragments-sno-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/julian-the-apostate/antioch-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-antioch-fragments-sno-as.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-antioch-fragments-sno-as.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-antioch-fragments-sno-as.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-antioch-fragments-sno-as.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/antioch-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "iso-aq",
+      "title": {
+        "english": "Hecale",
+        "ancient_greek": "Ἑκάλη"
+      },
+      "url_slug": "callimachus-of-cyrene-hecale-iso-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/hecale",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-hecale-iso-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-hecale-iso-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-hecale-iso-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-hecale-iso-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/hecale.epub"
+      }
+    },
+    {
+      "eul_wid": "jxi-aa",
+      "title": {
+        "english": "On Beauty and Human Excellence",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dius-of-phoenicia-beauty-excellence-jxi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dius-of-phoenicia/beauty-excellence",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dius-of-phoenicia-beauty-excellence-jxi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dius-of-phoenicia-beauty-excellence-jxi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dius-of-phoenicia-beauty-excellence-jxi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dius-of-phoenicia-beauty-excellence-jxi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dius-of-phoenicia/beauty-excellence.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-bj",
+      "title": {
+        "english": "On Friendship",
+        "ancient_greek": "Περὶ φιλίας"
+      },
+      "url_slug": "themistius-friendship-rye-bj",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/friendship",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-friendship-rye-bj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-friendship-rye-bj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-friendship-rye-bj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-friendship-rye-bj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/friendship.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-dd",
+      "title": {
+        "english": "On Love of Wealth",
+        "ancient_greek": "Περὶ φιλοπλουτίας"
+      },
+      "url_slug": "plutarch-of-chaeronea-love-wealth-okg-dd",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/love-wealth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-love-wealth-okg-dd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-love-wealth-okg-dd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-love-wealth-okg-dd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-love-wealth-okg-dd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/love-wealth.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-au",
+      "title": {
+        "english": "On Those Who Failed Under Valens",
+        "ancient_greek": "Περὶ τῶν ἠτυχηκότων ἐπὶ Οὐάλεντος"
+      },
+      "url_slug": "themistius-failed-valens-rye-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/failed-valens",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-failed-valens-rye-au.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-failed-valens-rye-au.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-failed-valens-rye-au.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-failed-valens-rye-au.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/failed-valens.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-ad",
+      "title": {
+        "english": "To Theodosius, Which is the Most Royal of Virtues",
+        "ancient_greek": "Εἰς Θεοδόσιον· τίς ἡ βασιλικωτάτη τῶν ἀρετῶν"
+      },
+      "url_slug": "themistius-to-theodosius-virtues-rye-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/to-theodosius-virtues",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-to-theodosius-virtues-rye-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-to-theodosius-virtues-rye-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-to-theodosius-virtues-rye-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-to-theodosius-virtues-rye-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/to-theodosius-virtues.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/orphic-poems/medicinal-herbs",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-medicinal-herbs-lea-af.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-medicinal-herbs-lea-af.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-medicinal-herbs-lea-af.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-medicinal-herbs-lea-af.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/medicinal-herbs.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

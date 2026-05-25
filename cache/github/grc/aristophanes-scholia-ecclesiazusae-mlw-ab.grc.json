@@ -1,0 +1,2645 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "mlw-ab",
+  "eul_aid": "mlw",
+  "author_slug": "aristophanes-scholia",
+  "work_slug": "ecclesiazusae",
+  "url_slug": "aristophanes-scholia-ecclesiazusae-mlw-ab",
+  "author": {
+    "english": "Aristophanes Scholia",
+    "ancient_greek": "Ἀριστοφάνους Σχόλια"
+  },
+  "title": {
+    "english": "Scholia-Ecclesiazusae",
+    "ancient_greek": "Σχόλια εἰς Ἐκκλησιάζουσας"
+  },
+  "seo": {
+    "browser_title": "Scholia Ecclesiazusae by Aristophanes Scholia on Eulogikon",
+    "meta_title": "Scholia on Ecclesiazusae by Aristophanes Scholia in Greek",
+    "meta_description": "Hellenistic scholia offering detailed grammatical and linguistic commentary on Aristophanes' comedy Ecclesiazusae, Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Scholia to the Ecclesiazusae</strong> constitutes a body of ancient and medieval explanatory notes on Aristophanes&#x27; comedy <strong>Assemblywomen</strong>. It is a composite work, comprising 323 individual scholia compiled over many centuries and transmitted primarily in the margins of medieval Greek manuscripts of the play. These annotations function as a critical guide, elucidating obscure vocabulary, Athenian cultural and political references, historical figures, and the play&#x27;s complex humor for later readers. They also address technical aspects such as meter and textual variants, and they highlight the comedy&#x27;s parody of contemporary philosophical ideas, notably those found in Plato&#x27;s <strong>Republic</strong>. Scholarly analysis reveals the collection as a stratified text, with its foundational core originating in the philological scholarship of the Hellenistic period, particularly from the Library of Alexandria in the third and second centuries BCE. This early material was subsequently condensed, augmented, and transmitted by Byzantine scholars. The compilation&#x27;s primary function was likely pedagogical, designed to aid students and readers in navigating a linguistically and culturally remote classical work. The scholia survive exclusively within the manuscript tradition of Aristophanes&#x27; plays, most significantly in the tenth-century Codex Ravennas. The original, comprehensive Hellenistic commentaries are lost; the extant scholia represent later, abbreviated excerpts copied by scribes. The transmission history is intricate, with notable variations between manuscript witnesses, requiring modern editorial scholarship to disentangle the older, more authoritative layers of commentary from subsequent Byzantine additions and glosses.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "arg eccl t",
+      "text": "ΥΠΟΘΕΣΕΙΣ Αἱ γυναῖκες συνέθεντο πάντα μηχανήσασθαι εἰς τὸ δόξαι ἄνδρες εἶναι, καὶ ἐκκλησιάσασαι πεῖσαι παραδοῦναι σφίσι τὴν πόλιν, δημηγορησάσης μιᾶς ἐξ αὐτῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "arg eccl 1",
+      "text": "αἱ δὲ μηχαναὶ τοῦ δόξαι αὐτὰς ἄνδρας εἶναι τοιαῦται. πώγωνας περιθέτους καὶ ἀνδρείαν ἀναλαμβάνουσι στολὴν, προνοήσασαι καὶ προασκήσασαι τὸ σῶμα αὑτῶν, ὡς ὅτι μάλιστα ἀνδρικὸν εἶναι δόξαι. μία δὲ ἐξ αὐτῶν Πραξαγόρα λύχνον ἔχουσα προέρχεται κατὰ τὰς συνθήκας καὶ φησὶν «ὦ λαμπρὸν ὄμμα.» (ΑΡΙΣΤΟΦΑΝΟΥΣ ΓΡΑΜΜΑΤΙΚΟΥ Ἐν τοῖς Σκίροις τὰ γύναι’ ἔκρινεν ἐν στολαῖς ἀνέρων προκαθίζοντα, γενομένης ἐκκλησίας, περιθέμεναι πώγωνας ἀλλοτρίων τριχῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "arg eccl 2 (t1)",
+      "text": "ἐποίησαν οὕτως. ὑστεροῦντες οὖν στολαῖς ἄνδρες γυναικῶν ἐκάθισαν· καὶ δὴ μία δημηγορεῖ περὶ τοῦ λαβούσας τῶν ὅλων τὴν ἐπιτροπὴν βέλτιον ἄρξειν μυρίῳ· ἐκέλευσέ τ’ εἰς κοινὸν φέρειν τὰ χρήματα καὶ χρῆσθ’ ἅπασιν ἐξ ἴσου ταῖς οὐσίαις καὶ ταῖς γυναιξὶ μετατίθεσθαι τοὺς νόμους.) SCHOLIA IN ECCLESIAZUSAS Ὦ λαμπρὸν: Πραξαγόρα λύχνον ἔχουσα προέρχεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1",
+      "text": "(ὑποπτεύεται δὲ ὁ ἴαμβος ἢ τοῦ Ἀγάθωνος ἢ τοῦ Δικαιογένους, διὰ τὰς ἑταίρας ἐγκαθιζομένας. ὃ πρὸς οὐδὲν εἶπεν, ἀλλὰ μόνον ὅτι τὰς ἑταίρας δεῖ πως.) βούλεται δὲ εἰπεῖν ὅτι τοὺς ἄνδρας προλάβωμεν εἰς τὴν ἐκκλησίαν. τοῦ τροχηλάτου: Διὰ τὸν κεράμεον τροχόν. καταχρηστικῶς δὲ εἶπεν· οὐ γὰρ ἐν τροχῷ ἐλαύνεται, ἀλλὰ τύπῳ γίνεται. κάλλιστα: Ἡ ἔννοια, κάλλιστα τοῖς σοφοῖς εὑρημένον, τοῖς εὖ σκεπτομένοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 2",
+      "text": "οἱ δὲ τοῖς φύλαξιν, ὅτι μετὰ λύχνων σκοποῦσιν. (ῥύμης δὲ τῆς ὁρμῆς.) ὅρμα φλογός: Σύμβολον ἡμῖν δίδου περὶ τῶν συγκειμένων διὰ τῆς φλογός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 10",
+      "text": "χορδουμένων: Κινουμένων. τοῦτο δὲ λέγει, ἐπεὶ οἱ συνουσιάζοντες κινοῦνται. ἀπορρήτους μυχούς: Τὸ αἰδοῖον λέγει τῆς γυναικὸς, διὰ τὸ μηδένα αὐτὸ βλέπειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 13",
+      "text": "(ἀφαύων: Ἀποξυρῶν.) τρίχα: Τοῦ αἰδοίου τὴν ἐπικειμένην τρίχα. στοάς: Τὰ ταμιεῖα στοὰς λέγουσι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 14",
+      "text": "καὶ γὰρ παραμήκη. —ἐν αἷς ὁ σῖτος. R. Σκίροις: Σκίρα ἑορτή ἐστι τῆς Σκιράδος Ἀθηνᾶς, Σκιροφοριῶνος ιβʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 18",
+      "text": "οἱ δὲ Δήμητρος καὶ Κόρης. ἐν ᾗ ὁ ἱερεὺς τοῦ Ἐρεχθέως φέρει σκιάδειον λευκὸν, ὃ λέγεται σκῖρον. ἃς Σφυρόμαχος: (Γράφεται) ἃς Κλεόμαχος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 22",
+      "text": "(καὶ) φασὶ Κλεόμαχον τραγικὸν ὑποκριτήν. οὗτος φαίνεται ὑποκρινόμενός ποτε εἰρηκέναι ἕδρας ἐν δράματι καὶ ἐσκῶφθαι διὰ τὸ κακέμφατον. ὁ δὲ Σφυρόμαχος ψήφισμα εἰσηγήσατο, ὥστε τὰς γυναῖκας καὶ τοὺς ἄνδρας χωρὶς καθέζεσθαι καὶ τὰς ἑταίρας χωρὶς τῶν ἐλευθέρων. θαἱμάτια, τὰ ἱμάτια.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 26",
+      "text": "R. ὥρα βαδίζειν: Μία τῶν ἐρχομένων γυναικῶν πρὸς τὴν Πραξαγόραν ταῦτα λέγει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 30",
+      "text": "—κῆρυξ ὁ ἀλέκτωρ. R. θρυγονῶσα: Ἡσύχως κνῶσα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 36",
+      "text": "ὑποδουμένη: Τὰ ὑποδήματα βάλλουσα. κνίσμα σου τὸν ἠρεμαῖον κνισμόν. Σαλαμίνιος: Ὡς ναυτικῶν ὄντων τῶν Σαλαμινίων καὶ κατωφερῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 38",
+      "text": "δύναται δὲ καὶ ἀπὸ τῆς Σαλαμινίας νεὼς νοεῖσθαι τὸ Σαλαμίνιος, ὡς ἀπὸ τῆς Παράλου Παράλιος. κἀρεβίνθων: Ὑποπίνοντες γὰρ ἔκαπτον φρυκτοὺς ἐρεβίνθους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 46",
+      "text": "τὴν Σμικυθίωνος: (Λείπει) γυναῖκα. ἐμβάσιν: Ἐμβὰς ἀνδρεῖον ὑπόδημα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 48",
+      "text": "κατὰ σχολήν: ἀντὶ τοῦ μόλις ἢ ἀψοφητί. R. L. Γευσιστράτην: Παρὰ τὴν Λυσιστράτην εἴρηται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 50",
+      "text": "τὴν λαμπάδα: Τὴν δᾷδα λέγει διὰ τὸ νύκτα εἶναι. ἔστ’ ὄφελος: Ἀντὶ τοῦ αἱ εὐγενεῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 56",
+      "text": "τριχίδων: Λέγει τῶν καλουμένων νῦν θρισσῶν. αὗται δὲ ἐσθιόμεναι βῆχα ἀνεγείρουσιν. ἔχω τὰς μασχάλας: Ἔθρεψαν γὰρ τρίχας, ἵνα ὅταν χειροτονῶσι, δοκῶσιν ἄνδρες εἶναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 61",
+      "text": "λόχμης: ἀντὶ τοῦ συμφύτου τόπου. R. πρὸς τὸν ἥλιον: Ὥστε μέλαινα γενέσθαι ὡς ἀνήρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 66",
+      "text": "ἔρριψα: Ξυρὸν ἔρριψα, ἵνα μὴ βλέπουσα αὐτὸ ἐρεθιζοίμην πρὸς ξυράν. Ἐπικράτους: (Οὗτος εἰς δασύτητα κωμῳδεῖται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 71",
+      "text": ") ἦν δὲ ῥήτωρ καὶ δημαγωγός. οὗτος μέγαν πώγωνα ἔχων, ἐπεκαλεῖτο σακεσφόρος. καὶ Πλάτων ὁ κωμικός φησιν ἄναξ ὑπήνης Ἐπίκρατες σακεσφόρε. Λακωνικάς: Εἶδος ὑποδήματος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 77",
+      "text": "Λαμίου: Λάμιός τις πένης καὶ ἀπὸ ξυλοφορίας ζῶν. (διὸ καὶ βακτηρίαν ἐξενέγκασα αὐτοῦ φησιν εἶναι. κωμῳδεῖται γὰρ καὶ ὡς δεσμοφύλαξ. ἀρσενικῶς δὲ Λαμίαν. ὑπὲρ ἧς ὁ Κράτης λέγει ἐν τῷ ὁμωνύμῳ δράματι, ὅτι σκυτάλην ἔχουσα ἐπέρδετο.) ὧν πέρδεται: Ἀντὶ τοῦ ὧν φέρει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 78",
+      "text": "ἢ ἴσως ὑπὸ τοῦ βάρους ἐπέρδετο. —τὸ σκύταλον τὸ ῥόπαλον. R. Γ. (τὴν τοῦ πανόπτου: Τοῦ τὴν Ἰὼ φυλάττοντος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 80",
+      "text": "αἰνίττεται δὲ ὡς ὄντος αὐτοῦ δεσμοφύλακος. ἀναφέρει δὲ τοῦτον ἐπὶ τὸν παρὰ Σοφοκλεῖ ἐν Ἰνάχῳ Ἄργον.) εἴπερ τις ἄλλος: Ὡς οὐδεὶς ἄλλος τὸν δῆμον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 81",
+      "text": "βουκολεῖν δὲ ὡς τὴν Ἰὼ ὁ Ἄργος ἐν Ἰνάχῳ Σοφοκλέους. R. ὑπὸ τῷ λίθῳ: Ὑπὸ τῷ βήματι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 88",
+      "text": "ταυτί γε τοι: Γυνὴ ἔρχεται φέρουσα καὶ ξαίνουσα ἔρια, πρὶν ἀπελθεῖν ἐκεῖσε. πληρουμένης: Οἷον ἕως συνάγονται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 89",
+      "text": "φθάσαι γὰρ, φησὶ, δεῖ, καὶ μὴ μεῖναι ἕως πληρωθῇ. παραφῆναι: Παραδεῖξαι ὡς πρὸς ἄνδρας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 96",
+      "text": "ὑπερβαίνουσαν: Ἐπὶ τὸ βῆμα ἀναβαίνουσαν. Φορμίσιος: (Καὶ) οὗτος δασὺς (ἦν).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 97",
+      "text": "αἰνίττεται δὲ τὸ (γυναικεῖον) αἰδοῖον. ἀντὶ τοῦ ὅτε καθήμεθα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 100",
+      "text": "R. Ἀγύρριος: Ὁ Ἀγύρριος στρατηγὸς θηλυδριώδης, ἄρξας ἐν Λέσβῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 102",
+      "text": "καὶ τὸν μισθὸν δὲ τῶν ποιητῶν συνέτεμε, (καὶ πρῶτος ἐκκλησιαστικὸν δέδωκεν). ὁ δὲ Πρόνομος αὐλητὴς μέγαν ἔχων πώγωνα, Ἀγύρριος δὲ εὐρύπρωκτος. οὗτος οὖν τὸν Προνόμου ἔχων πώγωνα λανθάνει ὢν γυνή. τούτου γέ τοι: Νὺξ γὰρ ὑπόκειται ἔτι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 105",
+      "text": "ὑπερβατόν· καὶ τὸ ἑξῆς· τούτου γέ τοι ἕνεκα τοσοῦτον τόλμημα τολμῶμεν, νὴ τὴν ἐπιοῦσαν ἡμέραν, ἤν πως παραλαβεῖν. νῦν μὲν γάρ: Παρὰ τὴν παροιμίαν ὅκ’ ἀργύριον ᾖ πάντα θεῖ κἀλαύνεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 109",
+      "text": "ὅ ἐστιν οὔτε ἀνέμοις οὔτε κώπαις πλέομεν. (καὶ πῶς γυναικῶν: Ἐκ τραγῳδίας τοῦτο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 110",
+      "text": ") σποδοῦνται: Κινοῦνται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 114",
+      "text": "(κατὰ τύχην: Ἤγουν κατὰ συνουσίαν.) ἡ ’μὴ ’μπειρία: Ἀντὶ τοῦ ἡ ἀπειρία.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 116",
+      "text": "ἐπίτηδες: Ἀντὶ τοῦ ἐκ σπουδῆς. R. Γ. ἅτινα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 117",
+      "text": "R. περιδουμένη: Περιδεσμεύουσα τὴν τριχίνην γενειάδα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 118",
+      "text": "γένειον γὰρ ὁ τόπος. περίδου: Περίθες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 122",
+      "text": "περιδήσομαι: Ὅτι καὶ οἱ δημαγωγοὶ ἐστέφοντο. (τάλαν: Παρέλκει τὸ τάλαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 124",
+      "text": ") καταγέλαστον: Τὸ ἡμᾶς πώγωνας ἔχειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 126",
+      "text": "σηπίαις: (Σηπία εἶδος ἰχθύος.) ἀπρόσλογος δὲ ἡ εἰκασία. —λευκαὶ γὰρ αἱ σηπίαι. R. ἐσταθευμέναις δὲ, ἐξ ἐπιπολῆς ὀπτηθείσαις. (σταθεύειν γὰρ τὸ μὴ λίαν ὀπτῆσαι. ἢ χλιανθείσαις πυρί.) περιστίαρχος: Ὁ τῶν καθαρσίων προηγούμενος ἐν ταῖς ἐκκλησίαις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 128",
+      "text": "περίστια γὰρ τὰ καθάρσια. τὴν γαλῆν: εἰς τὴν λεπτότητα τοῦ δελφακίου. R. Γ. Ἀρίφραδες: Ὡς ἀναμεμιγμένου αὐταῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 129",
+      "text": "λοιδορεῖται δὲ πρὸς γυναῖκας αἰσχρὸς ὢν κιθαρῳδός. στεφανοῦνται γὰρ οἱ δημηγοροῦντες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 131",
+      "text": "Γ. πρὸς τὸ τῶν γυναικῶν φίλοινον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 132",
+      "text": "R. Γ. ἐστεφανωσάμην: ἐπεὶ καὶ οἱ ἐν τοῖς συμποσίοις ἐστεφανοῦντο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 133",
+      "text": "R. Γ. οὐ μόνον ζωρὸν, ἀλλὰ καὶ εὔζωρον, ἄκρατον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 137",
+      "text": "R. ἀντὶ τοῦ ἐνθυμουμένων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 138",
+      "text": "R. Γ. μεθυόντων ἐστὶ: Μανικά.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 139",
+      "text": "διαβάλλει τοὺς Ἀθηναίους ὡς ἀεὶ κακὰ βουλευομένους. μὴ ἔχειν τοῦτον τὸν πώγωνα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 145",
+      "text": "R. Γ. ἀφαυανθήσομαι: Ξηρανθήσομαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 148",
+      "text": "ἐργάζεται: Τὸ πρᾶγμα ἀνύεται. λέγει δὲ ὅτι λοιπὸν πρωΐας ἐγένετο. διερεισαμένη: Οἷον διαπηξαμένη, ἀσφαλισαμένη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 151",
+      "text": "(τῶν ἠθάδων: Τῶν ἔθος ἐχόντων λέγειν.) ἥσυχος: ἀντὶ τοῦ ἥσυχα τάδε τοιαῦτα ἐστί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 152",
+      "text": "Rav. (ἐμὴν μίαν: Λείπει γνώμην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 153",
+      "text": ") μὰ τὼ θεώ: (Ἐπειδὴ γυναικῶν ὁ ὅρκος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 155",
+      "text": ") παίζει. οὐ γὰρ δεῖ σε, φησὶν, ὑποκρινομένην ἄνδρα γυναικεῖον ὅρκον ὀμνύναι τὰς θεάς. ἀκριβωθήσεται: Ἀκριβῶς μελετηθήσεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 167",
+      "text": "Ἐπίγονόν γ’ ἐκεῖνον: Οὗτος κωμῳδεῖται ὡς μαλακὸς καὶ ὡς μετὰ γυναικῶν ἀεὶ εὑρισκόμενος. ἀποφθείρου, πορεύου μετὰ φθορᾶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 169",
+      "text": "R. Γ. τὸν στέφανον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 171",
+      "text": "R. ἀντὶ τοῦ κατορθῶσαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 172",
+      "text": "R. τὰ τῆς πόλεως: Ἐντεῦθεν ἡ ὑπόκρισις τῆς δημηγορίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 185",
+      "text": "οὗτος πονηρός ἐστι. R. τοὺς μισθοφορεῖν: Τοὺς μισθοὺς βουλομένους λαβεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 188",
+      "text": "καὶ γὰρ παρὰ τῶν δημαγωγῶν λαμβάνουσι, καὶ ὁ μὴ λαβὼν μισεῖ θέλων λαβεῖν. τὸ συμμαχικόν: Τὸ πρὸς τοὺς συμμάχους δίκαιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 193",
+      "text": "R. Γ. ἡ μὲν γνώμη τίς ἦν καὶ ὑπὸ τίνος ἄδηλον. περὶ δὲ τοῦ συμμαχικοῦ φιλόχορος ἱστορεῖ ὅτι πρὸ δύο ἐτῶν ἐγένετο συμμαχία Λακεδαιμονίων καὶ Βοιωτῶν. ὁ τοῦτ’ ἀναπείσας: Κόνωνα λέγει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 198",
+      "text": "γεωργοῖς: Ἐβαροῦντο γὰρ (ταῖς) τριηραρχίαις. Κορινθίοις: Ἦσαν γὰρ διάφοροι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 199",
+      "text": "τὸ δὲ σοί ὡς πρὸς τὸν δῆμον. Ἱερώνυμος σοφός: Κατ’ εἰρωνείαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 201",
+      "text": "ὁ γὰρ Ἀργεῖος σοφὸς, ὁ δ’ Ἱερώνυμος ἀμαθής. ταῦτα δὲ εἰς τὸ κωμῳδῆσαί τινας. τὸ δὲ Ἀργεῖος ὄνομα κύριον. Θρασύβουλος: (Οὗτος αὐθάδης καὶ δωροδόκος,) ὑπερόπτης (ὢν) τοῦ δήμου, ἠβούλετο δι’ αὐτοῦ πάντα πράττεσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 204",
+      "text": "διὰ τὸ ἀνήρ. R. (τὰ δημόσια γὰρ μισθοφοροῦντες: Ὅπως μὲν αὐτοὶ κερδανεῖτε, σκοπεῖσθε· ὅπως δὲ φροντίσετε περὶ τῶν κοινῶν, ἐξ ὧν μισθοφορίαι, ἀμελεῖτε τοῦ κοινοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 206",
+      "text": ") Αἴσιμος: Χωλὸς ἄτιμος καὶ ἀμαθής.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 208",
+      "text": "—ἄτιμος οὗτος καὶ χωλός. τὸ δὲ κοινὸν ὅτι τὸ κοινὸν ἀμελεῖτε. σκοπεῖσθε δὲ, τί κερδανεῖτε. R. (σωθήσεσθ’ ἔτι: Παρέλκει τὸ ἔτι παρὰ τοῖς Ἀττικοῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 209",
+      "text": ") (ταμίαις: Ἐφόροις, φύλαξι, διοικητρίαις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 212",
+      "text": ") βάπτουσι: Πλύνουσι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 216",
+      "text": "—οὐδὲν καινοτομοῦσι, φησί. R. ἁπαξάπασαι: ἀντὶ τοῦ πᾶσαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 217",
+      "text": "τὰ δὲ τοιαῦτα Ἀττικά. μεταπειρωμένας: μεταβαινούσας, μεταβαλλομένας ἀπὸ πράγματος εἰς πρᾶγμα. R. εἰ μή τι καινὸν ἄλλο: Ἀντὶ τοῦ, εἰ μὴ ἐπολυπραγμόνει καὶ καινὰς ἔφερε πολιτείας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 220",
+      "text": "—ἀντὶ τοῦ, εἰ ἐφύλαττε τὸν ἀρχαῖον νόμον. R. φρύγουσι: Λείπει τὸ κριθάς. ἐπιτρίβουσι, μοιχεύουσιν, ἢ ἐν τῷ μηδὲν πράττειν. παροψωνοῦσιν: Ἀντὶ τοῦ λάθρα ὀψωνοῦσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 227",
+      "text": "εὔζωρον: Ἄκρατον. μὴ περιλαλῶμεν: Μὴ φλυαρῶμεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 232",
+      "text": "σκεψάμενοι: Οἷον ἐκ τῶν ἐπαγομένων λογισάμενοι. πορίζειν: Εὑρίσκειν, συνάγειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 239",
+      "text": "τὰ δ’ ἄλλα: Μετὰ τὸ ἐάσω στικτέον. τὸ δὲ ταῦτα, οἷον ταῦτα συμβουλεύων. ἐν πυκνί: Ἀντὶ τοῦ ἐν τῇ ἐκκλησίᾳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 243",
+      "text": "ὡς ἀποκεκρυμμένων ἐκείνων τῶν μερῶν καὶ δυναμένων ἐκεῖ κρύπτεσθαι ἐπὶ τῆς φυγῆς τῶν τριάκοντα. (ὦ μέλ’ ἦσθα: Παρέλκει τὸ μέλε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 245",
+      "text": ") οὐ ματαίως καὶ ἐτωσίως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 246",
+      "text": "δεινὴ καὶ σοφὴ, ἱκανὴ ἐν τῷ λέγειν. R. αὐτόθεν: Ἀπὸ τοῦ παρόντος χρόνου. Κέφαλός σοι: Δημαγωγὸς οὗτος ἕτερος, οὐχ ὃν λέγει Δημοσθένης, ἀλλὰ λοίδορος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 252",
+      "text": "τρύβλια: Εἶδος ὀξυβάφου τὸ τρύβλιον. κεραμεύειν: Ἀπὸ κοινοῦ τὸ κεραμεύειν, ἀντὶ τοῦ κατεργάζεσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 253",
+      "text": "ἦν δὲ κεραμέως πατρὸς ὁ Κέφαλος. ἔλεγον δὲ κεραμεύειν καὶ τὸ κακῶς ποιεῖν τὰ κοινά. Νεοκλείδης ὁ γλάμων: Ἐκωμῳδεῖτο ὡς συκοφάντης καὶ ξένος καὶ κλέπτης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 254",
+      "text": "ὁ λημῶν· ὁ ἔχων τοὺς ὀφθαλμοὺς μεστοὺς ἀκαθαρσίας. ἐς κυνὸς πυγήν: Παροιμία παιδικὴ ἐπὶ τῶν ὀφθαλμιώντων, ἐς κυνὸς πυγὴν ὁρᾶν καὶ τριῶν ἀλωπέκων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 256",
+      "text": "ὑποκρούσωσί σε: Ὑποβάλλωσί σε. λαμβάνωνταί σου. πολλῶν κρουμάτων: Καὶ μετὰ τούτου ἔπαιξε πρὸς τὴν ὁμωνυμίαν τῆς συνουσίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 259",
+      "text": "ἐξαγκωνιῶ: Τοὺς ἀγκῶνας ὑπὸ ταῖς πλευραῖς ποιήσω. οὐδέποτε γὰρ οὕτω μέση ληφθήσομαι. (Ἄλλως. παραδώσω, ἵνα τῶν χειρῶν ἕλῃ με, καὶ μὴ μέσην ἄρας με γνῷ ὅτι γυνή εἰμι ἐκ τῶν τιτθίων.) ὡδὶ, οὕτως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 260",
+      "text": "R. τίνι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 263",
+      "text": "(262) ἔσκεπται. R. αἴρειν τὼ σκέλη: Ἐν τῇ συνουσίᾳ· λέγει τὰς χεῖρας αἴρειν, ὥσπερ οἱ ῥήτορες οἱ κρινόμενοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 267",
+      "text": "ἐξωμισάσαις: Ἄχρι τῶν ὤμων γυμνωσάσαις. ὑποδεῖσθε: Ὑποδεσμεύσατε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 274",
+      "text": "ἀκριβῶς ποιήσετε. R. ἐπαναβάλεσθε: ἀντὶ τοῦ περιστολίσασθε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 276",
+      "text": "R. προΐωμεν αὐτῶν: Προηγησώμεθα τῶν λοιπῶν γυναικῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 281",
+      "text": "ἄντικρυς: ἀντὶ τοῦ αὐτίκα. R. ὑπαποτρέχειν: Ὀπίσω τρέχειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 284",
+      "text": "πάτταλον: Τὸ τυχόν. οἱ γὰρ ὕστερον ἐλθόντες οὐκ ἐλάμβανον τὸ ἐκκλησιαστικόν. τὸ ἄνδρας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 285",
+      "text": "R. ἐκπέσῃ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 286",
+      "text": "R. (ἐνδούμεναι: Καταδυόμεναι εἰς τηλικαύτην τόλμαν λάθρα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 288",
+      "text": ") (χωρῶμεν: Τοῦτ’ ἐστὶ τὸ μέλος ὃ εἶπεν ἔνδον αὐταῖς τὸ ἀγροικικόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 289",
+      "text": ") πρῲ μονοσυλλάβως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 291",
+      "text": "ἀντὶ τοῦ ἔτι κνέφους ὄντος. κεκονιμένος: οἷον σπουδάζων πάνυ καὶ σχεδὸν κόνεως πεπληρωμένος. R. ὑπότριμμα: Ἀντὶ τοῦ δριμύ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 292",
+      "text": "οἱ γὰρ δικάζοντες ὀφείλουσι δριμεῖς εἶναι. στέργων: Ἡδόμενος σκορόδοις. καὶ τοῦτο ἀγροικικὸν ἐμφαίνει. ἀναπλάττει ὀνόματα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 293",
+      "text": "R. μηδὲν παραχορδιεῖς: Παρὰ ῥυθμὸν ποιήσεις, μηδὲν παραφθέγξῃ, ἀλλὰ δεῖ εἰπεῖν ὅπως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 295",
+      "text": "σύμβολον δέ τι δηλοῖ φανερὸν ἤδη. ἀντὶ τοῦ σεαυτόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 296",
+      "text": "R. πλησίον ἀλλήλων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 297",
+      "text": "R. ὁπός’ ἆν: Ὁπός’ ἂν δέῃ χειροτονεῖν τὰς ἡμετέρας φίλας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 298",
+      "text": "R. ὅρα δ’ ὅπως: Ὁρᾷ ἄνδρας προσιόντας ἐν τῇ ἐκκλησίᾳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 302",
+      "text": "ἔνθα οἱ στέφανοι πλέκονται. ὡς διὰ τὴν εὐτέλειαν τοῦ μισθοῦ δικάζειν θελόντων. R. Μυρωνίδης: Τῶν εὐδοκιμούντων οὗτος ὁ στρατηγός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 304",
+      "text": "παρεγίνετο. R. ἐν ἀσκιδίῳ: Πρὸς τὸ ἀρχαῖον ἔθος σεσημείωται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 310",
+      "text": "πηλοφοροῦντες: Ὡς χειροτέχναι καὶ μισθωτοί. ὁ Κοπρεαῖος: Βούλεται εἰπεῖν ὡς ὅτι ἠπειγόμην ἀποπατῆσαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 318",
+      "text": "ἡμιδιπλοΐδιον: Τὸ γυναικεῖον ἱμάτιον, ἢ ἀναβόλαιον γυναικῶν. περσικάς: Εἶδος ὑποδημάτων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 319",
+      "text": "ὑφέλκομαι: Ἀντὶ τοῦ περιδεσμεύομαι, ὑποδέδεμαι. ἐν καθαρῷ: Οἷον ἐν ἐρημίᾳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 330",
+      "text": "Κινησίας: οὗτος μαλακός. R. (κροκώτιον: Ὑποκοριστικῶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 332",
+      "text": "εἴρηται δ’ ἐν Βατράχοις [46], ὅτι ἔνδυμά ἐστι Διονυσιακὸν ὁ κροκωτός. ἐνταῦθα δὲ δῆλον ὡς γυναικεῖον. ἀμπισχόμενος δὲ) περιβεβλημένος. ἐκτετρύπηκεν: ἀντὶ τοῦ λάθρα ἐξῆλθεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 337",
+      "text": "R. νεώτερον: Καινὸν καὶ ἄτοπον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 346",
+      "text": "(κοθόρνῳ: Κόθορνος εἶδος ὑποδήματος, ἁρμόζον ἀμφοτέροις ποσί.) (τὴν σισύραν: Τὸ μαλλωτὸν στρῶμα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 347",
+      "text": "φανὴ δὲ λαμπρὰ, καθαρά.) γνώμην ἐμήν: Οἷον κατὰ τὴν ἐμὴν γνώμην καὶ οἴησιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 350",
+      "text": "ὅσον ἐμὲ εἰδέναι. R. ἱμονιάν: Ἱμονιὰ καλεῖται τὸ σχοινίον, ἐν ᾧ ἀρύονται τοῦ ὕδατος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 351",
+      "text": "ταῦτα δὲ λέγει, ὡς αὐτοῦ μακρὰ ἀποπατοῦντος καὶ χέζοντος. ἀχράς τις: Στένωσιν τῇ γαστρὶ παρέχει (ὁ λεγόμενος παρ’ ἡμῖν ἄπιος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 355",
+      "text": "οὕτω γὰρ καὶ Πλάτων ἐν Νόμοις ἀπίους εἴρηκεν. οὐ μόνον δὲ, ἀλλὰ καὶ παρ’ Ἀλέξιδι· καὶ ἐν Ἀγρίοις Φερεκράτει, πρὶν ἀνακυκῆσαι τοὺς ἀπίους ἁρπαζέτω. ἐπέχει δὲ τὴν γαστέρα ἡ ἀχράς.) Θρασύβουλος: Οὗτος ἀντιλέγειν μέλλων τοῖς Λακεδαιμονίων πρέσβεσι περὶ σπονδῶν ἐληλυθόσιν, εἶτα δωροδοκήσας, ἀχράδας προσεποιήσατο βεβρωκέναι, καὶ μὴ δύνασθαι λέγειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 357",
+      "text": "οἷον ἐπίκειται καὶ θλίβει. R. ἀλλ’ ὅταν φάγω: (Ἀγωνιῶ δὲ, ἐὰν φάγω, οὕτω τὴν γαστέρα στενούμενος,) εἰς ποῖον τόπον χωρήσει ἡ ἔνδον κόπρος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 361",
+      "text": "(βεβαλάνωκεν: Ἐκλείδωσεν. βάλανος γὰρ τὸ εἰς τὸν μοχλὸν σιδήριον, ὃ καλοῦμεν μάγγανον. ταῦτα δ’ εἴρηται καὶ ἐν ἄλλοις.) Ἀχραδούσιος: παρὰ τὴν Ἀχράδα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 362",
+      "text": "ἔστι δὲ δῆμος τῆς Ἱπποθοωντίδος φυλῆς Ἀχερδούς. R. Ἀμύνων: Ῥήτωρ ἡταιρηκὼς, οὐκ ἰατρὸς ὁ Ἀμύνων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 366",
+      "text": "Ἀντισθένην: ἰατρὸς θηλυδριώδης. καὶ οὗτος τῶν καταπρώκτων. R. σφιγμάτων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 367",
+      "text": "R. Εἰλείθυια: Ἐπεὶ αἱ ὠδίνουσαι ἐπικαλοῦνται τὴν Εἰλείθυιαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 369",
+      "text": "καὶ αὐτὸς οὖν στενοχωρούμενος ἐπικαλεῖται αὐτήν. κατεχόμενον ὑπὸ τῆς κόπρου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 370",
+      "text": "R. σκωραμίς: (Ἀμὶς μὲν ἐν ᾧ οὐροῦσι,) σκωραμὶς (δὲ) ἐν ᾧ ἀποπατοῦσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 372",
+      "text": "(οὗτος τί ποιεῖς: Ἀνήρ τις ἐπανιὼν ἀπὸ τῆς ἐκκλησίας Χρέμης.) ἡ μίλτος: Κατὰ γὰρ τὴν ἀγορὰν ἐσόβουν εἰς ἐκκλησίαν τοὺς Ἀθηναίους μεμιλτωμένῳ σχοινίῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 378",
+      "text": "(μίλτος δὲ χρώματος εἶδος ἐρυθροῦ. καὶ Ὅμηρος [Il. Β, 637] «νῆες μιλτοπάρῃοι.» προσέρραινον δὲ, προσέβαλον. θύλακον δὲ ἀρτοθήκην σημαίνειν καὶ ἐν Πλούτῳ ζητητέον. αἰσχύνομαι, φησὶν, ἐπεὶ κενὸς ἔσται.) ἔβαλλον κύκλῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 379",
+      "text": "R. τῶν ἀλφίτων, ἐπεὶ κενός ἐστι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 382",
+      "text": "R. σκυτοτόμοι: Ἐπειδὴ οἱ σκυτοτόμοι ἐν σκιᾷ καθεζόμενοι ἐργάζονται, τοῦτο ἔφη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 386",
+      "text": "οὐ γὰρ: καὶ γάρ. R. τὸ δεύτερον: Ὁ γὰρ ἀλεκτρυὼν τρίτον κοκκύζει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 392",
+      "text": "ἀποίμωξόν με: Παρὰ τὸ ἐξ Αἰσχύλου Μυρμιδόνων Ἀντίλοχ’, ἀποίμωξόν με τοῦ τεθνηκότος τὸν ζῶντα μᾶλλον. τἀμὰ γὰρ διοίχεται: Ἀντὶ τοῦ ἀπόλωλα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 395",
+      "text": "ἐν ὥρᾳ: Ἀντὶ τοῦ ὄρθρου. παρείρπυσεν: Ὡς ἐπὶ ὄφεως εἶπεν, ἐπειδὴ τυφλὸς ἦν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 402",
+      "text": "οὐκ ἐσώσατο: ἀντὶ τοῦ οὐκ ἔσωσε. R. ὀπῷ: Πάνυ γὰρ δριμύτατος ὁ ὀπός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 404",
+      "text": "τιθύμαλλος δὲ εἶδος βοτάνης δριμυτάτης. ἴσως δὲ αὕτη παρὰ Λάκωσιν εὑρίσκεται. εἰώθασι δὲ οἱ ἰατροὶ καὶ πατρίδας ὑπ’ ἀλαζονείας τῶν βοτανῶν ὀνομάζειν, (οἷον Κυρηναϊκὸν ὀπὸν καὶ Σμυρναϊκόν. ἦν μέντοι διαβόητος καὶ ὁ Λακωνικὸς τιθύμαλλος). πένης οὗτος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 408",
+      "text": "R. ἥλιος τραπῇ: Εἰς χειμερινὴν δηλονότι τροπήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 417",
+      "text": "πλευρῖτις: εἶδος νοσήματος. R. ἀντέλεγεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 423",
+      "text": "R. τοῖς πένησι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 424",
+      "text": "R. κλάειν μακρά: Τοῦτο λέγει γέλωτος χάριν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 426",
+      "text": "Ναυσικύδους: Οἱ μὲν ὅτι ἀλφιταμοιβός. οἱ δὲ ὅτι πένης· οἱ δὲ ὅτι οἱ ἀλφιταμοιβοὶ τοῦ Ναυσικύδους τοῦτο ἀπέλαυσαν. γυναικώδης οὗτος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 428",
+      "text": "R. ἀνεβορβόρυξαν: Ἀνετάραττον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 433",
+      "text": "νοῦν γὰρ εἶχον, νὴ Δία: Αἱ γυναῖκες εἰς ἄνδρας σκευασθεῖσαι. ἄλλως ἀντὶ τοῦ ματαίως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 440",
+      "text": "τοῦτο δὲ ὡς ἐν ἐρωτήσει. R. νουβυστικὸν: Νοῦ πεπληρωμένον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 443",
+      "text": "ἀντὶ τοῦ τοὺς Ἀθηναίους. R. συμβάλλειν: Μεταδιδόναι, κιχρᾶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 449",
+      "text": "ἀποδιδόναι. R. τὸ ἀποστερεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 450",
+      "text": "R. εἰς ἀγορὰν φέρειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 452",
+      "text": "R. βλάπτειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 453",
+      "text": "R. φήμ’ ἐγώ: Ὡς φιλούντων αὐτῶν τὰ μὴ γενόμενα καινοποιεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 465",
+      "text": "τοῖσιν ἡλίκοισι: Ἀντὶ τοῦ τοῖς γέρουσι. ἀηδές.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 471",
+      "text": "R. λόγος τέ τοι τίς ἐστι: Λέγεται, ὅτε Ποσειδῶν καὶ Ἀθηνᾶ ἐφιλονείκησαν περὶ τῆς Ἀττικῆς, νικῆσαι τὴν Ἀθηνᾶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 473",
+      "text": "καὶ φασὶν ἡττηθέντα τὸν Ποσειδῶνα καὶ λυπηθέντα καταρᾶσθαι τῇ πόλει, καὶ λέγειν αὐτὸν ὅτι γένοιτο τοὺς Ἀθηναίους ἀεὶ κακῶς βουλεύεσθαι, ἀκούουσαν δὲ τὴν Ἀθηνᾶν προσθεῖναι ὅτι κακῶς βουλεύεσθαι καὶ ἐπιτυγχάνειν. (ἔμβα, χώρει: Ἐξέρχεται ὁ χορὸς ἀπὸ τῆς ἐκκλησίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 478",
+      "text": ") τὸ ἀνδρεῖον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 482",
+      "text": "R. ψόφον ποιῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 483",
+      "text": "R. παραβλέπουσα: Μὴ ἀτενίζουσα, φησὶν, ἀλλὰ τῷ ἑτέρῳ ὀφθαλμῷ βλέπουσα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 499",
+      "text": "ᾗπερ ἦσθα: ἀντὶ τοῦ ὡς ἦσθα. R. σάκον λέγει τὸν πώγωνα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 507",
+      "text": "τὰ ὑποδήματα. R. συναπτούς: Τὰς συναπτούσας καὶ δεσμευούσας τὰ ὑποδήματα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 511",
+      "text": "παρερπύσασα: Ἠρέμα εἰσελθοῦσα. ἐν τῇ ἐκκλησίᾳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 519",
+      "text": "R. ἀνὴρ Πραξαγόρας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 520",
+      "text": "R. ἐξερευνῆσαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 523",
+      "text": "R. ὠδινούσης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 531",
+      "text": "R. μηδὲν κλέψας ἔνδοθεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 533",
+      "text": "R. ἥτις μετεκάλεσέ με.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 534",
+      "text": "R. τὸ γυναικεῖον ἱμάτιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 536",
+      "text": "R. προκείμενον: Νεκρόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 538",
+      "text": "στεφανώσασα: Εἰώθασι γὰρ ἐπὶ τῶν νεκρῶν τοῦτο ποιεῖν. ἀλεαίνοιμι: Θερμανοίμην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 544",
+      "text": "ἵνα σε μιμησαμένη σώσαιμι τὸ ἱμάτιον. R. πυρῶν ἑκτέα: Τριωβόλου ἴσως ἦν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 547",
+      "text": "λέγει οὖν ὅτι οἴκοι μένων τὸ τριώβολον ἀπολώλεκεν. R. προσποιουμένη ἐρωτᾷ ἐπίτηδες εἰ γέγονεν ἡ ἐκκλησία ὡς ἀγνοοῦσα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 550",
+      "text": "R. οἷον ἐντρυφῶσα διὰ τὴν ἐξουσίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 554",
+      "text": "R. Ἀττικόν ἐστιν ἀντὶ τοῦ πάντων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 556",
+      "text": "R. ἄλλος Βλέπυρος ἐλθών.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 562",
+      "text": "R. μηδ’ ἀφέλης μου τὸν βίον: Διοικοῦσα μετὰ τῶν ἄλλων γυναικῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 567",
+      "text": "μὴ ’νεχυραζόμενον: Τὴν ἑαυτοῦ οὐσίαν. ἔθος γὰρ ἦν τοῖς δικαζομένοις ἐνέχυρα διδόναι τὴν ἑαυτῶν οὐσίαν. πολίτην: Τὸν τῆς πόλεως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 574",
+      "text": "R. ἄλλης ἀρχῆς: ἀντὶ τοῦ ἄρχειν τὸ καινοτομεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 587",
+      "text": "R. οἷον μηδὲ τὸ τυχόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 592",
+      "text": "R. (σπέλεθον: Κόπρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 595",
+      "text": "καὶ ἀλλαχοῦ [Ach. 1169] κατεάξαι βουλόμενος ἐν σκότῳ λάβοι τῇ χειρὶ σπέλεθον ἀρτίως κεχεσμένον. ) ἔφθης μ’ ὑποκρούσας: Ὅτι ὑπεκρούσω καὶ ἠρώτησας πρότερόν μου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 599",
+      "text": "θρέψομεν. R. δαρεικὸς εἶδος νομίσματος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 602",
+      "text": "R. διὰ τὸ ἐπιορκεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 603",
+      "text": "R. ἐν πενίᾳ δράσει: Ἀντὶ τοῦ, οὐδεὶς αἰσχρόν τι δράσει, ἢ ἐργάσεταί τι, παρακειμένων ἀφθόνως ἅπασιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 611",
+      "text": "σκαλαθῦραι: Συνουσιάσαι. τῶν κοινῶν χρημάτων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 612",
+      "text": "R. συνουσιάζειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 616",
+      "text": "R. αἱ φαυλότεραι: αἱ ἄμορφοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 617",
+      "text": "R. οὐκ ἐπιλείψει: οὐκ ἀρκέσει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 620",
+      "text": "ἐκεῖς’: πρὸς τὰς εὐμόρφους. R. τὸ περὶ τούτων μάχεσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 622",
+      "text": "R. τὸ τοὺς ἀμόρφους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 625",
+      "text": "R. τόποις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 627",
+      "text": "R. ἡ Λυσικράτους: σιμὸς καὶ αἰσχρὸς ὁ Λυσικράτης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 630",
+      "text": "R. καταχήνη: Κατάγελως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 632",
+      "text": "τῶν πλουσίων. R. Γ. γεροντικόν τι καὶ εὐτελὲς ὑπόδημα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 633",
+      "text": "R. ἀγνὼς ᾖ: ὁ πατήρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 640",
+      "text": "R. λείπει ὁ καί σύνδεσμος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 643",
+      "text": "R. οὗτοι αἰσχροί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 644",
+      "text": "R. Ἀρίστυλλος: αἰσχροποιὸς οὗτος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 647",
+      "text": "R. καλαμίνθης: Δυσώδης βοτάνη (ἡ καλαμίνθη) καὶ ὄφεις ἐλαύνει καιομένη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 649",
+      "text": "γενέσθαι ἀντὶ τοῦ ἐγενήθη. R. δεκάπουν: Ἡ τοῦ ἡλίου σκιὰ, ὅταν ᾖ δέκα ποδῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 652",
+      "text": "θέλει οὖν εἰπεῖν, ὅτε γίνεται τὸ ὀψινόν. ὡς πρὸς φιλόδικον τοῦτο ὁ χορός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 657",
+      "text": "R. γνώμην ἐθέμην: Οἷον κἀμοὶ τοῦτο δοκεῖ σύμφορον εἶναι τὸ μὴ εἶναι δικαστήρια.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 663",
+      "text": "τῆς αἰκίας: τῆς ὕβρεως. R. ἀπὸ τῆς μάζης: Ἀπὸ τῆς τροφῆς, φησὶν, ἧς λαμβάνει ἀπὸ τοῦ δημοσίου, δίδωσι τὴν ζημίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 667",
+      "text": "οὐδ’ αὖ: ἐρωτηματικῶς. μετὸν: μέτεστι. R. αὐτὸς δώσει: Ὁ ἀποδυόμενος ἑκὼν, ἐξὸν αὐτῷ βέλτιον λαβεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 672",
+      "text": "ἕνεκα τίνος. καὶ οἱ κυβευταὶ γὰρ δίκην παρεῖχον. R. τὴν καθ’ ἑκάστην τροφήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 673",
+      "text": "R. βῆμα: ὁ λίθος ἐν τῷ δικαστηρίῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 677",
+      "text": "R. κληρωτήρια: Τὰς κληρωτὰς ἀρχάς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 683",
+      "text": "γράμματι δειπνεῖ: Δέον εἰπεῖν δικάζειν, εἶπε δειπνεῖν. βασίλειον: ἐπεὶ τὸ βασίλειον ἀπὸ τοῦ β ἄρχεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 685",
+      "text": "R. ἐς τὴν παρὰ ταύτην: Τοὺς θῆτας, τοὺς μισθωτοὺς εἰς τὸ Θησεῖον· ἐπεὶ πάλιν ἀπὸ τοῦ θῆτα ἄρχεται. τὸ κάπτωσιν ἀπὸ τοῦ κ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 687",
+      "text": "διὸ ἐπὶ τῶν ἐκ τοῦ κ ἔφη. σὺν αὐτῷ τῷ στεφάνῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 691",
+      "text": "R διόδους: Τὰς ὁδούς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 693",
+      "text": "ἀπὸ τοῦ διοδεύειν. συναντῶσαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 694",
+      "text": "R. οἱ ἀμορφότεροι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 702",
+      "text": "R. ἀντὶ τοῦ τοῖς ἀμόρφοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 705",
+      "text": "R. διφόρου συκῆς: Ἢ παρὰ τὴν δίκην τὸ διφόρου, ἢ ὅτι καὶ δίφοροί εἰσι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 708",
+      "text": "τοῦτο δὲ ἵνα κνησμὸν αὐτοῖς τὸ φύλλον ἐμποιῇ. δυναμένην μεγάλα βοῆσαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 713",
+      "text": "ὡς κήρυκα. R. ᾑρημένην: κεχειροτονημένην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 714",
+      "text": "R. κατωνάκη: (Ἱμάτιόν ἐστιν ἐκ τῶν κάτω μερῶν νάκος, τουτέστι διφθέραν, περιερραμμένον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 724",
+      "text": "ἐνταῦθα δὲ) δουλικὸς καὶ ἀνελεύθερος χιτών. προχειριοῦμαι: Εὐτρεπίσω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 729",
+      "text": "—κἀξετάσω: ἀναζητήσω, ἐρευνήσω. R. κιναχύρα: Ὄνομα δούλης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 731",
+      "text": "τῶν χρημάτων: ἀντὶ τοῦ καλλίστην πάντων τῶν χρημάτων μου. R. ἐντετριμμένη: Ἀντὶ τοῦ σμηχθεῖσα, ἢ εἰδυῖα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 732",
+      "text": "στρέψασα δὲ κλέψασα. —κανηφορῇς: τὰ κανίσκια ἔχουσα. R. κλέψασα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 733",
+      "text": "R. διφροφόρος: Ἡ τὸ σελλίον (ἢ τὸ καθιστήριον) βαστάζουσα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 734",
+      "text": "ἡ χύτρα δεῦρ’ ἔξιθι: Ὡς ἐν κωμῳδίᾳ καὶ τὴν χύτραν ἔξω καλεῖ χάριν γέλωτος. μελαίνεται: Ὡς τοῦ Λυσιστράτου φαρμάκῳ μελαίνοντος αὑτοῦ τὰς πολιάς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 737",
+      "text": "κομμώτρια: (Ἐμπλέκτρια, ἡ κοσμοῦσα τὰς γυναῖκας.) —ἣν καλοῦμεν νῦν κουρίδα. R. κιθαρῳδός: Ἡ ἀλετρίς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 740",
+      "text": "ἀναστήσασα: ἀλήθουσα. R. ἀωρὶ νύκτωρ: ὄρθρου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 741",
+      "text": "R. τὸν ὄρθριον νόμον: Οὕτω καλούμενος νόμος κιθαρῳδικὸς ὁ ὄρθριος. τὰ κηρία: Ἴσως τοὺς κηρῶνας λέγει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 743",
+      "text": "καθίστη πλησίον: Τοὺς τῆς ἐλαίας κλάδους, ὡς ἐν πομπῇ. ἀντὶ τοῦ οὐδὲ ὀλίγον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 747",
+      "text": "R. ἐξερευνήσω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 748",
+      "text": "R. τὰ χρήματα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 750",
+      "text": "R. πρὸς ἔπος: Ἀντὶ τοῦ ὡς ἔτυχεν, ἕνεκα μηδενός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 753",
+      "text": "μετοικίσαι θέλων. R. κατὰ τάξιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 756",
+      "text": "R. πέμπεται: Κῆρυξ οὗτος ὅστις τὰ πιπρασκόμενα ἐκήρυττε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 757",
+      "text": "τὸ δὲ πομπὴν ὅτι ὡς ἐν πομπῇ αὐτὰ ἐξάγει. (ἀβέλτερον: Ἀνόητον, ἀσύνετον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 768",
+      "text": ") διδόναι τἀγαθά: Ἐπειδὴ ὡς ἐπιτοπλεῖστον τὰ ἀγάλματα τῶν θεῶν ὑπτίας τὰς χεῖρας ἔχουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 784",
+      "text": "ὦ δαιμόνι’ ἀνδρῶν: (Τοῦτό φησιν) ἀνὴρ ὁ θέλων καταθεῖναι. εἰ γένοιτο: Εἰ γένοιτό τι σύμβολον, οὐκ ἐπιτελοῦσι τὰ δόξαντα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 794",
+      "text": "εἰ μὴ ῎ χοιμ’ ὅποι: Ἐὰν ἐμβραδύνων, μηδὲ ὅπη καταθῶ αὐτὰ εὕρω. εἰς τρίτην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 796",
+      "text": "R. παρ’ ὑπόνοιαν τοῦτο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 798",
+      "text": "R. πένης οὗτος καὶ εὐρύπρωκτος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 806",
+      "text": "R. Καλλίμαχος: Καὶ οὗτος πένης καὶ χαμαιδιδάσκαλος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 809",
+      "text": "(αὐτοῖσι δὲ σὺν αὐτοῖς.) Καλλίου: Καλλίας τις ἐγένετο πλούσιος, ὃς εἰς πόρνας τὴν ἑαυτοῦ οὐσίαν κατηνάλωσε, καὶ λοιπὸν πένης ἐγένετο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 813",
+      "text": "ψηφίσματα: Ἐψηφίσαντο γὰρ αὐτοὺς εὐωνοτέρους εἶναι, καὶ τὸ ψήφισμα ἄκυρον γέγονε. τῆς τεσσαρακοστῆς: Οὗτος ἔγραψε τεσσαρακοστὴν εἰσενεγκεῖν ἀπὸ τῆς οὐσίας εἰς τὸ κοινόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 828",
+      "text": "ταυτολογία καὶ λῆροι. R. φυλάξομαι: Ὥστε ἐπιμέλειαν ἡμῶν ποιεῖσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 833",
+      "text": "ἀνάφορον: Ξύλον ἀμφίκοιλον, ἐν ᾧ τὰ φορτία ἐξαρτήσαντες οἱ ἐργάται βαστάζουσιν. κοινῇ πάντες ἀστοὶ γεγενήμεθα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 834",
+      "text": "R. Γ. ἀντὶ τοῦ πρὸς αὐτήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 835",
+      "text": "Ἀττικὰ γάρ ἐστι τὰ τοιαῦτα. R. Γ. ἐπινενασμέναι: Πεπληρωμέναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 840",
+      "text": "σισυρῶν: Τῶν μαλλωτῶν στρωμάτων. (δαπίδων δὲ) τῶν ταπήτων. ῥιπίζεται: Ἀντὶ τοῦ ὀπτᾶται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 842",
+      "text": "τὸ γὰρ πῦρ οἱ ἄνθρωποι ἐρρίπιζον, ἵνα ὀπτήσωσιν. (τραγήματα δὲ) τὰ τρωγάλια λέγει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 844",
+      "text": "(ἔτνος δὲ) εἶδος ἀθάρας ἀπὸ φασηλίων. Σμοιός: Κύριον ὄνομα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 846",
+      "text": "αἰσχροποιὸς εἰς γυναῖκας, καὶ ἱππεύσας πρότερον, καὶ τοῖς ναύταις διανέμων τὰ τρύβλια. κονίποδα: Στενὸν σανδάλιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 852",
+      "text": "διοίγετε διχῶς. R. ἀνὴρ ὁ μὴ καταθείς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 853",
+      "text": "παρέλκεται τὸ ἔχων. Ἀττικὸν γὰρ τὸ τοιοῦτον. R. ἢν δὲ κωλύσωσιν: Ἐξ ὧν πρώην αὐτὸς μὴ βουλόμενος τὴν οὐσίαν καταθεῖναι ἐπηρώτα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 864",
+      "text": "εἰς τὸ αὐτό. R. εἰς δικαστήριον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 865",
+      "text": "R. ὁ καταθείς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 867",
+      "text": "r. παμπησίαν: Τὴν πᾶσαν κτῆσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 869",
+      "text": "ξυμβαστάσω. ὁ μὴ καταθείς. R. προσποιῇ: Μὴ προσποιῇ διαφέρειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 873",
+      "text": "σὺν τοῖσδε. R. τῶν ματτομένων: Τῶν προσοψημάτων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 880",
+      "text": "μινυρομένη: Ἀντὶ τοῦ ἠρέμα ᾄδουσα. τῶν Ἰωνικῶν: Τῶν τρυφηλῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 883",
+      "text": "Ἴωνες (γὰρ) τρυφηλοί. προσελκύσαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 886",
+      "text": "R. ἐπιβαρές.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 888",
+      "text": "R. ἡ γραῦς τῷ αἰδοίῳ λέγει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 890",
+      "text": "R. ᾄδει ἡ γραῦς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 893",
+      "text": "R. τὸ ἔμπειρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 895",
+      "text": "R. ταῖς γραΐσι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 896",
+      "text": "R. ἀντᾴδει ἡ νέα τῇ γραΐ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 900",
+      "text": "R. ταῖς παρειαῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 903",
+      "text": "R. γραῦ: Ἢ τὰς πολιάς σου παραλέλεξαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 904",
+      "text": "ἢ ἐπλέξω τὰς τρίχας μίαν παρὰ μίαν. ἐσμήχθη ψιμυθίῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 905",
+      "text": "R. τρῆμα: (Ἢ τὸ τοῦ κόσμου λέγει, ἢ αὐτὸ τὸ τρῆμα, τὸ αἰδοῖον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 906",
+      "text": ") εἶδος κοσμίου τὸ ἐπίκλιντρον. ὄφιν ἢ τὸ ζῷον ἢ ἐπὶ τοῦ αἰδοίου. ἀλλ’ ὦ μαῖα: Πρὸς τὴν γραῦν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 915",
+      "text": "(ὀφθαγόραν δὲ) τὸ αἰδοῖον. τὸν ἀπὸ Ἰωνίας: Ὡς μαλακῶν ἐκείνων ὄντων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 920",
+      "text": "λάβδα: Λαικάζουσιν οἱ Λέσβιοι ἀπὸ τοῦ ἄρχοντος στοιχείου. τἀμὰ δὲ παίγνια: Ἀντὶ τοῦ τοὺς ἐμοὺς ἐραστάς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 923",
+      "text": "τὴν ἡλικίαν. νικήσεις. R. ἐπ’ ἐκφοράν γε: Ὅτι τῶν γραϊδίων ἐκφέρουσι τὴν οὐσίαν οἱ ἐρώμενοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 926",
+      "text": "—καινὸν, ὅτι οὐκ ἐπ’ ἐκφοράν. R. ἡ ῎ γχουσα: Ἡ ἄγχουσα βοτάνη δηλονότι, ᾗ ἐχρῶντο εἰς τὰ πρόσωπα αἱ γυναῖκες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 932",
+      "text": "Γέρης: Φαλακρὸς οὗτος καὶ πένης. οὐ γὰρ παρὰ τὸ γῆρας. ὁ Ἐπιγένης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 933",
+      "text": "R. ἀπέρχομαι: Ἵνα αὐτὸν ἐρεθίσω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 936",
+      "text": "—ἡ νεωτέρα. Rav. ἄμορφον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 940",
+      "text": "R. τὰ ’πὶ Χαριξένης: Εὐήθης καὶ μωρὰ ἡ Χαριξένη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 954",
+      "text": "πολὺς ἢ ὑπὲρ τὸ δέον. R. ταῦτα εἰποῦσα εἰσέρχεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 956",
+      "text": "R. ὑπὸ τοῦ ἔρωτός φησι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 958",
+      "text": "R. φίλον: ἀντὶ τοῦ ὦ φίλη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 963",
+      "text": "R. πληκτίζεσθαι: διατύπτεσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 964",
+      "text": "R. μέλημα: ἀντὶ τοῦ τίμιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 973",
+      "text": "R. καλλώπισμα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 974",
+      "text": "R. ἡ γραῦς ἐξελθοῦσα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 977",
+      "text": "R. Ἀναφλύστιον: Παρὰ τὸ ἀναφλᾶν παίζει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 984",
+      "text": "εἴκοσι γάρ: Ἀπὸ τῶν δικῶν. ἔλεγον γὰρ ἀεὶ τὰ πρὸ τόσων ἐτῶν δικάζομεν. Παιτοί: Ἔθνος μέν ἐστι Θρᾳκικόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 987",
+      "text": "ἔπαιξε δὲ παρὰ τὸ παισίν. τὸν πρωκτὸν λέγει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 988",
+      "text": "R. κρησέραν: Τὸ περιβόλαιον τῶν κοφίνων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 991",
+      "text": "ἔστι δὲ δι’ ἔρωτος. τοῦτο οὖν ὡς πρὸς γραῦν. ζωγραφεῖ: Τοιαῦτα γάρ τινα ἐν τοῖς μνήμασιν ἔγραφον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 998",
+      "text": "ἔγωγε νὴ Δία: Βούλομαί σε ἀπιέναι ἐπὶ θάνατον. πρὸς γὰρ τοῦτο παίζει. μὰ τὴν Ἀφροδίτην: Ὡς ἑταίρα οὖσα τοῦτό φησι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1002",
+      "text": "τί δῆτα κρεάγρας: Τοῦτο ὅτι στερρῶς αὐτοῦ εἴχετο ὡς κρεάγρα. τὴν πεντακοσιοστήν: Εἰ μὴ ὑπὲρ ἐμοῦ κατέβαλες τὴν πεντακοσιοστήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1007",
+      "text": "νόμος γὰρ τοῦ μὴ φέροντος τὴν οὐσίαν δημοσίαν εἶναι. ἀνατί: Μὴ τιμωρουμένας ὑπὲρ τῆς βίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1020",
+      "text": "— τοῦ πέους. R. προκρούστης: Ἐπεὶ πολλάκις εἴρηται τὸ κρούειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1023",
+      "text": "ἐὰν ἀπὸ σοῦ ἀφαιρῆταί με. R. ὑπὲρ μέδιμνον: Νόμος ἦν ταῖς γυναιξὶ μὴ ἐξεῖναι ὑπὲρ μέδιμνόν τι συναλλάσσειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1025",
+      "text": "οὐκ ἔσονται οὖν, φησὶν, οἱ ἄνδρες οὐδενὸς ὑπὲρ μέδιμνον κύριοι, ἐπειδὴ ἀντέστραπται ἡ πολιτεία. ὀμόσαι ὡς οὐκ ἂν δυναίμην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1026",
+      "text": "R. ἔμπορος: Προφασίσομαι εἶναι ἔμπορος, ὡς ἐπὶ κινδυνευόντων, ἐπειδὴ οὐκ ἐστρατεύοντο οἱ ἔμποροι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1029",
+      "text": "Διομήδεια: Ὅτι Διομήδης ὁ Θρᾲξ, πόρνας ἔχων θυγατέρας, τοὺς παριόντας ξένους ἐβιάζετο αὐταῖς συνεῖναι, ἕως οὗ κόρον σχῶσι καὶ ἀναλωθῶσιν οἱ ἄνδρες· ἃς καὶ ὁ μῦθος ἵππους ἀνθρωποφάγους εἶπεν. ταινίωσαι: Στεφάνωσαι ὡς οἱ νεκροί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1033",
+      "text": "κατάθου τοὔστρακον πρὸ τῆς θύρας: πρὸ τῆς θύρας τὰ καλούμενα ἀρδάνια. R. στεφάνην: Εἶδος κοσμίου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1034",
+      "text": "διαπεσεῖσθαι δὲ, τεθνήξεσθαι. κηρίνων: στεφάνων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1035",
+      "text": "R. διαπεσεῖσθαι: τεθνήξεσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1036",
+      "text": "διαρρυῆναι. R. Οἰδιπόδων: Ἐπειδὴ ὁ Οἰδίπους τὴν μητέρα ἐγάμησε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1043",
+      "text": "ὦ μισητή. R. παχεῖαν τὴν χάριν: Κακεμφάτως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1050",
+      "text": "τῶν νόμων. R. χεῖρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1053",
+      "text": "R. ὁ νεώτερος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1054",
+      "text": "R. ἔμπουσά τις: Ἣν καλοῦμεν νῦν ὀνοσκελίδα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1056",
+      "text": "θέλει οὖν εἰπεῖν δαίμονα. φλύκταιναν: Ἤτοι ὡς ἐχούσης τῆς γραὸς κροκωτὸν, ἢ ὡς ἕλκος ἐχούσης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1058",
+      "text": "μαλακίων: ἀντὶ τοῦ εἰπεῖν μαλακὲ εἶπε μαλακίων. ὑποκοριστικὰ δὲ τὰ τοιαῦτα. R. μὴ πλέον: Τουτέστι, μὴ πλέον με ἀναγκάσῃς συνελθεῖν ἤπερ βούλομαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1063",
+      "text": "τὸ δὲ κἀγώ ἴσως διὰ τὴν ἀνωτέρω ἱστορίαν περὶ τῶν Διομήδους θυγατέρων εἰρημένην. ἀξιόχρεως: ἀξιολόγους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1065",
+      "text": "R. μή μοι: ἄλλη γραῦς τρίτη πρὸς τὸν νεώτερον. R. χεῖρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1070",
+      "text": "R. διαβάλλει αὐτὴν ὡς ἄμορφον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1071",
+      "text": "μαστός. R. παρὰ τῶν πλειόνων: Παρὰ τῶν νεκρῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1074",
+      "text": "δύο γὰρ αὐτὸν κατεῖχον. R. πορθμῆς: Ἐπειδὴ οἱ πορθμῆς τοὺς παριόντας ἀναγκάζουσιν εἰς τὰ ἴδια πλοῖα ἐμβαίνειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1087",
+      "text": "ἀπεκναίετε: Διεφθείρετε. κατὰ τὸ Καννώνου: Ψήφισμα γεγράφει κατεχόμενον ἑκατέρωθεν ἀπολογεῖσθαι τὸν κατ’ εἰσαγγελίαν κρινόμενον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1089",
+      "text": "(Κρατῖνος δὲ καὶ πρὸς κλεψύδραν κελεῦσαι. Ξενοφῶν δὲ εἰς τὸ βάραθρον ἐμβληθέντα ἀποθανεῖν καὶ τὴν οὐσίαν ἀπολέσαντα.) διαλελειμμένον: Μέσον εἰλημμένον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1092",
+      "text": "βολβῶν χύτραν: Ἐπιτήδειοι γὰρ πρὸς συνουσίαν οἱ βολβοί. Φρύνην: Φρύνη ἀρχαία γυνή.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1101",
+      "text": "οἱ δὲ ῥυτίς. λήκυθος δὲ, ᾠδηκυῖα. κασαλβάδοιν: (Κασαλβὰς ἡ πόρνη, ἀφ’ οὗ ποιεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1106",
+      "text": "αἱ γὰρ πόρναι καλοῦσι μὲν οὐκ ἔχουσαι τοὺς ἐραστάς· σοβοῦσι δὲ τοὺς ὄντας, ἵνα ἄλλους λάβωσι. παρὰ τὸ καλεῖν οὖν καὶ τὸ σοβεῖν.) —τῶν πορνῶν, ὡς ἐπὶ κινδύνου καὶ θαλάττης. R. διὰ τὴν αἰτίαν καὶ πρόφασιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1111",
+      "text": "R. ἀμφορείδια: τὰ κεράμεια.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1119",
+      "text": "R. (τὸ ἄνθος, καὶ ὁ Κρατῖνος ἐν τοῖς ἰδίοις τὰς θείας μορφὰς ἐν ἀρχῇ φανείσας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1121",
+      "text": ") ὡς ἐπὶ τῶν ἀνθῶν εἶπε τὸ ἀπανθήσαντα. ἀντὶ τοῦ ξηρανθέντα. εὐφρανεῖ τὰ ἀμφορείδια.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1123",
+      "text": "R. ἐπιλεγομένας ἡμᾶς τὰς .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1124",
+      "text": "...τερα. R. δεσποίνης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1126",
+      "text": "R. οὐ δεδείπνηκας μόνος: Παρ’ ὑπόνοιαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1133",
+      "text": "ἔδει γὰρ εἰπεῖν ὅτι μόνος εὐτυχεῖς τῶν πολιτῶν. τασδὶ τὰς μείρακας: Τὰς τοῦ χοροῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1148",
+      "text": "ἀληθῶς λέγει ὅτι οἴκοι γενόμενοι εὕροιεν τί δειπνήσειαν. R. διατρίβεις ἔχων: Τὸ ἔχων παρέλκεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1151",
+      "text": "Ἀττικὸν γὰρ τὸ τοιοῦτο. R. μὴ τὸν κλῆρον: Ἐπεὶ τοῦ πρώτου εἰπόντος ὡσπερεὶ ἐμιαίνετο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1158",
+      "text": "τὰ ποιήματα δὲ τῶν ἑξῆς λεγόντων. προείληχα: Ὅτι πρῶτος, εἶπεν, ἐκληρώθην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1159",
+      "text": "(τὸ χρῆμα δρᾶν.) ἀντὶ τοῦ ἐξιέναι. ῥυθμός ἐστι Κρητικός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1169",
+      "text": "γαλῆ εἶδος ἰχθύος. ἀπὸ τῶν τραγανῶν καὶ τῶν πτερῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1174",
+      "text": "σιραίῳ βαφέντα, ὅ ἐστιν ἑψήματι, ὃ ἡμεῖς γλυκιδίῳ (κόνισαι: Γυμνάσθητι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "sch eccl 1177",
+      "text": ") ἰσχυρῶς καὶ δεύτερον δειπνεῖν δυνηθείης.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "mlw-ap",
+      "title": {
+        "english": "Aldine Scholia on Clouds",
+        "ancient_greek": "Σχόλια εἰς Νεφέλας"
+      },
+      "url_slug": "aristophanes-scholia-clouds-ap-mlw-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/clouds-ap",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-ap-mlw-ap.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-ap-mlw-ap.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-ap-mlw-ap.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-ap-mlw-ap.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/clouds-ap.epub"
+      }
+    },
+    {
+      "eul_wid": "mlw-ac",
+      "title": {
+        "english": "Argument-the Knights",
+        "ancient_greek": "Προοίμιον εἰς Ἱππεῖς"
+      },
+      "url_slug": "aristophanes-scholia-knights-ac-mlw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/knights-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-knights-ac-mlw-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-knights-ac-mlw-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-knights-ac-mlw-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-knights-ac-mlw-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/knights-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "mlw-ag",
+      "title": {
+        "english": "Commentary on Clouds (Ὑπόμνημα)",
+        "ancient_greek": "Ὑπόμνημα εἰς Νεφέλας"
+      },
+      "url_slug": "aristophanes-scholia-clouds-ag-mlw-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/clouds-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-ag-mlw-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-ag-mlw-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-ag-mlw-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-ag-mlw-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/clouds-ag.epub"
+      }
+    },
+    {
+      "eul_wid": "mlw-al",
+      "title": {
+        "english": "Commentary on Frogs (Supplementary)",
+        "ancient_greek": "Ὑπόμνημα εἰς Βάτραχους"
+      },
+      "url_slug": "aristophanes-scholia-frogs-al-mlw-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/frogs-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-frogs-al-mlw-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-frogs-al-mlw-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-frogs-al-mlw-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-frogs-al-mlw-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/frogs-al.epub"
+      }
+    },
+    {
+      "eul_wid": "mlw-ak",
+      "title": {
+        "english": "Commentary on Frogs (Ὑπόμνημα)",
+        "ancient_greek": "Ὑπόμνημα εἰς Βάτραχους"
+      },
+      "url_slug": "aristophanes-scholia-frogs-ak-mlw-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/frogs-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-frogs-ak-mlw-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-frogs-ak-mlw-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-frogs-ak-mlw-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-frogs-ak-mlw-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/frogs-ak.epub"
+      }
+    },
+    {
+      "eul_wid": "mlw-ai",
+      "title": {
+        "english": "Commentary on Wealth (Supplementary)",
+        "ancient_greek": "Ὑπόμνημα εἰς Πλοῦτον"
+      },
+      "url_slug": "aristophanes-scholia-wealth-ai-mlw-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/wealth-ai",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-wealth-ai-mlw-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-wealth-ai-mlw-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-wealth-ai-mlw-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-wealth-ai-mlw-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/wealth-ai.epub"
+      }
+    },
+    {
+      "eul_wid": "mlw-ah",
+      "title": {
+        "english": "Commentary on Wealth (Ὑπόμνημα)",
+        "ancient_greek": "Ὑπόμνημα εἰς Πλοῦτον"
+      },
+      "url_slug": "aristophanes-scholia-wealth-ah-mlw-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/wealth-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-wealth-ah-mlw-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-wealth-ah-mlw-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-wealth-ah-mlw-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-wealth-ah-mlw-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/wealth-ah.epub"
+      }
+    },
+    {
+      "eul_wid": "mlw-aj",
+      "title": {
+        "english": "Commentary-Birds",
+        "ancient_greek": "Ὑπόμνημα εἰς Ὄρνιθας"
+      },
+      "url_slug": "aristophanes-scholia-birds-aj-mlw-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/birds-aj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-birds-aj-mlw-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-birds-aj-mlw-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-birds-aj-mlw-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-birds-aj-mlw-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/birds-aj.epub"
+      }
+    },
+    {
+      "eul_wid": "mlw-aq",
+      "title": {
+        "english": "Eustathius-derived Scholia on Clouds",
+        "ancient_greek": "Σχόλια εἰς Νεφέλας"
+      },
+      "url_slug": "aristophanes-scholia-clouds-aq-mlw-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/clouds-aq",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-aq-mlw-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-aq-mlw-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-aq-mlw-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-aq-mlw-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/clouds-aq.epub"
+      }
+    },
+    {
+      "eul_wid": "mlw-an",
+      "title": {
+        "english": "Glosses-Plutus",
+        "ancient_greek": "Γλῶσσαι εἰς Πλοῦτον"
+      },
+      "url_slug": "aristophanes-scholia-plutus-mlw-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/plutus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-plutus-mlw-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-plutus-mlw-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-plutus-mlw-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-plutus-mlw-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/plutus.epub"
+      }
+    },
+    {
+      "eul_wid": "mlw-ae",
+      "title": {
+        "english": "Later Scholia on Acharnians",
+        "ancient_greek": "Σχόλια εἰς Ἀχαρνῆς"
+      },
+      "url_slug": "aristophanes-scholia-acharnians-ae-mlw-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/acharnians-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-acharnians-ae-mlw-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-acharnians-ae-mlw-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-acharnians-ae-mlw-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-acharnians-ae-mlw-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/acharnians-ae.epub"
+      }
+    },
+    {
+      "eul_wid": "mlw-ar",
+      "title": {
+        "english": "Later Scholia on Clouds (Triclinian)",
+        "ancient_greek": "Σχόλια εἰς Νεφέλας"
+      },
+      "url_slug": "aristophanes-scholia-clouds-ar-mlw-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/clouds-ar",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-ar-mlw-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-ar-mlw-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-ar-mlw-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-ar-mlw-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/clouds-ar.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "qnq-ab",
+      "title": {
+        "english": "Fragment on Ares",
+        "ancient_greek": "Γραμματικὸν ἀπόσπασμα ἀρχόμενον ἀπὸ τῶν λόγων"
+      },
+      "url_slug": "herodian-of-alexandria-ares-fragment-qnq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/ares-fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-ares-fragment-qnq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-ares-fragment-qnq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-ares-fragment-qnq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-ares-fragment-qnq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/ares-fragment.epub"
+      }
+    },
+    {
+      "eul_wid": "vrw-aa",
+      "title": {
+        "english": "Gnomic Poetry Fragments",
+        "ancient_greek": "Γνωμικῆς Ποιήσεως Ἀποσπάσματα"
+      },
+      "url_slug": "alphabetical-commentary-anonymous-gnomic-poetry-vrw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/alphabetical-commentary-anonymous/gnomic-poetry",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alphabetical-commentary-anonymous-gnomic-poetry-vrw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alphabetical-commentary-anonymous-gnomic-poetry-vrw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alphabetical-commentary-anonymous-gnomic-poetry-vrw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alphabetical-commentary-anonymous-gnomic-poetry-vrw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alphabetical-commentary-anonymous/gnomic-poetry.epub"
+      }
+    },
+    {
+      "eul_wid": "cto-al",
+      "title": {
+        "english": "Lives of Euripides",
+        "ancient_greek": "Βίοι Εὐριπίδου"
+      },
+      "url_slug": "xenophon-scholia-euripides-al-cto-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-scholia/euripides-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-euripides-al-cto-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-euripides-al-cto-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-euripides-al-cto-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia-euripides-al-cto-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/euripides-al.epub"
+      }
+    },
+    {
+      "eul_wid": "lvi-ac",
+      "title": {
+        "english": "Marcian Scholia",
+        "ancient_greek": "Σχόλια Μαρκιανά"
+      },
+      "url_slug": "commentary-on-dionysius-thrax-marcian-lvi-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/commentary-on-dionysius-thrax/marcian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax-marcian-lvi-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax-marcian-lvi-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax-marcian-lvi-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax-marcian-lvi-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/marcian.epub"
+      }
+    },
+    {
+      "eul_wid": "oqa-ae",
+      "title": {
+        "english": "On Signs",
+        "ancient_greek": "Περὶ Σημείων"
+      },
+      "url_slug": "hephaestion-of-alexandria-signs-oqa-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/hephaestion-of-alexandria/signs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria-signs-oqa-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria-signs-oqa-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria-signs-oqa-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria-signs-oqa-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/signs.epub"
+      }
+    },
+    {
+      "eul_wid": "qnq-aa",
+      "title": {
+        "english": "Philetaerus",
+        "ancient_greek": "Φιλέταιρος"
+      },
+      "url_slug": "herodian-of-alexandria-philetaerus-qnq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/philetaerus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-philetaerus-qnq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-philetaerus-qnq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-philetaerus-qnq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-philetaerus-qnq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/philetaerus.epub"
+      }
+    },
+    {
+      "eul_wid": "tro-ac",
+      "title": {
+        "english": "Scholia and Glosses on Persians",
+        "ancient_greek": "Σχόλια καὶ Γλῶσσαι εἰς Πέρσας"
+      },
+      "url_slug": "aeschylus-scholia-persians-ac-tro-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/persians-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-ac-tro-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-ac-tro-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-ac-tro-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-persians-ac-tro-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "uhi-aa",
+      "title": {
+        "english": "Words in the Scriptures-Christ's Birth",
+        "ancient_greek": "Λόγοι ἐν ταῖς Γραφαῖς περὶ Γεννήσεως Χριστοῦ"
+      },
+      "url_slug": "anonymous-lexicographer-ii-scriptures-christ-birth-uhi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-lexicographer-ii/scriptures-christ-birth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-lexicographer-ii-scriptures-christ-birth-uhi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-lexicographer-ii-scriptures-christ-birth-uhi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-lexicographer-ii-scriptures-christ-birth-uhi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-lexicographer-ii-scriptures-christ-birth-uhi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-lexicographer-ii/scriptures-christ-birth.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aristophanes-scholia/ecclesiazusae",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-ecclesiazusae-mlw-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-ecclesiazusae-mlw-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-ecclesiazusae-mlw-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-ecclesiazusae-mlw-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/ecclesiazusae.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

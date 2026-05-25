@@ -1,0 +1,502 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "jfq-ab",
+  "eul_aid": "jfq",
+  "author_slug": "apollonius-of-rhodes",
+  "work_slug": "argonautica-fragments",
+  "url_slug": "apollonius-of-rhodes-argonautica-fragments-jfq-ab",
+  "author": {
+    "english": "Apollonius of Rhodes",
+    "ancient_greek": "Ἀπολλώνιος ὁ Ῥόδιος"
+  },
+  "title": {
+    "english": "Fragments on the Argonautic Voyage",
+    "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἀργοναυτικῆς Πλόης"
+  },
+  "seo": {
+    "browser_title": "Argonautica Fragments by Apollonius of Rhodes on Eulogikon",
+    "meta_title": "Argonautica Fragments by Apollonius of Rhodes in Greek",
+    "meta_description": "Fragments of the Argonautica by Apollonius. Hellenistic epic poetry on Jason and the Argonauts. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Fragments on the Argonautic Voyage consist of forty-two passages attributed to the Hellenistic poet Apollonius of Rhodes. Preserved solely within the ancient commentaries, or scholia, on his epic <strong>Argonautica</strong> and in various grammatical treatises, these fragments present alternative mythological narratives and etiological details not found in the final version of his celebrated poem. They are believed to originate from earlier drafts, sections excised during revision, or auxiliary compositions on Argonautic themes. The content reflects the poet&#x27;s scholarly compositional process, providing variant stories such as a different account of the death of Apsyrtus, offering precise geographical and cultic explanations, and potentially engaging in the contemporary literary debates of the era, including his noted rivalry with Callimachus. These fragments survive exclusively through this indirect transmission, having no independent manuscript tradition; modern editions reconstruct them from quotations scattered across ancient scholarly works. While not influential as a coherent separate work, the fragments are of significant scholarly value for understanding Hellenistic poetic practice. They illuminate Apollonius&#x27;s methods, his critical engagement with prior mythological sources, and the editorial choices that shaped the definitive <strong>Argonautica</strong>, thus embodying the erudite and experimental ethos of the Library of Alexandria.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "unit_1",
+      "text": "frr. 1–2, 5, 7–10, 12–13",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Κορινθιουργές ἐστι κιόνων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "σχῆμα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Τέρψει δὲ νηῶν ὁ γλυκύς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "σε χωρίτῃς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "πλόος κομίζων δῶρα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.4",
+      "text": "πλουσίου Νείλου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.1",
+      "text": "Οὐδ’ ἵπποι ὀρθρινὰ κατὰ κλισίας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.2",
+      "text": "χρεμέθεσκον, ἀλλὰ βόες",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.3",
+      "text": "πλείῃσι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.4",
+      "text": "παρηυνάζοντο κάπῃσι, νηυσὶ δὲ πρηκτὰ κέλευθα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.5",
+      "text": "Χελιδονίης ἀπὸ πέτρης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.6",
+      "text": "Πληγάδας ἀξείνους καὶ ὅπου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.7",
+      "text": "Φινήϊα δόρπα[ln_5]Ἅρπυιαι ἄτλητον ἐπὶ ψώαν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.8",
+      "text": "πνείεσκον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.1",
+      "text": "Τῷ ῥά ποτ’ Ὠκυρόην νύμφην, περικαλλέα κούρην, Χησιὰς εὐπατέρεια τέκεν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.2",
+      "text": "φιλότητι μιγεῖσα, Ὠκυρόην, ᾗ κάλλος ἀπείριτον ὤπασαν Ὧραι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.1",
+      "text": "Πατρὸς ἐμεῖο φίλου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.2",
+      "text": "συμφράδμονα θυμὸν ἀέξων, Πομπίλε, δυσκελάδου δεδαὼς θοὰ βένθεα πόντου, σῷζέ με.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.1",
+      "text": "Πομπίλον ὠκυάλων νηῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.2",
+      "text": "παιήονα δούρων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.1",
+      "text": "Ὅσσα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.2",
+      "text": "τε γαίης †ἔργα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.3",
+      "text": "τε Δωτιάδος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.4",
+      "text": "πρότεροι κάμον Αἱμονιῆες",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.1",
+      "text": "Ἔνθα δὲ Πηλεΐδης κατὰ μὲν κτάνε Λάμπετον Ἴρου, κὰδ δ’ Ἱκετάονα πέφνεν ἰθαιγενέος Λεπετύμνου υἱέα Μηθύμνης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.2",
+      "text": "τε, καὶ ἀλκηέστατον ἄλλων αὐτοκασίγνητον Ἑλικάονος ἔνδοθι πάτρης[ln_5]†τηλίκον Ὑψίπυλον· θαλερὴ δέ μιν ἄασε Κύπρις. Ἡ γὰρ ἐπ’ Αἰακίδῃ κούρης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.3",
+      "text": "φρένας ἐπτοίησεν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.4",
+      "text": "Πεισιδίκης, ὅτε τόν γε μετὰ προμάχοισιν Ἀχαιῶν χάρμῃ ἀγαλλόμενον θηέσκετο, πολλὰ δ’ ἐς ὑγρὴν ἠέρα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.5",
+      "text": "χεῖρας ἔτεινεν ἐελδομένη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.6",
+      "text": "φιλότητος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.1",
+      "text": "[ln_10]Δέκτο μὲν αὐτίκα λαὸν Ἀχαιϊκὸν ἔνδοθι πάτρης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.2",
+      "text": "παρθενική, κληῖδας ὑποχλίσσασα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.3",
+      "text": "πυλάων, ἔτλη δ’ οἷσιν ἰδέσθαι ἐν ὀφθαλμοῖσι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.4",
+      "text": "τοκῆας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.5",
+      "text": "χαλκῷ ἐληλαμένους, καὶ δούλια δεσμὰ γυναικῶν ἑλκομένων ἐπὶ νῆας ὑποσχεσίῃς Ἀχιλῆος,[ln_15]ὄφρα νυὸς γλαυκῆς Θέτιδος πέλοι, ὄφρα οἱ εἶεν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.6",
+      "text": "πενθεροὶ Αἰακίδαι, Φθίῃ δ’ ἔνι δώματα ναίοι ἀνδρὸς ἀριστῆος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.7",
+      "text": "πινυτὴ δάμαρ (οὐδ’ ὅ γ’ ἔμελλεν τὰ ῥέξειν), ὀλοῷ δ’ ἐπαγάσσατο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.8",
+      "text": "πατρίδος οἴτῳ· ἔνθ’ ἥ γ’ αἰνότατον γάμον εἴσιδε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.9",
+      "text": "Πηλείδαο[ln_20]Ἀργείων ὑπὸ χερσὶ δυσάμμορος, οἵ μιν ἔπεφνον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.10",
+      "text": "πανσυδίῃ θαμινῇσιν ἀράσσοντες λιθάδεσσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 13",
+      "text": "Καλλίμαχος τὸ κάθαρμα, τὸ παίγνιον, ὁ ξύλινος νοῦς· αἴτιος ὁ γράψας Αἴτια Καλλίμαχος.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "jfq-aa",
+      "title": {
+        "english": "Argonautica",
+        "ancient_greek": "Ἀργοναυτικά"
+      },
+      "url_slug": "apollonius-of-rhodes-argonautica-jfq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollonius-of-rhodes/argonautica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-rhodes-argonautica-jfq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-rhodes-argonautica-jfq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-rhodes-argonautica-jfq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-rhodes-argonautica-jfq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-rhodes/argonautica.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "bok-ab",
+      "title": {
+        "english": "Epic Fragments",
+        "ancient_greek": "Ἡρωϊκὰ Ἀποσπάσματα"
+      },
+      "url_slug": "panyassis-of-halicarnassus-epic-fragments-ab-bok-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/panyassis-of-halicarnassus/epic-fragments-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-of-halicarnassus-epic-fragments-ab-bok-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-of-halicarnassus-epic-fragments-ab-bok-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-of-halicarnassus-epic-fragments-ab-bok-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-of-halicarnassus-epic-fragments-ab-bok-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-of-halicarnassus/epic-fragments-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "ica-ab",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "moero-of-byzantium-epigrams-ica-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/moero-of-byzantium/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium-epigrams-ica-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium-epigrams-ica-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium-epigrams-ica-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium-epigrams-ica-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "izm-ac",
+      "title": {
+        "english": "Fragments of the Achaean History",
+        "ancient_greek": "Ἀποσπάσματα τῆς Ἀχαϊκῆς Ἱστορίας"
+      },
+      "url_slug": "rhianus-of-crete-achaean-history-izm-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/rhianus-of-crete/achaean-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-achaean-history-izm-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-achaean-history-izm-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-achaean-history-izm-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-achaean-history-izm-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete/achaean-history.epub"
+      }
+    },
+    {
+      "eul_wid": "aau-af",
+      "title": {
+        "english": "Fragments on Genealogy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γενεαλογίας"
+      },
+      "url_slug": "hesiod-genealogy-fragments-aau-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/hesiod/genealogy-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod-genealogy-fragments-aau-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod-genealogy-fragments-aau-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod-genealogy-fragments-aau-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod-genealogy-fragments-aau-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/genealogy-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "kjq-ab",
+      "title": {
+        "english": "Mercury the Creator of the World and Hermopolis Magna",
+        "ancient_greek": "Ἑρμῆς ὁ Δημιουργὸς τοῦ Κόσμου καὶ Ἑρμοῦπολις"
+      },
+      "url_slug": "epic-fragments-anonymous-creator-world-hermopolis-kjq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/creator-world-hermopolis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-creator-world-hermopolis-kjq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-creator-world-hermopolis-kjq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-creator-world-hermopolis-kjq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-creator-world-hermopolis-kjq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/creator-world-hermopolis.epub"
+      }
+    },
+    {
+      "eul_wid": "qky-aa",
+      "title": {
+        "english": "On Marriage and Wifely Duties",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "naumachius-the-didactic-poet-marriage-duties-qky-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/naumachius-the-didactic-poet/marriage-duties",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/naumachius-the-didactic-poet-marriage-duties-qky-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/naumachius-the-didactic-poet-marriage-duties-qky-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/naumachius-the-didactic-poet-marriage-duties-qky-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/naumachius-the-didactic-poet-marriage-duties-qky-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/naumachius-the-didactic-poet/marriage-duties.epub"
+      }
+    },
+    {
+      "eul_wid": "kjq-ai",
+      "title": {
+        "english": "Poem-the Rising Nile",
+        "ancient_greek": "Ποίημα περὶ τοῦ Νείλου ἀνατέλλοντος"
+      },
+      "url_slug": "epic-fragments-anonymous-rising-nile-kjq-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/rising-nile",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-rising-nile-kjq-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-rising-nile-kjq-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-rising-nile-kjq-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-rising-nile-kjq-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/rising-nile.epub"
+      }
+    },
+    {
+      "eul_wid": "uge-aa",
+      "title": {
+        "english": "Sack of Ilium",
+        "ancient_greek": "Ἅλωσις Ἰλίου"
+      },
+      "url_slug": "tryphiodorus-of-egypt-sack-of-ilium-uge-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/tryphiodorus-of-egypt/sack-of-ilium",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphiodorus-of-egypt-sack-of-ilium-uge-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphiodorus-of-egypt-sack-of-ilium-uge-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphiodorus-of-egypt-sack-of-ilium-uge-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphiodorus-of-egypt-sack-of-ilium-uge-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphiodorus-of-egypt/sack-of-ilium.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/apollonius-of-rhodes/argonautica-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-rhodes-argonautica-fragments-jfq-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-rhodes-argonautica-fragments-jfq-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-rhodes-argonautica-fragments-jfq-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-rhodes-argonautica-fragments-jfq-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-rhodes/argonautica-fragments.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

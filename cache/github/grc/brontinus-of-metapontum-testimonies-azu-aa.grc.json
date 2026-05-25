@@ -1,0 +1,249 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "azu-aa",
+  "eul_aid": "azu",
+  "author_slug": "brontinus-of-metapontum",
+  "work_slug": "testimonies",
+  "url_slug": "brontinus-of-metapontum-testimonies-azu-aa",
+  "author": {
+    "english": "Brontinus of Metapontum",
+    "ancient_greek": "Βροντῖνος ὁ Μεταποντῖνος"
+  },
+  "title": {
+    "english": "Testimonies",
+    "ancient_greek": "Μαρτυρίαι"
+  },
+  "seo": {
+    "browser_title": "Testimonies by Brontinus of Metapontum on Eulogikon",
+    "meta_title": "Ancient Testimonies by Brontinus of Metapontum in Greek",
+    "meta_description": "Testimonies of Brontinus, a Presocratic Pythagorean. Collection of philosophical doctrine. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric (phi, frg)",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Pythagorean",
+      "href": "/affiliations/pythagorean"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Testimonies</strong> is a lost work attributed to the Pythagorean philosopher Brontinus of Metapontum. No direct fragments of the text survive, and knowledge of its existence comes solely from later references in ancient sources. The title is recorded in the Byzantine encyclopedia known as the <strong>Suda</strong>, while the biographer Diogenes Laertius also notes that Brontinus was an author. The Greek title, <strong>Marturiai</strong>, suggests the work was a collection of doctrinal statements, aphorisms, or authoritative testimonies concerning Pythagorean beliefs. Given Brontinus&#x27;s affiliation with the early Pythagorean community, the lost compilation likely addressed core tenets of the school, including its distinctive <strong>akousmata</strong> or <strong>symbola</strong>—ritual rules and symbolic sayings—as well as theological, cosmological, and ethical principles governing the Pythagorean way of life. The work is preserved only by its title in these late sources, specifically Diogenes Laertius&#x27;s <strong>Lives and Opinions of Eminent Philosophers</strong> from the third century CE and the tenth-century <strong>Suda</strong>; it possesses no independent manuscript tradition. Its attribution to an early disciple like Brontinus contributed to the later perception of Pythagoreanism as a philosophical movement with foundational texts composed by its first adherents. The nature of the title further indicates that the <strong>Testimonies</strong> may have served as a source for later doxographers and compilers seeking to document established Pythagorean doctrines.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "IAMBL. V.P. 267 p. 189, 5 Nauck Μεταποντῖνοι Βροντῖνος κτλ. p. 194, 2 Θεανὼ γυνὴ τοῦ Μεταποντίνου Βροτίνου. 132 p. 96 πρὸς Δεινωνὼ γὰρ τὴν Βροντίνου γυναῖκα, τῶν Πυθαγορείων ἑνός, οὖσαν σοφήν τε καὶ περιττὴν τὴν ψυχήν, ἧς ἐστι καὶ τὸ καλὸν καὶ περιβόητον ῥῆμα τὸ τὴν γυναῖκα δεῖν θύειν αὐθημερὸν ἀνισταμένην ἀπὸ τοῦ ἑαυτῆς ἀνδρός, ὅ τινες εἰς Θεανὼ ἀναφέρουσι, πρὸς δὴ ταύτην παρελθούσας τὰς τῶν Κροτωνιατῶν γυναῖκας παρακαλέσαι περὶ τοῦ συμπεῖσαι τὸν Πυθαγόραν διαλεχθῆναι περὶ τῆς πρὸς αὐτὰς σωφροσύνης τοῖς ἀνδράσιν αὐτῶν κτλ. DIOG. VIII 42 ἦν δὲ τῶι Πυθαγόραι καὶ γυνή, Θεανὼ ὄνομα, Βροντίνου τοῦ Κροτωνιάτου θυγάτηρ· οἱ δέ, γυναῖκα μὲν εἶναι Βροντίνου, μαθήτριαν δὲ Πυθαγόρου. ἦν αὐτῶι καὶ θυγάτηρ Δαμώ, ὥς φησι Λῦσις ἐν ἐπιστολῆι τῆι πρὸς Ἵππασον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "DIOG. VIII 83: Ἀλκμαίων Κροτωνιήτης τάδε ἔλεξε Πειρίθου υἱὸς Βροτίνωι καὶ Λέοντι καὶ Βαθύλλωι· περὶ τῶν ἀφανέων κτλ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "—VIII 55 τὴν γὰρ περιφερομένην ὡς Τηλαύγους ἐπιστολήν, ὅτι τε μετέσχεν Ἱππάσου καὶ Βροτίνου, μὴ εἶναι ἀξιόπιστον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "SUID. s. v. Ὀρφεύς [1 A 1] Πέπλον καὶ Δίκτυον· καὶ ταῦτα Ζωπύρου τοῦ Ἡρακλεώτου, οἱ δὲ Βροτίνου ... καὶ Φυσικά, ἃ Βροτίνου φασίν. CLEM. Str. I 131. (II 81, 13 St.) [vgl. I 106, 2] τὸν δὲ Πέπλον καὶ τὰ Φυσικὰ Βροντίνου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "IAMBL. d. comm. math. sc. 8 p. 34, 20 Festa διόπερ καὶ Βροτῖνος ἐν τῶι Περὶ νοῦ καὶ διανοίας χωρίζων αὐτὰ ἀπ’ ἀλλήλων τάδε λέγει.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "azu-ab",
+      "title": {
+        "english": "On Mind and Thought",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "brontinus-of-metapontum-mind-thought-azu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/brontinus-of-metapontum/mind-thought",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum-mind-thought-azu-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum-mind-thought-azu-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum-mind-thought-azu-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum-mind-thought-azu-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum/mind-thought.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "okg-ep",
+      "title": {
+        "english": "Camillus",
+        "ancient_greek": "Κάμιλλος"
+      },
+      "url_slug": "plutarch-of-chaeronea-camillus-okg-ep",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/camillus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-camillus-okg-ep.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-camillus-okg-ep.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-camillus-okg-ep.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-camillus-okg-ep.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/camillus.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-bi",
+      "title": {
+        "english": "Exhortation",
+        "ancient_greek": "Προτρεπτικός"
+      },
+      "url_slug": "aristotle-exhortation-hgw-bi",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/exhortation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-exhortation-hgw-bi.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-exhortation-hgw-bi.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-exhortation-hgw-bi.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-exhortation-hgw-bi.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/exhortation.epub"
+      }
+    },
+    {
+      "eul_wid": "kpa-aa",
+      "title": {
+        "english": "Fragments on Philosophical Doctrines",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δογμάτων Φιλοσοφικῶν"
+      },
+      "url_slug": "ariston-of-ceos-philosophical-doctrines-kpa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ariston-of-ceos/philosophical-doctrines",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ariston-of-ceos-philosophical-doctrines-kpa-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ariston-of-ceos-philosophical-doctrines-kpa-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ariston-of-ceos-philosophical-doctrines-kpa-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ariston-of-ceos-philosophical-doctrines-kpa-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ariston-of-ceos/philosophical-doctrines.epub"
+      }
+    },
+    {
+      "eul_wid": "hje-aa",
+      "title": {
+        "english": "Fragments on Pleasure and Conduct",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἡδονῆς καὶ Ἀγωγῆς"
+      },
+      "url_slug": "dionysius-the-renegade-pleasure-conduct-hje-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-the-renegade/pleasure-conduct",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-renegade-pleasure-conduct-hje-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-renegade-pleasure-conduct-hje-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-renegade-pleasure-conduct-hje-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-renegade-pleasure-conduct-hje-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-renegade/pleasure-conduct.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-ag",
+      "title": {
+        "english": "On Xenophanes, Zeno, Gorgias",
+        "ancient_greek": "Περὶ Ξενοφάνους, περὶ Ζήνωνος, περὶ Γοργίου"
+      },
+      "url_slug": "aristotle-xenophanes-zeno-gorgias-hgw-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/xenophanes-zeno-gorgias",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-xenophanes-zeno-gorgias-hgw-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-xenophanes-zeno-gorgias-hgw-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-xenophanes-zeno-gorgias-hgw-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-xenophanes-zeno-gorgias-hgw-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/xenophanes-zeno-gorgias.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-af",
+      "title": {
+        "english": "On the Generation of Animals",
+        "ancient_greek": "Περὶ Ζῴων Γενέσεως"
+      },
+      "url_slug": "aristotle-generation-animals-hgw-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/generation-animals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-animals-hgw-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-animals-hgw-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-animals-hgw-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-animals-hgw-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/generation-animals.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-dx",
+      "title": {
+        "english": "Philopoemen",
+        "ancient_greek": "Φιλοποίμην"
+      },
+      "url_slug": "plutarch-of-chaeronea-philopoemen-okg-dx",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/philopoemen",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-philopoemen-okg-dx.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-philopoemen-okg-dx.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-philopoemen-okg-dx.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-philopoemen-okg-dx.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/philopoemen.epub"
+      }
+    },
+    {
+      "eul_wid": "sno-aj",
+      "title": {
+        "english": "To the Mother of the Gods",
+        "ancient_greek": "Εἰς τὴν μητέρα τῶν θεῶν"
+      },
+      "url_slug": "julian-the-apostate-mother-of-gods-sno-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/julian-the-apostate/mother-of-gods",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-mother-of-gods-sno-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-mother-of-gods-sno-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-mother-of-gods-sno-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-mother-of-gods-sno-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/mother-of-gods.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/brontinus-of-metapontum/testimonies",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum-testimonies-azu-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum-testimonies-azu-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum-testimonies-azu-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum-testimonies-azu-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum/testimonies.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "dzc",
+  "auth_slug": "philoxenus-of-cythera",
+  "name": {
+    "english": "Philoxenus of Cythera",
+    "ancient_greek": "Φιλόξενος ὁ Κυθήριος"
+  },
+  "seo_h1": "Philoxenus of Cythera on Galatea and Desire",
+  "seo": {
+    "browser_title": "Philoxenus of Cythera on Eulogikon Greek Archive Library",
+    "meta_title": "The Philoxenus of Cythera Ancient Greek Dithyrambs",
+    "meta_description": "Philoxenus of Cythera was a Greek dithyrambic poet of the late Classical period. Surviving fragments of his work. Free to download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric (frg)",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Philoxenus of Cythera was a Greek poet active in the late 5th and early 4th centuries BCE. Born on the island of Cythera, he is best known as a composer of dithyrambs, a type of choral song dedicated to Dionysus. He worked as a professional poet, competing in musical contests and spending time at the court of Dionysius I, the tyrant of Syracuse in Sicily. Later stories claim he was imprisoned by the tyrant, possibly for criticizing his poetry, before departing for mainland Greece.</p>\n<p class=\"research-text\">His most famous work is the dithyramb Cyclops or Galatea, which survives only in fragments. The poem presented the myth of the Cyclops Polyphemus falling in love with the sea-nymph Galatea as a humorous burlesque. Modern scholars consider this a significant innovation, moving the traditionally solemn dithyramb toward a more theatrical, narrative, and entertaining style. Philoxenus is often associated with the &quot;New Music&quot; movement, a group of poets known for their creative experiments.</p>\n<p class=\"research-text\">He was a well-known and influential figure in antiquity. His work was referenced by the comic playwright Aristophanes and discussed by the philosopher Aristotle. His reputation endures as that of a skilled poet who helped expand the expressive range of ancient Greek choral poetry.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "dzc-aa",
+      "title": {
+        "english": "Fragments on Galatea and Desire",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γαλατείας καὶ Ἔρωτος"
+      },
+      "url_slug": "philoxenus-of-cythera-galatea-desire-dzc-aa",
+      "passages": 22,
+      "links": {
+        "html": "https://eulogikon.org/grc/philoxenus-of-cythera/galatea-desire",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-cythera-galatea-desire-dzc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-cythera-galatea-desire-dzc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-cythera-galatea-desire-dzc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-cythera-galatea-desire-dzc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-cythera/galatea-desire.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/philoxenus-of-cythera",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philoxenus-of-cythera-dzc.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philoxenus-of-cythera-dzc.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philoxenus-of-cythera-dzc.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philoxenus-of-cythera-dzc.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

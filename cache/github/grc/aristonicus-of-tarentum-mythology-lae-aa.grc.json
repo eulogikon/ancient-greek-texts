@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "lae-aa",
+  "eul_aid": "lae",
+  "author_slug": "aristonicus-of-tarentum",
+  "work_slug": "mythology",
+  "url_slug": "aristonicus-of-tarentum-mythology-lae-aa",
+  "author": {
+    "english": "Aristonicus of Tarentum",
+    "ancient_greek": "Ἀριστόνικος ὁ Ταραντῖνος"
+  },
+  "title": {
+    "english": "Fragments on Mythology",
+    "ancient_greek": "Ἀποσπάσματα περὶ Μυθολογίας"
+  },
+  "seo": {
+    "browser_title": "The Fragments of Aristonicus of Tarentum on Eulogikon",
+    "meta_title": "Fragments by Aristonicus of Tarentum in Ancient Greek",
+    "meta_description": "Surviving fragments from Aristonicus of Tarentum on mythology. A historical prose collection. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Fragments on Mythology is a lost work by the Alexandrian grammarian Aristonicus of Tarentum. Its existence is recorded solely in the Byzantine encyclopedia the <strong>Suda</strong>, which lists it among the author&#x27;s writings and describes it as consisting of at least three passages on mythological subjects. The title suggests a collection of excerpts or notes, likely compiled for scholarly exegesis. No direct quotations or descriptions of its specific content survive, but based on Aristonicus&#x27;s known profession as a Homeric textual critic, the work probably contained explanations of mythological stories and analyses of mythological references within poetic texts, particularly Homeric epic. The work is considered fragmentary, with no surviving manuscript tradition or direct attestations beyond the <strong>Suda</strong>. While the treatise itself exerted no traceable direct influence, its existence illustrates the range of Alexandrian scholarly activity, which integrated detailed mythography with textual criticism. Aristonicus&#x27;s broader and more influential scholarship focused on Homeric critical signs, which was cited by later grammarians and preserved in the Homeric scholia.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Ptolemaeus Hephaest. Nov. Hist. I: Ἀχιλλέα μὲν Ἀριστόνικος ὁ Ταραντῖνος διατρίβοντα ἐν ταῖς παρθένοις παρὰ Λυκομήδει Κερκυσέραν καλεῖσθαί φησιν· ἐκαλεῖτο δὲ καὶ Ἰσσὰν καὶ Πυρρὰν Ἄσπετος καὶ Προμηθεύς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Id. ib. lib. II: Ὅτι τὴν μέσην κεφαλὴν τῆς Ὕδρας Ἀριστόνικός φησιν ὁ Ταραντῖνος χρυσοῦν εἶναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Hyginus Poet. astron. II, 34: Hunc (Orionem) Hesiodus Neptuni filium dicit, ex Euryale Minois filia natum, concessum autem ei, ut super fluctus curreret, nec eos infringeret. Aristonicus autem di cit quendam Hyrea fuisse Thebis, Pindarus autem in insula Chio. Hunc autem, quum Jovem et Mercurium hospitio recepisset, petiisse ab iis, ut sibi aliquid liberorum nasceretur. Itaque quo facilius petitum impetraret, bovem immolasse et his pro epulis apposuisse. Quod quum fecisset, poposcisse Jovem et Mercurium quod corium de bove fuisset detractum, et quod fecerant urinae, in corium infudisse: ex quo postea natum puerum, quem Hyreus e facto Uriona nomine appellavit.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "bbs-ac",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "theognis-of-megara-epigrams-bbs-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/theognis-of-megara/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-megara-epigrams-bbs-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-megara-epigrams-bbs-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-megara-epigrams-bbs-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-megara-epigrams-bbs-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-megara/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "cey-aa",
+      "title": {
+        "english": "Fragments on Battus and Cyrene",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βάττου καὶ Κυρήνης"
+      },
+      "url_slug": "menecles-the-historian-battus-cyrene-cey-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/menecles-the-historian/battus-cyrene",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecles-the-historian-battus-cyrene-cey-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecles-the-historian-battus-cyrene-cey-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecles-the-historian-battus-cyrene-cey-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecles-the-historian-battus-cyrene-cey-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecles-the-historian/battus-cyrene.epub"
+      }
+    },
+    {
+      "eul_wid": "dji-aa",
+      "title": {
+        "english": "Fragments on Peoples",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἐθνῶν"
+      },
+      "url_slug": "damastes-of-sigeum-peoples-dji-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/damastes-of-sigeum/peoples",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damastes-of-sigeum-peoples-dji-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damastes-of-sigeum-peoples-dji-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damastes-of-sigeum-peoples-dji-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damastes-of-sigeum-peoples-dji-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damastes-of-sigeum/peoples.epub"
+      }
+    },
+    {
+      "eul_wid": "hwq-ab",
+      "title": {
+        "english": "Geographical Fragments on Sicily",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σικελίας"
+      },
+      "url_slug": "philostephanus-of-cyrene-sicily-hwq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/philostephanus-of-cyrene/sicily",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene-sicily-hwq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene-sicily-hwq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene-sicily-hwq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene-sicily-hwq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene/sicily.epub"
+      }
+    },
+    {
+      "eul_wid": "ghm-aa",
+      "title": {
+        "english": "Historical Fragments on Dion",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δίωνος"
+      },
+      "url_slug": "timonides-of-leucas-historical-fragments-dion-ghm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/timonides-of-leucas/historical-fragments-dion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timonides-of-leucas-historical-fragments-dion-ghm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timonides-of-leucas-historical-fragments-dion-ghm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timonides-of-leucas-historical-fragments-dion-ghm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timonides-of-leucas-historical-fragments-dion-ghm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timonides-of-leucas/historical-fragments-dion.epub"
+      }
+    },
+    {
+      "eul_wid": "ima-aa",
+      "title": {
+        "english": "Manetho's Egyptian Dynasties",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "manetho-of-sebennytos-egyptian-dynasties-ima-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/manetho-of-sebennytos/egyptian-dynasties",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/manetho-of-sebennytos-egyptian-dynasties-ima-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/manetho-of-sebennytos-egyptian-dynasties-ima-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/manetho-of-sebennytos-egyptian-dynasties-ima-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/manetho-of-sebennytos-egyptian-dynasties-ima-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/manetho-of-sebennytos/egyptian-dynasties.epub"
+      }
+    },
+    {
+      "eul_wid": "thy-aa",
+      "title": {
+        "english": "New History",
+        "ancient_greek": "Νέα Ἱστορία"
+      },
+      "url_slug": "zosimus-of-constantinople-new-history-thy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-constantinople/new-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-constantinople-new-history-thy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-constantinople-new-history-thy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-constantinople-new-history-thy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-constantinople-new-history-thy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-constantinople/new-history.epub"
+      }
+    },
+    {
+      "eul_wid": "unc-ab",
+      "title": {
+        "english": "Secret History",
+        "ancient_greek": "Ἀπόκρυφη Ἱστορία"
+      },
+      "url_slug": "procopius-of-caesarea-secret-history-unc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/procopius-of-caesarea/secret-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/procopius-of-caesarea-secret-history-unc-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/procopius-of-caesarea-secret-history-unc-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/procopius-of-caesarea-secret-history-unc-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/procopius-of-caesarea-secret-history-unc-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/procopius-of-caesarea/secret-history.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aristonicus-of-tarentum/mythology",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-tarentum-mythology-lae-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-tarentum-mythology-lae-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-tarentum-mythology-lae-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-tarentum-mythology-lae-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-tarentum/mythology.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

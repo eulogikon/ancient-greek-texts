@@ -1,0 +1,242 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "bcm-ab",
+  "eul_aid": "bcm",
+  "author_slug": "anaximenes-of-miletus",
+  "work_slug": "cold-heat",
+  "url_slug": "anaximenes-of-miletus-cold-heat-bcm-ab",
+  "author": {
+    "english": "Anaximenes of Miletus",
+    "ancient_greek": "Ἀναξιμένης ὁ Μιλήσιος"
+  },
+  "title": {
+    "english": "Fragments on Cold and Heat",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ψύχους καὶ Θέρμης"
+  },
+  "seo": {
+    "browser_title": "Philosophical Fragments Anaximenes of Miletus on Eulogikon",
+    "meta_title": "Fragments by Anaximenes of Miletus in Ancient Greek",
+    "meta_description": "Fragments on condensation and rarefaction from the 6th century BCE Pre-Socratic philosopher. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Presocratic",
+      "href": "/affiliations/presocratic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Cold and Heat</strong> is a modern scholarly designation for the surviving doctrines of the 6th-century BCE pre-Socratic philosopher Anaximenes of Miletus. These doctrines are preserved not as a continuous text but as a handful of key quotations and summaries within the works of much later authors, primarily the doxographers Aëtius and Hippolytus of Rome. The fragments articulate the core of Anaximenes&#x27;s natural philosophy, which posits air as the fundamental substance, or <strong>arche</strong>, of all existence. From this primary air, the entire cosmos arises through two opposing physical processes: rarefaction and condensation. According to Anaximenes, air that is rarefied becomes warm and transforms into fire, while air that is condensed becomes progressively colder, manifesting as wind, cloud, water, earth, and finally stone. Thus, the sensations of heat and cold are not distinct substances but common states of matter resulting from these quantitative changes in density. He illustrated this principle with the everyday example of breath: breath feels cold when exhaled through pursed lips because it is compressed and condensed, but feels warm when exhaled with an open mouth because it becomes rarefied. This mechanistic model, reducing qualitative differences to measurable physical processes, represents a significant development in early Ionian science, providing a unified explanation for both cosmic formation and mundane meteorological phenomena.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "PLUT. de prim. frig. 7, 947 F ἢ καθάπερ Ἀ. ὁ παλαιὸς ὤιετο, μήτε τὸ ψυχρὸν ἐν οὐσίαι μήτε τὸ θερμὸν ἀπολείπωμεν, ἀλλὰ πάθη κοινὰ τῆς ὕλης ἐπιγιγνόμενα ταῖς μεταβολαῖς· τὸ γὰρ συστελλόμενον αὐτῆς καὶ πυκνούμενον ψυχρὸν εἶναί φησι, τὸ δ’ ἀραιὸν καὶ τὸ χαλαρὸν (οὕτω πως ὀνομάσας καὶ τῶι ῥήματι) θερμόν. ὅθεν οὐκ ἀπεικότως λέγεσθαι τὸ καὶ θερμὰ τὸν ἄνθρωπον ἐκ τοῦ στόματος καὶ ψυχρὰ μεθιέναι· ψύχεται γὰρ ἡ πνοὴ πιεσθεῖσα καὶ πυκνωθεῖσα τοῖς χείλεσιν, ἀνειμένου δὲ τοῦ στόματος ἐκπίπτουσα γίγνεται θερμὸν ὑπὸ μανότητος. τοῦτο μὲν οὖν ἀγνόημα ποιεῖται τοῦ ἀνδρὸς ὁ Ἀριστοτέλης [Probl. 34, 7. 964a 10?]: ἀνειμένου γὰρ τοῦ στόματος ἐκπνεῖσθαι τὸ θερμὸν ἐξ ἡμῶν αὐτῶν, ὅταν δὲ συστρέψαντες τὰ χείλη φυσήσωμεν, οὐ τὸν ἐξ ἡμῶν, ἀλλὰ τὸν ἀέρα τὸν πρὸ τοῦ στόματος ὠθεῖσθαι ψυχρὸν ὄντα καὶ προσεμπίπτειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "AËT. I 3, 4 (D. 278) Ἀ. Εὐρυστράτου Μιλήσιος ἀρχὴν τῶν ὄντων ἀέρα ἀπεφήνατο· ἐκ γὰρ τούτου πάντα γίγνεσθαι καὶ εἰς αὐτὸν πάλιν ἀναλύεσθαι. ‘ οἶον ἡ ψυχ ή , φησί ν , ἡ ἡμετέρα ἀὴρ οὖσα συγκρατεῖ ἡμᾶ ς , καὶ ὅλον τὸν κόσμον πνεῦμα καὶ ἀὴρ περιέχει ‘ (λέγεται δὲ συνωνύμως ἀὴρ καὶ πνεῦμα). ἁμαρτάνει δὲ καὶ οὗτος ἐξ ἁπλοῦ καὶ μονοειδοῦς ἀέρος καὶ πνεύματος δοκῶν συνεστάναι τὰ ζῶια· ἀδύνατον γὰρ ἀρχὴν μίαν τὴν ὕλην τῶν ὄντων ὑποστῆναι, ἀλλὰ καὶ τὸ ποιοῦν αἴτιον χρὴ ὑποτιθέναι· οἷον ἄργυρος οὐκ ἀρκεῖ πρὸς τὸ ἔκπωμα γενέσθαι, ἐὰν μὴ τὸ ποιοῦν ἦι, τουτέστιν ὁ ἀργυροκόπος· ὁμοίως καὶ ἐπὶ τοῦ χαλκοῦ καὶ τοῦ ξύλου. καὶ τῆς ἄλλης ὕλης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2a",
+      "text": "—II 22, 1 πλατὺν ὡς πέταλον τὸν ἥλιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "OLYMPIODOR. de arte sacra lapidis philosophorum c. 25 (Berthelot Coll. Alchym. gr. I 2 p. 83, 7) μίαν δὲ κινουμένην ἄπειρον ἀρχὴν πάντων τῶν ὄντων δοξάζει Ἀ. τὸν ἀέρα. λέγει γὰρ οὕτως· ‘ ἐγγύς ἐστιν ὁ ἀὴρ τοῦ ἀσωμάτο υ · καὶ ὅτι κα τ ’ ἔκροιαν τούτου γινόμεθ α , ἀνάγκη αὐτὸν καὶ ἄπειρον εἶναι καὶ πλούσιον διὰ τὸ μηδέποτε ἐκλείπειν ‘.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "bcm-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "anaximenes-of-miletus-testimonies-bcm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anaximenes-of-miletus/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-miletus-testimonies-bcm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-miletus-testimonies-bcm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-miletus-testimonies-bcm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-miletus-testimonies-bcm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-miletus/testimonies.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "uim-ac",
+      "title": {
+        "english": "Commentaries-Aristotle in Greek",
+        "ancient_greek": "Σχόλια εἰς τὰ Ἠθικὰ Νικομάχεια"
+      },
+      "url_slug": "anonymous-commentary-on-aristotle-in-greek-uim-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-commentary-on-aristotle/in-greek",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle-in-greek-uim-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle-in-greek-uim-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle-in-greek-uim-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle-in-greek-uim-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle/in-greek.epub"
+      }
+    },
+    {
+      "eul_wid": "ccg-ae",
+      "title": {
+        "english": "Fragments on Dionysus and Eros",
+        "ancient_greek": "Ἀποσπάσματα περὶ Διονύσου καὶ Ἔρωτος"
+      },
+      "url_slug": "ion-of-chios-dionysus-eros-ccg-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/ion-of-chios/dionysus-eros",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-dionysus-eros-ccg-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-dionysus-eros-ccg-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-dionysus-eros-ccg-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-dionysus-eros-ccg-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/dionysus-eros.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-ai",
+      "title": {
+        "english": "On Memory and Recollection",
+        "ancient_greek": "Περὶ Μνήμης καὶ Ἀναμνήσεως"
+      },
+      "url_slug": "aristotle-memory-recollection-hgw-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/memory-recollection",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-memory-recollection-hgw-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-memory-recollection-hgw-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-memory-recollection-hgw-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-memory-recollection-hgw-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/memory-recollection.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-aj",
+      "title": {
+        "english": "On the Vatican Codex",
+        "ancient_greek": "Ζητήματα τοῦ Βατικανοῦ κώδικος"
+      },
+      "url_slug": "porphyry-of-tyre-vatican-codex-udm-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/vatican-codex",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-vatican-codex-udm-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-vatican-codex-udm-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-vatican-codex-udm-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-vatican-codex-udm-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/vatican-codex.epub"
+      }
+    },
+    {
+      "eul_wid": "lay-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "parmeniscus-the-philosopher-testimonies-lay-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/parmeniscus-the-philosopher/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmeniscus-the-philosopher-testimonies-lay-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmeniscus-the-philosopher-testimonies-lay-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmeniscus-the-philosopher-testimonies-lay-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmeniscus-the-philosopher-testimonies-lay-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmeniscus-the-philosopher/testimonies.epub"
+      }
+    },
+    {
+      "eul_wid": "etc-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "thrasyalces-the-sophist-testimonies-etc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/thrasyalces-the-sophist/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasyalces-the-sophist-testimonies-etc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasyalces-the-sophist-testimonies-etc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasyalces-the-sophist-testimonies-etc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasyalces-the-sophist-testimonies-etc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasyalces-the-sophist/testimonies.epub"
+      }
+    },
+    {
+      "eul_wid": "mto-aa",
+      "title": {
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
+      },
+      "url_slug": "sosigenes-of-alexandria-testimony-mto-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sosigenes-of-alexandria/testimony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosigenes-of-alexandria-testimony-mto-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosigenes-of-alexandria-testimony-mto-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosigenes-of-alexandria-testimony-mto-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosigenes-of-alexandria-testimony-mto-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosigenes-of-alexandria/testimony.epub"
+      }
+    },
+    {
+      "eul_wid": "uqy-al",
+      "title": {
+        "english": "Theological Instruction",
+        "ancient_greek": "Θεολογικὴ Διδασκαλία"
+      },
+      "url_slug": "proclus-the-successor-theological-instruction-uqy-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/proclus-the-successor/theological-instruction",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-theological-instruction-uqy-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-theological-instruction-uqy-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-theological-instruction-uqy-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-theological-instruction-uqy-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/theological-instruction.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/anaximenes-of-miletus/cold-heat",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-miletus-cold-heat-bcm-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-miletus-cold-heat-bcm-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-miletus-cold-heat-bcm-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-miletus-cold-heat-bcm-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-miletus/cold-heat.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

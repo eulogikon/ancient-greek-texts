@@ -1,0 +1,502 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "gcm-aa",
+  "eul_aid": "gcm",
+  "author_slug": "philetaerus-the-comic-poet",
+  "work_slug": "comic-life-pleasure",
+  "url_slug": "philetaerus-the-comic-poet-comic-life-pleasure-gcm-aa",
+  "author": {
+    "english": "Philetaerus the Comic Poet",
+    "ancient_greek": "Φιλέταιρος ὁ κωμικός"
+  },
+  "title": {
+    "english": "Comic Fragments on Life and Pleasure",
+    "ancient_greek": "Ἀποσπάσματα περὶ Βίου καὶ Ἡδονῆς"
+  },
+  "seo": {
+    "browser_title": "Comic Fragments by Philetaerus of Athens on Eulogikon",
+    "meta_title": "Classical Comic Fragments by Philetaerus in Ancient Greek",
+    "meta_description": "Surviving comic fragments by Philetaerus on life and pleasure from the Middle Comedy. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">_Comic Fragments on Life and Pleasure_ is a modern thematic compilation of passages attributed to the Athenian comic poet Philetaerus, who was active during the 4th-century BCE era of Middle Comedy. No complete play by him survives; the work consists of quotations from his lost dramas, preserved by later authors and organized around the subjects of life and pleasure. The fragments, primarily in verse, reflect the characteristic themes of Middle Comedy, including mythological parody of tragic subjects, social observation of behaviors like gluttony and dining, and humor derived from contemporary stereotypes and metatheatrical references. Philetaerus’s work survives only through indirect citation, most notably in Athenaeus’s <strong>Deipnosophistae</strong> from the 2nd–3rd century CE and in various ancient lexica. The definitive modern edition is found in <strong>Poetae Comici Graeci (PCG)</strong> Volume VII, which catalogs his fragments. As a poet of Middle Comedy, Philetaerus represents the transition from Old Comedy’s political satire to New Comedy’s focus on social types. His fragments provide valuable evidence for the development of the genre, for Athenian social history, and for the comic treatment of myth and daily life.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "ἐνέσεισε μεστὴν ἴσον ἴσῳ μετανιπτρίδα μεγάλην ὑπειπὼν τῆς Ὑγιείας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τοὔνομα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "κἂν δέῃ, τροχάζω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "στάδια",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.3",
+      "text": "πλείω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.4",
+      "text": "Σωτάδου, τὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.5",
+      "text": "Ταυρέαν δὲ τοῖς πόνοις ὑπερβαλῶ, τὸν Κτησίαν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.6",
+      "text": "τε τῷ φαγεῖν ὑπερδραμῶ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4",
+      "text": "Πηλεύς· ὁ Πηλεὺς δ’ ἐστὶν ὄνομα κεραμέως, ξηροῦ λυχνοποιοῦ, Κανθάρου, πενιχροῦ πάνυ, ἀλλ’ οὐ τυράννου νὴ Δία.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.1",
+      "text": "ὡς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.2",
+      "text": "τακερόν, ὦ Ζεῦ, καὶ μαλακὸν τὸ βλέμμ’ ἔχει. οὐκ ἐτὸς ἑταίρας ἱερόν ἐστι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.3",
+      "text": "πανταχοῦ, ἀλλ’ οὐχὶ γαμετῆς οὐδαμοῦ τῆς Ἑλλάδος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.1",
+      "text": "παῦσαι γέρων ὢν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.2",
+      "text": "τοὺς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.3",
+      "text": "τρόπους. οὐκ οἶσθ’ ὅτι ἥδιστόν ἐστιν ἀποθανεῖν βινοῦνθ’ ἅμα, ὥσπερ λέγουσιν ἀποθανεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.4",
+      "text": "Φορμίσιον;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.1",
+      "text": "τί δεῖ γὰρ ὄντα θνητόν, ἱκετεύω, ποιεῖν, πλὴν ἡδέως ζῆν τὸν βίον καθ’ ἡμέραν, ἐὰν ἔχῃ τις ὁπόθεν; ἀλλὰ δεῖ σκοπεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.2",
+      "text": "τοῦτ’ αὐτό, τἀνθρώπει’ ὁρῶντα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.3",
+      "text": "πράγματα,[ln_5]εἰς αὔριον δὲ μηδὲ φροντίζειν ὅ τι ἔσται· περίεργόν ἐστιν ἀποκεῖσθαι πάνυ ἕωλον ἔνδον ἀργύριον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.1",
+      "text": "οὐκ ἐτὸς ἑταίρας ἱερόν ἐστι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.2",
+      "text": "πανταχοῦ, ἀλλ’ οὐχὶ γαμετῆς οὐδαμοῦ τῆς Ἑλλάδος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.1",
+      "text": "οὐχὶ Κερκώπη μὲν ἤδη γέγον’ ἔτη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.2",
+      "text": "τρισχίλια, ἡ δὲ Διοπείθους ἀηδὴς Τέλεσις ἕτερα μυρία; Θεολύτην δ’ οὐδ’ οἶδεν οὐδείς, ὅτε τὸ πρῶτον ἐγένετο. οὐχὶ Λαῒς μὲν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.3",
+      "text": "τελευτῶς’ ἀπέθανεν βινουμένη,[ln_5]Ἰσθμιὰς δὲ καὶ Νέαιρα κατασέσηπε καὶ Φίλα; Κοσσύφας δὲ καὶ Γαλήνας καὶ Κορώνας οὐ λέγω· περὶ δὲ Ναΐδος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.4",
+      "text": "σιωπῶ· γομφίους γὰρ οὐκ ἔχει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.1",
+      "text": "καὶ χειροβαρὲς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.2",
+      "text": "σαρκὸς ὑείας θετταλότμητον κρέας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11",
+      "text": "οὐ πρὸς γυναικὸς ὁ κόρος. οἴκαδ’, ὦ κόρη, ἄπιθ’ ἀμπαλίνορρος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12",
+      "text": "[spk_β]τίς ἐστι μαιμακτηριών; Β. μὴν δικάσιμος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 13",
+      "text": "θνητῶν δ’ ὅσοι ζῶσιν κακῶς ἔχοντες ἄφθονον βίον, ἐγὼ μὲν αὐτοὺς ἀθλίους εἶναι λέγω· οὐκ ἂν θανὼν δήπουθεν ἔγχελυν φάγοις,[ln_5]οὐδ’ ἐν νεκροῖσι πέττεται γαμήλιος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14-15.1",
+      "text": "ὁ μάγειρος οὗτος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14-15.2",
+      "text": "Πατανίων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14-15.3",
+      "text": "προσελθέτω.[ln_1]. . . . . . . . . . . . . . πλείους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14-15.4",
+      "text": "Στρατονίκου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14-15.5",
+      "text": "τοὺς μαθητάς μοι δοκεῖ ἕξειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14-15.6",
+      "text": "Πατανίων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16",
+      "text": "πεπωκέναι δοκεῖ τὸν κατὰ δύο καὶ τρεῖς ἀκράτου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17",
+      "text": "ἐπίπλο[ι]ον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.1",
+      "text": "ὦ Ζεῦ, καλόν γ’ ἔστ’ ἀποθανεῖν αὐλούμενον· τούτοις ἐν ᾅδου γὰρ μόνοις ἐξουσία ἀφροδισιάζειν ἐστίν, οἱ δὲ τοὺς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.2",
+      "text": "τρόπους ῥυπαροὺς ἔχοντες μουσικῆς ἀπειρίᾳ,[ln_5]εἰς τὸν πίθον φέρουσι τὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.3",
+      "text": "τετρημένον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 20",
+      "text": "χλαμὺς ὁλόλευκος",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "gcm-ab",
+      "title": {
+        "english": "Fragments on Health and Pleasure",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ὑγιείας καὶ Ἡδονῆς"
+      },
+      "url_slug": "philetaerus-the-comic-poet-health-pleasure-gcm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/philetaerus-the-comic-poet/health-pleasure",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetaerus-the-comic-poet-health-pleasure-gcm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetaerus-the-comic-poet-health-pleasure-gcm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetaerus-the-comic-poet-health-pleasure-gcm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetaerus-the-comic-poet-health-pleasure-gcm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetaerus-the-comic-poet/health-pleasure.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "fly-aa",
+      "title": {
+        "english": "Comic Fragments on Gods and Mortals",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θεῶν καὶ Βροτῶν"
+      },
+      "url_slug": "sannyrion-the-comic-poet-comic-fragments-aa-fly-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sannyrion-the-comic-poet/comic-fragments-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet-comic-fragments-aa-fly-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet-comic-fragments-aa-fly-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet-comic-fragments-aa-fly-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet-comic-fragments-aa-fly-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet/comic-fragments-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-am",
+      "title": {
+        "english": "Dubious Theophorumenae Fragment",
+        "ancient_greek": "Ἀμφίβολον Ἀπόσπασμα Θεοφορουμένης"
+      },
+      "url_slug": "menander-of-athens-theophorumenae-hps-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/theophorumenae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-theophorumenae-hps-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-theophorumenae-hps-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-theophorumenae-hps-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-theophorumenae-hps-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-aj",
+      "title": {
+        "english": "Fragments of Hero Known Elsewhere",
+        "ancient_greek": "Ἀποσπάσματα τοῦ Ἥρωος"
+      },
+      "url_slug": "menander-of-athens-hero-fragments-hps-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/hero-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-hero-fragments-hps-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-hero-fragments-hps-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-hero-fragments-hps-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-hero-fragments-hps-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/hero-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "dso-aa",
+      "title": {
+        "english": "Fragments of the Well and the Dog",
+        "ancient_greek": "Ἀποσπάσματα τοῦ Φρέατος καὶ τοῦ Κυνός"
+      },
+      "url_slug": "lysippus-the-comic-poet-well-dog-dso-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysippus-the-comic-poet/well-dog",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysippus-the-comic-poet-well-dog-dso-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysippus-the-comic-poet-well-dog-dso-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysippus-the-comic-poet-well-dog-dso-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysippus-the-comic-poet-well-dog-dso-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysippus-the-comic-poet/well-dog.epub"
+      }
+    },
+    {
+      "eul_wid": "dxy-ac",
+      "title": {
+        "english": "Fragments on Human Affairs",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ἀνθρωπίνων Πραγμάτων"
+      },
+      "url_slug": "pherecrates-the-comic-poet-human-affairs-dxy-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/pherecrates-the-comic-poet/human-affairs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-human-affairs-dxy-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-human-affairs-dxy-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-human-affairs-dxy-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-human-affairs-dxy-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet/human-affairs.epub"
+      }
+    },
+    {
+      "eul_wid": "eew-ab",
+      "title": {
+        "english": "Fragments on Theramenes and Tyranny",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θηραμένους καὶ Τυραννίδος"
+      },
+      "url_slug": "polyzelus-the-comic-poet-theramenes-tyranny-eew-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/polyzelus-the-comic-poet/theramenes-tyranny",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polyzelus-the-comic-poet-theramenes-tyranny-eew-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polyzelus-the-comic-poet-theramenes-tyranny-eew-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polyzelus-the-comic-poet-theramenes-tyranny-eew-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polyzelus-the-comic-poet-theramenes-tyranny-eew-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polyzelus-the-comic-poet/theramenes-tyranny.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-bh",
+      "title": {
+        "english": "Misumenus",
+        "ancient_greek": "Μισούμενος"
+      },
+      "url_slug": "menander-of-athens-misumenus-hps-bh",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/misumenus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-misumenus-hps-bh.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-misumenus-hps-bh.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-misumenus-hps-bh.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-misumenus-hps-bh.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/misumenus.epub"
+      }
+    },
+    {
+      "eul_wid": "gcw-ac",
+      "title": {
+        "english": "Rhea's Lament to Cronus",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philiscus-of-athens-rhea-lament-gcw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/philiscus-of-athens/rhea-lament",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-rhea-lament-gcw-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-rhea-lament-gcw-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-rhea-lament-gcw-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-rhea-lament-gcw-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens/rhea-lament.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/philetaerus-the-comic-poet/comic-life-pleasure",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetaerus-the-comic-poet-comic-life-pleasure-gcm-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetaerus-the-comic-poet-comic-life-pleasure-gcm-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetaerus-the-comic-poet-comic-life-pleasure-gcm-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetaerus-the-comic-poet-comic-life-pleasure-gcm-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetaerus-the-comic-poet/comic-life-pleasure.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

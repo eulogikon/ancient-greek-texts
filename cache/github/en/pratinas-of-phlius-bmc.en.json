@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "bmc",
+  "auth_slug": "pratinas-of-phlius",
+  "name": {
+    "english": "Pratinas of Phlius",
+    "ancient_greek": "Πρατίνας ὁ Φλιάσιος"
+  },
+  "seo_h1": "Pratinas of Phlius and the Origins of the Satyr Play",
+  "seo": {
+    "browser_title": "Pratinas of Phlius Ancient Greek Dramatist on Eulogikon",
+    "meta_title": "Classical Pratinas of Phlius Ancient Greek Dramatic Works",
+    "meta_description": "Pratinas of Phlius, Archaic Greek playwright from the 6th-5th century BCE. Surviving dramatic works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric (frg)",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Δρᾶμα",
+      "english": "Drama",
+      "href": "/domains/drama"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Pratinas of Phlius was a Greek poet active in Athens around 500 BCE. He was a contemporary and rival of the tragedian Aeschylus. Ancient sources place him at early Athenian dramatic competitions and credit him, though controversially, with being the first to produce satyr plays. He was the father of the dramatist Aristias. A notable anecdote describes a collapse of wooden theater benches during one of his performances, an event later anachronistically linked to the Persian invasion of 480 BCE and possibly associated with the relocation of the dramatic contests to the sanctuary of Dionysus.</p>\n<p class=\"research-text\">Pratinas was known primarily for satyr plays. The Suda credits him with 50 plays, 32 of which were satyric dramas. Only one title survives with certainty: <strong>Palaistai</strong> or <strong>Dymainai</strong> (The Wrestlers or The Men of Dyme). A significant fragment of a hyporcheme, a choral song with dance, attributed to him survives. It features a chorus of satyrs protesting the dominance of the aulos, or pipe, and asserting the primacy of words and song. Scholars debate whether this fragment comes from a satyr play or was a standalone composition.</p>\n<p class=\"research-text\">Pratinas holds a critical but obscure place in early Greek drama as a pioneer of the satyr play genre. His surviving hyporcheme fragment provides rare insight into early choral performance, Doric poetic tradition, and contemporary aesthetic debates about music and poetry. His influence extended through his son, Aristias, who continued producing his plays in the 5th century BCE.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "bmc-aa",
+      "title": {
+        "english": "Chorus Against the Aulos",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "pratinas-of-phlius-against-aulos-bmc-aa",
+      "passages": 20,
+      "links": {
+        "html": "https://eulogikon.org/grc/pratinas-of-phlius/against-aulos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pratinas-of-phlius-against-aulos-bmc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pratinas-of-phlius-against-aulos-bmc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pratinas-of-phlius-against-aulos-bmc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pratinas-of-phlius-against-aulos-bmc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pratinas-of-phlius/against-aulos.epub"
+      }
+    },
+    {
+      "eul_wid": "bmc-ab",
+      "title": {
+        "english": "On the Dithyramb and Choral Dance",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "pratinas-of-phlius-dithyramb-dance-bmc-ab",
+      "passages": 22,
+      "links": {
+        "html": "https://eulogikon.org/grc/pratinas-of-phlius/dithyramb-dance",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pratinas-of-phlius-dithyramb-dance-bmc-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pratinas-of-phlius-dithyramb-dance-bmc-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pratinas-of-phlius-dithyramb-dance-bmc-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pratinas-of-phlius-dithyramb-dance-bmc-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pratinas-of-phlius/dithyramb-dance.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/pratinas-of-phlius",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pratinas-of-phlius-bmc.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pratinas-of-phlius-bmc.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pratinas-of-phlius-bmc.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pratinas-of-phlius-bmc.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

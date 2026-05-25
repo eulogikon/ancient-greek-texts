@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ejw",
+  "auth_slug": "amphicrates-of-athens",
+  "name": {
+    "english": "Amphicrates Atheniensis",
+    "ancient_greek": "Ἀμφικράτης Ἀθηναῖος"
+  },
+  "seo_h1": "On Illustrious Men by Amphicrates Atheniensis",
+  "seo": {
+    "browser_title": "The Amphicrates of Athens on Eulogikon Greek Archive",
+    "meta_title": "The Classical Amphicrates of Athens Ancient Greek Orations",
+    "meta_description": "Amphicrates of Athens, a 4th century BCE sophist and orator, student of Isocrates. One surviving oration is preserved. Free to download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Sophist",
+      "href": "/affiliations/sophist"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Amphicrates of Athens was a Greek sophist and orator who lived during the 4th century BCE. He is recorded as having been a student of the famous Athenian rhetorician Isocrates.</p>\n<p class=\"research-text\">His career illustrates the mobility of Greek intellectuals. He is said to have been exiled from Athens and later sought patronage at the court of the Persian king Artaxerxes. According to ancient accounts, he was initially honored there but ultimately fell from favor; his life ended with his execution by the king, though the precise circumstances are unclear.</p>\n<p class=\"research-text\">His known work is a single, lost speech of praise titled Encomium on Philip, which was likely dedicated to Philip II of Macedon. This suggests Amphicrates was engaged with the major political powers of his era. No fragments of this or any other writings survive today.</p>\n<p class=\"research-text\">Amphicrates is a minor but illustrative figure in the history of Greek rhetoric. His life demonstrates how skilled orators could find employment across the Greek and Persian worlds, while also highlighting the risks of depending on the favor of autocratic rulers. His connection to Isocrates places him within a significant Athenian intellectual tradition, and his attested work links him to the contemporary rise of Macedonian power.</p>\n</div>",
+  "affiliation_label": "Sophist",
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ejw-aa",
+      "title": {
+        "english": "On Illustrious Men",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "amphicrates-of-athens-illustrious-men-ejw-aa",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/amphicrates-of-athens/illustrious-men",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amphicrates-of-athens-illustrious-men-ejw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amphicrates-of-athens-illustrious-men-ejw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amphicrates-of-athens-illustrious-men-ejw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amphicrates-of-athens-illustrious-men-ejw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amphicrates-of-athens/illustrious-men.epub"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "que",
+      "name": {
+        "english": "Achilles Tatius of Alexandria",
+        "ancient_greek": "Ἀχιλλεὺς ὁ Τατίος ὁ Ἀλεξανδρεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/achilles-tatius-of-alexandria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/achilles-tatius-of-alexandria-que.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/achilles-tatius-of-alexandria-que.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/achilles-tatius-of-alexandria-que.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/achilles-tatius-of-alexandria-que.en.json"
+      }
+    },
+    {
+      "eul_aid": "ria",
+      "name": {
+        "english": "Aelian of Praeneste",
+        "ancient_greek": "Κλαύδιος Αἰλιανός"
+      },
+      "work_count": 4,
+      "links": {
+        "html": "https://eulogikon.org/en/aelian-of-praeneste",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelian-of-praeneste-ria.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelian-of-praeneste-ria.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelian-of-praeneste-ria.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelian-of-praeneste-ria.en.json"
+      }
+    },
+    {
+      "eul_aid": "pnc",
+      "name": {
+        "english": "Aelius Aristides of Smyrna",
+        "ancient_greek": "Πόπλιος Αἴλιος Ἀριστείδης Θεόδωρος"
+      },
+      "work_count": 3,
+      "links": {
+        "html": "https://eulogikon.org/en/aelius-aristides-of-smyrna",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-aristides-of-smyrna-pnc.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-aristides-of-smyrna-pnc.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-aristides-of-smyrna-pnc.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-aristides-of-smyrna-pnc.en.json"
+      }
+    },
+    {
+      "eul_aid": "psw",
+      "name": {
+        "english": "Aelius Dionysius of Halicarnassus",
+        "ancient_greek": "Αἴλιος Διονύσιος ὁ Ἁλικαρνασσεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/aelius-dionysius-of-halicarnassus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-dionysius-of-halicarnassus-psw.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-dionysius-of-halicarnassus-psw.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-dionysius-of-halicarnassus-psw.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-dionysius-of-halicarnassus-psw.en.json"
+      }
+    },
+    {
+      "eul_aid": "nxo",
+      "name": {
+        "english": "Aelius Theon the Sophist",
+        "ancient_greek": "Αἴλιος Θέων ὁ σοφιστής"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/aelius-theon-the-sophist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-theon-the-sophist-nxo.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-theon-the-sophist-nxo.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-theon-the-sophist-nxo.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-theon-the-sophist-nxo.en.json"
+      }
+    },
+    {
+      "eul_aid": "dkm",
+      "name": {
+        "english": "Alcidamas of Elaea",
+        "ancient_greek": "Ἀλκιδάμας ὁ Ἐλαεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/alcidamas-of-elaea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcidamas-of-elaea-dkm.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcidamas-of-elaea-dkm.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcidamas-of-elaea-dkm.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcidamas-of-elaea-dkm.en.json"
+      }
+    },
+    {
+      "eul_aid": "quo",
+      "name": {
+        "english": "Alciphron the Sophist",
+        "ancient_greek": "Ἀλκίφρων ὁ Σοφιστής"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/alciphron-the-sophist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alciphron-the-sophist-quo.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alciphron-the-sophist-quo.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alciphron-the-sophist-quo.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alciphron-the-sophist-quo.en.json"
+      }
+    },
+    {
+      "eul_aid": "qko",
+      "name": {
+        "english": "Alexander Son of Numenius",
+        "ancient_greek": "Ἀλέξανδρος ὁ τοῦ Νουμήνιου"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/alexander-son-of-numenius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-son-of-numenius-qko.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-son-of-numenius-qko.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-son-of-numenius-qko.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-son-of-numenius-qko.en.json"
+      }
+    },
+    {
+      "eul_aid": "lfy",
+      "name": {
+        "english": "Alexander the Ephesian Poet",
+        "ancient_greek": "Ἀλέξανδρος ὁ Ἐφέσιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/alexander-of-ephesus-poet",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-ephesus-poet-lfy.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-ephesus-poet-lfy.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-ephesus-poet-lfy.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-ephesus-poet-lfy.en.json"
+      }
+    },
+    {
+      "eul_aid": "vng",
+      "name": {
+        "english": "Anonymous Commentary on Aphthonius",
+        "ancient_greek": "Ἀνώνυμος ὑπόμνημα εἰς Ἀφθόνιον"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/aphthonius-commentary-anonymous",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aphthonius-commentary-anonymous-vng.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aphthonius-commentary-anonymous-vng.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aphthonius-commentary-anonymous-vng.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aphthonius-commentary-anonymous-vng.en.json"
+      }
+    },
+    {
+      "eul_aid": "bqs",
+      "name": {
+        "english": "Antiphon of Athens",
+        "ancient_greek": "Ἀντιφῶν ὁ Ἀθηναῖος"
+      },
+      "work_count": 9,
+      "links": {
+        "html": "https://eulogikon.org/en/antiphon-of-athens",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antiphon-of-athens-bqs.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antiphon-of-athens-bqs.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antiphon-of-athens-bqs.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antiphon-of-athens-bqs.en.json"
+      }
+    },
+    {
+      "eul_aid": "dbg",
+      "name": {
+        "english": "Antiphon of Rhamnus",
+        "ancient_greek": "Ἀντιφῶν ὁ Ῥαμνούσιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/antiphon-of-rhamnus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antiphon-of-rhamnus-dbg.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antiphon-of-rhamnus-dbg.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antiphon-of-rhamnus-dbg.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antiphon-of-rhamnus-dbg.en.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/amphicrates-of-athens",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amphicrates-of-athens-ejw.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amphicrates-of-athens-ejw.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amphicrates-of-athens-ejw.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amphicrates-of-athens-ejw.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

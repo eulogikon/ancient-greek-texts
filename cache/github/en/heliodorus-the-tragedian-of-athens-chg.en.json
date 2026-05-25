@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "chg",
+  "auth_slug": "heliodorus-the-tragedian-of-athens",
+  "name": {
+    "english": "Heliodorus the Tragedian of Athens",
+    "ancient_greek": "Ἡλιόδωρος ὁ τραγικός Ἀθηναῖος"
+  },
+  "seo_h1": "Heliodorus the Tragedian of Athens on Italian Wonders",
+  "seo": {
+    "browser_title": "Heliodorus the Tragedian on Eulogikon Greek Archive",
+    "meta_title": "Classical Heliodorus the Tragedian Ancient Greek Dramatist",
+    "meta_description": "Heliodorus the Tragedian was an Athenian dramatist of the 4th-3rd century BCE. Two surviving works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δράμα Ἀττικόν",
+      "english": "Attic Drama",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Δρᾶμα",
+      "english": "Drama",
+      "href": "/domains/drama"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Heliodorus the Tragedian of Athens was an Athenian tragic poet active in the late 4th and early 3rd centuries BCE. The Suda, a 10th-century Byzantine encyclopedia, identifies him as a contemporary of the comic playwright Menander and records that he was the author of a tragedy titled Aethiopica. No other biographical details survive.</p>\n<p class=\"research-text\">His sole attested work is the lost tragedy Aethiopica, which is not to be confused with the later prose romance of the same name by Heliodorus of Emesa. No fragments of the play are preserved.</p>\n<p class=\"research-text\">Heliodorus serves as a chronological marker for Athenian tragedy in the early Hellenistic period, following its classical zenith. His documented association with Menander provides a useful historical anchor. The preservation of his name distinguishes him from the later, more famous novelist, though the complete loss of his work precludes any assessment of his literary style or influence.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "chg-ab",
+      "title": {
+        "english": "Fragments on the Poisonous Spring",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἰοβόλου Πηγῆς"
+      },
+      "url_slug": "heliodorus-the-tragedian-of-athens-poisonous-spring-chg-ab",
+      "passages": 25,
+      "links": {
+        "html": "https://eulogikon.org/grc/heliodorus-the-tragedian-of-athens/poisonous-spring",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-tragedian-of-athens-poisonous-spring-chg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-tragedian-of-athens-poisonous-spring-chg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-tragedian-of-athens-poisonous-spring-chg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-tragedian-of-athens-poisonous-spring-chg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-tragedian-of-athens/poisonous-spring.epub"
+      }
+    },
+    {
+      "eul_wid": "chg-aa",
+      "title": {
+        "english": "Italian Wonders",
+        "ancient_greek": "Ἰταλικὰ θαύματα"
+      },
+      "url_slug": "heliodorus-the-tragedian-of-athens-italian-wonders-chg-aa",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/heliodorus-the-tragedian-of-athens/italian-wonders",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-tragedian-of-athens-italian-wonders-chg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-tragedian-of-athens-italian-wonders-chg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-tragedian-of-athens-italian-wonders-chg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-tragedian-of-athens-italian-wonders-chg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-tragedian-of-athens/italian-wonders.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/heliodorus-the-tragedian-of-athens",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heliodorus-the-tragedian-of-athens-chg.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heliodorus-the-tragedian-of-athens-chg.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heliodorus-the-tragedian-of-athens-chg.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heliodorus-the-tragedian-of-athens-chg.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

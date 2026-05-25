@@ -1,0 +1,340 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "eym-ae",
+  "eul_aid": "eym",
+  "author_slug": "andocides",
+  "work_slug": "political-speeches",
+  "url_slug": "andocides-political-speeches-eym-ae",
+  "author": {
+    "english": "Andocides",
+    "ancient_greek": "Ἀνδοκίδης"
+  },
+  "title": {
+    "english": "Fragments of Political Speeches",
+    "ancient_greek": "Ἀποσπάσματα πολιτικῶν λόγων"
+  },
+  "seo": {
+    "browser_title": "Fragments of Andocides by Andocides on Eulogikon Archive",
+    "meta_title": "Fragments of Andocides by Andocides in Ancient Greek",
+    "meta_description": "Political orations by the Athenian orator Andocides. Examples of classical Attic oratory. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Fragments of Political Speeches are the surviving excerpts from lost orations by the Attic orator Andocides. While four of his speeches survive in full, these fragments represent works known only through quotations by later authors. A modern editorial collection organizes these remains into twelve passages, reflecting Andocides&#x27; career in Athenian political and judicial affairs following his exile. Based on his extant speeches and historical context, the fragments likely engaged with core political themes of his era, including civic reconciliation and amnesty after political turmoil, the legal consequences of exile and disenfranchisement, Athenian foreign policy regarding peace with Sparta, and defense against charges of impiety and political misconduct. Andocides&#x27; complete speeches were preserved via medieval manuscripts, but the fragments survive only as citations in later ancient grammarians, rhetoricians, and historians; their assembly into a collection is a modern scholarly reconstruction. The fragments attest to the broader scope of Andocides&#x27; political activity. Alongside his complete orations, they serve as crucial primary sources for the history of Athens during the Peloponnesian War, its judicial procedures, and the period&#x27;s intense partisan conflicts.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "Frag.1.t",
+      "text": "frr. 1–2, 4, 7 .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag.1.1",
+      "text": "ΣΥΜΒΟΥΛΕΥΤΙΚΟΣ . .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag.1.1",
+      "text": "εὐωχεῖν Bekk. An., p. 94, 21.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag.1.2",
+      "text": ". .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag.1.2",
+      "text": "Ναυκρατίαν Phot. s. u.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag.3.4",
+      "text": ". .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag.3.5",
+      "text": "μὴ γὰρ ἴδοι μέν ποτε πάλιν ἐκ τῶν ὀρῶν τοὺς ἀνθρακευτὰς ἥκοντας εἰς τὸ ἄστυ, καὶ γύναια καὶ πρόβατα καὶ βοῦς καὶ τὰς ἁμάξας καὶ πρεσβυτέρους ἄνδρας καὶ ἐργάτας ἐξοπλιζομένους· μηδὲ ἄγρια λάχανα καὶ σκάνδικας ἔτι φάγοιμεν (Suid. s. u. σκάνδιξ, ex scholio ad. Ar. Ach. 478) . .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag.3.5",
+      "text": "περὶ Ὑπερβόλου λέγειν αἰσχύνομαι, οὗ ὁ μὲν πατὴρ ἐστιγμένος ἔτι καὶ νῦν ἐν τῷ ἀργυροκοπείῳ δουλεύει τῷ δημοσίῳ, αὐτὸς δὲ ξένος ὢν καὶ βάρβαρος λυχνοποιεῖ (Schol. Ar. Vesp. 1007. Cf. Schol. Lucian. p. 114, 24 sqq. ed. Rabe).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag.3.6",
+      "text": ". .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag.3.6",
+      "text": "ἀρετὴ Suid. s. u.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag.3.7",
+      "text": ". .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag.3.7",
+      "text": "Αὐτόπτης Poll. (ii, 58).",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "eym-ab",
+      "title": {
+        "english": "Against Alcibiades",
+        "ancient_greek": "Κατὰ Ἀλκιβιάδου"
+      },
+      "url_slug": "andocides-against-alcibiades-eym-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/andocides/against-alcibiades",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides-against-alcibiades-eym-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides-against-alcibiades-eym-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides-against-alcibiades-eym-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides-against-alcibiades-eym-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides/against-alcibiades.epub"
+      }
+    },
+    {
+      "eul_wid": "eym-ac",
+      "title": {
+        "english": "On His Own Descent",
+        "ancient_greek": "Περὶ τῆς ἑαυτοῦ καθόδου"
+      },
+      "url_slug": "andocides-descent-eym-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/andocides/descent",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides-descent-eym-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides-descent-eym-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides-descent-eym-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides-descent-eym-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides/descent.epub"
+      }
+    },
+    {
+      "eul_wid": "eym-aa",
+      "title": {
+        "english": "On Peace with the Lacedaemonians",
+        "ancient_greek": "Περὶ τῆς πρὸς Λακεδαιμονίους εἰρήνης"
+      },
+      "url_slug": "andocides-peace-lacedaemonians-eym-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/andocides/peace-lacedaemonians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides-peace-lacedaemonians-eym-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides-peace-lacedaemonians-eym-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides-peace-lacedaemonians-eym-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides-peace-lacedaemonians-eym-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides/peace-lacedaemonians.epub"
+      }
+    },
+    {
+      "eul_wid": "eym-ad",
+      "title": {
+        "english": "On the Mysteries",
+        "ancient_greek": "Περὶ τῶν μυστηρίων"
+      },
+      "url_slug": "andocides-mysteries-eym-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/andocides/mysteries",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides-mysteries-eym-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides-mysteries-eym-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides-mysteries-eym-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides-mysteries-eym-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides/mysteries.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "hbm-ab",
+      "title": {
+        "english": "Against Timarchus",
+        "ancient_greek": "Κατὰ Τιμάρχου"
+      },
+      "url_slug": "aeschines-of-athens-against-timarchus-hbm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschines-of-athens/against-timarchus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens-against-timarchus-hbm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens-against-timarchus-hbm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens-against-timarchus-hbm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens-against-timarchus-hbm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens/against-timarchus.epub"
+      }
+    },
+    {
+      "eul_wid": "qeu-ah",
+      "title": {
+        "english": "Alcyon",
+        "ancient_greek": "Ἀλκυών"
+      },
+      "url_slug": "pseudo-lucian-alcyon-qeu-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/alcyon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-alcyon-qeu-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-alcyon-qeu-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-alcyon-qeu-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-alcyon-qeu-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/alcyon.epub"
+      }
+    },
+    {
+      "eul_wid": "qwm-aj",
+      "title": {
+        "english": "Allied B. To Thebans-the Alliance",
+        "ancient_greek": "Συμμαχικὸς Β."
+      },
+      "url_slug": "aristides-the-orator-alliance-thebans-qwm-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/alliance-thebans",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-alliance-thebans-qwm-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-alliance-thebans-qwm-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-alliance-thebans-qwm-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-alliance-thebans-qwm-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/alliance-thebans.epub"
+      }
+    },
+    {
+      "eul_wid": "qwm-bv",
+      "title": {
+        "english": "Asclepiads",
+        "ancient_greek": "Ἀσκληπιάδαι"
+      },
+      "url_slug": "aristides-the-orator-asclepiads-qwm-bv",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/asclepiads",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-asclepiads-qwm-bv.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-asclepiads-qwm-bv.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-asclepiads-qwm-bv.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator-asclepiads-qwm-bv.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/asclepiads.epub"
+      }
+    },
+    {
+      "eul_wid": "spc-ac",
+      "title": {
+        "english": "Division of Questions",
+        "ancient_greek": "Διαίρεσις ζητημάτων"
+      },
+      "url_slug": "sopater-of-athens-division-questions-spc-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/sopater-of-athens/division-questions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sopater-of-athens-division-questions-spc-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sopater-of-athens-division-questions-spc-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sopater-of-athens-division-questions-spc-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sopater-of-athens-division-questions-spc-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sopater-of-athens/division-questions.epub"
+      }
+    },
+    {
+      "eul_wid": "rhg-ag",
+      "title": {
+        "english": "Expositithe Art of Rhetoric",
+        "ancient_greek": "Ἔκθεσις τῆς ῥητορικῆς τέχνης"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-exposit-rhg-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/exposit",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises-exposit-rhg-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises-exposit-rhg-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises-exposit-rhg-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises-exposit-rhg-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/exposit.epub"
+      }
+    },
+    {
+      "eul_wid": "rhg-ac",
+      "title": {
+        "english": "Introduction to Rhetoric (Treatise A)",
+        "ancient_greek": "Εἰσαγωγὴ εἰς τὴν ῥητορικὴν τέχνην"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-introduction-art-ac-rhg-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/introduction-art-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises-introduction-art-ac-rhg-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises-introduction-art-ac-rhg-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises-introduction-art-ac-rhg-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises-introduction-art-ac-rhg-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "qko-aa",
+      "title": {
+        "english": "On Figures of Thought and Speech",
+        "ancient_greek": "Περὶ τῶν τῆς διανοίας καὶ τῆς λέξεως σχημάτων"
+      },
+      "url_slug": "alexander-son-of-numenius-figures-thought-speech-qko-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-son-of-numenius/figures-thought-speech",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-son-of-numenius-figures-thought-speech-qko-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-son-of-numenius-figures-thought-speech-qko-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-son-of-numenius-figures-thought-speech-qko-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-son-of-numenius-figures-thought-speech-qko-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-son-of-numenius/figures-thought-speech.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/andocides/political-speeches",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides-political-speeches-eym-ae.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides-political-speeches-eym-ae.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides-political-speeches-eym-ae.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides-political-speeches-eym-ae.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides/political-speeches.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

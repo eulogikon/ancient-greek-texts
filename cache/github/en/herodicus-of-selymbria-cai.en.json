@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "cai",
+  "auth_slug": "herodicus-of-selymbria",
+  "name": {
+    "english": "Herodicus of Selymbria",
+    "ancient_greek": "Ἡρόδικος ὁ Σηλυμβριανός"
+  },
+  "seo_h1": "Herodicus of Selymbria on Socrates and Desire",
+  "seo": {
+    "browser_title": "The Herodicus of Selymbria on Eulogikon Greek Archive",
+    "meta_title": "Classical Herodicus of Selymbria Ancient Greek Treatise",
+    "meta_description": "Herodicus of Selymbria, a 5th century BCE grammarian writing in Ionic Greek. His surviving treatise. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Herodicus of Selymbria was a 5th-century BCE Greek physician and athletic trainer from Selymbria on the Propontis. He is primarily known through Plato’s dialogues, which identify him as a teacher of the sophist Hippias and criticize his medical methods. Plato portrays him as an advocate of extreme dietetic and gymnastic regimens, a figure who combined training and medicine to create a harsh, life-prolonging therapy.</p>\n<p class=\"research-text\">Later medical writers like Galen cite him as a pioneering figure in dietetics and gymnastics. No specific written work by Herodicus survives. His doctrines are known only through critical references in later authors, particularly Plato and Galen.</p>\n<p class=\"research-text\">Herodicus represents a pivotal bridge between athletic training and systematic medicine in ancient Greece. His methodological emphasis on regimen influenced later Hippocratic medicine and the ancient tradition of managing health through controlled diet, exercise, and lifestyle. Galen’s discussions cement his status as a founding figure in preventive medicine and medical gymnastics.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "cai-aa",
+      "title": {
+        "english": "Fragments on Socrates and Desire",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σωκράτους καὶ Ἐπιθυμίας"
+      },
+      "url_slug": "herodicus-of-selymbria-fragments-desire-cai-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/herodicus-of-selymbria/fragments-desire",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodicus-of-selymbria-fragments-desire-cai-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodicus-of-selymbria-fragments-desire-cai-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodicus-of-selymbria-fragments-desire-cai-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodicus-of-selymbria-fragments-desire-cai-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodicus-of-selymbria/fragments-desire.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/herodicus-of-selymbria",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/herodicus-of-selymbria-cai.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/herodicus-of-selymbria-cai.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/herodicus-of-selymbria-cai.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/herodicus-of-selymbria-cai.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

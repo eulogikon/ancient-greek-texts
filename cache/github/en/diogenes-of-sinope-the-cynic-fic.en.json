@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "fic",
+  "auth_slug": "diogenes-of-sinope-the-cynic",
+  "name": {
+    "english": "Diogenes of Sinope the Cynic",
+    "ancient_greek": "Διογένης ὁ Σινωπεύς"
+  },
+  "seo_h1": "Diogenes of Sinope on Exile and the Cynic Life",
+  "seo": {
+    "browser_title": "Diogenes of Sinope the Cynic on Eulogikon Greek Archive",
+    "meta_title": "Diogenes of Sinope Ancient Greek Epistles and Works",
+    "meta_description": "Diogenes of Sinope was a 4th century BCE Greek Cynic philosopher. Surviving works include epistles. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Diogenes of Sinope was a Greek philosopher of the 4th century BCE, most famous as the archetypal Cynic. He was born in the city of Sinope on the Black Sea coast. Ancient sources report he was exiled from his hometown, after which he moved to Athens. There, he became a follower of the Cynic tradition, though the precise details of his training are sometimes debated by scholars.</p>\n<p class=\"research-text\">He is remembered not for written works but for his radical lifestyle, which itself was his philosophy. Diogenes rejected all social conventions and material possessions, famously living in a large storage jar in Athens. He owned only a cloak, a staff, and a leather pouch. Through provocative acts and sharp wit, he performed a public critique of hypocrisy, advocating for self-sufficiency, freedom, and living in accordance with nature. According to later anecdotes, he even mocked powerful contemporaries like the philosopher Plato. He died in Corinth around 324 BCE.</p>\n<p class=\"research-text\">No writings definitively composed by Diogenes survive. Some dialogues and letters were attributed to him in antiquity, but modern scholars consider these to be later works. Our knowledge of him comes almost entirely from anecdotes recorded by much later authors, such as Diogenes Laertius.</p>\n<p class=\"research-text\">His historical importance lies in this lived example. Diogenes embodied the Cynic ideals of rigorous training, frank speech, and independence. His extreme performance made him a lasting cultural icon of the philosopher who challenges authority and societal norms. This figure profoundly influenced later schools of thought, particularly Stoicism, which adapted his core concept of living naturally while moderating his asceticism.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "fic-aa",
+      "title": {
+        "english": "Cynic Letters on Exile",
+        "ancient_greek": "Ἐπιστολαὶ περὶ Φυγῆς"
+      },
+      "url_slug": "diogenes-of-sinope-the-cynic-letters-exile-fic-aa",
+      "passages": 103,
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-sinope-the-cynic/letters-exile",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-sinope-the-cynic-letters-exile-fic-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-sinope-the-cynic-letters-exile-fic-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-sinope-the-cynic-letters-exile-fic-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-sinope-the-cynic-letters-exile-fic-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-sinope-the-cynic/letters-exile.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/diogenes-of-sinope-the-cynic",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-sinope-the-cynic-fic.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-sinope-the-cynic-fic.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-sinope-the-cynic-fic.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-sinope-the-cynic-fic.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

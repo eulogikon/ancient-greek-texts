@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ium",
+  "auth_slug": "persaeus-of-citium",
+  "name": {
+    "english": "Persaeus of Citium",
+    "ancient_greek": "Περσαῖος ὁ Κιτιεύς"
+  },
+  "seo_h1": "Stoic Philosophy in the Fragments of Persaeus of Citium",
+  "seo": {
+    "browser_title": "Persaeus Citium Stoic Philosopher on Eulogikon Greek Archive",
+    "meta_title": "Persaeus of Citium Ancient Greek Philosophical Works",
+    "meta_description": "Persaeus of Citium, Stoic philosopher and student of Zeno. Hellenistic philosophical fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ φιλοσοφική",
+      "english": "Philosophical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Stoic",
+      "href": "/affiliations/stoic"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Persaeus of Citium was a Stoic philosopher who lived during the late 4th and early 3rd centuries BCE. He was a direct student and close companion of Zeno of Citium, the founder of Stoicism, and was entrusted with the education of Zeno&#x27;s sons. His life transitioned from the philosophical school to the political sphere when he joined the court of King Antigonus II Gonatas of Macedon, serving as an advisor. According to ancient accounts, he later died in Corinth, though the exact circumstances of his death are unclear. His career is often seen as an early model of the Stoic ideal of engaging in public life.</p>\n<p class=\"research-text\">Although none of his writings survive complete, he was a prolific author. Known titles of his lost works cover a wide range of subjects, including <strong>On Kingship</strong>, <strong>A Reply to Plato&#x27;s Laws</strong>, <strong>On the Gods</strong>, and <strong>On the Spartan Constitution</strong>. These works show his engagement with central topics in ethics, politics, and theology.</p>\n<p class=\"research-text\">Persaeus is significant as a first-generation Stoic who helped shape and disseminate the school&#x27;s early doctrines. Modern scholars view his political career and his written critiques of thinkers like Plato as important evidence for the practical and intellectually broad character of early Stoicism. His works, known only through fragments and references in later authors, were considered valuable sources for early Stoic thought on governance and divinity.</p>\n</div>",
+  "affiliation_label": "Stoic",
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ium-aa",
+      "title": {
+        "english": "Persaeus's Philosophical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "persaeus-of-citium-philosophical-fragments-ium-aa",
+      "passages": 28,
+      "links": {
+        "html": "https://eulogikon.org/grc/persaeus-of-citium/philosophical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/persaeus-of-citium-philosophical-fragments-ium-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/persaeus-of-citium-philosophical-fragments-ium-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/persaeus-of-citium-philosophical-fragments-ium-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/persaeus-of-citium-philosophical-fragments-ium-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/persaeus-of-citium/philosophical-fragments.epub"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "mlc",
+      "name": {
+        "english": "Apollodorus of Seleucia",
+        "ancient_greek": "Ἀπολλόδωρος ὁ Σελευκεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/apollodorus-of-seleucia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-seleucia-mlc.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-seleucia-mlc.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-seleucia-mlc.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-seleucia-mlc.en.json"
+      }
+    },
+    {
+      "eul_aid": "jzg",
+      "name": {
+        "english": "Apollophanes the Stoic",
+        "ancient_greek": "Ἀπολλοφάνης ὁ Στωικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/apollophanes-the-stoic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollophanes-the-stoic-jzg.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollophanes-the-stoic-jzg.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollophanes-the-stoic-jzg.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollophanes-the-stoic-jzg.en.json"
+      }
+    },
+    {
+      "eul_aid": "mnk",
+      "name": {
+        "english": "Archedemus of Tarsus",
+        "ancient_greek": "Ἀρχέδημος ὁ Ταρσεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/archedemus-of-tarsus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archedemus-of-tarsus-mnk.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archedemus-of-tarsus-mnk.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archedemus-of-tarsus-mnk.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archedemus-of-tarsus-mnk.en.json"
+      }
+    },
+    {
+      "eul_aid": "jyw",
+      "name": {
+        "english": "Ariston of Chios",
+        "ancient_greek": "Ἀρίστων ὁ Χῖος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/ariston-of-chios",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-chios-jyw.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-chios-jyw.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-chios-jyw.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-chios-jyw.en.json"
+      }
+    },
+    {
+      "eul_aid": "nac",
+      "name": {
+        "english": "Arius Didymus of Alexandria",
+        "ancient_greek": "Ἄρειος Δίδυμος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/arius-didymus-of-alexandria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arius-didymus-of-alexandria-nac.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arius-didymus-of-alexandria-nac.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arius-didymus-of-alexandria-nac.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arius-didymus-of-alexandria-nac.en.json"
+      }
+    },
+    {
+      "eul_aid": "pcs",
+      "name": {
+        "english": "Arrian of Nicomedia",
+        "ancient_greek": "Ἀρριανός ὁ Νικομηδεύς"
+      },
+      "work_count": 18,
+      "links": {
+        "html": "https://eulogikon.org/en/arrian-of-nicomedia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arrian-of-nicomedia-pcs.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arrian-of-nicomedia-pcs.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arrian-of-nicomedia-pcs.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arrian-of-nicomedia-pcs.en.json"
+      }
+    },
+    {
+      "eul_aid": "mty",
+      "name": {
+        "english": "Athenodorus of Tarsus Cordylion",
+        "ancient_greek": "Ἀθηνόδωρος Κορδυλίων"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/athenodorus-of-tarsus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenodorus-of-tarsus-mty.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenodorus-of-tarsus-mty.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenodorus-of-tarsus-mty.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenodorus-of-tarsus-mty.en.json"
+      }
+    },
+    {
+      "eul_aid": "omo",
+      "name": {
+        "english": "Chaeremon of Alexandria",
+        "ancient_greek": "Χαιρήμων ὁ Ἀλεξανδρεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/chaeremon-of-alexandria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chaeremon-of-alexandria-omo.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chaeremon-of-alexandria-omo.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chaeremon-of-alexandria-omo.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chaeremon-of-alexandria-omo.en.json"
+      }
+    },
+    {
+      "eul_aid": "kms",
+      "name": {
+        "english": "Chrysippus of Soli",
+        "ancient_greek": "Χρύσιππος ὁ Σολεύς"
+      },
+      "work_count": 6,
+      "links": {
+        "html": "https://eulogikon.org/en/chrysippus-of-soli",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-kms.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-kms.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-kms.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-kms.en.json"
+      }
+    },
+    {
+      "eul_aid": "ixe",
+      "name": {
+        "english": "Chrysippus of Soli II",
+        "ancient_greek": "Χρύσιππος ὁ Σολεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/chrysippus-of-soli-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-ii-ixe.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-ii-ixe.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-ii-ixe.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-ii-ixe.en.json"
+      }
+    },
+    {
+      "eul_aid": "jew",
+      "name": {
+        "english": "Cleanthes of Assos",
+        "ancient_greek": "Κλεάνθης ὁ Ἀσσεύς"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/cleanthes-of-assos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleanthes-of-assos-jew.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleanthes-of-assos-jew.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleanthes-of-assos-jew.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleanthes-of-assos-jew.en.json"
+      }
+    },
+    {
+      "eul_aid": "obu",
+      "name": {
+        "english": "Cornutus the Stoic Philosopher",
+        "ancient_greek": "Κορνοῦτος ὁ Στωϊκός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/cornutus-the-stoic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cornutus-the-stoic-obu.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cornutus-the-stoic-obu.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cornutus-the-stoic-obu.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cornutus-the-stoic-obu.en.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/persaeus-of-citium",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/persaeus-of-citium-ium.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/persaeus-of-citium-ium.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/persaeus-of-citium-ium.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/persaeus-of-citium-ium.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

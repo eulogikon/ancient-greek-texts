@@ -1,0 +1,600 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "cbm",
+  "auth_slug": "euripides",
+  "name": {
+    "english": "Euripides",
+    "ancient_greek": "Εὐριπίδης"
+  },
+  "seo_h1": "Euripides and the Tragic Stage of Classical Athens",
+  "seo": {
+    "browser_title": "Euripides Ancient Tragedies on Eulogikon Greek Archive",
+    "meta_title": "Euripides Ancient Greek Tragedies and Complete Works",
+    "meta_description": "Euripides, Athenian tragic playwright of the 5th century BCE. Works include Medea and The Bacchae. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δράμα Ἀττικόν",
+      "english": "Attic Drama",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Δρᾶμα",
+      "english": "Drama",
+      "href": "/domains/drama"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Euripides was a tragic playwright who lived in Athens during the 5th century BCE, from approximately 480 to 406 BCE. He was a contemporary of the other great Athenian dramatists, Sophocles and Aeschylus. His life coincided with the Peloponnesian War, a long and devastating conflict that influenced the themes in his work. According to ancient sources, he spent his final years at the court of King Archelaus in Macedon, where he died.</p>\n<p class=\"research-text\">He wrote over 90 plays, and 19 of them survive today, which is more than any other ancient Greek tragedian. Among his most famous works are Medea, The Trojan Women, The Bacchae, and Hippolytus. The authorship of one surviving play, Rhesus, is disputed by scholars. Some of his final plays, like Iphigenia at Aulis, may have been completed after his death.</p>\n<p class=\"research-text\">Euripides is considered one of the three foundational figures of Greek tragedy. Modern scholars note that his plays were innovative and often challenged traditional values. They are known for their complex, psychologically realistic characters, including powerful and sympathetic portraits of women. His work frequently engages with contemporary philosophical debates and can express a rationalistic critique of traditional myths and the gods.</p>\n<p class=\"research-text\">Although he won fewer prizes in his lifetime than his rivals, his plays became immensely popular in the centuries after his death, profoundly influencing later Greek, Roman, and European drama.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 32,
+  "works": [
+    {
+      "eul_wid": "cbm-aq",
+      "title": {
+        "english": "Alcestis",
+        "ancient_greek": "Ἄλκηστις"
+      },
+      "url_slug": "euripides-alcestis-cbm-aq",
+      "passages": 1135,
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/alcestis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-alcestis-cbm-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-alcestis-cbm-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-alcestis-cbm-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-alcestis-cbm-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/alcestis.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-al",
+      "title": {
+        "english": "Alexander",
+        "ancient_greek": "Ἀλέξανδρος"
+      },
+      "url_slug": "euripides-alexander-cbm-al",
+      "passages": 178,
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/alexander",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-alexander-cbm-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-alexander-cbm-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-alexander-cbm-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-alexander-cbm-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/alexander.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-aj",
+      "title": {
+        "english": "Andromacha",
+        "ancient_greek": "Ἀνδρομάχη"
+      },
+      "url_slug": "euripides-andromache-cbm-aj",
+      "passages": 1206,
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/andromache",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-andromache-cbm-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-andromache-cbm-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-andromache-cbm-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-andromache-cbm-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/andromache.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-au",
+      "title": {
+        "english": "Antiope",
+        "ancient_greek": "Ἀντιόπη"
+      },
+      "url_slug": "euripides-antiope-cbm-au",
+      "passages": 133,
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/antiope",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-antiope-cbm-au.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-antiope-cbm-au.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-antiope-cbm-au.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-antiope-cbm-au.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/antiope.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-av",
+      "title": {
+        "english": "Bacchae",
+        "ancient_greek": "Βάκχαι"
+      },
+      "url_slug": "euripides-bacchae-cbm-av",
+      "passages": 1333,
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/bacchae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-bacchae-cbm-av.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-bacchae-cbm-av.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-bacchae-cbm-av.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-bacchae-cbm-av.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/bacchae.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-an",
+      "title": {
+        "english": "Cassandra and Apollo Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "euripides-cassandra-apollo-cbm-an",
+      "passages": 171,
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/cassandra-apollo",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-cassandra-apollo-cbm-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-cassandra-apollo-cbm-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-cassandra-apollo-cbm-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-cassandra-apollo-cbm-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/cassandra-apollo.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-aw",
+      "title": {
+        "english": "Cyclops",
+        "ancient_greek": "Κύκλωψ"
+      },
+      "url_slug": "euripides-cyclops-cbm-aw",
+      "passages": 681,
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/cyclops",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-cyclops-cbm-aw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-cyclops-cbm-aw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-cyclops-cbm-aw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-cyclops-cbm-aw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/cyclops.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-ax",
+      "title": {
+        "english": "Electra",
+        "ancient_greek": "Ἠλέκτρα"
+      },
+      "url_slug": "euripides-electra-cbm-ax",
+      "passages": 1304,
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/electra",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-electra-cbm-ax.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-electra-cbm-ax.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-electra-cbm-ax.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-electra-cbm-ax.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/electra.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-ar",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "euripides-epigrams-cbm-ar",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-epigrams-cbm-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-epigrams-cbm-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-epigrams-cbm-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-epigrams-cbm-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-aa",
+      "title": {
+        "english": "Fragments of an Uncertain Story",
+        "ancient_greek": "Ἀποσπάσματα ἀδήλου διηγήσεως"
+      },
+      "url_slug": "euripides-uncertain-story-cbm-aa",
+      "passages": 14,
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/uncertain-story",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-uncertain-story-cbm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-uncertain-story-cbm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-uncertain-story-cbm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-uncertain-story-cbm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/uncertain-story.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-am",
+      "title": {
+        "english": "Fragments on Exile and Lineage",
+        "ancient_greek": "Ἀποσπάσματα περὶ Φυγῆς καὶ Γένους"
+      },
+      "url_slug": "euripides-exile-lineage-cbm-am",
+      "passages": 2833,
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/exile-lineage",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-exile-lineage-cbm-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-exile-lineage-cbm-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-exile-lineage-cbm-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-exile-lineage-cbm-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/exile-lineage.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-ao",
+      "title": {
+        "english": "Fragments on Hector and Cassandra",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἕκτορος καὶ Κασσάνδρας"
+      },
+      "url_slug": "euripides-hector-cassandra-cbm-ao",
+      "passages": 477,
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/hector-cassandra",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-hector-cassandra-cbm-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-hector-cassandra-cbm-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-hector-cassandra-cbm-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-hector-cassandra-cbm-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/hector-cassandra.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-ba",
+      "title": {
+        "english": "Hecuba",
+        "ancient_greek": "Ἑκάβη"
+      },
+      "url_slug": "euripides-hecuba-cbm-ba",
+      "passages": 1206,
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/hecuba",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-hecuba-cbm-ba.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-hecuba-cbm-ba.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-hecuba-cbm-ba.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-hecuba-cbm-ba.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/hecuba.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-bb",
+      "title": {
+        "english": "Helena",
+        "ancient_greek": "Ἑλένη"
+      },
+      "url_slug": "euripides-helena-cbm-bb",
+      "passages": 1652,
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/helena",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-helena-cbm-bb.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-helena-cbm-bb.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-helena-cbm-bb.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-helena-cbm-bb.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/helena.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-ah",
+      "title": {
+        "english": "Heracleidae",
+        "ancient_greek": "Ἡρακλεῖδαι"
+      },
+      "url_slug": "euripides-heraclidae-cbm-ah",
+      "passages": 1026,
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/heraclidae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-heraclidae-cbm-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-heraclidae-cbm-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-heraclidae-cbm-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-heraclidae-cbm-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/heraclidae.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-as",
+      "title": {
+        "english": "Hercules",
+        "ancient_greek": "Ἡρακλῆς"
+      },
+      "url_slug": "euripides-hercules-cbm-as",
+      "passages": 1369,
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/hercules",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-hercules-cbm-as.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-hercules-cbm-as.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-hercules-cbm-as.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-hercules-cbm-as.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/hercules.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-ak",
+      "title": {
+        "english": "Hippolytus",
+        "ancient_greek": "Ἱππόλυτος"
+      },
+      "url_slug": "euripides-hippolytus-cbm-ak",
+      "passages": 1385,
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/hippolytus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-hippolytus-cbm-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-hippolytus-cbm-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-hippolytus-cbm-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-hippolytus-cbm-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/hippolytus.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-ap",
+      "title": {
+        "english": "Hypsipyle",
+        "ancient_greek": "Ὑψιπύλη"
+      },
+      "url_slug": "euripides-hypsipyle-cbm-ap",
+      "passages": 355,
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/hypsipyle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-hypsipyle-cbm-ap.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-hypsipyle-cbm-ap.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-hypsipyle-cbm-ap.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-hypsipyle-cbm-ap.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/hypsipyle.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-bf",
+      "title": {
+        "english": "Ion",
+        "ancient_greek": "Ἴων"
+      },
+      "url_slug": "euripides-ion-cbm-bf",
+      "passages": 1563,
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/ion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-ion-cbm-bf.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-ion-cbm-bf.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-ion-cbm-bf.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-ion-cbm-bf.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/ion.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-ad",
+      "title": {
+        "english": "Iphigenia at Aulis",
+        "ancient_greek": "Ἰφιγένεια ἐν Αὐλίδι"
+      },
+      "url_slug": "euripides-iphigenia-aulis-cbm-ad",
+      "passages": 1573,
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/iphigenia-aulis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-iphigenia-aulis-cbm-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-iphigenia-aulis-cbm-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-iphigenia-aulis-cbm-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-iphigenia-aulis-cbm-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/iphigenia-aulis.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-ac",
+      "title": {
+        "english": "Iphigenia in Tauris",
+        "ancient_greek": "Ἰφιγένεια ἐν Ταύροις"
+      },
+      "url_slug": "euripides-iphigenia-tauris-cbm-ac",
+      "passages": 1397,
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/iphigenia-tauris",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-iphigenia-tauris-cbm-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-iphigenia-tauris-cbm-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-iphigenia-tauris-cbm-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-iphigenia-tauris-cbm-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/iphigenia-tauris.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-be",
+      "title": {
+        "english": "Medea",
+        "ancient_greek": "Μήδεια"
+      },
+      "url_slug": "euripides-medea-cbm-be",
+      "passages": 1335,
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/medea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-medea-cbm-be.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-medea-cbm-be.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-medea-cbm-be.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-medea-cbm-be.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/medea.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-bc",
+      "title": {
+        "english": "Oeneus",
+        "ancient_greek": "Οἰνεύς"
+      },
+      "url_slug": "euripides-oeneus-cbm-bc",
+      "passages": 32,
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/oeneus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-oeneus-cbm-bc.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-oeneus-cbm-bc.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-oeneus-cbm-bc.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-oeneus-cbm-bc.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/oeneus.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-ay",
+      "title": {
+        "english": "Orestes",
+        "ancient_greek": "Ὀρέστης"
+      },
+      "url_slug": "euripides-orestes-cbm-ay",
+      "passages": 1630,
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/orestes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-orestes-cbm-ay.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-orestes-cbm-ay.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-orestes-cbm-ay.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-orestes-cbm-ay.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/orestes.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-ae",
+      "title": {
+        "english": "Papyrus Fragments",
+        "ancient_greek": "Ἀποσπάσματα παπύρου"
+      },
+      "url_slug": "euripides-papyrus-fragments-cbm-ae",
+      "passages": 584,
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/papyrus-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-papyrus-fragments-cbm-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-papyrus-fragments-cbm-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-papyrus-fragments-cbm-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-papyrus-fragments-cbm-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/papyrus-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-at",
+      "title": {
+        "english": "Phaethon",
+        "ancient_greek": "Φαέθων"
+      },
+      "url_slug": "euripides-phaethon-cbm-at",
+      "passages": 124,
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/phaethon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-phaethon-cbm-at.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-phaethon-cbm-at.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-phaethon-cbm-at.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-phaethon-cbm-at.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/phaethon.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-af",
+      "title": {
+        "english": "Phoenician Women",
+        "ancient_greek": "Φοίνισσαι"
+      },
+      "url_slug": "euripides-phoenician-women-cbm-af",
+      "passages": 1687,
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/phoenician-women",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-phoenician-women-cbm-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-phoenician-women-cbm-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-phoenician-women-cbm-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-phoenician-women-cbm-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/phoenician-women.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-az",
+      "title": {
+        "english": "Phrixus",
+        "ancient_greek": "Φρίξος"
+      },
+      "url_slug": "euripides-phrixus-cbm-az",
+      "passages": 98,
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/phrixus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-phrixus-cbm-az.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-phrixus-cbm-az.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-phrixus-cbm-az.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-phrixus-cbm-az.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/phrixus.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-bd",
+      "title": {
+        "english": "Rhesus",
+        "ancient_greek": "Ῥῆσος"
+      },
+      "url_slug": "euripides-rhesus-cbm-bd",
+      "passages": 951,
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/rhesus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-rhesus-cbm-bd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-rhesus-cbm-bd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-rhesus-cbm-bd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-rhesus-cbm-bd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/rhesus.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-ai",
+      "title": {
+        "english": "Supplicants",
+        "ancient_greek": "Ἱκέτιδες"
+      },
+      "url_slug": "euripides-suppliants-cbm-ai",
+      "passages": 1193,
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/suppliants",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-suppliants-cbm-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-suppliants-cbm-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-suppliants-cbm-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-suppliants-cbm-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/suppliants.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-ag",
+      "title": {
+        "english": "Trojan Women",
+        "ancient_greek": "Τρῳάδες"
+      },
+      "url_slug": "euripides-trojan-women-cbm-ag",
+      "passages": 1267,
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/trojan-women",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-trojan-women-cbm-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-trojan-women-cbm-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-trojan-women-cbm-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-trojan-women-cbm-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/trojan-women.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-ab",
+      "title": {
+        "english": "Victory Ode-Alcibiades",
+        "ancient_greek": "Νικητήριος ᾠδὴ ἐπὶ Ἀλκιβιάδῃ"
+      },
+      "url_slug": "euripides-victory-ode-alcibiades-cbm-ab",
+      "passages": 6,
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/victory-ode-alcibiades",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-victory-ode-alcibiades-cbm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-victory-ode-alcibiades-cbm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-victory-ode-alcibiades-cbm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-victory-ode-alcibiades-cbm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/victory-ode-alcibiades.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/euripides",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/euripides-cbm.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/euripides-cbm.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/euripides-cbm.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/euripides-cbm.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

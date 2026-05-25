@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "vcc",
+  "auth_slug": "alexander-of-tralles",
+  "name": {
+    "english": "Alexander of Tralles",
+    "ancient_greek": "Ἀλέξανδρος ὁ Τραλλιανός"
+  },
+  "seo_h1": "Alexander of Tralles on Fevers, Eyes, and Therapeutics",
+  "seo": {
+    "browser_title": "Alexander of Tralles on Eulogikon Greek Archive and Library",
+    "meta_title": "Classical Alexander of Tralles Ancient Greek Medical Works",
+    "meta_description": "Alexander of Tralles, a 6th century Greek physician. Five medical treatises from late antiquity. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Alexander of Tralles was a Greek physician who lived and worked in the 6th century CE during the late Roman Empire. He was born in the city of Tralles in Asia Minor into a prominent family; several of his brothers were noted architects and scholars. Alexander practiced medicine across the Roman world, from Italy and Gaul to Spain and North Africa, before finally settling in Rome. His successful career allowed him to gain considerable wealth.</p>\n<p class=\"research-text\">His major surviving work is the <strong>Therapeutica</strong>, a comprehensive medical handbook in twelve books. Other treatises attributed to him include <strong>On Fevers</strong>, <strong>On Intestinal Worms</strong>, and <strong>On Eye Diseases</strong>. These writings were translated into Latin, Syriac, and Arabic, which helped preserve and spread his ideas long after his death. Alexander is considered an important bridge between classical medicine and the Middle Ages.</p>\n<p class=\"research-text\">Operating within the traditional framework of Hippocratic and Galenic humoral theory, he was also a practical clinician. His work combined established medical knowledge with remedies and observations gathered during his extensive travels, including treatments from local or folk traditions. According to modern scholars, this pragmatic and sometimes eclectic approach—which could include the use of drugs, diet, and even amulets—characterizes the medicine of his era. His compiled knowledge was highly influential, cited for centuries by physicians in the Byzantine, Arabic, and later European traditions.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 5,
+  "works": [
+    {
+      "eul_wid": "vcc-ab",
+      "title": {
+        "english": "Dedication to Cosmas",
+        "ancient_greek": "Ἀφιέρωσις πρὸς Κοσμᾶν"
+      },
+      "url_slug": "alexander-of-tralles-dedication-cosmas-vcc-ab",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-tralles/dedication-cosmas",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles-dedication-cosmas-vcc-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles-dedication-cosmas-vcc-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles-dedication-cosmas-vcc-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles-dedication-cosmas-vcc-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles/dedication-cosmas.epub"
+      }
+    },
+    {
+      "eul_wid": "vcc-ac",
+      "title": {
+        "english": "Letter-Worms",
+        "ancient_greek": "Ἐπιστολὴ περὶ σκωλήκων"
+      },
+      "url_slug": "alexander-of-tralles-letter-worms-vcc-ac",
+      "passages": 14,
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-tralles/letter-worms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles-letter-worms-vcc-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles-letter-worms-vcc-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles-letter-worms-vcc-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles-letter-worms-vcc-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles/letter-worms.epub"
+      }
+    },
+    {
+      "eul_wid": "vcc-ae",
+      "title": {
+        "english": "On Fevers",
+        "ancient_greek": "Περὶ πυρετῶν"
+      },
+      "url_slug": "alexander-of-tralles-fevers-vcc-ae",
+      "passages": 75,
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-tralles/fevers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles-fevers-vcc-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles-fevers-vcc-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles-fevers-vcc-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles-fevers-vcc-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles/fevers.epub"
+      }
+    },
+    {
+      "eul_wid": "vcc-aa",
+      "title": {
+        "english": "On the Eyes, Three Books",
+        "ancient_greek": "Περὶ ὀφθαλμῶν"
+      },
+      "url_slug": "alexander-of-tralles-eyes-vcc-aa",
+      "passages": 23,
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-tralles/eyes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles-eyes-vcc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles-eyes-vcc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles-eyes-vcc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles-eyes-vcc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles/eyes.epub"
+      }
+    },
+    {
+      "eul_wid": "vcc-ad",
+      "title": {
+        "english": "Therapeutics",
+        "ancient_greek": "Θεραπευτικά"
+      },
+      "url_slug": "alexander-of-tralles-therapeutics-vcc-ad",
+      "passages": 381,
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-tralles/therapeutics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles-therapeutics-vcc-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles-therapeutics-vcc-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles-therapeutics-vcc-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles-therapeutics-vcc-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles/therapeutics.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/alexander-of-tralles",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-tralles-vcc.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-tralles-vcc.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-tralles-vcc.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-tralles-vcc.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

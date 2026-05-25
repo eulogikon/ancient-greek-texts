@@ -1,0 +1,376 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "jug-ab",
+  "eul_aid": "jug",
+  "author_slug": "hedylus-of-samos",
+  "work_slug": "epigrams",
+  "url_slug": "hedylus-of-samos-epigrams-jug-ab",
+  "author": {
+    "english": "Hedylus of Samos",
+    "ancient_greek": "Ἥδυλος ὁ Σάμιος"
+  },
+  "title": {
+    "english": "Epigrams",
+    "ancient_greek": "Ἐπιγράμματα"
+  },
+  "seo": {
+    "browser_title": "Epigrams by Hedylus of Samos on Eulogikon Digital Archive",
+    "meta_title": "Classical Epigrams by Hedylus of Samos in Ancient Greek",
+    "meta_description": "The Epigrams are 24 short elegant poems by the Hellenistic poet Hedylus of Samos. Read free and download in original ancient Greek text at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Epigrams</strong> of Hedylus of Samos constitute a collection of twenty-four short poems by the Hellenistic poet, who was active in the early third century BCE. Composed in a literary Greek dialect, these verses exemplify the sophisticated, bookish form the epigram had attained, having evolved from its origins as simple stone inscriptions into a refined literary genre. The poems engage with characteristic Hellenistic themes, including symposiastic celebrations of wine and banquets, light-hearted erotic subjects, and dedicatory verses. A notable epigram praises a large ceremonial cup belonging to Ptolemy II Philadelphus, a detail that firmly links Hedylus to the intellectual and artistic milieu of Alexandria. No independent manuscript of his work survives; the extant collection is fragmentary and known exclusively through later quotations. These twenty-four epigrams have been recovered by modern scholars from major ancient anthologies, principally the <strong>Greek Anthology</strong>. This mode of transmission means his poetry is mediated through the selective filters of later editors. Scholars interpret his work as a product of Alexandrian court culture, reflecting the learned, polished, and often playful aesthetic championed by contemporary poets such as Callimachus, with whom Hedylus was associated.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 161.1.1",
+      "text": "Εὐφρὼ καὶ Θαῒς καὶ Βοίδιον, αἱ Διομήδους,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 161.1.2",
+      "text": "Γραῖαι, ναυκλήρων ὁλκάδες εἰκόσοροι,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 161.1.3",
+      "text": "Ἆγιν καὶ Κλεοφῶντα καὶ Ἀνταγόρην, ἕν’ ἑκάστη,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 161.1.4",
+      "text": "γυμνούς, ναυηγῶν ἥσσονας, ἐξέβαλον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 161.5.1",
+      "text": "ἀλλὰ σὺν αὐταῖς νηυσὶ τὰ λῃστρικὰ τῆς Ἀφροδίτης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 161.5.2",
+      "text": "φεύγετε· Σειρήνων αἵδε γὰρ ἐχθρότεραι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 199.1.1",
+      "text": "Οἶνος καὶ προπόσεις κατεκοίμισαν Ἀγλαονίκην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 199.1.2",
+      "text": "αἱ δόλιαι καὶ ἔρως ἡδὺς ὁ Νικαγόρεω,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 199.1.3",
+      "text": "ἧς πάρα Κύπριδι ταῦτα μύροις ἔτι πάντα μυδῶντα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 199.1.4",
+      "text": "κεῖνται παρθενίων ὑγρὰ λάφυρα πόθων,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 199.5.1",
+      "text": "σάνδαλα καὶ μαλακαί, μαστῶν ἐνδύματα, μίτραι,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 199.5.2",
+      "text": "ὕπνου καὶ σκυλμῶν τῶν τότε μαρτύρια.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 292.1.1",
+      "text": "Αἱ μίτραι τό θ’ ἁλουργὲς ὑπένδυμα τοί τε Λάκωνες",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 292.1.2",
+      "text": "πέπλοι καὶ ληρῶν οἱ χρύσεοι κάλαμοι,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 292.1.3",
+      "text": "πάνθ’ ἅμα Νικονόῃ συνεπήιεν· ἦν γὰρ Ἐρώτων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 292.1.4",
+      "text": "καὶ Χαρίτων ἡ παῖς ἀμβρόσιόν τι θάλος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 292.5.1",
+      "text": "τοιγὰρ τῷ κρίναντι τὰ καλλιστεῖα Πριάπῳ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 292.5.2",
+      "text": "νεβρίδα καὶ χρυσέην τήνδ’ ἔθετο προχόην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 123.1.1",
+      "text": "Ἆγις Ἀρισταγόρην οὔτ’ ἔκλυσεν οὔτ’ ἔθιγ’ αὐτοῦ·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 123.1.2",
+      "text": "ἀλλ’ ὅσον εἰσῆλθεν, κᾤχετ’ Ἀρισταγόρης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 123.1.3",
+      "text": "ποῦ τοίην ἀκόνιτος ἔχει φύσιν; ὦ σοροπηγοί,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 123",
+      "text": "Ἆγιν καὶ μίτραις βάλλετε καὶ στεφάνοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 414.1",
+      "text": "Λυσιμελοῦς Βάκχου καὶ λυσιμελοῦς Ἀφροδίτης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 414",
+      "text": "γεννᾶται θυγάτηρ λυσιμελὴς ποδάγρα.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "jug-aa",
+      "title": {
+        "english": "Fragment and Title",
+        "ancient_greek": "Ἀπόσπασμα καὶ Τίτλος"
+      },
+      "url_slug": "hedylus-of-samos-fragments-jug-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hedylus-of-samos/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedylus-of-samos-fragments-jug-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedylus-of-samos-fragments-jug-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedylus-of-samos-fragments-jug-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedylus-of-samos-fragments-jug-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedylus-of-samos/fragments.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "ajg-aa",
+      "title": {
+        "english": "Anthology, Volume V",
+        "ancient_greek": "Ἀνθολογία"
+      },
+      "url_slug": "greek-anthology-volume-5-ajg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/greek-anthology/volume-5",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-anthology-volume-5-ajg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-anthology-volume-5-ajg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-anthology-volume-5-ajg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-anthology-volume-5-ajg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-anthology/volume-5.epub"
+      }
+    },
+    {
+      "eul_wid": "ahs-aa",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "dorieus-of-sparta-epigram-ahs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dorieus-of-sparta/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorieus-of-sparta-epigram-ahs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorieus-of-sparta-epigram-ahs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorieus-of-sparta-epigram-ahs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorieus-of-sparta-epigram-ahs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorieus-of-sparta/epigram.epub"
+      }
+    },
+    {
+      "eul_wid": "iuc-ab",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "alexander-of-aetolia-epigrams-iuc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-aetolia/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia-epigrams-iuc-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia-epigrams-iuc-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia-epigrams-iuc-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia-epigrams-iuc-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "asc-ab",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "cleobulus-of-lindos-ii-epigrams-asc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/cleobulus-of-lindos-ii/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulus-of-lindos-ii-epigrams-asc-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulus-of-lindos-ii-epigrams-asc-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulus-of-lindos-ii-epigrams-asc-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulus-of-lindos-ii-epigrams-asc-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulus-of-lindos-ii/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "ajq-aa",
+      "title": {
+        "english": "Fragments on Geography",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γεωγραφίας"
+      },
+      "url_slug": "iambic-fragments-anon-geography-ajq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/iambic-fragments-anon/geography",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iambic-fragments-anon-geography-ajq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iambic-fragments-anon-geography-ajq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iambic-fragments-anon-geography-ajq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iambic-fragments-anon-geography-ajq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iambic-fragments-anon/geography.epub"
+      }
+    },
+    {
+      "eul_wid": "aku-aa",
+      "title": {
+        "english": "Hymn of the Curetes",
+        "ancient_greek": "Ὕμνος Κουρητῶν"
+      },
+      "url_slug": "hymn-of-the-curetes-anonymous-work-aku-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hymn-of-the-curetes-anonymous/work",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hymn-of-the-curetes-anonymous-work-aku-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hymn-of-the-curetes-anonymous-work-aku-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hymn-of-the-curetes-anonymous-work-aku-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hymn-of-the-curetes-anonymous-work-aku-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hymn-of-the-curetes-anonymous/work.epub"
+      }
+    },
+    {
+      "eul_wid": "bgi-aa",
+      "title": {
+        "english": "Lover of Mirmillo",
+        "ancient_greek": "Ὁ Ἐραστὴς τοῦ Μιρμίλλου"
+      },
+      "url_slug": "anacreon-of-teos-ii-lover-of-mirmillo-bgi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anacreon-of-teos-ii/lover-of-mirmillo",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-ii-lover-of-mirmillo-bgi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-ii-lover-of-mirmillo-bgi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-ii-lover-of-mirmillo-bgi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-ii-lover-of-mirmillo-bgi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-ii/lover-of-mirmillo.epub"
+      }
+    },
+    {
+      "eul_wid": "puk-aa",
+      "title": {
+        "english": "To the Winds of Rhodes",
+        "ancient_greek": "Πρὸς τοὺς Ἀνέμους τῆς Ῥόδου"
+      },
+      "url_slug": "song-of-the-sailors-winds-rhodes-puk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/song-of-the-sailors/winds-rhodes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors-winds-rhodes-puk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors-winds-rhodes-puk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors-winds-rhodes-puk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors-winds-rhodes-puk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors/winds-rhodes.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hedylus-of-samos/epigrams",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedylus-of-samos-epigrams-jug-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedylus-of-samos-epigrams-jug-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedylus-of-samos-epigrams-jug-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedylus-of-samos-epigrams-jug-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedylus-of-samos/epigrams.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

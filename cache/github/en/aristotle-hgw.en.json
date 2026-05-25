@@ -1,0 +1,1090 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "hgw",
+  "auth_slug": "aristotle",
+  "name": {
+    "english": "Aristotle",
+    "ancient_greek": "Ἀριστοτέλης"
+  },
+  "seo_h1": "Aristotle on Ethics, Nature, and the Soul",
+  "seo": {
+    "browser_title": "Aristotle the Philosopher on Eulogikon Greek Archive",
+    "meta_title": "Aristotle Ancient Greek Philosophical Works and Treatises",
+    "meta_description": "Aristotle, the classical Greek philosopher. Surviving works include treatises on logic and science. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Aristotelian",
+      "href": "/affiliations/aristotelian"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Aristotle was a Greek philosopher who lived from 384 to 322 BCE. He was born in Stagira in northern Greece. His father served as a physician to the Macedonian royal court, which likely influenced Aristotle&#x27;s later interest in biology.</p>\n<p class=\"research-text\">As a young man, he moved to Athens to study at Plato&#x27;s Academy, where he remained for about twenty years. After Plato&#x27;s death, he left Athens, spent time in Asia Minor conducting biological research, and then served as tutor to the young Alexander the Great of Macedon. He returned to Athens in 335 BCE to found his own school, the Lyceum. He left Athens again in 323 BCE following Alexander&#x27;s death and died in exile the next year.</p>\n<p class=\"research-text\">His extensive surviving works are treatises that cover logic, physics, biology, metaphysics, ethics, politics, and literary theory. Major titles include the Physics, Metaphysics, Nicomachean Ethics, Politics, and Poetics. According to modern scholars, these texts represent only a portion of his output; his more popular writings are lost. The exact number and organization of his treatises remain subjects of academic discussion.</p>\n<p class=\"research-text\">Aristotle&#x27;s historical importance is foundational. He created the first comprehensive philosophical system in the West, inventing and defining entire fields of study. His work in logic, especially his theory of the syllogism, dominated the subject for centuries. His scientific theories shaped medieval thought, and his detailed biological observations were unmatched in the ancient world. His ethical and political ideas, centered on virtue and human flourishing, continue to be central to philosophy. Through later Arabic and Latin translations, he became the central authority for medieval scholars and remains a major figure in contemporary philosophical debate.</p>\n</div>",
+  "affiliation_label": "Aristotelian",
+  "works_count": 56,
+  "works": [
+    {
+      "eul_wid": "hgw-an",
+      "title": {
+        "english": "Aristotelian Divisions",
+        "ancient_greek": "Διαιρέσεις Ἀριστοτελικαί"
+      },
+      "url_slug": "aristotle-divisions-hgw-an",
+      "passages": 99,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/divisions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-divisions-hgw-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-divisions-hgw-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-divisions-hgw-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-divisions-hgw-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/divisions.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-cb",
+      "title": {
+        "english": "Aristotle's Letters to Philip",
+        "ancient_greek": "Ἐπιστολαὶ πρὸς Φίλιππον"
+      },
+      "url_slug": "aristotle-letters-philip-hgw-cb",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/letters-philip",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-letters-philip-hgw-cb.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-letters-philip-hgw-cb.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-letters-philip-hgw-cb.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-letters-philip-hgw-cb.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/letters-philip.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-aa",
+      "title": {
+        "english": "Aristotle's Natural Problems by Type",
+        "ancient_greek": "᾿Αριστοτέλους φυσικά προβλήματα κατ᾿ εἶδος"
+      },
+      "url_slug": "aristotle-natural-problems-hgw-aa",
+      "passages": 218,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/natural-problems",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-natural-problems-hgw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-natural-problems-hgw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-natural-problems-hgw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-natural-problems-hgw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/natural-problems.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-bp",
+      "title": {
+        "english": "Categories",
+        "ancient_greek": "Κατηγορίαι"
+      },
+      "url_slug": "aristotle-categories-hgw-bp",
+      "passages": 30,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/categories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-categories-hgw-bp.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-categories-hgw-bp.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-categories-hgw-bp.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-categories-hgw-bp.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/categories.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-az",
+      "title": {
+        "english": "Dialogic Fragments",
+        "ancient_greek": "Διάφορα Ἀποσπάσματα"
+      },
+      "url_slug": "aristotle-dialogic-fragments-hgw-az",
+      "passages": 796,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/dialogic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-dialogic-fragments-hgw-az.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-dialogic-fragments-hgw-az.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-dialogic-fragments-hgw-az.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-dialogic-fragments-hgw-az.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/dialogic-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-br",
+      "title": {
+        "english": "Economics",
+        "ancient_greek": "Οἰκονομικά"
+      },
+      "url_slug": "aristotle-economics-hgw-br",
+      "passages": 22,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/economics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-economics-hgw-br.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-economics-hgw-br.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-economics-hgw-br.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-economics-hgw-br.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/economics.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-ba",
+      "title": {
+        "english": "Eudemian Ethics",
+        "ancient_greek": "Ἠθικὰ Εὐδήμεια"
+      },
+      "url_slug": "aristotle-eudemian-ethics-hgw-ba",
+      "passages": 72,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/eudemian-ethics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-eudemian-ethics-hgw-ba.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-eudemian-ethics-hgw-ba.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-eudemian-ethics-hgw-ba.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-eudemian-ethics-hgw-ba.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/eudemian-ethics.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-bi",
+      "title": {
+        "english": "Exhortation",
+        "ancient_greek": "Προτρεπτικός"
+      },
+      "url_slug": "aristotle-exhortation-hgw-bi",
+      "passages": 78,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/exhortation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-exhortation-hgw-bi.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-exhortation-hgw-bi.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-exhortation-hgw-bi.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-exhortation-hgw-bi.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/exhortation.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-ad",
+      "title": {
+        "english": "Fragments of Lost First Part",
+        "ancient_greek": "Ἀθηναίων πολιτεία"
+      },
+      "url_slug": "aristotle-lost-first-part-hgw-ad",
+      "passages": 265,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/lost-first-part",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lost-first-part-hgw-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lost-first-part-hgw-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lost-first-part-hgw-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lost-first-part-hgw-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/lost-first-part.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-ar",
+      "title": {
+        "english": "From-Things Heard",
+        "ancient_greek": "Ἐκ τοῦ περὶ ἀκουστῶν"
+      },
+      "url_slug": "aristotle-things-heard-hgw-ar",
+      "passages": 10,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/things-heard",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-things-heard-hgw-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-things-heard-hgw-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-things-heard-hgw-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-things-heard-hgw-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/things-heard.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-bg",
+      "title": {
+        "english": "Great Ethics",
+        "ancient_greek": "Μεγάλα Ἠθικά"
+      },
+      "url_slug": "aristotle-great-ethics-hgw-bg",
+      "passages": 51,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/great-ethics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-great-ethics-hgw-bg.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-great-ethics-hgw-bg.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-great-ethics-hgw-bg.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-great-ethics-hgw-bg.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/great-ethics.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-av",
+      "title": {
+        "english": "History of Animals",
+        "ancient_greek": "Περὶ Τὰ Ζῷα Ἱστορίαι"
+      },
+      "url_slug": "aristotle-history-animals-hgw-av",
+      "passages": 307,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/history-animals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-history-animals-hgw-av.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-history-animals-hgw-av.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-history-animals-hgw-av.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-history-animals-hgw-av.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/history-animals.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-by",
+      "title": {
+        "english": "Hymn to Virtue",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "aristotle-virtue-hgw-by",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/virtue",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-virtue-hgw-by.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-virtue-hgw-by.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-virtue-hgw-by.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-virtue-hgw-by.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/virtue.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-bu",
+      "title": {
+        "english": "Mechanics",
+        "ancient_greek": "Μηχανικά"
+      },
+      "url_slug": "aristotle-mechanics-hgw-bu",
+      "passages": 24,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/mechanics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-mechanics-hgw-bu.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-mechanics-hgw-bu.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-mechanics-hgw-bu.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-mechanics-hgw-bu.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/mechanics.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-bj",
+      "title": {
+        "english": "Metaphysics",
+        "ancient_greek": "τὰ Μετὰ τὰ Φυσικά"
+      },
+      "url_slug": "aristotle-metaphysics-hgw-bj",
+      "passages": 228,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/metaphysics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-metaphysics-hgw-bj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-metaphysics-hgw-bj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-metaphysics-hgw-bj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-metaphysics-hgw-bj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/metaphysics.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-bk",
+      "title": {
+        "english": "Meteorology",
+        "ancient_greek": "Μετεωρολογικά"
+      },
+      "url_slug": "aristotle-meteorology-hgw-bk",
+      "passages": 105,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/meteorology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-meteorology-hgw-bk.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-meteorology-hgw-bk.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-meteorology-hgw-bk.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-meteorology-hgw-bk.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/meteorology.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-aw",
+      "title": {
+        "english": "Nicomachean Ethics",
+        "ancient_greek": "Ἠθικὰ Νικομάχεια"
+      },
+      "url_slug": "aristotle-nicomachean-ethics-hgw-aw",
+      "passages": 176,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/nicomachean-ethics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-nicomachean-ethics-hgw-aw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-nicomachean-ethics-hgw-aw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-nicomachean-ethics-hgw-aw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-nicomachean-ethics-hgw-aw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/nicomachean-ethics.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-bv",
+      "title": {
+        "english": "On Colors",
+        "ancient_greek": "Περί χρωμάτων"
+      },
+      "url_slug": "aristotle-colors-hgw-bv",
+      "passages": 18,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/colors",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-colors-hgw-bv.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-colors-hgw-bv.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-colors-hgw-bv.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-colors-hgw-bv.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/colors.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-ao",
+      "title": {
+        "english": "On Divination by Sleep",
+        "ancient_greek": "Περὶ Μαντικῆς κατὰ Ὕπνον"
+      },
+      "url_slug": "aristotle-divination-sleep-hgw-ao",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/divination-sleep",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-divination-sleep-hgw-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-divination-sleep-hgw-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-divination-sleep-hgw-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-divination-sleep-hgw-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/divination-sleep.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-bw",
+      "title": {
+        "english": "On Dreams",
+        "ancient_greek": "Περὶ Ἐνυπνίων"
+      },
+      "url_slug": "aristotle-dreams-hgw-bw",
+      "passages": 10,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/dreams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-dreams-hgw-bw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-dreams-hgw-bw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-dreams-hgw-bw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-dreams-hgw-bw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/dreams.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-ae",
+      "title": {
+        "english": "On Generation and Corruption",
+        "ancient_greek": "Περὶ Γενέσεως καὶ Φθορᾶς"
+      },
+      "url_slug": "aristotle-generation-corruption-hgw-ae",
+      "passages": 50,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/generation-corruption",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-corruption-hgw-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-corruption-hgw-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-corruption-hgw-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-corruption-hgw-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/generation-corruption.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-as",
+      "title": {
+        "english": "On Indivisible Lines",
+        "ancient_greek": "Περὶ ἀτόμων γραμμῶν"
+      },
+      "url_slug": "aristotle-indivisible-lines-hgw-as",
+      "passages": 10,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/indivisible-lines",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-indivisible-lines-hgw-as.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-indivisible-lines-hgw-as.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-indivisible-lines-hgw-as.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-indivisible-lines-hgw-as.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/indivisible-lines.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-ay",
+      "title": {
+        "english": "On Interpretation",
+        "ancient_greek": "Περὶ Ἑρμηνείας"
+      },
+      "url_slug": "aristotle-interpretation-hgw-ay",
+      "passages": 18,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/interpretation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-interpretation-hgw-ay.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-interpretation-hgw-ay.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-interpretation-hgw-ay.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-interpretation-hgw-ay.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/interpretation.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-ax",
+      "title": {
+        "english": "On Marvelous Tales",
+        "ancient_greek": "Περὶ θαυμασίων ἀκουσμάτων"
+      },
+      "url_slug": "aristotle-marvelous-tales-hgw-ax",
+      "passages": 36,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/marvelous-tales",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-marvelous-tales-hgw-ax.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-marvelous-tales-hgw-ax.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-marvelous-tales-hgw-ax.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-marvelous-tales-hgw-ax.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/marvelous-tales.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-ai",
+      "title": {
+        "english": "On Memory and Recollection",
+        "ancient_greek": "Περὶ Μνήμης καὶ Ἀναμνήσεως"
+      },
+      "url_slug": "aristotle-memory-recollection-hgw-ai",
+      "passages": 9,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/memory-recollection",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-memory-recollection-hgw-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-memory-recollection-hgw-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-memory-recollection-hgw-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-memory-recollection-hgw-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/memory-recollection.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-au",
+      "title": {
+        "english": "On Parts of Animals",
+        "ancient_greek": "Περὶ Ζῴων Μορίων"
+      },
+      "url_slug": "aristotle-parts-animals-hgw-au",
+      "passages": 118,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/parts-animals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-parts-animals-hgw-au.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-parts-animals-hgw-au.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-parts-animals-hgw-au.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-parts-animals-hgw-au.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/parts-animals.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-bx",
+      "title": {
+        "english": "On Plants",
+        "ancient_greek": "Περὶ φυτῶν"
+      },
+      "url_slug": "aristotle-plants-hgw-bx",
+      "passages": 484,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/plants",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-plants-hgw-bx.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-plants-hgw-bx.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-plants-hgw-bx.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-plants-hgw-bx.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/plants.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-bq",
+      "title": {
+        "english": "On Poetics",
+        "ancient_greek": "Περὶ ποιητικῆς"
+      },
+      "url_slug": "aristotle-poetics-hgw-bq",
+      "passages": 32,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/poetics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-poetics-hgw-bq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-poetics-hgw-bq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-poetics-hgw-bq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-poetics-hgw-bq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/poetics.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-bc",
+      "title": {
+        "english": "On Respiration",
+        "ancient_greek": "Περὶ Ἀναπνοῆς"
+      },
+      "url_slug": "aristotle-respiration-hgw-bc",
+      "passages": 21,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/respiration",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-respiration-hgw-bc.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-respiration-hgw-bc.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-respiration-hgw-bc.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-respiration-hgw-bc.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/respiration.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-ap",
+      "title": {
+        "english": "On Sense and Sensibles",
+        "ancient_greek": "Περὶ Αἰσθήσεως καὶ Αἰσθητῶν"
+      },
+      "url_slug": "aristotle-sense-sensibles-hgw-ap",
+      "passages": 27,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/sense-sensibles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-sense-sensibles-hgw-ap.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-sense-sensibles-hgw-ap.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-sense-sensibles-hgw-ap.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-sense-sensibles-hgw-ap.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/sense-sensibles.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-al",
+      "title": {
+        "english": "On Sleep and Wakefulness",
+        "ancient_greek": "Περὶ Ὕπνου καὶ Ἐγρηγόρσεως"
+      },
+      "url_slug": "aristotle-sleep-wakefulness-hgw-al",
+      "passages": 10,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/sleep-wakefulness",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-sleep-wakefulness-hgw-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-sleep-wakefulness-hgw-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-sleep-wakefulness-hgw-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-sleep-wakefulness-hgw-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/sleep-wakefulness.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-aj",
+      "title": {
+        "english": "On Sophistical Refutations",
+        "ancient_greek": "Περὶ Σοφιστικῶν Ἐλέγχων"
+      },
+      "url_slug": "aristotle-sophistical-refutations-hgw-aj",
+      "passages": 42,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/sophistical-refutations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-sophistical-refutations-hgw-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-sophistical-refutations-hgw-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-sophistical-refutations-hgw-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-sophistical-refutations-hgw-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/sophistical-refutations.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-aq",
+      "title": {
+        "english": "On the Gait of Animals",
+        "ancient_greek": "Περὶ Ζῴων Πορείας"
+      },
+      "url_slug": "aristotle-gait-animals-hgw-aq",
+      "passages": 22,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/gait-animals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-gait-animals-hgw-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-gait-animals-hgw-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-gait-animals-hgw-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-gait-animals-hgw-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/gait-animals.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-af",
+      "title": {
+        "english": "On the Generation of Animals",
+        "ancient_greek": "Περὶ Ζῴων Γενέσεως"
+      },
+      "url_slug": "aristotle-generation-animals-hgw-af",
+      "passages": 150,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/generation-animals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-animals-hgw-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-animals-hgw-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-animals-hgw-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-animals-hgw-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/generation-animals.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-bs",
+      "title": {
+        "english": "On the Good and Happy Life",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aristotle-good-happy-life-hgw-bs",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/good-happy-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-good-happy-life-hgw-bs.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-good-happy-life-hgw-bs.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-good-happy-life-hgw-bs.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-good-happy-life-hgw-bs.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/good-happy-life.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-bd",
+      "title": {
+        "english": "On the Heavens",
+        "ancient_greek": "Περὶ Οὐρανοῦ"
+      },
+      "url_slug": "aristotle-heavens-hgw-bd",
+      "passages": 92,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/heavens",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-heavens-hgw-bd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-heavens-hgw-bd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-heavens-hgw-bd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-heavens-hgw-bd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/heavens.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-bt",
+      "title": {
+        "english": "On the Inundation of the Nile",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aristotle-nile-inundation-hgw-bt",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/nile-inundation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-nile-inundation-hgw-bt.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-nile-inundation-hgw-bt.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-nile-inundation-hgw-bt.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-nile-inundation-hgw-bt.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/nile-inundation.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-ac",
+      "title": {
+        "english": "On the Length and Shortness of Life",
+        "ancient_greek": "Περὶ Μακροβιότητος καὶ Βραχυβιότητος"
+      },
+      "url_slug": "aristotle-length-life-hgw-ac",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/length-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-length-life-hgw-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-length-life-hgw-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-length-life-hgw-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-length-life-hgw-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/length-life.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-ak",
+      "title": {
+        "english": "On the Movement of Animals",
+        "ancient_greek": "Περὶ Ζῴων Κινήσεως"
+      },
+      "url_slug": "aristotle-movement-animals-hgw-ak",
+      "passages": 13,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/movement-animals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-movement-animals-hgw-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-movement-animals-hgw-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-movement-animals-hgw-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-movement-animals-hgw-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/movement-animals.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-bl",
+      "title": {
+        "english": "On the Soul",
+        "ancient_greek": "Περὶ Ψυχῆς"
+      },
+      "url_slug": "aristotle-soul-bl-hgw-bl",
+      "passages": 68,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/soul-bl",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-soul-bl-hgw-bl.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-soul-bl-hgw-bl.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-soul-bl-hgw-bl.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-soul-bl-hgw-bl.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/soul-bl.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-bm",
+      "title": {
+        "english": "On the Soul (Excerpts)",
+        "ancient_greek": "Περὶ Ψυχῆς"
+      },
+      "url_slug": "aristotle-soul-bm-hgw-bm",
+      "passages": 12,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/soul-bm",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-soul-bm-hgw-bm.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-soul-bm-hgw-bm.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-soul-bm-hgw-bm.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-soul-bm-hgw-bm.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/soul-bm.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-bn",
+      "title": {
+        "english": "On the Soul (Fragmentary)",
+        "ancient_greek": "Περὶ Ψυχῆς"
+      },
+      "url_slug": "aristotle-soul-bn-hgw-bn",
+      "passages": 10,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/soul-bn",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-soul-bn-hgw-bn.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-soul-bn-hgw-bn.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-soul-bn-hgw-bn.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-soul-bn-hgw-bn.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/soul-bn.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-be",
+      "title": {
+        "english": "On the Spirit",
+        "ancient_greek": "Περὶ Πνεύματος"
+      },
+      "url_slug": "aristotle-spirit-hgw-be",
+      "passages": 12,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/spirit",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-spirit-hgw-be.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-spirit-hgw-be.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-spirit-hgw-be.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-spirit-hgw-be.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/spirit.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-bh",
+      "title": {
+        "english": "On the World",
+        "ancient_greek": "Περὶ Κόσμου"
+      },
+      "url_slug": "aristotle-world-hgw-bh",
+      "passages": 22,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/world",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-world-hgw-bh.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-world-hgw-bh.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-world-hgw-bh.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-world-hgw-bh.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/world.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-at",
+      "title": {
+        "english": "On Virtues and Vices",
+        "ancient_greek": "περὶ Ἀρετῶν καὶ Κακιῶν"
+      },
+      "url_slug": "aristotle-virtues-vices-hgw-at",
+      "passages": 6,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/virtues-vices",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-virtues-vices-hgw-at.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-virtues-vices-hgw-at.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-virtues-vices-hgw-at.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-virtues-vices-hgw-at.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/virtues-vices.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-ag",
+      "title": {
+        "english": "On Xenophanes, Zeno, Gorgias",
+        "ancient_greek": "Περὶ Ξενοφάνους, περὶ Ζήνωνος, περὶ Γοργίου"
+      },
+      "url_slug": "aristotle-xenophanes-zeno-gorgias-hgw-ag",
+      "passages": 15,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/xenophanes-zeno-gorgias",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-xenophanes-zeno-gorgias-hgw-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-xenophanes-zeno-gorgias-hgw-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-xenophanes-zeno-gorgias-hgw-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-xenophanes-zeno-gorgias-hgw-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/xenophanes-zeno-gorgias.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-ab",
+      "title": {
+        "english": "On Youth and Old Age, Life and Death",
+        "ancient_greek": "Περὶ Νεότητος καὶ Γήρως"
+      },
+      "url_slug": "aristotle-youth-old-age-life-death-hgw-ab",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/youth-old-age-life-death",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-youth-old-age-life-death-hgw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-youth-old-age-life-death-hgw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-youth-old-age-life-death-hgw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-youth-old-age-life-death-hgw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/youth-old-age-life-death.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-cc",
+      "title": {
+        "english": "Physics",
+        "ancient_greek": "Φυσικὴ Ἀκρόασις"
+      },
+      "url_slug": "aristotle-physics-hgw-cc",
+      "passages": 173,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/physics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-physics-hgw-cc.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-physics-hgw-cc.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-physics-hgw-cc.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-physics-hgw-cc.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/physics.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-am",
+      "title": {
+        "english": "Physics, Alternate Text",
+        "ancient_greek": "Φυσικὴ Ἀκρόασις"
+      },
+      "url_slug": "aristotle-physics-alt-hgw-am",
+      "passages": 16,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/physics-alt",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-physics-alt-hgw-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-physics-alt-hgw-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-physics-alt-hgw-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-physics-alt-hgw-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/physics-alt.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-bf",
+      "title": {
+        "english": "Physiognomics",
+        "ancient_greek": "Φυσιογνωμονικά"
+      },
+      "url_slug": "aristotle-physiognomics-hgw-bf",
+      "passages": 20,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/physiognomics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-physiognomics-hgw-bf.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-physiognomics-hgw-bf.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-physiognomics-hgw-bf.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-physiognomics-hgw-bf.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/physiognomics.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-bz",
+      "title": {
+        "english": "Politics",
+        "ancient_greek": "Πολιτικά"
+      },
+      "url_slug": "aristotle-politics-hgw-bz",
+      "passages": 181,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/politics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-politics-hgw-bz.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-politics-hgw-bz.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-politics-hgw-bz.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-politics-hgw-bz.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/politics.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-ah",
+      "title": {
+        "english": "Positions and Names of Winds",
+        "ancient_greek": "Ἀνέμων θέσεις καὶ προσηγορίαι"
+      },
+      "url_slug": "aristotle-winds-hgw-ah",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/winds",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-winds-hgw-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-winds-hgw-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-winds-hgw-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-winds-hgw-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/winds.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-bb",
+      "title": {
+        "english": "Prior Analytics",
+        "ancient_greek": "Ἀναλυτικὰ Πρότερα"
+      },
+      "url_slug": "aristotle-prior-analytics-hgw-bb",
+      "passages": 155,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/prior-analytics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-prior-analytics-hgw-bb.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-prior-analytics-hgw-bb.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-prior-analytics-hgw-bb.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-prior-analytics-hgw-bb.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/prior-analytics.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-ca",
+      "title": {
+        "english": "Rhetoric",
+        "ancient_greek": "Ῥητορική"
+      },
+      "url_slug": "aristotle-rhetoric-hgw-ca",
+      "passages": 133,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/rhetoric",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-rhetoric-hgw-ca.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-rhetoric-hgw-ca.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-rhetoric-hgw-ca.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-rhetoric-hgw-ca.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/rhetoric.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-bo",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "aristotle-testimonies-hgw-bo",
+      "passages": 6,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-testimonies-hgw-bo.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-testimonies-hgw-bo.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-testimonies-hgw-bo.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-testimonies-hgw-bo.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/testimonies.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-cd",
+      "title": {
+        "english": "Topics",
+        "ancient_greek": "Τοπικά"
+      },
+      "url_slug": "aristotle-topics-hgw-cd",
+      "passages": 130,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/topics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-topics-hgw-cd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-topics-hgw-cd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-topics-hgw-cd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-topics-hgw-cd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/topics.epub"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "reo",
+      "name": {
+        "english": "Alexander of Aphrodisias",
+        "ancient_greek": "Ἀλέξανδρος ὁ Ἀφροδισιεύς"
+      },
+      "work_count": 16,
+      "links": {
+        "html": "https://eulogikon.org/en/alexander-of-aphrodisias",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-aphrodisias-reo.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-aphrodisias-reo.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-aphrodisias-reo.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-aphrodisias-reo.en.json"
+      }
+    },
+    {
+      "eul_aid": "uim",
+      "name": {
+        "english": "Anonymous Commentary on Aristotle",
+        "ancient_greek": "Ἀνώνυμος ἐν Ἠθικοῖς Νικομαχείοις"
+      },
+      "work_count": 3,
+      "links": {
+        "html": "https://eulogikon.org/en/anonymous-commentary-on-aristotle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-commentary-on-aristotle-uim.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-commentary-on-aristotle-uim.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-commentary-on-aristotle-uim.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-commentary-on-aristotle-uim.en.json"
+      }
+    },
+    {
+      "eul_aid": "vnq",
+      "name": {
+        "english": "Anonymous Commentary on Aristotle",
+        "ancient_greek": "Ἀνώνυμος εἰς τὰς Κατηγορίας τοῦ Ἀριστοτέλους"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/aristotle-commentary-anonymous",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristotle-commentary-anonymous-vnq.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristotle-commentary-anonymous-vnq.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristotle-commentary-anonymous-vnq.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristotle-commentary-anonymous-vnq.en.json"
+      }
+    },
+    {
+      "eul_aid": "kdw",
+      "name": {
+        "english": "Apollonius of Aphrodisias",
+        "ancient_greek": "Ἀπολλώνιος ὁ Ἀφροδισιεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/apollonius-of-aphrodisias",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-aphrodisias-kdw.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-aphrodisias-kdw.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-aphrodisias-kdw.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-aphrodisias-kdw.en.json"
+      }
+    },
+    {
+      "eul_aid": "vls",
+      "name": {
+        "english": "Sophistical Refutations Anonymous",
+        "ancient_greek": "Ἀνώνυμος Ἀριστοτέλους Σοφιστικῶν Ἐλέγχων"
+      },
+      "work_count": 6,
+      "links": {
+        "html": "https://eulogikon.org/en/sophistical-refutations-anonymous",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sophistical-refutations-anonymous-vls.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sophistical-refutations-anonymous-vls.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sophistical-refutations-anonymous-vls.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sophistical-refutations-anonymous-vls.en.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/aristotle",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristotle-hgw.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristotle-hgw.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristotle-hgw.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristotle-hgw.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

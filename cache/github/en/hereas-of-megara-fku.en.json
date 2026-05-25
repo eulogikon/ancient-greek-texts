@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "fku",
+  "auth_slug": "hereas-of-megara",
+  "name": {
+    "english": "Hereas of Megara",
+    "ancient_greek": "Ἡρέας ὁ Μεγαρεύς"
+  },
+  "seo_h1": "Hereas of Megara and the Fragments of Local History",
+  "seo": {
+    "browser_title": "Hereas of Megara Historian on Eulogikon Greek Archive",
+    "meta_title": "Classical Hereas of Megara Ancient Greek Historical Works",
+    "meta_description": "Hereas of Megara was a 4th century BCE historian writing in Attic prose. Surviving historical works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Hereas of Megara was a local historian from the city of Megara active in the 4th century BCE. No specific biographical details survive; he is known solely through later citations, primarily by Plutarch, who quotes him as a source for Megarian traditions. His floruit is inferred from the nature of his work and these later references.</p>\n<p class=\"research-text\">His only known work is the Megarika, a local history of Megara. The work is lost and survives only in fragments preserved by later authors like Plutarch. Hereas is significant as an early practitioner of local history. His Megarika provided a valuable non-Athenian perspective on regional myths and historical disputes, such as the Megarian version of the myth of Theseus and Ariadne and the early history of the Salamis controversy. As a fragmentary historian, he illustrates the diversity of competing local historical traditions in the Greek world.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "fku-aa",
+      "title": {
+        "english": "Megarian Historical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hereas-of-megara-historical-fragments-fku-aa",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/hereas-of-megara/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hereas-of-megara-historical-fragments-fku-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hereas-of-megara-historical-fragments-fku-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hereas-of-megara-historical-fragments-fku-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hereas-of-megara-historical-fragments-fku-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hereas-of-megara/historical-fragments.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/hereas-of-megara",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hereas-of-megara-fku.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hereas-of-megara-fku.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hereas-of-megara-fku.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hereas-of-megara-fku.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,433 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ffu-an",
+  "eul_aid": "ffu",
+  "author_slug": "isocrates-of-athens",
+  "work_slug": "philip-an",
+  "url_slug": "isocrates-of-athens-philip-an-ffu-an",
+  "author": {
+    "english": "Isocrates of Athens",
+    "ancient_greek": "Ἰσοκράτης ὁ Ἀθηναῖος"
+  },
+  "title": {
+    "english": "To Philip II",
+    "ancient_greek": "Φιλίππῳ β΄"
+  },
+  "seo": {
+    "browser_title": "To Philip II by Isocrates of Athens on eulogikon.org",
+    "meta_title": "To Philip II by Isocrates of Athens in Ancient Greek",
+    "meta_description": "Political oration to King Philip II of Macedon by Athenian rhetorician Isocrates. Read free and download in original ancient Greek text at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">&quot;To Philip&quot; is a political oration composed by the Athenian rhetorician Isocrates around 346 BCE. Addressed to King Philip II of Macedon, the work is structured as a single, continuous speech intended for reading, representing an epistolary form of oratory. Written in Attic Greek, it constitutes a direct appeal for Philip to unite the fractious Greek city-states and lead them in a concerted military campaign against the Persian Empire. Isocrates frames this Panhellenic expedition as the solution to endemic Greek strife, promising it would bring prosperity and stability to the region.</p>\n<p class=\"research-text\">The oration survives in full through medieval manuscripts as part of the collected works of Isocrates. Scholars regard it as a pivotal text that captures the shifting political dynamics of the mid-4th century BCE, composed in the aftermath of a peace treaty between Athens and Macedon as Philip&#x27;s influence was ascendant. It marks a significant evolution in Isocrates&#x27; own political thought, wherein he abandons his earlier advocacy for Athenian or Spartan leadership and instead promotes a powerful monarchy as the pragmatic instrument for achieving Greek unity. Although Philip never undertook the specific campaign proposed, the oration remains a crucial document for understanding the intellectual climate that preceded the Hellenistic age and the eventual conquests of Alexander the Great.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "Epist 3.1",
+      "text": "Ἐπιστολαὶ γʹ ΦΙΛΙΠΠΩΙ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Epist 3.1",
+      "text": "Ἐγὼ διελέχθην μὲν καὶ πρὸς Ἀντίπατρον περί τε τῶν τῇ πόλει 〈καὶ τῶν〉 σοὶ συμφερόντων, ἐξαρκούντως ὡς ἐμαυτὸν ἔπειθον, ἠβουλήθην δὲ καὶ πρὸς σὲ γράψαι, περὶ ὧν μοι δοκεῖ πρακτέον εἶναι μετὰ τὴν εἰρήνην, παραπλήσια μὲν τοῖς ἐν τῷ λόγῳ γεγραμμένοις, πολὺ δ’ ἐκείνων συντομώτερα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Epist 3.2",
+      "text": "Κατ’ ἐκεῖνον μὲν γὰρ τὸν χρόνον συνεβούλευον ὡς χρὴ διαλλάξαντά σε τὴν πόλιν τὴν ἡμετέραν καὶ τὴν Λακεδαιμονίων καὶ τὴν Θηβαίων καὶ τὴν Ἀργείων εἰς ὁμόνοιαν καταστῆσαι τοὺς Ἕλληνας, ἡγούμενος, ἂν τὰς προεστώσας πόλεις πείσῃς οὕτω φρονεῖν, ταχέως καὶ τὰς ἄλλας ἐπακολουθήσειν. Τότε μὲν οὖν ἄλλος ἦν καιρὸς, νῦν δὲ συμβέβηκεν μηκέτι δεῖν πείθειν· διὰ γὰρ τὸν ἀγῶνα τὸν γεγενημένον ἠναγκασμένοι πάντες εἰσὶν εὖ φρονεῖν καὶ τούτων ἐπιθυμεῖν ὧν ὑπονοοῦσιν σε βούλεσθαι πράττειν καὶ λέγειν, ὡς δεῖ παυσαμένους τῆς μανίας καὶ τῆς πλεονεξίας ἣν ἐποιοῦντο πρὸς ἀλλήλους, εἰς τὴν Ἀσίαν τὸν πόλεμον ἐξενεγκεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Epist 3.3",
+      "text": "Καὶ πολλοὶ πυνθάνονται παρ’ ἐμοῦ πότερον ἐγώ σοι παρῄνεσα ποιεῖσθαι τὴν στρατείαν τὴν ἐπὶ τοὺς βαρβάρους ἢ σοῦ διανοηθέντος συνεῖπον· ἐγὼ δ’ οὐκ εἰδέναι μέν φημι τὸ σαφὲς, οὐ γὰρ συγγεγενῆσθαί σοι πρότερον, οὐ μὴν ἀλλ’ οἴεσθαι σὲ μὲν ἐγνωκέναι περὶ τούτων, ἐμὲ δὲ συνειρηκέναι ταῖς σαῖς ἐπιθυμίαις. Ταῦτα δ’ ἀκούοντες ἐδέοντό μου πάντες παρακελεύεσθαί σοι καὶ προτρέπειν ἐπὶ τῶν αὐτῶν τούτων μένειν, ὡς οὐδέποτ’ ἂν γενομένων οὔτε καλλιόνων ἔργων οὔτ’ ὠφελιμωτέρων τοῖς Ἕλλησιν οὔτ’ ἐν καιρῷ μᾶλλον πραχθησομένων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Epist 3.4",
+      "text": "Εἰ μὲν οὖν εἶχον τὴν αὐτὴν δύναμιν ἥνπερ πρότερον καὶ μὴ παντάπασιν ἦν ἀπειρηκὼς, οὐκ ἂν δι’ ἐπιστολῆς διελεγόμην, ἀλλὰ παρὼν αὐτὸς παρώξυνον ἄν σε καὶ παρεκάλουν ἐπὶ τὰς πράξεις ταύτας. Νῦν δ’ ὡς δύναμαι παρακελεύομαί σοι μὴ καταμελῆσαι τούτων, πρὶν ἂν τέλος ἐπιθῇς αὐτοῖς. Ἔστι δὲ πρὸς μὲν ἄλλο τι τῶν ὄντων ἀπλήστως ἔχειν οὐ καλόν· αἱ γὰρ μετριότητες παρὰ τοῖς πολλοῖς εὐδοκιμοῦσιν· δόξης δὲ μεγάλης καὶ καλῆς ἐπιθυμεῖν καὶ μηδέποτ’ ἐμπίπλασθαι προσήκει τοῖς πόλυ τῶν ἄλλων διενεγκοῦσιν· ὅπερ σοὶ συμβέβηκεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Epist 3.5",
+      "text": "Ἡγοῦ δὲ τόθ’ ἕξειν ἀνυπέρβλητον αὐτὴν καὶ τῶν σοὶ πεπραγμένων ἀξίαν, ὅταν τοὺς μὲν βαρβάρους ἀναγκάσῃς εἱλωτεύειν τοῖς Ἕλλησιν πλὴν τῶν σοὶ συναγωνισαμένων, τὸν δὲ βασιλέα τὸν νῦν μέγαν προσαγορευόμενον ποιήσῃς τοῦτο πράττειν ὅτι ἂν σὺ προστάττῃς. Οὐδὲν γὰρ ἔσται λοιπὸν ἔτι πλὴν θεὸν γενέσθαι. Ταῦτα δὲ κατεργάσασθαι πολὺ ῥᾷόν ἐστιν ἐκ τῶν νῦν παρόντων ἢ προελθεῖν ἐπὶ τὴν δύναμιν καὶ τὴν δόξαν ἣν νῦν ἔχεις ἐκ τῆς βασιλείας τῆς ἐξ ἀρχῆς ὑμῖν ὑπαρξάσης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Epist 3.6",
+      "text": "Χάριν δ’ ἔχω τῷ γήρᾳ ταύτην μόνην, ὅτι προήγαγεν εἰς τοῦτό μου τὸν βίον ὥσθ’ ἃ νέος ὢν διενοούμην καὶ γράφειν ἐπεχείρουν ἔν τε τῷ πανηγυρικῷ λόγῳ καὶ τῷ πρὸς σὲ πεμφθέντι ταῦτα νῦν τὰ μὲν ἤδη γιγνόμενα διὰ τῶν σῶν ἐφορῶ πράξεων, τὰ δ’ ἐλπίζω γενήσεσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ffu-ag",
+      "title": {
+        "english": "Against Lochites",
+        "ancient_greek": "Κατὰ Λοχίτου"
+      },
+      "url_slug": "isocrates-of-athens-against-lochites-ffu-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/against-lochites",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-against-lochites-ffu-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-against-lochites-ffu-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-against-lochites-ffu-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-against-lochites-ffu-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/against-lochites.epub"
+      }
+    },
+    {
+      "eul_wid": "ffu-ad",
+      "title": {
+        "english": "Against The Sophists",
+        "ancient_greek": "Κατὰ τοῦ Σοφιστῶν"
+      },
+      "url_slug": "isocrates-of-athens-against-sophists-ffu-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/against-sophists",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-against-sophists-ffu-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-against-sophists-ffu-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-against-sophists-ffu-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-against-sophists-ffu-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/against-sophists.epub"
+      }
+    },
+    {
+      "eul_wid": "ffu-at",
+      "title": {
+        "english": "Archidamus",
+        "ancient_greek": "Ἀρχίδαμος"
+      },
+      "url_slug": "isocrates-of-athens-archidamus-at-ffu-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/archidamus-at",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-archidamus-at-ffu-at.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-archidamus-at-ffu-at.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-archidamus-at-ffu-at.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-archidamus-at-ffu-at.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/archidamus-at.epub"
+      }
+    },
+    {
+      "eul_wid": "ffu-ah",
+      "title": {
+        "english": "Areopagiticus",
+        "ancient_greek": "Ἀρεοπαγιτικός"
+      },
+      "url_slug": "isocrates-of-athens-areopagiticus-ffu-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/areopagiticus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-areopagiticus-ffu-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-areopagiticus-ffu-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-areopagiticus-ffu-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-areopagiticus-ffu-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/areopagiticus.epub"
+      }
+    },
+    {
+      "eul_wid": "ffu-bc",
+      "title": {
+        "english": "Banker",
+        "ancient_greek": "Τραπεζιτικός"
+      },
+      "url_slug": "isocrates-of-athens-banker-ffu-bc",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/banker",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-banker-ffu-bc.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-banker-ffu-bc.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-banker-ffu-bc.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-banker-ffu-bc.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/banker.epub"
+      }
+    },
+    {
+      "eul_wid": "ffu-bb",
+      "title": {
+        "english": "Busiris",
+        "ancient_greek": "Βούσιρις"
+      },
+      "url_slug": "isocrates-of-athens-busiris-ffu-bb",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/busiris",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-busiris-ffu-bb.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-busiris-ffu-bb.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-busiris-ffu-bb.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-busiris-ffu-bb.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/busiris.epub"
+      }
+    },
+    {
+      "eul_wid": "ffu-aa",
+      "title": {
+        "english": "Counterplea To Callimachus",
+        "ancient_greek": "παράγραφος προς καλλίμαχον"
+      },
+      "url_slug": "isocrates-of-athens-counterplea-ffu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/counterplea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-counterplea-ffu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-counterplea-ffu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-counterplea-ffu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-counterplea-ffu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/counterplea.epub"
+      }
+    },
+    {
+      "eul_wid": "ffu-az",
+      "title": {
+        "english": "Evagoras",
+        "ancient_greek": "Εὐαγόρας"
+      },
+      "url_slug": "isocrates-of-athens-evagoras-ffu-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/evagoras",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-evagoras-ffu-az.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-evagoras-ffu-az.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-evagoras-ffu-az.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-evagoras-ffu-az.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/evagoras.epub"
+      }
+    },
+    {
+      "eul_wid": "ffu-av",
+      "title": {
+        "english": "Fragments on Rhetorical Theory",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ῥητορικῆς Θεωρίας"
+      },
+      "url_slug": "isocrates-of-athens-rhetorical-theory-ffu-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/rhetorical-theory",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-rhetorical-theory-ffu-av.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-rhetorical-theory-ffu-av.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-rhetorical-theory-ffu-av.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-rhetorical-theory-ffu-av.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/rhetorical-theory.epub"
+      }
+    },
+    {
+      "eul_wid": "ffu-bd",
+      "title": {
+        "english": "Helena",
+        "ancient_greek": "Ελένη"
+      },
+      "url_slug": "isocrates-of-athens-helena-ffu-bd",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/helena",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-helena-ffu-bd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-helena-ffu-bd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-helena-ffu-bd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-helena-ffu-bd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/helena.epub"
+      }
+    },
+    {
+      "eul_wid": "ffu-ac",
+      "title": {
+        "english": "Nicocles or the Cyprians",
+        "ancient_greek": "Νικόκλης ἢ Κύπριοι"
+      },
+      "url_slug": "isocrates-of-athens-nicocles-cyprians-ffu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/nicocles-cyprians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-nicocles-cyprians-ffu-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-nicocles-cyprians-ffu-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-nicocles-cyprians-ffu-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-nicocles-cyprians-ffu-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/nicocles-cyprians.epub"
+      }
+    },
+    {
+      "eul_wid": "ffu-ao",
+      "title": {
+        "english": "On Exchange",
+        "ancient_greek": "Περὶ ἀντιδόσεως"
+      },
+      "url_slug": "isocrates-of-athens-exchange-ffu-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/exchange",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-exchange-ffu-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-exchange-ffu-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-exchange-ffu-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-exchange-ffu-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/exchange.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "qeu-ah",
+      "title": {
+        "english": "Alcyon",
+        "ancient_greek": "Ἀλκυών"
+      },
+      "url_slug": "pseudo-lucian-alcyon-qeu-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/alcyon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-alcyon-qeu-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-alcyon-qeu-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-alcyon-qeu-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-alcyon-qeu-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/alcyon.epub"
+      }
+    },
+    {
+      "eul_wid": "pfk-az",
+      "title": {
+        "english": "Assembly of the Gods",
+        "ancient_greek": "Θεῶν Ἐκκλησία"
+      },
+      "url_slug": "lucian-of-samosata-assembly-gods-pfk-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/assembly-gods",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-assembly-gods-pfk-az.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-assembly-gods-pfk-az.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-assembly-gods-pfk-az.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-assembly-gods-pfk-az.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/assembly-gods.epub"
+      }
+    },
+    {
+      "eul_wid": "qok-aa",
+      "title": {
+        "english": "Excerpts from Polyaenus",
+        "ancient_greek": "Ἐκλογαὶ ἐκ Πολυαίνου"
+      },
+      "url_slug": "polyaenus-of-macedonia-excerpts-qok-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/polyaenus-of-macedonia/excerpts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polyaenus-of-macedonia-excerpts-qok-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polyaenus-of-macedonia-excerpts-qok-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polyaenus-of-macedonia-excerpts-qok-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polyaenus-of-macedonia-excerpts-qok-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polyaenus-of-macedonia/excerpts.epub"
+      }
+    },
+    {
+      "eul_wid": "quo-aa",
+      "title": {
+        "english": "Fishermen's Sea Letters",
+        "ancient_greek": "Ἐπιστολαί"
+      },
+      "url_slug": "alciphron-the-sophist-sea-letters-quo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/alciphron-the-sophist/sea-letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alciphron-the-sophist-sea-letters-quo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alciphron-the-sophist-sea-letters-quo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alciphron-the-sophist-sea-letters-quo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alciphron-the-sophist-sea-letters-quo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alciphron-the-sophist/sea-letters.epub"
+      }
+    },
+    {
+      "eul_wid": "fsm-ar",
+      "title": {
+        "english": "Indictment-Theocrines",
+        "ancient_greek": "ἔνδειξις κατὰ Θεοκρίνου"
+      },
+      "url_slug": "demosthenes-of-athens-indictment-theocrines-fsm-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/indictment-theocrines",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-indictment-theocrines-fsm-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-indictment-theocrines-fsm-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-indictment-theocrines-fsm-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-indictment-theocrines-fsm-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/indictment-theocrines.epub"
+      }
+    },
+    {
+      "eul_wid": "swk-af",
+      "title": {
+        "english": "Preliminary Exercises",
+        "ancient_greek": "Προγυμνάσματα"
+      },
+      "url_slug": "libanius-of-antioch-preliminary-exercises-swk-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/libanius-of-antioch/preliminary-exercises",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch-preliminary-exercises-swk-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch-preliminary-exercises-swk-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch-preliminary-exercises-swk-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch-preliminary-exercises-swk-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/preliminary-exercises.epub"
+      }
+    },
+    {
+      "eul_wid": "hlw-ab",
+      "title": {
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
+      },
+      "url_slug": "demades-of-paeania-testimony-hlw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/demades-of-paeania/testimony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demades-of-paeania-testimony-hlw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demades-of-paeania-testimony-hlw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demades-of-paeania-testimony-hlw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demades-of-paeania-testimony-hlw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demades-of-paeania/testimony.epub"
+      }
+    },
+    {
+      "eul_wid": "fsm-aj",
+      "title": {
+        "english": "To Polycles-the Trierarch's Duty",
+        "ancient_greek": "πρὸς Πολυκλέα περὶ τοῦ ἐπιτριηραρχήματος"
+      },
+      "url_slug": "demosthenes-of-athens-polycles-trierarch-fsm-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/polycles-trierarch",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-polycles-trierarch-fsm-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-polycles-trierarch-fsm-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-polycles-trierarch-fsm-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens-polycles-trierarch-fsm-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/polycles-trierarch.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/isocrates-of-athens/philip-an",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-philip-an-ffu-an.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-philip-an-ffu-an.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-philip-an-ffu-an.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens-philip-an-ffu-an.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/philip-an.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,254 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "mqm-aa",
+  "eul_aid": "mqm",
+  "author_slug": "crateuas-the-rhizotomist",
+  "work_slug": "botanical-medicinal",
+  "url_slug": "crateuas-the-rhizotomist-botanical-medicinal-mqm-aa",
+  "author": {
+    "english": "Crateuas the Rhizotomist",
+    "ancient_greek": "Κρατεύας ὁ ῥιζοτόμος"
+  },
+  "title": {
+    "english": "Botanical and Medicinal Fragments",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Fragments of Crateuas the Rhizotomist on Eulogikon",
+    "meta_title": "Botanical and Medicinal Fragments in Ancient Greek",
+    "meta_description": "Crateuas the Rhizotomist documents plant properties and medicinal recipes in these surviving Hellenistic fragments Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Botanical and Medicinal Fragments</strong> are surviving excerpts from an illustrated herbal written by Crateuas, a rhizotomist and physician active in the early 1st century BCE. The original treatise, composed in Koine Greek, served as a systematic guide describing various plants, their habitats, and their medicinal applications, with a particular focus on remedies and antidotes. Crateuas served as the personal physician to King Mithridates VI of Pontus, whose notorious preoccupation with poisons likely influenced the work&#x27;s practical orientation for use by medical practitioners and the royal court. Its most significant innovation was the incorporation of painted illustrations alongside the descriptive text to ensure accurate botanical identification.</p>\n<p class=\"research-text\">The complete work is lost, with knowledge of it dependent on nine principal fragments preserved through quotation by later pharmacologists, most notably Pedanius Dioscorides in the 1st century CE. The extant passages detail specific therapeutic uses for plants, such as varieties of birthwort for treating snakebites, expelling embryos, and alleviating ailments like asthma and spleen disorders, and yarrow for staunching hemorrhages and healing old ulcers. Scholars posit that certain plant illustrations found in later Byzantine manuscripts may derive, however distantly, from the original paintings in Crateuas&#x27;s herbal. His pioneering model of a direct, illustrated botanical reference work exerted a profound influence on Dioscorides, whose own comprehensive pharmacopeia became the standard medical text for over a millennium, thereby cementing Crateuas&#x27;s legacy in the history of botany and pharmaceutical science.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Ἀριστολόχιος μακρὰ ποιεῖ πρὸς ἑρπετὰ καὶ θανάσιμα ὁλκὴ πινομένη μετ’ οἴνου καὶ καταπλασσομένη, τὰ δὲ ἐν μήτρᾳ συνιστάμενα λόχια καὶ ἔμμηνα καὶ ἔμβρυα ἐκβάλλει ποθεῖσα μετὰ πεπέρεως καὶ σμύρνης· καὶ ἐν πεσσῷ δὲ προστεθεῖσα τὸ αὐτὸ δρᾷ. ἀριστολόχιος 〈στρογγύλη〉 πινομένη μετ’ οἴνου μέλανος ποιεῖ πρὸς ἑρπετῶν δήγματα· χωρεῖ δὲ καὶ εἰς ἀντιδότους τὰς θηριακάς, χωρεῖ καὶ εἰς τὰς ποδαγρικὰς συνθέσεις, ἔτι δὲ ἐμπλάστρους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "ἄγει δὲ καὶ ἔμμηνα καὶ ἔμβρυα ἐκβάλλει· βοηθεῖ ἄσθματι, λυγμῷ, ῥίγει, σπληνί, ῥήγμασιν, σπάσμασιν. ποθεῖσα δὲ μεθ’ ὕδατος ἀνάγει σκόλοπας, ἀκίδας, λεπίδας ὀστῶν καταπλασσομένη ἀφίστησιν καὶ σηπεδόνας περιχαράσσει καὶ τὰ ῥυπαρὰ καθαίρει ἕλκη· σμήχει δὲ καὶ ὀδόντας καὶ οὖλα. Ἀχίλλειος· ταύτης τῆς βοτάνης ἡ κόμη λεία ἐναίμων ἐστὶν κολλητικὴ καὶ ἀφλέγμαντος, αἱμορραγίας τε ἐφεκτικὴ καὶ τῆς ἐκ μήτρας ἐν προσθέτῳ, καὶ τὸ ἀφέψημα δὲ αὐτῆς ἐστιν ἐγκάθισμα ῥοικαῖς, πίνεται καὶ πρὸς δυσεντερίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "ὅλη δὲ κοπεῖσα μετὰ ἀξουγγίας παλαιᾶς τὰ παλαιὰ τῶν ἑλκῶν καὶ δυσαπούλωτα θεραπεύει, ξηρὰ δὲ κοπεῖσα καὶ μέλιτι μιγεῖσά ἐστιν ἀνακαθαρτική. ἀνεμώνη ἡ φοινικῆ· ἀνεμώνη δύναμιν ἔχει δριμεῖαν, ὅθεν ὁ χυλὸς τῆς ῥίζης αὐτῆς γίνεται ἔγχυτος πρὸς κεφαλῆς κάθαρσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "μασηθεῖσα δὲ ἡ ῥίζα ἄγει φλέγμα· ἑψηθεῖσα δὲ ἐν γλυκεῖ καὶ καταπλασσομένη ὀφθαλμῶν φλεγμονὰς αἴρει, ὁμοίως καὶ τὰς οὐλὰς ἀποσμήχει. τὰ δὲ φύλλα καὶ οἱ καυλοὶ συνεψηθέντα πτισάνῃ καὶ ἐσθιόμενα γάλα κατασπᾷ, ἐν προσθέτῳ δὲ ἔμμηνα ἄγει, καταπλασθέντα δὲ λέπρας ἀφίστησιν. ἀσφόδελος· τούτου αἱ ῥίζαι δύναμιν ἔχουσιν διουρητικὴν καὶ ἐμμήνων κατασπαστικήν· θεραπεύει καὶ ποδάγρας ἀλγήματα καὶ σπάσματα καὶ βῆχας καὶ ῥήγματα 𐅻 μία τὸ πλῆθος τῆς ῥίζης ἐν οἴνῳ πινομένη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "ποιεῖ καὶ 〈εὐεμεστέρους ὅσον ἀστράγαλος βρωθεῖσα καὶ〉 ἑρπετοδήκτοις δίδοται ὠφελίμως πλῆθος τριῶν· καταπλάσσειν δὲ δεῖ τὰ δήγματα ὅλῃ τῇ βοτάνῃ σὺν οἴνῳ. θεραπεύει 〈καὶ〉 τὰ ῥυπαρὰ καὶ νεμόμενα ἕλκη, ποιεῖ καὶ πρὸς μαστῶν καὶ διδύμων φλεγμονὰς καὶ φύματα καὶ δοθιῆνας συγκαθεψομένη τρυγὶ οἴνου ἡ ῥίζα, πρὸς δὲ τὰς προσφάτους φλεγμονὰς μετ’ ἀλφίτου. ὁ δὲ χυλὸς τῆς ῥίζης προσλαβὼν οἴνου παλαιοῦ τι γλυκέος καὶ σμύρνης καὶ κρόκου συνεψηθέντων ἐπὶ ταὐτὸ ἔγχριστον γίγνεται ὀφθαλμῶν καὶ πρὸς ὦτα πυορροοῦντα σὺν λιβάνῳ καὶ μέλιτι. ἀρνόγλωσσον δύναμιν ἔχει τηκτικὴν καὶ ἀφλέγμαντον· κοπεῖσα γὰρ μετὰ στέατος καὶ ἐπιτιθεμένη τοῖς τὰ χειρώνια ἔχουσιν εὐθετεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "πρὸς δὲ τὰ λοιπὰ ποιεῖ σχε... ἄσαρον· δύναμιν ἔχει θερμαντικὴν καὶ διουρητικήν, ἁρμόζουσαν ὑδρωπικοῖς, ἰσχιαδικοῖς χρονίοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "ἄγουσιν 〈αἱ ῥίζαι〉 καὶ ἔμμηνα, μετὰ μελικράτου δὲ ποθεῖσαι πλῆθος ἓξ ὡς ἐλλέβορος λευκὸς καθαίρουσι· μείγνυται δὲ καὶ μύροις καὶ ἀντιδότοις. ἀναγαλλίδες ἀμφότεραι τραυματικαί, ἀφλέγμαντοι, σκολόπων τε ἐπισπαστικαὶ 〈καὶ〉 νομῶν ἐφεκτικαί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "ὁ δὲ χυλὸς αὐτῶν ῥινέγχυτος ὀδόντων πόνον παύσει, ἐὰν εἰς τὸν ἀντικείμενον μυξωτῆρα τοῦ ἀλγοῦντος ἐγχέῃς· καθαίρει καὶ ἄργεμα μετὰ μέλιτος Ἀττικοῦ καὶ ἀμβλυωπίαις βοηθεῖ. φασὶν δὲ ἔνιοι τὴν μὲν ἔχουσαν τὸ κυάνεον ἄνθος πρόπτωσιν δακτυλίου στέλλειν, τὴν δὲ φοινικοῦν ἐξερεθίζειν καταπλασθεῖσαν. χρῶνται δὲ αὐτῇ καὶ εἰς τὰς Δημοκρίτου δυνάμεις. ἀργεμώνη· αὕτη ἡ βοτάνη κοπεῖσα μετὰ ἀξουγγίας χοιράδας διαλύει· ποιεῖ καὶ πρὸς ἀλφοὺς μέλανας μετὰ νίτρου καὶ θείου ἀπύρου ξηρὰ κοπεῖσα καὶ σησθεῖσα, ἐν βαλανείῳ 〈δὲ〉 τοὺς χρωμένους θεραπεύει προξηροτριβηθέντας· ποιεῖ καὶ πρὸς ψώραν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "ἀστέριον· αὕτη χλωρὰ κοπεῖσα μετὰ ἀξουγγίας παλαιᾶς ποιεῖ πρὸς λυσσοδήκτους, βρογχοκηλικούς, ὑποθυμιωμένη δὲ φυγαδεύει θηρία.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "vjk-ae",
+      "title": {
+        "english": "Fragments of Timotheus of Gaza",
+        "ancient_greek": "Ἀποσπάσματα Τιμοθέου τοῦ Γάζης"
+      },
+      "url_slug": "hippiatric-compilation-anonymous-timotheus-gaza-vjk-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippiatric-compilation-anonymous/timotheus-gaza",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous-timotheus-gaza-vjk-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous-timotheus-gaza-vjk-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous-timotheus-gaza-vjk-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous-timotheus-gaza-vjk-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/timotheus-gaza.epub"
+      }
+    },
+    {
+      "eul_wid": "vhc-ab",
+      "title": {
+        "english": "Medical Book XIII",
+        "ancient_greek": "Ἰατρικὸν Βιβλίον ΙΓʹ"
+      },
+      "url_slug": "aetius-of-amida-medical-book-13-vhc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aetius-of-amida/medical-book-13",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida-medical-book-13-vhc-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida-medical-book-13-vhc-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida-medical-book-13-vhc-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida-medical-book-13-vhc-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-13.epub"
+      }
+    },
+    {
+      "eul_wid": "nys-aa",
+      "title": {
+        "english": "On Animals That Emit Venom, Including the Rabid Dog",
+        "ancient_greek": "Περὶ τῶν ζῴων τῶν δηλητηριωδῶν"
+      },
+      "url_slug": "pseudo-dioscorides-venomous-animals-rabid-dog-nys-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-dioscorides/venomous-animals-rabid-dog",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides-venomous-animals-rabid-dog-nys-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides-venomous-animals-rabid-dog-nys-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides-venomous-animals-rabid-dog-nys-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides-venomous-animals-rabid-dog-nys-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides/venomous-animals-rabid-dog.epub"
+      }
+    },
+    {
+      "eul_wid": "omy-ad",
+      "title": {
+        "english": "On Bandages",
+        "ancient_greek": "Περὶ Ἐπιδέσμων"
+      },
+      "url_slug": "soranus-of-ephesus-bandages-omy-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/soranus-of-ephesus/bandages",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus-bandages-omy-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus-bandages-omy-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus-bandages-omy-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus-bandages-omy-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus/bandages.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-df",
+      "title": {
+        "english": "On Diagnosing Pulses",
+        "ancient_greek": "Περὶ τῆς διαγνώσεως τῶν σφυγμῶν"
+      },
+      "url_slug": "galen-of-pergamon-diagnosing-pulses-qmm-df",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/diagnosing-pulses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diagnosing-pulses-qmm-df.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diagnosing-pulses-qmm-df.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diagnosing-pulses-qmm-df.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diagnosing-pulses-qmm-df.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/diagnosing-pulses.epub"
+      }
+    },
+    {
+      "eul_wid": "tqu-ax",
+      "title": {
+        "english": "On Humors",
+        "ancient_greek": "Περὶ Χυμῶν"
+      },
+      "url_slug": "anonymous-medical-writer-humors-tqu-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/humors",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-humors-tqu-ax.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-humors-tqu-ax.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-humors-tqu-ax.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-humors-tqu-ax.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/humors.epub"
+      }
+    },
+    {
+      "eul_wid": "bww-cb",
+      "title": {
+        "english": "On Women",
+        "ancient_greek": "Περὶ γυναικείων"
+      },
+      "url_slug": "hippocrates-women-bww-cb",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/women",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-women-bww-cb.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-women-bww-cb.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-women-bww-cb.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-women-bww-cb.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/women.epub"
+      }
+    },
+    {
+      "eul_wid": "umi-ab",
+      "title": {
+        "english": "On the Color of Blood from Phlebotomy in Persian Medicine",
+        "ancient_greek": "Περὶ χροιᾶς τοῦ αἵματος τοῦ ἀπὸ φλεβοτομίας ἐκ τῆς"
+      },
+      "url_slug": "medical-writers-anonymous-blood-color-phlebotomy-umi-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/blood-color-phlebotomy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-blood-color-phlebotomy-umi-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-blood-color-phlebotomy-umi-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-blood-color-phlebotomy-umi-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-blood-color-phlebotomy-umi-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/blood-color-phlebotomy.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/crateuas-the-rhizotomist/botanical-medicinal",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crateuas-the-rhizotomist-botanical-medicinal-mqm-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crateuas-the-rhizotomist-botanical-medicinal-mqm-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crateuas-the-rhizotomist-botanical-medicinal-mqm-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crateuas-the-rhizotomist-botanical-medicinal-mqm-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crateuas-the-rhizotomist/botanical-medicinal.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

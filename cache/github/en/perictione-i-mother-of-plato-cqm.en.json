@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "cqm",
+  "auth_slug": "perictione-i-mother-of-plato",
+  "name": {
+    "english": "Perictione I Mother of Plato",
+    "ancient_greek": "Περικτιόνη ἡ Πλάτωνος"
+  },
+  "seo_h1": "Perictione I on the Harmony of Women",
+  "seo": {
+    "browser_title": "Perictione Mother of Plato on Eulogikon Greek Archive",
+    "meta_title": "Classical Perictione Ancient Greek Philosophical Treatise",
+    "meta_description": "Perictione was a noblewoman of Athens and mother of Plato. One philosophical treatise survives. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Pythagorean",
+      "href": "/affiliations/pythagorean"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Perictione I was a noblewoman of classical Athens in the 5th century BCE, best known as the mother of the philosopher Plato. She was the daughter of Glaucon and sister of Charmides, placing her within a powerful Athenian aristocratic family.</p>\n<p class=\"research-text\">She was first married to Ariston, with whom she had her sons Glaucon, Adeimantus, and Plato, and a daughter, Potone. After Ariston’s death, she married her uncle Pyrilampes, a prominent political figure, and had another son, Antiphon. Ancient tradition later identified her as a Pythagorean philosopher.</p>\n<p class=\"research-text\">A single work, <strong>On the Harmony of Women</strong>, a treatise on women’s proper conduct and harmony in life, is attributed to her in surviving fragments. However, modern scholars widely consider this attribution to be spurious. According to academic analysis, it is more likely that this text was written by a later Pythagorean woman, sometimes called Perictione II, and was mistakenly assigned to Plato’s mother in later antiquity. This misattribution reflects a historical tendency to link philosophical works, especially those concerning women’s roles, to famous female relatives of major thinkers.</p>\n<p class=\"research-text\">Therefore, Perictione I’s historical significance lies almost entirely in her familial connection to Plato and her place in his biography, rather than in any authentic philosophical authorship. The later legendary tradition around her illustrates how intellectual genealogies were constructed in the ancient world.</p>\n</div>",
+  "affiliation_label": "Pythagorean",
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "cqm-aa",
+      "title": {
+        "english": "On the Harmony of Women",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "perictione-i-mother-of-plato-harmony-women-cqm-aa",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/perictione-i-mother-of-plato/harmony-women",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/perictione-i-mother-of-plato-harmony-women-cqm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/perictione-i-mother-of-plato-harmony-women-cqm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/perictione-i-mother-of-plato-harmony-women-cqm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/perictione-i-mother-of-plato-harmony-women-cqm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/perictione-i-mother-of-plato/harmony-women.epub"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "dei",
+      "name": {
+        "english": "Apollodorus of Cyzicus",
+        "ancient_greek": "Ἀπολλόδωρος ὁ Κυζικηνός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/apollodorus-of-cyzicus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-cyzicus-dei.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-cyzicus-dei.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-cyzicus-dei.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-cyzicus-dei.en.json"
+      }
+    },
+    {
+      "eul_aid": "nxe",
+      "name": {
+        "english": "Apollonius of Tyana",
+        "ancient_greek": "Ἀπολλώνιος ὁ Τυανεύς"
+      },
+      "work_count": 3,
+      "links": {
+        "html": "https://eulogikon.org/en/apollonius-of-tyana",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana-nxe.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana-nxe.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana-nxe.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana-nxe.en.json"
+      }
+    },
+    {
+      "eul_aid": "nwu",
+      "name": {
+        "english": "Apollonius of Tyana II",
+        "ancient_greek": "Ἀπολλώνιος ὁ Τυανεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/apollonius-of-tyana-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana-ii-nwu.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana-ii-nwu.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana-ii-nwu.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana-ii-nwu.en.json"
+      }
+    },
+    {
+      "eul_aid": "faa",
+      "name": {
+        "english": "Archytas of Tarentum",
+        "ancient_greek": "Ἀρχύτας ὁ Ταραντῖνος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/archytas-of-tarentum",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archytas-of-tarentum-faa.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archytas-of-tarentum-faa.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archytas-of-tarentum-faa.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archytas-of-tarentum-faa.en.json"
+      }
+    },
+    {
+      "eul_aid": "dck",
+      "name": {
+        "english": "Aresas of Lucania",
+        "ancient_greek": "Ἀρέσας ὁ Λευκανός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/aresas-of-lucania",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aresas-of-lucania-dck.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aresas-of-lucania-dck.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aresas-of-lucania-dck.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aresas-of-lucania-dck.en.json"
+      }
+    },
+    {
+      "eul_aid": "dcu",
+      "name": {
+        "english": "Athamas of Posidonia",
+        "ancient_greek": "Ἀθάμας ὁ Ποσειδωνιάτης"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/athamas-of-posidonia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athamas-of-posidonia-dcu.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athamas-of-posidonia-dcu.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athamas-of-posidonia-dcu.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athamas-of-posidonia-dcu.en.json"
+      }
+    },
+    {
+      "eul_aid": "azu",
+      "name": {
+        "english": "Brontinus of Metapontum",
+        "ancient_greek": "Βροντῖνος ὁ Μεταποντῖνος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/brontinus-of-metapontum",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/brontinus-of-metapontum-azu.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/brontinus-of-metapontum-azu.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/brontinus-of-metapontum-azu.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/brontinus-of-metapontum-azu.en.json"
+      }
+    },
+    {
+      "eul_aid": "bay",
+      "name": {
+        "english": "Cercops the Orphic",
+        "ancient_greek": "Κέρκωψ ὁ Ὀρφικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/cercops-the-orphic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cercops-the-orphic-bay.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cercops-the-orphic-bay.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cercops-the-orphic-bay.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cercops-the-orphic-bay.en.json"
+      }
+    },
+    {
+      "eul_aid": "hcg",
+      "name": {
+        "english": "Clinias of Tarentum",
+        "ancient_greek": "Κλεινίας ὁ Ταραντῖνος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/clinias-of-tarentum",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clinias-of-tarentum-hcg.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clinias-of-tarentum-hcg.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clinias-of-tarentum-hcg.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clinias-of-tarentum-hcg.en.json"
+      }
+    },
+    {
+      "eul_aid": "gqi",
+      "name": {
+        "english": "Damon and Phintias",
+        "ancient_greek": "Δάμων καὶ Φιντίας"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/damon-and-phintias",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damon-and-phintias-gqi.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damon-and-phintias-gqi.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damon-and-phintias-gqi.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damon-and-phintias-gqi.en.json"
+      }
+    },
+    {
+      "eul_aid": "ffa",
+      "name": {
+        "english": "Echecrates of Phlius",
+        "ancient_greek": "Ἐχεκράτης ὁ Φλιάσιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/echecrates-of-phlius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/echecrates-of-phlius-ffa.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/echecrates-of-phlius-ffa.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/echecrates-of-phlius-ffa.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/echecrates-of-phlius-ffa.en.json"
+      }
+    },
+    {
+      "eul_aid": "gqs",
+      "name": {
+        "english": "Ecphantus the Pythagorean",
+        "ancient_greek": "Ἔκφαντος ὁ Πυθαγόρειος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/ecphantus-the-pythagorean",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ecphantus-the-pythagorean-gqs.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ecphantus-the-pythagorean-gqs.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ecphantus-the-pythagorean-gqs.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ecphantus-the-pythagorean-gqs.en.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/perictione-i-mother-of-plato",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/perictione-i-mother-of-plato-cqm.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/perictione-i-mother-of-plato-cqm.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/perictione-i-mother-of-plato-cqm.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/perictione-i-mother-of-plato-cqm.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "dlg",
+  "auth_slug": "proxenus-of-boeotia",
+  "name": {
+    "english": "Proxenus of Boeotia",
+    "ancient_greek": "Πρόξενος ὁ Βοιωτός"
+  },
+  "seo_h1": "Proxenus of Boeotia on Epirus, Oracles, and Myths",
+  "seo": {
+    "browser_title": "Proxenus of Boeotia on Eulogikon Greek Archive and Library",
+    "meta_title": "Proxenus of Boeotia Ancient Greek Historical Works",
+    "meta_description": "Proxenus of Boeotia was a 5th century BCE historian. His surviving works are preserved in fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Proxenus of Boeotia was a 5th-century BCE Greek historian. He is identified by his regional origin and is known only from later references to his work on the Macedonian king Alexander I.</p>\n<p class=\"research-text\">His sole attested work is On Alexander, a history of King Alexander I of Macedon. The work is lost, surviving only in fragments and testimonia cited by later authors.</p>\n<p class=\"research-text\">Proxenus is a minor historian who represents the early Ionian tradition of local history. His significance lies in being a named source for the early Macedonian monarchy, and his work appears to have been utilized by later historians compiling Macedonian history.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "dlg-aa",
+      "title": {
+        "english": "Epeirotica: Oracles and Myths",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "proxenus-of-boeotia-oracles-myths-dlg-aa",
+      "passages": 8,
+      "links": {
+        "html": "https://eulogikon.org/grc/proxenus-of-boeotia/oracles-myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proxenus-of-boeotia-oracles-myths-dlg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proxenus-of-boeotia-oracles-myths-dlg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proxenus-of-boeotia-oracles-myths-dlg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proxenus-of-boeotia-oracles-myths-dlg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proxenus-of-boeotia/oracles-myths.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/proxenus-of-boeotia",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/proxenus-of-boeotia-dlg.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/proxenus-of-boeotia-dlg.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/proxenus-of-boeotia-dlg.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/proxenus-of-boeotia-dlg.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

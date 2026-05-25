@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "luy",
+  "auth_slug": "agatharchides-of-samos",
+  "name": {
+    "english": "Agatharchides of Samos",
+    "ancient_greek": "Ἀγαθαρχίδης ὁ Σάμιος"
+  },
+  "seo_h1": "Agatharchides of Samos on the Persian Wars",
+  "seo": {
+    "browser_title": "The Agatharchides of Samos on Eulogikon Greek Archive",
+    "meta_title": "Agatharchides of Samos Ancient Greek Historical Works",
+    "meta_description": "Agatharchides of Samos, Hellenistic historian of the 2nd-1st century BCE. Fragments of his works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Agatharchides of Cnidus was a Greek historian and geographer of the Hellenistic period, active in Alexandria during the reigns of Ptolemy VI Philometor and Ptolemy VIII Euergetes II. Described as a Peripatetic, he served as a tutor and spent his career within the Ptolemaic court, where he accessed official archives. He likely retired to write following political upheaval under Ptolemy VIII.</p>\n<p class=\"research-text\">His major works survive only in fragments preserved by authors like Photius, Diodorus Siculus, and Strabo. These include <strong>Events in Asia</strong> in ten books, <strong>Events in Europe</strong> in forty-nine books, and the significant geographical treatise <strong>On the Erythraean Sea</strong> in five books.</p>\n<p class=\"research-text\">Agatharchides is a crucial source for the geography and ethnography of the Hellenistic world, particularly for the Red Sea region, Arabia, and Northeast Africa. His critical methodology and vivid narrative, especially evident in <strong>On the Erythraean Sea</strong>, made him an important authority for later geographers and historians.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "luy-aa",
+      "title": {
+        "english": "Fragments on Persian Wars",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Περσικῶν Πολέμων"
+      },
+      "url_slug": "agatharchides-of-samos-persian-wars-luy-aa",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/agatharchides-of-samos/persian-wars",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-samos-persian-wars-luy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-samos-persian-wars-luy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-samos-persian-wars-luy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-samos-persian-wars-luy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-samos/persian-wars.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/agatharchides-of-samos",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agatharchides-of-samos-luy.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agatharchides-of-samos-luy.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agatharchides-of-samos-luy.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agatharchides-of-samos-luy.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,317 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "bpe-aa",
+  "eul_aid": "bpe",
+  "author_slug": "andron-of-halicarnassus-i",
+  "work_slug": "genealogies",
+  "url_slug": "andron-of-halicarnassus-i-genealogies-bpe-aa",
+  "author": {
+    "english": "Andron of Halicarnassus I",
+    "ancient_greek": "Ἄνδρων ὁ Ἁλικαρνασσεύς"
+  },
+  "title": {
+    "english": "Fragments on Genealogies",
+    "ancient_greek": "Ἀποσπάσματα περὶ Γενεαλογιῶν"
+  },
+  "seo": {
+    "browser_title": "Genealogies by Andron of Halicarnassus on Eulogikon",
+    "meta_title": "Genealogies by Andron of Halicarnassus in Ancient Greek",
+    "meta_description": "Fragments of Andron of Halicarnassus on genealogical records and family histories. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects (frg)",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Genealogies</strong> is a collection of prose excerpts attributed to Andron of Halicarnassus, preserved through citations by later authors such as Strabo, Stephanus of Byzantium, and various scholiasts. The work represents a systematic treatise on genealogical relationships, a core genre of early Greek historiography and mythography. The extant fragments address genealogical and ethnographical themes, connecting heroic mythology to historical geography and the origins of peoples. They include discussions on the descendants of Oceanus, the naming of continents such as Asia, Libya, Europe, and Thrace, and the mythological etymology of Mount Parnassus, linking it to the ark of Deucalion. Other fragments trace the lineage of the Argive king Phoroneus, detail the origins of the Dorians in Crete, and explore local Halicarnassian and Carian traditions within the broader Panhellenic framework. Transmitted primarily through geographical and lexicographical sources, the compilation is most accessible in the modern standard edition within Felix Jacoby’s <strong>Die Fragmente der griechischen Historiker</strong>. These fragments exemplify the early Greek intellectual endeavor to systematize myth into a coherent historical chronology and are valuable for studying the development of Greek historical thought, early mythographic methods, and the integration of local traditions into wider Hellenic culture.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-9",
+      "text": "ΣΥΓΓΕΝΕΙΑΙ. (ἹΣΤΟΡΙΑΙ.) Tzetzes Lyc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "894: Ἄνδρων δὲ ὁ Ἁλικαρνασσεὺς Ὠκεανόν φησι γῆμαι δύο γυναῖκας, Πομφολύγην καὶ Παρθενόπην, ἐξ ὧν τέσσαρας θυγατέρας γεννᾷ, τῆς μὲν Ἀσίαν καὶ Λιβύην, θατέρας δὲ Εὐρώπην καὶ Θρᾴκην, ἀφ’ ὧν λέγει καὶ κληθῆναι τὰς χώρας. Etym.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2a",
+      "text": "M.: Παρνασὸς, ὄρος ἐστὶ Δελφῶν, ἀπὸ Παρνασοῦ ἐγχωρίου ἥρωος. Ἄνδρων δέ φησιν, ἐπειδὴ προσώρμισεν ἡ λάρναξ τοῦ Δευκαλίωνος· καὶ τὸ μὲν πρότερον Λαρνησσὸς ἐκαλεῖτο, ὕστερον δὲ κατ’ ἐναλλαγὴν τοῦ λ εἰς π, Παρνασσός. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b",
+      "text": "Apoll. Rh. II, 705: Ὠνομάσθη δὲ Παρνασσὸς ἀπὸ Παρνησσοῦ τοῦ ἐγχωρίου ἥρωος, ὡς Ἑλλάνικος. Ἄνδρων δὲ, ἐπεὶ προσωρμίσθη ἡ λάρναξ τοῦ Δευκαλίωνος· καὶ τοπρότερον Λαρνασσὸς ἐκαλεῖτο, ὕστερον δὲ κατὰ φθορὰν τοῦ στοιχείου Παρνασσός. Steph.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Byz. Δώρων: Καὶ οἱ Κρῆτες Δωριεῖς ἐκαλοῦντο· Δωριέες τε τριχάϊκες, δῖοί τε Πελασγοί ( Od. XIX, 177). Περὶ ὧν ἱστορεῖ Ἄνδρων, Κρητὸς ἐν τῇ νήσῳ βασιλεύοντος, Τέκταφον τὸν Δώρου τοῦ Ἕλληνος, ὁρμήσαντα ἐκ τῆς ἐν Θετταλίᾳ τότε μὲν Δωρίδος, νῦν δὲ Ἱστιαιώτιδος καλουμένης, ἀφικέσθαι εἰς Κρήτην μετὰ Δωριέων τε καὶ Ἀχαιῶν καὶ Πελασγῶν, τῶν οὐκ ἀπαράντων εἰς Τυρρηνίαν. Strabo X: Ἄλλη δ’ ἄλλων γλῶσσα μεμιγμένη· (φησὶν ὁ ποιητὴς) ἐν μὲν Ἐν δ’ Ἐτεόκρητες μεγαλήτορες, ἐν δὲ Κύδωνες, [Ἀχαιοὶ,] Δωριέες τε τριχάϊκες, δῖοί τε Πελασγοί .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "... Τοὺς μὲν οὖν Ἐτεόκρητας καὶ τοὺς Κύδωνας αὐτόχθονας ὑπάρξαι, εἰκός· τοὺς δὲ λοιποὺς ἐπήλυδας, οὓς ἐκ Θετταλίας ἐλθεῖν φησὶν Ἄνδρων τῆς Δωρίδος μὲν πρότερον, νῦν δὲ τῆς Ἑστιαιώτιδος λεγομένης· ἐξ ἧς ὡρμήθησαν, ὥς φησιν, οἱ περὶ τὸν Παρνασὸν οἰκήσαντες Δωριεῖς· καὶ ἔκτισαν τήν τε Ἐρινεὸν καὶ Βόϊον καὶ Κυτίνιον, ἀφ’ οὗ καὶ Τριχάϊκες ὑπὸ τοῦ ποιητοῦ λέγονται. Οὐ πάνυ δὲ τὸν τοῦ Ἄνδρωνος λόγον ἀποδέχονται, τὴν μὲν τετράπολιν Δωρίδα τρίπολιν ἀποφαίνοντος, τὴν δὲ μητρόπολιν τῶν Δωριέων ἄποικον Θετταλῶν· τριχάϊκας δὲ δέχονται, ἤτοι ἀπὸ τῆς τριλοφίας, ἢ ἀπὸ τοῦ τριχίνους εἶναι τοὺς λόφους ἐφαμίλλους. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "ad Il. Π 235: [Σελλοὶ ἀνιπτόποδε ς] Ἄνδρων δὲ ἐν Ἱστορίαις φησὶν οὕτως κληθῆναι, ἐπεὶ φιλοπόλεμοι ὄντες οὕτως ἑαυτοὺς ἐσκληραγώγουν. Strabo X: Οὐδ’ Ἑλλάνικος (fr.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "103) Ὁμηρικὸς Δουλίχιον τὴν Κεφαλληνίαν λέγων. Τὸ μὲν γὰρ ὑπὸ Μέγητι εἴρηται καὶ αἱ λοιπαὶ αἱ Ἐχινάδες, οἵ τε ἐνοικοῦντες Ἐπειοί τε ἐξ Ἤλιδος ἀφιγμένοι· διόπερ καὶ τὸν Ὦτον τὸν Κυλλήνιον Φυλέως ἑταῖρον μεγαθύμων ἀρχὸν Ἐπειῶν καλεῖ· Αὐτὰρ Ὀδυσσεὺς ἦγε Κεφαλλῆνας μεγαθύμους. Οὔτ’ οὖν Δουλίχιον ἡ Κεφαλληνία καθ’ Ὅμηρον, οὔτε τῆς Κεφαλληνίας τὸ Δουλίχιον, ὡς Ἄνδρων φησί· τὸ μὲν γὰρ Ἐπειοὶ κατεῖχον, τὴν δὲ Κεφαλληνίαν ὅλην Κεφαλλῆνες· καὶ οἱ μὲν ὑπὸ Ὀδυσσεῖ, οἱ δ’ ὑπὸ Μέγητι. Οἱ δὲ Παλεῖς Δουλίχιον ὑφ’ Ὁμήρου λέγονται, ὡς γράφει Φερεκύδης. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "Il. A, 52: Ἡ δὲ αἰτία τοῦ καίεσθαι τὰ σώματα παρὰ τοῖς Ἕλλησιν αὕτη. Πρῶτος, φασὶν, οὕτως ἐτάφη Ἀργεῖος ὁ Λικυμνίου δι’ ἀνάγκην ὑπὸ Ἡρακλέους. Συναγαγόντος γὰρ, φασὶ, στρατιὰν ἐπὶ Ἴλιον Ἡρακλέους διὰ τὸ Λαομέδοντα παρὰ σύνταξιν ποιῆσαι Ἡρακλεῖ σώσαντι τοῦ κήτους τὴν θυγατέρα αὐτοῦ Ἡσιόνην, καὶ μὴ δοῦναι τοὺς ἵππους οὓς ὑποσχόμενος ἦν αὐτῷ ὑπὲρ τῆς τοσαύτης εὐεργεσίας, ἐπεζήτει καὶ τὸν Ἀργεῖον ὡσανεὶ οἰκεῖον. Λικύμνιον δέ φασι τὸν πατέρα Ἀργείου, φοβούμενον ὅτι καὶ τὸν πρότερον αὐτοῦ υἱὸν ὀνόματι Οἰωνὸν ἀποστείλας εἰς Λακεδαίμονα μεθ’ Ἡρακλέους ἀπέβαλεν, οὐ βούλεσθαι προΐεσθαι τοῦτον, ἕως Ἡρακλῆς ὤμοσεν ἀπάξειν πάλιν αὐτόν. Τότε οὖν συμπεσούσης τῷ Ἀργείῳ τῆς τοῦ βίου τελευτῆς, διαπορηθεὶς ὁ Ἡρακλῆς πῶς ἂν ἐπιτελέσοι τὸν ὅρκον, ἔκαυσεν αὐτὸν, καὶ πρῶτόν φασι τοῦτον τοιαύτης ἐπιμελείας τυχεῖν. Ἡ ἱστορία παρὰ Ἄνδρωνι. Eustathius ad Homeri Od.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "Δ, 517,: Ὁ δὲ ῥηθεὶς ἀγρὸς, φασὶν οἱ παλαιοὶ, ὅτι κατὰ τὸν ἱστορικὸν Ἄνδρωνα ὑφίσταται περὶ Κύθηρα εἶναι, ὅπου, φασὶν, ἡ τοῦ Θυέστου οἴκησις. E LIBRO OCTAVO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10 (t1)",
+      "text": "ΑΤΘΙΣ. Harpocratio: Φορβαντεῖον. Ὅτι τὸ Ἀθήνησιν Φορβαντεῖον ὠνομάσθη ἀπὸ Φόρβαντος βασιλεύσαντος Κουρήτων καὶ ὑπ’ Ἐρεχθέως ἀναιρεθέντος, δεδήλωκεν Ἄνδρων ἐν ηʹ Συγγενειῶν. Ἦν δὲ Ποσειδῶνος υἱὸς ὁ Φόρβας, καθά φησιν Ἑλλάνικος ἐν αʹ Ἀτθίδος. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "Sophocl. Oed. Col. 1046: Ἄνδρων μὲν οὖν γράφει, οὐ τὸν [πρῶτον] Εὔμολπον εὑρεῖν τὴν μύησιν, ἀλλ’ ἀπὸ τούτου Εὔμολπον πέμπτον γεγονότα. Εὐμόλπου γὰρ γενέσθαι Κήρυκα· τοῦ δὲ Εὔμολπον· τοῦ δὲ Ἀντίφημον· τοῦ δὲ Μουσαῖον τὸν ποιητήν· τοῦ δὲ Εὔμολπον τὸν καταδείξαντα τὴν μύησιν, καὶ ἱεροφάντην γεγονότα. Strabo IX: Οἵτε δὴ τὴν Ἀτθίδα συγγράψαντες, πολλὰ διαφωνοῦντες, τοῦτό γε ὁμολογοῦσιν, οἵ γε λόγου ἄξιοι, ὅτι, τῶν Πανδιονιδῶν τεσσάρων ὄντων, Αἰγέως τε καὶ Λύκου καὶ Πάλλαντος καὶ τοῦ τετάρτου Νίσου, καὶ τῆς Ἀττικῆς εἰς τέτταρα μέρη διαιρεθείσης, ὁ Νίσος τὴν Μεγαρίδα λάχοι, καὶ κτίσαι τὴν Νίσαιαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12",
+      "text": "Φιλόχορος (fr. 35) μὲν οὖν ἀπὸ Ἰσθμοῦ μέχρι Πυθίου διήκειν αὐτοῦ φησὶ τὴν ἀρχήν· Ἄνδρων δὲ μέχρι Ἐλευσῖνος καὶ τοῦ Θριασίου πεδίου. Plutarchus Thes.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13",
+      "text": "c. 25: Ἔνιοι δέ φασιν ἐπὶ Σκείρωνι τὰ Ἴσθμια τεθῆναι τοῦ Θησέως ἀφοσιουμένου τὸν φόνον διὰ τὴν συγγένειαν· Σκείρωνα γὰρ υἱὸν εἶναι Κανήθου καὶ Ἡνιόχης τῆς Πιτθέως. Οἱ δὲ Σίνιν, οὐ Σκείρωνα· καὶ τὸν ἀγῶνα τεθῆναι διὰ τοῦτον ὑπὸ Θησέως, οὐ δι’ ἐκεῖνον. * Ἔταξεν οὖν καὶ διωρίσατο πρὸς τοὺς Κορινθίους, Ἀθηναίων τοῖς ἀφικνουμένοις ἐπὶ τὰ Ἴσθμια παρέχειν προεδρίαν, ὅσον ἂν τόπον ἐπίσχῃ καταπετασθὲν τὸ τῆς θεωρίδος νεὼς ἱστίον, ὡς Ἑλλάνικος καὶ Ἄνδρων ὁ Ἁλικαρνασσεὺς ἱστορήκασιν. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14",
+      "text": "Arist. Ran. 1422: [ Πρῶτον μὲν οὖν περὶ Ἀλκιβιάδο υ] Περὶ τῆς δευτέρας αὐτοῦ λέγει ἀποχωρήσεως, ἣν ἑκὼν ἔφυγε, κατελθὼν μὲν ἐπὶ Ἀντιγένους (Olymp. 93, 3) πρὸ ἐνιαυτοῦ τῶν Βατράχων, διὰ δὲ τὸ πιστεῦσαι Ἀντιόχῳ τῷ κυβερνήτῃ τὸ ναυτικὸν καὶ ἡττηθῆναι ὑπὸ Λυσάνδρου δυσχερανθεὶς ὑπ’ Ἀθηναίων. [Ἄνδρων δὲ διαφέρεται πρὸς Ξενοφῶντα περὶ τῆς καθόδου. Καλλίστρατος δέ φησιν ὅτι οὗτος ἦν ὁ καιρὸς, καθ’ ὃν ἔφυγεν ὁ Ἀλκιβιάδης. Ὁ δὲ Ἀρίσταρχός φησι, καθ’ ὃν ἐκπεσὼν ἐν Λακεδαίμονι διατρίβων ἔπεισε Λακεδαιμονίους Ἀθηναίοις Δεκέλειαν ἐπιτειχίσαι.] ΕΠΙΤΟΜΗ ΤΩΝ ΣΥΓΓΕΝΕΙΩΝ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "Schol. Apollon. Rh. I, 46: Ἄνδρων δὲ ἐν τῇ Ἐπιτομῇ τῶν συγγενειῶν Θεογνήτην τὴν θυγατέρα Λαοδίκου, μητέρα Ἰάσονος γεγονέναι φησίν. ΠΕΡΙ ΘΥΣΙΩΝ ΠΡΟΣ ΦΙΛΙΠΠΟΝ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "t16",
+      "text": "E LIBRO QUARTO. Apollonius Hist.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16",
+      "text": "Mir. c. 8: Ἄνδρων ἐν τῇ δʹ τῶν πρὸς Φίλιππον θυσιῶν· κορώνη ἐν τῇ Ἀττικῇ εἰς τὴν ἀκρόπολιν οὐδεμία ἑώραται εἰσερχομένη, καθάπερ οὐδὲ ἐν Πάφῳ περὶ τὰ θυρώματα τὰ τῆς Ἀφροδίτης μυῖα ἐφιπταμένη.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "bbs-ac",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "theognis-of-megara-epigrams-bbs-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/theognis-of-megara/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-megara-epigrams-bbs-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-megara-epigrams-bbs-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-megara-epigrams-bbs-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-megara-epigrams-bbs-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-megara/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "pdc-ah",
+      "title": {
+        "english": "First Civil War",
+        "ancient_greek": "Ἐμφυλίων Πρώτη"
+      },
+      "url_slug": "appian-of-alexandria-first-civil-war-pdc-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/first-civil-war",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-first-civil-war-pdc-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-first-civil-war-pdc-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-first-civil-war-pdc-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-first-civil-war-pdc-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/first-civil-war.epub"
+      }
+    },
+    {
+      "eul_wid": "jis-aa",
+      "title": {
+        "english": "Fragments on Mythical Origins",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μυθικῶν Ἀρχῶν"
+      },
+      "url_slug": "promathion-the-historian-mythical-origins-jis-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/promathion-the-historian/mythical-origins",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/promathion-the-historian-mythical-origins-jis-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/promathion-the-historian-mythical-origins-jis-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/promathion-the-historian-mythical-origins-jis-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/promathion-the-historian-mythical-origins-jis-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/promathion-the-historian/mythical-origins.epub"
+      }
+    },
+    {
+      "eul_wid": "jkq-aa",
+      "title": {
+        "english": "Fragments on Mythology",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μυθολογίας"
+      },
+      "url_slug": "possis-of-magnesia-mythology-jkq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/possis-of-magnesia/mythology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/possis-of-magnesia-mythology-jkq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/possis-of-magnesia-mythology-jkq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/possis-of-magnesia-mythology-jkq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/possis-of-magnesia-mythology-jkq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/possis-of-magnesia/mythology.epub"
+      }
+    },
+    {
+      "eul_wid": "ezq-ah",
+      "title": {
+        "english": "On Hunting",
+        "ancient_greek": "Κυνηγετικός"
+      },
+      "url_slug": "xenophon-of-athens-hunting-ezq-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/hunting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-hunting-ezq-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-hunting-ezq-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-hunting-ezq-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-hunting-ezq-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hunting.epub"
+      }
+    },
+    {
+      "eul_wid": "lqs-aa",
+      "title": {
+        "english": "On the Temple at Ephesus",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "democritus-of-ephesus-temple-lqs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/democritus-of-ephesus/temple",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-ephesus-temple-lqs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-ephesus-temple-lqs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-ephesus-temple-lqs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-ephesus-temple-lqs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-ephesus/temple.epub"
+      }
+    },
+    {
+      "eul_wid": "rhq-ab",
+      "title": {
+        "english": "Roman Histories, John of Antioch's Excerpts Derived from Dion",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-roman-histories-excerpts-rhq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-excerpts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-roman-histories-excerpts-rhq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-roman-histories-excerpts-rhq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-roman-histories-excerpts-rhq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-roman-histories-excerpts-rhq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-excerpts.epub"
+      }
+    },
+    {
+      "eul_wid": "jds-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "phylarchus-of-athens-testimonies-jds-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/phylarchus-of-athens/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phylarchus-of-athens-testimonies-jds-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phylarchus-of-athens-testimonies-jds-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phylarchus-of-athens-testimonies-jds-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phylarchus-of-athens-testimonies-jds-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phylarchus-of-athens/testimonies.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/andron-of-halicarnassus-i/genealogies",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-halicarnassus-i-genealogies-bpe-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-halicarnassus-i-genealogies-bpe-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-halicarnassus-i-genealogies-bpe-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-halicarnassus-i-genealogies-bpe-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-halicarnassus-i/genealogies.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

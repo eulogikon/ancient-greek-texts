@@ -1,0 +1,175 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "bhm",
+  "auth_slug": "epicharmus-syracuse",
+  "name": {
+    "english": "Epicharmus of Syracuse",
+    "ancient_greek": "Ἐπίχαρμος ὁ Συρακόσιος"
+  },
+  "seo_h1": "Comic Drama in the Fragments of Epicharmus of Syracuse",
+  "seo": {
+    "browser_title": "The Epicharmus of Syracuse on Eulogikon Greek Archive",
+    "meta_title": "Classical Epicharmus Ancient Greek Comedy and Fragments",
+    "meta_description": "Epicharmus of Syracuse was an archaic Doric comic playwright. Surviving fragments from seven works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Epicharmus of Syracuse was a comic poet active in the late 6th and early 5th centuries BCE. Associated with the court of the tyrants Gelon and Hieron I in Syracuse, he is considered a foundational figure in the development of comic drama, credited by Aristotle as an originator of the form. Ancient sources place his floruit during the reign of Hieron I, and he was a contemporary of Pythagoras, whose ideas appear in some fragments.</p>\n<p class=\"research-text\">His numerous comedies survive only in fragments and titles. Known plays include mythological burlesques such as The Cyclops, The Sack of Troy, and The Marriage of Hebe. The Suda attributes 52 comedies to him, written in Doric Greek.</p>\n<p class=\"research-text\">Epicharmus holds a crucial place in literary history as a pioneer of comic plot construction, representing a major Doric tradition distinct from Athenian Old Comedy. The philosophical wit in his fragments, showing Heraclitean and Pythagorean influence, was later admired by Plato.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 7,
+  "works": [
+    {
+      "eul_wid": "bhm-af",
+      "title": {
+        "english": "Fragments of Comic Wisdom",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κωμικῆς Σοφίας"
+      },
+      "url_slug": "epicharmus-syracuse-comic-wisdom-bhm-af",
+      "passages": 6,
+      "links": {
+        "html": "https://eulogikon.org/grc/epicharmus-syracuse/comic-wisdom",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-comic-wisdom-bhm-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-comic-wisdom-bhm-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-comic-wisdom-bhm-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-comic-wisdom-bhm-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/comic-wisdom.epub"
+      }
+    },
+    {
+      "eul_wid": "bhm-ac",
+      "title": {
+        "english": "Fragments of Epicharmus",
+        "ancient_greek": "Ἐπιχάρμου Ἀποσπάσματα"
+      },
+      "url_slug": "epicharmus-syracuse-fragments-ac-bhm-ac",
+      "passages": 317,
+      "links": {
+        "html": "https://eulogikon.org/grc/epicharmus-syracuse/fragments-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-fragments-ac-bhm-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-fragments-ac-bhm-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-fragments-ac-bhm-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-fragments-ac-bhm-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "bhm-ad",
+      "title": {
+        "english": "Fragments of Epicharmus",
+        "ancient_greek": "Ἐπιχάρμου Ἀποσπάσματα"
+      },
+      "url_slug": "epicharmus-syracuse-fragments-ad-bhm-ad",
+      "passages": 38,
+      "links": {
+        "html": "https://eulogikon.org/grc/epicharmus-syracuse/fragments-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-fragments-ad-bhm-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-fragments-ad-bhm-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-fragments-ad-bhm-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-fragments-ad-bhm-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ad.epub"
+      }
+    },
+    {
+      "eul_wid": "bhm-ab",
+      "title": {
+        "english": "Fragments of Pseudepicharmea",
+        "ancient_greek": "Ψευδεπιχάρμου Ἀποσπάσματα"
+      },
+      "url_slug": "epicharmus-syracuse-pseudepicharmea-ab-bhm-ab",
+      "passages": 8,
+      "links": {
+        "html": "https://eulogikon.org/grc/epicharmus-syracuse/pseudepicharmea-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-pseudepicharmea-ab-bhm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-pseudepicharmea-ab-bhm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-pseudepicharmea-ab-bhm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-pseudepicharmea-ab-bhm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/pseudepicharmea-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "bhm-aa",
+      "title": {
+        "english": "Fragments of Pseudepicharmea",
+        "ancient_greek": "Ψευδεπιχάρμου Ἀποσπάσματα"
+      },
+      "url_slug": "epicharmus-syracuse-pseudepicharmea-aa-bhm-aa",
+      "passages": 88,
+      "links": {
+        "html": "https://eulogikon.org/grc/epicharmus-syracuse/pseudepicharmea-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-pseudepicharmea-aa-bhm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-pseudepicharmea-aa-bhm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-pseudepicharmea-aa-bhm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-pseudepicharmea-aa-bhm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/pseudepicharmea-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "bhm-ag",
+      "title": {
+        "english": "Gnomic and Comic Wisdom Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "epicharmus-syracuse-gnomic-comic-wisdom-bhm-ag",
+      "passages": 77,
+      "links": {
+        "html": "https://eulogikon.org/grc/epicharmus-syracuse/gnomic-comic-wisdom",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-gnomic-comic-wisdom-bhm-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-gnomic-comic-wisdom-bhm-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-gnomic-comic-wisdom-bhm-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-gnomic-comic-wisdom-bhm-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/gnomic-comic-wisdom.epub"
+      }
+    },
+    {
+      "eul_wid": "bhm-ae",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "epicharmus-syracuse-testimonies-bhm-ae",
+      "passages": 14,
+      "links": {
+        "html": "https://eulogikon.org/grc/epicharmus-syracuse/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-testimonies-bhm-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-testimonies-bhm-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-testimonies-bhm-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-testimonies-bhm-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/testimonies.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/epicharmus-syracuse",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicharmus-syracuse-bhm.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicharmus-syracuse-bhm.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicharmus-syracuse-bhm.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicharmus-syracuse-bhm.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

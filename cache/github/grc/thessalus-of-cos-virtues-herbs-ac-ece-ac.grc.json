@@ -1,0 +1,543 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ece-ac",
+  "eul_aid": "ece",
+  "author_slug": "thessalus-of-cos",
+  "work_slug": "virtues-herbs-ac",
+  "url_slug": "thessalus-of-cos-virtues-herbs-ac-ece-ac",
+  "author": {
+    "english": "Thessalus of Cos",
+    "ancient_greek": "Θεσσαλός ὁ Κῷος"
+  },
+  "title": {
+    "english": "On the Virtues of Herbs",
+    "ancient_greek": "Περὶ τῶν ἀρετῶν τῶν βοτάνων"
+  },
+  "seo": {
+    "browser_title": "On the Virtues of Herbs by Thessalus of Cos on Eulogikon",
+    "meta_title": "On the Virtues of Herbs by Thessalus of Cos in Greek",
+    "meta_description": "A 1st century CE medical text on plant properties by Thessalus of Cos. Ancient pharmacology. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On the Virtues of Herbs</strong> is a 1st-century CE medical treatise by the physician Thessalus of Cos, who practiced in Rome during the reign of Emperor Nero and was a founder of the Methodist school of medicine. The work is a practical handbook comprising 41 concise entries, each dedicated to a specific medicinal plant. A typical entry provides the herb&#x27;s name, details its primary healing property or &quot;virtue,&quot; and offers precise instructions for its preparation and application to treat specific ailments. The text is fundamentally empirical, focusing on straightforward recipes and direct cures, and it exemplifies the kind of applied herbal knowledge prevalent in the Roman Empire.</p>\n<p class=\"research-text\">Although Thessalus is historically associated with promoting a simplified theoretical system in medicine, this treatise aligns more closely with traditional herbal lore than with explicit Methodist doctrine. Scholars regard it primarily as a practical compendium, reflecting a broader first-century trend toward the systematization of pharmacological knowledge. The complete text survives, offering valuable insight into the everyday practice of Greco-Roman medicine. Its influence, however, was later eclipsed by more comprehensive pharmacological works, such as those of Dioscorides.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1 1 t",
+      "text": "〈Α〉ἱ βοτάναι τῶν ιβʹ ζῳδίων ἐκδοθεῖσαι παρὰ Ἑρμοῦ 〈Κριοῦ βοτάνη ἐλελίσφακοσ〉 Σύλλεγε ἀπὸ Φαμενὼθ ⸤ δευτέρας καὶ εἰκάδοσ ⸥ , κατὰ δὲ Ῥωμαίους ἀπὸ τῆς πρὸ ιεʹ Καλανδῶν Ἀπριλλίου· Κριοῦ ἐστιν βοτάνη ἐλελίσφακον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 1 2",
+      "text": "αὕτη δυνάμεις ἔχει πλείστας. ποιεῖ γὰρ πρός τε αἵματος ἀναγωγὴν ⸤ καὶ ⸥ φθισικοὺς καὶ σπληνικοὺς καὶ ὑστερικὰς διαθέσεις. πρὸς ⸤ μὲν ⸥ οὖν αἵματος ἀναγωγὴν εἰς τρεῖς κυάθους τοῦ χυλοῦ βάλλεται μέλιτος Ἀττικοῦ οὐγγία αʹ καὶ νήστῃ δίδοται πίνειν καὶ εὐθέως ἵσταται ἡ φορὰ τοῦ αἵματος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 1 4",
+      "text": "τοῖς δὲ φθισικοῖς σκευάζεται καταπότιον· κρόκου κωρυκίου δρ. αʹ, ναρδοστάχυος δρ. βʹ, τοῦ σπέρματος τοῦ ἐλελισφάκου πεφρυγμένου καὶ σεσημένου ⸤ δρ. γʹ ⸥ , πεπέρεως μακροῦ δρ. βʹ. ἀναλάμβανε τῷ χυλῷ καὶ ποίει καταπότια ἡμίδραχμα καὶ δίδου γʹ νήστει πρωὶ καὶ γʹ εἰς κοίτην. κατὰ πρωὶ δὲ ἐπιρροφείτω ὕδατος καθαροῦ κυάθους βʹ. τοῖς δὲ σπληνικοῖς γίνεται καταπότιον οὕτω· καππάρεως ⸤ τῆσ ⸥ ῥίζης κεκομμένης καὶ σεσημένης δρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 1 5",
+      "text": "βʹ, κισσοῦ μέλανος τοῦ καρποῦ δρ. θʹ, μύρτων λευκῶν δρ. δʹ, σμύρνης δρ. θʹ. λεῖα ποιήσας ἀναλάμβανε τῷ χυλῷ καὶ ποίει καταπότια καὶ δίδου {τῷ} πρωὶ αʹ καὶ εἰς κοίτην αʹ ἢ καὶ βʹ. ἐχέτω δὲ τὸ καταπότιον δρ. αʹ. πρὸς ⸤ δὲ τὰσ ⸥ ὑστερικὰς {δὲ} διαθέσεις, οἷον πρὸς ὑστέρας σκληρίας καὶ ῥευματισμοὺς καὶ τὰς ἐπιμόνους ἀρρωστήσεις, σκευάζεται ἄκοπον οὕτως· κηροῦ τυρρηνικοῦ δρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 1 6",
+      "text": "δʹ, μυελοῦ ἐλαφείου δρ. ηʹ, ῥόδων ξηρῶν κεκομμένων καὶ σεσημένων δρ. δʹ, στέατος χηνείου δρ. ϛʹ, ⸤ τοῦ ⸥ χυλοῦ τῆς βοτάνης κυάθους δʹ. τὰ τηκτὰ ἐνίεται καὶ ἐμβάλλεται τὰ ξηρά· τὸν χυλὸν ἕψε, ἕως ἀποτεταρτωθῇ, εἶτ’ ἀπόθου εἰς ἄγγος κασσιτέρινον· χρῶ δὲ ἐπὶ τῶν χρειῶν· ἐὰν δὲ χαλεπὴ ⸤ λίαν ⸥ ἡ διάθεσις, ἕψησον τὴν βοτάνην σὺν ταῖς ῥίζαις καὶ ἐγκαθίσματι χρῶ. γίνεται δὲ ἐνεργέστερον μάλαγμα πρὸς νεφριτικοὺς καὶ ἰσχιαδικούς· κηροῦ δρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 1 7",
+      "text": "ηʹ, Ἀμμωνιακοῦ δρ. ιϛʹ, καλαμίνθης δρ. θʹ, κεδρίας δρ. ιηʹ, στέατος ταυρείου δρ. ιδʹ, τῆς ῥίζης κεκομμένης καὶ σεσημένης δρ. λβʹ. τὰ ξηρὰ τοῖς ὑγροῖς ἀναλαμβάνων χρῶ. 〈Ταύρου βοτάνη περιστερεὼν ὀρθόσ〉 Σύναγε τοῦτο ἀπὸ ⸤ τῆς πρὸ ⸥ ιδʹ ⸤ καλανδῶν ⸥ τοῦ Μαίου· 〈Τ〉αύρου βοτάνη, περιστερεὼν ὀρθός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 2 2",
+      "text": "καὶ ταύτης ⸤ αἱ ⸥ ἐνέργειαί εἰσιν μηδὲ πιστεύεσθαι δυνάμεναι. τὰς γὰρ ἀπηλπισμένας ὀφθαλμικὰς διαθέσεις ἀπολύει ἐπὶ τῇ ποιότητι τῆς σκευασίας. πρὸς μὲν οὖν ὀφθαλμίας καὶ οἰδήματα καὶ ἐμφυσήματα καὶ πᾶσαν ἐπιφορὰν τούτῳ χρῶ ⸤ κολλουρίῳ ⸥ · 〈 .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 2 3",
+      "text": "..... 〉 πρὸς δὲ πᾶν ῥεῦμα ἄφεψε τὴν βοτάνην σὺν ταῖς ῥίζαις καὶ χρῶ προσκλύσματι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 2 4",
+      "text": "παραχρῆμα γὰρ ἵστησι. πρὸς δὲ τὰς γλαυκώσεις καὶ συκώσεις καὶ ὑποχύσεις καὶ τὰς ἀπεγνωσμένας διαθέσεις ὑγρὰ{ς} σκευάζεται οὕτως· ὀποπάνακος δρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 2 5",
+      "text": "ηʹ, μέλιτος Ἀττικοῦ δρ. βʹ, ⸤ πεπέρεως λευκοῦ δρ. βʹ, ὀποβαλσάμου δρ. βʹ ⸥ , τῆς ῥίζης τοῦ περιστερεῶνος κεκομμένης καὶ σεσημένης δρ. ϛʹ, χολῆς ὑαίνης ἢ αἰγείας δρ. ϛʹ, τοῦ χυλοῦ κυάθους βʹ. τὰ ξηρὰ τοῖς ὑγροῖς ἀναλαμβάνων χρῶ. αὕτη ἡ δύναμις τὰς μὲν προγεγραμμένας διαθέσεις ἐν τρισὶν ἡμέραις ἀπαλλάττει, τὰ δὲ πτερύγια καὶ λευκώματα καὶ χαλάζια καὶ τὰ τούτοις ὅμοια ἐν μιᾷ ἡμέρᾳ {ἀπαλλάττει}. οὐκ ἔστι δὲ εὐχέρεια μετ’ εὐλογίας ἔπαινον λέγειν ἑκάστης δυνάμεως· δείξει γὰρ ἡ πεῖρα τὴν ἐνέργειαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 3 t",
+      "text": "〈Διδύμων βοτάνη περιστερεὼν ὕπτιοσ〉 Σύναγε ταύτην ἀπὸ τῆς πρὸ ιγʹ καλανδῶν Ἰουνίων· 〈β〉οτάνη τῶν Διδύμων περιστερεὼν ὕπτιος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 3 2",
+      "text": "Τούτου ὁμοίως ὁ χυλὸς λαμβάνεται καὶ σκευάζεται φάρμακον ἐνεργέστατον πρὸς κονδυλώματα καὶ καρκινώματα καὶ τὰς λεγομένας συκώσεις. σκευάζεται δὲ οὕτως· κρόκου δρ. βʹ, ῥόδων ξηρῶν δρ. ηʹ, μελιλώτων ποντικῶν δρ. ιβʹ, στυπτηρίας σχιστῆς δρ. ηʹ. ταῦτα λειοποιήσας σμίγε τοῦ χυλοῦ τῆς βοτάνης δρ. δʹ καὶ ἕψε ἐν χύτρᾳ καινῇ, ἕως ἂν γένηται μέλιτος πάχος, καὶ χρῶ· θεραπεύει δὲ καὶ τὰ ἐν στόματι καὶ παρισθμίοις καὶ τὰ ἐν σώματι πάντα κακόχυμα αἴτια. 〈Καρκίνου βοτάνη σύμφυτον〉 Σύναγε ταύτην ἀπὸ τῆς πρὸ ιγʹ καλανδῶν Ἰουλίου· 〈β〉οτάνη Καρκίνου τὸ σύμφυτον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 4 3",
+      "text": "Ταύτης {γὰρ} ἡ ῥίζα καὶ ὁ {καρπὸς} χυλὸς πολλὰς ἐνεργείας ἔχει. ἐκ μὲν οὖν τῆς ῥίζης ἔμπλαστρον σκευάζεται, ὅπερ τραύματα καὶ διακοπέντα ⸤ νεῦρα ⸥ κολλᾷ. ⸤ σκευάζεται δὲ οὕτως· ⸥ {ἤγουν} κηροῦ δρ. ηʹ, μυελοῦ ἐλαφείου δρ. ιβʹ, μάννης Λιβάνου δρ. καʹ, ῥητίνης ὑγρᾶς δρ. κδʹ, τῆς ῥίζης κεκομμένης καὶ σεσημένης δρ. λβʹ, ἐλαίου ῥοδίνου δρ. κδʹ, μέλιτος Ἀττικοῦ δρ. ϛʹ, 〈κρόκου δρ. βʹ〉 —παρ’ ἐνίοις μέλι οὐκ ἔστιν οὐδὲ κρόκος ἐγκείμενος— {κρόκου δρ. βʹ}. τὰ ξηρὰ τοῖς ὑγροῖς ἀναλαμβάνων χρῶ. πρὸς δὲ τὰ ἐν θώρακι ῥήγματα ἀρτηριῶν καὶ φλεβῶν καὶ τὰς τοῦ αἵματος ἀναγωγὰς σκευάζεται {δὲ} διὰ τοῦ χυλοῦ τροχίσκος τὸν τρόπον τοῦτον· σελίνου σπέρματος δρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 4 4",
+      "text": "ϛʹ, ⸤ ἀνήσσου δρ. δʹ ⸥ —παρ’ ἐνίοις ⸤ δ’ ⸥ ⸤ ἀντὶ ἀνήσσου ⸥ ἀνήθου {δρ. δʹ} —, κρόκου δρ. δʹ, ἀκόρου δρ. γʹ, τῆς ῥίζης κεκομμένης καὶ σεσημένης δρ. ιγʹ. ἀναλάμβανε τῷ χυλῷ καὶ ποίει τροχίσκους ἄγοντας ⸤ ἀνὰ ⸥ δρ. αʹ καὶ δίδου ⸤ νήστῃ ⸥ ἕνα· στήσει δὲ καὶ καταμήνια γυναικός, ὅταν παρὰ φύσιν φέρηται. πρὸς δὲ τὰ ῥήγματα ἐν ὀφθαλμοῖς τῶν χιτώνων γινόμενα καὶ τὰς διαβρώσεις γίνεται διὰ χυλοῦ κολλύριον· ψιμυθίου δρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 4 5",
+      "text": "ηʹ, κρόκου δρ. ϛʹ, νάρδου Ἰνδικῆς δρ. αʹ, μελιλώτων δρ. ιβʹ, κόμμεως δρ. ιʹ, παρ’ ἐνίοις γʹ. τῷ χυλῷ ἀναλάμβανε καὶ ποιήσας κολλύριον χρῶ. 〈Λέοντος βοτάνη κυκλάμινοσ〉 Σύναξον ἀπὸ τῆς πρὸ ιʹ 〈καλανδῶν〉 τοῦ Αὐγούστου {καὶ εἰς τὰς ιεʹ}· Λέοντος βοτάνη κυκλάμινος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 5 2",
+      "text": "ταύτης τὸ μὲν φύλλον ἄχρηστόν ἐστιν, ἡ δὲ ῥίζα θαυμασιωτάτη καὶ καθυγροτάτη, ὥστε τὸν χυλὸν ἐξ αὐτῆς λαμβάνεσθαι. ἐὰν οὖν εἰς τὸν χυλὸν βάλῃς ἴσον ⸤ ἴσῳ μέλιτοσ ⸥ καὶ ἐνιῇς {μέλιτι} εἰς τὰς ῥῖνας, τὰς ἐκ τῆς κεφαλῆς καὶ τοῦ θώρακος φλεγμονὰς παύει. κατακοπτομένη δὲ καὶ μέλιτι {καὶ μέλιτι} καὶ λυκίῳ ἀναλαμβανομένη τάχιστα θεραπεύει τὰ ἐν τοῖς αἰδοίοις καὶ μυκτῆρσιν ἕλκη, ὁμοίως καὶ τὰ {ἐν} ἐν τῷ στόματι· στερεοῖ δὲ καὶ τοὺς κινουμένους ὀδόντας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 5 3",
+      "text": "ἐὰν δὲ καὶ καταμήνια γυναικῶν θέλῃς καταγαγεῖν, εἰς ἔριον βάλε ἐκ τοῦ φαρμάκου καὶ δίδου ἀποθέσθαι καὶ παραχρῆμα ἐνεργεῖ. ποιεῖ δὲ καὶ πρὸς τὰς σωματικὰς διαθέσεις· ἔμπλαστρον δὲ διὰ τῆς ῥίζης σκευάζεται οὕτως· κηροῦ δρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 5 4",
+      "text": "ιβʹ, ῥητίνης ὑγρᾶς δρ. ϛʹ, λιθαργύρου δρ. θʹ, τῆς ῥίζης σεσημένης δρ. λʹ, ἐλαίου παλαιοῦ δρ. κδʹ. τὰ ξηρὰ τοῖς ὑγροῖς ἀναλαμβάνων χρῶ. αὕτη ἡ δύναμις χοιράδας καὶ ἀποστήματα, {καὶ} πελιώματά ⸤ τε καὶ ⸥ στεατώματα, ἀθερώματα ⸤ καὶ ⸥ δοθ〈ι〉ῆνας καὶ πάντα τὰ τυλώδη σκληρώματα διαφορεῖ ⸤ καὶ ⸥ ἔμπυα ἔχοντα ῥήσσει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 5 5",
+      "text": "ὅταν δὲ {ἐν} ῥήξῃ, χρῶ τῇ ἐπάνω δυνάμει τῇ διὰ τοῦ λυκίου καὶ τοῦ μέλιτος· αὕτη γὰρ ἀνακαθαίρει καὶ κατουλοῖ. {πίνεται τὸ ἀφεψημένον τῆς ῥίζης τῆς βοτάνης τοῦ Λέοντος μετ’ οἴνου εἰς τὰ θανάσιμα· καὶ μάλιστα πρὸς θαλασσίων καὶ ἑρπετῶν καταπλασσομένη ἔστιν ἀντιφάρμακον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 5 6",
+      "text": "} 〈Παρθένου βοτάνη καλαμίνθη〉 Σύναξον ταύτην ἀπὸ τῆς πρὸ ιαʹ 〈καλανδῶν〉 τοῦ Σεπτε〈μ〉βρίου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 6 2",
+      "text": "〈Π〉αρθένου βοτάνη καλαμίνθη, δυνάμεις ἔχουσα λίαν θαυμάζεσθαι δυναμένας· σκευάζεται δὲ φάρμακον τοιοῦτον· λαβὼν ψιμυθίου ὅσον θέλεις, εἶτα ῥοδίνου, καὶ τῷ χυλῷ τῆς βοτάνης ἀναλαμβάνων, ὡς γενέσθαι γλοιοῦ {τὸ} πάχος, ἐπίχριε τὰ πυρίκαυστα καὶ θεραπεύει· τὸ δὲ παράδοξόν ἐστι τοιοῦτον, ὅτι οὐλὴ οὐ φαίνεται καὶ τριχοφυεῖ· ἀπαλλάσσει δὲ ἐν τάχει καὶ τὰ ἐρυσιπέλατα. κἂν 〈τὸν χυλὸν〉 ἴσον ἴσῳ μίξῃς μετὰ ῥοδίνου καὶ συγχρίσῃς πυρέσσοντας, ἀπαλλάξεις τοῦ πάθους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 6 3",
+      "text": "ἐὰν δὲ καὶ Κιμωλίας καὶ ἀλόης 〈καὶ τοῦ χυλοῦ〉 ἴσα ἴσοις ἀναλαβὼν ποιήσῃς γλοιοῦ πάχος καὶ κεφαλαλγοῦντας τὸ μέτωπον καὶ τοὺς κροτάφους χρίσῃς, παύσεις παραχρῆμα τὴν ὀδύνην. 〈Ζυγοῦ βοτάνη σκορπίουρον〉 Σύναξον ταύτην ἀπὸ τῆς πρὸ ιγʹ 〈καλανδῶν〉 τοῦ Ὀκτωβρίου· 〈Ζ〉υγοῦ βοτάνη σκορπίουρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 7 2",
+      "text": "Ἔστι δὲ ταύτης δύο εἴδη· καὶ ἐκ μὲν τῶν φύλλων διάγνωσιν οὐκ ἔχει· φέρει δὲ καρπόν, ἡ μὲν κυάμου παρόμοιον, ἡ δὲ σταφυλῆς μελαίνης· τὰς μέντοι δυνάμεις ἔχουσι διαφόρους· † χυλήσωμεν τὰς τῆς κυανωτέρας καὶ λαμβάνεται αὐτῆς ὁ χυλὸς τοῦ τε καρποῦ καὶ τῶν φύλλων καὶ σκευάζεται καταπότιον ὑδρωπικοῖς· κνίκου τοῦ καρποῦ δρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 7 3",
+      "text": "δʹ, ἀλόης δρ. ηʹ, κόκκου κνιδίου δρ. βʹ, σκαμμωνίας δρ. αʹ. ἀναλάμβανε τῷ χυλῷ καὶ ποίει {τὰ} καταπότια ἄγοντα ⸤ ἀνὰ ⸥ δρ. αʹ καὶ δίδου νήστῃ, τοῖς μὲν ἀρχὴν ἔχουσιν {δρ.} αʹ, τοῖς δὲ διωγκωμένοις λίαν {δρ.} βʹ. ἐκ δὲ τοῦ χυλοῦ τοῦ καρποῦ σκευάζεται πρὸς ἐλεφαντιῶντας 〈φάρμακον〉 τὸν τρόπον τοῦτον· κολοφωνίας δρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 7 4",
+      "text": "δʹ, ὀποῦ μήκωνος δρ. ηʹ, μύρτων μελάνων δρ. ιδʹ, στάχυος δρ. ηʹ, ἴρεως Ἰλλυρικῆς κεκομμένης καὶ σεσημένης δρ. ιβʹ· ἀναλάμβανε τῷ χυλῷ καὶ ποίει τροχίσκους καὶ δίδου τοῖς μὲν ἀρχομένοις {καὶ δίδου τοῖς μὲν ἀρχομένοις} ἀνὰ ἕνα, τοῖς δὲ ἐπικινδύνως διακειμένοις ἐπὶ βʹ. εἰ δέ τις θέλει ἐρρωμένως διακαρθῆναι ἔχων πλατείας ἕλμινθας ἢ ἀσκάριδας ἢ ἄλλα τινά, δίδου τὸ ἥμισυ τοῦ προγεγραμμένου τροχίσκου καὶ καθαίρει ἀκινδύνως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 7 6",
+      "text": "ἐκ δὲ τῆς ῥίζης σκευάζεται μάλαγμα πρὸς ὑδρωπικοὺς καὶ σπληνικοὺς καὶ πάντα τὰ ἐντὸς πάθη γινόμενα. ὀρόβων ἀληλεσμένων καὶ σεσημένων δρ. γʹ, κηροῦ δρ. λʹ, 〈ῥητίνησ〉 τερεβινθίνης δρ. ιβʹ, κεδρίας δρ. κʹ, τῆς ῥίζης κεκομμένης καὶ σεσημένης δρ. λʹ. τὰ ξηρὰ τοῖς ὑγροῖς ἀναλαμβάνων χρῶ. Μήν † Νοέμβριος· αἱ δυνάμεις τῆς ὀρθῆς περιστερᾶς πολλαὶ καὶ θαυμασταί εἰσιν καὶ διὰ τοῦτο καὶ δυσπισταί εἰσιν· ἐγὼ δὲ ταύτης τῆς περιστερᾶς, ἣν καὶ ἱερὰν βοτάνην 〈καλοῦσι〉, πεπείραμαι ὡς δοκιμωτάτην οὖσαν παντὸς πάθους τῆς κεφαλῆς καὶ τοῦ τραχήλου καὶ ἑτέρου πάθους· σύναξον δὲ ταύτην τρίτον τὸν χρόνον † εἰς τὰς ιδʹ τοῦ Μαίου καὶ † εἰς τὰς ιʹ τοῦ Νοεμβρίου καὶ ὄντος τοῦ ἡλίου ἐν Κριῷ· ἔστι δὲ ἡ ὀρθὴ περιστερὰ τοῦ Κριοῦ 〈καὶ τοῦ Ταύρου〉· ἔστι δὲ καὶ τοῦ Σκορπίου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 8 2",
+      "text": "ταύτης ὁ χυλὸς λαμβανόμενος ἐν πανσελήνῳ ἐν Κριῷ ὄντος τοῦ ἡλίου μεγίστας ἐνεργείας ἔχει· ὠφελεῖ τριταίζοντας καὶ τεταρταίζοντας ἴσον ἴσῳ μετὰ ῥοδίνου ἀλειφόμενον· σκευάζεται ⸤ δὲ καὶ ⸥ δι’ αὐτῆς πρὸς τοὺς σεληνιαζομένους ⸤ τοιόνδε ⸥ · ὑοσκυάμου δρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 8 3",
+      "text": "ϛʹ, ἴρεως Ἰλλυρικῆς δρ. ιδʹ, κολοφωνίας δρ. θʹ, λαθυρίδος δρ. ϛʹ. λεῖα ποιήσας ἀναλάμβανε τῷ χυλῷ καὶ πλάσας 〈τροχίσκουσ〉 ⸤ ἀνὰ ⸥ δρ. αʹ καὶ ἐνιεὶς ἐν κυάθῳ {μετὰ} γάλακτος ὀνείου ἔκβλυζε καὶ σύγχριε καθὼς καὶ τοὺς τεταρταίζοντας. γίνεται δὲ καὶ μάλαγμα διὰ τῆς ῥίζης πρὸς ἀναισθησίας νεύρων καὶ ἄρθρων ἐπαναλύσεις· κηροῦ δρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 8 5",
+      "text": "κʹ, ῥητίνης {καὶ} τερεβινθίνης δρ. ϛʹ, ξυλοβαλσάμου δρ. ζʹ, Ἀμμωνιακοῦ δρ. ηʹ, χαλβάνης δρ. θʹ, τῆς ῥίζης κεκομμένης καὶ σεσημένης δρ. ιʹ, κεδρίας δρ. ιʹ. τὰ ξηρὰ τοῖς ὑγροῖς ἀναλαμβάνων χρῶ. αὕτη καὶ τὰ φύλλα ποιοῦσι πρὸς ἑρπετά.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 8 7",
+      "text": "ἑψηθεῖσα ὅλη σὺν οἴνῳ ἐσχάρας τὰς ἐν παρισθμίοις παραρρίπτει καὶ 〈πρὸσ〉 νομὰς τὰς ἐν στόματι ἀναγαργαριζόμενος ὁ χυλὸς μετὰ ὑσσώπου καὶ ἑψήματος ὠφελεῖ. λέγεται δὲ ῥαινόμενόν τε συμποσίοις τὸ ἀπόβρεγμα εὐδιαγωγοτέρους {ἱστορεῖται} ποιεῖν· δίδοται δὲ τριταίζουσι πίνειν τὸ τρίτον γόνυ, τεταρταίζουσι δὲ τὸ τέταρτον γόνυ. κρεμαμένη εἰς οἶκον εὐθετεῖ. καὶ ἐν ἐργαστηρίῳ κειμένη εὐπραγίαν παρέχει· καθὼς καὶ ἡ ἀρτεμισία τὰ αὐτὰ ὠφελεῖ. καλεῖται δὲ ἱερὰ βοτάνη διὰ τὸ εὐχρηστεῖν εἰς πολλὰ καὶ εὐθετεῖν πρὸς πάντα παραδόξως, χοιράδας, παρωτίδας, φύματα τραχήλου, βουβῶνας καταπλασσομένη· θεραπεύει τὰς αἱμορροίδας ὁ χυλὸς αὐτῆς, μετὰ νίτρου καὶ μέλιτος προσκλυζόμενος, καὶ ἕτερα πολλά. 〈Τοξότου βοτάνη ἀναγαλλίσ〉 Σύναξε ταύτην ἀπὸ τῆς πρὸ ιεʹ 〈καλανδῶν〉 τοῦ Δεκεμβρίου· 〈Τ〉οξότου βοτάνη {ἡ} ἀναγαλλίς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 9 2",
+      "text": "Ταύτης δύο ἐστὶν εἴδη, πυρρὸν καὶ κυανόν, ἔχει δὲ μόνην τὴν ἐκ τῶν φύλλων εὐχρηστίαν. λαμβανόμενος ὁ χυλὸς τῆς κυανωτέρας καὶ κεκραμένος ἴσος {πρὸς} ἴσῳ μετὰ μέλιτος καὶ ἐνιέμενος πρὸς ῥῖνας κατασπᾷ ἐκ τῆς κεφαλῆς φλέγμα καὶ ἐκ τοῦ θώρακος· ὁμοίως δὲ καὶ τὰ τῶν ὀδόντων ἀλγήματα λύει. ἐὰν δὲ μετὰ ῥοδίνου μίξῃς τὸν χυλὸν καὶ ἀλείψῃς ⸤ σου ⸥ τὰς ὄψεις, ἡδέως ὑπὸ πάντων θεαθήσῃ· ἐὰν δὲ μετὰ μέλιτος καὶ λυκίου Ἰνδικοῦ καὶ ὄξους δριμυτάτου {καὶ} τοῦ χυλοῦ δῷς γυναικὶ ἐπιχρίσασθαι, λαμπρυνεῖ τὰς ὄψεις καὶ τετανωτέρας ποιήσει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 9 4",
+      "text": "τῆς δὲ πυρρᾶς ὁ χυλὸς μετὰ μέλιτος μιγνύμενος ἐνίεται τοῖς ἐπιληπτικοῖς καὶ τοῖς μαινομένοις εἰς ῥῖνας καὶ ὀρθοπνοϊκοῖς καὶ ἀραιοῖ τοὺς πόρους καὶ θεραπεύει. δεῖ δὲ ἐννοεῖν τὰ πάθη· οὐ γὰρ τὴν αὐτὴν δύναμιν ἔχει· διαφέρει γὰρ ἀλλήλων τούτοις, ὅτι ἡ μὲν μανία δίχα πυρετοῦ γίνεται, μετὰ δὲ πυρετοῦ ἡ ἐπιληψία. συνίστανται δὲ τὰ πάθη οὕτως· οἷον ὅταν ἐκ περιψύξεως τῆς μήνιγγος στεγνωθῇ τὰ ἀγγεῖα πλείονος ⸤ ὄντοσ ⸥ τοῦ ὑγροῦ τὸ πνευματικὸν ἐναποθλίβεται καὶ ἐν τῷ μὴ ἔχειν τὴν διὰ τῶν πόρων ἰθυδρομίαν, ἀναγκαίως παραλλαγὴν τῆς διανοίας παρασκευάζει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 9 5",
+      "text": "ἡ οὖν προγεγραμμένη δύναμις, φύσει δριμεῖα οὖσα καὶ λεπτυντική, ὅταν ἐνωθῇ, ἀραιοῖ τοὺς πόρους καὶ τὴν τοῦ ὑγροῦ ἔντασιν ἐπισπᾶται· οὕτως οὖν εἰς τὸ κατὰ φύσιν τῶν πνευματικῶν ἀποκατασταθέντων πόρων λύσιν λαμβάνει τὸ πάθος. σκευάζεται δὲ ἐξ αὐτῆς καὶ ἡ κατάχριστος ἡ θεραπεύουσα τάς τε νεφελίδας καὶ τοὺς φακοὺς καὶ τοὺς ἰόνθους καὶ τοὺς προσφάτους μέλανας ἀλφούς· ἀλκυονείου δρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 9 6",
+      "text": "δʹ, κισσήρεως ὀπτῆς κεκομμένης δρ. ηʹ, κήκιδος ὀμφακίτιδος δρ. ιβʹ, λυκίου Ἰνδικοῦ δρ. ιαʹ, ἴρεως Ἰλλυρικῆς δρ. ιβʹ, μέλιτος ⸤ πικροῦ ⸥ δρ. ϛʹ, τοῦ χυλοῦ δρ. ιεʹ. ταῦτα μίξας εἰς ἄγγος κασσιτέρινον προνιτρώσας κατάχριε καὶ θεραπεύσεις. ἐὰν δὲ {μετὰ} μέλιτος καὶ λυκίου Ἰνδικοῦ καὶ τοῦ χυλοῦ ἴσον ἴσῳ μίξῃς καὶ τὸν καυλὸν τοῦ μορίου περιχρίσῃς, ἑτοιμότερος ἔσῃ πρὸς συνουσίαν καὶ τῇ πλησιαζομένῃ ἡδονὴν ἀπεργάσῃ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 10 t",
+      "text": "〈Αἰγοκέρωτος βοτάνη λάπαθον〉 Σύναξον ταύτην τὴν βοτάνην ἀπὸ τῆς πρὸ ιϛʹ 〈καλανδῶν〉 τοῦ Ἰανουαρίου· 〈Α〉ἰγοκέρωτος βοτάνη λάπαθον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 10 2",
+      "text": "Αὕτη δυνάμεις μὲν οὐκ ἔχει πολλάς, ὀλίγας δὲ καὶ ἐνεργεστάτας. ἐπὰν γάρ τις τὸν χυλὸν αὐτῆς τρίψῃ μετὰ κυκλαμίνου καὶ χρίσῃ τὸ σῶμα, ὑπὸ θηρίων οὐ δηχθήσεται καὶ κύνες δὲ ἀπ’ αὐτοῦ φεύξονται. ἐὰν δέ τις γένηται κυνόδηκτος, θεραπευθήσεται ⸤ τῷ ⸥ διὰ τῆς ῥίζης σκευαζομένῳ ἐμπλάστρῳ οὕτως· κηροῦ δρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 10 3",
+      "text": "ηʹ, ⸤ ῥητίνης πιτυίνης δρ. κʹ, χαλβάνης δρ. ιηʹ παρ’ ἐνίοις ιβʹ, στέατος χοιρείου δρ. κʹ ⸥ , τῆς βοτάνης {τῆς βοτάνης} τῆς ῥίζης δρ. λʹ, μύρου στυρακίνου δρ. ηʹ. ἐὰν δὲ ὑπὸ κυνὸς λυσσῶντος δηχθῇ τις, ἐμπλάστρῳ μὴ τῷ αὐτῷ χρῶ, δίδου δὲ ἐκ τοῦ χυλοῦ ῥοφεῖν ἕνα ἡμικύαθον ἐπὶ ἡμέρας ζʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 10 5",
+      "text": "ἐὰν δὲ ὑδροφόβας γεγενημένος ῥοφεῖν μὴ θελήσῃ, κλύσον αὐτὸν εἰς ὁσπήτιον μίσγων ἀνὰ τρεῖς κυάθους τοῦ χυλοῦ καὶ ἐλαίου μετὰ μέλιτος ἴσα {καὶ δὸς ποιεῖν} καὶ ἀπαλλάξεις. 〈Ὑδροχόου βοτάνη τὸ μάραθρον καλούμενον, παρ’ ἐνίοις δὲ δρακόντιον〉 〈Ἀ〉πὸ τῆς πρὸ ιαʹ 〈καλανδῶν〉 τοῦ Φεβρουαρίου σύναζον ταύτην· Ὑδροχόου βοτάνη 〈τὸ〉 μάραθρον καλούμενον, παρ’ ἐνίοις δὲ δρακόντι〈ον〉.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 11 2",
+      "text": "Νιπτόμενος οὖν τῷ χυλῷ ὑπ’ οὐδενὸς θηρίου δηχθήσῃ· ἐὰν δέ τις δηχθῇ, πότισον ἐκ τοῦ χυλοῦ ἴσον ἴσῳ μίξας μετὰ οἴνου καὶ ἀπαλλαγήσεται· τὴν ⸤ δὲ ⸥ ποσότητα ⸤ τῆς πόσεωσ ⸥ δεῖ σε στοχάζεσθαι πρὸς τὴν δύναμιν τοῦ θηρίου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 11 4",
+      "text": "σκευάζεται δὲ καὶ ὑγρά, ἥτις ⸤ ποιεῖ ⸥ πρὸς τὰς ἀμβλυωπίας καὶ τὰς ἐπισκοτήσεις τὰς ἐν τοῖς ὀφθαλμοῖς γινομένας ⸤ καὶ ⸥ αὐθημερὸν λύει· καδμείας βοτρυίτιδος δρ. ηʹ, ψιμυθίου δρ. ιʹ, παρ’ ἐνίοις ιβʹ, ⸤ φοινίκων κεκαυμένων δρ. ηʹ, χαλκοῦ κεκαυμένου δρ. βʹ ⸥ , λυκίου Ἰνδικοῦ δρ. αʹ, μέλιτος πικροῦ δρ. βʹ. λεαίνων παρέγχει τῷ χυλῷ, ὥστε γενέσθαι μέλιτος πάχος καὶ χρῶ. {καταπλασσομένη ἡ ῥίζα σὺν βολβίταις ὠφελεῖ ποδαγρικούς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 11 5",
+      "text": "}",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ece-ab",
+      "title": {
+        "english": "On the Virtues of Herbs",
+        "ancient_greek": "Περὶ τῶν ἀρετῶν τῶν βοτάνων"
+      },
+      "url_slug": "thessalus-of-cos-virtues-herbs-ab-ece-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/thessalus-of-cos/virtues-herbs-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ab-ece-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ab-ece-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ab-ece-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ab-ece-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "ece-aa",
+      "title": {
+        "english": "On the Virtues of Herbs",
+        "ancient_greek": "Περὶ τῶν ἀρετῶν τῶν βοτάνων"
+      },
+      "url_slug": "thessalus-of-cos-virtues-herbs-aa-ece-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/thessalus-of-cos/virtues-herbs-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-aa-ece-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-aa-ece-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-aa-ece-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-aa-ece-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "ece-ad",
+      "title": {
+        "english": "On the Virtues of Herbs",
+        "ancient_greek": "Περὶ τῶν ἀρετῶν τῶν βοτάνων"
+      },
+      "url_slug": "thessalus-of-cos-virtues-herbs-ad-ece-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/thessalus-of-cos/virtues-herbs-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ad-ece-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ad-ece-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ad-ece-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ad-ece-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-ad.epub"
+      }
+    },
+    {
+      "eul_wid": "ece-ae",
+      "title": {
+        "english": "On the Virtues of Herbs",
+        "ancient_greek": "Περὶ τῶν ἀρετῶν τῶν βοτάνων"
+      },
+      "url_slug": "thessalus-of-cos-virtues-herbs-ae-ece-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/thessalus-of-cos/virtues-herbs-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ae-ece-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ae-ece-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ae-ece-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ae-ece-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-ae.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "rrg-bt",
+      "title": {
+        "english": "Alchemical Fragment",
+        "ancient_greek": "Χημικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "alchemist-i-fragment-bt-rrg-bt",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/fragment-bt",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bt-rrg-bt.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bt-rrg-bt.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bt-rrg-bt.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bt-rrg-bt.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bt.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-ch",
+      "title": {
+        "english": "Creation of Gold",
+        "ancient_greek": "Χρυσοῦ ποίησις"
+      },
+      "url_slug": "alchemist-i-gold-creation-rrg-ch",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/gold-creation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-gold-creation-rrg-ch.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-gold-creation-rrg-ch.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-gold-creation-rrg-ch.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-gold-creation-rrg-ch.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/gold-creation.epub"
+      }
+    },
+    {
+      "eul_wid": "upk-aa",
+      "title": {
+        "english": "Euclid's Elements Book XV",
+        "ancient_greek": "Στοιχεῖα Εὐκλείδου"
+      },
+      "url_slug": "anonymous-disciple-of-isidore-of-miletus-elements-book-15-upk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-disciple-of-isidore-of-miletus/elements-book-15",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-disciple-of-isidore-of-miletus-elements-book-15-upk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-disciple-of-isidore-of-miletus-elements-book-15-upk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-disciple-of-isidore-of-miletus-elements-book-15-upk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-disciple-of-isidore-of-miletus-elements-book-15-upk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-disciple-of-isidore-of-miletus/elements-book-15.epub"
+      }
+    },
+    {
+      "eul_wid": "hte-aa",
+      "title": {
+        "english": "Fragments and Titles",
+        "ancient_greek": "Ἀποσπάσματα καὶ Τίτλοι"
+      },
+      "url_slug": "aratus-of-soli-fragments-hte-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-of-soli/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-of-soli-fragments-hte-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-of-soli-fragments-hte-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-of-soli-fragments-hte-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-of-soli-fragments-hte-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-of-soli/fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "odi-af",
+      "title": {
+        "english": "Heronian Fragments",
+        "ancient_greek": "Ἀποσπάσματα Ἡρωνιακά"
+      },
+      "url_slug": "hero-of-alexandria-fragments-odi-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-fragments-odi-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-fragments-odi-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-fragments-odi-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-fragments-odi-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "ukk-aa",
+      "title": {
+        "english": "Isis to Horus (Long)",
+        "ancient_greek": "Ἴσις προφῆτις τῷ υἱῷ Ὥρῳ"
+      },
+      "url_slug": "isis-prophetissa-son-horus-aa-ukk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/isis-prophetissa/son-horus-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isis-prophetissa-son-horus-aa-ukk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isis-prophetissa-son-horus-aa-ukk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isis-prophetissa-son-horus-aa-ukk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isis-prophetissa-son-horus-aa-ukk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isis-prophetissa/son-horus-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-ax",
+      "title": {
+        "english": "Ouroboros Dragon, Version 2",
+        "ancient_greek": "Ὁ οὐροβόρος δράκων"
+      },
+      "url_slug": "alchemist-i-ouroboros-dragon-version-2-rrg-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/ouroboros-dragon-version-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-ouroboros-dragon-version-2-rrg-ax.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-ouroboros-dragon-version-2-rrg-ax.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-ouroboros-dragon-version-2-rrg-ax.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-ouroboros-dragon-version-2-rrg-ax.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/ouroboros-dragon-version-2.epub"
+      }
+    },
+    {
+      "eul_wid": "sei-aa",
+      "title": {
+        "english": "Pappus the Philosopher Oath",
+        "ancient_greek": "Πάππου φιλοσόφου ὅρκος"
+      },
+      "url_slug": "pappus-the-alchemist-oath-sei-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pappus-the-alchemist/oath",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pappus-the-alchemist-oath-sei-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pappus-the-alchemist-oath-sei-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pappus-the-alchemist-oath-sei-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pappus-the-alchemist-oath-sei-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pappus-the-alchemist/oath.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/thessalus-of-cos/virtues-herbs-ac",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ac-ece-ac.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ac-ece-ac.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ac-ece-ac.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ac-ece-ac.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-ac.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

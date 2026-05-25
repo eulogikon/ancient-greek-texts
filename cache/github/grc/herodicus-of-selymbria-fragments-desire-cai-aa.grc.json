@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "cai-aa",
+  "eul_aid": "cai",
+  "author_slug": "herodicus-of-selymbria",
+  "work_slug": "fragments-desire",
+  "url_slug": "herodicus-of-selymbria-fragments-desire-cai-aa",
+  "author": {
+    "english": "Herodicus of Selymbria",
+    "ancient_greek": "Ἡρόδικος ὁ Σηλυμβριανός"
+  },
+  "title": {
+    "english": "Fragments on Socrates and Desire",
+    "ancient_greek": "Ἀποσπάσματα περὶ Σωκράτους καὶ Ἐπιθυμίας"
+  },
+  "seo": {
+    "browser_title": "Fragments by Herodicus of Selymbria on Eulogikon Archive",
+    "meta_title": "Fragments of Herodicus of Selymbria in Ancient Greek",
+    "meta_description": "Surviving fragments of Herodicus of Selymbria on Socrates and desire. A grammatical treatise. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Herodicus of Selymbria, a fifth-century BCE Greek sophist and grammarian, is known primarily through secondary references in the works of Plato and later authors. He is frequently cited as a teacher of the sophist Prodicus and is often portrayed as an archetype of pedantic scholarship, with interests spanning music, gymnastics, and literary criticism. While a work titled <strong>Fragments on Socrates and Desire</strong> is attributed to him in some modern contexts, no such text is attested in the ancient historical or manuscript record. Herodicus himself is not cited as an author of Socratic literature, and any writings he may have produced are entirely lost. His significance lies instead in his foundational role in the early development of grammatical and philological theory. Later technical writers, such as Sextus Empiricus, reference him alongside figures like Protagoras as a pioneer in the field. His reputation endured primarily through anecdotal tradition, where his name became synonymous with meticulous and overly precise scholarship.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "494.(t)",
+      "text": "in Aristarcheos ? φεύγετ’, Ἀριστάρχειοι, ἐπ’ εὐρέα νῶτα θαλάττης Ἑλλάδα, τῆς ξουθῆς δειλότεροι κεμάδος, γωνιοβόμβυκες, μονοσύλλαβοι, οἷσι μέμηλε τὸ σφὶν καὶ σφῶϊν καὶ τὸ μὶν ἠδὲ τὸ νίν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "495.(t)",
+      "text": "τοῦθ’ ὑμῖν εἴη, δυσπέμφελοι· Ἡροδίκῳ δὲ Ἑλλὰς ἀεὶ μίμνοι καὶ θεόπαις Βαβυλών. * dubium ‘Σώκρατες, οὐκ ἔλαθές με πόθῳ δηχθεὶς φρένα τὴν σὴν παιδὸς Δεινομάχης καὶ Κλεινίου. ἀλλ’ ὑπάκουσον, εἰ βούλει σοι ἔχειν εὖ παιδικά, μηδ’ ἀπιθήσῃς ἀγγέλῳ, ἀλλὰ πιθοῦ, καί σοι πολὺ βέλτιον ἔσται.‘ κἀγὼ 〈ὅ〉πως ἤκουσα, χαρᾶς ὕπο σῶμα λιπαίνω ἱδρῶτι, βλεφάρων δὲ γόος πέσεν οὐκ ἀθελήτως. ‘στέλλου πλησάμενος θυμὸν Μούσης κατόχοιο, ᾗ τόνδ’ αἱρήσεις, ὠσὶν δ’ ἐνίει ποθέουσιν· ἀμφοῖν γὰρ φιλίας ἥδ’ ἀρχή, τῇδε καθέξεις αὐτόν, προσβάλλων ἀκοαῖς ὀπτήρια θυμοῦ.‘ ‘τίπτε δεδάκρυσαι, φίλε Σώκρατες; ἦ ς’ ἀνακινεῖ στέρνοις ἐνναίων σκηπτὸς πόθος ὄμμασι θραυσθεὶς παιδὸς ἀνικήτου; τὸν ἐγὼ τιθασόν σοι ὑπέστην ποιῆσαι ...",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "tqa-ak",
+      "title": {
+        "english": "Grammatical Fragment",
+        "ancient_greek": "Γραμματικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "anonymous-greek-grammarian-fragment-ak-tqa-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-greek-grammarian/fragment-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-ak-tqa-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-ak-tqa-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-ak-tqa-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian-fragment-ak-tqa-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-ak.epub"
+      }
+    },
+    {
+      "eul_wid": "vta-aa",
+      "title": {
+        "english": "Inscriptions and Hypotheses-the Odyssey",
+        "ancient_greek": "Ἐπιγραφαὶ καὶ Ὑποθέσεις εἰς Ὀδύσσειαν"
+      },
+      "url_slug": "homer-commentary-anonymous-inscriptions-odyssey-vta-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer-commentary-anonymous/inscriptions-odyssey",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-inscriptions-odyssey-vta-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-inscriptions-odyssey-vta-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-inscriptions-odyssey-vta-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous-inscriptions-odyssey-vta-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous/inscriptions-odyssey.epub"
+      }
+    },
+    {
+      "eul_wid": "tro-af",
+      "title": {
+        "english": "Later Scholia on Prometheus Bound",
+        "ancient_greek": "Σχόλια εἰς Προμηθέα Δεσμώτην"
+      },
+      "url_slug": "aeschylus-scholia-prometheus-bound-af-tro-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/prometheus-bound-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-prometheus-bound-af-tro-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-prometheus-bound-af-tro-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-prometheus-bound-af-tro-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia-prometheus-bound-af-tro-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/prometheus-bound-af.epub"
+      }
+    },
+    {
+      "eul_wid": "qnq-aw",
+      "title": {
+        "english": "Monobiblos-Being",
+        "ancient_greek": "Μονόβιβλον περὶ τοῦ ἦν"
+      },
+      "url_slug": "herodian-of-alexandria-monobiblos-qnq-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/monobiblos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-monobiblos-qnq-aw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-monobiblos-qnq-aw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-monobiblos-qnq-aw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria-monobiblos-qnq-aw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/monobiblos.epub"
+      }
+    },
+    {
+      "eul_wid": "oqa-ae",
+      "title": {
+        "english": "On Signs",
+        "ancient_greek": "Περὶ Σημείων"
+      },
+      "url_slug": "hephaestion-of-alexandria-signs-oqa-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/hephaestion-of-alexandria/signs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria-signs-oqa-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria-signs-oqa-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria-signs-oqa-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria-signs-oqa-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/signs.epub"
+      }
+    },
+    {
+      "eul_wid": "nfw-aa",
+      "title": {
+        "english": "Scholia on Homeric Prosody",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "tyrannion-the-younger-homeric-prosody-nfw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/tyrannion-the-younger/homeric-prosody",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrannion-the-younger-homeric-prosody-nfw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrannion-the-younger-homeric-prosody-nfw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrannion-the-younger-homeric-prosody-nfw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrannion-the-younger-homeric-prosody-nfw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrannion-the-younger/homeric-prosody.epub"
+      }
+    },
+    {
+      "eul_wid": "vmw-ai",
+      "title": {
+        "english": "Scholia-Lyric Poems",
+        "ancient_greek": "Σχόλια εἰς Λυρικὰ Ποιήματα"
+      },
+      "url_slug": "callimachus-scholia-lyric-poems-vmw-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/lyric-poems",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-lyric-poems-vmw-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-lyric-poems-vmw-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-lyric-poems-vmw-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-lyric-poems-vmw-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/lyric-poems.epub"
+      }
+    },
+    {
+      "eul_wid": "ppu-ae",
+      "title": {
+        "english": "Scholia-Paeans",
+        "ancient_greek": "Σχόλια εἰς Παιᾶνας"
+      },
+      "url_slug": "pindar-scholia-scholia-paeans-ppu-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/pindar-scholia/scholia-paeans",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-paeans-ppu-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-paeans-ppu-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-paeans-ppu-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia-scholia-paeans-ppu-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia/scholia-paeans.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/herodicus-of-selymbria/fragments-desire",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodicus-of-selymbria-fragments-desire-cai-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodicus-of-selymbria-fragments-desire-cai-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodicus-of-selymbria-fragments-desire-cai-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodicus-of-selymbria-fragments-desire-cai-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodicus-of-selymbria/fragments-desire.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

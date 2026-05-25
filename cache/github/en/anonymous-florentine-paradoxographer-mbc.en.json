@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "mbc",
+  "auth_slug": "anonymous-florentine-paradoxographer",
+  "name": {
+    "english": "Florentine Paradoxographer Anonymous",
+    "ancient_greek": "Ἀνώνυμος ὁ Παράδοξογράφος ὁ Φλωρεντινός"
+  },
+  "seo_h1": "The Florentine Paradoxographer on Marvels of Waters",
+  "seo": {
+    "browser_title": "Florentine Paradoxographer on Eulogikon Greek Archive",
+    "meta_title": "The Florentine Paradoxographer Ancient Greek Works",
+    "meta_description": "Anonymous Hellenistic author of paradoxographical works from the 1st century BCE. A work of historical curiosities. Free to download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Florentine Paradoxographer is an anonymous Greek author believed to have lived in the 1st century BCE. This dating is based on the latest historical events mentioned in the author&#x27;s only known work. The name is a modern invention, taken from the single 10th-century manuscript in Florence that preserves the text. No details about the author&#x27;s life, origin, or social background are known.</p>\n<p class=\"research-text\">The author worked within the Hellenistic tradition of paradoxography, a genre dedicated to collecting wondrous and unusual facts. The role was that of a compiler, gathering 35 short accounts of marvels concerning geography, animals, plants, and strange human customs from the works of earlier historians and philosophers. The text is written in straightforward Koine Greek prose.</p>\n<p class=\"research-text\">The work&#x27;s significance lies in its representation of a popular intellectual tradition. According to modern scholars, such collections acted as a bridge between earlier scientific inquiry and later imperial literature of marvels. As a compilation, it preserves summaries of material from earlier, now-lost authors. Its survival in a single medieval manuscript also provides insight into how such practical Greek texts were copied and transmitted through the centuries.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "mbc-aa",
+      "title": {
+        "english": "Marvels of Waters",
+        "ancient_greek": "Θαύματα περὶ ὑδάτων"
+      },
+      "url_slug": "anonymous-florentine-paradoxographer-marvels-waters-mbc-aa",
+      "passages": 24,
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-florentine-paradoxographer/marvels-waters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-florentine-paradoxographer-marvels-waters-mbc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-florentine-paradoxographer-marvels-waters-mbc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-florentine-paradoxographer-marvels-waters-mbc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-florentine-paradoxographer-marvels-waters-mbc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-florentine-paradoxographer/marvels-waters.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/anonymous-florentine-paradoxographer",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-florentine-paradoxographer-mbc.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-florentine-paradoxographer-mbc.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-florentine-paradoxographer-mbc.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-florentine-paradoxographer-mbc.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

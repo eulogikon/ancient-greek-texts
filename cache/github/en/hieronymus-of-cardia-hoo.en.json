@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "hoo",
+  "auth_slug": "hieronymus-of-cardia",
+  "name": {
+    "english": "Hieronymus of Cardia",
+    "ancient_greek": "Ἱερώνυμος ὁ Καρδιανός"
+  },
+  "seo_h1": "Hieronymus of Cardia on the Wars of the Successors",
+  "seo": {
+    "browser_title": "Hieronymus of Cardia on Eulogikon Greek Archive Library",
+    "meta_title": "Hieronymus of Cardia Ancient Greek Historical Works",
+    "meta_description": "Hieronymus of Cardia was a Hellenistic historian of the 4th-3rd centuries BCE. His historical fragments. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Hieronymus of Cardia was a Greek historian and statesman of the early Hellenistic period. A native of Cardia, he served under his fellow citizen Eumenes, accompanying him on campaigns and being wounded at the Battle of Gabiene in 316 BCE. After Eumenes&#x27; execution, Hieronymus served Antigonus I Monophthalmus and his successors, holding important administrative posts. He lived to an advanced age of 104, which allowed him to witness the Wars of the Diadochi until at least 272 BCE.</p>\n<p class=\"research-text\">His major work was the <strong>History of the Diadochi</strong>, a prose account covering the period from Alexander the Great’s death in 323 BCE to at least the death of Pyrrhus of Epirus in 272 BCE. The history is lost but survives in fragments and was extensively used by later historians like Diodorus Siculus.</p>\n<p class=\"research-text\">Hieronymus is the most important primary source for the Diadochi period. His significance stems from his direct participation in events, his access to leaders and official documents, and his reliable, unembellished narrative. His work formed the foundational source for later ancient historians and remains crucial for the modern understanding of the era.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "hoo-aa",
+      "title": {
+        "english": "Fragments on the Diadochoi",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Διαδόχων"
+      },
+      "url_slug": "hieronymus-of-cardia-diadochoi-hoo-aa",
+      "passages": 13,
+      "links": {
+        "html": "https://eulogikon.org/grc/hieronymus-of-cardia/diadochoi",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hieronymus-of-cardia-diadochoi-hoo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hieronymus-of-cardia-diadochoi-hoo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hieronymus-of-cardia-diadochoi-hoo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hieronymus-of-cardia-diadochoi-hoo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hieronymus-of-cardia/diadochoi.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/hieronymus-of-cardia",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hieronymus-of-cardia-hoo.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hieronymus-of-cardia-hoo.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hieronymus-of-cardia-hoo.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hieronymus-of-cardia-hoo.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

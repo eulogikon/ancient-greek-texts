@@ -1,0 +1,412 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "dmk-aa",
+  "eul_aid": "dmk",
+  "author_slug": "metrodorus-of-chios",
+  "work_slug": "testimonies",
+  "url_slug": "metrodorus-of-chios-testimonies-dmk-aa",
+  "author": {
+    "english": "Metrodorus of Chios",
+    "ancient_greek": "Μητρόδωρος ὁ Χῖος"
+  },
+  "title": {
+    "english": "Testimonies",
+    "ancient_greek": "Μαρτυρίαι"
+  },
+  "seo": {
+    "browser_title": "The Testimonies by Metrodorus of Chios on Eulogikon",
+    "meta_title": "Testimonies by Metrodorus of Chios in Ancient Greek",
+    "meta_description": "The Testimonies is a lost philosophical work by Metrodorus of Chios. surviving fragments of his thought. Read in original ancient Greek at Eulogikon.org"
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Φιλοσοφική Ἀττική",
+      "english": "Attic Philosophical",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Atomist",
+      "href": "/affiliations/atomist"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Testimonies</strong> is a lost philosophical work by Metrodorus of Chios, a fourth-century BCE thinker who was a student of Democritus and a teacher of Anaxarchus, thereby forming a link between classical atomism and later Hellenistic philosophy. The work survives only in fragments, approximately twenty-six passages preserved by later doxographers and skeptics such as Sextus Empiricus and Aëtius. These quotations indicate the text was likely a collection of pithy sayings or core doctrines rather than a sustained treatise, possibly compiled as a summary for students. Written in Ionic Greek, the fragments reveal a philosophy combining Democritean physical theories with a pronounced skeptical turn. Metrodorus upheld the atomist principles of the indivisible void and the plenum as the fundamental realities, corresponding to being and non-being, and endorsed the existence of innumerable worlds. Alongside these physical doctrines, the work contained famously radical epistemological claims, such as the assertion that &quot;None of us knows anything&quot; and the relativistic position that &quot;Everything is to each person as it appears to him.&quot; While his physical theories were later supplanted by Epicureanism, the skeptical elements of the <strong>Testimonies</strong> contributed to the development of Hellenistic skeptical thought.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "CLEM. Strom. I 64 [II 41, 1 St.] (D. 244. 601) Δημοκρίτου δὲ ἀκουσταὶ Πρωταγόρας ὁ Ἀβδηρίτης καὶ Μ. ὁ Χῖος, οὗ Διογένης ὁ Σμυρναῖος, οὗ Ἀνάξαρχος, τούτου δὲ Πύρρων, οὗ Ναυσιφάνης· τούτου φασὶν ἔνιοι μαθητὴν Ἐπίκουρον γενέσθαι. SUID. s. v. Πύρρων ... διήκουσε Βρύσωνος ... εἶτα Ἀναξάρχου τοῦ Μητροδώρου μαθητοῦ τοῦ Χίου, οὗ διδάσκαλος ἦν Μητρόδωρος ὁ Ἀβδηρίτης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a",
+      "text": "ATHEN. III 100 D μνημονεύει τῆς μήτρας καὶ Ἀντιφάνης ἐν Φιλομήτορι [fr. 220 II 108 K.] οὕτως· ἔμμητρον ἂν ἦι τὸ ξύλον, βλάστην ἔχει· μητρόπολίς ἐστιν, οὐχὶ πατρόπολις 〈πόλισ〉· μήτραν τινὲς πωλοῦσιν ἥδιστον κρέας· Μητρᾶς ὁ Χῖός ἐστι τῶι δήμωι φίλος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "AËT. I 3, 17 (D. 285) Μ. Θεοκρίτου Χῖος τὰ ἀδιαίρετα καὶ τὸ κενόν (ἀρχὰς εἶναι). SUID. Θεόκριτος Χῖος ῥήτωρ μαθητὴς Μητροδώρου τοῦ Ἰσοκρατικοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "THEOPHR. Phys. Opin. fr. 8 [Simpl. Phys. 28, 27] καὶ Μ. δὲ ὁ Χῖος ἀρχὰς σχεδόν τι τὰς αὐτὰς τοῖς περὶ Δημόκριτον ποιεῖ, τὸ πλῆρες καὶ τὸ κενὸν τὰς πρώτας αἰτίας ὑποθέμενος, ὧν τὸ μὲν ὄν, τὸ δὲ μὴ ὂν εἶναι· περὶ δὲ τῶν ἄλλων ἰδίαν τινὰ ποιεῖται τὴν μέθοδον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "[PLUT.] Strom. 11 (D. 582) Μ. ὁ Χῖος ἀίδιον εἶναί φησι τὸ πᾶν, ὅτι εἰ ἦν γενητόν, ἐκ τοῦ μὴ ὄντος ἂν ἦν· ἄπειρον δέ, ὅτι ἀίδιον· οὐ γὰρ ἔχειν ἀρχὴν ὅθεν ἤρξατο οὐδὲ πέρας οὐδὲ τελευτήν· ἀλλ’ οὐδὲ κινήσεως μετέχειν τὸ πᾶν. κινεῖσθαι γὰρ ἀδύνατον μὴ μεθιστάμενον· μεθίστασθαι δὲ ἀναγκαῖον ἤτοι εἰς πλῆρες ἢ εἰς κενόν. *** πυκνούμενον δὲ τὸν ἀέρα ποιεῖν νεφέλας εἶτα ὕδωρ, ὃ καὶ κατιὸν ἐπὶ τὸν ἥλιον σβεννύναι αὐτόν, καὶ πάλιν ἀραιούμενον ἐξάπτεσθαι χρόνωι δὲ πήγνυσθαι τῶι ξηρῶι τὸν ἥλιον καὶ ποιεῖν ἐκ τοῦ λαμπροῦ ὕδατος ἀστέρας, νύκτα τε καὶ ἡμέραν ἐκ τῆς σβέσεως καὶ ἐξάψεως καὶ καθόλου τὰς ἐκλείψεις ἀποτελεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "SIMPL. Phys. 1121, 21 ἀπ’ ἀρχῆς δὲ χρόνου δοκοῦσι λέγειν γεγονέναι τὸν κόσμον Ἀναξαγόρας τε καὶ Ἀρχέλαος καὶ Μ. ὁ Χῖος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "AËT. I 5, 4 (D. 292) Μ. ὁ καθηγητὴς Ἐπικούρου φησὶν ἄτοπον εἶναι ἐν μεγάλωι πεδίωι ἕνα στάχυν γενηθῆναι καὶ ἕνα κόσμον ἐν τῶι ἀπείρωι. ὅτι δὲ ἄπειροι κατὰ τὸ πλῆθος, δῆλον ἐκ τοῦ ἄπειρα τὰ αἴτια εἶναι. εἰ γὰρ ὁ κόσμος πεπερασμένος, τὰ δ’ αἴτια πάντα ἄπειρα, ἐξ ὧν ὅδε ὁ κόσμος γέγονεν, ἀνάγκη ἀπείρους εἶναι· ὅπου γὰρ τὰ αἴτια ἄπειρα, ἐκεῖ καὶ τἀποτελέσματα. αἴτια δὲ ἤτοι αἱ ἄτομοι ἢ τὰ στοιχεῖα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "AËT. II 1, 3 (D. 327) ... Διογένης, Λεύκιππος, Δημόκριτος, Ἐπίκουρος καὶ ὁ τούτου καθηγητὴς Μ. ἀπείρους κόσμους ἐν τῶι ἀπείρωι κατὰ πᾶσαν περιαγωγήν sc. γίγνεσθαι καὶ φθείρεσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "SIMPL. Phys. 648, 14 καὶ ἔξω τοῦ κόσμου [κενὸν εἶναι], ὅπερ δῆλον ὅτι τόπος μὲν οὐκ ἂν εἴη, αὐτὸ δὲ καθ’ αὑτὸ ὑφέστηκε. ταύτης δὲ τῆς δόξης γέγονε καὶ Μ. ὁ Χῖος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "AËT. II 17, 1 (D. 346) Μ. ἅπαντας τοὺς ἀπλανεῖς ἀστέρας ὑπὸ τοῦ ἡλίου προσλάμπεσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "— —18, 2 (D. 347) Μ. τῶν ὁρώντων ὀφθαλμῶν μετὰ δέους καὶ καταπλήξεως εἶναι στιλβηδόνας [τοὺς Διοσκούρους].",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "— —20, 8 (D. 349b 10) Παρμενίδης καὶ Μ. πύρινον ὑπάρχειν τὸν ἥλιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12",
+      "text": "— —27, 5 (D. 358) Θαλῆς πρῶτος ἔφη ὑπὸ τοῦ ἡλίου φωτίζεσθαι ... Μ. ὁμοίως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13",
+      "text": "—III 1, 3 (D. 365) Μ. διὰ τὴν πάροδον τοῦ ἡλίου [γίνεσθαι τὸν γαλαξίαν]· τοῦτον γὰρ εἶναι τὸν ἡλιακὸν κύκλον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14",
+      "text": "— —2, 10 (D. 367) Μ. τὴν εἰς τὰ νέφη τοῦ ἡλίου βίαιον ἔμπτωσιν πολλάκις σπινθηρίζειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "— —3, 3 (D. 368) Μ. ὅταν εἰς νέφος πεπηγὸς ὑπὸ πυκνότητος ἐμπέσηι πνεῦμα, τῆι μὲν συνθραύσει τὸν κτύπον ἀποτελεῖ, τῆι δὲ πληγῆι καὶ τῶι σχισμῶι διαυγάζει, τῆι δ’ ὀξύτητι τῆς φορᾶς προσλαμβάνον τὴν ἀπὸ τοῦ ἡλίου θερμότητα κεραυνοβολεῖ, τοῦ δὲ κεραυνοῦ τὴν ἀσθένειαν εἰς πρηστῆρα περιίστησιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16",
+      "text": "— —4, 3 (D. 371) Μ. ἀπὸ τῆς ὑδατώδους ἀναφορᾶς ἐπὶ τοῦ ἀέρος συνίστασθαι τὰ νέφη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17",
+      "text": "— —5, 12 (D. 374) Μ. ὅταν διὰ νεφῶν ἥλιος διαλάμψηι, τὸ μὲν νέφος κυανίζειν, τὴν δ’ αὐγὴν ἐρυθραίνεσθαι. SCHOL. ARAT. p. 516 Maab (D. 231) Μ. τὴν ἶριν αἰτιολογῶν φησιν· ὅταν ἐξ ἐναντίας τῶι ἡλίωι ἐνσταθῆι νέφος πεπυκνωμένον, τηνικαῦτα ἐμπιπτούσης τῆς αὐγῆς τὸ μὲν νέφος φαίνεται κυανοῦν διὰ τὴν κρᾶσιν, τὸ δὲ περιφαινόμενον τῆι αὐγῆι φοινικοῦν, τὸ δὲ ὂν κάτω λευκόν. τοῦτο εἶναι ἔθεσαν ἡλιακὸν φέγγος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18",
+      "text": "— —7, 3 (D. 375) Μ. ὑδατώδους ἀναθυμιάσεως διὰ τὴν ἡλιακὴν ἔκκαυσιν γίνεσθαι ὁρμὴν πνευμάτων † θείων· τοὺς δὲ ἐτησίας πνεῖν τοῦ πρὸς ταῖς ἄρκτοις παχυνθέντος ἀέρος ὑποχωροῦντι τῶι ἡλίωι κατὰ τὴν θερινὴν τροπὴν ἐπισυρρέοντος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19",
+      "text": "ALEX. Meteor. p. 67, 17 [59 A 90]. AËT. III 16, 5 (D. 382) Μ. διὰ τὸ διηθεῖσθαι διὰ τῆς γῆς μετειληφέναι τοῦ περὶ αὐτὴν παχέος καθάπερ τὰ διὰ τῆς τέφρας ὑλιζόμενα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20",
+      "text": "AËT. III 9, 5 (D. 376) Μ. τὴν μὲν γῆν ὑπόστασιν εἶναι καὶ τρύγα τοῦ ὕδατος, τὸν δὲ ἥλιον τοῦ ἀέρος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "21",
+      "text": "— —15, 6 (D. 380) Μ. μηδὲν ἐν τῶι οἰκείωι τόπωι σῶμα κινεῖσθαι, εἰ μή τις προώσειεν ἢ καθελκύσειε κατ’ ἐνέργειαν. διὸ μηδὲ τὴν γῆν ἅτε δὴ κειμένην φυσικῶς κινεῖσθαι, τόπους δέ τινας αὐτῆς *** νοστεῖν τοῖς ἄλλοις. SENEC. N. quaest. VI 19, 1. 2 Metrodorum Chium ... audiamus ... dicit: ‘quomodo cum in dolii cantant os, vox illa per totum cum quadam discussione percurrit ac resonat et tam leviter mota tamen circumit non sine tactu eius tumultuque, quo inclusa est: sic speluncarum sub terra pendentium vastitas habet aera suum, quem simul alius superne incidens percussit, agitat non aliter quam illa, de quibus paulo ante retuli, inania indito clamore sonuerunt‘.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "22",
+      "text": "—IV 9, 1 (D. 396) Δημόκριτος, Μ., Πρωταγόρας, Πλάτων ψευδεῖς εἶναι τὰς αἰσθήσεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "23",
+      "text": "EPIPHAN. adv. haer. III 2, 9 (D. 590, 35) Μ. ὁ Χῖος ἔφη μηδένα μηδὲν ἐπίστασθαι, ἀλλὰ ταῦτα, ἃ δοκοῦμεν γινώσκειν, ἀκριβῶς οὐκ ἐπιστάμεθα οὐδὲ ταῖς αἰσθήσεσι δεῖ προσέχειν· δοκήσει γάρ ἐστι τὰ πάντα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "24",
+      "text": "ARISTOCL. b. Eus. P. E. XIV 20, 1 ἔνιοι μέντοι φασὶ καὶ τὸν Ὅμηρον αἰνίττεσθαι τὸ τοιοῦτο πάντων ἀποφαίνοντα τὸν Ὠκεανὸν ἀρχήν, ὡς ἐν ῥύσει τῶν πραγμάτων ὄντων· ὧν δ’ ἴσμεν ἔοικε μὲν καὶ Μ. ὁ Χῖος τὸ αὐτὸ τοῦτο λέγειν, οὐ μὴν ἀλλ’ ἄντικρύς γε Πρωταγόρας ὁ Ἀβδηρίτης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25",
+      "text": "SEXT. adv. math. VII 87. 88 οὐκ ὀλίγοι δὲ ἦσαν ... οἱ καὶ τοὺς περὶ Μητρόδωρον καὶ Ἀνάξαρχον, ἔτι δὲ Μόνιμον, φήσαντες ἀνηιρηκέναι τὸ κριτήριον, ἀλλὰ Μητρόδωρον μὲν ὅτι εἶπεν· ‘οὐδὲν ἴσμεν οὐδ’ αὐτὸ τοῦτο ἴσμεν ὅτι οὐδὲν ἴσμεν‘. PHILODEM. Rhet. fr. inc. 3, 1 (II 169 Sudhaus) οὐ γὰρ ἂν κατ’ Ἀ〈ν〉αξα〈γόραν φ〉ήσαι τις ἀκολούθω〈ς πᾶν〉 ὑπάρχειν ἐν παντ〈ὶ οὐδ’ ἂν〉 κατὰ τὸ〈ν〉 Χεῖον Μητ〈ρᾶν〉 ὁμολογώιη τῶι μὴ 〈εἰδέ〉ναι μηδ’ αὐτὸ τοῦτο.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "dmk-ab",
+      "title": {
+        "english": "Fragments on Trojan Legends",
+        "ancient_greek": "Ἀποσπάσματα περὶ Τρωικῶν Μύθων"
+      },
+      "url_slug": "metrodorus-of-chios-trojan-legends-dmk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/metrodorus-of-chios/trojan-legends",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-trojan-legends-dmk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-trojan-legends-dmk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-trojan-legends-dmk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-trojan-legends-dmk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios/trojan-legends.epub"
+      }
+    },
+    {
+      "eul_wid": "dmk-ac",
+      "title": {
+        "english": "On Nature and Knowledge",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "metrodorus-of-chios-nature-knowledge-dmk-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/metrodorus-of-chios/nature-knowledge",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-nature-knowledge-dmk-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-nature-knowledge-dmk-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-nature-knowledge-dmk-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-nature-knowledge-dmk-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios/nature-knowledge.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "vgs-aa",
+      "title": {
+        "english": "Commentary-Aristotle's Prior Analytics",
+        "ancient_greek": "Σχόλια εἰς τὰ ἀναλυτικὰ πρότερα Ἀριστοτέλους"
+      },
+      "url_slug": "elias-the-neoplatonist-prior-analytics-commentary-vgs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/elias-the-neoplatonist/prior-analytics-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-prior-analytics-commentary-vgs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-prior-analytics-commentary-vgs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-prior-analytics-commentary-vgs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-prior-analytics-commentary-vgs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist/prior-analytics-commentary.epub"
+      }
+    },
+    {
+      "eul_wid": "uqe-aa",
+      "title": {
+        "english": "Old Scholia on Plato",
+        "ancient_greek": "Σχόλια εἰς Πλάτωνα"
+      },
+      "url_slug": "anonymous-plato-commentary-scholia-aa-uqe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-plato-commentary/scholia-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary-scholia-aa-uqe-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary-scholia-aa-uqe-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary-scholia-aa-uqe-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary-scholia-aa-uqe-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary/scholia-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "lgi-ac",
+      "title": {
+        "english": "On Abraham",
+        "ancient_greek": "Περὶ Ἀβραάμ"
+      },
+      "url_slug": "philo-of-alexandria-surviving-works-of-philo-of-alexandria-ac-lgi-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria/surviving-works-of-philo-of-alexandria-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-of-philo-of-alexandria-ac-lgi-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-of-philo-of-alexandria-ac-lgi-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-of-philo-of-alexandria-ac-lgi-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-of-philo-of-alexandria-ac-lgi-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/surviving-works-of-philo-of-alexandria-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "uqy-aa",
+      "title": {
+        "english": "On Providence, Fate, and What is Within Us to Theodorus the Mechanic",
+        "ancient_greek": "Περὶ προνοίας"
+      },
+      "url_slug": "proclus-the-successor-providence-fate-theodorus-uqy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/proclus-the-successor/providence-fate-theodorus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-providence-fate-theodorus-uqy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-providence-fate-theodorus-uqy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-providence-fate-theodorus-uqy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-providence-fate-theodorus-uqy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/providence-fate-theodorus.epub"
+      }
+    },
+    {
+      "eul_wid": "lgi-aq",
+      "title": {
+        "english": "On the Migration of Abraham",
+        "ancient_greek": "Τὰ Φίλωνος Ἀλεξανδρέως"
+      },
+      "url_slug": "philo-of-alexandria-works-of-philo-of-alexandria-aq-lgi-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria/works-of-philo-of-alexandria-aq",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-works-of-philo-of-alexandria-aq-lgi-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-works-of-philo-of-alexandria-aq-lgi-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-works-of-philo-of-alexandria-aq-lgi-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-works-of-philo-of-alexandria-aq-lgi-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/works-of-philo-of-alexandria-aq.epub"
+      }
+    },
+    {
+      "eul_wid": "ibg-aa",
+      "title": {
+        "english": "Philistas, Book II",
+        "ancient_greek": "Φιλίστας Βιβλίον Βʹ"
+      },
+      "url_slug": "carneiscus-the-epicurean-philistas-ii-ibg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/carneiscus-the-epicurean/philistas-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean-philistas-ii-ibg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean-philistas-ii-ibg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean-philistas-ii-ibg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean-philistas-ii-ibg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean/philistas-ii.epub"
+      }
+    },
+    {
+      "eul_wid": "ffk-bd",
+      "title": {
+        "english": "Sophist",
+        "ancient_greek": "Σοφιστής"
+      },
+      "url_slug": "plato-sophist-ffk-bd",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/sophist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-sophist-ffk-bd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-sophist-ffk-bd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-sophist-ffk-bd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-sophist-ffk-bd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/sophist.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-aa",
+      "title": {
+        "english": "That It Is Not Possible to Live Pleasantly According to Epicurus",
+        "ancient_greek": "Ὅτι οὐδ ἡδέως ζῆν ἔστι κατ Ἐπίκουρον"
+      },
+      "url_slug": "plutarch-of-chaeronea-live-pleasantly-epicurus-okg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/live-pleasantly-epicurus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-live-pleasantly-epicurus-okg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-live-pleasantly-epicurus-okg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-live-pleasantly-epicurus-okg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-live-pleasantly-epicurus-okg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/live-pleasantly-epicurus.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/metrodorus-of-chios/testimonies",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-testimonies-dmk-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-testimonies-dmk-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-testimonies-dmk-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-testimonies-dmk-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios/testimonies.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

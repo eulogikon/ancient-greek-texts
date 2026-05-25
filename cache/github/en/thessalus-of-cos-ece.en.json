@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ece",
+  "auth_slug": "thessalus-of-cos",
+  "name": {
+    "english": "Thessalus of Cos",
+    "ancient_greek": "Θεσσαλός ὁ Κῷος"
+  },
+  "seo_h1": "Thessalus of Cos on the Virtues of Herbs",
+  "seo": {
+    "browser_title": "Thessalus of Cos, Greek Physician on Eulogikon Greek Archive",
+    "meta_title": "Thessalus of Cos Ancient Greek Medical Works and Texts",
+    "meta_description": "Thessalus of Cos, Greek physician and son of Hippocrates. Five surviving medical treatises. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Thessalus of Cos was a Greek physician who lived during the late 5th and early 4th centuries BCE. He was one of the sons of Hippocrates, the famous founder of the Hippocratic medical tradition. As a member of the Asclepiad family on the island of Cos, Thessalus belonged to a hereditary guild of doctors. Following his father&#x27;s death, he and his brother Draco are said to have led the Hippocratic medical school there.</p>\n<p class=\"research-text\">According to later ancient sources, Thessalus also served as a physician to King Archelaus I of Macedon, which suggests his reputation extended beyond his local school. While ancient records credit him with several medical works, the attribution of any surviving text to Thessalus is uncertain. No writings survive under his name with certainty, and modern scholars debate whether any treatises in the large Hippocratic Corpus can be linked to him. Some have speculated about connections to works like <strong>On the Nature of Man</strong>, but these remain conjectures.</p>\n<p class=\"research-text\">Thessalus is historically significant as a key figure in preserving and promoting early Hippocratic medicine. As a direct successor to Hippocrates, his leadership helped institutionalize the Coan school&#x27;s approach, which emphasized rational observation over temple-based healing. His reported role at the Macedonian court illustrates the growing prestige and spread of this medical tradition. Although his own writings are lost, his work in teaching and transmitting his father&#x27;s methods was instrumental in shaping the collection of texts that later formed the foundation of Western medicine.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 5,
+  "works": [
+    {
+      "eul_wid": "ece-ae",
+      "title": {
+        "english": "On the Virtues of Herbs",
+        "ancient_greek": "Περὶ τῶν ἀρετῶν τῶν βοτάνων"
+      },
+      "url_slug": "thessalus-of-cos-virtues-herbs-ae-ece-ae",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/thessalus-of-cos/virtues-herbs-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ae-ece-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ae-ece-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ae-ece-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ae-ece-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-ae.epub"
+      }
+    },
+    {
+      "eul_wid": "ece-aa",
+      "title": {
+        "english": "On the Virtues of Herbs",
+        "ancient_greek": "Περὶ τῶν ἀρετῶν τῶν βοτάνων"
+      },
+      "url_slug": "thessalus-of-cos-virtues-herbs-aa-ece-aa",
+      "passages": 47,
+      "links": {
+        "html": "https://eulogikon.org/grc/thessalus-of-cos/virtues-herbs-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-aa-ece-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-aa-ece-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-aa-ece-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-aa-ece-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "ece-ab",
+      "title": {
+        "english": "On the Virtues of Herbs",
+        "ancient_greek": "Περὶ τῶν ἀρετῶν τῶν βοτάνων"
+      },
+      "url_slug": "thessalus-of-cos-virtues-herbs-ab-ece-ab",
+      "passages": 39,
+      "links": {
+        "html": "https://eulogikon.org/grc/thessalus-of-cos/virtues-herbs-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ab-ece-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ab-ece-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ab-ece-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ab-ece-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "ece-ac",
+      "title": {
+        "english": "On the Virtues of Herbs",
+        "ancient_greek": "Περὶ τῶν ἀρετῶν τῶν βοτάνων"
+      },
+      "url_slug": "thessalus-of-cos-virtues-herbs-ac-ece-ac",
+      "passages": 41,
+      "links": {
+        "html": "https://eulogikon.org/grc/thessalus-of-cos/virtues-herbs-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ac-ece-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ac-ece-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ac-ece-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ac-ece-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "ece-ad",
+      "title": {
+        "english": "On the Virtues of Herbs",
+        "ancient_greek": "Περὶ τῶν ἀρετῶν τῶν βοτάνων"
+      },
+      "url_slug": "thessalus-of-cos-virtues-herbs-ad-ece-ad",
+      "passages": 11,
+      "links": {
+        "html": "https://eulogikon.org/grc/thessalus-of-cos/virtues-herbs-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ad-ece-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ad-ece-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ad-ece-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ad-ece-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-ad.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/thessalus-of-cos",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/thessalus-of-cos-ece.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/thessalus-of-cos-ece.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/thessalus-of-cos-ece.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/thessalus-of-cos-ece.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

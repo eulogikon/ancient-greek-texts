@@ -1,0 +1,845 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "kge-aa",
+  "eul_aid": "kge",
+  "author_slug": "comic-fragments-anonymous-iii",
+  "work_slug": "text",
+  "url_slug": "comic-fragments-anonymous-iii-text-kge-aa",
+  "author": {
+    "english": "Comic Fragments Anonymous III",
+    "ancient_greek": "Κωμικὰ Ἀδέσποτα"
+  },
+  "title": {
+    "english": "Fragments of Anonymous Comedians",
+    "ancient_greek": "Ἀποσπάσματα ἀνωνύμων κωμῳδῶν"
+  },
+  "seo": {
+    "browser_title": "Comic Fragments of Anonymous Comedians on Eulogikon",
+    "meta_title": "Classical Fragments of Anonymous Comedians in Ancient Greek",
+    "meta_description": "Surviving fragments from unattributed ancient Greek comedies, preserving lost comic dialogue. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Fragments of Anonymous Comedians is a modern scholarly compilation that gathers 91 unattributed passages from lost Greek comedies. Designated under the editorial convention <strong>Comic Fragments Anonymous III</strong>, this collection consists of <strong>adespota</strong>, or anonymous works, preserved not in their original form but within the texts of later grammarians, lexicographers, and commentators such as Athenaeus, as well as on papyrus scraps. These fragments represent the scattered remains of comedies from the Old, Middle, and New periods that cannot be assigned to any known playwright. The passages are typically brief citations preserved for their lexical, grammatical, or cultural interest, and they reflect the broad thematic range of the genre, including social satire of contemporary figures and professions, parody of mythological gods and heroes, details of daily life such as food and domestic affairs, linguistic wordplay and proverbial expressions, and occasional political commentary, particularly in material derived from Old Comedy.</p>\n<p class=\"research-text\">The fragments have no independent manuscript tradition and survive solely through the quoting practices of ancient scholars. This specific anthology is a product of 19th and 20th-century philology, representing a systematic extraction and organization of this material from its source texts. The definitive critical edition for these and other comic fragments is found in <strong>Poetae Comici Graeci (PCG)</strong>, Volume VIII. While the collection itself is a modern reconstruction, the individual fragments constitute crucial evidence for the scope and character of Greek comedy beyond the limited corpus of complete plays that survive. They provide valuable data for philological studies of the Attic dialect and serve as incidental, though often vivid, sources for social history and material culture in the ancient Greek world.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "FCA tit",
+      "text": "FRAGMENTA COMICORUM ANONYMORUM.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 1",
+      "text": "Πόρνους μεγάλους Τιμαρχώδεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 2a",
+      "text": "Καλὸν δὲ τὸ ζῆν, ἄν τις ὡς δεῖ ζῆν μάθῃ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 2b",
+      "text": "Δᾶος πάρεστι τί ποτ’ ἀγγελῶν ἄρα;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 3",
+      "text": "Οὐδ’ ὅσον ἀκαρῆ τῆς τέχνης ἐπίσταμαι. Κατέπεσον ἀκαρὴς τῷ δέει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 4",
+      "text": "Γήμαντος αὐτοῦ δ’ εὐθὺς ἔσομ’ ἐλεύθερος. Ὡς τοῦτο δ’ εἶδεν, εὐθὺς ἦν ἄνω κάτω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 5",
+      "text": "Ἀλλὰ θῦε τοὺς κέδρους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 6",
+      "text": "Καὶ περιβόητον πᾶσιν ἀνθρώποις ποιεῖ αὑτὸν ὁ Κράτης, καὶ τοῦτο δὴ τὸ λεγόμενον ἥττων ἑαυτοῦ πορνιδίῳ τρισαθλίῳ ἑαυτὸν οὕτω παραδέδωκεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 7",
+      "text": "Χρηστοῦ δίδαγμ’ εὐηθίας καὶ φιλανθρώπου λογισμοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 8",
+      "text": "Δεῖ δ’ οἶμαι γαμεῖν τὸν ἐπιμελῆσαι δυνατόν, οἰκονομεῖν ὄχλον πλείω. τὸν ἀμελῆ μᾶλλον ἐπιθυμοῦντα δέ σχολῆς, ἵν’ ἔχων οἰκονόμον ἀδεῶς περιπατῇ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 9",
+      "text": "Τὴν ἀξίαν ἔδει γαμεῖν τὸν ἄξιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 10-11",
+      "text": "Ὥσπερ Φιλάμμων ζυγομαχῶν τῷ κωρύκῳ. Ὥσπερ σέλινον οὖλα τὰ σκέλη φορεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 12",
+      "text": "Οὐκ ἂν γένοιο μᾶλλον ἤ σε δεῖ ξένος ξένος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 13",
+      "text": "Ἐγώ ς’ ἔθηκα δοῦλον ὄντ’ ἐλεύθερον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 15",
+      "text": "Τὴν λαμπροτάτην πόλεων πασῶν ὁπόσας ὁ Ζεὺς ἀναφαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 16",
+      "text": "Ὁ Μνησίθεος δ’ ἔφη τὸν οἶνον τοὺς θεούς θνητοῖς καταδεῖξαι τοῖς μὲν ὀρθῶς χρωμένοις ἀγαθὸν μέγιστον, τοῖς δ’ ἀτάκτως τοὔμπαλιν· τροφήν τε γὰρ δίδωσι τοῖσι χρωμένοις, ἰσχύν τε ταῖς ψυχαῖσι καὶ τοῖς σώμασιν. εἰς τὴν ἰατρικήν τε χρησιμώτατον· καὶ τοῖς ποτοῖς γὰρ φαρμάκοις κεράννυται, καὶ τοῖσιν ἑλκωθεῖσιν ὠφέλημ’ ἔχει, ἐν ταῖς συνουσίαις τε ταῖς καθ’ ἡμέραν τοῖς μὲν μέτριον πίνουσι καὶ κεκραμένον εὐθυμίαν, ἐὰν δ’ ὑπερβάλῃς, ὕβριν, ἐὰν δ’ ἴσον ἴσῳ προσφέρῃ, μανίαν ποιεῖ, ἐὰν δ’ ἄκρατον, παράλυσιν τῶν σωμάτων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 17",
+      "text": "Ἀλλὰ ξενῶνας οἶγε καὶ ῥᾶνον δόμους, στρώννυ τε κοίτας καὶ πυρὸς φλέξον μένος, κρατῆρά τ’ αἴρου καὶ τὸν ἥδιστον κέρα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 18",
+      "text": "Οὔτ’ ἀλφίτοισι χαίρομεν· πλήρης γὰρ ἄρτων ἡ πόλις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 19a",
+      "text": "Μέλη πάραυλα κἀκρότητα κύμβαλα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 19b",
+      "text": "Γαστέρας αὐταῖσι μήτραις καὶ καλῶν ζωμῶν πλέας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 20b",
+      "text": "Πᾶσιν δὲ θνητοῖς βούλομαι παραινέσαι τοὐφήμερον ζῆν ἡδέως· ὁ γὰρ θανών τὸ μηδέν ἐστι καὶ σκιὰ κατὰ χθονός. μικροῦ δὲ βιότου ζῶντ’ ἐπαυρέσθαι χρεών.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 21b",
+      "text": "Γυμνὴν ἐποίησε τὴν Ἀθηνᾶν Λαχάρης οὐδὲν ἐνοχλοῦσαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 22-26",
+      "text": "Ἀγαθὸς ἀνὴρ λέγοιτ’ ἂν ὁ φέρων τἀγαθά. Ἀγαθὸς ἂν εἴη χὠ φέρων καλῶς κακά. Εὐκαταφρόνητός ἐστι πενία, Δερκύλε. Ἐπὶ τοῖς παροῦσι τὸν βίον διάπλεκε. Ἡ τῶν φίλων σοι πίστις ἔστω κεκριμένη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 27a",
+      "text": "Ἀλλ’ Ἀλκιβιάδην τὸν ἁβρόν, ὦ γῆ καὶ θεοί, ὃν ἡ Λακεδαίμων μοιχὸν ἐπιθυμεῖ λαβεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 27b",
+      "text": "Περιφέρειν ματτύην καὶ ποδάριον, καὶ γαστρίον τακερόν τι καὶ μήτρας ἴσως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 27d",
+      "text": "Γλῶττάν τέ σοι δίδωσιν ἐν δήμῳ φορεῖν καλῶν λόγων ἀείνων, ᾗ πάντα κινήσεις λέγων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 27e",
+      "text": "Κᾆτ’ ἀπερρώγειν ὁ πούς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 28",
+      "text": "Κυψέλην δ’ ἔχεις ἄπλατον ἐν τοῖς ὠσίν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 29",
+      "text": "Ἀπόδυθι ταχέως, Πάμφιλ’, ἡμέτερος ὁ πλοῦς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 31",
+      "text": "Σύκῳ μὰ τὴν Δήμητρα σῦκον οὐδὲ ἕν οὕτως ὅμοιον γέγονεν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 32",
+      "text": "Οὐδὲν γλυκύτερόν ἐστιν ἢ πάντ’ εἰδέναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 33",
+      "text": "Ἡ δεῦρ’ ὁδός σοι τί δύναται νῦν, θεοπρόπε;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 35",
+      "text": "Ὧν ἐστι τὸ ζῆν οὐδὲν ἄλλ’ ἢ κραιπάλη, βαλανεῖ’, ἄκρατος, ἀμίδες, ἀργία, πότος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 36",
+      "text": "Μιλησία σμάραγδος, ἐμπόλημα τιμηέστατον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 37",
+      "text": "Καὶ μαστίχην τρώγοντες, ὄζοντες μύρου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 38",
+      "text": "Τὸ δ’ ὅλον οὐκ ἐπίσταμαι ἐγὼ ψιθυρίζειν, οὐδὲ κατακεκλασμένος πλάγιον ποιήσας τὸν τράχηλον περιπατεῖν, ὥσπερ ἑτέρους ὁρῶ κιναίδους ἐνθάδε πολλοὺς ἐν ἄστει καὶ πεπιττοκοπημένους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 40",
+      "text": "Ἂν μῦς διορύξῃ βωμὸν ὄντα πήλινον, κἂν μηδὲν ἄλλ’ ἔχων διατράγῃ θύλακον, ἀλεκτρυὼν τρεφόμενος ἂν ἀφ’ ἑσπέρας ἄσῃ, τιθέμενοι τοῦτο σημεῖόν τινες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 41",
+      "text": "Τίς ὧδε μῶρος καὶ λίαν ἀνειμένος εὔπιστος ἀνδρῶν, ὅστις ἐλπίζει θεούς ὀστῶν ἀσάρκων καὶ χολῆς πυρουμένης, ἃ καὶ κυσὶν πεινῶσιν οὐχὶ βρώσιμα, χαίρειν ἀπαρχαῖς καὶ γέρας λαχεῖν τόδε;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 41-42",
+      "text": "Ἀφόρητός ἐστιν εὐτυχῶν μαστιγίας. Βασιλεῖς ἐγένοντο χοἰ πρὶν ὄντες αἰπόλοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 43b",
+      "text": "Ἀμέλει ταδί μοι πρῶτον ἀμπίσχου λαβών.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 47",
+      "text": "Σύγγνωθί μοι καὶ μὴ χαλεφθῇς ὦ πάτερ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 48",
+      "text": "Δῆμος ἄστατον κακόν καὶ θαλάττῃ πάνθ’ ὅμοιον ὑπ’ ἀνέμου ῥιπίζεται, καὶ γαληνὸς ἔντ’ ἠχῷ πρὸς πνεῦμα βραχὺ κορύσσεται, κἄν τις αἰτία γένηται τὸν πολίτην κατέπιεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 49",
+      "text": "Δέσποινα πόλεων, πότνι’ Ἀθηναίων πόλις, ὡς δὴ καλόν σου φαίνεται τὸ νεώριον, ὡς καλὸς ὁ Παρθενών, καλὸς δ’ ὁ Πειραιεύς. ἄλση δὲ τίς πω τοιάδ’ ἔσχ’ ἄλλη πόλις; καὶ τοὐρανοῦ γ’ ὥς φασιν ἔστιν ἐν καλῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 50",
+      "text": "Τὸν νομοθέτην φασὶν Χαρώνδαν ἔν τινι νομοθεσίᾳ τά τ’ ἄλλα καὶ ταυτὶ λέγειν· ὁ παισὶν αὑτοῦ μητρυιὰν ἐπεισάγων μήτ’ εὐδοκιμείσθω μήτε μετεχέτω λόγου παρὰ τοῖς πολίταις, ὡς ἐπείσακτον κακόν κατὰ τῶν ἑαυτοῦ πραγμάτων πεπορισμένος. εἴτ’ ἐπέτυχες γάρ, φησί, γήμας τὸ πρότερον, εὐημερῶν κατάπαυσον· εἴτ’ οὐκ ἐπέτυχες, μανικὸν τὸ πεῖραν δευτέρας λαβεῖν πάλιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 51",
+      "text": "Οὑριστικὸς δ’ Εὐβουλίδης κερατίνας ἐρωτῶν καὶ ψευδαλάζοσιν λόγοις τοὺς, ῥήτορας κυλίων ἀπῆλθ’ ἔχων Δημοσθένους τὴν ῥωποπερπερήθραν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 53",
+      "text": "Ὡς Πριαμίδαισιν ἐμφερὴς ὁ βουκόλος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 54-55",
+      "text": "Εἶτα φίλ’, ὃς ἔχεις γυναῖκα σχοινίων πωλουμένων; Πάμφιλος γαμεῖ; γαμείτω· καὶ γὰρ ἠδίκησέ με.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 57",
+      "text": "Ὁ δ’ ἀγοράζει κλεῖδ’ ἔχων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 58",
+      "text": "Ἵνα μὴ τὸ γῆρας ἐπαναβὰν αὐτὸν λάθῃ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 59",
+      "text": "Ἀπεψίαν πέπονθεν ἐξ ἀπληστίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 60",
+      "text": "Ἁβροείμονές τε καὶ κατηγλαϊσμένοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 61",
+      "text": "Κἂν αἰγέρων ἔφυσαν εὐγενέστεραι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 62",
+      "text": "Ναστοὺς τροφαλίδας ἀμφιφῶντας ἰτρία.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 63",
+      "text": "Μοχθηρὸς ὢν καὶ τὴν γνώμην ἀχερδούσιος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 65",
+      "text": "Τὸν βδόλον δ’ οὐκ ἔστιν ἥτις ῥὶς ὑποστῆναι δύναιτ’ ἄν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 66",
+      "text": "Ὕδωρ δὲ πίνει τὸν δὲ Βίβλινον στυγεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 67",
+      "text": "Τῇ κλίμακι διαστρέφονται κατὰ μέλη στρεβλούμενοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 71",
+      "text": "Ὅστις τῆς ὁδοῦ ἡγήσεταί σοι τὴν ἐπιτάξ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 72",
+      "text": "Ὦ Ζεῦ γενέσθαι τῆσδέ μ’ ἐξάντην νόσου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 73a",
+      "text": "Κἄγωγ’ ἂν ἔζην καὶ σὺ τὸν λοιπὸν χρόνον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 74-75",
+      "text": "Συνεπίνομέν τε καὶ συνεκοτταβίζομεν. Τῶν κοτταβίων τὰ πολλὰ ἡμέτερα ἦν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 76b",
+      "text": "Ἔχων μὲν ἐν τῇ χειρὶ μῶλυ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 77",
+      "text": "Περίθες σεαυτῷ τὸν πνιγέα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 78",
+      "text": "Ἧς χωρὶς οὐδὲν σεμνὸν ἐξευρίσκεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 79",
+      "text": "Ἄρξαντος ἀνδρὸς δημόσια τὰ χρήματα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 83",
+      "text": "Ἐξὸν καθεύδειν τὴν ἐρωμένην ἔχων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 84",
+      "text": "Μὴ καταγελᾶτε τοῖς ἐμοῖς παθημάτοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 89",
+      "text": "Δυοῖν γυναικοῖν εἷς ἀνὴρ οὐ στέργεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 92",
+      "text": "Οὗτοι δ’ ἀφεστήκασι πλεῖν ἢ δύο δόχμα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 93-94",
+      "text": "Νέα δ’ ἔτ’ ἐστίν, οὐχ ὁρᾷς; καὶ γνῶμ’ ἔχει. Τὸ γνῶμα γοῦν βέβληκεν ὡς οὖς’ ἑπτέτης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 95b",
+      "text": "Χρόαν δὲ τὴν σὴν ἥλιος λάμπων φλογί αἰγυπτιάσει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 96",
+      "text": "Τὸν ἄνδρ’ ἀπωσάμην τε κἀπεγλαψάμην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 97",
+      "text": "Ψελλόν ἐστι καὶ καλεῖ τὴν ἄρκτον ἄρτον, τὴν δὲ Τυρὼ τροφαλίδα, τὸ δ’ ἄστυ σῦκα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 98",
+      "text": "Ἕξιππα καὶ τέθριππα καὶ ξυνωρίδες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 100",
+      "text": "Ἑκάβην ὀτοτύζουσαν καὶ καόμενον τὸν ἀχυρμόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 101",
+      "text": "Ὃς τόνδ’ ἔχεις τὸν σηκὸν ἵλεως γενοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 103",
+      "text": "Εἶτα δή εἰς τὴν πόλιν ἄξεις τήνδε τὴν ὀνώνιδα;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 132",
+      "text": "Οὐδ’ Ἰταλιώτης, οὐδ’ ἀλαζὼν οὐδαμῶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 164",
+      "text": "Ἐκ τοῦ γὰρ ἐσορᾶν γίγνετ’ ἀνθρώποις ἐρᾶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 167",
+      "text": "Ἀπτῆνα, τυτθόν, ἄρτι γυμνὸν ὀστράκων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 172",
+      "text": "Ἀλλ’ ἢ τρίορχος ἢ πτέρων ἢ στρουθίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 174",
+      "text": "Τίς γὰρ ἄν ἀντὶ ῥαφανῖδος ὀξυθύμι’ εἰσορῶν ἔλθοι πρὸς ἡμᾶς;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 179",
+      "text": "Φοινικελίκτην καὶ λόγων ἀλαζόνα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 182",
+      "text": "Οὐδ’ Ἀμυνίαν ὁρᾶτε πτωχὸν ὄντ’ ἐφ’ ἡμῖν;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 183",
+      "text": "Τῶν πολιτῶν ἄνδρας ὑμῖν δημιουργοὺς ἀποφανῶ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 184",
+      "text": "Θυμελικὰν ἴθι μάκαρ φιλοφρόνως εἰς ἔριν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 185",
+      "text": "Εὐφράνας ἡμᾶς ἀπόπεμπ’ οἴκαδ’ ἄλλον ἄλλοσε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 186",
+      "text": "Ἀνάπιπτε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 186",
+      "text": "[[Β]]\t πότερον ἀνδριάντας ἑστιᾷς; Βδελυρὸν μὲν οὖν τὸ πρᾶγμα, κοὐκ ἂν ἐβουλόμην λαχεῖν· ἐπειδὴ δ’ ἔλαχον, οὐκ ἂν ἐβουλόμην. Ἔνθα σταθεὶς φρές μ’ ὡς τὸ μειρακύλλιον. Ἀργοὶ κάθηνταί μοι γυναῖκες τέτταρες. Βαὺ βαὺ καὶ κυνὸς φωνὴν ἱείς. Ἀγρὸν ἔσχ’ ἐλάττω γῆν ἔχοντ’ ἐπιστολῆς Λακωνικῆς. Τοῖς γὰρ λάλοισιν ἐξ ἄκρου ἡ γλῶττα πᾶσίν ἐστι τετρυπημένη. Ἡ Μυῖα δ’ ἔδακνεν αὐτὸν ἄχρι τῆς καρδίας. Ἄγροικός εἰμι τὴν σκάφην σκάφην λέγων. Μολυβδίνας ἔχων πέδας ἐν βορβόρῳ κάθηται. Τουτὶ μὲν ὑπομόχθηρον, ἄλλο μοι λέγε. Ἤδη δὲ λέξω τὸν λόγον τοῦ δράματος. Σκῆψις εὑρεθήσεται, λόγος τις. Ἤμην πότ’ ἤμην τῶν σφριγώντων ἐν λόγοις. Χειμῶνος ὄντος τρεῖς σισύρας ὑφείλετο. Μουσῶν εὐκόλων ἀνθρήνιον. Τοιαῦτα μέντοι πόλλ’ ἀναγκαίως ἔχει πάσχειν, ὅταν λάγνην τὸν ὀφθαλμὸν φορῇς. Ὦ πρόδοτι καὶ παραγωγὲ καὶ μύραινα σύ. Μήθ’ ἁλμυρὸν εἶναι μήτε μῶρον ἐς τὸ πᾶν. Οὐκ ἂν φθάνοιμι τὴν μάχαιραν παρακονῶν. Παῦσαι μελῳδοῦς’, ἀλλὰ πεζῇ μοι φράσον. Ἤδη γάρ εἰμι μουσικώτερος τρύχνου. Τρώκτης σφόδρ’ ἐστίν, ἅμα σεσηρὼς καὶ γελῶν. Ἀκράχολον καὶ δύσκολόν τι φθέγγεται. Αἰσχυνόμενος δὲ περιπλέκει τὴν συμφοράν. Θερμολουσίαις ἁπαλοί, μαλθακευνίαις ἁβροί. Ἀνόητά γ’ εἰ τοῦτ’ ἦλθες ἐπιτάξων ἐμοί. Ἀνεβόησεν οὐράνιον ὅσον. Αὐτόκακον ἔοικε τῷδε. Ἀστεῖον εἰπεῖν καὶ κατερρινημένον. Ἄψυχον ἄνδρα λαμβάνειν συνέμπορον. Ἐλαφρὸν παραινεῖν τῷ κακῶς πεπραγότι. Χωρὶς γὰρ οἰκοῦς’ ἁρεταὶ τῶν ἡδονῶν. Εὐδαίμων Πολίαγρος οὐράνιον αἶγα πλουτοφόρον τρέφων. Τάλαντον ἡ προίξ· μὴ λάβω; ζῆν δ’ ἔστι μοι τάλαντον ὑπεριδόντι; τεύξομαι δ’ ὕπνου προέμενος; οὐ δώσω δὲ κἀν Αἵδου δίκην ὡς ἠσεβηκὼς εἰς τάλαντον ἀργυροῦν; Γέρων γέροντι γλῶτταν ἡδίστην ἔχει, παῖς παιδί, καὶ γυναικὶ πρόσφορον γυνή, νοσῶν τ’ ἀνὴρ νοσοῦντι, καὶ δυσπραξίᾳ ληφθεὶς ἐπῳδός ἐστι τῷ πειρωμένῳ. Ἐμέ, Νικόμαχε, πρὸς τὸν στρατιώτην τάξατε, ἂν μὴ ποιήσω πέπονα μαστιγῶν ὅλον, ἂν μὴ ποιήσω σπογγιᾶς μαλακώτερον τὸ πρόσωπον. Ὅταν δὲ νυστάζοντά μ’ ἡ λύπη λάβῃ, ἀπόλλυμ’ ὑπὸ τῶν ἐνυπνίων. Εἶτ’ εἰ μὲν ᾔδεις, ὅτι τοῦτον τὸν βίον, ὃν οὐκ ἐβίωσε, ζῶν διευτύχησεν ἄν, ὁ θάνατος οὐκ εὔκαιρος· εἰ δ’ ἤνεγκεν ἄν οὗτος ὁ βίος τι τῶν ἀνηκέστων, ἴσως ὁ θάνατος αὐτὸς σοῦ γέγονεν εὐνούστερος. Τὰ πανοῦργα ταῦτ’ ὀψάρια χὐποτρίμματα. Ὅ τι προῖκα μόνον ἔδωκαν ἡμῖν οἱ θεοί, τὸν ὕπνον, τί τοῦτο πολυτελὲς σαυτῷ ποιεῖς; Ἔα μ’ ἀπολέσθαι· τοῦτο γάρ μοι συμφέρει. Τί τἀλλότριον, ἄνθρωπε βασκανώτατε, κακὸν ὀξυδορκεῖς, τὸ δ’ ἴδιον παραβλέπεις; Ὁ δ’ οὔτ’ ἄγαν ὀπτοῖσιν οὔθ’ ἑφθοῖς ἄγαν, οὔθ’ ἧττον οὔτε μᾶλλον οὔτε διὰ μέσου ἠρτυμένοισι χαίρων ὥστ’ ἐπαινέσαι. Ὦ φιλτάτη κλίνη. Βακχὶς θεόν ς’ ἐνόμισεν, εὐδαῖμον λύχνε· καὶ τῶν θεῶν μέγιστος, εἰ ταύτῃ δοκεῖς. Τὸ φάρμακόν σου τὴν νόσον μείζω ποιεῖ. Στρωμνὰς ἁλουργοὺς καὶ τραπέζας πολυτελεῖς. Σκληράν, ἄκαρπον καὶ φυτεύεσθαι κακήν. Τὰ δ’ Ἴσθμι’ ἀποδοίμην ἂν ἡδέως ὅσου ὁ τῶν σελίνων στέφανός ἐστιν ὤνιος. Οἰκειότητα δ’ ἐμβλέπων ὠλίσθανον, ἀγένειος ἁπαλὸς καὶ νεανίας καλός. Ἐμφύντ’ ἀποθανεῖν κἀπιγράμματος τυχεῖν. Τίς δ’ ἄν σε νύμφη, τίς δὲ παρθένος νέα δέξαιτ’ ἄν; εὖ γ’ οὖν ὡς γαμεῖν ἔχεις τάλας. Γαμῶ γέρων εὖ οἶδα καὶ τοῖς γείτοσιν. Λευκή με θρὶξ ἀπόμισθον ἐντεῦθεν ποιεῖ. Γερονταγωγῶν κἀναμισθαρνεῖν διδούς. Μητίοχος μὲν γὰρ στρατηγεῖ, Μητίοχος δὲ τὰς ὁδούς, Μητίοχος δ’ ἄρτους ἐποπτᾷ, Μητίοχος δὲ τἄλφιτα, Μητίοχος δὲ πάντα ποιεῖ, Μητίοχος δ’ οἰμώξεται. Δειπνῶμεν ἵνα θύωμεν ἵνα λουώμεθα. Τί καὶ κάθῃ; πίωμεν· οὐ καὶ σιτία πάρεστιν ὦ δύστηνε; μὴ σαυτῷ φθόνει. οἱ δ’ εὐθὺς ἠλάλαξαν, ἐν δ’ ἐκίρνατο οἶνος· φέρων δὲ στέφανον ἀμφέθηκέ τις· ὑμνεῖτο δ’ αἰσχρῶς κλῶνα πρὸς καλὸν δάφνης, ὁ Φοῖβος οὐ προσῳδά· τήν τ’ ἐναύλιον ὠθῶν τις ἐξέκλαξε σύγκοιτον φίλην. Ἐξυβρίσας πειθαρχεῖν οὐκέτι τολμᾷ, ἀλλὰ δακνάζει τὴν Εὔβοιαν καὶ ταῖς νήσοις ἐπιπηδᾷ. Δεινὸν ... κεραυνὸν ἐν γλώττῃ φέρει. Ἀνὴρ ἄριστος τἄλλα πλὴν ἐν ἀσπίδι. Ψαιστὰ λιβανωτὸν μόνα τ’ αὐτῶν ἥσομαι· οὐ τοῖς φίλοις θύω γὰρ ἀλλὰ τοῖς θεοῖς τανῦν. Εἰ μνημονεύεις εὖ παθὼν φιλεῖς τέ με, ἀπέχω πάλαι, Φιλῖνε, παρὰ σοῦ τὴν χάριν· τούτου γὰρ αὐτὴν ἕνεκα πρὸς σὲ κατεθέμην. Ἱμάτιον ἐφόρει μαλακὸν ἐρίων Σικελικῶν. Τὸ δὲ προσκεφάλαιόν φησιν ἅμα σοὶ βούλομαι. Ὁ πρῶτος εἰπών „μεταβολὴ πάντων γλυκύ,“ οὐχ ὑγίαινε, δέσποτ’. ἐκ μὲν γὰρ κόπου γλυκεῖ’ ἀνάπαυσις, ἐξ ἀλουσίας δ’ ὕδωρ, καὶ τἄλλα δὴ τὰ τοιαῦτ’· ἐὰν δ’ ἐκ πλουσίου πτωχὸς γένηται, μεταβολὴ μὲν ἡδὺ δ’ οὔ. ὥστ’ οὐχὶ πάντων ἡ μεταβολὴ δὴ γλυκύ. Ἀλλ’ Ἡράκλεις αὐλεῖ τις. Καὶ γὰρ μετὰ Κάλλα γέγονα καὶ μετ’ Αἰχμία, καὶ μετὰ Μενοίτα καὶ μετὰ Περδίκκα πάλιν, καὶ ναί γε μὰ Δία τρίτον ἔτος μετὰ Κινησία. Ἐλάνθανές με ῥᾳδιουργῶν περὶ τὴν πόλιν. Ἡ ναῦλος ἡμῖν τῆς νεὼς ὀφείλεται. Εἰ συγκεχρῶσθαι τοῖς νεκροῖς δυνήσεται. Εὐθὺς δὲ Φοῖνιξ γίγνομαι· τῇ μὲν δίδωμι χειρὶ τῇ δὲ λαμβάνω. Τὸ κνῖσος ὀπτῶν ὀλλύεις τοὺς γείτονας. Ὀλίγα τραύματ’ ἐξόπισθ’ ἔχων τῆς δειλίας σημεῖα κοὐχὶ τοῦ θράσους. Ἀλλ’ ἔπεσε ταχέως· δειλινὸς γὰρ ἤρξατο. Ἀμορφότατος τὴν ὄψιν εἰμὶ γὰρ φόβος, πάντων ἐλάχιστον τοῦ καλοῦ μετέχων θεός. Κέρδαιν’ ἑταῖρε καὶ θέρους καὶ χειμῶνος. Βοιωτιάζειν ἔμαθες. Ἅπαντα τὰ καλὰ τοῦ πονοῦντος γίγνεται. Ἅπανθ’ ὁ τοῦ ζητοῦντος εὑρίσκει πόνος. Οὐκ ἄν τις εἴπῃ πολλὰ θαυμασθήσεται, ὁ μικρὰ δ’ εἰπὼν μᾶλλον ἂν ᾖ χρήσιμα. Ληρεῖς ἐν οὐ δέοντι καιρῷ φιλοσοφῶν. Παραπλήσιον πρᾶγμ’ ἐστι γῆρας καὶ γάμος. τυχεῖν γὰρ αὐτῶν ἀμφοτέρων σπουδάζομεν, ὅταν δὲ τύχωμεν ὕστερον λυπούμεθα. Τὸν τῇ φύσει οἰκεῖον οὐδεὶς καιρὸς ἀλλότριον ποιεῖ. Γυναῖκα θάπτειν κρεῖττόν ἐστιν ἢ γαμεῖν. Ὅταν γὰρ ἄλοχον εἰς δόμους ἄγῃ πόσις. οὐχ ὡς δοκεῖ γυναῖκα λαμβάνει μόνον, ὁμοῦ δὲ τῇδ’ ἐπεισκομίζεται λαβών καὶ δαίμον’ ἤτοι χρηστὸν ἢ τοὐναντίον. Ἐγὼ γεωργῶ τὸν ἀγρόν, οὐχ ὅπως τρέφῃ αὐτός με, παρ’ ἐμοῦ δ’ ἵνα τροφὴν προσλαμβάνῃ. σκάπτω γὰρ αὐτὸς ἐπιμελῶς σπείρω τ’ ἀεί, καὶ πάντα ποιῶ πρὸς τὸ δοῦναι καὶ λαβεῖν. ὁ δὲ λαμβάνει μέν, ἀποδίδωσι δ’ οὐδὲ ἕν. ἀποστερητὴν ἔλαθον ἀγοράσας ἀγρόν. ἔσπειρα μὲν κριθῶν μεδίμνους εἴκοσιν· τούτων ἀπέδωκεν οὐδ’ ὅλους τρισκαίδεκα, οἱ δ’ ἕπτ’ ἐπὶ Θήβας ἐστράτευσάν μοι δοκῶ· τὸ τῶν γυναικῶν σχῆμα διατηρεῖ μόνον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 350",
+      "text": "[[Β]]\t ὀνησιφόρα γένοιτο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 350",
+      "text": "[[Α]]\t τοῦτο γίγνεται. ὃ γὰρ φέρει νῦν οὗτος, εἷς ὄνος φέρει. Τηρεῖν μὲν ἑτέρους οἱ γέροντες δυνάμεθα, ὑμεῖς δ’ ἀπολαύειν, ὧν ἔχουσιν, οἱ νέοι. Ἡ γὰρ σπάνις πρόχειρος εἰς τὸ δρᾶν κακά. Ἔρημός ἐστ’ ἄνθρωπος ἠπορημένος. Μηδέποτε πεῖραν τοῖς θεοῖς εὔχου λαβεῖν, Φαίδιμε, τοιούτου μηδενός, μηδ’ εἰδέναι ὡς ἔστιν ἑτέρῳ ῥᾴδιον παραινέσαι. Ἅπανθ’ ὁρῶ ἅμα τῇ τύχῃ ῥέοντα μεταπίπτοντά τε. Ἀλλ’ ἐστὶν εὔστοχόν τι βουλευτήριον ταὐτόματον. Ἐπηρεαστικόν γέ τι ταὐτόματόν ἐστι τῷ βίῳ. Ἡ τὰ θνητῶν καὶ τὰ θεῖα πάντ’ ἐπισκοποῦς’ ἀεί καὶ νέμους’ ἡμῶν ἑκάστῳ τὴν κατ’ ἀξίαν τύχη μερίδα. Ὁ πολὺς χρόνος πάντ’ ἐξελέγχει Νικοφῶν. Πᾶς ὁ καθ’ ἑαυτὸν τεχνολογῶν θαυμάζεται, διακρινόμενος δὲ πρὸς ἑτέρους ἐλέγχεται ὑποβολιμαίαν σύνεσιν ἠμφιεσμένος. Ἐρημία μεγάλη ’στὶν ἡ μεγάλη πόλις. Εἰ δὲ πᾶν ἔχει καλῶς, τῷ παιγνίῳ δότε κρότον καὶ πάντες ὑμεῖς μετὰ χαρᾶς κτυπήσατε. Οἶνός μ’ ἔπεισε δαιμόνων ὑπέρτατος. Χρυσί’ ἔστ’ ἄπεφθα τοῖς Παταικοῖς ἐμφερῆ. Ἀπηλλάγημεν πολυχέσου νοσήματος. Ἀσπαζόμεσθ’ ἐρετμία καὶ σκαλμίδια. Μυκονίων δίκην ἐπεισπέπαικεν εἰς τὰ συμπόσια. Καὶ φθειριῶσαν ὡς ὁ πρὶν Καλλισθένης. Χαλκεὺς οἷά τις γέμων καπνοῦ τε καὶ μαρίλης. Μὴ πολλάκις πρὸς τὸν αὐτὸν δεῖ λίθον παίειν ἔχοντα καιρὸν ὁμολογούμενον. Ἀλλ’ οὐδὲν δεῖ περὶ τὸν βωμὸν βαστάζειν τὰς ἐπινοίας. Ἐν δὲ διχοστασίῃ καὶ Ἀνδροκλέης πολεμαρχεῖ. Ἤτοι τέθνηκεν ἢ διδάσκει γράμματα. Εἰ μὴ δύναιο βοῦν ἐλᾶν ἔλαυν’ ὄνον. Ἐκκέκοφθ’ ἡ μουσική. Ἀτὰρ ἐκ καθαρῶν ἀχύρων σῖτον τετρύγηκας. Γέροντι μηδὲν μηδέποτε χρηστὸν ποιεῖν. Ἵππος με φέρει, βασιλεύς με τρέφει. Μηδέποτε μηδεὶς γένοιτο Μεγαρέων σοφώτερος. Ἐκ τῆς αὐτῆς ψιάθου γεγονώς.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "kge-ab",
+      "title": {
+        "english": "Comic Fragments on Human Follies",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀνθρωπίνων Μωριῶν"
+      },
+      "url_slug": "comic-fragments-anonymous-iii-human-follies-kge-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-iii/human-follies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii-human-follies-kge-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii-human-follies-kge-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii-human-follies-kge-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii-human-follies-kge-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii/human-follies.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "gzy-ab",
+      "title": {
+        "english": "Boeotian Banquet",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "demonicus-the-comic-poet-boeotian-banquet-ab-gzy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/demonicus-the-comic-poet/boeotian-banquet-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet-boeotian-banquet-ab-gzy-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet-boeotian-banquet-ab-gzy-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet-boeotian-banquet-ab-gzy-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet-boeotian-banquet-ab-gzy-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet/boeotian-banquet-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "dso-aa",
+      "title": {
+        "english": "Fragments of the Well and the Dog",
+        "ancient_greek": "Ἀποσπάσματα τοῦ Φρέατος καὶ τοῦ Κυνός"
+      },
+      "url_slug": "lysippus-the-comic-poet-well-dog-dso-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysippus-the-comic-poet/well-dog",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysippus-the-comic-poet-well-dog-dso-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysippus-the-comic-poet-well-dog-dso-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysippus-the-comic-poet-well-dog-dso-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysippus-the-comic-poet-well-dog-dso-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysippus-the-comic-poet/well-dog.epub"
+      }
+    },
+    {
+      "eul_wid": "efq-aa",
+      "title": {
+        "english": "Fragments on Adonis and Cinyras",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀδώνιδος καὶ Κινύρου"
+      },
+      "url_slug": "plato-the-comic-poet-adonis-cinyras-efq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato-the-comic-poet/adonis-cinyras",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet-adonis-cinyras-efq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet-adonis-cinyras-efq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet-adonis-cinyras-efq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet-adonis-cinyras-efq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/adonis-cinyras.epub"
+      }
+    },
+    {
+      "eul_wid": "efq-ab",
+      "title": {
+        "english": "Fragments on Cinyras and Adonis",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κινύρου καὶ Ἄδωνιδος"
+      },
+      "url_slug": "plato-the-comic-poet-cinyras-adonis-efq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato-the-comic-poet/cinyras-adonis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet-cinyras-adonis-efq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet-cinyras-adonis-efq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet-cinyras-adonis-efq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet-cinyras-adonis-efq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/cinyras-adonis.epub"
+      }
+    },
+    {
+      "eul_wid": "dxy-aa",
+      "title": {
+        "english": "Fragments on Daily Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ"
+      },
+      "url_slug": "pherecrates-the-comic-poet-daily-life-dxy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pherecrates-the-comic-poet/daily-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-daily-life-dxy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-daily-life-dxy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-daily-life-dxy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-daily-life-dxy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet/daily-life.epub"
+      }
+    },
+    {
+      "eul_wid": "fqe-aa",
+      "title": {
+        "english": "Fragments on Fish and Sea Creatures",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἰχθύων καὶ Ἑρπετῶν θαλασσίων"
+      },
+      "url_slug": "nausicrates-the-comic-poet-fish-sea-creatures-fqe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/nausicrates-the-comic-poet/fish-sea-creatures",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausicrates-the-comic-poet-fish-sea-creatures-fqe-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausicrates-the-comic-poet-fish-sea-creatures-fqe-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausicrates-the-comic-poet-fish-sea-creatures-fqe-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausicrates-the-comic-poet-fish-sea-creatures-fqe-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausicrates-the-comic-poet/fish-sea-creatures.epub"
+      }
+    },
+    {
+      "eul_wid": "czs-ac",
+      "title": {
+        "english": "Fragments on Language and Poetry",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γλώσσης καὶ Ποίησης"
+      },
+      "url_slug": "cratinus-the-comic-poet-language-poetry-czs-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/cratinus-the-comic-poet/language-poetry",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet-language-poetry-czs-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet-language-poetry-czs-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet-language-poetry-czs-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet-language-poetry-czs-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/language-poetry.epub"
+      }
+    },
+    {
+      "eul_wid": "fim-ac",
+      "title": {
+        "english": "On Homeric Parody",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "alcaeus-the-comic-poet-homeric-parody-fim-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/alcaeus-the-comic-poet/homeric-parody",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-homeric-parody-fim-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-homeric-parody-fim-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-homeric-parody-fim-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-homeric-parody-fim-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet/homeric-parody.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/comic-fragments-anonymous-iii/text",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii-text-kge-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii-text-kge-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii-text-kge-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii-text-kge-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii/text.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

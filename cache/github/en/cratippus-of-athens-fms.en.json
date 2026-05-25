@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "fms",
+  "auth_slug": "cratippus-of-athens",
+  "name": {
+    "english": "Cratippus of Athens",
+    "ancient_greek": "Κράτιππος ὁ Ἀθηναῖος"
+  },
+  "seo_h1": "Cratippus of Athens on the Hermae Affair",
+  "seo": {
+    "browser_title": "Cratippus of Athens on Eulogikon Greek Archive Collection",
+    "meta_title": "Cratippus of Athens Ancient Greek Historical Works",
+    "meta_description": "Cratippus of Athens, a 4th century BCE historian. His surviving historical work is preserved in fragments. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Cratippus of Athens was an Athenian historian of the 4th century BCE. He is known primarily as a continuator of Thucydides’ unfinished history of the Peloponnesian War. According to Dionysius of Halicarnassus, Cratippus took up the narrative from where Thucydides’ text breaks off in 411 BCE and brought it down to at least the Battle of Cnidus in 394 BCE. Plutarch confirms he was a contemporary of Thucydides and an Athenian historian, but no further biographical details survive.</p>\n<p class=\"research-text\">His historical work, likely titled Hellenica, is lost and survives only in fragments. It continued the account of the Peloponnesian War and its immediate aftermath from 411 to 394 BCE.</p>\n<p class=\"research-text\">Cratippus represents the immediate post-Thucydidean effort to complete the history of the war, alongside figures like Xenophon. Dionysius of Halicarnassus notes his plain style was an attempt to imitate Thucydides, though he judged Cratippus inferior to Xenophon in this endeavor. His inclusion by ancient critics marks him as a notable figure in the early development of Greek historiography.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "fms-aa",
+      "title": {
+        "english": "Fragments on the Hermae Affair",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Ἑρμαϊκοῦ Πράγματος"
+      },
+      "url_slug": "cratippus-of-athens-hermae-affair-fms-aa",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/cratippus-of-athens/hermae-affair",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratippus-of-athens-hermae-affair-fms-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratippus-of-athens-hermae-affair-fms-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratippus-of-athens-hermae-affair-fms-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratippus-of-athens-hermae-affair-fms-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratippus-of-athens/hermae-affair.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/cratippus-of-athens",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cratippus-of-athens-fms.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cratippus-of-athens-fms.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cratippus-of-athens-fms.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cratippus-of-athens-fms.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

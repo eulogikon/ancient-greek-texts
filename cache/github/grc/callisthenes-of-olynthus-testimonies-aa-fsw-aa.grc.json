@@ -1,0 +1,238 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "fsw-aa",
+  "eul_aid": "fsw",
+  "author_slug": "callisthenes-of-olynthus",
+  "work_slug": "testimonies-aa",
+  "url_slug": "callisthenes-of-olynthus-testimonies-aa-fsw-aa",
+  "author": {
+    "english": "Callisthenes of Olynthus",
+    "ancient_greek": "Καλλισθένης ὁ Ὀλύνθιος"
+  },
+  "title": {
+    "english": "Testimony and Fragment 2",
+    "ancient_greek": "Μαρτυρία καὶ Ἀπόσπασμα Β'"
+  },
+  "seo": {
+    "browser_title": "Testimonies 2 by Callisthenes of Olynthus on Eulogikon",
+    "meta_title": "Testimonies 2 by Callisthenes of Olynthus in Greek",
+    "meta_description": "Testimonies 2 is a historical work by Callisthenes of Olynthus.prose text offers insights into Greek history. Read in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">&quot;Testimonies 2&quot; is a fragmentary work attributed to the historian Callisthenes of Olynthus. The title suggests it was a collection of cited documents or authoritative statements, likely compiled as source material to support his larger historical narratives, such as his history of the Sacred War or his <strong>Hellenica</strong>. The work is now lost and survives only through quotations in later authors, including Strabo. The extant fragments indicate it presented evidentiary material for fourth-century BCE Greek political history, presumably involving official documents, treaties, or accounts related to major events. This compilation exemplifies the Hellenistic historiographical practice of source citation. While its direct influence is difficult to trace, Callisthenes&#x27; methodological approach to gathering and citing primary material contributed to the development of historical writing in the period, and his body of work provided important source material for later historians of Alexander the Great.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "37,t",
+      "text": "ANON. PAP. MICHIG. 1316 v ,37 ed. Jeffrey S. Rusten:[...] α̣ὐτὸν πρὸς τὴν ἀνάγνωˈ[σιν ἐ]ν̣ τῶι Πρὸς Καλλισθένην ˈ [ γεγ]ραμμένων βιβλίων ...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "32bis,f.(l1)",
+      "text": "STRABON 14, 4, 3: Καλλισθένης (palimps. [W. Aly—Fr. Sbor done, De Strabonis codice rescripto, Rom 1956, 111 〈3, 32〉]: καλλῖνος [F 8 spur. West] codd.) δὲ τὸν μὲν Κάλχαντα ἐν Κλάρωι τελευτῆσαι τὸν βίον φησί, τοὺς δὲ λαοὺς μετὰ Μόψου τὸν Ταῦρον ὑπερθέντας τοὺς μὲν ἐν Παμφυλίαι μεῖναι, τοὺς δὲ ἐν Κιλικίαι μερισθῆναι καὶ Συρίαι μέχρι καὶ Φοινί κης ... (14, 5, 16) ... καὶ δὴ καὶ ἡμεῖς ἐμνήσθημεν αὐτῶν ἐν τοῖς περὶ Κάλχαντος λόγοις καὶ τῆς ἔριδος ἣν ἤρισαν περὶ τῆς μαντικῆς ὅ τε Κάλχας καὶ ὁ Μόψος (s. 14, 1, 27). ταύτην τε γὰρ τὴν ἔριν μεταφέρουσιν ἔνιοι, καθάπερ καὶ Σοφοκλῆς (Ἑλένης ἀπαίτ. F 180 Radt), εἰς τὴν Κιλικίαν, καλέσας ἐκεῖνος (F 180a) αὐτὴν ‘Παμφυλίαν‘ τραγικῶς—καθάπερ καὶ τὴν Λυκίαν ‘Καρίαν‘ καὶ τὴν Τροίαν καὶ Λυδίαν {καὶ} ‘Φρυγίαν‘—, καὶ τὸν θάνατον δὲ τοῦ Κάλχαντος ἐνταῦθα παραδιδόασιν ἄλλοι τε καὶ Σοφοκλῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "fsw-ac",
+      "title": {
+        "english": "Historical and Encomiastic Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "callisthenes-of-olynthus-historical-encomiastic-fsw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/callisthenes-of-olynthus/historical-encomiastic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callisthenes-of-olynthus-historical-encomiastic-fsw-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callisthenes-of-olynthus-historical-encomiastic-fsw-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callisthenes-of-olynthus-historical-encomiastic-fsw-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callisthenes-of-olynthus-historical-encomiastic-fsw-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callisthenes-of-olynthus/historical-encomiastic.epub"
+      }
+    },
+    {
+      "eul_wid": "fsw-ab",
+      "title": {
+        "english": "Testimonies 1",
+        "ancient_greek": "Μαρτυρίαι Α'"
+      },
+      "url_slug": "callisthenes-of-olynthus-testimonies-ab-fsw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/callisthenes-of-olynthus/testimonies-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callisthenes-of-olynthus-testimonies-ab-fsw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callisthenes-of-olynthus-testimonies-ab-fsw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callisthenes-of-olynthus-testimonies-ab-fsw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callisthenes-of-olynthus-testimonies-ab-fsw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callisthenes-of-olynthus/testimonies-ab.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "pdc-ah",
+      "title": {
+        "english": "First Civil War",
+        "ancient_greek": "Ἐμφυλίων Πρώτη"
+      },
+      "url_slug": "appian-of-alexandria-first-civil-war-pdc-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/first-civil-war",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-first-civil-war-pdc-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-first-civil-war-pdc-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-first-civil-war-pdc-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria-first-civil-war-pdc-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/first-civil-war.epub"
+      }
+    },
+    {
+      "eul_wid": "dny-aa",
+      "title": {
+        "english": "Histories",
+        "ancient_greek": "Ἱστορίαι"
+      },
+      "url_slug": "thucydides-histories-dny-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/thucydides/histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-histories-dny-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-histories-dny-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-histories-dny-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-histories-dny-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides/histories.epub"
+      }
+    },
+    {
+      "eul_wid": "kci-ab",
+      "title": {
+        "english": "Hymn to Demeter of Hermione",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "aristocles-the-paradoxographer-hymn-demeter-hermione-kci-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristocles-the-paradoxographer/hymn-demeter-hermione",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-the-paradoxographer-hymn-demeter-hermione-kci-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-the-paradoxographer-hymn-demeter-hermione-kci-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-the-paradoxographer-hymn-demeter-hermione-kci-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-the-paradoxographer-hymn-demeter-hermione-kci-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-the-paradoxographer/hymn-demeter-hermione.epub"
+      }
+    },
+    {
+      "eul_wid": "gou-aa",
+      "title": {
+        "english": "On Cyzicus and Persian Customs",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "diogenes-of-cyzicus-persian-customs-gou-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-cyzicus/persian-customs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-cyzicus-persian-customs-gou-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-cyzicus-persian-customs-gou-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-cyzicus-persian-customs-gou-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-cyzicus-persian-customs-gou-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-cyzicus/persian-customs.epub"
+      }
+    },
+    {
+      "eul_wid": "gea-aa",
+      "title": {
+        "english": "On the Daphne Festivals",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "protagorides-the-historian-daphne-festivals-gea-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/protagorides-the-historian/daphne-festivals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagorides-the-historian-daphne-festivals-gea-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagorides-the-historian-daphne-festivals-gea-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagorides-the-historian-daphne-festivals-gea-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagorides-the-historian-daphne-festivals-gea-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagorides-the-historian/daphne-festivals.epub"
+      }
+    },
+    {
+      "eul_wid": "ndy-ab",
+      "title": {
+        "english": "On the Idioms of Thucydides to Ammonius",
+        "ancient_greek": "Περὶ τῶν Θουκιδίδου ἰδιωμάτων πρὸς Ἀμμαῖον"
+      },
+      "url_slug": "dionysius-of-halicarnassus-idioms-ammonius-ndy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/idioms-ammonius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-idioms-ammonius-ndy-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-idioms-ammonius-ndy-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-idioms-ammonius-ndy-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-idioms-ammonius-ndy-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/idioms-ammonius.epub"
+      }
+    },
+    {
+      "eul_wid": "izw-ab",
+      "title": {
+        "english": "On the Pontus River",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "agathocles-of-cyzicus-pontus-river-izw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/agathocles-of-cyzicus/pontus-river",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathocles-of-cyzicus-pontus-river-izw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathocles-of-cyzicus-pontus-river-izw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathocles-of-cyzicus-pontus-river-izw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathocles-of-cyzicus-pontus-river-izw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathocles-of-cyzicus/pontus-river.epub"
+      }
+    },
+    {
+      "eul_wid": "bls-ab",
+      "title": {
+        "english": "Testimonies 2",
+        "ancient_greek": "Μαρτυρίαι Β'"
+      },
+      "url_slug": "acusilaus-of-argos-testimonies-ab-bls-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/acusilaus-of-argos/testimonies-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos-testimonies-ab-bls-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos-testimonies-ab-bls-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos-testimonies-ab-bls-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos-testimonies-ab-bls-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos/testimonies-ab.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/callisthenes-of-olynthus/testimonies-aa",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callisthenes-of-olynthus-testimonies-aa-fsw-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callisthenes-of-olynthus-testimonies-aa-fsw-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callisthenes-of-olynthus-testimonies-aa-fsw-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callisthenes-of-olynthus-testimonies-aa-fsw-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callisthenes-of-olynthus/testimonies-aa.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

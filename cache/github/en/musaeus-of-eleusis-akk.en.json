@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "akk",
+  "auth_slug": "musaeus-of-eleusis",
+  "name": {
+    "english": "Musaeus of Eleusis",
+    "ancient_greek": "Μουσαῖος ὁ Ἐλευσίνιος"
+  },
+  "seo_h1": "Musaeus of Eleusis on Theogony and Orphic Tradition",
+  "seo": {
+    "browser_title": "Musaeus of Eleusis on Eulogikon Greek Archive Collection",
+    "meta_title": "Classical Musaeus of Eleusis Ancient Greek Works and Texts",
+    "meta_description": "Musaeus of Eleusis, a semi-legendary poet and religious teacher from the 6th century BCE. Works attributed to him. Free to download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Musaeus of Eleusis was a semi-legendary poet and religious teacher from the 6th century BCE. He is traditionally linked to the sacred rituals at Eleusis and is often described as a disciple or even the son of the mythical bard Orpheus, placing him within the inspired, mystical tradition of ancient Greek religion.</p>\n<p class=\"research-text\">Ancient sources credit him with composing oracles, hymns, and a poem on the origin of the gods. However, none of these works survive intact. Their historical reliability is complicated because, according to the historian Herodotus, a compiler named Onomacritus was accused of editing and forging verses attributed to Musaeus in the 6th century BCE.</p>\n<p class=\"research-text\">Despite the uncertain nature of his actual writings, Musaeus holds significant importance in Greek tradition. Modern scholars see him as a foundational link in transmitting Orphic religious ideas and theological poetry. He was considered a major authority on ritual practice and initiatory lore, especially for the Eleusinian Mysteries. His legendary status demonstrates how the name of an inspired poet-priest could carry great cultural and even political weight in the ancient world.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "akk-ab",
+      "title": {
+        "english": "Fragments on Theogony",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θεογονίας"
+      },
+      "url_slug": "musaeus-of-eleusis-theogony-fragments-akk-ab",
+      "passages": 24,
+      "links": {
+        "html": "https://eulogikon.org/grc/musaeus-of-eleusis/theogony-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis-theogony-fragments-akk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis-theogony-fragments-akk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis-theogony-fragments-akk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis-theogony-fragments-akk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis/theogony-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "akk-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Τὰ καθ' Ἡρὼ καὶ Λέναδρον"
+      },
+      "url_slug": "musaeus-of-eleusis-testimonies-akk-aa",
+      "passages": 13,
+      "links": {
+        "html": "https://eulogikon.org/grc/musaeus-of-eleusis/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis-testimonies-akk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis-testimonies-akk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis-testimonies-akk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis-testimonies-akk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis/testimonies.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/musaeus-of-eleusis",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/musaeus-of-eleusis-akk.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/musaeus-of-eleusis-akk.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/musaeus-of-eleusis-akk.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/musaeus-of-eleusis-akk.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

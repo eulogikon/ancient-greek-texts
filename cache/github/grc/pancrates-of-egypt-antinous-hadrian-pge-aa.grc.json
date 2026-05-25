@@ -1,0 +1,425 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "pge-aa",
+  "eul_aid": "pge",
+  "author_slug": "pancrates-of-egypt",
+  "work_slug": "antinous-hadrian",
+  "url_slug": "pancrates-of-egypt-antinous-hadrian-pge-aa",
+  "author": {
+    "english": "Pancrates of Egypt",
+    "ancient_greek": "Παγκράτης ὁ Αἰγύπτιος"
+  },
+  "title": {
+    "english": "Fragments on Antinous and Hadrian",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ἀντινόου καὶ Ἁδριανοῦ"
+  },
+  "seo": {
+    "browser_title": "Ancient Fragments of Pancrates of Egypt on Eulogikon",
+    "meta_title": "Fragments on Antinous and Hadrian in Ancient Greek",
+    "meta_description": "Pancrates of Egypt composed epic verses celebrating Antinous, the beloved of Emperor Hadrian, elevating the Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Antinous and Hadrian</strong> constitute the surviving portions of an epic poem composed in Greek dactylic hexameter by Pancrates, an Egyptian poet and priest, during the reign of the Roman Emperor Hadrian, likely between 130 and 138 CE. The work was crafted as a panegyric to honor Hadrian and his beloved companion, Antinous, whose death in 130 CE profoundly affected the emperor. The narrative centers on a legendary hunting expedition in the Libyan desert, where Hadrian and Antinous confront a formidable lion. In a pivotal miraculous event, interpreted within the poem as a divine sign from the god Poseidon, the lion is transformed into a magnificent fish, which Antinous then spears. This blending of historical framework with mythological metamorphosis served to glorify the imperial patrons, contributing to the early deification of Antinous and the promotion of his cult.</p>\n<p class=\"research-text\">The complete poem is lost; modern knowledge of it derives entirely from 31 fragmentary passages preserved through quotation by the later author Athenaeus in his work <strong>The Learned Banqueters</strong>. These excerpts primarily describe the dramatic hunt and the ensuing transformation. Scholars interpret the fragments as a deliberate political encomium, employing the formal diction and heroic conventions of Homeric epic to elevate Hadrian&#x27;s reign, mythologize the circumstances of Antinous&#x27;s death, and provide a foundational narrative supporting the establishment of the city Antinoöpolis.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[]. π̣αρέξω []..ν̣οησαι []... διδάξω [].σα̣.[ln_5][].ρ̣ωμ. [Ἀν]τινόοι̣ο̣ []..πυκασ̣σ̣ας [ ]υδα̣ρ̣ []..ο.ρ̣[ln_10]Ἀδρια̣ν̣ὸ̣ς̣ καὶ δ̣[ μυθ̣η̣ς̣...μα[ ὃς δ’ ἱ̣δρῶτα̣ κ̣[ πῶς ἦν τ̣ις̣ κα̣[ ὃς δ’ ἵππον θαρσ̣[[ln_15]ἄλλος {δ’} ἐπιστάμ̣[ενος αὐ̣χένα̣ς ἐστ̣εφ[ κάλλος ὅπως καὶ δ̣[ Ἀντίν̣ο̣ος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "χλαιν̣.[ ποσσὶ π̣έ̣διλα .[[ln_20]δ̣ε̣ι̣ρετ̣..α̣υ̣.[ [ ]δ̣εικ[ [ ]...[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2col1",
+      "text": "circa 27 versus perditi[ln_2][]ν̣",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2col2.1",
+      "text": "ἵππου] δ’ Ἀδρ[ή]στοιο θοώτερον, ὅς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2col2.2",
+      "text": "ποτ’ ἄνακτα ῥηιδί]ως",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2col2.3",
+      "text": "φεύγοντα κατὰ κλόνο̣ν̣ ἐξεσάωσε· τοῖ]ο̣ν ἐφεζόμενος δαμ̣ασήν[ο]ρα μίμνε λ̣έ̣ο̣ντα Ἀ]ντίνοος λαιῇ μὲν ἔχων ῥυτῆρα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2col2.4",
+      "text": "χαλινόν,[ln_5]δεξιτερῇ δ’ ἔγχος κεκορυθμένο[ν] ἐξ ἀδάμαντος. πρῶτος δ’ Ἀδριανὸς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2col2.5",
+      "text": "προιεὶς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2col2.6",
+      "text": "χαλκήρεον ἔγχος οὔτασεν, οὐδὲ δάμασσεν, ἑκὼν γὰρ ἀ̣πή̣μβροτε σ̣[ίντου· ε]ὐστοχίης γὰρ πάμπαν ἐβούλετο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2col2.7",
+      "text": "πειρηθῆναι Ἀ]ργειφοντιάδαο μεγηρ̣ά̣τ̣[ου Ἀντι]νόοιο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2col2.1",
+      "text": "[ln_10]θ]ὴρ δὲ τυπεὶς ἔτι μᾶλλο̣ν̣ [ὀ]ρ̣ίνετο, ποσσὶ δ’ ἄμυσσ[ε γαῖαν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2col2.2",
+      "text": "τρηχαλ[έ]η[ν] θυμούμ[ε]νος, ἐκ δὲ κονίη ὡ̣[ς ν]έφ[ος] ἱσταμένη φ̣[άος ἤ]χ̣λυεν ἠελίοιο. μαίνετο δ’ ὡς ὅτε κῦμ[α] πολυκλύστο[ι]ο θαλάσσης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2col2.3",
+      "text": "Στρυ[μ]ονίου κ[α]τόπισθεν ἐγειρομένου Ζεφύρ[οιο.[ln_15]ῥί]μ̣[φα δ’ ἐ]π’ ἀμφοτέροισιν ἐπώρορε, μάσ̣τ̣ι̣ε δ’ ο̣ὐ̣ρ̣[ῇ ἰσχία κ]α̣ὶ̣ πλευρὰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2col2.4",
+      "text": "σφετερῇ μάστιγι κε[λαινῇ ......]ο̣ς· ὄσσε δὲ δεινὸν ὑπ’ ὀφρύσι πῦρ φ̣[λεγέθεσκον, ἐκ δ’ αὖ λ]α̣βροβόρ[ω]ν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2col2.5",
+      "text": "στομάτων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2col2.6",
+      "text": "πο[λὺν ἀφρὸν ὀδόντων ἐξανίει] συναρασσομένων ἔντοσθεν ἐ̣ς̣ [αἶαν·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2col2.1",
+      "text": "[ln_20]κρατὸς δ’] ἐκ μεγάλοιο καὶ αὐχένος ἐκ λασιο[ῖο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2col2.2",
+      "text": "χαίτη] ἀ̣ειρομένη κατεσείετο, ἡ μὲν ἀπ’ ἄ[λλων δάσκιος] ἦ̣ν μελέων ἅτε δένδρεα, ἡ δ’ ἀπὸ ν[ώτου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2col2.3",
+      "text": "φρισσο]μένη θηκτοῖσιν ὁμοίιος ἦεν ἀκω[καῖς. ὣς ὅ γ’ ἔβη] κατέναντα θ[εο]κ̣λ̣ύτου Ἀντι[νόοιο,[ln_25]οἷα γιγαντ[ο]λ̣[έταο] Διὸ̣ς πά[ρο]ς ἄντα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2col2.4",
+      "text": "Τυφωεύ[ς. τὸν δὲ θοῶς ῥα̣ μαθ̣ὼν̣ ἐ̣σ̣σε̣[υμ]ένον [ ἵππῳ ἐπ’ Ἀν[τ]ινο..α̣κ̣.υ̣[.........]ρ̣ομ[ ῥῆξεν μὲν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2col2.5",
+      "text": "στομάχο̣ιο θε̣[μείλιά τ’ ἠδ]ὲ̣ τ̣[ένοντας αὐχενίους κ̣α̣ὶ̣ π̣άν̣τ̣α δι̣[έσχισε[ln_30]ὄφρα κατὰ χθονὸς ὦκα π̣αγ̣[ αὐτ̣[οῦ θ]η̣ροφόνοιο θ̣εοῦ [ .......]. πύμ̣ατον βρυ[κώμενος ........]μνομενοις̣ σκ̣[ ........] ἐν κονίῃσι πέσε̣ν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2col2.6",
+      "text": "προπε̣τ̣ῶ̣[ς[ln_35]........ἱ]ππείοισι βάλεν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2col2.7",
+      "text": "πλατὺ ν[ ..........ὁ]πλαῖσιν ἑαῖς κατέτυπ[τε ...........]ι̣α κατ’ ἀντία π̣υ̣γμ̣αχο̣[ ...........]μ̣ενος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2col2.8",
+      "text": "προς̣ ε̣[....]κ̣οσ[ ...............].οσαπ[[ln_40]................]σ̣α̣τ̣[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2col3",
+      "text": "[ φ̣[ δ̣ου̣ρι ζ[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2inc",
+      "text": "fr. loci incerti[ln_1][ ]χετο̣[ []ατ’ .[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "οὔλην ἕρπυλλον, λευκὸν κρίνον ἠδ’ ὑάκινθον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "πορφυρέην γλαύκου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.3",
+      "text": "τε χελιδονίοιο πέτηλα καὶ ῥόδον εἰαρινοῖσιν ἀνοιγόμενον ζεφύροισιν· οὔπω γὰρ φύεν ἄνθος ἐπώνυμον Ἀντινόοιο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.1",
+      "text": "αὐτὰρ ὅ γε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.2",
+      "text": "σπείσας ἐκ κόνδυος ἀργυφέοιο νέκταρ ἐπ’ ἀλλοδαπὴν οἶμον ἔβαινε πόδα.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "pge-ab",
+      "title": {
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
+      },
+      "url_slug": "pancrates-of-egypt-testimony-pge-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/pancrates-of-egypt/testimony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt-testimony-pge-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt-testimony-pge-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt-testimony-pge-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt-testimony-pge-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt/testimony.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "gwm-aa",
+      "title": {
+        "english": "Fragment and Title",
+        "ancient_greek": "Ἀπόσπασμα καὶ Τίτλος"
+      },
+      "url_slug": "choerilus-of-iasus-fragment-gwm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/choerilus-of-iasus/fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus-fragment-gwm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus-fragment-gwm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus-fragment-gwm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus-fragment-gwm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus/fragment.epub"
+      }
+    },
+    {
+      "eul_wid": "ica-aa",
+      "title": {
+        "english": "Fragments on Zeus and Dionysus",
+        "ancient_greek": "Ἀποσπάσματα περὶ Διὸς καὶ Διονύσου"
+      },
+      "url_slug": "moero-of-byzantium-zeus-dionysus-ica-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/moero-of-byzantium/zeus-dionysus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium-zeus-dionysus-ica-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium-zeus-dionysus-ica-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium-zeus-dionysus-ica-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium-zeus-dionysus-ica-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium/zeus-dionysus.epub"
+      }
+    },
+    {
+      "eul_wid": "mfi-ab",
+      "title": {
+        "english": "Geographical Fragments of Bithynia",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Βιθυνίας"
+      },
+      "url_slug": "demosthenes-of-bithynia-geographical-fragments-ab-mfi-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-bithynia/geographical-fragments-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-bithynia-geographical-fragments-ab-mfi-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-bithynia-geographical-fragments-ab-mfi-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-bithynia-geographical-fragments-ab-mfi-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-bithynia-geographical-fragments-ab-mfi-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-bithynia/geographical-fragments-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "mfi-aa",
+      "title": {
+        "english": "Geographical Fragments on Bithynia",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βιθυνίας Γεωγραφικά"
+      },
+      "url_slug": "demosthenes-of-bithynia-geographical-fragments-aa-mfi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-bithynia/geographical-fragments-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-bithynia-geographical-fragments-aa-mfi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-bithynia-geographical-fragments-aa-mfi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-bithynia-geographical-fragments-aa-mfi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-bithynia-geographical-fragments-aa-mfi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-bithynia/geographical-fragments-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "abe-ac",
+      "title": {
+        "english": "Iliad",
+        "ancient_greek": "Ἰλιάς"
+      },
+      "url_slug": "homer-iliad-abe-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer/iliad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-iliad-abe-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-iliad-abe-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-iliad-abe-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-iliad-abe-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer/iliad.epub"
+      }
+    },
+    {
+      "eul_wid": "izm-ab",
+      "title": {
+        "english": "On Human Folly and Divine Gifts",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "rhianus-of-crete-human-folly-divine-gifts-izm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/rhianus-of-crete/human-folly-divine-gifts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-human-folly-divine-gifts-izm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-human-folly-divine-gifts-izm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-human-folly-divine-gifts-izm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-human-folly-divine-gifts-izm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete/human-folly-divine-gifts.epub"
+      }
+    },
+    {
+      "eul_wid": "keq-aa",
+      "title": {
+        "english": "Oracle and Prophecy Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "boeo-of-delphi-oracle-fragments-keq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/boeo-of-delphi/oracle-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeo-of-delphi-oracle-fragments-keq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeo-of-delphi-oracle-fragments-keq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeo-of-delphi-oracle-fragments-keq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeo-of-delphi-oracle-fragments-keq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeo-of-delphi/oracle-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "fjq-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "theopompus-of-chios-testimonies-fjq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theopompus-of-chios/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios-testimonies-fjq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios-testimonies-fjq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios-testimonies-fjq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios-testimonies-fjq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios/testimonies.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/pancrates-of-egypt/antinous-hadrian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt-antinous-hadrian-pge-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt-antinous-hadrian-pge-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt-antinous-hadrian-pge-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt-antinous-hadrian-pge-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt/antinous-hadrian.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

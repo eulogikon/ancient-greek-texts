@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "atg-ab",
+  "eul_aid": "atg",
+  "author_slug": "susarion-of-megara",
+  "work_slug": "evils-marriage-ab",
+  "url_slug": "susarion-of-megara-evils-marriage-ab-atg-ab",
+  "author": {
+    "english": "Susarion of Megara",
+    "ancient_greek": "Σουσαρίων ὁ Μεγαρεύς"
+  },
+  "title": {
+    "english": "On the Evils of Marriage",
+    "ancient_greek": "Ἀπόσπασμα"
+  },
+  "seo": {
+    "browser_title": "On the Evils of Marriage by Susarion of Megara on Eulogikon",
+    "meta_title": "On the Evils of Marriage by Susarion of Megara in Greek",
+    "meta_description": "A comic verse fragment on marriage by Susarion of Megara. Early Greek comic performance. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric (frg)",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">On the Evils of Marriage is a brief fragment of comic verse attributed to Susarion of Megara, a semi-legendary figure traditionally credited with introducing early comic performances to Athens around 580 BCE. The work is not a full play but a short monologue in iambic verse, consisting of just a few lines preserved through quotation by later scholars. Its famous declaration frames marriage as a socially necessary burden, stating that women are an evil, yet a household cannot be managed without this evil. Only this single fragment survives, transmitted through much later grammatical and historical texts rather than an original manuscript. The date and even the historical existence of Susarion are uncertain, with modern scholars often viewing the name as a legendary attribution for an early performer; the fragment itself may be a later retrojection of a typical comic sentiment onto a foundational figure. The piece is thought to have originated in pre-dramatic, humorous recitations at rural festivals. Its primary importance is historiographical, as it served as key evidence for ancient critics tracing the origins of Athenian comedy, and its misogynistic joke about marriage became a pervasive theme in later Greek literature.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "unit_1",
+      "text": "ἀκούετε λεώι· Σουσαρίων λέγει τάδε υἱὸς Φιλίνου Μεγαρόθεν Τριποδίσκιος. κακὸν γυναῖκες· ἀλλ’ ὅμως ὦ δημόται οὐκ ἔστιν οἰκεῖν οἰκίαν ἄνευ κακοῦ. καὶ γὰρ τὸ γῆμαι καὶ τὸ μὴ γῆμαι κακόν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "atg-ac",
+      "title": {
+        "english": "On the Evils of Marriage",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "susarion-of-megara-evils-marriage-ac-atg-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/susarion-of-megara/evils-marriage-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-evils-marriage-ac-atg-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-evils-marriage-ac-atg-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-evils-marriage-ac-atg-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-evils-marriage-ac-atg-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara/evils-marriage-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "atg-aa",
+      "title": {
+        "english": "On the Nature of Women",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "susarion-of-megara-nature-women-atg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/susarion-of-megara/nature-women",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-nature-women-atg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-nature-women-atg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-nature-women-atg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-nature-women-atg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara/nature-women.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "lig-aa",
+      "title": {
+        "english": "Culinary and Medical Dialogues",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philemon-the-younger-culinary-medical-dialogues-aa-lig-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philemon-the-younger/culinary-medical-dialogues-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger-culinary-medical-dialogues-aa-lig-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger-culinary-medical-dialogues-aa-lig-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger-culinary-medical-dialogues-aa-lig-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger-culinary-medical-dialogues-aa-lig-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger/culinary-medical-dialogues-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "lpe-ac",
+      "title": {
+        "english": "Fragments from a Comedy",
+        "ancient_greek": "Ἀποσπάσματα Κωμῳδίας"
+      },
+      "url_slug": "philemon-syracusius-comedy-fragments-lpe-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/philemon-syracusius/comedy-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-comedy-fragments-lpe-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-comedy-fragments-lpe-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-comedy-fragments-lpe-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-comedy-fragments-lpe-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/comedy-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "ebk-aa",
+      "title": {
+        "english": "Fragments of a Comic Feast",
+        "ancient_greek": "Ἀποσπάσματα Συμποσίου Κωμικοῦ"
+      },
+      "url_slug": "archippus-the-comic-poet-comic-feast-ebk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/archippus-the-comic-poet/comic-feast",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet-comic-feast-ebk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet-comic-feast-ebk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet-comic-feast-ebk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet-comic-feast-ebk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet/comic-feast.epub"
+      }
+    },
+    {
+      "eul_wid": "ios-ab",
+      "title": {
+        "english": "Fragments on Cooks and Courtesans",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μάγειρων καὶ Ἑταιρῶν"
+      },
+      "url_slug": "posidippus-of-cassandreia-cooks-courtesans-ab-ios-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/posidippus-of-cassandreia/cooks-courtesans-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia-cooks-courtesans-ab-ios-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia-cooks-courtesans-ab-ios-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia-cooks-courtesans-ab-ios-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia-cooks-courtesans-ab-ios-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/cooks-courtesans-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "ksc-aa",
+      "title": {
+        "english": "Fragments on Seleucus and Drinking",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σελεύκου καὶ Ποτοῦ"
+      },
+      "url_slug": "epinicus-the-comic-poet-seleucus-drinking-ksc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epinicus-the-comic-poet/seleucus-drinking",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epinicus-the-comic-poet-seleucus-drinking-ksc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epinicus-the-comic-poet-seleucus-drinking-ksc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epinicus-the-comic-poet-seleucus-drinking-ksc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epinicus-the-comic-poet-seleucus-drinking-ksc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epinicus-the-comic-poet/seleucus-drinking.epub"
+      }
+    },
+    {
+      "eul_wid": "jzq-aa",
+      "title": {
+        "english": "King's Gift of a Village",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "stephanus-the-comic-poet-kings-gift-of-a-village-jzq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/stephanus-the-comic-poet/kings-gift-of-a-village",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet-kings-gift-of-a-village-jzq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet-kings-gift-of-a-village-jzq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet-kings-gift-of-a-village-jzq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet-kings-gift-of-a-village-jzq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet/kings-gift-of-a-village.epub"
+      }
+    },
+    {
+      "eul_wid": "gmm-ab",
+      "title": {
+        "english": "On Boeotia and Character",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "laon-the-comic-poet-boeotia-character-ab-gmm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/laon-the-comic-poet/boeotia-character-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet-boeotia-character-ab-gmm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet-boeotia-character-ab-gmm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet-boeotia-character-ab-gmm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet-boeotia-character-ab-gmm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet/boeotia-character-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "gmw-ab",
+      "title": {
+        "english": "Symposium and Drinking Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "clearchus-the-comic-poet-symposium-drinking-ab-gmw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/clearchus-the-comic-poet/symposium-drinking-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet-symposium-drinking-ab-gmw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet-symposium-drinking-ab-gmw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet-symposium-drinking-ab-gmw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet-symposium-drinking-ab-gmw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet/symposium-drinking-ab.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/susarion-of-megara/evils-marriage-ab",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-evils-marriage-ab-atg-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-evils-marriage-ab-atg-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-evils-marriage-ab-atg-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-evils-marriage-ab-atg-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara/evils-marriage-ab.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

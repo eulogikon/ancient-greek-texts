@@ -1,0 +1,226 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "gmc-aa",
+  "eul_aid": "gmc",
+  "author_slug": "patrocles-of-thurii",
+  "work_slug": "vicissitudes-fate",
+  "url_slug": "patrocles-of-thurii-vicissitudes-fate-gmc-aa",
+  "author": {
+    "english": "Patrocles of Thurii",
+    "ancient_greek": "Πατροκλῆς ὁ Θούριος"
+  },
+  "title": {
+    "english": "On the Vicissitudes of Fate",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "On the Vicissitudes of Fate by Patrocles on Eulogikon",
+    "meta_title": "Ancient On the Vicissitudes of Fate by Patrocles in Greek",
+    "meta_description": "A dramatic verse work by Patrocles of Thurii exploring fortune and human experience. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δράμα Ἀττικόν",
+      "english": "Attic Drama",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Δρᾶμα",
+      "english": "Drama",
+      "href": "/domains/drama"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">On the Vicissitudes of Fate, also known by the Greek title Apospasmata, is a work attributed to Patrocles of Thurii. The title Apospasmata translates as &quot;Extracts&quot; or &quot;Fragments,&quot; and the composition is described as a verse drama. The work is unattested in standard scholarly sources and its manuscript tradition is unrecorded, leaving its status as a complete, fragmentary, or lost text unverified. The provided metadata indicates it consists of five passages, and its titular designation as a collection of excerpts suggests the content may derive from larger dramatic works. While the author&#x27;s name and origin in the Greek colony of Thurii suggest a possible Hellenistic context, the work&#x27;s specific content, character, and historical or literary significance remain entirely undocumented.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "καὶ νῦν τὰ δεινὰ ταῦτα καὶ τὰ πόλλ’ ἔπη εἰς ὧδε μικρὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τεῦχος ἤθροισεν τύχη. τί δῆτα θνητοὶ πόλλ’ ἀπειλοῦμεν μάτην δεινοὺς ἐπ’ ἀλλήλοισι πέμποντες λόγους,[ln_5]καὶ πάντα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "συννοοῦμεν ἐκπράξειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "χερί, πρόσω βλέποντες; τὴν δὲ πλησίον τύχην οὐκ ἴσμεν οὐδ’ ὁρῶμεν ἀθλίου μόρου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "περὶ τοῖν Διοσκούροιν",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "bmc-aa",
+      "title": {
+        "english": "Chorus Against the Aulos",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "pratinas-of-phlius-against-aulos-bmc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pratinas-of-phlius/against-aulos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pratinas-of-phlius-against-aulos-bmc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pratinas-of-phlius-against-aulos-bmc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pratinas-of-phlius-against-aulos-bmc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pratinas-of-phlius-against-aulos-bmc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pratinas-of-phlius/against-aulos.epub"
+      }
+    },
+    {
+      "eul_wid": "gyu-ab",
+      "title": {
+        "english": "Fragments of Tragic Justice",
+        "ancient_greek": "Ἀποσπάσματα περὶ Τραγικῆς Δίκης"
+      },
+      "url_slug": "tragica-adespota-justice-fragments-gyu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/tragica-adespota/justice-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota-justice-fragments-gyu-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota-justice-fragments-gyu-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota-justice-fragments-gyu-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota-justice-fragments-gyu-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota/justice-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "fnw-aa",
+      "title": {
+        "english": "Fragments on Achilles and Thetis",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀχιλλέως καὶ Θέτιδος"
+      },
+      "url_slug": "astydamas-the-younger-achilles-thetis-fnw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/astydamas-the-younger/achilles-thetis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/astydamas-the-younger-achilles-thetis-fnw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/astydamas-the-younger-achilles-thetis-fnw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/astydamas-the-younger-achilles-thetis-fnw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/astydamas-the-younger-achilles-thetis-fnw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/astydamas-the-younger/achilles-thetis.epub"
+      }
+    },
+    {
+      "eul_wid": "cbm-bb",
+      "title": {
+        "english": "Helena",
+        "ancient_greek": "Ἑλένη"
+      },
+      "url_slug": "euripides-helena-cbm-bb",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/helena",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-helena-cbm-bb.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-helena-cbm-bb.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-helena-cbm-bb.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-helena-cbm-bb.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/helena.epub"
+      }
+    },
+    {
+      "eul_wid": "chg-aa",
+      "title": {
+        "english": "Italian Wonders",
+        "ancient_greek": "Ἰταλικὰ θαύματα"
+      },
+      "url_slug": "heliodorus-the-tragedian-of-athens-italian-wonders-chg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/heliodorus-the-tragedian-of-athens/italian-wonders",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-tragedian-of-athens-italian-wonders-chg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-tragedian-of-athens-italian-wonders-chg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-tragedian-of-athens-italian-wonders-chg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-tragedian-of-athens-italian-wonders-chg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-tragedian-of-athens/italian-wonders.epub"
+      }
+    },
+    {
+      "eul_wid": "buo-ad",
+      "title": {
+        "english": "Oedipus the King",
+        "ancient_greek": "Οἰδίπους Τύραννος"
+      },
+      "url_slug": "sophocles-oedipus-king-buo-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/sophocles/oedipus-king",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-oedipus-king-buo-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-oedipus-king-buo-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-oedipus-king-buo-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-oedipus-king-buo-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/oedipus-king.epub"
+      }
+    },
+    {
+      "eul_wid": "emo-aj",
+      "title": {
+        "english": "Persians",
+        "ancient_greek": "Πέρσαι"
+      },
+      "url_slug": "aeschylus-persians-emo-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus/persians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-persians-emo-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-persians-emo-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-persians-emo-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-persians-emo-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/persians.epub"
+      }
+    },
+    {
+      "eul_wid": "emo-ac",
+      "title": {
+        "english": "Prometheus Bound",
+        "ancient_greek": "Προμηθεὺς Δεσμώτης"
+      },
+      "url_slug": "aeschylus-prometheus-bound-emo-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus/prometheus-bound",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-prometheus-bound-emo-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-prometheus-bound-emo-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-prometheus-bound-emo-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-prometheus-bound-emo-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/prometheus-bound.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/patrocles-of-thurii/vicissitudes-fate",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/patrocles-of-thurii-vicissitudes-fate-gmc-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/patrocles-of-thurii-vicissitudes-fate-gmc-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/patrocles-of-thurii-vicissitudes-fate-gmc-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/patrocles-of-thurii-vicissitudes-fate-gmc-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/patrocles-of-thurii/vicissitudes-fate.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

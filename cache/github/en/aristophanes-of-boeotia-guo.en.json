@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "guo",
+  "auth_slug": "aristophanes-of-boeotia",
+  "name": {
+    "english": "Aristophanes of Boeotia",
+    "ancient_greek": "Ἀριστοφάνης ὁ Βοιωτός"
+  },
+  "seo_h1": "Aristophanes of Boeotia and the Legends of Boeotian Heroes",
+  "seo": {
+    "browser_title": "Aristophanes of Boeotia on Eulogikon Greek Archive",
+    "meta_title": "Aristophanes of Boeotia Ancient Greek Historical Works",
+    "meta_description": "Aristophanes of Boeotia, a 4th century BCE Aeolic Greek historian. Surviving fragments of his works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Αἰολική",
+      "english": "Aeolic (frg)",
+      "href": "/dialects/aeo"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Aristophanes of Boeotia was a 4th-century BCE Greek historian, distinguished from the Athenian comic playwright of the same name by his ethnic designation. No specific biographical details are recorded in the sources; his floruit is inferred from the content of his work.</p>\n<p class=\"research-text\">He is credited with writing a <strong>Boeotica</strong>, a history of the Boeotian region. His fragments are preserved through later authors like Harpocration and Strabo, providing material on Boeotian local history and myths.</p>\n<p class=\"research-text\">He represents Boeotian local historiography. His <strong>Boeotica</strong> dealt with the antiquities and traditions of his homeland, serving as a source for later historians and geographers. The fragments offer a perspective distinct from the dominant Athenian historical tradition.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "guo-aa",
+      "title": {
+        "english": "Boeotian Histories and Legends",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aristophanes-of-boeotia-histories-legends-guo-aa",
+      "passages": 8,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-boeotia/histories-legends",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia-histories-legends-guo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia-histories-legends-guo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia-histories-legends-guo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia-histories-legends-guo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia/histories-legends.epub"
+      }
+    },
+    {
+      "eul_wid": "guo-ab",
+      "title": {
+        "english": "Fragments on Boeotian Heroes",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βοιωτῶν Ἡρώων"
+      },
+      "url_slug": "aristophanes-of-boeotia-fragments-heroes-guo-ab",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-boeotia/fragments-heroes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia-fragments-heroes-guo-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia-fragments-heroes-guo-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia-fragments-heroes-guo-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia-fragments-heroes-guo-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia/fragments-heroes.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/aristophanes-of-boeotia",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristophanes-of-boeotia-guo.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristophanes-of-boeotia-guo.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristophanes-of-boeotia-guo.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristophanes-of-boeotia-guo.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

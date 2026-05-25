@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "des",
+  "auth_slug": "convivial-songs-anon",
+  "name": {
+    "english": "Convivial Songs Anonymous",
+    "ancient_greek": "Ἄδηλος Συμποσιακά"
+  },
+  "seo_h1": "Hymns and Drinking Songs of the Athenian Symposium",
+  "seo": {
+    "browser_title": "Anonymous Convivial Songs on Eulogikon Greek Archive",
+    "meta_title": "The Anonymous Convivial Songs Ancient Greek Poetry",
+    "meta_description": "Anonymous author of Greek convivial songs from the 5th-4th century BCE. Sympotic poetry in mixed dialects. Free to read and download from the Greek library."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The composers of the Convivial Songs are anonymous. The work originates from the 5th to 4th centuries BCE, the Classical period in which the Athenian symposium was a central cultural institution. The songs represent a genre of traditional drinking poetry, or skolia, that was performed orally at such gatherings before being recorded in writing.</p>\n<p class=\"research-text\">The Convivial Songs are a collection of short lyric poems composed for symposia. The work survives fragmentarily, primarily through quotations preserved by later authors such as Athenaeus.</p>\n<p class=\"research-text\">These songs are primary evidence for the atmosphere and popular culture of the Greek symposium. They reflect the values, proverbial wisdom, and political sentiments of aristocratic society, offering a collective poetic voice distinct from authored literary compositions. Their preservation in Athenaeus’s <strong>Deipnosophistae</strong> underscores their enduring interest as artifacts of convivial life.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "des-aa",
+      "title": {
+        "english": "Hymns and Convivial Prayers",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "convivial-songs-anon-hymns-prayers-des-aa",
+      "passages": 99,
+      "links": {
+        "html": "https://eulogikon.org/grc/convivial-songs-anon/hymns-prayers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/convivial-songs-anon-hymns-prayers-des-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/convivial-songs-anon-hymns-prayers-des-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/convivial-songs-anon-hymns-prayers-des-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/convivial-songs-anon-hymns-prayers-des-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/convivial-songs-anon/hymns-prayers.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/convivial-songs-anon",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/convivial-songs-anon-des.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/convivial-songs-anon-des.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/convivial-songs-anon-des.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/convivial-songs-anon-des.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

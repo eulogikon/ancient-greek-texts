@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "krs-aa",
+  "eul_aid": "krs",
+  "author_slug": "eumaeus-the-historian",
+  "work_slug": "hannibal-fragments",
+  "url_slug": "eumaeus-the-historian-hannibal-fragments-krs-aa",
+  "author": {
+    "english": "Eumaeus the Historian",
+    "ancient_greek": "Εὔμαιος ὁ Ἱστορικός"
+  },
+  "title": {
+    "english": "Fragments on Hannibal",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ἀννίβου"
+  },
+  "seo": {
+    "browser_title": "Fragments on Hannibal by Eumaeus the Historian on Eulogikon",
+    "meta_title": "Fragments on Hannibal by Eumaeus the Historian in Greek",
+    "meta_description": "Fragments on Carthaginian general Hannibal by Eumaeus. Greek prose text on military history. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects (frg)",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Fragments on Hannibal is a lost historical work attributed to an otherwise unknown author named Eumaeus the Historian. Presumed to have focused on the Carthaginian general Hannibal Barca, the work is known only by its title and the notation that it originally comprised at least two books. No direct quotations or substantive content from the work itself survive. Based on its subject, it likely addressed themes common to ancient treatments of Hannibal, including his military strategy and leadership during the Second Punic War, his character and campaigns, and the broader conflict between Rome and Carthage. The work is completely lost with no traceable transmission history; its categorization as fragments suggests it was known only through brief citations in later, now-untraced, sources. As a potential Greek source on Hannibal, it would represent a minor and unknown strand within the broader historiographical tradition, though its specific value or influence cannot be determined without any surviving content.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1 (1t)",
+      "text": "ΤΑ ΠΕΡΙ ΑΝΝΙΒΑΝ. E LIBRO SECUNDO. Athen. XII: Εὔμαχος δ’ ὁ Νεαπολίτης ἐν τῇ δευτέρᾳ τῶν Περὶ Ἀννίβαν ἱστοριῶν Ἱερώνυμόν φησι τὸν τυραννήσαντα Συρακοσίων ἀγαγέσθαι γυναῖκα τῶν ἐπ’ οἰκήματος προεστηκυιῶν, Πειθὼ ὄνομα, καὶ ἀποδεῖξαι βασιλίδα. ΠΕΡΙΗΓΗΣΙΣ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 (t)",
+      "text": "Phlegon. Mirab. c. 18: Εὔμαχος δέ φησιν ἐν Περιηγήσει, Καρχηδονίους περιταφρεύοντας τὴν ἰδίαν ἐπαρχίαν εὑρεῖν ὀρύσσοντας δύο σκελετοὺς ἐν σοροῖς κειμένους, ὧν τοῦ μὲν εἰκοσιτέσσαρας εἶναι πήχεις τὴν σύνθεσιν, τοῦ δὲ ἑτέρου εἰκοσιτρεῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "biq-aa",
+      "title": {
+        "english": "Egyptian Geographical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aristagoras-of-miletus-egyptian-geography-biq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristagoras-of-miletus/egyptian-geography",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-of-miletus-egyptian-geography-biq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-of-miletus-egyptian-geography-biq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-of-miletus-egyptian-geography-biq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-of-miletus-egyptian-geography-biq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-of-miletus/egyptian-geography.epub"
+      }
+    },
+    {
+      "eul_wid": "rmg-aa",
+      "title": {
+        "english": "Fragments of the Parthica",
+        "ancient_greek": "Ἀποσπάσματα τῆς Παρθικῆς"
+      },
+      "url_slug": "gaius-asinius-quadratus-parthica-fragments-rmg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/gaius-asinius-quadratus/parthica-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-asinius-quadratus-parthica-fragments-rmg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-asinius-quadratus-parthica-fragments-rmg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-asinius-quadratus-parthica-fragments-rmg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-asinius-quadratus-parthica-fragments-rmg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-asinius-quadratus/parthica-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "lls-aa",
+      "title": {
+        "english": "Fragments on Cretan Cities",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κρητικῶν Πόλεων"
+      },
+      "url_slug": "xenion-the-historian-cretan-cities-lls-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenion-the-historian/cretan-cities",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenion-the-historian-cretan-cities-lls-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenion-the-historian-cretan-cities-lls-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenion-the-historian-cretan-cities-lls-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenion-the-historian-cretan-cities-lls-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenion-the-historian/cretan-cities.epub"
+      }
+    },
+    {
+      "eul_wid": "kdw-aa",
+      "title": {
+        "english": "Geographical Fragments on Caria",
+        "ancient_greek": "Ἀποσπάσματα περὶ Καρίας"
+      },
+      "url_slug": "apollonius-of-aphrodisias-geographical-caria-kdw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollonius-of-aphrodisias/geographical-caria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-aphrodisias-geographical-caria-kdw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-aphrodisias-geographical-caria-kdw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-aphrodisias-geographical-caria-kdw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-aphrodisias-geographical-caria-kdw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-aphrodisias/geographical-caria.epub"
+      }
+    },
+    {
+      "eul_wid": "lfe-aa",
+      "title": {
+        "english": "Historical Fragments on the Getae",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γετῶν"
+      },
+      "url_slug": "crito-of-pieria-historical-fragments-getae-lfe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/crito-of-pieria/historical-fragments-getae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-pieria-historical-fragments-getae-lfe-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-pieria-historical-fragments-getae-lfe-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-pieria-historical-fragments-getae-lfe-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-pieria-historical-fragments-getae-lfe-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-pieria/historical-fragments-getae.epub"
+      }
+    },
+    {
+      "eul_wid": "ofq-aa",
+      "title": {
+        "english": "Jewish War-the Romans",
+        "ancient_greek": "Ἰουδαϊκοῦ πολέμου πρὸς Ῥωμαίους"
+      },
+      "url_slug": "josephus-jewish-war-ofq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/josephus/jewish-war",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus-jewish-war-ofq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus-jewish-war-ofq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus-jewish-war-ofq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus-jewish-war-ofq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/jewish-war.epub"
+      }
+    },
+    {
+      "eul_wid": "npc-aa",
+      "title": {
+        "english": "Marvels",
+        "ancient_greek": "Θαύματα"
+      },
+      "url_slug": "palatine-paradoxographer-marvels-npc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/palatine-paradoxographer/marvels",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/palatine-paradoxographer-marvels-npc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/palatine-paradoxographer-marvels-npc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/palatine-paradoxographer-marvels-npc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/palatine-paradoxographer-marvels-npc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/palatine-paradoxographer/marvels.epub"
+      }
+    },
+    {
+      "eul_wid": "cvm-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "hellanicus-of-lesbos-testimonies-cvm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hellanicus-of-lesbos/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellanicus-of-lesbos-testimonies-cvm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellanicus-of-lesbos-testimonies-cvm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellanicus-of-lesbos-testimonies-cvm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellanicus-of-lesbos-testimonies-cvm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellanicus-of-lesbos/testimonies.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/eumaeus-the-historian/hannibal-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumaeus-the-historian-hannibal-fragments-krs-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumaeus-the-historian-hannibal-fragments-krs-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumaeus-the-historian-hannibal-fragments-krs-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumaeus-the-historian-hannibal-fragments-krs-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumaeus-the-historian/hannibal-fragments.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

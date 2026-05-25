@@ -1,0 +1,204 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "anw-aa",
+  "eul_aid": "anw",
+  "author_slug": "cleobulus-of-lindos-i",
+  "work_slug": "letter-to-solon",
+  "url_slug": "cleobulus-of-lindos-i-letter-to-solon-anw-aa",
+  "author": {
+    "english": "Cleobulus of Lindos I",
+    "ancient_greek": "Κλεόβουλος ὁ Λίνδιος"
+  },
+  "title": {
+    "english": "Letter to Solon",
+    "ancient_greek": "Ἐπιστολή"
+  },
+  "seo": {
+    "browser_title": "Letter to Solon by Cleobulus of Lindos on Eulogikon",
+    "meta_title": "Ancient Letter to Solon by Cleobulus of Lindos in Greek",
+    "meta_description": "A proverbial saying from Cleobulus, one of the Seven Sages of Greece. It offers ancient wisdom. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Presocratic",
+      "href": "/affiliations/presocratic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Letter to Solon is a brief, proverbial saying attributed to Cleobulus of Lindos, one of the legendary Seven Sages of archaic Greece. Preserved not as an independent document but within the biographical narrative of Diogenes Laertius&#x27;s <strong>Lives of the Eminent Philosophers</strong>, it is less a literal letter than a piece of encapsulated wisdom. According to the account, Cleobulus invited the Athenian lawgiver Solon to Lindos, suggesting the city, being democratically governed and an island, presented an easy opportunity for Solon to seize power. The core of the message is the maxim &quot;one ought to have measure,&quot; a single line that embodies the principle of moderation for which Cleobulus was renowned. Modern scholarship regards such epistolary exchanges among the Seven Sages as apocryphal, later literary constructs designed to illustrate their characteristic philosophies. Within this context, the saying functions as a piece of gnomic political advice, advocating for a measured, middle course in statecraft and implicitly warning against the extremes of tyranny or radical democracy. It stands as a characteristic example of the pithy, ethical style of archaic Greek wisdom literature.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Σόλωνι. Πολλοὶ μέν τιν ἔασιν ἕταροι καὶ οἶκος πάντη, φαμὶ δὲ ἐγὼν ποτανιωτάταν ἐσεῖσθαι Σόλωνι τὰν Λίνδον δαμοκρατεομέναν. καὶ ἁ νᾶσος πελαγία, ἔνθα οἰκέοντι οὐδὲν δεινὸν ἐκ Πεισιστράτω, καὶ τοὶ ἕταροι δὲ ἑκαστόθεν πὰρ τὺ βασοῦνται.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "lea-ab",
+      "title": {
+        "english": "Astrological Fragment",
+        "ancient_greek": "Ἀστρολογικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "orphic-poems-astrological-fragment-lea-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/orphic-poems/astrological-fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-astrological-fragment-lea-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-astrological-fragment-lea-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-astrological-fragment-lea-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-astrological-fragment-lea-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/astrological-fragment.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-ai",
+      "title": {
+        "english": "Comparison of Agis and Cleomenes and the Gracchi",
+        "ancient_greek": "Σύγκρισις Ἄγιδος καὶ Κλεομένους καὶ Γράκχων"
+      },
+      "url_slug": "plutarch-of-chaeronea-agis-cleomenes-gracchi-okg-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/agis-cleomenes-gracchi",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agis-cleomenes-gracchi-okg-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agis-cleomenes-gracchi-okg-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agis-cleomenes-gracchi-okg-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agis-cleomenes-gracchi-okg-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agis-cleomenes-gracchi.epub"
+      }
+    },
+    {
+      "eul_wid": "nwu-aa",
+      "title": {
+        "english": "Life of Aeschines",
+        "ancient_greek": "Βίος Αἰσχίνου"
+      },
+      "url_slug": "apollonius-of-tyana-ii-life-aeschines-nwu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollonius-of-tyana-ii/life-aeschines",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-ii-life-aeschines-nwu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-ii-life-aeschines-nwu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-ii-life-aeschines-nwu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-ii-life-aeschines-nwu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-ii/life-aeschines.epub"
+      }
+    },
+    {
+      "eul_wid": "uyg-ae",
+      "title": {
+        "english": "On Philebus",
+        "ancient_greek": "Περὶ Φιλήβου"
+      },
+      "url_slug": "damascius-of-damascus-philebus-uyg-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/damascius-of-damascus/philebus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-philebus-uyg-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-philebus-uyg-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-philebus-uyg-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-philebus-uyg-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus/philebus.epub"
+      }
+    },
+    {
+      "eul_wid": "jss-aa",
+      "title": {
+        "english": "On the Contempt of the Irrational",
+        "ancient_greek": "Περὶ ἀλόγου καταφρονήσεως"
+      },
+      "url_slug": "polystratus-the-epicurean-contempt-irrational-jss-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/polystratus-the-epicurean/contempt-irrational",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polystratus-the-epicurean-contempt-irrational-jss-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polystratus-the-epicurean-contempt-irrational-jss-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polystratus-the-epicurean-contempt-irrational-jss-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polystratus-the-epicurean-contempt-irrational-jss-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polystratus-the-epicurean/contempt-irrational.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-af",
+      "title": {
+        "english": "On the Generation of Animals",
+        "ancient_greek": "Περὶ Ζῴων Γενέσεως"
+      },
+      "url_slug": "aristotle-generation-animals-hgw-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/generation-animals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-animals-hgw-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-animals-hgw-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-animals-hgw-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-animals-hgw-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/generation-animals.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-cb",
+      "title": {
+        "english": "Symposium of the Seven Sages",
+        "ancient_greek": "Πων επτά σοφών συμπόσιον"
+      },
+      "url_slug": "plutarch-of-chaeronea-symposium-seven-sages-okg-cb",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/symposium-seven-sages",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposium-seven-sages-okg-cb.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposium-seven-sages-okg-cb.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposium-seven-sages-okg-cb.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposium-seven-sages-okg-cb.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/symposium-seven-sages.epub"
+      }
+    },
+    {
+      "eul_wid": "diy-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "melissus-of-samos-testimonies-diy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/melissus-of-samos/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissus-of-samos-testimonies-diy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissus-of-samos-testimonies-diy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissus-of-samos-testimonies-diy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissus-of-samos-testimonies-diy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissus-of-samos/testimonies.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/cleobulus-of-lindos-i/letter-to-solon",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulus-of-lindos-i-letter-to-solon-anw-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulus-of-lindos-i-letter-to-solon-anw-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulus-of-lindos-i-letter-to-solon-anw-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulus-of-lindos-i-letter-to-solon-anw-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulus-of-lindos-i/letter-to-solon.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

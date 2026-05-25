@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "vhm",
+  "auth_slug": "anonymous-dialogue-on-political-science",
+  "name": {
+    "english": "Dialogue on Political Science Anonymous",
+    "ancient_greek": "Ἀνώνυμος διάλογος περὶ τῆς πολιτικῆς ἐπιστήμης"
+  },
+  "seo_h1": "The Anonymous Dialogue on Political Science",
+  "seo": {
+    "browser_title": "Anonymous Dialogue on Political Science on Eulogikon Archive",
+    "meta_title": "Anonymous Dialogue on Political Science Ancient Greek Works",
+    "meta_description": "Anonymous 6th century CE dialogue on political science. This philosophical prose work is preserved. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ φιλοσοφική",
+      "english": "Philosophical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The author of the Anonymous Dialogue on Political Science is unknown. Scholarly consensus, based on the work’s content, dates it to the mid-to-late 6th century CE during the reign of Emperor Justinian I. The text reveals an author deeply versed in Neoplatonic philosophy, Roman law, and contemporary imperial administration, likely a member of the educated Constantinopolitan elite.</p>\n<p class=\"research-text\">The sole extant work is the fragmentary Dialogue on Political Science. Only substantial portions of Books 4, 5, and 6 survive from a longer original. This prose dialogue treats political theory, the ideal state, and practical matters of law, warfare, and governance.</p>\n<p class=\"research-text\">The dialogue is a critical document of late antique political thought, uniquely synthesizing Neoplatonic philosophy with 6th-century Byzantine imperial ideology. It demonstrates the enduring vitality of secular Greek political philosophy and provides crucial insight into contemporary elite perspectives on emperorship, law, and social order, engaging directly with Platonic models and Justinianic reforms.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "vhm-aa",
+      "title": {
+        "english": "Dialogue on Political Science",
+        "ancient_greek": "Περὶ Πολιτικῆς Ἐπιστήμης"
+      },
+      "url_slug": "anonymous-dialogue-on-political-science-dialogue-vhm-aa",
+      "passages": 55,
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-dialogue-on-political-science/dialogue",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-dialogue-on-political-science-dialogue-vhm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-dialogue-on-political-science-dialogue-vhm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-dialogue-on-political-science-dialogue-vhm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-dialogue-on-political-science-dialogue-vhm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-dialogue-on-political-science/dialogue.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/anonymous-dialogue-on-political-science",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-dialogue-on-political-science-vhm.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-dialogue-on-political-science-vhm.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-dialogue-on-political-science-vhm.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-dialogue-on-political-science-vhm.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "kak",
+  "auth_slug": "boeus-the-epic-poet",
+  "name": {
+    "english": "Boeus the Epic Poet",
+    "ancient_greek": "Βοῖος ὁ ἐποποιός"
+  },
+  "seo_h1": "Boeus the Epic Poet and the Pandareus Myth",
+  "seo": {
+    "browser_title": "Boeus the Epic Poet of Greece on Eulogikon Greek Archive",
+    "meta_title": "Boeus Ancient Greek Epic Poetry and Surviving Works",
+    "meta_description": "Boeus was a Hellenistic poet writing epic verse in Homeric style. His surviving works are epic poetry. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Boeus was a Greek poet who lived during the Hellenistic period, around the 3rd century BCE. He is known only as an author of epic poetry, writing in the traditional Homeric style of hexameter verse. No details about his personal life or origin have survived.</p>\n<p class=\"research-text\">His sole known work is a poem titled Ornithogonia, or &quot;The Generation of Birds.&quot; The poem itself is lost, and our knowledge of it comes from fragments and references in later ancient writers. According to these sources, the poem described the origins and metamorphoses of various birds, often explaining how they were transformed from humans or mythological figures.</p>\n<p class=\"research-text\">Boeus&#x27;s significance lies in his contribution to a specialized type of Hellenistic literature. Modern scholars see his work as an early example of a cataloguing tradition that used poetry to systematize mythological explanations for the natural world. His poem represents a niche but documented strand of literary activity focused on origin stories. It was used as a source by later mythographers, indicating it was considered an authoritative reference on avian mythology in the ancient world.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "kak-aa",
+      "title": {
+        "english": "Fragments of the Pandareus Myth",
+        "ancient_greek": "Ἀποσπάσματα τοῦ Πανδάρεω Μύθου"
+      },
+      "url_slug": "boeus-the-epic-poet-pandareus-myth-kak-aa",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/boeus-the-epic-poet/pandareus-myth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeus-the-epic-poet-pandareus-myth-kak-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeus-the-epic-poet-pandareus-myth-kak-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeus-the-epic-poet-pandareus-myth-kak-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeus-the-epic-poet-pandareus-myth-kak-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeus-the-epic-poet/pandareus-myth.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/boeus-the-epic-poet",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/boeus-the-epic-poet-kak.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/boeus-the-epic-poet-kak.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/boeus-the-epic-poet-kak.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/boeus-the-epic-poet-kak.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

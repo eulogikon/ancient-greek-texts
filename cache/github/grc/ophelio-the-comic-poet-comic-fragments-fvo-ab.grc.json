@@ -1,0 +1,257 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "fvo-ab",
+  "eul_aid": "fvo",
+  "author_slug": "ophelio-the-comic-poet",
+  "work_slug": "comic-fragments",
+  "url_slug": "ophelio-the-comic-poet-comic-fragments-fvo-ab",
+  "author": {
+    "english": "Ophelio Comicus",
+    "ancient_greek": "Ὀφελίων ὁ Κωμικός"
+  },
+  "title": {
+    "english": "Comic Fragments on Daily Life",
+    "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ Κωμικά"
+  },
+  "seo": {
+    "browser_title": "Comic Fragments Daily Life by Ophelio Comicus on Eulogikon",
+    "meta_title": "Comic Fragments on Daily Life by Ophelio Comicus in Greek",
+    "meta_description": "Comic fragments by Ophelio Comicus on daily life in ancient Greece. Humorous glimpses into customs. Read free and download in original Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Comic Fragments on Daily Life by Ophelio Comicus are a collection of seven brief verse excerpts attributed to the obscure poet Ophelio. These fragments do not survive through a direct manuscript tradition but are preserved as quotations within the works of later ancient authors, most notably the grammarian Athenaeus of Naucratis in his second- or third-century CE work, the <strong>Deipnosophistae</strong>. They originate from lost plays of the Middle or New Comedy period and were selected by later scholars for their illustrative value regarding specific words, customs, or material culture. The content of the fragments focuses on the minutiae of everyday experience, with particular attention to food, dining, and social practices, observed through a lens of gentle humor and satire. Their transmission is entirely indirect, relying on imperial-era scholarly compilations like that of Athenaeus and later lexicographical sources; they are now standardly collected in modern editions such as <strong>Poetae Comici Graeci</strong>. Although the complete plays from which they came are lost, these fragments hold significant value as evidence for cultural history, providing rare glimpses into the daily life and vocabulary of the Hellenistic world beyond the major surviving works of Greek comedy.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ὠρχοῦντο ὥσπερ καρῖδες ἀνθράκων ἔπι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "πηδῶσι κυρταί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Κυρταὶ δ’ ὁμοῦ καρῖδες ἐν ξηρῷ πέδῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Λιβυκόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "τε πέπερι, θυμίαμα, βιβλίον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "Πλάτωνος ἐμβρόντητον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "Ἐλαίῳ Καρικῷ ἀλείφεται.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "fvo-aa",
+      "title": {
+        "english": "Comic Dance and Seasoning Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "ophelio-the-comic-poet-comic-dance-seasoning-fvo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ophelio-the-comic-poet/comic-dance-seasoning",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet-comic-dance-seasoning-fvo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet-comic-dance-seasoning-fvo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet-comic-dance-seasoning-fvo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet-comic-dance-seasoning-fvo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet/comic-dance-seasoning.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "kfk-ad",
+      "title": {
+        "english": "Anonymous Old Comedies",
+        "ancient_greek": "Ἀνώνυμοι Παλαιαὶ Κωμῳδίαι"
+      },
+      "url_slug": "comic-fragments-anonymous-i-old-comedies-kfk-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-i/old-comedies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i-old-comedies-kfk-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i-old-comedies-kfk-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i-old-comedies-kfk-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i-old-comedies-kfk-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/old-comedies.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-ba",
+      "title": {
+        "english": "Citharist",
+        "ancient_greek": "Κιθαριστής"
+      },
+      "url_slug": "menander-of-athens-citharist-hps-ba",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/citharist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-citharist-hps-ba.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-citharist-hps-ba.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-citharist-hps-ba.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-citharist-hps-ba.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharist.epub"
+      }
+    },
+    {
+      "eul_wid": "cxk-ab",
+      "title": {
+        "english": "Comic Feast of Crathis",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "metagenes-the-comic-poet-comic-feast-of-crathis-cxk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/metagenes-the-comic-poet/comic-feast-of-crathis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metagenes-the-comic-poet-comic-feast-of-crathis-cxk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metagenes-the-comic-poet-comic-feast-of-crathis-cxk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metagenes-the-comic-poet-comic-feast-of-crathis-cxk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metagenes-the-comic-poet-comic-feast-of-crathis-cxk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metagenes-the-comic-poet/comic-feast-of-crathis.epub"
+      }
+    },
+    {
+      "eul_wid": "ios-ac",
+      "title": {
+        "english": "Fragments of Apocleiomene",
+        "ancient_greek": "Ἀποσπάσματα τοῦ Ἀποκλειωμένου"
+      },
+      "url_slug": "posidippus-of-cassandreia-apocleiomene-ios-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/posidippus-of-cassandreia/apocleiomene",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia-apocleiomene-ios-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia-apocleiomene-ios-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia-apocleiomene-ios-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia-apocleiomene-ios-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/apocleiomene.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-ah",
+      "title": {
+        "english": "Fragments of the Asp Known Elsewhere",
+        "ancient_greek": "Ἀποσπάσματα τῆς Ἀσπίδος"
+      },
+      "url_slug": "menander-of-athens-asp-fragments-hps-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/asp-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-asp-fragments-hps-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-asp-fragments-hps-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-asp-fragments-hps-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-asp-fragments-hps-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/asp-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "hee-aa",
+      "title": {
+        "english": "Fragments on Greed and Possessions",
+        "ancient_greek": "Ἀποσπάσματα περὶ Πλεονεξίας καὶ Κτημάτων"
+      },
+      "url_slug": "apollodorus-of-gela-greed-possessions-hee-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollodorus-of-gela/greed-possessions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-gela-greed-possessions-hee-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-gela-greed-possessions-hee-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-gela-greed-possessions-hee-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-gela-greed-possessions-hee-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-gela/greed-possessions.epub"
+      }
+    },
+    {
+      "eul_wid": "gcw-ab",
+      "title": {
+        "english": "Fragments on Rhetoric and Cities",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ῥητορικῆς καὶ Πόλεων"
+      },
+      "url_slug": "philiscus-of-athens-rhetoric-cities-gcw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/philiscus-of-athens/rhetoric-cities",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-rhetoric-cities-gcw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-rhetoric-cities-gcw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-rhetoric-cities-gcw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-rhetoric-cities-gcw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens/rhetoric-cities.epub"
+      }
+    },
+    {
+      "eul_wid": "dum-ab",
+      "title": {
+        "english": "Pastoral and Satirical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "eupolis-of-athens-pastoral-satirical-dum-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/eupolis-of-athens/pastoral-satirical",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens-pastoral-satirical-dum-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens-pastoral-satirical-dum-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens-pastoral-satirical-dum-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens-pastoral-satirical-dum-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/pastoral-satirical.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/ophelio-the-comic-poet/comic-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet-comic-fragments-fvo-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet-comic-fragments-fvo-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet-comic-fragments-fvo-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet-comic-fragments-fvo-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet/comic-fragments.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

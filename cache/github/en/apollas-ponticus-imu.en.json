@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "imu",
+  "auth_slug": "apollas-ponticus",
+  "name": {
+    "english": "Apollas Ponticus",
+    "ancient_greek": "Ἀπολλᾶς ὁ Ποντικός"
+  },
+  "seo_h1": "Apollas Ponticus on Delphi and Peloponnesian Cities",
+  "seo": {
+    "browser_title": "Apollas Ponticus on Eulogikon Greek Archive and Library",
+    "meta_title": "Classical Apollas Ponticus Ancient Greek Historical Works",
+    "meta_description": "Apollas Ponticus, a Hellenistic historian of the 3rd century BCE. Historical fragments in Koine Greek. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Apollas Ponticus was a Hellenistic historian of the 3rd century BCE. The epithet &quot;Ponticus&quot; indicates an origin from the Pontus region on the Black Sea. He is known solely as the author of a single historical work, and no further biographical details survive.</p>\n<p class=\"research-text\">His only known work is <strong>On the Thessalians</strong>, a regional history or ethnography of Thessaly. The work is not extant and survives only in fragments preserved by later authors, primarily the geographer Strabo and the Byzantine compiler Stephanus of Byzantium.</p>\n<p class=\"research-text\">Apollas Ponticus is a minor, fragmentary historian whose significance lies in his later use as a source. The preserved fragments offer glimpses into Thessalian myths, historical figures, and place names. He is representative of the Hellenistic local historians who compiled regional histories, which were later mined by compilers for antiquarian and geographical detail, illustrating the transmission of local traditions in this period.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "imu-aa",
+      "title": {
+        "english": "On Delphi and Peloponnesian Cities",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "apollas-ponticus-delphi-peloponnesian-imu-aa",
+      "passages": 9,
+      "links": {
+        "html": "https://eulogikon.org/grc/apollas-ponticus/delphi-peloponnesian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollas-ponticus-delphi-peloponnesian-imu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollas-ponticus-delphi-peloponnesian-imu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollas-ponticus-delphi-peloponnesian-imu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollas-ponticus-delphi-peloponnesian-imu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollas-ponticus/delphi-peloponnesian.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/apollas-ponticus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollas-ponticus-imu.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollas-ponticus-imu.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollas-ponticus-imu.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollas-ponticus-imu.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

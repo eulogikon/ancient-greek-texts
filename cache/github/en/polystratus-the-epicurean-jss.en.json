@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "jss",
+  "auth_slug": "polystratus-the-epicurean",
+  "name": {
+    "english": "Polystratus the Epicurean",
+    "ancient_greek": "Πολύστρατος ὁ Ἐπικούρειος"
+  },
+  "seo_h1": "Polystratus the Epicurean on the Contempt of the Irrational",
+  "seo": {
+    "browser_title": "Polystratus the Epicurean on Eulogikon Greek Archive",
+    "meta_title": "Polystratus Ancient Greek Epicurean Philosophy Works",
+    "meta_description": "Polystratus, third Epicurean scholarch in 3rd century BCE Athens. Surviving philosophical treatises. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (phi, frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Epicurean",
+      "href": "/affiliations/epicurean"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Polystratus was a Greek philosopher of the 3rd century BCE. He was a leading member of the Epicurean school, succeeding Hermarchus to become its third head, or scholarch, in Athens. In this role, he led the Epicurean community known as the Garden during its early, formative period.</p>\n<p class=\"research-text\">While few details of his life are known, his importance comes from his leadership and his surviving writings. Two of his treatises exist in fragments: <strong>On Irrational Contempt</strong> and <strong>On Philosophy</strong>. These works show him defending core Epicurean teachings. In particular, <strong>On Irrational Contempt</strong> argues that common fears and popular opinions should not be dismissed irrationally but examined with reason, a key Epicurean idea.</p>\n<p class=\"research-text\">According to modern scholars, Polystratus’s primary significance was as an early defender of the school’s orthodoxy. His writings provide a valuable window into how Epicurean philosophers, in the generation after the founder Epicurus, worked to explain and consolidate their doctrines against potential criticisms in the wider intellectual world.</p>\n</div>",
+  "affiliation_label": "Epicurean",
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "jss-ab",
+      "title": {
+        "english": "Fragments on the Pursuit of the Good",
+        "ancient_greek": "Ἀποσπάσματα περὶ Διώξεως τοῦ Ἀγαθοῦ"
+      },
+      "url_slug": "polystratus-the-epicurean-pursuit-good-jss-ab",
+      "passages": 25,
+      "links": {
+        "html": "https://eulogikon.org/grc/polystratus-the-epicurean/pursuit-good",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polystratus-the-epicurean-pursuit-good-jss-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polystratus-the-epicurean-pursuit-good-jss-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polystratus-the-epicurean-pursuit-good-jss-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polystratus-the-epicurean-pursuit-good-jss-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polystratus-the-epicurean/pursuit-good.epub"
+      }
+    },
+    {
+      "eul_wid": "jss-aa",
+      "title": {
+        "english": "On the Contempt of the Irrational",
+        "ancient_greek": "Περὶ ἀλόγου καταφρονήσεως"
+      },
+      "url_slug": "polystratus-the-epicurean-contempt-irrational-jss-aa",
+      "passages": 56,
+      "links": {
+        "html": "https://eulogikon.org/grc/polystratus-the-epicurean/contempt-irrational",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polystratus-the-epicurean-contempt-irrational-jss-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polystratus-the-epicurean-contempt-irrational-jss-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polystratus-the-epicurean-contempt-irrational-jss-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polystratus-the-epicurean-contempt-irrational-jss-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polystratus-the-epicurean/contempt-irrational.epub"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "ibg",
+      "name": {
+        "english": "Carneiscus the Epicurean",
+        "ancient_greek": "Καρνεῖσκος ὁ Ἐπικούρειος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/carneiscus-the-epicurean",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/carneiscus-the-epicurean-ibg.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/carneiscus-the-epicurean-ibg.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/carneiscus-the-epicurean-ibg.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/carneiscus-the-epicurean-ibg.en.json"
+      }
+    },
+    {
+      "eul_aid": "peg",
+      "name": {
+        "english": "Diogenes of Oenoanda",
+        "ancient_greek": "Διογένης ὁ Οἰνοανδεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/diogenes-of-oenoanda",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-oenoanda-peg.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-oenoanda-peg.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-oenoanda-peg.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-oenoanda-peg.en.json"
+      }
+    },
+    {
+      "eul_aid": "jtm",
+      "name": {
+        "english": "Epicurean Anonymous",
+        "ancient_greek": "Ἀνώνυμος Ἐπικούρειος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/epicurean-anon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicurean-anon-jtm.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicurean-anon-jtm.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicurean-anon-jtm.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicurean-anon-jtm.en.json"
+      }
+    },
+    {
+      "eul_aid": "hui",
+      "name": {
+        "english": "Epicurus the Philosopher",
+        "ancient_greek": "Ἐπίκουρος ὁ φιλόσοφος"
+      },
+      "work_count": 8,
+      "links": {
+        "html": "https://eulogikon.org/en/epicurus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicurus-hui.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicurus-hui.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicurus-hui.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicurus-hui.en.json"
+      }
+    },
+    {
+      "eul_aid": "jbk",
+      "name": {
+        "english": "Hermarchus of Mytilene",
+        "ancient_greek": "Ἕρμαρχος ὁ Μυτιληναῖος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/hermarchus-of-mytilene",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermarchus-of-mytilene-jbk.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermarchus-of-mytilene-jbk.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermarchus-of-mytilene-jbk.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermarchus-of-mytilene-jbk.en.json"
+      }
+    },
+    {
+      "eul_aid": "coe",
+      "name": {
+        "english": "Metrodorus of Lampsacus the Elder",
+        "ancient_greek": "Μητρόδωρος ὁ Λαμψακηνός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/metrodorus-of-lampsacus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/metrodorus-of-lampsacus-coe.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/metrodorus-of-lampsacus-coe.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/metrodorus-of-lampsacus-coe.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/metrodorus-of-lampsacus-coe.en.json"
+      }
+    },
+    {
+      "eul_aid": "msu",
+      "name": {
+        "english": "Philodemus of Gadara",
+        "ancient_greek": "Φιλόδημος ὁ Γαδαρεύς"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/philodemus-of-gadara",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philodemus-of-gadara-msu.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philodemus-of-gadara-msu.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philodemus-of-gadara-msu.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philodemus-of-gadara-msu.en.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/polystratus-the-epicurean",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/polystratus-the-epicurean-jss.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/polystratus-the-epicurean-jss.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/polystratus-the-epicurean-jss.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/polystratus-the-epicurean-jss.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

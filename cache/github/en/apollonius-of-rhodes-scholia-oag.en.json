@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "oag",
+  "auth_slug": "apollonius-of-rhodes-scholia",
+  "name": {
+    "english": "Apollonius of Rhodes Scholia",
+    "ancient_greek": "Ἀπολλωνίου τοῦ Ῥοδίου Σχόλια"
+  },
+  "seo_h1": "Scholia on the Argonautica of Apollonius of Rhodes",
+  "seo": {
+    "browser_title": "Apollonius of Rhodes Works on Eulogikon Greek Archive",
+    "meta_title": "Classical Apollonius of Rhodes Ancient Greek Epic Works",
+    "meta_description": "Ancient Greek poet and scholar, author of the epic Argonautica. Includes scholia and commentary. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Apollonius of Rhodes Scholia constitute a large collection of ancient explanatory notes and commentaries on the epic poem <strong>Argonautica</strong> by Apollonius of Rhodes. They are not a single work by one author, but a compilation assembled over many centuries, from roughly the first century BCE to the sixth century CE, by multiple scholars working within the Alexandrian tradition of literary scholarship. The earliest contributions are often attributed to grammarians like Theon from the Augustan age, with later scholars adding to and organizing the material through the Byzantine period.</p>\n<p class=\"research-text\">This collective work exemplifies the methods of ancient philology, where scholars focused on explaining difficult words, parsing grammar, identifying mythological references, and critiquing literary style. The scholia are preserved in the margins of medieval manuscripts of the <strong>Argonautica</strong>.</p>\n<p class=\"research-text\">Their primary value lies in offering a window into how ancient readers interpreted this complex Hellenistic poem. They are also a crucial historical resource, as they preserve fragments of many lost works and record the textual criticism practiced by Alexandrian grammarians. The survival of this scholarly apparatus alongside the epic itself was vital for the poem&#x27;s transmission and study from antiquity through the modern era.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "oag-aa",
+      "title": {
+        "english": "Scholia-Apollonius Rhodius's Argonautica",
+        "ancient_greek": "Σχόλια εἰς Ἀργοναυτικά Ἀπολλωνίου"
+      },
+      "url_slug": "apollonius-of-rhodes-scholia-argonautica-oag-aa",
+      "passages": 328,
+      "links": {
+        "html": "https://eulogikon.org/grc/apollonius-of-rhodes-scholia/argonautica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-rhodes-scholia-argonautica-oag-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-rhodes-scholia-argonautica-oag-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-rhodes-scholia-argonautica-oag-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-rhodes-scholia-argonautica-oag-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-rhodes-scholia/argonautica.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/apollonius-of-rhodes-scholia",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-rhodes-scholia-oag.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-rhodes-scholia-oag.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-rhodes-scholia-oag.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-rhodes-scholia-oag.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "cia",
+  "auth_slug": "megillus-of-sparta",
+  "name": {
+    "english": "Megillus of Sparta",
+    "ancient_greek": "Μέγιλλος ὁ Λακεδαιμόνιος"
+  },
+  "seo_h1": "Numbers in the Fragments of Megillus of Sparta",
+  "seo": {
+    "browser_title": "Megillus of Sparta on Eulogikon Greek Archive and Library",
+    "meta_title": "Megillus of Sparta Ancient Greek Philosophical Works",
+    "meta_description": "Megillus of Sparta was a classical Greek philosophical figure. His surviving treatise is available. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Φιλοσοφική Ἀττική",
+      "english": "Attic Philosophical",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Megillus of Sparta is known exclusively as a character in Plato&#x27;s dialogue Laws, where he is identified as a Spartan. He participates in the discussion on founding a colony and formulating its legal code alongside the Athenian Stranger and the Cretan Clinias. The dialogue portrays him as an elderly Spartan gentleman who represents the Dorian perspective on law and society. No independent biographical information exists.</p>\n<p class=\"research-text\">No independent works by Megillus are attested. He appears solely as a character in Plato&#x27;s Laws.</p>\n<p class=\"research-text\">His significance is literary and philosophical, derived from his role in Laws. As an interlocutor, he embodies the Spartan constitutional tradition, which Plato critically examines and synthesizes with philosophical principles. His character facilitates a comparative analysis of Greek political systems and models the law-abiding civic virtue the dialogue&#x27;s proposed laws intend to cultivate.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "cia-aa",
+      "title": {
+        "english": "Fragments on Numbers",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀριθμῶν"
+      },
+      "url_slug": "megillus-of-sparta-numbers-cia-aa",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/megillus-of-sparta/numbers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/megillus-of-sparta-numbers-cia-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/megillus-of-sparta-numbers-cia-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/megillus-of-sparta-numbers-cia-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/megillus-of-sparta-numbers-cia-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/megillus-of-sparta/numbers.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/megillus-of-sparta",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/megillus-of-sparta-cia.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/megillus-of-sparta-cia.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/megillus-of-sparta-cia.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/megillus-of-sparta-cia.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

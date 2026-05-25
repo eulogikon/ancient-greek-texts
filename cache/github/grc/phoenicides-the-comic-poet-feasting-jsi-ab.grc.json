@@ -1,0 +1,383 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "jsi-ab",
+  "eul_aid": "jsi",
+  "author_slug": "phoenicides-the-comic-poet",
+  "work_slug": "feasting",
+  "url_slug": "phoenicides-the-comic-poet-feasting-jsi-ab",
+  "author": {
+    "english": "Phoenicides the Comic Poet",
+    "ancient_greek": "Φοινικίδης ὁ κωμῳδιοποιός"
+  },
+  "title": {
+    "english": "Fragments on Feasting",
+    "ancient_greek": "Ἀποσπάσματα περὶ Εὐωχίας"
+  },
+  "seo": {
+    "browser_title": "Fragments Phoenicides Feasting by Phoenicides on Eulogikon",
+    "meta_title": "Fragments on Feasting by Phoenicides in Ancient Greek",
+    "meta_description": "Comic fragments on feasting by Phoenicides. Ancient Greek comedy exploring banquet culture. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Feasting</strong> is a modern assemblage of poetic excerpts attributed to the Athenian comic poet Phoenicides. These twenty-five fragments are not preserved as a continuous text but survive exclusively through quotations by later authors, most notably the scholar Athenaeus of Naucratis in his expansive 2nd or 3rd century CE work, the <strong>Deipnosophistae</strong>. The content of the fragments centers on convivial themes characteristic of the Middle Comedy period, focusing on gastronomy, the social rituals of the symposium, and the pleasures and excesses of consumption. They employ social critique through familiar stock characters such as the glutton and the parasite, offering commentary on culinary luxury and the dynamics of Athenian social life. As with most works of Middle Comedy, there exists no independent manuscript tradition for the plays of Phoenicides; their survival relies entirely on this indirect transmission. While the specific fragments possess limited direct literary influence, they hold collective significance as vital evidence for tracing the evolution of Greek comedy away from political satire and toward the social comedy of manners that would later inform Roman drama. Furthermore, they provide invaluable source material for the study of ancient social history, particularly the practices and culture of the symposium and daily life in classical Athens.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[spk_β]Δύνασαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "σιωπᾶν; Β. ὥστε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τοὺς τὰς διαλύσεις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "συντιθεμένους κεκραγέναι [πᾶσιν] δοκεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Μύρτων λέγουσι καὶ μέλιτος ἐγκώμια, καὶ τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "προπυλαίων καὶ τέταρτον ἰσχάδων. τούτων ἐγευσάμην καταπλεύσας εὐθέως καὶ τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "προπυλαίων· κοὐδὲν ἦν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "τούτων ὅλως[ln_5]πρὸς ἀτταγῆνα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "συμβαλεῖν τῶν βρωμάτων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Τρίτον δὲ πρὸς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τούτοισι τὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "σοφώτατον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "Χαίριππον. οὗτος, ὥσπερ οἶδας, ἐσθίει μέχρι ἂν διδῷ τις ἢ λάθῃ διαρραγείς. τοιοῦτ’ ἔχει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "ταμιεῖον ὥσπερ οἰκίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Μὰ τὴν Ἀφροδίτην οὐκ ἂν ὑπομείναιμ’ ἔτι, Πυθιάς, ἑταιρεῖν. χαιρέτω· μή μοι λέγε· ἀπέτυχον· οὐδὲν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "πρὸς ἐμέ· καταλῦσαι θέλω. εὐθὺς ἐπιχειρήσασα φίλον εἶχόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τινα[ln_5]στρατιωτικόν· διαπαντὸς οὗτος τὰς μάχας ἔλεγεν, ἐδείκνυ’ ἅμα λέγων τὰ τραύματα, εἰσέφερε δ’ οὐδέν. δωρεὰν ἔφη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "τινά παρὰ τοῦ βασιλέως λαμβάνειν, καὶ ταῦτ’ ἀεί ἔλεγεν· διὰ ταύτην ἣν λέγω τὴν δωρεάν[ln_10]ἐνιαυτὸν ἔσχε μ’ ὁ κακοδαίμων δωρεάν. ἀφῆκα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "τοῦτον, λαμβάνω δ’ ἄλλον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "τινά, ἰατρόν. οὗτος εἰσάγων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "πολλούς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.8",
+      "text": "τινας ἔτεμν’, ἔκαε, πτωχὸς ἦν καὶ δήμιος. δεινότερος οὗτος θατέρου μοι κατεφάνη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_15]ὁ μὲν διήγημ’ ἔλεγεν, ὁ δ’ ἐποίει νεκρούς. τρίτῳ συνέζευξ’ ἡ τύχη με",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "φιλοσόφῳ, πώγων’ ἔχοντι καὶ τρίβωνα καὶ λόγον. εἰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "προὖπτον ἦλθον ἐμπεσοῦσα δὴ κακόν· οὐδὲν ἐδίδου γάρ· εἴ τι δ’ αἰτοίμην, ἔφη[ln_20]οὐκ ἀγαθὸν εἶναι τἀργύριον. ἔστω κακόν, διὰ τοῦτο δός μοι, ῥῖψον· οὐκ ἐπείθετο.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "jsi-aa",
+      "title": {
+        "english": "Fragments of Comic Courtesans",
+        "ancient_greek": "Ἀποσπάσματα Ἑταιρῶν Κωμικῶν"
+      },
+      "url_slug": "phoenicides-the-comic-poet-comic-courtesans-jsi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/phoenicides-the-comic-poet/comic-courtesans",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenicides-the-comic-poet-comic-courtesans-jsi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenicides-the-comic-poet-comic-courtesans-jsi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenicides-the-comic-poet-comic-courtesans-jsi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenicides-the-comic-poet-comic-courtesans-jsi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenicides-the-comic-poet/comic-courtesans.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "kfu-ac",
+      "title": {
+        "english": "Anonymous New Comedies",
+        "ancient_greek": "Ἀνώνυμοι Νέαι Κωμῳδίαι"
+      },
+      "url_slug": "comic-fragments-anonymous-ii-new-comedies-kfu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-ii/new-comedies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii-new-comedies-kfu-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii-new-comedies-kfu-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii-new-comedies-kfu-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii-new-comedies-kfu-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/new-comedies.epub"
+      }
+    },
+    {
+      "eul_wid": "djs-ab",
+      "title": {
+        "english": "Fragments of Comic Dialogues",
+        "ancient_greek": "Ἀποσπάσματα Κωμικῶν Διαλόγων"
+      },
+      "url_slug": "hermippus-the-comic-poet-comic-dialogues-djs-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermippus-the-comic-poet/comic-dialogues",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet-comic-dialogues-djs-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet-comic-dialogues-djs-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet-comic-dialogues-djs-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet-comic-dialogues-djs-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet/comic-dialogues.epub"
+      }
+    },
+    {
+      "eul_wid": "ino-aa",
+      "title": {
+        "english": "Fragments on Drinking Vessels",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ποτηρίων"
+      },
+      "url_slug": "epigenes-of-byzantium-drinking-vessels-ino-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epigenes-of-byzantium/drinking-vessels",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigenes-of-byzantium-drinking-vessels-ino-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigenes-of-byzantium-drinking-vessels-ino-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigenes-of-byzantium-drinking-vessels-ino-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigenes-of-byzantium-drinking-vessels-ino-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigenes-of-byzantium/drinking-vessels.epub"
+      }
+    },
+    {
+      "eul_wid": "edi-aa",
+      "title": {
+        "english": "Golden Age of Plenty",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "telecleides-the-comic-poet-golden-age-of-plenty-aa-edi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/telecleides-the-comic-poet/golden-age-of-plenty-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet-golden-age-of-plenty-aa-edi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet-golden-age-of-plenty-aa-edi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet-golden-age-of-plenty-aa-edi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet-golden-age-of-plenty-aa-edi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet/golden-age-of-plenty-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "lpe-ae",
+      "title": {
+        "english": "On Slavery and Human Nature",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philemon-syracusius-slavery-nature-lpe-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/philemon-syracusius/slavery-nature",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-slavery-nature-lpe-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-slavery-nature-lpe-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-slavery-nature-lpe-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius-slavery-nature-lpe-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/slavery-nature.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-bi",
+      "title": {
+        "english": "Perinthia",
+        "ancient_greek": "Περίνθια"
+      },
+      "url_slug": "menander-of-athens-perinthia-hps-bi",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/perinthia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-perinthia-hps-bi.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-perinthia-hps-bi.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-perinthia-hps-bi.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-perinthia-hps-bi.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/perinthia.epub"
+      }
+    },
+    {
+      "eul_wid": "gcw-ac",
+      "title": {
+        "english": "Rhea's Lament to Cronus",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philiscus-of-athens-rhea-lament-gcw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/philiscus-of-athens/rhea-lament",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-rhea-lament-gcw-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-rhea-lament-gcw-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-rhea-lament-gcw-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-rhea-lament-gcw-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens/rhea-lament.epub"
+      }
+    },
+    {
+      "eul_wid": "lrc-aa",
+      "title": {
+        "english": "Satirical Fragments on Delos",
+        "ancient_greek": "Ἀποσπάσματα Σατυρικὰ περὶ Δήλου"
+      },
+      "url_slug": "crito-of-alopece-satirical-delos-lrc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/crito-of-alopece/satirical-delos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-alopece-satirical-delos-lrc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-alopece-satirical-delos-lrc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-alopece-satirical-delos-lrc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-alopece-satirical-delos-lrc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-alopece/satirical-delos.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/phoenicides-the-comic-poet/feasting",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenicides-the-comic-poet-feasting-jsi-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenicides-the-comic-poet-feasting-jsi-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenicides-the-comic-poet-feasting-jsi-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenicides-the-comic-poet-feasting-jsi-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenicides-the-comic-poet/feasting.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

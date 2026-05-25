@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "qae",
+  "auth_slug": "anonymous-astronomica-ii",
+  "name": {
+    "english": "Astronomical Work Anonymous II",
+    "ancient_greek": "Ἀστρονομικὸν σύνταγμα ἀνώνυμον"
+  },
+  "seo_h1": "Music and Astronomy in the Anonymous Astronomical Work",
+  "seo": {
+    "browser_title": "Astronomical Work Anonymous II on Eulogikon Greek Archive",
+    "meta_title": "Astronomical Work Anonymous II Ancient Greek Treatise",
+    "meta_description": "Anonymous astronomical author from the Roman era. Surviving technical treatise on celestial phenomena. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The author of the Astronomical Treatise is anonymous, and no biographical details survive. The work is dated between the second and sixth centuries CE based on its content and technical Koine Greek, which reflects the astronomical traditions of the Roman Imperial period.</p>\n<p class=\"research-text\">The sole extant work is the Astronomical Treatise. Preserved in a single manuscript, Vaticanus graecus 1056, it focuses on computational methods for determining the positions of the sun, moon, and planets.</p>\n<p class=\"research-text\">This treatise is a key example of Greco-Roman practical astronomy, distinct from more theoretical works. It illustrates the procedural methods used for astronomical calculations during the Roman era, representing a strand of maintained technical knowledge. Its survival in a single manuscript underscores the fragmentary transmission of such specialized texts.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "qae-aa",
+      "title": {
+        "english": "Introduction to Music",
+        "ancient_greek": "Εἰσαγωγὴ εἰς τὴν Μουσικήν"
+      },
+      "url_slug": "anonymous-astronomica-ii-music-qae-aa",
+      "passages": 65,
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-astronomica-ii/music",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-astronomica-ii-music-qae-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-astronomica-ii-music-qae-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-astronomica-ii-music-qae-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-astronomica-ii-music-qae-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-astronomica-ii/music.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/anonymous-astronomica-ii",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-astronomica-ii-qae.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-astronomica-ii-qae.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-astronomica-ii-qae.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-astronomica-ii-qae.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

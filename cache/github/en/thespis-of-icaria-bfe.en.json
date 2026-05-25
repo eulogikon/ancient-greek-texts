@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "bfe",
+  "auth_slug": "thespis-of-icaria",
+  "name": {
+    "english": "Thespis of Icaria",
+    "ancient_greek": "Θέσπις ὁ Ἰκαριεύς"
+  },
+  "seo_h1": "Thespis of Icaria and the Origins of Tragedy",
+  "seo": {
+    "browser_title": "Thespis of Icaria Dramatist on Eulogikon Greek Archive",
+    "meta_title": "Classical Thespis of Icaria Ancient Greek Tragedy Fragments",
+    "meta_description": "Thespis of Icaria, 6th century BCE dramatist who originated Greek tragedy. Fragments of his works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δράμα Ἀττικόν",
+      "english": "Attic Drama",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Δρᾶμα",
+      "english": "Drama",
+      "href": "/domains/drama"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Thespis of Icaria was a 6th-century BCE poet from Attica, traditionally credited as the inventor of tragedy. Ancient sources, such as Aristotle, report that he introduced the first actor, who engaged in dialogue with the chorus leader, and he is associated with the early use of masks. His historical existence is debated, but later records state he won the first tragic competition at the City Dionysia in Athens around 534 BCE.</p>\n<p class=\"research-text\">No works by Thespis survive. Later lexicons like the Suda attribute titles to him, such as Pentheus, The Priests, and plays concerning mythological figures like Pelias, but these cannot be verified.</p>\n<p class=\"research-text\">Thespis holds a seminal place as the foundational figure of Western drama. The innovation of a separate actor, distinct from the chorus, created the essential dynamic of dramatic dialogue and marked the evolution of tragedy from choral performance. His name is permanently attached to the origin of acting, giving rise to the term &quot;thespian&quot;.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "bfe-aa",
+      "title": {
+        "english": "Fragments of a Dionysian Hymn",
+        "ancient_greek": "Ἀποσπάσματα Διονυσιακοῦ Ὕμνου"
+      },
+      "url_slug": "thespis-of-icaria-dionysian-hymn-bfe-aa",
+      "passages": 10,
+      "links": {
+        "html": "https://eulogikon.org/grc/thespis-of-icaria/dionysian-hymn",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thespis-of-icaria-dionysian-hymn-bfe-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thespis-of-icaria-dionysian-hymn-bfe-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thespis-of-icaria-dionysian-hymn-bfe-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thespis-of-icaria-dionysian-hymn-bfe-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thespis-of-icaria/dionysian-hymn.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/thespis-of-icaria",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/thespis-of-icaria-bfe.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/thespis-of-icaria-bfe.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/thespis-of-icaria-bfe.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/thespis-of-icaria-bfe.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

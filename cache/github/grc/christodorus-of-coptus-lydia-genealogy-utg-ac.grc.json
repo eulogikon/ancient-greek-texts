@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "utg-ac",
+  "eul_aid": "utg",
+  "author_slug": "christodorus-of-coptus",
+  "work_slug": "lydia-genealogy",
+  "url_slug": "christodorus-of-coptus-lydia-genealogy-utg-ac",
+  "author": {
+    "english": "Christodorus of Coptus",
+    "ancient_greek": "Χριστόδωρος ὁ Κόπτιος"
+  },
+  "title": {
+    "english": "Fragments on Lydian Genealogy",
+    "ancient_greek": "Ἀποσπάσματα περὶ Λυδικῆς Γενεαλογίας"
+  },
+  "seo": {
+    "browser_title": "Ancient Fragments of Christodorus of Coptus on Eulogikon",
+    "meta_title": "The Fragments on Lydian Genealogy in Ancient Greek",
+    "meta_description": "Christodorus of Coptus preserves fragmentary accounts of Lydian royal lineages and mythological origins. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Lydian Genealogy</strong> is a lost work attributed to the Greek epic poet Christodorus of Coptus, who was active in the late fifth and early sixth centuries CE. Christodorus is primarily known for his surviving ekphrastic poem, <strong>Description of the Statues in the Public Gymnasium of Zeuxippus</strong>, which is preserved in the <strong>Greek Anthology</strong>. While the <strong>Suda</strong> lists other titles among his lost works, the <strong>Fragments on Lydian Genealogy</strong> is not recorded in extant sources. The work’s specific content is unknown, but its title suggests it treated the mythological genealogies and antiquarian history of Lydia, aligning with the classical mythological interests common among late antique poets and compilers. There is no documented transmission history for this specific collection; Christodorus’s known work survives through the <strong>Greek Anthology</strong>, while his other attested works are considered lost. Although the fragments themselves are lost, the attribution points to the breadth of Christodorus’s antiquarian scholarship beyond his surviving ekphrasis, reflecting the continued engagement with regional Greek genealogies and mytho-historical writing in the early Byzantine period.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "3a,283,F 1",
+      "text": "SCHOL. A HOM. Il. Β 461: Ἄσιος υἱὸς Κότυος καὶ Μυιοῦς, Λυδῶν βασιλεύς, ὥς φησι Χριστόδωρος ἐν τοῖς Λυδιακοῖς· « Κότυς λευκώλενον ἄλλην / ἤγετο κουριδίην ὁμοδέμνιο ν , οὔνομα Μυιοῦ ν · / ἡ δ ’ Ἄσιον τέκε κοῦρο ν» .",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "utg-ab",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "christodorus-of-coptus-epigrams-utg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/christodorus-of-coptus/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus-epigrams-utg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus-epigrams-utg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus-epigrams-utg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus-epigrams-utg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "utg-aa",
+      "title": {
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
+      },
+      "url_slug": "christodorus-of-coptus-testimony-utg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/christodorus-of-coptus/testimony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus-testimony-utg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus-testimony-utg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus-testimony-utg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus-testimony-utg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus/testimony.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "jco-ab",
+      "title": {
+        "english": "Epigrams (Anthologia Selection)",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "antagoras-of-rhodes-epigrams-ab-jco-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/antagoras-of-rhodes/epigrams-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes-epigrams-ab-jco-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes-epigrams-ab-jco-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes-epigrams-ab-jco-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes-epigrams-ab-jco-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes/epigrams-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "jco-aa",
+      "title": {
+        "english": "Epigrams (Hymn-Fragments)",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "antagoras-of-rhodes-epigrams-aa-jco-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/antagoras-of-rhodes/epigrams-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes-epigrams-aa-jco-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes-epigrams-aa-jco-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes-epigrams-aa-jco-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes-epigrams-aa-jco-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes/epigrams-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "pge-aa",
+      "title": {
+        "english": "Fragments on Antinous and Hadrian",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀντινόου καὶ Ἁδριανοῦ"
+      },
+      "url_slug": "pancrates-of-egypt-antinous-hadrian-pge-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pancrates-of-egypt/antinous-hadrian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt-antinous-hadrian-pge-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt-antinous-hadrian-pge-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt-antinous-hadrian-pge-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt-antinous-hadrian-pge-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt/antinous-hadrian.epub"
+      }
+    },
+    {
+      "eul_wid": "aak-aa",
+      "title": {
+        "english": "Fragments on Hermes",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἑρμοῦ"
+      },
+      "url_slug": "epic-fragments-anonymous-ii-hermes-aak-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous-ii/hermes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-ii-hermes-aak-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-ii-hermes-aak-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-ii-hermes-aak-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-ii-hermes-aak-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-ii/hermes.epub"
+      }
+    },
+    {
+      "eul_wid": "fjq-ac",
+      "title": {
+        "english": "Fragments on Naval Preparations",
+        "ancient_greek": "Ἀποσπάσματα περὶ Παρασκευῆς Ναυτικῆς"
+      },
+      "url_slug": "theopompus-of-chios-naval-preparations-fjq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/theopompus-of-chios/naval-preparations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios-naval-preparations-fjq-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios-naval-preparations-fjq-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios-naval-preparations-fjq-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios-naval-preparations-fjq-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios/naval-preparations.epub"
+      }
+    },
+    {
+      "eul_wid": "abe-ac",
+      "title": {
+        "english": "Iliad",
+        "ancient_greek": "Ἰλιάς"
+      },
+      "url_slug": "homer-iliad-abe-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer/iliad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-iliad-abe-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-iliad-abe-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-iliad-abe-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-iliad-abe-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer/iliad.epub"
+      }
+    },
+    {
+      "eul_wid": "euq-aa",
+      "title": {
+        "english": "Meropis Fragments",
+        "ancient_greek": "Μηροπίδος Ἀποσπάσματα"
+      },
+      "url_slug": "epic-meropis-anonymous-fragments-euq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-meropis-anonymous/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-meropis-anonymous-fragments-euq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-meropis-anonymous-fragments-euq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-meropis-anonymous-fragments-euq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-meropis-anonymous-fragments-euq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-meropis-anonymous/fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "kjq-ai",
+      "title": {
+        "english": "Poem-the Rising Nile",
+        "ancient_greek": "Ποίημα περὶ τοῦ Νείλου ἀνατέλλοντος"
+      },
+      "url_slug": "epic-fragments-anonymous-rising-nile-kjq-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/rising-nile",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-rising-nile-kjq-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-rising-nile-kjq-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-rising-nile-kjq-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-rising-nile-kjq-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/rising-nile.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/christodorus-of-coptus/lydia-genealogy",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus-lydia-genealogy-utg-ac.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus-lydia-genealogy-utg-ac.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus-lydia-genealogy-utg-ac.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus-lydia-genealogy-utg-ac.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus/lydia-genealogy.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,204 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "nos-aa",
+  "eul_aid": "nos",
+  "author_slug": "milon-the-philosopher",
+  "work_slug": "lightning-fragments",
+  "url_slug": "milon-the-philosopher-lightning-fragments-nos-aa",
+  "author": {
+    "english": "Milon the Philosopher",
+    "ancient_greek": "Μίλων ὁ φιλόσοφος"
+  },
+  "title": {
+    "english": "Fragments on Lightning",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ἀστραπῆς"
+  },
+  "seo": {
+    "browser_title": "Ancient Fragments of Milon the Philosopher on Eulogikon",
+    "meta_title": "Classical Fragments on Lightning by Milon in Ancient Greek",
+    "meta_description": "Surviving fragments from Milon's treatise on lightning meteorological phenomena. Philosophical text on natural causes of daytime nighttime lightning."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ φιλοσοφική",
+      "english": "Philosophical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Pythagorean",
+      "href": "/affiliations/pythagorean"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Lightning</strong> is a lost treatise attributed to Milon the Philosopher, an otherwise unattested figure in the major histories of ancient thought. The work survives only as a title, referenced in a single source, and thus constitutes a mere testimonium to its existence rather than a collection of recoverable textual fragments. The title indicates it was a work of natural philosophy concerned with examining the meteorological phenomenon of lightning, but its specific theories and arguments are entirely unknown. Its historical significance is negligible, as it exerted no discernible influence on the scientific or philosophical tradition. Its documented existence solely by name serves to illustrate the vast number of such minor specialized treatises from antiquity that have not survived the transmission of texts.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "122 (24t)",
+      "text": "Φυσικά Stob. 1.29.3 p. 238 Wa. (Mullach 2 p. 113) Μίλωνος Φυσικῶν· Ἀστραπαί εἰσι διτταί, ἡ μὲν ἡμερινή, ἡ δὲ νυκτερινή. γίγνεται δὲ ἡ μὲν ἡμερινὴ ὑπὸ τοῦ ἡλίου, ὅταν ῥαγῇ τὸ ὕδωρ ὑποφαινομένου αὐτοῦ· λαμπρὰ δὲ οὐ φαίνεται, ὥσπερ ἡ νυκτερινή, ὅτι ἐν φάει γίγνεται· ἡ δὲ νυκτερινὴ ὑπὸ τῶν ἄστρων γίγνεται, ὅταν ῥαγῇ τὸ ὕδωρ ὑποφαινομένων αὐτῶν· λαμπρὰ δὲ φαίνεται, ὅτι ἐν ζόφῳ γίγνεται.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "okg-fi",
+      "title": {
+        "english": "Cicero",
+        "ancient_greek": "Κικέρων"
+      },
+      "url_slug": "plutarch-of-chaeronea-cicero-okg-fi",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/cicero",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-cicero-okg-fi.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-cicero-okg-fi.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-cicero-okg-fi.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-cicero-okg-fi.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/cicero.epub"
+      }
+    },
+    {
+      "eul_wid": "beu-aa",
+      "title": {
+        "english": "Fragments Silli and-Nature",
+        "ancient_greek": "Ἀποσπάσματα Σίλλοι καὶ Περὶ φύσεως"
+      },
+      "url_slug": "xenophanes-of-colophon-silli-nature-beu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophanes-of-colophon/silli-nature",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-silli-nature-beu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-silli-nature-beu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-silli-nature-beu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-silli-nature-beu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/silli-nature.epub"
+      }
+    },
+    {
+      "eul_wid": "sys-ah",
+      "title": {
+        "english": "Letters to Nicander",
+        "ancient_greek": "Ἐπιστολαὶ πρὸς Νίκανδρον"
+      },
+      "url_slug": "synesius-of-cyrene-letters-nicander-sys-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/synesius-of-cyrene/letters-nicander",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-letters-nicander-sys-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-letters-nicander-sys-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-letters-nicander-sys-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-letters-nicander-sys-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene/letters-nicander.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-bs",
+      "title": {
+        "english": "On Common Notions to the Stoics",
+        "ancient_greek": "Περὶ τῶν κοινῶν ἐννοιῶν πρὸς τοὺς Στωικοὺς"
+      },
+      "url_slug": "plutarch-of-chaeronea-common-notions-okg-bs",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/common-notions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-common-notions-okg-bs.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-common-notions-okg-bs.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-common-notions-okg-bs.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-common-notions-okg-bs.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/common-notions.epub"
+      }
+    },
+    {
+      "eul_wid": "lgi-be",
+      "title": {
+        "english": "On the Decalogue",
+        "ancient_greek": "Περὶ τοῦ Δεκαλόγου"
+      },
+      "url_slug": "philo-of-alexandria-decalogue-lgi-be",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria/decalogue",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-decalogue-lgi-be.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-decalogue-lgi-be.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-decalogue-lgi-be.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-decalogue-lgi-be.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/decalogue.epub"
+      }
+    },
+    {
+      "eul_wid": "apa-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "thales-of-miletus-testimonies-apa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/thales-of-miletus/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-testimonies-apa-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-testimonies-apa-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-testimonies-apa-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-testimonies-apa-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus/testimonies.epub"
+      }
+    },
+    {
+      "eul_wid": "bke-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "parmenides-of-elea-testimonies-bke-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/parmenides-of-elea/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenides-of-elea-testimonies-bke-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenides-of-elea-testimonies-bke-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenides-of-elea-testimonies-bke-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenides-of-elea-testimonies-bke-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenides-of-elea/testimonies.epub"
+      }
+    },
+    {
+      "eul_wid": "niy-aa",
+      "title": {
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
+      },
+      "url_slug": "boidas-the-philologist-testimony-niy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/boidas-the-philologist/testimony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boidas-the-philologist-testimony-niy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boidas-the-philologist-testimony-niy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boidas-the-philologist-testimony-niy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boidas-the-philologist-testimony-niy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boidas-the-philologist/testimony.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/milon-the-philosopher/lightning-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/milon-the-philosopher-lightning-fragments-nos-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/milon-the-philosopher-lightning-fragments-nos-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/milon-the-philosopher-lightning-fragments-nos-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/milon-the-philosopher-lightning-fragments-nos-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/milon-the-philosopher/lightning-fragments.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

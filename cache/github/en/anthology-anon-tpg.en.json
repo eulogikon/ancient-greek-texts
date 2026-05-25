@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "tpg",
+  "auth_slug": "anthology-anon",
+  "name": {
+    "english": "Anthology  Anonymous",
+    "ancient_greek": "Ἀνώνυμος ἀνθολογία"
+  },
+  "seo_h1": "Jokes and Wit in the Anonymous Late Antique Anthology",
+  "seo": {
+    "browser_title": "Anonymous Anthology Author on Eulogikon Greek Archive",
+    "meta_title": "The Anonymous Anthology Ancient Greek Poetry Works",
+    "meta_description": "Anonymous Anthology, a collection of Late Antique Koine poetry from the 4th to 5th century CE. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The anonymous compiler of this late antique anthology, dated to the 4th–5th century CE, is entirely unknown. The work originates from the later Roman Empire, a period of cultural transition when the compilation of Greek epigrammatic poetry flourished for educational and aesthetic purposes. Such anthologies formed part of a broader tradition of literary compilation aimed at preserving classical Greek culture.</p>\n<p class=\"research-text\">The sole known work is the Anthology, a collection of Greek epigrams. The precise contents and scope of this particular compilation are not detailed in standard sources, which focus instead on later Byzantine collections like the Palatine Anthology and the Anthology of Planudes.</p>\n<p class=\"research-text\">Anonymous late antique anthologies were crucial for transmitting Greek epigrammatic poetry. They acted as vital intermediaries, preserving poems from earlier Hellenistic and Imperial periods that might otherwise have been lost, and directly influenced the more famous Byzantine compilations that followed. This practice of anthologizing reflects the era&#x27;s literary scholarship and was a key mechanism for curating and ensuring the survival of a vast body of short-form Greek poetry.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "tpg-aa",
+      "title": {
+        "english": "Philogelos or Jokes, Under Authors Hierocles and Philagrius",
+        "ancient_greek": "Φιλόγελως"
+      },
+      "url_slug": "anthology-anon-philogelos-jokes-tpg-aa",
+      "passages": 395,
+      "links": {
+        "html": "https://eulogikon.org/grc/anthology-anon/philogelos-jokes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthology-anon-philogelos-jokes-tpg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthology-anon-philogelos-jokes-tpg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthology-anon-philogelos-jokes-tpg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthology-anon-philogelos-jokes-tpg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthology-anon/philogelos-jokes.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/anthology-anon",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anthology-anon-tpg.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anthology-anon-tpg.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anthology-anon-tpg.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anthology-anon-tpg.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

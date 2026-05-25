@@ -1,0 +1,531 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "daw-aj",
+  "eul_aid": "daw",
+  "author_slug": "aristophanes-of-athens",
+  "work_slug": "anaxagoras-society",
+  "url_slug": "aristophanes-of-athens-anaxagoras-society-daw-aj",
+  "author": {
+    "english": "Aristophanes of Athens",
+    "ancient_greek": "Ἀριστοφάνης ὁ Ἀθηναῖος"
+  },
+  "title": {
+    "english": "Fragments on Anaxagoras and Society",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ἀναξαγόρου καὶ Κοινωνίας"
+  },
+  "seo": {
+    "browser_title": "Fragments of Aristophanes on Anaxagoras on Eulogikon",
+    "meta_title": "Fragments of Aristophanes on Anaxagoras in Ancient Greek",
+    "meta_description": "Surviving fragments of Aristophanes on Anaxagoras. Satirical verse on philosophy and civic life. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The title <strong>Fragments on Anaxagoras and Society</strong> refers not to an independent work by Aristophanes but to a modern scholarly compilation of excerpts from his surviving comedies. These twenty-one passages, drawn primarily from <strong>The Clouds</strong> but also from other plays such as <strong>The Acharnians</strong> and <strong>The Birds</strong>, are grouped thematically for their references to the philosopher Anaxagoras and their satire of the new intellectual currents of late fifth-century Athens. The fragments collectively lampoon the natural philosophy and speculative theories associated with Anaxagoras, particularly those explaining celestial phenomena through physical causes, which were viewed by many as impious. They also critique the broader sophistic movement, highlighting a perceived generational conflict and a corrosive link between novel philosophical ideas and the erosion of traditional social morality and civic duty. Aristophanes&#x27; works, including the eleven complete comedies that constitute his extant corpus, have been transmitted through medieval manuscripts; fragments of lost plays are preserved in quotations by later authors and on papyrus. There is no ancient or medieval manuscript tradition for a discrete work under this title. The significance of these collected passages lies in their vivid depiction of the popular reception of pre-Socratic thought. Aristophanes&#x27; comic portrayal, especially in <strong>The Clouds</strong>, was influential in shaping public attitudes, a point noted by Plato in his <strong>Apology</strong> regarding the prejudice against Socrates. The fragments thus serve as a vital historical source for understanding the intellectual controversies and social anxieties of classical Athens.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 344b",
+      "text": "ὄκλασμα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 644b.1",
+      "text": "ὅταν φίλοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 644b.2",
+      "text": "παρῆσαν ἐπὶ τὴν ἐκφοράν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 645b",
+      "text": "εἷς ἐστι δοῦλος οἰκίας ὁ δεσπότης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 676b.1",
+      "text": "ὁ δ’ Ἀναξαγόρου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 676b.2",
+      "text": "τρόφιμος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 676b.3",
+      "text": "χαιοῦ στρυφνὸς μὲν ἔμοιγε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 676b.4",
+      "text": "προσειπεῖν καὶ μισόγελως καὶ τωθάζειν οὐδὲ παρ’ οἶνον μεμαθηκώς, ἀλλ’ ὅ τι γράψαι, τοῦτ’ ἂν μέλιτος καὶ Σειρήνων ἐτετεύχει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 692b.1",
+      "text": "διὰ τῆς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 692b.2",
+      "text": "τρήμης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 692b.3",
+      "text": "παρακύπτων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 739b",
+      "text": "ἀκάτια",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 899b",
+      "text": "ἀγὼν γὰρ οὐ μέλλοντος ἀθλητοῦ μένει ἀλκήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 900b",
+      "text": "κατ’ οἶκον ἐστρωφᾶτο μισητὸς βάβαξ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 901b.1",
+      "text": "ἄγροικός εἰμι· τὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 901b.2",
+      "text": "σκάφην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 901b.3",
+      "text": "σκάφην λέγω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 902b.1",
+      "text": "σὺ δ’ ἐκ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 902b.2",
+      "text": "ποίου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 902b.3",
+      "text": "τελεῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 902b.4",
+      "text": "τοῦ δαπέδου;",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "daw-ac",
+      "title": {
+        "english": "Acharnians",
+        "ancient_greek": "Ἀχαρνῆς"
+      },
+      "url_slug": "aristophanes-of-athens-acharnians-daw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/acharnians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-acharnians-daw-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-acharnians-daw-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-acharnians-daw-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-acharnians-daw-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/acharnians.epub"
+      }
+    },
+    {
+      "eul_wid": "daw-ai",
+      "title": {
+        "english": "Aristophanes' Lost Plays Catalogue",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aristophanes-of-athens-lost-plays-daw-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/lost-plays",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-lost-plays-daw-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-lost-plays-daw-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-lost-plays-daw-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-lost-plays-daw-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/lost-plays.epub"
+      }
+    },
+    {
+      "eul_wid": "daw-ab",
+      "title": {
+        "english": "Assemblywomen",
+        "ancient_greek": "Ἐκκλησιάζουσαι"
+      },
+      "url_slug": "aristophanes-of-athens-assemblywomen-daw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/assemblywomen",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-assemblywomen-daw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-assemblywomen-daw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-assemblywomen-daw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-assemblywomen-daw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/assemblywomen.epub"
+      }
+    },
+    {
+      "eul_wid": "daw-ap",
+      "title": {
+        "english": "Birds",
+        "ancient_greek": "Ὄρνιθες"
+      },
+      "url_slug": "aristophanes-of-athens-birds-daw-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/birds",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-birds-daw-ap.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-birds-daw-ap.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-birds-daw-ap.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-birds-daw-ap.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/birds.epub"
+      }
+    },
+    {
+      "eul_wid": "daw-an",
+      "title": {
+        "english": "Clouds",
+        "ancient_greek": "Νεφέλαι"
+      },
+      "url_slug": "aristophanes-of-athens-clouds-daw-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/clouds",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-clouds-daw-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-clouds-daw-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-clouds-daw-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-clouds-daw-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/clouds.epub"
+      }
+    },
+    {
+      "eul_wid": "daw-ag",
+      "title": {
+        "english": "Domestic and Market Scenes",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aristophanes-of-athens-domestic-market-daw-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/domestic-market",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-domestic-market-daw-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-domestic-market-daw-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-domestic-market-daw-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-domestic-market-daw-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/domestic-market.epub"
+      }
+    },
+    {
+      "eul_wid": "daw-ae",
+      "title": {
+        "english": "Fragments on Daily Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ"
+      },
+      "url_slug": "aristophanes-of-athens-daily-life-daw-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/daily-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-daily-life-daw-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-daily-life-daw-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-daily-life-daw-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-daily-life-daw-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/daily-life.epub"
+      }
+    },
+    {
+      "eul_wid": "daw-ah",
+      "title": {
+        "english": "Fragments on Justice",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δικαιοσύνης"
+      },
+      "url_slug": "aristophanes-of-athens-justice-fragments-daw-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/justice-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-justice-fragments-daw-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-justice-fragments-daw-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-justice-fragments-daw-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-justice-fragments-daw-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/justice-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "daw-ak",
+      "title": {
+        "english": "Fragments on Language and Comedy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γλώσσης καὶ Κωμῳδίας"
+      },
+      "url_slug": "aristophanes-of-athens-language-comedy-daw-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/language-comedy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-language-comedy-daw-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-language-comedy-daw-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-language-comedy-daw-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-language-comedy-daw-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/language-comedy.epub"
+      }
+    },
+    {
+      "eul_wid": "daw-aq",
+      "title": {
+        "english": "Frogs",
+        "ancient_greek": "Βάτραχοι"
+      },
+      "url_slug": "aristophanes-of-athens-frogs-daw-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/frogs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-frogs-daw-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-frogs-daw-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-frogs-daw-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-frogs-daw-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/frogs.epub"
+      }
+    },
+    {
+      "eul_wid": "daw-am",
+      "title": {
+        "english": "Knights",
+        "ancient_greek": "Ἱππῆς"
+      },
+      "url_slug": "aristophanes-of-athens-knights-daw-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/knights",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-knights-daw-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-knights-daw-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-knights-daw-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-knights-daw-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/knights.epub"
+      }
+    },
+    {
+      "eul_wid": "daw-ad",
+      "title": {
+        "english": "Lysistrata",
+        "ancient_greek": "Λυσιστράτη"
+      },
+      "url_slug": "aristophanes-of-athens-lysistrata-daw-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/lysistrata",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-lysistrata-daw-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-lysistrata-daw-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-lysistrata-daw-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-lysistrata-daw-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/lysistrata.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "fim-ab",
+      "title": {
+        "english": "Comic Fragments on Daily Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ Κωμικά"
+      },
+      "url_slug": "alcaeus-the-comic-poet-daily-life-ab-fim-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/alcaeus-the-comic-poet/daily-life-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-daily-life-ab-fim-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-daily-life-ab-fim-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-daily-life-ab-fim-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-daily-life-ab-fim-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet/daily-life-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "fly-ab",
+      "title": {
+        "english": "Comic Fragments on Gods and Mortals",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θεῶν καὶ Βροτῶν"
+      },
+      "url_slug": "sannyrion-the-comic-poet-comic-fragments-ab-fly-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/sannyrion-the-comic-poet/comic-fragments-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet-comic-fragments-ab-fly-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet-comic-fragments-ab-fly-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet-comic-fragments-ab-fly-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet-comic-fragments-ab-fly-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet/comic-fragments-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "kpk-ac",
+      "title": {
+        "english": "Culinary and Comic Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "machon-of-sinope-culinary-comic-ac-kpk-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/machon-of-sinope/culinary-comic-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope-culinary-comic-ac-kpk-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope-culinary-comic-ac-kpk-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope-culinary-comic-ac-kpk-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope-culinary-comic-ac-kpk-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "fkk-aa",
+      "title": {
+        "english": "Fragments on Alexander's Feast",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Ἀλεξάνδρου Συμποσίου"
+      },
+      "url_slug": "ephippus-of-athens-alexander-feast-aa-fkk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ephippus-of-athens/alexander-feast-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephippus-of-athens-alexander-feast-aa-fkk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephippus-of-athens-alexander-feast-aa-fkk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephippus-of-athens-alexander-feast-aa-fkk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephippus-of-athens-alexander-feast-aa-fkk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephippus-of-athens/alexander-feast-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "ery-ab",
+      "title": {
+        "english": "Fragments on Cooks and Deceit",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μάγειρων καὶ Ἀπάτης"
+      },
+      "url_slug": "euphro-of-sicyon-cooks-deceit-ery-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/euphro-of-sicyon/cooks-deceit",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphro-of-sicyon-cooks-deceit-ery-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphro-of-sicyon-cooks-deceit-ery-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphro-of-sicyon-cooks-deceit-ery-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphro-of-sicyon-cooks-deceit-ery-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphro-of-sicyon/cooks-deceit.epub"
+      }
+    },
+    {
+      "eul_wid": "gzo-aa",
+      "title": {
+        "english": "Fragments on Lydian Maidens",
+        "ancient_greek": "Ἀποσπάσματα περὶ Λυδῶν Κορῶν"
+      },
+      "url_slug": "autocrates-the-comic-poet-lydian-maidens-aa-gzo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/autocrates-the-comic-poet/lydian-maidens-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet-lydian-maidens-aa-gzo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet-lydian-maidens-aa-gzo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet-lydian-maidens-aa-gzo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet-lydian-maidens-aa-gzo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet/lydian-maidens-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "czs-ae",
+      "title": {
+        "english": "On Feminine Noun Endings",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "cratinus-the-comic-poet-feminine-nouns-czs-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/cratinus-the-comic-poet/feminine-nouns",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet-feminine-nouns-czs-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet-feminine-nouns-czs-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet-feminine-nouns-czs-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet-feminine-nouns-czs-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/feminine-nouns.epub"
+      }
+    },
+    {
+      "eul_wid": "hps-bk",
+      "title": {
+        "english": "Single-Line Sentences (Short Recension)",
+        "ancient_greek": "Γνῶμαι"
+      },
+      "url_slug": "menander-of-athens-sentences-bk-hps-bk",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/sentences-bk",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-sentences-bk-hps-bk.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-sentences-bk-hps-bk.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-sentences-bk-hps-bk.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens-sentences-bk-hps-bk.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/sentences-bk.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aristophanes-of-athens/anaxagoras-society",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-anaxagoras-society-daw-aj.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-anaxagoras-society-daw-aj.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-anaxagoras-society-daw-aj.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens-anaxagoras-society-daw-aj.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/anaxagoras-society.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

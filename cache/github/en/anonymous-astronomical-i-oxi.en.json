@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "oxi",
+  "auth_slug": "anonymous-astronomical-i",
+  "name": {
+    "english": "Astronomical Work Anonymous I",
+    "ancient_greek": "Ἄγνωστος Ἀστρονομικὸς Συγγραφεύς"
+  },
+  "seo_h1": "Astronomical Work Anonymous I on Celestial Motion",
+  "seo": {
+    "browser_title": "Astronomical Work Anonymous I on Eulogikon Greek Archive",
+    "meta_title": "Astronomical Work Anonymous I Ancient Greek Treatise",
+    "meta_description": "Anonymous astronomical author from the Roman era, 1st to 3rd century CE. One surviving treatise. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">This anonymous author is known solely from a single, fragmentary astronomical treatise, with no biographical details preserved. The work is conventionally dated to between the first and third centuries CE, placing it within the Roman Imperial period and the continuing Greco-Roman tradition of mathematical astronomy.</p>\n<p class=\"research-text\">The author&#x27;s sole known work is an untitled astronomical treatise, surviving in fragments. Its content is technical, dealing with subjects characteristic of the field&#x27;s literature from this era.</p>\n<p class=\"research-text\">The author&#x27;s significance lies in representing the broader, ongoing activity in technical astronomy during the Roman era. The fragments contribute to the corpus of scientific works that systematized celestial knowledge, building upon predecessors like Hipparchus and forming part of the body of knowledge later transmitted through Byzantine, Islamic, and medieval scholarly traditions.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "oxi-aa",
+      "title": {
+        "english": "From Orestes' Stasimon I",
+        "ancient_greek": "Ἐκ τῶν Ὀρέστου Στασίμων Α'"
+      },
+      "url_slug": "anonymous-astronomical-i-orestes-stasimon-oxi-aa",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-astronomical-i/orestes-stasimon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-astronomical-i-orestes-stasimon-oxi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-astronomical-i-orestes-stasimon-oxi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-astronomical-i-orestes-stasimon-oxi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-astronomical-i-orestes-stasimon-oxi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-astronomical-i/orestes-stasimon.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/anonymous-astronomical-i",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-astronomical-i-oxi.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-astronomical-i-oxi.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-astronomical-i-oxi.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-astronomical-i-oxi.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

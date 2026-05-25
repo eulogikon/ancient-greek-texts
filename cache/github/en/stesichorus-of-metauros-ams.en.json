@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ams",
+  "auth_slug": "stesichorus-of-metauros",
+  "name": {
+    "english": "Stesichorus of Metauros",
+    "ancient_greek": "Στησίχορος ὁ Μεταυρῖνος"
+  },
+  "seo_h1": "The Geryoneis and Other Fragments of Stesichorus of Metauros",
+  "seo": {
+    "browser_title": "Stesichorus of Metauros on Eulogikon Greek Archive",
+    "meta_title": "Stesichorus Ancient Greek Lyric Poetry and Fragments",
+    "meta_description": "Stesichorus, Archaic Greek lyric poet of the 7th-6th century BCE. Contains his choral poetry fragments. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric (frg)",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Stesichorus of Metauros was a major Greek lyric poet of the Archaic period, active in the 7th–6th centuries BCE. He was born in Metauros in Magna Graecia, though ancient sources also associate him with Himera in Sicily. His name, meaning &quot;he who sets up the chorus,&quot; likely reflects his professional role in composing for choral performance.</p>\n<p class=\"research-text\">His extensive poetry survives only in fragments, but was collected in 26 books in the Hellenistic period. Major narrative works include the Geryoneis, on Heracles&#x27; theft of Geryon&#x27;s cattle; the Oresteia; the Thebaid; and Helen, famous for its &quot;palinode&quot; recanting an earlier insult by claiming only a phantom of Helen went to Troy. Other attested titles are Sack of Troy, Funeral Games of Pelias, Eriphyle, Cycnus, and Cerberus.</p>\n<p class=\"research-text\">Stesichorus was pivotal for transforming epic myth into grand-scale lyric poetry, earning the epithet &quot;the lyric Homer&quot;. His innovative triadic structure was highly influential, and his mythological treatment, particularly the Palinode, later impacted authors like Euripides and is cited by Plato. His work served as a crucial bridge between epic and tragic drama.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "ams-aa",
+      "title": {
+        "english": "Fragments of the Geryoneis",
+        "ancient_greek": "Ἀποσπάσματα τῆς Γηρυονηΐδος"
+      },
+      "url_slug": "stesichorus-of-metauros-geryoneis-ams-aa",
+      "passages": 112,
+      "links": {
+        "html": "https://eulogikon.org/grc/stesichorus-of-metauros/geryoneis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesichorus-of-metauros-geryoneis-ams-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesichorus-of-metauros-geryoneis-ams-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesichorus-of-metauros-geryoneis-ams-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesichorus-of-metauros-geryoneis-ams-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesichorus-of-metauros/geryoneis.epub"
+      }
+    },
+    {
+      "eul_wid": "ams-ab",
+      "title": {
+        "english": "Fragments on the Hesperides",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἑσπερίδων"
+      },
+      "url_slug": "stesichorus-of-metauros-hesperides-ams-ab",
+      "passages": 230,
+      "links": {
+        "html": "https://eulogikon.org/grc/stesichorus-of-metauros/hesperides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesichorus-of-metauros-hesperides-ams-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesichorus-of-metauros-hesperides-ams-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesichorus-of-metauros-hesperides-ams-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesichorus-of-metauros-hesperides-ams-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesichorus-of-metauros/hesperides.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/stesichorus-of-metauros",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/stesichorus-of-metauros-ams.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/stesichorus-of-metauros-ams.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/stesichorus-of-metauros-ams.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/stesichorus-of-metauros-ams.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

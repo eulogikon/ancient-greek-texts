@@ -1,0 +1,198 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "niy-aa",
+  "eul_aid": "niy",
+  "author_slug": "boidas-the-philologist",
+  "work_slug": "testimony",
+  "url_slug": "boidas-the-philologist-testimony-niy-aa",
+  "author": {
+    "english": "Boïdas the Philologist",
+    "ancient_greek": "Βοΐδας ὁ Φιλόλογος"
+  },
+  "title": {
+    "english": "Testimony",
+    "ancient_greek": "Μαρτυρία"
+  },
+  "seo": {
+    "browser_title": "Ancient Testimony by Boïdas the Philologist on Eulogikon",
+    "meta_title": "Testimony by Boïdas the Philologist in Ancient Greek",
+    "meta_description": "Testimony is a collection of philosophical fragments attributed to Boïdas Philologist. These texts preserve ancient commentary scholarly references."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The work titled Testimony, attributed to an author named Boïdas the Philologist, is unattested in standard scholarly sources. The term typically denotes testimony, witness, or evidence, potentially indicating a philosophical, legal, or gnomic text. The epithet &quot;the Philologist&quot; suggests a possible Hellenistic or Roman imperial date, but the work&#x27;s existence and nature remain unverified. No substantive content or themes from the work are recorded. It is described as a collection of one passage, implying it may be a brief fragment or a single excerpt preserved indirectly, with no manuscript tradition or ancient citations documented. The complete absence of this work and author from the historical record limits its significance. It may represent a lost minor text, a misattribution, or a modern confection.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "SCHOL. ARISTOPH. vulg. ad Nub. 96 πρῶτον μὲν γὰρ Δίφιλος εἰς Βοΐδαν τὸν φιλόσοφον ὁλόκληρον συνέταξε ποίημα, δι’ οὗ καὶ εἰς δουλείαν ἐρυπαίνετο ὁ φιλόσοφος. οὐ διὰ τοῦτο δὲ ἐχθρὸς ἦν. ἔπειτα Εὔπολις, εἰ καὶ δι’ ὀλίγων ἐμνήσθη Σωκράτους, μᾶλλον ἢ Ἀριστοφάνης ἐν ὅλαις ταῖς Νεφέλαις αὐτοῦ καθήψατο.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "ljk-am",
+      "title": {
+        "english": "Characters",
+        "ancient_greek": "Χαρακτῆρες"
+      },
+      "url_slug": "theophrastus-of-eresus-characters-ljk-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/characters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-characters-ljk-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-characters-ljk-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-characters-ljk-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-characters-ljk-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/characters.epub"
+      }
+    },
+    {
+      "eul_wid": "uim-ab",
+      "title": {
+        "english": "Commentaries-Nicomachean Ethics Book VII",
+        "ancient_greek": "Σχόλια εἰς τὸ Ἠθικὰ Νικομάχεια Βιβλίον Ζ'"
+      },
+      "url_slug": "anonymous-commentary-on-aristotle-nicomachean-ethics-7-uim-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-commentary-on-aristotle/nicomachean-ethics-7",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle-nicomachean-ethics-7-uim-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle-nicomachean-ethics-7-uim-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle-nicomachean-ethics-7-uim-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle-nicomachean-ethics-7-uim-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle/nicomachean-ethics-7.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-ak",
+      "title": {
+        "english": "How One Might Perceive His Progress in Virtue",
+        "ancient_greek": "Πῶς ἄν τις αἴσθοιτο ἑαυτοῦ προκόπτοντος ἐπʼ ἀρετή"
+      },
+      "url_slug": "plutarch-of-chaeronea-progress-virtue-okg-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/progress-virtue",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-progress-virtue-okg-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-progress-virtue-okg-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-progress-virtue-okg-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-progress-virtue-okg-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/progress-virtue.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-bx",
+      "title": {
+        "english": "On Plants",
+        "ancient_greek": "Περὶ φυτῶν"
+      },
+      "url_slug": "aristotle-plants-hgw-bx",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/plants",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-plants-hgw-bx.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-plants-hgw-bx.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-plants-hgw-bx.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-plants-hgw-bx.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/plants.epub"
+      }
+    },
+    {
+      "eul_wid": "hgw-bd",
+      "title": {
+        "english": "On the Heavens",
+        "ancient_greek": "Περὶ Οὐρανοῦ"
+      },
+      "url_slug": "aristotle-heavens-hgw-bd",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/heavens",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-heavens-hgw-bd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-heavens-hgw-bd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-heavens-hgw-bd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-heavens-hgw-bd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/heavens.epub"
+      }
+    },
+    {
+      "eul_wid": "ayq-ae",
+      "title": {
+        "english": "Precepts",
+        "ancient_greek": "Παραγγέλματα"
+      },
+      "url_slug": "seven-sages-of-greece-precepts-ayq-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/seven-sages-of-greece/precepts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-precepts-ayq-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-precepts-ayq-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-precepts-ayq-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-precepts-ayq-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/precepts.epub"
+      }
+    },
+    {
+      "eul_wid": "lea-ae",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "orphic-poems-testimonies-lea-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/orphic-poems/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-testimonies-lea-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-testimonies-lea-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-testimonies-lea-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-testimonies-lea-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/testimonies.epub"
+      }
+    },
+    {
+      "eul_wid": "lxq-aa",
+      "title": {
+        "english": "Testimonies and Fragments",
+        "ancient_greek": "Μαρτυρίαι καὶ Ἀποσπάσματα"
+      },
+      "url_slug": "diogenes-of-babylon-testimonies-lxq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-babylon/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-babylon-testimonies-lxq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-babylon-testimonies-lxq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-babylon-testimonies-lxq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-babylon-testimonies-lxq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-babylon/testimonies.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/boidas-the-philologist/testimony",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boidas-the-philologist-testimony-niy-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boidas-the-philologist-testimony-niy-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boidas-the-philologist-testimony-niy-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boidas-the-philologist-testimony-niy-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boidas-the-philologist/testimony.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

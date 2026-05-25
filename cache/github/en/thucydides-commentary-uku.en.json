@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "uku",
+  "auth_slug": "thucydides-commentary",
+  "name": {
+    "english": "Thucydides Commentary",
+    "ancient_greek": "Θουκυδίδου ὑπόμνησις"
+  },
+  "seo_h1": "Thucydides Commentary: Anonymous Scholia from Late Antiquity",
+  "seo": {
+    "browser_title": "Thucydides Commentary Author on Eulogikon Greek Archive",
+    "meta_title": "Classical Thucydides Commentary Ancient Greek Grammar Works",
+    "meta_description": "A Late Antique Atticizing grammar commentary on Thucydides from 2nd to 6th century CE. This surviving grammatical work. Free to download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The author or compiler of the &quot;Thucydides Commentary&quot; is anonymous. The work dates from the Late Antique period, an era of significant scholarly activity focused on explicating classical texts. As a grammatical commentary, it was likely produced by a scholar within the educational centers of Alexandria, Athens, or Constantinople, engaged in standard philological and exegetical work to aid students.</p>\n<p class=\"research-text\">The sole known work is the Thucydides Commentary, an exegetical text on Thucydides&#x27; History of the Peloponnesian War. It represents one strand of a complex commentary tradition, drawing from earlier scholars like Didymus Chalcenterus and Aelius Herodianus. The work is preserved fragmentarily within the later medieval scholia on Thucydides.</p>\n<p class=\"research-text\">This commentary is part of the essential late antique effort to interpret and transmit Thucydides&#x27; challenging history. It served key pedagogical and preservative functions, explaining historical references, language, and style, thereby ensuring Thucydides&#x27; survival as a model of Attic prose and a vital historical source through subsequent centuries.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "uku-aa",
+      "title": {
+        "english": "Scholia-Thucydides",
+        "ancient_greek": "Σχόλια εἰς Θουκυδίδην"
+      },
+      "url_slug": "thucydides-commentary-scholia-uku-aa",
+      "passages": 2145,
+      "links": {
+        "html": "https://eulogikon.org/grc/thucydides-commentary/scholia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-commentary-scholia-uku-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-commentary-scholia-uku-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-commentary-scholia-uku-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-commentary-scholia-uku-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-commentary/scholia.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/thucydides-commentary",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/thucydides-commentary-uku.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/thucydides-commentary-uku.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/thucydides-commentary-uku.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/thucydides-commentary-uku.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "tba",
+  "auth_slug": "priscus-of-panium",
+  "name": {
+    "english": "Priscus of Panium",
+    "ancient_greek": "Πρίσκος ὁ Πανίτης"
+  },
+  "seo_h1": "Priscus of Panium on Attila and the Hunnic Court",
+  "seo": {
+    "browser_title": "Priscus of Panium the Historian on Eulogikon Greek Archive",
+    "meta_title": "Classical Priscus of Panium Ancient Greek Historical Works",
+    "meta_description": "Priscus of Panium was a 5th century CE historian. Fragments of his historical works are preserved. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Priscus of Panium was a 5th-century CE Roman historian and sophist from Panium in Thrace. His career is defined by his participation in a diplomatic mission to the court of Attila the Hun in 448/449 CE, where he recorded a famous encounter with a Greek-speaking Roman captive. Following the death of Emperor Theodosius II, he entered the service of the general Marcian and was associated with the poet Christodorus.</p>\n<p class=\"research-text\">His major work is a fragmentary eight-book History covering the period from Attila&#x27;s rise to the reign of Emperor Zeno. It provides a detailed contemporary account of the Huns and late Roman affairs. A separate rhetorical work is noted but lost.</p>\n<p class=\"research-text\">Priscus is a paramount primary source for the 5th-century Roman Empire, the Huns, and the Barbarian invasions. His fragments offer invaluable ethnographic detail and a reliable critical narrative, heavily utilized by later historians like Jordanes. His clear, classical prose provides a crucial Greek perspective on late antiquity.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "tba-ab",
+      "title": {
+        "english": "Fragments on Attila and the Huns",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀττίλα καὶ τῶν Οὔννων"
+      },
+      "url_slug": "priscus-of-panium-attila-huns-tba-ab",
+      "passages": 87,
+      "links": {
+        "html": "https://eulogikon.org/grc/priscus-of-panium/attila-huns",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/priscus-of-panium-attila-huns-tba-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/priscus-of-panium-attila-huns-tba-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/priscus-of-panium-attila-huns-tba-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/priscus-of-panium-attila-huns-tba-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/priscus-of-panium/attila-huns.epub"
+      }
+    },
+    {
+      "eul_wid": "tba-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "priscus-of-panium-testimonies-tba-aa",
+      "passages": 11,
+      "links": {
+        "html": "https://eulogikon.org/grc/priscus-of-panium/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/priscus-of-panium-testimonies-tba-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/priscus-of-panium-testimonies-tba-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/priscus-of-panium-testimonies-tba-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/priscus-of-panium-testimonies-tba-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/priscus-of-panium/testimonies.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/priscus-of-panium",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/priscus-of-panium-tba.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/priscus-of-panium-tba.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/priscus-of-panium-tba.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/priscus-of-panium-tba.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "cte",
+  "auth_slug": "andron-of-halicarnassus-ii",
+  "name": {
+    "english": "Andron of Halicarnassus II",
+    "ancient_greek": "Ἄνδρων ὁ Ἁλικαρνασσεύς"
+  },
+  "seo_h1": "Geography and Genealogy in Andron of Halicarnassus",
+  "seo": {
+    "browser_title": "Andron of Halicarnassus on Eulogikon Greek Archive",
+    "meta_title": "Classical Andron of Halicarnassus Ancient Greek Geography",
+    "meta_description": "Andron of Halicarnassus, a 4th century BCE geographer. Surviving fragments of geographical works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γεωγραφία",
+      "english": "Geography",
+      "href": "/domains/geography"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Andron of Halicarnassus II was a 4th-century BCE geographical writer from Halicarnassus in Caria. He is distinguished from an earlier, possibly 6th-century author of the same name. The Byzantine encyclopedia Suda records that he was the son of a man named Andron.</p>\n<p class=\"research-text\">His only known work is The Tripod, a lost geographical and ethnographical text surviving only in fragments cited by later authors like Strabo and Stephanus of Byzantium. The title likely references the Delphic tripod, suggesting the work may have been structured around oracular lore or a periplus format.</p>\n<p class=\"research-text\">Andron’s significance lies in his contribution to early Ionian geography. Strabo used him as a source for details on Greek colonies, including Massalia and the Phocaeans. His fragments provide valuable glimpses into Classical Greek geographical knowledge prior to the Hellenistic period, situating him within the prose tradition of Ionian inquiry.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "cte-aa",
+      "title": {
+        "english": "Fragments on Geography",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γεωγραφίας"
+      },
+      "url_slug": "andron-of-halicarnassus-ii-geography-fragments-cte-aa",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/andron-of-halicarnassus-ii/geography-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-halicarnassus-ii-geography-fragments-cte-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-halicarnassus-ii-geography-fragments-cte-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-halicarnassus-ii-geography-fragments-cte-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-halicarnassus-ii-geography-fragments-cte-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-halicarnassus-ii/geography-fragments.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/andron-of-halicarnassus-ii",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/andron-of-halicarnassus-ii-cte.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/andron-of-halicarnassus-ii-cte.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/andron-of-halicarnassus-ii-cte.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/andron-of-halicarnassus-ii-cte.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

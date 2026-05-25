@@ -1,0 +1,279 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "qng-af",
+  "eul_aid": "qng",
+  "author_slug": "hermogenes-of-tarsus",
+  "work_slug": "testimonies",
+  "url_slug": "hermogenes-of-tarsus-testimonies-qng-af",
+  "author": {
+    "english": "Hermogenes of Tarsus",
+    "ancient_greek": "Ἑρμογένης ὁ Ταρσεύς"
+  },
+  "title": {
+    "english": "Testimonies",
+    "ancient_greek": "Μαρτυρίαι"
+  },
+  "seo": {
+    "browser_title": "Ancient Testimonies by Hermogenes of Tarsus on Eulogikon",
+    "meta_title": "Testimonies by Hermogenes of Tarsus in Ancient Greek",
+    "meta_description": "Testimonies is a collection of biographical critical notices about Hermogenes of Tarsus. This work provides insights into ancient rhetorical tradition."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα τεχνική",
+      "english": "Atticizing Technical",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Testimonies</strong> is a concise rhetorical handbook composed in Greek by Hermogenes of Tarsus around 180 CE. It functions as one of the preliminary exercises, or <strong>progymnasmata</strong>, intended to instruct students in the foundational techniques of oratory. This specific exercise trains students in the composition of a &quot;testimony&quot; or &quot;confirmation,&quot; a form of persuasive proof designed to support a given narrative or argument. The method employs techniques such as appeals to logical probability, historical parallels, and mythical exempla. Created as a textbook for the advanced Greek educational curriculum of the Roman Empire, the work belongs to the cultural milieu of the Second Sophistic, a period that emphasized the revival of classical Attic style. It was likely intended for students preparing for careers in law, politics, and public declamation. The <strong>Testimonies</strong> survives as a component of a larger collection of Hermogenes&#x27; <strong>Progymnasmata</strong>. While the authenticity of certain works attributed to him remains contested, this collection is widely accepted as genuine. Transmitted through medieval manuscripts, it became a standard school text in the Byzantine Empire and subsequently exerted a significant influence on Renaissance rhetorical education, shaping the pedagogy of classical rhetoric for centuries.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "3c,851,T 1",
+      "text": "SUDA s.v. Ἑρμογένης Ταρσεύς· ὁ ἐπίκλην Ξυστήρ, σοφιστής, οὗ διήκουσε καὶ Μουσώνιος ὁ φιλόσοφος. γέγονε δὲ ἐπὶ Μάρκου τοῦ βασιλέως ..... πλὴν περὶ τὸν ιη ἢ κ χρόνον γενόμενος γράφει ταῦτα τὰ βιβλία τὰ γέμοντα θαυμάτων· Τέχνην ῥητορικήν, ἣν μετὰ χεῖρας ἔχουσιν ἅπαντες· Περὶ στάσεων βιβλίον α · Περὶ ἰδεῶν λόγου βιβλία β · Περὶ Κοίλης Συρίας β .",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "qng-ae",
+      "title": {
+        "english": "On Discovery",
+        "ancient_greek": "Περὶ εὑρέσεως"
+      },
+      "url_slug": "hermogenes-of-tarsus-discovery-qng-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermogenes-of-tarsus/discovery",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-discovery-qng-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-discovery-qng-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-discovery-qng-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-discovery-qng-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus/discovery.epub"
+      }
+    },
+    {
+      "eul_wid": "qng-ac",
+      "title": {
+        "english": "On Ideas of Speech",
+        "ancient_greek": "Περὶ ἰδεῶν λόγου"
+      },
+      "url_slug": "hermogenes-of-tarsus-on-ideas-qng-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermogenes-of-tarsus/on-ideas",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-on-ideas-qng-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-on-ideas-qng-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-on-ideas-qng-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-on-ideas-qng-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus/on-ideas.epub"
+      }
+    },
+    {
+      "eul_wid": "qng-aa",
+      "title": {
+        "english": "On the Method of Awesomeness",
+        "ancient_greek": "Περὶ μεθόδου δεινότητος"
+      },
+      "url_slug": "hermogenes-of-tarsus-method-awesomeness-qng-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermogenes-of-tarsus/method-awesomeness",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-method-awesomeness-qng-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-method-awesomeness-qng-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-method-awesomeness-qng-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-method-awesomeness-qng-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus/method-awesomeness.epub"
+      }
+    },
+    {
+      "eul_wid": "qng-ad",
+      "title": {
+        "english": "On the Stances",
+        "ancient_greek": "Περὶ στάσεων"
+      },
+      "url_slug": "hermogenes-of-tarsus-stances-qng-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermogenes-of-tarsus/stances",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-stances-qng-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-stances-qng-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-stances-qng-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-stances-qng-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus/stances.epub"
+      }
+    },
+    {
+      "eul_wid": "qng-ab",
+      "title": {
+        "english": "Preliminary Exercises",
+        "ancient_greek": "Προγυμνάσματα"
+      },
+      "url_slug": "hermogenes-of-tarsus-preliminary-exercises-qng-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermogenes-of-tarsus/preliminary-exercises",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-preliminary-exercises-qng-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-preliminary-exercises-qng-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-preliminary-exercises-qng-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-preliminary-exercises-qng-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus/preliminary-exercises.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "qeu-ah",
+      "title": {
+        "english": "Alcyon",
+        "ancient_greek": "Ἀλκυών"
+      },
+      "url_slug": "pseudo-lucian-alcyon-qeu-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/alcyon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-alcyon-qeu-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-alcyon-qeu-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-alcyon-qeu-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian-alcyon-qeu-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/alcyon.epub"
+      }
+    },
+    {
+      "eul_wid": "pfk-bd",
+      "title": {
+        "english": "Companion Dialogues",
+        "ancient_greek": "Ἑταιρικοὶ Διάλογοι"
+      },
+      "url_slug": "lucian-of-samosata-companion-dialogues-pfk-bd",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/companion-dialogues",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-companion-dialogues-pfk-bd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-companion-dialogues-pfk-bd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-companion-dialogues-pfk-bd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata-companion-dialogues-pfk-bd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/companion-dialogues.epub"
+      }
+    },
+    {
+      "eul_wid": "swk-ak",
+      "title": {
+        "english": "Fragments on Virtue",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀρετῆς"
+      },
+      "url_slug": "libanius-of-antioch-virtue-swk-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/libanius-of-antioch/virtue",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch-virtue-swk-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch-virtue-swk-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch-virtue-swk-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch-virtue-swk-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/virtue.epub"
+      }
+    },
+    {
+      "eul_wid": "ria-aa",
+      "title": {
+        "english": "From Aelian's Rustic Letters",
+        "ancient_greek": "ἐκ τῶν Αἰλιανοῦ ἀγροικικῶν ἐπιστολῶν"
+      },
+      "url_slug": "aelian-of-praeneste-rustic-letters-ria-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aelian-of-praeneste/rustic-letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste-rustic-letters-ria-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste-rustic-letters-ria-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste-rustic-letters-ria-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste-rustic-letters-ria-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste/rustic-letters.epub"
+      }
+    },
+    {
+      "eul_wid": "rfi-ab",
+      "title": {
+        "english": "Lives of the Sophists",
+        "ancient_greek": "Βίοι Σοφιστῶν"
+      },
+      "url_slug": "philostratus-the-athenian-lives-sophists-rfi-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/philostratus-the-athenian/lives-sophists",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostratus-the-athenian-lives-sophists-rfi-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostratus-the-athenian-lives-sophists-rfi-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostratus-the-athenian-lives-sophists-rfi-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostratus-the-athenian-lives-sophists-rfi-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostratus-the-athenian/lives-sophists.epub"
+      }
+    },
+    {
+      "eul_wid": "swk-aj",
+      "title": {
+        "english": "Orations 1–64",
+        "ancient_greek": "Λόγοι 1–64"
+      },
+      "url_slug": "libanius-of-antioch-orations-swk-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/libanius-of-antioch/orations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch-orations-swk-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch-orations-swk-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch-orations-swk-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch-orations-swk-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/orations.epub"
+      }
+    },
+    {
+      "eul_wid": "eme-aa",
+      "title": {
+        "english": "Testimonies 2",
+        "ancient_greek": "Μαρτυρίαι Β'"
+      },
+      "url_slug": "gorgias-of-leontini-testimonies-2-eme-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/gorgias-of-leontini/testimonies-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgias-of-leontini-testimonies-2-eme-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgias-of-leontini-testimonies-2-eme-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgias-of-leontini-testimonies-2-eme-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgias-of-leontini-testimonies-2-eme-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgias-of-leontini/testimonies-2.epub"
+      }
+    },
+    {
+      "eul_wid": "ise-aa",
+      "title": {
+        "english": "Thessalian Antiquities and Myths",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "cineas-of-thessaly-antiquities-myths-ise-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cineas-of-thessaly/antiquities-myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cineas-of-thessaly-antiquities-myths-ise-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cineas-of-thessaly-antiquities-myths-ise-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cineas-of-thessaly-antiquities-myths-ise-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cineas-of-thessaly-antiquities-myths-ise-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cineas-of-thessaly/antiquities-myths.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hermogenes-of-tarsus/testimonies",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-testimonies-qng-af.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-testimonies-qng-af.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-testimonies-qng-af.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-testimonies-qng-af.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus/testimonies.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

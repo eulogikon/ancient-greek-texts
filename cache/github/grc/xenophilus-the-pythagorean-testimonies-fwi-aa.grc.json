@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "fwi-aa",
+  "eul_aid": "fwi",
+  "author_slug": "xenophilus-the-pythagorean",
+  "work_slug": "testimonies",
+  "url_slug": "xenophilus-the-pythagorean-testimonies-fwi-aa",
+  "author": {
+    "english": "Xenophilus the Pythagorean",
+    "ancient_greek": "Ξενόφιλος ὁ Πυθαγόρειος"
+  },
+  "title": {
+    "english": "Testimonies",
+    "ancient_greek": "Μαρτυρίαι"
+  },
+  "seo": {
+    "browser_title": "Testimonies by Xenophilus the Pythagorean on Eulogikon",
+    "meta_title": "Testimonies by Xenophilus the Pythagorean in Greek",
+    "meta_description": "Testimonies collects Pythagorean teachings by Xenophilus. Preserves ancient doctrines. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (phi, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Testimonies</strong> of Xenophilus the Pythagorean is a lost work, known only from its listing in the <strong>Suda</strong>, a 10th-century Byzantine encyclopedia, which records it as a collection of three passages. No direct quotations or descriptions of its content survive. While the specific themes of the <strong>Testimonies</strong> are unattested, Xenophilus’s identity as a Pythagorean philosopher and musician suggests it may have contained doctrinal statements on Pythagorean metaphysics or ethics, theories of music and harmony, or biographical accounts and authoritative maxims of the school. The work survives only as a title in ancient catalogs, with no extant manuscript tradition. Its existence is documented solely by the secondary reference in the <strong>Suda</strong>. Xenophilus’s primary historical importance derives from his role as a teacher of the musical theorist Aristoxenus. The <strong>Testimonies</strong> itself appears to have had minimal direct influence, but it represents a fragment of the broader, mostly lost, Pythagorean literary tradition.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "DIOG. VIII 46 τελευταῖοι γὰρ ἐγένοντο τῶν Πυθαγορείων, οὓς καὶ Ἀριστόξενος εἶδε, Ξενόφιλός τε ὁ Χαλκιδεὺς ἀπὸ Θράικης κτλ. IAMBL. V. P. 251 ἧσαν δὲ οἱ σπουδαιότατοι Φάντων τε καὶ Ἐχεκράτης καὶ Πολύμναστος καὶ Διοκλῆς Φλιάσιοι, Ξενόφιλος δὲ Χαλκιδεὺς τῶν ἀπὸ Θράικης Χαλκιδέων. 267 p. 193, 5 Κυζικηνοὶ Πυθόδωρος ... Ξενόφιλος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "VAL. MAX. VIII 13 ext. 3 biennio minor Xenophilus Chalcidensis Pythagoricus, sed felicitate non inferior, si quidem, ut ait Aristoxenus musicus [ fr. 16 FHG II 277], omnis humani incommodi expers in summo perfectissimae doctrinae splendore extinctus est. [ LUC.] Macrob. 18 Ξενόφιλος δὲ ὁ μουσικός, ὥς φησιν Ἀριστόξενος, προσσχὼν τῆι Πυθαγόρου φιλοσοφίαι ὑπὲρ τὰ πέντε καὶ ἑκατὸν ἔτη Ἀθήνησιν ἐβίωσε. PLIN. N. H. VIII 168 ergo pro miraculo et id solitarium reperitur exemplum Xenophili musici centum et quinque annis vixisse sine corporis incommodo.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "SUID. S. V. Ἀριστόξενος ... ἀκουστὴς τοῦ τε πατρὸς καὶ Λάμπρου τοῦ Ἐρυθραίου, εἶτα Ξενοφίλου τοῦ Πυθαγορείου καὶ τέλος Ἀριστοτέλους. Vgl. GELL. IV 11 [I 101, 26].",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "rrg-aq",
+      "title": {
+        "english": "Differences of Lead and Gold Leaf",
+        "ancient_greek": "Διαφοραὶ μολίβδου καὶ χρυσοπετάλου"
+      },
+      "url_slug": "alchemist-i-lead-gold-rrg-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/lead-gold",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-lead-gold-rrg-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-lead-gold-rrg-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-lead-gold-rrg-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-lead-gold-rrg-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/lead-gold.epub"
+      }
+    },
+    {
+      "eul_wid": "tyc-br",
+      "title": {
+        "english": "Excerpt-Bronze Men",
+        "ancient_greek": "περὶ χαλκανθρώπων"
+      },
+      "url_slug": "zosimus-of-panopolis-bronze-men-tyc-br",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/bronze-men",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-bronze-men-tyc-br.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-bronze-men-tyc-br.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-bronze-men-tyc-br.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-bronze-men-tyc-br.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/bronze-men.epub"
+      }
+    },
+    {
+      "eul_wid": "tyc-bg",
+      "title": {
+        "english": "Excerpt-Parts of Alchemy",
+        "ancient_greek": "Ἀπόσπασμα περὶ τῶν μερῶν τῆς ἀλχημείας"
+      },
+      "url_slug": "zosimus-of-panopolis-alchemy-excerpt-tyc-bg",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/alchemy-excerpt",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-alchemy-excerpt-tyc-bg.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-alchemy-excerpt-tyc-bg.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-alchemy-excerpt-tyc-bg.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-alchemy-excerpt-tyc-bg.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/alchemy-excerpt.epub"
+      }
+    },
+    {
+      "eul_wid": "pzu-aa",
+      "title": {
+        "english": "Nine Books of Anthologies",
+        "ancient_greek": "Ἐννέα Βιβλία Ἀνθολογιῶν"
+      },
+      "url_slug": "vettius-valens-of-antioch-anthologies-pzu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/vettius-valens-of-antioch/anthologies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/vettius-valens-of-antioch-anthologies-pzu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/vettius-valens-of-antioch-anthologies-pzu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/vettius-valens-of-antioch-anthologies-pzu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/vettius-valens-of-antioch-anthologies-pzu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/vettius-valens-of-antioch/anthologies.epub"
+      }
+    },
+    {
+      "eul_wid": "sac-ab",
+      "title": {
+        "english": "On Beginnings",
+        "ancient_greek": "Περὶ καταρχῶν"
+      },
+      "url_slug": "maximus-of-ephesus-beginnings-ab-sac-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/maximus-of-ephesus/beginnings-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maximus-of-ephesus-beginnings-ab-sac-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maximus-of-ephesus-beginnings-ab-sac-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maximus-of-ephesus-beginnings-ab-sac-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maximus-of-ephesus-beginnings-ab-sac-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maximus-of-ephesus/beginnings-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "lww-aa",
+      "title": {
+        "english": "On Days and Nights",
+        "ancient_greek": "Περὶ ἡμερῶν καὶ νυκτῶν"
+      },
+      "url_slug": "theodosius-of-bithynia-days-nights-lww-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theodosius-of-bithynia/days-nights",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-bithynia-days-nights-lww-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-bithynia-days-nights-lww-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-bithynia-days-nights-lww-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-bithynia-days-nights-lww-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-bithynia/days-nights.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-ck",
+      "title": {
+        "english": "On Gilding Iron",
+        "ancient_greek": "Περὶ τοῦ χρυσῶσαι σίδηρον"
+      },
+      "url_slug": "alchemist-i-gilding-iron-rrg-ck",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/gilding-iron",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-gilding-iron-rrg-ck.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-gilding-iron-rrg-ck.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-gilding-iron-rrg-ck.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-gilding-iron-rrg-ck.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/gilding-iron.epub"
+      }
+    },
+    {
+      "eul_wid": "veu-aa",
+      "title": {
+        "english": "To the Active Zosimus, What Was Said by Hermes and the Philosophers",
+        "ancient_greek": "Εἰς τὸ κατ’ ἐνέργειαν ζωσίμου ὅσα ἀπὸ Ἑρμοῦ καὶ"
+      },
+      "url_slug": "olympiodorus-the-alchemist-of-alexandria-active-zosimus-hermes-veu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/olympiodorus-the-alchemist-of-alexandria/active-zosimus-hermes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-alchemist-of-alexandria-active-zosimus-hermes-veu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-alchemist-of-alexandria-active-zosimus-hermes-veu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-alchemist-of-alexandria-active-zosimus-hermes-veu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-alchemist-of-alexandria-active-zosimus-hermes-veu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-alchemist-of-alexandria/active-zosimus-hermes.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/xenophilus-the-pythagorean/testimonies",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophilus-the-pythagorean-testimonies-fwi-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophilus-the-pythagorean-testimonies-fwi-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophilus-the-pythagorean-testimonies-fwi-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophilus-the-pythagorean-testimonies-fwi-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophilus-the-pythagorean/testimonies.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

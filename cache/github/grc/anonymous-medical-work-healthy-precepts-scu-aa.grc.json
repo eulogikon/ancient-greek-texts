@@ -1,0 +1,275 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "scu-aa",
+  "eul_aid": "scu",
+  "author_slug": "anonymous-medical-work",
+  "work_slug": "healthy-precepts",
+  "url_slug": "anonymous-medical-work-healthy-precepts-scu-aa",
+  "author": {
+    "english": "Medical Work  Anonymous",
+    "ancient_greek": "Ἀνώνυμος τὰ σωτήρια παραγγέλματα"
+  },
+  "title": {
+    "english": "Healthy Precepts",
+    "ancient_greek": "Ὑγιειναὶ Παραγγελίαι"
+  },
+  "seo": {
+    "browser_title": "Healthy Precepts Anonymous Medical Work on Eulogikon",
+    "meta_title": "Healthy Precepts Anonymous Medical Treatise in Greek",
+    "meta_description": "This anonymous late antique medical treatise provides practical health guidance through concise precepts for Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Healthy Precepts</strong> is a brief, pseudepigraphical medical treatise preserved within the manuscript tradition of the Hippocratic Corpus. Presented as a work of Asclepiades and Dioscorides, it consists of twelve concise, aphoristic passages offering prescriptive advice for maintaining health through daily regimen. Its focus is preventive, emphasizing the management of diet, exercise, sleep, and bathing rather than the treatment of disease. The text advocates for moderation in all things, advising a single, simple meal per day, exercise in due measure, and the avoidance of excess in food, drink, and cold baths. It also includes seasonal recommendations, such as bloodletting in summer. Lacking the theoretical exposition or clinical case histories characteristic of the core Hippocratic works, its style is purely directive. Modern scholarship uniformly rejects its attribution to Hippocrates of Cos. The work survives solely through its inclusion in the larger Hippocratic collection, with no evidence of independent circulation or significant commentary in antiquity. Its historical importance lies not in direct influence but in its role as an example of the concise, practical health guidance that was composed and transmitted under the authoritative name of Hippocrates, thereby illustrating the expansive and heterogeneous nature of the Corpus.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "ΥΓΙΕΙΝΑ ΠΑΡΑΓΓΕΛΜΑΤΑ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Ὑγιεινὰ παραγγέλματα σύντομα Ἀσκληπιάδους ταῦτα] Καὶ Διοσκορίδους μεταδίδοσθαι τὴν γραφὴν [ἐξορκισάντων Ἀταμιεύτως καὶ σὺν ἀφθόνῳ τρόπῳ· Ὁ γὰρ φυλάξας καὶ κλινήρης ὢν δραμεῖ, Καὶ ῥικνὸς ἐνδύσαιτο τῆς ἀκμῆς μέλη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Εὐεξίας τράπεζαν, εἰ θέλεις, μάθε· Τῆς ἡμέρας δείπνησον εἰς ἅπαξ μόνον· Ἁπλοῦν τὸ δεῖπνον οὐ πολύμικτον φίλει. Πρὸ τοῦ κόρου βρῶσίν τε καὶ πόσιν φύγε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Καὶ συμμέτρως γύμναζε σαυτὸν τοῖς πόνοις. Ἐπὶ τὰ δεξιὰ δὲ τοῖς ὕπνοις κλίνου. Καὶ τὰ ψυχρὰ πόματα χειμῶνος μίσει. Τὴν κρανιακὴν τέμνε τῷ θέρει φλέβα· Τὴν καθόλου δὲ τοῖς ψυχροῖς μᾶλλον χρόνοις· Κἂν ᾖς ἐν ἀκμῇ, τῆς σελήνης ἐν φθίσει· Ἂν δ’ ὑπέρακμος, τῆσδε τὸ πλῆρες σκόπει, Καὶ γαστέρος κένωσιν ἐκ τῶν σκυβάλων, Τό τ’ ἀκριβῶς ἄδιψον ἄπικρον στόμα. Χρῶ καὶ λοετροῖς ἀσφαλεστάτῃ κρίσει, Συχνοῖς μὲν, ἂν ἐσχήκῃς αὐχμηρὰν πλάσιν· Ἂν δὲ πλαδῶσαν, σπάνιον καὶ σὺν χρόνῳ· Κἂν ᾖς ἐν ἀκμῇ, τῆς σελήνης ἐν φθίσει· Ἂν δ’ ὑπέρακμος, τῆσδε τὸ πλῆρες σκόπει, Τήρει τε γαστρὸς ἐκφόρησιν καὶ στόμα Δίψους ἄγευστον, εἰ καὶ μή γε πικρίας. Τὸ σῶμα θάλπε χλανίσιν ἐν τῷ ψύχει, Καὶ τὴν κεφαλὴν, οἷς ἔθος, καὶ τοὺς πόδας, Πλὴν τὰς σισύρας φεῦγε καὶ τούτων ζέσιν, Καὶ μᾶλλον οἷαι λασιότριχες πλέον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "Καὶ οἰκίας ἔκκλινε δυσωδεστέρας Ἀεί τε καὶ μάλιστα καύματος χρόνῳ· Μετὰ θεοῦ γὰρ τούτοις ἐκφυγεῖς νόσους. Χειμῶνι χρῆσθαι συμφέρει πολλοῖς κόποις, Τροφαῖς τε πολλαῖς καὶ γινωσκούσαις κόρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "Σῶμα κενοῦν ἔαρος ἐχρῆν, ὡς θέλεις, Ἤγουν ἐμέτοις, ἤγουν γαστρὸς ἐκρύσει, Εἴτε φλεβὸς τομῇ τε καὶ λύθρου βλύσει. Θέρους πόνων ἡ λῆξις ἡμῖν συμφέρει, Ἡ τῶν τροφῶν τε βραχύτης καὶ ψυχρότης, Καὶ τῶν ὑδάτων ἡ περίψυχρος πόσις. Φθινοπώρῳ δὲ σὺν ἀκριβείᾳ τρέφου, Τὰ ψυχρὰ φεῦγε, τῆς ὀπώρας τὸν κόρον· Σύκοις δὲ συχνοῖς καὶ σταφύλαις ἐκτρέφου. Ἰσημερίᾳ σῶμα ταχὺ ἐκκενοῦ Μιᾷ κενώσει τῶν τριῶν, ὡς ἐγράφη. Τοῦ δ’ ἀέρος τραπέντος εἰς πλεῖον κρύους, Χλαίναις τὸ σῶμα θάλπε, καὶ φυγεῖς νόσους. Ἔξω τὰ πολλὰ συνετηρηθῇς νόσου, Διψῶν ἂν ὑπνοῖς· κερδανεῖς εὐεξίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "Δεξιοκοίταις, ὡς ἰατρός τις λέγει, Καὶ χλιαρὰ πίνουσι μακρὸς ὁ χρόνος. Ἐν τῷ λιβάνῳ θυμιῶν σου τὸν δόμον Καιροῖς θερινοῖς καὶ φθόρου λοιμοῦ χρόνῳ, Τηρεῖς σεαυτὸν τῆς βλάβης ὑπέρτερον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(50)",
+      "text": "Ἐν λαδάνῳ δὲ θυμιῶν σου τὴν στέγην Ἐν κρυερῷ τε καὶ καταῤῥοίας χρόνῳ, Πύκνωσιν αὐτὸς καὶ κατάῤῥουν ἐκφυγεῖς. Ψυχροστομάχου καὶ ποτοψύχρου πλέον Λεπτὴ πτέρωσις εἰς θεραπείαν μέγα, Πυρίδιον πλήσασα λινοῦν * ἐξύλῳ, Καὶ τῷ στομάχῳ συνεχῶς ἐζωσμένη. Μέλι τὸ καλὸν ἐξ ἄκρας εὐχυμίας Τέρπει τε γεῦσιν καὶ βιοῖ πολὺν χρόνον, Αἴσιόν ἐστι καὶ νέοις καὶ πρεσβύταις, Αἰσθήσεων τε λαμπρύνει τὰς ἐκκρίτους, Πλὴν ὠμὸν αὐτὸ μήτ’ ἀφέψων ἐσθίῃς. Ἰντύβιον φακῆν τε πυκνῶς ἐσθίων, Ἀναφρόδιτον τὴν φύσιν ἐξεργάσῃ. Ἂν μνήμονα νοῦν ἐγκαταστῆσαι θέλῃς, Ὕδατι συνέψησον, εἴτ’ οὖν ἀκράτῳ Ὀρίγανον πρὸς ἄκραν ἐκκαύσας ζέσιν, Καὶ κατὰ γένναν τῆς σελήνης ἐκρόφα. Τηροῦσιν ἀμέθυσον ἄνδρα τὸν πότην Ἀμύγδαλα Θάσια πικρίζοντά τε, Βρωθέντα πέντε τάχα ὑπὲρ πεντάδα, Πλὴν ἀσίτῳ φάρυγγι καὶ πρὸ τῆς μέθης. Σπέρμα λειανθὲν τῆς θριδακίνης μέλαν Ψυχρῷ νάματι συγκερασθὲν εἰς πόμα Τὸ πρωϊνόν τε καὶ τὸ πρὸς τὴν ἑσπέραν Συνουσίαν παύει τε καὶ γονὴν ψύχει. Φθόγγον φάρυγγος οἶδεν ἀπολαμπρύνειν Δειπνούμενον σκόροδον, ὡς αὐτὸς θέλεις, Εἴτ’ ὠμὸν ἴσως, εἴτ’ ἐπ’ ἀνθράκων ζέσας. Καὶ κιννάμωμον λαμπρόφωνον εὑρέθη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(50)",
+      "text": "Ψύλλας διώκει καὶ σὺν αὐταῖς τὰς κόρεις Ὑποστορεσθὲν τῇ κορειτρόφῳ κλίνῃ Ἀβρότονόν τε καὶ μάλιστ’ ἀψίνθιον, Ζωμός τε φύλλων τῆς συκῆς τῆς ἀγρίας Ἀποφλεγέντων ἐν χύτρᾳ κατ’ ἀνθράκων Ψύλλας διώκει καταχυθεὶς ἐν δόμῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(50)",
+      "text": "Μυοκτόνος γένοιο ταχὺς, ἂν θέλῃς, Ξύσματα λεπτὰ σιδήρου συμφυράσας Ζύμῃ τε καὶ στέατι πρὸς μίαν κρᾶσιν, Πλάττων τε κολλούριον κωνάρων τύπον, Τίθου τράπεζαν τοῖς μυσὶ καὶ κτιννύεις. Ὑδράργυρος τοὺς φθεῖρας ὀξὺ κτιννύει, Ἀναζυμωθεὶς τῷ στέατι πρὸς κρᾶσιν, Ἐπαλειφθείς τε φθειριῶντι σαρκίῳ Τηροῦντι θάλψιν ἔνδον ἐξ ἱματίων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(50)",
+      "text": "Ἤγουν βοτάνην τὴν μυοκτόνον λαβὲ, Πυῤῥὰν βοτάνην καὶ χνοώδη τὴν θέαν, Ζύμῃ τε καὶ στέατι καὶ ταύτην φυρῶν, Ποιῶν τε κολλούρια τὰς μύας τρέφε, Καὶ γίνεται κώνειον αὐτοῖς ἡ τροφή.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(100)",
+      "text": "Καὶ σανδαράχη τὰ ὅμοι’ οἶδε πράττειν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "qmm-ca",
+      "title": {
+        "english": "Exhortation to Learn the Arts",
+        "ancient_greek": "Παραίνεσις πρὸς τὴν τῶν τεχνῶν μάθησιν"
+      },
+      "url_slug": "galen-of-pergamon-learn-arts-qmm-ca",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/learn-arts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-learn-arts-qmm-ca.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-learn-arts-qmm-ca.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-learn-arts-qmm-ca.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-learn-arts-qmm-ca.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/learn-arts.epub"
+      }
+    },
+    {
+      "eul_wid": "oyw-aa",
+      "title": {
+        "english": "Letter to King Ptolemy-the Fabric of Man",
+        "ancient_greek": "Ἐπιστολὴ πρὸς βασιλέα Πτολεμαῖον περὶ κατασκευῆς"
+      },
+      "url_slug": "pseudo-hippocrates-letter-ptolemy-fabric-man-oyw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-hippocrates/letter-ptolemy-fabric-man",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-letter-ptolemy-fabric-man-oyw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-letter-ptolemy-fabric-man-oyw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-letter-ptolemy-fabric-man-oyw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates-letter-ptolemy-fabric-man-oyw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/letter-ptolemy-fabric-man.epub"
+      }
+    },
+    {
+      "eul_wid": "bww-at",
+      "title": {
+        "english": "On Ancient Medicine",
+        "ancient_greek": "Περὶ ἀρχαίας ἰατρικῆς"
+      },
+      "url_slug": "hippocrates-ancient-medicine-bww-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/ancient-medicine",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-ancient-medicine-bww-at.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-ancient-medicine-bww-at.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-ancient-medicine-bww-at.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-ancient-medicine-bww-at.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/ancient-medicine.epub"
+      }
+    },
+    {
+      "eul_wid": "bww-ce",
+      "title": {
+        "english": "On Art",
+        "ancient_greek": "Περὶ τέχνης"
+      },
+      "url_slug": "hippocrates-art-bww-ce",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/art",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-art-bww-ce.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-art-bww-ce.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-art-bww-ce.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-art-bww-ce.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/art.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-dv",
+      "title": {
+        "english": "On Black Bile",
+        "ancient_greek": "Περὶ μέλαινας χολῆς"
+      },
+      "url_slug": "galen-of-pergamon-black-bile-qmm-dv",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/black-bile",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-black-bile-qmm-dv.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-black-bile-qmm-dv.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-black-bile-qmm-dv.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-black-bile-qmm-dv.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/black-bile.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-bu",
+      "title": {
+        "english": "On the Dissection of the Uterus",
+        "ancient_greek": "Περὶ τῆς μήτρας τομῆς"
+      },
+      "url_slug": "galen-of-pergamon-dissection-uterus-qmm-bu",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/dissection-uterus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-dissection-uterus-qmm-bu.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-dissection-uterus-qmm-bu.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-dissection-uterus-qmm-bu.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-dissection-uterus-qmm-bu.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/dissection-uterus.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-ae",
+      "title": {
+        "english": "On the Temperaments and Powers of Simple Medicines I-VI",
+        "ancient_greek": "Περὶ τῶν τῶν ἁπλῶν φαρμάκων κράσεων καὶ δυνάμεων"
+      },
+      "url_slug": "galen-of-pergamon-temperaments-powers-medicines-qmm-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/temperaments-powers-medicines",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-temperaments-powers-medicines-qmm-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-temperaments-powers-medicines-qmm-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-temperaments-powers-medicines-qmm-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-temperaments-powers-medicines-qmm-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/temperaments-powers-medicines.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-bo",
+      "title": {
+        "english": "To Glaucthe Method of Healing",
+        "ancient_greek": "Πρὸς Γλαύκωνα περὶ τῆς μεθόδου θεραπείας"
+      },
+      "url_slug": "galen-of-pergamon-method-healing-bo-qmm-bo",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/method-healing-bo",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-method-healing-bo-qmm-bo.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-method-healing-bo-qmm-bo.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-method-healing-bo-qmm-bo.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-method-healing-bo-qmm-bo.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/method-healing-bo.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/anonymous-medical-work/healthy-precepts",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-work-healthy-precepts-scu-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-work-healthy-precepts-scu-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-work-healthy-precepts-scu-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-work-healthy-precepts-scu-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-work/healthy-precepts.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

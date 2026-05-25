@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "qke",
+  "auth_slug": "arcadius-of-antioch",
+  "name": {
+    "english": "Arcadius of Antioch the Grammarian",
+    "ancient_greek": "Ἀρκάδιος ὁ Ἀντιοχεύς, γραμματικός"
+  },
+  "seo_h1": "Arcadius of Antioch and the Treatise on Accents",
+  "seo": {
+    "browser_title": "Arcadius of Antioch Grammarian on Eulogikon Greek Archive",
+    "meta_title": "Classical Arcadius of Antioch Ancient Greek Grammar Works",
+    "meta_description": "Arcadius of Antioch was a 2nd century Greek grammarian. His grammatical treatise is preserved. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Arcadius of Antioch was a Greek grammarian who lived during the 2nd century CE in the Roman Empire. He came from the city of Antioch, a major cultural center. Beyond his name, profession, and origin, no specific details of his life are known.</p>\n<p class=\"research-text\">He is known for a single surviving work titled <strong>On Accents</strong>. This treatise is a systematic guide to the rules of accentuation in ancient Greek. According to modern scholars, the text we have is likely a condensed summary, or epitome, of a much larger, lost work by the famous grammarian Herodian. The attribution and exact relationship to Herodian&#x27;s original writings are matters of scholarly reconstruction.</p>\n<p class=\"research-text\">Arcadius&#x27;s work is significant because it preserves crucial grammatical knowledge. It served as a vital link, transmitting the technical rules of Greek accentuation from the ancient world to later Byzantine scholars and into the modern era. His epitome is therefore an important source for understanding ancient Greek linguistic theory and the history of grammatical scholarship.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "qke-aa",
+      "title": {
+        "english": "On Accents",
+        "ancient_greek": "Περὶ Προσῳδιῶν"
+      },
+      "url_slug": "arcadius-of-antioch-accents-qke-aa",
+      "passages": 227,
+      "links": {
+        "html": "https://eulogikon.org/grc/arcadius-of-antioch/accents",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcadius-of-antioch-accents-qke-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcadius-of-antioch-accents-qke-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcadius-of-antioch-accents-qke-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcadius-of-antioch-accents-qke-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcadius-of-antioch/accents.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/arcadius-of-antioch",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arcadius-of-antioch-qke.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arcadius-of-antioch-qke.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arcadius-of-antioch-qke.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arcadius-of-antioch-qke.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

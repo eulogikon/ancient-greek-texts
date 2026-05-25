@@ -1,0 +1,398 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "iru-ak",
+  "eul_aid": "iru",
+  "author_slug": "aratus-lives",
+  "work_slug": "life-ak",
+  "url_slug": "aratus-lives-life-ak-iru-ak",
+  "author": {
+    "english": "Aratus Lives ",
+    "ancient_greek": "Ἀράτου Βίοι"
+  },
+  "title": {
+    "english": "Life of Aratus",
+    "ancient_greek": "Βίος Ἀράτου"
+  },
+  "seo": {
+    "browser_title": "The Life of Aratus by Aratus of Soli on Eulogikon Archive",
+    "meta_title": "Classical Life of Aratus by Aratus of Soli in Ancient Greek",
+    "meta_description": "Life of Aratus is an ancient Greek biography of the poet Aratus, author of the Phaenomena. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Βίος",
+      "english": "Biography",
+      "href": "/domains/biography"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Life of Aratus is a concise ancient Greek biography of the Hellenistic poet Aratus, composed in prose and surviving in two brief passages. Though transmitted within the manuscript tradition of Plutarch&#x27;s Moralia, it is considered spurious by modern scholarship and is thus attributed to an anonymous author, often designated Pseudo-Plutarch. The work was likely compiled during the Roman Imperial period, between the 1st and 2nd centuries CE. It outlines the poet&#x27;s origins, noting his descent from a distinguished family in Soli, Cilicia, and places him chronologically in the court of King Antigonus II Gonatas, who commissioned his famous astronomical poem, the Phaenomena. The biography situates Aratus within a network of contemporary intellectuals, including the poets Alexander of Aetolia and Philetas, the philosopher Dionysius, and the mathematician Nicander, with whom a tradition claims he exchanged works. It also lists his known writings, emphasizing the Phaenomena and noting disputed authorship for one text. Functioning as a compact scholarly reference for an educated, Greek-speaking audience, the life draws upon earlier Hellenistic sources that blend historical detail with anecdote. Despite its brevity, it has served as a foundational source for later understandings of the poet&#x27;s life and the genesis of his most significant work.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "11.(t)",
+      "text": "Γένος Ἀράτου τοῦ ποιητοῦ Ἄρατος ὁ ποιητὴς γένει μὲν ἦν ἀπὸ Σόλων τῆς Κιλικίας, πατρὸς δὲ Ἀθηνοδώρου, μητρὸς δὲ Λητοφίλας. γένους δὲ ἐγένετο πατρὸς ἐπιφανοῦς καὶ ἐν πολλοῖς εὐδοκίμου καὶ ἐν πολέμῳ ἀριστεύσαντος· ἠλευθέρωσε γοῦν τὴν πατρίδα πολλάκις. [ἐν] τοῖς χρόνοις δὲ ἐγένετο κατὰ Φιλάδελφον τὸν βασιλέα, συνήκμαζε δὲ Ἀλεξάνδρῳ τῷ Αἰτωλῷ καὶ Φιλητᾷ καὶ Διονυσίῳ τῷ φιλοσόφῳ 〈τῷ〉 εἰς ἡδονὰς μεταθεμένῳ, οὗ καθηγήσατο τὰ μαθηματικὰ ὁ Ἄρατος. καὶ ἔστιν αὐτοῦ ἕτερα συντάγματα κατὰ λεπτόν, ἄξια δὲ μνήμης τέσσαρα, ἓν μὲν Ἰατρικῶν δυνάμεων, δεύτερον Κανόνος κατατομή, τρίτον τὰ Φαινόμενα, τέταρτον Περὶ ἀνατολῆς, ὅ φασί τινες μὴ εἶναι Ἀράτου, ἀλλὰ Ἡγησιάνακτος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13",
+      "text": "ἐνίοις δὲ ἀρέσκει Ἄρατον γεγονέναι ἰατρὸν τῇ ἐπιστή μῃ, φίλον δὲ γνήσιον γεγονότα Νικάνδρου τοῦ μαθηματικοῦ γράψαι τε τὰ Θηριακὰ καὶ δοῦναι Νικάνδρῳ καὶ λαβεῖν παρ’ αὐτοῦ τὰ Φαινόμενα καὶ ἴδια ὑπογράψαι. ἔστι δὲ τριχῶς ἡ τῶν Φαινομένων αὐτοῦ πραγματεία, καταστέρωσις καὶ περὶ συνανατελλόντων καὶ συνδυνόντων καὶ προγνώσεις διὰ σημείων. ζηλωτὴς δὲ ἐγένετο τοῦ ὁμηρικοῦ χαρακτῆρος κατὰ τὴν τῶν ἐπῶν σύνθεσιν. ἔνιοι δὲ αὐτὸν λέγουσιν Ἡσιόδου μᾶλλον ζηλωτὴν γεγονέναι. καθάπερ γὰρ ὁ Ἡσίοδος τῶν Ἔργων καὶ Ἡμερῶν ἀπαρχόμενος τῶν ὕμνων ἀπὸ Διὸς ἤρξατο λέγων „Μοῦσαι Πιερίηθεν ἀοιδῇσι κλείουσαι, /δεῦτε Δί’ ἐννέπετε“, οὕτω καὶ ὁ Ἄρατος τῆς ποιήσεως ἀρχόμενος ἔφη „ἐκ Διὸς ἀρχώμεσθα“· τά τε περὶ τοῦ χρυσοῦ γένους ὁμοίως τῷ Ἡσιόδῳ, 〈καὶ〉 κατὰ πολλοὺς ἄλλους μύθους. Βοηθὸς δὲ ὁ Σιδώνιος ἐν τῷ πρώτῳ περὶ αὐτοῦ φησιν οὐχ Ἡσιόδου αὐτὸν ζηλωτήν, ἀλλ’ Ὁμήρου γεγονέναι· τὸ γὰρ πλάσμα τῆς ποιήσεως μεῖζον ἢ κατὰ Ἡσίοδον. πολλοὶ μὲν γὰρ καὶ ἄλλοι Φαινό μενα ἔγραψαν, καὶ Κλεόπατρος καὶ Σμίνθης καὶ Ἀλέ ξανδρος ὁ Αἰτωλὸς καὶ Ἀλέξανδρος ὁ Ἐφέσιος καὶ Ἀλέξανδρος ὁ Λυκαΐτης καὶ Ἀνακρέων καὶ Ἀρτεμίδωρος καὶ Ἵππαρχος καὶ ἄλλοι πολλοί, ἀλλ’ ὅμως λαμπροτέρα γέγονε πάντων ἡ Ἀράτου δύναμις ἐπισκο τήσασα τοῖς ἄλλοις. ἐχρήσατο γὰρ τῇ τῶν φυσικῶν φιλοσόφων δυνάμει. εἶναι γάρ φησι τὸ διοικοῦν τὸν κόσμον ἀκριβῶς περί τε τοὺς ἐνιαυτοὺς καὶ μῆνας καὶ ἡμέρας καὶ ὥρας καὶ ἀνατολάς τε καὶ δύσεις ἡλίου καὶ σελήνης καὶ τῶν πέντε ἀστέρων. λέγει δὲ καὶ τὴν γῆν σφαιροειδοῦς σημείου τάξιν ἐπέχειν πρὸς τὸν ὅλον κόσμον, ἀκινητόν τε ὑπάρχειν, οὖσαν σταδίων μυριάδων εἴκοσι πέντε καὶ δισχιλίων. λέγουσι δέ τινες καὶ περὶ τοῦ προοιμίου ὅτι τοῦτο τὸ νῦν ὂν οὐκ ἔστιν αὐτοῦ, ἀλλ’ ἐπιγεννητόν, τὸ δὲ ἀληθινὸν αὐτοῦ φασιν εἶναι τοῦτο· „Ἀγκλείδη, ξείνων ἱερὸν θάλοσ“. καὶ περὶ μὲν τοῦ βίου καὶ τοῦ γένους καὶ τῆς παιδείας καὶ τῆς ἀρετῆς αὐτοῦ καὶ τῶν συνακμασάντων εἰρήκαμεν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "iru-ai",
+      "title": {
+        "english": "Astronomical Appendix",
+        "ancient_greek": "Ἀστρονομικά"
+      },
+      "url_slug": "aratus-lives-astronomical-appendix-iru-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/astronomical-appendix",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-astronomical-appendix-iru-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-astronomical-appendix-iru-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-astronomical-appendix-iru-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-astronomical-appendix-iru-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/astronomical-appendix.epub"
+      }
+    },
+    {
+      "eul_wid": "iru-af",
+      "title": {
+        "english": "Excerpt from Preface-Phenomena",
+        "ancient_greek": "Ἐκλογὴ ἐκ τῆς Προοιμίου Περὶ Φαινομένων"
+      },
+      "url_slug": "aratus-lives-preface-phenomena-iru-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/preface-phenomena",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-preface-phenomena-iru-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-preface-phenomena-iru-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-preface-phenomena-iru-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-preface-phenomena-iru-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/preface-phenomena.epub"
+      }
+    },
+    {
+      "eul_wid": "iru-ae",
+      "title": {
+        "english": "Introduction from Other Commentaries",
+        "ancient_greek": "Ἐξ ἑτέρων σχολίων εἰσαγωγή"
+      },
+      "url_slug": "aratus-lives-commentaries-introduction-iru-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/commentaries-introduction",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-commentaries-introduction-iru-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-commentaries-introduction-iru-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-commentaries-introduction-iru-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-commentaries-introduction-iru-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/commentaries-introduction.epub"
+      }
+    },
+    {
+      "eul_wid": "iru-ah",
+      "title": {
+        "english": "Introduction to Aratus",
+        "ancient_greek": "Εἰσαγωγὴ εἰς τὸν Ἄρατον"
+      },
+      "url_slug": "aratus-lives-introduction-ah-iru-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/introduction-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ah-iru-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ah-iru-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ah-iru-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ah-iru-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/introduction-ah.epub"
+      }
+    },
+    {
+      "eul_wid": "iru-ad",
+      "title": {
+        "english": "Introduction to Aratus,-Interpretation",
+        "ancient_greek": "Περὶ ἐξηγήσεως"
+      },
+      "url_slug": "aratus-lives-introduction-ad-iru-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/introduction-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ad-iru-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ad-iru-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ad-iru-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ad-iru-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/introduction-ad.epub"
+      }
+    },
+    {
+      "eul_wid": "iru-aa",
+      "title": {
+        "english": "Letter to Julian",
+        "ancient_greek": "Πρὸς Ἰουλιανὸν ἐπιστολή"
+      },
+      "url_slug": "aratus-lives-letter-to-julian-iru-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/letter-to-julian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-letter-to-julian-iru-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-letter-to-julian-iru-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-letter-to-julian-iru-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-letter-to-julian-iru-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/letter-to-julian.epub"
+      }
+    },
+    {
+      "eul_wid": "iru-aj",
+      "title": {
+        "english": "Life of Aratus",
+        "ancient_greek": "Βίος Ἀράτου"
+      },
+      "url_slug": "aratus-lives-life-aj-iru-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/life-aj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-aj-iru-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-aj-iru-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-aj-iru-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-aj-iru-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/life-aj.epub"
+      }
+    },
+    {
+      "eul_wid": "iru-ab",
+      "title": {
+        "english": "Life of Aratus",
+        "ancient_greek": "Βίος Ἀράτου"
+      },
+      "url_slug": "aratus-lives-life-ab-iru-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/life-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-ab-iru-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-ab-iru-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-ab-iru-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-ab-iru-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/life-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "iru-al",
+      "title": {
+        "english": "Life of Aratus",
+        "ancient_greek": "Βίος Ἄρατου"
+      },
+      "url_slug": "aratus-lives-life-al-iru-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/life-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-al-iru-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-al-iru-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-al-iru-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-al-iru-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/life-al.epub"
+      }
+    },
+    {
+      "eul_wid": "iru-am",
+      "title": {
+        "english": "On the Zodiac",
+        "ancient_greek": "Περὶ τοῦ Ζῳδιακοῦ"
+      },
+      "url_slug": "aratus-lives-zodiac-iru-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/zodiac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-zodiac-iru-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-zodiac-iru-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-zodiac-iru-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-zodiac-iru-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/zodiac.epub"
+      }
+    },
+    {
+      "eul_wid": "iru-ac",
+      "title": {
+        "english": "Phenomena",
+        "ancient_greek": "Ἀποσπάσματα ἐκ τῶν Φαινομένων τοῦ Ἄρατου"
+      },
+      "url_slug": "aratus-lives-phenomena-iru-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/phenomena",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-phenomena-iru-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-phenomena-iru-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-phenomena-iru-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-phenomena-iru-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/phenomena.epub"
+      }
+    },
+    {
+      "eul_wid": "iru-ag",
+      "title": {
+        "english": "Prooemium to Aratus' Phenomena",
+        "ancient_greek": "Προοίμιον εἰς τὰ Φαινόμενα τοῦ Ἄρατου"
+      },
+      "url_slug": "aratus-lives-prooemium-phenomena-iru-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/prooemium-phenomena",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-prooemium-phenomena-iru-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-prooemium-phenomena-iru-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-prooemium-phenomena-iru-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-prooemium-phenomena-iru-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/prooemium-phenomena.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "kua-aa",
+      "title": {
+        "english": "Fragment of the Life of Hesiod",
+        "ancient_greek": "Βίος Ἡσιόδου Ἀπόσπασμα"
+      },
+      "url_slug": "life-of-hesiod-life-fragment-kua-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/life-of-hesiod/life-fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/life-of-hesiod-life-fragment-kua-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/life-of-hesiod-life-fragment-kua-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/life-of-hesiod-life-fragment-kua-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/life-of-hesiod-life-fragment-kua-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/life-of-hesiod/life-fragment.epub"
+      }
+    },
+    {
+      "eul_wid": "jho-ab",
+      "title": {
+        "english": "Life of Herodotus",
+        "ancient_greek": "Βίος Ἡροδότου"
+      },
+      "url_slug": "homer-life-anonymous-herodotus-life-jho-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer-life-anonymous/herodotus-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-herodotus-life-jho-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-herodotus-life-jho-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-herodotus-life-jho-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-herodotus-life-jho-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/herodotus-life.epub"
+      }
+    },
+    {
+      "eul_wid": "qvi-ad",
+      "title": {
+        "english": "Life of Oppian (Version B)",
+        "ancient_greek": "Βίτα Ὀππιανοῦ (β)"
+      },
+      "url_slug": "oppian-lives-life-ad-qvi-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/oppian-lives/life-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-lives-life-ad-qvi-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-lives-life-ad-qvi-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-lives-life-ad-qvi-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-lives-life-ad-qvi-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-lives/life-ad.epub"
+      }
+    },
+    {
+      "eul_wid": "eom-aa",
+      "title": {
+        "english": "Life of Sophocles",
+        "ancient_greek": "Βίος Σοφοκλέους"
+      },
+      "url_slug": "sophocles-life-life-eom-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sophocles-life/life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-life-life-eom-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-life-life-eom-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-life-life-eom-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-life-life-eom-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-life/life.epub"
+      }
+    },
+    {
+      "eul_wid": "vmc-aa",
+      "title": {
+        "english": "Life of Thucydides",
+        "ancient_greek": "Βίος Θουκυδίδου"
+      },
+      "url_slug": "marcellinus-the-biographer-life-of-thucydides-vmc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/marcellinus-the-biographer/life-of-thucydides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellinus-the-biographer-life-of-thucydides-vmc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellinus-the-biographer-life-of-thucydides-vmc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellinus-the-biographer-life-of-thucydides-vmc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellinus-the-biographer-life-of-thucydides-vmc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellinus-the-biographer/life-of-thucydides.epub"
+      }
+    },
+    {
+      "eul_wid": "rjo-aac",
+      "title": {
+        "english": "Lives and Opinions: Book III (Plato)",
+        "ancient_greek": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Γʹ"
+      },
+      "url_slug": "diogenes-of-laertia-lives-plato-rjo-aac",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-laertia/lives-plato",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-plato-rjo-aac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-plato-rjo-aac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-plato-rjo-aac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-plato-rjo-aac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-plato.epub"
+      }
+    },
+    {
+      "eul_wid": "rjo-aaj",
+      "title": {
+        "english": "Lives and Opinions: Book X (Epicurus)",
+        "ancient_greek": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Ιʹ"
+      },
+      "url_slug": "diogenes-of-laertia-lives-epicurus-rjo-aaj",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-laertia/lives-epicurus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-epicurus-rjo-aaj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-epicurus-rjo-aaj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-epicurus-rjo-aaj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-epicurus-rjo-aaj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-epicurus.epub"
+      }
+    },
+    {
+      "eul_wid": "jho-aj",
+      "title": {
+        "english": "On Homer 1",
+        "ancient_greek": "Περὶ Ὁμήρου Α'"
+      },
+      "url_slug": "homer-life-anonymous-on-homer-1-jho-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer-life-anonymous/on-homer-1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-on-homer-1-jho-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-on-homer-1-jho-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-on-homer-1-jho-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-on-homer-1-jho-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/on-homer-1.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aratus-lives/life-ak",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-ak-iru-ak.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-ak-iru-ak.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-ak-iru-ak.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-ak-iru-ak.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/life-ak.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

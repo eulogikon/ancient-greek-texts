@@ -1,0 +1,385 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "nys-ac",
+  "eul_aid": "nys",
+  "author_slug": "pseudo-dioscorides",
+  "work_slug": "stones",
+  "url_slug": "pseudo-dioscorides-stones-nys-ac",
+  "author": {
+    "english": "Pseudo-Dioscorides",
+    "ancient_greek": "Ψευδο-Διοσκουρίδης"
+  },
+  "title": {
+    "english": "On Stones",
+    "ancient_greek": "Περὶ λίθων"
+  },
+  "seo": {
+    "browser_title": "Ancient On Stones by Pseudo-Dioscorides on Eulogikon",
+    "meta_title": "Classical On Stones by Pseudo-Dioscorides in Ancient Greek",
+    "meta_description": "A treatise on properties medicinal uses of stones minerals. Attributed to Pseudo-Dioscorides in medical tradition. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On Stones</strong> is an ancient Greek lapidary treatise detailing the medicinal and magical properties of various minerals and gemstones. Though traditionally ascribed to the first-century physician Dioscorides, it is now recognized as the work of an anonymous author, conventionally termed Pseudo-Dioscorides. Its date of composition remains uncertain but is generally placed between the first and fourth centuries CE. The work is structured as a series of twenty-three concise entries, each devoted to a specific stone. Descriptions typically note the stone&#x27;s appearance and often legendary geographical origins, but the principal focus is its purported practical and supernatural virtues. These range from therapeutic applications, such as treating hemorrhages, eye ailments, or snakebites, to amuletic functions like averting evil, securing victory, or preventing miscarriage. The text appears designed for a practical readership of physicians, herbalists, or laypersons interested in the occult powers of natural objects.</p>\n<p class=\"research-text\">The treatise exemplifies a fusion of rudimentary empirical observation with ancient folklore, where a stone&#x27;s alleged efficacy is frequently derived from sympathetic magic based on its color or name. In contrast to the more systematic and empirical approach of the genuine Dioscorides, <strong>On Stones</strong> represents a credulous strand of ancient natural philosophy. Its false attribution to a major medical authority was likely a deliberate strategy to enhance its credibility and ensure wider dissemination. The complete text survives as part of the larger pseudo-Dioscoridean corpus transmitted through medieval Greek manuscripts. This association guaranteed its continued copying, translation, and citation throughout the Middle Ages and the Renaissance, where it exerted a lasting influence on later lapidary traditions and the enduring role of magic in medicinal practice.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t",
+      "text": "ΠΕΡΙ ΛΙΘΩΝ Λιθάργυρο ς· Ἀγαρηνοὶ μάρτι κ· ἡ μὲν ἐκ μολιβδίτιδος ἄμμου γεννᾶται χωνευομένη ἄχρι τελείας ἐκπυρώσεως, ἡ δὲ ἐξ ἀργύρου, εἴτε ἐκ μολίβδου· γίνεται δὲ ἐν Ἀττικῇ καὶ Ἰνδίᾳ καὶ Σικελίᾳ καὶ Ἱσπανίᾳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Λίθος ἀγήραντο ς. Λίθος ἀετίτη ς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Λίθος αἱματίτης Ῥωμαῖοι αἱματίστα· ἀπὸ τῆς κατὰ τὴν χρόαν ὁμοιότητος· παραξυόμενος γὰρ ἀκόναις αἱματώδη χυλὸν ἀνίησι. Τοσοῦτον μετέχων τῆς ψύξεως ὅσον καὶ τῆς στύψεως, οὗτος τριβόμενος καὶ πινόμενος αἱμορραγίαν παύει· καὶ αἱμάτων πτύσεσιν ἁρμόττει, καὶ πᾶσιν ἕλκεσι καὶ δυσουρίαις· ξηρὸς δὲ λειωθεὶς καταστέλλει τὰ ὑπερσαρκοῦντα· σὺν δὲ γάλακτι γυναικείῳ ὑφαίμους ὀφθαλμοὺς θεραπεύει. Λίθος ἄσσιος ὁ ἐν Ἄσσῳ γενόμενος· κισσηρώδης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "Λίθος ἀρμένιο ς· Ἀγαρηνοὶ λαζουέρ δ. Λίθος γαιώδη ς· Ἄφροι γάγζαρ ἔλα ρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "Οὗτος στύφει καὶ ξηραίνει καὶ ἀποκαθαίρει τὰ ἐπισκοτοῦντα ταῖς κόραις· χρισθεὶς δὲ μεθ’ ὕδατος μασθῶν καὶ ὀρχέων παύει φλεγμονάς. Λίθος γαγάτης ὁ ἐν Λυκίᾳ εὑρισκόμενος παρὰ τὸν Γάγην ποταμόν· ξηραίνει δὲ ἱκανῶς καὶ μαλάσσει καὶ διαφορεῖ· τὸ ἀφέψημα δὲ αὐτοῦ πινόμενον ἕλμινθας ἐκτινάσσει, καὶ περιαπτόμενος κεφαλαλγίας χρονίας παύει· καὶ ὠκυτοκίας ἐργάζεται τῇ χειρὶ κρατούμενος· προσαγόμενος δὲ πυρὶ καὶ ἐν οἴνῳ σβεννύμενος ὠφελεῖ καρδιακοὺς τοῦ οἴνου ποθέντος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "Λίθος γαλακτίτης παραπλησίαν τῷ μοροξῷ χρόαν ἔχων, ὑπόχλωρον καὶ γαλακτώδη χυλὸν ἀνίησιν· οὗτος πολυγάλους τὰς γυναῖκας ποιεῖ λουσαμένας καὶ μεθ’ ὕδατος ἢ οἴνου πιούσας· μίγνυται δὲ καὶ ὀφθαλμικαῖς δυνάμεσι. Φασὶ δὲ αὐτὸν περιαπτόμενον τραχήλῳ παιδίων ὀδοντιώντων ἔκφυσιν παρασκευάζειν. Λίθος ἠλέκτρου ἢ λυγγούριον ἢ σούχινο ν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "Πινόμενος οὗτος ἰᾶται δυσουρίαν καὶ στομαχικοὺς ὠφελεῖ καὶ ὠχριάσεις· καὶ τὸ ἤλεκτρον δὲ σὺν μαστίχῃ πινόμενον ἀλγήματα στομάχου ἰᾶται. Λίθος θρᾳκίας γίνεται μὲν ἐν Σινθίᾳ ἐν ποταμῷ τῷ λεγομένῳ Πόντῳ· δύναμιν δὲ ἔχει τὴν αὐτὴν τῷ γαγάτῃ· ἱστόρηται δὲ ἐκθερμαίνεσθαι ὑφ’ ὕδατος, σβέννυσθαι ὑπὸ ἐλαίου καθάπερ καὶ τὴν ἀσφάλτην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12",
+      "text": "Λίθος ἴασπι ς· Ἄφροι ζομουρά δ. Ὁ μέν τίς ἐστι σμαραγδίζων, ὁ δὲ κρυσταλλίζων καὶ φλέγματι ἐοικώς· ὁ δὲ ἀερίζων· ὁ δὲ καπνίζων· ὁ δὲ λευκίζων καὶ ἀποστίλβων· ὁ δὲ τερμινθίζων. Δοκοῦσι δὲ πάντες εἶναι φυλακτήρια περιαπτόμενοι καὶ ὠκυτοκίαν ἐργαζόμενοι καὶ ἀλγήματα στομάχου ἰώμενοι, καὶ ὀδύνης ... Λίθος ἱασπαχάτης ἐκ τῆς σμαραγδιζούσης ἐστὶν ἰάσπιδος καὶ τοῦ ἀχάτου· δύναμιν δὲ ἔχει δίψους παυστικὴν· καὶ ὑδρωπικοῖς βοηθεῖ, καὶ ἡπατικοῖς καὶ περιπνευμονικοῖς πινόμενος· καὶ τὸ σῶμα εὐανθὲς ποιεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14",
+      "text": "Λίθος ἱερακίτης καὶ ἰνδικὸς περιαπτόμενος μηρῷ δεξιῷ τὰς αἱμορροΐδας ἀναξηραίνουσιν, ὡς καὶ ἡμεῖς ἐπειράθημεν· ὁ δὲ Διογένης ἐν τῷ περὶ λίθων οὕτω φησίν· Ἱερακίτης λίθος ὑπόχλωρος μέν ἐστι καὶ πρὸς τὸ μέλαν ἐπικλίνει· δύναμιν δὲ ἔχει ἀναξηραντικὴν αἱμορροΐδων. Λίθος ἰνδικὸς τὴν μὲν χρόαν ἐστὶν ὑπόπυρρος· τριβόμενος δὲ πορφυροῦν ἀνίησι χυλόν· καὶ μετ’ ἀκράτου οἴνου πινόμενος αἱμοπτυϊκοὺς ὠφελεῖ· καὶ αἱμορροΐδας ἀναξηραίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16",
+      "text": "Λίθος κίσσηρις ῥυπτικῆς ἐστι δυνάμεως, ὡς καὶ ἡ σμύρις. Λαμπρύνει τοὺς ὄδοντας. Λίθος ἴασπις καλούμενος ὁ ἐκ τῆς Αἰθιοπίας κομιζόμενος ὑπόχλωρός ἐστι· καὶ γαλακτώδη χυλὸν ἀνίησιν· καὶ διὰ τοῦτο ἁρμόζει εἰς τὸ καθᾶραι καὶ ῥύψαι τὰ χωρὶς φλεγμονῆς ἐπισκοτοῦντα ταῖς κόραις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18",
+      "text": "Λιθόκολλα μίγμα οὖσα μαρμάρου ἢ λίθου λιπαροῦ καὶ ταυροκόλλης· δύναται δὲ περὶ πυρὶ τρίχας κολλᾶν. Λίθος μελιτίτης ἡδύτητος καὶ θερμότητος μετείληφε· καὶ διὰ τὴν γεῦσιν οὕτως ὠνόμασται· ἐνεργεῖ δὲ ὁμοίως τῷ γαλακτίῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20",
+      "text": "Λίθος μοροξό ς, οἱ δὲ λευκογραφίδα καλοῦσι κατ’ Αἴγυπτον γινομένην· τούτῳ χρῶνται λαμπρύνοντες τὰς ὀθόνας. Λίθος μαγνήτης εἴτε ἡρακλεία ς· Ἄφροι χαζαρμέ ς· παραπλησίαν ἔχει δύναμιν τῷ αἱματίτῃ, ξηραντικὴν καὶ ῥυπτικὴν καὶ ἑλκτικήν, ψυχράν, καὶ ξηρὰν τῆς βʹ τάξεως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "21",
+      "text": "Φασὶ δὲ χειραγροὺς ἢ ποδαγροὺς κρατοῦντας αὐτὴν ἀνοδύνως διάγειν. Βοηθεῖ δὲ καὶ σπασμοῖς. Ἄριστος δὲ ὁ τὸν σίδηρον εὐχερῶς ἕλκων, καὶ τὴν χρόαν κυανίζων· πυκνὸς δὲ καὶ οὐκ ἄγαν βαρύς· εὐεργεῖ δὲ εἰς ὅσα καὶ ἡ σκωρία τοῦ σιδήρου. Λίθος νάξιος καὶ τὸ τῆς ναξίας ἀκόνης ἀπότριμμα ψυκτικῆς ἐστι δυνάμεως· ὅθεν καὶ μετ’ ὄξους ποθὲν σπλῆνα ἀναιρεῖ· καὶ ἐπιληψίας ὠφελεῖ καὶ ποδαγρικοῖς μετὰ ῥοδίνου προσάγεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "23",
+      "text": "Λίθοι μέλανε ς, πλακώδεις, ἀσθενῆ φλόγα γεννῶντες, εἰ κατὰ πυρὸς ἐπιτεθεῖεν· οἱ ἐν τῇ Κοίλῃ Συρίᾳ πλησίον τῆς Ἰεριχῶ ἐν λόφῳ γινόμενοι, ἔνθα καὶ ἡ ἄσφαλτος γίνεται, ὅθεν καὶ τὴν ὀσμὴν τοιαύτην κέκτηται· ἐχρησάμην δὲ αὐτοῖς εἰς ἐμφύματα χρόνια ξηραντικοῖς καὶ κολλητικοῖς οὖσι. Λίθος ὀφίτης ὁ μέν τίς ἐστι στιβαρὸς καὶ πιμελώδης, σποδοειδής, ὁ δὲ γραμμὰς ἔχων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "24",
+      "text": "Ἱστόρηται οὗτος λήθαργον καὶ κεφαλαλγίας ὠφελεῖν· καυθεὶς δὲ καὶ ῥυπτικῆς καὶ θρυπτικῆς γίγνεται δυνάμεως· πινόμενος δὲ μετ’ οἴνου λευκοῦ καὶ λέπτου τοὺς ἐν κύστει λίθους θρύπτει. Λίθος ὀστρακίτης τὸ 〈ἐκ〉 τῶν κεραμίδων ῥυπτικῆς ἐστι δυνάμεως· καὶ μᾶλλον ὁ ἐκ τῶν κλιβάνων· σαρκώδης δέ ἐστι καὶ δύσχρηστος ὁμοίως ὀστράκῳ· ᾧ χρῶνται ἀντὶ κισσήρεως αἱ γυναῖκες πρὸς ἄρσιν τριχῶν· ἐπέχει δὲ καὶ τὰ καταμήνια πινόμενον σὺν οἴνῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25",
+      "text": "Ἐὰν δέ τις ἐπὶ ἡμέρας δʹ μετὰ τὸν ἄφεδρον πίῃ, ἀσυλληψίαν ποιεῖ· σὺν μέλιτι δὲ ἐπιτιθέμενος, μασθοὺς φλεγμαίνοντας ὠφελεῖ καὶ νομὰς ἵστησι. Λίθος ὀστρακίτης ὁ ἐκ τῶν κλιβάνων ὀστράκων, ὃν ἡφαιστιάδα καὶ γάγον ὀνομάζουσι· κάλλιστόν ἐστιν ἐπουλωτικὸν φάρμακον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "27",
+      "text": "Λίθος πυρίτη ς, ἀφ’ οὗ ὁ χαλκὸς μεταλλεύετα ι· οὗτος δεύεται μέλιτι καὶ εἰς ἀνθρακίαν τίθεται· καὶ ῥιπίζεται συνεχῶς ἕως κιρρὸς γένηται· δύναμιν δὲ ἔχει θερμαντικήν, καθαρτικὴν καὶ συσταλτικὴν τῶν ὑπερσαρκούντων. Λίθος σχιστὸς εἴτε ἀμίαντον γεννᾶται μὲν ἐν τῇ καθ’ ἑσπέραν Ἰβηρίᾳ· ἄριστος δέ ἐστιν ὁ παρακροκίζων εὔθρυπτός τε καὶ εὔσχιστος· δύναμιν δὲ τὴν αὐτὴν τῷ αἱματίτῃ ἔχει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "29",
+      "text": "Λίθος σμύρις τουτέστι τῆς σμύρνης· Ἄφροι σεμβεδί ν· ἔστι δὲ λιπαρά, ἥτις ἀλφοὺς ἢ δακτύλους σμήχει, ῥυπτικῆς δυνάμεως οὖσα· χρησιμεύει δὲ καὶ εἰς σαπήματα οὔλων καὶ ὀδόντων σμῆξιν. Λίθοι οἱ ἐν σπόγγοις εὑρισκόμενοι θρυπτικῆς δυνάμεώς εἰσιν, οὐ μὲν οὕτως ἰσχυρᾶς ὥστε τοὺς ἐν κύστει λίθους θρύπτειν, τοὺς δὲ ἐν νεφροῖς οἴνῳ ποθέντες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "31",
+      "text": "Λίθος συριγγίτης ἐστὶ λεπτός, συριγγοειδής, διατετρωμένος, περὶ θάλασσαν εὑρισκόμενος καὶ ἐν πέτραις κεκολλημένος· ἀπαρτώμενος τοῦ πάσχοντος ἄκρως ἀναξηραίνει, κατορθοῖ τὰς σύριγγας. Τοῦτον οἱ κούρσορες εἴσω βουβώνων φοροῦσι. Λίθος σεληνίτη ς, ὃν ἀφροσέλινον καλοῦσι, διὰ τὸ εὑρίσκεσθαι αὐτὸν ἐν τῇ σελήνῃ νυκτός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "32",
+      "text": "Οὗτος γεννᾶται ἐν Ἀραβίᾳ· λευκός, διαυγής, κοῦφος. Τούτου τὸ ξέσμα εἰς πότον διδόασι ἐπιληπτικοῖς· φυλακτηρίῳ δὲ περιάμματι αὐτῷ αἱ γυναῖκες χρῶνται· δοκεῖ δὲ δένδρεσι προστεθεὶς καρποφορίας ἐμποιεῖν. Λίθος σάπφειρος μετὰ γάλακτος ποθεὶς λεῖος ἰᾶται τὰς ἐντὸς ἑλκώσεις πάσας, καὶ 〈τὰσ〉 ἔξω, καὶ ἱδρῶτας παύει· καὶ λεῖος τὰς ἐν γλώσσῃ διακοπὰς παύει· ξηραντικῆς δέ ἐστι δυνάμεως· ὅθεν πινόμενος τοὺς ὑπὸ σκορπίων πληγέντας ὠφελεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "34",
+      "text": "Λίθος σμάραγδος ὀπτηθεῖσα καὶ λεία μέλιτι ἀττικῷ μιγεῖσα ἀμβλυωπίας ἰᾶται, καὶ περιαπτομένη αἷμα ἐπέχει, ὁπόθεν ἂν τύχοι φερόμενον. Λίθος συριακό ς, ὅν τινες κόλιθον καλοῦσιν· ἔστιν ἰσχυρὸς τὴν δύναμιν, ἐν τῇ Συρίᾳ τῆς Παλαιστίνης γινόμενος· λευκὸς μὲν τὴν χρόαν, εὔρυθμος δὲ τὸ σχῆμα, γραμμὰς ἔχων ὡς ἀπὸ τόρνου γεγονυίας· ὀνομάζεται δὲ ἰουδαικῶς καὶ τηκόλιθο ς· ἔστι δὲ τῶν ἐν νεφροῖς λίθων δραστήριος δι’ ὕδατος θερμοῦ ποθείς· μετὰ δὲ μυρσίνου ἐλαίου ποδαγρικοῖς ἐπιχριόμενος βοηθεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "35",
+      "text": "Ὁ δὲ Νεχεψώς φησι· Τρίψας τὸν τηκόλιθον μεθ’ ὕδατος καὶ ποιήσας γλοίου λεπτοῦ πάχος, καὶ ἀποξυρίσας τὰς τρίχας, χρίε κύστιν καὶ αἰδοῖα, καὶ τήξεις τὸν ἐν κύστει λίθον. Λίθος ὕαλος λεῖος πινόμενος μετ’ οἴνου λευκοῦ καὶ λεπτοῦ τοὺς ἐν κύστει λίθους θρύπτει ἱκανῶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "37",
+      "text": "Λίθος φρύγιος ὁ ἐν Φρυγίᾳ, ᾧ οἱ βασιλεῖς χρῶνται· γεννᾶται δὲ ἐν Καππαδοκίᾳ· ἄριστος δέ ἐστιν ὁ ὠχρὸς καὶ μέσος καὶ βαρύς· ἔστιν δὲ δυνάμεως ξηραντικῆς καὶ στυπτικῆς. Τέλος.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "nys-aa",
+      "title": {
+        "english": "On Animals That Emit Venom, Including the Rabid Dog",
+        "ancient_greek": "Περὶ τῶν ζῴων τῶν δηλητηριωδῶν"
+      },
+      "url_slug": "pseudo-dioscorides-venomous-animals-rabid-dog-nys-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-dioscorides/venomous-animals-rabid-dog",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides-venomous-animals-rabid-dog-nys-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides-venomous-animals-rabid-dog-nys-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides-venomous-animals-rabid-dog-nys-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides-venomous-animals-rabid-dog-nys-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides/venomous-animals-rabid-dog.epub"
+      }
+    },
+    {
+      "eul_wid": "nys-ab",
+      "title": {
+        "english": "On Poisons and Their Precaution and Treatment",
+        "ancient_greek": "Περὶ δηλητηρίων καὶ τῆς προφυλάξεως καὶ"
+      },
+      "url_slug": "pseudo-dioscorides-poisons-treatment-nys-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-dioscorides/poisons-treatment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides-poisons-treatment-nys-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides-poisons-treatment-nys-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides-poisons-treatment-nys-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides-poisons-treatment-nys-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides/poisons-treatment.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "qmm-aw",
+      "title": {
+        "english": "Commentaries-Hippocrates' Prognostic I",
+        "ancient_greek": "Ὑπομνήματα εἰς Ἱπποκράτους Προγνωστικὸν Α'"
+      },
+      "url_slug": "galen-of-pergamon-hippocrates-prognostic-qmm-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/hippocrates-prognostic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-hippocrates-prognostic-qmm-aw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-hippocrates-prognostic-qmm-aw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-hippocrates-prognostic-qmm-aw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-hippocrates-prognostic-qmm-aw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/hippocrates-prognostic.epub"
+      }
+    },
+    {
+      "eul_wid": "bww-bh",
+      "title": {
+        "english": "Metrical Oath",
+        "ancient_greek": "Ὅρκος Μετρικός"
+      },
+      "url_slug": "hippocrates-metrical-oath-bww-bh",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/metrical-oath",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-metrical-oath-bww-bh.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-metrical-oath-bww-bh.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-metrical-oath-bww-bh.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-metrical-oath-bww-bh.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/metrical-oath.epub"
+      }
+    },
+    {
+      "eul_wid": "bww-az",
+      "title": {
+        "english": "On Places in Man",
+        "ancient_greek": "Περὶ τόπων ἐν ἀνθρώπῳ"
+      },
+      "url_slug": "hippocrates-places-in-man-bww-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/places-in-man",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-places-in-man-bww-az.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-places-in-man-bww-az.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-places-in-man-bww-az.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-places-in-man-bww-az.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/places-in-man.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-dp",
+      "title": {
+        "english": "On Sexual Matters",
+        "ancient_greek": "Περὶ τῶν ἀφροδισίων"
+      },
+      "url_slug": "galen-of-pergamon-sexual-matters-qmm-dp",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/sexual-matters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-sexual-matters-qmm-dp.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-sexual-matters-qmm-dp.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-sexual-matters-qmm-dp.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-sexual-matters-qmm-dp.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/sexual-matters.epub"
+      }
+    },
+    {
+      "eul_wid": "tqu-aa",
+      "title": {
+        "english": "On Urines (Hippocratic-Galenic Compilation)",
+        "ancient_greek": "Περὶ Οὖρων ἐκ Ἱπποκράτους"
+      },
+      "url_slug": "anonymous-medical-writer-urine-aa-tqu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/urine-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-urine-aa-tqu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-urine-aa-tqu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-urine-aa-tqu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-urine-aa-tqu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/urine-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "bww-an",
+      "title": {
+        "english": "On the Nature of Women",
+        "ancient_greek": "Περὶ φύσεως γυναικείας"
+      },
+      "url_slug": "hippocrates-nature-women-bww-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/nature-women",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-nature-women-bww-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-nature-women-bww-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-nature-women-bww-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-nature-women-bww-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/nature-women.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-bd",
+      "title": {
+        "english": "On the Order of His Books to Eugenianus",
+        "ancient_greek": "Περὶ τῆς τάξεως τῶν βιβλίων πρὸς Εὐγενιανόν"
+      },
+      "url_slug": "galen-of-pergamon-order-books-eugenianus-qmm-bd",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/order-books-eugenianus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-order-books-eugenianus-qmm-bd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-order-books-eugenianus-qmm-bd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-order-books-eugenianus-qmm-bd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-order-books-eugenianus-qmm-bd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/order-books-eugenianus.epub"
+      }
+    },
+    {
+      "eul_wid": "qmm-cx",
+      "title": {
+        "english": "On the Times of Diseases",
+        "ancient_greek": "Περὶ τῶν χρόνων τῶν νόσων"
+      },
+      "url_slug": "galen-of-pergamon-diseases-times-qmm-cx",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/diseases-times",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diseases-times-qmm-cx.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diseases-times-qmm-cx.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diseases-times-qmm-cx.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-diseases-times-qmm-cx.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/diseases-times.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/pseudo-dioscorides/stones",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides-stones-nys-ac.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides-stones-nys-ac.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides-stones-nys-ac.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides-stones-nys-ac.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides/stones.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

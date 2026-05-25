@@ -1,0 +1,495 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "rye-be",
+  "eul_aid": "rye",
+  "author_slug": "themistius",
+  "work_slug": "whether-to-farm",
+  "url_slug": "themistius-whether-to-farm-rye-be",
+  "author": {
+    "english": "Themistius the Philosopher",
+    "ancient_greek": "Θεμίστιος ὁ Εὐφραδής"
+  },
+  "title": {
+    "english": "Thesis-Whether to Farm",
+    "ancient_greek": "Θέσις εἰ γεωργητέον"
+  },
+  "seo": {
+    "browser_title": "Ancient Thesis-Whether to Farm by Themistius on Eulogikon",
+    "meta_title": "Ancient Thesis-Whether to Farm by Themistius in Greek",
+    "meta_description": "Themistius's philosophical oration examining value virtue of agricultural life. A rhetorical exercise blending practical advice with ethical philosophy."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Eclectic",
+      "href": "/affiliations/eclectic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The oration <strong>Thesis-Whether to Farm</strong> by the fourth-century philosopher and statesman Themistius is a protreptic speech advocating for the agricultural life. Addressing a traditional philosophical thesis, it draws upon classical authorities such as Hesiod and Xenophon to elaborate on the moral and practical benefits of farming. The complete text, structured in fifteen passages, survives among Themistius’s extant works. Its argument centers on the ideal of self-sufficiency achieved through working the land, asserting the moral and physical superiority of agricultural labor over other livelihoods. The speech aligns farming with philosophical ideals of simplicity and virtue, employing classical literary and philosophical authority to support a contemporary ethical argument for an elite Roman audience. Preserved in Greek manuscripts, the standard modern edition appears in the critical volume by Schenkl, Downey, and Norman. The work exemplifies the continued practice of rhetorical exercises on traditional topics in late antique education. It illustrates the reception and adaptation of classical Greek philosophical themes, particularly from Socratic literature, within a fourth-century context, thereby contributing to the enduring transmission of Greek <strong>paideia</strong>.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t 1",
+      "text": "ΘΕΣΙΣ ΕΙ ΓΕΩΡΓΗΤΕΟΝ Ἡσίοδος ὁ Ἀσκραῖος, ὃς μετὰ τῆς δάφνης τὴν μουσικὴν παρὰ τῶν Μουσῶν αὐτῶν δέξασθαι λέγεται, τὴν ποίησιν διανείμας εἰς ἡρώων τε καὶ Μουσῶν ἐπαίνους καὶ τὴν γεωργίαν ἐν τούτοις ἔταξε, τὴν φύσιν τε ἐπαινῶν τοῦ πράγματος πᾶσαν καὶ μαθητὰς τῆς τέχνης ποιούμενος ἡμᾶς, καὶ τοὺς περὶ γεωργίας λόγους τοῖς περὶ ἀρετῆς καταμίξας, ὡς ταὐτὸν ὄν, γεωργίαν καὶ ἀρετὴν δι’ ἀλλήλων καὶ ἅμα μαθόντας εἰδέναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "348 c",
+      "text": "δεῖ δὲ ἤδη καὶ ἡμᾶς Ἡσιόδῳ καὶ Μούσαις ἀκολουθοῦντας ἐπιδεῖξαι διὰ πλειόνων ὡς ἄρα οὐ μάτην Ἡσίοδος σοφὸς ἐνομίσθη, ἀλλ’ εἰς τοσοῦτον εὐκλείας διὰ τοὺς εἰς γεωργίαν λόγους προῆλθεν, ὥστε καὶ Ὁμήρῳ περὶ σοφίας καὶ μουσικῆς ἐν ταφαῖς Ἀμφιδάμαντος εἰς ἀγῶνα ἐλθὼν παρὰ τῶν κριτῶν τὸν στέφανον καὶ τὴν νίκην ἔχειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "348 d",
+      "text": "ὁ μὲν γὰρ πολέμους καὶ μάχας καὶ τὸν συνασπισμὸν τοῖν Αἰάντοιν καὶ ἄλλα τοιαῦτα προσῇδεν, ὁ δὲ γῆς τε ὕμνησεν ἔργα καὶ ἡμέρας, ἐν αἷς τὰ ἔργα βελτίω γίνεται· καὶ διὰ ταῦτα πᾶσι τοῖς κριταῖς κρατεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "349 a",
+      "text": "κεκλήσθων δὲ ἐπίκουροι πρὸς τὸν λόγον οἵ τε ἔφοροι γεωργίας θεοὶ καὶ μούσης ἁπάσης εἰ δή τι κράτιστον, καὶ ὁ μουσηγέτης αὐτός, ἐπειδὴ καὶ τὰς ἐνιαυσίας [καὶ τὰς] ἀμοιβὰς οὐχ ὑπὲρ τούτου μόνον, ἀλλὰ καὶ ὑπὲρ πάντων ὧν ἐκ θεοῦ ἔχουσιν ἄνθρωποι παρὰ γεωργίας κομίζονται, σπονδὰς καὶ θυσίας καὶ δαῖτας, καὶ ὅσα φύουσιν ἐκ τῆς γῆς Ὧραι· εἰ δὲ καὶ Διόνυσον καλοῖμεν καὶ νύμφας καὶ Δήμητρος κόρην ὑέτιόν τε Δία καὶ Ποσειδῶνα φυτάλμιον, πλησιάζομεν ἤδη ταῖς τελεταῖς καὶ τὴν Προδίκου σοφίαν τοῖς λόγοις ἐγκαταμίξομεν, ὃς ἱερουργίαν πᾶσαν ἀνθρώπων καὶ μυστήρια καὶ πανηγύρεις καὶ τελετὰς τῶν γεωργίας καλῶν ἐξάπτει, νομίζων καὶ θεῶν εὔνοιαν ἐντεῦθεν εἰς ἀνθρώπους ἐλθεῖν καὶ πᾶσαν εὐσέβειαν ἐγγυώμενος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "349 b",
+      "text": "οὐ μὴν οὐδὲ Ὀρφέως τελετάς τε καὶ ὄργια γεωργίας ἐκτὸς συμβέβηκεν εἶναι, ἀλλὰ καὶ ὁ μῦθος τοῦτο αἰνίττεται, πάντα κηλεῖν τε καὶ θέλγειν τὸν Ὀρφέα λέγων, ὑπὸ τῶν καρπῶν τῶν ἡμέρων ὧν γεωργία παρέχει πᾶσαν ἡμερῶσαι φύσιν καὶ θηρίων δίαιταν, καὶ τὸ ἐν ταῖς ψυχαῖς θηριῶδες ἐκκόψαι καὶ ἡμερῶσαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "349 c",
+      "text": "καὶ τὰ θηρία γὰρ τῷ μέλει κηλεῖν ἐπιστεύθη θυσίας τε πάσας καὶ τελετὰς διὰ τῶν ἐκ γεωργίας καλῶν εἰς θεοὺς ἀνάγων. πάντας γοῦν ἀνθρώπους ἐπῆλθε τῇ δόξῃ καὶ πάντες ἐδέξαντο γεωργίαν. κἂν εἰς Αἰθίοπας ἔλθῃς ἐξ ἀνατολῶν διὰ μεσημβρίας εἰς δύσιν παρατεταμένους, κἂν Κελτοὺς τὸ ἀρκτῷον κατέχοντας μέρος, κἂν τοὺς διὰ μέσου, γεωργοὶ καὶ ἀρόται καὶ φυτοσκάφοι· καὶ οἷς πλείω τὰ τῆς γεωργίας, οὗτοι μᾶλλον εὐδαίμονες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "349 d",
+      "text": "εἰ δέ τις ἄξενος Σκυθῶν καὶ ἀνήμερος βίον ἀλήτην γεωργίας προὐτίμησεν, ἐν οἷς ἁμαρτάνει τὴν δίκην ἔχει, ἀνέστιος, ἀλήτης, δίαιταν θηρίων μετιών· ὡς κἀν τούτῳ γεωργίαν θαυμασιωτέραν εἶναι, τῷ χαλεπώτατα εἶναι καὶ ἀγριώτατα τῶν ἐθνῶν, εἴπερ ὄντως ἐστίν, ὅσα γηπονίαν ἠτίμασε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "350 a",
+      "text": "καίτοι καὶ τούτους, εἰ καὶ οὐ πονοῦσι περὶ τὴν γῆν, τοὺς γεωργίας καρποὺς ἑτέρωθεν εἰσκομιζομένους λέγουσι διαζῆν. καί τις ποιητὴς ὀδύρεται τούτους, ὅτι νήιδές εἰσιν ἀσταχύων καὶ ἀνήκοοι σπορᾶς τε καὶ θέρους, παραχρῆμα ἐπαγαγὼν ὅτι τοῖς θηρίοις ἐξ ἴσης ἄνευ γεωργίας καὶ οἴκων διαζῶσιν. Οἷς δὲ ὁ βίος ἥμερος καὶ ὑπόστεγος, οὗτοι τῆς περὶ τροφὴν ἀνάγκης ἀπαλλαγέντες πρὸς οὐρανόν τε ἀνέβλεψαν θεούς τε ἐτίμησαν καὶ δίκῃ καὶ νόμοις ἐχρήσαντο πρῶτοι, οὐκ ἔτ’ οὔσης ἀνάγκης τοῖς ἀναγκαίοις προσκαρτερεῖν, ἀλλ’ εὐπορίᾳ βίου σοφίαν ἀσκοῦντες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "350 b",
+      "text": "οἱ δὲ πόλεις τε ἐδείμαντο καὶ νεὼς ἤγειραν καὶ δίκῃ χρῶνται καὶ νόμους ἔθεντο· ὥστε καὶ τῶν νόμων αὐτῇ περίεστι μᾶλλον ἢ τοῖς ἄλλοις πᾶσιν. ἡδὶ καὶ εἶναι ἀνθρώπους καὶ γράψαι νόμιμα καὶ γραψαμένους κυρῶσαι παρέσχε. καὶ πλείω περὶ ταύτης οἱ νομοθέται σπουδὴν ἢ περὶ τῶν ἄλλων πεποίηνται. καὶ οἷς εἰρήνη δι’ ἐπιθυμίας καὶ οἷς πόλεμος ἀναγκαῖον, οἱ μὲν ἀπωθοῦνται τὸν πόλεμον διὰ τὸν νόμον, οἱ δ’ ἐπὶ τῷδε τὸν πόλεμον συνέταξαν, ἵνα μηδεὶς φθείρῃ τὰ γηπόνων ἔργα, οἱ δὲ τὴν εἰρήνην ἐφύλαξαν, ὅπως ἐν ἀδείᾳ φυτοσκάφος καὶ ἀρότης εἴη, καὶ ταῖς ὥραις ἐξείη τὰ τούτων ἐκτρέφειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "350 c",
+      "text": "καὶ ἐμπορικοὶ νόμοι τοῦτο ἐθέλουσι, τὸ τῶν καρπῶν τοὺς ἐλλείποντας καὶ ἑκάστοις περιττεύοντας ἀδεῶς παρ’ ἀλλήλους διακομίζειν. Ἐκ δὲ τῶν νόμων ἄνθρωποι τὸ δίκαιον εὗρον καὶ εὑρόντες φυλάττουσιν· ὥστε καὶ δικαιοσύνην μάλιστα ἐντεῦθεν εἰκὸς περιγίνεσθαι τοῖς ἀνθρώποις. οὐδὲ γὰρ σχολὴ γεωργοῖς ἀδικεῖν, οὐ δι’ ἔνδειαν ἀναγκαζομένοις, ἀλλ’ ἐν ἀφθονίᾳ διάγουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "350 d",
+      "text": "οἷς δὲ σχολὴ ἀπὸ τῶν ἔργων εἰς ἀδικίαν, ἀστικοί τε ἄνδρες καὶ εἰ δή τις ἄλλος γεωργίας ἐκτὸς συκοφαντίαν καὶ ἀδικίαν τιμῶσι. ὁ δὲ γεωργὸς ἁπλοῦν καὶ γενναῖον ἓν ἀγαθὸν εἰδώς, ὃ παρὰ τῆς γῆς σὺν ταῖς ὥραις ἐπιμελούμενος κομίζεται, πολυπραγμοσύνην δὲ ἀρχὴν ἀδικίας πεπιστευμένος εἶναι καὶ πόρρωθεν φυλαττόμενος. οὕτω δὲ ἀκριβῶς ἀλλότριος ἀδικίας κατὰ φύσιν ἐστὶν ὥστε καθάπερ τὰ φύσει πολέμια τῶν στοιχείων, οἷον ὕδωρ καὶ πῦρ, ἄμικτα πρὸς ἄλληλά ἐστι, κἂν πλησιάσωσι, θάτερον ἀνῄρηται πάντως, οὕτως ἀδικίας ἐγγινομένης πόλεμοί τε αὐτίκα καὶ στάσεις καὶ φθορὰ γεωργίας ἀκολουθεῖ, δικαιοσύνης δὲ καὶ εὐνομίας κρατούσης ἔρρωται ἡ γῆ τοῖς καρποῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "351 a",
+      "text": "Φησὶ δὲ Ὅμηρος καὶ Ἡσίοδος καὶ τὰ ἐξ οὐρανοῦ τοῖς τοιούτοις ἵλεώ τε εἶναι καὶ σὺν εὐμενείᾳ χωρεῖν, χαλαζῶν μὲν καλινδουμένων ἐπὶ τοὺς ἀδίκους καὶ ὄμβρων ἀγόνων καὶ λοιμῶν, τοῖς δικαίοις δὲ εἰς γεωργίαν τῆς ἀμοιβῆς οὔσης, ὑετῶν μὲν ἐκ τοῦ Διὸς ἐπιχεομένων ἡμέρων, δρυῶν δὲ καὶ τὰ οἰκεῖα καὶ μέλι φερουσῶν, ἐπειδὴ τὰ κοῖλα τῶν δένδρων καὶ ἅμα ἄκαρπα κηρίων τὰ σμήνη πληροῦσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "351 b",
+      "text": "Ἐκ δὴ τούτων οὐκ ἔτι χαλεπὸν γνωρίζειν ὡς οὐδὲν ἀνθρώποις οὕτω λυσιτελές ἐστιν ὡς γηπονίας τε ἐπιμεληθῆναι καὶ ἐμβιῶναι τῇ τέχνῃ. εἴτε γὰρ τὸ αὔταρκες τίμιον, ἐντεῦθεν ἀφθονία τῶν ἐπιτηδείων, εἴτε εὐπορία διὰ σπουδῆς, Δήμητρος παῖδα τὸν Πλοῦτον ποιηταὶ ᾄδουσιν, ὡς οὐδαμόθεν ἔξωθεν οὕτως αὐξανομένης περιουσίας ὡς διὰ τῶν ἐκ γεωργίας καλῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "351 c",
+      "text": "αἱ μὲν γὰρ ἄλλαι τέχναι ἐπινοίας πᾶσαι προσδέονται, καὶ οὐ μόνον τέχναι, ἀλλὰ καὶ ἐπιτηδεύματα, καὶ οἱ τὰς δυνάμεις ἔχοντες καὶ οἱ τὰ σκῆπτρα κομίζοντες ἐν ἐκείνοις ἔχουσι καὶ τῆς βασιλείας καὶ τῆς δυνάμεως 〈καὶ〉 τῶν ἐπιτηδευμάτων καὶ τῶν τεχνῶν τὰς ἐλπίδας· γεωργία δὲ ἀπὸ περιττῶν τοῖς λοιποῖς χορηγεῖ. οὐκοῦν οὐδὲ τῷ βασιλεῖ ὄφελος οὐδὲ ἕν, κἂν Ἀχαιμενίδης, κἂν Ἡρακλείδης, κἂν ὁστισοῦν εἶναι αὐχῇ, εἰ μὴ τοῖς ὅπλοις τὰ τῶν τροφῶν τῆς παρασκευῆς ἁπάσης ἡγοῖτο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "351 d",
+      "text": "καὶ ὅστις γραφεύς ἐστιν, ἢ ποιητὴς ἀγαλμάτων, καὶ ἐμπορία καὶ ναυτιλία, καὶ τί δεῖ πᾶσιν ἐπεξελθεῖν; οὐκ ἔστιν ὃς μὴ γεωργίας προσδεῖται. καὶ παρούσης μὲν καὶ χορηγούσης τὴν ἀφθονίαν ἀνθεῖ τὸ οἰκεῖον ἔργον ἑκάστοις καὶ τὴν σπουδὴν εἰς πέρας ἀγαθὸν προάγει· εἰ δὲ τὰ ἐκεῖθεν ἐλλείποι, οὐδὲν εἰς τὸν βίον ὑπόλοιπον.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "rye-bb",
+      "title": {
+        "english": "Consular to Emperor Jovian",
+        "ancient_greek": "Ὑπατικὸς εἰς τὸν αὐτοκράτορα Ἰοβιανόν"
+      },
+      "url_slug": "themistius-consular-jovian-rye-bb",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/consular-jovian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-consular-jovian-rye-bb.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-consular-jovian-rye-bb.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-consular-jovian-rye-bb.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-consular-jovian-rye-bb.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/consular-jovian.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-af",
+      "title": {
+        "english": "Deceteric or-Appropriate Speeches to the King",
+        "ancient_greek": "Δεκετηρικὸς ἢ περὶ τῶν πρεπόντων λόγων τῷ βασιλεῖ"
+      },
+      "url_slug": "themistius-deeteric-king-speeches-rye-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/deeteric-king-speeches",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-deeteric-king-speeches-rye-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-deeteric-king-speeches-rye-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-deeteric-king-speeches-rye-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-deeteric-king-speeches-rye-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/deeteric-king-speeches.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-bd",
+      "title": {
+        "english": "Discourse-the Word",
+        "ancient_greek": "Ἡ ἐπὶ τῷ λόγῳ διάλεξις"
+      },
+      "url_slug": "themistius-discourse-the-word-rye-bd",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/discourse-the-word",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-discourse-the-word-rye-bd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-discourse-the-word-rye-bd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-discourse-the-word-rye-bd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-discourse-the-word-rye-bd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/discourse-the-word.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-ay",
+      "title": {
+        "english": "Embassy to Emperor Theodosius",
+        "ancient_greek": "Πρεσβευτικὸς εἰς Θεοδόσιον αὐτοκράτορα"
+      },
+      "url_slug": "themistius-embassy-theodosius-rye-ay",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/embassy-theodosius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-theodosius-rye-ay.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-theodosius-rye-ay.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-theodosius-rye-ay.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-theodosius-rye-ay.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/embassy-theodosius.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-ac",
+      "title": {
+        "english": "Embassy-Behalf of Constantinople Delivered in Rome",
+        "ancient_greek": "Πρεσβευτικὸς ὑπὲρ Κωνσταντινουπόλεως ῥηθεὶς ἐν"
+      },
+      "url_slug": "themistius-embassy-constantinople-rome-rye-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/embassy-constantinople-rome",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-constantinople-rome-rye-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-constantinople-rome-rye-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-constantinople-rome-rye-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-constantinople-rome-rye-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/embassy-constantinople-rome.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-bi",
+      "title": {
+        "english": "Epitaph-the Father",
+        "ancient_greek": "Ἐπιτάφιος ἐπὶ τῷ πατρί"
+      },
+      "url_slug": "themistius-epitaph-father-rye-bi",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/epitaph-father",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-epitaph-father-rye-bi.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-epitaph-father-rye-bi.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-epitaph-father-rye-bi.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-epitaph-father-rye-bi.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/epitaph-father.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-bc",
+      "title": {
+        "english": "Erotic or-Royal Beauty",
+        "ancient_greek": "Ἐρωτικὸς ἢ περὶ κάλλους βασιλικοῦ"
+      },
+      "url_slug": "themistius-erotic-beauty-rye-bc",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/erotic-beauty",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-erotic-beauty-rye-bc.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-erotic-beauty-rye-bc.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-erotic-beauty-rye-bc.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-erotic-beauty-rye-bc.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/erotic-beauty.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-al",
+      "title": {
+        "english": "Exhortation to Nicomedians-Philosophy",
+        "ancient_greek": "Προτρεπτικὸς Νικομηδεῦσιν εἰς φιλοσοφίαν"
+      },
+      "url_slug": "themistius-exhortation-nicomedians-rye-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/exhortation-nicomedians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-nicomedians-rye-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-nicomedians-rye-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-nicomedians-rye-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-nicomedians-rye-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/exhortation-nicomedians.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-at",
+      "title": {
+        "english": "Exhortation to Young Valentinian",
+        "ancient_greek": "Προτρεπτικὸς Οὐαλεντινιανῷ νέῳ"
+      },
+      "url_slug": "themistius-exhortation-valentinian-rye-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/exhortation-valentinian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/exhortation-valentinian.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-az",
+      "title": {
+        "english": "Moderate or Fond of Children",
+        "ancient_greek": "Μετριοπαθὴς ἢ φιλότεκνος"
+      },
+      "url_slug": "themistius-moderate-children-rye-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/moderate-children",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-moderate-children-rye-az.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-moderate-children-rye-az.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-moderate-children-rye-az.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-moderate-children-rye-az.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/moderate-children.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-ao",
+      "title": {
+        "english": "On Aristotle's Physics, Paraphrase",
+        "ancient_greek": "Περὶ τῆς Ἀριστοτέλους Φυσικῆς"
+      },
+      "url_slug": "themistius-physics-paraphrase-rye-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/physics-paraphrase",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-physics-paraphrase-rye-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-physics-paraphrase-rye-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-physics-paraphrase-rye-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-physics-paraphrase-rye-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/physics-paraphrase.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-bj",
+      "title": {
+        "english": "On Friendship",
+        "ancient_greek": "Περὶ φιλίας"
+      },
+      "url_slug": "themistius-friendship-rye-bj",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/friendship",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-friendship-rye-bj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-friendship-rye-bj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-friendship-rye-bj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-friendship-rye-bj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/friendship.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "bxq-ab",
+      "title": {
+        "english": "Fragments on Hippiatric Medicine",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἱππιατρικῆς"
+      },
+      "url_slug": "simon-of-athens-hippiatric-fragments-bxq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/simon-of-athens/hippiatric-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens-hippiatric-fragments-bxq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens-hippiatric-fragments-bxq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens-hippiatric-fragments-bxq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens-hippiatric-fragments-bxq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens/hippiatric-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "oqk-ai",
+      "title": {
+        "english": "Holy Discourse of Hermes Trismegistus",
+        "ancient_greek": "Ἑρμοῦ τοῦ τρισμεγίστου λόγος ἱερός"
+      },
+      "url_slug": "hermetica-holy-discourse-oqk-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/holy-discourse",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-holy-discourse-oqk-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-holy-discourse-oqk-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-holy-discourse-oqk-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-holy-discourse-oqk-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/holy-discourse.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-bh",
+      "title": {
+        "english": "How One Might Benefit from Enemies",
+        "ancient_greek": "Πῶς ἄν τις ἀπ ἐχθρῶν ὠφελοῖτο"
+      },
+      "url_slug": "plutarch-of-chaeronea-benefit-from-enemies-okg-bh",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/benefit-from-enemies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-benefit-from-enemies-okg-bh.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-benefit-from-enemies-okg-bh.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-benefit-from-enemies-okg-bh.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-benefit-from-enemies-okg-bh.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/benefit-from-enemies.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-do",
+      "title": {
+        "english": "Natural Causes",
+        "ancient_greek": "Αἴτια φυσικά"
+      },
+      "url_slug": "plutarch-of-chaeronea-natural-causes-okg-do",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/natural-causes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-natural-causes-okg-do.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-natural-causes-okg-do.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-natural-causes-okg-do.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-natural-causes-okg-do.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/natural-causes.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-bd",
+      "title": {
+        "english": "On Using Reason with the Irrational",
+        "ancient_greek": "Περὶ τοῦ τὰ ἄλογα λόγῳ χρῆσθαι"
+      },
+      "url_slug": "plutarch-of-chaeronea-reason-irrational-okg-bd",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/reason-irrational",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-reason-irrational-okg-bd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-reason-irrational-okg-bd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-reason-irrational-okg-bd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-reason-irrational-okg-bd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/reason-irrational.epub"
+      }
+    },
+    {
+      "eul_wid": "dcu-aa",
+      "title": {
+        "english": "On the Four Roots of All Things",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "athamas-of-posidonia-four-roots-dcu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/athamas-of-posidonia/four-roots",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athamas-of-posidonia-four-roots-dcu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athamas-of-posidonia-four-roots-dcu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athamas-of-posidonia-four-roots-dcu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athamas-of-posidonia-four-roots-dcu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athamas-of-posidonia/four-roots.epub"
+      }
+    },
+    {
+      "eul_wid": "aqy-aa",
+      "title": {
+        "english": "Testimonies 1",
+        "ancient_greek": "Μαρτυρίαι Α'"
+      },
+      "url_slug": "epimenides-of-crete-testimonies-aqy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epimenides-of-crete/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-testimonies-aqy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-testimonies-aqy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-testimonies-aqy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-testimonies-aqy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete/testimonies.epub"
+      }
+    },
+    {
+      "eul_wid": "lxq-aa",
+      "title": {
+        "english": "Testimonies and Fragments",
+        "ancient_greek": "Μαρτυρίαι καὶ Ἀποσπάσματα"
+      },
+      "url_slug": "diogenes-of-babylon-testimonies-lxq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-babylon/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-babylon-testimonies-lxq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-babylon-testimonies-lxq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-babylon-testimonies-lxq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-babylon-testimonies-lxq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-babylon/testimonies.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/themistius/whether-to-farm",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-whether-to-farm-rye-be.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-whether-to-farm-rye-be.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-whether-to-farm-rye-be.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-whether-to-farm-rye-be.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/whether-to-farm.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "fxw",
+  "auth_slug": "timotheus-the-pseudo-historian",
+  "name": {
+    "english": "Timotheus Pseudo-Historian",
+    "ancient_greek": "Τιμόθεος ὁ Ψευδοϊστορικός"
+  },
+  "seo_h1": "Argolic and River Lore in the Fragments of Timotheus",
+  "seo": {
+    "browser_title": "Timotheus Pseudo-Historian on Eulogikon Greek Archive",
+    "meta_title": "The Timotheus Pseudo-Historian Ancient Greek Works",
+    "meta_description": "Timotheus Pseudo-Historian, a classical writer. Surviving historical fragments in mixed dialects. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects (frg)",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Timotheus Pseudo-Historian is an obscure figure, likely active during the broad Hellenistic or early Imperial Roman period. The epithet &quot;Pseudo-Historian&quot; indicates he was considered a writer of unreliable or fabricated history by ancient critics. No specific biographical details are recorded in standard reference works.</p>\n<p class=\"research-text\">His work is presumed lost, known only through the implication of his epithet and fragmentary transmission. It was a prose historical narrative, now unattested in extant sources.</p>\n<p class=\"research-text\">His classification as a &quot;pseudo-historian&quot; places him within a tradition of authors deemed untrustworthy by later Greek and Roman scholars. His existence is primarily of historiographical interest, illustrating ancient efforts to categorize historical writing and distinguish credible accounts from spurious or mythical narratives.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "fxw-aa",
+      "title": {
+        "english": "Argolic and River Lore Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "timotheus-the-pseudo-historian-argolic-river-lore-fxw-aa",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/timotheus-the-pseudo-historian/argolic-river-lore",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-pseudo-historian-argolic-river-lore-fxw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-pseudo-historian-argolic-river-lore-fxw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-pseudo-historian-argolic-river-lore-fxw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-pseudo-historian-argolic-river-lore-fxw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-pseudo-historian/argolic-river-lore.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/timotheus-the-pseudo-historian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timotheus-the-pseudo-historian-fxw.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timotheus-the-pseudo-historian-fxw.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timotheus-the-pseudo-historian-fxw.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timotheus-the-pseudo-historian-fxw.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

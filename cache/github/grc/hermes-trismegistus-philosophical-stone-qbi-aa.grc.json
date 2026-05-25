@@ -1,0 +1,198 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "qbi-aa",
+  "eul_aid": "qbi",
+  "author_slug": "hermes-trismegistus",
+  "work_slug": "philosophical-stone",
+  "url_slug": "hermes-trismegistus-philosophical-stone-qbi-aa",
+  "author": {
+    "english": "Hermes Trismegistus the Alchemist",
+    "ancient_greek": "Ἑρμῆς ὁ Τρισμέγιστος"
+  },
+  "title": {
+    "english": "Riddle of the Philosophical Stone of Hermes and Agathodaemon",
+    "ancient_greek": "Αἴνιγμα τοῦ φιλοσοφικοῦ λίθου Ἑρμοῦ καὶ"
+  },
+  "seo": {
+    "browser_title": "Riddle Philosophical Stone of Hermes and Agathodaemon...",
+    "meta_title": "Riddle Philosophical Stone of Hermes and Agathodaemon Greek",
+    "meta_description": "An alchemical treatise attributed to Hermes Trismegistus presenting a riddle about philosopher's stone. This work belongs to Hermetic alchemical tradition."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Riddle of the Philosophical Stone of Hermes and Agathodaemon is a brief pseudepigraphical alchemical treatise attributed to the legendary sage Hermes Trismegistus and the divine figure Agathodaemon. As its title indicates, the work presents its teachings in an enigmatic and allegorical form, a style characteristic of Greco-Egyptian alchemical texts designed to conceal operational secrets from the uninitiated. It belongs to the technical Hermetica, a corpus of writings that blend practical alchemical procedures with the spiritual and cosmological frameworks of late antiquity. The text centers on the pursuit of the Philosophical Stone, the legendary substance believed to transmute base metals into gold and symbolize the achievement of perfection. Its themes encompass the use of allegory and secrecy to encode alchemical operations, the concept of knowledge as a divine revelation from its named authorities, the Hermetic principle of unity between the cosmos and the laboratory work, and the parallel processes of material and spiritual transformation. The treatise survives within medieval Byzantine manuscripts containing collections of Greek alchemical works. These compilations were subsequently transmitted, influencing the development of both Arabic and Latin alchemical traditions. As part of the broader Hermetic-alchemical tradition, this riddle contributed to the authoritative body of knowledge ascribed to Hermes Trismegistus. Its allegorical style and central motif of the Philosopher’s Stone became enduring tropes in later European esotericism, significantly influencing Renaissance natural philosophy and early modern alchemical literature.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "2.267.(16t)",
+      "text": "ΑΙΝΙΓΜΑ ΤΟΥ ΦΙΛΟΣΟΦΙΚΟΥ ΛΙΘΟΥ ΕΡΜΟΥ ΚΑΙ ΑΓΑΘΟΔΑΙΜΟΝΟΣ Ἐννέα γράμματ’ ἔχω· τετρασύλλαβός εἰμι· νόει με· αἱ τρεῖς [γὰρ] αἱ πρῶται δύο γράμματ’ ἔχουσιν ἑκάστη· ἡ λοιπὴ δὲ τὰ λοιπά· καὶ εἰσὶν ἄφωνα τὰ πέντε, τοῦ παντὸς δ’ ἀριθμοῦ ἑκατοντάδες εἰσὶ δὶς ὀκτὼ, καὶ τρεῖς, τρισδεκάδες καὶ τέσσαρες· γνοὺς δὲ τίς εἰμι, οὐκ ἀμύητος ἔσῃ θείης παρ’ ἐμοίγε σοφίης.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "rrg-bs",
+      "title": {
+        "english": "Alchemical Fragment",
+        "ancient_greek": "Χημικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "alchemist-i-fragment-bs-rrg-bs",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/fragment-bs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bs-rrg-bs.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bs-rrg-bs.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bs-rrg-bs.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bs-rrg-bs.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bs.epub"
+      }
+    },
+    {
+      "eul_wid": "odi-ae",
+      "title": {
+        "english": "Book of Agriculture",
+        "ancient_greek": "Γεωπονικόν"
+      },
+      "url_slug": "hero-of-alexandria-agriculture-odi-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/agriculture",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-agriculture-odi-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-agriculture-odi-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-agriculture-odi-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-agriculture-odi-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/agriculture.epub"
+      }
+    },
+    {
+      "eul_wid": "iny-aa",
+      "title": {
+        "english": "Fragments on Babylonian History",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Βαβυλωνιακῆς Ἱστορίας"
+      },
+      "url_slug": "berossus-the-babylonian-history-fragments-iny-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/berossus-the-babylonian/history-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/berossus-the-babylonian-history-fragments-iny-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/berossus-the-babylonian-history-fragments-iny-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/berossus-the-babylonian-history-fragments-iny-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/berossus-the-babylonian-history-fragments-iny-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/berossus-the-babylonian/history-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "lyk-ab",
+      "title": {
+        "english": "Geographical Fragments",
+        "ancient_greek": "Γεωγραφικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "hipparchus-of-nicaea-geographical-fragments-lyk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hipparchus-of-nicaea/geographical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea-geographical-fragments-lyk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea-geographical-fragments-lyk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea-geographical-fragments-lyk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea-geographical-fragments-lyk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea/geographical-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "tyc-ce",
+      "title": {
+        "english": "On Divine Water",
+        "ancient_greek": "Περὶ θείου ὕδατος"
+      },
+      "url_slug": "zosimus-of-panopolis-divine-water-ce-tyc-ce",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/divine-water-ce",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-divine-water-ce-tyc-ce.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-divine-water-ce-tyc-ce.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-divine-water-ce-tyc-ce.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-divine-water-ce-tyc-ce.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/divine-water-ce.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-at",
+      "title": {
+        "english": "On the Egg, the Ancients Say Thus",
+        "ancient_greek": "Περὶ τοῦ ὠοῦ οἱ παλαιοί φασιν οὕτως"
+      },
+      "url_slug": "alchemist-i-egg-ancients-say-rrg-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/egg-ancients-say",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-egg-ancients-say-rrg-at.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-egg-ancients-say-rrg-at.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-egg-ancients-say-rrg-at.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-egg-ancients-say-rrg-at.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/egg-ancients-say.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-aw",
+      "title": {
+        "english": "Ouroboros Dragon, Version 1",
+        "ancient_greek": "Ὁ οὐροβόρος δράκων"
+      },
+      "url_slug": "alchemist-i-ouroboros-dragon-version-1-rrg-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/ouroboros-dragon-version-1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-ouroboros-dragon-version-1-rrg-aw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-ouroboros-dragon-version-1-rrg-aw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-ouroboros-dragon-version-1-rrg-aw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-ouroboros-dragon-version-1-rrg-aw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/ouroboros-dragon-version-1.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-ab",
+      "title": {
+        "english": "Whitening of Water, Through Which Arsenic and Sandarac are Whitened",
+        "ancient_greek": "Λεύκωσις ὕδατος, δι’ οὗ λευκαίνεται οἰκονομούμενον"
+      },
+      "url_slug": "alchemist-i-whitening-arsenic-sandarac-rrg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/whitening-arsenic-sandarac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-whitening-arsenic-sandarac-rrg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-whitening-arsenic-sandarac-rrg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-whitening-arsenic-sandarac-rrg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-whitening-arsenic-sandarac-rrg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/whitening-arsenic-sandarac.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hermes-trismegistus/philosophical-stone",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermes-trismegistus-philosophical-stone-qbi-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermes-trismegistus-philosophical-stone-qbi-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermes-trismegistus-philosophical-stone-qbi-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermes-trismegistus-philosophical-stone-qbi-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermes-trismegistus/philosophical-stone.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

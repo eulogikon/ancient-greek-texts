@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "mbw",
+  "auth_slug": "lesbonax-the-rhetorician",
+  "name": {
+    "english": "Lesbonax the Rhetorician",
+    "ancient_greek": "Λεσβώναξ ὁ Μυτιληναῖος"
+  },
+  "seo_h1": "Lesbonax of Mytilene and the Art of Deliberative Oratory",
+  "seo": {
+    "browser_title": "Lesbonax of Mytilene on Eulogikon Greek Text Archive",
+    "meta_title": "Classical Lesbonax of Mytilene Ancient Greek Oratory Works",
+    "meta_description": "Lesbonax of Mytilene was a Hellenistic orator of the 1st century BCE. Surviving works include three orations. Free to read and download from the Greek library."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Lesbonax of Mytilene was a Greek rhetorician and orator of the 1st century BCE. A native of Mytilene on Lesbos, he was the son of Sthenelaus and a contemporary of Cicero. According to the Suda, he taught rhetoric in his hometown and counted Potamo, the future founder of an eclectic philosophical school in Alexandria, among his pupils.</p>\n<p class=\"research-text\">His literary output consisted of orations. The Suda credits him with three political speeches, though their titles are not recorded. No complete works survive; his writings are considered lost and are known only through later references.</p>\n<p class=\"research-text\">Lesbonax is a minor figure in Hellenistic rhetoric, primarily significant for his role as a teacher and his link to the more prominent Potamo of Alexandria. His lost corpus prevents a detailed assessment of his oratorical style, but his career exemplifies the continuity of Greek rhetorical education in the Eastern Mediterranean during the late Hellenistic period.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 3,
+  "works": [
+    {
+      "eul_wid": "mbw-aa",
+      "title": {
+        "english": "Exhortation A",
+        "ancient_greek": "Προτρεπτικὸς Α"
+      },
+      "url_slug": "lesbonax-the-rhetorician-exhortation-mbw-aa",
+      "passages": 16,
+      "links": {
+        "html": "https://eulogikon.org/grc/lesbonax-the-rhetorician/exhortation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lesbonax-the-rhetorician-exhortation-mbw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lesbonax-the-rhetorician-exhortation-mbw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lesbonax-the-rhetorician-exhortation-mbw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lesbonax-the-rhetorician-exhortation-mbw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lesbonax-the-rhetorician/exhortation.epub"
+      }
+    },
+    {
+      "eul_wid": "mbw-ab",
+      "title": {
+        "english": "Exhortation B",
+        "ancient_greek": "Προτρεπτικὸς Β"
+      },
+      "url_slug": "lesbonax-the-rhetorician-exhortation-b-mbw-ab",
+      "passages": 14,
+      "links": {
+        "html": "https://eulogikon.org/grc/lesbonax-the-rhetorician/exhortation-b",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lesbonax-the-rhetorician-exhortation-b-mbw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lesbonax-the-rhetorician-exhortation-b-mbw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lesbonax-the-rhetorician-exhortation-b-mbw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lesbonax-the-rhetorician-exhortation-b-mbw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lesbonax-the-rhetorician/exhortation-b.epub"
+      }
+    },
+    {
+      "eul_wid": "mbw-ac",
+      "title": {
+        "english": "Statesman",
+        "ancient_greek": "Πολιτικός"
+      },
+      "url_slug": "lesbonax-the-rhetorician-statesman-mbw-ac",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/lesbonax-the-rhetorician/statesman",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lesbonax-the-rhetorician-statesman-mbw-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lesbonax-the-rhetorician-statesman-mbw-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lesbonax-the-rhetorician-statesman-mbw-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lesbonax-the-rhetorician-statesman-mbw-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lesbonax-the-rhetorician/statesman.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/lesbonax-the-rhetorician",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lesbonax-the-rhetorician-mbw.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lesbonax-the-rhetorician-mbw.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lesbonax-the-rhetorician-mbw.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lesbonax-the-rhetorician-mbw.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

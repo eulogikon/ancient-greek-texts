@@ -1,0 +1,391 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "mmg-ay",
+  "eul_aid": "mmg",
+  "author_slug": "historical-fragments-anonymous",
+  "work_slug": "pergamene-chronicle",
+  "url_slug": "historical-fragments-anonymous-pergamene-chronicle-mmg-ay",
+  "author": {
+    "english": "Historical Fragments  Anonymous",
+    "ancient_greek": "Ἀνώνυμος ἱστορικός (ἀποσπάσματα)"
+  },
+  "title": {
+    "english": "Pergamene Chronicle",
+    "ancient_greek": "Περγαμηνὴ Χρονική"
+  },
+  "seo": {
+    "browser_title": "Fragments of Pergamene Chronicle Anonymous on Eulogikon",
+    "meta_title": "Pergamene Chronicle Historical Fragments in Ancient Greek",
+    "meta_description": "Pergamene Chronicle preserves historical fragments documenting the rulers and events of Hellenistic Pergamon. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects (frg)",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Pergamene Chronicle is a lost historical work known only from a brief citation by the 9th-century Byzantine scholar Photius in his <strong>Bibliotheca</strong>. Photius classifies it as a chronicle, grouping it with the works of Eusebius and Andronicus. No continuous text survives, and its precise content, chronological scope, and date of composition remain entirely unknown. Based on its title and origin from the major Hellenistic center of Pergamon, it likely presented a chronological record of events, incorporating both mythical and historical material. Its probable subjects included the local history and foundation myths of the city, as well as synchronisms linking Pergamene events with the wider history of the Greek world and the Near East. The chronicle is preserved solely as a reference in Photius&#x27;s work and is collected among the fragments of lost Greek historians. It possesses no independent manuscript tradition. Its citation by Photius indicates it retained some authority as a chronological reference work into the Byzantine era. For modern scholarship, it serves as a testament to the otherwise lost local historiographical tradition of the Attalid kingdom of Pergamon.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "3b,506,F 1",
+      "text": "ALTERTUEM. PERGAMON VIII 2 p. 378 no. 613 (O. Gr. Inscr. Sel. 264): *** // [———— ἔπεισεν Ἀ]ρχίας [πρυτάν]εις αἱ[ρεῖσθαι τῆς / πόλεως κατ’] ἔτος ἕκασ[τ]ον· καὶ πρῶτος ἐπρυτ[ά/νευεν Ἀρχί]ας, καὶ ἐξ ἐκείνου μέχρι νῦν πρυτα[νευό/μενοι] διατελοῦσιν. Ὀρόντης δὲ Ἀρτασύ/[ρου, τὸ γέν]ος Βάκτριος, ἀποστὰς ἀπὸ Ἀρταξέρ/[ξου τοῦ Περσ]ῶν βασιλέως, ἐκράτησεν τῶν Περγα/[μηνῶν καὶ μ]ετώικισεν αὐτοὺς πάλιν ἐπὶ τὸν κο/[λωνὸν εἰς] τὴν πα[λαι]ὰν πόλιν. εἶτα Ὀρόντης / [τὴν πόλιν ἐ]πιτρέ[ψας Ἀρτα]ξέρξηι ἀπέθανεν. *** // [———— γήμα]ντα Ἀναξίπ[πην ————— ἐγέννησεν Εὔ]ιππον, Εὔιππος / [δὲ —————— κ]αὶ Δάσκυλον. ἀ/[δελφὴ δὲ τούτων μία Θε]ρσίππη ἐγένε/[το, αὕτη δὲ συνοικήσασα ————]νι, Παφλαγόνι / [τὸ γένος, ἔτεκε ————, κα]ὶ [με]τὰ ταῦτ[α /————] *** // [————— / —]ον Ε[ὐ]μέ[νης, διὰ βίου ἤδη τῆς ἀρχῆς κοινω]/νήσας [Ἀτ]τά[λωι τῶι ἀδελφῶι, ἀπέθανε κατα]/λείπων τὴν [μὲν βασιλείαν τῶι ἑαυτοῦ υἱῶι] / Ἀττάλωι, κατ’ ἐ[πιτροπὴν δὲ ἐκείνωι. οὗτος δὲ] / ἀπέδωκεν τὴ[ν βασιλείαν ἀποθνήσκων Ἀττάλωι] / τῶι τοῦ Εὐμέν[ους ————— / ——— ἄρ]ξαν[τ———— / ——]ην ***",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "mmg-ag",
+      "title": {
+        "english": "Annals of the Third Syrian War",
+        "ancient_greek": "Χρονικὰ τοῦ Τρίτου Συριακοῦ Πολέμου"
+      },
+      "url_slug": "historical-fragments-anonymous-third-syrian-war-mmg-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/third-syrian-war",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-third-syrian-war-mmg-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-third-syrian-war-mmg-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-third-syrian-war-mmg-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-third-syrian-war-mmg-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/third-syrian-war.epub"
+      }
+    },
+    {
+      "eul_wid": "mmg-ao",
+      "title": {
+        "english": "Anonymous Corinthian",
+        "ancient_greek": "Ἀνώνυμος Κορίνθιος"
+      },
+      "url_slug": "historical-fragments-anonymous-corinthian-mmg-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/corinthian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-corinthian-mmg-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-corinthian-mmg-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-corinthian-mmg-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-corinthian-mmg-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/corinthian.epub"
+      }
+    },
+    {
+      "eul_wid": "mmg-bb",
+      "title": {
+        "english": "Anonymous Exegete",
+        "ancient_greek": "Ἀνώνυμος Ἐξηγητής"
+      },
+      "url_slug": "historical-fragments-anonymous-exegete-mmg-bb",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/exegete",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-exegete-mmg-bb.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-exegete-mmg-bb.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-exegete-mmg-bb.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-exegete-mmg-bb.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/exegete.epub"
+      }
+    },
+    {
+      "eul_wid": "mmg-az",
+      "title": {
+        "english": "Anonymous Milesian",
+        "ancient_greek": "Ἀνώνυμος Μιλήσιος"
+      },
+      "url_slug": "historical-fragments-anonymous-milesian-mmg-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/milesian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-milesian-mmg-az.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-milesian-mmg-az.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-milesian-mmg-az.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-milesian-mmg-az.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/milesian.epub"
+      }
+    },
+    {
+      "eul_wid": "mmg-av",
+      "title": {
+        "english": "Anonymous Periegete",
+        "ancient_greek": "Ἀνώνυμος Περιηγητής"
+      },
+      "url_slug": "historical-fragments-anonymous-periegete-mmg-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/periegete",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-periegete-mmg-av.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-periegete-mmg-av.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-periegete-mmg-av.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-periegete-mmg-av.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/periegete.epub"
+      }
+    },
+    {
+      "eul_wid": "mmg-al",
+      "title": {
+        "english": "Anonymous Philosopher",
+        "ancient_greek": "Ἀνώνυμος Φιλόσοφος"
+      },
+      "url_slug": "historical-fragments-anonymous-philosopher-mmg-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/philosopher",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-philosopher-mmg-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-philosopher-mmg-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-philosopher-mmg-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-philosopher-mmg-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/philosopher.epub"
+      }
+    },
+    {
+      "eul_wid": "mmg-aa",
+      "title": {
+        "english": "Anonymous from the Histories of Polybius",
+        "ancient_greek": "Ἀνώνυμος ἐκ τῶν Ἱστοριῶν Πολυβίου"
+      },
+      "url_slug": "historical-fragments-anonymous-polybius-mmg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/polybius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-polybius-mmg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-polybius-mmg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-polybius-mmg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-polybius-mmg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/polybius.epub"
+      }
+    },
+    {
+      "eul_wid": "mmg-ab",
+      "title": {
+        "english": "Anonymous-the Founding of Hermopolis",
+        "ancient_greek": "Ἀνώνυμος Περὶ τῆς Κτίσεως Ἑρμοπόλεως"
+      },
+      "url_slug": "historical-fragments-anonymous-founding-hermopolis-mmg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/founding-hermopolis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-founding-hermopolis-mmg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-founding-hermopolis-mmg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-founding-hermopolis-mmg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-founding-hermopolis-mmg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/founding-hermopolis.epub"
+      }
+    },
+    {
+      "eul_wid": "mmg-ap",
+      "title": {
+        "english": "Chronicle of Archons",
+        "ancient_greek": "Χρονικὴ Ἀρχόντων"
+      },
+      "url_slug": "historical-fragments-anonymous-chronicle-mmg-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/chronicle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-chronicle-mmg-ap.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-chronicle-mmg-ap.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-chronicle-mmg-ap.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-chronicle-mmg-ap.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/chronicle.epub"
+      }
+    },
+    {
+      "eul_wid": "mmg-aw",
+      "title": {
+        "english": "Eupatridae Ancestry",
+        "ancient_greek": "Εὐπατριδῶν πάτρια"
+      },
+      "url_slug": "historical-fragments-anonymous-eupatridae-mmg-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/eupatridae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-eupatridae-mmg-aw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-eupatridae-mmg-aw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-eupatridae-mmg-aw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-eupatridae-mmg-aw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/eupatridae.epub"
+      }
+    },
+    {
+      "eul_wid": "mmg-bm",
+      "title": {
+        "english": "Handbook",
+        "ancient_greek": "Ἐγχειρίδιον"
+      },
+      "url_slug": "historical-fragments-anonymous-handbook-mmg-bm",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/handbook",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-handbook-mmg-bm.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-handbook-mmg-bm.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-handbook-mmg-bm.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-handbook-mmg-bm.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/handbook.epub"
+      }
+    },
+    {
+      "eul_wid": "mmg-aq",
+      "title": {
+        "english": "Historical Fragments",
+        "ancient_greek": "Ἱστορικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "historical-fragments-anonymous-historical-mmg-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/historical",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-historical-mmg-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-historical-mmg-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-historical-mmg-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-historical-mmg-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/historical.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "aws-aa",
+      "title": {
+        "english": "Argolic Histories and Genealogies",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "socrates-of-argos-histories-genealogies-aws-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/socrates-of-argos/histories-genealogies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-argos-histories-genealogies-aws-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-argos-histories-genealogies-aws-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-argos-histories-genealogies-aws-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-argos-histories-genealogies-aws-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-argos/histories-genealogies.epub"
+      }
+    },
+    {
+      "eul_wid": "ezq-ag",
+      "title": {
+        "english": "Cyropaedia",
+        "ancient_greek": "Κύρου Παιδεία"
+      },
+      "url_slug": "xenophon-of-athens-cyropaedia-ezq-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/cyropaedia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-cyropaedia-ezq-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-cyropaedia-ezq-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-cyropaedia-ezq-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-cyropaedia-ezq-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/cyropaedia.epub"
+      }
+    },
+    {
+      "eul_wid": "cey-aa",
+      "title": {
+        "english": "Fragments on Battus and Cyrene",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βάττου καὶ Κυρήνης"
+      },
+      "url_slug": "menecles-the-historian-battus-cyrene-cey-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/menecles-the-historian/battus-cyrene",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecles-the-historian-battus-cyrene-cey-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecles-the-historian-battus-cyrene-cey-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecles-the-historian-battus-cyrene-cey-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecles-the-historian-battus-cyrene-cey-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecles-the-historian/battus-cyrene.epub"
+      }
+    },
+    {
+      "eul_wid": "ecy-ab",
+      "title": {
+        "english": "Historical Fragments on Greek Affairs",
+        "ancient_greek": "Ἱστορικὰ Ἀποσπάσματα περὶ Ἑλληνικῶν Πραγμάτων"
+      },
+      "url_slug": "hellenica-anon-historical-fragments-ecy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hellenica-anon/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-historical-fragments-ecy-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-historical-fragments-ecy-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-historical-fragments-ecy-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-historical-fragments-ecy-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon/historical-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "uws-ad",
+      "title": {
+        "english": "Historical Fragments on Palmatius",
+        "ancient_greek": "Ἀποσπάσματα περὶ Παλματίου"
+      },
+      "url_slug": "hesychius-of-miletus-historical-fragments-uws-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/hesychius-of-miletus/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus-historical-fragments-uws-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus-historical-fragments-uws-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus-historical-fragments-uws-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus-historical-fragments-uws-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus/historical-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "npc-aa",
+      "title": {
+        "english": "Marvels",
+        "ancient_greek": "Θαύματα"
+      },
+      "url_slug": "palatine-paradoxographer-marvels-npc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/palatine-paradoxographer/marvels",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/palatine-paradoxographer-marvels-npc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/palatine-paradoxographer-marvels-npc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/palatine-paradoxographer-marvels-npc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/palatine-paradoxographer-marvels-npc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/palatine-paradoxographer/marvels.epub"
+      }
+    },
+    {
+      "eul_wid": "viq-ab",
+      "title": {
+        "english": "On Embassies of Nations to the Romans",
+        "ancient_greek": "Περὶ Πρεσβειῶν Ἐθνῶν πρὸς Ῥωμαίους"
+      },
+      "url_slug": "menander-protector-embassies-romans-viq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-protector/embassies-romans",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-protector-embassies-romans-viq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-protector-embassies-romans-viq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-protector-embassies-romans-viq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-protector-embassies-romans-viq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-protector/embassies-romans.epub"
+      }
+    },
+    {
+      "eul_wid": "fsw-aa",
+      "title": {
+        "english": "Testimonies 2",
+        "ancient_greek": "Μαρτυρίαι Β'"
+      },
+      "url_slug": "callisthenes-of-olynthus-testimonies-aa-fsw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/callisthenes-of-olynthus/testimonies-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callisthenes-of-olynthus-testimonies-aa-fsw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callisthenes-of-olynthus-testimonies-aa-fsw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callisthenes-of-olynthus-testimonies-aa-fsw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callisthenes-of-olynthus-testimonies-aa-fsw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callisthenes-of-olynthus/testimonies-aa.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/historical-fragments-anonymous/pergamene-chronicle",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-pergamene-chronicle-mmg-ay.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-pergamene-chronicle-mmg-ay.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-pergamene-chronicle-mmg-ay.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous-pergamene-chronicle-mmg-ay.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/pergamene-chronicle.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

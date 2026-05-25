@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "fxc",
+  "auth_slug": "philip-ii-of-macedonia",
+  "name": {
+    "english": "Philip II King of Macedonia",
+    "ancient_greek": "Φίλιππος Βʹ ὁ Μακεδών"
+  },
+  "seo_h1": "Philip II of Macedonia and His Diplomatic Letters",
+  "seo": {
+    "browser_title": "Philip II King of Macedon on Eulogikon Greek Archive",
+    "meta_title": "Classical Philip II King of Macedon Ancient Greek Epistles",
+    "meta_description": "Philip II of Macedon transformed his kingdom into dominant power of Greece. One surviving epistle is attributed to him. Free to download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Philip II was the king of Macedon in the 4th century BCE, reigning from 359 BCE until his assassination in 336 BCE. He transformed his kingdom from a relatively weak northern state into the dominant military and political power of the Greek world. His early experience as a hostage in Thebes is thought to have influenced his later military innovations.</p>\n<p class=\"research-text\">Philip’s reign was defined by expansion and reform. He created a highly effective professional army, introducing a longer infantry pike and refining the combined-arms tactics that his son, Alexander the Great, would later use. Through a series of strategic campaigns and diplomatic maneuvers, he secured control over neighboring regions and valuable resources.</p>\n<p class=\"research-text\">His decisive victory over an alliance of Greek city-states at the Battle of Chaeronea in 338 BCE effectively ended the era of independent classical Greek city-states. Following this, he united most of Greece under the League of Corinth, planning a war against the Persian Empire. He was assassinated in 336 BCE at his capital, Aegae.</p>\n<p class=\"research-text\">While no collected body of his writings survives, Philip was known for his diplomatic correspondence. References to and quotations from his letters are preserved in the works of later historians and orators like Demosthenes. Modern scholars view Philip II as a foundational figure whose reforms and conquests directly enabled Alexander the Great’s empire. His reign is widely seen as the pivotal transition from the Classical period of Greek history to the Hellenistic age that followed.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "fxc-aa",
+      "title": {
+        "english": "Philip's Diplomatic Letters",
+        "ancient_greek": "Ἐπιστολαί"
+      },
+      "url_slug": "philip-ii-of-macedonia-diplomatic-letters-fxc-aa",
+      "passages": 23,
+      "links": {
+        "html": "https://eulogikon.org/grc/philip-ii-of-macedonia/diplomatic-letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philip-ii-of-macedonia-diplomatic-letters-fxc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philip-ii-of-macedonia-diplomatic-letters-fxc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philip-ii-of-macedonia-diplomatic-letters-fxc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philip-ii-of-macedonia-diplomatic-letters-fxc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philip-ii-of-macedonia/diplomatic-letters.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/philip-ii-of-macedonia",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philip-ii-of-macedonia-fxc.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philip-ii-of-macedonia-fxc.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philip-ii-of-macedonia-fxc.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philip-ii-of-macedonia-fxc.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

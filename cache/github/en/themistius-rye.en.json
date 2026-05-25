@@ -1,0 +1,805 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "rye",
+  "auth_slug": "themistius",
+  "name": {
+    "english": "Themistius the Philosopher",
+    "ancient_greek": "Θεμίστιος ὁ Εὐφραδής"
+  },
+  "seo_h1": "Themistius the Philosopher and the Paraphrases of Aristotle",
+  "seo": {
+    "browser_title": "Themistius the Philosopher on Eulogikon Greek Archive",
+    "meta_title": "Classical Themistius Ancient Greek Orations and Philosophy",
+    "meta_description": "Themistius, a 4th century philosopher and statesman. His surviving works include forty one orations. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Eclectic",
+      "href": "/affiliations/eclectic"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Themistius was a philosopher, rhetorician, and statesman of the 4th century CE. He was born around 317 CE in Paphlagonia and died around 388 CE. His career was centered in Constantinople, where he served as a senator and political advisor under a series of Roman emperors, including Constantius II, Julian, and Theodosius I. Although a pagan, Themistius maintained his position in a Christian imperial court by promoting religious tolerance and arguing that classical philosophy supported good governance. He was appointed as a royal tutor and was known by the epithet &quot;Euphrades,&quot; meaning &quot;eloquent.&quot;</p>\n<p class=\"research-text\">His surviving works include two main types. First are his orations: 34 ceremonial speeches delivered at court that blend praise of the emperor with philosophical ideas. Second are his paraphrases of Aristotle&#x27;s works, which were not strict commentaries but clear explanatory summaries designed for students. These paraphrases became very influential.</p>\n<p class=\"research-text\">Modern scholars see Themistius as a pivotal figure. He helped transmit and simplify Aristotelian philosophy during an era when Neoplatonic thought was more dominant, making it accessible for later Byzantine and Arabic traditions. His speeches also provide valuable historical insight into the political culture and ideals of leadership in the late Roman Empire. He is often interpreted as embodying the ideal of a &quot;philosopher in the city,&quot; actively using philosophy to engage with public life and imperial rule.</p>\n</div>",
+  "affiliation_label": "Eclectic",
+  "works_count": 41,
+  "works": [
+    {
+      "eul_wid": "rye-bb",
+      "title": {
+        "english": "Consular to Emperor Jovian",
+        "ancient_greek": "Ὑπατικὸς εἰς τὸν αὐτοκράτορα Ἰοβιανόν"
+      },
+      "url_slug": "themistius-consular-jovian-rye-bb",
+      "passages": 30,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/consular-jovian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-consular-jovian-rye-bb.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-consular-jovian-rye-bb.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-consular-jovian-rye-bb.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-consular-jovian-rye-bb.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/consular-jovian.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-af",
+      "title": {
+        "english": "Deceteric or-Appropriate Speeches to the King",
+        "ancient_greek": "Δεκετηρικὸς ἢ περὶ τῶν πρεπόντων λόγων τῷ βασιλεῖ"
+      },
+      "url_slug": "themistius-deeteric-king-speeches-rye-af",
+      "passages": 43,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/deeteric-king-speeches",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-deeteric-king-speeches-rye-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-deeteric-king-speeches-rye-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-deeteric-king-speeches-rye-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-deeteric-king-speeches-rye-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/deeteric-king-speeches.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-bd",
+      "title": {
+        "english": "Discourse-the Word",
+        "ancient_greek": "Ἡ ἐπὶ τῷ λόγῳ διάλεξις"
+      },
+      "url_slug": "themistius-discourse-the-word-rye-bd",
+      "passages": 10,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/discourse-the-word",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-discourse-the-word-rye-bd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-discourse-the-word-rye-bd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-discourse-the-word-rye-bd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-discourse-the-word-rye-bd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/discourse-the-word.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-ay",
+      "title": {
+        "english": "Embassy to Emperor Theodosius",
+        "ancient_greek": "Πρεσβευτικὸς εἰς Θεοδόσιον αὐτοκράτορα"
+      },
+      "url_slug": "themistius-embassy-theodosius-rye-ay",
+      "passages": 14,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/embassy-theodosius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-theodosius-rye-ay.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-theodosius-rye-ay.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-theodosius-rye-ay.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-theodosius-rye-ay.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/embassy-theodosius.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-ac",
+      "title": {
+        "english": "Embassy-Behalf of Constantinople Delivered in Rome",
+        "ancient_greek": "Πρεσβευτικὸς ὑπὲρ Κωνσταντινουπόλεως ῥηθεὶς ἐν"
+      },
+      "url_slug": "themistius-embassy-constantinople-rome-rye-ac",
+      "passages": 30,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/embassy-constantinople-rome",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-constantinople-rome-rye-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-constantinople-rome-rye-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-constantinople-rome-rye-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-constantinople-rome-rye-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/embassy-constantinople-rome.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-bi",
+      "title": {
+        "english": "Epitaph-the Father",
+        "ancient_greek": "Ἐπιτάφιος ἐπὶ τῷ πατρί"
+      },
+      "url_slug": "themistius-epitaph-father-rye-bi",
+      "passages": 28,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/epitaph-father",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-epitaph-father-rye-bi.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-epitaph-father-rye-bi.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-epitaph-father-rye-bi.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-epitaph-father-rye-bi.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/epitaph-father.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-bc",
+      "title": {
+        "english": "Erotic or-Royal Beauty",
+        "ancient_greek": "Ἐρωτικὸς ἢ περὶ κάλλους βασιλικοῦ"
+      },
+      "url_slug": "themistius-erotic-beauty-rye-bc",
+      "passages": 70,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/erotic-beauty",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-erotic-beauty-rye-bc.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-erotic-beauty-rye-bc.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-erotic-beauty-rye-bc.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-erotic-beauty-rye-bc.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/erotic-beauty.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-al",
+      "title": {
+        "english": "Exhortation to Nicomedians-Philosophy",
+        "ancient_greek": "Προτρεπτικὸς Νικομηδεῦσιν εἰς φιλοσοφίαν"
+      },
+      "url_slug": "themistius-exhortation-nicomedians-rye-al",
+      "passages": 34,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/exhortation-nicomedians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-nicomedians-rye-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-nicomedians-rye-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-nicomedians-rye-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-nicomedians-rye-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/exhortation-nicomedians.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-at",
+      "title": {
+        "english": "Exhortation to Young Valentinian",
+        "ancient_greek": "Προτρεπτικὸς Οὐαλεντινιανῷ νέῳ"
+      },
+      "url_slug": "themistius-exhortation-valentinian-rye-at",
+      "passages": 33,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/exhortation-valentinian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/exhortation-valentinian.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-az",
+      "title": {
+        "english": "Moderate or Fond of Children",
+        "ancient_greek": "Μετριοπαθὴς ἢ φιλότεκνος"
+      },
+      "url_slug": "themistius-moderate-children-rye-az",
+      "passages": 33,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/moderate-children",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-moderate-children-rye-az.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-moderate-children-rye-az.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-moderate-children-rye-az.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-moderate-children-rye-az.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/moderate-children.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-ao",
+      "title": {
+        "english": "On Aristotle's Physics, Paraphrase",
+        "ancient_greek": "Περὶ τῆς Ἀριστοτέλους Φυσικῆς"
+      },
+      "url_slug": "themistius-physics-paraphrase-rye-ao",
+      "passages": 237,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/physics-paraphrase",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-physics-paraphrase-rye-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-physics-paraphrase-rye-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-physics-paraphrase-rye-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-physics-paraphrase-rye-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/physics-paraphrase.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-bj",
+      "title": {
+        "english": "On Friendship",
+        "ancient_greek": "Περὶ φιλίας"
+      },
+      "url_slug": "themistius-friendship-rye-bj",
+      "passages": 69,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/friendship",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-friendship-rye-bj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-friendship-rye-bj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-friendship-rye-bj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-friendship-rye-bj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/friendship.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-ai",
+      "title": {
+        "english": "On Not Paying Attention to Places but to Men",
+        "ancient_greek": "Περὶ τοῦ μὴ δεῖν τοῖς τόποις ἀλλὰ τοῖς ἀνδράσι"
+      },
+      "url_slug": "themistius-attention-men-rye-ai",
+      "passages": 33,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/attention-men",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-attention-men-rye-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-attention-men-rye-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-attention-men-rye-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-attention-men-rye-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/attention-men.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-ax",
+      "title": {
+        "english": "On Philanthropy or Constantius",
+        "ancient_greek": "Περὶ φιλανθρωπίας ἢ Κωνστάντιος"
+      },
+      "url_slug": "themistius-philanthropy-constantius-rye-ax",
+      "passages": 65,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/philanthropy-constantius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philanthropy-constantius-rye-ax.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philanthropy-constantius-rye-ax.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philanthropy-constantius-rye-ax.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philanthropy-constantius-rye-ax.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/philanthropy-constantius.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-bk",
+      "title": {
+        "english": "On Prudence",
+        "ancient_greek": "Περὶ φρονήσεως"
+      },
+      "url_slug": "themistius-prudence-rye-bk",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/prudence",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-prudence-rye-bk.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-prudence-rye-bk.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-prudence-rye-bk.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-prudence-rye-bk.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/prudence.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-ag",
+      "title": {
+        "english": "On Speaking or How the Philosopher Should Speak",
+        "ancient_greek": "〈Ὑπὲρ τοῦ λέγειν ἢ πῶς τῷ φιλοσόφῳ λεκτέον〉"
+      },
+      "url_slug": "themistius-speaking-philosopher-rye-ag",
+      "passages": 64,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/speaking-philosopher",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-speaking-philosopher-rye-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-speaking-philosopher-rye-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-speaking-philosopher-rye-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-speaking-philosopher-rye-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/speaking-philosopher.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-ba",
+      "title": {
+        "english": "On the King's Love of Praise",
+        "ancient_greek": "Περὶ τῆς τοῦ βασιλέως φιληκοΐας"
+      },
+      "url_slug": "themistius-kings-praise-rye-ba",
+      "passages": 31,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/kings-praise",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-kings-praise-rye-ba.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-kings-praise-rye-ba.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-kings-praise-rye-ba.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-kings-praise-rye-ba.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/kings-praise.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-an",
+      "title": {
+        "english": "On the Names of the King and the Consul",
+        "ancient_greek": "〈Περὶ τῶν ὀνομάτων τοῦ βασιλέως καὶ τοῦ ὑπάτου〉"
+      },
+      "url_slug": "themistius-names-king-consul-rye-an",
+      "passages": 12,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/names-king-consul",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-names-king-consul-rye-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-names-king-consul-rye-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-names-king-consul-rye-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-names-king-consul-rye-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/names-king-consul.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-av",
+      "title": {
+        "english": "On the Ordination of the Polity",
+        "ancient_greek": "Ἐπὶ τῇ χειροτονίᾳ τῆς πολιαρχίας"
+      },
+      "url_slug": "themistius-ordination-polity-rye-av",
+      "passages": 12,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/ordination-polity",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-ordination-polity-rye-av.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-ordination-polity-rye-av.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-ordination-polity-rye-av.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-ordination-polity-rye-av.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/ordination-polity.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-bg",
+      "title": {
+        "english": "On the Peace of Valens",
+        "ancient_greek": "Ἐπὶ τῆς εἰρήνης Οὐάλεντι"
+      },
+      "url_slug": "themistius-peace-valens-rye-bg",
+      "passages": 50,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/peace-valens",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-peace-valens-rye-bg.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-peace-valens-rye-bg.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-peace-valens-rye-bg.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-peace-valens-rye-bg.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/peace-valens.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-aj",
+      "title": {
+        "english": "On the Philanthropy of Emperor Theodosius",
+        "ancient_greek": "Ἐπὶ τῇ φιλανθρωπίᾳ τοῦ αὐτοκράτορος Θεοδοσίου"
+      },
+      "url_slug": "themistius-philanthropy-theodosius-rye-aj",
+      "passages": 31,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/philanthropy-theodosius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philanthropy-theodosius-rye-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philanthropy-theodosius-rye-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philanthropy-theodosius-rye-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philanthropy-theodosius-rye-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/philanthropy-theodosius.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-aw",
+      "title": {
+        "english": "On the Presidency in the Senate",
+        "ancient_greek": "Περὶ προεδρίας εἰς τὴν σύγκλητον"
+      },
+      "url_slug": "themistius-presidency-senate-rye-aw",
+      "passages": 15,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/presidency-senate",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-presidency-senate-rye-aw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-presidency-senate-rye-aw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-presidency-senate-rye-aw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-presidency-senate-rye-aw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/presidency-senate.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-bl",
+      "title": {
+        "english": "On the Soul",
+        "ancient_greek": "Περὶ ψυχῆς"
+      },
+      "url_slug": "themistius-soul-rye-bl",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/soul",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-soul-rye-bl.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-soul-rye-bl.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-soul-rye-bl.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-soul-rye-bl.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/soul.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-au",
+      "title": {
+        "english": "On Those Who Failed Under Valens",
+        "ancient_greek": "Περὶ τῶν ἠτυχηκότων ἐπὶ Οὐάλεντος"
+      },
+      "url_slug": "themistius-failed-valens-rye-au",
+      "passages": 66,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/failed-valens",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-failed-valens-rye-au.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-failed-valens-rye-au.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-failed-valens-rye-au.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-failed-valens-rye-au.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/failed-valens.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-aa",
+      "title": {
+        "english": "Oration to Emperor Constantius on the Philosopher King",
+        "ancient_greek": "Εἰς Κωνστάντιον τὸν αὐτοκράτορα, ὅτι μάλιστα"
+      },
+      "url_slug": "themistius-oration-constantius-philosopher-king-rye-aa",
+      "passages": 56,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/oration-constantius-philosopher-king",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-oration-constantius-philosopher-king-rye-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-oration-constantius-philosopher-king-rye-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-oration-constantius-philosopher-king-rye-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-oration-constantius-philosopher-king-rye-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/oration-constantius-philosopher-king.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-ar",
+      "title": {
+        "english": "Paraphrase of On the Soul",
+        "ancient_greek": "Σχόλια εἰς τὰ Ἀριστοτέλους περὶ ψυχῆς"
+      },
+      "url_slug": "themistius-commentary-aristotle-ar-rye-ar",
+      "passages": 127,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/commentary-aristotle-ar",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-commentary-aristotle-ar-rye-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-commentary-aristotle-ar-rye-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-commentary-aristotle-ar-rye-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-commentary-aristotle-ar-rye-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/commentary-aristotle-ar.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-as",
+      "title": {
+        "english": "Paraphrase of Parva Naturalia",
+        "ancient_greek": "Σχόλια εἰς τὰ Παρὰ Φυσικά"
+      },
+      "url_slug": "themistius-commentary-aristotle-as-rye-as",
+      "passages": 45,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/commentary-aristotle-as",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-commentary-aristotle-as-rye-as.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-commentary-aristotle-as-rye-as.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-commentary-aristotle-as-rye-as.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-commentary-aristotle-as-rye-as.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/commentary-aristotle-as.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-ap",
+      "title": {
+        "english": "Paraphrase Of Posterior Analytics",
+        "ancient_greek": "Παράφρασις τῶν Ἀναλυτικῶν Ὑστέρων"
+      },
+      "url_slug": "themistius-posterior-analytics-rye-ap",
+      "passages": 67,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/posterior-analytics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-posterior-analytics-rye-ap.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-posterior-analytics-rye-ap.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-posterior-analytics-rye-ap.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-posterior-analytics-rye-ap.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/posterior-analytics.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-bm",
+      "title": {
+        "english": "Penteteric",
+        "ancient_greek": "Πενταετηρικός"
+      },
+      "url_slug": "themistius-penteteric-rye-bm",
+      "passages": 72,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/penteteric",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-penteteric-rye-bm.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-penteteric-rye-bm.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-penteteric-rye-bm.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-penteteric-rye-bm.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/penteteric.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-aq",
+      "title": {
+        "english": "Philadelphians or-Philanthropy",
+        "ancient_greek": "Φιλάδελφοι ἢ περὶ φιλανθρωπίας"
+      },
+      "url_slug": "themistius-philanthropy-rye-aq",
+      "passages": 50,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/philanthropy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philanthropy-rye-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philanthropy-rye-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philanthropy-rye-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philanthropy-rye-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/philanthropy.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-bn",
+      "title": {
+        "english": "Philopolis",
+        "ancient_greek": "〈Φ〉ιλόπολις"
+      },
+      "url_slug": "themistius-philopolis-rye-bn",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/philopolis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philopolis-rye-bn.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philopolis-rye-bn.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philopolis-rye-bn.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philopolis-rye-bn.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/philopolis.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-bo",
+      "title": {
+        "english": "Sophist",
+        "ancient_greek": "Σοφιστής"
+      },
+      "url_slug": "themistius-sophist-rye-bo",
+      "passages": 58,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/sophist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-sophist-rye-bo.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-sophist-rye-bo.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-sophist-rye-bo.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-sophist-rye-bo.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/sophist.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-ab",
+      "title": {
+        "english": "Thanksgiving to the Emperor for the Peace and Consulship of General Saturninus",
+        "ancient_greek": "Χαριστήριος τῷ αὐτοκράτορι ὑπὲρ τῆς εἰρήνης καὶ"
+      },
+      "url_slug": "themistius-peace-consulship-saturninus-rye-ab",
+      "passages": 53,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/peace-consulship-saturninus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-peace-consulship-saturninus-rye-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-peace-consulship-saturninus-rye-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-peace-consulship-saturninus-rye-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-peace-consulship-saturninus-rye-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/peace-consulship-saturninus.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-ae",
+      "title": {
+        "english": "Themistius's Commentary on Aristotle's Prior Analytics, Book I",
+        "ancient_greek": "Ἡ φερομένη εἰς τὸν Ἀριστοτέλους Ἀναλυτικῶν"
+      },
+      "url_slug": "themistius-commentary-prior-analytics-1-rye-ae",
+      "passages": 165,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/commentary-prior-analytics-1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-commentary-prior-analytics-1-rye-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-commentary-prior-analytics-1-rye-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-commentary-prior-analytics-1-rye-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-commentary-prior-analytics-1-rye-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/commentary-prior-analytics-1.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-be",
+      "title": {
+        "english": "Thesis-Whether to Farm",
+        "ancient_greek": "Θέσις εἰ γεωργητέον"
+      },
+      "url_slug": "themistius-whether-to-farm-rye-be",
+      "passages": 15,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/whether-to-farm",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-whether-to-farm-rye-be.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-whether-to-farm-rye-be.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-whether-to-farm-rye-be.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-whether-to-farm-rye-be.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/whether-to-farm.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-bh",
+      "title": {
+        "english": "To Emperor Constantius",
+        "ancient_greek": "Εἰς τὸν αὐτοκράτορα Κωνστάντιον"
+      },
+      "url_slug": "themistius-constantius-rye-bh",
+      "passages": 49,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/constantius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-constantius-rye-bh.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-constantius-rye-bh.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-constantius-rye-bh.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-constantius-rye-bh.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/constantius.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-am",
+      "title": {
+        "english": "To the One Who Demanded Immediate Speech",
+        "ancient_greek": "Πρὸς τὸν ἀξιώσαντα λέγειν ἐκ τοῦ παραχρῆμα"
+      },
+      "url_slug": "themistius-immediate-speech-rye-am",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/immediate-speech",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-immediate-speech-rye-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-immediate-speech-rye-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-immediate-speech-rye-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-immediate-speech-rye-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/immediate-speech.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-ad",
+      "title": {
+        "english": "To Theodosius, Which is the Most Royal of Virtues",
+        "ancient_greek": "Εἰς Θεοδόσιον· τίς ἡ βασιλικωτάτη τῶν ἀρετῶν"
+      },
+      "url_slug": "themistius-to-theodosius-virtues-rye-ad",
+      "passages": 55,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/to-theodosius-virtues",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-to-theodosius-virtues-rye-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-to-theodosius-virtues-rye-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-to-theodosius-virtues-rye-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-to-theodosius-virtues-rye-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/to-theodosius-virtues.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-ak",
+      "title": {
+        "english": "To Those Accusing-Accepting the Office",
+        "ancient_greek": "Πρὸς τοὺς αἰτιασαμένους ἐπὶ τῷ δέξασθαι τὴν ἀρχήν"
+      },
+      "url_slug": "themistius-accusing-office-rye-ak",
+      "passages": 31,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/accusing-office",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-accusing-office-rye-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-accusing-office-rye-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-accusing-office-rye-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-accusing-office-rye-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/accusing-office.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-ah",
+      "title": {
+        "english": "To Those Not Correctly Interpreting the Sophist",
+        "ancient_greek": "Πρὸς τοὺς οὐκ ὀρθῶς ἐξηγουμένους τὸν σοφιστήν"
+      },
+      "url_slug": "themistius-interpreting-sophist-rye-ah",
+      "passages": 18,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/interpreting-sophist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-interpreting-sophist-rye-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-interpreting-sophist-rye-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-interpreting-sophist-rye-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-interpreting-sophist-rye-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/interpreting-sophist.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-bf",
+      "title": {
+        "english": "Tormentor or Philosopher",
+        "ancient_greek": "Βασανιστὴς ἢ φιλόσοφος"
+      },
+      "url_slug": "themistius-tormentor-philosopher-rye-bf",
+      "passages": 72,
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/tormentor-philosopher",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-tormentor-philosopher-rye-bf.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-tormentor-philosopher-rye-bf.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-tormentor-philosopher-rye-bf.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-tormentor-philosopher-rye-bf.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/tormentor-philosopher.epub"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "ovu",
+      "name": {
+        "english": "Aetius the Doxographer",
+        "ancient_greek": "Ἀέτιος ὁ Δοξογράφος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/aetius-the-doxographer",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aetius-the-doxographer-ovu.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aetius-the-doxographer-ovu.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aetius-the-doxographer-ovu.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aetius-the-doxographer-ovu.en.json"
+      }
+    },
+    {
+      "eul_aid": "msk",
+      "name": {
+        "english": "Antiochus of Ascalon",
+        "ancient_greek": "Ἀντίοχος ὁ Ἀσκαλώνιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/antiochus-of-ascalon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antiochus-of-ascalon-msk.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antiochus-of-ascalon-msk.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antiochus-of-ascalon-msk.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antiochus-of-ascalon-msk.en.json"
+      }
+    },
+    {
+      "eul_aid": "tni",
+      "name": {
+        "english": "John Stobaeus of Stobi",
+        "ancient_greek": "Ἰωάννης ὁ Στοβαῖος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/john-stobaeus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/john-stobaeus-tni.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/john-stobaeus-tni.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/john-stobaeus-tni.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/john-stobaeus-tni.en.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/themistius",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/themistius-rye.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/themistius-rye.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/themistius-rye.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/themistius-rye.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

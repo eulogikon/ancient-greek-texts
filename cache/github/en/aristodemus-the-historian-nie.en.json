@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "nie",
+  "auth_slug": "aristodemus-the-historian",
+  "name": {
+    "english": "Aristodemus the Historian",
+    "ancient_greek": "Ἀριστόδημος ὁ ἱστορικός"
+  },
+  "seo_h1": "Aristodemus the Historian on Salamis and Mardonius",
+  "seo": {
+    "browser_title": "Aristodemus the Historian on Eulogikon Greek Archive",
+    "meta_title": "Classical Aristodemus the Historian Ancient Greek Works",
+    "meta_description": "Aristodemus the Historian, a Hellenistic era writer. Surviving historical fragments and works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Aristodemus the Historian was a Greek historian active in the late Hellenistic or early Roman Imperial period, likely in the first century BCE or first century CE. He is often tentatively identified as Aristodemus of Nysa, a grammarian and historian, though the details of his life and birthplace remain obscure.</p>\n<p class=\"research-text\">His two known works survive only in fragments. According to the Suda, he wrote <strong>Events after Polybius</strong>, a history covering the period from 144/3 to around 86 BCE, which included the Social War and the First Mithridatic War. He is also credited with an <strong>Early History of Rome</strong>, which is cited by Dionysius of Halicarnassus.</p>\n<p class=\"research-text\">Aristodemus’s significance lies in his role as a source for later historians. His work bridged the gap between the histories of Polybius and later Roman-era historians, providing valuable evidence for the second and first centuries BCE. His fragments were used by later compilers such as Diodorus Siculus and Plutarch for their accounts of the Mithridatic Wars.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "nie-ab",
+      "title": {
+        "english": "Fragments on Mardonius",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μαρδονίου"
+      },
+      "url_slug": "aristodemus-the-historian-mardonius-fragments-nie-ab",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristodemus-the-historian/mardonius-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristodemus-the-historian-mardonius-fragments-nie-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristodemus-the-historian-mardonius-fragments-nie-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristodemus-the-historian-mardonius-fragments-nie-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristodemus-the-historian-mardonius-fragments-nie-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristodemus-the-historian/mardonius-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "nie-aa",
+      "title": {
+        "english": "Fragments on the Battle of Salamis",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς ἐν Σαλαμῖνι Ναυμαχίας"
+      },
+      "url_slug": "aristodemus-the-historian-battle-salamis-nie-aa",
+      "passages": 9,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristodemus-the-historian/battle-salamis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristodemus-the-historian-battle-salamis-nie-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristodemus-the-historian-battle-salamis-nie-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristodemus-the-historian-battle-salamis-nie-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristodemus-the-historian-battle-salamis-nie-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristodemus-the-historian/battle-salamis.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/aristodemus-the-historian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristodemus-the-historian-nie.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristodemus-the-historian-nie.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristodemus-the-historian-nie.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristodemus-the-historian-nie.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "fdm",
+  "auth_slug": "heniochus-the-comic-poet",
+  "name": {
+    "english": "Heniochus the Comic Poet",
+    "ancient_greek": "Ἡνίοχος ὁ Κωμικός"
+  },
+  "seo_h1": "Food, Drink, and Philosophical Banter in Heniochus",
+  "seo": {
+    "browser_title": "Heniochus the Comic Poet on Eulogikon Greek Archive",
+    "meta_title": "Heniochus Ancient Greek Comedy and Fragments Works",
+    "meta_description": "Heniochus was a 4th century BCE Athenian comic poet of Middle Comedy. Two fragmentary works survive. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Heniochus was an Athenian comic poet active in the 4th century BCE, a period of transition from the political satire of Old Comedy to the more mythological and domestic themes of Middle Comedy. He is a minor figure, known only from brief ancient references and a handful of surviving fragments from his lost plays.</p>\n<p class=\"research-text\">The primary record of his career comes from a 10th-century Byzantine encyclopedia, which lists seven play titles attributed to him. However, only two titles are confirmed by surviving fragments: <strong>Polypragmon</strong> (&quot;The Busybody&quot;) and <strong>Gorgones</strong> (&quot;The Gorgons&quot;). These fragments are preserved because they were quoted by later authors, such as the scholar Athenaeus.</p>\n<p class=\"research-text\">The date of his activity is somewhat uncertain; an ancient source places him in the 5th century, but modern scholars firmly locate him in the 4th century among poets like Eubulus and Antiphanes. Heniochus represents the broader trends of Middle Comedy. His choice of subjects, like the mythological <strong>Gorgones</strong>, shows the genre&#x27;s shift away from direct political commentary. The scant remains of his work, while not allowing for a deep analysis of his personal style, are valuable for helping map the evolution of Athenian comedy during this period.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "fdm-aa",
+      "title": {
+        "english": "Comic Fragments on Food and Drink",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σιτίων καὶ Ποτῶν"
+      },
+      "url_slug": "heniochus-the-comic-poet-comic-food-drink-fdm-aa",
+      "passages": 29,
+      "links": {
+        "html": "https://eulogikon.org/grc/heniochus-the-comic-poet/comic-food-drink",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heniochus-the-comic-poet-comic-food-drink-fdm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heniochus-the-comic-poet-comic-food-drink-fdm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heniochus-the-comic-poet-comic-food-drink-fdm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heniochus-the-comic-poet-comic-food-drink-fdm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heniochus-the-comic-poet/comic-food-drink.epub"
+      }
+    },
+    {
+      "eul_wid": "fdm-ab",
+      "title": {
+        "english": "Symposium and Philosophical Banter",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "heniochus-the-comic-poet-symposium-fdm-ab",
+      "passages": 29,
+      "links": {
+        "html": "https://eulogikon.org/grc/heniochus-the-comic-poet/symposium",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heniochus-the-comic-poet-symposium-fdm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heniochus-the-comic-poet-symposium-fdm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heniochus-the-comic-poet-symposium-fdm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heniochus-the-comic-poet-symposium-fdm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heniochus-the-comic-poet/symposium.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/heniochus-the-comic-poet",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heniochus-the-comic-poet-fdm.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heniochus-the-comic-poet-fdm.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heniochus-the-comic-poet-fdm.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heniochus-the-comic-poet-fdm.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

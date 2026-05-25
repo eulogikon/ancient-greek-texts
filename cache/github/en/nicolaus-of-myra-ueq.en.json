@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ueq",
+  "auth_slug": "nicolaus-of-myra",
+  "name": {
+    "english": "Nicolaus of Myra",
+    "ancient_greek": "Νικόλαος ὁ Μυρένσιος"
+  },
+  "seo_h1": "Nicolaus of Myra and the Preliminary Exercises in Rhetoric",
+  "seo": {
+    "browser_title": "Nicolaus of Myra on Eulogikon Greek Archive and Library",
+    "meta_title": "Classical Nicolaus of Myra Ancient Greek Orations and Works",
+    "meta_description": "Nicolaus of Myra, a late antique Atticizing orator of the 5th-6th century CE. Three surviving orations. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα τεχνική",
+      "english": "Atticizing Technical",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Nicolaus of Myra was a Greek rhetorician and sophist from Lycia, active in the late fifth or sixth century CE. He is known solely as the author of a surviving Progymnasmata, indicating he was a teacher of rhetoric within the educational tradition extending from the Second Sophistic into the Byzantine era. No further biographical details are recorded.</p>\n<p class=\"research-text\">His sole attested work is the Progymnasmata, a textbook of preliminary rhetorical exercises. It systematically covers standard forms including fable, narrative, chreia, encomium, invective, speech-in-character, and description. The manual survives as a complete treatise.</p>\n<p class=\"research-text\">Nicolaus’s Progymnasmata is a key source for understanding the continuity of rhetorical education from Hellenistic through late antique and into Byzantine practice. It follows the tradition of earlier manuals by Theon, Hermogenes, and Aphthonius, providing insight into contemporary pedagogical methods and the enduring stylistic ideals of Atticizing technical prose.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 3,
+  "works": [
+    {
+      "eul_wid": "ueq-ab",
+      "title": {
+        "english": "Preliminary Exercises (Complete)",
+        "ancient_greek": "Προγυμνάσματα"
+      },
+      "url_slug": "nicolaus-of-myra-preliminary-exercises-ab-ueq-ab",
+      "passages": 79,
+      "links": {
+        "html": "https://eulogikon.org/grc/nicolaus-of-myra/preliminary-exercises-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra-preliminary-exercises-ab-ueq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra-preliminary-exercises-ab-ueq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra-preliminary-exercises-ab-ueq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra-preliminary-exercises-ab-ueq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra/preliminary-exercises-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "ueq-aa",
+      "title": {
+        "english": "Preliminary Exercises (On Comparison)",
+        "ancient_greek": "Προγυμνάσματα (κεφάλαιον περὶ συγκρίσεως)"
+      },
+      "url_slug": "nicolaus-of-myra-preliminary-exercises-aa-ueq-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/nicolaus-of-myra/preliminary-exercises-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra-preliminary-exercises-aa-ueq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra-preliminary-exercises-aa-ueq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra-preliminary-exercises-aa-ueq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra-preliminary-exercises-aa-ueq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra/preliminary-exercises-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "ueq-ac",
+      "title": {
+        "english": "Preliminary Exercises (Selected Chapters)",
+        "ancient_greek": "Προγυμνάσματα (κεφάλαια περὶ συγκρίσεως, περὶ ἠθοποιίας, περὶ ἐκφράσεως, περὶ θέσεως, περὶ νόμου)"
+      },
+      "url_slug": "nicolaus-of-myra-preliminary-exercises-ac-ueq-ac",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/nicolaus-of-myra/preliminary-exercises-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra-preliminary-exercises-ac-ueq-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra-preliminary-exercises-ac-ueq-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra-preliminary-exercises-ac-ueq-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra-preliminary-exercises-ac-ueq-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra/preliminary-exercises-ac.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/nicolaus-of-myra",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nicolaus-of-myra-ueq.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nicolaus-of-myra-ueq.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nicolaus-of-myra-ueq.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nicolaus-of-myra-ueq.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

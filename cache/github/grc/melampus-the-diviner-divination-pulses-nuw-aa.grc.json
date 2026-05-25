@@ -1,0 +1,996 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "nuw-aa",
+  "eul_aid": "nuw",
+  "author_slug": "melampus-the-diviner",
+  "work_slug": "divination-pulses",
+  "url_slug": "melampus-the-diviner-divination-pulses-nuw-aa",
+  "author": {
+    "english": "Melampus the Diviner",
+    "ancient_greek": "Μέλαμπους ὁ Μάντις"
+  },
+  "title": {
+    "english": "On Divination by Pulses to King Ptolemy",
+    "ancient_greek": "Περὶ παλμῶν μαντικὴ πρὸς Πτολεμαῖον βασιλέα"
+  },
+  "seo": {
+    "browser_title": "On Divination by Pulses to King Ptolemy by Melampus...",
+    "meta_title": "On Divination by Pulses to King Ptolemy by Melampus in Greek",
+    "meta_description": "Melampus reveals the art of divination through bodily pulses, offering King Ptolemy a systematic guide to Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The treatise <strong>On Divination by Pulses to King Ptolemy</strong> is a technical manual on palmomancy, the ancient art of deriving prophetic meaning from involuntary bodily twitches or pulsations. Addressed to an unspecified Ptolemaic monarch, the work systematically catalogs 108 specific oracular pronouncements, each correlating a pulse in a particular body part with a forecast for the future. For instance, a throbbing in the right eyebrow is interpreted as a sign that one will see friends, while a pulsation in the head may warn of a plot or loss from a relative. The methodology relies heavily on sympathetic symbolism, where the symbolic associations or physical location of the body part, such as the distinction between right and left sides, directly informs the nature of the prediction. Although presented under the name of the mythical seer Melampus, renowned in tradition for his prophetic and healing abilities, the treatise is a pseudepigraphical composition typical of the Hellenistic period. It represents the systematization of a minor branch of &quot;involuntary&quot; divination, blending folk belief with proto-medical observation. The text survives within the broader corpus of Greek divinatory literature, preserved in medieval manuscripts and extant in modern critical editions. Its significance lies in illustrating how arcane knowledge was organized and presented under royal patronage, and in documenting the pervasive ancient desire to find meaning and omens in commonplace physical sensations, a tradition with enduring folk parallels.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t",
+      "text": "ΜΕΛΑΜΠΟΔΟΣ ΙΕΡΟΓΡΑΜΜΑΤΕΩΣ ΠΕΡΙ ΠΑΛΜΩΝ ΜΑΝΤΙΚΗ ΠΡΟΣ ΠΤΟΛΕΜΑΙΟΝ ΒΑΣΙΛΕΑ. Ὅσα μὲν ταῖς ἔμπροσθεν βίβλοις, κράτιστε βασιλεῦ Πτολεμαῖε, συνέγραψά σοι, ἐκ τῶν ἀδύτων στηλῶν τὰ τέρατα σημειωσάμενος καὶ τὰ σύμβολα συνέγραψα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "prol",
+      "text": "ἐπεὶ δὲ καὶ νῦν ἀπέστειλάς μοι συγγράψασθαί σοι περὶ τῶν γινομένων παλμῶν ἐν τοῖς μέλεσι τῶν ἀνθρώπων μεγάλην καὶ ἡδίστην ἡγοῦμαι τὴν ἐπιταγὴν ταύτην. καὶ ἑτέρων οὖν τετυχηκὼς δωρεῶν συνέλεξά σοι καὶ τάδε. Κορυφὴ ἐὰν ἅλληται, λύπας καὶ ἀηδίας σημαίνει ἢ ὁδὸν πορευθῆναι μακράν, δούλῳ ὕβριν, παρθένῳ ἄνδρα, χήρᾳ λύπην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "ἐν ἄλλοις· ἔκφευξιν κακῶν, δῆθεν κακῶς πράσσοντι· παρθένῳ γάμον, ὅτι ὁ Ζεὺς τὴν Ἀθηνᾶν ἐκ τῆς κορυφῆς ἔκτισε· χήρᾳ ὁμοίως γάμον, πλουσίῳ ζημίαν καὶ ἐπιβουλήν, στρατιώτῃ προκοπήν, ναύτῃ χειμῶνα· ἐπὶ δὲ κορυφῆς αὐτοῦ οἱ χειμαζόμενοι σωθήσονται. Κεφαλὴ ἐὰν ἅλληται ἢ αἱ τρίχες ὀρθαὶ ἱστῶνται ἢ ἐν ἀκαίρῳ φρίσσωσιν ἐπιμόνως πλείονα χρόνον, ἐπιβουλὴν σημαίνει ἢ ἀπὸ φίλου τινὸς καὶ συγγενοῦς ζημίαν· δούλῳ νόσον, παρθένῳ ψόγον, χήρᾳ ὕβριν, πενομένοις καὶ ἐν ἐνδείᾳ τυγχάνουσιν ἀγαθὰ δηλοῖ, πλουσίοις ἀσθένειαν καὶ ἐπανάστασιν τοῦ βίου, νοσοῦντι δὲ ζωήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "ἄλλως· Κεφαλὴ ἐὰν ἅλληται ἐπὶ πλείονα χρόνον, κακόν τι σημαίνει· δούλῳ δεσπότου θάνατον, χήρᾳ βλάβην. ἐν ἄλλοις ὑποταγὴν καὶ αὖθις ἐλευθερίαν δηλοῖ. Κεφαλὴ ὅλη ἐὰν ἅλληται, θάνατον δηλοῖ· ἐν ἄλλοις ἀγαθὰ πολλὰ σημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "Κεφαλῆς τὸ ὄπισθεν μέρος μέχρι τοῦ κύκλου ἐὰν ἅλληται, κατὰ πάντα ἐχθρῶν καὶ 〈ἀντιδίκων〉 ἐπιβουλὴν δηλοῖ καὶ οἰκείων θάνατον· τοῖς δὲ λοιποῖς συμφοράν· δούλῳ ἀγαθόν, παρθένῳ ἐπιτυχίαν καλοῦ ἀνδρός, χήρᾳ νόσον· ἐν ἄλλοις πλουσίῳ κίνδυνον, γεωργῷ κόπον. Κεφαλῆς τὸ δεξιὸν μέρος ἐὰν ἅλληται, ἀγαθὸν δηλοῖ· δούλῳ χαρὰν καὶ ἐλευθερίαν, παρθένῳ ψόγον, χήρᾳ καλὸν καὶ ἐπιμονὴν τῆς χηρείας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "Κεφαλῆς τὸ ἀριστερὸν μέρος ἐὰν ἅλληται, βλάβην δηλοῖ· πλουσίῳ εὐωχίαν, δούλῳ μετάβασιν οἰκίας, παρθένῳ ψόγον, χήρᾳ ὕβριν. Ἐγκέφαλος ἐὰν ἅλληται, νόσον δηλοῖ τῷ ὑγιαίνοντι· τῷ νοσοῦντι δὲ ὑγείαν καὶ αὔξησιν τοῦ σώματος καὶ βίου, ἀτέκνοις τέκνον καὶ χαράν, ἐνδήμοις ἀποδημίαν καὶ ἄφιξιν εἰς τὴν ἰδίαν πατρίδα· στρατιώτῃ καὶ ναύτῃ κεφαλῆς κίνδυνον δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "Μέτωπον ἐὰν ἅλληται, ἰταμοῖς καὶ ἀναιδέσι πράγμασιν ἐμπεσεῖσθαι δηλοῖ· δούλῳ δεσπότου θάνατον· παρθένῳ ἐπιβουλήν, χήρᾳ βλάβην. Μετώπου τὸ δεξιὸν μέρος ἐὰν ἅλληται, μέγας καὶ ἐγκρατὴς ἔσται ὁ τοιοῦτος· δούλῳ ὕβριν, παρθένῳ συμβουλήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "Μετώπου ἀριστερὸν μέρος ἐὰν ἅλληται, κατὰ πάντα κακὸν δηλοῖ καὶ κλαυθμόν· δούλῳ ὠφέλειαν, παρθένῳ γάμον, χήρᾳ ψόγον. Μετώπου τὸ μέσον ἐὰν ἅλληται, πένθος δηλοῖ· δούλῳ κακόν, παρθένῳ ὠφέλειαν, χήρᾳ ὕβριν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12",
+      "text": "ἐν ἄλλῳ ἀγαθὸν δηλοῖ ἐν παντί. Κρόταφος δεξιὸς ἐὰν ἅλληται, κατὰ πάντα ἀγαθόν· δούλῳ ἀνωμαλίαν, παρθένῳ εὐωχίαν πρόσκαιρον, χήρᾳ ἀποδημίαν καὶ ὠφέλειαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14",
+      "text": "Κρόταφος εὐώνυμος ἐὰν ἅλληται, κατὰ πάντα ἀγαθόν, ὠφέλειαν ἀπροσδόκητον δηλοῖ· δούλῳ ἀνωμαλίαν, παρθένῳ ἐκκοπὴν γάμων, χήρᾳ ἀγαθόν. Ὀφρὺς δεξιὰ ἐὰν ἅλληται, νόσον δηλοῖ ὀλίγον χρόνον καὶ μετ’ ὀλίγον εὐπορίαν· πένητι πλοῦτον, δούλῳ ἀγαθόν, παρθένῳ ψόγον, χήρᾳ ὕβριν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16",
+      "text": "Ὀφρὺς ἀριστερὰ ἐὰν ἅλληται, ἀγαθὸν πολὺ σημαίνει ἀπροσδόκητον· ἀλλὰ καὶ εὐτυχήσει καὶ πίστιν ἕξει. Ὀφρύων τὸ μέσον ἐὰν ἅλληται, κατὰ φημονόην κακὸν ἅπασι· δούλῳ ἀγαθόν, παρθένῳ συμβουλήν, χήρᾳ ὠφέλειαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18",
+      "text": "Ὀφθαλμὸς δεξιὸς ἐὰν ἅλληται, κατὰ φημονόην καὶ Αἰγυπτίους καὶ Ἀντιφῶντα ἐχθροὺς ὑποχειρίους ἕξει, ἄγει δὲ καὶ ἀποδήμους. Ὀφθαλμοῦ δεξιοῦ τὸ ἄνω βλέφαρον ἐὰν ἅλληται, ἐπίκτησιν πάντως δηλοῖ, κατὰ δὲ Ἀντιφῶντα πρᾶξιν καὶ ὑγείαν· δούλῳ ἐπιβουλήν, χήρᾳ ἀποδημίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20",
+      "text": "Ὀφθαλμοῦ δεξιοῦ τὸ κάτω βλέφαρον ἐὰν ἅλληται, δάκρυα δηλοῖ· δούλῳ ἀγαθόν, παρθένῳ ὕβριν, χήρᾳ ὑποταγήν. Ὀφθαλμοῦ δεξιοῦ κανθὸς ἐὰν ἅλληται ἢ ὁ βόλος, πένητι ἀηδίαν δηλοῖ, δούλῳ διαβολήν, παρθένῳ κίνδυνον, χήρᾳ ψόγον· ἐχθροῦ ἀποδημοῦντος ἐπέλευσιν δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "22",
+      "text": "Ὀφθαλμὸς ἀριστερὸς ἐὰν ἅλληται, ἥξει τις αὐτῷ ἀπὸ ξένης, ὃν μάλιστα ἀγαπᾷ, ἢ αὐτὸς ὁδὸν πορεύσεται· καὶ εἰ προέφυγέ τις ἐξ αὐτοῦ μακρὰν ὁδόν, εὑρήσει τοῦτον. καὶ ἐπὶ θηλυκῶν προσώπων ἐλπίδα δηλοῖ· πένητι δὲ ὁδὸν πορευθῆναι ἐπ’ ἀγαθῷ. ἐν ἄλλοις δὲ πολλὰ κοπιᾶσαι καὶ ὀλίγα κτήσασθαι δηλοῖ. Ὀφθαλμοῦ ἀριστεροῦ τὸ ἄνω βλέφαρον ἐὰν ἅλληται, πένητι ἐπίκτησιν δηλοῖ καὶ εὐπορίαν, δούλῳ ἐπιβουλήν, παρθένῳ ψόγον, χήρᾳ ἀγαθόν, πλουσίῳ εὐωχίαν, γεωργῷ καὶ κυνηγῷ ὠφέλειαν, στρατιώτῃ προκοπήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "24",
+      "text": "Ὀφθαλμοῦ ἀριστεροῦ ὁ δεξιὸς κανθὸς ἐὰν ἅλληται, ἤγουν ὁ πρὸς τὴν ῥῖνα, ὑγείαν καὶ σωτηρίαν δηλοῖ. Ὁ δὲ ἀριστερὸς ἐὰν ἅλληται, ἐπὶ πάντων ἀγαθὸν δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "26",
+      "text": "Ὀφθαλμοῦ ἀριστεροῦ τὸ κάτω βλέφαρον ἐὰν ἅλληται, ἀηδίαν σημαίνει· δούλῳ διαβολήν, παρθένῳ ἀφθαρσίαν, χήρᾳ ὕβριν. Ὀφθαλμοῦ ἀριστεροῦ ὁ κανθὸς ἢ ὁ βόλος ἁλλόμενος ἀηδίας καὶ λύπας δηλοῖ παντί· δούλῳ ὠφέλειαν, παρθένῳ νόσον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "28",
+      "text": "Ὀφθαλμοῦ ἀριστεροῦ ἡ οὐρὰ ἐὰν ἅλληται, ἀγαθὰ πολλὰ δηλοῖ· δούλοις πίστεως ἐπιτυχεῖν ὅθεν ἂν ὠφεληθήσεται, παρθένῳ ψόγον, χήρᾳ λύπην. Ῥινὸς δεξιὸν μέρος ἐὰν ἅλληται, ἀηδίας φυγὴν δηλοῖ, δούλῳ ὠφέλειαν, παρθένῳ συμβουλήν, χήρᾳ ὑποταγήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30",
+      "text": "Ῥινὸς ἀριστερὸν μέρος ἁλλόμενον ἀγαθὰ δηλοῖ ἀπροσδόκητα· δούλῳ ὠφέλειαν, παρθένῳ συμβουλήν, χήρᾳ ὑποταγήν. Τὸ μέσον τῆς ῥινὸς ἁλλόμενον λύπην δηλοῖ, δούλῳ ἀηδίαν, παρθένῳ γάμον, χήρᾳ ψόγον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "32",
+      "text": "Ῥὶς ὅλη ἐὰν ἅλληται κατὰ πάντα ἀγαθὰ δηλοῖ ἀπροσδόκητα. Τὸ ἄκρον τοῦ ἀριστεροῦ μέρους τῆς ῥινὸς ἐὰν ἅλληται, ζημίαν δηλοῖ· δούλῳ κακοπάθειαν, παρθένῳ ψόγον, χήρᾳ διαβολήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "34",
+      "text": "Μυκτὴρ δεξιὸς ἐὰν ἅλληται, ὠφέλειαν δηλοῖ, δούλῳ καὶ παρθένῳ καὶ χήρᾳ ἀηδίαν. Μυκτὴρ ἀριστερὸς ἐὰν ἅλληται, ὠφέλειαν δηλοῖ· δούλῳ οἰκίας μετάστασιν, παρθένῳ ἄνδρα, χήρᾳ ὠφέλειαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "36",
+      "text": "Τὸ μέσον τοῦ μυκτῆρος ἁλλόμενον ζημίαν καὶ ὕβριν δηλοῖ, δούλῳ εὐφρασίαν, χήρᾳ ὠφέλειαν. Μῆλον δεξιὸν ἁλλόμενον ὕβριν ἀπροσδόκητον δηλοῖ· δούλῳ ἀγαθόν, παρθένῳ ὕβριν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "38",
+      "text": "Μῆλον ἀριστερὸν ἁλλόμενον κατὰ πάντα ἀγαθὸν δηλοῖ· δούλῳ μακρὰν ἀποδημίαν, παρθένῳ ψόγον, χήρᾳ ὠφέλειαν. Χεῖλος τὸ ἄνωθεν ἐὰν ἅλληται, διάκρισιν πρός τινα καὶ νίκην σημαίνει· δούλῳ ἀγαθόν, παρθένῳ κέρδος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "40",
+      "text": "Χεῖλος τὸ κάτω ἁλλόμενον ὠφέλειαν ἢ ἔργου ζημίαν δηλοῖ. Σιαγὼν δεξιὰ ἐὰν ἅλληται, ὠφέλειαν δηλοῖ· δούλῳ οἰκονομίαν πιστευθῆναι, παρθένῳ νόσον, χήρᾳ ψόγον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "42",
+      "text": "Σιαγὼν ἀριστερὰ ἁλλομένη λύπην δηλοῖ ἐπὶ πράγματι ὀλίγῳ, δούλῳ ὠφέλειαν, παρθένῳ ψόγον, χήρᾳ εὐφρασίαν. Γνάθος δεξιὰ ἁλλομένη εὐφρασίαν δηλοῖ· δούλῳ πόρον, παρθένῳ συμβουλίαν, χήρᾳ ὠφέλειαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "44",
+      "text": "Γνάθος ἀριστερὰ ἁλλομένη κακοπάθειαν δηλοῖ· δούλῳ νόσον, παρθένῳ ὕβριν, χήρᾳ ἀηδίαν. Ὠτίον δεξιὸν ἁλλόμενον ἢ ἠχοῦν χαρὰν ἐπί τινι σημαίνει· δούλῳ εὐφρασίαν, παρθένῳ ἐπίκτησιν, χήρᾳ ἀγαθόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "46",
+      "text": "Ὠτίον ἀριστερὸν ἁλλόμενον ὑψηλόν τι γενέσθαι δηλοῖ, δούλῳ ἐγχείρησιν μεγάλων πραγμάτων, παρθένῳ ψόγον, χήρᾳ ἀφαίρεσιν. Ὠτίου δεξιοῦ τὸ ἔσωθεν ἁλλόμενον κακόν τι σημεῖον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "48",
+      "text": "Ὠτίου λαιοῦ τὸ ἔσωθεν ἁλλόμενον κακόν τι σημεῖον· ἀκούσεταί τι καὶ οὐ χαρήσεται· δούλῳ δὲ καλόν. Γενείου τὸ δεξιὸν μέρος ἁλλόμενον ἀγαθῶν ἐπίκτησιν δηλοῖ τοῖς πᾶσι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "50",
+      "text": "Γενείου τὸ ἀριστερὸν ἁλλόμενον ἐλπίδας ἀγαθὰς πᾶσι δηλοῖ καὶ πᾶσιν ἀγαθόν. Γένειον ὅλον ἁλλόμενον πολυγηρίαν δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "52",
+      "text": "Οὐρανίσκος ἁλλόμενος εὐφρασίαν δηλοῖ καὶ ζημίαν, τὸ δὲ εὐώνυμον ἀγαθόν. Βρόγχος ἐὰν ἅλληται, δούλῳ καὶ ἐλευθέρῳ ἀγαθὸν δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "54",
+      "text": "Ὀδόντες ἐὰν ἁλλόμενοι συγκρούωσιν, ἀγαθὸν δηλοῦσι. Στόμα ἐὰν ἅλληται, ὄψεταί τινα διὰ πολλοῦ τοῦ χρόνου, ἐφ’ ᾧ καὶ χαρήσεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "56",
+      "text": "Καρδία ἐὰν ἅλληται, ἀγαθὸν δηλοῖ πᾶσιν· ἄλλοις ἱλαρότητα, δούλῳ ἐλευθερίαν, παρθένῳ νωθρείαν, χήρᾳ καὶ στρατιώτῃ εὐφρασίαν, ἐμπόρῳ πρᾶξιν. ἄλλως· ἐπίβουλον φίλον δηλοῖ. Τραχήλου τὸ δεξιὸν μέρος ἐὰν ἅλληται, ἐλευθέρῳ φόβον, δούλῳ δὲ νόσον σημαίνει· τοῖς δὲ λοιποῖς πᾶσι καλόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "58",
+      "text": "Τραχήλου ἀριστερὸν μέρος ἐὰν ἅλληται, ἀγαθόν. Φάρυγγος τὸ δεξιὸν μέρος ἐὰν ἅλληται, εὐφρασίαν δηλοῖ, δούλῳ καὶ ἐλευθέρῳ κέρδος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "60",
+      "text": "Φάρυγγος τὸ λαιὸν μέρος ἁλλόμενον, φεῦξιν ἀηδίας πᾶσι δηλοῖ, ἄλλοις ἐλευθέραν δόξαν σημαίνει, δούλῳ κακὸν ἀκοῦσαι, στρατιώτῃ χρημάτων ἐπίκτησιν, ἀπόρῳ πόρον, ἐπὶ θηλυκῶν προσώπων παρθένῳ ἀηδίαν, κυβερνήτῃ ἔπαινον. Αὐχένος δεξιὸν μέρος ἐὰν ἅλληται, ἀγαθὸν δηλοῖ· δούλῳ μὲν μερίμνας, παρθένῳ δὲ μνηστείαν, χήρᾳ κόπον, στρατιώτῃ ἀμεριμνίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "62",
+      "text": "Τὸ δὲ εὐώνυμον πονηρόν τι δηλοῖ· δούλῳ κόσμον, παρθένῳ ἄνδρα, χήρᾳ εὐφρασίαν· δούλῳ ἀγαθόν, τοῖς δὲ λοιποῖς οὐ καλόν· ἄλλοις ἐπιβουλὴν δηλοῖ. ἐν δὲ στενοχωρίαις ὄντι εὐστάθειαν [κακοῖς], δούλοις νόσον, παρθένῳ εὐωχίαν ἔμψυχον, στρατιώτῃ δάκρυα, ἐμπόρῳ ἀπόδοσιν, κυβερνήτῃ εὔπλοιαν. 〈Κατακλεὶς δεξιὰ〉 *** Ἡ δ’ εὐώνυμος ἐλευθέρῳ ἀηδίαν σημαίνει, δούλῳ δὲ νόσον, χήρᾳ κέρδος ἀπροσδόκητον, στρατιώτῃ καθαίρεσιν, ἐμπόρῳ βλάβην, κυβερνήτῃ λύπην, γυναικὶ ἀηδίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "64",
+      "text": "ἄλλοις· ὁδοιπόρῳ ζημίαν, δούλῳ λύπας· τοῖς δὲ λοιποῖς πᾶσι καλόν. ἄλλως· εὐωχίαν πᾶσι δηλοῖ. Ὦμος δεξιὸς ἁλλόμενος ὠφέλειάν τινα δηλοῖ· χειροτέχνῃ μὲν πρᾶξιν, δούλοις δ’ ὠφέλειαν καὶ θάνατον δεσπότου, παρθένῳ γάμον, χήρᾳ κέρδος, ἐμπόροις ὠφέλειαν, κυβερνήτῃ εὐπορίαν, γυναικὶ χαράν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "66",
+      "text": "Ὦμος λαιὸς ἁλλόμενος ἐπιβουλὴν ὑπὸ γυναικὸς σημαίνει. ἄλλα ὠφέλιμον. Ὤμου τὸ μέσον ἁλλόμενον πολλῶν ἀγαθῶν κυρίευσιν καὶ δούλῳ δηλοῖ καὶ ἐλευθέρῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "68",
+      "text": "Ὠμοπλάτης εὐώνυμος ἁλλόμενος, ἐὰν ἐπὶ ξένοις, εὐφροσύνην σημαίνει, καὶ τοῖς ἐν δάνει οὖσιν ἀπόδοσιν χρεῶν, δούλοις καὶ κλέπταις μετάβασιν, παρθένῳ νωθρείαν, χήρᾳ κίνδυνον, στρατιώτῃ εὐφροσύνην μετὰ κέρδους, τοῖς δὲ λοιποῖς κόπον. Τὸ δὲ τῆς εὐωνύμου ὠμοπλάτης δεξιὸν ἁλλόμενον ἀγαθὸν σημαίνει· δούλῳ διαβολήν, παρθένῳ ψόγον, χήρᾳ ἀπὸ νόσου σωτηρίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "69",
+      "text": "ἐν ἄλλοις ἔκφευξιν ἀηδίας δηλοῖ, ἐπὶ δὲ γυναικῶν ἀκαταστασίαν· δούλῳ ἀνάπαυσιν ἐκ τῆς δουλείας, παρθένῳ ἀηδίαν, χήρᾳ ψόγον, στρατιώτῃ δάκρυα, ἐμπόροις ἀπόδοσιν, κυβερνήτῃ εὔπλοιαν. Τὸ μέσον τῶν ὠμοπλατῶν ἁλλόμενον εὐπορίαν δηλοῖ· δούλῳ κακοπάθειαν καὶ ἀχαριστίαν, παρθένῳ ὕβριν, χήρᾳ διαβολήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "71",
+      "text": "Ἀκρώμιον δεξιὸν ἁλλόμενον ἐλευθέρῳ εὐκρασίαν δηλοῖ, δούλῳ κακῶν ἀνάπαυσιν, παρθένῳ μνηστείαν, χήρᾳ ἱλαρίαν, στρατιώτῃ κίνδυνον. Βραχίων δεξιὸς ἁλλόμενος τέκνων καὶ χρημάτων ἐπίκτησιν δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "72",
+      "text": "τοῖς δὲ δανείζουσιν ἐξ ἑτέρων βλάβην. ἄλλως· τέκνα αὐτῷ ἔσται ἐπὶ χεῖρας, δούλῳ πίστιν πραγμάτων μεγάλων, παρθένῳ ὑποταγήν, χήρᾳ ὠφέλειαν. Βραχίων εὐώνυμος ἁλλόμενος ἐπὶ τῶν οἰκείων προσώπων ἐπικουρίαν σημαίνει· δούλῳ δὲ ἐλευθερίαν, ἄλλῳ λύπην δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "74",
+      "text": "Μῦς δεξιὸς ἁλλόμενος ζημίαν σημαίνει πᾶσιν. Ὁ δὲ εὐώνυμος κέρδος ἀπροσδόκητον δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "76",
+      "text": "Ἀγκὼν δεξιὸς ἁλλόμενος ὠφέλειαν δηλοῖ, δούλῳ κακῶν ἀπαλλαγῆναι, παρθένῳ ψόγον, χήρᾳ ὕβριν. Ὁ δὲ εὐώνυμος ὑπέρ τινος προσώπου ζημίαν δηλοῖ· ἄλλοις εὐφρασίαν δηλοῖ, δούλῳ προκοπήν, παρθένῳ ψόγον, χήρᾳ ὕβριν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "78",
+      "text": "Πῆχυς δεξιὸς ἁλλόμενος βλάβην δηλοῖ· δούλῳ εὐφρασίαν, παρθένῳ ἀπορίαν, χήρᾳ ἀηδίαν. Ὁ δὲ εὐώνυμος ἀηδίαν δηλοῖ· δούλῳ εὐπορίαν, παρθένῳ εὐφρασίαν, χήρᾳ ὁμοίως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "80",
+      "text": "Χεὶρ δεξιὰ ἁλλομένη ὠφέλειαν σημαίνει, ἡ δὲ εὐώνυμος πίστεως φυλακὴν δηλοῖ. Καρπὸς δεξιὸς ἁλλόμενος, ἃ ὀφείλει χρήματα ἀποδώσειν σημαίνει· ἔσεσθαι δὲ καὶ ἐν πενίᾳ καὶ ὀλιγοχρηματίᾳ· τοῦτο ἐπὶ πᾶσι δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "81",
+      "text": "ἐν ἄλλοις δὲ κακὸν δηλοῖ· δούλῳ χαλεπόν, παρθένῳ γάμον, χήρᾳ ἀποδημίαν. Ὁ δὲ εὐώνυμος ἐπιβουλὴν σημαίνει ἕνεκα πραγμάτων, ὕστερον δὲ ὠφέλειαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "82",
+      "text": "ἐν ἄλλοις ἀρρωστίαν δηλοῖ, δούλῳ ἀγαθόν, παρθένῳ συμβουλήν, χήρᾳ ὠφέλειαν. Ἀντίχειρ ὁ δεξιὸς ἁλλόμενος ἀγαθὸν δηλοῖ· δούλῳ εὐφρασίαν, παρθένῳ γάμον, χήρᾳ ἁρπαγήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "84",
+      "text": "Ὁ δὲ εὐώνυμος ἀποβολὴν βίου δηλοῖ· δούλῳ ἐλευθερίαν, παρθένῳ ὕβριν, χήρᾳ ὠφέλειαν. Τὸ πλάγιον τῆς χειρὸς ἁλλόμενον ἐμπεσεῖσθαι εἴς τινα πράγματα μοχθηρὰ δηλοῖ· δούλῳ εὐπορίαν, παρθένῳ ἀγαθόν, χήρᾳ κακόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85",
+      "text": "ἐν ἄλλοις ἐξοδιασμοὺς ἑκουσίους δηλοῖ. Τὸ τῆς ἀριστερᾶς χειρὸς καταδούλωσιν ἐξ ἀνθρώπων δηλοῖ· δούλῳ μεταβολὴν βίου, παρθένῳ ἀγαθόν, χήρᾳ εὐφρασίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "86",
+      "text": "ἄλλοις κέρδος τι σημαίνει. Χειρὸς δεξιᾶς τὸ μέσον ἤτοι τὸ κοῖλον ἁλλόμενον ὠφέλειαν σημαίνει καὶ ἀλλοτρίου πράγματος ἐν ἄλλοις κέρδος δηλοῖ· δούλῳ ἀηδίαν, παρθένῳ συμβουλήν, χήρᾳ κέρδος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "88",
+      "text": "Τῆς δὲ εὐωνύμου εὐτυχίαν μεγάλην δηλοῖ καὶ ἐχθρῶν κράτησιν. ἐν ἄλλοις ἐχθρῶν κυρίευσιν δηλοῖ· δούλῳ ἀμεριμνίαν, παρθένῳ [ὕβριν] γάμον, χήρᾳ ὕβριν. Τὸ ἐπάνω τῆς δεξιᾶς χειρὸς ἐὰν ἅλληται, πονηρὸν σημαίνει· δούλῳ ἀναβολήν, παρθένῳ ἀηδίαν, χήρᾳ ὠφέλειαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "89",
+      "text": "ἄλλοις ἀπροσδόκητον ἀγαθὸν σημαίνει. Δάκτυλος μικρὸς τῆς δεξιᾶς χειρὸς ἁλλόμενος πίστεως μείζονος ἀξιωθήσεσθαι δηλοῖ, ἐπειδὴ Ἑρμοῦ ἐστιν ὁ δάκτυλος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "90",
+      "text": "ἐν ἄλλοις στείρωσιν δηλοῖ· δούλῳ διαβολήν, παρθένῳ ψόγον, χήρᾳ ὕβριν. Ὁ μετὰ τὸν μικρὸν δεύτερος δάκτυλος τῆς δεξιᾶς χειρὸς ὁ καλούμενος παράμεσος ἁλλόμενος πολλῶν χρημάτων κυρίευσιν σημαίνει· ἔστι γὰρ Ἡλίου ὁ δάκτυλος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "91",
+      "text": "ἄλλοις πολλῶν ἀγαθῶν ἐπίκτησιν δηλοῖ· δούλῳ κακόν, παρθένῳ συμβουλήν, χήρᾳ εὐφροσύνην. Δάκτυλος ὁ τρίτος τῆς δεξιᾶς χειρὸς ἤτοι ὁ μέσος βασκανίας δηλοῖ καὶ λοιδορίας· Κρόνου γὰρ ὁ δάκτυλος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "92",
+      "text": "ἐν ἄλλοις δόξαν γενέσθαι δηλοῖ· δούλῳ ὑποταγήν, παρθένῳ νόσον, χήρᾳ ὠφέλειαν. Δάκτυλος τέταρτος ἁλλόμενος ζημίαν μεθ’ ὕβρεως δηλοῖ· Ἄρεος γάρ ἐστιν ὁ δάκτυλος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "93",
+      "text": "ἐν ἄλλοις δὲ βλάβην δηλοῖ· ἐλευθέρῳ ἐκκοπήν, παρθένῳ κέρδος, χήρᾳ ὠφέλειαν. Δάκτυλος ὁ μέγας ὁ καὶ ἀντίχειρ καλούμενος ἁλλόμενος ἐπίκτησιν πολλῶν ἀγαθῶν δηλοῖ· καὶ ἐπὶ τέκνοις καὶ ἐπὶ γυναικὶ χαρήσεται· ἔστι γὰρ Ἀφροδίτης ὁ δάκτυλος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "94",
+      "text": "ἄλλοις ἀπαλλάξαι δηλοῖ, δούλῳ ἀγαθόν, παρθένῳ ἄνδρα, χήρᾳ ὠφέλειαν. Ὄνυχες τῆς δεξιᾶς χειρὸς ἐὰν ἅλλωνται, κέρδος δηλοῦσιν ἀπροσδόκητον· δούλῳ εὐφρασίαν, παρθένῳ μνηστείαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "96",
+      "text": "Ὄνυξ τοῦ μικροῦ δακτύλου τῆς δεξιᾶς χειρὸς ἐὰν ἅλληται ἢ μυρμηκιᾷ, κακοπάθειαν δηλοῖ· δούλῳ τέκνον, παρθένῳ ἄνδρα, χήρᾳ κόπον. Ὁ τοῦ δευτέρου ἐὰν ἅλληται, ἐξουσίαν δηλοῖ· δούλῳ δεσπότου θάνατον, παρθένῳ ψόγον, χήρᾳ καλόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "98",
+      "text": "Ὁ τοῦ τρίτου καὶ τοῦ τετάρτου λύπας δηλοῦσιν, δούλῳ δὲ ἀγαθόν. Ὁ τοῦ μεγάλου αὔξησιν δηλοῖ βίου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "100",
+      "text": "Δάκτυλος μικρὸς εὐωνύμου χειρὸς ἁλλόμενος πολλὰ ἀγαθὰ δηλοῖ πᾶσιν. Ὁ δεύτερος αὐτῆς ἐγκληματικὸς δηλοῖ λύπην καὶ ἀπόλογον ἐπὶ μεγάλων προσώπων· δούλῳ ἐν πίστει ὄντι κατηγορίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "102",
+      "text": "Ὁ μέσος λύπην δηλοῖ διὰ πρᾶγμα ἴδιον καὶ αὔξησιν βίου καὶ τέκνων καὶ χρημάτων σημαίνει. Ὁ μέγας τῆς εὐωνύμου χειρὸς παλαιὰν ἀπώλειαν σημαίνει κομίσασθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "104",
+      "text": "Ὄνυχες εὐωνύμου χειρὸς ἁλλόμενοι ὠφέλειαν δηλοῦσι μετὰ δυσκολίας τινός. Μάλη δεξιὰ ἁλλομένη μάχας δηλοῖ καὶ λύπας ἐκ τῶν οἰκείων πρὸς ὀλίγον παντί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "106",
+      "text": "Καὶ ἡ εὐώνυμος ὁμοίως. Μασθὸς δεξιὸς ἁλλόμενος πρᾶξιν δηλοῖ μεγάλην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "107",
+      "text": "ἐν ἄλλοις εὐφρασίαν δηλοῖ. Μασθὸς εὐώνυμος ἁλλόμενος πλοῦτον σημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "109",
+      "text": "Μασθοῦ τὸ μέσον ἁλλόμενον ἀγαθῶν φροντίδων ἐστὶ σημεῖον. Στῆθος ἁλλόμενον εὐωχίαν δηλοῖ παντί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "110",
+      "text": "ἐν ἄλλοις· πληρωθήσεται ἡ διάνοια φόβου. Καρδία ἁλλομένη ἐπιβουλὴν φίλου δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "112",
+      "text": "Γαστὴρ ἁλλομένη πλουσίῳ ἀναλώματα ποιῆσαι δηλοῖ, πένητι δὲ τρυφήν, ἄλλοις εὐφρασίαν δηλοῖ. Κοιλία ἁλλομένη ἀγαθὰ σημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "113",
+      "text": "ἄλλοις τέκνα ὀνησιφόρα δηλοῖ. Κοιλίας δεξιὸν μέρος ἁλλόμενον νόσον ὀλιγοχρόνιον δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "115",
+      "text": "Λαγὼν δεξιὸς ἁλλόμενος ἀποδημίαν δηλοῖ· ἄλλως· ἀγαθὰ πολλὰ σημαίνει. Λαγὼν εὐώνυμος ἁλλόμενος εὐφρασίαν δηλοῖ πᾶσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "116",
+      "text": "ἄλλως· ἐργασίαν δηλοῖ. Πλευρὰ δεξιὰ ἁλλομένη πλουσίῳ χρόνιον πενίαν δηλοῖ, δούλῳ δὲ εὐπορίαν καὶ χαράν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "117",
+      "text": "ἐν ἄλλοις ὠφέλειαν δηλοῖ. Πλευρὰ δὲ εὐώνυμος ἁλλομένη μοχθήσαντι εὐστάθειαν δηλοῖ ἐν παντὶ βίῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "119",
+      "text": "Σπλὴν ἁλλόμενος ἀρρωστίαν δηλοῖ. Ἧπαρ ἁλλόμενον δυσθυμίαν σημαίνει Ἰσχίου δὲ τὸ δεξιὸν μέρος ἁλλόμενον οἰκείων καὶ φίλων 〈ἀχαριστίαν〉.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "121",
+      "text": "ἐν ἄλλῳ ἀγαθὸν δηλοῖ. Ἰσχίου τὸ εὐώνυμον μέρος ἁλλόμενον λύπας δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "122",
+      "text": "ἐν ἄλλῳ ἀκαταστασίαν δηλοῖ. Ῥάχεως τὰ δεξιὰ ἁλλόμενα ἐχθρῶν περικρατῆσαι δηλοῖ πᾶσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "124",
+      "text": "Νῶτος δεξιὸς ἁλλόμενος ὕβριν δηλοῖ. Ὁ δ’ εὐώνυμος πλουσίῳ εὐωχίαν δηλοῖ, πένητι δὲ κάματον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "126",
+      "text": "Βάλανος ἁλλόμενος δούλῳ εἰς ἀφροδίτην ἐλθεῖν δηλοῖ. Ἀκρῶμος ἁλλόμενος ἡδονήν τινα πιστεύεται σημαίνειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "128",
+      "text": "Ὄρχις δεξιὸς ἁλλόμενος βίου καὶ τέκνων ἐπίκτησιν δηλοῖ. Ὄρχις εὐώνυμος ἁλλόμενος εὐωχίαν καὶ γυναικὸς ὠφέλειαν δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "130",
+      "text": "Πυγὴ δεξιὰ ἁλλομένη ἐπ’ ἰδίᾳ φθορᾷ τῷ ἔχοντι πραγματείαν καὶ ἐργασίαν δηλοῖ. Πυγὴ εὐώνυμος ἁλλομένη πλουσίῳ ἀναλώματα ποιῆσαι δηλοῖ, τοῖς δὲ λοιποῖς ἀγαθόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "131",
+      "text": "ἐν ἄλλοις· μελλόντων κυρίευσιν. Δακτύλιος ἁλλόμενος κέρδος ἀπροσδόκητον δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "133",
+      "text": "Κοτύλη δεξιὰ ἁλλομένη κίνησιν ἐπὶ προκοπὴν δηλοῖ παντί. ἐν ἄλλοις ἀγαθὸν σημαίνει. Κοτύλη εὐώνυμος ἁλλομένη λύπης τινὸς ἀπαλλαγὴν δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "134",
+      "text": "ἐν ἄλλοις ἀηδίαν σημαίνει. Γλουτὸς δεξιὸς ἁλλόμενος εὐπορίαν δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "136",
+      "text": "Καὶ ὁ εὐώνημος τὸ αὐτό. Βουβὼν δεξιὸς ἁλλόμενος βίας καὶ ταραχὰς δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "138",
+      "text": "Βουβὼν εὐώνυμος ἁλλόμενος οὐκ ἀγαθὸν σημαίνει. Μηρὸς δεξιὸς ἁλλόμενος ὠφέλειαν δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "139",
+      "text": "ἐν ἄλλοις δὲ ἐχθρῶν κράτησιν δηλοῖ. Μηρὸς εὐώνυμος ἁλλόμενος ἐπιβουλὴν καὶ δόλον δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "140",
+      "text": "ἐν ἄλλοις ὁδὸν ἐπωφελῆ δηλοῖ πορευθῆναι. Ὀπισθομήριον δεξιὸν ἁλλόμενον ψόγον προσημαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "141",
+      "text": "ἐν ἄλλοις καλοκαιρίαν δηλοῖ. Ὀπισθομήριον εὐώνυμον ἁλλόμενον ἐπιβουλὴν δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "142",
+      "text": "ἄλλοις εὐπορίαν δηλοῖ. Γόνυ δεξιὸν ἁλλόμενον εὐωχίαν δηλοῖ παντί, ἄλλοις δὲ εὐπορίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "144",
+      "text": "Γόνυ εὐώνυμον ἁλλόμενον ἀηδίαν μεγάλην δηλοῖ. Ἀγκύλη δεξιὰ ἁλλομένη ἀηδίαν δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "146",
+      "text": "Ἡ δὲ εὐώνυμος εὐφρασίαν δηλοῖ. Κνήμη δεξιὰ ἁλλομένη ἐπίσημον δηλοῖ ἢ ὁδὸν μακρὰν πορευθῆναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "148",
+      "text": "Ἡ δὲ εὐώνυμος ἀνδράσι λύπην, γυναιξὶ δὲ ψόγον, ἄλλοις ἀρρωστίαν δηλοῖ. Ἀντικνήμιον δεξιὸν ἁλλόμενον εὐπορίαν δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "150",
+      "text": "Τὸ δὲ εὐώνυμον ἀποβολὴν ὑπάρξεσθαι ἢ πονηρόν τι δηλοῖ. Γαστροκνήμιον δεξιὸν ἁλλόμενον ἀπροσδόκητα ἀγαθὰ πᾶσι δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "152",
+      "text": "Τὸ δὲ εὐώνυμον ἐμπόδιον τῆς προκειμένης ὁδοῦ. Κερκὶς δεξιὰ ἁλλομένη λύπην δηλοῖ, Ἡ δὲ εὐώνυμος ὁδὸν ἐπικερδῆ δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "155",
+      "text": "Σφυρὸν δεξιὸν ἁλλόμενον ὠφέλειαν δηλοῖ. Τὸ δὲ εὐώνυμον νικῆσαι ἐν κριτηρίῳ δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "157",
+      "text": "Ἀστράγαλος δεξιοῦ ποδὸς ἁλλόμενος μέριμναν δηλοῖ ἢ ἀηδίαν. Καὶ τὸ τοῦ εὐωνύμου τὸ αὐτό.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "159",
+      "text": "Πτέρνα δεξιὰ ἁλλομένη εὖ πορευθῆναι δηλοῖ. Καὶ ἡ τοῦ εὐωνύμου τὸ αὐτό.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "161",
+      "text": "Ὁμοίως καὶ τὸ κοῖλον τῶν δύο ποδῶν. Τὸ δὲ τοῦ εὐωνύμου καὶ καλὸν δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "163",
+      "text": "ἄλλοις τὸ κοῖλον τοῦ δεξιοῦ ποδὸς ἁλλόμενον ὁδὸν πορευθῆναι ἐπωφελῆ τῇ ψυχῇ καὶ ἐμπεριπατῆσαι, ἔνθα οὐκ εἰσῆλθεν ἄλλος, δηλοῖ. Ταρσὸς δεξιὸς ἁλλόμενος καλὸν δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "165",
+      "text": "Ὁ δὲ εὐώνυμος εὐφρασίαν. Πέλμα δεξιὸν ἐὰν ἅλληται ὁδὸν πορευθῆναι δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "167",
+      "text": "Τὸ δὲ εὐώνυμον χρόνιον ἀποδημίαν σημαίνει. Τὸ πλάγιον τοῦ βήματος τοῦ δεξιοῦ ποδὸς τὸ ἔξω ἀσθένειαν δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "169",
+      "text": "Τὸ δὲ τοῦ εὐωνύμου εὐφρασίαν δηλοῖ. Δάκτυλος μικρὸς τοῦ δεξιοῦ ποδὸς ἁλλόμενος ὠφέλειαν δηλοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "171",
+      "text": "Ὁ δεύτερος ἐργασίαν δηλοῖ. Ὁ τρίτος καὶ μέσος ἀγαθὸν σημαίνει· δούλῳ ἀποδημίαν, παρθένῳ ὕβριν, χήρᾳ εὐωχίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "173",
+      "text": "Καὶ ὁ μετ’ αὐτὸν ἀποδημίαν δηλοῖ· δούλῳ καὶ παρθένῳ βλάβην, χήρᾳ νόσον. ἐν ἄλλοις ὠφέλειαν. Ὁ μέγας ἀποδημίαν δηλοῖ· δούλῳ κατάστασιν, παρθένῳ γάμον, χήρᾳ ἱλαρίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "175",
+      "text": "Ὄνυχες δεξιοῦ ποδὸς ἐὰν ἅλλωνται ἢ μυρμηκιῶσι, μαλακισθῆναι πρὸς ὀλίγον δηλοῖ· δούλῳ εὐρωστίαν, παρθένῳ καὶ χήρᾳ ψόγον. Ὁ τοῦ μικροῦ δακτύλου ὄνυξ ἀγαθόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "177",
+      "text": "Ὁ τοῦ δευτέρου ἀποδημίαν ἀγαθήν. Ὁ τοῦ τρίτου ἀηδίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "179",
+      "text": "Ὁ τοῦ τετάρτου ὠφέλειαν. Ὁ τοῦ πέμπτου ἀγαθόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "181",
+      "text": "Δάκτυλος μικρὸς εὐωνύμου ποδὸς ἁλλόμενος ἀγαθὸν σημαίνει· δούλῳ ἀλλαγὴν δεσπότου, παρθένῳ ὕβριν, χήρᾳ εὐωχίαν. Ὁ δεύτερος ἀποδημίαν ἀγαθὴν δηλοῖ· δούλῳ εὐφροσύνην, παρθένῳ συμβουλήν, χήρᾳ ὑποταγήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "183",
+      "text": "Ὁ μέσος ἀηδίαν δηλοῖ· δούλῳ ὠφέλειαν, παρθένῳ νωθρείαν, χήρᾳ ἀηδίαν. Ὁ τέταρτος ὠφέλειαν ἀπὸ φίλων δηλοῖ· δούλῳ νόσον, παρθένῳ γάμον, χήρᾳ διαβολήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "185",
+      "text": "Ὁ μέγας ἀγαθὰ σημαίνει μέγιστα· δούλῳ εὐπορίαν, παρθένῳ γάμον, χήρᾳ ὠφέλειαν. Ὄνυχες ἀριστεροῦ ποδὸς ἁλλόμενοι ἢ μυρμηκιῶντες πλουσίῳ μὲν ἀηδίαν σημαίνουσι, πένητι δὲ πλοῦτον, δούλῳ βλάβην, παρθένῳ συμβουλήν, χήρᾳ ψόγον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "187",
+      "text": "Ὅλον τὸ σῶμα ἁλλόμενον ἡμέρας τινὰς φυλάξασθαι δηλοῖ· δούλῳ μὴ ἐπιβουλευθῆναι, παρθένῳ μὴ κινδυνεῦσαι, χήρᾳ μὴ νοσῆσαι.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "nuw-ac",
+      "title": {
+        "english": "On Pulses",
+        "ancient_greek": "Περὶ παλμῶν ἀρχομένου ἀπὸ κεφαλῆς ἕως ποδῶν"
+      },
+      "url_slug": "melampus-the-diviner-pulses-nuw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/melampus-the-diviner/pulses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-pulses-nuw-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-pulses-nuw-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-pulses-nuw-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-pulses-nuw-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner/pulses.epub"
+      }
+    },
+    {
+      "eul_wid": "nuw-ad",
+      "title": {
+        "english": "On What Pulses Indicate in Each Part",
+        "ancient_greek": "Περὶ παλμῶν τί σημαίνουσιν ἐν ἑκάστῳ μέρει"
+      },
+      "url_slug": "melampus-the-diviner-pulses-indicate-nuw-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/melampus-the-diviner/pulses-indicate",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-pulses-indicate-nuw-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-pulses-indicate-nuw-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-pulses-indicate-nuw-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-pulses-indicate-nuw-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner/pulses-indicate.epub"
+      }
+    },
+    {
+      "eul_wid": "nuw-ab",
+      "title": {
+        "english": "On the Oils of the Body to King Ptolemy",
+        "ancient_greek": "Περὶ ἐλαιῶν τοῦ σώματος πρὸς Πτολεμαῖον βασιλέα"
+      },
+      "url_slug": "melampus-the-diviner-oils-body-ptolemy-nuw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/melampus-the-diviner/oils-body-ptolemy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-oils-body-ptolemy-nuw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-oils-body-ptolemy-nuw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-oils-body-ptolemy-nuw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-oils-body-ptolemy-nuw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner/oils-body-ptolemy.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "rrg-ba",
+      "title": {
+        "english": "Creation Rather of the Whole",
+        "ancient_greek": "Ποίησις μᾶλλον τοῦ παντός"
+      },
+      "url_slug": "alchemist-i-creation-whole-rrg-ba",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/creation-whole",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-creation-whole-rrg-ba.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-creation-whole-rrg-ba.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-creation-whole-rrg-ba.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-creation-whole-rrg-ba.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/creation-whole.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-an",
+      "title": {
+        "english": "Dyeing of Persian Bronze Found by Philip",
+        "ancient_greek": "Βαφὴ τοῦ παρὰ Πέρσαις ἐξευρημένου χαλκοῦ"
+      },
+      "url_slug": "alchemist-i-persian-bronze-rrg-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/persian-bronze",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-persian-bronze-rrg-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-persian-bronze-rrg-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-persian-bronze-rrg-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-persian-bronze-rrg-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/persian-bronze.epub"
+      }
+    },
+    {
+      "eul_wid": "eni-ab",
+      "title": {
+        "english": "Fragments on Music and Virtue",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μουσικῆς καὶ Ἀρετῆς"
+      },
+      "url_slug": "damon-the-historian-music-virtue-eni-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/damon-the-historian/music-virtue",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damon-the-historian-music-virtue-eni-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damon-the-historian-music-virtue-eni-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damon-the-historian-music-virtue-eni-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damon-the-historian-music-virtue-eni-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damon-the-historian/music-virtue.epub"
+      }
+    },
+    {
+      "eul_wid": "tyc-bd",
+      "title": {
+        "english": "On the Causes of Composition",
+        "ancient_greek": "Περὶ ἀφορμῶν συνθέσεως"
+      },
+      "url_slug": "zosimus-of-panopolis-causes-composition-tyc-bd",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/causes-composition",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-causes-composition-tyc-bd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-causes-composition-tyc-bd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-causes-composition-tyc-bd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-causes-composition-tyc-bd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/causes-composition.epub"
+      }
+    },
+    {
+      "eul_wid": "tyc-ba",
+      "title": {
+        "english": "On the Difference of Burnt Copper",
+        "ancient_greek": "Περὶ διαφορᾶς χαλκοῦ κεκαυμένου"
+      },
+      "url_slug": "zosimus-of-panopolis-burnt-copper-ba-tyc-ba",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/burnt-copper-ba",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-burnt-copper-ba-tyc-ba.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-burnt-copper-ba-tyc-ba.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-burnt-copper-ba-tyc-ba.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-burnt-copper-ba-tyc-ba.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/burnt-copper-ba.epub"
+      }
+    },
+    {
+      "eul_wid": "tyc-bf",
+      "title": {
+        "english": "On the Tribikos and the Tube",
+        "ancient_greek": "Περὶ τοῦ τριβίκου καὶ τοῦ σωλῆνος"
+      },
+      "url_slug": "zosimus-of-panopolis-tribikos-tube-bf-tyc-bf",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/tribikos-tube-bf",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-tribikos-tube-bf-tyc-bf.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-tribikos-tube-bf-tyc-bf.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-tribikos-tube-bf-tyc-bf.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-tribikos-tube-bf-tyc-bf.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/tribikos-tube-bf.epub"
+      }
+    },
+    {
+      "eul_wid": "ptg-ab",
+      "title": {
+        "english": "Oracles (Short Recension)",
+        "ancient_greek": "Χρησμοί"
+      },
+      "url_slug": "astrampsychus-the-magician-oracles-ab-ptg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/astrampsychus-the-magician/oracles-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/astrampsychus-the-magician-oracles-ab-ptg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/astrampsychus-the-magician-oracles-ab-ptg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/astrampsychus-the-magician-oracles-ab-ptg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/astrampsychus-the-magician-oracles-ab-ptg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/astrampsychus-the-magician/oracles-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "oce-aa",
+      "title": {
+        "english": "Strategic",
+        "ancient_greek": "Στρατηγικός"
+      },
+      "url_slug": "onasander-the-tactician-strategos-oce-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/onasander-the-tactician/strategos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/onasander-the-tactician-strategos-oce-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/onasander-the-tactician-strategos-oce-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/onasander-the-tactician-strategos-oce-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/onasander-the-tactician-strategos-oce-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/onasander-the-tactician/strategos.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/melampus-the-diviner/divination-pulses",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-divination-pulses-nuw-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-divination-pulses-nuw-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-divination-pulses-nuw-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-divination-pulses-nuw-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner/divination-pulses.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

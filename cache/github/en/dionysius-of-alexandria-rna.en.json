@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "rna",
+  "auth_slug": "dionysius-of-alexandria",
+  "name": {
+    "english": "Dionysius of Alexandria",
+    "ancient_greek": "Διονύσιος ὁ Ἀλεξανδρεύς"
+  },
+  "seo_h1": "Dionysius of Alexandria on the Description of the World",
+  "seo": {
+    "browser_title": "Dionysius of Alexandria on Eulogikon Greek Archive",
+    "meta_title": "Classical Dionysius of Alexandria Ancient Greek Geography",
+    "meta_description": "Dionysius of Alexandria was a 3rd century CE geographer writing in Christian Koine. Free to read and download from the Greek library and archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ Χριστιανική",
+      "english": "Christian Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γεωγραφία",
+      "english": "Geography",
+      "href": "/domains/geography"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Dionysius of Alexandria was a Christian bishop and theologian of the mid-3rd century CE. A student of Origen, he headed the Catechetical School of Alexandria and became bishop in 248 CE. His episcopate, during the persecutions under Emperors Decius and Valerian, saw him exiled, and he actively engaged in major theological controversies of the period. He is often called &quot;Dionysius the Great&quot; in ecclesiastical history.</p>\n<p class=\"research-text\">Dionysius was a prolific writer, though his works survive only in fragments preserved by historians like Eusebius. His major writings include the treatises On Nature, refuting Epicurean atomism, and On the Promises, opposing millenarian views, along with letters Against Sabellius on Trinitarian theology and numerous pastoral epistles.</p>\n<p class=\"research-text\">He was a central figure in 3rd-century Christian theology and church administration. His theological interventions on the Trinity, church discipline, and biblical interpretation shaped subsequent patristic thought, while his leadership during persecution and famine cemented his legacy as a significant theologian and pastor.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 3,
+  "works": [
+    {
+      "eul_wid": "rna-ab",
+      "title": {
+        "english": "Description of the World",
+        "ancient_greek": "Περιγραφὴ τοῦ Κόσμου"
+      },
+      "url_slug": "dionysius-of-alexandria-world-description-rna-ab",
+      "passages": 54,
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-alexandria/world-description",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-alexandria-world-description-rna-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-alexandria-world-description-rna-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-alexandria-world-description-rna-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-alexandria-world-description-rna-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-alexandria/world-description.epub"
+      }
+    },
+    {
+      "eul_wid": "rna-aa",
+      "title": {
+        "english": "Ixeuticon or-Hunting, Paraphrase",
+        "ancient_greek": "Ἰξευτικόν ἢ Περὶ Κυνηγεσίας"
+      },
+      "url_slug": "dionysius-of-alexandria-ixeuticon-hunting-rna-aa",
+      "passages": 63,
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-alexandria/ixeuticon-hunting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-alexandria-ixeuticon-hunting-rna-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-alexandria-ixeuticon-hunting-rna-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-alexandria-ixeuticon-hunting-rna-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-alexandria-ixeuticon-hunting-rna-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-alexandria/ixeuticon-hunting.epub"
+      }
+    },
+    {
+      "eul_wid": "rna-ac",
+      "title": {
+        "english": "On Stones or Lithica",
+        "ancient_greek": "Περὶ Λίθων"
+      },
+      "url_slug": "dionysius-of-alexandria-lithica-rna-ac",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-alexandria/lithica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-alexandria-lithica-rna-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-alexandria-lithica-rna-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-alexandria-lithica-rna-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-alexandria-lithica-rna-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-alexandria/lithica.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/dionysius-of-alexandria",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-of-alexandria-rna.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-of-alexandria-rna.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-of-alexandria-rna.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-of-alexandria-rna.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

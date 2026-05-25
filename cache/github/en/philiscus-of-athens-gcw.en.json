@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "gcw",
+  "auth_slug": "philiscus-of-athens",
+  "name": {
+    "english": "Philiscus of Athens",
+    "ancient_greek": "Φίλισκος ὁ Ἀθηναῖος"
+  },
+  "seo_h1": "Rhetoric, Comedy, and Myth in Philiscus of Athens",
+  "seo": {
+    "browser_title": "Philiscus of Athens Comic Poet on Eulogikon Greek Archive",
+    "meta_title": "The Philiscus of Athens Ancient Greek Comedy Works",
+    "meta_description": "Philiscus of Athens was a 4th century BCE Attic comic poet. Three surviving works of his comedy. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Philiscus of Athens was a Greek comic poet of the 4th century BCE, active during the period of Middle Comedy. Ancient sources identify him as a contemporary and rival of poets like Anaxandrides. The Suda also records that he served as a priest of Dionysus.</p>\n<p class=\"research-text\">Three comedies are attributed to him: Adonis, Medea, and Hellas, all now lost. The titles indicate a use of mythological themes, with Medea treating the Jason myth and Adonis the story of Aphrodite’s beloved youth.</p>\n<p class=\"research-text\">Philiscus exemplifies the transition toward Middle Comedy, moving from the political satire of Old Comedy toward more generalized social and mythological plots. His recorded priesthood connects him to the religious institutions of Athenian theater, and his rivalries situate him within the competitive landscape of 4th-century Athenian drama.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 3,
+  "works": [
+    {
+      "eul_wid": "gcw-ab",
+      "title": {
+        "english": "Fragments on Rhetoric and Cities",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ῥητορικῆς καὶ Πόλεων"
+      },
+      "url_slug": "philiscus-of-athens-rhetoric-cities-gcw-ab",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/philiscus-of-athens/rhetoric-cities",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-rhetoric-cities-gcw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-rhetoric-cities-gcw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-rhetoric-cities-gcw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-rhetoric-cities-gcw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens/rhetoric-cities.epub"
+      }
+    },
+    {
+      "eul_wid": "gcw-aa",
+      "title": {
+        "english": "Political and Moral Aphorisms",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philiscus-of-athens-aphorisms-gcw-aa",
+      "passages": 8,
+      "links": {
+        "html": "https://eulogikon.org/grc/philiscus-of-athens/aphorisms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-aphorisms-gcw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-aphorisms-gcw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-aphorisms-gcw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-aphorisms-gcw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens/aphorisms.epub"
+      }
+    },
+    {
+      "eul_wid": "gcw-ac",
+      "title": {
+        "english": "Rhea's Lament to Cronus",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philiscus-of-athens-rhea-lament-gcw-ac",
+      "passages": 10,
+      "links": {
+        "html": "https://eulogikon.org/grc/philiscus-of-athens/rhea-lament",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-rhea-lament-gcw-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-rhea-lament-gcw-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-rhea-lament-gcw-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-rhea-lament-gcw-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens/rhea-lament.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/philiscus-of-athens",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philiscus-of-athens-gcw.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philiscus-of-athens-gcw.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philiscus-of-athens-gcw.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philiscus-of-athens-gcw.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

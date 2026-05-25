@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "kcs",
+  "auth_slug": "athenaeus-the-epigrammatist",
+  "name": {
+    "english": "Athenaeus the Epigrammatist",
+    "ancient_greek": "Ἀθήναιος ὁ Ἐπιγραμματοποιός"
+  },
+  "seo_h1": "Athenaeus the Epigrammatist on Wealth and Virtue",
+  "seo": {
+    "browser_title": "Athenaeus the Epigrammatist on Eulogikon Greek Archive",
+    "meta_title": "Classical Athenaeus the Epigrammatist Ancient Greek Poetry",
+    "meta_description": "Athenaeus the Epigrammatist, Hellenistic poet of the 3rd-2nd centuries BCE. Two surviving epigrams. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Athenaeus the Epigrammatist is known only as the name attached to epigrams preserved in the Greek Anthology; no biographical details survive. His conventional placement in the 3rd–2nd centuries BCE derives from the inclusion of his work in the Garland of Meleager, a foundational Hellenistic poetry collection compiled around 100 BCE.</p>\n<p class=\"research-text\">His surviving corpus consists of approximately twenty epigrams preserved in the Greek Anthology. These are primarily erotic poems, often addressed to boys, and sympotic verses on drinking, genres typical of the Hellenistic period. A smaller number are dedicatory or sepulchral in theme.</p>\n<p class=\"research-text\">His inclusion in Meleager&#x27;s Garland marks him as a noteworthy practitioner of the epigram in his era. His poems exemplify the personal, erotic, and convivial themes explored by Hellenistic epigrammatists. He is studied as part of the collective corpus of Hellenistic minor poetry, surviving solely through the anthology tradition.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "kcs-ab",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "athenaeus-the-epigrammatist-epigram-kcs-ab",
+      "passages": 6,
+      "links": {
+        "html": "https://eulogikon.org/grc/athenaeus-the-epigrammatist/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-the-epigrammatist-epigram-kcs-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-the-epigrammatist-epigram-kcs-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-the-epigrammatist-epigram-kcs-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-the-epigrammatist-epigram-kcs-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-the-epigrammatist/epigram.epub"
+      }
+    },
+    {
+      "eul_wid": "kcs-aa",
+      "title": {
+        "english": "Fragments on Wealth and Virtue",
+        "ancient_greek": "Ἀποσπάσματα περὶ Πλούτου καὶ Ἀρετῆς"
+      },
+      "url_slug": "athenaeus-the-epigrammatist-wealth-virtue-kcs-aa",
+      "passages": 8,
+      "links": {
+        "html": "https://eulogikon.org/grc/athenaeus-the-epigrammatist/wealth-virtue",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-the-epigrammatist-wealth-virtue-kcs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-the-epigrammatist-wealth-virtue-kcs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-the-epigrammatist-wealth-virtue-kcs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-the-epigrammatist-wealth-virtue-kcs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-the-epigrammatist/wealth-virtue.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/athenaeus-the-epigrammatist",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenaeus-the-epigrammatist-kcs.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenaeus-the-epigrammatist-kcs.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenaeus-the-epigrammatist-kcs.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenaeus-the-epigrammatist-kcs.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

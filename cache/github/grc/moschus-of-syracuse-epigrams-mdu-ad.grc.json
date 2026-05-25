@@ -1,0 +1,517 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "mdu-ad",
+  "eul_aid": "mdu",
+  "author_slug": "moschus-of-syracuse",
+  "work_slug": "epigrams",
+  "url_slug": "moschus-of-syracuse-epigrams-mdu-ad",
+  "author": {
+    "english": "Moschus of Syracuse",
+    "ancient_greek": "Μόσχος ὁ Συρακούσιος"
+  },
+  "title": {
+    "english": "Epigrams",
+    "ancient_greek": "Ἐπιγράμματα"
+  },
+  "seo": {
+    "browser_title": "Ancient Epigrams by Moschus of Syracuse on Eulogikon",
+    "meta_title": "Classical Epigrams by Moschus of Syracuse in Ancient Greek",
+    "meta_description": "The surviving epigrams of Hellenistic poet Moschus of Syracuse. Short Greek poems on mythological pastoral themes. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρὶς βουκολική",
+      "english": "Doric Bucolic",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Epigrams</strong> constitute a collection of thirty-five short Greek poems traditionally ascribed to Moschus of Syracuse, a bucolic poet active in the mid-second century BCE. While Moschus is more renowned for his longer pastoral compositions, this assemblage demonstrates his adeptness within the concise and polished epigrammatic form that flourished during the Hellenistic period. The poems engage with the characteristic themes of the era, encompassing love, lamentation, votive dedications, and refined observations on art and quotidian existence, all executed in a highly literary style. The complete collection survives through its preservation in medieval manuscripts alongside the works of other pastoral poets such as Theocritus, as well as within major anthologies like the <strong>Palatine Anthology</strong>. Scholarly consensus holds that the authorship of individual pieces within the corpus is uncertain; it is generally regarded as an amalgam containing both genuine works by Moschus and poems composed by later imitators, rendering the authenticity of each epigram a persistent subject of academic inquiry. These poems were crafted for a sophisticated and literate audience that valued technical virtuosity and artful innovation upon conventional motifs.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 440.1.1",
+      "text": "Ἁ Κύπρις τὸν Ἔρωτα τὸν υἱέα μακρὸν ἐβώστρει·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 440.1.2",
+      "text": "„Εἴ τις ἐνὶ τριόδοισι πλανώμενον εἶδεν Ἔρωτα,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 440.1.3",
+      "text": "δραπετίδας ἐμός ἐστιν· ὁ μανυτὰς γέρας ἑξεῖ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 440.1.4",
+      "text": "μισθόν τοι τὸ φίλαμα τὸ Κύπριδος· ἢν δ’ ἀγάγῃς νιν,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 440.5.1",
+      "text": "οὐ γυμνὸν τὸ φίλαμα, τὺ δ’, ὦ ξένε, καὶ πλέον ἑξεῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 440.5.2",
+      "text": "ἔστι δ’ ὁ παῖς περίσαμος, ἐν εἴκοσι πᾶσι μάθοις νιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 440.5.3",
+      "text": "χρῶτα μὲν οὐ λευκός, πυρὶ δ’ εἴκελος· ὄμματα δ’ αὐτοῦ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 440.5.4",
+      "text": "δριμύλα καὶ φλογόεντα· κακαὶ φρένες, ἁδὺ λάλημα·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 440.5.5",
+      "text": "οὐ γὰρ ἴσον νοέει καὶ φθέγγεται· ὡς μέλι φωνά·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 440.10.1",
+      "text": "ἢν δὲ χολᾷ, νόος ἐστὶν ἀνάμερος· ἠπεροπευτάς,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 440.10.2",
+      "text": "οὐδὲν ἀλαθεύων, δόλιον βρέφος, ἄγρια παίσδει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 440.1",
+      "text": "εὐπλόκαμον τὸ κάρανον, ἔχει δ’ ἰταμὸν τὸ πρόσωπον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 440.2",
+      "text": "μικκύλα μὲν τήνῳ τὰ χερύδρια, μακρὰ δὲ βάλλει·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 440.3",
+      "text": "βάλλει δ’ εἰς Ἀχέροντα καὶ Ἀίδεω βασιλῆα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 440.15.1",
+      "text": "γυμνὸς μὲν τό γε σῶμα, νόος δέ οἱ ἐμπεπύκασται·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 440.15.2",
+      "text": "καὶ πτερόεις ὅσον ὄρνις ἐφίπταται ἄλλον ἐπ’ ἄλλῳ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 440.15.3",
+      "text": "ἀνέρας ἠδὲ γυναῖκας, ἐπὶ σπλάγχνοις δὲ κάθηται·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 440.15.4",
+      "text": "τόξον ἔχει μάλα βαιόν, ὑπὲρ τόξω δὲ βέλεμνον·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 440.15.5",
+      "text": "τυτθὸν ἑοῖ τὸ βέλεμνον, ἐς αἰθέρα δ’ ἄχρι φορεῖται·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 440.20.1",
+      "text": "καὶ χρύσεον περὶ νῶτα φαρέτριον· ἔνδοθι δ’ ἐντὶ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 440.20.2",
+      "text": "τοὶ πικροὶ κάλαμοι, τοῖς πολλάκι κἀμὲ τιτρώσκει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 440.20.3",
+      "text": "πάντα μὲν ἄγρια, πάντα· πολὺ πλέον ἁ δαῒς αὐτῷ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 440.20.4",
+      "text": "βαιὰ λαμπὰς ἐοῖσα, τὸν ἅλιον αὐτὸν ἀναίθει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 440.20.5",
+      "text": "ἢν τύ γ’ ἕλῃς τῆνον, δήσας ἄγε μηδ’ ἐλεήσῃς·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 440.25.1",
+      "text": "κἢν ποτίδῃς κλαίοντα, φυλάσσεο, μή σε πλανήσῃ·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 440.25.2",
+      "text": "κἢν γελάῃ, τύ νιν ἕλκε· καὶ ἢν ἐθέλῃ σε φιλᾶσαι,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 440.25.3",
+      "text": "φεῦγε· κακὸν τὸ φίλαμα, τὰ χείλεα φάρμακον ἐντί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 440.25.4",
+      "text": "ἢν δὲ λέγῃ ‚Λάβε ταῦτα, χαρίζομαι ὅσσα μοι ὅπλα,‛",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 440.25.5",
+      "text": "μὴ τὺ θίγῃς πλάνα δῶρα· τὰ γὰρ πυρὶ πάντα βέβαπται.“",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 200.1.1",
+      "text": "Λαμπάδα θεὶς καὶ τόξα βοηλάτιν εἵλετο ῥάβδον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 200.1.2",
+      "text": "οὖλος Ἔρως, πήρην δ’ εἶχε κατωμαδίην·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 200.1.3",
+      "text": "καὶ ζεύξας ταλαεργὸν ὑπὸ ζυγὸν αὐχένα ταύρων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 200.1.4",
+      "text": "ἔσπειρεν Δηοῦς αὔλακα πυροφόρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 200.5",
+      "text": "εἶπε δ’ ἄνω βλέψας αὐτῷ Διί· „Πλῆσον ἀρούρας,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 200",
+      "text": "μή σε, τὸν Εὐρώπης βοῦν, ὑπ’ ἄροτρα βάλω.“",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "mdu-aa",
+      "title": {
+        "english": "Epitaph for Bion",
+        "ancient_greek": "Αποσπάσματα"
+      },
+      "url_slug": "moschus-of-syracuse-epitaph-bion-mdu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/moschus-of-syracuse/epitaph-bion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-epitaph-bion-mdu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-epitaph-bion-mdu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-epitaph-bion-mdu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-epitaph-bion-mdu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/epitaph-bion.epub"
+      }
+    },
+    {
+      "eul_wid": "mdu-ab",
+      "title": {
+        "english": "Eros the Runaway",
+        "ancient_greek": "Ἔρως δραπέτης"
+      },
+      "url_slug": "moschus-of-syracuse-eros-runaway-mdu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/moschus-of-syracuse/eros-runaway",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-eros-runaway-mdu-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-eros-runaway-mdu-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-eros-runaway-mdu-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-eros-runaway-mdu-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/eros-runaway.epub"
+      }
+    },
+    {
+      "eul_wid": "mdu-ae",
+      "title": {
+        "english": "Europe",
+        "ancient_greek": "Εὐρώπη"
+      },
+      "url_slug": "moschus-of-syracuse-europe-mdu-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/moschus-of-syracuse/europe",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-europe-mdu-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-europe-mdu-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-europe-mdu-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-europe-mdu-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/europe.epub"
+      }
+    },
+    {
+      "eul_wid": "mdu-ac",
+      "title": {
+        "english": "Fragments of Bucolic Poetry",
+        "ancient_greek": "Ἀποσπάσματα Βουκολικῆς Ποίησεως"
+      },
+      "url_slug": "moschus-of-syracuse-bucolic-fragments-mdu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/moschus-of-syracuse/bucolic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-bucolic-fragments-mdu-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-bucolic-fragments-mdu-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-bucolic-fragments-mdu-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-bucolic-fragments-mdu-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/bucolic-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "mdu-af",
+      "title": {
+        "english": "Megara",
+        "ancient_greek": "Μεγάρα"
+      },
+      "url_slug": "moschus-of-syracuse-megara-mdu-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/moschus-of-syracuse/megara",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-megara-mdu-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-megara-mdu-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-megara-mdu-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-megara-mdu-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/megara.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "auu-ab",
+      "title": {
+        "english": "Epic Fragments",
+        "ancient_greek": "Ἐπικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "asius-of-samos-epic-fragments-auu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/asius-of-samos/epic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-of-samos-epic-fragments-auu-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-of-samos-epic-fragments-auu-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-of-samos-epic-fragments-auu-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-of-samos-epic-fragments-auu-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-of-samos/epic-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "cqc-ab",
+      "title": {
+        "english": "Erythraean Fragment of a Paean to Apollo",
+        "ancient_greek": "Ἐρυθραῖον Ἀπόσπασμα Παιᾶνος πρὸς Ἀπόλλωνα"
+      },
+      "url_slug": "paean-collection-anonymous-erythraean-fragment-cqc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/paean-collection-anonymous/erythraean-fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-erythraean-fragment-cqc-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-erythraean-fragment-cqc-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-erythraean-fragment-cqc-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous-erythraean-fragment-cqc-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-fragment.epub"
+      }
+    },
+    {
+      "eul_wid": "kmi-aa",
+      "title": {
+        "english": "Fragments and Titles",
+        "ancient_greek": "Ἀποσπάσματα καὶ Τίτλοι"
+      },
+      "url_slug": "theodoridas-of-syracuse-fragments-kmi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theodoridas-of-syracuse/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse-fragments-kmi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse-fragments-kmi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse-fragments-kmi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse-fragments-kmi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse/fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "bnq-aa",
+      "title": {
+        "english": "Fragments on the Birth of Zeus",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς τοῦ Διὸς Γενέσεως"
+      },
+      "url_slug": "corinna-of-tanagra-birth-of-zeus-bnq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/corinna-of-tanagra/birth-of-zeus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/corinna-of-tanagra-birth-of-zeus-bnq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/corinna-of-tanagra-birth-of-zeus-bnq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/corinna-of-tanagra-birth-of-zeus-bnq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/corinna-of-tanagra-birth-of-zeus-bnq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/corinna-of-tanagra/birth-of-zeus.epub"
+      }
+    },
+    {
+      "eul_wid": "upu-al",
+      "title": {
+        "english": "Hymn 6 To Aphrodite",
+        "ancient_greek": "Ὕμνος εἰς Ἀφροδίτην"
+      },
+      "url_slug": "homeric-hymns-anonymous-aphrodite-al-upu-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/aphrodite-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-aphrodite-al-upu-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-aphrodite-al-upu-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-aphrodite-al-upu-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous-aphrodite-al-upu-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/aphrodite-al.epub"
+      }
+    },
+    {
+      "eul_wid": "dzm-aa",
+      "title": {
+        "english": "Hymn to Hygieia and Sleep",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "licymnius-of-chios-hymn-hygieia-sleep-dzm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/licymnius-of-chios/hymn-hygieia-sleep",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/licymnius-of-chios-hymn-hygieia-sleep-dzm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/licymnius-of-chios-hymn-hygieia-sleep-dzm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/licymnius-of-chios-hymn-hygieia-sleep-dzm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/licymnius-of-chios-hymn-hygieia-sleep-dzm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/licymnius-of-chios/hymn-hygieia-sleep.epub"
+      }
+    },
+    {
+      "eul_wid": "iha-ab",
+      "title": {
+        "english": "Orphic and Mythological Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hermesianax-of-colophon-orphic-mythological-fragments-iha-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermesianax-of-colophon/orphic-mythological-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon-orphic-mythological-fragments-iha-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon-orphic-mythological-fragments-iha-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon-orphic-mythological-fragments-iha-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon-orphic-mythological-fragments-iha-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/orphic-mythological-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "qja-aa",
+      "title": {
+        "english": "To the Initial Discharges",
+        "ancient_greek": "Πρὸς τὰς ἀρχομένας ὑποχύσεις"
+      },
+      "url_slug": "aglaias-of-byzantium-initial-discharges-qja-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aglaias-of-byzantium/initial-discharges",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium-initial-discharges-qja-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium-initial-discharges-qja-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium-initial-discharges-qja-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium-initial-discharges-qja-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium/initial-discharges.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/moschus-of-syracuse/epigrams",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-epigrams-mdu-ad.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-epigrams-mdu-ad.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-epigrams-mdu-ad.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-epigrams-mdu-ad.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/epigrams.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

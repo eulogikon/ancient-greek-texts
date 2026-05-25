@@ -1,0 +1,236 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "jvk-ab",
+  "eul_aid": "jvk",
+  "author_slug": "hegemon-of-alexandria",
+  "work_slug": "epigram",
+  "url_slug": "hegemon-of-alexandria-epigram-jvk-ab",
+  "author": {
+    "english": "Hegemon of Alexandria ",
+    "ancient_greek": "Ἡγέμων ὁ Ἀλεξανδρεύς (ὁ Τρωάδος)"
+  },
+  "title": {
+    "english": "Epigram",
+    "ancient_greek": "Ἐπίγραμμα"
+  },
+  "seo": {
+    "browser_title": "Ancient Greek Epigram by Hegemon of Alexandria on Eulogikon",
+    "meta_title": "Classical Epigram by Hegemon of Alexandria in Ancient Greek",
+    "meta_description": "The epigram by Hegemon of Alexandria, a short poetic inscription from the Greek tradition. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Epigram is a short verse composition attributed to Hegemon of Alexandria, a grammarian noted in the Suda lexicon as the author of a work titled Hellenica. This figure should be distinguished from Hegemon of Thasos, who is associated with the invention of literary parody. The work is recorded as comprising four passages, though its specific subject matter, metrical form, and content are not detailed in any extant sources. The epigram itself is not directly quoted in surviving anthologies or manuscript collections; its attribution and basic structure are known only from secondary references. Consequently, its precise preservation status and location within the manuscript tradition remain unspecified. While the specific influence of this epigram is undocumented, its attribution places it within the broader tradition of Greek epigrammatic poetry, a versatile form used for inscription, commemoration, and literary display. The association with Hegemon of Alexandria suggests a potential connection to the scholarly and grammatical circles of the Hellenistic or later period.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 436.1.1",
+      "text": "Εἴποι τις παρὰ τύμβον ἰὼν ἀγέλαστος ὁδίτας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 436.1.2",
+      "text": "τοῦτ’ ἔπος· „Ὀγδώκοντ’ ἐνθάδε μυριάδας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 436.1.3",
+      "text": "Σπάρτας χίλιοι ἄνδρες ἐπέσχον λήματι Περσῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 436",
+      "text": "καὶ θάνον ἀστρεπτεί· Δώριος ἁ μελέτα.“",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "jvk-aa",
+      "title": {
+        "english": "Fragments on Thessalian Aleuas",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θεσσαλοῦ Ἀλεύου"
+      },
+      "url_slug": "hegemon-of-alexandria-thessalian-aleuas-jvk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hegemon-of-alexandria/thessalian-aleuas",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegemon-of-alexandria-thessalian-aleuas-jvk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegemon-of-alexandria-thessalian-aleuas-jvk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegemon-of-alexandria-thessalian-aleuas-jvk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegemon-of-alexandria-thessalian-aleuas-jvk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegemon-of-alexandria/thessalian-aleuas.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "gbi-aa",
+      "title": {
+        "english": "Fragments on the Hyperboreans",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ὑπερβορέων"
+      },
+      "url_slug": "pherenicus-of-heraclea-hyperboreans-gbi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pherenicus-of-heraclea/hyperboreans",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherenicus-of-heraclea-hyperboreans-gbi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherenicus-of-heraclea-hyperboreans-gbi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherenicus-of-heraclea-hyperboreans-gbi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherenicus-of-heraclea-hyperboreans-gbi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherenicus-of-heraclea/hyperboreans.epub"
+      }
+    },
+    {
+      "eul_wid": "usc-aa",
+      "title": {
+        "english": "Hero and Leander",
+        "ancient_greek": "Ἡρῴ καὶ Λέανδρος"
+      },
+      "url_slug": "musaeus-the-grammarian-hero-leander-usc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/musaeus-the-grammarian/hero-leander",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-the-grammarian-hero-leander-usc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-the-grammarian-hero-leander-usc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-the-grammarian-hero-leander-usc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-the-grammarian-hero-leander-usc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-the-grammarian/hero-leander.epub"
+      }
+    },
+    {
+      "eul_wid": "kjq-ag",
+      "title": {
+        "english": "Historical Epic Fragment A",
+        "ancient_greek": "Ἱστορικὸν Ἐπικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "epic-fragments-anonymous-historical-fragment-ag-kjq-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/historical-fragment-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-historical-fragment-ag-kjq-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-historical-fragment-ag-kjq-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-historical-fragment-ag-kjq-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-historical-fragment-ag-kjq-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/historical-fragment-ag.epub"
+      }
+    },
+    {
+      "eul_wid": "fjq-ab",
+      "title": {
+        "english": "Historical Epitome Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "theopompus-of-chios-historical-epitome-fjq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/theopompus-of-chios/historical-epitome",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios-historical-epitome-fjq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios-historical-epitome-fjq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios-historical-epitome-fjq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios-historical-epitome-fjq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios/historical-epitome.epub"
+      }
+    },
+    {
+      "eul_wid": "abe-ac",
+      "title": {
+        "english": "Iliad",
+        "ancient_greek": "Ἰλιάς"
+      },
+      "url_slug": "homer-iliad-abe-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer/iliad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-iliad-abe-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-iliad-abe-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-iliad-abe-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-iliad-abe-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer/iliad.epub"
+      }
+    },
+    {
+      "eul_wid": "kjq-ae",
+      "title": {
+        "english": "Praises of Theon the Gymnasiarch",
+        "ancient_greek": "Ἐγκώμια Θεῶνος τοῦ Γυμνασιάρχου"
+      },
+      "url_slug": "epic-fragments-anonymous-theon-gymnasiarch-kjq-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/theon-gymnasiarch",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-theon-gymnasiarch-kjq-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-theon-gymnasiarch-kjq-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-theon-gymnasiarch-kjq-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-theon-gymnasiarch-kjq-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/theon-gymnasiarch.epub"
+      }
+    },
+    {
+      "eul_wid": "aaa-ac",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "eumelus-of-corinth-testimonies-aaa-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/eumelus-of-corinth/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth-testimonies-aaa-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth-testimonies-aaa-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth-testimonies-aaa-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth-testimonies-aaa-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth/testimonies.epub"
+      }
+    },
+    {
+      "eul_wid": "utg-aa",
+      "title": {
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
+      },
+      "url_slug": "christodorus-of-coptus-testimony-utg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/christodorus-of-coptus/testimony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus-testimony-utg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus-testimony-utg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus-testimony-utg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus-testimony-utg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus/testimony.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hegemon-of-alexandria/epigram",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegemon-of-alexandria-epigram-jvk-ab.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegemon-of-alexandria-epigram-jvk-ab.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegemon-of-alexandria-epigram-jvk-ab.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegemon-of-alexandria-epigram-jvk-ab.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegemon-of-alexandria/epigram.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

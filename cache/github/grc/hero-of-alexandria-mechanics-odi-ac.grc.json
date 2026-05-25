@@ -1,0 +1,489 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "odi-ac",
+  "eul_aid": "odi",
+  "author_slug": "hero-of-alexandria",
+  "work_slug": "mechanics",
+  "url_slug": "hero-of-alexandria-mechanics-odi-ac",
+  "author": {
+    "english": "Hero of Alexandria ",
+    "ancient_greek": "Ἥρων ὁ Ἀλεξανδρεύς"
+  },
+  "title": {
+    "english": "Fragments of Mechanics",
+    "ancient_greek": "Ἀποσπάσματα Μηχανικῶν"
+  },
+  "seo": {
+    "browser_title": "Fragments of Mechanics by Hero of Alexandria on Eulogikon",
+    "meta_title": "Fragments of Mechanics by Hero of Alexandria in Greek",
+    "meta_description": "Hero of Alexandria's mechanical treatise explores principles of devices and engineering innovations from the Roman Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments of Mechanics</strong> is a collection of fifteen technical passages attributed to the first-century CE mathematician and engineer Hero of Alexandria. Preserved in Koine Greek, the work addresses both theoretical and applied mechanics. Its content systematically examines the principles of motion and provides detailed analysis of the five classic simple machines: the lever, the pulley, the wheel and axle, the wedge, and the screw. The text illustrates their mechanical advantages and practical applications, particularly in the lifting and movement of heavy loads, often employing geometric proofs and proportional reasoning.</p>\n<p class=\"research-text\">The extant text is incomplete, consisting of discontinuous fragments rather than a full, coherent treatise. Its survival is due to later transmission, primarily through Byzantine scholarly compilations such as the <strong>Suda</strong> lexicon and via Arabic translations that circulated in the medieval Islamic world. Modern scholarship interprets the work as a key representative of the Hellenistic mechanical tradition, which sought to synthesize Aristotelian physical principles with rigorous geometry and pragmatic engineering. Likely composed for both educational and practical purposes, it was aimed at engineers and scholars operating within the Roman imperial context, where Greek scientific knowledge was being systematically compiled and applied to technological challenges.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1.1.(1t)",
+      "text": "HERONIS MECHANICORUM FRAGEMENTA Τῇ δοθείσῃ δυνάμει τὸ δοθὲν βάρος κινῆσαι διὰ τυμπάνων ὀδοντωτῶν παραθέσεως. Κατεσκευάσθω πῆγμα καθάπερ γλωσσόκομον· εἰς τοὺς μακροὺς καὶ παραλλήλους τοίχους διακείσθωσαν ἄξονες παράλληλοι ἑαυτοῖς ἐν διαστήμασι κείμενοι ὥστε τὰ συμφυῆ αὐτοῖς ὀδοντωτὰ τύμπανα παρακεῖσθαι καὶ συμπεπλέχθαι ἀλλήλοις, καθὰ μέλλομεν δηλοῦν. Ἔστω τὸ εἰρημένον γλωσσόκομον τὸ ΑΒΓΔ, ἐν ᾧ ἄξων ἔστω διακείμενος, ὡς εἴρηται, καὶ δυνάμενος εὐλύτως στρέφεσθαι ὁ ΕΖ. τούτῳ δὲ συμφυὲς ἔστω τύμπανον ὠδοντωμένον τὸ ΗΘ ἔχον τὴν διάμετρον, εἰ τύχοι, πενταπλασίονα 〈τῆσ〉 τοῦ ΕΖ ἄξονος διαμέτρου. καὶ ἵνα ἐπὶ παραδείγματος τὴν κατασκευὴν ποιησώμεθα, ἔστω τὸ μὲν ἀγόμενον βάρος ταλάντων χιλίων, ἡ δὲ κινοῦσα δύναμις ἔστω ταλάντων εʹ, τουτέστιν ὁ κινῶν ἄνθρωπος ἢ παιδάριον, ὥστε δύνασθαι καθ’ ἑαυτὸν ἄνευ μηχανῆς ἕλκειν τάλαντα εʹ. οὐκοῦν ἐὰν τὰ ἐκ τοῦ φορτίου ἐνδεδεμένα ὅπλα διά τινος 〈ὀπῆς οὔσησ〉 ἐν τῷ ΑΒ τοίχῳ ἐπειληθῇ περὶ τὸν ΕΖ ἄξονα, †κατειλούμενα τὰ ἐκ τοῦ φορτίου ὅπλα κινήσει τὸ βάρος. ἵνα δὲ κινηθῇ τὸ ΗΘ τύμπανον, ... μει ὑπάρχειν πλέον ταλάντων διακοσίων διὰ τὸ τὴν διάμετρον τοῦ τυμπάνου τῆς διαμέτρου τοῦ ἄξονος, ὡς ὑπεθέμεθα, πενταπλῆν 〈εἶναι〉. ταῦτα γὰρ ἀπεδείχθη ἐν ταῖς τῶν εʹ δυνάμεων ἀποδείξεσιν. ἀλλ’ 〈οὐκ〉 ἔχομέν τι τὴν δύναμιν ταλάντων διακοσίων, ἀλλὰ πέντε. γεγονέτω ὁ ἕτερος ἄξων διακείμενος 〈παράλληλοσ〉 τῷ ΕΖ ὁ ΚΛ ἔχων συμφυὲς τύμπανον ὠδοντωμένον τὸ ΜΝ. ὀδοντῶδες δὲ καὶ τὸ ΗΘ τύμπανον, ὥστε 〈τοὺς ὀδόντας αὐτοῦ〉 ἐναρμόζειν τοῖς ὀδοῦσι τοῦ ΜΝ τυμπάνου. τῷ δὲ αὐτῷ ἄξονι τῷ ΚΛ συμφυὲς 〈ἔστω〉 τύμπανον τὸ ΞΟ ἔχον ὁμοίως τὴν διάμετρον πενταπλασίονα τῆς τοῦ ΜΝ τυμπάνου διαμέτρου. διὰ δὴ τοῦτο δεήσει τὸν βουλόμενον κινεῖν διὰ τοῦ ΞΟ τυμπάνου τὸ βάρος ἔχειν δύναμιν ταλάντων μʹ, ἐπειδήπερ τῶν σʹ ταλάντων τὸ πέμπτον ἐστὶ τάλαντα μʹ. πάλιν οὖν παρακείσθω τύμπανον ὀδοντωθὲν ἕτερον 〈τῷ ΞΟ〉 τυμπάνῳ ὠδοντωμένῳ τὸ ΠΡ συμφυὲς 〈ἑτέρῳ ἄξονι· τῷ δ’ αὐτῷ ἄξονι〉 ἕτερον συμφυὲς 〈τὸ ΣΤ〉 ἔχον ὁμοίως πενταπλῆν τὴν διάμετρον τῆς 〈τοῦ〉 ΠΡ τυμπάνου διαμέτρου. ἡ δὲ 〈δύναμις ἡ δι〉ὰ τοῦ ΣΤ τυμπάνου [ἡ] ἕλκουσα τὸ βάρος ταλάντων ηʹ. ἀλλ’ ἡ ὑπάρχουσα ἡμῖν δύναμις δέδοται ταλάντων εʹ. ὁμοίως ἕτερον παρακείσθω τύμπανον ὀδοντωθέν, τὸ ΥΦ τῷ ΣΤ ὀδοντωθέν〈τι· τῷ〉 δὲ τοῦ ΥΦ τυμπάνου ἄξονι συμφυὲς ἔστω τύμπανον τὸ ΧΨ ὠδοντωμένον, οὗ ἡ διάμετρος πρὸς τὴν τοῦ ΥΦ τυμπάνου διάμετρον λόγον ἐχέτω ὃν τὰ ὀκτὼ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.1.(50)",
+      "text": "τάλαντα πρὸς τὰ τῆς δοθείσης δυνάμεως τάλαντα εʹ. καὶ τούτων κατασκευασθέντων ἐὰν ἐπινοήσωμεν τὸ ΑΒΓΔ 〈γλωσσόκομον〉 μετέωρον κείμενον καὶ ἐκ μὲν τοῦ ΕΖ ἄξονος τὸ βάρος ἐξάψωμεν, ἐκ δὲ τοῦ ΧΨ τυμπάνου τὴν ἕλκουσαν δύναμιν, οὐδοπότερον αὐτῶν κατενεχθήσεται εὐλύτως στρεφομένων τῶν ἀξόνων καὶ τῆς τῶν τυμπάνων παραθέσεως καλῶς ἁρμο〈ζού〉σης, ἀλλ’ ὥσπερ 〈ἐπὶ〉 ζυγοῦ τινος ἰσορροπήσει ἡ δύναμις τῷ βάρει. ἐὰν δὲ ἑνὶ αὐτῶν προσθῶμεν ὀλίγον ἕτερον βάρος, καταρρέψει καὶ ἐνεχθήσεται ἐφ’ ὃ προσετέθη βάρος, ὥστε ἐὰν ἓν 〈τῇ〉 τῶν εʹ ταλάντων δυνάμει, εἰ τύχοι, μναϊαῖον προστεθῇ βάρος, κατακρατήσει καὶ ἐπισπάσεται τὸ βάρος. Ἀντὶ δὲ τῆς προσθέσεως [τούτῳ δὲ] παρακείσθω κοχλίας τῷ ΧΨ τυμπάνῳ ἔχων τὴν ἕλικα ἁρμοστὴν τοῖς ὀδοῦσι τοῦ τυμπάνου στρεφόμενος εὐλύτως περὶ τόρμους ἐνόντας ἐν τρήμασι στρογγύλοις, ὧν ὁ μὲν ἕτερος ὑπερεχέτω εἰς τὸ ἐκτὸς μέρος τοῦ γλωσσοκόμου κατὰ τὸν ΓΔ 〈τοῖχον τὸν παρακείμενον〉 τῷ κοχλίᾳ· ἡ ἄρα ὑπεροχὴ τετραγωνισθεῖσα λαβέτω χειρολάβην τὴν Ϟϛ, δι’ ἧς ἐπιλαμβανόμενός τις καὶ ἐπιστρέφων ἐπιστρέψει τὸν κοχλίαν καὶ τὸ ΧΨ τύμπανον, ὥστε καὶ τὸ ΥΦ συμφυὲς αὐτῷ. διὰ δὲ τοῦτο καὶ τὸ παρακείμενον τὸ ΣΤ ἐπιστραφήσεται καὶ τὸ συμφυὲς αὐτῷ τὸ ΠΡ καὶ τὸ τούτῳ παρακείμενον τὸ ΞΟ καὶ τὸ τούτῳ συμφυὲς τὸ ΜΝ καὶ τὸ τούτῳ παρακείμενον τὸ ΗΘ, ὥστε καὶ ὁ τούτῳ συμφυὴς ἄξων ὁ ΕΖ, περὶ ὃν ἐπειλούμενα τὰ ἐκ τοῦ φορτίου ὅπλα κινήσει τὸ βάρος. ὅτι γὰρ κινήσει, πρόδηλον ἐκ τοῦ προστεθῆναι ἑτέραν δύναμιν 〈τὴν〉 τῆς χειρολάβης, ἥτις περιγράφει κύκλον τῆς τοῦ κοχλίου περιμέτρου μείζονα. ἀπεδείχθη γὰρ ὅτι οἱ μείζονες κύκλοι τῶν ἐλασσόνων κατακρατοῦσιν, ὅταν περὶ τὸ αὐτὸ κέντρον κυλίωνται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.11",
+      "text": "Κατὰ δὲ τοὺς περὶ τὸν Ἥρωνα πῶς ἔστιν δυνατὸν δύο δοθεισῶν εὐθειῶν δύο μέσας ἀνάλογον λαβεῖν ὀργανικῶς, δείξομεν, ἐπειδήπερ ἐστὶν τὸ πρόβλημα τοῦτο, καθά φησιν καὶ ὁ Ἥρων, στερεόν. ἐκθησόμεθα δέ, φησίν, τῶν δείξεων τὴν μάλιστα πρὸς τὴν χειρουργίαν εὔθετον. Ἔστωσαν γὰρ αἱ δοθεῖσαι εὐθεῖαι αἱ ΑΒ, ΒΓ πρὸς ὀρθὰς ἀλλήλαις κείμεναι, ὧν δεῖ δύο μέσας ἀνάλογον εὑρεῖν. Συμπεπληρώσθω τὸ ΑΒΓΔ παραλληλόγραμμον, καὶ ἐκβεβλήσθωσαν αἱ ΔΓ, ΔΑ, καὶ ἐπεζεύχθωσαν αἱ ΔΒ, ΓΑ, καὶ παρακείσθω κανόνιον πρὸς τῷ Β σημείῳ καὶ κινείσθω τέμνον τὰς ΓΕ, ΑΖ, ἄχρις οὗ ἡ ἀπὸ τοῦ Η 〈ἀχθεῖσα〉 ἐπὶ τὴν τῆς ΓΕ τομὴν ἴση γένηται τῇ ἀπὸ τοῦ Η ἐπὶ τὴν τῆς ΑΖ τομήν. γεγονέτω, καὶ ἔστω ἡ μὲν τοῦ κανονίου θέσις ἡ ΕΒΖ, ἴσαι δὲ αἱ ΕΗ, ΗΖ. λέγω οὖν ὅτι αἱ ΑΖ, ΓΕ μέσαι ἀνάλογόν εἰσιν τῶν ΑΒ, ΒΓ. Ἐπεὶ γὰρ ὀρθογώνιόν ἐστιν τὸ ΑΒΓΔ παραλληλόγραμμον, αἱ τέσσαρες εὐθεῖαι αἱ ΔΗ, ΗΑ, ΗΒ, ΗΓ ἴσαι ἀλλήλαις εἰσίν. ἐπεὶ οὖν ἴση ἡ ΔΗ τῇ ΑΗ καὶ διῆκται ἡ ΗΖ, τὸ ἄρα ὑπὸ ΔΖΑ μετὰ τοῦ ἀπὸ ΑΗ ἴσον ἐστὶν τῷ ἀπὸ ΗΖ. διὰ τὰ αὐτὰ δὴ καὶ τὸ ὑπὸ ΔΕΓ μετὰ τοῦ ἀπὸ ΓΗ ἴσον ἐστὶν τῷ ἀπὸ ΗΕ. καὶ εἰσὶν ἴσαι αἱ ΗΕ, ΗΖ. ἴσον ἄρα καὶ τὸ ὑπὸ ΔΖΑ μετὰ τοῦ ἀπὸ ΑΗ τῷ ὑπὸ ΔΕΓ μετὰ τοῦ ἀπὸ ΓΗ. ὧν τὸ ἀπὸ ΓΗ ἴσον ἐστὶν τῷ ἀπὸ ΗΑ. λοιπὸν ἄρα τὸ ὑπὸ ΔΕΓ ἴσον ἐστὶν τῷ ὑπὸ ΔΖΑ. ὡς ἄρα ἡ ΕΔ πρὸς ΔΖ, ἡ ΖΑ πρὸς ΓΕ. ὡς δὲ ἡ ΕΔ πρὸς ΔΖ, ἥ τε ΒΑ πρὸς ΑΖ καὶ ἡ ΕΓ πρὸς ΓΒ, ὥστε ἔσται καὶ ὡς ἡ ΑΒ πρὸς ΑΖ, ἥ τε ΖΑ πρὸς ΓΕ καὶ ἡ ΓΕ πρὸς ΓΒ. τῶν ἄρα ΑΒ, ΒΓ μέσαι ἀνάλογόν εἰσιν αἱ ΑΖ, ΓΕ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.1",
+      "text": "Τοσαῦτα μὲν οὖν περὶ τοῦ Βαρουλκοῦ, τῶν δὲ προειρημένων εʹ δυνάμεων ἐκ τῶν Ἥρωνος τὴν ἔκθεσιν ἐπιτομώτερον ποιησόμεθα πρὸς ὑπόμνησιν τῶν φιλομαθούντων προσθέντες ἔτι καὶ 〈τὰ〉 περὶ τῆς μονοκώλου καὶ δικώλου καὶ τρικώλου καὶ τετρακώλου μηχανῆς ἀναγκαίως λεγόμενα, μή ποτε καὶ τῶν βιβλίων ἐν οἷς ταῦτα γέγραπται ἀπορία γένηται τῷ ζητοῦντι. καὶ γὰρ ἡμεῖς κατὰ πολλὰ μέρη διεφθαρμένοις ἐνετύχομεν ἀνάρχοις τε καὶ ἀτελέσι βιβλίοις. Πέντε τοίνυν οὐσῶν δυνάμεων δι’ ὧν τὸ δοθὲν βάρος τῇ δοθείσῃ βίᾳ κινεῖται, ἀναγκαῖόν ἐστιν τά τε σχήματα αὐτῶν καὶ τὰς χρείας, ἔτι δὲ καὶ τὰ ὀνόματα ἐκθέσθαι. ἀποδέδοται δὲ ὑπὸ τοῦ Ἥρωνος καὶ Φίλωνος καὶ διότι αἱ προειρημέναι δυνάμεις εἰς μίαν ἄγονται φύσιν, καίτοι παρὰ πολὺ διαλλάσσουσαι τοῖς σχήμασιν. ὀνόματα μὲν οὖν ἐστιν τάδε· ἄξων ἐν περιτροχίῳ, μοχλός, πολύσπαστον, σφὴν καὶ πρὸς τούτοις ὁ καλούμενος ἄπειρος κοχλίας. Ὁ μὲν οὖν ἄξων ὁ ἐν τῷ περιτροχίῳ κατασκευάζεται οὕτως. ξύλον δεῖ λαβεῖν εὔτονον τετράγωνον καθάπερ δοκίδα καὶ τούτου τὰ ἄκρα σιμώσαντα στρογγύλα ποιῆσαι καὶ χοινικίδας περιθεῖναι χαλκᾶς συναραρυίας τῷ ἄξονι, ὥστε ἐμβληθείσας αὐτὰς εἰς τρήματα στρογγύλα ἐν ἀκινήτῳ τινὶ πήγματι εὐλύτως στρέφεσθαι, τῶν τρημάτων τριβεῖς χαλκοῦς ἐχόντων ὑποκειμένους ταῖς χοινικίσι. καλεῖται δὲ τὸ εἰρημένον ξύλον ἄξων. περὶ δὲ μέσον τὸν ἄξονα περιτίθεται τύμπανον ἔχον τρῆμα τετράγωνον ἁρμοστὸν τῷ ἄξονι, ὥστε ἅμα στρέφεσθαι τόν τε ἄξονα καὶ τὸ περιτρόχιον. Ἡ μὲν οὖν κατασκευὴ δεδήλωται, χρεία δ’ ἐστὶν ἡ μέλλουσα λέγεσθαι. ὅταν γὰρ βουλώμεθα μεγάλα βάρη κινεῖν ἐλάσσονι βίᾳ, τὰ ἐκδεδεμένα ἐκ τοῦ βάρους ὅπλα περιθέντες περὶ τὰ σεσιμωμένα τοῦ ἄξονος καὶ ἐμβαλόντες σκυτάλας εἰς τὰ ἐν τῷ περιτροχίῳ τρήματα, ἐπιστρέφομεν τὸ περιτρόχιον κατάγοντες τὰς σκυτάλας, καὶ οὕτως εὐκόπως κινηθήσεται τὸ βάρος ὑπὸ ἐλάσσονος δυνάμεως τῶν ὅπλων περὶ τὸν ἄξονα ἐπειλουμένων ἢ καὶ διαμηρυομένων ὑπό τινος πρὸς τὸ μὴ ἅπαν τὸ ὅπλον περικεῖσθαι τῷ ἄξονι. τοῦ δὲ εἰρημένου ὀργάνου τὸ μὲν μέγεθος ἁρμόζεσθαι δεῖ πρὸς τὰ μέλλοντα κινεῖσθαι βάρη, τὴν δὲ συμμετρίαν πρὸς τὸν λόγον ὃν ἔχει τὸ κινούμενον βάρος πρὸς τὴν κινοῦσαν δύναμιν, ὡς ἑξῆς δειχθήσεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.2",
+      "text": "Ἦν δὲ δευτέρα δύναμις ἡ διὰ τοῦ μοχλοῦ καὶ τάχα ἡ προεπίνοια τῆς περὶ τὰ ὑπεράγοντα βάρη κινήσεως. προελόμενοι γάρ τινες μεγάλα βάρη κινεῖν, ἐπειδὴ ἀπὸ τῆς γῆς ἔδει πρῶτον μετεωρίσαι, λαβὰς δὲ οὐκ εἶχον διὰ τὸ πάντα τὰ μέρη τῆς ἕδρας τοῦ φορτίου ἐπικεῖσθαι τῷ ἐδάφει, ὑπορύξαντες βραχὺ καὶ ξύλου μακροῦ τὸ ἄκρον ὑποβαλόντες ὑπὸ τὸ φορτίον κατῆγον ἐκ τοῦ ἑτέρου ἄκρου, ὑποθέντες τῷ ξύλῳ παρ’ αὐτὸ τὸ φορτίον λίθον, ὃ δὴ καλεῖται ὑπομόχλιον. φανείσης δ’ αὐτοῖς τῆς κινήσεως πάνυ εὐκόπου ἐνόησαν ὅτι δυνατὸν κινεῖσθαι μεγάλα βάρη διὰ τοῦ τρόπου τούτου. καλεῖται δὲ τὸ ξύλον μοχλός, εἴτε τετράγωνον εἴη εἴτε στρογγύλον. ὅσῳ δ’ ἂν ἐγγυτέρω τιθῆται τοῦ φορτίου τὸ ὑπομόχλιον, τοσούτῳ εὐχερέστερον κινεῖται τὸ βάρος, ὡς ἑξῆς δειχθήσεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.3",
+      "text": "Ἔστιν δὲ ἡ τρίτη δύναμις ἡ κατὰ τὸ πολύσπαστον. ὅταν γὰρ βουλώμεθά τι βάρος ἕλκειν, ἐξάψαντες ὅπλον ἐξ αὐτοῦ ἐπισπώμεθα τοσαύτῃ βίᾳ, ὅση τῷ φορτίῳ ἰσόρροπός ἐστιν. ἐὰν δὲ ἑλκύσαντες ἐκ τοῦ φορτίου τὸ ὅπλον τὴν μὲν μίαν αὐτοῦ ἀρχὴν ἐκδήσωμεν ἔκ τινος μένοντος χωρίου, τὴν δὲ ἑτέραν βάλωμεν διὰ τροχίλου ἐκδεδεμένου ἐκ τοῦ φορτίου καὶ ταύτην ἐπισπώμεθα, εὐχερέστερον κινήσομεν τὸ βάρος. πάλιν δὲ ἐὰν ἐκ τοῦ μένοντος χωρίου ἐξάψωμεν ἕτερον τρόχιλον καὶ τὴν ἀγομένην ἀρχὴν διαβαλόντες διὰ τούτου ἐπισπώμεθα, ἔτι μᾶλλον εὐχερέστερον κινήσομεν τὸ βάρος. καὶ πάλιν ἐὰν ἐκ τοῦ φορτίου τρόχιλον ἕτερον ἐκδήσωμεν καὶ τὴν ἀγομένην ἀρχὴν διὰ τούτου διαβαλόντες ἐπισπώμεθα, πολλῷ μᾶλλον εὐχερέστερον κινήσομεν τὸ βάρος ... ἀεὶ τροχίλους ἔκ τε τοῦ μένοντος χωρίου ἐξάπτοντες καὶ ἐκ τοῦ φορτίου καὶ διαβάλλοντες ἐναλλὰξ τὴν ἀγομένην ἀρχὴν εἰς τοὺς τροχίλους εὐχερέστερον κινήσομεν τὸ βάρος. ὅσῳ δ’ ἂν εἰς πλείονα κῶλα τὸ ὅπλον κάμπτηται, 〈τοσούτῳ〉 τὸ βάρος εὐκοπώτερον κινηθήσεται· δεῖ δὲ τὴν ἐκδεννυμένην ἀρχὴν ἐκ τοῦ μένοντος χωρίου ἐξάπτεσθαι. ἵνα οὖν μὴ καθ’ ἕνα τοὺς τροχίλους ἔκ τε τοῦ μένοντος χωρίου καὶ ἐκ τοῦ φορτίου ἐξάπτωμεν, οἱ μὲν εἰρημένοι ... εἰς τὸ μένον εἶναι χωρίον εἰς ἓν ξύλον ἐντίθενται περὶ ἄξονα κινούμενοι, ὃ καλεῖται μάγγανον —τοῦτο δὲ ἐξάπτεται ἐκ τοῦ μένοντος χωρίου διά τινος ἑτέρου ὅπλου—οἱ δὲ πρὸς τῷ φορτίῳ εἰς ἕτερον μάγγανον τούτῳ ἴσον, ὃ δὴ πάλιν ἐξάπτεται ἐκ τοῦ φορτίου μόνον. οὕτως δὲ δεῖ κατατετάχθαι ἐν τοῖς μαγγάνοις τοὺς τροχίλους, ὥστε τὰ κῶλα μὴ ἐμπλεκόμενα πρὸς ἄλληλα δυσπειθῆ γίνεσθαι. δι’ ἣν δ’ αἰτίαν πλειόνων τῶν κώλων γινομένων εὐκοπία παρακολουθεῖ, δείξομεν, καὶ δι’ ἣν αἰτίαν ἡ ἑτέρα ἀρχὴ ἐκ τοῦ μένοντος ἐξάπτεται χωρίου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.4",
+      "text": "Ἡ δὲ ἑξῆς δύναμις ἡ διὰ τοῦ σφηνὸς καὶ αὐτὴ μεγάλας χρείας παρεχομένη πρός τε τὰς μυρεψικὰς πιέσεις καὶ τὰς διὰ τῆς τεκτονικῆς ὑπεραγούσας κολλήσεις, τὸ δὲ πάντων μέγιστον, ὅταν τοὺς ἐκ τῶν λατομιῶν λίθους ἀποσπᾶν δέῃ τῆς κατὰ τὸ κάτω μέρος συνεχείας, οὐδεμία τῶν ἄλλων δυνάμεων ἐνεργεῖν δύναται, οὐδ’ ἂν ἅμα πᾶσαι συζευχθῶσιν, μόνος δὲ ὁ σφὴν ἐνεργεῖ διὰ τῆς τυχούσης, καὶ ἄνεσις μὲν οὐδ’ ἡτισοῦν γίνεται κατὰ τὰ διαλήμματα τῶν ἐργαζομένων, καρτερὰ δὲ 〈ἡ〉 ἐπίτασις. τοῦτο δὲ φανερὸν ἐκ τοῦ καὶ μὴ πλησσομένου τοῦ σφηνὸς ἐνίοτε ψόφους καὶ ῥήγματα γίνεσθαι διὰ τῆς τοῦ σφηνὸς ἐνεργείας. ὅσῳ δ’ ἂν ἡ τοῦ σφηνὸς γωνία ἐλάσσων γίνηται, τοσούτῳ εὐχερέστερον ἐνεργεῖ, τουτέστιν δι’ ἐλάσσονος πληγῆς, ὡς δείξομεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.5",
+      "text": "Τὰ μὲν οὖν προειρημένα ὄργανα φανερὰς καὶ αὐτοτελεῖς ἔχει τὰς κατασκευὰς πολλαχοῦ ἐν ταῖς χρείαις φαινομένας, ὁ δὲ κοχλίας ἔχει τι περίεργον περί τε τὴν κατασκευὴν καὶ τὴν χρῆσιν. ὁτὲ μὲν [οὖν] γὰρ αὐτὸς καθ’ αὑτὸν μόνος ἐνεργεῖ, ὁτὲ δὲ καὶ προσλαμβάνων ἔτι δύναμιν, πλὴν ὅτι οὐδὲν ἕτερόν ἐστιν ἢ σφὴν εἰλημένος, ἀπολειπόμενος τῆς πληγῆς, διὰ μοχλοῦ δὲ καὶ τὴν κίνησιν ποιούμενος. τοῦτο δ’ ἔσται δῆλον ἐκ τῶν μελλόντων λέγεσθαι. φύσις μὲν οὖν ὑπάρχει τῆς περὶ αὐτὸν πραγματείας τοιαύτη. ἐὰν κυλίνδρου πλευρὰ φέρηται κατὰ τῆς τοῦ κυλίνδρου ἐπιφανείας, πρὸς δὲ τῷ πέρατι ταύτης σημεῖόν τι ἅμα κατὰ αὐτῆς τῆς πλευρᾶς φέρηται, καὶ ἐν τῷ αὐτῷ χρόνῳ ἥ τε πλευρὰ μίαν ἀποκατάστασιν ποιήσηται καὶ τὸ σημεῖον τὸ πᾶν τῆς πλευρᾶς διεξέλθῃ, ἡ γενομένη ὑπὸ τοῦ σημείου ἐν τῇ κυλινδρικῇ ἐπιφανείᾳ γραμμὴ ἕλιξ ἐστίν, ἣν δὴ κοχλίαν καλοῦσιν. καταγράφεται δὲ ἐν τῷ κυλίνδρῳ οὕτως· ἐὰν ἐν ἐπιπέδῳ δύο εὐθείας ἐκθώμεθα ὀρθὰς ἀλλήλαις, ὧν ἡ μὲν μία ἴση ἐστὶν τῇ τοῦ εἰρημένου κυλίνδρου πλευρᾷ, ἡ δὲ ἑτέρα τῇ τοῦ κύκλου περιφερείᾳ, ὅς ἐστιν βάσις τοῦ κυλίνδρου, καὶ ἐπὶ τὰ πέρατα τῶν εἰρημένων εὐθειῶν ἐπιζεύξωμεν εὐθεῖαν ὑποτείνουσαν τὴν ὀρθὴν γωνίαν, τεθῇ δὲ ἡ ἴση τῇ τοῦ κυλίνδρου πλευρᾷ ἐπὶ τὴν τοῦ κυλίνδρου πλευράν, ἡ δὲ ἑτέρα τῶν περὶ τὴν ὀρθὴν ἐπειληθῇ κατὰ τῆς τοῦ κύκλου περιφερείας, εἰληθήσεται καὶ ἡ ὑποτείνουσα τὴν ὀρθὴν κατὰ τῆς κυλινδρικῆς ἐπιφανείας, καθ’ ἧς ἔσται ἡ εἰρημένη ἕλιξ. ἔξεστιν δὲ διελόντα τὴν τοῦ κυλίνδρου πλευρὰν εἰς ἴσα, ὅσα δἄν τις προαιρῆται, καθ’ ἕκαστον αὐτῆς μέρος περιγράφειν ἕλικα, ὡς προείρηται, ὥστε ἐν τῷ κυλίνδρῳ πλείονας ἕλικας γράφεσθαι, καλείσθω δὲ ἡ ἅπαξ εἰληθεῖσα ἕλιξ μονόστροφος, τουτέστιν ἡ περὶ τὰ πέραθ’ ἑκάστου μέρους γινομένη γραμμή. κατὰ αὐτῆς οὖν τῆς γραμμῆς σωλῆνα ἐντεμόντες εἰς τὸ βάθος τοῦ κυλίνδρου καὶ ἐκκόψαντες, ὥστε ἐν τῷ σωλῆνι τύλον ἐναρμόσαι στερεόν, χρῶνται τῷ κοχλίᾳ οὕτως. τὰ ἄκρα αὐτοῦ στρογγύλα ποιήσαντες ἐναρμόζουσιν εἴς τινα διαπήγματα ἐν στρογγύλοις τρήμασιν, ὥστε εὐκόπως αὐτὸν στρέφεσθαι, ὑπὲρ δὲ τὸν κοχλίαν κανόνα διατιθέντες παράλληλον αὐτῷ σωλῆνα ἔχοντα μέσον ἐν τῇ ἄνω ἐπιφανείᾳ ἐναρμόζουσιν εἰς τοῦτον τὸν σωλῆνα τὸν εἰρημένον τύλον, ὥστε τὸ μὲν ἕτερον ἄκρον τοῦ τύλου ... ἐν μὲν τῷ 〈τοῦ〉 κοχλίου σωλῆνι, τὸ δὲ ἕτερον ἐν τῷ εἰρημένῳ ἑτέρῳ σωλῆνι τῷ ἐν τῷ κανόνι. ὅταν οὖν βούλωνται φορτίον κινεῖν διὰ τούτου τοῦ ὀργάνου, ὅπλον λαβόντες τούτου τὴν μὲν μίαν ἀρχὴν ἐξάπτουσιν ἐκ τοῦ φορτίου, τὴν δὲ ἑτέραν ἐκ τοῦ προειρημένου τύλου καὶ τρημάτων ὄντων τῇ κεφαλῇ τοῦ κοχλίου σκυτάλας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.5.(50)",
+      "text": "ἐμβαλόντες κατάγουσιν, καὶ οὕτως ὑπὸ τῆς ἕλικος ὁ τύλος παραγόμενος ἐν τῷ σωλῆνι ἐπισπᾶται τὸ ὅπλον δι’ οὗ καὶ τὸ φορτίον. ἔξεστιν δὲ ἀντὶ τῶν σκυταλῶν χειρολάβην τινὰ περιθεῖναι τῷ ἄκρῳ τοῦ κοχλίου ὑπερέχοντι εἰς τὸ ἐκτὸς τοῦ διαπήγματος καὶ οὕτως στρέφοντα τὸν κοχλίαν ἐπισπᾶσθαι τὸ φορτίον. ἡ δ’ ἐν τῷ κοχλίᾳ ἕλιξ ὁτὲ μὲν τετράγωνος γίνεται, ὁτὲ δὲ φακοειδής, τετράγωνος μέν, ὅταν ὁ ἐν αὐτῷ σωλὴν ὀρθὰς ἔχῃ τὰς ἐντομάς, φακοειδὴς δέ, ὅταν λοξὰς καὶ εἰς μίαν συναγομένας γραμμήν. καλεῖται δὲ ὁ μὲν τετράγωνος, ὁ δὲ φακωτός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.6",
+      "text": "Ὅταν μὲν οὖν αὐτὸς καθ’ αὑτὸν ὁ κοχλίας ἐνεργῇ, ταύτην λαμβάνει τὴν κατασκευήν. γίνεται δὲ καὶ ἑτέρως. προσλαβόντες γάρ τινα ἑτέραν δύναμιν τὴν διὰ τοῦ ἄξονος τοῦ ἐν τῷ περιτροχίῳ καλουμένου [κατασκευὴν] νοήσομεν τὸ περὶ τὸν ἄξονα τύμπανον ὠδοντωμένον εἶναι, κοχλίαν δέ τινα παρακεῖσθαι τῷ τυμπάνῳ ἤτοι ὀρθὸν κείμενον πρὸς τὸ ἔδαφος ἢ παράλληλον τῷ ἐδάφει ἔχοντα τὴν μὲν ἕλικα ἐμπεπλεγμένην τοῖς ὀδοῦσι τοῦ τυμπάνου, τὰ δὲ ἄκρα ἐν στρογγύλοις τρήμασιν πολευόμενα ἔν τισιν διαπήγμασιν, καθάπερ καὶ προείρηται, καὶ ὑπεροχῆς οὔσης τοῦ ἄκρου τοῦ κοχλίου εἰς τὸ ἐκτὸς τοῦ διαπήγματος μέρος, ἤτοι χειρολάβην τινὰ περικεῖσθαι, δι’ ἧς ἐπιστραφήσεται ὁ κοχλίας, ἢ τρήματα, ὥστε σκυταλῶν ἐμβληθεισῶν ὁμοίως ἐπιστρέφεσθαι αὐτόν. πάλιν οὖν τὰ ἐκ τοῦ φορτίου ὅπλα περιβαλόντες περὶ τὸν ἄξονα ἐφ’ ἑκάτερα τοῦ τυμπάνου καὶ ἐπιστρέφοντες τὸν κοχλίαν, δι’ οὗ καὶ τὸ ὠδοντωμένον τύμπανον, ἐπισπασόμεθα τὸ βάρος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.7",
+      "text": "Αἱ μὲν οὖν κατασκευαὶ καὶ αἱ χρήσεις τῶν προειρημένων πέντε δυνάμεων δεδήλωνται. τίς δέ ἐστιν ἡ αἰτία, δι’ ἣν δι’ ἑκάστης αὐτῶν μεγάλα βάρη κινεῖται μικρᾷ παντάπασι δυνάμει, Ἥρων ἀπέδειξεν ἐν τοῖς Μηχανικοῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.18",
+      "text": "... δῆλον ὡς καθ’ ἑκάστην στροφὴν τοῦ κοχλίου εἷς ὀδοὺς (sc. τοῦ τυμπάνου ὠδοντωμένου ὀδοῦσιν λοξοῖς) παρενεχθήσεται· τοῦτο γὰρ Ἥρων ἀπέδειξεν ἐν τοῖς Μηχανικοῖς, γραφήσεται δὲ καὶ ὑφ’ ἡμῶν, ἵνα μηδὲν ἔξωθεν ἐπιζητῶμεν. Νοείσθω γὰρ κοχλίας ὁ ΑΒ, ἡ δὲ ἐν αὐτῷ ἕλιξ ἡ ΑΓΔΕΖΒ, [νοείσθωσαν δὲ μονόστροφοι αἱ εἰρημέναι ἕλικες]. τύμπανον δὲ ἔστω [τὸ] παρακείμενον καὶ ὠδοντωμένον τὸ ΗΓΕΘ ὀδόντας ἔχον τοὺς ΗΓ, ΓΕ, ΕΘ ἁρμόζοντας τῇ ἕλικι ... οἱ ἄρα λοιποὶ οὐκ ἐναρμόσουσιν εἰς τὰς λοιπὰς ἕλικας. ἐὰν οὖν ἐπιστρέφωμεν τὸν κοχλίαν, ὥστε τὸ Ε σημεῖον παρωθεῖσθαι ἐπὶ τὰ Γ μέρη, παρέσται τὸ Ε ἐπὶ τὸ Γ, ὅταν ὁ κοχλίας ἀποκατάστασιν μίαν ποιήσηται, καὶ ἕξει ὁ μὲν ΓΕ ὀδοὺς τὴν τοῦ ΓΗ θέσιν, ὁ δὲ ΕΘ τὴν τοῦ ΓΕ, καὶ πάλιν ὁ ΕΘ θέσιν ἐσχηκὼς τὴν ΓΕ ἐν μιᾷ τοῦ κοχλίου περιστροφῇ ὅλος παραχθήσεται. καὶ ἐπὶ τῶν ἑξῆς ὀδόντων τὰ αὐτὰ ἐπινοεῖν χρή, ὥστε ὅσους ἐὰν ὀδόντας ἔχῃ τὸ τύμπανον, τοσαυτάκις ὁ κοχλίας κινηθεὶς μίαν ἀποκατάστασιν τοῦ τυμπάνου ποιήσεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.35",
+      "text": "Τὸ μὲν οὖν μάλιστα συνέχον τὴν κεντροβαρικὴν πραγματείαν τοῦτ’ ἂν εἴη, μάθοις δ’ ἂν τὰ μὲν στοιχειώδη ὄντα διὰ ταύτης δεικνύμενα τοῖς Ἀρχιμήδους Περὶ ἰσορροπιῶν ἐντυχὼν καὶ τοῖς Ἥρωνος Μηχανικοῖς, ὅσα δὲ μὴ γνώριμα τοῖς πολλοῖς γράψομεν ἐφεξῆς, οἷον τὰ τοιαῦτα. Ἔστω τρίγωνον τὸ ΑΒΓ ... τετμήσθωσαν γὰρ αἱ ΒΓ, ΓΑ δίχα τοῖς Δ, Ε, καὶ ἐπεζεύχθωσαν αἱ ΑΔ, ΒΕ [τὸ Ζ ἄρα κέντρον βάρους ἐστὶν τοῦ ΑΒΓ τριγώνου]. ἐὰν γὰρ τὸ τρίγωνον ἐπί τινος ὀρθοῦ ἐπιπέδου ἐπισταθῇ κατὰ τὴν ΑΔ εὐθεῖαν, ἐπ’ οὐδέτερον μέρος ῥέψει τὸ τρίγωνον διὰ τὸ ἴσον εἶναι τὸ ΑΒΔ τρίγωνον τῷ ΑΓΔ τριγώνῳ. ἐπισταθὲν δὲ ὁμοίως τὸ ΑΒΓ τρίγωνον κατὰ τὴν ΒΕ ἐπὶ τοῦ ὀρθοῦ ἐπιπέδου ἐπ’ οὐδέτερον μέρος ῥέψει διὰ τὸ ἴσα εἶναι τὰ ΑΒΕ, ΓΒΕ τρίγωνα. εἰ δὲ ἐφ’ ἑκατέρας τῶν ΑΔ, ΒΕ ἰσορροπεῖ τὸ τρίγωνον, τὸ ἄρα κοινὸν αὐτῶν σημεῖον τὸ Ζ κέντρον ἔσται τοῦ βάρους. νοεῖν δὲ δεῖ τὸ Ζ, ὡς προείρηται, κείμενον ἐν μέσῳ τοῦ ΑΒΓ τριγώνου ἰσοπαχοῦς τε καὶ ἰσοβαροῦς δηλονότι ὑποκειμένου. καὶ φανερὸν ὅτι διπλασία ἐστὶν ἡ μὲν ΑΖ τῆς ΖΔ, ἡ δὲ ΒΖ τῆς ΖΕ, καὶ ὅτι ὡς ἡ ΓΑ πρὸς ΓΕ, οὕτως ἡ ΑΒ πρὸς ΔΕ καὶ ἡ ΒΖ πρὸς ΖΕ καὶ ἡ ΑΖ πρὸς ΖΔ διὰ τὸ ἰσογώνια εἶναι καὶ τὰ ΔΖΕ, ΑΒΖ τρίγωνα καὶ τὰ ΓΔΕ, ΑΒΓ ... καὶ εἰσὶν παράλληλοι αἱ ΑΒ, ΔΕ, καὶ ἐπεζευγμέναι αἱ ΑΔ, ΒΕ τέμνουσιν ἀλλήλας κατὰ τὸ Ζ ...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.1",
+      "text": "Ἐν δὲ τοῖς ἑξῆς ἐκ τοῦ γʹ τῶν Ἥρωνος μηχανὰς γράψομεν πρὸς εὐκοπίαν καὶ λυσιτέλειαν ἁρμοζούσας, δι’ ὧν πάλιν μεγάλα βάρη κινηθήσεται. Τὰ μὲν οὖν ἀγόμενα ἐπὶ τοῦ ἐδάφους, φησίν, ἐπὶ χελώναις ἄγεται. ἡ δὲ χελώνη πῆγμά ἐστιν ἐκ τετραγώνων ξύλων συμπεπηγός, ὧν τὰ ἄκρα ἀνασεσίμωται. ταύταις οὖν ἐπιτίθεται τὰ βάρη, καὶ ἐκ τῶν ἄκρων αὐτῶν ἤτοι πολύσπαστα ἐκδέννυται ἢ ὅπλων ἀρχαί. ταῦτα δὲ ἤτοι ἀπὸ χειρὸς ἕλκεται ἢ εἰς ἐργάτας ἀποδίδοται, ὧν περιαγομένων ἡ χελώνη ἐπὶ τοῦ ἐδάφους σύρεται ὑποβαλλομένων σκυταλίων ἢ σανίδων. ἐὰν μὲν γὰρ μικρὸν ᾖ τὸ φορτίον, σκυτάλαις χρῆσθαι δεῖ, ἐὰν δὲ μεῖζον, ταῖς σανίσιν διὰ τὸ ταύτας μὴ εὐκόλως σύρεσθαι. αἱ γὰρ σκυτάλαι κυλιόμεναι κίνδυνον ἔχουσιν τοῦ φορτίου ὁρμὴν λαβόντος. ἔνιοι δὲ οὔτε σκυτάλαις οὔτε σανίσι χρῶνται, ἀλλὰ τροχοὺς ναστοὺς προσθέντες ταῖς χελώναις ἄγουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.2",
+      "text": "Ἐπὶ δὲ τῶν εἰς ὕψος βασταζομένων φορτίων, φησίν, μηχαναὶ γίνονται αἱ μὲν μονόκωλοι, αἱ δὲ δίκωλοι, αἱ δὲ τρίκωλοι, αἱ δὲ τετράκωλοι. Αἱ μὲν οὖν μονόκωλοι οὕτως. ξύλον εὔτονον λαμβάνεται ὕψος ἔχον μεῖζον ἢ οὗ βουλόμεθα τὸ φορτίον μετεωρίσαι, κἂν μὲν αὐτὸ καθ’ αὑτὸ ἰσχυρὸν ᾖ, ὅπλον βάλλοντες περὶ αὐτὸ [καὶ σφίγγοντες] καὶ διαμηρυόμενοι κατὰ ἐπείλησιν ἀποσφίγγουσιν. τῶν δὲ ἐπειλήσεων τὸ μεταξὺ διάστημα οὐ πλεῖον γίνεται παλαιστῶν δʹ, καὶ οὕτως εὐτονώτερόν τε γίνεται τὸ ξύλον καὶ αἱ τοῦ ὅπλου ἐπειλήσεις ὥσπερ βαθμοὶ τοῖς ἐργαζομένοις καὶ βουλομένοις εἰς τὸ ἄνω μέρος ἐργάζεσθαι εὔχρηστοι γίνονται. ἐὰν δὲ μὴ ᾖ εὔτονον τὸ ξύλον, [ἐκ πλειόνων συμβλητὸν γίνεται,] στοχάζεσθαι δεῖ τῶν μελλόντων βαστάζεσθαι φορτίων, ὅπως μὴ ἀσθενέστερον τὸ κῶλον ὑπάρχῃ. ἵσταται οὖν τὸ κῶλον ὀρθὸν ἐπί τινος ξύλου, καὶ ἐκ τοῦ ἄκρου αὐτοῦ ὅπλα ἐκδέννυται τρία που ἢ τέσσαρα καὶ ἀποταθέντα ἀποδίδοται πρός τινα μένοντα χωρία, ὅπως τὸ ξύλον, ὅπου ἄν τις βιάζηται, μὴ παραχωρῇ κατεχόμενον ὑπὸ τῶν ἀποτεταμένων ὅπλων. ἐκ δὲ τοῦ ἄνω μέρους αὐτοῦ πολύσπαστα ἐξάψαντες καὶ ἀποδιδόντες εἰς τὸ φορτίον ἐπισπῶνται ἤτοι ἀπὸ χειρὸς ἢ εἰς ἐργάτας ἀποδόντες, †εἰς ὅταν μετεωρισθῇ τὸ φορτίον. κἂν δέῃ τὸν λίθον ἐκτεθῆναι ἐπὶ τεῖχος ἢ ὅπου βούλεταί τις, ἐκλύσαντες ἓν τῶν ἐκδεννυμένων ἐκ τοῦ ἄκρου ὅπλων τὸ ἐπὶ τὰ ἕτερα μέρη τοῦ φορτίου κείμενον ἐγκλίνουσιν τὸ κῶλον καὶ τὰς σκυτάλας ὑποβάλλοντες ὑπὸ τὸ φορτίον ἐν τοῖς μέρεσιν, ἐν οἷς ἡ σφενδόνη ἐν τῷ λίθῳ οὐκ ἐπείληται, χαλῶσι τὰ ἀγόμενα τῶν πολυσπάστων, ἄχρι ἂν ἐπικαθίσῃ τὸ φορτίον ταῖς σκυτάλαις, εἶτ’ ἐκλύσαντες τὴν σφενδόνην μοχλεύουσι τὸ φορτίον, ἄχρι οὗ εἰς ὃν βούλονται τόπον παράξωσιν. εἶτα πάλιν τὸ ὑποκείμενον τῷ κώλῳ ξύλον ὅπλῳ ἐπισπασάμενοι ἀπὸ χειρὸς περιάγουσιν ἐπὶ ἕτερον μέρος τοῦ οἰκοδομήματος ἅμα ἀνιέντες τοὺς ἀποτόμους, καὶ πάλιν ἐκδήσαντες χρῶνται, ὡς προείρηται.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "odi-ad",
+      "title": {
+        "english": "Art of War Machines",
+        "ancient_greek": "Βελοποιικά"
+      },
+      "url_slug": "hero-of-alexandria-war-machines-odi-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/war-machines",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-war-machines-odi-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-war-machines-odi-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-war-machines-odi-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-war-machines-odi-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/war-machines.epub"
+      }
+    },
+    {
+      "eul_wid": "odi-ae",
+      "title": {
+        "english": "Book of Agriculture",
+        "ancient_greek": "Γεωπονικόν"
+      },
+      "url_slug": "hero-of-alexandria-agriculture-odi-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/agriculture",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-agriculture-odi-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-agriculture-odi-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-agriculture-odi-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-agriculture-odi-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/agriculture.epub"
+      }
+    },
+    {
+      "eul_wid": "odi-am",
+      "title": {
+        "english": "Catoptrics",
+        "ancient_greek": "Κατοπτρικά"
+      },
+      "url_slug": "hero-of-alexandria-catoptrics-odi-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/catoptrics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-catoptrics-odi-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-catoptrics-odi-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-catoptrics-odi-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-catoptrics-odi-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/catoptrics.epub"
+      }
+    },
+    {
+      "eul_wid": "odi-aa",
+      "title": {
+        "english": "Construction and Symmetry of the Hand Ballista",
+        "ancient_greek": "Χειροβαλλίστρας κατασκευὴ καὶ συμμετρία"
+      },
+      "url_slug": "hero-of-alexandria-hand-ballista-odi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/hand-ballista",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-hand-ballista-odi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-hand-ballista-odi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-hand-ballista-odi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-hand-ballista-odi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/hand-ballista.epub"
+      }
+    },
+    {
+      "eul_wid": "odi-aj",
+      "title": {
+        "english": "Definitions",
+        "ancient_greek": "Ὅροι"
+      },
+      "url_slug": "hero-of-alexandria-definitions-odi-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/definitions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-definitions-odi-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-definitions-odi-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-definitions-odi-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-definitions-odi-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/definitions.epub"
+      }
+    },
+    {
+      "eul_wid": "odi-ao",
+      "title": {
+        "english": "Dioptra",
+        "ancient_greek": "Διόπτρα"
+      },
+      "url_slug": "hero-of-alexandria-dioptra-odi-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/dioptra",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-dioptra-odi-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-dioptra-odi-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-dioptra-odi-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-dioptra-odi-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/dioptra.epub"
+      }
+    },
+    {
+      "eul_wid": "odi-ab",
+      "title": {
+        "english": "Fragments-Horoscopes",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ὡροσκοπίων"
+      },
+      "url_slug": "hero-of-alexandria-horoscopes-odi-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/horoscopes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-horoscopes-odi-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-horoscopes-odi-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-horoscopes-odi-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-horoscopes-odi-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/horoscopes.epub"
+      }
+    },
+    {
+      "eul_wid": "odi-ap",
+      "title": {
+        "english": "Geodesy",
+        "ancient_greek": "Γεωδαισία"
+      },
+      "url_slug": "hero-of-alexandria-geodesy-odi-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/geodesy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-geodesy-odi-ap.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-geodesy-odi-ap.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-geodesy-odi-ap.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-geodesy-odi-ap.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/geodesy.epub"
+      }
+    },
+    {
+      "eul_wid": "odi-ag",
+      "title": {
+        "english": "Geometrical Works",
+        "ancient_greek": "Γεωμετρικά"
+      },
+      "url_slug": "hero-of-alexandria-geometrical-works-odi-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/geometrical-works",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-geometrical-works-odi-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-geometrical-works-odi-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-geometrical-works-odi-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-geometrical-works-odi-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/geometrical-works.epub"
+      }
+    },
+    {
+      "eul_wid": "odi-af",
+      "title": {
+        "english": "Heronian Fragments",
+        "ancient_greek": "Ἀποσπάσματα Ἡρωνιακά"
+      },
+      "url_slug": "hero-of-alexandria-fragments-odi-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-fragments-odi-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-fragments-odi-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-fragments-odi-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-fragments-odi-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "odi-an",
+      "title": {
+        "english": "Metrical",
+        "ancient_greek": "Μετρικά"
+      },
+      "url_slug": "hero-of-alexandria-metrical-odi-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/metrical",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-metrical-odi-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-metrical-odi-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-metrical-odi-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-metrical-odi-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/metrical.epub"
+      }
+    },
+    {
+      "eul_wid": "odi-ak",
+      "title": {
+        "english": "On Automata",
+        "ancient_greek": "Περὶ Αὐτοματοποιητικῶν"
+      },
+      "url_slug": "hero-of-alexandria-automata-odi-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/automata",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-automata-odi-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-automata-odi-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-automata-odi-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-automata-odi-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/automata.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "tco-ad",
+      "title": {
+        "english": "Astrological Excerpt A",
+        "ancient_greek": "Ἐκλογή"
+      },
+      "url_slug": "hephaestion-of-thebes-excerpt-ad-tco-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/hephaestion-of-thebes/excerpt-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-excerpt-ad-tco-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-excerpt-ad-tco-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-excerpt-ad-tco-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-excerpt-ad-tco-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes/excerpt-ad.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-ci",
+      "title": {
+        "english": "Creation of Lime",
+        "ancient_greek": "Ποίησις ἀσβέστου"
+      },
+      "url_slug": "alchemist-i-lime-creation-rrg-ci",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/lime-creation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-lime-creation-rrg-ci.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-lime-creation-rrg-ci.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-lime-creation-rrg-ci.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-lime-creation-rrg-ci.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/lime-creation.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-aq",
+      "title": {
+        "english": "Differences of Lead and Gold Leaf",
+        "ancient_greek": "Διαφοραὶ μολίβδου καὶ χρυσοπετάλου"
+      },
+      "url_slug": "alchemist-i-lead-gold-rrg-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/lead-gold",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-lead-gold-rrg-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-lead-gold-rrg-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-lead-gold-rrg-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-lead-gold-rrg-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/lead-gold.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-an",
+      "title": {
+        "english": "Dyeing of Persian Bronze Found by Philip",
+        "ancient_greek": "Βαφὴ τοῦ παρὰ Πέρσαις ἐξευρημένου χαλκοῦ"
+      },
+      "url_slug": "alchemist-i-persian-bronze-rrg-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/persian-bronze",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-persian-bronze-rrg-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-persian-bronze-rrg-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-persian-bronze-rrg-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-persian-bronze-rrg-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/persian-bronze.epub"
+      }
+    },
+    {
+      "eul_wid": "imk-aa",
+      "title": {
+        "english": "Effects",
+        "ancient_greek": "Ἀποτελέσματα"
+      },
+      "url_slug": "manetho-sebennytensis-effects-imk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/manetho-sebennytensis/effects",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/manetho-sebennytensis-effects-imk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/manetho-sebennytensis-effects-imk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/manetho-sebennytensis-effects-imk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/manetho-sebennytensis-effects-imk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/manetho-sebennytensis/effects.epub"
+      }
+    },
+    {
+      "eul_wid": "hhg-ae",
+      "title": {
+        "english": "Fragments on Pythagoras's Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Πυθαγόρου Βίου"
+      },
+      "url_slug": "aristoxenus-of-tarentum-pythagoras-life-hhg-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristoxenus-of-tarentum/pythagoras-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum-pythagoras-life-hhg-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum-pythagoras-life-hhg-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum-pythagoras-life-hhg-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum-pythagoras-life-hhg-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/pythagoras-life.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-bb",
+      "title": {
+        "english": "On the Incombustible Sulfur",
+        "ancient_greek": "Περὶ τοῦ θείου ἀκαύστου"
+      },
+      "url_slug": "alchemist-i-incombustible-sulfur-rrg-bb",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/incombustible-sulfur",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-incombustible-sulfur-rrg-bb.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-incombustible-sulfur-rrg-bb.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-incombustible-sulfur-rrg-bb.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-incombustible-sulfur-rrg-bb.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/incombustible-sulfur.epub"
+      }
+    },
+    {
+      "eul_wid": "lyk-aa",
+      "title": {
+        "english": "On the Phenomena of Aratus and Eudoxus, Commentary Books III",
+        "ancient_greek": "Περὶ τῶν Φαινομένων Ἀράτου καὶ Εὐδόξου"
+      },
+      "url_slug": "hipparchus-of-nicaea-phenomena-aratus-eudoxus-lyk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hipparchus-of-nicaea/phenomena-aratus-eudoxus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea-phenomena-aratus-eudoxus-lyk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea-phenomena-aratus-eudoxus-lyk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea-phenomena-aratus-eudoxus-lyk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea-phenomena-aratus-eudoxus-lyk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea/phenomena-aratus-eudoxus.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hero-of-alexandria/mechanics",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-mechanics-odi-ac.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-mechanics-odi-ac.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-mechanics-odi-ac.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria-mechanics-odi-ac.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/mechanics.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

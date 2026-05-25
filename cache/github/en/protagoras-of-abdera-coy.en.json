@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "coy",
+  "auth_slug": "protagoras-of-abdera",
+  "name": {
+    "english": "Protagoras of Abdera",
+    "ancient_greek": "Πρωταγόρας ὁ Ἀβδηρίτης"
+  },
+  "seo_h1": "Protagoras of Abdera on Truth and the Measure of Man",
+  "seo": {
+    "browser_title": "The Protagoras of Abdera on Eulogikon Greek Archive",
+    "meta_title": "Protagoras Ancient Greek Sophist Works and Fragments",
+    "meta_description": "Protagoras, the pre-Socratic philosopher and famous Sophist. Read his surviving works and fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Protagoras was a Greek philosopher and teacher from the city of Abdera, active in the fifth century BCE. He is identified as the first and most famous of the Sophists, a group of traveling professional educators in classical Greece. He spent significant time in Athens, where he was associated with the statesman Pericles and was reportedly commissioned to write laws for an Athenian colony. According to ancient accounts, he was later tried for impiety in Athens, his books were burned, and he died at sea while fleeing.</p>\n<p class=\"research-text\">His career centered on teaching political excellence and effective public speaking for a fee, training students for success in civic life. None of his own writings survive intact; they are known only through quotations by later authors. Two works are traditionally attributed to him. <strong>On the Gods</strong> is famous for its opening statement of agnosticism concerning the existence and nature of the gods. <strong>Truth</strong> (also called <strong>The Throws</strong>) is best known for its relativistic opening declaration that &quot;man is the measure of all things.&quot;</p>\n<p class=\"research-text\">Modern scholars regard Protagoras as a foundational figure in philosophy, rhetoric, and political thought. His &quot;man is the measure&quot; doctrine is interpreted as a major challenge to objective truth, emphasizing human perception and social convention. This idea sparked extensive debate, most notably with Plato, who opposed his views. His agnostic statement is considered one of the earliest expressions of theological skepticism in Western tradition. As a Sophist, he helped pioneer the formal teaching of rhetoric, which shaped legal and political practice in democratic Athens. Some academics suggest his ideas, as presented by Plato, contain an early form of social contract theory, arguing that political virtue is not innate but can be taught.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "coy-ab",
+      "title": {
+        "english": "On Truth and the Measure of Man",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "protagoras-of-abdera-truth-measure-coy-ab",
+      "passages": 21,
+      "links": {
+        "html": "https://eulogikon.org/grc/protagoras-of-abdera/truth-measure",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagoras-of-abdera-truth-measure-coy-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagoras-of-abdera-truth-measure-coy-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagoras-of-abdera-truth-measure-coy-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagoras-of-abdera-truth-measure-coy-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagoras-of-abdera/truth-measure.epub"
+      }
+    },
+    {
+      "eul_wid": "coy-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "protagoras-of-abdera-testimonies-coy-aa",
+      "passages": 32,
+      "links": {
+        "html": "https://eulogikon.org/grc/protagoras-of-abdera/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagoras-of-abdera-testimonies-coy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagoras-of-abdera-testimonies-coy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagoras-of-abdera-testimonies-coy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagoras-of-abdera-testimonies-coy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagoras-of-abdera/testimonies.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/protagoras-of-abdera",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/protagoras-of-abdera-coy.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/protagoras-of-abdera-coy.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/protagoras-of-abdera-coy.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/protagoras-of-abdera-coy.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

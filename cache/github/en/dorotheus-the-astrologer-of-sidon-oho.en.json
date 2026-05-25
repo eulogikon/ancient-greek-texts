@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "oho",
+  "auth_slug": "dorotheus-the-astrologer-of-sidon",
+  "name": {
+    "english": "Dorotheus the Astrologer of Sidon",
+    "ancient_greek": "Δωρόθεος ὁ Σιδώνιος"
+  },
+  "seo_h1": "Dorotheus of Sidon on Astrological Technique",
+  "seo": {
+    "browser_title": "Dorotheus the Astrologer on Eulogikon Greek Archive",
+    "meta_title": "Dorotheus the Astrologer Ancient Greek Astrological Works",
+    "meta_description": "Dorotheus the Astrologer of Sidon, 1st century CE writer. Works include his astrological treatise. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Dorotheus of Sidon was a Hellenistic astrologer active in the 1st century CE. A native of the Phoenician city of Sidon, he worked during a period of synthesis between Babylonian, Egyptian, and Greek astrological traditions. No details of his personal life or education survive.</p>\n<p class=\"research-text\">His sole known work is the Carmen Astrologicum, a didactic astrological poem composed in Greek hexameter verse. Originally in five books, it survives fragmentarily, primarily through an 8th- or 9th-century Arabic translation. The text systematically treats core techniques of Hellenistic horoscopic astrology, including zodiacal signs, planetary influences, and methods for interpreting natal charts.</p>\n<p class=\"research-text\">Dorotheus is a pivotal figure in the transmission of astrological doctrine. His textbook was extensively cited by later authorities like Vettius Valens and, via its Arabic version, fundamentally influenced the development of Islamic and medieval European astrology. The work provides crucial evidence for the technical practice of astrology in the early Roman Empire.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 3,
+  "works": [
+    {
+      "eul_wid": "oho-aa",
+      "title": {
+        "english": "Fragments Drawn from Hephaestion's Apotelesmatica",
+        "ancient_greek": "Ἀποτελεσματικῶν"
+      },
+      "url_slug": "dorotheus-the-astrologer-of-sidon-hephaestion-fragments-oho-aa",
+      "passages": 19,
+      "links": {
+        "html": "https://eulogikon.org/grc/dorotheus-the-astrologer-of-sidon/hephaestion-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorotheus-the-astrologer-of-sidon-hephaestion-fragments-oho-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorotheus-the-astrologer-of-sidon-hephaestion-fragments-oho-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorotheus-the-astrologer-of-sidon-hephaestion-fragments-oho-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorotheus-the-astrologer-of-sidon-hephaestion-fragments-oho-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorotheus-the-astrologer-of-sidon/hephaestion-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "oho-ac",
+      "title": {
+        "english": "Greek Fragments",
+        "ancient_greek": "Ἑλληνικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "dorotheus-the-astrologer-of-sidon-fragments-oho-ac",
+      "passages": 104,
+      "links": {
+        "html": "https://eulogikon.org/grc/dorotheus-the-astrologer-of-sidon/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorotheus-the-astrologer-of-sidon-fragments-oho-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorotheus-the-astrologer-of-sidon-fragments-oho-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorotheus-the-astrologer-of-sidon-fragments-oho-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorotheus-the-astrologer-of-sidon-fragments-oho-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorotheus-the-astrologer-of-sidon/fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "oho-ab",
+      "title": {
+        "english": "Other Ancient Fragments",
+        "ancient_greek": "Ἄλλα Ἀρχαῖα Ἀποσπάσματα"
+      },
+      "url_slug": "dorotheus-the-astrologer-of-sidon-ancient-fragments-oho-ab",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/dorotheus-the-astrologer-of-sidon/ancient-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorotheus-the-astrologer-of-sidon-ancient-fragments-oho-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorotheus-the-astrologer-of-sidon-ancient-fragments-oho-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorotheus-the-astrologer-of-sidon-ancient-fragments-oho-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorotheus-the-astrologer-of-sidon-ancient-fragments-oho-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorotheus-the-astrologer-of-sidon/ancient-fragments.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/dorotheus-the-astrologer-of-sidon",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dorotheus-the-astrologer-of-sidon-oho.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dorotheus-the-astrologer-of-sidon-oho.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dorotheus-the-astrologer-of-sidon-oho.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dorotheus-the-astrologer-of-sidon-oho.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,476 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "bli-aa",
+  "eul_aid": "bli",
+  "author_slug": "hecataeus-of-miletus",
+  "work_slug": "testimonies",
+  "url_slug": "hecataeus-of-miletus-testimonies-bli-aa",
+  "author": {
+    "english": "Hecataeus of Miletus the Historian",
+    "ancient_greek": "Ἑκαταῖος ὁ Μιλήσιος"
+  },
+  "title": {
+    "english": "Testimonies",
+    "ancient_greek": "Μαρτυρίαι"
+  },
+  "seo": {
+    "browser_title": "The Fragments of Hecataeus of Miletus on Eulogikon",
+    "meta_title": "Fragments by Hecataeus of Miletus in Ancient Greek",
+    "meta_description": "Fragments of Hecataeus of Miletus, 36 passages preserving early Greek historical thought. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Testimonies is a modern scholarly compilation of 36 fragments attributed to Hecataeus of Miletus, an early Greek historian and geographer active around 500 BCE. As the original works of Hecataeus are lost, this collection assembles passages preserved through quotation by later ancient authors, most notably Herodotus and Strabo. These fragments represent the surviving evidence for Hecataeus&#x27;s two major prose works, composed in the Ionic dialect. The first was the Genealogies, a critical attempt to rationalize and systematize the complex family histories of Greek myth. The second was the Periodos Ges, or Circuit of the Earth, a pioneering geographical survey that described the lands and peoples known to the Greeks, ranging from the Mediterranean basin to Asia.</p>\n<p class=\"research-text\">Hecataeus occupies a foundational position in the development of Greek historiography and critical thought. He explicitly positioned himself as a corrective to traditional tales, opening his Genealogies with the declaration that he would write what he deemed true, as the stories of the Greeks were many and absurd. His method involved applying reasoned judgment to mythical material and organizing geographical and ethnographic data systematically. His work directly influenced Herodotus, who both used and critiqued his predecessor&#x27;s accounts. The transmission of Hecataeus&#x27;s writings is entirely indirect, surviving only because later authors referenced him as an authority or a point of contention. The standard modern edition of these fragments, including the testimonia about his life and work, is found within Felix Jacoby&#x27;s authoritative collection, <strong>Die Fragmente der griechischen Historiker</strong>.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1a,1,T 1a",
+      "text": "SUID. s. Ἑκαταῖος Ἡγησάνδρου Μιλήσιος· γέγονε κατὰ τοὺς Δαρείου χρόνους τοῦ μετὰ Καμβύσην βασιλεύσαντος, ὅτε καὶ Διονύσιος ἦν ὁ Μιλήσιος (III), ἐπὶ τῆς ξε ὀλυμπιάδος· ἱστοριογράφος. Ἡρόδοτος δὲ ὁ Ἁλικαρνασεὺς ὠφέληται τούτου, νεώτερος ὤν. καὶ ἦν ἀκουστὴς Πρωταγόρου ὁ Ἑκαταῖος. πρῶτος δὲ ἱστορίαν πεζῶς ἐξήνεγκε, συγγραφὴν δὲ Φερεκύδης (I 3). τὰ γὰρ Ἀκουσιλάου (2 T 7) νοθεύεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 1b",
+      "text": "SUDA s.v. Ἑλλάνικος Μιτυληναῖος (4 T I)· .... κατὰ τοὺς χρόνους Εὐριπίδου καὶ Σοφοκλέους· καὶ Ἑκαταίωι τῶι Μιλησίωι ἐπέβαλε, γεγονὼς κατὰ τὰ Περσικὰ ἢ μικρῶι πρόσ〈θεν〉.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 2",
+      "text": "—s. Ἑλλάνικος Μιλήσιος· ἱστορικός. Περίοδον Γῆς καὶ Ἱστορίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 3a",
+      "text": "STRABON XIV 1, 7: ἄνδρες δ’ ἄξιοι μνήμης ἐγένοντο ἐν τῆι Μιλήτωι Θαλῆς τε ... καὶ ὁ τούτου μαθητὴς Ἀναξίμανδρος καὶ ὁ τούτου πάλιν Ἀναξιμένης· ἔτι δ’ Ἑκαταῖος ὁ τὴν Ἱστορίαν συντάξας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 3b",
+      "text": "SOLIN. Coll. 40, 6: ingenia Asiatica inclita per gentes fuere. poetae Anacreon ..... at historiae conditores Xanthus (765), Hecataeus, Herodotus, cum quibus Ephorus (70) et Theopompus (115). nam de septem sapientia praeditis ....",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 4",
+      "text": "HERODOT. II 143: Πρότερον δὲ Ἑκαταίωι τῶι λογοποιῶι ἐν Θήβηισι γενεηλογήσαντι ἑωυτὸν καὶ ἀναδήσαντι τὴν πατριὴν ἐς ἑκκαιδέκατον θεὸν ἐποίησαν οἱ ἱρέες τοῦ Διὸς οἷόν τι καὶ ἐμοὶ οὐ γενεηλογήσαντι ἐμεωυτόν (F 300).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 5",
+      "text": "—V 36: ἐβουλεύετο ὦν (sc. Ἀρισταγόρης) μετὰ τῶν στασιωτέων. ἐκφήνας τήν τε ἑωυτοῦ γνώμην καὶ τὰ παρὰ τοῦ Ἱστιαίου ἀπιγμένα. (2) οἱ μὲν δὴ ἄλλοι πάντες γνώμην κατὰ τωὐτὸ ἐξεφέροντο, κελεύοντες ἀπίστασθαι Ἑκαταῖος δ’ ὁ λογοποιὸς πρῶτα μὲν οὐκ ἔα πόλεμον βασιλέι τῶν Περσέων ἀναιρέεσθαι, καταλέγων τά τε ἔθνεα πάντα τῶν ἦρχε Δαρεῖος καὶ τὴν δύναμιν αὐτοῦ, ἐπείτε δὲ οὐκ ἔπειθε, δεύτερα συνεβούλευε ποιέειν ὅκως ναυκρατέες τῆς θαλάσσης ἔσονται. (3) ἄλλως μέν νυν οὐδαμῶς ἔφη λέγων ἐνορᾶν ἐσόμενον τοῦτο (ἐπίστασθαι γὰρ τὴν δύναμιν τῶν Μιλησίων ἐοῦσαν ἀσθενέα), εἰ δὲ τὰ χρήματα καταιρεθείη τὰ ἐκ τοῦ ἱροῦ τοῦ ἐν Βραγχίδηισι, τὰ Κροῖσος ὁ Λυδὸς ἀνέθηκε, πολλὰς εἶχε ἐλπίδας ἐπικρατήσειν τῆς θαλάσσης, καὶ οὕτως αὐτούς τε ἕξειν χρήμασι χρᾶσθαι καὶ τοὺς πολεμίους οὐ συλήσειν αὐτά. (4) τὰ δὲ χρήματα ἦν ταῦτα μεγάλα ... αὕτη μὲν δὴ οὐκ ἐνίκα ἡ γνώμη, ἐδόκεε δὲ ὅμως ἀπίστασθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 5bis",
+      "text": "PLUTARCH. Lykurg. 20, 3 (Apophthegm. Lac. p. 218 B): Ἀρχιδαμίδας δὲ μεμφομένων τινῶν Ἑκαταῖον τὸν σοφιστήν, ὅτι παραληφθεὶς εἰς τὸ συσσίτιον οὐδὲν ἔλεγεν, ‘ὁ εἰδώσ‘, ἔφη, ‘λόγον καὶ καιρὸν οἶδεν‘.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 6",
+      "text": "—V 124: ἁλισκομένων δὲ τῶν πολίων ... συγκαλέσας τοὺς συστασιώτας ἐβουλεύετο (sc. Ἀρισταγόρης), λέγων ὡς ἄμεινον σφίσι εἴη κρησφύγετόν τι ὑπάρχον εἶναι, ἢν ἄρα ἐξωθέωνται ἐκ τῆς Μιλήτου, εἴτε δὴ ὦν ἐς Σαρδὼ ἐκ τοῦ τόπου τούτου ἄγοι ἐς ἀποικίην εἴτε ἐς Μύρκινον τὴν Ἠδωνῶν ... ταῦτα ἐπειρώτα ὁ Ἀρισταγόρης. (125) Ἑκαταίου μέν νυν τοῦ Ἡγησάνδρου, ἀνδρὸς λογοποιοῦ, τούτων μὲν ἐς οὐδετέρην στέλλειν ἔφερε ἡ γνώμη, ἐν Λέρωι δὲ τῆι νήσωι τεῖχος οἰκοδομησάμενον ἡσυχίην ἄγειν, ἢν ἐκπέσηι ἐκ τῆς Μιλήτου· ἔπειτα δὲ ἐκ ταύτης ὁρμώμενον κατελεύσεσθαι ἐς τὴν Μίλητον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 7",
+      "text": "Diodor. X 25, 4: ὅτι Ἑκαταῖος ὁ Μιλήσιος πρεσβευτὴς ἀπεσταλμένος ὑπὸ τῶν Ἰώνων ἠρώτησε, δι’ ἣν αἰτίαν ἀπιστεῖ αὐτοῖς ὁ Ἀρταφέρνης· τοῦ δὲ εἰπόντος, μήποτε ὑπὲρ ὧν καταπολεμηθέντες κακῶς ἔπαθον μνησικακήσωσιν, ‘οὐκοῦν‘, ἔφησεν. ‘εἰ τὸ πεπονθέναι κακῶς τὴν ἀπιστίαν περιποιεῖ, τὸ παθεῖν ἄρα εὖ ποιήσει τὰς πόλεις Πέρσαις εὐνοούσασ‘. ἀποδεξάμενος δὲ τὸ ῥηθὲν ὁ Ἀρταφέρνης ἀπέδωκε τοὺς νόμους ταῖς πόλεσι καὶ τακτοὺς φόρους κατὰ δύναμιν ἐπέταξεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 8",
+      "text": "AELIAN. V.H. XIII 20: ἀνὴρ Μεγαλοπολίτης ἐξ Ἀρκαδίας, Κερκίδας ὄνομα, ἀποθνήσκων ἔλεγε πρὸς τοὺς οἰκείους ἀθυμουμένους ἡδέως ἀπολύεσθαι τοῦ ζῆν· δι’ ἐλπίδος γὰρ ἔχειν συγγενέσθαι τῶν μὲν σοφῶν Πυθαγόραι, τῶν δὲ ἱστορικῶν Ἑκαταίωι, τῶν δὲ μουσικῶν Ὀλύμπωι, τῶν δὲ ποιητῶν Ὁμήρωι. καὶ ἐπὶ τούτοις, ὡς λόγος, τὴν ψυχὴν ἀπέλιπεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 9",
+      "text": "—HA IX 23: ποιηταὶ καὶ μύθων ἀρχαίων συνθέται, ὧνπερ οὖν καὶ Ἑκαταῖος ὁ λογοποιός ἐστιν (F 24).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 10",
+      "text": "STRABON VIII 3, 9: Ἑκαταῖος ὁ Μιλήσιος (F 25) ... πολλὰ μὲν οὖν καὶ μὴ ὄντα λέγουσιν οἱ ἀρχαῖοι συγγραφεῖς, συντεθραμμένοι τῶι ψευδεῖ διὰ τὰς μυθογραφίας. διὰ δὲ τοῦτο καὶ οὐχ ὁμολογοῦσι πρὸς ἀλλήλους περὶ τῶν αὐτῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 11a",
+      "text": "—I 1, 1: τῆς τοῦ φιλοσόφου πραγματείας εἶναι νομίζομεν, εἴπερ ἄλλην τινά, καὶ τὴν γεωγραφικήν ... οἵ τε γὰρ πρῶτοι θαρρήσαντες αὐτῆς ἅψασθαι τοιοῦτοί τινες ὑπῆρξαν· Ὁμηρός τε καὶ Ἀναξίμανδρος ὁ Μιλήσιος καὶ Ἑκαταῖος ὁ πολίτης αὐτοῦ, καθὼς καὶ Ἐρατοσθένης (V) φησί, καὶ Δημόκριτος (V) δὲ καὶ Εὔδοξος (V) καὶ Δικαίαρχος (IV) καὶ Ἔφορος (II) καὶ ἄλλοι πλείους· ἔτι δὲ οἱ μετὰ τούτους, Ἐρατοσθένης τε καὶ Πολύβιος καὶ Ποσειδώνιος (II), ἄνδρες φιλόσοφοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 11b",
+      "text": "ders. I 1, 11: νυνὶ δὲ ὅτι μὲν Ὅμηρος τῆς γεωγραφίας ἦρξεν, ἀρκείτω τὰ λεχθέντα. φανεροὶ δὲ καὶ οἱ ἐπακολουθήσαντες αὐτῶι ἄνδρες ἀξιόλογοι καὶ οἰκεῖοι φιλοσοφίας, ὧν τοὺς πρώτους μεθ’ Ὅμηρον δύο φησὶν Ἐρατοσθένης, Ἀναξίμανδρόν τε, Θαλοῦ γεγονότα γνώριμον καὶ πολίτην, καὶ Ἑκαταῖον τὸν Μιλήσιον· τὸν μὲν οὖν ἐκδοῦναι πρῶτον γεωγραφικὸν πίνακα, τὸν δὲ Ἑκαταῖον καταλιπεῖν γράμμα, πιστούμενον ἐκείνου εἶναι ἐκ τῆς ἄλλης αὐτοῦ γραφῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 12a",
+      "text": "AGATHEM. ge. inf. I 1: Ἀναξίμανδρος ὁ Μιλήσιος, ἀκουστὴς Θάλεω, πρῶτος ἐτόλμησε τὴν οἰκουμένην ἐν πίνακι γράψαι. μεθ’ ὃν Ἑκαταῖος ὁ Μιλήσιος, ἀνὴρ πολυπλανής, διηκρίβωσεν ὥστε θαυμασθῆναι τὸ πρᾶγμα. Ἑλλάνικος γὰρ ὁ Λέσβιος (4 T 13), ἀνὴρ πολυίστωρ, ἀπλάστως παρέδωκε τὴν ἱστορίαν. εἶτα Δαμάστης ὁ Σιγειεὺς (5 T 4) τὰ πλεῖστα ἐκ τῶν Ἑκαταίου μεταγράψας Περίπλουν ἔγραψεν. ἑξῆς Δημόκριτος καὶ Εὔδοξος καὶ ἄλλοι τινὲς Γῆς Περιόδους καὶ Περίπλους ἐπραγματεύσαντο (F 36).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 12b",
+      "text": "SCHOL. DION. PERIEG. p. 428, 7 Muell. (EUSTATH. DION p. 208, 14): τίνες πρότερον ἐν πίνακι τὴν οἰκουμένην ἔγραψαν; πρῶτος Ἀναξίμανδρος, δεύτερος Μιλήσιος Ἑκαταῖος, τρίτος Δημόκριτος Θαλοῦ μαθητής, τέταρτος Εὔδοξος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 13",
+      "text": "STRABON VII 3, 6: ἃ δ’ Ἀπολλόδωρος (II) ἐν τῶι δευτέρωι Περὶ νεῶν προοιμιαζόμενος εἴρηκεν, ἥκιστα λέγοιτ’ ἄν. ἐπαινεῖ γὰρ Ἐρατοσθένους (V) ἀπόφασιν, ὅτι φησὶν ἐκεῖνος καὶ Ὅμηρον καὶ τοὺς ἄλλους τοὺς παλαιοὺς τὰ μὲν Ἑλληνικὰ εἰδέναι, τῶν δὲ πόρρω πολλὴν ἔχειν ἀπειρίαν ... οὐ θαυμαστὸν δ’ εἶναι περὶ Ὁμήρου· καὶ γὰρ τοὺς ἔτι νεωτέρους ἐκείνου πολλὰ ἀγνοεῖν καὶ τερατολογεῖν· Ἡσίοδον (F 62 R 2 ) μὲν Ἡμίκυνας λέγοντα καὶ Μεγαλοκεφάλους καὶ Πυγμαίους, Ἀλκμᾶνα (F 118) δὲ Στεγανόποδας, Αἰσχύλον (F 431) δὲ Κυνοκεφάλους καὶ Στερνοφθάλμους καὶ Μονομμάτους [ἐν τῶι Προμηθεῖ φασι] καὶ ἄλλα μυρία. ἀπὸ δὲ τούτων ἐπὶ τοὺς συγγραφέας βαδίζει Ῥιπαῖα ὄρη λέγοντας καὶ τὸ Ὠγύιον ὄρος καὶ τὴν τῶν Γοργόνων καὶ Ἑσπερίδων κατοικίαν, καὶ τὴν παρὰ Θεοπόμπωι (II) Μεροπίδα γῆν, παρ’ Ἑκαταίωι (III) δὲ Κιμμερίδα πόλιν, παρ’ Εὐημέρωι (63 T 5) δὲ τὴν Παγχ〈α〉ίαν γῆν ... s. F 194.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 14",
+      "text": "AGATHARCHIDES bei PHOT. Bibl. 250 p. 454 b 30: τῆς ὅλης οἰκουμένης ἐν τέτταρσι κυκλιζομένης μέρεσιν, ἀνατολῆς λέγω, δύσεως, ἄρκτου καὶ μεσημβρίας, τὰ μὲν πρὸς ἑσπέραν ἐξείργασται Λύκος (III) τε καὶ Τίμαιος (III), τὰ δὲ πρὸς ἀνατολὰς Ἑκαταῖός τε καὶ Βάσιλις (III), τὰ δὲ πρὸς τὰς ἄρκτους Διόφαντος (III) καὶ Δημήτριος (V), τὰ δὲ πρὸς μεσημβρίαν (φορτικόν, φησί, τὸ ἀληθές) ἡμεῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 15a",
+      "text": "ATHENAI. II 70 A: Ἑκαταῖος δ’ ὁ Μιλήσιος ἐν Ἀσίας Περιηγήσει (F 291), εἰ γνήσιον τοῦ συγγραφέως τὸ βιβλίον—Καλλίμαχος (IV) γὰρ Νησιώτου αὐτὸ ἀναγράφει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 15b",
+      "text": "—IX 410 E: ὡς καὶ Ἑκαταῖος (F 358) δηλοῖ ἢ ὁ γεγραφὼς τὰς περιηγήσεις ἐν τῆι Ἀσίαι ἐπιγραφομένηι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 15c",
+      "text": "ARRIAN. anab. V 6, 5: Ἡροδοτός τε καὶ Ἑκαταῖος (F 301) οἱ λογοποιοί, ἢ εἰ δή του ἄλλου ἢ Ἑκαταίου ἐστὶ τὰ ἀμφὶ τῆι γῆι τῆι Αἰγυπτίαι ποιήματα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 16",
+      "text": "STRABON I 2, 6: ... ὡς δ’ εἰπεῖν, ὁ πεζὸς λόγος, ὅ γε κατεσκευασμένος, μίμημα τοῦ ποιητικοῦ ἐστι. πρώτιστα γὰρ ἡ ποιητικὴ κατασκευὴ παρῆλθεν εἰς τὸ μέσον καὶ εὐδοκίμησεν· εἶτα ἐκείνην μιμούμενοι, λύσαντες τὸ μέτρον, τἆλλα δὲ φυλάξαντες τὰ ποιητικά, συνέγραψαν οἱ περὶ Κάδμον (III) καὶ Φερεκύδη (I 3) καὶ Ἑκαταῖον· εἶτα οἱ ὕστερον, ἀφαιροῦντες ἀεί τι τῶν τοιούτων, εἰς τὸ νῦν εἶδος κατήγαγον, ὡς ἂν ἀπὸ ὕψους τινός, καθάπερ ἄν τις καὶ τὴν κωμωιδίαν φαίη λαβεῖν τὴν σύστασιν ἀπὸ τῆς τραγωιδίας καὶ τοῦ κατ’ αὐτὴν ὕψους καταβιβασθεῖσαν εἰς τὸ λογοειδὲς νυνὶ καλούμενον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 17a",
+      "text": "DIONYS. HAL. De Thuc. 5: μέλλων δὲ ἄρχεσθαι τῆς περὶ Θουκυδίδου γραφῆς ὀλίγα βούλομαι περὶ τῶν ἄλλων συγγραφέων εἰπεῖν, τῶν τε πρεσβυτέρων καὶ τῶν κατὰ τοὺς αὐτοὺς ἀκμασάντων ἐκείνωι χρόνους, ἐξ ὧν ἔσται καταφανὴς ἥ τε προαίρεσις τοῦ ἀνδρός, ἧι χρησάμενος διήλλαξε τοὺς πρὸ αὐτοῦ, καὶ ἡ δύναμις. ἀρχαῖοι μὲν οὖν συγγραφεῖς πολλοὶ καὶ κατὰ πολλοὺς τόπους ἐγένοντο πρὸ τοῦ Πελοποννησιακοῦ πολέμου· ἐν οἷς ἐστιν Εὐγέων τε ὁ Σάμιος (III) καὶ Δηίοχος 〈ὁ Κυζικηνὸς καὶ Βίων〉 ὁ Προκοννήσιος (III) καὶ Εὔδημος ὁ Πάριος (VI) καὶ Δημοκλῆς ὁ Φυγελεὺς (VI) καὶ Ἑκαταῖος ὁ Μιλήσιος ὅ τε Ἀργεῖος Ἀκουσίλαος (I 2) καὶ ὁ Λαμψακηνὸς Χάρων (III) καὶ ὁ Χαλκηδόνιος ** Ἀμελησαγόρας (III)· ὀλίγωι τε πρεσβύτεροι τῶν Πελοποννησιακῶν καὶ μέχρι τῆς Θουκυδίδου παρεκτείναντες ἡλικίας Ἑλλάνικός τε ὁ Λέσβιος (I 4) καὶ Δαμάστης ὁ Σιγειεὺς (I 5) καὶ Ξενομήδης ὁ Κεῖος (III) καὶ Ξάνθος ὁ Λυδὸς (III) καὶ ἄλλοι συχνοί. οὗτοι προαιρέσει τε ὁμοίαι ἐχρήσαντο περὶ τὴν ἐκλογὴν τῶν ὑποθέσεων καὶ δυνάμεις οὐ πολύ τι διαφερούσας ἔσχον ἀλλήλων, οἱ μὲν τὰς Ἑλληνικὰς ἀναγράφοντες ἱστορίας, οἳ δὲ τὰς βαρβαρικάς, [καὶ] αὐτάς τε ταύτας οὐ συνάπτοντες ἀλλήλαις, ἀλλὰ κατ’ ἔθνη καὶ κατὰ πόλεις διαιροῦντες καὶ χωρὶς ἀλλήλων ἐκφέροντες, ἕνα καὶ τὸν αὐτὸν φυλάττοντες σκοπόν, ὅσαι διεσώιζοντο παρὰ τοῖς ἐπιχωρίοις μνῆμαι κατὰ ἔθνη τε καὶ κατὰ πόλεις, εἴ τ’ ἐν ἱεροῖς εἴ τ’ ἐν βεβήλοις ἀποκείμεναι γραφαί, ταύτας εἰς τὴν κοινὴν ἁπάντων γνῶσιν ἐξενεγκεῖν, οἵας παρέλαβον, μήτε προστιθέντες αὐταῖς τι μήτε ἀφαιροῦντες· ἐν αἷς καὶ μῦθοί τινες ἐνῆσαν ἀπὸ τοῦ πολλοῦ πεπιστευμένοι χρόνου καὶ θεατρικαί τινες περιπέτειαι πολὺ τὸ ἠλίθιον ἔχειν τοῖς νῦν δοκοῦσαι· λέξιν τε ὡς ἐπὶ τὸ πολὺ τὴν αὐτὴν ἅπαντες ἐπιτηδεύσαν〈τεσ〉, ὅσοι τοὺς αὐτοὺς προείλοντο τῶν διαλέκτων χαρακτῆρας, τὴν σαφῆ καὶ κοινὴν καὶ καθαρὰν καὶ σύντομον καὶ τοῖς πράγμασι προσφυῆ καὶ μηδεμίαν σκευωρίαν ἐπιφαίνουσαν τεχνικήν· ἐπιτρέχει μέντοι τις ὥρα τοῖς ἔργοις αὐτῶν καὶ χάρις, τοῖς μὲν πλείων, τοῖς δ’ ἐλάττων, δι’ ἣν ἔτι μένουσιν αὐτῶν αἱ γραφαί. ὁ δ’ Ἁλικαρνασεὺς Ἡρόδοτος ... τήν τε πραγματικὴν προαίρεσιν ἐπὶ τὸ μεῖζον ἐξήνεγκε ... καὶ τῆι λέξει προσαπέδωκε τὰς παραλειφθείσας ὑπὸ τῶν πρὸ αὐτοῦ συγγραφέων ἀρετάς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 17b",
+      "text": "——23, οἱ δὲ πρὸ τοῦ Πελοποννησιακοῦ γενόμενοι πολέμου καὶ μέχρι τῆς Θουκυδίδου παρεκτείναντες ἡλικίας ὁμοίας ἔσχον ἅπαντες ὡς ἐπὶ τὸ πολὺ προαιρέσεις, οἵ τε τὴν Ἰάδα προελόμενοι διάλεκτον τὴν ἐν τοῖς τότε χρόνοις μάλιστα ἀνθοῦσαν καὶ οἱ τὴν ἀρχαίαν Ἀτθίδα ... πάντες γὰρ οὗτοι, καθάπερ ἔφην, περὶ τὴν κυρίαν λέξιν μᾶλλον ἐσπούδασαν ἢ περὶ τὴν τροπικήν, ταύτην δὲ ὥσπερ ἥδυσμα παρελάμβανον, σύνθεσίν τε ὀνομάτων ὁμοίαν ἅπαντες ἐπετήδευσαν τὴν ἀφελῆ καὶ ἀνεπιτήδευτον, καὶ οὐδ’ ἐν τῶι σχηματίζειν τὰς λέξεις 〈καὶ〉 τὰς νοήσεις ἐξέβησαν ἐπὶ πολὺ τῆς τετριμμένης καὶ κοινῆς καὶ συνήθους ἅπασι διαλέκτου· τὰς μὲν οὖν ἀναγκαίας ἀρετὰς ἡ λέξις αὐτῶν πάντων ἔχει—καὶ γὰρ καθαρὰ καὶ σαφὴς καὶ σύντομός ἐστιν ἀποχρώντως, σώιζουσα τὸν ἴδιον ἑκάστη τῆς διαλέκτου χαρακτῆρα· τὰς δ’ ἐπιθέτους, ἐξ ὧν μάλιστα διάδηλος ἡ τοῦ ῥήτορος γίνεται δύναμις, οὔτε ἁπάσας οὔτε εἰς ἄκρον ἡκούσας, ἀλλ’ ὀλίγας καὶ ἐπὶ βραχύ, ὕψος λέγω καὶ καλλιρημοσύνην καὶ σεμνολογίαν καὶ μεγαλοπρέπειαν· οὐδὲ δὴ τόνον οὐδὲ βάρος οὐδὲ πάθος διεγεῖρον τὸν νοῦν οὐδὲ τὸ ἐρρωμένον καὶ ἐναγώνιον πνεῦμα, ἐξ ὧν ἡ καλουμένη γίνεται δεινότης, πλὴν ἑνὸς Ἡροδότου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 18",
+      "text": "HERMOGEN. π. ἰδ. II 12 p. 411, 12 Rabe: Ἑκαταῖος δὲ ὁ Μιλήσιος, παρ’ οὗ δὴ μάλιστα ὠφέληται ὁ Ἡρόδοτος, καθαρὸς μέν ἐστι καὶ σαφής, ἐν δέ τισι καὶ ἡδὺς οὐ μετρίως· τῆι διαλέκτωι δὲ ἀκράτωι Ἰάδι καὶ οὐ μεμιγμένηι χρησάμενος οὐδὲ κατὰ τὸν Ἡρόδοτον ποικίληι, ἧττόν ἐστιν ἕνεκά γε τῆς λέξεως ποιητικός. καὶ ἡ ἐπιμέλεια δὲ αὐτῶι οὐ τοιαύτη οὐδ’ ὅμοιος ὁ κόσμος ὁ περὶ αὐτήν· διὸ καὶ ταῖς ἡδοναῖς ἐλαττοῦται πολλῶι τοῦ Ἡροδότου, ἀλλὰ πάνυ πολλῶι, καίτοι γε μύθους τὰ πάντα σχεδὸν καὶ τοιαύτην τινὰ ἱστορίαν συγγραψάμενος. ἀλλ’ οὐ μόνον ἡ ἔννοια ἱκανὴ λόγων εἶδος ὁτιοῦν ἐξεργάσασθαι, πολὺ δὲ ἔχει καὶ ἡ λέξις καὶ τὰ περὶ τὴν λέξιν, οἷον σχήματα, κῶλα, συνθῆκαι, ῥυθμοί, ἀναπαύσεις, πρὸς τὸ καὶ ἡδονὰς ποιῆσαι καὶ γλυκύτητας, οἷαί εἰσιν αἱ παρὰ Ἡροδότωι, καὶ νὴ Δία γε ἄλλο τι λόγων εἶδος, ὡς ἕκασται πεφύκασιν ἐργάζεσθαι λόγων ἰδέαι. εἰκότως οὖν τοῦτο ὁ Ἑκαταῖος πέπονθε, τῆς ἐπιμελείας καὶ τοῦ περὶ τὴν λέξιν κόσμου μὴ ὁμοίως φροντίσας. τοσαῦτα καὶ περὶ Ἑκαταίου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 19",
+      "text": "DEMETR. De eloc. 12: τῆς ἑρμηνείας ἡ μὲν ὀνομάζεται κατεστραμμένη, οἷον ἡ κατὰ περιόδους, ἔχουσα ὡς ἡ τῶν Ἰσοκρατείων ῥητορειῶν καὶ Γοργίου καὶ Ἀλκιδάμαντος· ὅλαι γὰρ διὰ περιόδων εἰσὶν συνεχῶν οὐδέν τι ἔλαττον, ἤπερ ἡ Ὁμήρου ποίησις δι’ ἑξαμέτρων. ἡ δέ τις διηιρημένη ἑρμηνεία καλεῖται, ἡ εἰς κῶλα λελυμένη οὐ μάλα ἀλλήλοις συνηρτημένα, ὡς ἡ Ἑκαταίου καὶ τὰ πλεῖστα τῶν Ἡροδότου καὶ ὅλως ἡ ἀρχαία πᾶσα. παράδειγμα αὐτῆς· (F 1a) ... ὥσπερ γὰρ σεσωρευμένοις ἐπ’ ἀλλήλοις τὰ κῶλα ἔοικεν ... οὐδὲ βοηθοῦντα ἀλλήλοις ὥσπερ ἐν ταῖς περιόδοις. ... (14) διὸ καὶ περιεξεσμένον ἔχει τι ἡ ἑρμηνεία ἡ πρὶν καὶ εὐσταλές, ὥσπερ καὶ τὰ ἀρχαῖα ἀγάλματα, ὧν τέχνη ἐδόκει ἡ συστολὴ καὶ ἰσχνότης, ἡ δὲ τῶν μετὰ ταῦτα ἑρμηνεία τοῖς Φειδίου ἔργοις ἤδη ἔοικεν ἔχουσά τι καὶ μεγαλεῖον καὶ ἀκριβὲς ἅμα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 20",
+      "text": "ANONYM. π. ὕψ. 27, 1 ἔτι γε μὴν ἔσθ’ ὅτε περὶ προσώπου διηγούμενος ὁ συγγραφεὺς ἐξαίφνης παρενεχθεὶς εἰς τὸ αὐτοπρόσωπον ἀντιμεθίσταται, καὶ ἔστι τὸ τοιοῦτον εἶδος ἐκβολή τις πάθους· ‘Ἕκτωρ δὲ Τρώεσσιν ἐκέκλετο μακρὸν ἀύσας, / νηυσὶν ἐπισσεύεσθαι, ἐᾶν δ’ ἔναρα βροτόεντα· / ὃν δ’ ἂν ἐγὼν ἀπάνευθε νεῶν ἐθέλοντα νοήσω, / αὐτοῦ οἱ θάνατον μητίσομαι‘ (Il. Ο 346 ff.). οὐκοῦν τὴν μὲν διήγησιν ἅτε πρέπουσαν ὁ ποιητὴς προσῆψεν ἑαυτῶι, τὴν δ’ ἀπότομον ἀπειλὴν τῶι θυμῶι τοῦ ἡγεμόνος ἐξαπίνης οὐδὲν προδηλώσας περιέθηκεν ... (2) διὸ καὶ ἡ πρόχρησις τοῦ σχήματος τότε, ἡνίκ’ ἂν ὀξὺς ὁ καιρὸς ὢν διαμέλλειν τῶι γράφοντι μὴ διδῶι ἀλλ’ εὐθὺς ἐπαναγκάζηι μεταβαίνειν ἐκ προσώπων εἰς πρόσωπα, ὡς καὶ παρὰ τῶι Ἑκαταίωι (F 30).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 21",
+      "text": "HERAKLEIT. 12 B 40 Diels 3 : πολυμαθίη νόον ἔχειν οὐ διδάσκει· Ἡσίοδον γὰρ ἂν ἐδίδαξε καὶ Πυθαγόρην αὖτίς τε Ξενοφάνεά τε καὶ Ἑκαταῖον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 22",
+      "text": "PORPHYR. b. EUSEB. PE X 3 p. 466 B: Ἡρόδοτος ἐν τῆι δευτέραι πολλὰ Ἑκαταίου τοῦ Μιλησίου κατὰ λέξιν μετήνεγκεν ἐκ τῆς Περιηγήσεως βραχέα παραποιήσας (F 324).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 22bis",
+      "text": "THUKYD. I, 22, 2: τὰ δ’ ἔργα τῶν πραχθέντων ἐν τῶι πολέμωι οὐκ ἐκ τοῦ παρατυχόντος πυνθανόμενος ἠξίωσα γράφειν, οὐδ’ ὡς ἐμοὶ ἐδόκει, ἀλλ’ οἷς τε αὐτὸς παρῆν καὶ παρὰ τῶν ἄλλων ὅσον δυνατὸν ἀκριβείαι περὶ ἑκάστου ἐπεξελθών.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 23",
+      "text": "AVIEN. or. mar. 32: interrogasti, si tenes, Maeotici situs quis esset aequoris. Sallustium noram id dedisse ... ad eius igitur inclytam descriptionem ... multa rerum iunximus, ex plurimorum sumpta commentariis. (42) Hecataeus istic quippe erit Milesius, Hellanicusque Lesbius, Phileus quoque Atheniensis, Caryandaeus Scylax, Pausimachus inde, prisca quem genuit Samos; quin et Damastus nobili natus Sige, Rhodoque Bacoris ortus, Euctemon quoque popularis urbis Atticae, Siculus Cleon, Herodotus ipse Thurius, tum qui decus magnum loquendi est, Atticus Thucydides.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 24",
+      "text": "CLEM. ALEX. Strom. VI 26, 8 p. 443, 4 Stäh.: Μελησαγόρου (III) γὰρ ἔκλεψεν Γοργίας ... καὶ Εὔδημος ... καὶ ... Βίων ... Ἀμφίλοχός τε καὶ Ἀριστοκλῆς καὶ Λεάνδριος καὶ Ἀναξιμένης καὶ Ἑλλάνικος καὶ Ἑκαταῖος καὶ Ἀνδροτίων καὶ Φιλόχορος Διευχίδας τε ...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 25a",
+      "text": "PLIN. NH I 4 continentur situus, gentes, maria, oppida ... ex auctoribus ... externis: Polybio, Hecataeo (F 370), Hellanico, Damaste, Eudoxo ...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 25b",
+      "text": "I 5. 6 ... externis: Iuba rege, Hecataeo, Hellanico, Damaste, Dicaearcho ...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a,1,T 25c",
+      "text": "I 18 continentur naturae frugum ... ex auctoribus ... externis ... Thalete, Eudoxo, Philippo, Callippo, Dositheo, Parmenisco, Metone, Critone, Oenopide, Conone, Euctemone, Harpalo, Hecataeo, Anaximandro, Sosigene, Hipparcho, Arato ...",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "bli-ac",
+      "title": {
+        "english": "Geographical Fragments on Europe",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Εὐρώπης"
+      },
+      "url_slug": "hecataeus-of-miletus-geographical-europe-bli-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hecataeus-of-miletus/geographical-europe",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-geographical-europe-bli-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-geographical-europe-bli-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-geographical-europe-bli-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-geographical-europe-bli-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus/geographical-europe.epub"
+      }
+    },
+    {
+      "eul_wid": "bli-ab",
+      "title": {
+        "english": "Historical Fragments of Hecataeus",
+        "ancient_greek": "Ἀποσπάσματα Ἑκαταίου"
+      },
+      "url_slug": "hecataeus-of-miletus-historical-fragments-bli-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hecataeus-of-miletus/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-historical-fragments-bli-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-historical-fragments-bli-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-historical-fragments-bli-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-historical-fragments-bli-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus/historical-fragments.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "duc-aa",
+      "title": {
+        "english": "Arcadian Antiquities and Myths",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aristippus-of-cyrene-antiquities-myths-duc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristippus-of-cyrene/antiquities-myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristippus-of-cyrene-antiquities-myths-duc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristippus-of-cyrene-antiquities-myths-duc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristippus-of-cyrene-antiquities-myths-duc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristippus-of-cyrene-antiquities-myths-duc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristippus-of-cyrene/antiquities-myths.epub"
+      }
+    },
+    {
+      "eul_wid": "ere-aa",
+      "title": {
+        "english": "Fragments on Ethiopia and Libya",
+        "ancient_greek": "Ἀποσπάσματα περὶ Αἰθιοπίας καὶ Λιβύης"
+      },
+      "url_slug": "aristocreon-the-historian-ethiopia-libya-ere-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristocreon-the-historian/ethiopia-libya",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocreon-the-historian-ethiopia-libya-ere-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocreon-the-historian-ethiopia-libya-ere-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocreon-the-historian-ethiopia-libya-ere-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocreon-the-historian-ethiopia-libya-ere-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocreon-the-historian/ethiopia-libya.epub"
+      }
+    },
+    {
+      "eul_wid": "nqq-aa",
+      "title": {
+        "english": "Historical Fragments on Saturn",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κρόνου"
+      },
+      "url_slug": "thallus-the-historian-historical-fragments-nqq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/thallus-the-historian/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thallus-the-historian-historical-fragments-nqq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thallus-the-historian-historical-fragments-nqq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thallus-the-historian-historical-fragments-nqq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thallus-the-historian-historical-fragments-nqq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thallus-the-historian/historical-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "jre-ab",
+      "title": {
+        "english": "On Brotherly Friends",
+        "ancient_greek": "Περὶ ἀδελφικῶν φίλων"
+      },
+      "url_slug": "paradoxographer-anon-brotherly-friends-jre-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/paradoxographer-anon/brotherly-friends",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-brotherly-friends-jre-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-brotherly-friends-jre-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-brotherly-friends-jre-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-brotherly-friends-jre-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/brotherly-friends.epub"
+      }
+    },
+    {
+      "eul_wid": "ndy-ae",
+      "title": {
+        "english": "On the Composition of Words",
+        "ancient_greek": "Περὶ Συνθέσεως Λέξεων"
+      },
+      "url_slug": "dionysius-of-halicarnassus-composition-words-ndy-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/composition-words",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-composition-words-ndy-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-composition-words-ndy-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-composition-words-ndy-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-composition-words-ndy-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/composition-words.epub"
+      }
+    },
+    {
+      "eul_wid": "jre-af",
+      "title": {
+        "english": "On the Impious",
+        "ancient_greek": "Περὶ τῶν ἀσεβῶν"
+      },
+      "url_slug": "paradoxographer-anon-impious-jre-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/paradoxographer-anon/impious",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-impious-jre-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-impious-jre-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-impious-jre-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon-impious-jre-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/impious.epub"
+      }
+    },
+    {
+      "eul_wid": "ikw-aa",
+      "title": {
+        "english": "Pyrrhus's Royal Memoirs",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "pyrrhus-of-epirus-royal-memoirs-ikw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pyrrhus-of-epirus/royal-memoirs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pyrrhus-of-epirus-royal-memoirs-ikw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pyrrhus-of-epirus-royal-memoirs-ikw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pyrrhus-of-epirus-royal-memoirs-ikw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pyrrhus-of-epirus-royal-memoirs-ikw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pyrrhus-of-epirus/royal-memoirs.epub"
+      }
+    },
+    {
+      "eul_wid": "rhq-ai",
+      "title": {
+        "english": "Roman Histories, Version 2 in Volume 2",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-roman-histories-2-rhq-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-roman-histories-2-rhq-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-roman-histories-2-rhq-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-roman-histories-2-rhq-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea-roman-histories-2-rhq-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-2.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hecataeus-of-miletus/testimonies",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-testimonies-bli-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-testimonies-bli-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-testimonies-bli-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-testimonies-bli-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus/testimonies.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "fvo",
+  "auth_slug": "ophelio-the-comic-poet",
+  "name": {
+    "english": "Ophelio Comicus",
+    "ancient_greek": "Ὀφελίων ὁ Κωμικός"
+  },
+  "seo_h1": "Ophelio Comicus and the Fragments of Middle Comedy",
+  "seo": {
+    "browser_title": "Ophelio Comicus Comic Poet on Eulogikon Greek Archive",
+    "meta_title": "The Ophelio Comicus Ancient Greek Comedy Fragments",
+    "meta_description": "Ophelio Comicus, a 4th century BCE Attic comic poet. Surviving fragmentary works from ancient Greek comedy. Free to read and download from the Greek library."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Ophelio Comicus was an ancient Greek comic poet of the 4th century BCE, active during the period of Middle Comedy. He is known only from fragments and mentions in later sources, primarily the Byzantine encyclopedia Suda, which provides the sole record of his existence. No biographical details concerning his birthplace or associations survive.</p>\n<p class=\"research-text\">The Suda attributes two lost comedies to Ophelio: <strong>Hemitheos</strong> and <strong>Pandrosos</strong>. Both plays survive only as titles, and no textual fragments are extant.</p>\n<p class=\"research-text\">Ophelio Comicus exemplifies the numerous comic poets from the Classical period whose works are almost entirely lost. The mythological themes suggested by his play titles align with common features of Middle Comedy. His historical importance lies in being one of the many attested names that help scholars map the scope and chronology of the ancient comic tradition.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "fvo-aa",
+      "title": {
+        "english": "Comic Dance and Seasoning Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "ophelio-the-comic-poet-comic-dance-seasoning-fvo-aa",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/ophelio-the-comic-poet/comic-dance-seasoning",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet-comic-dance-seasoning-fvo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet-comic-dance-seasoning-fvo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet-comic-dance-seasoning-fvo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet-comic-dance-seasoning-fvo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet/comic-dance-seasoning.epub"
+      }
+    },
+    {
+      "eul_wid": "fvo-ab",
+      "title": {
+        "english": "Comic Fragments on Daily Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ Κωμικά"
+      },
+      "url_slug": "ophelio-the-comic-poet-comic-fragments-fvo-ab",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/ophelio-the-comic-poet/comic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet-comic-fragments-fvo-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet-comic-fragments-fvo-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet-comic-fragments-fvo-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet-comic-fragments-fvo-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet/comic-fragments.epub"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/ophelio-the-comic-poet",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ophelio-the-comic-poet-fvo.en.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ophelio-the-comic-poet-fvo.en.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ophelio-the-comic-poet-fvo.en.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ophelio-the-comic-poet-fvo.en.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

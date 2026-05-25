@@ -1,0 +1,349 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "mdu-aa",
+  "eul_aid": "mdu",
+  "author_slug": "moschus-of-syracuse",
+  "work_slug": "epitaph-bion",
+  "url_slug": "moschus-of-syracuse-epitaph-bion-mdu-aa",
+  "author": {
+    "english": "Moschus of Syracuse",
+    "ancient_greek": "Μόσχος ὁ Συρακούσιος"
+  },
+  "title": {
+    "english": "Epitaph for Bion",
+    "ancient_greek": "Αποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Classical Epitaph for Bion by Moschus on Eulogikon",
+    "meta_title": "Classical Epitaph for Bion by Moschus in Ancient Greek",
+    "meta_description": "Moschus of Syracuse composed this pastoral elegy mourning the death of the poet Bion, blending mythological imagery Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρὶς βουκολική",
+      "english": "Doric Bucolic",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Epitaph for Bion</strong> is a pastoral lament of 123 hexameter lines, traditionally ascribed to the Hellenistic poet Moschus of Syracuse. It mourns the death of the poet Bion of Smyrna, adapting the formal conventions of Theocritus’s bucolic laments to grieve a historical literary figure. The poem opens with a sweeping invocation to the natural world, commanding valleys, rivers, trees, and flowers to weep for the departed singer. This extensive personification of a grieving landscape establishes the work’s core aesthetic, immersing the reader in a universe sorrowing for its lost poet. The lament repeatedly calls upon the Sicilian Muses to begin the dirge, weaving a literary genealogy that connects the speaker, Moschus, to his predecessor Bion, and ultimately to their common model, Theocritus.</p>\n<p class=\"research-text\">Mythological allusion deepens the poem’s resonance, most notably through the comparison of Bion to Orpheus, whose song held similar power over nature. The work explores the poignant contrast between the poet’s physical mortality and the potential immortality of his song, ultimately asserting the enduring life of the pastoral genre itself, the &quot;Doric Muse.&quot; The complete poem has been preserved within the medieval manuscript tradition of Greek bucolic poetry, transmitted alongside the works of Theocritus and Moschus. While its attribution to Moschus has been questioned since antiquity, with some scholars deeming it spurious, it has remained a continuous and integral part of the pastoral corpus.</p>\n<p class=\"research-text\">The significance of the <strong>Epitaph for Bion</strong> lies in its role as a critical bridge between the Hellenistic bucolic tradition and later Roman poetry. Its structure, themes, and melancholic atmosphere directly influenced Virgil’s <strong>Eclogue 10</strong>, his lament for Gallus. Through this Virgilian imitation, the motifs and emotional tenor of the Greek epitaph were channeled into the Western pastoral tradition, shaping its development for centuries through the Renaissance and into the early modern period.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "unit_1",
+      "text": "Αἴλινά μοι στοναχεῖτε νάπαι καὶ Δώριον ὕδωρ, καὶ ποταμοὶ κλαίοιτε τὸν ἱμερόεντα Βίωνα. νῦν φυτά μοι μύρεσθε καὶ ἄλσεα νῦν γοάοισθε, ἄνθεα νῦν στυγνοῖσιν ἀποπνείοιτε κορύμβοις· νῦν ῥόδα φοινίσσεσθε τὰ πένθιμα, νῦν ἀνεμῶναι, νῦν ὑάκινθε λάλει τὰ σὰ γράμματα καὶ πλέον αἰαῖ λάμβανε τοῖς πετάλοισι· καλὸς τέθνακε μελικτάς. [para]ἄρχετε Σικελικαί, τῶ πένθεος ἄρχετε, Μοῖσαι. ἀδόνες αἱ πυκινοῖσιν ὀδυρόμεναι ποτὶ φύλλοις νάμασι τοῖς Σικελοῖς ἀγγείλατε τᾶς Ἀρεθοίσας ὅττι Βίων τέθνακεν ὁ βουκόλος, ὅττι σὺν αὐτῷ καὶ τὸ μέλος τέθνακε καὶ ὤλετο Δωρὶς ἀοιδά. [para]ἄρχετε Σικελικαί, τῶ πένθεος ἄρχετε, Μοῖσαι. Στρυμόνιοι μύρεσθε παρ’ ὕδασιν αἴλινα κύκνοι,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_2",
+      "text": "καὶ γοεροῖς στομάτεσσι μελίσδετε πένθιμον ᾠδάν †οἵαν ὑμετέροις ποτὶ χείλεσι γῆρυς ἄειδεν.† εἴπατε δ’ αὖ κούραις Οἰαγρίσιν, εἴπατε πάσαις Βιστονίαις Νύμφαισιν, ‘ἀπώλετο Δώριος Ὀρφεύσ‘. ἄρχετε Σικελικαί, τῶ πένθεος ἄρχετε, Μοῖσαι. κεῖνος ὁ ταῖς ἀγέλαισιν ἐράσμιος οὐκέτι μέλπει, οὐκέτ’ ἐρημαίαισιν ὑπὸ δρυσὶν ἥμενος ᾄδει, ἀλλὰ παρὰ Πλουτῆι μέλος Ληθαῖον ἀείδει. ὤρεα δ’ ἐστὶν ἄφωνα, καὶ αἱ βόες αἱ ποτὶ ταύροις πλαζόμεναι γοάοντι καὶ οὐκ ἐθέλοντι νέμεσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_3",
+      "text": "ἄρχετε Σικελικαί, τῶ πένθεος ἄρχετε, Μοῖσαι. σεῖο, Βίων, ἔκλαυσε ταχὺν μόρον αὐτὸς Ἀπόλλων, καὶ Σάτυροι μύροντο μελάγχλαινοί τε Πρίηποι· καὶ Πᾶνες στοναχεῦντο τὸ σὸν μέλος, αἵ τε καθ’ ὕλαν Κρανίδες ὠδύραντο, καὶ ὕδατα δάκρυα γέντο· Ἀχὼ δ’ ἐν πέτραισιν ὀδύρεται ὅττι σιωπῇ κοὐκέτι μιμεῖται τὰ σὰ χείλεα, σῷ δ’ ἐπ’ ὀλέθρῳ δένδρεα καρπὸν ἔριψε τὰ δ’ ἄνθεα πάντ’ ἐμαράνθη· μάλων οὐκ ἔρρευσε καλὸν γλάγος, οὐ μέλι σίμβλων, κάτθανε δ’ ἐν κηρῷ λυπεύμενον, οὐκέτι γὰρ δεῖ τῶ μέλιτος τῶ σῶ τεθνακότος αὐτὸ τρυγᾶσθαι. [para]ἄρχετε Σικελικαί, τῶ πένθεος ἄρχετε, Μοῖσαι. οὐ τόσον εἰναλίαισι παρ’ ᾀόσι μύρατο Σειρήν, οὐδὲ τόσον ποκ’ ἄεισεν ἐνὶ σκοπέλοισιν Ἀηδών, οὐδὲ τόσον θρήνησεν ἀν’ ὤρεα μακρὰ Χελιδών,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_4",
+      "text": "Ἀλκυόνος δ’ οὐ τόσσον ἐπ’ ἄλγεσιν ἴαχε Κῆυξ, οὐδὲ τόσον γλαυκοῖς ἐνὶ κύμασι Κηρύλος ᾆδεν, οὐ τόσον ἀῴοισιν ἐν ἄγκεσι παῖδα τὸν Ἀοῦς ἱπτάμενος περὶ σᾶμα κινύρατο Μέμνονος ὄρνις, ὅσσον ἀποφθιμένοιο κατωδύραντο Βίωνος— ἄρχετε Σικελικαί, τῶ πένθεος ἄρχετε, Μοῖσαι— ἀδονίδες πᾶσαί τε χελιδόνες, ἅς ποκ’ ἔτερπεν, ἃς λαλέειν ἐδίδασκε· καθεζόμεναι δ’ ἐπὶ πρέμνοις ἀντίον ἀλλάλαισιν ἐκώκυον, αἳ δ’ ὑπεφώνευν· ‘ὄρνιθες λυπεῖσθ’ αἱ πενθάδες; ἀλλὰ καὶ ἄμμεσ‘.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_5",
+      "text": "ἄρχετε Σικελικαί, τῶ πένθεος ἄρχετε, Μοῖσαι. τίς ποτὶ σᾷ σύριγγι μελίξεται, ὦ τριπόθητε; τίς δ’ ἐπὶ σοῖς καλάμοις θήσει στόμα; τίς θρασὺς οὕτως; εἰσέτι γὰρ πνείει τὰ σὰ χείλεα καὶ τὸ σὸν ἄσθμα, ἀχὼ δ’ ἐν δονάκεσσι τεᾶς ἔτι βόσκετ’ ἀοιδᾶς. Πανὶ φέρω τὸ μέλισμα; τάχ’ ἂν καὶ κεῖνος ἐρεῖσαι τὸ στόμα δειμαίνοι μὴ δεύτερα σεῖο φέρηται. [para]ἄρχετε Σικελικαί, τῶ πένθεος ἄρχετε, Μοῖσαι. κλαίει καὶ Γαλάτεια τὸ σὸν μέλος, ἅν ποκ’ ἔτερπες ἑζομέναν μετὰ σεῖο παρ’ ἀιόνεσσι θαλάσσας·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_6",
+      "text": "οὐ γὰρ ἴσον Κύκλωπι μελίσδεο. τὸν μὲν ἔφευγεν ἁ καλὰ Γαλάτεια, σὲ δ’ ἅδιον ἔβλεπεν ἅλμας, καὶ νῦν λασαμένα τῶ κύματος ἐν ψαμάθοισιν ἕζετ’ ἐρημαίαισι, βόας δ’ ἔτι σεῖο νομεύει. [para]ἄρχετε Σικελικαί, τῶ πένθεος ἄρχετε, Μοῖσαι. πάντα τοι, ὦ βούτα, συγκάτθανε δῶρα τὰ Μοισᾶν, παρθενικᾶν ἐρόεντα φιλήματα, χείλεα παίδων, καὶ στυγνοὶ περὶ σῶμα τεὸν κλαίουσιν Ἔρωτες, χἀ Κύπρις φιλέει σε πολὺ πλέον ἢ τὸ φίλημα τὸ πρώαν τὸν Ἄδωνιν ἀποθνᾴσκοντα φίλησεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_7",
+      "text": "ἄρχετε Σικελικαί, τῶ πένθεος ἄρχετε, Μοῖσαι. τοῦτό τοι, ὦ ποταμῶν λιγυρώτατε, δεύτερον ἄλγος, τοῦτο, Μέλη, νέον ἄλγος. ἀπώλετο πρᾶν τοι Ὅμηρος, τῆνο τὸ Καλλιόπας γλυκερὸν στόμα, καί σε λέγοντι μύρασθαι καλὸν υἷα πολυκλαύτοισι ῥεέθροις, πᾶσαν δ’ ἔπλησας φωνᾶς ἅλα· νῦν πάλιν ἄλλον υἱέα δακρύεις καινῷ δ’ ἐπὶ πένθεϊ τάκῃ. ἀμφότεροι παγαῖς πεφιλημένοι· ὃς μὲν ἔπινε Παγασίδος κράνας, ὃ δ’ ἔχεν πόμα τᾶς Ἀρεθοίσας. χὢ μὲν Τυνδαρέοιο καλὰν ἄεισε θύγατρα καὶ Θέτιδος μέγαν υἷα καὶ Ἀτρεΐδαν Μενέλαον, κεῖνος δ’ οὐ πολέμους, οὐ δάκρυα, Πᾶνα δ’ ἔμελπε καὶ βούτας ἐλίγαινε καὶ ἀείδων ἐνόμευε καὶ σύριγγας ἔτευχε καὶ ἁδέα πόρτιν ἄμελγε καὶ παίδων ἐδίδασκε φιλήματα καὶ τὸν Ἔρωτα ἔτρεφεν ἐν κόλποισι καὶ ἤρεθε τὰν Ἀφροδίταν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_8",
+      "text": "ἄρχετε Σικελικαί, τῶ πένθεος ἄρχετε, Μοῖσαι. πᾶσα, Βίων, θρηνεῖ σε κλυτὰ πόλις, ἄστεα πάντα. Ἄσκρα μὲν γοάει σε πολὺ πλέον Ἡσιόδοιο· Πίνδαρον οὐ ποθέοντι τόσον Βοιωτίδες ὗλαι· οὐ τόσον Ἀλκαίω περιμύρατο Λέσβος ἐραννά, οὐδὲ τόσον τὸν ἀοιδὸν ὀδύρατο Τήιον ἄστυ· σὲ πλέον Ἀρχιλόχοιο ποθεῖ Πάρος, ἀντὶ δὲ Σαπφοῦς εἰσέτι σεῦ τὸ μέλισμα κινύρεται ἁ Μιτυλήνα. . . . . . . . . .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_9",
+      "text": "ἐν δὲ Συρακοσίοισι Θεόκριτος· αὐτὰρ ἐγώ τοι Αὐσονικᾶς ὀδύνας μέλπω μέλος, οὐ ξένος ᾠδᾶς βουκολικᾶς, ἀλλ’ ἅντε διδάξαο σεῖο μαθητάς κλαρονόμος μοίσας τᾶς Δωρίδος, ᾇ με γεραίρων ἄλλοις μὲν τεὸν ὄλβον ἐμοὶ δ’ ἀπέλειπες ἀοιδάν. [para]ἄρχετε Σικελικαί, τῶ πένθεος ἄρχετε, Μοῖσαι. αἰαῖ ταὶ μαλάχαι μέν, ἐπὰν κατὰ κᾶπον ὄλωνται, ἠδὲ τὰ χλωρὰ σέλινα τό τ’ εὐθαλὲς οὖλον ἄνηθον ὕστερον αὖ ζώοντι καὶ εἰς ἔτος ἄλλο φύοντι· ἄμμες δ’ οἱ μεγάλοι καὶ καρτεροί, οἱ σοφοὶ ἄνδρες, ὁππότε πρᾶτα θάνωμες, ἀνάκοοι ἐν χθονὶ κοίλᾳ εὕδομες εὖ μάλα μακρὸν ἀτέρμονα νήγρετον ὕπνον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_10",
+      "text": "καὶ σὺ μὲν ὦν σιγᾷ πεπυκασμένος ἔσσεαι ἐν γᾷ, ταῖς Νύμφαισι δ’ ἔδοξεν ἀεὶ τὸν βάτραχον ᾄδειν. ταῖς δ’ ἐγὼ οὐ φθονέοιμι, τὸ γὰρ μέλος οὐ καλὸν ᾄδει. [para]ἄρχετε Σικελικαί, τῶ πένθεος ἄρχετε, Μοῖσαι. φάρμακον ἦλθε, Βίων, ποτὶ σὸν στόμα, φάρμακον ἦδες. τοιούτοις χείλεσσι ποτέδραμε κοὐκ ἐγλυκάνθη; τίς δὲ βροτὸς τοσσοῦτον ἀνάμερος ἢ κεράσαι τοι ἢ δοῦναι καλέοντι τὸ φάρμακον; ἦ φύγεν ᾠδάν. [para]ἄρχετε Σικελικαί, τῶ πένθεος ἄρχετε, Μοῖσαι. ἀλλὰ Δίκα κίχε πάντας· ἐγὼ δ’ ἐπὶ πένθεϊ τῷδε δακρυχέων τεὸν οἶτον ὀδύρομαι. εἰ δυνάμαν δέ, ὡς Ὀρφεὺς καταβὰς ποτὶ Τάρταρον, ὥς ποκ’ Ὀδυσσεύς, ὡς πάρος Ἀλκεΐδας, κἠγὼ τάχ’ ἂν ἐς δόμον ἦλθον Πλουτέος ὥς κέ ς’ ἴδοιμι καί, εἰ Πλουτῆι μελίσδῃ, ὡς ἂν ἀκουσαίμαν τί μελίσδεαι. ἀλλ’ ἄγε Κώρᾳ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_11",
+      "text": "Σικελικόν τι λίγαινε καὶ ἁδύ τι βουκολιάζευ· καὶ κείνα Σικελά, καὶ ἐν Αἰτναίαισιν ἔπαιζεν ᾀόσι, καὶ μέλος οἶδε τὸ Δώριον· οὐκ ἀγέραστος ἐσσεῖθ’ ἁ μολπά, χὠς Ὀρφέι πρόσθεν ἔδωκεν ἁδέα φορμίζοντι παλίσσυτον Εὐρυδίκειαν, καὶ σέ, Βίων, πέμψει τοῖς ὤρεσιν. εἰ δέ τι κἠγών συρίσδων δυνάμαν, παρὰ Πλουτέι κ’ αὐτὸς ἄειδον.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "mdu-ad",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "moschus-of-syracuse-epigrams-mdu-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/moschus-of-syracuse/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-epigrams-mdu-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-epigrams-mdu-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-epigrams-mdu-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-epigrams-mdu-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/epigrams.epub"
+      }
+    },
+    {
+      "eul_wid": "mdu-ab",
+      "title": {
+        "english": "Eros the Runaway",
+        "ancient_greek": "Ἔρως δραπέτης"
+      },
+      "url_slug": "moschus-of-syracuse-eros-runaway-mdu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/moschus-of-syracuse/eros-runaway",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-eros-runaway-mdu-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-eros-runaway-mdu-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-eros-runaway-mdu-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-eros-runaway-mdu-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/eros-runaway.epub"
+      }
+    },
+    {
+      "eul_wid": "mdu-ae",
+      "title": {
+        "english": "Europe",
+        "ancient_greek": "Εὐρώπη"
+      },
+      "url_slug": "moschus-of-syracuse-europe-mdu-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/moschus-of-syracuse/europe",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-europe-mdu-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-europe-mdu-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-europe-mdu-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-europe-mdu-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/europe.epub"
+      }
+    },
+    {
+      "eul_wid": "mdu-ac",
+      "title": {
+        "english": "Fragments of Bucolic Poetry",
+        "ancient_greek": "Ἀποσπάσματα Βουκολικῆς Ποίησεως"
+      },
+      "url_slug": "moschus-of-syracuse-bucolic-fragments-mdu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/moschus-of-syracuse/bucolic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-bucolic-fragments-mdu-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-bucolic-fragments-mdu-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-bucolic-fragments-mdu-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-bucolic-fragments-mdu-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/bucolic-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "mdu-af",
+      "title": {
+        "english": "Megara",
+        "ancient_greek": "Μεγάρα"
+      },
+      "url_slug": "moschus-of-syracuse-megara-mdu-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/moschus-of-syracuse/megara",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-megara-mdu-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-megara-mdu-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-megara-mdu-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-megara-mdu-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/megara.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "mje-aa",
+      "title": {
+        "english": "Battle of Frogs and Mice, Byzantine Prosody",
+        "ancient_greek": "Βατραχομυομαχία"
+      },
+      "url_slug": "parodist-anon-frogs-mice-aa-mje-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/parodist-anon/frogs-mice-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-aa-mje-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-aa-mje-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-aa-mje-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-aa-mje-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon/frogs-mice-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "grm-aa",
+      "title": {
+        "english": "Fragments and Title",
+        "ancient_greek": "Ἀποσπάσματα καὶ Τίτλος"
+      },
+      "url_slug": "erinna-of-telos-fragments-grm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/erinna-of-telos/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos-fragments-grm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos-fragments-grm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos-fragments-grm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos-fragments-grm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos/fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "cyo-aa",
+      "title": {
+        "english": "Fragments on Apollo and Bacchus",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀπόλλωνος καὶ Βάκχου"
+      },
+      "url_slug": "lyrica-adespota-apollo-bacchus-cyo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lyrica-adespota/apollo-bacchus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyrica-adespota-apollo-bacchus-cyo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyrica-adespota-apollo-bacchus-cyo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyrica-adespota-apollo-bacchus-cyo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyrica-adespota-apollo-bacchus-cyo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyrica-adespota/apollo-bacchus.epub"
+      }
+    },
+    {
+      "eul_wid": "kdc-aa",
+      "title": {
+        "english": "Fragments on Celestial Bodies",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Οὐρανίων"
+      },
+      "url_slug": "diophilus-or-diophila-celestial-bodies-kdc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/diophilus-or-diophila/celestial-bodies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophilus-or-diophila-celestial-bodies-kdc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophilus-or-diophila-celestial-bodies-kdc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophilus-or-diophila-celestial-bodies-kdc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophilus-or-diophila-celestial-bodies-kdc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophilus-or-diophila/celestial-bodies.epub"
+      }
+    },
+    {
+      "eul_wid": "anc-ab",
+      "title": {
+        "english": "Fragments on Virtue",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀρετῆς"
+      },
+      "url_slug": "sappho-and-alcaeus-fragments-virtue-anc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/sappho-and-alcaeus-fragments/virtue",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-fragments-virtue-anc-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-fragments-virtue-anc-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-fragments-virtue-anc-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-fragments-virtue-anc-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-fragments/virtue.epub"
+      }
+    },
+    {
+      "eul_wid": "ams-ab",
+      "title": {
+        "english": "Fragments on the Hesperides",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἑσπερίδων"
+      },
+      "url_slug": "stesichorus-of-metauros-hesperides-ams-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/stesichorus-of-metauros/hesperides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesichorus-of-metauros-hesperides-ams-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesichorus-of-metauros-hesperides-ams-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesichorus-of-metauros-hesperides-ams-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesichorus-of-metauros-hesperides-ams-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesichorus-of-metauros/hesperides.epub"
+      }
+    },
+    {
+      "eul_wid": "brw-ah",
+      "title": {
+        "english": "Prosody Fragments",
+        "ancient_greek": "Ἀποσπάσματα Πρὸς τὴν Προσωδίαν"
+      },
+      "url_slug": "bacchylides-of-ceos-prosody-brw-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/prosody",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-prosody-brw-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-prosody-brw-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-prosody-brw-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos-prosody-brw-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/prosody.epub"
+      }
+    },
+    {
+      "eul_wid": "agy-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "semonides-of-amorgos-testimonies-agy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/semonides-of-amorgos/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semonides-of-amorgos-testimonies-agy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semonides-of-amorgos-testimonies-agy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semonides-of-amorgos-testimonies-agy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semonides-of-amorgos-testimonies-agy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semonides-of-amorgos/testimonies.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/moschus-of-syracuse/epitaph-bion",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-epitaph-bion-mdu-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-epitaph-bion-mdu-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-epitaph-bion-mdu-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-epitaph-bion-mdu-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/epitaph-bion.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

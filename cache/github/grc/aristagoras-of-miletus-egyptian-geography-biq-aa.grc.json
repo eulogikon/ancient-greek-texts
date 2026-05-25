@@ -1,0 +1,254 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "biq-aa",
+  "eul_aid": "biq",
+  "author_slug": "aristagoras-of-miletus",
+  "work_slug": "egyptian-geography",
+  "url_slug": "aristagoras-of-miletus-egyptian-geography-biq-aa",
+  "author": {
+    "english": "Aristagoras the Tyrant of Miletus",
+    "ancient_greek": "Ἀρισταγόρας ὁ Μιλήσιος"
+  },
+  "title": {
+    "english": "Egyptian Geographical Fragments",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Egyptian Geography by Aristagoras of Miletus on Eulogikon",
+    "meta_title": "Egyptian Geography by Aristagoras of Miletus in Greek",
+    "meta_description": "Surviving fragments on Egypt by Aristagoras of Miletus. Ancient historical geography. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Egyptian Geographical Fragments</strong> is a prose work attributed to Aristagoras, the tyrant of Miletus who instigated the Ionian Revolt against Persia in 499 BCE. This attribution is historically problematic, as no contemporary sources record Aristagoras as an author, and he is known solely for his political and military actions. The work survives only in nine brief passages cited by later authors, primarily the geographer Stephanus of Byzantium. These fragments suggest a focus on the topography and ethnography of Egypt and its border regions, mentioning specific locations such as the village of Takompsos on the frontier with Ethiopia and the districts within Memphis known as the Hellenikon and Karikon. One fragment offers an etymological explanation for the name of a city called Gynaikopolis. The work&#x27;s transmission is obscure, with no surviving manuscript tradition or clear documentation of the sources from which the excerpts were drawn. Its significance lies almost entirely in the question of its authorship; if genuine, it would represent an unexpected literary dimension to a figure otherwise documented exclusively as a political actor. As it stands, the work remains a minor bibliographical curiosity, unattested in the main streams of ancient geographical or historical writing.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-11",
+      "text": "ΑΙΓΥΠΤΙΑΚΑ. E LIBRO PRIMO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "t1-12 (t)",
+      "text": "Steph. Byz.: Ἑρμοτυμβιεῖς, μοῖρα τῶν μαχίμων ἐν Αἰγύπτῳ, ὡς Ἀρισταγόρας ἐν Αἰγυπτιακῶν πρώτῃ. Οἱ αὐτοὶ καὶ Λαβαρεῖς Idem: Τάκομψος, κώμη ἐν τοῖς ὁρίοις Αἰγυπτίων καὶ Αἰθιόπων πρὸς τῇ Φίλᾳ νήσῳ, ὡς Ἀρισταγόρας ἐν Αἰγυπτιακῶν πρώτῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "t1-14 (t)",
+      "text": "E LIBRO SECUNDO. Idem: Νικίου κώμη Αἰγύπτου. Ἀρ. Αἰγυπτιακῶν δευτέρῳ. Ὁ οἰκήτωρ Νικιώτης, ὥς φησιν Ὦρος ἐθνικῶν πρώτῳ. E LIBRIS INCERTIS.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Idem: Ψεβώ, χώρα ἐνδοτέρα Αἰθιοπίας, περὶ ἧς Ἀρισταγόρας ἐν Αἰγυπτιακοῖς τάδε γράφει· «Οὗτοι δή φασιν εἶναι χώραν ἀπέχουσαν Αἰθιοπίας ὁδῶν μὲν πέντε καλουμένην Ψεβώ.» Ἀρτεμίδωρος ἐν ὀγδόῳ Γεωγραφουμένων λίμνην εἶναί φησι. Idem: Ἑλληνικὸν καὶ Καρικόν, τόποι ἐν Μέμφιδι, ἀφ’ ὧν Ἑλληνομεμφῖται καὶ Καρικομεμφῖται, ὡς Ἀρισταγόρας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "Idem: Γυναικόπολις, πόλις Φοινίκων. Ὁ πολίτης Γυναικοπολίτης. Ἔστι καὶ ἄλλη Αἰγύπτου. Ἀρισταγόρας δὲ, οὐ πολλῷ νεώτερος Πλάτωνος, φησὶν ὅτι οὕτως ὠνομάσθη διὰ τρεῖς αἰτίας· ἢ ὅτι πολεμίων ἐπιπεσόντων καὶ τῶν ἀνδρῶν ἐν γεωργίαις ἀπόντων τὰς γυναῖκας κρατῆσαι τοῦ πολέμου· ἢ ὅτι γυνή τις νομάρχου, περισπωμένων τῶν παίδων αὐτῆς ὑπὸ τοῦ βασιλέως, ἅμα τοῖς παισὶν ὁπλισαμένη κατεδίωξε τὸν βασιλέα, καὶ ἐνίκησε· ἢ ὅτι τῶν Ναυκρατιτῶν ἀναπλεόντων τὸν ποταμὸν καὶ κωλυομένων ὑπὸ τῶν λοιπῶν Αἰγυπτίων ἀποβαίνειν, οὗτοι καταπλαγέντες ὑπὸ ἀνανδρίας οὐ διεκώλυσαν. Ταῦτα καὶ Ἀρτεμίδωρός φησιν. Plutarch.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "De Is. et Os. c. 5: Οἱ δὲ ἱερεῖς οὕτω δυσχεραίνουσι τὴν τῶν περιττωμάτων φύσιν, ὥστε μὴ μόνον παραιτεῖσθαι τῶν ὀσπρίων τὰ πολλὰ, καὶ τῶν κρεῶν τὰ μήλεια καὶ ὕεια, πολλὴν ποιοῦντα περίττωσιν, ἀλλὰ καὶ τοὺς ἅλας τῶν σιτίων ἐν ταῖς ἁγνείαις ἀφαιρεῖν· ἄλλας τε πλείονας αἰτίας ἔχοντας, καὶ ποτικωτέρους καὶ βρωτικωτέρους ποιεῖν ἐπιθήγοντας τὴν ὄρεξιν. Τὸ γὰρ, ὡς Ἀρισταγόρας ἔλεγε, διὰ τὸ πηγνυμένοις πολλὰ τῶν μικρῶν ζῴων ἐναποθνήσκειν ἁλισκόμενα μὴ καθαροὺς λογίζεσθαι τοὺς ἅλας, εὔηθές ἐστι. Aelianus N.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "An. XI, 10: Σημεῖα δὲ αὐτοῦ (Apidis tauri) καὶ γνωρίσματα λέγει μὲν καὶ Ἡρόδοτος καὶ Ἀρισταγόρας· οὐχ ὁμολογοῦσι δὲ αὐτοῖς Αἰγύπτιοι. Plinius H.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "N. XXXVI, 12, 17: Qui de iis scripserint ( sc. de pyramidibus), sunt Herodotus, Euhemerus, Duris Samius, Aristagoras, Dionysius, Artemidorus, Alexander Polyhistor, Butorides, Antisthenes, Demetrius, Demoteles, Apion. Inter omnes eos non constat a quibus factae sint, justissimo casu obliteratis tantae vanitatis auctoribus. Aliqui ex his prodiderunt in raphanos et allium ac caepas mille sexcenta talenta erogata. Diog.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "L. I, 72: Βραχυλόγος τε ἦν (sc. ὁ Χίλων)· ὅθεν καὶ Ἀρισταγόρας ὁ Μιλήσιος τοῦτον τὸν τρόπον Χειλώνειον καλεῖ. Βράγχου δὲ εἶναι, ὃς τὸ ἱερὸν ἔκτισε τὸ ἐν Βραγχίδαις.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "jjc-aa",
+      "title": {
+        "english": "Fragments on Italy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἰταλίας"
+      },
+      "url_slug": "pythocles-italy-fragments-jjc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pythocles/italy-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythocles-italy-fragments-jjc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythocles-italy-fragments-jjc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythocles-italy-fragments-jjc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythocles-italy-fragments-jjc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythocles/italy-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "dji-aa",
+      "title": {
+        "english": "Fragments on Peoples",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἐθνῶν"
+      },
+      "url_slug": "damastes-of-sigeum-peoples-dji-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/damastes-of-sigeum/peoples",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damastes-of-sigeum-peoples-dji-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damastes-of-sigeum-peoples-dji-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damastes-of-sigeum-peoples-dji-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damastes-of-sigeum-peoples-dji-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damastes-of-sigeum/peoples.epub"
+      }
+    },
+    {
+      "eul_wid": "rqm-ae",
+      "title": {
+        "english": "Geometric Fragments on Circles",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κύκλων Γεωμετρικά"
+      },
+      "url_slug": "diophantus-of-alexandria-ii-geometric-circles-rqm-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/diophantus-of-alexandria-ii/geometric-circles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii-geometric-circles-rqm-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii-geometric-circles-rqm-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii-geometric-circles-rqm-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii-geometric-circles-rqm-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii/geometric-circles.epub"
+      }
+    },
+    {
+      "eul_wid": "ecy-ab",
+      "title": {
+        "english": "Historical Fragments on Greek Affairs",
+        "ancient_greek": "Ἱστορικὰ Ἀποσπάσματα περὶ Ἑλληνικῶν Πραγμάτων"
+      },
+      "url_slug": "hellenica-anon-historical-fragments-ecy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hellenica-anon/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-historical-fragments-ecy-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-historical-fragments-ecy-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-historical-fragments-ecy-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon-historical-fragments-ecy-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon/historical-fragments.epub"
+      }
+    },
+    {
+      "eul_wid": "cvc-aa",
+      "title": {
+        "english": "On the Alphabet and Early History",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dionysius-of-miletus-alphabet-history-cvc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-miletus/alphabet-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-miletus-alphabet-history-cvc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-miletus-alphabet-history-cvc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-miletus-alphabet-history-cvc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-miletus-alphabet-history-cvc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-miletus/alphabet-history.epub"
+      }
+    },
+    {
+      "eul_wid": "mrg-aa",
+      "title": {
+        "english": "On the City of Thessalonica",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "lucius-licinius-lucullus-thessalonica-mrg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucius-licinius-lucullus/thessalonica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucius-licinius-lucullus-thessalonica-mrg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucius-licinius-lucullus-thessalonica-mrg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucius-licinius-lucullus-thessalonica-mrg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucius-licinius-lucullus-thessalonica-mrg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucius-licinius-lucullus/thessalonica.epub"
+      }
+    },
+    {
+      "eul_wid": "bja-aa",
+      "title": {
+        "english": "Phoenician History Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "histiaeus-of-miletus-phoenician-history-bja-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/histiaeus-of-miletus/phoenician-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/histiaeus-of-miletus-phoenician-history-bja-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/histiaeus-of-miletus-phoenician-history-bja-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/histiaeus-of-miletus-phoenician-history-bja-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/histiaeus-of-miletus-phoenician-history-bja-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/histiaeus-of-miletus/phoenician-history.epub"
+      }
+    },
+    {
+      "eul_wid": "ndy-al",
+      "title": {
+        "english": "Roman Antiquities",
+        "ancient_greek": "Ῥωμαϊκὴ Ἀρχαιολογία"
+      },
+      "url_slug": "dionysius-of-halicarnassus-roman-antiquities-ndy-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/roman-antiquities",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-roman-antiquities-ndy-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-roman-antiquities-ndy-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-roman-antiquities-ndy-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-roman-antiquities-ndy-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/roman-antiquities.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aristagoras-of-miletus/egyptian-geography",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-of-miletus-egyptian-geography-biq-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-of-miletus-egyptian-geography-biq-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-of-miletus-egyptian-geography-biq-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-of-miletus-egyptian-geography-biq-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-of-miletus/egyptian-geography.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

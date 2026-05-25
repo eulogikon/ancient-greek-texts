@@ -1,0 +1,405 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "tyc-az",
+  "eul_aid": "tyc",
+  "author_slug": "zosimus-of-panopolis",
+  "work_slug": "burnt-copper-az",
+  "url_slug": "zosimus-of-panopolis-burnt-copper-az-tyc-az",
+  "author": {
+    "english": "Zosimus of Panopolis",
+    "ancient_greek": "Ζώσιμος ὁ Πανοπολίτης"
+  },
+  "title": {
+    "english": "On the Difference of Burnt Copper",
+    "ancient_greek": "Περὶ διαφορᾶς χαλκοῦ κεκαυμένου"
+  },
+  "seo": {
+    "browser_title": "On the Difference of Burnt Copper by Zosimus on Eulogikon",
+    "meta_title": "On the Difference of Burnt Copper by Zosimus in Greek",
+    "meta_description": "Zosimus of Panopolis examines the chemical properties and transformations of burnt copper in this alchemical Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On the Difference of Burnt Copper</strong> is a concise Greek alchemical treatise authored by Zosimus of Panopolis around 300 CE. The work provides detailed technical instructions for the calcination of copper, a process of controlled burning intended to produce various reactive substances for subsequent alchemical operations. The text, structured in three passages, methodically describes the procedure, which involves treating the metal with sulfur and other materials like iron and arsenic to achieve different compounds, thereby explaining the &quot;difference&quot; indicated by its title. As part of Zosimus&#x27;s extensive surviving corpus, the treatise was preserved in later Byzantine compilations such as the 10th-century <strong>Codex Marcianus graecus 299</strong>. Written for initiates of the sacred art, it operates on dual levels: it offers precise laboratory guidance while simultaneously framing the physical transmutation of copper as an allegory for the purification and spiritual ascent of the soul. This synthesis of practical craft with Gnostic and Hermetic philosophy is emblematic of Greco-Egyptian alchemy. Through works like this, Zosimus transmitted both a body of technical knowledge and a profound spiritual paradigm, establishing a foundation that would significantly influence later Byzantine, Islamic, and Latin alchemical traditions.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "2.154",
+      "text": "ΠΕΡΙ ΔΙΑΦΟΡΑΣ ΧΑΛΚΟΥ ΚΕΚΑΥΜΕΝΟΥ Χαλκὸν κεκαυμένον ποιοῦσιν πολλοὶ διὰ θείου, ὡς αἱ τάξεις τῶν ἄλλων λέγουσιν ἀσαφῶς· μόνος δὲ Δημόκριτος ἀφθόνως. Τῷ χαλκῷ ἐπιβάλλειν τὸν δʹ σίδηρον θειωθέντα, τουτέστιν χωνευθέντα μετὰ τοῦ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.154",
+      "text": "μαγνήτου τὸ δʹ, ἢ θείου ἀθίκτου ἥμισυ, ἵνα ῥεύσῃ ἐπὶ τὸν μολύβδον τὸν ἀπὸ στίμμεως καὶ λιθαργύρου· ἔπειτα πυρίτην, χαλκὸν, σίδηρον κάῃς, ἵνα πρεπόντως γένηται σκωρίδιον. Τούτῳ ἐπίβαλλε νεφέλην τὴν ἀπὸ ἀρσενίκου. Λευκαίνεται δὲ διὰ τοῦ θείου ἀθίκτου ἡ νεφέλη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.154",
+      "text": "Ὅταν δὲ λέγῃ ψιμύθιον ἅμα θείῳ ὀπτηθὲν, τὸ θεῖον ἄθικτον δηλοῖ, ἵνα γένηται χαλκὸς, μόλυβδος, ἐτήσιος· ὅταν δὲ λέγῃ· «τὸ δὲ αὐτὸ ποιεῖ καὶ μαγνησία λευκανθεῖσα,» κιννάβαριν συνοικονομηθεῖσαν ἔλεγεν. Ἀλλ’ ἐρεῖ τις· μαγνησίαν πρῶτον εἴρηκεν, καὶ πυρίτην. Ναὶ, ἵνα μάθῃς ὅτι ἅμα τῷ χαλκῷ σίδηρος καὶ ὁ μόλυβδος βάλ λεται, καὶ οἱ λίθοι, ἵνα γένηται χαλκὸς, μόλυβδος, ἐτήσιος χαλκός.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "tyc-ak",
+      "title": {
+        "english": "Advisory Recommendations for Practitioners of the Art",
+        "ancient_greek": "Παραινέσεις συστατικαὶ τῶν ἐγχειρούντων τὴν τέχνην"
+      },
+      "url_slug": "zosimus-of-panopolis-advisory-practitioners-tyc-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/advisory-practitioners",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-advisory-practitioners-tyc-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-advisory-practitioners-tyc-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-advisory-practitioners-tyc-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-advisory-practitioners-tyc-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/advisory-practitioners.epub"
+      }
+    },
+    {
+      "eul_wid": "tyc-cd",
+      "title": {
+        "english": "Aerial Water",
+        "ancient_greek": "Τὸ ἀέριον ὕδωρ"
+      },
+      "url_slug": "zosimus-of-panopolis-aerial-water-tyc-cd",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/aerial-water",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-aerial-water-tyc-cd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-aerial-water-tyc-cd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-aerial-water-tyc-cd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-aerial-water-tyc-cd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/aerial-water.epub"
+      }
+    },
+    {
+      "eul_wid": "tyc-bz",
+      "title": {
+        "english": "Alchemical Excerpt",
+        "ancient_greek": "Ἀλχημικὸν ἀπόσπασμα"
+      },
+      "url_slug": "zosimus-of-panopolis-alchemical-excerpt-bz-tyc-bz",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/alchemical-excerpt-bz",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-alchemical-excerpt-bz-tyc-bz.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-alchemical-excerpt-bz-tyc-bz.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-alchemical-excerpt-bz-tyc-bz.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-alchemical-excerpt-bz-tyc-bz.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/alchemical-excerpt-bz.epub"
+      }
+    },
+    {
+      "eul_wid": "tyc-ca",
+      "title": {
+        "english": "Alchemical Excerpt",
+        "ancient_greek": "Ἀλχημικὸν ἀπόσπασμα"
+      },
+      "url_slug": "zosimus-of-panopolis-alchemical-excerpt-ca-tyc-ca",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/alchemical-excerpt-ca",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-alchemical-excerpt-ca-tyc-ca.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-alchemical-excerpt-ca-tyc-ca.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-alchemical-excerpt-ca-tyc-ca.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-alchemical-excerpt-ca-tyc-ca.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/alchemical-excerpt-ca.epub"
+      }
+    },
+    {
+      "eul_wid": "tyc-bt",
+      "title": {
+        "english": "Creation of Mercury",
+        "ancient_greek": "Ὑδραργύρου ποίησις"
+      },
+      "url_slug": "zosimus-of-panopolis-mercury-creation-tyc-bt",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/mercury-creation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-mercury-creation-tyc-bt.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-mercury-creation-tyc-bt.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-mercury-creation-tyc-bt.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-mercury-creation-tyc-bt.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/mercury-creation.epub"
+      }
+    },
+    {
+      "eul_wid": "tyc-cn",
+      "title": {
+        "english": "Diagram",
+        "ancient_greek": "Διάγραμμα"
+      },
+      "url_slug": "zosimus-of-panopolis-diagram-tyc-cn",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/diagram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-diagram-tyc-cn.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-diagram-tyc-cn.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-diagram-tyc-cn.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-diagram-tyc-cn.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/diagram.epub"
+      }
+    },
+    {
+      "eul_wid": "tyc-br",
+      "title": {
+        "english": "Excerpt-Bronze Men",
+        "ancient_greek": "περὶ χαλκανθρώπων"
+      },
+      "url_slug": "zosimus-of-panopolis-bronze-men-tyc-br",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/bronze-men",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-bronze-men-tyc-br.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-bronze-men-tyc-br.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-bronze-men-tyc-br.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-bronze-men-tyc-br.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/bronze-men.epub"
+      }
+    },
+    {
+      "eul_wid": "tyc-bg",
+      "title": {
+        "english": "Excerpt-Parts of Alchemy",
+        "ancient_greek": "Ἀπόσπασμα περὶ τῶν μερῶν τῆς ἀλχημείας"
+      },
+      "url_slug": "zosimus-of-panopolis-alchemy-excerpt-tyc-bg",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/alchemy-excerpt",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-alchemy-excerpt-tyc-bg.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-alchemy-excerpt-tyc-bg.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-alchemy-excerpt-tyc-bg.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-alchemy-excerpt-tyc-bg.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/alchemy-excerpt.epub"
+      }
+    },
+    {
+      "eul_wid": "tyc-bs",
+      "title": {
+        "english": "Excerpt-White Lead",
+        "ancient_greek": "Ἀπόσπασμα περὶ τοῦ λευκοῦ μολύβδου"
+      },
+      "url_slug": "zosimus-of-panopolis-white-lead-tyc-bs",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/white-lead",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-white-lead-tyc-bs.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-white-lead-tyc-bs.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-white-lead-tyc-bs.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-white-lead-tyc-bs.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/white-lead.epub"
+      }
+    },
+    {
+      "eul_wid": "tyc-as",
+      "title": {
+        "english": "Excerpt-the Binding of the Virgin",
+        "ancient_greek": "Ἀπόσπασμα περὶ τῆς δεσμεύσεως τῆς Παρθένου"
+      },
+      "url_slug": "zosimus-of-panopolis-binding-virgin-tyc-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/binding-virgin",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-binding-virgin-tyc-as.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-binding-virgin-tyc-as.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-binding-virgin-tyc-as.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-binding-virgin-tyc-as.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/binding-virgin.epub"
+      }
+    },
+    {
+      "eul_wid": "tyc-ah",
+      "title": {
+        "english": "First Book of the Last Abstinence of Zosimus the Theban",
+        "ancient_greek": "Τὸ πρῶτον βιβλίον τῆς τελευταίας ἀποχῆς Ζωσίμου"
+      },
+      "url_slug": "zosimus-of-panopolis-first-book-of-the-last-abstinence-of-zosimus-the-theban-tyc-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/first-book-of-the-last-abstinence-of-zosimus-the-theban",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-first-book-of-the-last-abstinence-of-zosimus-the-theban-tyc-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-first-book-of-the-last-abstinence-of-zosimus-the-theban-tyc-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-first-book-of-the-last-abstinence-of-zosimus-the-theban-tyc-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-first-book-of-the-last-abstinence-of-zosimus-the-theban-tyc-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/first-book-of-the-last-abstinence-of-zosimus-the-theban.epub"
+      }
+    },
+    {
+      "eul_wid": "tyc-al",
+      "title": {
+        "english": "InterpretatiEverything Simply and-Lights",
+        "ancient_greek": "Ἑρμηνεία περὶ πάντων ἁπλῶς καὶ περὶ τῶν φώτων"
+      },
+      "url_slug": "zosimus-of-panopolis-interpretation-lights-tyc-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/interpretation-lights",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-interpretation-lights-tyc-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-interpretation-lights-tyc-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-interpretation-lights-tyc-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-interpretation-lights-tyc-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/interpretation-lights.epub"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "lao-ab",
+      "title": {
+        "english": "Anaphoric",
+        "ancient_greek": "Ἀναφορικός"
+      },
+      "url_slug": "hypsicles-of-alexandria-anaphoric-lao-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hypsicles-of-alexandria/anaphoric",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypsicles-of-alexandria-anaphoric-lao-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypsicles-of-alexandria-anaphoric-lao-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypsicles-of-alexandria-anaphoric-lao-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypsicles-of-alexandria-anaphoric-lao-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypsicles-of-alexandria/anaphoric.epub"
+      }
+    },
+    {
+      "eul_wid": "lwc-aa",
+      "title": {
+        "english": "Fragments on Egyptian Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Αἰγυπτιακοῦ Βίου"
+      },
+      "url_slug": "hipparchus-of-nicaea-ii-egyptian-life-lwc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hipparchus-of-nicaea-ii/egyptian-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea-ii-egyptian-life-lwc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea-ii-egyptian-life-lwc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea-ii-egyptian-life-lwc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea-ii-egyptian-life-lwc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea-ii/egyptian-life.epub"
+      }
+    },
+    {
+      "eul_wid": "nwk-aa",
+      "title": {
+        "english": "Komarios the Philosopher High Priest Instructing Cleopatra in the Sacred Art",
+        "ancient_greek": "Κομαρίου φιλοσόφου ἀρχιερέως διδάσκοντος τὴν"
+      },
+      "url_slug": "comarius-the-alchemist-cleopatra-sacred-art-nwk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/comarius-the-alchemist/cleopatra-sacred-art",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comarius-the-alchemist-cleopatra-sacred-art-nwk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comarius-the-alchemist-cleopatra-sacred-art-nwk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comarius-the-alchemist-cleopatra-sacred-art-nwk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comarius-the-alchemist-cleopatra-sacred-art-nwk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comarius-the-alchemist/cleopatra-sacred-art.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-ck",
+      "title": {
+        "english": "On Gilding Iron",
+        "ancient_greek": "Περὶ τοῦ χρυσῶσαι σίδηρον"
+      },
+      "url_slug": "alchemist-i-gilding-iron-rrg-ck",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/gilding-iron",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-gilding-iron-rrg-ck.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-gilding-iron-rrg-ck.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-gilding-iron-rrg-ck.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-gilding-iron-rrg-ck.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/gilding-iron.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-bp",
+      "title": {
+        "english": "On the Four Elements",
+        "ancient_greek": "Περὶ τῶν τεσσάρων στοιχείων"
+      },
+      "url_slug": "alchemist-i-four-elements-rrg-bp",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/four-elements",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-four-elements-rrg-bp.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-four-elements-rrg-bp.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-four-elements-rrg-bp.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-four-elements-rrg-bp.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/four-elements.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-au",
+      "title": {
+        "english": "On the Gathering of Philosophers",
+        "ancient_greek": "Περὶ συνάξεως τῶν φιλοσόφων"
+      },
+      "url_slug": "alchemist-i-gathering-philosophers-rrg-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/gathering-philosophers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-gathering-philosophers-rrg-au.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-gathering-philosophers-rrg-au.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-gathering-philosophers-rrg-au.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-gathering-philosophers-rrg-au.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/gathering-philosophers.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-al",
+      "title": {
+        "english": "On the Metallic Stone and Where It Is Made",
+        "ancient_greek": "Περὶ τοῦ μεταλλικοῦ λιθοῦ ἐν οἷς τοῖς τόποις"
+      },
+      "url_slug": "alchemist-i-metallic-stone-rrg-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/metallic-stone",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-metallic-stone-rrg-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-metallic-stone-rrg-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-metallic-stone-rrg-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-metallic-stone-rrg-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/metallic-stone.epub"
+      }
+    },
+    {
+      "eul_wid": "rrg-aw",
+      "title": {
+        "english": "Ouroboros Dragon, Version 1",
+        "ancient_greek": "Ὁ οὐροβόρος δράκων"
+      },
+      "url_slug": "alchemist-i-ouroboros-dragon-version-1-rrg-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/ouroboros-dragon-version-1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-ouroboros-dragon-version-1-rrg-aw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-ouroboros-dragon-version-1-rrg-aw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-ouroboros-dragon-version-1-rrg-aw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-ouroboros-dragon-version-1-rrg-aw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/ouroboros-dragon-version-1.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/zosimus-of-panopolis/burnt-copper-az",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-burnt-copper-az-tyc-az.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-burnt-copper-az-tyc-az.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-burnt-copper-az-tyc-az.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis-burnt-copper-az-tyc-az.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/burnt-copper-az.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}
